@@ -1,4 +1,6 @@
-![preview](./intro.gif)
+<div align="center">
+	<img src="https://github.com/jrzvnn/jrzvnn/raw/main/intro.gif" alt="Hello. I'm Joriz. I like code. Thanks for reading.">
+</div>
 
 <!--
 **jrzvnn/jrzvnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,7 @@
 <div align="center">
 	<img src="https://github.com/jrzvnn/jrzvnn/blob/main/screenshot.gif" alt="Trex.">
 </div>
+&nbsp; 
 
 * 💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
 * 🤖 Learning NLP and CV, Exploring Amazon Web Services
@@ -70,6 +71,6 @@
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
 
 

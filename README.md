@@ -66,12 +66,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
-
-<details>
-  <summary>Spotify</summary>
-  <br>
-  <a href="https://open.spotify.com/user/217td4qrc6mzqjodfalmzjpdi?si=fd68c7d4d78e4d10">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi&count=10&unique=true">
-  </a>
-</details>
+<p align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi)</p>
 

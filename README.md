@@ -69,8 +69,7 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
-<!-- <img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi&count=10&unique=true"> -->
 
 

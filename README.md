@@ -66,5 +66,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
-<p align="center">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi)</p>
+<img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi&count=10&unique=true">
+
 

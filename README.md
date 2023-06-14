@@ -53,13 +53,13 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF7400.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23E34F26.svg?style=for-the-badge&logo=Beautiful%20Soup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-%237A7A7A.svg?style=for-the-badge&logo=GeoPandas&logoColor=white)](https://geopandas.org/)
+<!-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF7400.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/) -->
+<!-- [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23E34F26.svg?style=for-the-badge&logo=Beautiful%20Soup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/) -->
+<!-- [![GeoPandas](https://img.shields.io/badge/GeoPandas-%237A7A7A.svg?style=for-the-badge&logo=GeoPandas&logoColor=white)](https://geopandas.org/) -->
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=for-the-badge&logo=APIs&logoColor=white)](https://en.wikipedia.org/wiki/Application_programming_interface)
+<!-- [![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=for-the-badge&logo=APIs&logoColor=white)](https://en.wikipedia.org/wiki/Application_programming_interface) -->
 [![SpreadSheets](https://img.shields.io/badge/SpreadSheets-%231B5E20.svg?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Vi/Vim](https://img.shields.io/badge/Vi%2FVim-%23019733.svg?style=for-the-badge&logo=Vim&logoColor=white)](https://www.vim.org/)
@@ -68,5 +68,58 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
+<details>
+  <summary>Github Trophy</summary>
+  <br>
+  <a href="https://jrzvnn.github.io">
+  <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=jrzvnn&theme=gruvbox&no-frame=true">
+</a>  
+  
+</details> <details>
+  <summary>Github Stats</summary>
+  <br>
+  <a href="https://jrzvnn.github.io">
+  <img alt="Github Stats" src="https://github-readme-stats-jrzvnn.vercel.app/api?username=jrzvnn&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&rank_icon=github&hide_title=true">
+</a>  
+  
+</details> 
+  
+  <details>
+  <summary>Github Stats with Private Contributions</summary>
+  <br>
+ <a href="https://jrzvnn.github.io">
+<img alt="Github Stats with Private Contributions" src="https://jrzvnn.github.io/github-stats/generated/overview.svg">
+</a>
+</details>
+  
+<details>
+  <summary>Most Used Languages</summary>
+  <br>
+ <a href="https://jrzvnn.github.io">
+<img alt="Most Used Languages" src="https://github-readme-stats-jrzvnn.vercel.app/api/top-langs?username=jrzvnn&include_all_commits=true&count_private=true&theme=gruvbox&hide_title=true&langs_count=10&layout=donut">
+</a>
+</details>
 
+ <details>
+  <summary>Most Used Languages by File Size</summary>
+  <br>
+ <a href="https://jrzvnn.github.io">
+<img alt="Most Used Languages by File Size" src="https://jrzvnn.github.io/github-stats/generated/languages.svg">
+</a>
+</details>
+<details>
+  <summary>Most Used Languages in Last 7 Days (Wakatime)</summary>
+  <br>
+ <a href="https://jrzvnn.github.io">
+<img alt="Most Used Languages in Last 7 Days (Wakatime)" src="https://github-readme-stats-jrzvnn.vercel.app/api/wakatime?username=jrzvnn&hide_title=true&layout=compact">
+</a>
+</details>
+
+<details>
+  <summary>Spotify</summary>
+  <br>
+<a href="https://jrzvnn.github.io">
+<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=7xx9e7hwq1qyown0m4ut78pcz&count=10&unique=true">
+</a>
+</details>
 

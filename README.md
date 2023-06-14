@@ -1,11 +1,12 @@
-💻 **Workspace**
+<h4 align="center"><samp> Hi there! 👋  Welcome to my Github! I'm passionate about leveraging AI/ML to solve real-world problems, and I enjoy working with Linux systems while exploring the vast possibilities of cloud technologies. 🤖🐧☁️ </samp></h4>
 
-💻 **Workspace**
 
-![Linux Mint Cinnamon 21](https://img.shields.io/badge/Linux%20Mint%20Cinnamon%2021-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20WSL-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Android 13](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
+🤖 Learning NLP and CV, Exploring Amazon Web Services
+🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+⚡ Fun fact: I can solve a Rubik's Cube in less than 15 seconds
+📫 How to reach me: jrzvnn@gmail.com
 
 💬 **Follow**
 
@@ -15,6 +16,13 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/217td4qrc6mzqjodfalmzjpdi?si=b93099b9078c4ccb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jrz-vnn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrzvnn@gmail.com)
+
+💻 **Workspace**
+
+![Linux Mint Cinnamon 21](https://img.shields.io/badge/Linux%20Mint%20Cinnamon%2021-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20WSL-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Android 13](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 📓 **Languages**
 

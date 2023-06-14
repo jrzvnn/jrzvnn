@@ -1,7 +1,5 @@
 <h4 align="center"><samp> Hi there! 👋  Welcome to my Github! I'm passionate about leveraging AI/ML to solve real-world problems, and I enjoy working with Linux systems while exploring the vast possibilities of cloud technologies. 🤖🐧☁️ </samp></h4>
 
-
-
 💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
 🤖 Learning NLP and CV, Exploring Amazon Web Services
 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
@@ -44,7 +42,7 @@
 [![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)](https://neovim.io/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/)
+![eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=Sublime%20Text&logoColor=white)](https://www.sublimetext.com/)
 
 📚 **Frameworks, Tools and Libraries**

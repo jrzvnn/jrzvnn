@@ -70,9 +70,8 @@
 <details>
   <summary>Spotify</summary>
   <br>
-<a href="https://jrzvnn.github.io">
-<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi&count=10&unique=true">
-</a>
+  <a href="https://open.spotify.com/user/217td4qrc6mzqjodfalmzjpdi?si=fd68c7d4d78e4d10">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=217td4qrc6mzqjodfalmzjpdi&count=10&unique=true">
+  </a>
 </details>
 
-<!-- https://open.spotify.com/user/217td4qrc6mzqjodfalmzjpdi?si=fd68c7d4d78e4d10 -->

@@ -68,6 +68,9 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
+
 <details>
   <summary>Github Trophy</summary>
   <br>
@@ -119,7 +122,6 @@
   <summary>Spotify</summary>
   <br>
 <a href="https://jrzvnn.github.io">
-<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=7xx9e7hwq1qyown0m4ut78pcz&count=10&unique=true">
+<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=6b0c3016df034b5e&count=10&unique=true">
 </a>
 </details>
-

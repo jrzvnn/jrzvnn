@@ -1,9 +1,6 @@
 <h4 align="center"><samp> Hi there! 👋  Welcome to my Github! I'm passionate about leveraging AI/ML to solve real-world problems, and I enjoy working with Linux systems while exploring the vast possibilities of cloud technologies. 🤖🐧☁️ </samp></h4>
 
-![preview](./intro.gif)
-<div align="center">
-	<img src="C:\Users\jrzvn\Documents\jrzvnn\screenshot.gif" alt="trex">
-</div>
+![preview](./screenshot.gif)
 
 * 💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
 * 🤖 Learning NLP and CV, Exploring Amazon Web Services

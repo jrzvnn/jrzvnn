@@ -67,13 +67,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
 
-<p><img alt="Most Used Languages by File Size" src="https://jrzvnn.github.io/github-readme-stats/generated/languages.svg"></p>
-<p><img alt="Most Used Languages in Last 7 Days (Wakatime)" src="https://github-readme-stats-jrzvnn.vercel.app/api/wakatime?username=jrzvnn&hide_title=true&layout=compact"></p>
-
 <details>
   <summary>Spotify</summary>
   <br>
 <a href="https://jrzvnn.github.io">
-<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=6b0c3016df034b5e&count=10&unique=true">
+<img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=fd68c7d4d78e4d10&count=10&unique=true">
 </a>
 </details>
+
+<!-- https://open.spotify.com/user/217td4qrc6mzqjodfalmzjpdi?si=fd68c7d4d78e4d10 -->

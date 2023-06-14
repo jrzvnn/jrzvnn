@@ -1,10 +1,10 @@
 <h4 align="center"><samp> Hi there! 👋  Welcome to my Github! I'm passionate about leveraging AI/ML to solve real-world problems, and I enjoy working with Linux systems while exploring the vast possibilities of cloud technologies. 🤖🐧☁️ </samp></h4>
 
-💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
-🤖 Learning NLP and CV, Exploring Amazon Web Services
-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-⚡ Fun fact: I can solve a Rubik's Cube in less than 15 seconds
-📫 How to reach me: jrzvnn@gmail.com
+* 💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
+* 🤖 Learning NLP and CV, Exploring Amazon Web Services
+* 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors 
+* ⚡ Fun fact: I can solve a Rubik's Cube in less than 15 seconds
+* 📫 How to reach me: jrzvnn@gmail.com
 
 💬 **Follow**
 

@@ -23,57 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jrz-vnn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrzvnn@gmail.com)
 
-💻 **Workspace**
-
-![Linux Mint Cinnamon 21](https://img.shields.io/badge/Linux%20Mint%20Cinnamon%2021-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu WSL](https://img.shields.io/badge/Ubuntu%20WSL-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Android 13](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-📓 **Languages**
-
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
-[![SQL](https://img.shields.io/badge/SQL-%2300F.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)](https://www.lua.org/)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
-[![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%2300A7E7.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-💻 **IDE/Editors**
-
-[![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)](https://neovim.io/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-![eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=for-the-badge&logo=Sublime%20Text&logoColor=white)](https://www.sublimetext.com/)
-
-📚 **Frameworks, Tools and Libraries**
-
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
-[![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![SpreadSheets](https://img.shields.io/badge/SpreadSheets-%231B5E20.svg?style=for-the-badge&logo=Google%20Sheets&logoColor=white)](https://www.google.com/sheets/about/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Vi/Vim](https://img.shields.io/badge/Vi%2FVim-%23019733.svg?style=for-the-badge&logo=Vim&logoColor=white)](https://www.vim.org/)
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
-[![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/s3/)
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrzvnn&show_icons=true&locale=en&layout=compact" alt="jrzvnn" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrzvnn&show_icons=true&locale=en" alt="jrzvnn" /></p>
-
-
+<div align=center>
+<img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&wakatime=false&wakatime.url=waka_a0582026-93de-4e3f-a67c-00b9ab44c897&wakatime.user=jrzvnn&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Asia%2FManila)
+</div>

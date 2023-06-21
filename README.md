@@ -27,13 +27,3 @@
 <img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
 </div>
 
-From: 10 July 2020 - To: 06 August 2022
-
-Total Time: 1,464 hrs 54 mins
-
-Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
-Markdown           132 hrs 33 mins >>-----------------------   08.43 %
-TeX                103 hrs 52 mins >>-----------------------   06.61 %
-HTML               94 hrs 48 mins  >>-----------------------   06.03 %
-Nim                64 hrs 31 mins  >------------------------   04.11 %
-Other              47 hrs 58 mins  >------------------------   03.05 %

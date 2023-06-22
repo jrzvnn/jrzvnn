@@ -1,0 +1,29 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Initial Commit"
+          COMMIT_EMAIL: "jrzvnn@gmail.com"
+          COMMIT_USERNAME: "jrzvnn"
+          SECTION_NAME: "jrzvnn"
+          SHOW_SHORT_INFO: "False"
+          COMMIT_BY_ME: "True"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TIMEZONE: "False"
+          SYMBOL_VERSION: 3

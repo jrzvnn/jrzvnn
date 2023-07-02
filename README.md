@@ -13,7 +13,7 @@
 * 📫 How to reach me: jrzvnn@gmail.com
 * 👇 Hit in your console or terminal to connect with me.
 ```bash
-npx jrzvnn
+$ npx jrzvnn
 ```
 <div align="center">
 

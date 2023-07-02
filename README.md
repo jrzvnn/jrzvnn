@@ -11,7 +11,10 @@
 * 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors 
 * ⚡ Fun fact: I can solve a Rubik's Cube in less than 15 seconds
 * 📫 How to reach me: jrzvnn@gmail.com
-
+* 👇 Hit in your console or terminal to connect with me.
+```bash
+npx jrzvnn
+```
 <div align="center">
 
 💬 **Follow**

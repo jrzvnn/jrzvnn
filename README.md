@@ -137,11 +137,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Mukesh Ambani&#39;s JioCinema, which had 400M+ viewers on IPL cricket streams, acquired rights from NBC, HBO, and WBD, and is challenging Disney in India &lpar;Financial Times&rpar;](http://www.techmeme.com/230703/p13#a230703p13)
- - [Tidal’s prices are going up, like nearly every other music service](https://www.theverge.com/2023/7/3/23782820/tidal-price-increase-hifi)
- - [Pornhub blocks access in Mississippi and Virginia over age verification laws](https://www.theverge.com/2023/7/3/23782776/pornhub-blocks-mississippi-virginia-age-verification-laws)
- - [The Galaxy Watch 5 hits a clearance price of $199 ahead of the Watch 6 launch](https://www.androidauthority.com/samsung-galaxy-watch-5-deal-3341781/)
- - [India&#39;s Jio Platforms unveils a $12 4G phone with mobile payment tech and access to Jio&#39;s video and music streaming, alongside a new $1.5/month 14GB data plan &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230703/p12#a230703p12)<!-- TECH:END -->
+ - [Want Big Red’s service on the cheap? Consider a Verizon MVNO instead](https://www.androidauthority.com/verizon-mvno-3340555/)
+ - [Apple pulls the plug on wrestling series &#39;Monster Factory&#39; after lackluster first season](https://appleinsider.com/articles/23/07/03/apple-pulls-the-plug-on-wrestling-series-monster-factory-after-lackluster-first-season?utm_medium=rss)
+ - [Sweden&#39;s privacy watchdog says &quot;Companies must stop using Google Analytics&quot; and issues $1M+ in fines to businesses, including telco Tele2, that used the service &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230703/p14#a230703p14)
+ - [Samsung launches One UI 5.1.1 beta, delivers a bevy of features and improvements](https://www.androidauthority.com/one-ui-update-features-3341768/)
+ - [Real-life Pixel 8 Pro breaks cover, gets casually shared on Reddit](https://www.androidauthority.com/google-pixel-8-pro-reddit-share-3341830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

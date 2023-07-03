@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi there! 👋  Welcome to my Github! I'm passionate about leveraging AI/ML to solve real-world problems, and I enjoy working with Linux systems while exploring the vast possibilities of cloud technologies. 🤖🐧☁️ </samp></h4>
+<h4 align="center"><samp>Greetings 👋, fellow code adventurer! Prepare to embark on a journey through my GitHub repository, where every line of code has been carefully crafted to deliver maximum pun-tastic enjoyment. 🚀 </samp></h4>
 
 <div align="center">
 	<img src="https://github.com/jrzvnn/jrzvnn/blob/main/screenshot.gif" alt="Trex.">

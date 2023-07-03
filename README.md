@@ -126,7 +126,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
-<!-- GAME:END -->
+ - [Zelda: Tears Of The Kingdom Fans Have Had Enough Of Elon Musk](https://kotaku.com/zelda-tears-kingdom-japan-elon-musk-bombing-twitter-1850601402)
+ - [I miss when The Witcher was Netflix’s monster-of-the-week show](https://www.polygon.com/23775801/witcher-netflix-monsters-episodic-serial-format-season-4)
+ - [Nightmare &#39;Giga&#39; Roller Coaster Shut Down After Someone Spots Massive Crack](https://kotaku.com/giga-roller-coaster-fury-325-carowinds-amusement-park-1850601248)
+ - [Youtube renews war on adblockers by testing out a three-video limit](https://www.pcgamer.com/youtube-renews-war-on-adblockers-by-testing-out-a-three-video-limit)
+ - [Logan Paul still hasn&#39;t refunded victims of his crypto videogame scam](https://www.pcgamer.com/logan-paul-still-hasnt-refunded-victims-of-his-crypto-videogame-scam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

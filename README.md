@@ -146,10 +146,10 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - ⏩ [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
  - 😝 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
+ - 😝 [Wow](http://9gag.com/gag/aZDz64W)
+ - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - 😝 [Film shorts](http://9gag.com/gag/aDYOyw7)
  - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
 
 ---

@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
  - 😝 [European prisoners](http://9gag.com/gag/amApjP4)
- - 😝 [Wow](http://9gag.com/gag/aZDz64W)
- - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
- - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 👉 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)<!-- MEMES:END -->
+ - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
+ - 😝 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
+ - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
 
 ---

@@ -137,11 +137,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
- - [Daily deals: 52% off Apple Watch, Amazon Fire HD 10 $75, $40 off Apple TV, more](https://appleinsider.com/articles/23/07/03/daily-deals-52-off-apple-watch-amazon-fire-hd-10-75-40-off-apple-tv-more?utm_medium=rss)
- - [At a Shanghai event, Chinese chipmakers and suppliers were grim but defiant about US plans to widen export controls; YMTC urged suppliers to show &quot;integrity&quot; &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230703/p11#a230703p11)
- - [28 Best Fourth of July Sales: Couches, Bidets, and TVs](https://www.wired.com/story/fourth-of-july-sales-2023/)
- - [Humane announces its wearable communicator will be named &#39;Humane Ai Pin&#39;](https://appleinsider.com/articles/23/07/03/humane-announces-its-wearable-communicator-will-be-named-humane-ai-pin?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Mukesh Ambani&#39;s JioCinema, which had 400M+ viewers on IPL cricket streams, acquired rights from NBC, HBO, and WBD, and is challenging Disney in India &lpar;Financial Times&rpar;](http://www.techmeme.com/230703/p13#a230703p13)
+ - [Tidal’s prices are going up, like nearly every other music service](https://www.theverge.com/2023/7/3/23782820/tidal-price-increase-hifi)
+ - [Pornhub blocks access in Mississippi and Virginia over age verification laws](https://www.theverge.com/2023/7/3/23782776/pornhub-blocks-mississippi-virginia-age-verification-laws)
+ - [The Galaxy Watch 5 hits a clearance price of $199 ahead of the Watch 6 launch](https://www.androidauthority.com/samsung-galaxy-watch-5-deal-3341781/)
+ - [India&#39;s Jio Platforms unveils a $12 4G phone with mobile payment tech and access to Jio&#39;s video and music streaming, alongside a new $1.5/month 14GB data plan &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230703/p12#a230703p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

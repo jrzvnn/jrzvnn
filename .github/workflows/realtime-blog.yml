@@ -1,4 +1,4 @@
-name: Updated BLog Posts 
+name: Updated Blog Posts 
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every day, at 1300, to avoid spam in commits

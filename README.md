@@ -123,19 +123,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-### 📣 Game news for the hour
-
-<!-- GAME:START -->
-<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
 <!-- TECH:END -->
 
-### 📣 Memes of the hour
-
-<!-- MEMES:START -->
-<!-- MEMES:END -->
 
 ---

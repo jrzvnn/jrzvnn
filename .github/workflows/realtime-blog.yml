@@ -12,7 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: TECH
-          commit_message: "#${{ github.run_number }} Updated tech articles"
+          commit_message: "Updated tech articles"
           committer_username: jrzvnn
           disable_sort: False
           max_post_count: 5
@@ -23,7 +23,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
-          commit_message: "#${{ github.run_number }} New batch of memes"
+          commit_message: "New batch of memes"
           committer_username: jrzvnn
           disable_sort: False
           max_post_count: 5
@@ -34,7 +34,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: GAME
-          commit_message: "#${{ github.run_number }} Gaming updates"
+          commit_message: "Gaming updates"
           committer_username: jrzvnn
           disable_sort: False
           max_post_count: 5

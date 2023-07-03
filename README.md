@@ -131,7 +131,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
+ - [Daily deals: 52% off Apple Watch, Amazon Fire HD 10 $75, $40 off Apple TV, more](https://appleinsider.com/articles/23/07/03/daily-deals-52-off-apple-watch-amazon-fire-hd-10-75-40-off-apple-tv-more?utm_medium=rss)
+ - [At a Shanghai event, Chinese chipmakers and suppliers were grim but defiant about US plans to widen export controls; YMTC urged suppliers to show &quot;integrity&quot; &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230703/p11#a230703p11)
+ - [28 Best Fourth of July Sales: Couches, Bidets, and TVs](https://www.wired.com/story/fourth-of-july-sales-2023/)
+ - [Humane announces its wearable communicator will be named &#39;Humane Ai Pin&#39;](https://appleinsider.com/articles/23/07/03/humane-announces-its-wearable-communicator-will-be-named-humane-ai-pin?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

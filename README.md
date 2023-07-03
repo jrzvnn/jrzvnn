@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Put These July 2023 Game Releases On Your Radar](https://kotaku.com/games-releases-july-2023-what-to-play-ps5-switch-xbox-p-1850602842)
  - [14 Weird Things Diehard Zelda: Tears of the Kingdom Fans Have To Explain](https://kotaku.com/zelda-tears-of-the-kingdom-totk-link-fairies-switch-rpg-1850601064)
+ - [An online &#39;Bullet Chess&#39; championship is drawing big cash and big names](https://www.pcgamer.com/an-online-bullet-chess-championship-is-drawing-big-cash-and-big-names)
  - [GTA 6 Should Steal This Feature From Fortnite](https://kotaku.com/gta-6-grand-theft-auto-radio-stations-songs-fortnite-1850602740)
- - [A new PS4 emulator is in development from the creator of RPCS3, though it&#39;s likely years away from running games](https://www.pcgamer.com/a-new-ps4-emulator-is-in-development-from-the-creator-of-rpcs3-though-its-likely-years-away-from-running-games)
- - [Only Up! Pulled From Steam After Becoming A Twitch Sensation [Update]](https://kotaku.com/only-up-twitch-steam-delisted-pulled-copyright-dispute-1850597603)
- - [MrBeast’s Face Is Haunting Every YouTube Video With This One Weird Tool](https://kotaku.com/mrbeast-youtube-thumbnail-trick-chrome-extension-free-1850602507)<!-- GAME:END -->
+ - [Starfield and Baldur&#39;s Gate 3 have reignited the &#39;quantity vs quality&#39; debate around RPGs that promise a billion hours of gameplay, but I think they can actually deliver](https://www.pcgamer.com/starfield-and-baldurs-gate-3-have-reignited-the-quantity-vs-quality-debate-around-rpgs-that-promise-a-billion-hours-of-gameplay-but-i-think-they-can-actually-deliver)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

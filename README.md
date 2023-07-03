@@ -123,13 +123,19 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
+### 🎮 Game news for the hour
 
-### 📣 Tech news for the hour
+<!-- GAME:START -->
+<!-- GAME:END -->
+
+### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane announces its wearable communicator will be named &#39;Humane Ai Pin&#39;](https://appleinsider.com/articles/23/07/03/humane-announces-its-wearable-communicator-will-be-named-humane-ai-pin?utm_medium=rss)
- - [New low price on the MacBook Air 2023](https://www.androidauthority.com/macbook-air-2023-deal-3341749/)
- - [Netflix is now streaming Insecure, and more HBO shows are coming](https://www.theverge.com/2023/7/3/23782654/netflix-hbo-streaming-deal-insecure-band-of-brothers)<!-- TECH:END -->
+<!-- TECH:END -->
 
+### 😂 Memes of the hour
+
+<!-- MEMES:START -->
+<!-- MEMES:END -->
 
 ---

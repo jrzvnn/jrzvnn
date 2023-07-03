@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
- - 😝 [European prisoners](http://9gag.com/gag/amApjP4)
- - ⏩ [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - 😝 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+ - 😝 [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
+ - 😝 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
+ - ⏩ [America and Europe have a problem, but one is bigger](http://9gag.com/gag/aMEOoDG)
+ - 😝 [Nokia wall](http://9gag.com/gag/axomEmW)
+ - 👉 [The French firefighter who was killed on the job yesterday while trying to put out a fire started by rioters in Saint-Denis has been identified as 24-year-old Dorian Damelincourt.](http://9gag.com/gag/a2KOENZ)<!-- MEMES:END -->
 
 ---

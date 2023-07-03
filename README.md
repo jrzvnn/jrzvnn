@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify still dominant music streaming service in the US](https://appleinsider.com/articles/23/07/03/spotify-still-dominant-music-streaming-service-in-the-us?utm_medium=rss)
- - [Apple says it will ask SCOTUS to revisit an Epic case ruling that Apple cannot keep devs from offering links in apps to payment options outside the App Store &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230703/p19#a230703p19)
- - [Google updates privacy policy to train its AI on everything you post online](https://www.androidauthority.com/google-privacy-policy-ai-3341871/)
- - [Mastodon refreshes its official Android app with Material You support and adds 294K users over the weekend, though MAUs are still well below their peak &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230703/p18#a230703p18)
- - [Instagram&#39;s Twitter-like &quot;text-based conversation app&quot; Threads has appeared in the Google Play store in some European countries &lpar;Insider&rpar;](http://www.techmeme.com/230703/p17#a230703p17)<!-- TECH:END -->
+ - [Twitter employees say that removing support for legacy APIs is what broke TweetDeck, and the company will be moving users to the &quot;new&quot; version of TweetDeck &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230703/p21#a230703p21)
+ - [Want the Uncarrier’s service on the cheap? Consider a T-Mobile MVNO instead](https://www.androidauthority.com/t-mobile-mvno-3341857/)
+ - [London-based Revolut plans to stop offering Solana, Polygon, and Cardano for US customers on Sept. 18, after its provider Bakkt decided to delist the tokens &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230703/p20#a230703p20)
+ - [Twitter is going to force TweetDeck users to switch over to the ‘new’ version](https://www.theverge.com/2023/7/3/23783092/twitter-tweetdeck-new-preview-force-legacy-apis)
+ - [Spotify still dominant music streaming service in the US](https://appleinsider.com/articles/23/07/03/spotify-still-dominant-music-streaming-service-in-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

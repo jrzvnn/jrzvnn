@@ -90,3 +90,31 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <div align=center>
 <img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
 </div>
+
+ <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="63" height="63" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="63" height="63" /> <br />
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=md" alt="md" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="63" height="63" /> <br />
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="63" height="63" />
+  <img src="https://skillicons.dev/icons?i=express" alt="express" width="63" height="63" />
+</div>

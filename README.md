@@ -6,12 +6,12 @@
 </div>
 &nbsp; 
 
-* 💻 I’m an Artificial Intelligence intern, currently taking up Computer Science 
-* 🤖 Learning NLP and CV, Exploring Amazon Web Services
+* 💻 I’m an Artificial Intelligence intern, taking up Computer Science 
+* 🤖 Learning NLP, AWS and React.
 * 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors 
-* ⚡ Fun fact: I can solve a Rubik's Cube in less than 15 seconds
-* 📫 How to reach me: jrzvnn@gmail.com
+* ⚡ Fun fact: Can solve a Rubik's Cube less than 15 seconds
 * 👉 `npx jrzvnn` Hit in your console or terminal to connect with me.
+* 📫 How to reach me: jrzvnn@gmail.com
 
 <div align="center">
 
@@ -24,10 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jrz-vnn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrzvnn@gmail.com)
 
-
-<div align=center>
-<img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
-</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2052%20mins-blue)
@@ -87,8 +83,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.17 % 
 ```
 
-
-
-
  Last Updated on 03/07/2023 12:10:55 UTC
 <!--END_SECTION:waka-->
+
+
+<div align=center>
+<img align=center src=https://metrics.lecoq.io/jrzvnn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FManila)
+</div>

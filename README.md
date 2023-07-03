@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - ⏩ [Wow](http://9gag.com/gag/aZDz64W)
- - 😝 [Bodycam from controversial shooting of 14-year-old Jor&#39;Dell Richardson by Aurora, Colorado police](http://9gag.com/gag/aqeYPqj)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+ - 😝 [European prisoners](http://9gag.com/gag/amApjP4)
+ - 😝 [Wow](http://9gag.com/gag/aZDz64W)
+ - ⏩ [What ?](http://9gag.com/gag/aGEOXe0)
+ - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 👉 [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)<!-- MEMES:END -->
 
 ---

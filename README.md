@@ -128,11 +128,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Detective Pikachu Is Still One Of The Best Pokémon Games](https://kotaku.com/detective-pikachu-returns-pokemon-3ds-game-switch-1850601737)
- - [Thank the GPU Gods! A new graphics card power connector to replace the troublesome 12VHPWR connector](https://www.pcgamer.com/thank-the-gpu-gods-a-new-graphics-card-power-connector-to-replace-the-troublesome-12vhpwr-connector)
- - [This medieval murder mystery is worth it for the nuns’ chemistry](https://www.polygon.com/reviews/23778989/misericorde-review-murder-mystery-game-steam-pc)
- - [Diablo IV Players Are Following Rats To Find Good Loot](https://kotaku.com/diablo-iv-4-loot-drop-rats-dungeon-arpg-blizzard-1850601762)
- - [Guitar Hero Player Gets Perfect Score On Colleen Ballinger’s Apology](https://kotaku.com/youtube-is-colleen-ballinger-drama-netflix-apology-1850601572)<!-- GAME:END -->
+ - [Nier creator Yoko Taro lost his freaky mask and replaced it with something even worse](https://www.pcgamer.com/nier-creator-yoko-taro-lost-his-freaky-mask-and-replaced-it-with-something-even-worse)
+ - [How to find the best Prime Day deals](https://www.polygon.com/amazon-prime-day/23778326/how-to-find-best-deals-tips)
+ - [The Story Behind Star Wars Jedi: Survivor’s Infamous Fan-Favorite Boss](https://kotaku.com/star-wars-jedi-survivor-rick-door-technician-boss-who-1850601917)
+ - [&#39;We are killing Sony&#39;: A 272-page PDF of classified Sega of America docs from the mid-90s is now something you can just download](https://www.pcgamer.com/we-are-killing-sony-a-272-page-pdf-of-classified-sega-of-america-docs-from-the-mid-90s-is-now-something-you-can-just-download)
+ - [Detective Pikachu Is Still One Of The Best Pokémon Games](https://kotaku.com/detective-pikachu-returns-pokemon-3ds-game-switch-1850601737)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

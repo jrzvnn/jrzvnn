@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
- - 😝 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
- - ⏩ [America and Europe have a problem, but one is bigger](http://9gag.com/gag/aMEOoDG)
- - 😝 [Nokia wall](http://9gag.com/gag/axomEmW)
- - 👉 [The French firefighter who was killed on the job yesterday while trying to put out a fire started by rioters in Saint-Denis has been identified as 24-year-old Dorian Damelincourt.](http://9gag.com/gag/a2KOENZ)<!-- MEMES:END -->
+ - 😝 [Sometimes there is really nothing you can do about it](http://9gag.com/gag/a2KOzrD)
+ - 😝 [He definitely says what up playa](http://9gag.com/gag/aZDRqBQ)
+ - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---

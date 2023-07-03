@@ -131,7 +131,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Humane announces its wearable communicator will be named &#39;Humane Ai Pin&#39;](https://appleinsider.com/articles/23/07/03/humane-announces-its-wearable-communicator-will-be-named-humane-ai-pin?utm_medium=rss)
+ - [New low price on the MacBook Air 2023](https://www.androidauthority.com/macbook-air-2023-deal-3341749/)
+ - [Netflix is now streaming Insecure, and more HBO shows are coming](https://www.theverge.com/2023/7/3/23782654/netflix-hbo-streaming-deal-insecure-band-of-brothers)
+ - [Galaxy Z Fold 5 spotted in the wild, folds almost completely flat](https://www.androidauthority.com/samsung-galaxy-z-fold-5-hinge-3341738/)
+ - [One Shot of a Kidney Protein Gave Monkeys a Brain Boost](https://www.wired.com/story/one-shot-of-a-kidney-protein-gave-monkeys-a-brain-boost/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

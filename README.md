@@ -128,11 +128,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Counter-Strike 2 introduces the feature we&#39;ve all been waiting for: grenade inspections](https://www.pcgamer.com/counter-strike-2-introduces-the-feature-weve-all-been-waiting-for-grenade-inspections)
+ - [I love this proposed Kerbal Space Program Lego set very much](https://www.pcgamer.com/i-love-this-proposed-kerbal-space-program-lego-set-very-much)
  - [Nier creator Yoko Taro lost his freaky mask and replaced it with something even worse](https://www.pcgamer.com/nier-creator-yoko-taro-lost-his-freaky-mask-and-replaced-it-with-something-even-worse)
  - [How to find the best Prime Day deals](https://www.polygon.com/amazon-prime-day/23778326/how-to-find-best-deals-tips)
- - [The Story Behind Star Wars Jedi: Survivor’s Infamous Fan-Favorite Boss](https://kotaku.com/star-wars-jedi-survivor-rick-door-technician-boss-who-1850601917)
- - [&#39;We are killing Sony&#39;: A 272-page PDF of classified Sega of America docs from the mid-90s is now something you can just download](https://www.pcgamer.com/we-are-killing-sony-a-272-page-pdf-of-classified-sega-of-america-docs-from-the-mid-90s-is-now-something-you-can-just-download)
- - [Detective Pikachu Is Still One Of The Best Pokémon Games](https://kotaku.com/detective-pikachu-returns-pokemon-3ds-game-switch-1850601737)<!-- GAME:END -->
+ - [The Story Behind Star Wars Jedi: Survivor’s Infamous Fan-Favorite Boss](https://kotaku.com/star-wars-jedi-survivor-rick-door-technician-boss-who-1850601917)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A new PS4 emulator is in development from the creator of RPCS3, though it&#39;s likely years away from running games](https://www.pcgamer.com/a-new-ps4-emulator-is-in-development-from-the-creator-of-rpcs3-though-its-likely-years-away-from-running-games)
+ - [Only Up! Pulled From Steam After Becoming A Twitch Sensation [Update]](https://kotaku.com/only-up-twitch-steam-delisted-pulled-copyright-dispute-1850597603)
+ - [MrBeast’s Face Is Haunting Every YouTube Video With This One Weird Tool](https://kotaku.com/mrbeast-youtube-thumbnail-trick-chrome-extension-free-1850602507)
  - [Counter-Strike 2 introduces the feature we&#39;ve all been waiting for: grenade inspections](https://www.pcgamer.com/counter-strike-2-introduces-the-feature-weve-all-been-waiting-for-grenade-inspections)
- - [I love this proposed Kerbal Space Program Lego set very much](https://www.pcgamer.com/i-love-this-proposed-kerbal-space-program-lego-set-very-much)
- - [Nier creator Yoko Taro lost his freaky mask and replaced it with something even worse](https://www.pcgamer.com/nier-creator-yoko-taro-lost-his-freaky-mask-and-replaced-it-with-something-even-worse)
- - [How to find the best Prime Day deals](https://www.polygon.com/amazon-prime-day/23778326/how-to-find-best-deals-tips)
- - [The Story Behind Star Wars Jedi: Survivor’s Infamous Fan-Favorite Boss](https://kotaku.com/star-wars-jedi-survivor-rick-door-technician-boss-who-1850601917)<!-- GAME:END -->
+ - [I love this proposed Kerbal Space Program Lego set very much](https://www.pcgamer.com/i-love-this-proposed-kerbal-space-program-lego-set-very-much)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

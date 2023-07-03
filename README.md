@@ -126,28 +126,16 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate All Things Anime on Xbox and Xbox Game Pass this July](https://news.xbox.com/en-us/2023/07/03/xbox-anime-month/)
- - [Overwatch 2 is getting the anime treatment](https://www.pcgamer.com/overwatch-2-is-getting-the-anime-treatment)
- - [Sacrificing my Necro&#39;s minions is the best thing I&#39;ve ever done in Diablo 4](https://www.pcgamer.com/sacrificing-my-necros-minions-is-the-best-thing-ive-ever-done-in-diablo-4)
- - [Zelda: Tears Of The Kingdom Fans Have Had Enough Of Elon Musk](https://kotaku.com/zelda-tears-kingdom-japan-elon-musk-bombing-twitter-1850601402)
- - [I miss when The Witcher was Netflix’s monster-of-the-week show](https://www.polygon.com/23775801/witcher-netflix-monsters-episodic-serial-format-season-4)<!-- GAME:END -->
+<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
- - [Daily deals: 52% off Apple Watch, Amazon Fire HD 10 $75, $40 off Apple TV, more](https://appleinsider.com/articles/23/07/03/daily-deals-52-off-apple-watch-amazon-fire-hd-10-75-40-off-apple-tv-more?utm_medium=rss)
- - [At a Shanghai event, Chinese chipmakers and suppliers were grim but defiant about US plans to widen export controls; YMTC urged suppliers to show &quot;integrity&quot; &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230703/p11#a230703p11)
- - [28 Best Fourth of July Sales: Couches, Bidets, and TVs](https://www.wired.com/story/fourth-of-july-sales-2023/)
- - [Humane announces its wearable communicator will be named &#39;Humane Ai Pin&#39;](https://appleinsider.com/articles/23/07/03/humane-announces-its-wearable-communicator-will-be-named-humane-ai-pin?utm_medium=rss)<!-- TECH:END -->
+<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - ⏩ [Seltinsweet &lpar;yes she does&rpar;](http://9gag.com/gag/aPg1EAg)
- - 😝 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+<!-- MEMES:END -->
 
 ---

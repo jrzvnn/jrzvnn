@@ -7,7 +7,7 @@
 &nbsp; 
 
 * 💻 I’m an Artificial Intelligence intern, taking up Computer Science 
-* 🤖 Learning NLP, AWS and React.
+* 🤖 Learning NLP, AWS and FERN Stack.
 * 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors 
 * ⚡ Fun fact: Can solve a Rubik's Cube less than 15 seconds
 * 👉 `npx jrzvnn` Hit in your console or terminal to connect with me.

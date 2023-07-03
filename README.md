@@ -126,7 +126,11 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
-<!-- GAME:END -->
+ - [Nimona’s radical page-to-screen story changes were a queer necessity](https://www.polygon.com/23779997/nimona-book-comic-vs-movie-changes-queer-reading)
+ - [Celebrate All Things Anime on Xbox and Xbox Game Pass this July](https://news.xbox.com/en-us/2023/07/03/xbox-anime-month/)
+ - [Overwatch 2 is getting the anime treatment](https://www.pcgamer.com/overwatch-2-is-getting-the-anime-treatment)
+ - [Sacrificing my Necro&#39;s minions is the best thing I&#39;ve ever done in Diablo 4](https://www.pcgamer.com/sacrificing-my-necros-minions-is-the-best-thing-ive-ever-done-in-diablo-4)
+ - [Zelda: Tears Of The Kingdom Fans Have Had Enough Of Elon Musk](https://kotaku.com/zelda-tears-kingdom-japan-elon-musk-bombing-twitter-1850601402)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

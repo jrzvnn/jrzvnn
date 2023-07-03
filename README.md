@@ -127,7 +127,9 @@ C++                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Humane announces its wearable communicator will be named &#39;Humane Ai Pin&#39;](https://appleinsider.com/articles/23/07/03/humane-announces-its-wearable-communicator-will-be-named-humane-ai-pin?utm_medium=rss)
+ - [New low price on the MacBook Air 2023](https://www.androidauthority.com/macbook-air-2023-deal-3341749/)
+ - [Netflix is now streaming Insecure, and more HBO shows are coming](https://www.theverge.com/2023/7/3/23782654/netflix-hbo-streaming-deal-insecure-band-of-brothers)<!-- TECH:END -->
 
 
 ---

@@ -34,7 +34,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: GAME
-          commit_message: "#${{ github.run_number }} Gaming updates #}"
+          commit_message: "#${{ github.run_number }} Gaming updates"
           committer_username: jrzvnn
           disable_sort: False
           max_post_count: 5

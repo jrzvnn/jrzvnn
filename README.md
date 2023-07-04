@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 3 Best Smart Displays &lpar;2023&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
+ - [iPhone 15 rumored to get much bigger batteries](https://appleinsider.com/articles/23/07/04/iphone-15-battery-rumored-to-get-much-bigger-batteries?utm_medium=rss)
+ - [How SoftBank is playing catch-up despite focusing on AI since 2018; PitchBook says the firm invested in just one of the 26 generative AI startups valued at $1B+ &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/230704/p13#a230704p13)
  - [Poll: Have you ever bought a sponsored product you saw in a YouTube video?](https://www.androidauthority.com/bought-sponsored-product-youtube-video-poll-3342073/)
- - [Cync Dynamic Effects Smart Lights Review &lpar;2023&rpar;: Neon Shapes](https://www.wired.com/review/cync-dynamic-effects-smart-lights/)
- - [Samsung Display sues BOE in Texas, accusing the Chinese rival of infringing five of its patents for mobile OLED displays; Samsung dominates the OLED market &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/230704/p12#a230704p12)
- - [Nothing Phone 2’s upgraded glyph interface explored in new video](https://www.theverge.com/2023/7/4/23783503/nothing-phone-2-hands-on-mkbhd-glyph-interface)
- - [Yahoo CEO Jim Lanzone says the company is profitable as a private firm and plans a future IPO; Lanzone joined after Yahoo&#39;s September 2021 spinout from Verizon &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230704/p11#a230704p11)<!-- TECH:END -->
+ - [Cync Dynamic Effects Smart Lights Review &lpar;2023&rpar;: Neon Shapes](https://www.wired.com/review/cync-dynamic-effects-smart-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

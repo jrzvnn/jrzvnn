@@ -147,9 +147,9 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [This is called karma](http://9gag.com/gag/aVbVn0P)
- - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 😝 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - 👉 [That escalated quickly -.-](http://9gag.com/gag/a1POA46)<!-- MEMES:END -->
+ - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---

@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, whattt???](http://9gag.com/gag/a2KLQe9)
+ - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
  - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
- - ⏩ [Film shorts](http://9gag.com/gag/aDYOyw7)
- - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+ - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - 😝 [Film shorts](http://9gag.com/gag/aDYOyw7)
+ - 👉 [Bodycam from controversial shooting of 14-year-old Jor&#39;Dell Richardson by Aurora, Colorado police](http://9gag.com/gag/aqeYPqj)<!-- MEMES:END -->
 
 ---

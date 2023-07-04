@@ -182,8 +182,8 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The National Music Publishers Association: in February 2023, Spotify had 44.4M US subscribers, Apple Music had 32.6M, Amazon Music had 29.3M, YouTube had 8.5M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230704/p21#a230704p21)
  - [The 10 best Chrome extensions of 2023](https://www.androidauthority.com/best-chrome-extensions-3341953/)
  - [Firefox ending support for macOS Mojave and earlier versions](https://appleinsider.com/articles/23/07/04/firefox-ending-support-for-macos-mojave-and-earlier-versions?utm_medium=rss)
- - [Twitter claims advanced notice about rate limiting would have allowed bad actors to evade detection and says rate limiting had a &quot;minimal&quot; effect on advertising &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230704/p20#a230704p20)
- - [A look at Spill, an invite-only Twitter alternative designed as a safe destination for LGBTQ and Black people that added 100K+ users over the past three days &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230704/p19#a230704p19)<!-- TECH:END -->
+ - [Best Roku Deals: Save on Our Favorite Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
+ - [Best Fitbit Deals: Save on Top-Rated Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere: Disney+ Hotstar remains India&#39;s streaming leader with ~50M subscribers in Q1 and a 29% share, despite losing IPL cricket rights, vs. Prime Video&#39;s 12.4M &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/230703/p27#a230703p27)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
  - [The entire story of Twitter under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [APK teardown of Instagram&#39;s Threads app that appeared prematurely on the Play Store reveals the app&#39;s website, www.threads.net, and details on how it will work &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230703/p26#a230703p26)
- - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)
- - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [An APK teardown of Instagram&#39;s Threads, uploaded to Google Play ahead of the app&#39;s launch, reveals the threads.net website and details on how Threads will work &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230703/p26#a230703p26)
+ - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -12,7 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: TECH
-          commit_message: "[AUTOMATED] Updated tech articles"
+          commit_message: "Updated tech articles"
           committer_username: jrzvnn  
           disable_sort: False
           max_post_count: 5
@@ -23,7 +23,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
-          commit_message: "[AUTOMATED] New batch of memes"
+          commit_message: "New batch of memes"
           committer_username: jrzvnn
           disable_sort: False
           max_post_count: 5

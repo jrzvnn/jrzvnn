@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every movie and show coming to Netflix in July](https://www.polygon.com/2023/7/4/23774006/new-netflix-movies-tv-shows-watch-july-2023)
+ - [Diablo 4 players stumble on rare and impossibly large Butcher, the game&#39;s real Lord of Terror](https://www.pcgamer.com/diablo-4-players-stumble-on-rare-and-impossibly-large-butcher-the-games-real-lord-of-terror)
+ - [Instagram to launch Twitter competitor this week, with perfect timing](https://www.polygon.com/23783479/threads-twitter-competitor-instagram-facebook-meta)
  - [The problem with Diablo 4&#39;s endgame is that it&#39;s already happened by the time you hit max level](https://www.pcgamer.com/the-problem-with-diablo-4s-endgame-is-that-its-already-happened-by-the-time-you-hit-max-level)
- - [Nvidia&#39;s RTX 40-series cards haven&#39;t yet gained traction with gamers on Steam](https://www.pcgamer.com/nvidias-rtx-40-series-cards-havent-yet-gained-traction-with-gamers-on-steam)
- - [Can Rufflet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23780214/can-rufflet-be-shiny-braviary)
- - [Starfield having only four romanceable NPCs is &#39;a good thing&#39;, says Dragon Age veteran](https://www.pcgamer.com/starfield-having-only-four-romanceable-npcs-is-a-good-thing-says-dragon-age-veteran)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/03/this-weeks-deals-with-gold-and-spotlight-sale-280/)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 40-series cards haven&#39;t yet gained traction with gamers on Steam](https://www.pcgamer.com/nvidias-rtx-40-series-cards-havent-yet-gained-traction-with-gamers-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

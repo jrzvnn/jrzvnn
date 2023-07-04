@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
- - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - 😝 [Peace to everyone](http://9gag.com/gag/avQdYrq)
+ - 😝 [Would anyways...](http://9gag.com/gag/arm26o6)
+ - ⏩ [The Australian Bee has a unique type of Beehive](http://9gag.com/gag/aZDzA5n)
  - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---

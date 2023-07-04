@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
- - 😝 [No drag allowed on train in Japan](http://9gag.com/gag/az2Y03b)
- - ⏩ [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 😝 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
+ - ⏩ [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - 😝 [Film shorts](http://9gag.com/gag/aDYOyw7)
+ - 👉 [What ?](http://9gag.com/gag/aGEOXe0)<!-- MEMES:END -->
 
 ---

@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I wish the Yiga Clan weren’t such silly geese in Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23778930/zelda-tears-of-the-kingdom-yiga-clan-villains-kohga)
- - [It might be tougher than expected to buy Apple&#39;s Vision Pro headset in its first year](https://www.pcgamer.com/it-might-be-tougher-than-expected-to-buy-apples-vision-pro-headset-in-its-first-year)
- - [Persona 3 Reload&#39;s all-new English voices have me worried about my favourite boy](https://www.pcgamer.com/persona-3-reloads-all-new-english-voices-have-me-worried-about-my-favourite-boy)
- - [Even though they&#39;re smaller, Overwatch 2&#39;s story missions still won&#39;t be seasonal](https://www.pcgamer.com/even-though-theyre-smaller-overwatch-2s-story-missions-still-wont-be-seasonal)
- - [Valve Does Not Want To Discourage The Use Of AI In Games](https://kotaku.com/valve-steam-pc-games-ai-art-hentai-copyright-dalle-1850603853)<!-- GAME:END -->
+ - [What Nimona the movie loses by nerfing the comic’s best relationship](https://www.polygon.com/23780316/netflix-nimona-changes-from-comic-ballister-goldenloin-relationship)
+ - [Hollow Knight&#39;s newest mod feels like it should be paid DLC](https://www.pcgamer.com/hollow-knights-newest-mod-feels-like-it-should-be-paid-dlc)
+ - [The last of Diablo 4’s rarest items has been found](https://www.polygon.com/23783615/diablo-4-melted-heart-of-selig-confirmed-drop)
+ - [If Friday the 13th must die, it&#39;s going out with all players on a high](https://www.pcgamer.com/if-friday-the-13th-must-die-its-going-out-with-all-players-on-a-high)
+ - [I wish the Yiga Clan weren’t such silly geese in Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23778930/zelda-tears-of-the-kingdom-yiga-clan-villains-kohga)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

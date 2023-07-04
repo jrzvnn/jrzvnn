@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day alert: Unmatched deals on the Fire TV devices](https://www.androidauthority.com/prime-day-fire-tv-devices-3342160/)
- - [Green line issue on phone screen: What is it, and how to fix it?](https://www.androidauthority.com/how-to-fix-green-line-issue-on-phone-screen-3342058/)
- - [Apple may still be liable for $7 billion in UK 4G iPad &amp; iPhone patent trial](https://appleinsider.com/articles/23/07/04/apples-bid-to-overturn-4g-ipad-iphone-patent-ruling-rejected-by-uk-court?utm_medium=rss)
- - [No one will be able to buy Google’s ADT-4 Android TV box](https://www.androidauthority.com/adt-4-google-android-tv-box-3342122/)
- - [Here’s how to get a free $5 credit for Amazon Prime Day](https://www.androidauthority.com/free-credit-prime-day-3342141/)<!-- TECH:END -->
+ - [These Best Buy-refurbed AirPods 3 are a steal at just $109.99](https://www.androidauthority.com/airpods-3-deal-3342187/)
+ - [The best Fourth of July sales happening now](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
+ - [A judge issues an injunction blocking key Biden admin officials from contacting social media companies, in a case brought by MO and LA AGs over vaccine posts &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230704/p16#a230704p16)
+ - [Daily deals July 4: M2 MacBook Air $979, Windows 11 license for $29.99, Apple Watch savings](https://appleinsider.com/articles/23/07/04/daily-deals-july-4-m2-macbook-air-979-windows-11-license-for-2999-apple-watch-savings?utm_medium=rss)
+ - [OpenAI temporarily pulls its Browse with Bing beta feature from ChatGPT Plus after users found that requesting a URL&#39;s full text let them bypass some paywalls &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/230704/p15#a230704p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

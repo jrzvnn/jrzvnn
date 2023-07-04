@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nokia wall](http://9gag.com/gag/axomEmW)
+ - 😝 [Old but gold](http://9gag.com/gag/amARXW9)
  - 😝 [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
  - ⏩ [France](http://9gag.com/gag/anzGexB)
- - 😝 [Same goes for any dogmatic and radical religion.](http://9gag.com/gag/aA0vR02)
- - 👉 [Simple.](http://9gag.com/gag/a3ZNPY5)<!-- MEMES:END -->
+ - 😝 [Simple.](http://9gag.com/gag/a3ZNPY5)
+ - 👉 [Same goes for any dogmatic and radical religion.](http://9gag.com/gag/aA0vR02)<!-- MEMES:END -->
 
 ---

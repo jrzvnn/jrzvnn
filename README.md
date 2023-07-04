@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/amARXW9)
- - 😝 [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
- - ⏩ [France](http://9gag.com/gag/anzGexB)
  - 😝 [Simple.](http://9gag.com/gag/a3ZNPY5)
- - 👉 [Same goes for any dogmatic and radical religion.](http://9gag.com/gag/aA0vR02)<!-- MEMES:END -->
+ - 😝 [Same goes for any dogmatic and radical religion.](http://9gag.com/gag/aA0vR02)
+ - ⏩ [Old but gold](http://9gag.com/gag/amARXW9)
+ - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
+ - 👉 [Johnny cash, who was dying, is one of the few singers who sang a cover better than the original version &lpar;hurt - nine inch nails&rpar;](http://9gag.com/gag/az24gMm)<!-- MEMES:END -->
 
 ---

@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look in the comments](http://9gag.com/gag/a1PE4jb)
+ - 😝 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
+ - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
  - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - ⏩ [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - 😝 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - 👉 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)<!-- MEMES:END -->
+ - 👉 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)<!-- MEMES:END -->
 
 ---

@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rolls-Royce Spectre EV 2023 Review: Stylish First Effort](https://www.wired.com/review/review-rolls-royce-spectre/)
- - [Tidal to increase prices of its base HiFi tier by $1 to $11/month and family tier by $2 to $17/month in the US starting August 1; HiFi Plus pricing is unchanged &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/230703/p24#a230703p24)
- - [Tweets aren’t showing up in Google results as often because of changes at Twitter](https://www.theverge.com/2023/7/3/23783153/google-twitter-tweets-changes-rate-limits)
- - [Twitter’s ‘new’ Tweetdeck lives behind a verified paywall](https://www.theverge.com/2023/7/3/23783092/twitter-tweetdeck-new-preview-force-legacy-apis)
- - [Twitter says in 30 days users must be Verified to access TweetDeck, as it updates TweetDeck with support for full composer functionality, Spaces, and more &lpar;@twittersupport&rpar;](http://www.techmeme.com/230703/p23#a230703p23)<!-- TECH:END -->
+ - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)
+ - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)
+ - [DC Fast Charging: Know Before You Go in Your Electric Car     - CNET](https://www.cnet.com/roadshow/news/dc-fast-charging-know-before-you-go-in-your-electric-car/#ftag=CAD590a51e)
+ - [Instagram&#39;s Twitter competitor Threads is expected to launch on iOS on July 6, 2023 according to a pre-order listing in the App Store &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230703/p25#a230703p25)
+ - [Meta’s Twitter competitor launches on July 6th, according to the App Store](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

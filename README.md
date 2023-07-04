@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US plans to require AWS and other cloud providers to seek permission before providing services that use advanced AI chips to Chinese customers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230704/p3#a230704p3)
+ - [Open-Source Your Blender to Fight Electronic Waste](https://www.wired.com/story/open-source-your-blender-to-fight-electronic-waste/)
+ - [Cameron Winklevoss makes a ~$1.47B &quot;final offer&quot; to DCG CEO Barry Silbert for Genesis&#39; bankruptcy restructuring and threatens lawsuits if Silbert fails to agree &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/230704/p2#a230704p2)
  - [Threads, Meta’s Twitter rival, is ready to take off on July 6](https://www.androidauthority.com/threads-app-launch-date-3342013/)
- - [Google updates its privacy policy to say the company may use &quot;publicly available information&quot; to train its AI models and build products like Translate and Bard &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230704/p1#a230704p1)
- - [Ampere: Disney+ Hotstar remains India&#39;s streaming leader with ~50M subscribers in Q1 and a 29% share, despite losing IPL cricket rights, vs. Prime Video&#39;s 12.4M &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/230703/p27#a230703p27)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [The entire story of Twitter under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Google updates its privacy policy to say the company may use &quot;publicly available information&quot; to train its AI models and build products like Translate and Bard &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230704/p1#a230704p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

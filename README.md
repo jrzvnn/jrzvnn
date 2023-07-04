@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Add a tumbleweed companion who encourages you to do violence in Fallout: New Vegas with this mod](https://www.pcgamer.com/add-a-tumbleweed-companion-who-encourages-you-to-violence-to-fallout-new-vegas-with-this-mod)
+ - [Did Microsoft Just Announce A PlayStation 5 Slim And Pro?](https://kotaku.com/playstation-5-pro-slim-microsoft-xbox-series-s-x-sony-1850604418)
+ - [Add a tumbleweed companion who encourages violence in Fallout: New Vegas with this mod](https://www.pcgamer.com/add-a-tumbleweed-companion-who-encourages-you-to-violence-to-fallout-new-vegas-with-this-mod)
  - [Ubisoft hits Division 2 cheaters with 2-week bans and warns of worse to come if they don&#39;t knock it off](https://www.pcgamer.com/ubisoft-hits-division-2-cheaters-with-2-week-bans-and-warns-of-worse-to-come-if-they-dont-knock-it-off)
  - [Apple and Epic are headed to the Supreme Court](https://www.pcgamer.com/apple-and-epic-are-headed-to-the-supreme-court)
- - [Street Fighter 6&#39;s Modern controls are the accessibility breakthrough that finally let me compete in fighting games](https://www.pcgamer.com/street-fighter-6s-modern-controls-are-the-accessibility-breakthrough-that-finally-let-me-compete-in-fighting-games)
- - [With Elon Musk&#39;s Twitter in chaos Mark Zuckerberg sees his chance: Meta&#39;s Threads launches tomorrow](https://www.pcgamer.com/with-elon-musks-twitter-in-chaos-mark-zuckerberg-sees-his-chance-metas-threads-launches-tomorrow)<!-- GAME:END -->
+ - [Street Fighter 6&#39;s Modern controls are the accessibility breakthrough that finally let me compete in fighting games](https://www.pcgamer.com/street-fighter-6s-modern-controls-are-the-accessibility-breakthrough-that-finally-let-me-compete-in-fighting-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

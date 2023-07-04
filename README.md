@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to get a free $5 credit for Amazon Prime Day](https://www.androidauthority.com/free-credit-prime-day-3342141/)
- - [Unless Samsung gets flirty with Fitbit, the Galaxy Watch 6 may fall flat](https://www.androidauthority.com/samsung-galaxy-watch-6-samsung-health-3339813/)
- - [Generative AI in Games Will Create a Copyright Crisis](https://www.wired.com/story/video-games-ai-copyright/)
- - [There’s a lot of sci-fi streaming this summer](https://www.theverge.com/2023/7/4/23783619/sci-fi-streaming-summer-foundation-invasion-ahsoka-loki)
- - [The space telescope surveying the entire universe to understand dark matter and dark energy](https://www.theverge.com/2023/7/4/23783648/euclid-space-telescope-esa-dark-matter-dark-energy-explain)<!-- TECH:END -->
+ - [Prime Day alert: Unmatched deals on the Fire TV devices](https://www.androidauthority.com/prime-day-fire-tv-devices-3342160/)
+ - [Green line issue on phone screen: What is it, and how to fix it?](https://www.androidauthority.com/how-to-fix-green-line-issue-on-phone-screen-3342058/)
+ - [Apple may still be liable for $7 billion in UK 4G iPad &amp; iPhone patent trial](https://appleinsider.com/articles/23/07/04/apples-bid-to-overturn-4g-ipad-iphone-patent-ruling-rejected-by-uk-court?utm_medium=rss)
+ - [No one will be able to buy Google’s ADT-4 Android TV box](https://www.androidauthority.com/adt-4-google-android-tv-box-3342122/)
+ - [Here’s how to get a free $5 credit for Amazon Prime Day](https://www.androidauthority.com/free-credit-prime-day-3342141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

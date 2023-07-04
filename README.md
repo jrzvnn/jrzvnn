@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apple and Epic are headed to the Supreme Court](https://www.pcgamer.com/apple-and-epic-are-headed-to-the-supreme-court)
+ - [Street Fighter 6&#39;s Modern controls are the accessibility breakthrough that finally let me compete in fighting games](https://www.pcgamer.com/street-fighter-6s-modern-controls-are-the-accessibility-breakthrough-that-finally-let-me-compete-in-fighting-games)
  - [With Elon Musk&#39;s Twitter in chaos Mark Zuckerberg sees his chance: Meta&#39;s Threads launches tomorrow](https://www.pcgamer.com/with-elon-musks-twitter-in-chaos-mark-zuckerberg-sees-his-chance-metas-threads-launches-tomorrow)
  - [Katamari creator returns with a game starring a character stuck in a T-pose](https://www.pcgamer.com/katamari-creator-returns-with-a-game-starring-a-character-stuck-in-a-t-pose)
- - [Wunderkind builds &#39;fully compliant RISC-V computer&#39; entirely inside Terraria, then plays Pong on it](https://www.pcgamer.com/wunderkind-builds-fully-compliant-risc-v-computer-entirely-inside-terraria-then-plays-pong-on-it)
- - [PowerWash Simulator&#39;s New DLC Is Going To Clean Up &lpar;Not Sorry&rpar;](https://kotaku.com/powerwash-simulator-xbox-game-pass-dlc-final-fantasy-1850604099)
- - [What Nimona the movie loses by nerfing the comic’s best relationship](https://www.polygon.com/23780316/netflix-nimona-changes-from-comic-ballister-goldenloin-relationship)<!-- GAME:END -->
+ - [Wunderkind builds &#39;fully compliant RISC-V computer&#39; entirely inside Terraria, then plays Pong on it](https://www.pcgamer.com/wunderkind-builds-fully-compliant-risc-v-computer-entirely-inside-terraria-then-plays-pong-on-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

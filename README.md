@@ -138,7 +138,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the minutes
 
 <!-- MEMES:START -->
-
-<!-- MEMES:END -->
+ - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 😝 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - 😝 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
+ - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
 
 ---

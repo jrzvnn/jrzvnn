@@ -129,11 +129,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seven big tech companies say they’re platform gatekeepers under EU law](https://www.theverge.com/2023/7/4/23783790/eu-digital-markets-act-gatekeepers-apple-google-amazon-meta-tiktok)
  - [A likely fake 8-month-old Twitter account with a Blue check and 130K followers, suspended after WaPo informed Twitter, is a case study of political rage baiting &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230704/p18#a230704p18)
  - [Apple&#39;s Windows Game Porting Toolkit gets faster with new update](https://appleinsider.com/articles/23/07/04/apples-windows-game-porting-toolkit-gets-faster-with-new-update?utm_medium=rss)
  - [The 16 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [For Europeans, CJEU&#39;s Meta ruling could potentially close this chapter on surveillance capitalism, which relies on denying users a free choice over its tracking &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230704/p17#a230704p17)
- - [These Best Buy-refurbed AirPods 3 are a steal at just $109.99](https://www.androidauthority.com/airpods-3-deal-3342187/)<!-- TECH:END -->
+ - [For Europeans, CJEU&#39;s Meta ruling could potentially close this chapter on surveillance capitalism, which relies on denying users a free choice over its tracking &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230704/p17#a230704p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

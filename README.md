@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - 😝 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)
+ - 😝 [No drag allowed on train in Japan](http://9gag.com/gag/az2Y03b)
+ - ⏩ [We need a new plague](http://9gag.com/gag/aPg15oG)
  - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
- - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
- - 😝 [Film shorts](http://9gag.com/gag/aDYOyw7)
- - 👉 [Bodycam from controversial shooting of 14-year-old Jor&#39;Dell Richardson by Aurora, Colorado police](http://9gag.com/gag/aqeYPqj)<!-- MEMES:END -->
+ - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
 
 ---

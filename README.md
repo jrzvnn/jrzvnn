@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s RTX 40-series cards haven&#39;t yet gained traction with gamers on Steam](https://www.pcgamer.com/nvidias-rtx-40-series-cards-havent-yet-gained-traction-with-gamers-on-steam)
  - [Can Rufflet be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23780214/can-rufflet-be-shiny-braviary)
  - [Starfield having only four romanceable NPCs is &#39;a good thing&#39;, says Dragon Age veteran](https://www.pcgamer.com/starfield-having-only-four-romanceable-npcs-is-a-good-thing-says-dragon-age-veteran)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/07/03/this-weeks-deals-with-gold-and-spotlight-sale-280/)
- - [Today&#39;s Wordle hint and answer #745: Tuesday, July 4](https://www.pcgamer.com/wordle-answer-today-hint-745-july-4)
- - [Yoko Taro’s New Death Game Anime Sounds Typically Wild](https://kotaku.com/kamierabi-god-app-yoko-taro-nier-anime-expo-crunchyroll-1850603225)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #745: Tuesday, July 4](https://www.pcgamer.com/wordle-answer-today-hint-745-july-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

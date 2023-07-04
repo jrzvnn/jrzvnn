@@ -189,7 +189,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [Always be aware of your surroundings. - 2nd post, without hate speech. How long is it gonna make it this time?](http://9gag.com/gag/aQEyprq)
+ - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
 
 ---
 </div>

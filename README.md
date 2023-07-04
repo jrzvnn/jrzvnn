@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Please don’t buy this $2,200 Linux phone](https://www.androidauthority.com/purism-librem-liberty-phone-3342049/)
- - [The CJEU rules that Germany&#39;s Federal Cartel Office didn&#39;t overstep by demanding Meta overhaul its ad business in 2019; Meta says it is &quot;evaluating&quot; the ruling &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230704/p7#a230704p7)
- - [Post-pandemic loneliness is driving young US adults to use apps like Discord to make real-life friends; users say seeking friends as adults still carries stigma &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/230704/p6#a230704p6)
- - [What are ChatGPT plugins, and how to use them?](https://www.androidauthority.com/chatgpt-plugins-3341693/)
- - [Instagram’s Twitter competitor launches July 6th](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)<!-- TECH:END -->
+ - [Rumored Apple Watch Ultra with microLED may not arrive as soon as predicted](https://appleinsider.com/articles/23/07/04/rumored-apple-watch-ultra-with-microled-may-not-arrive-as-soon-as-predicted?utm_medium=rss)
+ - [Nothing shows off the Phone 2 in White color](https://www.androidauthority.com/nothing-phone-2-white-color-3342070/)
+ - [Wilfa Uniform Coffee Grinder Review: Great for Everything but Espresso](https://www.wired.com/review/wilfa-uniform-coffee-grinder/)
+ - [New Beats Fit Pro special Fragment Design edition launching July 7](https://appleinsider.com/articles/23/07/04/new-beats-fit-pro-special-fragment-design-edition-launching-july-7?utm_medium=rss)
+ - [Digital World Acquisition Corp. reaches a tentative SEC settlement over its planned Trump Media merger, agreeing to pay $18M and revise some of its filings &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230704/p9#a230704p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

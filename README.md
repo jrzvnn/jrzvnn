@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nier Creator Yoko Taro Lost His Iconic Mask At Anime Expo 2023](https://kotaku.com/yoko-taro-mask-nier-automata-emil-lost-anime-expo-2023-1850603039)
+ - [Terraria&#39;s devs have been trying to stop developing Terraria for years, but they just can&#39;t quit](https://www.pcgamer.com/terrarias-devs-have-been-trying-to-stop-developing-terraria-for-years-but-they-just-cant-quit)
  - [Put These July 2023 Game Releases On Your Radar](https://kotaku.com/games-releases-july-2023-what-to-play-ps5-switch-xbox-p-1850602842)
  - [14 Weird Things Diehard Zelda: Tears of the Kingdom Fans Have To Explain](https://kotaku.com/zelda-tears-of-the-kingdom-totk-link-fairies-switch-rpg-1850601064)
- - [An online &#39;Bullet Chess&#39; championship is drawing big cash and big names](https://www.pcgamer.com/an-online-bullet-chess-championship-is-drawing-big-cash-and-big-names)
- - [GTA 6 Should Steal This Feature From Fortnite](https://kotaku.com/gta-6-grand-theft-auto-radio-stations-songs-fortnite-1850602740)
- - [Starfield and Baldur&#39;s Gate 3 have reignited the &#39;quantity vs quality&#39; debate around RPGs that promise a billion hours of gameplay, but I think they can actually deliver](https://www.pcgamer.com/starfield-and-baldurs-gate-3-have-reignited-the-quantity-vs-quality-debate-around-rpgs-that-promise-a-billion-hours-of-gameplay-but-i-think-they-can-actually-deliver)<!-- GAME:END -->
+ - [An online &#39;Bullet Chess&#39; championship is drawing big cash and big names](https://www.pcgamer.com/an-online-bullet-chess-championship-is-drawing-big-cash-and-big-names)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

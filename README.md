@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The world&#39;s 500 richest people together gained $852B in H1 2023, the best half-year since H2 2020; Musk and Zuckerberg led with $96.6B and $58.9B, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/230704/p4#a230704p4)
  - [Sources: the US plans to require AWS and other cloud providers to seek permission before providing services that use advanced AI chips to Chinese customers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230704/p3#a230704p3)
  - [Open-Source Your Blender to Fight Electronic Waste](https://www.wired.com/story/open-source-your-blender-to-fight-electronic-waste/)
  - [Cameron Winklevoss makes a ~$1.47B &quot;final offer&quot; to DCG CEO Barry Silbert for Genesis&#39; bankruptcy restructuring and threatens lawsuits if Silbert fails to agree &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/230704/p2#a230704p2)
- - [Threads, Meta’s Twitter rival, is ready to take off on July 6](https://www.androidauthority.com/threads-app-launch-date-3342013/)
- - [Google updates its privacy policy to say the company may use &quot;publicly available information&quot; to train its AI models and build products like Translate and Bard &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230704/p1#a230704p1)<!-- TECH:END -->
+ - [Threads, Meta’s Twitter rival, is ready to take off on July 6](https://www.androidauthority.com/threads-app-launch-date-3342013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

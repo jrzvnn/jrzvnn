@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - ⏩ [This is called karma](http://9gag.com/gag/aVbVn0P)
- - 😝 [It will keel](http://9gag.com/gag/aVbVnyP)
- - 👉 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)<!-- MEMES:END -->
+ - 😝 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
+ - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
+ - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
 
 ---

@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
+ - [The entire story of Twitter under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [APK teardown of Instagram&#39;s Threads app that appeared prematurely on the Play Store reveals the app&#39;s website, www.threads.net, and details on how it will work &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230703/p26#a230703p26)
  - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)
- - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)
- - [DC Fast Charging: Know Before You Go in Your Electric Car     - CNET](https://www.cnet.com/roadshow/news/dc-fast-charging-know-before-you-go-in-your-electric-car/#ftag=CAD590a51e)
- - [Instagram&#39;s Twitter competitor Threads is expected to launch on iOS on July 6, 2023 according to a pre-order listing in the App Store &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230703/p25#a230703p25)
- - [Meta’s Twitter competitor launches on July 6th, according to the App Store](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)<!-- TECH:END -->
+ - [Instagram&#39;s Twitter knockoff &#39;Threads&#39; now available for pre-order on the App Store](https://appleinsider.com/articles/23/07/03/instagrams-twitter-knockoff-threads-now-available-for-pre-order-on-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

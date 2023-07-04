@@ -170,10 +170,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happily ever.](http://9gag.com/gag/aA0vr1R)
- - 😝 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
- - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 😝 [One calm redwood mf!.](http://9gag.com/gag/aGE7w0n)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+ - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
+ - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
 
 ---

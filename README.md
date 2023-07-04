@@ -51,11 +51,9 @@
 </div>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img alt="github-snake" src="github-snake.svg" width="100%"/>
+<img src="https://github.com/jrzvnn/jrzvnn/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <div align="center">
-	
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%208%20mins-blue)

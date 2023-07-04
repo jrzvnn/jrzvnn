@@ -147,9 +147,9 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
- - 😝 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
- - ⏩ [Remember her? She was killed by an Algerian woman in France. No one reacted. Now that the Algerian teenager died, the whole Algerian community is burning cities](http://9gag.com/gag/aBdO7KD)
- - 😝 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+ - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - ⏩ [This is called karma](http://9gag.com/gag/aVbVn0P)
+ - 😝 [It will keel](http://9gag.com/gag/aVbVnyP)
+ - 👉 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)<!-- MEMES:END -->
 
 ---

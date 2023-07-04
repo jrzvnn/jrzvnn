@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes there is really nothing you can do about it](http://9gag.com/gag/a2KOzrD)
- - 😝 [He definitely says what up playa](http://9gag.com/gag/aZDRqBQ)
- - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 😝 [Wait, whattt???](http://9gag.com/gag/a2KLQe9)
+ - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
+ - ⏩ [Film shorts](http://9gag.com/gag/aDYOyw7)
+ - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
+ - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
 
 ---

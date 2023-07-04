@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - 😝 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
- - ⏩ [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - 😝 [Film shorts](http://9gag.com/gag/aDYOyw7)
- - 👉 [What ?](http://9gag.com/gag/aGEOXe0)<!-- MEMES:END -->
+ - 😝 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - 😝 [Look in the comments](http://9gag.com/gag/a1PE4jb)
+ - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - 👉 [To rob a jewelry store](http://9gag.com/gag/aL1WR25)<!-- MEMES:END -->
 
 ---

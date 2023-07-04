@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumored Apple Watch Ultra with microLED may not arrive as soon as predicted](https://appleinsider.com/articles/23/07/04/rumored-apple-watch-ultra-with-microled-may-not-arrive-as-soon-as-predicted?utm_medium=rss)
- - [Nothing shows off the Phone 2 in White color](https://www.androidauthority.com/nothing-phone-2-white-color-3342070/)
- - [Wilfa Uniform Coffee Grinder Review: Great for Everything but Espresso](https://www.wired.com/review/wilfa-uniform-coffee-grinder/)
- - [New Beats Fit Pro special Fragment Design edition launching July 7](https://appleinsider.com/articles/23/07/04/new-beats-fit-pro-special-fragment-design-edition-launching-july-7?utm_medium=rss)
- - [Digital World Acquisition Corp. reaches a tentative SEC settlement over its planned Trump Media merger, agreeing to pay $18M and revise some of its filings &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230704/p9#a230704p9)<!-- TECH:END -->
+ - [Poll: Have you ever bought a sponsored product you saw in a YouTube video?](https://www.androidauthority.com/bought-sponsored-product-youtube-video-poll-3342073/)
+ - [Cync Dynamic Effects Smart Lights Review &lpar;2023&rpar;: Neon Shapes](https://www.wired.com/review/cync-dynamic-effects-smart-lights/)
+ - [Samsung Display sues BOE in Texas, accusing the Chinese rival of infringing five of its patents for mobile OLED displays; Samsung dominates the OLED market &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/230704/p12#a230704p12)
+ - [Nothing Phone 2’s upgraded glyph interface explored in new video](https://www.theverge.com/2023/7/4/23783503/nothing-phone-2-hands-on-mkbhd-glyph-interface)
+ - [Yahoo CEO Jim Lanzone says the company is profitable as a private firm and plans a future IPO; Lanzone joined after Yahoo&#39;s September 2021 spinout from Verizon &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230704/p11#a230704p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

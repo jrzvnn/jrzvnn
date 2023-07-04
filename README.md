@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - 😝 [Look in the comments](http://9gag.com/gag/a1PE4jb)
- - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - 👉 [To rob a jewelry store](http://9gag.com/gag/aL1WR25)<!-- MEMES:END -->
+ - 😝 [We need a new plague](http://9gag.com/gag/aPg15oG)
+ - 😝 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
+ - ⏩ [Remember her? She was killed by an Algerian woman in France. No one reacted. Now that the Algerian teenager died, the whole Algerian community is burning cities](http://9gag.com/gag/aBdO7KD)
+ - 😝 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
 
 ---

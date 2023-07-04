@@ -180,7 +180,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [US Judge blocks Biden officials from contacting social media sites](https://www.theverge.com/2023/7/4/23783822/free-speech-ruling-missouri-v-biden-dhs-fbi-cisa)
+ - [The National Music Publishers Association: in February 2023, Spotify had 44.4M US subscribers, Apple Music had 32.6M, Amazon Music had 29.3M, YouTube had 8.5M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230704/p21#a230704p21)
+ - [The 10 best Chrome extensions of 2023](https://www.androidauthority.com/best-chrome-extensions-3341953/)
+ - [Firefox ending support for macOS Mojave and earlier versions](https://appleinsider.com/articles/23/07/04/firefox-ending-support-for-macos-mojave-and-earlier-versions?utm_medium=rss)
+ - [Best Roku Deals: Save on Our Favorite Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

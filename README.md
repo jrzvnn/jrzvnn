@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Nimona the movie loses by nerfing the comic’s best relationship](https://www.polygon.com/23780316/netflix-nimona-changes-from-comic-ballister-goldenloin-relationship)
- - [Hollow Knight&#39;s newest mod feels like it should be paid DLC](https://www.pcgamer.com/hollow-knights-newest-mod-feels-like-it-should-be-paid-dlc)
- - [The last of Diablo 4’s rarest items has been found](https://www.polygon.com/23783615/diablo-4-melted-heart-of-selig-confirmed-drop)
- - [If Friday the 13th must die, it&#39;s going out with all players on a high](https://www.pcgamer.com/if-friday-the-13th-must-die-its-going-out-with-all-players-on-a-high)
- - [I wish the Yiga Clan weren’t such silly geese in Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23778930/zelda-tears-of-the-kingdom-yiga-clan-villains-kohga)<!-- GAME:END -->
+ - [With Elon Musk&#39;s Twitter in chaos Mark Zuckerberg sees his chance: Meta&#39;s Threads launches tomorrow](https://www.pcgamer.com/with-elon-musks-twitter-in-chaos-mark-zuckerberg-sees-his-chance-metas-threads-launches-tomorrow)
+ - [Katamari creator returns with a game starring a character stuck in a T-pose](https://www.pcgamer.com/katamari-creator-returns-with-a-game-starring-a-character-stuck-in-a-t-pose)
+ - [Wunderkind builds &#39;fully compliant RISC-V computer&#39; entirely inside Terraria, then plays Pong on it](https://www.pcgamer.com/wunderkind-builds-fully-compliant-risc-v-computer-entirely-inside-terraria-then-plays-pong-on-it)
+ - [PowerWash Simulator&#39;s New DLC Is Going To Clean Up &lpar;Not Sorry&rpar;](https://kotaku.com/powerwash-simulator-xbox-game-pass-dlc-final-fantasy-1850604099)
+ - [What Nimona the movie loses by nerfing the comic’s best relationship](https://www.polygon.com/23780316/netflix-nimona-changes-from-comic-ballister-goldenloin-relationship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

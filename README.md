@@ -137,9 +137,9 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 16 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
  - [For Europeans, CJEU&#39;s Meta ruling has the potential to end this chapter of surveillance capitalism, which relies on denying users a clear choice about tracking &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230704/p17#a230704p17)
  - [These Best Buy-refurbed AirPods 3 are a steal at just $109.99](https://www.androidauthority.com/airpods-3-deal-3342187/)
- - [Best Early Walmart Plus Week Deals Worth Buying Now     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)
  - [The best Fourth of July sales happening now](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
  - [A judge issues an injunction blocking key Biden admin officials from contacting social media companies, in a case brought by MO and LA AGs over vaccine posts &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230704/p16#a230704p16)<!-- TECH:END -->
 

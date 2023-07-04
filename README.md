@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Please don’t buy this $2,200 Linux phone](https://www.androidauthority.com/purism-librem-liberty-phone-3342049/)
+ - [The CJEU rules that Germany&#39;s Federal Cartel Office didn&#39;t overstep by demanding Meta overhaul its ad business in 2019; Meta says it is &quot;evaluating&quot; the ruling &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230704/p7#a230704p7)
  - [Post-pandemic loneliness is driving young US adults to use apps like Discord to make real-life friends; users say seeking friends as adults still carries stigma &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/230704/p6#a230704p6)
  - [What are ChatGPT plugins, and how to use them?](https://www.androidauthority.com/chatgpt-plugins-3341693/)
- - [Instagram’s Twitter competitor launches July 6th](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)
- - [The social web is changing: Twitter set up limits, Reddit alienated its users, TikTok could get banned, and Instagram has turned into an entertainment platform &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230704/p5#a230704p5)
- - [Motorola Razr series hits India, hints at standard Razr price in US](https://www.androidauthority.com/motorola-razr-2023-india-pricing-3342040/)<!-- TECH:END -->
+ - [Instagram’s Twitter competitor launches July 6th](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

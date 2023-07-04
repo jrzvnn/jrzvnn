@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - ⏩ [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
- - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - 😝 [Festival in Poland. She gave him a head in photo booth and the photos were displayed on the big public screen.](http://9gag.com/gag/aBd4QvA)
+ - 😝 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
+ - ⏩ [Look in the comments](http://9gag.com/gag/a1PE4jb)
+ - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
  - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
 
 ---

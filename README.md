@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple.](http://9gag.com/gag/a3ZNPY5)
- - 😝 [Same goes for any dogmatic and radical religion.](http://9gag.com/gag/aA0vR02)
- - ⏩ [Old but gold](http://9gag.com/gag/amARXW9)
- - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - 👉 [Johnny cash, who was dying, is one of the few singers who sang a cover better than the original version &lpar;hurt - nine inch nails&rpar;](http://9gag.com/gag/az24gMm)<!-- MEMES:END -->
+ - 😝 [Look in the comments](http://9gag.com/gag/a1PE4jb)
+ - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
+ - ⏩ [And there are people like this](http://9gag.com/gag/a3Zb99Q)
+ - 😝 [This really grinds my gear](http://9gag.com/gag/ajVWo3p)
+ - 👉 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)<!-- MEMES:END -->
 
 ---

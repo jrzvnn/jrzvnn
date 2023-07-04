@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the bakery are alright](http://9gag.com/gag/ap9Vov5)
- - 😝 [Sincerely, Bali Tourism Bureau](http://9gag.com/gag/anzGYwB)
- - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
  - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - 👉 [Ultimate Spiderbro](http://9gag.com/gag/aXnRb9v)<!-- MEMES:END -->
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
+ - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
 
 ---

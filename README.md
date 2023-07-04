@@ -137,11 +137,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads, Meta’s Twitter rival, is ready to take off on July 6](https://www.androidauthority.com/threads-app-launch-date-3342013/)
+ - [Google updates its privacy policy to say the company may use &quot;publicly available information&quot; to train its AI models and build products like Translate and Bard &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230704/p1#a230704p1)
  - [Ampere: Disney+ Hotstar remains India&#39;s streaming leader with ~50M subscribers in Q1 and a 29% share, despite losing IPL cricket rights, vs. Prime Video&#39;s 12.4M &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/230703/p27#a230703p27)
  - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)
- - [The entire story of Twitter under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [An APK teardown of Instagram&#39;s Threads, uploaded to Google Play ahead of the app&#39;s launch, reveals the threads.net website and details on how Threads will work &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230703/p26#a230703p26)
- - [Independence Day sales - the best tech and gadget deals this 4th of July](https://appleinsider.com/articles/23/07/04/independence-day-sales---the-best-tech-and-gadget-deals-this-4th-of-july?utm_medium=rss)<!-- TECH:END -->
+ - [The entire story of Twitter under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

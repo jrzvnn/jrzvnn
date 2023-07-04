@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Add a tumbleweed companion who encourages you to do violence in Fallout: New Vegas with this mod](https://www.pcgamer.com/add-a-tumbleweed-companion-who-encourages-you-to-violence-to-fallout-new-vegas-with-this-mod)
+ - [Ubisoft hits Division 2 cheaters with 2-week bans and warns of worse to come if they don&#39;t knock it off](https://www.pcgamer.com/ubisoft-hits-division-2-cheaters-with-2-week-bans-and-warns-of-worse-to-come-if-they-dont-knock-it-off)
  - [Apple and Epic are headed to the Supreme Court](https://www.pcgamer.com/apple-and-epic-are-headed-to-the-supreme-court)
  - [Street Fighter 6&#39;s Modern controls are the accessibility breakthrough that finally let me compete in fighting games](https://www.pcgamer.com/street-fighter-6s-modern-controls-are-the-accessibility-breakthrough-that-finally-let-me-compete-in-fighting-games)
- - [With Elon Musk&#39;s Twitter in chaos Mark Zuckerberg sees his chance: Meta&#39;s Threads launches tomorrow](https://www.pcgamer.com/with-elon-musks-twitter-in-chaos-mark-zuckerberg-sees-his-chance-metas-threads-launches-tomorrow)
- - [Katamari creator returns with a game starring a character stuck in a T-pose](https://www.pcgamer.com/katamari-creator-returns-with-a-game-starring-a-character-stuck-in-a-t-pose)
- - [Wunderkind builds &#39;fully compliant RISC-V computer&#39; entirely inside Terraria, then plays Pong on it](https://www.pcgamer.com/wunderkind-builds-fully-compliant-risc-v-computer-entirely-inside-terraria-then-plays-pong-on-it)<!-- GAME:END -->
+ - [With Elon Musk&#39;s Twitter in chaos Mark Zuckerberg sees his chance: Meta&#39;s Threads launches tomorrow](https://www.pcgamer.com/with-elon-musks-twitter-in-chaos-mark-zuckerberg-sees-his-chance-metas-threads-launches-tomorrow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

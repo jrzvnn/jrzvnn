@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
- - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - ⏩ [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 👉 [Throwing few hundreds](http://9gag.com/gag/aL1dqOz)<!-- MEMES:END -->
+ - 😝 [Nokia wall](http://9gag.com/gag/axomEmW)
+ - 😝 [Upvote money cat to receive good fortune within the next 48 hours](http://9gag.com/gag/a9qO3LD)
+ - ⏩ [France](http://9gag.com/gag/anzGexB)
+ - 😝 [Same goes for any dogmatic and radical religion.](http://9gag.com/gag/aA0vR02)
+ - 👉 [Simple.](http://9gag.com/gag/a3ZNPY5)<!-- MEMES:END -->
 
 ---

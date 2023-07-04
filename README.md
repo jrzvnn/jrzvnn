@@ -129,7 +129,7 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 04/07/2023 22:02:22 UTC
 <!--END_SECTION:waka-->
 
- <div align="center">
+<div align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+

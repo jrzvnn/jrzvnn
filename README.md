@@ -125,31 +125,17 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-### 🎮 Game news for the hour
 
-<!-- GAME:START -->
- - [Did Microsoft Just Announce A PlayStation 5 Slim And Pro?](https://kotaku.com/playstation-5-pro-slim-microsoft-xbox-series-s-x-sony-1850604418)
- - [Add a tumbleweed companion who encourages violence in Fallout: New Vegas with this mod](https://www.pcgamer.com/add-a-tumbleweed-companion-who-encourages-you-to-violence-to-fallout-new-vegas-with-this-mod)
- - [Ubisoft hits Division 2 cheaters with 2-week bans and warns of worse to come if they don&#39;t knock it off](https://www.pcgamer.com/ubisoft-hits-division-2-cheaters-with-2-week-bans-and-warns-of-worse-to-come-if-they-dont-knock-it-off)
- - [Apple and Epic are headed to the Supreme Court](https://www.pcgamer.com/apple-and-epic-are-headed-to-the-supreme-court)
- - [Street Fighter 6&#39;s Modern controls are the accessibility breakthrough that finally let me compete in fighting games](https://www.pcgamer.com/street-fighter-6s-modern-controls-are-the-accessibility-breakthrough-that-finally-let-me-compete-in-fighting-games)<!-- GAME:END -->
-
-### 💻 Tech news for the hour
+### 💻 Tech news for the minutes
 
 <!-- TECH:START -->
- - [Apple&#39;s Windows Game Porting Toolkit gets faster with new update](https://appleinsider.com/articles/23/07/04/apples-windows-game-porting-toolkit-gets-faster-with-new-update?utm_medium=rss)
- - [The 16 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [For Europeans, CJEU&#39;s Meta ruling could potentially close this chapter on surveillance capitalism, which relies on denying users a free choice over its tracking &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230704/p17#a230704p17)
- - [These Best Buy-refurbed AirPods 3 are a steal at just $109.99](https://www.androidauthority.com/airpods-3-deal-3342187/)
- - [Best Early Walmart Plus Week Deals Worth Buying Now     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
-### 😂 Memes of the hour
+<!-- TECH:END -->
+
+### 😂 Memes of the minutes
 
 <!-- MEMES:START -->
- - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
- - 😝 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)
- - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
- - 😝 [French patriots in Lyon are waking up, they will not give up their country without a fight: `Blue, white, red, France to the French!`](http://9gag.com/gag/aOxRg12)
- - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
+
+<!-- MEMES:END -->
 
 ---

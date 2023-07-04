@@ -168,10 +168,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
+ - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [If you stop eating I won\u2019t be so f**king broke](http://9gag.com/gag/aVbRWzd)
+ - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
  - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
- - ⏩ [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
- - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
+ - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
 
 ---

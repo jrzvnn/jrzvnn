@@ -128,11 +128,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valve Does Not Want To Discourage The Use Of AI In Games](https://kotaku.com/valve-steam-pc-games-ai-art-hentai-copyright-dalle-1850603853)
+ - [Harrison Ford is too old to play Indiana Jones — but it’s also key](https://www.polygon.com/23779042/harrison-ford-too-old-to-play-indiana-jones-dial-of-destiny)
+ - [How to catch tuna in Dave the Diver](https://www.pcgamer.com/dave-the-diver-tuna-catch)
  - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
- - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)
- - [Valve doesn’t have a problem with AI-generated games, but the law might](https://www.polygon.com/ai-artificial-intelligence/23783520/steam-valve-ai-content-policy)
- - [Final Fantasy 14&#39;s new minion is so horrendously underpowered, players are wondering if it&#39;s bugged](https://www.pcgamer.com/final-fantasy-14s-new-minion-is-so-horrendously-underpowered-players-are-wondering-if-its-bugged)
- - [Every movie and show coming to Netflix in July](https://www.polygon.com/2023/7/4/23774006/new-netflix-movies-tv-shows-watch-july-2023)<!-- GAME:END -->
+ - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 

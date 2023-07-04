@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is called karma](http://9gag.com/gag/aVbVn0P)
- - 😝 [And there are people like this](http://9gag.com/gag/a3Zb99Q)
- - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
- - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 😝 [Hope the bakery are alright](http://9gag.com/gag/ap9Vov5)
+ - 😝 [Sincerely, Bali Tourism Bureau](http://9gag.com/gag/anzGYwB)
+ - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
+ - 👉 [Ultimate Spiderbro](http://9gag.com/gag/aXnRb9v)<!-- MEMES:END -->
 
 ---

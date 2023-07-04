@@ -146,10 +146,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace to everyone](http://9gag.com/gag/avQdYrq)
- - 😝 [Would anyways...](http://9gag.com/gag/arm26o6)
- - ⏩ [The Australian Bee has a unique type of Beehive](http://9gag.com/gag/aZDzA5n)
- - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - 👉 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 😝 [This is called karma](http://9gag.com/gag/aVbVn0P)
+ - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
+ - ⏩ [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 😝 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - 👉 [That escalated quickly -.-](http://9gag.com/gag/a1POA46)<!-- MEMES:END -->
 
 ---

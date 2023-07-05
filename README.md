@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s Twitter rival Threads will skip the EU as it goes live everywhere else](https://www.androidauthority.com/meta-threads-app-3342506/)
+ - [Munich-based EGYM, which sells smart fitness hardware and software to measure how people work out, raised $225M led by Affinity Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230705/p17#a230705p17)
+ - [Billionaire brawl: all the latest on the cage match between Elon Musk and Mark Zuckerberg](https://www.theverge.com/23773413/elon-musk-mark-zuckerberg-cage-match-twitter-threads-instagram-meta)
  - [How to use or disable inline predictive text in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-or-disable-inline-predictive-text-in-macos-sonoma?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Ubisoft sees ‘major reduction’ in Rainbow Six Siege cheaters thanks to XIM detection](https://www.theverge.com/2023/7/5/23784149/ubisoft-xim-detection-rainbow-six-siege-mousetrap)
- - [How to Find the Right Pair of Hearing Aids     - CNET](https://www.cnet.com/health/medical/how-to-find-the-right-pair-of-hearing-aids/#ftag=CAD590a51e)
- - [A look at AI Dungeon and other games that let players create in-game content using generative AI, raising questions about authorship, ownership, and copyright &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230705/p16#a230705p16)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

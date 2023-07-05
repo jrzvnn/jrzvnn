@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
+ - [Sensor Tower: ChatGPT iOS app downloads and Bing app downloads in the US were down 38% MoM in June 2023; BofA estimates traffic to ChatGPT was down ~11% MoM &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230705/p20#a230705p20)
+ - [CADDi, which offers a B2B marketplace for the manufacturing industry and an AI-powered cloud service for managing drawing data, raised a $89M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230705/p19#a230705p19)
  - [Apple Music gets full performer &amp; composer credits in iOS 17 beta 3](https://appleinsider.com/articles/23/07/05/apple-music-gets-full-performer-composer-credits-in-ios-17-beta-3?utm_medium=rss)
- - [US Spies Are Buying Americans&#39; Private Data. Congress Has a Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
- - [10 Easy Ways to Improve Your Eye Health Every Day     - CNET](https://www.cnet.com/health/personal-care/10-easy-ways-to-improve-your-eye-health-every-day/#ftag=CAD590a51e)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [PSA: today is the last day to save on Xbox Game Pass](https://www.theverge.com/2023/7/5/23784604/xbox-game-pass-last-day-price-increase-deal-sale)<!-- TECH:END -->
+ - [US Spies Are Buying Americans&#39; Private Data. Congress Has a Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

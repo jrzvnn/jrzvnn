@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
  - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
  - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 👉 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)<!-- MEMES:END -->
+ - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
 
 ---
 </div>

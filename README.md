@@ -195,10 +195,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - 😝 [That escalated quickly -.-](http://9gag.com/gag/a1POA46)
- - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
+ - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - ⏩ [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
 
 ---
 </div>

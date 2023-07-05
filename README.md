@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An incredible father-daughter moment with Jackie Chan](http://9gag.com/gag/a3ZNvzr)
- - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
- - ⏩ [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 😝 [Always be aware of your surroundings. - 2nd post, without hate speech. How long is it gonna make it this time?](http://9gag.com/gag/aQEyprq)
+ - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
  - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 👉 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)<!-- MEMES:END -->
+ - 👉 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)<!-- MEMES:END -->
 
 ---
 </div>

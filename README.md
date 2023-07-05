@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - 😝 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
+ - ⏩ [277](http://9gag.com/gag/agoK05g)
  - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - ⏩ [Delicious, finally some f**king food](http://9gag.com/gag/aKEKPWg)
- - 😝 [Ultimate Spiderbro](http://9gag.com/gag/aXnRb9v)
- - 👉 [Motivation piggy.](http://9gag.com/gag/aA0vrXL)<!-- MEMES:END -->
+ - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
 
 ---
 </div>

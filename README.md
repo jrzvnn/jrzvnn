@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI forms Superalignment, a team to develop ways in managing &quot;superintelligent&quot; AI systems, and commits 20% of the compute it secured to date for the effort &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)
+ - [The Instagram Threads launch countdown jumped forward and is now targeting 7PM ET](https://www.theverge.com/2023/7/5/23784873/instagram-threads-launch-twitter-meta-countdown-7pm)
+ - [OpenAI forms Superalignment, a team for developing ways to steer and control &quot;superintelligent&quot; AI systems, with access to 20% of its compute secured to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)
  - [Gfycat, a Snap-owned GIF-hosting platform, plans to shut down on September 1, 2023; the site was down for five days in May due to an expired SSL certificate &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230705/p21#a230705p21)
- - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
- - [Sensor Tower: ChatGPT iOS app downloads and Bing app downloads in the US were down 38% MoM in June 2023; Bank of America: visits to ChatGPT were down ~11% MoM &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230705/p20#a230705p20)<!-- TECH:END -->
+ - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

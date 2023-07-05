@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
  - 😝 [Justice!!](http://9gag.com/gag/amARNMy)
- - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - ⏩ [Its Time](http://9gag.com/gag/aDYQ0DN)
- - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
+ - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 👉 [Good old days](http://9gag.com/gag/a6qGLRR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram launches a basic Threads web interface, offering an early look at what to expect before its July 6 launch; the service appears to have 2,500+ users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230705/p9#a230705p9)
- - [The Best Sustainable Clothing Brands You&#39;ve Probably Never Heard Of     - CNET](https://www.cnet.com/culture/fashion/the-best-sustainable-clothing-brands-you-probably-never-heard-of/#ftag=CAD590a51e)
- - [I Used Flipper Zero to Score Eponas in &#39;Tears of the Kingdom&#39;](https://www.wired.com/story/flipper-zero-horse-rave/)
- - [Managing Type 1 Diabetes Is Tricky. Can AI Help?](https://www.wired.com/story/managing-type-1-diabetes-is-tricky-can-ai-help/)
- - [AI Could Change How Blind People See the World](https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/)<!-- TECH:END -->
+ - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)
+ - [The Port of Nagoya, Japan&#39;s largest and busiest port, plans to resume operations on July 6 after a July 4 ransomware attack; no group has claimed the hack yet &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230705/p11#a230705p11)
+ - [T-Mobile owns the US for 5G coverage, with Verizon and AT&amp;T trailing way behind](https://www.androidauthority.com/t-mobile-5g-coverage-2023-3341214/)
+ - [5 Uses for ChatGPT that Aren’t Fan Fiction or Cheating at School](https://www.wired.com/story/5-surprising-uses-chatgpt/)
+ - [Foxconn reports Q2 revenue down 13.8% YoY to $41.76B and June revenue down 19.7% YoY to $13.6B due to weak consumer demand, but forecasts a brighter Q3 outlook &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230705/p10#a230705p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

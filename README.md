@@ -185,20 +185,12 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues third watchOS 10 developer beta](https://appleinsider.com/articles/23/07/05/apple-issues-third-watchos-10-developer-beta?utm_medium=rss)
- - [VW in talks to adopt Tesla’s EV charging plug, but Toyota is staying silent](https://www.theverge.com/2023/7/5/23784541/vw-toyota-tesla-nacs-ev-charging-plug-standard)
- - [Apple releases third developer beta for macOS Sonoma](https://appleinsider.com/articles/23/07/05/apple-releases-third-developer-beta-for-macos-sonoma?utm_medium=rss)
- - [Apple shares third developer beta of tvOS 17](https://appleinsider.com/articles/23/07/05/apple-shares-third-developer-beta-of-tvos-17?utm_medium=rss)
- - [Apple seeds third iOS 17 and iPadOS 17 developer betas](https://appleinsider.com/articles/23/07/05/apple-seeds-third-ios-17-and-ipados-17-developer-betas?utm_medium=rss)<!-- TECH:END -->
+<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+<!-- MEMES:END -->
 
 ---
 </div>

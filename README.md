@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
  - 😝 [277](http://9gag.com/gag/agoK05g)
- - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+ - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
 
 ---
 </div>

@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony WH-1000XM5 headphones drop to $299 for the first time](https://www.androidauthority.com/sony-wh-1000xm5-woot-deal-3342487/)
- - [Sony’s flagship noise-canceling WH-1000XM5 headphones are $100 off](https://www.theverge.com/2023/7/5/23784239/sony-wh1000xm5-headphones-star-wars-jedi-survivor-xbox-headset-deal-sale)
- - [The MLB will debut a new ‘virtual ballpark’ this weekend](https://www.theverge.com/2023/7/5/23784237/mlb-major-league-baseball-metaverse-virtual-reality-celebrity-all-star-game)
- - [Google confirms it’s training Bard on scraped web data, too](https://www.theverge.com/2023/7/5/23784257/google-ai-bard-privacy-policy-train-web-scraping)
- - [8BitDo’s latest controller is a wireless take on the Neo Geo CD’s gamepad](https://www.theverge.com/2023/7/5/23784157/8bitdo-neogeo-cd-wireless-controller-bluetooth-rechargeable)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Ubisoft sees ‘major reduction’ in Rainbow Six Siege cheaters thanks to XIM detection](https://www.theverge.com/2023/7/5/23784149/ubisoft-xim-detection-rainbow-six-siege-mousetrap)
+ - [A look at AI Dungeon and other games that let players create in-game content using generative AI, raising questions about authorship, ownership, and copyright &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230705/p16#a230705p16)
+ - [New Nothing Ear 2 colorway shown off in leak](https://www.androidauthority.com/nothing-ear-2-black-3342461/)
+ - [The Sony WH-1000XM5 headphones drop to $299 for the first time](https://www.androidauthority.com/sony-wh-1000xm5-woot-deal-3342487/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

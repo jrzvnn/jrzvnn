@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)
  - [Gfycat, a Snap-owned GIF-hosting platform, will shut down on September 1, 2023; the site had been down for days in May due to an expired SSL certificate &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230705/p21#a230705p21)
  - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
  - [Sensor Tower: ChatGPT iOS app downloads and Bing app downloads in the US were down 38% MoM in June 2023; BofA estimates traffic to ChatGPT was down ~11% MoM &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230705/p20#a230705p20)
- - [CADDi, which offers a B2B marketplace for the manufacturing industry and an AI-powered cloud service for managing drawing data, raised a $89M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230705/p19#a230705p19)
- - [Apple Music gets full performer &amp; composer credits in iOS 17 beta 3](https://appleinsider.com/articles/23/07/05/apple-music-gets-full-performer-composer-credits-in-ios-17-beta-3?utm_medium=rss)<!-- TECH:END -->
+ - [Tokyo-based CADDi, which offers a B2B marketplace for the manufacturing sector and an AI-based cloud service for managing drawing data, raised an $89M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230705/p19#a230705p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

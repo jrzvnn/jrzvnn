@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify cutting off remaining customers paying through the App Store](https://appleinsider.com/articles/23/07/05/spotify-cutting-off-remaining-customers-paying-through-the-app-store?utm_medium=rss)
  - [Instagram&#39;s Threads launch countdown jumps forward and now indicates a July 5 launch at 7PM ET; the countdown previously suggested a July 6 launch at 10AM ET &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230705/p23#a230705p23)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [The Instagram Threads launch countdown jumped forward and is now targeting 7PM ET](https://www.theverge.com/2023/7/5/23784873/instagram-threads-launch-twitter-meta-countdown-7pm)
- - [OpenAI forms Superalignment, a team for developing ways to steer and control &quot;superintelligent&quot; AI systems, with access to 20% of its compute secured to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
+ - [OpenAI forms Superalignment, a team for developing ways to steer and control &quot;superintelligent&quot; AI systems, with access to 20% of its compute secured to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

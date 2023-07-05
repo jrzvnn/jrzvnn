@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
- - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 😝 [277](http://9gag.com/gag/agoK05g)
- - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
+ - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
+ - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 👉 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)<!-- MEMES:END -->
 
 ---
 </div>

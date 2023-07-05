@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
+ - [Source: the US State Dept. cancels regular meetings with Meta about 2024 election prep, one day after a judge limited Biden officials&#39; contact with tech firms &lpar;Washington Post&rpar;](http://www.techmeme.com/230705/p26#a230705p26)
  - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [A US Navy member releases TeamsPhisher, which leverages an unfixed Microsoft Teams security bug to send malware from an account outside a targeted organization &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230705/p25#a230705p25)
- - [The Stream Deck is getting a paid app store later this year](https://www.theverge.com/2023/7/5/22400043/stream-deck-paid-app-store-plugins-profiles-icons-creators)
- - [Fresh Nothing Phone 2 leak reveals camera and display specs](https://www.androidauthority.com/nothing-phone-2-camera-display-3342621/)
- - [Everything new in iOS 17 beta 3: Music credits, Home activity, UI changes, &amp; more](https://appleinsider.com/articles/23/07/05/everything-new-in-ios-17-beta-3-music-credits-home-activity-ui-changes-more?utm_medium=rss)<!-- TECH:END -->
+ - [A US Navy red team member releases TeamsPhisher, which leverages an unfixed Microsoft Teams bug to send malware from an account outside a targeted organization &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230705/p25#a230705p25)
+ - [The Stream Deck is getting a paid app store later this year](https://www.theverge.com/2023/7/5/22400043/stream-deck-paid-app-store-plugins-profiles-icons-creators)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

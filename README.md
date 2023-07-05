@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - 😝 [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
- - ⏩ [277](http://9gag.com/gag/agoK05g)
- - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
+ - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [277](http://9gag.com/gag/agoK05g)
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
 
 ---
 </div>

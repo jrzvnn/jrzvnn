@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Samsung&#39;s efforts to make AI chips; some skeptics question if the company can become indispensable in generative AI as in smartphones and high-res TVs &lpar;Chang Che/New York Times&rpar;](http://www.techmeme.com/230705/p4#a230705p4)
  - [Neko Health, a startup founded by Spotify CEO Daniel Ek and Watty founder Hjalmar Nilsonne that makes an AI-based full-body scanner, raised &amp;euro;60M led by Lakestar &lpar;Nate Lanxon/Bloomberg&rpar;](http://www.techmeme.com/230705/p3#a230705p3)
  - [Not seen enough of the Nothing Phone 2? Here are more leaked ‘official’ images](https://www.androidauthority.com/nothing-phone-2-official-images-leak-3342280/)
  - [The Irish DPC says Instagram&#39;s Threads, which faces stricter data privacy rules in the EU than in the US or UK, will not be launched in the EU &quot;at this point&quot; &lpar;Adrian Weckler/Independent.ie&rpar;](http://www.techmeme.com/230705/p2#a230705p2)
- - [Twitter opens up about those pesky new tweet-reading limits on the platform](https://www.androidauthority.com/twitter-rate-limits-3342276/)
- - [Some experts fear that SCOTUS&#39; ruling against affirmative action in June 2023 could be a blow to tech companies&#39; hiring practices and diversity commitments &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/230705/p1#a230705p1)<!-- TECH:END -->
+ - [Twitter opens up about those pesky new tweet-reading limits on the platform](https://www.androidauthority.com/twitter-rate-limits-3342276/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram launches a basic Threads web interface, offering an early look at what to expect before its July 6 launch; the service appears to have 2,500+ users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230705/p9#a230705p9)
+ - [The Best Sustainable Clothing Brands You&#39;ve Probably Never Heard Of     - CNET](https://www.cnet.com/culture/fashion/the-best-sustainable-clothing-brands-you-probably-never-heard-of/#ftag=CAD590a51e)
  - [I Used Flipper Zero to Score Eponas in &#39;Tears of the Kingdom&#39;](https://www.wired.com/story/flipper-zero-horse-rave/)
  - [Managing Type 1 Diabetes Is Tricky. Can AI Help?](https://www.wired.com/story/managing-type-1-diabetes-is-tricky-can-ai-help/)
- - [AI Could Change How Blind People See the World](https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/)
- - [Instagram’s Twitter competitor Threads is already live on the web](https://www.theverge.com/2023/7/5/23784160/instagram-threads-twitter-competitor-web)
- - [Best MagSafe stands for Standby in iOS 17](https://appleinsider.com/articles/23/07/05/best-magsafe-stands-for-standby-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [AI Could Change How Blind People See the World](https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

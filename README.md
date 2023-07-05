@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - ⏩ [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 👉 [Its Time](http://9gag.com/gag/aDYQ0DN)<!-- MEMES:END -->
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 😝 [Gangster caught off-guard and disarmed](http://9gag.com/gag/aL1W6Nv)
+ - ⏩ [Justice For Lola.](http://9gag.com/gag/a8qKrO1)
+ - 😝 [277](http://9gag.com/gag/agoK05g)
+ - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
 
 ---
 </div>

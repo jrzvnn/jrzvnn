@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always be aware of your surroundings. - 2nd post, without hate speech. How long is it gonna make it this time?](http://9gag.com/gag/aQEyprq)
+ - 😝 [277](http://9gag.com/gag/agoK05g)
  - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - ⏩ [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
  - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
- - 👉 [Thats an add](http://9gag.com/gag/az24AWN)<!-- MEMES:END -->
+ - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
 
 ---
 </div>

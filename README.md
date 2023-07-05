@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Andy Jassy asked Amazon&#39;s Hollywood studio for detailed budgets to scrutinize ballooning costs; Amazon spent $7B on originals and other shows in 2022 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230705/p12#a230705p12)
+ - [Firefox ending support for macOS Mojave and earlier versions](https://appleinsider.com/articles/23/07/04/firefox-ending-support-for-macos-mojave-and-earlier-versions?utm_medium=rss)
  - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)
  - [The Port of Nagoya, Japan&#39;s largest and busiest port, plans to resume operations on July 6 after a July 4 ransomware attack; no group has claimed the hack yet &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230705/p11#a230705p11)
- - [T-Mobile owns the US for 5G coverage, with Verizon and AT&amp;T trailing way behind](https://www.androidauthority.com/t-mobile-5g-coverage-2023-3341214/)
- - [5 Uses for ChatGPT that Aren’t Fan Fiction or Cheating at School](https://www.wired.com/story/5-surprising-uses-chatgpt/)
- - [Foxconn reports Q2 revenue down 13.8% YoY to $41.76B and June revenue down 19.7% YoY to $13.6B due to weak consumer demand, but forecasts a brighter Q3 outlook &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230705/p10#a230705p10)<!-- TECH:END -->
+ - [T-Mobile owns the US for 5G coverage, with Verizon and AT&amp;T trailing way behind](https://www.androidauthority.com/t-mobile-5g-coverage-2023-3341214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: today is the last day to save on Xbox Game Pass](https://www.theverge.com/2023/7/5/23784604/xbox-game-pass-last-day-price-increase-deal-sale)
- - [Microsoft’s Xbox Wireless Headset is half off at Walmart](https://www.theverge.com/2023/7/5/23784551/microsoft-xbox-wireless-headset-gaming-deal-sale)
- - [iPhone 14 vs iPhone 15: Should you buy the iPhone 14 or wait for the iPhone 15?](https://www.androidauthority.com/iphone-14-vs-iphone-15-3340962/)
- - [After Fortinet patched a major bug in FortiOS on June 12, researchers find ~338K out of ~490K affected SSL VPN interfaces are still unpatched and open to RCE &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230705/p18#a230705p18)
- - [The best T-Mobile deals of July 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
+ - [Apple Music gets full performer &amp; composer credits in iOS 17 beta 3](https://appleinsider.com/articles/23/07/05/apple-music-gets-full-performer-composer-credits-in-ios-17-beta-3?utm_medium=rss)
+ - [US Spies Are Buying Americans&#39; Private Data. Congress Has a Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
+ - [10 Easy Ways to Improve Your Eye Health Every Day     - CNET](https://www.cnet.com/health/personal-care/10-easy-ways-to-improve-your-eye-health-every-day/#ftag=CAD590a51e)
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
+ - [PSA: today is the last day to save on Xbox Game Pass](https://www.theverge.com/2023/7/5/23784604/xbox-game-pass-last-day-price-increase-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

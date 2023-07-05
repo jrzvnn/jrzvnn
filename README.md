@@ -194,10 +194,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
  - 😝 [277](http://9gag.com/gag/agoK05g)
- - 😝 [On a scale from 1-10, how painful is this?](http://9gag.com/gag/aPgryPK)
- - ⏩ [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
  - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
 
 ---

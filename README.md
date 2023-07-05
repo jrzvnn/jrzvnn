@@ -194,10 +194,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [277](http://9gag.com/gag/agoK05g)
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
  - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
  - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
 
 ---

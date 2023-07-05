@@ -194,10 +194,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
- - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - ⏩ [What a shameful story](http://9gag.com/gag/aMEqeX6)
  - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
+ - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - ⏩ [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [That escalated quickly -.-](http://9gag.com/gag/a1POA46)
  - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
 
 ---

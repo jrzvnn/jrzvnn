@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Twitter rival Threads will skip the EU as it goes live everywhere else](https://www.androidauthority.com/meta-threads-app-3342506/)
- - [Munich-based EGYM, which sells smart fitness hardware and software to measure how people work out, raised $225M led by Affinity Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230705/p17#a230705p17)
- - [Billionaire brawl: all the latest on the cage match between Elon Musk and Mark Zuckerberg](https://www.theverge.com/23773413/elon-musk-mark-zuckerberg-cage-match-twitter-threads-instagram-meta)
- - [How to use or disable inline predictive text in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-or-disable-inline-predictive-text-in-macos-sonoma?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Apple issues third watchOS 10 developer beta](https://appleinsider.com/articles/23/07/05/apple-issues-third-watchos-10-developer-beta?utm_medium=rss)
+ - [VW in talks to adopt Tesla’s EV charging plug, but Toyota is staying silent](https://www.theverge.com/2023/7/5/23784541/vw-toyota-tesla-nacs-ev-charging-plug-standard)
+ - [Apple releases third developer beta for macOS Sonoma](https://appleinsider.com/articles/23/07/05/apple-releases-third-developer-beta-for-macos-sonoma?utm_medium=rss)
+ - [Apple shares third developer beta of tvOS 17](https://appleinsider.com/articles/23/07/05/apple-shares-third-developer-beta-of-tvos-17?utm_medium=rss)
+ - [Apple seeds third iOS 17 and iPadOS 17 developer betas](https://appleinsider.com/articles/23/07/05/apple-seeds-third-ios-17-and-ipados-17-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

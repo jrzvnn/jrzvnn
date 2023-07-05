@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: today is the last day to save on Xbox Game Pass](https://www.theverge.com/2023/7/5/23784604/xbox-game-pass-last-day-price-increase-deal-sale)
+ - [Microsoft’s Xbox Wireless Headset is half off at Walmart](https://www.theverge.com/2023/7/5/23784551/microsoft-xbox-wireless-headset-gaming-deal-sale)
  - [iPhone 14 vs iPhone 15: Should you buy the iPhone 14 or wait for the iPhone 15?](https://www.androidauthority.com/iphone-14-vs-iphone-15-3340962/)
  - [After Fortinet patched a major bug in FortiOS on June 12, researchers find ~338K out of ~490K affected SSL VPN interfaces are still unpatched and open to RCE &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230705/p18#a230705p18)
- - [The best T-Mobile deals of July 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [How does Mint Mobile international roaming work, and is it worth it?](https://www.androidauthority.com/how-does-mint-mobile-international-3342477/)
- - [Does Mint Mobile support Wi-Fi calling?](https://www.androidauthority.com/does-mint-mobile-support-wi-fi-calling-3342519/)<!-- TECH:END -->
+ - [The best T-Mobile deals of July 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

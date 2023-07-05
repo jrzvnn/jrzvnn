@@ -185,7 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [How does Mint Mobile international roaming work, and is it worth it?](https://www.androidauthority.com/how-does-mint-mobile-international-3342477/)
+ - [Does Mint Mobile support Wi-Fi calling?](https://www.androidauthority.com/does-mint-mobile-support-wi-fi-calling-3342519/)
+ - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
+ - [Apple issues third watchOS 10 developer beta](https://appleinsider.com/articles/23/07/05/apple-issues-third-watchos-10-developer-beta?utm_medium=rss)
+ - [VW in talks to adopt Tesla’s EV charging plug, but Toyota is staying silent](https://www.theverge.com/2023/7/5/23784541/vw-toyota-tesla-nacs-ev-charging-plug-standard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

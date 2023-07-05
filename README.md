@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neko Health, a startup founded by Spotify CEO Daniel Ek and Watty founder Hjalmar Nilsonne that makes an AI-based full-body scanner, raised &amp;euro;60M led by Lakestar &lpar;Nate Lanxon/Bloomberg&rpar;](http://www.techmeme.com/230705/p3#a230705p3)
+ - [Not seen enough of the Nothing Phone 2? Here are more leaked ‘official’ images](https://www.androidauthority.com/nothing-phone-2-official-images-leak-3342280/)
+ - [The Irish DPC says Instagram&#39;s Threads, which faces stricter data privacy rules in the EU than in the US or UK, will not be launched in the EU &quot;at this point&quot; &lpar;Adrian Weckler/Independent.ie&rpar;](http://www.techmeme.com/230705/p2#a230705p2)
  - [Twitter opens up about those pesky new tweet-reading limits on the platform](https://www.androidauthority.com/twitter-rate-limits-3342276/)
- - [Some experts fear that SCOTUS&#39; ruling against affirmative action in June 2023 could be a blow to tech companies&#39; hiring practices and diversity commitments &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/230705/p1#a230705p1)
- - [NetEase&#39;s stock has rallied 85% since an October 2022 low, edging out rivals Tencent and Bilibili on the Hang Seng Tech Index after a slew of recent game hits &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/230704/p24#a230704p24)
- - [The UAE gives the first national license for self-driving vehicles to China&#39;s WeRide, allowing the company to test Level 4 autonomous vehicles on public roads &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230704/p23#a230704p23)
- - [Nintendo’s CEO says its online accounts are the key to its next console transition](https://www.theverge.com/2023/6/27/23775415/nintendos-switch-accounts-next-generation-furukawa-shareholders)<!-- TECH:END -->
+ - [Some experts fear that SCOTUS&#39; ruling against affirmative action in June 2023 could be a blow to tech companies&#39; hiring practices and diversity commitments &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/230705/p1#a230705p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

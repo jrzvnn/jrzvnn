@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Air M2 in Midnight is on sale for $979 ahead of Prime Day](https://appleinsider.com/articles/23/07/05/apples-macbook-air-m2-in-midnight-is-on-sale-for-979-ahead-of-prime-day?utm_medium=rss)
- - [OnePlus is blurring the lines between mid-range and flagship once again](https://www.androidauthority.com/oneplus-nord-3-nord-ce-3-launch-3342333/)
- - [Rumored iPhone SE 4 delayed another year over OLED production woes](https://appleinsider.com/articles/23/07/05/rumored-iphone-se-4-delayed-another-year-over-oled-production-woes?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-05-2023-3341156/)
- - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Australia searched several Binance Australia locations as part of its derivatives investigation; CZ acknowledged that &quot;external pressure&quot; hurts Binance &lpar;Bloomberg&rpar;](http://www.techmeme.com/230705/p14#a230705p14)
+ - [Poll: How much RAM does your phone have?](https://www.androidauthority.com/how-much-ram-phone-poll-3342450/)
+ - [OnePlus Nord 3 arrives with 80W fast charging and promise of three major Android updates](https://www.theverge.com/2023/7/5/23783711/oneplus-nord-price-release-date-specs-details)
+ - [Apple releases full trailer for Scorcese&#39;s &#39;Killers of the Flower Moon&#39;](https://appleinsider.com/articles/23/07/05/apple-releases-full-trailer-for-scorceses-killers-of-the-flower-moon?utm_medium=rss)
+ - [Grand Theft Auto V is back on Game Pass](https://www.theverge.com/2023/7/5/23784303/grand-theft-auto-gta-5-xbox-game-pass-return)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

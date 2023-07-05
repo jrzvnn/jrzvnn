@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
  - 😝 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
- - 😝 [Shiba spa treatment](http://9gag.com/gag/aqeDLbM)
- - ⏩ [How the hell he convinced him, lmao](http://9gag.com/gag/a9qD7Rm)
- - 😝 [This guy saved man&#39;s life](http://9gag.com/gag/avQ90Kd)
- - 👉 [18 Years Ago, Supernatural managed to introduce a villain character like this in a tv show... Why is it that in 18 years there hasnt been a good villain intro in any MARVEL/DC tv show....](http://9gag.com/gag/aeQRGpq)<!-- MEMES:END -->
+ - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
 
 ---
 </div>

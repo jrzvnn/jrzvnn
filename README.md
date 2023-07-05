@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice for all of them](http://9gag.com/gag/amARL14)
- - 😝 [\u201cA brain tumour changed her life. Her nerves are badly damaged! But today she opened a car door\u2026..walked\u2026..opened a gym door\u2026..walked and sat down ..BY HERSELF \ud83d\udcaa\ud83c\udfff\ud83d\udcaa\ud83c\udfff what a lady\u201d](http://9gag.com/gag/aPgrDrQ)
- - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 😝 [I don&#39;t want to get out](http://9gag.com/gag/ap9VvL9)
- - 👉 [This guy saved man&#39;s life](http://9gag.com/gag/avQ90Kd)<!-- MEMES:END -->
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - ⏩ [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
+ - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 👉 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)<!-- MEMES:END -->
 
 ---
 </div>

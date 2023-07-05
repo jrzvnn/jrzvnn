@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights interactive, collaborative AR art experience &#39;Deep Field&#39;](https://appleinsider.com/articles/23/07/05/apple-highlights-interactive-collaborative-ar-art-experience-deep-field?utm_medium=rss)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Twitter is being sued by its ex-employees again](https://www.theverge.com/2023/7/5/23784760/twitter-lawsuit-arbitration-laid-off-employees-jams-musk)
- - [Studio Display 17 firmware beta 3 is now available](https://appleinsider.com/articles/23/07/05/studio-display-17-firmware-beta-3-is-now-available?utm_medium=rss)
- - [Source: the US State Dept. cancels regular meetings with Meta about 2024 election prep, one day after a judge limited Biden officials&#39; contact with tech firms &lpar;Washington Post&rpar;](http://www.techmeme.com/230705/p26#a230705p26)<!-- TECH:END -->
+ - [Meta launches Instagram&#39;s Threads, now available on the App Store and Google Play in over 100 countries &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230705/p27#a230705p27)
+ - [Meta&#39;s Instagram soft-launches Threads to take on Twitter](https://appleinsider.com/articles/23/07/05/metas-instagram-soft-launches-threads-to-take-on-twitter?utm_medium=rss)
+ - [Instagram’s Twitter competitor, Threads, is available now](https://www.theverge.com/2023/7/5/23784263/instagram-threads-app-download-iphone-android)
+ - [Instagram head Adam Mosseri explains why he’s taking on Twitter with Threads](https://www.theverge.com/2023/7/5/23784870/instagram-threads-adam-mosseri-interview-twitter-competitor)
+ - [Samsung’s next folding phones arrive on July 26th](https://www.theverge.com/2023/7/5/23784750/samsung-galaxy-unpacked-july-2023-seoul-z-flip-fold-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

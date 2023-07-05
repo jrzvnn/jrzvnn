@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s latest controller is a wireless take on the Neo Geo CD’s gamepad](https://www.theverge.com/2023/7/5/23784157/8bitdo-neogeo-cd-wireless-controller-bluetooth-rechargeable)
- - [The best floodlight camera to buy right now](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)
- - [Twitter quietly backtracks and lets logged out users see individual tweets, ending Elon Musk&#39;s &quot;temporary emergency measure&quot;; profiles are still not visible &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230705/p15#a230705p15)
- - [What towers does Mint Mobile use? Does it have its own?](https://www.androidauthority.com/what-towers-does-mint-mobile-use-does-it-have-its-own-3341991/)
- - [EV Charger Hacking Poses a ‘Catastrophic’ Risk](https://www.wired.com/story/electric-vehicle-charging-station-hacks/)<!-- TECH:END -->
+ - [The Sony WH-1000XM5 headphones drop to $299 for the first time](https://www.androidauthority.com/sony-wh-1000xm5-woot-deal-3342487/)
+ - [Sony’s flagship noise-canceling WH-1000XM5 headphones are $100 off](https://www.theverge.com/2023/7/5/23784239/sony-wh1000xm5-headphones-star-wars-jedi-survivor-xbox-headset-deal-sale)
+ - [The MLB will debut a new ‘virtual ballpark’ this weekend](https://www.theverge.com/2023/7/5/23784237/mlb-major-league-baseball-metaverse-virtual-reality-celebrity-all-star-game)
+ - [Google confirms it’s training Bard on scraped web data, too](https://www.theverge.com/2023/7/5/23784257/google-ai-bard-privacy-policy-train-web-scraping)
+ - [8BitDo’s latest controller is a wireless take on the Neo Geo CD’s gamepad](https://www.theverge.com/2023/7/5/23784157/8bitdo-neogeo-cd-wireless-controller-bluetooth-rechargeable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

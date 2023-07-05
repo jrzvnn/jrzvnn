@@ -185,20 +185,12 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fourth of July deals you can still get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)
- - [Sensor Tower: ChatGPT iOS app downloads and Bing app downloads in the US were down 38% MoM in June 2023; BofA estimates traffic to ChatGPT was down ~11% MoM &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230705/p20#a230705p20)
- - [CADDi, which offers a B2B marketplace for the manufacturing industry and an AI-powered cloud service for managing drawing data, raised a $89M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230705/p19#a230705p19)
- - [Apple Music gets full performer &amp; composer credits in iOS 17 beta 3](https://appleinsider.com/articles/23/07/05/apple-music-gets-full-performer-composer-credits-in-ios-17-beta-3?utm_medium=rss)
- - [US Spies Are Buying Americans&#39; Private Data. Congress Has a Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)<!-- TECH:END -->
+<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - ⏩ [Good old days](http://9gag.com/gag/a6qGLRR)
- - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
- - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
+<!-- MEMES:END -->
 
 ---
 </div>

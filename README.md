@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Andy Jassy asked Amazon&#39;s Hollywood studio for detailed budgets to scrutinize ballooning costs; Amazon spent $7B on originals and other shows in 2022 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230705/p12#a230705p12)
- - [Firefox ending support for macOS Mojave and earlier versions](https://appleinsider.com/articles/23/07/04/firefox-ending-support-for-macos-mojave-and-earlier-versions?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-05-2023-3341156/)
  - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)
- - [The Port of Nagoya, Japan&#39;s largest and busiest port, plans to resume operations on July 6 after a July 4 ransomware attack; no group has claimed the hack yet &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230705/p11#a230705p11)
- - [T-Mobile owns the US for 5G coverage, with Verizon and AT&amp;T trailing way behind](https://www.androidauthority.com/t-mobile-5g-coverage-2023-3341214/)<!-- TECH:END -->
+ - [Fairphone and Murena partner to launch the modular Fairphone 4 in the US for $599+, running the Google-free /e/ OS instead of Android OS, available unlocked &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230705/p13#a230705p13)
+ - [Daily deals July 5: $114 off Apple Watch Ultra, $50 off AirPods Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/23/07/05/daily-deals-july-5-114-off-apple-watch-ultra-50-off-airpods-pro-100-off-m2-macbook-air-more?utm_medium=rss)
+ - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/best-amazon-fire-tablet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

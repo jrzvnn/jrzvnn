@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Judge blocks Biden officials from contacting social media sites](https://www.theverge.com/2023/7/4/23783822/free-speech-ruling-missouri-v-biden-dhs-fbi-cisa)
- - [Best Tablet Deals: Save Up to $200 on Microsoft Surface Pro 9 and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [The National Music Publishers Association: in February 2023, Spotify had 44.4M US subscribers, Apple Music had 32.6M, Amazon Music had 29.3M, YouTube had 8.5M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230704/p21#a230704p21)
- - [The 10 best Chrome extensions of 2023](https://www.androidauthority.com/best-chrome-extensions-3341953/)
- - [Firefox ending support for macOS Mojave and earlier versions](https://appleinsider.com/articles/23/07/04/firefox-ending-support-for-macos-mojave-and-earlier-versions?utm_medium=rss)<!-- TECH:END -->
+ - [The UAE gives the first national license for self-driving vehicles to China&#39;s WeRide, allowing the company to test Level 4 autonomous vehicles on public roads &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230704/p23#a230704p23)
+ - [Nintendo’s CEO says its online accounts are the key to its next console transition](https://www.theverge.com/2023/6/27/23775415/nintendos-switch-accounts-next-generation-furukawa-shareholders)
+ - [India targets December 2024 for the country&#39;s first domestically manufactured chips, as Micron&#39;s new chip assembly and test facility breaks ground in August &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/230704/p22#a230704p22)
+ - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [US Judge blocks Biden officials from contacting social media sites](https://www.theverge.com/2023/7/4/23783822/free-speech-ruling-missouri-v-biden-dhs-fbi-cisa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

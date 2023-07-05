@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 😝 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)
  - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
- - 😝 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 👉 [What a shameful story](http://9gag.com/gag/aMEqeX6)<!-- MEMES:END -->
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
 
 ---
 </div>

@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From specs to pricing, relaunched Galaxy S21 FE details leak](https://www.androidauthority.com/samsung-galaxy-s21-fe-2023-details-leak-3342332/)
- - [How some farmers in Senegal, who struggle to read or write, use WhatsApp voice notes to collaborate with NGOs and researchers and learn new farming practices &lpar;Jack Thompson/Rest of World&rpar;](http://www.techmeme.com/230705/p8#a230705p8)
- - [Microsoft gives away Sony’s plans for PS5 Slim and PS5 Pro](https://www.androidauthority.com/sony-ps5-slim-pro-plans-microsoft-vs-ftc-3342306/)
- - [OnePlus Fold: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [Let People Collect Sperm From the Dead](https://www.wired.com/story/sperm-death-sex-bioethics-conception/)<!-- TECH:END -->
+ - [I Used Flipper Zero to Score Eponas in &#39;Tears of the Kingdom&#39;](https://www.wired.com/story/flipper-zero-horse-rave/)
+ - [Managing Type 1 Diabetes Is Tricky. Can AI Help?](https://www.wired.com/story/managing-type-1-diabetes-is-tricky-can-ai-help/)
+ - [AI Could Change How Blind People See the World](https://www.wired.com/story/ai-gpt4-could-change-how-blind-people-see-the-world/)
+ - [Instagram’s Twitter competitor Threads is already live on the web](https://www.theverge.com/2023/7/5/23784160/instagram-threads-twitter-competitor-web)
+ - [Best MagSafe stands for Standby in iOS 17](https://appleinsider.com/articles/23/07/05/best-magsafe-stands-for-standby-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

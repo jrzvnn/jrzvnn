@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft gives away Sony’s plans for PS5 Slim and PS5 Pro](https://www.androidauthority.com/sony-ps5-slim-pro-plans-microsoft-vs-ftc-3342306/)
+ - [OnePlus Fold: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
+ - [Let People Collect Sperm From the Dead](https://www.wired.com/story/sperm-death-sex-bioethics-conception/)
  - [Recording Academy CEO Harvey Mason jr. says music with AI-created elements is eligible for a Grammy, but the AI portion will not be considered for the award &lpar;Maria Sherman/Associated Press&rpar;](http://www.techmeme.com/230705/p7#a230705p7)
- - [The EU announces new rules to help privacy regulators work on cross-border cases faster and give companies more rights, after criticism of slow investigations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230705/p6#a230705p6)
- - [The first phone with 24GB of RAM and an overclocked Snapdragon 8 Gen 2 is here](https://www.androidauthority.com/redmagic-8s-pro-3342292/)
- - [Lyon-based Dougs, an online accounting startup for SMBs that is profitable with ~&amp;euro;15M in ARR, raised &amp;euro;25M in its first VC round since being founded in 2015 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230705/p5#a230705p5)
- - [Quick Share comes to non-Samsung PCs, with a major caveat](https://www.androidauthority.com/samsung-quick-share-non-samsung-computers-3339859/)<!-- TECH:END -->
+ - [The EU announces new rules to help privacy regulators work on cross-border cases faster and give companies more rights, after criticism of slow investigations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230705/p6#a230705p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

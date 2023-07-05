@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything new in iOS 17 beta 3: Music credits, Home activity, UI changes, &amp; more](https://appleinsider.com/articles/23/07/05/everything-new-in-ios-17-beta-3-music-credits-home-activity-ui-changes-more?utm_medium=rss)
+ - [Vimeo CEO Anjali Sud plans to step down at the end of August 2023 to &quot;pursue a new opportunity&quot;; board member Adam Gross will serve as interim CEO from Sept. 1 &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230705/p24#a230705p24)
+ - [Apple Watch could detect Parkinson&#39;s disease up to 7 years earlier](https://appleinsider.com/articles/23/07/05/apple-watch-could-detect-parkinsons-disease-up-to-7-years-earlier?utm_medium=rss)
  - [Spotify cutting off remaining customers paying through the App Store](https://appleinsider.com/articles/23/07/05/spotify-cutting-off-remaining-customers-paying-through-the-app-store?utm_medium=rss)
- - [Instagram&#39;s Threads launch countdown jumps forward and now indicates a July 5 launch at 7PM ET; the countdown previously suggested a July 6 launch at 10AM ET &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230705/p23#a230705p23)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [The Instagram Threads launch countdown jumped forward and is now targeting 7PM ET](https://www.theverge.com/2023/7/5/23784873/instagram-threads-launch-twitter-meta-countdown-7pm)
- - [OpenAI forms Superalignment, a team for developing ways to steer and control &quot;superintelligent&quot; AI systems, with access to 20% of its compute secured to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230705/p22#a230705p22)<!-- TECH:END -->
+ - [Instagram&#39;s Threads launch countdown jumps forward and now indicates a July 5 launch at 7PM ET; the countdown previously suggested a July 6 launch at 10AM ET &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230705/p23#a230705p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

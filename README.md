@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
  - [Meta launches Instagram&#39;s Threads, now available on the App Store and Google Play in over 100 countries &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230705/p27#a230705p27)
  - [Meta&#39;s Instagram soft-launches Threads to take on Twitter](https://appleinsider.com/articles/23/07/05/metas-instagram-soft-launches-threads-to-take-on-twitter?utm_medium=rss)
  - [Instagram’s Twitter competitor, Threads, is available now](https://www.theverge.com/2023/7/5/23784263/instagram-threads-app-download-iphone-android)
- - [Instagram head Adam Mosseri explains why he’s taking on Twitter with Threads](https://www.theverge.com/2023/7/5/23784870/instagram-threads-adam-mosseri-interview-twitter-competitor)
- - [Samsung’s next folding phones arrive on July 26th](https://www.theverge.com/2023/7/5/23784750/samsung-galaxy-unpacked-july-2023-seoul-z-flip-fold-5)<!-- TECH:END -->
+ - [Instagram head Adam Mosseri explains why he’s taking on Twitter with Threads](https://www.theverge.com/2023/7/5/23784870/instagram-threads-adam-mosseri-interview-twitter-competitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

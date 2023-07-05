@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 vs iPhone 15: Should you buy the iPhone 14 or wait for the iPhone 15?](https://www.androidauthority.com/iphone-14-vs-iphone-15-3340962/)
+ - [After Fortinet patched a major bug in FortiOS on June 12, researchers find ~338K out of ~490K affected SSL VPN interfaces are still unpatched and open to RCE &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230705/p18#a230705p18)
+ - [The best T-Mobile deals of July 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
  - [How does Mint Mobile international roaming work, and is it worth it?](https://www.androidauthority.com/how-does-mint-mobile-international-3342477/)
- - [Does Mint Mobile support Wi-Fi calling?](https://www.androidauthority.com/does-mint-mobile-support-wi-fi-calling-3342519/)
- - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
- - [Apple issues third watchOS 10 developer beta](https://appleinsider.com/articles/23/07/05/apple-issues-third-watchos-10-developer-beta?utm_medium=rss)
- - [VW in talks to adopt Tesla’s EV charging plug, but Toyota is staying silent](https://www.theverge.com/2023/7/5/23784541/vw-toyota-tesla-nacs-ev-charging-plug-standard)<!-- TECH:END -->
+ - [Does Mint Mobile support Wi-Fi calling?](https://www.androidauthority.com/does-mint-mobile-support-wi-fi-calling-3342519/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

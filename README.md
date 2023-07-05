@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - 😝 [Look in the comments](http://9gag.com/gag/a1PE4jb)
- - ⏩ [277](http://9gag.com/gag/agoK05g)
- - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
- - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
+ - 😝 [277](http://9gag.com/gag/agoK05g)
+ - 😝 [On a scale from 1-10, how painful is this?](http://9gag.com/gag/aPgryPK)
+ - ⏩ [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 👉 [Justice!!](http://9gag.com/gag/amARNMy)<!-- MEMES:END -->
 
 ---
 </div>

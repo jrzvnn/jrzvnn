@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t want to get out](http://9gag.com/gag/ap9VvL9)
- - 😝 [Goddammit&#39; Give these WHITES some of your reparations ---](http://9gag.com/gag/aBd4YdQ)
- - ⏩ [This guy saved man&#39;s life](http://9gag.com/gag/avQ90Kd)
- - 😝 [How the hell he convinced him, lmao](http://9gag.com/gag/a9qD7Rm)
- - 👉 [18 Years Ago, Supernatural managed to introduce a villain character like this in a tv show... Why is it that in 18 years there hasnt been a good villain intro in any MARVEL/DC tv show....](http://9gag.com/gag/aeQRGpq)<!-- MEMES:END -->
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 👉 [24 y, Algerian women who tortured, raped and killed Lola who was 12 years old](http://9gag.com/gag/a5X5e6O)<!-- MEMES:END -->
 
 ---
 </div>

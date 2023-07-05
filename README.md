@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Australia searched several Binance Australia locations as part of its derivatives investigation; CZ acknowledged that &quot;external pressure&quot; hurts Binance &lpar;Bloomberg&rpar;](http://www.techmeme.com/230705/p14#a230705p14)
- - [Poll: How much RAM does your phone have?](https://www.androidauthority.com/how-much-ram-phone-poll-3342450/)
- - [OnePlus Nord 3 arrives with 80W fast charging and promise of three major Android updates](https://www.theverge.com/2023/7/5/23783711/oneplus-nord-price-release-date-specs-details)
- - [Apple releases full trailer for Scorcese&#39;s &#39;Killers of the Flower Moon&#39;](https://appleinsider.com/articles/23/07/05/apple-releases-full-trailer-for-scorceses-killers-of-the-flower-moon?utm_medium=rss)
- - [Grand Theft Auto V is back on Game Pass](https://www.theverge.com/2023/7/5/23784303/grand-theft-auto-gta-5-xbox-game-pass-return)<!-- TECH:END -->
+ - [8BitDo’s latest controller is a wireless take on the Neo Geo CD’s gamepad](https://www.theverge.com/2023/7/5/23784157/8bitdo-neogeo-cd-wireless-controller-bluetooth-rechargeable)
+ - [The best floodlight camera to buy right now](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)
+ - [Twitter quietly backtracks and lets logged out users see individual tweets, ending Elon Musk&#39;s &quot;temporary emergency measure&quot;; profiles are still not visible &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230705/p15#a230705p15)
+ - [What towers does Mint Mobile use? Does it have its own?](https://www.androidauthority.com/what-towers-does-mint-mobile-use-does-it-have-its-own-3341991/)
+ - [EV Charger Hacking Poses a ‘Catastrophic’ Risk](https://www.wired.com/story/electric-vehicle-charging-station-hacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

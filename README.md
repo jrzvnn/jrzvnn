@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [A US Navy member releases TeamsPhisher, which leverages an unfixed Microsoft Teams security bug to send malware from an account outside a targeted organization &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230705/p25#a230705p25)
  - [The Stream Deck is getting a paid app store later this year](https://www.theverge.com/2023/7/5/22400043/stream-deck-paid-app-store-plugins-profiles-icons-creators)
  - [Fresh Nothing Phone 2 leak reveals camera and display specs](https://www.androidauthority.com/nothing-phone-2-camera-display-3342621/)
- - [Everything new in iOS 17 beta 3: Music credits, Home activity, UI changes, &amp; more](https://appleinsider.com/articles/23/07/05/everything-new-in-ios-17-beta-3-music-credits-home-activity-ui-changes-more?utm_medium=rss)
- - [Vimeo CEO Anjali Sud plans to step down at the end of August 2023 &quot;to pursue a new opportunity&quot;; board member Adam Gross will become interim CEO on September 1 &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230705/p24#a230705p24)
- - [Apple Watch could detect Parkinson&#39;s disease up to 7 years earlier](https://appleinsider.com/articles/23/07/05/apple-watch-could-detect-parkinsons-disease-up-to-7-years-earlier?utm_medium=rss)<!-- TECH:END -->
+ - [Everything new in iOS 17 beta 3: Music credits, Home activity, UI changes, &amp; more](https://appleinsider.com/articles/23/07/05/everything-new-in-ios-17-beta-3-music-credits-home-activity-ui-changes-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

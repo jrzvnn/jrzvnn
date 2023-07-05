@@ -195,10 +195,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The most impressive for me is the USB.](http://9gag.com/gag/ay2v5YY)
- - 😝 [277](http://9gag.com/gag/agoK05g)
- - ⏩ [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)
- - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
- - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
+ - 😝 [Look in the comments](http://9gag.com/gag/a1PE4jb)
+ - ⏩ [277](http://9gag.com/gag/agoK05g)
+ - 😝 [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - 👉 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)<!-- MEMES:END -->
 
 ---
 </div>

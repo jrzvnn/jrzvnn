@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s MacBook Air M2 in Midnight is on sale for $979 ahead of Prime Day](https://appleinsider.com/articles/23/07/05/apples-macbook-air-m2-in-midnight-is-on-sale-for-979-ahead-of-prime-day?utm_medium=rss)
+ - [OnePlus is blurring the lines between mid-range and flagship once again](https://www.androidauthority.com/oneplus-nord-3-nord-ce-3-launch-3342333/)
+ - [Rumored iPhone SE 4 delayed another year over OLED production woes](https://appleinsider.com/articles/23/07/05/rumored-iphone-se-4-delayed-another-year-over-oled-production-woes?utm_medium=rss)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-05-2023-3341156/)
- - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)
- - [Fairphone and Murena partner to launch the modular Fairphone 4 in the US for $599+, running the Google-free /e/ OS instead of Android OS, available unlocked &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230705/p13#a230705p13)
- - [Daily deals July 5: $114 off Apple Watch Ultra, $50 off AirPods Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/23/07/05/daily-deals-july-5-114-off-apple-watch-ultra-50-off-airpods-pro-100-off-m2-macbook-air-more?utm_medium=rss)
- - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/best-amazon-fire-tablet/)<!-- TECH:END -->
+ - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

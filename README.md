@@ -195,10 +195,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - ⏩ [Justice!!](http://9gag.com/gag/amARNMy)
  - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - 👉 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)<!-- MEMES:END -->
+ - ⏩ [What a shameful story](http://9gag.com/gag/aMEqeX6)
+ - 😝 [Justice!!](http://9gag.com/gag/amARNMy)
+ - 👉 [277](http://9gag.com/gag/agoK05g)<!-- MEMES:END -->
 
 ---
 </div>

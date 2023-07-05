@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use or disable inline predictive text in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-or-disable-inline-predictive-text-in-macos-sonoma?utm_medium=rss)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Ubisoft sees ‘major reduction’ in Rainbow Six Siege cheaters thanks to XIM detection](https://www.theverge.com/2023/7/5/23784149/ubisoft-xim-detection-rainbow-six-siege-mousetrap)
- - [A look at AI Dungeon and other games that let players create in-game content using generative AI, raising questions about authorship, ownership, and copyright &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230705/p16#a230705p16)
- - [New Nothing Ear 2 colorway shown off in leak](https://www.androidauthority.com/nothing-ear-2-black-3342461/)
- - [The Sony WH-1000XM5 headphones drop to $299 for the first time](https://www.androidauthority.com/sony-wh-1000xm5-woot-deal-3342487/)<!-- TECH:END -->
+ - [How to Find the Right Pair of Hearing Aids     - CNET](https://www.cnet.com/health/medical/how-to-find-the-right-pair-of-hearing-aids/#ftag=CAD590a51e)
+ - [A look at AI Dungeon and other games that let players create in-game content using generative AI, raising questions about authorship, ownership, and copyright &lpar;Will Bedingfield/Wired&rpar;](http://www.techmeme.com/230705/p16#a230705p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

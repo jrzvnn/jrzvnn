@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Always be aware of your surroundings. - 2nd post, without hate speech. How long is it gonna make it this time?](http://9gag.com/gag/aQEyprq)
  - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 😝 [I didnt expect 350 MPH](http://9gag.com/gag/az24bVx)
- - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 😝 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
- - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
+ - ⏩ [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [Its Time](http://9gag.com/gag/aDYQ0DN)
+ - 👉 [Thats an add](http://9gag.com/gag/az24AWN)<!-- MEMES:END -->
 
 ---
 </div>

@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)
  - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
+ - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 👉 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)<!-- MEMES:END -->
 
 ---
 </div>

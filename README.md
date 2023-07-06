@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Chinese streaming service Mango TV, run by state-owned Hunan Broadcasting System; QuestMobile: Mango TV had 280M MAUs in April 2023, vs. ~100M in 2019 &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/230706/p9#a230706p9)
  - [Nothing Phone 2 price and spec sheet leak is here to kill the mystery](https://www.androidauthority.com/nothing-phone-2-price-specs-leak-3342830/)
  - [Mark Zuckerberg says Threads passed 10M signups within seven hours of launch, up from 5M within four hours and 2M in two hours &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230706/p8#a230706p8)
- - [The US military is running an eight-week exercise of five LLMs trained on classified info to test AI-enabled data for decision-making, sensors, and firepower &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230706/p7#a230706p7)
- - [The July 2023 security update is here for all Pixel devices](https://www.androidauthority.com/google-pixel-july-2023-update-3342791/)
- - [Pixel Watch picks up July security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
+ - [England vs. Australia Livestream: How to Watch 3rd Test Ashes Cricket From Anywhere     - CNET](https://www.cnet.com/deals/england-vs-australia-livestream-how-to-watch-3rd-test-ashes-cricket-from-anywhere/#ftag=CAD590a51e)
+ - [The US military is running an eight-week exercise of five LLMs trained on classified info to test AI-enabled data for decision-making, sensors, and firepower &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230706/p7#a230706p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

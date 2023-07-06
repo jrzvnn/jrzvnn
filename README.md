@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US fintech group FIS agrees to sell a majority stake in its merchant payments arm Worldpay to private equity firm GTCR for up to $18.5B, including $11.7B cash &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230706/p16#a230706p16)
- - [Get ready to pay more for the iPhone 15 Pro Max than ever before](https://appleinsider.com/articles/23/07/06/get-ready-to-pay-more-for-the-iphone-15-pro-max-than-ever-before?utm_medium=rss)
- - [&#39;Jujutsu Kaisen&#39; Season 2: How to Watch the Anime Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/jujutsu-kaisen-season-2-how-to-watch-the-anime-series-from-anywhere/#ftag=CAD590a51e)
- - [PitchBook: US VCs invested $39.8B in Q2 2023, down ~50% YoY, across 3,011 startup deals, down ~33% YoY, with the number of angel or seed deals falling ~50% YoY &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230706/p15#a230706p15)
- - [Amazon&#39;s New Echo Buds Have 2 Key Features Missing From Other Cheap Earbuds     - CNET](https://www.cnet.com/tech/mobile/amazons-new-echo-buds-have-2-key-features-missing-from-other-cheap-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram Threads feels like Twitter&#39;s early days, offering users an insta-network underpinned by Meta&#39;s infrastructure that helped surpass smaller rivals &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p17#a230706p17)
+ - [Apple is inventing a revolutionary car audio system for Apple Car](https://appleinsider.com/articles/23/07/06/apple-is-inventing-a-revolutionary-car-audio-system-for-apple-car?utm_medium=rss)
+ - [OWC launches MacDrive 11 to bring APFS support to Windows users](https://appleinsider.com/articles/23/07/06/owc-launches-macdrive-11-to-bring-apfs-support-to-windows-users?utm_medium=rss)
+ - [Sony SRS-XB100 Review: Small Size, Big Bass](https://www.wired.com/review/sony-srs-xb100/)
+ - [EcoFlow Wave 2 Review: A Slick Portable AC](https://www.wired.com/review/ecoflow-wave-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

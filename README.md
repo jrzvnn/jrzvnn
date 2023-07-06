@@ -181,7 +181,6 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <div align="left">
 ---
 
-
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->

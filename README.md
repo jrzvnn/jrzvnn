@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
- - ⏩ [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)
- - 😝 [10 more seasons would&#39;ve been great...](http://9gag.com/gag/a8qVyWp)
- - 👉 [Life Man. When reality hits you it hits you until tears is not a comfort anymore](http://9gag.com/gag/a1POdRG)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - ⏩ [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 👉 [What happened?](http://9gag.com/gag/aA0vP70)<!-- MEMES:END -->
 
 ---
 </div>

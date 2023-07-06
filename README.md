@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
- - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
- - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
+ - 😝 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 👉 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)<!-- MEMES:END -->
 
 ---
 </div>

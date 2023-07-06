@@ -184,7 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Analyst expects iPhone 15 Pro Max price jump, Android phones could be next](https://www.androidauthority.com/iphone-15-pro-max-price-bump-3343117/)
+ - [The European Commission opens a full-scale investigation into Amazon&#39;s $1.7B iRobot acquisition and will decide by November 15, 2023, whether to clear the deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230706/p27#a230706p27)
+ - [Threads hasn&#39;t been alive for a day, and Twitter is already threatening to sue](https://appleinsider.com/articles/23/07/06/threads-hasnt-been-alive-for-a-day-and-twitter-is-already-threatening-to-sue?utm_medium=rss)
+ - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Threads already has over 95 million posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

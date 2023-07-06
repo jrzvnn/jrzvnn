@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - ⏩ [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
+ - 😝 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
+ - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
+ - ⏩ [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)
+ - 😝 [Real come up is going from floor to bed](http://9gag.com/gag/aQEy9Yd)
+ - 👉 [Language of Love](http://9gag.com/gag/adPR9yZ)<!-- MEMES:END -->
 
 ---
 </div>

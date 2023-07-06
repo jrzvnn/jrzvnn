@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
+ - 😝 [What a horrible day to have eyes](http://9gag.com/gag/aqeDNK7)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - ⏩ [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [Hol up](http://9gag.com/gag/arm8KjX)
+ - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
 
 ---
 </div>

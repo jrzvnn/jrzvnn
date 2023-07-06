@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [277](http://9gag.com/gag/agoK05g)
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/a8qV4q6)
+ - 😝 [Shiba spa treatment](http://9gag.com/gag/aqeDLbM)
+ - ⏩ [18 Years Ago, Supernatural managed to introduce a villain character like this in a tv show... Why is it that in 18 years there hasnt been a good villain intro in any MARVEL/DC tv show....](http://9gag.com/gag/aeQRGpq)
+ - 😝 [This guy saved man&#39;s life](http://9gag.com/gag/avQ90Kd)
+ - 👉 [This post contains posh stuff](http://9gag.com/gag/a1POXKb)<!-- MEMES:END -->
 
 ---
 </div>

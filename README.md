@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo-based Telexistence, which develops AI-powered robotic arms for the retail and logistics industry, raised a $170M Series B from SoftBank and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230706/p21#a230706p21)
+ - [The Amazon Echo Dot is just $23 in this early Prime Day deal](https://www.androidauthority.com/amazon-echo-dot-prime-deal-3343016/)
  - [Sources: Google has delayed the release of its first fully customized chip for the Pixel by at least a year, after originally planning to introduce it in 2024 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230706/p20#a230706p20)
  - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Apple TV+ &#39;Strange Planet&#39; animated series gets debut date](https://appleinsider.com/articles/23/07/06/apple-tv-strange-planet-animated-series-gets-debut-date?utm_medium=rss)
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [Watch: Want to see a Pixel Fold catastrophically fold the other way?](https://www.androidauthority.com/google-pixel-fold-durability-test-3342966/)<!-- TECH:END -->
+ - [Apple TV+ &#39;Strange Planet&#39; animated series gets debut date](https://appleinsider.com/articles/23/07/06/apple-tv-strange-planet-animated-series-gets-debut-date?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

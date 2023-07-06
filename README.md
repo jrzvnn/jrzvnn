@@ -185,20 +185,12 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
- - [Samsung announces its next Galaxy Unpacked event for July 26 at 7am ET in Seoul, where the Galaxy Z Fold 5, Z Flip 5, Watch 6, and new tablets are expected &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230705/p31#a230705p31)
- - [Bluesky raised an $8M seed led by Neo and partners with Namecheap to offer easy custom domain purchasing and management, Bluesky&#39;s first paid service &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230705/p30#a230705p30)
- - [Q&amp;A with Adam Mosseri on how Threads started, why it is a &quot;risky endeavor&quot;, creating a standalone app off of Instagram, ActivityPub integration, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230705/p29#a230705p29)
- - [Watch this massive LED sphere in Las Vegas light up for the first time](https://www.theverge.com/2023/7/5/23784790/sphere-las-vegas-led-screen-lit)<!-- TECH:END -->
+<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 👉 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)<!-- MEMES:END -->
+<!-- MEMES:END -->
 
 ---
 </div>

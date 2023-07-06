@@ -195,10 +195,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
- - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
- - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - ⏩ [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
 
 ---
 </div>

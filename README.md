@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 😝 [Well this is awkward.](http://9gag.com/gag/aDYQWXK)
  - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
  - 💣 [What is going on here?](http://9gag.com/gag/az24A8x)
  - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
+ - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
 
 ---
 </div>

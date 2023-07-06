@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter threatens to sue Meta over Threads, alleging Meta has &quot;engaged in systematic, willful, and unlawful misappropriation of Twitter&#39;s trade secrets&quot; &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230706/p26#a230706p26)
+ - [Threads profiles can’t be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
  - [How to delete your Twitter account on iOS &amp; the web](https://appleinsider.com/inside/iphone/tips/how-to-delete-your-twitter-account-on-ios-the-web?utm_medium=rss)
  - [The best AT&amp;T deals of July 2023](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [You can now buy a de-Googled, ethically sourced, and private smartphone for $599](https://www.androidauthority.com/fairphone-4-launches-in-us-3343060/)
- - [How to transfer your number to Mint Mobile](https://www.androidauthority.com/how-to-transfer-your-number-to-mint-mobile-3343104/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [You can now buy a de-Googled, ethically sourced, and private smartphone for $599](https://www.androidauthority.com/fairphone-4-launches-in-us-3343060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

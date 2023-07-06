@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [277](http://9gag.com/gag/agoK05g)
- - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 👉 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)<!-- MEMES:END -->
+ - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
 
 ---
 </div>

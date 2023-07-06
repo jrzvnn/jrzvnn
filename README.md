@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Banking app Clair, which helps employees get paid after finishing a shift, raised $25M led by Thrive Capital and $150M in debt from partner bank Pathward &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230706/p19#a230706p19)
- - [VW will test its autonomous ID Buzz in the US starting this month](https://www.theverge.com/2023/7/6/23784813/vw-autonomous-vehicle-id-buzz-test-austin-mobileye)
- - [This might be the OnePlus Fold’s actual name](https://www.androidauthority.com/oneplus-fold-open-name-3342983/)
- - [Samsung’s Galaxy Watch 5 has dropped to a new all-time low](https://www.theverge.com/good-deals/2023/7/6/23784295/samsung-galaxy-watch-5-tears-of-the-kingdom-apple-macbook-air-deal-sale)
- - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)<!-- TECH:END -->
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
+ - [The new HONOR 90 promises to be easy on your eyes in all the right ways](https://www.androidauthority.com/honor-90-launch-3342464/)
+ - [Framework Laptop 13 Review &lpar;2023&rpar;: The Repairable Laptop Gets Even Better](https://www.wired.com/review/framework-laptop-13-2023/)
+ - [Apple’s Strange Planet animated series starts streaming in August](https://www.theverge.com/23785576/strange-planet-animated-series-apple-tv-plus-date)
+ - [Just call them tweets](https://www.theverge.com/2023/7/6/23784842/threads-instagram-tweets-post-name-thread)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

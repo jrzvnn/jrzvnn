@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
  - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - ⏩ [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
  - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
+ - 👉 [Life Man. When reality hits you it hits you until tears is not a comfort anymore](http://9gag.com/gag/a1POdRG)<!-- MEMES:END -->
 
 ---
 </div>

@@ -194,7 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
+ - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
+ - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
+ - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
 
 ---
 </div>

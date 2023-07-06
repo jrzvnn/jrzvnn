@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Hands-on with Threads: fairly basic text-based messaging app, log in via Instagram handle, no hashtags, can&#39;t search for anything other than user handles, more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230705/p28#a230705p28)
- - [You can get $50 in Samsung credit when you reserve a Galaxy Z Flip 5 or Z Fold 5](https://www.theverge.com/2023/7/5/23784625/samsung-unpacked-2023-galaxy-z-fold-flip-5-reservation-credit-announcement)
- - [Meta launches Instagram&#39;s Threads, now available on the App Store and Google Play in over 100 countries &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230705/p27#a230705p27)
- - [Meta&#39;s Instagram soft-launches Threads to take on Twitter](https://appleinsider.com/articles/23/07/05/metas-instagram-soft-launches-threads-to-take-on-twitter?utm_medium=rss)<!-- TECH:END -->
+ - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
+ - [Samsung announces its next Galaxy Unpacked event for July 26 at 7am ET in Seoul, where the Galaxy Z Fold 5, Z Flip 5, Watch 6, and new tablets are expected &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230705/p31#a230705p31)
+ - [Bluesky raised an $8M seed led by Neo and partners with Namecheap to offer easy custom domain purchasing and management, Bluesky&#39;s first paid service &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230705/p30#a230705p30)
+ - [Q&amp;A with Adam Mosseri on how Threads started, why it is a &quot;risky endeavor&quot;, creating a standalone app off of Instagram, ActivityPub integration, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230705/p29#a230705p29)
+ - [Watch this massive LED sphere in Las Vegas light up for the first time](https://www.theverge.com/2023/7/5/23784790/sphere-las-vegas-led-screen-lit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

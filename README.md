@@ -193,7 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
+ - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
 
 ---
 </div>

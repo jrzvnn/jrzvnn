@@ -187,7 +187,7 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Threads hasn&#39;t been alive for a day, and Twitter is already threatening to sue](https://appleinsider.com/articles/23/07/06/threads-hasnt-been-alive-for-a-day-and-twitter-is-already-threatening-to-sue?utm_medium=rss)
  - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Threads already has over 95 million posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)
- - [Don&#39;t Join Threads—Make Meta&#39;s Instagram-Linked Twitter Alternative Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
+ - [Don&#39;t Join Threads—Make Instagram&#39;s &#39;Twitter Killer&#39; Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
  - [Twitter threatens to sue Meta over Threads, alleging Meta has &quot;engaged in systematic, willful, and unlawful misappropriation of Twitter&#39;s trade secrets&quot; &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230706/p26#a230706p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

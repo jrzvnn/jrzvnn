@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter threatens to sue Meta over Threads, alleging Meta has &quot;engaged in systematic, willful, and unlawful misappropriation of Twitter&#39;s trade secrets&quot; &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230706/p26#a230706p26)
- - [Threads profiles can’t be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
- - [How to delete your Twitter account on iOS &amp; the web](https://appleinsider.com/inside/iphone/tips/how-to-delete-your-twitter-account-on-ios-the-web?utm_medium=rss)
- - [The best AT&amp;T deals of July 2023](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [You can now buy a de-Googled, ethically sourced, and private smartphone for $599](https://www.androidauthority.com/fairphone-4-launches-in-us-3343060/)<!-- TECH:END -->
+ - [Threads hasn&#39;t been alive for a day, and Twitter is already threatening to sue](https://appleinsider.com/articles/23/07/06/threads-hasnt-been-alive-for-a-day-and-twitter-is-already-threatening-to-sue?utm_medium=rss)
+ - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Threads already has over 95 million posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)
+ - [Don&#39;t Join Threads—Make Meta&#39;s Instagram-Linked Twitter Alternative Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
+ - [Twitter threatens to sue Meta over Threads, alleging Meta has &quot;engaged in systematic, willful, and unlawful misappropriation of Twitter&#39;s trade secrets&quot; &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230706/p26#a230706p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

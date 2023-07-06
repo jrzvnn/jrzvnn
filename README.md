@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to deactivate your Twitter account](https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate)
- - [DigitalOcean agrees to acquire NY-based Paperspace, which offers cloud computing for AI models, for $111M in cash; Paperspace had raised $35M from YC and others &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230706/p23#a230706p23)
- - [Instagram flooded Threads with celebrities and brands at launch](https://www.theverge.com/2023/7/6/23785588/meta-instagram-threads-celebrities-brands)
- - [A test by the NY Fed and a group of banks on a private blockchain finds tokenized dollars can improve wholesale payments without &quot;insuperable legal impediments&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p22#a230706p22)
- - [G/O Media’s AI ‘innovation’ is off to a rocky start](https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots)<!-- TECH:END -->
+ - [YouTube is fixing to one of its most annoying problems for Premium users](https://www.androidauthority.com/youtube-premium-lock-screen-3343038/)
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
+ - [Apple AirPods &lpar;4th generation&rpar;: Release date, rumors, and what we want to see](https://www.androidauthority.com/apple-airpods-4th-generation-3342166/)
+ - [How The Witcher explores its own history through fashion, architecture, and weapons](https://www.theverge.com/23784404/the-witcher-season-3-netflix-design-fashion-architecture-weapons)
+ - [Honor 90 comes to Europe with a 200-megapixel camera and midrange price](https://www.theverge.com/2023/7/6/23785751/honor-90-global-launch-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

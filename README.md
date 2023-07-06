@@ -185,10 +185,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [TikTok launches its subscription-only standalone music streaming service TikTok Music in Indonesia and Brazil, featuring UMG&#39;s, WMG&#39;s, and Sony Music&#39;s catalogs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230706/p29#a230706p29)
+ - [Amazon Will Show You Its Newest Devices in September     - CNET](https://www.cnet.com/tech/services-and-software/amazon-will-show-you-its-newest-devices-in-september/#ftag=CAD590a51e)
  - [A ‘Wear OS Beta Program’ could be coming to the Pixel Watch](https://www.androidauthority.com/wear-os-beta-program-pixel-watch-3343160/)
- - [What’s a good &lpar;and safe&rpar; GPU temperature when gaming?](https://www.androidauthority.com/whats-a-good-and-safe-gpu-temperature-when-gaming-3343130/)
- - [TSMC says China&#39;s raw material export restrictions won&#39;t hurt -- for now](https://appleinsider.com/articles/23/07/06/tsmc-says-chinas-raw-material-export-restrictions-wont-hurt----for-now?utm_medium=rss)
- - [Google’s first truly custom chip for Pixel devices won’t arrive until 2025](https://www.theverge.com/2023/7/6/23786156/google-pixel-custom-chip-manufacturing-tensor-2025)<!-- TECH:END -->
+ - [Should You Buy Kitchen Appliances and Home Goods on Prime Day?     - CNET](https://www.cnet.com/deals/should-you-buy-kitchen-and-home-essentials-on-prime-day/#ftag=CAD590a51e)
+ - [What’s a good &lpar;and safe&rpar; GPU temperature when gaming?](https://www.androidauthority.com/whats-a-good-and-safe-gpu-temperature-when-gaming-3343130/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

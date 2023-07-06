@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 😝 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)
- - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
  - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
+ - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 💣 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
 
 ---
 </div>

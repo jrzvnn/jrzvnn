@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)
- - [Xreal Air AR glasses deliver spatial computing today with your Mac or iPhone](https://appleinsider.com/articles/23/07/06/xreal-air-ar-glasses-deliver-spatial-computing-today-with-your-mac-or-iphone?utm_medium=rss)
- - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
- - [Instagram Threads feels like Twitter&#39;s early days, offering users an insta-network underpinned by Meta&#39;s infrastructure that helped surpass smaller rivals &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p17#a230706p17)
- - [Apple is inventing a revolutionary car audio system for Apple Car](https://appleinsider.com/articles/23/07/06/apple-is-inventing-a-revolutionary-car-audio-system-for-apple-car?utm_medium=rss)<!-- TECH:END -->
+ - [Banking app Clair, which helps employees get paid after finishing a shift, raised $25M led by Thrive Capital and $150M in debt from partner bank Pathward &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230706/p19#a230706p19)
+ - [VW will test its autonomous ID Buzz in the US starting this month](https://www.theverge.com/2023/7/6/23784813/vw-autonomous-vehicle-id-buzz-test-austin-mobileye)
+ - [This might be the OnePlus Fold’s actual name](https://www.androidauthority.com/oneplus-fold-open-name-3342983/)
+ - [Samsung’s Galaxy Watch 5 has dropped to a new all-time low](https://www.theverge.com/good-deals/2023/7/6/23784295/samsung-galaxy-watch-5-tears-of-the-kingdom-apple-macbook-air-deal-sale)
+ - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

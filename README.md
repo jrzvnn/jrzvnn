@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: global crypto startup funding was $2.34B across 382 deals in Q2 2023, down for the fifth straight quarter; valuations fell nearly 70% YoY in H1 2023 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230706/p3#a230706p3)
- - [Nothing Phone 2 wallpapers are now up for grabs!](https://www.androidauthority.com/nothing-phone-2-wallpapers-3342719/)
- - [Mark Zuckerberg says Threads passed 5M sign ups in the first four hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230706/p2#a230706p2)
- - [A look at Dustin Moskovitz&#39;s Open Philanthropy, which has spent ~$500M on student scholarships and more at Stanford and other universities to fight rogue AI &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230706/p1#a230706p1)
- - [Lifetime access to Windows 11 Pro is now 84% off, dropping the price to $29.97](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)<!-- TECH:END -->
+ - [Nansen: NFT royalties hit a two-year low in June, with one week of payouts dropping to ~$3.8M from a ~$76M April 2022 peak, as royalty-optional platforms rise &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230706/p6#a230706p6)
+ - [Canada&#39;s government suspends its ads on Facebook and Instagram in response to Meta&#39;s move to drop news; Canada spent CA$11.4M on the platforms in FY 2021-22 &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/230706/p5#a230706p5)
+ - [NYC law on AI use in hiring goes into effect; the law requires software audits, disclosure of impact on a race or gender, and fines of up to $1.5K/violation/day &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/230706/p4#a230706p4)
+ - [How to Win a War With Trucks, Trolls, and Tourniquets](https://www.wired.com/story/ukraine-war-trucks-trolls-tourniquets/)
+ - [London Wants American Crypto Refugees](https://www.wired.com/story/london-wants-american-crypto-refugees/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

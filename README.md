@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastercard says nine UK banks, including Lloyds and NatWest, signed up to use its AI-based Consumer Fraud Risk system, trained on years of transaction data &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/230706/p11#a230706p11)
  - [Deleting your Threads profile will also kill your Instagram account](https://www.androidauthority.com/delete-threads-profile-3342840/)
  - [Meta&#39;s Supplemental Privacy Policy for Threads says &quot;your Threads profile can only be deleted by deleting your Instagram account&quot;, surprising some users &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230706/p10#a230706p10)
  - [A look at Chinese streaming service Mango TV, run by state-owned Hunan Broadcasting System; QuestMobile: Mango TV had 280M MAUs in April 2023, vs. ~100M in 2019 &lpar;Takashi Kawakami/Nikkei Asia&rpar;](http://www.techmeme.com/230706/p9#a230706p9)
- - [Nothing Phone 2 price and spec sheet leak is here to kill the mystery](https://www.androidauthority.com/nothing-phone-2-price-specs-leak-3342830/)
- - [Mark Zuckerberg says Threads passed 10M signups within seven hours of launch, up from 5M within four hours and 2M in two hours &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230706/p8#a230706p8)<!-- TECH:END -->
+ - [Nothing Phone 2 price and spec sheet leak is here to kill the mystery](https://www.androidauthority.com/nothing-phone-2-price-specs-leak-3342830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

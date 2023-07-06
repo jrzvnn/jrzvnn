@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Tom Brady&#39;s crypto ambitions, including a bet on FTX, collided with reality, an example of the humiliating reckoning facing celebrities who embraced crypto &lpar;New York Times&rpar;](http://www.techmeme.com/230706/p14#a230706p14)
  - [Instagram head says a Threads feed with just people you follow is ‘On the list’ of potential features](https://www.theverge.com/2023/7/6/23785493/threads-home-feed-following-algorithmic-recommendations-adam-mosseri)
  - [Framing AI debates as a schism between people worried about AI going rogue and those illuminating actual harms is ahistorical and obscures important research &lpar;Emily M. Bender&rpar;](http://www.techmeme.com/230706/p13#a230706p13)
  - [Give Every AI a Soul—or Else](https://www.wired.com/story/give-every-ai-a-soul-or-else/)
- - [TSMC does not expect China&#39;s gallium and germanium export curbs to have any &quot;impact on TSMC&#39;s production&quot;; a Chinese official said the rules are &quot;just a start&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230706/p12#a230706p12)
- - [The 15 best Netflix games to play with your subscription](https://www.androidauthority.com/best-netflix-games-3342359/)<!-- TECH:END -->
+ - [TSMC does not expect China&#39;s gallium and germanium export curbs to have any &quot;impact on TSMC&#39;s production&quot;; a Chinese official said the rules are &quot;just a start&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230706/p12#a230706p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

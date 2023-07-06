@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
- - 😝 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
- - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [Can someone tell me what breed is this dog?](http://9gag.com/gag/a1POX06)
- - 👉 [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)<!-- MEMES:END -->
+ - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 😝 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
 
 ---
 </div>

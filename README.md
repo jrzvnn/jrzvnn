@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
- - 😝 [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)
- - ⏩ [Life Man. When reality hits you it hits you until tears is not a comfort anymore](http://9gag.com/gag/a1POdRG)
- - 😝 [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)
- - 👉 [10 more seasons would&#39;ve been great...](http://9gag.com/gag/a8qVyWp)<!-- MEMES:END -->
+ - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
 
 ---
 </div>

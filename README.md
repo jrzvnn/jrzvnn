@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
- - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 👉 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)<!-- MEMES:END -->
+ - 😝 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)
+ - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
+ - 💣 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 👉 [Exactly](http://9gag.com/gag/aXnRv2D)<!-- MEMES:END -->
 
 ---
 </div>

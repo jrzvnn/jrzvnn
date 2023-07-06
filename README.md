@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 2 camera and display specs leak days ahead of launch](https://www.theverge.com/2023/7/6/23785836/nothing-phone-2-camera-display-specs-launch-leak)
  - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
  - [Pokémon Sleep looks adorable and sounds kind of intrusive in new video](https://www.theverge.com/2023/7/6/23785767/pokemon-sleep-how-to-play-android-preregister)
  - [Don’t miss your chance to save $50 off a Z Fold 5, Flip 5, Tab S9, or Watch 6!](https://www.androidauthority.com/galaxy-unpacked-discount-2023-3343054/)
- - [A profile of ex-FTX Chief Regulatory Officer Daniel Friedberg, who had a complex role at FTX that went far beyond legal advice and has no cooperation agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p24#a230706p24)
- - [The Super Mario Bros. Movie will start streaming on Peacock in August](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)<!-- TECH:END -->
+ - [A profile of ex-FTX Chief Regulatory Officer Daniel Friedberg, who had a complex role at FTX that went far beyond legal advice and has no cooperation agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p24#a230706p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

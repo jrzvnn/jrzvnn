@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A test by the NY Fed and a group of banks on a private blockchain finds tokenized dollars can improve wholesale payments without &quot;insuperable legal impediments&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p22#a230706p22)
+ - [G/O Media’s AI ‘innovation’ is off to a rocky start](https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots)
+ - [We might not see a proper Google chip until the Pixel 10, but there’s good news](https://www.androidauthority.com/google-custom-pixel-tensor-processor-3343005/)
  - [Tokyo-based Telexistence, which develops AI-powered robotic arms for the retail and logistics industry, raised a $170M Series B from SoftBank and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230706/p21#a230706p21)
- - [The Amazon Echo Dot is just $23 in this early Prime Day deal](https://www.androidauthority.com/amazon-echo-dot-prime-deal-3343016/)
- - [Sources: Google has delayed the release of its first fully customized chip for the Pixel by at least a year, after originally planning to introduce it in 2024 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230706/p20#a230706p20)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Apple TV+ &#39;Strange Planet&#39; animated series gets debut date](https://appleinsider.com/articles/23/07/06/apple-tv-strange-planet-animated-series-gets-debut-date?utm_medium=rss)<!-- TECH:END -->
+ - [The Amazon Echo Dot is just $23 in this early Prime Day deal](https://www.androidauthority.com/amazon-echo-dot-prime-deal-3343016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

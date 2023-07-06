@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 2 price and spec sheet leak is here to kill the mystery](https://www.androidauthority.com/nothing-phone-2-price-specs-leak-3342830/)
+ - [Mark Zuckerberg says Threads passed 10M signups within seven hours of launch, up from 5M within four hours and 2M in two hours &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230706/p8#a230706p8)
  - [The US military is running an eight-week exercise of five LLMs trained on classified info to test AI-enabled data for decision-making, sensors, and firepower &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230706/p7#a230706p7)
- - [The July 2023 security update is here for all Pixel devices](https://www.androidauthority.com/pixel-devicesjuly-2023-update-3342791/)
- - [Pixel Watch picks up July security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [Aqara’s first Matter sensor for doors and windows is also a programable button](https://www.theverge.com/2023/7/6/23784120/aqara-door-window-sensor-p2-button-price-date)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
+ - [The July 2023 security update is here for all Pixel devices](https://www.androidauthority.com/google-pixel-july-2023-update-3342791/)
+ - [Pixel Watch picks up July security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

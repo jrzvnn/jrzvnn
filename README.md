@@ -184,20 +184,12 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyst expects iPhone 15 Pro Max price jump, Android phones could be next](https://www.androidauthority.com/iphone-15-pro-max-price-bump-3343117/)
- - [The European Commission opens a full-scale investigation into Amazon&#39;s $1.7B iRobot acquisition and will decide by November 15, 2023, whether to clear the deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230706/p27#a230706p27)
- - [Threads hasn&#39;t been alive for a day, and Twitter is already threatening to sue](https://appleinsider.com/articles/23/07/06/threads-hasnt-been-alive-for-a-day-and-twitter-is-already-threatening-to-sue?utm_medium=rss)
- - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Threads already has over 95 million posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)<!-- TECH:END -->
+<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
- - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
- - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
+<!-- MEMES:END -->
 
 ---
 </div>

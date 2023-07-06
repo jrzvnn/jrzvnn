@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [Watch: Want to see a Pixel Fold catastrophically fold the other way?](https://www.androidauthority.com/google-pixel-fold-durability-test-3342966/)
  - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [The new HONOR 90 promises to be easy on your eyes in all the right ways](https://www.androidauthority.com/honor-90-launch-3342464/)
- - [Framework Laptop 13 Review &lpar;2023&rpar;: The Repairable Laptop Gets Even Better](https://www.wired.com/review/framework-laptop-13-2023/)
- - [Apple’s Strange Planet animated series starts streaming in August](https://www.theverge.com/23785576/strange-planet-animated-series-apple-tv-plus-date)
- - [Just call them tweets](https://www.theverge.com/2023/7/6/23784842/threads-instagram-tweets-post-name-thread)<!-- TECH:END -->
+ - [HONOR 90 review: Should you buy it?](https://www.androidauthority.com/honor-90-review-3338410/)
+ - [The new HONOR 90 promises to be easy on your eyes in all the right ways](https://www.androidauthority.com/honor-90-launch-3342464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

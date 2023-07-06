@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future noble prize winner: impossible](http://9gag.com/gag/a9qDdGK)
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - ⏩ [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
  - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
+ - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
+ - 😝 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
 
 ---
 </div>

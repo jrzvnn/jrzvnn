@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
- - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
- - ⏩ [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)
- - 😝 [Real come up is going from floor to bed](http://9gag.com/gag/aQEy9Yd)
- - 👉 [Language of Love](http://9gag.com/gag/adPR9yZ)<!-- MEMES:END -->
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
+ - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
 
 ---
 </div>

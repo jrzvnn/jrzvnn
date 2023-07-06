@@ -1,4 +1,4 @@
-name: Test
+name: Try
 on:
   schedule: # Run workflow automatically
     - cron: '* * * * *' # Set every 1hr for testing

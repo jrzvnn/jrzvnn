@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Give Every AI a Soul—or Else](https://www.wired.com/story/give-every-ai-a-soul-or-else/)
  - [TSMC does not expect China&#39;s gallium and germanium export curbs to have any &quot;impact on TSMC&#39;s production&quot;; a Chinese official said the rules are &quot;just a start&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230706/p12#a230706p12)
  - [The 15 best Netflix games to play with your subscription](https://www.androidauthority.com/best-netflix-games-3342359/)
  - [Mastercard says nine UK banks, including Lloyds and NatWest, signed up to use its AI-based Consumer Fraud Risk system, trained on years of transaction data &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/230706/p11#a230706p11)
- - [Deleting your Threads profile will also kill your Instagram account](https://www.androidauthority.com/delete-threads-profile-3342840/)
- - [Meta&#39;s Supplemental Privacy Policy for Threads says &quot;your Threads profile can only be deleted by deleting your Instagram account&quot;, surprising some users &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230706/p10#a230706p10)<!-- TECH:END -->
+ - [Deleting your Threads profile will also kill your Instagram account](https://www.androidauthority.com/delete-threads-profile-3342840/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

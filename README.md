@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram head says a Threads feed with just people you follow is ‘On the list’ of potential features](https://www.theverge.com/2023/7/6/23785493/threads-home-feed-following-algorithmic-recommendations-adam-mosseri)
+ - [Framing AI debates as a schism between people worried about AI going rogue and those illuminating actual harms is ahistorical and obscures important research &lpar;Emily M. Bender&rpar;](http://www.techmeme.com/230706/p13#a230706p13)
  - [Give Every AI a Soul—or Else](https://www.wired.com/story/give-every-ai-a-soul-or-else/)
  - [TSMC does not expect China&#39;s gallium and germanium export curbs to have any &quot;impact on TSMC&#39;s production&quot;; a Chinese official said the rules are &quot;just a start&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/230706/p12#a230706p12)
- - [The 15 best Netflix games to play with your subscription](https://www.androidauthority.com/best-netflix-games-3342359/)
- - [Mastercard says nine UK banks, including Lloyds and NatWest, signed up to use its AI-based Consumer Fraud Risk system, trained on years of transaction data &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/230706/p11#a230706p11)
- - [Deleting your Threads profile will also kill your Instagram account](https://www.androidauthority.com/delete-threads-profile-3342840/)<!-- TECH:END -->
+ - [The 15 best Netflix games to play with your subscription](https://www.androidauthority.com/best-netflix-games-3342359/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

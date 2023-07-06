@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)
- - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
- - 💣 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 👉 [Exactly](http://9gag.com/gag/aXnRv2D)<!-- MEMES:END -->
+ - 😝 [Oh boy....](http://9gag.com/gag/a9qDA2W)
+ - 😝 [Thats an add](http://9gag.com/gag/az24AWN)
+ - 💣 [On 6th day of glorious White history month, we remember this white guy, Sir Alexander Fleming , he discovered penicillin and saved over 200 million lives.](http://9gag.com/gag/ap9VQL9)
+ - 😝 [German engineering strikes again](http://9gag.com/gag/aWGRmGq)
+ - 👉 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)<!-- MEMES:END -->
 
 ---
 </div>

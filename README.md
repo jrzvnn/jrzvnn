@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
  - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)<!-- MEMES:END -->
+ - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
 
 ---
 </div>

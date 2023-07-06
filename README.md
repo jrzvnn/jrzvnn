@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Watch picks up July security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
+ - [Aqara’s first Matter sensor for doors and windows is also a programable button](https://www.theverge.com/2023/7/6/23784120/aqara-door-window-sensor-p2-button-price-date)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
  - [Nansen: NFT royalties hit a two-year low in June, with one week of payouts dropping to ~$3.8M from a ~$76M April 2022 peak, as royalty-optional platforms rise &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230706/p6#a230706p6)
- - [Canada&#39;s government suspends its ads on Facebook and Instagram in response to Meta&#39;s move to drop news; Canada spent CA$11.4M on the platforms in FY 2021-22 &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/230706/p5#a230706p5)
- - [NYC law on AI use in hiring goes into effect; the law requires software audits, disclosure of impact on a race or gender, and fines of up to $1.5K/violation/day &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/230706/p4#a230706p4)
- - [How to Win a War With Trucks, Trolls, and Tourniquets](https://www.wired.com/story/ukraine-war-trucks-trolls-tourniquets/)
- - [London Wants American Crypto Refugees](https://www.wired.com/story/london-wants-american-crypto-refugees/)<!-- TECH:END -->
+ - [Canada&#39;s government suspends its ads on Facebook and Instagram in response to Meta&#39;s move to drop news; Canada spent CA$11.4M on the platforms in FY 2021-22 &lpar;Randy Thanthong-Knight/Bloomberg&rpar;](http://www.techmeme.com/230706/p5#a230706p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

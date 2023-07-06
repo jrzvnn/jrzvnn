@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [Sour power](http://9gag.com/gag/avQ9neM)
- - 😝 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)
- - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/a8qV4q6)
+ - 😝 [Shiba spa treatment](http://9gag.com/gag/aqeDLbM)
+ - ⏩ [18 Years Ago, Supernatural managed to introduce a villain character like this in a tv show... Why is it that in 18 years there hasnt been a good villain intro in any MARVEL/DC tv show....](http://9gag.com/gag/aeQRGpq)
+ - 😝 [This guy saved man&#39;s life](http://9gag.com/gag/avQ90Kd)
+ - 👉 [This post contains posh stuff](http://9gag.com/gag/a1POXKb)<!-- MEMES:END -->
 
 ---
 </div>

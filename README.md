@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
  - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 😝 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)
- - 👉 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)<!-- MEMES:END -->
+ - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 👉 [Well this is awkward.](http://9gag.com/gag/aDYQWXK)<!-- MEMES:END -->
 
 ---
 </div>

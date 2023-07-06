@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
- - 😝 [277](http://9gag.com/gag/agoK05g)
- - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
+ - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - 😝 [This is why tipping culture needs to stop in the US. People are beginning to demand it, and it&#39;s no longer considered a service of gratitude.](http://9gag.com/gag/aA0vPZ9)
+ - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
+ - 😝 [Can someone tell me what breed is this dog?](http://9gag.com/gag/a1POX06)
+ - 👉 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)<!-- MEMES:END -->
 
 ---
 </div>

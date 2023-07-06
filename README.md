@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US military is running an eight-week exercise of five LLMs trained on classified info to test AI-enabled data for decision-making, sensors, and firepower &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230706/p7#a230706p7)
  - [The July 2023 security update is here for all Pixel devices](https://www.androidauthority.com/pixel-devicesjuly-2023-update-3342791/)
  - [Pixel Watch picks up July security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
  - [Aqara’s first Matter sensor for doors and windows is also a programable button](https://www.theverge.com/2023/7/6/23784120/aqara-door-window-sensor-p2-button-price-date)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Nansen: NFT royalties hit a two-year low in June, with one week of payouts dropping to ~$3.8M from a ~$76M April 2022 peak, as royalty-optional platforms rise &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230706/p6#a230706p6)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

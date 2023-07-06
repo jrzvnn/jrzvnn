@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete your Twitter account on iOS &amp; the web](https://appleinsider.com/inside/iphone/tips/how-to-delete-your-twitter-account-on-ios-the-web?utm_medium=rss)
+ - [The best AT&amp;T deals of July 2023](https://www.androidauthority.com/best-att-deals-2-836102/)
  - [You can now buy a de-Googled, ethically sourced, and private smartphone for $599](https://www.androidauthority.com/fairphone-4-launches-in-us-3343060/)
  - [How to transfer your number to Mint Mobile](https://www.androidauthority.com/how-to-transfer-your-number-to-mint-mobile-3343104/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [How Threads Could Kill Twitter](https://www.wired.com/story/threads-app-twitter-rival-meta/)
- - [A look at London-based VC firm Balderton&#39;s new wellbeing program for founders, seeking to tackle the stress and burnout inherent to building a tech startup &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p25#a230706p25)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

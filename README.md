@@ -185,10 +185,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Get ready to pay more for the iPhone 15 Pro Max than ever before](https://appleinsider.com/articles/23/07/06/get-ready-to-pay-more-for-the-iphone-15-pro-max-than-ever-before?utm_medium=rss)
+ - [&#39;Jujutsu Kaisen&#39; Season 2: How to Watch the Anime Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/jujutsu-kaisen-season-2-how-to-watch-the-anime-series-from-anywhere/#ftag=CAD590a51e)
  - [PitchBook: US VCs invested $39.8B in Q2 2023, down ~50% YoY, across 3,011 startup deals, down ~33% YoY, with the number of angel or seed deals falling ~50% YoY &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230706/p15#a230706p15)
- - [The Best Motorola Phones &lpar;2023&rpar;: Pro and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)
- - [How Tom Brady&#39;s crypto ambitions, including a bet on FTX, collided with reality, an example of the humiliating reckoning facing celebrities who embraced crypto &lpar;New York Times&rpar;](http://www.techmeme.com/230706/p14#a230706p14)
- - [Instagram head says a Threads feed with just people you follow is ‘On the list’ of potential features](https://www.theverge.com/2023/7/6/23785493/threads-home-feed-following-algorithmic-recommendations-adam-mosseri)<!-- TECH:END -->
+ - [Amazon&#39;s New Echo Buds Have 2 Key Features Missing From Other Cheap Earbuds     - CNET](https://www.cnet.com/tech/mobile/amazons-new-echo-buds-have-2-key-features-missing-from-other-cheap-earbuds/#ftag=CAD590a51e)
+ - [The Best Motorola Phones &lpar;2023&rpar;: Pro and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -194,10 +194,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
- - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
+ - 😝 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
+ - ⏩ [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)
+ - 😝 [10 more seasons would&#39;ve been great...](http://9gag.com/gag/a8qVyWp)
+ - 👉 [Life Man. When reality hits you it hits you until tears is not a comfort anymore](http://9gag.com/gag/a1POdRG)<!-- MEMES:END -->
 
 ---
 </div>

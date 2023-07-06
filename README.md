@@ -195,10 +195,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
  - 😝 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
- - 👉 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)<!-- MEMES:END -->
+ - ⏩ [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - 👉 [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)<!-- MEMES:END -->
 
 ---
 </div>

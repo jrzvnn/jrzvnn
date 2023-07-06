@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [Watch: Want to see a Pixel Fold catastrophically fold the other way?](https://www.androidauthority.com/google-pixel-fold-durability-test-3342966/)
+ - [Sources: Google has delayed the release of its first fully customized chip for the Pixel by at least a year, after originally planning to introduce it in 2024 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230706/p20#a230706p20)
  - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [HONOR 90 review: Should you buy it?](https://www.androidauthority.com/honor-90-review-3338410/)
- - [The new HONOR 90 promises to be easy on your eyes in all the right ways](https://www.androidauthority.com/honor-90-launch-3342464/)<!-- TECH:END -->
+ - [Apple TV+ &#39;Strange Planet&#39; animated series gets debut date](https://appleinsider.com/articles/23/07/06/apple-tv-strange-planet-animated-series-gets-debut-date?utm_medium=rss)
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [Watch: Want to see a Pixel Fold catastrophically fold the other way?](https://www.androidauthority.com/google-pixel-fold-durability-test-3342966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

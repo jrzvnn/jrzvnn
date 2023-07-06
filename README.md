@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
  - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - 👉 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)<!-- MEMES:END -->
+ - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
 
 ---
 </div>

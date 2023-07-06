@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC says China&#39;s raw material export restrictions won&#39;t hurt -- for now](https://appleinsider.com/articles/23/07/06/tsmc-says-chinas-raw-material-export-restrictions-wont-hurt----for-now?utm_medium=rss)
  - [Google’s first truly custom chip for Pixel devices won’t arrive until 2025](https://www.theverge.com/2023/7/6/23786156/google-pixel-custom-chip-manufacturing-tensor-2025)
  - [OpenAI releases its GPT-4 API in general availability, giving all paying developers access and planning to give new developers access by the end of July 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230706/p28#a230706p28)
  - [The best early Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
- - [How to download and get started with Meta’s Threads app](https://www.androidauthority.com/how-to-use-threads-3343126/)
- - [Amazon’s iRobot Roomba acquisition under formal EU investigation](https://www.theverge.com/2023/7/6/23628636/eu-regulators-amazon-irobot-roomba-acquisition-investigation)<!-- TECH:END -->
+ - [How to download and get started with Meta’s Threads app](https://www.androidauthority.com/how-to-use-threads-3343126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

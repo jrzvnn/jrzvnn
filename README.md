@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone inside this pub is about to see a show they will never forget](http://9gag.com/gag/aoKn1yg)
- - 😝 [On 6th day of glorious White history month, we remember this white guy, Sir Alexander Fleming , he discovered penicillin and saved over 200 million lives.](http://9gag.com/gag/ap9VQL9)
- - 💣 [Real come up is going from floor to bed](http://9gag.com/gag/aQEy9Yd)
- - 😝 [Language of Love](http://9gag.com/gag/adPR9yZ)
- - 👉 [Thats an add](http://9gag.com/gag/az24AWN)<!-- MEMES:END -->
+ - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
 
 ---
 </div>

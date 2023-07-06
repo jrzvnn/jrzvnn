@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter warns it could sue Meta over ‘copycat’ Threads app](https://www.theverge.com/2023/7/6/23786127/twitter-lawsuit-threat-meta-threads-app)
- - [Analyst expects iPhone 15 Pro Max price jump, Android phones could be next](https://www.androidauthority.com/iphone-15-pro-max-price-bump-3343117/)
- - [The European Commission opens a full-scale investigation into Amazon&#39;s $1.7B iRobot acquisition, setting a November 15, 2023 deadline to clear or block the deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230706/p27#a230706p27)
- - [Threads hasn&#39;t been alive for a day, and Twitter is already threatening to sue](https://appleinsider.com/articles/23/07/06/threads-hasnt-been-alive-for-a-day-and-twitter-is-already-threatening-to-sue?utm_medium=rss)
- - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
+ - [Google’s first truly custom chip for Pixel devices won’t arrive until 2025](https://www.theverge.com/2023/7/6/23786156/google-pixel-custom-chip-manufacturing-tensor-2025)
+ - [OpenAI releases its GPT-4 API in general availability, giving all paying developers access and planning to give new developers access by the end of July 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230706/p28#a230706p28)
+ - [The best early Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
+ - [How to download and get started with Meta’s Threads app](https://www.androidauthority.com/how-to-use-threads-3343126/)
+ - [Amazon’s iRobot Roomba acquisition under formal EU investigation](https://www.theverge.com/2023/7/6/23628636/eu-regulators-amazon-irobot-roomba-acquisition-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

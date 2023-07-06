@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
+ - [Pokémon Sleep looks adorable and sounds kind of intrusive in new video](https://www.theverge.com/2023/7/6/23785767/pokemon-sleep-how-to-play-android-preregister)
  - [Don’t miss your chance to save $50 off a Z Fold 5, Flip 5, Tab S9, or Watch 6!](https://www.androidauthority.com/galaxy-unpacked-discount-2023-3343054/)
  - [A profile of ex-FTX Chief Regulatory Officer Daniel Friedberg, who had a complex role at FTX that went far beyond legal advice and has no cooperation agreement &lpar;Bloomberg&rpar;](http://www.techmeme.com/230706/p24#a230706p24)
- - [The Super Mario Bros. Movie will start streaming on Peacock in August](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)
- - [Xreal Air AR glasses deliver spatial computing today with your Mac](https://appleinsider.com/articles/23/07/06/xreal-air-ar-glasses-deliver-spatial-computing-today-with-your-mac-or-iphone?utm_medium=rss)
- - [YouTube is fixing to one of its most annoying problems for Premium users](https://www.androidauthority.com/youtube-premium-lock-screen-3343038/)<!-- TECH:END -->
+ - [The Super Mario Bros. Movie will start streaming on Peacock in August](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

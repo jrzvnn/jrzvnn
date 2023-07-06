@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
- - ⏩ [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
  - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 👉 [Well this is awkward.](http://9gag.com/gag/aDYQWXK)<!-- MEMES:END -->
+ - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - ⏩ [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 👉 [Tried everything, even an ax](http://9gag.com/gag/aWGRO7n)<!-- MEMES:END -->
 
 ---
 </div>

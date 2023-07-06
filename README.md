@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - ⏩ [Really? This video was too anti-woke for 9gag so it was reported/deleted? Eastern Europeans rally now.](http://9gag.com/gag/aPgr4PG)
- - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 👉 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - ⏩ [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
+ - 😝 [Don&#39;t do it guys](http://9gag.com/gag/agoKvQg)
+ - 👉 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at London-based VC firm Balderton&#39;s new wellbeing program for founders, seeking to tackle the stress and burnout inherent to building a tech startup &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p25#a230706p25)
- - [Daily deals July 6: Amazon Prime Day gift card offer, $800 off M1 MacBook Pro, more](https://appleinsider.com/articles/23/07/06/daily-deals-july-6-amazon-prime-day-gift-card-offer-800-off-m1-macbook-pro-more?utm_medium=rss)
- - [Nothing Phone 2 camera and display specs leak days ahead of launch](https://www.theverge.com/2023/7/6/23785836/nothing-phone-2-camera-display-specs-launch-leak)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Pokémon Sleep looks adorable and sounds kind of intrusive in new video](https://www.theverge.com/2023/7/6/23785767/pokemon-sleep-how-to-play-android-preregister)<!-- TECH:END -->
+ - [You can now buy a de-Googled, ethically sourced, and private smartphone for $599](https://www.androidauthority.com/fairphone-4-launches-in-us-3343060/)
+ - [How to transfer your number to Mint Mobile](https://www.androidauthority.com/how-to-transfer-your-number-to-mint-mobile-3343104/)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [How Threads Could Kill Twitter](https://www.wired.com/story/threads-app-twitter-rival-meta/)
+ - [A look at London-based VC firm Balderton&#39;s new wellbeing program for founders, seeking to tackle the stress and burnout inherent to building a tech startup &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230706/p25#a230706p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

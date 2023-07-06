@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US fintech group FIS agrees to sell a majority stake in its merchant payments arm Worldpay to private equity firm GTCR for up to $18.5B, including $11.7B cash &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230706/p16#a230706p16)
  - [Get ready to pay more for the iPhone 15 Pro Max than ever before](https://appleinsider.com/articles/23/07/06/get-ready-to-pay-more-for-the-iphone-15-pro-max-than-ever-before?utm_medium=rss)
  - [&#39;Jujutsu Kaisen&#39; Season 2: How to Watch the Anime Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/jujutsu-kaisen-season-2-how-to-watch-the-anime-series-from-anywhere/#ftag=CAD590a51e)
  - [PitchBook: US VCs invested $39.8B in Q2 2023, down ~50% YoY, across 3,011 startup deals, down ~33% YoY, with the number of angel or seed deals falling ~50% YoY &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/230706/p15#a230706p15)
- - [Amazon&#39;s New Echo Buds Have 2 Key Features Missing From Other Cheap Earbuds     - CNET](https://www.cnet.com/tech/mobile/amazons-new-echo-buds-have-2-key-features-missing-from-other-cheap-earbuds/#ftag=CAD590a51e)
- - [The Best Motorola Phones &lpar;2023&rpar;: Pro and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
+ - [Amazon&#39;s New Echo Buds Have 2 Key Features Missing From Other Cheap Earbuds     - CNET](https://www.cnet.com/tech/mobile/amazons-new-echo-buds-have-2-key-features-missing-from-other-cheap-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

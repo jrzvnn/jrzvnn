@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastodon CEO says the launch of Instagram&#39;s Threads, which intends to adopt ActivityPub, &quot;is a clear victory for our cause, hopefully one of many to come&quot; &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/230705/p36#a230705p36)
  - [Instagram’s Threads app goes live on Android and iOS](https://www.androidauthority.com/threads-app-launch-3342672/)
  - [Sources: CFTC investigators concluded that bankrupt crypto lender Celsius Network misled investors and that its former CEO Alex Mashinsky also broke US rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/230705/p35#a230705p35)
  - [Twitter subsidiary Twitter Payments secured its first US money transmitter licenses over the last week from Michigan, Missouri, and New Hampshire &lpar;Fortune&rpar;](http://www.techmeme.com/230705/p34#a230705p34)
- - [Samsung finally sets a date for the next ‘Galaxy Unpacked’ launch event](https://www.androidauthority.com/samsung-unpacked-2023-date-announcement-3342673/)
- - [Fairphone 4: A Phone For Those Who Care About Sustainability, Not Megapixels     - CNET](https://www.cnet.com/tech/mobile/fairphone-4-a-phone-for-those-who-care-about-sustainability-not-megapixels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung finally sets a date for the next ‘Galaxy Unpacked’ launch event](https://www.androidauthority.com/samsung-unpacked-2023-date-announcement-3342673/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
- - 💣 [Steph curry finds a dead spot on the court](http://9gag.com/gag/a3ZN3r1)
  - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 👉 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)<!-- MEMES:END -->
+ - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 👉 [France &lpar;Nantes&rpar;. They were making too much noise. She was upset. Third-worldisation of France](http://9gag.com/gag/ay2vdmq)<!-- MEMES:END -->
 
 ---
 </div>

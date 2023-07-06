@@ -185,11 +185,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 2 wallpapers are now up for grabs!](https://www.androidauthority.com/nothing-phone-2-wallpapers-3342719/)
  - [Mark Zuckerberg says Threads passed 5M sign ups in the first four hours of availability &lpar;Mark Zuckerberg/@zuck@threads.net&rpar;](http://www.techmeme.com/230706/p2#a230706p2)
  - [A look at Dustin Moskovitz&#39;s Open Philanthropy, which has spent ~$500M on student scholarships and more at Stanford and other universities to fight rogue AI &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230706/p1#a230706p1)
  - [Lifetime access to Windows 11 Pro is now 84% off, dropping the price to $29.97](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [Mastodon CEO says the launch of Instagram&#39;s Threads, which intends to adopt ActivityPub, &quot;is a clear victory for our cause, hopefully one of many to come&quot; &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/230705/p36#a230705p36)
- - [Instagram takes on Twitter with Threads, now live on Android and iOS](https://www.androidauthority.com/threads-app-launch-3342672/)<!-- TECH:END -->
+ - [Mastodon CEO says the launch of Instagram&#39;s Threads, which intends to adopt ActivityPub, &quot;is a clear victory for our cause, hopefully one of many to come&quot; &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/230705/p36#a230705p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

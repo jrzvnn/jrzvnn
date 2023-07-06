@@ -194,11 +194,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jean-Claude Van Damme on the set of PREDATOR &lpar;1987&rpar;, in the original Predator suit design before he was fired from the film.](http://9gag.com/gag/arm8Rzd)
+ - 😝 [277](http://9gag.com/gag/agoK05g)
  - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - ⏩ [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
+ - ⏩ [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 👉 [Welcome to France. Shoot a Muslim immigrant and become a millionaire.](http://9gag.com/gag/a4ow9nw)<!-- MEMES:END -->
 
 ---
 </div>

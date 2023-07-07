@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 💣 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - 💣 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
  - 😝 [One bar is enough for prison](http://9gag.com/gag/az248Az)
- - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
+ - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
 
 ---
 </div>

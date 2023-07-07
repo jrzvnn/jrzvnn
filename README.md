@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 😝 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
- - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - 😝 [If you know, you know.](http://9gag.com/gag/aOxpv9M)
- - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
+ - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 😝 [Added to playlist](http://9gag.com/gag/aYVR49m)
+ - 💣 [You only had one job](http://9gag.com/gag/a8qVpX3)
+ - 😝 [No more title ideas..](http://9gag.com/gag/aRER1ej)
+ - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
 
 ---
 </div>

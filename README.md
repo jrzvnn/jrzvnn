@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Samsung Galaxy deals of July 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
  - [Rumor: OLED MacBook pushed to 2027 due to manufacturing challenges](https://appleinsider.com/articles/23/07/07/rumor-oled-macbook-pushed-to-2027-due-to-manufacturing-challenges?utm_medium=rss)
  - [Less than two days after launch, Mark Zuckerberg says Threads signups reached 70M, which is &quot;way beyond our expectations&quot; &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230707/p15#a230707p15)
  - [Mercedes-Benz is going to use Tesla’s EV charging too](https://www.theverge.com/2023/7/7/23787186/mercedes-benz-tesla-nacs-ev-charging-standard)
- - [Is a Mint Mobile family plan worth the switch?](https://www.androidauthority.com/mint-mobile-family-plan-3343511/)
- - [In Adult Swim’s My Adventures with Superman, that ‘S’ stands for ‘shonen’](https://www.theverge.com/23786075/my-adventures-with-superman-review-adult-swim)<!-- TECH:END -->
+ - [Is a Mint Mobile family plan worth the switch?](https://www.androidauthority.com/mint-mobile-family-plan-3343511/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

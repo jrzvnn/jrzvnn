@@ -185,10 +185,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google Photos adds new video effects for Pixel owners and Google One subscribers](https://www.androidauthority.com/google-photos-new-video-effects-3343423/)
+ - [The Biggest Changes I Want to See in Samsung&#39;s Galaxy Z Flip 5     - CNET](https://www.cnet.com/tech/mobile/how-samsung-could-take-the-galaxy-z-flip-5-to-the-next-level/#ftag=CAD590a51e)
  - [data.ai: Bluesky hits a million downloads globally across iOS and Android, roughly four months after launch; Bluesky has been installed ~300k since June 30 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230707/p12#a230707p12)
  - [Telegram has become a window into war](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)
- - [7 Best Smart Plugs &lpar;2023&rpar;: Compact Plugs, Power Strips, and Advice](https://www.wired.com/gallery/best-smart-plugs/)
- - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Get Deep Discounts on Blue Apron Meal Kits With This Deal     - CNET](https://www.cnet.com/deals/get-deep-discounts-on-blue-apron-meal-kits-with-this-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

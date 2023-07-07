@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 💣 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
- - 👉 [What is going on here?](http://9gag.com/gag/az24A8x)<!-- MEMES:END -->
+ - 😝 [The Fermented Fish Challenge](http://9gag.com/gag/aA0vDY0)
+ - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 💣 [No no, not this way .........](http://9gag.com/gag/ay2vxDV)
+ - 😝 [No](http://9gag.com/gag/aeQReQp)
+ - 👉 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s when Apple’s first foldable MacBook could be coming](https://www.androidauthority.com/apple-macbook-foldable-folding-screen-3343383/)
  - [Some EU-based Instagram users, including football clubs and media companies, are accessing Threads despite Meta not having launched the platform in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/230707/p7#a230707p7)
  - [YouTube is testing AI-generated quizzes to check if you learnt something new](https://www.androidauthority.com/youtube-ai-generated-quizzes-experiment-3343386/)
  - [Uber, DoorDash, and Grubhub sue NYC, seeking to block new minimum pay standards that increased the hourly wage for gig workers to ~$18 and $20 by 2025 &lpar;New York Times&rpar;](http://www.techmeme.com/230707/p6#a230707p6)
- - [Jony Ive designs $60,000 turntable for Scottish hi-fi pioneers](https://appleinsider.com/articles/23/07/07/jony-ive-designs-60000-turntable-for-scottish-hi-fi-pioneers?utm_medium=rss)
- - [Alibaba unveils Tongyi Wanxiang, an AI-based image generator initially available to enterprise customers in beta, to rival Midjourney and OpenAI&#39;s DALL-E &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230707/p5#a230707p5)<!-- TECH:END -->
+ - [Jony Ive designs $60,000 turntable for Scottish hi-fi pioneers](https://appleinsider.com/articles/23/07/07/jony-ive-designs-60000-turntable-for-scottish-hi-fi-pioneers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

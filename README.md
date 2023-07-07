@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to 35% on the best in portable power solutions with Bluetti&#39;s unbeatable Prime Day deals](https://appleinsider.com/articles/23/07/07/save-up-to-35-on-the-best-in-portable-power-solutions-with-bluettis-unbeatable-prime-day-deals?utm_medium=rss)
+ - [Apple removed several predatory lending apps from India&#39;s App Store; some of the apps reached the finance list&#39;s top 20 despite hundreds of negative reviews &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230707/p10#a230707p10)
+ - [You told us: You’re undoubtedly looking forward to the Pixel Watch 2](https://www.androidauthority.com/look-forward-pixel-watch-2-poll-results-3343396/)
  - [Casetify’s gorgeous Evangelion iPhone and AirPods cases are &lpar;not&rpar; just a dream](https://www.theverge.com/2023/7/7/23786384/casetify-evangelion-iphone-airpods-cases)
- - [TP-Link’s new three-pack mesh router reminds you it’s okay to just have Wi-Fi 6](https://www.theverge.com/2023/7/7/23786838/tp-link-deco-x55-pro-wifi-6-mesh-router-gigabit-internet)
- - [New &#39;Shot on iPhone&#39; film is an action-packed Mexican Wrestler movie](https://appleinsider.com/articles/23/07/07/new-shot-on-iphone-film-is-an-action-packed-mexican-movie?utm_medium=rss)
- - [Crypto bridging protocol Multichain confirms a $130M exploit affecting user-supplied tokens and recommends &quot;all users suspend the use of Multichain services&quot; &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230707/p9#a230707p9)
- - [Apple&#39;s disputed Irish tax account loses $1 billion](https://appleinsider.com/articles/23/07/07/apples-disputed-irish-tax-account-loses-1-billion?utm_medium=rss)<!-- TECH:END -->
+ - [TP-Link’s new three-pack mesh router reminds you it’s okay to just have Wi-Fi 6](https://www.theverge.com/2023/7/7/23786838/tp-link-deco-x55-pro-wifi-6-mesh-router-gigabit-internet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

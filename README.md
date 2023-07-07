@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [iPhone 15 Pro rumored to gain a darker shade of blue](https://appleinsider.com/articles/23/07/07/iphone-15-pro-rumored-to-gain-a-darker-shade-of-blue?utm_medium=rss)
  - [X Corp. sues Wachtell to recover most of the $90M fee the law firm received from Twitter for defeating Elon Musk&#39;s bid to walk away from his $44B Twitter buyout &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230707/p18#a230707p18)
  - [Diablo 4: First Season Start Date, Battle Pass and More About the Darker Dungeon Crawler     - CNET](https://www.cnet.com/tech/gaming/diablo-4-first-season-start-date-battle-pass-and-more-about-the-darker-dungeon-crawler/#ftag=CAD590a51e)
- - [Best Games on Xbox Game Pass: GTA 5 Returns in July     - CNET](https://www.cnet.com/tech/gaming/best-games-on-xbox-game-pass-gta-v-returns-in-july/#ftag=CAD590a51e)
- - [Despite China smartphone market contraction, Apple is still expanding](https://appleinsider.com/articles/23/07/07/despite-china-smartphone-market-contraction-apple-is-still-expanding?utm_medium=rss)<!-- TECH:END -->
+ - [Best Games on Xbox Game Pass: GTA 5 Returns in July     - CNET](https://www.cnet.com/tech/gaming/best-games-on-xbox-game-pass-gta-v-returns-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

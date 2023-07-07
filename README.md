@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king casual](http://9gag.com/gag/aOxpYgr)
- - 😝 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - 💣 [Express Piano Lessons](http://9gag.com/gag/a8qV8g6)
- - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
- - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
+ - 😝 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 💣 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---
 </div>

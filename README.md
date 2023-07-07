@@ -193,10 +193,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
- - 😝 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
- - 💣 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 😝 [If you know, you know.](http://9gag.com/gag/aOxpv9M)
+ - 😝 [F**king casual](http://9gag.com/gag/aOxpYgr)
+ - 😝 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 💣 [Express Piano Lessons](http://9gag.com/gag/a8qV8g6)
+ - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
  - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
 
 ---

@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now Google Calendar lets you specify which times you’ll be in the office](https://www.theverge.com/2023/7/7/23787119/google-calendar-office-times-work-from-home)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [A researcher says a Bangladesh government site is leaking data of millions of citizens, including names, phone numbers, email addresses, and national ID numbers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230707/p13#a230707p13)
  - [Reddit demands moderators remove NSFW labels, or else](https://www.theverge.com/2023/7/6/23786474/reddit-nsfw-moderator-protest-final-warning)
- - [A thumbs-up Emoji 👍 is now as good as a signature on a legal contract](https://www.androidauthority.com/thumbs-up-emoji-contract-3343459/)
- - [&#39;Apple Music&#39; can&#39;t be trademarked, says appeals court](https://appleinsider.com/articles/23/07/07/apple-music-cant-be-trademarked-says-appeals-court?utm_medium=rss)
- - [Twitter’s running busted ads for Amazon and Sky TV](https://www.theverge.com/2023/7/7/23786988/twitter-ads-placeholder-bug-amazon-sky-tv)
- - [Apple cracks down on lending apps after deepfake nudes threat](https://appleinsider.com/articles/23/07/07/apple-cracks-down-on-lending-apps-after-deepfake-nudes-threat?utm_medium=rss)<!-- TECH:END -->
+ - [A thumbs-up Emoji 👍 is now as good as a signature on a legal contract](https://www.androidauthority.com/thumbs-up-emoji-contract-3343459/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

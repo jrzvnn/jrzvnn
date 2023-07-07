@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Added to playlist](http://9gag.com/gag/aYVR49m)
- - 😝 [You only had one job](http://9gag.com/gag/a8qVpX3)
- - 💣 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 😝 [No more title ideas..](http://9gag.com/gag/aRER1ej)
- - 👉 [Express Piano Lessons](http://9gag.com/gag/a8qV8g6)<!-- MEMES:END -->
+ - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
+ - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
+ - 💣 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 👉 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)<!-- MEMES:END -->
 
 ---
 </div>

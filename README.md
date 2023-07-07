@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well this is awkward.](http://9gag.com/gag/aDYQWXK)
- - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 💣 [What is going on here?](http://9gag.com/gag/az24A8x)
- - 😝 [Praising Japan for safety is forbidden now](http://9gag.com/gag/aBd4rGD)
- - 👉 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)<!-- MEMES:END -->
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
+ - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
 
 ---
 </div>

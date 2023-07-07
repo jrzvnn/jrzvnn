@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
  - 😝 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 💣 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 👉 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)<!-- MEMES:END -->
+ - 😝 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 😝 [If you know, you know.](http://9gag.com/gag/aOxpv9M)
+ - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---
 </div>

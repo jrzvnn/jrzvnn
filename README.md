@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wayment, holup, something ain&#39;t right](http://9gag.com/gag/a04OR5B)
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 💣 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
+ - 😝 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
+ - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 👉 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)<!-- MEMES:END -->
 
 ---
 </div>

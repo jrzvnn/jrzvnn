@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: $150 off M2 Pro Mac mini, $399 iPad 10th Generation, 39% off Apple Watch Series 8, more](https://appleinsider.com/articles/23/07/07/deals-150-off-m2-pro-mac-mini-399-ipad-10th-generation-39-off-apple-watch-series-8-more?utm_medium=rss)
  - [Bigger iPhone 16 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
  - [Go ahead, check a bag](https://www.theverge.com/2023/7/7/23786450/go-ahead-check-a-bag)
  - [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
- - [Apple Music didn&#39;t ban track over Vision Pro parody, admits artist](https://appleinsider.com/articles/23/07/07/apple-music-didnt-ban-track-over-vision-pro-parody-admits-artist?utm_medium=rss)
- - [Amazon’s colorful Echo Pop is on sale for just $17.99 ahead of Prime Day](https://www.theverge.com/2023/7/7/23786249/amazon-echo-pop-speaker-prie-day-roomba-sony-dualsense-deal-sale)<!-- TECH:END -->
+ - [Apple Music didn&#39;t ban track over Vision Pro parody, admits artist](https://appleinsider.com/articles/23/07/07/apple-music-didnt-ban-track-over-vision-pro-parody-admits-artist?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

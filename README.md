@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Sonic the Hedgehog co-creator given suspended prison sentence for insider trading](https://www.theverge.com/2023/7/7/23787278/sonic-hedgehog-creator-yuji-naka-suspended-prison-sentence)
  - [Apple TV+ shows may have been filmed for Apple Vision Pro all along](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along?utm_medium=rss)
- - [Google Wallet will soon let you share your travel and event passes with other people](https://www.theverge.com/2023/7/7/23787326/google-wallet-pass-sharing-tickets-android-update)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Apple Vision Pro Will Require In-Store Appointments, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-will-require-in-store-appointments-report-says/#ftag=CAD590a51e)
+ - [Last Chance: Snag Microsoft Office for a $30 One-Time Fee     - CNET](https://www.cnet.com/deals/last-chance-snag-microsoft-office-with-a-30-one-time-fee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

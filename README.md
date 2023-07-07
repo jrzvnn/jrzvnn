@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exactly](http://9gag.com/gag/aXnRv2D)
- - 😝 [Unveiling the $2.3 Billion MSG Sphere lighting up the sky for the first time.](http://9gag.com/gag/aKEKj2j)
- - 💣 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
+ - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 💣 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 😝 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)
+ - 👉 [What is going on here?](http://9gag.com/gag/az24A8x)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Apple Music&#39; can&#39;t be trademarked, says appeals court](https://appleinsider.com/articles/23/07/07/apple-music-cant-be-trademarked-says-appeals-court?utm_medium=rss)
+ - [Twitter’s running busted ads for Amazon and Sky TV](https://www.theverge.com/2023/7/7/23786988/twitter-ads-placeholder-bug-amazon-sky-tv)
  - [Apple cracks down on lending apps after deepfake nudes threat](https://appleinsider.com/articles/23/07/07/apple-cracks-down-on-lending-apps-after-deepfake-nudes-threat?utm_medium=rss)
  - [Shokz OpenFit Review: Unreliable But Comfy](https://www.wired.com/review/shokz-openfit/)
- - [Google Photos adds new video effects for Pixel owners and Google One subscribers](https://www.androidauthority.com/google-photos-new-video-effects-3343423/)
- - [data.ai: Bluesky hits a million downloads globally across iOS and Android, roughly four months after launch; Bluesky has been installed ~300k since June 30 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230707/p12#a230707p12)
- - [Telegram has become a window into war](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)<!-- TECH:END -->
+ - [Google Photos adds new video effects for Pixel owners and Google One subscribers](https://www.androidauthority.com/google-photos-new-video-effects-3343423/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

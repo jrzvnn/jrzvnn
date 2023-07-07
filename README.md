@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 😝 [LET EM FREE AND ENJOY LIFE AT FULLEST](http://9gag.com/gag/anzG9xz)
- - 💣 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
  - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 👉 [May G Force be with you](http://9gag.com/gag/aXnRvOb)<!-- MEMES:END -->
+ - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
 
 ---
 </div>

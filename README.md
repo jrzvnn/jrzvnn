@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bigger iPhone 16 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Go ahead, check a bag](https://www.theverge.com/2023/7/7/23786450/go-ahead-check-a-bag)
  - [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
  - [Apple Music didn&#39;t ban track over Vision Pro parody, admits artist](https://appleinsider.com/articles/23/07/07/apple-music-didnt-ban-track-over-vision-pro-parody-admits-artist?utm_medium=rss)
- - [Amazon’s colorful Echo Pop is on sale for just $17.99 ahead of Prime Day](https://www.theverge.com/2023/7/7/23786249/amazon-echo-pop-speaker-prie-day-roomba-sony-dualsense-deal-sale)
- - [People&#39;s Bank of China fines Ant Group ~$984M for violations in payment, settlement, anti-money laundering, and fund sales businesses, ending a years-long probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/230707/p11#a230707p11)
- - [Can Twitter Alternatives Escape the Enshittification Trap?](https://www.wired.com/story/plaintext-twitter-alternatives-enshittification-trap/)<!-- TECH:END -->
+ - [Amazon’s colorful Echo Pop is on sale for just $17.99 ahead of Prime Day](https://www.theverge.com/2023/7/7/23786249/amazon-echo-pop-speaker-prie-day-roomba-sony-dualsense-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
  - 😝 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)
+ - 💣 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
  - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 💣 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
- - 😝 [This is banger!](http://9gag.com/gag/az24XOm)
- - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
+ - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
 
 ---
 </div>

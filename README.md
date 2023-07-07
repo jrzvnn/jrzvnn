@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri says Threads will not &quot;encourage&quot; politics and &quot;hard news&quot;, as those verticals bring scrutiny not worth the &quot;incremental engagement or revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230707/p16#a230707p16)
- - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
- - [How does Google Fi international roaming work, and is it worth it?](https://www.androidauthority.com/google-fi-international-roaming-3343566/)
- - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
- - [Apple pushing forward with 2024 OLED iPad Pro release](https://appleinsider.com/articles/23/07/07/apple-pushing-forward-with-2024-oled-ipad-pro-release?utm_medium=rss)<!-- TECH:END -->
+ - [Google Wallet will soon let you share your travel and event passes with other people](https://www.theverge.com/2023/7/7/23787326/google-wallet-pass-sharing-tickets-android-update)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Adam Mosseri says Threads will not &quot;encourage&quot; politics and &quot;hard news&quot; as such content brings scrutiny that isn&#39;t worth the &quot;incremental engagement or revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230707/p16#a230707p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

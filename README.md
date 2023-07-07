@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 👉 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)<!-- MEMES:END -->
+ - 😝 [No](http://9gag.com/gag/aeQReQp)
+ - 😝 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
+ - 💣 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 😝 [Added to playlist](http://9gag.com/gag/aYVR49m)
+ - 👉 [You only had one job](http://9gag.com/gag/a8qVpX3)<!-- MEMES:END -->
 
 ---
 </div>

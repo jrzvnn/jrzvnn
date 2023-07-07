@@ -193,10 +193,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 💣 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
  - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 💣 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
  - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---

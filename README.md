@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
  - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - 👉 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)<!-- MEMES:END -->
+ - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
+ - 👉 [What happened?](http://9gag.com/gag/aA0vP70)<!-- MEMES:END -->
 
 ---
 </div>

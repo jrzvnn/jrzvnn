@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
+ - 😝 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
  - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 💣 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
+ - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
+ - 👉 [That\u2019s Zucked up.](http://9gag.com/gag/aNwj1yA)<!-- MEMES:END -->
 
 ---
 </div>

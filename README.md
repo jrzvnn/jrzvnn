@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 😝 [Wrong movie](http://9gag.com/gag/aA0v3xp)
- - 💣 [If you know, you know.](http://9gag.com/gag/aOxpv9M)
- - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
+ - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 😝 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
 
 ---
 </div>

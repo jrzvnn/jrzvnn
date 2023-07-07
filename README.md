@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple cracks down on lending apps after deepfake nudes threat](https://appleinsider.com/articles/23/07/07/apple-cracks-down-on-lending-apps-after-deepfake-nudes-threat?utm_medium=rss)
+ - [Shokz OpenFit Review: Unreliable But Comfy](https://www.wired.com/review/shokz-openfit/)
  - [Google Photos adds new video effects for Pixel owners and Google One subscribers](https://www.androidauthority.com/google-photos-new-video-effects-3343423/)
- - [The Biggest Changes I Want to See in Samsung&#39;s Galaxy Z Flip 5     - CNET](https://www.cnet.com/tech/mobile/how-samsung-could-take-the-galaxy-z-flip-5-to-the-next-level/#ftag=CAD590a51e)
  - [data.ai: Bluesky hits a million downloads globally across iOS and Android, roughly four months after launch; Bluesky has been installed ~300k since June 30 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230707/p12#a230707p12)
- - [Telegram has become a window into war](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)
- - [Get Deep Discounts on Blue Apron Meal Kits With This Deal     - CNET](https://www.cnet.com/deals/get-deep-discounts-on-blue-apron-meal-kits-with-this-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram has become a window into war](https://www.theverge.com/2023/7/7/23786422/telegram-russia-war-news-blogging-censorship-disinformation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

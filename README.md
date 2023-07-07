@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sega co-COO Shuji Utsumi says the company is withholding its biggest games from third-party blockchain gaming projects and is shelving its own blockchain games &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230706/p34#a230706p34)
  - [Lightning Labs announces tools that let developers create AI agents that leverage GPT function calls to hold, send, and receive bitcoin via Lightning Network &lpar;Frederick Munawa/CoinDesk&rpar;](http://www.techmeme.com/230706/p33#a230706p33)
  - [Reddit demands moderators remove NSFW labels, or else](https://www.theverge.com/2023/7/6/23786474/reddit-nsfw-moderator-protest-final-warning)
  - [Best Early Prime Day Deals Under $50     - CNET](https://www.cnet.com/deals/best-prime-day-2023-deals-under-50/#ftag=CAD590a51e)
- - [Volkswagen plans to start its first US tests of autonomous driving in Austin, beginning with a small fleet of ID. Buzz EVs equipped with VW and Mobileye tech &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/230706/p32#a230706p32)
- - [How Threads&#39; Privacy Policy Compares to Twitter&#39;s &lpar;and Its Rivals&#39;&rpar;](https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/)<!-- TECH:END -->
+ - [Volkswagen plans to start its first US tests of autonomous driving in Austin, beginning with a small fleet of ID. Buzz EVs equipped with VW and Mobileye tech &lpar;Kara Carlson/Austin American-Statesman&rpar;](http://www.techmeme.com/230706/p32#a230706p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

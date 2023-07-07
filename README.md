@@ -194,10 +194,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 😝 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)
- - 💣 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 😝 [Wrong movie](http://9gag.com/gag/aA0v3xp)
+ - 💣 [If you know, you know.](http://9gag.com/gag/aOxpv9M)
  - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
+ - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
 
 ---
 </div>

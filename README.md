@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri says Threads will not &quot;encourage&quot; politics and &quot;hard news&quot;, as those verticals bring scrutiny not worth the &quot;incremental engagement or revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230707/p16#a230707p16)
  - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
  - [How does Google Fi international roaming work, and is it worth it?](https://www.androidauthority.com/google-fi-international-roaming-3343566/)
  - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
- - [Apple pushing forward with 2024 OLED iPad Pro release](https://appleinsider.com/articles/23/07/07/apple-pushing-forward-with-2024-oled-ipad-pro-release?utm_medium=rss)
- - [Get Fit by Streaming Free Workouts on Your TV With These Apps     - CNET](https://www.cnet.com/tech/services-and-software/free-tv-streaming-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple pushing forward with 2024 OLED iPad Pro release](https://appleinsider.com/articles/23/07/07/apple-pushing-forward-with-2024-oled-ipad-pro-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

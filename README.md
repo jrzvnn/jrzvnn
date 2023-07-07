@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber, DoorDash, and Grubhub sue NYC, seeking to block new minimum pay standards that increased the hourly wage for gig workers to ~$18 and $20 by 2025 &lpar;New York Times&rpar;](http://www.techmeme.com/230707/p6#a230707p6)
  - [Jony Ive designs $60,000 turntable for Scottish hi-fi pioneers](https://appleinsider.com/articles/23/07/07/jony-ive-designs-60000-turntable-for-scottish-hi-fi-pioneers?utm_medium=rss)
  - [Alibaba unveils Tongyi Wanxiang, an AI-based image generator initially available to enterprise customers in beta, to rival Midjourney and OpenAI&#39;s DALL-E &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230707/p5#a230707p5)
  - [After Threads, There Has to Be a ‘New Twitter’ Moratorium](https://www.wired.com/story/instagram-threads-twitter-bluesky-moratorium/)
- - [Trans People’s Mental Health Is Being Weaponized Against Them](https://www.wired.com/story/trans-gender-affirming-care-mental-health-autism/)
- - [How &#39;Indiana Jones and the Dial of Destiny&#39; De-Aged Harrison Ford](https://www.wired.com/story/indiana-jones-and-the-dial-of-destiny-de-aging-tech/)<!-- TECH:END -->
+ - [Trans People’s Mental Health Is Being Weaponized Against Them](https://www.wired.com/story/trans-gender-affirming-care-mental-health-autism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

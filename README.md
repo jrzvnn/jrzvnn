@@ -188,7 +188,7 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How does Google Fi international roaming work, and is it worth it?](https://www.androidauthority.com/google-fi-international-roaming-3343566/)
  - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
  - [Apple pushing forward with 2024 OLED iPad Pro release](https://appleinsider.com/articles/23/07/07/apple-pushing-forward-with-2024-oled-ipad-pro-release?utm_medium=rss)
- - [Rumor: OLED MacBook pushed to 2027 due to manufacturing challenges](https://appleinsider.com/articles/23/07/07/rumor-oled-macbook-pushed-to-2027-due-to-manufacturing-challenges?utm_medium=rss)<!-- TECH:END -->
+ - [Get Fit by Streaming Free Workouts on Your TV With These Apps     - CNET](https://www.cnet.com/tech/services-and-software/free-tv-streaming-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

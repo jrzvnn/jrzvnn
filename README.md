@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
- - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
- - 💣 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
  - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)<!-- MEMES:END -->
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 😝 [If you know, you know.](http://9gag.com/gag/aOxpv9M)
+ - 👉 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)<!-- MEMES:END -->
 
 ---
 </div>

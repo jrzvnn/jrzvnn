@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 💣 [Added to playlist](http://9gag.com/gag/aYVR49m)
- - 😝 [You only had one job](http://9gag.com/gag/a8qVpX3)
- - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
+ - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
+ - 😝 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - 👉 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)<!-- MEMES:END -->
 
 ---
 </div>

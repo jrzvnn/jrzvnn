@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/a6qGoPe)
- - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
- - 💣 [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
+ - 😝 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
+ - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
+ - 💣 [Added to playlist](http://9gag.com/gag/aYVR49m)
+ - 😝 [You only had one job](http://9gag.com/gag/a8qVpX3)
+ - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
 
 ---
 </div>

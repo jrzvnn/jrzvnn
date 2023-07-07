@@ -187,8 +187,8 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Jony Ive’s LoveFrom worked on this limited edition $60,000 turntable](https://www.theverge.com/2023/7/7/23786821/jony-ive-apple-designer-lovefrom-linn-sondek-lp12-50-turntable-limited-edition)
  - [Vision Pro will require an appointment, initially only in Apple Stores](https://appleinsider.com/articles/23/07/07/vision-pro-will-require-an-appointment-initially-only-in-apple-stores?utm_medium=rss)
  - [Sources: Apple is planning an appointment-only retail launch of the Vision Pro in the US in early 2024, starting with stores in major areas like NY and LA &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230707/p4#a230707p4)
- - [Listen to These Photographs of Sparkling Galaxies](https://www.wired.com/story/listen-to-these-photographs-of-sparkling-galaxies/)
- - [New &#39;Shot on iPhone&#39; film is an action-packed Mexican movie](https://appleinsider.com/articles/23/07/07/new-shot-on-iphone-film-is-an-action-packed-mexican-movie?utm_medium=rss)<!-- TECH:END -->
+ - [Back-to-School Shopping on a Budget: Where to Buy Crayons, Highlighters and More     - CNET](https://www.cnet.com/tech/computing/best-places-to-shop-for-back-to-school-supplies/#ftag=CAD590a51e)
+ - [Listen to These Photographs of Sparkling Galaxies](https://www.wired.com/story/listen-to-these-photographs-of-sparkling-galaxies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

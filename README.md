@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
- - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
- - 💣 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
+ - 😝 [Added to playlist](http://9gag.com/gag/aYVR49m)
+ - 😝 [You only had one job](http://9gag.com/gag/a8qVpX3)
+ - 💣 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 😝 [No more title ideas..](http://9gag.com/gag/aRER1ej)
+ - 👉 [Express Piano Lessons](http://9gag.com/gag/a8qV8g6)<!-- MEMES:END -->
 
 ---
 </div>

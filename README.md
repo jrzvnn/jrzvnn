@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads doesn&#39;t have ads, but Meta representatives are talking with ad agencies and brands, some of which, like Netflix and Wendy&#39;s, already have many followers &lpar;Garett Sloane/Ad Age&rpar;](http://www.techmeme.com/230707/p19#a230707p19)
+ - [Best Early Best Buy Black Friday in July Deals Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
+ - [Nothing Phone 2 Will Upgrade Rear LEDs and Leaks Claim Camera Improvements     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2-upgrade-rear-leds-specs-leak-camera-improvements/#ftag=CAD590a51e)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best Early Prime Day Deals on Laptops     - CNET](https://www.cnet.com/deals/best-early-prime-day-deals-on-laptops/#ftag=CAD590a51e)
- - [Should You Buy an At-Home Food Sensitivity Test Kit on Amazon Prime Day 2023?     - CNET](https://www.cnet.com/health/nutrition/should-you-buy-an-at-home-food-sensitivity-test-kit-on-prime-day/#ftag=CAD590a51e)
- - [iPhone 15 Pro rumored to gain a darker shade of blue](https://appleinsider.com/articles/23/07/07/iphone-15-pro-rumored-to-gain-a-darker-shade-of-blue?utm_medium=rss)
- - [X Corp. sues Wachtell to recover most of the $90M fee the law firm received from Twitter for defeating Elon Musk&#39;s bid to walk away from his $44B Twitter buyout &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230707/p18#a230707p18)<!-- TECH:END -->
+ - [Best Early Prime Day Deals on Laptops     - CNET](https://www.cnet.com/deals/best-early-prime-day-deals-on-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 💣 [That\u2019s Zucked up.](http://9gag.com/gag/aNwj1yA)
+ - 😝 [Unveiling the $2.3 Billion MSG Sphere lighting up the sky for the first time.](http://9gag.com/gag/aKEKj2j)
  - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/a7qn38r)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bigger iPhone 15 batteries, iOS 17 Personal Voice, and Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/07/bigger-iphone-16-batteries-ios-17-personal-voice-and-threads-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How does Google Fi international roaming work, and is it worth it?](https://www.androidauthority.com/google-fi-international-roaming-3343566/)
+ - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
  - [Apple pushing forward with 2024 OLED iPad Pro release](https://appleinsider.com/articles/23/07/07/apple-pushing-forward-with-2024-oled-ipad-pro-release?utm_medium=rss)
- - [Rumor: OLED MacBook pushed to 2027 due to manufacturing challenges](https://appleinsider.com/articles/23/07/07/rumor-oled-macbook-pushed-to-2027-due-to-manufacturing-challenges?utm_medium=rss)
- - [The best Samsung Galaxy deals of July 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Less than two days after launch, Mark Zuckerberg says Threads signups reached 70M, which is &quot;way beyond our expectations&quot; &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230707/p15#a230707p15)
- - [Mercedes-Benz is going to use Tesla’s EV charging too](https://www.theverge.com/2023/7/7/23787186/mercedes-benz-tesla-nacs-ev-charging-standard)<!-- TECH:END -->
+ - [Rumor: OLED MacBook pushed to 2027 due to manufacturing challenges](https://appleinsider.com/articles/23/07/07/rumor-oled-macbook-pushed-to-2027-due-to-manufacturing-challenges?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

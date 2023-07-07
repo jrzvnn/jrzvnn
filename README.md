@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 💣 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 😝 [One bar is enough for prison](http://9gag.com/gag/az248Az)
- - 👉 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)<!-- MEMES:END -->
+ - 😝 [Oops](http://9gag.com/gag/a6qGoPe)
+ - 😝 [The Roundup: No Way Out [2023]](http://9gag.com/gag/aRER3NG)
+ - 💣 [My everyday life](http://9gag.com/gag/aBd417x)
+ - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
 
 ---
 </div>

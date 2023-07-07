@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mercedes-Benz is going to use Tesla’s EV charging too](https://www.theverge.com/2023/7/7/23787186/mercedes-benz-tesla-nacs-ev-charging-standard)
+ - [Is a Mint Mobile family plan worth the switch?](https://www.androidauthority.com/mint-mobile-family-plan-3343511/)
  - [In Adult Swim’s My Adventures with Superman, that ‘S’ stands for ‘shonen’](https://www.theverge.com/23786075/my-adventures-with-superman-review-adult-swim)
  - [Apple&#39;s biggest Vision Pro headset production problem is the displays](https://appleinsider.com/articles/23/07/07/apples-biggest-vision-pro-headset-production-problem-is-the-displays?utm_medium=rss)
- - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
- - [Gemini sues DCG and its founder Barry Silbert, accusing Barry Silbert of being the architect and mastermind of the DCG and Genesis fraud against creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230707/p14#a230707p14)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)<!-- TECH:END -->
+ - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

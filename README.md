@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
- - 💣 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 😝 [Deal](http://9gag.com/gag/avQ9omd)
- - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
+ - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 💣 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 👉 [Wayment, holup, something ain&#39;t right](http://9gag.com/gag/a04OR5B)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 😝 [Good old days](http://9gag.com/gag/a6qGLRR)
- - 💣 [Looks feminine enough](http://9gag.com/gag/a3ZNB6Q)
- - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 👉 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
+ - 😝 [Exactly](http://9gag.com/gag/aXnRv2D)
+ - 😝 [Unveiling the $2.3 Billion MSG Sphere lighting up the sky for the first time.](http://9gag.com/gag/aKEKj2j)
+ - 💣 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
+ - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
 
 ---
 </div>

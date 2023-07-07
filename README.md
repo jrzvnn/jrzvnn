@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
- - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
- - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
- - 👉 [That\u2019s Zucked up.](http://9gag.com/gag/aNwj1yA)<!-- MEMES:END -->
+ - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
+ - 😝 [LET EM FREE AND ENJOY LIFE AT FULLEST](http://9gag.com/gag/anzG9xz)
+ - 💣 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
+ - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
+ - 👉 [May G Force be with you](http://9gag.com/gag/aXnRvOb)<!-- MEMES:END -->
 
 ---
 </div>

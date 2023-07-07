@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German engineering strikes again](http://9gag.com/gag/aWGRmGq)
- - 😝 [No no, not this way .........](http://9gag.com/gag/ay2vxDV)
- - 💣 [No](http://9gag.com/gag/aeQReQp)
- - 😝 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 👉 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)<!-- MEMES:END -->
+ - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
+ - 😝 [What is going on here?](http://9gag.com/gag/az24A8x)
+ - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
+ - 😝 [My everyday life](http://9gag.com/gag/aBd417x)
+ - 👉 [GIF contest! Show me what you got!](http://9gag.com/gag/a5X576N)<!-- MEMES:END -->
 
 ---
 </div>

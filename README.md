@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive’s LoveFrom worked on this limited edition $60,000 turntable](https://www.theverge.com/2023/7/7/23786821/jony-ive-apple-designer-lovefrom-linn-sondek-lp12-50-turntable-limited-edition)
- - [Vision Pro will require an appointment, initially only in Apple Stores](https://appleinsider.com/articles/23/07/07/vision-pro-will-require-an-appointment-initially-only-in-apple-stores?utm_medium=rss)
- - [Sources: Apple is planning an appointment-only retail launch of the Vision Pro in the US in early 2024, starting with stores in major areas like NY and LA &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230707/p4#a230707p4)
- - [Back-to-School Shopping on a Budget: Where to Buy Crayons, Highlighters and More     - CNET](https://www.cnet.com/tech/computing/best-places-to-shop-for-back-to-school-supplies/#ftag=CAD590a51e)
- - [Listen to These Photographs of Sparkling Galaxies](https://www.wired.com/story/listen-to-these-photographs-of-sparkling-galaxies/)<!-- TECH:END -->
+ - [Jony Ive designs $60,000 turntable for Scottish hi-fi pioneers](https://appleinsider.com/articles/23/07/07/jony-ive-designs-60000-turntable-for-scottish-hi-fi-pioneers?utm_medium=rss)
+ - [Alibaba unveils Tongyi Wanxiang, an AI-based image generator initially available to enterprise customers in beta, to rival Midjourney and OpenAI&#39;s DALL-E &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230707/p5#a230707p5)
+ - [After Threads, There Has to Be a ‘New Twitter’ Moratorium](https://www.wired.com/story/instagram-threads-twitter-bluesky-moratorium/)
+ - [Trans People’s Mental Health Is Being Weaponized Against Them](https://www.wired.com/story/trans-gender-affirming-care-mental-health-autism/)
+ - [How &#39;Indiana Jones and the Dial of Destiny&#39; De-Aged Harrison Ford](https://www.wired.com/story/indiana-jones-and-the-dial-of-destiny-de-aging-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

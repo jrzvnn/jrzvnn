@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Adult Swim’s My Adventures with Superman, that ‘S’ stands for ‘shonen’](https://www.theverge.com/23786075/my-adventures-with-superman-review-adult-swim)
  - [Apple&#39;s biggest Vision Pro headset production problem is the displays](https://appleinsider.com/articles/23/07/07/apples-biggest-vision-pro-headset-production-problem-is-the-displays?utm_medium=rss)
  - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
  - [Gemini sues DCG and its founder Barry Silbert, accusing Barry Silbert of being the architect and mastermind of the DCG and Genesis fraud against creditors &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230707/p14#a230707p14)
- - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)
- - [Prime deal brings best price of 2023 to the Fire HD 8 tablet](https://www.androidauthority.com/fire-hd-8-deal-3343491/)<!-- TECH:END -->
+ - [Instagram’s Threads: all the updates on the new Twitter competitor](https://www.theverge.com/2023/7/5/23784480/threads-instagram-meta-news-twitter-competitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

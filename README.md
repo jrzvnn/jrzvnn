@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vision Pro will require an appointment, initially only in Apple Stores](https://appleinsider.com/articles/23/07/07/vision-pro-will-require-an-appointment-initially-only-in-apple-stores?utm_medium=rss)
+ - [Sources: Apple is planning an appointment-only retail launch of the Vision Pro in the US in early 2024, starting with stores in major areas like NY and LA &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230707/p4#a230707p4)
+ - [Listen to These Photographs of Sparkling Galaxies](https://www.wired.com/story/listen-to-these-photographs-of-sparkling-galaxies/)
  - [New &#39;Shot on iPhone&#39; film is an action-packed Mexican movie](https://appleinsider.com/articles/23/07/07/new-shot-on-iphone-film-is-an-action-packed-mexican-movie?utm_medium=rss)
- - [Google’s now the number 2 smartphone brand, at least in one country](https://www.androidauthority.com/google-pixel-number-2-smartphone-brand-one-country-3343306/)
- - [A profile of Atsuyoshi Koike, the CEO of chip startup Rapidus, which plans to invest ~$35B by 2027 to build 2nm chips in Japan and help the US to counter China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230707/p3#a230707p3)
- - [‘Cheating’ Threads gets Twitter legal threat, passes 30m signups](https://www.androidauthority.com/meta-threads-twitter-legal-threat-3343296/)
- - [Uber and Careem face a driver shortage in Saudi Arabia, largely due to laws letting only Saudis work for the companies and mandating that drivers own their cars &lpar;Samer Al-Atrush/Financial Times&rpar;](http://www.techmeme.com/230707/p2#a230707p2)<!-- TECH:END -->
+ - [Google’s now the number 2 smartphone brand, at least in one country](https://www.androidauthority.com/google-pixel-number-2-smartphone-brand-one-country-3343306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

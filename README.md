@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro Will Require In-Store Appointments, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-will-require-in-store-appointments-report-says/#ftag=CAD590a51e)
+ - [Last Chance: Snag Microsoft Office for a $30 One-Time Fee     - CNET](https://www.cnet.com/deals/last-chance-snag-microsoft-office-with-a-30-one-time-fee/#ftag=CAD590a51e)
+ - [You Can Play This New Apple Arcade Lego Game With Your Kids     - CNET](https://www.cnet.com/tech/gaming/you-can-play-this-new-apple-arcade-lego-game-with-your-kids/#ftag=CAD590a51e)
  - [Google Wallet will soon let you share your travel and event passes with other people](https://www.theverge.com/2023/7/7/23787326/google-wallet-pass-sharing-tickets-android-update)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Adam Mosseri says Threads will not &quot;encourage&quot; politics and &quot;hard news&quot; as such content brings scrutiny that isn&#39;t worth the &quot;incremental engagement or revenue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230707/p16#a230707p16)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

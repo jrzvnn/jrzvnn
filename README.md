@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
- - 😝 [Sour power](http://9gag.com/gag/avQ9neM)
- - 👉 [What happened?](http://9gag.com/gag/aA0vP70)<!-- MEMES:END -->
+ - 😝 [Elegant moves](http://9gag.com/gag/aQEyMVe)
+ - 😝 [What is your favorite movie mistake?? This is mine.](http://9gag.com/gag/aRERKjM)
+ - 💣 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 😝 [What happened?](http://9gag.com/gag/aA0vP70)
+ - 👉 [My everyday life](http://9gag.com/gag/aBd417x)<!-- MEMES:END -->
 
 ---
 </div>

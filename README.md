@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
- - 💣 [How nice it is when they protest while respecting other people&#39;s property. But how did they do it? I don&#39;t understand. It must be magic.](http://9gag.com/gag/ajVRNL8)
  - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 💣 [That\u2019s Zucked up.](http://9gag.com/gag/aNwj1yA)
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
 
 ---
 </div>

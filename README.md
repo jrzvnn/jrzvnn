@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ shows may have been filmed for Apple Vision Pro all along](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along?utm_medium=rss)
  - [Apple Vision Pro Will Require In-Store Appointments, Report Says     - CNET](https://www.cnet.com/tech/computing/apple-vision-pro-will-require-in-store-appointments-report-says/#ftag=CAD590a51e)
  - [Last Chance: Snag Microsoft Office for a $30 One-Time Fee     - CNET](https://www.cnet.com/deals/last-chance-snag-microsoft-office-with-a-30-one-time-fee/#ftag=CAD590a51e)
  - [You Can Play This New Apple Arcade Lego Game With Your Kids     - CNET](https://www.cnet.com/tech/gaming/you-can-play-this-new-apple-arcade-lego-game-with-your-kids/#ftag=CAD590a51e)
- - [Google Wallet will soon let you share your travel and event passes with other people](https://www.theverge.com/2023/7/7/23787326/google-wallet-pass-sharing-tickets-android-update)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Google Wallet will soon let you share your travel and event passes with other people](https://www.theverge.com/2023/7/7/23787326/google-wallet-pass-sharing-tickets-android-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

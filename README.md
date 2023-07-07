@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No](http://9gag.com/gag/aeQReQp)
- - 😝 [Nail salon esthetician gets caught because client knows Cantonese and Mandarin](http://9gag.com/gag/az24qZj)
- - 💣 [I love a culture where the customer isn\u2019t always right](http://9gag.com/gag/aOxpBQR)
- - 😝 [Added to playlist](http://9gag.com/gag/aYVR49m)
- - 👉 [You only had one job](http://9gag.com/gag/a8qVpX3)<!-- MEMES:END -->
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 😝 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 💣 [Indians crazy for that one](http://9gag.com/gag/adPRXjZ)
+ - 😝 [One bar is enough for prison](http://9gag.com/gag/az248Az)
+ - 👉 [If you know, you know.](http://9gag.com/gag/aOxpv9M)<!-- MEMES:END -->
 
 ---
 </div>

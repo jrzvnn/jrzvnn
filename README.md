@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
+ - 😝 [Fail](http://9gag.com/gag/aQEy168)
  - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
- - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
+ - 💣 [So opressed](http://9gag.com/gag/aA0vero)
+ - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 👉 [Wholesome Old Man YouTuber!](http://9gag.com/gag/aKEK77Q)<!-- MEMES:END -->
 
 ---
 </div>

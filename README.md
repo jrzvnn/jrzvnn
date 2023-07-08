@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fail](http://9gag.com/gag/aQEy168)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 💣 [So opressed](http://9gag.com/gag/aA0vero)
- - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 👉 [Wholesome Old Man YouTuber!](http://9gag.com/gag/aKEK77Q)<!-- MEMES:END -->
+ - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
+ - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - 💣 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---
 </div>

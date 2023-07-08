@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s early Prime Day deals on iPads, Apple Pencil drive prices to as low as $79](https://appleinsider.com/articles/23/07/08/amazons-early-prime-day-deals-on-ipads-apple-pencil-drive-prices-to-as-low-as-79?utm_medium=rss)
  - [First &#39;Foundation&#39; episode streams free on YouTube on Monday](https://appleinsider.com/articles/23/07/08/first-foundation-episode-streams-free-on-youtube-on-monday?utm_medium=rss)
  - [Gizmodo’s staff isn’t happy about G/O Media’s AI-generated content](https://www.theverge.com/2023/7/8/23788162/gizmodo-g-o-media-ai-generated-articles-star-wars)
  - [How a new TikTok-style algorithm and pay-to-play scheme ruined Twitter&#39;s complex but functional community, destroying a beloved social network &lpar;Eugene Wei/Remains of the Day&rpar;](http://www.techmeme.com/230708/p9#a230708p9)
- - [The Apple Watch Ultra 2 needs more than a better display to win me over](https://www.androidauthority.com/apple-watch-ultra-2-wishlist-3343428/)
- - [24-hour Apple Watch challenge: Can it replace the iPhone?](https://appleinsider.com/articles/23/07/08/24-hour-apple-watch-challenge-can-it-replace-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [The Apple Watch Ultra 2 needs more than a better display to win me over](https://www.androidauthority.com/apple-watch-ultra-2-wishlist-3343428/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

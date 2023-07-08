@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
+ - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
  - 😝 [Bonding experience](http://9gag.com/gag/a4owQ61)
- - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 💣 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
  - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
+ - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
 
 ---
 </div>

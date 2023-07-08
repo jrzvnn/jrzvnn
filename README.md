@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 😝 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)
- - 💣 [Aww...](http://9gag.com/gag/arm8nG7)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)<!-- MEMES:END -->
+ - 😝 [They had it in the first half... not gonna lie](http://9gag.com/gag/a4owEwp)
+ - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 💣 [Failed to steal a phone through window and escape.](http://9gag.com/gag/amARgB6)
+ - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
+ - 👉 [Never give up and don&#39;t believe everything you read on the internet](http://9gag.com/gag/aRERXxB)<!-- MEMES:END -->
 
 ---
 </div>

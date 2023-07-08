@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With the launch of Threads, Mark Zuckerberg appeared to have some of his swagger back as the public face of the platform&#39;s rollout, amid chaos at Musk&#39;s Twitter &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/230708/p1#a230708p1)
+ - [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)
  - [A judge orders NYC to temporarily delay new minimum pay standards for gig workers pending a July 31 hearing, after Uber, DoorDash, and Grubhub sued the city &lpar;Associated Press&rpar;](http://www.techmeme.com/230707/p21#a230707p21)
  - [The Best Viral TikTok Products That Are Worth Your Money     - CNET](https://www.cnet.com/culture/internet/the-best-viral-tiktok-products-that-are-worth-your-money/#ftag=CAD590a51e)
- - [Prime Video: The 36 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-36-absolute-best-tv-shows-to-watch-july-2023/#ftag=CAD590a51e)
- - [A look at assistive apps like Be My Eyes and Ask Envision, which integrate GPT-4 to give visually impaired users more visual details about the world around them &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230707/p20#a230707p20)
- - [Lowest price ever: MacBook Pro 14-inch with 32GB RAM, 1TB SSD on sale for $1,999, plus $60 off AppleCare](https://appleinsider.com/articles/23/07/08/lowest-price-ever-macbook-pro-14-inch-with-32gb-ram-1tb-ssd-on-sale-for-1999-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Video: The 36 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-36-absolute-best-tv-shows-to-watch-july-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

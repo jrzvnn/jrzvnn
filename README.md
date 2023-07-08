@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 💣 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
- - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
- - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
+ - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
+ - 💣 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 👉 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)<!-- MEMES:END -->
 
 ---
 </div>

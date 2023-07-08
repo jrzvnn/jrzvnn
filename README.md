@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
  - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
- - 💣 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
  - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 👉 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)<!-- MEMES:END -->
+ - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mission: Impossible – Dead Reckoning Part One is the mother of all self-aware AI panic flicks](https://www.theverge.com/2023/7/8/23787426/mission-impossible-dead-reckoning-review)
  - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
  - [Russia’s Notorious Troll Farm Disbands](https://www.wired.com/story/russia-internet-research-agency-disbands/)
  - [How to run games on a Chromebook](https://www.theverge.com/23786958/chromebook-chrome-gaming-how-to)
- - [Be careful with emoji, because they are legally binding in Canada](https://appleinsider.com/articles/23/07/08/canadian-court-rules-thumbs-up-emoji-counts-as-signing-a-contract?utm_medium=rss)
- - [7 Home Security Myths You Should Stop Believing in 2023     - CNET](https://www.cnet.com/home/security/7-home-security-myths-you-should-stop-believing-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Be careful with emoji, because they are legally binding in Canada](https://appleinsider.com/articles/23/07/08/canadian-court-rules-thumbs-up-emoji-counts-as-signing-a-contract?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

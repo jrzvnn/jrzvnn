@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
- - 😝 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
- - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [Not long enough](http://9gag.com/gag/anzG5Oq)<!-- MEMES:END -->
+ - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
+ - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
+ - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
 
 ---
 </div>

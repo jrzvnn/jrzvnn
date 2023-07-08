@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a new TikTok-style algorithm and pay-to-play scheme ruined Twitter&#39;s complex but functional community, destroying a beloved social network &lpar;Eugene Wei/Remains of the Day&rpar;](http://www.techmeme.com/230708/p9#a230708p9)
  - [The Apple Watch Ultra 2 needs more than a better display to win me over](https://www.androidauthority.com/apple-watch-ultra-2-wishlist-3343428/)
  - [24-hour Apple Watch challenge: Can it replace the iPhone?](https://appleinsider.com/articles/23/07/08/24-hour-apple-watch-challenge-can-it-replace-the-iphone?utm_medium=rss)
  - [Twitter&#39;s biggest struggle is its arcane follow-based system, contrasted with TikTok&#39;s algorithmic feed that can allow users with no followers to reach millions &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230708/p8#a230708p8)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-491-3343246/)
- - [The 5 Best Beer Clubs for 2023     - CNET](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-491-3343246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

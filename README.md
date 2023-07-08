@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Threads had the perfect launch thanks to a TikTok-like feed where the follower graph doesn&#39;t matter, easy Instagram-Threads cross-posting tools, and more &lpar;Turner Novak/The Split&rpar;](http://www.techmeme.com/230708/p5#a230708p5)
+ - [Ukraine War: Botanists Risked Their Lives for a Priceless Collection](https://www.wired.com/story/ukraine-scientists-braved-shelling-herbarium/)
  - [BotDefense, a project run by volunteer mods for removing rogue bots on r/gaming and other big subreddits, ceases operations over Reddit&#39;s &quot;antagonistic actions&quot; &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230708/p4#a230708p4)
  - [Ant Group is proposing a buyback of up to 7.6% of shares at a ~$78.5B valuation, almost 70% lower than the $280B market capitalization of its scrapped 2020 IPO &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230708/p3#a230708p3)
- - [Filing: Google says Indian antitrust body CCI&#39;s ruling on Android market abuse is wrongly backed by Amazon&#39;s arguments that Google hindered Fire OS development &lpar;Reuters&rpar;](http://www.techmeme.com/230708/p2#a230708p2)
- - [With the launch of Threads, Mark Zuckerberg appeared to have some of his swagger back as the public face of the platform&#39;s rollout, amid chaos at Musk&#39;s Twitter &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/230708/p1#a230708p1)
- - [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)<!-- TECH:END -->
+ - [Filing: Google says Indian antitrust body CCI&#39;s ruling on Android market abuse is wrongly backed by Amazon&#39;s arguments that Google hindered Fire OS development &lpar;Reuters&rpar;](http://www.techmeme.com/230708/p2#a230708p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

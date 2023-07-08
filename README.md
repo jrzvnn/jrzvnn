@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24-hour Apple Watch challenge: Can it replace the iPhone?](https://appleinsider.com/articles/23/07/08/24-hour-apple-watch-challenge-can-it-replace-the-iphone?utm_medium=rss)
  - [Twitter&#39;s biggest struggle is its arcane follow-based system, contrasted with TikTok&#39;s algorithmic feed that can allow users with no followers to reach millions &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230708/p8#a230708p8)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-491-3343246/)
- - [Google Pixel Tablet review: Should you buy it?](https://www.androidauthority.com/google-pixel-tablet-review-3343067/)
- - [How Telegram became a key channel for news about Russia&#39;s invasion of Ukraine, but its hands-off moderation turned the messaging app into a misinformation tool &lpar;Masha Borak/The Verge&rpar;](http://www.techmeme.com/230708/p7#a230708p7)
- - [The good version of TweetDeck is back, but for how long?](https://www.theverge.com/2023/7/8/23787968/tweetdeck-twitter-api-rate-limits-elon-musk)<!-- TECH:END -->
+ - [The 5 Best Beer Clubs for 2023     - CNET](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
+ - [Google Pixel Tablet review: Should you buy it?](https://www.androidauthority.com/google-pixel-tablet-review-3343067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 😝 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
+ - 😝 [Well this is awkward.](http://9gag.com/gag/aDYQWXK)
  - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 👉 [May G Force be with you](http://9gag.com/gag/aXnRvOb)<!-- MEMES:END -->
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 👉 [They Started Digging Foundation For That 170 Kilometers Long Building In Saudi Arabia](http://9gag.com/gag/adPR9XM)<!-- MEMES:END -->
 
 ---
 </div>

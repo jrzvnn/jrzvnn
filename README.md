@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
  - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 😝 [Wholesome Old Man YouTuber!](http://9gag.com/gag/aKEK77Q)
- - 💣 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 😝 [They Started Digging Foundation For That 170 Kilometers Long Building In Saudi Arabia](http://9gag.com/gag/adPR9XM)
- - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
+ - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
+ - 👉 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)<!-- MEMES:END -->
 
 ---
 </div>

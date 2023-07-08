@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV: you wake up in Lisbon, Portugal](http://9gag.com/gag/adPR8wM)
+ - 😝 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)
  - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 💣 [Natural Selection at play](http://9gag.com/gag/aL1WjzP)
- - 😝 [Kinda fun ngl](http://9gag.com/gag/aZDRry6)
- - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
+ - 💣 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 😝 [Natural Selection at play](http://9gag.com/gag/aL1WjzP)
+ - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
 
 ---
 </div>

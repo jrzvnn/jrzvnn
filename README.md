@@ -193,10 +193,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 💣 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
- - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
+ - 😝 [Better luck next time](http://9gag.com/gag/awZenEB)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
+ - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
  - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
 
 ---

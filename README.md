@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 😝 [The Other Guys](http://9gag.com/gag/aGE7p1G)
- - 💣 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
- - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
+ - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 💣 [Well, of course I know him. He is me](http://9gag.com/gag/avQ9z8M)
+ - 😝 [Great success!](http://9gag.com/gag/aWGRE4n)
+ - 👉 [Wholesome Old Man YouTuber!](http://9gag.com/gag/aKEK77Q)<!-- MEMES:END -->
 
 ---
 </div>

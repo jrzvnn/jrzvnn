@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
  - 😝 [Failed to steal a phone through window and escape.](http://9gag.com/gag/amARgB6)
- - 💣 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
  - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 👉 [POV: you wake up in Lisbon, Portugal](http://9gag.com/gag/adPR8wM)<!-- MEMES:END -->
+ - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 😝 [Natural Selection at play](http://9gag.com/gag/aL1WjzP)
+ - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
 
 ---
 </div>

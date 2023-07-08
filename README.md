@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed to steal a phone through window and escape.](http://9gag.com/gag/amARgB6)
- - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
+ - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
  - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 😝 [Natural Selection at play](http://9gag.com/gag/aL1WjzP)
- - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
+ - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 👉 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)<!-- MEMES:END -->
 
 ---
 </div>

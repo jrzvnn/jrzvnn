@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Russia’s Notorious Troll Farm Disbands](https://www.wired.com/story/russia-internet-research-agency-disbands/)
+ - [How to run games on a Chromebook](https://www.theverge.com/23786958/chromebook-chrome-gaming-how-to)
  - [Be careful with emoji, because they are legally binding in Canada](https://appleinsider.com/articles/23/07/08/canadian-court-rules-thumbs-up-emoji-counts-as-signing-a-contract?utm_medium=rss)
- - [How to Spot Fake Reviews on Amazon &lpar;2023&rpar;: Tools and Advice](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
- - [Lenovo Yoga Book 9i Review: Dual Screen Fun](https://www.wired.com/review/lenovo-yoga-book-9i/)
- - [When the Woods Get Noisy, the Animals Get Nervous](https://www.wired.com/story/when-the-woods-get-noisy-the-animals-get-nervous/)
- - [A profile of New Jersey-based subsea cable company SubCom, which sources say the US military uses exclusively for its undersea internet and surveillance cables &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230708/p6#a230708p6)<!-- TECH:END -->
+ - [7 Home Security Myths You Should Stop Believing in 2023     - CNET](https://www.cnet.com/home/security/7-home-security-myths-you-should-stop-believing-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
+ - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
  - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 💣 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
+ - 👉 [May G Force be with you](http://9gag.com/gag/aXnRvOb)<!-- MEMES:END -->
 
 ---
 </div>

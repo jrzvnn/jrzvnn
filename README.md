@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Video: The 36 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-36-absolute-best-tv-shows-to-watch-july-2023/#ftag=CAD590a51e)
  - [A look at assistive apps like Be My Eyes and Ask Envision, which integrate GPT-4 to give visually impaired users more visual details about the world around them &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230707/p20#a230707p20)
  - [Lowest price ever: MacBook Pro 14-inch with 32GB RAM, 1TB SSD on sale for $1,999, plus $60 off AppleCare](https://appleinsider.com/articles/23/07/08/lowest-price-ever-macbook-pro-14-inch-with-32gb-ram-1tb-ssd-on-sale-for-1999-plus-60-off-applecare?utm_medium=rss)
  - [Best Budget Earbuds for 2023: Cheap Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
- - [The 8 Best Memory Foam Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
- - [Threads doesn&#39;t have ads, but Meta representatives are talking with ad agencies and brands, some of which, like Netflix and Wendy&#39;s, already have many followers &lpar;Garett Sloane/Ad Age&rpar;](http://www.techmeme.com/230707/p19#a230707p19)<!-- TECH:END -->
+ - [The 8 Best Memory Foam Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

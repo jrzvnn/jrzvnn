@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 💣 [No good deed goes unpunished.](http://9gag.com/gag/anzG9j0)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)<!-- MEMES:END -->
+ - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [Wholesome Old Man YouTuber!](http://9gag.com/gag/aKEK77Q)
+ - 💣 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 😝 [They Started Digging Foundation For That 170 Kilometers Long Building In Saudi Arabia](http://9gag.com/gag/adPR9XM)
+ - 👉 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)<!-- MEMES:END -->
 
 ---
 </div>

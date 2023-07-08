@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Other Guys](http://9gag.com/gag/aGE7p1G)
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/anzG9j0)
- - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
  - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
+ - 😝 [The Other Guys](http://9gag.com/gag/aGE7p1G)
+ - 💣 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
+ - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
 
 ---
 </div>

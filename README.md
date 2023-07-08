@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 😝 [Bonding experience](http://9gag.com/gag/a4owQ61)
- - 💣 [How crabsticks are made](http://9gag.com/gag/aL1Wgv6)
- - 😝 [Deal](http://9gag.com/gag/avQ9omd)
- - 👉 [Not long enough](http://9gag.com/gag/anzG5Oq)<!-- MEMES:END -->
+ - 😝 [That\u2019s Zucked up.](http://9gag.com/gag/aNwj1yA)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 💣 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
+ - 👉 [No good deed goes unpunished.](http://9gag.com/gag/anzG9j0)<!-- MEMES:END -->
 
 ---
 </div>

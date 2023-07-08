@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)
- - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 💣 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 😝 [Natural Selection at play](http://9gag.com/gag/aL1WjzP)
- - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
+ - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
+ - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 👉 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We just want to tell you that, We know that you know... keep scrolling.](http://9gag.com/gag/a1POo38)
- - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
- - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 👉 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)<!-- MEMES:END -->
+ - 😝 [So opressed](http://9gag.com/gag/aA0vero)
+ - 😝 [How far are u willing to go for your loved ones?](http://9gag.com/gag/a04OKmL)
+ - 💣 [F**king casual](http://9gag.com/gag/aOxpYgr)
+ - 😝 [On 7th day of glorious White history month, we remember this glorious white guy, Wilhelm Conrad R\u00f6ntgen, for his discovery of X-rays, which heralded the age of modern physics and revolutionized diagnostic medicine. His discovery helped doctors correctly cure billions of people.](http://9gag.com/gag/aDYQgAG)
+ - 👉 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)<!-- MEMES:END -->
 
 ---
 </div>

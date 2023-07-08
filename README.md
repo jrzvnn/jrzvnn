@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s Zucked up.](http://9gag.com/gag/aNwj1yA)
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 💣 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
- - 👉 [No good deed goes unpunished.](http://9gag.com/gag/anzG9j0)<!-- MEMES:END -->
+ - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 💣 [No good deed goes unpunished.](http://9gag.com/gag/anzG9j0)
+ - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 👉 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)<!-- MEMES:END -->
 
 ---
 </div>

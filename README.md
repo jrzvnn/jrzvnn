@@ -184,10 +184,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Be careful with emoji, because they are legally binding in Canada](https://appleinsider.com/articles/23/07/08/canadian-court-rules-thumbs-up-emoji-counts-as-signing-a-contract?utm_medium=rss)
  - [How to Spot Fake Reviews on Amazon &lpar;2023&rpar;: Tools and Advice](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
  - [Lenovo Yoga Book 9i Review: Dual Screen Fun](https://www.wired.com/review/lenovo-yoga-book-9i/)
  - [When the Woods Get Noisy, the Animals Get Nervous](https://www.wired.com/story/when-the-woods-get-noisy-the-animals-get-nervous/)
- - [Canadian court rules &#39;thumbs-up&#39; emoji counts as signing a contract](https://appleinsider.com/articles/23/07/08/canadian-court-rules-thumbs-up-emoji-counts-as-signing-a-contract?utm_medium=rss)
  - [A profile of New Jersey-based subsea cable company SubCom, which sources say the US military uses exclusively for its undersea internet and surveillance cables &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230708/p6#a230708p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

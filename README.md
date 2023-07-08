@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads doesn&#39;t have ads, but Meta representatives are talking with ad agencies and brands, some of which, like Netflix and Wendy&#39;s, already have many followers &lpar;Garett Sloane/Ad Age&rpar;](http://www.techmeme.com/230707/p19#a230707p19)
- - [Best Early Best Buy Black Friday in July Deals Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
- - [Nothing Phone 2 Will Upgrade Rear LEDs and Leaks Claim Camera Improvements     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-2-upgrade-rear-leds-specs-leak-camera-improvements/#ftag=CAD590a51e)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Best Early Prime Day Deals on Laptops     - CNET](https://www.cnet.com/deals/best-early-prime-day-deals-on-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at assistive apps like Be My Eyes and Ask Envision, which integrate GPT-4 to give visually impaired users more visual details about the world around them &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230707/p20#a230707p20)
+ - [Lowest price ever: MacBook Pro 14-inch with 32GB RAM, 1TB SSD on sale for $1,999, plus $60 off AppleCare](https://appleinsider.com/articles/23/07/08/lowest-price-ever-macbook-pro-14-inch-with-32gb-ram-1tb-ssd-on-sale-for-1999-plus-60-off-applecare?utm_medium=rss)
+ - [Best Budget Earbuds for 2023: Cheap Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
+ - [The 8 Best Memory Foam Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
+ - [Threads doesn&#39;t have ads, but Meta representatives are talking with ad agencies and brands, some of which, like Netflix and Wendy&#39;s, already have many followers &lpar;Garett Sloane/Ad Age&rpar;](http://www.techmeme.com/230707/p19#a230707p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

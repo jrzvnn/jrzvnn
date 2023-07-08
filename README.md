@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So opressed](http://9gag.com/gag/aA0vero)
- - 😝 [How far are u willing to go for your loved ones?](http://9gag.com/gag/a04OKmL)
- - 💣 [F**king casual](http://9gag.com/gag/aOxpYgr)
- - 😝 [On 7th day of glorious White history month, we remember this glorious white guy, Wilhelm Conrad R\u00f6ntgen, for his discovery of X-rays, which heralded the age of modern physics and revolutionized diagnostic medicine. His discovery helped doctors correctly cure billions of people.](http://9gag.com/gag/aDYQgAG)
- - 👉 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)<!-- MEMES:END -->
+ - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
+ - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 💣 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
+ - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
+ - 👉 [Not long enough](http://9gag.com/gag/anzG5Oq)<!-- MEMES:END -->
 
 ---
 </div>

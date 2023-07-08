@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter&#39;s biggest struggle is its arcane follow-based system, contrasted with TikTok&#39;s algorithmic feed that can allow users with no followers to reach millions &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230708/p8#a230708p8)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-491-3343246/)
  - [Google Pixel Tablet review: Should you buy it?](https://www.androidauthority.com/google-pixel-tablet-review-3343067/)
  - [How Telegram became a key channel for news about Russia&#39;s invasion of Ukraine, but its hands-off moderation turned the messaging app into a misinformation tool &lpar;Masha Borak/The Verge&rpar;](http://www.techmeme.com/230708/p7#a230708p7)
- - [The good version of TweetDeck is back, but for how long?](https://www.theverge.com/2023/7/8/23787968/tweetdeck-twitter-api-rate-limits-elon-musk)
- - [Best iPhone 14 Camera Accessories     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-camera-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The good version of TweetDeck is back, but for how long?](https://www.theverge.com/2023/7/8/23787968/tweetdeck-twitter-api-rate-limits-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

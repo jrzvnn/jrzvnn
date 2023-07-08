@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI and You: ChatGPT&#39;s &#39;Novelty&#39; May Be Wearing Off, No Programmers in 5 Years     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpts-novelty-may-be-wearing-off-no-programmers-in-5-years/#ftag=CAD590a51e)
- - [Meta&#39;s Threads had the perfect launch thanks to a TikTok-like feed where the follower graph doesn&#39;t matter, easy Instagram-Threads cross-posting tools, and more &lpar;Turner Novak/The Split&rpar;](http://www.techmeme.com/230708/p5#a230708p5)
- - [Ukraine War: Botanists Risked Their Lives for a Priceless Collection](https://www.wired.com/story/ukraine-scientists-braved-shelling-herbarium/)
- - [BotDefense, a project run by volunteer mods for removing spam bots on r/gaming and other big subreddits, ceases operations over Reddit&#39;s &quot;antagonistic actions&quot; &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230708/p4#a230708p4)
- - [Ant Group is proposing a buyback of up to 7.6% of shares at a ~$78.5B valuation, almost 70% lower than the $280B market capitalization of its scrapped 2020 IPO &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230708/p3#a230708p3)<!-- TECH:END -->
+ - [A profile of New Jersey-based subsea cable company SubCom, which sources say the US military uses exclusively for its undersea internet and surveillance cables &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230708/p6#a230708p6)
+ - [The Weekly Authority: 🧵 All Threads, all the time](https://www.androidauthority.com/the-weekly-authority-july-7-2023-3342774/)
+ - [30 Best Early Amazon Prime Day Deals 2023: Pixel Phones, Amazon Devices, and Robot Vacuums](https://www.wired.com/story/early-prime-day-deals-2023-1/)
+ - [How to Find Your Twitter Friends on Meta&#39;s Threads App](https://www.wired.com/story/how-to-find-twitter-friends-threads-meta/)
+ - [AI and You: ChatGPT&#39;s &#39;Novelty&#39; May Be Wearing Off, No Programmers in 5 Years     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpts-novelty-may-be-wearing-off-no-programmers-in-5-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

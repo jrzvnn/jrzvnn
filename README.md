@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden being threatened because they allow freedom of speech](http://9gag.com/gag/aQEy3KW)
- - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
- - 😝 [They Started Digging Foundation For That 170 Kilometers Long Building In Saudi Arabia](http://9gag.com/gag/adPR9XM)
- - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
+ - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
+ - 😝 [Wayment, holup, something ain&#39;t right](http://9gag.com/gag/a04OR5B)
+ - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 👉 [Sweden being threatened because they allow freedom of speech](http://9gag.com/gag/aQEy3KW)<!-- MEMES:END -->
 
 ---
 </div>

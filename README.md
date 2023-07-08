@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
  - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 💣 [Well, of course I know him. He is me](http://9gag.com/gag/avQ9z8M)
- - 😝 [Great success!](http://9gag.com/gag/aWGRE4n)
- - 👉 [Wholesome Old Man YouTuber!](http://9gag.com/gag/aKEK77Q)<!-- MEMES:END -->
+ - 💣 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
+ - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
+ - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,10 +193,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 😝 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
- - 💣 [What really happened on that plane - \u201cI\u2019m telling you right now, that MF back there is not real\u201d - &lpar;btw, I would&rpar;](http://9gag.com/gag/aPgrjpR)
  - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
+ - 😝 [Bonding experience](http://9gag.com/gag/a4owQ61)
+ - 💣 [How crabsticks are made](http://9gag.com/gag/aL1Wgv6)
+ - 😝 [Deal](http://9gag.com/gag/avQ9omd)
  - 👉 [Not long enough](http://9gag.com/gag/anzG5Oq)<!-- MEMES:END -->
 
 ---

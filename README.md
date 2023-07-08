@@ -193,10 +193,10 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 😝 [Professional water finder](http://9gag.com/gag/aPgrjBq)
- - 💣 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 😝 [Sweden being threatened because they allow freedom of speech](http://9gag.com/gag/aQEy3KW)
+ - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
+ - 💣 [Bonding experience](http://9gag.com/gag/a4owQ61)
+ - 😝 [They Started Digging Foundation For That 170 Kilometers Long Building In Saudi Arabia](http://9gag.com/gag/adPR9XM)
  - 👉 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)<!-- MEMES:END -->
 
 ---

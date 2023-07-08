@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Telegram became a key channel for news about Russia&#39;s invasion of Ukraine, but its hands-off moderation turned the messaging app into a misinformation tool &lpar;Masha Borak/The Verge&rpar;](http://www.techmeme.com/230708/p7#a230708p7)
+ - [The good version of TweetDeck is back, but for how long?](https://www.theverge.com/2023/7/8/23787968/tweetdeck-twitter-api-rate-limits-elon-musk)
+ - [Why are so many phones doing fast charging wrong?](https://www.androidauthority.com/smartphone-fast-charging-problem-3339574/)
  - [Deals: $900 off M1 14-inch MacBook Pro, 45% off Samsung M8 32-inch Smart Monitor, 37% off Amazon Echo Frames](https://appleinsider.com/articles/23/07/08/deals-900-off-m1-14-inch-macbook-pro-45-off-samsung-m8-32-inch-smart-monitor-37-off-amazon-echo-frames?utm_medium=rss)
- - [Apple’s new Mac Studio and 15-inch MacBook Air are both on sale right now](https://www.theverge.com/good-deals/2023/7/8/23786898/apple-mac-studio-15-inch-macbook-air-m2-amazon-echo-show-5-deal-sale)
- - [Mission: Impossible – Dead Reckoning Part One is the mother of all self-aware AI panic flicks](https://www.theverge.com/2023/7/8/23787426/mission-impossible-dead-reckoning-review)
- - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Russia’s Notorious Troll Farm Disbands](https://www.wired.com/story/russia-internet-research-agency-disbands/)<!-- TECH:END -->
+ - [Apple’s new Mac Studio and 15-inch MacBook Air are both on sale right now](https://www.theverge.com/good-deals/2023/7/8/23786898/apple-mac-studio-15-inch-macbook-air-m2-amazon-echo-show-5-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

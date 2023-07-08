@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They had it in the first half... not gonna lie](http://9gag.com/gag/a4owEwp)
- - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 💣 [Failed to steal a phone through window and escape.](http://9gag.com/gag/amARgB6)
- - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
- - 👉 [Never give up and don&#39;t believe everything you read on the internet](http://9gag.com/gag/aRERXxB)<!-- MEMES:END -->
+ - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 😝 [Failed to steal a phone through window and escape.](http://9gag.com/gag/amARgB6)
+ - 💣 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 👉 [POV: you wake up in Lisbon, Portugal](http://9gag.com/gag/adPR8wM)<!-- MEMES:END -->
 
 ---
 </div>

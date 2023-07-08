@@ -185,7 +185,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google’s medical AI chatbot is already being tested in hospitals](https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt)
- - [Some US schools are piloting AI surveillance robots that can detect aggressive behavior in people, alert security, and more, amid growing gun violence concerns &lpar;Megan Tagami/Wall Street Journal&rpar;](http://www.techmeme.com/230708/p10#a230708p10)
+ - [Some US schools are piloting campus surveillance robots that detect aggressive behavior in people, alert security, and more, amid growing gun violence concerns &lpar;Megan Tagami/Wall Street Journal&rpar;](http://www.techmeme.com/230708/p10#a230708p10)
  - [Amazon&#39;s early Prime Day deals on iPads, Apple Pencil drive prices to as low as $79](https://appleinsider.com/articles/23/07/08/amazons-early-prime-day-deals-on-ipads-apple-pencil-drive-prices-to-as-low-as-79?utm_medium=rss)
  - [First &#39;Foundation&#39; episode streams free on YouTube on Monday](https://appleinsider.com/articles/23/07/08/first-foundation-episode-streams-free-on-youtube-on-monday?utm_medium=rss)
  - [Gizmodo’s staff isn’t happy about G/O Media’s AI-generated content](https://www.theverge.com/2023/7/8/23788162/gizmodo-g-o-media-ai-generated-articles-star-wars)<!-- TECH:END -->

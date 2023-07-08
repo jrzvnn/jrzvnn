@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
- - 👉 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)<!-- MEMES:END -->
+ - 😝 [She&#39;s worth it ?](http://9gag.com/gag/ay2vDLX)
+ - 😝 [Bonding experience](http://9gag.com/gag/a4owQ61)
+ - 💣 [The perfect candidate for the Army!](http://9gag.com/gag/aOxpBXR)
+ - 😝 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
+ - 👉 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)<!-- MEMES:END -->
 
 ---
 </div>

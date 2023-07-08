@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
+ - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
+ - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 💣 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)
+ - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
 
 ---
 </div>

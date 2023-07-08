@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
  - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 💣 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 💣 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)
  - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
- - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
+ - 👉 [Old toilet seat broke from wear &amp; tear, so landlord replaced it with this\u2026.](http://9gag.com/gag/a8qVoKe)<!-- MEMES:END -->
 
 ---
 </div>

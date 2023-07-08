@@ -184,11 +184,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of New Jersey-based subsea cable company SubCom, which sources say the US military uses exclusively for its undersea internet and surveillance cables &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230708/p6#a230708p6)
- - [The Weekly Authority: 🧵 All Threads, all the time](https://www.androidauthority.com/the-weekly-authority-july-7-2023-3342774/)
- - [30 Best Early Amazon Prime Day Deals 2023: Pixel Phones, Amazon Devices, and Robot Vacuums](https://www.wired.com/story/early-prime-day-deals-2023-1/)
- - [How to Find Your Twitter Friends on Meta&#39;s Threads App](https://www.wired.com/story/how-to-find-twitter-friends-threads-meta/)
- - [AI and You: ChatGPT&#39;s &#39;Novelty&#39; May Be Wearing Off, No Programmers in 5 Years     - CNET](https://www.cnet.com/tech/computing/ai-and-you-chatgpts-novelty-may-be-wearing-off-no-programmers-in-5-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Spot Fake Reviews on Amazon &lpar;2023&rpar;: Tools and Advice](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
+ - [Lenovo Yoga Book 9i Review: Dual Screen Fun](https://www.wired.com/review/lenovo-yoga-book-9i/)
+ - [When the Woods Get Noisy, the Animals Get Nervous](https://www.wired.com/story/when-the-woods-get-noisy-the-animals-get-nervous/)
+ - [Canadian court rules &#39;thumbs-up&#39; emoji counts as signing a contract](https://appleinsider.com/articles/23/07/08/canadian-court-rules-thumbs-up-emoji-counts-as-signing-a-contract?utm_medium=rss)
+ - [A profile of New Jersey-based subsea cable company SubCom, which sources say the US military uses exclusively for its undersea internet and surveillance cables &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230708/p6#a230708p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

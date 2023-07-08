@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
- - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
- - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 😝 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)
  - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 👉 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)<!-- MEMES:END -->
+ - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 👉 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)<!-- MEMES:END -->
 
 ---
 </div>

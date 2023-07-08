@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
- - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
- - 💣 [Mmm hum baga](http://9gag.com/gag/a7qnMQe)
+ - 😝 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
  - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)<!-- MEMES:END -->
+ - 💣 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 😝 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
+ - 👉 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
 
 ---
 </div>

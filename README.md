@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dropping fish from the sky: aerial restocking of remote mountain lakes in Utah](http://9gag.com/gag/a2KOonE)
- - 😝 [Not long enough](http://9gag.com/gag/anzG5Oq)
- - 💣 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 😝 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
+ - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
+ - 💣 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
  - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [Natural Selection at play](http://9gag.com/gag/aL1WjzP)<!-- MEMES:END -->
+ - 👉 [Not long enough](http://9gag.com/gag/anzG5Oq)<!-- MEMES:END -->
 
 ---
 </div>

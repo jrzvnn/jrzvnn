@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
- - 😝 [Wayment, holup, something ain&#39;t right](http://9gag.com/gag/a04OR5B)
+ - 😝 [The Other Guys](http://9gag.com/gag/aGE7p1G)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/anzG9j0)
  - 💣 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 👉 [Sweden being threatened because they allow freedom of speech](http://9gag.com/gag/aQEy3KW)<!-- MEMES:END -->
+ - 😝 [0 - 100 in 1 seconds](http://9gag.com/gag/aMEqjgP)
+ - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
 
 ---
 </div>

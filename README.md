@@ -193,11 +193,11 @@ Ruby                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
- - 😝 [May G Force be with you](http://9gag.com/gag/aXnRvOb)
- - 💣 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 😝 [PearlsBeforeSwine](http://9gag.com/gag/a6qGoO9)
- - 👉 [Not long enough](http://9gag.com/gag/anzG5Oq)<!-- MEMES:END -->
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 💣 [Oh no...! Anyway](http://9gag.com/gag/aVbRw4P)
+ - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
+ - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
  - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 💣 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)
- - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 👉 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)<!-- MEMES:END -->
+ - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 👉 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 😝 [Damn onions got me](http://9gag.com/gag/az242bK)
- - 💣 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
+ - 😝 [Daredevil stunt takes turn](http://9gag.com/gag/aDYQY9x)
+ - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 💣 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 👉 [Average British gal](http://9gag.com/gag/aDYQY5Z)<!-- MEMES:END -->
 
 ---
 </div>

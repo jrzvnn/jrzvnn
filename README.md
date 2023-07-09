@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kinda fun ngl](http://9gag.com/gag/aZDRry6)
  - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
+ - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 💣 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
 
 ---
 </div>

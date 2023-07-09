@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evernote lays off most of its remaining staff in the US and Chile, and will relocate nearly all operations to Europe; Bending Spoons acquired Evernote in 2022 &lpar;Joshua Bote/SFGATE&rpar;](http://www.techmeme.com/230709/p7#a230709p7)
  - [Sources: Sequoia&#39;s China unit HongShan has set up an office in Singapore and might compete with Sequoia&#39;s India-based Peak XV for south-east Asia investments &lpar;Financial Times&rpar;](http://www.techmeme.com/230709/p6#a230709p6)
  - [Repairable headphones are the future, but they’re not perfect yet](https://www.androidauthority.com/sustainable-repairable-headphones-3340673/)
  - [Deals: $99 AirPods Gen 2, $150 off M2 Pro Mac mini, $350 GoPro Hero11 Black](https://appleinsider.com/articles/23/07/09/deals-99-airpods-gen-2-150-off-m2-pro-mac-mini-350-gopro-hero11-black?utm_medium=rss)
- - [Apple Vision Pro won&#39;t be an iPad-level business for quite a while](https://appleinsider.com/articles/23/07/09/apple-vision-pro-wont-be-an-ipad-level-business-for-quite-a-while?utm_medium=rss)
- - [A look at Google&#39;s Med-PaLM 2, an AI chatbot that answers medical questions, and more; sources: testing began in April with customers including the Mayo Clinic &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230709/p5#a230709p5)<!-- TECH:END -->
+ - [Apple Vision Pro won&#39;t be an iPad-level business for quite a while](https://appleinsider.com/articles/23/07/09/apple-vision-pro-wont-be-an-ipad-level-business-for-quite-a-while?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

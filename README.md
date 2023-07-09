@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
- - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 👉 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)<!-- MEMES:END -->
+ - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 💣 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
 
 ---
 </div>

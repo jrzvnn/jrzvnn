@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 💣 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
  - 👉 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)<!-- MEMES:END -->
 
 ---

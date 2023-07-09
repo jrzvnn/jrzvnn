@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: banking lobby group UK Finance claims 61% of all reported authorized push payment fraud by volume go through Meta platforms; ~&amp;pound;485M was stolen in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230709/p2#a230709p2)
  - [Twitch plans to launch ephemeral stories in October and a Discovery Feed consisting of a personalized mix of streamers&#39; clips this fall, both on its mobile app &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230709/p1#a230709p1)
  - [How an AI-generated, error-filled Star Wars story created internal chaos at Gizmodo, an incident that speaks to a larger debate about the role of AI in the news &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230708/p13#a230708p13)
  - [Twitter lets users switch back to the previous version of TweetDeck, and appears to have restored legacy API access allowing some third-party apps to work again &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230708/p12#a230708p12)
- - [A comparison of users&#39; personal data collected by Threads, Twitter, Bluesky, Mastodon, Spill, and Hive Social, based on information from Apple&#39;s App Store &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/230708/p11#a230708p11)
- - [Mexico vs. Costa Rica Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/mexico-vs-costa-rica-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A comparison of users&#39; personal data collected by Threads, Twitter, Bluesky, Mastodon, Spill, and Hive Social, based on information from Apple&#39;s App Store &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/230708/p11#a230708p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

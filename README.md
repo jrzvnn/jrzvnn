@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 😝 [No telling](http://9gag.com/gag/a8qV7OQ)
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 💣 [Tempting](http://9gag.com/gag/aA0vybR)
  - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [Damn onions got me](http://9gag.com/gag/az242bK)
- - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
+ - 👉 [Ask yourself bruh.](http://9gag.com/gag/avQ9yWX)<!-- MEMES:END -->
 
 ---
 </div>

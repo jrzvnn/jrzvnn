@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
- - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
- - 👉 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)<!-- MEMES:END -->
+ - 😝 [The cast of FRIENDS each made $1M per episode in the final two seasons and now make $20M per year per cast member for reruns. The show still generates $1B/year for Warner Bros. All thanks to David Schwimmer encouraging the cast to negotiate as a team.](http://9gag.com/gag/aYVRrVq)
+ - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 💣 [A very cheap hotel room is booked somewhere in China](http://9gag.com/gag/aMEqKd1)
+ - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
+ - 👉 [Intense math battle](http://9gag.com/gag/a9qDEq0)<!-- MEMES:END -->
 
 ---
 </div>

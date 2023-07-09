@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is working on a giant iMac, but it isn&#39;t coming soon](https://appleinsider.com/articles/23/07/09/big-screen-imac-may-not-arrive-until-late-2024?utm_medium=rss)
  - [9 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
  - [12 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
  - [My kids love Furby — send help](https://www.theverge.com/2023/7/9/23779280/furby-2023-review-purple-robot-toy-english)
- - [Apple may be ‘experimenting’ with a 32-inch iMac, but don’t expect one soon](https://www.theverge.com/2023/7/9/23788627/apple-imac-32-inch-mac-os-retina-apple-silicon)
- - [Crime blotter: Woman accused of offering AirPods to pay for attempted murder](https://appleinsider.com/articles/23/07/09/crime-blotter-woman-accused-of-offering-airpods-to-pay-for-attempted-murder?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may be ‘experimenting’ with a 32-inch iMac, but don’t expect one soon](https://www.theverge.com/2023/7/9/23788627/apple-imac-32-inch-mac-os-retina-apple-silicon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

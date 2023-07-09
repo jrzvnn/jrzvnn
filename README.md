@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vaonis Vespera Smart Telescope review: Automation for telescopes](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)
  - [The Snap Star creator program, Snap&#39;s new revenue-sharing incentive, is showing early signs of traction as part of broader efforts to reverse declining sales &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230709/p8#a230709p8)
  - [Best Early Prime Day Deals Under $50     - CNET](https://www.cnet.com/deals/best-prime-day-2023-deals-under-50/#ftag=CAD590a51e)
  - [Best Target Circle Week Deals: Save on Tech, Home Goods and More Ahead of Prime Day     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
- - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
- - [Kinsa QuickScan thermometer review: Simple and accurate](https://appleinsider.com/articles/23/07/09/kinsa-quickscan-thermometer-review-simple-and-accurate?utm_medium=rss)<!-- TECH:END -->
+ - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

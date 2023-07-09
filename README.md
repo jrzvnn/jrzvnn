@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A comparison of users&#39; personal data collected by Threads, Twitter, Bluesky, Mastodon, Spill, and Hive Social, based on information from Apple&#39;s App Store &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/230708/p11#a230708p11)
  - [Mexico vs. Costa Rica Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/mexico-vs-costa-rica-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)
  - [&#39;Zom 100: Bucket List of the Dead&#39;: How to Watch the Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/zom-100-bucket-list-of-the-dead-how-to-watch-the-series-from-anywhere/#ftag=CAD590a51e)
  - [Google’s medical AI chatbot is already being tested in hospitals](https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt)
- - [Best 55-Inch TVs for 2023: Samsung, TCL and More Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Some US schools are piloting campus surveillance robots that detect aggressive behavior in people, alert security, and more, amid growing gun violence concerns &lpar;Megan Tagami/Wall Street Journal&rpar;](http://www.techmeme.com/230708/p10#a230708p10)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2023: Samsung, TCL and More Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

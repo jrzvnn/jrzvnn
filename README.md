@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No telling](http://9gag.com/gag/a8qV7OQ)
- - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 💣 [Tempting](http://9gag.com/gag/aA0vybR)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [Ask yourself bruh.](http://9gag.com/gag/avQ9yWX)<!-- MEMES:END -->
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 💣 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 👉 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)<!-- MEMES:END -->
 
 ---
 </div>

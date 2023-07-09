@@ -185,7 +185,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Best Target Circle Week Deals: Save on Tech, Home Goods and More Ahead of Prime Day     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
- - [Sarah Silverman is suing OpenAI and Meta for copyright infringement.](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
+ - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
  - [Kinsa QuickScan thermometer review: Simple and accurate](https://appleinsider.com/articles/23/07/09/kinsa-quickscan-thermometer-review-simple-and-accurate?utm_medium=rss)
  - [Evernote lays off most of its remaining staff in the US and Chile, and will relocate nearly all operations to Europe; Bending Spoons acquired Evernote in 2022 &lpar;Joshua Bote/SFGATE&rpar;](http://www.techmeme.com/230709/p7#a230709p7)
  - [Streaming on Max: The 24 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-24-absolute-best-movies-to-watch-july-2023/#ftag=CAD590a51e)<!-- TECH:END -->

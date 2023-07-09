@@ -194,9 +194,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Disney blocked movie about child s*x trafficking that outperformed Indiana Jones when released as independent.](http://9gag.com/gag/aEqZqVe)
+ - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
+ - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
  - 😝 [Smooth Exit](http://9gag.com/gag/a04O4LL)
- - 💣 [What a great time I had](http://9gag.com/gag/a6qGEmL)
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
  - 👉 [Intense math battle](http://9gag.com/gag/a9qDEq0)<!-- MEMES:END -->
 
 ---

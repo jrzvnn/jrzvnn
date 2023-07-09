@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Target Circle Week Deals &lpar;2023&rpar;: Robot Vacuums, Instant Pots, Stand Mixers](https://www.wired.com/story/best-target-circle-week-deals-2023/)
- - [Chipmakers find it harder to operate in China but say that doing business there is key to their survival, as the country accounts for roughly a third of sales &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230709/p3#a230709p3)
- - [Sources: banking lobby group UK Finance claims 61% of all reported authorized push payment fraud by volume go through Meta platforms; ~&amp;pound;485M was stolen in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230709/p2#a230709p2)
- - [Twitch plans to launch ephemeral stories in October and a Discovery Feed consisting of a personalized mix of streamers&#39; clips this fall, both on its mobile app &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230709/p1#a230709p1)
- - [How an AI-generated, error-filled Star Wars story created internal chaos at Gizmodo, an incident that speaks to a larger debate about the role of AI in the news &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230708/p13#a230708p13)<!-- TECH:END -->
+ - [Civil rights groups and academics say the ruling limiting the US government contacting tech companies could undermine 2024 election misinformation initiatives &lpar;Washington Post&rpar;](http://www.techmeme.com/230709/p4#a230709p4)
+ - [How to Set Up a Home Office That Can Survive a Power Outage](https://www.wired.com/story/how-to-set-up-home-office-working-no-power/)
+ - [Why We Don’t Recommend Ring Cameras](https://www.wired.com/story/why-we-do-not-recommend-ring/)
+ - [Beware the Digital Whiteboard](https://www.wired.com/story/beware-the-digital-whiteboard/)
+ - [14 Best Target Circle Week Deals &lpar;2023&rpar;: Robot Vacuums, Instant Pots, Stand Mixers](https://www.wired.com/story/best-target-circle-week-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

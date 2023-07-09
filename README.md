@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)<!-- MEMES:END -->
+ - 😝 [Damn onions got me](http://9gag.com/gag/az242bK)
+ - 💣 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
 
 ---
 </div>

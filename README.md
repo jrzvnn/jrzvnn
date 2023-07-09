@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Civil rights groups and academics say the ruling limiting the US government contacting tech companies could undermine 2024 election misinformation initiatives &lpar;Washington Post&rpar;](http://www.techmeme.com/230709/p4#a230709p4)
- - [How to Set Up a Home Office That Can Survive a Power Outage](https://www.wired.com/story/how-to-set-up-home-office-working-no-power/)
- - [Why We Don’t Recommend Ring Cameras](https://www.wired.com/story/why-we-do-not-recommend-ring/)
- - [Beware the Digital Whiteboard](https://www.wired.com/story/beware-the-digital-whiteboard/)
- - [14 Best Target Circle Week Deals &lpar;2023&rpar;: Robot Vacuums, Instant Pots, Stand Mixers](https://www.wired.com/story/best-target-circle-week-deals-2023/)<!-- TECH:END -->
+ - [Crime blotter: Woman accused of offering AirPods to pay for attempted murder](https://appleinsider.com/articles/23/07/09/crime-blotter-woman-accused-of-offering-airpods-to-pay-for-attempted-murder?utm_medium=rss)
+ - [Can a MacBook Air fit into an Android addict’s lifestyle?](https://www.androidauthority.com/macbook-air-android-3342500/)
+ - [Old Memories Can Prime Brains to Make New Ones](https://www.wired.com/story/old-memories-can-prime-brains-to-make-new-ones/)
+ - [Taur Scooter Review: An Open Beta](https://www.wired.com/review/taur-scooter/)
+ - [20 Amazon Prime Perks You Might Not Be Using &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

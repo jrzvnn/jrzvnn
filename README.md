@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
+ - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
+ - 💣 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 👉 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)<!-- MEMES:END -->
 
 ---
 </div>

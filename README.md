@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 😝 [Where pew pew?!](http://9gag.com/gag/ajVRmv0)
- - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 👉 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)<!-- MEMES:END -->
+ - 😝 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 💣 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 👉 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)<!-- MEMES:END -->
 
 ---
 </div>

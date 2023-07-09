@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney blocked movie about child s*x trafficking that outperformed Indiana Jones when released as independent.](http://9gag.com/gag/aEqZqVe)
- - 😝 [What a great time I had](http://9gag.com/gag/a6qGEmL)
- - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Smooth Exit](http://9gag.com/gag/a04O4LL)
- - 👉 [Intense math battle](http://9gag.com/gag/a9qDEq0)<!-- MEMES:END -->
+ - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 💣 [But SERIOUSLY guy, would you?](http://9gag.com/gag/a5X5MAq)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 👉 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)<!-- MEMES:END -->
 
 ---
 </div>

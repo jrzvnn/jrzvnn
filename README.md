@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple Vision Pro won&#39;t be an iPad-level business for quite a while](https://appleinsider.com/articles/23/07/09/apple-vision-pro-wont-be-an-ipad-level-business-for-quite-a-while?utm_medium=rss)
  - [A look at Google&#39;s Med-PaLM 2, an AI chatbot that answers medical questions, and more; sources: testing began in April with customers including the Mayo Clinic &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230709/p5#a230709p5)
+ - [The 5 Best Pizza Ovens for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven-for-2023/#ftag=CAD590a51e)
  - [The Pixel 8’s rumored cameras could fix my biggest gripes with the Pixel 7](https://www.androidauthority.com/pixel-8-camera-hardware-fix-biggest-complaints-3340255/)
- - [Apple is working on a giant iMac, but it isn&#39;t coming soon](https://appleinsider.com/articles/23/07/09/big-screen-imac-may-not-arrive-until-late-2024?utm_medium=rss)
- - [9 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Apple is working on a giant iMac, but it isn&#39;t coming soon](https://appleinsider.com/articles/23/07/09/big-screen-imac-may-not-arrive-until-late-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

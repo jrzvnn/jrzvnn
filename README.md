@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daredevil stunt takes turn](http://9gag.com/gag/aDYQY9x)
- - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
- - 💣 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)
+ - 😝 [Kinda fun ngl](http://9gag.com/gag/aZDRry6)
+ - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
  - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 👉 [Average British gal](http://9gag.com/gag/aDYQY5Z)<!-- MEMES:END -->
+ - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
 
 ---
 </div>

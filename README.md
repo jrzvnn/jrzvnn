@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 👉 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)<!-- MEMES:END -->
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 💣 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
 
 ---
 </div>

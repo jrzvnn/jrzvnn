@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [Damn onions got me](http://9gag.com/gag/az242bK)<!-- MEMES:END -->
+ - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 👉 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
  - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
  - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
- - 💣 [Aww...](http://9gag.com/gag/arm8nG7)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)<!-- MEMES:END -->
+ - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
 
 ---
 </div>

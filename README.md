@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)
- - 😝 [Damn onions got me](http://9gag.com/gag/az242bK)
- - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
+ - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 👉 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)<!-- MEMES:END -->
 
 ---
 </div>

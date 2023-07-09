@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 😝 [Where pew pew?!](http://9gag.com/gag/ajVRmv0)
+ - 💣 [Better study harder](http://9gag.com/gag/aDYQDpK)
  - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
- - 💣 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [Better study harder](http://9gag.com/gag/aDYQDpK)<!-- MEMES:END -->
+ - 👉 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)<!-- MEMES:END -->
 
 ---
 </div>

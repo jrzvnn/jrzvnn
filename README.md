@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 💣 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)
- - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
+ - 😝 [Games are fun.](http://9gag.com/gag/ay2vNqp)
+ - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 💣 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
 
 ---
 </div>

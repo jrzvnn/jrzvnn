@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Woman accused of offering AirPods to pay for attempted murder](https://appleinsider.com/articles/23/07/09/crime-blotter-woman-accused-of-offering-airpods-to-pay-for-attempted-murder?utm_medium=rss)
- - [Can a MacBook Air fit into an Android addict’s lifestyle?](https://www.androidauthority.com/macbook-air-android-3342500/)
- - [Old Memories Can Prime Brains to Make New Ones](https://www.wired.com/story/old-memories-can-prime-brains-to-make-new-ones/)
- - [Taur Scooter Review: An Open Beta](https://www.wired.com/review/taur-scooter/)
- - [20 Amazon Prime Perks You Might Not Be Using &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
+ - [9 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
+ - [12 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
+ - [My kids love Furby — send help](https://www.theverge.com/2023/7/9/23779280/furby-2023-review-purple-robot-toy-english)
+ - [Apple may be ‘experimenting’ with a 32-inch iMac, but don’t expect one soon](https://www.theverge.com/2023/7/9/23788627/apple-imac-32-inch-mac-os-retina-apple-silicon)
+ - [Crime blotter: Woman accused of offering AirPods to pay for attempted murder](https://appleinsider.com/articles/23/07/09/crime-blotter-woman-accused-of-offering-airpods-to-pay-for-attempted-murder?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

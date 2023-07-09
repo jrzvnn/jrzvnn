@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
- - 💣 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
  - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 👉 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
+ - 👉 [Insane transformation](http://9gag.com/gag/aeQRg6W)<!-- MEMES:END -->
 
 ---
 </div>

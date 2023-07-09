@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 😝 [Aww...](http://9gag.com/gag/arm8nG7)
  - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
- - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
+ - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
  - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
 
 ---

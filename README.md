@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As long as it works](http://9gag.com/gag/a1PO7K8)
- - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
+ - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 👉 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)<!-- MEMES:END -->
 
 ---
 </div>

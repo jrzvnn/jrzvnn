@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chipmakers find it harder to operate in China but say that doing business there is key to their survival, as the country accounts for roughly a third of sales &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230709/p3#a230709p3)
  - [Sources: banking lobby group UK Finance claims 61% of all reported authorized push payment fraud by volume go through Meta platforms; ~&amp;pound;485M was stolen in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230709/p2#a230709p2)
  - [Twitch plans to launch ephemeral stories in October and a Discovery Feed consisting of a personalized mix of streamers&#39; clips this fall, both on its mobile app &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230709/p1#a230709p1)
  - [How an AI-generated, error-filled Star Wars story created internal chaos at Gizmodo, an incident that speaks to a larger debate about the role of AI in the news &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230708/p13#a230708p13)
- - [Twitter lets users switch back to the previous version of TweetDeck, and appears to have restored legacy API access allowing some third-party apps to work again &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230708/p12#a230708p12)
- - [A comparison of users&#39; personal data collected by Threads, Twitter, Bluesky, Mastodon, Spill, and Hive Social, based on information from Apple&#39;s App Store &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/230708/p11#a230708p11)<!-- TECH:END -->
+ - [Twitter lets users switch back to the previous version of TweetDeck, and appears to have restored legacy API access allowing some third-party apps to work again &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230708/p12#a230708p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

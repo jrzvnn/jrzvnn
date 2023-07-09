@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 😝 [Don&#39;t blame me for the crop , that&#39;s how the user posted it , I just simply stole it](http://9gag.com/gag/axom7pK)
- - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 😝 [Where pew pew?!](http://9gag.com/gag/ajVRmv0)
+ - 💣 [9gagers when tetten was banned again in nsfw.](http://9gag.com/gag/ap9Vm6W)
+ - 😝 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
  - 👉 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)<!-- MEMES:END -->
 
 ---

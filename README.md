@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
- - 👉 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)<!-- MEMES:END -->
+ - 😝 [As long as it works](http://9gag.com/gag/a1PO7K8)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 😝 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 </div>

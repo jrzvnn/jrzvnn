@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
- - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
- - 👉 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)<!-- MEMES:END -->
+ - 😝 [This must be bait, refuse to believe it is real](http://9gag.com/gag/amARvx2)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
+ - 👉 [Insane transformation](http://9gag.com/gag/aeQRg6W)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 💣 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 👉 [In German City Gie\u00dfen yesterday. Stress-relief](http://9gag.com/gag/a3ZN4KQ)<!-- MEMES:END -->
+ - 😝 [Verstappen fined 50.000$ for touching Norris&#39; rear end](http://9gag.com/gag/adPRv7Q)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 </div>

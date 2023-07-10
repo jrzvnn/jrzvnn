@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First OLED MacBook Pro will have to use Samsung screens](https://appleinsider.com/articles/23/07/10/first-oled-macbook-pro-will-have-to-use-samsung-screens?utm_medium=rss)
  - [Foxconn pulls out of a $19.5B Indian chip and display joint venture, announced in 2022, with conglomerate Vedanta and is &quot;working to remove the Foxconn name&quot; &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230710/p7#a230710p7)
  - [Apple iPhone &#39;Relax&#39; ad extols the virtues of iPhone 14 crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)
  - [Ugreen’s 300W GaN charger features four high-power USB-C ports for all your devices](https://www.theverge.com/2023/7/10/23789456/ugreens-300w-gan-charger-usb-c-a-140w-macbook-pro)
- - [Alibaba&#39;s Youku airs My Chinese Chip, a new drama series in China telling the story of a startup building lasers for deep ultraviolet lithography machines &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230710/p6#a230710p6)
- - [How to Install Threads on Your Windows Desktop](https://www.wired.com/story/how-to-install-threads-on-windows/)<!-- TECH:END -->
+ - [Alibaba&#39;s Youku airs My Chinese Chip, a new drama series in China telling the story of a startup building lasers for deep ultraviolet lithography machines &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230710/p6#a230710p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

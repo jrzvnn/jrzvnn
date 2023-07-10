@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Mid life crisis](http://9gag.com/gag/a5X51Xy)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 😝 [POV: you wake up in Lisbon, Portugal](http://9gag.com/gag/adPR8wM)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 💣 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
 
 ---
 </div>

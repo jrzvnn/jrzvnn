@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Verstappen fined 50.000$ for touching Norris&#39; rear end](http://9gag.com/gag/adPRv7Q)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 😝 [So hollywood and what? 95% politicians?](http://9gag.com/gag/aDYQ67G)
+ - 😝 [Classic.](http://9gag.com/gag/a4ownDv)
+ - 💣 [I need to know If this Man is alive](http://9gag.com/gag/aeQR195)
+ - 😝 [Good luck for the week ahead guys](http://9gag.com/gag/ap9V1xE)
+ - 👉 [And people say Jackie Chan likes to take risks with his movies.](http://9gag.com/gag/aRERBAq)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Influencer isn&#39;t telling the whole story about her viral AirPods replacement ordeal](https://appleinsider.com/articles/23/07/10/influencer-isnt-telling-the-whole-story-about-her-viral-airpods-replacement-ordeal?utm_medium=rss)
  - [CarPlay can now control a Porsche&#39;s air conditioning &amp; more](https://appleinsider.com/articles/23/07/10/carplay-can-now-control-a-porsches-air-conditioning-more?utm_medium=rss)
  - [Want to give YouTube Premium a piece of your mind? Now’s your chance.](https://www.androidauthority.com/youtube-premium-complaints-3343993/)
  - [What to expect from Apple&#39;s third quarter 2023 earnings report](https://appleinsider.com/articles/23/07/10/what-to-expect-from-apples-third-quarter-2023-earnings-report?utm_medium=rss)
- - [Apple issues Rapid Security Response for iOS 16.5.1 &amp; macOS 13.4.1](https://appleinsider.com/articles/23/07/10/apple-issues-rapid-security-response-for-ios-1651-macos-1341?utm_medium=rss)
- - [Galaxy Z Fold 2 gets July 2023 security patch in US](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)<!-- TECH:END -->
+ - [Apple issues Rapid Security Response for iOS 16.5.1 &amp; macOS 13.4.1](https://appleinsider.com/articles/23/07/10/apple-issues-rapid-security-response-for-ios-1651-macos-1341?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

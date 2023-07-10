@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [As long as it works](http://9gag.com/gag/a1PO7K8)
+ - 😝 [Grooming media so mad about a movie](http://9gag.com/gag/aNwjLxv)
+ - 💣 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
  - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 💣 [Grooming media so mad about a movie](http://9gag.com/gag/aNwjLxv)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 </div>

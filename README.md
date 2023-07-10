@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 2 launch: How to watch live and attend exclusive sale events](https://www.androidauthority.com/nothing-phone-2-launch-livestream-3343792/)
+ - [With Twitter traffic &quot;tanking&quot; and Threads ascendant, Elon Musk says Mark Zuckerberg &quot;is a cuck&quot; and proposes &quot;a literal dick-measuring contest&quot; &lpar;Martin Pengelly/The Guardian&rpar;](http://www.techmeme.com/230710/p10#a230710p10)
+ - [Apple&#39;s M1 MacBook Air drops to record low $749 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/07/10/apples-m1-macbook-air-drops-to-record-low-749-at-amazon-ahead-of-prime-day?utm_medium=rss)
  - [EA is making a single-player Black Panther game](https://www.theverge.com/2023/7/10/23787287/ea-black-panther-game-single-player)
- - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
- - [Foxconn pulls out of $19.5 billion India chip joint venture](https://appleinsider.com/articles/23/07/10/foxconn-pulls-out-of-195-billion-india-chip-joint-venture?utm_medium=rss)
- - [The Elon Musk private jet tracker resurfaces on Threads and immediately goads Mark Zuckerberg](https://www.theverge.com/2023/7/10/23789481/elon-musk-private-jet-tracker-threads-twitter-bot-elonjet)<!-- TECH:END -->
+ - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

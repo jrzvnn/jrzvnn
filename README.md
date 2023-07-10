@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tiptoes onto Threads -- but hasn&#39;t fully embraced it yet](https://appleinsider.com/articles/23/07/10/apple-tiptoes-onto-threads----but-hasnt-fully-embraced-it-yet?utm_medium=rss)
- - [How and when you can just say &#39;Siri&#39; to a Mac on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-and-when-you-can-just-say-siri-to-a-mac-on-macos-sonoma?utm_medium=rss)
- - [Vaonis Vespera Smart Telescope review: See the stars with the help of your iPhone](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)
- - [Sources: Revolut&#39;s US system let criminals steal $20M+ over several months in 2022 before Revolut shut the loophole, equivalent to ~66% of its 2021 net profit &lpar;Financial Times&rpar;](http://www.techmeme.com/230710/p5#a230710p5)
- - [Apple launches &#39;Relax&quot; iPhone 14 ads about battery life and crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)<!-- TECH:END -->
+ - [Foxconn pulls out of a $19.5B Indian chip and display joint venture, announced in 2022, with conglomerate Vedanta and is &quot;working to remove the Foxconn name&quot; &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230710/p7#a230710p7)
+ - [Apple iPhone &#39;Relax&#39; ad extols the virtues of iPhone 14 crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)
+ - [Ugreen’s 300W GaN charger features four high-power USB-C ports for all your devices](https://www.theverge.com/2023/7/10/23789456/ugreens-300w-gan-charger-usb-c-a-140w-macbook-pro)
+ - [Alibaba&#39;s Youku airs My Chinese Chip, a new drama series in China telling the story of a startup building lasers for deep ultraviolet lithography machines &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230710/p6#a230710p6)
+ - [How to Install Threads on Your Windows Desktop](https://www.wired.com/story/how-to-install-threads-on-windows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

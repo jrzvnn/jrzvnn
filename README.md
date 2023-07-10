@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 💣 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
  - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 👉 [As long as it works](http://9gag.com/gag/a1PO7K8)<!-- MEMES:END -->
+ - 👉 [In German City Gie\u00dfen yesterday. Stress-relief](http://9gag.com/gag/a3ZN4KQ)<!-- MEMES:END -->
 
 ---
 </div>

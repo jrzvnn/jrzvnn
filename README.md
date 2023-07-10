@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 😝 [In German City Gie\u00dfen yesterday. Stress-relief](http://9gag.com/gag/a3ZN4KQ)
- - 💣 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 😝 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
+ - 👉 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)<!-- MEMES:END -->
 
 ---
 </div>

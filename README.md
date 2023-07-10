@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus 11 is at its lowest price ever ahead of Prime Day](https://www.androidauthority.com/oneplus-11-prime-day-deal-3343802/)
  - [The person who swatted Ubisoft has been sentenced.](https://www.theverge.com/2023/7/10/23789622/ubisoft-montreal-swatted-suspect-sentenced-rainbow-six-siege)
  - [UK&#39;s NHS is investigating a ransomware incident, its second breach in recent weeks that potentially affects 1M+ patients, as the ALPHV gang claims it stole 70TB &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230710/p13#a230710p13)
  - [Twisted Metal fires off lots of bullets and even more jokes in new trailer](https://www.theverge.com/23789839/twisted-metal-peacock-streaming-trailer-date)
- - [How Apple Vision Pro will try to fight off motion sickness](https://appleinsider.com/articles/23/07/10/how-apple-vision-pro-will-try-to-fight-off-motion-sickness?utm_medium=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [How Apple Vision Pro will try to fight off motion sickness](https://appleinsider.com/articles/23/07/10/how-apple-vision-pro-will-try-to-fight-off-motion-sickness?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [Live stream comment](http://9gag.com/gag/anzGgdb)
- - 💣 [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
+ - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
+ - 💣 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deadpool 3’s well-dressed Wolverine may be a sign of good things to come](https://www.theverge.com/23789722/deadpool-3-wolverine-elektra-cameos)
+ - [Trailer for Apple TV+ &amp; Ridley Scott film &#39;Napoleon&#39; shows the horror of war](https://appleinsider.com/articles/23/07/10/trailer-for-apple-tv-ridley-scott-film-napoleon-shows-the-horror-of-war?utm_medium=rss)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
  - [New EU deal legalizes transatlantic data transfers once again](https://appleinsider.com/articles/23/07/10/new-eu-deal-legalizes-transatlantic-data-transfers-once-again?utm_medium=rss)
- - [Here’s why Threads is delayed in Europe](https://www.theverge.com/23789754/threads-meta-twitter-eu-dma-digital-markets)
- - [GM ditching CarPlay could go bad, complain car dealers](https://appleinsider.com/articles/23/07/10/gm-ditching-carplay-could-go-bad-complain-car-dealers?utm_medium=rss)
- - [Prime Day comes early in this Bose Noise Cancelling Headphones 700 deal](https://www.androidauthority.com/bose-amazon-prime-headphones-deal-3343513/)
- - [Microsoft and Amazon just opened the floodgates for Android apps on Windows](https://www.androidauthority.com/android-apps-windows-full-3343899/)<!-- TECH:END -->
+ - [Here’s why Threads is delayed in Europe](https://www.theverge.com/23789754/threads-meta-twitter-eu-dma-digital-markets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

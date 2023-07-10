@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Ran a Giant Experiment in Governance. Now It&#39;s Turning to AI](https://www.wired.com/story/meta-ran-a-giant-experiment-in-governance-now-its-turning-to-ai/)
+ - [The Microplastic Crisis Is Getting Exponentially Worse](https://www.wired.com/story/the-microplastic-crisis-is-getting-exponentially-worse/)
  - [MicroLED, mini LED, OLED - understanding Apple&#39;s future iPhone, iPad, and Mac displays](https://appleinsider.com/articles/21/03/01/microled-mini-led-oled---apples-future-iphone-ipad-and-mac-displays?utm_medium=rss)
  - [VR game makers say women are buying headsets due to fitness and workout apps, a shift from the male-dominated early days; &lt;10% of Quest users were women in 2019 &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230710/p8#a230710p8)
- - [Evernote fires nearly every US employee as it shifts operations to Europe](https://appleinsider.com/articles/23/07/10/evernote-fires-nearly-every-us-employee-as-it-shifts-operations-to-europe?utm_medium=rss)
- - [First OLED MacBook Pro will have to use Samsung screens](https://appleinsider.com/articles/23/07/10/first-oled-macbook-pro-will-have-to-use-samsung-screens?utm_medium=rss)
- - [Foxconn pulls out of a $19.5B Indian chip and display joint venture, announced in 2022, with conglomerate Vedanta and is &quot;working to remove the Foxconn name&quot; &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230710/p7#a230710p7)<!-- TECH:END -->
+ - [Evernote fires nearly every US employee as it shifts operations to Europe](https://appleinsider.com/articles/23/07/10/evernote-fires-nearly-every-us-employee-as-it-shifts-operations-to-europe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

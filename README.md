@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`This sparks joy` Thank you Apple, Ridley Scott and Joaquin Phoenix for this! \ud83d\ude4f](http://9gag.com/gag/aKEK9AW)
- - 😝 [Angry football dad](http://9gag.com/gag/aVbRgGd)
- - 💣 [Men are such simple creatures](http://9gag.com/gag/aEqZVB9)
- - 😝 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
- - 👉 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)<!-- MEMES:END -->
+ - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 😝 [Let\u2019s encourage those athletes in summer sports](http://9gag.com/gag/arm8XD6)
+ - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)
- - 😝 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
  - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---

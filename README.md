@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [Welding in india...](http://9gag.com/gag/arm8y8K)
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
- - 👉 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)<!-- MEMES:END -->
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 😝 [Mid life crisis](http://9gag.com/gag/a5X51Xy)
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 </div>

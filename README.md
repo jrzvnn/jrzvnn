@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 and iPhone 15 Pro: What the rumors say is landing this fall](https://appleinsider.com/articles/23/07/10/iphone-15-and-iphone-15-pro-what-the-rumors-say-is-landing-this-fall?utm_medium=rss)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
  - [Researchers test seven popular AI text detectors and find the tools can discriminate against non-native English speakers, who tend to adopt simpler word choices &lpar;Ian Sample/The Guardian&rpar;](http://www.techmeme.com/230710/p15#a230710p15)
  - [Foxconn drops out of another big factory deal, this time in India](https://www.theverge.com/2023/7/10/23789670/foxconn-india-vedanta-semiconductor-foundry-fallout)
- - [That Google memo about having ‘no moat’ in AI was real — and Google’s AI boss disagrees with it](https://www.theverge.com/2023/7/10/23790132/google-memo-moat-ai-leak-demis-hassabis)
- - [On the cusp of 24/7 service, robotaxis face pleas and protest in San Francisco](https://www.theverge.com/2023/7/10/23789905/waymo-cruise-sf-cpuc-vote-orange-cone)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [That Google memo about having ‘no moat’ in AI was real — and Google’s AI boss disagrees with it](https://www.theverge.com/2023/7/10/23790132/google-memo-moat-ai-leak-demis-hassabis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - 😝 [Thank you Sir Isaac Newton](http://9gag.com/gag/a8qV6PZ)
+ - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
  - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 </div>

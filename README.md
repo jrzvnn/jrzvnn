@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something in the Way She Moves](http://9gag.com/gag/arm83yd)
- - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 💣 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)
- - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
+ - 😝 [Angry football dad](http://9gag.com/gag/aVbRgGd)
+ - 😝 [`This sparks joy` Thank you Apple, Ridley Scott and Joaquin Phoenix for this! \ud83d\ude4f](http://9gag.com/gag/aKEK9AW)
+ - 💣 [Men are such simple creatures](http://9gag.com/gag/aEqZVB9)
+ - 😝 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
+ - 👉 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)<!-- MEMES:END -->
 
 ---
 </div>

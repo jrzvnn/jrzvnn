@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 💣 [At long last, he&#39;s finally gonna wear tho costume and the mask! F**k yeah!](http://9gag.com/gag/aoKnP7m)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
+ - 😝 [Welding in india...](http://9gag.com/gag/arm8y8K)
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
+ - 👉 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)<!-- MEMES:END -->
 
 ---
 </div>

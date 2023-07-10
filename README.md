@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)
  - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 😝 [Insane transformation](http://9gag.com/gag/aeQRg6W)
- - 💣 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 😝 [Mid life crisis](http://9gag.com/gag/a5X51Xy)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 💣 [Insane transformation](http://9gag.com/gag/aeQRg6W)
+ - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 👉 [Mid life crisis](http://9gag.com/gag/a5X51Xy)<!-- MEMES:END -->
 
 ---
 </div>

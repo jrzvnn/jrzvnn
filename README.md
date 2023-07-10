@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vaonis Vespera Smart Telescope review: See the stars with the help of your iPhone](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)
  - [Sources: Revolut&#39;s US system let criminals steal $20M+ over several months in 2022 before Revolut shut the loophole, equivalent to ~66% of its 2021 net profit &lpar;Financial Times&rpar;](http://www.techmeme.com/230710/p5#a230710p5)
  - [Apple launches &#39;Relax&quot; iPhone 14 ads about battery life and crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)
  - [OpenAI releases in-house ChatGPT plug-in Code Interpreter to all Plus subscribers, helping them analyze data, create charts, edit files, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230710/p4#a230710p4)
- - [Best Buy&#39;s Black Friday in July Deals Start Today, Here&#39;s what&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
- - [Best Cellphone Deals: Snag Huge Savings On Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Black Friday in July Deals Start Today, Here&#39;s what&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

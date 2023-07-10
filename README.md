@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 😝 [Smiles everytime](http://9gag.com/gag/a6qGX6A)
+ - 😝 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)
+ - 😝 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
  - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 😝 [Peaceful Darwin award](http://9gag.com/gag/aMEq4z1)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
 
 ---
 </div>

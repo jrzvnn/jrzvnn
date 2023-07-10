@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 11 is at its lowest price ever ahead of Prime Day](https://www.androidauthority.com/oneplus-11-prime-day-deal-3343802/)
- - [The person who swatted Ubisoft has been sentenced.](https://www.theverge.com/2023/7/10/23789622/ubisoft-montreal-swatted-suspect-sentenced-rainbow-six-siege)
- - [UK&#39;s NHS is investigating a ransomware incident, its second breach in recent weeks that potentially affects 1M+ patients, as the ALPHV gang claims it stole 70TB &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230710/p13#a230710p13)
- - [Twisted Metal fires off lots of bullets and even more jokes in new trailer](https://www.theverge.com/23789839/twisted-metal-peacock-streaming-trailer-date)
- - [How Apple Vision Pro will try to fight off motion sickness](https://appleinsider.com/articles/23/07/10/how-apple-vision-pro-will-try-to-fight-off-motion-sickness?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rolls out fifth developer betas for watchOS 9.6 &amp; tvOS 16.6](https://appleinsider.com/articles/23/07/10/apple-rolls-out-fifth-developer-betas-for-watchos-96-tvos-166?utm_medium=rss)
+ - [Apple releases fifth developer beta for iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/10/apple-releases-fifth-developer-beta-for-ios-166-and-ipados-166?utm_medium=rss)
+ - [Apple seeds fifth developer beta for macOS 13.5 Ventura](https://appleinsider.com/articles/23/07/10/apple-seeds-fifth-developer-beta-for-macos-135-ventura?utm_medium=rss)
+ - [Deals: Apple Pencil 2 $89, AirPods $75, $100 off 15-inch MacBook Air, OWC Thunderbolt Go Dock $279, more](https://appleinsider.com/articles/23/07/10/deals-apple-pencil-89-airpods-75-100-off-15-inch-macbook-air-owc-thunderbolt-go-dock-279-more?utm_medium=rss)
+ - [The OnePlus 11 is at its lowest price ever ahead of Prime Day](https://www.androidauthority.com/oneplus-11-prime-day-deal-3343802/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

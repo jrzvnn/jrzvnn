@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Revolut&#39;s US system let criminals steal $20M+ over several months in 2022 before Revolut shut the loophole, equivalent to ~66% of its 2021 net profit &lpar;Financial Times&rpar;](http://www.techmeme.com/230710/p5#a230710p5)
  - [Apple launches &#39;Relax&quot; iPhone 14 ads about battery life and crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)
  - [OpenAI releases in-house ChatGPT plug-in Code Interpreter to all Plus subscribers, helping them analyze data, create charts, edit files, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230710/p4#a230710p4)
- - [TSMC reports Q2 revenue down 10% YoY to ~$15.3B, beating estimates of ~$15.23B due to AI chips; TSM has risen 25%+ in 2023 despite full-year revenue warnings &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230710/p3#a230710p3)
- - [Quiver Quantitative: Instagram Threads passes 100M signups in just five days, up from 30M in the first 24 hours and 10M in the first seven hours &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p2#a230710p2)
- - [Is your Fitbit Charge 5 bricked after the new update? You’re not alone](https://www.androidauthority.com/fitbit-charge-5-update-brick-3343825/)<!-- TECH:END -->
+ - [Best Buy&#39;s Black Friday in July Deals Start Today, Here&#39;s what&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
+ - [Best Cellphone Deals: Snag Huge Savings On Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

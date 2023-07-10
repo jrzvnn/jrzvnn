@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Temu Sellers Are Cloning Amazon Storefronts](https://www.wired.com/story/temu-amazon-storefront-clones-copyright-infringement/)
+ - [Rebuilding Ukraine Is an Act of Resistance](https://www.wired.com/story/ukraine-war-rebuilding-already-begun/)
  - [Xiaomi Pad 6 goes global with a big spec-sheet and small price](https://www.androidauthority.com/xiaomi-pad-6-series-global-launch-price-availability-3314231/)
  - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
- - [Following similar lawsuits, Sarah Silverman and two other authors sue OpenAI and Meta, claiming LLaMA and ChatGPT were trained on copyright-infringing material &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230709/p9#a230709p9)
- - [Evernote has laid off most of its US staff and will move most operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
- - [Vaonis Vespera Smart Telescope review: Automation for telescopes](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)<!-- TECH:END -->
+ - [Following similar lawsuits, Sarah Silverman and two other authors sue OpenAI and Meta, claiming LLaMA and ChatGPT were trained on copyright-infringing material &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230709/p9#a230709p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

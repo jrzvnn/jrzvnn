@@ -193,8 +193,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
  - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
  - 💣 [Satisfying](http://9gag.com/gag/aBd4dq1)
  - 😝 [Men are such simple creatures](http://9gag.com/gag/aEqZVB9)
  - 👉 [Angry football dad](http://9gag.com/gag/aVbRgGd)<!-- MEMES:END -->

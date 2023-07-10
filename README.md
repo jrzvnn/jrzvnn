@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ban on sales of cellular location data could break important privacy precedent in US](https://appleinsider.com/articles/23/07/10/ban-on-sales-of-cellular-location-data-could-break-important-privacy-precedent-in-us?utm_medium=rss)
  - [Google XR software lead quits, heavily criticizes company on way out](https://www.androidauthority.com/google-xr-lead-quits-3344095/)
  - [Sega of America workers win union vote 91 to 26, becoming the first union that spans multiple departments at a major video game company &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230710/p16#a230710p16)
  - [Apple App Store prices to increase for select countries](https://appleinsider.com/articles/23/07/10/apple-app-store-prices-to-increase-for-select-countries?utm_medium=rss)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [Is a Google Fi Wireless family plan worth the switch?](https://www.androidauthority.com/google-fi-wireless-family-plan-3343601/)<!-- TECH:END -->
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

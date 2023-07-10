@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [July 2023 security update landing on Galaxy Z Flip 4 series now](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
- - [Samsung Galaxy Z Fold 4 gets July 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
- - [Massachusetts lawmakers are weighing a near total ban on buying and selling consumers&#39; phone location data, in what could be the first such ban in the US &lpar;Byron Tau/Wall Street Journal&rpar;](http://www.techmeme.com/230710/p14#a230710p14)
- - [Best Prime Day Deals on Robot Vacuums: Big Discounts on Roomba, Roborock, Eufy and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
- - [Apple releases fifth developer beta for iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/10/apple-releases-fifth-developer-beta-for-ios-166-and-ipados-166?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues Rapid Security Response for iOS 16.5.1 &amp; macOS 13.4.1](https://appleinsider.com/articles/23/07/10/apple-issues-rapid-security-response-for-ios-1651-macos-1341?utm_medium=rss)
+ - [What to expect from Apple&#39;s third quarter 2023 earnings report](https://appleinsider.com/articles/23/07/10/what-to-expect-from-apples-third-quarter-2023-earnings-report?utm_medium=rss)
+ - [Galaxy Z Fold 2 gets July 2023 security patch in US](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
+ - [How to move your notes out of Evernote](https://www.theverge.com/23462732/evernote-export-notebook-how-to)
+ - [July 2023 security update landing on Galaxy Z Flip 4 series now](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

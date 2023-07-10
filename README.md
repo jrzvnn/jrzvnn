@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
  - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---

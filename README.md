@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV: you wake up in Lisbon, Portugal](http://9gag.com/gag/adPR8wM)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 💣 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 👉 [Does anyone remember?](http://9gag.com/gag/abvRgb9)<!-- MEMES:END -->
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 😝 [In German City Gie\u00dfen yesterday. Stress-relief](http://9gag.com/gag/a3ZN4KQ)
+ - 💣 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)
+ - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
 
 ---
 </div>

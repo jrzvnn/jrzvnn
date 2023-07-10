@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Tumblr says it’s going to ‘fix’ its ‘core experience’ to appeal to new users](https://www.theverge.com/2023/7/10/23790050/tumblr-user-experience-changes-reblogs-discoverability-creators)
- - [Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis](https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks)
- - [Stellar wallpapers: James Webb telescope &lpar;JWST&rpar; photos fit for an Android phone](https://www.androidauthority.com/james-webb-wallpaper-3185747/)
- - [Sega workers form largest multi-department video game union in the US](https://www.theverge.com/23789935/sega-union-cwa-unionization-activision-blizzard)<!-- TECH:END -->
+ - [Researchers test seven popular AI text detectors and find the tools can discriminate against non-native English speakers, who tend to adopt simpler word choices &lpar;Ian Sample/The Guardian&rpar;](http://www.techmeme.com/230710/p15#a230710p15)
+ - [Foxconn drops out of another big factory deal, this time in India](https://www.theverge.com/2023/7/10/23789670/foxconn-india-vedanta-semiconductor-foundry-fallout)
+ - [That Google memo about having ‘no moat’ in AI was real — and Google’s AI boss disagrees with it](https://www.theverge.com/2023/7/10/23790132/google-memo-moat-ai-leak-demis-hassabis)
+ - [On the cusp of 24/7 service, robotaxis face pleas and protest in San Francisco](https://www.theverge.com/2023/7/10/23789905/waymo-cruise-sf-cpuc-vote-orange-cone)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

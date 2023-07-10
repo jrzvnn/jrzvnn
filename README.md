@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)
  - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 💣 [Well.. what would you do? crying?](http://9gag.com/gag/aEqZ8Op)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
+ - 💣 [Live stream comment](http://9gag.com/gag/anzGgdb)
+ - 😝 [Life tragedy is just content](http://9gag.com/gag/aQEygge)
+ - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
 
 ---
 </div>

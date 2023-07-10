@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 😝 [As long as it works](http://9gag.com/gag/a1PO7K8)
- - 💣 [In German City Gie\u00dfen yesterday. Stress-relief](http://9gag.com/gag/a3ZN4KQ)
- - 😝 [Calling for all men to make a stand](http://9gag.com/gag/aXnRoXd)
- - 👉 [Mid life crisis](http://9gag.com/gag/a5X51Xy)<!-- MEMES:END -->
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
 
 ---
 </div>

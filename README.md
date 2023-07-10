@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 and iPhone 15 Pro: What the rumors say is landing this fall](https://appleinsider.com/articles/23/07/10/iphone-15-and-iphone-15-pro-what-the-rumors-say-is-landing-this-fall?utm_medium=rss)
+ - [Is a Google Fi Wireless family plan worth the switch?](https://www.androidauthority.com/google-fi-wireless-family-plan-3343601/)
+ - [iPhone 15 and iPhone 15 Pro: What the rumors say is coming out this fall](https://appleinsider.com/articles/23/07/10/iphone-15-and-iphone-15-pro-what-the-rumors-say-is-landing-this-fall?utm_medium=rss)
  - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
  - [Researchers test seven popular AI text detectors and find the tools can discriminate against non-native English speakers, who tend to adopt simpler word choices &lpar;Ian Sample/The Guardian&rpar;](http://www.techmeme.com/230710/p15#a230710p15)
- - [Foxconn drops out of another big factory deal, this time in India](https://www.theverge.com/2023/7/10/23789670/foxconn-india-vedanta-semiconductor-foundry-fallout)
- - [That Google memo about having ‘no moat’ in AI was real — and Google’s AI boss disagrees with it](https://www.theverge.com/2023/7/10/23790132/google-memo-moat-ai-leak-demis-hassabis)<!-- TECH:END -->
+ - [Foxconn drops out of another big factory deal, this time in India](https://www.theverge.com/2023/7/10/23789670/foxconn-india-vedanta-semiconductor-foundry-fallout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple tiptoes onto Threads -- but hasn&#39;t fully embraced it yet](https://appleinsider.com/articles/23/07/10/apple-tiptoes-onto-threads----but-hasnt-fully-embraced-it-yet?utm_medium=rss)
+ - [How and when you can just say &#39;Siri&#39; to a Mac on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-and-when-you-can-just-say-siri-to-a-mac-on-macos-sonoma?utm_medium=rss)
  - [Vaonis Vespera Smart Telescope review: See the stars with the help of your iPhone](https://appleinsider.com/articles/23/07/09/vaonis-vespera-smart-telescope-review-automation-for-telescopes?utm_medium=rss)
  - [Sources: Revolut&#39;s US system let criminals steal $20M+ over several months in 2022 before Revolut shut the loophole, equivalent to ~66% of its 2021 net profit &lpar;Financial Times&rpar;](http://www.techmeme.com/230710/p5#a230710p5)
- - [Apple launches &#39;Relax&quot; iPhone 14 ads about battery life and crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)
- - [OpenAI releases in-house ChatGPT plug-in Code Interpreter to all Plus subscribers, helping them analyze data, create charts, edit files, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230710/p4#a230710p4)
- - [Best Buy&#39;s Black Friday in July Deals Start Today, Here&#39;s what&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple launches &#39;Relax&quot; iPhone 14 ads about battery life and crash detection](https://appleinsider.com/articles/23/07/10/apple-launches-relax-iphone-14-ads-about-battery-life-and-crash-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

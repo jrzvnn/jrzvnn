@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
- - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 👉 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)<!-- MEMES:END -->
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 😝 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
+ - 👉 [Better study harder](http://9gag.com/gag/aDYQDpK)<!-- MEMES:END -->
 
 ---
 </div>

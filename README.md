@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
  - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 💣 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
+ - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 😝 [Live stream comment](http://9gag.com/gag/anzGgdb)
+ - 👉 [Pro tip](http://9gag.com/gag/aBd466x)<!-- MEMES:END -->
 
 ---
 </div>

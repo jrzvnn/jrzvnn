@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Tumblr says it’s going to ‘fix’ its ‘core experience’ to appeal to new users](https://www.theverge.com/2023/7/10/23790050/tumblr-user-experience-changes-reblogs-discoverability-creators)
  - [Inside Google’s big AI shuffle — and how it plans to stay competitive, with Google DeepMind CEO Demis Hassabis](https://www.theverge.com/23778745/demis-hassabis-google-deepmind-ai-alphafold-risks)
  - [Stellar wallpapers: James Webb telescope &lpar;JWST&rpar; photos fit for an Android phone](https://www.androidauthority.com/james-webb-wallpaper-3185747/)
- - [Sega workers form largest multi-department video game union in the US](https://www.theverge.com/23789935/sega-union-cwa-unionization-activision-blizzard)
- - [19 Best Target Circle Week Deals &lpar;2023&rpar;: Robot Vacuums, Instant Pots, Stand Mixers](https://www.wired.com/story/best-target-circle-week-deals-2023-1/)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
+ - [Sega workers form largest multi-department video game union in the US](https://www.theverge.com/23789935/sega-union-cwa-unionization-activision-blizzard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

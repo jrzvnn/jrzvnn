@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
- - 💣 [Live stream comment](http://9gag.com/gag/anzGgdb)
- - 😝 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
- - 👉 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)<!-- MEMES:END -->
+ - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 👉 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)<!-- MEMES:END -->
 
 ---
 </div>

@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [ESA survey in 2022: Hispanic and Black Americans played video games more than other groups, 72% of US gamers were white, active players fell to 212.6M, and more &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230710/p12#a230710p12)
  - [Google’s Pixel 7A is an even better value now that it’s $50 off ahead of Prime Day](https://www.theverge.com/2023/7/10/23789509/google-pixel-7a-nintendo-ring-fit-adventure-apple-macbook-deal-sale)
- - [8 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Instagram’s Threads surpasses 100 million users](https://www.theverge.com/2023/7/10/23787453/meta-instagram-threads-100-million-users-milestone)
- - [Apple News renews &#39;After the Whistle&#39; podcast for a second season](https://appleinsider.com/articles/23/07/10/apple-news-renews-after-the-whistle-podcast-for-a-second-season?utm_medium=rss)<!-- TECH:END -->
+ - [Best Live TV Streaming Service for Cord Cutting in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [The Best High-End TV Is on Sale Now for a Great Price, Starting at $797     - CNET](https://www.cnet.com/deals/the-best-high-end-tv-is-on-sale-now-for-a-great-price-starting-at-797/#ftag=CAD590a51e)
+ - [Watch Out for These Prime Day Scams     - CNET](https://www.cnet.com/tech/services-and-software/watch-out-for-these-prime-day-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

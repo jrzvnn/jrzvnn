@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lotus Eletre 2023 Review: Prices, Specs, Pros and Cons](https://www.wired.com/review/review-lotus-eletre/)
+ - [Victrola Stream Onyx Review: A Record Player Designed for Sonos](https://www.wired.com/review/vicotrola-stream-onyx/)
+ - [Pixel 8 price hike details leak, but there’s also some good news](https://www.androidauthority.com/google-pixel-8-price-3343808/)
  - [Temu Sellers Are Cloning Amazon Storefronts](https://www.wired.com/story/temu-amazon-storefront-clones-copyright-infringement/)
- - [Rebuilding Ukraine Is an Act of Resistance](https://www.wired.com/story/ukraine-war-rebuilding-already-begun/)
- - [Xiaomi Pad 6 goes global with a big spec-sheet and small price](https://www.androidauthority.com/xiaomi-pad-6-series-global-launch-price-availability-3314231/)
- - [The best early Prime Day deals](https://www.theverge.com/23769772/amazon-prime-day-best-early-deals-tech-echo-ring-fire-tv-alexa)
- - [Following similar lawsuits, Sarah Silverman and two other authors sue OpenAI and Meta, claiming LLaMA and ChatGPT were trained on copyright-infringing material &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230709/p9#a230709p9)<!-- TECH:END -->
+ - [Rebuilding Ukraine Is an Act of Resistance](https://www.wired.com/story/ukraine-war-rebuilding-already-begun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

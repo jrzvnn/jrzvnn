@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Games are fun.](http://9gag.com/gag/ay2vNqp)
- - 😝 [Immediately regret](http://9gag.com/gag/ap9VGn8)
- - 💣 [I&#39;m trying this](http://9gag.com/gag/a7qnEEm)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
+ - 😝 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 😝 [Live stream comment](http://9gag.com/gag/anzGgdb)
+ - 💣 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
+ - 👉 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)<!-- MEMES:END -->
 
 ---
 </div>

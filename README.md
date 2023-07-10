@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap rolls our integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
+ - [Google loses a Senior Director due to &#39;unstable commitment&#39; in AR](https://appleinsider.com/articles/23/07/10/google-loses-a-senior-director-due-to-unstable-commitment-in-ar?utm_medium=rss)
  - [Google’s AR software leader is out over the company’s ‘unstable commitment and vision’](https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris)
  - [Porsche is updating how CarPlay works in its cars, adding climate controls and more](https://www.theverge.com/2023/7/10/23790048/porsche-enhanced-carplay-app-climate-controls)
- - [B&amp;H slashes Apple&#39;s MacBook Air M2 to record low $929, MacBook Pro up to $2,000 off](https://appleinsider.com/articles/23/07/10/bh-slashes-apples-macbook-air-m2-to-record-low-929-macbook-pro-up-to-2000-off?utm_medium=rss)
- - [11 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023/)
- - [Ban on sales of cellular location data could break important privacy precedent in US](https://appleinsider.com/articles/23/07/10/ban-on-sales-of-cellular-location-data-could-break-important-privacy-precedent-in-us?utm_medium=rss)<!-- TECH:END -->
+ - [B&amp;H slashes Apple&#39;s MacBook Air M2 to record low $929, MacBook Pro up to $2,000 off](https://appleinsider.com/articles/23/07/10/bh-slashes-apples-macbook-air-m2-to-record-low-929-macbook-pro-up-to-2000-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

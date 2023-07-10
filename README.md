@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 😝 [Thank you Sir Isaac Newton](http://9gag.com/gag/a8qV6PZ)
- - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
- - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
+ - 😝 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 💣 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - 😝 [As long as it works](http://9gag.com/gag/a1PO7K8)
+ - 👉 [Smiles everytime](http://9gag.com/gag/a6qGX6A)<!-- MEMES:END -->
 
 ---
 </div>

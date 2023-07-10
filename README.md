@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [July 2023 security update landing on Galaxy Z Flip 4 series now](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
+ - [Samsung Galaxy Z Fold 4 gets July 2023 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
  - [Massachusetts lawmakers are weighing a near total ban on buying and selling consumers&#39; phone location data, in what could be the first such ban in the US &lpar;Byron Tau/Wall Street Journal&rpar;](http://www.techmeme.com/230710/p14#a230710p14)
- - [Apple releases fifth developer beta for iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/10/apple-releases-fifth-developer-beta-for-ios-166-and-ipados-166?utm_medium=rss)
- - [Social networks can keep storing EU user data in the US under new agreement](https://www.theverge.com/2023/7/10/23789695/eu-us-transatlantic-data-sharing-agreement)
- - [CarPlay can now control a Porsche&#39;s air conditioning &amp; more](https://appleinsider.com/articles/23/07/10/carplay-can-now-control-a-porsches-air-conditioning-more?utm_medium=rss)
- - [Apple rolls out fifth developer betas for watchOS 9.6 &amp; tvOS 16.6](https://appleinsider.com/articles/23/07/10/apple-rolls-out-fifth-developer-betas-for-watchos-96-tvos-166?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day Deals on Robot Vacuums: Big Discounts on Roomba, Roborock, Eufy and More     - CNET](https://www.cnet.com/deals/best-robot-vacuum-deals/#ftag=CAD590a51e)
+ - [Apple releases fifth developer beta for iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/10/apple-releases-fifth-developer-beta-for-ios-166-and-ipados-166?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

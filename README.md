@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Ran a Giant Experiment in Governance. Now It&#39;s Turning to AI](https://www.wired.com/story/meta-ran-a-giant-experiment-in-governance-now-its-turning-to-ai/)
- - [The Microplastic Crisis Is Getting Exponentially Worse](https://www.wired.com/story/the-microplastic-crisis-is-getting-exponentially-worse/)
- - [MicroLED, mini LED, OLED - understanding Apple&#39;s future iPhone, iPad, and Mac displays](https://appleinsider.com/articles/21/03/01/microled-mini-led-oled---apples-future-iphone-ipad-and-mac-displays?utm_medium=rss)
- - [VR game makers say women are buying headsets due to fitness and workout apps, a shift from the male-dominated early days; &lt;10% of Quest users were women in 2019 &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230710/p8#a230710p8)
- - [Evernote fires nearly every US employee as it shifts operations to Europe](https://appleinsider.com/articles/23/07/10/evernote-fires-nearly-every-us-employee-as-it-shifts-operations-to-europe?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
+ - [Foxconn pulls out of $19.5 billion India chip joint venture](https://appleinsider.com/articles/23/07/10/foxconn-pulls-out-of-195-billion-india-chip-joint-venture?utm_medium=rss)
+ - [The Elon Musk private jet tracker resurfaces on Threads and immediately goads Mark Zuckerberg](https://www.theverge.com/2023/7/10/23789481/elon-musk-private-jet-tracker-threads-twitter-bot-elonjet)
+ - [A profile of Debbie Bestwick, the video games industry&#39;s longest-serving female CEO, ahead of her year-end departure from UK studio Team17, which released Worms &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230710/p9#a230710p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
  - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 👉 [Live stream comment](http://9gag.com/gag/anzGgdb)<!-- MEMES:END -->
+ - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So hollywood and what? 95% politicians?](http://9gag.com/gag/aDYQ67G)
- - 😝 [Classic.](http://9gag.com/gag/a4ownDv)
- - 💣 [I need to know If this Man is alive](http://9gag.com/gag/aeQR195)
- - 😝 [Good luck for the week ahead guys](http://9gag.com/gag/ap9V1xE)
- - 👉 [And people say Jackie Chan likes to take risks with his movies.](http://9gag.com/gag/aRERBAq)<!-- MEMES:END -->
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 💣 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 😝 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
 
 ---
 </div>

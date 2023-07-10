@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out fifth developer betas for watchOS 9.6 &amp; tvOS 16.6](https://appleinsider.com/articles/23/07/10/apple-rolls-out-fifth-developer-betas-for-watchos-96-tvos-166?utm_medium=rss)
  - [Apple releases fifth developer beta for iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/10/apple-releases-fifth-developer-beta-for-ios-166-and-ipados-166?utm_medium=rss)
- - [Apple seeds fifth developer beta for macOS 13.5 Ventura](https://appleinsider.com/articles/23/07/10/apple-seeds-fifth-developer-beta-for-macos-135-ventura?utm_medium=rss)
- - [Deals: Apple Pencil 2 $89, AirPods $75, $100 off 15-inch MacBook Air, OWC Thunderbolt Go Dock $279, more](https://appleinsider.com/articles/23/07/10/deals-apple-pencil-89-airpods-75-100-off-15-inch-macbook-air-owc-thunderbolt-go-dock-279-more?utm_medium=rss)
- - [The OnePlus 11 is at its lowest price ever ahead of Prime Day](https://www.androidauthority.com/oneplus-11-prime-day-deal-3343802/)<!-- TECH:END -->
+ - [Social networks can keep storing EU user data in the US under new agreement](https://www.theverge.com/2023/7/10/23789695/eu-us-transatlantic-data-sharing-agreement)
+ - [CarPlay can now control a Porsche&#39;s air conditioning &amp; more](https://appleinsider.com/articles/23/07/10/carplay-can-now-control-a-porsches-air-conditioning-more?utm_medium=rss)
+ - [Apple rolls out fifth developer betas for watchOS 9.6 &amp; tvOS 16.6](https://appleinsider.com/articles/23/07/10/apple-rolls-out-fifth-developer-betas-for-watchos-96-tvos-166?utm_medium=rss)
+ - [Apple seeds fifth developer beta for macOS 13.5 Ventura](https://appleinsider.com/articles/23/07/10/apple-seeds-fifth-developer-beta-for-macos-135-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

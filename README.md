@@ -184,7 +184,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap rolls our integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
+ - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
  - [Google loses a Senior Director due to &#39;unstable commitment&#39; in AR](https://appleinsider.com/articles/23/07/10/google-loses-a-senior-director-due-to-unstable-commitment-in-ar?utm_medium=rss)
  - [Google’s AR software leader is out over the company’s ‘unstable commitment and vision’](https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris)
  - [Porsche is updating how CarPlay works in its cars, adding climate controls and more](https://www.theverge.com/2023/7/10/23790048/porsche-enhanced-carplay-app-climate-controls)

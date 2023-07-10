@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
  - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 👉 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)<!-- MEMES:END -->
+ - 💣 [Damn onions got me](http://9gag.com/gag/az242bK)
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---
 </div>

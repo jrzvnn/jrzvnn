@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 💣 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 😝 [Live stream comment](http://9gag.com/gag/anzGgdb)
- - 👉 [Pro tip](http://9gag.com/gag/aBd466x)<!-- MEMES:END -->
+ - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - 😝 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
+ - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 😝 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
+ - 👉 [Peaceful Darwin award](http://9gag.com/gag/aMEq4z1)<!-- MEMES:END -->
 
 ---
 </div>

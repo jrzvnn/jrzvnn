@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI rules proposed by the EU and Chuck Schumer for the US could shut the more creative and innovative startups out of the market and harm AI tool development &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230710/p1#a230710p1)
- - [Instagram’s Threads surpasses 100 million users](https://www.theverge.com/2023/7/10/23787453/meta-instagram-threads-100-million-users-milestone)
- - [Lotus Eletre 2023 Review: Prices, Specs, Pros and Cons](https://www.wired.com/review/review-lotus-eletre/)
- - [Victrola Stream Onyx Review: A Record Player Designed for Sonos](https://www.wired.com/review/vicotrola-stream-onyx/)
- - [Pixel 8 price hike details leak, but there’s also some good news](https://www.androidauthority.com/google-pixel-8-price-3343808/)<!-- TECH:END -->
+ - [Quiver Quantitative: Instagram Threads passes 100M signups in just five days, up from 30M in the first 24 hours and 10M in the first seven hours &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p2#a230710p2)
+ - [Is your Fitbit Charge 5 bricked after the new update? You’re not alone](https://www.androidauthority.com/fitbit-charge-5-update-brick-3343825/)
+ - [Rad Power Bikes is pulling out of Europe to focus on US e-bike sales](https://www.theverge.com/2023/7/10/23785871/rad-power-bikes-uk-europe-shut-down-ebike)
+ - [AI rules proposed by Chuck Schumer for the US and by the EU may shut more creative and innovative startups out of the market and harm AI tool development &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230710/p1#a230710p1)
+ - [Instagram’s Threads surpasses 100 million users](https://www.theverge.com/2023/7/10/23787453/meta-instagram-threads-100-million-users-milestone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

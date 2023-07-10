@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 😝 [Damn onions got me](http://9gag.com/gag/az242bK)
- - 💣 [Don&#39;t worry. It&#39;s far.](http://9gag.com/gag/aA0vy3L)
- - 😝 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
- - 👉 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)<!-- MEMES:END -->
+ - 😝 [Something in the Way She Moves](http://9gag.com/gag/arm83yd)
+ - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 💣 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
 
 ---
 </div>

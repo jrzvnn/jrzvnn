@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 😝 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
- - 💣 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 😝 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
- - 👉 [Better study harder](http://9gag.com/gag/aDYQDpK)<!-- MEMES:END -->
+ - 😝 [Human opened emergency door to catch some fresh air before departure](http://9gag.com/gag/aL1WpdM)
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 👉 [As long as it works](http://9gag.com/gag/a1PO7K8)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple News renews &#39;After the Whistle&#39; podcast for a second season](https://appleinsider.com/articles/23/07/10/apple-news-renews-after-the-whistle-podcast-for-a-second-season?utm_medium=rss)
  - [The EU and the US agree to a new deal on data transfers after EU judges threw out two previous pacts over privacy concerns; Meta had threatened to leave the EU &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230710/p11#a230710p11)
  - [Nothing Phone 2 launch: How to watch live and attend exclusive sale events](https://www.androidauthority.com/nothing-phone-2-launch-livestream-3343792/)
  - [With Twitter traffic &quot;tanking&quot; and Threads ascendant, Elon Musk says Mark Zuckerberg &quot;is a cuck&quot; and proposes &quot;a literal dick-measuring contest&quot; &lpar;Martin Pengelly/The Guardian&rpar;](http://www.techmeme.com/230710/p10#a230710p10)
- - [Apple&#39;s M1 MacBook Air drops to record low $749 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/07/10/apples-m1-macbook-air-drops-to-record-low-749-at-amazon-ahead-of-prime-day?utm_medium=rss)
- - [EA is making a single-player Black Panther game](https://www.theverge.com/2023/7/10/23787287/ea-black-panther-game-single-player)<!-- TECH:END -->
+ - [Apple&#39;s M1 MacBook Air drops to record low $749 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/07/10/apples-m1-macbook-air-drops-to-record-low-749-at-amazon-ahead-of-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

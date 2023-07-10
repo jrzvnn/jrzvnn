@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 💣 [Damn onions got me](http://9gag.com/gag/az242bK)
- - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 💣 [Satisfying](http://9gag.com/gag/aBd4dq1)
+ - 😝 [Men are such simple creatures](http://9gag.com/gag/aEqZVB9)
+ - 👉 [Angry football dad](http://9gag.com/gag/aVbRgGd)<!-- MEMES:END -->
 
 ---
 </div>

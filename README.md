@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple App Store prices to increase for select countries](https://appleinsider.com/articles/23/07/10/apple-app-store-prices-to-increase-for-select-countries?utm_medium=rss)
  - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
  - [Is a Google Fi Wireless family plan worth the switch?](https://www.androidauthority.com/google-fi-wireless-family-plan-3343601/)
  - [iPhone 15 and iPhone 15 Pro: What the rumors say is coming out this fall](https://appleinsider.com/articles/23/07/10/iphone-15-and-iphone-15-pro-what-the-rumors-say-is-landing-this-fall?utm_medium=rss)
- - [Remind Yourself to Reapply Your Sunscreen This Summer With These UV Stickers     - CNET](https://www.cnet.com/health/personal-care/remind-yourself-to-reapply-your-sunscreen-this-summer-with-these-uv-stickers/#ftag=CAD590a51e)
- - [Researchers test seven popular AI text detectors and find the tools can discriminate against non-native English speakers, who tend to adopt simpler word choices &lpar;Ian Sample/The Guardian&rpar;](http://www.techmeme.com/230710/p15#a230710p15)<!-- TECH:END -->
+ - [Remind Yourself to Reapply Your Sunscreen This Summer With These UV Stickers     - CNET](https://www.cnet.com/health/personal-care/remind-yourself-to-reapply-your-sunscreen-this-summer-with-these-uv-stickers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

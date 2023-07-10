@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New EU deal legalizes transatlantic data transfers once again](https://appleinsider.com/articles/23/07/10/new-eu-deal-legalizes-transatlantic-data-transfers-once-again?utm_medium=rss)
+ - [Here’s why Threads is delayed in Europe](https://www.theverge.com/23789754/threads-meta-twitter-eu-dma-digital-markets)
  - [GM ditching CarPlay could go bad, complain car dealers](https://appleinsider.com/articles/23/07/10/gm-ditching-carplay-could-go-bad-complain-car-dealers?utm_medium=rss)
  - [Prime Day comes early in this Bose Noise Cancelling Headphones 700 deal](https://www.androidauthority.com/bose-amazon-prime-headphones-deal-3343513/)
- - [Microsoft and Amazon just opened the floodgates for Android apps on Windows](https://www.androidauthority.com/android-apps-windows-full-3343899/)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [ESA survey in 2022: Hispanic and Black Americans played video games more than other groups, 72% of US gamers were white, active players fell to 212.6M, and more &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230710/p12#a230710p12)<!-- TECH:END -->
+ - [Microsoft and Amazon just opened the floodgates for Android apps on Windows](https://www.androidauthority.com/android-apps-windows-full-3343899/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

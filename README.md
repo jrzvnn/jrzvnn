@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flexport&#39;s former CEO Ryan Petersen is joining Founders Fund as a partner; Petersen will continue to serve as Flexport&#39;s executive chairman &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230710/p18#a230710p18)
+ - [Best Buy&#39;s Black Friday in July Deals Start Today. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
  - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
  - [Google loses a Senior Director due to &#39;unstable commitment&#39; in AR](https://appleinsider.com/articles/23/07/10/google-loses-a-senior-director-due-to-unstable-commitment-in-ar?utm_medium=rss)
- - [Google’s AR software leader is out over the company’s ‘unstable commitment and vision’](https://www.theverge.com/2023/7/10/23790393/google-ar-software-leader-mark-lucovsky-project-iris)
- - [Porsche is updating how CarPlay works in its cars, adding climate controls and more](https://www.theverge.com/2023/7/10/23790048/porsche-enhanced-carplay-app-climate-controls)
- - [B&amp;H slashes Apple&#39;s MacBook Air M2 to record low $929, MacBook Pro up to $2,000 off](https://appleinsider.com/articles/23/07/10/bh-slashes-apples-macbook-air-m2-to-record-low-929-macbook-pro-up-to-2000-off?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

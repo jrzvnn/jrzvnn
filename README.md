@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple Vision Pro will try to fight off motion sickness](https://appleinsider.com/articles/23/07/10/how-apple-vision-pro-will-try-to-fight-off-motion-sickness?utm_medium=rss)
+ - [New macOS malware steals bank info, crypto wallets &amp; much more](https://appleinsider.com/articles/23/07/10/new-macos-malware-steals-bank-info-crypto-wallets-much-more?utm_medium=rss)
  - [Deadpool 3’s well-dressed Wolverine may be a sign of good things to come](https://www.theverge.com/23789722/deadpool-3-wolverine-elektra-cameos)
  - [Trailer for Apple TV+ &amp; Ridley Scott film &#39;Napoleon&#39; shows the horror of war](https://appleinsider.com/articles/23/07/10/trailer-for-apple-tv-ridley-scott-film-napoleon-shows-the-horror-of-war?utm_medium=rss)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [New EU deal legalizes transatlantic data transfers once again](https://appleinsider.com/articles/23/07/10/new-eu-deal-legalizes-transatlantic-data-transfers-once-again?utm_medium=rss)
- - [Here’s why Threads is delayed in Europe](https://www.theverge.com/23789754/threads-meta-twitter-eu-dma-digital-markets)<!-- TECH:END -->
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

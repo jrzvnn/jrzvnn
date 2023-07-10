@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s definitely pretty hot now](http://9gag.com/gag/aZDRrE9)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 💣 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 😝 [As long as it works](http://9gag.com/gag/a1PO7K8)
- - 👉 [Why it&#39;s `hard` to go to an eastern european school.](http://9gag.com/gag/aPgrmvP)<!-- MEMES:END -->
+ - 😝 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - 😝 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 💣 [Better study harder](http://9gag.com/gag/aDYQDpK)
+ - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
+ - 👉 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)<!-- MEMES:END -->
 
 ---
 </div>

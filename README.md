@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
  - 😝 [Pro tip](http://9gag.com/gag/aBd466x)
- - 💣 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 😝 [Can some genius identify this?](http://9gag.com/gag/ay2v96y)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 💣 [Live stream comment](http://9gag.com/gag/anzGgdb)
+ - 😝 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
+ - 👉 [Don&#39;t read this](http://9gag.com/gag/anzGzYB)<!-- MEMES:END -->
 
 ---
 </div>

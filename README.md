@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance will allow restricted shares held by US employees to vest before the company&#39;s IPO, in an effort to appease restless employees &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230711/p41#a230711p41)
- - [85 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-1/)
- - [Meet Our Long-Term 2022 Kia EV6: 4,000 Mile Update     - CNET](https://www.cnet.com/roadshow/news/long-term-2022-kia-ev6-4000-mile-update/#ftag=CAD590a51e)
- - [Meet CNET&#39;s long-term Kia EV6     - CNET](https://www.cnet.com/roadshow/pictures/meet-cnets-long-term-kia-ev6/#ftag=CAD590a51e)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
+ - [The best deals of Amazon Prime Day 2023](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)
+ - [Interviews with executives and staff at Anthropic reveal how an obsession with AI safety and ties to effective altruism influence the startup&#39;s decisions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230711/p42#a230711p42)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
+ - [3 Great Robot Vacuums Are On Sale for Amazon Prime Day](https://www.wired.com/story/3-robot-vacuums-deal-prime-day-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tata Group is close to an agreement to acquire Wistron&#39;s iPhone plant near Bengaluru as soon as August; the deal is potentially valued at $600M+ &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230711/p6#a230711p6)
  - [Personal data of potentially tens of millions of HCA Healthcare patients was stolen from an &quot;external storage location&quot; and is for sale on a data breach forum &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230711/p5#a230711p5)
  - [Sources: Uber CFO Nelson Chai plans to step down, the company&#39;s most significant executive exit since its 2019 IPO, but a decision on timing hasn&#39;t been made &lpar;Bloomberg&rpar;](http://www.techmeme.com/230711/p4#a230711p4)
  - [A look at EV ride-hailing company BluSmart, which operates ~4,500 cabs in New Delhi and Bengaluru, and has raised $120M+ in equity and debt from BP and others &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230711/p3#a230711p3)
- - [Is Nothing making a foldable phone? Here’s what Carl Pei has to say](https://www.androidauthority.com/nothing-foldable-phone-3344197/)
- - [Meta told an Australian inquiry on foreign interference that it plans to build &quot;state-affiliated media&quot; and &quot;fact-checking&quot; labels on Threads &quot;expeditiously&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230711/p1#a230711p1)<!-- TECH:END -->
+ - [Is Nothing making a foldable phone? Here’s what Carl Pei has to say](https://www.androidauthority.com/nothing-foldable-phone-3344197/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

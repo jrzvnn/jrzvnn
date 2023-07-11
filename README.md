@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Instagram plans to add branded content tools to Threads, offering marketers paid promotion; Threads won&#39;t introduce ads before reaching a critical mass &lpar;Axios&rpar;](http://www.techmeme.com/230711/p12#a230711p12)
+ - [9 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses, Sheets, Weighted Blankets](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2023/)
+ - [Apple pulls latest Rapid Security Response updates](https://appleinsider.com/articles/23/07/11/apple-pulls-latest-rapid-security-response-updates?utm_medium=rss)
  - [Something odd is happening when you try and search Twitter for Threads links](https://www.theverge.com/2023/7/11/23790834/twitter-search-for-threads-urls-broken-zero-results)
- - [This Prime Day deal knocks $700 off the Galaxy Z Fold 4](https://www.androidauthority.com/samsung-prime-day-fold-4-3343583/)
- - [28 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023/)
- - [Motorola is offering steep discounts on its phones for Prime Day](https://www.androidauthority.com/motorola-phones-prime-day-deals-3344216/)
- - [Tumblr details the future of its platform, including to &quot;fix the core experience&quot; and make the site less intimidating, to better compete with larger rivals &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230711/p11#a230711p11)<!-- TECH:END -->
+ - [This Prime Day deal knocks $700 off the Galaxy Z Fold 4](https://www.androidauthority.com/samsung-prime-day-fold-4-3343583/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

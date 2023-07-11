@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [85 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-1/)
+ - [Meet Our Long-Term 2022 Kia EV6: 4,000 Mile Update     - CNET](https://www.cnet.com/roadshow/news/long-term-2022-kia-ev6-4000-mile-update/#ftag=CAD590a51e)
+ - [Meet CNET&#39;s long-term Kia EV6     - CNET](https://www.cnet.com/roadshow/pictures/meet-cnets-long-term-kia-ev6/#ftag=CAD590a51e)
  - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [Apple&#39;s Mac mini has outlasted Intel&#39;s NUC](https://appleinsider.com/articles/23/07/11/apples-mac-mini-has-outlasted-intels-nuc?utm_medium=rss)
- - [Amazon’s audio game shows no signs of stopping](https://www.theverge.com/2023/7/11/23791809/amazon-audible-rachel-ghiazza-iheart-radio-dei)
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [Here Are A Bunch Of Great Candy Deals for Prime Day](https://www.wired.com/story/amazon-prime-day-candy-deals-2023/)<!-- TECH:END -->
+ - [Apple&#39;s Mac mini has outlasted Intel&#39;s NUC](https://appleinsider.com/articles/23/07/11/apples-mac-mini-has-outlasted-intels-nuc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

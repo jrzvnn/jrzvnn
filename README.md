@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperX’s 300-Hour Battery Life Headset Is Cheaper Than Ever](https://www.wired.com/story/hyperx-cloud-alpha-wireless-prime-day-2023/)
  - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [Silk Road’s top lieutenant gets 20 years behind bars](https://www.theverge.com/2023/7/11/23791602/silk-road-variety-jones-prison)
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [44 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)<!-- TECH:END -->
+ - [Apple&#39;s Mac mini has outlasted Intel&#39;s NUC](https://appleinsider.com/articles/23/07/11/apples-mac-mini-has-outlasted-intels-nuc?utm_medium=rss)
+ - [Amazon’s audio game shows no signs of stopping](https://www.theverge.com/2023/7/11/23791809/amazon-audible-rachel-ghiazza-iheart-radio-dei)
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
+ - [Here Are A Bunch Of Great Candy Deals for Prime Day](https://www.wired.com/story/amazon-prime-day-candy-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

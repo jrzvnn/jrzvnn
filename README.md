@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn pulls out of $19.5 billion India chip joint venture](https://appleinsider.com/articles/23/07/10/foxconn-pulls-out-of-195-billion-india-chip-joint-venture?utm_medium=rss)
+ - [12 Best Prime Day Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Strokers](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023/)
  - [Prime Day finally knocks 40% off this top HyperX gaming headset](https://www.androidauthority.com/hyperx-prime-day-3343630/)
  - [Apple Vision Pro needs custom-designed high-speed DRAM](https://appleinsider.com/articles/23/07/11/apple-vision-pro-needs-custom-designed-high-speed-dram?utm_medium=rss)
- - [A look at Meta&#39;s survey of 6,000 people in 32 countries about the metaverse, using a kind of deliberative democracy, and plans for a similar generative AI study &lpar;Aviv Ovadya/Wired&rpar;](http://www.techmeme.com/230711/p14#a230711p14)
- - [The Fitbit Charge 5 and Versa 4 get healthy price cuts for Prime Day](https://www.androidauthority.com/fitbit-charge-5-versa-4-prime-day-deals-3343843/)
- - [8 Best Prime Day Deals on Coffee Gear and Espresso Machines &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-coffee-deals-2023/)<!-- TECH:END -->
+ - [A look at Meta&#39;s survey of 6,000 people in 32 countries about the metaverse, using a kind of deliberative democracy, and plans for a similar generative AI study &lpar;Aviv Ovadya/Wired&rpar;](http://www.techmeme.com/230711/p14#a230711p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

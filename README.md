@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 Best Prime Day Headphone and Speaker Deals &lpar;2023&rpar;: Earbuds, Headsets, Soundbars](https://www.wired.com/story/best-amazon-prime-day-headphone-speaker-deals-2023/)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [Latest Samsung Galaxy Book 3 Pro is already over 20% off for Prime Day](https://www.androidauthority.com/prime-day-laptop-galaxy-book-3-pro-3343895/)
- - [Study: about 13% of video games released in the US before 2010 and less than 3% of titles released before 1985 are still in print in 2023 &lpar;Phil Salvador/Video Game History ...&rpar;](http://www.techmeme.com/230711/p18#a230711p18)
- - [First price drop on the Studio Buds Plus, and more Beats Prime deals](https://www.androidauthority.com/beats-prime-day-deals-2023-3343675/)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
+ - [Qualcomm tries to rope Apple execs into a class action lawsuit](https://appleinsider.com/articles/23/07/11/qualcomm-tries-to-rope-apple-execs-into-a-class-action-lawsuit?utm_medium=rss)
+ - [One of these Garmin Prime Day deals is off the charts](https://www.androidauthority.com/garmin-prime-day-deals-2023-3343979/)
+ - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

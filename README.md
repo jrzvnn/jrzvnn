@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 💣 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 👉 [A classic ride](http://9gag.com/gag/a6qGDYe)<!-- MEMES:END -->
+ - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 💣 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
+ - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
 
 ---
 </div>

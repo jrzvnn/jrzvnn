@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple targets China sales growth with new WeChat storefront](https://appleinsider.com/articles/23/07/11/apple-targets-china-sales-growth-with-new-wechat-storefront?utm_medium=rss)
- - [36 Best Prime Day Phone and Tablet Deals &lpar;2023&rpar;: Apple iPad, Samsung Galaxy, and More](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-2023/)
- - [Amazon files a petition in the EU&#39;s General Court challenging the DSA and its &quot;large platform&quot; designation, the first US company to do so, following Zalando &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230711/p15#a230711p15)
- - [Tata Group will become the first India-native company to build the iPhone](https://appleinsider.com/articles/23/07/11/tata-group-will-become-the-first-india-native-company-to-build-the-iphone?utm_medium=rss)
- - [Foxconn pulls out of $19.5 billion India chip joint venture](https://appleinsider.com/articles/23/07/10/foxconn-pulls-out-of-195-billion-india-chip-joint-venture?utm_medium=rss)<!-- TECH:END -->
+ - [London-based Raft, which automates freight logistics, raised a $30M Series B led by Eight Roads, taking its total funding to $48M, to expand R&amp;D investment &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230711/p17#a230711p17)
+ - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Apple&#39;s iPad 10th Generation, iPad mini drop to new record low prices for Amazon Prime Day](https://appleinsider.com/articles/23/07/11/apples-ipad-10th-generation-ipad-mini-drop-to-new-record-low-prices-for-amazon-prime-day?utm_medium=rss)
+ - [Act fast deal: Get a 2022 Galaxy Tab A8 for almost 50% off, will sell out](https://www.androidauthority.com/samsung-tablet-prime-day-deal-2023-3343892/)
+ - [Save over 40% on the Samsung Galaxy Watch 5 with this Prime Day deal!](https://www.androidauthority.com/samsung-galaxy-watch-5-amazon-prime-day-deal-3343821/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

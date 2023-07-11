@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [101+ Best Prime Day Deals on Gear Our Reviewers Love](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
  - [Hey! Listen! Here&#39;s &#39;Tears of the Kingdom&#39;s&#39; Biggest Discount Yet](https://www.wired.com/story/tears-of-the-kingdom-game-deal-prime-day-2023/)
  - [Apple Card entices new cardholders with 10% boost to Daily Cash for a limited time](https://appleinsider.com/articles/23/07/11/apple-card-entices-new-cardholders-with-10-boost-to-daily-cash-for-a-limited-time?utm_medium=rss)
- - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
- - [The best deals of Amazon Prime Day 2023](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

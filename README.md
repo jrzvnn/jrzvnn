@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [36 Best Prime Day Gaming Deals &lpar;2023&rpar;: Games, Xbox Series S, Keyboards, and More](https://www.wired.com/story/best-amazon-prime-day-game-deals-2023-1/)
+ - [The 19 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
  - [The FCC aims to stop SIM swappers with new rules](https://www.theverge.com/2023/7/11/23791183/fcc-sim-swapping-port-out-phone-hijacking-security-protection)
- - [Roger Thomas Clark, who was Silk Road&#39;s second-in-command, behind Ross Ulbricht, is sentenced to 20 years, following his extradition from Thailand in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230711/p38#a230711p38)
- - [Prime Day: Get your head around these best headphone deals](https://appleinsider.com/articles/23/07/11/prime-day-get-your-head-around-these-best-headphone-deals?utm_medium=rss)
- - [79 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-1/)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [Roger Thomas Clark, who was Silk Road&#39;s second-in-command, behind Ross Ulbricht, is sentenced to 20 years, following his extradition from Thailand in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230711/p38#a230711p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

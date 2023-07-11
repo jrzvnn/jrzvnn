@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 beta 4 is here, likely the final beta before the stable launch](https://www.androidauthority.com/android-14-beta-4-3344376/)
+ - [Intel confirms plans to halt investment in its Next Unit of Compute &lpar;NUC&rpar; line of products, primarily known for small form factor PCs &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/230711/p35#a230711p35)
  - [82 Absolute Best Prime Day Deals &lpar;2023&rpar;: Amazon Devices, Laptops, Robot Vacuums](https://www.wired.com/story/best-prime-day-deals-2023-1/)
  - [Record-low price on the Scribe headlines the Prime Day Kindle deals](https://www.androidauthority.com/prime-day-kindle-deals-3344360/)
- - [Discord finally debuts parental supervision tools after feedback from parents and experts; parents can&#39;t see message contents, cannot add time limits, and more &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p34#a230711p34)
- - [Intel is quitting on its adorable, powerful, and upgradable mini NUC computers](https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [Discord finally debuts parental supervision tools after feedback from parents and experts; parents can&#39;t see message contents, cannot add time limits, and more &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p34#a230711p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

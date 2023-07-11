@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 💣 [Red card...](http://9gag.com/gag/awZeLeW)
+ - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
+ - 😝 [Red card...](http://9gag.com/gag/awZeLeW)
+ - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
- - 👉 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)<!-- MEMES:END -->
+ - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---
 </div>

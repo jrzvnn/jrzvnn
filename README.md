@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [36 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023/)
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)
  - [An interview with Google DeepMind CEO Demis Hassabis on DeepMind restructuring, building and timeline for AGI, AI risks and regulations, Google Bard, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230711/p9#a230711p9)
  - [Enjoy up to 45% off Roborock products to keep your whole house clean this Amazon Prime Day](https://appleinsider.com/articles/23/07/11/enjoy-up-to-45-off-roborock-products-to-keep-your-whole-house-clean-this-amazon-prime-day?utm_medium=rss)
- - [15 Best Prime Day Deals on Google and Nest Devices &lpar;2023&rpar;: Pixel Phones, Nest Hubs, Chromecast](https://www.wired.com/story/best-amazon-prime-day-google-pixel-nest-deals-2023/)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [Sources: China plans to force companies to gain a license before releasing generative AI tools, tightening April&#39;s draft rules and seeking to control content &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230711/p8#a230711p8)<!-- TECH:END -->
+ - [15 Best Prime Day Deals on Google and Nest Devices &lpar;2023&rpar;: Pixel Phones, Nest Hubs, Chromecast](https://www.wired.com/story/best-amazon-prime-day-google-pixel-nest-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

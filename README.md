@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [Hey! Listen! Here&#39;s &#39;Tears of the Kingdom&#39;s&#39; Biggest Discount Yet](https://www.wired.com/story/tears-of-the-kingdom-game-deal-prime-day-2023/)
+ - [Apple Card entices new cardholders with 10% boost to Daily Cash for a limited time](https://appleinsider.com/articles/23/07/11/apple-card-entices-new-cardholders-with-10-boost-to-daily-cash-for-a-limited-time?utm_medium=rss)
  - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
- - [The best deals of Amazon Prime Day 2023](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)
- - [Interviews with executives and staff at Anthropic reveal how an obsession with AI safety and ties to effective altruism influence the startup&#39;s decisions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230711/p42#a230711p42)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [3 Great Robot Vacuums Are On Sale for Amazon Prime Day](https://www.wired.com/story/3-robot-vacuums-deal-prime-day-2023/)<!-- TECH:END -->
+ - [The best deals of Amazon Prime Day 2023](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn pulls out of $19.5 billion India chip joint venture](https://appleinsider.com/articles/23/07/10/foxconn-pulls-out-of-195-billion-india-chip-joint-venture?utm_medium=rss)
- - [12 Best Prime Day Sex Toy Deals &lpar;2023&rpar;: Vibrators, Suction Toys, Strokers](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023/)
- - [Prime Day finally knocks 40% off this top HyperX gaming headset](https://www.androidauthority.com/hyperx-prime-day-3343630/)
- - [Apple Vision Pro needs custom-designed high-speed DRAM](https://appleinsider.com/articles/23/07/11/apple-vision-pro-needs-custom-designed-high-speed-dram?utm_medium=rss)
- - [A look at Meta&#39;s survey of 6,000 people in 32 countries about the metaverse, using a kind of deliberative democracy, and plans for a similar generative AI study &lpar;Aviv Ovadya/Wired&rpar;](http://www.techmeme.com/230711/p14#a230711p14)<!-- TECH:END -->
+ - [Apple targets China sales growth with new WeChat storefront](https://appleinsider.com/articles/23/07/11/apple-targets-china-sales-growth-with-new-wechat-storefront?utm_medium=rss)
+ - [36 Best Prime Day Phone and Tablet Deals &lpar;2023&rpar;: Apple iPad, Samsung Galaxy, and More](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-2023/)
+ - [Amazon files a petition in the EU&#39;s General Court challenging the DSA and its &quot;large platform&quot; designation, the first US company to do so, following Zalando &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230711/p15#a230711p15)
+ - [Tata Group will become the first India-native company to build the iPhone](https://appleinsider.com/articles/23/07/11/tata-group-will-become-the-first-india-native-company-to-build-the-iphone?utm_medium=rss)
+ - [Foxconn pulls out of $19.5 billion India chip joint venture](https://appleinsider.com/articles/23/07/10/foxconn-pulls-out-of-195-billion-india-chip-joint-venture?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

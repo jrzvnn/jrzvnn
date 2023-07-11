@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [Qualcomm tries to rope Apple execs into a class action lawsuit](https://appleinsider.com/articles/23/07/11/qualcomm-tries-to-rope-apple-execs-into-a-class-action-lawsuit?utm_medium=rss)
- - [One of these Garmin Prime Day deals is off the charts](https://www.androidauthority.com/garmin-prime-day-deals-2023-3343979/)
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)<!-- TECH:END -->
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
+ - [Bear 2 is a terrific notes app — and it only took forever to build](https://www.theverge.com/23786996/bear-2-notes-app-iphone-ipad-mac)
+ - [Everything in The Verge merch store is on sale](https://www.theverge.com/23786140/verge-merch-store-prime-day-sale-code-2023)
+ - [Amazon Prime Day 2023: the latest news, deals, and coverage](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

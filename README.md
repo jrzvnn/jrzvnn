@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)
+ - [Can banks push Bitcoin to clean up its act?](https://www.theverge.com/2023/7/11/23778688/bitcoin-energy-emissions-climate-change-banks-asset-managers-greenpeace)
+ - [Prime Day deals: MacBooks from $740, $549 M2 Mac mini, Dyson up to 36% off, more](https://appleinsider.com/articles/23/07/11/prime-day-deals-macbooks-from-740-549-m2-mac-mini-dyson-up-to-36-off-more?utm_medium=rss)
  - [Global PC shipments declined 13.4% YoY to 61.6M in Q2 2023, the sixth consecutive quarter of decline; only Apple had positive growth, up 10.3% YoY to 5.3M units &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230711/p23#a230711p23)
- - [Make your phone look like Nothing with these new Something &lpar;Dark&rpar; skins](https://www.androidauthority.com/nothing-dbrand-something-dark-skins-cases-3344306/)
- - [The Galaxy Tab S8 Plus just dropped by $400 for Prime members](https://www.androidauthority.com/samsung-galaxy-tablets-prime-day-3344104/)
- - [Anthropic releases AI chatbot Claude 2, available in the US and the UK via claude.ai and an API for businesses; Anthropic raised $1B+, including $450M in May &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230711/p22#a230711p22)
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)<!-- TECH:END -->
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

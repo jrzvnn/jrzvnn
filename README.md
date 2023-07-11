@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm TPG agrees to buy the government cybersecurity business of Francisco Partners-owned Forcepoint for $2.45B in a deal expected to close in Q4 2023 &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230710/p20#a230710p20)
+ - [LG Rolls Out Hundreds in Savings On Its Cutting-Edge OLED TVs     - CNET](https://www.cnet.com/deals/lg-rolls-out-hundreds-in-savings-on-its-cutting-edge-oled-tvs/#ftag=CAD590a51e)
  - [A look at &quot;lazy management&quot;, an alternative explanation to the claim that some tech employees drag down companies by raking in big paychecks and working little &lpar;Insider&rpar;](http://www.techmeme.com/230710/p19#a230710p19)
  - [11 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)
- - [23 Best Prime Day Deals on Amazon Devices &lpar;2023&rpar;: Kindles, Echo Speakers, and Fire Tablets](https://www.wired.com/story/best-amazon-device-deals-prime-day-2023/)
- - [Best Target Circle Week Deals: Save on Tech and More Before Tuesday&#39;s Prime Day Rush     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
- - [Flexport&#39;s former CEO Ryan Petersen is joining Founders Fund as a partner; Petersen will continue to serve as Flexport&#39;s executive chairman &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230710/p18#a230710p18)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 😝 [How a substitute teacher in eastern europe looks like.](http://9gag.com/gag/avQ9WwZ)
+ - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
+ - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
- - 👉 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)<!-- MEMES:END -->
+ - 👉 [A classic ride](http://9gag.com/gag/a6qGDYe)<!-- MEMES:END -->
 
 ---
 </div>

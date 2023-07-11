@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How a substitute teacher in eastern europe looks like.](http://9gag.com/gag/avQ9WwZ)
- - 😝 [Yes, tell the pilot what landing speed he should have... while he is already landing.](http://9gag.com/gag/aWGR4x4)
- - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 😝 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
+ - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
- - 👉 [A classic ride](http://9gag.com/gag/a6qGDYe)<!-- MEMES:END -->
+ - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 ---
 </div>

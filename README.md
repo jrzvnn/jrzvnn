@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
+ - [15 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023/)
  - [How to change the battery on an AirTag](https://appleinsider.com/articles/21/05/03/how-to-change-the-battery-in-airtag?utm_medium=rss)
  - [Shutterstock announces an expanded, six-year partnership with OpenAI that grants access to its video, image, and music libraries for AI training; SSTK jumps 9%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230711/p25#a230711p25)
- - [Amazon’s latest Kindle is on sale for just $65](https://www.theverge.com/2023/7/11/23790311/amazon-kindle-prime-day-2023-deal-sale-paperwhite-ereader)
- - [A Nebraska woman pleads guilty to giving an abortion pill to her teen daughter after Meta complied with a warrant for messages between mother and daughter &lpar;Susan Rinkunas/Jezebel&rpar;](http://www.techmeme.com/230711/p24#a230711p24)
- - [Prime deal alert: Solve your storage woes with up to 68% off SanDisk devices](https://www.androidauthority.com/prime-day-sandisk-deals-3344194/)<!-- TECH:END -->
+ - [Amazon’s latest Kindle is on sale for just $65](https://www.theverge.com/2023/7/11/23790311/amazon-kindle-prime-day-2023-deal-sale-paperwhite-ereader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

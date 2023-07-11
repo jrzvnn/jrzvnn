@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [79 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-1/)
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
  - [Silk Road’s Second-in-Command, Variety Jones, Gets 20 Years in Prison](https://www.wired.com/story/silk-road-variety-jones-sentencing/)
  - [Meta now lets avatars be used to answer and make video calls on Instagram and Messenger and adds ways to share animated avatar stickers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230711/p37#a230711p37)
- - [Meta-provided Facebook chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)
- - [Netflix just made it easier to transfer your profile from your ex’s account to your new partner’s](https://www.theverge.com/2023/7/11/23791327/netflix-profile-transfer-new-account-password-sharing)
- - [Meta is going to let you make video calls as your avatar](https://www.theverge.com/2023/7/11/23791334/meta-avatar-calling-animated-stickers)<!-- TECH:END -->
+ - [Meta-provided Facebook chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

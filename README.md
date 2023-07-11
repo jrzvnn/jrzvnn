@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The see-through Beats Studio Buds Plus just received their first discount](https://www.theverge.com/2023/7/11/23790390/amazon-prime-day-beats-studio-buds-plus-wireless-earbuds-2023-deal-sale)
  - [US DOJ arrests a security engineer on wire fraud and money laundering charges, saying he &quot;fraudulently obtained&quot; $9M through a DEX by creating fake pricing data &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230711/p36#a230711p36)
- - [Apple issues update to third tvOS 17 developer beta for testing](https://appleinsider.com/articles/23/07/11/apple-issues-update-to-third-tvos-17-developer-beta-for-testing?utm_medium=rss)
- - [Apple rolls out revised third macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/11/apple-rolls-out-revised-third-macos-sonoma-developer-beta?utm_medium=rss)
- - [Apple rolls out new update to third iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/07/11/apple-rolls-out-new-update-to-third-ios-17-ipados-17-developer-betas?utm_medium=rss)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)<!-- TECH:END -->
+ - [The Ahsoka series’ latest trailer is one big, rebellious reunion](https://www.theverge.com/23791246/ahsoka-trailer-rebels-sabine-hera-ezra-thrawn)
+ - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
+ - [Apple issues update to third tvOS 17 developer beta for testing](https://appleinsider.com/articles/23/07/11/apple-issues-update-to-third-tvos-17-developer-beta-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
- - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
- - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
+ - 😝 [Thank you Sir Isaac Newton](http://9gag.com/gag/a8qV6PZ)
+ - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
+ - 💣 [Angry football dad](http://9gag.com/gag/aVbRgGd)
+ - 😝 [Satisfying](http://9gag.com/gag/aBd4dq1)
+ - 👉 [Just Joaquin Phoenix](http://9gag.com/gag/aqeD8o7)<!-- MEMES:END -->
 
 ---
 </div>

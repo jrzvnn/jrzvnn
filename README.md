@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [Nothing plans to launch the Phone &lpar;2&rpar; for $599+ in the US, Europe, and the UK on July 17; the device&#39;s rear &quot;glyph&quot; lights have been segmented into zones &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/230711/p29#a230711p29)
- - [Jabra’s Prime Day deals are all killer no filler](https://www.androidauthority.com/jabra-prime-day-deals-3344335/)
- - [Hacks using flaws in Progress&#39;s MOVEit tool have hit hundreds of organizations, now including TomTom, Radisson hotels, and real estate giant Jones Lang LaSalle &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230711/p28#a230711p28)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [Sources: the EU Commission will say on July 12 that its regulators accept Broadcom&#39;s concessions in its $69B VMware deal; the US and UK need to approve the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/230711/p32#a230711p32)
+ - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home tech &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)
+ - [Apple says fix for pulled security update will be released soon](https://appleinsider.com/articles/23/07/11/apple-says-fix-for-pulled-security-update-will-be-released-soon?utm_medium=rss)
+ - [Prime Day: Add more storage to your Mac with these external SSD deals](https://appleinsider.com/articles/23/07/11/prime-day-add-more-storage-to-your-mac-with-these-external-ssd-deals?utm_medium=rss)
+ - [Wonka’s first trailer is a whimsical origin story](https://www.theverge.com/23790924/wonka-trailer-date-timothee-chalamet-charlie-chocolate-factory-prequel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

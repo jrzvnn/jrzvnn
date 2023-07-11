@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
  - [Samsung improves image quality, fixes errors in Expert RAW update](https://www.androidauthority.com/samsung-expert-raw-image-quality-3344328/)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
  - [US court denies FTC&#39;s bid for a preliminary injunction to stop Microsoft&#39;s Activision deal, saying the theories of harm FTC presented were unlikely to succeed &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230711/p27#a230711p27)
- - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
- - [How to Use Discord’s Family Center With Your Teens](https://www.wired.com/story/how-to-use-discord-family-center-child-safety/)<!-- TECH:END -->
+ - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

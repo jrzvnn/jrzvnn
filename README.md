@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Microsoft victorious over FTC lawsuit to block Activision Blizzard buy](https://appleinsider.com/articles/23/07/11/microsoft-victorious-over-ftc-lawsuit-to-block-activision-blizzard-buy?utm_medium=rss)
- - [Android 14 beta 4 is here, likely the final beta before the stable launch](https://www.androidauthority.com/android-14-beta-4-3344376/)<!-- TECH:END -->
+ - [US DOJ arrests a security engineer on wire fraud and money laundering charges, saying he &quot;fraudulently obtained&quot; $9M through a DEX by creating fake pricing data &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230711/p36#a230711p36)
+ - [Apple issues update to third tvOS 17 developer beta for testing](https://appleinsider.com/articles/23/07/11/apple-issues-update-to-third-tvos-17-developer-beta-for-testing?utm_medium=rss)
+ - [Apple rolls out revised third macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/11/apple-rolls-out-revised-third-macos-sonoma-developer-beta?utm_medium=rss)
+ - [Apple rolls out new update to third iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/07/11/apple-rolls-out-new-update-to-third-ios-17-ipados-17-developer-betas?utm_medium=rss)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

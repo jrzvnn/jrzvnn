@@ -194,7 +194,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
  - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
  - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->

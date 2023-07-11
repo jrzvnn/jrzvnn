@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Samsung Galaxy Book 3 Pro is already over 20% off for Prime Day](https://www.androidauthority.com/prime-day-laptop-galaxy-book-3-pro-3343895/)
+ - [Study: about 13% of video games released in the US before 2010 and less than 3% of titles released before 1985 are still in print in 2023 &lpar;Phil Salvador/Video Game History ...&rpar;](http://www.techmeme.com/230711/p18#a230711p18)
  - [First price drop on the Studio Buds Plus, and more Beats Prime deals](https://www.androidauthority.com/beats-prime-day-deals-2023-3343675/)
- - [66 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023/)
- - [Sony might be winning Prime Day with these record headphone deals](https://www.androidauthority.com/sony-prime-day-headphone-deals-3344135/)
- - [London-based Raft, which automates freight logistics, raised a $30M Series B led by Eight Roads, taking its total funding to $48M, to expand R&amp;D investment &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230711/p17#a230711p17)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)
+ - [66 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

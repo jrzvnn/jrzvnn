@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
- - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 😝 [This is sensitive](http://9gag.com/gag/aDYQZy7)
  - 😝 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 👉 [This is sensitive](http://9gag.com/gag/aDYQZy7)<!-- MEMES:END -->
+ - 💣 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
+ - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
 
 ---
 </div>

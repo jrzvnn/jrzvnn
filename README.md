@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WeChat says Apple has opened a store on the platform, letting users buy iPhones, iPads, and Macs; Apple already operates a store on Alibaba&#39;s Tmall &lpar;Reuters&rpar;](http://www.techmeme.com/230711/p10#a230711p10)
  - [36 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023/)
  - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)
  - [An interview with Google DeepMind CEO Demis Hassabis on DeepMind restructuring, building and timeline for AGI, AI risks and regulations, Google Bard, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230711/p9#a230711p9)
- - [Enjoy up to 45% off Roborock products to keep your whole house clean this Amazon Prime Day](https://appleinsider.com/articles/23/07/11/enjoy-up-to-45-off-roborock-products-to-keep-your-whole-house-clean-this-amazon-prime-day?utm_medium=rss)
- - [15 Best Prime Day Deals on Google and Nest Devices &lpar;2023&rpar;: Pixel Phones, Nest Hubs, Chromecast](https://www.wired.com/story/best-amazon-prime-day-google-pixel-nest-deals-2023/)<!-- TECH:END -->
+ - [Enjoy up to 45% off Roborock products to keep your whole house clean this Amazon Prime Day](https://appleinsider.com/articles/23/07/11/enjoy-up-to-45-off-roborock-products-to-keep-your-whole-house-clean-this-amazon-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

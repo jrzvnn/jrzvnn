@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at EV ride-hailing company BluSmart, which operates ~4,500 cabs in New Delhi and Bengaluru, and has raised $120M+ in equity and debt from BP and others &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230711/p3#a230711p3)
  - [Is Nothing making a foldable phone? Here’s what Carl Pei has to say](https://www.androidauthority.com/nothing-foldable-phone-3344197/)
  - [Meta told an Australian inquiry on foreign interference that it plans to build &quot;state-affiliated media&quot; and &quot;fact-checking&quot; labels on Threads &quot;expeditiously&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230711/p1#a230711p1)
  - [Bangladesh&#39;s Computer Incident Response Team took down citizens&#39; sensitive data exposed through a government site and says it &quot;promptly&quot; addressed the breach &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230710/p21#a230710p21)
- - [PE firm TPG agrees to buy the government cybersecurity business of Francisco Partners-owned Forcepoint for $2.45B in a deal expected to close in Q4 2023 &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230710/p20#a230710p20)
- - [Best Buy&#39;s Black Friday in July Sale Has Started. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PE firm TPG agrees to buy the government cybersecurity business of Francisco Partners-owned Forcepoint for $2.45B in a deal expected to close in Q4 2023 &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230710/p20#a230710p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -195,9 +195,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
  - 😝 [Red card...](http://9gag.com/gag/awZeLeW)
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
 
 ---
 </div>

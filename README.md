@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accounting firm KPMG plans to invest $2B in AI and cloud services globally over the next five years through an expanded partnership with Microsoft &lpar;Mark Maurer/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p40#a230711p40)
+ - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
  - [CORE Apple Store union negotiations hit a wall of Apple&#39;s design](https://appleinsider.com/articles/23/07/11/core-apple-store-union-negotiations-hit-a-wall-of-apples-design?utm_medium=rss)
- - [AirPods firmware gets second developer beta](https://appleinsider.com/articles/23/07/11/airpods-firmware-gets-second-developer-beta?utm_medium=rss)
- - [20 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023-1/)
- - [Prime alert: The Soundcore Liberty Air 4 gets its biggest price drop yet](https://www.androidauthority.com/prime-day-anker-soundcore-liberty-air-4-3344429/)<!-- TECH:END -->
+ - [Every EV Available in 2023, Ranked by Range     - CNET](https://www.cnet.com/roadshow/news/every-ev-available-in-2023-ranked-by-range/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

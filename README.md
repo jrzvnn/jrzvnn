@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accounting firm KPMG plans to invest $2B in AI and cloud services globally over the next five years through an expanded partnership with Microsoft &lpar;Mark Maurer/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p40#a230711p40)
- - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [CORE Apple Store union negotiations hit a wall of Apple&#39;s design](https://appleinsider.com/articles/23/07/11/core-apple-store-union-negotiations-hit-a-wall-of-apples-design?utm_medium=rss)
- - [Every EV Available in 2023, Ranked by Range     - CNET](https://www.cnet.com/roadshow/news/every-ev-available-in-2023-ranked-by-range/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
+ - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
+ - [Accounting firm KPMG plans to invest $2B in AI and cloud services globally over the next five years through an expanded partnership with Microsoft &lpar;Mark Maurer/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p40#a230711p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

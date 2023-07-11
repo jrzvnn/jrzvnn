@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HyperX’s 300-Hour Battery Life Headset Is Cheaper Than Ever](https://www.wired.com/story/hyperx-cloud-alpha-wireless-prime-day-2023/)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
+ - [Silk Road’s top lieutenant gets 20 years behind bars](https://www.theverge.com/2023/7/11/23791602/silk-road-variety-jones-prison)
  - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [44 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)
- - [OpenAI’s DALL-E will train on Shutterstock’s library for six more years](https://www.theverge.com/2023/7/11/23791528/openai-shutterstock-images-partnership)
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
+ - [44 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

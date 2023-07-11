@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU Commission will say on July 12 that its regulators accept Broadcom&#39;s concessions in its $69B VMware deal; the US and UK need to approve the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/230711/p32#a230711p32)
- - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home tech &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)
- - [Apple says fix for pulled security update will be released soon](https://appleinsider.com/articles/23/07/11/apple-says-fix-for-pulled-security-update-will-be-released-soon?utm_medium=rss)
- - [Prime Day: Add more storage to your Mac with these external SSD deals](https://appleinsider.com/articles/23/07/11/prime-day-add-more-storage-to-your-mac-with-these-external-ssd-deals?utm_medium=rss)
- - [Wonka’s first trailer is a whimsical origin story](https://www.theverge.com/23790924/wonka-trailer-date-timothee-chalamet-charlie-chocolate-factory-prequel)<!-- TECH:END -->
+ - [Discord finally debuts parental supervision tools after feedback from parents and experts; parents can&#39;t see message contents, cannot add time limits, and more &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p34#a230711p34)
+ - [Intel is quitting on its adorable, powerful, and upgradable mini NUC computers](https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued)
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
+ - [17 Best Target Circle Week Deals &lpar;2023&rpar;: Robot Vacuums, Instant Pots, Stand Mixers](https://www.wired.com/story/best-target-circle-week-deals-2023-2/)
+ - [Llion Jones, who co-authored the pioneering &quot;Attention Is All You Need&quot; paper on LLMs at Google, plans to depart Google Japan later in July to launch a startup &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/230711/p33#a230711p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

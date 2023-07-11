@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Prime Day deal knocks $700 off the Galaxy Z Fold 4](https://www.androidauthority.com/samsung-prime-day-fold-4-3343583/)
+ - [28 Best Prime Day Deals Under $50 &lpar;2023&rpar;: iPhone Cases, Security Cameras](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023/)
  - [Motorola is offering steep discounts on its phones for Prime Day](https://www.androidauthority.com/motorola-phones-prime-day-deals-3344216/)
  - [Tumblr details the future of its platform, including to &quot;fix the core experience&quot; and make the site less intimidating, to better compete with larger rivals &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230711/p11#a230711p11)
- - [$50 off the OnePlus Buds Pro 2 for Prime Day is music to our ears](https://www.androidauthority.com/oneplus-prime-day-earbuds-3343658/)
- - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)
- - [12 Best Prime Day TV Deals &lpar;2023&rpar;: OLED TVs, Soundbars, Speakers](https://www.wired.com/story/best-amazon-prime-day-tv-deals-2023/)<!-- TECH:END -->
+ - [$50 off the OnePlus Buds Pro 2 for Prime Day is music to our ears](https://www.androidauthority.com/oneplus-prime-day-earbuds-3343658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

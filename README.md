@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [CORE Apple Store union negotiations hit a wall of Apple&#39;s design](https://appleinsider.com/articles/23/07/11/core-apple-store-union-negotiations-hit-a-wall-of-apples-design?utm_medium=rss)
- - [Every EV Available in 2023, Ranked by Range     - CNET](https://www.cnet.com/roadshow/news/every-ev-available-in-2023-ranked-by-range/#ftag=CAD590a51e)
  - [AirPods firmware gets second developer beta](https://appleinsider.com/articles/23/07/11/airpods-firmware-gets-second-developer-beta?utm_medium=rss)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)
- - [20 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023-1/)<!-- TECH:END -->
+ - [20 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023-1/)
+ - [Prime alert: The Soundcore Liberty Air 4 gets its biggest price drop yet](https://www.androidauthority.com/prime-day-anker-soundcore-liberty-air-4-3344429/)
+ - [18 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

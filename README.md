@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The massive fanfic archive AO3 is back after a wave of DDoS attacks](https://www.theverge.com/2023/7/11/23790860/ao3-fanfiction-archive-down-outage-ddos-attacks)
- - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [47 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-1/)
- - [Prime Day: Expand your Mac&#39;s capabilities with these Thunderbolt dock discounts](https://appleinsider.com/articles/23/07/11/prime-day-expand-your-macs-capabilities-with-these-thunderbolt-dock-discounts?utm_medium=rss)<!-- TECH:END -->
+ - [Meta-provided Facebook chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)
+ - [Netflix just made it easier to transfer your profile from your ex’s account to your new partner’s](https://www.theverge.com/2023/7/11/23791327/netflix-profile-transfer-new-account-password-sharing)
+ - [Meta is going to let you make video calls as your avatar](https://www.theverge.com/2023/7/11/23791334/meta-avatar-calling-animated-stickers)
+ - [These epic Roku deals start from just $19, and you don’t even need Prime](https://www.androidauthority.com/roku-prime-day-deals-3344402/)
+ - [23 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

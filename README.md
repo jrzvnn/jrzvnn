@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
- - 😝 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 💣 [What do you mean Todd](http://9gag.com/gag/aYVRMjm)
+ - 😝 [Red card...](http://9gag.com/gag/awZeLeW)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
- - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 </div>

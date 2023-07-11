@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Samsung improves image quality, fixes errors in Expert RAW update](https://www.androidauthority.com/samsung-expert-raw-image-quality-3344328/)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
  - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [US court denies FTC&#39;s bid for a preliminary injunction to stop Microsoft&#39;s Activision deal, saying the theories of harm FTC presented were unlikely to succeed &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230711/p27#a230711p27)
- - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)<!-- TECH:END -->
+ - [Poll: Is the Nothing Phone 2 hot or not?](https://www.androidauthority.com/nothing-phone-2-hot-or-not-poll-3343865/)
+ - [Nothing Phone 1 vs Nothing Phone 2: Is it worth upgrading?](https://www.androidauthority.com/nothing-phone-1-vs-nothing-phone-2-3343420/)
+ - [Nothing Phone 2’s Glyph lights are the opposite of a gimmick](https://www.androidauthority.com/nothing-phone-2-glyph-3343103/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

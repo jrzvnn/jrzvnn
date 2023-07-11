@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic.](http://9gag.com/gag/a4ownDv)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
  - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 😝 [A classic ride](http://9gag.com/gag/a6qGDYe)
- - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
+ - 😝 [Polak vs German citizen with a knife](http://9gag.com/gag/aVbRvMd)
+ - 👉 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you Sir Isaac Newton](http://9gag.com/gag/a8qV6PZ)
- - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 💣 [Angry football dad](http://9gag.com/gag/aVbRgGd)
- - 😝 [Satisfying](http://9gag.com/gag/aBd4dq1)
- - 👉 [Just Joaquin Phoenix](http://9gag.com/gag/aqeD8o7)<!-- MEMES:END -->
+ - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
+ - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
+ - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 </div>

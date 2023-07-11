@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods firmware gets second developer beta](https://appleinsider.com/articles/23/07/11/airpods-firmware-gets-second-developer-beta?utm_medium=rss)
+ - [20 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023-1/)
  - [Prime alert: The Soundcore Liberty Air 4 gets its biggest price drop yet](https://www.androidauthority.com/prime-day-anker-soundcore-liberty-air-4-3344429/)
  - [18 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [Is Windows 11 good for gaming in 2023?](https://www.androidauthority.com/is-windows-11-good-for-gaming-in-2023-3344369/)
- - [Studio Display firmware gets updated third developer beta](https://appleinsider.com/articles/23/07/11/studio-display-firmware-gets-updated-third-developer-beta?utm_medium=rss)
- - [Classic action game Karateka is being turned into a playable documentary](https://www.theverge.com/2023/7/11/23791568/karateka-playable-documentary-digital-eclipse-trailer)<!-- TECH:END -->
+ - [Is Windows 11 good for gaming in 2023?](https://www.androidauthority.com/is-windows-11-good-for-gaming-in-2023-3344369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

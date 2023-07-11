@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/aqeDRwj)
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 💣 [Grooming media so mad about a movie](http://9gag.com/gag/aNwjLxv)
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
+ - 😝 [Classic.](http://9gag.com/gag/a4ownDv)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 😝 [A classic ride](http://9gag.com/gag/a6qGDYe)
+ - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 ---
 </div>

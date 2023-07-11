@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [66 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023/)
+ - [Sony might be winning Prime Day with these record headphone deals](https://www.androidauthority.com/sony-prime-day-headphone-deals-3344135/)
  - [London-based Raft, which automates freight logistics, raised a $30M Series B led by Eight Roads, taking its total funding to $48M, to expand R&amp;D investment &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230711/p17#a230711p17)
- - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Apple&#39;s iPad 10th Generation, iPad mini drop to new record low prices for Amazon Prime Day](https://appleinsider.com/articles/23/07/11/apples-ipad-10th-generation-ipad-mini-drop-to-new-record-low-prices-for-amazon-prime-day?utm_medium=rss)
- - [Act fast deal: Get a 2022 Galaxy Tab A8 for almost 50% off, will sell out](https://www.androidauthority.com/samsung-tablet-prime-day-deal-2023-3343892/)
- - [Save over 40% on the Samsung Galaxy Watch 5 with this Prime Day deal!](https://www.androidauthority.com/samsung-galaxy-watch-5-amazon-prime-day-deal-3343821/)<!-- TECH:END -->
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
+ - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

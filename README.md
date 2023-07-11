@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixels starting at just $249! Grab these Prime Day deals now.](https://www.androidauthority.com/google-pixel-deals-amazon-prime-day-2023-3344211/)
  - [Shut up and take my money! Samsung’s best mid-range phone is now $100 off.](https://www.androidauthority.com/samsung-galaxy-a54-5g-amazon-prime-day-2023-deal-3343838/)
  - [18 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [Samsung’s new Galaxy S21 FE is here, and it’s pretty embarrassing](https://www.androidauthority.com/samsung-new-galaxy-s21-fe-launched-3342299/)
- - [23 Best Prime Day Deals on Amazon Devices &lpar;2023&rpar;: Kindles, Echo Speakers, and Fire Tablets](https://www.wired.com/story/best-amazon-device-deals-prime-day-2023/)
- - [Prime Day drops the Apple Watch Series 8 below $300 for the first time](https://www.androidauthority.com/prime-day-apple-watch-series-8-3343761/)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)
+ - [Samsung’s new Galaxy S21 FE is here, and it’s pretty embarrassing](https://www.androidauthority.com/samsung-new-galaxy-s21-fe-launched-3342299/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixels starting at just $249! Grab these Prime Day deals now.](https://www.androidauthority.com/google-pixel-deals-amazon-prime-day-2023-3344211/)
- - [Shut up and take my money! Samsung’s best mid-range phone is now $100 off.](https://www.androidauthority.com/samsung-galaxy-a54-5g-amazon-prime-day-2023-deal-3343838/)
- - [18 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)
- - [Samsung’s new Galaxy S21 FE is here, and it’s pretty embarrassing](https://www.androidauthority.com/samsung-new-galaxy-s21-fe-launched-3342299/)<!-- TECH:END -->
+ - [Sources: China plans to force companies to gain a license before releasing generative AI tools, tightening April&#39;s draft rules and seeking to control content &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230711/p8#a230711p8)
+ - [Amazon slashes Apple Watch to as low as $199 for Prime Day 2023](https://appleinsider.com/articles/23/07/11/amazon-slashes-apple-watch-to-as-low-as-199-for-prime-day-2023?utm_medium=rss)
+ - [70 Absolute Best Prime Day Deals 2023: Amazon Devices, Laptops, and Robot Vacuums](https://www.wired.com/story/best-prime-day-deals-2023/)
+ - [Google Pixels starting at just $249! Hurry and grab these Prime Day deals now.](https://www.androidauthority.com/google-pixel-deals-amazon-prime-day-2023-3344211/)
+ - [Shut up and take my money! Samsung’s best mid-range phone is now $100 off.](https://www.androidauthority.com/samsung-galaxy-a54-5g-amazon-prime-day-2023-deal-3343838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

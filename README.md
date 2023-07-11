@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 💣 [Pickpocket](http://9gag.com/gag/awZe1Q1)
+ - 😝 [Lol](http://9gag.com/gag/aqeDRwj)
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 💣 [Grooming media so mad about a movie](http://9gag.com/gag/aNwjLxv)
  - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 👉 [Tell me a Joke.](http://9gag.com/gag/axomv7b)<!-- MEMES:END -->
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 </div>

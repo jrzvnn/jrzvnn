@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US approves Microsoft’s Activision Blizzard deal, UK agrees to renegotiate](https://www.androidauthority.com/microsoft-activision-blizzard-ruling-3344362/)
- - [Read Xbox chief Phil Spencer’s memo to Microsoft employees about the FTC win](https://www.theverge.com/2023/7/11/23791355/microsoft-xbox-chief-phil-spencer-ftc-activision-blizzard-internal-memo)
- - [The see-through Beats Studio Buds Plus just received their first discount](https://www.theverge.com/2023/7/11/23790390/amazon-prime-day-beats-studio-buds-plus-wireless-earbuds-2023-deal-sale)
- - [US DOJ arrests a security engineer on wire fraud and money laundering charges, saying he &quot;fraudulently obtained&quot; $9M through a DEX by creating fake pricing data &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230711/p36#a230711p36)
- - [The Ahsoka series’ latest trailer is one big, rebellious reunion](https://www.theverge.com/23791246/ahsoka-trailer-rebels-sabine-hera-ezra-thrawn)<!-- TECH:END -->
+ - [The massive fanfic archive AO3 is back after a wave of DDoS attacks](https://www.theverge.com/2023/7/11/23790860/ao3-fanfiction-archive-down-outage-ddos-attacks)
+ - [A brief history of Elon Musk sabotaging Matt Levine’s time off](https://www.theverge.com/2022/10/28/23427137/elon-musk-twitter-matt-levine-money-stuff)
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [47 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-1/)
+ - [Prime Day: Expand your Mac&#39;s capabilities with these Thunderbolt dock discounts](https://appleinsider.com/articles/23/07/11/prime-day-expand-your-macs-capabilities-with-these-thunderbolt-dock-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

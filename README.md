@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red card...](http://9gag.com/gag/awZeLeW)
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 😝 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
+ - 😝 [Let\u2019s encourage those athletes in summer sports](http://9gag.com/gag/arm8XD6)
+ - 💣 [Role-playing when you are over 30:&rpar;](http://9gag.com/gag/aeQRVLB)
  - 😝 [\ud83c\udfae FREE Gamescom tickets for influencers! 9GAG is recruiting micro-influencers to be our Booth Ambassadors at #Gamescom2023 this year!](http://9gag.com/gag/a8qVD2O)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 👉 [I love it here.](http://9gag.com/gag/aL1WGM6)<!-- MEMES:END -->
 
 ---
 </div>

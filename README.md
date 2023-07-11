@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 😝 [She was 16 and he was 17.](http://9gag.com/gag/amARoEo)
- - 💣 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
+ - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
+ - 💣 [31-year-old dad with two full-time jobs and limited practice beats pro Tekken god](http://9gag.com/gag/aDYQnDw)
+ - 😝 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
+ - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
 
 ---
 </div>

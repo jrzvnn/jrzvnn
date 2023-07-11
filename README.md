@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Near Haridwar,India](http://9gag.com/gag/aoKn3r2)
- - 😝 [Good parenting or bad parenting?](http://9gag.com/gag/aXnRLZ9)
- - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
- - 😝 [Let\u2019s encourage those athletes in summer sports](http://9gag.com/gag/arm8XD6)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
+ - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
+ - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 👉 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
  - 😝 [This is sensitive](http://9gag.com/gag/aDYQZy7)
- - 😝 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 💣 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
- - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
+ - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 👉 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)<!-- MEMES:END -->
 
 ---
 </div>

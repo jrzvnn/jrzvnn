@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)
- - [Can banks push Bitcoin to clean up its act?](https://www.theverge.com/2023/7/11/23778688/bitcoin-energy-emissions-climate-change-banks-asset-managers-greenpeace)
- - [Prime Day deals: MacBooks from $740, $549 M2 Mac mini, Dyson up to 36% off, more](https://appleinsider.com/articles/23/07/11/prime-day-deals-macbooks-from-740-549-m2-mac-mini-dyson-up-to-36-off-more?utm_medium=rss)
- - [Global PC shipments declined 13.4% YoY to 61.6M in Q2 2023, the sixth consecutive quarter of decline; only Apple had positive growth, up 10.3% YoY to 5.3M units &lpar;Michael Shirer/IDC&rpar;](http://www.techmeme.com/230711/p23#a230711p23)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
+ - [How to change the battery on an AirTag](https://appleinsider.com/articles/21/05/03/how-to-change-the-battery-in-airtag?utm_medium=rss)
+ - [Shutterstock announces an expanded, six-year partnership with OpenAI that grants access to its video, image, and music libraries for AI training; SSTK jumps 9%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230711/p25#a230711p25)
+ - [Amazon’s latest Kindle is on sale for just $65](https://www.theverge.com/2023/7/11/23790311/amazon-kindle-prime-day-2023-deal-sale-paperwhite-ereader)
+ - [A Nebraska woman pleads guilty to giving an abortion pill to her teen daughter after Meta complied with a warrant for messages between mother and daughter &lpar;Susan Rinkunas/Jezebel&rpar;](http://www.techmeme.com/230711/p24#a230711p24)
+ - [Prime deal alert: Solve your storage woes with up to 68% off SanDisk devices](https://www.androidauthority.com/prime-day-sandisk-deals-3344194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

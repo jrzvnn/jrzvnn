@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - 💣 [No pun intended](http://9gag.com/gag/ay2v658)
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 👉 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)<!-- MEMES:END -->
+ - 😝 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
+ - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 💣 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 😝 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)
+ - 👉 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)<!-- MEMES:END -->
 
 ---
 </div>

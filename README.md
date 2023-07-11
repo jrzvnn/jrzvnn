@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally! Rape-nope nail varnish.](http://9gag.com/gag/agoK8pg)
- - 😝 [Rest in Peace, HERO.](http://9gag.com/gag/axomRjn)
- - 💣 [A working printer certainly seems far-fetched](http://9gag.com/gag/aQEym1W)
- - 😝 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
- - 👉 [How to survive an armed robbery](http://9gag.com/gag/aXnR726)<!-- MEMES:END -->
+ - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 👉 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)<!-- MEMES:END -->
 
 ---
 </div>

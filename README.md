@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - 😝 [&#39;coz &#39;Muricaaa](http://9gag.com/gag/a3ZNZpQ)
- - 💣 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 😝 [Pro tip](http://9gag.com/gag/aMEqVYx)
+ - 😝 [Men are such simple creatures](http://9gag.com/gag/aEqZVB9)
+ - 😝 [You know you&#39;re fat when...](http://9gag.com/gag/aGE78v0)
+ - 💣 [Satisfying](http://9gag.com/gag/aBd4dq1)
+ - 😝 [Angry football dad](http://9gag.com/gag/aVbRgGd)
  - 👉 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)<!-- MEMES:END -->
 
 ---

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Savvy, which helps secure SaaS apps from supply chain risks, data leaks via AI tools, and more, launches out of stealth with $30M in funding led by Canaan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p26#a230711p26)
- - [Elgato’s Stream Deck MK.2 has hit an all-time low of $109.99 for Prime Day](https://www.theverge.com/2023/7/11/23790481/amazon-prime-day-elgato-stream-deck-macropad-gaming-streaming-deal-sale)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
- - [15 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023/)
- - [How to change the battery on an AirTag](https://appleinsider.com/articles/21/05/03/how-to-change-the-battery-in-airtag?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung improves image quality, fixes errors in Expert RAW update](https://www.androidauthority.com/samsung-expert-raw-image-quality-3344328/)
+ - [US court denies FTC&#39;s bid for a preliminary injunction to stop Microsoft&#39;s Activision deal, saying the theories of harm FTC presented were unlikely to succeed &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230711/p27#a230711p27)
+ - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
+ - [How to Use Discord’s Family Center With Your Teens](https://www.wired.com/story/how-to-use-discord-family-center-child-safety/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

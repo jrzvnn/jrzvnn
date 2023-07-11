@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Flexport&#39;s former CEO Ryan Petersen is joining Founders Fund as a partner; Petersen will continue to serve as Flexport&#39;s executive chairman &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230710/p18#a230710p18)
- - [Best Buy&#39;s Black Friday in July Deals Start Today. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
- - [Snap rolls out integration with Linktree, allowing users to show links on Snapchat; Snap previously only allowed brands and Star creators to include links &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230710/p17#a230710p17)
- - [Google loses a Senior Director due to &#39;unstable commitment&#39; in AR](https://appleinsider.com/articles/23/07/10/google-loses-a-senior-director-due-to-unstable-commitment-in-ar?utm_medium=rss)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Deals on Laptops Available Right Now     - CNET](https://www.cnet.com/deals/best-early-prime-day-deals-on-laptops/#ftag=CAD590a51e)
+ - [4K TV Deals for Prime Day 2023: Save on Samsung, LG, TCL and Fire TV     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [Amazon Prime Day Expands to Travel Deals     - CNET](https://www.cnet.com/tech/amazon-prime-day-expands-to-travel-deals/#ftag=CAD590a51e)
+ - [Best Buy&#39;s Black Friday in July Deals Start Today. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

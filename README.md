@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
+ - 😝 [Finally! Rape-nope nail varnish.](http://9gag.com/gag/agoK8pg)
+ - 😝 [Rest in Peace, HERO.](http://9gag.com/gag/axomRjn)
+ - 💣 [A working printer certainly seems far-fetched](http://9gag.com/gag/aQEym1W)
+ - 😝 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
+ - 👉 [How to survive an armed robbery](http://9gag.com/gag/aXnR726)<!-- MEMES:END -->
 
 ---
 </div>

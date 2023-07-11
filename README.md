@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [Poll: Is the Nothing Phone 2 hot or not?](https://www.androidauthority.com/nothing-phone-2-hot-or-not-poll-3343865/)
- - [Nothing Phone 1 vs Nothing Phone 2: Is it worth upgrading?](https://www.androidauthority.com/nothing-phone-1-vs-nothing-phone-2-3343420/)
- - [Nothing Phone 2’s Glyph lights are the opposite of a gimmick](https://www.androidauthority.com/nothing-phone-2-glyph-3343103/)<!-- TECH:END -->
+ - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
+ - [Nothing plans to launch the Phone &lpar;2&rpar; for $599+ in the US, Europe, and the UK on July 17; the device&#39;s rear &quot;glyph&quot; lights have been segmented into zones &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/230711/p29#a230711p29)
+ - [Jabra’s Prime Day deals are all killer no filler](https://www.androidauthority.com/jabra-prime-day-deals-3344335/)
+ - [Hacks using flaws in Progress&#39;s MOVEit tool have hit hundreds of organizations, now including TomTom, Radisson hotels, and real estate giant Jones Lang LaSalle &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230711/p28#a230711p28)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

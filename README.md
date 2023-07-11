@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Bangladesh&#39;s Computer Incident Response Team took down citizens&#39; sensitive data exposed through a government site and says it &quot;promptly&quot; addressed the breach &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230710/p21#a230710p21)
  - [PE firm TPG agrees to buy the government cybersecurity business of Francisco Partners-owned Forcepoint for $2.45B in a deal expected to close in Q4 2023 &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230710/p20#a230710p20)
+ - [Best Buy&#39;s Black Friday in July Sale Has Started. Here&#39;s What&#39;s Available Now     - CNET](https://www.cnet.com/deals/best-buy-black-friday-in-july-deals/#ftag=CAD590a51e)
  - [LG Rolls Out Hundreds in Savings On Its Cutting-Edge OLED TVs     - CNET](https://www.cnet.com/deals/lg-rolls-out-hundreds-in-savings-on-its-cutting-edge-oled-tvs/#ftag=CAD590a51e)
- - [A look at &quot;lazy management&quot;, an alternative explanation to the claim that some tech employees drag down companies by raking in big paychecks and working little &lpar;Insider&rpar;](http://www.techmeme.com/230710/p19#a230710p19)
- - [11 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023/)<!-- TECH:END -->
+ - [A look at &quot;lazy management&quot;, an alternative explanation to the claim that some tech employees drag down companies by raking in big paychecks and working little &lpar;Insider&rpar;](http://www.techmeme.com/230710/p19#a230710p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

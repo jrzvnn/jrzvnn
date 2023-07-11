@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Savvy, which helps secure SaaS apps from supply chain risks, data leaks via AI tools, and more, launches out of stealth with $30M in funding led by Canaan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p26#a230711p26)
  - [Elgato’s Stream Deck MK.2 has hit an all-time low of $109.99 for Prime Day](https://www.theverge.com/2023/7/11/23790481/amazon-prime-day-elgato-stream-deck-macropad-gaming-streaming-deal-sale)
  - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
  - [15 Best Walmart Plus Week Deals &lpar;2023&rpar;: TVs, Soundbars, and Google Devices](https://www.wired.com/story/best-walmart-plus-week-deals-2023/)
- - [How to change the battery on an AirTag](https://appleinsider.com/articles/21/05/03/how-to-change-the-battery-in-airtag?utm_medium=rss)
- - [Shutterstock announces an expanded, six-year partnership with OpenAI that grants access to its video, image, and music libraries for AI training; SSTK jumps 9%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230711/p25#a230711p25)<!-- TECH:END -->
+ - [How to change the battery on an AirTag](https://appleinsider.com/articles/21/05/03/how-to-change-the-battery-in-airtag?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

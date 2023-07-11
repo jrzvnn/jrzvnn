@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do you recover from this\u2026](http://9gag.com/gag/agoKQPq)
- - 😝 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 💣 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - 😝 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
- - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
+ - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
 
 ---
 </div>

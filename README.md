@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens become hypnotized when a line is drawn in front of them.](http://9gag.com/gag/avQ9W4E)
- - 😝 [This is sensitive](http://9gag.com/gag/aDYQZy7)
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 😝 [Tell me a Joke.](http://9gag.com/gag/axomv7b)
  - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 👉 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)<!-- MEMES:END -->
+ - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
+ - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
 
 ---
 </div>

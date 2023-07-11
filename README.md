@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla settles class action lawsuit on Solar Roof price increase](https://www.theverge.com/2023/7/11/23791301/tesla-energy-solar-roof-price-class-action-lawsuit-settlement)
  - [India&#39;s Goods and Services Tax Council agrees to levy a 28% indirect tax on online gaming, casinos, and horse racing, rejecting that they are &quot;games of skill&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/230711/p39#a230711p39)
  - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)
  - [36 Best Prime Day Gaming Deals &lpar;2023&rpar;: Games, Xbox Series S, Keyboards, and More](https://www.wired.com/story/best-amazon-prime-day-game-deals-2023-1/)
- - [The 19 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)<!-- TECH:END -->
+ - [The 19 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

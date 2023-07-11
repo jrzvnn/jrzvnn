@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Lucovsky, former head of OS on Google&#39;s AR team, leaves, saying leadership changes and &quot;unstable commitment and vision&quot; weighed heavily on his decision &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230711/p7#a230711p7)
- - [Sources: Tata Group is close to an agreement to acquire Wistron&#39;s iPhone plant near Bengaluru as soon as August; the deal is potentially valued at $600M+ &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230711/p6#a230711p6)
- - [Personal data of potentially tens of millions of HCA Healthcare patients was stolen from an &quot;external storage location&quot; and is for sale on a data breach forum &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230711/p5#a230711p5)
- - [Sources: Uber CFO Nelson Chai plans to step down, the company&#39;s most significant executive exit since its 2019 IPO, but a decision on timing hasn&#39;t been made &lpar;Bloomberg&rpar;](http://www.techmeme.com/230711/p4#a230711p4)
- - [A look at EV ride-hailing company BluSmart, which operates ~4,500 cabs in New Delhi and Bengaluru, and has raised $120M+ in equity and debt from BP and others &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230711/p3#a230711p3)<!-- TECH:END -->
+ - [The best deals of Amazon Prime Day 2023](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)
+ - [Prime Day: The best ANC headphones just got a whole lot cheaper](https://www.androidauthority.com/sony-wh-1000xm5-headphones-prime-day-deal-3343771/)
+ - [Apple AirPods fall to $89.99 for Amazon Prime Day 2023](https://appleinsider.com/articles/23/07/11/apple-airpods-fall-to-8999-for-amazon-prime-day-2023?utm_medium=rss)
+ - [Need new AirPods? These Amazon Prime Day deals will save you up to 31%](https://www.androidauthority.com/airpods-amazon-prime-3343462/)
+ - [Samsung Galaxy S23 at $599 is the best Amazon Prime Day deal to get!](https://www.androidauthority.com/samsung-galaxy-s23-series-amazon-prime-day-sale-2023-3343809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

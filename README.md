@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy Tab S8 Plus just dropped by $400 for Prime members](https://www.androidauthority.com/samsung-galaxy-tablets-prime-day-3344104/)
+ - [Anthropic releases AI chatbot Claude 2, available in the US and the UK via claude.ai and an API for businesses; Anthropic raised $1B+, including $450M in May &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230711/p22#a230711p22)
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
  - [Anthropic’s ‘friendly’ AI chatbot, Claude, is now available for more people to try](https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta)
- - [Long-delayed Apple TV+ supermodels documentary to stream in September](https://appleinsider.com/articles/23/07/11/long-delayed-apple-tv-supermodels-documentary-to-stream-in-september?utm_medium=rss)
- - [LLNL begins installing its El Capitan supercomputer for national security research, promising over 2 FP64 exaFLOPS, and plans the smaller Tuolumne supercomputer &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230711/p21#a230711p21)
- - [Razer storms into Prime Day with over $1,000 off gaming gear](https://www.androidauthority.com/razer-prime-day-2023-3344053/)
- - [Amazon Prime Day 2023: the best deals and latest news](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)<!-- TECH:END -->
+ - [Long-delayed Apple TV+ supermodels documentary to stream in September](https://appleinsider.com/articles/23/07/11/long-delayed-apple-tv-supermodels-documentary-to-stream-in-september?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

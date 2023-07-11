@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US approves Microsoft’s Activision Blizzard deal, UK agrees to renegotiate](https://www.androidauthority.com/microsoft-activision-blizzard-ruling-3344362/)
+ - [Read Xbox chief Phil Spencer’s memo to Microsoft employees about the FTC win](https://www.theverge.com/2023/7/11/23791355/microsoft-xbox-chief-phil-spencer-ftc-activision-blizzard-internal-memo)
  - [The see-through Beats Studio Buds Plus just received their first discount](https://www.theverge.com/2023/7/11/23790390/amazon-prime-day-beats-studio-buds-plus-wireless-earbuds-2023-deal-sale)
  - [US DOJ arrests a security engineer on wire fraud and money laundering charges, saying he &quot;fraudulently obtained&quot; $9M through a DEX by creating fake pricing data &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230711/p36#a230711p36)
- - [The Ahsoka series’ latest trailer is one big, rebellious reunion](https://www.theverge.com/23791246/ahsoka-trailer-rebels-sabine-hera-ezra-thrawn)
- - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [Apple issues update to third tvOS 17 developer beta for testing](https://appleinsider.com/articles/23/07/11/apple-issues-update-to-third-tvos-17-developer-beta-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [The Ahsoka series’ latest trailer is one big, rebellious reunion](https://www.theverge.com/23791246/ahsoka-trailer-rebels-sabine-hera-ezra-thrawn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

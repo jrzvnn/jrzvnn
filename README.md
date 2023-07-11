@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Popular AO3 fanfiction site goes down in wave of DDoS attacks](https://www.theverge.com/2023/7/11/23790860/ao3-fanfiction-archive-down-outage-ddos-attacks)
- - [Today only: Apple iPads plunge below $250 for Prime Day](https://www.androidauthority.com/apple-ipads-prime-day-3343656/)
- - [To mitigate AI risks, companies should be transparent about their systems, collaborate with the industry, stress test, and share details about their progress &lpar;Nick Clegg/Financial Times&rpar;](http://www.techmeme.com/230711/p13#a230711p13)
- - [26 Best Prime Day Laptop and Home Office Deals &lpar;2023&rpar;: Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023/)
- - [Source: Instagram plans to add branded content tools to Threads, offering marketers paid promotion; Threads won&#39;t introduce ads before reaching a critical mass &lpar;Axios&rpar;](http://www.techmeme.com/230711/p12#a230711p12)<!-- TECH:END -->
+ - [Prime Day finally knocks 40% off this top HyperX gaming headset](https://www.androidauthority.com/hyperx-prime-day-3343630/)
+ - [Apple Vision Pro needs custom-designed high-speed DRAM](https://appleinsider.com/articles/23/07/11/apple-vision-pro-needs-custom-designed-high-speed-dram?utm_medium=rss)
+ - [A look at Meta&#39;s survey of 6,000 people in 32 countries about the metaverse, using a kind of deliberative democracy, and plans for a similar generative AI study &lpar;Aviv Ovadya/Wired&rpar;](http://www.techmeme.com/230711/p14#a230711p14)
+ - [The Fitbit Charge 5 and Versa 4 get healthy price cuts for Prime Day](https://www.androidauthority.com/fitbit-charge-5-versa-4-prime-day-deals-3343843/)
+ - [8 Best Prime Day Deals on Coffee Gear and Espresso Machines &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-coffee-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

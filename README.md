@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 beta 4 is here, likely the final beta before the stable launch](https://www.androidauthority.com/android-14-beta-4-3344376/)
- - [Intel confirms plans to halt investment in its Next Unit of Compute &lpar;NUC&rpar; line of products, primarily known for small form factor PCs &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/230711/p35#a230711p35)
- - [82 Absolute Best Prime Day Deals &lpar;2023&rpar;: Amazon Devices, Laptops, Robot Vacuums](https://www.wired.com/story/best-prime-day-deals-2023-1/)
- - [Record-low price on the Scribe headlines the Prime Day Kindle deals](https://www.androidauthority.com/prime-day-kindle-deals-3344360/)
- - [Discord finally debuts parental supervision tools after feedback from parents and experts; parents can&#39;t see message contents, cannot add time limits, and more &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230711/p34#a230711p34)<!-- TECH:END -->
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Microsoft victorious over FTC lawsuit to block Activision Blizzard buy](https://appleinsider.com/articles/23/07/11/microsoft-victorious-over-ftc-lawsuit-to-block-activision-blizzard-buy?utm_medium=rss)
+ - [Android 14 beta 4 is here, likely the final beta before the stable launch](https://www.androidauthority.com/android-14-beta-4-3344376/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

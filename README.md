@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Prime Day TV Deals &lpar;2023&rpar;: OLED TVs, Soundbars, Speakers](https://www.wired.com/story/best-amazon-prime-day-tv-deals-2023/)
- - [WeChat says Apple has opened a store on the platform, letting users buy iPhones, iPads, and Macs; Apple already operates a store on Alibaba&#39;s Tmall &lpar;Reuters&rpar;](http://www.techmeme.com/230711/p10#a230711p10)
- - [36 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-live/#ftag=CAD590a51e)
- - [An interview with Google DeepMind CEO Demis Hassabis on DeepMind restructuring, building and timeline for AGI, AI risks and regulations, Google Bard, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230711/p9#a230711p9)<!-- TECH:END -->
+ - [Motorola is offering steep discounts on its phones for Prime Day](https://www.androidauthority.com/motorola-phones-prime-day-deals-3344216/)
+ - [Tumblr details the future of its platform, including to &quot;fix the core experience&quot; and make the site less intimidating, to better compete with larger rivals &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230711/p11#a230711p11)
+ - [$50 off the OnePlus Buds Pro 2 for Prime Day is music to our ears](https://www.androidauthority.com/oneplus-prime-day-earbuds-3343658/)
+ - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)
+ - [12 Best Prime Day TV Deals &lpar;2023&rpar;: OLED TVs, Soundbars, Speakers](https://www.wired.com/story/best-amazon-prime-day-tv-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

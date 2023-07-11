@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [Bear 2 is a terrific notes app — and it only took forever to build](https://www.theverge.com/23786996/bear-2-notes-app-iphone-ipad-mac)
- - [Everything in The Verge merch store is on sale](https://www.theverge.com/23786140/verge-merch-store-prime-day-sale-code-2023)
- - [Amazon Prime Day 2023: the latest news, deals, and coverage](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)<!-- TECH:END -->
+ - [Long-delayed Apple TV+ supermodels documentary to stream in September](https://appleinsider.com/articles/23/07/11/long-delayed-apple-tv-supermodels-documentary-to-stream-in-september?utm_medium=rss)
+ - [LLNL begins installing its El Capitan supercomputer for national security research, promising over 2 FP64 exaFLOPS, and plans the smaller Tuolumne supercomputer &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230711/p21#a230711p21)
+ - [Razer storms into Prime Day with over $1,000 off gaming gear](https://www.androidauthority.com/razer-prime-day-2023-3344053/)
+ - [Amazon Prime Day 2023: the best deals and latest news](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

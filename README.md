@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
- - [Ransomware Attacks Are on the Rise, Again](https://www.wired.com/story/ransomware-attacks-rise-2023/)
- - [Google hands over its tool for estimating flight emissions to an independent advisory group](https://www.theverge.com/2023/7/12/23791508/google-travel-impact-model-advisory-panel-flight-emissions)
- - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-12-2023-3343953/)
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
+ - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
+ - [Adobe says Firefly has now generated over 1B assets on the web and in Photoshop and rolls out the web app globally with support for prompts in 100 languages &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230712/p22#a230712p22)
+ - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

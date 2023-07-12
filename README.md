@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get a free $30 gift card with a Costco membership](https://appleinsider.com/articles/22/12/10/deals-get-a-free-30-gift-card-with-a-costco-membership?utm_medium=rss)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [Apple TV+ gains 51 Emmy awards, led once more by &#39;Ted Lasso&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-gains-51-emmy-awards-led-once-more-by-ted-lasso?utm_medium=rss)
- - [Exclusive: VanMoof explores sale under court protection because it can’t pay bills](https://www.theverge.com/2023/7/12/23792143/vanmoof-e-bike-payment-suspension-bankruptcy-sale)
- - [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://www.theverge.com/2023/7/12/23792553/elon-musk-xai-artificial-intelligence-company)<!-- TECH:END -->
+ - [Lightning deal: 3 hours left to save $550 on the Samsung Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-lightning-deal-3344820/)
+ - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
+ - [Apple expands test driver team for its &#39;Apple Car&#39; autonomous vehicle project](https://appleinsider.com/articles/23/07/12/apple-expands-test-driver-team-for-its-apple-car-autonomous-vehicle-project?utm_medium=rss)
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours/)
+ - [Roblox is coming to Meta’s Quest VR headsets](https://www.theverge.com/2023/7/12/23792594/roblox-meta-quest-2-3-pro-vr-headsets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - 😝 [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
- - 💣 [Goodbye](http://9gag.com/gag/a1POEvG)
+ - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
  - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
  - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---

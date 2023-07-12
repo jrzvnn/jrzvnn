@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC appeals court decision permitting Microsoft to buy Activision Blizzard](https://www.theverge.com/2023/7/12/23791274/ftc-microsoft-activision-blizzard-appeal)
  - [29 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
  - [The best Amazon Prime Day deals you can still get](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
  - [Apple&#39;s Lisa Jackson talks racial equity and climate in new interview](https://appleinsider.com/articles/23/07/12/apples-lisa-jackson-talks-racial-equity-and-climate-in-new-interview?utm_medium=rss)
- - [57 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-2/)
- - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)<!-- TECH:END -->
+ - [57 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

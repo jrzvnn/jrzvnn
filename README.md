@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hongo 2K 16-inch portable monitor review: screen real estate on the cheap](https://appleinsider.com/articles/23/07/12/hongo-2k-16-inch-portable-monitor-review-screen-real-estate-on-the-cheap?utm_medium=rss)
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
  - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)
  - [Bob Iger is sticking around Disney longer than he said he would](https://www.theverge.com/2023/7/12/23793027/disney-ceo-bob-iger-contract-2026)
- - [Here’s a reminder to make your Venmo transactions private, courtesy of Clarence Thomas](https://www.theverge.com/2023/7/12/23792922/venmo-transactions-privacy-security-risks-clarence-thomas)
- - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)<!-- TECH:END -->
+ - [USA vs. Panama Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-panama-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

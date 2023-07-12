@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sound, which helps artists mint their songs as NFTs, raised a $20M Series A led by a16z with Snoop Dogg and others participating and launches out of beta &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230712/p25#a230712p25)
- - [Disney Plus will start streaming Cinderella in 4K in August](https://www.theverge.com/2023/7/12/23792312/disney-plus-restored-cinderella-4k)
- - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
- - [HONOR Magic V2 Ultimate hands on: The foldable thinner than a ballpoint pen](https://www.androidauthority.com/honor-magic-v2-ultimate-hands-on-impressions-3344674/)
- - [FTC v. Microsoft: all the news from the big Xbox courtroom battle](https://www.theverge.com/23768244/ftc-microsoft-activision-blizzard-case-news-announcements)<!-- TECH:END -->
+ - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
+ - [How Apple&#39;s Game Mode in macOS Sonoma works](https://appleinsider.com/inside/macos-sonoma/tips/how-apples-game-mode-in-macos-sonoma-works?utm_medium=rss)
+ - [Banking and insurance startup Papara became Turkey&#39;s first fintech unicorn after its Beka Finance deal; startups.watch: Turkish startups raised $111M in H1 2023 &lpar;Ercan Ersoy/Bloomberg&rpar;](http://www.techmeme.com/230712/p26#a230712p26)
+ - [19 Best Prime Day TV and Soundbar Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

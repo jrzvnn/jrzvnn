@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [27 Best Prime Day Deals on Amazon Devices &lpar;2023&rpar;: Kindles, Echo Speakers, and Fire Tablets](https://www.wired.com/story/best-amazon-device-deals-prime-day-2023-1/)
+ - [The European Securities and Markets Authority issues detailed proposals on crypto companies under the EU&#39;s MiCA law; more are expected in October and early 2024 &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230712/p15#a230712p15)
  - [The EU approves Broadcom&#39;s $61B VMware deal, provided Broadcom adheres to its access and interoperability commitments; UK and US approval is still pending &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230712/p14#a230712p14)
  - [99 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-2/)
- - [To Understand the Human Brain, Give an Octopus MDMA](https://www.wired.com/story/have-a-nice-future-podcast-13/)
- - [The Problem With Sunscreen Isn’t Its Ingredients—It’s You](https://www.wired.com/story/sunscreen-safety-ingredients/)
- - [&#39;Mission: Impossible—Dead Reckoning&#39; Is the Perfect AI Panic Movie](https://www.wired.com/story/mission-impossible-dead-reckoning-is-the-perfect-ai-panic-movie/)<!-- TECH:END -->
+ - [To Understand the Human Brain, Give an Octopus MDMA](https://www.wired.com/story/have-a-nice-future-podcast-13/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

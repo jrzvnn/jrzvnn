@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you always lying](http://9gag.com/gag/a7qn9mq)
- - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
- - 👉 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)<!-- MEMES:END -->
+ - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 😝 [End of racism ..... Wait what...](http://9gag.com/gag/arm8BE5)
+ - 💣 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
+ - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
+ - 👉 [Darker than black hole](http://9gag.com/gag/aNwjRNr)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Deals From Best Buy&#39;s &#39;Black Friday in July&#39; Sale &lpar;2023&rpar;: TVs, Laptops, and More](https://www.wired.com/story/best-buy-black-friday-in-july-deals-2023-2/)
- - [Google’s AI-powered notes app is now called NotebookLM, and it’s launching today](https://www.theverge.com/2023/7/12/23792382/google-notebooklm-tailwind-ai-notes)
- - [This cute retro handheld comes in Capcom and Taito flavors](https://www.theverge.com/2023/7/12/23792463/super-pocket-retro-handheld-games-price-date)
- - [Xbox will now let you clip and report audio to clean up Call of Duty lobbies](https://www.theverge.com/2023/7/12/23792338/xbox-voice-chat-moderation-trust-and-safety-interview)
- - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)<!-- TECH:END -->
+ - [The Best Prime Day Deals on My Favorite Office Chairs](https://www.wired.com/story/best-amazon-prime-day-office-chair-deals-2023/)
+ - [Corsair slashes up to $500 off gaming gear in huge Prime Day sale](https://www.androidauthority.com/corsair-prime-day-sale-3344764/)
+ - [Prime Day monitor deals: Save up to $500 &amp; view more content with your Mac](https://appleinsider.com/articles/23/07/12/prime-day-monitor-deals-save-up-to-500-view-more-content-with-your-mac?utm_medium=rss)
+ - [Apple TV+ gains 51 Emmy awards, led once more by &#39;Ted Lasso&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-gains-51-emmy-awards-led-once-more-by-ted-lasso?utm_medium=rss)
+ - [Elon Musk’s new xAI company launches to ‘understand the true nature of the universe’](https://www.theverge.com/2023/7/12/23792553/elon-musk-xai-artificial-intelligence-company)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Democratic report finds popular tax filing tools inappropriately and &quot;recklessly&quot; transmitted data to Meta and Google for years; tax data is tightly regulated &lpar;Colin Lecher/The Markup&rpar;](http://www.techmeme.com/230712/p16#a230712p16)
- - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [27 Best Prime Day Deals on Amazon Devices &lpar;2023&rpar;: Kindles, Echo Speakers, and Fire Tablets](https://www.wired.com/story/best-amazon-device-deals-prime-day-2023-1/)
- - [The European Securities and Markets Authority issues detailed proposals on crypto companies under the EU&#39;s MiCA law; more are expected in October and early 2024 &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230712/p15#a230712p15)
- - [The EU approves Broadcom&#39;s $61B VMware deal, provided Broadcom adheres to its access and interoperability commitments; UK and US approval is still pending &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230712/p14#a230712p14)<!-- TECH:END -->
+ - [The UK CMA says it will not accept new remedies from Microsoft over Activision but would consider a restructured deal, which may require a fresh investigation &lpar;Reuters&rpar;](http://www.techmeme.com/230712/p19#a230712p19)
+ - [Delivery app holdout Domino’s will list its pizzas on Uber Eats in the US](https://www.theverge.com/2023/7/12/23792248/dominos-uber-eats-us-delivery-app-listing)
+ - [We asked, you told us: Here’s how much RAM your phones have](https://www.androidauthority.com/how-much-ram-phone-poll-results-3344660/)
+ - [Microsoft’s Activision deal could face ‘new merger investigation,’ UK regulator warns](https://www.theverge.com/2023/7/12/23792245/uk-cma-microsoft-activision-blizzard-deal-negotiations)
+ - [iPad Air vs reMarkable 2 vs Boox Tab Ultra compared: Which is the best productivity tablet?](https://appleinsider.com/inside/ipad-air-5/vs/ipad-air-vs-remarkable-2-vs-boox-tab-ultra-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts: the FTC faces hurdles to appeal the Activision ruling as the facts work in Microsoft&#39;s favor; some question the judge&#39;s standard on harming competition &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230712/p10#a230712p10)
  - [A look at Wikipedia in Russia after the Ukraine invasion, where the service remains popular, and Kremlin-compliant upstart Ruwiki, led by a long-service editor &lpar;Noam Cohen/Bloomberg&rpar;](http://www.techmeme.com/230712/p9#a230712p9)
  - [118+ Best Prime Day Deals on Gear WIRED Loves &lpar;Day 2&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
  - [Xiaomi Pad 6 review: Should you buy it?](https://www.androidauthority.com/xiaomi-pad-6-review-3341580/)
- - [Democrats call on DOJ to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
- - [Nothing Phone 2 durability test shows you only have some things to fear](https://www.androidauthority.com/nothing-phone-2-durability-test-3344553/)<!-- TECH:END -->
+ - [Democrats call on DOJ to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

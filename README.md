@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Why you always lying](http://9gag.com/gag/a7qn9mq)
+ - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
  - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 👉 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)<!-- MEMES:END -->
 
 ---
 </div>

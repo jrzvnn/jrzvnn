@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 😝 [We\u2019ll they find out](http://9gag.com/gag/a4owz4w)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 😝 [Tell me a Joke.](http://9gag.com/gag/axomv7b)
  - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
- - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
+ - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
 
 ---
 </div>

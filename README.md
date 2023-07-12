@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
- - 😝 [True](http://9gag.com/gag/aWGRbv2)
- - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
- - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
- - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
+ - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 😝 [Cooking food is my passion..](http://9gag.com/gag/awZemYQ)
+ - 👉 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)<!-- MEMES:END -->
 
 ---
 </div>

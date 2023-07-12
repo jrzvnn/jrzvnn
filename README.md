@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s encourage those athletes in summer sports](http://9gag.com/gag/arm8XD6)
- - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
+ - 😝 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)
+ - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 💣 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
+ - 😝 [Cutting a paper with this thing called &#39;gyro-cut&#39;](http://9gag.com/gag/aeQRm0B)
+ - 👉 [Indeed](http://9gag.com/gag/aDYQZEN)<!-- MEMES:END -->
 
 ---
 </div>

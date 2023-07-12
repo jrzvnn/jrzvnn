@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darker than black hole](http://9gag.com/gag/aNwjRNr)
  - 😝 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
- - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
  - 😝 [True](http://9gag.com/gag/aWGRbv2)
- - 👉 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)<!-- MEMES:END -->
+ - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
+ - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
+ - 👉 [Darker than black hole](http://9gag.com/gag/aNwjRNr)<!-- MEMES:END -->
 
 ---
 </div>

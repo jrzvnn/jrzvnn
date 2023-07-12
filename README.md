@@ -193,9 +193,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 😝 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - 💣 [Tell me a Joke.](http://9gag.com/gag/axomv7b)
+ - 😝 [Let\u2019s encourage those athletes in summer sports](http://9gag.com/gag/arm8XD6)
+ - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
  - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
  - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
 

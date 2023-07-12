@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Collective, a financial management service for freelancers offering bookkeeping, payroll, and tax tools, raised $50M, bringing its total funding to $82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p49#a230711p49)
  - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
- - [A US district judge dismissed a suit by r/WallStreetBets founder Jaime Rogozinski who accused Reddit of wrongly banning him as the community&#39;s moderator in 2020 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230711/p46#a230711p46)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
- - [37 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-1/)
- - [3 Best Prime Day Pillow Deals &lpar;2023&rpar;: WIRED-Tested Favorites](https://www.wired.com/story/best-prime-day-pillow-deals-2023/)<!-- TECH:END -->
+ - [Salesforce plans its first price hike in seven years by ~9% for some products like Tableau and Sales Cloud, effective August 2023 for new and existing customers &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230711/p48#a230711p48)
+ - [12 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses, Sheets, Weighted Blankets](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2023-1/)
+ - [Prime Day Puts Motorola Phone Prices on the Chopping Block     - CNET](https://www.cnet.com/deals/prime-day-puts-motorola-phone-prices-on-the-chopping-block/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

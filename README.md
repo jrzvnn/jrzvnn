@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [No racing in the comments please.](http://9gag.com/gag/a7qn20r)
- - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - 💣 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 😝 [Aerodynamic High Speed Low Drag](http://9gag.com/gag/aKEKvgZ)
- - 👉 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)<!-- MEMES:END -->
+ - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 </div>

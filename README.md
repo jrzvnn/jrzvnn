@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is OK with Play Store apps selling NFTs now](https://www.androidauthority.com/play-store-nft-3344833/)
- - [Meta says Roblox will be coming to Meta&#39;s Quest VR headsets starting with an open beta on App Lab &quot;in the coming weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230712/p32#a230712p32)
- - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [Google’s Project Tailwind is now NotebookLM, available to try today](https://www.androidauthority.com/project-tailwind-notebooklm-3344791/)
- - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)<!-- TECH:END -->
+ - [Microsoft’s close to delivering Windows 11’s long-delayed 3D emoji](https://www.theverge.com/2023/7/12/23792735/microsoft-3d-emoji-windows-11-beta-test-preview)
+ - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
+ - [NASA shows off new Canoo EVs that will shuttle its Artemis crew around](https://www.theverge.com/2023/7/12/23792639/nasa-canoo-artemis-astronaut-ev-shuttle)
+ - [This is a quietly big year for the Apple TV and tvOS](https://www.theverge.com/23791671/apple-tvos-17-preview-facetime-control-center)
+ - [Google is OK with Play Store apps selling NFTs now](https://www.androidauthority.com/play-store-nft-3344833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

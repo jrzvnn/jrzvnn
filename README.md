@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
  - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 😝 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
  - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
- - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
+ - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
 
 ---
 </div>

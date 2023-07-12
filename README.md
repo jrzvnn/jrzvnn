@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Adobe: US customers spent $6.4B on Amazon during Prime Day&#39;s first 24 hours, up 6% YoY but below estimates; Numerator: average orders were up 7% YoY to $56.64 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/230712/p28#a230712p28)
- - [One of Apple TV Plus’ best hidden gems is back for season 2](https://www.theverge.com/2023/7/12/23791167/the-afterparty-season-2-apple-tv-plus)
- - [The Roku Channel is now streaming on Google TV](https://www.theverge.com/2023/7/12/23792307/roku-channel-android-free-ad-supported-tv-streaming)
- - [InvGate, a SaaS startup offering IT service and asset management tools, raised $35M led by Riverwood, its first external funding since its founding in 2009 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230712/p27#a230712p27)<!-- TECH:END -->
+ - [Staff favorites that are on sale for Prime Day right now](https://www.theverge.com/2023/7/12/23792335/amazon-prime-day-sale-tech-deals-favorite)
+ - [Amazon Prime Day 2: $89 AirPods, $279 Apple Watch S8, $249 iPad, $749 MacBook Air &amp; more](https://appleinsider.com/articles/23/07/12/amazon-prime-day-2-89-airpods-279-apple-watch-s8-249-ipad-749-macbook-air-more?utm_medium=rss)
+ - [Senate committee approves nominee to break FCC deadlock](https://www.theverge.com/2023/7/12/23792470/anna-gomez-gigi-sohn-fcc-net-neutrality-senate)
+ - [A look at Meta&#39;s plan to adopt ActivityPub for Threads, what makes ActivityPub attractive, and the technical challenges and social pressure Meta will face &lpar;Richard MacManus/The New Stack&rpar;](http://www.techmeme.com/230712/p29#a230712p29)
+ - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

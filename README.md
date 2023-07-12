@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2 durability test shows you only have some things to fear](https://www.androidauthority.com/nothing-phone-2-durability-test-3344553/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
- - [Indian IT giant Wipro plans to spend $1B over the next three years to train its 250K employees in AI and integrate the technology into its product offerings &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230712/p8#a230712p8)
- - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Galaxy Z Flip 5, Fold 5 prices leak: A price hike could be on the cards](https://www.androidauthority.com/samsung-galaxy-z-flip-5-fold-5-price-leak-3344205/)<!-- TECH:END -->
+ - [A look at Wikipedia in Russia after the Ukraine invasion, where the service remains popular, and Kremlin-compliant upstart Ruwiki, led by a long-service editor &lpar;Noam Cohen/Bloomberg&rpar;](http://www.techmeme.com/230712/p9#a230712p9)
+ - [118+ Best Prime Day Deals on Gear WIRED Loves &lpar;Day 2&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
+ - [Xiaomi Pad 6 review: Should you buy it?](https://www.androidauthority.com/xiaomi-pad-6-review-3341580/)
+ - [Democrats call on DOJ to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
+ - [Nothing Phone 2 durability test shows you only have some things to fear](https://www.androidauthority.com/nothing-phone-2-durability-test-3344553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

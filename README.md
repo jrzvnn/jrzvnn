@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [The Mac sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
+ - [Microsoft tests an AI hub for the Windows 11 app store](https://www.theverge.com/2023/7/12/23792814/microsoft-store-ai-hub-windows-11-insiders-preview)
  - [A former Twitter employee files a proposed class action accusing the company of refusing to pay $500M+ in promised severance to the thousands whom Elon Musk cut &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230712/p34#a230712p34)
- - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)
- - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
- - [What is Google Chat, and how do you use it?](https://www.androidauthority.com/what-is-google-chat-3344749/)
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
+ - [Best Prime Day Sales on Nvidia GeForce Graphics Cards     - CNET](https://www.cnet.com/tech/computing/best-prime-day-sales-on-nvidia-geforce-graphics-cards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

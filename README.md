@@ -185,9 +185,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Nothing Phone 2 durability test shows you only have some things to fear](https://www.androidauthority.com/nothing-phone-2-durability-test-3344553/)
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
  - [Indian IT giant Wipro plans to spend $1B over the next three years to train its 250K employees in AI and integrate the technology into its product offerings &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230712/p8#a230712p8)
  - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)
  - [Galaxy Z Flip 5, Fold 5 prices leak: A price hike could be on the cards](https://www.androidauthority.com/samsung-galaxy-z-flip-5-fold-5-price-leak-3344205/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

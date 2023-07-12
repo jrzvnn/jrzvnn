@@ -188,7 +188,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Galaxy Z Flip 5, Fold 5 prices leak: A price hike could be on the cards](https://www.androidauthority.com/samsung-galaxy-z-flip-5-fold-5-price-leak-3344205/)
  - [Research firms say Huawei is plotting a return to the US 5G smartphone market by the end of 2023 using its own chip design tools and SMIC&#39;s chipmaking process &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/230712/p7#a230712p7)
  - [Emails: Google employee no. 8 Urs Holzle will step back from management after 24 years, becoming an &quot;individual contributor&quot; amid a shakeup at Google Cloud &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230712/p6#a230712p6)
- - [Samsung Galaxy S21 series gets July 2023 update with bumper security patch list](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

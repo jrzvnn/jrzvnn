@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fair N Square](http://9gag.com/gag/aNwjV8w)
+ - 😝 [Darker than black hole](http://9gag.com/gag/aNwjRNr)
  - 😝 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
  - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
- - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
- - 👉 [True](http://9gag.com/gag/aWGRbv2)<!-- MEMES:END -->
+ - 😝 [True](http://9gag.com/gag/aWGRbv2)
+ - 👉 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)<!-- MEMES:END -->
 
 ---
 </div>

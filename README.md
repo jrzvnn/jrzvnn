@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU approves Broadcom&#39;s $61B VMware deal, provided Broadcom adheres to its access and interoperability commitments; UK and US approval is still pending &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230712/p14#a230712p14)
+ - [99 Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-2/)
  - [To Understand the Human Brain, Give an Octopus MDMA](https://www.wired.com/story/have-a-nice-future-podcast-13/)
  - [The Problem With Sunscreen Isn’t Its Ingredients—It’s You](https://www.wired.com/story/sunscreen-safety-ingredients/)
- - [&#39;Mission: Impossible—Dead Reckoning&#39; Is the Perfect AI Panic Movie](https://www.wired.com/story/mission-impossible-dead-reckoning-is-the-perfect-ai-panic-movie/)
- - [No cap: Google finna yeet mid chatbot focused on Gen Z](https://www.androidauthority.com/google-chatbot-gen-z-3344570/)
- - [A look at the global freelancer labor force on sites like 99designs, some of whom are early generative AI adopters and are most at risk of being replaced by AI &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230712/p13#a230712p13)<!-- TECH:END -->
+ - [&#39;Mission: Impossible—Dead Reckoning&#39; Is the Perfect AI Panic Movie](https://www.wired.com/story/mission-impossible-dead-reckoning-is-the-perfect-ai-panic-movie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

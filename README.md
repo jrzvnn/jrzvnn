@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is the Acer Swift 3 the best laptop deal of Amazon Prime Day?](https://www.androidauthority.com/acer-swift-3-laptop-prime-day-deal-3344898/)
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
  - [Hongo 2K 16-inch portable monitor review: screen real estate on the cheap](https://appleinsider.com/articles/23/07/12/hongo-2k-16-inch-portable-monitor-review-screen-real-estate-on-the-cheap?utm_medium=rss)
  - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)
- - [Bob Iger is sticking around Disney longer than he said he would](https://www.theverge.com/2023/7/12/23793027/disney-ceo-bob-iger-contract-2026)
- - [USA vs. Panama Livestream: How to Watch CONCACAF Gold Cup 2023 Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-panama-livestream-how-to-watch-concacaf-gold-cup-2023-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

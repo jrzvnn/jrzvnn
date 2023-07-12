@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [InvGate, a SaaS startup offering IT service and asset management tools, raised $35M led by Riverwood, its first external funding since its founding in 2009 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230712/p27#a230712p27)
+ - [Staff favorites that are on sale for Prime Day right now](https://www.theverge.com/2023/7/12/23792335/amazon-prime-day-sale-tech-deals-favorite)
+ - [Sony granting PlayStation console owners an extended Apple TV+ free trial](https://appleinsider.com/articles/23/07/12/sony-granting-playstation-console-owners-an-extended-apple-tv-free-trial?utm_medium=rss)
  - [Young people love Apple Music but it&#39;s not their only streaming platform](https://appleinsider.com/articles/23/07/12/young-people-love-apple-music-but-its-not-their-only-streaming-platform?utm_medium=rss)
- - [52 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-2/)
- - [Apple&#39;s trailer for the final season of &#39;Physical&#39; is bathed in neon -- and dark](https://appleinsider.com/articles/23/07/12/apples-trailer-for-the-final-season-of-physical-is-bathed-in-neon----and-dark?utm_medium=rss)
- - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
+ - [52 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
- - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 😝 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
- - 👉 [He pulled a sneaky one on the weather forecast](http://9gag.com/gag/amARMGX)<!-- MEMES:END -->
+ - 😝 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
+ - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
+ - 💣 [Why you always lying](http://9gag.com/gag/a7qn9mq)
+ - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 👉 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)<!-- MEMES:END -->
 
 ---
 </div>

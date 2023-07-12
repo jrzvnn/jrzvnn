@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
- - 😝 [Cutting a paper with this thing called &#39;gyro-cut&#39;](http://9gag.com/gag/aeQRm0B)
- - 💣 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)
- - 😝 [Indeed](http://9gag.com/gag/aDYQZEN)
- - 👉 [Fair N Square](http://9gag.com/gag/aNwjV8w)<!-- MEMES:END -->
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 😝 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)
+ - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 👉 [This is a working QR code.](http://9gag.com/gag/aDYQ6BG)<!-- MEMES:END -->
 
 ---
 </div>

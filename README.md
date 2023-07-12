@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a classified briefing on July 11 with senators, US national security officials defended their deployment of AI; Chuck Schumer has arranged three AI briefings &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230712/p12#a230712p12)
+ - [Apple TV+ announces September streaming for &#39;The Changeling&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-announces-september-streaming-for-the-changeling?utm_medium=rss)
+ - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)
  - [Prime deal: The top earbuds for Google fans get a drastic price cut](https://www.androidauthority.com/prime-day-pixel-buds-pro-deal-3344484/)
- - [Armed Guards and Shootings Plague Airbnb’s Party Ban](https://www.wired.com/story/airbnb-party-ban-shootings-police/)
- - [An Indian official says the Foxconn-Vedanta venture ended due to &quot;internal issues&quot; and &quot;doesn&#39;t affect&quot; the chip program; Foxconn plans to look for new partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230712/p11#a230712p11)
- - [Reddit’s Contributor Program could earn you real money for your Reddit karma](https://www.androidauthority.com/reddit-contributor-program-3343397/)
- - [30 Best Amazon Prime Day Tech Deals &lpar;2023&rpar;: Phones, Webcams, and More](https://www.wired.com/story/best-prime-day-tech-deals/)<!-- TECH:END -->
+ - [Armed Guards and Shootings Plague Airbnb’s Party Ban](https://www.wired.com/story/airbnb-party-ban-shootings-police/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

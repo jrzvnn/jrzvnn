@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sonoma brings iCloud Password extension to third-party browsers](https://appleinsider.com/articles/23/07/12/macos-sonoma-brings-icloud-password-extension-to-third-party-browsers?utm_medium=rss)
+ - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
  - [The Mac sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
- - [Microsoft tests an AI hub for the Windows 11 app store](https://www.theverge.com/2023/7/12/23792814/microsoft-store-ai-hub-windows-11-insiders-preview)
- - [A former Twitter employee files a proposed class action accusing the company of refusing to pay $500M+ in promised severance to the thousands whom Elon Musk cut &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230712/p34#a230712p34)
- - [Best Prime Day Sales on Nvidia GeForce Graphics Cards     - CNET](https://www.cnet.com/tech/computing/best-prime-day-sales-on-nvidia-geforce-graphics-cards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft tests an AI hub for the Windows 11 app store](https://www.theverge.com/2023/7/12/23792814/microsoft-store-ai-hub-windows-11-insiders-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

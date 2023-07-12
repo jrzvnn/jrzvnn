@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
- - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
+ - 😝 [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
+ - 💣 [Goodbye](http://9gag.com/gag/a1POEvG)
+ - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 </div>

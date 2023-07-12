@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
  - 😝 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)
- - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 👉 [This is a working QR code.](http://9gag.com/gag/aDYQ6BG)<!-- MEMES:END -->
+ - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 ---
 </div>

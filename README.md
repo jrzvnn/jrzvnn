@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Day Deals: AirPods for $89, 28% off Apple Watch Series 8, $100 off iPad Air, Amazon Fire TV $129, more](https://appleinsider.com/articles/23/07/12/prime-day-deals-airpods-for-89-28-off-apple-watch-series-8-100-off-ipad-air-amazon-fire-tv-129-more?utm_medium=rss)
+ - [Chinese hackers breached US government emails via Microsoft Cloud exploit](https://www.theverge.com/2023/7/12/23792371/security-breach-china-us-government-emails-microsoft-cloud-exploit)
  - [Staff favorites that are on sale for Prime Day right now](https://www.theverge.com/2023/7/12/23792335/amazon-prime-day-sale-tech-deals-favorite)
  - [Amazon Prime Day 2: $89 AirPods, $279 Apple Watch S8, $249 iPad, $749 MacBook Air &amp; more](https://appleinsider.com/articles/23/07/12/amazon-prime-day-2-89-airpods-279-apple-watch-s8-249-ipad-749-macbook-air-more?utm_medium=rss)
- - [Senate committee approves nominee to break FCC deadlock](https://www.theverge.com/2023/7/12/23792470/anna-gomez-gigi-sohn-fcc-net-neutrality-senate)
- - [A look at Meta&#39;s plan to adopt ActivityPub for Threads, what makes ActivityPub attractive, and the technical challenges and social pressure Meta will face &lpar;Richard MacManus/The New Stack&rpar;](http://www.techmeme.com/230712/p29#a230712p29)
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)<!-- TECH:END -->
+ - [24 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A mid-2023 crypto crime update: inflows to illicit entities drop 65% YoY, scammers net ~$3.3B less than H1 2022, and ransomware took $175.8M more than H1 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/230712/p23#a230712p23)
- - [15 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-1/)
- - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-12-2023-3343953/)
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
+ - [Sound, which helps artists mint their songs as NFTs, raised a $20M Series A led by a16z with Snoop Dogg and others participating and launches out of beta &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230712/p25#a230712p25)
+ - [Disney Plus will start streaming Cinderella in 4K in August](https://www.theverge.com/2023/7/12/23792312/disney-plus-restored-cinderella-4k)
+ - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
+ - [HONOR Magic V2 Ultimate hands on: The foldable thinner than a ballpoint pen](https://www.androidauthority.com/honor-magic-v2-ultimate-hands-on-impressions-3344674/)
+ - [FTC v. Microsoft: all the news from the big Xbox courtroom battle](https://www.theverge.com/23768244/ftc-microsoft-activision-blizzard-case-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

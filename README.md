@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red card...](http://9gag.com/gag/awZeLeW)
- - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
- - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
+ - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 😝 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
+ - 👉 [He pulled a sneaky one on the weather forecast](http://9gag.com/gag/amARMGX)<!-- MEMES:END -->
 
 ---
 </div>

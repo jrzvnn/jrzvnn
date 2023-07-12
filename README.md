@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Young people love Apple Music but it&#39;s not their only streaming platform](https://appleinsider.com/articles/23/07/12/young-people-love-apple-music-but-its-not-their-only-streaming-platform?utm_medium=rss)
+ - [52 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-2/)
  - [Apple&#39;s trailer for the final season of &#39;Physical&#39; is bathed in neon -- and dark](https://appleinsider.com/articles/23/07/12/apples-trailer-for-the-final-season-of-physical-is-bathed-in-neon----and-dark?utm_medium=rss)
  - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

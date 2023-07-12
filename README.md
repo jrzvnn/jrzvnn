@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And no one got tea bagged. Shame.](http://9gag.com/gag/aeQRO25)
- - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 😝 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
+ - 😝 [True](http://9gag.com/gag/aWGRbv2)
+ - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
+ - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
  - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
 
 ---

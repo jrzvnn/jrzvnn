@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Lisa Jackson talks racial equity and climate in new interview](https://appleinsider.com/articles/23/07/12/apples-lisa-jackson-talks-racial-equity-and-climate-in-new-interview?utm_medium=rss)
  - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
  - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
  - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)
- - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home tech &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)
- - [Today is the last day to get this M2 MacBook Air with 16GB RAM for $1,149](https://appleinsider.com/articles/23/07/12/today-is-the-last-day-to-get-this-m2-macbook-air-with-16gb-ram-for-1149?utm_medium=rss)<!-- TECH:END -->
+ - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home tech &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

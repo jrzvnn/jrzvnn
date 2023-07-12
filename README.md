@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new A6700 puts the company’s best-in-class autofocus in a more affordable camera](https://www.theverge.com/2023/7/12/23792405/sony-a6700-aps-c-camera-released-ai-autofocus-mirrorless)
+ - [Last call for these Prime Day 2023 Apple Watch deals](https://appleinsider.com/articles/23/07/12/last-call-for-these-prime-day-2023-apple-watch-deals?utm_medium=rss)
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
  - [Microsoft’s close to delivering Windows 11’s long-delayed 3D emoji](https://www.theverge.com/2023/7/12/23792735/microsoft-3d-emoji-windows-11-beta-test-preview)
- - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
- - [NASA shows off new Canoo EVs that will shuttle its Artemis crew around](https://www.theverge.com/2023/7/12/23792639/nasa-canoo-artemis-astronaut-ev-shuttle)
- - [This is a quietly big year for the Apple TV and tvOS](https://www.theverge.com/23791671/apple-tvos-17-preview-facetime-control-center)
- - [Google is OK with Play Store apps selling NFTs now](https://www.androidauthority.com/play-store-nft-3344833/)<!-- TECH:END -->
+ - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

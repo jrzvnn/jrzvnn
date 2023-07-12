@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A former Twitter employee files a proposed class action accusing the company of refusing to pay $500M+ in promised severance to the thousands whom Elon Musk cut &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230712/p34#a230712p34)
  - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)
  - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
  - [What is Google Chat, and how do you use it?](https://www.androidauthority.com/what-is-google-chat-3344749/)
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)<!-- TECH:END -->
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

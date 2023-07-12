@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightning deal: 3 hours left to save $550 on the Samsung Galaxy S22 Ultra](https://www.androidauthority.com/samsung-galaxy-s22-ultra-lightning-deal-3344820/)
- - [Best smart home deals for Amazon Prime Day 2023](https://www.theverge.com/23780286/amazon-prime-day-best-smart-home-device-google-alexa-deals-2023)
- - [Apple expands test driver team for its &#39;Apple Car&#39; autonomous vehicle project](https://appleinsider.com/articles/23/07/12/apple-expands-test-driver-team-for-its-apple-car-autonomous-vehicle-project?utm_medium=rss)
- - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours/)
- - [Roblox is coming to Meta’s Quest VR headsets](https://www.theverge.com/2023/7/12/23792594/roblox-meta-quest-2-3-pro-vr-headsets)<!-- TECH:END -->
+ - [How to install the iOS 17 public beta](https://appleinsider.com/inside/ios-17/tips/how-to-install-the-ios-17-public-beta?utm_medium=rss)
+ - [Succession, The Last of Us, and The White Lotus are the 2023 Emmy nominees to beat this year](https://www.theverge.com/2023/7/12/23792398/2023-emmy-nominations-the-last-of-us-succession-white-lotus-hbo-sag-aftra)
+ - [Canoo, struggling EV startup, is trying to stay afloat on government largesse](https://www.theverge.com/2023/7/12/23792450/canoo-ev-nasa-artemis-defense-government)
+ - [watchOS 10 preview: widgets all the way down](https://www.theverge.com/23786155/watchos-10-preview-apple-watch)
+ - [Apple releases first public betas of iOS 17, iPadOS 17, macOS Sonoma](https://appleinsider.com/articles/23/07/12/apple-releases-first-public-betas-of-ios-17-ipados-17-tvos-17-macos-sonoma-watchos-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

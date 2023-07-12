@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
+ - [What is Google Chat, and how do you use it?](https://www.androidauthority.com/what-is-google-chat-3344749/)
  - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
  - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
- - [12 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-coffee-deals-2023/)
- - [Xbox launches reactive voice chat moderation, letting players report 60-second audio clips of inappropriate voice messages for review by the Xbox safety team &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230712/p33#a230712p33)
- - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
+ - [12 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-coffee-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

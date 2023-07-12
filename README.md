@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A mid-2023 crypto crime update: inflows to illicit entities drop 65% YoY, scammers net ~$3.3B less than H1 2022, and ransomware took $175.8M more than H1 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/230712/p23#a230712p23)
  - [15 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-1/)
  - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-12-2023-3343953/)
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

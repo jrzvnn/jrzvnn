@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
  - [Pristine condition AirPods Max refurbished models are just $369.99](https://appleinsider.com/articles/23/07/12/pristine-condition-airpods-max-refurbished-models-are-just-36999?utm_medium=rss)
  - [Apple reissues Rapid Security Response for iOS 16.5.1 and macOS 13.4.1](https://appleinsider.com/articles/23/07/12/apple-reissues-rapid-security-response-for-ios-1651-and-macos-1341?utm_medium=rss)
- - [18 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses, Sheets, Weighted Blankets](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2023-2/)
- - [Sources reveal how contractors audit Bard&#39;s answers in subjects ranging from medication doses to state laws, sometimes with deadlines as short as three minutes &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230712/p35#a230712p35)
- - [How a Cloud Flaw Gave Chinese Spies a Key to Microsoft’s Kingdom](https://www.wired.com/story/microsoft-cloud-attack-china-hackers/)<!-- TECH:END -->
+ - [18 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses, Sheets, Weighted Blankets](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

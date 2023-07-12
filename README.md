@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This cute retro handheld comes in Capcom and Taito flavors](https://www.theverge.com/2023/7/12/23792463/super-pocket-retro-handheld-games-price-date)
+ - [Xbox will now let you clip and report audio to clean up Call of Duty lobbies](https://www.theverge.com/2023/7/12/23792338/xbox-voice-chat-moderation-trust-and-safety-interview)
+ - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
  - [Prime Day Deals: AirPods for $89, 28% off Apple Watch Series 8, $100 off iPad Air, Amazon Fire TV $129, more](https://appleinsider.com/articles/23/07/12/prime-day-deals-airpods-for-89-28-off-apple-watch-series-8-100-off-ipad-air-amazon-fire-tv-129-more?utm_medium=rss)
- - [Chinese hackers breached US government emails via Microsoft Cloud exploit](https://www.theverge.com/2023/7/12/23792371/security-breach-china-us-government-emails-microsoft-cloud-exploit)
- - [Staff favorites that are on sale for Prime Day right now](https://www.theverge.com/2023/7/12/23792335/amazon-prime-day-sale-tech-deals-favorite)
- - [Amazon Prime Day 2: $89 AirPods, $279 Apple Watch S8, $249 iPad, $749 MacBook Air &amp; more](https://appleinsider.com/articles/23/07/12/amazon-prime-day-2-89-airpods-279-apple-watch-s8-249-ipad-749-macbook-air-more?utm_medium=rss)
- - [24 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
+ - [Chinese hackers breached US government emails via Microsoft Cloud exploit](https://www.theverge.com/2023/7/12/23792371/security-breach-china-us-government-emails-microsoft-cloud-exploit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

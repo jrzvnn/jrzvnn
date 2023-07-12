@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA says it will not accept new remedies from Microsoft over Activision but would consider a restructured deal, which may require a fresh investigation &lpar;Reuters&rpar;](http://www.techmeme.com/230712/p19#a230712p19)
- - [Delivery app holdout Domino’s will list its pizzas on Uber Eats in the US](https://www.theverge.com/2023/7/12/23792248/dominos-uber-eats-us-delivery-app-listing)
- - [We asked, you told us: Here’s how much RAM your phones have](https://www.androidauthority.com/how-much-ram-phone-poll-results-3344660/)
- - [Microsoft’s Activision deal could face ‘new merger investigation,’ UK regulator warns](https://www.theverge.com/2023/7/12/23792245/uk-cma-microsoft-activision-blizzard-deal-negotiations)
- - [iPad Air vs reMarkable 2 vs Boox Tab Ultra compared: Which is the best productivity tablet?](https://appleinsider.com/inside/ipad-air-5/vs/ipad-air-vs-remarkable-2-vs-boox-tab-ultra-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
+ - [Ransomware Attacks Are on the Rise, Again](https://www.wired.com/story/ransomware-attacks-rise-2023/)
+ - [Google hands over its tool for estimating flight emissions to an independent advisory group](https://www.theverge.com/2023/7/12/23791508/google-travel-impact-model-advisory-panel-flight-emissions)
+ - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
+ - [The best gaming deals of Amazon Prime Day](https://www.theverge.com/23790026/amazon-prime-day-best-gaming-game-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

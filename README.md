@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [As AWS, Azure, Google Cloud, and other cloud providers face pressure to meet AI demand, Dell, Qualcomm, and other on-premises hardware providers see an opening &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230712/p1#a230712p1)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)
  - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Critics say FTC Chair Lina Khan&#39;s take-it-to-the-courts strategy is flawed, ahead of a House Judiciary Committee hearing to &quot;examine mismanagement of the FTC&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230711/p52#a230711p52)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Critics say FTC Chair Lina Khan&#39;s take-it-to-the-courts strategy is flawed, ahead of a House Judiciary Committee hearing to &quot;examine mismanagement of the FTC&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230711/p52#a230711p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a Cloud Flaw Gave Chinese Spies a Key to Microsoft’s Kingdom](https://www.wired.com/story/microsoft-cloud-attack-china-hackers/)
+ - [Our Fave Cookware Deals at All-Clad&#39;s Factory Seconds Sale](https://www.wired.com/story/all-clad-vip-factory-seconds-deal-july-2023/)
  - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
  - [101+ Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-2/)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
- - [The best deals of Amazon Prime Day: Final chance to save!](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)
- - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-2/)<!-- TECH:END -->
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

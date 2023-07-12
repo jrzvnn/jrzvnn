@@ -193,9 +193,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
- - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 💣 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 😝 [Red card...](http://9gag.com/gag/awZeLeW)
+ - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
  - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
  - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 

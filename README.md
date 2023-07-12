@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bob Iger is sticking around Disney longer than he said he would](https://www.theverge.com/2023/7/12/23793027/disney-ceo-bob-iger-contract-2026)
  - [Here’s a reminder to make your Venmo transactions private, courtesy of Clarence Thomas](https://www.theverge.com/2023/7/12/23792922/venmo-transactions-privacy-security-risks-clarence-thomas)
  - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)
  - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2023](https://www.theverge.com/23784900/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [Pristine condition AirPods Max refurbished models are just $369.99](https://appleinsider.com/articles/23/07/12/pristine-condition-airpods-max-refurbished-models-are-just-36999?utm_medium=rss)
- - [Apple reissues Rapid Security Response for iOS 16.5.1 and macOS 13.4.1](https://appleinsider.com/articles/23/07/12/apple-reissues-rapid-security-response-for-ios-1651-and-macos-1341?utm_medium=rss)<!-- TECH:END -->
+ - [Pristine condition AirPods Max refurbished models are just $369.99](https://appleinsider.com/articles/23/07/12/pristine-condition-airpods-max-refurbished-models-are-just-36999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

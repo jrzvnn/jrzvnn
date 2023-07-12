@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No racing in the comments please.](http://9gag.com/gag/a7qn20r)
- - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 💣 [Pro tip](http://9gag.com/gag/aBd466x)
+ - 😝 [KindOfLogic](http://9gag.com/gag/aYVRP2V)
  - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 💣 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
 
 ---
 </div>

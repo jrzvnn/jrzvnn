@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [80 best Prime Day 2023 deals on Apple Watch, AirPods, Mac, TVs, smart home tech &amp; more](https://appleinsider.com/articles/23/07/11/80-best-prime-day-2023-deals-on-apple-watch-airpods-mac-tvs-smart-home-more?utm_medium=rss)
+ - [Today is the last day to get this M2 MacBook Air with 16GB RAM for $1,149](https://appleinsider.com/articles/23/07/12/today-is-the-last-day-to-get-this-m2-macbook-air-with-16gb-ram-for-1149?utm_medium=rss)
+ - [Elon Musk&#39;s xAI Might Be Hallucinating Its Chances Against ChatGPT](https://www.wired.com/story/fast-forward-elon-musks-xai-chatgpt-hallucinating/)
  - [Is the Acer Swift 3 the best laptop deal of Amazon Prime Day?](https://www.androidauthority.com/acer-swift-3-laptop-prime-day-deal-3344898/)
- - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
- - [Hongo 2K 16-inch portable monitor review: screen real estate on the cheap](https://appleinsider.com/articles/23/07/12/hongo-2k-16-inch-portable-monitor-review-screen-real-estate-on-the-cheap?utm_medium=rss)
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Grab These Lightning Deals in the Final Hours of Amazon Prime Day](https://www.wired.com/story/last-minute-amazon-prime-day-lightning-deals-2023/)<!-- TECH:END -->
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

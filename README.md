@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [101+ Best Prime Day Deals on Gear Our Reviewers Love](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [Hey! Listen! Here&#39;s &#39;Tears of the Kingdom&#39;s&#39; Biggest Discount Yet](https://www.wired.com/story/tears-of-the-kingdom-game-deal-prime-day-2023/)
- - [Apple Card entices new cardholders with 10% boost to Daily Cash for a limited time](https://appleinsider.com/articles/23/07/11/apple-card-entices-new-cardholders-with-10-boost-to-daily-cash-for-a-limited-time?utm_medium=rss)
- - [The best Amazon Prime Day deals under $25](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)<!-- TECH:END -->
+ - [Amazon Prime Day Liveblog &lpar;2023&rpar;: Highlights and the Best Lightning Deals](https://www.wired.com/live/best-amazon-prime-day-live-deals-2023/)
+ - [A US district judge dismissed a suit by r/WallStreetBets founder Jaime Rogozinski who accused Reddit of wrongly banning him as the community&#39;s moderator in 2020 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230711/p46#a230711p46)
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
+ - [37 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-1/)
+ - [3 Best Prime Day Pillow Deals &lpar;2023&rpar;: WIRED-Tested Favorites](https://www.wired.com/story/best-prime-day-pillow-deals-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

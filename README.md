@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install the macOS Sonoma public beta](https://www.theverge.com/23790032/how-to-install-the-macos-sonoma-public-beta)
- - [In a major policy shift, Google Play now lets developers have tokenized digital assets like NFTs in apps including games &lpar;Toby Bochan/CoinDesk&rpar;](http://www.techmeme.com/230712/p31#a230712p31)
+ - [B&amp;H Photo makes a strong case for upgrading your Apple gear with up to $2,000 off devices](https://appleinsider.com/articles/23/07/12/bh-photo-makes-a-strong-case-for-upgrading-your-apple-gear-with-up-to-2000-off-devices?utm_medium=rss)
+ - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
  - [How to install the iOS 17 public beta](https://appleinsider.com/inside/ios-17/tips/how-to-install-the-ios-17-public-beta?utm_medium=rss)
- - [Succession, The Last of Us, and The White Lotus are the 2023 Emmy nominees to beat this year](https://www.theverge.com/2023/7/12/23792398/2023-emmy-nominations-the-last-of-us-succession-white-lotus-hbo-sag-aftra)
- - [Canoo, struggling EV startup, is trying to stay afloat on government largesse](https://www.theverge.com/2023/7/12/23792450/canoo-ev-nasa-artemis-defense-government)<!-- TECH:END -->
+ - [Apple releases first public betas of tvOS 17 and watchOS 10](https://appleinsider.com/articles/23/07/12/apple-releases-first-public-betas-of-tvos-17-and-watchos-10?utm_medium=rss)
+ - [How to install the macOS Sonoma public beta](https://www.theverge.com/23790032/how-to-install-the-macos-sonoma-public-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

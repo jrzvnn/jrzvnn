@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-1/)
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 12&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-12-2023-3343953/)
  - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
- - [Adobe says Firefly has now generated over 1B assets on the web and in Photoshop and rolls out the web app globally with support for prompts in 100 languages &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230712/p22#a230712p22)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

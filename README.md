@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reissues Rapid Security Response for iOS 16.5.1 and macOS 13.4.1](https://appleinsider.com/articles/23/07/12/apple-reissues-rapid-security-response-for-ios-1651-and-macos-1341?utm_medium=rss)
+ - [18 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses, Sheets, Weighted Blankets](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2023-2/)
+ - [Sources reveal how contractors audit Bard&#39;s answers in subjects ranging from medication doses to state laws, sometimes with deadlines as short as three minutes &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230712/p35#a230712p35)
  - [How a Cloud Flaw Gave Chinese Spies a Key to Microsoft’s Kingdom](https://www.wired.com/story/microsoft-cloud-attack-china-hackers/)
- - [Our Fave Cookware Deals at All-Clad&#39;s Factory Seconds Sale](https://www.wired.com/story/all-clad-vip-factory-seconds-deal-july-2023/)
- - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
- - [101+ Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-2/)
- - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [Our Fave Cookware Deals at All-Clad&#39;s Factory Seconds Sale](https://www.wired.com/story/all-clad-vip-factory-seconds-deal-july-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

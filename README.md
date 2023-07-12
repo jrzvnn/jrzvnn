@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 😝 [Tell me a Joke.](http://9gag.com/gag/axomv7b)
- - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
- - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - 👉 [No pun intended](http://9gag.com/gag/ay2v658)<!-- MEMES:END -->
+ - 😝 [Men can\u2019t get pregnant!](http://9gag.com/gag/aWGRvw6)
+ - 😝 [Cutting a paper with this thing called &#39;gyro-cut&#39;](http://9gag.com/gag/aeQRm0B)
+ - 💣 [What a deal &lpar;not mine&rpar;](http://9gag.com/gag/ay2vReY)
+ - 😝 [Indeed](http://9gag.com/gag/aDYQZEN)
+ - 👉 [Fair N Square](http://9gag.com/gag/aNwjV8w)<!-- MEMES:END -->
 
 ---
 </div>

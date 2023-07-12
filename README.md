@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 😝 [No racing in the comments please.](http://9gag.com/gag/a7qn20r)
  - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
- - 💣 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)
- - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 💣 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
+ - 😝 [Aerodynamic High Speed Low Drag](http://9gag.com/gag/aKEKvgZ)
  - 👉 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)<!-- MEMES:END -->
 
 ---

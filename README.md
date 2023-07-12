@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime deal: The top earbuds for Google fans get a drastic price cut](https://www.androidauthority.com/prime-day-pixel-buds-pro-deal-3344484/)
+ - [Armed Guards and Shootings Plague Airbnb’s Party Ban](https://www.wired.com/story/airbnb-party-ban-shootings-police/)
+ - [An Indian official says the Foxconn-Vedanta venture ended due to &quot;internal issues&quot; and &quot;doesn&#39;t affect&quot; the chip program; Foxconn plans to look for new partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230712/p11#a230712p11)
  - [Reddit’s Contributor Program could earn you real money for your Reddit karma](https://www.androidauthority.com/reddit-contributor-program-3343397/)
- - [30 Best Amazon Prime Day Tech Deals &lpar;2023&rpar;: Phones, Webcams, and More](https://www.wired.com/story/best-prime-day-tech-deals/)
- - [Experts: the FTC faces hurdles to appeal the Activision ruling as the facts work in Microsoft&#39;s favor; some question the judge&#39;s standard on harming competition &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230712/p10#a230712p10)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
- - [A look at Wikipedia in Russia after the Ukraine invasion, where the service remains popular, and Kremlin-compliant upstart Ruwiki, led by a long-service editor &lpar;Noam Cohen/Bloomberg&rpar;](http://www.techmeme.com/230712/p9#a230712p9)<!-- TECH:END -->
+ - [30 Best Amazon Prime Day Tech Deals &lpar;2023&rpar;: Phones, Webcams, and More](https://www.wired.com/story/best-prime-day-tech-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

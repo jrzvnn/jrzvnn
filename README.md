@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 5 best smartwatch deals of Amazon Prime Day 2023](https://www.androidauthority.com/5-best-smartwatch-deals-amazon-prime-day-2023-3344840/)
+ - [Google is spelling out rules for blockchain-based apps on Android](https://www.theverge.com/2023/7/12/23792720/android-google-play-blockchain-crypto-nft-apps)
  - [The best Prime Day deals on Amazon devices](https://www.theverge.com/23773883/amazon-prime-day-devices-fire-tv-echo-speaker-kindle-ring-2023)
  - [Sony’s new A6700 puts the company’s best-in-class autofocus in a more affordable camera](https://www.theverge.com/2023/7/12/23792405/sony-a6700-aps-c-camera-released-ai-autofocus-mirrorless)
- - [Last call for these Prime Day 2023 Apple Watch deals](https://appleinsider.com/articles/23/07/12/last-call-for-these-prime-day-2023-apple-watch-deals?utm_medium=rss)
- - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
- - [Microsoft’s close to delivering Windows 11’s long-delayed 3D emoji](https://www.theverge.com/2023/7/12/23792735/microsoft-3d-emoji-windows-11-beta-test-preview)<!-- TECH:END -->
+ - [Last call for these Prime Day 2023 Apple Watch deals](https://appleinsider.com/articles/23/07/12/last-call-for-these-prime-day-2023-apple-watch-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

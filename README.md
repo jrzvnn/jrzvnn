@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is OK with Play Store apps selling NFTs now](https://www.androidauthority.com/play-store-nft-3344833/)
+ - [Meta says Roblox will be coming to Meta&#39;s Quest VR headsets starting with an open beta on App Lab &quot;in the coming weeks&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230712/p32#a230712p32)
+ - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
  - [Google’s Project Tailwind is now NotebookLM, available to try today](https://www.androidauthority.com/project-tailwind-notebooklm-3344791/)
- - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)
- - [B&amp;H Photo makes a strong case for upgrading your Apple gear with up to $2,000 off devices](https://appleinsider.com/articles/23/07/12/bh-photo-makes-a-strong-case-for-upgrading-your-apple-gear-with-up-to-2000-off-devices?utm_medium=rss)
- - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [How to install the iOS 17 public beta](https://appleinsider.com/inside/ios-17/tips/how-to-install-the-ios-17-public-beta?utm_medium=rss)<!-- TECH:END -->
+ - [The best anti-Prime Day deals at Walmart, Best Buy, and other retailers](https://www.theverge.com/23787311/anti-prime-day-best-deals-walmart-best-buy-target-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

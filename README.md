@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
- - 😝 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
- - 💣 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
- - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
+ - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
+ - 💣 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
  - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
 
 ---

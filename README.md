@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are all the new Nothing OS 2.0 features you need to know about](https://www.androidauthority.com/nothing-os-2-features-availability-3344528/)
+ - [Microsoft says Chinese hackers gained access to US government email accounts and had access to some accounts for a month before the breach was detected &lpar;New York Times&rpar;](http://www.techmeme.com/230712/p2#a230712p2)
  - [As AWS, Azure, Google Cloud, and other cloud providers face pressure to meet AI demand, Dell, Qualcomm, and other on-premises hardware providers see an opening &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230712/p1#a230712p1)
  - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)
- - [The best Amazon Prime Day deals under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
- - [Critics say FTC Chair Lina Khan&#39;s take-it-to-the-courts strategy is flawed, ahead of a House Judiciary Committee hearing to &quot;examine mismanagement of the FTC&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230711/p52#a230711p52)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-one-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

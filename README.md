@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma brings iCloud Password extension to third-party browsers](https://appleinsider.com/articles/23/07/12/macos-sonoma-brings-icloud-password-extension-to-third-party-browsers?utm_medium=rss)
- - [The best Amazon Prime Day tech deals going on right now](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)
- - [The Mac sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
- - [Microsoft tests an AI hub for the Windows 11 app store](https://www.theverge.com/2023/7/12/23792814/microsoft-store-ai-hub-windows-11-insiders-preview)<!-- TECH:END -->
+ - [Best headphone and earbud deals for Amazon Prime Day 2023](https://www.theverge.com/23790054/amazon-prime-day-best-headphone-earbud-deals-2023)
+ - [101+ Best Prime Day Deals for Your Kitchen and Home &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2023-2/)
+ - [The best Prime Day 2023 phone deals](https://www.theverge.com/23790249/amazon-prime-day-best-phone-deals-2023)
+ - [The best deals of Amazon Prime Day: Final chance to save!](https://www.androidauthority.com/best-deals-amazon-prime-day-2023-3343779/)
+ - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

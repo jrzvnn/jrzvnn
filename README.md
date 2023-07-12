@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
- - 😝 [Holy heckin hell](http://9gag.com/gag/a2KO8vd)
+ - 😝 [Die b*tch](http://9gag.com/gag/anzGvW5)
+ - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
  - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 👉 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
+ - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
+ - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
 
 ---
 </div>

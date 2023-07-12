@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC appeals court decision permitting Microsoft to buy Activision Blizzard](https://www.theverge.com/2023/7/12/23791274/ftc-microsoft-activision-blizzard-appeal)
+ - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
+ - [64 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-2/)
+ - [FTC is appealing ruling that cleared Microsoft to buy Activision Blizzard](https://www.theverge.com/2023/7/12/23791274/ftc-microsoft-activision-blizzard-appeal)
  - [29 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
- - [The best Amazon Prime Day deals you can still get](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [Apple&#39;s Lisa Jackson talks racial equity and climate in new interview](https://appleinsider.com/articles/23/07/12/apples-lisa-jackson-talks-racial-equity-and-climate-in-new-interview?utm_medium=rss)
- - [57 Best Prime Day Home Office Deals &lpar;2023&rpar;: Laptops, Chairs, Webcams, and Standing Desks](https://www.wired.com/story/best-amazon-prime-day-home-office-laptop-deals-2023-2/)<!-- TECH:END -->
+ - [The best Amazon Prime Day deals you can still get](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

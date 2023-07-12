@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Critics say FTC Chair Lina Khan&#39;s take-it-to-the-courts strategy is flawed, ahead of a House Judiciary Committee hearing to &quot;examine mismanagement of the FTC&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230711/p52#a230711p52)
+ - [A California law firm launches a class-action suit against Google, alleging user data scraping sans consent for AI training, after a similar suit against OpenAI &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230711/p51#a230711p51)
+ - [101+ Best Prime Day Deals Our Reviewers Love](https://www.wired.com/story/best-amazon-prime-day-deals-2023/)
  - [Twitter&#39;s best defense against Threads may be to refocus on news and reactions from people you follow, leaving growth via algorithmic feeds to Threads &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230711/p50#a230711p50)
- - [Netflix announces new feature for victims of password-sharing crackdown](https://www.androidauthority.com/netflix-profile-transfer-password-sharing-3344526/)
- - [The Legend of Zelda: Tears of the Kingdom is on sale for Prime Day](https://www.theverge.com/2023/6/20/23745958/legend-of-zelda-tears-of-the-kingdom-deal-sale)
- - [Collective, a financial management service for freelancers offering bookkeeping, payroll, and tax tools, raised $50M, bringing its total funding to $82M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230711/p49#a230711p49)
- - [The best Amazon Prime Day deals you can get](https://www.theverge.com/23787479/amazon-prime-day-best-deals-tech-gadgets-laptops-tvs-earbuds-2023)<!-- TECH:END -->
+ - [Netflix announces new feature for victims of password-sharing crackdown](https://www.androidauthority.com/netflix-profile-transfer-password-sharing-3344526/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

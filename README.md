@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No cap: Google finna yeet mid chatbot focused on Gen Z](https://www.androidauthority.com/google-chatbot-gen-z-3344570/)
+ - [A look at the global freelancer labor force on sites like 99designs, some of whom are early generative AI adopters and are most at risk of being replaced by AI &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230712/p13#a230712p13)
  - [58 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-2/)
  - [At a classified briefing on July 11 with senators, US national security officials defended their deployment of AI; Chuck Schumer has arranged three AI briefings &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230712/p12#a230712p12)
- - [Apple TV+ announces September streaming for &#39;The Changeling&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-announces-september-streaming-for-the-changeling?utm_medium=rss)
- - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-1/)
- - [Prime deal: The top earbuds for Google fans get a drastic price cut](https://www.androidauthority.com/prime-day-pixel-buds-pro-deal-3344484/)<!-- TECH:END -->
+ - [Apple TV+ announces September streaming for &#39;The Changeling&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-announces-september-streaming-for-the-changeling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

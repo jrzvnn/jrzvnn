@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
- - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - 💣 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)
- - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
- - 👉 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)<!-- MEMES:END -->
+ - 😝 [Fair N Square](http://9gag.com/gag/aNwjV8w)
+ - 😝 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
+ - 💣 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)
+ - 😝 [The job failed successfully.](http://9gag.com/gag/aqeDz5P)
+ - 👉 [True](http://9gag.com/gag/aWGRbv2)<!-- MEMES:END -->
 
 ---
 </div>

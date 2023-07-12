@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KindOfLogic](http://9gag.com/gag/aYVRP2V)
- - 😝 [No pun intended](http://9gag.com/gag/ay2v658)
- - 💣 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 😝 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)
+ - 😝 [Remember the annoying eyebrow kid? Yeah that&#39;s him now...](http://9gag.com/gag/amAR1ey)
+ - 💣 [No pun intended](http://9gag.com/gag/ay2v658)
  - 😝 [I feel that the appointment was the light decision.](http://9gag.com/gag/aRERMX5)
- - 👉 [Two vans with the same number plates in London.](http://9gag.com/gag/adPROwB)<!-- MEMES:END -->
+ - 👉 [Maybe if the lead role was not a degenerate, it would&#39;ve gone better.](http://9gag.com/gag/a2KOw0Z)<!-- MEMES:END -->
 
 ---
 </div>

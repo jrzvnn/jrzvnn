@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 50+ Best Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2023-2/)
  - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
  - [The best Apple deals available for Amazon Prime Day 2023](https://www.theverge.com/23779160/amazon-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
  - [64 Best Prime Day Deals Under $100 &lpar;2023&rpar;: Routers, Blenders, and Headphones](https://www.wired.com/story/best-amazon-prime-day-deals-under-100-2023-2/)
- - [FTC is appealing ruling that cleared Microsoft to buy Activision Blizzard](https://www.theverge.com/2023/7/12/23791274/ftc-microsoft-activision-blizzard-appeal)
- - [29 Best Prime Day Apple Deals &lpar;2023&rpar;: iPad, Apple Watch, and MagSafe Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
+ - [FTC is appealing ruling that cleared Microsoft to buy Activision Blizzard](https://www.theverge.com/2023/7/12/23791274/ftc-microsoft-activision-blizzard-appeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

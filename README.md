@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KindOfLogic](http://9gag.com/gag/aYVRP2V)
- - 😝 [Why you always lying](http://9gag.com/gag/a7qn9mq)
- - 💣 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
+ - 😝 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
+ - 😝 [You\u2019ll chuckle when you get it.](http://9gag.com/gag/anzGvyo)
+ - 💣 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
+ - 👉 [Based dad](http://9gag.com/gag/aGE7AWK)<!-- MEMES:END -->
 
 ---
 </div>

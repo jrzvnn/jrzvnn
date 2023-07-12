@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temasek says it does not plan to invest in crypto companies due to regulatory uncertainty; the firm wrote down its $275M FTX investment to zero in November 2022 &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230712/p4#a230712p4)
- - [Sources: SoftBank-owned Arm is in talks to bring in Nvidia as an anchor investor while it presses ahead with plans for a New York IPO as soon as September &lpar;Financial Times&rpar;](http://www.techmeme.com/230712/p3#a230712p3)
- - [Here are all the new Nothing OS 2.0 features you need to know about](https://www.androidauthority.com/nothing-os-2-features-availability-3344528/)
- - [Microsoft says Chinese hackers gained access to US government email accounts and had access to some accounts for a month before the breach was detected &lpar;New York Times&rpar;](http://www.techmeme.com/230712/p2#a230712p2)
- - [As AWS, Azure, Google Cloud, and other cloud providers face pressure to meet AI demand, Dell, Qualcomm, and other on-premises hardware providers see an opening &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/230712/p1#a230712p1)<!-- TECH:END -->
+ - [Research firms say Huawei is plotting a return to the US 5G smartphone market by the end of 2023 using its own chip design tools and SMIC&#39;s chipmaking process &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/230712/p7#a230712p7)
+ - [Emails: Google employee no. 8 Urs Holzle will step back from management after 24 years, becoming an &quot;individual contributor&quot; amid a shakeup at Google Cloud &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230712/p6#a230712p6)
+ - [Samsung Galaxy S21 series gets July 2023 update with bumper security patch list](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [London-based Prolific, which stress tests AI models through its network of 120K human participants, raised &amp;pound;25M co-led by Partech and Oxford Science Enterprises &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230712/p5#a230712p5)
+ - [Temasek says it does not plan to invest in crypto companies due to regulatory uncertainty; the firm wrote down its $275M FTX investment to zero in November 2022 &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230712/p4#a230712p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

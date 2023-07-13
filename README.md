@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [66 Amazon Prime Day Deals You Can Still Get for Under $50     - CNET](https://www.cnet.com/deals/best-prime-day-2023-deals-under-50/#ftag=CAD590a51e)
  - [Your next Wi-Fi router could be a light bulb thanks to the new LiFi framework](https://appleinsider.com/articles/23/07/13/your-next-wi-fi-router-could-be-a-light-bulb-thanks-to-the-new-lifi-framework?utm_medium=rss)
  - [Microsoft names Aptos as the next default font for its Microsoft 365 productivity apps, replacing Calibri; Aptos was available for two years as Bierstadt &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230713/p36#a230713p36)
  - [The PS5 game that was ‘impossible without SSD’ doesn’t need one on PC](https://www.theverge.com/2023/7/13/22814964/ratchet-and-clank-pc-system-requirements-directstorage)
- - [Twitter starts paying verified creators who have had 5M+ impressions per month for three months a share of revenue from ads served in the replies to their posts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230713/p35#a230713p35)<!-- TECH:END -->
+ - [Twitter starts paying Twitter Blue creators who earned 5M+ impressions per month for three months a revenue cut from the ads beside the replies to their tweets &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230713/p35#a230713p35)
+ - [Elon Musk sues four unknown individuals for scraping Twitter’s data](https://www.theverge.com/2023/7/13/23794163/elon-musk-lawsuit-data-scraping-twitter-x-corp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -194,10 +194,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Miscalculated](http://9gag.com/gag/anzGD2q)
- - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 😝 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
+ - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 </div>

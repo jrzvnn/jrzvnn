@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
+ - 😝 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
+ - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
  - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
- - 💣 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
+ - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
 
 ---
 </div>

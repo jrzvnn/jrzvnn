@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI releases Stable Doodle, a sketch-to-image tool on ClipDrop that uses the Stable Diffusion model to generate &quot;visually pleasing&quot; artistic renditions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230713/p19#a230713p19)
- - [A writer details using AI startup Writer&#39;s LLM to generate text in his writing style and says most &quot;insights&quot; that the tool produced felt hollow or approximated &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/230713/p18#a230713p18)
- - [How to use macOS startup keyboard commands to boot or recover](https://appleinsider.com/articles/22/12/14/how-to-use-macos-startup-keyboard-commands-to-boot-or-recover?utm_medium=rss)
- - [Stop Trying to Make New Twitter Happen](https://www.wired.com/story/gadget-lab-podcast-604/)
- - [The Arctic Is a Freezer That’s Losing Power](https://www.wired.com/story/the-arctic-is-a-freezer-thats-losing-power/)<!-- TECH:END -->
+ - [The Ultra-Viral Rise of Prime, the Internet’s Favorite Sports Drink](https://www.wired.com/story/congo-prime-sports-drink/)
+ - [&#39;World of Warcraft&#39; Has a Lot to Teach the Twitter Clones](https://www.wired.com/story/twitter-threads-platforms-games/)
+ - [The SEC sues ex-Celsius Network CEO Alex Mashinsky and the company over selling unregistered crypto securities; a source says Mashinsky was arrested on Thursday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p21#a230713p21)
+ - [Analysis: total sales of 19 major IT companies in Taiwan, including Foxconn and TSMC, were down 19.8% YoY to ~$35B in June, the largest drop since at least 2013 &lpar;Yu Nakamura/Nikkei Asia&rpar;](http://www.techmeme.com/230713/p20#a230713p20)
+ - [Stability AI releases Stable Doodle, a sketch-to-image tool on ClipDrop that uses the Stable Diffusion model to generate &quot;visually pleasing&quot; artistic renditions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230713/p19#a230713p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

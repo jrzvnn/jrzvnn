@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the US Bureau of Industry and Security, which employs ~350, had a $140M+ budget in 2022, and is a key tool in cutting China off from advanced chips &lpar;Alex W. Palmer/New York Times&rpar;](http://www.techmeme.com/230713/p2#a230713p2)
  - [VPN by Google One will no longer place you in Texas if you live in New York](https://www.androidauthority.com/vpn-by-google-one-location-3344994/)
  - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)
  - [Experts in Taiwan worry China could influence TikTok content ahead of the presidential election in January 2024; officials banned TikTok from government devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p1#a230713p1)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
- - [Increasing speed limits can lead to more crashes and deaths, AAA finds](https://www.theverge.com/2023/7/13/23792845/speed-limit-analysis-aaa-increase-crash-injury-death)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

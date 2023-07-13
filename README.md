@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
- - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 😝 [And i can&#39;t see well right now](http://9gag.com/gag/aWGR9pZ)
+ - 💣 [Darker than black hole](http://9gag.com/gag/aNwjRNr)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Wild times back then](http://9gag.com/gag/aOxpRLy)<!-- MEMES:END -->
+ - 👉 [Scary situation](http://9gag.com/gag/aWGR2bZ)<!-- MEMES:END -->
 
 ---
 </div>

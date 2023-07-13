@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
  - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
- - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 💣 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)<!-- MEMES:END -->
+ - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple celebrates its highest number of Emmy nominations](https://appleinsider.com/articles/23/07/13/apple-celebrates-its-highest-number-of-emmy-nominations?utm_medium=rss)
+ - [Apple updates macOS Sonoma to bring iCloud Keychain passwords to non-Safari browsers for the first time, expanding on a Chrome extension &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230713/p12#a230713p12)
  - [Apple TV+ gains 54 Emmy awards, led once more by &#39;Ted Lasso&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-gains-51-emmy-awards-led-once-more-by-ted-lasso?utm_medium=rss)
  - [The Dark Secrets Buried at Red Cloud Boarding School](https://www.wired.com/story/marsha-small-red-cloud-boarding-school/)
- - [The Last of Us finally works on Steam Deck — with worse-than-PS3 level graphics](https://www.theverge.com/2023/7/13/23792964/the-last-of-us-steam-deck-port-performance-review)
- - [Apple brings Tap to Pay to UK iPhone users](https://appleinsider.com/articles/23/07/13/apple-brings-tap-to-pay-to-uk-iphone-users?utm_medium=rss)
- - [UNESCO calls for regulation of AI-based neurotechnology; research shows private investments in Neuralink and others reached $7.3B in 2020, up ~20x since 2010 &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230713/p11#a230713p11)<!-- TECH:END -->
+ - [The Last of Us finally works on Steam Deck — with worse-than-PS3 level graphics](https://www.theverge.com/2023/7/13/23792964/the-last-of-us-steam-deck-port-performance-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

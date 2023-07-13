@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honor unveils Magic V2, a foldable phone that measures 9.9mm thick when folded and weighs 231g, thinner and lighter than the Galaxy Z Fold 4 and the Pixel Fold &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230713/p34#a230713p34)
+ - [Hollywood studios fail to prevent actors strike during writers strike](https://appleinsider.com/articles/23/07/13/hollywood-studios-fail-to-prevent-actors-strike-during-writers-strike?utm_medium=rss)
  - [The FTC asks a federal court to temporarily halt Microsoft&#39;s Activision Blizzard acquisition until after an appeals court has ruled on a separate stay request &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/230713/p33#a230713p33)
  - [Hyundai enhances Ioniq 5 with new performance N variant](https://www.theverge.com/2023/7/13/23793801/hyundai-ioniq-5-n-performance-ev-announcement)
- - [Lime, phoenix, and a vertically shaking head are expected to become new emojis](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)
- - [SAG-AFTRA goes on strike at midnight tonight](https://www.theverge.com/2023/7/13/23792030/sag-aftra-strike-amptp)
- - [Sonic the Hedgehog Dashes Onto Netflix Games     - CNET](https://www.cnet.com/tech/gaming/sonic-the-hedgehog-dashes-onto-netflix-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lime, phoenix, and a vertically shaking head are expected to become new emojis](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

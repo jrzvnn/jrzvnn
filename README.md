@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Billie Eilish talks about the &#39;Barbie&#39; movie in an Apple Music special](https://appleinsider.com/articles/23/07/13/billie-eilish-talks-about-the-barbie-movie-in-an-apple-music-special?utm_medium=rss)
  - [Former Celsius CEO arrested on fraud charges as FTC lines up a $4.7 billion fine](https://www.theverge.com/2023/7/13/23793634/celsius-former-ceo-securities-fraud-sec-ftc-cftc-lawsuit)
  - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products?utm_medium=rss)
  - [Samsung could be testing ChatGPT integration for its own browser &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-internet-browser-chatgpt-integration-apk-teardown-3345116/)
- - [Telly begins shipping its free, ad-supported, dual-screen TV as part of its &quot;public beta program&quot;; users must submit demographic info, viewing habits, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230713/p23#a230713p23)
- - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telly begins shipping its free, ad-supported, dual-screen TV as part of its &quot;public beta program&quot;; users must submit demographic info, viewing habits, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230713/p23#a230713p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

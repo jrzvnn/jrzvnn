@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
- - 😝 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
- - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
+ - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
+ - 💣 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
+ - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 👉 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)<!-- MEMES:END -->
 
 ---
 </div>

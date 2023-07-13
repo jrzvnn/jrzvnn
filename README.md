@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 😝 [Painting chicken wire black](http://9gag.com/gag/adPRRzQ)
- - 💣 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
+ - 😝 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
  - 😝 [Goodbye](http://9gag.com/gag/a1POEvG)
- - 👉 [`Him` from Power Puff Girls cartoon. Devil was depicted as male dressing as female manipulating small girls with his creepy voice. 90s were spot on](http://9gag.com/gag/a4owwK6)<!-- MEMES:END -->
+ - 💣 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
+ - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
 
 ---
 </div>

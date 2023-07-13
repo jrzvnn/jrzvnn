@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PS5 game that was ‘impossible without SSD’ doesn’t need one on PC](https://www.theverge.com/2023/7/13/22814964/ratchet-and-clank-pc-system-requirements-directstorage)
+ - [Twitter starts paying verified creators who have had 5M+ impressions per month for three months a share of revenue from ads served in the replies to their posts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230713/p35#a230713p35)
  - [Elon Musk sues four unknown individuals for scraping Twitter’s data](https://www.theverge.com/2023/7/13/23794163/elon-musk-lawsuit-data-scraping-twitter-x-corp)
  - [Actors say Hollywood studios want their AI replicas — for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
- - [Twitter says it will start paying creators this week](https://www.theverge.com/2023/7/13/23794189/twitter-blue-monetization-ad-revenue-sharing-payments)
- - [108 new emoji expected to become part of iOS 17 -- eventually](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)
- - [Honor unveils Magic V2, a foldable phone that measures 9.9mm thick when folded and weighs 231g, thinner and lighter than the Galaxy Z Fold 4 and the Pixel Fold &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230713/p34#a230713p34)<!-- TECH:END -->
+ - [Twitter says it will start paying creators this week](https://www.theverge.com/2023/7/13/23794189/twitter-blue-monetization-ad-revenue-sharing-payments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

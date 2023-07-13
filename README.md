@@ -197,7 +197,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
  - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
+ - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
 
 ---
 </div>

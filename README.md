@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 2 review: Should you buy it?](https://www.androidauthority.com/nothing-phone-2-review-3344802/)
+ - [Google Assistant on Android Auto redesign makes it more like mobile version](https://www.androidauthority.com/google-assistant-android-auto-2-3345135/)
+ - [The AP signs a two-year deal with OpenAI, under which the AP will get access to OpenAI tech and license some of its archive dating back to 1985 for AI training &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230713/p24#a230713p24)
  - [Billie Eilish talks about the &#39;Barbie&#39; movie in an Apple Music special](https://appleinsider.com/articles/23/07/13/billie-eilish-talks-about-the-barbie-movie-in-an-apple-music-special?utm_medium=rss)
- - [Former Celsius CEO arrested on fraud charges as FTC lines up a $4.7 billion fine](https://www.theverge.com/2023/7/13/23793634/celsius-former-ceo-securities-fraud-sec-ftc-cftc-lawsuit)
- - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products?utm_medium=rss)
- - [Samsung could be testing ChatGPT integration for its own browser &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-internet-browser-chatgpt-integration-apk-teardown-3345116/)
- - [Telly begins shipping its free, ad-supported, dual-screen TV as part of its &quot;public beta program&quot;; users must submit demographic info, viewing habits, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230713/p23#a230713p23)<!-- TECH:END -->
+ - [Former Celsius CEO arrested on fraud charges as FTC lines up a $4.7 billion fine](https://www.theverge.com/2023/7/13/23793634/celsius-former-ceo-securities-fraud-sec-ftc-cftc-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

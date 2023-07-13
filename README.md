@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony plans to release its PS5 accessibility controller on December 6, with preorders starting July 21, for $90 in the US, &amp;pound;80 in the UK, and &amp;euro;90 in Europe &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230713/p28#a230713p28)
  - [A US judge says Ripple&#39;s institutional XRP sales constituted the unregistered sale of investment contracts and sends the case to trial to decide SEC claims &lpar;Tom Hals/Reuters&rpar;](http://www.techmeme.com/230713/p27#a230713p27)
  - [PlayStation’s accessibility controller goes on sale in December](https://www.theverge.com/2023/7/13/23793773/playstation-accessibility-controller-ps5-access)
  - [Nothing Phone &lpar;2&rpar; review: neat light strips, useful always-on display, and four-year software support, but only splash resistant and not certified on Verizon &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230713/p26#a230713p26)
- - [It’s official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
- - [Nothing Phone 2: all the updates on the road to a flashy new phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)<!-- TECH:END -->
+ - [It’s official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

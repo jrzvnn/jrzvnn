@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 😝 [`Him` from Power Puff Girls cartoon. Devil was depicted as male dressing as female manipulating small girls with his creepy voice. 90s were spot on](http://9gag.com/gag/a4owwK6)
- - 💣 [Goodbye](http://9gag.com/gag/a1POEvG)
- - 😝 [Darker than black hole](http://9gag.com/gag/aNwjRNr)
- - 👉 [Scary situation](http://9gag.com/gag/aWGR2bZ)<!-- MEMES:END -->
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
+ - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
 
 ---
 </div>

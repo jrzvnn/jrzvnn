@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
- - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 💣 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 😝 [`Him` from Power Puff Girls cartoon. Devil was depicted as male dressing as female manipulating small girls with his creepy voice. 90s were spot on](http://9gag.com/gag/a4owwK6)
- - 👉 [Goodbye](http://9gag.com/gag/a1POEvG)<!-- MEMES:END -->
+ - 😝 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
+ - 😝 [WTF with these Filipino telenovela plot twists.](http://9gag.com/gag/aEqZOwM)
+ - 💣 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 👉 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)<!-- MEMES:END -->
 
 ---
 </div>

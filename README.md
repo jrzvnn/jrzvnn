@@ -194,9 +194,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - 💣 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
  - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
+ - 💣 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
  - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
 
 ---

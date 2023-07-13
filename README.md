@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else agree with this?](http://9gag.com/gag/a2KOG3e)
- - 😝 [Nature, you scare me](http://9gag.com/gag/aMEqWPW)
- - 💣 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Show must go on!](http://9gag.com/gag/a9qDNjW)<!-- MEMES:END -->
+ - 👉 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)<!-- MEMES:END -->
 
 ---
 </div>

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA opens an in-depth investigation into Adobe&#39;s $20B Figma deal after Adobe would not offer any remedies to CMA concerns, setting a December 27 deadline &lpar;Reuters&rpar;](http://www.techmeme.com/230713/p17#a230713p17)
- - [EA Sports FC 24: All the latest news on EA’s first post-FIFA soccer title](https://www.theverge.com/2023/7/13/23793477/ea-sports-fc-24-fifa-association-football-soccer)
- - [Huawei reports $560M in revenue from patent licensing deals in 2023, its first disclosure of such income, and spent 25% of its 2022 sales on R&amp;D, or ~$22.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p16#a230713p16)
- - [Forget folding, Apple really wants iPhones with rollable screens](https://appleinsider.com/articles/23/07/13/forget-folding-apple-really-wants-iphones-with-rollable-screens?utm_medium=rss)
- - [Telegram merchants can now accept crypto payments via TON-based Wallet in tether, bitcoin, and toncoin, expanding on support for transfers between users &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230713/p15#a230713p15)<!-- TECH:END -->
+ - [Stability AI releases Stable Doodle, a sketch-to-image tool on ClipDrop that uses the Stable Diffusion model to generate &quot;visually pleasing&quot; artistic renditions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230713/p19#a230713p19)
+ - [A writer details using AI startup Writer&#39;s LLM to generate text in his writing style and says most &quot;insights&quot; that the tool produced felt hollow or approximated &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/230713/p18#a230713p18)
+ - [How to use macOS startup keyboard commands to boot or recover](https://appleinsider.com/articles/22/12/14/how-to-use-macos-startup-keyboard-commands-to-boot-or-recover?utm_medium=rss)
+ - [Stop Trying to Make New Twitter Happen](https://www.wired.com/story/gadget-lab-podcast-604/)
+ - [The Arctic Is a Freezer That’s Losing Power](https://www.wired.com/story/the-arctic-is-a-freezer-thats-losing-power/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

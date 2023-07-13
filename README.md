@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Tab S9 FE Plus leaked renders showcase Samsung’s cheaper tablet](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-leaked-renders-3345100/)
+ - [Twitter asks a US federal court to terminate an FTC order that puts restrictions on its data security practices and to stay a deposition of Elon Musk &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230713/p25#a230713p25)
  - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
  - [Nothing Phone 2 review: Should you buy it?](https://www.androidauthority.com/nothing-phone-2-review-3344802/)
- - [Google Assistant on Android Auto redesign makes it more like mobile version](https://www.androidauthority.com/google-assistant-android-auto-2-3345135/)
- - [Nothing Phone 2 review: the vibes abide](https://www.theverge.com/23792961/nothing-phone-2-review-glyph-screen-battery-camera)
- - [The AP signs a two-year deal with OpenAI, under which the AP will get access to OpenAI tech and license some of its archive dating back to 1985 for AI training &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230713/p24#a230713p24)<!-- TECH:END -->
+ - [Google Assistant on Android Auto redesign makes it more like mobile version](https://www.androidauthority.com/google-assistant-android-auto-2-3345135/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
- - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
- - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
+ - 😝 [Anyone else agree with this?](http://9gag.com/gag/a2KOG3e)
+ - 😝 [Nature, you scare me](http://9gag.com/gag/aMEqWPW)
+ - 💣 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
+ - 👉 [Show must go on!](http://9gag.com/gag/a9qDNjW)<!-- MEMES:END -->
 
 ---
 </div>

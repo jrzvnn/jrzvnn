@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
  - [The best Prime Day deals you can still grab before midnight](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
  - [Intel&#39;s Habana launched its Gaudi 2 AI processor in China on July 11 to be used by Chinese cloud providers like Inspur, despite the US&#39; export controls &lpar;DigiTimes&rpar;](http://www.techmeme.com/230712/p40#a230712p40)
  - [GitHub launches support for passkeys in public beta, letting users who opt in upgrade from security keys to passkeys, and use those in place of password and 2FA &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230712/p39#a230712p39)
- - [Best laptop and computer deals during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [Cloud security startup Orca sues Israeli competitor Wiz in the US for allegedly illegally copying patented software that monitors data stored on cloud servers &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230712/p38#a230712p38)<!-- TECH:END -->
+ - [Best laptop and computer deals during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

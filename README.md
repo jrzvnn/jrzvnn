@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple brings Tap to Pay to UK iPhone users](https://appleinsider.com/articles/23/07/13/apple-brings-tap-to-pay-to-uk-iphone-users?utm_medium=rss)
+ - [UNESCO calls for regulation of AI-based neurotechnology; research shows private investments in Neuralink and others reached $7.3B in 2020, up ~20x since 2010 &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230713/p11#a230713p11)
  - [Commission-free investing platform Public.com launches in the UK, the Robinhood rival&#39;s first expansion outside the US, letting investors trade 5K+ US stocks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p10#a230713p10)
  - [Apple launches Tap to Pay on iPhone in the UK, starting with Revolut and Tyl by NatWest as the first platforms, following the US, Australia, and Taiwan &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230713/p9#a230713p9)
- - [ASUS confirms ROG Ally microSD reader defect: Everything you need to know](https://www.androidauthority.com/asus-rog-ally-microsd-card-reader-issue-3345027/)
- - [JD.com unveils ChatRhino LLM for enterprise use and plans to introduce the tool internally in ecommerce and other areas before expanding to clients in H1 2024 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230713/p8#a230713p8)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ASUS confirms ROG Ally microSD reader defect: Everything you need to know](https://www.androidauthority.com/asus-rog-ally-microsd-card-reader-issue-3345027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

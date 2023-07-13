@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone &lpar;2&rpar; Review: Flashy, Grayscale Fun](https://www.wired.com/review/nothing-phone-2/)
- - [Elon Musk takes legal action against AI data scrapers impacting Twitter](https://appleinsider.com/articles/23/07/13/elon-musk-takes-legal-action-against-ai-data-scrapers-impacting-twitter?utm_medium=rss)
- - [Prime Day deals on AirTag, Apple Watch, AirPods, Macs &amp; software have been extended, save up to $2,000](https://appleinsider.com/articles/23/07/13/prime-day-deals-on-airtag-apple-watch-airpods-macs-software-have-been-extended-save-up-to-2000?utm_medium=rss)
- - [OpenAI will use Associated Press news stories to train its models](https://www.theverge.com/2023/7/13/23793810/openai-associated-press-ai-models)
- - [The 512GB Galaxy S23 Ultra is cheaper than on Prime Day at $400 off](https://www.androidauthority.com/512gb-samsung-galaxy-s23-ultra-deal-3345186/)<!-- TECH:END -->
+ - [Apple&#39;s UK stores earned a record $1.9 billion after COVID](https://appleinsider.com/articles/23/07/13/apples-uk-stores-earned-a-record-19-billion-after-covid?utm_medium=rss)
+ - [OnePlus’s first foldable phone has its launch date leaked](https://www.androidauthority.com/opeplus-open-leaked-launch-date-3345182/)
+ - [Ripple’s XRP token was a security sometimes, a judge rules](https://www.theverge.com/2023/7/13/23793815/ripple-xrp-howey-sec-token-security)
+ - [Here are a handful of Amazon Prime Day deals you can still get for under $50](https://www.theverge.com/23779193/amazon-prime-day-best-cheap-deals-under-50-2023)
+ - [Here’s your first look at EA Sports FC 24, which launches in September](https://www.theverge.com/23784671/ea-sports-fc-24-release-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

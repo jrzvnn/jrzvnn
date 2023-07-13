@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Celsius CEO arrested on fraud charges as FTC lines up a $4.7 billion fine](https://www.theverge.com/2023/7/13/23793634/celsius-former-ceo-securities-fraud-sec-ftc-cftc-lawsuit)
+ - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products?utm_medium=rss)
+ - [Samsung could be testing ChatGPT integration for its own browser &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-internet-browser-chatgpt-integration-apk-teardown-3345116/)
  - [Telly begins shipping its free, ad-supported, dual-screen TV as part of its &quot;public beta program&quot;; users must submit demographic info, viewing habits, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230713/p23#a230713p23)
- - [macOS Sonoma lets Chrome use passwords stored in iCloud](https://www.theverge.com/2023/7/13/23793532/apple-icloud-passwords-chrome-extension-mac-sonoma-beta)
- - [Setapp introduces a ChatGPT assistant &amp; other AI tools into its service](https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service?utm_medium=rss)
- - [Congress is trying to stop discriminatory algorithms again](https://www.theverge.com/2023/7/13/23792992/congress-discriminatory-algorithms-ban-law-transparency)
- - [Forget New Twitter—Retro Is a New Instagram](https://www.wired.com/story/retro-app-launch/)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC asks a federal court to temporarily halt Microsoft&#39;s Activision Blizzard acquisition until after an appeals court has ruled on a separate stay request &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/230713/p33#a230713p33)
  - [Hyundai enhances Ioniq 5 with new performance N variant](https://www.theverge.com/2023/7/13/23793801/hyundai-ioniq-5-n-performance-ev-announcement)
  - [Lime, phoenix, and a vertically shaking head are expected to become new emojis](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)
  - [SAG-AFTRA goes on strike at midnight tonight](https://www.theverge.com/2023/7/13/23792030/sag-aftra-strike-amptp)
- - [The best Amazon Prime Day deals you can still pick up for $25 or less](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
- - [The 17 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Sonic the Hedgehog Dashes Onto Netflix Games     - CNET](https://www.cnet.com/tech/gaming/sonic-the-hedgehog-dashes-onto-netflix-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

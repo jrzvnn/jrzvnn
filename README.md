@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google Bard gets bevy of new features as it opens up to more regions](https://www.androidauthority.com/google-bard-expansion-3344845/)
- - [Now Google’s Bard AI chatbot and talk and respond to visual prompts](https://www.theverge.com/2023/7/13/23793014/google-bard-ai-chatbot-talk-spoken-responses-respond-visual-prompts-eu)
+ - [Now Google’s Bard AI chatbot can talk and respond to visual prompts](https://www.theverge.com/2023/7/13/23793014/google-bard-ai-chatbot-talk-spoken-responses-respond-visual-prompts-eu)
  - [Apple adds bilingual support to Siri, starting with Indic languages like Hindi and Telugu; Google Assistant got multilingual support in 2018 and Alexa in 2019 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230713/p5#a230713p5)
- - [PE firm CapVest agrees to acquire UK-based Kerridge, which provides ERP software to clients globally, from Accel-KKR; sources say the deal is valued at over $1B &lpar;Dinesh Nair/Bloomberg&rpar;](http://www.techmeme.com/230713/p4#a230713p4)
- - [Doctors on Bikes Prevented a Humanitarian Catastrophe in Ukraine](https://www.wired.com/story/ukraine-hiv-aids-medications-doctors-on-bikes/)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
+ - [PE firm CapVest agrees to acquire UK-based Kerridge, which provides ERP software to clients globally, from Accel-KKR; sources say the deal is valued at over $1B &lpar;Dinesh Nair/Bloomberg&rpar;](http://www.techmeme.com/230713/p4#a230713p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

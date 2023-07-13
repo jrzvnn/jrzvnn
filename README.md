@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 😝 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 💣 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
  - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
- - 😝 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
+ - 👉 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)<!-- MEMES:END -->
 
 ---
 </div>

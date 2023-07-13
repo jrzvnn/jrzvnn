@@ -188,7 +188,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The 512GB Galaxy S23 Ultra is cheaper than on Prime Day at $400 off](https://www.androidauthority.com/512gb-samsung-galaxy-s23-ultra-deal-3345186/)
  - [The Knight First Amendment Institute at Columbia University challenges a ban on TikTok on state devices in Texas, saying the law hurts research and teaching &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230713/p29#a230713p29)
  - [Sony plans to release its PS5 accessibility controller on December 6, with preorders starting July 21, for $90 in the US, &amp;pound;80 in the UK, and &amp;euro;90 in Europe &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230713/p28#a230713p28)
- - [A US judge says Ripple&#39;s institutional XRP sales constituted the unregistered sale of investment contracts and sends the case to trial to decide SEC claims &lpar;Tom Hals/Reuters&rpar;](http://www.techmeme.com/230713/p27#a230713p27)<!-- TECH:END -->
+ - [Best DJI Drone Deals: Up to $400 Off Our Favorite Drones of 2023     - CNET](https://www.cnet.com/deals/best-dji-drone-deals-where-to-find-savings-on-our-favorite-drones-of-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft names Aptos as the next default font for its Microsoft 365 productivity apps, replacing Calibri; Aptos was available for two years as Bierstadt &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230713/p36#a230713p36)
  - [The PS5 game that was ‘impossible without SSD’ doesn’t need one on PC](https://www.theverge.com/2023/7/13/22814964/ratchet-and-clank-pc-system-requirements-directstorage)
  - [Twitter starts paying verified creators who have had 5M+ impressions per month for three months a share of revenue from ads served in the replies to their posts &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230713/p35#a230713p35)
  - [Elon Musk sues four unknown individuals for scraping Twitter’s data](https://www.theverge.com/2023/7/13/23794163/elon-musk-lawsuit-data-scraping-twitter-x-corp)
- - [Actors say Hollywood studios want their AI replicas — for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
- - [Twitter says it will start paying creators this week](https://www.theverge.com/2023/7/13/23794189/twitter-blue-monetization-ad-revenue-sharing-payments)<!-- TECH:END -->
+ - [Actors say Hollywood studios want their AI replicas — for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

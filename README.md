@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
- - 😝 [I&#39;ve achieved the dream. Even gonna get a cow...](http://9gag.com/gag/a9qDBwo)
- - 💣 [He pulled a sneaky one on the weather forecast](http://9gag.com/gag/amARMGX)
+ - 😝 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
+ - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [When boss came back and find out, he went mad as f**k, threatening to fire everyone... I just don&#39;t get it. We are more productive without meetings, earn more money, boss gets more. So why the f**k does he want them. To feel relevant? No one cares about that anyway...](http://9gag.com/gag/aQEyVre)<!-- MEMES:END -->
+ - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
 
 ---
 </div>

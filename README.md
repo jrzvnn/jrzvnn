@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
+ - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)<!-- MEMES:END -->
+ - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
 
 ---
 </div>

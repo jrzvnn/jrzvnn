@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan has some nice houses](http://9gag.com/gag/aWGRv7d)
  - 😝 [Come on guys, I know you see it too!](http://9gag.com/gag/ay2vYvb)
- - 💣 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)
- - 😝 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
- - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
+ - 😝 [Scary situation](http://9gag.com/gag/aWGR2bZ)
+ - 💣 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
+ - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
+ - 👉 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)<!-- MEMES:END -->
 
 ---
 </div>

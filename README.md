@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Burglary victim tracks stolen possessions with AirTag, culprit apprehended](https://appleinsider.com/articles/23/07/13/burglary-victim-tracks-stolen-possessions-with-airtag-culprit-apprehended?utm_medium=rss)
+ - [Get a pristine-condition iPhone 14 Plus for just $730](https://www.androidauthority.com/iphone-14-plus-deal-3345198/)
  - [FTC investigating OpenAI on data collection and publication of false information](https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information)
  - [At a congressional hearing, FTC&#39;s Lina Khan defends herself against attacks from Republicans over alleged ethics violation and aggressive antitrust enforcement &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230713/p30#a230713p30)
- - [Deal Expired: If You Love Crocs, Prime Day Has Massive Deals Calling Your Name     - CNET](https://www.cnet.com/deals/if-you-love-crocs-prime-day-has-massive-deals-calling-your-name/#ftag=CAD590a51e)
- - [Apple&#39;s UK stores earned a record $1.9 billion after COVID](https://appleinsider.com/articles/23/07/13/apples-uk-stores-earned-a-record-19-billion-after-covid?utm_medium=rss)
- - [OnePlus’s first foldable phone has its launch date leaked](https://www.androidauthority.com/opeplus-open-leaked-launch-date-3345182/)<!-- TECH:END -->
+ - [Deal Expired: If You Love Crocs, Prime Day Has Massive Deals Calling Your Name     - CNET](https://www.cnet.com/deals/if-you-love-crocs-prime-day-has-massive-deals-calling-your-name/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - 😝 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
- - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
  - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
- - 👉 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)<!-- MEMES:END -->
+ - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 💣 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 👉 [Miscalculated](http://9gag.com/gag/anzGD2q)<!-- MEMES:END -->
 
 ---
 </div>

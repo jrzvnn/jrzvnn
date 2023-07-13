@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [FTC investigating OpenAI on data collection and publication of false information](https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information)
  - [At a congressional hearing, FTC&#39;s Lina Khan defends herself against attacks from Republicans over alleged ethics violation and aggressive antitrust enforcement &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230713/p30#a230713p30)
+ - [Deal Expired: If You Love Crocs, Prime Day Has Massive Deals Calling Your Name     - CNET](https://www.cnet.com/deals/if-you-love-crocs-prime-day-has-massive-deals-calling-your-name/#ftag=CAD590a51e)
  - [Apple&#39;s UK stores earned a record $1.9 billion after COVID](https://appleinsider.com/articles/23/07/13/apples-uk-stores-earned-a-record-19-billion-after-covid?utm_medium=rss)
- - [OnePlus’s first foldable phone has its launch date leaked](https://www.androidauthority.com/opeplus-open-leaked-launch-date-3345182/)
- - [Ripple’s XRP token was a security sometimes, a judge rules](https://www.theverge.com/2023/7/13/23793815/ripple-xrp-howey-sec-token-security)<!-- TECH:END -->
+ - [OnePlus’s first foldable phone has its launch date leaked](https://www.androidauthority.com/opeplus-open-leaked-launch-date-3345182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

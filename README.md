@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)
+ - [Experts in Taiwan worry China could influence TikTok content ahead of the presidential election in January 2024; officials banned TikTok from government devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p1#a230713p1)
  - [Increasing speed limits can lead to more crashes and deaths, AAA finds](https://www.theverge.com/2023/7/13/23792845/speed-limit-analysis-aaa-increase-crash-injury-death)
  - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
- - [The best Prime Day deals that are still available](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)
- - [Intel&#39;s Habana launched its Gaudi 2 AI processor in China on July 11 to be used by Chinese cloud providers like Inspur, despite the US&#39; export controls &lpar;DigiTimes&rpar;](http://www.techmeme.com/230712/p40#a230712p40)
- - [GitHub launches support for passkeys in public beta, letting users who opt in upgrade from security keys to passkeys, and use those in place of password and 2FA &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230712/p39#a230712p39)<!-- TECH:END -->
+ - [The best Prime Day deals that are still available](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

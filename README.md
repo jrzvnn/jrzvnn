@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IAM CORE files another unfair labor practice charge against Apple with NLRB](https://appleinsider.com/articles/23/07/12/iam-core-files-another-unfair-labor-practice-charge-against-apple-with-nlrb?utm_medium=rss)
+ - [Some VCs reflect on the industry slowdown; QED Investors co-founder Frank Rotman estimates that up to 80% of VC firms are in strategically challenged positions &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/230713/p14#a230713p14)
  - [Document: the FTC sends OpenAI a 20-page demand for records on the risks of its AI models and a March 2023 security incident over payment-related information &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230713/p13#a230713p13)
  - [Apple celebrates its highest number of Emmy nominations](https://appleinsider.com/articles/23/07/13/apple-celebrates-its-highest-number-of-emmy-nominations?utm_medium=rss)
- - [Apple updates macOS Sonoma to bring iCloud Keychain passwords to non-Safari browsers for the first time, expanding on a Chrome extension &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230713/p12#a230713p12)
- - [Apple TV+ gains 54 Emmy awards, led once more by &#39;Ted Lasso&#39;](https://appleinsider.com/articles/23/07/12/apple-tv-gains-51-emmy-awards-led-once-more-by-ted-lasso?utm_medium=rss)
- - [The Dark Secrets Buried at Red Cloud Boarding School](https://www.wired.com/story/marsha-small-red-cloud-boarding-school/)<!-- TECH:END -->
+ - [Apple updates macOS Sonoma to bring iCloud Keychain passwords to non-Safari browsers for the first time, expanding on a Chrome extension &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230713/p12#a230713p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

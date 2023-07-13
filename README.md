@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow.. the Holy Spirit really possessed these women..](http://9gag.com/gag/aVbRm92)
- - 😝 [One way or another](http://9gag.com/gag/aeQRR8q)
+ - 😝 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
  - 💣 [Someone isn\u2019t thinking this through](http://9gag.com/gag/a04OE3O)
- - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 👉 [The &#39;Mystery&#39; watch made by Master Watchmaker and AHCI member Konstantin Chaykin... Can anyone explain it&#39;s working...](http://9gag.com/gag/arm8Zd7)<!-- MEMES:END -->
+ - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 👉 [In Case You Didn\u2019t Know](http://9gag.com/gag/axombxW)<!-- MEMES:END -->
 
 ---
 </div>

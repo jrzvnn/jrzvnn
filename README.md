@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Logic Pro and Final Cut Pro for iPad are no longer available for users in Russia](https://appleinsider.com/articles/23/07/13/logic-pro-and-final-cut-pro-for-ipad-are-no-longer-available-for-users-in-russia?utm_medium=rss)
  - [Adobe’s $20 billion Figma bid is under threat from UK antitrust regulators](https://www.theverge.com/2023/7/13/23793969/adobe-figma-merger-acquisition-uk-cma-regulator-investigation)
- - [Electric Bike Prime Day Deals That are Still Available     - CNET](https://www.cnet.com/roadshow/news/best-deals-on-electric-bikes/#ftag=CAD590a51e)
- - [Best MacBook Deals: Save $249 on M1 MacBook Air, $150 on M2 MacBook Air and More     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Adobe: US shoppers spent $12.7B during Amazon&#39;s Prime Day, up 6.1% YoY but below estimates of 9.5% growth; an increasing share of customers used BNPL services &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p32#a230713p32)<!-- TECH:END -->
+ - [Adobe: US shoppers spent $12.7B during Amazon&#39;s Prime Day, up 6.1% YoY but below estimates of 9.5% growth; an increasing share of customers used BNPL services &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p32#a230713p32)
+ - [The Xbox Series X is on sale for $50 off — an all-time low](https://www.theverge.com/2023/7/13/23793844/microsoft-xbox-series-x-amazon-prime-day-deal-sale)
+ - [A Stability AI co-founder sues the startup over being duped into selling his 15% stake for $100 to CEO Emad Mostaque months before Stability hit a $1B valuation &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230713/p31#a230713p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

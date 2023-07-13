@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ultra-Viral Rise of Prime, the Internet’s Favorite Sports Drink](https://www.wired.com/story/congo-prime-sports-drink/)
- - [&#39;World of Warcraft&#39; Has a Lot to Teach the Twitter Clones](https://www.wired.com/story/twitter-threads-platforms-games/)
- - [The SEC sues ex-Celsius Network CEO Alex Mashinsky and the company over selling unregistered crypto securities; a source says Mashinsky was arrested on Thursday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p21#a230713p21)
- - [Analysis: total sales of 19 major IT companies in Taiwan, including Foxconn and TSMC, were down 19.8% YoY to ~$35B in June, the largest drop since at least 2013 &lpar;Yu Nakamura/Nikkei Asia&rpar;](http://www.techmeme.com/230713/p20#a230713p20)
- - [Stability AI releases Stable Doodle, a sketch-to-image tool on ClipDrop that uses the Stable Diffusion model to generate &quot;visually pleasing&quot; artistic renditions &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230713/p19#a230713p19)<!-- TECH:END -->
+ - [Telly starts shipping its free ad-supported 55-inch TVs](https://www.theverge.com/2023/7/13/23793525/telly-free-4k-tv-advertising-dual-screen)
+ - [How Apple expanded into sports since 2022, starting with the MLB, leading to an unusual deal to bring Messi to the MLS and share new subscriber revenue with him &lpar;Adam Crafton/The Athletic&rpar;](http://www.techmeme.com/230713/p22#a230713p22)
+ - [Apple&#39;s vision for TV means never having to search for a remote, because anything will do](https://appleinsider.com/articles/23/07/13/apples-vision-for-tv-means-never-having-to-search-for-a-remote-because-anything-will-do?utm_medium=rss)
+ - [95 Best Prime Day Deals Still Going Strong &lpar;2023&rpar;: Phones, Laptops, Espresso Machines](https://www.wired.com/story/best-amazon-prime-day-leftover-deals-2023/)
+ - [The Ultra-Viral Rise of Prime, the Internet’s Favorite Sports Drink](https://www.wired.com/story/congo-prime-sports-drink/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

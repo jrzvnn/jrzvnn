@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
  - 😝 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
- - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 💣 [Wild times back then](http://9gag.com/gag/aOxpRLy)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
+ - 👉 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
 
 ---
 </div>

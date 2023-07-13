@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VPN by Google One will no longer place you in Texas if you live in New York](https://www.androidauthority.com/vpn-by-google-one-location-3344994/)
  - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)
  - [Experts in Taiwan worry China could influence TikTok content ahead of the presidential election in January 2024; officials banned TikTok from government devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p1#a230713p1)
  - [Increasing speed limits can lead to more crashes and deaths, AAA finds](https://www.theverge.com/2023/7/13/23792845/speed-limit-analysis-aaa-increase-crash-injury-death)
- - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)
- - [The best Prime Day deals that are still available](https://www.theverge.com/23791921/amazon-prime-day-best-deals-sales-tech-gadgets-headphones-gaming-2023)<!-- TECH:END -->
+ - [The 125+ Best Prime Day Deals to Snag Before Midnight](https://www.wired.com/story/best-amazon-prime-day-deals-2023-final-hours-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

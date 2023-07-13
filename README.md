@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vizio D-Series Full HD Smart TV review: Fast performance at a budget-friendly price](https://appleinsider.com/articles/23/07/13/vizio-d-series-full-hd-smart-tv-review-fast-performance-at-a-budget-friendly-price?utm_medium=rss)
  - [Reddit is getting rid of its Gold awards system](https://www.theverge.com/2023/7/13/23794403/reddit-gold-awards-coins-sunset)
  - [India&#39;s hefty tax on online games may kneecap an entire industry](https://appleinsider.com/articles/23/07/13/indias-hefty-tax-on-online-games-may-kneecap-an-entire-industry?utm_medium=rss)
  - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)
- - [After the court ruling, Coinbase, Kraken, and Bitstamp resume XRP trading on their US exchanges, while Gemini is exploring the listing of the token &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230713/p38#a230713p38)
- - [YouTube blocking ad blockers: What you need to know](https://www.androidauthority.com/youtube-blocking-ad-blockers-3345242/)<!-- TECH:END -->
+ - [After the court ruling, Coinbase, Kraken, and Bitstamp resume XRP trading on their US exchanges, while Gemini is exploring the listing of the token &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230713/p38#a230713p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

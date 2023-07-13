@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget New Twitter—Retro Is a New Instagram](https://www.wired.com/story/retro-app-launch/)
+ - [The Witcher’s new trailer teases a big, bloody season 3 finale](https://www.theverge.com/23793549/the-witcher-season-3-finale-trailer)
+ - [Cowboy releases cheeky app to keep VanMoof e-bike riders on the road](https://www.theverge.com/2023/7/13/23793591/cowboy-vanmoof-key-app-download-ios-android)
  - [Apple&#39;s macOS saw a dramatic upturn in 2022 worldwide](https://appleinsider.com/articles/23/07/13/apples-macos-saw-a-dramatic-upturn-in-2022-worldwide?utm_medium=rss)
- - [Deals: $1,400 off M1 Max MacBook Pro, iMacs up to 30% off, M2 MacBook Air $929, iPhone 14 Plus up to $170 off, more](https://appleinsider.com/articles/23/07/13/deals-1400-off-m1-max-macbook-pro-imacs-up-to-30-off-m2-macbook-air-929-iphone-14-plus-up-to-170-off-more?utm_medium=rss)
- - [Telly starts shipping its free ad-supported 55-inch TVs](https://www.theverge.com/2023/7/13/23793525/telly-free-4k-tv-advertising-dual-screen)
- - [How Apple expanded into sports since 2022, starting with the MLB, leading to an unusual deal to bring Messi to the MLS and share new subscriber revenue with him &lpar;Adam Crafton/The Athletic&rpar;](http://www.techmeme.com/230713/p22#a230713p22)
- - [Apple&#39;s vision for TV means never having to search for a remote, because anything will do](https://appleinsider.com/articles/23/07/13/apples-vision-for-tv-means-never-having-to-search-for-a-remote-because-anything-will-do?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: $1,400 off M1 Max MacBook Pro, iMacs up to 30% off, M2 MacBook Air $929, iPhone 14 Plus up to $170 off, more](https://appleinsider.com/articles/23/07/13/deals-1400-off-m1-max-macbook-pro-imacs-up-to-30-off-m2-macbook-air-929-iphone-14-plus-up-to-170-off-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

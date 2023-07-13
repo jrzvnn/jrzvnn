@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Setapp introduces a ChatGPT assistant &amp; other AI tools into its service](https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service?utm_medium=rss)
+ - [Congress is trying to stop discriminatory algorithms again](https://www.theverge.com/2023/7/13/23792992/congress-discriminatory-algorithms-ban-law-transparency)
  - [Forget New Twitter—Retro Is a New Instagram](https://www.wired.com/story/retro-app-launch/)
  - [The Witcher’s new trailer teases a big, bloody season 3 finale](https://www.theverge.com/23793549/the-witcher-season-3-finale-trailer)
- - [Cowboy releases cheeky app to keep VanMoof e-bike riders on the road](https://www.theverge.com/2023/7/13/23793591/cowboy-vanmoof-key-app-download-ios-android)
- - [Apple&#39;s macOS saw a dramatic upturn in 2022 worldwide](https://appleinsider.com/articles/23/07/13/apples-macos-saw-a-dramatic-upturn-in-2022-worldwide?utm_medium=rss)<!-- TECH:END -->
+ - [Cowboy releases cheeky app to keep VanMoof e-bike riders on the road](https://www.theverge.com/2023/7/13/23793591/cowboy-vanmoof-key-app-download-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

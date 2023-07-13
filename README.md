@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe: US shoppers spent $12.7B during Amazon&#39;s Prime Day, up 6.1% YoY but below estimates of 9.5% growth; an increasing share of customers used BNPL services &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p32#a230713p32)
  - [The Xbox Series X is on sale for $50 off — an all-time low](https://www.theverge.com/2023/7/13/23793844/microsoft-xbox-series-x-amazon-prime-day-deal-sale)
  - [A Stability AI co-founder sues the startup over being duped into selling his 15% stake for $100 to CEO Emad Mostaque months before Stability hit a $1B valuation &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230713/p31#a230713p31)
  - [Weird Weather Is Making Air Travel Even Worse](https://www.wired.com/story/weird-weather-is-making-air-travel-even-worse/)
- - [Meet Microsoft Office’s new default font: Aptos](https://www.theverge.com/2023/7/13/23793428/microsoft-aptos-new-default-font-office-365)
- - [Burglary victim tracks stolen possessions with AirTag, culprit apprehended](https://appleinsider.com/articles/23/07/13/burglary-victim-tracks-stolen-possessions-with-airtag-culprit-apprehended?utm_medium=rss)<!-- TECH:END -->
+ - [Meet Microsoft Office’s new default font: Aptos](https://www.theverge.com/2023/7/13/23793428/microsoft-aptos-new-default-font-office-365)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

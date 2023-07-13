@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Burglary victim tracks stolen possessions with AirTag, culprit apprehended](https://appleinsider.com/articles/23/07/13/burglary-victim-tracks-stolen-possessions-with-airtag-culprit-apprehended?utm_medium=rss)
- - [Get a pristine-condition iPhone 14 Plus for just $730](https://www.androidauthority.com/iphone-14-plus-deal-3345198/)
- - [FTC investigating OpenAI on data collection and publication of false information](https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information)
- - [At a congressional hearing, FTC&#39;s Lina Khan defends herself against attacks from Republicans over alleged ethics violation and aggressive antitrust enforcement &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230713/p30#a230713p30)
- - [Deal Expired: If You Love Crocs, Prime Day Has Massive Deals Calling Your Name     - CNET](https://www.cnet.com/deals/if-you-love-crocs-prime-day-has-massive-deals-calling-your-name/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Xbox Series X is on sale for $50 off — an all-time low](https://www.theverge.com/2023/7/13/23793844/microsoft-xbox-series-x-amazon-prime-day-deal-sale)
+ - [A Stability AI co-founder sues the startup over being duped into selling his 15% stake for $100 to CEO Emad Mostaque months before Stability hit a $1B valuation &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230713/p31#a230713p31)
+ - [Weird Weather Is Making Air Travel Even Worse](https://www.wired.com/story/weird-weather-is-making-air-travel-even-worse/)
+ - [Meet Microsoft Office’s new default font: Aptos](https://www.theverge.com/2023/7/13/23793428/microsoft-aptos-new-default-font-office-365)
+ - [Burglary victim tracks stolen possessions with AirTag, culprit apprehended](https://appleinsider.com/articles/23/07/13/burglary-victim-tracks-stolen-possessions-with-airtag-culprit-apprehended?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

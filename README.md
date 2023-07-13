@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
- - 😝 [And i can&#39;t see well right now](http://9gag.com/gag/aWGR9pZ)
- - 💣 [Darker than black hole](http://9gag.com/gag/aNwjRNr)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 💣 [Miscalculated](http://9gag.com/gag/anzGD2q)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Scary situation](http://9gag.com/gag/aWGR2bZ)<!-- MEMES:END -->
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 </div>

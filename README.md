@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Title](http://9gag.com/gag/adPRbOM)
+ - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)<!-- MEMES:END -->
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 </div>

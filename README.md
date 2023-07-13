@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Commission-free investing platform Public.com launches in the UK, the Robinhood rival&#39;s first expansion outside the US, letting investors trade 5K+ US stocks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p10#a230713p10)
  - [Apple launches Tap to Pay on iPhone in the UK, starting with Revolut and Tyl by NatWest as the first platforms, following the US, Australia, and Taiwan &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230713/p9#a230713p9)
  - [ASUS confirms ROG Ally microSD reader defect: Everything you need to know](https://www.androidauthority.com/asus-rog-ally-microsd-card-reader-issue-3345027/)
  - [JD.com unveils ChatRhino LLM for enterprise use and plans to introduce the tool internally in ecommerce and other areas before expanding to clients in H1 2024 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230713/p8#a230713p8)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)
- - [Google updates Bard with support for 43 more languages, including Arabic, and releases the chatbot in Europe and Brazil after adding new privacy features &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230713/p7#a230713p7)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 💣 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 😝 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
 
 ---
 </div>

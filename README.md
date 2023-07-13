@@ -193,8 +193,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
  - 😝 [Based dad](http://9gag.com/gag/aGE7AWK)
+ - 😝 [This is so surreal. The socialist Spanish minister uses a private jet to attend a climate conference. 100 metres before the venue she gets out off the limo and takes a bicycle. The security cars follow her.](http://9gag.com/gag/aYVRMoq)
  - 💣 [Colonial Architecture](http://9gag.com/gag/anzGrbo)
  - 😝 [`Him` from Power Puff Girls cartoon. Devil was depicted as male dressing as female manipulating small girls with his creepy voice. 90s were spot on](http://9gag.com/gag/a4owwK6)
  - 👉 [Goodbye](http://9gag.com/gag/a1POEvG)<!-- MEMES:END -->

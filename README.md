@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai enhances Ioniq 5 with new performance N variant](https://www.theverge.com/2023/7/13/23793801/hyundai-ioniq-5-n-performance-ev-announcement)
  - [Lime, phoenix, and a vertically shaking head are expected to become new emojis](https://appleinsider.com/articles/23/07/13/lime-phoenix-and-a-vertically-shaking-head-are-expected-to-become-new-emojis?utm_medium=rss)
  - [SAG-AFTRA goes on strike at midnight tonight](https://www.theverge.com/2023/7/13/23792030/sag-aftra-strike-amptp)
  - [The best Amazon Prime Day deals you can still pick up for $25 or less](https://www.theverge.com/23790666/amazon-prime-day-best-cheap-tech-deals-under-25-2023)
- - [The 17 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Logic Pro and Final Cut Pro for iPad are no longer available for users in Russia](https://appleinsider.com/articles/23/07/13/logic-pro-and-final-cut-pro-for-ipad-are-no-longer-available-for-users-in-russia?utm_medium=rss)<!-- TECH:END -->
+ - [The 17 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

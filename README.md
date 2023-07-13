@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit is getting rid of its Gold awards system](https://www.theverge.com/2023/7/13/23794403/reddit-gold-awards-coins-sunset)
  - [India&#39;s hefty tax on online games may kneecap an entire industry](https://appleinsider.com/articles/23/07/13/indias-hefty-tax-on-online-games-may-kneecap-an-entire-industry?utm_medium=rss)
  - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)
  - [After the court ruling, Coinbase, Kraken, and Bitstamp resume XRP trading on their US exchanges, while Gemini is exploring the listing of the token &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/230713/p38#a230713p38)
- - [YouTube blocking ad blockers: What you need to know](https://www.androidauthority.com/youtube-blocking-ad-blockers-3345242/)
- - [One of Reddit’s biggest communities is suggesting users move to Discord](https://www.theverge.com/2023/7/13/23794110/reddit-male-fashion-advice-protest-discord-substack)<!-- TECH:END -->
+ - [YouTube blocking ad blockers: What you need to know](https://www.androidauthority.com/youtube-blocking-ad-blockers-3345242/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm CapVest agrees to acquire UK-based Kerridge, which provides ERP software to clients globally, from Accel-KKR; sources say the deal is valued at over $1B &lpar;Dinesh Nair/Bloomberg&rpar;](http://www.techmeme.com/230713/p4#a230713p4)
+ - [Doctors on Bikes Prevented a Humanitarian Catastrophe in Ukraine](https://www.wired.com/story/ukraine-hiv-aids-medications-doctors-on-bikes/)
  - [Sources: Meta is poised to release a commercial version of LLaMA imminently and plans to make the AI model more widely available and customizable by companies &lpar;Financial Times&rpar;](http://www.techmeme.com/230713/p3#a230713p3)
  - [Google TV gets over 80,000 free movies and TV shows with The Roku Channel](https://www.androidauthority.com/google-tv-the-roku-channel-free-movies-tv-shows-3344998/)
- - [A look at the US Bureau of Industry and Security, which employs ~350, had a $140M+ budget in 2022, and is a key tool in cutting China off from advanced chips &lpar;Alex W. Palmer/New York Times&rpar;](http://www.techmeme.com/230713/p2#a230713p2)
- - [VPN by Google One will no longer place you in Texas if you live in New York](https://www.androidauthority.com/vpn-by-google-one-location-3344994/)
- - [The best Amazon Prime Day deals under $100](https://www.theverge.com/23792879/amazon-prime-day-under-100-tech-deals-sale-games-earbuds)<!-- TECH:END -->
+ - [A look at the US Bureau of Industry and Security, which employs ~350, had a $140M+ budget in 2022, and is a key tool in cutting China off from advanced chips &lpar;Alex W. Palmer/New York Times&rpar;](http://www.techmeme.com/230713/p2#a230713p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

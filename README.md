@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD.com unveils ChatRhino LLM for enterprise use and plans to introduce the tool internally in ecommerce and other areas before expanding to clients in H1 2024 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230713/p8#a230713p8)
  - [Google updates Bard with support for 43 more languages, including Arabic, and releases the chatbot in Europe and Brazil after adding new privacy features &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230713/p7#a230713p7)
  - [Poll: How often do you review and uninstall unused apps from your phone](https://www.androidauthority.com/uninstall-unused-apps-poll-3345019/)
  - [Sony plans to spend ~$2.13B on gaming R&amp;D for the FY ending March 2024, accounting for ~40% of its total R&amp;D expenditure and surpassing electronics and chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230713/p6#a230713p6)
- - [iOS 17 finally grabs two long-time Android features, and more](https://www.androidauthority.com/ios-17-public-beta-features-3345015/)
- - [Amazon Prime Day 2023 Live Blog: Amazing Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-two-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 17 finally grabs two long-time Android features, and more](https://www.androidauthority.com/ios-17-public-beta-features-3345015/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

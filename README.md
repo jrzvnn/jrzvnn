@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/aPgrd8w)
- - 😝 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
- - 💣 [The most Ron Weasley thing ever](http://9gag.com/gag/aL1WbN5)
- - 😝 [Big brain move.](http://9gag.com/gag/aqeDpvp)
- - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/adPRbOM)
+ - 😝 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
+ - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 👉 [These asians are very smart](http://9gag.com/gag/aDYQNjK)<!-- MEMES:END -->
 
 ---
 </div>

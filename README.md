@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 💣 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
- - 😝 [Do it](http://9gag.com/gag/aXnReKg)
- - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
+ - 😝 [This lady got more balls than all of these hehims put together](http://9gag.com/gag/aeQRq6W)
+ - 😝 [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 💣 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
+ - 😝 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
+ - 👉 [We can all be heroes](http://9gag.com/gag/awZeG7y)<!-- MEMES:END -->
 
 ---
 </div>

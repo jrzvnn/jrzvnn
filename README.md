@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox’s Major Nelson is leaving Microsoft after 22 years](https://www.theverge.com/2023/7/14/23795326/xbox-major-nelson-larry-hryb-microsoft)
  - [Should you buy the Galaxy S23 or wait for the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-galaxy-23-3345496/)
  - [The unions of Hollywood are trying to save it from itself](https://www.theverge.com/2023/7/14/23795311/hollywood-strike-wga-sag-aftra-streaming)
  - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [How to share an AirTag with others in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-share-an-airtag-with-others-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

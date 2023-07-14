@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla may adopt Apple AirPlay for better audio -- and Apple Music](https://appleinsider.com/articles/23/07/14/tesla-may-adopt-apple-airplay-for-better-audio----and-apple-music?utm_medium=rss)
  - [The Heat Wave Scorching the US Is a Self-Perpetuating Monster](https://www.wired.com/story/the-heat-wave-scorching-the-us-is-a-self-perpetuating-monster/)
  - [Think &#39;Foundation&#39; Is Beautiful? Thank the James Webb Telescope](https://www.wired.com/story/think-foundation-is-beautiful-thank-the-james-webb-telescope/)
  - [Ford made a rally-inspired version of the Mustang Mach-E for Goodwood Festival](https://www.theverge.com/2023/7/14/23793915/ford-mustang-mach-e-rally-goodwood)
- - [Multichain ceases operations after the crypto bridging protocol&#39;s CEO Zhaojun and his sister, who held ~$220M of user assets, were detained by Chinese police &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/230714/p5#a230714p5)
- - [Basketball will come to Apple Vision Pro, hints NBA chief](https://appleinsider.com/articles/23/07/14/basketball-will-come-to-apple-vision-pro-hints-nba-chief?utm_medium=rss)<!-- TECH:END -->
+ - [Multichain ceases operations after the crypto bridging protocol&#39;s CEO Zhaojun and his sister, who held ~$220M of user assets, were detained by Chinese police &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/230714/p5#a230714p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

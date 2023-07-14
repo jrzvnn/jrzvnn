@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 💣 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Do it](http://9gag.com/gag/aXnReKg)
+ - 💣 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
  - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 👉 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)<!-- MEMES:END -->
+ - 👉 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
 
 ---
 </div>

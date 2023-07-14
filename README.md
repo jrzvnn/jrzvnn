@@ -193,7 +193,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
+ - 😝 [Woman adopts a Siberian lynx](http://9gag.com/gag/adPRrKQ)
  - 😝 [Big brain move.](http://9gag.com/gag/aqeDpvp)
  - 💣 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)

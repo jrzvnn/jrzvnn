@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I switch phones once a week — here’s how I manage the chaos](https://www.theverge.com/23775534/switch-phones-ios-android-iphone-google-pixel-samsung-esim)
- - [Why Is Europe’s Latest Heat Wave Called Cerberus? It’s Complicated](https://www.wired.com/story/cerberus-european-heat-wave-naming-conventions-xenia-charon/)
- - [Nothing Phone 2 vs Samsung Galaxy A54 5G: Which phone should you buy?](https://www.androidauthority.com/nothing-phone-2-vs-samsung-galaxy-a54-5g-3344231/)
- - [Media execs haven’t learned a thing from these AI tests](https://www.theverge.com/23794986/news-media-ai-experiments-chatgpt-go-media-cnet)
- - [The 2020 MacBook Air is at a historic low price of $749.99](https://www.androidauthority.com/2020-macbook-air-deal-3345463/)<!-- TECH:END -->
+ - [Meta insiders detail a return to &quot;OG Mark&quot; and how staff secretly toiled away to determine how to create a Twitter-like service that fit with the company&#39;s apps &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230714/p12#a230714p12)
+ - [Editing photos on Google’s Pixel Fold has totally sold me on the form factor](https://www.theverge.com/23794949/google-pixel-fold-photo-editing-lightroom-review)
+ - [Glucose monitoring app glitch exposes vulnerabilities in digital health tools](https://appleinsider.com/articles/23/07/14/glucose-monitoring-app-glitch-exposes-vulnerabilities-in-digital-health-tools?utm_medium=rss)
+ - [Celsius Founder Alex Mashinsky’s Arrest Won’t Fix Crypto](https://www.wired.com/story/celsius-founder-alex-mashinsky-arrest-crypto-hero-worship/)
+ - [I switch phones once a week — here’s how I manage the chaos](https://www.theverge.com/23775534/switch-phones-ios-android-iphone-google-pixel-samsung-esim)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

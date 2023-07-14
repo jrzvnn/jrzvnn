@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turkey&#39;s top court upholds a law restricting companies&#39; ad spend and customer data use if their sales exceed given limits, in a blow to Alibaba&#39;s unit Trendyol &lpar;Taylan Bilgic/Bloomberg&rpar;](http://www.techmeme.com/230714/p6#a230714p6)
  - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
  - [Next VMware release for Apple Silicon will have full 3D hardware acceleration](https://appleinsider.com/articles/23/07/14/next-vmware-release-for-apple-silicon-will-have-full-3d-hardware-acceleration?utm_medium=rss)
  - [Tesla may adopt Apple AirPlay for better audio -- and Apple Music](https://appleinsider.com/articles/23/07/14/tesla-may-adopt-apple-airplay-for-better-audio----and-apple-music?utm_medium=rss)
- - [The Heat Wave Scorching the US Is a Self-Perpetuating Monster](https://www.wired.com/story/the-heat-wave-scorching-the-us-is-a-self-perpetuating-monster/)
- - [Think &#39;Foundation&#39; Is Beautiful? Thank the James Webb Telescope](https://www.wired.com/story/think-foundation-is-beautiful-thank-the-james-webb-telescope/)<!-- TECH:END -->
+ - [The Heat Wave Scorching the US Is a Self-Perpetuating Monster](https://www.wired.com/story/the-heat-wave-scorching-the-us-is-a-self-perpetuating-monster/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

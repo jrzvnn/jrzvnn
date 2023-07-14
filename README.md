@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Binance has fired over 1,000 people in recent weeks; the cuts are global, ongoing, and could result in the company losing more than a third of its staff &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230714/p13#a230714p13)
+ - [Studio Ghibli’s mysterious new film will be out in North America later this year](https://www.theverge.com/2023/7/14/23795086/studio-ghibli-how-do-you-live-the-boy-and-the-heron-hayao-miyazaki)
+ - [How to put widgets on your desktop in macOS Sonoma](https://www.theverge.com/23795053/macos-sonoma-desktop-widgets-how-to)
  - [Almost 90 percent of classic games are ‘critically endangered,’ say archivists](https://www.theverge.com/2023/7/14/23792586/classic-game-preservation-video-game-history-foundation-esa)
- - [FBI Surveillance Fears Are Uniting a Badly Broken Congress](https://www.wired.com/story/fbi-spy-fears-us-congress/)
- - [Meta insiders detail a return to &quot;OG Mark&quot; and how staff secretly toiled away to determine how to create a Twitter-like service that fit with the company&#39;s apps &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230714/p12#a230714p12)
- - [Editing photos on Google’s Pixel Fold has totally sold me on the form factor](https://www.theverge.com/23794949/google-pixel-fold-photo-editing-lightroom-review)
- - [Glucose monitoring app glitch exposes vulnerabilities in digital health tools](https://appleinsider.com/articles/23/07/14/glucose-monitoring-app-glitch-exposes-vulnerabilities-in-digital-health-tools?utm_medium=rss)<!-- TECH:END -->
+ - [FBI Surveillance Fears Are Uniting a Badly Broken Congress](https://www.wired.com/story/fbi-spy-fears-us-congress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

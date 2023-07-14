@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This lady got more balls than all of these hehims put together](http://9gag.com/gag/aeQRq6W)
- - 😝 [Big brain move.](http://9gag.com/gag/aqeDpvp)
- - 💣 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
- - 😝 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
- - 👉 [We can all be heroes](http://9gag.com/gag/awZeG7y)<!-- MEMES:END -->
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
+ - 💣 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 👉 [These asians are very smart](http://9gag.com/gag/aDYQNjK)<!-- MEMES:END -->
 
 ---
 </div>

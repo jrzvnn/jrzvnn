@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 😝 [What happened?](http://9gag.com/gag/aPgrd8w)
+ - 😝 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
  - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
+ - 👉 [These asians are very smart](http://9gag.com/gag/aDYQNjK)<!-- MEMES:END -->
 
 ---
 </div>

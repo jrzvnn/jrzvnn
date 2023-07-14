@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Basketball will come to Apple Vision Pro, hints NBA chief](https://appleinsider.com/articles/23/07/14/basketball-will-come-to-apple-vision-pro-hints-nba-chief?utm_medium=rss)
+ - [Sources and a document: India told Netflix, Disney, and other streaming services to consider an independent panel to review content ahead of its release &lpar;Reuters&rpar;](http://www.techmeme.com/230714/p4#a230714p4)
+ - [Samsung’s new TV rumored to be its first with OLED panel from rival LG Display](https://www.theverge.com/2023/7/14/23794712/samsung-83-inch-s90c-oled-woled-quantum-dot)
  - [After China&#39;s curbs, the EU calls on aluminum and zinc companies to investigate producing key chip metals; the EU sources 71% of its gallium from China &lpar;Financial Times&rpar;](http://www.techmeme.com/230714/p3#a230714p3)
- - [The Last Word on AI and the Atom Bomb](https://www.wired.com/story/last-word-ai-atom-bomb/)
- - [The World Is Toxic. Welcome to the Metabolic Era](https://www.wired.com/story/the-world-is-toxic-welcome-to-the-metabolic-era/)
- - [Hollywood studios fail to prevent actors striking during writers&#39; strike](https://appleinsider.com/articles/23/07/13/hollywood-studios-fail-to-prevent-actors-strike-during-writers-strike?utm_medium=rss)
- - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)<!-- TECH:END -->
+ - [The Last Word on AI and the Atom Bomb](https://www.wired.com/story/last-word-ai-atom-bomb/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

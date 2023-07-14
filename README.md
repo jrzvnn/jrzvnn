@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to share an AirTag with others in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-share-an-airtag-with-others-in-ios-17?utm_medium=rss)
  - [The best Google Pixel deals of July 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
  - [Samsung’s new 83-inch TV is its first one with an OLED panel that’s probably made by LG](https://www.theverge.com/2023/7/14/23794712/samsung-83-inch-s90c-oled-woled-quantum-dot)
  - [Bob Iger’s big ideas for Disney involve cost-cutting at Marvel](https://www.theverge.com/2023/7/14/23794886/bob-iger-disney-marvel-espn-streaming)
- - [Sources: Elon Musk claimed xAI was worth $20B, as he was trying to recruit top AI talent and offering equity in his new startup &lpar;Semafor&rpar;](http://www.techmeme.com/230714/p15#a230714p15)
- - [Summer of spam](https://www.theverge.com/2023/7/14/23795143/summer-of-spam)<!-- TECH:END -->
+ - [Sources: Elon Musk claimed xAI was worth $20B, as he was trying to recruit top AI talent and offering equity in his new startup &lpar;Semafor&rpar;](http://www.techmeme.com/230714/p15#a230714p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

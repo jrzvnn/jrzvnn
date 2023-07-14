@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
- - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
- - 💣 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
- - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
- - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/adPRbOM)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 💣 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)<!-- MEMES:END -->
 
 ---
 </div>

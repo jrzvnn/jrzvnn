@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkey&#39;s top court upholds a law restricting companies&#39; ad spend and customer data use if their sales exceed given limits, in a blow to Alibaba&#39;s unit Trendyol &lpar;Taylan Bilgic/Bloomberg&rpar;](http://www.techmeme.com/230714/p6#a230714p6)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [Next VMware release for Apple Silicon will have full 3D hardware acceleration](https://appleinsider.com/articles/23/07/14/next-vmware-release-for-apple-silicon-will-have-full-3d-hardware-acceleration?utm_medium=rss)
- - [Tesla may adopt Apple AirPlay for better audio -- and Apple Music](https://appleinsider.com/articles/23/07/14/tesla-may-adopt-apple-airplay-for-better-audio----and-apple-music?utm_medium=rss)
- - [The Heat Wave Scorching the US Is a Self-Perpetuating Monster](https://www.wired.com/story/the-heat-wave-scorching-the-us-is-a-self-perpetuating-monster/)<!-- TECH:END -->
+ - [Arizona workers accuse TSMC of fatalities at &#39;dangerous&#39; construction site](https://appleinsider.com/articles/23/07/14/arizona-workers-accuse-tsmc-of-fatalities-at-dangerous-construction-site?utm_medium=rss)
+ - [macOS Sonoma, iOS 17 public betas launch &amp; Apple joins Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/14/macos-sonoma-ios-17-public-betas-launch-apple-joins-threads-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Your LG TV and appliances are about to get more annoying](https://www.theverge.com/2023/7/14/23794747/lg-tv-smart-home-appliances-ads-subscriptions-webos)
+ - [Arlo Pro 5 Review: The Best Outdoor Security Camera](https://www.wired.com/review/arlo-pro-5/)
+ - [Turkey&#39;s top court upholds a law restricting companies&#39; ad spend and customer data use if their sales exceed given limits, in a blow to Alibaba&#39;s unit Trendyol &lpar;Taylan Bilgic/Bloomberg&rpar;](http://www.techmeme.com/230714/p6#a230714p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

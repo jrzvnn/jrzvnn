@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republicans defend Elon Musk in FTC’s Twitter probe](https://www.theverge.com/2023/7/14/23794363/elon-musk-twitter-ftc-lina-khan-republicans)
- - [Apple TV+ wants to stream Germany&#39;s top football league](https://appleinsider.com/articles/23/07/14/apple-tv-wants-to-stream-germanys-top-football-league?utm_medium=rss)
- - [Meta says it has taken &quot;further measures&quot; to prevent EU-based users from accessing Instagram&#39;s Threads, including blocking access through VPNs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230714/p7#a230714p7)
- - [You told us: Most of you are fine with a small Pixel 8 price hike](https://www.androidauthority.com/google-pixel-8-price-hike-poll-results-3345347/)
- - [Arizona workers accuse TSMC of fatalities at &#39;dangerous&#39; construction site](https://appleinsider.com/articles/23/07/14/arizona-workers-accuse-tsmc-of-fatalities-at-dangerous-construction-site?utm_medium=rss)<!-- TECH:END -->
+ - [Meta unveils CM3leon, a transformer model for image generation requiring 5x less compute and a smaller training data set than past transformer-based models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230714/p8#a230714p8)
+ - [Dear Mark Zuckerberg: Don’t Fight Elon Musk in the Las Vegas Octagon](https://www.wired.com/story/plaintext-dear-mark-zuckerberg-dont-fight-elon-musk/)
+ - [OK Surfers, How Much Would It Cost to Power Your Own Wave?](https://www.wired.com/story/ok-surfers-how-much-would-it-cost-to-power-your-own-wave/)
+ - [The Hollywood Actors Strike Will Revolutionize the AI Fight](https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/)
+ - [What Is a High Refresh Rate? Frame Rate? &lpar;Phones, TVs, Monitors&rpar;](https://www.wired.com/story/high-refresh-rate-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

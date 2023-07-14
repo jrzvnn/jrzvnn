@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
+ - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
  - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 💣 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 👉 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)<!-- MEMES:END -->
+ - 💣 [What happened?](http://9gag.com/gag/aPgrd8w)
+ - 😝 [Guy drops his new bottle of johnnie walker black label on the floor](http://9gag.com/gag/a9qDedj)
+ - 👉 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)<!-- MEMES:END -->
 
 ---
 </div>

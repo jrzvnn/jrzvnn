@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new 83-inch TV is its first one with an OLED panel that’s probably made by LG](https://www.theverge.com/2023/7/14/23794712/samsung-83-inch-s90c-oled-woled-quantum-dot)
  - [Bob Iger’s big ideas for Disney involve cost-cutting at Marvel](https://www.theverge.com/2023/7/14/23794886/bob-iger-disney-marvel-espn-streaming)
  - [Sources: Elon Musk claimed xAI was worth $20B, as he was trying to recruit top AI talent and offering equity in his new startup &lpar;Semafor&rpar;](http://www.techmeme.com/230714/p15#a230714p15)
  - [Summer of spam](https://www.theverge.com/2023/7/14/23795143/summer-of-spam)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Sources: Dutch export control rules will bar ASML from maintaining, repairing, and providing spare parts for controlled equipment without government approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230714/p14#a230714p14)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

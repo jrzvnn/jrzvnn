@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh dats deep](http://9gag.com/gag/abvRd2r)
- - 😝 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
- - 💣 [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 💣 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [What happened?](http://9gag.com/gag/aPgrd8w)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
 
 ---
 </div>

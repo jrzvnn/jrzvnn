@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter plans to reduce DM spam with a setting that moves messages from verified users you don&#39;t follow back to the Message Request inbox instead of main inbox &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230714/p10#a230714p10)
+ - [Daily deals: $900 off M1 Max MacBook Pro, 50% off Mac mini 32GB RAM, AirPods Max $369, more](https://appleinsider.com/articles/23/07/14/daily-deals-900-off-m1-max-macbook-pro-50-off-mac-mini-32gb-ram-airpods-max-369-more?utm_medium=rss)
  - [Oslo-based online game-based learning service Kahoot plans to go private in an all-cash PE deal, led by Goldman Sachs, valuing the company at $1.7B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230714/p9#a230714p9)
  - [Lenovo’s Yoga Book 9i is for the two-screen lifestyle](https://www.theverge.com/23794761/lenovo-yoga-book-9i-review)
- - [Meta unveils CM3leon, a transformer model for image generation requiring 5x less compute and a smaller training data set than past transformer-based models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230714/p8#a230714p8)
- - [ChatGPT Maker OpenAI Faces FTC Probe Over Risks to Consumers, Report Says     - CNET](https://www.cnet.com/tech/computing/chatgpt-maker-openai-faces-ftc-probe-over-risks-to-consumers-report-says/#ftag=CAD590a51e)
- - [Dear Mark Zuckerberg: Don’t Fight Elon Musk in the Las Vegas Octagon](https://www.wired.com/story/plaintext-dear-mark-zuckerberg-dont-fight-elon-musk/)<!-- TECH:END -->
+ - [Meta unveils CM3leon, a transformer model for image generation requiring 5x less compute and a smaller training data set than past transformer-based models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230714/p8#a230714p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

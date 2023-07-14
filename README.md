@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
+ - 😝 [Yup](http://9gag.com/gag/a5X5y4G)
+ - 😝 [Nature, you scare me](http://9gag.com/gag/aMEqWPW)
+ - 💣 [Ooh dats deep](http://9gag.com/gag/abvRd2r)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
+ - 👉 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - 😝 [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
- - 💣 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
- - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
- - 👉 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)<!-- MEMES:END -->
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 💣 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
+ - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
+ - 👉 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)<!-- MEMES:END -->
 
 ---
 </div>

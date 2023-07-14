@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 💣 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 😝 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
+ - 😝 [Do it](http://9gag.com/gag/aXnReKg)
+ - 💣 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
+ - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
 
 ---
 </div>

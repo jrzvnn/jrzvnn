@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
- - 😝 [Do it](http://9gag.com/gag/aXnReKg)
- - 💣 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
+ - 😝 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
+ - 😝 [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 💣 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
+ - 👉 [What happened?](http://9gag.com/gag/aPgrd8w)<!-- MEMES:END -->
 
 ---
 </div>

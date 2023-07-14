@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 2 vs Samsung Galaxy A54 5G: Which phone should you buy?](https://www.androidauthority.com/nothing-phone-2-vs-samsung-galaxy-a54-5g-3344231/)
+ - [Media execs haven’t learned a thing from these AI tests](https://www.theverge.com/23794986/news-media-ai-experiments-chatgpt-go-media-cnet)
  - [The 2020 MacBook Air is at a historic low price of $749.99](https://www.androidauthority.com/2020-macbook-air-deal-3345463/)
  - [Get Apple&#39;s 15-inch MacBook Air M2 with 16GB RAM, 512GB SSD for $1,599, plus 3 years of AppleCare for $189](https://appleinsider.com/articles/23/07/14/get-apples-15-inch-macbook-air-m2-with-16gb-ram-512gb-ssd-for-1599-plus-3-years-of-applecare-for-189?utm_medium=rss)
- - [LG wants to turn your TVs and other products into ad and subscription machines](https://www.androidauthority.com/lg-tv-ads-and-subscriptions-3345440/)
- - [&#39;Silo&#39; Beautifully Adapts One of Sci-Fi&#39;s Best Books](https://www.wired.com/2023/07/geeks-guide-silo-adaptation/)
- - [China mandates that AI must follow “core values of socialism”](https://www.theverge.com/2023/7/14/23794974/china-generative-ai-regulations-alibaba-baidu)<!-- TECH:END -->
+ - [LG wants to turn your TVs and other products into ad and subscription machines](https://www.androidauthority.com/lg-tv-ads-and-subscriptions-3345440/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

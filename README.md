@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Almost 90 percent of classic games are ‘critically endangered,’ say archivists](https://www.theverge.com/2023/7/14/23792586/classic-game-preservation-video-game-history-foundation-esa)
+ - [FBI Surveillance Fears Are Uniting a Badly Broken Congress](https://www.wired.com/story/fbi-spy-fears-us-congress/)
  - [Meta insiders detail a return to &quot;OG Mark&quot; and how staff secretly toiled away to determine how to create a Twitter-like service that fit with the company&#39;s apps &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230714/p12#a230714p12)
  - [Editing photos on Google’s Pixel Fold has totally sold me on the form factor](https://www.theverge.com/23794949/google-pixel-fold-photo-editing-lightroom-review)
- - [Glucose monitoring app glitch exposes vulnerabilities in digital health tools](https://appleinsider.com/articles/23/07/14/glucose-monitoring-app-glitch-exposes-vulnerabilities-in-digital-health-tools?utm_medium=rss)
- - [Celsius Founder Alex Mashinsky’s Arrest Won’t Fix Crypto](https://www.wired.com/story/celsius-founder-alex-mashinsky-arrest-crypto-hero-worship/)
- - [I switch phones once a week — here’s how I manage the chaos](https://www.theverge.com/23775534/switch-phones-ios-android-iphone-google-pixel-samsung-esim)<!-- TECH:END -->
+ - [Glucose monitoring app glitch exposes vulnerabilities in digital health tools](https://appleinsider.com/articles/23/07/14/glucose-monitoring-app-glitch-exposes-vulnerabilities-in-digital-health-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

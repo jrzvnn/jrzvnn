@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do it](http://9gag.com/gag/aXnReKg)
- - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 💣 [Good staff](http://9gag.com/gag/aOxpARv)
  - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 👉 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)<!-- MEMES:END -->
+ - 😝 [Do it](http://9gag.com/gag/aXnReKg)
+ - 💣 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)
+ - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
+ - 👉 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)<!-- MEMES:END -->
 
 ---
 </div>

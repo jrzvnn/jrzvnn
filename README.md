@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No more white boxes and red ribbons as Apple ditches gift wrapping](https://appleinsider.com/articles/23/07/14/no-more-white-boxes-and-red-ribbons-as-apple-ditches-gift-wrapping?utm_medium=rss)
  - [Sensor Tower: on July 11 and 12, Instagram&#39;s Threads DAUs were down ~20% from July 8 and the time spent by the user on the app fell 50% to 10 minutes &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230714/p11#a230714p11)
  - [Twitter plans to reduce DM spam with a setting that moves messages from verified users you don&#39;t follow back to the Message Request inbox instead of main inbox &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230714/p10#a230714p10)
  - [Daily deals: $900 off M1 Max MacBook Pro, 50% off Mac mini 32GB RAM, AirPods Max $369, more](https://appleinsider.com/articles/23/07/14/daily-deals-900-off-m1-max-macbook-pro-50-off-mac-mini-32gb-ram-airpods-max-369-more?utm_medium=rss)
- - [Oslo-based online game-based learning service Kahoot plans to go private in an all-cash PE deal, led by Goldman Sachs, valuing the company at $1.7B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230714/p9#a230714p9)
- - [Lenovo’s Yoga Book 9i is for the two-screen lifestyle](https://www.theverge.com/23794761/lenovo-yoga-book-9i-review)<!-- TECH:END -->
+ - [Oslo-based online game-based learning service Kahoot plans to go private in an all-cash PE deal, led by Goldman Sachs, valuing the company at $1.7B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230714/p9#a230714p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

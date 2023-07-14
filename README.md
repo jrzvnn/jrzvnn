@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Galaxy XCover 6 Pro rival brings a removable battery and microSD support](https://www.androidauthority.com/kyocera-duraforce-pro-3-3344537/)
  - [Galaxy S24 Ultra could finally catch up to fast-charging phones from 2020](https://www.androidauthority.com/samsung-galaxy-s24-ultra-fast-charging-battery-leak-3345283/)
  - [The first beneficiaries of Twitter&#39;s payout to creators program include far-right influencers like Andrew Tate, who posted that Twitter paid him over $20K &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230713/p44#a230713p44)
  - [Apple Pay Express Mode comes to New South Wales](https://appleinsider.com/articles/23/07/14/apple-pay-express-mode-comes-to-new-south-wales?utm_medium=rss)
- - [London-based Causaly, which uses AI for biomedical research and drug discovery, raised a $60M Series B led by ICONIQ Growth, taking its total funding to $93M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230713/p43#a230713p43)
- - [SAG-AFTRA: AMPTP&#39;s AI proposal lets studios scan a background actor to create a digital likeness, for a day&#39;s pay, for perpetual use without consent or pay &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/230713/p42#a230713p42)<!-- TECH:END -->
+ - [London-based Causaly, which uses AI for biomedical research and drug discovery, raised a $60M Series B led by ICONIQ Growth, taking its total funding to $93M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230713/p43#a230713p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

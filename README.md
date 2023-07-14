@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 💣 [What happened?](http://9gag.com/gag/aPgrd8w)
- - 😝 [Guy drops his new bottle of johnnie walker black label on the floor](http://9gag.com/gag/a9qDedj)
- - 👉 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)<!-- MEMES:END -->
+ - 😝 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
+ - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
+ - 💣 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
+ - 😝 [She is funny](http://9gag.com/gag/a8qVQqp)
+ - 👉 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
- - 😝 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
- - 💣 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
+ - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 💣 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
  - 👉 [Oh Karen, will you ever learn. `Private family`](http://9gag.com/gag/aeQRWxm)<!-- MEMES:END -->
 
 ---

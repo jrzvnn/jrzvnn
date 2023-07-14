@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden administration can talk to social media sites again — for now](https://www.theverge.com/2023/7/14/23795559/biden-white-house-social-media-ban-appeal)
  - [The Ripple ruling implies securities laws protect only sophisticated investors, the opposite of the US stock market&#39;s rule, and seems likely to work out poorly &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230714/p18#a230714p18)
  - [Microsoft’s Xbox Game Pass Friends &amp; Family plan ends in August](https://www.theverge.com/2023/7/14/23795351/microsoft-xbox-game-pass-friends-and-family-plan-preview-end)
  - [Google could be working on a ‘Connected Flight Mode’ for Android](https://www.androidauthority.com/connected-flight-mode-google-patent-3345550/)
- - [Nearby Share may soon let you scan a QR code to share files](https://www.androidauthority.com/nearby-share-scan-qr-code-3345555/)
- - [Larry &quot;Major Nelson&quot; Hryb, Xbox&#39;s senior director of corporate communications, is leaving Microsoft after 22 years to &quot;work on the next chapter of my career&quot; &lpar;Matt Wales/Eurogamer.net&rpar;](http://www.techmeme.com/230714/p17#a230714p17)<!-- TECH:END -->
+ - [Nearby Share may soon let you scan a QR code to share files](https://www.androidauthority.com/nearby-share-scan-qr-code-3345555/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

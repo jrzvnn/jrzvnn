@@ -184,10 +184,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego isn’t just for kids: the latest news for nostalgic adults and adult budgets](https://www.theverge.com/23793880/lego-adults-welcome-new-sets-storystream)
+ - [Sources: Microsoft and Activision Blizzard mull the sale of some UK cloud-based gaming rights to a telecom, gaming, or internet company to appease regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p40#a230713p40)
  - [Reddit plans to sunset its current coins and awards systems used to show post appreciation by September 12, 2023; no new coins can be purchased starting today &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230713/p39#a230713p39)
  - [Vizio D-Series Full HD Smart TV review: Fast performance at a budget-friendly price](https://appleinsider.com/articles/23/07/13/vizio-d-series-full-hd-smart-tv-review-fast-performance-at-a-budget-friendly-price?utm_medium=rss)
- - [Reddit is getting rid of its Gold awards system](https://www.theverge.com/2023/7/13/23794403/reddit-gold-awards-coins-sunset)
- - [India&#39;s hefty tax on online games may kneecap an entire industry](https://appleinsider.com/articles/23/07/13/indias-hefty-tax-on-online-games-may-kneecap-an-entire-industry?utm_medium=rss)
  - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

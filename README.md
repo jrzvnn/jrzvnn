@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 💣 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)
- - 😝 [Wtf is this?](http://9gag.com/gag/aEqZZAG)
- - 👉 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)<!-- MEMES:END -->
+ - 😝 [What happened?](http://9gag.com/gag/aPgrd8w)
+ - 😝 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
+ - 💣 [The most Ron Weasley thing ever](http://9gag.com/gag/aL1WbN5)
+ - 😝 [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 👉 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)<!-- MEMES:END -->
 
 ---
 </div>

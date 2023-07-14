@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo’s Yoga Book 9i is for the two-screen lifestyle](https://www.theverge.com/23794761/lenovo-yoga-book-9i-review)
  - [Meta unveils CM3leon, a transformer model for image generation requiring 5x less compute and a smaller training data set than past transformer-based models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230714/p8#a230714p8)
  - [Dear Mark Zuckerberg: Don’t Fight Elon Musk in the Las Vegas Octagon](https://www.wired.com/story/plaintext-dear-mark-zuckerberg-dont-fight-elon-musk/)
  - [OK Surfers, How Much Would It Cost to Power Your Own Wave?](https://www.wired.com/story/ok-surfers-how-much-would-it-cost-to-power-your-own-wave/)
- - [The Hollywood Actors Strike Will Revolutionize the AI Fight](https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/)
- - [What Is a High Refresh Rate? Frame Rate? &lpar;Phones, TVs, Monitors&rpar;](https://www.wired.com/story/high-refresh-rate-explained/)<!-- TECH:END -->
+ - [The Hollywood Actors Strike Will Revolutionize the AI Fight](https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

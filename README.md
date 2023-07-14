@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google really wants you to install that pending Android update](https://www.androidauthority.com/google-android-upgrade-invite-3345307/)
  - [Netflix&#39;s Orange Is the New Black was an early indicator of how lopsided the streaming economy would be, as 10 actors from the show detail tiny residual incomes &lpar;Michael Schulman/New Yorker&rpar;](http://www.techmeme.com/230714/p1#a230714p1)
  - [Reddit is killing its Gold awards system, but an alternative is coming soon](https://www.androidauthority.com/reddit-sunsets-gold-awards-system-3345298/)
  - [This 10.9-inch tab is expected to join Samsung’s Fan Edition revival this year](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-3345295/)
- - [This Galaxy XCover 6 Pro rival brings a removable battery and microSD support](https://www.androidauthority.com/kyocera-duraforce-pro-3-3344537/)
- - [Galaxy S24 Ultra could finally catch up to fast-charging phones from 2020](https://www.androidauthority.com/samsung-galaxy-s24-ultra-fast-charging-battery-leak-3345283/)<!-- TECH:END -->
+ - [This Galaxy XCover 6 Pro rival brings a removable battery and microSD support](https://www.androidauthority.com/kyocera-duraforce-pro-3-3344537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

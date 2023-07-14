@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit is killing its Gold awards system, but an alternative is coming soon](https://www.androidauthority.com/reddit-sunsets-gold-awards-system-3345298/)
  - [This 10.9-inch tab is expected to join Samsung’s Fan Edition revival this year](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-3345295/)
  - [This Galaxy XCover 6 Pro rival brings a removable battery and microSD support](https://www.androidauthority.com/kyocera-duraforce-pro-3-3344537/)
  - [Galaxy S24 Ultra could finally catch up to fast-charging phones from 2020](https://www.androidauthority.com/samsung-galaxy-s24-ultra-fast-charging-battery-leak-3345283/)
- - [The first beneficiaries of Twitter&#39;s payout to creators program include far-right influencers like Andrew Tate, who posted that Twitter paid him over $20K &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230713/p44#a230713p44)
- - [Apple Pay Express Mode comes to New South Wales](https://appleinsider.com/articles/23/07/14/apple-pay-express-mode-comes-to-new-south-wales?utm_medium=rss)<!-- TECH:END -->
+ - [The first beneficiaries of Twitter&#39;s payout to creators program include far-right influencers like Andrew Tate, who posted that Twitter paid him over $20K &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230713/p44#a230713p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

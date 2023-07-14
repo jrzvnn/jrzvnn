@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Appeals Court for the Ninth Circuit denies the FTC&#39;s appeal of a judge&#39;s decision that would have stopped Microsoft&#39;s acquisition of Activision Blizzard &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230714/p19#a230714p19)
+ - [Court denies FTC’s last-ditch attempt to stop Microsoft buying Activision Blizzard](https://www.theverge.com/2023/7/14/23794707/microsoft-activision-blizzard-ftc-acquisition-appeal-loses)
  - [The Biden administration can talk to social media sites again — for now](https://www.theverge.com/2023/7/14/23795559/biden-white-house-social-media-ban-appeal)
  - [The Ripple ruling implies securities laws protect only sophisticated investors, the opposite of the US stock market&#39;s rule, and seems likely to work out poorly &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230714/p18#a230714p18)
- - [Microsoft’s Xbox Game Pass Friends &amp; Family plan ends in August](https://www.theverge.com/2023/7/14/23795351/microsoft-xbox-game-pass-friends-and-family-plan-preview-end)
- - [Google could be working on a ‘Connected Flight Mode’ for Android](https://www.androidauthority.com/connected-flight-mode-google-patent-3345550/)
- - [Nearby Share may soon let you scan a QR code to share files](https://www.androidauthority.com/nearby-share-scan-qr-code-3345555/)<!-- TECH:END -->
+ - [Microsoft’s Xbox Game Pass Friends &amp; Family plan ends in August](https://www.theverge.com/2023/7/14/23795351/microsoft-xbox-game-pass-friends-and-family-plan-preview-end)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

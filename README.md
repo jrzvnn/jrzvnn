@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
  - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 💣 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
+ - 😝 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
+ - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
 
 ---
 </div>

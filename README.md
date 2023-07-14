@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 😝 [Stop it! She&#39;s already dead... *insert Simpsons&#39; meme](http://9gag.com/gag/aVbRRwy)
- - 💣 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 😝 [Miscalculated](http://9gag.com/gag/anzGD2q)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 💣 [Amy Winehouse Before and After](http://9gag.com/gag/anzGD3V)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
+ - 👉 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)<!-- MEMES:END -->
 
 ---
 </div>

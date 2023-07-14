@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Binance has fired over 1,000 people in recent weeks; the cuts are global, ongoing, and could result in the company losing more than a third of its staff &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230714/p13#a230714p13)
- - [Studio Ghibli’s mysterious new film will be out in North America later this year](https://www.theverge.com/2023/7/14/23795086/studio-ghibli-how-do-you-live-the-boy-and-the-heron-hayao-miyazaki)
- - [How to put widgets on your desktop in macOS Sonoma](https://www.theverge.com/23795053/macos-sonoma-desktop-widgets-how-to)
- - [Almost 90 percent of classic games are ‘critically endangered,’ say archivists](https://www.theverge.com/2023/7/14/23792586/classic-game-preservation-video-game-history-foundation-esa)
- - [FBI Surveillance Fears Are Uniting a Badly Broken Congress](https://www.wired.com/story/fbi-spy-fears-us-congress/)<!-- TECH:END -->
+ - [Sources: Dutch export control rules will bar ASML from maintaining, repairing, and providing spare parts for controlled equipment without government approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230714/p14#a230714p14)
+ - [EV Sales Hit a Record in the US. Now Their Popularity May Be Waning](https://www.wired.com/story/ev-sales-hit-a-record-in-the-us-now-their-popularity-may-be-waning/)
+ - [Microsoft has at least one more big Windows 11 update coming up](https://www.theverge.com/2023/7/14/23794832/microsoft-windows-11-23h2-update-features-q4-release)
+ - [Will Li-Fi replace Wi-Fi? The new light-based tech could be 100 times faster](https://www.androidauthority.com/light-wireless-technology-3345477/)
+ - [Source: Binance has fired over 1,000 people in recent weeks; the cuts are global, ongoing, and could result in the company losing more than a third of its staff &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230714/p13#a230714p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

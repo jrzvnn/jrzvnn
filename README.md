@@ -184,7 +184,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 Ultra could finally catch up to fast charging phones from 2020](https://www.androidauthority.com/samsung-galaxy-s24-ultra-fast-charging-battery-leak-3345283/)
+ - [Galaxy S24 Ultra could finally catch up to fast-charging phones from 2020](https://www.androidauthority.com/samsung-galaxy-s24-ultra-fast-charging-battery-leak-3345283/)
  - [The first beneficiaries of Twitter&#39;s payout to creators program include far-right influencers like Andrew Tate, who posted that Twitter paid him over $20K &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230713/p44#a230713p44)
  - [Apple Pay Express Mode comes to New South Wales](https://appleinsider.com/articles/23/07/14/apple-pay-express-mode-comes-to-new-south-wales?utm_medium=rss)
  - [London-based Causaly, which uses AI for biomedical research and drug discovery, raised a $60M Series B led by ICONIQ Growth, taking its total funding to $93M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230713/p43#a230713p43)

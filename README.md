@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 😝 [Do it](http://9gag.com/gag/aXnReKg)
- - 💣 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)
- - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 👉 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)<!-- MEMES:END -->
+ - 😝 [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
+ - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
+ - 💣 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
+ - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
+ - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
 
 ---
 </div>

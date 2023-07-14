@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fatal helicopter crash likely caused by dropped iPad](https://appleinsider.com/articles/23/07/14/fatal-helicopter-crash-likely-caused-by-dropped-ipad?utm_medium=rss)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Xbox’s Major Nelson is leaving Microsoft after 22 years](https://www.theverge.com/2023/7/14/23795326/xbox-major-nelson-larry-hryb-microsoft)
  - [Should you buy the Galaxy S23 or wait for the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-galaxy-23-3345496/)
- - [The unions of Hollywood are trying to save it from itself](https://www.theverge.com/2023/7/14/23795311/hollywood-strike-wga-sag-aftra-streaming)
- - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [The unions of Hollywood are trying to save it from itself](https://www.theverge.com/2023/7/14/23795311/hollywood-strike-wga-sag-aftra-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

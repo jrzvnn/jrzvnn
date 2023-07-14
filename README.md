@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
+ - 😝 [Ooh dats deep](http://9gag.com/gag/abvRd2r)
+ - 😝 [Shawdys like a melody in my head](http://9gag.com/gag/aVbRBZP)
+ - 💣 [Big brain move.](http://9gag.com/gag/aqeDpvp)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
+ - 👉 [What happened?](http://9gag.com/gag/aPgrd8w)<!-- MEMES:END -->
 
 ---
 </div>

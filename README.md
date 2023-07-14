@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Larry Hryb, Xbox&#39;s senior director of corporate communications, also known as Major Nelson, says he is leaving Microsoft after 22 years at the company &lpar;Matt Wales/Eurogamer.net&rpar;](http://www.techmeme.com/230714/p17#a230714p17)
  - [Tesla may adopt Apple AirPlay for better audio](https://appleinsider.com/articles/23/07/14/tesla-may-adopt-apple-airplay-for-better-audio----and-apple-music?utm_medium=rss)
  - [Hands-on with Ernie 3.5, which Baidu claims is &quot;slightly inferior&quot; to GPT-4 in a comprehensive test but performs better when both were spoken to in Chinese &lpar;New York Times&rpar;](http://www.techmeme.com/230714/p16#a230714p16)
  - [Fatal helicopter crash likely caused by dropped iPad](https://appleinsider.com/articles/23/07/14/fatal-helicopter-crash-likely-caused-by-dropped-ipad?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Xbox’s Major Nelson is leaving Microsoft after 22 years](https://www.theverge.com/2023/7/14/23795326/xbox-major-nelson-larry-hryb-microsoft)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Last Word on AI and the Atom Bomb](https://www.wired.com/story/last-word-ai-atom-bomb/)
+ - [The World Is Toxic. Welcome to the Metabolic Era](https://www.wired.com/story/the-world-is-toxic-welcome-to-the-metabolic-era/)
  - [Hollywood studios fail to prevent actors striking during writers&#39; strike](https://appleinsider.com/articles/23/07/13/hollywood-studios-fail-to-prevent-actors-strike-during-writers-strike?utm_medium=rss)
  - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [Twitter sues four unnamed entities in Texas for &quot;unlawfully scraping data&quot; and seeks $1M+ in relief; Elon Musk links the move to recent rate limit rules &lpar;Reuters&rpar;](http://www.techmeme.com/230714/p2#a230714p2)
- - [Google really wants you to install that pending Android update](https://www.androidauthority.com/google-android-upgrade-invite-3345307/)
- - [Netflix&#39;s Orange Is the New Black was an early indicator of how lopsided the streaming economy would be, as 10 actors from the show detail tiny residual incomes &lpar;Michael Schulman/New Yorker&rpar;](http://www.techmeme.com/230714/p1#a230714p1)<!-- TECH:END -->
+ - [Twitter sues four unnamed entities in Texas for &quot;unlawfully scraping data&quot; and seeks $1M+ in relief; Elon Musk links the move to recent rate limit rules &lpar;Reuters&rpar;](http://www.techmeme.com/230714/p2#a230714p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

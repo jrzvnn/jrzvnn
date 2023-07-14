@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego isn’t just for kids: the latest news for nostalgic adults and adult budgets](https://www.theverge.com/23793880/lego-adults-welcome-new-sets-storystream)
- - [Sources: Microsoft and Activision Blizzard mull the sale of some UK cloud-based gaming rights to a telecom, gaming, or internet company to appease regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230713/p40#a230713p40)
- - [Reddit plans to sunset its current coins and awards systems used to show post appreciation by September 12, 2023; no new coins can be purchased starting today &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230713/p39#a230713p39)
- - [Vizio D-Series Full HD Smart TV review: Fast performance at a budget-friendly price](https://appleinsider.com/articles/23/07/13/vizio-d-series-full-hd-smart-tv-review-fast-performance-at-a-budget-friendly-price?utm_medium=rss)
- - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Causaly, which uses AI for biomedical research and drug discovery, raised a $60M Series B led by ICONIQ Growth, taking its total funding to $93M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230713/p43#a230713p43)
+ - [SAG-AFTRA: AMPTP&#39;s AI proposal lets studios scan a background actor to create a digital likeness, for a day&#39;s pay, for perpetual use without consent or pay &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/230713/p42#a230713p42)
+ - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)
+ - [Sony&#39;s PS5 Accessibility Controller Is Coming in December for $90     - CNET](https://www.cnet.com/tech/gaming/sonys-ps5-accessibility-controller-is-coming-in-december-for-90/#ftag=CAD590a51e)
+ - [A US district judge denies the FTC&#39;s motion to stay Microsoft&#39;s Activision Blizzard acquisition; the FTC is still seeking emergency action by the 9th Circuit &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230713/p41#a230713p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

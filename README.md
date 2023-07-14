@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arizona workers accuse TSMC of fatalities at &#39;dangerous&#39; construction site](https://appleinsider.com/articles/23/07/14/arizona-workers-accuse-tsmc-of-fatalities-at-dangerous-construction-site?utm_medium=rss)
- - [macOS Sonoma, iOS 17 public betas launch &amp; Apple joins Threads on the AppleInsider Podcast](https://appleinsider.com/articles/23/07/14/macos-sonoma-ios-17-public-betas-launch-apple-joins-threads-on-the-appleinsider-podcast?utm_medium=rss)
- - [Your LG TV and appliances are about to get more annoying](https://www.theverge.com/2023/7/14/23794747/lg-tv-smart-home-appliances-ads-subscriptions-webos)
- - [Arlo Pro 5 Review: The Best Outdoor Security Camera](https://www.wired.com/review/arlo-pro-5/)
- - [Turkey&#39;s top court upholds a law restricting companies&#39; ad spend and customer data use if their sales exceed given limits, in a blow to Alibaba&#39;s unit Trendyol &lpar;Taylan Bilgic/Bloomberg&rpar;](http://www.techmeme.com/230714/p6#a230714p6)<!-- TECH:END -->
+ - [Republicans defend Elon Musk in FTC’s Twitter probe](https://www.theverge.com/2023/7/14/23794363/elon-musk-twitter-ftc-lina-khan-republicans)
+ - [Apple TV+ wants to stream Germany&#39;s top football league](https://appleinsider.com/articles/23/07/14/apple-tv-wants-to-stream-germanys-top-football-league?utm_medium=rss)
+ - [Meta says it has taken &quot;further measures&quot; to prevent EU-based users from accessing Instagram&#39;s Threads, including blocking access through VPNs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230714/p7#a230714p7)
+ - [You told us: Most of you are fine with a small Pixel 8 price hike](https://www.androidauthority.com/google-pixel-8-price-hike-poll-results-3345347/)
+ - [Arizona workers accuse TSMC of fatalities at &#39;dangerous&#39; construction site](https://appleinsider.com/articles/23/07/14/arizona-workers-accuse-tsmc-of-fatalities-at-dangerous-construction-site?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

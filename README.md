@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Multichain ceases operations after the crypto bridging protocol&#39;s CEO Zhaojun and his sister, who held ~$220M of user assets, were detained by Chinese police &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/230714/p5#a230714p5)
  - [Basketball will come to Apple Vision Pro, hints NBA chief](https://appleinsider.com/articles/23/07/14/basketball-will-come-to-apple-vision-pro-hints-nba-chief?utm_medium=rss)
  - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
  - [Sources and a document: India told Netflix, Disney, and other streaming services to consider an independent panel to review content ahead of its release &lpar;Reuters&rpar;](http://www.techmeme.com/230714/p4#a230714p4)
- - [Samsung’s new TV rumored to be its first with OLED panel from rival LG Display](https://www.theverge.com/2023/7/14/23794712/samsung-83-inch-s90c-oled-woled-quantum-dot)
- - [After China&#39;s curbs, the EU calls on aluminum and zinc companies to investigate producing key chip metals; the EU sources 71% of its gallium from China &lpar;Financial Times&rpar;](http://www.techmeme.com/230714/p3#a230714p3)<!-- TECH:END -->
+ - [Samsung’s new TV rumored to be its first with OLED panel from rival LG Display](https://www.theverge.com/2023/7/14/23794712/samsung-83-inch-s90c-oled-woled-quantum-dot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

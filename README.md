@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bob Iger’s big ideas for Disney involve cost-cutting at Marvel](https://www.theverge.com/2023/7/14/23794886/bob-iger-disney-marvel-espn-streaming)
+ - [Sources: Elon Musk claimed xAI was worth $20B, as he was trying to recruit top AI talent and offering equity in his new startup &lpar;Semafor&rpar;](http://www.techmeme.com/230714/p15#a230714p15)
  - [Summer of spam](https://www.theverge.com/2023/7/14/23795143/summer-of-spam)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Sources: Dutch export control rules will bar ASML from maintaining, repairing, and providing spare parts for controlled equipment without government approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230714/p14#a230714p14)
- - [EV Sales Hit a Record in the US. Now Their Popularity May Be Waning](https://www.wired.com/story/ev-sales-hit-a-record-in-the-us-now-their-popularity-may-be-waning/)
- - [Microsoft has at least one more big Windows 11 update coming up](https://www.theverge.com/2023/7/14/23794832/microsoft-windows-11-23h2-update-features-q4-release)<!-- TECH:END -->
+ - [Sources: Dutch export control rules will bar ASML from maintaining, repairing, and providing spare parts for controlled equipment without government approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230714/p14#a230714p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

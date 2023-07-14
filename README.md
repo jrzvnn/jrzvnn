@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first beneficiaries of Twitter&#39;s payout to creators program include far-right influencers like Andrew Tate, who posted that Twitter paid him over $20K &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230713/p44#a230713p44)
+ - [Apple Pay Express Mode comes to New South Wales](https://appleinsider.com/articles/23/07/14/apple-pay-express-mode-comes-to-new-south-wales?utm_medium=rss)
  - [London-based Causaly, which uses AI for biomedical research and drug discovery, raised a $60M Series B led by ICONIQ Growth, taking its total funding to $93M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230713/p43#a230713p43)
  - [SAG-AFTRA: AMPTP&#39;s AI proposal lets studios scan a background actor to create a digital likeness, for a day&#39;s pay, for perpetual use without consent or pay &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/230713/p42#a230713p42)
- - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)
- - [Sony&#39;s PS5 Accessibility Controller Is Coming in December for $90     - CNET](https://www.cnet.com/tech/gaming/sonys-ps5-accessibility-controller-is-coming-in-december-for-90/#ftag=CAD590a51e)
- - [A US district judge denies the FTC&#39;s motion to stay Microsoft&#39;s Activision Blizzard acquisition; the FTC is still seeking emergency action by the 9th Circuit &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/230713/p41#a230713p41)<!-- TECH:END -->
+ - [Amazon Prime Day 2023 Live Blog: Remaining Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-prime-day-2023-day-three-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 😝 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
- - 💣 [R\u00e4ri 812 GTS](http://9gag.com/gag/aRERO5y)
+ - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
+ - 😝 [What happened?](http://9gag.com/gag/aPgrd8w)
+ - 💣 [Xena The Warrior Princess&#39; cameraman during the famed bath scene starring Xena and Gabrielle.](http://9gag.com/gag/a2KOLNe)
  - 😝 [Come out and join Gay Games Hong Kong!](http://9gag.com/gag/aMEqW1A)
- - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
+ - 👉 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)<!-- MEMES:END -->
 
 ---
 </div>

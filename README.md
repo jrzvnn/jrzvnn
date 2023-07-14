@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 💣 [Do it](http://9gag.com/gag/aXnReKg)
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
+ - 😝 [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
+ - 😝 [We can all be heroes](http://9gag.com/gag/awZeG7y)
+ - 💣 [Stand by me](http://9gag.com/gag/a8qVn7O)
+ - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
+ - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
 
 ---
 </div>

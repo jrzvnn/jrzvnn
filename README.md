@@ -193,9 +193,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 😝 [What happened?](http://9gag.com/gag/aPgrd8w)
- - 💣 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 😝 [Do it](http://9gag.com/gag/aXnReKg)
+ - 💣 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
  - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
  - 👉 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)<!-- MEMES:END -->
 

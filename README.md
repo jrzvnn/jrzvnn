@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look at those fingers go](http://9gag.com/gag/aRERNnB)
- - 😝 [Wild times back then](http://9gag.com/gag/aOxpRLy)
- - 💣 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 😝 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
- - 👉 [Title](http://9gag.com/gag/adPRbOM)<!-- MEMES:END -->
+ - 😝 [But muh multi kulti society](http://9gag.com/gag/aZDRoEQ)
+ - 😝 [Friday 14 July 2023](http://9gag.com/gag/aGE76jG)
+ - 💣 [Big brain move.](http://9gag.com/gag/aqeDpvp)
+ - 😝 [What happened?](http://9gag.com/gag/aPgrd8w)
+ - 👉 [The most Ron Weasley thing ever](http://9gag.com/gag/aL1WbN5)<!-- MEMES:END -->
 
 ---
 </div>

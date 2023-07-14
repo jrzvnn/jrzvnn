@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 😝 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
- - 💣 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)
  - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 👉 [These asians are very smart](http://9gag.com/gag/aDYQNjK)<!-- MEMES:END -->
+ - 😝 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - 😝 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
+ - 👉 [Wtf is this?](http://9gag.com/gag/aEqZZAG)<!-- MEMES:END -->
 
 ---
 </div>

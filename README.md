@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I switch phones once a week — here’s how I manage the chaos](https://www.theverge.com/23775534/switch-phones-ios-android-iphone-google-pixel-samsung-esim)
+ - [Why Is Europe’s Latest Heat Wave Called Cerberus? It’s Complicated](https://www.wired.com/story/cerberus-european-heat-wave-naming-conventions-xenia-charon/)
  - [Nothing Phone 2 vs Samsung Galaxy A54 5G: Which phone should you buy?](https://www.androidauthority.com/nothing-phone-2-vs-samsung-galaxy-a54-5g-3344231/)
  - [Media execs haven’t learned a thing from these AI tests](https://www.theverge.com/23794986/news-media-ai-experiments-chatgpt-go-media-cnet)
- - [The 2020 MacBook Air is at a historic low price of $749.99](https://www.androidauthority.com/2020-macbook-air-deal-3345463/)
- - [Get Apple&#39;s 15-inch MacBook Air M2 with 16GB RAM, 512GB SSD for $1,599, plus 3 years of AppleCare for $189](https://appleinsider.com/articles/23/07/14/get-apples-15-inch-macbook-air-m2-with-16gb-ram-512gb-ssd-for-1599-plus-3-years-of-applecare-for-189?utm_medium=rss)
- - [LG wants to turn your TVs and other products into ad and subscription machines](https://www.androidauthority.com/lg-tv-ads-and-subscriptions-3345440/)<!-- TECH:END -->
+ - [The 2020 MacBook Air is at a historic low price of $749.99](https://www.androidauthority.com/2020-macbook-air-deal-3345463/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

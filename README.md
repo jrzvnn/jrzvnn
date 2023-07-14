@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
  - 😝 [When nobody did their homework.](http://9gag.com/gag/arm8Dd0)
- - 😝 [We can all be heroes](http://9gag.com/gag/awZeG7y)
- - 💣 [Stand by me](http://9gag.com/gag/a8qVn7O)
+ - 💣 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
  - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
- - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
+ - 👉 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)<!-- MEMES:END -->
 
 ---
 </div>

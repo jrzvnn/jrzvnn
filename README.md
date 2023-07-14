@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Samsung Galaxy Buds 2 are cheaper now than during Amazon Prime Day](https://www.theverge.com/2023/7/14/23794795/samsung-galaxy-buds-fujifilm-instax-link-roku-stick-catan-anker-deal-sale)
  - [Apple will use 3D printing to make Apple Watch Ultra mechanical parts](https://appleinsider.com/articles/23/07/14/apple-will-use-3d-printing-to-make-apple-watch-ultra-mechanical-parts?utm_medium=rss)
  - [Hello Kitty Island Adventure is real but has nothing to do with South Park](https://www.theverge.com/2023/7/14/23794366/hello-kitty-island-adventure-apple-sunblink)
  - [Ridiculous Fishing is back, and it is still very ridiculous](https://www.theverge.com/23794876/ridiculous-fishing-ex-apple-arcade)
- - [Lifetime access to Windows 11 Pro is on sale for $29.97, an 84% discount, but the deal ends tonight](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [No more white boxes and red ribbons as Apple ditches gift wrapping](https://appleinsider.com/articles/23/07/14/no-more-white-boxes-and-red-ribbons-as-apple-ditches-gift-wrapping?utm_medium=rss)<!-- TECH:END -->
+ - [Lifetime access to Windows 11 Pro is on sale for $29.97, an 84% discount, but the deal ends tonight](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

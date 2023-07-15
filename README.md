@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
- - 😝 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)
- - 💣 [He protec he attac](http://9gag.com/gag/aDYQNKN)
- - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
- - 👉 [Bless her](http://9gag.com/gag/anzG8zz)<!-- MEMES:END -->
+ - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
+ - 😝 [You want to be what?](http://9gag.com/gag/a8qVvye)
+ - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 👉 [Do it](http://9gag.com/gag/aXnReKg)<!-- MEMES:END -->
 
 ---
 </div>

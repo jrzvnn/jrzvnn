@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Meta blocks EU users from accessing Threads via a VPN](https://appleinsider.com/articles/23/07/15/meta-blocks-eu-users-from-accessing-threads-via-a-vpn?utm_medium=rss)
+ - [Last Chance: Shop the Final Hours of Target Circle Week     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-492-3345239/)
  - [How to add music to Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-add-music-to-your-apple-watch-using-apple-music?utm_medium=rss)
- - [Elon Musk says Twitter&#39;s cash flow remains negative because of a nearly 50% drop in advertising revenue and a heavy debt load &lpar;Jahnavi Nidumolu/Reuters&rpar;](http://www.techmeme.com/230715/p9#a230715p9)
- - [Reddit removed your chat history from before 2023](https://www.theverge.com/2023/7/15/23795883/reddit-chat-history-removed-protest-blackout-new-architecture)<!-- TECH:END -->
+ - [Elon Musk says Twitter&#39;s cash flow remains negative because of a nearly 50% drop in advertising revenue and a heavy debt load &lpar;Jahnavi Nidumolu/Reuters&rpar;](http://www.techmeme.com/230715/p9#a230715p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

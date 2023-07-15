@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Weekly Authority: 💲Pixel 8 price hike deets leak](https://www.androidauthority.com/the-weekly-authority-july-15-2023-253-3344287/)
  - [Study: ChatGPT helped writers complete tasks, such as writing press releases or reports, 40% faster and produce work that assessors scored 18% higher in quality &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/230715/p6#a230715p6)
  - [Why Songs Get Stuck in Your Head—and How to Stop Them](https://www.wired.com/story/why-songs-get-stuck-in-your-head-how-to-stop-them/)
  - [Everything You Need to Know About Servicing an EV](https://www.wired.com/story/everything-you-need-to-know-about-servicing-an-ev/)
- - [Twitter could descend into irrelevance if the trends driving Threads&#39; early success, including network effects and Elon Musk&#39;s self-inflicted wounds, persist &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230715/p5#a230715p5)
- - [Microsoft&#39;s disclosures about Chinese hackers accessing US government email accounts were opaque about the breach&#39;s root cause and the company&#39;s role in it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230715/p4#a230715p4)<!-- TECH:END -->
+ - [Twitter could descend into irrelevance if the trends driving Threads&#39; early success, including network effects and Elon Musk&#39;s self-inflicted wounds, persist &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230715/p5#a230715p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

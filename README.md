@@ -187,8 +187,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [LG UN73 UHD TV review: Beautiful screen with a laggy operating system](https://appleinsider.com/articles/23/07/15/lg-un73-uhd-tv-review-beautiful-screen-with-a-laggy-operating-system?utm_medium=rss)
  - [Some Etsy sellers say it started imposing a 45 day reserve on 75% of their income with no warning, as part of its Purchase Protection program to cover refunds &lpar;Sky News&rpar;](http://www.techmeme.com/230715/p10#a230715p10)
  - [Meta blocks EU users from accessing Threads via a VPN](https://appleinsider.com/articles/23/07/15/meta-blocks-eu-users-from-accessing-threads-via-a-vpn?utm_medium=rss)
- - [Last Chance: Shop the Final Hours of Target Circle Week     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-492-3345239/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-492-3345239/)
+ - [How to add music to Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-add-music-to-your-apple-watch-using-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Twitter loses half its ad revenue, still weighed down by debt](https://appleinsider.com/articles/23/07/15/twitter-loses-half-its-ad-revenue-still-weighed-down-by-debt?utm_medium=rss)
+ - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
  - [What is Microsoft 365 Copilot? The AI coming to Word, Excel, and more](https://www.androidauthority.com/what-is-microsoft-365-copilot-ai-3345635/)
- - [Save $1,100 on this loaded MacBook Pro 16-inch with M1 Max chip, 64GB RAM](https://appleinsider.com/articles/23/07/15/save-1100-on-this-loaded-macbook-pro-16-inch-with-m1-max-chip-64gb-ram?utm_medium=rss)
- - [Brave appears to be selling copyrighted data for AI training and giving third parties the &quot;rights&quot; to that data, while not disclosing its own robot crawler &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/230715/p13#a230715p13)
- - [HyperPack Pro review: A premium backpack with AirTag built-in](https://appleinsider.com/articles/23/07/15/hyperpack-pro-review-a-premium-backpack-with-airtag-built-in?utm_medium=rss)<!-- TECH:END -->
+ - [Watch WNBA All-Star Game 2023: Livestream Women&#39;s Basketball From Anywhere Today     - CNET](https://www.cnet.com/tech/services-and-software/watch-wnba-all-star-game-2023-livestream-womens-basketball-from-anywhere/#ftag=CAD590a51e)
+ - [Best iPhone VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

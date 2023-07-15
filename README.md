@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 💣 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
- - 😝 [He protec he attac](http://9gag.com/gag/aDYQNKN)
- - 👉 [The best skincare](http://9gag.com/gag/aBd4z4N)<!-- MEMES:END -->
+ - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
+ - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
+ - 💣 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)<!-- MEMES:END -->
 
 ---
 </div>

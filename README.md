@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brave appears to be selling copyrighted data for AI training and giving third parties the &quot;rights&quot; to that data, while not disclosing its own robot crawler &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/230715/p13#a230715p13)
  - [HyperPack Pro review: A premium backpack with AirTag built-in](https://appleinsider.com/articles/23/07/15/hyperpack-pro-review-a-premium-backpack-with-airtag-built-in?utm_medium=rss)
  - [Bluesky adds the N-word to a &quot;reserved&quot; words list, after users reported that some usernames include the slur, highlighting the site&#39;s ongoing moderation issues &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230715/p12#a230715p12)
  - [The Best Horror Movies on Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-max-in-july/#ftag=CAD590a51e)
- - [Despite a generative AI funding mania, data shows that other startup funding remains bleak, with valuations down and few IPOs, deals, and late-stage rounds &lpar;Newcomer&rpar;](http://www.techmeme.com/230715/p11#a230715p11)
- - [There’s no wrong way to load this dishwasher](https://www.theverge.com/2023/7/15/23796026/bosch-dishwasher-powercontrol-smart-cleaning-zones)<!-- TECH:END -->
+ - [Despite a generative AI funding mania, data shows that other startup funding remains bleak, with valuations down and few IPOs, deals, and late-stage rounds &lpar;Newcomer&rpar;](http://www.techmeme.com/230715/p11#a230715p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

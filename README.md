@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I have seen this shit trending so much on social media today, but they fail to mention the guy has clusaphobia and that&#39;s why he didnt want to go to a seat with less room](http://9gag.com/gag/ay2vrEY)
+ - 😝 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
+ - 💣 [Totally the same...](http://9gag.com/gag/anzG39b)
  - 😝 [He protec he attac](http://9gag.com/gag/aDYQNKN)
- - 😝 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
- - 💣 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
- - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 👉 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
+ - 👉 [The best skincare](http://9gag.com/gag/aBd4z4N)<!-- MEMES:END -->
 
 ---
 </div>

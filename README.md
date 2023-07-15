@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
- - 😝 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
- - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
- - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
- - 👉 [He protec he attac](http://9gag.com/gag/aDYQNKN)<!-- MEMES:END -->
+ - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
+ - 😝 [American healthcare system is broken](http://9gag.com/gag/ay2vrP8)
+ - 💣 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
 
 ---
 </div>

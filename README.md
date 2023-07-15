@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: $50 off Asus AC1900 Router, $450 off 38-inch Curved Alienware Monitor $1,890 off Klipsch Reference Home Theater System, more](https://appleinsider.com/articles/23/07/15/daily-deals-50-off-asus-ac1900-router-450-off-38-inch-curved-alienware-monitor-1890-off-klipsch-reference-home-theater-system-more?utm_medium=rss)
- - [The cheapest countries to buy a MacBook Pro](https://www.androidauthority.com/cheapest-place-to-buy-macbook-pro-3345547/)
- - [Catching a Flight? Here Are 5 Tips to Make Travel Easier](https://www.wired.com/story/5-tips-air-travel-long-flights/)
- - [Nude Videos of Kids From Hacked Baby Monitors Were Sold on Telegram](https://www.wired.com/story/hikvision-cameras-telegram-children/)
- - [Kizazi Moto: Generation Fire is the next brilliant sci-fi anthology you’ve been looking for](https://www.theverge.com/23794032/kizazi-moto-generation-fire-disney-plus-animation-streaming)<!-- TECH:END -->
+ - [The Beats Studio Buds Plus are still available at an all-time low](https://www.theverge.com/2023/7/15/23794893/beats-studio-buds-plus-fitbit-inspire-3-apple-ipad-mini-deal-sale)
+ - [I’ve run out of patience with the Pixel Tablet as a smart hub](https://www.androidauthority.com/pixel-tablet-smart-hub-fail-3344697/)
+ - [I almost can’t believe it, but Google Tasks is finally kind of good](https://www.theverge.com/23795183/google-tasks-reminders-app-combination)
+ - [A look at Sony-owned Crunchyroll, which has 100M+ registered members, including 11M paid subscribers, as the anime streaming service looks to India for growth &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/230715/p7#a230715p7)
+ - [Daily deals: $50 off Asus AC1900 Router, $450 off 38-inch Curved Alienware Monitor $1,890 off Klipsch Reference Home Theater System, more](https://appleinsider.com/articles/23/07/15/daily-deals-50-off-asus-ac1900-router-450-off-38-inch-curved-alienware-monitor-1890-off-klipsch-reference-home-theater-system-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

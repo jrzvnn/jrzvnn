@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter could descend into irrelevance if the trends driving Threads&#39; early success, including network effects and Elon Musk&#39;s self-inflicted wounds, persist &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230715/p5#a230715p5)
  - [Microsoft&#39;s disclosures about Chinese hackers accessing US government email accounts were opaque about the breach&#39;s root cause and the company&#39;s role in it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230715/p4#a230715p4)
  - [Sources: the CEOs of Intel and Qualcomm are planning to meet US officials in DC next week to discuss China policy, export controls, market conditions, and more &lpar;Reuters&rpar;](http://www.techmeme.com/230715/p3#a230715p3)
  - [Updraft patches its AIOS WordPress plugin, used by 1M+ sites, after it logged plaintext passwords; Updraft didn&#39;t warn its users during the exposure period &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230715/p2#a230715p2)
- - [Creator monetization platform Fanhouse agrees to sell to rival Passes, which only launched in December 2022, but some creators are apprehensive about the merger &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230715/p1#a230715p1)
- - [Best Samsung Galaxy Z Flip 4 Cases in 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Creator monetization platform Fanhouse agrees to sell to rival Passes, which only launched in December 2022, but some creators are apprehensive about the merger &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230715/p1#a230715p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

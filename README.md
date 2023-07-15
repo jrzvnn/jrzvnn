@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
- - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - 💣 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
- - 😝 [She is funny](http://9gag.com/gag/a8qVQqp)
- - 👉 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)<!-- MEMES:END -->
+ - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - 😝 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
+ - 💣 [Law enforcement](http://9gag.com/gag/aMEq79A)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [He protec he attac](http://9gag.com/gag/aDYQNKN)<!-- MEMES:END -->
 
 ---
 </div>

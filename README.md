@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
- - 😝 [Wife: `Babe it&#39;s weekend. Don&#39;t sitting arround like dead whale, go say hi to the neighbor.` *Husband and the Neighbor](http://9gag.com/gag/abvRDgv)
- - 💣 [Good staff](http://9gag.com/gag/aOxpARv)
- - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 👉 [Imagine vikings coming to get you like this](http://9gag.com/gag/avQ9q9E)<!-- MEMES:END -->
+ - 😝 [American healthcare system is broken](http://9gag.com/gag/ay2vrP8)
+ - 😝 [I have seen this shit trending so much on social media today, but they fail to mention the guy has clusaphobia and that&#39;s why he didnt want to go to a seat with less room](http://9gag.com/gag/ay2vrEY)
+ - 💣 [He protec he attac](http://9gag.com/gag/aDYQNKN)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
 
 ---
 </div>

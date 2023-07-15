@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-492-3345239/)
+ - [How to add music to Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-add-music-to-your-apple-watch-using-apple-music?utm_medium=rss)
  - [Elon Musk says Twitter&#39;s cash flow remains negative because of a nearly 50% drop in advertising revenue and a heavy debt load &lpar;Jahnavi Nidumolu/Reuters&rpar;](http://www.techmeme.com/230715/p9#a230715p9)
  - [Reddit removed your chat history from before 2023](https://www.theverge.com/2023/7/15/23795883/reddit-chat-history-removed-protest-blackout-new-architecture)
- - [The UK CMA pushes back a deadline to block Microsoft&#39;s Activision deal from July 18 to August 29, which could let Microsoft complete the merger within weeks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230715/p8#a230715p8)
- - [The Beats Studio Buds Plus are still available at an all-time low](https://www.theverge.com/2023/7/15/23794893/beats-studio-buds-plus-fitbit-inspire-3-apple-ipad-mini-deal-sale)
- - [I’ve run out of patience with the Pixel Tablet as a smart hub](https://www.androidauthority.com/pixel-tablet-smart-hub-fail-3344697/)<!-- TECH:END -->
+ - [The UK CMA pushes back a deadline to block Microsoft&#39;s Activision deal from July 18 to August 29, which could let Microsoft complete the merger within weeks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230715/p8#a230715p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

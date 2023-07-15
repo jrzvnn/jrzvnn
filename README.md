@@ -187,7 +187,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [There’s no wrong way to load this dishwasher](https://www.theverge.com/2023/7/15/23796026/bosch-dishwasher-powercontrol-smart-cleaning-zones)
  - [If the rotating bezel is back, I’ll hit ‘check out’ on a Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-3343975/)
  - [LG UN73 UHD TV review: Beautiful screen with a laggy operating system](https://appleinsider.com/articles/23/07/15/lg-un73-uhd-tv-review-beautiful-screen-with-a-laggy-operating-system?utm_medium=rss)
- - [Some Etsy sellers say it started imposing a 45 day reserve on 75% of their income with no warning, as part of its Purchase Protection program to cover refunds &lpar;Sky News&rpar;](http://www.techmeme.com/230715/p10#a230715p10)
+ - [Some Etsy sellers say the platform imposed a 45-day reserve on 75% of their income with no warning, as part of its Purchase Protection program to cover refunds &lpar;Sky News&rpar;](http://www.techmeme.com/230715/p10#a230715p10)
  - [Meta blocks EU users from accessing Threads via a VPN](https://appleinsider.com/articles/23/07/15/meta-blocks-eu-users-from-accessing-threads-via-a-vpn?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

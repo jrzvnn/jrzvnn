@@ -193,10 +193,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How dare they overpaid it like that](http://9gag.com/gag/abvRDrb)
- - 😝 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
- - 💣 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 😝 [He protec he attac](http://9gag.com/gag/aDYQNKN)
+ - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
+ - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
+ - 💣 [She is funny](http://9gag.com/gag/a8qVQqp)
+ - 😝 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
  - 👉 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
 
 ---

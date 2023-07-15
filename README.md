@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
- - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
- - 💣 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
- - 😝 [She is funny](http://9gag.com/gag/a8qVQqp)
- - 👉 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/adPRbOM)
+ - 😝 [Oh Karen, will you ever learn. `Private family`](http://9gag.com/gag/aeQRWxm)
+ - 💣 [Good staff](http://9gag.com/gag/aOxpARv)
+ - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
+ - 👉 [This ancient Egyptian carving has been totally defiled by a f**k****ing idiot Chinese tourists](http://9gag.com/gag/aEqZjj9)<!-- MEMES:END -->
 
 ---
 </div>

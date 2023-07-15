@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
- - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - 💣 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
- - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
- - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
+ - 😝 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
+ - 😝 [You want to be what?](http://9gag.com/gag/a8qVvye)
+ - 💣 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)
+ - 😝 [Fallen Bridge in Thailand](http://9gag.com/gag/aRER937)
+ - 👉 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)<!-- MEMES:END -->
 
 ---
 </div>

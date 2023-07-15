@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
- - 😝 [You want to be what?](http://9gag.com/gag/a8qVvye)
- - 💣 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)
- - 😝 [Fallen Bridge in Thailand](http://9gag.com/gag/aRER937)
- - 👉 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)<!-- MEMES:END -->
+ - 😝 [He protec he attac](http://9gag.com/gag/aDYQNKN)
+ - 😝 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)
+ - 💣 [You want to be what?](http://9gag.com/gag/a8qVvye)
+ - 😝 [Which geh-mers enjoyed this???](http://9gag.com/gag/aQEyVo2)
+ - 👉 [These asians are very smart](http://9gag.com/gag/aDYQNjK)<!-- MEMES:END -->
 
 ---
 </div>

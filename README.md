@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
+ - 😝 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
+ - 😝 [Wife: `Babe it&#39;s weekend. Don&#39;t sitting arround like dead whale, go say hi to the neighbor.` *Husband and the Neighbor](http://9gag.com/gag/abvRDgv)
+ - 💣 [Good staff](http://9gag.com/gag/aOxpARv)
  - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
- - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
- - 👉 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
+ - 👉 [Imagine vikings coming to get you like this](http://9gag.com/gag/avQ9q9E)<!-- MEMES:END -->
 
 ---
 </div>

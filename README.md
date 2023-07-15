@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit removed your chat history from before 2023](https://www.theverge.com/2023/7/15/23795883/reddit-chat-history-removed-protest-blackout-new-architecture)
  - [The UK CMA pushes back a deadline to block Microsoft&#39;s Activision deal from July 18 to August 29, which could let Microsoft complete the merger within weeks &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230715/p8#a230715p8)
  - [The Beats Studio Buds Plus are still available at an all-time low](https://www.theverge.com/2023/7/15/23794893/beats-studio-buds-plus-fitbit-inspire-3-apple-ipad-mini-deal-sale)
  - [I’ve run out of patience with the Pixel Tablet as a smart hub](https://www.androidauthority.com/pixel-tablet-smart-hub-fail-3344697/)
- - [Ketchup vs. Mustard: The Ultimate Summer Condiment Showdown     - CNET](https://www.cnet.com/news/ketchup-vs-mustard-the-ultimate-summer-condiment-showdown/#ftag=CAD590a51e)
- - [Seeing &#39;Oppenheimer&#39;? Here&#39;s How to Watch More Christopher Nolan Movies     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-more-christopher-nolan-movies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I almost can’t believe it, but Google Tasks is finally kind of good](https://www.theverge.com/23795183/google-tasks-reminders-app-combination)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

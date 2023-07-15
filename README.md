@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good staff](http://9gag.com/gag/aOxpARv)
- - 😝 [Wife: `Babe it&#39;s weekend. Don&#39;t sitting arround like dead whale, go say hi to the neighbor.` *Husband and the Neighbor](http://9gag.com/gag/abvRDgv)
- - 💣 [Come home from school and wait for the red light](http://9gag.com/gag/aOxpEjr)
- - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 👉 [Shit for Luck](http://9gag.com/gag/aA0v709)<!-- MEMES:END -->
+ - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - 😝 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 💣 [He protec he attac](http://9gag.com/gag/aDYQNKN)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
 
 ---
 </div>

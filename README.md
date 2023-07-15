@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honesty](http://9gag.com/gag/aKEKXOO)
- - 😝 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
- - 💣 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
- - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
- - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
+ - 😝 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
+ - 💣 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
+ - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
+ - 👉 [He protec he attac](http://9gag.com/gag/aDYQNKN)<!-- MEMES:END -->
 
 ---
 </div>

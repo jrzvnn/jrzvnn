@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
  - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - 💣 [She is funny](http://9gag.com/gag/a8qVQqp)
- - 😝 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
- - 👉 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
+ - 😝 [She is funny](http://9gag.com/gag/a8qVQqp)
+ - 💣 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
+ - 😝 [Good staff](http://9gag.com/gag/aOxpARv)
+ - 👉 [The rabbit is very smart, he knows the dog is following his scent, so he fools the stupid dog](http://9gag.com/gag/aOxpEXR)<!-- MEMES:END -->
 
 ---
 </div>

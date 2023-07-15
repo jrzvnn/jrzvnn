@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 😝 [You want to be what?](http://9gag.com/gag/a8qVvye)
- - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
- - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
- - 👉 [Do it](http://9gag.com/gag/aXnReKg)<!-- MEMES:END -->
+ - 😝 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)
+ - 😝 [Do it](http://9gag.com/gag/aXnReKg)
+ - 💣 [And they say germans dont have humor](http://9gag.com/gag/az24zYq)
+ - 😝 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 👉 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)<!-- MEMES:END -->
 
 ---
 </div>

@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying to get suffocated](http://9gag.com/gag/anzGw85)
- - 😝 [Shit for Luck](http://9gag.com/gag/aA0v709)
- - 💣 [Imagine vikings coming to get you like this](http://9gag.com/gag/avQ9q9E)
- - 😝 [Potato of luck](http://9gag.com/gag/axomee1)
- - 👉 [Last night, Sabrina Ionescu set the all-time record for NBA or WNBA with a score of 37 points in the Final Round of the 3PT Contest. The previous record was 31 held by Stephen Curry who is considered to be the greatest shooter 3PT shooter in basketball history.](http://9gag.com/gag/aVbR5xP)<!-- MEMES:END -->
+ - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
+ - 😝 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
+ - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
+ - 👉 [He protec he attac](http://9gag.com/gag/aDYQNKN)<!-- MEMES:END -->
 
 ---
 </div>

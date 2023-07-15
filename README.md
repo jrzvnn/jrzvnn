@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American healthcare system is broken](http://9gag.com/gag/ay2vrP8)
- - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
- - 💣 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)
- - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
- - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
+ - 😝 [Come home from school and wait for the red light](http://9gag.com/gag/aOxpEjr)
+ - 😝 [How to pick up girls 101](http://9gag.com/gag/awZe2nx)
+ - 💣 [Shit for Luck](http://9gag.com/gag/aA0v709)
+ - 😝 [Last night, Sabrina Ionescu set the all-time record for NBA or WNBA with a score of 37 points in the Final Round of the 3PT Contest. The previous record was 31 held by Stephen Curry who is considered to be the greatest shooter 3PT shooter in basketball history.](http://9gag.com/gag/aVbR5xP)
+ - 👉 [Potato of luck](http://9gag.com/gag/axomee1)<!-- MEMES:END -->
 
 ---
 </div>

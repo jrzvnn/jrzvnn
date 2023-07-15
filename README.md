@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come home from school and wait for the red light](http://9gag.com/gag/aOxpEjr)
- - 😝 [How to pick up girls 101](http://9gag.com/gag/awZe2nx)
- - 💣 [Shit for Luck](http://9gag.com/gag/aA0v709)
- - 😝 [Last night, Sabrina Ionescu set the all-time record for NBA or WNBA with a score of 37 points in the Final Round of the 3PT Contest. The previous record was 31 held by Stephen Curry who is considered to be the greatest shooter 3PT shooter in basketball history.](http://9gag.com/gag/aVbR5xP)
- - 👉 [Potato of luck](http://9gag.com/gag/axomee1)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Florida... Steve irwin would be so proud](http://9gag.com/gag/az24yVN)
+ - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
+ - 💣 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 😝 [I have seen this shit trending so much on social media today, but they fail to mention the guy has clusaphobia and that&#39;s why he didnt want to go to a seat with less room](http://9gag.com/gag/ay2vrEY)
+ - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
 
 ---
 </div>

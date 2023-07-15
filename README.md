@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
- - 😝 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
- - 💣 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
- - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
+ - 😝 [He protec he attac](http://9gag.com/gag/aDYQNKN)
+ - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
+ - 💣 [Mom exposes Peeping Tom checking out her undressing 12 year old](http://9gag.com/gag/aeQRELv)
+ - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
+ - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
 
 ---
 </div>

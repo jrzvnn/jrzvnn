@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t even think about it...](http://9gag.com/gag/aEqZQp9)
- - 😝 [Do it](http://9gag.com/gag/aXnReKg)
- - 💣 [And they say germans dont have humor](http://9gag.com/gag/az24zYq)
- - 😝 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
- - 👉 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)<!-- MEMES:END -->
+ - 😝 [This shit rocks pretty hard....](http://9gag.com/gag/aL1WO9x)
+ - 😝 [One wrong move and you are finished.](http://9gag.com/gag/aWGRezA)
+ - 💣 [Stand by me](http://9gag.com/gag/a8qVn7O)
+ - 😝 [Get your Ticket here.](http://9gag.com/gag/aWGReR4)
+ - 👉 [She is funny](http://9gag.com/gag/a8qVQqp)<!-- MEMES:END -->
 
 ---
 </div>

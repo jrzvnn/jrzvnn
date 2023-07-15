@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Florida... Steve irwin would be so proud](http://9gag.com/gag/az24yVN)
- - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 💣 [Totally the same...](http://9gag.com/gag/anzG39b)
  - 😝 [I have seen this shit trending so much on social media today, but they fail to mention the guy has clusaphobia and that&#39;s why he didnt want to go to a seat with less room](http://9gag.com/gag/ay2vrEY)
- - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
+ - 😝 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)
+ - 💣 [The best skincare](http://9gag.com/gag/aBd4z4N)
+ - 😝 [American healthcare system is broken](http://9gag.com/gag/ay2vrP8)
+ - 👉 [Totally the same...](http://9gag.com/gag/anzG39b)<!-- MEMES:END -->
 
 ---
 </div>

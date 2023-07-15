@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
- - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 😝 [Dynamic Digital Radiography &lpar;DDR&rpar; - source in comments](http://9gag.com/gag/aGE7QYX)
+ - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
  - 💣 [The best skincare](http://9gag.com/gag/aBd4z4N)
- - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
- - 👉 [Surprised](http://9gag.com/gag/aoKn62m)<!-- MEMES:END -->
+ - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
+ - 👉 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)<!-- MEMES:END -->
 
 ---
 </div>

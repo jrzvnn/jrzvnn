@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All I want is a pair of true wireless buds with a removable neckband](https://www.androidauthority.com/earbuds-need-removable-neckbands-3343486/)
- - [Yoder 640S Review: A Versatile Pellet Smoker](https://www.wired.com/review/yoder-640s/)
- - [The Snow Crab Vanishes](https://www.wired.com/story/the-snow-crab-vanishes/)
- - [The Weekly Authority: 💲Pixel 8 price hike deets leak](https://www.androidauthority.com/the-weekly-authority-july-15-2023-253-3344287/)
- - [Study: ChatGPT helped writers complete tasks, such as writing press releases or reports, 40% faster and produce work that assessors scored 18% higher in quality &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/230715/p6#a230715p6)<!-- TECH:END -->
+ - [Daily deals: $50 off Asus AC1900 Router, $450 off 38-inch Curved Alienware Monitor $1,890 off Klipsch Reference Home Theater System, more](https://appleinsider.com/articles/23/07/15/daily-deals-50-off-asus-ac1900-router-450-off-38-inch-curved-alienware-monitor-1890-off-klipsch-reference-home-theater-system-more?utm_medium=rss)
+ - [The cheapest countries to buy a MacBook Pro](https://www.androidauthority.com/cheapest-place-to-buy-macbook-pro-3345547/)
+ - [Catching a Flight? Here Are 5 Tips to Make Travel Easier](https://www.wired.com/story/5-tips-air-travel-long-flights/)
+ - [Nude Videos of Kids From Hacked Baby Monitors Were Sold on Telegram](https://www.wired.com/story/hikvision-cameras-telegram-children/)
+ - [Kizazi Moto: Generation Fire is the next brilliant sci-fi anthology you’ve been looking for](https://www.theverge.com/23794032/kizazi-moto-generation-fire-disney-plus-animation-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

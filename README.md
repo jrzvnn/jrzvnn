@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/adPRbOM)
- - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 💣 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 😝 [He protec he attac](http://9gag.com/gag/aDYQNKN)
- - 👉 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)<!-- MEMES:END -->
+ - 😝 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
+ - 😝 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)
+ - 💣 [He protec he attac](http://9gag.com/gag/aDYQNKN)
+ - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
+ - 👉 [Bless her](http://9gag.com/gag/anzG8zz)<!-- MEMES:END -->
 
 ---
 </div>

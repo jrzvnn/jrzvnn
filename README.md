@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stand by me](http://9gag.com/gag/a8qVn7O)
- - 😝 [She is funny](http://9gag.com/gag/a8qVQqp)
- - 💣 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
- - 😝 [Good staff](http://9gag.com/gag/aOxpARv)
- - 👉 [The rabbit is very smart, he knows the dog is following his scent, so he fools the stupid dog](http://9gag.com/gag/aOxpEXR)<!-- MEMES:END -->
+ - 😝 [There&#39;s no going back](http://9gag.com/gag/aKEKLLg)
+ - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
+ - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
+ - 👉 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
 
 ---
 </div>

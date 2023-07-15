@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
- - [Some Reddit users report disappearance of their private messages from before 2023; Reddit says the move was announced on June 22 and is effective since June 30 &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230714/p21#a230714p21)
- - [In a Twitter Spaces chat, Elon Musk says xAI plans to collaborate with Tesla on silicon and AI software, use public tweets for AI training, and more &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230714/p20#a230714p20)
- - [The US Appeals Court for the Ninth Circuit denies the FTC&#39;s appeal of a judge&#39;s decision that would have stopped Microsoft&#39;s acquisition of Activision Blizzard &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230714/p19#a230714p19)
- - [Court denies FTC’s last-ditch attempt to stop Microsoft buying Activision Blizzard](https://www.theverge.com/2023/7/14/23794707/microsoft-activision-blizzard-ftc-acquisition-appeal-loses)<!-- TECH:END -->
+ - [Sources: Foxconn is in talks with TSMC and Japan&#39;s TMH to build chip factories in India, days after its $19.5B venture with Vedanta ended &lpar;The Economic Times&rpar;](http://www.techmeme.com/230714/p24#a230714p24)
+ - [A US appeals court temporarily blocks a lower court order that sharply limited US government officials&#39; and agencies&#39; contacts with social media companies &lpar;Brendan Pierson/Reuters&rpar;](http://www.techmeme.com/230714/p23#a230714p23)
+ - [Creator monetization platform Fanhouse agrees to be acquired by Passes, a rival platform that only launched in beta in December 2022 and raised a $9M seed &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230714/p22#a230714p22)
+ - [Mattress Certifications Explained: Your Mattress Should Have One of These 8 Seals     - CNET](https://www.cnet.com/health/sleep/mattress-certifications-explained-your-mattress-should-have-one-of-these-8-seals/#ftag=CAD590a51e)
+ - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

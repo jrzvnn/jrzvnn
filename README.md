@@ -184,7 +184,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some tech insiders say that generative AI won&#39;t save San Francisco&#39;s economy and commercial real estate woes as the startups bring fewer jobs and automate work &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230715/p14#a230715p14)
+ - [Some tech insiders say that generative AI won&#39;t save San Francisco&#39;s economy and commercial real estate woes as AI startups bring fewer jobs and automate work &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230715/p14#a230715p14)
  - [Twitter loses half its ad revenue, still weighed down by debt](https://appleinsider.com/articles/23/07/15/twitter-loses-half-its-ad-revenue-still-weighed-down-by-debt?utm_medium=rss)
  - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
  - [What is Microsoft 365 Copilot? The AI coming to Word, Excel, and more](https://www.androidauthority.com/what-is-microsoft-365-copilot-ai-3345635/)

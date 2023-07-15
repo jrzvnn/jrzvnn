@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Creator monetization platform Fanhouse agrees to sell to rival Passes, which only launched in December 2022, but some creators are apprehensive about the merger &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230715/p1#a230715p1)
  - [Sources: Foxconn is in talks with TSMC and Japan&#39;s TMH to build chip factories in India, days after its $19.5B venture with Vedanta ended &lpar;The Economic Times&rpar;](http://www.techmeme.com/230714/p24#a230714p24)
  - [A US appeals court temporarily blocks a lower court order that sharply limited US government officials&#39; and agencies&#39; contacts with social media companies &lpar;Brendan Pierson/Reuters&rpar;](http://www.techmeme.com/230714/p23#a230714p23)
- - [Creator monetization platform Fanhouse agrees to be acquired by Passes, a rival platform that only launched in beta in December 2022 and raised a $9M seed &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230714/p22#a230714p22)
- - [Mattress Certifications Explained: Your Mattress Should Have One of These 8 Seals     - CNET](https://www.cnet.com/health/sleep/mattress-certifications-explained-your-mattress-should-have-one-of-these-8-seals/#ftag=CAD590a51e)
- - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)<!-- TECH:END -->
+ - [Lucy Guo&#39;s Passes to Buy Fanhouse &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/230714/p22#a230714p22)
+ - [Mattress Certifications Explained: Your Mattress Should Have One of These 8 Seals     - CNET](https://www.cnet.com/health/sleep/mattress-certifications-explained-your-mattress-should-have-one-of-these-8-seals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

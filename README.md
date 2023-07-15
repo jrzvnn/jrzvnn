@@ -185,10 +185,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Bluesky adds the N-word to a &quot;reserved&quot; words list, after users reported that some usernames include the slur, highlighting the site&#39;s ongoing moderation issues &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230715/p12#a230715p12)
+ - [The Best Horror Movies on Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-max-in-july/#ftag=CAD590a51e)
  - [Despite a generative AI funding mania, data shows that other startup funding remains bleak, with valuations down and few IPOs, deals, and late-stage rounds &lpar;Newcomer&rpar;](http://www.techmeme.com/230715/p11#a230715p11)
  - [There’s no wrong way to load this dishwasher](https://www.theverge.com/2023/7/15/23796026/bosch-dishwasher-powercontrol-smart-cleaning-zones)
- - [If the rotating bezel is back, I’ll hit ‘check out’ on a Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-3343975/)
- - [LG UN73 UHD TV review: Beautiful screen with a laggy operating system](https://appleinsider.com/articles/23/07/15/lg-un73-uhd-tv-review-beautiful-screen-with-a-laggy-operating-system?utm_medium=rss)<!-- TECH:END -->
+ - [If the rotating bezel is back, I’ll hit ‘check out’ on a Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-3343975/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

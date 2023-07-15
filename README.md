@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All I want is a pair of true wireless buds with a removable neckband](https://www.androidauthority.com/earbuds-need-removable-neckbands-3343486/)
+ - [Yoder 640S Review: A Versatile Pellet Smoker](https://www.wired.com/review/yoder-640s/)
+ - [The Snow Crab Vanishes](https://www.wired.com/story/the-snow-crab-vanishes/)
  - [The Weekly Authority: 💲Pixel 8 price hike deets leak](https://www.androidauthority.com/the-weekly-authority-july-15-2023-253-3344287/)
- - [Study: ChatGPT helped writers complete tasks, such as writing press releases or reports, 40% faster and produce work that assessors scored 18% higher in quality &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/230715/p6#a230715p6)
- - [VPN Kill Switch: What Is It and Should You Enable It?     - CNET](https://www.cnet.com/tech/services-and-software/vpn-kill-switch-what-is-it-and-should-you-enable-it/#ftag=CAD590a51e)
- - [VPN Split Tunneling: What It Is and Why You Might Use It     - CNET](https://www.cnet.com/tech/services-and-software/vpn-split-tunneling-what-it-is-and-why-you-might-use-it/#ftag=CAD590a51e)
- - [Why Songs Get Stuck in Your Head—and How to Stop Them](https://www.wired.com/story/why-songs-get-stuck-in-your-head-how-to-stop-them/)<!-- TECH:END -->
+ - [Study: ChatGPT helped writers complete tasks, such as writing press releases or reports, 40% faster and produce work that assessors scored 18% higher in quality &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/230715/p6#a230715p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

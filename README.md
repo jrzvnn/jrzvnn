@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
- - 😝 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)
- - 💣 [`German` tourists arrested over gang rape in Mallorca](http://9gag.com/gag/avQ9Bbq)
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 👉 [Anyone else know another movie with 100%?](http://9gag.com/gag/abvRmoB)<!-- MEMES:END -->
+ - 😝 [Bless her](http://9gag.com/gag/anzG8zz)
+ - 😝 [Would you let them in ?](http://9gag.com/gag/a3ZNpPN)
+ - 💣 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
+ - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
 
 ---
 </div>

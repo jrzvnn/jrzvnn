@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I have seen this shit trending so much on social media today, but they fail to mention the guy has clusaphobia and that&#39;s why he didnt want to go to a seat with less room](http://9gag.com/gag/ay2vrEY)
  - 😝 [Toilets of Dubai sheikhs](http://9gag.com/gag/abvRmKr)
- - 😝 [I would never deal with cops like this](http://9gag.com/gag/aBd4jN1)
- - 💣 [He protec he attac](http://9gag.com/gag/aDYQNKN)
- - 😝 [These asians are very smart](http://9gag.com/gag/aDYQNjK)
- - 👉 [Surreal German climate activists](http://9gag.com/gag/aQEyKOz)<!-- MEMES:END -->
+ - 💣 [Bless her](http://9gag.com/gag/anzG8zz)
+ - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
+ - 👉 [He protec he attac](http://9gag.com/gag/aDYQNKN)<!-- MEMES:END -->
 
 ---
 </div>

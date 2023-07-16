@@ -186,9 +186,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Russia bans officials and state employees from using Apple devices for &quot;work purposes&quot;, after the FSB claimed Apple helped the NSA surveil Russian iPhone users &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/230716/p2#a230716p2)
  - [The US SEC acknowledges BlackRock&#39;s and Bitwise&#39;s spot bitcoin ETF applications, indicating the commencement of the official review process for the proposals &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/230716/p1#a230716p1)
- - [Best Cellphone Plans of 2023: Our Top Picks for July     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)
  - [Alibaba&#39;s food delivery service Ele.me commits to bring more social security and welfare benefits to its ~3M couriers, after a similar move by JD.com in March &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230715/p15#a230715p15)
- - [Some tech insiders say that generative AI won&#39;t fix San Francisco&#39;s economic and commercial real estate woes as the startups bring fewer jobs and automate work &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230715/p14#a230715p14)<!-- TECH:END -->
+ - [Some tech insiders say that generative AI won&#39;t fix San Francisco&#39;s economic and commercial real estate woes as the startups bring fewer jobs and automate work &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230715/p14#a230715p14)
+ - [Twitter loses half its ad revenue, still weighed down by debt](https://appleinsider.com/articles/23/07/15/twitter-loses-half-its-ad-revenue-still-weighed-down-by-debt?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

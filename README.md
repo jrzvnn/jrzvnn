@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
- - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
- - 💣 [Future looks bright](http://9gag.com/gag/abvRoRB)
  - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 👉 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)<!-- MEMES:END -->
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 💣 [Future looks bright](http://9gag.com/gag/abvRoRB)
+ - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
+ - 👉 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)<!-- MEMES:END -->
 
 ---
 </div>

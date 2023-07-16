@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A sign in a bar just outside of Cheddar, UK](https://www.reddit.com/r/funny/comments/1512n32/a_sign_in_a_bar_just_outside_of_cheddar_uk/)
- - 😝 [Catchy](https://www.reddit.com/r/funny/comments/1512jft/catchy/)
- - 💣 [Damn chairs](https://www.reddit.com/r/funny/comments/151262k/damn_chairs/)
- - 😝 [Garfield](https://www.reddit.com/r/funny/comments/1511x65/garfield/)
- - 👉 [Why can&#39;t you hear a Pterodactyl use the bathroom.... The P is silent](https://www.reddit.com/r/memes/comments/1510rnc/why_cant_you_hear_a_pterodactyl_use_the_bathroom/)<!-- MEMES:END -->
+ - 😝 [Imagine how long the film would have been](http://9gag.com/gag/adPRzmQ)
+ - 😝 [Finnish public broadcasting company YLE started investigating how plastics are recycled in Europe, it was revealed that the plastics were sent to be stored in China, where they also ended up in the sea](http://9gag.com/gag/aBd4B1z)
+ - 💣 [Potato of luck](http://9gag.com/gag/axomee1)
+ - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
+ - 👉 [Forced snuggle](http://9gag.com/gag/amARZq4)<!-- MEMES:END -->
 
 ---
 </div>

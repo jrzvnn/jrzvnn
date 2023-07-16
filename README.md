@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor: Apple may introduce iPhone 15 in pink](https://appleinsider.com/articles/23/07/16/apple-may-introduce-pink-iphone-15-says-new-color-leak?utm_medium=rss)
  - [Anker’s magnetic wireless battery saved me during a busy vacation](https://www.androidauthority.com/anker-633-magnetic-battery-review-3338413/)
- - [Chi X Barbie On The Go Travel Kit Review &lpar;2023&rpar;: Compact and Capable](https://www.wired.com/review/chi-barbie-hair-travel-kit/)
- - [A Novel Type of Neural Network Comes to the Aid of Big Physics](https://www.wired.com/story/a-novel-type-of-neural-network-comes-to-the-aid-of-big-physics/)
- - [6 Threads App Settings Worth Trying Out](https://www.wired.com/story/threads-app-settings-tips/)
- - [How to Sell Your Old Comics](https://www.wired.com/story/how-to-sell-old-comics/)<!-- TECH:END -->
+ - [A look at ~123 real-time crime centers in the US that use CCTV, facial recognition, and social media monitoring, as critics warn of creeping surveillance &lpar;Zac Larkham/Wired&rpar;](http://www.techmeme.com/230716/p4#a230716p4)
+ - [After DVDs and streaming, Netflix gears up for what appears to be its third and most ambitious act: video games, with 67 in its library and 86 in development &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/230716/p3#a230716p3)
+ - [Russia bans officials and state employees from using Apple devices for &quot;work purposes&quot;, after the FSB claimed Apple helped the NSA surveil Russian iPhone users &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/230716/p2#a230716p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

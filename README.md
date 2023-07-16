@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine vikings coming to get you like this](http://9gag.com/gag/avQ9q9E)
- - 😝 [Shit for Luck](http://9gag.com/gag/aA0v709)
- - 💣 [Potato of luck](http://9gag.com/gag/axomee1)
- - 😝 [Last night, Sabrina Ionescu set the all-time record for NBA or WNBA with a score of 37 points in the Final Round of the 3PT Contest. The previous record was 31 held by Stephen Curry who is considered to be the greatest shooter 3PT shooter in basketball history.](http://9gag.com/gag/aVbR5xP)
- - 👉 [Based Poland](http://9gag.com/gag/abvR8gX)<!-- MEMES:END -->
+ - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 😝 [Smooth operator](http://9gag.com/gag/ay2vwQp)
+ - 💣 [He was on a search streak!](http://9gag.com/gag/az2431x)
+ - 😝 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
+ - 👉 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)<!-- MEMES:END -->
 
 ---
 </div>

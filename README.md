@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 😝 [Future looks bright](http://9gag.com/gag/abvRoRB)
- - 💣 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
+ - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
+ - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
+ - 💣 [Totally the same...](http://9gag.com/gag/anzG39b)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)<!-- MEMES:END -->
+ - 👉 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)<!-- MEMES:END -->
 
 ---
 </div>

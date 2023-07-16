@@ -184,11 +184,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC acknowledges BlackRock&#39;s and Bitwise&#39;s spot bitcoin ETF applications, indicating the commencement of the official review process for the proposals &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/230716/p1#a230716p1)
  - [Alibaba&#39;s food delivery service Ele.me commits to bring more social security and welfare benefits to its ~3M couriers, after a similar move by JD.com in March &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/230715/p15#a230715p15)
  - [Some tech insiders say that generative AI won&#39;t save San Francisco&#39;s economy and commercial real estate woes as AI startups bring fewer jobs and automate work &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230715/p14#a230715p14)
  - [Twitter loses half its ad revenue, still weighed down by debt](https://appleinsider.com/articles/23/07/15/twitter-loses-half-its-ad-revenue-still-weighed-down-by-debt?utm_medium=rss)
- - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
- - [What is Microsoft 365 Copilot? The AI coming to Word, Excel, and more](https://www.androidauthority.com/what-is-microsoft-365-copilot-ai-3345635/)<!-- TECH:END -->
+ - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

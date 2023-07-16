@@ -156,11 +156,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
- - 😝 [Polish man knocks out African migrant who was harassing Polish women in Warsaw.](http://9gag.com/gag/aBd4MKx)
- - 💣 [Surprised](http://9gag.com/gag/aoKn62m)
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
  - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
- - 👉 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)<!-- MEMES:END -->
+ - 💣 [Future looks bright](http://9gag.com/gag/abvRoRB)
+ - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
+ - 👉 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)<!-- MEMES:END -->
 
 ---
 </div>

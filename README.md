@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
- - 😝 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
- - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
- - 👉 [Smooth operator](http://9gag.com/gag/ay2vwQp)<!-- MEMES:END -->
+ - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
+ - 😝 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
+ - 💣 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 👉 [....](http://9gag.com/gag/aeQRzdq)<!-- MEMES:END -->
 
 ---
 </div>

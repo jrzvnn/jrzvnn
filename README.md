@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Apple Silicon M3 Mac releases rumored for October launch](https://appleinsider.com/articles/23/07/16/first-apple-silicon-m3-releases-rumored-for-october-launch?utm_medium=rss)
+ - [Sources: McKinsey, BCG, and other US firms are splitting their IT systems to decouple China data, as Beijing expands anti-espionage rules and data regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230716/p5#a230716p5)
  - [Rumor: Apple may introduce iPhone 15 in pink](https://appleinsider.com/articles/23/07/16/apple-may-introduce-pink-iphone-15-says-new-color-leak?utm_medium=rss)
  - [Anker’s magnetic wireless battery saved me during a busy vacation](https://www.androidauthority.com/anker-633-magnetic-battery-review-3338413/)
- - [A look at ~123 real-time crime centers in the US that use CCTV, facial recognition, and social media monitoring, as critics warn of creeping surveillance &lpar;Zac Larkham/Wired&rpar;](http://www.techmeme.com/230716/p4#a230716p4)
- - [After DVDs and streaming, Netflix gears up for what appears to be its third and most ambitious act: video games, with 67 in its library and 86 in development &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/230716/p3#a230716p3)
- - [Russia bans officials and state employees from using Apple devices for &quot;work purposes&quot;, after the FSB claimed Apple helped the NSA surveil Russian iPhone users &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/230716/p2#a230716p2)<!-- TECH:END -->
+ - [A look at ~123 real-time crime centers in the US that use CCTV, facial recognition, and social media monitoring, as critics warn of creeping surveillance &lpar;Zac Larkham/Wired&rpar;](http://www.techmeme.com/230716/p4#a230716p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

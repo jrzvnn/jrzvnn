@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
- - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
+ - 😝 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
  - 💣 [Smooth operator](http://9gag.com/gag/ay2vwQp)
- - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
- - 👉 [Based chick](http://9gag.com/gag/ajVR4Kq)<!-- MEMES:END -->
+ - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - 👉 [Surprised](http://9gag.com/gag/aoKn62m)<!-- MEMES:END -->
 
 ---
 </div>

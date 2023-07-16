@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A sign in a bar just outside of Cheddar, UK](https://www.reddit.com/r/funny/comments/1512n32/a_sign_in_a_bar_just_outside_of_cheddar_uk/)
  - 😝 [Catchy](https://www.reddit.com/r/funny/comments/1512jft/catchy/)
- - 😝 [Woke up and chose violence](https://www.reddit.com/r/funny/comments/1512bl6/woke_up_and_chose_violence/)
  - 💣 [Damn chairs](https://www.reddit.com/r/funny/comments/151262k/damn_chairs/)
  - 😝 [Garfield](https://www.reddit.com/r/funny/comments/1511x65/garfield/)
- - 👉 [Shit got me emotional](https://www.reddit.com/r/funny/comments/15116de/shit_got_me_emotional/)<!-- MEMES:END -->
+ - 👉 [Why can&#39;t you hear a Pterodactyl use the bathroom.... The P is silent](https://www.reddit.com/r/memes/comments/1510rnc/why_cant_you_hear_a_pterodactyl_use_the_bathroom/)<!-- MEMES:END -->
 
 ---
 </div>

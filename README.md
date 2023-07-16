@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
  - 😝 [And he took that personally](http://9gag.com/gag/adPRz3M)
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
+ - 💣 [I see an absolute win](http://9gag.com/gag/anzGmMz)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
+ - 👉 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)<!-- MEMES:END -->
 
 ---
 </div>

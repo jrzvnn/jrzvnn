@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
  - 😝 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
- - 💣 [Smooth operator](http://9gag.com/gag/ay2vwQp)
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 👉 [Surprised](http://9gag.com/gag/aoKn62m)<!-- MEMES:END -->
+ - 😝 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
+ - 💣 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 👉 [Smooth operator](http://9gag.com/gag/ay2vwQp)<!-- MEMES:END -->
 
 ---
 </div>

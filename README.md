@@ -16,6 +16,7 @@
 </div>
 &nbsp; 
 
+
 * 💻 I’m an Artificial Intelligence intern, taking up Computer Science 
 * 🤖 Learning NLP, AWS and FERN Stack.
 * 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors 

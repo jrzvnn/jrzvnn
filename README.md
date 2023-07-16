@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are my favorite headphones for rock climbing](https://www.androidauthority.com/shokz-openrun-rock-climbing-3344408/)
- - [First Apple Silicon M3 Mac releases rumored for October launch](https://appleinsider.com/articles/23/07/16/first-apple-silicon-m3-releases-rumored-for-october-launch?utm_medium=rss)
- - [18 Best Subscription Boxes to Gift &lpar;2023&rpar;: Services We Love](https://www.wired.com/gallery/best-subscription-gift-boxes/)
- - [Best Internet Providers in Austin, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
- - [Sources: McKinsey, BCG, and other US firms are splitting their IT systems to decouple China data, as Beijing expands anti-espionage rules and data regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230716/p5#a230716p5)<!-- TECH:END -->
+ - [Those new M3-equipped iMacs may be coming in October.](https://www.theverge.com/2023/7/16/23796594/those-new-m3-equipped-imacs-may-be-coming-in-october)
+ - [Sony and Microsoft sign a deal to keep Call of Duty on PlayStation after the acquisition of Activision Blizzard, ending a bitter battle between the companies &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230716/p6#a230716p6)
+ - [Apple has a unique working arrangement with the Vision Pro team](https://appleinsider.com/articles/23/07/16/apple-has-a-unique-working-arrangement-with-the-vision-pro-team?utm_medium=rss)
+ - [Jamstik Studio Review: more than just a midi instrument](https://appleinsider.com/articles/23/07/16/jamstik-studio-review-more-than-just-a-midi-instrument?utm_medium=rss)
+ - [Sony agrees to a Call of Duty deal with Microsoft](https://www.theverge.com/2023/7/16/23792215/sony-microsoft-call-of-duty-cod-deal-signed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

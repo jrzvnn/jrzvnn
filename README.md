@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
- - 😝 [Title](http://9gag.com/gag/aA0v9w2)
+ - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
+ - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
  - 💣 [And he took that personally](http://9gag.com/gag/adPRz3M)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)<!-- MEMES:END -->
+ - 👉 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)<!-- MEMES:END -->
 
 ---
 </div>

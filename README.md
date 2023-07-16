@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi plans to focus on retail stores to boost India sales after years of e-commerce bets, in a bid to revive smartphone sales after falling behind Samsung &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/230716/p8#a230716p8)
  - [The best ChatGPT plugins to unlock a smarter and more capable chatbot](https://www.androidauthority.com/best-chatgpt-plugins-3345649/)
- - [Amazon Has Savings on Both Generations of the Apple Pencil Right Now     - CNET](https://www.cnet.com/deals/score-apple-pencil-from-79/#ftag=CAD590a51e)
  - [How to install and use Game Porting Toolkit in Xcode](https://appleinsider.com/inside/macos-sonoma/tips/how-to-install-and-use-game-porting-toolkit-in-xcode?utm_medium=rss)
- - [This Versatile HP Spectre 2-in-1 Is $600 Off for Today Only at Best Buy     - CNET](https://www.cnet.com/deals/this-versatile-hp-spectre-2-in-1-is-600-off-for-today-only-at-best-buy/#ftag=CAD590a51e)
- - [Google Translate helped me navigate a hospital emergency](https://www.androidauthority.com/google-translate-hospital-emergency-3345054/)<!-- TECH:END -->
+ - [Google Translate helped me navigate a hospital emergency](https://www.androidauthority.com/google-translate-hospital-emergency-3345054/)
+ - [You Can Snag This Compact Crux Air Fryer for Just $30 at Best Buy     - CNET](https://www.cnet.com/deals/best-buy-knocks-over-50-off-unique-crux-marshmello-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

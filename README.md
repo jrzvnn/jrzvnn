@@ -158,8 +158,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Shit for Luck](http://9gag.com/gag/aA0v709)
  - 😝 [Last night, Sabrina Ionescu set the all-time record for NBA or WNBA with a score of 37 points in the Final Round of the 3PT Contest. The previous record was 31 held by Stephen Curry who is considered to be the greatest shooter 3PT shooter in basketball history.](http://9gag.com/gag/aVbR5xP)
  - 💣 [Potato of luck](http://9gag.com/gag/axomee1)
- - 😝 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
- - 👉 [Forced snuggle](http://9gag.com/gag/amARZq4)<!-- MEMES:END -->
+ - 😝 [Forced snuggle](http://9gag.com/gag/amARZq4)
+ - 👉 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)<!-- MEMES:END -->
 
 ---
 </div>

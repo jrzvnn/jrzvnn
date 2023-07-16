@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
+ - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
  - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
- - 💣 [Title](http://9gag.com/gag/aA0v9w2)
+ - 💣 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
  - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
 

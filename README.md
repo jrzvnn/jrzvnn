@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mike Rockwell&#39;s division is now called Vision Products Group, hinting at an organizational change at Apple; Apple may hold an October event for M3 Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230716/p7#a230716p7)
  - [Those new M3-equipped iMacs may be coming in October.](https://www.theverge.com/2023/7/16/23796594/those-new-m3-equipped-imacs-may-be-coming-in-october)
  - [Sony and Microsoft sign a deal to keep Call of Duty on PlayStation after the acquisition of Activision Blizzard, ending a bitter battle between the companies &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230716/p6#a230716p6)
  - [Apple has a unique working arrangement with the Vision Pro team](https://appleinsider.com/articles/23/07/16/apple-has-a-unique-working-arrangement-with-the-vision-pro-team?utm_medium=rss)
- - [Jamstik Studio Review: more than just a midi instrument](https://appleinsider.com/articles/23/07/16/jamstik-studio-review-more-than-just-a-midi-instrument?utm_medium=rss)
- - [Sony agrees to a Call of Duty deal with Microsoft](https://www.theverge.com/2023/7/16/23792215/sony-microsoft-call-of-duty-cod-deal-signed)<!-- TECH:END -->
+ - [Jamstik Studio Review: more than just a midi instrument](https://appleinsider.com/articles/23/07/16/jamstik-studio-review-more-than-just-a-midi-instrument?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

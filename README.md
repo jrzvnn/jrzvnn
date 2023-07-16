@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at ~123 real-time crime centers in the US that use CCTV, facial recognition, and social media monitoring, as critics warn of creeping surveillance &lpar;Zac Larkham/Wired&rpar;](http://www.techmeme.com/230716/p4#a230716p4)
  - [After DVDs and streaming, Netflix gears up for what appears to be its third and most ambitious act: video games, with 67 in its library and 86 in development &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/230716/p3#a230716p3)
  - [The EU Urges the US to Join the Fight to Regulate AI](https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/)
  - [Russia bans officials and state employees from using Apple devices for &quot;work purposes&quot;, after the FSB claimed Apple helped the NSA surveil Russian iPhone users &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/230716/p2#a230716p2)
- - [The US SEC acknowledges BlackRock&#39;s and Bitwise&#39;s spot bitcoin ETF applications, indicating the commencement of the official review process for the proposals &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/230716/p1#a230716p1)
- - [Best Cellphone Plans of 2023: Our Top Picks for July     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US SEC acknowledges BlackRock&#39;s and Bitwise&#39;s spot bitcoin ETF applications, indicating the commencement of the official review process for the proposals &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/230716/p1#a230716p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

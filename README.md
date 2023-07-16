@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And he took that personally](http://9gag.com/gag/adPRz3M)
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
+ - 😝 [So probably not](https://www.reddit.com/r/funny/comments/151gplj/so_probably_not/)
+ - 😝 [A surprise that was a little too unexpected](https://www.reddit.com/r/funny/comments/151fxht/a_surprise_that_was_a_little_too_unexpected/)
+ - 💣 [Replacing her soap by a potato](https://www.reddit.com/r/funny/comments/151ftrq/replacing_her_soap_by_a_potato/)
+ - 😝 [Grinding all my life](https://www.reddit.com/r/funny/comments/151epv8/grinding_all_my_life/)
+ - 👉 [Sad truth](https://www.reddit.com/r/funny/comments/151eitu/sad_truth/)<!-- MEMES:END -->
 
 ---
 </div>

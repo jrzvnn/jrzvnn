@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Sell Your Old Comics](https://www.wired.com/story/how-to-sell-old-comics/)
- - [Did Anyone Ever Really Need a Smart Display?](https://www.wired.com/story/did-anyone-ever-really-need-a-smart-display/)
- - [How to Use Generative AI Tools While Still Protecting Your Privacy](https://www.wired.com/story/how-to-use-ai-tools-protect-privacy/)
- - [A look at ~123 real-time crime centers in the US that use CCTV, facial recognition, and social media monitoring, as critics warn of creeping surveillance &lpar;Zac Larkham/Wired&rpar;](http://www.techmeme.com/230716/p4#a230716p4)
- - [After DVDs and streaming, Netflix gears up for what appears to be its third and most ambitious act: video games, with 67 in its library and 86 in development &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/230716/p3#a230716p3)<!-- TECH:END -->
+ - [Anker’s magnetic wireless battery saved me during a busy vacation](https://www.androidauthority.com/anker-633-magnetic-battery-review-3338413/)
+ - [Chi X Barbie On The Go Travel Kit Review &lpar;2023&rpar;: Compact and Capable](https://www.wired.com/review/chi-barbie-hair-travel-kit/)
+ - [A Novel Type of Neural Network Comes to the Aid of Big Physics](https://www.wired.com/story/a-novel-type-of-neural-network-comes-to-the-aid-of-big-physics/)
+ - [6 Threads App Settings Worth Trying Out](https://www.wired.com/story/threads-app-settings-tips/)
+ - [How to Sell Your Old Comics](https://www.wired.com/story/how-to-sell-old-comics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

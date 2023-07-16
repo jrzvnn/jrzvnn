@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future looks bright](http://9gag.com/gag/abvRoRB)
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 💣 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 😝 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
+ - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 💣 [Title](http://9gag.com/gag/aA0v9w2)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Totally the same...](http://9gag.com/gag/anzG39b)<!-- MEMES:END -->
+ - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
 
 ---
 </div>

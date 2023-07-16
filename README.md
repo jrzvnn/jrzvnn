@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future looks bright](http://9gag.com/gag/abvRoRB)
  - 😝 [And he took that personally](http://9gag.com/gag/adPRz3M)
- - 💣 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
+ - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - 💣 [Found it!](http://9gag.com/gag/aEqZ40x)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Title](http://9gag.com/gag/aA0v9w2)<!-- MEMES:END -->
+ - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
 
 ---
 </div>

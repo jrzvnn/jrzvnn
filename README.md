@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 💣 [Surprised](http://9gag.com/gag/aoKn62m)
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 💣 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
+ - 👉 [Future looks bright](http://9gag.com/gag/abvRoRB)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
- - 💣 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
+ - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
+ - 😝 [Title](http://9gag.com/gag/aA0v9w2)
+ - 💣 [And he took that personally](http://9gag.com/gag/adPRz3M)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
+ - 👉 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are my favorite headphones for rock climbing](https://www.androidauthority.com/shokz-openrun-rock-climbing-3344408/)
  - [First Apple Silicon M3 Mac releases rumored for October launch](https://appleinsider.com/articles/23/07/16/first-apple-silicon-m3-releases-rumored-for-october-launch?utm_medium=rss)
  - [18 Best Subscription Boxes to Gift &lpar;2023&rpar;: Services We Love](https://www.wired.com/gallery/best-subscription-gift-boxes/)
- - [Sources: McKinsey, BCG, and other US firms are splitting their IT systems to decouple China data, as Beijing expands anti-espionage rules and data regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230716/p5#a230716p5)
- - [Rumor: Apple may introduce iPhone 15 in pink](https://appleinsider.com/articles/23/07/16/apple-may-introduce-pink-iphone-15-says-new-color-leak?utm_medium=rss)
- - [iOS 17 Hands-On: StandBy Mode and Stickers Live Up to the Hype     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-hands-on-standby-mode-and-stickers-live-up-to-the-hype/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Austin, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
+ - [Sources: McKinsey, BCG, and other US firms are splitting their IT systems to decouple China data, as Beijing expands anti-espionage rules and data regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230716/p5#a230716p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

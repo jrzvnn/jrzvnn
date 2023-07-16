@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
- - 😝 [Title](http://9gag.com/gag/aA0v9w2)
- - 💣 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
+ - 😝 [Potato of luck](http://9gag.com/gag/axomee1)
+ - 😝 [Finnish public broadcasting company YLE started investigating how plastics are recycled in Europe, it was revealed that the plastics were sent to be stored in China, where they also ended up in the sea](http://9gag.com/gag/aBd4B1z)
+ - 💣 [Roasted](http://9gag.com/gag/abvRnWX)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
+ - 👉 [Forced snuggle](http://9gag.com/gag/amARZq4)<!-- MEMES:END -->
 
 ---
 </div>

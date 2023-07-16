@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit for Luck](http://9gag.com/gag/aA0v709)
- - 😝 [Finnish public broadcasting company YLE started investigating how plastics are recycled in Europe, it was revealed that the plastics were sent to be stored in China, where they also ended up in the sea](http://9gag.com/gag/aBd4B1z)
- - 💣 [Potato of luck](http://9gag.com/gag/axomee1)
- - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Forced snuggle](http://9gag.com/gag/amARZq4)<!-- MEMES:END -->
+ - 😝 [Catchy](https://www.reddit.com/r/funny/comments/1512jft/catchy/)
+ - 😝 [Woke up and chose violence](https://www.reddit.com/r/funny/comments/1512bl6/woke_up_and_chose_violence/)
+ - 💣 [Damn chairs](https://www.reddit.com/r/funny/comments/151262k/damn_chairs/)
+ - 😝 [Garfield](https://www.reddit.com/r/funny/comments/1511x65/garfield/)
+ - 👉 [Shit got me emotional](https://www.reddit.com/r/funny/comments/15116de/shit_got_me_emotional/)<!-- MEMES:END -->
 
 ---
 </div>

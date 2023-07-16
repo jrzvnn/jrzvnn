@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not the size of the man in the fight, it&#39;s the size of the fight in the man](http://9gag.com/gag/a04OyAz)
- - 😝 [Based Poland](http://9gag.com/gag/abvR8gX)
- - 💣 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 😝 [Future looks bright](http://9gag.com/gag/abvRoRB)
+ - 😝 [And he took that personally](http://9gag.com/gag/adPRz3M)
+ - 💣 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/aA0v9w2)<!-- MEMES:END -->
 
 ---
 </div>

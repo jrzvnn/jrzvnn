@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
  - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
- - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
- - 💣 [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
+ - 💣 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Totally the same...](http://9gag.com/gag/anzG39b)<!-- MEMES:END -->
+ - 👉 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 😝 [Title](http://9gag.com/gag/aA0v9w2)
  - 😝 [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
  - 💣 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [I see an absolute win](http://9gag.com/gag/anzGmMz)<!-- MEMES:END -->
+ - 👉 [He was on a search streak!](http://9gag.com/gag/az2431x)<!-- MEMES:END -->
 
 ---
 </div>

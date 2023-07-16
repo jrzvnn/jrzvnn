@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lionel Messi Unveiling: How to Watch and Stream Inter Miami CF Presentation Event Live on Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-unveiling-how-to-watch-and-stream-inter-miami-presentation-event-live-on-apple-tv/#ftag=CAD590a51e)
- - [Free and Insanely Useful Apps You Need to Download for College     - CNET](https://www.cnet.com/tech/services-and-software/free-apps-you-definitely-need-to-download-before-starting-college/#ftag=CAD590a51e)
  - [Boox Tab Mini C Review: an e-ink tablet that we can get behind](https://appleinsider.com/articles/23/07/16/boox-tab-mini-c-review-an-e-ink-tablet-that-we-can-get-behind?utm_medium=rss)
  - [Mexico vs. Panama Livestream: How to Watch CONCACAF Gold Cup 2023 Final Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/mexico-vs-panama-livestream-how-to-watch-concacaf-gold-cup-2023-final-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Russia bans officials from using iPhones in U.S. spying row](https://appleinsider.com/articles/23/07/16/russia-bans-officials-from-using-iphones-in-us-spying-row?utm_medium=rss)<!-- TECH:END -->
+ - [Russia bans officials from using iPhones in U.S. spying row](https://appleinsider.com/articles/23/07/16/russia-bans-officials-from-using-iphones-in-us-spying-row?utm_medium=rss)
+ - [The best thing about my Mac Studio is its mustache](https://www.theverge.com/2023/7/16/23796785/apple-design-mac-studio-minimalism-macbook-air-pro-iphone)
+ - [Experts explain why there&#39;s no magic formula to always distinguish human-written and AI-written text, meaning AI writing detectors can only make a strong guess &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230716/p9#a230716p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
- - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
- - 💣 [And he took that personally](http://9gag.com/gag/adPRz3M)
+ - 😝 [It&#39;s not the size of the man in the fight, it&#39;s the size of the fight in the man](http://9gag.com/gag/a04OyAz)
+ - 😝 [Based Poland](http://9gag.com/gag/abvR8gX)
+ - 💣 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)<!-- MEMES:END -->
+ - 👉 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)<!-- MEMES:END -->
 
 ---
 </div>

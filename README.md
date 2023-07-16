@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts explain why there&#39;s no magic formula to always distinguish human-written and AI-written text, meaning AI writing detectors can only make a strong guess &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230716/p9#a230716p9)
  - [Best Cheaper Rivals to Apple AirPods Max for 2023: Sony, Bose, AirPods Pro 2 and More     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods-max-alternatives/#ftag=CAD590a51e)
  - [Govee Curtain Lights review: bold, interactive smart lighting](https://appleinsider.com/articles/23/07/16/govee-curtain-lights-review-bold-interactive-smart-lighting?utm_medium=rss)
  - [Christopher Nolan wants Oppenheimer to be a cautionary tale for Silicon Valley](https://www.theverge.com/2023/7/16/23796659/christopher-nolan-oppenheimer-ai-warning-silicon-valley)
- - [Xiaomi plans to focus on retail stores to boost India sales after years of e-commerce bets, in a bid to revive smartphone sales after falling behind Samsung &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/230716/p8#a230716p8)
- - [The best ChatGPT plugins to unlock a smarter and more capable chatbot](https://www.androidauthority.com/best-chatgpt-plugins-3345649/)<!-- TECH:END -->
+ - [Xiaomi plans to focus on retail stores to boost India sales after years of e-commerce bets, in a bid to revive smartphone sales after falling behind Samsung &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/230716/p8#a230716p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

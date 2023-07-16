@@ -23,39 +23,7 @@
 * 👉 `npx jrzvnn` Hit in your console or terminal to connect with me.
 * 📫 How to reach me: jrzvnn@gmail.com
 
-<br/>
-<div align="center" > 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" >
-</div>
-<br />
- <div style="display: flex; align-items: flex-start; flex-wrap: wrap;" align="center">
- 
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="63" height="63" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="63" height="63" /> <br />
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=md" alt="md" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=github" alt="github" width="63" height="63" /> <br />
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=neovim" alt="neovim" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="63" height="63" />
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="63" height="63" />
-</div>
+
 
 <br />
 <br />

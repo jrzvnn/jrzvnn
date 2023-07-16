@@ -193,11 +193,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surprised](http://9gag.com/gag/aoKn62m)
- - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
- - 💣 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
- - 😝 [20-25 cm usable length, girth close to a redbull can. And even girls who bought small dildos at first &lpar;first purchase&rpar;, eventually returned to get the larger ones...](http://9gag.com/gag/abvRo9p)
- - 👉 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)<!-- MEMES:END -->
+ - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
+ - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 💣 [Smooth operator](http://9gag.com/gag/ay2vwQp)
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 👉 [Based chick](http://9gag.com/gag/ajVR4Kq)<!-- MEMES:END -->
 
 ---
 </div>

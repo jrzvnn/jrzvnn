@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine how long the film would have been](http://9gag.com/gag/adPRzmQ)
- - 😝 [Finnish public broadcasting company YLE started investigating how plastics are recycled in Europe, it was revealed that the plastics were sent to be stored in China, where they also ended up in the sea](http://9gag.com/gag/aBd4B1z)
- - 💣 [Potato of luck](http://9gag.com/gag/axomee1)
+ - 😝 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
+ - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
+ - 💣 [Surprised](http://9gag.com/gag/aoKn62m)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Forced snuggle](http://9gag.com/gag/amARZq4)<!-- MEMES:END -->
+ - 👉 [Totally the same...](http://9gag.com/gag/anzG39b)<!-- MEMES:END -->
 
 ---
 </div>

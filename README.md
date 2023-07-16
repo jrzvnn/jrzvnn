@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 😝 [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
  - 😝 [And he took that personally](http://9gag.com/gag/adPRz3M)
  - 💣 [I see an absolute win](http://9gag.com/gag/anzGmMz)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/aA0v9w2)<!-- MEMES:END -->
 
 ---
 </div>

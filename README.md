@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
- - 😝 [Totally the same...](http://9gag.com/gag/anzG39b)
- - 💣 [Father makes sure his autistic son doesn&#39;t get too close or touch the royal guard and then this happens...](http://9gag.com/gag/awZe2rB)
+ - 😝 [Future looks bright](http://9gag.com/gag/abvRoRB)
+ - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - 💣 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Future looks bright](http://9gag.com/gag/abvRoRB)<!-- MEMES:END -->
+ - 👉 [Totally the same...](http://9gag.com/gag/anzG39b)<!-- MEMES:END -->
 
 ---
 </div>

@@ -156,8 +156,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Normal field trip in Thailand](http://9gag.com/gag/aWGRypK)
- - 😝 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
- - 💣 [Surprised](http://9gag.com/gag/aoKn62m)
+ - 😝 [The best skincare](http://9gag.com/gag/aBd4z4N)
+ - 💣 [This is beyond the Geneva conventions.](http://9gag.com/gag/aVbRrQw)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
  - 👉 [Totally the same...](http://9gag.com/gag/anzG39b)<!-- MEMES:END -->
 

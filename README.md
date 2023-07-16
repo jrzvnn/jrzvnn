@@ -12,8 +12,7 @@
 <h4 align="center"><samp>Greetings 👋, fellow code adventurer! Prepare to embark on a journey through my GitHub repository, where every line of code has been carefully crafted to deliver maximum pun-tastic enjoyment. 🚀 </samp></h4>
 
 <div align="center">
-	<img src="gitartwork.svg" alt="gitartwork">
-<!-- 	<img src="https://github.com/jrzvnn/jrzvnn/blob/main/screenshot.gif" alt="Trex."> -->
+	<img src="https://github.com/jrzvnn/jrzvnn/blob/main/screenshot.gif" alt="Trex.">
 </div>
 &nbsp; 
 
@@ -171,5 +170,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-
+<div align="center">
+	<img src="gitartwork.svg" alt="gitartwork">
+</div>
 ---

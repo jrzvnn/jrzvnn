@@ -148,9 +148,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Wix debuts AI Site Generator, a tool that uses chat prompts to create entire websites including components for e-commerce, scheduling, event ticketing, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230717/p16#a230717p16)
  - [The US SEC plans to consider, as soon as this fall, conflict of interest rules for financial advisers and brokerages using AI to steer clients toward products &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230717/p15#a230717p15)
+ - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)
  - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
- - [YouTube is testing a new way to let you easily watch videos at 2x speed](https://www.theverge.com/2023/7/17/23797857/youtube-premium-long-press-watch-videos-2x-speed-experiment)
- - [Best Sonos Deals: Summer Savings on Speaker Sets     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dating Sites for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-sites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

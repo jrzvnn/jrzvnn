@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
- - 😝 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
- - 💣 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)
+ - 😝 [Good parenting, we need more of this today](http://9gag.com/gag/aDYQE1w)
+ - 😝 [How are they always suprised, when they `... and Find out`](http://9gag.com/gag/aWGRKD3)
+ - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Deadly dead](http://9gag.com/gag/a5X50Do)<!-- MEMES:END -->
+ - 👉 [What an intolerant and racist country. Miss Poland won by white &lt;wait for it&gt; WOMAN!](http://9gag.com/gag/aGE7XEz)<!-- MEMES:END -->
 
 ---
 </div>

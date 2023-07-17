@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iMac rumors: Apple Silicon M3, largest model ever, and more](https://appleinsider.com/articles/23/07/17/new-imac-rumors-apple-silicon-m3-largest-model-ever-and-more?utm_medium=rss)
  - [An interview with LinkedIn CEO Ryan Roslansky on designing tools to keep users coming back more often, pulling back from China, &quot;the great reshuffle&quot;, and more &lpar;Andrew Edgecliffe-Johnson/Financial Times&rpar;](http://www.techmeme.com/230717/p14#a230717p14)
  - [Guardians of the Galaxy Vol. 3 hits Disney Plus in August](https://www.theverge.com/2023/7/17/23797799/guardian-of-the-galaxy-vol-3-disney-plus-streaming-release)
  - [Galaxy Z Flip 5 leak shows full cover display keyboard and other widgets](https://www.androidauthority.com/galaxy-z-flip-5-widgets-3345861/)
- - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
- - [This is the biggest deal of 2023 on the best Samsung earbuds](https://www.androidauthority.com/galaxy-buds-2-pro-deal-3345875/)<!-- TECH:END -->
+ - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

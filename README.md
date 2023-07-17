@@ -159,7 +159,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
  - 💣 [Exactly](http://9gag.com/gag/aoKnQrg)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [I see an absolute win](http://9gag.com/gag/anzGmMz)<!-- MEMES:END -->
+ - 👉 [Smooth operator](http://9gag.com/gag/ay2vwQp)<!-- MEMES:END -->
 
 ---
 </div>

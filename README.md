@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good parenting, we need more of this today](http://9gag.com/gag/aDYQE1w)
- - 😝 [Poland ain&#39;t no Germany or Sweden, people will f**k you up if you do such shit as migrant](http://9gag.com/gag/aA0v80g)
- - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
+ - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
+ - 😝 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)<!-- MEMES:END -->
+ - 👉 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)<!-- MEMES:END -->
 
 ---
 </div>

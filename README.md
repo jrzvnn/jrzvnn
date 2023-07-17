@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft might be killing Xbox Live Gold](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)
+ - [Samsung prices its 27-inch 5K monitor at $1,599 — just like Apple’s Studio Display](https://www.theverge.com/2023/7/17/23797004/samsung-viewfinity-s9-price-release-date-announced)
  - [The next MacBook Air could be dynamite in a small package](https://www.androidauthority.com/apple-macbook-air-m3-leak-3345713/)
  - [A look at the Artificial Inventor Project, which has filed pro bono test cases in the US and elsewhere seeking patent protection for AI-generated inventions &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230717/p1#a230717p1)
- - [This rare iPhone just got sold for 238 iPhone 14s](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)
- - [Spanking new Galaxy Watch 6 images clock in all the design details](https://www.androidauthority.com/samsung-galaxy-watch-6-series-renders-3345695/)
- - [Best Teeth Whitening Kits in 2023     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This rare iPhone just got sold for 238 iPhone 14s](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

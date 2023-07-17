@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unopened original iPhone auction smashes record with $158,000 price [u]](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)
+ - [Former Twitter Africa staff, laid off after accepting a May 2023 offer of three months&#39; severance, say they have not been paid or even heard from Twitter since &lpar;Larry Madowo/CNN&rpar;](http://www.techmeme.com/230717/p13#a230717p13)
+ - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)
+ - [Unopened original iPhone auction smashes record with $190,000 price [u]](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)
  - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Louisville-based JumpCloud says a state-backed hacking group breached its systems on June 22 via a spear-phishing attack targeting a small set of its customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)
- - [The new Moto G Play &lpar;2023&rpar; just hit a record low price of $109.99](https://www.androidauthority.com/moto-g-play-2023-deal-3345836/)
- - [Burna Boy&#39;s &#39;Love, Damini&#39; tour coming to Apple Music Live on July 19](https://appleinsider.com/articles/23/07/17/burna-boys-love-damini-tour-coming-to-apple-music-live-on-july-19?utm_medium=rss)<!-- TECH:END -->
+ - [Louisville-based JumpCloud says a state-backed hacking group breached its systems on June 22 via a spear-phishing attack targeting a small set of its customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

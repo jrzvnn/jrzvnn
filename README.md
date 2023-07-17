@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming transparent phone is giving us all sorts of Nothing Phone 2 vibes](https://www.androidauthority.com/infinix-gt-10-pro-leak-3345753/)
- - [Binance completes integration of the Bitcoin Lightning Network, enabling faster and cheaper bitcoin transactions, after setting up Lightning nodes in June &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230717/p6#a230717p6)
- - [Thunes, which provides a cross-border B2B payment service, raised a $72M Series C led by Marshall Wace at a $900M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230717/p5#a230717p5)
- - [Apple TV+ tech problems disrupt Lionel Messi&#39;s MLS debut](https://appleinsider.com/articles/23/07/17/apple-tv-tech-problems-disrupt-lionel-messis-mls-debut?utm_medium=rss)
- - [Sources: Microsoft faces a formal EU antitrust investigation next week over tying Teams with Office, after concessions to appease concerns proved insufficient &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230717/p4#a230717p4)<!-- TECH:END -->
+ - [New iMac rumors: Apple Silicon M3, largest model ever, and more](https://appleinsider.com/articles/23/07/17/new-imac-rumors-apple-silicon-m3-largest-model-ever-and-more?utm_medium=rss)
+ - [Rumor: iPhone 15 may use longer-lasting stacked batteries](https://appleinsider.com/articles/23/07/17/rumor-iphone-15-may-use-longer-lasting-stacked-batteries?utm_medium=rss)
+ - [The Best Motorcycle Gear &lpar;2023&rpar;: Helmets, Bluetooth Headsets, and More](https://www.wired.com/story/best-motorcycle-gear/)
+ - [The Top New Features in MacOS Sonoma: Release Date and Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
+ - [How to control HomeKit with Stream Deck](https://appleinsider.com/inside/homekit/tips/how-to-control-homekit-with-stream-deck?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

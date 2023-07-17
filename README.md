@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta check then double check](http://9gag.com/gag/avQ9Krn)
  - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
- - 💣 [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 😝 [And he took that personally](http://9gag.com/gag/adPRz3M)
+ - 💣 [Title](http://9gag.com/gag/aA0v9w2)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Smooth operator](http://9gag.com/gag/ay2vwQp)<!-- MEMES:END -->
+ - 👉 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)<!-- MEMES:END -->
 
 ---
 </div>

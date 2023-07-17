@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to sunset Games with Gold on September 1 and to replace Xbox Live Gold with Xbox Game Pass Core, which includes 25+ games, on September 14 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230717/p8#a230717p8)
+ - [SmartWings shades, SwitchBot Lock adds Matter &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/07/17/smartwings-shades-switchbot-lock-adds-matter-more-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Poll: Do you install system updates straight away or wait?](https://www.androidauthority.com/install-system-updates-wait-poll-3345789/)
  - [Millions of sensitive emails have been missent to Mali&#39;s .ML domain due to people mistyping the US military&#39;s .MIL domain; .ML control reverts to Mali July 17 &lpar;Financial Times&rpar;](http://www.techmeme.com/230717/p7#a230717p7)
- - [OnePlus Keyboard 81 Pro coming to the US and Canada this month](https://www.androidauthority.com/oneplus-keyboard-81-pro-3345442/)
- - [OnePlus 11 getting limited edition Genshin Impact collector’s box](https://www.androidauthority.com/oneplus-11-genshin-impact-3345516/)
- - [Corsair acquires mechanical keyboard specialist Drop](https://www.theverge.com/2023/7/17/23797338/corsair-drop-acquisition-mechanical-keyboards)<!-- TECH:END -->
+ - [OnePlus Keyboard 81 Pro coming to the US and Canada this month](https://www.androidauthority.com/oneplus-keyboard-81-pro-3345442/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

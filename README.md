@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 😝 [Title](http://9gag.com/gag/aA0v9w2)
- - 💣 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 😝 [Huh](http://9gag.com/gag/aQEy0dW)
+ - 😝 [Good parenting, we need more of this today](http://9gag.com/gag/aDYQE1w)
+ - 💣 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)<!-- MEMES:END -->
+ - 👉 [Source in comments](http://9gag.com/gag/a5X58pG)<!-- MEMES:END -->
 
 ---
 </div>

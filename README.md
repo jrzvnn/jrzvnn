@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This upcoming transparent phone is giving us all sorts of Nothing Phone 2 vibes](https://www.androidauthority.com/infinix-gt-10-pro-leak-3345753/)
  - [Binance completes integration of the Bitcoin Lightning Network, enabling faster and cheaper bitcoin transactions, after setting up Lightning nodes in June &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230717/p6#a230717p6)
  - [Thunes, which provides a cross-border B2B payment service, raised a $72M Series C led by Marshall Wace at a $900M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230717/p5#a230717p5)
  - [Apple TV+ tech problems disrupt Lionel Messi&#39;s MLS debut](https://appleinsider.com/articles/23/07/17/apple-tv-tech-problems-disrupt-lionel-messis-mls-debut?utm_medium=rss)
- - [Sources: Microsoft faces a formal EU antitrust investigation next week over tying Teams with Office, after concessions to appease concerns proved insufficient &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230717/p4#a230717p4)
- - [An Ancient Battle Is Playing Out in the DNA of Every Embryo](https://www.wired.com/story/an-ancient-battle-is-playing-out-in-the-dna-of-every-embryo/)<!-- TECH:END -->
+ - [Sources: Microsoft faces a formal EU antitrust investigation next week over tying Teams with Office, after concessions to appease concerns proved insufficient &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230717/p4#a230717p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

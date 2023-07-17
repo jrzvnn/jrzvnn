@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iMac rumors: Apple Silicon M3, largest model ever, and more](https://appleinsider.com/articles/23/07/17/new-imac-rumors-apple-silicon-m3-largest-model-ever-and-more?utm_medium=rss)
- - [Rumor: iPhone 15 may use longer-lasting stacked batteries](https://appleinsider.com/articles/23/07/17/rumor-iphone-15-may-use-longer-lasting-stacked-batteries?utm_medium=rss)
- - [The Best Motorcycle Gear &lpar;2023&rpar;: Helmets, Bluetooth Headsets, and More](https://www.wired.com/story/best-motorcycle-gear/)
- - [The Top New Features in MacOS Sonoma: Release Date and Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
- - [How to control HomeKit with Stream Deck](https://appleinsider.com/inside/homekit/tips/how-to-control-homekit-with-stream-deck?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Do you install system updates straight away or wait?](https://www.androidauthority.com/install-system-updates-wait-poll-3345789/)
+ - [Millions of sensitive emails have been missent to Mali&#39;s .ML domain due to people mistyping the US military&#39;s .MIL domain; .ML control reverts to Mali July 17 &lpar;Financial Times&rpar;](http://www.techmeme.com/230717/p7#a230717p7)
+ - [OnePlus Keyboard 81 Pro coming to the US and Canada this month](https://www.androidauthority.com/oneplus-keyboard-81-pro-3345442/)
+ - [OnePlus 11 getting limited edition Genshin Impact collector’s box](https://www.androidauthority.com/oneplus-11-genshin-impact-3345516/)
+ - [Corsair acquires mechanical keyboard specialist Drop](https://www.theverge.com/2023/7/17/23797338/corsair-drop-acquisition-mechanical-keyboards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

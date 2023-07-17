@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 😝 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
- - 💣 [Waiting for the summer](http://9gag.com/gag/agoKeOW)
+ - 😝 [Incredible wood carving of Helm of Eredin, King of the Wild Hunt by Oleksandr Hrytsai &lpar;link below!&rpar;](http://9gag.com/gag/a6qG0DL)
+ - 😝 [Poland ain&#39;t no Germany or Sweden, people will f**k you up if you do such shit as migrant](http://9gag.com/gag/aA0v80g)
+ - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)<!-- MEMES:END -->
+ - 👉 [World needs more Ronnies](http://9gag.com/gag/a5X53mo)<!-- MEMES:END -->
 
 ---
 </div>

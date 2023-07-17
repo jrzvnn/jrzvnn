@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The next MacBook Air could be dynamite in a small package](https://www.androidauthority.com/apple-macbook-air-m3-leak-3345713/)
  - [A look at the Artificial Inventor Project, which has filed pro bono test cases in the US and elsewhere seeking patent protection for AI-generated inventions &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230717/p1#a230717p1)
- - [Would you rather buy an original iPhone or 238 iPhone 14s?](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)
+ - [This rare iPhone just got sold for 238 iPhone 14s](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)
  - [Spanking new Galaxy Watch 6 images clock in all the design details](https://www.androidauthority.com/samsung-galaxy-watch-6-series-renders-3345695/)
- - [Best Teeth Whitening Kits in 2023     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Startups Under Fire: The Remarkable Resilience of Ukraine’s Tech Sector](https://www.wired.com/story/ukraine-startups-resilience-tech-sector/)<!-- TECH:END -->
+ - [Best Teeth Whitening Kits in 2023     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

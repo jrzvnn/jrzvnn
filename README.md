@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - 😝 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
  - 😝 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
- - 💣 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 💣 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Smooth operator](http://9gag.com/gag/ay2vwQp)<!-- MEMES:END -->
+ - 👉 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)<!-- MEMES:END -->
 
 ---
 </div>

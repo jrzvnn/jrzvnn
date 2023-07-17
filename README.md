@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 😝 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
- - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
+ - 😝 [Deadly dead](http://9gag.com/gag/a5X50Do)
+ - 💣 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)<!-- MEMES:END -->
+ - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
 
 ---
 </div>

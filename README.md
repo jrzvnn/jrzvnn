@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hollywood’s Future Belongs to People—Not Machines](https://www.wired.com/story/hollywoods-future-belongs-to-people-not-machines/)
  - [You told us: You definitely want a rotating bezel on the Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-poll-results-3345743/)
  - [Samsung&#39;s Studio Display rival finally coming in August](https://appleinsider.com/articles/23/07/17/samsungs-studio-display-rival-finally-coming-in-august?utm_medium=rss)
  - [Here’s how Android 14 will warn you when you try to sideload some Google apps](https://www.androidauthority.com/android-14-sideload-warning-update-ownership-3345719/)
- - [Brussels-based telecom operator Proximus Group plans to acquire 58% stake in Indian cloud communication service provider Route Mobile for $721M &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230717/p2#a230717p2)
- - [Microsoft might be killing Xbox Live Gold](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)<!-- TECH:END -->
+ - [Brussels-based telecom operator Proximus Group plans to acquire 58% stake in Indian cloud communication service provider Route Mobile for $721M &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230717/p2#a230717p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

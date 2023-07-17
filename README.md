@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
+ - [This is the biggest deal of 2023 on the best Samsung earbuds](https://www.androidauthority.com/galaxy-buds-2-pro-deal-3345875/)
  - [Former Twitter Africa staff, laid off after accepting a May 2023 offer of three months&#39; severance, say they have not been paid or even heard from Twitter since &lpar;Larry Madowo/CNN&rpar;](http://www.techmeme.com/230717/p13#a230717p13)
  - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)
- - [Unopened original iPhone auction smashes record with $190,000 price [u]](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)
- - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Louisville-based JumpCloud says a state-backed hacking group breached its systems on June 22 via a spear-phishing attack targeting a small set of its customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)<!-- TECH:END -->
+ - [Unopened original iPhone auction smashes record with $190,000 price [u]](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

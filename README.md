@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hollywood’s writers and actors are on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+ - [Sources: Microsoft and Activision Blizzard are nearing their $69B deal but aren&#39;t likely to close it by a July 18 deadline &lpar;Bloomberg&rpar;](http://www.techmeme.com/230717/p19#a230717p19)
  - [Gotrax GXL V2 review: A budget-friendly beginner e-scooter](https://www.androidauthority.com/gotrax-gxl-v2-review-3343143/)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Apple&#39;s App Store anti-steering rules put on hold as it appeals Supreme Court](https://appleinsider.com/articles/23/07/17/apples-app-store-anti-steering-rules-put-on-hold-as-it-appeals-supreme-court?utm_medium=rss)
- - [TikTok is now supporting passkeys on iPhone](https://www.theverge.com/2023/7/17/23798046/tiktok-passkeys-iphone-passwordless-login-security)
- - [SEC is worried chatbots could fuel a market panic](https://www.theverge.com/2023/7/17/23798092/sec-chair-gensler-ai-will-impact-financial-markets)<!-- TECH:END -->
+ - [Apple&#39;s App Store anti-steering rules put on hold as it appeals Supreme Court](https://appleinsider.com/articles/23/07/17/apples-app-store-anti-steering-rules-put-on-hold-as-it-appeals-supreme-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

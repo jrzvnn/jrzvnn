@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 😝 [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
- - 💣 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - 😝 [Replacing her soap by a potato](http://9gag.com/gag/a9qDo76)
+ - 😝 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
+ - 💣 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)<!-- MEMES:END -->
+ - 👉 [Incredible wood carving of Helm of Eredin, King of the Wild Hunt by Oleksandr Hrytsai &lpar;link below!&rpar;](http://9gag.com/gag/a6qG0DL)<!-- MEMES:END -->
 
 ---
 </div>

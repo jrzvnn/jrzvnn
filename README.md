@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
- - 😝 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
- - 💣 [I see an absolute win](http://9gag.com/gag/anzGmMz)
+ - 😝 [I see an absolute win](http://9gag.com/gag/anzGmMz)
+ - 😝 [Source in comments](http://9gag.com/gag/a5X58pG)
+ - 💣 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Title](http://9gag.com/gag/aA0v9w2)<!-- MEMES:END -->
+ - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
 
 ---
 </div>

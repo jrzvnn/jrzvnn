@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 😝 [BtwFirefoxIsNotChromium](http://9gag.com/gag/axomrmn)
- - 💣 [Title](http://9gag.com/gag/aA0v9w2)
+ - 😝 [Smooth operator](http://9gag.com/gag/ay2vwQp)
+ - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 💣 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [I see an absolute win](http://9gag.com/gag/anzGmMz)<!-- MEMES:END -->
+ - 👉 [Found it!](http://9gag.com/gag/aEqZ40x)<!-- MEMES:END -->
 
 ---
 </div>

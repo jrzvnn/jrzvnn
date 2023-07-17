@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)
- - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
- - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 😝 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)
+ - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
+ - 💣 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Waiting for the summer](http://9gag.com/gag/agoKeOW)<!-- MEMES:END -->
+ - 👉 [Exactly](http://9gag.com/gag/aoKnQrg)<!-- MEMES:END -->
 
 ---
 </div>

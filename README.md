@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)
- - 😝 [Found it!](http://9gag.com/gag/aEqZ40x)
- - 💣 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - 😝 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)
+ - 😝 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 💣 [Buzz Aldrin celebrating the 54th Anniversary of the Apollo 11 launch](http://9gag.com/gag/aBd47pN)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Exactly](http://9gag.com/gag/aoKnQrg)<!-- MEMES:END -->
+ - 👉 [Deadly dead](http://9gag.com/gag/a5X50Do)<!-- MEMES:END -->
 
 ---
 </div>

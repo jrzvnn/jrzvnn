@@ -158,8 +158,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Replacing her soap by a potato](http://9gag.com/gag/a9qDo76)
  - 😝 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
  - 💣 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
- - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [Incredible wood carving of Helm of Eredin, King of the Wild Hunt by Oleksandr Hrytsai &lpar;link below!&rpar;](http://9gag.com/gag/a6qG0DL)<!-- MEMES:END -->
+ - 😝 [Incredible wood carving of Helm of Eredin, King of the Wild Hunt by Oleksandr Hrytsai &lpar;link below!&rpar;](http://9gag.com/gag/a6qG0DL)
+ - 👉 [Poland ain&#39;t no Germany or Sweden, people will f**k you up if you do such shit as migrant](http://9gag.com/gag/aA0v80g)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good parenting, we need more of this today](http://9gag.com/gag/aDYQE1w)
- - 😝 [How are they always suprised, when they `... and Find out`](http://9gag.com/gag/aWGRKD3)
- - 💣 [What an intolerant and racist country. Miss Poland won by white &lt;wait for it&gt; WOMAN!](http://9gag.com/gag/aGE7XEz)
+ - 😝 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
+ - 😝 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - 💣 [Waiting for the summer](http://9gag.com/gag/agoKeOW)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [This is f**ked up](http://9gag.com/gag/amAR33v)<!-- MEMES:END -->
+ - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
 
 ---
 </div>

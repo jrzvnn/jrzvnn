@@ -157,9 +157,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Good parenting, we need more of this today](http://9gag.com/gag/aDYQE1w)
  - 😝 [How are they always suprised, when they `... and Find out`](http://9gag.com/gag/aWGRKD3)
- - 💣 [This is f**ked up](http://9gag.com/gag/amAR33v)
+ - 💣 [What an intolerant and racist country. Miss Poland won by white &lt;wait for it&gt; WOMAN!](http://9gag.com/gag/aGE7XEz)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [What an intolerant and racist country. Miss Poland won by white &lt;wait for it&gt; WOMAN!](http://9gag.com/gag/aGE7XEz)<!-- MEMES:END -->
+ - 👉 [This is f**ked up](http://9gag.com/gag/amAR33v)<!-- MEMES:END -->
 
 ---
 </div>

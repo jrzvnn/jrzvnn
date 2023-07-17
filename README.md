@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Nothing Phone 2 update brings camera improvements and new features galore](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)
- - [YouTube quietly rolls out new ‘Stable Volume’ feature](https://www.androidauthority.com/youtube-stable-volume-3345687/)
- - [Antenna: June 2023 was Netflix&#39;s best US growth month in years, with a gross ~3.5M signups, 100%+ above its recent averages, amid its password sharing crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230716/p11#a230716p11)
- - [Unopened original iPhone auction smashes record with $158,000 price](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)
- - [Research: Meta&#39;s ban on anti-government &quot;Boogaloo&quot; content initially worked, but after 18 months, in late 2021, the volume had nearly returned to pre-ban levels &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/230716/p10#a230716p10)<!-- TECH:END -->
+ - [Would you rather buy an original iPhone or 238 iPhone 14s?](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)
+ - [Spanking new Galaxy Watch 6 images clock in all the design details](https://www.androidauthority.com/samsung-galaxy-watch-6-series-renders-3345695/)
+ - [Startups Under Fire: The Remarkable Resilience of Ukraine’s Tech Sector](https://www.wired.com/story/ukraine-startups-resilience-tech-sector/)
+ - [Instagram Posts About a 17th-Century King Are Getting People Arrested](https://www.wired.com/story/instagram-posts-about-aurangzeb-are-getting-people-arrested/)
+ - [First Nothing Phone 2 update brings camera improvements and new features galore](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

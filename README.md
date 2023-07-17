@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple can delay App Store changes to file Supreme Court plea](https://www.theverge.com/2023/7/17/23798090/apple-epic-supreme-court-app-store-appeal)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Ford Slashes F-150 Lightning EV&#39;s Starting Price to $51,990     - CNET](https://www.cnet.com/roadshow/news/2023-ford-f-150-lightning-price-cuts-announced/#ftag=CAD590a51e)
  - [Wix debuts AI Site Generator, a tool that uses chat prompts to create entire websites including components for e-commerce, scheduling, event ticketing, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230717/p16#a230717p16)
- - [The US SEC plans to consider, as soon as this fall, conflict of interest rules for financial advisers and brokerages using AI to steer clients toward products &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230717/p15#a230717p15)
- - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)
- - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)<!-- TECH:END -->
+ - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

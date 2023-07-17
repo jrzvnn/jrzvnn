@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s ViewFinity 5K monitor gets pricing, can change settings with phone](https://www.androidauthority.com/samsung-viewfinity-s9-availability-3345818/)
+ - [Several current and former Roblox employees say Roblox is not doing enough to address concerns about diversity and the marginalization of women and minorities &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230717/p10#a230717p10)
  - [‘Millions’ of sensitive US military emails were reportedly sent to Mali due to a typo](https://www.theverge.com/2023/7/17/23797379/mali-ml-typo-us-military-emails-leak)
  - [OLED iPhone screens can now be repaired with a laser](https://appleinsider.com/articles/23/07/17/oled-iphone-screens-can-now-be-repaired-with-a-laser?utm_medium=rss)
- - [The birth of id Software](https://www.theverge.com/23796894/john-romero-id-software-commander-keen-autobiography)
- - [This is Your Last Chance to Grab Windows 11 Pro for the All-Time Low Price of $30     - CNET](https://www.cnet.com/deals/its-your-last-chance-to-grab-windows-11-pro-for-the-all-time-low-price-of-30/#ftag=CAD590a51e)
- - [In a letter, House Judiciary Chair Jim Jordan asks Meta to provide documents about content moderation on Threads as part of a probe of tech platforms&#39; policies &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230717/p9#a230717p9)<!-- TECH:END -->
+ - [The birth of id Software](https://www.theverge.com/23796894/john-romero-id-software-commander-keen-autobiography)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

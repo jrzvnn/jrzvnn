@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antenna: June 2023 was Netflix&#39;s best US growth month in years, with a gross ~3.5M signups, 100%+ above its recent averages, amid its password sharing crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/230716/p11#a230716p11)
  - [Unopened original iPhone auction smashes record with $158,000 price](https://appleinsider.com/articles/23/07/17/unopened-original-iphone-auction-smashes-record-with-158000-price?utm_medium=rss)
  - [Research: Meta&#39;s ban on anti-government &quot;Boogaloo&quot; content initially worked, but after 18 months, in late 2021, the volume had nearly returned to pre-ban levels &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/230716/p10#a230716p10)
  - [Lionel Messi Unveiling: How to Watch and Stream Inter Miami CF Presentation Event Live on Apple TV     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-unveiling-how-to-watch-and-stream-inter-miami-presentation-event-live-on-apple-tv/#ftag=CAD590a51e)
- - [Free and Insanely Useful Apps You Need to Download for College     - CNET](https://www.cnet.com/tech/services-and-software/free-apps-you-definitely-need-to-download-before-starting-college/#ftag=CAD590a51e)
- - [Boox Tab Mini C Review: an e-ink tablet that we can get behind](https://appleinsider.com/articles/23/07/16/boox-tab-mini-c-review-an-e-ink-tablet-that-we-can-get-behind?utm_medium=rss)<!-- TECH:END -->
+ - [Free and Insanely Useful Apps You Need to Download for College     - CNET](https://www.cnet.com/tech/services-and-software/free-apps-you-definitely-need-to-download-before-starting-college/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

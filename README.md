@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
- - 😝 [Pretty much](http://9gag.com/gag/aNwj723)
- - 💣 [Comment about cheese to confuse `not title readers`](http://9gag.com/gag/a7qn4dw)
+ - 😝 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)
+ - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)<!-- MEMES:END -->
+ - 👉 [Waiting for the summer](http://9gag.com/gag/agoKeOW)<!-- MEMES:END -->
 
 ---
 </div>

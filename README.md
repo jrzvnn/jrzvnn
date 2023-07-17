@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Truth Social&#39;s head of engineering Alex Gleason resigns to work at his own venture Soapbox Technology, which offers technology for decentralized social media &lpar;Helen Coster/Reuters&rpar;](http://www.techmeme.com/230717/p22#a230717p22)
  - [Adam Mosseri says spam attacks on Threads have picked up so &quot;we&#39;re going to have to get tighter on things like rate limits&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230717/p21#a230717p21)
  - [UK&#39;s Competition Appeal Tribunal grants Microsoft a two-month pause on hearing, set to begin on July 28, of its appeal against CMA&#39;s block of Activision deal &lpar;Reuters&rpar;](http://www.techmeme.com/230717/p20#a230717p20)
  - [Hollywood’s writers and actors are on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
- - [Sources: Microsoft and Activision Blizzard are nearing their $69B deal but aren&#39;t likely to close it by a July 18 deadline &lpar;Bloomberg&rpar;](http://www.techmeme.com/230717/p19#a230717p19)
- - [Gotrax GXL V2 review: A budget-friendly beginner e-scooter](https://www.androidauthority.com/gotrax-gxl-v2-review-3343143/)<!-- TECH:END -->
+ - [Sources: Microsoft and Activision Blizzard are nearing their $69B deal but aren&#39;t likely to close it by a July 18 deadline &lpar;Bloomberg&rpar;](http://www.techmeme.com/230717/p19#a230717p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

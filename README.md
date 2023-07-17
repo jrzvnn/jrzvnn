@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confusion of the highest order](http://9gag.com/gag/aRERd5A)
- - 😝 [Deadly dead](http://9gag.com/gag/a5X50Do)
+ - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - 😝 [Title](http://9gag.com/gag/aA0v9w2)
  - 💣 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [And he took that personally](http://9gag.com/gag/adPRz3M)<!-- MEMES:END -->
+ - 👉 [Happens...... Asian mom](http://9gag.com/gag/a04OybO)<!-- MEMES:END -->
 
 ---
 </div>

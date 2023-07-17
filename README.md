@@ -147,10 +147,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple&#39;s App Store anti-steering rules put on hold as it appeals Supreme Court](https://appleinsider.com/articles/23/07/17/apples-app-store-anti-steering-rules-put-on-hold-as-it-appeals-supreme-court?utm_medium=rss)
+ - [TikTok is now supporting passkeys on iPhone](https://www.theverge.com/2023/7/17/23798046/tiktok-passkeys-iphone-passwordless-login-security)
  - [SEC is worried chatbots could fuel a market panic](https://www.theverge.com/2023/7/17/23798092/sec-chair-gensler-ai-will-impact-financial-markets)
  - [Select Apple Savings customers credited $100 after over-long withdrawal requests](https://appleinsider.com/articles/23/07/17/select-apple-savings-customers-credited-100-after-over-long-withdrawal-requests?utm_medium=rss)
- - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)
- - [How to use the new StandBy mode on iOS 17](https://www.theverge.com/23798104/apple-standby-mode-iphone-ios-17-clock-widgets-photos-customize-how-to)<!-- TECH:END -->
+ - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Chosen is reportedly still shooting during the SAG strike because it’s a ‘truly independent’ production](https://www.theverge.com/2023/7/17/23797856/the-chosen-season-4-sag-strike)
+ - [A US judge lets Apple delay, by 90 days, an appeals court ruling letting developers link to third-party payment options, so the company can prep a SCOTUS filing &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230717/p17#a230717p17)
  - [Apple can delay App Store changes to file Supreme Court plea](https://www.theverge.com/2023/7/17/23798090/apple-epic-supreme-court-app-store-appeal)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Ford Slashes F-150 Lightning EV&#39;s Starting Price to $51,990     - CNET](https://www.cnet.com/roadshow/news/2023-ford-f-150-lightning-price-cuts-announced/#ftag=CAD590a51e)
- - [Wix debuts AI Site Generator, a tool that uses chat prompts to create entire websites including components for e-commerce, scheduling, event ticketing, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230717/p16#a230717p16)
- - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ford Slashes F-150 Lightning EV&#39;s Starting Price to $51,990     - CNET](https://www.cnet.com/roadshow/news/2023-ford-f-150-lightning-price-cuts-announced/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

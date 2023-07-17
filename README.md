@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s App Store anti-steering rules put on hold as it appeals Supreme Court](https://appleinsider.com/articles/23/07/17/apples-app-store-anti-steering-rules-put-on-hold-as-it-appeals-supreme-court?utm_medium=rss)
+ - [SEC is worried chatbots could fuel a market panic](https://www.theverge.com/2023/7/17/23798092/sec-chair-gensler-ai-will-impact-financial-markets)
  - [Select Apple Savings customers credited $100 after over-long withdrawal requests](https://appleinsider.com/articles/23/07/17/select-apple-savings-customers-credited-100-after-over-long-withdrawal-requests?utm_medium=rss)
  - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)
- - [How to use the new StandBy mode on iOS 17](https://www.theverge.com/23798104/apple-standby-mode-iphone-ios-17-clock-widgets-photos-customize-how-to)
- - [Runway, which streamlines companies&#39; financial planning and integrates with accounting, data, and HR tools, raised a $27.5M Series A led by Initialized Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230717/p18#a230717p18)
- - [The Chosen is reportedly still shooting during the SAG strike because it’s a ‘truly independent’ production](https://www.theverge.com/2023/7/17/23797856/the-chosen-season-4-sag-strike)<!-- TECH:END -->
+ - [How to use the new StandBy mode on iOS 17](https://www.theverge.com/23798104/apple-standby-mode-iphone-ios-17-clock-widgets-photos-customize-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

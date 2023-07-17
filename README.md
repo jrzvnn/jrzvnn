@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
- - 😝 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
- - 💣 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 😝 [Methallica or Five Finger Meth Punch](http://9gag.com/gag/ajVRwzR)
+ - 😝 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 💣 [Waiting for the summer](http://9gag.com/gag/agoKeOW)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
  - 👉 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)<!-- MEMES:END -->
 

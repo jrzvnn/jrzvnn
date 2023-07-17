@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see an absolute win](http://9gag.com/gag/anzGmMz)
- - 😝 [Source in comments](http://9gag.com/gag/a5X58pG)
- - 💣 [How to make her fall for you!](http://9gag.com/gag/aEqZ4Kn)
+ - 😝 [Gotta check then double check](http://9gag.com/gag/avQ9Krn)
+ - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 💣 [Exactly](http://9gag.com/gag/aoKnQrg)
  - 😝 [Get ready for more actions this summer.](http://9gag.com/gag/aBd4vGD)
- - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
+ - 👉 [I see an absolute win](http://9gag.com/gag/anzGmMz)<!-- MEMES:END -->
 
 ---
 </div>

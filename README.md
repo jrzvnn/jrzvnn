@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy Buds 2 Pro flagship earbuds are comfy, light, and now $42 off](https://www.theverge.com/2023/7/17/23797323/samsung-galaxy-buds-pro-lenovo-legion-gaming-laptop-990-ssd-deal-sale)
  - [Facebook pivots back to video with more Reels and HDR](https://www.theverge.com/2023/7/17/23797592/meta-facebook-video-reels-hdr-editing-watch)
  - [Apple India successes prompt new $220 stock price target from Morgan Stanley](https://appleinsider.com/articles/23/07/17/apple-india-successes-prompt-new-220-stock-price-target-from-morgan-stanley?utm_medium=rss)
  - [Samsung’s ViewFinity 5K monitor gets pricing, can change settings with phone](https://www.androidauthority.com/samsung-viewfinity-s9-availability-3345818/)
- - [Several current and former Roblox employees say Roblox is not doing enough to address concerns about diversity and the marginalization of women and minorities &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230717/p10#a230717p10)
- - [‘Millions’ of sensitive US military emails were reportedly sent to Mali due to a typo](https://www.theverge.com/2023/7/17/23797379/mali-ml-typo-us-military-emails-leak)<!-- TECH:END -->
+ - [Several current and former Roblox employees say Roblox is not doing enough to address concerns about diversity and the marginalization of women and minorities &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230717/p10#a230717p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

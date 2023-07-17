@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Millions’ of sensitive US military emails were reportedly sent to Mali due to a typo](https://www.theverge.com/2023/7/17/23797379/mali-ml-typo-us-military-emails-leak)
  - [OLED iPhone screens can now be repaired with a laser](https://appleinsider.com/articles/23/07/17/oled-iphone-screens-can-now-be-repaired-with-a-laser?utm_medium=rss)
  - [The birth of id Software](https://www.theverge.com/23796894/john-romero-id-software-commander-keen-autobiography)
  - [In a letter, House Judiciary Chair Jim Jordan asks Meta to provide documents about content moderation on Threads as part of a probe of tech platforms&#39; policies &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230717/p9#a230717p9)
- - [Microsoft might be killing Xbox Live Gold &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)
- - [Daily deals July 17: $250 off M1 Mac mini, $999 M2 MacBook Air, iPhone 12 Pro from $499, more](https://appleinsider.com/articles/23/07/17/daily-deals-july-17-250-off-m1-mac-mini-999-m2-macbook-air-iphone-12-pro-from-499-more?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft might be killing Xbox Live Gold &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

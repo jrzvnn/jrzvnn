@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC plans to consider, as soon as this fall, conflict of interest rules for financial advisers and brokerages using AI to steer clients toward products &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230717/p15#a230717p15)
  - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
  - [YouTube is testing a new way to let you easily watch videos at 2x speed](https://www.theverge.com/2023/7/17/23797857/youtube-premium-long-press-watch-videos-2x-speed-experiment)
  - [Best Sonos Deals: Summer Savings on Speaker Sets     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [New iMac rumors: Apple Silicon M3, largest model ever, and more](https://appleinsider.com/articles/23/07/17/new-imac-rumors-apple-silicon-m3-largest-model-ever-and-more?utm_medium=rss)
- - [You Can Play Oxenfree 2 With a Netflix Subscription Now     - CNET](https://www.cnet.com/tech/gaming/you-can-play-oxenfree-2-with-a-netflix-subscription-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iMac rumors: Apple Silicon M3, largest model ever, and more](https://appleinsider.com/articles/23/07/17/new-imac-rumors-apple-silicon-m3-largest-model-ever-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gotrax GXL V2 review: A budget-friendly beginner e-scooter](https://www.androidauthority.com/gotrax-gxl-v2-review-3343143/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Apple&#39;s App Store anti-steering rules put on hold as it appeals Supreme Court](https://appleinsider.com/articles/23/07/17/apples-app-store-anti-steering-rules-put-on-hold-as-it-appeals-supreme-court?utm_medium=rss)
  - [TikTok is now supporting passkeys on iPhone](https://www.theverge.com/2023/7/17/23798046/tiktok-passkeys-iphone-passwordless-login-security)
- - [SEC is worried chatbots could fuel a market panic](https://www.theverge.com/2023/7/17/23798092/sec-chair-gensler-ai-will-impact-financial-markets)
- - [Select Apple Savings customers credited $100 after over-long withdrawal requests](https://appleinsider.com/articles/23/07/17/select-apple-savings-customers-credited-100-after-over-long-withdrawal-requests?utm_medium=rss)
- - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)<!-- TECH:END -->
+ - [SEC is worried chatbots could fuel a market panic](https://www.theverge.com/2023/7/17/23798092/sec-chair-gensler-ai-will-impact-financial-markets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

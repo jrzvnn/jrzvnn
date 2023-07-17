@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Artificial Inventor Project, which has filed pro bono test cases in the US and elsewhere seeking patent protection for AI-generated inventions &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230717/p1#a230717p1)
  - [Would you rather buy an original iPhone or 238 iPhone 14s?](https://www.androidauthority.com/original-iphone-auction-july-2023-3345691/)
  - [Spanking new Galaxy Watch 6 images clock in all the design details](https://www.androidauthority.com/samsung-galaxy-watch-6-series-renders-3345695/)
  - [Startups Under Fire: The Remarkable Resilience of Ukraine’s Tech Sector](https://www.wired.com/story/ukraine-startups-resilience-tech-sector/)
- - [Instagram Posts About a 17th-Century King Are Getting People Arrested](https://www.wired.com/story/instagram-posts-about-aurangzeb-are-getting-people-arrested/)
- - [First Nothing Phone 2 update brings camera improvements and new features galore](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)<!-- TECH:END -->
+ - [Instagram Posts About a 17th-Century King Are Getting People Arrested](https://www.wired.com/story/instagram-posts-about-aurangzeb-are-getting-people-arrested/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: You definitely want a rotating bezel on the Galaxy Watch 6](https://www.androidauthority.com/samsung-galaxy-watch-6-rotating-bezel-poll-results-3345743/)
+ - [Samsung&#39;s Studio Display rival finally coming in August](https://appleinsider.com/articles/23/07/17/samsungs-studio-display-rival-finally-coming-in-august?utm_medium=rss)
  - [Here’s how Android 14 will warn you when you try to sideload some Google apps](https://www.androidauthority.com/android-14-sideload-warning-update-ownership-3345719/)
  - [Brussels-based telecom operator Proximus Group plans to acquire 58% stake in Indian cloud communication service provider Route Mobile for $721M &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230717/p2#a230717p2)
- - [Microsoft might be killing Xbox Live Gold](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)
- - [Samsung prices its 27-inch 5K monitor at $1,599 — just like Apple’s Studio Display](https://www.theverge.com/2023/7/17/23797004/samsung-viewfinity-s9-price-release-date-announced)
- - [The next MacBook Air could be dynamite in a small package](https://www.androidauthority.com/apple-macbook-air-m3-leak-3345713/)<!-- TECH:END -->
+ - [Microsoft might be killing Xbox Live Gold](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rebrands Facebook&#39;s Watch tab as Video, which will now include all visual content like Reels, long-form content, and live videos, and adds editing features &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230717/p11#a230717p11)
+ - [iPhone 15 thinner bezels rumor supported by new leak](https://appleinsider.com/articles/23/07/17/iphone-15-thinner-bezels-rumor-supported-by-new-leak?utm_medium=rss)
+ - [Hayao Miyazaki’s How Do You Live is a beautiful relic — and the end of an era](https://www.theverge.com/23797349/how-do-you-live-review-studio-ghibli-hayao-miyazaki)
  - [Samsung’s Galaxy Buds 2 Pro flagship earbuds are comfy, light, and now $42 off](https://www.theverge.com/2023/7/17/23797323/samsung-galaxy-buds-pro-lenovo-legion-gaming-laptop-990-ssd-deal-sale)
- - [Facebook pivots back to video with more Reels and HDR](https://www.theverge.com/2023/7/17/23797592/meta-facebook-video-reels-hdr-editing-watch)
- - [Apple India successes prompt new $220 stock price target from Morgan Stanley](https://appleinsider.com/articles/23/07/17/apple-india-successes-prompt-new-220-stock-price-target-from-morgan-stanley?utm_medium=rss)
- - [Samsung’s ViewFinity 5K monitor gets pricing, can change settings with phone](https://www.androidauthority.com/samsung-viewfinity-s9-availability-3345818/)
- - [Several current and former Roblox employees say Roblox is not doing enough to address concerns about diversity and the marginalization of women and minorities &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230717/p10#a230717p10)<!-- TECH:END -->
+ - [Facebook pivots back to video with more Reels and HDR](https://www.theverge.com/2023/7/17/23797592/meta-facebook-video-reels-hdr-editing-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -147,10 +147,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Louisville-based JumpCloud says a hacking group breached its systems almost one month ago via a spear-phishing attack that targeted specific customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)
+ - [Louisville-based JumpCloud says a state-backed hacking group breached its systems on June 22 via a spear-phishing attack targeting a small set of its customers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230717/p12#a230717p12)
  - [The new Moto G Play &lpar;2023&rpar; just hit a record low price of $109.99](https://www.androidauthority.com/moto-g-play-2023-deal-3345836/)
  - [Burna Boy&#39;s &#39;Love, Damini&#39; tour coming to Apple Music Live on July 19](https://appleinsider.com/articles/23/07/17/burna-boys-love-damini-tour-coming-to-apple-music-live-on-july-19?utm_medium=rss)
- - [Meta rebrands Facebook&#39;s Watch tab as Video, which will now include all visual content like Reels, long-form content, and live videos, and adds editing features &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230717/p11#a230717p11)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save on the Pixel 7 Pro and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

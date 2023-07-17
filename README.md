@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aA0v9w2)
+ - 😝 [He was on a search streak!](http://9gag.com/gag/az2431x)
  - 😝 [Pretty much](http://9gag.com/gag/aNwj723)
- - 💣 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 💣 [Comment about cheese to confuse `not title readers`](http://9gag.com/gag/a7qn4dw)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)<!-- MEMES:END -->
+ - 👉 [Something&#39;s wrong with the drones](http://9gag.com/gag/a6qG0Vm)<!-- MEMES:END -->
 
 ---
 </div>

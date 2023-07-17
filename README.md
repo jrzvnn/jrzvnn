@@ -149,8 +149,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [‘Millions’ of sensitive US military emails were reportedly sent to Mali due to a typo](https://www.theverge.com/2023/7/17/23797379/mali-ml-typo-us-military-emails-leak)
  - [OLED iPhone screens can now be repaired with a laser](https://appleinsider.com/articles/23/07/17/oled-iphone-screens-can-now-be-repaired-with-a-laser?utm_medium=rss)
  - [The birth of id Software](https://www.theverge.com/23796894/john-romero-id-software-commander-keen-autobiography)
- - [In a letter, House Judiciary Chair Jim Jordan asks Meta to provide documents about content moderation on Threads as part of a probe of tech platforms&#39; policies &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230717/p9#a230717p9)
- - [Microsoft might be killing Xbox Live Gold &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/microsoft-xbox-live-gold-xbox-game-pass-core-3345722/)<!-- TECH:END -->
+ - [This is Your Last Chance to Grab Windows 11 Pro for the All-Time Low Price of $30     - CNET](https://www.cnet.com/deals/its-your-last-chance-to-grab-windows-11-pro-for-the-all-time-low-price-of-30/#ftag=CAD590a51e)
+ - [In a letter, House Judiciary Chair Jim Jordan asks Meta to provide documents about content moderation on Threads as part of a probe of tech platforms&#39; policies &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230717/p9#a230717p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

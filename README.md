@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Select Apple Savings customers credited $100 after over-long withdrawal requests](https://appleinsider.com/articles/23/07/17/select-apple-savings-customers-credited-100-after-over-long-withdrawal-requests?utm_medium=rss)
+ - [Reddit search is a little broken right now](https://www.theverge.com/2023/7/17/23797725/reddit-search-broken-not-working)
+ - [How to use the new StandBy mode on iOS 17](https://www.theverge.com/23798104/apple-standby-mode-iphone-ios-17-clock-widgets-photos-customize-how-to)
  - [Runway, which streamlines companies&#39; financial planning and integrates with accounting, data, and HR tools, raised a $27.5M Series A led by Initialized Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230717/p18#a230717p18)
- - [The Chosen is reportedly still shooting during the SAG strike because it’s a ‘truly independent’ production](https://www.theverge.com/2023/7/17/23797856/the-chosen-season-4-sag-strike)
- - [A US judge lets Apple delay, by 90 days, an appeals court ruling letting developers link to third-party payment options, so the company can prep a SCOTUS filing &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230717/p17#a230717p17)
- - [Apple can delay App Store changes to file Supreme Court plea](https://www.theverge.com/2023/7/17/23798090/apple-epic-supreme-court-app-store-appeal)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [The Chosen is reportedly still shooting during the SAG strike because it’s a ‘truly independent’ production](https://www.theverge.com/2023/7/17/23797856/the-chosen-season-4-sag-strike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

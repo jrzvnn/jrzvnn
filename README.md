@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay has finally arrived in Morocco](https://appleinsider.com/articles/23/07/18/apple-pay-has-finally-arrived-in-morocco?utm_medium=rss)
- - [Global PC market&#39;s ongoing collapse has been an opportunity for Mac to gain market share](https://appleinsider.com/articles/23/07/18/global-pc-markets-ongoing-collapse-has-been-an-opportunity-for-mac-to-gain-market-share?utm_medium=rss)
- - [SiriusXM review: Great, except for a terrible CarPlay execution](https://appleinsider.com/articles/23/02/14/siriusxm-review-great-except-for-a-terrible-carplay-execution?utm_medium=rss)
- - [Thousands of Call of Duty fans are playing classic Xbox 360 titles thanks to a server fix](https://www.theverge.com/2023/7/18/23798655/activision-call-of-duty-matchmaking-fixed-xbox-360-games)
- - [Future iPhone or AirPods could watch and learn a user&#39;s unique gestures](https://appleinsider.com/articles/23/07/18/future-iphone-or-airpods-could-watch-and-learn-a-users-unique-gestures?utm_medium=rss)<!-- TECH:END -->
+ - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
+ - [Amazon’s in-van surveillance footage of delivery drivers is leaking online](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
+ - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
+ - [USB 4 docks arrive with enough bandwidth for two 4K 120Hz displays](https://www.theverge.com/2023/7/18/23798610/plugable-usb4-dual-hdmi-docking-station-4k-120hz-thunderbolt-4)
+ - [Billion Dollar Heist doc breaks down the Bangladesh Bank heist in its first trailer](https://www.theverge.com/23798468/billion-dollar-heist-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

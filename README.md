@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is giving away its AI tech to try to beat ChatGPT](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft)
+ - [Galaxy Watch 6 specs leak paints a complete picture of what to expect](https://www.androidauthority.com/galaxy-watch-6-specs-3346163/)
  - [Samsung Galaxy Watch 5 Pro drops by $100 ahead of Unpacked event](https://www.androidauthority.com/galaxy-watch-5-pro-lte-deal-3346165/)
  - [Meta says LLaMA 2, its new open-source LLM with 2x the context length, is available for free for research and commercial use, and expands Microsoft partnership &lpar;Meta&rpar;](http://www.techmeme.com/230718/p21#a230718p21)
- - [Microsoft announces Vector Search, which uses ML to get the context of unstructured data like images and text, to make search faster, in preview through Azure &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p20#a230718p20)
- - [Five reasons Threads could still go the distance](https://www.theverge.com/23798754/threads-engagement-growth-possibilities-meta-zuckerberg-mosseri)
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)<!-- TECH:END -->
+ - [Microsoft announces Vector Search, which uses ML to get the context of unstructured data like images and text, to make search faster, in preview through Azure &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p20#a230718p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

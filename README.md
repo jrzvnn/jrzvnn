@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
- - 😝 [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
- - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 😝 [Employee of the month](http://9gag.com/gag/aREDwb7)
+ - 💣 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
+ - 😝 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)
+ - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
 
 ---
 </div>

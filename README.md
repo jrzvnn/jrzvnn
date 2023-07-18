@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 😝 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
  - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
- - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 😝 [No turning back](http://9gag.com/gag/a9qDg9o)
- - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
+ - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 😝 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
+ - 👉 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)<!-- MEMES:END -->
 
 ---
 </div>

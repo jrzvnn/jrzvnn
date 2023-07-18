@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is f**ked up](http://9gag.com/gag/amAR33v)
- - 😝 [Katie Hopkins on trans rights](http://9gag.com/gag/aDYQpMN)
- - 💣 [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)
+ - 😝 [50 fifty chance he buried.](http://9gag.com/gag/ajVRbO0)
+ - 😝 [Deadly dead](http://9gag.com/gag/a5X50Do)
+ - 💣 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Struggling fan meets Sean Astin &lpar;Sam Gamgee from Lord of the Rings&rpar;](http://9gag.com/gag/aXnR5Lz)<!-- MEMES:END -->
+ - 👉 [No turning back](http://9gag.com/gag/a9qDg9o)<!-- MEMES:END -->
 
 ---
 </div>

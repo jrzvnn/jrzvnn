@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with all the new Messages features in iOS 17](https://appleinsider.com/articles/23/07/18/hands-on-with-all-the-new-messages-features-in-ios-17?utm_medium=rss)
  - [Google is testing AI-generated Meet video backgrounds](https://www.theverge.com/2023/7/18/23799459/google-meet-ai-generated-videoconferencing-background-image)
  - [Logitech acquires custom console maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
  - [Due to safety concerns like facial recognition abuse, OpenAI hasn&#39;t widely shipped GPT-4&#39;s &quot;multimodal&quot; capability that can respond to images and text prompts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230718/p35#a230718p35)
- - [The US Court of Appeals for the Ninth Circuit rules that Instagram is not liable for copyright infringement related to embedded images on BuzzFeed News and Time &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230718/p34#a230718p34)
- - [TikTok debuts Elevate, a program to help rising music artists via amplification, early access to new features, and more, and signs a Warner Music licensing deal &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230718/p33#a230718p33)<!-- TECH:END -->
+ - [The US Court of Appeals for the Ninth Circuit rules that Instagram is not liable for copyright infringement related to embedded images on BuzzFeed News and Time &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230718/p34#a230718p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

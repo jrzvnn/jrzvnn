@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - 😝 [Surprising.](http://9gag.com/gag/aL1WYNP)
- - 💣 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)
- - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
+ - 😝 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
+ - 😝 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
+ - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 😝 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)
+ - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
 
 ---
 </div>

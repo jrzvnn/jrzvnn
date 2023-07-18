@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with all the new Messages features in iOS 17](https://appleinsider.com/articles/23/07/18/hands-on-with-all-the-new-messages-features-in-ios-17?utm_medium=rss)
- - [Google is testing AI-generated Meet video backgrounds](https://www.theverge.com/2023/7/18/23799459/google-meet-ai-generated-videoconferencing-background-image)
- - [Logitech acquires custom console maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
- - [Due to safety concerns like facial recognition abuse, OpenAI hasn&#39;t widely shipped GPT-4&#39;s &quot;multimodal&quot; capability that can respond to images and text prompts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230718/p35#a230718p35)
- - [The US Court of Appeals for the Ninth Circuit rules that Instagram is not liable for copyright infringement related to embedded images on BuzzFeed News and Time &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230718/p34#a230718p34)<!-- TECH:END -->
+ - [A stress test by EU officials finds that TikTok isn&#39;t fully compliant with the EU&#39;s Digital Services Act ahead of the August 25, 2023 compliance deadline &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230718/p37#a230718p37)
+ - [Logitech acquires Helsinki-based Loupedeck, which makes editing consoles and software for streamers and creative professionals, for an undisclosed sum &lpar;The Verge&rpar;](http://www.techmeme.com/230718/p36#a230718p36)
+ - [Samsung exec makes it obvious what’s coming to Galaxy Unpacked 2023](https://www.androidauthority.com/tm-roh-galaxy-unpacked-2023-3346223/)
+ - [This Barbie is a feminist parable fighting to be great in spite of Mattel’s input](https://www.theverge.com/23799181/barbie-review-mattel-warner-bros-greta-gerwig)
+ - [Hands on with all the new Messages features in iOS 17](https://appleinsider.com/articles/23/07/18/hands-on-with-all-the-new-messages-features-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

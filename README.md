@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
- - [Twitter vs Threads by Meta: Which social media platform is better?](https://www.androidauthority.com/threads-vs-twitter-3345786/)
- - [OpenAI partners with the American Journalism Project to access content to train its AI model in exchange for $5M in funding and $5M in developer credits &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230718/p18#a230718p18)
- - [Futureverse, a combination of 11 different startups from sectors including blockchain, AI, and metaverse, raised a $54M series A led by 10T Holdings &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230718/p19#a230718p19)
- - [Microsoft announces Copilot for Microsoft 365 pricing to cost $30 per user for business accounts, and unveils Bing Chat Enterprise with increased privacy &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/230718/p17#a230718p17)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 Pro drops by $100 ahead of Unpacked event](https://www.androidauthority.com/galaxy-watch-5-pro-lte-deal-3346165/)
+ - [Meta says LLaMA 2, its new open-source LLM with 2x the context length, is available for free for research and commercial use, and expands Microsoft partnership &lpar;Meta&rpar;](http://www.techmeme.com/230718/p21#a230718p21)
+ - [Microsoft announces Vector Search, which uses ML to get the context of unstructured data like images and text, to make search faster, in preview through Azure &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p20#a230718p20)
+ - [Five reasons Threads could still go the distance](https://www.theverge.com/23798754/threads-engagement-growth-possibilities-meta-zuckerberg-mosseri)
+ - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pure Oxygen Speeds Up Learning. Can It Help Stroke Survivors Recover?](https://www.wired.com/story/oxygen-learning-stroke-recovery/)
- - [Thule Shine Review &lpar;2023&rpar;: Compact and Adjustable](https://www.wired.com/review/thule-shine/)
- - [North Carolina&#39;s New Abortion Law Is Also a Weapon Against Free Speech](https://www.wired.com/story/north-carolinas-new-abortion-law-is-also-a-weapon-against-free-speech/)
- - [The Secret Ingredient in Your Craft Beer? Gene-Edited Yeast](https://www.wired.com/story/the-secret-ingredient-in-your-craft-beer-gene-edited-yeast/)
- - [Filling: Celsius agrees to settle with Series B holders to distribute $25M from the sale of crypto custodian GK8; Galaxy Digital bought GK8 from Celsius in 2022 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230718/p9#a230718p9)<!-- TECH:END -->
+ - [Apple Pay has finally arrived in Morocco](https://appleinsider.com/articles/23/07/18/apple-pay-has-finally-arrived-in-morocco?utm_medium=rss)
+ - [Global PC market&#39;s ongoing collapse has been an opportunity for Mac to gain market share](https://appleinsider.com/articles/23/07/18/global-pc-markets-ongoing-collapse-has-been-an-opportunity-for-mac-to-gain-market-share?utm_medium=rss)
+ - [SiriusXM review: Great, except for a terrible CarPlay execution](https://appleinsider.com/articles/23/02/14/siriusxm-review-great-except-for-a-terrible-carplay-execution?utm_medium=rss)
+ - [Thousands of Call of Duty fans are playing classic Xbox 360 titles thanks to a server fix](https://www.theverge.com/2023/7/18/23798655/activision-call-of-duty-matchmaking-fixed-xbox-360-games)
+ - [Future iPhone or AirPods could watch and learn a user&#39;s unique gestures](https://appleinsider.com/articles/23/07/18/future-iphone-or-airpods-could-watch-and-learn-a-users-unique-gestures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

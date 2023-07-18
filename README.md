@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how modifications end](http://9gag.com/gag/axo4dMM)
- - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 💣 [This road bike only weighs 4.8kg &lpar;10.58 lbs&rpar;, which gives it an advantage of being faster and more agile.](http://9gag.com/gag/abvEXeB)
+ - 😝 [This road bike only weighs 4.8kg &lpar;10.58 lbs&rpar;, which gives it an advantage of being faster and more agile.](http://9gag.com/gag/abvEXeB)
  - 😝 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
- - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 
 ---
 </div>

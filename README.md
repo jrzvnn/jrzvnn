@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50 fifty chance he buried.](http://9gag.com/gag/ajVRbO0)
- - 😝 [Deadly dead](http://9gag.com/gag/a5X50Do)
- - 💣 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - 😝 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 💣 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [No turning back](http://9gag.com/gag/a9qDg9o)<!-- MEMES:END -->
+ - 👉 [Hey guys, quick math](http://9gag.com/gag/aQEywxe)<!-- MEMES:END -->
 
 ---
 </div>

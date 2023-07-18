@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates Final Cut Pro for iPad with new keyboard shortcuts](https://appleinsider.com/articles/23/07/18/apple-updates-final-cut-pro-for-ipad-with-new-keyboard-shortcuts?utm_medium=rss)
+ - [Rapid7: threat actors have exploited zero-day code-execution flaws in Adobe ColdFusion and Citrix NetScaler, and Adobe has issued only an incomplete fix &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230718/p32#a230718p32)
  - [Instagram head says Android is now better than iOS, ignites furious debate](https://www.androidauthority.com/threads-android-adam-mosseri-3346246/)
  - [Roblox is going to let developers offer subscriptions in their experiences](https://www.theverge.com/2023/7/18/23799230/roblox-developers-subscriptions-marketplace-metaverse)
- - [Over 8,500 authors sign an Authors Guild letter asking AI leaders to get consent and fairly compensate writers when using copyrighted materials in generative AI &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230718/p31#a230718p31)
- - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
- - [Sources: ~700K TikTok accounts in Turkey were hacked before Turkey&#39;s election in May via a flaw TikTok knew in 2022; TikTok admits &quot;unusual activity&quot; in April &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230718/p30#a230718p30)<!-- TECH:END -->
+ - [Over 8,500 authors sign an Authors Guild letter asking AI leaders to get consent and fairly compensate writers when using copyrighted materials in generative AI &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230718/p31#a230718p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

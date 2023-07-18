@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Out of context](http://9gag.com/gag/aqeA45M)
- - 😝 [Kill em softly](http://9gag.com/gag/aNwjyYv)
- - 💣 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - 😝 [Journalist: Who blew-up the Crimean Bridge? Zelensky: \u201cI don\u2019t know.\u201d](http://9gag.com/gag/a8qzdn1)
+ - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 💣 [Today I found out : if you show weakness and vulnerability to women,they leave you.](http://9gag.com/gag/aWG9BX2)
+ - 😝 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
  - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---

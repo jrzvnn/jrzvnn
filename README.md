@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 12 leaks show a bigger battery and faster charging](https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging)
+ - [Meta goes head-to-head with ChatGPT by open-sourcing its AI](https://www.androidauthority.com/ai-products-meta-microsoft-3346204/)
  - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
  - [The NYPD is testing drones that broadcast public safety warnings during emergencies](https://www.theverge.com/2023/7/18/23799144/nypd-drone-broadcast-safety-warnings-emergencies-surveillance)
- - [Peacock is jacking up prices for both new and existing customers](https://appleinsider.com/articles/23/07/18/peacock-is-jacking-up-prices-for-both-new-and-existing-customers?utm_medium=rss)
- - [Meta updates Threads for iOS with a Follows tab, letting users see only posts from followed accounts, built-in translations for other languages, and more &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230718/p25#a230718p25)
- - [Apple MacBook Air M2 &lpar;15-inch&rpar; review: Should you buy it?](https://www.androidauthority.com/apple-macbook-air-m2-15-inch-review-3343887/)<!-- TECH:END -->
+ - [Peacock is jacking up prices for both new and existing customers](https://appleinsider.com/articles/23/07/18/peacock-is-jacking-up-prices-for-both-new-and-existing-customers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

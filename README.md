@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s HomePod mini dips to $74.99 &lpar;$25 off&rpar;](https://appleinsider.com/articles/23/07/18/apples-homepod-mini-dips-to-7499-25-off?utm_medium=rss)
+ - [Why would anyone make a website in 2023? Squarespace CEO Anthony Casalena has some ideas](https://www.theverge.com/23795154/squarespace-ai-seo-web-social-algorithms-anthony-casalena)
  - [A stress test by EU officials finds that TikTok isn&#39;t fully compliant with the EU&#39;s Digital Services Act ahead of the August 25, 2023 compliance deadline &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230718/p37#a230718p37)
  - [Logitech acquires Helsinki-based Loupedeck, which makes editing consoles and software for streamers and creative professionals, for an undisclosed sum &lpar;The Verge&rpar;](http://www.techmeme.com/230718/p36#a230718p36)
- - [Samsung exec makes it obvious what’s coming to Galaxy Unpacked 2023](https://www.androidauthority.com/tm-roh-galaxy-unpacked-2023-3346223/)
- - [This Barbie is a feminist parable fighting to be great in spite of Mattel’s input](https://www.theverge.com/23799181/barbie-review-mattel-warner-bros-greta-gerwig)
- - [Hands on with all the new Messages features in iOS 17](https://appleinsider.com/articles/23/07/18/hands-on-with-all-the-new-messages-features-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung exec makes it obvious what’s coming to Galaxy Unpacked 2023](https://www.androidauthority.com/tm-roh-galaxy-unpacked-2023-3346223/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

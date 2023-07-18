@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paul McCartney’s new podcast had to make some tough choices](https://www.theverge.com/2023/7/18/23799398/paul-mccartney-beatles-podcast-lyrics-interview)
  - [Capcom’s dino shooter Exoprimal is campy but clunky](https://www.theverge.com/2023/7/18/23798877/exoprimal-impressions-capcom-dino-crisis-game-pass)
  - [First major Threads update adds some highly desired features](https://appleinsider.com/articles/23/07/18/first-major-threads-update-adds-a-some-highly-desired-features?utm_medium=rss)
  - [Critics say Saudi Arabia uses Snapchat to promote Mohammed bin Salman&#39;s image and as a tool for repression globally; sources: the country closely monitors snaps &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/230718/p29#a230718p29)
- - [Reddit’s only free iOS app icons are ugly now](https://www.theverge.com/2023/7/18/23799266/reddit-app-icons-ugly)
- - [The best Google Home and Nest deals of July 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
+ - [Reddit’s only free iOS app icons are ugly now](https://www.theverge.com/2023/7/18/23799266/reddit-app-icons-ugly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

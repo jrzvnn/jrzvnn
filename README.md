@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
- - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
- - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
- - 😝 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)
- - 👉 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)<!-- MEMES:END -->
+ - 😝 [Out of context](http://9gag.com/gag/aqeA45M)
+ - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
 
 ---
 </div>

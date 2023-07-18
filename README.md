@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skydiver Ivan McGuire was filming a parachuting lesson at 10,000 ft in the air. Excited to film, he grabbed his camera and jumped from the plane. Unfortunately though, he forgot his parachute. McGuire had made more than 800 successful jumps to his name before this fatal accident.](http://9gag.com/gag/a8qVxz6)
- - 😝 [This guy knows how to push back against road blockers](http://9gag.com/gag/a3ZN601)
- - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 😝 [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)
+ - 😝 [Struggling fan meets Sean Astin &lpar;Sam Gamgee from Lord of the Rings&rpar;](http://9gag.com/gag/aXnR5Lz)
+ - 💣 [Good old humor.](http://9gag.com/gag/a04O2oq)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
+ - 👉 [Comment about cheese to confuse `not title readers`](http://9gag.com/gag/a7qn4dw)<!-- MEMES:END -->
 
 ---
 </div>

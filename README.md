@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Air M2 &lpar;15-inch&rpar; review: Should you buy it?](https://www.androidauthority.com/apple-macbook-air-m2-15-inch-review-3343887/)
- - [Apple issues release candidates for iOS 15.7.8, iPadOS 15.7.8, macOS Big Sur 11.7.9, and Monterey 12.6.8](https://appleinsider.com/articles/23/07/18/apple-issues-release-candidates-for-ios-1578-ipados-1578-macos-big-sur-1179-and-monterey-1268?utm_medium=rss)
- - [Elon Musk says Twitter is working on a feature that will let you publish articles](https://www.theverge.com/2023/7/18/23799138/elon-musk-twitter-articles-notes)
- - [These ultra-rare Apple sneakers can be yours -- for $50,000](https://appleinsider.com/articles/23/07/18/these-ultra-rare-apple-sneakers-can-be-yours----for-50000?utm_medium=rss)
- - [Mint Mobile vs Tello: How do the two T-Mobile MVNOs compare?](https://www.androidauthority.com/mint-mobile-vs-tello-how-do-the-two-t-mobile-mvnos-compare-3346149/)<!-- TECH:END -->
+ - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
+ - [The NYPD is testing drones that broadcast public safety warnings during emergencies](https://www.theverge.com/2023/7/18/23799144/nypd-drone-broadcast-safety-warnings-emergencies-surveillance)
+ - [Peacock is jacking up prices for both new and existing customers](https://appleinsider.com/articles/23/07/18/peacock-is-jacking-up-prices-for-both-new-and-existing-customers?utm_medium=rss)
+ - [Meta updates Threads for iOS with a Follows tab, letting users see only posts from followed accounts, built-in translations for other languages, and more &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230718/p25#a230718p25)
+ - [Apple MacBook Air M2 &lpar;15-inch&rpar; review: Should you buy it?](https://www.androidauthority.com/apple-macbook-air-m2-15-inch-review-3343887/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

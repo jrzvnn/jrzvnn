@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
+ - 😝 [Hey guys, quick math](http://9gag.com/gag/aQEywxe)
+ - 💣 [Today I found out : if you show weakness and vulnerability to women,they leave you.](http://9gag.com/gag/aWG9BX2)
  - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 😝 [Beauty spray](http://9gag.com/gag/a1POGoG)
- - 💣 [Well... Yes...](http://9gag.com/gag/axomX92)
- - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
- - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
+ - 👉 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)<!-- MEMES:END -->
 
 ---
 </div>

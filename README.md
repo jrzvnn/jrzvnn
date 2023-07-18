@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four charged over murder of carjacking victim who chased thieves with AirTag](https://appleinsider.com/articles/23/07/18/four-charged-over-murder-of-carjacking-victim-who-chased-thieves-with-airtag?utm_medium=rss)
- - [Apple&#39;s Alan Dye talks Vision Pro goals and that &#39;see-through&#39; display](https://appleinsider.com/articles/23/07/18/apples-alan-dye-talks-vision-pro-goals-and-that-see-through-display?utm_medium=rss)
- - [The Future of Children’s Television Isn’t Television](https://www.wired.com/story/future-of-childrens-television-youtube-roblox/)
- - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
- - [Samsung’s new foldables could borrow a useful accessory from the Galaxy S23](https://www.androidauthority.com/samsung-galaxy-z-fold-flip-5-ring-case-leak-3346026/)<!-- TECH:END -->
+ - [Leeds-based chip designer Optalysys, which is developing optical chips that use light instead of electricity to perform calculations, raised a &amp;pound;21M Series A &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230718/p6#a230718p6)
+ - [Meta’s Threads Could Make—or Break—the Fediverse](https://www.wired.com/story/metas-threads-could-make-or-break-the-fediverse/)
+ - [Fukushima’s Radioactive Water Is Going to Be Pumped Into the Ocean](https://www.wired.com/story/fukushima-nuclear-disaster-radioactive-water-release/)
+ - [The US Finally Approved an Over-the-Counter Birth Control Pill. Here’s What to Know](https://www.wired.com/story/fda-approves-over-the-counter-birth-control-pill-heres-what-to-know/)
+ - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

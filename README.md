@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft announces Copilot for Microsoft 365 pricing to cost $30 per user for business accounts, and unveils Bing Chat Enterprise with increased privacy &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/230718/p17#a230718p17)
+ - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)
  - [OnePlus 12 specs leak reveals massive battery and impressive display](https://www.androidauthority.com/oneplus-12-leaked-specs-3346141/)
- - [iPhone 16 Pro Max could get ‘super’ periscope telephoto](https://www.androidauthority.com/iphone-16-pro-max-telephoto-3346145/)
- - [Instagram chief&#39;s mic drop: &#39;Android&#39;s now better than iOS&#39;](https://appleinsider.com/articles/23/07/18/instagram-chief-claims-android-is-better-than-ios-so-there?utm_medium=rss)
- - [The Biden admin adds European spyware firms Intellexa and Cytrox to an export prohibition list blocking them from US tech, as concerns grow over hacking tools &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/230718/p16#a230718p16)
- - [White House sets voluntary security standard for smart home devices](https://appleinsider.com/articles/23/07/18/white-house-sets-voluntary-security-standard-for-smart-home-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s AI-powered Copilot is coming to Microsoft Teams phone and chat](https://www.theverge.com/2023/7/18/23798816/microsoft-teams-365-copilot-ai-chat)
+ - [Microsoft puts a steep price on Copilot, its AI-powered future of Office documents](https://www.theverge.com/2023/7/18/23798627/microsoft-365-copilot-price-commercial-enterprise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

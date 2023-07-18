@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro Max lens could unlock super-telephoto shots](https://appleinsider.com/articles/23/07/18/iphone-16-pro-max-lens-could-unlock-super-telephoto-shots?utm_medium=rss)
+ - [Framework Laptop 16: our exclusive hands-on](https://www.theverge.com/22665800/framework-laptop-16-hands-on-preview-modular-gaming-laptop)
+ - [The Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
  - [Today I learned about these fantastic DIY mods that make modern gamepads one-handed](https://www.theverge.com/23798649/diy-accessible-gamepad-controllers-playstation-xbox-nintendo-akaki-kuumeri)
- - [UK-based Netcraft, a cybercrime detection company founded in 1995, raised $100M led by Spectrum Equity in its first fundraising to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p13#a230718p13)
- - [Leviton updates some smart switches with Matter](https://www.theverge.com/2023/7/18/23797610/leviton-decora-smart-wi-fi-switch-matter)
- - [Daily deals: Apple Watch Series 8 $329, 15% off at eBay, iPhone 12 from $360, 25% off Parallels Desktop for Mac, more](https://appleinsider.com/articles/23/07/18/daily-deals-apple-watch-series-8-329-15-off-at-ebay-iphone-12-from-360-25-off-parallels-desktop-for-mac-more?utm_medium=rss)
- - [Spain&#39;s antitrust watchdog fines Amazon and Apple a combined &amp;euro;194M for limiting the sale of devices from Apple and competitors on Amazon&#39;s Spanish sites &lpar;Inti Landauro/Reuters&rpar;](http://www.techmeme.com/230718/p12#a230718p12)<!-- TECH:END -->
+ - [UK-based Netcraft, a cybercrime detection company founded in 1995, raised $100M led by Spectrum Equity in its first fundraising to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p13#a230718p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

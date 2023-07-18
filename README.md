@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kill em softly](http://9gag.com/gag/aNwjyYv)
- - 😝 [Journalist: Who blew-up the Crimean Bridge? Zelensky: \u201cI don\u2019t know.\u201d](http://9gag.com/gag/a8qzdn1)
- - 💣 [Non-forced snuggle [follow-up to @cheekbuster69 &#39;s post]](http://9gag.com/gag/ajVyQRx)
+ - 😝 [Pretty much](http://9gag.com/gag/aNwj723)
+ - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 💣 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)
  - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
  - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 

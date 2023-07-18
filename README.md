@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech buys Stream Deck rival Loupedeck](https://www.theverge.com/2023/7/18/23798716/logitech-loupedeck-acquisition-announcement)
  - [OnePlus 12 leaks show a bigger battery and faster charging](https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging)
  - [Meta goes head-to-head with ChatGPT by open-sourcing its AI](https://www.androidauthority.com/ai-products-meta-microsoft-3346204/)
  - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
- - [The NYPD is testing drones that broadcast public safety warnings during emergencies](https://www.theverge.com/2023/7/18/23799144/nypd-drone-broadcast-safety-warnings-emergencies-surveillance)
- - [Peacock is jacking up prices for both new and existing customers](https://appleinsider.com/articles/23/07/18/peacock-is-jacking-up-prices-for-both-new-and-existing-customers?utm_medium=rss)<!-- TECH:END -->
+ - [The NYPD is testing drones that broadcast public safety warnings during emergencies](https://www.theverge.com/2023/7/18/23799144/nypd-drone-broadcast-safety-warnings-emergencies-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wing Cloud, developer of open-source, cloud-native programming language Winglang, launches out of stealth with a $20M seed &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230718/p11#a230718p11)
  - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
  - [Amazon’s in-van surveillance footage of delivery drivers is leaking online](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
  - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
- - [USB 4 docks arrive with enough bandwidth for two 4K 120Hz displays](https://www.theverge.com/2023/7/18/23798610/plugable-usb4-dual-hdmi-docking-station-4k-120hz-thunderbolt-4)
- - [Billion Dollar Heist doc breaks down the Bangladesh Bank heist in its first trailer](https://www.theverge.com/23798468/billion-dollar-heist-trailer)<!-- TECH:END -->
+ - [USB 4 docks arrive with enough bandwidth for two 4K 120Hz displays](https://www.theverge.com/2023/7/18/23798610/plugable-usb4-dual-hdmi-docking-station-4k-120hz-thunderbolt-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

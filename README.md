@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 😝 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
+ - 😝 [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
+ - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
  - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 💣 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
- - 😝 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
  - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
 
 ---

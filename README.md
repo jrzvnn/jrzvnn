@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple issues release candidates for watchOS 9.6 &amp; tvOS 16.6](https://appleinsider.com/articles/23/07/18/apple-issues-release-candidates-for-watchos-96-tvos-166?utm_medium=rss)
+ - [Apple rolls out release candidate for macOS 13.5 Ventura](https://appleinsider.com/articles/23/07/18/apple-rolls-out-release-candidate-for-macos-135-ventura?utm_medium=rss)
  - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [A report by the Ada Lovelace Institute warns that the UK&#39;s approach to AI safety lacks credibility and makes 18 recommendations for improving government plans &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230718/p24#a230718p24)
- - [Apple rolls out release candidate builds for iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/18/apple-rolls-out-release-candidate-builds-for-ios-166-and-ipados-166?utm_medium=rss)
- - [Bing, Bard, and ChatGPT: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Qualcomm and Meta announce that Llama 2 will run on Qualcomm chips on phones and PCs starting in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230718/p23#a230718p23)<!-- TECH:END -->
+ - [The best Samsung Galaxy Tab deals of July 2023](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [A report by the Ada Lovelace Institute warns that the UK&#39;s approach to AI safety lacks credibility and makes 18 recommendations for improving government plans &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230718/p24#a230718p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

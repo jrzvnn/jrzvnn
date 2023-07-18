@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
+ - 😝 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
  - 😝 [Hey guys, quick math](http://9gag.com/gag/aQEywxe)
- - 💣 [Today I found out : if you show weakness and vulnerability to women,they leave you.](http://9gag.com/gag/aWG9BX2)
- - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 👉 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)<!-- MEMES:END -->
+ - 💣 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)
+ - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
 
 ---
 </div>

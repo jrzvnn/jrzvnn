@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It gets worse the longer you look at it](http://9gag.com/gag/aPgr5Bq)
- - 😝 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
- - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 😝 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)
- - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
+ - 😝 [This is how modifications end](http://9gag.com/gag/axo4dMM)
+ - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 💣 [This road bike only weighs 4.8kg &lpar;10.58 lbs&rpar;, which gives it an advantage of being faster and more agile.](http://9gag.com/gag/abvEXeB)
+ - 😝 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
+ - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
 </div>

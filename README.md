@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI partners with the American Journalism Project to access content to train its AI model in exchange for $5M in funding and $5M in developer credits &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230718/p18#a230718p18)
+ - [Futureverse, a combination of 11 different startups from sectors including blockchain, AI, and metaverse, raised a $54M series A led by 10T Holdings &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230718/p19#a230718p19)
  - [Microsoft announces Copilot for Microsoft 365 pricing to cost $30 per user for business accounts, and unveils Bing Chat Enterprise with increased privacy &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/230718/p17#a230718p17)
  - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)
- - [OnePlus 12 specs leak reveals massive battery and impressive display](https://www.androidauthority.com/oneplus-12-leaked-specs-3346141/)
- - [Microsoft’s AI-powered Copilot is coming to Microsoft Teams phone and chat](https://www.theverge.com/2023/7/18/23798816/microsoft-teams-365-copilot-ai-chat)
- - [Microsoft puts a steep price on Copilot, its AI-powered future of Office documents](https://www.theverge.com/2023/7/18/23798627/microsoft-365-copilot-price-commercial-enterprise)<!-- TECH:END -->
+ - [OnePlus 12 specs leak reveals massive battery and impressive display](https://www.androidauthority.com/oneplus-12-leaked-specs-3346141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

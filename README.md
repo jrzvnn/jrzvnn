@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bing, Bard, and ChatGPT: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
  - [Qualcomm and Meta announce that Llama 2 will run on Qualcomm chips on phones and PCs starting in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230718/p23#a230718p23)
  - [The New York Times is shutting down its math-based puzzle game](https://www.theverge.com/2023/7/18/23798932/the-new-york-times-digits-math-based-puzzle-game-shut-down)
  - [Sources: Nvidia is nearing an investment in cloud compute service Lambda Labs in a deal that could total $300M, after taking a $100M equity stake in CoreWeave &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230718/p22#a230718p22)
- - [Get up to $1,050 off Apple&#39;s MacBook Pro M1 16-inch during latest round of price cuts](https://appleinsider.com/articles/23/07/18/get-up-to-1050-off-apples-macbook-pro-m1-16-inch-during-latest-round-of-price-cuts?utm_medium=rss)
- - [Meta is giving away its AI tech to try to beat ChatGPT](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft)<!-- TECH:END -->
+ - [Get up to $1,050 off Apple&#39;s MacBook Pro M1 16-inch during latest round of price cuts](https://appleinsider.com/articles/23/07/18/get-up-to-1050-off-apples-macbook-pro-m1-16-inch-during-latest-round-of-price-cuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

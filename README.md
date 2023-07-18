@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC unveils the US Cyber Trust Mark, a voluntary cybersecurity label for smart devices that will signify that devices meet NIST-set security standards &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230718/p7#a230718p7)
  - [Leeds-based chip designer Optalysys, which is developing optical chips that use light instead of electricity to perform calculations, raised a &amp;pound;21M Series A &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230718/p6#a230718p6)
  - [Meta’s Threads Could Make—or Break—the Fediverse](https://www.wired.com/story/metas-threads-could-make-or-break-the-fediverse/)
  - [Fukushima’s Radioactive Water Is Going to Be Pumped Into the Ocean](https://www.wired.com/story/fukushima-nuclear-disaster-radioactive-water-release/)
- - [The US Finally Approved an Over-the-Counter Birth Control Pill. Here’s What to Know](https://www.wired.com/story/fda-approves-over-the-counter-birth-control-pill-heres-what-to-know/)
- - [How to use AI subject selection in Photos in iOS 16 &amp; macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-ai-subject-selection-in-photos-in-ios-16-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [The US Finally Approved an Over-the-Counter Birth Control Pill. Here’s What to Know](https://www.wired.com/story/fda-approves-over-the-counter-birth-control-pill-heres-what-to-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

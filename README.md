@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This road bike only weighs 4.8kg &lpar;10.58 lbs&rpar;, which gives it an advantage of being faster and more agile.](http://9gag.com/gag/abvEXeB)
- - 😝 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
- - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
+ - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 💣 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
+ - 😝 [What it\u2019s like jumping from 20 Meters](http://9gag.com/gag/aYVR90q)
+ - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
 
 ---
 </div>

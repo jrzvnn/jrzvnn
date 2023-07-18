@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times is shutting down its math-based puzzle game](https://www.theverge.com/2023/7/18/23798932/the-new-york-times-digits-math-based-puzzle-game-shut-down)
+ - [Sources: Nvidia is nearing an investment in cloud compute service Lambda Labs in a deal that could total $300M, after taking a $100M equity stake in CoreWeave &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230718/p22#a230718p22)
+ - [Get up to $1,050 off Apple&#39;s MacBook Pro M1 16-inch during latest round of price cuts](https://appleinsider.com/articles/23/07/18/get-up-to-1050-off-apples-macbook-pro-m1-16-inch-during-latest-round-of-price-cuts?utm_medium=rss)
  - [Meta is giving away its AI tech to try to beat ChatGPT](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft)
- - [Galaxy Watch 6 specs leak paints a complete picture of what to expect](https://www.androidauthority.com/galaxy-watch-6-specs-3346163/)
- - [Samsung Galaxy Watch 5 Pro drops by $100 ahead of Unpacked event](https://www.androidauthority.com/galaxy-watch-5-pro-lte-deal-3346165/)
- - [Meta says LLaMA 2, its new open-source LLM with 2x the context length, is available for free for research and commercial use, and expands Microsoft partnership &lpar;Meta&rpar;](http://www.techmeme.com/230718/p21#a230718p21)
- - [Microsoft announces Vector Search, which uses ML to get the context of unstructured data like images and text, to make search faster, in preview through Azure &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p20#a230718p20)<!-- TECH:END -->
+ - [Galaxy Watch 6 specs leak paints a complete picture of what to expect](https://www.androidauthority.com/galaxy-watch-6-specs-3346163/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram chief claims Android is better than iOS, so there](https://appleinsider.com/articles/23/07/18/instagram-chief-claims-android-is-better-than-ios-so-there?utm_medium=rss)
- - [Hammerspace, which offers data orchestration systems for Blue Origin, the NSF, Royal Caribbean Group, and others, raised $56M led by Prosperity7 Ventures &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230718/p15#a230718p15)
- - [After 11 years of work, people actually like Apple Maps](https://appleinsider.com/articles/23/07/18/wsj-after-11-years-of-work-people-actually-like-apple-maps?utm_medium=rss)
- - [Execs at G/O Media, owner of Gizmodo, Jezebel, and others, say the company will publish more AI-generated stories despite blowback for botched first attempts &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230718/p14#a230718p14)
- - [iPhone 16 Pro Max lens could unlock super-telephoto shots](https://appleinsider.com/articles/23/07/18/iphone-16-pro-max-lens-could-unlock-super-telephoto-shots?utm_medium=rss)<!-- TECH:END -->
+ - [White House sets voluntary security standard for smart home devices](https://appleinsider.com/articles/23/07/18/white-house-sets-voluntary-security-standard-for-smart-home-devices?utm_medium=rss)
+ - [Instagram chief&#39;s mic drop: &#39;Android&#39;s now better than iOS&#39;](https://appleinsider.com/articles/23/07/18/instagram-chief-claims-android-is-better-than-ios-so-there?utm_medium=rss)
+ - [Spain hits Apple and Amazon with $218 million combined antitrust fine](https://appleinsider.com/articles/23/07/18/spain-hits-apple-and-amazon-with-218-million-combined-antitrust-fine?utm_medium=rss)
+ - [&#39;EA Sports FC&#39; Just Killed &#39;FIFA 24&#39;](https://www.wired.com/story/ea-sports-fc-24-fifa-24/)
+ - [Amazon’s refurbished Smart Thermostat is $40 and can help lower your energy bills](https://www.theverge.com/2023/7/18/23797509/amazon-smart-thermostat-hisense-u6h-4k-tv-google-nest-hub-max-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

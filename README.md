@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No turning back](http://9gag.com/gag/a9qDg9o)
- - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - 💣 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
- - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
+ - 😝 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
+ - 😝 [Comment about cheese to confuse `not title readers`](http://9gag.com/gag/a7qn4dw)
+ - 💣 [Out of context](http://9gag.com/gag/aqeA45M)
+ - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 👉 [And he does it again](http://9gag.com/gag/aGE74W6)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US chip company executives urged Secretary of State Blinken and other Biden administration officials on July 17 to halt further chip curbs on China &lpar;Reuters&rpar;](http://www.techmeme.com/230718/p4#a230718p4)
+ - [VanMoof e-bikes is bankrupt](https://www.theverge.com/2023/7/18/23798584/vanmoof-e-bikes-is-bankrupt)
  - [A pro-Ron DeSantis super PAC used an AI version of Trump&#39;s voice, which appears to be narrating Trump&#39;s Truth Social post, in a statewide TV attack ad in Iowa &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/230718/p3#a230718p3)
  - [Sources: EU&#39;s attempts to lobby Asian countries like Singapore to adopt its AI Act are getting a lukewarm reception as many favor a &quot;wait and see&quot; approach &lpar;Reuters&rpar;](http://www.techmeme.com/230718/p2#a230718p2)
- - [Threads&#39; early growth decisively proved the demand for a new text-based conversation app that could fully supplant Twitter&#39;s role in shaping public conversation &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230718/p1#a230718p1)
- - [Tired of hunting Pokemon? Google’s new AR game will let you take down aliens](https://www.androidauthority.com/google-taito-space-invaders-world-defense-3346013/)
- - [Best Back-to-School Gear for $100 or Less in 2023     - CNET](https://www.cnet.com/tech/best-back-to-school-gear-under-100-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads&#39; early growth decisively proved the demand for a new text-based conversation app that could fully supplant Twitter&#39;s role in shaping public conversation &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230718/p1#a230718p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

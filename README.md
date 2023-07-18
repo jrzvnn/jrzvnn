@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple MacBook Air M2 &lpar;15-inch&rpar; review: Should you buy it?](https://www.androidauthority.com/apple-macbook-air-m2-15-inch-review-3343887/)
+ - [Apple issues release candidates for iOS 15.7.8, iPadOS 15.7.8, macOS Big Sur 11.7.9, and Monterey 12.6.8](https://appleinsider.com/articles/23/07/18/apple-issues-release-candidates-for-ios-1578-ipados-1578-macos-big-sur-1179-and-monterey-1268?utm_medium=rss)
  - [Elon Musk says Twitter is working on a feature that will let you publish articles](https://www.theverge.com/2023/7/18/23799138/elon-musk-twitter-articles-notes)
  - [These ultra-rare Apple sneakers can be yours -- for $50,000](https://appleinsider.com/articles/23/07/18/these-ultra-rare-apple-sneakers-can-be-yours----for-50000?utm_medium=rss)
- - [Mint Mobile vs Tello: How do the two T-Mobile MVNOs compare?](https://www.androidauthority.com/mint-mobile-vs-tello-how-do-the-two-t-mobile-mvnos-compare-3346149/)
- - [Apple Pay&#39;s 2023 summer savings include deals on clothes &amp; hotels until June 26](https://appleinsider.com/articles/23/07/18/apple-pays-2023-summer-savings-include-deals-on-clothes-hotels-until-june-26?utm_medium=rss)
- - [Mobileye’s latest car tech reads road signs to better pester you about speed](https://www.theverge.com/2023/7/18/23798833/mobileye-eyeq-isa-gsr-speed-limit)<!-- TECH:END -->
+ - [Mint Mobile vs Tello: How do the two T-Mobile MVNOs compare?](https://www.androidauthority.com/mint-mobile-vs-tello-how-do-the-two-t-mobile-mvnos-compare-3346149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

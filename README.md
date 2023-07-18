@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech buys Stream Deck rival Loupedeck](https://www.theverge.com/2023/7/18/23798716/logitech-loupedeck-acquisition-announcement)
- - [OnePlus 12 leaks show a bigger battery and faster charging](https://www.theverge.com/2023/7/18/23799098/oneplus-12-leak-specs-snapdragon-8-gen-3-battery-wireless-charging)
- - [Meta goes head-to-head with ChatGPT by open-sourcing its AI](https://www.androidauthority.com/ai-products-meta-microsoft-3346204/)
- - [Sizzling Apple deals from Amazon knock up to $250 off Macs, AirPods, iPads &amp; Apple Watch](https://appleinsider.com/articles/23/07/17/sizzling-apple-deals-from-amazon-knock-up-to-250-off-macs-airpods-ipads-apple-watch?utm_medium=rss)
- - [The NYPD is testing drones that broadcast public safety warnings during emergencies](https://www.theverge.com/2023/7/18/23799144/nypd-drone-broadcast-safety-warnings-emergencies-surveillance)<!-- TECH:END -->
+ - [After about two and a half years as OnlyFans&#39; CEO, Ami Gan is departing, to be replaced by the company&#39;s chief strategy and operations officer Keily Blair &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230718/p26#a230718p26)
+ - [How to watch Lionel Messi&#39;s debut on Major League Soccer](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-lionel-messis-debut-on-major-league-soccer?utm_medium=rss)
+ - [The 16 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [This $49.99 wired Xbox controller has sticks that won’t drift](https://www.theverge.com/2023/7/18/23799149/gamesir-g7-se-xbox-windows-hall-effect-drift-free-controller-price)
+ - [Logitech buys Stream Deck rival Loupedeck](https://www.theverge.com/2023/7/18/23798716/logitech-loupedeck-acquisition-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

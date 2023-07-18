@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Capcom’s dino shooter Exoprimal is campy but clunky](https://www.theverge.com/2023/7/18/23798877/exoprimal-impressions-capcom-dino-crisis-game-pass)
+ - [First major Threads update adds some highly desired features](https://appleinsider.com/articles/23/07/18/first-major-threads-update-adds-a-some-highly-desired-features?utm_medium=rss)
+ - [Critics say Saudi Arabia uses Snapchat to promote Mohammed bin Salman&#39;s image and as a tool for repression globally; sources: the country closely monitors snaps &lpar;Stephanie Kirchgaessner/The Guardian&rpar;](http://www.techmeme.com/230718/p29#a230718p29)
  - [Reddit’s only free iOS app icons are ugly now](https://www.theverge.com/2023/7/18/23799266/reddit-app-icons-ugly)
- - [The best Google Home and Nest deals of July 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
- - [Microsoft Office&#39;s AI tools are an expensive investment, as Bing Chat goes enterprise](https://appleinsider.com/articles/23/07/18/microsoft-offices-ai-tools-are-an-expensive-investment-as-bing-chat-goes-enterprise?utm_medium=rss)
- - [Sources: Cameo tells staff it is laying off 80+ workers because of financial pressures, leaving fewer than 50, down nearly 90% from its peak headcount last year &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230718/p27#a230718p27)
- - [McKinsey partners with Cohere to help clients adopt generative AI, after Deloitte partnered with Nvidia and Bain and Company teamed up with OpenAI &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230718/p28#a230718p28)<!-- TECH:END -->
+ - [The best Google Home and Nest deals of July 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

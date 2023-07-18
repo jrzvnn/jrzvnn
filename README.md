@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox is going to let developers offer subscriptions in their experiences](https://www.theverge.com/2023/7/18/23799230/roblox-developers-subscriptions-marketplace-metaverse)
  - [Over 8,500 authors sign an Authors Guild letter asking AI leaders to get consent and fairly compensate writers when using copyrighted materials in generative AI &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230718/p31#a230718p31)
  - [Wix will let you build an entire website using only AI prompts](https://www.theverge.com/2023/7/17/23796600/wix-ai-generated-websites-chatgpt)
  - [Sources: ~700K TikTok accounts in Turkey were hacked before Turkey&#39;s election in May via a flaw TikTok knew in 2022; TikTok admits &quot;unusual activity&quot; in April &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230718/p30#a230718p30)
- - [Instagram Reels are about to get a lot more repetitive](https://www.theverge.com/2023/7/18/23799349/instagram-reels-templates-trending-effects-editing-browser)
- - [Paul McCartney’s new podcast had to make some tough choices](https://www.theverge.com/2023/7/18/23799398/paul-mccartney-beatles-podcast-lyrics-interview)<!-- TECH:END -->
+ - [Instagram Reels are about to get a lot more repetitive](https://www.theverge.com/2023/7/18/23799349/instagram-reels-templates-trending-effects-editing-browser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

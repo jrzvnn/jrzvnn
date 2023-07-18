@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
  - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
- - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
- - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
  - 👉 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
 

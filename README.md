@@ -156,8 +156,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Kill em softly](http://9gag.com/gag/aNwjyYv)
- - 😝 [Non-forced snuggle [follow-up to @cheekbuster69 &#39;s post]](http://9gag.com/gag/ajVyQRx)
- - 💣 [Journalist: Who blew-up the Crimean Bridge? Zelensky: \u201cI don\u2019t know.\u201d](http://9gag.com/gag/a8qzdn1)
+ - 😝 [Journalist: Who blew-up the Crimean Bridge? Zelensky: \u201cI don\u2019t know.\u201d](http://9gag.com/gag/a8qzdn1)
+ - 💣 [Non-forced snuggle [follow-up to @cheekbuster69 &#39;s post]](http://9gag.com/gag/ajVyQRx)
  - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
  - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 

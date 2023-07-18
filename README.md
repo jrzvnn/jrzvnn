@@ -158,8 +158,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
  - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
  - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [No turning back](http://9gag.com/gag/a9qDg9o)<!-- MEMES:END -->
+ - 😝 [No turning back](http://9gag.com/gag/a9qDg9o)
+ - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
 
 ---
 </div>

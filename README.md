@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty much](http://9gag.com/gag/aNwj723)
+ - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 😝 [Beauty spray](http://9gag.com/gag/a1POGoG)
+ - 💣 [Well... Yes...](http://9gag.com/gag/axomX92)
  - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
- - 💣 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)
- - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
+ - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
 
 ---
 </div>

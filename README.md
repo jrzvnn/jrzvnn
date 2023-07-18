@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t breathe,get statue](http://9gag.com/gag/aWGRKP4)
- - 😝 [Struggling fan meets Sean Astin &lpar;Sam Gamgee from Lord of the Rings&rpar;](http://9gag.com/gag/aXnR5Lz)
- - 💣 [Good old humor.](http://9gag.com/gag/a04O2oq)
+ - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 😝 [Exactly](http://9gag.com/gag/aoKnQrg)
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [Comment about cheese to confuse `not title readers`](http://9gag.com/gag/a7qn4dw)<!-- MEMES:END -->
+ - 👉 [No turning back](http://9gag.com/gag/a9qDg9o)<!-- MEMES:END -->
 
 ---
 </div>

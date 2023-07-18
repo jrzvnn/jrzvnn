@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mint Mobile vs Tello: How do the two T-Mobile MVNOs compare?](https://www.androidauthority.com/mint-mobile-vs-tello-how-do-the-two-t-mobile-mvnos-compare-3346149/)
+ - [Apple Pay&#39;s 2023 summer savings include deals on clothes &amp; hotels until June 26](https://appleinsider.com/articles/23/07/18/apple-pays-2023-summer-savings-include-deals-on-clothes-hotels-until-june-26?utm_medium=rss)
+ - [Mobileye’s latest car tech reads road signs to better pester you about speed](https://www.theverge.com/2023/7/18/23798833/mobileye-eyeq-isa-gsr-speed-limit)
  - [Apple issues release candidates for watchOS 9.6 &amp; tvOS 16.6](https://appleinsider.com/articles/23/07/18/apple-issues-release-candidates-for-watchos-96-tvos-166?utm_medium=rss)
- - [Apple rolls out release candidate for macOS 13.5 Ventura](https://appleinsider.com/articles/23/07/18/apple-rolls-out-release-candidate-for-macos-135-ventura?utm_medium=rss)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [The best Samsung Galaxy Tab deals of July 2023](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
- - [A report by the Ada Lovelace Institute warns that the UK&#39;s approach to AI safety lacks credibility and makes 18 recommendations for improving government plans &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230718/p24#a230718p24)<!-- TECH:END -->
+ - [Apple rolls out release candidate for macOS 13.5 Ventura](https://appleinsider.com/articles/23/07/18/apple-rolls-out-release-candidate-for-macos-135-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

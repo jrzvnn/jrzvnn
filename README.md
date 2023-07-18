@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50 fifty chance he buried.](http://9gag.com/gag/ajVRbO0)
- - 😝 [Deadly dead](http://9gag.com/gag/a5X50Do)
- - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 😝 [Well... Yes...](http://9gag.com/gag/axomX92)
+ - 😝 [Man Life Must Be Hard when...](http://9gag.com/gag/aRERqNB)
+ - 💣 [How much for hug?](http://9gag.com/gag/aRERnRM)
  - 😝 [Win a chance to have your meme displayed at the 9GAG gamescom Meme Gallery and get a Gamescom ticket! Meme This now:](http://9gag.com/gag/aGE76Q5)
- - 👉 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)<!-- MEMES:END -->
+ - 👉 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
 
 ---
 </div>

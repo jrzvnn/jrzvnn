@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
- - 😝 [This is f**ked up](http://9gag.com/gag/amAR33v)
+ - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 😝 [Non-forced snuggle [follow-up to @cheekbuster69 &#39;s post]](http://9gag.com/gag/ajVyQRx)
  - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
+ - 😝 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
+ - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
 
 ---
 </div>

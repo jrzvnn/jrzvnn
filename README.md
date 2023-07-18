@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cDavid Fielding\u201d was only paid $150 to play Zordon in 1993\u2019s Power Rangers. He shared that he only showed up to work one day at the Power Rangers recording set, and he was never called back, Zordon was in every episode of Power Rangers in 1993.](http://9gag.com/gag/aZDvqD9)
- - 😝 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
- - 💣 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
- - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
- - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
+ - 😝 [Out of context](http://9gag.com/gag/aqeA45M)
+ - 😝 [Kill em softly](http://9gag.com/gag/aNwjyYv)
+ - 💣 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 😝 [Journalist: Who blew-up the Crimean Bridge? Zelensky: \u201cI don\u2019t know.\u201d](http://9gag.com/gag/a8qzdn1)
+ - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
 </div>

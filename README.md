@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new foldables could borrow a useful accessory from the Galaxy S23](https://www.androidauthority.com/samsung-galaxy-z-fold-flip-5-ring-case-leak-3346026/)
  - [A look at local US governments&#39; use of Automatic License Plate Recognition startups, like Rekor and Flock, that claim to spot &quot;suspicious&quot; movement patterns &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/230718/p5#a230718p5)
  - [OnePlus 12 should arrive globally like clockwork: Leak](https://www.androidauthority.com/oneplus-12-global-launch-3346016/)
  - [Sources: US chip company executives urged Secretary of State Blinken and other Biden administration officials on July 17 to halt further chip curbs on China &lpar;Reuters&rpar;](http://www.techmeme.com/230718/p4#a230718p4)
- - [VanMoof e-bikes is bankrupt](https://www.theverge.com/2023/7/18/23798584/vanmoof-e-bikes-is-bankrupt)
- - [A pro-Ron DeSantis super PAC used an AI version of Trump&#39;s voice, which appears to be narrating Trump&#39;s Truth Social post, in a statewide TV attack ad in Iowa &lpar;Alex Isenstadt/Politico&rpar;](http://www.techmeme.com/230718/p3#a230718p3)<!-- TECH:END -->
+ - [VanMoof e-bikes is bankrupt](https://www.theverge.com/2023/7/18/23798584/vanmoof-e-bikes-is-bankrupt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea-based internet group Naver plans to release its HyperCLOVA X AI model this summer, as Google cuts into its core domestic search engine business &lpar;Kotaro Hosokawa/Nikkei Asia&rpar;](http://www.techmeme.com/230718/p8#a230718p8)
+ - [Apple is still coming out on top of an incredibly bad smartphone market](https://appleinsider.com/articles/23/07/18/apple-is-still-coming-out-on-top-of-an-incredibly-bad-smartphone-market?utm_medium=rss)
  - [The FCC unveils the US Cyber Trust Mark, a voluntary cybersecurity label for smart devices that will signify that devices meet NIST-set security standards &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230718/p7#a230718p7)
  - [Leeds-based chip designer Optalysys, which is developing optical chips that use light instead of electricity to perform calculations, raised a &amp;pound;21M Series A &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230718/p6#a230718p6)
- - [Meta’s Threads Could Make—or Break—the Fediverse](https://www.wired.com/story/metas-threads-could-make-or-break-the-fediverse/)
- - [Fukushima’s Radioactive Water Is Going to Be Pumped Into the Ocean](https://www.wired.com/story/fukushima-nuclear-disaster-radioactive-water-release/)
- - [The US Finally Approved an Over-the-Counter Birth Control Pill. Here’s What to Know](https://www.wired.com/story/fda-approves-over-the-counter-birth-control-pill-heres-what-to-know/)<!-- TECH:END -->
+ - [Meta’s Threads Could Make—or Break—the Fediverse](https://www.wired.com/story/metas-threads-could-make-or-break-the-fediverse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

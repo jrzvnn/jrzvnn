@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Execs at G/O Media, owner of Gizmodo, Jezebel, and others, say the company will publish more AI-generated stories despite blowback for botched first attempts &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/230718/p14#a230718p14)
  - [iPhone 16 Pro Max lens could unlock super-telephoto shots](https://appleinsider.com/articles/23/07/18/iphone-16-pro-max-lens-could-unlock-super-telephoto-shots?utm_medium=rss)
  - [Framework Laptop 16: our exclusive hands-on](https://www.theverge.com/22665800/framework-laptop-16-hands-on-preview-modular-gaming-laptop)
  - [The Biden administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
- - [Today I learned about these fantastic DIY mods that make modern gamepads one-handed](https://www.theverge.com/23798649/diy-accessible-gamepad-controllers-playstation-xbox-nintendo-akaki-kuumeri)
- - [UK-based Netcraft, a cybercrime detection company founded in 1995, raised $100M led by Spectrum Equity in its first fundraising to date &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230718/p13#a230718p13)<!-- TECH:END -->
+ - [Today I learned about these fantastic DIY mods that make modern gamepads one-handed](https://www.theverge.com/23798649/diy-accessible-gamepad-controllers-playstation-xbox-nintendo-akaki-kuumeri)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

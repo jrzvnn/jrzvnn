@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
  - 😝 [Surprising.](http://9gag.com/gag/aL1WYNP)
- - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
  - 💣 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 👉 [How much for hug?](http://9gag.com/gag/aRERnRM)<!-- MEMES:END -->
+ - 😝 [How much for hug?](http://9gag.com/gag/aRERnRM)
+ - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [White House sets voluntary security standard for smart home devices](https://appleinsider.com/articles/23/07/18/white-house-sets-voluntary-security-standard-for-smart-home-devices?utm_medium=rss)
+ - [iPhone 16 Pro Max could get ‘super’ periscope telephoto](https://www.androidauthority.com/iphone-16-pro-max-telephoto-3346145/)
  - [Instagram chief&#39;s mic drop: &#39;Android&#39;s now better than iOS&#39;](https://appleinsider.com/articles/23/07/18/instagram-chief-claims-android-is-better-than-ios-so-there?utm_medium=rss)
- - [Spain hits Apple and Amazon with $218 million combined antitrust fine](https://appleinsider.com/articles/23/07/18/spain-hits-apple-and-amazon-with-218-million-combined-antitrust-fine?utm_medium=rss)
- - [&#39;EA Sports FC&#39; Just Killed &#39;FIFA 24&#39;](https://www.wired.com/story/ea-sports-fc-24-fifa-24/)
- - [Amazon’s refurbished Smart Thermostat is $40 and can help lower your energy bills](https://www.theverge.com/2023/7/18/23797509/amazon-smart-thermostat-hisense-u6h-4k-tv-google-nest-hub-max-deal-sale)<!-- TECH:END -->
+ - [The Biden admin adds European spyware firms Intellexa and Cytrox to an export prohibition list blocking them from US tech, as concerns grow over hacking tools &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/230718/p16#a230718p16)
+ - [White House sets voluntary security standard for smart home devices](https://appleinsider.com/articles/23/07/18/white-house-sets-voluntary-security-standard-for-smart-home-devices?utm_medium=rss)
+ - [Spain hits Apple and Amazon with $218 million combined antitrust fine](https://appleinsider.com/articles/23/07/18/spain-hits-apple-and-amazon-with-218-million-combined-antitrust-fine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

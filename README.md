@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Cameo tells staff it is laying off 80+ workers because of financial pressures, leaving fewer than 50, down nearly 90% from its peak headcount last year &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230718/p27#a230718p27)
+ - [McKinsey partners with Cohere to help clients adopt generative AI, after Deloitte partnered with Nvidia and Bain and Company teamed up with OpenAI &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230718/p28#a230718p28)
  - [The latest Threads update adds a ‘follows’ tab, but it doesn’t do what you’d like](https://www.theverge.com/2023/7/18/23799223/threads-update-follows-tab-activity-feed)
  - [Apple Search Ads terms of service update coming on August 8](https://appleinsider.com/articles/23/07/18/apple-search-ads-terms-of-service-update-coming-on-august-8?utm_medium=rss)
- - [After about two and a half years as OnlyFans&#39; CEO, Ami Gan departs to launch a new venture; Chief Strategy &amp; Operations Officer Keily Blair takes over as CEO &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230718/p26#a230718p26)
- - [How to watch Lionel Messi&#39;s debut on Major League Soccer](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-lionel-messis-debut-on-major-league-soccer?utm_medium=rss)
- - [The 16 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [After about two and a half years as OnlyFans&#39; CEO, Ami Gan departs to launch a new venture; Chief Strategy &amp; Operations Officer Keily Blair takes over as CEO &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230718/p26#a230718p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

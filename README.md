@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech acquires custom console maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
+ - [Due to safety concerns like facial recognition abuse, OpenAI hasn&#39;t widely shipped GPT-4&#39;s &quot;multimodal&quot; capability that can respond to images and text prompts &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230718/p35#a230718p35)
+ - [The US Court of Appeals for the Ninth Circuit rules that Instagram is not liable for copyright infringement related to embedded images on BuzzFeed News and Time &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230718/p34#a230718p34)
  - [TikTok debuts Elevate, a program to help rising music artists via amplification, early access to new features, and more, and signs a Warner Music licensing deal &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230718/p33#a230718p33)
- - [Apple updates Final Cut Pro for iPad with new keyboard shortcuts](https://appleinsider.com/articles/23/07/18/apple-updates-final-cut-pro-for-ipad-with-new-keyboard-shortcuts?utm_medium=rss)
- - [Rapid7: threat actors have exploited zero-day code-execution flaws in Adobe ColdFusion and Citrix NetScaler, and Adobe has issued only an incomplete fix &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230718/p32#a230718p32)
- - [Instagram head says Android is now better than iOS, ignites furious debate](https://www.androidauthority.com/threads-android-adam-mosseri-3346246/)
- - [Roblox is going to let developers offer subscriptions in their experiences](https://www.theverge.com/2023/7/18/23799230/roblox-developers-subscriptions-marketplace-metaverse)<!-- TECH:END -->
+ - [Apple updates Final Cut Pro for iPad with new keyboard shortcuts](https://appleinsider.com/articles/23/07/18/apple-updates-final-cut-pro-for-ipad-with-new-keyboard-shortcuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

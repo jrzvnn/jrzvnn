@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest Threads update adds a ‘follows’ tab, but it doesn’t do what you’d like](https://www.theverge.com/2023/7/18/23799223/threads-update-follows-tab-activity-feed)
  - [Apple Search Ads terms of service update coming on August 8](https://appleinsider.com/articles/23/07/18/apple-search-ads-terms-of-service-update-coming-on-august-8?utm_medium=rss)
- - [After about two and a half years as OnlyFans&#39; CEO, Ami Gan is departing, to be replaced by the company&#39;s chief strategy and operations officer Keily Blair &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230718/p26#a230718p26)
+ - [After about two and a half years as OnlyFans&#39; CEO, Ami Gan departs to launch a new venture; Chief Strategy &amp; Operations Officer Keily Blair takes over as CEO &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230718/p26#a230718p26)
  - [How to watch Lionel Messi&#39;s debut on Major League Soccer](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-lionel-messis-debut-on-major-league-soccer?utm_medium=rss)
- - [The 16 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [This $49.99 wired Xbox controller has sticks that won’t drift](https://www.theverge.com/2023/7/18/23799149/gamesir-g7-se-xbox-windows-hall-effect-drift-free-controller-price)<!-- TECH:END -->
+ - [The 16 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

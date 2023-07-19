@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm and Meta will bring on-device AI to flagship phones in 2024](https://www.androidauthority.com/ai-products-meta-microsoft-3346204/)
- - [Judge scolds Apple&#39;s lawyers over appeals arguments](https://appleinsider.com/articles/23/07/19/judge-scolds-apples-lawyers-over-appeals-arguments?utm_medium=rss)
- - [Android 14’s work profile change is bad for your battery and work-life balance](https://www.androidauthority.com/android-14-work-profile-change-3346414/)
- - [Apple&#39;s &#39;Underdogs&#39; chase a stolen Mac in a new ad](https://appleinsider.com/articles/23/07/19/apples-underdogs-chase-a-stolen-mac-in-a-new-ad?utm_medium=rss)
- - [TikTok Music rolls out to more countries](https://www.theverge.com/2023/7/19/23800014/tiktok-music-beta-australia-mexico-singapore-streaming-service)<!-- TECH:END -->
+ - [Why You Should Read a 900-Page Novel About the Climate Crisis](https://www.wired.com/story/have-a-nice-future-podcast-14/)
+ - [Ticks and the Diseases They Carry Are Spreading. Can This Drug Stamp Them Out?](https://www.wired.com/story/ticks-and-the-diseases-they-carry-are-spreading-can-this-drug-stamp-them-out/)
+ - [11 Best Barbie Collabs &lpar;2023&rpar;: Polaroids, Pool Floats, Hair Tools](https://www.wired.com/gallery/best-barbie-collabs/)
+ - [Threads Is the New Cool Hangout—for Brands](https://www.wired.com/story/threads-app-meta-brands/)
+ - [The Ukraine War Shows the US Military-Industrial Complex Isn’t Battle Ready](https://www.wired.com/story/ukraine-future-of-war-mom-and-pop-military-industrial-complex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

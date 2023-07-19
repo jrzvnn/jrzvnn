@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit is now inviting mods to participate in weekly ‘feedback sessions’](https://www.theverge.com/2023/7/19/23800607/reddit-invites-mods-admins-conversation-protests)
+ - [Amazon says it’ll ditch plastic padded mailers](https://www.theverge.com/2023/7/19/23800435/amazon-plastic-padded-envelope-packaging-waste)
+ - [Miami-based Cosmic Wire, which offers tools for blockchain infrastructure and metaverse creation, raised a $30M seed led by the Solana Foundation and Polygon &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p33#a230719p33)
  - [Sources: Threads has largely replicated Instagram&#39;s algorithm, prioritizing posts by creators and friends over hard news, and is relying on Instagram moderators &lpar;Financial Times&rpar;](http://www.techmeme.com/230719/p32#a230719p32)
- - [Your Starbucks order is not ready](https://www.theverge.com/2023/7/19/23800668/starbucks-iphone-notification-bug-error-your-order-is-ready)
- - [Sources: Meta&#39;s timeline for releasing AR glasses has slipped to at least 2027, as setbacks caused dropping microLED display tech, lidar, a 3D projector, more &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230719/p31#a230719p31)
- - [Details emerge on ‘Apple GPT,’ the company’s AI chatbot it’s testing internally](https://www.androidauthority.com/apple-gpt-3346580/)
- - [How Dell dodged a class action suit over Alienware Area-51m GPU upgrades](https://www.theverge.com/2023/7/19/22313742/alienware-area-51m-lawsuit-gpu-upgrade-arbitration-settlement)<!-- TECH:END -->
+ - [Your Starbucks order is not ready](https://www.theverge.com/2023/7/19/23800668/starbucks-iphone-notification-bug-error-your-order-is-ready)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

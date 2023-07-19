@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC and the DOJ release draft changes to US merger review guidelines, introducing potentially comprehensive changes for the first time in more than a decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230719/p12#a230719p12)
+ - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)
  - [The UK CMA provisionally clears Broadcom&#39;s $61B acquisition of VMware, after finding that the deal would not harm competition; the deal still needs US approval &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230719/p11#a230719p11)
  - [Why You Should Read a 900-Page Novel About the Climate Crisis](https://www.wired.com/story/have-a-nice-future-podcast-14/)
- - [11 Best Barbie Collabs &lpar;2023&rpar;: Polaroids, Pool Floats, Hair Tools](https://www.wired.com/gallery/best-barbie-collabs/)
- - [Ticks and the Diseases They Carry Are Spreading. Can This Drug Stamp Them Out?](https://www.wired.com/story/ticks-and-the-diseases-they-carry-are-spreading-can-this-drug-stamp-them-out/)
- - [Threads Is the New Cool Hangout—for Brands](https://www.wired.com/story/threads-app-meta-brands/)<!-- TECH:END -->
+ - [11 Best Barbie Collabs &lpar;2023&rpar;: Polaroids, Pool Floats, Hair Tools](https://www.wired.com/gallery/best-barbie-collabs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

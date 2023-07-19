@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 😝 [Peter...](http://9gag.com/gag/a8qzd8Z)
+ - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
  - 💣 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)
- - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 👉 [Buzz Aldrin reacts to being called a coward and a liar about walking on the moon](http://9gag.com/gag/aWG9Qeq)<!-- MEMES:END -->
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 👉 [Lowest grossing movie of all time: only six people bought tickets for a total box office of $30](http://9gag.com/gag/aqeD3BR)<!-- MEMES:END -->
 
 ---
 </div>

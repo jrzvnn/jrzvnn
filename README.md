@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 😝 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)
+ - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
  - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 💣 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
  - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 
 ---

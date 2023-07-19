@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)
- - 😝 [The most American thing you&#39;ll see today](http://9gag.com/gag/ay2P5OY)
- - 💣 [The `Perfect` Husband](http://9gag.com/gag/a4oV9Y1)
- - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 👉 [Return of the King](http://9gag.com/gag/az2QgMN)<!-- MEMES:END -->
+ - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 👉 [Describe this life.](http://9gag.com/gag/anzVYRE)<!-- MEMES:END -->
 
 ---
 </div>

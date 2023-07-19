@@ -150,7 +150,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The FTC and the DOJ release draft changes to US merger review guidelines, introducing potentially comprehensive changes for the first time in more than a decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230719/p12#a230719p12)
  - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)
  - [The UK CMA provisionally clears Broadcom&#39;s $61B acquisition of VMware, after finding that the deal would not harm competition; the deal still needs US approval &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230719/p11#a230719p11)
- - [11 Best Barbie Collabs &lpar;2023&rpar;: Polaroids, Pool Floats, Hair Tools](https://www.wired.com/gallery/best-barbie-collabs/)<!-- TECH:END -->
+ - [iOS 16.5.1 &lpar;c&rpar;: You Need to Download This iPhone Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-5-1-c-you-need-to-download-this-iphone-update-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

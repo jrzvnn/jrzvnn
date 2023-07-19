@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp finally lets you open chats with an unknown number without any tricks](https://www.androidauthority.com/whatsapp-open-chats-with-unknown-numbers-3346379/)
  - [Apps crashing on your Pixel? Here’s what you can try to fix the issue](https://www.androidauthority.com/google-pixel-app-crashing-bug-3345291/)
  - [A look at the Wikipedia community&#39;s debates about AI, including AI&#39;s threats and potential benefits, knowledge creation, truthfulness, and legal concerns &lpar;Jon Gertner/New York Times&rpar;](http://www.techmeme.com/230719/p6#a230719p6)
  - [Telegram raised $210M through bond sales, more than two years after raising $1B+ in debt financing; CEO Pavel Durov &quot;personally bought&quot; ~25% of new bonds &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p5#a230719p5)
- - [Sources: former FTX COO Zhe &quot;Constance&quot; Wang has joined crypto VC firm Sino Global Capital; Wang has not been accused of wrongdoing in FTX or Alameda&#39;s collapse &lpar;Bloomberg&rpar;](http://www.techmeme.com/230719/p4#a230719p4)
- - [Samsung says it has completed the development of its first generation GDDR7 DRAM, slated for 2024, with a 32Gbps data transfer rate, up ~33% from GDDR6&#39;s 24Gbps &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230719/p3#a230719p3)<!-- TECH:END -->
+ - [Sources: former FTX COO Zhe &quot;Constance&quot; Wang has joined crypto VC firm Sino Global Capital; Wang has not been accused of wrongdoing in FTX or Alameda&#39;s collapse &lpar;Bloomberg&rpar;](http://www.techmeme.com/230719/p4#a230719p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

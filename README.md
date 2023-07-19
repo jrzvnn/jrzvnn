@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is sticking to ‘sports-adjacent’ streaming instead of live sports, for now](https://www.theverge.com/2023/7/19/23801021/netflix-live-sports-documentaries-programming)
  - [Apple&#39;s HomePod mini dips to $74.99 &lpar;$25 off&rpar;](https://appleinsider.com/articles/23/07/18/apples-homepod-mini-dips-to-7499-25-off?utm_medium=rss)
  - [Sources: Samsung has begun the development of a smart ring, the so-called Galaxy Ring, using circuit boards made by Japan&#39;s Meiko &lpar;The Elec&rpar;](http://www.techmeme.com/230719/p40#a230719p40)
  - [In an earnings call, Elon Musk says Tesla is open to licensing its FSD software and hardware to other carmakers and is &quot;already in discussions&quot; with a major OEM &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230719/p39#a230719p39)
- - [Windows computer randomly restarts? Here’s how to fix it](https://www.androidauthority.com/computer-randomly-restarts-3346630/)
- - [Tesla’s Cybertruck is less than 19 feet long so it can fit in your garage](https://www.theverge.com/2023/7/19/23799319/tesla-cybertruck-bed-specs-q2-production-deliveries)<!-- TECH:END -->
+ - [Windows computer randomly restarts? Here’s how to fix it](https://www.androidauthority.com/computer-randomly-restarts-3346630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

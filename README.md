@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Readers pick the best tech books of all time](https://www.theverge.com/23799444/readers-best-tech-nonfiction-books-of-all-time)
+ - [The self-transforming Optimus Prime now has a $1700 dinobot friend](https://www.theverge.com/22413007/robosen-transformers-grimlock-robot-toy-price-release-date-announcement)
  - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
  - [The FTC and the DOJ release draft changes to US merger review guidelines, introducing potentially comprehensive changes for the first time in more than a decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230719/p12#a230719p12)
- - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)
- - [The UK CMA provisionally clears Broadcom&#39;s $61B acquisition of VMware, after finding that the deal would not harm competition; the deal still needs US approval &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230719/p11#a230719p11)
- - [iOS 16.5.1 &lpar;c&rpar;: You Need to Download This iPhone Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-5-1-c-you-need-to-download-this-iphone-update-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [US antitrust enforcers lay down plans to block Big Tech mergers](https://www.theverge.com/2023/7/19/23800545/khan-ftc-doj-justice-antitrust-guidelines-meta-amazon)
+ - [Nissan is on board with Tesla’s charging revolution](https://www.theverge.com/2023/7/19/23800436/nissan-tesla-nacs-support-supercharging-adapter)
  - [I don’t know where to post about the World Cup](https://www.theverge.com/23800361/womens-world-cup-2023-posting-twitter-threads)
- - [Meta launches a WhatsApp app for Wear OS 3 smartwatches, letting users start chats, reply to messages, and take calls without having their connected phone &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p27#a230719p27)
- - [Barbenheimer is just the beginning of this year’s summer blockbuster season](https://www.theverge.com/2023/7/11/23790471/barbenheimer-barbie-oppenheimer-summer-movies-2023)
- - [Oppenheimer is an unrelenting stream of bombastic vignettes in need of a narrative chain reaction](https://www.theverge.com/23800129/oppenheimer-movie-review-christopher-nolan)
- - [The excellent Fitbit Inspire 3 is still at its Prime Day price of $79.95](https://www.androidauthority.com/fitbit-inspire-3-deal-3346514/)<!-- TECH:END -->
+ - [Meta launches a WhatsApp app for Wear OS 3 smartwatches, letting users start chats, reply to messages, and take calls without having their connected phone &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p27#a230719p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

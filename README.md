@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
- - 😝 [Protest anti lgbt in Ontario lol](http://9gag.com/gag/aYVR8eV)
- - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
+ - 😝 [Come on Nike:](http://9gag.com/gag/aL1Wq0v)
+ - 😝 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
+ - 💣 [Protest anti lgbt in Ontario lol](http://9gag.com/gag/aYVR8eV)
+ - 😝 [Hey guys, quick math](http://9gag.com/gag/aQEywxe)
+ - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
 
 ---
 </div>

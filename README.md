@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has been working on its own ChatGPT AI tool for some time](https://appleinsider.com/articles/23/07/19/apple-has-been-working-on-its-own-chatgpt-ai-tool-for-some-time?utm_medium=rss)
+ - [Michael Moritz leaves Sequoia Capital to focus on the firm&#39;s wealth management business; source: Mike Vernal is also leaving; Daniel Chen left in recent months &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230719/p26#a230719p26)
+ - [Reddit is bringing back r/Place at perhaps the worst possible time](https://www.theverge.com/2023/7/19/23800309/reddit-r-place-2023-protest)
  - [Apple is testing an AI chatbot but has no idea what to do with it](https://www.theverge.com/2023/7/19/23800430/apple-gpt-ai-chatbot-generative-ai)
- - [Sources: Apple built a framework called Ajax to build LLMs, created a chatbot app that some engineers call &quot;Apple GPT&quot;, and aims for a consumer product in 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230719/p25#a230719p25)
- - [Apple’s cheapest iPad has returned to its all-time low price at Amazon](https://www.theverge.com/2023/7/19/23799515/apple-ipad-google-pixel-watch-eufy-smarttrack-card-location-tracker-deal-sale)
- - [Galaxy Z Fold 5 leak surprises us with phone case that holds an S Pen](https://www.androidauthority.com/galaxy-z-fold-5-s-pen-3346482/)
- - [‘Welcome to EV dongle town’](https://www.theverge.com/23797527/ev-charging-ccs-nacs-tesla-adapter-guide)<!-- TECH:END -->
+ - [Sources: Apple built a framework called Ajax to build LLMs, created a chatbot app that some engineers call &quot;Apple GPT&quot;, and aims for a consumer product in 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230719/p25#a230719p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

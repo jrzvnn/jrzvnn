@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
- - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 💣 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)
- - 😝 [Surprising.](http://9gag.com/gag/aL1WYNP)
- - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
+ - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 💣 [Buzz Aldrin reacts to being called a coward and a liar about walking on the moon](http://9gag.com/gag/aWG9Qeq)
+ - 😝 [Trying to grasp how dense is a black hole](http://9gag.com/gag/abvE5Np)
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 </div>

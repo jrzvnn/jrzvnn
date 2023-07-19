@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I don’t know where to post about the World Cup](https://www.theverge.com/23800361/womens-world-cup-2023-posting-twitter-threads)
+ - [Meta launches a WhatsApp app for Wear OS 3 smartwatches, letting users start chats, reply to messages, and take calls without having their connected phone &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p27#a230719p27)
+ - [Barbenheimer is just the beginning of this year’s summer blockbuster season](https://www.theverge.com/2023/7/11/23790471/barbenheimer-barbie-oppenheimer-summer-movies-2023)
  - [Oppenheimer is an unrelenting stream of bombastic vignettes in need of a narrative chain reaction](https://www.theverge.com/23800129/oppenheimer-movie-review-christopher-nolan)
- - [WhatsApp is now available on Wear OS smartwatches](https://www.androidauthority.com/whatsapp-arrives-on-smartwatches-3346479/)
- - [Blizzard games are coming to Steam](https://www.theverge.com/2023/7/19/23800283/overwatch-2-steam-blizzard-pc)
- - [Deals: $300 off Apple Studio Display, $400 off 16&quot; MacBook Pro, $80 off iPad 9th Gen, 35% off Microsoft Surface Book](https://appleinsider.com/articles/23/07/19/deals-300-off-apple-studio-display-400-off-16-inch-macbook-pro-2023-80-off-ipad-9th-gen-35-off-microsoft-surface-book-more?utm_medium=rss)
- - [Meta’s AR glasses reportedly won’t feature the high-end displays it planned](https://www.theverge.com/2023/7/19/23800228/meta-ar-glasses-artemis-lcos-displays-waveguide)<!-- TECH:END -->
+ - [The excellent Fitbit Inspire 3 is still at its Prime Day price of $79.95](https://www.androidauthority.com/fitbit-inspire-3-deal-3346514/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

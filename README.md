@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta&#39;s timeline for releasing AR glasses has slipped to at least 2027, as setbacks caused dropping microLED display tech, lidar, a 3D projector, more &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230719/p31#a230719p31)
  - [Details emerge on ‘Apple GPT,’ the company’s AI chatbot it’s testing internally](https://www.androidauthority.com/apple-gpt-3346580/)
  - [How Dell dodged a class action suit over Alienware Area-51m GPU upgrades](https://www.theverge.com/2023/7/19/22313742/alienware-area-51m-lawsuit-gpu-upgrade-arbitration-settlement)
  - [Meta’s upcoming AR glasses are getting a few major downgrades](https://www.androidauthority.com/meta-ar-glasses-downgrade-3346541/)
- - [DoorDash fired an employee for trying to organize a union, NLRB alleges](https://www.theverge.com/2023/7/19/23800149/nlrb-doordash-fired-employee-union-arizona)
- - [Best MacBook for students: our top picks, and one to skip](https://appleinsider.com/articles/23/07/19/best-macbook-for-students-our-top-picks-and-one-to-skip?utm_medium=rss)<!-- TECH:END -->
+ - [DoorDash fired an employee for trying to organize a union, NLRB alleges](https://www.theverge.com/2023/7/19/23800149/nlrb-doordash-fired-employee-union-arizona)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

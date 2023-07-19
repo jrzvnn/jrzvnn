@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unstructured.io, which offers a service to extract and stage enterprise data in a way that LLMs can understand, raised $25M across a Series A and seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230719/p24#a230719p24)
- - [Nasdaq says it&#39;s halting the launch of its digital-asset custodian business in the US and a license related to it, citing a shifting regulatory environment &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230719/p23#a230719p23)
- - [Netflix just made it more expensive to go ad-free in US &amp; UK](https://appleinsider.com/articles/23/07/19/netflix-just-made-it-more-expensive-to-go-ad-free-in-us-uk?utm_medium=rss)
- - [p0x labs, which develops Manta Network, a privacy-preserving protocol running on the Polkadot blockchain, raised a $25M Series A at a $500M valuation &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230719/p22#a230719p22)
- - [WhatsApp is rolling out to Wear OS smartwatches](https://www.theverge.com/2023/7/19/23800197/whatsapp-wear-os-smartwatches)<!-- TECH:END -->
+ - [Galaxy Z Fold 5 leak surprises us with phone case that holds an S Pen](https://www.androidauthority.com/galaxy-z-fold-5-s-pen-3346482/)
+ - [‘Welcome to EV dongle town’](https://www.theverge.com/23797527/ev-charging-ccs-nacs-tesla-adapter-guide)
+ - [Google launches Nearby Share for Windows, will pre-install on some systems](https://www.androidauthority.com/nearby-share-windows-official-3346496/)
+ - [6 Best Deals From the Nordstrom Anniversary Sale &lpar;2023&rpar;: Dyson Hair Tools, Fellow Grinder](https://www.wired.com/story/nordstrom-anniversary-sale-deals-2023/)
+ - [How to find an Apple Watch using an iPhone running iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-find-an-apple-watch-using-an-iphone-running-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

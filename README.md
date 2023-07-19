@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 😝 [Describe this life.](http://9gag.com/gag/anzVYRE)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 😝 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)
+ - 😝 [The most American thing you&#39;ll see today](http://9gag.com/gag/ay2P5OY)
+ - 💣 [The `Perfect` Husband](http://9gag.com/gag/a4oV9Y1)
+ - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
+ - 👉 [Return of the King](http://9gag.com/gag/az2QgMN)<!-- MEMES:END -->
 
 ---
 </div>

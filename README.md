@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix terminates its cheapest plan without ads: What you need to know](https://www.androidauthority.com/netflix-basic-plan-ends-3346456/)
+ - [Preply, a language tutoring marketplace that offers tutors an AI teaching assistant, raised $70M led by Horizon Capital, bringing its Series C to $120M &lpar;TechCrunch&rpar;](http://www.techmeme.com/230719/p16#a230719p16)
  - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
  - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
- - [Netflix just axed its basic ad-free plan in the US and UK](https://www.theverge.com/2023/7/19/23800079/netflix-cheap-ad-free-basic-plan-removed-us-uk)
- - [Nothing CEO Carl Pei on the Phone 2, AI, and the future of gadgets](https://www.theverge.com/23798723/nothing-ceo-carl-pei-interview-phone-2-earbuds)
- - [Pikmin 4 embraces the series’ hidden horror roots](https://www.theverge.com/23799072/pikmin-4-review-nintendo-switch)<!-- TECH:END -->
+ - [Netflix just axed its basic ad-free plan in the US and UK](https://www.theverge.com/2023/7/19/23800079/netflix-cheap-ad-free-basic-plan-removed-us-uk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nasdaq says it&#39;s halting the launch of its digital-asset custodian business in the US and a license related to it, citing a shifting regulatory environment &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230719/p23#a230719p23)
  - [Netflix just made it more expensive to go ad-free in US &amp; UK](https://appleinsider.com/articles/23/07/19/netflix-just-made-it-more-expensive-to-go-ad-free-in-us-uk?utm_medium=rss)
  - [p0x labs, which develops Manta Network, a privacy-preserving protocol running on the Polkadot blockchain, raised a $25M Series A at a $500M valuation &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230719/p22#a230719p22)
  - [WhatsApp is rolling out to Wear OS smartwatches](https://www.theverge.com/2023/7/19/23800197/whatsapp-wear-os-smartwatches)
- - [Samsung debuts the industry’s first GDDR7 memory chips](https://www.theverge.com/2023/7/19/23800091/samsung-gddr7-graphics-memory-ram-dram-pam3)
- - [Review of $350 Beats Studio Pro headphones: nice transparency mode, lossless USB-C audio, native iOS and Android support, but subpar build quality for the price &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230719/p21#a230719p21)<!-- TECH:END -->
+ - [Samsung debuts the industry’s first GDDR7 memory chips](https://www.theverge.com/2023/7/19/23800091/samsung-gddr7-graphics-memory-ram-dram-pam3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

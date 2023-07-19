@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Tracfone vs Straight Talk: Both are owned by Verizon, but how do they differ?](https://www.androidauthority.com/tracfone-vs-straight-talk-3346512/)
+ - [Sources: Netflix told advertisers in the last two weeks that its ad-supported tier has around 1.5M subscribers in the US; Hulu&#39;s ad tier has ~30M US subscribers &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230719/p28#a230719p28)
  - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [US antitrust enforcers lay down plans to block Big Tech mergers](https://www.theverge.com/2023/7/19/23800545/khan-ftc-doj-justice-antitrust-guidelines-meta-amazon)
- - [Nissan is on board with Tesla’s charging revolution](https://www.theverge.com/2023/7/19/23800436/nissan-tesla-nacs-support-supercharging-adapter)
- - [I don’t know where to post about the World Cup](https://www.theverge.com/23800361/womens-world-cup-2023-posting-twitter-threads)
- - [Meta launches a WhatsApp app for Wear OS 3 smartwatches, letting users start chats, reply to messages, and take calls without having their connected phone &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p27#a230719p27)<!-- TECH:END -->
+ - [US antitrust enforcers lay down plans to block Big Tech mergers](https://www.theverge.com/2023/7/19/23800545/khan-ftc-doj-justice-antitrust-guidelines-meta-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

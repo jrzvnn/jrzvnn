@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France issues Societe Generale Forge the first license to offer crypto services under the country&#39;s new crypto rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230719/p29#a230719p29)
+ - [Goldman Sachs continues to bleed cash from Apple Card operations](https://appleinsider.com/articles/23/07/19/goldman-sachs-continues-to-bleed-cash-from-apple-card-operations?utm_medium=rss)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Tracfone vs Straight Talk: Both are owned by Verizon, but how do they differ?](https://www.androidauthority.com/tracfone-vs-straight-talk-3346512/)
- - [Sources: Netflix told advertisers in the last two weeks that its ad-supported tier has around 1.5M subscribers in the US; Hulu&#39;s ad tier has ~30M US subscribers &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230719/p28#a230719p28)
- - [Samsung Galaxy Z Fold 5: Release date, price, specs, and all we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [US antitrust enforcers lay down plans to block Big Tech mergers](https://www.theverge.com/2023/7/19/23800545/khan-ftc-doj-justice-antitrust-guidelines-meta-amazon)<!-- TECH:END -->
+ - [Sources: Netflix told advertisers in the last two weeks that its ad-supported tier has around 1.5M subscribers in the US; Hulu&#39;s ad tier has ~30M US subscribers &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230719/p28#a230719p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

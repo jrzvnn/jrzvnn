@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Details emerge on ‘Apple GPT,’ the company’s AI chatbot it’s testing internally](https://www.androidauthority.com/apple-gpt-3346580/)
+ - [How Dell dodged a class action suit over Alienware Area-51m GPU upgrades](https://www.theverge.com/2023/7/19/22313742/alienware-area-51m-lawsuit-gpu-upgrade-arbitration-settlement)
  - [Meta’s upcoming AR glasses are getting a few major downgrades](https://www.androidauthority.com/meta-ar-glasses-downgrade-3346541/)
  - [DoorDash fired an employee for trying to organize a union, NLRB alleges](https://www.theverge.com/2023/7/19/23800149/nlrb-doordash-fired-employee-union-arizona)
- - [Best MacBook for students: our top picks, and one to skip](https://appleinsider.com/articles/23/07/19/best-macbook-for-students-our-top-picks-and-one-to-skip?utm_medium=rss)
- - [Researchers say hate speech and misinfo are rising on Twitter; CEO Linda Yaccarino says that&#39;s not true and touts improvements, like more ad placement controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/230719/p30#a230719p30)
- - [Instagram embeds don’t violate copyright laws, court rules](https://www.theverge.com/2023/7/19/23800141/instagram-copyright-infringement-embedded-images)<!-- TECH:END -->
+ - [Best MacBook for students: our top picks, and one to skip](https://appleinsider.com/articles/23/07/19/best-macbook-for-students-our-top-picks-and-one-to-skip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
  - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 💣 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 👉 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
+ - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Vox Media plans to stop using Chorus, its CMS that the company licensed to external publishers from 2018 to 2022, and move its websites to WordPress &lpar;Axios&rpar;](http://www.techmeme.com/230719/p2#a230719p2)
+ - [Sony WF-1000XM5 earbuds finally have an official launch date](https://www.androidauthority.com/sony-wf-1000xm5-earbuds-launch-date-3346324/)
  - [OnePlus 12 should arrive globally like clockwork &lpar;Updated: Coming even earlier!&rpar;](https://www.androidauthority.com/oneplus-12-global-launch-3346016/)
  - [Microsoft&#39;s stock closed up 4% at $359.49 on July 18, an all-time high after announcing pricing for Microsoft 365 Copilot service; MSFT is up ~50% in 2023 &lpar;Todd Haselton/CNBC&rpar;](http://www.techmeme.com/230719/p1#a230719p1)
- - [Hands-on with Framework Laptop 16, a modular gaming laptop that lets you replace and upgrade the whole GPU, for pre-order starting at $1,399 for the DIY edition &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230718/p41#a230718p41)
- - [The UN Security Council held its first meeting on AI, as UN Secretary General Antonio Guterres endorsed creating a new IAEA-like UN agency to deal with AI risks &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/230718/p40#a230718p40)
- - [Apple reveals US tax holiday rules for six states](https://appleinsider.com/articles/23/07/19/apple-reveals-us-tax-holiday-rules-for-six-states?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Framework Laptop 16, a modular gaming laptop that lets you replace and upgrade the whole GPU, for pre-order starting at $1,399 for the DIY edition &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230718/p41#a230718p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

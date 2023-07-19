@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix removes its $10 Basic tier, its most affordable ad-free tier, in the US and UK for new and rejoining members &lpar;Or Goren/Cord Busters&rpar;](http://www.techmeme.com/230719/p15#a230719p15)
- - [Microsoft and Activision Blizzard agree to extend their merger agreement to October 18, pending the outcome of negotiations with UK regulators &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230719/p14#a230719p14)
- - [Microsoft and Activision Blizzard agree to extend merger agreement to October](https://www.theverge.com/2023/7/19/23797238/microsoft-activision-blizzard-merger-agreement-extension)
- - [Activision Blizzard lays off esports staff as it faces potential dramatic changes for the Overwatch League](https://www.theverge.com/2023/7/19/23799550/activision-blizzard-esports-layoffs-overwatch-league-owl)
- - [Supercharge your Google Nest Mini with AI by swapping out its brains](https://www.androidauthority.com/google-nest-mini-unofficial-ai-experiment-3346448/)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
+ - [Netflix just axed its basic ad-free plan in the US and UK](https://www.theverge.com/2023/7/19/23800079/netflix-cheap-ad-free-basic-plan-removed-us-uk)
+ - [Nothing CEO Carl Pei on the Phone 2, AI, and the future of gadgets](https://www.theverge.com/23798723/nothing-ceo-carl-pei-interview-phone-2-earbuds)
+ - [Pikmin 4 embraces the series’ hidden horror roots](https://www.theverge.com/23799072/pikmin-4-review-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
- - 😝 [Had to edit out the cancer, however Stalone is an absolute legend](http://9gag.com/gag/a9qBLP6)
- - 💣 [Splash!](http://9gag.com/gag/aOxGyyD)
- - 😝 [If you know you know...](http://9gag.com/gag/a3Zn33m)
- - 👉 [Uzbek Kebab](http://9gag.com/gag/az2QE1q)<!-- MEMES:END -->
+ - 😝 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 </div>

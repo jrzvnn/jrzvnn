@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-19-2023-3345801/)
+ - [Microsoft, OpenAI, Cohere, and others are testing the use of &quot;synthetic data&quot;, as they find generic data from the web is no longer good enough for training LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230719/p17#a230719p17)
  - [Netflix terminates its cheapest plan without ads: What you need to know](https://www.androidauthority.com/netflix-basic-plan-ends-3346456/)
  - [Preply, a language tutoring marketplace that offers tutors an AI teaching assistant, raised $70M led by Horizon Capital, bringing its Series C to $120M &lpar;TechCrunch&rpar;](http://www.techmeme.com/230719/p16#a230719p16)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
- - [Netflix just axed its basic ad-free plan in the US and UK](https://www.theverge.com/2023/7/19/23800079/netflix-cheap-ad-free-basic-plan-removed-us-uk)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

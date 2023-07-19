@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 💣 [Trying to grasp how dense is a black hole](http://9gag.com/gag/abvE5Np)
- - 😝 [Lowest grossing movie of all time: only six people bought tickets for a total box office of $30](http://9gag.com/gag/aqeD3BR)
- - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
+ - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 💣 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)
+ - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 👉 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 
 ---
 </div>

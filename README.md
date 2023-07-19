@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 💣 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 😝 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
+ - 😝 [Had to edit out the cancer, however Stalone is an absolute legend](http://9gag.com/gag/a9qBLP6)
+ - 💣 [Splash!](http://9gag.com/gag/aOxGyyD)
+ - 😝 [If you know you know...](http://9gag.com/gag/a3Zn33m)
+ - 👉 [Uzbek Kebab](http://9gag.com/gag/az2QE1q)<!-- MEMES:END -->
 
 ---
 </div>

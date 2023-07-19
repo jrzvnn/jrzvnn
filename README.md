@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 😝 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
- - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 👉 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)<!-- MEMES:END -->
+ - 😝 [The `Perfect` Husband](http://9gag.com/gag/a4oV9Y1)
+ - 😝 [Stares in disbelief](http://9gag.com/gag/aoKDmng)
+ - 💣 [I bet this won&#39;t implode](http://9gag.com/gag/adPbN4D)
+ - 😝 [Today I found out : if you show weakness and vulnerability to women,they leave you.](http://9gag.com/gag/aWG9BX2)
+ - 👉 [Watch and learn, my fellow Western European countries.](http://9gag.com/gag/aXne0X9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: $300 off Apple Studio Display, $400 off 16-inch MacBook Pro 2023, $80 off iPad 9th Gen, 35% off Microsoft Surface Book, more](https://appleinsider.com/articles/23/07/19/deals-300-off-apple-studio-display-400-off-16-inch-macbook-pro-2023-80-off-ipad-9th-gen-35-off-microsoft-surface-book-more?utm_medium=rss)
  - [Meta’s AR glasses reportedly won’t feature the high-end displays it planned](https://www.theverge.com/2023/7/19/23800228/meta-ar-glasses-artemis-lcos-displays-waveguide)
  - [Apple has been working on its own ChatGPT AI tool for some time](https://appleinsider.com/articles/23/07/19/apple-has-been-working-on-its-own-chatgpt-ai-tool-for-some-time?utm_medium=rss)
  - [Michael Moritz leaves Sequoia Capital to focus on the firm&#39;s wealth management business; source: Mike Vernal is also leaving; Daniel Chen left in recent months &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230719/p26#a230719p26)
- - [Reddit is bringing back r/Place at perhaps the worst possible time](https://www.theverge.com/2023/7/19/23800309/reddit-r-place-2023-protest)
- - [Apple is testing an AI chatbot but has no idea what to do with it](https://www.theverge.com/2023/7/19/23800430/apple-gpt-ai-chatbot-generative-ai)<!-- TECH:END -->
+ - [Reddit is bringing back r/Place at perhaps the worst possible time](https://www.theverge.com/2023/7/19/23800309/reddit-r-place-2023-protest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

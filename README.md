@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come on Nike:](http://9gag.com/gag/aL1Wq0v)
- - 😝 [Imagine losing your hand to get dome Soros money](http://9gag.com/gag/aYVRzjN)
- - 💣 [Protest anti lgbt in Ontario lol](http://9gag.com/gag/aYVR8eV)
- - 😝 [Hey guys, quick math](http://9gag.com/gag/aQEywxe)
- - 👉 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)<!-- MEMES:END -->
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 😝 [Well... Yes...](http://9gag.com/gag/axomX92)
+ - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 👉 [Surprising.](http://9gag.com/gag/aL1WYNP)<!-- MEMES:END -->
 
 ---
 </div>

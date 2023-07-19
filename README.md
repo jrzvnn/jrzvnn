@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)
- - 😝 [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
- - 💣 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
- - 😝 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
- - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
+ - 😝 [Buzz Aldrin reacts to being called a coward and a liar about walking on the moon](http://9gag.com/gag/aWG9Qeq)
+ - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 😝 [Ask France, Italy, Sweden, Germany Etc Etc. And they barely have 15%](http://9gag.com/gag/a4oweoQ)
+ - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
 </div>

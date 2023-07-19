@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14’s work profile change is bad for your battery and work-life balance](https://www.androidauthority.com/android-14-work-profile-change-3346414/)
  - [Apple&#39;s &#39;Underdogs&#39; chase a stolen Mac in a new ad](https://appleinsider.com/articles/23/07/19/apples-underdogs-chase-a-stolen-mac-in-a-new-ad?utm_medium=rss)
  - [TikTok Music rolls out to more countries](https://www.theverge.com/2023/7/19/23800014/tiktok-music-beta-australia-mexico-singapore-streaming-service)
  - [A Vast Untapped Green Energy Source Is Hiding Beneath Your Feet](https://www.wired.com/story/a-vast-untapped-green-energy-source-is-hiding-beneath-your-feet/)
- - [To Save Itself, Hollywood Must Build Its Own ChatGPT](https://www.wired.com/story/hollywood-wga-strike-artificial-intelligence/)
- - [The Indie Title That Could Make or Break Netflix Games](https://www.wired.com/story/oxenfree-2-netflix-night-school-studio-interview/)<!-- TECH:END -->
+ - [To Save Itself, Hollywood Must Build Its Own ChatGPT](https://www.wired.com/story/hollywood-wga-strike-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Employee of the month](http://9gag.com/gag/aREDwb7)
- - 😝 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
- - 💣 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)
- - 😝 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
- - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
+ - 😝 [Massive rocks hitting cars](http://9gag.com/gag/aGEb9DX)
+ - 😝 [This is f**ked up](http://9gag.com/gag/amAR33v)
+ - 💣 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
+ - 😝 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
+ - 👉 [Peter...](http://9gag.com/gag/a8qzd8Z)<!-- MEMES:END -->
 
 ---
 </div>

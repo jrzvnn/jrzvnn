@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 😝 [Well... Yes...](http://9gag.com/gag/axomX92)
- - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
- - 👉 [Surprising.](http://9gag.com/gag/aL1WYNP)<!-- MEMES:END -->
+ - 😝 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)
+ - 😝 [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
+ - 💣 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
+ - 😝 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
+ - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA provisionally clears Broadcom&#39;s $61B acquisition of VMware, after finding that the deal would not harm competition; the deal still needs US approval &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230719/p11#a230719p11)
  - [Why You Should Read a 900-Page Novel About the Climate Crisis](https://www.wired.com/story/have-a-nice-future-podcast-14/)
- - [Ticks and the Diseases They Carry Are Spreading. Can This Drug Stamp Them Out?](https://www.wired.com/story/ticks-and-the-diseases-they-carry-are-spreading-can-this-drug-stamp-them-out/)
  - [11 Best Barbie Collabs &lpar;2023&rpar;: Polaroids, Pool Floats, Hair Tools](https://www.wired.com/gallery/best-barbie-collabs/)
- - [Threads Is the New Cool Hangout—for Brands](https://www.wired.com/story/threads-app-meta-brands/)
- - [The Ukraine War Shows the US Military-Industrial Complex Isn’t Battle Ready](https://www.wired.com/story/ukraine-future-of-war-mom-and-pop-military-industrial-complex/)<!-- TECH:END -->
+ - [Ticks and the Diseases They Carry Are Spreading. Can This Drug Stamp Them Out?](https://www.wired.com/story/ticks-and-the-diseases-they-carry-are-spreading-can-this-drug-stamp-them-out/)
+ - [Threads Is the New Cool Hangout—for Brands](https://www.wired.com/story/threads-app-meta-brands/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

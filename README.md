@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Splash!](http://9gag.com/gag/aOxGyyD)
- - 😝 [What is she thinking about?](http://9gag.com/gag/aGEbY5K)
- - 💣 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
- - 😝 [I bet this won&#39;t implode](http://9gag.com/gag/adPbN4D)
- - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
+ - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
+ - 💣 [Trying to grasp how dense is a black hole](http://9gag.com/gag/abvE5Np)
+ - 😝 [Lowest grossing movie of all time: only six people bought tickets for a total box office of $30](http://9gag.com/gag/aqeD3BR)
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 </div>

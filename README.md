@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 😝 [Surprising.](http://9gag.com/gag/aL1WYNP)
+ - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
  - 👉 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)<!-- MEMES:END -->
 
 ---

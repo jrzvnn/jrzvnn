@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix increases its free cash flow estimate for 2023 from $3.5B to $5B, citing &quot;lower cash content spend&quot; due to the strikes and &quot;timing of production starts&quot; &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/230719/p38#a230719p38)
+ - [The best phone deals of July 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Microsoft and Activision Set New Deadline for $69B Deal: What It Means for Gamers     - CNET](https://www.cnet.com/tech/gaming/microsoft-and-activision-set-new-deadline-for-69b-deal-what-it-means-for-gamers/#ftag=CAD590a51e)
- - [Tesla starts production of Dojo supercomputer to train driverless cars](https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production)
- - [IBM reports Q2 revenue flat YoY at $15.48B, vs. $15.58B est., net income up 14% YoY to $1.6B, software up 7% YoY to $6.6B, and consulting up 4% YoY to $5B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230719/p37#a230719p37)
- - [Beats Studio Pro arrives with Spatial Audio, massive battery life](https://appleinsider.com/articles/23/07/19/beats-studio-pro-arrives-with-spatial-audio-massive-battery-life?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla starts production of Dojo supercomputer to train driverless cars](https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

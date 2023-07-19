@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM reports Q2 revenue flat YoY at $15.48B vs. $15.58B est., net income up 13% YoY to $1.6B, and software revenue up 7% YoY to $6.6B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230719/p37#a230719p37)
  - [Beats Studio Pro arrives with Spatial Audio, massive battery life](https://appleinsider.com/articles/23/07/19/beats-studio-pro-arrives-with-spatial-audio-massive-battery-life?utm_medium=rss)
  - [Netflix reports Q2 revenue up 2.7% YoY to $8.2B, vs. $8.3B est., $1.5B net income, up from $1.4B YoY, and 5.9M net new subscribers, vs. 1.9M est. &lpar;Lisa Richwine/Reuters&rpar;](http://www.techmeme.com/230719/p36#a230719p36)
  - [Apple guts internal communication tool, crippling union organization](https://appleinsider.com/articles/23/07/19/apple-guts-internal-communication-tool-crippling-union-organization?utm_medium=rss)
- - [Tesla’s revenue soars amid rampant price cutting](https://www.theverge.com/2023/7/19/23800524/tesla-q2-2023-earnings-elon-musk-profit-revenue)
- - [Netflix says password-sharing crackdowns caused more signups than cancellations](https://www.theverge.com/2023/7/19/23798933/netflix-earnings-july-2023-streaming-password-sharing)<!-- TECH:END -->
+ - [Tesla’s revenue soars amid rampant price cutting](https://www.theverge.com/2023/7/19/23800524/tesla-q2-2023-earnings-elon-musk-profit-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

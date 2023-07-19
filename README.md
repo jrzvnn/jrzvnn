@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla in discussion to license Full Self-Driving software to another automaker](https://www.theverge.com/2023/7/19/23800972/tesla-fsd-license-car-company-driver-assist)
  - [They made a movie of that nightmarish ‘Dear David’ Twitter thread, and yes, there’s a trailer](https://www.theverge.com/23800921/dear-david-twitter-thread-movie-trailer-release-date)
  - [Best TV for 2023: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
  - [Netflix increases its free cash flow estimate for 2023 from $3.5B to $5B, citing &quot;lower cash content spend&quot; due to the strikes and &quot;timing of production starts&quot; &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/230719/p38#a230719p38)
- - [The best phone deals of July 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Ketchup or Mustard: Which Is the True Summer Condiment King?     - CNET](https://www.cnet.com/news/ketchup-vs-mustard-the-ultimate-summer-condiment-showdown/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best phone deals of July 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

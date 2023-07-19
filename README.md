@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 😝 [That escalated quickly.](http://9gag.com/gag/aqeAZ0p)
- - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 👉 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)<!-- MEMES:END -->
+ - 😝 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 💣 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 
 ---
 </div>

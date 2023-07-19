@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
  - 😝 [That escalated quickly.](http://9gag.com/gag/aqeAZ0p)
- - 💣 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)<!-- MEMES:END -->
 
 ---
 </div>

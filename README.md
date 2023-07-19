@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung debuts the industry’s first GDDR7 memory chips](https://www.theverge.com/2023/7/19/23800091/samsung-gddr7-graphics-memory-ram-dram-pam3)
  - [Review of $350 Beats Studio Pro headphones: nice transparency mode, lossless USB-C audio, native iOS and Android support, but subpar build quality for the price &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230719/p21#a230719p21)
  - [Apple TV+ getting new &#39;Born to be Wild&#39; &amp; &#39;Endangered Planet&#39; nature docuseries](https://appleinsider.com/articles/23/07/19/apple-tv-getting-new-born-to-be-wild-endangered-planet-nature-docuseries?utm_medium=rss)
  - [Microsoft will make 31 security logs available for free to its lower-cost cloud service licensees from September, after criticism about China hack disclosures &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230719/p20#a230719p20)
- - [Beats Studio Pro arrives with Spatial Audio, massive battery life](https://appleinsider.com/articles/23/07/19/beats-studio-pro-arrives-with-spatial-audio-massive-battery-life?utm_medium=rss)
- - [How Tesla almost went out of business — and then broke the auto industry](https://www.theverge.com/23799325/tesla-elon-musk-land-of-the-giants-podcast-trailer)<!-- TECH:END -->
+ - [Beats Studio Pro arrives with Spatial Audio, massive battery life](https://appleinsider.com/articles/23/07/19/beats-studio-pro-arrives-with-spatial-audio-massive-battery-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

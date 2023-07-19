@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most American thing you&#39;ll see today](http://9gag.com/gag/ay2P5OY)
- - 😝 [The `Perfect` Husband](http://9gag.com/gag/a4oV9Y1)
- - 💣 [Though life](http://9gag.com/gag/aeQW3vQ)
- - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 👉 [Return of the King](http://9gag.com/gag/az2QgMN)<!-- MEMES:END -->
+ - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 💣 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 👉 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
 
 ---
 </div>

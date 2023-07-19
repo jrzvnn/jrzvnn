@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML Q2: revenue up 28% YoY to &amp;euro;6.9B, vs. &amp;euro;6.74B est., net profit up 35% YoY to &amp;euro;1.9B, vs. &amp;euro;1.82B est., and raises 2023 growth forecasts from 25% to 30% &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/230719/p7#a230719p7)
  - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
  - [WhatsApp finally lets you open chats with an unknown number without any tricks](https://www.androidauthority.com/whatsapp-open-chats-with-unknown-numbers-3346379/)
  - [Apps crashing on your Pixel? Here’s what you can try to fix the issue](https://www.androidauthority.com/google-pixel-app-crashing-bug-3345291/)
- - [A look at the Wikipedia community&#39;s debates about AI, including AI&#39;s threats and potential benefits, knowledge creation, truthfulness, and legal concerns &lpar;Jon Gertner/New York Times&rpar;](http://www.techmeme.com/230719/p6#a230719p6)
- - [Telegram raised $210M through bond sales, more than two years after raising $1B+ in debt financing; CEO Pavel Durov &quot;personally bought&quot; ~25% of new bonds &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p5#a230719p5)<!-- TECH:END -->
+ - [A look at the Wikipedia community&#39;s debates about AI, including AI&#39;s threats and potential benefits, knowledge creation, truthfulness, and legal concerns &lpar;Jon Gertner/New York Times&rpar;](http://www.techmeme.com/230719/p6#a230719p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

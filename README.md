@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram raised $210M through bond sales, more than two years after raising $1B+ in debt financing; CEO Pavel Durov &quot;personally bought&quot; ~25% of new bonds &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230719/p5#a230719p5)
  - [Sources: former FTX COO Zhe &quot;Constance&quot; Wang has joined crypto VC firm Sino Global Capital; Wang has not been accused of wrongdoing in FTX or Alameda&#39;s collapse &lpar;Bloomberg&rpar;](http://www.techmeme.com/230719/p4#a230719p4)
  - [Samsung says it has completed the development of its first generation GDDR7 DRAM, slated for 2024, with a 32Gbps data transfer rate, up ~33% from GDDR6&#39;s 24Gbps &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230719/p3#a230719p3)
  - [Sources: Vox Media plans to stop using Chorus, its CMS that the company licensed to external publishers from 2018 to 2022, and move its websites to WordPress &lpar;Axios&rpar;](http://www.techmeme.com/230719/p2#a230719p2)
- - [Sony WF-1000XM5 earbuds finally have an official launch date](https://www.androidauthority.com/sony-wf-1000xm5-earbuds-launch-date-3346324/)
- - [OnePlus 12 should arrive globally like clockwork &lpar;Updated: Coming even earlier!&rpar;](https://www.androidauthority.com/oneplus-12-global-launch-3346016/)<!-- TECH:END -->
+ - [Sony WF-1000XM5 earbuds finally have an official launch date](https://www.androidauthority.com/sony-wf-1000xm5-earbuds-launch-date-3346324/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seoul-based fashion marketplace Musinsa raised a $190M Series C led by KKR, with participation from Wellington Management, source says at a ~$2.76B valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230719/p10#a230719p10)
- - [A look at &quot;non-playable character&quot; TikTok creators, like Pinkydoll, who livestream themselves doing robotic and repetitive actions for digital tips &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/230719/p9#a230719p9)
- - [Germany-based Neura Robotics, which builds collaborative robots with cognitive capabilities that can work with humans in complex environments, raised $55M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230719/p8#a230719p8)
- - [Intel mini NUC computers get a second life thanks to Asus](https://www.theverge.com/2023/7/19/23800006/intel-nuc-computers-asus-license-support)
- - [ASML Q2: revenue up 28% YoY to &amp;euro;6.9B, vs. &amp;euro;6.74B est., net profit up 35% YoY to &amp;euro;1.9B, vs. &amp;euro;1.82B est., and raises 2023 growth forecasts from 25% to 30% &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/230719/p7#a230719p7)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Underdogs&#39; chase a stolen Mac in a new ad](https://appleinsider.com/articles/23/07/19/apples-underdogs-chase-a-stolen-mac-in-a-new-ad?utm_medium=rss)
+ - [TikTok Music rolls out to more countries](https://www.theverge.com/2023/7/19/23800014/tiktok-music-beta-australia-mexico-singapore-streaming-service)
+ - [A Vast Untapped Green Energy Source Is Hiding Beneath Your Feet](https://www.wired.com/story/a-vast-untapped-green-energy-source-is-hiding-beneath-your-feet/)
+ - [To Save Itself, Hollywood Must Build Its Own ChatGPT](https://www.wired.com/story/hollywood-wga-strike-artificial-intelligence/)
+ - [The Indie Title That Could Make or Break Netflix Games](https://www.wired.com/story/oxenfree-2-netflix-night-school-studio-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

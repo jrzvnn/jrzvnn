@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s AR glasses are three years behind Apple Vision Pro](https://appleinsider.com/articles/23/07/19/metas-ar-glasses-are-three-years-behind-apple-vision-pro?utm_medium=rss)
  - [Beats Studio Pro arrives with Spatial Audio, massive battery life](https://appleinsider.com/articles/23/07/19/beats-studio-pro-arrives-with-spatial-audio-massive-battery-life?utm_medium=rss)
+ - [How Tesla almost went out of business — and then broke the auto industry](https://www.theverge.com/23799325/tesla-elon-musk-land-of-the-giants-podcast-trailer)
+ - [Meta&#39;s AR glasses are three years behind Apple Vision Pro](https://appleinsider.com/articles/23/07/19/metas-ar-glasses-are-three-years-behind-apple-vision-pro?utm_medium=rss)
  - [Beats’ new Studio Pros are its first flagship headphones since 2017](https://www.theverge.com/2023/7/19/23800136/beats-studio-pro-headphones-features-price)
- - [Beats Studio Pro headphones review: leaning on a legacy](https://www.theverge.com/23799799/beats-studio-pro-review-apple-google-features)
- - [Intel grants Asus a non-exclusive license to its NUC designs; Asus will make and sell 10th to 13th gen NUC systems and can develop new system designs &lpar;Matthew Humphries/PCMag&rpar;](http://www.techmeme.com/230719/p19#a230719p19)<!-- TECH:END -->
+ - [Beats Studio Pro headphones review: leaning on a legacy](https://www.theverge.com/23799799/beats-studio-pro-review-apple-google-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
  - 😝 [Employee of the month](http://9gag.com/gag/aREDwb7)
- - 💣 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
- - 😝 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)
+ - 😝 [Free coffe from Asian, lol.](http://9gag.com/gag/avQm0p5)
+ - 💣 [What ain&#39;t a country I ever heard of](http://9gag.com/gag/aA0ZRdp)
+ - 😝 [3 movies. 0 bad words. 0 sex. 27 oscars awards. No other movies has ever defeated this record yet.](http://9gag.com/gag/a3ZNoX8)
  - 👉 [Stares in disbelief](http://9gag.com/gag/aoKDmng)<!-- MEMES:END -->
 
 ---

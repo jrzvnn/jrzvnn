@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Describe this life.](http://9gag.com/gag/anzVYRE)
- - 😝 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
- - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
  - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 💣 [Describe this life.](http://9gag.com/gag/anzVYRE)
+ - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say hate speech and misinfo are rising on Twitter; CEO Linda Yaccarino says that&#39;s not true and touts improvements, like more ad placement controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/230719/p30#a230719p30)
+ - [Instagram embeds don’t violate copyright laws, court rules](https://www.theverge.com/2023/7/19/23800141/instagram-copyright-infringement-embedded-images)
  - [Intel&#39;s NUC line of small computers will live on with another vendor](https://appleinsider.com/articles/23/07/19/intels-nuc-line-of-small-computers-will-live-on-with-another-vendor?utm_medium=rss)
  - [The official Windows launch of Nearby Share adds some new features](https://www.theverge.com/2023/7/19/23800554/google-windows-launch-nearby-share-launch-new-features-airdrop)
- - [France issues Societe Generale Forge the first license to offer crypto services under the country&#39;s new crypto rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230719/p29#a230719p29)
- - [Goldman Sachs continues to bleed cash from Apple Card operations](https://appleinsider.com/articles/23/07/19/goldman-sachs-continues-to-bleed-cash-from-apple-card-operations?utm_medium=rss)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [France issues Societe Generale Forge the first license to offer crypto services under the country&#39;s new crypto rules &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230719/p29#a230719p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

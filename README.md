@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at &quot;non-playable character&quot; TikTok creators, like Pinkydoll, who livestream themselves doing robotic and repetitive actions for digital tips &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/230719/p9#a230719p9)
  - [Germany-based Neura Robotics, which builds collaborative robots with cognitive capabilities that can work with humans in complex environments, raised $55M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230719/p8#a230719p8)
  - [Intel mini NUC computers get a second life thanks to Asus](https://www.theverge.com/2023/7/19/23800006/intel-nuc-computers-asus-license-support)
  - [ASML Q2: revenue up 28% YoY to &amp;euro;6.9B, vs. &amp;euro;6.74B est., net profit up 35% YoY to &amp;euro;1.9B, vs. &amp;euro;1.82B est., and raises 2023 growth forecasts from 25% to 30% &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/230719/p7#a230719p7)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [WhatsApp finally lets you open chats with an unknown number without any tricks](https://www.androidauthority.com/whatsapp-open-chats-with-unknown-numbers-3346379/)<!-- TECH:END -->
+ - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

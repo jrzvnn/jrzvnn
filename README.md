@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Massive rocks hitting cars](http://9gag.com/gag/aGEb9DX)
- - 😝 [This is f**ked up](http://9gag.com/gag/amAR33v)
- - 💣 [Bro just got to earth](http://9gag.com/gag/aeQWKB5)
  - 😝 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
- - 👉 [Peter...](http://9gag.com/gag/a8qzd8Z)<!-- MEMES:END -->
+ - 😝 [Protest anti lgbt in Ontario lol](http://9gag.com/gag/aYVR8eV)
+ - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 😝 [If I have to cry, so do you](http://9gag.com/gag/aMEqRN1)
+ - 👉 [Right in the kisser](http://9gag.com/gag/awZvNbW)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 😝 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
  - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 💣 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 👉 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Karat Financial, which offers financial services like banking and credit cards to creators, raised a $70M Series B, split as $40M in equity and $30M in debt &lpar;Emmy Lucas/Forbes&rpar;](http://www.techmeme.com/230719/p35#a230719p35)
  - [Google launches Nearby Share for Windows, letting users transfer files between PCs and Android devices close to each other, after a beta started in March 2023 &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/230719/p34#a230719p34)
  - [Reddit is now inviting mods to participate in weekly ‘feedback sessions’](https://www.theverge.com/2023/7/19/23800607/reddit-invites-mods-admins-conversation-protests)
  - [Amazon says it’ll ditch plastic padded mailers](https://www.theverge.com/2023/7/19/23800435/amazon-plastic-padded-envelope-packaging-waste)
- - [Miami-based Cosmic Wire, which offers tools for blockchain infrastructure and metaverse creation, raised a $30M seed led by the Solana Foundation and Polygon &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p33#a230719p33)
- - [Sources: Threads has largely replicated Instagram&#39;s algorithm, prioritizing posts by creators and friends over hard news, and is relying on Instagram moderators &lpar;Financial Times&rpar;](http://www.techmeme.com/230719/p32#a230719p32)<!-- TECH:END -->
+ - [Miami-based Cosmic Wire, which offers tools for blockchain infrastructure and metaverse creation, raised a $30M seed led by the Solana Foundation and Polygon &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p33#a230719p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

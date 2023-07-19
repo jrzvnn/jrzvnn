@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peter...](http://9gag.com/gag/a8qzd8Z)
- - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 😝 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
  - 💣 [Time to find a new job!](http://9gag.com/gag/aBd4q6Z)
- - 😝 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)
- - 👉 [Lowest grossing movie of all time: only six people bought tickets for a total box office of $30](http://9gag.com/gag/aqeD3BR)<!-- MEMES:END -->
+ - 😝 [Surprising.](http://9gag.com/gag/aL1WYNP)
+ - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
 </div>

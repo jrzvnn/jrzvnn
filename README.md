@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s HomePod mini dips to $74.99 &lpar;$25 off&rpar;](https://appleinsider.com/articles/23/07/18/apples-homepod-mini-dips-to-7499-25-off?utm_medium=rss)
- - [Why would anyone make a website in 2023? Squarespace CEO Anthony Casalena has some ideas](https://www.theverge.com/23795154/squarespace-ai-seo-web-social-algorithms-anthony-casalena)
- - [A stress test by EU officials finds that TikTok isn&#39;t fully compliant with the EU&#39;s Digital Services Act ahead of the August 25, 2023 compliance deadline &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230718/p37#a230718p37)
- - [Logitech acquires Helsinki-based Loupedeck, which makes editing consoles and software for streamers and creative professionals, for an undisclosed sum &lpar;The Verge&rpar;](http://www.techmeme.com/230718/p36#a230718p36)
- - [Samsung exec makes it obvious what’s coming to Galaxy Unpacked 2023](https://www.androidauthority.com/tm-roh-galaxy-unpacked-2023-3346223/)<!-- TECH:END -->
+ - [Apple reveals US tax holiday rules for six states](https://appleinsider.com/articles/23/07/19/apple-reveals-us-tax-holiday-rules-for-six-states?utm_medium=rss)
+ - [Roblox announces tools that will let developers offer subscriptions and to sell real-world goods within their experiences, but doesn&#39;t offer a release timeline &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230718/p39#a230718p39)
+ - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
+ - [Sources: Google is internally piloting an opt-in program where some employees will be restricted to internet-free PCs to reduce the risk of cyberattacks &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230718/p38#a230718p38)
+ - [Microsoft 365 Copilot AI Tool Will Cost $30 Per Month     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-365-copilot-ai-tool-will-cost-30-per-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

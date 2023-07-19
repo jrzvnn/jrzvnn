@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [They made a movie of that nightmarish ‘Dear David’ Twitter thread, and yes, there’s a trailer](https://www.theverge.com/23800921/dear-david-twitter-thread-movie-trailer-release-date)
+ - [Best TV for 2023: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
  - [Netflix increases its free cash flow estimate for 2023 from $3.5B to $5B, citing &quot;lower cash content spend&quot; due to the strikes and &quot;timing of production starts&quot; &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/230719/p38#a230719p38)
  - [The best phone deals of July 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Microsoft and Activision Set New Deadline for $69B Deal: What It Means for Gamers     - CNET](https://www.cnet.com/tech/gaming/microsoft-and-activision-set-new-deadline-for-69b-deal-what-it-means-for-gamers/#ftag=CAD590a51e)
- - [Tesla starts production of Dojo supercomputer to train driverless cars](https://www.theverge.com/2023/7/19/23800854/tesla-driverless-dojo-supercomputers-production)<!-- TECH:END -->
+ - [Ketchup or Mustard: Which Is the True Summer Condiment King?     - CNET](https://www.cnet.com/news/ketchup-vs-mustard-the-ultimate-summer-condiment-showdown/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

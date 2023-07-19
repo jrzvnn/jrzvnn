@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Readers pick the best tech books of all time](https://www.theverge.com/23799444/readers-best-tech-nonfiction-books-of-all-time)
- - [The self-transforming Optimus Prime now has a $1700 dinobot friend](https://www.theverge.com/22413007/robosen-transformers-grimlock-robot-toy-price-release-date-announcement)
- - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
- - [The FTC and the DOJ release draft changes to US merger review guidelines, introducing potentially comprehensive changes for the first time in more than a decade &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230719/p12#a230719p12)
- - [Foxconn buys Apple gear for its Indian operations](https://appleinsider.com/articles/23/07/19/foxconn-buys-apple-gear-for-its-indian-operations?utm_medium=rss)<!-- TECH:END -->
+ - [Supercharge your Google Nest Mini with AI by swapping out its brains](https://www.androidauthority.com/google-nest-mini-unofficial-ai-experiment-3346448/)
+ - [How to use improved dictation features in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-improved-dictation-features-in-macos-sonoma?utm_medium=rss)
+ - [Unity launches PolySpatial, announced in conjunction with Vision Pro at WWDC to help developers port and create a 3D experience for Apple&#39;s visionOS, in beta &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230719/p13#a230719p13)
+ - [Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/)
+ - [AeroPress XL Coffee Maker Review: Double the Size, Double the Brew](https://www.wired.com/review/aeropress-xl/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

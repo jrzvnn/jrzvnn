@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
  - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 😝 [Lowest grossing movie of all time: only six people bought tickets for a total box office of $30](http://9gag.com/gag/aqeD3BR)
- - 💣 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 💣 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)
+ - 😝 [Describe this life.](http://9gag.com/gag/anzVYRE)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 </div>

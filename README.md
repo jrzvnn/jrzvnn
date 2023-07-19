@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is testing an AI chatbot but has no idea what to do with it](https://www.theverge.com/2023/7/19/23800430/apple-gpt-ai-chatbot-generative-ai)
+ - [Sources: Apple built a framework called Ajax to build LLMs, created a chatbot app that some engineers call &quot;Apple GPT&quot;, and aims for a consumer product in 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230719/p25#a230719p25)
+ - [Apple’s cheapest iPad has returned to its all-time low price at Amazon](https://www.theverge.com/2023/7/19/23799515/apple-ipad-google-pixel-watch-eufy-smarttrack-card-location-tracker-deal-sale)
  - [Galaxy Z Fold 5 leak surprises us with phone case that holds an S Pen](https://www.androidauthority.com/galaxy-z-fold-5-s-pen-3346482/)
- - [‘Welcome to EV dongle town’](https://www.theverge.com/23797527/ev-charging-ccs-nacs-tesla-adapter-guide)
- - [Google launches Nearby Share for Windows, will pre-install on some systems](https://www.androidauthority.com/nearby-share-windows-official-3346496/)
- - [6 Best Deals From the Nordstrom Anniversary Sale &lpar;2023&rpar;: Dyson Hair Tools, Fellow Grinder](https://www.wired.com/story/nordstrom-anniversary-sale-deals-2023/)
- - [How to find an Apple Watch using an iPhone running iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-find-an-apple-watch-using-an-iphone-running-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [‘Welcome to EV dongle town’](https://www.theverge.com/23797527/ev-charging-ccs-nacs-tesla-adapter-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

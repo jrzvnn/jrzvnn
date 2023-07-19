@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Karat Financial, which offers financial services like banking and credit cards to creators, raised a $70M Series B, split as $40M in equity and $30M in debt &lpar;Emmy Lucas/Forbes&rpar;](http://www.techmeme.com/230719/p35#a230719p35)
- - [Google launches Nearby Share for Windows, letting users transfer files between PCs and Android devices close to each other, after a beta started in March 2023 &lpar;C. Scott Brown/Android Authority&rpar;](http://www.techmeme.com/230719/p34#a230719p34)
- - [Reddit is now inviting mods to participate in weekly ‘feedback sessions’](https://www.theverge.com/2023/7/19/23800607/reddit-invites-mods-admins-conversation-protests)
- - [Amazon says it’ll ditch plastic padded mailers](https://www.theverge.com/2023/7/19/23800435/amazon-plastic-padded-envelope-packaging-waste)
- - [Miami-based Cosmic Wire, which offers tools for blockchain infrastructure and metaverse creation, raised a $30M seed led by the Solana Foundation and Polygon &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p33#a230719p33)<!-- TECH:END -->
+ - [Beats Studio Pro arrives with Spatial Audio, massive battery life](https://appleinsider.com/articles/23/07/19/beats-studio-pro-arrives-with-spatial-audio-massive-battery-life?utm_medium=rss)
+ - [Netflix reports Q2 revenue up 2.7% YoY to $8.2B, vs. $8.3B est., $1.5B net income, up from $1.4B YoY, and 5.9M net new subscribers, vs. 1.9M est. &lpar;Lisa Richwine/Reuters&rpar;](http://www.techmeme.com/230719/p36#a230719p36)
+ - [Apple guts internal communication tool, crippling union organization](https://appleinsider.com/articles/23/07/19/apple-guts-internal-communication-tool-crippling-union-organization?utm_medium=rss)
+ - [Tesla’s revenue soars amid rampant price cutting](https://www.theverge.com/2023/7/19/23800524/tesla-q2-2023-earnings-elon-musk-profit-revenue)
+ - [Netflix says password-sharing crackdowns caused more signups than cancellations](https://www.theverge.com/2023/7/19/23798933/netflix-earnings-july-2023-streaming-password-sharing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

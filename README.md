@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Framework Laptop 16, a modular gaming laptop that lets you replace and upgrade the whole GPU, for pre-order starting at $1,399 for the DIY edition &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230718/p41#a230718p41)
+ - [The UN Security Council held its first meeting on AI, as UN Secretary General Antonio Guterres endorsed creating a new IAEA-like UN agency to deal with AI risks &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/230718/p40#a230718p40)
  - [Apple reveals US tax holiday rules for six states](https://appleinsider.com/articles/23/07/19/apple-reveals-us-tax-holiday-rules-for-six-states?utm_medium=rss)
  - [Roblox announces tools that will let developers offer subscriptions and to sell real-world goods within their experiences, but doesn&#39;t offer a release timeline &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230718/p39#a230718p39)
- - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)
- - [Sources: Google is internally piloting an opt-in program where some employees will be restricted to internet-free PCs to reduce the risk of cyberattacks &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230718/p38#a230718p38)
- - [Microsoft 365 Copilot AI Tool Will Cost $30 Per Month     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-365-copilot-ai-tool-will-cost-30-per-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech acquires streamer tool maker Loupedeck](https://appleinsider.com/articles/23/07/18/logitech-acquires-custom-console-maker-loupedeck?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

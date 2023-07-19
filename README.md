@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supercharge your Google Nest Mini with AI by swapping out its brains](https://www.androidauthority.com/google-nest-mini-unofficial-ai-experiment-3346448/)
- - [How to use improved dictation features in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-improved-dictation-features-in-macos-sonoma?utm_medium=rss)
- - [Unity launches PolySpatial, announced in conjunction with Vision Pro at WWDC to help developers port and create a 3D experience for Apple&#39;s visionOS, in beta &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230719/p13#a230719p13)
- - [Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/)
- - [AeroPress XL Coffee Maker Review: Double the Size, Double the Brew](https://www.wired.com/review/aeropress-xl/)<!-- TECH:END -->
+ - [Netflix removes its $10 Basic tier, its most affordable ad-free tier, in the US and UK for new and rejoining members &lpar;Or Goren/Cord Busters&rpar;](http://www.techmeme.com/230719/p15#a230719p15)
+ - [Microsoft and Activision Blizzard agree to extend their merger agreement to October 18, pending the outcome of negotiations with UK regulators &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230719/p14#a230719p14)
+ - [Microsoft and Activision Blizzard agree to extend merger agreement to October](https://www.theverge.com/2023/7/19/23797238/microsoft-activision-blizzard-merger-agreement-extension)
+ - [Activision Blizzard lays off esports staff as it faces potential dramatic changes for the Overwatch League](https://www.theverge.com/2023/7/19/23799550/activision-blizzard-esports-layoffs-overwatch-league-owl)
+ - [Supercharge your Google Nest Mini with AI by swapping out its brains](https://www.androidauthority.com/google-nest-mini-unofficial-ai-experiment-3346448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

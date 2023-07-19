@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel grants Asus a non-exclusive license to its NUC designs; Asus will make and sell 10th to 13th gen NUC systems and can develop new system designs &lpar;Matthew Humphries/PCMag&rpar;](http://www.techmeme.com/230719/p19#a230719p19)
  - [RISC Zero, which is developing the Bonsai computing platform to let developers build zero-proof software, raised a $40M Series A led by Blockchain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230719/p18#a230719p18)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-19-2023-3345801/)
  - [Microsoft, OpenAI, Cohere, and others are testing the use of &quot;synthetic data&quot;, as they find generic data from the web is no longer good enough for training LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230719/p17#a230719p17)
- - [Netflix terminates its cheapest plan without ads: What you need to know](https://www.androidauthority.com/netflix-basic-plan-ends-3346456/)
- - [Preply, a language tutoring marketplace that offers tutors an AI teaching assistant, raised $70M led by Horizon Capital, bringing its Series C to $120M &lpar;TechCrunch&rpar;](http://www.techmeme.com/230719/p16#a230719p16)<!-- TECH:END -->
+ - [Netflix terminates its cheapest plan without ads: What you need to know](https://www.androidauthority.com/netflix-basic-plan-ends-3346456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

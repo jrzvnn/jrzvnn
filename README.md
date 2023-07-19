@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 💣 [Describe this life.](http://9gag.com/gag/anzVYRE)
- - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 </div>

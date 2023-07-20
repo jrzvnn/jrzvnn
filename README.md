@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)
- - [An official Google bug report says the company fixed a zero-day that an Apple employee found during a hacking competition in March but did not report to Google &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230720/p29#a230720p29)
- - [Cartoon Network and Warner Bros. Animation workers are organizing to form a union](https://www.theverge.com/2023/7/20/23801897/cartoon-network-warner-bros-animation-union-tag)
- - [Looking for a Baby Meal Delivery Service? These 3 Are My Favorites     - CNET](https://www.cnet.com/health/nutrition/looking-for-a-baby-meal-delivery-service-these-3-are-my-favorites/#ftag=CAD590a51e)
- - [NYPD Body Cam Data Shows the Scale of Violence Against Protesters](https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/)<!-- TECH:END -->
+ - [Samsung Wallet now supports student IDs](https://www.theverge.com/2023/7/20/23801822/samsung-wallet-student-id-support-nfc-college-university)
+ - [Meta gives up on the Quest Pro and shuts down development of the sequel](https://www.androidauthority.com/meta-quest-pro-canceled-3347046/)
+ - [Apple Store Tice&#39;s Corner set to reopen on July 22, 2023](https://appleinsider.com/articles/23/07/20/apple-store-tices-corner-set-to-reopen-on-july-22-2023?utm_medium=rss)
+ - [The Borderlands movie comes out next year](https://www.theverge.com/2023/7/20/23802109/borderlands-movie-release-date)
+ - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

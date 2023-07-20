@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dolphin emulator gives up on Steam — but won&#39;t remove Wii decryption key](https://www.theverge.com/2023/7/20/22302205/dolphin-emulator-steam-legal-argument)
+ - [Take 81% off a standalone Microsoft Office 2021 license for Windows or Mac](https://appleinsider.com/articles/23/07/20/take-81-off-a-standalone-microsoft-office-2021-license-for-windows-or-mac?utm_medium=rss)
+ - [An Abandoned Arctic Military Base Just Spilled a Scientific Secret](https://www.wired.com/story/an-abandoned-arctic-military-base-just-spilled-a-scientific-secret/)
  - [The developers behind open-source GameCube and Wii emulator Dolphin drop plans to release it on Steam citing &quot;Nintendo&#39;s long-held stance on emulation&quot; &lpar;Dolphin Emulator&rpar;](http://www.techmeme.com/230720/p27#a230720p27)
- - [OpenAI adds opt-in &quot;custom instructions&quot;, or details ChatGPT should remember about a user, in beta to ChatGPT Plus subscribers everywhere but the UK and EU &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230720/p26#a230720p26)
- - [Neopets is moving into a ‘new era’ — and leaving NFTs and the metaverse behind](https://www.theverge.com/2023/7/20/23801855/neopets-team-dominic-law-interview)
- - [Google Reportedly Pitching New AI Tool to Newsrooms     - CNET](https://www.cnet.com/tech/computing/google-reportedly-pitching-new-ai-tool-to-newsrooms/#ftag=CAD590a51e)
- - [ChatGPT can now remember who you are and what you want](https://www.theverge.com/2023/7/20/23801520/chatgpt-openai-custom-instructions-chatbot)<!-- TECH:END -->
+ - [OpenAI adds opt-in &quot;custom instructions&quot;, or details ChatGPT should remember about a user, in beta to ChatGPT Plus subscribers everywhere but the UK and EU &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230720/p26#a230720p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

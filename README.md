@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $50 on Apple&#39;s new Beats Studio Pro wireless headphones](https://appleinsider.com/articles/23/07/20/save-50-on-apples-new-beats-studio-pro-wireless-headphones?utm_medium=rss)
  - [Spain’s Elections Pit Gig Workers Against the Far Right](https://www.wired.com/story/spain-elections-gig-workers-far-right/)
  - [A Battlefield AI Company Says It’s One of the Good Guys](https://www.wired.com/story/helsing-ai-military-defense-tech/)
  - [Netflix’s password-sharing crackdown is going worldwide](https://www.androidauthority.com/netflix-password-sharing-restrictions-worldwide-3346713/)
- - [Kevin Mitnick, a hacker best known for his crime spree in the 1990s, who later became a consultant, writer, and public speaker after leaving prison, dies at 59 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p4#a230720p4)
- - [Netflix brings password-sharing crackdown to India and other markets and says an &quot;extra member&quot; option won&#39;t be offered where it is newly enforcing restrictions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230720/p3#a230720p3)<!-- TECH:END -->
+ - [Kevin Mitnick, a hacker best known for his crime spree in the 1990s, who later became a consultant, writer, and public speaker after leaving prison, dies at 59 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p4#a230720p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

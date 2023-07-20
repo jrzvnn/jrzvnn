@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Federal Reserve’s 24/7 payment system could deposit your paycheck instantly](https://www.theverge.com/2023/7/20/23802277/federal-reserve-fednow-instant-payment-service)
+ - [Filing: the US FTC suspends its in-house trial against Microsoft&#39;s Activision Blizzard acquisition scheduled for August, opening the door to settlement talks &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230720/p32#a230720p32)
  - [Sources: China-linked hackers accessed the emails of the US ambassador to China and the assistant secretary of state for East Asia in a recent Microsoft breach &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p31#a230720p31)
  - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
- - [Feast your eyes on the first 11 minutes of the Pokémon Horizons dub](https://www.theverge.com/23802206/pokemon-horizons-san-diego-comic-con-trailer)
- - [Google is starting to roll out its tools to replace cookies in Chrome 115](https://www.androidauthority.com/google-chrome-privacy-sandbox-3347084/)
- - [TSMC delays Arizona factory that will eventually build chips for iPhones and AI](https://www.theverge.com/2023/7/20/23802107/tsmc-arizona-chip-factory-delay-q2-earnings-report)<!-- TECH:END -->
+ - [Feast your eyes on the first 11 minutes of the Pokémon Horizons dub](https://www.theverge.com/23802206/pokemon-horizons-san-diego-comic-con-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

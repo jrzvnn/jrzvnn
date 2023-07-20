@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)
+ - [An official Google bug report says the company fixed a zero-day that an Apple employee found during a hacking competition in March but did not report to Google &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230720/p29#a230720p29)
  - [Cartoon Network and Warner Bros. Animation workers are organizing to form a union](https://www.theverge.com/2023/7/20/23801897/cartoon-network-warner-bros-animation-union-tag)
  - [NYPD Body Cam Data Shows the Scale of Violence Against Protesters](https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/)
- - [Lowest price in months on the Apple 1TB iPad Pro](https://www.androidauthority.com/apple-1tb-ipad-pro-deal-3347028/)
- - [The 14 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Meta is improving Quest VR hand tracking and adding system-level live captions](https://www.theverge.com/2023/7/20/23801987/meta-quest-vr-headset-hand-tracking-level-live-captions-v56-update)<!-- TECH:END -->
+ - [Lowest price in months on the Apple 1TB iPad Pro](https://www.androidauthority.com/apple-1tb-ipad-pro-deal-3347028/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

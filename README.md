@@ -149,8 +149,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)
  - [An official Google bug report says the company fixed a zero-day that an Apple employee found during a hacking competition in March but did not report to Google &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230720/p29#a230720p29)
  - [Cartoon Network and Warner Bros. Animation workers are organizing to form a union](https://www.theverge.com/2023/7/20/23801897/cartoon-network-warner-bros-animation-union-tag)
- - [NYPD Body Cam Data Shows the Scale of Violence Against Protesters](https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/)
- - [Lowest price in months on the Apple 1TB iPad Pro](https://www.androidauthority.com/apple-1tb-ipad-pro-deal-3347028/)<!-- TECH:END -->
+ - [Looking for a Baby Meal Delivery Service? These 3 Are My Favorites     - CNET](https://www.cnet.com/health/nutrition/looking-for-a-baby-meal-delivery-service-these-3-are-my-favorites/#ftag=CAD590a51e)
+ - [NYPD Body Cam Data Shows the Scale of Violence Against Protesters](https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

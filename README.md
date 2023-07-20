@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Microsoft&#39;s 1,000%+ stock rise under Satya Nadella, most recently driven by AI, takes his total windfall to above $1B, following Tim Cook&#39;s Apple arc &lpar;Bloomberg&rpar;](http://www.techmeme.com/230720/p13#a230720p13)
- - [Future MacBook Pro could get force sensitive 3D Touch screen](https://appleinsider.com/articles/23/07/20/future-macbook-pro-could-get-force-sensitive-3d-touch-screen?utm_medium=rss)
- - [HydroJug Pro Review: Bigger Is Better](https://www.wired.com/review/hydrojug-pro/)
- - [Elon Musk’s Grand xAI Plans](https://www.wired.com/story/gadget-lab-podcast-605/)
- - [President Joe Biden wanted Gigi Sohn to fix America’s internet — what went wrong?](https://www.theverge.com/2023/7/20/23800161/gigi-sohn-fcc-nomination-dark-money-campaign-net-neutrality-profile)<!-- TECH:END -->
+ - [Sources: North Korea-linked hackers breached JumpCloud in late June and used their access to target crypto clients; JumpCloud says &lt;5 customers were impacted &lpar;Reuters&rpar;](http://www.techmeme.com/230720/p15#a230720p15)
+ - [TSMC delays Arizona plant, blames US labor shortage](https://appleinsider.com/articles/23/07/20/tsmc-delays-arizona-plant-blames-us-labor-shortage?utm_medium=rss)
+ - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)
+ - [Five apps that help you check your local air quality](https://www.theverge.com/23799364/air-quality-check-apps-ios-android)
+ - [TSMC says its Arizona factory will miss its target of mass production of 4nm chips by 2024 due to US skilled worker shortages, aiming instead for 2025 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/230720/p14#a230720p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

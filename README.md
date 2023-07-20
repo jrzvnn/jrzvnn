@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 launch may be delayed by weeks, claims analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)
+ - [A US House committee plans to investigate GGV, GSR, Walden International, and Qualcomm Ventures over their VC investments in China in AI, chips, and quantum &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p11#a230720p11)
  - [Tesla’s Cybertruck didn’t always look so cyberpunk](https://www.theverge.com/2023/7/20/23801421/tesla-cybertruck-design-concept-images)
  - [Used car retailer Carvana reaches a deal to restructure its debt to lower interest payments and reports a $105M loss in Q2, down from a $439M loss in Q2 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p10#a230720p10)
- - [Satellites Are Rife With Basic Security Flaws](https://www.wired.com/story/satellites-basic-security-flaws/)
- - [Impala x Barbie Lightspeed Skates Review: Life in Plastic](https://www.wired.com/review/impala-barbie-lightspeed-skates/)
- - [Apple’s latest headphones play nice with Android and cost a pretty penny](https://www.androidauthority.com/apple-beats-studio-pro-3346809/)<!-- TECH:END -->
+ - [Satellites Are Rife With Basic Security Flaws](https://www.wired.com/story/satellites-basic-security-flaws/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

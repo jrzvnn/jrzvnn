@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s Cybertruck didn’t always look so cyberpunk](https://www.theverge.com/2023/7/20/23801421/tesla-cybertruck-design-concept-images)
  - [Used car retailer Carvana reaches a deal to restructure its debt to lower interest payments and reports a $105M loss in Q2, down from a $439M loss in Q2 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p10#a230720p10)
  - [Satellites Are Rife With Basic Security Flaws](https://www.wired.com/story/satellites-basic-security-flaws/)
  - [Impala x Barbie Lightspeed Skates Review: Life in Plastic](https://www.wired.com/review/impala-barbie-lightspeed-skates/)
- - [Apple’s latest headphones play nice with Android and cost a pretty penny](https://www.androidauthority.com/apple-beats-studio-pro-3346809/)
- - [Silicon Box, created by Marvell&#39;s co-founders and CEO BJ Han, plans to spend $2B to build a Singapore-based chip foundry for chiplets, creating 1,000+ jobs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/230720/p9#a230720p9)<!-- TECH:END -->
+ - [Apple’s latest headphones play nice with Android and cost a pretty penny](https://www.androidauthority.com/apple-beats-studio-pro-3346809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

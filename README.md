@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube increases the US price for YouTube Premium from $11.99 to $13.99 per month and for YouTube Music from $9.99 to $10.99 per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230720/p20#a230720p20)
+ - [Pokémon Sleep is now available in the US on Android and iOS](https://www.theverge.com/2023/7/20/23801548/pokemon-sleep-launch-android-ios)
  - [New iPhone 15 Pro rumor backs Wi-Fi 6E making first appearance](https://appleinsider.com/articles/23/07/20/new-rumor-backs-wi-fi-6e-making-appearance-in-iphone-15-pro?utm_medium=rss)
  - [Daily deals: $749 MacBook Air, $67 Apple TV, Apple Pencil $89, $50 off Apple Magic Keyboard](https://appleinsider.com/articles/23/07/20/daily-deals-749-macbook-air-99-apple-tv-apple-pencil-89-50-off-apple-magic-keyboard?utm_medium=rss)
- - [iPhone SE 4 won&#39;t launch until 2025, say analysts](https://appleinsider.com/articles/23/07/20/iphone-se-4-wont-launch-until-2025-say-analysts?utm_medium=rss)
- - [A look at Gigi Sohn&#39;s unsuccessful nomination to the FCC, announced in October 2021 before she withdrew nearly 500 days later after a fierce opposition campaign &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230720/p19#a230720p19)
- - [HP’s Spectre x360 13.5 is nearly perfect, except for one thing](https://www.theverge.com/23794381/hp-spectre-x360-13-vs-dell-xps-13-review)<!-- TECH:END -->
+ - [iPhone SE 4 won&#39;t launch until 2025, say analysts](https://appleinsider.com/articles/23/07/20/iphone-se-4-wont-launch-until-2025-say-analysts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

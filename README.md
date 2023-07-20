@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google wants AI to write the news articles you read](https://www.androidauthority.com/google-news-writing-ai-3346754/)
  - [YouTube Premium now costs an extra $2 each month](https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase)
  - [Ofcom survey: TikTok is the top news source for 12- to 15-year-olds in the UK, followed by YouTube and Instagram; 16- to 24-year-olds prefer Instagram for news &lpar;Hibaq Farah/The Guardian&rpar;](http://www.techmeme.com/230720/p6#a230720p6)
  - [Samsung Galaxy Ring: Release date, rumors, specs, price, and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)
- - [Samsung Galaxy Tab S9 Ultra could come with these leaked accessories](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-leaked-accessories-3346755/)
- - [Samsung has started ‘advanced development’ of Galaxy Ring](https://www.androidauthority.com/samsung-galaxy-ring-development-3346748/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9 Ultra could come with these leaked accessories](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-leaked-accessories-3346755/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
- - 😝 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
- - 💣 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 😝 [Art 101](http://9gag.com/gag/a8qzMWQ)
+ - 😝 [Freedom of speech](http://9gag.com/gag/aEqEGKG)
+ - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 😝 [The Barbie Movie We Wanted](http://9gag.com/gag/awZvKYW)
+ - 👉 [Not a single doubt about it](http://9gag.com/gag/az2QVMN)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a single doubt about it](http://9gag.com/gag/az2QVMN)
- - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 💣 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)
- - 😝 [Hug the cactus](http://9gag.com/gag/aPgnDpB)
- - 👉 [\u2026.. food is food!](http://9gag.com/gag/aMEyG26)<!-- MEMES:END -->
+ - 😝 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)
+ - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 </div>

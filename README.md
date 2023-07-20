@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
- - 😝 [All this while\u2026](http://9gag.com/gag/aGEbRB7)
- - 👉 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)<!-- MEMES:END -->
+ - 😝 [Splash!](http://9gag.com/gag/aOxGyyD)
+ - 😝 [The TRUTH is the TRUTH](http://9gag.com/gag/aNw3Z8w)
+ - 💣 [If you know you know...](http://9gag.com/gag/a3Zn33m)
+ - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - 👉 [Oh Japan](http://9gag.com/gag/aEqEGAM)<!-- MEMES:END -->
 
 ---
 </div>

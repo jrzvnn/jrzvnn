@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
- - 😝 [No surprises](http://9gag.com/gag/aqeANBZ)
- - 💣 [Splash!](http://9gag.com/gag/aOxGyyD)
- - 😝 [If you know you know...](http://9gag.com/gag/a3Zn33m)
- - 👉 [Not a single doubt about it](http://9gag.com/gag/az2QVMN)<!-- MEMES:END -->
+ - 😝 [Britain has a massive floating cage where they keep asylum seekers. The government has awarded an Australian travel firm \u00a31.6bn contract for asylum barges and accommodation.](http://9gag.com/gag/a04wY4q)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
 
 ---
 </div>

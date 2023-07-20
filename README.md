@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
  - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
  - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 👉 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)<!-- MEMES:END -->
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest headphones play nice with Android and cost a pretty penny](https://www.androidauthority.com/apple-beats-studio-pro-3346809/)
+ - [Silicon Box, created by Marvell&#39;s co-founders and CEO BJ Han, plans to spend $2B to build a Singapore-based chip foundry for chiplets, creating 1,000+ jobs &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/230720/p9#a230720p9)
  - [iPhone 15 launch may be delayed &quot;weeks,&quot; says analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)
  - [The US Army says Microsoft plans to deliver improved goggles by July 31 for intensive testing ahead of a decision on their deployment or cancelation by 2025 &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230720/p8#a230720p8)
- - [Carl Pei’s latest reason to skip foldables makes better sense](https://www.androidauthority.com/nothing-carl-pei-foldable-phones-android-ios-3346777/)
- - [TSMC reports Q2 revenue down 10% YoY to ~$15.68B and net profit down 23.3% YoY to ~$5.9B, the first quarterly decline since 2019, as all non-AI chip sales lag &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230720/p7#a230720p7)
- - [Why Generative AI Won’t Disrupt Books](https://www.wired.com/story/why-generative-ai-wont-disrupt-books/)<!-- TECH:END -->
+ - [Carl Pei’s latest reason to skip foldables makes better sense](https://www.androidauthority.com/nothing-carl-pei-foldable-phones-android-ios-3346777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

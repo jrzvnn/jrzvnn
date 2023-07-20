@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple threatens to remove FaceTime and iMessage from the UK rather than weaken security under a proposed security bill amendment, dubbed a &quot;snooper&#39;s charter&quot; &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230720/p16#a230720p16)
- - [Here’s why the best IMAX movies still need a Palm Pilot to work](https://www.theverge.com/23801118/imax-movie-palm-pilot-oppenheimer)
- - [Sources: North Korea-linked hackers breached JumpCloud in late June and used their access to target crypto clients; JumpCloud says &lt;5 customers were impacted &lpar;Reuters&rpar;](http://www.techmeme.com/230720/p15#a230720p15)
- - [TSMC delays Arizona plant, blames US labor shortage](https://appleinsider.com/articles/23/07/20/tsmc-delays-arizona-plant-blames-us-labor-shortage?utm_medium=rss)
- - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)<!-- TECH:END -->
+ - [Twilight of the Mods](https://www.wired.com/story/reddit-bluesky-moderation/)
+ - [Google plans to begin gradually enabling Privacy Sandbox APIs for Chrome developers on July 24 after releasing Chrome 115, a milestone in phasing out cookies &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230720/p17#a230720p17)
+ - [OnePlus 12R leak pictures a possible flagship killer](https://www.androidauthority.com/oneplus-12r-leaked-renders-specs-3346849/)
+ - [Kokopelli Chasm-Lite Stand-Up Paddleboard Review: Inflatable Summer Fun](https://www.wired.com/review/kokopelli-chasm-lite-stand-up-paddleboard/)
+ - [Google will switch on its cookie-replacing tools for Chrome developers next week](https://www.theverge.com/2023/7/20/23801435/google-chrome-privacy-sandbox-cookies-api-release-enabled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 😝 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)
- - 💣 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
- - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 👉 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)<!-- MEMES:END -->
+ - 😝 [Art 101](http://9gag.com/gag/a8qzMWQ)
+ - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 💣 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)
+ - 😝 [\u2026.. food is food!](http://9gag.com/gag/aMEyG26)
+ - 👉 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)<!-- MEMES:END -->
 
 ---
 </div>

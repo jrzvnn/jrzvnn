@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study claims GPT-4&#39;s outputs grew worse from March to June, but some experts aren&#39;t convinced by the results and urge OpenAI to be less opaque about AI models &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230720/p1#a230720p1)
+ - [Google’s rumored ‘Genesis’ AI tool for journalists could probably write this article](https://www.theverge.com/2023/7/19/23801282/google-ai-journalism-genesis-generative-news)
  - [In Llama 2&#39;s commercial terms, Meta says companies with 700M+ MAUs must request a license, and users are prohibited from utilizing Llama 2 to improve other LLMs &lpar;Arun Padmanabhan/Moneycontrol&rpar;](http://www.techmeme.com/230719/p46#a230719p46)
  - [Tencent CEO Pony Ma pens an op-ed backing Chinese pledges to revive the private sector; Xiaomi CEO Lei Jun also endorsed the policies in a separate editorial &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230719/p45#a230719p45)
- - [Sources: Google is testing an AI-powered tool to produce news stories, pitching it to news orgs including NYT, WaPo, and News Corp as a helpmate for journalists &lpar;New York Times&rpar;](http://www.techmeme.com/230719/p44#a230719p44)
- - [&#39;Pokemon Sleep&#39; launches in the US, but it&#39;s more game than sleep tracker](https://appleinsider.com/articles/23/07/20/pokemon-sleep-launches-in-the-us-but-its-more-game-than-sleep-tracker?utm_medium=rss)
- - [Learn languages with Rosetta Stone&#39;s lifetime subscription, now $159.97](https://appleinsider.com/articles/23/07/20/learn-languages-with-rosetta-stones-lifetime-subscription-now-15997?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Google is testing an AI-powered tool to produce news stories, pitching it to news orgs including NYT, WaPo, and News Corp as a helpmate for journalists &lpar;New York Times&rpar;](http://www.techmeme.com/230719/p44#a230719p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

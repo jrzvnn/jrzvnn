@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
- - 💣 [Right in the kisser](http://9gag.com/gag/awZvNbW)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
+ - 😝 [No surprises](http://9gag.com/gag/aqeANBZ)
+ - 😝 [Splash!](http://9gag.com/gag/aOxGyyD)
+ - 💣 [If you know you know...](http://9gag.com/gag/a3Zn33m)
+ - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - 👉 [Honest to god](http://9gag.com/gag/aeQWpAj)<!-- MEMES:END -->
 
 ---
 </div>

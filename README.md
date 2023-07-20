@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 😝 [Peter...](http://9gag.com/gag/a8qzd8Z)
- - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
+ - 😝 [The pinnacle of creativity](http://9gag.com/gag/a8qzLAp)
+ - 😝 [Not a single doubt about it](http://9gag.com/gag/az2QVMN)
+ - 💣 [No surprises](http://9gag.com/gag/aqeANBZ)
+ - 😝 [Splash!](http://9gag.com/gag/aOxGyyD)
+ - 👉 [If you know you know...](http://9gag.com/gag/a3Zn33m)<!-- MEMES:END -->
 
 ---
 </div>

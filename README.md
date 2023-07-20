@@ -157,7 +157,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
  - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 💣 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
  - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
  - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 

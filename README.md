@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price in months on the Apple 1TB iPad Pro](https://www.androidauthority.com/apple-1tb-ipad-pro-deal-3347028/)
+ - [The 14 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Meta is improving Quest VR hand tracking and adding system-level live captions](https://www.theverge.com/2023/7/20/23801987/meta-quest-vr-headset-hand-tracking-level-live-captions-v56-update)
  - [Save $50 on Apple&#39;s new Beats Studio Pro wireless headphones](https://appleinsider.com/articles/23/07/20/save-50-on-apples-new-beats-studio-pro-wireless-headphones?utm_medium=rss)
- - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
- - [Good luck getting a iPhone 15 Pro/Pro Max, there may be a shortage at launch](https://www.androidauthority.com/iphone-15-pro-max-shortage-3346984/)
- - [Competitors are on edge as Apple Pay Later surges in popularity](https://appleinsider.com/articles/23/07/20/competitors-are-on-edge-as-apple-pay-later-surges-in-popularity?utm_medium=rss)
- - [In an internal policy memo following a May White House meeting, OpenAI supports the idea of requiring government licenses for development of advanced AI systems &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230720/p28#a230720p28)<!-- TECH:END -->
+ - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

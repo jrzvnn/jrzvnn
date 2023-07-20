@@ -146,7 +146,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s password-sharing crackdown is going worldwide](https://www.androidauthority.com/netflixs-password-sharing-crackdown-worldwide-3346713/)
+ - [Netflix’s password-sharing crackdown is going worldwide](https://www.androidauthority.com/netflix-password-sharing-restrictions-worldwide-3346713/)
  - [Kevin Mitnick, a hacker best known for his crime spree in the 1990s, who later became a consultant, writer, and public speaker after leaving prison, dies at 59 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p4#a230720p4)
  - [Netflix brings password-sharing crackdown to India and other markets and says an &quot;extra member&quot; option won&#39;t be offered where it is newly enforcing restrictions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230720/p3#a230720p3)
  - [Google’s rumored ‘Genesis’ AI tool for journalists could probably write this article](https://www.theverge.com/2023/7/19/23801282/google-ai-journalism-genesis-generative-news)

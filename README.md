@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $50 on Apple&#39;s new Beats Studio Pro wireless headphones](https://appleinsider.com/articles/23/07/20/save-50-on-apples-new-beats-studio-pro-wireless-headphones?utm_medium=rss)
  - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
  - [Good luck getting a iPhone 15 Pro/Pro Max, there may be a shortage at launch](https://www.androidauthority.com/iphone-15-pro-max-shortage-3346984/)
  - [Competitors are on edge as Apple Pay Later surges in popularity](https://appleinsider.com/articles/23/07/20/competitors-are-on-edge-as-apple-pay-later-surges-in-popularity?utm_medium=rss)
- - [In an internal policy memo following a May White House meeting, OpenAI supports the idea of requiring government licenses for development of advanced AI systems &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230720/p28#a230720p28)
- - [Leaked Galaxy Watch 6 specs list a bigger screen and slimmer bezels](https://www.theverge.com/2023/7/20/23801892/samsung-galaxy-watch-6-leak-specs-display-size-bezel)<!-- TECH:END -->
+ - [In an internal policy memo following a May White House meeting, OpenAI supports the idea of requiring government licenses for development of advanced AI systems &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230720/p28#a230720p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

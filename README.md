@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC withdraws its in-house challenge to Microsoft’s Activision-Blizzard deal](https://www.theverge.com/2023/7/20/23795591/ftc-microsoft-activision-administrative-challenge)
+ - [Epic Games is taking 75 percent off select titles as part of its summer sale](https://www.theverge.com/2023/7/20/23802333/epic-games-store-summer-sale-alan-wake-remastered-system-shock-dead-space-deal)
  - [Spider-Man 2’s new story trailer and PS5 bundle are consumed by Venom](https://www.theverge.com/21517046/spider-man-2-limited-edition-ps5-story-trailer-venom)
  - [Reddit’s r/Place is going about as well as expected](https://www.theverge.com/2023/7/20/23801716/reddits-r-place-protest-art)
- - [AMC scraps plan to make the best movie theater seats more expensive](https://www.theverge.com/2023/7/20/23802244/amc-sightline-movie-theater-tiered-pricing-canceled)
- - [AOC is going to stream on Twitch again](https://www.theverge.com/2023/7/20/23802389/aoc-twitch-stream-date-hasanabi)
- - [The Federal Reserve’s 24/7 payment system could deposit your paycheck instantly](https://www.theverge.com/2023/7/20/23802277/federal-reserve-fednow-instant-payment-service)<!-- TECH:END -->
+ - [AMC scraps plan to make the best movie theater seats more expensive](https://www.theverge.com/2023/7/20/23802244/amc-sightline-movie-theater-tiered-pricing-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spider-Man 2’s new story trailer and PS5 bundle are consumed by Venom](https://www.theverge.com/21517046/spider-man-2-limited-edition-ps5-story-trailer-venom)
+ - [Reddit’s r/Place is going about as well as expected](https://www.theverge.com/2023/7/20/23801716/reddits-r-place-protest-art)
+ - [AMC scraps plan to make the best movie theater seats more expensive](https://www.theverge.com/2023/7/20/23802244/amc-sightline-movie-theater-tiered-pricing-canceled)
  - [AOC is going to stream on Twitch again](https://www.theverge.com/2023/7/20/23802389/aoc-twitch-stream-date-hasanabi)
- - [The Federal Reserve’s 24/7 payment system could deposit your paycheck instantly](https://www.theverge.com/2023/7/20/23802277/federal-reserve-fednow-instant-payment-service)
- - [Filing: the US FTC suspends its in-house trial against Microsoft&#39;s Activision Blizzard acquisition scheduled for August, opening the door to settlement talks &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230720/p32#a230720p32)
- - [Sources: China-linked hackers accessed the emails of the US ambassador to China and the assistant secretary of state for East Asia in a recent Microsoft breach &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p31#a230720p31)
- - [Netflix Added 7.6M Accounts in Past Six Months Amid Password-Sharing Crackdown     - CNET](https://www.cnet.com/tech/services-and-software/netflix-added-7-6m-accounts-in-last-six-months-amid-password-sharing-crackdown/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Federal Reserve’s 24/7 payment system could deposit your paycheck instantly](https://www.theverge.com/2023/7/20/23802277/federal-reserve-fednow-instant-payment-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

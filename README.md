@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gives metaphorical finger to surveillance bill, says it will not comply](https://www.androidauthority.com/apple-investigatory-powers-act-3346867/)
  - [Cerebras launches the first of three supercomputers for Abu Dhabi-based G42 as part of its Condor Galaxy network; G42 trained an Arabic GPT model in April 2023 &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230720/p18#a230720p18)
  - [Logitech’s MX Mechanical Mini mechanical keyboard is available at a rare discount](https://www.theverge.com/2023/7/20/23800403/logitech-mx-mechanical-mini-apple-studio-display-amazfit-band-7-deal-sale)
  - [Twilight of the Mods](https://www.wired.com/story/reddit-bluesky-moderation/)
- - [Google plans to begin gradually enabling Privacy Sandbox APIs for Chrome developers on July 24 after releasing Chrome 115, a milestone in phasing out cookies &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230720/p17#a230720p17)
- - [OnePlus 12R leak pictures a possible flagship killer](https://www.androidauthority.com/oneplus-12r-leaked-renders-specs-3346849/)<!-- TECH:END -->
+ - [Google plans to begin gradually enabling Privacy Sandbox APIs for Chrome developers on July 24 after releasing Chrome 115, a milestone in phasing out cookies &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230720/p17#a230720p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

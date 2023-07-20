@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 💣 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 👉 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
+ - 😝 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
+ - 😝 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
+ - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 👉 [The purest of waters](http://9gag.com/gag/anzVNKV)<!-- MEMES:END -->
 
 ---
 </div>

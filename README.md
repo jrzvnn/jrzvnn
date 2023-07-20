@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 😝 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)
- - 👉 [Japan, elderly driver&#39;s panic](http://9gag.com/gag/aKEp3qg)<!-- MEMES:END -->
+ - 😝 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)
+ - 😝 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
+ - 💣 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)
+ - 😝 [Art 101](http://9gag.com/gag/a8qzMWQ)
+ - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
 
 ---
 </div>

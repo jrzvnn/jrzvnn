@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)
- - 😝 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
- - 💣 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)
- - 😝 [Art 101](http://9gag.com/gag/a8qzMWQ)
- - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
+ - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
+ - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 👉 [Japan, elderly driver&#39;s panic](http://9gag.com/gag/aKEp3qg)<!-- MEMES:END -->
 
 ---
 </div>

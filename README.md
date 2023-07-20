@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 💣 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 💣 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 👉 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)<!-- MEMES:END -->
 
 ---
 </div>

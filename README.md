@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
+ - 😝 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
+ - 💣 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
  - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 💣 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
- - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
  - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 
 ---

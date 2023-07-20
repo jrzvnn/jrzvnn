@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - 😝 [He is right, you know?](http://9gag.com/gag/ay2P8xX)
- - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
- - 😝 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)
- - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
+ - 😝 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
+ - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
+ - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
 
 ---
 </div>

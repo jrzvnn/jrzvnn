@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caroline Ellison&#39;s private Google Docs detail her thinking before FTX&#39;s collapse, including doubts over running Alameda and her breakup with Sam Bankman-Fried &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p12#a230720p12)
- - [iPhone 15 launch may be delayed by weeks, claims analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)
- - [A US House committee plans to investigate GGV, GSR, Walden International, and Qualcomm Ventures over their VC investments in China in AI, chips, and quantum &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p11#a230720p11)
- - [Tesla’s Cybertruck didn’t always look so cyberpunk](https://www.theverge.com/2023/7/20/23801421/tesla-cybertruck-design-concept-images)
- - [Used car retailer Carvana reaches a deal to restructure its debt to lower interest payments and reports a $105M loss in Q2, down from a $439M loss in Q2 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p10#a230720p10)<!-- TECH:END -->
+ - [Analysis: Microsoft&#39;s 1,000%+ stock rise under Satya Nadella, most recently driven by AI, takes his total windfall to above $1B, following Tim Cook&#39;s Apple arc &lpar;Bloomberg&rpar;](http://www.techmeme.com/230720/p13#a230720p13)
+ - [Future MacBook Pro could get force sensitive 3D Touch screen](https://appleinsider.com/articles/23/07/20/future-macbook-pro-could-get-force-sensitive-3d-touch-screen?utm_medium=rss)
+ - [HydroJug Pro Review: Bigger Is Better](https://www.wired.com/review/hydrojug-pro/)
+ - [Elon Musk’s Grand xAI Plans](https://www.wired.com/story/gadget-lab-podcast-605/)
+ - [President Joe Biden wanted Gigi Sohn to fix America’s internet — what went wrong?](https://www.theverge.com/2023/7/20/23800161/gigi-sohn-fcc-nomination-dark-money-campaign-net-neutrality-profile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

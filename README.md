@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s password-sharing crackdown is going worldwide](https://www.androidauthority.com/netflixs-password-sharing-crackdown-worldwide-3346713/)
  - [Kevin Mitnick, a hacker best known for his crime spree in the 1990s, who later became a consultant, writer, and public speaker after leaving prison, dies at 59 &lpar;New York Times&rpar;](http://www.techmeme.com/230720/p4#a230720p4)
  - [Netflix brings password-sharing crackdown to India and other markets and says an &quot;extra member&quot; option won&#39;t be offered where it is newly enforcing restrictions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230720/p3#a230720p3)
  - [Google’s rumored ‘Genesis’ AI tool for journalists could probably write this article](https://www.theverge.com/2023/7/19/23801282/google-ai-journalism-genesis-generative-news)
- - [Researchers identify 200K+ OpenAI credentials for sale on the dark web in the form of stealer logs, as hackers show an increased interest in generative AI tools &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/230720/p2#a230720p2)
- - [Today only: 16-inch MacBook Pro with M1 Max, 64GB RAM, 4TB SSD on sale for $2,999](https://appleinsider.com/articles/23/07/20/today-only-16-inch-macbook-pro-with-m1-max-64gb-ram-4tb-ssd-on-sale-for-2999?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers identify 200K+ OpenAI credentials for sale on the dark web in the form of stealer logs, as hackers show an increased interest in generative AI tools &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/230720/p2#a230720p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Garmin golf watches for improving your game](https://www.androidauthority.com/best-garmin-golf-watch-3346330/)
  - [Samsung Wallet now supports student IDs](https://www.theverge.com/2023/7/20/23801822/samsung-wallet-student-id-support-nfc-college-university)
  - [Meta gives up on the Quest Pro and shuts down development of the sequel](https://www.androidauthority.com/meta-quest-pro-canceled-3347046/)
  - [Apple Store Tice&#39;s Corner set to reopen on July 22, 2023](https://appleinsider.com/articles/23/07/20/apple-store-tices-corner-set-to-reopen-on-july-22-2023?utm_medium=rss)
- - [The Borderlands movie comes out next year](https://www.theverge.com/2023/7/20/23802109/borderlands-movie-release-date)
- - [Stuck with your current carrier? An esim free trial is a good way to shop around](https://www.androidauthority.com/e-sim-free-trial-3346998/)<!-- TECH:END -->
+ - [The Borderlands movie comes out next year](https://www.theverge.com/2023/7/20/23802109/borderlands-movie-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dallas-based o9 Solutions, which offers AI-powered tools for supply chain management, raised $116M at a $3.7B valuation, up from $2.7B in January 2022 &lpar;CSCMP&#39;s Supply Chain Quarterly&rpar;](http://www.techmeme.com/230720/p25#a230720p25)
  - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
  - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)
  - [Apple hitting problems with iPhone 15 Pro display assembly](https://appleinsider.com/articles/23/07/20/apple-hitting-problems-with-iphone-15-pro-display-assembly?utm_medium=rss)
- - [Sources: Apple is struggling to assemble iPhone 15 Pro and Pro Max due to their larger screens and narrow bezels, which may lead to September launch shortages &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230720/p24#a230720p24)
- - [Reddit’s r/Place is going about as well as expected](https://www.theverge.com/2023/7/20/23801716/reddits-r-place-protest-art)<!-- TECH:END -->
+ - [Sources: Apple is struggling to assemble iPhone 15 Pro and Pro Max due to their larger screens and narrow bezels, which may lead to September launch shortages &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230720/p24#a230720p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

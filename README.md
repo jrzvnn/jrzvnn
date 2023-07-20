@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
  - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
  - 👉 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)<!-- MEMES:END -->
 
 ---

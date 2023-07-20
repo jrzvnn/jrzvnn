@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 💣 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
+ - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 💣 [Japan, elderly driver&#39;s panic](http://9gag.com/gag/aKEp3qg)
+ - 😝 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)
+ - 👉 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)<!-- MEMES:END -->
 
 ---
 </div>

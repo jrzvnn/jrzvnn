@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 launch may be delayed &quot;weeks,&quot; says analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)
+ - [Carl Pei’s latest reason to skip foldables makes better sense](https://www.androidauthority.com/nothing-carl-pei-foldable-phones-android-ios-3346777/)
  - [TSMC reports Q2 revenue down 10% YoY to ~$15.68B and net profit down 23.3% YoY to ~$5.9B, the first quarterly decline since 2019, as all non-AI chip sales lag &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230720/p7#a230720p7)
  - [Why Generative AI Won’t Disrupt Books](https://www.wired.com/story/why-generative-ai-wont-disrupt-books/)
- - [The Samsung Galaxy Watch 6 will be able to tell if your food is hot or not](https://www.androidauthority.com/samsung-galaxy-watch-6-temperature-measurement-thermo-check-app-3346801/)
- - [Google wants AI to write the news articles you read](https://www.androidauthority.com/google-news-writing-ai-3346754/)
- - [YouTube Premium now costs an extra $2 each month](https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase)<!-- TECH:END -->
+ - [The Samsung Galaxy Watch 6 will be able to tell if your food is hot or not](https://www.androidauthority.com/samsung-galaxy-watch-6-temperature-measurement-thermo-check-app-3346801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

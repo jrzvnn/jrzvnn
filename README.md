@@ -146,10 +146,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s rumored ‘Genesis’ AI tool for journalists could probably write this article](https://www.theverge.com/2023/7/19/23801282/google-ai-journalism-genesis-generative-news)
  - [Researchers identify 200K+ OpenAI credentials for sale on the dark web in the form of stealer logs, as hackers show an increased interest in generative AI tools &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/230720/p2#a230720p2)
  - [Today only: 16-inch MacBook Pro with M1 Max, 64GB RAM, 4TB SSD on sale for $2,999](https://appleinsider.com/articles/23/07/20/today-only-16-inch-macbook-pro-with-m1-max-64gb-ram-4tb-ssd-on-sale-for-2999?utm_medium=rss)
  - [A study claims GPT-4&#39;s outputs grew worse from March to June, but some experts aren&#39;t convinced by the results and urge OpenAI to be less opaque about AI models &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230720/p1#a230720p1)
- - [Google’s rumored ‘Genesis’ AI tool for journalists could probably write this article](https://www.theverge.com/2023/7/19/23801282/google-ai-journalism-genesis-generative-news)
  - [In Llama 2&#39;s commercial terms, Meta says companies with 700M+ MAUs must request a license, and users are prohibited from utilizing Llama 2 to improve other LLMs &lpar;Arun Padmanabhan/Moneycontrol&rpar;](http://www.techmeme.com/230719/p46#a230719p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

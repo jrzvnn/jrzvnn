@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Premium now costs an extra $2 each month](https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase)
+ - [Ofcom survey: TikTok is the top news source for 12- to 15-year-olds in the UK, followed by YouTube and Instagram; 16- to 24-year-olds prefer Instagram for news &lpar;Hibaq Farah/The Guardian&rpar;](http://www.techmeme.com/230720/p6#a230720p6)
+ - [Samsung Galaxy Ring: Release date, rumors, specs, price, and what we want to see](https://www.androidauthority.com/samsung-galaxy-ring-3340682/)
  - [Samsung Galaxy Tab S9 Ultra could come with these leaked accessories](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-leaked-accessories-3346755/)
- - [Samsung has started ‘advanced development’ of Galaxy Ring](https://www.androidauthority.com/samsung-galaxy-ring-development-3346748/)
- - [7 Best Cordless Vacuums &lpar;2023&rpar;: For Carpet, Hardwood, and Hard-to-Reach Areas](https://www.wired.com/gallery/best-cordless-vacuums/)
- - [Your YouTube Premium subscription just went up!](https://www.androidauthority.com/youtube-premium-price-hike-3346739/)
- - [Q&amp;A with Squarespace CEO Anthony Casalena on LLMs and building a website in 2023, how the company is structured, competition, acquiring Google Domains, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230720/p5#a230720p5)<!-- TECH:END -->
+ - [Samsung has started ‘advanced development’ of Galaxy Ring](https://www.androidauthority.com/samsung-galaxy-ring-development-3346748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

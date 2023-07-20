@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If they do a live version of this, who should play the hottie ?](http://9gag.com/gag/aNw3mE6)
- - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
- - 💣 [Nokia is planning to re-release their Nostalgic 6600 phone with Android operating system and an awesome hardware!](http://9gag.com/gag/a8qzjjO)
- - 😝 [That escalated quickly.](http://9gag.com/gag/aqeAZ0p)
- - 👉 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)<!-- MEMES:END -->
+ - 😝 [Students react to handsome teacher &lpar;1965.&rpar;](http://9gag.com/gag/aKEpgAN)
+ - 😝 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)
+ - 💣 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages signs onto cross-platform encrypted group chat standard](https://www.theverge.com/2023/7/20/23801536/google-messages-app-mls-support-announce)
- - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)
- - [Amazon plans to roll out its Amazon One palm scanning payment tech to all of its more than 500 Whole Foods Market stores in the US by the end of 2023 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230720/p22#a230720p22)
- - [Shinichirō Watanabe is working on a new Adult Swim animated series](https://www.theverge.com/2023/7/20/23801621/shinichiro-watanabe-lazarus-adult-swim-chad-stahelski)
- - [Prime Day pricing returns with $749 MacBook Air deal at Amazon](https://appleinsider.com/articles/23/07/20/prime-day-pricing-returns-with-749-macbook-air-deal-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Don’t Ask Dumb Robots If AI Will Destroy Humanity](https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/)
+ - [People are getting fed up with all the useless tech in their cars](https://www.theverge.com/23801545/car-infotainment-customer-satisifaction-survey-jd-power)
+ - [GitHub’s Copilot Chat AI feature is now available in public beta](https://www.theverge.com/2023/7/20/23801498/github-copilot-x-chat-code-chatbot-public-beta)
+ - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
+ - [Google Messages signs onto cross-platform encrypted group chat standard](https://www.theverge.com/2023/7/20/23801536/google-messages-app-mls-support-announce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

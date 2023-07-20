@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Learn languages with Rosetta Stone&#39;s lifetime subscription, now $159.97](https://appleinsider.com/articles/23/07/20/learn-languages-with-rosetta-stones-lifetime-subscription-now-15997?utm_medium=rss)
+ - [Adobe releases an emergency ColdFusion security update which fixes a zero-day RCE flaw used in the wild, after its July 11 fix was marked incomplete by Rapid7 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230719/p43#a230719p43)
+ - [FTC Launches Crackdown on Illegal Robocalls, Telemarketing     - CNET](https://www.cnet.com/tech/mobile/ftc-launches-crackdown-on-illegal-robocalls-telemarketing/#ftag=CAD590a51e)
  - [Beijing-based ForwardX Robotics, which makes autonomous mobile robots for warehouses, raised an additional $30M on July 7, bringing its Series C total to $61M &lpar;Mike Oitzman/The Robot Report&rpar;](http://www.techmeme.com/230719/p42#a230719p42)
- - [Analysis: tweets about CVEs, which peaked before Elon Musk took over, show a steep decline in recent months, suggesting the infosec Twitter community has shrunk &lpar;Jay Jacobs/Cyentia Institute&rpar;](http://www.techmeme.com/230719/p41#a230719p41)
- - [Reddit protest updates: news on the apps shutting down and Reddit’s fights with mods](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
- - [1 in 5 Student Loan Borrowers Face Monthly Payments of Over $500     - CNET](https://www.cnet.com/personal-finance/loans/one-in-five-student-loan-borrowers-facing-monthly-payments-of-over-500/#ftag=CAD590a51e)
- - [Apple Has Created Its Own AI Chatbot, Report Says     - CNET](https://www.cnet.com/tech/apple-has-created-its-own-ai-chatbot-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: tweets about CVEs, which peaked before Elon Musk took over, show a steep decline in recent months, suggesting the infosec Twitter community has shrunk &lpar;Jay Jacobs/Cyentia Institute&rpar;](http://www.techmeme.com/230719/p41#a230719p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

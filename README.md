@@ -146,7 +146,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New rumor backs Wi-Fi 6E making appearance in iPhone 15 Pro](https://appleinsider.com/articles/23/07/20/new-rumor-backs-wi-fi-6e-making-appearance-in-iphone-15-pro?utm_medium=rss)
+ - [New iPhone 15 Pro rumor backs Wi-Fi 6E making first appearance](https://appleinsider.com/articles/23/07/20/new-rumor-backs-wi-fi-6e-making-appearance-in-iphone-15-pro?utm_medium=rss)
  - [Daily deals: $749 MacBook Air, $67 Apple TV, Apple Pencil $89, $50 off Apple Magic Keyboard](https://appleinsider.com/articles/23/07/20/daily-deals-749-macbook-air-99-apple-tv-apple-pencil-89-50-off-apple-magic-keyboard?utm_medium=rss)
  - [iPhone SE 4 won&#39;t launch until 2025, say analysts](https://appleinsider.com/articles/23/07/20/iphone-se-4-wont-launch-until-2025-say-analysts?utm_medium=rss)
  - [A look at Gigi Sohn&#39;s unsuccessful nomination to the FCC, announced in October 2021 before she withdrew nearly 500 days later after a fierce opposition campaign &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230720/p19#a230720p19)

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t Ask Dumb Robots If AI Will Destroy Humanity](https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/)
- - [People are getting fed up with all the useless tech in their cars](https://www.theverge.com/23801545/car-infotainment-customer-satisifaction-survey-jd-power)
- - [GitHub’s Copilot Chat AI feature is now available in public beta](https://www.theverge.com/2023/7/20/23801498/github-copilot-x-chat-code-chatbot-public-beta)
- - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
- - [Google Messages signs onto cross-platform encrypted group chat standard](https://www.theverge.com/2023/7/20/23801536/google-messages-app-mls-support-announce)<!-- TECH:END -->
+ - [GitHub releases Copilot Chat, its AI-powered coding chatbot, to all Copilot for Business users in a limited public beta via Visual Studio and Visual Studio Code &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230720/p23#a230720p23)
+ - [How tree trimming became the latest Hollywood drama](https://www.theverge.com/2023/7/20/23801523/tree-trimming-controversy-sag-aftra-wga-hollywood-strike-nbcuniversal-heatwave)
+ - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
+ - [All 500-plus Whole Foods stores will soon let you pay with a palm scan](https://www.theverge.com/2023/7/20/23801571/amazon-one-whole-foods-pay-palm-scan)
+ - [Don’t Ask Dumb Robots If AI Will Destroy Humanity](https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

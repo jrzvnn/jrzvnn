@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Students react to handsome teacher &lpar;1965.&rpar;](http://9gag.com/gag/aKEpgAN)
- - 😝 [Had us in the first half, not gonna lie](http://9gag.com/gag/aDYMAxd)
- - 💣 [People prefer to see a plank of wood over her](http://9gag.com/gag/aXnep2P)
  - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 👉 [Woman moment](http://9gag.com/gag/awZv0yR)<!-- MEMES:END -->
+ - 😝 [Peter...](http://9gag.com/gag/a8qzd8Z)
+ - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 😝 [Not a single doubt about it](http://9gag.com/gag/az2QVMN)
  - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 💣 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 😝 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
- - 👉 [Congratulations!](http://9gag.com/gag/aXne992)<!-- MEMES:END -->
+ - 💣 [British man showing how to compliment strangers effectively in Notting Hill](http://9gag.com/gag/agojVyq)
+ - 😝 [Hug the cactus](http://9gag.com/gag/aPgnDpB)
+ - 👉 [\u2026.. food is food!](http://9gag.com/gag/aMEyG26)<!-- MEMES:END -->
 
 ---
 </div>

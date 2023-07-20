@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
  - [Feast your eyes on the first 11 minutes of the Pokémon Horizons dub](https://www.theverge.com/23802206/pokemon-horizons-san-diego-comic-con-trailer)
  - [Google is starting to roll out its tools to replace cookies in Chrome 115](https://www.androidauthority.com/google-chrome-privacy-sandbox-3347084/)
  - [TSMC delays Arizona factory that will eventually build chips for iPhones and AI](https://www.theverge.com/2023/7/20/23802107/tsmc-arizona-chip-factory-delay-q2-earnings-report)
- - [Twitter is letting some verified organizations post job listings directly on their profiles through a job listings feature &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/230720/p30#a230720p30)
- - [Don’t pay your T-Mobile bill like this or you’ll be losing money](https://www.androidauthority.com/t-mobile-bill-in-store-3347088/)<!-- TECH:END -->
+ - [Twitter is letting some verified organizations post job listings directly on their profiles through a job listings feature &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/230720/p30#a230720p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

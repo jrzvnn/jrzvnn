@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT can now remember who you are and what you want](https://www.theverge.com/2023/7/20/23801520/chatgpt-openai-custom-instructions-chatbot)
  - [This 55-inch Amazon Fire TV deal is a late gift to Prime members](https://www.androidauthority.com/amazon-fire-tv-deal-3346925/)
  - [Zagg&#39;s latest keyboards combine ergonomics &amp; efficiency for Apple devices](https://appleinsider.com/articles/23/07/20/zaggs-latest-keyboards-combine-ergonomics-efficiency-for-apple-devices?utm_medium=rss)
  - [Google Messages could be getting cross platform end-to-end encryption](https://www.androidauthority.com/google-messages-mls-3346918/)
- - [Dallas-based o9 Solutions, which offers AI-powered tools for supply chain management, raised $116M at a $3.7B valuation, up from $2.7B in January 2022 &lpar;CSCMP&#39;s Supply Chain Quarterly&rpar;](http://www.techmeme.com/230720/p25#a230720p25)
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [Dallas-based o9 Solutions, which offers AI-powered tools for supply chain management, raised $116M at a $3.7B valuation, up from $2.7B in January 2022 &lpar;CSCMP&#39;s Supply Chain Quarterly&rpar;](http://www.techmeme.com/230720/p25#a230720p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

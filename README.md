@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Competitors are on edge as Apple Pay Later surges in popularity](https://appleinsider.com/articles/23/07/20/competitors-are-on-edge-as-apple-pay-later-surges-in-popularity?utm_medium=rss)
+ - [In an internal policy memo following a May White House meeting, OpenAI supports the idea of requiring government licenses for development of advanced AI systems &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230720/p28#a230720p28)
+ - [Leaked Galaxy Watch 6 specs list a bigger screen and slimmer bezels](https://www.theverge.com/2023/7/20/23801892/samsung-galaxy-watch-6-leak-specs-display-size-bezel)
  - [Dolphin emulator gives up on Steam — but won&#39;t remove Wii decryption key](https://www.theverge.com/2023/7/20/22302205/dolphin-emulator-steam-legal-argument)
- - [Take 81% off a standalone Microsoft Office 2021 license for Windows or Mac](https://appleinsider.com/articles/23/07/20/take-81-off-a-standalone-microsoft-office-2021-license-for-windows-or-mac?utm_medium=rss)
- - [An Abandoned Arctic Military Base Just Spilled a Scientific Secret](https://www.wired.com/story/an-abandoned-arctic-military-base-just-spilled-a-scientific-secret/)
- - [The developers behind open-source GameCube and Wii emulator Dolphin drop plans to release it on Steam citing &quot;Nintendo&#39;s long-held stance on emulation&quot; &lpar;Dolphin Emulator&rpar;](http://www.techmeme.com/230720/p27#a230720p27)
- - [OpenAI adds opt-in &quot;custom instructions&quot;, or details ChatGPT should remember about a user, in beta to ChatGPT Plus subscribers everywhere but the UK and EU &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230720/p26#a230720p26)<!-- TECH:END -->
+ - [Take 81% off a standalone Microsoft Office 2021 license for Windows or Mac](https://appleinsider.com/articles/23/07/20/take-81-off-a-standalone-microsoft-office-2021-license-for-windows-or-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

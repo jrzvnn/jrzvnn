@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freedom of speech](http://9gag.com/gag/aEqEGKG)
- - 😝 [Art 101](http://9gag.com/gag/a8qzMWQ)
- - 💣 [The Barbie Movie We Wanted](http://9gag.com/gag/awZvKYW)
- - 😝 [Not a single doubt about it](http://9gag.com/gag/az2QVMN)
- - 👉 [Honest to god](http://9gag.com/gag/aeQWpAj)<!-- MEMES:END -->
+ - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 💣 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 😝 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 👉 [Congratulations!](http://9gag.com/gag/aXne992)<!-- MEMES:END -->
 
 ---
 </div>

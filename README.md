@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
  - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
  - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 💣 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
  - 👉 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)<!-- MEMES:END -->
 
 ---

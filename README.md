@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
  - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 💣 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 👉 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)<!-- MEMES:END -->
+ - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 👉 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)<!-- MEMES:END -->
 
 ---
 </div>

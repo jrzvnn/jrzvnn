@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple threatens to remove FaceTime and iMessage from the UK rather than weaken security under a proposed security bill amendment, dubbed a &quot;snooper&#39;s charter&quot; &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230720/p16#a230720p16)
+ - [Here’s why the best IMAX movies still need a Palm Pilot to work](https://www.theverge.com/23801118/imax-movie-palm-pilot-oppenheimer)
  - [Sources: North Korea-linked hackers breached JumpCloud in late June and used their access to target crypto clients; JumpCloud says &lt;5 customers were impacted &lpar;Reuters&rpar;](http://www.techmeme.com/230720/p15#a230720p15)
  - [TSMC delays Arizona plant, blames US labor shortage](https://appleinsider.com/articles/23/07/20/tsmc-delays-arizona-plant-blames-us-labor-shortage?utm_medium=rss)
- - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)
- - [Five apps that help you check your local air quality](https://www.theverge.com/23799364/air-quality-check-apps-ios-android)
- - [TSMC says its Arizona factory will miss its target of mass production of 4nm chips by 2024 due to US skilled worker shortages, aiming instead for 2025 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/230720/p14#a230720p14)<!-- TECH:END -->
+ - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

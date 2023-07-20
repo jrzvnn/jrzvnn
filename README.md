@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cartoon Network and Warner Bros. Animation workers are organizing to form a union](https://www.theverge.com/2023/7/20/23801897/cartoon-network-warner-bros-animation-union-tag)
+ - [NYPD Body Cam Data Shows the Scale of Violence Against Protesters](https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/)
  - [Lowest price in months on the Apple 1TB iPad Pro](https://www.androidauthority.com/apple-1tb-ipad-pro-deal-3347028/)
  - [The 14 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Meta is improving Quest VR hand tracking and adding system-level live captions](https://www.theverge.com/2023/7/20/23801987/meta-quest-vr-headset-hand-tracking-level-live-captions-v56-update)
- - [Save $50 on Apple&#39;s new Beats Studio Pro wireless headphones](https://appleinsider.com/articles/23/07/20/save-50-on-apples-new-beats-studio-pro-wireless-headphones?utm_medium=rss)
- - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)<!-- TECH:END -->
+ - [Meta is improving Quest VR hand tracking and adding system-level live captions](https://www.theverge.com/2023/7/20/23801987/meta-quest-vr-headset-hand-tracking-level-live-captions-v56-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

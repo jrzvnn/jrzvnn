@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
- - 💣 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 😝 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
+ - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
+ - 💣 [Buzz Aldrin reacts to being called a coward and a liar about walking on the moon](http://9gag.com/gag/aWG9Qeq)
  - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
  - 👉 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)<!-- MEMES:END -->
 

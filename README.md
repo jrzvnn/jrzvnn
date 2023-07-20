@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Britain has a massive floating cage where they keep asylum seekers. The government has awarded an Australian travel firm \u00a31.6bn contract for asylum barges and accommodation.](http://9gag.com/gag/a04wY4q)
- - 😝 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)
- - 💣 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 😝 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 👉 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)<!-- MEMES:END -->
+ - 😝 [Spider crawls in a guy\u2019s ear while he slept](http://9gag.com/gag/aMEy116)
+ - 😝 [Do you think fat people should pay more for airplane seats?](http://9gag.com/gag/aYVmjO2)
+ - 💣 [Right in the kisser](http://9gag.com/gag/awZvNbW)
+ - 😝 [Woman moment](http://9gag.com/gag/awZv0yR)
+ - 👉 [Audience gets trolled](http://9gag.com/gag/aYVmjY0)<!-- MEMES:END -->
 
 ---
 </div>

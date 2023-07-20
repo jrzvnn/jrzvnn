@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day pricing returns with $749 MacBook Air deal at Amazon](https://appleinsider.com/articles/23/07/20/prime-day-pricing-returns-with-749-macbook-air-deal-at-amazon?utm_medium=rss)
- - [The US Federal Reserve launches FedNow Service, its long-awaited real-time payments system, enabling individuals and businesses to instantly transfer money &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/230720/p21#a230720p21)
- - [How to use the new Reminders features in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-reminders-features-in-macos-sonoma?utm_medium=rss)
- - [The AI wars might have an armistice deal sooner than expected](https://www.theverge.com/2023/7/20/23800755/ai-meta-llama-microsoft-chatgpt-interoperability)
- - [YouTube increases the US price for YouTube Premium from $11.99 to $13.99 per month and for YouTube Music from $9.99 to $10.99 per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230720/p20#a230720p20)<!-- TECH:END -->
+ - [Google Messages signs onto cross-platform encrypted group chat standard](https://www.theverge.com/2023/7/20/23801536/google-messages-app-mls-support-announce)
+ - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)
+ - [Amazon plans to roll out its Amazon One palm scanning payment tech to all of its more than 500 Whole Foods Market stores in the US by the end of 2023 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230720/p22#a230720p22)
+ - [Shinichirō Watanabe is working on a new Adult Swim animated series](https://www.theverge.com/2023/7/20/23801621/shinichiro-watanabe-lazarus-adult-swim-chad-stahelski)
+ - [Prime Day pricing returns with $749 MacBook Air deal at Amazon](https://appleinsider.com/articles/23/07/20/prime-day-pricing-returns-with-749-macbook-air-deal-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AOC is going to stream on Twitch again](https://www.theverge.com/2023/7/20/23802389/aoc-twitch-stream-date-hasanabi)
  - [The Federal Reserve’s 24/7 payment system could deposit your paycheck instantly](https://www.theverge.com/2023/7/20/23802277/federal-reserve-fednow-instant-payment-service)
  - [Filing: the US FTC suspends its in-house trial against Microsoft&#39;s Activision Blizzard acquisition scheduled for August, opening the door to settlement talks &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230720/p32#a230720p32)
  - [Sources: China-linked hackers accessed the emails of the US ambassador to China and the assistant secretary of state for East Asia in a recent Microsoft breach &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p31#a230720p31)
- - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
- - [Feast your eyes on the first 11 minutes of the Pokémon Horizons dub](https://www.theverge.com/23802206/pokemon-horizons-san-diego-comic-con-trailer)<!-- TECH:END -->
+ - [Netflix Added 7.6M Accounts in Past Six Months Amid Password-Sharing Crackdown     - CNET](https://www.cnet.com/tech/services-and-software/netflix-added-7-6m-accounts-in-last-six-months-amid-password-sharing-crackdown/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

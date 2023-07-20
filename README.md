@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
  - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
  - 💣 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - 😝 [For me it would be hiking in the desert in summer](http://9gag.com/gag/a4oV43p)
+ - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
  - 👉 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)<!-- MEMES:END -->
 
 ---

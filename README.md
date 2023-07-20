@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
+ - [Good luck getting a iPhone 15 Pro/Pro Max, there may be a shortage at launch](https://www.androidauthority.com/iphone-15-pro-max-shortage-3346984/)
  - [Competitors are on edge as Apple Pay Later surges in popularity](https://appleinsider.com/articles/23/07/20/competitors-are-on-edge-as-apple-pay-later-surges-in-popularity?utm_medium=rss)
  - [In an internal policy memo following a May White House meeting, OpenAI supports the idea of requiring government licenses for development of advanced AI systems &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230720/p28#a230720p28)
- - [Leaked Galaxy Watch 6 specs list a bigger screen and slimmer bezels](https://www.theverge.com/2023/7/20/23801892/samsung-galaxy-watch-6-leak-specs-display-size-bezel)
- - [Dolphin emulator gives up on Steam — but won&#39;t remove Wii decryption key](https://www.theverge.com/2023/7/20/22302205/dolphin-emulator-steam-legal-argument)
- - [Take 81% off a standalone Microsoft Office 2021 license for Windows or Mac](https://appleinsider.com/articles/23/07/20/take-81-off-a-standalone-microsoft-office-2021-license-for-windows-or-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked Galaxy Watch 6 specs list a bigger screen and slimmer bezels](https://www.theverge.com/2023/7/20/23801892/samsung-galaxy-watch-6-leak-specs-display-size-bezel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

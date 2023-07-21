@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Oppenheimer&#39; Is Out, but You Can Stream More Christopher Nolan Movies     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-is-out-but-you-can-stream-more-christopher-nolan-movies/#ftag=CAD590a51e)
+ - [Spider-Man 2 Limited Edition PS5 Swinging Into Stores in September     - CNET](https://www.cnet.com/tech/gaming/spider-man-2-limited-edition-ps5-swinging-into-stores-in-september/#ftag=CAD590a51e)
+ - [Spotify Could Be Increasing Prices Next Week, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/spotify-could-be-increasing-prices-next-week-report-says/#ftag=CAD590a51e)
  - [Court filing: Heather &quot;Razzlekhan&quot; Morgan and Ilya Lichtenstein reach a plea deal over allegedly laundering billions in cryptocurrency from Bitfinex&#39;s 2016 hack &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230721/p18#a230721p18)
- - [&#39;La Maison&#39; on Apple TV+ sets the stage for French high fashion](https://appleinsider.com/articles/23/07/21/la-maison-on-apple-tv-sets-the-stage-for-french-high-fashion?utm_medium=rss)
- - [OpenAI plans to release ChatGPT for Android next week, after launching an iOS app in May 2023 &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230721/p17#a230721p17)
- - [Spotify raising premium plan prices in US to try to stay profitable](https://appleinsider.com/articles/23/07/21/spotify-raising-premium-plan-prices-in-us-to-try-to-stay-profitable?utm_medium=rss)
- - [Spotify’s first US price hike for Premium is coming next week](https://www.theverge.com/2023/7/21/23803479/spotify-premium-price-raise-hike)<!-- TECH:END -->
+ - [&#39;Special Ops: Lioness&#39; -- Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/special-ops-lioness-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

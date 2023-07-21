@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)
  - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 💣 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
+ - 😝 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
+ - 💣 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)<!-- MEMES:END -->
+ - 👉 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)<!-- MEMES:END -->
 
 ---
 </div>

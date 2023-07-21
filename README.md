@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Their next job was to build the Titan](http://9gag.com/gag/a2KGmdY)
- - 😝 [Congratulations!](http://9gag.com/gag/aXne992)
- - 💣 [I think i missed that episode](http://9gag.com/gag/anzVNL5)
- - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
- - 👉 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)<!-- MEMES:END -->
+ - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
+ - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
+ - 💣 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
+ - 😝 [All this while\u2026](http://9gag.com/gag/aGEbRB7)
+ - 👉 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)<!-- MEMES:END -->
 
 ---
 </div>

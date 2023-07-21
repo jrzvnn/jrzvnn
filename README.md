@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)
  - [OpenAI loses its trust and safety leader](https://www.theverge.com/2023/7/21/23802999/openai-trust-safety-out-privacy)
  - [Telegram adds Stories for Premium subscribers](https://www.theverge.com/2023/7/21/23802854/telegram-stories-premium-feature-picture-video-posts)
- - [Stardew Valley Plus Blossoms Onto Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/stardew-valley-plus-blossoms-onto-apple-arcade/#ftag=CAD590a51e)
- - [Google co-founder comes back to company to bolster its AI efforts](https://www.androidauthority.com/google-ai-sergey-brin-3347338/)
- - [Amazon settles with the US DOJ and the FTC for $25M over not complying with parents&#39; requests to delete their kids&#39; Alexa voice recordings and geolocation data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230721/p11#a230721p11)<!-- TECH:END -->
+ - [Fire Pit Essential Bundles From Solo Stove Are Up to 45% Off Right Now     - CNET](https://www.cnet.com/deals/fire-pit-essential-bundles-from-solo-stove-are-up-to-45-off-right-now/#ftag=CAD590a51e)
+ - [Stardew Valley Plus Blossoms Onto Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/stardew-valley-plus-blossoms-onto-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

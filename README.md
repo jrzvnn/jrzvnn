@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bose buds return to their Prime Day price](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-deal-3347394/)
+ - [How to fix an iPod that won&#39;t sync with macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-fix-an-ipod-that-wont-sync-with-macos-ventura?utm_medium=rss)
  - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
  - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)
- - [OpenAI loses its trust and safety leader](https://www.theverge.com/2023/7/21/23802999/openai-trust-safety-out-privacy)
- - [Telegram adds Stories for Premium subscribers](https://www.theverge.com/2023/7/21/23802854/telegram-stories-premium-feature-picture-video-posts)<!-- TECH:END -->
+ - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

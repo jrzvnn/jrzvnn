@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idiot](http://9gag.com/gag/ay2PLxV)
- - 😝 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 💣 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)
- - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - 👉 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)<!-- MEMES:END -->
+ - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - 😝 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 💣 [This one goes out to that one guy who said I should keep on posting my paintings . So here\u2019s my latest painting](http://9gag.com/gag/aNw3W7r)
+ - 😝 [And we are the clowns](http://9gag.com/gag/a3Zn7Nm)
+ - 👉 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)<!-- MEMES:END -->
 
 ---
 </div>

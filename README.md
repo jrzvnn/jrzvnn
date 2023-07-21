@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - 💣 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
+ - 😝 [Story with a twist](http://9gag.com/gag/adPb7bB)
+ - 😝 [Finally a solution!](http://9gag.com/gag/aVbBqAy)
+ - 💣 [Quick flashbang](http://9gag.com/gag/a2KGrzY)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
+ - 👉 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)<!-- MEMES:END -->
 
 ---
 </div>

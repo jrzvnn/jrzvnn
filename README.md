@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)
- - 😝 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 💣 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)
+ - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
+ - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)<!-- MEMES:END -->
+ - 👉 [How to stop crimes](http://9gag.com/gag/aMEyGYG)<!-- MEMES:END -->
 
 ---
 </div>

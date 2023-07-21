@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Trackers &lpar;2023&rpar;: GPS, Bluetooth, Wi-Fi, and Cellular](https://www.wired.com/gallery/best-trackers/)
+ - [Your favorite TV rewatch podcast is on strike, too](https://www.theverge.com/2023/7/21/23802412/tv-rewatch-podcasts-sag-strike-hollywood-strike)
+ - [Samsung Galaxy Unpacked July 2023: all the latest news and rumors](https://www.theverge.com/23802344/samsung-galaxy-unpacked-july-2023-news)
  - [AppleGPT, killing an Apple TV, and praising Apple Maps on the AppleInsider podcast](https://appleinsider.com/articles/23/07/21/applegpt-killing-an-apple-tv-and-praising-apple-maps-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)
- - [What is Reddit’s CEO Steve Huffman doing?](https://www.theverge.com/23802373/reddit-ipo-valuation-moderation-ceo)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Almost 50 Years Into the Crypto Wars, Encryption’s Opponents Are Still Wrong](https://www.wired.com/story/plaintext-50-years-into-the-crypto-wars-encryptions-opponents-are-still-wrong/)<!-- TECH:END -->
+ - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

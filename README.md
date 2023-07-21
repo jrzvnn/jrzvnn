@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [8 year old girl asks Buzz Adrin \u201cWhy has nobody been to the moon in such a long time?\u201d\u2026](http://9gag.com/gag/a7qA5GL)
- - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
- - 💣 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - 👉 [Wow, I&#39;ve never seen a complete, uncensored murder on live television! Camera man couldn&#39;t give a damn anymore! LOL](http://9gag.com/gag/aDYM0VG)<!-- MEMES:END -->
+ - 😝 [A shark chases a boat with a turtle in the mouth. Crew gets interested and allows the shark to approach. The shark is... practically delivering the turtle to them. The Turtle has a rope around its neck, suffocating. Did the shark deliver the turtle so it will be saved?](http://9gag.com/gag/aZDvBP0)
+ - 💣 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
+ - 😝 [I think i missed that episode](http://9gag.com/gag/anzVNL5)
+ - 👉 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)<!-- MEMES:END -->
 
 ---
 </div>

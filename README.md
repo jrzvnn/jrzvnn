@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think i missed that episode](http://9gag.com/gag/anzVNL5)
- - 😝 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 💣 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
- - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
+ - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 😝 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)
+ - 💣 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)
+ - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
+ - 👉 [Art 101](http://9gag.com/gag/a8qzMWQ)<!-- MEMES:END -->
 
 ---
 </div>

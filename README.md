@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Troy Hunt: sensitive info of ~4,000 people who attended Roblox Developer Conference between 2017-2020 was leaked in 2021; Roblox disclosed the leak just now &lpar;Rich Stanton/PC Gamer&rpar;](http://www.techmeme.com/230721/p9#a230721p9)
+ - [Hisense’s ultra-bright U8H TV is beating its Prime Day price at Amazon](https://www.theverge.com/tech/2023/7/21/23801768/hisense-u8h-tv-amazon-fire-tv-stick-4k-max-macbook-air-m1-deal-sale)
  - [7 Best Trackers &lpar;2023&rpar;: GPS, Bluetooth, Wi-Fi, and Cellular](https://www.wired.com/gallery/best-trackers/)
  - [Your favorite TV rewatch podcast is on strike, too](https://www.theverge.com/2023/7/21/23802412/tv-rewatch-podcasts-sag-strike-hollywood-strike)
- - [Samsung Galaxy Unpacked July 2023: all the latest news and rumors](https://www.theverge.com/23802344/samsung-galaxy-unpacked-july-2023-news)
- - [AppleGPT, killing an Apple TV, and praising Apple Maps on the AppleInsider podcast](https://appleinsider.com/articles/23/07/21/applegpt-killing-an-apple-tv-and-praising-apple-maps-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked July 2023: all the latest news and rumors](https://www.theverge.com/23802344/samsung-galaxy-unpacked-july-2023-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

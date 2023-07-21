@@ -148,9 +148,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [OPPO Find N3 could come to America, sort of](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3347411/)
  - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
+ - [Grab a GoPro Hero 11 Black Mini at Half-Price &lpar;Save $200&rpar;     - CNET](https://www.cnet.com/deals/grab-a-gopro-hero-11-black-mini-at-half-price-save-200/#ftag=CAD590a51e)
  - [PS5 Pro: Release date, rumors, price, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [Those weird mobile games are now on the Switch &lpar;sorta&rpar;](https://www.theverge.com/2023/7/21/23803140/mobile-game-ad-minigames-nintendo-switch)
- - [The best Bose buds return to their Prime Day price](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-deal-3347394/)<!-- TECH:END -->
+ - [Those weird mobile games are now on the Switch &lpar;sorta&rpar;](https://www.theverge.com/2023/7/21/23803140/mobile-game-ad-minigames-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

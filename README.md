@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PS5 Pro: Release date, rumors, price, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
+ - [Those weird mobile games are now on the Switch &lpar;sorta&rpar;](https://www.theverge.com/2023/7/21/23803140/mobile-game-ad-minigames-nintendo-switch)
  - [The best Bose buds return to their Prime Day price](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-deal-3347394/)
  - [How to fix an iPod that won&#39;t sync with macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-fix-an-ipod-that-wont-sync-with-macos-ventura?utm_medium=rss)
- - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
- - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)<!-- TECH:END -->
+ - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

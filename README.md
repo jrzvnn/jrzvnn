@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple employee misses out on $10,000 bug bounty from Google](https://appleinsider.com/articles/23/07/21/apple-employee-misses-out-on-10000-bug-bounty-from-google?utm_medium=rss)
  - [T-Core Power Bank review: Tiny design with mighty compatibility](https://appleinsider.com/articles/23/07/21/t-core-power-bank-review-tiny-design-with-mighty-compatibility?utm_medium=rss)
  - [A Leaked Memo Shows TikTok Knows It Has a Labor Problem](https://www.wired.com/story/tiktok-leaked-documents/)
  - [This Startup Wants to Give Farmers a Closer Look at Crops—From Space](https://www.wired.com/story/this-startup-wants-to-give-farmers-a-closer-look-at-crops-from-space/)
- - [‘Barbenheimer’ Signals the Start of Hollywood’s Apocalypse](https://www.wired.com/story/barbie-oppenheimer-barbenheimer-hollywood-future/)
- - [Google now hikes prices for YouTube Premium too](https://appleinsider.com/articles/23/07/21/google-now-hikes-prices-for-youtube-premium-too?utm_medium=rss)<!-- TECH:END -->
+ - [‘Barbenheimer’ Signals the Start of Hollywood’s Apocalypse](https://www.wired.com/story/barbie-oppenheimer-barbenheimer-hollywood-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

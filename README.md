@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
  - 😝 [Best discussion ever](http://9gag.com/gag/aVbBedP)
+ - 😝 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
  - 💣 [Idiot](http://9gag.com/gag/ay2PLxV)
  - 😝 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 👉 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
+ - 👉 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)<!-- MEMES:END -->
 
 ---
 </div>

@@ -148,7 +148,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Filing: Heather Morgan, aka Razzlekhan, and Ilya Lichtenstein reach a plea deal over allegedly laundering billions in cryptocurrency from the 2016 Bitfinex hack &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230721/p18#a230721p18)
  - [&#39;La Maison&#39; on Apple TV+ sets the stage for French high fashion](https://appleinsider.com/articles/23/07/21/la-maison-on-apple-tv-sets-the-stage-for-french-high-fashion?utm_medium=rss)
- - [OpenAI plans to release the Android version of its ChatGPT app next week, after launching on iOS in May &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230721/p17#a230721p17)
+ - [OpenAI plans to release ChatGPT for Android next week, after launching an iOS app in May 2023 &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230721/p17#a230721p17)
  - [Spotify raising premium plan prices in US to try to stay profitable](https://appleinsider.com/articles/23/07/21/spotify-raising-premium-plan-prices-in-us-to-try-to-stay-profitable?utm_medium=rss)
  - [Spotify’s first US price hike for Premium is coming next week](https://www.theverge.com/2023/7/21/23803479/spotify-premium-price-raise-hike)<!-- TECH:END -->
 

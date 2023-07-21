@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;La Maison&#39; on Apple TV+ sets the stage for French high fashion](https://appleinsider.com/articles/23/07/21/la-maison-on-apple-tv-sets-the-stage-for-french-high-fashion?utm_medium=rss)
+ - [OpenAI plans to release the Android version of its ChatGPT app next week, after launching on iOS in May &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230721/p17#a230721p17)
  - [Spotify raising premium plan prices in US to try to stay profitable](https://appleinsider.com/articles/23/07/21/spotify-raising-premium-plan-prices-in-us-to-try-to-stay-profitable?utm_medium=rss)
  - [Spotify’s first US price hike for Premium is coming next week](https://www.theverge.com/2023/7/21/23803479/spotify-premium-price-raise-hike)
- - [FTC May Drop Case Against Microsoft and Activision&#39;s $69B Deal: What This Means for Gamers     - CNET](https://www.cnet.com/tech/gaming/ftc-may-drop-case-against-microsoft-and-activision-69b-deal-what-this-means-for-gamers/#ftag=CAD590a51e)
- - [ChatGPT for Android launches next week](https://www.theverge.com/2023/7/21/23803482/chatgpt-android-artificial-intelligence-chatbot-app)
- - [Samsung leaks that Apple is still working on an all-screen foldable MacBook Pro](https://appleinsider.com/articles/23/07/21/samsung-spills-the-beans-apple-is-still-working-on-an-all-screen-foldable-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT for Android launches next week](https://www.theverge.com/2023/7/21/23803482/chatgpt-android-artificial-intelligence-chatbot-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

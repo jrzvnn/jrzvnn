@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
+ - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
  - [The New York MTA says it has used AI-powered surveillance software at seven subway stations in May to track fare evaders, plans to expand to ~12 more this year &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230721/p12#a230721p12)
  - [OpenAI loses its trust and safety leader](https://www.theverge.com/2023/7/21/23802999/openai-trust-safety-out-privacy)
- - [Telegram adds Stories for Premium subscribers](https://www.theverge.com/2023/7/21/23802854/telegram-stories-premium-feature-picture-video-posts)
- - [Fire Pit Essential Bundles From Solo Stove Are Up to 45% Off Right Now     - CNET](https://www.cnet.com/deals/fire-pit-essential-bundles-from-solo-stove-are-up-to-45-off-right-now/#ftag=CAD590a51e)
- - [Stardew Valley Plus Blossoms Onto Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/stardew-valley-plus-blossoms-onto-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram adds Stories for Premium subscribers](https://www.theverge.com/2023/7/21/23802854/telegram-stories-premium-feature-picture-video-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

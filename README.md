@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Giants Pledge to Allow External Probes of Their Algorithms, Under a New White House Pact](https://www.wired.com/story/ai-giants-pledge-external-probes-algorithms-white-house/)
  - [Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly](https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety)
  - [A look at Samsung&#39;s and Texas Instruments&#39; chip fabs in Texas, as the state becomes a US chipmaking hub with six projects totaling $61B and creating 8K+ jobs &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230721/p2#a230721p2)
  - [We asked, you told us: You think Reddit’s contributor program is a bad idea](https://www.androidauthority.com/reddit-contributor-program-poll-results-3347175/)
- - [Cowboy insists it’s not the next VanMoof as it raises prices to ‘stay healthy’](https://www.theverge.com/2023/7/21/23801720/cowboy-profit-next-vanmoof-bankrupt)
- - [Motorola Razr Plus breaks in the strangest way during durability test](https://www.androidauthority.com/motorola-razr-plus-durability-test-3347176/)<!-- TECH:END -->
+ - [Cowboy insists it’s not the next VanMoof as it raises prices to ‘stay healthy’](https://www.theverge.com/2023/7/21/23801720/cowboy-profit-next-vanmoof-bankrupt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

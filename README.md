@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to install the watchOS 10 public beta](https://www.theverge.com/23802205/watchos-10-beta-install-how-to)
+ - [There’s never been a better time to buy an SSD for your PC or PS5](https://www.theverge.com/2023/7/21/23801960/pc-ssd-ps5-m2-nvme-price-drop-discounts-sale)
+ - [The Galaxy S24 series might not get a selfie camera upgrade](https://www.androidauthority.com/samsung-galaxy-s24-series-selfie-camera-leak-3347284/)
  - [OpenAI&#39;s head of trust and safety Dave Willner leaves OpenAI citing the pressures of the job on his family life and says he would be available for advisory work &lpar;Reuters&rpar;](http://www.techmeme.com/230721/p8#a230721p8)
- - [Apple makes choosing an Apple Watch easier in an online store revamp](https://appleinsider.com/articles/23/07/21/apple-makes-choosing-an-apple-watch-easier-in-an-online-store-revamp?utm_medium=rss)
- - [How to find your forgotten Gmail accounts](https://www.theverge.com/23801642/gmail-accounts-lost-forgotten-recovery-how-to)
- - [Telegram launches Stories for its Premium users, letting users control who can see their stories and how long they last before disappearing &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230721/p7#a230721p7)
- - [Coravin Sparkling Review: Now You Can Save Your Bubbles Too](https://www.wired.com/review/coravin-sparkling/)<!-- TECH:END -->
+ - [Apple makes choosing an Apple Watch easier in an online store revamp](https://appleinsider.com/articles/23/07/21/apple-makes-choosing-an-apple-watch-easier-in-an-online-store-revamp?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

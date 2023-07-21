@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Spotify plans to raise the price of its ad-free premium tier in the US by $1 to $10.99/month and plans price increases globally in the coming months &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/230721/p15#a230721p15)
  - [Digital World Acquisition Corp., which is seeking to take Truth Social public via a SPAC merger, settles fraud charges with the US SEC for $18M; DWAC is up 50%+ &lpar;Julie Coleman/CNBC&rpar;](http://www.techmeme.com/230721/p14#a230721p14)
  - [How to use iPad as a portable screen for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
  - [Apple&#39;s M2 Max MacBook Pro with 64GB RAM gets $300 price drop, plus $80 off AppleCare](https://appleinsider.com/articles/23/07/21/apples-m2-max-macbook-pro-with-64gb-ram-gets-300-price-drop-plus-80-off-applecare?utm_medium=rss)
- - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 41 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

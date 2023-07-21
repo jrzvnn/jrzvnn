@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analogue will start shipping more Pocket preorders in August](https://www.theverge.com/2023/7/21/23803298/analogue-pocket-preorder-shipping)
  - [How to use iPad as a portable monitor for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
  - [Disney’s new vision for ESPN might include part ownership by the NBA, NFL](https://www.theverge.com/2023/7/21/23803284/disney-espn-nba-nfl-streaming-sports-cable-tv)
  - [T-Mobile’s charging an extra $5 plus tax for paying your phone bill in-store](https://www.theverge.com/2023/7/21/23802986/t-mobile-in-store-bill-payment-fee-wireless-carrier)
- - [How Vietnam&#39;s 1Byte, the startup behind TheTruthSpy stalkerware, created fake sellers networks with forged US passports to evade detection and funnel payments &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230721/p13#a230721p13)
- - [Meta, Google, and OpenAI reveal their safety plans following White House summit](https://www.theverge.com/2023/7/21/23803244/meta-google-openai-microsoft-artificial-intelligence-ai-white-house-commitments)<!-- TECH:END -->
+ - [How Vietnam&#39;s 1Byte, the startup behind TheTruthSpy stalkerware, created fake sellers networks with forged US passports to evade detection and funnel payments &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230721/p13#a230721p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

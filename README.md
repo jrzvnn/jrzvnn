@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - 😝 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - 💣 [A shark chases a boat with a turtle in the mouth. Crew gets interested and allows the shark to approach. The shark is... practically delivering the turtle to them. The Turtle has a rope around its neck, suffocating. Did the shark deliver the turtle so it will be saved?](http://9gag.com/gag/aZDvBP0)
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 👉 [Bro got flashbanged](http://9gag.com/gag/aBdo1RN)<!-- MEMES:END -->
+ - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
+ - 😝 [A shark chases a boat with a turtle in the mouth. Crew gets interested and allows the shark to approach. The shark is... practically delivering the turtle to them. The Turtle has a rope around its neck, suffocating. Did the shark deliver the turtle so it will be saved?](http://9gag.com/gag/aZDvBP0)
+ - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 😝 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
+ - 👉 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)<!-- MEMES:END -->
 
 ---
 </div>

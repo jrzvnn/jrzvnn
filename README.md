@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
- - 😝 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
- - 💣 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 😝 [Best discussion ever](http://9gag.com/gag/aVbBedP)
+ - 💣 [Idiot](http://9gag.com/gag/ay2PLxV)
  - 😝 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 👉 [Best discussion ever](http://9gag.com/gag/aVbBedP)<!-- MEMES:END -->
+ - 👉 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
 
 ---
 </div>

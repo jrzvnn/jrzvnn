@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple threatens to kill iMessage &amp; FaceTime in UK if controversial law passes](https://appleinsider.com/articles/23/07/20/apple-threatens-to-kill-imessage-facetime-in-uk-if-controversial-law-passes?utm_medium=rss)
  - [What is Reddit’s CEO Steve Huffman doing?](https://www.theverge.com/23802373/reddit-ipo-valuation-moderation-ceo)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
  - [Almost 50 Years Into the Crypto Wars, Encryption’s Opponents Are Still Wrong](https://www.wired.com/story/plaintext-50-years-into-the-crypto-wars-encryptions-opponents-are-still-wrong/)
- - [Sony Xperia 1 V Review: This Phone Is Still Too Expensive](https://www.wired.com/review/sony-xperia-1-v/)
- - [How to install the watchOS 10 public beta](https://www.theverge.com/23802205/watchos-10-beta-install-how-to)<!-- TECH:END -->
+ - [Sony Xperia 1 V Review: This Phone Is Still Too Expensive](https://www.wired.com/review/sony-xperia-1-v/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

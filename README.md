@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google co-founder comes back to company to bolster its AI efforts](https://www.androidauthority.com/google-ai-sergey-brin-3347338/)
+ - [Amazon settles with the US DOJ and the FTC for $25M over not complying with parents&#39; requests to delete their kids&#39; Alexa voice recordings and geolocation data &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230721/p11#a230721p11)
+ - [Unbelievable price crash on the WD 500GB My Passport SSD](https://www.androidauthority.com/wd-500gb-my-passport-ssd-deal-3347346/)
  - [Amazon is spending $120 million on a building for its internet satellites](https://www.theverge.com/2023/7/21/23802914/amazon-project-kuiper-satellites-florida-kennedy-space-center)
- - [Lowest price ever: 16-inch MacBook Pro with 32GB RAM plunges to $1,849, plus $80 off AppleCare](https://appleinsider.com/articles/23/06/14/lowest-price-ever-16-inch-macbook-pro-with-32gb-ram-plunges-to-1849-plus-80-off-applecare?utm_medium=rss)
- - [Pokémon Sleep is a snooze](https://www.theverge.com/23802801/pokemon-sleep-iphone-android-hands-on)
- - [The NYC subway is using automated scanning software to spot fare evaders](https://www.theverge.com/2023/7/21/23802912/mta-nyc-subway-ai-scanning-software-fare-evasion)
- - [Sources: the US SEC subpoenaed Bolt and sent a notice to former CEO Ryan Breslow last year over past misleading statements to current and potential investors &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230721/p10#a230721p10)<!-- TECH:END -->
+ - [Lowest price ever: 16-inch MacBook Pro with 32GB RAM plunges to $1,849, plus $80 off AppleCare](https://appleinsider.com/articles/23/06/14/lowest-price-ever-16-inch-macbook-pro-with-32gb-ram-plunges-to-1849-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

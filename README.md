@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan work culture &lpar;source: Sora the Troll&rpar;](http://9gag.com/gag/a1PwdvG)
- - 😝 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)
- - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
- - 😝 [Guy on the right just killed a child molester/ football coach &lpar;who also molested him as a child&rpar; with an axe. Happened in Lichtenstein, Germany.](http://9gag.com/gag/a8qzM6V)
- - 👉 [Mom I found her](http://9gag.com/gag/a7qAZbz)<!-- MEMES:END -->
+ - 😝 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
+ - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 👉 [Idiot](http://9gag.com/gag/ay2PLxV)<!-- MEMES:END -->
 
 ---
 </div>

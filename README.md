@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What My Solitary Confinement in Iran Revealed About the Dangers of an Isolated Internet](https://www.wired.com/story/information-truth-personalization/)
+ - [The New Minstrels Are Here](https://www.wired.com/story/new-minstrels-generative-ai/)
+ - [Marvel brings first three episodes of Disney Plus’ Secret Invasion to Hulu](https://www.theverge.com/2023/7/21/23802733/secret-invasion-hulu-disney-plus)
  - [Reddit removes the moderators of r/malefashionadvice, one of the biggest subreddits to close protesting Reddit&#39;s API changes, and takes charge of the subreddit &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230721/p4#a230721p4)
- - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
- - [iPhone 15 launch may be delayed by weeks, claims analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)
- - [OpenAI, Meta, Google, Microsoft, and others make voluntary AI governance pledges to the White House, including cybersecurity investment and watermarking systems &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230721/p3#a230721p3)
- - [AI Giants Pledge to Allow External Probes of Their Algorithms, Under a New White House Pact](https://www.wired.com/story/ai-giants-pledge-external-probes-algorithms-white-house/)<!-- TECH:END -->
+ - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

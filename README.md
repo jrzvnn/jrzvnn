@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US SEC subpoenaed Bolt and sent a notice to former CEO Ryan Breslow last year over past misleading statements to current and potential investors &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230721/p10#a230721p10)
- - [Apple makes choosing an Apple Watch easier in an online store revamp](https://appleinsider.com/articles/23/07/21/apple-makes-choosing-an-apple-watch-easier-in-an-online-store-revamp?utm_medium=rss)
- - [Air India is seeking greater collaboration with Apple -- but for what?](https://appleinsider.com/articles/23/07/21/air-india-is-seeking-greater-collaboration-with-apple----but-for-what?utm_medium=rss)
- - [An influencer’s guide to the writers and actors strikes](https://www.theverge.com/23802895/sag-aftra-writers-guild-strikes-hollywood-influencer-rules)
- - [Snag a New Mattress During DreamCloud&#39;s 50% Off Flash Sale     - CNET](https://www.cnet.com/deals/snag-a-new-mattress-during-dreamclouds-50-off-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is spending $120 million on a building for its internet satellites](https://www.theverge.com/2023/7/21/23802914/amazon-project-kuiper-satellites-florida-kennedy-space-center)
+ - [Lowest price ever: 16-inch MacBook Pro with 32GB RAM plunges to $1,849, plus $80 off AppleCare](https://appleinsider.com/articles/23/06/14/lowest-price-ever-16-inch-macbook-pro-with-32gb-ram-plunges-to-1849-plus-80-off-applecare?utm_medium=rss)
+ - [Pokémon Sleep is a snooze](https://www.theverge.com/23802801/pokemon-sleep-iphone-android-hands-on)
+ - [The NYC subway is using automated scanning software to spot fare evaders](https://www.theverge.com/2023/7/21/23802912/mta-nyc-subway-ai-scanning-software-fare-evasion)
+ - [Sources: the US SEC subpoenaed Bolt and sent a notice to former CEO Ryan Breslow last year over past misleading statements to current and potential investors &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230721/p10#a230721p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

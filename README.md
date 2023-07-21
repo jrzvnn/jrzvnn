@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
  - 😝 [Idiot](http://9gag.com/gag/ay2PLxV)
- - 💣 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
+ - 😝 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - 💣 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)
  - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - 👉 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)<!-- MEMES:END -->
+ - 👉 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
- - 😝 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
- - 💣 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 😝 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
+ - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
  - 👉 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)<!-- MEMES:END -->
 

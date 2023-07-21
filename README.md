@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
+ - 😝 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
  - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Congratulations!](http://9gag.com/gag/aXne992)<!-- MEMES:END -->
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 </div>

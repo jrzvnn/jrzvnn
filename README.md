@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use iPad as a portable screen for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
  - [Apple&#39;s M2 Max MacBook Pro with 64GB RAM gets $300 price drop, plus $80 off AppleCare](https://appleinsider.com/articles/23/07/21/apples-m2-max-macbook-pro-with-64gb-ram-gets-300-price-drop-plus-80-off-applecare?utm_medium=rss)
  - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 41 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Analogue will start shipping more Pocket preorders in August](https://www.theverge.com/2023/7/21/23803298/analogue-pocket-preorder-shipping)
- - [How to use iPad as a portable monitor for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)<!-- TECH:END -->
+ - [Analogue will start shipping more Pocket preorders in August](https://www.theverge.com/2023/7/21/23803298/analogue-pocket-preorder-shipping)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

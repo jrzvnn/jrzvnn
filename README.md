@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung leaks that Apple is still working on an all-screen foldable MacBook Pro](https://appleinsider.com/articles/23/07/21/samsung-spills-the-beans-apple-is-still-working-on-an-all-screen-foldable-macbook-pro?utm_medium=rss)
  - [‘Now I Am Become Death, the Destroyer of Worlds.’ The Story of Oppenheimer’s Infamous Quote](https://www.wired.com/story/manhattan-project-robert-oppenheimer/)
  - [Reddit expanded the r/Place canvas, and users immediately wrote messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
  - [Sources: Amazon will require some remote corporate employees to relocate as part of a mandate requiring workers to be in the office three days a week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230721/p16#a230721p16)
- - [Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles](https://www.theverge.com/2023/7/21/23802957/tesla-fsd-transfer-offer-q2)
- - [Google, Microsoft, and more commit to AI safety at White House, Apple absent](https://www.androidauthority.com/ai-development-white-house-apple-3347464/)<!-- TECH:END -->
+ - [Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles](https://www.theverge.com/2023/7/21/23802957/tesla-fsd-transfer-offer-q2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

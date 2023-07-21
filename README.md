@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
  - 😝 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
- - 💣 [Mom I found her](http://9gag.com/gag/a7qAZbz)
- - 😝 [Scientists have found a beetle that can survive being eaten by a frog](http://9gag.com/gag/a8qzp4V)
- - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/a2KGPEd)
+ - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
+ - 👉 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)<!-- MEMES:END -->
 
 ---
 </div>

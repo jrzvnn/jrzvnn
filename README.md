@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US SEC subpoenaed Bolt and sent a notice to former CEO Ryan Breslow last year over past misleading statements to current and potential investors &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230721/p10#a230721p10)
+ - [Apple makes choosing an Apple Watch easier in an online store revamp](https://appleinsider.com/articles/23/07/21/apple-makes-choosing-an-apple-watch-easier-in-an-online-store-revamp?utm_medium=rss)
+ - [Air India is seeking greater collaboration with Apple -- but for what?](https://appleinsider.com/articles/23/07/21/air-india-is-seeking-greater-collaboration-with-apple----but-for-what?utm_medium=rss)
  - [An influencer’s guide to the writers and actors strikes](https://www.theverge.com/23802895/sag-aftra-writers-guild-strikes-hollywood-influencer-rules)
- - [Daily deals: $1,400 off M1 Max MacBook Pro, up to 48% off Beats, $60 off Apple Watch SE, more](https://appleinsider.com/articles/23/07/21/daily-deals-1400-off-m1-max-macbook-pro-up-to-48-off-beats-60-off-apple-watch-se-more?utm_medium=rss)
- - [Troy Hunt: sensitive info of ~4,000 people who attended Roblox Developer Conference between 2017-2020 was leaked in 2021; Roblox disclosed the leak just now &lpar;Rich Stanton/PC Gamer&rpar;](http://www.techmeme.com/230721/p9#a230721p9)
- - [Hisense’s ultra-bright U8H TV is beating its Prime Day price at Amazon](https://www.theverge.com/tech/2023/7/21/23801768/hisense-u8h-tv-amazon-fire-tv-stick-4k-max-macbook-air-m1-deal-sale)
- - [7 Best Trackers &lpar;2023&rpar;: GPS, Bluetooth, Wi-Fi, and Cellular](https://www.wired.com/gallery/best-trackers/)<!-- TECH:END -->
+ - [Daily deals: $1,400 off M1 Max MacBook Pro, up to 48% off Beats, $60 off Apple Watch SE, more](https://appleinsider.com/articles/23/07/21/daily-deals-1400-off-m1-max-macbook-pro-up-to-48-off-beats-60-off-apple-watch-se-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

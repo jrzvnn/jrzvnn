@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coravin Sparkling Review: Now You Can Save Your Bubbles Too](https://www.wired.com/review/coravin-sparkling/)
+ - [Jackery Explorer 2000 Plus Review: Dependable And Portable](https://www.wired.com/review/jackery-explorer-2000-plus/)
+ - [Samsung Galaxy Unpacked: how to watch and what to expect](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)
  - [Sensor Tower: Threads&#39; DAUs declined to 13M, down 70% from the July 7 peak; Similarweb: average time spend on Threads&#39; app declined to four mins, down from 19 &lpar;Lindsey Choo/Wall Street Journal&rpar;](http://www.techmeme.com/230721/p6#a230721p6)
- - [Telegram now has Stories, but only Premium users can post one](https://www.androidauthority.com/telegram-premium-stories-rollout-3347204/)
- - [Apple employee misses out on $10,000 bug bounty from Google](https://appleinsider.com/articles/23/07/21/apple-employee-misses-out-on-10000-bug-bounty-from-google?utm_medium=rss)
- - [T-Core Power Bank review: Tiny design with mighty compatibility](https://appleinsider.com/articles/23/07/21/t-core-power-bank-review-tiny-design-with-mighty-compatibility?utm_medium=rss)
- - [A Leaked Memo Shows TikTok Knows It Has a Labor Problem](https://www.wired.com/story/tiktok-leaked-documents/)<!-- TECH:END -->
+ - [Telegram now has Stories, but only Premium users can post one](https://www.androidauthority.com/telegram-premium-stories-rollout-3347204/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

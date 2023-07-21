@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coravin Sparkling Review: Now You Can Save Your Bubbles Too](https://www.wired.com/review/coravin-sparkling/)
- - [Jackery Explorer 2000 Plus Review: Dependable And Portable](https://www.wired.com/review/jackery-explorer-2000-plus/)
- - [Samsung Galaxy Unpacked: how to watch and what to expect](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)
- - [Sensor Tower: Threads&#39; DAUs declined to 13M, down 70% from the July 7 peak; Similarweb: average time spend on Threads&#39; app declined to four mins, down from 19 &lpar;Lindsey Choo/Wall Street Journal&rpar;](http://www.techmeme.com/230721/p6#a230721p6)
- - [Telegram now has Stories, but only Premium users can post one](https://www.androidauthority.com/telegram-premium-stories-rollout-3347204/)<!-- TECH:END -->
+ - [OpenAI&#39;s head of trust and safety Dave Willner leaves OpenAI citing the pressures of the job on his family life and says he would be available for advisory work &lpar;Reuters&rpar;](http://www.techmeme.com/230721/p8#a230721p8)
+ - [Apple makes choosing an Apple Watch easier in an online store revamp](https://appleinsider.com/articles/23/07/21/apple-makes-choosing-an-apple-watch-easier-in-an-online-store-revamp?utm_medium=rss)
+ - [How to find your forgotten Gmail accounts](https://www.theverge.com/23801642/gmail-accounts-lost-forgotten-recovery-how-to)
+ - [Telegram launches Stories for its Premium users, letting users control who can see their stories and how long they last before disappearing &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230721/p7#a230721p7)
+ - [Coravin Sparkling Review: Now You Can Save Your Bubbles Too](https://www.wired.com/review/coravin-sparkling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

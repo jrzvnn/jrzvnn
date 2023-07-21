@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 😝 [Idiot](http://9gag.com/gag/ay2PLxV)
+ - 💣 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
  - 😝 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
- - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 😝 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)
  - 👉 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)<!-- MEMES:END -->
 
 ---

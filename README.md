@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola Razr Plus breaks in the strangest way during durability test](https://www.androidauthority.com/motorola-razr-plus-durability-test-3347176/)
+ - [The Open Championship 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-open-championship-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)
  - [This laser machine magically fixes green lines on OLED phone displays](https://www.androidauthority.com/green-line-phone-display-repair-laser-machine-3347172/)
  - [A study based on open-source data estimates that 30K+ workers at European tech companies have moved to China in the past 20 years; China rejects the findings &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/230721/p1#a230721p1)
- - [Canalys: smartphone shipments in India stabilized in Q2 2023 after three quarters of decline, with 36.1M units, down 1% YoY; Samsung led with an 18% share &lpar;Charmaine Jacob/CNBC&rpar;](http://www.techmeme.com/230720/p39#a230720p39)
- - [Overwatch League&#39;s future remains uncertain as Activision Blizzard lays off ~50 esports employees and asks teams to vote on an updated operating agreement &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230720/p38#a230720p38)
- - [The US DOJ merges its crypto enforcement team that debuted in 2021 into the agency investigating computer-related crimes, giving crypto crimes the same status &lpar;Dylan Tokar/Wall Street Journal&rpar;](http://www.techmeme.com/230720/p37#a230720p37)<!-- TECH:END -->
+ - [Canalys: smartphone shipments in India stabilized in Q2 2023 after three quarters of decline, with 36.1M units, down 1% YoY; Samsung led with an 18% share &lpar;Charmaine Jacob/CNBC&rpar;](http://www.techmeme.com/230720/p39#a230720p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

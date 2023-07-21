@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
  - 😝 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
- - 💣 [Tinker bells](http://9gag.com/gag/aMEyAWx)
+ - 😝 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
+ - 💣 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)<!-- MEMES:END -->
+ - 👉 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)<!-- MEMES:END -->
 
 ---
 </div>

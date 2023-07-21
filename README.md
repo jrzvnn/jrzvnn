@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
  - [PS5 Pro: Release date, rumors, price, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
  - [Those weird mobile games are now on the Switch &lpar;sorta&rpar;](https://www.theverge.com/2023/7/21/23803140/mobile-game-ad-minigames-nintendo-switch)
  - [The best Bose buds return to their Prime Day price](https://www.androidauthority.com/bose-quietcomfort-earbuds-ii-deal-3347394/)
- - [How to fix an iPod that won&#39;t sync with macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-fix-an-ipod-that-wont-sync-with-macos-ventura?utm_medium=rss)
- - [Reddit just expanded the r/Place canvas, and there are already messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)<!-- TECH:END -->
+ - [How to fix an iPod that won&#39;t sync with macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-fix-an-ipod-that-wont-sync-with-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

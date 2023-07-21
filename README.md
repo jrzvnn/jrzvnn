@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify raising premium plan prices in US to try to stay profitable](https://appleinsider.com/articles/23/07/21/spotify-raising-premium-plan-prices-in-us-to-try-to-stay-profitable?utm_medium=rss)
+ - [Spotify’s first US price hike for Premium is coming next week](https://www.theverge.com/2023/7/21/23803479/spotify-premium-price-raise-hike)
+ - [FTC May Drop Case Against Microsoft and Activision&#39;s $69B Deal: What This Means for Gamers     - CNET](https://www.cnet.com/tech/gaming/ftc-may-drop-case-against-microsoft-and-activision-69b-deal-what-this-means-for-gamers/#ftag=CAD590a51e)
  - [ChatGPT for Android launches next week](https://www.theverge.com/2023/7/21/23803482/chatgpt-android-artificial-intelligence-chatbot-app)
- - [Samsung leaks that Apple is still working on an all-screen foldable MacBook Pro](https://appleinsider.com/articles/23/07/21/samsung-spills-the-beans-apple-is-still-working-on-an-all-screen-foldable-macbook-pro?utm_medium=rss)
- - [‘Now I Am Become Death, the Destroyer of Worlds.’ The Story of Oppenheimer’s Infamous Quote](https://www.wired.com/story/manhattan-project-robert-oppenheimer/)
- - [Reddit expanded the r/Place canvas, and users immediately wrote messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
- - [Sources: Amazon will require some remote corporate employees to relocate as part of a mandate requiring workers to be in the office three days a week &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230721/p16#a230721p16)<!-- TECH:END -->
+ - [Samsung leaks that Apple is still working on an all-screen foldable MacBook Pro](https://appleinsider.com/articles/23/07/21/samsung-spills-the-beans-apple-is-still-working-on-an-all-screen-foldable-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

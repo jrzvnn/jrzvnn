@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit removes the moderators of r/malefashionadvice, one of the biggest subreddits to close protesting Reddit&#39;s API changes, and takes charge of the subreddit &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230721/p4#a230721p4)
+ - [Apple&#39;s AirTag helps a magician find his lost bag at Newark airport](https://appleinsider.com/articles/23/07/20/apples-airtag-helps-a-magician-find-his-lost-bag-at-newark-airport?utm_medium=rss)
  - [iPhone 15 launch may be delayed by weeks, claims analyst](https://appleinsider.com/articles/23/07/20/iphone-15-launch-may-be-delayed-weeks-says-analyst?utm_medium=rss)
  - [OpenAI, Meta, Google, Microsoft, and others make voluntary AI governance pledges to the White House, including cybersecurity investment and watermarking systems &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230721/p3#a230721p3)
- - [AI Giants Pledge to Allow External Probes of Their Algorithms, Under a New White House Pact](https://www.wired.com/story/ai-giants-pledge-external-probes-algorithms-white-house/)
- - [Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly](https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety)
- - [A look at Samsung&#39;s and Texas Instruments&#39; chip fabs in Texas, as the state becomes a US chipmaking hub with six projects totaling $61B and creating 8K+ jobs &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230721/p2#a230721p2)<!-- TECH:END -->
+ - [AI Giants Pledge to Allow External Probes of Their Algorithms, Under a New White House Pact](https://www.wired.com/story/ai-giants-pledge-external-probes-algorithms-white-house/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [12 myths about the human body that we should forget](http://9gag.com/gag/a9qBPw6)
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 💣 [Honest to god](http://9gag.com/gag/aeQWpAj)
- - 😝 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)
- - 👉 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)<!-- MEMES:END -->
+ - 😝 [And we are the clowns](http://9gag.com/gag/a3Zn7Nm)
+ - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - 💣 [Hug the cactus](http://9gag.com/gag/aPgnDpB)
+ - 😝 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 👉 [This one goes out to that one guy who said I should keep on posting my paintings . So here\u2019s my latest painting](http://9gag.com/gag/aNw3W7r)<!-- MEMES:END -->
 
 ---
 </div>

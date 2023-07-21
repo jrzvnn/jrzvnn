@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 💣 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)
+ - 😝 [Let&#39;s take a moment and laugh because this climate protest guy is at a Formula E event. E for electric.](http://9gag.com/gag/aKEpqLQ)
+ - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - 💣 [This one goes out to that one guy who said I should keep on posting my paintings . So here\u2019s my latest painting](http://9gag.com/gag/aNw3W7r)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)<!-- MEMES:END -->
+ - 👉 [And we are the clowns](http://9gag.com/gag/a3Zn7Nm)<!-- MEMES:END -->
 
 ---
 </div>

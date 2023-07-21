@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use iPad as a portable monitor for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
+ - [Disney’s new vision for ESPN might include part ownership by the NBA, NFL](https://www.theverge.com/2023/7/21/23803284/disney-espn-nba-nfl-streaming-sports-cable-tv)
  - [T-Mobile’s charging an extra $5 plus tax for paying your phone bill in-store](https://www.theverge.com/2023/7/21/23802986/t-mobile-in-store-bill-payment-fee-wireless-carrier)
  - [How Vietnam&#39;s 1Byte, the startup behind TheTruthSpy stalkerware, created fake sellers networks with forged US passports to evade detection and funnel payments &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230721/p13#a230721p13)
- - [Meta, Google, and OpenAI reveal their safety plans following White House summit](https://www.theverge.com/2023/7/21/23803244/meta-google-openai-microsoft-artificial-intelligence-ai-white-house-commitments)
- - [Apple Vision Pro firmware hints at three distinct battery models](https://appleinsider.com/articles/23/07/21/apple-vision-pro-firmware-hints-at-three-distinct-battery-models?utm_medium=rss)
- - [AI companies pledge to safety commitments at White House, but Apple&#39;s absence raises eyebrows](https://appleinsider.com/articles/23/07/21/ai-companies-pledge-to-safety-commitments-at-white-house-but-apples-absence-raises-eyebrows?utm_medium=rss)<!-- TECH:END -->
+ - [Meta, Google, and OpenAI reveal their safety plans following White House summit](https://www.theverge.com/2023/7/21/23803244/meta-google-openai-microsoft-artificial-intelligence-ai-white-house-commitments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

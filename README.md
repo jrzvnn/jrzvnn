@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)
- - 😝 [Honest to god](http://9gag.com/gag/aeQWpAj)
+ - 😝 [Can&#39;t have anything in India.](http://9gag.com/gag/a9qBMVK)
+ - 😝 [The seks](http://9gag.com/gag/aXnepL2)
  - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 👉 [Idiot](http://9gag.com/gag/ay2PLxV)<!-- MEMES:END -->
+ - 😝 [Idiot](http://9gag.com/gag/ay2PLxV)
+ - 👉 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)<!-- MEMES:END -->
 
 ---
 </div>

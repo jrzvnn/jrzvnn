@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Premium prices just went up! &lpar;Updated: Older accounts also affected&rpar;](https://www.androidauthority.com/youtube-premium-price-hike-3346739/)
  - [Data breach exposes personal information of 4,000 Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
  - [Tiger Global, Peak XV, and other investors ask India to reconsider its new 28% tax on online gaming as it will lead to a write-off of $2.5B and loss of 1M jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230721/p5#a230721p5)
  - [Apple agrees deal to keep &#39;Tehran&#39; filming despite actors&#39; strike](https://appleinsider.com/articles/23/07/21/apple-agrees-deal-to-keep-tehran-filming-despite-actors-strike?utm_medium=rss)
- - [What My Solitary Confinement in Iran Revealed About the Dangers of an Isolated Internet](https://www.wired.com/story/information-truth-personalization/)
- - [The New Minstrels Are Here](https://www.wired.com/story/new-minstrels-generative-ai/)<!-- TECH:END -->
+ - [What My Solitary Confinement in Iran Revealed About the Dangers of an Isolated Internet](https://www.wired.com/story/information-truth-personalization/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

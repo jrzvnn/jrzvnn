@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
+ - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 💣 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [How to stop crimes](http://9gag.com/gag/aMEyGYG)<!-- MEMES:END -->
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 </div>

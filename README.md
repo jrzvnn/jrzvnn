@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canalys: smartphone shipments in India stabilized in Q2 2023 after three quarters of decline, with 36.1M units, down 1% YoY; Samsung led with an 18% share &lpar;Charmaine Jacob/CNBC&rpar;](http://www.techmeme.com/230720/p39#a230720p39)
  - [Overwatch League&#39;s future remains uncertain as Activision Blizzard lays off ~50 esports employees and asks teams to vote on an updated operating agreement &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230720/p38#a230720p38)
  - [The US DOJ merges its crypto enforcement team that debuted in 2021 into the agency investigating computer-related crimes, giving crypto crimes the same status &lpar;Dylan Tokar/Wall Street Journal&rpar;](http://www.techmeme.com/230720/p37#a230720p37)
  - [Autonomous trucking company Aurora Innovation raised $600M in private placement of its stock and plans a public offering at $3 per share valued at ~$220M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230720/p36#a230720p36)
- - [Meta rolls out its Quest v56 update, bringing Hand Tracking 2.2, which it claims improves latency up to 40% in typical use and up to 75% during faster movements &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230720/p35#a230720p35)
- - [Sources: Sergey Brin has increased his visits to Google in recent months to three to four days a week, working with AI researchers building Google&#39;s Gemini &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p34#a230720p34)<!-- TECH:END -->
+ - [Meta rolls out its Quest v56 update, bringing Hand Tracking 2.2, which it claims improves latency up to 40% in typical use and up to 75% during faster movements &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230720/p35#a230720p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

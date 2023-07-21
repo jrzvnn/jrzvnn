@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best discussion ever](http://9gag.com/gag/aVbBedP)
- - 😝 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
- - 💣 [Idiot](http://9gag.com/gag/ay2PLxV)
- - 😝 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 👉 [I do not want a `poly relationship` and told her to find somewhere else to live. It feels like my heart is shattering and I have a sinking feeling in my stomach. I just want to crawl into a pit and die right now...](http://9gag.com/gag/avQmgmO)<!-- MEMES:END -->
+ - 😝 [Japan work culture &lpar;source: Sora the Troll&rpar;](http://9gag.com/gag/a1PwdvG)
+ - 😝 [Dave Grohl&#39;s Mum did a great job!](http://9gag.com/gag/armzKEp)
+ - 💣 [Art 101](http://9gag.com/gag/a8qzMWQ)
+ - 😝 [Guy on the right just killed a child molester/ football coach &lpar;who also molested him as a child&rpar; with an axe. Happened in Lichtenstein, Germany.](http://9gag.com/gag/a8qzM6V)
+ - 👉 [Mom I found her](http://9gag.com/gag/a7qAZbz)<!-- MEMES:END -->
 
 ---
 </div>

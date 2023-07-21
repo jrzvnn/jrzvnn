@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess what she meant was she gets to screw around and I get to let her. What a b*tch.](http://9gag.com/gag/armzN70)
- - 😝 [Wtf](http://9gag.com/gag/a2KGPEd)
+ - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
  - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
- - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
- - 👉 [It&#39;s official. We turned AI stupid.](http://9gag.com/gag/aGEbxGw)<!-- MEMES:END -->
+ - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 👉 [Congratulations!](http://9gag.com/gag/aXne992)<!-- MEMES:END -->
 
 ---
 </div>

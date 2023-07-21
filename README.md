@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Autonomous trucking company Aurora Innovation raised $600M in private placement of its stock and plans a public offering at $3 per share valued at ~$220M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230720/p36#a230720p36)
+ - [Meta rolls out its Quest v56 update, bringing Hand Tracking 2.2, which it claims improves latency up to 40% in typical use and up to 75% during faster movements &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230720/p35#a230720p35)
+ - [Sources: Sergey Brin has increased his visits to Google in recent months to three to four days a week, working with AI researchers building Google&#39;s Gemini &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230720/p34#a230720p34)
  - [FTX sues Sam Bankman-Fried, Caroline Ellison, Gary Wang, and Nishad Singh for $1B+, alleging they misappropriated funds for &quot;pet projects&quot; before FTX bankruptcy &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230720/p33#a230720p33)
- - [Reddit takes over one of the biggest protesting subreddits](https://www.theverge.com/2023/7/20/23802370/reddit-over-reopens-subreddit-protest-male-fashion-advice)
- - [10 Heat-Fighting Amazon Products to Get This Summer     - CNET](https://www.cnet.com/health/10-heat-fighting-amazon-products-to-get-this-summer/#ftag=CAD590a51e)
- - [AMC Axes Preferred Seat Upcharge     - CNET](https://www.cnet.com/tech/amc-axes-preferred-seat-upcharge/#ftag=CAD590a51e)
- - [FTC withdraws its in-house challenge to Microsoft’s Activision-Blizzard deal](https://www.theverge.com/2023/7/20/23795591/ftc-microsoft-activision-administrative-challenge)<!-- TECH:END -->
+ - [Reddit takes over one of the biggest protesting subreddits](https://www.theverge.com/2023/7/20/23802370/reddit-over-reopens-subreddit-protest-male-fashion-advice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

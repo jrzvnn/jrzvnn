@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
- - 😝 [The purest of waters](http://9gag.com/gag/anzVNKV)
- - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 😝 [Men&#39;s activity](http://9gag.com/gag/agojVZ6)
+ - 💣 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
+ - 👉 [Congratulations!](http://9gag.com/gag/aXne992)<!-- MEMES:END -->
 
 ---
 </div>

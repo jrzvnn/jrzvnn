@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Vietnam&#39;s 1Byte, the startup behind TheTruthSpy stalkerware, created fake sellers network with forged US passports to evade detection and funnel payments &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230721/p13#a230721p13)
+ - [Meta, Google, and OpenAI reveal their safety plans following White House summit](https://www.theverge.com/2023/7/21/23803244/meta-google-openai-microsoft-artificial-intelligence-ai-white-house-commitments)
  - [Apple Vision Pro firmware hints at three distinct battery models](https://appleinsider.com/articles/23/07/21/apple-vision-pro-firmware-hints-at-three-distinct-battery-models?utm_medium=rss)
  - [AI companies pledge to safety commitments at White House, but Apple&#39;s absence raises eyebrows](https://appleinsider.com/articles/23/07/21/ai-companies-pledge-to-safety-commitments-at-white-house-but-apples-absence-raises-eyebrows?utm_medium=rss)
- - [OPPO Find N3 could come to America, sort of](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3347411/)
- - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
- - [Grab a GoPro Hero 11 Black Mini at Half-Price &lpar;Save $200&rpar;     - CNET](https://www.cnet.com/deals/grab-a-gopro-hero-11-black-mini-at-half-price-save-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OPPO Find N3 could come to America, sort of](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3347411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

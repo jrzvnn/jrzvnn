@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google now hikes prices for YouTube Premium too](https://appleinsider.com/articles/23/07/21/google-now-hikes-prices-for-youtube-premium-too?utm_medium=rss)
- - [Apple agrees to deal that will keep &#39;Tehran&#39; filming despite actors&#39; strike](https://appleinsider.com/articles/23/07/21/apple-agrees-deal-to-keep-tehran-filming-despite-actors-strike?utm_medium=rss)
- - [YouTube Premium prices just went up! &lpar;Updated: Older accounts also affected&rpar;](https://www.androidauthority.com/youtube-premium-price-hike-3346739/)
- - [Data breach exposes personal information of 4,000 Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
- - [Tiger Global, Peak XV, and other investors ask India to reconsider its new 28% tax on online gaming as it will lead to a write-off of $2.5B and loss of 1M jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230721/p5#a230721p5)<!-- TECH:END -->
+ - [T-Core Power Bank review: Tiny design with mighty compatibility](https://appleinsider.com/articles/23/07/21/t-core-power-bank-review-tiny-design-with-mighty-compatibility?utm_medium=rss)
+ - [A Leaked Memo Shows TikTok Knows It Has a Labor Problem](https://www.wired.com/story/tiktok-leaked-documents/)
+ - [This Startup Wants to Give Farmers a Closer Look at Crops—From Space](https://www.wired.com/story/this-startup-wants-to-give-farmers-a-closer-look-at-crops-from-space/)
+ - [‘Barbenheimer’ Signals the Start of Hollywood’s Apocalypse](https://www.wired.com/story/barbie-oppenheimer-barbenheimer-hollywood-future/)
+ - [Google now hikes prices for YouTube Premium too](https://appleinsider.com/articles/23/07/21/google-now-hikes-prices-for-youtube-premium-too?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

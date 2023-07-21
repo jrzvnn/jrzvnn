@@ -150,7 +150,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple makes choosing an Apple Watch easier in an online store revamp](https://appleinsider.com/articles/23/07/21/apple-makes-choosing-an-apple-watch-easier-in-an-online-store-revamp?utm_medium=rss)
  - [Air India is seeking greater collaboration with Apple -- but for what?](https://appleinsider.com/articles/23/07/21/air-india-is-seeking-greater-collaboration-with-apple----but-for-what?utm_medium=rss)
  - [An influencer’s guide to the writers and actors strikes](https://www.theverge.com/23802895/sag-aftra-writers-guild-strikes-hollywood-influencer-rules)
- - [Daily deals: $1,400 off M1 Max MacBook Pro, up to 48% off Beats, $60 off Apple Watch SE, more](https://appleinsider.com/articles/23/07/21/daily-deals-1400-off-m1-max-macbook-pro-up-to-48-off-beats-60-off-apple-watch-se-more?utm_medium=rss)<!-- TECH:END -->
+ - [Snag a New Mattress During DreamCloud&#39;s 50% Off Flash Sale     - CNET](https://www.cnet.com/deals/snag-a-new-mattress-during-dreamclouds-50-off-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

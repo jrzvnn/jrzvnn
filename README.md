@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tried Beeper to consolidate my messaging apps and realized that’s a bad idea](https://www.androidauthority.com/beeper-app-opinion-3345142/)
  - [Beats Studio Pro versus AirPods Max -- compared](https://appleinsider.com/inside/airpods-max/vs/beats-studio-pro-versus-airpods-max----compared?utm_medium=rss)
+ - [Portable Gaming Consoles Will Soon Come With Replaceable Batteries     - CNET](https://www.cnet.com/tech/gaming/portable-gaming-consoles-will-soon-come-with-replaceable-batteries/#ftag=CAD590a51e)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-493-3346954/)
- - [A look at a proposed Massachusetts bill letting police use face recognition for image matching but not face surveillance, which could set the standard in the US &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230722/p7#a230722p7)
- - [Netflix’s They Cloned Tyrone is an instant classic, no cult required](https://www.theverge.com/23803139/they-cloned-tyrone-review-netflix)
- - [Reddit expanded the r/Place canvas, and users immediately wrote messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)<!-- TECH:END -->
+ - [A look at a proposed Massachusetts bill letting police use face recognition for image matching but not face surveillance, which could set the standard in the US &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230722/p7#a230722p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got him](http://9gag.com/gag/aREDeb5)
- - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
- - 💣 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
+ - 😝 [Best discussion ever](http://9gag.com/gag/aVbBedP)
+ - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 💣 [In Germany,The Nazi salute can put you in prison for 3 years](http://9gag.com/gag/aDYMzgw)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
+ - 👉 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)<!-- MEMES:END -->
 
 ---
 </div>

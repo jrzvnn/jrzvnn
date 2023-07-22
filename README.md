@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Germany,The Nazi salute can put you in prison for 3 years](http://9gag.com/gag/aDYMzgw)
+ - 😝 [Paper](http://9gag.com/gag/abvEzqb)
  - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 💣 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
+ - 💣 [Peak Athleticism](http://9gag.com/gag/a3ZnKr8)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)<!-- MEMES:END -->
+ - 👉 [Tinker bells](http://9gag.com/gag/aMEyAWx)<!-- MEMES:END -->
 
 ---
 </div>

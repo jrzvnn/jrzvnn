@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Google Workspace update makes alt text easier to add](https://www.theverge.com/2023/7/22/23804311/a-google-workspace-update-makes-alt-text-easier-to-add)
  - [Blizzard devs know their Diablo IV patch was bad](https://www.theverge.com/2023/7/22/23804232/diablo-iv-patch-player-power-blizzard-1-1-0-patch)
  - [Beats Studio Pro versus AirPods Max -- compared](https://appleinsider.com/inside/airpods-max/vs/beats-studio-pro-versus-airpods-max----compared?utm_medium=rss)
  - [Meta insists it hasn&#39;t killed of its Quest Pro lineup yet](https://appleinsider.com/articles/23/07/22/meta-insists-it-hasnt-killed-of-its-quest-pro-lineup-yet?utm_medium=rss)
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Reddit and Bluesky are contrasting examples on how not to moderate, one centralizing in the worst way possible and the other decentralizing catastrophically &lpar;Katherine Alejandra Cross/Wired&rpar;](http://www.techmeme.com/230722/p8#a230722p8)<!-- TECH:END -->
+ - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

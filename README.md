@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Tinker bells](http://9gag.com/gag/aMEyAWx)
- - 💣 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 😝 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
- - 👉 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)<!-- MEMES:END -->
+ - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
+ - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
 
 ---
 </div>

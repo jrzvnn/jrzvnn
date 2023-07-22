@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
- - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
- - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 😝 [Got him](http://9gag.com/gag/aREDeb5)
+ - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
+ - 💣 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
+ - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
 
 ---
 </div>

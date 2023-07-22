@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
- - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)<!-- MEMES:END -->
+ - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
+ - 😝 [Peak Athleticism](http://9gag.com/gag/a3ZnKr8)
+ - 💣 [Noone got offended, right? RIGHT?](http://9gag.com/gag/aREDjpM)
+ - 😝 [That rat and pig dont have a heart](http://9gag.com/gag/aBdoxvP)
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 </div>

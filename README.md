@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean and Indian filmmakers are hoping the Hollywood strikes will give them more bargaining power with US streamers and a precedent to follow &lpar;Washington Post&rpar;](http://www.techmeme.com/230722/p4#a230722p4)
  - [England vs. Haiti: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-haiti-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)
  - [A US AT&amp;T call center worker details working with AI, which generates call transcripts and provides suggestions, and wonders if she is training her replacement &lpar;Emma Goldberg/New York Times&rpar;](http://www.techmeme.com/230722/p3#a230722p3)
  - [In six months, Amazon plans to begin production of Kuiper satellites in Washington, hoping to build and launch up to 80 satellites per month within a few years &lpar;Stephen Clark/Ars Technica&rpar;](http://www.techmeme.com/230722/p2#a230722p2)
- - [Sources: during July 17 meetings with officials in DC, the CEOs of Intel, Nvidia, and Qualcomm warned that export controls risk harming US chip leadership &lpar;Bloomberg&rpar;](http://www.techmeme.com/230722/p1#a230722p1)
- - [The Linux Foundation forms the Ultra Ethernet Consortium with AMD, Cisco, HPE, Intel, Meta, Microsoft, and others to optimize Ethernet standards for AI and HPC &lpar;Ash Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230721/p22#a230721p22)<!-- TECH:END -->
+ - [Sources: during July 17 meetings with officials in DC, the CEOs of Intel, Nvidia, and Qualcomm warned that export controls risk harming US chip leadership &lpar;Bloomberg&rpar;](http://www.techmeme.com/230722/p1#a230722p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

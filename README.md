@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 💣 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
+ - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)<!-- MEMES:END -->
+ - 👉 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)<!-- MEMES:END -->
 
 ---
 </div>

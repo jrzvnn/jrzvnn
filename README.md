@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tinker bells](http://9gag.com/gag/aMEyAWx)
- - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - 💣 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
+ - 😝 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
+ - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
+ - 👉 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)<!-- MEMES:END -->
 
 ---
 </div>

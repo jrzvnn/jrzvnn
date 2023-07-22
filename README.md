@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy Ring should copy &lpar;or improve&rpar; these features from Oura](https://www.androidauthority.com/samsung-galaxy-ring-should-copy-from-oura-3344870/)
- - [De&#39;Longhi TrueBrew Drip Coffee Maker: The Joe Is Just So-So](https://www.wired.com/review/delonghi-truebrew-drip-coffee-maker/)
- - [Why These Surfers Want to Restore a Rainforest](https://www.wired.com/story/why-these-surfers-want-to-restore-a-rainforest/)
- - [Time is running out on the Climate Clock](https://www.theverge.com/2023/7/22/23803197/climate-change-clock-deadline-new-york)
- - [The Weekly Authority: 🗨️ Google Messages’ cross platform end-to-end encryption?](https://www.androidauthority.com/the-weekly-authority-july-22-254-3346029/)<!-- TECH:END -->
+ - [Save $50 on the wireless earbuds with the hands-down best noise cancellation](https://www.theverge.com/2023/7/22/23803410/bose-quietcomfort-earbuds-amazon-firetv-omni-xbox-elite-deal-sale)
+ - [Best Cooler of 2023     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
+ - [AI and You: Google&#39;s News Ambitions, Tech Companies Sign White House Pledge     - CNET](https://www.cnet.com/tech/computing/ai-and-you-googles-news-ambitions-putting-a-face-on-subway-fare-dodgers/#ftag=CAD590a51e)
+ - [The 8 Best Memory Foam Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
+ - [Pokemon Sleep: How This Mobile Game Aims to Improve Your Sleep     - CNET](https://www.cnet.com/tech/services-and-software/pokemon-sleep-how-this-mobile-game-aims-to-improve-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

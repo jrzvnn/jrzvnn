@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is too good](http://9gag.com/gag/aPgnBEG)
  - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
- - 😝 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)
- - 💣 [Tinker bells](http://9gag.com/gag/aMEyAWx)
+ - 💣 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
+ - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 
 ---
 </div>

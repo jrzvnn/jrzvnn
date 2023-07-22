@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US AT&amp;T call center worker details working with AI, which generates call transcripts and provides suggestions, and wonders if she is training her replacement &lpar;Emma Goldberg/New York Times&rpar;](http://www.techmeme.com/230722/p3#a230722p3)
  - [In six months, Amazon plans to begin production of Kuiper satellites in Washington, hoping to build and launch up to 80 satellites per month within a few years &lpar;Stephen Clark/Ars Technica&rpar;](http://www.techmeme.com/230722/p2#a230722p2)
  - [Sources: during July 17 meetings with officials in DC, the CEOs of Intel, Nvidia, and Qualcomm warned that export controls risk harming US chip leadership &lpar;Bloomberg&rpar;](http://www.techmeme.com/230722/p1#a230722p1)
  - [The Linux Foundation forms the Ultra Ethernet Consortium with AMD, Cisco, HPE, Intel, Meta, Microsoft, and others to optimize Ethernet standards for AI and HPC &lpar;Ash Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230721/p22#a230721p22)
- - [A report says the Microsoft key that Chinese hackers stole could have given them more access than originally assumed; Microsoft disputes the report &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230721/p21#a230721p21)
- - [Twitter says unverified accounts will have daily limits on the number of direct messages they can send, as part of changes to reduce spam in DMs &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230721/p20#a230721p20)<!-- TECH:END -->
+ - [A report says the Microsoft key that Chinese hackers stole could have given them more access than originally assumed; Microsoft disputes the report &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230721/p21#a230721p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, How can a woman think It is ok to do shit like this?](http://9gag.com/gag/aA0ZxPL)
- - 😝 [Umbrella](http://9gag.com/gag/a7qArEr)
- - 💣 [Paper](http://9gag.com/gag/abvEzqb)
+ - 😝 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
+ - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
+ - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
  - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 

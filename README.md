@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China’s Breach of Microsoft Cloud Email May Expose Deeper Problems](https://www.wired.com/story/china-breach-microsoft-cloud-email-may-expose-deeper-problems/)
+ - [15 Best PS5 Games &lpar;2023&rpar;: &#39;Diablo IV&#39;, &#39;Star Wars&#39;, and More](https://www.wired.com/gallery/best-ps5-games/)
+ - [This Rare Case of Green Hairy Tongue Is Pure Nightmare Fuel](https://www.wired.com/story/rare-case-green-hairy-tongue-pure-nightmare-fuel/)
  - [Save $50 on the wireless earbuds with the hands-down best noise cancellation](https://www.theverge.com/2023/7/22/23803410/bose-quietcomfort-earbuds-amazon-firetv-omni-xbox-elite-deal-sale)
- - [Best Cooler of 2023     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
- - [AI and You: Google&#39;s News Ambitions, Tech Companies Sign White House Pledge     - CNET](https://www.cnet.com/tech/computing/ai-and-you-googles-news-ambitions-putting-a-face-on-subway-fare-dodgers/#ftag=CAD590a51e)
- - [The 8 Best Memory Foam Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
- - [Pokemon Sleep: How This Mobile Game Aims to Improve Your Sleep     - CNET](https://www.cnet.com/tech/services-and-software/pokemon-sleep-how-this-mobile-game-aims-to-improve-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cooler of 2023     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

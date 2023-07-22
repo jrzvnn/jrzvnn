@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A report says the Microsoft key that Chinese hackers stole could have given them more access than originally assumed; Microsoft disputes the report &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230721/p21#a230721p21)
  - [Twitter says unverified accounts will have daily limits on the number of direct messages they can send, as part of changes to reduce spam in DMs &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230721/p20#a230721p20)
+ - [Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure     - CNET](https://www.cnet.com/tech/google-microsoft-amazon-meta-pledge-to-make-ai-safer-and-more-secure/#ftag=CAD590a51e)
  - [Google plans to adopt the Message Layer Security protocol for its Messages app; MLS allows interoperable E2E encrypted messaging across services and platforms &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230721/p19#a230721p19)
- - [Elon Musk&#39;s best idea for stopping spambots is making you pay for extra Twitter DMs](https://www.theverge.com/2023/7/21/23803632/elon-musk-spam-twitter-blue-dms)
- - [Biden Invests $20 Million In Solar Panel Recycling     - CNET](https://www.cnet.com/news/biden-invests-20-million-in-solar-panel-recycling/#ftag=CAD590a51e)
- - [Lionel Messi Debut: How to Watch, Stream Inter Miami CF vs. Cruz Azul on Apple TV Friday     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-debut-how-to-watch-stream-inter-miami-cf-vs-cruz-azul-on-apple-tv-on-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s best idea for stopping spambots is making you pay for extra Twitter DMs](https://www.theverge.com/2023/7/21/23803632/elon-musk-spam-twitter-blue-dms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
- - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 😝 [Say whattttt](http://9gag.com/gag/aWG9M54)
+ - 💣 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
  - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 👉 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)<!-- MEMES:END -->
+ - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That rat and pig dont have a heart](http://9gag.com/gag/aBdoxvP)
- - 😝 [A fathers love](http://9gag.com/gag/a4oVQ1Z)
- - 💣 [I have 20 new friends now,,,, i guess lmao](http://9gag.com/gag/adPbLPD)
- - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 👉 [Why do you Western Europeans don&#39;t do this?](http://9gag.com/gag/amAnB7v)<!-- MEMES:END -->
+ - 😝 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)
+ - 😝 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
+ - 👉 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)<!-- MEMES:END -->
 
 ---
 </div>

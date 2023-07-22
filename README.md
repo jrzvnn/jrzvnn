@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I love Android, but I prefer it more on tablets than phones](https://www.androidauthority.com/android-on-tablets-vs-phones-3346138/)
+ - [What would the internet of people look like now?](https://www.theverge.com/2023/7/22/23803538/google-facebook-myspace-internet-culture-web-dot-com-crash)
+ - [How to use external storage on your PlayStation 5 or Xbox Series X / S](https://www.theverge.com/23803210/ps5-xbox-storage-drive-how-to)
  - [Apple TV+ bid for UK soccer streaming rights unlikely to proceed](https://appleinsider.com/articles/23/07/22/apple-tv-bid-for-uk-soccer-streaming-rights-unlikely-to-proceed?utm_medium=rss)
- - [Coinbase will fully close its bitcoin-backed loan program Borrow for retail customers and says loan holders have to pay outstanding dues by November 20, 2023 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230722/p5#a230722p5)
- - [China’s Breach of Microsoft Cloud Email May Expose Deeper Problems](https://www.wired.com/story/china-breach-microsoft-cloud-email-may-expose-deeper-problems/)
- - [15 Best PS5 Games &lpar;2023&rpar;: &#39;Diablo IV&#39;, &#39;Star Wars&#39;, and More](https://www.wired.com/gallery/best-ps5-games/)
- - [This Rare Case of Green Hairy Tongue Is Pure Nightmare Fuel](https://www.wired.com/story/rare-case-green-hairy-tongue-pure-nightmare-fuel/)<!-- TECH:END -->
+ - [Coinbase will fully close its bitcoin-backed loan program Borrow for retail customers and says loan holders have to pay outstanding dues by November 20, 2023 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230722/p5#a230722p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

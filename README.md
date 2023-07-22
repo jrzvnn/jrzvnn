@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta insists it hasn&#39;t killed off its Quest Pro lineup yet](https://appleinsider.com/articles/23/07/22/meta-insists-it-hasnt-killed-of-its-quest-pro-lineup-yet?utm_medium=rss)
  - [A look at solid-state speakers etched from silicon and their potential applications, like helping people with hearing loss and making AR/VR objects feel real &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230722/p9#a230722p9)
  - [Apple Watch helps save Norwegian trail runner&#39;s life after a fall](https://appleinsider.com/articles/23/07/22/apple-watch-helps-save-norwegian-trail-runners-life-after-a-fall?utm_medium=rss)
  - [A Google Workspace update makes alt text easier to add](https://www.theverge.com/2023/7/22/23804311/a-google-workspace-update-makes-alt-text-easier-to-add)
- - [Best iPhone 14 and iPhone 14 Pro Cases to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
- - [Blizzard devs know their Diablo IV patch was bad](https://www.theverge.com/2023/7/22/23804232/diablo-iv-patch-player-power-blizzard-1-1-0-patch)<!-- TECH:END -->
+ - [Best iPhone 14 and iPhone 14 Pro Cases to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

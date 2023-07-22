@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 💣 [This is too good](http://9gag.com/gag/aPgnBEG)
+ - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
+ - 😝 [What are the weirdest GIFs you&#39;ve got?](http://9gag.com/gag/aqeA58j)
+ - 💣 [Tinker bells](http://9gag.com/gag/aMEyAWx)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 </div>

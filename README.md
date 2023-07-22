@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
- - 😝 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
- - 💣 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
+ - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 😝 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
+ - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
+ - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
 
 ---
 </div>

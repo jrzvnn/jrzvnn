@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 😝 [Just lol](http://9gag.com/gag/avQmO4d)
- - 💣 [Tinker bells](http://9gag.com/gag/aMEyAWx)
+ - 😝 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
+ - 😝 [Hmm I wonder](http://9gag.com/gag/awZvnbB)
+ - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Peak Athleticism](http://9gag.com/gag/a3ZnKr8)<!-- MEMES:END -->
+ - 👉 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)<!-- MEMES:END -->
 
 ---
 </div>

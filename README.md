@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: Save $1,400 on Samsung 65-inch OLED TV, $200 off M2 14-inch MacBook Pro, $50 off AirPods Pro](https://appleinsider.com/articles/23/07/22/daily-deals-save-1400-on-samsung-65-inch-oled-tv-200-off-m2-14-inch-macbook-pro-50-off-airpods-pro?utm_medium=rss)
  - [Norwegian robotics company AutoStore agrees to pay &amp;pound;200M to UK supermarket giant Ocado to settle a global dispute over warehouse patent infringements &lpar;Alastair Reed/Bloomberg&rpar;](http://www.techmeme.com/230722/p6#a230722p6)
  - [SDCC 2023: all the biggest announcements from the convention](https://www.theverge.com/2023/7/22/23804013/sdcc-2023-san-diego-comic-con-movies-tv-shows-marvel-dc-gaming-news)
  - [I love Android, but I prefer it more on tablets than phones](https://www.androidauthority.com/android-on-tablets-vs-phones-3346138/)
- - [What would the internet of people look like now?](https://www.theverge.com/2023/7/22/23803538/google-facebook-myspace-internet-culture-web-dot-com-crash)
- - [How to use external storage on your PlayStation 5 or Xbox Series X / S](https://www.theverge.com/23803210/ps5-xbox-storage-drive-how-to)<!-- TECH:END -->
+ - [What would the internet of people look like now?](https://www.theverge.com/2023/7/22/23803538/google-facebook-myspace-internet-culture-web-dot-com-crash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

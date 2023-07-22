@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
  - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
+ - 😝 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 👉 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)<!-- MEMES:END -->
 
 ---
 </div>

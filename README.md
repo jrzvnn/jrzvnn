@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
- - 😝 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 👉 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)<!-- MEMES:END -->
+ - 😝 [Great Original concept art from a great movie](http://9gag.com/gag/aKEpxRO)
+ - 😝 [A fathers love](http://9gag.com/gag/a4oVQ1Z)
+ - 💣 [I have 20 new friends now,,,, i guess lmao](http://9gag.com/gag/adPbLPD)
+ - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 👉 [Why do you Western Europeans don&#39;t do this?](http://9gag.com/gag/amAnB7v)<!-- MEMES:END -->
 
 ---
 </div>

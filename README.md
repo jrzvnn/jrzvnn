@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sony Project Q handheld is running Android in a leaked video](https://www.theverge.com/2023/7/22/23804130/the-sony-project-q-leak-handheld-playstation-ps5-android)
  - [I tried Beeper to consolidate my messaging apps and realized that’s a bad idea](https://www.androidauthority.com/beeper-app-opinion-3345142/)
- - [Beats Studio Pro versus AirPods Max -- compared](https://appleinsider.com/inside/airpods-max/vs/beats-studio-pro-versus-airpods-max----compared?utm_medium=rss)
- - [Portable Gaming Consoles Will Soon Come With Replaceable Batteries     - CNET](https://www.cnet.com/tech/gaming/portable-gaming-consoles-will-soon-come-with-replaceable-batteries/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-493-3346954/)
- - [A look at a proposed Massachusetts bill letting police use face recognition for image matching but not face surveillance, which could set the standard in the US &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230722/p7#a230722p7)<!-- TECH:END -->
+ - [Overheating at Night? These 6 Unexpected Factors Could Be the Reason     - CNET](https://www.cnet.com/health/sleep/overheating-at-night-these-6-unexpected-factors-could-be-the-reason/#ftag=CAD590a51e)
+ - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)
+ - [Beats Studio Pro versus AirPods Max -- compared](https://appleinsider.com/inside/airpods-max/vs/beats-studio-pro-versus-airpods-max----compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

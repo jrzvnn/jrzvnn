@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)
- - 😝 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
- - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 😝 [In Florida, you can legally run over and kill hundreds of people if they block the road.](http://9gag.com/gag/avQm7oO)
+ - 😝 [Umbrella](http://9gag.com/gag/a7qArEr)
+ - 💣 [Paper](http://9gag.com/gag/abvEzqb)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [The purest of waters](http://9gag.com/gag/anzVNKV)<!-- MEMES:END -->
+ - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 
 ---
 </div>

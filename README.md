@@ -149,8 +149,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Beats Studio Pro versus AirPods Max -- compared](https://appleinsider.com/inside/airpods-max/vs/beats-studio-pro-versus-airpods-max----compared?utm_medium=rss)
  - [Reddit and Bluesky are contrasting examples on how not to moderate, one centralizing in the worst way possible and the other decentralizing catastrophically &lpar;Katherine Alejandra Cross/Wired&rpar;](http://www.techmeme.com/230722/p8#a230722p8)
  - [This is my favorite Apple Watch Series 8 case because I don’t always need it](https://www.androidauthority.com/spigen-thin-fit-apple-watch-series-8-case-3344524/)
- - [The Sony Project Q handheld is running Android in a leaked video](https://www.theverge.com/2023/7/22/23804130/the-sony-project-q-leak-handheld-playstation-ps5-android)
- - [I tried Beeper to consolidate my messaging apps and realized that’s a bad idea](https://www.androidauthority.com/beeper-app-opinion-3345142/)<!-- TECH:END -->
+ - [Best Portable Mini Bluetooth Speakers for 2023: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
+ - [The Sony Project Q handheld is running Android in a leaked video](https://www.theverge.com/2023/7/22/23804130/the-sony-project-q-leak-handheld-playstation-ps5-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

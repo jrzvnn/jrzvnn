@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paper](http://9gag.com/gag/abvEzqb)
- - 😝 [Noone got offended, right? RIGHT?](http://9gag.com/gag/aREDjpM)
- - 💣 [In Florida, you can legally run over and kill hundreds of people if they block the road.](http://9gag.com/gag/avQm7oO)
+ - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
+ - 😝 [This is too good](http://9gag.com/gag/aPgnBEG)
+ - 💣 [I sweqr to god wtf is this](http://9gag.com/gag/axo40NW)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Umbrella](http://9gag.com/gag/a7qArEr)<!-- MEMES:END -->
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 </div>

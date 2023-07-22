@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
- - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 💣 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
+ - 😝 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)
+ - 😝 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
+ - 💣 [A glimpse to my life](http://9gag.com/gag/agojYy1)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
+ - 👉 [The purest of waters](http://9gag.com/gag/anzVNKV)<!-- MEMES:END -->
 
 ---
 </div>

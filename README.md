@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 💣 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
- - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
+ - 😝 [Yeah, ok](http://9gag.com/gag/aVbBYrP)
+ - 😝 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
+ - 💣 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
+ - 😝 [Just Sad](http://9gag.com/gag/ay2PxnW)
+ - 👉 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 😝 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
- - 💣 [How to stop crimes](http://9gag.com/gag/aMEyGYG)
+ - 😝 [Paper](http://9gag.com/gag/abvEzqb)
+ - 😝 [Noone got offended, right? RIGHT?](http://9gag.com/gag/aREDjpM)
+ - 💣 [In Florida, you can legally run over and kill hundreds of people if they block the road.](http://9gag.com/gag/avQm7oO)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)<!-- MEMES:END -->
+ - 👉 [Umbrella](http://9gag.com/gag/a7qArEr)<!-- MEMES:END -->
 
 ---
 </div>

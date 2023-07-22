@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
- - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
- - 💣 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
+ - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
+ - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 💣 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
  - 👉 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)<!-- MEMES:END -->
 

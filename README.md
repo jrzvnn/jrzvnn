@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
- - 😝 [Hmm I wonder](http://9gag.com/gag/awZvnbB)
- - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 😝 [Man explains why this alligator won\u2019t kill him](http://9gag.com/gag/a9qBWvD)
+ - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
+ - 💣 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [This teacher is maybe too much on 9gag](http://9gag.com/gag/aMEy8d6)<!-- MEMES:END -->
+ - 👉 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)<!-- MEMES:END -->
 
 ---
 </div>

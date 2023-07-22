@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro took the opportunity](http://9gag.com/gag/aDYMobG)
- - 😝 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)
- - 💣 [Who forgot and leave a coffee cup above the car.](http://9gag.com/gag/a8qzMep)
+ - 😝 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
+ - 😝 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)
+ - 💣 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [How to stop crimes](http://9gag.com/gag/aMEyGYG)<!-- MEMES:END -->
+ - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
 
 ---
 </div>

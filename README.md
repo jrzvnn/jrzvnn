@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
- - 😝 [Peak Athleticism](http://9gag.com/gag/a3ZnKr8)
- - 💣 [Noone got offended, right? RIGHT?](http://9gag.com/gag/aREDjpM)
- - 😝 [That rat and pig dont have a heart](http://9gag.com/gag/aBdoxvP)
- - 👉 [A glimpse to my life](http://9gag.com/gag/agojYy1)<!-- MEMES:END -->
+ - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 💣 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
+ - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
+ - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 
 ---
 </div>

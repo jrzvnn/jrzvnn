@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interviewer is the real mvp](http://9gag.com/gag/amAn7Lv)
- - 😝 [I sweqr to god wtf is this](http://9gag.com/gag/axo40NW)
- - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 😝 [Crowd gathered to see a accident on a highway and another car came in at 160 and ran in to the crowd .. . 9 Pepsi.. .](http://9gag.com/gag/aMEyGmA)
+ - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 💣 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [What happened, why so much scandal](http://9gag.com/gag/a04wjRB)<!-- MEMES:END -->
+ - 👉 [Who&#39;s gonna tell her?](http://9gag.com/gag/aVbBqqw)<!-- MEMES:END -->
 
 ---
 </div>

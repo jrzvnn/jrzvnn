@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: during July 17 meetings with officials in DC, the CEOs of Intel, Nvidia, and Qualcomm warned that export controls risk harming US chip leadership &lpar;Bloomberg&rpar;](http://www.techmeme.com/230722/p1#a230722p1)
  - [The Linux Foundation forms the Ultra Ethernet Consortium with AMD, Cisco, HPE, Intel, Meta, Microsoft, and others to optimize Ethernet standards for AI and HPC &lpar;Ash Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230721/p22#a230721p22)
  - [A report says the Microsoft key that Chinese hackers stole could have given them more access than originally assumed; Microsoft disputes the report &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230721/p21#a230721p21)
  - [Twitter says unverified accounts will have daily limits on the number of direct messages they can send, as part of changes to reduce spam in DMs &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230721/p20#a230721p20)
- - [Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure     - CNET](https://www.cnet.com/tech/google-microsoft-amazon-meta-pledge-to-make-ai-safer-and-more-secure/#ftag=CAD590a51e)
- - [Google plans to adopt the Message Layer Security protocol for its Messages app; MLS allows interoperable E2E encrypted messaging across services and platforms &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230721/p19#a230721p19)<!-- TECH:END -->
+ - [Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure     - CNET](https://www.cnet.com/tech/google-microsoft-amazon-meta-pledge-to-make-ai-safer-and-more-secure/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

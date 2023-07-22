@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more you know\u2026](http://9gag.com/gag/a04w5zB)
- - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
- - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 👉 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)<!-- MEMES:END -->
+ - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 😝 [Mom I found her](http://9gag.com/gag/a7qAZbz)
+ - 💣 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
+ - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 👉 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)<!-- MEMES:END -->
 
 ---
 </div>

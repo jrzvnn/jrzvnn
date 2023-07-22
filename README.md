@@ -147,10 +147,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The Weekly Authority: 🗨️ Google Messages’ cross platform end-to-end encryption?](https://www.androidauthority.com/the-weekly-authority-july-22-254-3346029/)
+ - [Yes, iOS 17&#39;s StandBy Mode Is Fantastic, but There&#39;s More     - CNET](https://www.cnet.com/tech/services-and-software/yes-ios-17s-standby-mode-is-fantastic-but-theres-more/#ftag=CAD590a51e)
  - [Please Stop Asking Chatbots for Love Advice](https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/)
  - [15 Best Deals: Desktop Monitors, Gaming Keyboards, and Sex Toys](https://www.wired.com/story/weekend-deals-july-22-2023/)
- - [The Best Fanny Packs: Recycled, Waterproof, and More](https://www.wired.com/gallery/best-fanny-packs/)
- - [South Korean and Indian filmmakers are hoping the Hollywood strikes will give them more bargaining power with US streamers and a precedent to follow &lpar;Washington Post&rpar;](http://www.techmeme.com/230722/p4#a230722p4)<!-- TECH:END -->
+ - [The Best Fanny Packs: Recycled, Waterproof, and More](https://www.wired.com/gallery/best-fanny-packs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

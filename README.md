@@ -157,9 +157,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Paper](http://9gag.com/gag/abvEzqb)
  - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 💣 [Peak Athleticism](http://9gag.com/gag/a3ZnKr8)
+ - 💣 [Tinker bells](http://9gag.com/gag/aMEyAWx)
  - 😝 [Whoop whoop whoop! Your favorite show is back. Stream a new season of Futurama, July 24. Only on Hulu.](http://9gag.com/gag/aXnReG6)
- - 👉 [Tinker bells](http://9gag.com/gag/aMEyAWx)<!-- MEMES:END -->
+ - 👉 [Peak Athleticism](http://9gag.com/gag/a3ZnKr8)<!-- MEMES:END -->
 
 ---
 </div>

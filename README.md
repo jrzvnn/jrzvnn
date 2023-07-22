@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s They Cloned Tyrone is an instant classic, no cult required](https://www.theverge.com/23803139/they-cloned-tyrone-review-netflix)
  - [Reddit expanded the r/Place canvas, and users immediately wrote messages cursing the CEO](https://www.theverge.com/2023/7/21/23803112/reddit-r-place-canvas-expand-protest-messages-cursing-ceo)
  - [One of the best puzzle RPGs gets another chance](https://www.theverge.com/2023/7/22/23803057/might-and-magic-clash-of-heroes-switch-steam-ps4)
  - [My first MP3 player had everything I needed](https://www.theverge.com/23795072/iriver-mp3-player-retro-gadgets-we-love)
- - [Daily deals: Save $1,400 on Samsung 65-inch OLED TV, $200 off M2 14-inch MacBook Pro, $50 off AirPods Pro](https://appleinsider.com/articles/23/07/22/daily-deals-save-1400-on-samsung-65-inch-oled-tv-200-off-m2-14-inch-macbook-pro-50-off-airpods-pro?utm_medium=rss)
- - [Norwegian robotics company AutoStore agrees to pay &amp;pound;200M to UK supermarket giant Ocado to settle a global dispute over warehouse patent infringements &lpar;Alastair Reed/Bloomberg&rpar;](http://www.techmeme.com/230722/p6#a230722p6)<!-- TECH:END -->
+ - [Daily deals: Save $1,400 on Samsung 65-inch OLED TV, $200 off M2 14-inch MacBook Pro, $50 off AirPods Pro](https://appleinsider.com/articles/23/07/22/daily-deals-save-1400-on-samsung-65-inch-oled-tv-200-off-m2-14-inch-macbook-pro-50-off-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: 🗨️ Google Messages’ cross platform end-to-end encryption?](https://www.androidauthority.com/the-weekly-authority-july-22-254-3346029/)
- - [Yes, iOS 17&#39;s StandBy Mode Is Fantastic, but There&#39;s More     - CNET](https://www.cnet.com/tech/services-and-software/yes-ios-17s-standby-mode-is-fantastic-but-theres-more/#ftag=CAD590a51e)
- - [Please Stop Asking Chatbots for Love Advice](https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/)
- - [15 Best Deals: Desktop Monitors, Gaming Keyboards, and Sex Toys](https://www.wired.com/story/weekend-deals-july-22-2023/)
- - [The Best Fanny Packs: Recycled, Waterproof, and More](https://www.wired.com/gallery/best-fanny-packs/)<!-- TECH:END -->
+ - [The Samsung Galaxy Ring should copy &lpar;or improve&rpar; these features from Oura](https://www.androidauthority.com/samsung-galaxy-ring-should-copy-from-oura-3344870/)
+ - [De&#39;Longhi TrueBrew Drip Coffee Maker: The Joe Is Just So-So](https://www.wired.com/review/delonghi-truebrew-drip-coffee-maker/)
+ - [Why These Surfers Want to Restore a Rainforest](https://www.wired.com/story/why-these-surfers-want-to-restore-a-rainforest/)
+ - [Time is running out on the Climate Clock](https://www.theverge.com/2023/7/22/23803197/climate-change-clock-deadline-new-york)
+ - [The Weekly Authority: 🗨️ Google Messages’ cross platform end-to-end encryption?](https://www.androidauthority.com/the-weekly-authority-july-22-254-3346029/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

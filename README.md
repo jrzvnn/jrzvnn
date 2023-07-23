@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the Vision Pro app store may get more traction than the Apple Watch or TV app stores did, despite the headset&#39;s small user base for the first few years &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230723/p6#a230723p6)
  - [Netflix won&#39;t be making a native Apple Vision Pro app](https://appleinsider.com/articles/23/07/23/netflix-wont-be-making-a-native-apple-vision-pro-app?utm_medium=rss)
  - [Only two things stop me from using the Nothing Phone 2 as a daily driver](https://www.androidauthority.com/nothing-phone-2-opinion-3346879/)
  - [Studio executives embraced Silicon Valley&#39;s magical thinking of hypergrowth and disruption for the past 10 years, only to slash worker pay as the boom times end &lpar;Brian Merchant/Los Angeles Times&rpar;](http://www.techmeme.com/230723/p5#a230723p5)
- - [Apple Store EasyPay Online Ordering brings shipment options to retail sales](https://appleinsider.com/articles/23/07/23/apple-store-easypay-online-ordering-brings-shipment-options-to-retail-sales?utm_medium=rss)
- - [Twitter’s rebrand to X may actually be happening soon](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)<!-- TECH:END -->
+ - [Apple Store EasyPay Online Ordering brings shipment options to retail sales](https://appleinsider.com/articles/23/07/23/apple-store-easypay-online-ordering-brings-shipment-options-to-retail-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
  - 💣 [Just Sad](http://9gag.com/gag/ay2PxnW)
- - 😝 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
  - 👉 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
 
 ---

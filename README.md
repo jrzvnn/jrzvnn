@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool](http://9gag.com/gag/aPgn3LB)
- - 😝 [Who else?](http://9gag.com/gag/aoKDPAw)
- - 💣 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
- - 😝 [This guy!](http://9gag.com/gag/ay2PeVr)
- - 👉 [Interesting](http://9gag.com/gag/aA0ZbxR)<!-- MEMES:END -->
+ - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 💣 [Well well](http://9gag.com/gag/aRED3jy)
+ - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
 
 ---
 </div>

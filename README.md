@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 😝 [Hard to believe](http://9gag.com/gag/a7qAwBA)
- - 💣 [Blonde is wife material](http://9gag.com/gag/a6q8OZR)
- - 😝 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
- - 👉 [The answer is clear](http://9gag.com/gag/a8qz5Bp)<!-- MEMES:END -->
+ - 😝 [Well well](http://9gag.com/gag/aRED3jy)
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 💣 [Just Sad](http://9gag.com/gag/ay2PxnW)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---
 </div>

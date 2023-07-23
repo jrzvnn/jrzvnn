@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
- - 💣 [A little something for you guys. Thank me later.](http://9gag.com/gag/a5XDM2O)
- - 😝 [Gutfeeling:](http://9gag.com/gag/adPbK3d)
- - 👉 [Just Sad](http://9gag.com/gag/ay2PxnW)<!-- MEMES:END -->
+ - 😝 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [Well well](http://9gag.com/gag/aRED3jy)
+ - 💣 [Just Sad](http://9gag.com/gag/ay2PxnW)
+ - 😝 [Is she deserve it or not?](http://9gag.com/gag/aqeAb9p)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)<!-- MEMES:END -->
 
 ---
 </div>

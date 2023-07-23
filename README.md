@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: 35% off 55-inch Amazon Fire TV, $15 off Pluggable USB-C Docking Station, $899 refurbished M2 13-inch MacBook Pro,](https://appleinsider.com/articles/23/07/23/daily-deals-35-off-55-inch-amazon-fire-tv-15-off-pluggable-usb-c-docking-station-899-refurbished-m2-13-inch-macbook-pro?utm_medium=rss)
  - [Twigby in 2023: Pricing, phone selection, and more](https://www.androidauthority.com/twigby-plans-phones-prices-3347589/)
  - [If the Pixel Fold could copy one thing from the Galaxy Fold, let it be this one](https://www.androidauthority.com/google-pixel-fold-display-customization-samsung-3345086/)
  - [Twitter’s rebrand to X may actually be happening soon](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
- - [Netflix isn’t planning to make a native Vision Pro app yet](https://www.theverge.com/2023/7/23/23804704/netflix-vision-pro-native-app-apple-ios-ipad-os)
- - [Why the Vision Pro app store may get more traction than the Apple Watch or TV app stores did, despite the headset&#39;s small user base for the first few years &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230723/p6#a230723p6)<!-- TECH:END -->
+ - [Netflix isn’t planning to make a native Vision Pro app yet](https://www.theverge.com/2023/7/23/23804704/netflix-vision-pro-native-app-apple-ios-ipad-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

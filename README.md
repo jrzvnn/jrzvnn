@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 Mac mini may join 14-inch, 16-inch MacBook Pro in mid-2024 update](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
- - [Your phone’s main camera is too wide; use 2x zoom instead](https://www.androidauthority.com/wide-main-camera-vs-2x-zoom-3347337/)
- - [What Phone-Makers Need to Learn From the Motorola Razr Plus&#39; Cover Display     - CNET](https://www.cnet.com/tech/mobile/what-phone-makers-need-to-learn-from-the-motorola-razr-plus-cover-display/#ftag=CAD590a51e)
- - [‘Embryo Models’ Challenge the Legal, Ethical, and Biological Concepts of an &#39;Embryo&#39;](https://www.wired.com/story/embryo-models-challenge-the-legal-ethical-and-biological-concepts-of-an-embryo/)
- - [5 Best VR Headsets &lpar;2022&rpar;: Virtual Reality Accessories, Apps, and Games](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)<!-- TECH:END -->
+ - [M3 Mac, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
+ - [15 Best Messenger Bags &lpar;2023&rpar;: Crossbody, Slings, Shoulder Bags](https://www.wired.com/gallery/best-messenger-bags/)
+ - [Ghost Trick is a summer beach read in video game form](https://www.theverge.com/2023/7/23/23803241/ghost-trick-capcom-ace-attorney-nintendo-switch)
+ - [How my smart home almost saved my vacation](https://www.theverge.com/2023/7/23/23800964/smart-home-smart-thermostat-alerts-saved-my-vacation)
+ - [Your phone’s main camera is too wide; use 2x zoom instead](https://www.androidauthority.com/wide-main-camera-vs-2x-zoom-3347337/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

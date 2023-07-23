@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
- - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 💣 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
+ - 😝 [Who else?](http://9gag.com/gag/aoKDPAw)
+ - 😝 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
+ - 💣 [This guy!](http://9gag.com/gag/ay2PeVr)
+ - 😝 [How to pick up women](http://9gag.com/gag/a9qBEW0)
+ - 👉 [Cool](http://9gag.com/gag/aPgn3LB)<!-- MEMES:END -->
 
 ---
 </div>

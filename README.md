@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well](http://9gag.com/gag/aRED3jy)
+ - 😝 [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
  - 😝 [Just Gimli things](http://9gag.com/gag/a1Pw1M8)
- - 💣 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
+ - 💣 [The smell](http://9gag.com/gag/a9qBRLo)
+ - 😝 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
 
 ---
 </div>

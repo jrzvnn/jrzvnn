@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best use of Ultra Instinct](http://9gag.com/gag/aDYMg1K)
- - 😝 [A fathers love](http://9gag.com/gag/a4oVQ1Z)
- - 💣 [I have 20 new friends now,,,, i guess lmao](http://9gag.com/gag/adPbLPD)
- - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
- - 👉 [Why do you Western Europeans don&#39;t do this?](http://9gag.com/gag/amAnB7v)<!-- MEMES:END -->
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
+ - 💣 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)
+ - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 👉 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)<!-- MEMES:END -->
 
 ---
 </div>

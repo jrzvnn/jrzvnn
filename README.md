@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Police officer indicted for 2021 Apple Store punch](https://appleinsider.com/articles/23/07/23/crime-blotter-police-officer-indicted-for-2021-apple-store-punch?utm_medium=rss)
  - [5 Ways ChatGPT Can Improve, Not Replace, Your Writing](https://www.wired.com/story/chatgpt-writing-tips/)
  - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
  - [Apollo Phantom V3 Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-phantom-v3/)
- - [An analysis of eight AI commitments made by OpenAI, Microsoft, Meta, Google, Amazon, Anthropic, and Inflection to the White House, and their potential impact &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230723/p4#a230723p4)
- - [Profiles of eight former Google research scientists who co-authored the pioneering AI paper &quot;Attention Is All You Need&quot; that paved the way for the rise of LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230723/p3#a230723p3)<!-- TECH:END -->
+ - [An analysis of eight AI commitments made by OpenAI, Microsoft, Meta, Google, Amazon, Anthropic, and Inflection to the White House, and their potential impact &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230723/p4#a230723p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

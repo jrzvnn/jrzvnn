@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Noone got offended, right? RIGHT?](http://9gag.com/gag/aREDjpM)
- - 💣 [Well well](http://9gag.com/gag/aRED3jy)
- - 😝 [Underated](http://9gag.com/gag/aL1rwLg)
- - 👉 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)<!-- MEMES:END -->
+ - 😝 [Mix-up](http://9gag.com/gag/a8qz5e3)
+ - 😝 [Best use of Ultra Instinct](http://9gag.com/gag/aDYMg1K)
+ - 💣 [A fathers love](http://9gag.com/gag/a4oVQ1Z)
+ - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
+ - 👉 [The answer is clear](http://9gag.com/gag/a8qz5Bp)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store EasyPay Online Ordering brings shipment options to retail sales](https://appleinsider.com/articles/23/07/23/apple-store-easypay-online-ordering-brings-shipment-options-to-retail-sales?utm_medium=rss)
+ - [Twitter’s rebrand to X may actually be happening soon](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
  - [M3 Mac, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
  - [15 Best Messenger Bags &lpar;2023&rpar;: Crossbody, Slings, Shoulder Bags](https://www.wired.com/gallery/best-messenger-bags/)
- - [Ghost Trick is a summer beach read in video game form](https://www.theverge.com/2023/7/23/23803241/ghost-trick-capcom-ace-attorney-nintendo-switch)
- - [How my smart home almost saved my vacation](https://www.theverge.com/2023/7/23/23800964/smart-home-smart-thermostat-alerts-saved-my-vacation)
- - [Your phone’s main camera is too wide; use 2x zoom instead](https://www.androidauthority.com/wide-main-camera-vs-2x-zoom-3347337/)<!-- TECH:END -->
+ - [Ghost Trick is a summer beach read in video game form](https://www.theverge.com/2023/7/23/23803241/ghost-trick-capcom-ace-attorney-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 💣 [Well well](http://9gag.com/gag/aRED3jy)
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
+ - 😝 [Well well](http://9gag.com/gag/aRED3jy)
+ - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [Imagine all the things that haven&#39;t been saved during covid](http://9gag.com/gag/a04wZpn)
+ - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---
 </div>

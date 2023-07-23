@@ -146,7 +146,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Munich-based Helsing, which uses AI to build real-time battlefield maps by combining data from weapons systems and sensors like infrared and sonar &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230723/p8#a230723p8)
+ - [A profile of Munich-based Helsing, whose battlefield AI distills data from weapons systems and sensors like infrared and sonar into a visualization in real time &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230723/p8#a230723p8)
  - [M3 Mac mini, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
  - [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
  - [B&amp;H launches Mac mini sale with prices as low as $479](https://appleinsider.com/articles/23/07/23/bh-launches-mac-mini-sale-with-prices-as-low-as-479?utm_medium=rss)

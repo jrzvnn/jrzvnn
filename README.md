@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 💣 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Well well](http://9gag.com/gag/aRED3jy)
- - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
+ - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---
 </div>

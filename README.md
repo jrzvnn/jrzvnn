@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
  - [B&amp;H launches Mac mini sale with prices as low as $479](https://appleinsider.com/articles/23/07/23/bh-launches-mac-mini-sale-with-prices-as-low-as-479?utm_medium=rss)
  - [Musk warns Twitter rebrand to X will happen soon](https://appleinsider.com/articles/23/07/23/musk-warns-twitter-rebrand-to-x-will-happen-soon?utm_medium=rss)
  - [Nearly 200 US school districts have joined lawsuits against Meta, TikTok, Snapchat, and YouTube, alleging their apps cause disciplinary and mental health issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230723/p7#a230723p7)
- - [How to fix the Apple Music &quot;error -54&quot; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)
- - [Apple is already using its chatbot for internal work](https://www.theverge.com/2023/7/23/23804825/apple-gpt-chatbot-apple-care-siri-chatgpt)<!-- TECH:END -->
+ - [How to fix the Apple Music &quot;error -54&quot; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

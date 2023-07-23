@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
  - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
+ - 💣 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
  - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 😝 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
- - 👉 [Just Sad](http://9gag.com/gag/ay2PxnW)<!-- MEMES:END -->
+ - 👉 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 
 ---
 </div>

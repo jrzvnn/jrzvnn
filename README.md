@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If the Pixel Fold could copy one thing from the Galaxy Fold, let it be this one](https://www.androidauthority.com/google-pixel-fold-display-customization-samsung-3345086/)
  - [Twitter’s rebrand to X may actually be happening soon](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
  - [Netflix isn’t planning to make a native Vision Pro app yet](https://www.theverge.com/2023/7/23/23804704/netflix-vision-pro-native-app-apple-ios-ipad-os)
  - [Why the Vision Pro app store may get more traction than the Apple Watch or TV app stores did, despite the headset&#39;s small user base for the first few years &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230723/p6#a230723p6)
- - [Netflix won&#39;t be making a native Apple Vision Pro app](https://appleinsider.com/articles/23/07/23/netflix-wont-be-making-a-native-apple-vision-pro-app?utm_medium=rss)
- - [Only two things stop me from using the Nothing Phone 2 as a daily driver](https://www.androidauthority.com/nothing-phone-2-opinion-3346879/)<!-- TECH:END -->
+ - [Netflix won&#39;t be making a native Apple Vision Pro app](https://appleinsider.com/articles/23/07/23/netflix-wont-be-making-a-native-apple-vision-pro-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

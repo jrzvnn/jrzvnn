@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Ways ChatGPT Can Improve, Not Replace, Your Writing](https://www.wired.com/story/chatgpt-writing-tips/)
+ - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
+ - [Apollo Phantom V3 Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-phantom-v3/)
  - [An analysis of eight AI commitments made by OpenAI, Microsoft, Meta, Google, Amazon, Anthropic, and Inflection to the White House, and their potential impact &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230723/p4#a230723p4)
- - [Profiles of eight former Google research scientists who co-authored the pioneering AI paper &quot;Attention Is All You Need&quot; that paved the way for the rise of LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230723/p3#a230723p3)
- - [Wild Donkeys Are on the Vanguard of Ukraine’s Ecological Recovery](https://www.wired.com/story/ukraine-scientists-ecological-legacy-conservation/)
- - [Elon Musk tweets &quot;And soon we shall bid adieu to the twitter brand&quot; and &quot;if a good enough X logo is posted tonight... we&#39;ll make go live worldwide tomorrow&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230723/p2#a230723p2)
- - [Similarweb: by May-end, daily downloads for ByteDance&#39;s social media app Lemon8 fell to 6.7% of its March peak; the app hit the US App Store&#39;s top 10 in March &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230723/p1#a230723p1)<!-- TECH:END -->
+ - [Profiles of eight former Google research scientists who co-authored the pioneering AI paper &quot;Attention Is All You Need&quot; that paved the way for the rise of LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230723/p3#a230723p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

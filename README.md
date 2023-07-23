@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 Mac mini, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
  - [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
  - [B&amp;H launches Mac mini sale with prices as low as $479](https://appleinsider.com/articles/23/07/23/bh-launches-mac-mini-sale-with-prices-as-low-as-479?utm_medium=rss)
  - [Musk warns Twitter rebrand to X will happen soon](https://appleinsider.com/articles/23/07/23/musk-warns-twitter-rebrand-to-x-will-happen-soon?utm_medium=rss)
- - [Nearly 200 US school districts have joined lawsuits against Meta, ByteDance, Snap, and Alphabet, alleging their apps cause disciplinary and mental health issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230723/p7#a230723p7)
- - [How to fix the Apple Music &quot;error -54&quot; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Nearly 200 US school districts have joined lawsuits against Meta, ByteDance, Snap, and Alphabet, alleging their apps cause disciplinary and mental health issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230723/p7#a230723p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

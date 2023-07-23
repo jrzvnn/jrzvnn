@@ -148,7 +148,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Profiles of eight former Google research scientists who co-authored the pioneering AI paper &quot;Attention Is All You Need&quot; that paved the way for the rise of LLMs &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230723/p3#a230723p3)
  - [Wild Donkeys Are on the Vanguard of Ukraine’s Ecological Recovery](https://www.wired.com/story/ukraine-scientists-ecological-legacy-conservation/)
- - [Elon Musk tweets &quot;And soon we shall bid adieu to the twitter brand&quot; and &quot;if a good enough X logo is posted tonight... we&#39;ll make go live worldwide tomorrow&quot; &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/230723/p2#a230723p2)
+ - [Elon Musk tweets &quot;And soon we shall bid adieu to the twitter brand&quot; and &quot;if a good enough X logo is posted tonight... we&#39;ll make go live worldwide tomorrow&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230723/p2#a230723p2)
  - [Similarweb: by May-end, daily downloads for ByteDance&#39;s social media app Lemon8 fell to 6.7% of its March peak; the app hit the US App Store&#39;s top 10 in March &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230723/p1#a230723p1)
  - [Japan adds advanced chipmaking equipment to its export control list, a move that aligns the country with US curbs meant to keep chip tech out of China&#39;s hands &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/230722/p10#a230722p10)<!-- TECH:END -->
 

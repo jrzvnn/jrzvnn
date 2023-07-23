@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro found the fountain of youth and didn&#39;t even willing to share](http://9gag.com/gag/aYVmg02)
- - 😝 [What a coincidence!](http://9gag.com/gag/awZvAdW)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [Well well](http://9gag.com/gag/aRED3jy)
+ - 😝 [Just Gimli things](http://9gag.com/gag/a1Pw1M8)
+ - 💣 [Family turns down $50M from developer who built suburb around their home](http://9gag.com/gag/aGEbjBZ)
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 👉 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
+ - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
 
 ---
 </div>

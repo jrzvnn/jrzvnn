@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [The smell](http://9gag.com/gag/a9qBRLo)
- - 💣 [Coincidence for sure](http://9gag.com/gag/aXnejE9)
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 👉 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
+ - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
+ - 😝 [Accident](http://9gag.com/gag/aVbB7OP)
+ - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [The answer is clear](http://9gag.com/gag/a8qz5Bp)
+ - 👉 [Best stop motion Video ever I&#39;ve seen](http://9gag.com/gag/az2Qmzp)<!-- MEMES:END -->
 
 ---
 </div>

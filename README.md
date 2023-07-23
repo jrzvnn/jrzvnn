@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk tweets &quot;And soon we shall bid adieu to the twitter brand&quot; and &quot;if a good enough X logo is posted tonight... we&#39;ll make go live worldwide tomorrow&quot; &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/230723/p2#a230723p2)
  - [Similarweb: by May-end, daily downloads for ByteDance&#39;s social media app Lemon8 fell to 6.7% of its March peak; the app hit the US App Store&#39;s top 10 in March &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230723/p1#a230723p1)
  - [Japan adds advanced chipmaking equipment to its export control list, a move that aligns the country with US curbs meant to keep chip tech out of China&#39;s hands &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/230722/p10#a230722p10)
  - [Paramount Plus dropped its big Star Trek crossover episode early, and it’s a delight](https://www.theverge.com/2023/7/22/23802322/paramount-plus-star-trek-strange-new-worlds-lower-decks-early)
- - [Star Trek: Strange New Worlds is getting a musical episode](https://www.theverge.com/2023/7/22/23804339/star-trek-strange-new-worlds-is-getting-a-musical-episode)
- - [Meta insists it hasn&#39;t killed off its Quest Pro lineup yet](https://appleinsider.com/articles/23/07/22/meta-insists-it-hasnt-killed-of-its-quest-pro-lineup-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Star Trek: Strange New Worlds is getting a musical episode](https://www.theverge.com/2023/7/22/23804339/star-trek-strange-new-worlds-is-getting-a-musical-episode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

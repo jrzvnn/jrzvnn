@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 😝 [Well well](http://9gag.com/gag/aRED3jy)
- - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
+ - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 😝 [What a coincidence!](http://9gag.com/gag/awZvAdW)
+ - 💣 [Well well](http://9gag.com/gag/aRED3jy)
+ - 😝 [Sweet\u2026](http://9gag.com/gag/a9qBAN1)
+ - 👉 [The smell](http://9gag.com/gag/a9qBRLo)<!-- MEMES:END -->
 
 ---
 </div>

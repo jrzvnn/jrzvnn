@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The smell](http://9gag.com/gag/a9qBRLo)
- - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 💣 [Coincidence for sure](http://9gag.com/gag/aXnejE9)
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
+ - 😝 [What a coincidence!](http://9gag.com/gag/awZvAdW)
+ - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 💣 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - 👉 [Maybe construction work...](http://9gag.com/gag/axo4zyp)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 😝 [What a coincidence!](http://9gag.com/gag/awZvAdW)
- - 💣 [Well well](http://9gag.com/gag/aRED3jy)
- - 😝 [Sweet\u2026](http://9gag.com/gag/a9qBAN1)
- - 👉 [The smell](http://9gag.com/gag/a9qBRLo)<!-- MEMES:END -->
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 😝 [The smell](http://9gag.com/gag/a9qBRLo)
+ - 💣 [Coincidence for sure](http://9gag.com/gag/aXnejE9)
+ - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - 👉 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
 
 ---
 </div>

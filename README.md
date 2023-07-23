@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)
- - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 💣 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 😝 [Just Sad](http://9gag.com/gag/ay2PxnW)
- - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
+ - 😝 [Hard to believe](http://9gag.com/gag/a7qAwBA)
+ - 😝 [Blonde is wife material](http://9gag.com/gag/a6q8OZR)
+ - 💣 [Who else?](http://9gag.com/gag/aoKDPAw)
+ - 😝 [Im impressed](http://9gag.com/gag/a6q8NdL)
+ - 👉 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)<!-- MEMES:END -->
 
 ---
 </div>

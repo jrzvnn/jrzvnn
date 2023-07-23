@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accident](http://9gag.com/gag/aVbB7OP)
- - 😝 [Best stop motion Video ever I&#39;ve seen](http://9gag.com/gag/az2Qmzp)
- - 💣 [Yeah, ok](http://9gag.com/gag/aVbBYrP)
- - 😝 [How long are you going to stay hidden for?](http://9gag.com/gag/a3ZnEE3)
- - 👉 [How to pick up women](http://9gag.com/gag/a9qBEW0)<!-- MEMES:END -->
+ - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
+ - 😝 [Coincidence for sure](http://9gag.com/gag/aXnejE9)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---
 </div>

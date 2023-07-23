@@ -158,8 +158,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
  - 😝 [Well well](http://9gag.com/gag/aRED3jy)
  - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
- - 😝 [Imagine all the things that haven&#39;t been saved during covid](http://9gag.com/gag/a04wZpn)
- - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
+ - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
 
 ---
 </div>

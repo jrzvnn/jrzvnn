@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Police officer indicted for 2021 Apple Store punch](https://appleinsider.com/articles/23/07/23/crime-blotter-police-officer-indicted-for-2021-apple-store-punch?utm_medium=rss)
- - [5 Ways ChatGPT Can Improve, Not Replace, Your Writing](https://www.wired.com/story/chatgpt-writing-tips/)
- - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
- - [Apollo Phantom V3 Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-phantom-v3/)
- - [An analysis of eight AI commitments made by OpenAI, Microsoft, Meta, Google, Amazon, Anthropic, and Inflection to the White House, and their potential impact &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230723/p4#a230723p4)<!-- TECH:END -->
+ - [Your phone’s main camera is too wide; use 2x zoom instead](https://www.androidauthority.com/wide-main-camera-vs-2x-zoom-3347337/)
+ - [‘Embryo Models’ Challenge the Legal, Ethical, and Biological Concepts of an &#39;Embryo&#39;](https://www.wired.com/story/embryo-models-challenge-the-legal-ethical-and-biological-concepts-of-an-embryo/)
+ - [5 Best VR Headsets &lpar;2022&rpar;: Virtual Reality Accessories, Apps, and Games](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)
+ - [The Nothing Phone 2 is mostly fine on Verizon — if you’ve got good 5G coverage](https://www.theverge.com/23803460/nothing-phone-2-verizon-works-okay-wouldnt-depend-on-it)
+ - [Crime blotter: Police officer indicted for 2021 Apple Store punch](https://appleinsider.com/articles/23/07/23/crime-blotter-police-officer-indicted-for-2021-apple-store-punch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

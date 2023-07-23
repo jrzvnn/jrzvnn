@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mix-up](http://9gag.com/gag/a8qz5e3)
  - 😝 [Best use of Ultra Instinct](http://9gag.com/gag/aDYMg1K)
- - 💣 [A fathers love](http://9gag.com/gag/a4oVQ1Z)
+ - 😝 [A fathers love](http://9gag.com/gag/a4oVQ1Z)
+ - 💣 [Mix-up](http://9gag.com/gag/a8qz5e3)
  - 😝 [A glimpse to my life](http://9gag.com/gag/agojYy1)
  - 👉 [The answer is clear](http://9gag.com/gag/a8qz5Bp)<!-- MEMES:END -->
 

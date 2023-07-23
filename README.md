@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
  - 😝 [The Karate Kid is back on streets](http://9gag.com/gag/a2KGZwY)
- - 😝 [How dare they](http://9gag.com/gag/awZvzMD)
  - 💣 [Food for thought](http://9gag.com/gag/az2Qm8p)
  - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 👉 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)<!-- MEMES:END -->
+ - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
 
 ---
 </div>

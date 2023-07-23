@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
  - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 💣 [Well well](http://9gag.com/gag/aRED3jy)
  - 😝 [Just Sad](http://9gag.com/gag/ay2PxnW)
+ - 💣 [Well well](http://9gag.com/gag/aRED3jy)
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
  - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who else?](http://9gag.com/gag/aoKDPAw)
- - 😝 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
- - 💣 [This guy!](http://9gag.com/gag/ay2PeVr)
- - 😝 [How to pick up women](http://9gag.com/gag/a9qBEW0)
- - 👉 [Cool](http://9gag.com/gag/aPgn3LB)<!-- MEMES:END -->
+ - 😝 [Bro found the fountain of youth and didn&#39;t even willing to share](http://9gag.com/gag/aYVmg02)
+ - 😝 [What a coincidence!](http://9gag.com/gag/awZvAdW)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
+ - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
+ - 👉 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
 
 ---
 </div>

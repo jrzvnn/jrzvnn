@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 💣 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 😝 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
- - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
+ - 😝 [Coincidence for sure](http://9gag.com/gag/aXnejE9)
+ - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [Well well](http://9gag.com/gag/aRED3jy)
+ - 👉 [Food for thought](http://9gag.com/gag/az2Qm8p)<!-- MEMES:END -->
 
 ---
 </div>

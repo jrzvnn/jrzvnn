@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hohem iSteady M6 Kit review: take your videos from dull to dazzling](https://appleinsider.com/articles/23/07/23/hohem-isteady-m6-kit-review-take-your-videos-from-dull-to-dazzling?utm_medium=rss)
  - [A profile of Munich-based Helsing, whose battlefield AI distills data from weapons systems and sensors like infrared and sonar into a visualization in real time &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230723/p8#a230723p8)
  - [M3 Mac mini, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
  - [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
- - [B&amp;H launches Mac mini sale with prices as low as $479](https://appleinsider.com/articles/23/07/23/bh-launches-mac-mini-sale-with-prices-as-low-as-479?utm_medium=rss)
- - [Musk warns Twitter rebrand to X will happen soon](https://appleinsider.com/articles/23/07/23/musk-warns-twitter-rebrand-to-x-will-happen-soon?utm_medium=rss)<!-- TECH:END -->
+ - [B&amp;H launches Mac mini sale with prices as low as $479](https://appleinsider.com/articles/23/07/23/bh-launches-mac-mini-sale-with-prices-as-low-as-479?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

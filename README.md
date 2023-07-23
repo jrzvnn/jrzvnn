@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: 35% off 55-inch Amazon Fire TV, $15 off Pluggable USB-C Docking Station, $899 refurbished M2 13-inch MacBook Pro,](https://appleinsider.com/articles/23/07/23/daily-deals-35-off-55-inch-amazon-fire-tv-15-off-pluggable-usb-c-docking-station-899-refurbished-m2-13-inch-macbook-pro?utm_medium=rss)
+ - [How to fix the Apple Music &quot;error -54&quot; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)
+ - [Apple is already using its chatbot for internal work](https://www.theverge.com/2023/7/23/23804825/apple-gpt-chatbot-apple-care-siri-chatgpt)
+ - [Daily deals: 35% off 55-inch Amazon Fire TV, $15 off Pluggable USB-C Docking Station, $899 refurbished M2 13-inch MacBook Pro](https://appleinsider.com/articles/23/07/23/daily-deals-35-off-55-inch-amazon-fire-tv-15-off-pluggable-usb-c-docking-station-899-refurbished-m2-13-inch-macbook-pro?utm_medium=rss)
  - [One of the Best Soundbars of 2023 Is $99 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/one-of-the-best-soundbars-of-2023-is-99-off-right-now-at-amazon/#ftag=CAD590a51e)
- - [Twigby in 2023: Pricing, phone selection, and more](https://www.androidauthority.com/twigby-plans-phones-prices-3347589/)
- - [$250 Discount Drops the 2023 MacBook Pro Back Down to All-Time Low Price     - CNET](https://www.cnet.com/deals/the-2023-macbook-pro-is-back-to-its-all-time-low-save-250/#ftag=CAD590a51e)
- - [If the Pixel Fold could copy one thing from the Galaxy Fold, let it be this one](https://www.androidauthority.com/google-pixel-fold-display-customization-samsung-3345086/)<!-- TECH:END -->
+ - [Twigby in 2023: Pricing, phone selection, and more](https://www.androidauthority.com/twigby-plans-phones-prices-3347589/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

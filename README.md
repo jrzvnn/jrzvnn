@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tinker bells](http://9gag.com/gag/aMEyAWx)
+ - 😝 [A little something for you guys. Thank me later.](http://9gag.com/gag/a5XDM2O)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)
  - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 😝 [Images of note.](http://9gag.com/gag/aYVmgAq)
- - 💣 [Oh Japan...Never change](http://9gag.com/gag/abvEr0O)
- - 😝 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 👉 [Men are simple creatures](http://9gag.com/gag/aVbB3ed)<!-- MEMES:END -->
+ - 👉 [Just Sad](http://9gag.com/gag/ay2PxnW)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TETRA Radio Code Encryption Has a Flaw: A Backdoor](https://www.wired.com/story/tetra-radio-encryption-backdoor/)
  - [Twitter has now rebranded as &#39;X&#39;](https://appleinsider.com/articles/23/07/24/twitter-has-now-rebranded-as-x?utm_medium=rss)
  - [A profile of Moxie Marlinspike and Signal, from copying WhatsApp&#39;s UX to pioneering E2EE, and its aim to reach &quot;everyone on the planet&quot; while upholding privacy &lpar;Kai Ye/Wired&rpar;](http://www.techmeme.com/230724/p4#a230724p4)
  - [Twitter rolls out its updated &quot;interim&quot; X logo, replacing the iconic bird, following Elon Musk&#39;s weekend announcement; X.com now redirects to twitter.com &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230724/p3#a230724p3)
- - [Twitter is now X as the little blue bird disappears](https://www.theverge.com/2023/7/24/23804973/twitter-x-logo-brand-replacement)
- - [Twitter wants you to pay to send more DMs](https://www.androidauthority.com/twitter-pay-to-send-more-direct-messages-3347707/)<!-- TECH:END -->
+ - [Twitter is now X as the little blue bird disappears](https://www.theverge.com/2023/7/24/23804973/twitter-x-logo-brand-replacement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

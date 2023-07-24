@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OneTrust, which offers enterprise privacy and data governance tools, raised $150M led by Al Gore&#39;s GIM at a $4.5B valuation, down 18% from its 2021 valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230724/p9#a230724p9)
+ - [Spotify confirms Premium price hike for a ton of markets &lpar;Update&rpar;](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)
  - [Beats Studio Pro vs. Beats Studio 3 -- compared](https://appleinsider.com/inside/beats-by-dre/vs/beats-studio-pro-vs-beats-studio-3----compared?utm_medium=rss)
  - [Spotify announces Premium price increase worldwide](https://appleinsider.com/articles/23/07/24/spotify-announces-premium-price-increase-worldwide?utm_medium=rss)
- - [Spotify confirms raising US Premium to $10.99/month, up from $9.99, the first increase since its US launch in 2011; Duo rises by $2, Family and Student by $1 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230724/p8#a230724p8)
- - [IBM Security survey of 533 global organizations in the year to March 2023: average data breach costs rose 15% YoY to $4.45M and only ~33% were detected in-house &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230724/p7#a230724p7)
- - [It’s Spotify’s turn to increase prices](https://www.theverge.com/2023/7/24/23805364/spotify-us-price-increase-10-99-a-month-9-99-month-twelve-years)<!-- TECH:END -->
+ - [Spotify confirms raising US Premium to $10.99/month, up from $9.99, the first increase since its US launch in 2011; Duo rises by $2, Family and Student by $1 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230724/p8#a230724p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM Security survey of 533 global organizations in the year to March 2023: average data breach costs rose 15% YoY to $4.45M and only ~33% were detected in-house &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230724/p7#a230724p7)
+ - [It’s Spotify’s turn to increase prices](https://www.theverge.com/2023/7/24/23805364/spotify-us-price-increase-10-99-a-month-9-99-month-twelve-years)
+ - [Apple is considering making the iPhone 15 Pro more expensive](https://appleinsider.com/articles/23/07/24/apple-is-considering-making-the-iphone-15-pro-more-expensive?utm_medium=rss)
  - [Sources: Apple asks suppliers to produce about 85M iPhone 15 units in 2023, only slightly below 2021 and 2022&#39;s 90M target, and considers raising 15 Pro prices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p6#a230724p6)
- - [It’s Getting Harder for the Government to Secretly Flag Your Social Posts](https://www.wired.com/story/its-getting-harder-for-the-government-to-secretly-flag-your-social-posts/)
- - [The World Isn’t Sold on Folding Phones Just Yet. But They&#39;ll Keep Coming](https://www.wired.com/story/folding-phones-just-keep-coming/)
- - [Drop Paragon Series Deep Dive Keyboard review: An expensive wired keyboard](https://appleinsider.com/articles/23/07/24/drop-paragon-series-deep-dive-keyboard-review-an-expensive-wired-keyboard?utm_medium=rss)
- - [How France built a surveillance apparatus over two centuries that digital rights groups and UN experts are critiquing, ahead of the 2024 Paris Summer Olympics &lpar;Laura Kayali/Politico&rpar;](http://www.techmeme.com/230724/p5#a230724p5)<!-- TECH:END -->
+ - [It’s Getting Harder for the Government to Secretly Flag Your Social Posts](https://www.wired.com/story/its-getting-harder-for-the-government-to-secretly-flag-your-social-posts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

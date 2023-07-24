@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple slammed with $1 billion class action lawsuit in UK over 30% App Store fee](https://appleinsider.com/articles/23/07/24/apple-slammed-with-1-billion-class-action-lawsuit-in-uk-over-30-app-store-fee?utm_medium=rss)
  - [Samsung&#39;s Galaxy is about to have a generational iPhone problem in South Korea](https://appleinsider.com/articles/23/07/24/samsungs-galaxy-is-about-to-have-a-generational-iphone-problem-in-south-korea?utm_medium=rss)
  - [iPhone 14 Emergency SOS Facilitates Car Cliff Crash Rescue     - CNET](https://www.cnet.com/tech/mobile/iphone-14-emergency-sos-facilitates-car-cliff-crash-rescue/#ftag=CAD590a51e)
  - [A Web Integrity API standard proposal from Google employees aims to help enforce IP rights, count ad views, and limit bots, but is a nightmare for the open web &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230724/p21#a230724p21)
- - [Twitter removed half its HQ sign — then the police arrived](https://www.theverge.com/2023/7/24/23140317/twitter-sign-sf-hq-removal-demolition-police)
- - [Google proposes a new tracking superpower in Chrome](https://appleinsider.com/articles/23/07/24/google-proposes-a-new-tracking-superpower-in-chrome?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter removed half its HQ sign — then the police arrived](https://www.theverge.com/2023/7/24/23140317/twitter-sign-sf-hq-removal-demolition-police)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

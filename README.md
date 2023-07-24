@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to prank your friend.](http://9gag.com/gag/aVbB7vO)
- - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
+ - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 💣 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
 
 ---
 </div>

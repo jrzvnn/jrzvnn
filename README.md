@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
- - 💣 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 😝 [Pakistan is a great destination for female solo traveling](http://9gag.com/gag/aKEpdY3)
  - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
+ - 💣 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
+ - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 👉 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)<!-- MEMES:END -->
 
 ---
 </div>

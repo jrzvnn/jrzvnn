@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Pakistan is a great destination for female solo traveling](http://9gag.com/gag/aKEpdY3)
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 💣 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
- - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 👉 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)<!-- MEMES:END -->
+ - 😝 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)
+ - 💣 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 👉 [Its a dance battle!](http://9gag.com/gag/aBdodKO)<!-- MEMES:END -->
 
 ---
 </div>

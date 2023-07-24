@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
  - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
- - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 💣 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 😝 [Is he a 9gager?](http://9gag.com/gag/a4oVEjv)
+ - 👉 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)<!-- MEMES:END -->
 
 ---
 </div>

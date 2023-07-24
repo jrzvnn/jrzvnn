@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Boys spinoff Gen V looks like a bloody bacchanal in new trailer](https://www.theverge.com/2023/7/24/23805815/gen-v-trailer-amazon-the-boys)
  - [Researchers find flaws, likely backdoors, in encryption algorithms from the TETRA standard used in radios commonly deployed by police and military orgs globally &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/230724/p19#a230724p19)
+ - [X Isn’t a Super App. It’s Just Twitter](https://www.wired.com/story/twitter-x-rebrand-elon-musk/)
  - [Google loses Chromecast patent dispute, must pay $338 million](https://appleinsider.com/articles/23/07/24/google-loses-chromecast-patent-dispute-must-pay-338-million?utm_medium=rss)
- - [Apple is taking applications for Vision Pro developer kits](https://www.theverge.com/2023/7/24/23805883/apple-vision-pro-ar-headset-developer-kit)
- - [Mortal Kombat 1 adds Omni-Man, Peacemaker, and Homelander to roster](https://www.theverge.com/2023/7/24/23805704/mortal-kombat-1-omniman-peacemaker-homelander)
- - [Apple rolls out iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/24/apple-rolls-out-ios-166-and-ipados-166?utm_medium=rss)<!-- TECH:END -->
+ - [Apple is taking applications for Vision Pro developer kits](https://www.theverge.com/2023/7/24/23805883/apple-vision-pro-ar-headset-developer-kit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

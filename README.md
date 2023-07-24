@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)
- - 😝 [Doggy](http://9gag.com/gag/a1PwQW2)
- - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - 😝 [Omg that&#39;s a new angle](http://9gag.com/gag/aVbBxdy)
+ - 💣 [Title goes here](http://9gag.com/gag/ap98G75)
  - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
+ - 👉 [Ain&#39;t go time for calma sus tatas](http://9gag.com/gag/ajVy8PG)<!-- MEMES:END -->
 
 ---
 </div>

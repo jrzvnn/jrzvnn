@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 💣 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 😝 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
+ - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
+ - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
  - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
  - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers find, in a two-day test across top Mastodon instances, 600+ pieces of known or suspected CSAM and ~2,000 posts with the top 20 CSAM-related hashtags &lpar;Washington Post&rpar;](http://www.techmeme.com/230724/p22#a230724p22)
  - [Apple slammed with $1 billion class action lawsuit in UK over 30% App Store fee](https://appleinsider.com/articles/23/07/24/apple-slammed-with-1-billion-class-action-lawsuit-in-uk-over-30-app-store-fee?utm_medium=rss)
  - [Stanford researchers find Mastodon has a massive child abuse material problem](https://www.theverge.com/2023/7/24/23806093/mastodon-csam-study-decentralized-network)
  - [Samsung&#39;s Galaxy is about to have a generational iPhone problem in South Korea](https://appleinsider.com/articles/23/07/24/samsungs-galaxy-is-about-to-have-a-generational-iphone-problem-in-south-korea?utm_medium=rss)
- - [Samsung Galaxy Z Fold 5 Rumors: Everything to Know Before Galaxy Unpacked     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-5-rumors-everything-to-know-before-galaxy-unpacked/#ftag=CAD590a51e)
- - [Best Xbox Cloud Gaming Controllers and Accessories in 2023     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 Rumors: Everything to Know Before Galaxy Unpacked     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-5-rumors-everything-to-know-before-galaxy-unpacked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

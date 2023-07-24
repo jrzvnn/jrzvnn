@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
- - 💣 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 😝 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)
+ - 😝 [Just Stop Oil gets a taste of their own medicine. Counter activists tie rape alarms to balloons and let them go in a Just Stop Oil meeting.](http://9gag.com/gag/aGEby27)
+ - 💣 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
+ - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
  - 👉 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Emergency SOS Facilitates Car Cliff Crash Rescue     - CNET](https://www.cnet.com/tech/mobile/iphone-14-emergency-sos-facilitates-car-cliff-crash-rescue/#ftag=CAD590a51e)
  - [A Web Integrity API standard proposal from Google employees aims to help enforce IP rights, count ad views, and limit bots, but is a nightmare for the open web &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230724/p21#a230724p21)
  - [Twitter removed half its HQ sign — then the police arrived](https://www.theverge.com/2023/7/24/23140317/twitter-sign-sf-hq-removal-demolition-police)
  - [Google proposes a new tracking superpower in Chrome](https://appleinsider.com/articles/23/07/24/google-proposes-a-new-tracking-superpower-in-chrome?utm_medium=rss)
- - [Android KitKat reaches its end as Google Play services discontinues support](https://www.androidauthority.com/android-kitkat-loses-google-play-support-3348140/)
- - [iPhone 15 display assembly problems reportedly resolved](https://appleinsider.com/articles/23/07/24/iphone-15-display-assembly-problems-reportedly-resolved?utm_medium=rss)<!-- TECH:END -->
+ - [Android KitKat reaches its end as Google Play services discontinues support](https://www.androidauthority.com/android-kitkat-loses-google-play-support-3348140/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

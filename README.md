@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, ok](http://9gag.com/gag/aVbBYrP)
- - 😝 [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
- - 💣 [Title goes here](http://9gag.com/gag/ap98G75)
- - 😝 [How dare they](http://9gag.com/gag/awZvzMD)
- - 👉 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)<!-- MEMES:END -->
+ - 😝 [This guy!](http://9gag.com/gag/ay2PeVr)
+ - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 💣 [I&#39;m a normally a pascifist, but kicking a dog because you have a tiny PP and can&#39;t hold your liqueur .. get F&#39;d A-hole](http://9gag.com/gag/aoKDg5m)
+ - 😝 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
+ - 👉 [Cool](http://9gag.com/gag/aPgn3LB)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Boston Fed&#39;s Project Hamilton, launched in 2020 to research how to design a US CBDC but ended in 2022 amid opposition from anti-CBDC legislators &lpar;Mike Orcutt/MIT Technology Review&rpar;](http://www.techmeme.com/230723/p10#a230723p10)
+ - [Sources: IAC, News Corp, the NYT, and other publishers are forming a coalition to push for AI laws and lead a lawsuit against AI firms who trained on their data &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/230723/p9#a230723p9)
  - [How to fix the Apple Music &#39;error -54&#39; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)
  - [Hohem iSteady M6 Kit review: take your videos from dull to dazzling](https://appleinsider.com/articles/23/07/23/hohem-isteady-m6-kit-review-take-your-videos-from-dull-to-dazzling?utm_medium=rss)
- - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
- - [A profile of Munich-based Helsing, whose battlefield AI distills data from weapons systems and sensors like infrared and sonar into a visualization in real time &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230723/p8#a230723p8)
- - [Best Gifts for 2023     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

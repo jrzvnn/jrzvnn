@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)
+ - [RIP Twitter’s iconic bird logo](https://www.theverge.com/2023/7/24/23805415/twitter-x-logo-rebrand-bird-farewell-to-birds)
  - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
  - [Straight Talk finally offers discounted family plans](https://www.androidauthority.com/straight-talk-family-plans-3347341/)
- - [The Flipper Zero has an app store now](https://www.theverge.com/2023/7/24/23803600/flipper-zero-app-store-launch)
- - [Flip phones are having a moment — and all eyes are on Samsung now](https://www.theverge.com/2023/7/24/23803386/samsung-unpacked-2023-galaxy-z-flip-fold-5-motorola-razr-plus)
- - [Ahead of Amazon&#39;s WA worker safety hearing after inspectors found multiple hazards, its business model is on trial and enforced changes may weaken its advantage &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p12#a230724p12)<!-- TECH:END -->
+ - [7 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

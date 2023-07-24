@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
  - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
- - 💣 [What a horrible day to have eyes](http://9gag.com/gag/ay2P2oq)
+ - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
  - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
+ - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
 
 ---
 </div>

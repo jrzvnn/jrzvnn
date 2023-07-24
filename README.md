@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android KitKat reaches its end as Google Play services discontinues support](https://www.androidauthority.com/android-kitkat-loses-google-play-support-3348140/)
  - [iPhone 15 display assembly problems reportedly resolved](https://appleinsider.com/articles/23/07/24/iphone-15-display-assembly-problems-reportedly-resolved?utm_medium=rss)
  - [Looking back at the original Chromecast, which turned 10 years old today](https://www.theverge.com/23537741/google-chromecast-10-year-old-happy-birthday)
  - [Does Google Fi Wireless support Wi-Fi calling?](https://www.androidauthority.com/google-fi-wifi-calling-support-3348137/)
- - [House GOP could try to hold Mark Zuckerberg in contempt of Congress](https://www.theverge.com/2023/7/24/23806054/meta-mark-zuckerberg-contempt-congress-jim-jordan-go)
- - [Apple is taking applications for Vision Pro developer kits](https://www.theverge.com/2023/7/24/23805883/apple-vision-pro-ar-headset-developer-kit)<!-- TECH:END -->
+ - [House GOP could try to hold Mark Zuckerberg in contempt of Congress](https://www.theverge.com/2023/7/24/23806054/meta-mark-zuckerberg-contempt-congress-jim-jordan-go)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

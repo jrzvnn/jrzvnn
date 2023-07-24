@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a coincidence!](http://9gag.com/gag/awZvAdW)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
  - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 💣 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
- - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 👉 [Its a dance battle!](http://9gag.com/gag/aBdodKO)<!-- MEMES:END -->
+ - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
 
 ---
 </div>

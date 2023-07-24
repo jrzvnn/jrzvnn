@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony WF-1000XM4 vs Sony WF-1000XM5: Are they worth the upgrade?](https://www.androidauthority.com/sony-wf-1000xm4-vs-sony-wf-1000xm5-3348014/)
+ - [MLB sets August schedule for Apple TV+ &#39;Friday Night Baseball&#39;](https://appleinsider.com/articles/23/07/24/mlb-sets-august-schedule-for-apple-tv-friday-night-baseball?utm_medium=rss)
  - [Immerse yourself in high-resolution audio with Sony&#39;s new WF-1000XM5 earbuds](https://appleinsider.com/articles/23/07/24/immerse-yourself-in-high-resolution-audio-with-sonys-new-wf-1000xm5-earbuds?utm_medium=rss)
  - [At a Comic-Con Without Hollywood, Fans Show Their Allegiances](https://www.wired.com/story/hollywood-strike-comic-con-2023-fandom/)
- - [Deals: $100 off MacBook Air 15-inch, MagSafe Battery Pack $84, iPhone 13 from $540, $199 Elgato Stream Deck XL, more](https://appleinsider.com/articles/23/07/24/deals-100-off-macbook-air-15-inch-magsafe-battery-pack-84-iphone-13-from-540-199-elgato-stream-deck-xl-more?utm_medium=rss)
- - [Sony WF-1000XM5 Review: Smaller, Lighter, but Not Better](https://www.wired.com/review/review-sony-wf-1000xm5-true-wireless-earbuds/)
- - [Nanoleaf’s blacked-out Triangle panels that light up with RGB color are $55 off](https://www.theverge.com/2023/7/24/23805429/nanoleaf-triangles-ultrablack-logitech-streamcam-oneplus-10t-android-deal-sale)<!-- TECH:END -->
+ - [Deals: $100 off MacBook Air 15-inch, MagSafe Battery Pack $84, iPhone 13 from $540, $199 Elgato Stream Deck XL, more](https://appleinsider.com/articles/23/07/24/deals-100-off-macbook-air-15-inch-magsafe-battery-pack-84-iphone-13-from-540-199-elgato-stream-deck-xl-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

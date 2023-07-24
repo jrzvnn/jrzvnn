@@ -148,9 +148,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Twitter is killing the bird logo and replacing it with an ‘X’](https://www.androidauthority.com/twitter-rebranding-x-logo-3347674/)
  - [Spotify Premium price hike likely coming to the US this week](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)
+ - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
  - [A look at the Boston Fed&#39;s Project Hamilton, launched in 2020 to research how to design a US CBDC but ended in 2022 amid opposition from anti-CBDC legislators &lpar;Mike Orcutt/MIT Technology Review&rpar;](http://www.techmeme.com/230723/p10#a230723p10)
- - [Sources: IAC, News Corp, the NYT, and other publishers are forming a coalition to push for AI laws and lead a lawsuit against AI firms who trained on their data &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/230723/p9#a230723p9)
- - [How to fix the Apple Music &#39;error -54&#39; on macOS](https://appleinsider.com/inside/apple-music/tips/how-to-fix-the-apple-music-error--54-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: IAC, News Corp, the NYT, and other publishers are forming a coalition to push for AI laws and lead a lawsuit against AI firms who trained on their data &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/230723/p9#a230723p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

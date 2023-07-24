@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 💣 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
  - 😝 [What a horrible day to have eyes](http://9gag.com/gag/ay2P2oq)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 💣 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 💣 [Food for thought](http://9gag.com/gag/az2Qm8p)
  - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 👉 [What does she mean?](http://9gag.com/gag/a7qA1YL)<!-- MEMES:END -->
 
 ---
 </div>

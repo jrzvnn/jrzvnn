@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
  - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
- - 💣 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
+ - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 💣 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
+ - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
  - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Web Integrity API standard proposal from Google employees aims to help enforce IP rights, count ad views, and limit bots, but is a nightmare for the open web &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230724/p21#a230724p21)
+ - [Twitter removed half its HQ sign — then the police arrived](https://www.theverge.com/2023/7/24/23140317/twitter-sign-sf-hq-removal-demolition-police)
  - [Google proposes a new tracking superpower in Chrome](https://appleinsider.com/articles/23/07/24/google-proposes-a-new-tracking-superpower-in-chrome?utm_medium=rss)
  - [Android KitKat reaches its end as Google Play services discontinues support](https://www.androidauthority.com/android-kitkat-loses-google-play-support-3348140/)
- - [iPhone 15 display assembly problems reportedly resolved](https://appleinsider.com/articles/23/07/24/iphone-15-display-assembly-problems-reportedly-resolved?utm_medium=rss)
- - [Looking back at the original Chromecast, which turned 10 years old today](https://www.theverge.com/23537741/google-chromecast-10-year-old-happy-birthday)
- - [Does Google Fi Wireless support Wi-Fi calling?](https://www.androidauthority.com/google-fi-wifi-calling-support-3348137/)<!-- TECH:END -->
+ - [iPhone 15 display assembly problems reportedly resolved](https://appleinsider.com/articles/23/07/24/iphone-15-display-assembly-problems-reportedly-resolved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

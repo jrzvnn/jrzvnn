@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 😝 [How long are you going to stay hidden for?](http://9gag.com/gag/a3ZnEE3)
- - 💣 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 👉 [The beautiful Sound of Pain...](http://9gag.com/gag/a8qzEAY)<!-- MEMES:END -->
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 😝 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
+ - 💣 [What a horrible day to have eyes](http://9gag.com/gag/ay2P2oq)
+ - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
 
 ---
 </div>

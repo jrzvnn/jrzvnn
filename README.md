@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The previous big strikes reshaped Hollywood and fueled reality TV&#39;s rise; the current ones will likely turn established actors into TikTok stars and vice versa &lpar;Washington Post&rpar;](http://www.techmeme.com/230724/p11#a230724p11)
  - [New Apple Watch Ultra will be lighter, claims leaker](https://appleinsider.com/articles/23/07/24/new-apple-watch-ultra-will-be-lighter-claims-leaker?utm_medium=rss)
  - [SoftBank and Symbotic create GreenBox Systems, an AI warehousing joint venture, and plan to invest $100M and buy $7.5B of Symbotic&#39;s AI warehouse systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p10#a230724p10)
  - [Spotify Connect is the reason I won’t switch to another music platform](https://www.androidauthority.com/spotify-connect-switch-music-streaming-3346775/)
- - [TP-Link Tapo RV10 Plus Review: No Maps, Self-Emptying](https://www.wired.com/review/tp-link-tapo-rv10-plus/)
- - [Beauty Is in the Eye of the Beholder—but Memorability May Be Universal](https://www.wired.com/story/beauty-is-in-the-eye-of-the-beholder-but-memorability-may-be-universal/)<!-- TECH:END -->
+ - [TP-Link Tapo RV10 Plus Review: No Maps, Self-Emptying](https://www.wired.com/review/tp-link-tapo-rv10-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

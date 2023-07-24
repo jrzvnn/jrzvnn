@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OneTrust, which offers enterprise privacy and data governance tools, raised $150M led by Al Gore&#39;s GIM at a $4.5B valuation, down 18% from its 2021 valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230724/p9#a230724p9)
- - [Spotify confirms Premium price hike for a ton of markets &lpar;Update&rpar;](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)
- - [Beats Studio Pro vs. Beats Studio 3 -- compared](https://appleinsider.com/inside/beats-by-dre/vs/beats-studio-pro-vs-beats-studio-3----compared?utm_medium=rss)
- - [Spotify announces Premium price increase worldwide](https://appleinsider.com/articles/23/07/24/spotify-announces-premium-price-increase-worldwide?utm_medium=rss)
- - [Spotify confirms raising US Premium to $10.99/month, up from $9.99, the first increase since its US launch in 2011; Duo rises by $2, Family and Student by $1 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230724/p8#a230724p8)<!-- TECH:END -->
+ - [New Apple Watch Ultra will be lighter, claims leaker](https://appleinsider.com/articles/23/07/24/new-apple-watch-ultra-will-be-lighter-claims-leaker?utm_medium=rss)
+ - [SoftBank and Symbotic create GreenBox Systems, an AI warehousing joint venture, and plan to invest $100M and buy $7.5B of Symbotic&#39;s AI warehouse systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p10#a230724p10)
+ - [Spotify Connect is the reason I won’t switch to another music platform](https://www.androidauthority.com/spotify-connect-switch-music-streaming-3346775/)
+ - [TP-Link Tapo RV10 Plus Review: No Maps, Self-Emptying](https://www.wired.com/review/tp-link-tapo-rv10-plus/)
+ - [Beauty Is in the Eye of the Beholder—but Memorability May Be Universal](https://www.wired.com/story/beauty-is-in-the-eye-of-the-beholder-but-memorability-may-be-universal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

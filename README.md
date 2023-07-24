@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 💣 [The beautiful Sound of Pain...](http://9gag.com/gag/a8qzEAY)
+ - 😝 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
+ - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 💣 [Childhood Trauma: A Quick Tutorial](http://9gag.com/gag/aeQWQEO)
  - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 👉 [All the respect you deserve Irena](http://9gag.com/gag/a6q8K9e)<!-- MEMES:END -->
+ - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
 
 ---
 </div>

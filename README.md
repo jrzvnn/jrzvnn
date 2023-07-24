@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, Ubisoft won’t delete your game-filled accounts, it claims](https://www.theverge.com/2023/7/24/23805783/ubisoft-delete-game-accounts)
+ - [The best cheap Android tablet gets a 26% price cut](https://www.androidauthority.com/samsung-galaxy-tab-a8-deal-3348091/)
  - [MLS Season Pass deal a success with nearly a million subscribers](https://appleinsider.com/articles/23/07/24/mls-season-pass-deal-a-success-with-nearly-a-million-subscribers?utm_medium=rss)
  - [The Boys spinoff Gen V looks like a bloody bacchanal in new trailer](https://www.theverge.com/2023/7/24/23805815/gen-v-trailer-amazon-the-boys)
- - [Researchers find flaws, likely backdoors, in encryption algorithms from the TETRA standard used in radios commonly deployed by police and military orgs globally &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/230724/p19#a230724p19)
- - [X Isn’t a Super App. It’s Just Twitter](https://www.wired.com/story/twitter-x-rebrand-elon-musk/)
- - [Google loses Chromecast patent dispute, must pay $338 million](https://appleinsider.com/articles/23/07/24/google-loses-chromecast-patent-dispute-must-pay-338-million?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers find flaws, likely backdoors, in encryption algorithms from the TETRA standard used in radios commonly deployed by police and military orgs globally &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/230724/p19#a230724p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

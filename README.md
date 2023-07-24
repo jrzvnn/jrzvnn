@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Justine Bateman, a member of the DGA, the WGA, and SAG-AFTRA, on how AI may change the industry, the importance of the timing of the strike, and more &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230724/p16#a230724p16)
  - [Kaiko: monthly spot trading volumes on decentralized crypto exchanges dropped 76% YoY to $21B in June 2023; centralized exchanges slid 69% YoY to $429B &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230724/p15#a230724p15)
  - [Bing Chat is now available in Google Chrome and Safari](https://www.theverge.com/2023/7/24/23805493/bing-ai-chat-google-chrome-safari)
  - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2023&rpar;](https://www.wired.com/story/best-personal-safety-tech/)
- - [Microsoft has created a pizza-scented Xbox controller](https://www.theverge.com/2023/7/24/23805501/microsoft-xbox-pizza-scented-controller-tmnt-teenage-mutant-ninja-turtles)
- - [Flipper releases an app store for its dolphin-themed digital multitool Flipper Zero, used to interact with wireless devices, helping users more easily find apps &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230724/p14#a230724p14)<!-- TECH:END -->
+ - [Microsoft has created a pizza-scented Xbox controller](https://www.theverge.com/2023/7/24/23805501/microsoft-xbox-pizza-scented-controller-tmnt-teenage-mutant-ninja-turtles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

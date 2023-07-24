@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft has created a pizza-scented Xbox controller](https://www.theverge.com/2023/7/24/23805501/microsoft-xbox-pizza-scented-controller-tmnt-teenage-mutant-ninja-turtles)
+ - [Flipper releases an app store for its dolphin-themed digital multitool Flipper Zero, used to interact with wireless devices, helping users more easily find apps &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230724/p14#a230724p14)
  - [TUO Matter Button, ESR&#39;s 6-in1 MagSafe charger, &amp; more Matter on the AppleInsider podcast](https://appleinsider.com/articles/23/07/24/tuo-matter-button-esrs-6-in1-magsafe-charger-more-matter-on-the-appleinsider-podcast?utm_medium=rss)
  - [A look at Worldcoin&#39;s plans, &quot;proof of personhood&quot;, or creating a list of public keys, and its importance, social-graph and biometric, privacy issues, and more &lpar;Vitalik Buterin&rpar;](http://www.techmeme.com/230724/p13#a230724p13)
- - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)
- - [RIP Twitter’s iconic bird logo](https://www.theverge.com/2023/7/24/23805415/twitter-x-logo-rebrand-bird-farewell-to-birds)
- - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)<!-- TECH:END -->
+ - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

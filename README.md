@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon)
  - [Sony Xperia 5 V video leaks: A major change is coming for the series](https://www.androidauthority.com/sony-xperia-5-v-video-leak-3346364/)
  - [Everyone Wants Ukraine’s Battlefield Data](https://www.wired.com/story/ukraine-government-battlefield-data/)
  - [Small-time US entrepreneurs are amassing vehicles to rent out through services such as Turo and Getaround or their own websites to take on Hertz and Avis Budget &lpar;Ben Eisen/Wall Street Journal&rpar;](http://www.techmeme.com/230724/p1#a230724p1)
- - [Twitter is killing the bird logo and replacing it with an ‘X’](https://www.androidauthority.com/twitter-rebranding-x-logo-3347674/)
- - [Spotify Premium price hike likely coming to the US this week](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)<!-- TECH:END -->
+ - [Twitter is killing the bird logo and replacing it with an ‘X’](https://www.androidauthority.com/twitter-rebranding-x-logo-3347674/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

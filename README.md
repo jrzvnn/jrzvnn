@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy!](http://9gag.com/gag/ay2PeVr)
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 💣 [I&#39;m a normally a pascifist, but kicking a dog because you have a tiny PP and can&#39;t hold your liqueur .. get F&#39;d A-hole](http://9gag.com/gag/aoKDg5m)
- - 😝 [This lamp project is Two Steps from Hell](http://9gag.com/gag/aVbBwwO)
- - 👉 [Cool](http://9gag.com/gag/aPgn3LB)<!-- MEMES:END -->
+ - 😝 [A little something for you guys. Thank me later.](http://9gag.com/gag/a5XDM2O)
+ - 😝 [Title goes here](http://9gag.com/gag/ap98G75)
+ - 💣 [Yeah, ok](http://9gag.com/gag/aVbBYrP)
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 👉 [This is a good title](http://9gag.com/gag/a5XD16E)<!-- MEMES:END -->
 
 ---
 </div>

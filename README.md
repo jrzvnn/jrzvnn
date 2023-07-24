@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent set to acquire Dying Light studio Techland](https://www.theverge.com/2023/7/24/23805592/tencent-buys-techland-dying-light)
  - [Samsung’s Smart View can finally mirror your screen to Chromecast devices](https://www.androidauthority.com/samsung-smart-view-chromecast-3348010/)
  - [Man who drove off a cliff is saved by iPhone 14](https://appleinsider.com/articles/23/07/24/man-who-drove-off-a-cliff-is-saved-by-iphone-14?utm_medium=rss)
  - [Apple’s iPhone 15 Pro and Pro Max models could be more expensive](https://www.theverge.com/2023/7/24/23805551/apple-iphone-15-pro-max-price-hikes-falling-smartphone-demand)
- - [TikTok rolls out support for text posts, available via the app&#39;s Camera page and letting users add sounds, locations, stickers, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230724/p17#a230724p17)
- - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)<!-- TECH:END -->
+ - [TikTok rolls out support for text posts, available via the app&#39;s Camera page and letting users add sounds, locations, stickers, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230724/p17#a230724p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

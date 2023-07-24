@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Smart View can finally mirror your screen to Chromecast devices](https://www.androidauthority.com/samsung-smart-view-chromecast-3348010/)
+ - [Man who drove off a cliff is saved by iPhone 14](https://appleinsider.com/articles/23/07/24/man-who-drove-off-a-cliff-is-saved-by-iphone-14?utm_medium=rss)
  - [Apple’s iPhone 15 Pro and Pro Max models could be more expensive](https://www.theverge.com/2023/7/24/23805551/apple-iphone-15-pro-max-price-hikes-falling-smartphone-demand)
  - [TikTok rolls out support for text posts, available via the app&#39;s Camera page and letting users add sounds, locations, stickers, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230724/p17#a230724p17)
- - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [Q&amp;A with Justine Bateman, a member of the DGA, the WGA, and SAG-AFTRA, on how AI may change the industry, the importance of the timing of the strike, and more &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230724/p16#a230724p16)<!-- TECH:END -->
+ - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

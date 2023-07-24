@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/24/apple-rolls-out-ios-166-and-ipados-166?utm_medium=rss)
  - [Netflix’s new mobile tab could make it easier to find things to watch](https://www.theverge.com/2023/7/24/23805752/netflix-my-tab-ios-android-find-things-to-watch)
  - [Windows won&#39;t dominate enterprise in a decade, says outgoing Jamf CEO](https://appleinsider.com/articles/23/07/24/windows-wont-dominate-enterprise-in-a-decade-says-outgoing-jamf-ceo?utm_medium=rss)
  - [The maxed-out OnePlus 10T plunges to an all-time low price](https://www.androidauthority.com/oneplus-10t-deal-3348048/)
- - [Sony WF-1000XM4 vs Sony WF-1000XM5: Are they worth the upgrade?](https://www.androidauthority.com/sony-wf-1000xm4-vs-sony-wf-1000xm5-3348014/)
- - [MLB sets August schedule for Apple TV+ &#39;Friday Night Baseball&#39;](https://appleinsider.com/articles/23/07/24/mlb-sets-august-schedule-for-apple-tv-friday-night-baseball?utm_medium=rss)<!-- TECH:END -->
+ - [Sony WF-1000XM4 vs Sony WF-1000XM5: Are they worth the upgrade?](https://www.androidauthority.com/sony-wf-1000xm4-vs-sony-wf-1000xm5-3348014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

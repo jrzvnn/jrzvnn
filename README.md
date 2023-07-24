@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does Google Fi Wireless support Wi-Fi calling?](https://www.androidauthority.com/google-fi-wifi-calling-support-3348137/)
  - [House GOP could try to hold Mark Zuckerberg in contempt of Congress](https://www.theverge.com/2023/7/24/23806054/meta-mark-zuckerberg-contempt-congress-jim-jordan-go)
  - [Apple is taking applications for Vision Pro developer kits](https://www.theverge.com/2023/7/24/23805883/apple-vision-pro-ar-headset-developer-kit)
  - [Sources: Adobe&#39;s $20B Figma deal faces an in-depth EU probe as Adobe won&#39;t offer remedies for potential competition concerns, after the UK began a similar probe &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230724/p20#a230724p20)
- - [Best Games on PS Plus: Twisted Metal, Undertale, It Takes Two and Many More for July     - CNET](https://www.cnet.com/tech/gaming/best-games-on-ps-plus-twisted-metal-undertale-it-takes-two-and-many-more-for-july/#ftag=CAD590a51e)
- - [Apple fixes two exploited vulnerabilities in iOS 16.6 security update](https://appleinsider.com/articles/23/07/24/apple-fixes-two-exploited-vulnerabilities-in-ios-166-security-update?utm_medium=rss)<!-- TECH:END -->
+ - [Best Games on PS Plus: Twisted Metal, Undertale, It Takes Two and Many More for July     - CNET](https://www.cnet.com/tech/gaming/best-games-on-ps-plus-twisted-metal-undertale-it-takes-two-and-many-more-for-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

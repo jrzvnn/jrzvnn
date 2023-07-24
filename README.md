@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 💣 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
  - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 💣 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
+ - 😝 [Pakistan is a great destination for female solo traveling](http://9gag.com/gag/aKEpdY3)
+ - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
 
 ---
 </div>

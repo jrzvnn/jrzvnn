@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Small-time US entrepreneurs are amassing vehicles to rent out through services such as Turo and Getaround or their own websites to take on Hertz and Avis Budget &lpar;Ben Eisen/Wall Street Journal&rpar;](http://www.techmeme.com/230724/p1#a230724p1)
  - [Twitter is killing the bird logo and replacing it with an ‘X’](https://www.androidauthority.com/twitter-rebranding-x-logo-3347674/)
  - [Spotify Premium price hike likely coming to the US this week](https://www.androidauthority.com/spotify-premium-price-hike-3347665/)
  - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
- - [A look at the Boston Fed&#39;s Project Hamilton, launched in 2020 to research how to design a US CBDC but ended in 2022 amid opposition from anti-CBDC legislators &lpar;Mike Orcutt/MIT Technology Review&rpar;](http://www.techmeme.com/230723/p10#a230723p10)
- - [Sources: IAC, News Corp, the NYT, and other publishers are forming a coalition to push for AI laws and lead a lawsuit against AI firms who trained on their data &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/230723/p9#a230723p9)<!-- TECH:END -->
+ - [A look at the Boston Fed&#39;s Project Hamilton, launched in 2020 to research how to design a US CBDC but ended in 2022 amid opposition from anti-CBDC legislators &lpar;Mike Orcutt/MIT Technology Review&rpar;](http://www.techmeme.com/230723/p10#a230723p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

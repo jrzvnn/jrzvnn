@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent set to acquire Dying Light studio Techland](https://www.theverge.com/2023/7/24/23805592/tencent-buys-techland-dying-light)
- - [Samsung’s Smart View can finally mirror your screen to Chromecast devices](https://www.androidauthority.com/samsung-smart-view-chromecast-3348010/)
- - [Man who drove off a cliff is saved by iPhone 14](https://appleinsider.com/articles/23/07/24/man-who-drove-off-a-cliff-is-saved-by-iphone-14?utm_medium=rss)
- - [Apple’s iPhone 15 Pro and Pro Max models could be more expensive](https://www.theverge.com/2023/7/24/23805551/apple-iphone-15-pro-max-price-hikes-falling-smartphone-demand)
- - [TikTok rolls out support for text posts, available via the app&#39;s Camera page and letting users add sounds, locations, stickers, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230724/p17#a230724p17)<!-- TECH:END -->
+ - [Nanoleaf’s blacked-out Triangle panels that light up with RGB color are $55 off](https://www.theverge.com/2023/7/24/23805429/nanoleaf-triangles-ultrablack-logitech-streamcam-oneplus-10t-android-deal-sale)
+ - [A US court jury says Google violated a software developer&#39;s patent rights related to streaming tech used in Chromecast devices and must pay $338.7M in damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230724/p18#a230724p18)
+ - [Sony WF-1000XM5 vs Samsung Galaxy Buds 2 Pro: Which earbuds are right for you?](https://www.androidauthority.com/sony-wf-1000xm5-vs-samsung-galaxy-buds-2-pro-3346826/)
+ - [Sony WF-1000XM5 are here: Price, features, specs, availability, and more](https://www.androidauthority.com/sony-wf-1000xm5-3235457/)
+ - [Sony WF-1000XM5 vs Apple AirPods Pro 2: Which earbuds to get?](https://www.androidauthority.com/sony-wf-1000xm5-vs-apple-airpods-pro-2-3346931/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

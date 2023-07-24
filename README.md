@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/24/apple-rolls-out-ios-166-and-ipados-166?utm_medium=rss)
- - [A developer&#39;s kit is now available for the Apple Vision Pro](https://appleinsider.com/articles/23/07/24/a-developers-kit-is-now-available-for-the-apple-vision-pro?utm_medium=rss)
- - [People are using Google Maps to cut down tailpipe pollution](https://www.theverge.com/2023/7/24/23805652/google-maps-fuel-efficient-routes-transportation-emissions)
- - [Apple issues watchOS 9.6 and tvOS 16.6 updates](https://appleinsider.com/articles/23/07/24/apple-issues-watchos-96-and-tvos-166-updates?utm_medium=rss)
- - [Apple releases macOS Ventura 13.5 update](https://appleinsider.com/articles/23/07/24/apple-releases-macos-ventura-135-update?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers find flaws, likely backdoors, in encryption algorithms from the TETRA standard used in radios commonly deployed by police and military orgs globally &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/230724/p19#a230724p19)
+ - [Google loses Chromecast patent dispute, must pay $338 million](https://appleinsider.com/articles/23/07/24/google-loses-chromecast-patent-dispute-must-pay-338-million?utm_medium=rss)
+ - [Apple is taking applications for Vision Pro developer kits](https://www.theverge.com/2023/7/24/23805883/apple-vision-pro-ar-headset-developer-kit)
+ - [Mortal Kombat 1 adds Omni-Man, Peacemaker, and Homelander to roster](https://www.theverge.com/2023/7/24/23805704/mortal-kombat-1-omniman-peacemaker-homelander)
+ - [Apple rolls out iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/24/apple-rolls-out-ios-166-and-ipados-166?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

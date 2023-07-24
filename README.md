@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The previous big strikes reshaped Hollywood and fueled reality TV&#39;s rise; the current ones will likely turn established actors into TikTok stars and vice versa &lpar;Washington Post&rpar;](http://www.techmeme.com/230724/p11#a230724p11)
- - [New Apple Watch Ultra will be lighter, claims leaker](https://appleinsider.com/articles/23/07/24/new-apple-watch-ultra-will-be-lighter-claims-leaker?utm_medium=rss)
- - [SoftBank and Symbotic create GreenBox Systems, an AI warehousing joint venture, and plan to invest $100M and buy $7.5B of Symbotic&#39;s AI warehouse systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p10#a230724p10)
- - [Spotify Connect is the reason I won’t switch to another music platform](https://www.androidauthority.com/spotify-connect-switch-music-streaming-3346775/)
- - [TP-Link Tapo RV10 Plus Review: No Maps, Self-Emptying](https://www.wired.com/review/tp-link-tapo-rv10-plus/)<!-- TECH:END -->
+ - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)
+ - [Straight Talk finally offers discounted family plans](https://www.androidauthority.com/straight-talk-family-plans-3347341/)
+ - [The Flipper Zero has an app store now](https://www.theverge.com/2023/7/24/23803600/flipper-zero-app-store-launch)
+ - [Flip phones are having a moment — and all eyes are on Samsung now](https://www.theverge.com/2023/7/24/23803386/samsung-unpacked-2023-galaxy-z-flip-fold-5-motorola-razr-plus)
+ - [Ahead of Amazon&#39;s WA worker safety hearing after inspectors found multiple hazards, its business model is on trial and enforced changes may weaken its advantage &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p12#a230724p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

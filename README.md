@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistan is a great destination for female solo traveling](http://9gag.com/gag/aKEpdY3)
- - 😝 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)
- - 💣 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 😝 [Just Stop Oil gets a taste of their own medicine. Counter activists tie rape alarms to balloons and let them go in a Just Stop Oil meeting.](http://9gag.com/gag/aGEby27)
+ - 💣 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
  - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 👉 [Its a dance battle!](http://9gag.com/gag/aBdodKO)<!-- MEMES:END -->
+ - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
 
 ---
 </div>

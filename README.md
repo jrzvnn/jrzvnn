@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food for thought](http://9gag.com/gag/az2Qm8p)
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 😝 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)
+ - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 💣 [The beautiful Sound of Pain...](http://9gag.com/gag/a8qzEAY)
+ - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 👉 [All the respect you deserve Irena](http://9gag.com/gag/a6q8K9e)<!-- MEMES:END -->
 
 ---
 </div>

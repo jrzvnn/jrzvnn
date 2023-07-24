@@ -155,9 +155,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)
- - 😝 [A little something for you guys. Thank me later.](http://9gag.com/gag/a5XDM2O)
- - 💣 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
+ - 😝 [How dare they](http://9gag.com/gag/awZvzMD)
+ - 😝 [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
+ - 💣 [Just finished watching Barbie. Can&#39;t believe this is how it ended](http://9gag.com/gag/a8qz3YV)
  - 😝 [Title goes here](http://9gag.com/gag/ap98G75)
  - 👉 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)<!-- MEMES:END -->
 

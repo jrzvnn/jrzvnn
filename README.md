@@ -147,10 +147,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple rolls out iOS 16.6 and iPadOS 16.6](https://appleinsider.com/articles/23/07/24/apple-rolls-out-ios-166-and-ipados-166?utm_medium=rss)
- - [Netflix’s new mobile tab could make it easier to find things to watch](https://www.theverge.com/2023/7/24/23805752/netflix-my-tab-ios-android-find-things-to-watch)
- - [Windows won&#39;t dominate enterprise in a decade, says outgoing Jamf CEO](https://appleinsider.com/articles/23/07/24/windows-wont-dominate-enterprise-in-a-decade-says-outgoing-jamf-ceo?utm_medium=rss)
- - [The maxed-out OnePlus 10T plunges to an all-time low price](https://www.androidauthority.com/oneplus-10t-deal-3348048/)
- - [Sony WF-1000XM4 vs Sony WF-1000XM5: Are they worth the upgrade?](https://www.androidauthority.com/sony-wf-1000xm4-vs-sony-wf-1000xm5-3348014/)<!-- TECH:END -->
+ - [A developer&#39;s kit is now available for the Apple Vision Pro](https://appleinsider.com/articles/23/07/24/a-developers-kit-is-now-available-for-the-apple-vision-pro?utm_medium=rss)
+ - [People are using Google Maps to cut down tailpipe pollution](https://www.theverge.com/2023/7/24/23805652/google-maps-fuel-efficient-routes-transportation-emissions)
+ - [Apple issues watchOS 9.6 and tvOS 16.6 updates](https://appleinsider.com/articles/23/07/24/apple-issues-watchos-96-and-tvos-166-updates?utm_medium=rss)
+ - [Apple releases macOS Ventura 13.5 update](https://appleinsider.com/articles/23/07/24/apple-releases-macos-ventura-135-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

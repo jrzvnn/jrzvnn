@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [Maybe construction work...](http://9gag.com/gag/axo4zyp)
- - 💣 [What a coincidence!](http://9gag.com/gag/awZvAdW)
+ - 😝 [This is 20 yrs old ?? Excuse me , I have to get my walker](http://9gag.com/gag/aWG9xPK)
  - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 👉 [A little something for you guys. Thank me later.](http://9gag.com/gag/a5XDM2O)<!-- MEMES:END -->
+ - 💣 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 👉 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)<!-- MEMES:END -->
 
 ---
 </div>

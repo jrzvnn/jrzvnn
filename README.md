@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 💣 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
+ - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 😝 [How long are you going to stay hidden for?](http://9gag.com/gag/a3ZnEE3)
+ - 💣 [That&#39;s a genius idea](http://9gag.com/gag/a9qB1Yj)
+ - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 👉 [The beautiful Sound of Pain...](http://9gag.com/gag/a8qzEAY)<!-- MEMES:END -->
 
 ---
 </div>

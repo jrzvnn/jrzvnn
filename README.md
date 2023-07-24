@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 😝 [Keep struggling :&#39;&rpar;](http://9gag.com/gag/awZvybD)
- - 💣 [Lol](http://9gag.com/gag/a2KGvqY)
- - 😝 [Childhood Trauma: A Quick Tutorial](http://9gag.com/gag/aeQWQEO)
- - 👉 [How to prank your friend.](http://9gag.com/gag/aVbB7vO)<!-- MEMES:END -->
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
+ - 💣 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 👉 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)<!-- MEMES:END -->
 
 ---
 </div>

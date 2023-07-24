@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Justine Bateman, a member of the DGA, the WGA, and SAG-AFTRA, on how AI may change the industry, the importance of the timing of the strike, and more &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230724/p16#a230724p16)
- - [Kaiko: monthly spot trading volumes on decentralized crypto exchanges dropped 76% YoY to $21B in June 2023; centralized exchanges slid 69% YoY to $429B &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230724/p15#a230724p15)
- - [Bing Chat is now available in Google Chrome and Safari](https://www.theverge.com/2023/7/24/23805493/bing-ai-chat-google-chrome-safari)
- - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2023&rpar;](https://www.wired.com/story/best-personal-safety-tech/)
- - [Microsoft has created a pizza-scented Xbox controller](https://www.theverge.com/2023/7/24/23805501/microsoft-xbox-pizza-scented-controller-tmnt-teenage-mutant-ninja-turtles)<!-- TECH:END -->
+ - [Apple’s iPhone 15 Pro and Pro Max models could be more expensive](https://www.theverge.com/2023/7/24/23805551/apple-iphone-15-pro-max-price-hikes-falling-smartphone-demand)
+ - [TikTok rolls out support for text posts, available via the app&#39;s Camera page and letting users add sounds, locations, stickers, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230724/p17#a230724p17)
+ - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
+ - [Q&amp;A with Justine Bateman, a member of the DGA, the WGA, and SAG-AFTRA, on how AI may change the industry, the importance of the timing of the strike, and more &lpar;Justin Hendrix/Tech Policy Press&rpar;](http://www.techmeme.com/230724/p16#a230724p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

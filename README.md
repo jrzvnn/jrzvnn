@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can’t just leave Threads in the Following feed](https://www.theverge.com/2023/7/25/23807340/threads-following-feed-for-you-default-instagram-meta)
  - [How to use Safari Tab Groups](https://www.theverge.com/23803135/safari-tab-groups-how-to)
  - [Apple faces App Tracking Transparency antitrust probe in France](https://appleinsider.com/articles/23/07/25/apple-faces-app-tracking-transparency-antitrust-probe-in-france?utm_medium=rss)
  - [The 42 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [Real-world Samsung Galaxy Z Flip 5 images appear to leak ahead of reveal event](https://www.androidauthority.com/samsung-galaxy-z-flip-real-world-images-3349617/)
- - [The Browser Company launches Arc on macOS and iOS after a two-year waitlist; the browser helps users take notes, redesign webpages, organize tabs, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230725/p26#a230725p26)<!-- TECH:END -->
+ - [Real-world Samsung Galaxy Z Flip 5 images appear to leak ahead of reveal event](https://www.androidauthority.com/samsung-galaxy-z-flip-real-world-images-3349617/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

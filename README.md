@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)
+ - [Apple seeds fourth macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/25/apple-seeds-fourth-macos-sonoma-developer-beta?utm_medium=rss)
  - [Apple rolls out second developer beta for visionOS](https://appleinsider.com/articles/23/07/25/apple-rolls-out-second-developer-beta-for-visionos?utm_medium=rss)
  - [Sources: EU regulators rebuffed an offer from Meta to curb its use of rivals&#39; ad data for Facebook Marketplace as a way to settle an antitrust investigation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230725/p25#a230725p25)
- - [Apple issues fourth iOS 17, iPadOS 17 developer beta](https://appleinsider.com/articles/23/07/25/apple-issues-fourth-ios-17-ipados-17-developer-beta?utm_medium=rss)
- - [Google Play Games on PC adds new games, keyboard remapping, and 60 new regions](https://www.androidauthority.com/google-play-games-beta-on-pc-new-games-3349564/)
- - [Govee Outdoor Light Collection Buyer’s Guide: Bring color to your outdoor space](https://www.androidauthority.com/govee-outdoor-light-collection-3347154/)<!-- TECH:END -->
+ - [Apple issues fourth iOS 17, iPadOS 17 developer beta](https://appleinsider.com/articles/23/07/25/apple-issues-fourth-ios-17-ipados-17-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

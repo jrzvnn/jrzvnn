@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)
  - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)
  - [Apple seeds fourth macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/25/apple-seeds-fourth-macos-sonoma-developer-beta?utm_medium=rss)
  - [Apple rolls out second developer beta for visionOS](https://appleinsider.com/articles/23/07/25/apple-rolls-out-second-developer-beta-for-visionos?utm_medium=rss)
- - [Sources: EU regulators rebuffed an offer from Meta to curb its use of rivals&#39; ad data for Facebook Marketplace as a way to settle an antitrust investigation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230725/p25#a230725p25)
- - [Apple issues fourth iOS 17, iPadOS 17 developer beta](https://appleinsider.com/articles/23/07/25/apple-issues-fourth-ios-17-ipados-17-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: EU regulators rebuffed an offer from Meta to curb its use of rivals&#39; ad data for Facebook Marketplace as a way to settle an antitrust investigation &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230725/p25#a230725p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

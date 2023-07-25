@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Childhood Trauma: A Quick Tutorial](http://9gag.com/gag/aeQWQEO)
- - 😝 [Pray for Greece Thanks all firefighters from Italy, France, Romania, Slovakia, Poland, Cyprus, Croatia, Bulgaria, Israel, Jordan.](http://9gag.com/gag/aZDvZvQ)
- - 💣 [How to prank your friend.](http://9gag.com/gag/aVbB7vO)
- - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 👉 [They got us in the first half, not gonna lie](http://9gag.com/gag/adPbBvM)<!-- MEMES:END -->
+ - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
+ - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 😝 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)
+ - 👉 [Is he a 9gager?](http://9gag.com/gag/a4oVEjv)<!-- MEMES:END -->
 
 ---
 </div>

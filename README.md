@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram rolls out creator subscriptions in Australia, Brazil, Canada, France, Germany, Italy, Japan, Mexico, Spain, and the UK, expanding on support in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230725/p6#a230725p6)
  - [A look at the impact of AI on the $200B gaming industry as some executives push for AI adoption and say the changes, while painful, can empower smaller studios &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p5#a230725p5)
  - [Google ordered to pay $339M for stealing the very idea of Chromecast](https://www.androidauthority.com/google-chromecast-infringing-patents-3348333/)
  - [Apple faces a &amp;pound;785M class action lawsuit, claiming to represent over 1,500 app developers, over its App Store fees at the UK&#39;s Competition Appeal Tribunal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230725/p4#a230725p4)
- - [A look at government-run internet referral units, starting in 2010 to police content in the UK before spreading globally, as the EU DSA mandates transparency &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230725/p3#a230725p3)
- - [Pixel Watch 2 leak suggests it’s lighter, but that may not be a good thing](https://www.androidauthority.com/pixel-watch-2-design-3348284/)<!-- TECH:END -->
+ - [A look at government-run internet referral units, starting in 2010 to police content in the UK before spreading globally, as the EU DSA mandates transparency &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230725/p3#a230725p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

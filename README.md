@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
- - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
- - 💣 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - 😝 [Until the last drop](http://9gag.com/gag/a7qAEwx)
+ - 💣 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
  - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
 
 ---

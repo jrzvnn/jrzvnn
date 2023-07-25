@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
- - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
- - 💣 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
- - 😝 [No child support anymore](http://9gag.com/gag/ay2P4x8)
- - 👉 [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)<!-- MEMES:END -->
+ - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
+ - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
 
 ---
 </div>

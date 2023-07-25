@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman&#39;s fission startup Oklo and life-extension startup Retro, alongside OpenAI and Worldcoin, may reshape society and will draw regulatory scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/230725/p16#a230725p16)
- - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2023&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Threads Is the Latest Move in the AI Arms Race](https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/)
- - [Wayfair’s AI tool can redraw your living room and sell you furniture](https://www.theverge.com/2023/7/25/23806083/generative-ai-wayfair-decorify-home-personalization)
- - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Do you prefer Flip or Fold-style foldables?](https://www.androidauthority.com/flip-or-fold-style-foldable-phone-poll-3348393/)
+ - [Apple Silicon M2 vs M3 - looking at the future of the Mac](https://appleinsider.com/inside/apple-silicon/vs/apple-silicon-m2-vs-m3---looking-at-the-future-of-the-mac?utm_medium=rss)
+ - [The EU enacts the &amp;euro;43B Chips Act, part of ambitious plans to produce 20% of the world&#39;s chips by 2030, after final approval from ministers &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230725/p17#a230725p17)
+ - [Apple TV+ scores John Le Carre documentary &#39;The Pigeon Tunnel&#39;](https://appleinsider.com/articles/23/07/25/apple-tv-scores-john-le-carre-documentary-the-pigeon-tunnel?utm_medium=rss)
+ - [Sam Altman&#39;s fission startup Oklo and life-extension startup Retro, alongside OpenAI and Worldcoin, may reshape society and will draw regulatory scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/230725/p16#a230725p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

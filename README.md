@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get the AppleInsider wallpapers for your iPhone](https://appleinsider.com/inside/iphone/tips/get-the-appleinsider-wallpapers-for-your-iphone?utm_medium=rss)
+ - [Why you won’t see any new TV rewatch podcasts during the Hollywood strike](https://www.theverge.com/2023/7/25/23807656/sag-aftra-podcast-rules-rewatch-strike-order)
+ - [PS5 exclusive Ratchet &amp; Clank: Rift Apart will officially run on Steam Deck](https://www.theverge.com/23807710/ratchet-clank-rift-apart-steam-deck-verified)
  - [Emails: X offers discounts on new video ads in the US and UK and warns advertisers that they will lose verified status unless they reach spending thresholds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230725/p36#a230725p36)
- - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)
- - [OpenAI can’t tell if something was written by AI after all](https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy)
- - [CEO Daniel Ek teases ways Spotify could integrate additional AI functionality into its products, including summarizing podcasts and generating audio ads &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230725/p35#a230725p35)
- - [General Hospital is using scab writers, and it’s complicated](https://www.theverge.com/2023/7/25/23807471/general-hospital-scabs-wga-sag-aftra-strike)<!-- TECH:END -->
+ - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

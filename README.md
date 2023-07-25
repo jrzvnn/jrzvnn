@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
  - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
+ - 💣 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)
+ - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 👉 [What does she mean?](http://9gag.com/gag/a7qA1YL)<!-- MEMES:END -->
 
 ---
 </div>

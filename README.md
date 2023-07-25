@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
- - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
- - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 💣 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---
 </div>

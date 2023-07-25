@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC Chair Lina Khan defends the agency&#39;s court record, saying &quot;losing two is OK&quot; and acknowledging difficulties in the Microsoft case due to &quot;vertical mergers&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p15#a230725p15)
- - [Future MacBook Pro could split at the hinge and be truly modular](https://appleinsider.com/articles/23/07/25/future-macbook-pro-could-split-at-the-hinge-and-be-truly-modular?utm_medium=rss)
- - [GlobalFoundries CEO Thomas Caulfield criticizes Germany&#39;s planned chip subsidies for TSMC, saying the company welcomes competition &quot;on a level playing field&quot; &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230725/p14#a230725p14)
- - [AppleInsider is hiring content creators and writers, apply within!](https://appleinsider.com/articles/23/07/25/appleinsider-is-hiring-content-creators-and-writers-apply-within?utm_medium=rss)
- - [Prosus says Indian edtech giant Byju&#39;s &quot;disregarded advice&quot; on &quot;strategic, operational, legal, and corporate governance&quot;, after cutting its valuation to $5.1B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230725/p13#a230725p13)<!-- TECH:END -->
+ - [Sam Altman&#39;s fission startup Oklo and life-extension startup Retro, alongside OpenAI and Worldcoin, may reshape society and will draw regulatory scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/230725/p16#a230725p16)
+ - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2023&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)
+ - [Threads Is the Latest Move in the AI Arms Race](https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/)
+ - [Wayfair’s AI tool can redraw your living room and sell you furniture](https://www.theverge.com/2023/7/25/23806083/generative-ai-wayfair-decorify-home-personalization)
+ - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

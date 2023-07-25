@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
  - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
- - 😝 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
- - 👉 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)<!-- MEMES:END -->
+ - 💣 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
+ - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
+ - 👉 [She did it!](http://9gag.com/gag/aKEpm56)<!-- MEMES:END -->
 
 ---
 </div>

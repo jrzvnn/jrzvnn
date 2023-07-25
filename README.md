@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 💣 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
- - 😝 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 👉 [She did it!](http://9gag.com/gag/aKEpm56)<!-- MEMES:END -->
+ - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
+ - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
 
 ---
 </div>

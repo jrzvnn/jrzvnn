@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 😝 [Until the last drop](http://9gag.com/gag/a7qAEwx)
- - 💣 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
- - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 👉 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)<!-- MEMES:END -->
+ - 😝 [How to prank your friend.](http://9gag.com/gag/aVbB7vO)
+ - 😝 [Something to think about](http://9gag.com/gag/a8qz6YV)
+ - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 😝 [They got us in the first half, not gonna lie](http://9gag.com/gag/adPbBvM)
+ - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---
 </div>

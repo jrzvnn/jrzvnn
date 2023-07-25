@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 😝 [I always try going at night hours so nobody sees me](http://9gag.com/gag/aYVmrYw)
- - 💣 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
  - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
+ - 😝 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 💣 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 👉 [Until the last drop](http://9gag.com/gag/a7qAEwx)<!-- MEMES:END -->
 
 ---
 </div>

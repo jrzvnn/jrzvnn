@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Exorcist: Believer looks like a hellish double feature in first trailer](https://www.theverge.com/2023/7/25/23807004/the-exorcist-believer-trailer)
+ - [Apple faces App Tracking Transparency antitrust probe in France](https://appleinsider.com/articles/23/07/25/apple-faces-app-tracking-transparency-antitrust-probe-in-france?utm_medium=rss)
  - [YouTuber brings Apple TV+ &#39;Silo&#39; to life with Blender &amp; Unreal Engine 5](https://appleinsider.com/articles/23/07/25/youtuber-brings-apple-tv-silo-to-life-with-blender-unreal-engine-5?utm_medium=rss)
  - [Get $1,300 worth of stunning Samsung soundbar setup for just $599.96](https://www.androidauthority.com/samsung-hw-q910b-soundbar-deal-3349529/)
- - [The White House Already Knows How to Make AI Safer](https://www.wired.com/story/the-white-house-already-knows-how-to-make-ai-safer/)
- - [Apple is still considering the production of a foldable iPad](https://appleinsider.com/articles/23/07/25/apple-is-still-considering-the-production-of-a-foldable-ipad?utm_medium=rss)
- - [Time is almost up to get a $50 credit for reserving a Galaxy Z Fold 5, Flip 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-reservation-3349507/)<!-- TECH:END -->
+ - [The White House Already Knows How to Make AI Safer](https://www.wired.com/story/the-white-house-already-knows-how-to-make-ai-safer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

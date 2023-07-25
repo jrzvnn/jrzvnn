@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMOLED is all it’d take for the Galaxy Tab S9 to win me over](https://www.androidauthority.com/galaxy-tab-s9-amoled-display-3349192/)
- - [How to switch users on the lock screen in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-users-on-the-lock-screen-in-macos-sonoma?utm_medium=rss)
- - [Strikes halting production on &#39;Silo&#39; and &#39;Foundation&#39;](https://appleinsider.com/articles/23/07/25/strikes-halting-production-on-silo-and-foundation?utm_medium=rss)
- - [Sources: TikTok plans to launch an e-commerce business in the US in early August to sell made-in-China goods to consumers and rival Shein and Temu &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p20#a230725p20)
- - [EU will spend €43 billion to stay competitive on chip production](https://www.theverge.com/2023/7/25/23806813/eu-chips-act-approved-semiconductor-manufacturing)<!-- TECH:END -->
+ - [Morgan Stanley predicts accelerated growth for Apple by September](https://appleinsider.com/articles/23/07/25/morgan-stanley-predicts-accelerated-growth-for-apple-by-september?utm_medium=rss)
+ - [Sony claims its new earbuds won’t suffer battery drain problems like the WF-1000XM4](https://www.theverge.com/2023/7/25/23806918/sony-wf-1000xm5-earbuds-battery-drain-statement)
+ - [Elgato’s Stream Deck XL has dropped to its best price of the year](https://www.theverge.com/2023/7/25/23805594/elgato-stream-deck-xl-philips-hue-bose-quietcomfort-45-anker-511-charger-deal-sale)
+ - [Japan’s indie game scene is growing up](https://www.theverge.com/23806085/bitsummit-indie-gaming-festival-2023)
+ - [It’s the last day to get a $50 credit when reserving a Galaxy Z Flip 5 or Z Fold 5](https://www.theverge.com/2023/7/25/23805899/samsung-galaxy-fold-flip-5-credit-preorder-reservation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

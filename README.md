@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [And do not take that away from my time](http://9gag.com/gag/abvE17v)
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - 😝 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
  - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)<!-- MEMES:END -->
+ - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
 
 ---
 </div>

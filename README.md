@@ -148,9 +148,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [July heatwaves ‘virtually impossible’ without climate change](https://www.theverge.com/2023/7/25/23805969/july-heatwave-2023-climate-change-crisis)
  - [An in-depth look at mainframe computers, their 50+ year history, and the IBM mainframe, a business mainstay that represents most of the estimated 10,000 in use &lpar;Andrew Hudson/Ars Technica&rpar;](http://www.techmeme.com/230725/p1#a230725p1)
+ - [We Tried 15 BBQ Sauces. These Are the Best     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
  - [The UK plans to force social media and ad platforms like Google Ads to stop scam ads including fake celebrity endorsements, pop-ups with malware, and more &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230724/p26#a230724p26)
- - [Elon Musk&#39;s rebranding of Twitter to X shows his takeover is best understood not as a money-making endeavor, but as an extended act of cultural vandalism &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230724/p25#a230724p25)
- - [Filing: Binance, CZ, and its former Chief Compliance Officer Samuel Lim plan to file for the dismissal of a CFTC lawsuit; the CFTC sued the three in March 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230724/p24#a230724p24)<!-- TECH:END -->
+ - [Elon Musk&#39;s rebranding of Twitter to X shows his takeover is best understood not as a money-making endeavor, but as an extended act of cultural vandalism &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230724/p25#a230724p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

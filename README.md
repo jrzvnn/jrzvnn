@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile says its ultrafast 5G capable of up to 3.3Gbps is rolling out now](https://www.theverge.com/2023/7/25/23807252/t-mobile-5g-carrier-aggregation-samsung-galaxy-s23)
  - [Samsung Galaxy Unpacked: how to watch and what to expect tomorrow morning](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)
  - [Amazon’s new page alerts buyers to recalled or unsafe products](https://www.theverge.com/2023/7/25/23807346/amazon-product-safety-recall-alert-page)
  - [Get the AppleInsider wallpapers for your iPhone](https://appleinsider.com/inside/iphone/tips/get-the-appleinsider-wallpapers-for-your-iphone?utm_medium=rss)
- - [Why you won’t see any new TV rewatch podcasts during the Hollywood strike](https://www.theverge.com/2023/7/25/23807656/sag-aftra-podcast-rules-rewatch-strike-order)
- - [PS5 exclusive Ratchet &amp; Clank: Rift Apart will officially run on Steam Deck](https://www.theverge.com/23807710/ratchet-clank-rift-apart-steam-deck-verified)<!-- TECH:END -->
+ - [Why you won’t see any new TV rewatch podcasts during the Hollywood strike](https://www.theverge.com/2023/7/25/23807656/sag-aftra-podcast-rules-rewatch-strike-order)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

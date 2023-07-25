@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
- - 💣 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
- - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
- - 👉 [What does she mean?](http://9gag.com/gag/a7qA1YL)<!-- MEMES:END -->
+ - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 😝 [Ok hear me out, consider how great those muscle i bet it feels really good when she- [removed]](http://9gag.com/gag/avQmAbW)
+ - 👉 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)<!-- MEMES:END -->
 
 ---
 </div>

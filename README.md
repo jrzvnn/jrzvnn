@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
+ - 😝 [Woman goes off on her man because he was looking at another woman](http://9gag.com/gag/aA0Z6wd)
+ - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
+ - 💣 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 👉 [Why are you rr\u00fcnning](http://9gag.com/gag/ay2P34M)<!-- MEMES:END -->
 
 ---
 </div>

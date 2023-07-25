@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
+ - 😝 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
+ - 😝 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 💣 [No child support anymore](http://9gag.com/gag/ay2P4x8)
+ - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
+ - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
 
 ---
 </div>

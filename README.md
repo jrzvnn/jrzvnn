@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
- - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
- - 💣 [What does she mean?](http://9gag.com/gag/a7qA1YL)
- - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
+ - 😝 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
+ - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
+ - 💣 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 😝 [No child support anymore](http://9gag.com/gag/ay2P4x8)
+ - 👉 [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
- - 💣 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 😝 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
- - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
+ - 😝 [No child support anymore](http://9gag.com/gag/ay2P4x8)
+ - 😝 [Headshot](http://9gag.com/gag/aXneLg9)
+ - 💣 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 😝 [Just Stop Oil gets a taste of their own medicine. Counter activists tie rape alarms to balloons and let them go in a Just Stop Oil meeting.](http://9gag.com/gag/aGEby27)
+ - 👉 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)<!-- MEMES:END -->
 
 ---
 </div>

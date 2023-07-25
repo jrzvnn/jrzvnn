@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
  - 😝 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
- - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
+ - 💣 [What does she mean?](http://9gag.com/gag/a7qA1YL)
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
  - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ &#39;Wanted: The Escape of Carlos Ghosn&#39; premieres in August](https://appleinsider.com/articles/23/07/25/apple-tv-wanted-the-escape-of-carlos-ghosn-premieres-in-august?utm_medium=rss)
+ - [Check out 13 minutes of Armored Core VI gameplay](https://www.theverge.com/2023/7/25/23806864/armored-core-6-gameplay-trailer-fromsoftware)
  - [Threads adds an option for a chronological feed of posts from people the user follows &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230725/p21#a230725p21)
  - [Apple releases trailer for &#39;Strange Planet&#39; animated comedy](https://appleinsider.com/articles/23/07/25/apple-releases-trailer-for-strange-planet-animated-comedy?utm_medium=rss)
- - [Threads is rolling out its Following feed](https://www.theverge.com/2023/7/25/23806982/threads-instagram-following-feed-launch)
- - [Morgan Stanley predicts accelerated growth for Apple by September](https://appleinsider.com/articles/23/07/25/morgan-stanley-predicts-accelerated-growth-for-apple-by-september?utm_medium=rss)
- - [Sony claims its new earbuds won’t suffer battery drain problems like the WF-1000XM4](https://www.theverge.com/2023/7/25/23806918/sony-wf-1000xm5-earbuds-battery-drain-statement)<!-- TECH:END -->
+ - [Threads is rolling out its Following feed](https://www.theverge.com/2023/7/25/23806982/threads-instagram-following-feed-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

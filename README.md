@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [General Hospital is using scab writers, and it’s complicated](https://www.theverge.com/2023/7/25/23807471/general-hospital-scabs-wga-sag-aftra-strike)
  - [Alphabet reports Q2 Google ad revenue of $58.14B, growing 3% YoY after two consecutive quarters of falling ad sales &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p34#a230725p34)
  - [Google’s CFO just got a promotion](https://www.theverge.com/2023/7/25/23807246/google-alphabet-earnings-q2-2023-ruth-porat-president-chief-investment-officer)
  - [Apple issues new developer firmware for AirPods Pro 2](https://appleinsider.com/articles/23/07/25/apple-issues-new-developer-firmware-for-airpods-pro-2?utm_medium=rss)
- - [YouTube&#39;s ad revenue increased 4.4% YoY to $7.67B in Q2, above expectations of $7.43B and a reversal after three consecutive quarters of declines &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p33#a230725p33)
- - [Twitter Blue subscribers can now download videos posted to X](https://www.theverge.com/2023/7/25/23807402/x-twitter-blue-video-downloads)<!-- TECH:END -->
+ - [YouTube&#39;s ad revenue increased 4.4% YoY to $7.67B in Q2, above expectations of $7.43B and a reversal after three consecutive quarters of declines &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p33#a230725p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

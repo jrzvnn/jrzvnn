@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
  - 😝 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)
- - 💣 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
+ - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
+ - 💣 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 😝 [Is he a 9gager?](http://9gag.com/gag/a4oVEjv)
+ - 👉 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)<!-- MEMES:END -->
 
 ---
 </div>

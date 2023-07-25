@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flashbots, whose service proposes blocks for validators running the Ethereum blockchain, raised a $60M Series B led by Paradigm at a $1B valuation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230725/p38#a230725p38)
  - [Sources: the FTC is finalizing its antitrust suit against Amazon and is likely to file its case in federal court rather than its own tribunal as soon as August &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230725/p37#a230725p37)
  - [T-Mobile says its ultrafast 5G capable of up to 3.3Gbps is rolling out now](https://www.theverge.com/2023/7/25/23807252/t-mobile-5g-carrier-aggregation-samsung-galaxy-s23)
  - [Samsung Galaxy Unpacked: how to watch and what to expect tomorrow morning](https://www.theverge.com/23799567/samsung-galaxy-unpacked-live-stream-watch-date-time-z-flip-fold)
- - [Amazon’s new page alerts buyers to recalled or unsafe products](https://www.theverge.com/2023/7/25/23807346/amazon-product-safety-recall-alert-page)
- - [Get the AppleInsider wallpapers for your iPhone](https://appleinsider.com/inside/iphone/tips/get-the-appleinsider-wallpapers-for-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s new page alerts buyers to recalled or unsafe products](https://www.theverge.com/2023/7/25/23807346/amazon-product-safety-recall-alert-page)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,9 +156,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 💣 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
- - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
+ - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
+ - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
  - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---

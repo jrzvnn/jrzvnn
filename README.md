@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
  - [MagSafe may be expanding beyond Mac and iPhone to the iPad](https://appleinsider.com/articles/23/07/25/magsafe-may-be-expanding-beyond-mac-and-iphone-to-the-ipad?utm_medium=rss)
  - [At schools across California, some Chromebook models are about to age out of software updates; 13 models hit their death date this summer and 51 will in 2024 &lpar;Elissa Miolene/Mercury News&rpar;](http://www.techmeme.com/230725/p18#a230725p18)
  - [Paramount+ with Showtime $11.99 price bump starts to hit viewers](https://appleinsider.com/articles/23/07/25/paramount-with-showtime-1199-price-bump-starts-to-hit-viewers?utm_medium=rss)
- - [11 Best Couches You Can Buy Online &lpar;2023&rpar;: Armchairs, Sectionals, Sofas, and More](https://www.wired.com/gallery/best-couches/)
- - [Drones are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)<!-- TECH:END -->
+ - [11 Best Couches You Can Buy Online &lpar;2023&rpar;: Armchairs, Sectionals, Sofas, and More](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

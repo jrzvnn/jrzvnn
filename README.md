@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real-world Samsung Galaxy Z Flip 5 images appear to leak ahead reveal event](https://www.androidauthority.com/samsung-galaxy-z-flip-real-world-images-3349617/)
+ - [The 42 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Real-world Samsung Galaxy Z Flip 5 images appear to leak ahead of reveal event](https://www.androidauthority.com/samsung-galaxy-z-flip-real-world-images-3349617/)
  - [The Browser Company launches Arc on macOS and iOS after a two-year waitlist; the browser helps users take notes, redesign webpages, organize tabs, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230725/p26#a230725p26)
  - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)
- - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)
- - [Apple seeds fourth macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/25/apple-seeds-fourth-macos-sonoma-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro may help users navigate with directional audio cues](https://appleinsider.com/articles/20/08/20/apple-glass-may-help-users-navigate-with-directional-audio-cues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

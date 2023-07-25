@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman goes off on her man because he was looking at another woman](http://9gag.com/gag/aA0Z6wd)
- - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 😝 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
- - 👉 [Who chooses this profession?](http://9gag.com/gag/amAngjo)<!-- MEMES:END -->
+ - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
+ - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
 
 ---
 </div>

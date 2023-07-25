@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple issues fourth iOS 17, iPadOS 17 developer beta](https://appleinsider.com/articles/23/07/25/apple-issues-fourth-ios-17-ipados-17-developer-beta?utm_medium=rss)
+ - [Apple faces App Tracking Transparency antitrust probe in France](https://appleinsider.com/articles/23/07/25/apple-faces-app-tracking-transparency-antitrust-probe-in-france?utm_medium=rss)
  - [Three new Starfield animated shorts offer more glimpses of Bethesda’s new universe](https://www.theverge.com/2023/7/25/23806975/starfield-the-settled-systems-animated-shorts)
  - [The Exorcist: Believer looks like a hellish double feature in first trailer](https://www.theverge.com/2023/7/25/23807004/the-exorcist-believer-trailer)
- - [Apple faces App Tracking Transparency antitrust probe in France](https://appleinsider.com/articles/23/07/25/apple-faces-app-tracking-transparency-antitrust-probe-in-france?utm_medium=rss)
- - [YouTuber brings Apple TV+ &#39;Silo&#39; to life with Blender &amp; Unreal Engine 5](https://appleinsider.com/articles/23/07/25/youtuber-brings-apple-tv-silo-to-life-with-blender-unreal-engine-5?utm_medium=rss)
- - [Get $1,300 worth of stunning Samsung soundbar setup for just $599.96](https://www.androidauthority.com/samsung-hw-q910b-soundbar-deal-3349529/)<!-- TECH:END -->
+ - [YouTuber brings Apple TV+ &#39;Silo&#39; to life with Blender &amp; Unreal Engine 5](https://appleinsider.com/articles/23/07/25/youtuber-brings-apple-tv-silo-to-life-with-blender-unreal-engine-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

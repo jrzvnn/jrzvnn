@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify now has 220 million paying subscribers](https://www.theverge.com/2023/7/25/23805766/spotify-earnings-q2-2023-subscribers-monthly-active-users)
- - [Netflix rolls out a My Netflix tab on iOS, superseding the Downloads tab to offer downloads, watch lists, reminders, and more; Android gets My Netflix in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p9#a230725p9)
- - [Apple opens applications for Apple Vision Pro developer kits, offering developers a &quot;loaner&quot; to build apps alongside specialized hardware and software support &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230725/p8#a230725p8)
- - [Expect another price hike for your grandfathered Verizon plan](https://www.androidauthority.com/verizon-grandfathered-plan-price-increase-3348323/)
- - [The AI-Powered, Totally Autonomous Future of War Is Here](https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/)<!-- TECH:END -->
+ - [Apple is considering making the iPhone 15 Pro more expensive](https://appleinsider.com/articles/23/07/24/apple-is-considering-making-the-iphone-15-pro-more-expensive?utm_medium=rss)
+ - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)
+ - [New Apple Watch Ultra will be lighter, claims leaker](https://appleinsider.com/articles/23/07/24/new-apple-watch-ultra-will-be-lighter-claims-leaker?utm_medium=rss)
+ - [Spotify reports Q2 revenue rose 11% YoY to &amp;euro;3.2B, Premium subscribers grew 17% YoY to 220M, MAUs rose 27% YoY to 551M, and a &amp;euro;112M adjusted operating loss &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230725/p10#a230725p10)
+ - [Spotify now has 220 million paying subscribers](https://www.theverge.com/2023/7/25/23805766/spotify-earnings-q2-2023-subscribers-monthly-active-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emails: X offers discounts on new video ads in the US and UK and warns advertisers that they will lose verified status unless they reach spending thresholds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230725/p36#a230725p36)
+ - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)
  - [OpenAI can’t tell if something was written by AI after all](https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy)
  - [CEO Daniel Ek teases ways Spotify could integrate additional AI functionality into its products, including summarizing podcasts and generating audio ads &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230725/p35#a230725p35)
- - [General Hospital is using scab writers, and it’s complicated](https://www.theverge.com/2023/7/25/23807471/general-hospital-scabs-wga-sag-aftra-strike)
- - [Alphabet reports Q2 Google ad revenue of $58.14B, growing 3% YoY after two consecutive quarters of falling ad sales &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p34#a230725p34)
- - [Google’s CFO just got a promotion](https://www.theverge.com/2023/7/25/23807246/google-alphabet-earnings-q2-2023-ruth-porat-president-chief-investment-officer)<!-- TECH:END -->
+ - [General Hospital is using scab writers, and it’s complicated](https://www.theverge.com/2023/7/25/23807471/general-hospital-scabs-wga-sag-aftra-strike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

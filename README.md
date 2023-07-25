@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
- - 💣 [Ajmer Rape Scandal 1992. 250 girls&lpar;age 11-20&rpar; molested, pic clicked, blackmailed, passed around by few men from powerful backgrounds who are still running free. First of grooming gang of India. Details so horrific, you won&#39;t be same again.](http://9gag.com/gag/aBdo2LZ)
- - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
- - 👉 [What does she mean?](http://9gag.com/gag/a7qA1YL)<!-- MEMES:END -->
+ - 😝 [Woman goes off on her man because he was looking at another woman](http://9gag.com/gag/aA0Z6wd)
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 💣 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)
+ - 😝 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
+ - 👉 [Who chooses this profession?](http://9gag.com/gag/amAngjo)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
- - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
+ - 😝 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
+ - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 💣 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 😝 [What a horrible day to have eyes](http://9gag.com/gag/ay2P2oq)
+ - 👉 [Why are you rr\u00fcnning](http://9gag.com/gag/ay2P34M)<!-- MEMES:END -->
 
 ---
 </div>

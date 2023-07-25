@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD ‘Zenbleed’ exploit can leak passwords and encryption keys from Ryzen CPUs](https://www.theverge.com/2023/7/25/23806705/amd-ryzen-cpu-processor-zenbleed-vulnerability-exploit-bug)
  - [Elon Musk says Twitter &quot;made sense when it was just 140 character messages&quot; and the move &quot;is not simply a company renaming itself, but doing the same thing&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230725/p12#a230725p12)
  - [The Generative AI Battle Has a Fundamental Flaw](https://www.wired.com/story/artificial-intelligence-copyright-law/)
  - [ChatGPT Plugins Pose Security Risks](https://www.wired.com/story/chatgpt-plugins-security-privacy-risk/)
- - [Coming Soon Near You: Bears](https://www.wired.com/story/coming-soon-near-you-bears/)
- - [How ‘Minx,’ a Comedy About ’70s Porn, Survived a Hollywood Shake-Up](https://www.wired.com/story/rescuing-minx-streaming/)<!-- TECH:END -->
+ - [Coming Soon Near You: Bears](https://www.wired.com/story/coming-soon-near-you-bears/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

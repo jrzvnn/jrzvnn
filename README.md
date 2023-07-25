@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14’s work profile is changing how apps are suspended &lpar;Update&rpar;](https://www.androidauthority.com/android-14-work-profile-change-3346414/)
  - [Paris-based defense electronics and cybersecurity company Thales agrees to buy US-based cybersecurity firm Imperva from Thoma Bravo in a deal worth $3.6B &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/230725/p2#a230725p2)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
  - [Mykhailo Fedorov Is Running Ukraine’s War Against Russia Like a Startup](https://www.wired.com/story/ukraine-runs-war-startup/)
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [July heatwaves ‘virtually impossible’ without climate change](https://www.theverge.com/2023/7/25/23805969/july-heatwave-2023-climate-change-crisis)<!-- TECH:END -->
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

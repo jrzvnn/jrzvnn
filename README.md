@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
+ - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
  - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 💣 [Until the last drop](http://9gag.com/gag/a7qAEwx)
- - 😝 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
- - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
+ - 👉 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)<!-- MEMES:END -->
 
 ---
 </div>

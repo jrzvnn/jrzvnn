@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify now has 220 million paying subscribers](https://www.theverge.com/2023/7/25/23805766/spotify-earnings-q2-2023-subscribers-monthly-active-users)
+ - [Netflix rolls out a My Netflix tab on iOS, superseding the Downloads tab to offer downloads, watch lists, reminders, and more; Android gets My Netflix in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p9#a230725p9)
  - [Apple opens applications for Apple Vision Pro developer kits, offering developers a &quot;loaner&quot; to build apps alongside specialized hardware and software support &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230725/p8#a230725p8)
  - [Expect another price hike for your grandfathered Verizon plan](https://www.androidauthority.com/verizon-grandfathered-plan-price-increase-3348323/)
- - [The AI-Powered, Totally Autonomous Future of War Is Here](https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/)
- - [EU passes law to blanket highways with fast EV chargers by 2025](https://www.theverge.com/23806690/eu-ev-fast-charger-60km-law-regulation-requirements)
- - [Xiaomi plans to focus on 5G phones and reduce its range in India, trying to claw back market share lost to Samsung and other rivals in its second biggest market &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230725/p7#a230725p7)<!-- TECH:END -->
+ - [The AI-Powered, Totally Autonomous Future of War Is Here](https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

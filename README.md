@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GlobalFoundries CEO Thomas Caulfield criticizes Germany&#39;s planned chip subsidies for TSMC, saying the company welcomes competition &quot;on a level playing field&quot; &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230725/p14#a230725p14)
  - [AppleInsider is hiring content creators and writers, apply within!](https://appleinsider.com/articles/23/07/25/appleinsider-is-hiring-content-creators-and-writers-apply-within?utm_medium=rss)
  - [Prosus says Indian edtech giant Byju&#39;s &quot;disregarded advice&quot; on &quot;strategic, operational, legal, and corporate governance&quot;, after cutting its valuation to $5.1B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230725/p13#a230725p13)
  - [AMD ‘Zenbleed’ exploit can leak passwords and encryption keys from Ryzen CPUs](https://www.theverge.com/2023/7/25/23806705/amd-ryzen-cpu-processor-zenbleed-vulnerability-exploit-bug)
- - [Elon Musk says Twitter &quot;made sense when it was just 140 character messages&quot; and the move &quot;is not simply a company renaming itself, but doing the same thing&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230725/p12#a230725p12)
- - [The Generative AI Battle Has a Fundamental Flaw](https://www.wired.com/story/artificial-intelligence-copyright-law/)<!-- TECH:END -->
+ - [Elon Musk says Twitter &quot;made sense when it was just 140 character messages&quot; and the move &quot;is not simply a company renaming itself, but doing the same thing&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230725/p12#a230725p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

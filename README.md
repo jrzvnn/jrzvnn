@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
- - 😝 [I usually don\u2019t advocate violence against a mom\u2026](http://9gag.com/gag/aREDLj5)
- - 💣 [Ah the beauty of nature](http://9gag.com/gag/aVbBxrv)
- - 😝 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)
- - 👉 [Is he a 9gager?](http://9gag.com/gag/a4oVEjv)<!-- MEMES:END -->
+ - 😝 [Childhood Trauma: A Quick Tutorial](http://9gag.com/gag/aeQWQEO)
+ - 😝 [Pray for Greece Thanks all firefighters from Italy, France, Romania, Slovakia, Poland, Cyprus, Croatia, Bulgaria, Israel, Jordan.](http://9gag.com/gag/aZDvZvQ)
+ - 💣 [How to prank your friend.](http://9gag.com/gag/aVbB7vO)
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 👉 [They got us in the first half, not gonna lie](http://9gag.com/gag/adPbBvM)<!-- MEMES:END -->
 
 ---
 </div>

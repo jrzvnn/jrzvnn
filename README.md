@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Time is almost up to get a $50 credit for reserving a Galaxy Z Fold 5, Flip 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-reservation-3349507/)
- - [Goldman Sachs expects iPhone 15 to spearhead strong Apple growth](https://appleinsider.com/articles/23/07/25/goldman-sachs-expects-iphone-15-to-spearhead-strong-apple-growth?utm_medium=rss)
- - [OpenAI releases ChatGPT for Android in the US, Bangladesh, and Brazil, and plans to launch in more countries next week &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230725/p24#a230725p24)
- - [Rivian CEO: ‘There’s far too much greenwashing in the system’](https://www.theverge.com/23803541/rivian-solar-kentucky-ppa-ceo-scaringe-interview)
- - [ChatGPT for Android is now available](https://www.theverge.com/2023/7/25/23807012/chatgpt-android-ai-chatbot-openai-llm)<!-- TECH:END -->
+ - [YouTuber brings Apple TV+ &#39;Silo&#39; to life with Blender &amp; Unreal Engine 5](https://appleinsider.com/articles/23/07/25/youtuber-brings-apple-tv-silo-to-life-with-blender-unreal-engine-5?utm_medium=rss)
+ - [Get $1,300 worth of stunning Samsung soundbar setup for just $599.96](https://www.androidauthority.com/samsung-hw-q910b-soundbar-deal-3349529/)
+ - [The White House Already Knows How to Make AI Safer](https://www.wired.com/story/the-white-house-already-knows-how-to-make-ai-safer/)
+ - [Apple is still considering the production of a foldable iPad](https://appleinsider.com/articles/23/07/25/apple-is-still-considering-the-production-of-a-foldable-ipad?utm_medium=rss)
+ - [Time is almost up to get a $50 credit for reserving a Galaxy Z Fold 5, Flip 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-reservation-3349507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

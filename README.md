@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Driven by AI demand, TSMC plans to spend nearly $2.9B to build an advanced packaging facility in northern Taiwan and says current capacity is &quot;very tight&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230725/p11#a230725p11)
- - [How to open links in Apple Maps instead of Google Maps](https://appleinsider.com/inside/apple-maps/tips/how-to-open-links-in-apple-maps-instead-of-google-maps?utm_medium=rss)
- - [Apple is considering making the iPhone 15 Pro more expensive](https://appleinsider.com/articles/23/07/24/apple-is-considering-making-the-iphone-15-pro-more-expensive?utm_medium=rss)
- - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)
- - [New Apple Watch Ultra will be lighter, claims leaker](https://appleinsider.com/articles/23/07/24/new-apple-watch-ultra-will-be-lighter-claims-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk says Twitter &quot;made sense when it was just 140 character messages&quot; and the move &quot;is not simply a company renaming itself, but doing the same thing&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230725/p12#a230725p12)
+ - [The Generative AI Battle Has a Fundamental Flaw](https://www.wired.com/story/artificial-intelligence-copyright-law/)
+ - [ChatGPT Plugins Pose Security Risks](https://www.wired.com/story/chatgpt-plugins-security-privacy-risk/)
+ - [Coming Soon Near You: Bears](https://www.wired.com/story/coming-soon-near-you-bears/)
+ - [How ‘Minx,’ a Comedy About ’70s Porn, Survived a Hollywood Shake-Up](https://www.wired.com/story/rescuing-minx-streaming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

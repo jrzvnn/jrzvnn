@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads adds an option for a chronological feed of posts from people the user follows &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230725/p21#a230725p21)
+ - [Apple releases trailer for &#39;Strange Planet&#39; animated comedy](https://appleinsider.com/articles/23/07/25/apple-releases-trailer-for-strange-planet-animated-comedy?utm_medium=rss)
+ - [Threads is rolling out its Following feed](https://www.theverge.com/2023/7/25/23806982/threads-instagram-following-feed-launch)
  - [Morgan Stanley predicts accelerated growth for Apple by September](https://appleinsider.com/articles/23/07/25/morgan-stanley-predicts-accelerated-growth-for-apple-by-september?utm_medium=rss)
- - [Sony claims its new earbuds won’t suffer battery drain problems like the WF-1000XM4](https://www.theverge.com/2023/7/25/23806918/sony-wf-1000xm5-earbuds-battery-drain-statement)
- - [Elgato’s Stream Deck XL has dropped to its best price of the year](https://www.theverge.com/2023/7/25/23805594/elgato-stream-deck-xl-philips-hue-bose-quietcomfort-45-anker-511-charger-deal-sale)
- - [Japan’s indie game scene is growing up](https://www.theverge.com/23806085/bitsummit-indie-gaming-festival-2023)
- - [It’s the last day to get a $50 credit when reserving a Galaxy Z Flip 5 or Z Fold 5](https://www.theverge.com/2023/7/25/23805899/samsung-galaxy-fold-flip-5-credit-preorder-reservation)<!-- TECH:END -->
+ - [Sony claims its new earbuds won’t suffer battery drain problems like the WF-1000XM4](https://www.theverge.com/2023/7/25/23806918/sony-wf-1000xm5-earbuds-battery-drain-statement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

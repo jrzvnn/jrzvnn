@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap Q2: revenue down 4% YoY to $1.07B, vs. $1.05B est., global DAUs up 14% YoY to 397M, vs. 395M est., and Q3 revenue forecast below est.; SNAP down 16%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230725/p30#a230725p30)
  - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)
  - [Alphabet CFO Ruth Porat will leave her role to become the President and Chief Investment Officer of Alphabet and Google, effective September 1, 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/230725/p29#a230725p29)
  - [Alphabet reports Q2 revenue of $74.6B, up 7% YoY, net income of $18.37B, up from $16B YoY, Google Cloud revenue of $8.03B, up from $6.28B YoY; GOOG is up 6%+ &lpar;Alphabet - Investor Relations&rpar;](http://www.techmeme.com/230725/p28#a230725p28)
- - [Windows and devices take a hit in Microsoft’s Q4 earnings, but Xbox is mostly up](https://www.theverge.com/2023/7/25/23807075/microsoft-q4-2023-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Microsoft reports Q4 net income up 20% YoY to $20.1B, revenue up 8% YoY to $56.2B, Office Commercial up 12% YoY, Dynamics 365 up 26% YoY, and LinkedIn up 5% YoY &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/230725/p27#a230725p27)<!-- TECH:END -->
+ - [Windows and devices take a hit in Microsoft’s Q4 earnings, but Xbox is mostly up](https://www.theverge.com/2023/7/25/23807075/microsoft-q4-2023-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

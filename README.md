@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [MagSafe may be expanding beyond Mac and iPhone to the iPad](https://appleinsider.com/articles/23/07/25/magsafe-may-be-expanding-beyond-mac-and-iphone-to-the-ipad?utm_medium=rss)
- - [At schools across California, some Chromebook models are about to age out of software updates; 13 models hit their death date this summer and 51 will in 2024 &lpar;Elissa Miolene/Mercury News&rpar;](http://www.techmeme.com/230725/p18#a230725p18)
- - [Paramount+ with Showtime $11.99 price bump starts to hit viewers](https://appleinsider.com/articles/23/07/25/paramount-with-showtime-1199-price-bump-starts-to-hit-viewers?utm_medium=rss)
- - [11 Best Couches You Can Buy Online &lpar;2023&rpar;: Armchairs, Sectionals, Sofas, and More](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
+ - [Daily deals: $1,600 off MacBook Pro, $449 AirPods Max, $100 off M2 Pro Mac mini, more](https://appleinsider.com/articles/23/07/25/daily-deals-1600-off-macbook-pro-449-airpods-max-100-off-m2-pro-mac-mini-more?utm_medium=rss)
+ - [SIA and Oxford Economics: despite the US chip industry workforce growing to 460K by 2030, up from ~345K in 2023, there will still be a ~67K worker shortfall &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230725/p19#a230725p19)
+ - [The excellent Arc browser is now available for anyone to download](https://www.theverge.com/2023/7/25/23802843/arc-browser-mac-ios-waitlist-availability)
+ - [Best 3D Printer Deals: 7 Printers Worth Your Time and Money     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

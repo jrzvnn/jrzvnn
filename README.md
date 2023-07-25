@@ -156,9 +156,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
- - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 😝 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
+ - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
  - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---

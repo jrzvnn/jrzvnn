@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MagSafe may be expanding beyond Mac and iPhone to the iPad](https://appleinsider.com/articles/23/07/25/magsafe-may-be-expanding-beyond-mac-and-iphone-to-the-ipad?utm_medium=rss)
+ - [At schools across California, some Chromebook models are about to age out of software updates; 13 models hit their death date this summer and 51 will in 2024 &lpar;Elissa Miolene/Mercury News&rpar;](http://www.techmeme.com/230725/p18#a230725p18)
  - [Paramount+ with Showtime $11.99 price bump starts to hit viewers](https://appleinsider.com/articles/23/07/25/paramount-with-showtime-1199-price-bump-starts-to-hit-viewers?utm_medium=rss)
  - [11 Best Couches You Can Buy Online &lpar;2023&rpar;: Armchairs, Sectionals, Sofas, and More](https://www.wired.com/gallery/best-couches/)
- - [Drones are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)
- - [Poll: Do you prefer Flip or Fold-style foldables?](https://www.androidauthority.com/flip-or-fold-style-foldable-phone-poll-3348393/)
- - [Apple Silicon M2 vs M3 - looking at the future of the Mac](https://appleinsider.com/inside/apple-silicon/vs/apple-silicon-m2-vs-m3---looking-at-the-future-of-the-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Drones are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

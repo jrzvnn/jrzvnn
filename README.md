@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She did it!](http://9gag.com/gag/aKEpm56)
- - 😝 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 💣 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 😝 [U wot m8 ?](http://9gag.com/gag/aeQW9O5)
- - 👉 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)<!-- MEMES:END -->
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 😝 [Who chooses this profession?](http://9gag.com/gag/amAngjo)
+ - 💣 [Dedovshchina is gay, change my mind](http://9gag.com/gag/aL1rzGz)
+ - 😝 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
+ - 👉 [What does she mean?](http://9gag.com/gag/a7qA1YL)<!-- MEMES:END -->
 
 ---
 </div>

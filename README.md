@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google ordered to pay $339M for stealing the very idea of Chromecast](https://www.androidauthority.com/google-chromecast-infringing-patents-3348333/)
  - [Apple faces a &amp;pound;785M class action lawsuit, claiming to represent over 1,500 app developers, over its App Store fees at the UK&#39;s Competition Appeal Tribunal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230725/p4#a230725p4)
  - [A look at government-run internet referral units, starting in 2010 to police content in the UK before spreading globally, as the EU DSA mandates transparency &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230725/p3#a230725p3)
  - [Pixel Watch 2 leak suggests it’s lighter, but that may not be a good thing](https://www.androidauthority.com/pixel-watch-2-design-3348284/)
- - [Bing Chat finally comes to Chrome and Safari &lpar;with 2 key limitations&rpar;](https://www.androidauthority.com/bing-chat-chrome-safari-3348266/)
- - [Android 14’s work profile is changing how apps are suspended &lpar;Update&rpar;](https://www.androidauthority.com/android-14-work-profile-change-3346414/)<!-- TECH:END -->
+ - [Bing Chat finally comes to Chrome and Safari &lpar;with 2 key limitations&rpar;](https://www.androidauthority.com/bing-chat-chrome-safari-3348266/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

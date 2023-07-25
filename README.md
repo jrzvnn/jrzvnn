@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to switch users on the lock screen in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-switch-users-on-the-lock-screen-in-macos-sonoma?utm_medium=rss)
  - [Strikes halting production on &#39;Silo&#39; and &#39;Foundation&#39;](https://appleinsider.com/articles/23/07/25/strikes-halting-production-on-silo-and-foundation?utm_medium=rss)
  - [Sources: TikTok plans to launch an e-commerce business in the US in early August to sell made-in-China goods to consumers and rival Shein and Temu &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p20#a230725p20)
  - [EU will spend €43 billion to stay competitive on chip production](https://www.theverge.com/2023/7/25/23806813/eu-chips-act-approved-semiconductor-manufacturing)
- - [Eero’s latest business outfits rentals with built-in mesh Wi-Fi](https://www.theverge.com/2023/7/25/23806201/eero-for-communities-wifi-apartments-rentals-built-in)
- - [Apple glass supplier Corning&#39;s Q3 forecast drops over reduced sales](https://appleinsider.com/articles/23/07/25/apple-glass-supplier-cornings-q3-forecast-drops-over-reduced-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Eero’s latest business outfits rentals with built-in mesh Wi-Fi](https://www.theverge.com/2023/7/25/23806201/eero-for-communities-wifi-apartments-rentals-built-in)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

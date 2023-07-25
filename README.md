@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As open web advocates raise concerns over the Web Environment Integrity proposal, a look at a similar Apple system shipped in 2022 to make Captchas unnecessary &lpar;Tim Perry/HTTP Toolkit&rpar;](http://www.techmeme.com/230725/p23#a230725p23)
  - [iPhone 15 rumored to mount upgraded camera lens &amp; wider aperture](https://appleinsider.com/articles/23/07/25/iphone-15-rumored-to-mount-upgraded-camera-lens-wider-aperture?utm_medium=rss)
  - [OpenAI shuts down its AI classifier for indicating AI-written text, citing &quot;its low rate of accuracy&quot;, and will research &quot;more effective provenance techniques&quot; &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/230725/p22#a230725p22)
  - [Apple TV+ &#39;Wanted: The Escape of Carlos Ghosn&#39; premieres in August](https://appleinsider.com/articles/23/07/25/apple-tv-wanted-the-escape-of-carlos-ghosn-premieres-in-august?utm_medium=rss)
- - [Check out 13 minutes of Armored Core VI gameplay](https://www.theverge.com/2023/7/25/23806864/armored-core-6-gameplay-trailer-fromsoftware)
- - [Threads adds an option for a chronological feed of posts from people the user follows &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230725/p21#a230725p21)<!-- TECH:END -->
+ - [Check out 13 minutes of Armored Core VI gameplay](https://www.theverge.com/2023/7/25/23806864/armored-core-6-gameplay-trailer-fromsoftware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eero’s latest business outfits rentals with built-in mesh Wi-Fi](https://www.theverge.com/2023/7/25/23806201/eero-for-communities-wifi-apartments-rentals-built-in)
- - [Microsoft reports Q4 Intelligent Cloud revenue up 15% YoY to $23.99B, vs. $23.79B est., with Azure and other cloud services revenue up 26% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230725/p32#a230725p32)
- - [Microsoft reports Q4 devices revenue down 20% YoY, overall gaming revenue up 1% YoY, Xbox hardware revenue down 13% YoY, and Windows OEM revenue down 12% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230725/p31#a230725p31)
- - [Snap Q2: revenue down 4% YoY to $1.07B, vs. $1.05B est., global DAUs up 14% YoY to 397M, vs. 395M est., and Q3 revenue forecast below est.; SNAP down 16%+ &lpar;CNBC&rpar;](http://www.techmeme.com/230725/p30#a230725p30)
- - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)<!-- TECH:END -->
+ - [Google’s CFO just got a promotion](https://www.theverge.com/2023/7/25/23807246/google-alphabet-earnings-q2-2023-ruth-porat-president-chief-investment-officer)
+ - [Apple issues new developer firmware for AirPods Pro 2](https://appleinsider.com/articles/23/07/25/apple-issues-new-developer-firmware-for-airpods-pro-2?utm_medium=rss)
+ - [YouTube&#39;s ad revenue increased 4.4% YoY to $7.67B in Q2, above expectations of $7.43B and a reversal after three consecutive quarters of declines &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230725/p33#a230725p33)
+ - [Twitter Blue subscribers can now download videos posted to X](https://www.theverge.com/2023/7/25/23807402/x-twitter-blue-video-downloads)
+ - [Eero’s latest business outfits rentals with built-in mesh Wi-Fi](https://www.theverge.com/2023/7/25/23806201/eero-for-communities-wifi-apartments-rentals-built-in)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

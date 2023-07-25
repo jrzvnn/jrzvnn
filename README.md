@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces Second Quarter 2023 Results &lpar;Alphabet - Investor Relations&rpar;](http://www.techmeme.com/230725/p28#a230725p28)
+ - [Elon Musk just changed Twitter’s logo again — sort of](https://www.theverge.com/2023/7/25/23807418/twitter-x-logo-design-change-elon-musk)
+ - [Alphabet CFO Ruth Porat will leave her role to become the President and Chief Investment Officer of Alphabet and Google, effective September 1, 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/230725/p29#a230725p29)
+ - [Alphabet reports Q2 revenue of $74.6B, up 7% YoY, net income of $18.37B, up from $16B YoY, Google Cloud revenue of $8.03B, up from $6.28B YoY; GOOG is up 6%+ &lpar;Alphabet - Investor Relations&rpar;](http://www.techmeme.com/230725/p28#a230725p28)
  - [Windows and devices take a hit in Microsoft’s Q4 earnings, but Xbox is mostly up](https://www.theverge.com/2023/7/25/23807075/microsoft-q4-2023-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Microsoft reports Q4 net income up 20% YoY to $20.1B, revenue up 8% YoY to $56.2B, Office Commercial up 12% YoY, Dynamics 365 up 26% YoY, and LinkedIn up 5% YoY &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/230725/p27#a230725p27)
- - [How the Apple-Goldman Sachs relationship became an unhappy marriage](https://appleinsider.com/articles/23/07/25/how-the-apple-goldman-sachs-relationship-became-an-unhappy-marriage?utm_medium=rss)
- - [Micron launches Crucial X9 Pro and Crucial X10 Pro portable SSDs](https://appleinsider.com/articles/23/07/25/micron-launches-crucial-x9-pro-and-crucial-x10-pro-portable-ssds?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft reports Q4 net income up 20% YoY to $20.1B, revenue up 8% YoY to $56.2B, Office Commercial up 12% YoY, Dynamics 365 up 26% YoY, and LinkedIn up 5% YoY &lpar;Microsoft - Investor Relations&rpar;](http://www.techmeme.com/230725/p27#a230725p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

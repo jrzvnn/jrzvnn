@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane Top Speed with 1100hp Nissan Skyline R34](http://9gag.com/gag/aeQWgb5)
+ - 😝 [Those aren&#39;t bees! THOSE AREN&#39;T BEEEEEESSSSSSSSSS!](http://9gag.com/gag/aQEVoNw)
  - 😝 [This is a good title](http://9gag.com/gag/a5XD16E)
- - 💣 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 👉 [The eyes of an electrician after being zapped by 14,000 volts of electricity. His shoulder touched a live wire and the current passed through his entire body, including the optic nerve, which connects the eye to the brain. The effect was two bizarre star-shaped electrical burns](http://9gag.com/gag/a8qzE9d)<!-- MEMES:END -->
+ - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 😝 [Forbidden Gushers](http://9gag.com/gag/aPgngBq)
+ - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
 
 ---
 </div>

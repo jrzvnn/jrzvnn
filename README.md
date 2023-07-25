@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s new reality show has contestants surviving a zombie apocalypse](https://www.theverge.com/23806862/netflix-zombieverse-reality-show-trailer-date)
  - [Daily deals: $1,600 off MacBook Pro, $449 AirPods Max, $100 off M2 Pro Mac mini, more](https://appleinsider.com/articles/23/07/25/daily-deals-1600-off-macbook-pro-449-airpods-max-100-off-m2-pro-mac-mini-more?utm_medium=rss)
  - [SIA and Oxford Economics: despite the US chip industry workforce growing to 460K by 2030, up from ~345K in 2023, there will still be a ~67K worker shortfall &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230725/p19#a230725p19)
  - [The excellent Arc browser is now available for anyone to download](https://www.theverge.com/2023/7/25/23802843/arc-browser-mac-ios-waitlist-availability)
- - [Best 3D Printer Deals: 7 Printers Worth Your Time and Money     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)<!-- TECH:END -->
+ - [Best 3D Printer Deals: 7 Printers Worth Your Time and Money     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

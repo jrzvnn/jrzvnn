@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
  - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 💣 [No child support anymore](http://9gag.com/gag/ay2P4x8)
  - 😝 [You can unleash your inner nerd at the upcoming gamescom2023 - 9GAG will be there to join in on the fun!](http://9gag.com/gag/aDYMYp7)
- - 👉 [No child support anymore](http://9gag.com/gag/ay2P4x8)<!-- MEMES:END -->
+ - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
 
 ---
 </div>

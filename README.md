@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic, Google, Microsoft, and OpenAI launch the Frontier Model Forum, aiming to ensure &quot;the safe and responsible development of frontier AI models&quot; &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230726/p16#a230726p16)
  - [Evan Blass leaks over a dozen images ahead of Samsung Unpacked, showing the Galaxy Z Fold 5, Z Flip 5, new Galaxy Watch 6, Galaxy Tab S9 tablets, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/230726/p15#a230726p15)
  - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)
  - [Samsung’s Unpacked event spoiled by major leak](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks)
- - [After a massive privacy backlash in 2011, Google&#39;s Street View cameras returned to Germany in June, taking new photos of its 20 largest cities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p14#a230726p14)
- - [Base iPhone 15 models will get 48mp cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [After a massive privacy backlash in 2011, Google&#39;s Street View cameras returned to Germany in June, taking new photos of its 20 largest cities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p14#a230726p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Samsung Galaxy Tab S9 cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-cases-3350149/)
+ - [Teenage Mutant Ninja Turtles: Mutant Mayhem is already spawning a sequel and a spinoff series](https://www.theverge.com/2023/7/26/23808694/teenage-mutant-ninja-turtles-mayhem-sequel)
  - [Stability AI launches Stable Diffusion XL 1.0, an open-source text-to-image model that can yield 1MP resolution images &quot;in seconds&quot; in multiple aspect ratios &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p41#a230726p41)
  - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)
- - [Prepare for Baldur’s Gate 3 with this nine-game CRPG bundle for just $30](https://www.theverge.com/23808628/humble-bundle-crpg-pc-gaming-baldurs-gate-neverwinter-nights-deal-sale)
- - [Why sucking CO2 out of the atmosphere can’t undo all the effects of climate change](https://www.theverge.com/2023/7/26/23807051/climate-change-carbon-removal-desert-drought-hadley-cell-research)
- - [Microsoft, Amazon, and Meta team up to challenge Google Maps and Apple Maps](https://www.androidauthority.com/google-maps-open-source-competitor-3350194/)<!-- TECH:END -->
+ - [Prepare for Baldur’s Gate 3 with this nine-game CRPG bundle for just $30](https://www.theverge.com/23808628/humble-bundle-crpg-pc-gaming-baldurs-gate-neverwinter-nights-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

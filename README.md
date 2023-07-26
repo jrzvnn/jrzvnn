@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Overture Maps Foundation, formed by Meta, Microsoft, AWS, and TomTom, releases its first dataset with 59M &quot;points of interest&quot; donated by Meta and Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230726/p31#a230726p31)
- - [Report: Google could reveal a foldable tablet at I/O 2024](https://www.androidauthority.com/google-foldable-tablet-report-2024-3350036/)
- - [How to preorder the Samsung Galaxy Watch 6 and Watch 6 Classic](https://www.theverge.com/23803481/samsung-galaxy-watch-6-classic-preorder-buy-price-availability-release-date)
- - [As droughts spread across Spain, the US, and elsewhere, communities are battling water-hungry data centers; Meta expects a &amp;euro;1B facility to use 665M liters/year &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p30#a230726p30)
- - [The best Samsung Galaxy Z Fold 5 chargers](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-chargers-3349816/)<!-- TECH:END -->
+ - [Apple Vision Pro draws investors back to struggling VR/AR market](https://appleinsider.com/articles/23/07/26/apple-vision-pro-draws-investors-back-to-struggling-vrar-market?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)
+ - [USB-C iPhone modder makes AirPods case battery easier to replace](https://www.theverge.com/2023/7/26/23808180/airpods-pro-mod-iphone-usb-c-battery-replacement)
+ - [Why it’s impossible to compete with Google Search](https://www.theverge.com/23802382/search-engine-google-neeva-android)
+ - [The Overture Maps Foundation, formed by Meta, Microsoft, AWS, and TomTom, releases its first dataset with 59M &quot;points of interest&quot; donated by Meta and Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230726/p31#a230726p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

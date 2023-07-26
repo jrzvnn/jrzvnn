@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dish partners with Amazon to sell a Boost Infinite postpaid wireless plan with unlimited talk, text, and data services at $25/month for Amazon Prime subscribers &lpar;Medha Singh/Reuters&rpar;](http://www.techmeme.com/230726/p43#a230726p43)
  - [Does the Samsung Galaxy Z Flip 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-crease-3349870/)
  - [The CISA warns US federal agencies to secure their systems against an Ivanti flaw that&#39;s been exploited as a zero-day to hack Norway&#39;s government systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230726/p42#a230726p42)
  - [SpaceX Set to Launch Enormous Satellite for Faster Rural Broadband     - CNET](https://www.cnet.com/home/internet/spacex-set-to-launch-enormous-satellite-for-faster-rural-broadband/#ftag=CAD590a51e)
- - [The best Samsung Galaxy Tab S9 cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-cases-3350149/)
- - [Teenage Mutant Ninja Turtles: Mutant Mayhem is already spawning a sequel and a spinoff series](https://www.theverge.com/2023/7/26/23808694/teenage-mutant-ninja-turtles-mayhem-sequel)<!-- TECH:END -->
+ - [The best Samsung Galaxy Tab S9 cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-cases-3350149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

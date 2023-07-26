@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter changes its handle from @twitter to @X, Twitter Blue to @XBlue, @TwitterSupport to @Support, and more; the previous owner of @X now uses @x1234567998765 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p12#a230726p12)
  - [GitHub, Hugging Face, Creative Commons, and others write a paper for EU policymakers encouraging support for open-source AI models ahead of the final EU AI Act &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230726/p11#a230726p11)
  - [Alibaba plans to let business customers use Meta&#39;s Llama 2 to build apps, the first Chinese company to do so; companies with &lt;700M MAUs can use Llama for free &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230726/p10#a230726p10)
  - [Threads gets the chronological feed you’ve wanted since day 1](https://www.androidauthority.com/threads-chronological-follower-feed-3349891/)
- - [An interview with AWS CEO Adam Selipsky on generative AI, the Microsoft-OpenAI deal, competition among cloud providers offering generative AI services, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230726/p9#a230726p9)
- - [The Futurama crew touches down in Fortnite](https://www.theverge.com/2023/7/26/23807330/futurama-fortnite-collaboration-fry-leela-bender)<!-- TECH:END -->
+ - [An interview with AWS CEO Adam Selipsky on generative AI, the Microsoft-OpenAI deal, competition among cloud providers offering generative AI services, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230726/p9#a230726p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

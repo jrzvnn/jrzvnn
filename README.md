@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Templates in Reminders in iOS 16 and iOS 17](https://appleinsider.com/articles/23/07/26/how-to-use-templates-in-reminders-in-ios-16-and-ios-17?utm_medium=rss)
+ - [Despite not being in SAG-AFTRA, many influencers are passing up deals to promote movies and TV shows to avoid being barred from the guild and online criticism &lpar;New York Times&rpar;](http://www.techmeme.com/230726/p32#a230726p32)
+ - [Citi Bike is for sale](https://www.theverge.com/2023/7/26/23808205/lyft-citi-bike-sale-bike-share-scooter)
  - [Apple Vision Pro draws investors back to struggling VR/AR market](https://appleinsider.com/articles/23/07/26/apple-vision-pro-draws-investors-back-to-struggling-vrar-market?utm_medium=rss)
- - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)
- - [USB-C iPhone modder makes AirPods case battery easier to replace](https://www.theverge.com/2023/7/26/23808180/airpods-pro-mod-iphone-usb-c-battery-replacement)
- - [Why it’s impossible to compete with Google Search](https://www.theverge.com/23802382/search-engine-google-neeva-android)
- - [The Overture Maps Foundation, formed by Meta, Microsoft, AWS, and TomTom, releases its first dataset with 59M &quot;points of interest&quot; donated by Meta and Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230726/p31#a230726p31)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

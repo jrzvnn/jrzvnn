@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-26-2023-3347293/)
+ - [Bumble launches its standalone Bumble for Friends app in Australia, Canada, Ireland, New Zealand, the Philippines, the UK, and the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p33#a230726p33)
+ - [Apple&#39;s Mac mini M2 is back on sale for $499](https://appleinsider.com/articles/23/07/26/apples-mac-mini-m2-is-back-on-sale-for-499?utm_medium=rss)
  - [How to use Templates in Reminders in iOS 16 and iOS 17](https://appleinsider.com/articles/23/07/26/how-to-use-templates-in-reminders-in-ios-16-and-ios-17?utm_medium=rss)
- - [Despite not being in SAG-AFTRA, many influencers are passing up deals to promote movies and TV shows to avoid being barred from the guild and online criticism &lpar;New York Times&rpar;](http://www.techmeme.com/230726/p32#a230726p32)
- - [Citi Bike is for sale](https://www.theverge.com/2023/7/26/23808205/lyft-citi-bike-sale-bike-share-scooter)
- - [Apple Vision Pro draws investors back to struggling VR/AR market](https://appleinsider.com/articles/23/07/26/apple-vision-pro-draws-investors-back-to-struggling-vrar-market?utm_medium=rss)
- - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)<!-- TECH:END -->
+ - [Despite not being in SAG-AFTRA, many influencers are passing up deals to promote movies and TV shows to avoid being barred from the guild and online criticism &lpar;New York Times&rpar;](http://www.techmeme.com/230726/p32#a230726p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

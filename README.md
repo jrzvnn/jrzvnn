@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
- - 😝 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
+ - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 💣 [Happened a few days ago in a small town in Germany where I live and so far there has been no incident... they have spread everywhere. I&#39;m not a cameraman](http://9gag.com/gag/avQmyjO)
+ - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
 
 ---
 </div>

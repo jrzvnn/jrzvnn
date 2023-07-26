@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft, Amazon, and Meta team up to challenge Google Maps and Apple Maps](https://www.androidauthority.com/google-maps-open-source-competitor-3350194/)
- - [Google, Microsoft, OpenAI Join Forces to Create AI Safety Forum     - CNET](https://www.cnet.com/tech/google-microsoft-openai-join-forces-to-create-ai-safety-forum/#ftag=CAD590a51e)
- - [T-Mobile rolls out ultrafast 5G capable of 3.3Gbps, first in a few US markets for Samsung Galaxy S23 users only, then nationwide in &quot;the coming weeks&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230726/p40#a230726p40)
- - [Automakers Plan New EV Charging Network with 30,000 Chargers     - CNET](https://www.cnet.com/roadshow/news/automakers-plan-new-ev-charging-network-with-30000-chargers/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Flip 5 Hands-On: Bigger Display, More Personal Customizations     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-5-hands-on-bigger-display-more-personal-customizations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stability AI launches Stable Diffusion XL 1.0, an open-source text-to-image model that can yield 1MP resolution images &quot;in seconds&quot; in multiple aspect ratios &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p41#a230726p41)
+ - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)
+ - [Prepare for Baldur’s Gate 3 with this nine-game CRPG bundle for just $30](https://www.theverge.com/23808628/humble-bundle-crpg-pc-gaming-baldurs-gate-neverwinter-nights-deal-sale)
+ - [Why sucking CO2 out of the atmosphere can’t undo all the effects of climate change](https://www.theverge.com/2023/7/26/23807051/climate-change-carbon-removal-desert-drought-hadley-cell-research)
+ - [Microsoft, Amazon, and Meta team up to challenge Google Maps and Apple Maps](https://www.androidauthority.com/google-maps-open-source-competitor-3350194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

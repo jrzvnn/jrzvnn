@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon adds a page to alert customers of recalled or unsafe products within users&#39; accounts; US sellers can opt-in to Amazon&#39;s service to manage recalled items &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230726/p1#a230726p1)
+ - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
  - [Former employees detail how the Apple Card partnership between Apple and Goldman Sachs soured; a source says Apple Card had ~10M users as of earlier this year &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230725/p42#a230725p42)
  - [AI pioneer Yoshua Bengio, Anthropic CEO Dario Amodei, and Berkeley CS professor Stuart Russell warn Congress that AI could cause serious harms in a few years &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230725/p41#a230725p41)
- - [Samsung Unpacked: How to Watch the Galaxy Z Fold 5, Flip 5 Event Live     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-galaxy-z-fold-5-flip-5-event-live/#ftag=CAD590a51e)
- - [Meta hasn&#39;t labeled propaganda accounts of state-backed media from Russia and other authoritarian governments on Threads, unlike on Facebook and Instagram &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p40#a230725p40)
- - [Apple&#39;s latest App Store expert sessions run through August 24](https://appleinsider.com/articles/23/07/26/apples-latest-app-store-expert-sessions-run-through-august-24?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Unpacked: How to Watch the Galaxy Z Fold 5, Flip 5 Event Live     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-galaxy-z-fold-5-flip-5-event-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

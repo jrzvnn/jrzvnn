@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We have bad news if you wanted a Galaxy Z Flip 5 Bespoke edition](https://www.androidauthority.com/samsung-galaxy-z-flip-5-bespoke-3346596/)
+ - [Documents detail the struggles of Amazon&#39;s Clubhouse rival Amp, launched in March 2022 with a year-end target of 1M+ MAUs; a source says MAUs sit at 700K today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p19#a230726p19)
  - [New 15-inch MacBook Air sales are half the figure Apple expected](https://appleinsider.com/articles/23/07/26/new-macbook-air-demand-is-half-apples-expectation?utm_medium=rss)
  - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
- - [The FBI&#39;s seizure of Mastodon server Kolektiva.social in May, part of a raid over unrelated charges, should serve as a wakeup call to fediverse users and hosts &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/230726/p18#a230726p18)
- - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [How to move photos from My Photo Stream to iCloud -- or elsewhere](https://appleinsider.com/inside/icloud/tips/how-to-move-photos-from-my-photo-stream-to-icloud----or-elsewhere?utm_medium=rss)<!-- TECH:END -->
+ - [The FBI&#39;s seizure of Mastodon server Kolektiva.social in May, part of a raid over unrelated charges, should serve as a wakeup call to fediverse users and hosts &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/230726/p18#a230726p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

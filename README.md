@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New SEC rules put a time limit on reporting hacks and data breaches](https://www.theverge.com/2023/7/26/23808943/sec-cybersecurity-public-companies-hacks-data-breaches)
  - [AWS is ready to power AI agents that can handle busywork instead of just chatting](https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy)
  - [Your favorite Neopets Flash games are back](https://www.theverge.com/2023/7/26/23809037/neopets-games-restored-flash-emulator)
  - [Waymo says it will slow the development of autonomous trucking as it moves its focus and investment to ride-hailing &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/230726/p48#a230726p48)
- - [Can Elon Musk really use that X logo for Twitter?](https://www.theverge.com/2023/7/26/23809087/elon-musk-x-logo-twitter-trademark)
- - [Best Wireless Earbuds of 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can Elon Musk really use that X logo for Twitter?](https://www.theverge.com/2023/7/26/23809087/elon-musk-x-logo-twitter-trademark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

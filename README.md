@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads gets the chronological feed you’ve wanted since day 1](https://www.androidauthority.com/threads-chronological-follower-feed-3349891/)
+ - [An interview with AWS CEO Adam Selipsky on generative AI, the Microsoft-OpenAI deal, competition among cloud providers offering generative AI services, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230726/p9#a230726p9)
+ - [The Futurama crew touches down in Fortnite](https://www.theverge.com/2023/7/26/23807330/futurama-fortnite-collaboration-fry-leela-bender)
  - [A profile of Joseph Weizenbaum, who created the first chatbot in 1966 but turned against AI, believing the computer revolution constricted our humanity &lpar;Ben Tarnoff/The Guardian&rpar;](http://www.techmeme.com/230726/p8#a230726p8)
- - [Samsung Unpacked: How to Watch Today&#39;s Galaxy Z Fold 5, Flip 5 Event Live     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-galaxy-z-fold-5-flip-5-event-live/#ftag=CAD590a51e)
- - [Last-minute leak leaves almost nothing for Samsung to Unpack](https://www.androidauthority.com/last-minute-samsung-unpacked-leak-3349810/)
- - [GitHub and others call for more open-source support in EU AI law](https://www.theverge.com/2023/7/26/23807218/github-ai-open-source-creative-commons-hugging-face-eu-regulations)
- - [A profile of Indian edtech giant Byju&#39;s CEO Byju Raveendran, who has been in crisis mode for months but is expecting a $1B equity investment as early as August &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230726/p7#a230726p7)<!-- TECH:END -->
+ - [Samsung Unpacked: How to Watch Today&#39;s Galaxy Z Fold 5, Flip 5 Event Live     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-galaxy-z-fold-5-flip-5-event-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Indian edtech giant Byju&#39;s CEO Byju Raveendran, who has been in crisis mode for months but is expecting a $1B equity investment as early as August &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230726/p7#a230726p7)
  - [A look at the origins of Worldcoin&#39;s eye-scanning orb, how the company is trying to safeguard user privacy, its tokenomics, policy challenges, and more &lpar;Jeff Wilser/CoinDesk&rpar;](http://www.techmeme.com/230726/p6#a230726p6)
  - [UNESCO calls for a global ban on smartphones in schools, saying intensive technology use negatively impacts student performance and increases disruption &lpar;The Guardian&rpar;](http://www.techmeme.com/230726/p5#a230726p5)
  - [PitchBook: US AR/VR/XR startups raised $208M in June, nearly as much as in the previous three months combined, with Vision Pro creating &quot;an inflection point&quot; &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230726/p4#a230726p4)
- - [ChatGPT Android app is now available for download on the Play Store](https://www.androidauthority.com/chatgpt-android-app-google-play-store-3349800/)
- - [Google says 2B+ logged-in monthly users are watching YouTube Shorts, up from 1.5B+ in June 2022, and YouTube is reaching 150M people on their TVs in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p3#a230726p3)<!-- TECH:END -->
+ - [ChatGPT Android app is now available for download on the Play Store](https://www.androidauthority.com/chatgpt-android-app-google-play-store-3349800/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

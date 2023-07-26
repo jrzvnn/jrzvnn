@@ -147,10 +147,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [You can now get Boost Infinite’s $25 unlimited wireless plan from Amazon Prime](https://www.theverge.com/2023/7/26/23808711/boost-infinite-amazon-prime-dish-wireless-mvno)
+ - [Our Top Song of the Summer Picks](https://www.wired.com/story/songs-of-summer-2023/)
  - [Samsung may have canceled plans to add DeX support on the Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-dex-support-3350292/)
  - [Meta reports Q2 revenue up 11% YoY to $32B, net income up 16% YoY to $7.79B, and family daily active people up 7% YoY to 3.07B for June 2023 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/230726/p45#a230726p45)
- - [Oh my god, WD-40 is now available in a Tide pen](https://www.theverge.com/2023/7/26/22922260/wd-40-precision-pen-tide-to-go)
- - [Samsung Galaxy Watch 6 Classic Golf Edition shows up in Korea](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-golf-edition-3350303/)<!-- TECH:END -->
+ - [Oh my god, WD-40 is now available in a Tide pen](https://www.theverge.com/2023/7/26/22922260/wd-40-precision-pen-tide-to-go)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

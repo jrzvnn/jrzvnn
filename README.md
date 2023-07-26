@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you rr\u00fcnning](http://9gag.com/gag/ay2P34M)
- - 😝 [Outsmarted by the 7-11 Girl](http://9gag.com/gag/aDYM8L9)
- - 💣 [Welcome to Night City](http://9gag.com/gag/aWG97Ox)
  - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 😝 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)
  - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/how-to-turn-off-samsung-galaxy-z-flip-5-3350350/)
  - [Twitter&#39;s former Director of Product Management Esther Crawford on her experience at the company, Elon Musk&#39;s leadership, the sleeping bag incident, and more &lpar;@esthercrawford&rpar;](http://www.techmeme.com/230726/p49#a230726p49)
  - [Reddit is testing ‘official’ labels for profiles and making parts of its app compatible with screen readers](https://www.theverge.com/2023/7/26/23809017/reddit-official-labels-profiles-accessibility-screen-readers)
  - [Here’s how the new Samsung Galaxy Z Fold 5 compares to the Google Pixel Fold](https://www.theverge.com/23808890/samsung-galaxy-z-fold-5-vs-google-pixel-fold-comparison-specs)
- - [Here’s how Samsung’s Galaxy Watch 6 lineup stacks up against the Google Pixel Watch](https://www.theverge.com/23808361/samsung-galaxy-watch-6-vs-google-pixel-watch-comparison-specs)
- - [New SEC rules put a time limit on reporting hacks and data breaches](https://www.theverge.com/2023/7/26/23808943/sec-cybersecurity-public-companies-hacks-data-breaches)<!-- TECH:END -->
+ - [Here’s how Samsung’s Galaxy Watch 6 lineup stacks up against the Google Pixel Watch](https://www.theverge.com/23808361/samsung-galaxy-watch-6-vs-google-pixel-watch-comparison-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

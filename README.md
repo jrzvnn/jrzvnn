@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says 2B+ logged-in monthly users are watching YouTube Shorts, up from 1.5B+ in June 2022, and YouTube is reaching 150M people on their TVs in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p3#a230726p3)
  - [Sources: Ant Group plans to exclude blockchain and other businesses from its financial-related unit that will be used for a Chinese financial holding license &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p2#a230726p2)
  - [Google announces a new Play Store for foldables and tablets](https://www.androidauthority.com/google-new-play-store-for-large-screen-devices-3349791/)
  - [Amazon adds a page to alert customers of recalled or unsafe products within users&#39; accounts; US sellers can opt-in to Amazon&#39;s service to manage recalled items &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230726/p1#a230726p1)
- - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Former employees detail how the Apple Card partnership between Apple and Goldman Sachs soured; a source says Apple Card had ~10M users as of earlier this year &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230725/p42#a230725p42)<!-- TECH:END -->
+ - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

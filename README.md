@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: Samsung Fold 5 up to $1,000 off, $1,799 MacBook Pro 14, Apple Leather Wallet $28, $90 Thunderbolt 3 dock](https://appleinsider.com/articles/23/07/26/daily-deals-samsung-fold-5-up-to-1000-off-1799-macbook-pro-14-apple-leather-wallet-28-90-thunderbolt-3-dock?utm_medium=rss)
+ - [Sources: CrowdStrike is in advanced negotiations to acquire Bionic, a security posture management platform for cloud services, for between $200M and $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p37#a230726p37)
  - [Don’t expect to use Google Wallet on the Galaxy Z Flip 5’s cover display](https://www.androidauthority.com/galaxy-z-flip-5-google-wallet-blocked-3350148/)
  - [iOS 17 code hints at Action button in iPhone 15 Pro models](https://appleinsider.com/articles/23/07/26/ios-17-code-hints-at-action-button-in-iphone-15-pro-models?utm_medium=rss)
- - [Samsung’s 65-inch Frame TV is over $600 off at Woot](https://www.theverge.com/2023/7/26/23807472/samsung-frame-tv-belkin-boostcharge-magsafe-apple-mac-mini-deal-sale)
- - [CD Projekt Red is laying off about 9 percent of its staff](https://www.theverge.com/2023/7/26/23808484/cd-projekt-red-cdpr-layoffs)
- - [This Convenient Dyson Stick Vacuum Is $150 Off for Today Only at Best Buy     - CNET](https://www.cnet.com/deals/this-convenient-dyson-stick-vacuum-is-150-off-for-today-only-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s 65-inch Frame TV is over $600 off at Woot](https://www.theverge.com/2023/7/26/23807472/samsung-frame-tv-belkin-boostcharge-magsafe-apple-mac-mini-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

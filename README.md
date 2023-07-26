@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Wireless Earbuds of 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)
  - [Meta&#39;s Reality Labs reports Q2 $3.7B operating loss, vs. $3.5B est., and expects losses to &quot;increase meaningfully&quot; due to investments in VR/AR and its ecosystem &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230726/p47#a230726p47)
  - [Twitter Blue’s former lead talks about Elon Musk, X, and sleeping on the floor](https://www.theverge.com/2023/7/26/23809035/twitter-blue-x-esther-crawford-video-tweet-elon-musk)
- - [eBay reports Q2 revenue up 5% YoY to $2.52B, vs. $2.51B est., gross merchandise volume down 2% YoY to $18.2B, and active buyers down 4% YoY to 132M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230726/p46#a230726p46)
- - [You can now get Boost Infinite’s $25 unlimited wireless plan from Amazon Prime](https://www.theverge.com/2023/7/26/23808711/boost-infinite-amazon-prime-dish-wireless-mvno)
- - [Our Top Song of the Summer Picks](https://www.wired.com/story/songs-of-summer-2023/)<!-- TECH:END -->
+ - [eBay reports Q2 revenue up 5% YoY to $2.52B, vs. $2.51B est., gross merchandise volume down 2% YoY to $18.2B, and active buyers down 4% YoY to 132M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230726/p46#a230726p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

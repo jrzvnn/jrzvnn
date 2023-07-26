@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 6 Classic Golf Edition shows up in Korea](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-golf-edition-3350303/)
- - [For Elon Musk, X equals everything](https://www.theverge.com/2023/7/26/23808796/elon-musks-x-everything-app-vision)
- - [Sony brings head-tracking spatial audio to its 1000XM5 headphones](https://www.theverge.com/2023/7/26/23808899/sony-wh-1000xm5-update-head-tracking-multipoint-ldac)
- - [US prosecutors ask a judge to detain Sam Bankman-Fried over witness tampering allegations, saying he leaked Caroline Ellison&#39;s personal writings to the NYT &lpar;CNN&rpar;](http://www.techmeme.com/230726/p44#a230726p44)
- - [Best Noise-Canceling Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now get Boost Infinite’s $25 unlimited wireless plan from Amazon Prime](https://www.theverge.com/2023/7/26/23808711/boost-infinite-amazon-prime-dish-wireless-mvno)
+ - [Samsung may have canceled plans to add DeX support on the Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-dex-support-3350292/)
+ - [Meta reports Q2 revenue up 11% YoY to $32B, net income up 16% YoY to $7.79B, and family daily active people up 7% YoY to 3.07B for June 2023 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/230726/p45#a230726p45)
+ - [Oh my god, WD-40 is now available in a Tide pen](https://www.theverge.com/2023/7/26/22922260/wd-40-precision-pen-tide-to-go)
+ - [Samsung Galaxy Watch 6 Classic Golf Edition shows up in Korea](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-golf-edition-3350303/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

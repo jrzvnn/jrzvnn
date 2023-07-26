@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 😝 [Happened a few days ago in a small town in Germany where I live and so far there has been no incident... they have spread everywhere. I&#39;m not a cameraman](http://9gag.com/gag/avQmyjO)
- - 💣 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
+ - 😝 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 💣 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
  - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
+ - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
- - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
- - 💣 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
+ - 😝 [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
+ - 😝 [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)
+ - 💣 [Just thoughts](http://9gag.com/gag/aL1rGK5)
+ - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
+ - 👉 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
 
 ---
 </div>

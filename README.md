@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony brings head-tracking spatial audio to its 1000XM5 headphones](https://www.theverge.com/2023/7/26/23808899/sony-wh-1000xm5-update-head-tracking-multipoint-ldac)
+ - [US prosecutors ask a judge to detain Sam Bankman-Fried over witness tampering allegations, saying he leaked Caroline Ellison&#39;s personal writings to the NYT &lpar;CNN&rpar;](http://www.techmeme.com/230726/p44#a230726p44)
  - [New Xbox update makes dashboard more functional and look way better](https://www.androidauthority.com/xbox-dashboard-updated-customization-3350252/)
  - [Dish partners with Amazon to sell a Boost Infinite postpaid wireless plan with unlimited talk, text, and data services at $25/month for Amazon Prime subscribers &lpar;Medha Singh/Reuters&rpar;](http://www.techmeme.com/230726/p43#a230726p43)
- - [Does the Samsung Galaxy Z Flip 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-crease-3349870/)
- - [The CISA warns US federal agencies to secure their systems against an Ivanti flaw that&#39;s been exploited as a zero-day to hack Norway&#39;s government systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230726/p42#a230726p42)
- - [SpaceX Set to Launch Enormous Satellite for Faster Rural Broadband     - CNET](https://www.cnet.com/home/internet/spacex-set-to-launch-enormous-satellite-for-faster-rural-broadband/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Does the Samsung Galaxy Z Flip 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-crease-3349870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

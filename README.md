@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CISA warns US federal agencies to secure their systems against an Ivanti flaw that&#39;s been exploited as a zero-day to hack Norway&#39;s government systems &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230726/p42#a230726p42)
  - [The best Samsung Galaxy Tab S9 cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-cases-3350149/)
  - [Teenage Mutant Ninja Turtles: Mutant Mayhem is already spawning a sequel and a spinoff series](https://www.theverge.com/2023/7/26/23808694/teenage-mutant-ninja-turtles-mayhem-sequel)
  - [Stability AI launches Stable Diffusion XL 1.0, an open-source text-to-image model that can yield 1MP resolution images &quot;in seconds&quot; in multiple aspect ratios &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p41#a230726p41)
- - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)
- - [Prepare for Baldur’s Gate 3 with this nine-game CRPG bundle for just $30](https://www.theverge.com/23808628/humble-bundle-crpg-pc-gaming-baldurs-gate-neverwinter-nights-deal-sale)<!-- TECH:END -->
+ - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

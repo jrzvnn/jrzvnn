@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 💣 [No child support anymore](http://9gag.com/gag/ay2P4x8)
+ - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
+ - 😝 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
+ - 💣 [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
  - 😝 [You can unleash your inner nerd at the upcoming gamescom2023 - 9GAG will be there to join in on the fun!](http://9gag.com/gag/aDYMYp7)
- - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
+ - 👉 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
 
 ---
 </div>

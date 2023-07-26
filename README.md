@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: US AR/VR/XR startups raised $208M in June, nearly as much as in the previous three months combined, with Vision Pro creating &quot;an inflection point&quot; &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230726/p4#a230726p4)
+ - [ChatGPT Android app is now available for download on the Play Store](https://www.androidauthority.com/chatgpt-android-app-google-play-store-3349800/)
  - [Google says 2B+ logged-in monthly users are watching YouTube Shorts, up from 1.5B+ in June 2022, and YouTube is reaching 150M people on their TVs in the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p3#a230726p3)
  - [Sources: Ant Group plans to exclude blockchain and other businesses from its financial-related unit that will be used for a Chinese financial holding license &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p2#a230726p2)
- - [Google announces a new Play Store for foldables and tablets](https://www.androidauthority.com/google-new-play-store-for-large-screen-devices-3349791/)
- - [Amazon adds a page to alert customers of recalled or unsafe products within users&#39; accounts; US sellers can opt-in to Amazon&#39;s service to manage recalled items &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230726/p1#a230726p1)
- - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google announces a new Play Store for foldables and tablets](https://www.androidauthority.com/google-new-play-store-for-large-screen-devices-3349791/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

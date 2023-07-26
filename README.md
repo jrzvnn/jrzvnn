@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New MacBook Air sales are half Apple&#39;s prediction](https://appleinsider.com/articles/23/07/26/new-macbook-air-demand-is-half-apples-expectation?utm_medium=rss)
+ - [How a US Navy task force is using AI to police the waters of the Gulf of Oman for pirates, a glimpse of increasingly capable autonomous systems transforming war &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230726/p17#a230726p17)
  - [Anthropic, Google, Microsoft, and OpenAI launch the Frontier Model Forum, aiming to ensure &quot;the safe and responsible development of frontier AI models&quot; &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230726/p16#a230726p16)
  - [Evan Blass leaks over a dozen images ahead of Samsung Unpacked, showing the Galaxy Z Fold 5, Z Flip 5, new Galaxy Watch 6, Galaxy Tab S9 tablets, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/230726/p15#a230726p15)
- - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)
- - [Samsung’s Unpacked event spoiled by major leak](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks)
- - [After a massive privacy backlash in 2011, Google&#39;s Street View cameras returned to Germany in June, taking new photos of its 20 largest cities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p14#a230726p14)<!-- TECH:END -->
+ - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

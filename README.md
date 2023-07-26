@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Dasher can use CarPlay to get your food to you now](https://www.theverge.com/2023/7/26/23808483/doordash-carplay-support-delivery-driver-iphone-mount)
  - [New rules approved by the SEC require publicly traded companies to file details of a cyberattack within four days of identifying that it has a material impact &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p39#a230726p39)
  - [Tourists lost in Italian mountains saved by iPhone 14 Emergency SOS via satellite](https://appleinsider.com/articles/23/07/26/tourists-lost-in-italian-mountains-saved-by-iphone-14-emergency-sos-via-satellite?utm_medium=rss)
  - [8 Best Deals From the Nordstrom Anniversary Sale &lpar;2023&rpar;: Dyson Hair Tools, Fellow Grinder, Strollers](https://www.wired.com/story/nordstrom-anniversary-sale-deals-2023-1/)
- - [Even the upcoming macOS Sonoma update isn&#39;t safe from this malware](https://appleinsider.com/articles/23/07/26/even-the-upcoming-macos-sonoma-update-isnt-safe-from-this-malware?utm_medium=rss)
- - [AWS debuts HealthScribe, an AI-powered tool to summarize patient visits, and is working with partners rather than selling it directly to hospitals and doctors &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230726/p38#a230726p38)<!-- TECH:END -->
+ - [Even the upcoming macOS Sonoma update isn&#39;t safe from this malware](https://appleinsider.com/articles/23/07/26/even-the-upcoming-macos-sonoma-update-isnt-safe-from-this-malware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

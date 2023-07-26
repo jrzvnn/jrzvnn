@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has spent $1.5 billion to help relieve California&#39;s housing crisis](https://appleinsider.com/articles/23/07/26/apple-has-spent-15-billion-to-help-relieve-californias-housing-crisis?utm_medium=rss)
+ - [You can now Venmo new Xbox games](https://www.theverge.com/2023/7/26/23808367/venmo-xbox-microsoft-store-support)
+ - [Protect AI, which offers security tools for AI systems, raised a $35M Series A led by Evolution Equity Partners, taking its total funding to $48.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p34#a230726p34)
  - [War is breaking out in Invasion season 2’s first trailer](https://www.theverge.com/23808221/invasion-season-2-trailer-date-apple-tv-plus)
- - [Meta, Microsoft, and Amazon have launched their open-source mapping project](https://www.theverge.com/2023/7/26/23808274/meta-microsoft-amazon-overture-open-source-mapping)
- - [How to preorder Samsung’s Galaxy Tab S9 tablets](https://www.theverge.com/23806287/samsungs-galaxy-tab-s9-buy-preorder-price-features)
- - [Good Omens season 2 is a lovey-dovey shipper’s delight](https://www.theverge.com/23807387/good-omens-season-2-review-amazon-prime-video)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-26-2023-3347293/)<!-- TECH:END -->
+ - [Meta, Microsoft, and Amazon have launched their open-source mapping project](https://www.theverge.com/2023/7/26/23808274/meta-microsoft-amazon-overture-open-source-mapping)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

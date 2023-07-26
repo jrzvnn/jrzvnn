@@ -148,9 +148,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Daily deals: Samsung Fold 5 up to $1,000 off, $1,799 MacBook Pro 14, Apple Leather Wallet $28, $90 Thunderbolt 3 dock](https://appleinsider.com/articles/23/07/26/daily-deals-samsung-fold-5-up-to-1000-off-1799-macbook-pro-14-apple-leather-wallet-28-90-thunderbolt-3-dock?utm_medium=rss)
  - [Sources: CrowdStrike is in advanced negotiations to acquire Bionic, a security posture management platform for cloud services, for between $200M and $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p37#a230726p37)
+ - [8 Best Snack Box Subscriptions, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-snack-subscription-boxes/#ftag=CAD590a51e)
  - [Don’t expect to use Google Wallet on the Galaxy Z Flip 5’s cover display](https://www.androidauthority.com/galaxy-z-flip-5-google-wallet-blocked-3350148/)
- - [iOS 17 code hints at Action button in iPhone 15 Pro models](https://appleinsider.com/articles/23/07/26/ios-17-code-hints-at-action-button-in-iphone-15-pro-models?utm_medium=rss)
- - [Samsung’s 65-inch Frame TV is over $600 off at Woot](https://www.theverge.com/2023/7/26/23807472/samsung-frame-tv-belkin-boostcharge-magsafe-apple-mac-mini-deal-sale)<!-- TECH:END -->
+ - [iOS 17 code hints at Action button in iPhone 15 Pro models](https://appleinsider.com/articles/23/07/26/ios-17-code-hints-at-action-button-in-iphone-15-pro-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

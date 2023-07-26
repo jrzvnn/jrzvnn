@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New rules approved by the SEC require publicly traded companies to file details of a cyberattack within four days of identifying that it has a material impact &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p39#a230726p39)
+ - [Tourists lost in Italian mountains saved by iPhone 14 Emergency SOS via satellite](https://appleinsider.com/articles/23/07/26/tourists-lost-in-italian-mountains-saved-by-iphone-14-emergency-sos-via-satellite?utm_medium=rss)
  - [8 Best Deals From the Nordstrom Anniversary Sale &lpar;2023&rpar;: Dyson Hair Tools, Fellow Grinder, Strollers](https://www.wired.com/story/nordstrom-anniversary-sale-deals-2023-1/)
  - [Even the upcoming macOS Sonoma update isn&#39;t safe from this malware](https://appleinsider.com/articles/23/07/26/even-the-upcoming-macos-sonoma-update-isnt-safe-from-this-malware?utm_medium=rss)
- - [AWS debuts HealthScribe, an AI-powered tool to summarize patient visits, and is working with partners rather than selling it directly to hospitals and doctors &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230726/p38#a230726p38)
- - [Daily deals: Samsung Fold 5 up to $1,000 off, $1,799 MacBook Pro 14, Apple Leather Wallet $28, $90 Thunderbolt 3 dock](https://appleinsider.com/articles/23/07/26/daily-deals-samsung-fold-5-up-to-1000-off-1799-macbook-pro-14-apple-leather-wallet-28-90-thunderbolt-3-dock?utm_medium=rss)
- - [Sources: CrowdStrike is in advanced negotiations to acquire Bionic, a security posture management platform for cloud services, for between $200M and $300M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p37#a230726p37)<!-- TECH:END -->
+ - [AWS debuts HealthScribe, an AI-powered tool to summarize patient visits, and is working with partners rather than selling it directly to hospitals and doctors &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230726/p38#a230726p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

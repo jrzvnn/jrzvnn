@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does the Samsung Galaxy Z Fold 5 have a crease?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-crease-3349850/)
- - [Galaxy Z Flip 5, Z Fold 5, Watch 6, Tab 9 launches at Samsung Unpacked event](https://appleinsider.com/articles/23/07/26/samsung-launches-new-phones-watches-and-tablets-at-samsung-unpacked?utm_medium=rss)
- - [A Russian court convicts Group-IB co-founder and CEO Ilya Sachkov of treason and jails him for 14 years over allegations of passing information to spies &lpar;Reuters&rpar;](http://www.techmeme.com/230726/p27#a230726p27)
- - [Poll: Is the Samsung Galaxy Watch 6 series hot or not?](https://www.androidauthority.com/samsung-galaxy-watch-6-hot-or-not-3347798/)
- - [Samsung Galaxy Z Flip5 hands-on: the new Flex Hinge seems solid and larger 3.4&quot; external display has potential but apps may struggle with the odd aspect ratio &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/230726/p26#a230726p26)<!-- TECH:END -->
+ - [As droughts spread across Spain, the US, and elsewhere, communities are battling water-hungry data centers; Meta expects a &amp;euro;1B facility to use 665M liters/year &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p30#a230726p30)
+ - [The best Samsung Galaxy Z Fold 5 chargers](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-chargers-3349816/)
+ - [Wear OS 4 is now official, but not for your Pixel Watch](https://www.androidauthority.com/wear-os-4-official-release-3349979/)
+ - [Everything new in iOS 17 beta 4: iMessage app drawer changes, new StandBy settings, other tweaks](https://appleinsider.com/articles/23/07/26/everything-new-in-ios-17-beta-4-imessage-app-drawer-changes-new-standby-settings-other-tweaks?utm_medium=rss)
+ - [The UK CMA says Amazon&#39;s proposals over third-party sellers on Marketplace address its competition concerns in a preliminary view and opens consultations &lpar;Farouq Suleiman/Reuters&rpar;](http://www.techmeme.com/230726/p29#a230726p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

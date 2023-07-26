@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip5 hands-on: the new Flex Hinge seems solid and larger 3.4&quot; external display has potential but apps may struggle with the odd aspect ratio &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/230726/p26#a230726p26)
  - [Galaxy Z Flip 5, Z Fold 5, Watch 6, Tab 9 launches at Samsung Unpacked event](https://appleinsider.com/articles/23/07/26/samsung-launches-new-phones-watches-and-tablets-at-samsung-unpacked?utm_medium=rss)
+ - [Poll: Is the Samsung Galaxy Watch 6 series hot or not?](https://www.androidauthority.com/samsung-galaxy-watch-6-hot-or-not-3347798/)
+ - [Samsung Galaxy Z Flip5 hands-on: the new Flex Hinge seems solid and larger 3.4&quot; external display has potential but apps may struggle with the odd aspect ratio &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/230726/p26#a230726p26)
  - [A look at the Samsung Galaxy Z Flip 5 colors: Pretty in pastel](https://www.androidauthority.com/samsung-galaxy-z-flip-5-colors-3349669/)
- - [How to preorder the Samsung Galaxy Z Fold 5 and Z Flip 5](https://www.theverge.com/23806203/samsung-galaxy-z-fold-flip-5-preorder-buy-price-availability-release-date)
- - [Samsung Galaxy Tab S9 series: Hot or not?](https://www.androidauthority.com/samsung-galaxy-tab-s9-series-hot-not-poll-3348235/)<!-- TECH:END -->
+ - [How to preorder the Samsung Galaxy Z Fold 5 and Z Flip 5](https://www.theverge.com/23806203/samsung-galaxy-z-fold-flip-5-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

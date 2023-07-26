@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
  - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 😝 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)
- - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
+ - 💣 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)<!-- MEMES:END -->
 
 ---
 </div>

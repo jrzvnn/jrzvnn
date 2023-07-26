@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
  - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)<!-- MEMES:END -->
+ - 😝 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 💣 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 👉 [Rants in italian](http://9gag.com/gag/aGEb8nX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces a new Play Store for foldables and tablets](https://www.androidauthority.com/google-new-play-store-for-large-screen-devices-3349791/)
  - [Amazon adds a page to alert customers of recalled or unsafe products within users&#39; accounts; US sellers can opt-in to Amazon&#39;s service to manage recalled items &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230726/p1#a230726p1)
  - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
  - [Former employees detail how the Apple Card partnership between Apple and Goldman Sachs soured; a source says Apple Card had ~10M users as of earlier this year &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230725/p42#a230725p42)
- - [AI pioneer Yoshua Bengio, Anthropic CEO Dario Amodei, and Berkeley CS professor Stuart Russell warn Congress that AI could cause serious harms in a few years &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230725/p41#a230725p41)
- - [Samsung Unpacked: How to Watch the Galaxy Z Fold 5, Flip 5 Event Live     - CNET](https://www.cnet.com/tech/mobile/samsung-unpacked-how-to-watch-the-galaxy-z-fold-5-flip-5-event-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI pioneer Yoshua Bengio, Anthropic CEO Dario Amodei, and Berkeley CS professor Stuart Russell warn Congress that AI could cause serious harms in a few years &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230725/p41#a230725p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

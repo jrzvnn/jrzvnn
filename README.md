@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shopify announces new features: AI chatbot Sidekick to help users redesign websites and analyze data, Shopify Credit for corporate credit cards, and more &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230726/p35#a230726p35)
+ - [A new, way cheaper laser cutter is here to win over crafters](https://www.theverge.com/2023/7/26/23805443/glowforge-aura-laser-cutter-price-specs)
+ - [T-Mobile’s new 5G tech is ultrafast, but only a Galaxy S23 can handle it for now](https://www.androidauthority.com/t-mobile-new-5g-network-3350117/)
  - [Microsoft’s new Xbox Home UI is now available](https://www.theverge.com/2023/7/26/23808139/microsoft-new-xbox-home-ui-available-now-download)
- - [Peacock’s Twisted Metal is trying really, really hard](https://www.theverge.com/23806029/twisted-metal-review-peacock)
- - [Seven major automakers are teaming up on a North American EV charging network](https://www.theverge.com/2023/7/26/23808270/bmw-honda-gm-joint-venture-north-american-ev-charging-network)
- - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)
- - [Earth goes to war in second-season trailer for &#39;Invasion&#39;](https://appleinsider.com/articles/23/07/26/earth-goes-to-war-in-second-season-trailer-for-invasion?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock’s Twisted Metal is trying really, really hard](https://www.theverge.com/23806029/twisted-metal-review-peacock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

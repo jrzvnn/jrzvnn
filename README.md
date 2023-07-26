@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No child support anymore](http://9gag.com/gag/ay2P4x8)
- - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 😝 [You can unleash your inner nerd at the upcoming gamescom2023 - 9GAG will be there to join in on the fun!](http://9gag.com/gag/aDYMYp7)
- - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
+ - 😝 [8 cheese facts &lpar;if you eat orange cheddar i pity you and your soul&rpar;](http://9gag.com/gag/ajVyBz8)
+ - 😝 [Clients vs Users](http://9gag.com/gag/amAn16j)
+ - 💣 [Feminists Destroyed](http://9gag.com/gag/aGEbMYw)
+ - 😝 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
+ - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
 
 ---
 </div>

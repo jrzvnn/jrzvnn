@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile rolls out ultrafast 5G capable of 3.3Gbps, first in a few US markets for Samsung Galaxy S23 users only, then nationwide in &quot;the coming weeks&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230726/p40#a230726p40)
  - [Your Dasher can use CarPlay to get your food to you now](https://www.theverge.com/2023/7/26/23808483/doordash-carplay-support-delivery-driver-iphone-mount)
  - [New rules approved by the SEC require publicly traded companies to file details of a cyberattack within four days of identifying that it has a material impact &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p39#a230726p39)
  - [Tourists lost in Italian mountains saved by iPhone 14 Emergency SOS via satellite](https://appleinsider.com/articles/23/07/26/tourists-lost-in-italian-mountains-saved-by-iphone-14-emergency-sos-via-satellite?utm_medium=rss)
- - [8 Best Deals From the Nordstrom Anniversary Sale &lpar;2023&rpar;: Dyson Hair Tools, Fellow Grinder, Strollers](https://www.wired.com/story/nordstrom-anniversary-sale-deals-2023-1/)
- - [Even the upcoming macOS Sonoma update isn&#39;t safe from this malware](https://appleinsider.com/articles/23/07/26/even-the-upcoming-macos-sonoma-update-isnt-safe-from-this-malware?utm_medium=rss)<!-- TECH:END -->
+ - [8 Best Deals From the Nordstrom Anniversary Sale &lpar;2023&rpar;: Dyson Hair Tools, Fellow Grinder, Strollers](https://www.wired.com/story/nordstrom-anniversary-sale-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Xbox Home UI is now available](https://www.theverge.com/2023/7/26/23808139/microsoft-new-xbox-home-ui-available-now-download)
+ - [Peacock’s Twisted Metal is trying really, really hard](https://www.theverge.com/23806029/twisted-metal-review-peacock)
  - [Seven major automakers are teaming up on a North American EV charging network](https://www.theverge.com/2023/7/26/23808270/bmw-honda-gm-joint-venture-north-american-ev-charging-network)
  - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)
- - [Earth goes to war in second-season trailer for &#39;Invasion&#39;](https://appleinsider.com/articles/23/07/26/earth-goes-to-war-in-second-season-trailer-for-invasion?utm_medium=rss)
- - [Apple has spent $1.5 billion to help relieve California&#39;s housing crisis](https://appleinsider.com/articles/23/07/26/apple-has-spent-15-billion-to-help-relieve-californias-housing-crisis?utm_medium=rss)
- - [You can now Venmo new Xbox games](https://www.theverge.com/2023/7/26/23808367/venmo-xbox-microsoft-store-support)<!-- TECH:END -->
+ - [Earth goes to war in second-season trailer for &#39;Invasion&#39;](https://appleinsider.com/articles/23/07/26/earth-goes-to-war-in-second-season-trailer-for-invasion?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

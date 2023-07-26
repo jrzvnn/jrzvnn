@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
- - 😝 [Basically a very intricate way of calling her ugly for the role](http://9gag.com/gag/aWG9nyn)
- - 💣 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
+ - 💣 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)<!-- MEMES:END -->
 
 ---
 </div>

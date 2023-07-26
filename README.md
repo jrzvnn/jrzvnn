@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta, Microsoft, and Amazon have launched their open-source mapping project](https://www.theverge.com/2023/7/26/23808274/meta-microsoft-amazon-overture-open-source-mapping)
  - [How to preorder Samsung’s Galaxy Tab S9 tablets](https://www.theverge.com/23806287/samsungs-galaxy-tab-s9-buy-preorder-price-features)
  - [Good Omens season 2 is a lovey-dovey shipper’s delight](https://www.theverge.com/23807387/good-omens-season-2-review-amazon-prime-video)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 26&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jul-26-2023-3347293/)
- - [Bumble launches its standalone Bumble for Friends app in Australia, Canada, Ireland, New Zealand, the Philippines, the UK, and the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p33#a230726p33)
- - [Apple&#39;s Mac mini M2 is back on sale for $499](https://appleinsider.com/articles/23/07/26/apples-mac-mini-m2-is-back-on-sale-for-499?utm_medium=rss)<!-- TECH:END -->
+ - [Bumble launches its standalone Bumble for Friends app in Australia, Canada, Ireland, New Zealand, the Philippines, the UK, and the US &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p33#a230726p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

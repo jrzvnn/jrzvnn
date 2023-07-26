@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your favorite Neopets Flash games are back](https://www.theverge.com/2023/7/26/23809037/neopets-games-restored-flash-emulator)
  - [Waymo says it will slow the development of autonomous trucking as it moves its focus and investment to ride-hailing &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/230726/p48#a230726p48)
  - [Can Elon Musk really use that X logo for Twitter?](https://www.theverge.com/2023/7/26/23809087/elon-musk-x-logo-twitter-trademark)
- - [Best Wireless Earbuds of 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)
- - [Meta&#39;s Reality Labs reports Q2 $3.7B operating loss, vs. $3.5B est., and expects losses to &quot;increase meaningfully&quot; due to investments in VR/AR and its ecosystem &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230726/p47#a230726p47)<!-- TECH:END -->
+ - [Meta&#39;s Reality Labs reports Q2 $3.7B operating loss, vs. $3.5B est., and expects losses to &quot;increase meaningfully&quot; due to investments in VR/AR and its ecosystem &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230726/p47#a230726p47)
+ - [Twitter Blue’s former lead talks about Elon Musk, X, and sleeping on the floor](https://www.theverge.com/2023/7/26/23809035/twitter-blue-x-esther-crawford-video-tweet-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

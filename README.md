@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta hasn&#39;t labeled propaganda accounts of state-backed media from Russia and other authoritarian governments on Threads, unlike on Facebook and Instagram &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230725/p40#a230725p40)
  - [Apple&#39;s latest App Store expert sessions run through August 24](https://appleinsider.com/articles/23/07/26/apples-latest-app-store-expert-sessions-run-through-august-24?utm_medium=rss)
  - [SK Hynix reports Q2 revenue down 47% YoY to ~$5.7B, beating an average projection of ~$4.7B, and a ~$2.3B operating loss, in line with expectations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230725/p39#a230725p39)
  - [Flashbots, whose service proposes blocks for validators running the Ethereum blockchain, raised a $60M Series B led by Paradigm at a $1B valuation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230725/p38#a230725p38)
- - [The 6 Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/6-best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)
- - [Sources: the FTC is finalizing its antitrust suit against Amazon and is likely to file its case in federal court rather than its own tribunal as soon as August &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230725/p37#a230725p37)<!-- TECH:END -->
+ - [The 6 Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/6-best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

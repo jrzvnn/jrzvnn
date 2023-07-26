@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter changes its handle from @twitter to @X, Twitter Blue to @XBlue, @TwitterSupport to @Support, and more; the previous owner of @X now uses @x1234567998765 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230726/p12#a230726p12)
- - [GitHub, Hugging Face, Creative Commons, and others write a paper for EU policymakers encouraging support for open-source AI models ahead of the final EU AI Act &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230726/p11#a230726p11)
- - [Alibaba plans to let business customers use Meta&#39;s Llama 2 to build apps, the first Chinese company to do so; companies with &lt;700M MAUs can use Llama for free &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230726/p10#a230726p10)
- - [Threads gets the chronological feed you’ve wanted since day 1](https://www.androidauthority.com/threads-chronological-follower-feed-3349891/)
- - [An interview with AWS CEO Adam Selipsky on generative AI, the Microsoft-OpenAI deal, competition among cloud providers offering generative AI services, and more &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230726/p9#a230726p9)<!-- TECH:END -->
+ - [Base iPhone 15 models will get 48mp cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
+ - [Texas Instruments reports Q2 revenue down 13% YoY to $4.53B, beating estimates of $4.35B, and forecasts lukewarm Q3 revenue as the global chip slump continues &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230726/p13#a230726p13)
+ - [‘Critical Role’ Lays Out the Next Era in Tabletop Games and Live-Action Role-Play](https://www.wired.com/story/critical-role-future-tabletop-games-live-action-role-play/)
+ - [&#39;Candela Obscura&#39; Stars on Magic and Play in an Oppressive World](https://www.wired.com/story/candela-obscura-critical-role-cast-interview/)
+ - [The ‘monster’ car that almost broke Tesla](https://www.theverge.com/2023/7/26/23807447/tesla-model-3-production-elon-musk-land-of-the-giants)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

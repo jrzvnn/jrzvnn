@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don’t expect to use Google Wallet on the Galaxy Z Flip 5’s cover display](https://www.androidauthority.com/galaxy-z-flip-5-google-wallet-blocked-3350148/)
+ - [iOS 17 code hints at Action button in iPhone 15 Pro models](https://appleinsider.com/articles/23/07/26/ios-17-code-hints-at-action-button-in-iphone-15-pro-models?utm_medium=rss)
+ - [Samsung’s 65-inch Frame TV is over $600 off at Woot](https://www.theverge.com/2023/7/26/23807472/samsung-frame-tv-belkin-boostcharge-magsafe-apple-mac-mini-deal-sale)
  - [CD Projekt Red is laying off about 9 percent of its staff](https://www.theverge.com/2023/7/26/23808484/cd-projekt-red-cdpr-layoffs)
- - [This Convenient Dyson Stick Vacuum Is $150 Off for Today Only at Best Buy     - CNET](https://www.cnet.com/deals/this-convenient-dyson-stick-vacuum-is-150-off-for-today-only-at-best-buy/#ftag=CAD590a51e)
- - [Samsung Galaxy Tab S9 Preorder Deals: Up to $650 Off and a Free Storage Upgrade     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-preorder-deals/#ftag=CAD590a51e)
- - [Microsoft starts rolling out a new Xbox Home UI, offering more space for backgrounds and quick access to store, search, and settings, after 10 months of testing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230726/p36#a230726p36)
- - [Twitter tried to goad businesses into buying more ads so they can stay verified](https://www.theverge.com/2023/7/26/23808331/twitter-x-ads-advertising-incentives-verification-brands)<!-- TECH:END -->
+ - [This Convenient Dyson Stick Vacuum Is $150 Off for Today Only at Best Buy     - CNET](https://www.cnet.com/deals/this-convenient-dyson-stick-vacuum-is-150-off-for-today-only-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

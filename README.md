@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We have bad news if you wanted a Galaxy Z Flip 5 Bespoke edition](https://www.androidauthority.com/samsung-galaxy-z-flip-5-bespoke-3346596/)
- - [Documents detail the struggles of Amazon&#39;s Clubhouse rival Amp, launched in March 2022 with a year-end target of 1M+ MAUs; a source says MAUs sit at 700K today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p19#a230726p19)
- - [New 15-inch MacBook Air sales are half the figure Apple expected](https://appleinsider.com/articles/23/07/26/new-macbook-air-demand-is-half-apples-expectation?utm_medium=rss)
- - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
- - [The FBI&#39;s seizure of Mastodon server Kolektiva.social in May, part of a raid over unrelated charges, should serve as a wakeup call to fediverse users and hosts &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/230726/p18#a230726p18)<!-- TECH:END -->
+ - [Poll: Is the Samsung Galaxy Z Flip 5 hot or not?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-hot-or-not-3347731/)
+ - [Samsung announces the Galaxy Z Fold 5, offering the same 7.6&quot; and 6.2&quot; displays, Snapdragon 8 Gen 2, 50MP rear camera, a new hinge, and new colors for $1,799 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230726/p22#a230726p22)
+ - [Samsung announces the Galaxy Z Flip 5, offering a larger 3.4&quot; cover screen, up from 1.9&quot; on the Z Flip 4, a new hinge, 256GB storage, and more for the same $999 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230726/p21#a230726p21)
+ - [Samsung Galaxy Tab S9 series is here: Price, specs, availability, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Samsung Galaxy Z Flip 4 vs Z Flip 5: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-z-flip-4-vs-galaxy-z-flip-5-3348057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

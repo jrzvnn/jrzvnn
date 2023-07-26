@@ -146,7 +146,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Reality Labs unit reports Q2 revenue of $276M vs. $421M est., down from $339M in Q1 2023 and $452M in Q2 2022, and a $3.7B operating loss, vs. $3.5B est. &lpar;CNBC&rpar;](http://www.techmeme.com/230726/p47#a230726p47)
+ - [Meta&#39;s Reality Labs reports Q2 $3.7B operating loss, vs. $3.5B est., and expects losses to &quot;increase meaningfully&quot; due to investments in VR/AR and its ecosystem &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230726/p47#a230726p47)
  - [Twitter Blue’s former lead talks about Elon Musk, X, and sleeping on the floor](https://www.theverge.com/2023/7/26/23809035/twitter-blue-x-esther-crawford-video-tweet-elon-musk)
  - [eBay reports Q2 revenue up 5% YoY to $2.52B, vs. $2.51B est., gross merchandise volume down 2% YoY to $18.2B, and active buyers down 4% YoY to 132M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230726/p46#a230726p46)
  - [You can now get Boost Infinite’s $25 unlimited wireless plan from Amazon Prime](https://www.theverge.com/2023/7/26/23808711/boost-infinite-amazon-prime-dish-wireless-mvno)

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 💣 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
- - 😝 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
- - 👉 [Would](http://9gag.com/gag/aGEbBvK)<!-- MEMES:END -->
+ - 😝 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
+ - 😝 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 💣 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 👉 [I guess it is obvious...](http://9gag.com/gag/a3Zn5XQ)<!-- MEMES:END -->
 
 ---
 </div>

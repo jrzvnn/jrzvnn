@@ -155,8 +155,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awkward\u2026](http://9gag.com/gag/az2QPjj)
  - 😝 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 😝 [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
  - 💣 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
  - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
  - 👉 [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)<!-- MEMES:END -->

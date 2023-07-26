@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Overture Maps Foundation, formed by Meta, Microsoft, AWS, and TomTom, releases its first dataset with 59M &quot;points of interest&quot; donated by Meta and Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230726/p31#a230726p31)
+ - [Report: Google could reveal a foldable tablet at I/O 2024](https://www.androidauthority.com/google-foldable-tablet-report-2024-3350036/)
+ - [How to preorder the Samsung Galaxy Watch 6 and Watch 6 Classic](https://www.theverge.com/23803481/samsung-galaxy-watch-6-classic-preorder-buy-price-availability-release-date)
  - [As droughts spread across Spain, the US, and elsewhere, communities are battling water-hungry data centers; Meta expects a &amp;euro;1B facility to use 665M liters/year &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p30#a230726p30)
- - [The best Samsung Galaxy Z Fold 5 chargers](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-chargers-3349816/)
- - [Wear OS 4 is now official, but not for your Pixel Watch](https://www.androidauthority.com/wear-os-4-official-release-3349979/)
- - [Everything new in iOS 17 beta 4: iMessage app drawer changes, new StandBy settings, other tweaks](https://appleinsider.com/articles/23/07/26/everything-new-in-ios-17-beta-4-imessage-app-drawer-changes-new-standby-settings-other-tweaks?utm_medium=rss)
- - [The UK CMA says Amazon&#39;s proposals over third-party sellers on Marketplace address its competition concerns in a preliminary view and opens consultations &lpar;Farouq Suleiman/Reuters&rpar;](http://www.techmeme.com/230726/p29#a230726p29)<!-- TECH:END -->
+ - [The best Samsung Galaxy Z Fold 5 chargers](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-chargers-3349816/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

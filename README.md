@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 😝 [No child support anymore](http://9gag.com/gag/ay2P4x8)
  - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 💣 [No child support anymore](http://9gag.com/gag/ay2P4x8)
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
  - 😝 [You can unleash your inner nerd at the upcoming gamescom2023 - 9GAG will be there to join in on the fun!](http://9gag.com/gag/aDYMYp7)
- - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
+ - 👉 [BvZ](http://9gag.com/gag/agoj7Dv)<!-- MEMES:END -->
 
 ---
 </div>

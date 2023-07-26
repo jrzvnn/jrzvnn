@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Kevin Spacey was acquitted of all sex offense charges, Kevin Spacey after court:](http://9gag.com/gag/aPgnQ4R)
- - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 😝 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
- - 👉 [I guess it is obvious...](http://9gag.com/gag/a3Zn5XQ)<!-- MEMES:END -->
+ - 😝 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
+ - 😝 [Uhhh](http://9gag.com/gag/armzx7X)
+ - 💣 [Would](http://9gag.com/gag/aGEbBvK)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
 
 ---
 </div>

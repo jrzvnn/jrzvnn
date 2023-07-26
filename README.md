@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech firms pledge to control AI, but Apple is not joining them](https://appleinsider.com/articles/23/07/26/big-tech-firms-pledge-to-control-ai-but-apple-is-not-joining-them?utm_medium=rss)
  - [Shopify announces new features: AI chatbot Sidekick to help users redesign websites and analyze data, Shopify Credit for corporate credit cards, and more &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230726/p35#a230726p35)
  - [A new, way cheaper laser cutter is here to win over crafters](https://www.theverge.com/2023/7/26/23805443/glowforge-aura-laser-cutter-price-specs)
  - [T-Mobile’s new 5G tech is ultrafast, but only a Galaxy S23 can handle it for now](https://www.androidauthority.com/t-mobile-new-5g-network-3350117/)
- - [Microsoft’s new Xbox Home UI is now available](https://www.theverge.com/2023/7/26/23808139/microsoft-new-xbox-home-ui-available-now-download)
- - [Peacock’s Twisted Metal is trying really, really hard](https://www.theverge.com/23806029/twisted-metal-review-peacock)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Home UI is now available](https://www.theverge.com/2023/7/26/23808139/microsoft-new-xbox-home-ui-available-now-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

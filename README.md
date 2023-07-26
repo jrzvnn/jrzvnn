@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Base iPhone 15 models will get 48mp cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
- - [Texas Instruments reports Q2 revenue down 13% YoY to $4.53B, beating estimates of $4.35B, and forecasts lukewarm Q3 revenue as the global chip slump continues &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230726/p13#a230726p13)
- - [‘Critical Role’ Lays Out the Next Era in Tabletop Games and Live-Action Role-Play](https://www.wired.com/story/critical-role-future-tabletop-games-live-action-role-play/)
- - [&#39;Candela Obscura&#39; Stars on Magic and Play in an Oppressive World](https://www.wired.com/story/candela-obscura-critical-role-cast-interview/)
- - [The ‘monster’ car that almost broke Tesla](https://www.theverge.com/2023/7/26/23807447/tesla-model-3-production-elon-musk-land-of-the-giants)<!-- TECH:END -->
+ - [Evan Blass leaks over a dozen images ahead of Samsung Unpacked, showing the Galaxy Z Fold 5, Z Flip 5, new Galaxy Watch 6, Galaxy Tab S9 tablets, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/230726/p15#a230726p15)
+ - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)
+ - [Samsung’s Unpacked event spoiled by major leak](https://www.theverge.com/2023/7/26/23808145/samsung-galaxy-z-fold-flip-5-watch-6-tab-s9-leak-evan-blass-evleaks)
+ - [After a massive privacy backlash in 2011, Google&#39;s Street View cameras returned to Germany in June, taking new photos of its 20 largest cities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230726/p14#a230726p14)
+ - [Base iPhone 15 models will get 48mp cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seven major automakers are teaming up on a North American EV charging network](https://www.theverge.com/2023/7/26/23808270/bmw-honda-gm-joint-venture-north-american-ev-charging-network)
+ - [Samsung Galaxy S23: Why isn’t there an Exynos model?](https://www.androidauthority.com/samsung-galaxy-s23-exynos-snapdragon-3273544/)
  - [Earth goes to war in second-season trailer for &#39;Invasion&#39;](https://appleinsider.com/articles/23/07/26/earth-goes-to-war-in-second-season-trailer-for-invasion?utm_medium=rss)
  - [Apple has spent $1.5 billion to help relieve California&#39;s housing crisis](https://appleinsider.com/articles/23/07/26/apple-has-spent-15-billion-to-help-relieve-californias-housing-crisis?utm_medium=rss)
- - [You can now Venmo new Xbox games](https://www.theverge.com/2023/7/26/23808367/venmo-xbox-microsoft-store-support)
- - [Protect AI, which offers security tools for AI systems, raised a $35M Series A led by Evolution Equity Partners, taking its total funding to $48.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230726/p34#a230726p34)
- - [War is breaking out in Invasion season 2’s first trailer](https://www.theverge.com/23808221/invasion-season-2-trailer-date-apple-tv-plus)<!-- TECH:END -->
+ - [You can now Venmo new Xbox games](https://www.theverge.com/2023/7/26/23808367/venmo-xbox-microsoft-store-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 😝 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
- - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
- - 😝 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
- - 👉 [Would](http://9gag.com/gag/aGEbBvK)<!-- MEMES:END -->
+ - 😝 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
+ - 😝 [Basically a very intricate way of calling her ugly for the role](http://9gag.com/gag/aWG9nyn)
+ - 💣 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
 
 ---
 </div>

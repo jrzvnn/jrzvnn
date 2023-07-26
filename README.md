@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says Facebook surpassed 3B MAUs for the first time, increasing 3% YoY as of June 30, 2023, while family monthly active people grew 6% YoY to 3.88B &lpar;Scott Nover/Quartz&rpar;](http://www.techmeme.com/230726/p51#a230726p51)
  - [Waymo is scaling back its self-driving truck ambitions](https://www.theverge.com/2023/7/26/23809237/waymo-via-autonomous-truck-delay-timeline-layoffs)
  - [Sources: the California AG is investigating Tesla, seeking information from customers and ex-employees about Autopilot safety issues and advertising complaints &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230726/p50#a230726p50)
  - [How to turn off the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/how-to-turn-off-samsung-galaxy-z-flip-5-3350350/)
- - [Former Director of Product Management Esther Crawford on Twitter&#39;s culture of fear, Elon Musk&#39;s strengths and weaknesses, the sleeping bag incident, and more &lpar;@esthercrawford&rpar;](http://www.techmeme.com/230726/p49#a230726p49)
- - [Reddit is testing ‘official’ labels for profiles and making parts of its app compatible with screen readers](https://www.theverge.com/2023/7/26/23809017/reddit-official-labels-profiles-accessibility-screen-readers)<!-- TECH:END -->
+ - [Former Director of Product Management Esther Crawford on Twitter&#39;s culture of fear, Elon Musk&#39;s strengths and weaknesses, the sleeping bag incident, and more &lpar;@esthercrawford&rpar;](http://www.techmeme.com/230726/p49#a230726p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

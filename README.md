@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deleting chats before going back to the perfect relationship.](http://9gag.com/gag/a3Zn5OQ)
- - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 💣 [What&#39;s the worst that can happen?](http://9gag.com/gag/avQmyGb)
+ - 😝 [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)
+ - 😝 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
  - 😝 [You can unleash your inner nerd at the upcoming gamescom2023 - 9GAG will be there to join in on the fun!](http://9gag.com/gag/aDYMYp7)
- - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
+ - 👉 [No child support anymore](http://9gag.com/gag/ay2P4x8)<!-- MEMES:END -->
 
 ---
 </div>

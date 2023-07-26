@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 cheese facts &lpar;if you eat orange cheddar i pity you and your soul&rpar;](http://9gag.com/gag/ajVyBz8)
- - 😝 [Clients vs Users](http://9gag.com/gag/amAn16j)
- - 💣 [Feminists Destroyed](http://9gag.com/gag/aGEbMYw)
- - 😝 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
- - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
+ - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 😝 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
+ - 💣 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)<!-- MEMES:END -->
 
 ---
 </div>

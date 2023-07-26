@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New MacBook Air sales are half Apple&#39;s prediction](https://appleinsider.com/articles/23/07/26/new-macbook-air-demand-is-half-apples-expectation?utm_medium=rss)
- - [How a US Navy task force is using AI to police the waters of the Gulf of Oman for pirates, a glimpse of increasingly capable autonomous systems transforming war &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230726/p17#a230726p17)
- - [Anthropic, Google, Microsoft, and OpenAI launch the Frontier Model Forum, aiming to ensure &quot;the safe and responsible development of frontier AI models&quot; &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230726/p16#a230726p16)
- - [Evan Blass leaks over a dozen images ahead of Samsung Unpacked, showing the Galaxy Z Fold 5, Z Flip 5, new Galaxy Watch 6, Galaxy Tab S9 tablets, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/230726/p15#a230726p15)
- - [How to watch Samsung Galaxy Unpacked: Galaxy Z Fold 5, Flip 5 reveal livestream](https://www.androidauthority.com/watch-samsung-galaxy-unpacked-galaxy-z-fold-5-flip-5-watch-6-tab-s9-3348003/)<!-- TECH:END -->
+ - [New 15-inch MacBook Air sales are half the figure Apple expected](https://appleinsider.com/articles/23/07/26/new-macbook-air-demand-is-half-apples-expectation?utm_medium=rss)
+ - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
+ - [The FBI&#39;s seizure of Mastodon server Kolektiva.social in May, part of a raid over unrelated charges, should serve as a wakeup call to fediverse users and hosts &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/230726/p18#a230726p18)
+ - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
+ - [How to move photos from My Photo Stream to iCloud -- or elsewhere](https://appleinsider.com/inside/icloud/tips/how-to-move-photos-from-my-photo-stream-to-icloud----or-elsewhere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

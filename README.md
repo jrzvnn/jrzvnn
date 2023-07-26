@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch 6 Classic Golf Edition shows up in Korea](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-golf-edition-3350303/)
  - [For Elon Musk, X equals everything](https://www.theverge.com/2023/7/26/23808796/elon-musks-x-everything-app-vision)
  - [Sony brings head-tracking spatial audio to its 1000XM5 headphones](https://www.theverge.com/2023/7/26/23808899/sony-wh-1000xm5-update-head-tracking-multipoint-ldac)
  - [US prosecutors ask a judge to detain Sam Bankman-Fried over witness tampering allegations, saying he leaked Caroline Ellison&#39;s personal writings to the NYT &lpar;CNN&rpar;](http://www.techmeme.com/230726/p44#a230726p44)
- - [New Xbox update makes dashboard more functional and look way better](https://www.androidauthority.com/xbox-dashboard-updated-customization-3350252/)
- - [Dish partners with Amazon to sell a Boost Infinite postpaid wireless plan with unlimited talk, text, and data services at $25/month for Amazon Prime subscribers &lpar;Medha Singh/Reuters&rpar;](http://www.techmeme.com/230726/p43#a230726p43)<!-- TECH:END -->
+ - [Best Noise-Canceling Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

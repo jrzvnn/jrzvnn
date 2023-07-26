@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg thinks Threads could be Meta’s next social network with 1 billion users](https://www.theverge.com/2023/7/26/23809080/mark-zuckerberg-meta-q2-earnings-threads-one-billion-users)
  - [Tesla under investigation in California over Autopilot safety issues and false advertising](https://www.theverge.com/2023/7/26/23809183/tesla-autopilot-investigation-false-advertising-california-attorney-general)
  - [Meta says Facebook surpassed 3B MAUs for the first time, increasing 3% YoY as of June 30, 2023, while family monthly active people grew 6% YoY to 3.88B &lpar;Scott Nover/Quartz&rpar;](http://www.techmeme.com/230726/p51#a230726p51)
  - [Waymo is scaling back its self-driving truck ambitions](https://www.theverge.com/2023/7/26/23809237/waymo-via-autonomous-truck-delay-timeline-layoffs)
- - [Sources: the California AG is investigating Tesla, seeking information from customers and ex-employees about Autopilot safety issues and advertising complaints &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230726/p50#a230726p50)
- - [How to turn off the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/how-to-turn-off-samsung-galaxy-z-flip-5-3350350/)<!-- TECH:END -->
+ - [Sources: the California AG is investigating Tesla, seeking information from customers and ex-employees about Autopilot safety issues and advertising complaints &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230726/p50#a230726p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

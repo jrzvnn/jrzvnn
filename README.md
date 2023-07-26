@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Is the Samsung Galaxy Z Fold 5 hot or not?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-hot-or-not-3347742/)
+ - [Samsung announces the $300+ Galaxy Watch 6 and $400+ Galaxy Watch 6 Classic, powered by Wear OS 4, reviving the Classic&#39;s rotating bezel, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230726/p24#a230726p24)
+ - [Samsung unveils the $800+ Galaxy Tab S9, $1,000+ S9 Plus, $1,200+ and S9 Ultra, offering a similar design, new CPUs, and new OLED displays, shipping August 11 &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230726/p23#a230726p23)
  - [Poll: Is the Samsung Galaxy Z Flip 5 hot or not?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-hot-or-not-3347731/)
- - [Samsung announces the Galaxy Z Fold 5, offering the same 7.6&quot; and 6.2&quot; displays, Snapdragon 8 Gen 2, 50MP rear camera, a new hinge, and new colors for $1,799 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230726/p22#a230726p22)
- - [Samsung announces the Galaxy Z Flip 5, offering a larger 3.4&quot; cover screen, up from 1.9&quot; on the Z Flip 4, a new hinge, 256GB storage, and more for the same $999 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230726/p21#a230726p21)
- - [Samsung Galaxy Tab S9 series is here: Price, specs, availability, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Samsung Galaxy Z Flip 4 vs Z Flip 5: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-z-flip-4-vs-galaxy-z-flip-5-3348057/)<!-- TECH:END -->
+ - [Samsung announces the Galaxy Z Fold 5, offering the same 7.6&quot; and 6.2&quot; displays, Snapdragon 8 Gen 2, 50MP rear camera, a new hinge, and new colors for $1,799 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230726/p22#a230726p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

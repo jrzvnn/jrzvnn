@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Would](http://9gag.com/gag/aGEbBvK)
- - 💣 [A bittersweet feeling](http://9gag.com/gag/aWG9n4x)
- - 😝 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)
+ - 😝 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 💣 [Would](http://9gag.com/gag/aGEbBvK)
+ - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
  - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
 
 ---

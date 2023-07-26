@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
  - 😝 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
- - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 💣 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
  - 😝 [You can unleash your inner nerd at the upcoming gamescom2023 - 9GAG will be there to join in on the fun!](http://9gag.com/gag/aDYMYp7)
- - 👉 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)<!-- MEMES:END -->
+ - 👉 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [JPMorgan CEO Vs Katie Porter](http://9gag.com/gag/aXneNXd)
- - 😝 [Stay awhile and listen!](http://9gag.com/gag/armzyQ7)
- - 💣 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
- - 😝 [Melisa Raouf, first Miss England finalist in pageant&#39;s history to compete without makeup](http://9gag.com/gag/aPgnPmB)
- - 👉 [Success rate is pretty high](http://9gag.com/gag/a8qzmXY)<!-- MEMES:END -->
+ - 😝 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)
+ - 😝 [WTF but satisfying poor bird](http://9gag.com/gag/aBdodMZ)
+ - 💣 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 😝 [Go on yer self cillian](http://9gag.com/gag/anzVRBo)
+ - 👉 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
 
 ---
 </div>

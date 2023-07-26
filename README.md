@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 💣 [It&#39;s not their fault. It&#39;s unconditional Reflex.](http://9gag.com/gag/aEqEVW9)
- - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - 👉 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)<!-- MEMES:END -->
+ - 😝 [Kevin Spacey was acquitted of all sex offense charges, Kevin Spacey after court:](http://9gag.com/gag/aPgnQ4R)
+ - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 😝 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
+ - 👉 [I guess it is obvious...](http://9gag.com/gag/a3Zn5XQ)<!-- MEMES:END -->
 
 ---
 </div>

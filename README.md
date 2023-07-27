@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla EVs are apparently overestimating range when fully charged — on purpose](https://www.theverge.com/2023/7/27/23809751/tesla-ev-range-estimate-anxiety-algorithm-full-charge)
+ - [ChatGPT for Android is now available](https://www.theverge.com/2023/7/25/23807012/chatgpt-android-ai-chatbot-openai-llm)
  - [Samsung Galaxy Book3 Ultra review: a lean, mean Windows machine](https://www.theverge.com/23808980/samsung-galaxy-book3-ultra-review-a-lean-mean-windows-machine)
  - [Senate panel advances bills to childproof the internet](https://www.theverge.com/2023/7/27/23809876/kosa-coppa-2-child-safety-privacy-protection-social-media)
- - [Filing: US government services contractor Maximus says MOVEit hackers accessed protected health information and other data of &quot;at least&quot; 8M to 11M people &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230727/p23#a230727p23)
- - [Castlevania: Nocturne’s first trailer puts Richter Belmont in the revolutionary spotlight](https://www.theverge.com/23809274/castlevania-nocturne-trailer-neflix-konami-richter-belmont)
- - [Samsung Galaxy Watch 6 vs Galaxy Watch 3: Time for an upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-galaxy-watch-3-3350100/)<!-- TECH:END -->
+ - [Filing: US government services contractor Maximus says MOVEit hackers accessed protected health information and other data of &quot;at least&quot; 8M to 11M people &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230727/p23#a230727p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

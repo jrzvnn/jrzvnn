@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 👉 [She burned her Swedish passport because of the Danish and Iraqi quran burnings in Sweden. And promises to never come back](http://9gag.com/gag/ay2P1Gr)<!-- MEMES:END -->
+ - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - 😝 [Would](http://9gag.com/gag/aGEbBvK)
+ - 💣 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 👉 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)<!-- MEMES:END -->
 
 ---
 </div>

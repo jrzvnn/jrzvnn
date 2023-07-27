@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Franco-Italian chipmaker STMicro reports Q2 revenue up 13% YoY to $4.33B, beating estimates of $4.29B, and inventory rose to 126 days, up from 104 in Q2 2022 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/230727/p7#a230727p7)
  - [Samsung prototypes show Fold 5 and Flip 5 could have been very different phones](https://www.androidauthority.com/samsung-galaxy-z-fold-5-flip-5-prototypes-3350528/)
  - [Sen. Elizabeth Warren wants to build a new agency to police Big Tech](https://www.theverge.com/2023/7/27/23809110/meta-google-amazon-warren-graham-tech-agency-antitrust-privacy)
  - [A postmortem of Neeva, which tried to build a faster, simpler, and ad-free search engine, and how default search engine choices reinforce Google&#39;s dominance &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230727/p6#a230727p6)
- - [Australia vs. Nigeria: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australia-vs-nigeria-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)
- - [Xiaomi reveals first Mix Fold 3 details: Everything the Z Fold 5 isn’t?](https://www.androidauthority.com/xiaomi-mix-fold-3-details-3349820/)<!-- TECH:END -->
+ - [Australia vs. Nigeria: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australia-vs-nigeria-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

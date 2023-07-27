@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 😝 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
- - 💣 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
- - 😝 [Twitter users need some therapy](http://9gag.com/gag/a9qBX2L)
- - 👉 [Accurate](http://9gag.com/gag/aOxGPm6)<!-- MEMES:END -->
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 💣 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 😝 [For the village.](http://9gag.com/gag/aGEb2dG)
+ - 👉 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)<!-- MEMES:END -->
 
 ---
 </div>

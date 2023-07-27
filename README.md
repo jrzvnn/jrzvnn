@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe adds Firefly-powered Generative Expand option to Photoshop beta](https://appleinsider.com/articles/23/07/27/adobe-adds-firefly-powered-generative-expand-option-to-photoshop-beta?utm_medium=rss)
+ - [These city maps show how much hotter it is from neighborhood to neighborhood](https://www.theverge.com/23809121/city-maps-ranking-urban-heat-island)
  - [Google says a joint Bluetooth tracker misuse standard is waiting on Apple](https://appleinsider.com/articles/23/07/27/google-says-a-joint-bluetooth-tracker-misuse-standard-is-waiting-on-apple?utm_medium=rss)
  - [The best Samsung Galaxy Z Fold 5 cases you can currently buy](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-cases-3350558/)
- - [Apple is holding up Google’s launch of the Find My Device network](https://www.androidauthority.com/find-my-device-network-delay-3350714/)
- - [Apple AirTag leads to arrest of South Carolina burglar in multi-restaurant heist](https://appleinsider.com/articles/23/07/27/apple-airtag-leads-to-arrest-of-south-carolina-burglar-in-multi-restaurant-heist?utm_medium=rss)
- - [Google delays its upgraded Find My Device network until Apple can add safety alerts](https://www.theverge.com/2023/7/27/23810052/google-find-my-device-delay-apple-unknown-tracker-alerts-stalking)<!-- TECH:END -->
+ - [Apple is holding up Google’s launch of the Find My Device network](https://www.androidauthority.com/find-my-device-network-delay-3350714/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

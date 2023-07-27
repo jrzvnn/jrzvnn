@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s wireless tech R&amp;D offices in Irvine expand again](https://appleinsider.com/articles/23/07/27/apples-wireless-rd-offices-in-irvine-expand-again?utm_medium=rss)
+ - [Two of the most underrated Zelda games are now available on Nintendo Switch Online](https://www.theverge.com/2023/7/27/23809654/legend-of-zelda-oracle-of-ages-seasons-nintendo-switch-online)
  - [Big AI Won’t Stop Election Deepfakes With Watermarks](https://www.wired.com/story/ai-watermarking-misinformation/)
  - [The Curse of the Long Boom](https://www.wired.com/story/long-boom-predictions-wired/)
- - [Heat Waves Aren’t Just Getting Hotter—They’re Sticker Too](https://www.wired.com/story/heat-waves-arent-just-getting-hotter-theyre-sticker-too/)
- - [Ugreen 145W Power Bank review: Portable powerhouse solution](https://appleinsider.com/articles/23/07/27/ugreen-145w-power-bank-review-portable-powerhouse-solution?utm_medium=rss)
- - [Indian political parties court big and small social media influencers ahead of the 2024 elections, offering to pay for political messages with no disclosures &lpar;Srishti Jaswal/Rest of World&rpar;](http://www.techmeme.com/230727/p12#a230727p12)<!-- TECH:END -->
+ - [Heat Waves Aren’t Just Getting Hotter—They’re Sticker Too](https://www.wired.com/story/heat-waves-arent-just-getting-hotter-theyre-sticker-too/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

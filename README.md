@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
  - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 💣 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
- - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)<!-- MEMES:END -->
+ - 💣 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
 
 ---
 </div>

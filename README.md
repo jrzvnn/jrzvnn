@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Tab S9 vs Google Pixel Tablet: Which tablet should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-vs-google-pixel-tablet-3350430/)
+ - [Apple holds strong as global smartphone market keeps shrinking](https://appleinsider.com/articles/23/07/27/apple-holds-strong-as-global-smartphone-market-keeps-shrinking?utm_medium=rss)
  - [GoodRx launches digital ‘medicine cabinet’ that rewards people for taking their meds](https://www.theverge.com/2023/7/27/23807421/goodrx-medicine-cabinet-data-privacy-medications)
  - [Sony has sold 40 million PS5s](https://www.theverge.com/2023/7/27/23809763/sony-playstation-5-sold-stocked-ps5)
- - [Peacock adds just 2 million subscribers ahead of price hike](https://www.theverge.com/2023/7/27/23809705/peacock-comcast-2-million-subscribers-earnings-q2-2023)
- - [Eco, an a16z-backed payments startup that has raised $95M, announces decentralized, non-custodial payments wallet Beam, aiming to function like a &quot;global Venmo&quot; &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230727/p20#a230727p20)
- - [Sources in Hollywood and Silicon Valley discuss AI&#39;s impact: creatives view AI as an existential threat, studios see a cost saver, and both sides need a deal &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230727/p19#a230727p19)<!-- TECH:END -->
+ - [Peacock adds just 2 million subscribers ahead of price hike](https://www.theverge.com/2023/7/27/23809705/peacock-comcast-2-million-subscribers-earnings-q2-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

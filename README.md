@@ -148,7 +148,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple accidentally reveals functionality of new iPhone 15 Pro ‘Action Button’](https://www.androidauthority.com/apple-iphone-15-pro-action-button-functions-3350457/)
  - [Sources: Netflix is reworking its tech deal with Microsoft for its ad tier to reduce the revenue guarantee and has discussed selling ads through other partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230727/p3#a230727p3)
- - [Indonesia restricts X.com, which now redirects to twitter.com after Twitter rebranding, as the domain had been previously used by porn and gambling sites &lpar;Aisyah Llewellyn/Al Jazeera&rpar;](http://www.techmeme.com/230727/p2#a230727p2)
+ - [Indonesia restricts X.com, which now redirects to twitter.com after Twitter rebranding to X, as the domain had been previously used by porn and gambling sites &lpar;Aisyah Llewellyn/Al Jazeera&rpar;](http://www.techmeme.com/230727/p2#a230727p2)
  - [General counsels are increasingly taking a frontline role in companies&#39; response to cyberattacks as the frequency and sophistication of security breaches grows &lpar;Kate Beioley/Financial Times&rpar;](http://www.techmeme.com/230727/p1#a230727p1)
  - [Samsung’s killer trade-in deal brings down Galaxy Z Flip 5 price to just $99](https://www.androidauthority.com/samsung-galaxy-z-flip-5-best-trade-in-deal-3350451/)<!-- TECH:END -->
 

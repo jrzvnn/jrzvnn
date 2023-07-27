@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In four new studies with collaboration from Meta, researchers find Facebook&#39;s algorithm is &quot;influential&quot; but doesn&#39;t necessarily change beliefs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230727/p28#a230727p28)
  - [Google is rolling out an Android feature to prevent unwanted Bluetooth tracking](https://www.androidauthority.com/unknown-tracker-alerts-rollout-3350756/)
+ - [Google&#39;s Genesis AI Tool Could Write the News. It Should Be Stopped     - CNET](https://www.cnet.com/tech/googles-genesis-ai-tool-could-write-the-news-it-should-be-stopped/#ftag=CAD590a51e)
  - [LinkedIn seems to be working on an AI ‘coach’ for job applications](https://www.theverge.com/2023/7/27/23810141/linkedin-coach-ai-assistant-chatbot-leak)
- - [Xbox Games with Gold ends with a whimper](https://www.theverge.com/2023/7/27/23810218/xbox-games-gold-final-blue-fire-inertial-drift)
- - [Google delays its upgraded, more expansive Find My Device network](https://www.theverge.com/2023/7/27/23810052/google-find-my-device-delay-apple-unknown-tracker-alerts-stalking)
- - [How to use FaceTime on Apple TV with Continuity Camera on iPhone](https://appleinsider.com/inside/tvos-17/tips/how-to-use-facetime-on-apple-tv-with-continuity-camera-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Games with Gold ends with a whimper](https://www.theverge.com/2023/7/27/23810218/xbox-games-gold-final-blue-fire-inertial-drift)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

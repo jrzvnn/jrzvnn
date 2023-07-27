@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is rolling out an Android feature to prevent unwanted Bluetooth tracking](https://www.androidauthority.com/unknown-tracker-alerts-rollout-3350756/)
  - [LinkedIn seems to be working on an AI ‘coach’ for job applications](https://www.theverge.com/2023/7/27/23810141/linkedin-coach-ai-assistant-chatbot-leak)
  - [Xbox Games with Gold ends with a whimper](https://www.theverge.com/2023/7/27/23810218/xbox-games-gold-final-blue-fire-inertial-drift)
  - [Google delays its upgraded, more expansive Find My Device network](https://www.theverge.com/2023/7/27/23810052/google-find-my-device-delay-apple-unknown-tracker-alerts-stalking)
- - [How to use FaceTime on Apple TV with Continuity Camera on iPhone](https://appleinsider.com/inside/tvos-17/tips/how-to-use-facetime-on-apple-tv-with-continuity-camera-on-iphone?utm_medium=rss)
- - [Get Apple&#39;s Midnight MacBook Air M2 &lpar;16GB RAM, 1TB SSD&rpar; for $1,599, plus $40 off AppleCare](https://appleinsider.com/articles/23/07/27/get-apples-midnight-macbook-air-m2-16gb-ram-1tb-ssd-for-1599-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [How to use FaceTime on Apple TV with Continuity Camera on iPhone](https://appleinsider.com/inside/tvos-17/tips/how-to-use-facetime-on-apple-tv-with-continuity-camera-on-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

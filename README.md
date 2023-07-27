@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU opens an antitrust investigation into whether Microsoft abuses its dominant position by bundling Teams with Office, the first investigation in 10+ years &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/230727/p9#a230727p9)
+ - [The Real Reason Steph Curry Is So Damn Good](https://www.wired.com/story/steph-curry-ryan-coogler-underrated/)
+ - [AWS VP Swami Sivasubramanian says thousands of customers, including Sony and Ryanair, have tried its AI services suite Bedrock ahead of a wider roll out &quot;soon&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/230727/p8#a230727p8)
  - [It’s not just you, Slack appears to be down](https://www.theverge.com/2023/7/27/23809649/slack-down-july-2023)
- - [Franco-Italian chipmaker STMicro reports Q2 revenue up 13% YoY to $4.33B, beating estimates of $4.29B, and inventory rose to 126 days, up from 104 in Q2 2022 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/230727/p7#a230727p7)
- - [Samsung prototypes show Fold 5 and Flip 5 could have been very different phones](https://www.androidauthority.com/samsung-galaxy-z-fold-5-flip-5-prototypes-3350528/)
- - [Sen. Elizabeth Warren wants to build a new agency to police Big Tech](https://www.theverge.com/2023/7/27/23809110/meta-google-amazon-warren-graham-tech-agency-antitrust-privacy)
- - [A postmortem of Neeva, which tried to build a faster, simpler, and ad-free search engine, and how default search engine choices reinforce Google&#39;s dominance &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230727/p6#a230727p6)<!-- TECH:END -->
+ - [England vs. Australia Livestream: How to Watch 5th Test Ashes Cricket From Anywhere     - CNET](https://www.cnet.com/deals/england-vs-australia-livestream-how-to-watch-5th-test-ashes-cricket-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

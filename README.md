@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is holding up Google’s launch of the Find My Device network](https://www.androidauthority.com/find-my-device-network-delay-3350714/)
+ - [Google says a joint Bluetooth tracker misuse standard is waiting on Apple](https://appleinsider.com/articles/23/07/27/google-says-a-joint-bluetooth-tracker-misuse-standard-is-waiting-on-apple?utm_medium=rss)
+ - [Apple AirTag leads to arrest of South Carolina burglar in multi-restaurant heist](https://appleinsider.com/articles/23/07/27/apple-airtag-leads-to-arrest-of-south-carolina-burglar-in-multi-restaurant-heist?utm_medium=rss)
  - [Google delays its upgraded Find My Device network until Apple can add safety alerts](https://www.theverge.com/2023/7/27/23810052/google-find-my-device-delay-apple-unknown-tracker-alerts-stalking)
- - [India couple accused of selling baby to buy iPhone 14](https://appleinsider.com/articles/23/07/27/india-couple-accused-of-selling-baby-to-buy-iphone-14?utm_medium=rss)
- - [Amazon’s Galaxy Z Flip 5 pre-order deal delivers $270 of freebies](https://www.androidauthority.com/samsung-galaxy-z-flip-5-amazon-deal-3350698/)
- - [Roblox is now available to try on Meta Quest VR headsets](https://www.theverge.com/2023/7/27/23810093/meta-quest-roblox-vr-headsets-beta)
- - [Google rolls out Android unknown tracker alerts, including manual scan, and pauses a Find My Device update to locate missing items until Apple updates iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230727/p26#a230727p26)<!-- TECH:END -->
+ - [India couple accused of selling baby to buy iPhone 14](https://appleinsider.com/articles/23/07/27/india-couple-accused-of-selling-baby-to-buy-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 👉 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)<!-- MEMES:END -->
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
+ - 💣 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
+ - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
 
 ---
 </div>

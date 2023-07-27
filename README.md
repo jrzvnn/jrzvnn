@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snoopy watchOS 10 faces spotted in latest beta](https://appleinsider.com/articles/23/07/27/snoopy-watchos-10-faces-spotted-in-latest-beta?utm_medium=rss)
- - [iPhone 15 Pro again rumored to cost more than ever before](https://appleinsider.com/articles/23/07/27/iphone-15-pro-again-rumored-to-cost-more-than-ever-before?utm_medium=rss)
- - [How Russia&#39;s invasion led Ukraine to innovate in combat drones, including improving speed, flight range, and payload, and the implications for warfare globally &lpar;Washington Post&rpar;](http://www.techmeme.com/230727/p15#a230727p15)
- - [The 15 best Samsung Galaxy Z Flip 5 cases you can buy at launch](https://www.androidauthority.com/best-samsung-galaxy-z-flip-5-cases-3348117/)
- - [Lindsey Graham and Elizabeth Warren announce the Digital Consumer Protection Commission Act, seeking an independent regulator to license and police Big Tech &lpar;New York Times&rpar;](http://www.techmeme.com/230727/p14#a230727p14)<!-- TECH:END -->
+ - [Israeli startup Trustmi, which offers payments fraud prevention tools, raised a $17M Series A led by Cyberstarts, taking its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230727/p17#a230727p17)
+ - [iOS 17 beta 4 code hints at a rumored Action button, offering quick access to Shortcuts, Silent Mode, Camera, and more, similar to the Watch Ultra&#39;s button &lpar;Steve Moser/MacRumors&rpar;](http://www.techmeme.com/230727/p16#a230727p16)
+ - [Hollywood’s Strikes Will Disrupt Podcasts, Games, and TikTok Too](https://www.wired.com/story/gadget-lab-podcast-606/)
+ - [To Watermark AI, It Needs Its Own Alphabet](https://www.wired.com/story/to-watermark-ai-it-needs-its-own-alphabet/)
+ - [A Patient May Be Free of HIV, Thanks to This Drug](https://www.wired.com/story/a-patient-may-be-free-of-hiv-thanks-to-this-drug/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

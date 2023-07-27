@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 😝 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
- - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 😝 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
- - 👉 [Shit happens](http://9gag.com/gag/ajVyxDR)<!-- MEMES:END -->
+ - 😝 [Checked his phone](http://9gag.com/gag/aYVmOAO)
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 💣 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
 
 ---
 </div>

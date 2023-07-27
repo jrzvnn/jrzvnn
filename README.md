@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S23 could get a taste of Android 14 as soon as next week](https://www.androidauthority.com/android-14-one-ui-6-galaxy-s23-3350787/)
+ - [The NSA Is Lobbying Congress to Save a Phone Surveillance &#39;Loophole&#39;](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
+ - [Hot tech deals: save $1,000 on Samsung 4K TV, 16-inch MacBook Pro $769, Apple MagSafe Charger $29, OWC Thunderbolt Dock $99](https://appleinsider.com/articles/23/07/27/hot-tech-deals-save-1000-on-samsung-4k-tv-16-inch-macbook-pro-769-apple-magsafe-charger-29-owc-thunderbolt-dock-99?utm_medium=rss)
  - [Intel reports Q2 revenue down 15% YoY to $12.9B, Data Center and AI revenue down 15% YoY to $4B, and forecasts Q3 revenue above estimates; INTC jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230727/p30#a230727p30)
- - [MLS Season Pass sets new viewership record highs with Messi&#39;s debut](https://appleinsider.com/articles/23/07/27/mls-season-pass-sets-new-viewership-record-highs-with-messis-debut?utm_medium=rss)
- - [Driverless car legislation is still stuck in neutral in the US](https://www.theverge.com/2023/7/27/23809784/av-congress-hearing-legislation-stalled-china-liability)
- - [6 Best Deals: PC Components and Sex Toys](https://www.wired.com/story/sex-toys-pc-deals-july-2023/)
- - [Reddit starts testing an &quot;Official&quot; label to indicate that an account is authentic, visible on its iOS and Android apps, and unveils accessibility improvements &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230727/p29#a230727p29)<!-- TECH:END -->
+ - [MLS Season Pass sets new viewership record highs with Messi&#39;s debut](https://appleinsider.com/articles/23/07/27/mls-season-pass-sets-new-viewership-record-highs-with-messis-debut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

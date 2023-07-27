@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Trustmi, which offers payments fraud prevention tools, raised a $17M Series A led by Cyberstarts, taking its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230727/p17#a230727p17)
- - [iOS 17 beta 4 code hints at a rumored Action button, offering quick access to Shortcuts, Silent Mode, Camera, and more, similar to the Watch Ultra&#39;s button &lpar;Steve Moser/MacRumors&rpar;](http://www.techmeme.com/230727/p16#a230727p16)
- - [Hollywood’s Strikes Will Disrupt Podcasts, Games, and TikTok Too](https://www.wired.com/story/gadget-lab-podcast-606/)
- - [To Watermark AI, It Needs Its Own Alphabet](https://www.wired.com/story/to-watermark-ai-it-needs-its-own-alphabet/)
- - [A Patient May Be Free of HIV, Thanks to This Drug](https://www.wired.com/story/a-patient-may-be-free-of-hiv-thanks-to-this-drug/)<!-- TECH:END -->
+ - [HONOR’s first Flip phone is real, but when will it launch?](https://www.androidauthority.com/honor-flip-phone-confirmed-3350576/)
+ - [Is the Samsung Galaxy Watch 6 waterproof?](https://www.androidauthority.com/is-galaxy-watch-6-waterproof-3348371/)
+ - [Researchers: the guardrails on ChatGPT, Bard, and Claude can be bypassed by adding a long suffix of characters to prompts, generating false and toxic responses &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230727/p18#a230727p18)
+ - [How to customize Apple News to see the content you want](https://appleinsider.com/inside/apple-news/tips/how-to-customize-apple-news-to-see-the-content-you-want?utm_medium=rss)
+ - [Israeli startup Trustmi, which offers payments fraud prevention tools, raised a $17M Series A led by Cyberstarts, taking its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230727/p17#a230727p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

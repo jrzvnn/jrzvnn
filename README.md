@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
  - 💣 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
  - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
+ - 👉 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)<!-- MEMES:END -->
 
 ---
 </div>

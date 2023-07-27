@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out Android unknown tracker alerts, including manual scan, and pauses a Find My Device update to locate missing items until Apple updates iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230727/p26#a230727p26)
+ - [What is overclocking on a PC? Is it worth overclocking your computer?](https://www.androidauthority.com/what-is-overclocking-3346893/)
  - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
  - [More Battlefield AI Will Make the Fog of War More Deadly](https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/)
- - [Aporia feels like it’s going to be a different and devastating kind of time travel thriller](https://www.theverge.com/23809134/aporia-trailer-jared-moshe-judy-greer-edi-gathegi)
- - [WhatsApp announces instant video messages, letting users send clips up to 60 seconds in a similar way to voice notes; videos automatically play on mute &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p25#a230727p25)
- - [Why charge an EV when you can just swap its battery?](https://www.theverge.com/23809811/ev-battery-swap-ample-fisker-tesla)<!-- TECH:END -->
+ - [Aporia feels like it’s going to be a different and devastating kind of time travel thriller](https://www.theverge.com/23809134/aporia-trailer-jared-moshe-judy-greer-edi-gathegi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

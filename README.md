@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 💣 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 😝 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
+ - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
  - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 👉 [Attack from behind](http://9gag.com/gag/aDYMV09)<!-- MEMES:END -->
+ - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
 
 ---
 </div>

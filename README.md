@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg thinks Threads could be Meta’s next social network with 1 billion users](https://www.theverge.com/2023/7/26/23809080/mark-zuckerberg-meta-q2-earnings-threads-one-billion-users)
- - [Tesla under investigation in California over Autopilot safety issues and false advertising](https://www.theverge.com/2023/7/26/23809183/tesla-autopilot-investigation-false-advertising-california-attorney-general)
- - [Meta says Facebook surpassed 3B MAUs for the first time, increasing 3% YoY as of June 30, 2023, while family monthly active people grew 6% YoY to 3.88B &lpar;Scott Nover/Quartz&rpar;](http://www.techmeme.com/230726/p51#a230726p51)
- - [Waymo is scaling back its self-driving truck ambitions](https://www.theverge.com/2023/7/26/23809237/waymo-via-autonomous-truck-delay-timeline-layoffs)
- - [Sources: the California AG is investigating Tesla, seeking information from customers and ex-employees about Autopilot safety issues and advertising complaints &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230726/p50#a230726p50)<!-- TECH:END -->
+ - [Samsung reports Q2 revenue of ~$47.21B, a 22% YoY drop and below analyst expectations of ~$47.7B, and operating profit of ~$525M, a 95% YoY drop &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230726/p53#a230726p53)
+ - [New Apple Vision Pro details emerge from visionOS beta 2](https://appleinsider.com/articles/23/07/27/new-apple-vision-pro-details-emerge-from-visionos-beta-2?utm_medium=rss)
+ - [Here’s how to watch the evolution of Reddit’s r/Place canvas — including its protest art](https://www.theverge.com/2023/7/26/23809338/reddit-r-place-canvas-timelapse-protest)
+ - [US-based chipmaker MaxLinear scraps a $3.8B deal to acquire Taiwan&#39;s Silicon Motion, saying Silicon Motion failed to complete some closing conditions and more &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230726/p52#a230726p52)
+ - [Mark Zuckerberg thinks Threads could be Meta’s next social network with 1 billion users](https://www.theverge.com/2023/7/26/23809080/mark-zuckerberg-meta-q2-earnings-threads-one-billion-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

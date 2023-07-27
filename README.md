@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Electronics reports 95% profit drop for Q2 2023](https://appleinsider.com/articles/23/07/27/samsung-electronics-reports-95-profit-drop-for-q2-2023?utm_medium=rss)
+ - [Collaborative Robotics, founded by former Amazon Robotics VP Brad Porter to build a new type of collaborative robot, raised a $30M Series A led by Sequoia &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230726/p54#a230726p54)
  - [Samsung reports Q2 revenue of ~$47.21B, a 22% YoY drop and below analyst expectations of ~$47.7B, and operating profit of ~$525M, a 95% YoY drop &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230726/p53#a230726p53)
  - [New Apple Vision Pro details emerge from visionOS beta 2](https://appleinsider.com/articles/23/07/27/new-apple-vision-pro-details-emerge-from-visionos-beta-2?utm_medium=rss)
- - [Here’s how to watch the evolution of Reddit’s r/Place canvas — including its protest art](https://www.theverge.com/2023/7/26/23809338/reddit-r-place-canvas-timelapse-protest)
- - [US-based chipmaker MaxLinear scraps a $3.8B deal to acquire Taiwan&#39;s Silicon Motion, saying Silicon Motion failed to complete some closing conditions and more &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230726/p52#a230726p52)
- - [Mark Zuckerberg thinks Threads could be Meta’s next social network with 1 billion users](https://www.theverge.com/2023/7/26/23809080/mark-zuckerberg-meta-q2-earnings-threads-one-billion-users)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 Hands-On: Bigger Display, More Personal Customizations     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-5-hands-on-bigger-display-more-personal-customizations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

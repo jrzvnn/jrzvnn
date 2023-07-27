@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 💣 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
  - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
+ - 💣 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 👉 [Attack from behind](http://9gag.com/gag/aDYMV09)<!-- MEMES:END -->
 
 ---
 </div>

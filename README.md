@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Android 14 beta 4.1 lands with a long list of fixes before stable release](https://www.androidauthority.com/android-14-beta-4-1-3350465/)
+ - [The best Samsung Galaxy Tab S9 Plus cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-plus-cases-3350283/)
  - [The US DOJ informed a federal judge that Sam Bankman-Fried won&#39;t face the campaign finance charge, which wasn&#39;t part of an extradition document with The Bahamas &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230727/p4#a230727p4)
- - [Apple accidentally reveals functionality of new iPhone 15 Pro ‘Action Button’](https://www.androidauthority.com/apple-iphone-15-pro-action-button-functions-3350457/)
- - [Sources: Netflix is reworking its tech deal with Microsoft for its ad tier to reduce the revenue guarantee and has discussed selling ads through other partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230727/p3#a230727p3)
- - [Indonesia restricts X.com, which now redirects to twitter.com after Twitter rebranding to X, as the domain had been previously used by porn and gambling sites &lpar;Aisyah Llewellyn/Al Jazeera&rpar;](http://www.techmeme.com/230727/p2#a230727p2)
- - [General counsels are increasingly taking a frontline role in companies&#39; response to cyberattacks as the frequency and sophistication of security breaches grows &lpar;Kate Beioley/Financial Times&rpar;](http://www.techmeme.com/230727/p1#a230727p1)<!-- TECH:END -->
+ - [Apple accidentally reveals functionality of new iPhone 15 Pro ‘Action Button’](https://www.androidauthority.com/apple-iphone-15-pro-action-button-functions-3350457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

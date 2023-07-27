@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ugreen 145W Power Bank review: Portable powerhouse solution](https://appleinsider.com/articles/23/07/27/ugreen-145w-power-bank-review-portable-powerhouse-solution?utm_medium=rss)
+ - [Indian political parties court big and small social media influencers ahead of the 2024 elections, offering to pay for political messages with no disclosures &lpar;Srishti Jaswal/Rest of World&rpar;](http://www.techmeme.com/230727/p12#a230727p12)
  - [Apple, Meta, Google appeal against casino app ruling that calls them &#39;bookies&#39;](https://appleinsider.com/articles/23/07/27/apple-meta-google-appeal-against-casino-app-ruling-that-calls-them-bookies?utm_medium=rss)
  - [Samsung Galaxy Z Flip 5 vs Galaxy S23: Which small phone should you buy?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-samsung-galaxy-s23-3349593/)
- - [Slack experienced an &quot;outage across the app&quot; starting around 5AM ET for about an hour, including issues with sending messages and search &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p11#a230727p11)
- - [EU opens Microsoft antitrust investigation into Teams bundling](https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack)
- - [Meta forecasts 20% revenue growth in Q3, returning to pre-pandemic and pre-ATT levels, potentially creating cover for expensive AI and metaverse investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/230727/p10#a230727p10)<!-- TECH:END -->
+ - [Slack experienced an &quot;outage across the app&quot; starting around 5AM ET for about an hour, including issues with sending messages and search &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p11#a230727p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

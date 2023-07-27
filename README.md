@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how Nepalese girls looks like in front of Aussie girls](http://9gag.com/gag/ay2P4Wr)
- - 😝 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 👉 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)<!-- MEMES:END -->
+ - 😝 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 😝 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
+ - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 😝 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
+ - 👉 [Shit happens](http://9gag.com/gag/ajVyxDR)<!-- MEMES:END -->
 
 ---
 </div>

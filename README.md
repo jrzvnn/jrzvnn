@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
  - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
- - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
+ - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)<!-- MEMES:END -->
 
 ---
 </div>

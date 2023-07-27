@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
  - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - 💣 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 😝 [A bittersweet feeling](http://9gag.com/gag/aWG9n4x)
- - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
+ - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 👉 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)<!-- MEMES:END -->
 
 ---
 </div>

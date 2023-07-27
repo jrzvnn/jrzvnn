@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wiz researchers say two vulnerabilities in the OverlayFS filesystem module in Ubuntu may allow unprivileged local users to gain elevated privileges &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230727/p34#a230727p34)
  - [Verizon and AT&amp;T are charging a new fee to customers on older unlimited plans](https://www.theverge.com/2023/7/27/23810590/verizon-att-unlimited-elite-legacy-plan-rate-adjustment-5g-start)
  - [Intel CEO: ‘We’re going to build AI into every platform we build’](https://www.theverge.com/2023/7/27/23810360/intel-pat-gelsinger-ai-every-platform-promise)
  - [Epic asks U.S. Supreme Court to enforce lower court&#39;s App Store order](https://appleinsider.com/articles/23/07/27/epic-asks-us-supreme-court-to-enforce-lower-courts-app-store-order?utm_medium=rss)
- - [RapidAI, which develops AI-powered software to help diagnose neurovascular, cardiac, and vascular diseases, raised a $75M Series C led by Vista Credit Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230727/p33#a230727p33)
- - [Sources: Sequoia cut the size of its cryptocurrency fund to $200M from $585M and of its ecosystem fund, which invests in other funds, to $450M from $900M &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230727/p32#a230727p32)<!-- TECH:END -->
+ - [RapidAI, which develops AI-powered software to help diagnose neurovascular, cardiac, and vascular diseases, raised a $75M Series C led by Vista Credit Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230727/p33#a230727p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

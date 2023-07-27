@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe adds Firefly-based Generative Expand, which &quot;expands images beyond their original bounds&quot;, to the Photoshop beta and support for prompts in 100 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230727/p22#a230727p22)
  - [Sony has sold over 40M PS5s since its launch in November 2020, up from 10M in July 2021, despite the &quot;unprecedented challenges of COVID&quot; and supply chain issues &lpar;The Verge&rpar;](http://www.techmeme.com/230727/p21#a230727p21)
  - [Samsung Galaxy Tab S9 vs Google Pixel Tablet: Which tablet should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-vs-google-pixel-tablet-3350430/)
  - [Apple holds strong as global smartphone market keeps shrinking](https://appleinsider.com/articles/23/07/27/apple-holds-strong-as-global-smartphone-market-keeps-shrinking?utm_medium=rss)
- - [GoodRx launches digital ‘medicine cabinet’ that rewards people for taking their meds](https://www.theverge.com/2023/7/27/23807421/goodrx-medicine-cabinet-data-privacy-medications)
- - [Sony has sold 40 million PS5s](https://www.theverge.com/2023/7/27/23809763/sony-playstation-5-sold-stocked-ps5)<!-- TECH:END -->
+ - [GoodRx launches digital ‘medicine cabinet’ that rewards people for taking their meds](https://www.theverge.com/2023/7/27/23807421/goodrx-medicine-cabinet-data-privacy-medications)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

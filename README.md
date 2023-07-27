@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Riddle me this, what have they made or invented again?](http://9gag.com/gag/aA0ZXq9)
- - 😝 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
- - 💣 [Accurate](http://9gag.com/gag/aOxGPm6)
- - 😝 [So happy](http://9gag.com/gag/aA0ZXdp)
- - 👉 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)<!-- MEMES:END -->
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 💣 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 👉 [For the village.](http://9gag.com/gag/aGEb2dG)<!-- MEMES:END -->
 
 ---
 </div>

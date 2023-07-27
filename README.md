@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU opens an antitrust investigation into whether Microsoft abuses its dominant position by bundling Teams with Office, the first investigation in 10+ years &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/230727/p9#a230727p9)
- - [The Real Reason Steph Curry Is So Damn Good](https://www.wired.com/story/steph-curry-ryan-coogler-underrated/)
- - [AWS VP Swami Sivasubramanian says thousands of customers, including Sony and Ryanair, have tried its AI services suite Bedrock ahead of a wider roll out &quot;soon&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/230727/p8#a230727p8)
- - [It’s not just you, Slack appears to be down](https://www.theverge.com/2023/7/27/23809649/slack-down-july-2023)
- - [England vs. Australia Livestream: How to Watch 5th Test Ashes Cricket From Anywhere     - CNET](https://www.cnet.com/deals/england-vs-australia-livestream-how-to-watch-5th-test-ashes-cricket-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slack reports an &quot;outage across the app&quot; starting around 5AM ET, including issues with sending messages and search &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p11#a230727p11)
+ - [EU opens Microsoft antitrust investigation into Teams bundling](https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack)
+ - [Meta forecasts 20% revenue growth in Q3, returning to pre-pandemic and pre-ATT levels, potentially creating cover for expensive AI and metaverse investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/230727/p10#a230727p10)
+ - [Slack is down, it’s not just you](https://www.theverge.com/2023/7/27/23809649/slack-down-july-2023)
+ - [The EU opens an antitrust investigation into whether Microsoft abuses its dominant position by bundling Teams with Office, the first investigation in 10+ years &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/230727/p9#a230727p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

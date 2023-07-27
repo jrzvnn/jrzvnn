@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HONOR’s first Flip phone is real, but when will it launch?](https://www.androidauthority.com/honor-flip-phone-confirmed-3350576/)
- - [Is the Samsung Galaxy Watch 6 waterproof?](https://www.androidauthority.com/is-galaxy-watch-6-waterproof-3348371/)
- - [Researchers: the guardrails on ChatGPT, Bard, and Claude can be bypassed by adding a long suffix of characters to prompts, generating false and toxic responses &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230727/p18#a230727p18)
- - [How to customize Apple News to see the content you want](https://appleinsider.com/inside/apple-news/tips/how-to-customize-apple-news-to-see-the-content-you-want?utm_medium=rss)
- - [Israeli startup Trustmi, which offers payments fraud prevention tools, raised a $17M Series A led by Cyberstarts, taking its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230727/p17#a230727p17)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 6 vs Galaxy Watch 4: Is it worth the upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-samsung-galaxy-watch-4-3349492/)
+ - [Forget other specs, water resistance is the best part of the Galaxy Tab S9](https://www.androidauthority.com/galaxy-tab-s9-ip-rating-water-resistance-3349519/)
+ - [Cooler Master Motion 1 Review: Feel the Game](https://www.wired.com/review/cooler-master-motion-1-gaming-chair/)
+ - [Niantic’s Monster Hunter Now is launching on September 14th](https://www.theverge.com/2023/7/27/23809726/monster-hunter-now-release-date-iphone-android)
+ - [HONOR’s first Flip phone is real, but when will it launch?](https://www.androidauthority.com/honor-flip-phone-confirmed-3350576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

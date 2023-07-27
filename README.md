@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based AutogenAI, which offers a generative AI tool for writing bids and pitches, raised $22.3M; source: the valuation was in the &quot;hundreds of millions&quot; &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230726/p56#a230726p56)
  - [Sources: Linda Yaccarino pitched her vision for Twitter/X to talent agencies in LA and met with Disney, in a bid to bring stars and influencers to the platform &lpar;Financial Times&rpar;](http://www.techmeme.com/230726/p55#a230726p55)
  - [The best Samsung Galaxy Tab S9 Ultra cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-ultra-cases-3350383/)
  - [Samsung Electronics reports 95% profit drop for Q2 2023](https://appleinsider.com/articles/23/07/27/samsung-electronics-reports-95-profit-drop-for-q2-2023?utm_medium=rss)
- - [Collaborative Robotics, founded by former Amazon Robotics VP Brad Porter to build a new type of collaborative robot, raised a $30M Series A led by Sequoia &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230726/p54#a230726p54)
- - [Samsung reports Q2 revenue of ~$47.21B, a 22% YoY drop and below analyst expectations of ~$47.7B, and operating profit of ~$525M, a 95% YoY drop &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/230726/p53#a230726p53)<!-- TECH:END -->
+ - [Collaborative Robotics, founded by former Amazon Robotics VP Brad Porter to build a new type of collaborative robot, raised a $30M Series A led by Sequoia &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230726/p54#a230726p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Galaxy Z Flip 5 chargers you can buy](https://www.androidauthority.com/best-galaxy-z-flip-5-chargers-3349489/)
  - [Download the Samsung Galaxy Z Fold 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-fold-5-wallpapers-3350463/)
  - [Amid Israel&#39;s controversial judicial reforms, many tech companies are protesting or distancing themselves from the country, moving money and their HQs overseas &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230727/p5#a230727p5)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Android 14 beta 4.1 lands with a long list of fixes before stable release](https://www.androidauthority.com/android-14-beta-4-1-3350465/)
- - [The best Samsung Galaxy Tab S9 Plus cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-plus-cases-3350283/)<!-- TECH:END -->
+ - [Android 14 beta 4.1 lands with a long list of fixes before stable release](https://www.androidauthority.com/android-14-beta-4-1-3350465/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

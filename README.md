@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
- - 😝 [I recently made a very tasteless joke at an alopecia convention. Thankfully, it didn\u2019t raise any eyebrows.](http://9gag.com/gag/a6q82wq)
- - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
- - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - 👉 [Facts](http://9gag.com/gag/aEqEopn)<!-- MEMES:END -->
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 👉 [She burned her Swedish passport because of the Danish and Iraqi quran burnings in Sweden. And promises to never come back](http://9gag.com/gag/ay2P1Gr)<!-- MEMES:END -->
 
 ---
 </div>

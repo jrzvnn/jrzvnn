@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: about 10 years ago, Tesla rigged the dashboard to overstate battery range; in 2022, Tesla created a &quot;Diversion Team&quot; to suppress thousands of complaints &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p13#a230727p13)
  - [Apple&#39;s wireless tech R&amp;D offices in Irvine expand again](https://appleinsider.com/articles/23/07/27/apples-wireless-rd-offices-in-irvine-expand-again?utm_medium=rss)
  - [Two of the most underrated Zelda games are now available on Nintendo Switch Online](https://www.theverge.com/2023/7/27/23809654/legend-of-zelda-oracle-of-ages-seasons-nintendo-switch-online)
  - [Big AI Won’t Stop Election Deepfakes With Watermarks](https://www.wired.com/story/ai-watermarking-misinformation/)
- - [The Curse of the Long Boom](https://www.wired.com/story/long-boom-predictions-wired/)
- - [Heat Waves Aren’t Just Getting Hotter—They’re Sticker Too](https://www.wired.com/story/heat-waves-arent-just-getting-hotter-theyre-sticker-too/)<!-- TECH:END -->
+ - [The Curse of the Long Boom](https://www.wired.com/story/long-boom-predictions-wired/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,10 +146,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg isn’t being held in contempt of Congress after all](https://www.theverge.com/2023/7/27/23809960/facebook-meta-mark-zuckerbeg-contempt-jordan-white-house)
  - [The 61 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
  - [In four new studies with collaboration from Meta, researchers find Facebook&#39;s algorithm is &quot;influential&quot; but doesn&#39;t necessarily change beliefs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230727/p28#a230727p28)
  - [Google is rolling out an Android feature to prevent unwanted Bluetooth tracking](https://www.androidauthority.com/unknown-tracker-alerts-rollout-3350756/)
- - [Google&#39;s Genesis AI Tool Could Write the News. It Should Be Stopped     - CNET](https://www.cnet.com/tech/googles-genesis-ai-tool-could-write-the-news-it-should-be-stopped/#ftag=CAD590a51e)
  - [LinkedIn seems to be working on an AI ‘coach’ for job applications](https://www.theverge.com/2023/7/27/23810141/linkedin-coach-ai-assistant-chatbot-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

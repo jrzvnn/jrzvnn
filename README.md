@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Download the Samsung Galaxy Z Fold 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-fold-5-wallpapers-3350463/)
+ - [Amid Israel&#39;s controversial judicial reforms, many tech companies are protesting or distancing themselves from the country, moving money and their HQs overseas &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230727/p5#a230727p5)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
  - [Android 14 beta 4.1 lands with a long list of fixes before stable release](https://www.androidauthority.com/android-14-beta-4-1-3350465/)
- - [The best Samsung Galaxy Tab S9 Plus cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-plus-cases-3350283/)
- - [The US DOJ informed a federal judge that Sam Bankman-Fried won&#39;t face the campaign finance charge, which wasn&#39;t part of an extradition document with The Bahamas &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230727/p4#a230727p4)
- - [Apple accidentally reveals functionality of new iPhone 15 Pro ‘Action Button’](https://www.androidauthority.com/apple-iphone-15-pro-action-button-functions-3350457/)<!-- TECH:END -->
+ - [The best Samsung Galaxy Tab S9 Plus cases](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-plus-cases-3350283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

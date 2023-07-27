@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sigh* maybe in another life....](http://9gag.com/gag/ap98YqW)
- - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 💣 [Rich people in submarines](http://9gag.com/gag/awZvYXB)
- - 😝 [Should we bring politics into software?](http://9gag.com/gag/aqeAY7v)
- - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
+ - 😝 [An experienced partner](http://9gag.com/gag/a1PwVpb)
+ - 👉 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)<!-- MEMES:END -->
 
 ---
 </div>

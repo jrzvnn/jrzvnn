@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 💣 [Would](http://9gag.com/gag/aGEbBvK)
- - 😝 [Can we all agree that this is a winner?](http://9gag.com/gag/awZv3jQ)
- - 👉 [She burned her Swedish passport because of the Danish and Iraqi quran burnings in Sweden. And promises to never come back](http://9gag.com/gag/ay2P1Gr)<!-- MEMES:END -->
+ - 😝 [Why James May doesn&#39;t like his Tesla](http://9gag.com/gag/aA0ZMR0)
+ - 😝 [Facts](http://9gag.com/gag/aEqEopn)
+ - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 😝 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
+ - 👉 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)<!-- MEMES:END -->
 
 ---
 </div>

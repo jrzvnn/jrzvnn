@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Proprio, which offers a device with multiple cameras and a display that shows real-time 3D visualization of surgery, raised a $43M Series B &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230727/p27#a230727p27)
- - [Elon Musk says Twitter will soon only offer dark mode because it’s “better in every way”](https://www.theverge.com/2023/7/27/23810140/elon-musk-twitter-x-dark-mode-only)
- - [Adobe adds Firefly-powered Generative Expand option to Photoshop beta](https://appleinsider.com/articles/23/07/27/adobe-adds-firefly-powered-generative-expand-option-to-photoshop-beta?utm_medium=rss)
- - [These city maps show how much hotter it is from neighborhood to neighborhood](https://www.theverge.com/23809121/city-maps-ranking-urban-heat-island)
- - [Google says a joint Bluetooth tracker misuse standard is waiting on Apple](https://appleinsider.com/articles/23/07/27/google-says-a-joint-bluetooth-tracker-misuse-standard-is-waiting-on-apple?utm_medium=rss)<!-- TECH:END -->
+ - [How to use FaceTime on Apple TV with Continuity Camera on iPhone](https://appleinsider.com/inside/tvos-17/tips/how-to-use-facetime-on-apple-tv-with-continuity-camera-on-iphone?utm_medium=rss)
+ - [Get Apple&#39;s Midnight MacBook Air M2 &lpar;16GB RAM, 1TB SSD&rpar; for $1,599, plus $40 off AppleCare](https://appleinsider.com/articles/23/07/27/get-apples-midnight-macbook-air-m2-16gb-ram-1tb-ssd-for-1599-plus-40-off-applecare?utm_medium=rss)
+ - [Meta Just Proved People Hate Chronological Feeds](https://www.wired.com/story/meta-just-proved-people-hate-chronological-feeds/)
+ - [Artifact is getting an AI-powered text-to-speech feature to read you the news](https://www.theverge.com/2023/7/27/23810160/artifact-ai-text-to-speech-read-news-snoop-dogg-gwyneth-paltrow-speechify)
+ - [Chronological feeds won’t fix platform polarization, new Meta-backed research suggests](https://www.theverge.com/2023/7/27/23808979/meta-instagram-facebook-2020-election-study-polarization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

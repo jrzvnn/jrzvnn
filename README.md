@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Master Mixer &lpar;v2&rpar;](http://9gag.com/gag/aWG9DKA)
- - 😝 [Twitter users need some therapy](http://9gag.com/gag/a9qBX2L)
- - 💣 [Rich people in submarines](http://9gag.com/gag/awZvYXB)
- - 😝 [Respect!!](http://9gag.com/gag/aXne2QP)
- - 👉 [Still can\u2019t believe this was a lie](http://9gag.com/gag/aeQW7EQ)<!-- MEMES:END -->
+ - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 💣 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
 
 ---
 </div>

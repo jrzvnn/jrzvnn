@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)
- - 😝 [Uhhh](http://9gag.com/gag/armzx7X)
- - 💣 [Feminists Destroyed](http://9gag.com/gag/aGEbMYw)
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 👉 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)<!-- MEMES:END -->
+ - 😝 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
+ - 😝 [I recently made a very tasteless joke at an alopecia convention. Thankfully, it didn\u2019t raise any eyebrows.](http://9gag.com/gag/a6q82wq)
+ - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
+ - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - 👉 [Facts](http://9gag.com/gag/aEqEopn)<!-- MEMES:END -->
 
 ---
 </div>

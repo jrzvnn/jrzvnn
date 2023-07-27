@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 👉 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)<!-- MEMES:END -->
+ - 😝 [*sigh* maybe in another life....](http://9gag.com/gag/ap98YqW)
+ - 😝 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
+ - 💣 [Rich people in submarines](http://9gag.com/gag/awZvYXB)
+ - 😝 [Should we bring politics into software?](http://9gag.com/gag/aqeAY7v)
+ - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
 
 ---
 </div>

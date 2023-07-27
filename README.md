@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
- - 😝 [For the village.](http://9gag.com/gag/aGEb2dG)
- - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
+ - 😝 [Evangelion](http://9gag.com/gag/ap98A99)
+ - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 👉 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
 
 ---
 </div>

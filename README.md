@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Russia&#39;s invasion led Ukraine to innovate in combat drones, including improving speed, flight range, and payload, and the implications for warfare globally &lpar;Washington Post&rpar;](http://www.techmeme.com/230727/p15#a230727p15)
  - [The 15 best Samsung Galaxy Z Flip 5 cases you can buy at launch](https://www.androidauthority.com/best-samsung-galaxy-z-flip-5-cases-3348117/)
  - [iPhone 15 Pro again rumored to cost more than ever before](https://appleinsider.com/articles/23/07/27/iphone-15-pro-again-rumored-to-cost-more-than-ever-before?utm_medium=rss)
  - [Lindsey Graham and Elizabeth Warren announce the Digital Consumer Protection Commission Act, seeking an independent regulator to license and police Big Tech &lpar;New York Times&rpar;](http://www.techmeme.com/230727/p14#a230727p14)
- - [Source: about 10 years ago, Tesla rigged the dashboard to overstate battery range; in 2022, Tesla created a &quot;Diversion Team&quot; to suppress thousands of complaints &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p13#a230727p13)
- - [Apple&#39;s wireless tech R&amp;D offices in Irvine expand again](https://appleinsider.com/articles/23/07/27/apples-wireless-rd-offices-in-irvine-expand-again?utm_medium=rss)<!-- TECH:END -->
+ - [Source: about 10 years ago, Tesla rigged the dashboard to overstate battery range; in 2022, Tesla created a &quot;Diversion Team&quot; to suppress thousands of complaints &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p13#a230727p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

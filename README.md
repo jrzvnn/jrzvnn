@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 😝 [She burned her Swedish passport because of the Danish and Iraqi quran burnings in Sweden. And promises to never come back](http://9gag.com/gag/ay2P1Gr)
- - 💣 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
- - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 👉 [Would](http://9gag.com/gag/aGEbBvK)<!-- MEMES:END -->
+ - 😝 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
+ - 😝 [I recently made a very tasteless joke at an alopecia convention. Thankfully, it didn\u2019t raise any eyebrows.](http://9gag.com/gag/a6q82wq)
+ - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
+ - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - 👉 [Facts](http://9gag.com/gag/aEqEopn)<!-- MEMES:END -->
 
 ---
 </div>

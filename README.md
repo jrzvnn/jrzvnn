@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel CEO: ‘We’re going to build AI into every platform we build’](https://www.theverge.com/2023/7/27/23810360/intel-pat-gelsinger-ai-every-platform-promise)
  - [Epic asks U.S. Supreme Court to enforce lower court&#39;s App Store order](https://appleinsider.com/articles/23/07/27/epic-asks-us-supreme-court-to-enforce-lower-courts-app-store-order?utm_medium=rss)
  - [RapidAI, which develops AI-powered software to help diagnose neurovascular, cardiac, and vascular diseases, raised a $75M Series C led by Vista Credit Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230727/p33#a230727p33)
  - [Sources: Sequoia cut the size of its cryptocurrency fund to $200M from $585M and of its ecosystem fund, which invests in other funds, to $450M from $900M &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230727/p32#a230727p32)
- - [Apple&#39;s Next iPhone Could Have an &#39;Action&#39; Button     - CNET](https://www.cnet.com/tech/mobile/apples-next-iphone-could-have-an-action-button/#ftag=CAD590a51e)
- - [Roku reports Q2 revenue up 11% YoY to $847.2M, vs. $773.5M est., platform revenue up 11% YoY to $744M, and active accounts up 16% YoY to 73.5M; ROKU jumps 8%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230727/p31#a230727p31)<!-- TECH:END -->
+ - [Apple&#39;s Next iPhone Could Have an &#39;Action&#39; Button     - CNET](https://www.cnet.com/tech/mobile/apples-next-iphone-could-have-an-action-button/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

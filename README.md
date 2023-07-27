@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp introduces end-to-end encrypted 60 second instant video messages](https://www.androidauthority.com/whatsapp-instant-video-feature-3350674/)
+ - [WhatsApp announces instant video messages, letting users send clips up to 60 seconds in a similar way to voice notes; videos automatically play on mute &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p25#a230727p25)
+ - [Why charge an EV when you can just swap its battery?](https://www.theverge.com/23809811/ev-battery-swap-ample-fisker-tesla)
  - [The US Senate Judiciary Committee advances the Kids Online Safety Act and COPPA 2.0; critics highlight issues, like forcing companies to collect more user data &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230727/p24#a230727p24)
- - [Tesla EVs are apparently overestimating range when fully charged — on purpose](https://www.theverge.com/2023/7/27/23809751/tesla-ev-range-estimate-anxiety-algorithm-full-charge)
- - [ChatGPT for Android is now available](https://www.theverge.com/2023/7/25/23807012/chatgpt-android-ai-chatbot-openai-llm)
- - [Samsung Galaxy Book3 Ultra review: a lean, mean Windows machine](https://www.theverge.com/23808980/samsung-galaxy-book3-ultra-review-a-lean-mean-windows-machine)
- - [Senate panel advances bills to childproof the internet](https://www.theverge.com/2023/7/27/23809876/kosa-coppa-2-child-safety-privacy-protection-social-media)<!-- TECH:END -->
+ - [Tesla EVs are apparently overestimating range when fully charged — on purpose](https://www.theverge.com/2023/7/27/23809751/tesla-ev-range-estimate-anxiety-algorithm-full-charge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low graphics setting be like](http://9gag.com/gag/aDYMZAG)
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 💣 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
+ - 😝 [Master Mixer &lpar;v2&rpar;](http://9gag.com/gag/aWG9DKA)
+ - 😝 [Twitter users need some therapy](http://9gag.com/gag/a9qBX2L)
+ - 💣 [Rich people in submarines](http://9gag.com/gag/awZvYXB)
+ - 😝 [Respect!!](http://9gag.com/gag/aXne2QP)
+ - 👉 [Still can\u2019t believe this was a lie](http://9gag.com/gag/aeQW7EQ)<!-- MEMES:END -->
 
 ---
 </div>

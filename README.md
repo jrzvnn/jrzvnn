@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s cute, but...](http://9gag.com/gag/aMEynEV)
- - 😝 [I recently made a very tasteless joke at an alopecia convention. Thankfully, it didn\u2019t raise any eyebrows.](http://9gag.com/gag/a6q82wq)
- - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
- - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
- - 👉 [Facts](http://9gag.com/gag/aEqEopn)<!-- MEMES:END -->
+ - 😝 [Checked his phone](http://9gag.com/gag/aYVmOAO)
+ - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 💣 [I guess it is obvious...](http://9gag.com/gag/a3Zn5XQ)
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 👉 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)<!-- MEMES:END -->
 
 ---
 </div>

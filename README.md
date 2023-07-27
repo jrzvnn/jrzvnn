@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Android unknown tracker alerts, including manual scan, and pauses a Find My Device update to locate missing items until Apple updates iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230727/p26#a230727p26)
- - [What is overclocking on a PC? Is it worth overclocking your computer?](https://www.androidauthority.com/what-is-overclocking-3346893/)
- - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
- - [More Battlefield AI Will Make the Fog of War More Deadly](https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/)
- - [Aporia feels like it’s going to be a different and devastating kind of time travel thriller](https://www.theverge.com/23809134/aporia-trailer-jared-moshe-judy-greer-edi-gathegi)<!-- TECH:END -->
+ - [Google delays its upgraded Find My Device network until Apple can add safety alerts](https://www.theverge.com/2023/7/27/23810052/google-find-my-device-delay-apple-unknown-tracker-alerts-stalking)
+ - [India couple accused of selling baby to buy iPhone 14](https://appleinsider.com/articles/23/07/27/india-couple-accused-of-selling-baby-to-buy-iphone-14?utm_medium=rss)
+ - [Amazon’s Galaxy Z Flip 5 pre-order deal delivers $270 of freebies](https://www.androidauthority.com/samsung-galaxy-z-flip-5-amazon-deal-3350698/)
+ - [Roblox is now available to try on Meta Quest VR headsets](https://www.theverge.com/2023/7/27/23810093/meta-quest-roblox-vr-headsets-beta)
+ - [Google rolls out Android unknown tracker alerts, including manual scan, and pauses a Find My Device update to locate missing items until Apple updates iOS &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230727/p26#a230727p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Deals: PC Components and Sex Toys](https://www.wired.com/story/sex-toys-pc-deals-july-2023/)
+ - [Reddit starts testing an &quot;Official&quot; label to indicate that an account is authentic, visible on its iOS and Android apps, and unveils accessibility improvements &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230727/p29#a230727p29)
  - [Developers need to measure their heads before they can receive an Apple Vision Pro dev kit](https://appleinsider.com/articles/23/07/27/developers-need-to-measure-their-heads-before-they-can-receive-an-apple-vision-pro-dev-kit?utm_medium=rss)
  - [Lionel Messi is already giving Apple’s MLS streaming service a boost](https://www.theverge.com/2023/7/27/23810301/lionel-messi-viewers-mls-apple-tv)
- - [Mark Zuckerberg isn’t being held in contempt of Congress after all](https://www.theverge.com/2023/7/27/23809960/facebook-meta-mark-zuckerbeg-contempt-jordan-white-house)
- - [The 61 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [In four new studies with collaboration from Meta, researchers find Facebook&#39;s algorithm is &quot;influential&quot; but doesn&#39;t necessarily change beliefs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230727/p28#a230727p28)<!-- TECH:END -->
+ - [Mark Zuckerberg isn’t being held in contempt of Congress after all](https://www.theverge.com/2023/7/27/23809960/facebook-meta-mark-zuckerbeg-contempt-jordan-white-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

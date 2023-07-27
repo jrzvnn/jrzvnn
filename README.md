@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi reveals first Mix Fold 3 details: Everything the Z Fold 5 isn’t?](https://www.androidauthority.com/xiaomi-mix-fold-3-details-3349820/)
  - [Download the Samsung Galaxy Z Flip 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-flip-5-wallpapers-3350497/)
  - [The best Galaxy Z Flip 5 chargers you can buy](https://www.androidauthority.com/best-galaxy-z-flip-5-chargers-3349489/)
  - [Download the Samsung Galaxy Z Fold 5 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-z-fold-5-wallpapers-3350463/)
- - [Amid Israel&#39;s controversial judicial reforms, many tech companies are protesting or distancing themselves from the country, moving money and their HQs overseas &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230727/p5#a230727p5)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
+ - [Amid Israel&#39;s controversial judicial reforms, many tech companies are protesting or distancing themselves from the country, moving money and their HQs overseas &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230727/p5#a230727p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why James May doesn&#39;t like his Tesla](http://9gag.com/gag/aA0ZMR0)
  - 😝 [Facts](http://9gag.com/gag/aEqEopn)
- - 💣 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
+ - 💣 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
  - 😝 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
- - 👉 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)<!-- MEMES:END -->
+ - 👉 [Money Cat for you](http://9gag.com/gag/aGEb2bn)<!-- MEMES:END -->
 
 ---
 </div>

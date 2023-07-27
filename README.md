@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 💣 [There is nothing wrong with this](http://9gag.com/gag/aVbBKOn)
- - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 👉 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)<!-- MEMES:END -->
+ - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
+ - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 💣 [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 👉 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)<!-- MEMES:END -->
 
 ---
 </div>

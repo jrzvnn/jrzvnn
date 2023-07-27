@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 💣 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 😝 [For the village.](http://9gag.com/gag/aGEb2dG)
- - 👉 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)<!-- MEMES:END -->
+ - 😝 [Very bad typo indeed](http://9gag.com/gag/a7qA0qr)
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
+ - 😝 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - 👉 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
 
 ---
 </div>

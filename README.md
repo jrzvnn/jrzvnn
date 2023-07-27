@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp adds a quicker way to send short videos to your friends](https://www.theverge.com/2023/7/27/23809857/whatsapp-video-messages-announced-meta)
- - [The ad-free Kindle Paperwhite Kids is $55 off](https://www.theverge.com/2023/7/27/23809058/kindle-paperwhite-kids-samsung-galaxy-z-flip-5-z-fold-5-sonos-arc-deal-sale)
- - [Apple shares new trailer for upcoming third season of &#39;The Morning Show&#39;](https://appleinsider.com/articles/23/07/27/apple-shares-new-trailer-for-upcoming-third-season-of-the-morning-show?utm_medium=rss)
- - [Senators press Congress to &#39;rein in&#39; Big Tech and social media](https://appleinsider.com/articles/23/07/27/senators-press-congress-to-rein-in-big-tech-and-social-media?utm_medium=rss)
- - [Adobe adds Firefly-based Generative Expand, which &quot;expands images beyond their original bounds&quot;, to the Photoshop beta and support for prompts in 100 languages &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230727/p22#a230727p22)<!-- TECH:END -->
+ - [Senate panel advances bills to childproof the internet](https://www.theverge.com/2023/7/27/23809876/kosa-coppa-2-child-safety-privacy-protection-social-media)
+ - [Filing: US government services contractor Maximus says MOVEit hackers accessed protected health information and other data of &quot;at least&quot; 8M to 11M people &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230727/p23#a230727p23)
+ - [Castlevania: Nocturne’s first trailer puts Richter Belmont in the revolutionary spotlight](https://www.theverge.com/23809274/castlevania-nocturne-trailer-neflix-konami-richter-belmont)
+ - [Samsung Galaxy Watch 6 vs Galaxy Watch 3: Time for an upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-galaxy-watch-3-3350100/)
+ - [WhatsApp adds a quicker way to send short videos to your friends](https://www.theverge.com/2023/7/27/23809857/whatsapp-video-messages-announced-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

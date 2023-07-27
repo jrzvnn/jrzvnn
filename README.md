@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Next iPhone Could Have an &#39;Action&#39; Button     - CNET](https://www.cnet.com/tech/services-and-software/apples-next-iphone-could-have-an-action-button/#ftag=CAD590a51e)
  - [Roku reports Q2 revenue up 11% YoY to $847.2M, vs. $773.5M est., platform revenue up 11% YoY to $744M, and active accounts up 16% YoY to 73.5M; ROKU jumps 8%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230727/p31#a230727p31)
  - [Galaxy S23 could get a taste of Android 14 as soon as next week](https://www.androidauthority.com/android-14-one-ui-6-galaxy-s23-3350787/)
  - [The NSA Is Lobbying Congress to Save a Phone Surveillance &#39;Loophole&#39;](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
- - [Hot tech deals: save $1,000 on Samsung 4K TV, 16-inch MacBook Pro $769, Apple MagSafe Charger $29, OWC Thunderbolt Dock $99](https://appleinsider.com/articles/23/07/27/hot-tech-deals-save-1000-on-samsung-4k-tv-16-inch-macbook-pro-769-apple-magsafe-charger-29-owc-thunderbolt-dock-99?utm_medium=rss)<!-- TECH:END -->
+ - [Hot tech deals: save $1,000 on Samsung 4K TV, 16-inch MacBook Pro $769, Apple MagSafe Charger $29, OWC Thunderbolt Dock $99](https://appleinsider.com/articles/23/07/27/hot-tech-deals-save-1000-on-samsung-4k-tv-16-inch-macbook-pro-769-apple-magsafe-charger-29-owc-thunderbolt-dock-99?utm_medium=rss)
+ - [Intel reports Q2 revenue down 15% YoY to $12.9B, Data Center and AI revenue down 15% YoY to $4B, and forecasts Q3 revenue above estimates; INTC jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230727/p30#a230727p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

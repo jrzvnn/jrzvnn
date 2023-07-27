@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung prototypes show Fold 5 and Flip 5 could have been very different phones](https://www.androidauthority.com/samsung-galaxy-z-fold-5-flip-5-prototypes-3350528/)
  - [Sen. Elizabeth Warren wants to build a new agency to police Big Tech](https://www.theverge.com/2023/7/27/23809110/meta-google-amazon-warren-graham-tech-agency-antitrust-privacy)
  - [A postmortem of Neeva, which tried to build a faster, simpler, and ad-free search engine, and how default search engine choices reinforce Google&#39;s dominance &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230727/p6#a230727p6)
  - [Australia vs. Nigeria: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australia-vs-nigeria-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)
- - [Amid Israel&#39;s controversial judicial reforms, many tech companies are protesting or distancing themselves from the country, moving money and their HQs overseas &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230727/p5#a230727p5)
- - [The US DOJ informed a federal judge that Sam Bankman-Fried won&#39;t face the campaign finance charge, which wasn&#39;t part of an extradition document with The Bahamas &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230727/p4#a230727p4)<!-- TECH:END -->
+ - [Xiaomi reveals first Mix Fold 3 details: Everything the Z Fold 5 isn’t?](https://www.androidauthority.com/xiaomi-mix-fold-3-details-3349820/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

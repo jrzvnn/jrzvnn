@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Flip 5 vs Galaxy S23: Which small phone should you buy?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-samsung-galaxy-s23-3349593/)
  - [Slack reports an &quot;outage across the app&quot; starting around 5AM ET, including issues with sending messages and search &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p11#a230727p11)
  - [EU opens Microsoft antitrust investigation into Teams bundling](https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack)
  - [Meta forecasts 20% revenue growth in Q3, returning to pre-pandemic and pre-ATT levels, potentially creating cover for expensive AI and metaverse investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/230727/p10#a230727p10)
- - [Slack is down, it’s not just you](https://www.theverge.com/2023/7/27/23809649/slack-down-july-2023)
- - [The EU opens an antitrust investigation into whether Microsoft abuses its dominant position by bundling Teams with Office, the first investigation in 10+ years &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/230727/p9#a230727p9)<!-- TECH:END -->
+ - [Slack is down, it’s not just you](https://www.theverge.com/2023/7/27/23809649/slack-down-july-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

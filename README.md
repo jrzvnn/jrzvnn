@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts](http://9gag.com/gag/aEqEopn)
  - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 💣 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
- - 😝 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
- - 👉 [Money Cat for you](http://9gag.com/gag/aGEb2bn)<!-- MEMES:END -->
+ - 😝 [Kidnapped for 9 months.](http://9gag.com/gag/a5XDGzy)
+ - 💣 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
+ - 😝 [Twitter users need some therapy](http://9gag.com/gag/a9qBX2L)
+ - 👉 [Accurate](http://9gag.com/gag/aOxGPm6)<!-- MEMES:END -->
 
 ---
 </div>

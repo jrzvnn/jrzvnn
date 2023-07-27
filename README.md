@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evangelion](http://9gag.com/gag/ap98A99)
- - 😝 [We should nuke these assholes with everything we got, sir.](http://9gag.com/gag/ap98DpB)
- - 💣 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 😝 [Rants in italian](http://9gag.com/gag/aGEb8nX)
- - 👉 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
+ - 😝 [Riddle me this, what have they made or invented again?](http://9gag.com/gag/aA0ZXq9)
+ - 😝 [Make tax evasion easier.](http://9gag.com/gag/aMEyXAV)
+ - 💣 [Accurate](http://9gag.com/gag/aOxGPm6)
+ - 😝 [So happy](http://9gag.com/gag/aA0ZXdp)
+ - 👉 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)<!-- MEMES:END -->
 
 ---
 </div>

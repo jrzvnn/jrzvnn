@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eco, an a16z-backed payments startup that has raised $95M, announces decentralized, non-custodial payments wallet Beam, aiming to function like a &quot;global Venmo&quot; &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230727/p20#a230727p20)
+ - [Sources in Hollywood and Silicon Valley discuss AI&#39;s impact: creatives view AI as an existential threat, studios see a cost saver, and both sides need a deal &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230727/p19#a230727p19)
  - [Samsung Galaxy Watch 6 vs Galaxy Watch 4: Is it worth the upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-samsung-galaxy-watch-4-3349492/)
  - [Forget other specs, water resistance is the best part of the Galaxy Tab S9](https://www.androidauthority.com/galaxy-tab-s9-ip-rating-water-resistance-3349519/)
- - [Cooler Master Motion 1 Review: Feel the Game](https://www.wired.com/review/cooler-master-motion-1-gaming-chair/)
- - [Niantic’s Monster Hunter Now is launching on September 14th](https://www.theverge.com/2023/7/27/23809726/monster-hunter-now-release-date-iphone-android)
- - [HONOR’s first Flip phone is real, but when will it launch?](https://www.androidauthority.com/honor-flip-phone-confirmed-3350576/)<!-- TECH:END -->
+ - [Cooler Master Motion 1 Review: Feel the Game](https://www.wired.com/review/cooler-master-motion-1-gaming-chair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

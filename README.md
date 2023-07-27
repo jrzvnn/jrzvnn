@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Israeli newspapers a day after the first judicial bill was passed](http://9gag.com/gag/aL1re5g)
- - 💣 [Would](http://9gag.com/gag/aGEbBvK)
- - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 👉 [Norway MP Bjornar Moxnes was caught stealing Hugo Boss glasses from a store at Oslo Airport](http://9gag.com/gag/aEqEA2N)<!-- MEMES:END -->
+ - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 💣 [You are welcome!](http://9gag.com/gag/aZDv8Q9)
+ - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
+ - 👉 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)<!-- MEMES:END -->
 
 ---
 </div>

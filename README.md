@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp introduces end-to-end encrypted 60 second instant video messages](https://www.androidauthority.com/whatsapp-instant-video-feature-3350674/)
+ - [Base iPhone 15 models will get 48 megapixel cameras, says Kuo](https://appleinsider.com/articles/23/07/26/base-iphone-15-models-will-get-48mp-cameras-says-kuo?utm_medium=rss)
+ - [More Battlefield AI Will Make the Fog of War More Deadly](https://www.wired.com/story/fast-forward-battlefield-ai-will-make-the-fog-of-war-more-deadly/)
+ - [Aporia feels like it’s going to be a different and devastating kind of time travel thriller](https://www.theverge.com/23809134/aporia-trailer-jared-moshe-judy-greer-edi-gathegi)
  - [WhatsApp announces instant video messages, letting users send clips up to 60 seconds in a similar way to voice notes; videos automatically play on mute &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230727/p25#a230727p25)
- - [Why charge an EV when you can just swap its battery?](https://www.theverge.com/23809811/ev-battery-swap-ample-fisker-tesla)
- - [The US Senate Judiciary Committee advances the Kids Online Safety Act and COPPA 2.0; critics highlight issues, like forcing companies to collect more user data &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230727/p24#a230727p24)
- - [Tesla EVs are apparently overestimating range when fully charged — on purpose](https://www.theverge.com/2023/7/27/23809751/tesla-ev-range-estimate-anxiety-algorithm-full-charge)<!-- TECH:END -->
+ - [Why charge an EV when you can just swap its battery?](https://www.theverge.com/23809811/ev-battery-swap-ample-fisker-tesla)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

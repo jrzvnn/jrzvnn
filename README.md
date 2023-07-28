@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stop filming concerts](https://www.theverge.com/23811133/instagram-stories-iphone-concert-footage-sotp)
  - [Google’s latest robot can offer you an energy drink](https://www.theverge.com/2023/7/28/23811109/google-smart-robot-generative-ai)
  - [NASA Plus is the latest streaming competitor](https://www.theverge.com/2023/7/28/23811235/nasa-plus-streaming-service-announce)
  - [Sources: President Biden plans to sign an executive order to limit US investments in semiconductors, AI, and quantum computing in China by mid-August &lpar;Jenny Leonard/Bloomberg&rpar;](http://www.techmeme.com/230728/p12#a230728p12)
- - [Sennheiser’s plush and comfy Momentum 4 headphones are $120 off](https://www.theverge.com/2023/7/28/23811027/sennheiser-momentum-4-apple-magsafe-iphone-charger-bose-soundlink-flex-deal-sale)
- - [Don’t hate on Ford’s big, gas-guzzling trucks, because they’re funding its electric future](https://www.theverge.com/2023/7/28/23811222/ford-q2-2023-earnings-ev-loss-production-slow)<!-- TECH:END -->
+ - [Sennheiser’s plush and comfy Momentum 4 headphones are $120 off](https://www.theverge.com/2023/7/28/23811027/sennheiser-momentum-4-apple-magsafe-iphone-charger-bose-soundlink-flex-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

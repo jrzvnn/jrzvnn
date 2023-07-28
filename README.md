@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 💣 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
+ - 😝 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)
+ - 😝 [FACTS](http://9gag.com/gag/aGEbb4w)
+ - 💣 [How old are you?....you smell nice.](http://9gag.com/gag/aA0Zmoo)
+ - 😝 [Hmm..](http://9gag.com/gag/aBdov0Z)
+ - 👉 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)<!-- MEMES:END -->
 
 ---
 </div>

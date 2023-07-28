@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil functionality compromised with third-party iPad parts](https://appleinsider.com/articles/23/07/28/apple-pencil-functionality-compromised-with-third-party-ipad-parts?utm_medium=rss)
  - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
  - [Rare $120 price drop on the epic Sennheiser Momentum 4 headphones](https://www.androidauthority.com/sennheiser-momentum-4-deal-3351037/)
  - [How to set up Center Stage in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-up-center-stage-in-macos-sonoma?utm_medium=rss)
- - [Final Fantasy XIV’s latest expansion is a tropical vacation](https://www.theverge.com/2023/7/28/23811405/final-fantasy-xiv-7-0-new-expansion-dawntrail)
- - [Verizon and AT&amp;T are charging a new fee to customers on older unlimited plans](https://www.theverge.com/2023/7/27/23810590/verizon-att-unlimited-elite-legacy-plan-rate-adjustment-5g-start)<!-- TECH:END -->
+ - [Final Fantasy XIV’s latest expansion is a tropical vacation](https://www.theverge.com/2023/7/28/23811405/final-fantasy-xiv-7-0-new-expansion-dawntrail)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

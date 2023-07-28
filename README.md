@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung may have downgraded 8K video recording on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-downgraded-8k-video-recording-3350912/)
+ - [Apple plans to require developers to submit reasons to use certain APIs in their apps starting this fall, to prevent the misuse of those APIs for fingerprinting &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230728/p5#a230728p5)
  - [Model 3 owners love their Teslas but increasingly not Elon Musk: survey](https://www.theverge.com/2023/7/28/23810963/tesla-model-3-survey-bloomberg-2023)
  - [They Didn&#39;t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
- - [Samsung says dust resistance on foldables isn’t easy, but it’s working on it](https://www.androidauthority.com/samsung-dust-resistance-foldables-3350898/)
- - [The SEC&#39;s Paul Munter warns that the accounting firms working with crypto companies could be held liable for misleading public statements made by their clients &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230728/p4#a230728p4)
- - [Next-Gen Mini Boasts Round OLED Screen, Animated Digital Assistant     - CNET](https://www.cnet.com/roadshow/news/next-gen-mini-boasts-round-oled-screen-animated-digital-assistant/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung says dust resistance on foldables isn’t easy, but it’s working on it](https://www.androidauthority.com/samsung-dust-resistance-foldables-3350898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

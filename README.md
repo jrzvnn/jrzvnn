@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new Spider-Man PlayStation 5 console and accessories can now be preordered](https://www.theverge.com/23811154/sony-spiderman-playstation-5-ps5-console-controller-limited-edition-preorder-availability)
  - [The 75th Emmy Awards face postponement due to Hollywood strikes](https://www.theverge.com/2023/7/28/23811069/emmy-awards-delay-hollywood-strikes)
  - [Daily deals: AirTag 4-pack $85, iPhone 11 Pro $360, Apple Watch Series 6 from $180, more](https://appleinsider.com/articles/23/07/28/daily-deals-airtag-4-pack-85-iphone-11-pro-360-apple-watch-series-6-from-180-more?utm_medium=rss)
  - [Sources: NSA is lobbying to oppose an amendment that would prevent the agency from paying data brokers for location data instead of obtaining a warrant in court &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230728/p9#a230728p9)
- - [How Facebook does &lpar;and doesn’t&rpar; shape political views](https://www.theverge.com/2023/7/28/23811015/facebook-political-views-news-feed-algorithm-studies)
- - [Google’s Reading Mode app for Android can save you from the worst of web design](https://www.theverge.com/23811032/google-reading-mode-android-how-to)<!-- TECH:END -->
+ - [How Facebook does &lpar;and doesn’t&rpar; shape political views](https://www.theverge.com/2023/7/28/23811015/facebook-political-views-news-feed-algorithm-studies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at smart guns, which can only be fired by an authorized user, as Colorado-based Biofire prepares to ship a $1,499 handgun in December, after raising $30M &lpar;Zusha Elinson/Wall Street Journal&rpar;](http://www.techmeme.com/230728/p14#a230728p14)
+ - [NASA Is Launching Its Own Streaming Service     - CNET](https://www.cnet.com/tech/services-and-software/nasa-is-launching-its-own-streaming-service/#ftag=CAD590a51e)
+ - [Apple Arcade: Every New Game That Arrived in July     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
  - [Masahiro Sakurai says he ‘can’t really imagine a Smash Bros. title without me’](https://www.theverge.com/2023/7/28/23811665/masahiro-sakurai-smash-bros-without-me)
- - [Meta’s Horizon Worlds mobile app might actually be launching soon](https://www.theverge.com/2023/7/28/23811270/meta-horizon-worlds-mobile-app-super-rumble)
- - [Today I learned they make delightfully retro cassette tape power banks](https://www.theverge.com/23811501/retro-cassette-tape-power-banks-battery-remax)
- - [Best Internet Providers in Scottsdale, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-scottsdale-az/#ftag=CAD590a51e)
- - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [The Best Ice Cream to Order Online     - CNET](https://www.cnet.com/news/best-place-to-order-ice-cream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

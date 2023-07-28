@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
- - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [Climate Morons block road for woman trying to bring her baby to hospital DURING AN EMERGENCY, and doubles down on it... leading to baby being in intensive care for what could&#39;ve been preventable.](http://9gag.com/gag/a6q8pdR)
+ - 💣 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 👉 [Write in English Please](http://9gag.com/gag/a04wO9Q)<!-- MEMES:END -->
 
 ---
 </div>

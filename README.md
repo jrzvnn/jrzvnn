@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X officially rolls out its ads revenue sharing program for creators](https://www.theverge.com/2023/7/28/23811535/x-twitter-ads-revenue-sharing-program-creators)
  - [What is Google’s Enhanced Safe Browsing?](https://www.androidauthority.com/google-enhanced-safe-browsing-3351029/)
  - [US smartphone shipments fell 24% YoY in Q2 2023, the third consecutive quarter of decline; Samsung shipments fell 37% YoY, and Apple&#39;s fell 6% &lpar;Matthew Orf/Counterpoint Research&rpar;](http://www.techmeme.com/230728/p13#a230728p13)
  - [Apple Pencil functionality compromised with third-party iPad parts](https://appleinsider.com/articles/23/07/28/apple-pencil-functionality-compromised-with-third-party-ipad-parts?utm_medium=rss)
- - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
- - [Rare $120 price drop on the epic Sennheiser Momentum 4 headphones](https://www.androidauthority.com/sennheiser-momentum-4-deal-3351037/)<!-- TECH:END -->
+ - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

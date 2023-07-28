@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
+ - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 👉 [Write in English Please](http://9gag.com/gag/a04wO9Q)<!-- MEMES:END -->
 
 ---
 </div>

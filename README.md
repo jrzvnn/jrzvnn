@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 😝 [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
+ - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
  - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
 
 ---

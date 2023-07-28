@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s Ryzen 9 7945HX3D could be its slam-dunk gaming laptop chip](https://www.theverge.com/2023/7/27/23810241/amd-ryzen-9-7945hx3d-processor-asus-rog-strix-scar-17)
+ - [T-Mobile Added 1.6 Million Net Customers as Faster 5G Network Grows     - CNET](https://www.cnet.com/tech/mobile/t-mobile-added-1-6-million-net-customers-as-faster-5-g-network-grows/#ftag=CAD590a51e)
  - [Wiz researchers say two vulnerabilities in the OverlayFS filesystem module in Ubuntu may allow unprivileged local users to gain elevated privileges &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230727/p34#a230727p34)
  - [Verizon and AT&amp;T are charging a new fee to customers on older unlimited plans](https://www.theverge.com/2023/7/27/23810590/verizon-att-unlimited-elite-legacy-plan-rate-adjustment-5g-start)
- - [Intel CEO: ‘We’re going to build AI into every platform we build’](https://www.theverge.com/2023/7/27/23810360/intel-pat-gelsinger-ai-every-platform-promise)
- - [Epic asks U.S. Supreme Court to enforce lower court&#39;s App Store order](https://appleinsider.com/articles/23/07/27/epic-asks-us-supreme-court-to-enforce-lower-courts-app-store-order?utm_medium=rss)
- - [RapidAI, which develops AI-powered software to help diagnose neurovascular, cardiac, and vascular diseases, raised a $75M Series C led by Vista Credit Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230727/p33#a230727p33)<!-- TECH:END -->
+ - [How Another Fed Interest Rate Hike Impacts Your Money     - CNET](https://www.cnet.com/personal-finance/banking/the-fed-just-hiked-rates-again-that-means-different-things-for-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

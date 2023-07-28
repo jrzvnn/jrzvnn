@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
- - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 💣 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
+ - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
 
 ---
 </div>

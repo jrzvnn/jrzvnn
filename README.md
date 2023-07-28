@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto.com says it has received approval from the Netherlands&#39; central bank to offer its services in the country, after a comprehensive review &lpar;Gareth Jenkinson/Cointelegraph&rpar;](http://www.techmeme.com/230728/p7#a230728p7)
  - [AMD plans to invest $400M and create 3,000 new engineering roles in India by 2028 and to build its largest design center in Bengaluru by the end of 2023 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/230728/p6#a230728p6)
  - [Android struggles against iPhone as US smartphone sales drop by a quarter](https://appleinsider.com/articles/23/07/28/android-struggles-against-iphone-as-us-smartphone-sales-drop-by-a-quarter?utm_medium=rss)
  - [Samsung may have downgraded 8K video recording on the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-downgraded-8k-video-recording-3350912/)
- - [Apple plans to require developers to submit reasons to use certain APIs in their apps starting this fall, to prevent the misuse of those APIs for fingerprinting &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230728/p5#a230728p5)
- - [Model 3 owners love their Teslas but increasingly not Elon Musk: survey](https://www.theverge.com/2023/7/28/23810963/tesla-model-3-survey-bloomberg-2023)<!-- TECH:END -->
+ - [Apple plans to require developers to submit reasons to use certain APIs in their apps starting this fall, to prevent the misuse of those APIs for fingerprinting &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230728/p5#a230728p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 💣 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
+ - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
+ - 💣 [Evangelion](http://9gag.com/gag/ap98A99)
+ - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
 
 ---
 </div>

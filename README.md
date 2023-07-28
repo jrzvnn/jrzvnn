@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 💣 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 😝 [Hello](http://9gag.com/gag/a9qBO6Z)
+ - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
  - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 👉 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)<!-- MEMES:END -->
+ - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
 
 ---
 </div>

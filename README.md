@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)
- - 😝 [Hmmm. Just sugar?](http://9gag.com/gag/aDYMP9w)
- - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [They called it for what it is.](http://9gag.com/gag/aDYMPzw)
- - 👉 [FACTS](http://9gag.com/gag/aGEbb4w)<!-- MEMES:END -->
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 💣 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
+ - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
+ - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
 
 ---
 </div>

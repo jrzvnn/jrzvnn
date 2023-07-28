@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 😝 [Climate Morons block road for woman trying to bring her baby to hospital DURING AN EMERGENCY, and doubles down on it... leading to baby being in intensive care for what could&#39;ve been preventable.](http://9gag.com/gag/a6q8pdR)
- - 💣 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
- - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 👉 [Write in English Please](http://9gag.com/gag/a04wO9Q)<!-- MEMES:END -->
+ - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 😝 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 👉 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)<!-- MEMES:END -->
 
 ---
 </div>

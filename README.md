@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s metaverse VP Vishal Shah on a reboot of Horizon Worlds, starting with a Super Rumble game, a new mobile app, and a transition from VR only to VR first &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230728/p11#a230728p11)
  - [Samsung is working on dustproofing its foldables](https://www.theverge.com/2023/7/28/23811115/samsung-galaxy-z-fold-flip-dustproof-rating-tm-roh)
  - [Adding clean energy to the US power grid just got a lot easier](https://www.theverge.com/2023/7/28/23811031/ferc-renewable-energy-solar-wind-project-interconnection-electricity-grid)
  - [Galaxy S23 FE spotted in new listing, expect slow wireless charging](https://www.androidauthority.com/samsung-galaxy-s23-fe-listing-3350980/)
- - [NASA plans to launch the free streaming service NASA+ later this year on the web, iOS, Android, and streaming media devices, with ad-free original content &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230728/p10#a230728p10)
- - [Sanrio brings Hello Kitty to Apple Arcade with &#39;Hello Kitty Island Adventure&#39;](https://appleinsider.com/articles/23/07/28/sanrio-brings-hello-kitty-to-apple-arcade-with-hello-kitty-island-adventure?utm_medium=rss)<!-- TECH:END -->
+ - [NASA plans to launch the free streaming service NASA+ later this year on the web, iOS, Android, and streaming media devices, with ad-free original content &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230728/p10#a230728p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

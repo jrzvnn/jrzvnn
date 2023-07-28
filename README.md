@@ -156,9 +156,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 💣 [Climate Morons block road for woman trying to bring her baby to hospital DURING AN EMERGENCY, and doubles down on it... leading to baby being in intensive care for what could&#39;ve been preventable.](http://9gag.com/gag/a6q8pdR)
- - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 😝 [For the village.](http://9gag.com/gag/aGEb2dG)
+ - 💣 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 😝 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
  - 👉 [Shit happens](http://9gag.com/gag/ajVyxDR)<!-- MEMES:END -->
 
 ---

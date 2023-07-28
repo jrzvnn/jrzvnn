@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
  - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 💣 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
+ - 💣 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
+ - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
+ - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple cracks down on apps identifying users through device fingerprinting](https://appleinsider.com/articles/23/07/28/apple-cracks-down-on-apps-identifying-users-through-device-fingerprinting?utm_medium=rss)
  - [Sources: Microsoft&#39;s M12 has sold shares of some of its portfolio companies at 30% to 70% discount on secondary exchanges; Microsoft says it sold &lt;10 companies &lpar;Insider&rpar;](http://www.techmeme.com/230728/p3#a230728p3)
  - [You might have to wait a really long time for the Galaxy Ring](https://www.androidauthority.com/samsung-galaxy-ring-launch-window-3350882/)
  - [Sony’s first PS5 sale brings steep price drops to UK, Germany, India, and beyond](https://www.theverge.com/2023/7/28/23810929/sony-ps5-sale-uk-ireland-india-germany-price-drop)
- - [How to open any app on Galaxy Z Flip 5’s cover screen](https://www.androidauthority.com/good-lock-samsung-galaxy-z-flip-5-3350208/)
- - [OnePlus Nord 3 review: Should you buy it?](https://www.androidauthority.com/oneplus-nord-3-review-3342206/)<!-- TECH:END -->
+ - [How to open any app on Galaxy Z Flip 5’s cover screen](https://www.androidauthority.com/good-lock-samsung-galaxy-z-flip-5-3350208/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

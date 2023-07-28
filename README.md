@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 💣 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
  - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
+ - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
+ - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 👉 [Dude got robbed](http://9gag.com/gag/axo4YLb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sennheiser’s plush and comfy Momentum 4 headphones are $120 off](https://www.theverge.com/2023/7/28/23811027/sennheiser-momentum-4-apple-magsafe-iphone-charger-bose-soundlink-flex-deal-sale)
  - [Don’t hate on Ford’s big, gas-guzzling trucks, because they’re funding its electric future](https://www.theverge.com/2023/7/28/23811222/ford-q2-2023-earnings-ev-loss-production-slow)
  - [John Romero&#39;s Doom Memoir Is Full of Fascinating Details](https://www.wired.com/2023/07/geeks-guide-john-romero/)
  - [Meta&#39;s metaverse VP Vishal Shah on a reboot of Horizon Worlds, starting with a Super Rumble game, a new mobile app, and a transition from VR only to VR first &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230728/p11#a230728p11)
- - [Samsung is working on dustproofing its foldables](https://www.theverge.com/2023/7/28/23811115/samsung-galaxy-z-fold-flip-dustproof-rating-tm-roh)
- - [Spider-Man 2 Limited Edition PS5 Consoles, Accessories Shipping in September     - CNET](https://www.cnet.com/tech/gaming/spider-man-2-limited-edition-ps5-consoles-accessories-shipping-in-september/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung is working on dustproofing its foldables](https://www.theverge.com/2023/7/28/23811115/samsung-galaxy-z-fold-flip-dustproof-rating-tm-roh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

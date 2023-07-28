@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
- - 💣 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
+ - 😝 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)
+ - 😝 [More like The Little Siren](http://9gag.com/gag/a4oVVjy)
+ - 💣 [I may be late but I was working with Joe](http://9gag.com/gag/aKEpLyb)
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 👉 [Christmas is over](http://9gag.com/gag/abvEd18)<!-- MEMES:END -->
 
 ---
 </div>

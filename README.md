@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Masahiro Sakurai says he ‘can’t really imagine a Smash Bros. title without me’](https://www.theverge.com/2023/7/28/23811665/masahiro-sakurai-smash-bros-without-me)
  - [Meta’s Horizon Worlds mobile app might actually be launching soon](https://www.theverge.com/2023/7/28/23811270/meta-horizon-worlds-mobile-app-super-rumble)
  - [Today I learned they make delightfully retro cassette tape power banks](https://www.theverge.com/23811501/retro-cassette-tape-power-banks-battery-remax)
  - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 41 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The 26 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [The 41 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

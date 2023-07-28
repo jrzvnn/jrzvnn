@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You might have to wait a really long time for the Galaxy Ring](https://www.androidauthority.com/samsung-galaxy-ring-launch-window-3350882/)
  - [Sony’s first PS5 sale brings steep price drops to UK, Germany, India, and beyond](https://www.theverge.com/2023/7/28/23810929/sony-ps5-sale-uk-ireland-india-germany-price-drop)
  - [How to open any app on Galaxy Z Flip 5’s cover screen](https://www.androidauthority.com/good-lock-samsung-galaxy-z-flip-5-3350208/)
  - [OnePlus Nord 3 review: Should you buy it?](https://www.androidauthority.com/oneplus-nord-3-review-3342206/)
- - [Android’s earthquake alerts may have failed during deadly Turkey quake](https://www.androidauthority.com/android-earthquake-detection-system-fail-turkey-3350504/)
- - [Elon Musk capitulates: Twitter will default to dark mode, but still offer a light option](https://www.theverge.com/2023/7/27/23810140/elon-musk-twitter-x-dark-mode-only)<!-- TECH:END -->
+ - [Android’s earthquake alerts may have failed during deadly Turkey quake](https://www.androidauthority.com/android-earthquake-detection-system-fail-turkey-3350504/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

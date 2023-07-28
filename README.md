@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung says dust resistance on foldables isn’t easy, but it’s working on it](https://www.androidauthority.com/samsung-dust-resistance-foldables-3350898/)
  - [The SEC&#39;s Paul Munter warns that the accounting firms working with crypto companies could be held liable for misleading public statements made by their clients &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230728/p4#a230728p4)
+ - [Next-Gen Mini Boasts Round OLED Screen, Animated Digital Assistant     - CNET](https://www.cnet.com/roadshow/news/next-gen-mini-boasts-round-oled-screen-animated-digital-assistant/#ftag=CAD590a51e)
  - [I Looked Into Sam Altman’s Orb and All I Got Was This Lousy Crypto](https://www.wired.com/story/sam-altman-orb-worldcoin-tools-for-humanity/)
- - [Apple cracks down on apps identifying users through device fingerprinting](https://appleinsider.com/articles/23/07/28/apple-cracks-down-on-apps-identifying-users-through-device-fingerprinting?utm_medium=rss)
- - [Sources: Microsoft&#39;s M12 has sold shares of some of its portfolio companies at 30% to 70% discount on secondary exchanges; Microsoft says it sold &lt;10 companies &lpar;Insider&rpar;](http://www.techmeme.com/230728/p3#a230728p3)
- - [Sony’s first PS5 sale brings steep price drops to UK, Germany, India, and beyond](https://www.theverge.com/2023/7/28/23810929/sony-ps5-sale-uk-ireland-india-germany-price-drop)<!-- TECH:END -->
+ - [Apple cracks down on apps identifying users through device fingerprinting](https://appleinsider.com/articles/23/07/28/apple-cracks-down-on-apps-identifying-users-through-device-fingerprinting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

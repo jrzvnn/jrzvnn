@@ -155,10 +155,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
+ - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
  - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 💣 [Meanwhile in the USA &lpar;New York&rpar;](http://9gag.com/gag/aA0ZMbg)
+ - 😝 [Attack from behind](http://9gag.com/gag/aDYMV09)
  - 👉 [Write in English Please](http://9gag.com/gag/a04wO9Q)<!-- MEMES:END -->
 
 ---

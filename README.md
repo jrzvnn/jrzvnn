@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
- - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 👉 [Christmas is over](http://9gag.com/gag/abvEd18)<!-- MEMES:END -->
+ - 😝 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 💣 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
 
 ---
 </div>

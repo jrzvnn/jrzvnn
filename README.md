@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
  - [When You Drop a Rock Overboard, What Happens to the Water Level?](https://www.wired.com/story/when-you-drop-a-rock-overboard-what-happens-to-the-water-level/)
  - [14 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [The Shocking Success of &#39;Barbie&#39;](https://www.wired.com/story/barbie-box-office-oppenheimer/)
- - [Hands On With Google Search’s Answer to ChatGPT](https://www.wired.com/story/plaintext-hands-on-with-google-searchs-answer-to-chatgpt/)<!-- TECH:END -->
+ - [The Shocking Success of &#39;Barbie&#39;](https://www.wired.com/story/barbie-box-office-oppenheimer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

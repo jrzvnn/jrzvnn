@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: NSA is lobbying to oppose an amendment that would prevent the agency from paying data brokers for location data instead of obtaining a warrant in court &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230728/p9#a230728p9)
  - [How Facebook does &lpar;and doesn’t&rpar; shape political views](https://www.theverge.com/2023/7/28/23811015/facebook-political-views-news-feed-algorithm-studies)
  - [Google’s Reading Mode app for Android can save you from the worst of web design](https://www.theverge.com/23811032/google-reading-mode-android-how-to)
  - [Sanrio brings Hello Kitty to Apple Arcade with &#39;Hello Kitty Island Adventure&#39;](https://appleinsider.com/articles/23/07/28/sanrio-brings-hello-kitty-to-apple-arcade-with-hello-kitty-island-adventure?utm_medium=rss)
- - [Google was the only brand to grow in the US &lpar;but there’s an asterisk&rpar;](https://www.androidauthority.com/us-market-q2-2023-google-3350950/)
- - [The Verge staff chats about our favorite backpacks, slings, and bags](https://www.theverge.com/23809717/backpack-bag-sling-favorite-laptop-phone-tech-fanny-pack)<!-- TECH:END -->
+ - [Google was the only brand to grow in the US &lpar;but there’s an asterisk&rpar;](https://www.androidauthority.com/us-market-q2-2023-google-3350950/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

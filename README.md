@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Twitter will soon only offer dark mode because it’s “better in every way”](https://www.theverge.com/2023/7/27/23810140/elon-musk-twitter-x-dark-mode-only)
  - [AMD announces Ryzen 9 7945HX3D, its first mobile CPU based on 3D V-cache packaging, with 16 Zen 4 CPU cores and a 2.3GHz base frequency, available on August 22 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230728/p2#a230728p2)
  - [Samsung Galaxy Z Fold 5 battery and charging speeds: How long does it last?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-battery-life-charging-speeds-3350140/)
  - [To build a super app like those in Asia, Elon Musk will face issues such as cultural differences and regulatory scrutiny, like Meta, Snap, and Uber did before &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/230728/p1#a230728p1)
- - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)
- - [At an internal town hall, Chris Cox said Meta is looking to add more &quot;retention-driving hooks&quot; to Threads, like showing Instagram users important Threads &lpar;Reuters&rpar;](http://www.techmeme.com/230727/p38#a230727p38)<!-- TECH:END -->
+ - [AT&amp;T Is Raising the Rates for Its Older Unlimited Elite Plans     - CNET](https://www.cnet.com/tech/mobile/at-t-is-raising-the-rates-for-its-older-unlimited-elite-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

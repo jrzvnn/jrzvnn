@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
  - [Rare $120 price drop on the epic Sennheiser Momentum 4 headphones](https://www.androidauthority.com/sennheiser-momentum-4-deal-3351037/)
  - [How to set up Center Stage in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-up-center-stage-in-macos-sonoma?utm_medium=rss)
  - [Final Fantasy XIV’s latest expansion is a tropical vacation](https://www.theverge.com/2023/7/28/23811405/final-fantasy-xiv-7-0-new-expansion-dawntrail)
- - [Verizon and AT&amp;T are charging a new fee to customers on older unlimited plans](https://www.theverge.com/2023/7/27/23810590/verizon-att-unlimited-elite-legacy-plan-rate-adjustment-5g-start)
- - [Wireless earbuds can actually help you hear conversations better](https://www.theverge.com/23811197/hearing-conversation-apple-airpods-pro-samsung-galaxy-buds-otc-aids)<!-- TECH:END -->
+ - [Verizon and AT&amp;T are charging a new fee to customers on older unlimited plans](https://www.theverge.com/2023/7/27/23810590/verizon-att-unlimited-elite-legacy-plan-rate-adjustment-5g-start)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

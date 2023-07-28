@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
  - 💣 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 😝 [Evangelion](http://9gag.com/gag/ap98A99)
- - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
+ - 😝 [Uhhh](http://9gag.com/gag/armzx7X)
+ - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
 
 ---
 </div>

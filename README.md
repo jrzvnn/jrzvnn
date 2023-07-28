@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Model 3 owners love their Teslas but increasingly not Elon Musk: survey](https://www.theverge.com/2023/7/28/23810963/tesla-model-3-survey-bloomberg-2023)
+ - [They Didn&#39;t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
  - [Samsung says dust resistance on foldables isn’t easy, but it’s working on it](https://www.androidauthority.com/samsung-dust-resistance-foldables-3350898/)
  - [The SEC&#39;s Paul Munter warns that the accounting firms working with crypto companies could be held liable for misleading public statements made by their clients &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230728/p4#a230728p4)
- - [Next-Gen Mini Boasts Round OLED Screen, Animated Digital Assistant     - CNET](https://www.cnet.com/roadshow/news/next-gen-mini-boasts-round-oled-screen-animated-digital-assistant/#ftag=CAD590a51e)
- - [I Looked Into Sam Altman’s Orb and All I Got Was This Lousy Crypto](https://www.wired.com/story/sam-altman-orb-worldcoin-tools-for-humanity/)
- - [Apple cracks down on apps identifying users through device fingerprinting](https://appleinsider.com/articles/23/07/28/apple-cracks-down-on-apps-identifying-users-through-device-fingerprinting?utm_medium=rss)<!-- TECH:END -->
+ - [Next-Gen Mini Boasts Round OLED Screen, Animated Digital Assistant     - CNET](https://www.cnet.com/roadshow/news/next-gen-mini-boasts-round-oled-screen-animated-digital-assistant/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)
- - 😝 [More like The Little Siren](http://9gag.com/gag/a4oVVjy)
- - 💣 [I may be late but I was working with Joe](http://9gag.com/gag/aKEpLyb)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 👉 [Christmas is over](http://9gag.com/gag/abvEd18)<!-- MEMES:END -->
+ - 😝 [Hmmm. Just sugar?](http://9gag.com/gag/aDYMP9w)
+ - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [They called it for what it is.](http://9gag.com/gag/aDYMPzw)
+ - 👉 [FACTS](http://9gag.com/gag/aGEbb4w)<!-- MEMES:END -->
 
 ---
 </div>

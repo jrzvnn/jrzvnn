@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
  - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 💣 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
  - 😝 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
- - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
+ - 👉 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)<!-- MEMES:END -->
 
 ---
 </div>

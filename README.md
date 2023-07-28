@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google was the only brand to grow in the US &lpar;but there’s an asterisk&rpar;](https://www.androidauthority.com/us-market-q2-2023-google-3350950/)
  - [The Verge staff chats about our favorite backpacks, slings, and bags](https://www.theverge.com/23809717/backpack-bag-sling-favorite-laptop-phone-tech-fanny-pack)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
- - [When You Drop a Rock Overboard, What Happens to the Water Level?](https://www.wired.com/story/when-you-drop-a-rock-overboard-what-happens-to-the-water-level/)
- - [14 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
+ - [When You Drop a Rock Overboard, What Happens to the Water Level?](https://www.wired.com/story/when-you-drop-a-rock-overboard-what-happens-to-the-water-level/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

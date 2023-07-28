@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Fantasy XIV’s latest expansion is a tropical vacation](https://www.theverge.com/2023/7/28/23811405/final-fantasy-xiv-7-0-new-expansion-dawntrail)
  - [Verizon and AT&amp;T are charging a new fee to customers on older unlimited plans](https://www.theverge.com/2023/7/27/23810590/verizon-att-unlimited-elite-legacy-plan-rate-adjustment-5g-start)
  - [Wireless earbuds can actually help you hear conversations better](https://www.theverge.com/23811197/hearing-conversation-apple-airpods-pro-samsung-galaxy-buds-otc-aids)
  - [Stop filming concerts](https://www.theverge.com/23811133/instagram-stories-iphone-concert-footage-sotp)
- - [Google’s latest robot can offer you an energy drink](https://www.theverge.com/2023/7/28/23811109/google-smart-robot-generative-ai)
- - [NASA Plus is the latest streaming competitor](https://www.theverge.com/2023/7/28/23811235/nasa-plus-streaming-service-announce)<!-- TECH:END -->
+ - [Google’s latest robot can offer you an energy drink](https://www.theverge.com/2023/7/28/23811109/google-smart-robot-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 😝 [Dude tries to fill a 20 litter bucket with a purchase of a free refill soda at Burger King](http://9gag.com/gag/a9qBmvo)
- - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
+ - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
+ - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 💣 [Climate Morons block road for woman trying to bring her baby to hospital DURING AN EMERGENCY, and doubles down on it... leading to baby being in intensive care for what could&#39;ve been preventable.](http://9gag.com/gag/a6q8pdR)
  - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 👉 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)<!-- MEMES:END -->
+ - 👉 [Shit happens](http://9gag.com/gag/ajVyxDR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The British Museum partners with Ethereum-based metaverse game The Sandbox to create NFTs showing the museum&#39;s collections and offer &quot;new immersive experiences&quot; &lpar;Stephanie Hirschmiller/Decrypt&rpar;](http://www.techmeme.com/230728/p15#a230728p15)
  - [Uber&#39;s Fatal Self-Driving Car Crash Saga Ends With the Operator Avoiding Prison](https://www.wired.com/story/ubers-fatal-self-driving-car-crash-saga-over-operator-avoids-prison/)
  - [A look at smart guns, which can only be fired by an authorized user, as Colorado-based Biofire prepares to ship a $1,499 handgun in December, after raising $30M &lpar;Zusha Elinson/Wall Street Journal&rpar;](http://www.techmeme.com/230728/p14#a230728p14)
  - [iPhone 15 Could Have an Action Button     - CNET](https://www.cnet.com/tech/mobile/iphone-15-could-have-an-action-button/#ftag=CAD590a51e)
- - [NASA Is Launching Its Own Streaming Service     - CNET](https://www.cnet.com/tech/services-and-software/nasa-is-launching-its-own-streaming-service/#ftag=CAD590a51e)
- - [Apple Arcade: Every New Game That Arrived in July     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA Is Launching Its Own Streaming Service     - CNET](https://www.cnet.com/tech/services-and-software/nasa-is-launching-its-own-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

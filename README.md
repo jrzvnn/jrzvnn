@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA plans to launch the free streaming service NASA+ later this year on the web, iOS, Android, and streaming media devices, with ad-free original content &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230728/p10#a230728p10)
+ - [Sanrio brings Hello Kitty to Apple Arcade with &#39;Hello Kitty Island Adventure&#39;](https://appleinsider.com/articles/23/07/28/sanrio-brings-hello-kitty-to-apple-arcade-with-hello-kitty-island-adventure?utm_medium=rss)
+ - [Donald Glover and his brother, Stephen, are writing Disney Plus’ Lando series](https://www.theverge.com/2023/7/28/23811085/star-wars-lando-disney-plus-donald-glover-stephen)
  - [Sony’s new Spider-Man PlayStation 5 console and accessories can now be preordered](https://www.theverge.com/23811154/sony-spiderman-playstation-5-ps5-console-controller-limited-edition-preorder-availability)
- - [The 75th Emmy Awards face postponement due to Hollywood strikes](https://www.theverge.com/2023/7/28/23811069/emmy-awards-delay-hollywood-strikes)
- - [Daily deals: AirTag 4-pack $85, iPhone 11 Pro $360, Apple Watch Series 6 from $180, more](https://appleinsider.com/articles/23/07/28/daily-deals-airtag-4-pack-85-iphone-11-pro-360-apple-watch-series-6-from-180-more?utm_medium=rss)
- - [Sources: NSA is lobbying to oppose an amendment that would prevent the agency from paying data brokers for location data instead of obtaining a warrant in court &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230728/p9#a230728p9)
- - [How Facebook does &lpar;and doesn’t&rpar; shape political views](https://www.theverge.com/2023/7/28/23811015/facebook-political-views-news-feed-algorithm-studies)<!-- TECH:END -->
+ - [The 75th Emmy Awards face postponement due to Hollywood strikes](https://www.theverge.com/2023/7/28/23811069/emmy-awards-delay-hollywood-strikes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

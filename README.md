@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
- - 😝 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 😝 [Shit happens](http://9gag.com/gag/ajVyxDR)
+ - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
  - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
  - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
+ - 👉 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)<!-- MEMES:END -->
 
 ---
 </div>

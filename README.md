@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches RT-2 or Robotics Transformer 2, a &quot;vision-language-action&quot; model trained on text and images from the web that can output robotic actions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230728/p8#a230728p8)
+ - [iPhone 15 rumors, iOS 17 beta 4, and MacBook Air struggles on the AppleInsider podcast](https://appleinsider.com/articles/23/07/28/iphone-15-rumors-ios-17-beta-4-and-macbook-air-struggles-on-the-appleinsider-podcast?utm_medium=rss)
  - [Apple is the worst tech firm for losing staff, claims flawed report](https://appleinsider.com/articles/23/07/28/apple-is-the-worst-tech-firm-for-losing-staff-claims-flawed-report?utm_medium=rss)
  - [Here’s what it’s like at the world’s largest Samsung store](https://www.androidauthority.com/samsung-flagship-store-3349785/)
- - [7 Best Google Assistant Speakers &lpar;2023&rpar;: Smart Displays, Portable, and Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
- - [Garmin Fenix 7S Pro review: too much of the same](https://www.theverge.com/23809801/garmin-fenix-7s-pro-review-smartwatch-wearables)
- - [Crypto.com says it has received approval from the Netherlands&#39; central bank to offer its services in the country, after a comprehensive review &lpar;Gareth Jenkinson/Cointelegraph&rpar;](http://www.techmeme.com/230728/p7#a230728p7)<!-- TECH:END -->
+ - [My Galaxy Z Flip 5 Impressions After Using It for a Day     - CNET](https://www.cnet.com/tech/mobile/my-galaxy-z-flip-5-impressions-after-using-it-for-a-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

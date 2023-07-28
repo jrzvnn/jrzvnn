@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 💣 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
  - 😝 [Mitch McConnell, age 81, suddenly freezes during press conference and has to be helped away from podium today](http://9gag.com/gag/az2QRmq)
- - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
+ - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
+ - 💣 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
 
 ---
 </div>

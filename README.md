@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still can\u2019t believe this was a lie](http://9gag.com/gag/aeQW7EQ)
- - 😝 [Twitter users need some therapy](http://9gag.com/gag/a9qBX2L)
- - 💣 [Fellas, take notes; This trick works 90% of the time!](http://9gag.com/gag/avQmv15)
- - 😝 [Olha Kharlan everyone!](http://9gag.com/gag/aMEyOO6)
- - 👉 [Respect!!](http://9gag.com/gag/aXne2QP)<!-- MEMES:END -->
+ - 😝 [She forgave herself. What\u2019s his problem? Lol](http://9gag.com/gag/aVbBZLw)
+ - 😝 [Wish my job was this easy ngl](http://9gag.com/gag/aZDvQ6W)
+ - 💣 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
 
 ---
 </div>

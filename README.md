@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Biden admin is looking for malware it believes China hid inside critical infrastructure, mainly aimed to disrupt the military if a conflict emerges &lpar;New York Times&rpar;](http://www.techmeme.com/230729/p9#a230729p9)
  - [Barnes &amp; Noble is reinventing itself, but not its e-readers](https://www.theverge.com/2023/7/29/23787280/barnes-noble-nook-ereader-daunt-reinvention-eink)
  - [Keychron Q3 Pro SE review: mechanical macro mastery](https://appleinsider.com/articles/23/07/29/keychron-q3-pro-se-review-mechanical-macro-mastery?utm_medium=rss)
  - [A profile of Mike Masnick, who founded Techdirt in 1998, considered by lawmakers, CEOs, and activists as an essential guide for what&#39;s happening in tech &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230729/p8#a230729p8)
- - [Adam Mosseri and current and former employees recount how Threads came to life with a small team focused on shipping a bare-bones app on a breakneck schedule &lpar;Washington Post&rpar;](http://www.techmeme.com/230729/p7#a230729p7)
- - [Samsung, not Google, is why I’m confident about the future of Android tablets](https://www.androidauthority.com/future-android-tablet-samsung-3350146/)<!-- TECH:END -->
+ - [Adam Mosseri and current and former employees recount how Threads came to life with a small team focused on shipping a bare-bones app on a breakneck schedule &lpar;Washington Post&rpar;](http://www.techmeme.com/230729/p7#a230729p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

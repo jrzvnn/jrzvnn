@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
- - 😝 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
- - 💣 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 👉 [Hello](http://9gag.com/gag/a9qBO6Z)<!-- MEMES:END -->
+ - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
+ - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 💣 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
+ - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
 
 ---
 </div>

@@ -147,10 +147,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [YouTube officially launches Multiview for YouTube TV and Primetime Channels, starting with WNBA games, but with no mobile and web support and other limits &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230728/p16#a230728p16)
+ - [Smartphone Shipments Have Dropped 24%, Analysts Say     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-have-dropped-24-percent-according-to-analysts/#ftag=CAD590a51e)
  - [Google&#39;s New AI Tech Lets You Command Robots to Throw Away Your Trash     - CNET](https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash/#ftag=CAD590a51e)
  - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
- - [The British Museum partners with Ethereum-based metaverse game The Sandbox to create NFTs showing the museum&#39;s collections and offer &quot;new immersive experiences&quot; &lpar;Stephanie Hirschmiller/Decrypt&rpar;](http://www.techmeme.com/230728/p15#a230728p15)
- - [Uber&#39;s Fatal Self-Driving Car Crash Saga Ends With the Operator Avoiding Prison](https://www.wired.com/story/ubers-fatal-self-driving-car-crash-saga-over-operator-avoids-prison/)<!-- TECH:END -->
+ - [The British Museum partners with Ethereum-based metaverse game The Sandbox to create NFTs showing the museum&#39;s collections and offer &quot;new immersive experiences&quot; &lpar;Stephanie Hirschmiller/Decrypt&rpar;](http://www.techmeme.com/230728/p15#a230728p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

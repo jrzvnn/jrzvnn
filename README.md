@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 💣 [Missing millionaire crypto influencer Fernando P\u00e9rez Algaba found dismembered in suitcase.](http://9gag.com/gag/aOxGpZN)
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 👉 [Hello](http://9gag.com/gag/a9qBO6Z)<!-- MEMES:END -->
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
+ - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
 
 ---
 </div>

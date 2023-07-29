@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Hong Kong judge rejects a government bid to ban the online dissemination of pro-democracy song &quot;Glory to Hong Kong&quot; on Google and other sites &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230729/p3#a230729p3)
  - [The backup driver of a self-driving Uber that killed a pedestrian in Arizona in 2018 pleads guilty to endangerment, in the first automated vehicle fatality case &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/230729/p2#a230729p2)
  - [Internal Meta emails: Facebook removed content about COVID-19 under pressure from the Biden administration, including posts claiming the virus was man-made &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230729/p1#a230729p1)
  - [Twitter/X officially rolls out its ads revenue sharing program for eligible users globally, after giving some creators payouts earlier this month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230728/p17#a230728p17)
- - [YouTube officially launches Multiview for YouTube TV and Primetime Channels, starting with WNBA games, but with no mobile and web support and other limits &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230728/p16#a230728p16)
- - [Smartphone Shipments Have Dropped 24%, Analysts Say     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-have-dropped-24-percent-according-to-analysts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube officially launches Multiview for YouTube TV and Primetime Channels, starting with WNBA games, but with no mobile and web support and other limits &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230728/p16#a230728p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

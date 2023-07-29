@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
+ - 💣 [Christmas is over](http://9gag.com/gag/abvEd18)
  - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 💣 [Airport security](http://9gag.com/gag/a8qzV3d)
- - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 👉 [Christmas is over](http://9gag.com/gag/abvEd18)<!-- MEMES:END -->
+ - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 😝 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
- - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [P\u00a3N!S](http://9gag.com/gag/aWG9A6q)
- - 👉 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 💣 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 👉 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)<!-- MEMES:END -->
 
 ---
 </div>

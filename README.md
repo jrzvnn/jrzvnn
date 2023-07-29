@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish UFC Fighter Jan Blachowicz, a man of a great culture](http://9gag.com/gag/aL1rNEM)
- - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 💣 [Dude got robbed](http://9gag.com/gag/axo4YLb)
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
+ - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
  - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
+ - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
 
 ---
 </div>

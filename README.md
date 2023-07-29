@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Believe me: This Video is From 2023](http://9gag.com/gag/aBdoOq1)
- - 😝 [FACTS](http://9gag.com/gag/aGEbb4w)
- - 💣 [How old are you?....you smell nice.](http://9gag.com/gag/aA0Zmoo)
- - 😝 [Hmm..](http://9gag.com/gag/aBdov0Z)
- - 👉 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)<!-- MEMES:END -->
+ - 😝 [Evangelion](http://9gag.com/gag/ap98A99)
+ - 😝 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
+ - 💣 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 👉 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)<!-- MEMES:END -->
 
 ---
 </div>

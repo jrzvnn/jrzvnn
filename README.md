@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exclusive: These are the new Pixel Watch 2 watch faces](https://www.androidauthority.com/exclusive-pixel-watch-2-watch-faces-3347238/)
  - [The 12 Best Games on Xbox Game Pass &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
  - [Etsy sellers say a fraud protection program is destabilizing their businesses](https://www.theverge.com/2023/7/29/23810536/etsy-sellers-payment-reserves-fraud-protection)
  - [The Tile Mate and Apple’s AirTags have dropped to some of their best prices](https://www.theverge.com/2023/7/29/23811146/tile-mate-apple-airtag-case-mate-fuel-usb-c-charger-samsung-galaxy-z-flip-5-deal-sale)
- - [‘Call of Duty: Modern Warfare 2’ Players Hit With Worm Malware](https://www.wired.com/story/call-of-duty-modern-warfare-2-malware/)
- - [&#39;Talk to Me&#39; Is Horror Made by and for the Internet Generation](https://www.wired.com/story/talk-to-me-movie-review/)<!-- TECH:END -->
+ - [‘Call of Duty: Modern Warfare 2’ Players Hit With Worm Malware](https://www.wired.com/story/call-of-duty-modern-warfare-2-malware/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

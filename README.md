@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
- - 😝 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)
+ - 😝 [I wish i could pet them](http://9gag.com/gag/ajVyW3G)
+ - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
  - 💣 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
- - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
- - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
+ - 😝 [For the village.](http://9gag.com/gag/aGEb2dG)
+ - 👉 [Dude got robbed](http://9gag.com/gag/axo4YLb)<!-- MEMES:END -->
 
 ---
 </div>

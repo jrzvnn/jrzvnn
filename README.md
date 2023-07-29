@@ -156,10 +156,10 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 💣 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
+ - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
+ - 💣 [Airport security](http://9gag.com/gag/a8qzV3d)
  - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
+ - 👉 [Christmas is over](http://9gag.com/gag/abvEd18)<!-- MEMES:END -->
 
 ---
 </div>

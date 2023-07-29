@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite TikTok prohibiting branded content promoting alcohol, some creators say they&#39;re sponsored by alcohol brands, and they drink excessively to promote them &lpar;Jessica Lucas/HuffPost&rpar;](http://www.techmeme.com/230729/p10#a230729p10)
  - [AirTag assists in rescue of bicycle after airline lost it](https://appleinsider.com/articles/23/07/29/cyclist-tracks-bicycle-lost-by-airline-using-airtag?utm_medium=rss)
  - [The buttons on Zenith’s original ‘clicker’ remote were a mechanical marvel](https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month)
  - [Apple Watch Series 8 vs Samsung Galaxy Watch 6 - compared](https://appleinsider.com/inside/apple-watch-series-8/vs/apple-watch-series-8-vs-samsung-galaxy-watch-6---compared?utm_medium=rss)
- - [Sources: the Biden admin is looking for malware it believes China hid inside critical infrastructure, mainly aimed to disrupt the military if a conflict emerges &lpar;New York Times&rpar;](http://www.techmeme.com/230729/p9#a230729p9)
- - [Barnes &amp; Noble is reinventing itself, but not its e-readers](https://www.theverge.com/2023/7/29/23787280/barnes-noble-nook-ereader-daunt-reinvention-eink)<!-- TECH:END -->
+ - [Sources: the Biden admin is looking for malware it believes China hid inside critical infrastructure, mainly aimed to disrupt the military if a conflict emerges &lpar;New York Times&rpar;](http://www.techmeme.com/230729/p9#a230729p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

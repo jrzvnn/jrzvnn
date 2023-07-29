@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tick tock](http://9gag.com/gag/avQmXVX)
- - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
- - 💣 [Up to the top](http://9gag.com/gag/aeQWPLb)
- - 😝 [Milk](http://9gag.com/gag/abvEm6E)
- - 👉 [*Anthem of the sowiet union starts playing*](http://9gag.com/gag/a4oVmnp)<!-- MEMES:END -->
+ - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 💣 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
+ - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
+ - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Indian nonprofit Karya, which sells AI training data and redirects all the profit to its workers, who retain ownership of the data they create &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/230729/p5#a230729p5)
  - [The Weekly Authority: 📦 Galaxy Unpacked, unpacked plus Google’s foldable tablet](https://www.androidauthority.com/the-weekly-authority-july-29-2023-255-3350657/)
  - [This Is the Era of Zombie Twitter](https://www.wired.com/story/x-twitter-rebrand-dead/)
  - [16 Best Deals: Home Office and Dorm Room Essentials](https://www.wired.com/story/weekend-deals-july-29-2023/)
- - [Amazon Echo Dot &lpar;5th Gen&rpar; Review: The Best Echo on a Budget     - CNET](https://www.cnet.com/home/smart-home/amazon-echo-dot-5th-gen-review-the-best-echo-on-a-budget/#ftag=CAD590a51e)
- - [66 Best Star Wars Gifts for 2023: Top Picks From the Biggest Nerds in the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Echo Dot &lpar;5th Gen&rpar; Review: The Best Echo on a Budget     - CNET](https://www.cnet.com/home/smart-home/amazon-echo-dot-5th-gen-review-the-best-echo-on-a-budget/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

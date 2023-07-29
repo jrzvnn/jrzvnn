@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
  - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)
- - 👉 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)<!-- MEMES:END -->
+ - 😝 [Hello](http://9gag.com/gag/a9qBO6Z)
+ - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Missing millionaire crypto influencer Fernando P\u00e9rez Algaba found dismembered in suitcase.](http://9gag.com/gag/aOxGpZN)
+ - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
 
 ---
 </div>

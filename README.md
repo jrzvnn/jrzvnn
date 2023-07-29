@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
- - 👉 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)<!-- MEMES:END -->
+ - 😝 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 💣 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
+ - 👉 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)<!-- MEMES:END -->
 
 ---
 </div>

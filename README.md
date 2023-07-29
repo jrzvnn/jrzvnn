@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
- - 😝 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)
- - 💣 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
+ - 😝 [This is beyond science](http://9gag.com/gag/az2QZ0N)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 💣 [Missing millionaire crypto influencer Fernando P\u00e9rez Algaba found dismembered in suitcase.](http://9gag.com/gag/aOxGpZN)
+ - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 👉 [Hello](http://9gag.com/gag/a9qBO6Z)<!-- MEMES:END -->
 
 ---
 </div>

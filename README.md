@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 💣 [Post](http://9gag.com/gag/abvEmD9)
- - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 👉 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)<!-- MEMES:END -->
+ - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 💣 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)
+ - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 👉 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish UFC Fighter Jan Blachowicz, a man of a great culture](http://9gag.com/gag/aL1rNEM)
- - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
- - 💣 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
- - 😝 [Russian spokesperson Zakharova said: `Where Russia or the USSR came, there were factories and prosperity, while the US left behind people falling out of planes and other misfortunes.`](http://9gag.com/gag/aKEpXA3)
- - 👉 [I am pretty sure she means handegg](http://9gag.com/gag/anzV0MB)<!-- MEMES:END -->
+ - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
+ - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
+ - 💣 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [Missing millionaire crypto influencer Fernando P\u00e9rez Algaba found dismembered in suitcase.](http://9gag.com/gag/aOxGpZN)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 😝 [No one can mess with fabric of time](http://9gag.com/gag/abvEmqb)
- - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 👉 [Dude got robbed](http://9gag.com/gag/axo4YLb)<!-- MEMES:END -->
+ - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 👉 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)<!-- MEMES:END -->
 
 ---
 </div>

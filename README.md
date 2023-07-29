@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
  - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
  - 💣 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
- - 👉 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)<!-- MEMES:END -->
+ - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
+ - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
 
 ---
 </div>

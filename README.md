@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 💣 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [Missing millionaire crypto influencer Fernando P\u00e9rez Algaba found dismembered in suitcase.](http://9gag.com/gag/aOxGpZN)<!-- MEMES:END -->
+ - 😝 [France adds exciting new Eiffel Tower tourist activity](http://9gag.com/gag/aGEb68K)
+ - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
+ - 💣 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [It was a very strange fight. Man wins](http://9gag.com/gag/a2KGOoD)
+ - 👉 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)<!-- MEMES:END -->
 
 ---
 </div>

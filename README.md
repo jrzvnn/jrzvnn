@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France adds exciting new Eiffel Tower tourist activity](http://9gag.com/gag/aGEb68K)
  - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
- - 💣 [Post](http://9gag.com/gag/abvEmD9)
- - 😝 [It was a very strange fight. Man wins](http://9gag.com/gag/a2KGOoD)
- - 👉 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)<!-- MEMES:END -->
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 💣 [Russian spokesperson Zakharova said: `Where Russia or the USSR came, there were factories and prosperity, while the US left behind people falling out of planes and other misfortunes.`](http://9gag.com/gag/aKEpXA3)
+ - 😝 [Dude spent all his ability point into Parry.](http://9gag.com/gag/aWG9PN3)
+ - 👉 [I am pretty sure she means handegg](http://9gag.com/gag/anzV0MB)<!-- MEMES:END -->
 
 ---
 </div>

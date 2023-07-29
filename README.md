@@ -146,7 +146,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyclist tracks bicycle lost by airline using AirTag](https://appleinsider.com/articles/23/07/29/cyclist-tracks-bicycle-lost-by-airline-using-airtag?utm_medium=rss)
+ - [AirTag assists in rescue of bicycle after airline lost it](https://appleinsider.com/articles/23/07/29/cyclist-tracks-bicycle-lost-by-airline-using-airtag?utm_medium=rss)
  - [The buttons on Zenith’s original ‘clicker’ remote were a mechanical marvel](https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month)
  - [Apple Watch Series 8 vs Samsung Galaxy Watch 6 - compared](https://appleinsider.com/inside/apple-watch-series-8/vs/apple-watch-series-8-vs-samsung-galaxy-watch-6---compared?utm_medium=rss)
  - [Sources: the Biden admin is looking for malware it believes China hid inside critical infrastructure, mainly aimed to disrupt the military if a conflict emerges &lpar;New York Times&rpar;](http://www.techmeme.com/230729/p9#a230729p9)

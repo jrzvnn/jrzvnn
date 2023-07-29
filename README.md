@@ -156,8 +156,8 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Grogu snow white](http://9gag.com/gag/aWG990n)
- - 😝 [*Anthem of the sowiet union starts playing*](http://9gag.com/gag/a4oVmnp)
- - 💣 [Tick tock](http://9gag.com/gag/avQmXVX)
+ - 😝 [Tick tock](http://9gag.com/gag/avQmXVX)
+ - 💣 [*Anthem of the sowiet union starts playing*](http://9gag.com/gag/a4oVmnp)
  - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
  - 👉 [Milk](http://9gag.com/gag/abvEm6E)<!-- MEMES:END -->
 

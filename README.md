@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
+ - 😝 [Grogu snow white](http://9gag.com/gag/aWG990n)
+ - 😝 [*Anthem of the sowiet union starts playing*](http://9gag.com/gag/a4oVmnp)
+ - 💣 [Tick tock](http://9gag.com/gag/avQmXVX)
+ - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
+ - 👉 [Milk](http://9gag.com/gag/abvEm6E)<!-- MEMES:END -->
 
 ---
 </div>

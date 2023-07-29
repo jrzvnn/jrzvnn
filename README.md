@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-494-3350809/)
  - [An investigation citing hundreds of Turkish people claims Android&#39;s earthquake warning system failed to send alerts for the 7.8-magnitude quake on February 8 &lpar;BBC&rpar;](http://www.techmeme.com/230729/p6#a230729p6)
  - [SpaceX Launches Enormous Satellite for Faster Rural Broadband     - CNET](https://www.cnet.com/home/internet/spacex-launches-enormous-satellite-for-faster-rural-broadband/#ftag=CAD590a51e)
  - [Exclusive: These are the new Pixel Watch 2 watch faces](https://www.androidauthority.com/exclusive-pixel-watch-2-watch-faces-3347238/)
- - [The 12 Best Games on Xbox Game Pass &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
- - [Etsy sellers say a fraud protection program is destabilizing their businesses](https://www.theverge.com/2023/7/29/23810536/etsy-sellers-payment-reserves-fraud-protection)<!-- TECH:END -->
+ - [The 12 Best Games on Xbox Game Pass &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

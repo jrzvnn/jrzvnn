@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 💣 [Airport security](http://9gag.com/gag/a8qzV3d)
- - 😝 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
+ - 😝 [*Anthem of the sowiet union starts playing*](http://9gag.com/gag/a4oVmnp)
+ - 😝 [Polish UFC Fighter Jan Blachowicz, a man of a great culture](http://9gag.com/gag/aL1rNEM)
+ - 💣 [It&#39;s been rough, but it&#39;s finally over](http://9gag.com/gag/ajVyyG0)
+ - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
+ - 👉 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)<!-- MEMES:END -->
 
 ---
 </div>

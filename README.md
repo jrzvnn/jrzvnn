@@ -156,9 +156,9 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 💣 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
  - 👉 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)<!-- MEMES:END -->
 
 ---

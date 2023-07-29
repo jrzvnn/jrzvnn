@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
- - 💣 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 👉 [Dude got robbed](http://9gag.com/gag/axo4YLb)<!-- MEMES:END -->
+ - 😝 [What are they really up to ? Any ideas?](http://9gag.com/gag/a7qA67w)
+ - 😝 [Tick tock](http://9gag.com/gag/avQmXVX)
+ - 💣 [Hmm..](http://9gag.com/gag/aBdov0Z)
+ - 😝 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
+ - 👉 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)<!-- MEMES:END -->
 
 ---
 </div>

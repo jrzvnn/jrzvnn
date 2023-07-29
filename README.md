@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Call of Duty: Modern Warfare 2’ Players Hit With Worm Malware](https://www.wired.com/story/call-of-duty-modern-warfare-2-malware/)
+ - [&#39;Talk to Me&#39; Is Horror Made by and for the Internet Generation](https://www.wired.com/story/talk-to-me-movie-review/)
+ - [Daily deals: $499 iPad Air, $250 off M1 MacBook Air, 51% off Beats Studio3, more](https://appleinsider.com/articles/23/07/29/daily-deals-499-ipad-air-250-off-m1-macbook-air-51-off-beats-studio3-more?utm_medium=rss)
  - [I went to Samsung HQ for Galaxy Unpacked: Here’s what I saw](https://www.androidauthority.com/samsung-hq-tour-2023-3348238/)
- - [TP-Link Deco BE85 Review: Too Much, Too Soon](https://www.wired.com/review/tp-link-deco-be85/)
- - [The Mystery of the Colorado River’s Missing Water](https://www.wired.com/story/the-mystery-of-the-colorado-rivers-missing-water/)
- - [A look at Indian nonprofit Karya, which sells AI training data and redirects all the profit to its workers, who retain ownership of the data they create &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/230729/p5#a230729p5)
- - [The Weekly Authority: 📦 Galaxy Unpacked, unpacked plus Google’s foldable tablet](https://www.androidauthority.com/the-weekly-authority-july-29-2023-255-3350657/)<!-- TECH:END -->
+ - [AI and You: Hallucinations, Big Tech Talk on AI, and Jobs, Jobs, Jobs     - CNET](https://www.cnet.com/tech/computing/ai-and-you-hallucinations-big-tech-talk-on-ai-and-jobs-jobs-jobs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [To whoever invented this. I Will hate you as long as i live](http://9gag.com/gag/aeQW7Yp)
+ - 😝 [She&#39;s `trying` to move on](http://9gag.com/gag/aKEpOGj)
+ - 💣 [Dude got robbed](http://9gag.com/gag/axo4YLb)
  - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
+ - 👉 [Hello](http://9gag.com/gag/a9qBO6Z)<!-- MEMES:END -->
 
 ---
 </div>

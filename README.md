@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung, not Google, is why I’m confident about the future of Android tablets](https://www.androidauthority.com/future-android-tablet-samsung-3350146/)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-494-3350809/)
  - [Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House     - CNET](https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/#ftag=CAD590a51e)
  - [An investigation citing hundreds of Turkish people claims Android&#39;s earthquake warning system failed to send alerts for the 7.8-magnitude quake on February 8 &lpar;BBC&rpar;](http://www.techmeme.com/230729/p6#a230729p6)
- - [SpaceX Launches Enormous Satellite for Faster Rural Broadband     - CNET](https://www.cnet.com/home/internet/spacex-launches-enormous-satellite-for-faster-rural-broadband/#ftag=CAD590a51e)
- - [Exclusive: These are the new Pixel Watch 2 watch faces](https://www.androidauthority.com/exclusive-pixel-watch-2-watch-faces-3347238/)<!-- TECH:END -->
+ - [SpaceX Launches Enormous Satellite for Faster Rural Broadband     - CNET](https://www.cnet.com/home/internet/spacex-launches-enormous-satellite-for-faster-rural-broadband/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

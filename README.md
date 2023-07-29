@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 😝 [Hello](http://9gag.com/gag/a9qBO6Z)
- - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [Missing millionaire crypto influencer Fernando P\u00e9rez Algaba found dismembered in suitcase.](http://9gag.com/gag/aOxGpZN)
- - 👉 [Would you drink it?](http://9gag.com/gag/az2Q4Vq)<!-- MEMES:END -->
+ - 😝 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
+ - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
+ - 💣 [Tick tock](http://9gag.com/gag/avQmXVX)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [I may be late but I was working with Joe](http://9gag.com/gag/aKEpLyb)<!-- MEMES:END -->
 
 ---
 </div>

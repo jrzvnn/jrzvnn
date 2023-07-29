@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
+ - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
+ - 😝 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
  - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
- - 👉 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)<!-- MEMES:END -->
+ - 😝 [P\u00a3N!S](http://9gag.com/gag/aWG9A6q)
+ - 👉 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)<!-- MEMES:END -->
 
 ---
 </div>

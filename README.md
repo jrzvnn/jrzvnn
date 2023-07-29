@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 12 Best Games on Xbox Game Pass &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
+ - [Etsy sellers say a fraud protection program is destabilizing their businesses](https://www.theverge.com/2023/7/29/23810536/etsy-sellers-payment-reserves-fraud-protection)
+ - [The Tile Mate and Apple’s AirTags have dropped to some of their best prices](https://www.theverge.com/2023/7/29/23811146/tile-mate-apple-airtag-case-mate-fuel-usb-c-charger-samsung-galaxy-z-flip-5-deal-sale)
  - [‘Call of Duty: Modern Warfare 2’ Players Hit With Worm Malware](https://www.wired.com/story/call-of-duty-modern-warfare-2-malware/)
- - [&#39;Talk to Me&#39; Is Horror Made by and for the Internet Generation](https://www.wired.com/story/talk-to-me-movie-review/)
- - [Daily deals: $499 iPad Air, $250 off M1 MacBook Air, 51% off Beats Studio3, more](https://appleinsider.com/articles/23/07/29/daily-deals-499-ipad-air-250-off-m1-macbook-air-51-off-beats-studio3-more?utm_medium=rss)
- - [I went to Samsung HQ for Galaxy Unpacked: Here’s what I saw](https://www.androidauthority.com/samsung-hq-tour-2023-3348238/)
- - [AI and You: Hallucinations, Big Tech Talk on AI, and Jobs, Jobs, Jobs     - CNET](https://www.cnet.com/tech/computing/ai-and-you-hallucinations-big-tech-talk-on-ai-and-jobs-jobs-jobs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Talk to Me&#39; Is Horror Made by and for the Internet Generation](https://www.wired.com/story/talk-to-me-movie-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

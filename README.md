@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
- - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
- - 💣 [Tick tock](http://9gag.com/gag/avQmXVX)
+ - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
  - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [I may be late but I was working with Joe](http://9gag.com/gag/aKEpLyb)<!-- MEMES:END -->
+ - 💣 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 👉 [The three stages of mental illness.](http://9gag.com/gag/aoKDYww)<!-- MEMES:END -->
 
 ---
 </div>

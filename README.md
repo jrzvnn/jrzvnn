@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The backup driver of a self-driving Uber that killed a pedestrian in Arizona in 2018 pleads guilty to endangerment, in the first automated vehicle fatality case &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/230729/p2#a230729p2)
  - [Internal Meta emails: Facebook removed content about COVID-19 under pressure from the Biden administration, including posts claiming the virus was man-made &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230729/p1#a230729p1)
  - [Twitter/X officially rolls out its ads revenue sharing program for eligible users globally, after giving some creators payouts earlier this month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230728/p17#a230728p17)
  - [YouTube officially launches Multiview for YouTube TV and Primetime Channels, starting with WNBA games, but with no mobile and web support and other limits &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230728/p16#a230728p16)
- - [Smartphone Shipments Have Dropped 24%, Analysts Say     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-have-dropped-24-percent-according-to-analysts/#ftag=CAD590a51e)
- - [Google&#39;s New AI Tech Lets You Command Robots to Throw Away Your Trash     - CNET](https://www.cnet.com/tech/googles-new-ai-tech-lets-you-command-robots-to-throw-away-your-trash/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Smartphone Shipments Have Dropped 24%, Analysts Say     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-have-dropped-24-percent-according-to-analysts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

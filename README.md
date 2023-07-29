@@ -150,7 +150,7 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [&#39;Talk to Me&#39; Is Horror Made by and for the Internet Generation](https://www.wired.com/story/talk-to-me-movie-review/)
  - [Daily deals: $499 iPad Air, $250 off M1 MacBook Air, 51% off Beats Studio3, more](https://appleinsider.com/articles/23/07/29/daily-deals-499-ipad-air-250-off-m1-macbook-air-51-off-beats-studio3-more?utm_medium=rss)
  - [I went to Samsung HQ for Galaxy Unpacked: Here’s what I saw](https://www.androidauthority.com/samsung-hq-tour-2023-3348238/)
- - [TP-Link Deco BE85 Review: Too Much, Too Soon](https://www.wired.com/review/tp-link-deco-be85/)<!-- TECH:END -->
+ - [AI and You: Hallucinations, Big Tech Talk on AI, and Jobs, Jobs, Jobs     - CNET](https://www.cnet.com/tech/computing/ai-and-you-hallucinations-big-tech-talk-on-ai-and-jobs-jobs-jobs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

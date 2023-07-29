@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
- - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 💣 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 👉 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)<!-- MEMES:END -->
+ - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 💣 [Dude spent all his ability point into Parry.](http://9gag.com/gag/aWG9PN3)
+ - 😝 [Wasted](http://9gag.com/gag/aDYMqoO)
+ - 👉 [That&#39;s not how you Wok](http://9gag.com/gag/amAnOQX)<!-- MEMES:END -->
 
 ---
 </div>

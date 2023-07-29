@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Weekly Authority: 📦 Galaxy Unpacked, unpacked plus Google’s foldable tablet](https://www.androidauthority.com/the-weekly-authority-july-29-2023-255-3350657/)
  - [This Is the Era of Zombie Twitter](https://www.wired.com/story/x-twitter-rebrand-dead/)
  - [16 Best Deals: Home Office and Dorm Room Essentials](https://www.wired.com/story/weekend-deals-july-29-2023/)
  - [France vs. Brazil: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/france-vs-brazil-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)
- - [Inside Walmart&#39;s warehouse in Brooksville, Florida, which is becoming the company&#39;s first US warehouse to use automated robotic systems to handle most products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230729/p4#a230729p4)
- - [A Hong Kong judge rejects a government bid to ban the online dissemination of pro-democracy song &quot;Glory to Hong Kong&quot; on Google and other sites &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230729/p3#a230729p3)<!-- TECH:END -->
+ - [Inside Walmart&#39;s warehouse in Brooksville, Florida, which is becoming the company&#39;s first US warehouse to use automated robotic systems to handle most products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230729/p4#a230729p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

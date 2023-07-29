@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 😝 [Danger noodle in danger](http://9gag.com/gag/aQEV2q7)
- - 💣 [Was he wrong?](http://9gag.com/gag/a8qzwo1)
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 👉 [Dude got robbed](http://9gag.com/gag/axo4YLb)<!-- MEMES:END -->
+ - 😝 [Write in English Please](http://9gag.com/gag/a04wO9Q)
+ - 😝 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)
+ - 💣 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
+ - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 👉 [Was he wrong?](http://9gag.com/gag/a8qzwo1)<!-- MEMES:END -->
 
 ---
 </div>

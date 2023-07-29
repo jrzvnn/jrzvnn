@@ -146,11 +146,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron Q3 Pro SE review: mechanical macro mastery](https://appleinsider.com/articles/23/07/29/keychron-q3-pro-se-review-mechanical-macro-mastery?utm_medium=rss)
  - [A profile of Mike Masnick, who founded Techdirt in 1998, considered by lawmakers, CEOs, and activists as an essential guide for what&#39;s happening in tech &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230729/p8#a230729p8)
  - [Adam Mosseri and current and former employees recount how Threads came to life with a small team focused on shipping a bare-bones app on a breakneck schedule &lpar;Washington Post&rpar;](http://www.techmeme.com/230729/p7#a230729p7)
  - [Samsung, not Google, is why I’m confident about the future of Android tablets](https://www.androidauthority.com/future-android-tablet-samsung-3350146/)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-494-3350809/)
- - [Google, Microsoft, Meta, Amazon Pledge AI Safety and Security at White House     - CNET](https://www.cnet.com/tech/google-microsoft-meta-amazon-pledge-ai-safety-and-security-to-white-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-494-3350809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

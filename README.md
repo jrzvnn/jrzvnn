@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grogu snow white](http://9gag.com/gag/aWG990n)
- - 😝 [Tick tock](http://9gag.com/gag/avQmXVX)
- - 💣 [*Anthem of the sowiet union starts playing*](http://9gag.com/gag/a4oVmnp)
- - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
- - 👉 [Milk](http://9gag.com/gag/abvEm6E)<!-- MEMES:END -->
+ - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
+ - 😝 [France adds exciting new Eiffel Tower tourist activity](http://9gag.com/gag/aGEb68K)
+ - 💣 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)<!-- MEMES:END -->
 
 ---
 </div>

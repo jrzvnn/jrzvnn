@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they really up to ? Any ideas?](http://9gag.com/gag/a7qA67w)
- - 😝 [Tick tock](http://9gag.com/gag/avQmXVX)
- - 💣 [Hmm..](http://9gag.com/gag/aBdov0Z)
- - 😝 [Tokyo&#39;s new housing solution offers a triangular home. They managed to fit a shower with a toilet, a micro kitchen, and windows. The rental cost is $270 per month.](http://9gag.com/gag/aZDvVbV)
- - 👉 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)<!-- MEMES:END -->
+ - 😝 [Up to the top](http://9gag.com/gag/aeQWPLb)
+ - 😝 [Hello](http://9gag.com/gag/a9qBO6Z)
+ - 💣 [Dude got robbed](http://9gag.com/gag/axo4YLb)
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 👉 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)<!-- MEMES:END -->
 
 ---
 </div>

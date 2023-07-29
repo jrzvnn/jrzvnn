@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
- - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
  - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
- - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
+ - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [She found out](http://9gag.com/gag/armzD0y)
+ - 👉 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)<!-- MEMES:END -->
 
 ---
 </div>

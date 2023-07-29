@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
- - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
- - 💣 [Dude spent all his ability point into Parry.](http://9gag.com/gag/aWG9PN3)
- - 😝 [Wasted](http://9gag.com/gag/aDYMqoO)
- - 👉 [That&#39;s not how you Wok](http://9gag.com/gag/amAnOQX)<!-- MEMES:END -->
+ - 😝 [She found out](http://9gag.com/gag/armzD0y)
+ - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 💣 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
+ - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
 
 ---
 </div>

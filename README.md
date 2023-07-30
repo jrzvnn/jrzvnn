@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at C2PA, a standard that relies on cryptography to encode provenance information of media content, started by Adobe, Arm, Intel, Microsoft, and Truepic &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230730/p4#a230730p4)
  - [How a Microbial Evolutionary Accident Changed Earth&#39;s Atmosphere](https://www.wired.com/story/how-a-microbial-evolutionary-accident-changed-earths-atmosphere/)
  - [How to Switch Browsers Without Losing Your Bookmarks and Passwords](https://www.wired.com/story/switch-browsers-without-losing-bookmarks-passwords/)
  - [GoBike Speed Review: A Beefy E-Bike in Need of a Power Boost     - CNET](https://www.cnet.com/roadshow/news/gobike-speed-review-a-beefy-e-bike-in-need-of-a-power-boost/#ftag=CAD590a51e)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Belgian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-belgian-gp-today/#ftag=CAD590a51e)
- - [Should You Buy an Active Chair? I Tested Some—and Talked to the Experts](https://www.wired.com/story/should-you-buy-an-active-chair/)<!-- TECH:END -->
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Belgian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-belgian-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

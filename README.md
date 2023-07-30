@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a Hippo tries to cross the border](http://9gag.com/gag/a4oVxQy)
- - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
- - 💣 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
- - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
+ - 😝 [...as compared to the previous 12+ hour, 6-7 work week](http://9gag.com/gag/a3ZnzPN)
+ - 😝 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)
+ - 💣 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
+ - 👉 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)<!-- MEMES:END -->
 
 ---
 </div>

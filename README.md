@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [How a Microbial Evolutionary Accident Changed Earth&#39;s Atmosphere](https://www.wired.com/story/how-a-microbial-evolutionary-accident-changed-earths-atmosphere/)
  - [How to Switch Browsers Without Losing Your Bookmarks and Passwords](https://www.wired.com/story/switch-browsers-without-losing-bookmarks-passwords/)
- - [Should You Buy an Active Chair? I Tested Some—and Talked to the Experts](https://www.wired.com/story/should-you-buy-an-active-chair/)
- - [What Isaac Asimov’s Robbie Teaches About AI and How Minds &#39;Work&#39;](https://www.wired.com/story/artificial-intelligence-minds-science-fiction/)
- - [An interview with Yael Tauman Kalai, a Microsoft cryptographer who won the 2022 ACM Prize in Computing, on cryptography, &quot;post-quantum&quot; security, and more &lpar;Allison Parshall/Quanta Magazine&rpar;](http://www.techmeme.com/230730/p3#a230730p3)<!-- TECH:END -->
+ - [GoBike Speed Review: A Beefy E-Bike in Need of a Power Boost     - CNET](https://www.cnet.com/roadshow/news/gobike-speed-review-a-beefy-e-bike-in-need-of-a-power-boost/#ftag=CAD590a51e)
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Belgian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-belgian-gp-today/#ftag=CAD590a51e)
+ - [Should You Buy an Active Chair? I Tested Some—and Talked to the Experts](https://www.wired.com/story/should-you-buy-an-active-chair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

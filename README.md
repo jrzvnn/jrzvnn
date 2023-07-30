@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moscow never sleeps &lpar;c&rpar; Budanov](http://9gag.com/gag/a3ZngM3)
- - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 💣 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
+ - 💣 [NTR](http://9gag.com/gag/ay2PAzM)
  - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 </div>

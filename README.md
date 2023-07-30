@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Polish UFC Fighter Jan Blachowicz, a man of a great culture](http://9gag.com/gag/aL1rNEM)
  - 😝 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
- - 😝 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)
- - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 💣 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
  - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
 
 ---

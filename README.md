@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver gets into a panic after crashing into a tire shop in Japan](http://9gag.com/gag/aDYMPDK)
- - 😝 [When a Hippo tries to cross the border](http://9gag.com/gag/a4oVxQy)
- - 💣 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 👉 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)<!-- MEMES:END -->
+ - 😝 [I am pretty sure she means handegg](http://9gag.com/gag/anzV0MB)
+ - 😝 [Cat Bark](http://9gag.com/gag/aL1rO5A)
+ - 💣 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
+ - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
+ - 👉 [Say hi](http://9gag.com/gag/aZDv4Z3)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
- - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
- - 💣 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)<!-- MEMES:END -->
+ - 😝 [It&#39;s just a fish](http://9gag.com/gag/avQmBXq)
+ - 😝 [She found out](http://9gag.com/gag/armzD0y)
+ - 💣 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
+ - 👉 [Waiting for the punchline](http://9gag.com/gag/aoKDqWX)<!-- MEMES:END -->
 
 ---
 </div>

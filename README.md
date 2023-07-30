@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just a fish](http://9gag.com/gag/avQmBXq)
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
- - 💣 [Post](http://9gag.com/gag/abvEmD9)
- - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 👉 [Waiting for the punchline](http://9gag.com/gag/aoKDqWX)<!-- MEMES:END -->
+ - 😝 [Figure this mf](http://9gag.com/gag/agojZd6)
+ - 😝 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)
+ - 💣 [France adds exciting new Eiffel Tower tourist activity](http://9gag.com/gag/aGEb68K)
+ - 😝 [I&#39;m gonna ask for a discount](http://9gag.com/gag/aDYMLVx)
+ - 👉 [...as compared to the previous 12+ hour, 6-7 work week](http://9gag.com/gag/a3ZnzPN)<!-- MEMES:END -->
 
 ---
 </div>

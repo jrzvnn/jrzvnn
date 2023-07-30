@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver gets into a panic after crashing into a tire shop in Japan](http://9gag.com/gag/aDYMPDK)
- - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
- - 💣 [Post](http://9gag.com/gag/abvEmD9)
  - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)<!-- MEMES:END -->
+ - 😝 [Good news of the day](http://9gag.com/gag/aNw3X73)
+ - 💣 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)
+ - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
+ - 👉 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)<!-- MEMES:END -->
 
 ---
 </div>

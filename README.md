@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sorry, sir, my dad has the same exact car.](http://9gag.com/gag/ap987Zb)
  - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 💣 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [They were so natural](http://9gag.com/gag/a1PwgnP)<!-- MEMES:END -->
+ - 💣 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 👉 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)<!-- MEMES:END -->
 
 ---
 </div>

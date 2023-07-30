@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baseus AirNora 2 review: earbuds for music and makeup lovers](https://appleinsider.com/articles/23/07/30/baseus-airnora-2-review-earbuds-for-music-and-makeup-lovers?utm_medium=rss)
  - [Boot loops and failed installs plague fourth macOS Sonoma developer beta](https://appleinsider.com/articles/23/07/30/boot-loops-and-failed-installs-plague-fourth-macos-sonoma-developer-beta?utm_medium=rss)
  - [Now that the Galaxy Z Fold 5 is out, you should buy the Z Fold 4](https://www.androidauthority.com/buy-samsung-galaxy-z-fold-4-instead-z-fold-5-3348243/)
  - [Apple Watch Series 9 will get a big speed boost from S9 chip](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)
- - [Study: just 2% of Spotify &quot;super listeners&quot; drive over 18% of monthly streams on average for an artist, with the number rising to 30% for the biggest artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230730/p6#a230730p6)
- - [China iPhone demand could be highlight of Q3 results](https://appleinsider.com/articles/23/07/30/china-iphone-demand-could-be-highlight-of-q3-results?utm_medium=rss)<!-- TECH:END -->
+ - [Study: just 2% of Spotify &quot;super listeners&quot; drive over 18% of monthly streams on average for an artist, with the number rising to 30% for the biggest artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230730/p6#a230730p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

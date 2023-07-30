@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...as compared to the previous 12+ hour, 6-7 work week](http://9gag.com/gag/a3ZnzPN)
- - 😝 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)
- - 💣 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 👉 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)<!-- MEMES:END -->
+ - 😝 [Driver gets into a panic after crashing into a tire shop in Japan](http://9gag.com/gag/aDYMPDK)
+ - 😝 [No please stay were begging you](http://9gag.com/gag/armzrwp)
+ - 💣 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)<!-- MEMES:END -->
 
 ---
 </div>

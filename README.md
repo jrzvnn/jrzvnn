@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
- - 😝 [...as compared to the previous 12+ hour, 6-7 work week](http://9gag.com/gag/a3ZnzPN)
- - 💣 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
+ - 😝 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 💣 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
  - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [When a Hippo tries to cross the border](http://9gag.com/gag/a4oVxQy)<!-- MEMES:END -->
+ - 👉 [A Mexican getting harassed by the Americans](http://9gag.com/gag/aPgnpxn)<!-- MEMES:END -->
 
 ---
 </div>

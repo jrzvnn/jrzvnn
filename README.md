@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [Throwback to when Bundeswehr Commander Helmut Harff gave Serbs 30 minutes to leave Kosovo or face annihilation.](http://9gag.com/gag/a1PwjE8)
- - 💣 [NTR](http://9gag.com/gag/ay2PAzM)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [That would hurt so bad](http://9gag.com/gag/aDYML0Z)<!-- MEMES:END -->
+ - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 💣 [Poetry in motion](http://9gag.com/gag/ajVywrg)
+ - 😝 [They are so interesting I have to pull over to listen more](http://9gag.com/gag/avQmwEq)
+ - 👉 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)<!-- MEMES:END -->
 
 ---
 </div>

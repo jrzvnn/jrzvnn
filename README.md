@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
- - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 💣 [Moscow never sleeps &lpar;c&rpar; Budanov](http://9gag.com/gag/a3ZngM3)
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 👉 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)<!-- MEMES:END -->
+ - 😝 [On this day in 1980 Moscow Olympics, Polish athlete W.Kozakiewicz was booed heavily by russians. He responded by winning gold medal, breaking world record &lpar;pole vault&rpar; and showing russians this sign, which became iconic in Poland.](http://9gag.com/gag/aA0ZAyZ)
+ - 😝 [Say hi](http://9gag.com/gag/aZDv4Z3)
+ - 💣 [Real vs Fake](http://9gag.com/gag/a5XDvpV)
+ - 😝 [Moscow never sleeps &lpar;c&rpar; Budanov](http://9gag.com/gag/a3ZngM3)
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 </div>

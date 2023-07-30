@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 😝 [Lady robbed for her car at gas station in Oakland California](http://9gag.com/gag/az2QwVq)
- - 💣 [Throwback to when Bundeswehr Commander Helmut Harff gave Serbs 30 minutes to leave Kosovo or face annihilation.](http://9gag.com/gag/a1PwjE8)
+ - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
  - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 💣 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 👉 [Niger&#39;s finance minister is given 48hrs to explain country&#39;s finances and missing money or face execution by firing squad. The country was overthrown in a military coup on 26th July](http://9gag.com/gag/anzV3PE)<!-- MEMES:END -->
 
 ---
 </div>

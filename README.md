@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m gonna ask for a discount](http://9gag.com/gag/aDYMLVx)
+ - 😝 [Amazing](http://9gag.com/gag/aA0Zq1E)
+ - 💣 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
  - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 💣 [No please stay were begging you](http://9gag.com/gag/armzrwp)
- - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 👉 [Waiting for the punchline](http://9gag.com/gag/aoKDqWX)<!-- MEMES:END -->
+ - 👉 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)<!-- MEMES:END -->
 
 ---
 </div>

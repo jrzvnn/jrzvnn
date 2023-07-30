@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 💣 [Poetry in motion](http://9gag.com/gag/ajVywrg)
- - 😝 [They are so interesting I have to pull over to listen more](http://9gag.com/gag/avQmwEq)
- - 👉 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
+ - 💣 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
+ - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
+ - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
 
 ---
 </div>

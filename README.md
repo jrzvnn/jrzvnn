@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
+ - 😝 [Good news of the day](http://9gag.com/gag/aNw3X73)
+ - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
+ - 💣 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)
  - 😝 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
- - 💣 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
- - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
- - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
+ - 👉 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)<!-- MEMES:END -->
 
 ---
 </div>

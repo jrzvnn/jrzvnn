@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cant be the only one who sees this...](http://9gag.com/gag/aA0ZAPg)
- - 😝 [Cat Bark](http://9gag.com/gag/aL1rO5A)
- - 💣 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [Say hi](http://9gag.com/gag/aZDv4Z3)<!-- MEMES:END -->
+ - 😝 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
+ - 😝 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)
+ - 💣 [Unknown door in the apartment, a surprise from the developer](http://9gag.com/gag/ap988w8)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
 
 ---
 </div>

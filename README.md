@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
  - 😝 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)
- - 💣 [Driver gets into a panic after crashing into a tire shop in Japan](http://9gag.com/gag/aDYMPDK)
- - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 👉 [No one can mess with fabric of time](http://9gag.com/gag/abvEmqb)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 💣 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
+ - 😝 [She found out](http://9gag.com/gag/armzD0y)
+ - 👉 [I&#39;m gonna ask for a discount](http://9gag.com/gag/aDYMLVx)<!-- MEMES:END -->
 
 ---
 </div>

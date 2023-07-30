@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Yael Tauman Kalai, a Microsoft cryptographer who won the 2022 ACM Prize in Computing, on cryptography, &quot;post-quantum&quot; security, and more &lpar;Allison Parshall/Quanta Magazine&rpar;](http://www.techmeme.com/230730/p3#a230730p3)
  - [Starlink&#39;s near total control of satellite internet is raising global alarms; 4,500+ Starlink satellites are in orbit, accounting for 50%+ of active satellites &lpar;New York Times&rpar;](http://www.techmeme.com/230730/p2#a230730p2)
  - [Germany vs. Colombia: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/germany-vs-colombia-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)
  - [Japan plans to add ~110K new trainees to acquire digital skills through fiscal 2024, as the government projects a 2.3M digital worker shortage by fiscal 2026 &lpar;Hiroyuki Akiyama/Nikkei Asia&rpar;](http://www.techmeme.com/230730/p1#a230730p1)
- - [Never mind, tweets should be called posts now](https://www.theverge.com/2023/7/29/23812780/tweet-change-name-post-x)
- - [Twitter/X reinstates Kanye West&#39;s account, suspended in December 2022, and says he won&#39;t be eligible to monetize it, and ads won&#39;t appear next to his posts &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/230729/p11#a230729p11)<!-- TECH:END -->
+ - [Never mind, tweets should be called posts now](https://www.theverge.com/2023/7/29/23812780/tweet-change-name-post-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

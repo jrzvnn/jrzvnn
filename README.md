@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 😝 [This guy throwing cement onto a wall.](http://9gag.com/gag/aZDvoQz)
+ - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
+ - 💣 [Moscow never sleeps &lpar;c&rpar; Budanov](http://9gag.com/gag/a3ZngM3)
  - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
- - 💣 [No one can mess with fabric of time](http://9gag.com/gag/abvEmqb)
- - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
- - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
+ - 👉 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)<!-- MEMES:END -->
 
 ---
 </div>

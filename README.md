@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On this day in 1980 Moscow Olympics, Polish athlete W.Kozakiewicz was booed heavily by russians. He responded by winning gold medal, breaking world record &lpar;pole vault&rpar; and showing russians this sign, which became iconic in Poland.](http://9gag.com/gag/aA0ZAyZ)
- - 😝 [What the heck](http://9gag.com/gag/aMEy7KW)
- - 💣 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
- - 😝 [Anything for a schmeckle](http://9gag.com/gag/a3ZngbQ)
- - 👉 [She found out](http://9gag.com/gag/armzD0y)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 💣 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)
+ - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 👉 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish UFC Fighter Jan Blachowicz, a man of a great culture](http://9gag.com/gag/aL1rNEM)
- - 😝 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
- - 💣 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
+ - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
+ - 💣 [No one can mess with fabric of time](http://9gag.com/gag/abvEmqb)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
 
 ---
 </div>

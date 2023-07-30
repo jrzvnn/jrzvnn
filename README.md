@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 and iPhone 15 Pro bezel claims join the rumor pile](https://appleinsider.com/articles/23/07/30/iphone-15-and-iphone-15-pro-bezel-claims-join-the-rumor-pile?utm_medium=rss)
  - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
  - [The 17 Best Games on PlayStation Plus &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
  - [Apple Watch Series 9&#39;s S9 chip to offer a big performance boost](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)
- - [A look at C2PA, a standard that relies on cryptography to encode provenance information of media content, started by Adobe, Arm, Intel, Microsoft, and Truepic &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230730/p4#a230730p4)
- - [Sneak Peek at the $2.3B MSG Sphere&#39;s Huge Immersive Screen, Advanced Audio Systems     - CNET](https://www.cnet.com/tech/home-entertainment/sneak-peek-at-the-2-3b-msg-spheres-huge-immersive-screen-advanced-audio-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at C2PA, a standard that relies on cryptography to encode provenance information of media content, started by Adobe, Arm, Intel, Microsoft, and Truepic &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230730/p4#a230730p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

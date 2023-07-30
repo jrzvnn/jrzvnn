@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am pretty sure she means handegg](http://9gag.com/gag/anzV0MB)
- - 😝 [Cat Bark](http://9gag.com/gag/aL1rO5A)
- - 💣 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [Say hi](http://9gag.com/gag/aZDv4Z3)<!-- MEMES:END -->
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
+ - 💣 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
 
 ---
 </div>

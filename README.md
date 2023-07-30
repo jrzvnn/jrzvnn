@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 💣 [Sorry, sir, my dad has the same exact car.](http://9gag.com/gag/ap987Zb)
- - 😝 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
- - 👉 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)<!-- MEMES:END -->
+ - 😝 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
+ - 💣 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
+ - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
+ - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ TypeScript               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
+ - 😝 [She found out](http://9gag.com/gag/armzD0y)
+ - 😝 [...as compared to the previous 12+ hour, 6-7 work week](http://9gag.com/gag/a3ZnzPN)
+ - 💣 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
  - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
- - 💣 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)
- - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
- - 👉 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)<!-- MEMES:END -->
+ - 👉 [When a Hippo tries to cross the border](http://9gag.com/gag/a4oVxQy)<!-- MEMES:END -->
 
 ---
 </div>

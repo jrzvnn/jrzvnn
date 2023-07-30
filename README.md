@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now that the Galaxy Z Fold 5 is out, you should buy the Z Fold 4](https://www.androidauthority.com/buy-samsung-galaxy-z-fold-4-instead-z-fold-5-3348243/)
+ - [Apple Watch Series 9 will get a big speed boost from S9 chip](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)
  - [Study: just 2% of Spotify &quot;super listeners&quot; drive over 18% of monthly streams on average for an artist, with the number rising to 30% for the biggest artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/230730/p6#a230730p6)
  - [China iPhone demand could be highlight of Q3 results](https://appleinsider.com/articles/23/07/30/china-iphone-demand-could-be-highlight-of-q3-results?utm_medium=rss)
- - [Apple confirms Parental Controls settings-clearing bug will get fixed](https://appleinsider.com/articles/23/07/30/apple-confirms-screen-time-reset-bug-will-get-fixed?utm_medium=rss)
- - [Samsung is the Apple of the foldable market](https://www.androidauthority.com/samsung-apple-of-foldables-3350646/)
- - [Apple confirms bug stops Screen Time limits from sticking for kids](https://www.theverge.com/2023/7/30/23813106/apple-screen-time-bug-parental-controls-family-sharing)<!-- TECH:END -->
+ - [Apple confirms Parental Controls settings-clearing bug will get fixed](https://appleinsider.com/articles/23/07/30/apple-confirms-screen-time-reset-bug-will-get-fixed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

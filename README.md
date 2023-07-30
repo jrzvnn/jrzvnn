@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan plans to add ~110K new trainees to acquire digital skills through fiscal 2024, as the government projects a 2.3M digital worker shortage by fiscal 2026 &lpar;Hiroyuki Akiyama/Nikkei Asia&rpar;](http://www.techmeme.com/230730/p1#a230730p1)
  - [Never mind, tweets should be called posts now](https://www.theverge.com/2023/7/29/23812780/tweet-change-name-post-x)
  - [Twitter/X reinstates Kanye West&#39;s account, suspended in December 2022, and says he won&#39;t be eligible to monetize it, and ads won&#39;t appear next to his posts &lpar;Rebecca Elliott/Wall Street Journal&rpar;](http://www.techmeme.com/230729/p11#a230729p11)
  - [Despite TikTok prohibiting branded content promoting alcohol, some creators say they&#39;re sponsored by alcohol brands, and they drink excessively to promote them &lpar;Jessica Lucas/HuffPost&rpar;](http://www.techmeme.com/230729/p10#a230729p10)
- - [AirTag assists in rescue of bicycle after airline lost it](https://appleinsider.com/articles/23/07/29/cyclist-tracks-bicycle-lost-by-airline-using-airtag?utm_medium=rss)
- - [The buttons on Zenith’s original ‘clicker’ remote were a mechanical marvel](https://www.theverge.com/23810061/zenith-space-command-remote-control-button-of-the-month)<!-- TECH:END -->
+ - [AirTag assists in rescue of bicycle after airline lost it](https://appleinsider.com/articles/23/07/29/cyclist-tracks-bicycle-lost-by-airline-using-airtag?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

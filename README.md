@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: $200 off M2 14-inch MacBook Pro $50 off Apple Watch Ultra, $19 Smart Scale](https://appleinsider.com/articles/23/07/30/daily-deals-200-off-m2-14-inch-macbook-pro-50-off-apple-watch-ultra-19-smart-scale?utm_medium=rss)
  - [iPhone 15 Pro might get a titanium frame, thinner bezels, and a price hike](https://www.theverge.com/2023/7/30/23813082/iphone-15-titanium-thinner-bezels-price-increase)
  - [A deep dive into Apple&#39;s plans for the new iPhones and Watches coming this fall, including iPhone 15 Pro with 1.5mm bezels, a step towards a borderless iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230730/p5#a230730p5)
  - [Apple Watch Series 9 will get a big speed boost from S9 chip](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)
- - [All I want Google, Samsung, and Apple to do is copy this Garmin watch feature](https://www.androidauthority.com/i-want-google-samsung-and-apple-to-copy-this-garmin-watch-feature-3347565/)
- - [iPhone 15 rumors: Thinner bezels, USB-C, and more expensive](https://appleinsider.com/articles/23/07/30/iphone-15-and-iphone-15-pro-bezel-claims-join-the-rumor-pile?utm_medium=rss)<!-- TECH:END -->
+ - [All I want Google, Samsung, and Apple to do is copy this Garmin watch feature](https://www.androidauthority.com/i-want-google-samsung-and-apple-to-copy-this-garmin-watch-feature-3347565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

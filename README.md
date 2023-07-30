@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China iPhone demand could be highlight of Q3 results](https://appleinsider.com/articles/23/07/30/china-iphone-demand-could-be-highlight-of-q3-results?utm_medium=rss)
  - [Apple confirms Parental Controls settings-clearing bug will get fixed](https://appleinsider.com/articles/23/07/30/apple-confirms-screen-time-reset-bug-will-get-fixed?utm_medium=rss)
  - [Samsung is the Apple of the foldable market](https://www.androidauthority.com/samsung-apple-of-foldables-3350646/)
  - [Apple confirms bug stops Screen Time limits from sticking for kids](https://www.theverge.com/2023/7/30/23813106/apple-screen-time-bug-parental-controls-family-sharing)
- - [Daily deals: $200 off M2 14-inch MacBook Pro $50 off Apple Watch Ultra, $19 Smart Scale](https://appleinsider.com/articles/23/07/30/daily-deals-200-off-m2-14-inch-macbook-pro-50-off-apple-watch-ultra-19-smart-scale?utm_medium=rss)
- - [iPhone 15 Pro might get a titanium frame, thinner bezels, and a price hike](https://www.theverge.com/2023/7/30/23813082/iphone-15-titanium-thinner-bezels-price-increase)<!-- TECH:END -->
+ - [Daily deals: $200 off M2 14-inch MacBook Pro, $50 off Apple Watch Ultra, $19 Smart Scale](https://appleinsider.com/articles/23/07/30/daily-deals-200-off-m2-14-inch-macbook-pro-50-off-apple-watch-ultra-19-smart-scale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

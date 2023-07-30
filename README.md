@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m gonna ask for a discount](http://9gag.com/gag/aDYMLVx)
- - 😝 [Amazing](http://9gag.com/gag/aA0Zq1E)
- - 💣 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 👉 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)<!-- MEMES:END -->
+ - 😝 [Night King - Original design vs final design](http://9gag.com/gag/abvEEDr)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 💣 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
+ - 😝 [What are you doing woman?](http://9gag.com/gag/a3Znpx8)
+ - 👉 [When a Hippo tries to cross the border](http://9gag.com/gag/a4oVxQy)<!-- MEMES:END -->
 
 ---
 </div>

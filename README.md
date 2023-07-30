@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into Apple&#39;s plans for the new iPhones and Watches coming this fall, including iPhone 15 Pro with 1.5mm bezels, a step towards a borderless iPhone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230730/p5#a230730p5)
+ - [Apple Watch Series 9 will get a big speed boost from S9 chip](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)
  - [All I want Google, Samsung, and Apple to do is copy this Garmin watch feature](https://www.androidauthority.com/i-want-google-samsung-and-apple-to-copy-this-garmin-watch-feature-3347565/)
  - [iPhone 15 rumors: Thinner bezels, USB-C, and more expensive](https://appleinsider.com/articles/23/07/30/iphone-15-and-iphone-15-pro-bezel-claims-join-the-rumor-pile?utm_medium=rss)
- - [Streaming on Max: The 24 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-24-absolute-best-movies-to-watch-august-2023/#ftag=CAD590a51e)
- - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [The 17 Best Games on PlayStation Plus &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)<!-- TECH:END -->
+ - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

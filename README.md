@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
- - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
- - 💣 [NTR](http://9gag.com/gag/ay2PAzM)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 😝 [Throwback to when Bundeswehr Commander Helmut Harff gave Serbs 30 minutes to leave Kosovo or face annihilation.](http://9gag.com/gag/a1PwjE8)
+ - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 💣 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
+ - 😝 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
+ - 👉 [EFF chanting \u201cKill the Boer &lpar;white farmer&rpar;\u201d - Glad I left South Africa with a heavy heart](http://9gag.com/gag/amAnwdv)<!-- MEMES:END -->
 
 ---
 </div>

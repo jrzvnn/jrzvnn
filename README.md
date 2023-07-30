@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [The 17 Best Games on PlayStation Plus &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
+ - [Apple Watch Series 9&#39;s S9 chip to offer a big performance boost](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)
  - [A look at C2PA, a standard that relies on cryptography to encode provenance information of media content, started by Adobe, Arm, Intel, Microsoft, and Truepic &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230730/p4#a230730p4)
- - [How a Microbial Evolutionary Accident Changed Earth&#39;s Atmosphere](https://www.wired.com/story/how-a-microbial-evolutionary-accident-changed-earths-atmosphere/)
- - [How to Switch Browsers Without Losing Your Bookmarks and Passwords](https://www.wired.com/story/switch-browsers-without-losing-bookmarks-passwords/)
- - [GoBike Speed Review: A Beefy E-Bike in Need of a Power Boost     - CNET](https://www.cnet.com/roadshow/news/gobike-speed-review-a-beefy-e-bike-in-need-of-a-power-boost/#ftag=CAD590a51e)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Belgian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-belgian-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How a Microbial Evolutionary Accident Changed Earth&#39;s Atmosphere](https://www.wired.com/story/how-a-microbial-evolutionary-accident-changed-earths-atmosphere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

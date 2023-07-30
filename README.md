@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
- - 💣 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - 😝 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)
+ - 💣 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
+ - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/aDYML0Z)<!-- MEMES:END -->
 
 ---
 </div>

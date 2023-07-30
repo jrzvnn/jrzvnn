@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is ChatGPT safe? Risks, data safety, and chatbot privacy explained](https://www.androidauthority.com/is-chatgpt-safe-risks-data-privacy-3351171/)
  - [What analysts expect from Apples Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
  - [A look at nine under-the-radar lobbying firms helping influence US crypto legislation in 2023 on behalf of Binance, Crypto.com, Coinbase, and others &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/230730/p8#a230730p8)
  - [Can ChatGPT solve math problems? Best practices, plugins, and alternatives](https://www.androidauthority.com/can-chatgpt-solve-math-problems-3351164/)
- - [An in-depth look at a January strike at Amazon&#39;s BHX4 Coventry warehouse, a carefully planned and legal effort, the likes of which Amazon UK had never faced &lpar;Jack Shenker/The Guardian&rpar;](http://www.techmeme.com/230730/p7#a230730p7)
- - [Baseus AirNora 2 review: earbuds for music and makeup lovers](https://appleinsider.com/articles/23/07/30/baseus-airnora-2-review-earbuds-for-music-and-makeup-lovers?utm_medium=rss)<!-- TECH:END -->
+ - [An in-depth look at a January strike at Amazon&#39;s BHX4 Coventry warehouse, a carefully planned and legal effort, the likes of which Amazon UK had never faced &lpar;Jack Shenker/The Guardian&rpar;](http://www.techmeme.com/230730/p7#a230730p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

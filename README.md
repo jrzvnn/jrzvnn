@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Figure this mf](http://9gag.com/gag/agojZd6)
- - 😝 [I have never looked more forward to NOT watch a show as much as I am about season 4. F**k you Netflix!!!](http://9gag.com/gag/az2QvVx)
- - 💣 [France adds exciting new Eiffel Tower tourist activity](http://9gag.com/gag/aGEb68K)
- - 😝 [I&#39;m gonna ask for a discount](http://9gag.com/gag/aDYMLVx)
- - 👉 [...as compared to the previous 12+ hour, 6-7 work week](http://9gag.com/gag/a3ZnzPN)<!-- MEMES:END -->
+ - 😝 [She found out](http://9gag.com/gag/armzD0y)
+ - 😝 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)
+ - 💣 [Driver gets into a panic after crashing into a tire shop in Japan](http://9gag.com/gag/aDYMPDK)
+ - 😝 [Christmas is over](http://9gag.com/gag/abvEd18)
+ - 👉 [No one can mess with fabric of time](http://9gag.com/gag/abvEmqb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hart for the game](http://9gag.com/gag/aMEyNGx)
  - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 💣 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
  - 😝 [Post](http://9gag.com/gag/abvEmD9)
+ - 💣 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)
+ - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
  - 👉 [They were so natural](http://9gag.com/gag/a1PwgnP)<!-- MEMES:END -->
 
 ---

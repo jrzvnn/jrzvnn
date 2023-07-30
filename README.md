@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post](http://9gag.com/gag/abvEmD9)
- - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 😝 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)
+ - 😝 [Good news of the day](http://9gag.com/gag/aNw3X73)
  - 💣 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)
- - 😝 [The Swedish Police initiates a special event. Equipped with automatic weapons. After the entire Muslim world declared war on Sweden after a Muslim immigrant burned a Koran in Sweden...](http://9gag.com/gag/aMEyNDX)
- - 👉 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)<!-- MEMES:END -->
+ - 😝 [When you beat world record and suddenly receive 30000 usd. Ruta Meilutyte - Lithuania.](http://9gag.com/gag/agojbGw)
+ - 👉 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)<!-- MEMES:END -->
 
 ---
 </div>

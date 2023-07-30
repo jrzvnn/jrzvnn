@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should You Buy an Active Chair? I Tested Some—and Talked to the Experts](https://www.wired.com/story/should-you-buy-an-active-chair/)
  - [What Isaac Asimov’s Robbie Teaches About AI and How Minds &#39;Work&#39;](https://www.wired.com/story/artificial-intelligence-minds-science-fiction/)
  - [An interview with Yael Tauman Kalai, a Microsoft cryptographer who won the 2022 ACM Prize in Computing, on cryptography, &quot;post-quantum&quot; security, and more &lpar;Allison Parshall/Quanta Magazine&rpar;](http://www.techmeme.com/230730/p3#a230730p3)
  - [Starlink&#39;s near total control of satellite internet is raising global alarms; 4,500+ Starlink satellites are in orbit, accounting for 50%+ of active satellites &lpar;New York Times&rpar;](http://www.techmeme.com/230730/p2#a230730p2)
- - [Germany vs. Colombia: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/germany-vs-colombia-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)
- - [Japan plans to add ~110K new trainees to acquire digital skills through fiscal 2024, as the government projects a 2.3M digital worker shortage by fiscal 2026 &lpar;Hiroyuki Akiyama/Nikkei Asia&rpar;](http://www.techmeme.com/230730/p1#a230730p1)<!-- TECH:END -->
+ - [Germany vs. Colombia: How to Watch FIFA Women&#39;s World Cup 2023 Game Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/germany-vs-colombia-how-to-watch-fifa-womens-world-cup-2023-game-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why tf are they consoling her for Fkng around?](http://9gag.com/gag/agojZpr)
- - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
- - 💣 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
- - 😝 [Uhhh\u2026excuse me?????](http://9gag.com/gag/avQmBKd)
- - 👉 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)<!-- MEMES:END -->
+ - 😝 [I cant be the only one who sees this...](http://9gag.com/gag/aA0ZAPg)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 💣 [Niger&#39;s finance minister is given 48hrs to explain country&#39;s finances and missing money or face execution by firing squad. The country was overthrown in a military coup on 26th July](http://9gag.com/gag/anzV3PE)
+ - 😝 [Poetry in motion](http://9gag.com/gag/ajVywrg)
+ - 👉 [Sorry, sir, my dad has the same exact car.](http://9gag.com/gag/ap987Zb)<!-- MEMES:END -->
 
 ---
 </div>

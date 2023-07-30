@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On this day in 1980 Moscow Olympics, Polish athlete W.Kozakiewicz was booed heavily by russians. He responded by winning gold medal, breaking world record &lpar;pole vault&rpar; and showing russians this sign, which became iconic in Poland.](http://9gag.com/gag/aA0ZAyZ)
- - 😝 [Say hi](http://9gag.com/gag/aZDv4Z3)
- - 💣 [Real vs Fake](http://9gag.com/gag/a5XDvpV)
- - 😝 [Moscow never sleeps &lpar;c&rpar; Budanov](http://9gag.com/gag/a3ZngM3)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 😝 [When a Hippo tries to cross the border](http://9gag.com/gag/a4oVxQy)
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 💣 [Very underrated post, continue it if you want](http://9gag.com/gag/a9qBZ5W)
+ - 😝 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
+ - 👉 [Post](http://9gag.com/gag/abvEmD9)<!-- MEMES:END -->
 
 ---
 </div>

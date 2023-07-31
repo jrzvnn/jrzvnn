@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 💣 [Niger&#39;s finance minister is given 48hrs to explain country&#39;s finances and missing money or face execution by firing squad. The country was overthrown in a military coup on 26th July](http://9gag.com/gag/anzV3PE)
- - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
- - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 😝 [Poetry in motion](http://9gag.com/gag/ajVywrg)
+ - 💣 [They were so natural](http://9gag.com/gag/a1PwgnP)
+ - 😝 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)
+ - 👉 [They are so interesting I have to pull over to listen more](http://9gag.com/gag/avQmwEq)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Single moms be like](http://9gag.com/gag/abvE82O)
  - 😝 [Dont talk before coffee - comic by `hollering elk`](http://9gag.com/gag/a04wqyB)
- - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 💣 [Budget armor](http://9gag.com/gag/a1Pw3Yw)
  - 😝 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)
  - 👉 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)<!-- MEMES:END -->
 

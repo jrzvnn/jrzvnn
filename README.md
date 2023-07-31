@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sure there&#39;s a lesson in all of this.](http://9gag.com/gag/aA0ZzR2)
- - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
- - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
 
 ---
 </div>

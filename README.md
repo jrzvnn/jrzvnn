@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Someone Has to Deliver Your Packages in This Scorching Heat](https://www.wired.com/story/someone-has-to-deliver-your-packages-in-this-scorching-heat/)
+ - [Apple iOS, Google Android Patch Zero-Days in July Security Updates](https://www.wired.com/story/apple-google-microsoft-zero-day-fix-july-2023/)
+ - [Apple Watch emergency calls false positives slammed by UK police chiefs](https://appleinsider.com/articles/23/07/31/apple-watch-emergency-calls-false-positives-slammed-by-uk-police-chiefs?utm_medium=rss)
  - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [Oregon driver saved by iPhone 14 crash detection](https://appleinsider.com/articles/23/07/31/oregon-driver-saved-by-iphone-14-crash-detection?utm_medium=rss)
- - [TikTok’s Berberine Fad Is About More Than ‘Nature&#39;s Ozempic’](https://www.wired.com/story/berberine-social-media-trend/)
- - [Windows 11 is getting multiple monitor refresh rate improvements](https://www.theverge.com/2023/7/31/23813770/microsoft-windows-11-multiple-monitors-refresh-rate-improvements)
- - [You told us: Many of you are sticking with Spotify due to Spotify Connect](https://www.androidauthority.com/spotify-connect-poll-results-3351218/)<!-- TECH:END -->
+ - [Oregon driver saved by iPhone 14 crash detection](https://appleinsider.com/articles/23/07/31/oregon-driver-saved-by-iphone-14-crash-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

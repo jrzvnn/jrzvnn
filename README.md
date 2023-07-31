@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nintendo plans to release a new console in H2 2024, with portable mode, an LCD screen, and a cartridge slot; key partners already have development kits &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230731/p25#a230731p25)
  - [The California Privacy Protection Agency plans to review manufacturers&#39; treatment of data collected from vehicles, including locations and images from cameras &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230731/p24#a230731p24)
  - [Apple releases revised macOS Sonoma, iOS 17 developer beta 4](https://appleinsider.com/articles/23/07/31/apple-releases-revised-macos-sonoma-developer-beta-4?utm_medium=rss)
  - [Seoul-based Finda, which runs an online loan comparison service, raised a ~$37M Series C from JB Financial and 500 Global; Finda brokered ~$3B in loans in 2022 &lpar;Shruti Khairnar/FinTech Futures&rpar;](http://www.techmeme.com/230731/p23#a230731p23)
- - [Chevy’s Blazer EV starts shipping, and the electric SUV will cost buyers a little extra](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)
- - [A German data watchdog says it has been probing Worldcoin since November 2022 due to concerns over the project processing &quot;sensitive data at a very large scale&quot; &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/230731/p22#a230731p22)<!-- TECH:END -->
+ - [Chevy’s Blazer EV starts shipping, and the electric SUV will cost buyers a little extra](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
- - 😝 [Hmmm who is actually doing fraud and being the criminal here?](http://9gag.com/gag/aEqEbKN)
- - 💣 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
+ - 😝 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
+ - 😝 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
+ - 💣 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
  - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 </div>

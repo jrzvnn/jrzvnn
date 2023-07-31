@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay charged with multiple unfair labor complaints in struggle with its first union](https://www.theverge.com/2023/7/31/23813935/ebay-tcgplayer-union-labor-unfair-complaints-cwa)
  - [Airalo, which offers affordable eSIM roaming packages for travelers, raised a $60M Series B led by e&amp; Capital at a $250M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230731/p12#a230731p12)
  - [Daily Deals July 31: 55% off 2018 Mac mini, 46% off 2021 M1 MacBook Pro, iPhone 14 Pro Max $920, more](https://appleinsider.com/articles/23/07/31/daily-deals-july-31-55-off-2018-mac-mini-46-off-2021-m1-macbook-pro-iphone-14-pro-max-920-more?utm_medium=rss)
  - [New app lets you design your own Apple Store sales displays](https://appleinsider.com/articles/23/07/31/new-app-lets-you-design-your-own-apple-store-sales-displays?utm_medium=rss)
- - [Best Ways to Read Digital Comics in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-ways-to-read-digital-comics-in-2023/#ftag=CAD590a51e)
- - [Amazon’s best Fire TV streaming stick is back down to its lowest price of $24.99](https://www.theverge.com/2023/7/31/23813875/amazon-fire-tv-max-echo-show-turtle-beach-recon-controller-deal-sale)<!-- TECH:END -->
+ - [Best Ways to Read Digital Comics in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-ways-to-read-digital-comics-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

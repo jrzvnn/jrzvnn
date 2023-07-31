@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether reports a $850M net profit in Q2, vs. $1.5B in Q1, with ~$3.3B in excess reserves, up from $2.44B in Q1, and $86.5B+ in total assets as of June 30 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230731/p8#a230731p8)
+ - [Samsung Galaxy Tab S9 Ultra vs Apple iPad Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-vs-apple-ipad-pro-3350962/)
+ - [TCL Q6 Review: Best Overall](https://www.wired.com/tcl-q6-2023/)
  - [Here’s how long your Flip 5, Fold 5 screens will last in very cold weather](https://www.androidauthority.com/samsung-galaxy-flip-fold-5-cold-weather-folds-3351239/)
- - [Twitter/X threatens to sue Center for Countering Digital Hate, alleging the nonprofit made &quot;troubling and baseless claims&quot; to hurt Twitter and its ad business &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p7#a230731p7)
- - [After a digital artist opted out of the Stable Diffusion training set, the community made a model copying his style, raising questions around open-source models &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/230731/p6#a230731p6)
- - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [Piper Sandler hikes Apple stock price target to $220 on long-term forecast](https://appleinsider.com/articles/23/07/31/piper-sandler-hikes-apple-stock-price-target-to-220-on-long-term-forecast?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter/X threatens to sue Center for Countering Digital Hate, alleging the nonprofit made &quot;troubling and baseless claims&quot; to hurt Twitter and its ad business &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p7#a230731p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

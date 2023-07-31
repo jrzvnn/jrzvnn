@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo allegedly prepping an 8-inch Windows-based Steam Deck competitor](https://www.androidauthority.com/lenovo-legion-go-3351352/)
  - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)
  - [Nintendo’s next-gen console could come as soon as 2024](https://www.theverge.com/2023/7/31/23814298/nintendo-switch-sequel-2024-rumor)
  - [Galaxy Smart Tag 2 redesign shown off in certification application](https://www.androidauthority.com/samsung-galaxy-tag-2-design-3351340/)
- - [Ampere Analysis: ad tiers from Netflix, Disney, and others have collectively crossed 100M users in the US; 90%+ of Hulu subscribers are on its ad-supported tier &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230731/p17#a230731p17)
- - [AirPods Pro vs Sony WF-1000XM5 -- compared](https://appleinsider.com/inside/airpods-pro-2/vs/airpods-pro-vs-sony-wf-1000xm5----compared?utm_medium=rss)<!-- TECH:END -->
+ - [Ampere Analysis: ad tiers from Netflix, Disney, and others have collectively crossed 100M users in the US; 90%+ of Hulu subscribers are on its ad-supported tier &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230731/p17#a230731p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

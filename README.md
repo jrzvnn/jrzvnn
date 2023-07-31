@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
  - [Oregon driver saved by iPhone 14 crash detection](https://appleinsider.com/articles/23/07/31/oregon-driver-saved-by-iphone-14-crash-detection?utm_medium=rss)
  - [TikTok’s Berberine Fad Is About More Than ‘Nature&#39;s Ozempic’](https://www.wired.com/story/berberine-social-media-trend/)
  - [Windows 11 is getting multiple monitor refresh rate improvements](https://www.theverge.com/2023/7/31/23813770/microsoft-windows-11-multiple-monitors-refresh-rate-improvements)
- - [You told us: Many of you are sticking with Spotify due to Spotify Connect](https://www.androidauthority.com/spotify-connect-poll-results-3351218/)
- - [Sony’s latest PS5 beta supports Dolby Atmos and up to 8TB of M.2 SSD storage](https://www.theverge.com/2023/7/31/23813778/sony-playstation-5-dolby-atmos-support-8tb-m2-storage)<!-- TECH:END -->
+ - [You told us: Many of you are sticking with Spotify due to Spotify Connect](https://www.androidauthority.com/spotify-connect-poll-results-3351218/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

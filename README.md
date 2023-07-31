@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/armzD0y)
- - 😝 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
+ - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
+ - 😝 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)
  - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
  - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
  - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->

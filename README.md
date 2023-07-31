@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how to score an extra $50 off the Galaxy Z Fold 5 or Z Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-z-flip-5-deal-3351293/)
+ - [Daily Deals July 31: 16&quot; MacBook Pro $1,449, Anker Thunderbolt 4 dock $199, iPhone 14 Pro Max $920, more](https://appleinsider.com/articles/23/07/31/daily-deals-july-31-55-off-2018-mac-mini-46-off-2021-m1-macbook-pro-iphone-14-pro-max-920-more?utm_medium=rss)
  - [A plugged-in Tesla can still make front page news somewhere](https://www.theverge.com/2023/7/31/23813946/tesla-model-y-small-town-ev-charging)
  - [Amazon will require streaming services on Fire TV to give 30% of their ad impressions to Amazon, or in certain countries share 30% of ad revenue, from Sept. 1 &lpar;Matthew Keys/Fierce Wireless&rpar;](http://www.techmeme.com/230731/p15#a230731p15)
- - [X gets big exception from Apple with one-letter App Store listing](https://appleinsider.com/articles/23/07/31/x-gets-big-exception-from-apple-gets-one-letter-app-store-listing?utm_medium=rss)
- - [Pre-Apple check by Jobs and Woz up for auction](https://appleinsider.com/articles/23/07/31/pre-apple-check-by-jobs-and-woz-up-for-auction?utm_medium=rss)
- - [Nintendo could be preparing to launch its next-gen system in 2024](https://www.androidauthority.com/nintendo-switch-next-gen-console-3351271/)<!-- TECH:END -->
+ - [X gets big exception from Apple with one-letter App Store listing](https://appleinsider.com/articles/23/07/31/x-gets-big-exception-from-apple-gets-one-letter-app-store-listing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New app lets you design your own Apple Store sales displays](https://appleinsider.com/articles/23/07/31/new-app-lets-you-design-your-own-apple-store-sales-displays?utm_medium=rss)
  - [Amazon’s best Fire TV streaming stick is back down to its lowest price of $24.99](https://www.theverge.com/2023/7/31/23813875/amazon-fire-tv-max-echo-show-turtle-beach-recon-controller-deal-sale)
  - [8BitDo’s first mechanical keyboard is a love letter to the NES](https://www.theverge.com/2023/7/31/23813761/8bitdo-retro-mechanical-keyboard-nintendo-famicom)
  - [Some Indian broadcasters are using lifelike AI anchors to deliver news, weather reports, and more, raising job loss fears and questions about media credibility &lpar;Neeta Lal/Nikkei Asia&rpar;](http://www.techmeme.com/230731/p11#a230731p11)
- - [10 years of Chromecast: From wow to meh](https://www.androidauthority.com/10-years-chromecast-3350985/)
- - [Twitter gets special permission to be ‘X’ in the iOS App Store](https://www.theverge.com/2023/7/31/23813883/twitter-x-ios-app-store-iphone-apple-elon-musk)<!-- TECH:END -->
+ - [10 years of Chromecast: From wow to meh](https://www.androidauthority.com/10-years-chromecast-3350985/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

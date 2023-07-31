@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-free driving is becoming more popular — but is it safe?](https://www.theverge.com/2023/7/31/23814104/hands-free-automated-driving-gm-super-cruise-tesla-fsd)
+ - [A killer ocean heatwave is decimating Florida’s corals](https://www.theverge.com/2023/7/31/23814003/ocean-heatwave-florida-keys-coral-reef-rescue)
  - [Lenovo allegedly prepping an 8-inch Windows-based Steam Deck competitor](https://www.androidauthority.com/lenovo-legion-go-3351352/)
  - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)
- - [Nintendo’s next-gen console could come as soon as 2024](https://www.theverge.com/2023/7/31/23814298/nintendo-switch-sequel-2024-rumor)
- - [Galaxy Smart Tag 2 redesign shown off in certification application](https://www.androidauthority.com/samsung-galaxy-tag-2-design-3351340/)
- - [Ampere Analysis: ad tiers from Netflix, Disney, and others have collectively crossed 100M users in the US; 90%+ of Hulu subscribers are on its ad-supported tier &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230731/p17#a230731p17)<!-- TECH:END -->
+ - [Nintendo’s next-gen console could come as soon as 2024](https://www.theverge.com/2023/7/31/23814298/nintendo-switch-sequel-2024-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

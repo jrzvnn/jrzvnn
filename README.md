@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how long your Flip 5, Fold 5 screens will last in very cold weather](https://www.androidauthority.com/samsung-galaxy-flip-fold-5-cold-weather-folds-3351239/)
+ - [Twitter/X threatens to sue Center for Countering Digital Hate, alleging the nonprofit made &quot;troubling and baseless claims&quot; to hurt Twitter and its ad business &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p7#a230731p7)
  - [After a digital artist opted out of the Stable Diffusion training set, the community made a model copying his style, raising questions around open-source models &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/230731/p6#a230731p6)
  - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [Piper Sandler hikes Apple stock price target to $220 on long-term forecast](https://appleinsider.com/articles/23/07/31/piper-sandler-hikes-apple-stock-price-target-to-220-on-long-term-forecast?utm_medium=rss)
- - [My Tips for a Killer Product Launch](https://www.wired.com/story/my-tips-for-a-killer-product-launch/)
- - [HP Envy 16 &lpar;2023&rpar; Review: Almost Everything You Need in a Laptop](https://www.wired.com/review/hp-envy-16-2023/)<!-- TECH:END -->
+ - [Piper Sandler hikes Apple stock price target to $220 on long-term forecast](https://appleinsider.com/articles/23/07/31/piper-sandler-hikes-apple-stock-price-target-to-220-on-long-term-forecast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

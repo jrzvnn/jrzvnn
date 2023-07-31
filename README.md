@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
- - 😝 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)
- - 💣 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
- - 👉 [That would hurt so bad](http://9gag.com/gag/aDYML0Z)<!-- MEMES:END -->
+ - 😝 [Yesterday the next president of South Africa called for the gen0cide of white people](http://9gag.com/gag/aeQWBMm)
+ - 😝 [Testing if this really is a chinese app. Tienanmen square. 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4, 89, 13,14, 6, 4](http://9gag.com/gag/a04wDvX)
+ - 💣 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 😝 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
+ - 👉 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
- - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
- - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
  - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
- - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
+ - 💣 [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 😝 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
+ - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
 
 ---
 </div>

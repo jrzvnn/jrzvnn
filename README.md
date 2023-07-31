@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter threatens to sue anti-hate organization for reporting on Twitter hate speech](https://www.theverge.com/2023/7/31/23813869/twitter-x-ccdh-lawsuit-elon-musk-anti-hate-claims)
  - [Loki season 2 looks like a race through time and space in new trailer](https://www.theverge.com/23813906/loki-s2-disney-plus-trailer-release-date)
  - [Microsoft argues its Activision Blizzard case with UK regulators](https://www.theverge.com/2023/7/31/23813956/microsoft-activision-blizzard-cma-argument-uk-regulator)
  - [Specialized Globe Haul ST Review: This Cargo Ebike Is an All-Around Winner](https://www.wired.com/review/specialized-globe-haul-st/)
- - [Apple confirms a Screen Time bug, letting kids go over the time limits imposed by parents to use apps and games, but doesn&#39;t offer a timeline for a fix &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230731/p10#a230731p10)
- - [MagSafe travel chargers, iOS features that never arrived, and more smart home news on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/31/magsafe-travel-chargers-ios-features-that-never-arrived-and-more-smart-home-news-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Apple confirms a Screen Time bug, letting kids go over the time limits imposed by parents to use apps and games, but doesn&#39;t offer a timeline for a fix &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/230731/p10#a230731p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

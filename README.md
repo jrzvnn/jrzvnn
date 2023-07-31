@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA says interim agreements are ‘a vital part’ of its plan to weather Hollywood’s labor strike](https://www.theverge.com/2023/7/31/23814077/sag-aftra-strike-interim-agreement-scabbing)
+ - [Apple rumored to be a potential ESPN strategic partner](https://appleinsider.com/articles/23/07/31/apple-rumored-to-be-a-potential-espn-strategic-partner?utm_medium=rss)
+ - [X says Elon Musk will lead product and engineering teams, CEO Linda Yaccarino will lead teams including legal and sales, and both will oversee trust and safety &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230731/p16#a230731p16)
  - [OnePlus’ debut mechanical keyboard is a Keychron with a twist](https://www.theverge.com/23814099/oneplus-keyboard-81-pro-typing-sound-test-hands-on-marble-mallow-summer-breeze)
- - [Dell is all in on generative AI](https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon)
- - [Here’s how to score an extra $50 off the Galaxy Z Fold 5 or Z Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-z-flip-5-deal-3351293/)
- - [Daily Deals July 31: 16&quot; MacBook Pro $1,449, Anker Thunderbolt 4 dock $199, iPhone 14 Pro Max $920, more](https://appleinsider.com/articles/23/07/31/daily-deals-july-31-55-off-2018-mac-mini-46-off-2021-m1-macbook-pro-iphone-14-pro-max-920-more?utm_medium=rss)
- - [A plugged-in Tesla can still make front page news somewhere](https://www.theverge.com/2023/7/31/23813946/tesla-model-y-small-town-ev-charging)<!-- TECH:END -->
+ - [Dell is all in on generative AI](https://www.theverge.com/2023/7/31/23813929/dell-generative-ai-laptops-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases revised macOS Sonoma developer beta 4](https://appleinsider.com/articles/23/07/31/apple-releases-revised-macos-sonoma-developer-beta-4?utm_medium=rss)
  - [Internal email: Google is revamping Assistant to focus on using generative AI, starting with the mobile version, and is reorganizing related teams &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230731/p19#a230731p19)
  - [How popular gaming platforms like Minecraft and Roblox are being used to promote Russia&#39;s war narrative, influencing some young and Russian-speaking audiences &lpar;New York Times&rpar;](http://www.techmeme.com/230731/p18#a230731p18)
  - [Uber driver in first-ever deadly self-driving crash pleads guilty](https://www.theverge.com/2023/7/31/23814474/uber-self-driving-fatal-crash-safety-driver-plead-guilty)
- - [Congress grills Tim Cook over App Store rules affecting NFTs and crypto](https://appleinsider.com/articles/23/07/31/congress-grills-tim-cook-over-app-store-rules-affecting-nfts-and-crypto?utm_medium=rss)
- - [Europe’s dark matter-hunting space telescope nabs its first test images](https://www.theverge.com/2023/7/31/23814266/euclid-space-telescope-dark-matter-energy-european-space-agency-nasa-max-planck-institute)<!-- TECH:END -->
+ - [Congress grills Tim Cook over App Store rules affecting NFTs and crypto](https://appleinsider.com/articles/23/07/31/congress-grills-tim-cook-over-app-store-rules-affecting-nfts-and-crypto?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chevy’s Blazer EV starts shipping, and the electric SUV will cost buyers a little extra](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)
+ - [A German data watchdog says it has been probing Worldcoin since November 2022 due to concerns over the project processing &quot;sensitive data at a very large scale&quot; &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/230731/p22#a230731p22)
  - [A US judge denies Terraform Labs&#39; motion to dismiss an SEC lawsuit, saying the SEC made a &quot;plausible claim&quot; that UST and LUNA may have violated securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230731/p21#a230731p21)
  - [Leaked Google memo shows it ‘deeply committed’ to Assistant, bringing LLM power](https://www.androidauthority.com/google-assistant-llm-3351414/)
- - [Google will ‘supercharge’ Assistant with AI that’s more like ChatGPT and Bard](https://www.theverge.com/2023/7/31/23814702/google-assistant-ai-features-layoffs-bard)
- - [Elon Musk’s extravagant ‘X’ sign atop the former Twitter HQ has been dismantled](https://www.theverge.com/2023/7/31/23814476/twitter-x-sign-removed-san-francisco-bright-light-complaints)
- - [Microsoft’s repairability push now extends to Xbox controllers, too](https://www.theverge.com/2023/7/31/23814642/microsoft-xbox-elite-controllers-repair-diy)<!-- TECH:END -->
+ - [Google will ‘supercharge’ Assistant with AI that’s more like ChatGPT and Bard](https://www.theverge.com/2023/7/31/23814702/google-assistant-ai-features-layoffs-bard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

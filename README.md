@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A consortium led by PE firms Francisco and TPG agrees to take observability software company New Relic private in an offer valuing the company at ~$6.5B &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230731/p9#a230731p9)
  - [Will there be a Samsung Galaxy Watch 6 Pro?](https://www.androidauthority.com/samsung-galaxy-watch-6-pro-release-date-specs-price-3351096/)
  - [Fisker Ocean 2023 EV First Drive: Not Ready Yet](https://www.wired.com/story/first-drive-fiskers-ocean-ev-is-just-not-ready-yet/)
  - [Apple Vision Pro release might see movie libraries updated with 3D options](https://appleinsider.com/articles/23/07/31/apple-vision-pro-release-might-see-movie-libraries-updated-with-3d-options?utm_medium=rss)
- - [Tether reports a $850M net profit in Q2, vs. $1.5B in Q1, with ~$3.3B in excess reserves, up from $2.44B in Q1, and $86.5B+ in total assets as of June 30 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230731/p8#a230731p8)
- - [Samsung Galaxy Tab S9 Ultra vs Apple iPad Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-vs-apple-ipad-pro-3350962/)<!-- TECH:END -->
+ - [Tether reports a $850M net profit in Q2, vs. $1.5B in Q1, with ~$3.3B in excess reserves, up from $2.44B in Q1, and $86.5B+ in total assets as of June 30 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230731/p8#a230731p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

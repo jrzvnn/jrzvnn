@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s repairability push now extends to Xbox controllers, too](https://www.theverge.com/2023/7/31/23814642/microsoft-xbox-elite-controllers-repair-diy)
+ - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)
  - [Sources: Nvidia has asked some cloud provider startups for their customers&#39; names; it also ensures some upstart cloud providers get early shipments of new chips &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/230731/p20#a230731p20)
  - [BBC launches an ‘experimental’ Mastodon server](https://www.theverge.com/2023/7/31/23814556/bbc-experimental-mastodon-server-twitter)
- - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)
- - [Congress grills Tim Cook over App Store rules affecting NFTs and crypto](https://appleinsider.com/articles/23/07/31/congress-grills-tim-cook-over-app-store-rules-affecting-nfts-and-crypto?utm_medium=rss)
- - [Apple releases second public betas of iOS 17, iPadOS 17, macOS Sonoma](https://appleinsider.com/articles/23/07/31/apple-releases-second-public-betas-of-ios-17-ipados-17-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

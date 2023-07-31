@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X gets big exception from Apple with one-letter App Store listing](https://appleinsider.com/articles/23/07/31/x-gets-big-exception-from-apple-gets-one-letter-app-store-listing?utm_medium=rss)
+ - [Pre-Apple check by Jobs and Woz up for auction](https://appleinsider.com/articles/23/07/31/pre-apple-check-by-jobs-and-woz-up-for-auction?utm_medium=rss)
  - [Nintendo could be preparing to launch its next-gen system in 2024](https://www.androidauthority.com/nintendo-switch-next-gen-console-3351271/)
  - [Twitter is now &quot;X&quot; in the App Store, seemingly via an exception to Apple&#39;s rule that requires app names to have two or more characters &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230731/p14#a230731p14)
- - [SEC sues crypto influencer for allegedly buying sports cars and a rare black diamond with investor funds](https://www.theverge.com/2023/7/31/23814050/sec-richard-heart-lawsuit-fraud-hex-pulsechain)
- - [Apple names ad industry vet as new creative director](https://appleinsider.com/articles/23/07/31/apple-names-ad-industry-vet-as-new-creative-director?utm_medium=rss)
- - [SEC charges Hex crypto project founder Richard Heart with conducting unregistered securities offerings, including Hex, PulseChain, and PulseX, that raised $1B+ &lpar;Decrypt&rpar;](http://www.techmeme.com/230731/p13#a230731p13)<!-- TECH:END -->
+ - [SEC sues crypto influencer for allegedly buying sports cars and a rare black diamond with investor funds](https://www.theverge.com/2023/7/31/23814050/sec-richard-heart-lawsuit-fraud-hex-pulsechain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

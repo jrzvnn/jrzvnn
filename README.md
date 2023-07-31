@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ninja warrior](http://9gag.com/gag/a5XDg0O)
- - 😝 [Greatest press conference of all time?](http://9gag.com/gag/az2QzLZ)
- - 💣 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 😝 [Poetry in motion](http://9gag.com/gag/ajVywrg)
+ - 😝 [Dont talk before coffee - comic by `hollering elk`](http://9gag.com/gag/a04wqyB)
+ - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 😝 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)
+ - 👉 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)<!-- MEMES:END -->
 
 ---
 </div>

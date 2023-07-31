@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
- - 😝 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
+ - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 😝 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
  - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
 
 ---
 </div>

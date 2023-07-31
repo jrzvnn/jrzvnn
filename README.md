@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere Analysis: ad tiers from Netflix, Disney, and others have collectively crossed 100M users in the US; 90%+ of Hulu subscribers are on its ad-supported tier &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230731/p17#a230731p17)
  - [AirPods Pro vs Sony WF-1000XM5 -- compared](https://appleinsider.com/inside/airpods-pro-2/vs/airpods-pro-vs-sony-wf-1000xm5----compared?utm_medium=rss)
  - [Amazon’s new Echo Pop has dropped back to its Prime Day price](https://www.theverge.com/2023/7/31/23814307/amazon-echo-pop-dot-show-deal-sale)
  - [SAG-AFTRA says interim agreements are ‘a vital part’ of its plan to weather Hollywood’s labor strike](https://www.theverge.com/2023/7/31/23814077/sag-aftra-strike-interim-agreement-scabbing)
- - [Apple rumored to be a potential ESPN strategic partner](https://appleinsider.com/articles/23/07/31/apple-rumored-to-be-a-potential-espn-strategic-partner?utm_medium=rss)
- - [X says Elon Musk will lead product and engineering teams, CEO Linda Yaccarino will lead teams including legal and sales, and both will oversee trust and safety &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230731/p16#a230731p16)<!-- TECH:END -->
+ - [Apple rumored to be a potential ESPN strategic partner](https://appleinsider.com/articles/23/07/31/apple-rumored-to-be-a-potential-espn-strategic-partner?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

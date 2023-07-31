@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Shenzhen-based Luxshare has won favor and increased business with Apple by being prepared to test &quot;crazy&quot; ideas and is the sole maker of the Vision Pro &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230731/p3#a230731p3)
  - [A future Android phone will finally have a rival to Apple’s Cinematic Mode](https://www.androidauthority.com/android-cinematic-mode-vivo-portrait-video-3351206/)
  - [Worldcoin presents a solution in search of its problem, has a shaky ethical foundation, and lacks decentralization or a robust approach to privacy &lpar;Molly White&rpar;](http://www.techmeme.com/230731/p2#a230731p2)
  - [The iPhone 15 series could gain an overdue ergonomic change](https://www.androidauthority.com/apple-iphone-15-edges-sharp-3350868/)
- - [Brian Armstrong says the SEC asked Coinbase to halt trading all crypto except bitcoin before it sued, and refused to explain its interpretation of the law &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230731/p1#a230731p1)
- - [Sources: Tiger Global has completed its exit from Flipkart, in a years-long selloff that led to gains totaling $3.5B &lpar;The Economic Times&rpar;](http://www.techmeme.com/230730/p11#a230730p11)<!-- TECH:END -->
+ - [Brian Armstrong says the SEC asked Coinbase to halt trading all crypto except bitcoin without explaining its interpretation of the law, before it sued Coinbase &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230731/p1#a230731p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
- - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 😝 [Dont talk before coffee - comic by `hollering elk`](http://9gag.com/gag/a04wqyB)
+ - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
  - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 👉 [Niger&#39;s finance minister is given 48hrs to explain country&#39;s finances and missing money or face execution by firing squad. The country was overthrown in a military coup on 26th July](http://9gag.com/gag/anzV3PE)<!-- MEMES:END -->
+ - 😝 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)
+ - 👉 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)<!-- MEMES:END -->
 
 ---
 </div>

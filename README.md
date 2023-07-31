@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - 😝 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 💣 [NTR](http://9gag.com/gag/ay2PAzM)
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
 
 ---
 </div>

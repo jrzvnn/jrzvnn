@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
  - 😝 [How the F is that even possible?!](http://9gag.com/gag/a7qABdq)
- - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
- - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
+ - 😝 [Did you guys switch salt for sugar?](http://9gag.com/gag/abvELVb)
+ - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 👉 [Niger&#39;s finance minister is given 48hrs to explain country&#39;s finances and missing money or face execution by firing squad. The country was overthrown in a military coup on 26th July](http://9gag.com/gag/anzV3PE)<!-- MEMES:END -->
 
 ---
 </div>

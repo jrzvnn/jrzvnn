@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know that person, he\u2019s me..](http://9gag.com/gag/a8qzOEe)
+ - 😝 [Cliffhanger vs. Camerawoman](http://9gag.com/gag/aXne31P)
  - 😝 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
- - 💣 [The Royal Palace in Oslo, Norway\uff1aMan clashed with the king&#39;s guard](http://9gag.com/gag/a6q84qL)
- - 😝 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 💣 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 </div>

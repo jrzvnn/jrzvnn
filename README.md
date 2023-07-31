@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont talk before coffee - comic by `hollering elk`](http://9gag.com/gag/a04wqyB)
- - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
- - 💣 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - 😝 [Still can t believe this happened](http://9gag.com/gag/ajVywyR)
- - 👉 [AcTuaLLy](http://9gag.com/gag/a5XDgYq)<!-- MEMES:END -->
+ - 😝 [Hmmm who is actually doing fraud and being the criminal here?](http://9gag.com/gag/aEqEbKN)
+ - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 💣 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Watch Ultra could come in dark titanium](https://appleinsider.com/articles/23/07/31/new-apple-watch-ultra-could-come-in-dark-titanium?utm_medium=rss)
  - [Customs data shows China&#39;s chip imports fell 22% YoY during H1 2023 and chipmaking equipment imports fell 23% YoY, suggesting US export restrictions are working &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230731/p4#a230731p4)
  - [Luxshare won Vision Pro role by testing crazy Apple ideas](https://appleinsider.com/articles/23/07/31/luxshare-won-vision-pro-role-by-testing-crazy-apple-ideas?utm_medium=rss)
  - [Someone Has to Deliver Your Packages in This Scorching Heat](https://www.wired.com/story/someone-has-to-deliver-your-packages-in-this-scorching-heat/)
- - [Apple iOS, Google Android Patch Zero-Days in July Security Updates](https://www.wired.com/story/apple-google-microsoft-zero-day-fix-july-2023/)
- - [Apple Watch emergency calls false positives slammed by UK police chiefs](https://appleinsider.com/articles/23/07/31/apple-watch-emergency-calls-false-positives-slammed-by-uk-police-chiefs?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iOS, Google Android Patch Zero-Days in July Security Updates](https://www.wired.com/story/apple-google-microsoft-zero-day-fix-july-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

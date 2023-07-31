@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok’s Berberine Fad Is About More Than ‘Nature&#39;s Ozempic’](https://www.wired.com/story/berberine-social-media-trend/)
+ - [Windows 11 is getting multiple monitor refresh rate improvements](https://www.theverge.com/2023/7/31/23813770/microsoft-windows-11-multiple-monitors-refresh-rate-improvements)
  - [You told us: Many of you are sticking with Spotify due to Spotify Connect](https://www.androidauthority.com/spotify-connect-poll-results-3351218/)
  - [Sony’s latest PS5 beta supports Dolby Atmos and up to 8TB of M.2 SSD storage](https://www.theverge.com/2023/7/31/23813778/sony-playstation-5-dolby-atmos-support-8tb-m2-storage)
- - [Source: Shenzhen-based Luxshare has won favor and increased business with Apple by being prepared to test &quot;crazy&quot; ideas and is the sole maker of the Vision Pro &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230731/p3#a230731p3)
- - [A future Android phone will finally have a rival to Apple’s Cinematic Mode](https://www.androidauthority.com/android-cinematic-mode-vivo-portrait-video-3351206/)
- - [Worldcoin presents a solution in search of its problem, has a shaky ethical foundation, and lacks decentralization or a robust approach to privacy &lpar;Molly White&rpar;](http://www.techmeme.com/230731/p2#a230731p2)<!-- TECH:END -->
+ - [Source: Shenzhen-based Luxshare has won favor and increased business with Apple by being prepared to test &quot;crazy&quot; ideas and is the sole maker of the Vision Pro &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230731/p3#a230731p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

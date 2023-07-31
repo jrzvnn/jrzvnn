@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
- - 💣 [American food](http://9gag.com/gag/aPgnEQK)
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 😝 [That&#39;s what pickpockets do in Italy, why don&#39;t they get arrested or got dealt with the old-fashioned way?](http://9gag.com/gag/a9qBxV1)
+ - 😝 [Childhood is ruined](http://9gag.com/gag/aGEbvRX)
+ - 💣 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 😝 [What do you think?](http://9gag.com/gag/aGEb5BZ)
+ - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
 
 ---
 </div>

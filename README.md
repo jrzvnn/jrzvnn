@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 💣 [Well Deserved](http://9gag.com/gag/aVbBpeK)
  - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 👉 [NTR](http://9gag.com/gag/ay2PAzM)<!-- MEMES:END -->
+ - 😝 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 💣 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 </div>

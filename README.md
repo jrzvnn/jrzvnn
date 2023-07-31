@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
- - 💣 [She found out](http://9gag.com/gag/ay2Pbzr)
- - 😝 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
- - 👉 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)<!-- MEMES:END -->
+ - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - 😝 [Sup](http://9gag.com/gag/adPbDKQ)
+ - 💣 [Kinda agree with her...](http://9gag.com/gag/aVbBpx2)
+ - 😝 [Up and Down!](http://9gag.com/gag/ay2PbLp)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 </div>

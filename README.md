@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tiger Global has completed its exit from Flipkart, in a years-long selloff that led to gains totaling $3.5B &lpar;The Economic Times&rpar;](http://www.techmeme.com/230730/p11#a230730p11)
+ - [Curve, a stablecoin exchange on Ethereum, says bugs in Vyper, a programming language used by parts of Curve, are being exploited; ~$100M of crypto is at risk &lpar;CoinDesk&rpar;](http://www.techmeme.com/230730/p10#a230730p10)
  - [Source: UK Home Office officials aim to lobby the ICO for expanded use of facial recognition in shops, in contrast to the EU&#39;s ban of the tech in public spaces &lpar;Mark Townsend/The Guardian&rpar;](http://www.techmeme.com/230730/p9#a230730p9)
  - [Is ChatGPT safe? Risks, data safety, and chatbot privacy explained](https://www.androidauthority.com/is-chatgpt-safe-risks-data-privacy-3351171/)
- - [What analysts expect from Apples Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [A look at nine under-the-radar lobbying firms helping influence US crypto legislation in 2023 on behalf of Binance, Crypto.com, Coinbase, and others &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/230730/p8#a230730p8)
- - [Can ChatGPT solve math problems? Best practices, plugins, and alternatives](https://www.androidauthority.com/can-chatgpt-solve-math-problems-3351164/)<!-- TECH:END -->
+ - [What analysts expect from Apples Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

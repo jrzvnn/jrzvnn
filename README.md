@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will ‘supercharge’ Assistant with AI that’s more like ChatGPT and Bard](https://www.theverge.com/2023/7/31/23814702/google-assistant-ai-features-layoffs-bard)
  - [Elon Musk’s extravagant ‘X’ sign atop the former Twitter HQ has been dismantled](https://www.theverge.com/2023/7/31/23814476/twitter-x-sign-removed-san-francisco-bright-light-complaints)
  - [Microsoft’s repairability push now extends to Xbox controllers, too](https://www.theverge.com/2023/7/31/23814642/microsoft-xbox-elite-controllers-repair-diy)
  - [PS5 Beta Update Brings 3D Audio for Dolby Atmos and 8TB Storage Support     - CNET](https://www.cnet.com/tech/gaming/ps5-beta-update-brings-3d-audio-for-dolby-atmos-and-8tb-storage-support/#ftag=CAD590a51e)
- - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)
- - [Sources: Nvidia has asked some cloud provider startups for their customers&#39; names; it also ensures some upstart cloud providers get early shipments of new chips &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/230731/p20#a230731p20)<!-- TECH:END -->
+ - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

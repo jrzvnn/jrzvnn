@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess Im a world class masturbator](http://9gag.com/gag/aEqEmO9)
- - 😝 [Up and Down!](http://9gag.com/gag/ay2PbLp)
- - 💣 [Kinda agree with her...](http://9gag.com/gag/aVbBpx2)
- - 😝 [Lol, he&#39;s not wrong](http://9gag.com/gag/aeQW8qO)
- - 👉 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)<!-- MEMES:END -->
+ - 😝 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 😝 [NTR](http://9gag.com/gag/ay2PAzM)
+ - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buckle up for some iterative smartwatches this year](https://www.theverge.com/2023/7/31/23813960/smartwatch-updates-samsung-apple-google)
+ - [Elon Musk’s extravagant ‘X’ sign atop the former Twitter HQ has been dismantled](https://www.theverge.com/2023/7/31/23814476/twitter-x-sign-removed-san-francisco-bright-light-complaints)
  - [Samsung Galaxy SmartTag 2 tracker’s new design revealed in FCC filing](https://www.theverge.com/2023/7/31/23814126/samsung-galaxy-smarttag-2-trackers-tile-pro)
  - [Hands-free driving is becoming more popular — but is it safe?](https://www.theverge.com/2023/7/31/23814104/hands-free-automated-driving-gm-super-cruise-tesla-fsd)
- - [A killer ocean heatwave is decimating Florida’s corals](https://www.theverge.com/2023/7/31/23814003/ocean-heatwave-florida-keys-coral-reef-rescue)
- - [Lenovo allegedly prepping an 8-inch Windows-based Steam Deck competitor](https://www.androidauthority.com/lenovo-legion-go-3351352/)
- - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)<!-- TECH:END -->
+ - [A killer ocean heatwave is decimating Florida’s corals](https://www.theverge.com/2023/7/31/23814003/ocean-heatwave-florida-keys-coral-reef-rescue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

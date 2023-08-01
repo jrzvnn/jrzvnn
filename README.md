@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [A lawyer for Voyager Digital says a breach exposing customer data may have occurred when Voyager started letting customers recover their funds in June &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/230801/p36#a230801p36)
+ - [Lenovo May Enter Handheld Games Market With &#39;Legion Go&#39; Console     - CNET](https://www.cnet.com/tech/gaming/lenovo-may-enter-handheld-games-market-with-legion-go-console/#ftag=CAD590a51e)
  - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)
- - [Inside Apple&#39;s efforts to grow its supply chain in India, catalyzed by protests at Foxconn in Zhengzhou, as the company seeks to build 20%+ of iPhones in India &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230801/p35#a230801p35)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Jake Paul vs. Nate Diaz: Fight Details, How to Watch, Everything You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/jake-paul-vs-nate-diaz-fight-details-how-to-watch-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

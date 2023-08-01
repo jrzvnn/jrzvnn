@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: under pressure from the EU, Meta offers to seek user consent in Europe for targeted ads based on users&#39; digital activity as soon as October 2023 &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p13#a230801p13)
+ - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
  - [Ingenious hack powers M1 Mac mini with Ethernet cable](https://appleinsider.com/articles/23/08/01/ingenious-hack-powers-m1-mac-mini-with-ethernet-cable?utm_medium=rss)
  - [After Curve disclosed a hack, CRV dropped by ~25% in three days, prompting fears of wider market turbulence; DefiLlama: crypto using Curve fell ~50% to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p12#a230801p12)
- - [Winners of the 2022 iPhone Photography Awards announced](https://appleinsider.com/articles/23/08/01/winners-of-the-2022-iphone-photography-awards-announced?utm_medium=rss)
- - [Uber reports Q2 revenue up 14% YoY to $9.23B, gross bookings up 16% YoY to $33.6B, and a $394M net income, up from a $2.6B loss in Q2 2022, its first profit &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p11#a230801p11)
- - [YouTube uses AI to summarize videos in latest test](https://www.theverge.com/2023/8/1/23815321/youtube-ai-video-summaries)<!-- TECH:END -->
+ - [Winners of the 2022 iPhone Photography Awards announced](https://appleinsider.com/articles/23/08/01/winners-of-the-2022-iphone-photography-awards-announced?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

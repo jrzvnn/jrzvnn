@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple may be preparing a new iPad mini 7 for the fall](https://appleinsider.com/articles/23/08/01/apple-may-be-preparing-a-new-ipad-mini-7-for-the-fall?utm_medium=rss)
- - [More details leak about the Galaxy S23 FE’s camera](https://www.androidauthority.com/samsung-galaxy-s23-fe-camera-leak-3351565/)
- - [A new Russian law mandates that internet platforms verify new users&#39; identities via state-approved systems before granting access, starting in December 2023 &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/230801/p23#a230801p23)
- - [Apple Watch Series 9 may gain new pink color](https://appleinsider.com/articles/23/08/01/apple-watch-series-9-may-gain-new-pink-color?utm_medium=rss)
- - [Threat intelligence and dark net monitoring startup Cyble raised a $24M Series B co-led by Blackbird Ventures and King River Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p22#a230801p22)<!-- TECH:END -->
+ - [Elon Musk’s X sues anti-hate researchers for allegedly scraping data from Twitter](https://www.theverge.com/2023/8/1/23815515/twitter-ccdh-anti-hate-research-group-lawsuit)
+ - [Apple removes many generative AI apps from its China App Store, supposedly over 100, ahead of China&#39;s new generative AI rules taking effect on August 15 &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230801/p24#a230801p24)
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
+ - [YouTube is adding a slew of new TikTok-like features to Shorts](https://www.theverge.com/2023/8/1/23814549/youtube-shorts-live-video-feed-effects-monetization-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

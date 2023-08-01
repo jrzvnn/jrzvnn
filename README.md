@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
  - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
  - 👉 [McDonalds being trashed](http://9gag.com/gag/a8qzRzd)<!-- MEMES:END -->
 
 ---

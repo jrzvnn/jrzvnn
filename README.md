@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think?](http://9gag.com/gag/aGEb5BZ)
- - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - 💣 [American food](http://9gag.com/gag/aPgnEQK)
- - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 👉 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)<!-- MEMES:END -->
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 💣 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 </div>

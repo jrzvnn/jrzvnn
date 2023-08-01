@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple makes bid to secure Pac-12 coverage for Apple TV+](https://appleinsider.com/articles/23/08/01/apple-makes-bid-to-secure-pac-12-coverage-for-apple-tv?utm_medium=rss)
- - [YouTube uses AI to summarize videos in latest test](https://www.theverge.com/2023/8/1/23815321/youtube-ai-video-summaries)
- - [New ad campaign tells you to &#39;Pay the Apple Way&#39;](https://appleinsider.com/articles/23/08/01/new-ad-campaign-tells-you-to-pay-the-apple-way?utm_medium=rss)
- - [Tesla under investigation for Model 3 and Model Y steering wheels that freeze up](https://www.theverge.com/2023/8/1/23816037/tesla-model-3-y-steering-wheel-power-nhtsa-investigation)
- - [Best Fitbit Deals: Save on Top-Rated Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pinterest reports Q2 revenue up 6% YoY to $708M, vs. $699M est., MAUs up 8% YoY to 465M, and says Q3 revenue will grow in the high single digits year over year &lpar;Eari Nakano/Bloomberg&rpar;](http://www.techmeme.com/230801/p31#a230801p31)
+ - [Warner Music Group CEO Robert Kyncl is coming to the Code Conference](https://www.theverge.com/2023/8/1/23815953/robert-kyncl-code-conference-warner-music-group-ceo)
+ - [Facebook and Instagram start blocking news in Canada](https://www.theverge.com/2023/8/1/23815994/meta-facebook-instagram-canada-news-act-blocking)
+ - [A bankrupt crypto firm tried to return funds — but customer data might’ve been stolen instead](https://www.theverge.com/2023/8/1/23815925/voyager-digital-bankrupt-crypto-data-breach-hack)
+ - [Apple makes bid to secure Pac-12 coverage for Apple TV+](https://appleinsider.com/articles/23/08/01/apple-makes-bid-to-secure-pac-12-coverage-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

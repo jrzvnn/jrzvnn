@@ -146,10 +146,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
  - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)
  - [Inside Apple&#39;s efforts to grow its supply chain in India, catalyzed by protests at Foxconn in Zhengzhou, as the company seeks to build 20%+ of iPhones in India &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230801/p35#a230801p35)
  - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Facebook Now Blocking News in Canada and Google May Follow: What To Do     - CNET](https://www.cnet.com/tech/services-and-software/facebook-now-blocking-news-in-canada-and-google-may-follow-what-to-do/#ftag=CAD590a51e)
  - [tvOS 17 &amp; watchOS 10 public beta 2 now available](https://appleinsider.com/articles/23/08/01/tvos-17-watchos-10-public-beta-2-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

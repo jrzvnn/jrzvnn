@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)
- - 😝 [Life hack](http://9gag.com/gag/aDYME17)
- - 💣 [He has a point](http://9gag.com/gag/aREDqrq)
+ - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)<!-- MEMES:END -->
+ - 👉 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)<!-- MEMES:END -->
 
 ---
 </div>

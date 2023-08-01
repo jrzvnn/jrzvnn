@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New ad campaign tells you to &#39;Pay the Apple Way&#39;](https://appleinsider.com/articles/23/08/01/new-ad-campaign-tells-you-to-pay-the-apple-way?utm_medium=rss)
+ - [Tesla under investigation for Model 3 and Model Y steering wheels that freeze up](https://www.theverge.com/2023/8/1/23816037/tesla-model-3-y-steering-wheel-power-nhtsa-investigation)
  - [TECNO POVA 5 Pro is here with back lights that support nine-color RGB](https://www.androidauthority.com/tecno-pova-5-pro-3351650/)
  - [A new Samba de Amigo game is coming to Apple Arcade](https://www.theverge.com/2023/8/1/23815513/samba-de-amigo-apple-arcade-august-releases)
- - [The best T-Mobile deals of August 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [The 20 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Anker’s new 240W desktop USB-C charger can fast-charge a 16-inch MacBook Pro](https://www.theverge.com/2023/8/1/23815763/anker-prime-240w-desktop-charger-usb-c-battery-bank)<!-- TECH:END -->
+ - [The best T-Mobile deals of August 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

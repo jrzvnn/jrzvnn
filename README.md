@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 😝 [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 😝 [Another one bites the dust.](http://9gag.com/gag/ay2PjPM)
+ - 😝 [Sadly just before the film was released the little girl&#39;s voice actor Judith Barsi was murdered by her father](http://9gag.com/gag/ap98OOE)
  - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
- - 😝 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
+ - 😝 [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
 
 ---
 </div>

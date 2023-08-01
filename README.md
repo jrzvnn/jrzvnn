@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canadians use SOS via satellite on iPhone 14 to help combat wildfire](https://appleinsider.com/articles/23/08/01/canadians-use-sos-via-satellite-on-iphone-14-to-help-combat-wildfire?utm_medium=rss)
+ - [DoubleVerify, which offers software for digital media measurement and analytics, agrees to acquire digital ad campaign optimization company Scibids for $125M &lpar;Ray Schultz/MediaPost&rpar;](http://www.techmeme.com/230731/p26#a230731p26)
  - [Sources: Nintendo plans to release a new console in H2 2024, with portable mode, an LCD screen, and a cartridge slot; key partners already have development kits &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230731/p25#a230731p25)
  - [The California Privacy Protection Agency plans to review manufacturers&#39; treatment of data collected from vehicles, including locations and images from cameras &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230731/p24#a230731p24)
- - [Apple releases revised macOS Sonoma, iOS 17 developer beta 4](https://appleinsider.com/articles/23/07/31/apple-releases-revised-macos-sonoma-developer-beta-4?utm_medium=rss)
- - [Seoul-based Finda, which runs an online loan comparison service, raised a ~$37M Series C from JB Financial and 500 Global; Finda brokered ~$3B in loans in 2022 &lpar;Shruti Khairnar/FinTech Futures&rpar;](http://www.techmeme.com/230731/p23#a230731p23)
- - [Chevy’s Blazer EV starts shipping, and the electric SUV will cost buyers a little extra](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)<!-- TECH:END -->
+ - [Apple releases revised macOS Sonoma, iOS 17 developer beta 4](https://appleinsider.com/articles/23/07/31/apple-releases-revised-macos-sonoma-developer-beta-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

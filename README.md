@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA reopens its consultation on Microsoft&#39;s Activision deal, an unusual move that could lead to a reversal of the decision to block the deal &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230801/p6#a230801p6)
  - [Court filings: FTX Group details a draft plan to repay creditors, including settling claims in USD and wiping out FTT; seven classes of creditors can now vote &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230801/p5#a230801p5)
  - [Meta’s AI ‘personas’ might launch next month](https://www.theverge.com/2023/8/1/23815287/meta-ai-persona-generative-llama-instagram-facebook)
  - [A look at South Korea&#39;s position in the tech &quot;cold war&quot;, as the country pivots away from China&#39;s economy and prepares to comply with the US-led China chip ban &lpar;Christian Davies/Financial Times&rpar;](http://www.techmeme.com/230801/p4#a230801p4)
- - [The Redmi 12 5G is the first phone with the Snapdragon 4 Gen 2](https://www.androidauthority.com/redmi-12-5g-launch-3351424/)
- - [The Z Flip 5 isn’t released yet, but it already supports CoverScreen OS](https://www.androidauthority.com/samsung-galaxy-z-flip-5-coverscreen-os-support-3351435/)<!-- TECH:END -->
+ - [The Redmi 12 5G is the first phone with the Snapdragon 4 Gen 2](https://www.androidauthority.com/redmi-12-5g-launch-3351424/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

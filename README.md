@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A regulatory disclosure shows that Fidelity has halved the valuation of Indian business messaging startup Gupshup to $697M, down from $1.4B in July 2021 &lpar;The Economic Times&rpar;](http://www.techmeme.com/230731/p28#a230731p28)
  - [The BBC launches social.bbc, an &quot;experimental&quot; Mastodon server with posts from a handful of BBC accounts, and says it will try out the server for six months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230731/p27#a230731p27)
  - [Canadians use SOS via satellite on iPhone 14 to help combat wildfire](https://appleinsider.com/articles/23/08/01/canadians-use-sos-via-satellite-on-iphone-14-to-help-combat-wildfire?utm_medium=rss)
  - [DoubleVerify, which offers software for digital media measurement and analytics, agrees to acquire digital ad campaign optimization company Scibids for $125M &lpar;Ray Schultz/MediaPost&rpar;](http://www.techmeme.com/230731/p26#a230731p26)
- - [Sources: Nintendo plans to release a new console in H2 2024, with portable mode, an LCD screen, and a cartridge slot; key partners already have development kits &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230731/p25#a230731p25)
- - [The California Privacy Protection Agency plans to review manufacturers&#39; treatment of data collected from vehicles, including locations and images from cameras &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230731/p24#a230731p24)<!-- TECH:END -->
+ - [Sources: Nintendo plans to release a new console in H2 2024, with portable mode, an LCD screen, and a cartridge slot; key partners already have development kits &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230731/p25#a230731p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - 😝 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)
- - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 😝 [Get out of the way](http://9gag.com/gag/armzwA7)
+ - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 💣 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 👉 [She found out](http://9gag.com/gag/ay2Pbzr)<!-- MEMES:END -->
 
 ---
 </div>

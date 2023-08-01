@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe, Apple, Autodesk, Nvidia, Pixar, and the Linux Foundation form the Alliance for OpenUSD, aiming to standardize Pixar&#39;s Universal Scene Description &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230801/p18#a230801p18)
  - [Apple teaming up with graphics powerhouses for new and open 3D standard](https://appleinsider.com/articles/23/08/01/apple-teaming-up-with-graphics-powerhouses-for-new-and-open-3d-standard?utm_medium=rss)
+ - [Apple Vision Pro could make the invisible, visible for engineers, troubleshooters, and technicians](https://appleinsider.com/articles/23/08/01/apple-vision-pro-could-make-the-invisible-visible-for-engineers-troubleshooters-and-technicians?utm_medium=rss)
  - [Snap launches a new Lens Creator Rewards program for Snapchat to give AR creators and developers a chance to earn up to $7,200/month for top performing Lenses &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230801/p17#a230801p17)
- - [Roborock&#39;s updated app removes the frustration of operating a robot vacuum](https://appleinsider.com/articles/23/08/01/roborocks-updated-app-removes-the-frustration-of-operating-a-robot-vacuum?utm_medium=rss)
- - [8 Best Language Learning Apps &lpar;2023&rpar;: Online Courses and a Pocket Translator](https://www.wired.com/gallery/best-language-learning-apps/)
- - [Anker’s second 3D printer is the more affordable AnkerMake M5C](https://www.theverge.com/23814966/ankermake-m5c-3d-printer-release-date-price)<!-- TECH:END -->
+ - [Roborock&#39;s updated app removes the frustration of operating a robot vacuum](https://appleinsider.com/articles/23/08/01/roborocks-updated-app-removes-the-frustration-of-operating-a-robot-vacuum?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

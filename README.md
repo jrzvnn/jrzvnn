@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 😝 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
  - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 👉 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)<!-- MEMES:END -->
+ - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
+ - 😝 [I volunteer](http://9gag.com/gag/avQm3pO)
+ - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
 
 ---
 </div>

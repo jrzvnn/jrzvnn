@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They were so natural](http://9gag.com/gag/a1PwgnP)
- - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 💣 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 😝 [Important things are happening in rural Brazil](http://9gag.com/gag/agojzDK)
+ - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
  - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---

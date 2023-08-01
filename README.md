@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
  - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 👉 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)<!-- MEMES:END -->
 
 ---
 </div>

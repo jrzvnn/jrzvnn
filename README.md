@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Clinic now offers video doctor visits in all 50 states](https://www.theverge.com/2023/8/1/23815528/amazon-clinic-video-care-telehealth-doctors-prescriptions)
- - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Halcyon: Cloudzy, a Wyoming-registered web hosting firm likely operating out of Tehran, is acting as a command-and-control provider for state-backed hackers &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230801/p29#a230801p29)
- - [Meta says it has begun ending access to news on Facebook and Instagram in Canada, following a new law that would force it to negotiate deals to pay publishers &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/230801/p28#a230801p28)
- - [Socket, which offers a scanning tool to detect vulnerabilities in open-source code, raised a $20M Series A led by a16z, taking its total funding to $24.6M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p27#a230801p27)<!-- TECH:END -->
+ - [Marvel cuts in-house podcast team in half amidst Disney layoffs](https://www.theverge.com/2023/8/1/23815914/marvel-podcast-layoffs-disney-abc-espn-national-geographic)
+ - [How illicit data brokers on apps like Telegram peddle internal Amazon market data and offer services like attacking rivals&#39; product listings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p30#a230801p30)
+ - [Cut the Rope Daily Falls Onto Netflix Games     - CNET](https://www.cnet.com/tech/gaming/cut-the-rope-daily-falls-onto-netflix-games/#ftag=CAD590a51e)
+ - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Amazon Clinic now offers video doctor visits in all 50 states](https://www.theverge.com/2023/8/1/23815528/amazon-clinic-video-care-telehealth-doctors-prescriptions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Important things are happening in rural Brazil](http://9gag.com/gag/agojzDK)
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
  - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
- - 💣 [American food](http://9gag.com/gag/aPgnEQK)
- - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 👉 [McDonalds being trashed](http://9gag.com/gag/a8qzRzd)<!-- MEMES:END -->
 
 ---
 </div>

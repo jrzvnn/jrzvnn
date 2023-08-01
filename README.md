@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threat intelligence and dark net monitoring startup Cyble raised a $24M Series B round co-led by Blackbird Ventures and King River Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p22#a230801p22)
+ - [Apple Watch Series 9 may gain new pink color](https://appleinsider.com/articles/23/08/01/apple-watch-series-9-may-gain-new-pink-color?utm_medium=rss)
+ - [Threat intelligence and dark net monitoring startup Cyble raised a $24M Series B co-led by Blackbird Ventures and King River Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p22#a230801p22)
  - [How to set up your own Contact Poster in iOS 17](https://www.theverge.com/23814601/iphone-ios-17-contact-poster-how-to)
  - [Apple TV+ series to be screened on Air Canada](https://appleinsider.com/articles/23/08/01/apple-tv-series-to-be-screened-on-air-canada?utm_medium=rss)
- - [Elon Musk wants a second chance to fail at X](https://www.theverge.com/23814989/elon-musk-banking-x-paypal)
- - [Apple TV+ cancels Uma Thurman thriller &#39;Suspicion&#39;](https://appleinsider.com/articles/23/08/01/apple-tv-cancels-uma-thurman-thriller-suspicion?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk wants a second chance to fail at X](https://www.theverge.com/23814989/elon-musk-banking-x-paypal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)
- - 😝 [That&#39;s some quality ABS](http://9gag.com/gag/aYVm2pN)
- - 💣 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - 😝 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)
+ - 😝 [Life hack](http://9gag.com/gag/aDYME17)
+ - 💣 [He has a point](http://9gag.com/gag/aREDqrq)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [Lol](http://9gag.com/gag/ap98Ozp)<!-- MEMES:END -->
+ - 👉 [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)<!-- MEMES:END -->
 
 ---
 </div>

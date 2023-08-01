@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China restricts civilian drone exports, citing Russia&#39;s war in Ukraine and concern about military use; DJI pulled out of Russia and Ukraine in April 2022 &lpar;Joe McDonald/Associated Press&rpar;](http://www.techmeme.com/230801/p3#a230801p3)
  - [Sources: Meta plans to launch a range of AI chatbots dubbed &quot;personas&quot; that exhibit personalities as soon as September, to boost engagement on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/230801/p2#a230801p2)
  - [Sources: senior EU and US officials are concerned about China&#39;s accelerated push into the production of older-generation chips made with 28nm equipment or above &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p1#a230801p1)
  - [PS5 gaining Dolby Atmos support, benefiting HomePod home theater users](https://appleinsider.com/articles/23/08/01/ps5-gaining-dolby-atmos-support-benefiting-homepod-home-theater-users?utm_medium=rss)
- - [A regulatory disclosure shows that Fidelity has halved the valuation of Indian business messaging startup Gupshup to $697M, down from $1.4B in July 2021 &lpar;The Economic Times&rpar;](http://www.techmeme.com/230731/p28#a230731p28)
- - [The BBC launches social.bbc, an &quot;experimental&quot; Mastodon server with posts from a handful of BBC accounts, and says it will try out the server for six months &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230731/p27#a230731p27)<!-- TECH:END -->
+ - [A regulatory disclosure shows that Fidelity has halved the valuation of Indian business messaging startup Gupshup to $697M, down from $1.4B in July 2021 &lpar;The Economic Times&rpar;](http://www.techmeme.com/230731/p28#a230731p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

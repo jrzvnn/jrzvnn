@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - 😝 [Another one bites the dust.](http://9gag.com/gag/ay2PjPM)
- - 💣 [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 😝 [9gag deleted previous post but i&#39;ll try again, and again](http://9gag.com/gag/aqeAoEZ)
+ - 😝 [Lock Opened With Milk Jug](http://9gag.com/gag/ap98O8W)
+ - 💣 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 👉 [He has a point](http://9gag.com/gag/aREDqrq)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Up and Down!](http://9gag.com/gag/ay2PbLp)
- - 😝 [American food](http://9gag.com/gag/aPgnEQK)
- - 💣 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)
- - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 👉 [Lock Opened With Milk Jug](http://9gag.com/gag/ap98O8W)<!-- MEMES:END -->
+ - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 👉 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)<!-- MEMES:END -->
 
 ---
 </div>

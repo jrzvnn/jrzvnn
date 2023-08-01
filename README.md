@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 💣 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
- - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
+ - 💣 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 😝 [American food](http://9gag.com/gag/aPgnEQK)
+ - 👉 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)<!-- MEMES:END -->
 
 ---
 </div>

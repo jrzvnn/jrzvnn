@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Winners of the 2022 iPhone Photography Awards announced](https://appleinsider.com/articles/23/08/01/winners-of-the-2022-iphone-photography-awards-announced?utm_medium=rss)
+ - [Uber reports Q2 revenue up 14% YoY to $9.23B, gross bookings up 16% YoY to $33.6B, and a $394M net income, up from a $2.6B loss in Q2 2022, its first profit &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p11#a230801p11)
+ - [YouTube uses AI to summarize videos in latest test](https://www.theverge.com/2023/8/1/23815321/youtube-ai-video-summaries)
  - [LG Display gets iPhone 15 Pro OLED approval as Samsung sees shipments rise](https://appleinsider.com/articles/23/08/01/lg-display-gets-iphone-15-pro-oled-approval-as-samsung-sees-shipments-rise?utm_medium=rss)
- - [Fellow Opus Conical Burr Grinder Review: Quiet, Versatile, Affordable](https://www.wired.com/review/fellow-opus-conical-burr-grinder/)
- - [A New Attack Impacts ChatGPT—and No One Knows How to Stop It](https://www.wired.com/story/ai-adversarial-attacks/)
- - [This Prosthetic Limb Actually Attaches to the Wearer’s Nerves](https://www.wired.com/story/this-prosthetic-limb-actually-attaches-to-the-wearers-nerves/)
- - [How AI May Be Used to Create Custom Disinformation Ahead of 2024](https://www.wired.com/story/generative-ai-custom-disinformation/)<!-- TECH:END -->
+ - [Fellow Opus Conical Burr Grinder Review: Quiet, Versatile, Affordable](https://www.wired.com/review/fellow-opus-conical-burr-grinder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

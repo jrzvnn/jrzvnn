@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I volunteer](http://9gag.com/gag/avQm3pO)
- - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 💣 [Social studies 101](http://9gag.com/gag/aBdopGD)
- - 😝 [American food](http://9gag.com/gag/aPgnEQK)
- - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 😝 [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - 😝 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 </div>

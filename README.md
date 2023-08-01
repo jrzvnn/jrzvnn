@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activists glued themself to porsche museum. Porsche didnt call police, they just switched off the lights and left them alone. Link in comments](http://9gag.com/gag/a2KGe9D)
+ - 😝 [I volunteer](http://9gag.com/gag/avQm3pO)
  - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 💣 [I volunteer](http://9gag.com/gag/avQm3pO)
- - 😝 [Heavens door](http://9gag.com/gag/aXne5jg)
- - 👉 [That&#39;s some quality ABS](http://9gag.com/gag/aYVm2pN)<!-- MEMES:END -->
+ - 💣 [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 😝 [American food](http://9gag.com/gag/aPgnEQK)
+ - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
 
 ---
 </div>

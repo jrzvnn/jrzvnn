@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To challenge TikTok, YouTube releases new Shorts creation tools for remixing, adding effects, going live, as well as a new interactive Q&amp;A sticker and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230801/p26#a230801p26)
  - [Chevy Blazer EV production starts with the AWD RS model up first](https://www.theverge.com/2023/7/31/23814482/chevy-blazer-ev-electric-suv-price-increase)
  - [A look at the nascent scene of AI chatbots trained for phishing and malware attacks, including WormGPT, DarkBERT, and FraudGPT &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230801/p25#a230801p25)
  - [Wyze’s new security camera can record continuously on battery power... but only for a day](https://www.theverge.com/2023/8/1/23814430/wyze-battery-cam-pro-record-24-7-release-date-price)
- - [This Google Pixel 6 Pro deal slashes the price by almost $400](https://www.androidauthority.com/google-pixel-6-pro-deal-3351576/)
- - [Galaxy Tab S9 FE Plus could launch very soon, even though we just saw the Tab S9](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-3351588/)<!-- TECH:END -->
+ - [This Google Pixel 6 Pro deal slashes the price by almost $400](https://www.androidauthority.com/google-pixel-6-pro-deal-3351576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

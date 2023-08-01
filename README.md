@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get out of the way](http://9gag.com/gag/armzwA7)
- - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 💣 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 👉 [She found out](http://9gag.com/gag/ay2Pbzr)<!-- MEMES:END -->
+ - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - 😝 [Sorry, sir, my dad has the same exact car.](http://9gag.com/gag/ap987Zb)
+ - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
+ - 😝 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
 
 ---
 </div>

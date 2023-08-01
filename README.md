@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super Bowl LVIII is getting slimed on Nickelodeon](https://www.theverge.com/2023/8/1/23815408/nickelodeon-super-bowl-lviii-58-nfl-slime-cbs-sports)
+ - [Best Amazon Apple deals this week knock up to $200 off AirPods, Apple Watch &amp; iPad](https://appleinsider.com/articles/23/08/01/best-amazon-apple-deals-this-week-knock-up-to-200-off-airpods-apple-watch-ipad?utm_medium=rss)
  - [Fitbit announces a newly redesigned app experience heading to users this fall](https://www.androidauthority.com/fitbit-app-redesign-fall-2023-3351423/)
  - [Embarrassingly, a FBI investigation discovered that the FBI was using blacklisted iPhone hack tools](https://appleinsider.com/articles/23/08/01/embarrassingly-a-fbi-investigation-discovered-that-the-fbi-was-using-blacklisted-iphone-hack-tools?utm_medium=rss)
- - [Apple Arcade adds new games, including a Sega classic](https://appleinsider.com/articles/23/08/01/apple-arcade-adds-new-games-including-a-sega-classic?utm_medium=rss)
- - [The Best Period Underwear, Cups, Pads, and Products &lpar;2023&rpar;](https://www.wired.com/story/best-menstrual-products/)
- - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)<!-- TECH:END -->
+ - [Apple Arcade adds new games, including a Sega classic](https://appleinsider.com/articles/23/08/01/apple-arcade-adds-new-games-including-a-sega-classic?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

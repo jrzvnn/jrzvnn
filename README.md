@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Uber CEO Dara Khosrowshahi on Uber for Teens and potential issues, rising prices, profitability, Lyft, DoorDash, driving for Uber, AI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230801/p19#a230801p19)
- - [Facebook needs stricter rules banning gender-based violence, says Oversight Board](https://www.theverge.com/2023/8/1/23815368/facebook-meta-oversight-board-gender-based-violence-moderation)
- - [You told us: You think the future of Android tablets is &lpar;mostly&rpar; bright](https://www.androidauthority.com/future-android-tablets-poll-results-3351501/)
- - [Adobe, Apple, Autodesk, Nvidia, Pixar, and the Linux Foundation form the Alliance for OpenUSD, aiming to standardize Pixar&#39;s Universal Scene Description &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230801/p18#a230801p18)
- - [Apple teaming up with graphics powerhouses for new and open 3D standard](https://appleinsider.com/articles/23/08/01/apple-teaming-up-with-graphics-powerhouses-for-new-and-open-3d-standard?utm_medium=rss)<!-- TECH:END -->
+ - [Embarrassingly, a FBI investigation discovered that the FBI was using blacklisted iPhone hack tools](https://appleinsider.com/articles/23/08/01/embarrassingly-a-fbi-investigation-discovered-that-the-fbi-was-using-blacklisted-iphone-hack-tools?utm_medium=rss)
+ - [Apple Arcade adds new games, including a Sega classic](https://appleinsider.com/articles/23/08/01/apple-arcade-adds-new-games-including-a-sega-classic?utm_medium=rss)
+ - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)
+ - [Amazon rolls out Amazon Clinic to all 50 US states and DC, available via video visits; message-based chat is only available in 34 states &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p20#a230801p20)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi on Uber for Teens and potential issues, rising prices, profitability, Lyft, DoorDash, driving for Uber, AI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230801/p19#a230801p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

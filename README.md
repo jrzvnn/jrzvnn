@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
- - 😝 [Sorry, sir, my dad has the same exact car.](http://9gag.com/gag/ap987Zb)
- - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - 😝 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
+ - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
+ - 😝 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 😝 [Trashing a restaurant because they were asked to pay $1.50 for dipping sauce](http://9gag.com/gag/aREDbKj)
+ - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
 
 ---
 </div>

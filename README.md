@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do you think?](http://9gag.com/gag/aGEb5BZ)
  - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - 😝 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
  - 💣 [American food](http://9gag.com/gag/aPgnEQK)
- - 😝 [Trashing a restaurant because they were asked to pay $1.50 for dipping sauce](http://9gag.com/gag/aREDbKj)
- - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
+ - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 👉 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)<!-- MEMES:END -->
 
 ---
 </div>

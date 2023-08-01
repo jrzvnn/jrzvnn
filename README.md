@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 💣 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
- - 😝 [American food](http://9gag.com/gag/aPgnEQK)
- - 👉 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)<!-- MEMES:END -->
+ - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
+ - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 💣 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
+ - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---
 </div>

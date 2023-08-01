@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn plans new $500 million investment in India](https://appleinsider.com/articles/23/08/01/foxconn-plans-new-500-million-investment-in-india?utm_medium=rss)
+ - [Binance announces an exchange in Japan that complies with local rules and offers 34 tokens, open for applications in mid-August before a December 1 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p8#a230801p8)
  - [Rapyd, which offers payment APIs, plans to acquire Prosus&#39; payments unit PayU for $610M, excluding its operations in India, Turkey, and Southeast Asia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230801/p7#a230801p7)
  - [Uber’s CEO Says He’ll Always Find a Reason to Say His Company Sucks](https://www.wired.com/story/uber-ceo-will-always-say-his-company-sucks/)
- - [The UK CMA reopens its consultation on Microsoft&#39;s Activision deal, an unusual move that could lead to a reversal of the decision to block the deal &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230801/p6#a230801p6)
- - [Court filings: FTX Group details a draft plan to repay creditors, including settling claims in USD and wiping out FTT; seven classes of creditors can now vote &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230801/p5#a230801p5)
- - [Meta’s AI ‘personas’ might launch next month](https://www.theverge.com/2023/8/1/23815287/meta-ai-persona-generative-llama-instagram-facebook)<!-- TECH:END -->
+ - [The UK CMA reopens its consultation on Microsoft&#39;s Activision deal, an unusual move that could lead to a reversal of the decision to block the deal &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230801/p6#a230801p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

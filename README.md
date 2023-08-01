@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)
+ - [X sues the Center for Countering Digital Hate, alleging that researchers violated its terms of service and the CFAA while studying hate speech on the platform &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/230801/p21#a230801p21)
+ - [Meta could make highly targeted ads opt-in, but only in Europe](https://www.theverge.com/2023/8/1/23815382/meta-targeted-ads-opt-in-eu-data-privacy-laws)
  - [Ford is restarting F-150 Lightning production after six-week shutdown for factory retooling](https://www.theverge.com/2023/8/1/23815464/ford-f150-lightning-production-restart-rouge-factory)
- - [Super Bowl LVIII is getting slimed on Nickelodeon](https://www.theverge.com/2023/8/1/23815408/nickelodeon-super-bowl-lviii-58-nfl-slime-cbs-sports)
- - [Best Amazon Apple deals this week knock up to $200 off AirPods, Apple Watch &amp; iPad](https://appleinsider.com/articles/23/08/01/best-amazon-apple-deals-this-week-knock-up-to-200-off-airpods-apple-watch-ipad?utm_medium=rss)
- - [Fitbit announces a newly redesigned app experience heading to users this fall](https://www.androidauthority.com/fitbit-app-redesign-fall-2023-3351423/)
- - [Embarrassingly, a FBI investigation discovered that the FBI was using blacklisted iPhone hack tools](https://appleinsider.com/articles/23/08/01/embarrassingly-a-fbi-investigation-discovered-that-the-fbi-was-using-blacklisted-iphone-hack-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Super Bowl LVIII is getting slimed on Nickelodeon](https://www.theverge.com/2023/8/1/23815408/nickelodeon-super-bowl-lviii-58-nfl-slime-cbs-sports)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

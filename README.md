@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA reports Q1 revenue up 9% YoY to $1.92B, vs. $1.59B est., net income up 29% YoY to $402M, and net bookings up 21% YoY to $1.58B &lpar;Robert Carnevale/The Wrap&rpar;](http://www.techmeme.com/230801/p34#a230801p34)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Match Group reports Q2 revenue up 4% YoY to $830M, vs. $811M est., payers down 5% YoY to 15.6M, and forecasts Q3 revenue above estimates; MTCH jumps 11%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230801/p33#a230801p33)
  - [Apple TV+ series to be screened on Air Canada](https://appleinsider.com/articles/23/08/01/apple-tv-series-to-be-screened-on-air-canada?utm_medium=rss)
- - [AMD reports Q2 revenue down 18% YoY to $5.36B, net income down 94% to $27M, Client revenue down 54% to $998M, and Data Center revenue down 11% to $1.3B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230801/p32#a230801p32)
- - [Pinterest reports Q2 revenue up 6% YoY to $708M, vs. $699M est., MAUs up 8% YoY to 465M, and says Q3 revenue will grow in the high single digits year over year &lpar;Eari Nakano/Bloomberg&rpar;](http://www.techmeme.com/230801/p31#a230801p31)
- - [Warner Music Group CEO Robert Kyncl is coming to the Code Conference](https://www.theverge.com/2023/8/1/23815953/robert-kyncl-code-conference-warner-music-group-ceo)<!-- TECH:END -->
+ - [AMD reports Q2 revenue down 18% YoY to $5.36B, net income down 94% to $27M, Client revenue down 54% to $998M, and Data Center revenue down 11% to $1.3B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230801/p32#a230801p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

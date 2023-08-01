@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: under pressure from the EU, Meta offers to seek user consent in Europe for targeted ads based on users&#39; digital activity as soon as October 2023 &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p13#a230801p13)
+ - [The global race to develop quantum computing, encryption, and more demands balancing protectionism and the spirit of cooperation for the US and its allies &lpar;Damien Cave/New York Times&rpar;](http://www.techmeme.com/230801/p14#a230801p14)
+ - [Apple researching how to make AirPods charging cases into bracelets &amp; necklaces](https://appleinsider.com/articles/23/08/01/apple-researching-how-to-make-airpods-charging-cases-into-bracelets-necklaces?utm_medium=rss)
+ - [The OnePlus Open launch date may have been pushed back &lpar;for good reason&rpar;](https://www.androidauthority.com/oneplus-open-launch-date-delay-3351505/)
  - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [Ingenious hack powers M1 Mac mini with Ethernet cable](https://appleinsider.com/articles/23/08/01/ingenious-hack-powers-m1-mac-mini-with-ethernet-cable?utm_medium=rss)
- - [After Curve disclosed a hack, CRV dropped by ~25% in three days, prompting fears of wider market turbulence; DefiLlama: crypto using Curve fell ~50% to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p12#a230801p12)
- - [Winners of the 2022 iPhone Photography Awards announced](https://appleinsider.com/articles/23/08/01/winners-of-the-2022-iphone-photography-awards-announced?utm_medium=rss)<!-- TECH:END -->
+ - [TD Cowen raises AAPL target to $220 as iPhone demand in China, India grows](https://appleinsider.com/articles/23/08/01/td-cowen-raises-aapl-target-to-220-as-iphone-demand-in-china-india-grows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be preparing a new iPad mini 7 for the fall](https://appleinsider.com/articles/23/08/01/apple-may-be-preparing-a-new-ipad-mini-7-for-the-fall?utm_medium=rss)
- - [Elon Musk’s X sues anti-hate researchers for allegedly scraping data from Twitter](https://www.theverge.com/2023/8/1/23815515/twitter-ccdh-anti-hate-research-group-lawsuit)
- - [Apple removes many generative AI apps from its China App Store, supposedly over 100, ahead of China&#39;s new generative AI rules taking effect on August 15 &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230801/p24#a230801p24)
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [YouTube is adding a slew of new TikTok-like features to Shorts](https://www.theverge.com/2023/8/1/23814549/youtube-shorts-live-video-feed-effects-monetization-tiktok)<!-- TECH:END -->
+ - [Wyze’s new security camera can record continuously on battery power... but only for a day](https://www.theverge.com/2023/8/1/23814430/wyze-battery-cam-pro-record-24-7-release-date-price)
+ - [This Google Pixel 6 Pro deal slashes the price by almost $400](https://www.androidauthority.com/google-pixel-6-pro-deal-3351576/)
+ - [Galaxy Tab S9 FE Plus could launch very soon, even though we just saw the Tab S9](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-3351588/)
+ - [Amsterdam builds massive bike garage resembling an Apple Store](https://appleinsider.com/articles/23/08/01/amsterdam-builds-massive-bike-garage-resembling-an-apple-store?utm_medium=rss)
+ - [Apple may be preparing a new iPad mini 7 for the fall](https://appleinsider.com/articles/23/08/01/apple-may-be-preparing-a-new-ipad-mini-7-for-the-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

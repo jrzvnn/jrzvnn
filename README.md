@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
+ - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
+ - 😝 [Another one bites the dust.](http://9gag.com/gag/ay2PjPM)
+ - 💣 [Well Deserved](http://9gag.com/gag/aVbBpeK)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)<!-- MEMES:END -->
+ - 👉 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)<!-- MEMES:END -->
 
 ---
 </div>

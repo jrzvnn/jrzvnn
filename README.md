@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
- - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
- - 😝 [I volunteer](http://9gag.com/gag/avQm3pO)
- - 👉 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)<!-- MEMES:END -->
+ - 😝 [Up and Down!](http://9gag.com/gag/ay2PbLp)
+ - 😝 [American food](http://9gag.com/gag/aPgnEQK)
+ - 💣 [Gravity exists* Xena: LALALALALALA](http://9gag.com/gag/aREDqo5)
+ - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 👉 [Lock Opened With Milk Jug](http://9gag.com/gag/ap98O8W)<!-- MEMES:END -->
 
 ---
 </div>

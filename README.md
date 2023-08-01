@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And my axe!\u2026.oh wait\u2026never mind](http://9gag.com/gag/aqeAEbY)
- - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
- - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 😝 [Getting a cool photo while holding a stingray](http://9gag.com/gag/aeQWwZO)
- - 👉 [McDonalds being trashed](http://9gag.com/gag/a8qzRzd)<!-- MEMES:END -->
+ - 😝 [Food isn&#39;t the only problem](http://9gag.com/gag/ajVyed8)
+ - 😝 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)
+ - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
+ - 👉 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 ---
 </div>

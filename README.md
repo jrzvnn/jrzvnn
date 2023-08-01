@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk wants a second chance to fail at X](https://www.theverge.com/23814989/elon-musk-banking-x-paypal)
  - [Apple TV+ cancels Uma Thurman thriller &#39;Suspicion&#39;](https://appleinsider.com/articles/23/08/01/apple-tv-cancels-uma-thurman-thriller-suspicion?utm_medium=rss)
  - [Apple and its Vision Pro platform join Pixar&#39;s push to standardize 3D content](https://www.theverge.com/2023/8/1/23815420/apple-pixar-nvidia-adobe-openusd-3d-standardized-content-development)
  - [X sues the Center for Countering Digital Hate, alleging that researchers violated its terms of service and the CFAA while studying hate speech on the platform &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/230801/p21#a230801p21)
- - [Meta could make highly targeted ads opt-in, but only in Europe](https://www.theverge.com/2023/8/1/23815382/meta-targeted-ads-opt-in-eu-data-privacy-laws)
- - [Ford is restarting F-150 Lightning production after six-week shutdown for factory retooling](https://www.theverge.com/2023/8/1/23815464/ford-f150-lightning-production-restart-rouge-factory)<!-- TECH:END -->
+ - [Meta could make highly targeted ads opt-in, but only in Europe](https://www.theverge.com/2023/8/1/23815382/meta-targeted-ads-opt-in-eu-data-privacy-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

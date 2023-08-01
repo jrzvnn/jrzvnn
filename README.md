@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [tvOS 17 &amp; watchOS 10 public beta 2 now available](https://appleinsider.com/articles/23/08/01/tvos-17-watchos-10-public-beta-2-now-available?utm_medium=rss)
- - [Star Wars Jedi: Survivor is coming to PS4 and Xbox One](https://www.theverge.com/2023/8/1/23816311/star-wars-jedi-survivor-ps4-xbox-one)
- - [JP Morgan gives Apple a price target of $235 for December 2024](https://appleinsider.com/articles/23/08/01/jp-morgan-gives-apple-a-price-target-of-235-for-december-2024?utm_medium=rss)
- - [EA reports Q1 revenue up 9% YoY to $1.92B, vs. $1.59B est., net income up 29% YoY to $402M, and net bookings up 21% YoY to $1.58B &lpar;Robert Carnevale/The Wrap&rpar;](http://www.techmeme.com/230801/p34#a230801p34)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [MrBeast is suing his ghost kitchen partner over ‘inedible’ MrBeast Burgers](https://www.theverge.com/2023/7/31/23814558/mrbeast-sues-ghost-kitchen-partner-burger-virtual-dining-concepts)
+ - [Inside Apple&#39;s efforts to grow its supply chain in India, catalyzed by protests at Foxconn in Zhengzhou, as the company seeks to build 20%+ of iPhones in India &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230801/p35#a230801p35)
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Facebook Now Blocking News in Canada and Google May Follow: What To Do     - CNET](https://www.cnet.com/tech/services-and-software/facebook-now-blocking-news-in-canada-and-google-may-follow-what-to-do/#ftag=CAD590a51e)
+ - [tvOS 17 &amp; watchOS 10 public beta 2 now available](https://appleinsider.com/articles/23/08/01/tvos-17-watchos-10-public-beta-2-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

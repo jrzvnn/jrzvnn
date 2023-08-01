@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
  - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
- - 😝 [Still my favourite edit](http://9gag.com/gag/aMEyomP)
- - 💣 [Up and Down!](http://9gag.com/gag/ay2PbLp)
- - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
+ - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
+ - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
 
 ---
 </div>

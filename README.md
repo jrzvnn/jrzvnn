@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/ay2Pbzr)
+ - 😝 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
  - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 💣 [American food](http://9gag.com/gag/aPgnEQK)
+ - 💣 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [They copy Italy.....but that&#39;s a positive turn....](http://9gag.com/gag/aA0Zo9E)<!-- MEMES:END -->
+ - 👉 [Well Deserved](http://9gag.com/gag/aVbBpeK)<!-- MEMES:END -->
 
 ---
 </div>

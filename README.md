@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Curve disclosed a hack, CRV dropped by ~25% in three days, prompting fears of wider market turbulence; DefiLlama: crypto using Curve fell ~50% to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p12#a230801p12)
  - [Winners of the 2022 iPhone Photography Awards announced](https://appleinsider.com/articles/23/08/01/winners-of-the-2022-iphone-photography-awards-announced?utm_medium=rss)
  - [Uber reports Q2 revenue up 14% YoY to $9.23B, gross bookings up 16% YoY to $33.6B, and a $394M net income, up from a $2.6B loss in Q2 2022, its first profit &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230801/p11#a230801p11)
  - [YouTube uses AI to summarize videos in latest test](https://www.theverge.com/2023/8/1/23815321/youtube-ai-video-summaries)
- - [LG Display gets iPhone 15 Pro OLED approval as Samsung sees shipments rise](https://appleinsider.com/articles/23/08/01/lg-display-gets-iphone-15-pro-oled-approval-as-samsung-sees-shipments-rise?utm_medium=rss)
- - [Fellow Opus Conical Burr Grinder Review: Quiet, Versatile, Affordable](https://www.wired.com/review/fellow-opus-conical-burr-grinder/)<!-- TECH:END -->
+ - [LG Display gets iPhone 15 Pro OLED approval as Samsung sees shipments rise](https://appleinsider.com/articles/23/08/01/lg-display-gets-iphone-15-pro-oled-approval-as-samsung-sees-shipments-rise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

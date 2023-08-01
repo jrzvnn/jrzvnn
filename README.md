@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 😝 [One of the few interviewers to ask Michael Jackson the right questions](http://9gag.com/gag/ajVyoy0)
- - 💣 [The moment Chalino Sanchez reads a note from the cartel stating he will be killed after his performance](http://9gag.com/gag/aA0Z91o)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [Never forget...](http://9gag.com/gag/amAn4eX)
+ - 💣 [Yes or no](http://9gag.com/gag/a2KGBvZ)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)<!-- MEMES:END -->
+ - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
 
 ---
 </div>

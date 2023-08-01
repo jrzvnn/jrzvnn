@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ series to be screened on Air Canada](https://appleinsider.com/articles/23/08/01/apple-tv-series-to-be-screened-on-air-canada?utm_medium=rss)
+ - [AMD reports Q2 revenue down 18% YoY to $5.36B, net income down 94% to $27M, Client revenue down 54% to $998M, and Data Center revenue down 11% to $1.3B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230801/p32#a230801p32)
  - [Pinterest reports Q2 revenue up 6% YoY to $708M, vs. $699M est., MAUs up 8% YoY to 465M, and says Q3 revenue will grow in the high single digits year over year &lpar;Eari Nakano/Bloomberg&rpar;](http://www.techmeme.com/230801/p31#a230801p31)
  - [Warner Music Group CEO Robert Kyncl is coming to the Code Conference](https://www.theverge.com/2023/8/1/23815953/robert-kyncl-code-conference-warner-music-group-ceo)
- - [Facebook and Instagram start blocking news in Canada](https://www.theverge.com/2023/8/1/23815994/meta-facebook-instagram-canada-news-act-blocking)
- - [A bankrupt crypto firm tried to return funds — but customer data might’ve been stolen instead](https://www.theverge.com/2023/8/1/23815925/voyager-digital-bankrupt-crypto-data-breach-hack)
- - [Apple makes bid to secure Pac-12 coverage for Apple TV+](https://appleinsider.com/articles/23/08/01/apple-makes-bid-to-secure-pac-12-coverage-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook and Instagram start blocking news in Canada](https://www.theverge.com/2023/8/1/23815994/meta-facebook-instagram-canada-news-act-blocking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars Jedi: Survivor is coming to PS4 and Xbox One](https://www.theverge.com/2023/8/1/23816311/star-wars-jedi-survivor-ps4-xbox-one)
+ - [JP Morgan gives Apple a price target of $235 for December 2024](https://appleinsider.com/articles/23/08/01/jp-morgan-gives-apple-a-price-target-of-235-for-december-2024?utm_medium=rss)
  - [EA reports Q1 revenue up 9% YoY to $1.92B, vs. $1.59B est., net income up 29% YoY to $402M, and net bookings up 21% YoY to $1.58B &lpar;Robert Carnevale/The Wrap&rpar;](http://www.techmeme.com/230801/p34#a230801p34)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Match Group reports Q2 revenue up 4% YoY to $830M, vs. $811M est., payers down 5% YoY to 15.6M, and forecasts Q3 revenue above estimates; MTCH jumps 11%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230801/p33#a230801p33)
- - [Apple TV+ series to be screened on Air Canada](https://appleinsider.com/articles/23/08/01/apple-tv-series-to-be-screened-on-air-canada?utm_medium=rss)
- - [AMD reports Q2 revenue down 18% YoY to $5.36B, net income down 94% to $27M, Client revenue down 54% to $998M, and Data Center revenue down 11% to $1.3B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230801/p32#a230801p32)<!-- TECH:END -->
+ - [Match Group reports Q2 revenue up 4% YoY to $830M, vs. $811M est., payers down 5% YoY to 15.6M, and forecasts Q3 revenue above estimates; MTCH jumps 11%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230801/p33#a230801p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

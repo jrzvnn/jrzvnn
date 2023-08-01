@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Networking startup Nile, founded by ex-Cisco executives, raised a $175M Series C co-led by March Capital and Saudi Arabia&#39;s Sanabil, taking its funding to $300M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230801/p16#a230801p16)
+ - [Sony’s take-anywhere XB100 speaker is on sale for less than $50](https://www.theverge.com/2023/8/1/23814186/sony-srs-xb100-speaker-irobot-roomba-i4-lg-c3-oled-tv-deal-sale)
+ - [Neon, a serverless PostgreSQL database startup, raised a $46M Series B led by Menlo Ventures, taking its total funding to $104M, after launching in 2022 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/230801/p15#a230801p15)
  - [The global race to develop quantum computing, encryption, and more demands balancing protectionism and the spirit of cooperation for the US and its allies &lpar;Damien Cave/New York Times&rpar;](http://www.techmeme.com/230801/p14#a230801p14)
- - [Apple researching how to make AirPods charging cases into bracelets &amp; necklaces](https://appleinsider.com/articles/23/08/01/apple-researching-how-to-make-airpods-charging-cases-into-bracelets-necklaces?utm_medium=rss)
- - [The OnePlus Open launch date may have been pushed back &lpar;for good reason&rpar;](https://www.androidauthority.com/oneplus-open-launch-date-delay-3351505/)
- - [What analysts expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)
- - [TD Cowen raises AAPL target to $220 as iPhone demand in China, India grows](https://appleinsider.com/articles/23/08/01/td-cowen-raises-aapl-target-to-220-as-iphone-demand-in-china-india-grows?utm_medium=rss)<!-- TECH:END -->
+ - [Apple researching how to make AirPods charging cases into bracelets &amp; necklaces](https://appleinsider.com/articles/23/08/01/apple-researching-how-to-make-airpods-charging-cases-into-bracelets-necklaces?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
- - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 💣 [Still my favourite edit](http://9gag.com/gag/aMEyomP)
+ - 😝 [Still my favourite edit](http://9gag.com/gag/aMEyomP)
+ - 💣 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
  - 😝 [Up and Down!](http://9gag.com/gag/ay2PbLp)
  - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 

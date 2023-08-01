@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
  - [Daily deals Aug. 1: MacBook Pro 16&quot; for $1,649, 24&quot; iMac for $822, 32&quot; monitor $269 &amp; more](https://appleinsider.com/articles/23/08/01/daily-deals-aug-1-macbook-pro-16-for-1649-24-imac-for-822-32-monitor-269-more?utm_medium=rss)
  - [Reddit has rolled out a bunch of changes to the logged-out web experience](https://www.theverge.com/2023/8/1/23815698/reddit-web-logged-out-changes)
  - [Take Up to $500 Off Select Motorola Phones With These Back-to-School Discounts     - CNET](https://www.cnet.com/deals/save-on-select-motorola-phones-with-these-back-to-school-discounts/#ftag=CAD590a51e)
- - [Omega-3 Rich Foods Offer Many Benefits for Heart, Hearing and Overall Health     - CNET](https://www.cnet.com/health/nutrition/omega-3s-may-offer-heart-and-hearing-benefits/#ftag=CAD590a51e)
- - [To challenge TikTok, YouTube releases new Shorts creation tools for remixing, adding effects, going live, as well as a new interactive Q&amp;A sticker and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230801/p26#a230801p26)<!-- TECH:END -->
+ - [Omega-3 Rich Foods Offer Many Benefits for Heart, Hearing and Overall Health     - CNET](https://www.cnet.com/health/nutrition/omega-3s-may-offer-heart-and-hearing-benefits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

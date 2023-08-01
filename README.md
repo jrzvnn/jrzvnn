@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 20 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Anker’s new 240W desktop USB-C charger can fast-charge a 16-inch MacBook Pro](https://www.theverge.com/2023/8/1/23815763/anker-prime-240w-desktop-charger-usb-c-battery-bank)
+ - [Reed Jobs&#39; Yosemite plans using venture capitalism to fight cancer](https://appleinsider.com/articles/23/08/01/reed-jobs-yosemite-plans-using-venture-capitalism-to-fight-cancer?utm_medium=rss)
  - [Marvel cuts in-house podcast team in half amidst Disney layoffs](https://www.theverge.com/2023/8/1/23815914/marvel-podcast-layoffs-disney-abc-espn-national-geographic)
- - [How illicit data brokers on apps like Telegram peddle internal Amazon market data and offer services like attacking rivals&#39; product listings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p30#a230801p30)
- - [Cut the Rope Daily Falls Onto Netflix Games     - CNET](https://www.cnet.com/tech/gaming/cut-the-rope-daily-falls-onto-netflix-games/#ftag=CAD590a51e)
- - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Amazon Clinic now offers video doctor visits in all 50 states](https://www.theverge.com/2023/8/1/23815528/amazon-clinic-video-care-telehealth-doctors-prescriptions)<!-- TECH:END -->
+ - [How illicit data brokers on apps like Telegram peddle internal Amazon market data and offer services like attacking rivals&#39; product listings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230801/p30#a230801p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

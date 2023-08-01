@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pearson plans to launch generative AI study tools for the upcoming academic year, including an &quot;On a Tight Schedule&quot; feature to summarize key learning points &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230801/p10#a230801p10)
  - [Your Google data and YouTube videos will be easier to migrate after GDPR challenge](https://www.theverge.com/2023/8/1/23815304/google-data-transfer-takeout-search-youtube-gdpr-agcm)
  - [The FBI says a contractor misled the agency and used NSO&#39;s Landmark to track people in Mexico without consent; the FBI terminated the contract in April 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/230801/p9#a230801p9)
  - [Foxconn plans new $500 million investment in India](https://appleinsider.com/articles/23/08/01/foxconn-plans-new-500-million-investment-in-india?utm_medium=rss)
- - [Binance announces an exchange in Japan that complies with local rules and offers 34 tokens, open for applications in mid-August before a December 1 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p8#a230801p8)
- - [Rapyd, which offers payment APIs, plans to acquire Prosus&#39; payments unit PayU for $610M, excluding its operations in India, Turkey, and Southeast Asia &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230801/p7#a230801p7)<!-- TECH:END -->
+ - [Binance announces an exchange in Japan that complies with local rules and offers 34 tokens, open for applications in mid-August before a December 1 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p8#a230801p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

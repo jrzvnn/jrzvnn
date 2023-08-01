@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)
- - 😝 [9gag deleted previous post but i&#39;ll try again, and again](http://9gag.com/gag/aqeAoEZ)
- - 💣 [Thriller with vocal only](http://9gag.com/gag/aeQWvrm)
- - 😝 [Lock Opened With Milk Jug](http://9gag.com/gag/ap98O8W)
- - 👉 [Life hack](http://9gag.com/gag/aDYME17)<!-- MEMES:END -->
+ - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 💣 [Gotta afmit I&#39;m a bit jelly](http://9gag.com/gag/ap98MGp)
+ - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
+ - 👉 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Redmi 12 5G is the first phone with the Snapdragon 4 Gen 2](https://www.androidauthority.com/redmi-12-5g-launch-3351424/)
  - [The Z Flip 5 isn’t released yet, but it already supports CoverScreen OS](https://www.androidauthority.com/samsung-galaxy-z-flip-5-coverscreen-os-support-3351435/)
  - [China restricts civilian drone exports, citing Russia&#39;s war in Ukraine and concern about military use; DJI pulled out of Russia and Ukraine in April 2022 &lpar;Joe McDonald/Associated Press&rpar;](http://www.techmeme.com/230801/p3#a230801p3)
  - [Sources: Meta plans to launch a range of AI chatbots dubbed &quot;personas&quot; that exhibit personalities as soon as September, to boost engagement on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/230801/p2#a230801p2)
- - [Sources: senior EU and US officials are concerned about China&#39;s accelerated push into the production of older-generation chips made with 28nm equipment or above &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p1#a230801p1)
- - [PS5 gaining Dolby Atmos support, benefiting HomePod home theater users](https://appleinsider.com/articles/23/08/01/ps5-gaining-dolby-atmos-support-benefiting-homepod-home-theater-users?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: senior EU and US officials are concerned about China&#39;s accelerated push into the production of older-generation chips made with 28nm equipment or above &lpar;Bloomberg&rpar;](http://www.techmeme.com/230801/p1#a230801p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

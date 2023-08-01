@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Socket, which offers a scanning tool to detect vulnerabilities in open-source code, raised a $20M Series A led by a16z, taking its total funding to $24.6M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230801/p27#a230801p27)
+ - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
+ - [Both the PlayStation 5 and Xbox Series X are $50 off right now](https://www.theverge.com/2023/8/1/23815770/sony-playstation-5-ps5-microsoft-xbox-series-x-xsx-deal-sale)
  - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
- - [Daily deals Aug. 1: MacBook Pro 16&quot; for $1,649, 24&quot; iMac for $822, 32&quot; monitor $269 &amp; more](https://appleinsider.com/articles/23/08/01/daily-deals-aug-1-macbook-pro-16-for-1649-24-imac-for-822-32-monitor-269-more?utm_medium=rss)
- - [Reddit has rolled out a bunch of changes to the logged-out web experience](https://www.theverge.com/2023/8/1/23815698/reddit-web-logged-out-changes)
- - [Take Up to $500 Off Select Motorola Phones With These Back-to-School Discounts     - CNET](https://www.cnet.com/deals/save-on-select-motorola-phones-with-these-back-to-school-discounts/#ftag=CAD590a51e)
- - [Omega-3 Rich Foods Offer Many Benefits for Heart, Hearing and Overall Health     - CNET](https://www.cnet.com/health/nutrition/omega-3s-may-offer-heart-and-hearing-benefits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Aug. 1: MacBook Pro 16&quot; for $1,649, 24&quot; iMac for $822, 32&quot; monitor $269 &amp; more](https://appleinsider.com/articles/23/08/01/daily-deals-aug-1-macbook-pro-16-for-1649-24-imac-for-822-32-monitor-269-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

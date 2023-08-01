@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The levels of stupidity some people have.](http://9gag.com/gag/axo4wYY)
- - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 💣 [South Africans immigrating to the Netherlands increased with 580% &lpar;context in comment&rpar;](http://9gag.com/gag/aWG93g2)
- - 😝 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
+ - 😝 [Who needs flying cars when we have this](http://9gag.com/gag/aREDdp5)
+ - 😝 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 💣 [Still my favourite edit](http://9gag.com/gag/aMEyomP)
+ - 😝 [Up and Down!](http://9gag.com/gag/ay2PbLp)
  - 👉 [American food](http://9gag.com/gag/aPgnEQK)<!-- MEMES:END -->
 
 ---

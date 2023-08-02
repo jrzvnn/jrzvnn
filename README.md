@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [White Castle will bring more AI to its drive-thrus](https://www.theverge.com/2023/8/2/23817406/white-castle-soundhound-ai-sliders)
+ - [Apple says Apple Card&#39;s high-yield savings account offered by Goldman Sachs has topped over $10B in deposits since launching in April &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230802/p29#a230802p29)
  - [Viral &#39;Planet of the Bass&#39; full track coming to Apple Music soon](https://appleinsider.com/articles/23/08/02/viral-planet-of-the-bass-full-track-coming-to-apple-music-soon?utm_medium=rss)
  - [One does not simply buy the One Ring — unless you’re Post Malone](https://www.theverge.com/2023/8/2/23817243/one-ring-magic-the-gathering-post-malone)
- - [Uber paid &amp;pound;386M, or $490M, to UK tax authorities as part of a dispute over how its ride hailing app applies VAT to UK trips, but plans to appeal the decision &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230802/p28#a230802p28)
- - [Google updates its generative AI-powered Search experience with supplementary multimedia, faster responses, and more context for links in its summary box &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230802/p27#a230802p27)
- - [Philips Hue may dive into smart home security with four cameras and door sensors](https://www.theverge.com/2023/8/2/23817348/philips-hue-smart-home-security-cameras-signify-wiz)<!-- TECH:END -->
+ - [Uber paid &amp;pound;386M, or $490M, to UK tax authorities as part of a dispute over how its ride hailing app applies VAT to UK trips, but plans to appeal the decision &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230802/p28#a230802p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

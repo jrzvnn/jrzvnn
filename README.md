@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 😝 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)
- - 💣 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
+ - 👉 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)<!-- MEMES:END -->
 
 ---
 </div>

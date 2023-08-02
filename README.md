@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hopin, the struggling virtual events startup valued at nearly $7.7B in June 2021, sells its Events and Session units to RingCentral for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230802/p22#a230802p22)
+ - [Discord on Xbox will soon let you stream your gameplay to friends](https://www.theverge.com/2023/8/2/23816949/discord-xbox-stream-feature-testing-xbox-insiders)
  - [iPhone 15 demand will be lower than iPhone 14, says Kuo](https://appleinsider.com/articles/23/08/02/iphone-15-demand-will-be-lower-than-iphone-14-says-kuo?utm_medium=rss)
  - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)
- - [Apple wants a Vision Pro research software engineer to build science apps](https://appleinsider.com/articles/23/08/02/apple-wants-a-vision-pro-research-software-engineer-to-build-science-software?utm_medium=rss)
- - [Interviews with people at Worldcoin booths in Nairobi, Bengaluru, and Hong Kong find many scanned their eyes to receive the sign-up bonuses, an &quot;easy $50&quot; &lpar;Rest of World&rpar;](http://www.techmeme.com/230802/p21#a230802p21)
- - [Apple TV+ releases trailer for new Snoopy special](https://appleinsider.com/articles/23/08/02/apple-tv-releases-trailer-for-new-snoopy-special?utm_medium=rss)<!-- TECH:END -->
+ - [Grab This 2-Quart Ninja Air Fryer While It&#39;s Half Price     - CNET](https://www.cnet.com/deals/grab-this-2-quart-ninja-air-fryer-while-its-half-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

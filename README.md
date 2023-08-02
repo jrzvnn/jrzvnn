@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 😝 [Social studies 101](http://9gag.com/gag/aBdopGD)
+ - 😝 [Lol...](http://9gag.com/gag/aL1r7xA)
+ - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
  - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)<!-- MEMES:END -->
+ - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart shoppers will have more ads to check while they check out](https://www.theverge.com/2023/8/2/23817029/walmart-ads-in-store-self-checkout)
+ - [Microsoft now lets Xbox owners stream gameplay from the console to Discord users, rolling out to all Xbox users in the coming months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230802/p23#a230802p23)
+ - [Nintendo is bringing the Wii U versions of  Mario Kart 8 and Splatoon back online](https://www.theverge.com/2023/8/2/23817238/nintendo-mario-kart-8-splatoon-wii-u-online-multiplayer)
  - [AirTag 2 will launch in 2024 and work hand-in-hand with Apple Vision Pro](https://appleinsider.com/articles/23/08/02/airtag-2-will-launch-in-2024-and-work-hand-in-hand-with-apple-vision-pro?utm_medium=rss)
- - [Hopin, the struggling virtual events startup valued at nearly $7.7B in June 2021, sells its Events and Session units to RingCentral for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230802/p22#a230802p22)
- - [Discord on Xbox will soon let you stream your gameplay to friends](https://www.theverge.com/2023/8/2/23816949/discord-xbox-stream-feature-testing-xbox-insiders)
- - [iPhone 15 demand will be lower than iPhone 14, says Kuo](https://appleinsider.com/articles/23/08/02/iphone-15-demand-will-be-lower-than-iphone-14-says-kuo?utm_medium=rss)
- - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Hopin, the struggling virtual events startup valued at nearly $7.7B in June 2021, sells its Events and Session units to RingCentral for an undisclosed sum &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230802/p22#a230802p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

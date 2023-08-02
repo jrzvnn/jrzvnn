@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone is never going to get an easy battery replacement door](https://appleinsider.com/articles/23/08/02/iphone-is-never-going-to-get-an-easy-battery-replacement-door?utm_medium=rss)
- - [After iTunes failed to save classical music, Apple Music Classical seems an oddly clumsy point of entry, offering some good features but falling short of rivals &lpar;Alex Ross/New Yorker&rpar;](http://www.techmeme.com/230802/p15#a230802p15)
- - [ChatGPT uncovers Mac malware on the Dark Web](https://appleinsider.com/articles/23/08/02/chatgpt-uncovers-mac-malware-on-the-dark-web?utm_medium=rss)
- - [LK-99 Is Fueling a DIY Superconductivity Race](https://www.wired.com/story/inside-the-diy-race-to-replicate-lk-99/)
- - [How Elon Musk took over Tesla using money, strong-arm tactics, and his own popularity](https://www.theverge.com/23815634/tesla-elon-musk-origin-founder-twitter-land-of-the-giants)<!-- TECH:END -->
+ - [How to set multiple timers on your iPhone in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-multiple-timers-on-your-iphone-in-ios-17?utm_medium=rss)
+ - [&#39;Another Crab’s Treasure&#39; Does What &#39;Elden Ring&#39; Won’t](https://www.wired.com/story/another-crabs-treasure-accessibility-aggro-crab-elden-ring/)
+ - [The Galaxy Z Flip 5’s cover screen software beats Motorola’s in every way but one](https://www.theverge.com/23815917/samsung-galaxy-z-flip-5-motorola-razr-plus-cover-screen-widgets-apps-comparison-head-to-head)
+ - [Keychron’s Lemokey L3 is a premium keyboard aimed squarely at gamers](https://www.theverge.com/2023/8/2/23815485/keychron-lemokey-l3-wireless-mechanical-gaming-keyboard-price)
+ - [A look at Katie Haun&#39;s $1.5B crypto fund, launched in spring 2022 just before the crypto crash, which has now deployed ~30% of its cash to ~24 startups &lpar;Fortune&rpar;](http://www.techmeme.com/230802/p16#a230802p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

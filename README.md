@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 😝 [Strawberry](http://9gag.com/gag/aZDvA99)
- - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)<!-- MEMES:END -->
+ - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
 
 ---
 </div>

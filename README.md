@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: 14&quot; MacBook Pro $1,549, $499 Mac mini M2, $949 M2 MacBook Air &amp; more](https://appleinsider.com/articles/23/08/02/daily-deals-14-macbook-pro-1549-499-mac-mini-m2-949-m2-macbook-air-more?utm_medium=rss)
+ - [Apple&#39;s limited in-person Vision Pro developer labs are poorly attended](https://appleinsider.com/articles/23/08/02/apples-limited-in-person-vision-pro-developer-labs-are-poorly-attended?utm_medium=rss)
+ - [Sources: US DOJ officials are considering fraud charges against Binance, but worry that an indictment could cause a run on Binance like the one that befell FTX &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230802/p24#a230802p24)
  - [Roblox on Quest VR headsets has gotten ‘well over’ 1 million downloads](https://www.theverge.com/2023/8/2/23817317/roblox-quest-vr-headsets-ceo-1-million-downloads)
- - [Exclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life](https://www.theverge.com/2023/8/2/23817225/sonos-move-2-speaker-features-specs-price)
- - [China mulls mandatory &#39;minor mode&#39; on iPhone to curb youth Internet abuse](https://appleinsider.com/articles/23/08/02/china-mulls-mandatory-minor-mode-on-iphone-to-curb-youth-internet-abuse?utm_medium=rss)
- - [Visible’s cheapest plan is now even cheaper for everyone, permanently](https://www.androidauthority.com/visible-price-drop-2023-3351834/)
- - [Extreme Heat Threatens the Health of Unborn Babies](https://www.wired.com/story/extreme-heat-threatens-the-health-of-unborn-babies/)<!-- TECH:END -->
+ - [Google&#39;s AI-Powered Search Will Now Show Images and Video to Answer Your Questions     - CNET](https://www.cnet.com/tech/services-and-software/googles-ai-powered-search-will-now-show-images-and-video-to-answer-your-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

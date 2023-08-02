@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: 14&quot; MacBook Pro $1,549, $499 Mac mini M2, $949 M2 MacBook Air &amp; more](https://appleinsider.com/articles/23/08/02/daily-deals-14-macbook-pro-1549-499-mac-mini-m2-949-m2-macbook-air-more?utm_medium=rss)
- - [Apple&#39;s limited in-person Vision Pro developer labs are poorly attended](https://appleinsider.com/articles/23/08/02/apples-limited-in-person-vision-pro-developer-labs-are-poorly-attended?utm_medium=rss)
- - [Sources: US DOJ officials are considering fraud charges against Binance, but worry that an indictment could cause a run on Binance like the one that befell FTX &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230802/p24#a230802p24)
- - [Roblox on Quest VR headsets has gotten ‘well over’ 1 million downloads](https://www.theverge.com/2023/8/2/23817317/roblox-quest-vr-headsets-ceo-1-million-downloads)
- - [Google&#39;s AI-Powered Search Will Now Show Images and Video to Answer Your Questions     - CNET](https://www.cnet.com/tech/services-and-software/googles-ai-powered-search-will-now-show-images-and-video-to-answer-your-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit is closing r/Place ‘until we meet again’](https://www.theverge.com/2023/8/2/23817292/reddit-r-place-closing)
+ - [The best apps for Galaxy Z Flip 5](https://www.androidauthority.com/best-galaxy-z-flip-5-apps-3351809/)
+ - [What to do when you need to send a fax](https://www.theverge.com/23803532/fax-machine-online-how-to)
+ - [Second best price ever on the Garmin Venu Sq](https://www.androidauthority.com/garmin-venu-sq-deal-3351888/)
+ - [Daily deals: 14&quot; MacBook Pro $1,549, $499 Mac mini M2, $949 M2 MacBook Air &amp; more](https://appleinsider.com/articles/23/08/02/daily-deals-14-macbook-pro-1549-499-mac-mini-m2-949-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

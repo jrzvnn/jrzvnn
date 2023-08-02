@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget...](http://9gag.com/gag/amAn4eX)
- - 😝 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
- - 💣 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
+ - 😝 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - 😝 [Everyone believed he was a rapist because he is Indian origin.](http://9gag.com/gag/agoje9W)
+ - 💣 [Lol...](http://9gag.com/gag/aL1r7xA)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [Lol](http://9gag.com/gag/ap98Ozp)<!-- MEMES:END -->
+ - 👉 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)<!-- MEMES:END -->
 
 ---
 </div>

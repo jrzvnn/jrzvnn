@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts and executives say the UK risks becoming an also-ran in the race to roll out 5G, despite starting in 2019, due to limited investment and the Huawei ban &lpar;Financial Times&rpar;](http://www.techmeme.com/230802/p12#a230802p12)
  - [Google could take the ‘Chrome’ out of ‘Chrome OS’ very soon](https://www.androidauthority.com/google-chrome-browser-chrome-os-change-3351770/)
  - [Amazon plans to roll out the biggest overhaul to its grocery business since buying Whole Foods in the coming weeks, including one cart for supermarket offerings &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/230802/p11#a230802p11)
  - [Microsoft rolls out spatial audio for Teams on Windows and macOS after a few months of testing; the audio of each person on a call now has a distinct position &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230802/p10#a230802p10)
- - [Google&#39;s Answer Box Changed the Meaning of Information](https://www.wired.com/story/google-answer-box-information-search/)
- - [WhatsApp Made a Movie About Afghan Women&#39;s Soccer](https://www.wired.com/story/whatsapp-encryption-afghanistan-women-soccer-movie/)<!-- TECH:END -->
+ - [Google&#39;s Answer Box Changed the Meaning of Information](https://www.wired.com/story/google-answer-box-information-search/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LK-99 Superconductor: Maybe a Breakthrough, Maybe Not So Much     - CNET](https://www.cnet.com/tech/computing/lk-99-superconductor-maybe-a-breakthrough-maybe-not-so-much/#ftag=CAD590a51e)
- - [Senegal blocks TikTok amid protests over arrest of its opposition leader, after restricting access to internet services on July 31 &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p25#a230802p25)
- - [Reddit is closing r/Place ‘until we meet again’](https://www.theverge.com/2023/8/2/23817292/reddit-r-place-closing)
- - [The best apps for Galaxy Z Flip 5](https://www.androidauthority.com/best-galaxy-z-flip-5-apps-3351809/)
- - [What to do when you need to send a fax](https://www.theverge.com/23803532/fax-machine-online-how-to)<!-- TECH:END -->
+ - [We might be waiting awhile for the next version of AirTags](https://www.theverge.com/2023/8/2/23817520/apple-airtags-2-mass-production)
+ - [The WGA and the AMPTP are having their first meeting since the writing strike began](https://www.theverge.com/2023/8/2/23817454/wga-strike-amptp-carol-lombardini)
+ - [Apple Savings deposits hit $10 billion in just over three months](https://appleinsider.com/articles/23/08/02/apple-savings-deposits-hit-10-billion-in-just-over-three-months?utm_medium=rss)
+ - [Hopin, the struggling virtual events startup valued at $7.75B in August 2021, sells its Events and Session units to RingCentral; CEO Johnny Boufarhat steps down &lpar;Amy Lewin/Sifted&rpar;](http://www.techmeme.com/230802/p26#a230802p26)
+ - [LK-99 Superconductor: Maybe a Breakthrough, Maybe Not So Much     - CNET](https://www.cnet.com/tech/computing/lk-99-superconductor-maybe-a-breakthrough-maybe-not-so-much/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

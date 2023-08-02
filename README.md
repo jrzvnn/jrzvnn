@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)
- - 😝 [Hogwarts House Reveal Cookies!](http://9gag.com/gag/a04wAPX)
- - 💣 [Straight to jail](http://9gag.com/gag/a1Pwzww)
+ - 😝 [Straight to jail](http://9gag.com/gag/a1Pwzww)
+ - 💣 [Satisfying soldering solution](http://9gag.com/gag/aA0Znno)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
  - 👉 [They copy Italy.....but that&#39;s a positive turn....](http://9gag.com/gag/aA0Zo9E)<!-- MEMES:END -->
 

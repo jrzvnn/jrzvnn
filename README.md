@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacker group Cult of the Dead Cow plans to detail P2P protocol Veilid, to encrypt social media and apps, at Def Con next week, its biggest release in 10 years &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230802/p14#a230802p14)
- - [An early-stage study of 80,000 women in Sweden who underwent a mammogram in 2021 and 2022 finds AI-supported screening increased breast cancer detection by 20% &lpar;Jen Christensen/CNN&rpar;](http://www.techmeme.com/230802/p13#a230802p13)
- - [One of Gaming’s Biggest YouTubers Wants to Replace Himself With AI](https://www.wired.com/story/kwebbelkop-youtube-ai-clone/)
- - [It’s Time to Rethink Digital Ownership](https://www.wired.com/story/have-a-nice-future-podcast-16/)
- - [This Heat Is Shaking the Very Foundation of the Ocean Food Web](https://www.wired.com/story/this-heat-is-shaking-the-very-foundation-of-the-ocean-food-web/)<!-- TECH:END -->
+ - [After iTunes failed to save classical music, Apple Music Classical seems an oddly clumsy point of entry, offering some good features but falling short of rivals &lpar;Alex Ross/New Yorker&rpar;](http://www.techmeme.com/230802/p15#a230802p15)
+ - [ChatGPT uncovers Mac malware on the Dark Web](https://appleinsider.com/articles/23/08/02/chatgpt-uncovers-mac-malware-on-the-dark-web?utm_medium=rss)
+ - [LK-99 Is Fueling a DIY Superconductivity Race](https://www.wired.com/story/inside-the-diy-race-to-replicate-lk-99/)
+ - [How Elon Musk took over Tesla using money, strong-arm tactics, and his own popularity](https://www.theverge.com/23815634/tesla-elon-musk-origin-founder-twitter-land-of-the-giants)
+ - [Hacker group Cult of the Dead Cow plans to detail P2P protocol Veilid, to encrypt social media and apps, at Def Con next week, its biggest release in 10 years &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230802/p14#a230802p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

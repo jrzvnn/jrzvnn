@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LK-99 Superconductor: Maybe a Breakthrough, Maybe Not So Much     - CNET](https://www.cnet.com/tech/computing/lk-99-superconductor-maybe-a-breakthrough-maybe-not-so-much/#ftag=CAD590a51e)
  - [Senegal blocks TikTok amid protests over arrest of its opposition leader, after restricting access to internet services on July 31 &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p25#a230802p25)
  - [Reddit is closing r/Place ‘until we meet again’](https://www.theverge.com/2023/8/2/23817292/reddit-r-place-closing)
  - [The best apps for Galaxy Z Flip 5](https://www.androidauthority.com/best-galaxy-z-flip-5-apps-3351809/)
- - [What to do when you need to send a fax](https://www.theverge.com/23803532/fax-machine-online-how-to)
- - [Second best price ever on the Garmin Venu Sq](https://www.androidauthority.com/garmin-venu-sq-deal-3351888/)<!-- TECH:END -->
+ - [What to do when you need to send a fax](https://www.theverge.com/23803532/fax-machine-online-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

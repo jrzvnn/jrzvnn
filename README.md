@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
  - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 💣 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
+ - 💣 [If you know you know](http://9gag.com/gag/ay2POgr)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
  - 👉 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)<!-- MEMES:END -->
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
- - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 💣 [POV : The driver took too much](http://9gag.com/gag/aZDveyX)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)<!-- MEMES:END -->
+ - 👉 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone is never going to get an easy battery replacement door](https://appleinsider.com/articles/23/08/02/iphone-is-never-going-to-get-an-easy-battery-replacement-door?utm_medium=rss)
  - [After iTunes failed to save classical music, Apple Music Classical seems an oddly clumsy point of entry, offering some good features but falling short of rivals &lpar;Alex Ross/New Yorker&rpar;](http://www.techmeme.com/230802/p15#a230802p15)
  - [ChatGPT uncovers Mac malware on the Dark Web](https://appleinsider.com/articles/23/08/02/chatgpt-uncovers-mac-malware-on-the-dark-web?utm_medium=rss)
  - [LK-99 Is Fueling a DIY Superconductivity Race](https://www.wired.com/story/inside-the-diy-race-to-replicate-lk-99/)
- - [How Elon Musk took over Tesla using money, strong-arm tactics, and his own popularity](https://www.theverge.com/23815634/tesla-elon-musk-origin-founder-twitter-land-of-the-giants)
- - [Hacker group Cult of the Dead Cow plans to detail P2P protocol Veilid, to encrypt social media and apps, at Def Con next week, its biggest release in 10 years &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230802/p14#a230802p14)<!-- TECH:END -->
+ - [How Elon Musk took over Tesla using money, strong-arm tactics, and his own popularity](https://www.theverge.com/23815634/tesla-elon-musk-origin-founder-twitter-land-of-the-giants)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

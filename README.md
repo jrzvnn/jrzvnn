@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
- - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 👉 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)<!-- MEMES:END -->
+ - 😝 [Activists glued themself to porsche museum. Porsche didnt call police, they just switched off the lights and left them alone. Link in comments](http://9gag.com/gag/a2KGe9D)
+ - 😝 [Food isn&#39;t the only problem](http://9gag.com/gag/ajVyed8)
+ - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
+ - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
+ - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta releases AudioCraft, a new open-source AI model that lets users create music and sounds via prompts, consisting of MusicGen, AudioGen, and EnCodec models &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230802/p18#a230802p18)
  - [Harley Quinn season 4 would like to remind you who the fourth pillar of DC’s universe is](https://www.theverge.com/23815375/harley-quinn-season-4-dc)
  - [Meta’s AI music generator could be the new synthesizer — or just muzak](https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio)
  - [China proposes severe rules for internet-addicted minors](https://www.theverge.com/2023/8/2/23817035/china-internet-smartphone-regulations-minors-curfew-addiction)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-02-2023-3351326/)
- - [Google delists its AI Test Kitchen app, which let users test AI-powered tools, on Android and iOS, moving the service to the web to receive faster updates &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230802/p17#a230802p17)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-02-2023-3351326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -149,7 +149,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [A look at Amazon Fresh&#39;s challenges, including lawsuits, layoffs, and halted projects; a former employee says staff were told 2023 could be &quot;make or break&quot; &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/230802/p5#a230802p5)
  - [YouTube copies Instagram and TikTok with new Shorts features](https://www.androidauthority.com/youtube-shorts-new-features-3351745/)
  - [This Android phone for the visually impaired is surprisingly feature-packed](https://www.androidauthority.com/android-phone-blind-visually-impaired-3351195/)
- - [The Cyberspace Administration of China releases draft rules to curtail smartphone use by minors, although it is unclear how the rules will be enforced &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p4#a230802p4)
+ - [The Cyberspace Administration of China releases draft rules to curtail smartphone use by minors, although enforcement of the rules remains unclear &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p4#a230802p4)
  - [Bernstein analysts estimate that nearly 10% of servers worldwide are powered by Arm SoCs and 40% of those are in China &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230802/p3#a230802p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

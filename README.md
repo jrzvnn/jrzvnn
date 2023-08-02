@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 😝 [Everyone believed he was a rapist because he is Indian origin.](http://9gag.com/gag/agoje9W)
- - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
+ - 😝 [He has a point](http://9gag.com/gag/aREDqrq)
+ - 😝 [Good to know!](http://9gag.com/gag/ay2PgqX)
+ - 💣 [Not sure this will stop the burnings](http://9gag.com/gag/awZvRwR)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)<!-- MEMES:END -->
+ - 👉 [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol...](http://9gag.com/gag/aL1r7xA)
- - 😝 [Officer cockblocker to the rescue](http://9gag.com/gag/aQEVW18)
- - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
+ - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
+ - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
 
 ---
 </div>

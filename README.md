@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 😝 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
  - 💣 [POV : The driver took too much](http://9gag.com/gag/aZDveyX)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [Heavens door](http://9gag.com/gag/aXne5jg)<!-- MEMES:END -->
+ - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Glasgow university spinout Chemify, which is using a computing process to design new molecules with AI and make them in an automated lab, raised $43M &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230801/p39#a230801p39)
+ - [TweetDeck’s new ‘XPro’ branding is starting to show up](https://www.theverge.com/2023/8/1/23816614/tweetdeck-xpro-new-name-branding)
  - [Microsoft Teams adds spatial audio for more immersive conference calls](https://www.theverge.com/2023/8/1/23816235/microsoft-teams-mac-windows-spatial-audio-now-available)
- - [Sources: some top ad agency executives say they&#39;ll commit up to 20% more with YouTube this fall than in 2022, while traditional TV ad commitments are down 15% &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230801/p38#a230801p38)
- - [Sources: Changpeng Zhao tried to liquidate Binance.US earlier this year, before pivoting to attempting to sell the company, holding talks with Gemini and others &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/230801/p37#a230801p37)
- - [The incandescent light bulb still isn’t dead — but ‘normal’ ones are now truly banned](https://www.theverge.com/2023/8/1/23816510/incandescent-light-bulb-2023-sale-ban-usa)
- - [A lawyer for Voyager Digital says a breach exposing customer data may have occurred when Voyager started letting customers recover their funds in June &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/230801/p36#a230801p36)<!-- TECH:END -->
+ - [Sources: some top ad agency executives plan to commit at least 10% to 20% more with YouTube this fall than in 2022; traditional TV ad commitments are down 15% &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230801/p38#a230801p38)
+ - [Sources: Changpeng Zhao tried to liquidate Binance.US earlier this year, before pivoting to attempting to sell the company, holding talks with Gemini and others &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/230801/p37#a230801p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

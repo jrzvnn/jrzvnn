@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit is experiencing ‘major’ outages](https://www.theverge.com/2023/8/2/23817871/reddit-outage-issues-down-login)
+ - [Galaxy S23 could get a taste of Android 14 this week &lpar;Update: Delayed&rpar;](https://www.androidauthority.com/android-14-one-ui-6-galaxy-s23-3350787/)
+ - [Robinhood reports Q2 revenue up 10% QoQ to $486M, crypto trading revenue of $31M, down 18% QoQ, and ~$11.5M worth of crypto in assets under custody, same as Q1 &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230802/p34#a230802p34)
  - [PayPal reports Q2 revenue up 7% to $7.3B, total payment volume up 11% YoY to $376.5B, and operating margin at 21.4%, below its 22% forecast; PYPL drops 7%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p33#a230802p33)
- - [Elon Musk wants Apple to bend more App Store rules for X](https://appleinsider.com/articles/23/08/02/elon-musk-wants-apple-to-bend-more-app-store-rules-for-x?utm_medium=rss)
- - [Shopify reports Q2 revenue up 31% YoY to $1.7B, vs. $1.62B est., and GMV up 17% YoY to $55B, vs. $53.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p32#a230802p32)
- - [DoorDash reports Q2 revenue up 33% YoY to $2.13B, vs. $2.06B est., net loss down 35% YoY to $172M, above est., and orders up 25% YoY to 532M; DASH jumps 5%+ &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230802/p31#a230802p31)
- - [Qualcomm reports Q3 revenue down 23% YoY to $8.45B, vs. $8.5B est., handset chip revenue down 25% YoY to $5.26B, and net income down 52% YoY to $1.8B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230802/p30#a230802p30)<!-- TECH:END -->
+ - [Elon Musk wants Apple to bend more App Store rules for X](https://appleinsider.com/articles/23/08/02/elon-musk-wants-apple-to-bend-more-app-store-rules-for-x?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

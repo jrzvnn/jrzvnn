@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes or no](http://9gag.com/gag/a2KGBvZ)
- - 😝 [Not sure this will stop the burnings](http://9gag.com/gag/awZvRwR)
- - 💣 [Ahh yes, Banana of Luck.](http://9gag.com/gag/aXneBQg)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [Strawberry](http://9gag.com/gag/aZDvA99)
+ - 💣 [More racial &#39;harmony&#39; coming out of the rainbow nation of South Africa. Julius Malema, leader of the EFF, is singing about killing white South African farmers: `Boers`](http://9gag.com/gag/avQmMgn)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [Satisfying soldering solution](http://9gag.com/gag/aA0Znno)<!-- MEMES:END -->
+ - 👉 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
+ - 😝 [He has a point](http://9gag.com/gag/aREDqrq)
+ - 😝 [Good to know!](http://9gag.com/gag/ay2PgqX)
+ - 💣 [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)<!-- MEMES:END -->
+ - 👉 [It&#39;s magic...](http://9gag.com/gag/aOxGX4v)<!-- MEMES:END -->
 
 ---
 </div>

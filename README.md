@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
+ - 😝 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
  - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)<!-- MEMES:END -->
+ - 👉 [POV : The driver took too much](http://9gag.com/gag/aZDveyX)<!-- MEMES:END -->
 
 ---
 </div>

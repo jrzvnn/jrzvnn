@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He has a point](http://9gag.com/gag/aREDqrq)
- - 😝 [Good to know!](http://9gag.com/gag/ay2PgqX)
- - 💣 [Not sure this will stop the burnings](http://9gag.com/gag/awZvRwR)
+ - 😝 [List the gifs hidden under the floor](http://9gag.com/gag/aBdoA6D)
+ - 😝 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
+ - 💣 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
  - 😝 [Tank up for gamescom this summer and get in on the action with World of Tanks Blitz. Experience the thrills of Blitz at the WOTB @9GAG gamescom booth!](http://9gag.com/gag/a7qAz5A)
- - 👉 [Bentley girl and Citro\u00ebn wife](http://9gag.com/gag/aWG9r04)<!-- MEMES:END -->
+ - 👉 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)<!-- MEMES:END -->
 
 ---
 </div>

@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Google updates its generative AI-powered Search experience with supplementary multimedia, faster responses, and more context for links in its summary box &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230802/p27#a230802p27)
  - [Philips Hue may dive into smart home security with four cameras and door sensors](https://www.theverge.com/2023/8/2/23817348/philips-hue-smart-home-security-cameras-signify-wiz)
- - [We might be waiting awhile for the next version of AirTags](https://www.theverge.com/2023/8/2/23817520/apple-airtags-2-mass-production)
- - [The WGA and the AMPTP are having their first meeting since the writing strike began](https://www.theverge.com/2023/8/2/23817454/wga-strike-amptp-carol-lombardini)
- - [Apple Savings deposits hit $10 billion in just over three months](https://appleinsider.com/articles/23/08/02/apple-savings-deposits-hit-10-billion-in-just-over-three-months?utm_medium=rss)<!-- TECH:END -->
+ - [The best Verizon deals of August 2023](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [Lenovo May Enter Handheld Games Market With &#39;Legion Go&#39; Console     - CNET](https://www.cnet.com/tech/gaming/lenovo-may-enter-handheld-games-market-with-legion-go-console/#ftag=CAD590a51e)
+ - [We might be waiting awhile for the next version of AirTags](https://www.theverge.com/2023/8/2/23817520/apple-airtags-2-mass-production)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

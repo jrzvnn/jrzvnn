@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exclusive: the Sonos Move 2 is coming in September with stereo sound and 24-hour battery life](https://www.theverge.com/2023/8/2/23817225/sonos-move-2-speaker-features-specs-price)
  - [China mulls mandatory &#39;minor mode&#39; on iPhone to curb youth Internet abuse](https://appleinsider.com/articles/23/08/02/china-mulls-mandatory-minor-mode-on-iphone-to-curb-youth-internet-abuse?utm_medium=rss)
  - [Visible’s cheapest plan is now even cheaper for everyone, permanently](https://www.androidauthority.com/visible-price-drop-2023-3351834/)
  - [Extreme Heat Threatens the Health of Unborn Babies](https://www.wired.com/story/extreme-heat-threatens-the-health-of-unborn-babies/)
- - [Google Chrome gets iOS &amp; macOS update with new features](https://appleinsider.com/articles/23/08/02/google-chrome-gets-ios-macos-update-with-new-features?utm_medium=rss)
- - [Google’s AI search is getting more video and better links](https://www.theverge.com/2023/8/2/23817107/google-ai-search-generative-experience-videos-links)<!-- TECH:END -->
+ - [Google Chrome gets iOS &amp; macOS update with new features](https://appleinsider.com/articles/23/08/02/google-chrome-gets-ios-macos-update-with-new-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

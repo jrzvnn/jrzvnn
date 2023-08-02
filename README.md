@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
- - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 😝 [What&#39;s a meme?](http://9gag.com/gag/aeQWvOW)
  - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 👉 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)<!-- MEMES:END -->
+ - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 👉 [Judeo Christian values](http://9gag.com/gag/a8qzxAQ)<!-- MEMES:END -->
 
 ---
 </div>

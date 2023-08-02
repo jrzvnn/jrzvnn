@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Cyberspace Administration of China releases draft rules to curtail smartphone use by minors, although it is unclear how the rules will be enforced &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p4#a230802p4)
  - [Bernstein analysts estimate that nearly 10% of servers worldwide are powered by Arm SoCs and 40% of those are in China &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230802/p3#a230802p3)
  - [Sources: SoftBank&#39;s Arm is targeting an IPO at a valuation of between $60B and $70B as soon as September 2023, a sign of bullish interest in AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p2#a230802p2)
  - [GameStop plans to remove its iOS and Chrome crypto wallet extensions on November 1 due to &quot;regulatory uncertainty&quot;, about one year after rolling out the service &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230802/p1#a230802p1)
- - [Get Apple&#39;s M1 Max MacBook Pro 14 with 64GB RAM, 2TB SSD for $2,499 &lpar;up to $1,780 off&rpar;](https://appleinsider.com/articles/23/08/02/get-apples-m1-max-macbook-pro-14-with-64gb-ram-2tb-ssd-for-2499-up-to-1780-off?utm_medium=rss)
- - [Best Smart TV for 2023: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 Max MacBook Pro 14 with 64GB RAM, 2TB SSD for $2,499 &lpar;up to $1,780 off&rpar;](https://appleinsider.com/articles/23/08/02/get-apples-m1-max-macbook-pro-14-with-64gb-ram-2tb-ssd-for-2499-up-to-1780-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

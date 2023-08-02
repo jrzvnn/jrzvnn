@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shopify reports Q2 revenue up 31% YoY to $1.7B, vs. $1.62B est., and GMV up 17% YoY to $55B, vs. $53.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p32#a230802p32)
+ - [DoorDash reports Q2 revenue up 33% YoY to $2.13B, vs. $2.06B est., net loss down 35% YoY to $172M, above est., and orders up 25% YoY to 532M; DASH jumps 5%+ &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230802/p31#a230802p31)
  - [Qualcomm reports Q3 revenue down 23% YoY to $8.44B, vs. $8.5B est., handset chip sales down 25% YoY to $5.26B, and net income down 52% YoY to $1.8B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230802/p30#a230802p30)
  - [Apple&#39;s 13-inch M2 MacBook Air is on sale for $949 just in time for back-to-school](https://appleinsider.com/articles/23/08/02/apples-13-inch-m2-macbook-air-is-on-sale-for-949-just-in-time-for-back-to-school?utm_medium=rss)
- - [DJI’s new Osmo Action 4 camera delivers brighter footage for more money](https://www.theverge.com/2023/8/2/23817334/dji-osmo-action-4-video-camera-399)
- - [White Castle will bring more AI to its drive-thrus](https://www.theverge.com/2023/8/2/23817406/white-castle-soundhound-ai-sliders)
- - [Apple says Apple Card&#39;s high-yield savings account offered by Goldman Sachs has topped over $10B in deposits since launching in April &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230802/p29#a230802p29)<!-- TECH:END -->
+ - [DJI’s new Osmo Action 4 camera delivers brighter footage for more money](https://www.theverge.com/2023/8/2/23817334/dji-osmo-action-4-video-camera-399)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

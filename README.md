@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inworld, which uses AI to help developers create game characters, raised $30M led by Lightspeed at a $500M+ valuation, following a $50M Series A in August 2022 &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/230802/p20#a230802p20)
+ - [Microsoft starts testing its Xbox Live Gold replacement](https://www.theverge.com/2023/8/2/23817142/microsoft-xbox-game-pass-core-testing-live-gold-replacement)
  - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)
  - [Roborock’s S7 Plus robot vacuum / mop hybrid is a whopping $350 off](https://www.theverge.com/2023/8/2/23815510/roborock-s7-plus-ring-video-doorbell-pro-2-logitech-mx-mechanical-mini-deal-sale)
- - [Slack launches Slack Sales Elevate, offering deeper integration with Salesforce&#39;s Sales Cloud for $60 per month on top of existing Slack and Salesforce fees &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230802/p19#a230802p19)
- - [Amazon makes Fresh deliveries available to non-Prime customers in grocery overhaul](https://www.theverge.com/2023/8/2/23817005/amazon-grocery-fresh-stores-non-prime-customers)
- - [Meta releases AudioCraft, a new open-source AI model that lets users create music and sounds via prompts, consisting of MusicGen, AudioGen, and EnCodec models &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230802/p18#a230802p18)<!-- TECH:END -->
+ - [Slack launches Slack Sales Elevate, offering deeper integration with Salesforce&#39;s Sales Cloud for $60 per month on top of existing Slack and Salesforce fees &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230802/p19#a230802p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

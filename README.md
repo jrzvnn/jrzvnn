@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin launches new 2-in-1 wireless charging pad with MagSafe](https://appleinsider.com/articles/23/08/02/belkin-launches-new-2-in-1-wireless-charging-pad-with-magsafe?utm_medium=rss)
+ - [Roblox CEO David Baszucki says Roblox&#39;s open beta on Meta&#39;s Quest headsets, launched on July 27, has already been downloaded &quot;well over&quot; 1M times &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230802/p35#a230802p35)
  - [Reddit is experiencing ‘major’ outages](https://www.theverge.com/2023/8/2/23817871/reddit-outage-issues-down-login)
  - [Galaxy S23 could get a taste of Android 14 this week &lpar;Update: Delayed&rpar;](https://www.androidauthority.com/android-14-one-ui-6-galaxy-s23-3350787/)
- - [Robinhood reports Q2 revenue up 10% QoQ to $486M, crypto trading revenue of $31M, down 18% QoQ, and ~$11.5M worth of crypto in assets under custody, same as Q1 &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230802/p34#a230802p34)
- - [PayPal reports Q2 revenue up 7% to $7.3B, total payment volume up 11% YoY to $376.5B, and operating margin at 21.4%, below its 22% forecast; PYPL drops 7%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p33#a230802p33)
- - [Elon Musk wants Apple to bend more App Store rules for X](https://appleinsider.com/articles/23/08/02/elon-musk-wants-apple-to-bend-more-app-store-rules-for-x?utm_medium=rss)<!-- TECH:END -->
+ - [Robinhood reports Q2 revenue up 10% QoQ to $486M, crypto trading revenue of $31M, down 18% QoQ, and ~$11.5M worth of crypto in assets under custody, same as Q1 &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/230802/p34#a230802p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

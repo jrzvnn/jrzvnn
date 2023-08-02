@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Pro vs. Samsung Galaxy Tab S9 - compared](https://appleinsider.com/inside/ipad-pro/vs/apple-ipad-pro-vs-samsung-galaxy-tab-s9---compared?utm_medium=rss)
- - [How to use Google Authenticator on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-google-authenticator-on-iphone-and-ipad?utm_medium=rss)
- - [Analysts and executives say the UK risks becoming an also-ran in the race to roll out 5G, despite starting in 2019, due to limited investment and the Huawei ban &lpar;Financial Times&rpar;](http://www.techmeme.com/230802/p12#a230802p12)
- - [Google could take the ‘Chrome’ out of ‘Chrome OS’ very soon](https://www.androidauthority.com/google-chrome-browser-chrome-os-change-3351770/)
- - [Amazon plans to roll out the biggest overhaul to its grocery business since buying Whole Foods in the coming weeks, including one cart for supermarket offerings &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/230802/p11#a230802p11)<!-- TECH:END -->
+ - [An early-stage study of 80,000 women in Sweden who underwent a mammogram in 2021 and 2022 finds AI-supported screening increased breast cancer detection by 20% &lpar;Jen Christensen/CNN&rpar;](http://www.techmeme.com/230802/p13#a230802p13)
+ - [One of Gaming’s Biggest YouTubers Wants to Replace Himself With AI](https://www.wired.com/story/kwebbelkop-youtube-ai-clone/)
+ - [It’s Time to Rethink Digital Ownership](https://www.wired.com/story/have-a-nice-future-podcast-16/)
+ - [This Heat Is Shaking the Very Foundation of the Ocean Food Web](https://www.wired.com/story/this-heat-is-shaking-the-very-foundation-of-the-ocean-food-web/)
+ - [Apple iPad Pro vs. Samsung Galaxy Tab S9 - compared](https://appleinsider.com/inside/ipad-pro/vs/apple-ipad-pro-vs-samsung-galaxy-tab-s9---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

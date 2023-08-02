@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 demand will be lower than iPhone 14, says Kuo](https://appleinsider.com/articles/23/08/02/iphone-15-demand-will-be-lower-than-iphone-14-says-kuo?utm_medium=rss)
- - [You told us: You mostly stick with 1x zoom on your phone camera](https://www.androidauthority.com/smartphone-camera-zoom-use-poll-results-3351785/)
- - [How to set multiple timers on your iPhone in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-multiple-timers-on-your-iphone-in-ios-17?utm_medium=rss)
- - [&#39;Another Crab’s Treasure&#39; Does What &#39;Elden Ring&#39; Won’t](https://www.wired.com/story/another-crabs-treasure-accessibility-aggro-crab-elden-ring/)
- - [The Galaxy Z Flip 5’s cover screen software beats Motorola’s in every way but one](https://www.theverge.com/23815917/samsung-galaxy-z-flip-5-motorola-razr-plus-cover-screen-widgets-apps-comparison-head-to-head)<!-- TECH:END -->
+ - [Meta’s AI music generator could be the new synthesizer — or just muzak](https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio)
+ - [China proposes severe rules for internet-addicted minors](https://www.theverge.com/2023/8/2/23817035/china-internet-smartphone-regulations-minors-curfew-addiction)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-02-2023-3351326/)
+ - [Google delists its AI Test Kitchen app, which let users test AI-powered tools, on Android and iOS, moving the service to the web to receive faster updates &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230802/p17#a230802p17)
+ - [Should you buy the Galaxy Watch 6 or wait for the Pixel Watch 2?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-pixel-watch-2-3350163/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

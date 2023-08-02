@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Elon Musk wants Apple to bend more App Store rules for X](https://appleinsider.com/articles/23/08/02/elon-musk-wants-apple-to-bend-more-app-store-rules-for-x?utm_medium=rss)
  - [Shopify reports Q2 revenue up 31% YoY to $1.7B, vs. $1.62B est., and GMV up 17% YoY to $55B, vs. $53.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p32#a230802p32)
  - [DoorDash reports Q2 revenue up 33% YoY to $2.13B, vs. $2.06B est., net loss down 35% YoY to $172M, above est., and orders up 25% YoY to 532M; DASH jumps 5%+ &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230802/p31#a230802p31)
- - [Qualcomm reports Q3 revenue down 23% YoY to $8.44B, vs. $8.5B est., handset chip sales down 25% YoY to $5.26B, and net income down 52% YoY to $1.8B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230802/p30#a230802p30)<!-- TECH:END -->
+ - [Qualcomm reports Q3 revenue down 23% YoY to $8.45B, vs. $8.5B est., handset chip revenue down 25% YoY to $5.26B, and net income down 52% YoY to $1.8B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230802/p30#a230802p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates its generative AI-powered Search experience with supplementary multimedia, faster responses, and more context for links in its summary box &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230802/p27#a230802p27)
+ - [Philips Hue may dive into smart home security with four cameras and door sensors](https://www.theverge.com/2023/8/2/23817348/philips-hue-smart-home-security-cameras-signify-wiz)
  - [We might be waiting awhile for the next version of AirTags](https://www.theverge.com/2023/8/2/23817520/apple-airtags-2-mass-production)
  - [The WGA and the AMPTP are having their first meeting since the writing strike began](https://www.theverge.com/2023/8/2/23817454/wga-strike-amptp-carol-lombardini)
- - [Apple Savings deposits hit $10 billion in just over three months](https://appleinsider.com/articles/23/08/02/apple-savings-deposits-hit-10-billion-in-just-over-three-months?utm_medium=rss)
- - [Hopin, the struggling virtual events startup valued at $7.75B in August 2021, sells its Events and Session units to RingCentral; CEO Johnny Boufarhat steps down &lpar;Amy Lewin/Sifted&rpar;](http://www.techmeme.com/230802/p26#a230802p26)
- - [LK-99 Superconductor: Maybe a Breakthrough, Maybe Not So Much     - CNET](https://www.cnet.com/tech/computing/lk-99-superconductor-maybe-a-breakthrough-maybe-not-so-much/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Savings deposits hit $10 billion in just over three months](https://appleinsider.com/articles/23/08/02/apple-savings-deposits-hit-10-billion-in-just-over-three-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

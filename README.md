@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China mulls mandatory &#39;minor mode&#39; on iPhone to curb youth Internet abuse](https://appleinsider.com/articles/23/08/02/china-mulls-mandatory-minor-mode-on-iphone-to-curb-youth-internet-abuse?utm_medium=rss)
+ - [Visible’s cheapest plan is now even cheaper for everyone, permanently](https://www.androidauthority.com/visible-price-drop-2023-3351834/)
+ - [Extreme Heat Threatens the Health of Unborn Babies](https://www.wired.com/story/extreme-heat-threatens-the-health-of-unborn-babies/)
  - [Google Chrome gets iOS &amp; macOS update with new features](https://appleinsider.com/articles/23/08/02/google-chrome-gets-ios-macos-update-with-new-features?utm_medium=rss)
- - [Google’s AI search is getting more video and better links](https://www.theverge.com/2023/8/2/23817107/google-ai-search-generative-experience-videos-links)
- - [Latest Chrome updates make Google Search more comprehensive and downloads tidier](https://www.theverge.com/2023/8/2/23816933/google-chrome-update-trending-search-downloads-feature)
- - [Kenya suspends Sam Altman’s eyeball-scanning crypto project](https://www.theverge.com/2023/8/2/23817147/kenya-worldcoin-suspended-sam-altman-eyeball-scanning)
- - [Best Noise-Canceling Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s AI search is getting more video and better links](https://www.theverge.com/2023/8/2/23817107/google-ai-search-generative-experience-videos-links)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube asks a small number of viewers to share their feedback on a test that generates AI-based &quot;quick overview&quot; summaries on some English-language videos &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230801/p43#a230801p43)
  - [Filings: Vanguard cut the value of its stake in Indian ride-hailing company Ola by 52%, implying Ola&#39;s total value to be $3.5B, down from $7.3B in December 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230801/p42#a230801p42)
  - [3AC co-founder Kyle Davies tells a US court he is not subjecting himself to or accepting the jurisdiction of US courts since he renounced citizenship in 2020 &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230801/p41#a230801p41)
  - [A federal judge dismisses an industry group lawsuit challenging the constitutionality of a Utah law requiring adult websites to verify the age of their users &lpar;Sam Metz/Associated Press&rpar;](http://www.techmeme.com/230801/p40#a230801p40)
- - [Glasgow university spinout Chemify, which is using a computing process to design new molecules with AI and make them in an automated lab, raised $43M &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230801/p39#a230801p39)
- - [TweetDeck’s new ‘XPro’ branding is starting to show up](https://www.theverge.com/2023/8/1/23816614/tweetdeck-xpro-new-name-branding)<!-- TECH:END -->
+ - [Glasgow university spinout Chemify, which is using a computing process to design new molecules with AI and make them in an automated lab, raised $43M &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230801/p39#a230801p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Reddit says it has recovered from some ‘major’ outages](https://www.theverge.com/2023/8/2/23817871/reddit-outage-issues-down-login)
  - [The IRS says that, by 2025, taxpayers will be able to file every major tax form online, and all paper returns will be digitized &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/230802/p37#a230802p37)
  - [Elon Musk says X will amend its creator payouts policy to take no cut until a payout exceeds $100K, and plans to talk to Tim Cook about lower App Store fees &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230802/p36#a230802p36)
- - [The best Cricket Wireless deals of August 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Elon Musk says he’s going to talk to Tim Cook about adjusting the Apple tax](https://www.theverge.com/2023/8/2/23817821/elon-musk-twitter-tim-cook-apple-tax)<!-- TECH:END -->
+ - [Best Bluetooth Speaker for 2023: Top Picks for All Budgets     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
+ - [The best Cricket Wireless deals of August 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

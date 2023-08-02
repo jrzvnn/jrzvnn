@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activists glued themself to porsche museum. Porsche didnt call police, they just switched off the lights and left them alone. Link in comments](http://9gag.com/gag/a2KGe9D)
  - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
+ - 😝 [Maybe](http://9gag.com/gag/aREDxx2)
+ - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
+ - 👉 [POV : The driver took too much](http://9gag.com/gag/aZDveyX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank&#39;s Arm is targeting an IPO at a valuation of between $60B and $70B as soon as September 2023, a sign of bullish interest in AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p2#a230802p2)
  - [GameStop plans to remove its iOS and Chrome crypto wallet extensions on November 1 due to &quot;regulatory uncertainty&quot;, about one year after rolling out the service &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230802/p1#a230802p1)
  - [Get Apple&#39;s M1 Max MacBook Pro 14 with 64GB RAM, 2TB SSD for $2,499 &lpar;up to $1,780 off&rpar;](https://appleinsider.com/articles/23/08/02/get-apples-m1-max-macbook-pro-14-with-64gb-ram-2tb-ssd-for-2499-up-to-1780-off?utm_medium=rss)
- - [YouTube asks a small number of viewers to share their feedback on a test that generates AI-based &quot;quick overview&quot; summaries on some English-language videos &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230801/p43#a230801p43)
- - [Filings: Vanguard cut the value of its stake in Indian ride-hailing company Ola by 52%, implying Ola&#39;s total value to be $3.5B, down from $7.3B in December 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230801/p42#a230801p42)
- - [3AC co-founder Kyle Davies tells a US court he is not subjecting himself to or accepting the jurisdiction of US courts since he renounced citizenship in 2020 &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230801/p41#a230801p41)<!-- TECH:END -->
+ - [Best Smart TV for 2023: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)
+ - [YouTube asks a small number of viewers to share their feedback on a test that generates AI-based &quot;quick overview&quot; summaries on some English-language videos &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230801/p43#a230801p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

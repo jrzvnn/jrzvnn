@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ releases trailer for new Snoopy special](https://appleinsider.com/articles/23/08/02/apple-tv-releases-trailer-for-new-snoopy-special?utm_medium=rss)
- - [Smartphone OEMs might be forced to create a ‘minor mode’ on smartphones](https://www.androidauthority.com/minor-mode-china-3351801/)
- - [Inworld, which uses AI to help developers create game characters, raised $30M led by Lightspeed at a $500M+ valuation, following a $50M Series A in August 2022 &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/230802/p20#a230802p20)
- - [Microsoft starts testing its Xbox Live Gold replacement](https://www.theverge.com/2023/8/2/23817142/microsoft-xbox-game-pass-core-testing-live-gold-replacement)
- - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 demand will be lower than iPhone 14, says Kuo](https://appleinsider.com/articles/23/08/02/iphone-15-demand-will-be-lower-than-iphone-14-says-kuo?utm_medium=rss)
+ - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)
+ - [Apple wants a Vision Pro research software engineer to build science apps](https://appleinsider.com/articles/23/08/02/apple-wants-a-vision-pro-research-software-engineer-to-build-science-software?utm_medium=rss)
+ - [Interviews with people at Worldcoin booths in Nairobi, Bengaluru, and Hong Kong find many scanned their eyes to receive the sign-up bonuses, an &quot;easy $50&quot; &lpar;Rest of World&rpar;](http://www.techmeme.com/230802/p21#a230802p21)
+ - [Apple TV+ releases trailer for new Snoopy special](https://appleinsider.com/articles/23/08/02/apple-tv-releases-trailer-for-new-snoopy-special?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

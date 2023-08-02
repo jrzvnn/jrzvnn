@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activists glued themself to porsche museum. Porsche didnt call police, they just switched off the lights and left them alone. Link in comments](http://9gag.com/gag/a2KGe9D)
- - 😝 [Food isn&#39;t the only problem](http://9gag.com/gag/ajVyed8)
- - 💣 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
- - 😝 [Well Deserved](http://9gag.com/gag/aVbBpeK)
- - 👉 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)<!-- MEMES:END -->
+ - 😝 [Lol...](http://9gag.com/gag/aL1r7xA)
+ - 😝 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
+ - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
 
 ---
 </div>

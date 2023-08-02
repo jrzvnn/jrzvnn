@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft rolls out spatial audio for Teams on Windows and macOS after a few months of testing; the audio of each person on a call now has a distinct position &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230802/p10#a230802p10)
+ - [Google&#39;s Answer Box Changed the Meaning of Information](https://www.wired.com/story/google-answer-box-information-search/)
+ - [WhatsApp Made a Movie About Afghan Women&#39;s Soccer](https://www.wired.com/story/whatsapp-encryption-afghanistan-women-soccer-movie/)
  - [Instagram is working on labels for AI generated content](https://www.theverge.com/2023/8/2/23816941/instagram-generative-ai-labels-misinformation)
- - [X now lets XBlue subscribers hide their verified checkmarks, although &quot;the checkmark may still appear in some places&quot; and some features &quot;may not be available&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230802/p9#a230802p9)
- - [X renames TweetDeck to XPro; the URL remains tweetdeck.twitter.com and much of the copy is unchanged, including the &quot;Tweet like a pro&quot; tagline &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230802/p8#a230802p8)
- - [Internal Binance data and current and former employees say Chinese users traded ~$90B in crypto assets on the exchange in May 2023, despite China&#39;s crypto ban &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230802/p7#a230802p7)
- - [Apple removes over 100 ChatGPT-like apps from China&#39;s App Store](https://appleinsider.com/articles/23/08/02/apple-removes-over-100-chatgpt-like-apps-from-chinas-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [X now lets XBlue subscribers hide their verified checkmarks, although &quot;the checkmark may still appear in some places&quot; and some features &quot;may not be available&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230802/p9#a230802p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

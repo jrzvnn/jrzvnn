@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube copies Instagram and TikTok with new Shorts features](https://www.androidauthority.com/youtube-shorts-new-features-3351745/)
  - [This Android phone for the visually impaired is surprisingly feature-packed](https://www.androidauthority.com/android-phone-blind-visually-impaired-3351195/)
  - [The Cyberspace Administration of China releases draft rules to curtail smartphone use by minors, although it is unclear how the rules will be enforced &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p4#a230802p4)
  - [Bernstein analysts estimate that nearly 10% of servers worldwide are powered by Arm SoCs and 40% of those are in China &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230802/p3#a230802p3)
- - [Sources: SoftBank&#39;s Arm is targeting an IPO at a valuation of between $60B and $70B as soon as September 2023, a sign of bullish interest in AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p2#a230802p2)
- - [GameStop plans to remove its iOS and Chrome crypto wallet extensions on November 1 due to &quot;regulatory uncertainty&quot;, about one year after rolling out the service &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230802/p1#a230802p1)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s Arm is targeting an IPO at a valuation of between $60B and $70B as soon as September 2023, a sign of bullish interest in AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p2#a230802p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases AudioCraft, a new open-source AI model that lets users create music and sounds via prompts, consisting of MusicGen, AudioGen, and EnCodec models &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230802/p18#a230802p18)
- - [Harley Quinn season 4 would like to remind you who the fourth pillar of DC’s universe is](https://www.theverge.com/23815375/harley-quinn-season-4-dc)
- - [Meta’s AI music generator could be the new synthesizer — or just muzak](https://www.theverge.com/2023/8/2/23816431/meta-generative-ai-music-audio)
- - [China proposes severe rules for internet-addicted minors](https://www.theverge.com/2023/8/2/23817035/china-internet-smartphone-regulations-minors-curfew-addiction)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 2&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-02-2023-3351326/)<!-- TECH:END -->
+ - [Kuo says Apple is behind, and won&#39;t release generative AI in 2024](https://appleinsider.com/articles/23/08/02/kuo-says-apple-is-behind-on-ai-and-wont-release-generative-ai-in-2024?utm_medium=rss)
+ - [Roborock’s S7 Plus robot vacuum / mop hybrid is a whopping $350 off](https://www.theverge.com/2023/8/2/23815510/roborock-s7-plus-ring-video-doorbell-pro-2-logitech-mx-mechanical-mini-deal-sale)
+ - [Slack launches Slack Sales Elevate, offering deeper integration with Salesforce&#39;s Sales Cloud for $60 per month on top of existing Slack and Salesforce fees &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230802/p19#a230802p19)
+ - [Amazon makes Fresh deliveries available to non-Prime customers in grocery overhaul](https://www.theverge.com/2023/8/2/23817005/amazon-grocery-fresh-stores-non-prime-customers)
+ - [Meta releases AudioCraft, a new open-source AI model that lets users create music and sounds via prompts, consisting of MusicGen, AudioGen, and EnCodec models &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230802/p18#a230802p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit says it has recovered from some ‘major’ outages](https://www.theverge.com/2023/8/2/23817871/reddit-outage-issues-down-login)
+ - [The IRS says that, by 2025, taxpayers will be able to file every major tax form online, and all paper returns will be digitized &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/230802/p37#a230802p37)
  - [Elon Musk says X will amend its creator payouts policy to take no cut until a payout exceeds $100K, and plans to talk to Tim Cook about lower App Store fees &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230802/p36#a230802p36)
  - [The best Cricket Wireless deals of August 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Elon Musk says he’s going to talk to Tim Cook about adjusting the Apple tax](https://www.theverge.com/2023/8/2/23817821/elon-musk-twitter-tim-cook-apple-tax)
- - [Belkin launches new 2-in-1 wireless charging pad with MagSafe](https://appleinsider.com/articles/23/08/02/belkin-launches-new-2-in-1-wireless-charging-pad-with-magsafe?utm_medium=rss)
- - [Roblox CEO David Baszucki says Roblox&#39;s open beta on Meta&#39;s Quest headsets, launched on July 27, has already been downloaded &quot;well over&quot; 1M times &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230802/p35#a230802p35)<!-- TECH:END -->
+ - [Elon Musk says he’s going to talk to Tim Cook about adjusting the Apple tax](https://www.theverge.com/2023/8/2/23817821/elon-musk-twitter-tim-cook-apple-tax)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

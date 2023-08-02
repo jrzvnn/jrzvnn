@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)
  - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 😝 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
+ - 💣 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
+ - 👉 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)<!-- MEMES:END -->
 
 ---
 </div>

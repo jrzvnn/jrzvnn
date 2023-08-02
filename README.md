@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The daughter of the fallen Ukrainian soldier Yaroslav Zhuravl has grown up and is taking revenge on the Russian occupiers for her father](http://9gag.com/gag/aBdv9x2)
- - 😝 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
- - 💣 [Singing songs about killing white people and actually doing it, got almost ZERO reaction from the entire black community in western countries. if it was the other way around, you would see all the media talking about the NEW Hitler.](http://9gag.com/gag/a9qB35m)
+ - 😝 [Activists glued themself to porsche museum. Porsche didnt call police, they just switched off the lights and left them alone. Link in comments](http://9gag.com/gag/a2KGe9D)
+ - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 💣 [South African Theo Bekker &lpar;79&rpar; murdered with an iron bar, got his throat slit, and then they beat his wife Marlinda yesterday, after `Kill the Boer` speech](http://9gag.com/gag/abvE9Nb)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [Sadly the Smart one don&#39;t get much coverage...](http://9gag.com/gag/a9qVjRD)<!-- MEMES:END -->
+ - 👉 [This scene got me SO off gard...](http://9gag.com/gag/aNw3NQK)<!-- MEMES:END -->
 
 ---
 </div>

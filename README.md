@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google expands its privacy tools, including to alert users when their personal info appears in Search and to remove consensual explicit images from Search &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230803/p26#a230803p26)
  - [The Super Mario Bros. Movie starts streaming on Peacock today](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)
  - [Google will warn you if personal info ends up in Search, give tools to remove it](https://www.androidauthority.com/google-results-about-you-3352149/)
  - [Google can now alert you when your private contact info appears online](https://www.theverge.com/2023/8/3/23817797/google-contact-info-removal-search-results)
- - [Pornhub goes dark in Arkansas after age verification law kicks in](https://www.theverge.com/2023/8/3/23818865/pornhub-mindgeek-arkansas-age-verification-block-ban-porn)
- - [Grab a Discounted Dollar Flight Club Membership for $100 and Find Travel Savings Year-Round     - CNET](https://www.cnet.com/deals/grab-a-discounted-dollar-flight-club-membership-for-100-and-find-travel-savings-year-round/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pornhub goes dark in Arkansas after age verification law kicks in](https://www.theverge.com/2023/8/3/23818865/pornhub-mindgeek-arkansas-age-verification-block-ban-porn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

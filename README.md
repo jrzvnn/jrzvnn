@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hong Kong grants its first crypto license under its new rules to HashKey Exchange, legalizing retail trading as officials seek to foster a global crypto hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/230803/p13#a230803p13)
+ - [Covid&#39;s Summer Wave Is Rising—Again](https://www.wired.com/story/covids-summer-wave-is-rising-again/)
  - [Intel files an application to significantly expand its Oregon campus, currently home to 22K workers, slated to begin as soon as 2025; the last upgrade cost $3B &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230803/p12#a230803p12)
  - [India limits iPad and Mac imports in drive to boost local manufacturing](https://appleinsider.com/articles/23/08/03/india-limits-ipad-and-mac-imports-in-drive-to-boost-local-manufacturing?utm_medium=rss)
- - [How to add a security key to an Apple ID in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)
- - [France&#39;s AFP sues X in Paris, saying the company refused to discuss potential content distribution payments under a 2019 law; Elon Musk calls the move &quot;bizarre&quot; &lpar;Shubham Kalia/Reuters&rpar;](http://www.techmeme.com/230803/p11#a230803p11)
- - [Tim Cook promises aid to Beijing flooding relief](https://appleinsider.com/articles/23/08/03/tim-cook-promises-aid-to-beijing-flooding-relief?utm_medium=rss)<!-- TECH:END -->
+ - [How to add a security key to an Apple ID in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

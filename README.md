@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports Q3 revenue for its Services segment, which includes Apple TV+ and Apple Music, grew 8.2% YoY to $21.2B, and it now has 1B+ paid subscriptions &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230803/p35#a230803p35)
+ - [Apple paying out $0.24 per-share dividend on August 17](https://appleinsider.com/articles/23/08/03/apple-paying-out-024-per-share-dividend-on-august-17?utm_medium=rss)
  - [Apple Q3 revenue: iPhone down 2.4% YoY to $39.7B, Mac down 7.3% YoY to $6.8B, iPad down 19.8% to $5.8B, and Wearables, Home, and Accessories up 2.4% to $8.3B &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230803/p34#a230803p34)
  - [Apple edges out Wall Street, with weak iPhone sales saved by Services surge](https://appleinsider.com/articles/23/08/03/apple-edges-out-wall-street-with-weak-iphone-sales-saved-by-services-surge?utm_medium=rss)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Apple reports Q3 revenue down 1.4% YoY to $81.8B, declining for a third quarter in a row and missing estimates of $88.8B, and net income up 2.3% YoY to $19.9B &lpar;Apple&rpar;](http://www.techmeme.com/230803/p33#a230803p33)
- - [Airbnb reports Q2 revenue up 18% YoY to $2.48B vs. $2.42B est., $650M net income, gross bookings up 13% YoY to $19.1B, and forecasts Q3 revenue above estimates &lpar;Priyamvada C/Reuters&rpar;](http://www.techmeme.com/230803/p32#a230803p32)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

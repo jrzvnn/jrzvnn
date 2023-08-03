@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mutant Mayhem is a grody and gorgeous reintroduction to the TMNT](https://www.theverge.com/23817296/teenage-mutant-ninja-turtles-movie-review)
  - [IBM, HuggingFace, and NASA release an open-source geospatial foundation model to build climate and Earth science AIs that can track deforestation and more &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230803/p22#a230803p22)
  - [Original unopened iPod to sell for record-breaking $29,000](https://appleinsider.com/articles/23/08/03/original-unopened-ipod-to-sell-for-record-breaking-29000?utm_medium=rss)
  - [Instagram launches a feature to protect users from unwanted images and videos in DMs: users are limited to one text-only request to those they don&#39;t follow &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230803/p21#a230803p21)
- - [Patreon issues are causing paused payouts and canceled subscriptions](https://www.theverge.com/2023/8/3/23818598/patreon-payment-blocked-processing-declined-subscription-canceled)
- - [Excel’s esports revolution is coming back to ESPN this week](https://www.theverge.com/2023/8/3/23817220/excel-esports-espn-the-ocho-championship-start-time-watch)<!-- TECH:END -->
+ - [Patreon issues are causing paused payouts and canceled subscriptions](https://www.theverge.com/2023/8/3/23818598/patreon-payment-blocked-processing-declined-subscription-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

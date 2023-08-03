@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strawberry](http://9gag.com/gag/aZDvA99)
- - 😝 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
- - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 😝 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
+ - 😝 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
+ - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
  - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
+ - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
 
 ---
 </div>

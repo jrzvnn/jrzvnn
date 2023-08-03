@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The great responsibilities.](http://9gag.com/gag/aDYP0dG)
- - 😝 [Strawberry](http://9gag.com/gag/aZDvA99)
- - 💣 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
+ - 😝 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
+ - 😝 [Hold up](http://9gag.com/gag/a8qzP41)
+ - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
  - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
  - 👉 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)<!-- MEMES:END -->
 

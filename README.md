@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft leaked its internal tool that enables secret Windows 11 features](https://www.theverge.com/2023/8/3/23818363/microsoft-windows-11-stagingtool-leak-secret-features)
  - [Some experts say trolls who built businesses and media careers on Twitter have had to escalate shock value tactics as the audience of &quot;normal people&quot; shrinks &lpar;Amanda Marcotte/Salon&rpar;](http://www.techmeme.com/230803/p6#a230803p6)
  - [POCO is rebranding the Redmi 12 5G days after it went official](https://www.androidauthority.com/poco-m6-pro-5g-redmi-12-5g-rebrand-3352027/)
  - [Zelda and Mario boost Nintendo to record profit](https://www.theverge.com/2023/8/3/23818357/nintendo-earnings-q1-2024-zelda-totk-mario-movie-profits)
- - [Nintendo reports Q1 revenue up 50% YoY to ~$2.9B and profit up 52% YoY to ~$1.3B, boosted by the Super Mario Bros. Movie and new Zelda; Switch sales hit 3.91M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230803/p5#a230803p5)
- - [An overview of AI policy ideas that US policymakers are considering, from new rules and government agencies to additional funding for AI research and education &lpar;Dylan Matthews/Vox&rpar;](http://www.techmeme.com/230803/p4#a230803p4)<!-- TECH:END -->
+ - [Nintendo reports Q1 revenue up 50% YoY to ~$2.9B and profit up 52% YoY to ~$1.3B, boosted by the Super Mario Bros. Movie and new Zelda; Switch sales hit 3.91M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230803/p5#a230803p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

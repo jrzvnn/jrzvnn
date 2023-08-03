@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
- - 😝 [Hold up](http://9gag.com/gag/a8qzP41)
- - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
- - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
- - 👉 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)<!-- MEMES:END -->
+ - 😝 [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
+ - 😝 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 </div>

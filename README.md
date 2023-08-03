@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kasa launches two new Matter-enabled smart light switches](https://appleinsider.com/articles/23/08/03/kasa-launches-two-new-matter-enabled-smart-light-switches?utm_medium=rss)
- - [Three big Reddit communities are no longer focused on John Oliver](https://www.theverge.com/2023/8/3/23818673/reddit-communities-subreddits-john-oliver-remove-rules)
- - [NBA star caught an L for his Pixel 6 Pro, but got a big W in the end](https://www.androidauthority.com/pixel-6-pro-giannis-antetokounmpo-3352189/)
- - [Sensor Tower: Threads&#39; DAUs fell to 8M on July 31, down 82% from launch; daily average time spent fell to 2.9 minutes/day on August 1, down from 19 at launch &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230803/p29#a230803p29)
- - [iPhone 15 rumored launch date suggests a late start with possible retail delays](https://www.androidauthority.com/iphone-15-launch-date-3352205/)<!-- TECH:END -->
+ - [Amazon Q2: ad revenue up 22% YoY to $10.68B, vs. $10.4B est., subscription revenue up 14% YoY to $9.89B, and North America segment sales up 11% YoY to $82.5B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230803/p31#a230803p31)
+ - [37 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023/)
+ - [Amazon reports Q2 revenue up 11% YoY to $134.4B, a $6.7B net income, vs. a $2B net loss YoY, AWS revenue up 12% YoY to $22.1B; AMZN jumps 6%+ &lpar;Amazon&rpar;](http://www.techmeme.com/230803/p30#a230803p30)
+ - [Free Airline Miles, Hotel Points, and User Data Put at Risk by Flaws in Points Platform](https://www.wired.com/story/points-travel-rewards-platform-flaws/)
+ - [Kasa launches two new Matter-enabled smart light switches](https://appleinsider.com/articles/23/08/03/kasa-launches-two-new-matter-enabled-smart-light-switches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

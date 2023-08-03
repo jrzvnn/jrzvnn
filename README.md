@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)
- - 😝 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
- - 💣 [I just want to give up](http://9gag.com/gag/aA0mY9o)
+ - 😝 [Juvenile toddlers](http://9gag.com/gag/aL1bR6V)
+ - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 💣 [Much proud](http://9gag.com/gag/aDYMB1w)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 👉 [Quit appropriating our civilization, stories/ lore, and history](http://9gag.com/gag/anzdqeq)<!-- MEMES:END -->
 
 ---
 </div>

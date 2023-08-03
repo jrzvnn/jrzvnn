@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
+ - 😝 [Same vibes](http://9gag.com/gag/aYVdpPw)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 💣 [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
+ - 😝 [If you know, then you know.](http://9gag.com/gag/ap9do18)
+ - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->
 
 ---
 </div>

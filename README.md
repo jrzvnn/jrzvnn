@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 😝 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
- - 💣 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 😝 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
  - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [If you know you know](http://9gag.com/gag/ay2POgr)<!-- MEMES:END -->
+ - 💣 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
+ - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 </div>

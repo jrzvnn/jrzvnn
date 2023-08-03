@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon temporarily disables Payoneer payments after some creators were unable to access their earnings and some subscriber payments are flagged as fraudulent &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230803/p23#a230803p23)
- - [Mutant Mayhem is a grody and gorgeous reintroduction to the TMNT](https://www.theverge.com/23817296/teenage-mutant-ninja-turtles-movie-review)
- - [IBM, HuggingFace, and NASA release an open-source geospatial foundation model to build climate and Earth science AIs that can track deforestation and more &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230803/p22#a230803p22)
- - [Original unopened iPod to sell for record-breaking $29,000](https://appleinsider.com/articles/23/08/03/original-unopened-ipod-to-sell-for-record-breaking-29000?utm_medium=rss)
- - [Instagram launches a feature to protect users from unwanted images and videos in DMs: users are limited to one text-only request to those they don&#39;t follow &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230803/p21#a230803p21)<!-- TECH:END -->
+ - [CoreWeave, a specialized cloud service for GPU workloads, raised a $2.3B debt facility collateralized by Nvidia chips; CoreWeave raised $421M in equity in 2023 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230803/p24#a230803p24)
+ - [Nothing has a new sub-brand with cheaper products, including a smartwatch](https://www.androidauthority.com/nothing-sub-brand-cmf-3352115/)
+ - [Apex Legends: Resurrection is another fresh start for EA’s battle royale](https://www.theverge.com/2023/8/3/23817252/apex-legends-resurrection-s18-update-revenant-ranked-rework)
+ - [Nothing is already launching a more affordable sub-brand](https://www.theverge.com/2023/8/3/23818715/nothing-cmf-subbrand-affordable-carl-pei)
+ - [The best tech gifts for under $50](https://www.theverge.com/23161828/best-cheap-tech-gadgets-under-50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

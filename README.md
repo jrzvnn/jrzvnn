@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [90 percent of Ray-Ban Stories owners aren’t using Meta’s smart glasses](https://www.theverge.com/2023/8/3/23818462/meta-ray-ban-stories-smart-glasses-retention-reality-labs)
  - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_medium=rss)
  - [AMD announces the Radeon Pro W7600 for $599, $50 cheaper than its predecessor, and W7500 for $429, both based on the new Navi 33 GPU, available later in Q3 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230803/p19#a230803p19)
- - [Apple Vision Pro users may get guided walkthroughs of iPhone and Mac](https://appleinsider.com/articles/23/08/03/apple-vision-pro-users-may-get-guided-walkthroughs-of-iphone-and-mac?utm_medium=rss)
- - [German chipmaker Infineon plans to spend a further &amp;euro;5B to build more capacity in Malaysia, for a &amp;euro;7B total investment, to capitalize on growing EV chips demand &lpar;Patricia Nilsson/Financial Times&rpar;](http://www.techmeme.com/230803/p18#a230803p18)<!-- TECH:END -->
+ - [Save On Everyday Essentials at Amazon With $15 Off Your $50 Purchase     - CNET](https://www.cnet.com/deals/save-on-everyday-essentials-at-amazon-with-15-off-your-50-purchase/#ftag=CAD590a51e)
+ - [Apple Vision Pro users may get guided walkthroughs of iPhone and Mac](https://appleinsider.com/articles/23/08/03/apple-vision-pro-users-may-get-guided-walkthroughs-of-iphone-and-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

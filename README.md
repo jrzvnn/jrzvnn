@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Original unopened iPod to sell for record-breaking $29,000](https://appleinsider.com/articles/23/08/03/original-unopened-ipod-to-sell-for-record-breaking-29000?utm_medium=rss)
+ - [Miami-based Lula, which offers insurance products to car sharing, trucking, and other industries, raised a $35.5M Series B, following an $18M Series A in 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230803/p20#a230803p20)
+ - [Russian kangaroo court fines Apple two seconds of profit over News row](https://appleinsider.com/articles/23/08/03/russian-kangaroo-court-fines-apple-two-seconds-of-profit-over-news-row?utm_medium=rss)
  - [South Korean under-30s tend to buy Android first, then switch to iPhone](https://appleinsider.com/articles/23/08/03/south-korean-under-30s-tend-to-buy-android-first-then-switch-to-iphone?utm_medium=rss)
- - [HBO Max was renamed Max, and Warner Bros. Discovery lost subscribers](https://www.theverge.com/2023/8/3/23818429/warner-bros-discovery-subscriber-loss-hbo-max-rebrand-earnings)
- - [15 Best Laptop Totes and Purses &lpar;2023&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
- - [90 percent of Ray-Ban Stories owners aren’t using Meta’s smart glasses](https://www.theverge.com/2023/8/3/23818462/meta-ray-ban-stories-smart-glasses-retention-reality-labs)
- - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max was renamed Max, and Warner Bros. Discovery lost subscribers](https://www.theverge.com/2023/8/3/23818429/warner-bros-discovery-subscriber-loss-hbo-max-rebrand-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

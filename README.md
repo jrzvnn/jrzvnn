@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kickstarter plans to require creators to disclose the use of AI tools in their projects or if the projects intend to develop AI tech starting August 29, 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230803/p2#a230803p2)
  - [Xiaomi to flex a powerful new flagship globally on September 1: Report](https://www.androidauthority.com/xiaomi-13t-pro-launch-specs-features-release-date-3352004/)
  - [As the UK reveals the National Semiconductor Strategy advisory panel, tech minister Paul Scully says the UK will focus on chip design over chipmaking subsidies &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230803/p1#a230803p1)
  - [Alienware’s new Aurora R16 desktop sheds gobs of plastic for a 40 percent smaller build](https://www.theverge.com/22440712/alienware-aurora-r16-desktop-announcement)
- - [Exclusive MacBook Pro 14 &amp; 16-inch deals: save up to $1,300, prices start at $1,549](https://appleinsider.com/articles/23/08/03/exclusive-macbook-pro-14-16-inch-deals-save-up-to-1300-prices-start-at-1549?utm_medium=rss)
- - [Internal document: Meta sold 300K Ray-Ban Stories smart glasses since launch in September 2021 through February 2023, but the company only had about 27K MAUs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230802/p43#a230802p43)<!-- TECH:END -->
+ - [Exclusive MacBook Pro 14 &amp; 16-inch deals: save up to $1,300, prices start at $1,549](https://appleinsider.com/articles/23/08/03/exclusive-macbook-pro-14-16-inch-deals-save-up-to-1300-prices-start-at-1549?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

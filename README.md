@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brave Search updates its image and video search to use Brave&#39;s own index rather than the ones from Bing or Google; some advanced search capabilities are absent &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230803/p28#a230803p28)
  - [Samsung Galaxy Z Flip 5 review: Still the clamshell’s pearl?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-review-3350175/)
+ - [Google Chrome Just Got These New Features on Mobile     - CNET](https://www.cnet.com/tech/services-and-software/google-chrome-just-got-these-new-features-on-mobile/#ftag=CAD590a51e)
  - [FCC fines a robocaller, which placed 5B+ calls pretending to sell auto warranties to collect personal information from people, a record $300M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230803/p27#a230803p27)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The best AT&amp;T deals of August 2023](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [Sony’s WF-1000XM4 wireless earbuds are down to $170](https://www.theverge.com/2023/8/3/23818782/sony-wf-1000xm4-wireless-earbuds-deal-sale)<!-- TECH:END -->
+ - [How the Color of Your Sunglasses Affects Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/how-the-color-of-your-sunglasses-affects-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

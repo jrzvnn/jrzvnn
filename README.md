@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pornhub goes dark in Arkansas after age verification law kicks in](https://www.theverge.com/2023/8/3/23818865/pornhub-mindgeek-arkansas-age-verification-block-ban-porn)
+ - [How to install and manage apps for Messages on iOS 17](https://appleinsider.com/inside/imessage/tips/how-to-install-and-manage-apps-for-messages-on-ios-17?utm_medium=rss)
  - [Why Apple bet on Pixar tech to make the metaverse work](https://www.theverge.com/2023/8/3/23818718/apple-pixar-3d-tech-alliance-openusd-metaverse)
- - [Daily deals: $170 off AirPods Max, up to $1,300 off MacBook Pro, iPhone models from $129, more](https://appleinsider.com/articles/23/08/03/daily-deals-170-off-airpods-max-up-to-1300-off-macbook-pro-iphone-models-from-129-more?utm_medium=rss)
- - [IRS will finally let most Americans file taxes online next year](https://www.theverge.com/2023/8/3/23818531/irs-paperless-tax-filings-2024)
- - [Triller files for a US IPO after unsuccessfully trying to go public via a $5B SPAC merger in 2021; in 2022, Triller had $47.7M in revenue and a loss of $195.6M &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230803/p25#a230803p25)
- - [CoreWeave, a specialized cloud service for GPU workloads, raised a $2.3B debt facility collateralized by Nvidia chips; CoreWeave raised $421M in equity in 2023 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230803/p24#a230803p24)<!-- TECH:END -->
+ - [The Apple AirPods Pro 2 have never been cheaper than this](https://www.androidauthority.com/apple-airpods-pro-2-deal-3352137/)
+ - [Daily deals: $170 off AirPods Max, up to $1,300 off MacBook Pro, iPhone models from $129, more](https://appleinsider.com/articles/23/08/03/daily-deals-170-off-airpods-max-up-to-1300-off-macbook-pro-iphone-models-from-129-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 😝 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)
- - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
+ - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

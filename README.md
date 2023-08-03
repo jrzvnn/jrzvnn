@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 😝 [I just want to give up](http://9gag.com/gag/aA0mY9o)
- - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
- - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 👉 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)<!-- MEMES:END -->
 
 ---
 </div>

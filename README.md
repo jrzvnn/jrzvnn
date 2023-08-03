@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just want to give up](http://9gag.com/gag/aA0mY9o)
+ - 😝 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
  - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
- - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
+ - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
 
 ---
 </div>

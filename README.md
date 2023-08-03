@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same vibes](http://9gag.com/gag/aYVdpPw)
  - 😝 [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
+ - 😝 [Part 2](http://9gag.com/gag/aXndpv6)
  - 💣 [If you know, then you know.](http://9gag.com/gag/ap9do18)
  - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
  - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->

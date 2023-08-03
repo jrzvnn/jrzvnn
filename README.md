@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 😝 [Much proud](http://9gag.com/gag/aDYMB1w)
- - 💣 [Quit appropriating our civilization, stories/ lore, and history](http://9gag.com/gag/anzdqeq)
- - 😝 [The Little Mermaid Cosplay](http://9gag.com/gag/aA0mBVd)
- - 👉 [I\u2019m shook](http://9gag.com/gag/adPdNLM)<!-- MEMES:END -->
+ - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
+ - 😝 [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
+ - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 😝 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
+ - 👉 [If you know you know](http://9gag.com/gag/ay2POgr)<!-- MEMES:END -->
 
 ---
 </div>

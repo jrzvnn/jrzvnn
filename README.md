@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same vibes](http://9gag.com/gag/aYVdpPw)
- - 😝 [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
- - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 😝 [If you know, then you know.](http://9gag.com/gag/ap9do18)
- - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
+ - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 😝 [I just want to give up](http://9gag.com/gag/aA0mY9o)
+ - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
+ - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 💣 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
  - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
+ - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)
+ - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
 
 ---
 </div>

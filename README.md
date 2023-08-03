@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Flip 5 review: Still the clamshell’s pearl?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-review-3350175/)
  - [FCC fines a robocaller, which placed 5B+ calls pretending to sell auto warranties to collect personal information from people, a record $300M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230803/p27#a230803p27)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [The best AT&amp;T deals of August 2023](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [Sony’s WF-1000XM4 wireless earbuds are down to $170](https://www.theverge.com/2023/8/3/23818782/sony-wf-1000xm4-wireless-earbuds-deal-sale)
- - [Google expands its privacy tools, including to alert users when their personal info appears in Search and to remove consensual explicit images from Search &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230803/p26#a230803p26)<!-- TECH:END -->
+ - [Sony’s WF-1000XM4 wireless earbuds are down to $170](https://www.theverge.com/2023/8/3/23818782/sony-wf-1000xm4-wireless-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

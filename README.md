@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta and the UFC are teaming up to make a UFC-themed experience in Horizon Worlds, allowing users to watch 4K, 180-degree fight streams, play games, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230802/p40#a230802p40)
  - [CEO of cyber risk management company Tenable says Microsoft issued a partial fix for a critical Azure issue that would enable attackers to access sensitive data &lpar;CyberScoop&rpar;](http://www.techmeme.com/230802/p39#a230802p39)
  - [Meta and the UFC are teaming up on a UFC-themed experience in Horizon Worlds](https://www.theverge.com/2023/8/2/23818083/meta-ufc-horizon-worlds-virtual-reality-quest)
  - [The best Samsung Galaxy Watch 6 cases](https://www.androidauthority.com/the-best-samsung-galaxy-watch-6-cases-3351402/)
- - [Kenya&#39;s interior ministry says it suspended the local activities of Worldcoin while government agencies assess potential risks to public safety &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p38#a230802p38)
- - [Lionel Messi: How to Watch, Stream Inter Miami CF vs. Orlando City on MLS Season Pass Tonight     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-cf-vs-orlando-city-on-mls-season-pass-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kenya&#39;s interior ministry says it suspended the local activities of Worldcoin while government agencies assess potential risks to public safety &lpar;Reuters&rpar;](http://www.techmeme.com/230802/p38#a230802p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

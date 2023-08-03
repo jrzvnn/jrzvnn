@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 rumored launch date suggests a late start with possible retail delays](https://www.androidauthority.com/iphone-15-launch-date-3352205/)
+ - [The 26 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Brave Search updates its image and video search to use Brave&#39;s own index rather than the ones from Bing or Google; some advanced search capabilities are absent &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230803/p28#a230803p28)
  - [Samsung Galaxy Z Flip 5 review: Still the clamshell’s pearl?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-review-3350175/)
- - [Google Chrome Just Got These New Features on Mobile     - CNET](https://www.cnet.com/tech/services-and-software/google-chrome-just-got-these-new-features-on-mobile/#ftag=CAD590a51e)
- - [FCC fines a robocaller, which placed 5B+ calls pretending to sell auto warranties to collect personal information from people, a record $300M &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230803/p27#a230803p27)
- - [How the Color of Your Sunglasses Affects Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/how-the-color-of-your-sunglasses-affects-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Chrome Just Got These New Features on Mobile     - CNET](https://www.cnet.com/tech/services-and-software/google-chrome-just-got-these-new-features-on-mobile/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 😝 [I just want to give up](http://9gag.com/gag/aA0mY9o)
- - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 😝 [Same vibes](http://9gag.com/gag/aYVdpPw)
+ - 😝 [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
+ - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 😝 [If you know, then you know.](http://9gag.com/gag/ap9do18)
+ - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
 
 ---
 </div>

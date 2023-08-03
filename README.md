@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft researchers: Russia-linked hackers are behind &quot;highly targeted&quot; social engineering attacks affecting fewer than 40 global organizations since late May &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230802/p42#a230802p42)
  - [Indian tax authorities move ahead with a 28% online gaming tax, effective from October 1, despite top investors and 100+ firms asking for changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p41#a230802p41)
  - [Meta and the UFC are teaming up to make a UFC-themed experience in Horizon Worlds, allowing users to watch 4K, 180-degree fight streams, play games, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230802/p40#a230802p40)
  - [CEO of cyber risk management company Tenable says Microsoft issued a partial fix for a critical Azure issue that would enable attackers to access sensitive data &lpar;CyberScoop&rpar;](http://www.techmeme.com/230802/p39#a230802p39)
- - [Meta and the UFC are teaming up on a UFC-themed experience in Horizon Worlds](https://www.theverge.com/2023/8/2/23818083/meta-ufc-horizon-worlds-virtual-reality-quest)
- - [The best Samsung Galaxy Watch 6 cases](https://www.androidauthority.com/the-best-samsung-galaxy-watch-6-cases-3351402/)<!-- TECH:END -->
+ - [Meta and the UFC are teaming up on a UFC-themed experience in Horizon Worlds](https://www.theverge.com/2023/8/2/23818083/meta-ufc-horizon-worlds-virtual-reality-quest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

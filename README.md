@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Original unopened iPod to sell for record-breaking $29,000](https://appleinsider.com/articles/23/08/03/original-unopened-ipod-to-sell-for-record-breaking-29000?utm_medium=rss)
  - [Instagram launches a feature to protect users from unwanted images and videos in DMs: users are limited to one text-only request to those they don&#39;t follow &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230803/p21#a230803p21)
+ - [Patreon issues are causing paused payouts and canceled subscriptions](https://www.theverge.com/2023/8/3/23818598/patreon-payment-blocked-processing-declined-subscription-canceled)
  - [Excel’s esports revolution is coming back to ESPN this week](https://www.theverge.com/2023/8/3/23817220/excel-esports-espn-the-ocho-championship-start-time-watch)
- - [8BitDo’s drift-free Ultimate Bluetooth Controller is selling for a new low of $55.99](https://www.theverge.com/2023/8/3/23817412/8bitdo-ultimate-controller-switch-dewalt-usb-charger-samsung-odyssey-monitor-deal-sale)
- - [The best gaming mice to buy right now](https://www.theverge.com/21252193/best-gaming-mouse)
- - [Beat the Summer Heat With Over $1,000 Off This Intex Above-Ground Pool     - CNET](https://www.cnet.com/deals/beat-the-summer-heat-with-over-1000-off-this-intex-above-ground-pool/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8BitDo’s drift-free Ultimate Bluetooth Controller is selling for a new low of $55.99](https://www.theverge.com/2023/8/3/23817412/8bitdo-ultimate-controller-switch-dewalt-usb-charger-samsung-odyssey-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

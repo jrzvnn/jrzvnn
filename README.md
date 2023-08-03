@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel files an application to significantly expand its Oregon campus, currently home to 22K workers, slated to begin as soon as 2025; the last upgrade cost $3B &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230803/p12#a230803p12)
+ - [India limits iPad and Mac imports in drive to boost local manufacturing](https://appleinsider.com/articles/23/08/03/india-limits-ipad-and-mac-imports-in-drive-to-boost-local-manufacturing?utm_medium=rss)
  - [How to add a security key to an Apple ID in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-add-a-security-key-to-an-apple-id-in-ios-163?utm_medium=rss)
  - [France&#39;s AFP sues X in Paris, saying the company refused to discuss potential content distribution payments under a 2019 law; Elon Musk calls the move &quot;bizarre&quot; &lpar;Shubham Kalia/Reuters&rpar;](http://www.techmeme.com/230803/p11#a230803p11)
- - [Tim Cook promises aid to Beijing flooding relief](https://appleinsider.com/articles/23/08/03/tim-cook-promises-aid-to-beijing-flooding-relief?utm_medium=rss)
- - [India cutting off internet in Manipur state on May 4 after ethnic conflict broke out did not quell the violence and provided cover for murders, rapes, and arson &lpar;Parth M.N./Wired&rpar;](http://www.techmeme.com/230803/p10#a230803p10)
- - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)<!-- TECH:END -->
+ - [Tim Cook promises aid to Beijing flooding relief](https://appleinsider.com/articles/23/08/03/tim-cook-promises-aid-to-beijing-flooding-relief?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

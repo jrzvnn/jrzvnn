@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 👉 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)<!-- MEMES:END -->
+ - 😝 [Same vibes](http://9gag.com/gag/aYVdpPw)
+ - 😝 [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
+ - 💣 [If you know, then you know.](http://9gag.com/gag/ap9do18)
+ - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->
 
 ---
 </div>

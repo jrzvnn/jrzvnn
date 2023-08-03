@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy that offered her a ride is a savage](http://9gag.com/gag/aWGd08q)
- - 😝 [Part 2](http://9gag.com/gag/aXndpv6)
- - 💣 [If you know, then you know.](http://9gag.com/gag/ap9do18)
- - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 👉 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)<!-- MEMES:END -->
+ - 😝 [I just want to give up](http://9gag.com/gag/aA0mY9o)
+ - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
+ - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
 
 ---
 </div>

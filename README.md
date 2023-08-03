@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
- - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
- - 💣 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
+ - 😝 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
+ - 😝 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
+ - 💣 [Heavens door](http://9gag.com/gag/aXne5jg)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)<!-- MEMES:END -->
+ - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 ---
 </div>

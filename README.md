@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Apple bet on Pixar tech to make the metaverse work](https://www.theverge.com/2023/8/3/23818718/apple-pixar-3d-tech-alliance-openusd-metaverse)
  - [Daily deals: $170 off AirPods Max, up to $1,300 off MacBook Pro, iPhone models from $129, more](https://appleinsider.com/articles/23/08/03/daily-deals-170-off-airpods-max-up-to-1300-off-macbook-pro-iphone-models-from-129-more?utm_medium=rss)
  - [IRS will finally let most Americans file taxes online next year](https://www.theverge.com/2023/8/3/23818531/irs-paperless-tax-filings-2024)
  - [Triller files for a US IPO after unsuccessfully trying to go public via a $5B SPAC merger in 2021; in 2022, Triller had $47.7M in revenue and a loss of $195.6M &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230803/p25#a230803p25)
- - [CoreWeave, a specialized cloud service for GPU workloads, raised a $2.3B debt facility collateralized by Nvidia chips; CoreWeave raised $421M in equity in 2023 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230803/p24#a230803p24)
- - [Nothing has a new sub-brand with cheaper products, including a smartwatch](https://www.androidauthority.com/nothing-sub-brand-cmf-3352115/)<!-- TECH:END -->
+ - [CoreWeave, a specialized cloud service for GPU workloads, raised a $2.3B debt facility collateralized by Nvidia chips; CoreWeave raised $421M in equity in 2023 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/230803/p24#a230803p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

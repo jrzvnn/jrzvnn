@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports Q3 revenue for its Services segment, which includes Apple TV+ and Apple Music, grew 8.2% YoY to $21.2B, and it now has 1B+ paid subscriptions &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230803/p35#a230803p35)
- - [Apple paying out $0.24 per-share dividend on August 17](https://appleinsider.com/articles/23/08/03/apple-paying-out-024-per-share-dividend-on-august-17?utm_medium=rss)
- - [Apple Q3 revenue: iPhone down 2.4% YoY to $39.7B, Mac down 7.3% YoY to $6.8B, iPad down 19.8% to $5.8B, and Wearables, Home, and Accessories up 2.4% to $8.3B &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230803/p34#a230803p34)
- - [Apple edges out Wall Street, with weak iPhone sales saved by Services surge](https://appleinsider.com/articles/23/08/03/apple-edges-out-wall-street-with-weak-iphone-sales-saved-by-services-surge?utm_medium=rss)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Block reports Q2 revenue up 26% YoY to $5.53B, Square gross profit up 18% YoY to $888M, Cash App gross profit up 37% YoY to $968M, and Bitcoin revenue of $2.39B &lpar;Nupur Anand/Reuters&rpar;](http://www.techmeme.com/230803/p36#a230803p36)
+ - [Apple finally reaches the one billion paid subscriptions milestone](https://appleinsider.com/articles/23/08/03/apple-finally-reaches-the-one-billion-paid-subscriptions-milestone?utm_medium=rss)
+ - [Tim Cook confirms that Apple has been working on generative AI for years](https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years?utm_medium=rss)
+ - [Apple’s big services bet is paying off as iPhone sales dip](https://www.theverge.com/2023/8/3/23819093/apple-q3-2023-earnings-iphone-services-mac-ipad)
+ - [A beginner’s guide to beginning Baldur’s Gate 3](https://www.theverge.com/23818692/baldurs-gate-3-starting-guide-tips-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

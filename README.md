@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstarter plans to require creators to disclose the use of AI tools in their projects or if the projects intend to develop AI tech starting August 29, 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230803/p2#a230803p2)
- - [Xiaomi to flex a powerful new flagship globally on September 1: Report](https://www.androidauthority.com/xiaomi-13t-pro-launch-specs-features-release-date-3352004/)
- - [As the UK reveals the National Semiconductor Strategy advisory panel, tech minister Paul Scully says the UK will focus on chip design over chipmaking subsidies &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230803/p1#a230803p1)
- - [Alienware’s new Aurora R16 desktop sheds gobs of plastic for a 40 percent smaller build](https://www.theverge.com/22440712/alienware-aurora-r16-desktop-announcement)
- - [Exclusive MacBook Pro 14 &amp; 16-inch deals: save up to $1,300, prices start at $1,549](https://appleinsider.com/articles/23/08/03/exclusive-macbook-pro-14-16-inch-deals-save-up-to-1300-prices-start-at-1549?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy Z Flip 5 and Moto Razr Plus face-off in live hand-folding test on YouTube](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)
+ - [As Meta starts blocking news links and sharing on Facebook and Instagram in Canada, a look at the harm that Bill C-18 will do to the country&#39;s media sector &lpar;Michael Geist&rpar;](http://www.techmeme.com/230803/p3#a230803p3)
+ - [India&#39;s Internet Shutdown Means Manipur Is Burning in the Dark](https://www.wired.com/story/internet-shutdown-manipur-burning-in-the-dark/)
+ - [Norway Took On Meta’s Surveillance Ads and Won](https://www.wired.com/story/meta-behavioral-ads-eu-norway/)
+ - [Kickstarter plans to require creators to disclose the use of AI tools in their projects or if the projects intend to develop AI tech starting August 29, 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230803/p2#a230803p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

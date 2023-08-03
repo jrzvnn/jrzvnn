@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
- - 😝 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
- - 💣 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
- - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
+ - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 💣 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 ---
 </div>

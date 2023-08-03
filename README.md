@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s wrong with me](http://9gag.com/gag/amAdq6y)
- - 😝 [Ahh yes, Banana of Luck.](http://9gag.com/gag/aXneBQg)
- - 💣 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
+ - 😝 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
+ - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
+ - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [Singing songs about killing white people and actually doing it, got almost ZERO reaction from the entire black community in western countries. if it was the other way around, you would see all the media talking about the NEW Hitler.](http://9gag.com/gag/a9qB35m)<!-- MEMES:END -->
+ - 👉 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)<!-- MEMES:END -->
 
 ---
 </div>

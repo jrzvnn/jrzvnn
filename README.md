@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Three big Reddit communities are no longer focused on John Oliver](https://www.theverge.com/2023/8/3/23818673/reddit-communities-subreddits-john-oliver-remove-rules)
  - [NBA star caught an L for his Pixel 6 Pro, but got a big W in the end](https://www.androidauthority.com/pixel-6-pro-giannis-antetokounmpo-3352189/)
  - [Sensor Tower: Threads&#39; DAUs fell to 8M on July 31, down 82% from launch; daily average time spent fell to 2.9 minutes/day on August 1, down from 19 at launch &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230803/p29#a230803p29)
  - [iPhone 15 rumored launch date suggests a late start with possible retail delays](https://www.androidauthority.com/iphone-15-launch-date-3352205/)
- - [The 26 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Brave Search updates its image and video search to use Brave&#39;s own index rather than the ones from Bing or Google; some advanced search capabilities are absent &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230803/p28#a230803p28)<!-- TECH:END -->
+ - [The 26 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

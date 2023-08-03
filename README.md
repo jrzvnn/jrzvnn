@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Apple reports Q3 revenue down 1.4% YoY to $81.8B, declining for a third quarter in a row and missing estimates of $88.8B, and net income up 2.3% YoY to $19.9B &lpar;Apple&rpar;](http://www.techmeme.com/230803/p33#a230803p33)
  - [Airbnb reports Q2 revenue up 18% YoY to $2.48B vs. $2.42B est., $650M net income, gross bookings up 13% YoY to $19.1B, and forecasts Q3 revenue above estimates &lpar;Priyamvada C/Reuters&rpar;](http://www.techmeme.com/230803/p32#a230803p32)
  - [Amazon Q2: ad revenue up 22% YoY to $10.68B, vs. $10.4B est., subscription revenue up 14% YoY to $9.89B, and North America segment sales up 11% YoY to $82.5B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230803/p31#a230803p31)
- - [The first Bethesda games are arriving on Nvidia’s GeForce Now service](https://www.theverge.com/2023/8/3/23818916/bethesda-nvidia-geforce-now-ultimate-cloud-gaming-microsoft)
- - [37 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023/)
- - [Amazon reports Q2 revenue up 11% YoY to $134.4B, a $6.7B net income, vs. a $2B net loss YoY, AWS revenue up 12% YoY to $22.1B; AMZN jumps 6%+ &lpar;Amazon&rpar;](http://www.techmeme.com/230803/p30#a230803p30)<!-- TECH:END -->
+ - [The first Bethesda games are arriving on Nvidia’s GeForce Now service](https://www.theverge.com/2023/8/3/23818916/bethesda-nvidia-geforce-now-ultimate-cloud-gaming-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

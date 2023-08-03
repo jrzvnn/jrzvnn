@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s wrong with me](http://9gag.com/gag/amAdq6y)
  - 😝 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
+ - 😝 [Juvenile toddlers](http://9gag.com/gag/aL1bR6V)
  - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
  - 👉 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)<!-- MEMES:END -->

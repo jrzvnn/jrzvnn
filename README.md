@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
- - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
- - 💣 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
+ - 😝 [Lol](http://9gag.com/gag/ap98Ozp)
+ - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
+ - 💣 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
  - 😝 [IPhone 14 Pro Giveaway \ud83c\udf81 9GAG x Skip-Bo Mobile is giving away an iPhone 14 Pro, 9GAG gamescom 2023 train ticket and USD$100 cash to 9GAGGERS!](http://9gag.com/gag/aGEbQXX)
- - 👉 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)<!-- MEMES:END -->
+ - 👉 [The way he walks afterwards](http://9gag.com/gag/a04w2ZO)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple edges out Wall Street, with weak iPhone sales saved by Services surge](https://appleinsider.com/articles/23/08/03/apple-edges-out-wall-street-with-weak-iphone-sales-saved-by-services-surge?utm_medium=rss)
  - [Apple finally reaches one billion paid subscriptions milestone](https://appleinsider.com/articles/23/08/03/apple-finally-reaches-the-one-billion-paid-subscriptions-milestone?utm_medium=rss)
  - [Coinbase reports Q2 revenue down 12% YoY to $707.9M vs. $631.2M est., $97M net loss vs. $1.1B in Q2 2022, and $327.1M transaction revenue vs. $655.2M in Q2 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230803/p38#a230803p38)
- - [Apple Q3: revenue grew 7.9% YoY to $15.8B in China, with iPhone up by &quot;double digits&quot; and &quot;quarterly records&quot; for Services, but fell 5.6% in Americas to $35.4B &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230803/p37#a230803p37)
- - [Block reports Q2 revenue up 26% YoY to $5.53B, Square gross profit up 18% YoY to $888M, Cash App gross profit up 37% YoY to $968M, and Bitcoin revenue of $2.39B &lpar;Nupur Anand/Reuters&rpar;](http://www.techmeme.com/230803/p36#a230803p36)
- - [Tim Cook confirms that Apple has been working on generative AI for years](https://appleinsider.com/articles/23/08/03/tim-cook-confirms-that-apple-has-been-working-on-generative-ai-for-years?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Apple Q3: revenue grew 7.9% YoY to $15.8B in China, with iPhone up by &quot;double digits&quot; and &quot;quarterly records&quot; for Services, but fell 5.6% in Americas to $35.4B &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230803/p37#a230803p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

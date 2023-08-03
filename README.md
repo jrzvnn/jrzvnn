@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro users may get guided walkthroughs of iPhone and Mac](https://appleinsider.com/articles/23/08/03/apple-vision-pro-users-may-get-guided-walkthroughs-of-iphone-and-mac?utm_medium=rss)
  - [German chipmaker Infineon plans to spend a further &amp;euro;5B to build more capacity in Malaysia, for a &amp;euro;7B total investment, to capitalize on growing EV chips demand &lpar;Patricia Nilsson/Financial Times&rpar;](http://www.techmeme.com/230803/p18#a230803p18)
  - [Coinbase plans to open Base, its layer-2 blockchain built on Optimism&#39;s OP Stack, to the public on August 9 and launches an Ethereum bridge &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230803/p17#a230803p17)
  - [For the first time, Linux gamers outnumber Mac in Steam&#39;s game census](https://appleinsider.com/articles/23/08/03/for-the-first-time-linux-gamers-outnumber-mac-in-steams-game-census?utm_medium=rss)
- - [What Meta&#39;s New Studies Do—and Don&#39;t—Reveal About Social Media and Polarization](https://www.wired.com/story/meta-social-media-polarization/)
- - [What to expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
+ - [What Meta’s New Studies Do—and Don’t—Reveal About Social Media and Polarization](https://www.wired.com/story/meta-social-media-polarization/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

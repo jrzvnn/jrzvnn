@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France&#39;s AFP sues X in Paris, saying the company refused to discuss potential content distribution payments under a 2019 law; Elon Musk calls the move &quot;bizarre&quot; &lpar;Shubham Kalia/Reuters&rpar;](http://www.techmeme.com/230803/p11#a230803p11)
  - [Tim Cook promises aid to Beijing flooding relief](https://appleinsider.com/articles/23/08/03/tim-cook-promises-aid-to-beijing-flooding-relief?utm_medium=rss)
  - [India cutting off internet in Manipur state on May 4 after ethnic conflict broke out did not quell the violence and provided cover for murders, rapes, and arson &lpar;Parth M.N./Wired&rpar;](http://www.techmeme.com/230803/p10#a230803p10)
  - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
- - [LG’s 27-inch OLED is ushering in a new age for monitors](https://www.theverge.com/22336413/lg-27gr95qe-b-oled-gaming-monitor-review)
- - [How some people use &quot;date-me docs&quot;, online documents akin to newspaper personal ads, to look for more meaningful connections than those found in dating apps &lpar;New York Times&rpar;](http://www.techmeme.com/230803/p9#a230803p9)<!-- TECH:END -->
+ - [LG’s 27-inch OLED is ushering in a new age for monitors](https://www.theverge.com/22336413/lg-27gr95qe-b-oled-gaming-monitor-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

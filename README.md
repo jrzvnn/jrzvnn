@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at GPU supply and demand, particularly Nvidia H100s, how a reliance on TSMC causes bottlenecks, H100 clients, Nvidia&#39;s allocations, and more &lpar;GPU Utils&rpar;](http://www.techmeme.com/230803/p16#a230803p16)
- - [As Dutch e-bike maker VanMoof goes bankrupt, owners of its $2,000+ bikes worry over replacing proprietary parts and losing important app-enabled bike functions &lpar;Claire Moses/New York Times&rpar;](http://www.techmeme.com/230803/p15#a230803p15)
- - [A New Wave of Peer-to-Peer Apps Heralds a Farm-to-Table Internet](https://www.wired.com/story/gadget-lab-podcast-607/)
- - [OnePlus Keyboard 81 Pro Review: Heavy, Customizable, and Powerful](https://www.wired.com/review/oneplus-keyboard-81-pro/)
- - [Apple is teaching Siri how to read lips](https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips?utm_medium=rss)<!-- TECH:END -->
+ - [German chipmaker Infineon plans to spend a further &amp;euro;5B to build more capacity in Malaysia, for a &amp;euro;7B total investment, to capitalize on growing EV chips demand &lpar;Patricia Nilsson/Financial Times&rpar;](http://www.techmeme.com/230803/p18#a230803p18)
+ - [Coinbase plans to open Base, its layer-2 blockchain built on Optimism&#39;s OP Stack, to the public on August 9 and launches an Ethereum bridge &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230803/p17#a230803p17)
+ - [For the first time, Linux gamers outnumber Mac in Steam&#39;s game census](https://appleinsider.com/articles/23/08/03/for-the-first-time-linux-gamers-outnumber-mac-in-steams-game-census?utm_medium=rss)
+ - [What Meta&#39;s New Studies Do—and Don&#39;t—Reveal About Social Media and Polarization](https://www.wired.com/story/meta-social-media-polarization/)
+ - [What to expect from Apple&#39;s Q3 2023 earnings report](https://appleinsider.com/articles/23/07/30/what-analysts-expect-from-apples-q3-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

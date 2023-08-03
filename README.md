@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alienware’s new Aurora R16 desktop sheds gobs of plastic for a 40 percent smaller build](https://www.theverge.com/22440712/alienware-aurora-r16-desktop-announcement)
  - [Exclusive MacBook Pro 14 &amp; 16-inch deals: save up to $1,300, prices start at $1,549](https://appleinsider.com/articles/23/08/03/exclusive-macbook-pro-14-16-inch-deals-save-up-to-1300-prices-start-at-1549?utm_medium=rss)
  - [Internal document: Meta sold 300K Ray-Ban Stories smart glasses since launch in September 2021 through February 2023, but the company only had about 27K MAUs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230802/p43#a230802p43)
  - [Microsoft researchers: Russia-linked hackers are behind &quot;highly targeted&quot; social engineering attacks affecting fewer than 40 global organizations since late May &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230802/p42#a230802p42)
- - [Indian tax authorities move ahead with a 28% online gaming tax, effective from October 1, despite top investors and 100+ firms asking for changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p41#a230802p41)
- - [Meta and the UFC are teaming up to make a UFC-themed experience in Horizon Worlds, allowing users to watch 4K, 180-degree fight streams, play games, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230802/p40#a230802p40)<!-- TECH:END -->
+ - [Indian tax authorities move ahead with a 28% online gaming tax, effective from October 1, despite top investors and 100+ firms asking for changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230802/p41#a230802p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

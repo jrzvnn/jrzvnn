@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Dutch e-bike maker VanMoof goes bankrupt, owners of its $2,000+ bikes worry over replacing proprietary parts and losing important app-enabled bike functions &lpar;Claire Moses/New York Times&rpar;](http://www.techmeme.com/230803/p15#a230803p15)
  - [A New Wave of Peer-to-Peer Apps Heralds a Farm-to-Table Internet](https://www.wired.com/story/gadget-lab-podcast-607/)
  - [OnePlus Keyboard 81 Pro Review: Heavy, Customizable, and Powerful](https://www.wired.com/review/oneplus-keyboard-81-pro/)
  - [Apple is teaching Siri how to read lips](https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips?utm_medium=rss)
- - [Endor Labs, which offers code and pipeline governance tools, raised a $70M Series A led by Lightspeed, just 10 months after launching &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230803/p14#a230803p14)
- - [Call of Duty now shows you when a cheater has been booted right in the kill feed](https://www.theverge.com/2023/8/3/23818380/call-of-duty-anti-cheat-kill-feed)<!-- TECH:END -->
+ - [Endor Labs, which offers code and pipeline governance tools, raised a $70M Series A led by Lightspeed, just 10 months after launching &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230803/p14#a230803p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

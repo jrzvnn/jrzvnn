@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
- - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
- - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
- - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
+ - 😝 [If you know, then you know.](http://9gag.com/gag/ap9do18)
+ - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 💣 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
+ - 😝 [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
+ - 👉 [Part 2](http://9gag.com/gag/aXndpv6)<!-- MEMES:END -->
 
 ---
 </div>

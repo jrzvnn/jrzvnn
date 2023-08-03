@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
- - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 💣 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 😝 [Strawberry](http://9gag.com/gag/aZDvA99)
+ - 😝 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
+ - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 </div>

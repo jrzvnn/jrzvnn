@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
  - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 💣 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
- - 😝 [Yeah he had a big reason](http://9gag.com/gag/a7qA4xr)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
+ - 😝 [Much proud](http://9gag.com/gag/aDYMB1w)
+ - 💣 [Quit appropriating our civilization, stories/ lore, and history](http://9gag.com/gag/anzdqeq)
+ - 😝 [The Little Mermaid Cosplay](http://9gag.com/gag/aA0mBVd)
+ - 👉 [I\u2019m shook](http://9gag.com/gag/adPdNLM)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty now shows you when a cheater has been booted right in the kill feed](https://www.theverge.com/2023/8/3/23818380/call-of-duty-anti-cheat-kill-feed)
  - [LG’s ‘wireless’ and wildly expensive 97-inch OLED TV sees first global release](https://www.theverge.com/2023/8/3/23818379/lg-signature-oled-m-tv-wireless-south-korea-launch)
  - [Hong Kong grants its first crypto license under its new rules to HashKey Exchange, legalizing retail trading as officials seek to foster a global crypto hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/230803/p13#a230803p13)
  - [Covid&#39;s Summer Wave Is Rising—Again](https://www.wired.com/story/covids-summer-wave-is-rising-again/)
- - [Intel files an application to significantly expand its Oregon campus, currently home to 22K workers, slated to begin as soon as 2025; the last upgrade cost $3B &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230803/p12#a230803p12)
- - [India limits iPad and Mac imports in drive to boost local manufacturing](https://appleinsider.com/articles/23/08/03/india-limits-ipad-and-mac-imports-in-drive-to-boost-local-manufacturing?utm_medium=rss)<!-- TECH:END -->
+ - [Intel files an application to significantly expand its Oregon campus, currently home to 22K workers, slated to begin as soon as 2025; the last upgrade cost $3B &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230803/p12#a230803p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

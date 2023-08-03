@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo reports Q1 revenue up 50% YoY to ~$2.9B and profit up 52% YoY to ~$1.3B, boosted by the Super Mario Bros. Movie and new Zelda; Switch sales hit 3.91M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230803/p5#a230803p5)
  - [An overview of AI policy ideas that US policymakers are considering, from new rules and government agencies to additional funding for AI research and education &lpar;Dylan Matthews/Vox&rpar;](http://www.techmeme.com/230803/p4#a230803p4)
  - [Galaxy Z Flip 5 and Moto Razr Plus face-off in live hand-folding test on YouTube](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)
  - [As Meta starts blocking news links and sharing on Facebook and Instagram in Canada, a look at the harm that Bill C-18 will do to the country&#39;s media sector &lpar;Michael Geist&rpar;](http://www.techmeme.com/230803/p3#a230803p3)
- - [India&#39;s Internet Shutdown Means Manipur Is Burning in the Dark](https://www.wired.com/story/internet-shutdown-manipur-burning-in-the-dark/)
- - [Norway Took On Meta’s Surveillance Ads and Won](https://www.wired.com/story/meta-behavioral-ads-eu-norway/)<!-- TECH:END -->
+ - [India&#39;s Internet Shutdown Means Manipur Is Burning in the Dark](https://www.wired.com/story/internet-shutdown-manipur-burning-in-the-dark/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

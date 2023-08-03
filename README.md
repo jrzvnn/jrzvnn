@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A cross for every White farmer Killed in South Africa between 2018-2023. Europe &amp; US should intervene](http://9gag.com/gag/aDYPAWG)
- - 😝 [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
- - 💣 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 😝 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)
- - 👉 [If you know you know](http://9gag.com/gag/ay2POgr)<!-- MEMES:END -->
+ - 😝 [The great responsibilities.](http://9gag.com/gag/aDYP0dG)
+ - 😝 [Strawberry](http://9gag.com/gag/aZDvA99)
+ - 💣 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
+ - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
+ - 👉 [Hol\u2019 up](http://9gag.com/gag/aOxGg8y)<!-- MEMES:END -->
 
 ---
 </div>

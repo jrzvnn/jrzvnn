@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [The best AT&amp;T deals of August 2023](https://www.androidauthority.com/best-att-deals-2-836102/)
  - [Sony’s WF-1000XM4 wireless earbuds are down to $170](https://www.theverge.com/2023/8/3/23818782/sony-wf-1000xm4-wireless-earbuds-deal-sale)
  - [Google expands its privacy tools, including to alert users when their personal info appears in Search and to remove consensual explicit images from Search &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230803/p26#a230803p26)
- - [The Super Mario Bros. Movie starts streaming on Peacock today](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)
- - [Google will warn you if personal info ends up in Search, give tools to remove it](https://www.androidauthority.com/google-results-about-you-3352149/)
- - [Google can now alert you when your private contact info appears online](https://www.theverge.com/2023/8/3/23817797/google-contact-info-removal-search-results)<!-- TECH:END -->
+ - [The Super Mario Bros. Movie starts streaming on Peacock today](https://www.theverge.com/23785874/super-mario-bros-movie-streaming-peacock-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

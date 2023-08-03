@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If you know you know](http://9gag.com/gag/ay2POgr)
+ - 😝 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
+ - 💣 [She loves balls . guess the name `only wrong names`](http://9gag.com/gag/avQmY4E)
  - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - 😝 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)
- - 💣 [Strawberry](http://9gag.com/gag/aZDvA99)
- - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
 
 ---
 </div>

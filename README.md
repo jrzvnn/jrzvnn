@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Q3 revenue: iPhone down 2.4% YoY to $39.7B, Mac down 7.3% YoY to $6.8B, iPad down 19.8% to $5.8B, and Wearables, Home, and Accessories up 2.4% to $8.3B &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/230803/p34#a230803p34)
+ - [Apple edges out Wall Street, with weak iPhone sales saved by Services surge](https://appleinsider.com/articles/23/08/03/apple-edges-out-wall-street-with-weak-iphone-sales-saved-by-services-surge?utm_medium=rss)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [Apple reports Q3 revenue down 1.4% YoY to $81.8B, declining for a third quarter in a row and missing estimates of $88.8B, and net income up 2.3% YoY to $19.9B &lpar;Apple&rpar;](http://www.techmeme.com/230803/p33#a230803p33)
- - [Airbnb reports Q2 revenue up 18% YoY to $2.48B vs. $2.42B est., $650M net income, gross bookings up 13% YoY to $19.1B, and forecasts Q3 revenue above estimates &lpar;Priyamvada C/Reuters&rpar;](http://www.techmeme.com/230803/p32#a230803p32)
- - [Amazon Q2: ad revenue up 22% YoY to $10.68B, vs. $10.4B est., subscription revenue up 14% YoY to $9.89B, and North America segment sales up 11% YoY to $82.5B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230803/p31#a230803p31)
- - [The first Bethesda games are arriving on Nvidia’s GeForce Now service](https://www.theverge.com/2023/8/3/23818916/bethesda-nvidia-geforce-now-ultimate-cloud-gaming-microsoft)<!-- TECH:END -->
+ - [Airbnb reports Q2 revenue up 18% YoY to $2.48B vs. $2.42B est., $650M net income, gross bookings up 13% YoY to $19.1B, and forecasts Q3 revenue above estimates &lpar;Priyamvada C/Reuters&rpar;](http://www.techmeme.com/230803/p32#a230803p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

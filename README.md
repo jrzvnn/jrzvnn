@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at GPU supply and demand, particularly Nvidia H100s, how a reliance on TSMC causes bottlenecks, H100 clients, Nvidia&#39;s allocations, and more &lpar;GPU Utils&rpar;](http://www.techmeme.com/230803/p16#a230803p16)
  - [As Dutch e-bike maker VanMoof goes bankrupt, owners of its $2,000+ bikes worry over replacing proprietary parts and losing important app-enabled bike functions &lpar;Claire Moses/New York Times&rpar;](http://www.techmeme.com/230803/p15#a230803p15)
  - [A New Wave of Peer-to-Peer Apps Heralds a Farm-to-Table Internet](https://www.wired.com/story/gadget-lab-podcast-607/)
  - [OnePlus Keyboard 81 Pro Review: Heavy, Customizable, and Powerful](https://www.wired.com/review/oneplus-keyboard-81-pro/)
- - [Apple is teaching Siri how to read lips](https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips?utm_medium=rss)
- - [Endor Labs, which offers code and pipeline governance tools, raised a $70M Series A led by Lightspeed, just 10 months after launching &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230803/p14#a230803p14)<!-- TECH:END -->
+ - [Apple is teaching Siri how to read lips](https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

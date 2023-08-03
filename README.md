@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare reports Q2 revenue up 32% YoY to $308.5M, vs. $305.6M est., forecasts Q3 revenue above estimates, and raises its FY 2023 forecasts; NET jumps 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230803/p39#a230803p39)
  - [Not even the Galaxy S23 could prevent Qualcomm’s chip sales from falling by 25%](https://www.androidauthority.com/qualcomm-chip-sales-down-3352231/)
  - [Apple edges out Wall Street, with weak iPhone sales saved by Services surge](https://appleinsider.com/articles/23/08/03/apple-edges-out-wall-street-with-weak-iphone-sales-saved-by-services-surge?utm_medium=rss)
  - [Apple finally reaches one billion paid subscriptions milestone](https://appleinsider.com/articles/23/08/03/apple-finally-reaches-the-one-billion-paid-subscriptions-milestone?utm_medium=rss)
- - [Coinbase reports Q2 revenue down 12% YoY to $707.9M, vs. $631.2M est., net loss down 91% YoY to $97M, and transaction revenue down 50% YoY to $327.1M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230803/p38#a230803p38)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Coinbase reports Q2 revenue down 12% YoY to $707.9M, vs. $631.2M est., net loss down 91% YoY to $97M, and transaction revenue down 50% YoY to $327.1M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230803/p38#a230803p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

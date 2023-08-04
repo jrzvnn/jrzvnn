@@ -147,7 +147,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Galaxy Z Flip 5 vs. Moto Razr Plus live hand-folding test: Moto in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)
- - [A look at the digital-asset rules in Asian jurisdictions like Hong Kong and Japan as the region&#39;s regulators lead the US, which remains mired in a crypto fog &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230804/p1#a230804p1)
+ - [A look at efforts in Asian jurisdictions like Hong Kong and Japan to clarify crypto rules, in contrast to the US, which remains mired in regulatory uncertainty &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230804/p1#a230804p1)
  - [It’s officially the end of the road for Cortana on Windows](https://www.androidauthority.com/microsoft-kill-cortana-windows-august-2023-3331248/)
  - [Microsoft dumps Cortana leaving Siri as one of the last smart assistants](https://appleinsider.com/articles/23/08/04/microsoft-dumps-cortana-leaving-siri-as-one-of-the-last-smart-assistants?utm_medium=rss)
  - [A look at Premier League soccer&#39;s fight against piracy as illegal live streams in the UK decline, with 600K+ blocked last season, and use of IPTV devices rises &lpar;Martyn Ziegler/The Times&rpar;](http://www.techmeme.com/230803/p41#a230803p41)<!-- TECH:END -->

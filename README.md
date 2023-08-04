@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect reaction\u2019s doesn\u2019t exis\u2026..](http://9gag.com/gag/axoA2bD)
+ - 😝 [They gave him the asshole](http://9gag.com/gag/a04xp5n)
  - 😝 [Old but gold](http://9gag.com/gag/aDYPwXB)
- - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 💣 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
+ - 👉 [Goddammit Jared](http://9gag.com/gag/aPgp4vn)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 😝 [Reverse graffiti: Removing dirt by using a stencil and a pressure washer. A sustainable alternative.](http://9gag.com/gag/aREyA6j)
- - 💣 [Georgians trolling Russian &#39;tourists&#39;](http://9gag.com/gag/aVbdP6P)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 💣 [Illusion lvl 100](http://9gag.com/gag/aDYP0yG)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Henry trying to save the Witcher](http://9gag.com/gag/aBdvYAx)<!-- MEMES:END -->
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

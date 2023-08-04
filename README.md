@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 😝 [Lol I remember that being taught in high school](http://9gag.com/gag/aXndZz2)
- - 💣 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
  - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 😝 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)
+ - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
 
 ---
 </div>

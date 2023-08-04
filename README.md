@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
  - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
- - 💣 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
- - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
  - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
 
 ---

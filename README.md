@@ -156,9 +156,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - 💣 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)
  - 😝 [Would](http://9gag.com/gag/a9qVLRo)
+ - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
  - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Better plot than twilight](http://9gag.com/gag/aDYPR2w)
  - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - 💣 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
- - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 👉 [The guy who pulled \u201cThe One Ring\u201d Magic card worth $2,600,000 took this video before sending it in for grading\u2026](http://9gag.com/gag/aoKdz6X)<!-- MEMES:END -->
+ - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 👉 [Damn you swedish](http://9gag.com/gag/a04x9Nq)<!-- MEMES:END -->
 
 ---
 </div>

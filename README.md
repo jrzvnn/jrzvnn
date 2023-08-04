@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You were saying?](http://9gag.com/gag/aDYPmDx)
- - 😝 [Flip It](http://9gag.com/gag/aMEWbVA)
- - 💣 [&#39;Gamifying&#39; trademills adds more fun to it, and also extends the exercise time](http://9gag.com/gag/a8qnYxe)
- - 😝 [Only in Japan](http://9gag.com/gag/abvdbVE)
- - 👉 [Good luck next time](http://9gag.com/gag/aYVdwn0)<!-- MEMES:END -->
+ - 😝 [Would](http://9gag.com/gag/a9qVLRo)
+ - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
 
 ---
 </div>

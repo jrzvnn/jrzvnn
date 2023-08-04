@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple forced to halt MacBook, iPad imports in India](https://appleinsider.com/articles/23/08/04/apple-forced-to-halt-macbook-ipad-imports-in-india?utm_medium=rss)
+ - [Revolut plans to start shutting down its US cryptocurrency service from September 2, citing regulatory uncertainty, impacting &lt;1% of its crypto users globally &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230804/p8#a230804p8)
  - [Qualcomm, NXP, Bosch, and Infineon form a new company in Germany to promote the open-source RISC-V chip architecture, initially targeting the auto industry &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230804/p7#a230804p7)
  - [This Scorching Summer Is Taking a Toll on Your Favorite Foods](https://www.wired.com/story/this-scorching-summer-is-taking-a-toll-on-your-favorite-foods/)
- - [Apps Are Rushing to Add AI. Is Any of It Useful?](https://www.wired.com/story/is-in-app-ai-useful/)
- - [40 Best Back-to-School College Dorm Essentials and Gear &lpar;2023&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
- - [TikTok announces measures to comply with EU DSA, including making reporting illegal content easier for users and removing targeted ads for those aged 13 to 17 &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230804/p6#a230804p6)<!-- TECH:END -->
+ - [Apps Are Rushing to Add AI. Is Any of It Useful?](https://www.wired.com/story/is-in-app-ai-useful/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The guy who pulled \u201cThe One Ring\u201d Magic card worth $2,600,000 took this video before sending it in for grading\u2026](http://9gag.com/gag/aoKdz6X)
  - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 😝 [In life you can only count on your mom and spiderman](http://9gag.com/gag/aeQd6ZB)
- - 💣 [Uff...](http://9gag.com/gag/a04xYGL)
+ - 💣 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [A promising actress](http://9gag.com/gag/ap9d0O5)<!-- MEMES:END -->
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Android phone could soon auto-zoom into QR codes for scanning](https://www.androidauthority.com/android-auto-zoom-qr-code-barcode-scanning-3352358/)
  - [Motorola Moto G54 leaks: Bringing the features that matter](https://www.androidauthority.com/motorola-moto-g54-leaks-3352350/)
  - [Urban Company Lured Women Into the Gig Economy—Then Pushed Them Out](https://www.wired.com/story/urban-company-women-gig-economy-pushed-them-out/)
  - [Does the Samsung Galaxy Z Flip 5 have eSIM?](https://www.androidauthority.com/does-the-samsung-galaxy-z-flip-5-have-esim-3350852/)
- - [Galaxy Z Flip 5 vs. Moto Razr Plus live hand-folding test: Moto in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)
- - [A look at efforts in Asian jurisdictions like Hong Kong and Japan to clarify crypto rules, in contrast to the US, which remains mired in regulatory uncertainty &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230804/p1#a230804p1)<!-- TECH:END -->
+ - [Galaxy Z Flip 5 vs. Moto Razr Plus live hand-folding test: Moto in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-folding-test-3352010/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

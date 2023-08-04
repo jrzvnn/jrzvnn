@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Let’s all play the Phone Challenge](https://www.theverge.com/23820251/phone-screen-time-log-off)
  - [Ransomware attackers are targeting US healthcare and education services](https://appleinsider.com/articles/23/08/04/ransomware-attackers-are-targeting-us-healthcare-and-education-services?utm_medium=rss)
  - [Attempts to replicate a South Korean team&#39;s process to create LK-99, a room temperature superconductor that could revolutionize computing, have failed so far &lpar;Dan Garisto/Nature&rpar;](http://www.techmeme.com/230804/p17#a230804p17)
- - [The Galaxy Watch 6’s Thermo Check app is a solution looking for a problem](https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature)
- - [OnePlus Open leak suggests there could be some big last minute changes](https://www.androidauthority.com/oneplus-open-last-minute-changes-3352549/)
- - [The best Metro by T-Mobile deals of August 2023](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
+ - [Lionel Messi: How to Watch, Stream Inter Miami vs. FC Dallas on MLS Season Pass     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-fc-dallas-on-mls-season-pass/#ftag=CAD590a51e)
+ - [The Galaxy Watch 6’s Thermo Check app is a solution looking for a problem](https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

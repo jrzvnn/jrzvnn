@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods 3 now available at a reduced price through official Apple refurbished store](https://appleinsider.com/articles/23/08/04/airpods-3-now-available-at-a-reduced-price-through-official-apple-refurbished-store?utm_medium=rss)
  - [A profile of Window Snyder, who helped secure the early internet while at Microsoft and Mozilla, and pushed Apple to enable encryption by default in its devices &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230804/p19#a230804p19)
  - [Excel’s esports revolution is coming back to ESPN this week](https://www.theverge.com/2023/8/3/23817220/excel-esports-espn-the-ocho-championship-start-time-watch)
  - [VanMoof is for sale — here’s who’s interested in buying the bankrupt e-bike brand](https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer)
- - [The former Canoo CEO hired by Apple is facing a lawsuit from the SEC](https://www.theverge.com/2023/8/4/23820329/canoo-former-ceo-apple-ulrich-kranz-sec-lawsuit)
- - [How to use Nearby Share for Windows](https://www.theverge.com/23668186/nearby-share-windows-android-how-to)<!-- TECH:END -->
+ - [The former Canoo CEO hired by Apple is facing a lawsuit from the SEC](https://www.theverge.com/2023/8/4/23820329/canoo-former-ceo-apple-ulrich-kranz-sec-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

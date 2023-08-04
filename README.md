@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 💣 [Illusion lvl 100](http://9gag.com/gag/aDYP0yG)
+ - 😝 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 💣 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 👉 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 ---
 </div>

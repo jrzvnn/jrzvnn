@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [The entire greek pantheon screaming at odin to just stop](http://9gag.com/gag/a5XxrPN)
  - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 💣 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
+ - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
+ - 👉 [The guy who pulled \u201cThe One Ring\u201d Magic card worth $2,600,000 took this video before sending it in for grading\u2026](http://9gag.com/gag/aoKdz6X)<!-- MEMES:END -->
 
 ---
 </div>

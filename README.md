@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)
  - [Samsung wants its foldables to be perfect before dropping the price](https://www.androidauthority.com/galaxy-z-fold-5-fan-edition-3352648/)
  - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [How to switch your AirPods to another device in iOS 17](https://appleinsider.com/inside/airpods/tips/how-to-switch-your-airpods-to-another-device-in-ios-17?utm_medium=rss)
- - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [Corner Office could be a clever nightmare about main character syndrome if it weren’t so stuck in its own head](https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm)<!-- TECH:END -->
+ - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

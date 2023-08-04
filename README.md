@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will face a scaled-down antitrust lawsuit over search after a judge ruled that state AGs didn&#39;t show that Google&#39;s search results harmed rivals like Yelp &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230804/p18#a230804p18)
  - [The Senate’s AI Future Is Haunted by the Ghost of Privacy Past](https://www.wired.com/story/ai-regulation-privacy-us-senate/)
  - [SEC sues Apple Car exec over securities rules at former employer](https://appleinsider.com/articles/23/08/04/sec-sues-apple-car-exec-over-securities-rules-at-former-employer?utm_medium=rss)
  - [Let’s all play the Phone Challenge](https://www.theverge.com/23820251/phone-screen-time-log-off)
- - [Ransomware attackers are targeting US healthcare and education services](https://appleinsider.com/articles/23/08/04/ransomware-attackers-are-targeting-us-healthcare-and-education-services?utm_medium=rss)
- - [Attempts to replicate a South Korean team&#39;s process to create LK-99, a room temperature superconductor that could revolutionize computing, have failed so far &lpar;Dan Garisto/Nature&rpar;](http://www.techmeme.com/230804/p17#a230804p17)<!-- TECH:END -->
+ - [Ransomware attackers are targeting US healthcare and education services](https://appleinsider.com/articles/23/08/04/ransomware-attackers-are-targeting-us-healthcare-and-education-services?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean circuit board maker Isu Petasys, which counts Alphabet, Nvidia, and Microsoft as clients, has seen a 487% stock surge in 2023 fueled by the AI boom &lpar;Yoojung Lee/Bloomberg&rpar;](http://www.techmeme.com/230804/p3#a230804p3)
  - [How Vietnam became a gaming powerhouse a decade after Flappy Bird; data.ai: Vietnam was in the global top five in mobile game production by downloads in H1 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230804/p2#a230804p2)
  - [Poll: Have ultra-high-resolution cameras lived up to the hype?](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-3352373/)
  - [Your Android phone could soon auto-zoom into QR codes for scanning](https://www.androidauthority.com/android-auto-zoom-qr-code-barcode-scanning-3352358/)
- - [Motorola Moto G54 leaks: Bringing the features that matter](https://www.androidauthority.com/motorola-moto-g54-leaks-3352350/)
- - [Urban Company Lured Women Into the Gig Economy—Then Pushed Them Out](https://www.wired.com/story/urban-company-women-gig-economy-pushed-them-out/)<!-- TECH:END -->
+ - [Motorola Moto G54 leaks: Bringing the features that matter](https://www.androidauthority.com/motorola-moto-g54-leaks-3352350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

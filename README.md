@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Georgians trolling Russian &#39;tourists&#39;](http://9gag.com/gag/aVbdP6P)
- - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 💣 [Meanwhile](http://9gag.com/gag/anzd1M5)
+ - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [A promising actress](http://9gag.com/gag/ap9d0O5)<!-- MEMES:END -->
+ - 👉 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
 
 ---
 </div>

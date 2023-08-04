@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dubious leaker claims AirTag 2 will launch in 2025](https://appleinsider.com/articles/23/08/04/dubious-leaker-claims-airtag-2-will-launch-in-2025?utm_medium=rss)
  - [The Google Pixel tablet gets its first price drop](https://www.androidauthority.com/google-pixel-tablet-deal-3352516/)
  - [Pony.Ai, which launched robotaxi services in Beijing and Guangzhou, launches a joint venture with Toyota and plans to spend $139M to mass produce robotaxis &lpar;Reuters&rpar;](http://www.techmeme.com/230804/p15#a230804p15)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Daily deals: Apple HomePod mini $79, $120 off M2 Mac mini &amp; AppleCare Kit, $60 off AirPods Pro, more](https://appleinsider.com/articles/23/08/04/daily-deals-apple-homepod-mini-79-120-off-m2-mac-mini-applecare-kit-60-off-airpods-pro-more?utm_medium=rss)
- - [India delays import limitations on laptops, tablets, and servers, giving companies a &quot;transition period&quot; of at least one month to obtain licenses &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230804/p14#a230804p14)<!-- TECH:END -->
+ - [Daily deals: Apple HomePod mini $79, $120 off M2 Mac mini &amp; AppleCare Kit, $60 off AirPods Pro, more](https://appleinsider.com/articles/23/08/04/daily-deals-apple-homepod-mini-79-120-off-m2-mac-mini-applecare-kit-60-off-airpods-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

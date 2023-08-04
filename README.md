@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase argues it doesn’t trade securities, so the SEC’s lawsuit should be dismissed](https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed)
  - [How the Kids Online Safety Act puts us all at risk](https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger)
  - [Google’s Pixel Watch and Pixel Buds Pro are $60 off for Verge readers](https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale)
  - [Ilya Lichtenstein, who earlier pleaded guilty to laundering billions in cryptocurrency from the 2016 Bitfinex hack, admits to being the original Bitfinex hacker &lpar;CNBC&rpar;](http://www.techmeme.com/230804/p12#a230804p12)
- - [Meeting Sinéad O’Connor in a Cracker Barrel Parking Lot, 1998](https://www.wired.com/story/sinead-oconnor-social-media/)
- - [Willow 3.0 Review: Expensive but Good](https://www.wired.com/review/willow-3-breast-pump/)<!-- TECH:END -->
+ - [Meeting Sinéad O’Connor in a Cracker Barrel Parking Lot, 1998](https://www.wired.com/story/sinead-oconnor-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

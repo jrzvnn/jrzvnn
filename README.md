@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok announces measures to comply with EU DSA, including making reporting illegal content easier for users and removing targeted ads for those aged 13 to 17 &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230804/p6#a230804p6)
- - [The Google Inbox email successor is finally ready for Android](https://www.theverge.com/2023/8/4/23819814/shortwave-android-email-app-gmail-google-inbox-release)
- - [Apple, Samsung, and others freeze imports of laptops and tablets to India; sources say India&#39;s sudden import license rules caught the industry by surprise &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230804/p5#a230804p5)
- - [Background actors describe their worries over lack of control of their digital likenesses, which is one key issue in the SAG-AFTRA strike &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/230804/p4#a230804p4)
- - [Pro iPhones will have to wait a year to get the iPhone 15&#39;s 48mp camera](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Qualcomm, NXP, Bosch, and Infineon form a new company in Germany to promote the open-source RISC-V chip architecture, initially targeting the auto industry &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230804/p7#a230804p7)
+ - [This Scorching Summer Is Taking a Toll on Your Favorite Foods](https://www.wired.com/story/this-scorching-summer-is-taking-a-toll-on-your-favorite-foods/)
+ - [Apps Are Rushing to Add AI. Is Any of It Useful?](https://www.wired.com/story/is-in-app-ai-useful/)
+ - [40 Best Back-to-School College Dorm Essentials and Gear &lpar;2023&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
+ - [TikTok announces measures to comply with EU DSA, including making reporting illegal content easier for users and removing targeted ads for those aged 13 to 17 &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/230804/p6#a230804p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

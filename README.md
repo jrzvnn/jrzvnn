@@ -146,10 +146,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)
  - [Samsung wants its foldables to be perfect before dropping the price](https://www.androidauthority.com/galaxy-z-fold-5-fan-edition-3352648/)
  - [Best 75-Inch TVs for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
- - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [How to switch your AirPods to another device in iOS 17](https://appleinsider.com/inside/airpods/tips/how-to-switch-your-airpods-to-another-device-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

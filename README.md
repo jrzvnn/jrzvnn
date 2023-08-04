@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illusion lvl 100](http://9gag.com/gag/aDYP0yG)
  - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 💣 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 😝 [That sequel was legit awesome](http://9gag.com/gag/az2Q6vZ)
- - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
+ - 😝 [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
+ - 💣 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
+ - 😝 [The guy who pulled \u201cThe One Ring\u201d Magic card worth $2,600,000 took this video before sending it in for grading\u2026](http://9gag.com/gag/aoKdz6X)
+ - 👉 [I just want to give up](http://9gag.com/gag/aA0mY9o)<!-- MEMES:END -->
 
 ---
 </div>

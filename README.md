@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 will get new stacked camera, but not the iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
+ - [Fisker shows off ambitious EV lineup, starting at $29,900](https://www.theverge.com/2023/8/4/23819813/fisker-electric-car-startup-pear-alaska-ronin-ocean-price-release-date)
+ - [Apple TV+ cancels &#39;City on Fire&#39; after one season](https://appleinsider.com/articles/23/08/04/apple-tv-cancels-city-on-fire-after-one-season?utm_medium=rss)
  - [An interview with TSMC Chair Mark Liu on why the company plans to stay in Taiwan, the US CHIPS Act, China invading Taiwan, cutting off Huawei in 2020, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230804/p9#a230804p9)
- - [This app lets you play PC games on your Android phone](https://www.androidauthority.com/winlator-pc-games-on-android-phone-3352401/)
- - [Apple forced to halt MacBook, iPad imports in India](https://appleinsider.com/articles/23/08/04/apple-forced-to-halt-macbook-ipad-imports-in-india?utm_medium=rss)
- - [Revolut plans to start shutting down its US cryptocurrency service from September 2, citing regulatory uncertainty, impacting &lt;1% of its crypto users globally &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230804/p8#a230804p8)
- - [Qualcomm, NXP, Bosch, and Infineon form a new company in Germany to promote the open-source RISC-V chip architecture, initially targeting the auto industry &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230804/p7#a230804p7)<!-- TECH:END -->
+ - [This app lets you play PC games on your Android phone](https://www.androidauthority.com/winlator-pc-games-on-android-phone-3352401/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

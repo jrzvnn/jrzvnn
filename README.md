@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global smartphone revenue fell 8% YoY and 15% QoQ to under $90B in Q2 2023; Apple had a record 45% share of global smartphone revenue and an 85% share of profit &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/230804/p22#a230804p22)
  - [Zuck says Threads will add search and web ‘in the next few weeks’](https://www.theverge.com/2023/8/4/22381931/threads-web-search-next-few-weeks)
  - [Your Android phone may soon read QR codes from across the room](https://www.theverge.com/2023/8/4/23820353/android-gms-qr-code-scanner-auto-zoom-api-machine-learning)
  - [Smartphone shipments in India fell 10% YoY in H1 2023 to 64M; in Q2 2023, Apple and OnePlus grew 61% YoY each, Xiaomi fell 39% YoY, and Realme fell 30% YoY &lpar;IDC&rpar;](http://www.techmeme.com/230804/p21#a230804p21)
- - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
- - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)<!-- TECH:END -->
+ - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

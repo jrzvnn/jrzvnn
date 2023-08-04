@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Android phone may soon read QR codes from across the room](https://www.theverge.com/2023/8/4/23820353/android-gms-qr-code-scanner-auto-zoom-api-machine-learning)
  - [Smartphone shipments in India fell 10% YoY in H1 2023 to 64M; in Q2 2023, Apple and OnePlus grew 61% YoY each, Xiaomi fell 39% YoY, and Realme fell 30% YoY &lpar;IDC&rpar;](http://www.techmeme.com/230804/p21#a230804p21)
  - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [Judge dismisses major arguments in Google antitrust case](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)
- - [Samsung wants its foldables to be perfect before dropping the price](https://www.androidauthority.com/galaxy-z-fold-5-fan-edition-3352648/)
- - [Best 75-Inch TVs for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung wants its foldables to be perfect before dropping the price](https://www.androidauthority.com/galaxy-z-fold-5-fan-edition-3352648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

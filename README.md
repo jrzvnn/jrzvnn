@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They gave him the asshole](http://9gag.com/gag/a04xp5n)
- - 😝 [Old but gold](http://9gag.com/gag/aDYPwXB)
+ - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
  - 💣 [Water Pistol](http://9gag.com/gag/aKELgOQ)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Goddammit Jared](http://9gag.com/gag/aPgp4vn)<!-- MEMES:END -->
+ - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
 
 ---
 </div>

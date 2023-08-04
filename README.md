@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok’s algorithm will be optional in Europe](https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking)
+ - [Tel Aviv-based insurance marketplace Vesttoo considers removing its CEO and CFO amid an alleged multibillion-dollar fraud involving faked letters of credit &lpar;Jean Eaglesham/Wall Street Journal&rpar;](http://www.techmeme.com/230804/p11#a230804p11)
  - [Apple&#39;s earnings, an AirTag 2, and what&#39;s happening with Apple AI on the AppleInsider podcast](https://appleinsider.com/articles/23/08/04/apples-earnings-an-airtag-2-and-whats-happening-with-apple-ai-on-the-appleinsider-podcast?utm_medium=rss)
  - [Eufy X9 Pro Review: Moar Mop](https://www.wired.com/review/eufy-x9-pro/)
- - [iPhone 15 will get new stacked camera, but not the iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
- - [Apple&#39;s valuation will fall to less than $3 trillion for the worst reasons](https://appleinsider.com/articles/23/08/04/apples-valuation-will-fall-to-less-than-3-trillion-for-the-worst-reasons?utm_medium=rss)
- - [A profile of TSMC founder Morris Chang, who moved from the US to Taiwan in 1985 to build a chip industry behemoth that now sits at the center of a tech Cold War &lpar;New York Times&rpar;](http://www.techmeme.com/230804/p10#a230804p10)<!-- TECH:END -->
+ - [iPhone 15 will get new stacked camera, but not the iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

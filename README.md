@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ilya Lichtenstein, who earlier pleaded guilty to laundering billions in cryptocurrency from the 2016 Bitfinex hack, admits to being the original Bitfinex hacker &lpar;CNBC&rpar;](http://www.techmeme.com/230804/p12#a230804p12)
+ - [Meeting Sinéad O’Connor in a Cracker Barrel Parking Lot, 1998](https://www.wired.com/story/sinead-oconnor-social-media/)
+ - [Willow 3.0 Review: Expensive but Good](https://www.wired.com/review/willow-3-breast-pump/)
  - [The latest Nothing Phone 2 update brings a laundry list of improvements](https://www.androidauthority.com/nothing-phone-2-updates-3345690/)
- - [TikTok’s algorithm will be optional in Europe](https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking)
- - [Tel Aviv-based insurance marketplace Vesttoo considers removing its CEO and CFO amid an alleged multibillion-dollar fraud involving faked letters of credit &lpar;Jean Eaglesham/Wall Street Journal&rpar;](http://www.techmeme.com/230804/p11#a230804p11)
- - [Apple&#39;s earnings, an AirTag 2, and what&#39;s happening with Apple AI on the AppleInsider podcast](https://appleinsider.com/articles/23/08/04/apples-earnings-an-airtag-2-and-whats-happening-with-apple-ai-on-the-appleinsider-podcast?utm_medium=rss)
- - [Eufy X9 Pro Review: Moar Mop](https://www.wired.com/review/eufy-x9-pro/)<!-- TECH:END -->
+ - [TikTok’s algorithm will be optional in Europe](https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

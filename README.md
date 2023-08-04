@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The former Canoo CEO hired by Apple is facing a lawsuit from the SEC](https://www.theverge.com/2023/8/4/23820329/canoo-former-ceo-apple-ulrich-kranz-sec-lawsuit)
+ - [How to use Nearby Share for Windows](https://www.theverge.com/23668186/nearby-share-windows-android-how-to)
  - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Google will face a scaled-down antitrust lawsuit over search after a judge ruled that state AGs didn&#39;t show that Google&#39;s search results harmed rivals like Yelp &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230804/p18#a230804p18)
- - [Electric Bills Spike Nearly 30% for AEP Ohio Customers. How to Choose Your Energy Provider     - CNET](https://www.cnet.com/news/electric-bills-spike-nearly-30-percent-for-aep-ohio-customers-how-to-choose-your-energy-provider/#ftag=CAD590a51e)
- - [The Senate’s AI Future Is Haunted by the Ghost of Privacy Past](https://www.wired.com/story/ai-regulation-privacy-us-senate/)<!-- TECH:END -->
+ - [Google will face a scaled-down antitrust lawsuit over search after a judge ruled that state AGs didn&#39;t show that Google&#39;s search results harmed rivals like Yelp &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230804/p18#a230804p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

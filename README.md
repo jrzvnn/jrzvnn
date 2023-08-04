@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
- - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
+ - 😝 [Only in Japan](http://9gag.com/gag/abvdbVE)
+ - 😝 [Racism against whites](http://9gag.com/gag/az2BVZB)
+ - 💣 [It\u2019s mathematical](http://9gag.com/gag/aREygR5)
+ - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 👉 [Reverse graffiti: Removing dirt by using a stencil and a pressure washer. A sustainable alternative.](http://9gag.com/gag/aREyA6j)<!-- MEMES:END -->
 
 ---
 </div>

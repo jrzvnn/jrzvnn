@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [iPhone 15 will get new stacked camera, but not the iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/iphone-16-pro-will-gain-new-stacked-camera-sensor-says-kuo?utm_medium=rss)
+ - [Apple&#39;s valuation will fall to less than $3 trillion for the worst reasons](https://appleinsider.com/articles/23/08/04/apples-valuation-will-fall-to-less-than-3-trillion-for-the-worst-reasons?utm_medium=rss)
+ - [A profile of TSMC founder Morris Chang, who moved from the US to Taiwan in 1985 to build a chip industry behemoth that now sits at the center of a tech Cold War &lpar;New York Times&rpar;](http://www.techmeme.com/230804/p10#a230804p10)
  - [Fisker shows off ambitious EV lineup, starting at $29,900](https://www.theverge.com/2023/8/4/23819813/fisker-electric-car-startup-pear-alaska-ronin-ocean-price-release-date)
- - [Apple TV+ cancels &#39;City on Fire&#39; after one season](https://appleinsider.com/articles/23/08/04/apple-tv-cancels-city-on-fire-after-one-season?utm_medium=rss)
- - [An interview with TSMC Chair Mark Liu on why the company plans to stay in Taiwan, the US CHIPS Act, China invading Taiwan, cutting off Huawei in 2020, and more &lpar;New York Times&rpar;](http://www.techmeme.com/230804/p9#a230804p9)
- - [This app lets you play PC games on your Android phone](https://www.androidauthority.com/winlator-pc-games-on-android-phone-3352401/)<!-- TECH:END -->
+ - [Apple TV+ cancels &#39;City on Fire&#39; after one season](https://appleinsider.com/articles/23/08/04/apple-tv-cancels-city-on-fire-after-one-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

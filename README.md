@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
- - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 💣 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
+ - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The entire greek pantheon screaming at odin to just stop](http://9gag.com/gag/a5XxrPN)
- - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - 😝 [In life you can only count on your mom and spiderman](http://9gag.com/gag/aeQd6ZB)
+ - 💣 [Uff...](http://9gag.com/gag/a04xYGL)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [The guy who pulled \u201cThe One Ring\u201d Magic card worth $2,600,000 took this video before sending it in for grading\u2026](http://9gag.com/gag/aoKdz6X)<!-- MEMES:END -->
+ - 👉 [A promising actress](http://9gag.com/gag/ap9d0O5)<!-- MEMES:END -->
 
 ---
 </div>

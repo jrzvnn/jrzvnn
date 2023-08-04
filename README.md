@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
- - 😝 [My fear.](http://9gag.com/gag/ay2PyO8)
- - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 👉 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)<!-- MEMES:END -->
+ - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
+ - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
+ - 😝 [Stay fit brothers, take care of yourselfs.](http://9gag.com/gag/ajVdYdg)
+ - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
 
 ---
 </div>

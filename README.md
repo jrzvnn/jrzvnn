@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ransomware attackers are targeting US healthcare and education services](https://appleinsider.com/articles/23/08/04/ransomware-attackers-are-targeting-us-healthcare-and-education-services?utm_medium=rss)
+ - [Attempts to replicate a South Korean team&#39;s process to create LK-99, a room temperature superconductor that could revolutionize computing, have failed so far &lpar;Dan Garisto/Nature&rpar;](http://www.techmeme.com/230804/p17#a230804p17)
  - [The Galaxy Watch 6’s Thermo Check app is a solution looking for a problem](https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature)
  - [OnePlus Open leak suggests there could be some big last minute changes](https://www.androidauthority.com/oneplus-open-last-minute-changes-3352549/)
- - [The best Metro by T-Mobile deals of August 2023](https://www.androidauthority.com/best-metropcs-deals-843748/)
- - [The LK-99 ‘superconductor’ went viral — here’s what the experts think](https://www.theverge.com/23820077/lk-99-superconductor-experts)
- - [Fisker Alaska Pickup, Fisker Ronin Convertible: Specs, Price, Release Date](https://www.wired.com/story/fisker-alaska-ronin-pear-ocean-force-e/)<!-- TECH:END -->
+ - [The best Metro by T-Mobile deals of August 2023](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bezel comparision: iPhone 14 Pro vs. iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/bezel-comparision-iphone-14-pro-vs-iphone-15-pro?utm_medium=rss)
+ - [The 5 best apps for the Samsung Galaxy Tab S9](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-apps-3351669/)
+ - [How to take control of your Windows notifications](https://www.theverge.com/23819943/windows-pc-notification-control-change-how-to)
  - [Coinbase asks a judge to dismiss the SEC&#39;s lawsuit against it, arguing that the case falls outside the agency&#39;s authority as Coinbase doesn&#39;t trade securities &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230804/p13#a230804p13)
- - [A summer binge-watching guide](https://www.theverge.com/23811117/best-shows-watch-binge-summer)
- - [Coinbase argues it doesn’t trade securities, so the SEC’s lawsuit should be dismissed](https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed)
- - [How the Kids Online Safety Act puts us all at risk](https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger)
- - [Google’s Pixel Watch and Pixel Buds Pro are $60 off for Verge readers](https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale)<!-- TECH:END -->
+ - [A summer binge-watching guide](https://www.theverge.com/23811117/best-shows-watch-binge-summer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

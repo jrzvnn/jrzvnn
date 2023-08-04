@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Google will face a scaled-down antitrust lawsuit over search after a judge ruled that state AGs didn&#39;t show that Google&#39;s search results harmed rivals like Yelp &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230804/p18#a230804p18)
- - [The Senate’s AI Future Is Haunted by the Ghost of Privacy Past](https://www.wired.com/story/ai-regulation-privacy-us-senate/)
- - [SEC sues Apple Car exec over securities rules at former employer](https://appleinsider.com/articles/23/08/04/sec-sues-apple-car-exec-over-securities-rules-at-former-employer?utm_medium=rss)
- - [Let’s all play the Phone Challenge](https://www.theverge.com/23820251/phone-screen-time-log-off)
- - [Ransomware attackers are targeting US healthcare and education services](https://appleinsider.com/articles/23/08/04/ransomware-attackers-are-targeting-us-healthcare-and-education-services?utm_medium=rss)<!-- TECH:END -->
+ - [Electric Bills Spike Nearly 30% for AEP Ohio Customers. How to Choose Your Energy Provider     - CNET](https://www.cnet.com/news/electric-bills-spike-nearly-30-percent-for-aep-ohio-customers-how-to-choose-your-energy-provider/#ftag=CAD590a51e)
+ - [The Senate’s AI Future Is Haunted by the Ghost of Privacy Past](https://www.wired.com/story/ai-regulation-privacy-us-senate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

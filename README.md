@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 😝 [Part 2](http://9gag.com/gag/aXndpv6)
- - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 😝 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
+ - 😝 [Would](http://9gag.com/gag/a9qVLRo)
+ - 💣 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
+ - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
  - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---

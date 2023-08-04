@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lumos Ultra E-Bike smart helmet review: protecting your skull with some flashy features](https://appleinsider.com/articles/23/08/04/lumos-ultra-e-bike-smart-helmet-review-protecting-your-skull-with-some-flashy-features?utm_medium=rss)
+ - [Meta’s Quest 3 headset might be coming out sometime soon](https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc)
  - [Google’s $99 a night company hotel advertises ‘no commute’ as a perk](https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office)
- - [SEC filing: Alphabet sold ~90% of its stake in Robinhood as of June 30, as it pares back large positions in multiple publicly traded firms, including Duolingo &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230804/p16#a230804p16)
- - [Evo 2023: how &lpar;and what&rpar; to watch](https://www.theverge.com/2023/8/4/23819158/evo-2023-twitch-live-stream-how-to-watch)
- - [Dubious leaker claims AirTag 2 will launch in 2025](https://appleinsider.com/articles/23/08/04/dubious-leaker-claims-airtag-2-will-launch-in-2025?utm_medium=rss)
- - [The Google Pixel tablet gets its first price drop](https://www.androidauthority.com/google-pixel-tablet-deal-3352516/)<!-- TECH:END -->
+ - [PS5 Going on Sale at Target Starting Sunday     - CNET](https://www.cnet.com/tech/gaming/ps5-going-on-sale-at-target-starting-sunday/#ftag=CAD590a51e)
+ - [Best Portable Mini Bluetooth Speakers for 2023: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

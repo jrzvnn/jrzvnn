@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
- - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
- - 💣 [Would](http://9gag.com/gag/a9qVLRo)
- - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
+ - 😝 [You were saying?](http://9gag.com/gag/aDYPmDx)
+ - 😝 [Flip It](http://9gag.com/gag/aMEWbVA)
+ - 💣 [&#39;Gamifying&#39; trademills adds more fun to it, and also extends the exercise time](http://9gag.com/gag/a8qnYxe)
+ - 😝 [Only in Japan](http://9gag.com/gag/abvdbVE)
+ - 👉 [Good luck next time](http://9gag.com/gag/aYVdwn0)<!-- MEMES:END -->
 
 ---
 </div>

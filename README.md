@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 💣 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
  - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 💣 [50% off](http://9gag.com/gag/aMEWbZW)
- - 😝 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
+ - 👉 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)<!-- MEMES:END -->
 
 ---
 </div>

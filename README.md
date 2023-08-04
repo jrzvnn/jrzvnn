@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals: Apple HomePod mini $79, $120 off M2 Mac mini &amp; AppleCare Kit, $60 off AirPods Pro, more](https://appleinsider.com/articles/23/08/04/daily-deals-apple-homepod-mini-79-120-off-m2-mac-mini-applecare-kit-60-off-airpods-pro-more?utm_medium=rss)
  - [India delays import limitations on laptops, tablets, and servers, giving companies a &quot;transition period&quot; of at least one month to obtain licenses &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230804/p14#a230804p14)
  - [The Google Pixel Tablet is discounted for the very first time, saving you $60](https://www.theverge.com/2023/8/4/23819994/google-pixel-tablet-android-nest-hub-dock-deal-sale)
  - [Bezel comparision: iPhone 14 Pro vs. iPhone 15 Pro](https://appleinsider.com/articles/23/08/04/bezel-comparision-iphone-14-pro-vs-iphone-15-pro?utm_medium=rss)
- - [The 5 best apps for the Samsung Galaxy Tab S9](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-apps-3351669/)
- - [How to take control of your Windows notifications](https://www.theverge.com/23819943/windows-pc-notification-control-change-how-to)<!-- TECH:END -->
+ - [The 5 best apps for the Samsung Galaxy Tab S9](https://www.androidauthority.com/best-samsung-galaxy-tab-s9-apps-3351669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

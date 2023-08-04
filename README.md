@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch streamer Kai Cenat arrested after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
+ - [Samsung wants its foldables to be perfect before dropping the price](https://www.androidauthority.com/galaxy-z-fold-5-fan-edition-3352648/)
+ - [Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [How to switch your AirPods to another device in iOS 17](https://appleinsider.com/inside/airpods/tips/how-to-switch-your-airpods-to-another-device-in-ios-17?utm_medium=rss)
  - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [Corner Office could be a clever nightmare about main character syndrome if it weren’t so stuck in its own head](https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm)
- - [SoftBank sues former IRL CEO Abraham Shafi for fraud after investing $150M in IRL in 2021 on user metrics claims; IRL allegedly paid to fill the site with bots &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/230804/p20#a230804p20)<!-- TECH:END -->
+ - [Corner Office could be a clever nightmare about main character syndrome if it weren’t so stuck in its own head](https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

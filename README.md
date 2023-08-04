@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube’s ‘enhanced’ 1080p for Premium subscribers is now available on desktop web](https://www.theverge.com/2023/8/4/23820482/youtube-enhanced-bitrate-1080p-premium-desktop-web-living-room)
  - [Overwatch 2’s newest cinematic is the next big step in the game’s journey](https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion)
  - [AirPods 3 now available at a reduced price through official Apple refurbished store](https://appleinsider.com/articles/23/08/04/airpods-3-now-available-at-a-reduced-price-through-official-apple-refurbished-store?utm_medium=rss)
  - [Best Internet Providers in Cheyenne, Wyoming     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cheyenne-wy/#ftag=CAD590a51e)
- - [Best Internet Providers in Topeka, Kansas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-topeka-ks/#ftag=CAD590a51e)
- - [Best Internet Providers in Tulsa, Oklahoma     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-tulsa-ok/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Topeka, Kansas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-topeka-ks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

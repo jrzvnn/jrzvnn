@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy Watch 6’s Thermo Check app is a solution looking for a problem](https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature)
+ - [OnePlus Open leak suggests there could be some big last minute changes](https://www.androidauthority.com/oneplus-open-last-minute-changes-3352549/)
+ - [The best Metro by T-Mobile deals of August 2023](https://www.androidauthority.com/best-metropcs-deals-843748/)
  - [The LK-99 ‘superconductor’ went viral — here’s what the experts think](https://www.theverge.com/23820077/lk-99-superconductor-experts)
- - [Fisker Alaska Pickup, Fisker Ronin Convertible: Specs, Price, Release Date](https://www.wired.com/story/fisker-alaska-ronin-pear-ocean-force-e/)
- - [Cadillac’s bespoke Celestiq EV will cost $340,000](https://www.theverge.com/2023/8/4/23820185/cadillac-celestiq-luxury-ev-price-custom)
- - [Apple’s AirTags are on sale for $25 a pop at Amazon and Walmart](https://www.theverge.com/2023/8/4/23820184/apple-airtag-bluetooth-location-tracker-deal-sale)
- - [Lumos Ultra E-Bike smart helmet review: protecting your skull with some flashy features](https://appleinsider.com/articles/23/08/04/lumos-ultra-e-bike-smart-helmet-review-protecting-your-skull-with-some-flashy-features?utm_medium=rss)<!-- TECH:END -->
+ - [Fisker Alaska Pickup, Fisker Ronin Convertible: Specs, Price, Release Date](https://www.wired.com/story/fisker-alaska-ronin-pear-ocean-force-e/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

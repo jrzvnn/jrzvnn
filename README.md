@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Japan](http://9gag.com/gag/abvdbVE)
- - 😝 [Racism against whites](http://9gag.com/gag/az2BVZB)
- - 💣 [It\u2019s mathematical](http://9gag.com/gag/aREygR5)
- - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
- - 👉 [Reverse graffiti: Removing dirt by using a stencil and a pressure washer. A sustainable alternative.](http://9gag.com/gag/aREyA6j)<!-- MEMES:END -->
+ - 😝 [Perfect reaction\u2019s doesn\u2019t exis\u2026..](http://9gag.com/gag/axoA2bD)
+ - 😝 [Old but gold](http://9gag.com/gag/aDYPwXB)
+ - 💣 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

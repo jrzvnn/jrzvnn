@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Premier League soccer&#39;s fight against piracy as illegal live streams in the UK decline, with 600K+ blocked last season, and use of IPTV devices rises &lpar;Martyn Ziegler/The Times&rpar;](http://www.techmeme.com/230803/p41#a230803p41)
+ - [Snag Huge Savings With Early Back-to-School Deals from Nike, Adidas, and More     - CNET](https://www.cnet.com/deals/snag-huge-savings-with-early-back-to-school-deals-from-nike-adidas-and-more/#ftag=CAD590a51e)
+ - [Best TV Deals: Save Big on TVs From Samsung, LG, Sony and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
  - [Atlassian reports Q4 revenue up 24% YoY to $939.1M, vs. $914.6M est., and forecasts Q1 revenue above expectations; TEAM jumps 22%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230803/p40#a230803p40)
- - [‘Every single’ Amazon team is working on generative AI, says CEO](https://www.theverge.com/2023/8/3/23819442/amazon-generative-ai-ceo)
- - [Baldur&#39;s Gate 3 Is the Most In-Depth, Fun RPG Playable on Steam Deck     - CNET](https://www.cnet.com/tech/gaming/baldurs-gate-3-is-the-most-in-depth-fun-rpg-playable-on-steam-deck/#ftag=CAD590a51e)
- - [Microsoft called out for ‘blatantly negligent’ cybersecurity practices](https://www.theverge.com/2023/8/3/23819237/microsoft-azure-breach-blatantly-negligent-cybersecurity-practices)
- - [Cloudflare reports Q2 revenue up 32% YoY to $308.5M, vs. $305.6M est., forecasts Q3 revenue above estimates, and raises its FY 2023 forecasts; NET jumps 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230803/p39#a230803p39)<!-- TECH:END -->
+ - [‘Every single’ Amazon team is working on generative AI, says CEO](https://www.theverge.com/2023/8/3/23819442/amazon-generative-ai-ceo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

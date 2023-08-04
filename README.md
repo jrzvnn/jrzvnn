@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The LK-99 ‘superconductor’ went viral — here’s what the experts think](https://www.theverge.com/23820077/lk-99-superconductor-experts)
+ - [Fisker Alaska Pickup, Fisker Ronin Convertible: Specs, Price, Release Date](https://www.wired.com/story/fisker-alaska-ronin-pear-ocean-force-e/)
  - [Cadillac’s bespoke Celestiq EV will cost $340,000](https://www.theverge.com/2023/8/4/23820185/cadillac-celestiq-luxury-ev-price-custom)
  - [Apple’s AirTags are on sale for $25 a pop at Amazon and Walmart](https://www.theverge.com/2023/8/4/23820184/apple-airtag-bluetooth-location-tracker-deal-sale)
- - [Lumos Ultra E-Bike smart helmet review: protecting your skull with some flashy features](https://appleinsider.com/articles/23/08/04/lumos-ultra-e-bike-smart-helmet-review-protecting-your-skull-with-some-flashy-features?utm_medium=rss)
- - [Meta’s Quest 3 headset might be coming out sometime soon](https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc)
- - [Google’s $99 a night company hotel advertises ‘no commute’ as a perk](https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office)<!-- TECH:END -->
+ - [Lumos Ultra E-Bike smart helmet review: protecting your skull with some flashy features](https://appleinsider.com/articles/23/08/04/lumos-ultra-e-bike-smart-helmet-review-protecting-your-skull-with-some-flashy-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

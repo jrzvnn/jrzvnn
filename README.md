@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Alphabet sold ~90% of its stake in Robinhood as of June 30, as it pares back large positions in multiple publicly traded firms, including Duolingo &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230804/p16#a230804p16)
  - [Evo 2023: how &lpar;and what&rpar; to watch](https://www.theverge.com/2023/8/4/23819158/evo-2023-twitch-live-stream-how-to-watch)
  - [Dubious leaker claims AirTag 2 will launch in 2025](https://appleinsider.com/articles/23/08/04/dubious-leaker-claims-airtag-2-will-launch-in-2025?utm_medium=rss)
  - [The Google Pixel tablet gets its first price drop](https://www.androidauthority.com/google-pixel-tablet-deal-3352516/)
- - [Pony.Ai, which launched robotaxi services in Beijing and Guangzhou, launches a joint venture with Toyota and plans to spend $139M to mass produce robotaxis &lpar;Reuters&rpar;](http://www.techmeme.com/230804/p15#a230804p15)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)<!-- TECH:END -->
+ - [Pony.Ai, which launched robotaxi services in Beijing and Guangzhou, launches a joint venture with Toyota and plans to spend $139M to mass produce robotaxis &lpar;Reuters&rpar;](http://www.techmeme.com/230804/p15#a230804p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

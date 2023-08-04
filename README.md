@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
- - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
- - 💣 [Cool long story short](http://9gag.com/gag/a6qxmGb)
  - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 👉 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)<!-- MEMES:END -->
+ - 😝 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 💣 [Focused on the crowd](http://9gag.com/gag/a1PxXeY)
+ - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
+ - 👉 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)<!-- MEMES:END -->
 
 ---
 </div>

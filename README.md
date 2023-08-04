@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This app lets you play PC games on your Android phone](https://www.androidauthority.com/winlator-pc-games-on-android-phone-3352401/)
  - [Apple forced to halt MacBook, iPad imports in India](https://appleinsider.com/articles/23/08/04/apple-forced-to-halt-macbook-ipad-imports-in-india?utm_medium=rss)
  - [Revolut plans to start shutting down its US cryptocurrency service from September 2, citing regulatory uncertainty, impacting &lt;1% of its crypto users globally &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230804/p8#a230804p8)
  - [Qualcomm, NXP, Bosch, and Infineon form a new company in Germany to promote the open-source RISC-V chip architecture, initially targeting the auto industry &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230804/p7#a230804p7)
- - [This Scorching Summer Is Taking a Toll on Your Favorite Foods](https://www.wired.com/story/this-scorching-summer-is-taking-a-toll-on-your-favorite-foods/)
- - [Apps Are Rushing to Add AI. Is Any of It Useful?](https://www.wired.com/story/is-in-app-ai-useful/)<!-- TECH:END -->
+ - [This Scorching Summer Is Taking a Toll on Your Favorite Foods](https://www.wired.com/story/this-scorching-summer-is-taking-a-toll-on-your-favorite-foods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

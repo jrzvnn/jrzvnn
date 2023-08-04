@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to switch your AirPods to another device in iOS 17](https://appleinsider.com/inside/airpods/tips/how-to-switch-your-airpods-to-another-device-in-ios-17?utm_medium=rss)
  - [OnePlus Open: Release date, price, specs, rumors, and what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
  - [Corner Office could be a clever nightmare about main character syndrome if it weren’t so stuck in its own head](https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm)
  - [SoftBank sues former IRL CEO Abraham Shafi for fraud after investing $150M in IRL in 2021 on user metrics claims; IRL allegedly paid to fill the site with bots &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/230804/p20#a230804p20)
- - [YouTube’s ‘enhanced’ 1080p for Premium subscribers is now available on desktop web](https://www.theverge.com/2023/8/4/23820482/youtube-enhanced-bitrate-1080p-premium-desktop-web-living-room)
- - [Overwatch 2’s newest cinematic is the next big step in the game’s journey](https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion)<!-- TECH:END -->
+ - [YouTube’s ‘enhanced’ 1080p for Premium subscribers is now available on desktop web](https://www.theverge.com/2023/8/4/23820482/youtube-enhanced-bitrate-1080p-premium-desktop-web-living-room)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

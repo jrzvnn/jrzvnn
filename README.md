@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [My kiddos are angles](http://9gag.com/gag/amAdXK6)
- - 😝 [This is what gaming was supposed to be. Thank you Larian Studios.](http://9gag.com/gag/anzdKjb)
- - 💣 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
- - 😝 [The guy who pulled \u201cThe One Ring\u201d Magic card worth $2,600,000 took this video before sending it in for grading\u2026](http://9gag.com/gag/aoKdz6X)
- - 👉 [I just want to give up](http://9gag.com/gag/aA0mY9o)<!-- MEMES:END -->
+ - 😝 [Part 2](http://9gag.com/gag/aXndpv6)
+ - 💣 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 😝 [Damn you swedish](http://9gag.com/gag/a04x9Nq)
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

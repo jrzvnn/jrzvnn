@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
  - 😝 [Salute to the guy who didn&#39;t hesitate to help the kid](http://9gag.com/gag/aYVdjQv)
- - 💣 [Ouch!!](http://9gag.com/gag/aQErPzK)
- - 😝 [Stay fit brothers, take care of yourselfs.](http://9gag.com/gag/ajVdYdg)
- - 👉 [My kiddos are angles](http://9gag.com/gag/amAdXK6)<!-- MEMES:END -->
+ - 😝 [She must be putting in all the work \ud83e\udd14](http://9gag.com/gag/axoA2Nn)
+ - 💣 [Six seasons and a movie](http://9gag.com/gag/aXnd0GV)
+ - 😝 [Would](http://9gag.com/gag/a9qVLRo)
+ - 👉 [50% off](http://9gag.com/gag/aMEWbZW)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some artists say AI tools have made them anxious about the YouTube thumbnail microeconomy&#39;s future; creators like MrBeast pay up to $10K for a video thumbnail &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230805/p4#a230805p4)
  - [Twitch streamer Kai Cenat will be charged with inciting a riot after chaotic giveaway in Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [Elon Musk’s X can’t send Blue subscribers their ad revenue-sharing payouts on time](https://www.theverge.com/2023/8/4/23820859/x-twitter-ad-sharing-payment-unpaid-delay-elon-musk)
  - [People have little protection or recourse when hallucinating AI chatbots create and spread falsehoods that threaten their reputations &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/230805/p3#a230805p3)
- - [A US court rules former Celsius CEO Alex Mashinsky must face a lawsuit by NY AG Letitia James accusing him of defrauding investors and concealing Celsius&#39; risks &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230805/p2#a230805p2)
- - [X delays its ads revenue sharing program payouts that were set for the week of July 31, saying the volume of people signing up &quot;has exceeded our expectations&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230805/p1#a230805p1)<!-- TECH:END -->
+ - [A US court rules former Celsius CEO Alex Mashinsky must face a lawsuit by NY AG Letitia James accusing him of defrauding investors and concealing Celsius&#39; risks &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230805/p2#a230805p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

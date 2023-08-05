@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
  - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 💣 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
+ - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
  - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 👉 [The oppressed](http://9gag.com/gag/a9qVPzD)<!-- MEMES:END -->
+ - 👉 [Better be a passport bros nowadays.](http://9gag.com/gag/aoKd1q3)<!-- MEMES:END -->
 
 ---
 </div>

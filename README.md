@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
- - 😝 [Gun malfunction](http://9gag.com/gag/a1PxKP2)
- - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 👉 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)<!-- MEMES:END -->
+ - 😝 [Yall love a good strawman](http://9gag.com/gag/aA0mdPd)
+ - 😝 [Idk about you guys but I find this very funny](http://9gag.com/gag/a1PxKb8)
+ - 💣 [Gyros](http://9gag.com/gag/aeQdYGp)
+ - 😝 [Angel on board](http://9gag.com/gag/abvd6gO)
+ - 👉 [Ladies and Gentlemen... We got em](http://9gag.com/gag/aBdvwn1)<!-- MEMES:END -->
 
 ---
 </div>

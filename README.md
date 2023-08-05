@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Nansen: payouts to NFT creators fell 98% from a peak of $269M in January 2022 to $4.3M in July 2023, as OpenSea and Blur cut royalty rates amid a bear market &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230805/p7#a230805p7)
  - [Amazon’s latest Kindle is matching its Prime Day price for a limited time](https://www.theverge.com/2023/8/5/23820181/amazon-kindle-google-chromecast-hd-nothing-ear-stick-earbuds-deal-sale)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-495-3352169/)
- - [Getting started with WidgetKit: Making your first macOS Widget](https://appleinsider.com/inside/xcode/tips/getting-started-with-widgetkit-making-your-first-macos-widget?utm_medium=rss)
- - [Will Gen Z Buy Into Flip Phones? Samsung&#39;s Z Flip 5 Aims to Find Out     - CNET](https://www.cnet.com/tech/mobile/will-gen-z-buy-into-flip-phones-samsungs-z-flip-5-aims-to-find-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)
+ - [Getting started with WidgetKit: Making your first macOS Widget](https://appleinsider.com/inside/xcode/tips/getting-started-with-widgetkit-making-your-first-macos-widget?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

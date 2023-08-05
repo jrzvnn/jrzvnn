@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
- - 😝 [Old but gold](http://9gag.com/gag/aDYPwXB)
- - 💣 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/ay2z0GM)
+ - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
+ - 💣 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
+ - 👉 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)<!-- MEMES:END -->
 
 ---
 </div>

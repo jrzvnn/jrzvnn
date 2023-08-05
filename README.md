@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 parallel universes ahead](http://9gag.com/gag/a5Xx7wN)
- - 😝 [A very useful guide to buying Gelato from a Italian local](http://9gag.com/gag/a5Xx7ML)
- - 💣 [Same energy as jojo&#39;s](http://9gag.com/gag/ay2zLZW)
+ - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
+ - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
+ - 💣 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [What goes on behind the curtain.](http://9gag.com/gag/a1PxX9D)<!-- MEMES:END -->
+ - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
 
 ---
 </div>

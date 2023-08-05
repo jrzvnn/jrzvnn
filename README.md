@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A promising actress](http://9gag.com/gag/ap9d0O5)
  - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 😝 [We need things like this in every parlament](http://9gag.com/gag/aZDdpzQ)
- - 💣 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
+ - 💣 [Super shady nyc restaurant receipt / tip policy](http://9gag.com/gag/amAdXyy)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)<!-- MEMES:END -->
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

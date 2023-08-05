@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angel on board](http://9gag.com/gag/abvd6gO)
  - 😝 [Uff...](http://9gag.com/gag/a04xYGL)
- - 💣 [Henry trying to save the Witcher](http://9gag.com/gag/aBdvYAx)
+ - 😝 [Henry trying to save the Witcher](http://9gag.com/gag/aBdvYAx)
+ - 💣 [Gyros](http://9gag.com/gag/aeQdYGp)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Gyros](http://9gag.com/gag/aeQdYGp)<!-- MEMES:END -->
+ - 👉 [What goes on behind the curtain.](http://9gag.com/gag/a1PxX9D)<!-- MEMES:END -->
 
 ---
 </div>

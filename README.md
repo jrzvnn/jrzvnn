@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-495-3352169/)
  - [Getting started with WidgetKit: Making your first macOS Widget](https://appleinsider.com/inside/xcode/tips/getting-started-with-widgetkit-making-your-first-macos-widget?utm_medium=rss)
+ - [Will Gen Z Buy Into Flip Phones? Samsung&#39;s Z Flip 5 Aims to Find Out     - CNET](https://www.cnet.com/tech/mobile/will-gen-z-buy-into-flip-phones-samsungs-z-flip-5-aims-to-find-out/#ftag=CAD590a51e)
  - [The FBI is investigating a multiple-state hospital ransomware attack](https://www.theverge.com/2023/8/5/23821110/hospital-ransomeware-attack-us-prospect-medical-cybersecurity-fbi)
- - [Poland-based Android phone monitoring app LetMeSpy plans to shut down by August end after a hacker who breached it in June deleted the data on its servers &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230805/p6#a230805p6)
- - [Daily deals: 17% off Bose QuietComfort Earbuds II, $600 off M1 14-inch MacBook Pro, $150 off Eero Tri-Band Mesh Wi-Fi](https://appleinsider.com/articles/23/08/05/daily-deals-17-off-bose-quietcomfort-earbuds-ii-600-off-m1-14-inch-macbook-pro-150-off-eero-tri-band-mesh-wi-fi-6e-system?utm_medium=rss)
- - [I ditched music streaming services and the only thing I miss is discovery](https://www.androidauthority.com/ditch-music-streaming-3350594/)<!-- TECH:END -->
+ - [Krakow-based Android phone monitoring app LetMeSpy plans to shut down by the end of August 2023 after a hacker breached and deleted its server data in June &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230805/p6#a230805p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

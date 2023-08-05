@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yall love a good strawman](http://9gag.com/gag/aA0mdPd)
- - 😝 [Idk about you guys but I find this very funny](http://9gag.com/gag/a1PxKb8)
- - 💣 [Gyros](http://9gag.com/gag/aeQdYGp)
- - 😝 [Angel on board](http://9gag.com/gag/abvd6gO)
- - 👉 [Ladies and Gentlemen... We got em](http://9gag.com/gag/aBdvwn1)<!-- MEMES:END -->
+ - 😝 [A friendly reminder part 14](http://9gag.com/gag/a1PxMrR)
+ - 😝 [Two Words: F*** Man\u2026 \ud83d\udc80](http://9gag.com/gag/aWGdMAn)
+ - 💣 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 👉 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)<!-- MEMES:END -->
 
 ---
 </div>

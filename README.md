@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How members of the Community, a group of teenage SIM swappers who met on the forum OGUsers, stole millions in crypto in 2018 before turning on each other &lpar;Bloomberg&rpar;](http://www.techmeme.com/230805/p5#a230805p5)
  - [I converted a cargo bike to an e-bike — here’s what I learned](https://www.theverge.com/23817022/how-to-electric-bike-motor-conversion-bafang-cargo)
  - [Apple Pay launches in Chile, Vietnam rumored for August 8](https://appleinsider.com/articles/23/08/05/apple-pay-launches-in-chile-vietnam-rumored-for-august-8?utm_medium=rss)
  - [Exclusive: Google Pixel Watch 2 to feature UWB, new chipset, and more](https://www.androidauthority.com/pixel-watch-2-specs-3352481/)
- - [Google Makes It Easier to Delete Your Personal Deets](https://www.wired.com/story/google-new-privacy-tools-remove-personal-information-from-search/)
- - [The Best Veterinary Telemedicine Services for Your Pet &lpar;2023&rpar;](https://www.wired.com/story/best-veterinary-telemedicine-services/)<!-- TECH:END -->
+ - [Google Makes It Easier to Delete Your Personal Deets](https://www.wired.com/story/google-new-privacy-tools-remove-personal-information-from-search/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

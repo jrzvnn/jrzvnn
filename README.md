@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Striking writers met with Hollywood studios for the first time in months](https://www.theverge.com/2023/8/5/23821082/wga-amptp-hollywood-writers-strike-negotiations-no-agreement)
- - [The Rise and Fall of the Zero-Waste Trash Jar](https://www.wired.com/story/the-rise-and-fall-of-the-zero-waste-trash-jar/)
- - [4 Best Cheap Phone Plans &lpar;2023&rpar;: Alternatives to Verizon, AT&amp;T, and T-Mobile](https://www.wired.com/story/guide-to-mvno-phone-plans/)
- - [India delays iPad and Mac import limits until October 31](https://appleinsider.com/articles/23/08/05/india-delays-ipad-and-mac-import-limits-until-october-31?utm_medium=rss)
- - [Exploring iPadOS 17 Beta: It&#39;s Already Improving Things     - CNET](https://www.cnet.com/tech/computing/exploring-ipad-os-17-beta-its-already-improving-things/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Pay launches in Chile, Vietnam rumored for August 8](https://appleinsider.com/articles/23/08/05/apple-pay-launches-in-chile-vietnam-rumored-for-august-8?utm_medium=rss)
+ - [Exclusive: Google Pixel Watch 2 to feature UWB, new chipset, and more](https://www.androidauthority.com/pixel-watch-2-specs-3352481/)
+ - [Google Makes It Easier to Delete Your Personal Deets](https://www.wired.com/story/google-new-privacy-tools-remove-personal-information-from-search/)
+ - [The Best Veterinary Telemedicine Services for Your Pet &lpar;2023&rpar;](https://www.wired.com/story/best-veterinary-telemedicine-services/)
+ - [Security News This Week: The Cloud Company at the Center of a Global Hacking Spree](https://www.wired.com/story/cloudzy-state-sponsored-hackers-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

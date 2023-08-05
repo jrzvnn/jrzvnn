@@ -155,7 +155,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same energy as jojo&#39;s](http://9gag.com/gag/ay2zLZW)
+ - 😝 [Nothing\u2019s more terrifying than a villain who speaks the truth](http://9gag.com/gag/aZDdmDX)
  - 😝 [And your privileges](http://9gag.com/gag/awZ85wW)
  - 💣 [Mosquito repellent bed](http://9gag.com/gag/aZDdBo3)
  - 😝 [This is Money Bird. He just flies past Money Cat, upvote for finacal freedom](http://9gag.com/gag/adPdqDd)

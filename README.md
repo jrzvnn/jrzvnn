@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on: connect cadence and speed sensors directly to Apple Watch with watchOS 10](https://appleinsider.com/articles/23/08/05/hands-on-connect-cadence-and-speed-sensors-directly-to-apple-watch-with-watchos-10?utm_medium=rss)
+ - [Sony WF-1000XM5 review: Should you buy these true wireless earbuds?](https://www.androidauthority.com/sony-wf-1000xm5-review-3351805/)
  - [Lucid is dropping prices on three Air EVs ‘while supplies last’](https://www.theverge.com/2023/8/5/23821298/lucid-air-ev-price-drop-electric-cars)
  - [USB-C isn’t perfect, but it keeps making my life easier](https://www.androidauthority.com/usb-c-charge-tech-electronics-3351827/)
- - [Nansen: payouts to NFT creators fell 98% from a peak of $269M in January 2022 to $4.3M in July 2023, as OpenSea and Blur cut royalty rates amid a bear market &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230805/p7#a230805p7)
- - [Amazon’s latest Kindle is matching its Prime Day price for a limited time](https://www.theverge.com/2023/8/5/23820181/amazon-kindle-google-chromecast-hd-nothing-ear-stick-earbuds-deal-sale)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-495-3352169/)<!-- TECH:END -->
+ - [Don&#39;t Gamble with Your Eyes: Why Wearing Expired Contacts Can Be Dangerous     - CNET](https://www.cnet.com/health/personal-care/wearing-expired-contacts-can-be-dangerous/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

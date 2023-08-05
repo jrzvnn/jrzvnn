@@ -148,7 +148,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A US court rules former Celsius CEO Alex Mashinsky must face a lawsuit by NY AG Letitia James accusing him of defrauding investors and concealing Celsius&#39; risks &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230805/p2#a230805p2)
  - [X delays its ads revenue sharing program payouts that were set for the week of July 31, saying the volume of people signing up &quot;has exceeded our expectations&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230805/p1#a230805p1)
- - [Zomato reports Q1 revenue up 71% YoY to ~$292.2M and its first-ever consolidated quarterly net profit at ~$241.9K, vs. a loss of ~$2.34M in the year-ago quarter &lpar;The Economic Times&rpar;](http://www.techmeme.com/230804/p25#a230804p25)
+ - [Zomato reports Q1 revenue up 71% YoY to ~$292.2M and its first-ever consolidated quarterly net profit at ~$241.9K, vs. a loss of ~$23.4M in the year-ago quarter &lpar;The Economic Times&rpar;](http://www.techmeme.com/230804/p25#a230804p25)
  - [Elon Musk’s X can’t send Blue subscribers their ad revenue-sharing payouts on time](https://www.theverge.com/2023/8/4/23820859/x-twitter-ad-sharing-payment-unpaid-delay-elon-musk)
  - [X took control of the @music account from a man who had been using it since 2007, without advanced warning or compensation; his new account handle is @musicfan &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230804/p24#a230804p24)<!-- TECH:END -->
 

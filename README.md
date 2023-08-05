@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
- - 😝 [Insert with consent stayed without consent. Reminder pull out](http://9gag.com/gag/a9qV70j)
+ - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
  - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 👉 [Just do it](http://9gag.com/gag/aqedLL7)<!-- MEMES:END -->
+ - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
 
 ---
 </div>

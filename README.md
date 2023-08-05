@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
- - 💣 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
  - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 👉 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
+ - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
+ - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 😝 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
+ - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
 
 ---
 </div>

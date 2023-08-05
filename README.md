@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 👉 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
+ - 😝 [Would](http://9gag.com/gag/a9qVLRo)
+ - 💣 [Just do it](http://9gag.com/gag/aqedLL7)
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 👉 [A promising actress](http://9gag.com/gag/ap9d0O5)<!-- MEMES:END -->
 
 ---
 </div>

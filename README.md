@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/ay2z0GM)
- - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
- - 💣 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - 💣 [Would](http://9gag.com/gag/a9qVLRo)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)<!-- MEMES:END -->
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

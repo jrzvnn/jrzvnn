@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Ashkenazi Lizard](http://9gag.com/gag/aYVde6q)
  - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 💣 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 💣 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
+ - 👉 [What is this thing?](http://9gag.com/gag/armd4d5)<!-- MEMES:END -->
 
 ---
 </div>

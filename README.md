@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing\u2019s more terrifying than a villain who speaks the truth](http://9gag.com/gag/aZDdmDX)
- - 😝 [Mosquito repellent bed](http://9gag.com/gag/aZDdBo3)
- - 💣 [Blind rock paper scissors](http://9gag.com/gag/a1Pxb9Y)
- - 😝 [This is Money Bird. He just flies past Money Cat, upvote for finacal freedom](http://9gag.com/gag/adPdqDd)
- - 👉 [Gyros](http://9gag.com/gag/aeQdYGp)<!-- MEMES:END -->
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/ay2z0GM)
+ - 💣 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
+ - 👉 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)<!-- MEMES:END -->
 
 ---
 </div>

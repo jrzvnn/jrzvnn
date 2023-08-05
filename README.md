@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India delays iPad and Mac import limits until October 31](https://appleinsider.com/articles/23/08/05/india-delays-ipad-and-mac-import-limits-until-october-31?utm_medium=rss)
  - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
  - [Allo Is a Holistic Finance App—No Budgeting Required](https://www.wired.com/story/financial-app-budget-advice-allo/)
  - [16 Best Deals: Outdoor Gear, Bluetooth Speakers, and Fitness Trackers](https://www.wired.com/story/weekend-deals-august-5-2023/)
- - [Some artists say AI tools have made them anxious about the YouTube thumbnail microeconomy&#39;s future; creators like MrBeast pay up to $10K for a video thumbnail &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230805/p4#a230805p4)
- - [Twitch streamer Kai Cenat will be charged with inciting a riot after chaotic giveaway in Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)<!-- TECH:END -->
+ - [Some artists say AI tools have made them anxious about the YouTube thumbnail microeconomy&#39;s future; creators like MrBeast pay up to $10K for a video thumbnail &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230805/p4#a230805p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

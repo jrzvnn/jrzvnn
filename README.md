@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 👉 [Better be a passport bros nowadays.](http://9gag.com/gag/aoKd1q3)<!-- MEMES:END -->
+ - 😝 [Nothing\u2019s more terrifying than a villain who speaks the truth](http://9gag.com/gag/aZDdmDX)
+ - 😝 [Mosquito repellent bed](http://9gag.com/gag/aZDdBo3)
+ - 💣 [Blind rock paper scissors](http://9gag.com/gag/a1Pxb9Y)
+ - 😝 [This is Money Bird. He just flies past Money Cat, upvote for finacal freedom](http://9gag.com/gag/adPdqDd)
+ - 👉 [Gyros](http://9gag.com/gag/aeQdYGp)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uff...](http://9gag.com/gag/a04xYGL)
- - 😝 [Henry trying to save the Witcher](http://9gag.com/gag/aBdvYAx)
- - 💣 [Gyros](http://9gag.com/gag/aeQdYGp)
+ - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 😝 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)
+ - 💣 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [What goes on behind the curtain.](http://9gag.com/gag/a1PxX9D)<!-- MEMES:END -->
+ - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`the man, the myth, the legend`](http://9gag.com/gag/a1PxYXv)
- - 😝 [Kid slashes his mother&#39;s tires to avoid going to school](http://9gag.com/gag/ay2zLgb)
+ - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
  - 💣 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
+ - 👉 [Kid slashes his mother&#39;s tires to avoid going to school](http://9gag.com/gag/ay2zLgb)<!-- MEMES:END -->
 
 ---
 </div>

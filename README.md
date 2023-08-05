@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile](http://9gag.com/gag/anzd1M5)
- - 😝 [Gyros](http://9gag.com/gag/aeQdYGp)
- - 💣 [I\u2019ve never felt more welcomed until I heard &#39;wassup boys your with me today&#39;](http://9gag.com/gag/aDYPord)
+ - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 💣 [Ladies and Gentlemen... We got em](http://9gag.com/gag/aBdvwn1)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Uff...](http://9gag.com/gag/a04xYGL)<!-- MEMES:END -->
+ - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
 
 ---
 </div>

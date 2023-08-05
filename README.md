@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our favorite tips for maximizing your Galaxy Tab S9 experience](https://www.androidauthority.com/samsung-galaxy-tab-s9-tips-3351200/)
  - [Hands on: connect cadence and speed sensors directly to Apple Watch with watchOS 10](https://appleinsider.com/articles/23/08/05/hands-on-connect-cadence-and-speed-sensors-directly-to-apple-watch-with-watchos-10?utm_medium=rss)
  - [Sony WF-1000XM5 review: Should you buy these true wireless earbuds?](https://www.androidauthority.com/sony-wf-1000xm5-review-3351805/)
  - [Lucid is dropping prices on three Air EVs ‘while supplies last’](https://www.theverge.com/2023/8/5/23821298/lucid-air-ev-price-drop-electric-cars)
- - [USB-C isn’t perfect, but it keeps making my life easier](https://www.androidauthority.com/usb-c-charge-tech-electronics-3351827/)
- - [Don&#39;t Gamble with Your Eyes: Why Wearing Expired Contacts Can Be Dangerous     - CNET](https://www.cnet.com/health/personal-care/wearing-expired-contacts-can-be-dangerous/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [USB-C isn’t perfect, but it keeps making my life easier](https://www.androidauthority.com/usb-c-charge-tech-electronics-3351827/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 💣 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
  - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 👉 [Asian family harassed at NYC subway](http://9gag.com/gag/aDYPWq7)<!-- MEMES:END -->
+ - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
+ - 😝 [Asian family harassed at NYC subway](http://9gag.com/gag/aDYPWq7)
+ - 👉 [Gun malfunction](http://9gag.com/gag/a1PxKP2)<!-- MEMES:END -->
 
 ---
 </div>

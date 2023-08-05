@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 💣 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
+ - 😝 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)
+ - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
+ - 💣 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
  - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
 

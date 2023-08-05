@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
- - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 💣 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 💣 [Water Pistol](http://9gag.com/gag/aKELgOQ)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
+ - 👉 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)<!-- MEMES:END -->
 
 ---
 </div>

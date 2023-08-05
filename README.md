@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Ashkenazi Lizard](http://9gag.com/gag/aYVde6q)
- - 😝 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
- - 💣 [Insert with consent stayed without consent. Reminder pull out](http://9gag.com/gag/a9qV70j)
- - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)<!-- MEMES:END -->
+ - 😝 [C&#39;mon, its just a chant](http://9gag.com/gag/adPdqd2)
+ - 😝 [Same energy as jojo&#39;s](http://9gag.com/gag/ay2zLZW)
+ - 💣 [Mosquito repellent bed](http://9gag.com/gag/aZDdBo3)
+ - 😝 [Worked for me](http://9gag.com/gag/aGEo0m6)
+ - 👉 [And your privileges](http://9gag.com/gag/awZ85wW)<!-- MEMES:END -->
 
 ---
 </div>

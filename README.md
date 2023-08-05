@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 😝 [The Ashkenazi Lizard](http://9gag.com/gag/aYVde6q)
+ - 😝 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
  - 💣 [Insert with consent stayed without consent. Reminder pull out](http://9gag.com/gag/a9qV70j)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
+ - 👉 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)<!-- MEMES:END -->
 
 ---
 </div>

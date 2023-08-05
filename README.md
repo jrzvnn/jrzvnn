@@ -157,9 +157,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [A promising actress](http://9gag.com/gag/ap9d0O5)
  - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 💣 [Super shady nyc restaurant receipt / tip policy](http://9gag.com/gag/amAdXyy)
+ - 💣 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 👉 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)<!-- MEMES:END -->
 
 ---
 </div>

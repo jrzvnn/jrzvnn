@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
- - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
+ - 😝 [Same energy as jojo&#39;s](http://9gag.com/gag/ay2zLZW)
+ - 😝 [And your privileges](http://9gag.com/gag/awZ85wW)
+ - 💣 [Mosquito repellent bed](http://9gag.com/gag/aZDdBo3)
+ - 😝 [This is Money Bird. He just flies past Money Cat, upvote for finacal freedom](http://9gag.com/gag/adPdqDd)
+ - 👉 [Gyros](http://9gag.com/gag/aeQdYGp)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s X can’t send Blue subscribers their ad revenue-sharing payouts on time](https://www.theverge.com/2023/8/4/23820859/x-twitter-ad-sharing-payment-unpaid-delay-elon-musk)
  - [X took control of the @music account from a man who had been using it since 2007, without advanced warning or compensation; his new account handle is @musicfan &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230804/p24#a230804p24)
  - [Microsoft says it has fixed an Azure flaw that could let hackers access sensitive data, following criticism from the CEO of cybersecurity company Tenable &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230804/p23#a230804p23)
  - [Global smartphone revenue fell 8% YoY and 15% QoQ to under $90B in Q2 2023; Apple had a record 45% share of global smartphone revenue and an 85% share of profit &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/230804/p22#a230804p22)
- - [Zuck says Threads will add search and web ‘in the next few weeks’](https://www.theverge.com/2023/8/4/22381931/threads-web-search-next-few-weeks)
- - [Your Android phone may soon read QR codes from across the room](https://www.theverge.com/2023/8/4/23820353/android-gms-qr-code-scanner-auto-zoom-api-machine-learning)<!-- TECH:END -->
+ - [Zuck says Threads will add search and web ‘in the next few weeks’](https://www.theverge.com/2023/8/4/22381931/threads-web-search-next-few-weeks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

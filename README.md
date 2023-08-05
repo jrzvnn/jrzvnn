@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
- - 💣 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 😝 [`the man, the myth, the legend`](http://9gag.com/gag/a1PxYXv)
+ - 😝 [Kid slashes his mother&#39;s tires to avoid going to school](http://9gag.com/gag/ay2zLgb)
+ - 💣 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)<!-- MEMES:END -->
+ - 👉 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
 
 ---
 </div>

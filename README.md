@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 💣 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)
+ - 😝 [This is more reason why forklift certified is important](http://9gag.com/gag/a2KxPrO)
+ - 😝 [Old but gold](http://9gag.com/gag/aDYPwXB)
+ - 💣 [50% off](http://9gag.com/gag/aMEWbZW)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)<!-- MEMES:END -->
+ - 👉 [A wholesome beating to make your day better](http://9gag.com/gag/a3Zxdj3)<!-- MEMES:END -->
 
 ---
 </div>

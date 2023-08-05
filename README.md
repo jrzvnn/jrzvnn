@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Rise and Fall of the Zero-Waste Trash Jar](https://www.wired.com/story/the-rise-and-fall-of-the-zero-waste-trash-jar/)
+ - [4 Best Cheap Phone Plans &lpar;2023&rpar;: Alternatives to Verizon, AT&amp;T, and T-Mobile](https://www.wired.com/story/guide-to-mvno-phone-plans/)
  - [India delays iPad and Mac import limits until October 31](https://appleinsider.com/articles/23/08/05/india-delays-ipad-and-mac-import-limits-until-october-31?utm_medium=rss)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Allo Is a Holistic Finance App—No Budgeting Required](https://www.wired.com/story/financial-app-budget-advice-allo/)
- - [16 Best Deals: Outdoor Gear, Bluetooth Speakers, and Fitness Trackers](https://www.wired.com/story/weekend-deals-august-5-2023/)
- - [Some artists say AI tools have made them anxious about the YouTube thumbnail microeconomy&#39;s future; creators like MrBeast pay up to $10K for a video thumbnail &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230805/p4#a230805p4)<!-- TECH:END -->
+ - [Exploring iPadOS 17 Beta: It&#39;s Already Improving Things     - CNET](https://www.cnet.com/tech/computing/exploring-ipad-os-17-beta-its-already-improving-things/#ftag=CAD590a51e)
+ - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

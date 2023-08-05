@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50% off](http://9gag.com/gag/aMEWbZW)
- - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 💣 [Would](http://9gag.com/gag/a9qVLRo)
+ - 😝 [Mosquito repellent bed](http://9gag.com/gag/aZDdBo3)
+ - 😝 [Upvote money Mike and have good fortune tomorrow](http://9gag.com/gag/aeQdGMj)
+ - 💣 [A promising actress](http://9gag.com/gag/ap9d0O5)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Dude tried to send his child to Jesus via delivery service.](http://9gag.com/gag/a9qVM8m)<!-- MEMES:END -->
+ - 👉 [4 parallel universes ahead](http://9gag.com/gag/a5Xx7wN)<!-- MEMES:END -->
 
 ---
 </div>

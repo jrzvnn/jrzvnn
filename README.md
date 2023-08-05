@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile](http://9gag.com/gag/anzd1M5)
- - 😝 [I\u2019ve never felt more welcomed until I heard &#39;wassup boys your with me today&#39;](http://9gag.com/gag/aDYPord)
- - 💣 [Uff...](http://9gag.com/gag/a04xYGL)
+ - 😝 [Angel on board](http://9gag.com/gag/abvd6gO)
+ - 😝 [Uff...](http://9gag.com/gag/a04xYGL)
+ - 💣 [Henry trying to save the Witcher](http://9gag.com/gag/aBdvYAx)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [Henry trying to save the Witcher](http://9gag.com/gag/aBdvYAx)<!-- MEMES:END -->
+ - 👉 [Gyros](http://9gag.com/gag/aeQdYGp)<!-- MEMES:END -->
 
 ---
 </div>

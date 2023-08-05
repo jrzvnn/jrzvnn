@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just want to give up](http://9gag.com/gag/aA0mY9o)
- - 😝 [Old but gold](http://9gag.com/gag/aDYPwXB)
- - 💣 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 😝 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 😝 [We need things like this in every parlament](http://9gag.com/gag/aZDdpzQ)
+ - 💣 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)
  - 😝 [Not sure if they are supportive, or overprotective. An all new season of Futurama is now streaming. Watch on Hulu now. \ud83d\ude80](http://9gag.com/gag/aNwqe9G)
- - 👉 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
+ - 👉 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)<!-- MEMES:END -->
 
 ---
 </div>

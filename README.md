@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VFX behind Apple TV+ shows revealed in special event on Sunday](https://appleinsider.com/articles/23/08/05/vfx-behind-apple-tv-shows-revealed-in-special-event-on-sunday?utm_medium=rss)
  - [The Pixel Watch 2 may get multi-day battery life and a UWB chip](https://www.theverge.com/2023/8/5/23821335/google-pixel-watch-2-rumor-better-battery-life-snapdragon-w5-uwb-android)
  - [Summer Eye Care: 7 Tips for Preventing Eye Damage From Extreme Heat and UV Rays     - CNET](https://www.cnet.com/health/personal-care/summer-eye-care-7-tips-to-protect-your-eyes-from-the-heat/#ftag=CAD590a51e)
  - [How Waymo and Cruise are struggling to win over San Francisco residents, showing the challenges they may face in expanding driverless cars across the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230805/p8#a230805p8)
- - [Our favorite tips for maximizing your Galaxy Tab S9 experience](https://www.androidauthority.com/samsung-galaxy-tab-s9-tips-3351200/)
- - [Hands on: connect cadence and speed sensors directly to Apple Watch with watchOS 10](https://appleinsider.com/articles/23/08/05/hands-on-connect-cadence-and-speed-sensors-directly-to-apple-watch-with-watchos-10?utm_medium=rss)<!-- TECH:END -->
+ - [Our favorite tips for maximizing your Galaxy Tab S9 experience](https://www.androidauthority.com/samsung-galaxy-tab-s9-tips-3351200/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

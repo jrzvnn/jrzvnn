@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 😝 [Would](http://9gag.com/gag/a9qVLRo)
- - 💣 [Just do it](http://9gag.com/gag/aqedLL7)
- - 😝 [The oppressed](http://9gag.com/gag/a9qVPzD)
- - 👉 [A promising actress](http://9gag.com/gag/ap9d0O5)<!-- MEMES:END -->
+ - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 😝 [Insert with consent stayed without consent. Reminder pull out](http://9gag.com/gag/a9qV70j)
+ - 💣 [The oppressed](http://9gag.com/gag/a9qVPzD)
+ - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - 👉 [Just do it](http://9gag.com/gag/aqedLL7)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)
  - [9 Best Carpet Cleaners &lpar;2023&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)
- - [The cage match is back: Musk says the fight will ‘be live-streamed on X’](https://www.theverge.com/2023/8/6/23821840/the-cage-match-is-back-musk-says-the-fight-will-be-live-streamed-on-x)
+ - [The cage match is back: Musk says Zuck fight will ‘be live-streamed on X’](https://www.theverge.com/2023/8/6/23821840/the-cage-match-is-back-musk-says-the-fight-will-be-live-streamed-on-x)
  - [Man fails to smuggle 68 iPhones by taping them to his body](https://appleinsider.com/articles/23/08/06/man-fails-to-smuggle-68-iphones-by-taping-them-to-his-body?utm_medium=rss)
- - [Buying a Pixel Fold or Galaxy Z Fold 5? Get a kickstand case and thank me later](https://www.androidauthority.com/foldable-phone-kickstand-case-opinion-3348002/)
- - [Best Student Discounts &lpar;2023&rpar;: Laptops, Streaming Services, Tech, and Software](https://www.wired.com/story/best-student-discounts/)<!-- TECH:END -->
+ - [Buying a Pixel Fold or Galaxy Z Fold 5? Get a kickstand case and thank me later](https://www.androidauthority.com/foldable-phone-kickstand-case-opinion-3348002/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

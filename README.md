@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
  - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 💣 [FED agent detected](http://9gag.com/gag/aqedr7v)
- - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
- - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
+ - 😝 [All Inclusive](http://9gag.com/gag/aOxjvBN)
+ - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---
 </div>

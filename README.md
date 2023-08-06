@@ -146,8 +146,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some workers say on-demand home services startup Urban Company, which helped Indian women enter the gig economy, pushed them out for not meeting steep targets &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/230805/p10#a230805p10)
  - [Twitch streamer Kai Cenat charged with inciting a riot after chaotic giveaway in Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
+ - [Some workers say on-demand home services startup Urban Company, which helped Indian women enter the gig economy, pushed them out for not meeting steep targets &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/230805/p10#a230805p10)
  - [Russian independent news outlet Meduza says Apple removed its flagship podcast from Apple Podcasts; source: Roskomnadzor asked Apple to remove the show &lpar;Meduza.io&rpar;](http://www.techmeme.com/230805/p9#a230805p9)
  - [VFX behind Apple TV+ shows revealed in special event on Sunday](https://appleinsider.com/articles/23/08/05/vfx-behind-apple-tv-shows-revealed-in-special-event-on-sunday?utm_medium=rss)
  - [The Pixel Watch 2 may get multi-day battery life and a UWB chip](https://www.theverge.com/2023/8/5/23821335/google-pixel-watch-2-rumor-better-battery-life-snapdragon-w5-uwb-android)<!-- TECH:END -->

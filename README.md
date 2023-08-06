@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - 😝 [It do be like that](http://9gag.com/gag/a9qVA90)
- - 💣 [This is money Cat. Upvote for unlimited flow of cash. Cheers!](http://9gag.com/gag/a9qVA51)
- - 😝 [Only in 2023](http://9gag.com/gag/a5Xxo6o)
- - 👉 [He knows what he wants](http://9gag.com/gag/aKELjrZ)<!-- MEMES:END -->
+ - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
+ - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
+ - 💣 [FED agent detected](http://9gag.com/gag/aqedr7v)
+ - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
+ - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
 
 ---
 </div>

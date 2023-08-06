@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [White men CAN jump &amp; fly !](http://9gag.com/gag/a6qxO6L)
  - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
  - 💣 [Nailed it!](http://9gag.com/gag/aKELjyb)
- - 😝 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)
- - 👉 [Would](http://9gag.com/gag/aBdv09P)<!-- MEMES:END -->
+ - 😝 [Would](http://9gag.com/gag/aBdv09P)
+ - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
 
 ---
 </div>

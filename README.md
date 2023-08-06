@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A phenomenon known as ball lightning](http://9gag.com/gag/aVbdMwv)
+ - 😝 [Any one can explain whats going on ?](http://9gag.com/gag/a7qGbxL)
+ - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
  - 😝 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
- - 😝 [Escape failed](http://9gag.com/gag/aKELVm3)
- - 💣 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
  - 👉 [Better be a passport bros nowadays.](http://9gag.com/gag/aoKd1q3)<!-- MEMES:END -->
 
 ---

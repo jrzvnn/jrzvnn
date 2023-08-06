@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two Words: F*** Man\u2026 \ud83d\udc80](http://9gag.com/gag/aWGdMAn)
  - 😝 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
- - 💣 [Escape failed](http://9gag.com/gag/aKELVm3)
- - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 👉 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
+ - 😝 [Escape failed](http://9gag.com/gag/aKELVm3)
+ - 💣 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
+ - 👉 [Better be a passport bros nowadays.](http://9gag.com/gag/aoKd1q3)<!-- MEMES:END -->
 
 ---
 </div>

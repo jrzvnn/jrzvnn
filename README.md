@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
- - 👉 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)<!-- MEMES:END -->
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 💣 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 😝 [FED agent detected](http://9gag.com/gag/aqedr7v)
+ - 👉 [Link in the comments](http://9gag.com/gag/axoAzvY)<!-- MEMES:END -->
 
 ---
 </div>

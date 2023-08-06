@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thieves stole $300,000 in gaming trading cards at Gen Con 2023](https://www.theverge.com/2023/8/6/23822019/gaming-cards-stolen-gen-con-magic-the-gathering-pokemon)
  - [iPhone 15 Ultra case photos leak shows rumored &#39;Action&#39; button](https://appleinsider.com/articles/23/08/06/iphone-15-ultra-case-photos-leak-shows-rumored-action-button?utm_medium=rss)
  - [Apple’s iPhone 15 cameras need some major changes to beat the Pixel](https://www.androidauthority.com/iphone-15-camera-features-3352158/)
  - [Barbie earns $1 billion at the box office worldwide](https://www.theverge.com/2023/8/6/23816979/barbie-box-office-earnings-greta-gerwig)
- - [Indiana is converting 10,000 acres of fields into an innovation park, with the goal of transforming the state into a microchip manufacturing and research hub &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p5#a230806p5)
- - [Grab a Sleek and Convenient Keurig K-Slim Brewer for $50 Off at Best Buy     - CNET](https://www.cnet.com/home/kitchen-and-household/grab-a-sleek-and-convenient-keurig-k-slim-brewer-for-50-off-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indiana is converting 10,000 acres of fields into an innovation park, with the goal of transforming the state into a microchip manufacturing and research hub &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p5#a230806p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

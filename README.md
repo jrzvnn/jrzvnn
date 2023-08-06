@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 💣 [Link in the comments](http://9gag.com/gag/axoAzvY)
- - 😝 [FED agent detected](http://9gag.com/gag/aqedr7v)
- - 👉 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)<!-- MEMES:END -->
+ - 😝 [White men CAN jump &amp; fly !](http://9gag.com/gag/a6qxO6L)
+ - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
+ - 💣 [Nailed it!](http://9gag.com/gag/aKELjyb)
+ - 😝 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)
+ - 👉 [Would](http://9gag.com/gag/aBdv09P)<!-- MEMES:END -->
 
 ---
 </div>

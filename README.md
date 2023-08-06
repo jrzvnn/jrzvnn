@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on: connect cadence and speed sensors directly to Apple Watch with watchOS 10](https://appleinsider.com/articles/23/08/05/hands-on-connect-cadence-and-speed-sensors-directly-to-apple-watch-with-watchos-10?utm_medium=rss)
  - [A profile of Clop, a Russian-speaking ransomware group responsible for the MOVEit hack and believed to be operating out of Russia and Ukraine &lpar;Misha Glenny/Financial Times&rpar;](http://www.techmeme.com/230806/p3#a230806p3)
  - [How to Automatically Delete Passcode Texts on Android and iOS](https://www.wired.com/story/how-to-automatically-delete-passcode-texts-android-ios/)
  - [Beats Studio Pro Review: Good, Not Great](https://www.wired.com/review/beats-studio-pro/)
- - [How to Play All of Those Old Flash Games You Remember](https://www.wired.com/story/how-to-play-old-flash-games-ruffle/)
- - [US lawmakers are quickly advancing an anti-sex, anti-speech agenda in the name of kids&#39; online safety, which could soon entangle every adult internet user &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230806/p2#a230806p2)<!-- TECH:END -->
+ - [How to Play All of Those Old Flash Games You Remember](https://www.wired.com/story/how-to-play-old-flash-games-ruffle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

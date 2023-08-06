@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shoddy self-published guidebooks, which appear to be compiled with the help of generative AI and promoted via deceptive reviews, are proliferating on Amazon &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p6#a230806p6)
  - [The PlayStation 5 is on sale for $50 off this weekend](https://www.theverge.com/2023/8/6/23820082/sony-playstation-5-disc-edition-dualsense-wireless-controller-deal-sale)
  - [Mark Zuckerberg is ‘not holding my breath’ over August 26th fight date with Elon Musk](https://www.theverge.com/2023/8/6/23822230/mark-zuckerberg-elon-musk-cage-match-august-26-meta-twitter-x)
  - [Understanding MetalKit: Getting started with Apple&#39;s graphics framework](https://appleinsider.com/inside/xcode/tips/understanding-metalkit-getting-started-with-apples-graphics-framework?utm_medium=rss)
- - [Grab Apple&#39;s M1 Max 16&quot; MacBook Pro with 64GB RAM, 1TB SSD for $2,599 &lpar;$1,100 off&rpar;](https://appleinsider.com/articles/23/08/06/grab-apples-m1-max-16-macbook-pro-with-64gb-ram-1tb-ssd-for-2599-1100-off?utm_medium=rss)
- - [Best Earbuds and Headphones Deals: Save on Bose, Sony, Apple and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab Apple&#39;s M1 Max 16&quot; MacBook Pro with 64GB RAM, 1TB SSD for $2,599 &lpar;$1,100 off&rpar;](https://appleinsider.com/articles/23/08/06/grab-apples-m1-max-16-macbook-pro-with-64gb-ram-1tb-ssd-for-2599-1100-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

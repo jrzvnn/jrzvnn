@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
- - 😝 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
+ - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
  - 💣 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
+ - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
+ - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---
 </div>

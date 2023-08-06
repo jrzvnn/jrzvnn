@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 😝 [Still can\u2019t even\u2026](http://9gag.com/gag/avQDG2q)
- - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 👉 [Just Dad Things](http://9gag.com/gag/a5XxboG)<!-- MEMES:END -->
+ - 😝 [Gyros](http://9gag.com/gag/aeQdYGp)
+ - 😝 [Idk about you guys but I find this very funny](http://9gag.com/gag/a1PxKb8)
+ - 💣 [Angel on board](http://9gag.com/gag/abvd6gO)
+ - 😝 [Only in 2023](http://9gag.com/gag/a5Xxo6o)
+ - 👉 [Blind rock paper scissors](http://9gag.com/gag/a1Pxb9Y)<!-- MEMES:END -->
 
 ---
 </div>

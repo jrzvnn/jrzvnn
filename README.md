@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 😝 [Escape failed](http://9gag.com/gag/aKELVm3)
- - 💣 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 😝 [A phenomenon known as ball lightning](http://9gag.com/gag/aVbdMwv)
- - 👉 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)<!-- MEMES:END -->
+ - 😝 [Two Words: F*** Man\u2026 \ud83d\udc80](http://9gag.com/gag/aWGdMAn)
+ - 😝 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
+ - 💣 [Escape failed](http://9gag.com/gag/aKELVm3)
+ - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 👉 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
 
 ---
 </div>

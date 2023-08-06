@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - 😝 [He knows what he wants](http://9gag.com/gag/aKELjrZ)
- - 💣 [One thrust man](http://9gag.com/gag/az2B98Z)
- - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
- - 👉 [Nailed it!](http://9gag.com/gag/aKELjyb)<!-- MEMES:END -->
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 💣 [FED agent detected](http://9gag.com/gag/aqedr7v)
+ - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
+ - 👉 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)<!-- MEMES:END -->
 
 ---
 </div>

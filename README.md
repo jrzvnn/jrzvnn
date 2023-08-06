@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 💣 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 😝 [FED agent detected](http://9gag.com/gag/aqedr7v)
- - 👉 [Link in the comments](http://9gag.com/gag/axoAzvY)<!-- MEMES:END -->
+ - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
+ - 💣 [Link in the comments](http://9gag.com/gag/axoAzvY)
+ - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
+ - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---
 </div>

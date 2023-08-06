@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gyros](http://9gag.com/gag/aeQdYGp)
- - 😝 [Idk about you guys but I find this very funny](http://9gag.com/gag/a1PxKb8)
- - 💣 [Angel on board](http://9gag.com/gag/abvd6gO)
- - 😝 [Only in 2023](http://9gag.com/gag/a5Xxo6o)
- - 👉 [Blind rock paper scissors](http://9gag.com/gag/a1Pxb9Y)<!-- MEMES:END -->
+ - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
+ - 💣 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
+ - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
+ - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
 
 ---
 </div>

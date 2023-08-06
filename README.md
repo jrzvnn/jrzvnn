@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - 💣 [Link in the comments](http://9gag.com/gag/axoAzvY)
- - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
+ - 😝 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
+ - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
+ - 💣 [A phenomenon known as ball lightning](http://9gag.com/gag/aVbdMwv)
+ - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
+ - 👉 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)<!-- MEMES:END -->
 
 ---
 </div>

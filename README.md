@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)
  - [Apple acknowledges the US &quot;smartphone market has been in a decline for the last couple of quarters&quot;; sources: iPhone 15 sales will start around September 22 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230806/p4#a230806p4)
  - [Apple may be testing an M3 Mac Mini](https://www.theverge.com/2023/8/6/23821862/apple-m3-mac-mini-testing-2024)
  - [Smuggler taped-up with 68 iPhones didn&#39;t fool Chinese customs officials](https://appleinsider.com/articles/23/08/06/man-fails-to-smuggle-68-iphones-by-taping-them-to-his-body?utm_medium=rss)
- - [Apple allegedly tests M3 Mac mini ahead of fall launches](https://appleinsider.com/articles/23/08/06/apple-allegedly-tests-m3-mac-mini-ahead-of-fall-launches?utm_medium=rss)
- - [Nothing Phone 2 vs Pixel 7: Same price, different approach](https://www.androidauthority.com/nothing-phone-2-vs-pixel-7-3351571/)<!-- TECH:END -->
+ - [Apple allegedly tests M3 Mac mini ahead of fall launches](https://appleinsider.com/articles/23/08/06/apple-allegedly-tests-m3-mac-mini-ahead-of-fall-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

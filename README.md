@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delusional woman](http://9gag.com/gag/aWGd1V2)
- - 😝 [Just do it](http://9gag.com/gag/aqedLL7)
- - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
  - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 👉 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)<!-- MEMES:END -->
+ - 😝 [Women hate it when we&#39;re happy](http://9gag.com/gag/ay2zXj8)
+ - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
+ - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
+ - 👉 [All Inclusive](http://9gag.com/gag/aOxjvBN)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don’t buy a Fitbit or Pixel Watch if you care about swim tracking](https://www.androidauthority.com/fitbit-pixel-watch-swim-tracking-3351320/)
  - [Daily deals: Save $250 on the M2 Pro 14-inch MacBook Pro, 19% off Nintendo Switch, $150 off Toshiba 65-inch smart TV](https://appleinsider.com/articles/23/08/06/daily-deals-save-250-on-the-m2-pro-14-inch-macbook-pro-19-off-nintendo-switch-150-off-toshiba-65-inch-smart-tv?utm_medium=rss)
  - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)
  - [Apple acknowledges the US &quot;smartphone market has been in a decline for the last couple of quarters&quot;; sources: iPhone 15 sales will start around September 22 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230806/p4#a230806p4)
- - [Apple may be testing an M3 Mac Mini](https://www.theverge.com/2023/8/6/23821862/apple-m3-mac-mini-testing-2024)
- - [Smuggler taped-up with 68 iPhones didn&#39;t fool Chinese customs officials](https://appleinsider.com/articles/23/08/06/man-fails-to-smuggle-68-iphones-by-taping-them-to-his-body?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may be testing an M3 Mac Mini](https://www.theverge.com/2023/8/6/23821862/apple-m3-mac-mini-testing-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Carpet Cleaners &lpar;2023&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)
  - [The cage match is back: Musk says the fight will ‘be live-streamed on X’](https://www.theverge.com/2023/8/6/23821840/the-cage-match-is-back-musk-says-the-fight-will-be-live-streamed-on-x)
  - [Man fails to smuggle 68 iPhones by taping them to his body](https://appleinsider.com/articles/23/08/06/man-fails-to-smuggle-68-iphones-by-taping-them-to-his-body?utm_medium=rss)
  - [Buying a Pixel Fold or Galaxy Z Fold 5? Get a kickstand case and thank me later](https://www.androidauthority.com/foldable-phone-kickstand-case-opinion-3348002/)
- - [Best Student Discounts &lpar;2023&rpar;: Laptops, Streaming Services, Tech, and Software](https://www.wired.com/story/best-student-discounts/)
- - [Hands on: connect cadence and speed sensors directly to Apple Watch with watchOS 10](https://appleinsider.com/articles/23/08/05/hands-on-connect-cadence-and-speed-sensors-directly-to-apple-watch-with-watchos-10?utm_medium=rss)<!-- TECH:END -->
+ - [Best Student Discounts &lpar;2023&rpar;: Laptops, Streaming Services, Tech, and Software](https://www.wired.com/story/best-student-discounts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

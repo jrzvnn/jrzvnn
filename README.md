@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It\u2019s a lifestyle](http://9gag.com/gag/aA0mP50)
  - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 💣 [Escape failed](http://9gag.com/gag/aKELVm3)
- - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 👉 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)<!-- MEMES:END -->
+ - 💣 [Better be a passport bros nowadays.](http://9gag.com/gag/aoKd1q3)
+ - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
+ - 👉 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)<!-- MEMES:END -->
 
 ---
 </div>

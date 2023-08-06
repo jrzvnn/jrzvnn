@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
+ - 😝 [He knows what he wants](http://9gag.com/gag/aKELjrZ)
+ - 💣 [One thrust man](http://9gag.com/gag/az2B98Z)
  - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
- - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 💣 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
- - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
+ - 👉 [Nailed it!](http://9gag.com/gag/aKELjyb)<!-- MEMES:END -->
 
 ---
 </div>

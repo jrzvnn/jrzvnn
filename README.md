@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`My hooman let me in. I&#39;m freezing.`](http://9gag.com/gag/aOxjrnN)
- - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
- - 💣 [It do be like that](http://9gag.com/gag/a9qVA90)
- - 😝 [He knows what he wants](http://9gag.com/gag/aKELjrZ)
- - 👉 [Would](http://9gag.com/gag/aBdv09P)<!-- MEMES:END -->
+ - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
+ - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
+ - 💣 [Just Dad Things](http://9gag.com/gag/a5XxboG)
+ - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
+ - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
 
 ---
 </div>

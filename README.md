@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A phenomenon known as ball lightning](http://9gag.com/gag/aVbdMwv)
- - 😝 [Any one can explain whats going on ?](http://9gag.com/gag/a7qGbxL)
- - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 😝 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
- - 👉 [Better be a passport bros nowadays.](http://9gag.com/gag/aoKd1q3)<!-- MEMES:END -->
+ - 😝 [Planting fake fossils to give some future biologist short glimmer of hope before carbon dating it](http://9gag.com/gag/a04x5xv)
+ - 😝 [Idk about you guys but I find this very funny](http://9gag.com/gag/a1PxKb8)
+ - 💣 [Gyros](http://9gag.com/gag/aeQdYGp)
+ - 😝 [It do be like that](http://9gag.com/gag/a9qVA90)
+ - 👉 [Angel on board](http://9gag.com/gag/abvd6gO)<!-- MEMES:END -->
 
 ---
 </div>

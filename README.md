@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buying a Pixel Fold or Galaxy Z Fold 5? Get a kickstand case and thank me later](https://www.androidauthority.com/foldable-phone-kickstand-case-opinion-3348002/)
+ - [Best Student Discounts &lpar;2023&rpar;: Laptops, Streaming Services, Tech, and Software](https://www.wired.com/story/best-student-discounts/)
  - [Hands on: connect cadence and speed sensors directly to Apple Watch with watchOS 10](https://appleinsider.com/articles/23/08/05/hands-on-connect-cadence-and-speed-sensors-directly-to-apple-watch-with-watchos-10?utm_medium=rss)
  - [A profile of Clop, a Russian-speaking ransomware group responsible for the MOVEit hack and believed to be operating out of Russia and Ukraine &lpar;Misha Glenny/Financial Times&rpar;](http://www.techmeme.com/230806/p3#a230806p3)
- - [How to Automatically Delete Passcode Texts on Android and iOS](https://www.wired.com/story/how-to-automatically-delete-passcode-texts-android-ios/)
- - [Beats Studio Pro Review: Good, Not Great](https://www.wired.com/review/beats-studio-pro/)
- - [How to Play All of Those Old Flash Games You Remember](https://www.wired.com/story/how-to-play-old-flash-games-ruffle/)<!-- TECH:END -->
+ - [How to Automatically Delete Passcode Texts on Android and iOS](https://www.wired.com/story/how-to-automatically-delete-passcode-texts-android-ios/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

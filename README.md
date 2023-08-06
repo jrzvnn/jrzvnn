@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
  - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
- - 👉 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)<!-- MEMES:END -->
+ - 💣 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - 👉 [Link in the comments](http://9gag.com/gag/axoAzvY)<!-- MEMES:END -->
 
 ---
 </div>

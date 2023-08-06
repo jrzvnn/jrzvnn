@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple allegedly tests M3 Mac mini ahead of fall launches](https://appleinsider.com/articles/23/08/06/apple-allegedly-tests-m3-mac-mini-ahead-of-fall-launches?utm_medium=rss)
  - [Nothing Phone 2 vs Pixel 7: Same price, different approach](https://www.androidauthority.com/nothing-phone-2-vs-pixel-7-3351571/)
  - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)
  - [9 Best Carpet Cleaners &lpar;2023&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)
- - [The cage match is back: Musk says Zuck fight will ‘be live-streamed on X’](https://www.theverge.com/2023/8/6/23821840/the-cage-match-is-back-musk-says-the-fight-will-be-live-streamed-on-x)
- - [Man fails to smuggle 68 iPhones by taping them to his body](https://appleinsider.com/articles/23/08/06/man-fails-to-smuggle-68-iphones-by-taping-them-to-his-body?utm_medium=rss)<!-- TECH:END -->
+ - [The cage match is back: Musk says Zuck fight will ‘be live-streamed on X’](https://www.theverge.com/2023/8/6/23821840/the-cage-match-is-back-musk-says-the-fight-will-be-live-streamed-on-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

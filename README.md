@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
+ - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
+ - 💣 [All Inclusive](http://9gag.com/gag/aOxjvBN)
  - 😝 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 💣 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
- - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
+ - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
 
 ---
 </div>

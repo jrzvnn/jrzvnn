@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Indiana is converting 10,000 acres of fields into an innovation park, with the goal of transforming the state into a microchip manufacturing and research hub &lpar;New York Times&rpar;](http://www.techmeme.com/230806/p5#a230806p5)
+ - [Grab a Sleek and Convenient Keurig K-Slim Brewer for $50 Off at Best Buy     - CNET](https://www.cnet.com/home/kitchen-and-household/grab-a-sleek-and-convenient-keurig-k-slim-brewer-for-50-off-at-best-buy/#ftag=CAD590a51e)
  - [Don’t buy a Fitbit or Pixel Watch if you care about swim tracking](https://www.androidauthority.com/fitbit-pixel-watch-swim-tracking-3351320/)
  - [Daily deals: Save $250 on the M2 Pro 14-inch MacBook Pro, 19% off Nintendo Switch, $150 off Toshiba 65-inch smart TV](https://appleinsider.com/articles/23/08/06/daily-deals-save-250-on-the-m2-pro-14-inch-macbook-pro-19-off-nintendo-switch-150-off-toshiba-65-inch-smart-tv?utm_medium=rss)
- - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/max-the-34-absolute-best-tv-shows-to-watch-august-2023/#ftag=CAD590a51e)
- - [Amazon Slashes Its Price on the Roomba i4 Evo by Over $150     - CNET](https://www.cnet.com/deals/amazon-slashes-its-price-on-the-roomba-i4-evo-by-over-150/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/max-the-34-absolute-best-tv-shows-to-watch-august-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

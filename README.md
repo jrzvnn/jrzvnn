@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
- - 😝 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)
- - 💣 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 👉 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)<!-- MEMES:END -->
+ - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
+ - 💣 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
+ - 😝 [3 hours worth of footage \u201cmysteriously\u201d missing after woman reports SA while being detained](http://9gag.com/gag/aoKd9xw)
+ - 👉 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)<!-- MEMES:END -->
 
 ---
 </div>

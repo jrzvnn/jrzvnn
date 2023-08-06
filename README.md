@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 💣 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)
- - 😝 [Oh boy, here we go !](http://9gag.com/gag/aMEWGzM)
- - 👉 [How cool is this plane wreck dive site in the Red Sea?..](http://9gag.com/gag/aGEo010)<!-- MEMES:END -->
+ - 😝 [Mount a spacer on the handlebars](http://9gag.com/gag/anzd1rb)
+ - 💣 [Little girl before and after facial reconstruction](http://9gag.com/gag/a1PxMAw)
+ - 😝 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
+ - 👉 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)<!-- MEMES:END -->
 
 ---
 </div>

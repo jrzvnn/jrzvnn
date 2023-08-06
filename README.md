@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
- - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
- - 👉 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)<!-- MEMES:END -->
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 💣 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
+ - 😝 [Link in the comments](http://9gag.com/gag/axoAzvY)
+ - 👉 [Someone is thirsty](http://9gag.com/gag/aKEL2nQ)<!-- MEMES:END -->
 
 ---
 </div>

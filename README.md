@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 😝 [Women hate it when we&#39;re happy](http://9gag.com/gag/ay2zXj8)
- - 💣 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)
- - 😝 [Just Dad Things](http://9gag.com/gag/a5XxboG)
- - 👉 [All Inclusive](http://9gag.com/gag/aOxjvBN)<!-- MEMES:END -->
+ - 😝 [`My hooman let me in. I&#39;m freezing.`](http://9gag.com/gag/aOxjrnN)
+ - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
+ - 💣 [It do be like that](http://9gag.com/gag/a9qVA90)
+ - 😝 [He knows what he wants](http://9gag.com/gag/aKELjrZ)
+ - 👉 [Would](http://9gag.com/gag/aBdv09P)<!-- MEMES:END -->
 
 ---
 </div>

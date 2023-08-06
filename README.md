@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says X will fund the legal bills of people who have been &quot;unfairly treated&quot; by their employer &quot;due to posting or liking something on this platform&quot; &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/230806/p1#a230806p1)
+ - [Elon Musk says X will fund the legal bills of people who have been &quot;unfairly treated&quot; by their employer &quot;due to posting or liking something on this platform&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230806/p1#a230806p1)
  - [The FBI is investigating a ransomware attack on Prospect Medical Holdings, which runs 16 hospitals and 166 outpatient clinics and centers in CA, CT, PA, and RI &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230805/p11#a230805p11)
  - [Twitch streamer Kai Cenat charged with inciting a riot after chaotic giveaway in Union Square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
  - [Some workers say on-demand home services startup Urban Company, which helped Indian women enter the gig economy, pushed them out for not meeting steep targets &lpar;Varsha Bansal/Wired&rpar;](http://www.techmeme.com/230805/p10#a230805p10)

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Idk about you guys but I find this very funny](http://9gag.com/gag/a1PxKb8)
- - 😝 [Trident is up! Glory to Ukraine!](http://9gag.com/gag/aOxjrGv)
- - 💣 [Angel on board](http://9gag.com/gag/abvd6gO)
- - 😝 [Blind rock paper scissors](http://9gag.com/gag/a1Pxb9Y)
- - 👉 [Ladies and Gentlemen... We got em](http://9gag.com/gag/aBdvwn1)<!-- MEMES:END -->
+ - 😝 [Angel on board](http://9gag.com/gag/abvd6gO)
+ - 💣 [Blind rock paper scissors](http://9gag.com/gag/a1Pxb9Y)
+ - 😝 [Ladies and Gentlemen... We got em](http://9gag.com/gag/aBdvwn1)
+ - 👉 [Trident is up! Glory to Ukraine!](http://9gag.com/gag/aOxjrGv)<!-- MEMES:END -->
 
 ---
 </div>

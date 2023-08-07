@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Xperia 1 V review: Refining the formula](https://www.androidauthority.com/sony-xperia-1-v-review-3351219/)
+ - [Gigabyte’s new RTX 4060 GPU fits three fans on a low-profile design](https://www.theverge.com/2023/8/7/23822727/gigabyte-nvidia-geforce-rtx-4060-gpu-mini-gaming-pc)
  - [Many of Sony’s biggest PlayStation 5 games are up to $40 off through August 19th](https://www.theverge.com/2023/8/7/23822693/playstation-games-summer-sale-macbook-air-deal-sale)
  - [Samsung accidentally posts One UI 6 beta program news, deletes it](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-beta-3352956/)
- - [Apple has &#39;sweetheart deal&#39; with TSMC that saves it billions of dollars](https://appleinsider.com/articles/23/08/07/apple-has-sweetheart-deal-with-tsmc-that-saves-it-billions-of-dollars?utm_medium=rss)
- - [Bing Chat, which previously was only available in Microsoft products like the Edge browser and Bing app, is coming to third-party browsers, including on mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230807/p20#a230807p20)
- - [Meta accused of ignoring reports on dangerous content](https://www.theverge.com/2023/8/7/23820422/meta-internews-trusted-partners-human-rights-report)<!-- TECH:END -->
+ - [Apple has &#39;sweetheart deal&#39; with TSMC that saves it billions of dollars](https://appleinsider.com/articles/23/08/07/apple-has-sweetheart-deal-with-tsmc-that-saves-it-billions-of-dollars?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
+ - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 💣 [How is he still alive](http://9gag.com/gag/axoA7x1)
  - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 💣 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
- - 😝 [How is he still alive](http://9gag.com/gag/axoA7x1)
- - 👉 [Celebrity Mortal Kombat](http://9gag.com/gag/aREyXyM)<!-- MEMES:END -->
+ - 👉 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [White House unveils cyber initiatives to bolster the defenses of K-12 schools, including $200M over three years from the FCC, amid increasing ransomware attacks &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230807/p22#a230807p22)
+ - [Zoom updates terms letting it use customer data to train AI; Zoom says only for users who consented, but consent must be given to enable generative AI features &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230807/p21#a230807p21)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
  - [Sony Xperia 1 V review: Refining the formula](https://www.androidauthority.com/sony-xperia-1-v-review-3351219/)
- - [Gigabyte’s new RTX 4060 GPU fits three fans on a low-profile design](https://www.theverge.com/2023/8/7/23822727/gigabyte-nvidia-geforce-rtx-4060-gpu-mini-gaming-pc)
- - [Many of Sony’s biggest PlayStation 5 games are up to $40 off through August 19th](https://www.theverge.com/2023/8/7/23822693/playstation-games-summer-sale-macbook-air-deal-sale)
- - [Samsung accidentally posts One UI 6 beta program news, deletes it](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-beta-3352956/)
- - [Apple has &#39;sweetheart deal&#39; with TSMC that saves it billions of dollars](https://appleinsider.com/articles/23/08/07/apple-has-sweetheart-deal-with-tsmc-that-saves-it-billions-of-dollars?utm_medium=rss)<!-- TECH:END -->
+ - [Gigabyte’s new RTX 4060 GPU fits three fans on a low-profile design](https://www.theverge.com/2023/8/7/23822727/gigabyte-nvidia-geforce-rtx-4060-gpu-mini-gaming-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

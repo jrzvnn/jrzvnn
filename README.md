@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This app turns your phone’s punch-hole cutout into a shortcut key](https://www.androidauthority.com/touch-the-notch-app-cutout-shortcut-key-3352835/)
- - [You shouldn’t buy these Chromebooks, even on sale](https://www.androidauthority.com/expired-chromebooks-on-sale-3352831/)
- - [The cheesegrater Mac Pro could still be the best Mac ever made](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
- - [After social media upended the fashion and beauty magazine industries, some women turn to Facebook Groups and Substack to find curated recommendations &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230807/p6#a230807p6)
- - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)<!-- TECH:END -->
+ - [Best Teacher Discounts &lpar;2023&rpar;: Deals on School Supplies and Tech](https://www.wired.com/story/best-teacher-discounts/)
+ - [A Crucial Early Warning System for Disease Outbreaks Is in Jeopardy](https://www.wired.com/story/a-crucial-early-warning-system-for-disease-outbreaks-is-in-jeopardy/)
+ - [Criminals Have Created Their Own ChatGPT Clones](https://www.wired.com/story/chatgpt-scams-fraudgpt-wormgpt-crime/)
+ - [Hisense U8K Review: A Great Screen For Well-Lit Rooms](https://www.wired.com/review/hisense-u8k/)
+ - [Germany&#39;s &quot;Silicon Saxony&quot;, set to become the home of TSMC&#39;s European fab, may be undermined by a lack of local workers and rising anti-immigrant sentiment &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230807/p7#a230807p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

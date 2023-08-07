@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
  - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 😝 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
- - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
+ - 💣 [How is he still alive](http://9gag.com/gag/axoA7x1)
+ - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
+ - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
 
 ---
 </div>

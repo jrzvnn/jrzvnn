@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
+ - 😝 [Fastest writer in the world](http://9gag.com/gag/aMEWxBX)
+ - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
+ - 💣 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 👉 [How is he still alive](http://9gag.com/gag/axoA7x1)<!-- MEMES:END -->
 
 ---
 </div>

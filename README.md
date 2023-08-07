@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [How is he still alive](http://9gag.com/gag/axoA7x1)
- - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 👉 [How is he still alive](http://9gag.com/gag/axoA7x1)<!-- MEMES:END -->
 
 ---
 </div>

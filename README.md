@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Search can now critique your grammar](https://www.theverge.com/2023/8/7/23822634/google-search-grammar-check-feature)
+ - [Toshiba announces a $14B tender offer to take the company private at $32/share led by Japan Industrial Partners, a buyout fund of Japanese banks and companies &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/230807/p9#a230807p9)
  - [India&#39;s lower house of parliament passes a revised Digital Personal Data Protection Bill despite pushback from critics, who worry over granting Modi more power &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230807/p8#a230807p8)
  - [Best Teacher Discounts &lpar;2023&rpar;: Deals on School Supplies and Tech](https://www.wired.com/story/best-teacher-discounts/)
- - [A Crucial Early Warning System for Disease Outbreaks Is in Jeopardy](https://www.wired.com/story/a-crucial-early-warning-system-for-disease-outbreaks-is-in-jeopardy/)
- - [Criminals Have Created Their Own ChatGPT Clones](https://www.wired.com/story/chatgpt-scams-fraudgpt-wormgpt-crime/)
- - [Hisense U8K Review: A Great Screen For Well-Lit Rooms](https://www.wired.com/review/hisense-u8k/)<!-- TECH:END -->
+ - [A Crucial Early Warning System for Disease Outbreaks Is in Jeopardy](https://www.wired.com/story/a-crucial-early-warning-system-for-disease-outbreaks-is-in-jeopardy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - 💣 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
  - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)<!-- MEMES:END -->
+ - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
 
 ---
 </div>

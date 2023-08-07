@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple Music launches a Discovery Station to help you find new songs](https://www.theverge.com/2023/8/7/23823577/apple-music-discovery-station-find-new-songs)
  - [The European Commission opens an in-depth probe into Adobe&#39;s $20B Figma deal, after a preliminary review triggered concerns that it may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230807/p28#a230807p28)
+ - [PS5s Reportedly Melting USB Ports: Tips to Avoid Disaster     - CNET](https://www.cnet.com/tech/gaming/ps5s-reportedly-melting-usb-ports-tips-to-avoid-disaster/#ftag=CAD590a51e)
  - [Palantir reports Q2 revenue up 13% YoY to $533.3M, vs. $532.4M est., adjusted operating income of $135M, vs. $121.5M est., and authorizes a $1B share buyback &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230807/p27#a230807p27)
- - [Zoom wants its remote work company to come back to the office](https://www.theverge.com/2023/8/7/23823464/zoom-remote-work-return-to-office-hybrid)
- - [Sources: Meta disbanded the team behind its protein-folding AI project ESMFold this spring, prioritizing commercial AI products over blue-sky research &lpar;Financial Times&rpar;](http://www.techmeme.com/230807/p26#a230807p26)<!-- TECH:END -->
+ - [Zoom wants its remote work company to come back to the office](https://www.theverge.com/2023/8/7/23823464/zoom-remote-work-return-to-office-hybrid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

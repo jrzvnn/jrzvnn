@@ -157,8 +157,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Nailed it!](http://9gag.com/gag/aKELjyb)
  - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - 💣 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)
- - 😝 [Would](http://9gag.com/gag/aBdv09P)
+ - 💣 [Would](http://9gag.com/gag/aBdv09P)
+ - 😝 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)
  - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
 
 ---

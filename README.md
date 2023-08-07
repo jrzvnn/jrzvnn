@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [A Danish Captain here?](http://9gag.com/gag/a2KxWeD)<!-- MEMES:END -->
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [When Lady has the balls of steel](http://9gag.com/gag/awZ8X68)
+ - 💣 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)
+ - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 👉 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)<!-- MEMES:END -->
 
 ---
 </div>

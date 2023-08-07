@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Back-to-school Apple deals shave up to $250 off the latest gear at Amazon](https://appleinsider.com/articles/23/08/07/back-to-school-apple-deals-shave-up-to-250-off-the-latest-gear-at-amazon?utm_medium=rss)
+ - [Now you can block OpenAI’s web crawler](https://www.theverge.com/2023/8/7/23823046/openai-data-scrape-block-ai)
+ - [The latest Call of Duty gets a November release date](https://www.theverge.com/23823042/call-of-duty-modern-warfare-3-release-date-activision)
  - [Neuralink, the brain-computer interface startup cofounded by Elon Musk, raised a $280M Series D led by Founders Fund; it was reportedly valued at $5B in June &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/230807/p24#a230807p24)
- - [OpenAI publishes information about GPTBot, which it uses to crawl the web, making it straightforward for site admins to opt out using the robots.txt file &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/230807/p23#a230807p23)
- - [Galaxy Tab S9 FE and FE Plus leak may have given us first real images](https://www.androidauthority.com/galaxy-tab-s9-fe-real-images-3352990/)
- - [The Little Mermaid lands on Disney Plus in September](https://www.theverge.com/2023/8/7/23823045/little-mermaid-disney-plus-release-date-streaming)
- - [Microsoft announces Bing AI coming to Safari and Chrome](https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI publishes information about GPTBot, which it uses to crawl the web, making it straightforward for site admins to opt out using the robots.txt file &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/230807/p23#a230807p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch accessory makers have to switch to newer, costlier fast-charging module](https://appleinsider.com/articles/23/08/07/apple-watch-accessory-makers-have-to-switch-to-newer-costlier-fast-charging-module?utm_medium=rss)
+ - [The SEC&#39;s recent cyber regulations will grow industry awareness but the new incident reporting rules are redundant, misdirected, and overlap with CISA reporting &lpar;Chris Krebs/Financial Times&rpar;](http://www.techmeme.com/230807/p17#a230807p17)
  - [Sonos Move 2 leaks, Hue creates cameras, &amp; Snoo smart bassinet review on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/07/sonos-move-2-leaks-hue-creates-cameras-snoo-smart-bassinet-review-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Microsoft’s AI-powered Bing Chat is coming to mobile browsers](https://www.theverge.com/2023/8/7/23822773/microsoft-bing-ai-chat-mobile-browsers-google-chrome-safari)
- - [Tesla is losing its Master of Coin](https://www.theverge.com/2023/8/7/23822798/tesla-cfo-zachary-kirkhorn-stepping-down-replacement)
- - [Cyber insurance company Resilience, which uses AI to analyze internal systems and determine risk profiles, raised a $100M Series D, taking its funding to $225M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/230807/p16#a230807p16)
- - [WhatsApp is working on 32-person voice chats](https://www.theverge.com/2023/8/7/23822689/whatsapp-voice-chat-android-beta-rollout)<!-- TECH:END -->
+ - [Tesla is losing its Master of Coin](https://www.theverge.com/2023/8/7/23822798/tesla-cfo-zachary-kirkhorn-stepping-down-replacement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

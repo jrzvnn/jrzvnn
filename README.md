@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many of Sony’s biggest PlayStation 5 games are up to $40 off through August 19th](https://www.theverge.com/2023/8/7/23822693/playstation-games-summer-sale-macbook-air-deal-sale)
+ - [Samsung accidentally posts One UI 6 beta program news, deletes it](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-6-beta-3352956/)
+ - [Apple has &#39;sweetheart deal&#39; with TSMC that saves it billions of dollars](https://appleinsider.com/articles/23/08/07/apple-has-sweetheart-deal-with-tsmc-that-saves-it-billions-of-dollars?utm_medium=rss)
  - [Bing Chat, which previously was only available in Microsoft products like the Edge browser and Bing app, is coming to third-party browsers, including on mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230807/p20#a230807p20)
- - [Meta accused of ignoring reports on dangerous content](https://www.theverge.com/2023/8/7/23820422/meta-internews-trusted-partners-human-rights-report)
- - [MrBeast’s burger company is suing him for $100 million](https://www.theverge.com/2023/8/7/23822859/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
- - [Sources: TSMC and Apple have a deal where TSMC basically eats the cost of chip defects; Apple will save billions of dollars and get 3nm chips long before rivals &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230807/p19#a230807p19)
- - [TSMC concerned over labor shortages for new plant in Germany](https://appleinsider.com/articles/23/08/07/tsmc-concerned-over-labor-shortages-for-new-plant-in-germany?utm_medium=rss)<!-- TECH:END -->
+ - [Meta accused of ignoring reports on dangerous content](https://www.theverge.com/2023/8/7/23820422/meta-internews-trusted-partners-human-rights-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

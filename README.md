@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 series storage revealed: Still stuck at 128GB for another year](https://www.androidauthority.com/google-pixel-8-series-storage-leaked-3352921/)
+ - [How bringing Lionel Messi to the MLS could help Apple, which has almost no content made in non-English-speaking markets, attract international TV+ subscribers &lpar;Alex Webb/Bloomberg&rpar;](http://www.techmeme.com/230807/p18#a230807p18)
+ - [Lawmakers urged to block TSMC worker visas over Arizona plant construction](https://appleinsider.com/articles/23/08/07/lawmakers-urged-to-block-tsmc-worker-visas-over-arizona-plant-construction?utm_medium=rss)
+ - [Pixel 8 series storage info leaked: Still stuck at 128GB for another year](https://www.androidauthority.com/google-pixel-8-series-storage-leaked-3352921/)
  - [Daily deals: $200 off 15&quot; MacBook Air, Apple Watch from $137, Office for Mac $40, more](https://appleinsider.com/articles/23/08/07/daily-deals-200-off-15-macbook-air-apple-watch-from-137-office-for-mac-40-more?utm_medium=rss)
- - [Red Dead Redemption rerelease comes to Switch and PS4 August 17th](https://www.theverge.com/2023/8/7/23811044/red-dead-redemption-remake-rockstar-games-switch-ps4)
- - [Apple Watch accessory makers have to switch to newer, costlier fast-charging module](https://appleinsider.com/articles/23/08/07/apple-watch-accessory-makers-have-to-switch-to-newer-costlier-fast-charging-module?utm_medium=rss)
- - [The SEC&#39;s recent cyber regulations will grow industry awareness but the new incident reporting rules are redundant, misdirected, and overlap with CISA reporting &lpar;Chris Krebs/Financial Times&rpar;](http://www.techmeme.com/230807/p17#a230807p17)<!-- TECH:END -->
+ - [Red Dead Redemption rerelease comes to Switch and PS4 August 17th](https://www.theverge.com/2023/8/7/23811044/red-dead-redemption-remake-rockstar-games-switch-ps4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

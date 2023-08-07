@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
- - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - 💣 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
+ - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
+ - 😝 [Would](http://9gag.com/gag/aBdv09P)
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)
+ - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
 
 ---
 </div>

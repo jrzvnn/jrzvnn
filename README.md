@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - 💣 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
+ - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 😝 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
+ - 💣 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
  - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 👉 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)<!-- MEMES:END -->
+ - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---
 </div>

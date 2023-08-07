@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 💣 [How is he still alive](http://9gag.com/gag/axoA7x1)
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)<!-- MEMES:END -->
+ - 😝 [When everyone&#39;s screaming for their lives but this is where the fun begins for you.](http://9gag.com/gag/axoA95W)
+ - 😝 [The dad be like: If you can\u2019t beat \u2018em, join \u2018em](http://9gag.com/gag/aeQdDRb)
+ - 💣 [Title](http://9gag.com/gag/aBdv2BD)
+ - 😝 [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
+ - 👉 [O Fortuna](http://9gag.com/gag/aNwqpLA)<!-- MEMES:END -->
 
 ---
 </div>

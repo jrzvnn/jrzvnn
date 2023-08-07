@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s lower house of parliament passes a revised Digital Personal Data Protection Bill despite pushback from critics, who worry over granting Modi more power &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230807/p8#a230807p8)
  - [Best Teacher Discounts &lpar;2023&rpar;: Deals on School Supplies and Tech](https://www.wired.com/story/best-teacher-discounts/)
  - [A Crucial Early Warning System for Disease Outbreaks Is in Jeopardy](https://www.wired.com/story/a-crucial-early-warning-system-for-disease-outbreaks-is-in-jeopardy/)
  - [Criminals Have Created Their Own ChatGPT Clones](https://www.wired.com/story/chatgpt-scams-fraudgpt-wormgpt-crime/)
- - [Hisense U8K Review: A Great Screen For Well-Lit Rooms](https://www.wired.com/review/hisense-u8k/)
- - [Germany&#39;s &quot;Silicon Saxony&quot;, set to become the home of TSMC&#39;s European fab, may be undermined by a lack of local workers and rising anti-immigrant sentiment &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230807/p7#a230807p7)<!-- TECH:END -->
+ - [Hisense U8K Review: A Great Screen For Well-Lit Rooms](https://www.wired.com/review/hisense-u8k/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

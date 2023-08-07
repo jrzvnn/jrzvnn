@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - 😝 [Would](http://9gag.com/gag/aBdv09P)
- - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 😝 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)
- - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
+ - 😝 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
+ - 😝 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
+ - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---
 </div>

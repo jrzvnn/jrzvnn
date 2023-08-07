@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profits are still down but Foxconn expects bump from iPhone 15](https://appleinsider.com/articles/23/08/07/profits-are-still-down-but-foxconn-expects-bump-from-iphone-15?utm_medium=rss)
+ - [A look at Senator Chuck Schumer&#39;s efforts to boost US chip manufacturing, including marshalling the CHIPS Act, leading to substantial funds flowing to New York &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230807/p15#a230807p15)
  - [Samsung Galaxy Z Flip 5 review: useful cover screen and widgets, IPX8, and five years of patches, but so-so battery, tricky cover apps, and unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230807/p14#a230807p14)
  - [PayPal announces PYUSD, a stablecoin issued by Paxos and fully backed by USD, short-term Treasuries, and cash equivalents, rolling out to US customers gradually &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230807/p13#a230807p13)
- - [The Internet Speech Case That the Supreme Court Can’t Dodge](https://www.wired.com/story/tech-policy-netchoice-scotus/)
- - [8 Best Robot Vacuums &lpar;2023&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
- - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge)<!-- TECH:END -->
+ - [The Internet Speech Case That the Supreme Court Can’t Dodge](https://www.wired.com/story/tech-policy-netchoice-scotus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

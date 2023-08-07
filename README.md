@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta accused of ignoring reports on dangerous content](https://www.theverge.com/2023/8/7/23820422/meta-internews-trusted-partners-human-rights-report)
+ - [MrBeast’s burger company is suing him for $100 million](https://www.theverge.com/2023/8/7/23822859/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
+ - [Sources: TSMC and Apple have a deal where TSMC basically eats the cost of chip defects; Apple will save billions of dollars and get 3nm chips long before rivals &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230807/p19#a230807p19)
  - [TSMC concerned over labor shortages for new plant in Germany](https://appleinsider.com/articles/23/08/07/tsmc-concerned-over-labor-shortages-for-new-plant-in-germany?utm_medium=rss)
- - [How bringing Lionel Messi to the MLS could help Apple, which has almost no content made in non-English-speaking markets, attract international TV+ subscribers &lpar;Alex Webb/Bloomberg&rpar;](http://www.techmeme.com/230807/p18#a230807p18)
- - [Lawmakers urged to block TSMC worker visas over Arizona plant construction](https://appleinsider.com/articles/23/08/07/lawmakers-urged-to-block-tsmc-worker-visas-over-arizona-plant-construction?utm_medium=rss)
- - [Pixel 8 series storage info leaked: Still stuck at 128GB for another year](https://www.androidauthority.com/google-pixel-8-series-storage-leaked-3352921/)
- - [Daily deals: $200 off 15&quot; MacBook Air, Apple Watch from $137, Office for Mac $40, more](https://appleinsider.com/articles/23/08/07/daily-deals-200-off-15-macbook-air-apple-watch-from-137-office-for-mac-40-more?utm_medium=rss)<!-- TECH:END -->
+ - [How bringing Lionel Messi to the MLS could help Apple, which has almost no content made in non-English-speaking markets, attract international TV+ subscribers &lpar;Alex Webb/Bloomberg&rpar;](http://www.techmeme.com/230807/p18#a230807p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

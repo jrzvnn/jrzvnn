@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 💣 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
- - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - 👉 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)<!-- MEMES:END -->
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [When Lady has the balls of steel](http://9gag.com/gag/awZ8X68)
+ - 💣 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)
+ - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 👉 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)<!-- MEMES:END -->
 
 ---
 </div>

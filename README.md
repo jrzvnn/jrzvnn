@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [A Danish Captain here?](http://9gag.com/gag/a2KxWeD)
- - 💣 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 👉 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)<!-- MEMES:END -->
+ - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
 
 ---
 </div>

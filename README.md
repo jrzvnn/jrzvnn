@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 Max chips being tested for future MacBook Pro models](https://appleinsider.com/articles/23/08/07/m3-max-chips-being-tested-for-future-macbook-pro-models?utm_medium=rss)
+ - [Sony is now reportedly streaming PS5 games at 4K over the internet in public beta](https://www.theverge.com/2023/8/7/21575810/sony-ps5-public-beta-cloud-streaming-test-live)
+ - [Developer logs: Apple is testing an M3 Max chip with a 16-core CPU, a 40-core GPU, and 48GB of RAM, in a MacBook Pro that&#39;s expected to debut in 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230807/p29#a230807p29)
  - [Pixel Watch picks up August security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [GM’s BrightDrop is bringing its electric delivery vans to Mexico](https://www.theverge.com/2023/8/7/23822975/gm-brightdrop-electric-delivery-vans-mexico)
- - [Apple Music launches a Discovery Station to help you find new songs](https://www.theverge.com/2023/8/7/23823577/apple-music-discovery-station-find-new-songs)
- - [The European Commission opens an in-depth probe into Adobe&#39;s $20B Figma deal, after a preliminary review triggered concerns that it may reduce competition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230807/p28#a230807p28)
- - [Palantir reports Q2 revenue up 13% YoY to $533.3M, vs. $532.4M est., adjusted operating income of $135M, vs. $121.5M est., and authorizes a $1B share buyback &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230807/p27#a230807p27)<!-- TECH:END -->
+ - [GM’s BrightDrop is bringing its electric delivery vans to Mexico](https://www.theverge.com/2023/8/7/23822975/gm-brightdrop-electric-delivery-vans-mexico)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

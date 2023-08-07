@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 😝 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
- - 💣 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)
- - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 👉 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)<!-- MEMES:END -->
+ - 😝 [Nailed it!](http://9gag.com/gag/aKELjyb)
+ - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
+ - 💣 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)
+ - 😝 [Would](http://9gag.com/gag/aBdv09P)
+ - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
 
 ---
 </div>

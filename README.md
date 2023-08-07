@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM](https://www.theverge.com/2023/8/7/23823716/apple-macbook-pro-m3-max-2024-specs-details)
+ - [How to use Spatial Audio when sharing audio in tvOS 17](https://appleinsider.com/inside/tvos-17/tips/how-to-use-spatial-audio-when-sharing-audio-in-tvos-17?utm_medium=rss)
  - [M3 Max chips being tested for future MacBook Pro models](https://appleinsider.com/articles/23/08/07/m3-max-chips-being-tested-for-future-macbook-pro-models?utm_medium=rss)
  - [Sony is now reportedly streaming PS5 games at 4K over the internet in public beta](https://www.theverge.com/2023/8/7/21575810/sony-ps5-public-beta-cloud-streaming-test-live)
- - [Developer logs: Apple is testing an M3 Max chip with a 16-core CPU, a 40-core GPU, and 48GB of RAM, in a MacBook Pro that&#39;s expected to debut in 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230807/p29#a230807p29)
- - [Pixel Watch picks up August security update](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [GM’s BrightDrop is bringing its electric delivery vans to Mexico](https://www.theverge.com/2023/8/7/23822975/gm-brightdrop-electric-delivery-vans-mexico)<!-- TECH:END -->
+ - [Developer logs: Apple is testing an M3 Max chip with a 16-core CPU, a 40-core GPU, and 48GB of RAM, in a MacBook Pro that&#39;s expected to debut in 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230807/p29#a230807p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

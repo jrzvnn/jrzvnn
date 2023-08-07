@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s AI Red Team Has Already Made the Case for Itself](https://www.wired.com/story/microsoft-ai-red-team/)
- - [TikTok is launching a livestream music competition](https://www.theverge.com/2023/8/7/23822775/tiktok-music-competition-gimme-the-mic-live-stream)
- - [Back-to-school Apple deals shave up to $250 off the latest gear at Amazon](https://appleinsider.com/articles/23/08/07/back-to-school-apple-deals-shave-up-to-250-off-the-latest-gear-at-amazon?utm_medium=rss)
- - [Now you can block OpenAI’s web crawler](https://www.theverge.com/2023/8/7/23823046/openai-data-scrape-block-ai)
- - [The latest Call of Duty gets a November release date](https://www.theverge.com/23823042/call-of-duty-modern-warfare-3-release-date-activision)<!-- TECH:END -->
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [Where to preorder Sony’s new Spider-Man PS5 console and accessories](https://www.theverge.com/23811154/sony-spiderman-playstation-5-ps5-console-controller-limited-edition-preorder-availability)
+ - [Sony Xperia 5 V: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/sony-xperia-5-v-3351427/)
+ - [The best Samsung Galaxy deals of August 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [Microsoft’s AI Red Team Has Already Made the Case for Itself](https://www.wired.com/story/microsoft-ai-red-team/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

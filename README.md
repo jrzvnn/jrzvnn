@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
- - 💣 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 😝 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
- - 👉 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)<!-- MEMES:END -->
+ - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
+ - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 👉 [A Danish Captain here?](http://9gag.com/gag/a2KxWeD)<!-- MEMES:END -->
 
 ---
 </div>

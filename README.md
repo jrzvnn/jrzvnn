@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is making it easier to give a show a thumbs-up when you’re watching on mobile](https://www.theverge.com/2023/8/7/23823282/netflix-thumbs-up-watching-mobile-ios-android)
+ - [Apple Music debuts new algorithmic Discovery Station radio](https://appleinsider.com/articles/23/08/07/apple-music-debuts-new-algorithmic-discovery-station-radio?utm_medium=rss)
  - [Mazda adds touchscreen support to CarPlay in 2024 CX-5](https://appleinsider.com/articles/23/08/07/mazda-adds-touchscreen-support-to-carplay-in-2024-cx-5?utm_medium=rss)
  - [The Mystery of Chernobyl’s Post-Invasion Radiation Spikes](https://www.wired.com/story/chernobyl-radiation-spike-mystery/)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [Where to preorder Sony’s new Spider-Man PS5 console and accessories](https://www.theverge.com/23811154/sony-spiderman-playstation-5-ps5-console-controller-limited-edition-preorder-availability)
- - [Sony Xperia 5 V: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/sony-xperia-5-v-3351427/)<!-- TECH:END -->
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

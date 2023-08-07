@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta disbanded the team behind its protein-folding AI project ESMFold this spring, prioritizing commercial AI products over blue-sky research &lpar;Financial Times&rpar;](http://www.techmeme.com/230807/p26#a230807p26)
  - [The Red Cross lifts its blood donor restrictions for men who have sex with men](https://www.theverge.com/2023/8/7/23823047/red-cross-blood-donors-gay-bisexual-men-lgbtq-fda)
  - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
  - [We just lost 3TB of data on a SanDisk Extreme SSD](https://www.theverge.com/22291828/sandisk-extreme-pro-portable-my-passport-failure-continued)
- - [Movella brings professional motion tracking to virtual streamers](https://www.theverge.com/2023/8/7/23823384/movella-obskur-vtuber-virtual-streaming-avatar-professional-motion-tracking)
- - [The Pixel Tablet and Pixel 7 phones are just a few Google gadgets on sale](https://www.theverge.com/2023/8/7/23823156/google-pixel-tablet-pixel-7-pixel-watch-pixel-buds-pro-deal-sale)<!-- TECH:END -->
+ - [Movella brings professional motion tracking to virtual streamers](https://www.theverge.com/2023/8/7/23823384/movella-obskur-vtuber-virtual-streaming-avatar-professional-motion-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

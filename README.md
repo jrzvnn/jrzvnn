@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nailed it!](http://9gag.com/gag/aKELjyb)
- - 😝 [The chosen one.](http://9gag.com/gag/a4ox7Oy)
- - 💣 [Would](http://9gag.com/gag/aBdv09P)
- - 😝 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)
- - 👉 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)<!-- MEMES:END -->
+ - 😝 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 💣 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 👉 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)<!-- MEMES:END -->
 
 ---
 </div>

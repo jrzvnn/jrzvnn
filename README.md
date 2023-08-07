@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How is he still alive](http://9gag.com/gag/axoA7x1)
  - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
+ - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - 💣 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 😝 [South African woman asks for help.](http://9gag.com/gag/aQEroL8)
+ - 👉 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [O Fortuna](http://9gag.com/gag/aNwqpLA)
- - 😝 [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 😝 [It hurts because it is true.](http://9gag.com/gag/a9qV1E6)
- - 👉 [The future is here, 9gag!](http://9gag.com/gag/aREy7Ey)<!-- MEMES:END -->
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 😝 [How is he still alive](http://9gag.com/gag/axoA7x1)
+ - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
 
 ---
 </div>

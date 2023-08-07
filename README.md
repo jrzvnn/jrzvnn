@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 😝 [When Lady has the balls of steel](http://9gag.com/gag/awZ8X68)
- - 💣 [Do not worry, 9GAGGERS are here](http://9gag.com/gag/a8qn5E3)
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 👉 [That crying gets me every time](http://9gag.com/gag/a1PxRb2)<!-- MEMES:END -->
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 😝 [A Danish Captain here?](http://9gag.com/gag/a2KxWeD)
+ - 💣 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 👉 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)<!-- MEMES:END -->
 
 ---
 </div>

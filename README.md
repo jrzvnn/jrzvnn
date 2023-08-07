@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dad be like: If you can\u2019t beat \u2018em, join \u2018em](http://9gag.com/gag/aeQdDRb)
- - 😝 [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
- - 💣 [O Fortuna](http://9gag.com/gag/aNwqpLA)
- - 😝 [Classic Lara](http://9gag.com/gag/aYVdoPm)
- - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
+ - 😝 [How is he still alive](http://9gag.com/gag/axoA7x1)
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
 
 ---
 </div>

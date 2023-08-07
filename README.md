@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom, known for helping millions of people work from home, asks its employees living within 50 miles of an office to work in person at least two days per week &lpar;Emma Goldberg/New York Times&rpar;](http://www.techmeme.com/230807/p25#a230807p25)
+ - [Google Search can now critique your grammar](https://www.theverge.com/2023/8/7/23822634/google-search-grammar-check-feature)
  - [These Google wallpapers celebrate the company’s 25th anniversary](https://www.androidauthority.com/google-wallpapers-25th-3353056/)
  - [What is a Verizon Loyalty Discount and do you qualify?](https://www.androidauthority.com/verizon-loyalty-discount-3353047/)
- - [Netflix is making it easier to give a show a thumbs-up when you’re watching on mobile](https://www.theverge.com/2023/8/7/23823282/netflix-thumbs-up-watching-mobile-ios-android)
- - [Apple Music debuts new algorithmic Discovery Station radio](https://appleinsider.com/articles/23/08/07/apple-music-debuts-new-algorithmic-discovery-station-radio?utm_medium=rss)
- - [Mazda adds touchscreen support to CarPlay in 2024 CX-5](https://appleinsider.com/articles/23/08/07/mazda-adds-touchscreen-support-to-carplay-in-2024-cx-5?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is making it easier to give a show a thumbs-up when you’re watching on mobile](https://www.theverge.com/2023/8/7/23823282/netflix-thumbs-up-watching-mobile-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

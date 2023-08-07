@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 😝 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
- - 💣 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
+ - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - 💣 [I&#39;m sorry. I&#39;m sorry. Don&#39;t tell mom.](http://9gag.com/gag/aGEo1X0)
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
  - 👉 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)<!-- MEMES:END -->
 
 ---

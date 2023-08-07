@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Tab S9 FE and FE Plus leak may have given us first real images](https://www.androidauthority.com/galaxy-tab-s9-fe-real-images-3352990/)
+ - [The Little Mermaid lands on Disney Plus in September](https://www.theverge.com/2023/8/7/23823045/little-mermaid-disney-plus-release-date-streaming)
+ - [Microsoft announces Bing AI coming to Safari and Chrome](https://appleinsider.com/articles/23/08/07/microsoft-announces-bing-ai-coming-to-safari-and-chrome?utm_medium=rss)
  - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
- - [Sweeping Google deals drop the Pixel 7 price to just $449](https://www.androidauthority.com/google-pixel-7-deal-3352984/)
- - [Apple TV+ releases September schedule for MLB &#39;Friday Night Baseball&#39;](https://appleinsider.com/articles/23/08/07/apple-tv-releases-september-schedule-for-mlb-friday-night-baseball?utm_medium=rss)
- - [Here’s a collection of gifts you can give mom no matter the occasion](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
- - [White House unveils cyber initiatives to bolster the defenses of K-12 schools, including $200M over three years from the FCC, amid increasing ransomware attacks &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230807/p22#a230807p22)<!-- TECH:END -->
+ - [Sweeping Google deals drop the Pixel 7 price to just $449](https://www.androidauthority.com/google-pixel-7-deal-3352984/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

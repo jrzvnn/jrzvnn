@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi Arabia&#39;s PIF reports a $15.6B loss in 2022 after its Vision Fund and tech investments cratered; assets under management reached $595.5B due to Aramco &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/230807/p4#a230807p4)
  - [Researchers show how ChatGPT 3.5 performs better than ChatGPT 4.0 in several tasks, often math related, highlighting the issue of &quot;drift&quot; in improving AI models &lpar;Josh Zumbrun/Wall Street Journal&rpar;](http://www.techmeme.com/230807/p3#a230807p3)
  - [UK researchers train a deep learning model that can steal data from keyboard keystrokes recorded using a microphone with 95% accuracy overall and 93% on Zoom &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230807/p2#a230807p2)
  - [Samsung Galaxy Z Flip 5 beats Motorola Razr Plus in marathon folding test](https://www.androidauthority.com/samsung-galaxy-z-flip-5-motorola-razr-plus-folding-durability-test-3352818/)
- - [The OnePlus Ace 2 Pro could be a OnePlus 11T in all but name](https://www.androidauthority.com/oneplus-ace-2-pro-launch-3352817/)
- - [Yang Hyang-ja, a South Korean lawmaker and former Samsung executive, says US-led China chip curbs risk damaging South Korea&#39;s relations with its Asian allies &lpar;Financial Times&rpar;](http://www.techmeme.com/230807/p1#a230807p1)<!-- TECH:END -->
+ - [The OnePlus Ace 2 Pro could be a OnePlus 11T in all but name](https://www.androidauthority.com/oneplus-ace-2-pro-launch-3352817/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ikea actually got a decent grade for its sustainable shipping goals](https://www.theverge.com/2023/8/7/23823226/ikea-shipping-pollution-report-card)
+ - [Will the iPhone 15 have USB-C? Here’s what we know](https://www.androidauthority.com/iphone-15-usb-c-3352995/)
  - [Zoom, known for helping millions of people work from home, asks its employees living within 50 miles of an office to work in person at least two days per week &lpar;Emma Goldberg/New York Times&rpar;](http://www.techmeme.com/230807/p25#a230807p25)
  - [Google Search can now critique your grammar](https://www.theverge.com/2023/8/7/23822634/google-search-grammar-check-feature)
- - [These Google wallpapers celebrate the company’s 25th anniversary](https://www.androidauthority.com/google-wallpapers-25th-3353056/)
- - [What is a Verizon Loyalty Discount and do you qualify?](https://www.androidauthority.com/verizon-loyalty-discount-3353047/)
- - [Netflix is making it easier to give a show a thumbs-up when you’re watching on mobile](https://www.theverge.com/2023/8/7/23823282/netflix-thumbs-up-watching-mobile-ios-android)<!-- TECH:END -->
+ - [These Google wallpapers celebrate the company’s 25th anniversary](https://www.androidauthority.com/google-wallpapers-25th-3353056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

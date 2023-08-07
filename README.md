@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When everyone&#39;s screaming for their lives but this is where the fun begins for you.](http://9gag.com/gag/axoA95W)
  - 😝 [The dad be like: If you can\u2019t beat \u2018em, join \u2018em](http://9gag.com/gag/aeQdDRb)
- - 💣 [Title](http://9gag.com/gag/aBdv2BD)
  - 😝 [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
- - 👉 [O Fortuna](http://9gag.com/gag/aNwqpLA)<!-- MEMES:END -->
+ - 💣 [O Fortuna](http://9gag.com/gag/aNwqpLA)
+ - 😝 [Classic Lara](http://9gag.com/gag/aYVdoPm)
+ - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
 
 ---
 </div>

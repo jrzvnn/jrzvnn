@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This app turns your phone’s punch-hole cutout into a shortcut key](https://www.androidauthority.com/touch-the-notch-app-cutout-shortcut-key-3352835/)
  - [You shouldn’t buy these Chromebooks, even on sale](https://www.androidauthority.com/expired-chromebooks-on-sale-3352831/)
  - [The cheesegrater Mac Pro could still be the best Mac ever made](https://appleinsider.com/articles/22/08/07/the-cheesegrater-mac-pro-is-16-year-old-and-still-the-best-mac-ever-made----for-now?utm_medium=rss)
  - [After social media upended the fashion and beauty magazine industries, some women turn to Facebook Groups and Substack to find curated recommendations &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230807/p6#a230807p6)
- - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)
- - [Paytm founder Vijay Shekhar Sharma plans to buy 10.3% stake in Paytm from Ant, an unusual deal to make him Paytm&#39;s largest shareholder without paying any cash &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230807/p5#a230807p5)<!-- TECH:END -->
+ - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

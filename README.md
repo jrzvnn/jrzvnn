@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)
+ - [Sweeping Google deals drop the Pixel 7 price to just $449](https://www.androidauthority.com/google-pixel-7-deal-3352984/)
  - [Apple TV+ releases September schedule for MLB &#39;Friday Night Baseball&#39;](https://appleinsider.com/articles/23/08/07/apple-tv-releases-september-schedule-for-mlb-friday-night-baseball?utm_medium=rss)
  - [Here’s a collection of gifts you can give mom no matter the occasion](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
- - [White House unveils cyber initiatives to bolster the defenses of K-12 schools, including $200M over three years from the FCC, amid increasing ransomware attacks &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230807/p22#a230807p22)
- - [Zoom updates terms letting it use customer data to train AI; Zoom says only for users who consented, but consent must be given to enable generative AI features &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230807/p21#a230807p21)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [White House unveils cyber initiatives to bolster the defenses of K-12 schools, including $200M over three years from the FCC, amid increasing ransomware attacks &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230807/p22#a230807p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

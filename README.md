@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could raise iPhone 15 Pro storage to 2TB](https://appleinsider.com/articles/23/08/07/apple-could-raise-iphone-15-pro-storage-to-2tb?utm_medium=rss)
- - [How a false facial recognition match led to a Black woman being wrongfully arrested for carjacking and robbery in Detroit, the first such known case for a woman &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230807/p10#a230807p10)
- - [Google Search can now critique your grammar](https://www.theverge.com/2023/8/7/23822634/google-search-grammar-check-feature)
- - [Toshiba announces a $14B tender offer to take the company private at $32/share led by Japan Industrial Partners, a buyout fund of Japanese banks and companies &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/230807/p9#a230807p9)
- - [India&#39;s lower house of parliament passes a revised Digital Personal Data Protection Bill despite pushback from critics, who worry over granting Modi more power &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230807/p8#a230807p8)<!-- TECH:END -->
+ - [Why Thread is Matter’s biggest problem right now](https://www.theverge.com/23820078/matters-biggest-problem-apple-google-thread-border-router-interoperability)
+ - [How Black users are searching for a replacement to Black Twitter after Elon Musk&#39;s takeover, from Mastodon to Threads to Fanbase, becoming a &quot;digital diaspora&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/230807/p11#a230807p11)
+ - [We asked, you told us: You still use a Chromecast &lpar;apparently&rpar;](https://www.androidauthority.com/use-chromecast-poll-results-3352884/)
+ - [AI Can Give You an NPC That Remembers. It Could Also Get Your Favorite Artist Fired](https://www.wired.com/story/ai-game-design-midjourney-ethics-development/)
+ - [Everyone Was Wrong About Antipsychotics](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

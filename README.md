@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
  - 😝 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
- - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
- - 💣 [Search dubai port-a-potty for more context](http://9gag.com/gag/aGEoZq0)
- - 😝 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
- - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
+ - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
 
 ---
 </div>

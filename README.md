@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [We living in dystopia already](http://9gag.com/gag/aNwqzgA)
- - 💣 [A man of sheer focus](http://9gag.com/gag/awZ8Q61)
- - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 👉 [There&#39;s a helicopter in this image](http://9gag.com/gag/awZ85PD)<!-- MEMES:END -->
+ - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
+ - 👉 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)<!-- MEMES:END -->
 
 ---
 </div>

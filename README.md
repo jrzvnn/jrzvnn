@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 😝 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
- - 💣 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
+ - 😝 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
 
 ---
 </div>

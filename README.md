@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profits are still down but Foxconn expects bump from iPhone 15](https://appleinsider.com/articles/23/08/07/profits-are-still-down-but-foxconn-expects-bump-from-iphone-15?utm_medium=rss)
- - [A look at Senator Chuck Schumer&#39;s efforts to boost US chip manufacturing, including marshalling the CHIPS Act, leading to substantial funds flowing to New York &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230807/p15#a230807p15)
- - [Samsung Galaxy Z Flip 5 review: useful cover screen and widgets, IPX8, and five years of patches, but so-so battery, tricky cover apps, and unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230807/p14#a230807p14)
- - [PayPal announces PYUSD, a stablecoin issued by Paxos and fully backed by USD, short-term Treasuries, and cash equivalents, rolling out to US customers gradually &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230807/p13#a230807p13)
- - [The Internet Speech Case That the Supreme Court Can’t Dodge](https://www.wired.com/story/tech-policy-netchoice-scotus/)<!-- TECH:END -->
+ - [Sonos Move 2 leaks, Hue creates cameras, &amp; Snoo smart bassinet review on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/07/sonos-move-2-leaks-hue-creates-cameras-snoo-smart-bassinet-review-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Microsoft’s AI-powered Bing Chat is coming to mobile browsers](https://www.theverge.com/2023/8/7/23822773/microsoft-bing-ai-chat-mobile-browsers-google-chrome-safari)
+ - [Tesla is losing its Master of Coin](https://www.theverge.com/2023/8/7/23822798/tesla-cfo-zachary-kirkhorn-stepping-down-replacement)
+ - [Cyber insurance company Resilience, which uses AI to analyze internal systems and determine risk profiles, raised a $100M Series D, taking its funding to $225M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/230807/p16#a230807p16)
+ - [WhatsApp is working on 32-person voice chats](https://www.theverge.com/2023/8/7/23822689/whatsapp-voice-chat-android-beta-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

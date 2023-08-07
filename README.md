@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Flip 5 review: useful cover screen and widgets, IPX8, and five years of patches, but so-so battery, tricky cover apps, and unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230807/p14#a230807p14)
  - [PayPal announces PYUSD, a stablecoin issued by Paxos and fully backed by USD, short-term Treasuries, and cash equivalents, rolling out to US customers gradually &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230807/p13#a230807p13)
  - [The Internet Speech Case That the Supreme Court Can’t Dodge](https://www.wired.com/story/tech-policy-netchoice-scotus/)
  - [8 Best Robot Vacuums &lpar;2023&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
- - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge)
- - [Hyper fields HyperDrive Next collection of a dock, SSD enclosure, and hubs](https://appleinsider.com/articles/23/08/07/hyper-fields-hyperdrive-next-collection-of-a-dock-ssd-enclosure-and-hubs?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

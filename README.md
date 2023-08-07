@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Anne Hathaway](http://9gag.com/gag/adPd9qQ)
  - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)
- - 👉 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)<!-- MEMES:END -->
+ - 💣 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 👉 [Cyclist went twice as fast in the final moments of the Race](http://9gag.com/gag/aREyje7)<!-- MEMES:END -->
 
 ---
 </div>

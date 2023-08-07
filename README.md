@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyper fields HyperDrive Next collection of a dock, SSD enclosure, and hubs](https://appleinsider.com/articles/23/08/07/hyper-fields-hyperdrive-next-collection-of-a-dock-ssd-enclosure-and-hubs?utm_medium=rss)
- - [Researchers: North Korean hackers installed backdoors at Russian rocket design bureau NPO Mashinostroyeniya for five months in 2022 to read emails and more &lpar;Reuters&rpar;](http://www.techmeme.com/230807/p12#a230807p12)
- - [Why Thread is Matter’s biggest problem right now](https://www.theverge.com/23820078/matters-biggest-problem-apple-google-thread-border-router-interoperability)
- - [How Black users are searching for a replacement to Black Twitter after Elon Musk&#39;s takeover, from Mastodon to Threads to Fanbase, becoming a &quot;digital diaspora&quot; &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/230807/p11#a230807p11)
- - [We asked, you told us: You still use a Chromecast &lpar;apparently&rpar;](https://www.androidauthority.com/use-chromecast-poll-results-3352884/)<!-- TECH:END -->
+ - [PayPal announces PYUSD, a stablecoin issued by Paxos and fully backed by USD, short-term Treasuries, and cash equivalents, rolling out to US customers gradually &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230807/p13#a230807p13)
+ - [The Internet Speech Case That the Supreme Court Can’t Dodge](https://www.wired.com/story/tech-policy-netchoice-scotus/)
+ - [8 Best Robot Vacuums &lpar;2023&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
+ - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge)
+ - [Hyper fields HyperDrive Next collection of a dock, SSD enclosure, and hubs](https://appleinsider.com/articles/23/08/07/hyper-fields-hyperdrive-next-collection-of-a-dock-ssd-enclosure-and-hubs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

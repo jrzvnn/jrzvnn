@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You shouldn’t buy these Chromebooks, even on sale](https://www.androidauthority.com/expired-chromebooks-on-sale-3352831/)
+ - [After social media upended the fashion and beauty magazine industries, some women turn to Facebook Groups and Substack to find curated recommendations &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230807/p6#a230807p6)
  - [Apple could reveal iPhone 15 on September 12](https://appleinsider.com/articles/23/08/06/apple-could-reveal-iphone-15-on-september-12?utm_medium=rss)
  - [Paytm founder Vijay Shekhar Sharma plans to buy 10.3% stake in Paytm from Ant, an unusual deal to make him Paytm&#39;s largest shareholder without paying any cash &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230807/p5#a230807p5)
- - [Price leak suggests Samsung Galaxy Tab S9 FE ain’t gonna be cheap](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-price-leak-3352859/)
- - [Hip Hop’s Surprising, Never-Ending Evolutions](https://www.wired.com/story/hip-hop-surprising-never-ending-evolutions/)
- - [Saudi Arabia&#39;s PIF reports a $15.6B loss in 2022 after its Vision Fund and tech investments cratered; assets under management reached $595.5B due to Aramco &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/230807/p4#a230807p4)<!-- TECH:END -->
+ - [Price leak suggests Samsung Galaxy Tab S9 FE ain’t gonna be cheap](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-price-leak-3352859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

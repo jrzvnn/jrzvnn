@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Movella brings professional motion tracking to virtual streamers](https://www.theverge.com/2023/8/7/23823384/movella-obskur-vtuber-virtual-streaming-avatar-professional-motion-tracking)
  - [The Pixel Tablet and Pixel 7 phones are just a few Google gadgets on sale](https://www.theverge.com/2023/8/7/23823156/google-pixel-tablet-pixel-7-pixel-watch-pixel-buds-pro-deal-sale)
  - [Apple Pay launches in Vietnam](https://appleinsider.com/articles/23/08/07/apple-pay-launches-in-vietnam?utm_medium=rss)
  - [August 2023 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/august-2023-android-security-patch-3353092/)
- - [Ikea actually got a decent grade for its sustainable shipping goals](https://www.theverge.com/2023/8/7/23823226/ikea-shipping-pollution-report-card)
- - [Will the iPhone 15 have USB-C? Here’s what we know](https://www.androidauthority.com/iphone-15-usb-c-3352995/)<!-- TECH:END -->
+ - [Ikea actually got a decent grade for its sustainable shipping goals](https://www.theverge.com/2023/8/7/23823226/ikea-shipping-pollution-report-card)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

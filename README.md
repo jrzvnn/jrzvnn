@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bing Chat, which previously was only available in Microsoft products like the Edge browser and Bing app, is coming to third-party browsers, including on mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230807/p20#a230807p20)
  - [Meta accused of ignoring reports on dangerous content](https://www.theverge.com/2023/8/7/23820422/meta-internews-trusted-partners-human-rights-report)
  - [MrBeast’s burger company is suing him for $100 million](https://www.theverge.com/2023/8/7/23822859/mrbeast-burger-virtual-dining-concepts-counter-lawsuit-ghost-kitchen)
  - [Sources: TSMC and Apple have a deal where TSMC basically eats the cost of chip defects; Apple will save billions of dollars and get 3nm chips long before rivals &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230807/p19#a230807p19)
- - [TSMC concerned over labor shortages for new plant in Germany](https://appleinsider.com/articles/23/08/07/tsmc-concerned-over-labor-shortages-for-new-plant-in-germany?utm_medium=rss)
- - [How bringing Lionel Messi to the MLS could help Apple, which has almost no content made in non-English-speaking markets, attract international TV+ subscribers &lpar;Alex Webb/Bloomberg&rpar;](http://www.techmeme.com/230807/p18#a230807p18)<!-- TECH:END -->
+ - [TSMC concerned over labor shortages for new plant in Germany](https://appleinsider.com/articles/23/08/07/tsmc-concerned-over-labor-shortages-for-new-plant-in-germany?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could have one more M3-powered computer for this year](https://www.androidauthority.com/apple-m3-mac-mini-leak-3352813/)
  - [Get your funds in order! iPhone 15 sales could start on this date.](https://www.androidauthority.com/apple-iphone-15-sale-date-3352788/)
  - [Think your Pixel is hacked? Google now gives you a new way to check.](https://www.androidauthority.com/google-pixel-binary-transparency-3352784/)
  - [ASUS is apparently killing the ability to root present and future Zenfones](https://www.androidauthority.com/asus-unlock-bootloader-tool-removed-3352783/)
- - [China&#39;s Hua Hong Semiconductor raises $2.96B in its Shanghai listing, the largest in the Asia Pacific region this year; the firm is already listed in Hong Kong &lpar;Filipe Pacheco/Bloomberg&rpar;](http://www.techmeme.com/230806/p7#a230806p7)
- - [Lionel Messi: How to Watch, Stream Inter Miami vs. FC Dallas on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-fc-dallas-on-mls-season-pass-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s Hua Hong Semiconductor raises $2.96B in its Shanghai listing, the largest in the Asia Pacific region this year; the firm is already listed in Hong Kong &lpar;Filipe Pacheco/Bloomberg&rpar;](http://www.techmeme.com/230806/p7#a230806p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

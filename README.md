@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PS5s Reportedly Melting USB Ports: Tips to Avoid Disaster     - CNET](https://www.cnet.com/tech/gaming/ps5s-reportedly-melting-usb-ports-tips-to-avoid-disaster/#ftag=CAD590a51e)
  - [Palantir reports Q2 revenue up 13% YoY to $533.3M, vs. $532.4M est., adjusted operating income of $135M, vs. $121.5M est., and authorizes a $1B share buyback &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230807/p27#a230807p27)
  - [Zoom wants its remote work company to come back to the office](https://www.theverge.com/2023/8/7/23823464/zoom-remote-work-return-to-office-hybrid)
- - [Sources: Meta disbanded the team behind its protein-folding AI project ESMFold this spring, prioritizing commercial AI products over blue-sky research &lpar;Financial Times&rpar;](http://www.techmeme.com/230807/p26#a230807p26)
- - [The Red Cross lifts its blood donor restrictions for men who have sex with men](https://www.theverge.com/2023/8/7/23823047/red-cross-blood-donors-gay-bisexual-men-lgbtq-fda)
- - [Zoom says its new AI tools aren’t stealing ownership of your content](https://www.theverge.com/2023/8/7/23822907/zoom-train-ai-models-user-data-customer-consent)<!-- TECH:END -->
+ - [Google Search&#39;s Latest AI Feature Is a Grammar Checker. How to Use It     - CNET](https://www.cnet.com/tech/google-searchs-latest-ai-feature-is-a-grammar-checker-how-to-use-it/#ftag=CAD590a51e)
+ - [Sources: Meta disbanded the team behind its protein-folding AI project ESMFold this spring, prioritizing commercial AI products over blue-sky research &lpar;Financial Times&rpar;](http://www.techmeme.com/230807/p26#a230807p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

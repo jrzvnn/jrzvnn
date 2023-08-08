@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Wiz co-founder and CEO Assaf Rappaport, who sold Adallom to Microsoft for $320M in 2015 before building the $10B Israeli cloud security startup &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230808/p21#a230808p21)
  - [Simon Data, which uses ML to help leverage customer data for marketing, raised a $54M Series D led by Macquarie Capital, taking its total funding to $113M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230808/p20#a230808p20)
  - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
  - [Apple and Samsung line up to invest in Arm](https://www.theverge.com/2023/8/8/23824160/arm-ipo-apple-samsung-nvidia-intel)
- - [Chargeflow, which uses ML to help businesses deal with chargeback disputes, raised an $11M seed led by OpenView and a $3M pre-seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p19#a230808p19)
- - [Nab an aloSIM eSIM for Life and $50 in Mobile Data Credit for $25     - CNET](https://www.cnet.com/deals/nab-an-alosim-esim-for-life-and-50-in-mobile-data-credit-for-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chargeflow, which uses ML to help businesses deal with chargeback disputes, raised an $11M seed led by OpenView and a $3M pre-seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p19#a230808p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

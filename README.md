@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
  - 😝 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
- - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
- - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
+ - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 😝 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 👉 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)<!-- MEMES:END -->
 
 ---
 </div>

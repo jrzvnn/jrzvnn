@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
+ - [Apple and Samsung line up to invest in Arm](https://www.theverge.com/2023/8/8/23824160/arm-ipo-apple-samsung-nvidia-intel)
+ - [Chargeflow, which uses ML to help businesses deal with chargeback disputes, raised an $11M seed led by OpenView and a $3M pre-seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p19#a230808p19)
  - [It’s time to change how we cover Elon Musk](https://www.theverge.com/2023/8/8/23824184/elon-musk-news-coverage-criticism)
- - [A SCOTUS opinion in the NetChoice cases challenging social media content moderation laws in Texas and Florida will be far more impactful than Gonzalez v. Google &lpar;Jeff Kosseff/Wired&rpar;](http://www.techmeme.com/230808/p18#a230808p18)
- - [TSMC expected to approve $11 billion Germany chip factory plans](https://appleinsider.com/articles/23/08/08/tsmc-expected-to-approve-11-billion-germany-chip-factory-plans?utm_medium=rss)
- - [Apple’s iPad Mini is $100 off](https://www.theverge.com/2023/8/8/23823002/apple-ipad-mini-deal-google-pixel-7-logitech-k380-keyboard-sale)
- - [Apple buys Foxconn servers for testing its AI services](https://appleinsider.com/articles/23/08/08/apple-buys-foxconn-servers-for-testing-its-ai-services?utm_medium=rss)<!-- TECH:END -->
+ - [A SCOTUS opinion in the NetChoice cases challenging social media content moderation laws in Texas and Florida will be far more impactful than Gonzalez v. Google &lpar;Jeff Kosseff/Wired&rpar;](http://www.techmeme.com/230808/p18#a230808p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlanta-based Tractian, which uses AI and edge computing to identify industrial machine failures, raised a $45M Series B led by General Catalyst &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/230807/p32#a230807p32)
  - [A US judge denies Google a summary judgment in a $5B lawsuit over the way it tracked users&#39; internet activities in Incognito mode, pushing it closer to a trial &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230807/p31#a230807p31)
  - [$5 billion Google lawsuit over ‘incognito mode’ tracking moves a step closer to trial](https://www.theverge.com/2023/8/7/23823878/google-privacy-tracking-incognito-mode-lawsuit-summary-judgment-denied)
  - [Sources: in late 2020, the NSA discovered that Chinese hackers had access to Japanese defense networks, with the problem persisting until at least fall 2021 &lpar;Ellen Nakashima/Washington Post&rpar;](http://www.techmeme.com/230807/p30#a230807p30)
- - [Google Wear OS 4: Features, release date, and more](https://www.androidauthority.com/wear-os-4-features-release-3352001/)
- - [Microsoft Brings Bing AI to More Browsers     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-brings-bing-ai-to-more-browsers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Wear OS 4: Features, release date, and more](https://www.androidauthority.com/wear-os-4-features-release-3352001/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

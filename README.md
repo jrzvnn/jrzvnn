@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple, Samsung, Nvidia, and Intel plan to invest in Arm&#39;s US IPO as soon as shares are listed in September; SoftBank owns 75% of Arm and Vision Fund 25% &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230808/p11#a230808p11)
  - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
  - [The Philippines races to defend its share of the ~$300B global business process outsourcing market, battling deteriorating talent, rising competition, and AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p10#a230808p10)
  - [Sex Workers Took Refuge in Crypto. Now It’s Failing Them](https://www.wired.com/story/sex-workers-crypto-failing-them/)
- - [Grimes on Living Forever, Dying on Mars, and Giving Elon Musk Ideas for His Best &lpar;Worst&rpar; Tweets](https://www.wired.com/story/grimes-big-interview/)
- - [Meet the Artists Reinventing Hip Hop on YouTube and TikTok](https://www.wired.com/story/milwaukee-hip-hop-tiktok-youtube/)<!-- TECH:END -->
+ - [Grimes on Living Forever, Dying on Mars, and Giving Elon Musk Ideas for His Best &lpar;Worst&rpar; Tweets](https://www.wired.com/story/grimes-big-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

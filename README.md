@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
  - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
- - 💣 [Every single time](http://9gag.com/gag/a9qV1rD)
+ - 💣 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [Robin chwaaan](http://9gag.com/gag/amAdAgj)<!-- MEMES:END -->
+ - 👉 [That would be a sh*tty way to go](http://9gag.com/gag/az2B20Z)<!-- MEMES:END -->
 
 ---
 </div>

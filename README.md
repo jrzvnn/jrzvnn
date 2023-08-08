@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 😝 [Dear ladies, NO means NO !!!](http://9gag.com/gag/aPgp3An)
- - 💣 [The Disney Effect](http://9gag.com/gag/a7qGWNq)
+ - 😝 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
+ - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 💣 [I&#39;m southeast-asian and I felt way more comfortable/safe being around white people. The white people were a lot more polite and well mannered.](http://9gag.com/gag/adPdPq2)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)<!-- MEMES:END -->
+ - 👉 [Oh look IT&#39;s a shape we associate with something must be that!](http://9gag.com/gag/aoKdyvm)<!-- MEMES:END -->
 
 ---
 </div>

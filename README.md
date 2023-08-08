@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 💣 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
- - 👉 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)<!-- MEMES:END -->
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 💣 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 </div>

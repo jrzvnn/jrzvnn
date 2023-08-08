@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes Apple&#39;s latest MacBook Pro to $1,749.99](https://appleinsider.com/articles/23/08/08/amazon-slashes-apples-latest-macbook-pro-to-174999?utm_medium=rss)
+ - [Lyft CEO says Lyft is trying to get rid of surge pricing because &quot;riders hate it&quot; and rides affected by surge pricing dropped 35% QoQ due to more driver supply &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230808/p43#a230808p43)
  - [Encrypted iMessage chats lead to record-breaking SEC fines for Wells Fargo, Wall Street](https://appleinsider.com/articles/23/08/08/encrypted-imessage-chats-lead-to-record-breaking-sec-fines-for-wells-fargo-wall-street?utm_medium=rss)
  - [Verizon will shut down BlueJeans, a business-focused video conferencing app it acquired in 2020, on August 31, 2023, due to &quot;the changing market landscape&quot; &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230808/p42#a230808p42)
- - [The US Federal Reserve launches a program for overseeing banks&#39; crypto activity and clarifies its pre-approval process for engaging with stablecoins &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230808/p41#a230808p41)
- - [Verizon is shutting down the videoconferencing app it bought for $400 million](https://www.theverge.com/2023/8/8/23825112/verizon-bluejeans-shutting-down-sunset)
- - [Here&#39;s what new in iOS 17 developer beta 5](https://appleinsider.com/articles/23/08/08/heres-what-new-in-ios-17-developer-beta-5?utm_medium=rss)<!-- TECH:END -->
+ - [The US Federal Reserve launches a program for overseeing banks&#39; crypto activity and clarifies its pre-approval process for engaging with stablecoins &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230808/p41#a230808p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

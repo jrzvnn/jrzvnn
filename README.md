@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s what new in iOS 17 developer beta 5](https://appleinsider.com/articles/23/08/08/heres-what-new-in-ios-17-developer-beta-5?utm_medium=rss)
+ - [Intel fixes a flaw found by a Google researcher, affecting Skylake, Tiger Lake, and Ice Lake chips, that could let attackers steal passwords and other secrets &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230808/p40#a230808p40)
  - [Netflix launches a game controller app on the App Store to let users play Netflix games on their TV; the app description says the feature is &quot;coming soon&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230808/p39#a230808p39)
  - [Banks fined $549 million for hiding messages in iMessage and Signal](https://www.theverge.com/2023/8/8/23824521/wells-fargo-bnp-imessage-signal-whatsapp-messages-sec-fine)
- - [YouTube will stop showing users recommended videos in some places, including the homepage, when watch history is turned off entirely &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230808/p38#a230808p38)
- - [Compared: iPhone 14 and iPhone 14 Plus vs Nothing Phone&lpar;2&rpar;](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-and-iphone-14-plus-vs-nothing-phone2?utm_medium=rss)
- - [Twilio reports Q2 revenue up 10% YoY to $1.04B vs. $986M est., active customer accounts up 11% YoY to 304K+, and raises FY 2023 profit outlook; TWLO jumps 9%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230808/p37#a230808p37)<!-- TECH:END -->
+ - [YouTube will stop showing users recommended videos in some places, including the homepage, when watch history is turned off entirely &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230808/p38#a230808p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon will shut down BlueJeans, a business-focused video conferencing app it acquired in 2020, on August 31, 2023, due to &quot;the changing market landscape&quot; &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230808/p42#a230808p42)
  - [The US Federal Reserve launches a program for overseeing banks&#39; crypto activity and clarifies its pre-approval process for engaging with stablecoins &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230808/p41#a230808p41)
  - [Verizon is shutting down the videoconferencing app it bought for $400 million](https://www.theverge.com/2023/8/8/23825112/verizon-bluejeans-shutting-down-sunset)
  - [Here&#39;s what new in iOS 17 developer beta 5](https://appleinsider.com/articles/23/08/08/heres-what-new-in-ios-17-developer-beta-5?utm_medium=rss)
- - [Intel fixes a flaw found by a Google researcher, affecting Skylake, Tiger Lake, and Ice Lake chips, that could let attackers steal passwords and other secrets &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230808/p40#a230808p40)
- - [Netflix launches a game controller app on the App Store to let users play Netflix games on their TV; the app description says the feature is &quot;coming soon&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230808/p39#a230808p39)<!-- TECH:END -->
+ - [Intel fixes a flaw found by a Google researcher, affecting Skylake, Tiger Lake, and Ice Lake chips, that could let attackers steal passwords and other secrets &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230808/p40#a230808p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

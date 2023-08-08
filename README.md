@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gizmodo author sues Apple over &#39;Tetris&#39; movie](https://appleinsider.com/articles/23/08/08/gizmodo-author-sues-apple-over-tetris-movie?utm_medium=rss)
+ - [Nvidia unveils more powerful AI chip coming next year](https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200)
+ - [Today&#39;s Hacker interest in macOS ten times that of 2019](https://appleinsider.com/articles/23/08/08/todays-hacker-interest-in-macos-ten-times-that-of-2019?utm_medium=rss)
  - [YouTube will now show a blank homepage if you don’t have watch history on](https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history)
- - [Valve is now selling refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824739/valve-steam-deck-certified-refurbished-price-listings)
- - [The best Google Pixel deals of August 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [Google launches group E2E encryption for its Messages app and says RCS will now be turned on by default in Messages for both new and existing users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230808/p31#a230808p31)
- - [Netflix’s new virtual game controller iOS app hints at TV gaming](https://www.theverge.com/2023/8/8/23824509/netflix-game-controller-tv-gaming-ios-app)<!-- TECH:END -->
+ - [Valve is now selling refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824739/valve-steam-deck-certified-refurbished-price-listings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

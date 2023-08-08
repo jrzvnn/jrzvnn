@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft shortens its Xbox Game Pass trials just before Starfield’s release](https://www.theverge.com/2023/8/8/23824853/microsoft-xbox-game-pass-ultimate-trial-14-days-starfield-release)
+ - [NBA games could land on Apple TV+ in local rights grab](https://appleinsider.com/articles/23/08/08/nba-games-could-land-on-apple-tv-in-local-rights-grab?utm_medium=rss)
+ - [Joe Biden’s new monument near the Grand Canyon stops some — but not all — uranium mining](https://www.theverge.com/2023/8/8/23824490/joe-biden-new-national-monument-grand-canyon-uranium-mine)
  - [Hackers had access to UK voter data for over a year before anyone noticed](https://www.theverge.com/2023/8/8/23824516/uk-voter-data-exposed-cyberattack-election-commission)
- - [Google Messages now encrypts RCS conversations by default](https://www.theverge.com/2023/8/8/23824800/google-messages-rcs-end-to-end-encryption-default-group)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Netflix launches game controller app for iPhone, but still doesn&#39;t offer games on TVs](https://appleinsider.com/articles/23/08/08/netflix-launches-game-controller-app-for-iphone-but-still-doesnt-offer-games-on-tvs?utm_medium=rss)
- - [Sources: Google and UMG are in early talks to license melodies and voices for AI-made songs; goals include making a tool for fans and paying copyright owners &lpar;Financial Times&rpar;](http://www.techmeme.com/230808/p32#a230808p32)<!-- TECH:END -->
+ - [Google Messages now encrypts RCS conversations by default](https://www.theverge.com/2023/8/8/23824800/google-messages-rcs-end-to-end-encryption-default-group)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

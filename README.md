@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Grimes on her &quot;c&quot; persona, letting people use her voice in their music, AI, social media, Elon Musk, NFTs, a stronger sense of ethics in tech, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230808/p14#a230808p14)
- - [After the countless times Elon Musk has walked back announcements, the business media must rethink its coverage of X, Musk, and the fight with Mark Zuckerberg &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230808/p13#a230808p13)
- - [Apple expected to invest in Arm ahead of possible September IPO](https://appleinsider.com/articles/23/08/08/apple-expected-to-invest-in-arm-ahead-of-possible-september-ipo?utm_medium=rss)
- - [Samsung Galaxy Z Flip5 and Galaxy Z Fold5 Review: They Don’t Shine Quite as Bright](https://www.wired.com/review/samsung-galaxy-z-flip5-galaxy-z-fold5/)
- - [The AI Doomsday Bible Is a Book About the Atomic Bomb](https://www.wired.com/story/the-making-of-the-atomic-bomb-artificial-intelligence/)<!-- TECH:END -->
+ - [Spotify expands its AI-powered DJ globally to ~50 markets, six months after its North American launch, available via the Music tab; the feature is English-only &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230808/p15#a230808p15)
+ - [Ex-Apple retail head Angela Ahrendts joins Kim Kardashian](https://appleinsider.com/articles/23/08/08/ex-apple-retail-head-angela-ahrendts-joins-kim-kardashian?utm_medium=rss)
+ - [What Doctors Wish You Knew About HIPAA and Data Security](https://www.wired.com/story/what-doctors-wish-you-knew-hipaa-data-security/)
+ - [Glowforge Aura Review: An Easy to Use Laser Cutter](https://www.wired.com/review/glowforge-aura/)
+ - [ChargePoint is spending millions to boost station reliability to ‘nearly 100 percent’](https://www.theverge.com/2023/8/8/23824069/chargepoint-electric-car-charger-reliability-network-operations-center)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

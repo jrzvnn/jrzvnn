@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s new virtual game controller iOS app hints at TV gaming](https://www.theverge.com/2023/8/8/23824509/netflix-game-controller-tv-gaming-ios-app)
+ - [For this startup, Nvidia GPUs are currency](https://www.theverge.com/2023/8/8/23824661/coreweave-nvidia-debt-gpu-ai-chips-collateral)
+ - [The Mystery Genes That Are Keeping You Alive](https://www.wired.com/story/unknome-proteins-human-genome/)
  - [Google debuts Project IDX, an AI-enabled browser-based dev environment that uses Visual Studio Code Open Source and integrates with Google&#39;s PaLM 2-based Codey &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230808/p30#a230808p30)
- - [KQED acquires studio behind Glynn Washington’s Snap Judgment](https://www.theverge.com/2023/8/8/23824496/kqed-snap-judgment-acquisition)
- - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
- - [Apple issues fifth watchOS 10 developer beta](https://appleinsider.com/articles/23/08/08/apple-issues-fifth-watchos-10-developer-beta?utm_medium=rss)
- - [New ‘Downfall’ Flaw Exposes Valuable Data in Generations of Intel Chips](https://www.wired.com/story/downfall-flaw-intel-chips/)<!-- TECH:END -->
+ - [KQED acquires studio behind Glynn Washington’s Snap Judgment](https://www.theverge.com/2023/8/8/23824496/kqed-snap-judgment-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

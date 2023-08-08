@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [128GB is not enough storage for the Google Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-storage-128gb-opinion-3353219/)
+ - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
+ - [How to share your screen on WhatsApp](https://www.androidauthority.com/how-to-screen-share-on-whatsapp-3333172/)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Daily deals Aug. 8: $100 off iPad mini, AirPods Max $325, 15&quot; MacBook Air $1,099, more](https://appleinsider.com/articles/23/08/08/daily-deals-aug-8-100-off-ipad-mini-airpods-max-325-15-macbook-air-1099-more?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Two old-school Pokémon games just came to the Nintendo Switch](https://www.theverge.com/2023/8/8/23824277/pokemon-stadium-2-switch-online-pokemon-trading-card-game)
- - [Dish is merging with a satellite internet company to boost its 5G network](https://www.theverge.com/2023/8/8/23824206/dish-network-5g-satellite-merger)<!-- TECH:END -->
+ - [Daily deals Aug. 8: $100 off iPad mini, AirPods Max $325, 15&quot; MacBook Air $1,099, more](https://appleinsider.com/articles/23/08/08/daily-deals-aug-8-100-off-ipad-mini-airpods-max-325-15-macbook-air-1099-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

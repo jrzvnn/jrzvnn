@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok unveils Gimme the Mic, a music competition hosted on livestreams where the US winner receives 50K Diamonds, the USD conversion rate for which is unclear &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230808/p9#a230808p9)
  - [An author finds multiple &quot;garbage books&quot; uploaded to Amazon under her name, most likely AI-generated, and on Goodreads, which removed them after her complaint &lpar;Jane Friedman&rpar;](http://www.techmeme.com/230808/p8#a230808p8)
  - [SoftBank reports ~$426M profit for Vision Fund in Q1, up from a ~$16.4B loss in Q1 2022 and ~$30B in FY2022; Vision Fund invested $1.6B in Q1; Arm lost ~$66.4M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p7#a230808p7)
  - [Matter&#39;s biggest problem is that companies can&#39;t agree on how to support Thread, a protocol Matter picked, especially for border routers joining mesh networks &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230808/p6#a230808p6)
- - [Fortnite’s new Jujutsu Kaisen anime collab adds themed outfits and quests](https://www.theverge.com/2023/8/8/23823380/fortnite-jujutsu-kaisen-anime-crossover-event)
- - [Prosecraft, a site that compiled 27K+ books to compare and rank the &quot;vividness&quot; of their language, shuts down after writers&#39; backlash over its possible AI uses &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230808/p5#a230808p5)<!-- TECH:END -->
+ - [Fortnite’s new Jujutsu Kaisen anime collab adds themed outfits and quests](https://www.theverge.com/2023/8/8/23823380/fortnite-jujutsu-kaisen-anime-crossover-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

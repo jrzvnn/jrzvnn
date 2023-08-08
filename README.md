@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gizmodo editor-in-chief sues Apple over Tetris movie](https://www.theverge.com/2023/8/8/23824821/apple-tetris-film-dan-ackerman-book-lawsuit)
+ - [Samsung Galaxy Watch 6 review: better battery, slimmer bezels, Wear OS 4, and overall improvements, but little has changed, pricier, and works best with Samsung &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230808/p33#a230808p33)
  - [Microsoft shortens its Xbox Game Pass trials just before Starfield’s release](https://www.theverge.com/2023/8/8/23824853/microsoft-xbox-game-pass-ultimate-trial-14-days-starfield-release)
  - [NBA games could land on Apple TV+ in local rights grab](https://appleinsider.com/articles/23/08/08/nba-games-could-land-on-apple-tv-in-local-rights-grab?utm_medium=rss)
- - [Joe Biden’s new monument near the Grand Canyon stops some — but not all — uranium mining](https://www.theverge.com/2023/8/8/23824490/joe-biden-new-national-monument-grand-canyon-uranium-mine)
- - [Hackers had access to UK voter data for over a year before anyone noticed](https://www.theverge.com/2023/8/8/23824516/uk-voter-data-exposed-cyberattack-election-commission)
- - [Google Messages now encrypts RCS conversations by default](https://www.theverge.com/2023/8/8/23824800/google-messages-rcs-end-to-end-encryption-default-group)<!-- TECH:END -->
+ - [Joe Biden’s new monument near the Grand Canyon stops some — but not all — uranium mining](https://www.theverge.com/2023/8/8/23824490/joe-biden-new-national-monument-grand-canyon-uranium-mine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

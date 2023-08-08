@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will stop showing users recommended videos in some places, including the homepage, when watch history is turned off entirely &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230808/p38#a230808p38)
  - [Compared: iPhone 14 and iPhone 14 Plus vs Nothing Phone&lpar;2&rpar;](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-and-iphone-14-plus-vs-nothing-phone2?utm_medium=rss)
  - [Twilio reports Q2 revenue up 10% YoY to $1.04B vs. $986M est., active customer accounts up 11% YoY to 304K+, and raises FY 2023 profit outlook; TWLO jumps 9%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230808/p37#a230808p37)
  - [Toast reports Q2 revenue up 45% YoY to $978M, vs. $943M est., and a positive free cash flow for the first time since its IPO, with $39M; TOST jumps 12%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230808/p36#a230808p36)
- - [Lyft reports Q2 revenue up 3% YoY to $1.02B, a net loss of $114.3M, and active riders up 8.2% YoY to 21.49M, its highest levels since the pandemic &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230808/p35#a230808p35)
- - [IT firm CDW adds support for Apple Business Essentials](https://appleinsider.com/articles/23/08/08/it-firm-cdw-adds-support-for-apple-business-essentials?utm_medium=rss)<!-- TECH:END -->
+ - [Lyft reports Q2 revenue up 3% YoY to $1.02B, a net loss of $114.3M, and active riders up 8.2% YoY to 21.49M, its highest levels since the pandemic &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230808/p35#a230808p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 😝 [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
- - 💣 [The Disney Effect](http://9gag.com/gag/a7qGWNq)
+ - 😝 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
+ - 💣 [I&#39;m southeast-asian and I felt way more comfortable/safe being around white people. The white people were a lot more polite and well mannered.](http://9gag.com/gag/adPdPq2)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [How is he still alive](http://9gag.com/gag/axoA7x1)<!-- MEMES:END -->
+ - 👉 [Robin chwaaan](http://9gag.com/gag/amAdAgj)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to use AR to guide you to your ride-sharing Apple Car](https://appleinsider.com/articles/23/08/08/apple-wants-to-use-ar-to-guide-you-to-your-ride-sharing-apple-car?utm_medium=rss)
- - [Pokémon Scarlet and Violet’s DLC has a release date and a bunch of new monsters](https://www.theverge.com/2023/8/8/23824253/pokemon-scarlet-violet-the-teal-mask-release-date-dipplin-archaludon)
- - [Apple’s first trailer for The Changeling teases a haunting tale about parenthood](https://www.theverge.com/23824304/the-changeling-apple-tv-plus-trailer)
- - [AI regulation is taking shape, but startups are being left out](https://www.theverge.com/2023/8/8/23820423/ai-startups-regulation-big-tech)
- - [WhatsApp introduces screen sharing during video calls, rolling out on iOS, Android, and Windows, and support for landscape mode on video calls &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230808/p22#a230808p22)<!-- TECH:END -->
+ - [Daily deals Aug. 8: $100 off iPad mini, AirPods Max $325, 15&quot; MacBook Air $1,099, more](https://appleinsider.com/articles/23/08/08/daily-deals-aug-8-100-off-ipad-mini-airpods-max-325-15-macbook-air-1099-more?utm_medium=rss)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Two old-school Pokémon games just came to the Nintendo Switch](https://www.theverge.com/2023/8/8/23824277/pokemon-stadium-2-switch-online-pokemon-trading-card-game)
+ - [Dish is merging with a satellite internet company to boost its 5G network](https://www.theverge.com/2023/8/8/23824206/dish-network-5g-satellite-merger)
+ - [WhatsApp’s screen-sharing feature is now rolling out to more users](https://www.androidauthority.com/whatsapp-screen-sharing-rolling-out-3353302/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

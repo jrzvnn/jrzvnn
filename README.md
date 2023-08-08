@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Simon Data, which uses ML to help leverage customer data for marketing, raised a $54M Series D led by Macquarie Capital, taking its total funding to $113M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230808/p20#a230808p20)
  - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
  - [Apple and Samsung line up to invest in Arm](https://www.theverge.com/2023/8/8/23824160/arm-ipo-apple-samsung-nvidia-intel)
  - [Chargeflow, which uses ML to help businesses deal with chargeback disputes, raised an $11M seed led by OpenView and a $3M pre-seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p19#a230808p19)
- - [It’s time to change how we cover Elon Musk](https://www.theverge.com/2023/8/8/23824184/elon-musk-news-coverage-criticism)
- - [A SCOTUS opinion in the NetChoice cases challenging social media content moderation laws in Texas and Florida will be far more impactful than Gonzalez v. Google &lpar;Jeff Kosseff/Wired&rpar;](http://www.techmeme.com/230808/p18#a230808p18)<!-- TECH:END -->
+ - [Nab an aloSIM eSIM for Life and $50 in Mobile Data Credit for $25     - CNET](https://www.cnet.com/deals/nab-an-alosim-esim-for-life-and-50-in-mobile-data-credit-for-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

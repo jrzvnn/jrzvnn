@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify&#39;s AI DJ expands to 50 countries around the world](https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world?utm_medium=rss)
+ - [Apple Pay officially launches in Chile](https://appleinsider.com/articles/23/08/08/apple-pay-officially-launches-in-chile?utm_medium=rss)
+ - [Valve is seemingly gearing up to sell refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824529/valve-steam-deck-refurbished-listings)
  - [ASUS is apparently killing the ability to root Zenfones &lpar;Update: Maybe not?&rpar;](https://www.androidauthority.com/asus-unlock-bootloader-tool-removed-3352783/)
- - [We’ve spotted a sensational deal on the best Google earbuds](https://www.androidauthority.com/google-pixel-buds-pro-deal-3353350/)
- - [Rival leaker claims new USB-C image the &#39;real deal&#39;](https://appleinsider.com/articles/23/08/08/rival-leaker-claims-new-usb-c-image-the-real-deal?utm_medium=rss)
- - [Apple TV+ unveils trailer for urban horror series, &#39;The Changeling&#39;](https://appleinsider.com/articles/23/08/08/apple-tv-unveils-trailer-for-urban-horror-series-the-changeling?utm_medium=rss)
- - [Nvidia announces AI Workbench, letting users create, test, and tweak LLMs from Hugging Face and others on local workstations before utilizing cloud resources &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p27#a230808p27)<!-- TECH:END -->
+ - [We’ve spotted a sensational deal on the best Google earbuds](https://www.androidauthority.com/google-pixel-buds-pro-deal-3353350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

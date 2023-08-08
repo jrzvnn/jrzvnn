@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google debuts Project IDX, an AI-enabled browser-based dev environment that uses Visual Studio Code Open Source and integrates with Google&#39;s PaLM 2-based Codey &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230808/p30#a230808p30)
+ - [KQED acquires studio behind Glynn Washington’s Snap Judgment](https://www.theverge.com/2023/8/8/23824496/kqed-snap-judgment-acquisition)
  - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
  - [Apple issues fifth watchOS 10 developer beta](https://appleinsider.com/articles/23/08/08/apple-issues-fifth-watchos-10-developer-beta?utm_medium=rss)
- - [New ‘Downfall’ Flaw Exposes Valuable Data in Generations of Intel Chips](https://www.wired.com/story/downfall-flaw-intel-chips/)
- - [Apple seeds fifth developer beta of tvOS 17](https://appleinsider.com/articles/23/08/08/apple-seeds-fifth-developer-beta-of-tvos-17?utm_medium=rss)
- - [Google Messages is now officially encrypted for all RCS chats and on by default](https://www.androidauthority.com/google-messages-encryption-default-3353380/)<!-- TECH:END -->
+ - [New ‘Downfall’ Flaw Exposes Valuable Data in Generations of Intel Chips](https://www.wired.com/story/downfall-flaw-intel-chips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

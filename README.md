@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Nvidia announces the Grace Hopper Superchip, a combination GPU and CPU relying on high-bandwidth memory 3, or HBM3e, expected to enter production in Q2 2024 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230808/p25#a230808p25)
+ - [Data management company Rubrik acquires Laminar, which helps companies manage public cloud data security, sources say for around $200M to $250M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230808/p24#a230808p24)
  - [Pre-order numbers prove Samsung has a long way to go with its foldable dreams](https://www.androidauthority.com/samsung-galaxy-z-flip-5-pre-order-numbers-3353304/)
- - [The SEC fines 11 Wall Street firms $289M total for poor recordkeeping by using apps including Signal, WhatsApp, and iMessage; CFTC fines four banks $260M total &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230808/p23#a230808p23)
- - [Mew and Mewtwo are coming to Pokémon Scarlet and Violet](https://www.theverge.com/2023/8/8/23824222/mew-mewtwo-pokemon-scarlet-and-violet)
- - [128GB is not enough storage for the Google Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-storage-128gb-opinion-3353219/)
- - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)<!-- TECH:END -->
+ - [The SEC fines 11 Wall Street firms $289M total for poor recordkeeping by using apps including Signal, WhatsApp, and iMessage; CFTC fines four banks $260M total &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230808/p23#a230808p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

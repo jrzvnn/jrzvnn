@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in late 2020, the NSA discovered that Chinese hackers had access to Japanese defense networks, with the problem persisting until at least early 2021 &lpar;Ellen Nakashima/Washington Post&rpar;](http://www.techmeme.com/230807/p30#a230807p30)
+ - [$5 billion Google lawsuit over ‘incognito mode’ tracking moves a step closer to trial](https://www.theverge.com/2023/8/7/23823878/google-privacy-tracking-incognito-mode-lawsuit-summary-judgment-denied)
+ - [Sources: in late 2020, the NSA discovered that Chinese hackers had access to Japanese defense networks, with the problem persisting until at least fall 2021 &lpar;Ellen Nakashima/Washington Post&rpar;](http://www.techmeme.com/230807/p30#a230807p30)
  - [Google Wear OS 4: Features, release date, and more](https://www.androidauthority.com/wear-os-4-features-release-3352001/)
  - [Microsoft Brings Bing AI to More Browsers     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-brings-bing-ai-to-more-browsers/#ftag=CAD590a51e)
- - [Apple’s M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM](https://www.theverge.com/2023/8/7/23823716/apple-macbook-pro-m3-max-2024-specs-details)
- - [How to use Spatial Audio when sharing audio in tvOS 17](https://appleinsider.com/inside/tvos-17/tips/how-to-use-spatial-audio-when-sharing-audio-in-tvos-17?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s M3 Max MacBook Pro rumored to have 40 GPU cores and up to 48GB of RAM](https://www.theverge.com/2023/8/7/23823716/apple-macbook-pro-m3-max-2024-specs-details)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

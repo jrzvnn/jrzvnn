@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 😝 [Anyone know a good animal exorcist](http://9gag.com/gag/aNwqprr)
- - 💣 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
- - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
+ - 😝 [How would you manage the situation?](http://9gag.com/gag/aREyXVM)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 💣 [Dear ladies, NO means NO !!!](http://9gag.com/gag/aPgp3An)
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
 
 ---
 </div>

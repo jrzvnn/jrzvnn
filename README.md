@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants to use AR to guide you to your ride-sharing Apple Car](https://appleinsider.com/articles/23/08/08/apple-wants-to-use-ar-to-guide-you-to-your-ride-sharing-apple-car?utm_medium=rss)
+ - [Pokémon Scarlet and Violet’s DLC has a release date and a bunch of new monsters](https://www.theverge.com/2023/8/8/23824253/pokemon-scarlet-violet-the-teal-mask-release-date-dipplin-archaludon)
  - [Apple’s first trailer for The Changeling teases a haunting tale about parenthood](https://www.theverge.com/23824304/the-changeling-apple-tv-plus-trailer)
  - [AI regulation is taking shape, but startups are being left out](https://www.theverge.com/2023/8/8/23820423/ai-startups-regulation-big-tech)
- - [WhatsApp introduces screen sharing during video calls, rolling out on iOS, Android, and Windows, and support for landscape mode on video calls &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230808/p22#a230808p22)
- - [Snag the Epson XP-6100 for $70 Off and Print Stunning Photos at Home     - CNET](https://www.cnet.com/deals/snag-the-epson-xp-6100-for-70-off-and-print-stunning-photos-at-home/#ftag=CAD590a51e)
- - [The first PCIe Gen 5 drives are here and fast, but do you have a need for speed?](https://www.theverge.com/23743546/pcie-gen-5-ssd-nvme-drive-speed-test-comparison-hands-on)<!-- TECH:END -->
+ - [WhatsApp introduces screen sharing during video calls, rolling out on iOS, Android, and Windows, and support for landscape mode on video calls &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230808/p22#a230808p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

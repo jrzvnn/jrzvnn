@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is now officially encrypted for all RCS chats and on by default](https://www.androidauthority.com/google-messages-encryption-default-3353380/)
- - [Apple distributes fifth macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/08/apple-distributes-fifth-macos-sonoma-developer-beta?utm_medium=rss)
- - [Can’t afford a Steam Deck? Valve may start selling discounted refurbished units](https://www.androidauthority.com/valve-steam-deck-refurbished-models-3353354/)
- - [Apple shares fifth iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/08/08/apple-shares-fifth-ios-17-ipados-17-developer-betas?utm_medium=rss)
- - [Dutch engineer Bram Moolenaar, who in 1991 released and then maintained the very popular Vim open source code editor, has died at 62 &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/230808/p29#a230808p29)<!-- TECH:END -->
+ - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
+ - [Apple issues fifth watchOS 10 developer beta](https://appleinsider.com/articles/23/08/08/apple-issues-fifth-watchos-10-developer-beta?utm_medium=rss)
+ - [New ‘Downfall’ Flaw Exposes Valuable Data in Generations of Intel Chips](https://www.wired.com/story/downfall-flaw-intel-chips/)
+ - [Apple seeds fifth developer beta of tvOS 17](https://appleinsider.com/articles/23/08/08/apple-seeds-fifth-developer-beta-of-tvos-17?utm_medium=rss)
+ - [Google Messages is now officially encrypted for all RCS chats and on by default](https://www.androidauthority.com/google-messages-encryption-default-3353380/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

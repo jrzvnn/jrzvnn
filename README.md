@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 💣 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
- - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
+ - 😝 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
+ - 😝 [Boys being boys](http://9gag.com/gag/a9qV16j)
+ - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 😝 [Two Years of opening my Dream Project in Yemen](http://9gag.com/gag/a1Px11b)
+ - 👉 [Kneeling sheep](http://9gag.com/gag/agodgmg)<!-- MEMES:END -->
 
 ---
 </div>

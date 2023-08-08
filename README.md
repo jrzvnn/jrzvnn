@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft reports Q2 revenue up 3% YoY to $1.02B, a net loss of $114.3M, and active riders up 8.2% YoY to 21.49M, its highest levels since the pandemic &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230808/p35#a230808p35)
  - [IT firm CDW adds support for Apple Business Essentials](https://appleinsider.com/articles/23/08/08/it-firm-cdw-adds-support-for-apple-business-essentials?utm_medium=rss)
  - [Baldur’s Gate 3 patch fixes indecent exposure bug](https://www.theverge.com/2023/8/8/23824769/baldurs-gate-3-hotfix-penis-clip-bug)
  - [What is Total by Verizon? Total by Verizon plans, pricing, and more](https://www.androidauthority.com/what-is-total-by-verizon-plans-3353099/)
- - [Google is picking up the pace of Chrome security update releases](https://www.theverge.com/2023/8/8/23824818/google-chrome-116-security-update-weekly-release)
- - [Roper Technologies, which makes engineering products for niche markets, acquires Syntellis, which sells enterprise performance management software, for $1.25B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p34#a230808p34)<!-- TECH:END -->
+ - [Google is picking up the pace of Chrome security update releases](https://www.theverge.com/2023/8/8/23824818/google-chrome-116-security-update-weekly-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

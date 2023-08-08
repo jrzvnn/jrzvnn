@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After countless examples of Elon Musk walking back announcements, the business media must rethink its coverage of X, Musk, and the fight with Mark Zuckerberg &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230808/p13#a230808p13)
  - [Apple expected to invest in Arm ahead of possible September IPO](https://appleinsider.com/articles/23/08/08/apple-expected-to-invest-in-arm-ahead-of-possible-september-ipo?utm_medium=rss)
  - [Samsung Galaxy Z Flip5 and Galaxy Z Fold5 Review: They Don’t Shine Quite as Bright](https://www.wired.com/review/samsung-galaxy-z-flip5-galaxy-z-fold5/)
  - [The AI Doomsday Bible Is a Book About the Atomic Bomb](https://www.wired.com/story/the-making-of-the-atomic-bomb-artificial-intelligence/)
- - [A New Blood Test May Predict Your Alzheimer’s Risk. Should You Take It?](https://www.wired.com/story/a-new-blood-test-may-predict-your-alzheimers-risk-should-you-take-it/)
- - [TSMC agrees to build a &amp;euro;10B plant in Germany&#39;s Dresden, owning 70% of the facility with Infineon, NXP, and Bosch each holding 10% stake, set to open in 2027 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230808/p12#a230808p12)<!-- TECH:END -->
+ - [A New Blood Test May Predict Your Alzheimer’s Risk. Should You Take It?](https://www.wired.com/story/a-new-blood-test-may-predict-your-alzheimers-risk-should-you-take-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

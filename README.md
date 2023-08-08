@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix launches game controller app for iPhone, but still doesn&#39;t offer games on TVs](https://appleinsider.com/articles/23/08/08/netflix-launches-game-controller-app-for-iphone-but-still-doesnt-offer-games-on-tvs?utm_medium=rss)
+ - [Sources: Google and UMG are in early talks to license melodies and voices for AI-made songs; goals include making a tool for fans and paying copyright owners &lpar;Financial Times&rpar;](http://www.techmeme.com/230808/p32#a230808p32)
  - [Apple issues third developer beta for AirPods firmware](https://appleinsider.com/articles/23/08/08/apple-issues-third-developer-beta-for-airpods?utm_medium=rss)
  - [Gizmodo author sues Apple over &#39;Tetris&#39; movie](https://appleinsider.com/articles/23/08/08/gizmodo-author-sues-apple-over-tetris-movie?utm_medium=rss)
- - [Nvidia unveils more powerful AI chip coming next year](https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200)
- - [Today&#39;s Hacker interest in macOS ten times that of 2019](https://appleinsider.com/articles/23/08/08/todays-hacker-interest-in-macos-ten-times-that-of-2019?utm_medium=rss)
- - [YouTube will now show a blank homepage if you don’t have watch history on](https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history)<!-- TECH:END -->
+ - [Nvidia unveils more powerful AI chip coming next year](https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

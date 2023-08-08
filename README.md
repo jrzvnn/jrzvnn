@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have to go back!](http://9gag.com/gag/a6qxNem)
- - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
- - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 💣 [The Disney Effect](http://9gag.com/gag/a7qGWNq)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 👉 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)<!-- MEMES:END -->
 
 ---
 </div>

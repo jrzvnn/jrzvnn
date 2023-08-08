@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Philippines races to defend its share of the ~$300B global business process outsourcing market, battling deteriorating talent, rising competition, and AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p10#a230808p10)
  - [Sex Workers Took Refuge in Crypto. Now It’s Failing Them](https://www.wired.com/story/sex-workers-crypto-failing-them/)
  - [Grimes on Living Forever, Dying on Mars, and Giving Elon Musk Ideas for His Best &lpar;Worst&rpar; Tweets](https://www.wired.com/story/grimes-big-interview/)
  - [Meet the Artists Reinventing Hip Hop on YouTube and TikTok](https://www.wired.com/story/milwaukee-hip-hop-tiktok-youtube/)
- - [TikTok unveils Gimme the Mic, a music competition hosted on livestreams where the US winner receives 50K Diamonds, the USD conversion rate for which is unclear &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230808/p9#a230808p9)
- - [An author finds multiple &quot;garbage books&quot; uploaded to Amazon under her name, most likely AI-generated, and on Goodreads, which removed them after her complaint &lpar;Jane Friedman&rpar;](http://www.techmeme.com/230808/p8#a230808p8)<!-- TECH:END -->
+ - [TikTok unveils Gimme the Mic, a music competition hosted on livestreams where the US winner receives 50K Diamonds, the USD conversion rate for which is unclear &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230808/p9#a230808p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

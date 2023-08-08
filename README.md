@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
- - 😝 [007](http://9gag.com/gag/anzdgNb)
- - 💣 [Boys being boys](http://9gag.com/gag/a9qV16j)
- - 😝 [Title](http://9gag.com/gag/aBdv2BD)
- - 👉 [The future is here, 9gag!](http://9gag.com/gag/aREy7Ey)<!-- MEMES:END -->
+ - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 😝 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
+ - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
+ - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Predicted this would happen sooner or later](http://9gag.com/gag/anzdg90)
- - 😝 [This was made ages ago, it finally became 100% accurate today.](http://9gag.com/gag/aeQdrWB)
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - 👉 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)<!-- MEMES:END -->
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 😝 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
+ - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
+ - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
 
 ---
 </div>

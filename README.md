@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK Electoral Commission reports a hack by &quot;hostile actors&quot; starting in August 2021 and identified in October 2022; the full scope isn&#39;t &quot;conclusively&quot; known &lpar;The Guardian&rpar;](http://www.techmeme.com/230808/p17#a230808p17)
- - [A look at archive.today, an opaque service to access paywalled content that hosts 1,000TB and uses a Russian analytics engine and Europe-based data centers &lpar;Jpatokal/Gyrovague&rpar;](http://www.techmeme.com/230808/p16#a230808p16)
- - [Call Her Daddy’s Alex Cooper is starting her own podcast network](https://www.theverge.com/2023/8/8/23823705/alex-cooper-unwell-podcast-network-call-her-daddy)
- - [Spotify expands its AI-powered DJ globally to ~50 markets, six months after its North American launch, available via the Music tab; the feature is English-only &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230808/p15#a230808p15)
- - [Ex-Apple retail head Angela Ahrendts joins Kim Kardashian](https://appleinsider.com/articles/23/08/08/ex-apple-retail-head-angela-ahrendts-joins-kim-kardashian?utm_medium=rss)<!-- TECH:END -->
+ - [Apple buys Foxconn servers for testing its AI services](https://appleinsider.com/articles/23/08/08/apple-buys-foxconn-servers-for-testing-its-ai-services?utm_medium=rss)
+ - [Dough is standing up a 32-inch 240Hz 4K OLED monitor for 2024](https://www.theverge.com/2023/8/8/23823844/dough-32-inch-4k-oled-monitor-spectrum-black)
+ - [GM says all of its EVs will be able to power your home by 2026](https://www.theverge.com/2023/8/8/23823166/gm-ev-bidirectional-charging-vehicle-to-home)
+ - [How to set up a Matter-over-Thread device in your smart home](https://www.theverge.com/23823041/matter-thread-device-setup-smart-home-how-to)
+ - [The $219 WiiM Pro Plus is a modern audio streamer for your existing hi-fi](https://www.theverge.com/2023/8/8/23822610/wiim-pro-plus-streamer-multiroom-audio-streaming-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

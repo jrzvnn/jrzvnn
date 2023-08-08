@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys being boys](http://9gag.com/gag/a9qV16j)
- - 😝 [Two Years of opening my Dream Project in Yemen](http://9gag.com/gag/a1Px11b)
- - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [Kneeling sheep](http://9gag.com/gag/agodgmg)<!-- MEMES:END -->
+ - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
 
 ---
 </div>

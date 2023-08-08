@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toast reports Q2 revenue up 45% YoY to $978M, vs. $943M est., and a positive free cash flow for the first time since its IPO, with $39M; TOST jumps 12%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230808/p36#a230808p36)
  - [Lyft reports Q2 revenue up 3% YoY to $1.02B, a net loss of $114.3M, and active riders up 8.2% YoY to 21.49M, its highest levels since the pandemic &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230808/p35#a230808p35)
  - [IT firm CDW adds support for Apple Business Essentials](https://appleinsider.com/articles/23/08/08/it-firm-cdw-adds-support-for-apple-business-essentials?utm_medium=rss)
  - [Baldur’s Gate 3 patch fixes indecent exposure bug](https://www.theverge.com/2023/8/8/23824769/baldurs-gate-3-hotfix-penis-clip-bug)
- - [What is Total by Verizon? Total by Verizon plans, pricing, and more](https://www.androidauthority.com/what-is-total-by-verizon-plans-3353099/)
- - [Google is picking up the pace of Chrome security update releases](https://www.theverge.com/2023/8/8/23824818/google-chrome-116-security-update-weekly-release)<!-- TECH:END -->
+ - [What is Total by Verizon? Total by Verizon plans, pricing, and more](https://www.androidauthority.com/what-is-total-by-verizon-plans-3353099/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

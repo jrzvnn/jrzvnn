@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI regulation is taking shape, but startups are being left out](https://www.theverge.com/2023/8/8/23820423/ai-startups-regulation-big-tech)
  - [WhatsApp introduces screen sharing during video calls, rolling out on iOS, Android, and Windows, and support for landscape mode on video calls &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230808/p22#a230808p22)
+ - [The first PCIe Gen 5 drives are here and fast, but do you have a need for speed?](https://www.theverge.com/23743546/pcie-gen-5-ssd-nvme-drive-speed-test-comparison-hands-on)
  - [Some of Weta’s powerful VFX tools will soon be available for everyone](https://www.theverge.com/2023/8/8/23824199/unity-weta-tools-division-vfx-3d-2d-production-beta)
- - [YouTuber converts Apple Watch to run mechanically](https://appleinsider.com/articles/23/08/08/youtuber-converts-apple-watch-to-run-mechanically?utm_medium=rss)
- - [Samsung Galaxy Watch 6 series review: refined, but not revolutionary](https://www.theverge.com/23818557/samsung-galaxy-watch-6-review-bezels-smartwatch-wearables)
- - [WhatsApp’s screen-sharing feature is leaving beta](https://www.theverge.com/2023/8/8/23824245/whatsapp-screen-sharing-feature)<!-- TECH:END -->
+ - [YouTuber converts Apple Watch to run mechanically](https://appleinsider.com/articles/23/08/08/youtuber-converts-apple-watch-to-run-mechanically?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

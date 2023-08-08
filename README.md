@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify&#39;s AI DJ expands to 50 countries around the world](https://appleinsider.com/articles/23/08/08/spotifys-ai-dj-expands-to-50-countries-around-the-world?utm_medium=rss)
- - [Apple Pay officially launches in Chile](https://appleinsider.com/articles/23/08/08/apple-pay-officially-launches-in-chile?utm_medium=rss)
- - [Valve is seemingly gearing up to sell refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824529/valve-steam-deck-refurbished-listings)
- - [ASUS is apparently killing the ability to root Zenfones &lpar;Update: Maybe not?&rpar;](https://www.androidauthority.com/asus-unlock-bootloader-tool-removed-3352783/)
- - [We’ve spotted a sensational deal on the best Google earbuds](https://www.androidauthority.com/google-pixel-buds-pro-deal-3353350/)<!-- TECH:END -->
+ - [Google Messages is now officially encrypted for all RCS chats and on by default](https://www.androidauthority.com/google-messages-encryption-default-3353380/)
+ - [Apple distributes fifth macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/08/apple-distributes-fifth-macos-sonoma-developer-beta?utm_medium=rss)
+ - [Can’t afford a Steam Deck? Valve may start selling discounted refurbished units](https://www.androidauthority.com/valve-steam-deck-refurbished-models-3353354/)
+ - [Apple shares fifth iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/08/08/apple-shares-fifth-ios-17-ipados-17-developer-betas?utm_medium=rss)
+ - [Dutch engineer Bram Moolenaar, who in 1991 released and then maintained the very popular Vim open source code editor, has died at 62 &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/230808/p29#a230808p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

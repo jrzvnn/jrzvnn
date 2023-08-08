@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s new virtual game controller iOS app hints at TV gaming](https://www.theverge.com/2023/8/8/23824509/netflix-game-controller-tv-gaming-ios-app)
- - [For this startup, Nvidia GPUs are currency](https://www.theverge.com/2023/8/8/23824661/coreweave-nvidia-debt-gpu-ai-chips-collateral)
- - [The Mystery Genes That Are Keeping You Alive](https://www.wired.com/story/unknome-proteins-human-genome/)
- - [Google debuts Project IDX, an AI-enabled browser-based dev environment that uses Visual Studio Code Open Source and integrates with Google&#39;s PaLM 2-based Codey &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230808/p30#a230808p30)
- - [KQED acquires studio behind Glynn Washington’s Snap Judgment](https://www.theverge.com/2023/8/8/23824496/kqed-snap-judgment-acquisition)<!-- TECH:END -->
+ - [YouTube will now show a blank homepage if you don’t have watch history on](https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history)
+ - [Valve is now selling refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824739/valve-steam-deck-certified-refurbished-price-listings)
+ - [The best Google Pixel deals of August 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Google launches group E2E encryption for its Messages app and says RCS will now be turned on by default in Messages for both new and existing users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230808/p31#a230808p31)
+ - [Netflix’s new virtual game controller iOS app hints at TV gaming](https://www.theverge.com/2023/8/8/23824509/netflix-game-controller-tv-gaming-ios-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
- - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
+ - 😝 [We have to go back!](http://9gag.com/gag/a6qxNem)
+ - 😝 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 💣 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 </div>

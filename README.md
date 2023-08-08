@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: some global investors including Warburg Pincus and GIC opt out of Ant Group&#39;s proposed share buyback after the company&#39;s valuation was slashed by 70%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p1#a230808p1)
  - [Flash deal: Apple&#39;s M1 MacBook Pro &lpar;16GB RAM, 1TB SSD&rpar; with AppleCare plunges to $1,399](https://appleinsider.com/articles/23/08/08/flash-deal-apples-m1-macbook-pro-16gb-ram-1tb-with-applecare-plunges-to-1399?utm_medium=rss)
  - [Austin-based One Model, which uses AI to help employers make recruiting, hiring, layoffs, and other HR decisions, raised $41M led by Riverwood Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230807/p33#a230807p33)
  - [$5 billion Google lawsuit over ‘incognito mode’ tracking moves a step closer to trial](https://www.theverge.com/2023/8/7/23823878/google-privacy-tracking-incognito-mode-lawsuit-summary-judgment-denied)
- - [Atlanta-based Tractian, which uses AI and edge computing to identify industrial machine failures, raised a $45M Series B led by General Catalyst &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/230807/p32#a230807p32)
- - [A US judge denies Google a summary judgment in a $5B lawsuit over the way it tracked users&#39; internet activities in Incognito mode, pushing it closer to a trial &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230807/p31#a230807p31)<!-- TECH:END -->
+ - [Atlanta-based Tractian, which uses AI and edge computing to identify industrial machine failures, raised a $45M Series B led by General Catalyst &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/230807/p32#a230807p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

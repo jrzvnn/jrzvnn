@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joke all you want, but this is a life saving tip](http://9gag.com/gag/a8qn5Yp)
- - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
- - 💣 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
- - 😝 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
- - 👉 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)<!-- MEMES:END -->
+ - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
+ - 💣 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
+ - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
 
 ---
 </div>

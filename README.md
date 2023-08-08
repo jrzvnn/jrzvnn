@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pre-order numbers prove Samsung has a long way to go with its foldable dreams](https://www.androidauthority.com/samsung-galaxy-z-flip-5-pre-order-numbers-3353304/)
+ - [The SEC fines 11 Wall Street firms $289M total for poor recordkeeping by using apps including Signal, WhatsApp, and iMessage; CFTC fines four banks $260M total &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230808/p23#a230808p23)
+ - [Mew and Mewtwo are coming to Pokémon Scarlet and Violet](https://www.theverge.com/2023/8/8/23824222/mew-mewtwo-pokemon-scarlet-and-violet)
  - [128GB is not enough storage for the Google Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-storage-128gb-opinion-3353219/)
- - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
- - [How to share your screen on WhatsApp](https://www.androidauthority.com/how-to-screen-share-on-whatsapp-3333172/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Daily deals Aug. 8: $100 off iPad mini, AirPods Max $325, 15&quot; MacBook Air $1,099, more](https://appleinsider.com/articles/23/08/08/daily-deals-aug-8-100-off-ipad-mini-airpods-max-325-15-macbook-air-1099-more?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

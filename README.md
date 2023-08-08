@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upcoming Bose QuietComfort range leaked: Two ‘Ultra’ models in the making](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-earbuds-leak-3353183/)
  - [Sources including current and former Stability AI employees describe a chaotic company led by an inexperienced CEO often unable to deliver on his lofty promises &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p4#a230808p4)
  - [Researchers tested 14 LLMs for political bias and found OpenAI&#39;s GPT-4 was the most left-wing libertarian and Meta&#39;s LLaMA was the most right-wing authoritarian &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/230808/p3#a230808p3)
  - [China releases draft rules for limiting the use of facial recognition to &quot;specific purposes and full necessity,&quot; requiring individual approval, and more &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230808/p2#a230808p2)
- - [Sources: some global investors including Warburg Pincus and GIC opt out of Ant Group&#39;s proposed share buyback after the company&#39;s valuation was slashed by 70%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p1#a230808p1)
- - [Flash deal: Apple&#39;s M1 MacBook Pro &lpar;16GB RAM, 1TB SSD&rpar; with AppleCare plunges to $1,399](https://appleinsider.com/articles/23/08/08/flash-deal-apples-m1-macbook-pro-16gb-ram-1tb-with-applecare-plunges-to-1399?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: some global investors including Warburg Pincus and GIC opt out of Ant Group&#39;s proposed share buyback after the company&#39;s valuation was slashed by 70%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p1#a230808p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite’s new Jujutsu Kaisen anime collab adds themed outfits and quests](https://www.theverge.com/2023/8/8/23823380/fortnite-jujutsu-kaisen-anime-crossover-event)
  - [Prosecraft, a site that compiled 27K+ books to compare and rank the &quot;vividness&quot; of their language, shuts down after writers&#39; backlash over its possible AI uses &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230808/p5#a230808p5)
  - [What is a 2 in 1 laptop? Pros, cons, and recommendations](https://www.androidauthority.com/what-is-2-in-1-laptop-3353168/)
  - [EU joins threat to Adobe’s $20 Billion Figma acquisition with new probe](https://www.theverge.com/2023/8/8/23810981/eu-probe-investigation-adobe-figma-20-billion-merger-acquisition)
- - [Apple’s M3 Max MacBook Pro could be a performance beast](https://www.androidauthority.com/apple-m3-max-macbook-pro-leak-3353186/)
- - [Upcoming Bose QuietComfort range leaked: Two ‘Ultra’ models in the making](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-earbuds-leak-3353183/)<!-- TECH:END -->
+ - [Apple’s M3 Max MacBook Pro could be a performance beast](https://www.androidauthority.com/apple-m3-max-macbook-pro-leak-3353186/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

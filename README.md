@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A SCOTUS opinion in the NetChoice cases challenging social media content moderation laws in Texas and Florida will be far more impactful than Gonzalez v. Google &lpar;Jeff Kosseff/Wired&rpar;](http://www.techmeme.com/230808/p18#a230808p18)
+ - [TSMC expected to approve $11 billion Germany chip factory plans](https://appleinsider.com/articles/23/08/08/tsmc-expected-to-approve-11-billion-germany-chip-factory-plans?utm_medium=rss)
+ - [Apple’s iPad Mini is $100 off](https://www.theverge.com/2023/8/8/23823002/apple-ipad-mini-deal-google-pixel-7-logitech-k380-keyboard-sale)
  - [Apple buys Foxconn servers for testing its AI services](https://appleinsider.com/articles/23/08/08/apple-buys-foxconn-servers-for-testing-its-ai-services?utm_medium=rss)
- - [Dough is standing up a 32-inch 240Hz 4K OLED monitor for 2024](https://www.theverge.com/2023/8/8/23823844/dough-32-inch-4k-oled-monitor-spectrum-black)
- - [GM says all of its EVs will be able to power your home by 2026](https://www.theverge.com/2023/8/8/23823166/gm-ev-bidirectional-charging-vehicle-to-home)
- - [How to set up a Matter-over-Thread device in your smart home](https://www.theverge.com/23823041/matter-thread-device-setup-smart-home-how-to)
- - [The $219 WiiM Pro Plus is a modern audio streamer for your existing hi-fi](https://www.theverge.com/2023/8/8/23822610/wiim-pro-plus-streamer-multiroom-audio-streaming-release-date)<!-- TECH:END -->
+ - [Why Is It So Hard for Scholars to Launch Startups?](https://www.wired.com/story/academia-science-technology-entrepreneurship-innovation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

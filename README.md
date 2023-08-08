@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple issues third developer beta for AirPods firmware](https://appleinsider.com/articles/23/08/08/apple-issues-third-developer-beta-for-airpods?utm_medium=rss)
  - [Gizmodo author sues Apple over &#39;Tetris&#39; movie](https://appleinsider.com/articles/23/08/08/gizmodo-author-sues-apple-over-tetris-movie?utm_medium=rss)
  - [Nvidia unveils more powerful AI chip coming next year](https://www.theverge.com/2023/8/8/23824690/nvidia-generative-ai-chip-gpu-gh200)
  - [Today&#39;s Hacker interest in macOS ten times that of 2019](https://appleinsider.com/articles/23/08/08/todays-hacker-interest-in-macos-ten-times-that-of-2019?utm_medium=rss)
- - [YouTube will now show a blank homepage if you don’t have watch history on](https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history)
- - [Valve is now selling refurbished Steam Decks](https://www.theverge.com/2023/8/8/23824739/valve-steam-deck-certified-refurbished-price-listings)<!-- TECH:END -->
+ - [YouTube will now show a blank homepage if you don’t have watch history on](https://www.theverge.com/2023/8/8/23824672/youtube-blank-homepage-watch-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

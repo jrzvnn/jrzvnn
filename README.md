@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
  - [The Philippines races to defend its share of the ~$300B global business process outsourcing market, battling deteriorating talent, rising competition, and AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p10#a230808p10)
  - [Sex Workers Took Refuge in Crypto. Now It’s Failing Them](https://www.wired.com/story/sex-workers-crypto-failing-them/)
  - [Grimes on Living Forever, Dying on Mars, and Giving Elon Musk Ideas for His Best &lpar;Worst&rpar; Tweets](https://www.wired.com/story/grimes-big-interview/)
- - [Meet the Artists Reinventing Hip Hop on YouTube and TikTok](https://www.wired.com/story/milwaukee-hip-hop-tiktok-youtube/)
- - [TikTok unveils Gimme the Mic, a music competition hosted on livestreams where the US winner receives 50K Diamonds, the USD conversion rate for which is unclear &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230808/p9#a230808p9)<!-- TECH:END -->
+ - [Meet the Artists Reinventing Hip Hop on YouTube and TikTok](https://www.wired.com/story/milwaukee-hip-hop-tiktok-youtube/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

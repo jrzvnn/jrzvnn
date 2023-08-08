@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IT firm CDW adds support for Apple Business Essentials](https://appleinsider.com/articles/23/08/08/it-firm-cdw-adds-support-for-apple-business-essentials?utm_medium=rss)
+ - [Baldur’s Gate 3 patch fixes indecent exposure bug](https://www.theverge.com/2023/8/8/23824769/baldurs-gate-3-hotfix-penis-clip-bug)
  - [What is Total by Verizon? Total by Verizon plans, pricing, and more](https://www.androidauthority.com/what-is-total-by-verizon-plans-3353099/)
  - [Google is picking up the pace of Chrome security update releases](https://www.theverge.com/2023/8/8/23824818/google-chrome-116-security-update-weekly-release)
- - [Roper Technologies, which makes engineering products for niche markets, acquires Syntellis, which sells enterprise performance management software, for $1.25B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p34#a230808p34)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Gizmodo editor-in-chief sues Apple over Tetris movie](https://www.theverge.com/2023/8/8/23824821/apple-tetris-film-dan-ackerman-book-lawsuit)<!-- TECH:END -->
+ - [Roper Technologies, which makes engineering products for niche markets, acquires Syntellis, which sells enterprise performance management software, for $1.25B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p34#a230808p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

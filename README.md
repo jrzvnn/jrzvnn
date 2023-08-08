@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
  - 😝 [North-Korean cheerleaders at the 2018 Winter Olympics in PyeongChang.](http://9gag.com/gag/a3ZxRG1)
- - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 😝 [Fastest writer in the world](http://9gag.com/gag/aMEWxBX)
+ - 💣 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
  - 👉 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)<!-- MEMES:END -->
 

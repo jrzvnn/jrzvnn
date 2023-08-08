@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage is great](http://9gag.com/gag/aXndYx9)
- - 😝 [Most evil outcome in history](http://9gag.com/gag/aoKdeV2)
- - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 😝 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)
- - 👉 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)<!-- MEMES:END -->
+ - 😝 [Lasers aren&#39;t real](http://9gag.com/gag/aDYP4WK)
+ - 😝 [007](http://9gag.com/gag/anzdgNb)
+ - 💣 [Boys being boys](http://9gag.com/gag/a9qV16j)
+ - 😝 [Title](http://9gag.com/gag/aBdv2BD)
+ - 👉 [The future is here, 9gag!](http://9gag.com/gag/aREy7Ey)<!-- MEMES:END -->
 
 ---
 </div>

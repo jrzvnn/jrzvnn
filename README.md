@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Daily deals Aug. 8: $100 off iPad mini, AirPods Max $325, 15&quot; MacBook Air $1,099, more](https://appleinsider.com/articles/23/08/08/daily-deals-aug-8-100-off-ipad-mini-airpods-max-325-15-macbook-air-1099-more?utm_medium=rss)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Two old-school Pokémon games just came to the Nintendo Switch](https://www.theverge.com/2023/8/8/23824277/pokemon-stadium-2-switch-online-pokemon-trading-card-game)
- - [Dish is merging with a satellite internet company to boost its 5G network](https://www.theverge.com/2023/8/8/23824206/dish-network-5g-satellite-merger)
- - [WhatsApp’s screen-sharing feature is now rolling out to more users](https://www.androidauthority.com/whatsapp-screen-sharing-rolling-out-3353302/)<!-- TECH:END -->
+ - [Dish is merging with a satellite internet company to boost its 5G network](https://www.theverge.com/2023/8/8/23824206/dish-network-5g-satellite-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

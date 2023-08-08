@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC agrees to build a &amp;euro;10B plant in Germany&#39;s Dresden, owning 70% of the facility with Infineon, NXP, and Bosch each holding 10% stake, set to open in 2027 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230808/p12#a230808p12)
- - [Source: Apple, Samsung, Nvidia, and Intel plan to invest in Arm&#39;s US IPO as soon as shares are listed in September; SoftBank owns 75% of Arm and Vision Fund 25% &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230808/p11#a230808p11)
- - [iPhone 15 USB-C connectors shown in claimed leak](https://appleinsider.com/articles/23/08/08/iphone-15-usb-c-connectors-shown-in-claimed-leak?utm_medium=rss)
- - [The Philippines races to defend its share of the ~$300B global business process outsourcing market, battling deteriorating talent, rising competition, and AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/230808/p10#a230808p10)
- - [Sex Workers Took Refuge in Crypto. Now It’s Failing Them](https://www.wired.com/story/sex-workers-crypto-failing-them/)<!-- TECH:END -->
+ - [Apple expected to invest in Arm ahead of possible September IPO](https://appleinsider.com/articles/23/08/08/apple-expected-to-invest-in-arm-ahead-of-possible-september-ipo?utm_medium=rss)
+ - [Samsung Galaxy Z Flip5 and Galaxy Z Fold5 Review: They Don’t Shine Quite as Bright](https://www.wired.com/review/samsung-galaxy-z-flip5-galaxy-z-fold5/)
+ - [The AI Doomsday Bible Is a Book About the Atomic Bomb](https://www.wired.com/story/the-making-of-the-atomic-bomb-artificial-intelligence/)
+ - [A New Blood Test May Predict Your Alzheimer’s Risk. Should You Take It?](https://www.wired.com/story/a-new-blood-test-may-predict-your-alzheimers-risk-should-you-take-it/)
+ - [TSMC agrees to build a &amp;euro;10B plant in Germany&#39;s Dresden, owning 70% of the facility with Infineon, NXP, and Bosch each holding 10% stake, set to open in 2027 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230808/p12#a230808p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

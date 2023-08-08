@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for Android users](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Nvidia announces the Grace Hopper Superchip, a combination GPU and CPU relying on high-bandwidth memory 3, or HBM3e, expected to enter production in Q2 2024 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230808/p25#a230808p25)
- - [Data management company Rubrik acquires Laminar, which helps companies manage public cloud data security, sources say for around $200M to $250M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230808/p24#a230808p24)
- - [Pre-order numbers prove Samsung has a long way to go with its foldable dreams](https://www.androidauthority.com/samsung-galaxy-z-flip-5-pre-order-numbers-3353304/)
- - [The SEC fines 11 Wall Street firms $289M total for poor recordkeeping by using apps including Signal, WhatsApp, and iMessage; CFTC fines four banks $260M total &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230808/p23#a230808p23)<!-- TECH:END -->
+ - [We’ve spotted a sensational deal on the best Google earbuds](https://www.androidauthority.com/google-pixel-buds-pro-deal-3353350/)
+ - [Rival leaker claims new USB-C image the &#39;real deal&#39;](https://appleinsider.com/articles/23/08/08/rival-leaker-claims-new-usb-c-image-the-real-deal?utm_medium=rss)
+ - [Apple TV+ unveils trailer for urban horror series, &#39;The Changeling&#39;](https://appleinsider.com/articles/23/08/08/apple-tv-unveils-trailer-for-urban-horror-series-the-changeling?utm_medium=rss)
+ - [Nvidia announces AI Workbench, letting users create, test, and tweak LLMs from Hugging Face and others on local workstations before utilizing cloud resources &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230808/p27#a230808p27)
+ - [Stability AI launches StableCode, a code generation LLM based on data from the open-source BigCode project, supporting Python, Go, Java, JavaScript, C, and C++ &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/230808/p26#a230808p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

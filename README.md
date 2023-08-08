@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are your thoughts?](http://9gag.com/gag/aL1b0X6)
- - 😝 [How is he still alive](http://9gag.com/gag/axoA7x1)
- - 💣 [22-year-old Shauna Rae is trapped in the body of an 8-year-old](http://9gag.com/gag/aQErRpw)
  - 😝 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 👉 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)<!-- MEMES:END -->
+ - 😝 [Anyone know a good animal exorcist](http://9gag.com/gag/aNwqprr)
+ - 💣 [This I would have paid to watch.](http://9gag.com/gag/az2B1gN)
+ - 😝 [You make me use 5% of my power](http://9gag.com/gag/a1PxRqv)
+ - 👉 [Marriage is great](http://9gag.com/gag/aXndYx9)<!-- MEMES:END -->
 
 ---
 </div>

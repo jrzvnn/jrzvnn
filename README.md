@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase&#39;s Base mainnet opens to the general public, with 100+ dApps and service providers as part of the ecosystem, following a launch for developers in July &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230809/p29#a230809p29)
+ - [Google’s Arts &amp; Culture app adds AI-generated poem postcards](https://www.theverge.com/2023/8/9/23826108/google-arts-culture-app-ai-generated-poem-postcards)
+ - [Coinbase&#39;s Base mainnet opens to the public featuring 100+ dApps and service providers as part of the ecosystem, after a developer-specific release in July 2023 &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230809/p29#a230809p29)
  - [$50 off the OnePlus Buds Pro 2 brings premium buds to a budget price](https://www.androidauthority.com/oneplus-buds-pro-2-deal-3353856/)
  - [Where have all the fitness bands gone?](https://www.theverge.com/23820207/fitness-bands-less-popular-wearables-smartwatches)
- - [Apple releases third public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/09/apple-releases-third-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
- - [Verizon apparently loves raising prices, so it’s doing so again for some plans](https://www.androidauthority.com/verizon-price-increase-2023-3353867/)<!-- TECH:END -->
+ - [Apple releases third public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/09/apple-releases-third-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

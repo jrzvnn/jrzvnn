@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is aiming for Westworld-like ease of design with generative AI tools](https://www.theverge.com/2023/8/9/23826070/roblox-generative-ai-westworld-playstation-switch)
- - [Beats Studio Pro now available in 24 additional countries worldwide](https://appleinsider.com/articles/23/08/09/beats-studio-pro-now-available-in-24-additional-countries-worldwide?utm_medium=rss)
- - [Ming-Chi Kuo says Apple&#39;s &#39;sweetheart deal&#39; with TSMC is no such thing](https://appleinsider.com/articles/23/08/09/ming-chi-kuo-says-apples-sweetheart-deal-with-tsmc-is-no-such-thing?utm_medium=rss)
- - [Galaxy Z Fold 5 torture test makes the Pixel Fold look incredibly fragile](https://www.androidauthority.com/galaxy-z-fold-5-torture-test-3353799/)
- - [A friendly reminder that bigger is not always better when it comes to EVs](https://www.theverge.com/2023/8/9/23824581/ev-suv-truck-cadillac-escalade-size-bloat-weight-safety-battery-emissions)<!-- TECH:END -->
+ - [$50 off the OnePlus Buds Pro 2 brings premium buds to a budget price](https://www.androidauthority.com/oneplus-buds-pro-2-deal-3353856/)
+ - [Where have all the fitness bands gone?](https://www.theverge.com/23820207/fitness-bands-less-popular-wearables-smartwatches)
+ - [Apple releases third public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/09/apple-releases-third-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
+ - [Verizon apparently loves raising prices, so it’s doing so again for some plans](https://www.androidauthority.com/verizon-price-increase-2023-3353867/)
+ - [Google is helping pilots route flights to create fewer contrails, which is better for the climate](https://www.theverge.com/2023/8/9/23825771/google-american-airlines-ai-flights-contrails-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 💣 [This one doesn\u2019t spark joy](http://9gag.com/gag/adPdPQ9)
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 👉 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)<!-- MEMES:END -->
 
 ---
 </div>

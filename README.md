@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 💣 [If you are a white farmer from SA and seek refuge in Europe, i can host a family of 3 or 4 in Retezat national park, Romania in a 3 rooms house. Your country is lost, dont risk your life.](http://9gag.com/gag/avQDe2Z)
+ - 😝 [If you are a white farmer from SA and seek refuge in Europe, i can host a family of 3 or 4 in Retezat national park, Romania in a 3 rooms house. Your country is lost, dont risk your life.](http://9gag.com/gag/avQDe2Z)
+ - 😝 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
  - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
- - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
+ - 👉 [American health care is wild](http://9gag.com/gag/aKELmQb)<!-- MEMES:END -->
 
 ---
 </div>

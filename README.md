@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Aug. 9: M1 iPad Pro from $660, $150 off a 24-inch iMac w/ AppleCare, Samsung monitors from $96, more](https://appleinsider.com/articles/23/08/09/daily-deals-aug-9-m1-ipad-pro-from-660-150-off-a-24-inch-imac-w-applecare-samsung-monitors-from-96-more?utm_medium=rss)
+ - [OnePlus will now offer lifetime screen warranty to address green line issue](https://www.androidauthority.com/oneplus-green-line-display-lifetime-warranty-3353701/)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 9&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-09-2023-3352961/)
  - [Lens maker Sony doesn&#39;t expect high demand for the iPhone 15](https://appleinsider.com/articles/23/08/09/lens-maker-sony-doesnt-expect-high-demand-for-the-iphone-15?utm_medium=rss)
- - [Slack announces its biggest-ever redesign, catering to power users, adding a new Home section, a new sidebar on the left, a new DMs section, and Activity window &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230809/p23#a230809p23)
- - [Apple iPad Pro &lpar;7th generation&rpar;: Release date, specs, price, rumors, and more](https://www.androidauthority.com/apple-ipad-pro-7th-generation-3352395/)
- - [Samsung Galaxy Z Fold 5 review: The future is unfolding](https://www.androidauthority.com/samsung-galaxy-z-fold-5-review-3351922/)<!-- TECH:END -->
+ - [Slack announces its biggest-ever redesign, catering to power users, adding a new Home section, a new sidebar on the left, a new DMs section, and Activity window &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230809/p23#a230809p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

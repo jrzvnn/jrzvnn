@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
- - 💣 [Kneeling sheep](http://9gag.com/gag/agodgmg)
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 💣 [My man](http://9gag.com/gag/aKELmzO)
  - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
  - 👉 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)<!-- MEMES:END -->
 

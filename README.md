@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ethernet not working? Here’s how to fix it](https://www.androidauthority.com/ethernet-not-working-3353204/)
  - [A look at Def Con&#39;s White House-backed Generative Red Team Challenge, where contestants try to make AI chatbots go rogue; the results will be sealed for months &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230808/p49#a230808p49)
  - [Sources: ex-FTX Digital Markets co-CEO Ryan Salame is in talks with prosecutors to plead guilty to criminal charges and may enter a plea as soon as September &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/230808/p48#a230808p48)
  - [Leaker jumps on iPhone 15 thin bezel bandwagon with questionable images](https://appleinsider.com/articles/23/08/09/leaker-jumps-on-iphone-15-thin-bezel-bandwagon-with-questionable-images?utm_medium=rss)
- - [Unity is releasing some of W&amp;#275;t&amp;amacr; FX&#39;s 2D and 3D tools, including Wig 1.0 for simulating hair and fur, into public beta under its new Unity W&amp;#275;t&amp;amacr; Tools division &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230808/p47#a230808p47)
- - [Catch Big Savings On These Tech Deals From StockX     - CNET](https://www.cnet.com/deals/catch-big-savings-on-these-tech-deals-from-stockx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unity is releasing some of W&amp;#275;t&amp;amacr; FX&#39;s 2D and 3D tools, including Wig 1.0 for simulating hair and fur, into public beta under its new Unity W&amp;#275;t&amp;amacr; Tools division &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230808/p47#a230808p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

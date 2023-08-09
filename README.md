@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s DualSense controllers for the PS5 are still on sale for just $49](https://www.theverge.com/2023/8/9/23824399/sony-dualsense-controller-samsung-galaxy-s23-plus-sennheiser-earbuds-deal-sale)
  - [Apple Watch may gain a new fabric band](https://appleinsider.com/articles/23/08/09/apple-watch-may-gain-a-new-fabric-band?utm_medium=rss)
  - [The Game Boy’s Pokémon Trading Card Game is still unrivaled 25 years later](https://www.theverge.com/23629432/pokemon-tcg-game-boy-nintendo-switch-online)
  - [Daily deals Aug. 9: M1 iPad Pro from $660, $150 off a 24-inch iMac w/ AppleCare, Samsung monitors from $96, more](https://appleinsider.com/articles/23/08/09/daily-deals-aug-9-m1-ipad-pro-from-660-150-off-a-24-inch-imac-w-applecare-samsung-monitors-from-96-more?utm_medium=rss)
- - [OnePlus will now offer lifetime screen warranty to address green line issue](https://www.androidauthority.com/oneplus-green-line-display-lifetime-warranty-3353701/)
- - [Anker&#39;s Ultrafast M5 3D Printer Is $240 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/this-3d-printer-is-insanely-fast-and-has-a-huge-discount-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus will now offer lifetime screen warranty to address green line issue](https://www.androidauthority.com/oneplus-green-line-display-lifetime-warranty-3353701/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

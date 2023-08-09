@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus and Hulu are about to get even more expensive](https://www.theverge.com/2023/8/9/23826500/disney-plus-hulu-no-ads-plan-price-increases)
+ - [Bob Iger says Disney is &quot;actively exploring ways&quot; to crack down on password sharing and &quot;will roll out tactics to drive monetization sometime in 2024&quot; &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/230809/p33#a230809p33)
  - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
  - [Disney is ‘actively exploring’ ways to crack down on password sharing](https://www.theverge.com/2023/8/9/23826310/disney-plus-password-sharing-earnings-q3-2023)
- - [Disney plans to raise US prices of Disney+ Premium, Hulu without ads, and ESPN+, and to expand Disney+ ad-supported plans to Canada and nine European countries &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230809/p32#a230809p32)
- - [Quizlet’s AI study tools think I’m a bad student](https://www.theverge.com/2023/8/9/23826191/quizlet-generative-ai-chatgpt-education)
- - [Sources: Baidu, ByteDance, Tencent, and Alibaba made orders worth $5B to acquire Nvidia chips, amid concerns that the US will soon clamp down on their export &lpar;Financial Times&rpar;](http://www.techmeme.com/230809/p31#a230809p31)<!-- TECH:END -->
+ - [Disney plans to raise US prices of Disney+ Premium, Hulu without ads, and ESPN+, and to expand Disney+ ad-supported plans to Canada and nine European countries &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230809/p32#a230809p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

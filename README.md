@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
- - 💣 [Every single time](http://9gag.com/gag/a9qV1rD)
+ - 😝 [Real Life Homelander &lpar;Subs in comments&rpar;](http://9gag.com/gag/aKELEN6)
+ - 😝 [I&#39;m southeast-asian and I felt way more comfortable/safe being around white people. The white people were a lot more polite and well mannered.](http://9gag.com/gag/adPdPq2)
+ - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
  - 👉 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)<!-- MEMES:END -->
 

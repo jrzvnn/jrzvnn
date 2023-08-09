@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy Enhance-X app: What is it and how to use it?](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-3352491/)
  - [A look at the Indian Institutes of Technology, established in the 1950s and 1960s to emulate MIT and now comprising 23 schools offering a path to tech success &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/230809/p6#a230809p6)
  - [Q&amp;A with AWS CEO Adam Selipsky on cloud competitors, layoffs, AI, Nvidia, the Trainium and Inferentia chips, the Amazon Bedrock library of AI models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230809/p5#a230809p5)
  - [NetChoice and Chamber of Progress back TikTok&#39;s lawsuit to stop a Montana law that is set to ban the use of the app on January 1, 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230809/p3#a230809p3)
- - [Sources: Bengaluru-based fantasy sports app Mobile Premier League, valued at $2.2B, cuts ~50% of its staff, after India announced a 28% online gaming tax &lpar;TechCrunch&rpar;](http://www.techmeme.com/230809/p2#a230809p2)
- - [Google strengthens Android 14 security to protect against cellular attacks](https://www.androidauthority.com/android-14-cellular-security-features-3353573/)<!-- TECH:END -->
+ - [Sources: Bengaluru-based fantasy sports app Mobile Premier League, valued at $2.2B, cuts ~50% of its staff, after India announced a 28% online gaming tax &lpar;TechCrunch&rpar;](http://www.techmeme.com/230809/p2#a230809p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

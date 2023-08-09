@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
  - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
  - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [Robin chwaaan](http://9gag.com/gag/amAdAgj)<!-- MEMES:END -->
+ - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 👉 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)<!-- MEMES:END -->
 
 ---
 </div>

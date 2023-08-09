@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China plans to require app developers to file business details with the government or face sanctions from March 2024, likely creating headaches for developers &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230809/p11#a230809p11)
  - [Nikon reports Q1 revenue up 8.6% YoY to $1.1B, profit down 78% YoY to ~$23M, and shipping four lithography machines, compared to eight in 2022; NINOY drops 11% &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230809/p10#a230809p10)
  - [In Kenya, the most active African country on TikTok, creators make money with protest livestreams, which protesters say help them stay safe from police violence &lpar;Martin K.N Siele/Rest of World&rpar;](http://www.techmeme.com/230809/p9#a230809p9)
  - [Xiaomi’s Galaxy Z Fold 5 rival with ‘no shortcomings’ launches next week](https://www.androidauthority.com/xiaomi-mix-fold-3-launch-date-3353603/)
- - [Coupang reports Q2 revenue up 21% YoY to $5.6B, a $145M net income, up from a $75.4M loss in Q2 2022, and plans to expand in Taiwan after a year of profits &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230809/p8#a230809p8)
- - [Sony reports Q1 revenue up 33% YoY to $20.7B and PS5 sales up 38% YoY to 3.3M; Sony had said the company expects to sell 25M PS5 units in the year to March 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/230809/p7#a230809p7)<!-- TECH:END -->
+ - [Coupang reports Q2 revenue up 21% YoY to $5.6B, a $145M net income, up from a $75.4M loss in Q2 2022, and plans to expand in Taiwan after a year of profits &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230809/p8#a230809p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

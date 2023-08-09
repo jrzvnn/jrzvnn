@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase&#39;s Base mainnet opens to the general public, with 100+ dApps and service providers as part of the ecosystem, following a launch for developers in July &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230809/p29#a230809p29)
  - [$50 off the OnePlus Buds Pro 2 brings premium buds to a budget price](https://www.androidauthority.com/oneplus-buds-pro-2-deal-3353856/)
  - [Where have all the fitness bands gone?](https://www.theverge.com/23820207/fitness-bands-less-popular-wearables-smartwatches)
  - [Apple releases third public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/09/apple-releases-third-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
- - [Verizon apparently loves raising prices, so it’s doing so again for some plans](https://www.androidauthority.com/verizon-price-increase-2023-3353867/)
- - [Google is helping pilots route flights to create fewer contrails, which is better for the climate](https://www.theverge.com/2023/8/9/23825771/google-american-airlines-ai-flights-contrails-climate-change)<!-- TECH:END -->
+ - [Verizon apparently loves raising prices, so it’s doing so again for some plans](https://www.androidauthority.com/verizon-price-increase-2023-3353867/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

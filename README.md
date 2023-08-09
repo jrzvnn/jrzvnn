@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 👉 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)<!-- MEMES:END -->
+ - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
+ - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [5 minutes in NYC and man already welcomed with local culture](http://9gag.com/gag/amAd19o)
  - 😝 [My man](http://9gag.com/gag/aKELmzO)
- - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 😝 [I think there&#39;s something wrong with my sushi](http://9gag.com/gag/a2Kxv01)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
+ - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---
 </div>

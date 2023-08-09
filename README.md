@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Panasonic Warns That the IoT Malware Cycle Is Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)
+ - [Filing: the US SEC plans to appeal a court ruling in July that Ripple&#39;s programmatic sales of XRP to retail investors on exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230809/p34#a230809p34)
+ - [Hackers Rig Casino Card-Shuffling Machines for ‘Full Control’ Cheating](https://www.wired.com/story/card-shuffler-hack/)
  - [Disney+, Hulu, and ESPN are all getting another price hike](https://appleinsider.com/articles/23/08/09/disney-hulu-and-espn-are-all-getting-another-price-hike?utm_medium=rss)
- - [Disney Plus and Hulu are about to get even more expensive](https://www.theverge.com/2023/8/9/23826500/disney-plus-hulu-no-ads-plan-price-increases)
- - [Bob Iger says Disney is &quot;actively exploring ways&quot; to crack down on password sharing and &quot;will roll out tactics to drive monetization sometime in 2024&quot; &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/230809/p33#a230809p33)
- - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
- - [Disney is ‘actively exploring’ ways to crack down on password sharing](https://www.theverge.com/2023/8/9/23826310/disney-plus-password-sharing-earnings-q3-2023)<!-- TECH:END -->
+ - [Disney Plus and Hulu are about to get even more expensive](https://www.theverge.com/2023/8/9/23826500/disney-plus-hulu-no-ads-plan-price-increases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

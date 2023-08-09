@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A cheaper Google Nest Wifi Pro could be on the way](https://www.androidauthority.com/cheaper-nest-wifi-pro-model-3353758/)
  - [Threads is getting some useful new features](https://www.theverge.com/2023/8/9/23825931/meta-threads-custom-alt-text-photos-videos-instagram-dm-mentions)
  - [10 Best Deals: Patagonia Sale, Cycling Accessories, and Camp Gear](https://www.wired.com/story/outdoor-deals-august-9-2023/)
  - [Cadillac’s Escalade IQ makes all other EVs look small](https://www.theverge.com/2023/8/9/23822742/cadillac-escalade-iq-ev-reveal)
- - [Copyright laws shouldn&#39;t apply to AI training, proposes Google](https://appleinsider.com/articles/23/08/09/copyright-laws-shouldnt-apply-to-ai-training-proposes-google?utm_medium=rss)
- - [Save up to $1,600 on MacBook Pro, plus deep discounts on MacBook Air &amp; Mac mini at B&amp;H](https://appleinsider.com/articles/23/08/09/save-up-to-1600-on-macbook-pro-plus-deep-discounts-on-macbook-air-mac-mini-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [Copyright laws shouldn&#39;t apply to AI training, proposes Google](https://appleinsider.com/articles/23/08/09/copyright-laws-shouldnt-apply-to-ai-training-proposes-google?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

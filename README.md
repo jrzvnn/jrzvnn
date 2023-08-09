@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaker claims to have A17 specifications ahead of iPhone 15 Pro release](https://appleinsider.com/articles/23/08/09/leaker-claims-to-have-a17-specifications-ahead-of-iphone-15-pro-release?utm_medium=rss)
+ - [The Continental is at capacity in new trailer for Peacock’s John Wick prequel series](https://www.theverge.com/23825985/the-continental-john-wick-peacock-trailer)
+ - [Verizon will soon raise prices on certain unlimited plans — yes, again](https://www.theverge.com/2023/8/9/23825947/verizon-go-beyond-above-unlimited-data-price-increase)
  - [Supreme Court backs Apple in App Store payment row -- for now](https://appleinsider.com/articles/23/08/09/supreme-court-backs-apple-in-app-store-payment-row----for-now?utm_medium=rss)
- - [The Twitch-Fueled Catastrophe of Kai Cenat&#39;s New York City Giveaway](https://www.wired.com/story/kai-cenat-union-square-meaning/)
- - [Twitter fined $350K for taking too long to hand over January 6th data](https://www.theverge.com/2023/8/9/23826105/twitter-fine-doj-special-counsel-trump-investigation)
- - [Filing: Twitter was fined $350K for not giving Trump&#39;s account records after special counsel Jack Smith got a warrant in January; Twitter ultimately complied &lpar;CNN&rpar;](http://www.techmeme.com/230809/p27#a230809p27)
- - [Newegg’s ChatGPT-powered review summaries could help you pick your next PC part](https://www.theverge.com/2023/8/9/23825805/newegg-chatgpt-review-summaries-ai)<!-- TECH:END -->
+ - [The Twitch-Fueled Catastrophe of Kai Cenat&#39;s New York City Giveaway](https://www.wired.com/story/kai-cenat-union-square-meaning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

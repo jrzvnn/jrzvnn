@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Baidu, ByteDance, Tencent, and Alibaba made orders worth $5B to acquire Nvidia chips, amid concerns that the US will soon clamp down on their export &lpar;Financial Times&rpar;](http://www.techmeme.com/230809/p31#a230809p31)
- - [Whitney Wolfe Herd is coming to the Code Conference](https://www.theverge.com/2023/8/9/23826211/bumble-ceo-whitney-wolfe-herd-code-conference-2023)
- - [You can now verify your Threads profile on Mastodon](https://www.theverge.com/2023/8/9/23826257/threads-verify-profile-mastodon-decentralized-platforms-fediverse)
- - [A Clever Honeypot Tricked Hackers Into Revealing Their Secrets](https://www.wired.com/story/hacker-honeypot-go-secure/)
- - [Biden signs an executive order banning US investments in some Chinese companies developing advanced semiconductors and quantum computers, starting in 2024 &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/230809/p30#a230809p30)<!-- TECH:END -->
+ - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
+ - [Disney is ‘actively exploring’ ways to crack down on password sharing](https://www.theverge.com/2023/8/9/23826310/disney-plus-password-sharing-earnings-q3-2023)
+ - [Disney plans to raise US prices of Disney+ Premium, Hulu without ads, and ESPN+, and to expand Disney+ ad-supported plans to Canada and nine European countries &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230809/p32#a230809p32)
+ - [Quizlet’s AI study tools think I’m a bad student](https://www.theverge.com/2023/8/9/23826191/quizlet-generative-ai-chatgpt-education)
+ - [Sources: Baidu, ByteDance, Tencent, and Alibaba made orders worth $5B to acquire Nvidia chips, amid concerns that the US will soon clamp down on their export &lpar;Financial Times&rpar;](http://www.techmeme.com/230809/p31#a230809p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

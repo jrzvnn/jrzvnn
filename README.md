@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
  - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
- - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - 👉 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)<!-- MEMES:END -->
+ - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
+ - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - 👉 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)<!-- MEMES:END -->
 
 ---
 </div>

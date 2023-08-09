@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTuber subjects the Galaxy Z Flip 5 to a week of continuous folding to see when it breaks](https://www.theverge.com/23825641/samsung-galaxy-z-flip-5-mrkeybrd-durability-test-fold-motorola-razr)
+ - [Aptos Labs partners with Microsoft to build a ChatGPT-powered Aptos Assistant and plans to host validator notes on Azure; GitHub will add Aptos&#39; Move to Copilot &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/230809/p20#a230809p20)
+ - [China tightens its grip on foreign and independent app developers](https://appleinsider.com/articles/23/08/09/china-tightens-its-grip-on-foreign-and-independent-app-developers?utm_medium=rss)
  - [The US Commerce Department says over 460 companies have expressed an interest in winning some of the $52.7B CHIPS Act funding, which includes $39B for chips &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230809/p19#a230809p19)
- - [Google finally adds native translate capability to its Gmail app on Android, available now, and on iOS, rolling out in the coming weeks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230809/p18#a230809p18)
- - [Lexie B2 Hearing Aids Review: Great Sound, Geriatric Look](https://www.wired.com/review/lexie-b2-bose-hearing-aids/)
- - [How to Remove Your Info From Google With the &#39;Results About You&#39; Tool](https://www.wired.com/story/results-about-you-remove-personal-info-from-google/)
- - [It’s Tesla versus everyone else in the race for EV dominance](https://www.theverge.com/2023/8/9/23824868/tesla-ev-competition-market-share-land-of-the-giants)<!-- TECH:END -->
+ - [Google finally adds native translate capability to its Gmail app on Android, available now, and on iOS, rolling out in the coming weeks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230809/p18#a230809p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

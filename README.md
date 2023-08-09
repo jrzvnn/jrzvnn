@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 💣 [This is some next level 9gag bubble sh*t](http://9gag.com/gag/a04xo6O)
- - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - 👉 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)<!-- MEMES:END -->
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 💣 [If you are a white farmer from SA and seek refuge in Europe, i can host a family of 3 or 4 in Retezat national park, Romania in a 3 rooms house. Your country is lost, dont risk your life.](http://9gag.com/gag/avQDe2Z)
+ - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
 </div>

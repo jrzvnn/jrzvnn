@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s upper parliament passes the Digital Personal Data Protection Bill, including up to $30M fines and child wellbeing rules; the president must now approve &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230809/p24#a230809p24)
  - [Sony’s DualSense controllers for the PS5 are still on sale for just $49](https://www.theverge.com/2023/8/9/23824399/sony-dualsense-controller-samsung-galaxy-s23-plus-sennheiser-earbuds-deal-sale)
  - [Apple Watch may gain a new fabric band](https://appleinsider.com/articles/23/08/09/apple-watch-may-gain-a-new-fabric-band?utm_medium=rss)
  - [The Game Boy’s Pokémon Trading Card Game is still unrivaled 25 years later](https://www.theverge.com/23629432/pokemon-tcg-game-boy-nintendo-switch-online)
- - [Daily deals Aug. 9: M1 iPad Pro from $660, $150 off a 24-inch iMac w/ AppleCare, Samsung monitors from $96, more](https://appleinsider.com/articles/23/08/09/daily-deals-aug-9-m1-ipad-pro-from-660-150-off-a-24-inch-imac-w-applecare-samsung-monitors-from-96-more?utm_medium=rss)
- - [OnePlus will now offer lifetime screen warranty to address green line issue](https://www.androidauthority.com/oneplus-green-line-display-lifetime-warranty-3353701/)<!-- TECH:END -->
+ - [Daily deals Aug. 9: M1 iPad Pro from $660, $150 off a 24-inch iMac w/ AppleCare, Samsung monitors from $96, more](https://appleinsider.com/articles/23/08/09/daily-deals-aug-9-m1-ipad-pro-from-660-150-off-a-24-inch-imac-w-applecare-samsung-monitors-from-96-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

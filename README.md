@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the side of planet Earth we aren&#39;t used to see](http://9gag.com/gag/aMEW4ZG)
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 💣 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
  - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 💣 [This one doesn\u2019t spark joy](http://9gag.com/gag/adPdPQ9)
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
  - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---

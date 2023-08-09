@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Josh??](http://9gag.com/gag/aPgpgYP)
- - 😝 [Thoughts?](http://9gag.com/gag/anzdRzE)
- - 💣 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - 😝 [Kneeling sheep](http://9gag.com/gag/agodgmg)
- - 👉 [American health care is wild](http://9gag.com/gag/aKELmQb)<!-- MEMES:END -->
+ - 😝 [Improvise, adapt, profit](http://9gag.com/gag/aMEWBjG)
+ - 😝 [When take a nap...](http://9gag.com/gag/ap9d339)
+ - 💣 [One of the reasons Elden Ring has so much success..](http://9gag.com/gag/aL1bz5M)
+ - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
+ - 👉 [Teacher bans laptops, so a student decides to bring a typewriter instead \u2328\ufe0f](http://9gag.com/gag/aqedX3Z)<!-- MEMES:END -->
 
 ---
 </div>

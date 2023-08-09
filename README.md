@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based Endowus, which operates a digital wealth management platform, raised $35M from Citi Ventures, MUFG, and others, taking its total funding to $95M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230808/p46#a230808p46)
+ - [Apple still doesn&#39;t need RCS, but the latest update brings it closer to being suitable for iPhone](https://appleinsider.com/articles/23/08/09/apple-still-doesnt-need-rcs-but-the-latest-update-brings-it-closer-to-being-suitable-for-iphone?utm_medium=rss)
  - [Google changes the name of one of its advertising video formats from &quot;in-stream ads&quot; to &quot;skippable ads&quot;, after a report accused YouTube of misleading buyers &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/230808/p45#a230808p45)
  - [tvOS 17 beta 5 references iPhone models that don&#39;t exist](https://appleinsider.com/articles/23/08/09/tvos-17-beta-5-references-iphone-models-that-dont-exist?utm_medium=rss)
- - [El Salvador grants Binance licenses to offer custodial services, process crypto payments, provide digital wallets, and operate a digital asset exchange &lpar;Nivesh Rustgi/Decrypt&rpar;](http://www.techmeme.com/230808/p44#a230808p44)
- - [Barstool Sportsbook operator rebrands as ESPN Bet in a new $1.5 billion licensing deal](https://www.theverge.com/2023/8/8/23825043/espn-bet-penn-entertainment-barstool-sportsbook-gambling)
- - [Amazon slashes Apple&#39;s latest MacBook Pro to $1,749.99](https://appleinsider.com/articles/23/08/08/amazon-slashes-apples-latest-macbook-pro-to-174999?utm_medium=rss)<!-- TECH:END -->
+ - [El Salvador grants Binance licenses to offer custodial services, process crypto payments, provide digital wallets, and operate a digital asset exchange &lpar;Nivesh Rustgi/Decrypt&rpar;](http://www.techmeme.com/230808/p44#a230808p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

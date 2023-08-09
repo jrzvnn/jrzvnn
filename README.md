@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 💣 [She got owned. LOL](http://9gag.com/gag/a2KxvPd)
- - 😝 [I think there&#39;s something wrong with my sushi](http://9gag.com/gag/a2Kxv01)
- - 👉 [American health care is wild](http://9gag.com/gag/aKELmQb)<!-- MEMES:END -->
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
+ - 💣 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
+ - 😝 [American health care is wild](http://9gag.com/gag/aKELmQb)
+ - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---
 </div>

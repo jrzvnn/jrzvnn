@@ -159,7 +159,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
  - 💣 [My man](http://9gag.com/gag/aKELmzO)
  - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
- - 👉 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)<!-- MEMES:END -->
+ - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
 
 ---
 </div>

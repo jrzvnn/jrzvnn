@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every f**king time](http://9gag.com/gag/ap9dRGp)
- - 😝 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
- - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 😝 [Self-sacrifice](http://9gag.com/gag/aoKdy22)
+ - 😝 [Its just a prank bro](http://9gag.com/gag/amAdo8y)
+ - 💣 [This is for you](http://9gag.com/gag/aWGdgb3)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [Yes please!](http://9gag.com/gag/aeQd4Dj)<!-- MEMES:END -->
+ - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
 </div>

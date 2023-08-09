@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
- - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 💣 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
+ - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 ---
 </div>

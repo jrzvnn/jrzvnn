@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Weird Way That Human Waste Is Killing Corals](https://www.wired.com/story/the-weird-way-that-human-waste-is-killing-corals/)
  - [India&#39;s upper parliament passes the Digital Personal Data Protection Bill, including up to $30M fines and child wellbeing rules; the president must now approve &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230809/p24#a230809p24)
+ - [Grab Pixel Buds A-Series Wireless Earbuds for $59 &lpar;Save $40&rpar;     - CNET](https://www.cnet.com/deals/grab-pixel-buds-a-series-wireless-earbuds-for-59-save-40/#ftag=CAD590a51e)
  - [Sony’s DualSense controllers for the PS5 are still on sale for just $49](https://www.theverge.com/2023/8/9/23824399/sony-dualsense-controller-samsung-galaxy-s23-plus-sennheiser-earbuds-deal-sale)
- - [Apple Watch may gain a new fabric band](https://appleinsider.com/articles/23/08/09/apple-watch-may-gain-a-new-fabric-band?utm_medium=rss)
- - [The Game Boy’s Pokémon Trading Card Game is still unrivaled 25 years later](https://www.theverge.com/23629432/pokemon-tcg-game-boy-nintendo-switch-online)
- - [Daily deals Aug. 9: M1 iPad Pro from $660, $150 off a 24-inch iMac w/ AppleCare, Samsung monitors from $96, more](https://appleinsider.com/articles/23/08/09/daily-deals-aug-9-m1-ipad-pro-from-660-150-off-a-24-inch-imac-w-applecare-samsung-monitors-from-96-more?utm_medium=rss)<!-- TECH:END -->
+ - [The 14 Best K-Dramas to Stream on Netflix Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-14-best-k-dramas-to-stream-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

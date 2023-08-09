@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Leaker jumps on iPhone 15 thin bezel bandwagon with questionable images](https://appleinsider.com/articles/23/08/09/leaker-jumps-on-iphone-15-thin-bezel-bandwagon-with-questionable-images?utm_medium=rss)
  - [Unity is releasing some of W&amp;#275;t&amp;amacr; FX&#39;s 2D and 3D tools, including Wig 1.0 for simulating hair and fur, into public beta under its new Unity W&amp;#275;t&amp;amacr; Tools division &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230808/p47#a230808p47)
+ - [Catch Big Savings On These Tech Deals From StockX     - CNET](https://www.cnet.com/deals/catch-big-savings-on-these-tech-deals-from-stockx/#ftag=CAD590a51e)
  - [Singapore-based Endowus, which operates a digital wealth management platform, raised $35M from Citi Ventures, MUFG, and others, taking its total funding to $95M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230808/p46#a230808p46)
- - [Apple still doesn&#39;t need RCS, but the latest update brings it closer to being suitable for iPhone](https://appleinsider.com/articles/23/08/09/apple-still-doesnt-need-rcs-but-the-latest-update-brings-it-closer-to-being-suitable-for-iphone?utm_medium=rss)
- - [Google changes the name of one of its advertising video formats from &quot;in-stream ads&quot; to &quot;skippable ads&quot;, after a report accused YouTube of misleading buyers &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/230808/p45#a230808p45)<!-- TECH:END -->
+ - [Apple still doesn&#39;t need RCS, but the latest update brings it closer to being suitable for iPhone](https://appleinsider.com/articles/23/08/09/apple-still-doesnt-need-rcs-but-the-latest-update-brings-it-closer-to-being-suitable-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

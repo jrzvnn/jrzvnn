@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
  - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
  - 💣 [My man](http://9gag.com/gag/aKELmzO)
- - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
- - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
+ - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 👉 [Kneeling sheep](http://9gag.com/gag/agodgmg)<!-- MEMES:END -->
 
 ---
 </div>

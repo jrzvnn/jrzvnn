@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lens maker Sony doesn&#39;t expect high demand for the iPhone 15](https://appleinsider.com/articles/23/08/09/lens-maker-sony-doesnt-expect-high-demand-for-the-iphone-15?utm_medium=rss)
+ - [Slack announces its biggest-ever redesign, catering to power users, adding a new Home section, a new sidebar on the left, a new DMs section, and Activity window &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230809/p23#a230809p23)
  - [Apple iPad Pro &lpar;7th generation&rpar;: Release date, specs, price, rumors, and more](https://www.androidauthority.com/apple-ipad-pro-7th-generation-3352395/)
  - [Samsung Galaxy Z Fold 5 review: The future is unfolding](https://www.androidauthority.com/samsung-galaxy-z-fold-5-review-3351922/)
- - [Boston-based cybersecurity company Rapid7 lays off 18% of its workforce, or around 470 people, and reports Q2 revenue rose 14% YoY to $190M and a $67M net loss &lpar;Aaron Pressman/The Boston Globe&rpar;](http://www.techmeme.com/230809/p22#a230809p22)
- - [Subdial Wants You to Trade Your Patek or Rolex Just Like Stocks](https://www.wired.com/story/subdial-wants-you-to-trade-your-patek-or-rolex-just-like-stocks/)
- - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)<!-- TECH:END -->
+ - [Boston-based cybersecurity company Rapid7 lays off 18% of its workforce, or around 470 people, and reports Q2 revenue rose 14% YoY to $190M and a $67M net loss &lpar;Aaron Pressman/The Boston Globe&rpar;](http://www.techmeme.com/230809/p22#a230809p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
- - 💣 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 😝 [This one doesn\u2019t spark joy](http://9gag.com/gag/adPdPQ9)
+ - 💣 [Every single time](http://9gag.com/gag/a9qV1rD)
  - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
  - 👉 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)<!-- MEMES:END -->
 

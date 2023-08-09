@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CCDH: ChatGPT, Bard, My AI, DreamStudio, Dall-E, and Midjourney generated &quot;pro-anorexia&quot; content 41% of the time when asked about common eating disorder topics &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230809/p15#a230809p15)
  - [iPhone 15 launch will keep prerecorded video format](https://appleinsider.com/articles/23/08/09/iphone-15-launch-will-keep-prerecorded-video-format?utm_medium=rss)
  - [Take-Two reports Q1 net revenue up 17% YoY to $1.28B, net bookings up 20% YoY to $1.2B, and forecasts $8B in bookings for the next fiscal year, hinting at GTA 6 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230809/p14#a230809p14)
- - [Gizmodo EIC Dan Ackerman sues Apple, the Tetris Company, and others, claiming they adapted his book about Tetris into a feature film without his permission &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230809/p13#a230809p13)
- - [How Mixtapes Remixed Music History—and Its Future](https://www.wired.com/story/history-of-mixtapes-future/)
- - [The All-American Myth of the TikTok Spy](https://www.wired.com/story/china-espionage-tiktok-spying-national-security/)<!-- TECH:END -->
+ - [AI Is Building Highly Effective Antibodies That Humans Can’t Even Imagine](https://www.wired.com/story/labgenius-antibody-factory-machine-learning/)
+ - [Grimes Wants to Be Less Famous &lpar;and Replaced by AI&rpar;](https://www.wired.com/story/have-a-nice-future-podcast-17/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

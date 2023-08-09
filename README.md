@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your YouTube homepage could soon go blank if you don’t switch on this setting](https://www.androidauthority.com/youtube-watch-history-recommendations-requirement-3353536/)
  - [India-based Credgenics, which provides an online service to help banks collect on debt, raised $50M led by Accel and Westbridge Capital at a $340M valuation &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/230808/p50#a230808p50)
  - [Ethernet not working? Here’s how to fix it](https://www.androidauthority.com/ethernet-not-working-3353204/)
  - [A look at Def Con&#39;s White House-backed Generative Red Team Challenge, where contestants try to make AI chatbots go rogue; the results will be sealed for months &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230808/p49#a230808p49)
- - [Best DNA Test for 2023: AncestryDNA vs. 23andMe and More     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
- - [Sources: ex-FTX Digital Markets co-CEO Ryan Salame is in talks with prosecutors to plead guilty to criminal charges and may enter a plea as soon as September &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/230808/p48#a230808p48)<!-- TECH:END -->
+ - [Best DNA Test for 2023: AncestryDNA vs. 23andMe and More     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

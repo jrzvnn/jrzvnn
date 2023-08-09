@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, OpenAI team up with the White House for cybersecurity challenge](https://www.theverge.com/2023/8/9/23826017/openai-google-microsoft-artificial-intelligence-def-con-black-hat)
- - [Nerf is joining the modern era with the best official blaster ever made](https://www.theverge.com/21524140/nerf-pro-stryfe-x-hands-on-date-price)
- - [The 2022 iPad Air is even more tempting at a $499.99 deal price](https://www.androidauthority.com/apple-ipad-air-2022-deal-3353795/)
- - [Supreme Court says Apple can keep its App Store payment rules for now](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
- - [Apple TV+ announces new &#39;Still Up&#39; comedy for September](https://appleinsider.com/articles/23/08/09/apple-tv-announces-new-still-up-comedy-for-september?utm_medium=rss)<!-- TECH:END -->
+ - [Supreme Court backs Apple in App Store payment row -- for now](https://appleinsider.com/articles/23/08/09/supreme-court-backs-apple-in-app-store-payment-row----for-now?utm_medium=rss)
+ - [The Twitch-Fueled Catastrophe of Kai Cenat&#39;s New York City Giveaway](https://www.wired.com/story/kai-cenat-union-square-meaning/)
+ - [Twitter fined $350K for taking too long to hand over January 6th data](https://www.theverge.com/2023/8/9/23826105/twitter-fine-doj-special-counsel-trump-investigation)
+ - [Filing: Twitter was fined $350K for not giving Trump&#39;s account records after special counsel Jack Smith got a warrant in January; Twitter ultimately complied &lpar;CNN&rpar;](http://www.techmeme.com/230809/p27#a230809p27)
+ - [Newegg’s ChatGPT-powered review summaries could help you pick your next PC part](https://www.theverge.com/2023/8/9/23825805/newegg-chatgpt-review-summaries-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Mixtapes Remixed Music History—and Its Future](https://www.wired.com/story/history-of-mixtapes-future/)
+ - [The All-American Myth of the TikTok Spy](https://www.wired.com/story/china-espionage-tiktok-spying-national-security/)
  - [Sex workers who relied on crypto for storing wealth and accepting payment, bypassing the banking system entirely, are finding the limits of crypto&#39;s utility &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230809/p12#a230809p12)
  - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
- - [China plans to require app developers to file business details with the government or face sanctions from March 2024, likely creating headaches for developers &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230809/p11#a230809p11)
- - [Nikon reports Q1 revenue up 8.6% YoY to $1.1B, profit down 78% YoY to ~$23M, and shipping four lithography machines, compared to eight in 2022; NINOY drops 11% &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230809/p10#a230809p10)
- - [In Kenya, the most active African country on TikTok, creators make money with protest livestreams, which protesters say help them stay safe from police violence &lpar;Martin K.N Siele/Rest of World&rpar;](http://www.techmeme.com/230809/p9#a230809p9)<!-- TECH:END -->
+ - [China plans to require app developers to file business details with the government or face sanctions from March 2024, likely creating headaches for developers &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230809/p11#a230809p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gizmodo EIC Dan Ackerman sues Apple, the Tetris Company, and others, claiming they adapted his book about Tetris into a feature film without his permission &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230809/p13#a230809p13)
  - [How Mixtapes Remixed Music History—and Its Future](https://www.wired.com/story/history-of-mixtapes-future/)
  - [The All-American Myth of the TikTok Spy](https://www.wired.com/story/china-espionage-tiktok-spying-national-security/)
  - [Sex workers who relied on crypto for storing wealth and accepting payment, bypassing the banking system entirely, are finding the limits of crypto&#39;s utility &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230809/p12#a230809p12)
- - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
- - [China plans to require app developers to file business details with the government or face sanctions from March 2024, likely creating headaches for developers &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230809/p11#a230809p11)<!-- TECH:END -->
+ - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

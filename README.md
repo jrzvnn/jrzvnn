@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox is aiming for Westworld-like ease of design with generative AI tools](https://www.theverge.com/2023/8/9/23826070/roblox-generative-ai-westworld-playstation-switch)
  - [Beats Studio Pro now available in 24 additional countries worldwide](https://appleinsider.com/articles/23/08/09/beats-studio-pro-now-available-in-24-additional-countries-worldwide?utm_medium=rss)
  - [Ming-Chi Kuo says Apple&#39;s &#39;sweetheart deal&#39; with TSMC is no such thing](https://appleinsider.com/articles/23/08/09/ming-chi-kuo-says-apples-sweetheart-deal-with-tsmc-is-no-such-thing?utm_medium=rss)
  - [Galaxy Z Fold 5 torture test makes the Pixel Fold look incredibly fragile](https://www.androidauthority.com/galaxy-z-fold-5-torture-test-3353799/)
- - [A friendly reminder that bigger is not always better when it comes to EVs](https://www.theverge.com/2023/8/9/23824581/ev-suv-truck-cadillac-escalade-size-bloat-weight-safety-battery-emissions)
- - [The US launches a DARPA-led contest to build AI systems that can spot and fix software vulnerabilities, with help from Anthropic, Google, Microsoft, and OpenAI &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230809/p28#a230809p28)<!-- TECH:END -->
+ - [A friendly reminder that bigger is not always better when it comes to EVs](https://www.theverge.com/2023/8/9/23824581/ev-suv-truck-cadillac-escalade-size-bloat-weight-safety-battery-emissions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

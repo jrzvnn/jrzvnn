@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reports Q1 revenue up 33% YoY to $20.7B and PS5 sales up 38% YoY to 3.3M; Sony had said the company expects to sell 25M PS5 units in the year to March 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/230809/p7#a230809p7)
  - [The Galaxy S24 Ultra could see a big upgrade to its telephoto camera](https://www.androidauthority.com/samsung-galaxy-s24-ultra-telephoto-camera-upgrade-leak-3353581/)
  - [Samsung’s Galaxy Enhance-X app: What is it and how to use it?](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-3352491/)
  - [A look at the Indian Institutes of Technology, established in the 1950s and 1960s to emulate MIT and now comprising 23 schools offering a path to tech success &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/230809/p6#a230809p6)
- - [Q&amp;A with AWS CEO Adam Selipsky on cloud competitors, layoffs, AI, Nvidia, the Trainium and Inferentia chips, the Amazon Bedrock library of AI models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230809/p5#a230809p5)
- - [NetChoice and Chamber of Progress back TikTok&#39;s lawsuit to stop a Montana law that is set to ban the use of the app on January 1, 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230809/p3#a230809p3)<!-- TECH:END -->
+ - [Q&amp;A with AWS CEO Adam Selipsky on cloud competitors, layoffs, AI, Nvidia, the Trainium and Inferentia chips, the Amazon Bedrock library of AI models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230809/p5#a230809p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

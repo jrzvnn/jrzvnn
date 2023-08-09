@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Z Fold 5 torture test makes the Pixel Fold look incredibly fragile](https://www.androidauthority.com/galaxy-z-fold-5-torture-test-3353799/)
+ - [A friendly reminder that bigger is not always better when it comes to EVs](https://www.theverge.com/2023/8/9/23824581/ev-suv-truck-cadillac-escalade-size-bloat-weight-safety-battery-emissions)
+ - [The US launches a DARPA-led contest to build AI systems that can spot and fix software vulnerabilities, with help from Anthropic, Google, Microsoft, and OpenAI &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/230809/p28#a230809p28)
  - [Leaker claims to have A17 specifications ahead of iPhone 15 Pro release](https://appleinsider.com/articles/23/08/09/leaker-claims-to-have-a17-specifications-ahead-of-iphone-15-pro-release?utm_medium=rss)
- - [The Continental is at capacity in new trailer for Peacock’s John Wick prequel series](https://www.theverge.com/23825985/the-continental-john-wick-peacock-trailer)
- - [Verizon will soon raise prices on certain unlimited plans — yes, again](https://www.theverge.com/2023/8/9/23825947/verizon-go-beyond-above-unlimited-data-price-increase)
- - [Supreme Court backs Apple in App Store payment row -- for now](https://appleinsider.com/articles/23/08/09/supreme-court-backs-apple-in-app-store-payment-row----for-now?utm_medium=rss)
- - [The Twitch-Fueled Catastrophe of Kai Cenat&#39;s New York City Giveaway](https://www.wired.com/story/kai-cenat-union-square-meaning/)<!-- TECH:END -->
+ - [The Continental is at capacity in new trailer for Peacock’s John Wick prequel series](https://www.theverge.com/23825985/the-continental-john-wick-peacock-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

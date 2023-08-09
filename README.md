@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Improvise, adapt, profit](http://9gag.com/gag/aMEWBjG)
- - 😝 [When take a nap...](http://9gag.com/gag/ap9d339)
- - 💣 [One of the reasons Elden Ring has so much success..](http://9gag.com/gag/aL1bz5M)
- - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - 👉 [Teacher bans laptops, so a student decides to bring a typewriter instead \u2328\ufe0f](http://9gag.com/gag/aqedX3Z)<!-- MEMES:END -->
+ - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 😝 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 💣 [Every single time](http://9gag.com/gag/a9qV1rD)
+ - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 👉 [I think there&#39;s something wrong with my sushi](http://9gag.com/gag/a2Kxv01)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
+ - 😝 [Chad baby](http://9gag.com/gag/abvd1Dp)
+ - 😝 [Goslingverse](http://9gag.com/gag/aWGdpXZ)
+ - 💣 [Big brain time...](http://9gag.com/gag/a04xomL)
+ - 😝 [When take a nap...](http://9gag.com/gag/ap9d339)
+ - 👉 [Teacher bans laptops, so a student decides to bring a typewriter instead \u2328\ufe0f](http://9gag.com/gag/aqedX3Z)<!-- MEMES:END -->
 
 ---
 </div>

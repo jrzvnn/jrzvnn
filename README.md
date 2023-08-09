@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
- - 😝 [#gameoftheyear](http://9gag.com/gag/a5XxQbL)
- - 💣 [Goslingverse](http://9gag.com/gag/aWGdpXZ)
- - 😝 [Yes please!](http://9gag.com/gag/aeQd4Dj)
+ - 😝 [South Africa. Smith and his wife Ingrid murdered while their daughters watched, after `kill the boer` speech](http://9gag.com/gag/aqedj1M)
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - 💣 [This is for you](http://9gag.com/gag/aWGdgb3)
+ - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
  - 👉 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)<!-- MEMES:END -->
 
 ---

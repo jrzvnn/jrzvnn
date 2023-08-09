@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Kenya, the most active African country on TikTok, creators make money with protest livestreams, which protesters say help them stay safe from police violence &lpar;Martin K.N Siele/Rest of World&rpar;](http://www.techmeme.com/230809/p9#a230809p9)
  - [Xiaomi’s Galaxy Z Fold 5 rival with ‘no shortcomings’ launches next week](https://www.androidauthority.com/xiaomi-mix-fold-3-launch-date-3353603/)
  - [Coupang reports Q2 revenue up 21% YoY to $5.6B, a $145M net income, up from a $75.4M loss in Q2 2022, and plans to expand in Taiwan after a year of profits &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230809/p8#a230809p8)
  - [Sony reports Q1 revenue up 33% YoY to $20.7B and PS5 sales up 38% YoY to 3.3M; Sony had said the company expects to sell 25M PS5 units in the year to March 2024 &lpar;CNBC&rpar;](http://www.techmeme.com/230809/p7#a230809p7)
- - [The Galaxy S24 Ultra could see a big upgrade to its telephoto camera](https://www.androidauthority.com/samsung-galaxy-s24-ultra-telephoto-camera-upgrade-leak-3353581/)
- - [Samsung’s Galaxy Enhance-X app: What is it and how to use it?](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-3352491/)<!-- TECH:END -->
+ - [The Galaxy S24 Ultra could see a big upgrade to its telephoto camera](https://www.androidauthority.com/samsung-galaxy-s24-ultra-telephoto-camera-upgrade-leak-3353581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

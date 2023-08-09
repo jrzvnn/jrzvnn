@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
  - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 😝 [One of the reasons Elden Ring has so much success..](http://9gag.com/gag/aL1bz5M)
- - 👉 [Predicted this would happen sooner or later](http://9gag.com/gag/anzdg90)<!-- MEMES:END -->
+ - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
+ - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 👉 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)<!-- MEMES:END -->
 
 ---
 </div>

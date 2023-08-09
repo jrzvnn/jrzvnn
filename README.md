@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
- - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 😝 [Every f**king time](http://9gag.com/gag/ap9dRGp)
+ - 😝 [Her: he must be out cheating on me Him:](http://9gag.com/gag/aWGdGnA)
  - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [I think there&#39;s something wrong with my sushi](http://9gag.com/gag/a2Kxv01)<!-- MEMES:END -->
+ - 👉 [Yes please!](http://9gag.com/gag/aeQd4Dj)<!-- MEMES:END -->
 
 ---
 </div>

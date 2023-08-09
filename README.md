@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 minutes in NYC and man already welcomed with local culture](http://9gag.com/gag/amAd19o)
- - 😝 [My man](http://9gag.com/gag/aKELmzO)
- - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 😝 [No joke, its freaking legit NASA&#39;s James Webb telescope has spotted a giant &#39;question mark&#39; object in deep space](http://9gag.com/gag/axoABNW)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 😝 [Josh??](http://9gag.com/gag/aPgpgYP)
+ - 😝 [Thoughts?](http://9gag.com/gag/anzdRzE)
+ - 💣 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
+ - 😝 [Kneeling sheep](http://9gag.com/gag/agodgmg)
+ - 👉 [American health care is wild](http://9gag.com/gag/aKELmQb)<!-- MEMES:END -->
 
 ---
 </div>

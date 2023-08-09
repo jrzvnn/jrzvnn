@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panasonic Warns That the IoT Malware Cycle Is Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)
+ - [Panasonic Warns That IoT Malware Attack Cycles Are Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)
  - [Filing: the US SEC plans to appeal a court ruling in July that Ripple&#39;s programmatic sales of XRP to retail investors on exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230809/p34#a230809p34)
  - [Hackers Rig Casino Card-Shuffling Machines for ‘Full Control’ Cheating](https://www.wired.com/story/card-shuffler-hack/)
  - [Disney+, Hulu, and ESPN are all getting another price hike](https://appleinsider.com/articles/23/08/09/disney-hulu-and-espn-are-all-getting-another-price-hike?utm_medium=rss)

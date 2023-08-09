@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Deepset, which helps companies build &quot;complex LLM applications&quot; and add NLP to apps, raised $30M led by Balderton, taking its total funding to $46M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230809/p35#a230809p35)
  - [Panasonic Warns That IoT Malware Attack Cycles Are Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)
  - [Filing: the US SEC plans to appeal a court ruling in July that Ripple&#39;s programmatic sales of XRP to retail investors on exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230809/p34#a230809p34)
  - [Hackers Rig Casino Card-Shuffling Machines for ‘Full Control’ Cheating](https://www.wired.com/story/card-shuffler-hack/)
- - [Disney+, Hulu, and ESPN are all getting another price hike](https://appleinsider.com/articles/23/08/09/disney-hulu-and-espn-are-all-getting-another-price-hike?utm_medium=rss)
- - [Disney Plus and Hulu are about to get even more expensive](https://www.theverge.com/2023/8/9/23826500/disney-plus-hulu-no-ads-plan-price-increases)<!-- TECH:END -->
+ - [Disney+, Hulu, and ESPN are all getting another price hike](https://appleinsider.com/articles/23/08/09/disney-hulu-and-espn-are-all-getting-another-price-hike?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

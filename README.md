@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
  - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 💣 [My man](http://9gag.com/gag/aKELmzO)
- - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
- - 👉 [Kneeling sheep](http://9gag.com/gag/agodgmg)<!-- MEMES:END -->
+ - 💣 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the reasons Elden Ring has so much success..](http://9gag.com/gag/aL1bz5M)
- - 😝 [Savage Jimmy](http://9gag.com/gag/aEqQVMM)
- - 💣 [Teacher bans laptops, so a student decides to bring a typewriter instead \u2328\ufe0f](http://9gag.com/gag/aqedX3Z)
- - 😝 [You Might Be A Cunning Linguist, But I\u2019m A Master Debater](http://9gag.com/gag/a6qx9qq)
- - 👉 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)<!-- MEMES:END -->
+ - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
+ - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 💣 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 😝 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 👉 [American health care is wild](http://9gag.com/gag/aKELmQb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage Jimmy](http://9gag.com/gag/aEqQVMM)
- - 😝 [100](http://9gag.com/gag/a04xV2X)
- - 💣 [You Might Be A Cunning Linguist, But I\u2019m A Master Debater](http://9gag.com/gag/a6qx9qq)
- - 😝 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
- - 👉 [Now i&#39;m 80 kg, 170 cm. I feel like those guys who offer candy to the random kids.](http://9gag.com/gag/a5XxBdL)<!-- MEMES:END -->
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - 😝 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 💣 [If you are a white farmer from SA and seek refuge in Europe, i can host a family of 3 or 4 in Retezat national park, Romania in a 3 rooms house. Your country is lost, dont risk your life.](http://9gag.com/gag/avQDe2Z)
+ - 😝 [American health care is wild](http://9gag.com/gag/aKELmQb)
+ - 👉 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 😝 [Every single time](http://9gag.com/gag/a9qV1rD)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 💣 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - 😝 [How to get cancer 101](http://9gag.com/gag/a9qVENo)
+ - 👉 [Every single time](http://9gag.com/gag/a9qV1rD)<!-- MEMES:END -->
 
 ---
 </div>

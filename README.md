@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Copyright laws shouldn&#39;t apply to AI training, proposes Google](https://appleinsider.com/articles/23/08/09/copyright-laws-shouldnt-apply-to-ai-training-proposes-google?utm_medium=rss)
  - [Save up to $1,600 on MacBook Pro, plus deep discounts on MacBook Air &amp; Mac mini at B&amp;H](https://appleinsider.com/articles/23/08/09/save-up-to-1600-on-macbook-pro-plus-deep-discounts-on-macbook-air-mac-mini-at-bh?utm_medium=rss)
  - [An analysis of Tencent&#39;s Sogou Input Method, the top tool in China for inputting Chinese characters with 450M+ MAUs, finds data-leaking flaws in its encryption &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/230809/p25#a230809p25)
  - [The Weird Way That Human Waste Is Killing Corals](https://www.wired.com/story/the-weird-way-that-human-waste-is-killing-corals/)
- - [India&#39;s upper parliament passes the Digital Personal Data Protection Bill, including up to $30M fines and child wellbeing rules; the president must now approve &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230809/p24#a230809p24)
- - [Grab Pixel Buds A-Series Wireless Earbuds for $59 &lpar;Save $40&rpar;     - CNET](https://www.cnet.com/deals/grab-pixel-buds-a-series-wireless-earbuds-for-59-save-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India&#39;s upper parliament passes the Digital Personal Data Protection Bill, including up to $30M fines and child wellbeing rules; President Murmu must approve it &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230809/p24#a230809p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

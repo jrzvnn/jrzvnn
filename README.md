@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Canadian woman says she has gotten over 50 Amazon packages she didn’t order](https://www.theverge.com/2023/8/9/23826501/amazon-unsolicited-shipments-canada-customs-fees)
  - [This Costco membership deal delivers a free $30 gift card with Gold Star access](https://appleinsider.com/articles/23/08/09/this-costco-membership-deal-delivers-a-free-30-gift-card-with-gold-star-access?utm_medium=rss)
  - [Berlin-based Deepset, which helps companies build &quot;complex LLM applications&quot; and add NLP to apps, raised $30M led by Balderton, taking its total funding to $46M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230809/p35#a230809p35)
  - [Disney to Hike Price of Ad-Free Hulu, Disney Plus     - CNET](https://www.cnet.com/tech/services-and-software/disney-to-hike-price-of-ad-free-hulu-disney-plus/#ftag=CAD590a51e)
- - [Panasonic Warns That IoT Malware Attack Cycles Are Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)
- - [Filing: the US SEC plans to appeal a court ruling in July that Ripple&#39;s programmatic sales of XRP to retail investors on exchanges didn&#39;t violate securities law &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230809/p34#a230809p34)<!-- TECH:END -->
+ - [Panasonic Warns That IoT Malware Attack Cycles Are Accelerating](https://www.wired.com/story/panasonic-iot-malware-honeypots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

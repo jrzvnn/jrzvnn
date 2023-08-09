@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real Life Homelander &lpar;Subs in comments&rpar;](http://9gag.com/gag/aKELEN6)
- - 😝 [I&#39;m southeast-asian and I felt way more comfortable/safe being around white people. The white people were a lot more polite and well mannered.](http://9gag.com/gag/adPdPq2)
+ - 😝 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
  - 💣 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)<!-- MEMES:END -->
+ - 👉 [I think there&#39;s something wrong with my sushi](http://9gag.com/gag/a2Kxv01)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waifu material.](http://9gag.com/gag/abvdvqB)
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 💣 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
- - 😝 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
- - 👉 [American health care is wild](http://9gag.com/gag/aKELmQb)<!-- MEMES:END -->
+ - 😝 [Savage Jimmy](http://9gag.com/gag/aEqQVMM)
+ - 😝 [100](http://9gag.com/gag/a04xV2X)
+ - 💣 [You Might Be A Cunning Linguist, But I\u2019m A Master Debater](http://9gag.com/gag/a6qx9qq)
+ - 😝 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
+ - 👉 [Now i&#39;m 80 kg, 170 cm. I feel like those guys who offer candy to the random kids.](http://9gag.com/gag/a5XxBdL)<!-- MEMES:END -->
 
 ---
 </div>

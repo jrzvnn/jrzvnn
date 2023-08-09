@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Self-sacrifice](http://9gag.com/gag/aoKdy22)
  - 😝 [Its just a prank bro](http://9gag.com/gag/amAdo8y)
- - 💣 [This is for you](http://9gag.com/gag/aWGdgb3)
+ - 😝 [Is there any better plot twist in a Movie?](http://9gag.com/gag/a7qGEDA)
+ - 💣 [Predicted this would happen sooner or later](http://9gag.com/gag/anzdg90)
  - 😝 [Get ready to groove to the beats! \ud83d\udc83\ud83c\udffb Join 9GAG at gamescom 2023 for a magical flash mob dance performance led by @trendkidds and bust out your moves to the rhythm of gaming.](http://9gag.com/gag/aREyEp5)
- - 👉 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
+ - 👉 [How to get cancer 101](http://9gag.com/gag/a9qVENo)<!-- MEMES:END -->
 
 ---
 </div>

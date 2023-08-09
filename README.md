@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Baidu, ByteDance, Tencent, and Alibaba made orders worth $5B to acquire Nvidia chips, amid concerns that the US will soon clamp down on their export &lpar;Financial Times&rpar;](http://www.techmeme.com/230809/p31#a230809p31)
  - [Whitney Wolfe Herd is coming to the Code Conference](https://www.theverge.com/2023/8/9/23826211/bumble-ceo-whitney-wolfe-herd-code-conference-2023)
  - [You can now verify your Threads profile on Mastodon](https://www.theverge.com/2023/8/9/23826257/threads-verify-profile-mastodon-decentralized-platforms-fediverse)
  - [A Clever Honeypot Tricked Hackers Into Revealing Their Secrets](https://www.wired.com/story/hacker-honeypot-go-secure/)
- - [Biden signs an executive order banning US investments in some Chinese companies developing advanced semiconductors and quantum computers, starting in 2024 &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/230809/p30#a230809p30)
- - [Germany approves $11 billion TSMC chip factory](https://appleinsider.com/articles/23/08/09/germany-approves-11-billion-tsmc-chip-factory?utm_medium=rss)<!-- TECH:END -->
+ - [Biden signs an executive order banning US investments in some Chinese companies developing advanced semiconductors and quantum computers, starting in 2024 &lpar;Andrew Duehren/Wall Street Journal&rpar;](http://www.techmeme.com/230809/p30#a230809p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

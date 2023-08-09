@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X begins making ad revenue payouts to smaller creators, after releasing payments to thousands of select accounts; how payouts are calculated remains unclear &lpar;Elizabeth de Luna/Mashable&rpar;](http://www.techmeme.com/230809/p17#a230809p17)
  - [In its Q1 report, Sony, the world&#39;s largest camera sensor supplier, pushes back expectations for a smartphone market recovery to 2024 at the earliest &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230809/p16#a230809p16)
  - [CCDH: ChatGPT, Bard, My AI, DreamStudio, Dall-E, and Midjourney generated &quot;pro-anorexia&quot; content 41% of the time when asked about common eating disorder topics &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230809/p15#a230809p15)
  - [iPhone 15 launch will keep prerecorded video format](https://appleinsider.com/articles/23/08/09/iphone-15-launch-will-keep-prerecorded-video-format?utm_medium=rss)
- - [Take-Two reports Q1 net revenue up 17% YoY to $1.28B, net bookings up 20% YoY to $1.2B, and forecasts $8B in bookings for the next fiscal year, hinting at GTA 6 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230809/p14#a230809p14)
- - [AI Is Building Highly Effective Antibodies That Humans Can’t Even Imagine](https://www.wired.com/story/labgenius-antibody-factory-machine-learning/)<!-- TECH:END -->
+ - [Take-Two reports Q1 net revenue up 17% YoY to $1.28B, net bookings up 20% YoY to $1.2B, and forecasts $8B in bookings for the next fiscal year, hinting at GTA 6 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230809/p14#a230809p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

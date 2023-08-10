@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 😝 [Beer is love, compadre](http://9gag.com/gag/aMEWVRx)
- - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
  - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - 👉 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)<!-- MEMES:END -->
+ - 😝 [Thoughts?](http://9gag.com/gag/anzdRzE)
+ - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---
 </div>

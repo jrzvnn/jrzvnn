@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance&#39;s revenue in China grew 25% YoY in 2022 to $69B, vs. 68% in 2021; overseas revenue grew from $6.5B in 2021 to $16B in 2022, thanks to TikTok &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/230810/p30#a230810p30)
  - [FEC could limit AI in political ads ahead of 2024](https://www.theverge.com/2023/8/10/23827399/ai-artificial-intelligence-political-ads-fec-desantis-rnc)
  - [Quake II is getting the remaster treatment](https://www.theverge.com/2023/8/10/23827253/quake-ii-remaster-price-release-date-features)
  - [Kai Cenat goes live on Twitch for the first time after Union Square ‘riot’](https://www.theverge.com/2023/8/10/23827284/kai-cenat-twitch-live-first-time-union-square-riot)
- - [Latest macOS Ventura update brings a location services bug](https://appleinsider.com/articles/23/08/10/latest-macos-ventura-update-brings-a-location-services-bug?utm_medium=rss)
- - [The Last Voyage of the Demeter just isn’t scary enough to live up to Dracula’s legacy](https://www.theverge.com/23827127/the-last-voyage-of-the-demeter-review)<!-- TECH:END -->
+ - [Latest macOS Ventura update brings a location services bug](https://appleinsider.com/articles/23/08/10/latest-macos-ventura-update-brings-a-location-services-bug?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

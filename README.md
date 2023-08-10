@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US government pushes to fix the security flaws Lapsus$ hackers used to leak GTA VI](https://www.theverge.com/2023/8/10/23827143/lapsus-sim-swapping-mfa-cisa-rockstar-games-microsoft-nvidia-breach)
+ - [OpenAI expands custom instructions, the details that ChatGPT needs to remember, to all users, after launching them in July 2023 in beta &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230810/p25#a230810p25)
  - [Daily Deals August 10: $100 off iPad Air, $100 off 15&quot; MacBook Air, 38% off Typecase Touch Keyboard Case for iPad, more](https://appleinsider.com/articles/23/08/10/daily-deals-august-10-100-off-ipad-air-100-off-15-macbook-air-38-off-typecase-touch-keyboard-case-for-ipad-more?utm_medium=rss)
  - [Skydio is done making consumer drones for you](https://www.theverge.com/2023/8/10/23827260/skydio-pivot-enterprise-x2)
- - [Filing: autonomous sidewalk delivery company Serve Robotics, which was spun out from Uber-owned Postmates and raised $56M, to go public via a SPAC merger &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230810/p24#a230810p24)
- - [The Scary Science of Maui’s Wildfires](https://www.wired.com/story/the-scary-science-of-mauis-wildfires/)
- - [In an interview, X CEO Linda Yaccarino says she has &quot;autonomy&quot; under Elon Musk, X plans to add video calls, is &quot;close&quot; to break-even as brands return, and more &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230810/p23#a230810p23)<!-- TECH:END -->
+ - [Filing: autonomous sidewalk delivery company Serve Robotics, which was spun out from Uber-owned Postmates and raised $56M, to go public via a SPAC merger &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230810/p24#a230810p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

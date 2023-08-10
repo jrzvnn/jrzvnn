@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
  - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 💣 [Double standards rule the world](http://9gag.com/gag/adPdv79)
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 👉 [Show the last picture in your photo gallery](http://9gag.com/gag/awZ83dQ)<!-- MEMES:END -->
+ - 💣 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 😝 [Double standards rule the world](http://9gag.com/gag/adPdv79)
+ - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---
 </div>

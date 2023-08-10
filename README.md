@@ -159,7 +159,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
  - 💣 [Double standards rule the world](http://9gag.com/gag/adPdv79)
  - 😝 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---
 </div>

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
- - 😝 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
- - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - 👉 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)<!-- MEMES:END -->
+ - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 💣 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
+ - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 👉 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)<!-- MEMES:END -->
 
 ---
 </div>

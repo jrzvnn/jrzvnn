@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Roblox makes an in-Roblox career center that’s all about Roblox](https://www.theverge.com/2023/8/10/23827740/roblox-virtual-career-center-job-interviews)
  - [Rival air taxi startups Wisk and Archer settle their trade secret theft lawsuit](https://www.theverge.com/2023/8/10/23827522/wisk-archer-air-taxi-lawsuit-settlement-boeing)
  - [Amazon is dropping dozens of in-house brands you didn’t even know it owned](https://www.theverge.com/2023/8/10/23827694/amazon-basics-dropping-in-house-brands)
- - [Hosting provider Uberspace takes down youtube-dl&#39;s website, which offered YouTube ripping software, but continues to appeal a court order forcing the takedown &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230810/p33#a230810p33)<!-- TECH:END -->
+ - [Hosting provider Uberspace takes down youtube-dl&#39;s website, which linked to YouTube ripping software, but is appealing a German court order forcing the takedown &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230810/p33#a230810p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

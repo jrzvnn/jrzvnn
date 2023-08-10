@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest macOS Ventura update brings a location services bug](https://appleinsider.com/articles/23/08/10/latest-macos-ventura-update-brings-a-location-services-bug?utm_medium=rss)
+ - [The Last Voyage of the Demeter just isn’t scary enough to live up to Dracula’s legacy](https://www.theverge.com/23827127/the-last-voyage-of-the-demeter-review)
  - [Sources: the Kremlin&#39;s fear of a serious tech brain drain is the main factor stopping a nationalization of Nasdaq-listed Yandex, which has over 20K employees &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p29#a230810p29)
  - [Decoder merch has landed](https://www.theverge.com/23827313/decoder-merch-has-landed)
- - [Would you spend $130,000 on a car without Android Auto?](https://www.androidauthority.com/car-without-android-auto-3354164/)
- - [Hate link spam in YouTube Shorts? Google is disabling all user links soon.](https://www.androidauthority.com/youtube-shorts-spam-3354209/)
- - [Samsung Galaxy Watch 6 Classic review: Giving the people what they want, mostly](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-review-3353499/)<!-- TECH:END -->
+ - [Would you spend $130,000 on a car without Android Auto?](https://www.androidauthority.com/car-without-android-auto-3354164/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

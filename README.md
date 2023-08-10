@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American health care is wild](http://9gag.com/gag/aKELmQb)
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - 👉 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)<!-- MEMES:END -->
+ - 😝 [Thoughts?](http://9gag.com/gag/anzdRzE)
+ - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 👉 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)<!-- MEMES:END -->
 
 ---
 </div>

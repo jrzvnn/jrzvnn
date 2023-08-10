@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you lose to a girl](http://9gag.com/gag/abvd4M8)
- - 😝 [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
- - 💣 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
+ - 💣 [If you are a white farmer from SA and seek refuge in Europe, i can host a family of 3 or 4 in Retezat national park, Romania in a 3 rooms house. Your country is lost, dont risk your life.](http://9gag.com/gag/avQDe2Z)
  - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 👉 [Double standards rule the world](http://9gag.com/gag/adPdv79)<!-- MEMES:END -->
+ - 👉 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)<!-- MEMES:END -->
 
 ---
 </div>

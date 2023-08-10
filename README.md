@@ -159,7 +159,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
  - 💣 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [The whale was not happy to be called out](http://9gag.com/gag/a1PxVXP)<!-- MEMES:END -->
+ - 👉 [Russian soldiers received some canned beef as rations and some of them were filled with water and bits of..something i don&#39;t even want to imagine.](http://9gag.com/gag/aA0mM5p)<!-- MEMES:END -->
 
 ---
 </div>

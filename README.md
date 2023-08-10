@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Bittrex agrees to pay $24M to settle US SEC claims that the crypto exchange failed to register with the agency; Bittrex doesn&#39;t admit to the allegations &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p34#a230810p34)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Multifunctional smartwatch bands should be more of a thing](https://www.theverge.com/23827126/samsung-nomad-multipurpose-smartwatch-strap)
  - [Augie lets you make videos with an AI clone of your own voice](https://www.theverge.com/2023/8/10/23827676/ai-augx-voice-cloning-video-creator)
- - [Roblox makes an in-Roblox career center that’s all about Roblox](https://www.theverge.com/2023/8/10/23827740/roblox-virtual-career-center-job-interviews)
- - [Rival air taxi startups Wisk and Archer settle their trade secret theft lawsuit](https://www.theverge.com/2023/8/10/23827522/wisk-archer-air-taxi-lawsuit-settlement-boeing)
- - [Amazon is dropping dozens of in-house brands you didn’t even know it owned](https://www.theverge.com/2023/8/10/23827694/amazon-basics-dropping-in-house-brands)
- - [Hosting provider Uberspace takes down youtube-dl&#39;s website, which linked to YouTube ripping software, but is appealing a German court order forcing the takedown &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230810/p33#a230810p33)<!-- TECH:END -->
+ - [Roblox makes an in-Roblox career center that’s all about Roblox](https://www.theverge.com/2023/8/10/23827740/roblox-virtual-career-center-job-interviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

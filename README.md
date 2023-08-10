@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold 5 review: powerful multitasking, new hinge folds flat, and good support, but still pricey, heavy, and clunky, with unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230810/p21#a230810p21)
+ - [GM confirms $130,000 Escalade IQ won’t have Apple CarPlay and Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)
  - [A17 specifications leaked ahead of iPhone 15 Pro release](https://appleinsider.com/articles/23/08/09/leaker-claims-to-have-a17-specifications-ahead-of-iphone-15-pro-release?utm_medium=rss)
  - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
- - [Sources: Amazon cuts dozens of in-house brands in clothing, furniture, and more to placate regulators and grow profits; Amazon says Basics will remain a focus &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230810/p20#a230810p20)
- - [X CEO Linda Yaccarino reinstates the company&#39;s &quot;client council&quot;, an invite-only group of marketing and ad executives whose members have not yet been decided &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230810/p19#a230810p19)
- - [Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It&#39;s Using Their Data](https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/)<!-- TECH:END -->
+ - [Sources: Amazon cuts dozens of in-house brands in clothing, furniture, and more to placate regulators and grow profits; Amazon says Basics will remain a focus &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230810/p20#a230810p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

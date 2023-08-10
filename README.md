@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is changing the way iPhone users hang up calls](https://www.androidauthority.com/ios-17-iphone-call-ui-button-3353996/)
  - [Logitech’s new laptop stand and keyboard folds down into a cute little box](https://www.theverge.com/2023/8/10/23826027/logitech-casa-pop-up-desk-wireless-keyboard-trackpad-price)
  - [Q&amp;A with MIT economics professor David Autor on how AI can be used to make people&#39;s skills more valuable, the risks AI poses to emerging markets, and more &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/230810/p7#a230810p7)
  - [Your Android phone will now tell you if someone has planted an AirTag on you](https://www.androidauthority.com/android-unknown-tracker-alerts-rollout-3350756/)
- - [Some TikTok content creators are using AI to recreate the likeness of deceased or missing children, giving them &quot;voices&quot; to narrate what happened to them &lpar;Jennifer Hassan/Washington Post&rpar;](http://www.techmeme.com/230810/p6#a230810p6)
- - [X unveils Sensitivity Settings and Enhanced Blocklist to boost brand safety and control for advertisers, rolling out over the next few weeks in the Ads Manager &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/230810/p5#a230810p5)<!-- TECH:END -->
+ - [Some TikTok content creators are using AI to recreate the likeness of deceased or missing children, giving them &quot;voices&quot; to narrate what happened to them &lpar;Jennifer Hassan/Washington Post&rpar;](http://www.techmeme.com/230810/p6#a230810p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

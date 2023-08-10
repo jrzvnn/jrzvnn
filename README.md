@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
  - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
- - 💣 [Double standards rule the world](http://9gag.com/gag/adPdv79)
- - 😝 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 💣 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 😝 [So World War Z physics were not that crazy after all...](http://9gag.com/gag/az2BOLb)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

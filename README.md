@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get ready for a repositioned end call button in iOS 17](https://www.theverge.com/2023/8/10/23827002/ios-17-end-call-button-moved)
+ - [How to Make Bionic Limbs &lpar;Literally&rpar; Very Cool](https://www.wired.com/story/how-to-make-bionic-limbs-literally-very-cool/)
+ - [By Seizing @Music, Elon Musk Shows He Doesn’t Know What Made Twitter Good](https://www.wired.com/story/by-seizing-music-elon-musk-shows-he-doesnt-know-what-made-twitter-good/)
  - [Windows XP made to run on Vision Pro](https://appleinsider.com/articles/23/08/10/windows-xp-made-to-run-on-vision-pro?utm_medium=rss)
- - [Alibaba reports Q1 revenue up 14% YoY to ~$32.2B, beating analyst estimates of ~$31.1B, and a ~$4.7B net income, as its core e-commerce arm returned to growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/230810/p10#a230810p10)
- - [Yandex co-founder Arkady Volozh, who quit as CEO in June 2022, denounces Russia&#39;s Ukraine war as &quot;barbaric&quot;, as Yandex plans to spin off from its Dutch parent &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/230810/p9#a230810p9)
- - [Leaked Yandex Code Breaks Open the Creepy Black Box of Online Advertising](https://www.wired.com/story/yandex-leaks-crypta-ads/)
- - [To Navigate the Age of AI, the World Needs a New Turing Test](https://www.wired.com/story/ai-new-turing-test/)<!-- TECH:END -->
+ - [Alibaba reports Q1 revenue up 14% YoY to ~$32.2B, beating analyst estimates of ~$31.1B, and a ~$4.7B net income, as its core e-commerce arm returned to growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/230810/p10#a230810p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

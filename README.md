@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Linda Yaccarino says she has &quot;autonomy&quot; under Musk, X plans to add video calls, is &quot;close&quot; to break-even as brands return, and more &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230810/p23#a230810p23)
+ - [Wacom’s new drawing tablets offer creative flexibility on a budget](https://www.theverge.com/2023/8/10/23825962/wacom-one-drawing-graphics-tablet-pen-display)
  - [LG buys patents to speed up bringing microLED to Apple Watch Ultra](https://appleinsider.com/articles/23/08/10/lg-buys-patents-to-speed-up-bringing-microled-to-apple-watch-ultra?utm_medium=rss)
  - [Keep Your Desk Organized With Over 50% Off This 13-in-1 Anker USB Hub     - CNET](https://www.cnet.com/deals/keep-your-desk-organized-with-over-50-off-this-13-in-1-anker-usb-hub/#ftag=CAD590a51e)
- - [Sonos’ $900 Dolby Atmos soundbar has a loud pop issue that’s taking years to fix](https://www.theverge.com/2023/8/10/23824258/sonos-arc-dolby-atmos-problems-loud-audio-pop)
- - [Gboard could soon let you use generative AI for proofreading and emojis](https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/)
- - [Check Point buys rival cybersecurity company Perimeter 81 for $490M in a &quot;cash free, debt free&quot; deal; Perimeter 81 raised $100M at a $1B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230810/p22#a230810p22)<!-- TECH:END -->
+ - [Sonos’ $900 Dolby Atmos soundbar has a loud pop issue that’s taking years to fix](https://www.theverge.com/2023/8/10/23824258/sonos-arc-dolby-atmos-problems-loud-audio-pop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

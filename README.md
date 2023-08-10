@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thoughts?](http://9gag.com/gag/anzdRzE)
- - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
- - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 👉 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)<!-- MEMES:END -->
+ - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 💣 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - 👉 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)<!-- MEMES:END -->
 
 ---
 </div>

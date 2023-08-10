@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - 😝 [Thoughts?](http://9gag.com/gag/anzdRzE)
- - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
+ - 💣 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
  - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 ---

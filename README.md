@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
- - 😝 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
- - 💣 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)
+ - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - 😝 [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
+ - 💣 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [Went on a date and was thinking `please don&#39;t be a B&#39;tch, please don&#39;t be a B&#39;tch. My date:](http://9gag.com/gag/a5XxzeG)<!-- MEMES:END -->
+ - 👉 [The whale was not happy to be called out](http://9gag.com/gag/a1PxVXP)<!-- MEMES:END -->
 
 ---
 </div>

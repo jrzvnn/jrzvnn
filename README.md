@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 8 things you can do with your old laptop](https://www.androidauthority.com/things-you-can-do-with-your-old-laptop-3354301/)
+ - [Circle says it has $1B+ in cash and had $779M in revenue in H1 2023, vs. $772M for all of 2022, as USDC in circulation has fallen to ~$26B from ~$45B in January &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230810/p35#a230810p35)
  - [Apple MLS Season Pass subscriptions have doubled since Lionel Messi joined Inter Miami](https://appleinsider.com/articles/23/08/10/apple-mls-season-pass-subscriptions-have-doubled-since-lionel-messi-joined-inter-miami?utm_medium=rss)
- - [We asked LG for a burn-in warranty on its OLED monitor — and it’s delivering](https://www.theverge.com/23827701/lg-oled-burn-in-warranty-two-desktop-monitor-windows)
- - [The next Final Fantasy VII mobile game launches next month](https://www.theverge.com/2023/8/10/23827846/final-fantasy-vii-ever-crisis-mobile-game-ios-android-release-date)
- - [Filing: Bittrex agrees to pay $24M to settle US SEC claims that the crypto exchange failed to register with the agency; Bittrex doesn&#39;t admit to the allegations &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p34#a230810p34)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [EveryPlate Review: A Cheap Meal Kit Service That&#39;s Well Worth the Money     - CNET](https://www.cnet.com/health/nutrition/everyplate-review-best-cheap-meal-kits/#ftag=CAD590a51e)
+ - [We asked LG for a burn-in warranty on its OLED monitor — and it’s delivering](https://www.theverge.com/23827701/lg-oled-burn-in-warranty-two-desktop-monitor-windows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

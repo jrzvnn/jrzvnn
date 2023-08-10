@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple MLS Season Pass subscriptions have doubled since Lionel Messi joined Inter Miami](https://appleinsider.com/articles/23/08/10/apple-mls-season-pass-subscriptions-have-doubled-since-lionel-messi-joined-inter-miami?utm_medium=rss)
  - [We asked LG for a burn-in warranty on its OLED monitor — and it’s delivering](https://www.theverge.com/23827701/lg-oled-burn-in-warranty-two-desktop-monitor-windows)
  - [The next Final Fantasy VII mobile game launches next month](https://www.theverge.com/2023/8/10/23827846/final-fantasy-vii-ever-crisis-mobile-game-ios-android-release-date)
  - [Filing: Bittrex agrees to pay $24M to settle US SEC claims that the crypto exchange failed to register with the agency; Bittrex doesn&#39;t admit to the allegations &lpar;Reuters&rpar;](http://www.techmeme.com/230810/p34#a230810p34)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Multifunctional smartwatch bands should be more of a thing](https://www.theverge.com/23827126/samsung-nomad-multipurpose-smartwatch-strap)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

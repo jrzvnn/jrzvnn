@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
+ - [Sources: Amazon cuts dozens of in-house brands in clothing, furniture, and more to placate regulators and grow profits; Amazon says Basics will remain a focus &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230810/p20#a230810p20)
+ - [X CEO Linda Yaccarino reinstates the company&#39;s &quot;client council&quot;, an invite-only group of marketing and ad executives whose members have not yet been decided &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230810/p19#a230810p19)
  - [Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It&#39;s Using Their Data](https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/)
- - [Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)
- - [The Newest Threat to Your Attention Span? TikTok ‘Dual’ Videos](https://www.wired.com/story/tiktok-dual-videos-attention-spans/)
- - [The Emmy Awards are officially delayed because of the writers and actors strikes](https://www.theverge.com/2023/8/10/23827049/emmy-awards-delay-writers-actors-strikes-date)
- - [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)<!-- TECH:END -->
+ - [Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

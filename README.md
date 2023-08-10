@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos’ $900 Dolby Atmos soundbar has a loud pop issue that’s taking years to fix](https://www.theverge.com/2023/8/10/23824258/sonos-arc-dolby-atmos-problems-loud-audio-pop)
  - [Gboard could soon let you use generative AI for proofreading and emojis](https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/)
  - [Check Point buys rival cybersecurity company Perimeter 81 for $490M in a &quot;cash free, debt free&quot; deal; Perimeter 81 raised $100M at a $1B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230810/p22#a230810p22)
  - [Save $50 on a Samsung Z Fold 5 or Z Flip 5 preorder while you still can](https://www.theverge.com/2023/8/10/23824803/samsung-galaxy-z-fold-flip-5-foldable-android-phone-preorder-deal-sale)
- - [NuPhy Field75 Wireless Mechanical Gaming Keyboard review: Not your ordinary mechanical keyboard](https://appleinsider.com/articles/23/08/10/nuphy-field75-wireless-mechanical-gaming-keyboard-review-not-your-ordinary-mechanical-keyboard?utm_medium=rss)
- - [Samsung Galaxy Z Fold 5 review: powerful multitasking, new hinge folds flat, and good support, but still pricey, heavy, and clunky, with unknown durability &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230810/p21#a230810p21)<!-- TECH:END -->
+ - [NuPhy Field75 Wireless Mechanical Gaming Keyboard review: Not your ordinary mechanical keyboard](https://appleinsider.com/articles/23/08/10/nuphy-field75-wireless-mechanical-gaming-keyboard-review-not-your-ordinary-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

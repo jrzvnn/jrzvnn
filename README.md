@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hosting provider Uberspace takes down youtube-dl&#39;s website, which offered YouTube ripping software, but continues to appeal a court order forcing the takedown &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230810/p33#a230810p33)
- - [The WGA’s labor contract negotiations with the AMPTP will resume this Friday](https://www.theverge.com/2023/8/10/23827633/wga-strike-amptp-negotiations-august-2023)
- - [How to turn off and delete your YouTube watch history](https://www.theverge.com/23827108/youtube-watch-history-google-how-to)
- - [Latest Intel and AMD vulnerabilities a gentle reminder to switch to Apple silicon](https://appleinsider.com/articles/23/08/10/latest-intel-and-amd-vulnerabilities-a-gentle-reminder-to-switch-to-apple-silicon?utm_medium=rss)
- - [NFL Ups Price of NFL Plus, Adds RedZone Channel to Premium Plan     - CNET](https://www.cnet.com/tech/services-and-software/nfl-ups-price-of-nfl-plus-adds-redzone-channel-to-premium-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Augie lets you make videos with an AI clone of your own voice](https://www.theverge.com/2023/8/10/23827676/ai-augx-voice-cloning-video-creator)
+ - [Roblox makes an in-Roblox career center that’s all about Roblox](https://www.theverge.com/2023/8/10/23827740/roblox-virtual-career-center-job-interviews)
+ - [Rival air taxi startups Wisk and Archer settle their trade secret theft lawsuit](https://www.theverge.com/2023/8/10/23827522/wisk-archer-air-taxi-lawsuit-settlement-boeing)
+ - [Amazon is dropping dozens of in-house brands you didn’t even know it owned](https://www.theverge.com/2023/8/10/23827694/amazon-basics-dropping-in-house-brands)
+ - [Hosting provider Uberspace takes down youtube-dl&#39;s website, which offered YouTube ripping software, but continues to appeal a court order forcing the takedown &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230810/p33#a230810p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

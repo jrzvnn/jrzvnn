@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yandex co-founder Arkady Volozh, who quit as CEO in June 2022, denounces Russia&#39;s Ukraine war as &quot;barbaric&quot;, as Yandex plans to spin off from its Dutch parent &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/230810/p9#a230810p9)
  - [Leaked Yandex Code Breaks Open the Creepy Black Box of Online Advertising](https://www.wired.com/story/yandex-leaks-crypta-ads/)
  - [To Navigate the Age of AI, the World Needs a New Turing Test](https://www.wired.com/story/ai-new-turing-test/)
  - [The Hip Hop Historians Who Are Racing to Preserve Its Story](https://www.wired.com/story/archiving-hip-hop-history/)
- - [One UI 6 now available in beta for Galaxy S23 series &lpar;Updated: Delayed again&rpar;](https://www.androidauthority.com/one-ui-6-beta-android-14-3353809/)
- - [Galaxy S24 series tipped to get Exynos power alongside display and RAM upgrades](https://www.androidauthority.com/samsung-galaxy-s24-specs-leak-3354007/)<!-- TECH:END -->
+ - [One UI 6 now available in beta for Galaxy S23 series &lpar;Updated: Delayed again&rpar;](https://www.androidauthority.com/one-ui-6-beta-android-14-3353809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

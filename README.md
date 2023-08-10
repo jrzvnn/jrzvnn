@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)
- - 😝 [President of South Africa is asked what he is going to do stop the killing of white farmers in his country](http://9gag.com/gag/avQDWwq)
- - 💣 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
  - 😝 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 😝 [Brutal](http://9gag.com/gag/aWGdo72)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows XP made to run on Vision Pro](https://appleinsider.com/articles/23/08/10/windows-xp-made-to-run-on-vision-pro?utm_medium=rss)
+ - [Alibaba reports Q1 revenue up 14% YoY to ~$32.2B, beating analyst estimates of ~$31.1B, and a ~$4.7B net income, as its core e-commerce arm returned to growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/230810/p10#a230810p10)
  - [Yandex co-founder Arkady Volozh, who quit as CEO in June 2022, denounces Russia&#39;s Ukraine war as &quot;barbaric&quot;, as Yandex plans to spin off from its Dutch parent &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/230810/p9#a230810p9)
  - [Leaked Yandex Code Breaks Open the Creepy Black Box of Online Advertising](https://www.wired.com/story/yandex-leaks-crypta-ads/)
- - [To Navigate the Age of AI, the World Needs a New Turing Test](https://www.wired.com/story/ai-new-turing-test/)
- - [The Hip Hop Historians Who Are Racing to Preserve Its Story](https://www.wired.com/story/archiving-hip-hop-history/)
- - [One UI 6 now available in beta for Galaxy S23 series &lpar;Updated: Delayed again&rpar;](https://www.androidauthority.com/one-ui-6-beta-android-14-3353809/)<!-- TECH:END -->
+ - [To Navigate the Age of AI, the World Needs a New Turing Test](https://www.wired.com/story/ai-new-turing-test/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

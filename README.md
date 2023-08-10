@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 21 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Substack wants to make itself a better place for readers, not just writers](https://www.theverge.com/2023/8/10/23827490/substack-better-readers-writers-newsletters)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
  - [&#39;Final Fantasy VII Ever Crisis&#39; releases on iOS on September 7](https://appleinsider.com/articles/23/08/10/final-fantasy-vii-ever-crisis-releases-on-ios-on-september-7?utm_medium=rss)
- - [Teens Hacked Boston Subway’s CharlieCard to Get Infinite Free Rides—and This Time Nobody Got Sued](https://www.wired.com/story/mtba-charliecard-hack-defcon-2023/)
- - [Android 14 beta 5 is here, the last beta before the stable launch](https://www.androidauthority.com/android-14-beta-5-3354254/)<!-- TECH:END -->
+ - [Teens Hacked Boston Subway’s CharlieCard to Get Infinite Free Rides—and This Time Nobody Got Sued](https://www.wired.com/story/mtba-charliecard-hack-defcon-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

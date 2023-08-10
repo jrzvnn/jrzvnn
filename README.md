@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft begins serving in-app ads to riders as they wait for rides, when they match with a driver, and during their trips, and plans to add video ads by year-end &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/230810/p12#a230810p12)
+ - [Here are the funniest things being auctioned off at Twitter HQ](https://www.theverge.com/2023/8/10/23826988/twitter-rebranding-auction-x-signs-paintings-funny)
  - [These leaked renders give us a good look at Bose’s QuietComfort Ultra range](https://www.androidauthority.com/bose-quietcomfort-ultra-headphone-earbuds-leaked-render-3354062/)
  - [A closer look at the UK Electoral Commission hack, disclosed nine months after discovery, which likely relied on a now-patched Microsoft Exchange Server flaw &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230810/p11#a230810p11)
- - [Get ready for a repositioned end call button in iOS 17](https://www.theverge.com/2023/8/10/23827002/ios-17-end-call-button-moved)
- - [How to Make Bionic Limbs &lpar;Literally&rpar; Very Cool](https://www.wired.com/story/how-to-make-bionic-limbs-literally-very-cool/)
- - [By Seizing @Music, Elon Musk Shows He Doesn’t Know What Made Twitter Good](https://www.wired.com/story/by-seizing-music-elon-musk-shows-he-doesnt-know-what-made-twitter-good/)<!-- TECH:END -->
+ - [Get ready for a repositioned end call button in iOS 17](https://www.theverge.com/2023/8/10/23827002/ios-17-end-call-button-moved)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

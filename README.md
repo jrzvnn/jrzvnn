@@ -156,9 +156,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 😝 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)
- - 💣 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
- - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
+ - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
+ - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 😝 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

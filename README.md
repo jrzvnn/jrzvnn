@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off and delete your YouTube watch history](https://www.theverge.com/23827108/youtube-watch-history-google-how-to)
  - [Latest Intel and AMD vulnerabilities a gentle reminder to switch to Apple silicon](https://appleinsider.com/articles/23/08/10/latest-intel-and-amd-vulnerabilities-a-gentle-reminder-to-switch-to-apple-silicon?utm_medium=rss)
- - [Skydio shuts down its consumer drone business as it expands enterprise offerings; the company announced a $230M Series E at a $2.2B valuation in February 2023 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230810/p32#a230810p32)
- - [NFL RedZone is coming to NFL Plus](https://www.theverge.com/2023/8/10/23826452/nfl-plus-redzone-scott-hanson-price-increase)
- - [The 21 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Substack wants to make itself a better place for readers, not just writers](https://www.theverge.com/2023/8/10/23827490/substack-better-readers-writers-newsletters)<!-- TECH:END -->
+ - [NFL Ups Price of NFL Plus, Adds RedZone Channel to Premium Plan     - CNET](https://www.cnet.com/tech/services-and-software/nfl-ups-price-of-nfl-plus-adds-redzone-channel-to-premium-plan/#ftag=CAD590a51e)
+ - [Get as Many Cats to Sleep as You Can in This Apple Arcade Game     - CNET](https://www.cnet.com/tech/gaming/get-as-many-cats-to-sleep-as-you-can-in-this-apple-arcade-game/#ftag=CAD590a51e)
+ - [Skydio shuts down its consumer drone business and plans to expand its enterprise offerings, after raising a $230M Series E at a $2.2B valuation in February 2023 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230810/p32#a230810p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

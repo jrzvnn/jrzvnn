@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US government pushes to fix the security flaws Lapsus$ hackers used to leak GTA VI](https://www.theverge.com/2023/8/10/23827143/lapsus-sim-swapping-mfa-cisa-rockstar-games-microsoft-nvidia-breach)
- - [OpenAI expands custom instructions, the details that ChatGPT needs to remember, to all users, after launching them in July 2023 in beta &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230810/p25#a230810p25)
- - [Daily Deals August 10: $100 off iPad Air, $100 off 15&quot; MacBook Air, 38% off Typecase Touch Keyboard Case for iPad, more](https://appleinsider.com/articles/23/08/10/daily-deals-august-10-100-off-ipad-air-100-off-15-macbook-air-38-off-typecase-touch-keyboard-case-for-ipad-more?utm_medium=rss)
- - [Skydio is done making consumer drones for you](https://www.theverge.com/2023/8/10/23827260/skydio-pivot-enterprise-x2)
- - [Filing: autonomous sidewalk delivery company Serve Robotics, which was spun out from Uber-owned Postmates and raised $56M, to go public via a SPAC merger &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230810/p24#a230810p24)<!-- TECH:END -->
+ - [News outlets demand new rules for AI training data](https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai)
+ - [Samsung’s One UI 6 beta isn’t ready to launch yet](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
+ - [YouTube plans to deactivate links in Shorts descriptions, comments, and the vertical feed from August 31 to fight spam &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/230810/p27#a230810p27)
+ - [CISA releases a report detailing Lapsus$title#39;s key techniques and calls on the FTC and FCC for stricter SIM swapping rules and a transition to a passwordless future &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230810/p26#a230810p26)
+ - [YouTube’s link spam situation is so bad that Shorts is banning links](https://www.theverge.com/2023/8/10/23827231/youtube-shorts-comments-clickable-link-ban-spam-scams-phishing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

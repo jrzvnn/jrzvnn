@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 😝 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)
- - 💣 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
- - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 😝 [When you lose to a girl](http://9gag.com/gag/abvd4M8)
+ - 😝 [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
+ - 💣 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 👉 [Double standards rule the world](http://9gag.com/gag/adPdv79)<!-- MEMES:END -->
 
 ---
 </div>

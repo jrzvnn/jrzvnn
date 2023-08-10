@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Y00ts, once among the top Solana-based NFT projects and which moved to Polygon in 2022, says it is migrating to Ethereum and will return the $3M Polygon grant &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230810/p2#a230810p2)
+ - [Disney Plus joins Netflix in password sharing crackdown, hikes prices](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-price-hike-3353991/)
  - [Moove, which provides vehicle financing to ride-hailing drivers in Africa, the UK, India, and the UAE, raises $76M in equity and debt at a $550M valuation &lpar;Will Louch/Financial Times&rpar;](http://www.techmeme.com/230810/p1#a230810p1)
  - [PE firm Symphony Technology Group agrees to acquire media editing software maker Avid for ~$1.4B, with the transaction expected to close in Q4 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230809/p37#a230809p37)
- - [Meta rolls out the ability to let users verify their Threads profile on other social media platforms, like Mastodon, using &quot;rel=me&quot; links &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230809/p36#a230809p36)
- - [A Canadian woman says she has gotten over 50 Amazon packages she didn’t order](https://www.theverge.com/2023/8/9/23826501/amazon-unsolicited-shipments-canada-customs-fees)
- - [This Costco membership deal delivers a free $30 gift card with Gold Star access](https://appleinsider.com/articles/23/08/09/this-costco-membership-deal-delivers-a-free-30-gift-card-with-gold-star-access?utm_medium=rss)<!-- TECH:END -->
+ - [Meta rolls out the ability to let users verify their Threads profile on other social media platforms, like Mastodon, using &quot;rel=me&quot; links &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230809/p36#a230809p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

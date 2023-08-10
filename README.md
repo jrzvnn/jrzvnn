@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Would you spend $130,000 on a car without Android Auto?](https://www.androidauthority.com/car-without-android-auto-3354164/)
+ - [Hate link spam in YouTube Shorts? Google is disabling all user links soon.](https://www.androidauthority.com/youtube-shorts-spam-3354209/)
+ - [Samsung Galaxy Watch 6 Classic review: Giving the people what they want, mostly](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-review-3353499/)
  - [Sources: Meta plans to build only ~1,000 units of its first-gen AR glasses due in 2024, using silicon carbide in the lenses and requiring a complicated assembly &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230810/p28#a230810p28)
- - [News outlets demand new rules for AI training data](https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai)
- - [Samsung’s One UI 6 beta isn’t ready to launch yet](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
- - [YouTube plans to deactivate links in Shorts descriptions, comments, and the vertical feed from August 31 to fight spam &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/230810/p27#a230810p27)
- - [CISA releases a report detailing Lapsus$title#39;s key techniques and calls on the FTC and FCC for stricter SIM swapping rules and a transition to a passwordless future &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230810/p26#a230810p26)<!-- TECH:END -->
+ - [News outlets demand new rules for AI training data](https://www.theverge.com/2023/8/10/23827316/news-transparency-copyright-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 beta 5 is here, the last beta before the stable launch](https://www.androidauthority.com/android-14-beta-5-3354254/)
+ - [Baldur’s Gate 3 reactivates PS5 cross-saves](https://www.theverge.com/2023/8/10/23827343/baldurs-gate-3-reactivates-ps5-cross-saves)
+ - [Virtualitics, which provides data visualizations that can be viewed in VR and AR, raised a $37M Series C, bringing its total funding to $67M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230810/p31#a230810p31)
  - [Is that viral ‘superconductor’ legit?](https://www.theverge.com/2023/8/10/23827216/superconductor-lk-99-research-findings)
- - [Overwatch 2 needs a win — the Invasion event, at best, is a draw](https://www.theverge.com/23827119/overwatch-2-invasion-season-6-story-missions-impression)
- - [GameStop’s ongoing buy one, get one sale includes a host of great games](https://www.theverge.com/2023/8/10/23826277/gamestop-buy-one-get-one-free-refurbished-steam-deck-deal-sale)
- - [Sources: ByteDance&#39;s revenue in China grew 25% YoY in 2022 to $69B, vs. 68% in 2021; overseas revenue grew from $6.5B in 2021 to $16B in 2022, thanks to TikTok &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/230810/p30#a230810p30)
- - [FEC could limit AI in political ads ahead of 2024](https://www.theverge.com/2023/8/10/23827399/ai-artificial-intelligence-political-ads-fec-desantis-rnc)<!-- TECH:END -->
+ - [Overwatch 2 needs a win — the Invasion event, at best, is a draw](https://www.theverge.com/23827119/overwatch-2-invasion-season-6-story-missions-impression)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

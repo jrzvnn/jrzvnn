@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [LG buys patents to speed up bringing microLED to Apple Watch Ultra](https://appleinsider.com/articles/23/08/10/lg-buys-patents-to-speed-up-bringing-microled-to-apple-watch-ultra?utm_medium=rss)
+ - [Keep Your Desk Organized With Over 50% Off This 13-in-1 Anker USB Hub     - CNET](https://www.cnet.com/deals/keep-your-desk-organized-with-over-50-off-this-13-in-1-anker-usb-hub/#ftag=CAD590a51e)
  - [Sonos’ $900 Dolby Atmos soundbar has a loud pop issue that’s taking years to fix](https://www.theverge.com/2023/8/10/23824258/sonos-arc-dolby-atmos-problems-loud-audio-pop)
  - [Gboard could soon let you use generative AI for proofreading and emojis](https://www.androidauthority.com/gboard-beta-generative-ai-proofreading-emojis-3354114/)
- - [Check Point buys rival cybersecurity company Perimeter 81 for $490M in a &quot;cash free, debt free&quot; deal; Perimeter 81 raised $100M at a $1B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230810/p22#a230810p22)
- - [Save $50 on a Samsung Z Fold 5 or Z Flip 5 preorder while you still can](https://www.theverge.com/2023/8/10/23824803/samsung-galaxy-z-fold-flip-5-foldable-android-phone-preorder-deal-sale)<!-- TECH:END -->
+ - [Check Point buys rival cybersecurity company Perimeter 81 for $490M in a &quot;cash free, debt free&quot; deal; Perimeter 81 raised $100M at a $1B valuation in June 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230810/p22#a230810p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

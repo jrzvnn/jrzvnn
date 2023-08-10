@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fireblocks discloses BitForge, a set of zero-day vulnerabilities affecting widely-used crypto wallet providers; Coinbase and Zengo have patched BitForge flaws &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/230810/p3#a230810p3)
+ - [Fireblocks discloses BitForge, a set of zero-day flaws affecting widely-used crypto wallet providers; Coinbase, Binance, and Zengo have patched BitForge flaws &lpar;Tom Mitchelhill/Cointelegraph&rpar;](http://www.techmeme.com/230810/p3#a230810p3)
  - [Y00ts, once among the top Solana-based NFT projects and which moved to Polygon in 2022, says it is migrating to Ethereum and will return the $3M Polygon grant &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230810/p2#a230810p2)
  - [Disney Plus joins Netflix in password sharing crackdown, hikes prices](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-price-hike-3353991/)
  - [Moove, which provides vehicle financing to ride-hailing drivers in Africa, the UK, India, and the UAE, raises $76M in equity and debt at a $550M valuation &lpar;Will Louch/Financial Times&rpar;](http://www.techmeme.com/230810/p1#a230810p1)

@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
- - 💣 [Busy being a weeb](http://9gag.com/gag/aZDdQZ9)
+ - 😝 [Busy being a weeb](http://9gag.com/gag/aZDdQZ9)
+ - 💣 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
  - 😝 [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 

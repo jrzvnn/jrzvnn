@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If you were in his situation what would you do?](http://9gag.com/gag/a4oxNb1)
  - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 💣 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - 😝 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
- - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
+ - 👉 [President of South Africa is asked what he is going to do stop the killing of white farmers in his country](http://9gag.com/gag/avQDWwq)<!-- MEMES:END -->
 
 ---
 </div>

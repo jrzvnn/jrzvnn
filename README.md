@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
- - 💣 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
+ - 😝 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
  - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
- - 👉 [I think there&#39;s something wrong with my sushi](http://9gag.com/gag/a2Kxv01)<!-- MEMES:END -->
+ - 👉 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)<!-- MEMES:END -->
 
 ---
 </div>

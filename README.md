@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now i&#39;m 80 kg, 170 cm. I feel like those guys who offer candy to the random kids.](http://9gag.com/gag/a5XxBdL)
- - 😝 [Would.](http://9gag.com/gag/a4oxzy6)
- - 💣 [Why?](http://9gag.com/gag/ay2z43b)
- - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - 👉 [Just steal from twitter trad](http://9gag.com/gag/aL1b4pv)<!-- MEMES:END -->
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
+ - 💣 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 😝 [Think fast!](http://9gag.com/gag/a7qGqQx)
+ - 👉 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)<!-- MEMES:END -->
 
 ---
 </div>

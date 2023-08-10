@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
- - 😝 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 💣 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
- - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 😝 [Grandparents knew they messed up \ud83d\ude2d\ud83e\udd23\ud83d\ude02\ud83e\udd23](http://9gag.com/gag/aWGd7Od)
+ - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 💣 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
+ - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
  - 👉 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)<!-- MEMES:END -->
 
 ---

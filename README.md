@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 😝 [One day kid, one day....](http://9gag.com/gag/aDYPZXZ)
- - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
- - 😝 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
+ - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
+ - 😝 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
+ - 💣 [Busy being a weeb](http://9gag.com/gag/aZDdQZ9)
+ - 😝 [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

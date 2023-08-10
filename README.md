@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [Busy being a weeb](http://9gag.com/gag/aZDdQZ9)
- - 💣 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
- - 😝 [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
- - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
+ - 😝 [That&#39;s a true friend right there.](http://9gag.com/gag/a6qxD2R)
+ - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 💣 [Video recorded an hour before this two girls were killed at this same stop yesterday by Russian missile strike at the center of Zaporizhzha.](http://9gag.com/gag/aGEoM45)
+ - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
+ - 👉 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)<!-- MEMES:END -->
 
 ---
 </div>

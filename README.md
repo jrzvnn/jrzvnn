@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6 now available in beta for Galaxy S23 series &lpar;Updated: Maybe not&rpar;](https://www.androidauthority.com/one-ui-6-beta-android-14-3353809/)
- - [Galaxy S24 series tipped to get Exynos power alongside display and RAM upgrades](https://www.androidauthority.com/samsung-galaxy-s24-specs-leak-3354007/)
- - [Touchscreens are horrible to use in the rain, but OnePlus has a solution](https://www.androidauthority.com/oneplus-rain-water-touchscreen-feature-3353994/)
- - [Mark Zuckerberg says Threads plans to add several features this week: share posts to Instagram DMs, a mention button, and a way to add custom alt-text for media &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230810/p8#a230810p8)
- - [Samsung is kicking off its One UI 6 beta program](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)<!-- TECH:END -->
+ - [Leaked Yandex Code Breaks Open the Creepy Black Box of Online Advertising](https://www.wired.com/story/yandex-leaks-crypta-ads/)
+ - [To Navigate the Age of AI, the World Needs a New Turing Test](https://www.wired.com/story/ai-new-turing-test/)
+ - [The Hip Hop Historians Who Are Racing to Preserve Its Story](https://www.wired.com/story/archiving-hip-hop-history/)
+ - [One UI 6 now available in beta for Galaxy S23 series &lpar;Updated: Delayed again&rpar;](https://www.androidauthority.com/one-ui-6-beta-android-14-3353809/)
+ - [Galaxy S24 series tipped to get Exynos power alongside display and RAM upgrades](https://www.androidauthority.com/samsung-galaxy-s24-specs-leak-3354007/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

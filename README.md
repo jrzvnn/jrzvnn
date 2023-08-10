@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you were in his situation what would you do?](http://9gag.com/gag/a4oxNb1)
- - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 💣 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)
+ - 😝 [Now i&#39;m 80 kg, 170 cm. I feel like those guys who offer candy to the random kids.](http://9gag.com/gag/a5XxBdL)
+ - 😝 [Would.](http://9gag.com/gag/a4oxzy6)
+ - 💣 [Why?](http://9gag.com/gag/ay2z43b)
  - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - 👉 [President of South Africa is asked what he is going to do stop the killing of white farmers in his country](http://9gag.com/gag/avQDWwq)<!-- MEMES:END -->
+ - 👉 [Just steal from twitter trad](http://9gag.com/gag/aL1b4pv)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s next Mi Band is basically a stripped-down Apple Watch](https://www.androidauthority.com/xiaomi-smart-band-8-pro-apple-watch-design-3354084/)
- - [Windows XP can partially run on Vision Pro hardware in emulation](https://appleinsider.com/articles/23/08/10/windows-xp-made-to-run-on-vision-pro?utm_medium=rss)
- - [Google, American Airlines, and Bill Gates&#39; Breakthrough Energy partner to create more sustainable flight routes by avoiding those that create contrails &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230810/p17#a230810p17)
- - [SOS via Satellite saves family caught out in Maui wildfires](https://appleinsider.com/articles/23/08/10/sos-via-satellite-saves-family-caught-out-in-maui-wildfires?utm_medium=rss)
- - [Lowest price ever: M1 MacBook Pro 14-inch with 32GB RAM drops to $1,799](https://appleinsider.com/articles/23/08/10/lowest-price-ever-m1-macbook-pro-14-inch-with-32gb-ram-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
+ - [Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It&#39;s Using Their Data](https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/)
+ - [Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)
+ - [The Newest Threat to Your Attention Span? TikTok ‘Dual’ Videos](https://www.wired.com/story/tiktok-dual-videos-attention-spans/)
+ - [The Emmy Awards are officially delayed because of the writers and actors strikes](https://www.theverge.com/2023/8/10/23827049/emmy-awards-delay-writers-actors-strikes-date)
+ - [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

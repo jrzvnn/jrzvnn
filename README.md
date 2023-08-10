@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
  - 😝 [Robin chwaaan](http://9gag.com/gag/amAdAgj)
- - 😝 [Double standards rule the world](http://9gag.com/gag/adPdv79)
  - 💣 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
  - 😝 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
  - 👉 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->

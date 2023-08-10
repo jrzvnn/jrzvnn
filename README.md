@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: FTX criticizes &quot;unrestricted&quot; traders and market makers on its creditor panel, accusing them of seeking control of assets and &quot;unprofessional conduct&quot; &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/230810/p16#a230810p16)
- - [The EU did not immediately follow Biden&#39;s EO banning Chinese tech investment outright and instead plans to release its own proposals by year-end &lpar;Financial Times&rpar;](http://www.techmeme.com/230810/p15#a230810p15)
- - [Navee S65 Review: A Loud and Proud Electric Scooter](https://www.wired.com/review/navee-s65/)
- - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.wired.com/story/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus/)
- - [Here Come the Robotaxis](https://www.wired.com/story/gadget-lab-podcast-608/)<!-- TECH:END -->
+ - [Xiaomi’s next Mi Band is basically a stripped-down Apple Watch](https://www.androidauthority.com/xiaomi-smart-band-8-pro-apple-watch-design-3354084/)
+ - [Windows XP can partially run on Vision Pro hardware in emulation](https://appleinsider.com/articles/23/08/10/windows-xp-made-to-run-on-vision-pro?utm_medium=rss)
+ - [Google, American Airlines, and Bill Gates&#39; Breakthrough Energy partner to create more sustainable flight routes by avoiding those that create contrails &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230810/p17#a230810p17)
+ - [SOS via Satellite saves family caught out in Maui wildfires](https://appleinsider.com/articles/23/08/10/sos-via-satellite-saves-family-caught-out-in-maui-wildfires?utm_medium=rss)
+ - [Lowest price ever: M1 MacBook Pro 14-inch with 32GB RAM drops to $1,799](https://appleinsider.com/articles/23/08/10/lowest-price-ever-m1-macbook-pro-14-inch-with-32gb-ram-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

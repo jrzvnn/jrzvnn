@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, Linda Yaccarino says she has &quot;autonomy&quot; under Musk, X plans to add video calls, is &quot;close&quot; to break-even as brands return, and more &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230810/p23#a230810p23)
+ - [Filing: autonomous sidewalk delivery company Serve Robotics, which was spun out from Uber-owned Postmates and raised $56M, to go public via a SPAC merger &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230810/p24#a230810p24)
+ - [The Scary Science of Maui’s Wildfires](https://www.wired.com/story/the-scary-science-of-mauis-wildfires/)
+ - [In an interview, X CEO Linda Yaccarino says she has &quot;autonomy&quot; under Elon Musk, X plans to add video calls, is &quot;close&quot; to break-even as brands return, and more &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230810/p23#a230810p23)
  - [Wacom’s new drawing tablets offer creative flexibility on a budget](https://www.theverge.com/2023/8/10/23825962/wacom-one-drawing-graphics-tablet-pen-display)
- - [LG buys patents to speed up bringing microLED to Apple Watch Ultra](https://appleinsider.com/articles/23/08/10/lg-buys-patents-to-speed-up-bringing-microled-to-apple-watch-ultra?utm_medium=rss)
- - [Keep Your Desk Organized With Over 50% Off This 13-in-1 Anker USB Hub     - CNET](https://www.cnet.com/deals/keep-your-desk-organized-with-over-50-off-this-13-in-1-anker-usb-hub/#ftag=CAD590a51e)
- - [Sonos’ $900 Dolby Atmos soundbar has a loud pop issue that’s taking years to fix](https://www.theverge.com/2023/8/10/23824258/sonos-arc-dolby-atmos-problems-loud-audio-pop)<!-- TECH:END -->
+ - [LG buys patents to speed up bringing microLED to Apple Watch Ultra](https://appleinsider.com/articles/23/08/10/lg-buys-patents-to-speed-up-bringing-microled-to-apple-watch-ultra?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

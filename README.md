@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 😝 [Do you have any item that was manufactured in a now non-existent country?](http://9gag.com/gag/aGEo8eX)
- - 💣 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
- - 😝 [Think fast!](http://9gag.com/gag/a7qGqQx)
- - 👉 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)<!-- MEMES:END -->
+ - 😝 [If you&#39;re NOT getting nervous before performing, it&#39;s time to quit](http://9gag.com/gag/az2BxBB)
+ - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
+ - 💣 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
+ - 😝 [Techniques used in Japan by perverts to film women](http://9gag.com/gag/aVbdEEw)
+ - 👉 [Edward with the strong hands](http://9gag.com/gag/awZ8g4r)<!-- MEMES:END -->
 
 ---
 </div>

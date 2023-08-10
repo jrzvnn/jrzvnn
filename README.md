@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
  - 😝 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
- - 😝 [Frustrated cruise Captain ridicules party goers when they cause the boat to shake dramatically.](http://9gag.com/gag/a04xorn)
- - 💣 [F**k! Here we go again!](http://9gag.com/gag/aoKd4bA)
+ - 💣 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)<!-- MEMES:END -->
+ - 👉 [Went on a date and was thinking `please don&#39;t be a B&#39;tch, please don&#39;t be a B&#39;tch. My date:](http://9gag.com/gag/a5XxzeG)<!-- MEMES:END -->
 
 ---
 </div>

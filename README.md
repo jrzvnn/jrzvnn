@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar officially teams up with GTA V roleplay server developer](https://www.theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server)
- - [Why fire is a growing risk in Hawaii](https://www.theverge.com/23828560/maui-hawaii-fire-risk-adaptation-expert-q-a)
- - [Getting started with Apple Car Key: Use your iPhone to start your car](https://appleinsider.com/inside/carkey/tips/getting-started-with-apple-car-key-use-your-iphone-to-start-your-car?utm_medium=rss)
- - [Messi Effect Boosts Apple TV Plus: MLS Season Pass Subscriptions Doubled, Says Owner Jorge Mas     - CNET](https://www.cnet.com/tech/messi-effect-boosts-apple-tv-plus-mls-season-pass-subscriptions-doubled-says-owner-jorge-mas/#ftag=CAD590a51e)
- - [At an Australian Parliament hearing, an X executive defended restoring an account that shared CSAM as an example of sharing &quot;out of outrage to raise awareness&quot; &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230811/p8#a230811p8)<!-- TECH:END -->
+ - [The Verge Launches “Installer,” a Newsletter About the Next Big Things to Download, Watch, and Explore](https://www.theverge.com/press-room/2023/8/11/23827622/the-verge-launches-installer-a-newsletter-about-the-next-big-things-to-download-watch-and-explore)
+ - [Fighting Fantasy Gamebooks Are Still Going Strong](https://www.wired.com/2023/08/geeks-guide-gamebooks/)
+ - [Geoffrey Hinton, Godfather of AI, Has a Hopeful Plan for Keeping Future AI Friendly](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/)
+ - [Vampire Survivors: our collective obsession with the quirky, genre-defining indie game](https://www.theverge.com/games/23827123/vampire-survivors-news-announcements-updates-dlc-spinoffs)
+ - [Rockstar officially teams up with GTA V roleplay server developer](https://www.theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

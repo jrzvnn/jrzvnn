@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s new round of X Ads Revenue Sharing payments arrived, eventually](https://www.theverge.com/2023/8/11/23824612/x-twitter-blue-ad-revenue-sharing-payment-delay)
  - [Olivia Rodrigo just released a new song — and a new Instagram feature](https://www.theverge.com/2023/8/11/23827690/olivia-rodrigo-instagram-music-carousel)
  - [One UI 6 beta is finally available for Galaxy S23 series…for real this time!](https://www.androidauthority.com/samsung-one-ui-6-beta-android-14-3353809/)
  - [Researchers deployed exposed Windows servers as honeypots for hackers, recording 190M events and 100 hours of video of their actions, like installing malware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230810/p38#a230810p38)
- - [Cruise and Waymo Robotaxis Can Now Work the Streets of San Francisco 24/7](https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/)
- - [The California Public Utilities Commission allows Waymo and Cruise to operate driverless cabs 24/7 throughout San Francisco, after a contentious public hearing &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230810/p37#a230810p37)<!-- TECH:END -->
+ - [Cruise and Waymo Robotaxis Can Now Work the Streets of San Francisco 24/7](https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

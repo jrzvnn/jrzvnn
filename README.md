@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is this the PS5 Slim?](https://www.theverge.com/2023/8/11/23829084/sony-playstation-5-ps5-slim-model-leak-rumors)
+ - [Zuckerberg says he’s ready to fight and that Elon keeps making things up](https://www.theverge.com/2023/8/11/23829045/mark-zuckerberg-elon-musk-fight-cage-match-making-things-up)
+ - [Poland arrests five people as Europol and the DOJ take down the Lolek &quot;bulletproof&quot; hosting provider for allegedly facilitating Netwalker ransomware attacks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230811/p12#a230811p12)
  - [Pixel 8 Pro leaks again with ‘Audio Magic Eraser’ feature and blue color](https://www.androidauthority.com/google-pixel-8-pro-audio-magic-eraser-3354586/)
- - [Sam Bankman-Fried sent to jail as judge revokes bail over witness tampering, VPN use](https://www.theverge.com/2023/8/11/23829004/ftx-sam-bankman-fried-bail-revoked-vpn-signal)
- - [Best Internet Providers in Fresno, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fresno-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Glendale, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-glendale-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Asheville, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Bankman-Fried sent to jail as judge revokes bail over witness tampering, VPN use](https://www.theverge.com/2023/8/11/23829004/ftx-sam-bankman-fried-bail-revoked-vpn-signal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
- - 😝 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aeQdVyb)
- - 😝 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 😝 [From the director who saw John Wick](http://9gag.com/gag/a2Kxb7p)
+ - 😝 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
+ - 💣 [Judgement day](http://9gag.com/gag/aGEoAgn)
+ - 😝 [I&#39;d go with the hotter one and say sorry to the girl.](http://9gag.com/gag/a4oxq16)
  - 👉 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)<!-- MEMES:END -->
 
 ---

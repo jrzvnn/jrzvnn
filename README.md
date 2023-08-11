@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Slides is getting native support for annotations](https://www.theverge.com/2023/8/11/23828306/google-slides-annotations-feature)
  - [DCG and Barry Silbert file a motion to dismiss Gemini&#39;s fraud lawsuit, claiming Gemini fails to properly claim fraud and engages in &quot;character assassination&quot; &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230811/p2#a230811p2)
  - [Here’s why Twitter’s new leadership changed its name to X](https://www.androidauthority.com/twitter-x-name-change-reason-3354432/)
  - [Samsung is kicking off its One UI 6 beta program](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
- - [Xiaomi’s next phone has double the RAM and storage of the best Pixel 7 Pro](https://www.androidauthority.com/xiaomi-redmi-k60-extreme-edition-launch-3354016/)
- - [Japan vs Sweden: How to Watch FIFA Women&#39;s World Cup 2023 Quarterfinal Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/japan-vs-sweden-how-to-watch-fifa-womens-world-cup-2023-quarterfinal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi’s next phone has double the RAM and storage of the best Pixel 7 Pro](https://www.androidauthority.com/xiaomi-redmi-k60-extreme-edition-launch-3354016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

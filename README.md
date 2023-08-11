@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Caltech may finally settle $848 million patent case against Apple](https://appleinsider.com/articles/23/08/11/caltech-may-finally-settle-848-million-patent-case-against-apple?utm_medium=rss)
  - [Fitbit Versa 5: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-versa-5-3353901/)
  - [Here’s how US carriers are helping customers after Maui fires](https://www.androidauthority.com/us-carriers-maui-wildfires-3354463/)
  - [Biden&#39;s Chinese tech EO leaves US VCs and private equity firms trying to work out the impact on their holdings and weighing up strategies to comply or exit &lpar;Financial Times&rpar;](http://www.techmeme.com/230811/p5#a230811p5)
- - [How NASA Nearly Lost the Voyager 2 Spacecraft Forever](https://www.wired.com/story/how-nasa-nearly-lost-the-voyager-2-spacecraft-forever/)
- - [Samsung Galaxy Tab S9 Series Review: Pricey, Powerful Tablets](https://www.wired.com/review/samsung-galaxy-tab-s9-series/)<!-- TECH:END -->
+ - [How NASA Nearly Lost the Voyager 2 Spacecraft Forever](https://www.wired.com/story/how-nasa-nearly-lost-the-voyager-2-spacecraft-forever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

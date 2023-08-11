@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At an Australian Parliament hearing, an X executive defended restoring an account that shared CSAM as an example of sharing &quot;out of outrage to raise awareness&quot; &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230811/p8#a230811p8)
+ - [Google may make casting to a tablet as easy as holding a phone next to it](https://www.androidauthority.com/google-pixel-tablet-new-feature-3354525/)
+ - [I saved $100s building my own NAS home server](https://www.androidauthority.com/cheap-diy-nas-server-3348392/)
  - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-1/)
- - [Apple’s 14-inch MacBook Pro with M2 Pro is up to $300 off right now](https://www.theverge.com/2023/8/11/23391418/apple-macbook-pro-m2-playstation-gift-card-resident-evil-bundle-deal-sale)
- - [Bose’s next flagship headphones could add premium flair to the QuietComfort formula](https://www.theverge.com/2023/8/11/23828437/bose-quietcomfort-ultra-headphones-earbuds-leak)
- - [Suppliers compete for share of iPhone SE screen orders](https://appleinsider.com/articles/23/08/11/suppliers-compete-for-share-of-iphone-se-screen-orders?utm_medium=rss)
- - [Geoffrey Hinton, Godfather of AI, Has a Hopeful Plan for Keeping Future AI Friendly](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/)<!-- TECH:END -->
+ - [Apple’s 14-inch MacBook Pro with M2 Pro is up to $300 off right now](https://www.theverge.com/2023/8/11/23391418/apple-macbook-pro-m2-playstation-gift-card-resident-evil-bundle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 😝 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - 💣 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
- - 😝 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 😝 [I am so happy that I was reminded of this accident. I total forgot about it and moved on](http://9gag.com/gag/a8qnwXZ)
+ - 😝 [Fun fact - You can make pretty epic bombs from fertiliser. Wish me luck yeh wankers :D](http://9gag.com/gag/a8qnDD3)
+ - 💣 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
+ - 😝 [From the director who saw John Wick](http://9gag.com/gag/a2Kxb7p)
  - 👉 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)<!-- MEMES:END -->
 
 ---

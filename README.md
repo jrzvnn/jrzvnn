@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Daily deals Aug. 11: Mac Studio $1,299, AirPods Max $370, $1,500 off MacBook Pro, $99 Apple Magic Keyboard, more](https://appleinsider.com/articles/23/08/11/daily-deals-aug-11-mac-studio-1299-airpods-max-370-1500-off-macbook-pro-99-apple-magic-keyboard-more?utm_medium=rss)
+ - [Best Soundbar Deals: Up to $258 Off Models From Big Brands     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)
  - [How yesteryear&#39;s screenless fitness bands were largely replaced by either more powerful and cheaper smartwatches or wearables with pricey monthly subscriptions &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230811/p6#a230811p6)
- - [Marvel&#39;s VFX Workers Have Moved to Unionize—and It&#39;s a Huge Deal for Hollywood](https://www.wired.com/story/marvel-vfx-unionization-big-deal/)
- - [Audacy takes $10 million hit to leave ‘onerous’ podcasting deal with APM](https://www.theverge.com/2023/8/11/23827831/audacy-ends-podcast-deal-american-public-media-apm)
- - [Apple&#39;s forgotten Trailers app is on its way out](https://appleinsider.com/articles/23/08/11/apples-forgotten-trailers-app-is-on-its-way-out?utm_medium=rss)<!-- TECH:END -->
+ - [Best Minimalist Wallet for 2023     - CNET](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)
+ - [Marvel&#39;s VFX Workers Have Moved to Unionize—and It&#39;s a Huge Deal for Hollywood](https://www.wired.com/story/marvel-vfx-unionization-big-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
+ - [GitHub’s Hardcore Plan to Roll Out Two-Factor Authentication &lpar;2FA&rpar;](https://www.wired.com/story/github-two-factor-authentication/)
  - [Getting started with Apple Car Key: Use your iPhone to start your car](https://appleinsider.com/inside/carkey/tips/getting-started-with-apple-car-key-use-your-iphone-to-start-your-car?utm_medium=rss)
  - [ION Group, which develops trading, analytics, and other software for financial markets, to buy Italian credit management company Prelios, sources say for &amp;euro;1.35B &lpar;Reuters&rpar;](http://www.techmeme.com/230811/p9#a230811p9)
- - [The Verge Launches “Installer,” a Newsletter About the Next Big Things to Download, Watch, and Explore](https://www.theverge.com/press-room/2023/8/11/23827622/the-verge-launches-installer-a-newsletter-about-the-next-big-things-to-download-watch-and-explore)
- - [Fighting Fantasy Gamebooks Are Still Going Strong](https://www.wired.com/2023/08/geeks-guide-gamebooks/)
- - [Geoffrey Hinton, Godfather of AI, Has a Hopeful Plan for Keeping Future AI Friendly](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/)<!-- TECH:END -->
+ - [The Verge Launches “Installer,” a Newsletter About the Next Big Things to Download, Watch, and Explore](https://www.theverge.com/press-room/2023/8/11/23827622/the-verge-launches-installer-a-newsletter-about-the-next-big-things-to-download-watch-and-explore)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

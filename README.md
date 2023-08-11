@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rockstar officially teams up with GTA V roleplay server developer](https://www.theverge.com/2023/8/11/23828431/rockstar-cfx-re-mod-tools-roleplay-server)
  - [Why fire is a growing risk in Hawaii](https://www.theverge.com/23828560/maui-hawaii-fire-risk-adaptation-expert-q-a)
  - [Getting started with Apple Car Key: Use your iPhone to start your car](https://appleinsider.com/inside/carkey/tips/getting-started-with-apple-car-key-use-your-iphone-to-start-your-car?utm_medium=rss)
- - [At an Australian Parliament hearing, an X executive defended restoring an account that shared CSAM as an example of sharing &quot;out of outrage to raise awareness&quot; &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230811/p8#a230811p8)
- - [Google may make casting to a tablet as easy as holding a phone next to it](https://www.androidauthority.com/google-pixel-tablet-new-feature-3354525/)
- - [I saved $100s building my own NAS home server](https://www.androidauthority.com/cheap-diy-nas-server-3348392/)<!-- TECH:END -->
+ - [Messi Effect Boosts Apple TV Plus: MLS Season Pass Subscriptions Doubled, Says Owner Jorge Mas     - CNET](https://www.cnet.com/tech/messi-effect-boosts-apple-tv-plus-mls-season-pass-subscriptions-doubled-says-owner-jorge-mas/#ftag=CAD590a51e)
+ - [At an Australian Parliament hearing, an X executive defended restoring an account that shared CSAM as an example of sharing &quot;out of outrage to raise awareness&quot; &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230811/p8#a230811p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
- - 😝 [New Snow White Movie](http://9gag.com/gag/axoAPjY)
- - 💣 [Judgement day](http://9gag.com/gag/aGEoAgn)
- - 😝 [I&#39;d go with the hotter one and say sorry to the girl.](http://9gag.com/gag/a4oxq16)
- - 👉 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)<!-- MEMES:END -->
+ - 😝 [When the doctor is your friend](http://9gag.com/gag/awZ84ED)
+ - 😝 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
+ - 💣 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
+ - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
+ - 👉 [Planned on social media by `Londoners`](http://9gag.com/gag/az2BYVj)<!-- MEMES:END -->
 
 ---
 </div>

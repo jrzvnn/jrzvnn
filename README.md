@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 💣 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 😝 [Meme material](http://9gag.com/gag/armdAL0)
+ - 😝 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 💣 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
  - 😝 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
  - 👉 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)<!-- MEMES:END -->
 

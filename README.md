@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PS5 Slim appears to leak in video, and it’s not very slim](https://www.androidauthority.com/sony-ps5-slim-leaked-video-3354601/)
  - [SEC filing: Better.com plans to go public via a SPAC merger, raising $750M, after initially planning a $6B SPAC in May 2021 &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)
  - [Is this the PS5 Slim?](https://www.theverge.com/2023/8/11/23829084/sony-playstation-5-ps5-slim-model-leak-rumors)
  - [Zuckerberg says he’s ready to fight and that Elon keeps making things up](https://www.theverge.com/2023/8/11/23829045/mark-zuckerberg-elon-musk-fight-cage-match-making-things-up)
- - [Poland arrests five people as Europol and the DOJ take down the Lolek &quot;bulletproof&quot; hosting provider for allegedly facilitating Netwalker ransomware attacks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230811/p12#a230811p12)
- - [Pixel 8 Pro leaks again with ‘Audio Magic Eraser’ feature and blue color](https://www.androidauthority.com/google-pixel-8-pro-audio-magic-eraser-3354586/)<!-- TECH:END -->
+ - [Poland arrests five people as Europol and the DOJ take down the Lolek &quot;bulletproof&quot; hosting provider for allegedly facilitating Netwalker ransomware attacks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230811/p12#a230811p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

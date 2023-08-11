@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
+ - 😝 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
  - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 💣 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)
- - 😝 [I wish I was him. My family would be so proud of me.](http://9gag.com/gag/avQD15E)
+ - 💣 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)
+ - 😝 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

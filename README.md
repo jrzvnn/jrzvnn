@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Medela Freestyle Breast Pump Review: Less Cleaning](https://www.wired.com/review/medea-freestyle-pump/)
+ - [Are You Being Tracked by an AirTag? Here’s How to Check](https://www.wired.com/story/how-to-find-airtags/)
+ - [8 Best Laptops and Tablets for College Students &lpar;2023&rpar;: Cheap, Gaming, Portable](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)
  - [Caltech may finally settle $848 million patent case against Apple](https://appleinsider.com/articles/23/08/11/caltech-may-finally-settle-848-million-patent-case-against-apple?utm_medium=rss)
- - [Fitbit Versa 5: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-versa-5-3353901/)
- - [Here’s how US carriers are helping customers after Maui fires](https://www.androidauthority.com/us-carriers-maui-wildfires-3354463/)
- - [Biden&#39;s Chinese tech EO leaves US VCs and private equity firms trying to work out the impact on their holdings and weighing up strategies to comply or exit &lpar;Financial Times&rpar;](http://www.techmeme.com/230811/p5#a230811p5)
- - [How NASA Nearly Lost the Voyager 2 Spacecraft Forever](https://www.wired.com/story/how-nasa-nearly-lost-the-voyager-2-spacecraft-forever/)<!-- TECH:END -->
+ - [The One UI 6 beta is finally available for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

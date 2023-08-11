@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a peaceful life](http://9gag.com/gag/avQDWMZ)
- - 😝 [Hey guys, these lads knocked on my door said they need a place to stay. They looked hungry. Started talking non sense about a car show, grand tour or smth. They were kinda rude, especially the fat one](http://9gag.com/gag/aeQdVwq)
- - 💣 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
+ - 😝 [President of South Africa is asked what he is going to do stop the killing of white farmers in his country](http://9gag.com/gag/avQDWwq)
+ - 😝 [GRAPEEE...](http://9gag.com/gag/aDYP6OB)
+ - 💣 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [Russian soldiers received some canned beef as rations and some of them were filled with water and bits of..something i don&#39;t even want to imagine.](http://9gag.com/gag/aA0mM5p)<!-- MEMES:END -->
+ - 👉 [F**k! Here we go again!](http://9gag.com/gag/aoKd4bA)<!-- MEMES:END -->
 
 ---
 </div>

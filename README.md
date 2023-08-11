@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What cash discounts tell us about payment defaults](https://www.theverge.com/2023/8/11/23828662/cash-atm-credit-cards-defaults-discount)
- - [Field workers can tap their phones and access AI.](https://www.theverge.com/2023/8/11/23828556/microsoft-generative-ai-frontline-workers)
- - [Apple is winding down its classic iTunes Movie Trailers app](https://www.theverge.com/2023/8/11/23828718/apple-classic-itunes-movie-trailers-app-winding-down)
- - [Samsung’s massive Odyssey Neo G9 monitor gets launch date and flashy trailer](https://www.androidauthority.com/samsung-gaming-monitor-launch-date-3354563/)
- - [There’s a disconnect between health tech and the people it’s supposed to help](https://www.theverge.com/2023/8/11/23828505/yale-study-heart-disease-wearables-health-tech)<!-- TECH:END -->
+ - [ASUS ROG Phone 8: Release date, price, specs, rumors, and what we hope to see](https://www.androidauthority.com/asus-rog-phone-8-3353396/)
+ - [The 45 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Hip Hop 2073: A Vision of the Future, 50 Years From Now](https://www.wired.com/story/hip-hop-in-2073/)
+ - [The 44 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Canon is getting away with printers that won’t scan sans ink — but HP might pay](https://www.theverge.com/2023/8/11/23067867/canon-hp-class-action-lawsuit-scan-without-ink-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden&#39;s Chinese tech EO leaves US VCs and private equity firms trying to work out the impact on their holdings and weighing up strategies to comply or exit &lpar;Financial Times&rpar;](http://www.techmeme.com/230811/p5#a230811p5)
  - [How NASA Nearly Lost the Voyager 2 Spacecraft Forever](https://www.wired.com/story/how-nasa-nearly-lost-the-voyager-2-spacecraft-forever/)
  - [Samsung Galaxy Tab S9 Series Review: Pricey, Powerful Tablets](https://www.wired.com/review/samsung-galaxy-tab-s9-series/)
  - [It looks like Android is getting a Continuity-like device-linking feature](https://www.theverge.com/2023/8/11/23828307/google-android-device-link-apple-continuity-call-sharing)
- - [Sources and docs detail Worldcoin&#39;s struggle to define its purpose, the orb not scanning Asian people, a flaw allowing multiple signups per person, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230811/p4#a230811p4)
- - [Microsoft shuts down Cortana app on Windows 11](https://www.theverge.com/2023/8/11/23828311/microsoft-shuts-down-cortana-windows-11)<!-- TECH:END -->
+ - [Sources and docs detail Worldcoin&#39;s struggle to define its purpose, the orb not scanning Asian people, a flaw allowing multiple signups per person, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230811/p4#a230811p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

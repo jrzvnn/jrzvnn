@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
- - 😝 [Meme material](http://9gag.com/gag/armdAL0)
- - 💣 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
+ - 😝 [Natalie Dormer](http://9gag.com/gag/ay2z6bX)
+ - 😝 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)
+ - 💣 [F**k! Here we go again!](http://9gag.com/gag/aoKd4bA)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)<!-- MEMES:END -->
+ - 👉 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)<!-- MEMES:END -->
 
 ---
 </div>

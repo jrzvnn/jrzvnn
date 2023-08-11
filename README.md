@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the director who saw John Wick](http://9gag.com/gag/a2Kxb7p)
- - 😝 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
- - 💣 [Judgement day](http://9gag.com/gag/aGEoAgn)
- - 😝 [I&#39;d go with the hotter one and say sorry to the girl.](http://9gag.com/gag/a4oxq16)
+ - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 😝 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 💣 [Planned on social media by `Londoners`](http://9gag.com/gag/az2BYVj)
+ - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
  - 👉 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)<!-- MEMES:END -->
 
 ---

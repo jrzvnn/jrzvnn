@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
- - 😝 [Judgement day](http://9gag.com/gag/aGEoAgn)
- - 💣 [I&#39;d go with the hotter one and say sorry to the girl.](http://9gag.com/gag/a4oxq16)
+ - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
+ - 😝 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
+ - 💣 [Wood](http://9gag.com/gag/aGEo2dX)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [New Snow White Movie](http://9gag.com/gag/axoAPjY)<!-- MEMES:END -->
+ - 👉 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)<!-- MEMES:END -->
 
 ---
 </div>

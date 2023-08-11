@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s why Twitter’s new leadership changed its name to X](https://www.androidauthority.com/twitter-x-name-change-reason-3354432/)
  - [Samsung is kicking off its One UI 6 beta program](https://www.theverge.com/2023/8/10/23826696/samsung-one-ui-6-beta-program-s23)
  - [Xiaomi’s next phone has double the RAM and storage of the best Pixel 7 Pro](https://www.androidauthority.com/xiaomi-redmi-k60-extreme-edition-launch-3354016/)
- - [Google could soon offer Apple-style cross-device integration](https://www.androidauthority.com/google-link-android-devices-together-leak-3354408/)
- - [The best Samsung Galaxy Watch 6 Classic bands](https://www.androidauthority.com/best-samsung-galaxy-watch-6-classic-bands-3354332/)
- - [Smell Your Way Out of the Uncanny Valley](https://www.wired.com/story/scentient-smell-virtual-reality/)<!-- TECH:END -->
+ - [Japan vs Sweden: How to Watch FIFA Women&#39;s World Cup 2023 Quarterfinal Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/japan-vs-sweden-how-to-watch-fifa-womens-world-cup-2023-quarterfinal-live-from-anywhere/#ftag=CAD590a51e)
+ - [Google could soon offer Apple-style cross-device integration](https://www.androidauthority.com/google-link-android-devices-together-leak-3354408/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

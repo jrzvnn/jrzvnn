@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel&#39;s VFX Workers Have Moved to Unionize—and It&#39;s a Huge Deal for Hollywood](https://www.wired.com/story/marvel-vfx-unionization-big-deal/)
+ - [Audacy takes $10 million hit to leave ‘onerous’ podcasting deal with APM](https://www.theverge.com/2023/8/11/23827831/audacy-ends-podcast-deal-american-public-media-apm)
  - [Apple&#39;s forgotten Trailers app is on its way out](https://appleinsider.com/articles/23/08/11/apples-forgotten-trailers-app-is-on-its-way-out?utm_medium=rss)
  - [iPhone 15 Pro &amp; A17 details, Maui family saved, and an iPhone repair debacle on the AppleInsider podcast](https://appleinsider.com/articles/23/08/11/iphone-15-pro-a17-details-maui-family-saved-and-an-iphone-repair-debacle-on-the-appleinsider-podcast?utm_medium=rss)
- - [Medela Freestyle Breast Pump Review: Less Cleaning](https://www.wired.com/review/medea-freestyle-pump/)
- - [Are You Being Tracked by an AirTag? Here’s How to Check](https://www.wired.com/story/how-to-find-airtags/)
- - [8 Best Laptops and Tablets for College Students &lpar;2023&rpar;: Cheap, Gaming, Portable](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)<!-- TECH:END -->
+ - [Medela Freestyle Breast Pump Review: Less Cleaning](https://www.wired.com/review/medea-freestyle-pump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
- - 😝 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
- - 💣 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
+ - 😝 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
+ - 😝 [Meme material](http://9gag.com/gag/armdAL0)
+ - 💣 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [Nice idea](http://9gag.com/gag/az2BRqm)<!-- MEMES:END -->
+ - 👉 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)<!-- MEMES:END -->
 
 ---
 </div>

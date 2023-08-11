@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smell Your Way Out of the Uncanny Valley](https://www.wired.com/story/scentient-smell-virtual-reality/)
  - [WhatsApp is getting the ability to schedule group calls](https://www.androidauthority.com/whatsapp-schedule-calls-3354392/)
  - [Teens replicated a 2008 hack of Boston&#39;s subway fare system and were invited to present their work, a contrast to the transit authority&#39;s response 15 years ago &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230811/p1#a230811p1)
  - [Elon Musk’s new round of X Ads Revenue Sharing payments arrived, eventually](https://www.theverge.com/2023/8/11/23824612/x-twitter-blue-ad-revenue-sharing-payment-delay)
- - [Olivia Rodrigo just released a new song — and a new Instagram feature](https://www.theverge.com/2023/8/11/23827690/olivia-rodrigo-instagram-music-carousel)
- - [One UI 6 beta is finally available for Galaxy S23 series…for real this time!](https://www.androidauthority.com/samsung-one-ui-6-beta-android-14-3353809/)<!-- TECH:END -->
+ - [Olivia Rodrigo just released a new song — and a new Instagram feature](https://www.theverge.com/2023/8/11/23827690/olivia-rodrigo-instagram-music-carousel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

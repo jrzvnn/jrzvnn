@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro &amp; A17 details, Maui family saved, and an iPhone repair debacle on the AppleInsider podcast](https://appleinsider.com/articles/23/08/11/iphone-15-pro-a17-details-maui-family-saved-and-an-iphone-repair-debacle-on-the-appleinsider-podcast?utm_medium=rss)
  - [Medela Freestyle Breast Pump Review: Less Cleaning](https://www.wired.com/review/medea-freestyle-pump/)
  - [Are You Being Tracked by an AirTag? Here’s How to Check](https://www.wired.com/story/how-to-find-airtags/)
  - [8 Best Laptops and Tablets for College Students &lpar;2023&rpar;: Cheap, Gaming, Portable](https://www.wired.com/gallery/best-laptops-tablets-for-students-school/)
- - [Caltech may finally settle $848 million patent case against Apple](https://appleinsider.com/articles/23/08/11/caltech-may-finally-settle-848-million-patent-case-against-apple?utm_medium=rss)
- - [The One UI 6 beta is finally available for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
+ - [Caltech may finally settle $848 million patent case against Apple](https://appleinsider.com/articles/23/08/11/caltech-may-finally-settle-848-million-patent-case-against-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is winding down its classic iTunes Movie Trailers app](https://www.theverge.com/2023/8/11/23828718/apple-classic-itunes-movie-trailers-app-winding-down)
+ - [Samsung’s massive Odyssey Neo G9 monitor gets launch date and flashy trailer](https://www.androidauthority.com/samsung-gaming-monitor-launch-date-3354563/)
  - [There’s a disconnect between health tech and the people it’s supposed to help](https://www.theverge.com/2023/8/11/23828505/yale-study-heart-disease-wearables-health-tech)
  - [These are the Bose QuietComfort Ultra headphones — now with spatial audio](https://www.theverge.com/2023/8/11/23828738/bose-quietcomfort-ultra-headphones-photos-features)
- - [Nearly 400 sickos have beaten Baldur’s Gate 3 already](https://www.theverge.com/2023/8/11/23828635/baldurs-gate-3-player-stats-larian-studios)
- - [Zoom updates its terms of service and a recent blog post to explicitly say that &quot;communications-like customer content&quot; won&#39;t be used to train AI models &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230811/p10#a230811p10)
- - [Zoom rewrites its policies to make clear that your videos aren’t used to train AI tools](https://www.theverge.com/2023/8/11/23828649/zoom-communications-like-data-train-ai-artificial-intelligence-models)<!-- TECH:END -->
+ - [Nearly 400 sickos have beaten Baldur’s Gate 3 already](https://www.theverge.com/2023/8/11/23828635/baldurs-gate-3-player-stats-larian-studios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

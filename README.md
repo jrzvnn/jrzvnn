@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Field workers can tap their phones and access AI.](https://www.theverge.com/2023/8/11/23828556/microsoft-generative-ai-frontline-workers)
  - [Apple is winding down its classic iTunes Movie Trailers app](https://www.theverge.com/2023/8/11/23828718/apple-classic-itunes-movie-trailers-app-winding-down)
  - [Samsung’s massive Odyssey Neo G9 monitor gets launch date and flashy trailer](https://www.androidauthority.com/samsung-gaming-monitor-launch-date-3354563/)
  - [There’s a disconnect between health tech and the people it’s supposed to help](https://www.theverge.com/2023/8/11/23828505/yale-study-heart-disease-wearables-health-tech)
- - [These are the Bose QuietComfort Ultra headphones — now with spatial audio](https://www.theverge.com/2023/8/11/23828738/bose-quietcomfort-ultra-headphones-photos-features)
- - [Nearly 400 sickos have beaten Baldur’s Gate 3 already](https://www.theverge.com/2023/8/11/23828635/baldurs-gate-3-player-stats-larian-studios)<!-- TECH:END -->
+ - [These are the Bose QuietComfort Ultra headphones — now with spatial audio](https://www.theverge.com/2023/8/11/23828738/bose-quietcomfort-ultra-headphones-photos-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

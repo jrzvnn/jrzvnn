@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
  - 😝 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
- - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
- - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
+ - 💣 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [I can&#39;t sleep for fear that my sister will fall out of bed](http://9gag.com/gag/a4ox2Ep)<!-- MEMES:END -->
+ - 👉 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US judge revokes SBF&#39;s bail after DOJ accused him of violating his bond terms, including by sharing ex-Alameda CEO Caroline Ellison&#39;s private diary with the NYT &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230811/p11#a230811p11)
+ - [Real-world photos of the Bose QuietComfort Ultra leak with new details](https://www.androidauthority.com/bose-quietcomfort-ultra-headphone-photos-3354573/)
+ - [A US judge revokes SBF&#39;s bail after the DOJ accused him of tampering with witnesses, such as by sharing former Alameda CEO Caroline Ellison&#39;s diary with the NYT &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230811/p11#a230811p11)
  - [ASUS ROG Phone 8: Release date, price, specs, rumors, and what we hope to see](https://www.androidauthority.com/asus-rog-phone-8-3353396/)
  - [The 45 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Hip Hop 2073: A Vision of the Future, 50 Years From Now](https://www.wired.com/story/hip-hop-in-2073/)
- - [The 44 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Hip Hop 2073: A Vision of the Future, 50 Years From Now](https://www.wired.com/story/hip-hop-in-2073/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

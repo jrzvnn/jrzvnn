@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
  - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 😝 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
- - 💣 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
+ - 💣 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)<!-- MEMES:END -->
+ - 👉 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)<!-- MEMES:END -->
 
 ---
 </div>

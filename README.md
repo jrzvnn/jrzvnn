@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Natalie Dormer](http://9gag.com/gag/ay2z6bX)
- - 😝 [Hearing about this new AI that undresses people...](http://9gag.com/gag/anzdRNb)
- - 💣 [F**k! Here we go again!](http://9gag.com/gag/aoKd4bA)
+ - 😝 [7 days &gt; 1 night](http://9gag.com/gag/aPgpQnn)
+ - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
+ - 💣 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)<!-- MEMES:END -->
+ - 👉 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)<!-- MEMES:END -->
 
 ---
 </div>

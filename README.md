@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise and Waymo Robotaxis Can Now Work the Streets of San Francisco 24/7](https://www.wired.com/story/robotaxis-cruise-waymo-san-francisco/)
  - [The California Public Utilities Commission allows Waymo and Cruise to operate driverless cabs 24/7 throughout San Francisco, after a contentious public hearing &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230810/p37#a230810p37)
  - [Oracle, SUSE, and CIQ launch the Open Enterprise Linux Association to foster RHEL-based distributions development, after Red Hat limited RHEL source code access &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230810/p36#a230810p36)
- - [Robotaxis get the green light to expand to 24/7 service in San Francisco](https://www.theverge.com/2023/8/10/23827790/waymo-cruise-cpuc-vote-robotaxi-san-francisco)
- - [Apple to donate to Maui and Hawaii relief and recovery efforts](https://appleinsider.com/articles/23/08/11/apple-to-donate-to-maui-and-hawaii-relief-and-recovery-efforts?utm_medium=rss)
- - [Here are 8 things you can do with your old laptop](https://www.androidauthority.com/things-you-can-do-with-your-old-laptop-3354301/)<!-- TECH:END -->
+ - [Robotaxis score a huge victory in California with approval to operate 24/7](https://www.theverge.com/2023/8/10/23827790/waymo-cruise-cpuc-vote-robotaxi-san-francisco)
+ - [Apple to donate to Maui and Hawaii relief and recovery efforts](https://appleinsider.com/articles/23/08/11/apple-to-donate-to-maui-and-hawaii-relief-and-recovery-efforts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

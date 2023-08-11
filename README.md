@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assuming there is power](http://9gag.com/gag/aPgpQMB)
+ - 😝 [F**k! Here we go again!](http://9gag.com/gag/aoKd4bA)
  - 😝 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
- - 💣 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
+ - 💣 [What is love?](http://9gag.com/gag/aZDdEr6)
  - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)<!-- MEMES:END -->
+ - 👉 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)<!-- MEMES:END -->
 
 ---
 </div>

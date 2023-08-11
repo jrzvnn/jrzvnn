@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom rewrites its policies to make clear that your videos aren’t used to train AI tools](https://www.theverge.com/2023/8/11/23828649/zoom-communications-like-data-train-ai-artificial-intelligence-models)
+ - [Suppliers compete for share of 2025 iPhone SE 4 screen orders](https://appleinsider.com/articles/23/08/11/suppliers-compete-for-share-of-iphone-se-screen-orders?utm_medium=rss)
  - [Flash deal: Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
  - [GitHub’s Hardcore Plan to Roll Out Two-Factor Authentication &lpar;2FA&rpar;](https://www.wired.com/story/github-two-factor-authentication/)
- - [Getting started with Apple Car Key: Use your iPhone to start your car](https://appleinsider.com/inside/carkey/tips/getting-started-with-apple-car-key-use-your-iphone-to-start-your-car?utm_medium=rss)
- - [ION Group, which sells trading, analytics, and other financial market tools, plans to acquire Italian credit management company Prelios, sources say for &amp;euro;1.35B &lpar;Reuters&rpar;](http://www.techmeme.com/230811/p9#a230811p9)
- - [Chromebook Expiration Dates: A Must-Know Guide for Smart Buyers     - CNET](https://www.cnet.com/tech/computing/chromebook-expiration-dates-must-know-guide-for-smart-buyers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Getting started with Apple Car Key: Use your iPhone to start your car](https://appleinsider.com/inside/carkey/tips/getting-started-with-apple-car-key-use-your-iphone-to-start-your-car?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

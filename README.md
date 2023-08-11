@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
- - 💣 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
- - 😝 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
+ - 😝 [The whale was not happy to be called out](http://9gag.com/gag/a1PxVXP)
+ - 😝 [Something to make your day](http://9gag.com/gag/aPgpQRV)
+ - 💣 [Aliens VS Genders](http://9gag.com/gag/aNwqB1b)
+ - 😝 [Looks like meats back on the menu boys!](http://9gag.com/gag/aBdvPRO)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

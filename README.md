@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Planned on social media by `Londoners`](http://9gag.com/gag/az2BYVj)
- - 😝 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 💣 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 😝 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
+ - 😝 [Judgement day](http://9gag.com/gag/aGEoAgn)
+ - 💣 [I&#39;d go with the hotter one and say sorry to the girl.](http://9gag.com/gag/a4oxq16)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)<!-- MEMES:END -->
+ - 👉 [New Snow White Movie](http://9gag.com/gag/axoAPjY)<!-- MEMES:END -->
 
 ---
 </div>

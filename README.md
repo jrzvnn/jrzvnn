@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-1/)
+ - [Apple’s 14-inch MacBook Pro with M2 Pro is up to $300 off right now](https://www.theverge.com/2023/8/11/23391418/apple-macbook-pro-m2-playstation-gift-card-resident-evil-bundle-deal-sale)
  - [Bose’s next flagship headphones could add premium flair to the QuietComfort formula](https://www.theverge.com/2023/8/11/23828437/bose-quietcomfort-ultra-headphones-earbuds-leak)
  - [Suppliers compete for share of iPhone SE screen orders](https://appleinsider.com/articles/23/08/11/suppliers-compete-for-share-of-iphone-se-screen-orders?utm_medium=rss)
- - [Geoffrey Hinton, Godfather of AI, Has a Hopeful Plan for Keeping Future AI Friendly](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/)
- - [14 Best Laptop Stands &lpar;2023&rpar;: Adjustable, Portable, and More](https://www.wired.com/gallery/best-laptop-stands/)
- - [X lowers eligibility threshold for ads revenue sharing from 15M to 5M impressions within the past 3 months; Musk says only views from &quot;verified handles&quot; count &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230811/p7#a230811p7)<!-- TECH:END -->
+ - [Geoffrey Hinton, Godfather of AI, Has a Hopeful Plan for Keeping Future AI Friendly](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

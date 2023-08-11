@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose’s next flagship headphones could add premium flair to the QuietComfort formula](https://www.theverge.com/2023/8/11/23828437/bose-quietcomfort-ultra-headphones-earbuds-leak)
  - [Suppliers compete for share of iPhone SE screen orders](https://appleinsider.com/articles/23/08/11/suppliers-compete-for-share-of-iphone-se-screen-orders?utm_medium=rss)
  - [Geoffrey Hinton, Godfather of AI, Has a Hopeful Plan for Keeping Future AI Friendly](https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/)
  - [14 Best Laptop Stands &lpar;2023&rpar;: Adjustable, Portable, and More](https://www.wired.com/gallery/best-laptop-stands/)
- - [X lowers eligibility threshold for ads revenue sharing from 15M to 5M impressions within the past 3 months; Musk says only views from &quot;verified handles&quot; count &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230811/p7#a230811p7)
- - [Daily deals Aug. 11: Mac Studio $1,299, AirPods Max $370, $1,500 off MacBook Pro, $99 Apple Magic Keyboard, more](https://appleinsider.com/articles/23/08/11/daily-deals-aug-11-mac-studio-1299-airpods-max-370-1500-off-macbook-pro-99-apple-magic-keyboard-more?utm_medium=rss)<!-- TECH:END -->
+ - [X lowers eligibility threshold for ads revenue sharing from 15M to 5M impressions within the past 3 months; Musk says only views from &quot;verified handles&quot; count &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230811/p7#a230811p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

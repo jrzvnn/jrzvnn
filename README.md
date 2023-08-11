@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am so happy that I was reminded of this accident. I total forgot about it and moved on](http://9gag.com/gag/a8qnwXZ)
- - 😝 [Fun fact - You can make pretty epic bombs from fertiliser. Wish me luck yeh wankers :D](http://9gag.com/gag/a8qnDD3)
- - 💣 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)
- - 😝 [From the director who saw John Wick](http://9gag.com/gag/a2Kxb7p)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aeQdVyb)
+ - 😝 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
+ - 💣 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)
+ - 😝 [97-year-old restaurant, which continues to serve Coca-Cola according to the original formula with ice in New York.](http://9gag.com/gag/aEqQXwe)
  - 👉 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)<!-- MEMES:END -->
 
 ---

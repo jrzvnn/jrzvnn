@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Pixel 8 Pro leaks again with ‘Audio Magic Eraser’ feature and blue color](https://www.androidauthority.com/google-pixel-8-pro-audio-magic-eraser-3354586/)
  - [Sam Bankman-Fried sent to jail as judge revokes bail over witness tampering, VPN use](https://www.theverge.com/2023/8/11/23829004/ftx-sam-bankman-fried-bail-revoked-vpn-signal)
- - [Real-world photos of the Bose QuietComfort Ultra leak with new details](https://www.androidauthority.com/bose-quietcomfort-ultra-headphone-photos-3354573/)
- - [A US judge revokes SBF&#39;s bail after the DOJ accused him of tampering with witnesses, such as by sharing former Alameda CEO Caroline Ellison&#39;s diary with the NYT &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230811/p11#a230811p11)
- - [ASUS ROG Phone 8: Release date, price, specs, rumors, and what we hope to see](https://www.androidauthority.com/asus-rog-phone-8-3353396/)<!-- TECH:END -->
+ - [Best Internet Providers in Fresno, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fresno-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Glendale, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-glendale-ca/#ftag=CAD590a51e)
+ - [Best Internet Providers in Asheville, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

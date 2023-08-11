@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly 400 sickos have beaten Baldur’s Gate 3 already](https://www.theverge.com/2023/8/11/23828635/baldurs-gate-3-player-stats-larian-studios)
  - [Zoom updates its terms of service and rewords a recent blog to explicitly say that &quot;communications-like customer content&quot; won&#39;t be used to train AI models &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230811/p10#a230811p10)
  - [Zoom rewrites its policies to make clear that your videos aren’t used to train AI tools](https://www.theverge.com/2023/8/11/23828649/zoom-communications-like-data-train-ai-artificial-intelligence-models)
  - [Suppliers compete for share of 2025 iPhone SE 4 screen orders](https://appleinsider.com/articles/23/08/11/suppliers-compete-for-share-of-iphone-se-screen-orders?utm_medium=rss)
- - [Flash deal: Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
- - [GitHub’s Hardcore Plan to Roll Out Two-Factor Authentication &lpar;2FA&rpar;](https://www.wired.com/story/github-two-factor-authentication/)<!-- TECH:END -->
+ - [Flash deal: Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

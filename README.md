@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The California Public Utilities Commission allows Waymo and Cruise to operate driverless cabs 24/7 throughout San Francisco, after a contentious public hearing &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230810/p37#a230810p37)
+ - [Oracle, SUSE, and CIQ launch the Open Enterprise Linux Association to foster RHEL-based distributions development, after Red Hat limited RHEL source code access &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230810/p36#a230810p36)
+ - [Robotaxis get the green light to expand to 24/7 service in San Francisco](https://www.theverge.com/2023/8/10/23827790/waymo-cruise-cpuc-vote-robotaxi-san-francisco)
  - [Apple to donate to Maui and Hawaii relief and recovery efforts](https://appleinsider.com/articles/23/08/11/apple-to-donate-to-maui-and-hawaii-relief-and-recovery-efforts?utm_medium=rss)
- - [Here are 8 things you can do with your old laptop](https://www.androidauthority.com/things-you-can-do-with-your-old-laptop-3354301/)
- - [Circle says it has $1B+ in cash and had $779M in revenue in H1 2023, vs. $772M for all of 2022, as USDC in circulation has fallen to ~$26B from ~$45B in January &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230810/p35#a230810p35)
- - [Apple MLS Season Pass subscriptions have doubled since Lionel Messi joined Inter Miami](https://appleinsider.com/articles/23/08/10/apple-mls-season-pass-subscriptions-have-doubled-since-lionel-messi-joined-inter-miami?utm_medium=rss)
- - [Save Up to 50% Off Sunglasses From Oakley, Ray-Ban, Costa Del Mar and More     - CNET](https://www.cnet.com/deals/save-up-to-50-off-sunglasses-from-oakley-ray-ban-costa-del-mar-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are 8 things you can do with your old laptop](https://www.androidauthority.com/things-you-can-do-with-your-old-laptop-3354301/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

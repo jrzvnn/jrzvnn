@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7 days &gt; 1 night](http://9gag.com/gag/aPgpQnn)
- - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
- - 💣 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
- - 😝 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)
- - 👉 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)<!-- MEMES:END -->
+ - 😝 [Oh dear *starts to tear up](http://9gag.com/gag/amAd1MV)
+ - 😝 [Go woke go broke](http://9gag.com/gag/aDYPZgK)
+ - 💣 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 😝 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
+ - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---
 </div>

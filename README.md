@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7 days &gt; 1 night](http://9gag.com/gag/aPgpQnn)
- - 😝 [I&#39;m shocked. Shocked I tell you ! Well not that shocked.](http://9gag.com/gag/a5Xx29g)
- - 💣 [The Only Good Shoot in the Flash Movie](http://9gag.com/gag/awZ8OPB)
- - 😝 [Never be someone&#39;s second option. Be smart.](http://9gag.com/gag/aZDdwwz)
+ - 😝 [Best friends&lpar;zones&rpar; forever](http://9gag.com/gag/aMEWmD1)
+ - 😝 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
+ - 💣 [Looks like Hawaii just been through a war..](http://9gag.com/gag/awZ8LBR)
+ - 😝 [Im a white South African looking to leave SA. I am a Network Engineer and im still struggling to get a job in another country. I have the funds to leave but I am worried that i wont be allowed to stay and work and apply for citizenship. Any help or advice would be appreciated.](http://9gag.com/gag/aDYPnXK)
  - 👉 [Honkai: Star Rail Meme Contest Giveaway!](http://9gag.com/gag/aPgpeon)<!-- MEMES:END -->
 
 ---

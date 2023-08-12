@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
- - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [This dad gave his daughter a truly magical moment at the Eiffel Tower. He convinced his daughter that she was the one turning on the Eiffel Tower\u2019s lights.](http://9gag.com/gag/aEqQZRn)
+ - 😝 [New Snow White Movie](http://9gag.com/gag/axoAPjY)
  - 💣 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)<!-- MEMES:END -->
+ - 👉 [Whadiya gonna do abouti?](http://9gag.com/gag/a5XxDrg)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hollywood Professional Association, which includes Google, Microsoft, and Amazon, urges the AMPTP, the WGA, and SAG-AFTRA to find a strike resolution soon &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230812/p2#a230812p2)
  - [Fitbit Sense 3: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-sense-3-3353902/)
  - [Illinois passes the US&#39; first law protecting child influencers, entitling influencers under age 16 and featured kids of influencers to a percentage of earnings &lpar;Fortesa Latifi/Teen Vogue&rpar;](http://www.techmeme.com/230812/p1#a230812p1)
  - [a16z crypto unveils Lasso and Jolt, a pair of new tools based on Succinct Non-interactive Arguments of Knowledge, or SNARK, to help enable scalable ZK-rollups &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230811/p17#a230811p17)
- - [Chindata Group plans to go private in a $3.16B deal with Bain Capital, ending months of uncertainty on the future of the Chinese data center operator &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230811/p16#a230811p16)
- - [Sources: Modular, which offers AI development tools and a programming language, is discussing a Series A at a ~$600M valuation, after a $30M seed in June 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230811/p15#a230811p15)<!-- TECH:END -->
+ - [Chindata Group plans to go private in a $3.16B deal with Bain Capital, ending months of uncertainty on the future of the Chinese data center operator &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230811/p16#a230811p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

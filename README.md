@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brutal](http://9gag.com/gag/aWGdo72)
- - 😝 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
- - 💣 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)<!-- MEMES:END -->
+ - 👉 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)<!-- MEMES:END -->
 
 ---
 </div>

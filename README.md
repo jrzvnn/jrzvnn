@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 😝 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)
- - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
+ - 😝 [She caused a huge Alarm](http://9gag.com/gag/aGEobAw)
+ - 😝 [This dad gave his daughter a truly magical moment at the Eiffel Tower. He convinced his daughter that she was the one turning on the Eiffel Tower\u2019s lights.](http://9gag.com/gag/aEqQZRn)
+ - 💣 [Different priorities.](http://9gag.com/gag/aBdvX72)
  - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
- - 👉 [Brutal](http://9gag.com/gag/aWGdo72)<!-- MEMES:END -->
+ - 👉 [New Snow White Movie](http://9gag.com/gag/axoAPjY)<!-- MEMES:END -->
 
 ---
 </div>

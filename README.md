@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 😝 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
- - 💣 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
+ - 😝 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
+ - 😝 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)
+ - 💣 [I even use soap and all](http://9gag.com/gag/aBdvOAx)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)<!-- MEMES:END -->
+ - 👉 [Memorize it.](http://9gag.com/gag/aQErmXW)<!-- MEMES:END -->
 
 ---
 </div>

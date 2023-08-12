@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How to set up parental controls on your PS5](https://www.theverge.com/23828438/ps5-playstation-sony-kids-parental-controls-how-to)
  - [How SCOTUS overturning the sports betting ban in 2018 transformed the sector into a high-growth tech business; many fear a surge in gambling addiction is coming &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/230812/p8#a230812p8)
  - [Upgrading an Apple Silicon Mac mini SSD is possible, but a slog](https://appleinsider.com/articles/23/08/12/upgrading-an-apple-silicon-mac-mini-ssd-is-possible-but-a-slog?utm_medium=rss)
- - [Samsung is wrong, software is the biggest problem for foldables](https://www.androidauthority.com/samsung-galaxy-z-foldable-software-3353872/)<!-- TECH:END -->
+ - [Slack Redesign Revamps Your Work Chats: Here&#39;s Everything New     - CNET](https://www.cnet.com/tech/services-and-software/slack-redesign-revamps-your-work-chats-heres-everything-new/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
  - 😝 [Planned on social media by `Londoners`](http://9gag.com/gag/az2BYVj)
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
  - 💣 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
+ - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
 
 ---
 </div>

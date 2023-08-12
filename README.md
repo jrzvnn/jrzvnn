@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-496-3354263/)
  - [Some Cruise car riders say they&#39;ve had sex in the driverless vehicles in SF over recent months; Waymo and Cruise permit eating in their cars but not drinking &lpar;Liz Lindqwister/The San Francisco ...&rpar;](http://www.techmeme.com/230812/p9#a230812p9)
  - [iRobot’s Roomba j7 Plus, our favorite robot vacuum, has hit an all-time low](https://www.theverge.com/2023/8/12/23827112/irobot-roomba-j7-plus-apple-watch-series-7-sony-wf-c700n-earbuds-deal-sale)
  - [Judge clears way for $500M iPhone throttling settlements](https://appleinsider.com/articles/23/08/12/judge-clears-way-for-500m-iphone-throttling-settlements?utm_medium=rss)
- - [Stylish Under Armour Backpacks Are 25% Off Right Now     - CNET](https://www.cnet.com/deals/stylish-under-armour-backpacks-are-25-off-right-now/#ftag=CAD590a51e)
- - [The Pixel 8 Pro won’t have the one upgrade I really want](https://www.androidauthority.com/pixel-8-pro-no-faster-charging-3352421/)<!-- TECH:END -->
+ - [Stylish Under Armour Backpacks Are 25% Off Right Now     - CNET](https://www.cnet.com/deals/stylish-under-armour-backpacks-are-25-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

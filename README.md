@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
  - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 💣 [I can&#39;t sleep for fear that my sister will fall out of bed](http://9gag.com/gag/a4ox2Ep)
- - 😝 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)
- - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
+ - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
+ - 👉 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)<!-- MEMES:END -->
 
 ---
 </div>

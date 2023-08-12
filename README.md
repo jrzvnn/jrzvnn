@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a Dick &lpar;due to some personal reasons&rpar;](http://9gag.com/gag/aDYPMgZ)
- - 😝 [Memorize it.](http://9gag.com/gag/aQErmXW)
- - 💣 [Astonishing work on paper. Link to author in the comments](http://9gag.com/gag/axoARnW)
- - 😝 [The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children](http://9gag.com/gag/aKELO7g)
- - 👉 [This dad gave his daughter a truly magical moment at the Eiffel Tower. He convinced his daughter that she was the one turning on the Eiffel Tower\u2019s lights.](http://9gag.com/gag/aEqQZRn)<!-- MEMES:END -->
+ - 😝 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 💣 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
+ - 😝 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)
+ - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
 
 ---
 </div>

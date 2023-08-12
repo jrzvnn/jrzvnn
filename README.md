@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 tips to get the most out of your Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-tips-tricks-3351540/)
+ - [9 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023/)
+ - [How to Move Your Instagram Feed to Pixelfed, the Photo App That Doesn&#39;t Track Your Every Move](https://www.wired.com/story/migrate-move-instagram-to-pixelfed-no-tracking-fediverse/)
  - [Amazon is removing or reducing packaging to speed up deliveries, cut costs, and meet climate goals, amid concerns that visible products could lead to issues &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/230812/p7#a230812p7)
- - [Arsenal vs. Nottingham Forest Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-nottingham-forest-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [England vs. Colombia: How to Watch FIFA Women&#39;s World Cup 2023 Quarterfinal Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-colombia-how-to-watch-fifa-womens-world-cup-2023-quarterfinal-live-from-anywhere/#ftag=CAD590a51e)
- - [A look at Stanford University&#39;s efforts to educate Congress on AI, including a boot camp covering AI&#39;s potential to reshape education and a primer on deepfakes &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230812/p6#a230812p6)
- - [A look at friend.tech, a decentralized social app built on Base that has driven 4,400 ETH in trading volume since launching its invite-only beta on Thursday &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230812/p5#a230812p5)<!-- TECH:END -->
+ - [Arsenal vs. Nottingham Forest Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-nottingham-forest-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

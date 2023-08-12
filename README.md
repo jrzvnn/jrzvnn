@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
- - 😝 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
- - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
+ - 😝 [Three people died from suspected mushroom poisoning and one in critical condition after eating a meal this lady cooked. Ex-husband was supposed to be there but declined at last minute. He thinks he may have been poisoned by her before.](http://9gag.com/gag/aVbdm0y)
+ - 😝 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
+ - 💣 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
+ - 👉 [Brutal](http://9gag.com/gag/aWGdo72)<!-- MEMES:END -->
 
 ---
 </div>

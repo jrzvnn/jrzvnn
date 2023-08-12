@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch6 Classic Review: The Bezel Is Back](https://www.wired.com/review/samsung-galaxy-watch6-classic/)
+ - [How a Firefly Course Is Saving Japan’s Favorite Glowing Insect](https://www.wired.com/story/how-a-firefly-course-is-saving-japans-favorite-glowing-insect/)
  - [10 tips to get the most out of your Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-tips-tricks-3351540/)
  - [9 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023/)
- - [How to Move Your Instagram Feed to Pixelfed, the Photo App That Doesn&#39;t Track Your Every Move](https://www.wired.com/story/migrate-move-instagram-to-pixelfed-no-tracking-fediverse/)
- - [Amazon is removing or reducing packaging to speed up deliveries, cut costs, and meet climate goals, amid concerns that visible products could lead to issues &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/230812/p7#a230812p7)
- - [Arsenal vs. Nottingham Forest Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-nottingham-forest-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Move Your Instagram Feed to Pixelfed, the Photo App That Doesn&#39;t Track Your Every Move](https://www.wired.com/story/migrate-move-instagram-to-pixelfed-no-tracking-fediverse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

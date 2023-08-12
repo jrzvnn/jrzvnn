@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 😝 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aeQdVyb)
- - 💣 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
+ - 💣 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
+ - 👉 [Brutal](http://9gag.com/gag/aWGdo72)<!-- MEMES:END -->
 
 ---
 </div>

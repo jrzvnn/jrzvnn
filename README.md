@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upgrading an Apple Silicon Mac mini SSD is possible, but a slog](https://appleinsider.com/articles/23/08/12/upgrading-an-apple-silicon-mac-mini-ssd-is-possible-but-a-slog?utm_medium=rss)
  - [Samsung is wrong, software is the biggest problem for foldables](https://www.androidauthority.com/samsung-galaxy-z-foldable-software-3353872/)
  - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
  - [A New Attack Reveals Everything You Type With 95 Percent Accuracy](https://www.wired.com/story/keystroke-attack-security-roundup/)
- - [5 Best Juicers &lpar;2023&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicers/)
- - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)<!-- TECH:END -->
+ - [5 Best Juicers &lpar;2023&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

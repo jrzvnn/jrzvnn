@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Aug. 12: $150 off M2 Mac mini, $300 off 49-inch Samsung Odyssey G9 OLED display, 52% off Anker 575 USB-C Docking Station](https://appleinsider.com/articles/23/08/12/daily-deals-aug-12-150-off-m2-mac-mini-300-off-49-inch-samsung-odyssey-g9-oled-display-52-off-anker-575-usb-c-docking-station?utm_medium=rss)
+ - [Daily deals Aug. 12: $150 off M2 Mac mini, $300 off 49-inch Samsung Odyssey G9 OLED display, more](https://appleinsider.com/articles/23/08/12/daily-deals-aug-12-150-off-m2-mac-mini-300-off-49-inch-samsung-odyssey-g9-oled-display-52-off-anker-575-usb-c-docking-station?utm_medium=rss)
  - [An Apple Malware-Flagging Tool Is ‘Trivially’ Easy to Bypass](https://www.wired.com/story/apple-mac-background-task-management-flaw/)
  - [iPhone 14, 14 Pro owners complain about battery capacity that’s already falling off](https://www.theverge.com/2023/8/12/23829897/apple-iphone-14-pro-battery-health-capacity)
  - [Naturally Boost Your Eye Health With These 10 Tricks     - CNET](https://www.cnet.com/health/personal-care/naturally-boost-your-eye-health-with-these-10-tricks/#ftag=CAD590a51e)

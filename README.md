@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [K2 mountain: 130 climbers crossed over a body on ascent &amp; descent](http://9gag.com/gag/aWGdbYK)
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 💣 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
- - 😝 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)
+ - 😝 [Wood](http://9gag.com/gag/aGEo2dX)
+ - 😝 [Brutal](http://9gag.com/gag/aWGdo72)
+ - 💣 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
 
 ---

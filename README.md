@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Modular, which offers AI development tools and a programming language, is discussing a Series A at a ~$600M valuation, after a $30M seed in June 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230811/p15#a230811p15)
+ - [Does Chrome have Reader mode? Yes, here’s how to enable it](https://www.androidauthority.com/google-chrome-reading-mode-2-3354627/)
  - [Elevate your artistic abilities at the free B&amp;H Bild Expo at the Javits Center in New York City](https://appleinsider.com/articles/23/08/12/elevate-your-artistic-abilities-at-the-free-bh-bild-expo-at-the-javits-center-in-new-york-city?utm_medium=rss)
  - [After new fight claims from Musk, Zuckerberg warns &quot;anything&quot; Musk says hasn&#39;t been agreed on; Musk also said surgery will prevent him from fighting for months &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230811/p14#a230811p14)
- - [Lionel Messi: How to Watch, Stream Inter Miami vs. Charlotte on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-charlotte-on-mls-season-pass-today/#ftag=CAD590a51e)
- - [PS5 Slim appears to leak in video, and it’s not very slim](https://www.androidauthority.com/sony-ps5-slim-leaked-video-3354601/)
- - [SEC filing: NYC-based digital lender Better.com plans to go public via a SPAC merger, raising $750M, after announcing plans in May 2021 for a $7.7B SPAC merger &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)<!-- TECH:END -->
+ - [Lionel Messi: How to Watch, Stream Inter Miami vs. Charlotte on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-charlotte-on-mls-season-pass-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

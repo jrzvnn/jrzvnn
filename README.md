@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
- - 😝 [Brutal](http://9gag.com/gag/aWGdo72)
- - 💣 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
- - 👉 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)<!-- MEMES:END -->
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 😝 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)
+ - 💣 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 👉 [Brutal](http://9gag.com/gag/aWGdo72)<!-- MEMES:END -->
 
 ---
 </div>

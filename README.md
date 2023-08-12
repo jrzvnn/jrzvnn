@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch6 Classic Review: The Bezel Is Back](https://www.wired.com/review/samsung-galaxy-watch6-classic/)
- - [How a Firefly Course Is Saving Japan’s Favorite Glowing Insect](https://www.wired.com/story/how-a-firefly-course-is-saving-japans-favorite-glowing-insect/)
- - [10 tips to get the most out of your Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-tips-tricks-3351540/)
- - [9 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023/)
- - [How to Move Your Instagram Feed to Pixelfed, the Photo App That Doesn&#39;t Track Your Every Move](https://www.wired.com/story/migrate-move-instagram-to-pixelfed-no-tracking-fediverse/)<!-- TECH:END -->
+ - [Samsung is wrong, software is the biggest problem for foldables](https://www.androidauthority.com/samsung-galaxy-z-foldable-software-3353872/)
+ - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [A New Attack Reveals Everything You Type With 95 Percent Accuracy](https://www.wired.com/story/keystroke-attack-security-roundup/)
+ - [5 Best Juicers &lpar;2023&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicers/)
+ - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-496-3354263/)
+ - [Best Weather Apps for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)
+ - [Today Only: Score Up to 60% Off Select Styles at Nike     - CNET](https://www.cnet.com/deals/today-only-score-up-to-6-off-select-styles-at-nike/#ftag=CAD590a51e)
  - [Some Cruise car riders say they&#39;ve had sex in the driverless vehicles in SF over recent months; Waymo and Cruise permit eating in their cars but not drinking &lpar;Liz Lindqwister/The San Francisco ...&rpar;](http://www.techmeme.com/230812/p9#a230812p9)
- - [iRobot’s Roomba j7 Plus, our favorite robot vacuum, has hit an all-time low](https://www.theverge.com/2023/8/12/23827112/irobot-roomba-j7-plus-apple-watch-series-7-sony-wf-c700n-earbuds-deal-sale)
- - [Judge clears way for $500M iPhone throttling settlements](https://appleinsider.com/articles/23/08/12/judge-clears-way-for-500m-iphone-throttling-settlements?utm_medium=rss)
- - [Stylish Under Armour Backpacks Are 25% Off Right Now     - CNET](https://www.cnet.com/deals/stylish-under-armour-backpacks-are-25-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iRobot’s Roomba j7 Plus, our favorite robot vacuum, has hit an all-time low](https://www.theverge.com/2023/8/12/23827112/irobot-roomba-j7-plus-apple-watch-series-7-sony-wf-c700n-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

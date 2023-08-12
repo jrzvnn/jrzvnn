@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
- - 😝 [I even use soap and all](http://9gag.com/gag/aBdvOAx)
- - 💣 [Don\u2019t know if good or bad](http://9gag.com/gag/aKELKq1)
+ - 😝 [Don\u2019t know if good or bad](http://9gag.com/gag/aKELKq1)
+ - 💣 [I even use soap and all](http://9gag.com/gag/aBdvOAx)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
  - 👉 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)<!-- MEMES:END -->
 

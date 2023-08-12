@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dad gave his daughter a truly magical moment at the Eiffel Tower. He convinced his daughter that she was the one turning on the Eiffel Tower\u2019s lights.](http://9gag.com/gag/aEqQZRn)
- - 😝 [New Snow White Movie](http://9gag.com/gag/axoAPjY)
- - 💣 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
+ - 💣 [Straight to jail](http://9gag.com/gag/abvd2xO)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Whadiya gonna do abouti?](http://9gag.com/gag/a5XxDrg)<!-- MEMES:END -->
+ - 👉 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)<!-- MEMES:END -->
 
 ---
 </div>

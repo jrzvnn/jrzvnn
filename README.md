@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
- - 💣 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [Being a Dick &lpar;due to some personal reasons&rpar;](http://9gag.com/gag/aDYPMgZ)
+ - 😝 [Whadiya gonna do abouti?](http://9gag.com/gag/a5XxDrg)
+ - 💣 [Roman engineer master race](http://9gag.com/gag/aBdvvQN)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)<!-- MEMES:END -->
+ - 👉 [Get a coffee...](http://9gag.com/gag/a04xx5L)<!-- MEMES:END -->
 
 ---
 </div>

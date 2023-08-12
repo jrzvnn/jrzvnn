@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make this man famous... every single word is true. He goes by the name Oliver Anthony](http://9gag.com/gag/axoAPW1)
- - 😝 [Don\u2019t know if good or bad](http://9gag.com/gag/aKELKq1)
- - 💣 [I even use soap and all](http://9gag.com/gag/aBdvOAx)
+ - 😝 [Planned on social media by `Londoners`](http://9gag.com/gag/az2BYVj)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 💣 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
  - 😝 [Whichever type you are, it\u2019s time to let your inner geek shine! Come join us at 9GAG gamescom this year for an epic gaming experience.](http://9gag.com/gag/a8qnw96)
- - 👉 [Courier protects mom and baby as an elevator malfunctions](http://9gag.com/gag/ay2zQeW)<!-- MEMES:END -->
+ - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
 
 ---
 </div>

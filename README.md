@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
  - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 💣 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
+ - 😝 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
+ - 💣 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)<!-- MEMES:END -->
+ - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
 
 ---
 </div>

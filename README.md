@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
- - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 💣 [I can&#39;t sleep for fear that my sister will fall out of bed](http://9gag.com/gag/a4ox2Ep)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 💣 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Excuse-me what?](http://9gag.com/gag/a7qG2nm)<!-- MEMES:END -->
+ - 👉 [Facts or cap?](http://9gag.com/gag/agodjN1)<!-- MEMES:END -->
 
 ---
 </div>

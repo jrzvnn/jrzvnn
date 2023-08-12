@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American News Presenter Laugh as he talks about another Death of White Farmers in South Africa](http://9gag.com/gag/armdBo5)
- - 😝 [I can&#39;t sleep for fear that my sister will fall out of bed](http://9gag.com/gag/a4ox2Ep)
- - 💣 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 💣 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)<!-- MEMES:END -->
+ - 👉 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)<!-- MEMES:END -->
 
 ---
 </div>

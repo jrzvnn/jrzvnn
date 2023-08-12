@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 😝 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
- - 💣 [What&#39;s the matter officer](http://9gag.com/gag/ap9dbpD)
+ - 😝 [Fire in the hole !!!](http://9gag.com/gag/axoAYBD)
+ - 😝 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
+ - 💣 [It&#39;s not fair!](http://9gag.com/gag/agod2yv)
  - 😝 [Brutal](http://9gag.com/gag/aWGdo72)
  - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge clears way for $500M iPhone throttling settlements](https://appleinsider.com/articles/23/08/12/judge-clears-way-for-500m-iphone-throttling-settlements?utm_medium=rss)
  - [The Pixel 8 Pro won’t have the one upgrade I really want](https://www.androidauthority.com/pixel-8-pro-no-faster-charging-3352421/)
  - [How to set up parental controls on your PS5](https://www.theverge.com/23828438/ps5-playstation-sony-kids-parental-controls-how-to)
  - [How SCOTUS overturning the sports betting ban in 2018 transformed the sector into a high-growth tech business; many fear a surge in gambling addiction is coming &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/230812/p8#a230812p8)
- - [Upgrading an Apple Silicon Mac mini SSD is possible, but a slog](https://appleinsider.com/articles/23/08/12/upgrading-an-apple-silicon-mac-mini-ssd-is-possible-but-a-slog?utm_medium=rss)
- - [Slack Redesign Revamps Your Work Chats: Here&#39;s Everything New     - CNET](https://www.cnet.com/tech/services-and-software/slack-redesign-revamps-your-work-chats-heres-everything-new/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrading an Apple Silicon Mac mini SSD is possible, but a slog](https://appleinsider.com/articles/23/08/12/upgrading-an-apple-silicon-mac-mini-ssd-is-possible-but-a-slog?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

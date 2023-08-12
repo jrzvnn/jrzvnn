@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elevate your artistic abilities at the free B&amp;H Bild Expo at the Javits Center in New York City](https://appleinsider.com/articles/23/08/12/elevate-your-artistic-abilities-at-the-free-bh-bild-expo-at-the-javits-center-in-new-york-city?utm_medium=rss)
  - [After new fight claims from Musk, Zuckerberg warns &quot;anything&quot; Musk says hasn&#39;t been agreed on; Musk also said surgery will prevent him from fighting for months &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230811/p14#a230811p14)
  - [Lionel Messi: How to Watch, Stream Inter Miami vs. Charlotte on MLS Season Pass Today     - CNET](https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-charlotte-on-mls-season-pass-today/#ftag=CAD590a51e)
  - [PS5 Slim appears to leak in video, and it’s not very slim](https://www.androidauthority.com/sony-ps5-slim-leaked-video-3354601/)
- - [SEC filing: NYC-based digital lender Better.com plans to go public via a SPAC merger, raising $750M, after announcing plans in May 2021 for a $7.7B SPAC merger &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)
- - [Is this the PS5 Slim?](https://www.theverge.com/2023/8/11/23829084/sony-playstation-5-ps5-slim-model-leak-rumors)<!-- TECH:END -->
+ - [SEC filing: NYC-based digital lender Better.com plans to go public via a SPAC merger, raising $750M, after announcing plans in May 2021 for a $7.7B SPAC merger &lpar;Connie Kim/HousingWire&rpar;](http://www.techmeme.com/230811/p13#a230811p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

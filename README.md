@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [a16z crypto unveils Lasso and Jolt, a pair of new tools based on Succinct Non-interactive Arguments of Knowledge, or SNARK, to help enable scalable ZK-rollups &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230811/p17#a230811p17)
  - [Chindata Group plans to go private in a $3.16B deal with Bain Capital, ending months of uncertainty on the future of the Chinese data center operator &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230811/p16#a230811p16)
  - [Sources: Modular, which offers AI development tools and a programming language, is discussing a Series A at a ~$600M valuation, after a $30M seed in June 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230811/p15#a230811p15)
  - [Does Chrome have Reader mode? Yes, here’s how to enable it](https://www.androidauthority.com/google-chrome-reading-mode-2-3354627/)
- - [Elevate your artistic abilities at the free B&amp;H Bild Expo at the Javits Center in New York City](https://appleinsider.com/articles/23/08/12/elevate-your-artistic-abilities-at-the-free-bh-bild-expo-at-the-javits-center-in-new-york-city?utm_medium=rss)
- - [After new fight claims from Musk, Zuckerberg warns &quot;anything&quot; Musk says hasn&#39;t been agreed on; Musk also said surgery will prevent him from fighting for months &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230811/p14#a230811p14)<!-- TECH:END -->
+ - [Elevate your artistic abilities at the free B&amp;H Bild Expo at the Javits Center in New York City](https://appleinsider.com/articles/23/08/12/elevate-your-artistic-abilities-at-the-free-bh-bild-expo-at-the-javits-center-in-new-york-city?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

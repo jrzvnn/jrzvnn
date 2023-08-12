@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at friend.tech, a decentralized social app built on Base that has driven 4,400 ETH in trading volume since launching its invite-only beta on Thursday &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230812/p5#a230812p5)
  - [Hacker group Cult of the Dead Cow details Veilid, an open-source, P2P application framework, and unveils VeilidChat, a Signal-like instant messaging app &lpar;Iain Thomson/The Register&rpar;](http://www.techmeme.com/230812/p4#a230812p4)
  - [UMG, Sony Music, and other labels sue the Internet Archive for copyright infringement, saying the &quot;Great 78 Project&quot; is an &quot;illegal record store&quot; for songs &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230812/p3#a230812p3)
  - [The Hollywood Professional Association, which includes Google, Microsoft, and Amazon, urges the AMPTP, the WGA, and SAG-AFTRA to find a strike resolution soon &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/230812/p2#a230812p2)
- - [Fitbit Sense 3: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-sense-3-3353902/)
- - [Illinois passes the US&#39; first law protecting child influencers, entitling influencers under age 16 and featured kids of influencers to a percentage of earnings &lpar;Fortesa Latifi/Teen Vogue&rpar;](http://www.techmeme.com/230812/p1#a230812p1)<!-- TECH:END -->
+ - [Fitbit Sense 3: Everything we know so far and what we want to see](https://www.androidauthority.com/fitbit-sense-3-3353902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

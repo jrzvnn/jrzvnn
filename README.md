@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wood](http://9gag.com/gag/aGEo2dX)
- - 😝 [Brutal](http://9gag.com/gag/aWGdo72)
- - 💣 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 💣 [Brutal](http://9gag.com/gag/aWGdo72)
  - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
+ - 👉 [Facts or cap?](http://9gag.com/gag/agodjN1)<!-- MEMES:END -->
 
 ---
 </div>

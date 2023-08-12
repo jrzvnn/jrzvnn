@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Apple Malware-Flagging Tool Is ‘Trivially’ Easy to Bypass](https://www.wired.com/story/apple-mac-background-task-management-flaw/)
+ - [iPhone 14, 14 Pro owners complain about battery capacity that’s already falling off](https://www.theverge.com/2023/8/12/23829897/apple-iphone-14-pro-battery-health-capacity)
  - [Naturally Boost Your Eye Health With These 10 Tricks     - CNET](https://www.cnet.com/health/personal-care/naturally-boost-your-eye-health-with-these-10-tricks/#ftag=CAD590a51e)
  - [Thieves ditch hidden AirTag in Vancouver car jacking](https://appleinsider.com/articles/23/08/12/thieves-ditch-hidden-airtag-in-vancouver-car-jacking?utm_medium=rss)
- - [A look at Amazon One palm scanning tech, used for payments, age and ID verification, and more at US retailers, stadiums, and other venues, amid privacy concerns &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230812/p10#a230812p10)
- - [Building for Apple Vision Pro: Using the visionOS sample code](https://appleinsider.com/inside/visionos/tips/building-for-apple-vision-pro-using-the-visionos-sample-code?utm_medium=rss)
- - [Apple TV+&#39;s &#39;Frog and Toad&#39; not viewable in the U.S.](https://appleinsider.com/articles/23/08/12/apple-tvs-frog-and-toad-not-viewable-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Amazon One palm scanning tech, used for payments, age and ID verification, and more at US retailers, stadiums, and other venues, amid privacy concerns &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230812/p10#a230812p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

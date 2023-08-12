@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me traumatize your day.](http://9gag.com/gag/aMEWWrA)
- - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
- - 💣 [Insert title here](http://9gag.com/gag/a7qGGNz)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 💣 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
  - 👉 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)<!-- MEMES:END -->
 

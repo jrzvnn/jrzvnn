@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
  - 😝 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
+ - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
  - 💣 [I can&#39;t sleep for fear that my sister will fall out of bed](http://9gag.com/gag/a4ox2Ep)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Facts or cap?](http://9gag.com/gag/agodjN1)<!-- MEMES:END -->
+ - 👉 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)<!-- MEMES:END -->
 
 ---
 </div>

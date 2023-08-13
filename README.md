@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This airport in Japan is located literally in the middle of the bay. It cost 20 billion dollars to build and is considered the civil engineering monument of the millennium. However, it has already sunk more than 8 meters and is still sinking](http://9gag.com/gag/aL1bbxW)
- - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 💣 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [Like a boss](http://9gag.com/gag/armdzjB)
+ - 😝 [Damn, that&#39;s a lot of money](http://9gag.com/gag/a8qnzXQ)
+ - 💣 [Please](http://9gag.com/gag/aYVdmnV)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)<!-- MEMES:END -->
+ - 👉 [Get a coffee...](http://9gag.com/gag/a04xx5L)<!-- MEMES:END -->
 
 ---
 </div>

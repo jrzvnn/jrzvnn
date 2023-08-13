@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Stores hit with forklift, serial thefts, and slight-of-hand cash robbery.](https://appleinsider.com/articles/23/08/13/crime-blotter-apple-stores-hit-with-forklift-serial-thefts-and-slight-of-hand-cash-robbery?utm_medium=rss)
- - [Top 10 tips and tricks to enhance your Samsung Galaxy Z Fold 5 experience!](https://www.androidauthority.com/samsung-galaxy-z-fold-5-tips-tricks-3352890/)
- - [How to Use Focus Mode to Get Work Done in Windows](https://www.wired.com/story/how-to-use-focus-mode-windows/)
- - [13 Best Coffee Grinders &lpar;2023&rpar;: Conical-Burr, Flat-Burr, Manual, Blade](https://www.wired.com/gallery/best-coffee-grinders/)
- - [14 Best Tablets &lpar;2023&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [Google Pixel 8a: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [How to Find a Home or Apartment in a City You Don&#39;t Live In](https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/)
+ - [A New Idea for How to Assemble Life](https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/)
+ - [Lectric XP Trike Review: Cheap Three-Wheeled Ebike](https://www.wired.com/review/lectric-xp-trike/)
+ - [7 Best Monitors &lpar;2023&rpar;: Budget, Ultrawide, 4K, Portable](https://www.wired.com/gallery/best-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

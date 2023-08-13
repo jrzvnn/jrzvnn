@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters gon hate!](http://9gag.com/gag/aPgpd4R)
  - 😝 [These people are so out of touch with reality](http://9gag.com/gag/aREyNLy)
- - 💣 [Best version.](http://9gag.com/gag/avQDDRE)
+ - 😝 [Best version.](http://9gag.com/gag/avQDDRE)
+ - 💣 [I&#39;ve lived my life by the principle of `Do unto others as you would have them do unto you.` How stupid are these liberals, granting citizenships to these animals, just out of fear of not being seen as racist? Even we here in the Middle East don&#39;t want them!](http://9gag.com/gag/aEqQE29)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [I&#39;ve lived my life by the principle of `Do unto others as you would have them do unto you.` How stupid are these liberals, granting citizenships to these animals, just out of fear of not being seen as racist? Even we here in the Middle East don&#39;t want them!](http://9gag.com/gag/aEqQE29)<!-- MEMES:END -->
+ - 👉 [I ain&#39;t choosing the hell..](http://9gag.com/gag/a2Kx9K9)<!-- MEMES:END -->
 
 ---
 </div>

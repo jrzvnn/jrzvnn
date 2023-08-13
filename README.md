@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s M3 Ultra Mac Studio could have a 32-core CPU and up to 80 GPU cores](https://www.theverge.com/2023/8/13/23830405/apple-m3-ultra-cpu-gpu-mac-studio-mac-pro)
  - [Sources: SoftBank is in talks to acquire the 25% stake in Arm it does not directly own from Vision Fund 1, ahead of the chip designer&#39;s Nasdaq IPO next month &lpar;Reuters&rpar;](http://www.techmeme.com/230813/p7#a230813p7)
  - [Mac Pro in danger after fumbled Apple Silicon launch](https://appleinsider.com/articles/23/08/13/mac-pro-in-danger-after-fumbled-apple-silicon-launch?utm_medium=rss)
  - [6 Vision Problems That Get More Common As You Get Older     - CNET](https://www.cnet.com/health/personal-care/6-vision-problems-that-get-more-common-as-you-get-older/#ftag=CAD590a51e)
- - [Inside the Black Hat network operations center, staffed by volunteers who built the network on the week of the event from scratch using their own equipment &lpar;Iain Thomson/The Register&rpar;](http://www.techmeme.com/230813/p6#a230813p6)
- - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)<!-- TECH:END -->
+ - [Inside the Black Hat network operations center, staffed by volunteers who built the network on the week of the event from scratch using their own equipment &lpar;Iain Thomson/The Register&rpar;](http://www.techmeme.com/230813/p6#a230813p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

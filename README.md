@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
  - 😝 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
- - 💣 [Insert title here](http://9gag.com/gag/a7qGGNz)
+ - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
+ - 💣 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)<!-- MEMES:END -->
+ - 👉 [Insert title here](http://9gag.com/gag/a7qGGNz)<!-- MEMES:END -->
 
 ---
 </div>

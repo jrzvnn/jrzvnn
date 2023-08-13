@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
- - 💣 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)
+ - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
+ - 💣 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
  - 👉 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)<!-- MEMES:END -->
 

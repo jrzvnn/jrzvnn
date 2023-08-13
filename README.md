@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This airport in Japan is located literally in the middle of the bay. It cost 20 billion dollars to build and is considered the civil engineering monument of the millennium. However, it has already sunk more than 8 meters and is still sinking](http://9gag.com/gag/aL1bbxW)
+ - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
  - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
- - 👉 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)<!-- MEMES:END -->
+ - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - 👉 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)<!-- MEMES:END -->
 
 ---
 </div>

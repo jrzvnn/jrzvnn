@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
  - [Q&amp;A with an FBI agent on targeting and taking down DDoS-for-hire sites, why Christmas is the busiest DDoS time, how attacks have changed over 10 years, and more &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230813/p10#a230813p10)
+ - [5 Healthy Snacks Worth Picking Up at Costco     - CNET](https://www.cnet.com/health/nutrition/5-healthy-snacks-worth-picking-up-at-costco/#ftag=CAD590a51e)
  - [The 5 Best Clothing Subscription Boxes of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)
- - [Daily deals Aug. 13: $450 off an M1 14-inch MacBook Pro, $100 off TP-Link Deco Mesh Wi-Fi, $45 off Logitech C930s Pro HD Webcam](https://appleinsider.com/articles/23/08/13/daily-deals-aug-13-450-off-an-m1-14-inch-macbook-pro-100-off-tp-link-deco-mesh-wi-fi-45-off-logitech-c930s-pro-hd-webcam?utm_medium=rss)
- - [Mark Zuckerberg says it’s ‘time to move on’ from the Elon Musk fight](https://www.theverge.com/2023/8/13/23830511/mark-zuckerberg-elon-musk-fight-cage-match-not-happening)<!-- TECH:END -->
+ - [Daily deals Aug. 13: $450 off an M1 14-inch MacBook Pro, $100 off TP-Link Deco Mesh Wi-Fi, $45 off Logitech C930s Pro HD Webcam](https://appleinsider.com/articles/23/08/13/daily-deals-aug-13-450-off-an-m1-14-inch-macbook-pro-100-off-tp-link-deco-mesh-wi-fi-45-off-logitech-c930s-pro-hd-webcam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

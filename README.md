@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
- - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
- - 💣 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 😝 [Like a boss](http://9gag.com/gag/armdzjB)
+ - 😝 [Please](http://9gag.com/gag/aYVdmnV)
+ - 💣 [Currently policy is f**kd up. Good people are waiting years and rapists are welcome.](http://9gag.com/gag/aBdvoNz)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Insert title here](http://9gag.com/gag/a7qGGNz)<!-- MEMES:END -->
+ - 👉 [Pete holmes can&#39;t believe this nonsense!](http://9gag.com/gag/aREyNrA)<!-- MEMES:END -->
 
 ---
 </div>

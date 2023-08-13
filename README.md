@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These people are so out of touch with reality](http://9gag.com/gag/aREyNLy)
- - 😝 [Best version.](http://9gag.com/gag/avQDDRE)
- - 💣 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 😝 [Haters gon hate!](http://9gag.com/gag/aPgpd4R)
- - 👉 [An American welcomes his refugee neighbors in fluent Ukrainian](http://9gag.com/gag/aDYPNy7)<!-- MEMES:END -->
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
+ - 💣 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
+ - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
+ - 👉 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)<!-- MEMES:END -->
 
 ---
 </div>

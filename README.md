@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How hackers at DEF CON are trying to expose flaws and biases in AI models produced by Google, Meta, OpenAI, and others through a public contest &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230813/p1#a230813p1)
  - [Best Game Pass and Xbox Live Deals: Discounted Subscriptions Starting at $3 a Month     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
  - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)
  - [Some iPhone 14 Pro users complain that the &quot;maximum capacity&quot; of their phone&#39;s batteries has already dropped to around 90% after less than a year &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230812/p11#a230812p11)
- - [Core Rulebooks for Dungeons and Dragons Are Up to 67% Off     - CNET](https://www.cnet.com/deals/core-rulebooks-for-dungeons-and-dragons-are-up-to-67-off/#ftag=CAD590a51e)
- - [Daily deals Aug. 12: $150 off M2 Mac mini, $300 off 49-inch Samsung Odyssey G9 OLED display, more](https://appleinsider.com/articles/23/08/12/daily-deals-aug-12-150-off-m2-mac-mini-300-off-49-inch-samsung-odyssey-g9-oled-display-52-off-anker-575-usb-c-docking-station?utm_medium=rss)<!-- TECH:END -->
+ - [Core Rulebooks for Dungeons and Dragons Are Up to 67% Off     - CNET](https://www.cnet.com/deals/core-rulebooks-for-dungeons-and-dragons-are-up-to-67-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

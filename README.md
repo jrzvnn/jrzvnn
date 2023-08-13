@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Apple Watch redesign could change how bands attach](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
- - [Google Pixel 8a: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [No Time to Cook? Try One of These Baby Meal Delivery Services Instead     - CNET](https://www.cnet.com/health/nutrition/no-time-to-cook-try-one-of-these-baby-meal-delivery-services-instead/#ftag=CAD590a51e)
- - [How to Find a Home or Apartment in a City You Don&#39;t Live In](https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/)
- - [A New Idea for How to Assemble Life](https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/)<!-- TECH:END -->
+ - [Inside the Black Hat network operations center, staffed by volunteers who built the network on the week of the event from scratch using their own equipment &lpar;Iain Thomson/The Register&rpar;](http://www.techmeme.com/230813/p6#a230813p6)
+ - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)
+ - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)
+ - [Major &#39;Apple Watch X&#39; redesign rumored to arrive in 2024](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
+ - [I tried a self-hosted Google Photos alternative but still can’t switch](https://www.androidauthority.com/immich-google-photos-alternative-3353286/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

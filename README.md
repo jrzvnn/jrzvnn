@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 😝 [No matter how bad your life may be, just be thankful you&#39;re not a white female in current south africa.](http://9gag.com/gag/axoARen)
- - 💣 [Never forget what Disney did to our Star Wars. Check out the guys on the left](http://9gag.com/gag/axoAPGY)
+ - 😝 [This airport in Japan is located literally in the middle of the bay. It cost 20 billion dollars to build and is considered the civil engineering monument of the millennium. However, it has already sunk more than 8 meters and is still sinking](http://9gag.com/gag/aL1bbxW)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 💣 [Straight to jail](http://9gag.com/gag/abvd2xO)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Straight to jail](http://9gag.com/gag/abvd2xO)<!-- MEMES:END -->
+ - 👉 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)<!-- MEMES:END -->
 
 ---
 </div>

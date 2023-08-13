@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
- - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
- - 💣 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
+ - 😝 [Pete holmes can&#39;t believe this nonsense!](http://9gag.com/gag/aREyNrA)
+ - 😝 [Protect the penguin at all cost \ud83d\udc27](http://9gag.com/gag/agodZyx)
+ - 💣 [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is a top EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the politicians who suffer from the consequences of their decisions.](http://9gag.com/gag/aREy9Bq)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
+ - 👉 [This bloke for the win , outstanding level of comedic timing](http://9gag.com/gag/a4oxxyv)<!-- MEMES:END -->
 
 ---
 </div>

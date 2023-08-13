@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exynos 2400: What you should know about Samsung’s chipset return](https://www.androidauthority.com/samsung-exynos-2400-explained-3354040/)
  - [Sources: Apple is planning a major redesign for the 10th anniversary &quot;Watch X&quot;; a look at the M3 chip roadmap, including M3 Ultra with 32 CPU and 80 GPU cores &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230813/p8#a230813p8)
  - [Apple’s M3 Ultra Mac Studio could have a 32-core CPU and up to 80 GPU cores](https://www.theverge.com/2023/8/13/23830405/apple-m3-ultra-cpu-gpu-mac-studio-mac-pro)
- - [Sources: SoftBank is in talks to acquire the 25% stake in Arm it does not directly own from Vision Fund 1, ahead of the chip designer&#39;s Nasdaq IPO next month &lpar;Reuters&rpar;](http://www.techmeme.com/230813/p7#a230813p7)
- - [Mac Pro in danger after fumbled Apple Silicon launch](https://appleinsider.com/articles/23/08/13/mac-pro-in-danger-after-fumbled-apple-silicon-launch?utm_medium=rss)
- - [6 Vision Problems That Get More Common As You Get Older     - CNET](https://www.cnet.com/health/personal-care/6-vision-problems-that-get-more-common-as-you-get-older/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SoftBank is in talks to acquire Vision Fund 1&#39;s 25% stake in Arm, ahead of the chip designer&#39;s Nasdaq IPO in September; SoftBank owns the remaining 75% &lpar;Reuters&rpar;](http://www.techmeme.com/230813/p7#a230813p7)
+ - [$40 Amazon Discount Knocks the JBL Flip 6 Down to All-Time Low Price     - CNET](https://www.cnet.com/deals/40-amazon-discount-knocks-the-jbl-flip-6-down-to-all-time-low-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

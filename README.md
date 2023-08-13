@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Major Apple Watch redesign could change how bands attach](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
  - [Google Pixel 8a: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [No Time to Cook? Try One of These Baby Meal Delivery Services Instead     - CNET](https://www.cnet.com/health/nutrition/no-time-to-cook-try-one-of-these-baby-meal-delivery-services-instead/#ftag=CAD590a51e)
  - [How to Find a Home or Apartment in a City You Don&#39;t Live In](https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/)
- - [A New Idea for How to Assemble Life](https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/)
- - [Lectric XP Trike Review: Cheap Three-Wheeled Ebike](https://www.wired.com/review/lectric-xp-trike/)<!-- TECH:END -->
+ - [A New Idea for How to Assemble Life](https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac Pro in danger after fumbled Apple Silicon launch](https://appleinsider.com/articles/23/08/13/mac-pro-in-danger-after-fumbled-apple-silicon-launch?utm_medium=rss)
  - [Inside the Black Hat network operations center, staffed by volunteers who built the network on the week of the event from scratch using their own equipment &lpar;Iain Thomson/The Register&rpar;](http://www.techmeme.com/230813/p6#a230813p6)
  - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)
  - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)
- - [Major &#39;Apple Watch X&#39; redesign rumored to arrive in 2024](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
- - [I tried a self-hosted Google Photos alternative but still can’t switch](https://www.androidauthority.com/immich-google-photos-alternative-3353286/)<!-- TECH:END -->
+ - [Major &#39;Apple Watch X&#39; redesign rumored to arrive in 2024](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

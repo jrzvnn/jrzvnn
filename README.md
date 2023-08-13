@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Generative AI could be a dud, so we shouldn&#39;t build around the premise that the tech is world-changing, which in hindsight may turn out to have been unrealistic &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230813/p11#a230813p11)
  - [Oleap Pilot review: Upgrading a traditional headset experience](https://appleinsider.com/articles/23/08/13/oleap-pilot-review-upgrading-a-traditional-headset-experience?utm_medium=rss)
  - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
  - [Q&amp;A with an FBI agent on targeting and taking down DDoS-for-hire sites, why Christmas is the busiest DDoS time, how attacks have changed over 10 years, and more &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230813/p10#a230813p10)
- - [5 Healthy Snacks Worth Picking Up at Costco     - CNET](https://www.cnet.com/health/nutrition/5-healthy-snacks-worth-picking-up-at-costco/#ftag=CAD590a51e)
- - [The 5 Best Clothing Subscription Boxes of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Healthy Snacks Worth Picking Up at Costco     - CNET](https://www.cnet.com/health/nutrition/5-healthy-snacks-worth-picking-up-at-costco/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

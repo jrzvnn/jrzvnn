@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
- - 😝 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
- - 💣 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
- - 👉 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)<!-- MEMES:END -->
+ - 😝 [This bloke for the win , outstanding level of comedic timing](http://9gag.com/gag/a4oxxyv)
+ - 😝 [With subtitles so you don&#39;t miss anything. legend](http://9gag.com/gag/aXnddKv)
+ - 💣 [An American welcomes his refugee neighbors in fluent Ukrainian](http://9gag.com/gag/aDYPNy7)
+ - 😝 [I ain&#39;t choosing the hell..](http://9gag.com/gag/a2Kx9K9)
+ - 👉 [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is a top EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the politicians who suffer from the consequences of their decisions.](http://9gag.com/gag/aREy9Bq)<!-- MEMES:END -->
 
 ---
 </div>

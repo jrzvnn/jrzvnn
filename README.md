@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Aug. 13: $450 off an M1 14-inch MacBook Pro, $100 off TP-Link Deco Mesh Wi-Fi, $45 off Logitech C930s Pro HD Webcam](https://appleinsider.com/articles/23/08/13/daily-deals-aug-13-450-off-an-m1-14-inch-macbook-pro-100-off-tp-link-deco-mesh-wi-fi-45-off-logitech-c930s-pro-hd-webcam?utm_medium=rss)
+ - [Mark Zuckerberg says it’s ‘time to move on’ from the Elon Musk fight](https://www.theverge.com/2023/8/13/23830511/mark-zuckerberg-elon-musk-fight-cage-match-not-happening)
  - [iPhone SE 4 may get the iPhone 15 Pro&#39;s &#39;Action Button&#39;](https://appleinsider.com/articles/23/08/13/iphone-se-4-may-get-the-iphone-15-pros-action-button?utm_medium=rss)
  - [Major &#39;Apple Watch X&#39; redesign rumored to arrive in 2024](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
- - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)
- - [ShapesXR, which offers an XR app creation and collaboration platform to clients like Meta, Qualcomm, and ByteDance, raised an $8.6M seed led by Supernode Global &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230813/p9#a230813p9)
- - [Exynos 2400: What you should know about Samsung’s chipset return](https://www.androidauthority.com/samsung-exynos-2400-explained-3354040/)<!-- TECH:END -->
+ - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

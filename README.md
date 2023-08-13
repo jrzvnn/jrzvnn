@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Average transaction in America](http://9gag.com/gag/avQDBDM)
  - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
- - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 💣 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
+ - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 😝 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
+ - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
 
 ---
 </div>

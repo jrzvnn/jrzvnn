@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Major Apple Watch redesign could change how bands attach](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
  - [Google Pixel 8a: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)
  - [How to Find a Home or Apartment in a City You Don&#39;t Live In](https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/)
  - [A New Idea for How to Assemble Life](https://www.wired.com/story/a-new-idea-for-how-to-assemble-life/)
- - [Lectric XP Trike Review: Cheap Three-Wheeled Ebike](https://www.wired.com/review/lectric-xp-trike/)
- - [7 Best Monitors &lpar;2023&rpar;: Budget, Ultrawide, 4K, Portable](https://www.wired.com/gallery/best-monitors/)<!-- TECH:END -->
+ - [Lectric XP Trike Review: Cheap Three-Wheeled Ebike](https://www.wired.com/review/lectric-xp-trike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

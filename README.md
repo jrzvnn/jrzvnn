@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
+ - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
  - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 💣 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
- - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
+ - 👉 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)<!-- MEMES:END -->
 
 ---
 </div>

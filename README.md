@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
- - 💣 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
- - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)<!-- MEMES:END -->
+ - 😝 [These people are so out of touch with reality](http://9gag.com/gag/aREyNLy)
+ - 😝 [Best version.](http://9gag.com/gag/avQDDRE)
+ - 💣 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
+ - 😝 [Haters gon hate!](http://9gag.com/gag/aPgpd4R)
+ - 👉 [An American welcomes his refugee neighbors in fluent Ukrainian](http://9gag.com/gag/aDYPNy7)<!-- MEMES:END -->
 
 ---
 </div>

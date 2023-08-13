@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Mac Pro in danger after fumbled Apple Silicon launch](https://appleinsider.com/articles/23/08/13/mac-pro-in-danger-after-fumbled-apple-silicon-launch?utm_medium=rss)
+ - [6 Vision Problems That Get More Common As You Get Older     - CNET](https://www.cnet.com/health/personal-care/6-vision-problems-that-get-more-common-as-you-get-older/#ftag=CAD590a51e)
  - [Inside the Black Hat network operations center, staffed by volunteers who built the network on the week of the event from scratch using their own equipment &lpar;Iain Thomson/The Register&rpar;](http://www.techmeme.com/230813/p6#a230813p6)
  - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)
- - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)
- - [Major &#39;Apple Watch X&#39; redesign rumored to arrive in 2024](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)<!-- TECH:END -->
+ - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

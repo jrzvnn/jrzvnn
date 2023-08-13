@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bloke for the win , outstanding level of comedic timing](http://9gag.com/gag/a4oxxyv)
- - 😝 [With subtitles so you don&#39;t miss anything. legend](http://9gag.com/gag/aXnddKv)
- - 💣 [An American welcomes his refugee neighbors in fluent Ukrainian](http://9gag.com/gag/aDYPNy7)
- - 😝 [I ain&#39;t choosing the hell..](http://9gag.com/gag/a2Kx9K9)
- - 👉 [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is a top EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the politicians who suffer from the consequences of their decisions.](http://9gag.com/gag/aREy9Bq)<!-- MEMES:END -->
+ - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
+ - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
+ - 💣 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)
+ - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
+ - 👉 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)<!-- MEMES:END -->
 
 ---
 </div>

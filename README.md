@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 💣 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [13th Century Hungarian swords. How tall was the people carrying these swords?](http://9gag.com/gag/a04xE0X)<!-- MEMES:END -->
+ - 👉 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)<!-- MEMES:END -->
 
 ---
 </div>

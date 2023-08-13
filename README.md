@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Sweden&#39;s Psychological Defense Agency, a part of the Ministry of Defense, is combating online disinformation from foreign adversaries, especially Russia &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/230813/p5#a230813p5)
  - [A look at bundles from smaller streaming services, telcos&#39; potential role in bundling, and big streaming services&#39; opposition to sharing the same user interface &lpar;Josef Adalian/Vulture&rpar;](http://www.techmeme.com/230813/p4#a230813p4)
  - [Analysis: a basket of the top US streaming services will cost $87 per month this fall, vs. $73 a year ago; the average US cable TV package costs $83 per month &lpar;Financial Times&rpar;](http://www.techmeme.com/230813/p3#a230813p3)
  - [Researcher Patrick Wardle says Apple&#39;s macOS Background Task Management tool is &quot;trivially&quot; easy to bypass by &quot;any malware that is somewhat sophisticated&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230813/p2#a230813p2)
- - [How hackers at DEF CON are trying to expose flaws and biases in AI models produced by Google, Meta, OpenAI, and others through a public contest &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230813/p1#a230813p1)
- - [Best Game Pass and Xbox Live Deals: Discounted Subscriptions Starting at $3 a Month     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How hackers at DEF CON are trying to expose flaws and biases in AI models produced by Google, Meta, OpenAI, and others through a public contest &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230813/p1#a230813p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

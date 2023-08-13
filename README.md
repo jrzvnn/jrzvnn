@@ -157,8 +157,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
  - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
+ - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
  - 👉 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)<!-- MEMES:END -->
 
 ---

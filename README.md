@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 💣 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 😝 [Everyone on the plane is watching the World Cup match except one person\u2026](http://9gag.com/gag/awZ88p1)
+ - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)<!-- MEMES:END -->
+ - 👉 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)<!-- MEMES:END -->
 
 ---
 </div>

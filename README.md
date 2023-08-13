@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
- - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
- - 💣 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
+ - 😝 [Haters gon hate!](http://9gag.com/gag/aPgpd4R)
+ - 😝 [These people are so out of touch with reality](http://9gag.com/gag/aREyNLy)
+ - 💣 [Best version.](http://9gag.com/gag/avQDDRE)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
+ - 👉 [I&#39;ve lived my life by the principle of `Do unto others as you would have them do unto you.` How stupid are these liberals, granting citizenships to these animals, just out of fear of not being seen as racist? Even we here in the Middle East don&#39;t want them!](http://9gag.com/gag/aEqQE29)<!-- MEMES:END -->
 
 ---
 </div>

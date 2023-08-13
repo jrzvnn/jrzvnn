@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
- - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 💣 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)
+ - 😝 [Facts or cap?](http://9gag.com/gag/agodjN1)
+ - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
+ - 👉 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)<!-- MEMES:END -->
 
 ---
 </div>

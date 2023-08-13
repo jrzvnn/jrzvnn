@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: a basket of the top US streaming services will cost $87 per month this fall, vs. $73 a year ago; the average US cable TV package costs $83 per month &lpar;Financial Times&rpar;](http://www.techmeme.com/230813/p3#a230813p3)
  - [Researcher Patrick Wardle says Apple&#39;s macOS Background Task Management tool is &quot;trivially&quot; easy to bypass by &quot;any malware that is somewhat sophisticated&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230813/p2#a230813p2)
  - [How hackers at DEF CON are trying to expose flaws and biases in AI models produced by Google, Meta, OpenAI, and others through a public contest &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230813/p1#a230813p1)
  - [Best Game Pass and Xbox Live Deals: Discounted Subscriptions Starting at $3 a Month     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
- - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)
- - [Some iPhone 14 Pro users complain that the &quot;maximum capacity&quot; of their phone&#39;s batteries has already dropped to around 90% after less than a year &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230812/p11#a230812p11)<!-- TECH:END -->
+ - [How to set your Personal Update for Siri](https://appleinsider.com/inside/siri/tips/how-to-set-your-personal-update-for-siri?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

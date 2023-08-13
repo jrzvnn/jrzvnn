@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Major &#39;Apple Watch X&#39; redesign rumored to arrive in 2024](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
+ - [M3 roadmap speculation hints at next Apple Silicon generation chips](https://appleinsider.com/articles/23/08/13/m3-roadmap-speculation-hints-at-next-apple-silicon-generation-chips?utm_medium=rss)
  - [ShapesXR, which offers an XR app creation and collaboration platform to clients like Meta, Qualcomm, and ByteDance, raised an $8.6M seed led by Supernode Global &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230813/p9#a230813p9)
  - [Exynos 2400: What you should know about Samsung’s chipset return](https://www.androidauthority.com/samsung-exynos-2400-explained-3354040/)
- - [Sources: Apple is planning a major &quot;Watch X&quot; redesign for the 10th anniversary; a look at the M3 roadmap, including a top M3 Ultra with 32 CPU and 80 GPU cores &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230813/p8#a230813p8)
- - [Apple’s M3 Ultra Mac Studio could have a 32-core CPU and up to 80 GPU cores](https://www.theverge.com/2023/8/13/23830405/apple-m3-ultra-cpu-gpu-mac-studio-mac-pro)
- - [Sources: SoftBank is in talks to acquire Vision Fund 1&#39;s 25% stake in Arm, ahead of the chip designer&#39;s Nasdaq IPO in September; SoftBank owns the remaining 75% &lpar;Reuters&rpar;](http://www.techmeme.com/230813/p7#a230813p7)<!-- TECH:END -->
+ - [The Sense 2 Is Fitbit&#39;s Most Advanced Smartwatch, and It&#39;s $70 Off at Amazon     - CNET](https://www.cnet.com/deals/optimize-your-workouts-this-summer-with-a-discounted-fitbit-sense-2-for-229/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

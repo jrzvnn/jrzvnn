@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 😝 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
+ - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
  - 💣 [Axl needs to be smacked on the head with a guitar](http://9gag.com/gag/anzdGNn)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)<!-- MEMES:END -->
+ - 👉 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)<!-- MEMES:END -->
 
 ---
 </div>

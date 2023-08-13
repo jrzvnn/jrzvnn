@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These people are so out of touch with reality](http://9gag.com/gag/aREyNLy)
- - 😝 [Best version.](http://9gag.com/gag/avQDDRE)
- - 💣 [I&#39;ve lived my life by the principle of `Do unto others as you would have them do unto you.` How stupid are these liberals, granting citizenships to these animals, just out of fear of not being seen as racist? Even we here in the Middle East don&#39;t want them!](http://9gag.com/gag/aEqQE29)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 😝 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)
+ - 💣 [WTF - China Arnold was sentenced to life in prison after cooking her baby in the microwave](http://9gag.com/gag/a8qnVDQ)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [I ain&#39;t choosing the hell..](http://9gag.com/gag/a2Kx9K9)<!-- MEMES:END -->
+ - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
 
 ---
 </div>

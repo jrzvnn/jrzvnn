@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Apple Stores hit with forklift, serial thefts, and slight-of-hand cash robbery.](https://appleinsider.com/articles/23/08/13/crime-blotter-apple-stores-hit-with-forklift-serial-thefts-and-slight-of-hand-cash-robbery?utm_medium=rss)
  - [Top 10 tips and tricks to enhance your Samsung Galaxy Z Fold 5 experience!](https://www.androidauthority.com/samsung-galaxy-z-fold-5-tips-tricks-3352890/)
  - [How to Use Focus Mode to Get Work Done in Windows](https://www.wired.com/story/how-to-use-focus-mode-windows/)
  - [13 Best Coffee Grinders &lpar;2023&rpar;: Conical-Burr, Flat-Burr, Manual, Blade](https://www.wired.com/gallery/best-coffee-grinders/)
- - [14 Best Tablets &lpar;2023&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)
- - [How Sweden&#39;s Psychological Defense Agency, a part of the Ministry of Defense, is combating online disinformation from foreign adversaries, especially Russia &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/230813/p5#a230813p5)<!-- TECH:END -->
+ - [14 Best Tablets &lpar;2023&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

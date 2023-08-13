@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a boss](http://9gag.com/gag/armdzjB)
- - 😝 [Please](http://9gag.com/gag/aYVdmnV)
- - 💣 [Currently policy is f**kd up. Good people are waiting years and rapists are welcome.](http://9gag.com/gag/aBdvoNz)
+ - 😝 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
+ - 💣 [C&#39;mon what&#39;s in the boooox](http://9gag.com/gag/avQD9ZW)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Pete holmes can&#39;t believe this nonsense!](http://9gag.com/gag/aREyNrA)<!-- MEMES:END -->
+ - 👉 [Uber Eats delivery driver murdered while making a delivery to an MS-13 gang member](http://9gag.com/gag/a4oxWxQ)<!-- MEMES:END -->
 
 ---
 </div>

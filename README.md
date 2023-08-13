@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a boss](http://9gag.com/gag/armdzjB)
- - 😝 [Damn, that&#39;s a lot of money](http://9gag.com/gag/a8qnzXQ)
- - 💣 [Please](http://9gag.com/gag/aYVdmnV)
+ - 😝 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
+ - 💣 [... and a full penetration at the end. Wtf](http://9gag.com/gag/anzdGzo)
  - 😝 [10 Exciting Games That Are Coming To Gamescom 2023](http://9gag.com/gag/aZDvOyp)
- - 👉 [Get a coffee...](http://9gag.com/gag/a04xx5L)<!-- MEMES:END -->
+ - 👉 [13th Century Hungarian swords. How tall was the people carrying these swords?](http://9gag.com/gag/a04xE0X)<!-- MEMES:END -->
 
 ---
 </div>

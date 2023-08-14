@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Shit happens](http://9gag.com/gag/a8qnvXd)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
- - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [Funni mem](http://9gag.com/gag/aMEWN7A)
- - 👉 [Whatever floats your boat.](http://9gag.com/gag/amAdnY9)<!-- MEMES:END -->
+ - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
+ - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - 👉 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)<!-- MEMES:END -->
 
 ---
 </div>

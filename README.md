@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane will share more about its mysterious ‘Ai Pin’ the same day as October’s eclipse](https://www.theverge.com/2023/8/14/23831756/humane-ai-pin-october-solar-eclipse)
  - [Controversial carbon removal technology just got $1.2 billion from the Biden administration](https://www.theverge.com/2023/8/14/23831268/carbon-removal-climate-change-biden-funding-energy-department)
  - [YouTube is testing a new anti-adblocker that has a countdown clock](https://www.androidauthority.com/youtube-anti-adblocking-feature-3354930/)
  - [Netflix starts testing games service for smart TVs](https://appleinsider.com/articles/23/08/14/netflix-starts-testing-games-service-for-smart-tvs?utm_medium=rss)
- - [Take home the latest MacBook Air at a $150 discount, plus big savings on iPads &amp; AirPods](https://appleinsider.com/articles/23/08/14/take-home-the-latest-macbook-air-at-a-150-discount-plus-big-savings-on-ipads-airpods?utm_medium=rss)
- - [Young people who sued their state over climate change notch their first victory](https://www.theverge.com/2023/8/14/23831679/youth-climate-change-trial-victory-held-v-montana)<!-- TECH:END -->
+ - [Take home the latest MacBook Air at a $150 discount, plus big savings on iPads &amp; AirPods](https://appleinsider.com/articles/23/08/14/take-home-the-latest-macbook-air-at-a-150-discount-plus-big-savings-on-ipads-airpods?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
+ - 😝 [Let&#39;s do it](http://9gag.com/gag/aBdv5R2)
+ - 😝 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)
+ - 💣 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
+ - 😝 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)
+ - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
 
 ---
 </div>

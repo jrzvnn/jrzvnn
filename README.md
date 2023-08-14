@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Taiwan, Douyin, Xiaohongshu, and other lifestyle and shopping apps are increasingly becoming part of China&#39;s information war, aided by a shared language &lpar;Emma Graham-Harrison/The Guardian&rpar;](http://www.techmeme.com/230814/p4#a230814p4)
+ - [The Great AI Backlash Has Claimed a New Victim—and You’ve Probably Never Heard of It](https://www.wired.com/story/prosecraft-backlash-writers-ai/)
  - [A look at the years of warnings about AI from researchers, including several women of color, who say we need to take the problems and risks seriously today &lpar;Lorena O&#39;Neil/Rolling Stone&rpar;](http://www.techmeme.com/230814/p3#a230814p3)
  - [Firefox’s Android app is getting proper support for extensions once again](https://www.theverge.com/2023/8/14/23831094/firefox-android-open-extension-support)
- - [How Unilever, Siemens, Maersk, and other big companies are using AI to negotiate contracts, find new suppliers, and navigate other complex supply chain issues &lpar;Financial Times&rpar;](http://www.techmeme.com/230814/p2#a230814p2)
- - [The Apple Watch X could be the big upgrade you’re waiting for](https://www.androidauthority.com/apple-watch-x-leak-3354751/)
- - [Some 2024 flagship phones might stick with Snapdragon 8 Gen 2 instead](https://www.androidauthority.com/2024-flagship-phones-snapdragon-8-gen-2-3354737/)<!-- TECH:END -->
+ - [How Unilever, Siemens, Maersk, and other big companies are using AI to negotiate contracts, find new suppliers, and navigate other complex supply chain issues &lpar;Financial Times&rpar;](http://www.techmeme.com/230814/p2#a230814p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

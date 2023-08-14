@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
- - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)<!-- MEMES:END -->
+ - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 💣 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 👉 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)<!-- MEMES:END -->
 
 ---
 </div>

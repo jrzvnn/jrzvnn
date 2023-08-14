@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 😝 [Austin powers](http://9gag.com/gag/amAdygo)
- - 💣 [`We have a spa day...`](http://9gag.com/gag/a9qV4no)
- - 😝 [BLIZZARD got 2 of their Diablo 4 Game developers to play Diablo 4... and the 2 game devs dont even know how to play the game they were so... `Passionate` making.](http://9gag.com/gag/agodbY1)
- - 👉 [C. Can&#39;t tell.](http://9gag.com/gag/aDYPrXB)<!-- MEMES:END -->
+ - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
+ - 💣 [Money](http://9gag.com/gag/aqedVqQ)
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
 
 ---
 </div>

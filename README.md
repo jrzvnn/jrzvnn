@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford hires former Apple VP of Services Peter Stern to lead its customer software team and improve the user experience, part of the Ford+ plan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230814/p8#a230814p8)
- - [PayPal appoints Intuit SVP Alex Chriss as CEO, replacing longtime CEO Dan Schulman on September 27; the board cited Chriss&#39; work acquiring Mailchimp for $12B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230814/p7#a230814p7)
+ - [11 Best Tents &lpar;2023&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
+ - [Ford hires former Apple VP of Services Peter Stern, who helped build Apple TV+, to form a team improving customers&#39; software experience, part of the Ford+ plan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230814/p8#a230814p8)
+ - [PayPal names Intuit SVP Alex Chriss as its CEO, replacing longtime CEO Dan Schulman on September 27; the board cited Chriss&#39; work acquiring Mailchimp for $12B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230814/p7#a230814p7)
  - [Ford hires ex-Apple TV Plus chief Peter Stern to lead the customer software team](https://www.theverge.com/2023/8/14/23831251/ford-peter-stern-hired-apple-tv-software-service)
- - [Foxconn reports Q2 revenue down 14% YoY to ~$40.9B, net profit down 1% YoY to ~$1B, beating analyst estimates of ~$801M, and retains a cautious H2 2023 outlook &lpar;Reuters&rpar;](http://www.techmeme.com/230814/p6#a230814p6)
- - [A Huge Scam Targeting Kids With Roblox and Fortnite &#39;Offers&#39; Has Been Hiding in Plain Sight](https://www.wired.com/story/poison-pdf-scam-fortnite-roblox/)<!-- TECH:END -->
+ - [Foxconn reports Q2 revenue down 14% YoY to ~$40.9B, net profit down 1% YoY to ~$1B, beating analyst estimates of ~$801M, and retains a cautious H2 2023 outlook &lpar;Reuters&rpar;](http://www.techmeme.com/230814/p6#a230814p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

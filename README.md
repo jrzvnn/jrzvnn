@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
  - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 💣 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
  - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 👉 [Like vegan cats](http://9gag.com/gag/aGEo6w0)<!-- MEMES:END -->
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 </div>

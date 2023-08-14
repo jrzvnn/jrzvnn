@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 👉 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)<!-- MEMES:END -->
+ - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
+ - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 👉 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)<!-- MEMES:END -->
 
 ---
 </div>

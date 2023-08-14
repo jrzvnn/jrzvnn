@@ -148,7 +148,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [The Biden administration urges the Supreme Court to take up content moderation cases](https://www.theverge.com/2023/8/14/23831989/biden-supreme-court-content-moderation-section-230)
  - [AI companies must prove their AI is safe, says nonprofit group](https://www.theverge.com/2023/8/14/23831819/ai-companies-regulation-rules-shield-laws)
- - [The Musk versus Zuckerberg beef has reached a new level of absurdity](https://www.theverge.com/2023/8/14/23831915/the-musk-versus-zuckerberg-beef-has-reached-a-new-level-of-absurdity)
+ - [The Elon Musk versus Mark Zuckerberg beef has reached a new level of absurdity](https://www.theverge.com/2023/8/14/23831915/the-musk-versus-zuckerberg-beef-has-reached-a-new-level-of-absurdity)
  - [A US court permits bankrupt crypto lender Celsius to poll account holders on its proposal to relaunch as a user-owned company and distribute ~$2B of BTC and ETH &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/230814/p14#a230814p14)
  - [Now you can get food delivered to your gate at some of the biggest US airports](https://www.theverge.com/2023/8/14/23831622/us-airport-jfk-ohare-food-delivery-order-ipad-removal-otg)<!-- TECH:END -->
 

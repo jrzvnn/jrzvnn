@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funni mem](http://9gag.com/gag/aMEWN7A)
  - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 😝 [Whatttttt?!??!?! How did I not know this](http://9gag.com/gag/a3Zxnj8)
  - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
  - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
+ - 👉 [Whatever floats your boat.](http://9gag.com/gag/amAdnY9)<!-- MEMES:END -->
 
 ---
 </div>

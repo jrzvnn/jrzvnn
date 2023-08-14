@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 💣 [When you go on a date but she brings her friends and they get drunk .](http://9gag.com/gag/a8qnNpZ)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)<!-- MEMES:END -->
+ - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - 😝 [When you go on a date but she brings her friends and they get drunk .](http://9gag.com/gag/a8qnNpZ)
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 </div>

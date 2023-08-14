@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 😝 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
- - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
 
 ---
 </div>

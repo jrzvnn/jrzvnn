@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV Plus is getting a new series about Lionel Messi in Miami](https://www.theverge.com/2023/8/14/23831469/apple-tv-plus-lionel-messi-miami-docuseries)
+ - [Source: CoinDesk lays off 20 people, or 45%, of its editorial team as its parent company, Digital Currency Group, pursues the outlet&#39;s sale &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230814/p11#a230814p11)
  - [Samsung’s Galaxy A54 phone with a lovely 120Hz display is $100 off](https://www.theverge.com/2023/8/14/23831173/samsung-galaxy-a54-alienware-qdoled-apple-iphone-gift-card-sale)
  - [Amazon adds AI-generated review summaries so you don’t have to read the comments](https://www.theverge.com/2023/8/14/23831391/amazon-review-summaries-generative-ai)
- - [TikTok Has Started to Let People Think For Themselves](https://www.wired.com/story/tiktok-has-started-to-let-people-think-for-themselves/)
- - [How to use iPad as a portable screen for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
- - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)<!-- TECH:END -->
+ - [TikTok Has Started to Let People Think For Themselves](https://www.wired.com/story/tiktok-has-started-to-let-people-think-for-themselves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

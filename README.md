@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Watch 2 swings by FCC, revealing strap choices](https://www.androidauthority.com/pixel-watch-2-fcc-certification-3354806/)
  - [Yet another leaked image of USB-C iPhone 15 components surfaces](https://appleinsider.com/articles/23/08/14/yet-another-leaked-image-of-usb-c-iphone-15-components-surfaces?utm_medium=rss)
  - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)
  - [Apple insists Australian payment rule changes shouldn&#39;t apply to Wallet](https://appleinsider.com/articles/23/08/14/apple-insists-australian-payment-rule-changes-shouldnt-apply-to-wallet?utm_medium=rss)
- - [Your iPhone 14’s battery degradation isn’t great, but it’s normal](https://www.androidauthority.com/your-iphone-14s-battery-degradation-isnt-great-but-its-normal-3354775/)
- - [The Space Force Is Launching Its Own Swarm of Tiny Satellites](https://www.wired.com/story/the-space-force-is-launching-its-own-swarm-of-tiny-satellites/)<!-- TECH:END -->
+ - [Your iPhone 14’s battery degradation isn’t great, but it’s normal](https://www.androidauthority.com/your-iphone-14s-battery-degradation-isnt-great-but-its-normal-3354775/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
  - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

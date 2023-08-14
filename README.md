@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix begins a &quot;limited beta test&quot; of its cloud-streamed games on TVs, connected TV devices like Roku and Fire TV sticks, and on the web, in Canada and the UK &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230814/p12#a230814p12)
  - [Untrustworthy AI is going to summarize untrustworthy Amazon reviews](https://www.androidauthority.com/amazon-ai-customer-review-summaries-3354894/)
  - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
  - [Ford’s hands-free BlueCruise feature is now available as a monthly or annual subscription](https://www.theverge.com/2023/8/14/23831558/ford-bluecruise-hands-free-subscription-cost)
- - [Netflix finally streams video games, too](https://www.theverge.com/2023/8/14/23829262/netflix-cloud-gaming-testing-tv-web)
- - [Woot Is Offering Over $600 Off the Powerful 2021 iPad Pro     - CNET](https://www.cnet.com/deals/woot-is-offering-over-600-off-the-powerful-2021-ipad-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix finally streams video games, too](https://www.theverge.com/2023/8/14/23829262/netflix-cloud-gaming-testing-tv-web)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

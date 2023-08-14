@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 😝 [Black white supremacist](http://9gag.com/gag/aOxjnDD)
- - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
+ - 😝 [Funni mem](http://9gag.com/gag/aMEWN7A)
+ - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
+ - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
 
 ---
 </div>

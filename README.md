@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn reports Q2 revenue down 14% YoY to ~$40.9B, net profit down 1% YoY to ~$1B, beating analyst estimates of $801M, and issues a cautious H2 2023 outlook &lpar;Reuters&rpar;](http://www.techmeme.com/230814/p6#a230814p6)
+ - [Xiaomi Mix Fold 3 launched: Everything the Z Fold 5 is not](https://www.androidauthority.com/xiaomi-mix-fold-3-3354406/)
+ - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
  - [Samsung QD-OLED TV review, SwitchBot update, &amp; MagSafe VS Qi2 on the HomeKit Insider podcast](https://appleinsider.com/articles/23/08/14/samsung-qd-oled-tv-review-switchbot-update-magsafe-vs-qi2-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Microsoft’s new Office default theme and font arrives in September](https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date)
- - [Bugs in macOS Background Task Manager keeps apps hidden](https://appleinsider.com/articles/23/08/14/bugs-in-macos-background-task-manager-keeps-apps-hidden?utm_medium=rss)
- - [Apple sponsors Dublin conference on speech processing](https://appleinsider.com/articles/23/08/14/apple-sponsors-dublin-conference-on-speech-processing?utm_medium=rss)
- - [Mobile phone shipments crossed 2B cumulative units under the &quot;Make in India&quot; initiative between 2014 and 2022, a 23% CAGR, for 98% of local shipments in 2022 &lpar;Prachir Singh/Counterpoint Research&rpar;](http://www.techmeme.com/230814/p5#a230814p5)<!-- TECH:END -->
+ - [Microsoft’s new Office default theme and font arrives in September](https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

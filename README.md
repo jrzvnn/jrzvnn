@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)
  - [Apple insists Australian payment rule changes shouldn&#39;t apply to Wallet](https://appleinsider.com/articles/23/08/14/apple-insists-australian-payment-rule-changes-shouldnt-apply-to-wallet?utm_medium=rss)
  - [Your iPhone 14’s battery degradation isn’t great, but it’s normal](https://www.androidauthority.com/your-iphone-14s-battery-degradation-isnt-great-but-its-normal-3354775/)
  - [The Space Force Is Launching Its Own Swarm of Tiny Satellites](https://www.wired.com/story/the-space-force-is-launching-its-own-swarm-of-tiny-satellites/)
- - [Uber and Lyft Drivers Have Some Advice for Autonomous Vehicles Set to Swarm the Streets](https://www.wired.com/story/uber-and-lyft-drivers-advice-autonomous-vehicles-self-driving-cars-taxis/)
- - [OPPO Find N3 Flip leaked renders showcase last minute design-switch](https://www.androidauthority.com/oppo-find-n3-flip-leaked-renders-3354778/)<!-- TECH:END -->
+ - [Uber and Lyft Drivers Have Some Advice for Autonomous Vehicles Set to Swarm the Streets](https://www.wired.com/story/uber-and-lyft-drivers-advice-autonomous-vehicles-self-driving-cars-taxis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

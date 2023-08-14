@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi’s latest foldable is durable enough to survive half a million folds](https://www.theverge.com/2023/8/14/23831293/xiaomi-mix-fold-3-price-release-date-specs-features-hinge-china)
+ - [Color OS could soon will let you place multiple sound sources in spatial audio](https://www.androidauthority.com/color-os-holo-audio-apk-teardown-3354838/)
+ - [Ford taps former Apple exec for hands-free driving project](https://appleinsider.com/articles/23/08/14/ford-taps-former-apple-exec-for-hands-free-driving-project?utm_medium=rss)
  - [PayPal announces a new CEO as its crypto push accelerates](https://www.theverge.com/2023/8/14/23831244/paypal-new-ceo-alex-chriss-crypto-pyusd)
- - [11 Best Tents &lpar;2023&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
- - [Ford hires former Apple VP of Services Peter Stern, who helped build Apple TV+, to form a team improving customers&#39; software experience, part of the Ford+ plan &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230814/p8#a230814p8)
- - [PayPal names Intuit SVP Alex Chriss as its CEO, replacing longtime CEO Dan Schulman on September 27; the board cited Chriss&#39; work acquiring Mailchimp for $12B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230814/p7#a230814p7)
- - [Ford hires ex-Apple TV Plus chief Peter Stern to lead the customer software team](https://www.theverge.com/2023/8/14/23831251/ford-peter-stern-hired-apple-tv-software-service)<!-- TECH:END -->
+ - [11 Best Tents &lpar;2023&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

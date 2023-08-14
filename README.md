@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 💣 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
- - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 👉 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)<!-- MEMES:END -->
+ - 😝 [Austin powers](http://9gag.com/gag/amAdygo)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 💣 [`We have a spa day...`](http://9gag.com/gag/a9qV4no)
+ - 😝 [Lovely](http://9gag.com/gag/a3ZxD8m)
+ - 👉 [BLIZZARD got 2 of their Diablo 4 Game developers to play Diablo 4... and the 2 game devs dont even know how to play the game they were so... `Passionate` making.](http://9gag.com/gag/agodbY1)<!-- MEMES:END -->
 
 ---
 </div>

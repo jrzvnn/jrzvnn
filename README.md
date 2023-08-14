@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is testing a new anti-adblocker that has a countdown clock](https://www.androidauthority.com/youtube-anti-adblocking-feature-3354930/)
  - [Netflix starts testing games service for smart TVs](https://appleinsider.com/articles/23/08/14/netflix-starts-testing-games-service-for-smart-tvs?utm_medium=rss)
  - [Take home the latest MacBook Air at a $150 discount, plus big savings on iPads &amp; AirPods](https://appleinsider.com/articles/23/08/14/take-home-the-latest-macbook-air-at-a-150-discount-plus-big-savings-on-ipads-airpods?utm_medium=rss)
  - [Young people who sued their state over climate change notch their first victory](https://www.theverge.com/2023/8/14/23831679/youth-climate-change-trial-victory-held-v-montana)
- - [OnePlus’ new screen knows where you’re touching it, even when it’s wet](https://www.theverge.com/2023/8/14/23831651/oneplus-ace-2-pro-touchscreen-wet-hands-oppo)
- - [Remember Apple’s ‘batterygate’ lawsuit? Your payout is coming soon.](https://www.androidauthority.com/batterygate-payout-3354937/)<!-- TECH:END -->
+ - [OnePlus’ new screen knows where you’re touching it, even when it’s wet](https://www.theverge.com/2023/8/14/23831651/oneplus-ace-2-pro-touchscreen-wet-hands-oppo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

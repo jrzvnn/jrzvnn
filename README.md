@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Ford’s hands-free BlueCruise feature is now available as a monthly or annual subscription](https://www.theverge.com/2023/8/14/23831558/ford-bluecruise-hands-free-subscription-cost)
+ - [Netflix finally streams video games, too](https://www.theverge.com/2023/8/14/23829262/netflix-cloud-gaming-testing-tv-web)
  - [Assassin’s Creed Mirage is coming out a week early](https://www.theverge.com/2023/8/14/23831569/assassins-creed-mirage-new-release-date)
- - [Verizon says it’s weeks away from a major upgrade to rural 5G](https://www.theverge.com/2023/8/14/23831269/verizon-rural-5g-c-band-spectrum-200mhz)
- - [Apple TV+ plans to milk all it can out of Lionel Messi](https://appleinsider.com/articles/23/08/14/apple-tv-plans-to-milk-all-it-can-out-of-lionel-messi?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple TV Plus is getting a new series about Lionel Messi in Miami](https://www.theverge.com/2023/8/14/23831469/apple-tv-plus-lionel-messi-miami-docuseries)<!-- TECH:END -->
+ - [Verizon says it’s weeks away from a major upgrade to rural 5G](https://www.theverge.com/2023/8/14/23831269/verizon-rural-5g-c-band-spectrum-200mhz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

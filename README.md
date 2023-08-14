@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
  - [Samsung expands its One UI 6 beta program to more countries](https://www.androidauthority.com/samsung-one-ui-6-beta-program-expands-3354864/)
  - [The Pixel Watch 2 may not get UWB support after all](https://www.theverge.com/2023/8/14/23831205/google-pixel-watch-2-uwb-fcc-straps-wearables)
  - [The UN-backed Science Based Targets initiative removes Amazon from its list of companies working toward net zero emission goals, which Amazon announced in 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230814/p10#a230814p10)
- - [Injecting a Gene Into Monkeys&#39; Brains Curbed Their Alcohol Use](https://www.wired.com/story/injecting-a-gene-into-monkeys-brains-curbed-their-alcohol-use/)
- - [Amazon rolls out generative AI summaries of product reviews to a subset of US mobile users across a &quot;broad&quot; range of products after testing earlier in 2023 &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/230814/p9#a230814p9)<!-- TECH:END -->
+ - [Injecting a Gene Into Monkeys&#39; Brains Curbed Their Alcohol Use](https://www.wired.com/story/injecting-a-gene-into-monkeys-brains-curbed-their-alcohol-use/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

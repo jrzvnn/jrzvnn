@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
- - 😝 [Insert title here](http://9gag.com/gag/a7qGGNz)
- - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
  - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 👉 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)<!-- MEMES:END -->
+ - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
+ - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
 
 ---
 </div>

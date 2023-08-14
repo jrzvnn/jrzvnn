@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
- - [Samsung expands its One UI 6 beta program to more countries](https://www.androidauthority.com/samsung-one-ui-6-beta-program-expands-3354864/)
- - [The Pixel Watch 2 may not get UWB support after all](https://www.theverge.com/2023/8/14/23831205/google-pixel-watch-2-uwb-fcc-straps-wearables)
- - [The UN-backed Science Based Targets initiative removes Amazon from its list of companies working toward net zero emission goals, which Amazon announced in 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230814/p10#a230814p10)
- - [Injecting a Gene Into Monkeys&#39; Brains Curbed Their Alcohol Use](https://www.wired.com/story/injecting-a-gene-into-monkeys-brains-curbed-their-alcohol-use/)<!-- TECH:END -->
+ - [Samsung’s Galaxy A54 phone with a lovely 120Hz display is $100 off](https://www.theverge.com/2023/8/14/23831173/samsung-galaxy-a54-alienware-qdoled-apple-iphone-gift-card-sale)
+ - [Amazon adds AI-generated review summaries so you don’t have to read the comments](https://www.theverge.com/2023/8/14/23831391/amazon-review-summaries-generative-ai)
+ - [TikTok Has Started to Let People Think For Themselves](https://www.wired.com/story/tiktok-has-started-to-let-people-think-for-themselves/)
+ - [How to use iPad as a portable screen for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
+ - [Saving sites: Pocket’s bookmarking app and its alternatives](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

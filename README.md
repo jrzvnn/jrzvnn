@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 👉 [Play victim while in a minority, impose Sharia while in a majority](http://9gag.com/gag/aXndz62)<!-- MEMES:END -->
+ - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
 
 ---
 </div>

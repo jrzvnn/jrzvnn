@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Untrustworthy AI is going to summarize untrustworthy Amazon reviews](https://www.androidauthority.com/amazon-ai-customer-review-summaries-3354894/)
  - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
  - [Ford’s hands-free BlueCruise feature is now available as a monthly or annual subscription](https://www.theverge.com/2023/8/14/23831558/ford-bluecruise-hands-free-subscription-cost)
  - [Netflix finally streams video games, too](https://www.theverge.com/2023/8/14/23829262/netflix-cloud-gaming-testing-tv-web)
- - [Assassin’s Creed Mirage is coming out a week early](https://www.theverge.com/2023/8/14/23831569/assassins-creed-mirage-new-release-date)
- - [Verizon says it’s weeks away from a major upgrade to rural 5G](https://www.theverge.com/2023/8/14/23831269/verizon-rural-5g-c-band-spectrum-200mhz)<!-- TECH:END -->
+ - [Woot Is Offering Over $600 Off the Powerful 2021 iPad Pro     - CNET](https://www.cnet.com/deals/woot-is-offering-over-600-off-the-powerful-2021-ipad-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

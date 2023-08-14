@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lovely](http://9gag.com/gag/a3ZxD8m)
+ - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
  - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 💣 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
- - 😝 [Women are complicated](http://9gag.com/gag/anzd0O5)
- - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

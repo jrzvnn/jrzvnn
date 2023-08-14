@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Musk versus Zuckerberg beef has reached a new level of absurdity](https://www.theverge.com/2023/8/14/23831915/the-musk-versus-zuckerberg-beef-has-reached-a-new-level-of-absurdity)
+ - [A US court permits bankrupt crypto lender Celsius to poll account holders on its proposal to relaunch as a user-owned company and distribute ~$2B of BTC and ETH &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/230814/p14#a230814p14)
  - [Now you can get food delivered to your gate at some of the biggest US airports](https://www.theverge.com/2023/8/14/23831622/us-airport-jfk-ohare-food-delivery-order-ipad-removal-otg)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: Amazon Devices &amp; Services SVP David Limp, who oversees Alexa, Echo, and more, plans to retire in the coming months; Amazon says he&#39;s leaving in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230814/p13#a230814p13)
- - [Amazon’s hardware boss running Alexa and Echo plans to retire](https://www.theverge.com/2023/8/14/23831964/amazon-dave-limp-retire-echo-svp-devices-services-alexa)
- - [Saudi group reportedly abandoned $2 billion deal with the Lord of the Rings game company](https://www.theverge.com/2023/8/14/23831768/embracer-group-saudi-government-lord-of-the-rings-investment-deal-collapse)<!-- TECH:END -->
+ - [Sources: Amazon Devices &amp; Services SVP David Limp, who oversees Alexa, Echo, and more, plans to retire in the coming months; Amazon says he&#39;s leaving in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230814/p13#a230814p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

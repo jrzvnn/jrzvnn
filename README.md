@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 💣 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 👉 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)<!-- MEMES:END -->
+ - 💣 [When you go on a date but she brings her friends and they get drunk .](http://9gag.com/gag/a8qnNpZ)
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 👉 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)<!-- MEMES:END -->
 
 ---
 </div>

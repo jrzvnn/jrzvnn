@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
+ - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
+ - 👉 [Like vegan cats](http://9gag.com/gag/aGEo6w0)<!-- MEMES:END -->
 
 ---
 </div>

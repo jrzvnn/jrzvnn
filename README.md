@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Austin powers](http://9gag.com/gag/amAdygo)
  - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 😝 [Austin powers](http://9gag.com/gag/amAdygo)
  - 💣 [`We have a spa day...`](http://9gag.com/gag/a9qV4no)
- - 😝 [Lovely](http://9gag.com/gag/a3ZxD8m)
- - 👉 [BLIZZARD got 2 of their Diablo 4 Game developers to play Diablo 4... and the 2 game devs dont even know how to play the game they were so... `Passionate` making.](http://9gag.com/gag/agodbY1)<!-- MEMES:END -->
+ - 😝 [BLIZZARD got 2 of their Diablo 4 Game developers to play Diablo 4... and the 2 game devs dont even know how to play the game they were so... `Passionate` making.](http://9gag.com/gag/agodbY1)
+ - 👉 [C. Can&#39;t tell.](http://9gag.com/gag/aDYPrXB)<!-- MEMES:END -->
 
 ---
 </div>

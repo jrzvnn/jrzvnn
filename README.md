@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal appoints Intuit SVP Alex Chriss as CEO, replacing longtime CEO Dan Schulman on September 27; the board cited Chriss&#39; work acquiring Mailchimp for $12B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230814/p7#a230814p7)
+ - [Ford hires ex-Apple TV Plus chief Peter Stern to lead the customer software team](https://www.theverge.com/2023/8/14/23831251/ford-peter-stern-hired-apple-tv-software-service)
  - [Foxconn reports Q2 revenue down 14% YoY to ~$40.9B, net profit down 1% YoY to ~$1B, beating analyst estimates of ~$801M, and issues a cautious H2 2023 outlook &lpar;Reuters&rpar;](http://www.techmeme.com/230814/p6#a230814p6)
  - [A Huge Scam Targeting Kids With Roblox and Fortnite &#39;Offers&#39; Has Been Hiding in Plain Sight](https://www.wired.com/story/poison-pdf-scam-fortnite-roblox/)
- - [Xiaomi Mix Fold 3 launched: Everything the Z Fold 5 is not](https://www.androidauthority.com/xiaomi-mix-fold-3-3354406/)
- - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
- - [Samsung QD-OLED TV review, SwitchBot update, &amp; MagSafe VS Qi2 on the HomeKit Insider podcast](https://appleinsider.com/articles/23/08/14/samsung-qd-oled-tv-review-switchbot-update-magsafe-vs-qi2-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi Mix Fold 3 launched: Everything the Z Fold 5 is not](https://www.androidauthority.com/xiaomi-mix-fold-3-3354406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

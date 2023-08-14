@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
+ - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
  - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 </div>

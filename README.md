@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
  - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
  - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
+ - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
 
 ---
 </div>

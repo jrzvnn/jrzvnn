@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 💣 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
+ - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
+ - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
+ - 👉 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)<!-- MEMES:END -->
 
 ---
 </div>

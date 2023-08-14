@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now you can get food delivered to your gate at some of the biggest US airports](https://www.theverge.com/2023/8/14/23831622/us-airport-jfk-ohare-food-delivery-order-ipad-removal-otg)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Sources: Amazon Devices &amp; Services SVP David Limp, who oversees Alexa, Echo, and more, plans to retire in the coming months; Amazon says he&#39;s leaving in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230814/p13#a230814p13)
  - [Amazon’s hardware boss running Alexa and Echo plans to retire](https://www.theverge.com/2023/8/14/23831964/amazon-dave-limp-retire-echo-svp-devices-services-alexa)
- - [Saudi group reportedly abandoned $2 billion deal with the Lord of the Rings game company](https://www.theverge.com/2023/8/14/23831768/embracer-group-saudi-government-lord-of-the-rings-investment-deal-collapse)
- - [My Absolute Favorite Chef&#39;s Knife of 2023 Is Over Half-Off at Amazon     - CNET](https://www.cnet.com/deals/my-absolute-favorite-chefs-knife-of-2023-is-over-half-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Saudi group reportedly abandoned $2 billion deal with the Lord of the Rings game company](https://www.theverge.com/2023/8/14/23831768/embracer-group-saudi-government-lord-of-the-rings-investment-deal-collapse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

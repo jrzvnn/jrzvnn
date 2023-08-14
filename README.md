@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Your iPhone 14’s battery degradation isn’t great, but it’s normal](https://www.androidauthority.com/your-iphone-14s-battery-degradation-isnt-great-but-its-normal-3354775/)
+ - [The Space Force Is Launching Its Own Swarm of Tiny Satellites](https://www.wired.com/story/the-space-force-is-launching-its-own-swarm-of-tiny-satellites/)
+ - [Uber and Lyft Drivers Have Some Advice for Autonomous Vehicles Set to Swarm the Streets](https://www.wired.com/story/uber-and-lyft-drivers-advice-autonomous-vehicles-self-driving-cars-taxis/)
  - [OPPO Find N3 Flip leaked renders showcase last minute design-switch](https://www.androidauthority.com/oppo-find-n3-flip-leaked-renders-3354778/)
- - [Foxconn predicts decline in iPhone demand](https://appleinsider.com/articles/23/08/14/foxconn-predicts-decline-in-iphone-demand?utm_medium=rss)
- - [The New York Times prohibits using its content to train AI models](https://www.theverge.com/2023/8/14/23831109/the-new-york-times-ai-web-scraping-rules-terms-of-service)
- - [In Taiwan, Douyin, Xiaohongshu, and other lifestyle and shopping apps are increasingly becoming part of China&#39;s information war, aided by a shared language &lpar;Emma Graham-Harrison/The Guardian&rpar;](http://www.techmeme.com/230814/p4#a230814p4)<!-- TECH:END -->
+ - [Foxconn predicts decline in iPhone demand](https://appleinsider.com/articles/23/08/14/foxconn-predicts-decline-in-iphone-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

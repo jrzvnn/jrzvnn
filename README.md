@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - 💣 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
- - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
+ - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 💣 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
 
 ---
 </div>

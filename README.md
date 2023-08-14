@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your iPhone 14’s battery degradation isn’t great, but it’s normal](https://www.androidauthority.com/your-iphone-14s-battery-degradation-isnt-great-but-its-normal-3354775/)
  - [OPPO Find N3 Flip leaked renders showcase last minute design-switch](https://www.androidauthority.com/oppo-find-n3-flip-leaked-renders-3354778/)
  - [Foxconn predicts decline in iPhone demand](https://appleinsider.com/articles/23/08/14/foxconn-predicts-decline-in-iphone-demand?utm_medium=rss)
  - [The New York Times prohibits using its content to train AI models](https://www.theverge.com/2023/8/14/23831109/the-new-york-times-ai-web-scraping-rules-terms-of-service)
- - [In Taiwan, Douyin, Xiaohongshu, and other lifestyle and shopping apps are increasingly becoming part of China&#39;s information war, aided by a shared language &lpar;Emma Graham-Harrison/The Guardian&rpar;](http://www.techmeme.com/230814/p4#a230814p4)
- - [The Great AI Backlash Has Claimed a New Victim—and You’ve Probably Never Heard of It](https://www.wired.com/story/prosecraft-backlash-writers-ai/)<!-- TECH:END -->
+ - [In Taiwan, Douyin, Xiaohongshu, and other lifestyle and shopping apps are increasingly becoming part of China&#39;s information war, aided by a shared language &lpar;Emma Graham-Harrison/The Guardian&rpar;](http://www.techmeme.com/230814/p4#a230814p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

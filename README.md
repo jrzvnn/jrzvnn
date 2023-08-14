@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the Biden administration urges SCOTUS to review key parts of Florida and Texas laws that would restrict how social media companies moderate user content &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/230814/p16#a230814p16)
  - [Sources: Saudi Arabia bought 3,000+ of Nvidia&#39;s H100 GPUs, and the UAE purchased thousands of Nvidia chips; Nvidia will ship ~550K of H100 GPUs globally in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230814/p15#a230814p15)
  - [Want a $4,000 smart door? The Home Depot has you covered](https://www.theverge.com/2023/8/14/23832011/masonite-smart-door-home-depot-m-pwr-available)
  - [Apple’s iPhone ‘batterygate’ settlement payments should start going out soon](https://www.theverge.com/2023/8/14/23831939/apple-iphone-batterygate-iphone-6-7-se-battery-performance-lawsuit)
- - [Best Vegan Meal Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)
- - [PS5 Slim Rumors: What We Know So Far     - CNET](https://www.cnet.com/tech/ps5-slim-rumors-what-we-know-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vegan Meal Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funni mem](http://9gag.com/gag/aMEWN7A)
+ - 😝 [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is a top EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the politicians who suffer from the consequences of their decisions.](http://9gag.com/gag/aREy9Bq)
  - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 💣 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
- - 😝 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)
- - 👉 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
+ - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 😝 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
+ - 👉 [`We have a spa day...`](http://9gag.com/gag/a9qV4no)<!-- MEMES:END -->
 
 ---
 </div>

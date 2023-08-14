@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon rolls out generative AI summaries of product reviews to a subset of US mobile users across a &quot;broad&quot; range of products after testing earlier in 2023 &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/230814/p9#a230814p9)
+ - [Redmi K60 Extreme Edition launched: Redmi goes water-resistant](https://www.androidauthority.com/redmi-k60-extreme-edition-3354837/)
+ - [Daily deals August 14: $249 iPad 9th Generation, $150 off 15&quot; MacBook Air, 49% off Microsoft Surface Book 3, more](https://appleinsider.com/articles/23/08/14/daily-deals-august-14-249-ipad-9th-generation-150-off-15-macbook-air-49-off-microsoft-surface-book-3-more?utm_medium=rss)
  - [Xiaomi’s latest foldable is durable enough to survive half a million folds](https://www.theverge.com/2023/8/14/23831293/xiaomi-mix-fold-3-price-release-date-specs-features-hinge-china)
- - [Color OS could soon will let you place multiple sound sources in spatial audio](https://www.androidauthority.com/color-os-holo-audio-apk-teardown-3354838/)
- - [Ford taps former Apple exec for hands-free driving project](https://appleinsider.com/articles/23/08/14/ford-taps-former-apple-exec-for-hands-free-driving-project?utm_medium=rss)
- - [PayPal announces a new CEO as its crypto push accelerates](https://www.theverge.com/2023/8/14/23831244/paypal-new-ceo-alex-chriss-crypto-pyusd)
- - [11 Best Tents &lpar;2023&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)<!-- TECH:END -->
+ - [Color OS could soon will let you place multiple sound sources in spatial audio](https://www.androidauthority.com/color-os-holo-audio-apk-teardown-3354838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

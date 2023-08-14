@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
- - 💣 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
- - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - 👉 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)<!-- MEMES:END -->
+ - 😝 [Lovely](http://9gag.com/gag/a3ZxD8m)
+ - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
+ - 💣 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 😝 [Women are complicated](http://9gag.com/gag/anzd0O5)
+ - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
 
 ---
 </div>

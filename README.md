@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Not all heroes are free some are in jail but still doing their job](http://9gag.com/gag/a3Zxrv8)
- - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)<!-- MEMES:END -->
+ - 😝 [Do you remember what happened in this room?](http://9gag.com/gag/ay2zm5y)
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
+ - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 </div>

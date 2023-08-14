@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
- - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 😝 [Your daily dose of scum](http://9gag.com/gag/avQD4Pb)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 👉 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)<!-- MEMES:END -->
 
 ---
 </div>

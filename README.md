@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times prohibits using its content to train AI models](https://www.theverge.com/2023/8/14/23831109/the-new-york-times-ai-web-scraping-rules-terms-of-service)
  - [In Taiwan, Douyin, Xiaohongshu, and other lifestyle and shopping apps are increasingly becoming part of China&#39;s information war, aided by a shared language &lpar;Emma Graham-Harrison/The Guardian&rpar;](http://www.techmeme.com/230814/p4#a230814p4)
  - [The Great AI Backlash Has Claimed a New Victim—and You’ve Probably Never Heard of It](https://www.wired.com/story/prosecraft-backlash-writers-ai/)
  - [Best Budget Earbuds for 2023: Cheap Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
- - [A look at the years of warnings about AI from researchers, including several women of color, who say we need to take the problems and risks seriously today &lpar;Lorena O&#39;Neil/Rolling Stone&rpar;](http://www.techmeme.com/230814/p3#a230814p3)
- - [Firefox’s Android app is getting proper support for extensions once again](https://www.theverge.com/2023/8/14/23831094/firefox-android-open-extension-support)<!-- TECH:END -->
+ - [A look at the years of warnings about AI from researchers, including several women of color, who say we need to take the problems and risks seriously today &lpar;Lorena O&#39;Neil/Rolling Stone&rpar;](http://www.techmeme.com/230814/p3#a230814p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

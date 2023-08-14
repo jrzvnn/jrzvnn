@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
  - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [Like vegan cats](http://9gag.com/gag/aGEo6w0)<!-- MEMES:END -->
+ - 😝 [Not all heroes are free some are in jail but still doing their job](http://9gag.com/gag/a3Zxrv8)
+ - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)<!-- MEMES:END -->
 
 ---
 </div>

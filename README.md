@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
- - 💣 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 👉 [Stephen McDaniel, a killer doesn&#39;t move much during a 2 hour interrogation!](http://9gag.com/gag/aDYPMe9)<!-- MEMES:END -->
+ - 😝 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)
+ - 😝 [Men want one thing and it\u2019s f*****g disgusting](http://9gag.com/gag/awZ88Yy)
+ - 💣 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
+ - 👉 [Play victim while in a minority, impose Sharia while in a majority](http://9gag.com/gag/aXndz62)<!-- MEMES:END -->
 
 ---
 </div>

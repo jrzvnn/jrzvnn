@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
  - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 👉 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)<!-- MEMES:END -->
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 💣 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 😝 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

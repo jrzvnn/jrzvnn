@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
- - 😝 [I see red](http://9gag.com/gag/ay2zZG8)
- - 💣 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
+ - 😝 [Not all heroes are free some are in jail but still doing their job](http://9gag.com/gag/a3Zxrv8)
+ - 😝 [Play victim while in a minority, impose Sharia while in a majority](http://9gag.com/gag/aXndz62)
+ - 💣 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)
+ - 😝 [Baldur&#39;s Gate 3 is WILD!](http://9gag.com/gag/aGEoQO7)
+ - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
 
 ---
 </div>

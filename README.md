@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
- - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
  - 👉 [Crash test dummy](http://9gag.com/gag/az2B37K)<!-- MEMES:END -->
 
 ---

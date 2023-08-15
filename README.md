@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crash test dummy](http://9gag.com/gag/az2B37K)
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
+ - 😝 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
+ - 😝 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
+ - 💣 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)
+ - 😝 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)
+ - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
 
 ---
 </div>

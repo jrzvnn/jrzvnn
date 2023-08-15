@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BY THE HOLY EMPEROR!](http://9gag.com/gag/aOxjWX6)
- - 😝 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)
- - 💣 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
- - 😝 [Baldur&#39;s Gate 3 is WILD!](http://9gag.com/gag/aGEoQO7)
- - 👉 [Ranch kitty](http://9gag.com/gag/aGEoQ46)<!-- MEMES:END -->
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 💣 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
+ - 😝 [I see red](http://9gag.com/gag/ay2zZG8)
+ - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
 
 ---
 </div>

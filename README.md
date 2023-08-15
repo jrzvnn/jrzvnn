@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto custody service Prime Trust and some of its affiliates file for Chapter 11 bankruptcy, listing liabilities between $100M-$500M and assets $50M-$100M &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230814/p19#a230814p19)
  - [Coinbase launches the Stand with Crypto Alliance, a US advocacy organization meant to mobilize the crypto community before Congress votes on key legislation &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230814/p18#a230814p18)
  - [In an amended indictment, the US DOJ alleges SBF used money he stole from FTX customers to make $100M+ in political campaign donations before the 2022 midterms &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230814/p17#a230814p17)
  - [Substack now lets you follow writers before subscribing to them](https://www.theverge.com/2023/8/14/23832321/substack-follow-writers-button)
- - [The best Samsung Galaxy Watch 6 bands](https://www.androidauthority.com/best-samsung-galaxy-watch-6-bands-3354320/)
- - [FCC&#39;s Affordable Connectivity Program Reaches 20 Million Households     - CNET](https://www.cnet.com/home/internet/fccs-affordable-connectivity-program-reaches-20-million-households/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Samsung Galaxy Watch 6 bands](https://www.androidauthority.com/best-samsung-galaxy-watch-6-bands-3354320/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

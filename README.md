@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp beta for Android now lets users create custom stickers with AI &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230815/p24#a230815p24)
  - [Drones, cameras, apps, robots, and ML are helping speed up huge construction projects; one company expects to cut up to 5% off a UK railroad project&#39;s $11B cost &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/230815/p23#a230815p23)
  - [Apple’s third-gen AirPods are matching their best price to date right now](https://www.theverge.com/2023/8/15/23833255/apple-third-gen-airpods-amazon-deal-sale)
  - [Binance plans to shut down its fiat-to-crypto service Binance Connect, formerly known as Bifinity, that supported payment methods including Visa and Mastercard &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230815/p22#a230815p22)
- - [The 17 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [It’s time to rethink our relationships with streaming services](https://www.theverge.com/23831904/streaming-wars-price-hikes-disney-plus-hbo-max-hulu)<!-- TECH:END -->
+ - [The 17 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

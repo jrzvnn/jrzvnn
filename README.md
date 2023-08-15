@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
+ - [Apple planning Face ID for MacBook Pro and iMac](https://appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch?utm_medium=rss)
+ - [Southeast Asian internet giant Sea reports Q2 revenue up 5.2% YoY to $3.1B, below $3.2B est., and Shopee revenue up 21% YoY, the slowest on record; SE drops 13% &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230815/p8#a230815p8)
  - [SAG-AFTRA is further restricting what projects can move forward during the strike](https://www.theverge.com/2023/8/15/23832659/sag-aftra-strike-wga-interim-projects-contract-agreement)
- - [The FCC says 20M+ US households enrolled in a program to receive $30 per month subsidies for internet access, up from 10M in early 2022 and 16M in February 2023 &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230815/p7#a230815p7)
- - [USB-C in iPhone 15 is all but certain as more components surface](https://appleinsider.com/articles/23/08/14/yet-another-leaked-image-of-usb-c-iphone-15-components-surfaces?utm_medium=rss)
- - [Scammers are coming for your phone number: How to protect your data](https://appleinsider.com/articles/23/08/15/scammers-are-coming-for-your-phone-number-how-to-protect-your-data?utm_medium=rss)
- - [Tesla reintroduces more affordable ‘Standard Range’ versions of Model S and X](https://www.theverge.com/2023/8/15/23832644/tesla-standard-range-model-x-s-lower-range-price-power-acceleration)<!-- TECH:END -->
+ - [The FCC says 20M+ US households enrolled in a program to receive $30 per month subsidies for internet access, up from 10M in early 2022 and 16M in February 2023 &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230815/p7#a230815p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

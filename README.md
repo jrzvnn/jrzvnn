@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BY THE HOLY EMPEROR!](http://9gag.com/gag/aOxjWX6)
- - 😝 [Which pirate are you?](http://9gag.com/gag/aREyqVq)
- - 💣 [Some of you Italians need to dress up as Orcs and attack them!](http://9gag.com/gag/aZDdYoQ)
- - 😝 [Baldur&#39;s Gate 3 is WILD!](http://9gag.com/gag/aGEoQO7)
- - 👉 [Ranch kitty](http://9gag.com/gag/aGEoQ46)<!-- MEMES:END -->
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
+ - 💣 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robotaxis are driving on thin ice](https://www.theverge.com/2023/8/15/23831170/robotaxi-cpuc-sf-waymo-cruise-traffic-halt)
  - [Court sides with Apple in Bluetooth pairing patent lawsuit](https://appleinsider.com/articles/23/08/15/court-sides-with-apple-in-bluetooth-pairing-patent-lawsuit?utm_medium=rss)
  - [LG now sells this bizarre TV in a suitcase, and I must have it](https://www.theverge.com/2023/8/15/23832712/lg-stanbyme-go-suitcase-tv-announced-pricing-features)
  - [Analysis: the average prices of major ad-free streaming service are up nearly 25% in about a year, as streamers try to push users toward ad-supported tiers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230815/p13#a230815p13)
- - [For a generation of students, the iMac was a gateway to the future](https://www.theverge.com/23831323/imac-twenty-five-years-students-dorm-experience)
- - [Daily deals Aug. 15: $70 off Apple Watch Series 8, AirPods 3 $139, $300 off 16&quot; M2 MacBook Pro, more](https://appleinsider.com/articles/23/08/15/daily-deals-aug-15-70-off-apple-watch-series-8-airpods-3-139-300-off-16-m2-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [For a generation of students, the iMac was a gateway to the future](https://www.theverge.com/23831323/imac-twenty-five-years-students-dorm-experience)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

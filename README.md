@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starfield: all the news and trailers about Bethesda’s massive space RPG](https://www.theverge.com/23833189/starfield-news-announcements-trailers-microsoft-bethesda-xbox-pc)
- - [Apple issues watchOS 9.6.1 update](https://appleinsider.com/articles/23/08/15/apple-issues-watchos-961-update?utm_medium=rss)
- - [Xbox debuts a strike-based enforcement program, aiming to improve &quot;player transparency&quot; and simplify rules; eight strikes over six months gets a one-year ban &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230815/p20#a230815p20)
- - [OpenAI says it has been using GPT-4 to enforce its content policies and says some of its customers are already using it for content moderation &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230815/p19#a230815p19)
- - [Emmy Awards honor iPhone cinematography app](https://appleinsider.com/articles/23/08/15/emmy-awards-honor-iphone-cinematography-app?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s AI will now summarize lengthy articles into key points](https://www.androidauthority.com/google-ai-summarizes-articles-3355265/)
+ - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)
+ - [Apple Card&#39;s iPhone monthly installment plan now requires a carrier at purchase](https://appleinsider.com/articles/23/08/15/apple-cards-iphone-monthly-installment-plan-now-requires-a-carrier-at-purchase?utm_medium=rss)
+ - [Analysis: X imposes a five-second delay when users click t.co links to Instagram, Facebook, Threads, Bluesky, Substack, NYT, and other sites Musk often attacks &lpar;Washington Post&rpar;](http://www.techmeme.com/230815/p21#a230815p21)
+ - [Starfield: all the news and trailers about Bethesda’s massive space RPG](https://www.theverge.com/23833189/starfield-news-announcements-trailers-microsoft-bethesda-xbox-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

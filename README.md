@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
- - 😝 [I see red](http://9gag.com/gag/ay2zZG8)
- - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
- - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
+ - 😝 [BY THE HOLY EMPEROR!](http://9gag.com/gag/aOxjWX6)
+ - 😝 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)
+ - 💣 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 😝 [Baldur&#39;s Gate 3 is WILD!](http://9gag.com/gag/aGEoQO7)
+ - 👉 [Ranch kitty](http://9gag.com/gag/aGEoQ46)<!-- MEMES:END -->
 
 ---
 </div>

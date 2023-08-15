@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 💣 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)
  - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
+ - 😝 [Animation of the destruction of the human body in the Titan bathyscaphe](http://9gag.com/gag/ajVdvOG)
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)
+ - 👉 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)<!-- MEMES:END -->
 
 ---
 </div>

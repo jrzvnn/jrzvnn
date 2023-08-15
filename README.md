@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
- - 💣 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)
- - 😝 [Not all heroes are free some are in jail but still doing their job](http://9gag.com/gag/a3Zxrv8)
- - 👉 [Play victim while in a minority, impose Sharia while in a majority](http://9gag.com/gag/aXndz62)<!-- MEMES:END -->
+ - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
+ - 😝 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
+ - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 😝 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 </div>

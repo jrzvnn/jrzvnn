@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack now lets you follow writers before subscribing to them](https://www.theverge.com/2023/8/14/23832321/substack-follow-writers-button)
  - [The best Samsung Galaxy Watch 6 bands](https://www.androidauthority.com/best-samsung-galaxy-watch-6-bands-3354320/)
+ - [FCC&#39;s Affordable Connectivity Program Reaches 20 Million Households     - CNET](https://www.cnet.com/home/internet/fccs-affordable-connectivity-program-reaches-20-million-households/#ftag=CAD590a51e)
  - [This Showdown Between Humans and Chatbots Could Keep You Safe From Bad AI](https://www.wired.com/story/showdown-humans-chatbots-defcon/)
- - [Filing: the Biden administration urges SCOTUS to review key parts of Florida and Texas laws that would restrict how social media companies moderate user content &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/230814/p16#a230814p16)
- - [Best-Sounding Wireless Earbuds in 2023: Get Top Sound Quality     - CNET](https://www.cnet.com/tech/mobile/best-sounding-wireless-earbuds/#ftag=CAD590a51e)
- - [Apple to Finally Pay Out $500M Over iPhone Slowdown Lawsuit     - CNET](https://www.cnet.com/tech/mobile/apple-to-finally-pay-out-500m-over-iphone-slowdown-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the Biden administration urges SCOTUS to review key parts of Florida and Texas laws that would restrict how social media companies moderate user content &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/230814/p16#a230814p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
  - 😝 [There is still hope](http://9gag.com/gag/avQDjzO)
- - 💣 [Already invested..](http://9gag.com/gag/awZ8p8D)
- - 😝 [Nice dogs](http://9gag.com/gag/adPdD8j)
+ - 😝 [Already invested..](http://9gag.com/gag/awZ8p8D)
+ - 💣 [Nice dogs](http://9gag.com/gag/adPdD8j)
+ - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
  - 👉 [Miss Poland 2023 contestants](http://9gag.com/gag/a9qVGZL)<!-- MEMES:END -->
 
 ---

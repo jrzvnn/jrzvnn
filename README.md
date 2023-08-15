@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
  - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
  - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 </div>

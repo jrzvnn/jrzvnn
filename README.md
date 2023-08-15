@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance to shut down its fiat-to-crypto service Binance Connect that supported payment methods including Visa and Mastercard and was formerly known as Bifinity &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230815/p22#a230815p22)
+ - [Binance plans to shut down its fiat-to-crypto service Binance Connect, formerly known as Bifinity, that supported payment methods including Visa and Mastercard &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230815/p22#a230815p22)
  - [The 17 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [It’s time to rethink our relationships with streaming services](https://www.theverge.com/23831904/streaming-wars-price-hikes-disney-plus-hbo-max-hulu)
  - [Lamborghini teases first fully electric supercar ahead of official reveal August 18th](https://www.theverge.com/2023/8/15/23833279/lamborghini-ev-concept-image-reveal-monterey)

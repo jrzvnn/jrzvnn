@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Crash test dummy](http://9gag.com/gag/az2B37K)
- - 💣 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 😝 [I see red](http://9gag.com/gag/ay2zZG8)
- - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 👉 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)<!-- MEMES:END -->
 
 ---
 </div>

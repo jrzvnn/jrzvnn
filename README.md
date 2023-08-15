@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
- - 😝 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
- - 👉 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)<!-- MEMES:END -->
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 💣 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 👉 [Crash test dummy](http://9gag.com/gag/az2B37K)<!-- MEMES:END -->
 
 ---
 </div>

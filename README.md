@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GOP House Financial Services Committee lawmakers demand that SEC Chair Gary Gensler explain how Prometheum won its unique approval as a broker-dealer for crypto &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230815/p26#a230815p26)
  - [Helium Mobile’s suspiciously cheap phone plan is only for the bravest among us](https://www.theverge.com/2023/8/15/23833308/helium-network-mobile-miami-5)
  - [At a White House roundtable, the US Consumer Financial Protection Bureau touts Fair Credit Reporting Act rules to crack down on harmful data broker practices &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/230815/p25#a230815p25)
  - [Bing, Bard, and ChatGPT: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [An Iowa school district is using ChatGPT to decide which books to ban](https://www.theverge.com/2023/8/15/23833167/iowa-book-ban-chatgpt-mason-city-community-school-district-removal)
- - [OpenAI wants GPT-4 to solve the content moderation dilemma](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta)<!-- TECH:END -->
+ - [An Iowa school district is using ChatGPT to decide which books to ban](https://www.theverge.com/2023/8/15/23833167/iowa-book-ban-chatgpt-mason-city-community-school-district-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

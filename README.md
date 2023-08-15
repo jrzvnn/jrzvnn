@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GOP Rep. Don Bacon says the FBI alerted him on Monday that his emails were hacked by Chinese spies, around the time of other Microsoft account breaches &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230815/p16#a230815p16)
  - [Aqara launches new multi-zone light strip with HomeKit &amp; Adaptive Lighting](https://appleinsider.com/articles/23/08/15/aqara-launches-new-multi-zone-light-strip-with-homekit-adaptive-lighting?utm_medium=rss)
+ - [Spider-Man 2 will let you slow down the action](https://www.theverge.com/2023/8/15/23832914/marvels-spider-man-2-slow-down-action-accessibility)
  - [The Roku Channel is getting better about news](https://www.theverge.com/2023/8/15/23832753/roku-channel-cbs-fox-news-mr-beast)
- - [Xbox introduces new strike system to curtail bad behavior](https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards)
- - [To comply with a new law requiring school library books be &quot;age appropriate&quot;, an Iowa school district uses ChatGPT to find books with a &quot;depiction of a sex act&quot; &lpar;Andrew Paul/Popular Science&rpar;](http://www.techmeme.com/230815/p15#a230815p15)
- - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2023&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
+ - [Xbox introduces new strike system to curtail bad behavior](https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

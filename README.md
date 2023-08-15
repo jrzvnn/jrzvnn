@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI will now summarize lengthy articles into key points](https://www.androidauthority.com/google-ai-summarizes-articles-3355265/)
- - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)
- - [Apple Card&#39;s iPhone monthly installment plan now requires a carrier at purchase](https://appleinsider.com/articles/23/08/15/apple-cards-iphone-monthly-installment-plan-now-requires-a-carrier-at-purchase?utm_medium=rss)
- - [Analysis: X imposes a five-second delay when users click t.co links to Instagram, Facebook, Threads, Bluesky, Substack, NYT, and other sites Musk often attacks &lpar;Washington Post&rpar;](http://www.techmeme.com/230815/p21#a230815p21)
- - [Starfield: all the news and trailers about Bethesda’s massive space RPG](https://www.theverge.com/23833189/starfield-news-announcements-trailers-microsoft-bethesda-xbox-pc)<!-- TECH:END -->
+ - [Excellent Newton documentary now on YouTube](https://appleinsider.com/articles/23/08/15/excellent-newton-documentary-now-on-youtube?utm_medium=rss)
+ - [What is a DisplayPort?](https://www.androidauthority.com/what-is-displayport-3355229/)
+ - [iPhone 16 Pro could get 48MP Ultra Wide camera, Wi-FI 7 support](https://appleinsider.com/articles/23/08/15/iphone-16-pro-could-get-48mp-ultra-wide-camera-wi-fi-7-support?utm_medium=rss)
+ - [AMD CEO Lisa Su is coming to the Code Conference](https://www.theverge.com/2023/8/15/23831464/lisa-su-code-conference-amd-ai)
+ - [Google’s AI will now summarize lengthy articles into key points](https://www.androidauthority.com/google-ai-summarizes-articles-3355265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

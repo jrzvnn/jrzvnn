@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Let Venice Sink](https://www.wired.com/story/climate-change-heritage-preservation-venice/)
+ - [YouTube starts mass takedowns of videos promoting ‘harmful or ineffective’ cancer cures](https://www.theverge.com/2023/8/15/23832603/youtube-cancer-treatment-misinformation-policy-medical)
  - [Substack now lets users follow individual writers without subscribing to their newsletter, a further expansion into social networking after Notes &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230815/p3#a230815p3)
  - [Filing: BAM Trading, which runs Binance.US, seeks a protective order against the SEC due to &quot;conducting a fishing expedition&quot;; the SEC seeks four depositions &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230815/p2#a230815p2)
- - [Specs and images of Samsung’s XR headset prototype have leaked](https://www.androidauthority.com/samsung-xr-headset-prototype-leak-3355052/)
- - [Xiaomi Smart Band 8 Pro launched: Blurring the line between tracker and watch](https://www.androidauthority.com/xiaomi-smart-band-8-pro-3355047/)
- - [How a scam tied to ad firm CPABuild hosts malicious PDFs, indexed by search engines, on hacked .gov, .org, and .edu sites, often luring Fortnite or Roblox users &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230815/p1#a230815p1)<!-- TECH:END -->
+ - [Specs and images of Samsung’s XR headset prototype have leaked](https://www.androidauthority.com/samsung-xr-headset-prototype-leak-3355052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

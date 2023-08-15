@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USB-C in iPhone 15 is all but certain as more components surface](https://appleinsider.com/articles/23/08/14/yet-another-leaked-image-of-usb-c-iphone-15-components-surfaces?utm_medium=rss)
  - [Scammers are coming for your phone number: How to protect your data](https://appleinsider.com/articles/23/08/15/scammers-are-coming-for-your-phone-number-how-to-protect-your-data?utm_medium=rss)
- - [YouTube starts mass removal of videos promoting &quot;cancer treatments proven to be harmful or ineffective&quot; or discouraging &quot;seeking professional medical treatment&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230815/p6#a230815p6)
- - [This Psychologist Wants To Vaccinate You Against Fake News](https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news/)
- - [This Bold Plan to Kick the World’s Coal Habit Might Actually Work](https://www.wired.com/story/this-bold-plan-to-kick-the-worlds-coal-habit-might-actually-work/)
- - [The Best YouTube Channels for Your Cat](https://www.wired.com/story/the-best-youtube-channels-for-cats/)<!-- TECH:END -->
+ - [Tesla reintroduces more affordable ‘Standard Range’ versions of Model S and X](https://www.theverge.com/2023/8/15/23832644/tesla-standard-range-model-x-s-lower-range-price-power-acceleration)
+ - [WhatsApp starts testing AI-generated stickers](https://www.theverge.com/2023/8/15/23832635/whatsapp-ai-generated-stickers-test-android-beta)
+ - [YouTube starts mass removal of videos promoting &quot;cancer treatments proven to be harmful or ineffective&quot; or discouraging &quot;seeking professional medical treatment&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230815/p6#a230815p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

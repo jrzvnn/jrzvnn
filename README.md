@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sky launches MacBook purchase plan for UK customers](https://appleinsider.com/articles/23/08/15/sky-launches-macbook-purchase-plan-for-uk-customers?utm_medium=rss)
- - [How to refurbish a 2012 13-inch MacBook Pro](https://appleinsider.com/inside/13-inch-macbook-pro/tips/how-to-refurbish-a-2012-13-inch-macbook-pro?utm_medium=rss)
- - [Apple planning Face ID for MacBook Pro and iMac](https://appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch?utm_medium=rss)
- - [Southeast Asian internet giant Sea reports Q2 revenue up 5.2% YoY to $3.1B, below $3.2B est., and Shopee revenue up 21% YoY, the slowest on record; SE drops 13% &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230815/p8#a230815p8)
- - [SAG-AFTRA is further restricting what projects can move forward during the strike](https://www.theverge.com/2023/8/15/23832659/sag-aftra-strike-wga-interim-projects-contract-agreement)<!-- TECH:END -->
+ - [AI-generated stickers are coming to WhatsApp soon](https://www.androidauthority.com/whatsapp-ai-generated-stickers-leak-3355166/)
+ - [Future MacBook Pro screens may kill off the bezel completely](https://appleinsider.com/articles/22/05/24/future-macbook-pro-screens-may-kill-off-the-bezel-completely?utm_medium=rss)
+ - [Motorized iPhone periscope camera could offer optical image stabilization, autofocus](https://appleinsider.com/articles/21/08/17/motorized-iphone-periscope-camera-could-offer-optical-image-stabilization-autofocus?utm_medium=rss)
+ - [A look at Binance&#39;s early and rapid growth, aided by the haze of regulatory uncertainty, and whether, post-FTX, the exchange has blown its chance to rule crypto &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230815/p9#a230815p9)
+ - [HP Envy x360 &lpar;2023&rpar; Review: A Dependable Touchscreen Laptop](https://www.wired.com/review/hp-envy-x360-15-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

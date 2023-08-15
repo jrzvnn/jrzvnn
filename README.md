@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)
  - [Amazon says Amazon Pharmacy will automatically apply manufacturer-sponsored coupons to 15+ insulin and diabetes medicines, lowering the cost to as little as $35 &lpar;Patrick Wingrove/Reuters&rpar;](http://www.techmeme.com/230815/p10#a230815p10)
  - [AI-generated stickers are coming to WhatsApp soon](https://www.androidauthority.com/whatsapp-ai-generated-stickers-leak-3355166/)
  - [Future MacBook Pro screens may kill off the bezel completely](https://appleinsider.com/articles/22/05/24/future-macbook-pro-screens-may-kill-off-the-bezel-completely?utm_medium=rss)
- - [Motorized iPhone periscope camera could offer optical image stabilization, autofocus](https://appleinsider.com/articles/21/08/17/motorized-iphone-periscope-camera-could-offer-optical-image-stabilization-autofocus?utm_medium=rss)
- - [A look at Binance&#39;s early and rapid growth, aided by the haze of regulatory uncertainty, and whether, post-FTX, the exchange has blown its chance to rule crypto &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/230815/p9#a230815p9)<!-- TECH:END -->
+ - [Motorized iPhone periscope camera could offer optical image stabilization, autofocus](https://appleinsider.com/articles/21/08/17/motorized-iphone-periscope-camera-could-offer-optical-image-stabilization-autofocus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

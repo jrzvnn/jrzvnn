@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 👉 [Crash test dummy](http://9gag.com/gag/az2B37K)<!-- MEMES:END -->
+ - 😝 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
+ - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
+ - 💣 [Money](http://9gag.com/gag/aqedVqQ)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it has been using GPT-4 to enforce its content policies and says some of its customers are already using it for content moderation &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230815/p19#a230815p19)
+ - [Apple issues watchOS 9.6.1 update](https://appleinsider.com/articles/23/08/15/apple-issues-watchos-961-update?utm_medium=rss)
  - [Emmy Awards honor iPhone cinematography app](https://appleinsider.com/articles/23/08/15/emmy-awards-honor-iphone-cinematography-app?utm_medium=rss)
  - [Google&#39;s Search Generative Experience adds an experimental browsing feature that summarizes page content, first in the Google mobile app for Search Labs users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230815/p18#a230815p18)
- - [Google Photos adds generative AI to help name your photo collections](https://www.theverge.com/2023/8/15/23832708/google-photos-memories-ai-generated-titles)
- - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
- - [The official Planet of the Bass music video is here](https://www.theverge.com/2023/8/15/23833092/planet-of-the-bass-music-video-official-dj-crazy-times-ms-biljana-electronica)<!-- TECH:END -->
+ - [Google Photos adds generative AI to help name your photo collections](https://www.theverge.com/2023/8/15/23832708/google-photos-memories-ai-generated-titles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

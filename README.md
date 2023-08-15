@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Setapp, known for its Mac and iOS app subscription service, plans to launch an alternative app store for iOS and iPadOS next year in the EU, thanks to the DMA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/230815/p14#a230815p14)
  - [Fisker’s going for the Tesla connector as well](https://www.theverge.com/2023/8/15/23832744/fisker-tesla-nacs-connector-standard-supercharger-adapter)
  - [Ninja Outdoor Oven Review: Smoky Goodness](https://www.wired.com/review/ninja-outdoor-woodfire-oven/)
  - [In a world full of laptops, is there a place for the iMac?](https://www.theverge.com/23832128/imac-twenty-five-years-what-is-the-future)
- - [Robotaxis are driving on thin ice](https://www.theverge.com/2023/8/15/23831170/robotaxi-cpuc-sf-waymo-cruise-traffic-halt)
- - [Court sides with Apple in Bluetooth pairing patent lawsuit](https://appleinsider.com/articles/23/08/15/court-sides-with-apple-in-bluetooth-pairing-patent-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Robotaxis are driving on thin ice](https://www.theverge.com/2023/8/15/23831170/robotaxi-cpuc-sf-waymo-cruise-traffic-halt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

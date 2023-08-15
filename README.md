@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
  - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 💣 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
+ - 😝 [Shit happens](http://9gag.com/gag/a8qnvXd)
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 </div>

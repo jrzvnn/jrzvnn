@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an amended indictment, the US DOJ alleges SBF used money he stole from FTX customers to make $100M+ in political campaign donations before the 2022 midterms &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230814/p17#a230814p17)
  - [Substack now lets you follow writers before subscribing to them](https://www.theverge.com/2023/8/14/23832321/substack-follow-writers-button)
  - [The best Samsung Galaxy Watch 6 bands](https://www.androidauthority.com/best-samsung-galaxy-watch-6-bands-3354320/)
  - [FCC&#39;s Affordable Connectivity Program Reaches 20 Million Households     - CNET](https://www.cnet.com/home/internet/fccs-affordable-connectivity-program-reaches-20-million-households/#ftag=CAD590a51e)
- - [This Showdown Between Humans and Chatbots Could Keep You Safe From Bad AI](https://www.wired.com/story/showdown-humans-chatbots-defcon/)
- - [Filing: the Biden administration urges SCOTUS to review key parts of Florida and Texas laws that would restrict how social media companies moderate user content &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/230814/p16#a230814p16)<!-- TECH:END -->
+ - [This Showdown Between Humans and Chatbots Could Keep You Safe From Bad AI](https://www.wired.com/story/showdown-humans-chatbots-defcon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

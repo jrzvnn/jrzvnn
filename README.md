@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
+ - [The official Planet of the Bass music video is here](https://www.theverge.com/2023/8/15/23833092/planet-of-the-bass-music-video-official-dj-crazy-times-ms-biljana-electronica)
  - [YouTube adds Samples, a music discovery feed featuring vertically cropped, 30-second clips uploaded directly by artists, on iOS and Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230815/p17#a230815p17)
  - [For first time ever, broadcast and cable TV viewing is under 50% in the US](https://www.androidauthority.com/broadcast-cable-stats-us-2023-3355254/)
- - [Google Chrome will summarize entire articles for you with built-in generative AI](https://www.theverge.com/2023/8/15/23833045/google-artificial-intelligence-summary-chrome-sge)
- - [Netherlands bike thieves foiled by AirTag](https://appleinsider.com/articles/23/08/15/netherlands-bike-thieves-foiled-by-airtag?utm_medium=rss)
- - [Xiaomi Mix Fold 3 hands-on impressions: All that in a skin-tight suit](https://www.androidauthority.com/xiaomi-mix-fold-3-hands-on-impressions-3355096/)<!-- TECH:END -->
+ - [Google Chrome will summarize entire articles for you with built-in generative AI](https://www.theverge.com/2023/8/15/23833045/google-artificial-intelligence-summary-chrome-sge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One UI 5.1.1 and One UI 5 Watch rolling out to even more Galaxy devices](https://www.androidauthority.com/latest-one-ui-update-arrives-on-galaxy-devices-3355302/)
+ - [Users of XPro, previously TweetDeck, report encountering paywalls to use the service; X had said XPro would become a subscriber-only feature by August 3, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230815/p28#a230815p28)
  - [Save up to $1,579 on Apple products this week during B&amp;H&#39;s latest sale](https://appleinsider.com/articles/23/08/15/save-up-to-1579-on-apple-products-this-week-during-bhs-latest-sale?utm_medium=rss)
  - [TweetDeck is officially becoming a paid service](https://www.theverge.com/2023/8/15/23833707/tweetdeck-xpro-paid-service-x-premium-twitter)
- - [Amazon hikes the price of Music Unlimited for Prime subscribers, up $1/month to $9.99 for individual plans and family plans up $1/month to $16.99 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230815/p27#a230815p27)
- - [It’s official, people aren’t watching TV as much as they used to](https://www.theverge.com/2023/8/15/23833516/nielsen-tv-cable-50-percent-decline-viewership-bum-bums)
- - [GOP House Financial Services Committee lawmakers demand that SEC Chair Gary Gensler explain how Prometheum won its unique approval as a broker-dealer for crypto &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230815/p26#a230815p26)<!-- TECH:END -->
+ - [Amazon hikes the price of Music Unlimited for Prime subscribers, up $1/month to $9.99 for individual plans and family plans up $1/month to $16.99 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230815/p27#a230815p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

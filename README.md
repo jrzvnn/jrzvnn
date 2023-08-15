@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iMac at 25: a visual history of Apple’s iconic all-in-one computer](https://www.theverge.com/23808948/imac-twenty-five-visual-history-apple-design-models)
  - [Comcast launches the Xfinity Storm-Ready WiFi, a cellular backup internet device to weather storms and power outages, for $252, or $7 per month for 36 months &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230815/p11#a230815p11)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)
  - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)
- - [Comcast’s latest Wi-Fi 6 device aims to keep you online during a storm](https://www.theverge.com/2023/8/15/23832610/comcast-xfinity-storm-ready-wi-fi-6-extender-hurricane-price-release)<!-- TECH:END -->
+ - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

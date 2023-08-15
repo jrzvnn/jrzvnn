@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [8 Burundi handball players went missing in Croatia after arriving to compete at the world cup. This is one of many recent &#39;disappearances&#39; of African pro athletes in Europe](http://9gag.com/gag/aDYP5jw)
- - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
+ - 😝 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
+ - 😝 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)
+ - 💣 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
+ - 😝 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)
+ - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
 
 ---
 </div>

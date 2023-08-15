@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: X no longer lets advertisers promote their accounts within the platform&#39;s timeline to gain followers; a source says such ads generate $100M annually &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230815/p5#a230815p5)
  - [A look at China&#39;s sweeping AI rules, taking effect on August 15 and governed by seven agencies, which soften an earlier draft and follow European regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230815/p4#a230815p4)
  - [Google could borrow Samsung’s ideas for the Android taskbar](https://www.androidauthority.com/stock-android-taskbar-changes-android-14-3355075/)
  - [Let Venice Sink](https://www.wired.com/story/climate-change-heritage-preservation-venice/)
- - [YouTube starts mass takedowns of videos promoting ‘harmful or ineffective’ cancer cures](https://www.theverge.com/2023/8/15/23832603/youtube-cancer-treatment-misinformation-policy-medical)
- - [Substack now lets users follow individual writers without subscribing to their newsletter, a further expansion into social networking after Notes &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230815/p3#a230815p3)<!-- TECH:END -->
+ - [YouTube starts mass takedowns of videos promoting ‘harmful or ineffective’ cancer cures](https://www.theverge.com/2023/8/15/23832603/youtube-cancer-treatment-misinformation-policy-medical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

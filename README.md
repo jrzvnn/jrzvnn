@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
- - 😝 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
- - 💣 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)
- - 😝 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)
- - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
+ - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
+ - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
- - 😝 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
- - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
- - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
+ - 💣 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
+ - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

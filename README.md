@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Disappointment on her face.](http://9gag.com/gag/abvdnMv)
- - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - 💣 [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 😝 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)
+ - 😝 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
+ - 💣 [Between 35 000-100 000 years ago human brain evolved into what we have today.](http://9gag.com/gag/aKELoWj)
+ - 😝 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 👉 [There is still hope](http://9gag.com/gag/avQDjzO)<!-- MEMES:END -->
 
 ---
 </div>

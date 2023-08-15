@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GOP Rep. Don Bacon says the FBI alerted him on Monday that his emails were hacked by Chinese spies, around the time of other Microsoft account breaches &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230815/p16#a230815p16)
- - [Aqara launches new multi-zone light strip with HomeKit &amp; Adaptive Lighting](https://appleinsider.com/articles/23/08/15/aqara-launches-new-multi-zone-light-strip-with-homekit-adaptive-lighting?utm_medium=rss)
- - [Spider-Man 2 will let you slow down the action](https://www.theverge.com/2023/8/15/23832914/marvels-spider-man-2-slow-down-action-accessibility)
- - [The Roku Channel is getting better about news](https://www.theverge.com/2023/8/15/23832753/roku-channel-cbs-fox-news-mr-beast)
- - [Xbox introduces new strike system to curtail bad behavior](https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards)<!-- TECH:END -->
+ - [Google Photos uses AI to make cute memory scrapbooks for you](https://www.androidauthority.com/google-photos-memories-view-ai-3355217/)
+ - [Samsung Galaxy A55 5G: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
+ - [YouTube Music Adds a TikTok-Like Video Feed to Attract Gen Z](https://www.wired.com/story/youtube-music-samples/)
+ - [YouTube Music has a TikTok-like ‘Samples’ tab to help you find new music](https://www.theverge.com/2023/8/15/23832245/youtube-music-samples-tab-discovery)
+ - [GOP Rep. Don Bacon says the FBI alerted him on Monday that his emails were hacked by Chinese spies, around the time of other Microsoft account breaches &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230815/p16#a230815p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi Mix Fold 3 hands-on impressions: All that in a skin-tight suit](https://www.androidauthority.com/xiaomi-mix-fold-3-hands-on-impressions-3355096/)
+ - [Amazon Pharmacy simplifies insulin savings with automatic coupons](https://www.theverge.com/2023/8/15/23832867/amazon-pharmacy-insulin-coupons-eli-lilly-novo-sanofi)
  - [Google Photos uses AI to make cute memory scrapbooks for you](https://www.androidauthority.com/google-photos-memories-view-ai-3355217/)
  - [Samsung Galaxy A55 5G: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
- - [YouTube Music Adds a TikTok-Like Video Feed to Attract Gen Z](https://www.wired.com/story/youtube-music-samples/)
- - [YouTube Music has a TikTok-like ‘Samples’ tab to help you find new music](https://www.theverge.com/2023/8/15/23832245/youtube-music-samples-tab-discovery)
- - [GOP Rep. Don Bacon says the FBI alerted him on Monday that his emails were hacked by Chinese spies, around the time of other Microsoft account breaches &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230815/p16#a230815p16)<!-- TECH:END -->
+ - [YouTube Music Adds a TikTok-Like Video Feed to Attract Gen Z](https://www.wired.com/story/youtube-music-samples/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

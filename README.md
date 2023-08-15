@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
- - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
- - 💣 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 😝 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t see this comming.](http://9gag.com/gag/aPgpV4K)
+ - 😝 [I see red](http://9gag.com/gag/ay2zZG8)
+ - 💣 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
+ - 👉 [I needed to repost this](http://9gag.com/gag/aGEovDG)<!-- MEMES:END -->
 
 ---
 </div>

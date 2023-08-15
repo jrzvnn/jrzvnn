@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Money](http://9gag.com/gag/aqedVqQ)
- - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 💣 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
- - 😝 [Like vegan cats](http://9gag.com/gag/aGEo6w0)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
+ - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

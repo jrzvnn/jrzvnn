@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI wants GPT-4 to solve the content moderation dilemma](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
  - [X seemed to throttle some competitors and news sites for more than a week](https://www.theverge.com/2023/8/15/23833314/x-twitter-throttling-traffic-competitors-news-sites-elon-musk)
  - [Apple distributes sixth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/15/apple-distributes-sixth-tvos-17-developer-beta?utm_medium=rss)
- - [Apple issues sixth developer beta for watchOS 10](https://appleinsider.com/articles/23/08/15/apple-issues-sixth-developer-beta-for-watchos-10?utm_medium=rss)
- - [Apple issues sixth iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/08/15/apple-issues-sixth-ios-17-ipados-17-developer-betas?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues sixth developer beta for watchOS 10](https://appleinsider.com/articles/23/08/15/apple-issues-sixth-developer-beta-for-watchos-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

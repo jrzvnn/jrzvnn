@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is still hope](http://9gag.com/gag/avQDjzO)
- - 😝 [Already invested..](http://9gag.com/gag/awZ8p8D)
- - 💣 [Nice dogs](http://9gag.com/gag/adPdD8j)
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 👉 [Miss Poland 2023 contestants](http://9gag.com/gag/a9qVGZL)<!-- MEMES:END -->
+ - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 😝 [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)
+ - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 👉 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)<!-- MEMES:END -->
 
 ---
 </div>

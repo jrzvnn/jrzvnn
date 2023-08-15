@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
- - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
+ - 😝 [Baldur&#39;s Gate 3 is WILD!](http://9gag.com/gag/aGEoQO7)
+ - 😝 [Ranch kitty](http://9gag.com/gag/aGEoQ46)
+ - 💣 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
+ - 😝 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 👉 [There is still hope](http://9gag.com/gag/avQDjzO)<!-- MEMES:END -->
 
 ---
 </div>

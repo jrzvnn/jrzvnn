@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance to shut down its fiat-to-crypto service Binance Connect that supported payment methods including Visa and Mastercard and was formerly known as Bifinity &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230815/p22#a230815p22)
+ - [It’s time to rethink our relationships with streaming services](https://www.theverge.com/23831904/streaming-wars-price-hikes-disney-plus-hbo-max-hulu)
  - [Lamborghini teases first fully electric supercar ahead of official reveal August 18th](https://www.theverge.com/2023/8/15/23833279/lamborghini-ev-concept-image-reveal-monterey)
  - [Blizzard is previewing a Diablo III single-player mode — 11 years after the game launched](https://www.theverge.com/2023/8/15/23833117/diablo-3-single-player-solo-self-found-season-29-visions-of-enmity)
- - [Excellent Newton documentary now on YouTube](https://appleinsider.com/articles/23/08/15/excellent-newton-documentary-now-on-youtube?utm_medium=rss)
- - [What is a DisplayPort?](https://www.androidauthority.com/what-is-displayport-3355229/)
- - [iPhone 16 Pro could get 48MP Ultra Wide camera, Wi-FI 7 support](https://appleinsider.com/articles/23/08/15/iphone-16-pro-could-get-48mp-ultra-wide-camera-wi-fi-7-support?utm_medium=rss)<!-- TECH:END -->
+ - [Excellent Newton documentary now on YouTube](https://appleinsider.com/articles/23/08/15/excellent-newton-documentary-now-on-youtube?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
- - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
- - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
  - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 👉 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)<!-- MEMES:END -->
 
 ---
 </div>

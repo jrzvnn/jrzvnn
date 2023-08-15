@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox introduces new strike system to curtail bad behavior](https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards)
+ - [To comply with a new law requiring school library books be &quot;age appropriate&quot;, an Iowa school district uses ChatGPT to find books with a &quot;depiction of a sex act&quot; &lpar;Andrew Paul/Popular Science&rpar;](http://www.techmeme.com/230815/p15#a230815p15)
  - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2023&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
  - [Cities Aren’t Supposed to Burn Like This Anymore—Especially Lahaina](https://www.wired.com/story/cities-arent-supposed-to-burn-like-this-anymore-especially-lahaina/)
- - [Get 20TB of cloud storage for just $99 with this lifetime deal](https://appleinsider.com/articles/23/08/15/get-20tb-of-cloud-storage-for-just-99-with-this-lifetime-deal?utm_medium=rss)
- - [Setapp, known for its Mac and iOS app subscription service, plans to launch an alternative app store for iOS and iPadOS next year in the EU, thanks to the DMA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/230815/p14#a230815p14)
- - [Fisker’s going for the Tesla connector as well](https://www.theverge.com/2023/8/15/23832744/fisker-tesla-nacs-connector-standard-supercharger-adapter)<!-- TECH:END -->
+ - [Get 20TB of cloud storage for just $99 with this lifetime deal](https://appleinsider.com/articles/23/08/15/get-20tb-of-cloud-storage-for-just-99-with-this-lifetime-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The note-taking Kindle Scribe is seeing its biggest discount since Prime Day](https://www.theverge.com/2023/8/15/23831614/amazon-kindle-scribe-anker-soundcore-sport-x10-earbuds-apple-ipad-deal-sale)
  - [Kneron to release AI chip this year](https://www.theverge.com/2023/8/15/23832152/kneron-release-ai-chip-npu)
  - [Nielsen: linear TV made up less than 50% of all US TV use in July, a first in two years of tracking, and streaming hit a record high of 38.7% of TV use &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/230815/p12#a230815p12)
  - [iMac at 25: a visual history of Apple’s iconic all-in-one computer](https://www.theverge.com/23808948/imac-twenty-five-visual-history-apple-design-models)
- - [Comcast launches the Xfinity Storm-Ready WiFi, a cellular backup internet device to weather storms and power outages, for $252, or $7 per month for 36 months &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230815/p11#a230815p11)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)<!-- TECH:END -->
+ - [Comcast launches the Xfinity Storm-Ready WiFi, a cellular backup internet device to weather storms and power outages, for $252, or $7 per month for 36 months &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230815/p11#a230815p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

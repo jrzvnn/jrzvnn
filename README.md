@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
- - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
- - 💣 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 😝 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 💣 [Money](http://9gag.com/gag/aqedVqQ)
+ - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
 
 ---
 </div>

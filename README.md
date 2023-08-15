@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netherlands bike thieves foiled by AirTag](https://appleinsider.com/articles/23/08/15/netherlands-bike-thieves-foiled-by-airtag?utm_medium=rss)
  - [Xiaomi Mix Fold 3 hands-on impressions: All that in a skin-tight suit](https://www.androidauthority.com/xiaomi-mix-fold-3-hands-on-impressions-3355096/)
+ - [Elon Musk keeps getting creepier](https://www.theverge.com/2023/8/15/23832701/elon-musk-lies-mark-zuckerberg-fight-creepy)
  - [Amazon Pharmacy simplifies insulin savings with automatic coupons](https://www.theverge.com/2023/8/15/23832867/amazon-pharmacy-insulin-coupons-eli-lilly-novo-sanofi)
- - [Google Photos uses AI to make cute memory scrapbooks for you](https://www.androidauthority.com/google-photos-memories-view-ai-3355217/)
- - [Samsung Galaxy A55 5G: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-a55-5g-3354829/)
- - [YouTube Music Adds a TikTok-Like Video Feed to Attract Gen Z](https://www.wired.com/story/youtube-music-samples/)<!-- TECH:END -->
+ - [Google Photos uses AI to make cute memory scrapbooks for you](https://www.androidauthority.com/google-photos-memories-view-ai-3355217/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

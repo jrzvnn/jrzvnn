@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 💣 [I see red](http://9gag.com/gag/ay2zZG8)
- - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 😝 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
+ - 😝 [I see red](http://9gag.com/gag/ay2zZG8)
+ - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 👉 [This man knows his job](http://9gag.com/gag/aREydr2)<!-- MEMES:END -->
 
 ---
 </div>

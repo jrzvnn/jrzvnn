@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
  - 😝 [Man robbing an uber in the wrong way](http://9gag.com/gag/a3ZxXRr)
- - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 💣 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 👉 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)<!-- MEMES:END -->
+ - 💣 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 😝 [Victoria Justice](http://9gag.com/gag/aDYPqZK)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 </div>

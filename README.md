@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can turn any Android or Windows device into a Chromecast with this app](https://www.androidauthority.com/castreceiver-app-turn-android-windows-into-chromecast-3355087/)
- - [Email: X no longer lets advertisers promote their accounts within the platform&#39;s timeline to gain followers; a source says such ads generate $100M annually &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230815/p5#a230815p5)
- - [A look at China&#39;s sweeping AI rules, taking effect on August 15 and governed by seven agencies, which soften an earlier draft and follow European regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/230815/p4#a230815p4)
- - [Google could borrow Samsung’s ideas for the Android taskbar](https://www.androidauthority.com/stock-android-taskbar-changes-android-14-3355075/)
- - [Let Venice Sink](https://www.wired.com/story/climate-change-heritage-preservation-venice/)<!-- TECH:END -->
+ - [YouTube starts mass removal of videos promoting &quot;cancer treatments proven to be harmful or ineffective&quot; or discouraging &quot;seeking professional medical treatment&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230815/p6#a230815p6)
+ - [This Psychologist Wants To Vaccinate You Against Fake News](https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news/)
+ - [This Bold Plan to Kick the World’s Coal Habit Might Actually Work](https://www.wired.com/story/this-bold-plan-to-kick-the-worlds-coal-habit-might-actually-work/)
+ - [The Best YouTube Channels for Your Cat](https://www.wired.com/story/the-best-youtube-channels-for-cats/)
+ - [How X Is Suing Its Way Out of Accountability](https://www.wired.com/story/twitter-x-ccdh-lawsuit-data-crackdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

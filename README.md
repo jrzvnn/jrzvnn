@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 😝 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
- - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 😝 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 💣 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
  - 😝 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which pirate are you?](http://9gag.com/gag/aREyqVq)
- - 😝 [Ranch kitty](http://9gag.com/gag/aGEoQ46)
- - 💣 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
- - 😝 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 👉 [There is still hope](http://9gag.com/gag/avQDjzO)<!-- MEMES:END -->
+ - 😝 [The Disappointment on her face.](http://9gag.com/gag/abvdnMv)
+ - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 💣 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---
 </div>

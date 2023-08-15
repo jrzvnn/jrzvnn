@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starfield: all the news and trailers about Bethesda’s massive space RPG](https://www.theverge.com/23833189/starfield-news-announcements-trailers-microsoft-bethesda-xbox-pc)
+ - [Apple issues watchOS 9.6.1 update](https://appleinsider.com/articles/23/08/15/apple-issues-watchos-961-update?utm_medium=rss)
  - [Xbox debuts a strike-based enforcement program, aiming to improve &quot;player transparency&quot; and simplify rules; eight strikes over six months gets a one-year ban &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230815/p20#a230815p20)
  - [OpenAI says it has been using GPT-4 to enforce its content policies and says some of its customers are already using it for content moderation &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230815/p19#a230815p19)
- - [Apple issues watchOS 9.6.1 update](https://appleinsider.com/articles/23/08/15/apple-issues-watchos-961-update?utm_medium=rss)
- - [Emmy Awards honor iPhone cinematography app](https://appleinsider.com/articles/23/08/15/emmy-awards-honor-iphone-cinematography-app?utm_medium=rss)
- - [Google&#39;s Search Generative Experience adds an experimental browsing feature that summarizes page content, first in the Google mobile app for Search Labs users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230815/p18#a230815p18)<!-- TECH:END -->
+ - [Emmy Awards honor iPhone cinematography app](https://appleinsider.com/articles/23/08/15/emmy-awards-honor-iphone-cinematography-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

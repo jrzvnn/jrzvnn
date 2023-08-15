@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 😝 [Owner of this building in Sugrut, RUS is not happy about new government achievement :D :D &lpar;translation in comments&rpar;](http://9gag.com/gag/aA0m9vL)
- - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
- - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 😝 [Money](http://9gag.com/gag/aqedVqQ)
+ - 💣 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)
+ - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
 
 ---
 </div>

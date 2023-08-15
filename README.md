@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still one of the greatest moments in gaming ever.](http://9gag.com/gag/a9qVwXo)
- - 😝 [I believe he has been plotting it for a while!!](http://9gag.com/gag/ay2zr4r)
- - 💣 [Surprise motherf**ker](http://9gag.com/gag/aBdvz2z)
- - 😝 [Paternity fraud stonks go fssss..](http://9gag.com/gag/a1PxgK8)
- - 👉 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)<!-- MEMES:END -->
+ - 😝 [They did it mentally](http://9gag.com/gag/armd0V0)
+ - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [Imagine your dick is squeezed there](http://9gag.com/gag/aL1bVLA)
+ - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
 
 ---
 </div>

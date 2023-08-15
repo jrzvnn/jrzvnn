@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t bite the hand that feeds you](http://9gag.com/gag/agod9Kw)
+ - 😝 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
  - 😝 [Giga Chad saves a man from getting his skull smashed by a lifting rod,at the gym...](http://9gag.com/gag/aOxjWMN)
- - 💣 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
- - 😝 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 👉 [Armed robbery in Austria...](http://9gag.com/gag/aREyWQG)<!-- MEMES:END -->
+ - 💣 [Alexandra Daddario](http://9gag.com/gag/awZ8DnQ)
+ - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
+ - 👉 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
 
 ---
 </div>

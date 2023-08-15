@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: BAM Trading, which runs Binance.US, seeks a protective order against the SEC due to &quot;conducting a fishing expedition&quot;; the SEC seeks four depositions &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230815/p2#a230815p2)
  - [Specs and images of Samsung’s XR headset prototype have leaked](https://www.androidauthority.com/samsung-xr-headset-prototype-leak-3355052/)
  - [Xiaomi Smart Band 8 Pro launched: Blurring the line between tracker and watch](https://www.androidauthority.com/xiaomi-smart-band-8-pro-3355047/)
  - [How a scam tied to ad firm CPABuild hosts malicious PDFs, indexed by search engines, on hacked .gov, .org, and .edu sites, often luring Fortnite or Roblox users &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230815/p1#a230815p1)
- - [Aqara’s new Zigbee light strip supports HomeKit Adaptive Lighting and Matter](https://www.theverge.com/2023/8/15/23831575/aqara-rgb-smart-light-strip-t1-matter-apple-home-alexa-google)
- - [The Galaxy S24 Ultra’s new 3x camera could address a key Ultra weakness](https://www.androidauthority.com/samsung-galaxy-s24-ultra-3x-camera-weakness-3354739/)<!-- TECH:END -->
+ - [Aqara’s new Zigbee light strip supports HomeKit Adaptive Lighting and Matter](https://www.theverge.com/2023/8/15/23831575/aqara-rgb-smart-light-strip-t1-matter-apple-home-alexa-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

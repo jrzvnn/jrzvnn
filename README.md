@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple distributes sixth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/15/apple-distributes-sixth-tvos-17-developer-beta?utm_medium=rss)
  - [Apple issues sixth developer beta for watchOS 10](https://appleinsider.com/articles/23/08/15/apple-issues-sixth-developer-beta-for-watchos-10?utm_medium=rss)
  - [Apple issues sixth iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/08/15/apple-issues-sixth-ios-17-ipados-17-developer-betas?utm_medium=rss)
  - [This tech recycler uses ties with Apple to tackle the e-waste problem](https://appleinsider.com/articles/23/08/15/this-tech-recycler-uses-ties-with-apple-to-tackle-the-e-waste-problem?utm_medium=rss)
- - [WhatsApp beta for Android now lets users create custom stickers with AI &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230815/p24#a230815p24)
- - [Drones, cameras, apps, robots, and ML are helping speed up huge construction projects; one company expects to cut up to 5% off a UK railroad project&#39;s $11B cost &lpar;Patrick Sisson/New York Times&rpar;](http://www.techmeme.com/230815/p23#a230815p23)<!-- TECH:END -->
+ - [WhatsApp beta for Android now lets users create custom stickers with AI &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230815/p24#a230815p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

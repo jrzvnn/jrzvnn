@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scammers are coming for your phone number: How to protect your data](https://appleinsider.com/articles/23/08/15/scammers-are-coming-for-your-phone-number-how-to-protect-your-data?utm_medium=rss)
  - [YouTube starts mass removal of videos promoting &quot;cancer treatments proven to be harmful or ineffective&quot; or discouraging &quot;seeking professional medical treatment&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230815/p6#a230815p6)
  - [This Psychologist Wants To Vaccinate You Against Fake News](https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news/)
  - [This Bold Plan to Kick the World’s Coal Habit Might Actually Work](https://www.wired.com/story/this-bold-plan-to-kick-the-worlds-coal-habit-might-actually-work/)
- - [The Best YouTube Channels for Your Cat](https://www.wired.com/story/the-best-youtube-channels-for-cats/)
- - [How X Is Suing Its Way Out of Accountability](https://www.wired.com/story/twitter-x-ccdh-lawsuit-data-crackdown/)<!-- TECH:END -->
+ - [The Best YouTube Channels for Your Cat](https://www.wired.com/story/the-best-youtube-channels-for-cats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

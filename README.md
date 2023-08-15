@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI wants GPT-4 to solve the content moderation dilemma](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [X seemed to throttle some competitors and news sites for more than a week](https://www.theverge.com/2023/8/15/23833314/x-twitter-throttling-traffic-competitors-news-sites-elon-musk)
- - [Apple distributes sixth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/15/apple-distributes-sixth-tvos-17-developer-beta?utm_medium=rss)
- - [Apple issues sixth developer beta for watchOS 10](https://appleinsider.com/articles/23/08/15/apple-issues-sixth-developer-beta-for-watchos-10?utm_medium=rss)<!-- TECH:END -->
+ - [Helium Mobile’s suspiciously cheap phone plan is only for the bravest among us](https://www.theverge.com/2023/8/15/23833308/helium-network-mobile-miami-5)
+ - [At a White House roundtable, the US Consumer Financial Protection Bureau touts Fair Credit Reporting Act rules to crack down on harmful data broker practices &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/230815/p25#a230815p25)
+ - [Bing, Bard, and ChatGPT: How AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [An Iowa school district is using ChatGPT to decide which books to ban](https://www.theverge.com/2023/8/15/23833167/iowa-book-ban-chatgpt-mason-city-community-school-district-removal)
+ - [OpenAI wants GPT-4 to solve the content moderation dilemma](https://www.theverge.com/2023/8/15/23833406/openai-gpt-4-content-moderation-ai-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

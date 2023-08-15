@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously \u2026..](http://9gag.com/gag/aA0m5nd)
- - 😝 [Rules For Thee But Not For Me - Judge Privilege -](http://9gag.com/gag/adPdWNV)
- - 💣 [House explosion in Pennsylvania today](http://9gag.com/gag/axoAew1)
- - 😝 [In Germany you must speak german, otherwise go back where you came from](http://9gag.com/gag/aA0mzG2)
- - 👉 [Victoria Justice](http://9gag.com/gag/aDYPqZK)<!-- MEMES:END -->
+ - 😝 [BY THE HOLY EMPEROR!](http://9gag.com/gag/aOxjWX6)
+ - 😝 [Which pirate are you?](http://9gag.com/gag/aREyqVq)
+ - 💣 [Some of you Italians need to dress up as Orcs and attack them!](http://9gag.com/gag/aZDdYoQ)
+ - 😝 [Baldur&#39;s Gate 3 is WILD!](http://9gag.com/gag/aGEoQO7)
+ - 👉 [Ranch kitty](http://9gag.com/gag/aGEoQ46)<!-- MEMES:END -->
 
 ---
 </div>

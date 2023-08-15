@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC says 20M+ US households enrolled in a program to receive $30 per month subsidies for internet access, up from 10M in early 2022 and 16M in February 2023 &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230815/p7#a230815p7)
  - [USB-C in iPhone 15 is all but certain as more components surface](https://appleinsider.com/articles/23/08/14/yet-another-leaked-image-of-usb-c-iphone-15-components-surfaces?utm_medium=rss)
  - [Scammers are coming for your phone number: How to protect your data](https://appleinsider.com/articles/23/08/15/scammers-are-coming-for-your-phone-number-how-to-protect-your-data?utm_medium=rss)
  - [Tesla reintroduces more affordable ‘Standard Range’ versions of Model S and X](https://www.theverge.com/2023/8/15/23832644/tesla-standard-range-model-x-s-lower-range-price-power-acceleration)
- - [WhatsApp starts testing AI-generated stickers](https://www.theverge.com/2023/8/15/23832635/whatsapp-ai-generated-stickers-test-android-beta)
- - [YouTube starts mass removal of videos promoting &quot;cancer treatments proven to be harmful or ineffective&quot; or discouraging &quot;seeking professional medical treatment&quot; &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230815/p6#a230815p6)<!-- TECH:END -->
+ - [WhatsApp starts testing AI-generated stickers](https://www.theverge.com/2023/8/15/23832635/whatsapp-ai-generated-stickers-test-android-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

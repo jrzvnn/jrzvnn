@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo tests your fine dexterity with its newest keychain-size controller](https://www.theverge.com/2023/8/16/23834670/8bitdo-micro-wireless-controller-release-switch-android)
  - [Android 14’s list of eligible Galaxy devices is missing a few fan favorites](https://www.androidauthority.com/galaxy-devices-getting-one-ui-6-3355623/)
  - [Microsoft Surface Laptop 6: Release date, price, specs, rumors, and what we know](https://www.androidauthority.com/microsoft-surface-laptop-6-3352642/)
  - [Roblox is about to let users sell custom-made avatar bodies and heads](https://www.theverge.com/2023/8/16/23834790/roblox-ugc-sell-avatar-bodies-heads)
- - [Apple TV+ romantic sci-fi film &#39;Fingernails&#39; sets premiere date](https://appleinsider.com/articles/23/08/16/apple-tv-romantic-sci-fi-film-fingernails-sets-premiere-date?utm_medium=rss)
- - [3D printer nightmare fuel: Bambu X1C and P1P started printing while owners were asleep](https://www.theverge.com/2023/8/16/23064592/bambu-print-asleep-cloud-outage)<!-- TECH:END -->
+ - [Apple TV+ romantic sci-fi film &#39;Fingernails&#39; sets premiere date](https://appleinsider.com/articles/23/08/16/apple-tv-romantic-sci-fi-film-fingernails-sets-premiere-date?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal plans to &quot;temporarily&quot; stop letting UK users buy crypto via its platform from October 1 to work with regulators and expects to restart in &quot;early 2024&quot; &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/230816/p21#a230816p21)
+ - [Amazon Knocks Up to $40 Off Its Latest Echo Speakers     - CNET](https://www.cnet.com/deals/amazon-knocks-up-to-40-off-its-latest-echo-speakers/#ftag=CAD590a51e)
  - [Epic Games expands its Epic Online Services crossplay tools from PC to PlayStation, Xbox, and Switch, helping developers more easily add crossplay multiplayer &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230816/p20#a230816p20)
  - [Adobe Express with AI Firefly app is available worldwide](https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide?utm_medium=rss)
- - [YouTube is adding chat, highlights, and Shorts to NFL Sunday Ticket](https://www.theverge.com/2023/8/16/23834242/youtube-nfl-sunday-ticket-tv-shorts-highlights-chat)
- - [Daily deals Aug. 16: 14&quot; MacBook Pro $1,499, $749 MacBook Air, 25% off Magic Keyboard, more](https://appleinsider.com/articles/23/08/16/daily-deals-aug-16-14-macbook-pro-1499-749-macbook-air-25-off-magic-keyboard-more?utm_medium=rss)
- - [Epic Games is bringing its crossplay tools for developers to consoles](https://www.theverge.com/2023/8/16/23833844/epic-games-crossplay-tools-developers-consoles)<!-- TECH:END -->
+ - [YouTube is adding chat, highlights, and Shorts to NFL Sunday Ticket](https://www.theverge.com/2023/8/16/23834242/youtube-nfl-sunday-ticket-tv-shorts-highlights-chat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
  - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - 😝 [Smart mokey...](http://9gag.com/gag/aqedP7Y)
- - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
- - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
- - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
 
 ---
 </div>

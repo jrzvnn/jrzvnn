@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
  - 😝 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
- - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
+ - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---
 </div>

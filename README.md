@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games expands its Epic Online Services crossplay tools from PC to PlayStation, Xbox, and Switch, helping developers more easily add crossplay multiplayer &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230816/p20#a230816p20)
  - [Adobe Express with AI Firefly app is available worldwide](https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide?utm_medium=rss)
  - [YouTube is adding chat, highlights, and Shorts to NFL Sunday Ticket](https://www.theverge.com/2023/8/16/23834242/youtube-nfl-sunday-ticket-tv-shorts-highlights-chat)
  - [Daily deals Aug. 16: 14&quot; MacBook Pro $1,499, $749 MacBook Air, 25% off Magic Keyboard, more](https://appleinsider.com/articles/23/08/16/daily-deals-aug-16-14-macbook-pro-1499-749-macbook-air-25-off-magic-keyboard-more?utm_medium=rss)
- - [Epic Games is bringing its crossplay tools for developers to consoles](https://www.theverge.com/2023/8/16/23833844/epic-games-crossplay-tools-developers-consoles)
- - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)<!-- TECH:END -->
+ - [Epic Games is bringing its crossplay tools for developers to consoles](https://www.theverge.com/2023/8/16/23833844/epic-games-crossplay-tools-developers-consoles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

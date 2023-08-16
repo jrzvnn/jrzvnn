@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14’s list of eligible Galaxy devices is missing a few fan favorites](https://www.androidauthority.com/galaxy-devices-getting-one-ui-6-3355623/)
+ - [Microsoft Surface Laptop 6: Release date, price, specs, rumors, and what we know](https://www.androidauthority.com/microsoft-surface-laptop-6-3352642/)
  - [Roblox is about to let users sell custom-made avatar bodies and heads](https://www.theverge.com/2023/8/16/23834790/roblox-ugc-sell-avatar-bodies-heads)
  - [Apple TV+ romantic sci-fi film &#39;Fingernails&#39; sets premiere date](https://appleinsider.com/articles/23/08/16/apple-tv-romantic-sci-fi-film-fingernails-sets-premiere-date?utm_medium=rss)
- - [3D printer nightmare fuel: Bambu X1C and P1P started printing while owners were asleep](https://www.theverge.com/2023/8/16/23064592/bambu-print-asleep-cloud-outage)
- - [Amazon will reportedly charge sellers an extra fee for shipping their own products](https://www.theverge.com/2023/8/16/23834653/amazon-seller-fees-shipping-fulfillment)
- - [Sources: Eric Schmidt is building an organization, modeled on OpenAI, to tackle scientific challenges using AI&#39;s help; most of the funding comes from his wealth &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230816/p27#a230816p27)<!-- TECH:END -->
+ - [3D printer nightmare fuel: Bambu X1C and P1P started printing while owners were asleep](https://www.theverge.com/2023/8/16/23064592/bambu-print-asleep-cloud-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

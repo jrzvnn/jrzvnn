@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gives in on the End Call button position in latest iOS 17 beta](https://appleinsider.com/articles/23/08/16/apple-gives-in-on-the-end-call-button-position?utm_medium=rss)
- - [Tencent reports Q2 revenue up 11% YoY to ~$20.5B, below ~$20.8B est., and operating profit up 37% YoY to ~$6.9B, as cost-cutting helps boost its core units &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230816/p8#a230816p8)
- - [OnePlus Ace 2 Pro launched: A OnePlus 11T, if ever there were one](https://www.androidauthority.com/oneplus-ace-2-pro-3355474/)
- - [How Amazon’s In-House First Aid Clinics Push Injured Employees to Keep Working](https://www.wired.com/story/amazons-first-aid-clinics-push-injured-employees-to-keep-working/)
- - [Three iPhone 15 models rumored to get Thunderbolt/USB4 connector](https://appleinsider.com/articles/23/08/16/three-iphone-15-models-rumored-to-get-thunderboltusb4-connector?utm_medium=rss)<!-- TECH:END -->
+ - [Coinbase says the exchange received regulatory approval from the CFTC-backed National Futures Association to offer futures trading services to eligible US users &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230816/p9#a230816p9)
+ - [What Do My Screenshots and Selfies Actually Say About Me?](https://www.wired.com/story/what-do-my-screenshots-selfies-say-about-me/)
+ - [The Twisted Pageantry of American Politics in One Photo](https://www.wired.com/story/depth-of-field-desantis-iowa-state-fair/)
+ - [The World Isn’t Ready for the Next Decade of AI](https://www.wired.com/story/have-a-nice-future-podcast-18/)
+ - [Vampire Survivors feels like a different game with a friend](https://www.theverge.com/23832998/vampire-survivors-co-op-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

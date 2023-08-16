@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Layer 1 blockchain startup ZetaChain raised $27M from Blockchain.com and others and plans to launch its mainnet soon; the project has 27K+ dApps deployed &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230816/p18#a230816p18)
+ - [Sources: as part of a long-running DOJ investigation into Visa, officials are looking at how the company charges merchants for using its &quot;tokenization&quot; service &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p17#a230816p17)
+ - [The gang is back together in the first trailer for Netflix’s Scott Pilgrim anime](https://www.theverge.com/23834191/scott-pilgrim-anime-trailer-netflix)
  - [Here’s when OPPO could launch the Find N3 Flip and Watch 4 Pro](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-leak-3355513/)
- - [Tesla’s ‘ultra hardcore’ work culture — as told by its employees](https://www.theverge.com/2023/8/16/23833447/tesla-elon-musk-ultra-hardcore-employees-land-of-the-giants)
- - [The Authors Guild, American Booksellers Association, and Open Markets Institute urge the DOJ and the FTC to investigate Amazon&#39;s &quot;monopoly&quot; in the book market &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/230816/p16#a230816p16)
- - [Filing: Samsung Electronics sold ~3.55M ASML shares from April-June 2023, lowering its holding from 1.6% to 0.7%, or 2.75M shares, and reportedly raising ~$2.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p15#a230816p15)
- - [Sources: Foxconn&#39;s Tamil Nadu plant in India plans to deliver new iPhone 15s only weeks after Chinese factories; previously, output lagged China by 6-9 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230816/p14#a230816p14)<!-- TECH:END -->
+ - [‘Venba’ Takes Me Back to My Roots Through Food and Family](https://www.wired.com/story/venba-food-family-india-impressions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

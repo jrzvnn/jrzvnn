@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice dogs](http://9gag.com/gag/adPdD8j)
- - 😝 [Already invested..](http://9gag.com/gag/awZ8p8D)
- - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 😝 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)
- - 👉 [Miss Poland 2023 contestants](http://9gag.com/gag/a9qVGZL)<!-- MEMES:END -->
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 😝 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - 😝 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
+ - 👉 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)<!-- MEMES:END -->
 
 ---
 </div>

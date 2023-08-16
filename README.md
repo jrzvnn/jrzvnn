@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
- - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
+ - 😝 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)
+ - 😝 [Based](http://9gag.com/gag/aKELRO3)
+ - 💣 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)
+ - 😝 [Bitter pill to swallow...](http://9gag.com/gag/aqedo1L)
+ - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
 
 ---
 </div>

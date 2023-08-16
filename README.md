@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe Express with AI Firefly app is available worldwide](https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide?utm_medium=rss)
+ - [YouTube is adding chat, highlights, and Shorts to NFL Sunday Ticket](https://www.theverge.com/2023/8/16/23834242/youtube-nfl-sunday-ticket-tv-shorts-highlights-chat)
+ - [Daily deals Aug. 16: 14&quot; MacBook Pro $1,499, $749 MacBook Air, 25% off Magic Keyboard, more](https://appleinsider.com/articles/23/08/16/daily-deals-aug-16-14-macbook-pro-1499-749-macbook-air-25-off-magic-keyboard-more?utm_medium=rss)
  - [Epic Games is bringing its crossplay tools for developers to consoles](https://www.theverge.com/2023/8/16/23833844/epic-games-crossplay-tools-developers-consoles)
- - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)
- - [Sony’s open-style LinkBuds earbuds have returned to their all-time low](https://www.theverge.com/2023/8/16/23832830/sony-linkbuds-earbuds-samsung-galaxy-z-fold-flip-5-jbl-flip-6-deal-sale)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-16-2023-3354944/)
- - [Layer 1 blockchain startup ZetaChain raised $27M from Blockchain.com and others and plans to launch its mainnet soon; the project has 27K+ dApps deployed &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230816/p18#a230816p18)<!-- TECH:END -->
+ - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

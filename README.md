@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)
- - 😝 [Based](http://9gag.com/gag/aKELRO3)
- - 💣 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)
- - 😝 [Bitter pill to swallow...](http://9gag.com/gag/aqedo1L)
- - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
+ - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
 
 ---
 </div>

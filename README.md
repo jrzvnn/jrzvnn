@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s when OPPO could launch the Find N3 Flip and Watch 4 Pro](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-leak-3355513/)
+ - [Tesla’s ‘ultra hardcore’ work culture — as told by its employees](https://www.theverge.com/2023/8/16/23833447/tesla-elon-musk-ultra-hardcore-employees-land-of-the-giants)
  - [The Authors Guild, American Booksellers Association, and Open Markets Institute urge the DOJ and the FTC to investigate Amazon&#39;s &quot;monopoly&quot; in the book market &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/230816/p16#a230816p16)
  - [Filing: Samsung Electronics sold ~3.55M ASML shares from April-June 2023, lowering its holding from 1.6% to 0.7%, or 2.75M shares, and reportedly raising ~$2.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p15#a230816p15)
- - [Sources: Foxconn&#39;s Tamil Nadu plant in India plans to deliver new iPhone 15s only weeks after Chinese factories; previously, output lagged China by 6-9 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230816/p14#a230816p14)
- - [Apple&#39;s India expansion reaches a milestone as iPhone 15 production starts](https://appleinsider.com/articles/23/08/16/apples-india-expansion-reaches-a-milestone-as-iphone-15-production-starts?utm_medium=rss)
- - [The iPhone 16 Pro could catch up to old Android phones with this upgrade](https://www.androidauthority.com/apple-iphone-16-pro-ultrawide-camera-upgrade-3355499/)<!-- TECH:END -->
+ - [Sources: Foxconn&#39;s Tamil Nadu plant in India plans to deliver new iPhone 15s only weeks after Chinese factories; previously, output lagged China by 6-9 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230816/p14#a230816p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

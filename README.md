@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
+ - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 😝 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---
 </div>

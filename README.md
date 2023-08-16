@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
- - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
  - 😝 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
+ - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
+ - 💣 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 😝 [We always know](http://9gag.com/gag/aA0mj19)
  - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---

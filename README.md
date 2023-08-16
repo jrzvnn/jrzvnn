@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
+ - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
 
 ---
 </div>

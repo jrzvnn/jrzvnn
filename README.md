@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S23 update finally fixes ‘banana blur’ camera issue, adds 2x zoom](https://www.androidauthority.com/samsung-galaxy-s23-camera-fixes-3355565/)
+ - [Urbanista turns its solar-powered smarts to a Bluetooth speaker](https://www.theverge.com/2023/8/16/23834467/urbanista-malibu-solar-powered-bluetooth-speaker-price-release-dates-specs-details)
  - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
  - [Nintendo has restocked the ever-elusive N64 controller for the Switch](https://www.theverge.com/2023/8/16/23820759/nintendo-switch-n64-controller-restock-sale)
- - [Up your Android photo and video game with Moment’s new T-Series lenses](https://www.androidauthority.com/moment-android-t-series-3355319/)
- - [Moment debuts 8 new iPhone lenses as part of T-Series overhaul](https://appleinsider.com/articles/23/08/16/moment-debuts-8-new-iphone-lenses-as-part-of-t-series-overhaul?utm_medium=rss)
- - [Moment is upgrading its entire line of lenses for the latest phone cameras](https://www.theverge.com/2023/8/16/23833436/moment-smartphone-camera-t-series-lenses-iphone-android)<!-- TECH:END -->
+ - [Up your Android photo and video game with Moment’s new T-Series lenses](https://www.androidauthority.com/moment-android-t-series-3355319/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

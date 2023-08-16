@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Ace 2 Pro launched: A OnePlus 11T, if ever there were one](https://www.androidauthority.com/oneplus-ace-2-pro-3355474/)
+ - [Apple gives in on the End Call button position](https://appleinsider.com/articles/23/08/16/apple-gives-in-on-the-end-call-button-position?utm_medium=rss)
  - [How Amazon’s In-House First Aid Clinics Push Injured Employees to Keep Working](https://www.wired.com/story/amazons-first-aid-clinics-push-injured-employees-to-keep-working/)
  - [Three iPhone 15 models rumored to get Thunderbolt/USB4 connector](https://appleinsider.com/articles/23/08/16/three-iphone-15-models-rumored-to-get-thunderboltusb4-connector?utm_medium=rss)
- - [Dell’s new monitor can transform into a touch display](https://www.theverge.com/2023/8/16/23834096/dell-24-touch-usb-c-hub-monitor-graphics-tablet-touchscreen)
- - [By the end of August, the EU DSA will force online platforms with 45M+ EU users to prove that they are ensuring that their products are not harming children &lpar;Politico&rpar;](http://www.techmeme.com/230816/p7#a230816p7)
- - [LG wants you to pay $1,000 for this TV you can carry in a briefcase](https://www.androidauthority.com/lg-standbyme-go-portable-tv-3355467/)<!-- TECH:END -->
+ - [Dell’s new monitor can transform into a touch display](https://www.theverge.com/2023/8/16/23834096/dell-24-touch-usb-c-hub-monitor-graphics-tablet-touchscreen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

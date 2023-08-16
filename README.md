@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice dogs](http://9gag.com/gag/adPdD8j)
- - 😝 [Already invested..](http://9gag.com/gag/awZ8p8D)
- - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 😝 [There is still hope](http://9gag.com/gag/avQDjzO)
- - 👉 [Miss Poland 2023 contestants](http://9gag.com/gag/a9qVGZL)<!-- MEMES:END -->
+ - 😝 [You guys go first! I\u2019ll take care of this one! Please!](http://9gag.com/gag/avQDVYX)
+ - 😝 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)
+ - 💣 [Crash test dummy](http://9gag.com/gag/az2B37K)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 👉 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)<!-- MEMES:END -->
 
 ---
 </div>

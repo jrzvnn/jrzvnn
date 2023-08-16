@@ -148,7 +148,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A cheap Bluetooth transmitter can spoof some iPhone notifications](https://appleinsider.com/articles/23/08/16/a-cheap-bluetooth-transmitter-can-spoof-some-iphone-notifications?utm_medium=rss)
  - [Cisco reports Q4 revenue up 16% YoY to $15.2B, vs. $15.05B est., net income up 41% YoY to $4B, and forecasts FY 2024 revenue below estimates &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230816/p29#a230816p29)
- - [Conservative radio host Glenn Beck says all podcast episodes of The Glenn Beck Program &quot;have been removed from Apple/iTunes with no explanation&quot; &lpar;Candice Ortiz/Mediaite&rpar;](http://www.techmeme.com/230816/p28#a230816p28)
+ - [Conservative radio host Glenn Beck says all Glenn Beck Program podcast episodes, dating back to 2017, &quot;have been removed from Apple/iTunes with no explanation&quot; &lpar;Candice Ortiz/Mediaite&rpar;](http://www.techmeme.com/230816/p28#a230816p28)
  - [8BitDo tests your fine dexterity with its newest keychain-size controller](https://www.theverge.com/2023/8/16/23834670/8bitdo-micro-wireless-controller-release-switch-android)
  - [Android 14’s list of eligible Galaxy devices is missing a few fan favorites](https://www.androidauthority.com/galaxy-devices-getting-one-ui-6-3355623/)<!-- TECH:END -->
 

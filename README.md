@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
- - 😝 [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)
- - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 😝 [Chivalry is not dead](http://9gag.com/gag/aBdvzYZ)
  - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 👉 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)<!-- MEMES:END -->
+ - 💣 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 👉 [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)<!-- MEMES:END -->
 
 ---
 </div>

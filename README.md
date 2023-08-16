@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC bans TikTok on city-owned devices](https://www.theverge.com/2023/8/16/23834579/nyc-tiktok-ban-new-york-china-surveillance-spy)
  - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
  - [Blue Beetle is the kitschy sort of superhero throwback DC should have been making years ago](https://www.theverge.com/23833475/blue-beetle-movie-review)
  - [CrossOver update brings EA and DirectX 12 game support to Mac](https://appleinsider.com/articles/23/08/16/crossover-update-brings-ea-and-directx-12-game-support-to-mac?utm_medium=rss)
- - [Microsoft Teams is now part of the Xbox Game Bar so you can stream gameplay to friends](https://www.theverge.com/2023/8/16/23834413/microsoft-teams-xbox-game-bar-live-stream-feature)
- - [Probable iPhone 15 spotted on India regulatory database](https://appleinsider.com/articles/23/08/16/probable-iphone-15-spotted-on-india-regulatory-database?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Teams is now part of the Xbox Game Bar so you can stream gameplay to friends](https://www.theverge.com/2023/8/16/23834413/microsoft-teams-xbox-game-bar-live-stream-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

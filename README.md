@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 😝 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 💣 [Idiots trying to pose for a photo on live tracks &lpar;luckily they lived&rpar;](http://9gag.com/gag/aEqQboN)
- - 😝 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)
- - 👉 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)<!-- MEMES:END -->
+ - 😝 [Already invested..](http://9gag.com/gag/awZ8p8D)
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [There is still hope](http://9gag.com/gag/avQDjzO)
+ - 👉 [Miss Poland 2023 contestants](http://9gag.com/gag/a9qVGZL)<!-- MEMES:END -->
 
 ---
 </div>

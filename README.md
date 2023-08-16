@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple backtracks and moves the &quot;end call&quot; button back to the middle of the screen, from the bottom-right corner, in the latest iOS 17 beta &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230816/p11#a230816p11)
  - [Intel abandons chipmaking acquisition after failing to secure Chinese approval](https://www.theverge.com/2023/8/16/23834124/intel-tower-semiconductors-foundry-services-acquisition-failed-terminated)
  - [Today I learned you can easily pause the Windows Task Manager to stop apps moving around](https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut)
  - [Crypto key startup BitGo raised $100M at a $1.75B valuation from undisclosed US and Asian investors; Galaxy Digital scrapped a $1.2B BitGo acquisition in 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230816/p10#a230816p10)
- - [Coinbase says the exchange received regulatory approval from the CFTC-backed National Futures Association to offer futures trading services to eligible US users &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230816/p9#a230816p9)
- - [What Do My Screenshots and Selfies Actually Say About Me?](https://www.wired.com/story/what-do-my-screenshots-selfies-say-about-me/)<!-- TECH:END -->
+ - [Coinbase says the exchange received regulatory approval from the CFTC-backed National Futures Association to offer futures trading services to eligible US users &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230816/p9#a230816p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

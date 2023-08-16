@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - 💣 [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 👉 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)<!-- MEMES:END -->
+ - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 👉 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)<!-- MEMES:END -->
 
 ---
 </div>

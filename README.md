@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
- - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - 💣 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [We always know](http://9gag.com/gag/aA0mj19)
- - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
+ - 😝 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 👉 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)<!-- MEMES:END -->
 
 ---
 </div>

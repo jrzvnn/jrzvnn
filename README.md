@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai)
  - [New York City bans TikTok from city-owned devices and requires agencies to remove the app within the next 30 days, after a review by the NYC Cyber Command &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230816/p26#a230816p26)
  - [Special counsel obtained ‘some volume’ of DMs from Donald Trump’s Twitter account](https://www.theverge.com/2023/8/16/23834394/special-counsel-donald-trump-twitter-january-6-2020-election-indictment)
  - [OpenAI bought the makers of a Minecraft clone](https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt)
- - [The UK plans to host an AI summit in November 2023 with &quot;like-minded&quot; countries, academics, and executives from DeepMind, Microsoft, OpenAI, Anthropic, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230816/p25#a230816p25)
- - [See how heat-related illness spiked in the US this summer](https://www.theverge.com/2023/8/16/23834252/heatwave-illness-er-visits-data-map)<!-- TECH:END -->
+ - [The UK plans to host an AI summit in November 2023 with &quot;like-minded&quot; countries, academics, and executives from DeepMind, Microsoft, OpenAI, Anthropic, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230816/p25#a230816p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal plans to &quot;temporarily&quot; stop letting UK users buy crypto via its platform from October 1 to work with regulators and expects to restart in &quot;early 2024&quot; &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/230816/p21#a230816p21)
- - [Amazon Knocks Up to $40 Off Its Latest Echo Speakers     - CNET](https://www.cnet.com/deals/amazon-knocks-up-to-40-off-its-latest-echo-speakers/#ftag=CAD590a51e)
- - [Epic Games expands its Epic Online Services crossplay tools from PC to PlayStation, Xbox, and Switch, helping developers more easily add crossplay multiplayer &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230816/p20#a230816p20)
- - [Adobe Express with AI Firefly app is available worldwide](https://appleinsider.com/articles/23/08/16/adobe-express-with-ai-firefly-app-is-available-worldwide?utm_medium=rss)
- - [YouTube is adding chat, highlights, and Shorts to NFL Sunday Ticket](https://www.theverge.com/2023/8/16/23834242/youtube-nfl-sunday-ticket-tv-shorts-highlights-chat)<!-- TECH:END -->
+ - [Where to preorder the various editions of Starfield &lpar;and what’s included&rpar;](https://www.theverge.com/23831977/starfield-preorder-guide-constellation-edition-controller-headset-bethesda-xbox-pc)
+ - [Apple TV+ reveals &#39;The Buccaneers&#39; to stream from November](https://appleinsider.com/articles/23/08/16/apple-tv-reveals-the-buccaneers-to-stream-from-november?utm_medium=rss)
+ - [Authors call on FTC to investigate Amazon’s alleged monopoly in the bookselling industry](https://www.theverge.com/2023/8/16/23834223/amazon-authors-booksellers-monopoly-publishing-industry)
+ - [Everything new in iOS 17 developer beta 6](https://appleinsider.com/articles/23/08/16/everything-new-in-ios-17-developer-beta-6?utm_medium=rss)
+ - [GM invests in ‘AI-enabled’ battery startup that could help build cheaper EVs](https://www.theverge.com/2023/8/16/23834197/gm-mitra-chem-electric-car-battery-lfp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

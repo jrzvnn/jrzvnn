@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt chaos](http://9gag.com/gag/aREyYQB)
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 💣 [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [It&#39;s like a magic ward](http://9gag.com/gag/ajVdoZp)<!-- MEMES:END -->
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 </div>

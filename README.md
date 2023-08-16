@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: Toggling Bluetooth in iPhone Control Center doesn’t do what you likely think](https://www.androidauthority.com/psa-toggling-bluetooth-in-iphone-control-center-doesnt-do-what-you-likely-think-3355583/)
+ - [Documents: Amazon plans to impose a new 2% fee per sale on merchants who ship products themselves, on top of the ~15% fee they already pay, starting in October &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p24#a230816p24)
  - [Galaxy S23 update finally fixes ‘banana blur’ camera issue, adds 2x zoom](https://www.androidauthority.com/samsung-galaxy-s23-camera-fixes-3355565/)
  - [Urbanista turns its solar-powered smarts to a Bluetooth speaker](https://www.theverge.com/2023/8/16/23834467/urbanista-malibu-solar-powered-bluetooth-speaker-price-release-dates-specs-details)
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Nintendo has restocked the ever-elusive N64 controller for the Switch](https://www.theverge.com/2023/8/16/23820759/nintendo-switch-n64-controller-restock-sale)
- - [Up your Android photo and video game with Moment’s new T-Series lenses](https://www.androidauthority.com/moment-android-t-series-3355319/)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

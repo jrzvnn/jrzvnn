@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere: in 2023, console video game players will spend $21B on in-game items and subscriptions, as &quot;live service games&quot; make the market more akin to mobile &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230816/p5#a230816p5)
  - [Nokia G310 hits US: A repairable phone with 3.5mm port, microSD slot](https://www.androidauthority.com/nokia-g310-3355445/)
  - [As San Francisco opens to 24/7 robotaxis, a look at Cruise and Waymo cars causing traffic jams and obstructing emergency vehicles, unraveling the public&#39;s trust &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230816/p4#a230816p4)
  - [SE Asian internet giant Sea dropped 29%, its largest single-day drop ever, wiping out nearly $10B of its market cap; Sea is valued at $23B vs. $180B in 2021 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230816/p3#a230816p3)
- - [Google could soon kill Assistant on older Wear OS smartwatches](https://www.androidauthority.com/google-kill-assistant-wear-os-2-smartwatches-3355425/)
- - [Sources: UK PM Rishi Sunak is planning an AI summit later this year with other G7 leaders and tech execs, with the historic Bletchley Park as a possible venue &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p2#a230816p2)<!-- TECH:END -->
+ - [Google could soon kill Assistant on older Wear OS smartwatches](https://www.androidauthority.com/google-kill-assistant-wear-os-2-smartwatches-3355425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

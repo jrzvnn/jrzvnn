@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG wants you to pay $1,000 for this TV you can carry in a briefcase](https://www.androidauthority.com/lg-standbyme-go-portable-tv-3355467/)
  - [Move over Bard, Google’s next big AI product is coming this fall](https://www.androidauthority.com/google-gemini-ai-fall-release-3355460/)
  - [Intel terminates its $5.4B deal to acquire Israeli company Tower Semiconductor after failing to win regulatory approval; the deal was announced in February 2022 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230816/p6#a230816p6)
  - [Ampere: in 2023, console video game players will spend $21B on in-game items and subscriptions, as &quot;live service games&quot; make the market more akin to mobile &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230816/p5#a230816p5)
- - [Australia vs. England: How to Watch FIFA Women&#39;s World Cup 2023 Semifinal Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australia-vs-england-how-to-watch-fifa-womens-world-cup-2023-semifinal-live-from-anywhere/#ftag=CAD590a51e)
- - [Nokia G310 hits US: A repairable phone with 3.5mm port, microSD slot](https://www.androidauthority.com/nokia-g310-3355445/)<!-- TECH:END -->
+ - [Australia vs. England: How to Watch FIFA Women&#39;s World Cup 2023 Semifinal Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/australia-vs-england-how-to-watch-fifa-womens-world-cup-2023-semifinal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

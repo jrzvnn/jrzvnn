@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)
+ - [Sony’s open-style LinkBuds earbuds have returned to their all-time low](https://www.theverge.com/2023/8/16/23832830/sony-linkbuds-earbuds-samsung-galaxy-z-fold-flip-5-jbl-flip-6-deal-sale)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-16-2023-3354944/)
  - [Layer 1 blockchain startup ZetaChain raised $27M from Blockchain.com and others and plans to launch its mainnet soon; the project has 27K+ dApps deployed &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230816/p18#a230816p18)
- - [Sources: as part of a long-running DOJ investigation into Visa, officials are looking at how the company charges merchants for using its &quot;tokenization&quot; service &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p17#a230816p17)
- - [The gang is back together in the first trailer for Netflix’s Scott Pilgrim anime](https://www.theverge.com/23834191/scott-pilgrim-anime-trailer-netflix)
- - [Here’s when OPPO could launch the Find N3 Flip and Watch 4 Pro](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-leak-3355513/)<!-- TECH:END -->
+ - [Sources: as part of a long-running DOJ investigation into Visa, officials are looking at how the company charges merchants for using its &quot;tokenization&quot; service &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p17#a230816p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

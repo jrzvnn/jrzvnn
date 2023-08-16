@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Sama CEO Wendy Gonzalez says the company will no longer take on harmful content moderation work from Meta and she regrets the work, after staff sue the company &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230816/p19#a230816p19)
  - [Sony’s open-style LinkBuds earbuds have returned to their all-time low](https://www.theverge.com/2023/8/16/23832830/sony-linkbuds-earbuds-samsung-galaxy-z-fold-flip-5-jbl-flip-6-deal-sale)
+ - [JBL&#39;s Rugged and Powerful Boombox 2 is Over $200 Off at Woot     - CNET](https://www.cnet.com/deals/jbls-rugged-and-powerful-boombox-2-is-over-200-off-at-woot/#ftag=CAD590a51e)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-16-2023-3354944/)
- - [Layer 1 blockchain startup ZetaChain raised $27M from Blockchain.com and others and plans to launch its mainnet soon; the project has 27K+ dApps deployed &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230816/p18#a230816p18)
- - [Sources: as part of a long-running DOJ investigation into Visa, officials are looking at how the company charges merchants for using its &quot;tokenization&quot; service &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p17#a230816p17)<!-- TECH:END -->
+ - [Layer 1 blockchain startup ZetaChain raised $27M from Blockchain.com and others and plans to launch its mainnet soon; the project has 27K+ dApps deployed &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230816/p18#a230816p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

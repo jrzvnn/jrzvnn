@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Eric Schmidt is building an organization to tackle scientific challenges with the help of AI, with funding coming mostly from his own personal wealth &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230816/p27#a230816p27)
+ - [Linus Tech Tips pauses production as controversy swirls](https://www.theverge.com/2023/8/16/23834190/linus-tech-tips-gamersnexus-madison-reeves-controversy)
  - [Android’s Nearby Share may actually become a worthy AirDrop competitor](https://www.androidauthority.com/new-android-nearby-share-feature-3355603/)
  - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai)
- - [New York City bans TikTok from city-owned devices and requires agencies to remove the app within the next 30 days, after a review by the NYC Cyber Command &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230816/p26#a230816p26)
- - [Special counsel obtained ‘some volume’ of DMs from Donald Trump’s Twitter account](https://www.theverge.com/2023/8/16/23834394/special-counsel-donald-trump-twitter-january-6-2020-election-indictment)
- - [OpenAI bought the makers of a Minecraft clone](https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt)<!-- TECH:END -->
+ - [NYC bans TikTok on city-owned devices and asks agencies to remove the app within 30 days; a NYC Cyber Command review found that TikTok &quot;posed a security threat&quot; &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230816/p26#a230816p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

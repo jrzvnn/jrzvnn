@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/aKELRO3)
- - 😝 [Abrupt chaos](http://9gag.com/gag/aREyYQB)
- - 💣 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)
- - 😝 [Bitter pill to swallow...](http://9gag.com/gag/aqedo1L)
+ - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 😝 [Smart mokey...](http://9gag.com/gag/aqedP7Y)
+ - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
  - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
 
 ---

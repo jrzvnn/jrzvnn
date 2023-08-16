@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SE Asian internet giant Sea dropped 29%, its largest single-day drop ever, wiping out nearly $10B of its market cap; Sea is valued at $23B vs. $180B in 2021 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/230816/p3#a230816p3)
+ - [Google could soon kill Assistant on older Wear OS smartwatches](https://www.androidauthority.com/google-kill-assistant-wear-os-2-smartwatches-3355425/)
  - [Sources: UK PM Rishi Sunak is planning an AI summit later this year with other G7 leaders and tech execs, with the historic Bletchley Park as a possible venue &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p2#a230816p2)
  - [Internal docs: India accounts for $10B of Foxconn&#39;s annual revenue, which is 4.6% of its 2022 revenue, as Foxconn&#39;s India push shows limits of &quot;China plus one&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230816/p1#a230816p1)
- - [Pixel and iPhone engage in a little friendly competition in Google’s latest ad](https://www.androidauthority.com/google-pixel-vs-iphone-ad-soccer-football-3355421/)
- - [New price drops: save up to $1,400 on M1 Pro &amp; M1 Max MacBooks, plus AppleCare deals](https://appleinsider.com/articles/23/08/16/new-price-drops-save-up-to-1400-on-m1-pro-m1-max-macbooks-plus-applecare-deals?utm_medium=rss)
- - [Sources: Intel is expected to call off its planned $5.4B Tower acquisition, which had an August 15 deadline, as time to win Chinese regulatory approval runs out &lpar;Bloomberg&rpar;](http://www.techmeme.com/230815/p31#a230815p31)<!-- TECH:END -->
+ - [Pixel and iPhone engage in a little friendly competition in Google’s latest ad](https://www.androidauthority.com/google-pixel-vs-iphone-ad-soccer-football-3355421/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

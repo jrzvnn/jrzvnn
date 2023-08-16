@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
  - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 💣 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
+ - 👉 [Someone care to explain?](http://9gag.com/gag/avQDN35)<!-- MEMES:END -->
 
 ---
 </div>

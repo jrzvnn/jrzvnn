@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - 😝 [Bitter pill to swallow...](http://9gag.com/gag/aqedo1L)
+ - 😝 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
  - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
+ - 👉 [Abrupt chaos](http://9gag.com/gag/aREyYQB)<!-- MEMES:END -->
 
 ---
 </div>

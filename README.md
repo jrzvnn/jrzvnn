@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft 365 Copilot: Release date, feature and pricing](https://www.androidauthority.com/microsoft-365-copilot-release-date-3355464/)
- - [JD.com reports Q2 revenue up 7.6% YoY to ~$39.7B, beating ~$38.27B est., as retail sales rose just 2.5% YoY, below analyst estimates of 4.5% YoY; JD drops 4.5%+ &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230816/p12#a230816p12)
- - [Crash Detection guides help to critically-injured driver](https://appleinsider.com/articles/23/08/16/crash-detection-guides-help-to-critically-injured-driver?utm_medium=rss)
- - [Apple backtracks and moves the &quot;end call&quot; button back to the middle of the screen, from the bottom-right corner, in the latest iOS 17 beta &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230816/p11#a230816p11)
- - [Intel abandons chipmaking acquisition after failing to secure Chinese approval](https://www.theverge.com/2023/8/16/23834124/intel-tower-semiconductors-foundry-services-acquisition-failed-terminated)<!-- TECH:END -->
+ - [Sources: Foxconn&#39;s Tamil Nadu plant in India plans to deliver new iPhone 15s only weeks after Chinese factories; previously, output lagged China by 6-9 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230816/p14#a230816p14)
+ - [Apple&#39;s India expansion reaches a milestone as iPhone 15 production starts](https://appleinsider.com/articles/23/08/16/apples-india-expansion-reaches-a-milestone-as-iphone-15-production-starts?utm_medium=rss)
+ - [The iPhone 16 Pro could catch up to old Android phones with this upgrade](https://www.androidauthority.com/apple-iphone-16-pro-ultrawide-camera-upgrade-3355499/)
+ - [Tested: Snapdragon-powered Android phones just got a lot faster at ray tracing](https://www.androidauthority.com/ray-tracing-benchmarks-snapdragon-8-gen-2-vs-dimensity-9200-vs-exynos-2200-3355127/)
+ - [Documents: Google DeepMind has been working with generative AI to perform at least 21 different types of personal and professional tasks, including life advice &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230816/p13#a230816p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

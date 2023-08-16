@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
- - 😝 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)
- - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 😝 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
+ - 💣 [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
+ - 👉 [Abrupt chaos](http://9gag.com/gag/aREyYQB)<!-- MEMES:END -->
 
 ---
 </div>

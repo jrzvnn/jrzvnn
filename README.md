@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 💣 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)
+ - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 😝 [Abrupt chaos](http://9gag.com/gag/aREyYQB)
+ - 💣 [If you know, you know](http://9gag.com/gag/aDYPEDd)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
+ - 👉 [It&#39;s like a magic ward](http://9gag.com/gag/ajVdoZp)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sex Luthor. Everyone needs protection now](http://9gag.com/gag/a1Px3GP)
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 💣 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
  - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 💣 [New female weightlifting world record set by over 200 pounds by stunning and brave woman named Anne Andres. Step aside ladies, this is what a real woman looks like.](http://9gag.com/gag/aL1bZXz)
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
  - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
 
 ---

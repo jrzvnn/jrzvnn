@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
- - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
+ - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
  - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 😝 [We always know](http://9gag.com/gag/aA0mj19)
  - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---

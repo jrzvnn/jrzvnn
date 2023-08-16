@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 😝 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
- - 💣 [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)
+ - 😝 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)
+ - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [Abrupt chaos](http://9gag.com/gag/aREyYQB)<!-- MEMES:END -->
+ - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
 
 ---
 </div>

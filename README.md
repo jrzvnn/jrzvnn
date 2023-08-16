@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto key startup BitGo raised $100M at a $1.75B valuation from undisclosed US and Asian investors; Galaxy Digital scrapped a $1.2B BitGo acquisition in 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230816/p10#a230816p10)
  - [Coinbase says the exchange received regulatory approval from the CFTC-backed National Futures Association to offer futures trading services to eligible US users &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230816/p9#a230816p9)
  - [What Do My Screenshots and Selfies Actually Say About Me?](https://www.wired.com/story/what-do-my-screenshots-selfies-say-about-me/)
  - [The Twisted Pageantry of American Politics in One Photo](https://www.wired.com/story/depth-of-field-desantis-iowa-state-fair/)
- - [The World Isn’t Ready for the Next Decade of AI](https://www.wired.com/story/have-a-nice-future-podcast-18/)
- - [Vampire Survivors feels like a different game with a friend](https://www.theverge.com/23832998/vampire-survivors-co-op-nintendo-switch)<!-- TECH:END -->
+ - [The World Isn’t Ready for the Next Decade of AI](https://www.wired.com/story/have-a-nice-future-podcast-18/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

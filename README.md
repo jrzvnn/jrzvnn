@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
  - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
- - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
- - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
+ - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [We always know](http://9gag.com/gag/aA0mj19)
+ - 👉 [Someone care to explain?](http://9gag.com/gag/avQDN35)<!-- MEMES:END -->
 
 ---
 </div>

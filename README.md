@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
- - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
- - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
+ - 😝 [I know you guys hate single moms, but what do you think about this?](http://9gag.com/gag/ajVdeXq)
+ - 😝 [There is still hope](http://9gag.com/gag/avQDjzO)
+ - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
+ - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
+ - 👉 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)<!-- MEMES:END -->
 
 ---
 </div>

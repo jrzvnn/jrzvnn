@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bitter pill to swallow...](http://9gag.com/gag/aqedo1L)
- - 😝 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
- - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 😝 [Smart mokey...](http://9gag.com/gag/aqedP7Y)
+ - 💣 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [Abrupt chaos](http://9gag.com/gag/aREyYQB)<!-- MEMES:END -->
+ - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
 
 ---
 </div>

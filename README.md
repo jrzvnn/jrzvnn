@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrossOver update brings EA and DirectX 12 game support to Mac](https://appleinsider.com/articles/23/08/16/crossover-update-brings-ea-and-directx-12-game-support-to-mac?utm_medium=rss)
+ - [What Armchair Expert and Anything Goes teach us about Spotify’s exclusive podcasts](https://www.theverge.com/23833681/armchair-expert-anything-goes-exclusive-podcasts-spotify-gimlet-parcast-emma-chamberlain-dax-shepard)
  - [An OSHA investigation and 11 interviews: Amazon&#39;s in-house first aid clinics put warehouse staff at risk by keeping them working and not referring them to care &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/230816/p23#a230816p23)
  - [Quick fix: restore Chrome download notifications to the bottom of the page](https://www.theverge.com/23834353/chrome-download-flag-how-to)
- - [Soon you’ll need Wear OS 3 to run Google Assistant](https://www.theverge.com/2023/8/16/23834171/wear-os-2-google-assistant-support)
- - [&#39;Baby Steps&#39;: We Can&#39;t Wait for This Failure-to-Launch Adventure](https://www.wired.com/story/baby-steps-failure-to-launch-2024/)
- - [Two directors quit Nextdoor after the DOJ raised concerns over also serving on Pinterest&#39;s board; filing says Leslie Kilgore and Andrea Wishom left on August 1 &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230816/p22#a230816p22)<!-- TECH:END -->
+ - [Soon you’ll need Wear OS 3 to run Google Assistant](https://www.theverge.com/2023/8/16/23834171/wear-os-2-google-assistant-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI bought the makers of a Minecraft clone](https://www.theverge.com/2023/8/16/23834645/openai-global-illumination-acquisition-minecraft-clone-chatgpt)
  - [The UK plans to host an AI summit in November 2023 with &quot;like-minded&quot; countries, academics, and executives from DeepMind, Microsoft, OpenAI, Anthropic, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230816/p25#a230816p25)
  - [See how heat-related illness spiked in the US this summer](https://www.theverge.com/2023/8/16/23834252/heatwave-illness-er-visits-data-map)
  - [NYC bans TikTok on city-owned devices](https://www.theverge.com/2023/8/16/23834579/nyc-tiktok-ban-new-york-china-surveillance-spy)
- - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
- - [Blue Beetle is the kitschy sort of superhero throwback DC should have been making years ago](https://www.theverge.com/23833475/blue-beetle-movie-review)<!-- TECH:END -->
+ - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
+ - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
  - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 💣 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
- - 👉 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)<!-- MEMES:END -->
+ - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
 
 ---
 </div>

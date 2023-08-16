@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
- - 😝 [One way ticket please!](http://9gag.com/gag/aWGdr9A)
+ - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 😝 [If you remember her, you probably have a bad back by now](http://9gag.com/gag/az2ByDB)
  - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
  - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
  - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->

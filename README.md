@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3D printer nightmare fuel: Bambu X1C and P1P started printing while owners were asleep](https://www.theverge.com/2023/8/16/23064592/bambu-print-asleep-cloud-outage)
  - [Amazon will reportedly charge sellers an extra fee for shipping their own products](https://www.theverge.com/2023/8/16/23834653/amazon-seller-fees-shipping-fulfillment)
- - [Sources: Eric Schmidt is building an organization to tackle scientific challenges with the help of AI, with funding coming mostly from his own personal wealth &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230816/p27#a230816p27)
+ - [Sources: Eric Schmidt is building an organization, modeled on OpenAI, to tackle scientific challenges using AI&#39;s help; most of the funding comes from his wealth &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230816/p27#a230816p27)
  - [Linus Tech Tips pauses production as controversy swirls](https://www.theverge.com/2023/8/16/23834190/linus-tech-tips-gamersnexus-madison-reeves-controversy)
- - [Android’s Nearby Share may actually become a worthy AirDrop competitor](https://www.androidauthority.com/new-android-nearby-share-feature-3355603/)
- - [The Associated Press sets AI guidelines for journalists](https://www.theverge.com/2023/8/16/23834586/associated-press-ai-guidelines-journalists-openai)<!-- TECH:END -->
+ - [Android’s Nearby Share may actually become a worthy AirDrop competitor](https://www.androidauthority.com/new-android-nearby-share-feature-3355603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

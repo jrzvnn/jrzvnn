@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know you guys hate single moms, but what do you think about this?](http://9gag.com/gag/ajVdeXq)
- - 😝 [There is still hope](http://9gag.com/gag/avQDjzO)
- - 💣 [This man knows his job](http://9gag.com/gag/aREydr2)
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 👉 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)<!-- MEMES:END -->
+ - 😝 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)
+ - 😝 [One way ticket please!](http://9gag.com/gag/aWGdr9A)
+ - 💣 [Oh God, this is all we need.](http://9gag.com/gag/ajVdvBQ)
+ - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 👉 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)<!-- MEMES:END -->
 
 ---
 </div>

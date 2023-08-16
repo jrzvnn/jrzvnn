@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Toggling Bluetooth in iPhone Control Center doesn’t do what you likely think](https://www.androidauthority.com/psa-toggling-bluetooth-in-iphone-control-center-doesnt-do-what-you-likely-think-3355583/)
- - [Documents: Amazon plans to impose a new 2% fee per sale on merchants who ship products themselves, on top of the ~15% fee they already pay, starting in October &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p24#a230816p24)
- - [Galaxy S23 update finally fixes ‘banana blur’ camera issue, adds 2x zoom](https://www.androidauthority.com/samsung-galaxy-s23-camera-fixes-3355565/)
- - [Urbanista turns its solar-powered smarts to a Bluetooth speaker](https://www.theverge.com/2023/8/16/23834467/urbanista-malibu-solar-powered-bluetooth-speaker-price-release-dates-specs-details)
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [The Verge’s 2023 back-to-school gift guide](https://www.theverge.com/23800225/back-to-school-student-gifts-college-high-school-dorm-ideas-2023)
+ - [Blue Beetle is the kitschy sort of superhero throwback DC should have been making years ago](https://www.theverge.com/23833475/blue-beetle-movie-review)
+ - [CrossOver update brings EA and DirectX 12 game support to Mac](https://appleinsider.com/articles/23/08/16/crossover-update-brings-ea-and-directx-12-game-support-to-mac?utm_medium=rss)
+ - [Microsoft Teams is now part of the Xbox Game Bar so you can stream gameplay to friends](https://www.theverge.com/2023/8/16/23834413/microsoft-teams-xbox-game-bar-live-stream-feature)
+ - [Probable iPhone 15 spotted on India regulatory database](https://appleinsider.com/articles/23/08/16/probable-iphone-15-spotted-on-india-regulatory-database?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

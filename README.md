@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 😝 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)
- - 💣 [Oh no! It&#39;s fappening again!](http://9gag.com/gag/anzdoGV)
+ - 😝 [Abrupt chaos](http://9gag.com/gag/aREyYQB)
+ - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 💣 [If you know, you know](http://9gag.com/gag/aDYPEDd)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
+ - 👉 [It&#39;s like a magic ward](http://9gag.com/gag/ajVdoZp)<!-- MEMES:END -->
 
 ---
 </div>

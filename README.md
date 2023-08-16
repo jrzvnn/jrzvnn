@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hollywood, Florida-based ClassWallet, which offers a digital wallet-based purchasing and reimbursement service for public funds, raised $95M led by Guidepost &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/230815/p29#a230815p29)
+ - [Apple moved the end call button again in iOS 17](https://www.theverge.com/2023/8/15/23833689/apple-ios-17-end-call-button-moved-again-beta)
  - [Amazon Music Unlimited is getting more expensive for Prime subscribers](https://www.theverge.com/2023/8/15/23833756/amazon-music-unlimited-price-prime-subscribers)
- - [One UI 5.1.1 and One UI 5 Watch rolling out to even more Galaxy devices](https://www.androidauthority.com/latest-one-ui-update-arrives-on-galaxy-devices-3355302/)
- - [Users of XPro, previously TweetDeck, report encountering paywalls to use the service; X said on July 3 that &quot;in 30 days&quot; XPro would be a subscriber-only feature &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230815/p28#a230815p28)
- - [Save up to $1,579 on Apple products this week during B&amp;H&#39;s latest sale](https://appleinsider.com/articles/23/08/15/save-up-to-1579-on-apple-products-this-week-during-bhs-latest-sale?utm_medium=rss)
- - [TweetDeck is officially becoming a paid service](https://www.theverge.com/2023/8/15/23833707/tweetdeck-xpro-paid-service-x-premium-twitter)<!-- TECH:END -->
+ - [Comcast&#39;s New Router Stays Connected During Power Outages     - CNET](https://www.cnet.com/home/internet/comcasts-new-router-stays-connected-during-power-outages/#ftag=CAD590a51e)
+ - [One UI 5.1.1 and One UI 5 Watch rolling out to even more Galaxy devices](https://www.androidauthority.com/latest-one-ui-update-arrives-on-galaxy-devices-3355302/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 😝 [A man has the chance to say a few words to the killer of his mother](http://9gag.com/gag/aL1bZ8A)
- - 💣 [I needed to repost this](http://9gag.com/gag/aGEovDG)
- - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - 👉 [How the invasion is going](http://9gag.com/gag/a3ZxgD5)<!-- MEMES:END -->
+ - 😝 [I needed to repost this](http://9gag.com/gag/aGEovDG)
+ - 😝 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)
+ - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
+ - 😝 [No Jaywalking!](http://9gag.com/gag/aKELRw3)
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Authors Guild, American Booksellers Association, and Open Markets Institute urge the DOJ and the FTC to investigate Amazon&#39;s &quot;monopoly&quot; in the book market &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/230816/p16#a230816p16)
+ - [Filing: Samsung Electronics sold ~3.55M ASML shares from April-June 2023, lowering its holding from 1.6% to 0.7%, or 2.75M shares, and reportedly raising ~$2.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p15#a230816p15)
  - [Sources: Foxconn&#39;s Tamil Nadu plant in India plans to deliver new iPhone 15s only weeks after Chinese factories; previously, output lagged China by 6-9 months &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230816/p14#a230816p14)
  - [Apple&#39;s India expansion reaches a milestone as iPhone 15 production starts](https://appleinsider.com/articles/23/08/16/apples-india-expansion-reaches-a-milestone-as-iphone-15-production-starts?utm_medium=rss)
- - [The iPhone 16 Pro could catch up to old Android phones with this upgrade](https://www.androidauthority.com/apple-iphone-16-pro-ultrawide-camera-upgrade-3355499/)
- - [Tested: Snapdragon-powered Android phones just got a lot faster at ray tracing](https://www.androidauthority.com/ray-tracing-benchmarks-snapdragon-8-gen-2-vs-dimensity-9200-vs-exynos-2200-3355127/)
- - [Documents: Google DeepMind has been working with generative AI to perform at least 21 different types of personal and professional tasks, including life advice &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230816/p13#a230816p13)<!-- TECH:END -->
+ - [The iPhone 16 Pro could catch up to old Android phones with this upgrade](https://www.androidauthority.com/apple-iphone-16-pro-ultrawide-camera-upgrade-3355499/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

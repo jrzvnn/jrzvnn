@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s AI recommends the Ottawa Food Bank as a tourist destination](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
+ - [Apple Watch Cardio Fitness notifications help healthy man identify major heart issue](https://appleinsider.com/articles/23/08/17/apple-watch-cardio-fitness-notifications-help-healthy-man-identify-major-heart-issue?utm_medium=rss)
+ - [Internal doc: Spotify weighed removing white noise podcasts and redirecting users to &quot;talk&quot; content, which would boost the company&#39;s annual gross profit by &amp;euro;35M &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230817/p31#a230817p31)
  - [Google creates ‘Transparency Center’ hub for its product policies](https://www.androidauthority.com/google-policies-transparency-center-3355904/)
- - [First cash price drop on the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-first-deal-3355909/)
- - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Amazon tests new star ratings that are even harder to read](https://www.theverge.com/2023/8/17/23836062/amazon-new-five-star-ratings-system-hard-to-read)
- - [Someday you might be able to use your Android TV as a Bluetooth speaker](https://www.androidauthority.com/android-tv-bluetooth-speaker-3355902/)<!-- TECH:END -->
+ - [First cash price drop on the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-first-deal-3355909/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We always know](http://9gag.com/gag/aA0mj19)
- - 😝 [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
- - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 😝 [Save the Children](http://9gag.com/gag/avQX20X)
+ - 💣 [If you know, you know](http://9gag.com/gag/aDYPEDd)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)<!-- MEMES:END -->
+ - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
 
 ---
 </div>

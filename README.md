@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
  - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)<!-- MEMES:END -->
+ - 👉 [He got him hard.](http://9gag.com/gag/aeQdvBv)<!-- MEMES:END -->
 
 ---
 </div>

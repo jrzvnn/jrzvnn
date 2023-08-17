@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So I posted this yesterday and got deleted. Let&#39;s fight for freedom of speech on this platform. Bl*ack market in Africa](http://9gag.com/gag/a04x2bd)
- - 😝 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
- - 💣 [Face your fears!](http://9gag.com/gag/aBdNRQQ)
+ - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 😝 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)
+ - 💣 [Save the Children](http://9gag.com/gag/avQX20X)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)<!-- MEMES:END -->
+ - 👉 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)<!-- MEMES:END -->
 
 ---
 </div>

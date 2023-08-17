@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
- - 😝 [Nice](http://9gag.com/gag/a2KxBn1)
+ - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
  - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
+ - 😝 [We always know](http://9gag.com/gag/aA0mj19)
+ - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
 </div>

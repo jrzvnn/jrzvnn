@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google creates ‘Transparency Center’ hub for its product policies](https://www.androidauthority.com/google-policies-transparency-center-3355904/)
  - [First cash price drop on the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-first-deal-3355909/)
  - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Amazon tests new star ratings that are even harder to read](https://www.theverge.com/2023/8/17/23836062/amazon-new-five-star-ratings-system-hard-to-read)
- - [Someday you might be able to use your Android TV as a Bluetooth speaker](https://www.androidauthority.com/android-tv-bluetooth-speaker-3355902/)
- - [Nonprofit Garbo plans to drop its background checking tool used by Match Group&#39;s apps on August 31, saying most tech companies &quot;see trust and safety as good PR&quot; &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p30#a230817p30)<!-- TECH:END -->
+ - [Someday you might be able to use your Android TV as a Bluetooth speaker](https://www.androidauthority.com/android-tv-bluetooth-speaker-3355902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

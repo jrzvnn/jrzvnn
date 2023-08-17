@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft will let you uninstall more built-in Windows 11 apps soon for less bloat](https://www.theverge.com/2023/8/17/23835550/microsoft-windows-11-uninstall-built-in-inbox-apps)
+ - [10 Facts That Prove the World Is in a Climate Emergency](https://www.wired.com/story/climate-change-facts/)
  - [Snap confirms and fixes a My AI glitch that caused the chatbot to post its own Story and then stop responding to users&#39; messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230817/p15#a230817p15)
  - [Use of AI Is Seeping Into Academic Journals—and It’s Proving Difficult to Detect](https://www.wired.com/story/use-of-ai-is-seeping-into-academic-journals-and-its-proving-difficult-to-detect/)
- - [Office Small Talk Is Excruciating. It Doesn&#39;t Have to Be](https://www.wired.com/story/how-to-make-small-talk-hybrid-office/)
- - [Solidus Labs: between mid-July and August, developers deployed 500+ scam tokens on Coinbase&#39;s Base blockchain; around 300 let the creators mint unlimited tokens &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230817/p14#a230817p14)
- - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)<!-- TECH:END -->
+ - [Office Small Talk Is Excruciating. It Doesn&#39;t Have to Be](https://www.wired.com/story/how-to-make-small-talk-hybrid-office/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

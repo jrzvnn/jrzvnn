@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
  - 💣 [We always know](http://9gag.com/gag/aA0mj19)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)<!-- MEMES:END -->
+ - 👉 [Long post warning](http://9gag.com/gag/a1PxG6w)<!-- MEMES:END -->
 
 ---
 </div>

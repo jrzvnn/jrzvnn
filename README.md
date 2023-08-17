@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shows off a first look at its Godzilla series Monarch: Legacy of Monsters](https://www.theverge.com/2023/8/17/23834897/monarch-legacy-of-monsters-godzilla-apple-tv-plus)
+ - [You can already save $10 on a Starfield preorder for either PC or Xbox](https://www.theverge.com/2023/8/17/23834195/starfield-preorder-xbox-pc-anker-soundcore-earbuds-logitech-litra-deal-sale)
+ - [Apple won&#39;t release leather iPhone 15 cases, claims leaker](https://appleinsider.com/articles/23/08/17/apple-wont-release-leather-iphone-15-cases-claims-leaker?utm_medium=rss)
  - [Poll: Android Auto, Apple CarPlay, or your car’s infotainment, what do you use?](https://www.androidauthority.com/car-infotainment-system-poll-3355770/)
- - [Microsoft plans to close the Xbox 360 Store and Xbox 360 Marketplace on July 29, 2024, meaning users will not be able to buy new games, DLC, avatars, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230817/p21#a230817p21)
- - [Microsoft’s Xbox 360 Store to close in July 2024](https://www.theverge.com/2023/8/17/23835636/microsoft-xbox-360-store-closure-july-2024)
- - [AMD is gearing up to reveal new Radeon GPUs next week](https://www.theverge.com/2023/8/17/23835592/amd-radeon-gamescom-reveal)
- - [Samsung Good Lock guide: The must-have toolkit for your Galaxy phone](https://www.androidauthority.com/samsung-good-lock-1079882/)<!-- TECH:END -->
+ - [Microsoft plans to close the Xbox 360 Store and Xbox 360 Marketplace on July 29, 2024, meaning users will not be able to buy new games, DLC, avatars, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230817/p21#a230817p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

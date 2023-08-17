@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer’s new BlackWidow V4 75 could be a great starter mechanical keyboard](https://www.theverge.com/2023/8/17/23836326/razer-blackwidow-v4-75-mechanical-keyboard-hot-swappable-switches)
  - [Filing: NYC-based AI startup Elemental Cognition raised nearly $60M; AI researcher David Ferrucci, who led the team behind IBM Watson, founded Elemental in 2015 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230817/p34#a230817p34)
  - [A key feature of NFTs has completely broken](https://www.theverge.com/2023/8/17/23836440/nft-creator-royalty-fees-are-dead-opensea-optional)
  - [A group of crypto investors and developers loses its Coinbase-funded lawsuit arguing that the US Treasury overstepped its authority in sanctioning Tornado Cash &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230817/p33#a230817p33)
- - [Microsoft pulls AI-written article telling tourists to visit the Ottawa Food Bank](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
- - [Spotify reportedly has a $38 million white noise problem](https://www.theverge.com/2023/8/17/23836403/spotify-podcasts-white-noise-algorithmproblem)<!-- TECH:END -->
+ - [Microsoft pulls AI-written article telling tourists to visit the Ottawa Food Bank](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

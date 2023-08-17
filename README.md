@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First cash price drop on the Samsung Galaxy Z Flip 5](https://www.androidauthority.com/samsung-galaxy-z-flip-5-first-deal-3355909/)
+ - [The 15 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Amazon tests new star ratings that are even harder to read](https://www.theverge.com/2023/8/17/23836062/amazon-new-five-star-ratings-system-hard-to-read)
  - [Someday you might be able to use your Android TV as a Bluetooth speaker](https://www.androidauthority.com/android-tv-bluetooth-speaker-3355902/)
- - [Nonprofit Garbo shuts down its background checking tool used in Match Group dating apps and says &quot;most tech companies just see trust and safety as good PR&quot; &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p30#a230817p30)
- - [Apple fixes location permissions issue with macOS 13.5.1 update](https://appleinsider.com/articles/23/08/17/apple-fixes-location-permissions-issue-with-macos-1351-update?utm_medium=rss)
- - [The Nvidia Chromebook dream is no more](https://www.theverge.com/2023/8/17/23835797/google-chromebooks-nvidia-canceled)<!-- TECH:END -->
+ - [Nonprofit Garbo plans to drop its background checking tool used by Match Group&#39;s apps on August 31, saying most tech companies &quot;see trust and safety as good PR&quot; &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p30#a230817p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

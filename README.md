@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Counterpoint: global smartphone shipments to drop 6% YoY to 1.15B units in 2023, the lowest level since 2013, due to worsening China economy and poor US demand &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230817/p6#a230817p6)
+ - [Fake Meat Is Bleeding, but It’s Not Dead Yet](https://www.wired.com/story/beyond-plant-based-meat/)
  - [Inside Def Con AI Village 2023, which attracted 2,200 people competing in a White House-backed challenge to find vulnerabilities in popular generative AI models &lpar;New York Times&rpar;](http://www.techmeme.com/230817/p5#a230817p5)
  - [Your brand new Samsung Galaxy Z Fold 5 is getting an update!](https://www.androidauthority.com/samsung-galaxy-z-fold-5-updates-3355692/)
- - [Internal presentation: Alphabet&#39;s Verily is planning more cost cuts after posting wider than expected operating losses on $280M revenue through June in 2023 &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p4#a230817p4)
- - [Samsung Galaxy Z Flip 5 updates: First software update rolling out in the US](https://www.androidauthority.com/samsung-galaxy-z-flip-5-updates-3355689/)
- - [Leaked images reveal Lenovo&#39;s Legion Go, a Windows 11-based gaming handheld that appears to combine features of Steam Deck, Asus ROG Ally, and Nintendo Switch &lpar;Vlad Turiceanu/Windows Report&rpar;](http://www.techmeme.com/230817/p3#a230817p3)<!-- TECH:END -->
+ - [Internal presentation: Alphabet&#39;s Verily is planning more cost cuts after posting wider than expected operating losses on $280M revenue through June in 2023 &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p4#a230817p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

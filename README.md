@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap confirms and fixes a My AI glitch that caused the chatbot to post its own Story and then stop responding to users&#39; messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230817/p15#a230817p15)
+ - [Use of AI Is Seeping Into Academic Journals—and It’s Proving Difficult to Detect](https://www.wired.com/story/use-of-ai-is-seeping-into-academic-journals-and-its-proving-difficult-to-detect/)
+ - [Office Small Talk Is Excruciating. It Doesn&#39;t Have to Be](https://www.wired.com/story/how-to-make-small-talk-hybrid-office/)
  - [Solidus Labs: between mid-July and August, developers deployed 500+ scam tokens on Coinbase&#39;s Base blockchain; around 300 let the creators mint unlimited tokens &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230817/p14#a230817p14)
- - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)
- - [Apple Podcasts removed &#39;The Glenn Beck Program&#39; likely over technical error](https://appleinsider.com/articles/23/08/16/apple-podcasts-removes-the-glenn-beck-program-likely-over-technical-error?utm_medium=rss)
- - [European payments company Adyen reports H1 2023 net revenue up 21% YoY to &amp;euro;739.1M, below &amp;euro;754M est., &amp;euro;320M EBITA, below &amp;euro;365M est., and defends hiring 551 staff &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230817/p13#a230817p13)
- - [Samsung confirmed it’s working on a foldable tablet and everyone missed it!](https://www.androidauthority.com/samsung-foldable-tablet-confirmation-3355727/)<!-- TECH:END -->
+ - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

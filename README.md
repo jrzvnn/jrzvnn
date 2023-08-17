@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at studies saying LK-99 is not a superconductor and that impurities in the material were responsible for its superconducting-like behaviors &lpar;Dan Garisto/Nature&rpar;](http://www.techmeme.com/230816/p34#a230816p34)
  - [Shiba Inu&#39;s Ethereum layer-2 network Shibarium, which hopes to lure users with low fees to an ecosystem focused on financial services and gaming, goes live &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230816/p33#a230816p33)
  - [OpenAI acquires New York-based AI design studio Global Illumination, marking the company&#39;s first public acquisition; the terms of the deal weren&#39;t disclosed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230816/p32#a230816p32)
  - [The best Samsung Galaxy Watch 6 Classic cases](https://www.androidauthority.com/best-samsung-galaxy-watch-6-classic-cases-3355388/)
- - [Leaked images reveal Lenovo’s Steam Deck competitor with a hint of the Switch](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
- - [NYC-based Highlight, which helps brands automate, track, and scale physical product testing, raised an $18M Series A led by Acre Venture Partners and HearstLab &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230816/p31#a230816p31)<!-- TECH:END -->
+ - [Leaked images reveal Lenovo’s Steam Deck competitor with a hint of the Switch](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Ramp, which offers credit cards and expense management software, is raising funding at a $5.5B valuation, a 32% cut to its $8.1B valuation from 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230817/p24#a230817p24)
  - [Apple reportedly won’t make leather cases for the iPhone 15](https://www.theverge.com/2023/8/17/23835829/apple-iphone-15-pro-leather-cases)
  - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)
  - [Satechi&#39;s new USB-C dock adds ports and lifts your MacBooks](https://appleinsider.com/articles/23/08/17/satechis-new-usb-c-dock-adds-ports-and-lifts-your-macbooks?utm_medium=rss)
- - [Samsung’s second-gen Freestyle projector is now available — and it’s still overpriced](https://www.theverge.com/2023/8/17/23835667/samsung-freestyle-gen-2-portable-projector-now-available)
- - [WhatsApp rolls out support for HD photos globally on Android, iOS, and the web, and says it plans to add support for HD videos soon &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230817/p23#a230817p23)<!-- TECH:END -->
+ - [Samsung’s second-gen Freestyle projector is now available — and it’s still overpriced](https://www.theverge.com/2023/8/17/23835667/samsung-freestyle-gen-2-portable-projector-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

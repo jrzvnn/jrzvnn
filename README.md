@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to discontinue Azure Kinect Developer Kit, a depth-sensing camera it released in 2019, in October 2023 &lpar;John Callaham/Neowin&rpar;](http://www.techmeme.com/230817/p29#a230817p29)
- - [Microsoft could announce new Surface devices next month](https://www.androidauthority.com/microsoft-surface-special-event-3355861/)
- - [Elon Musk is killing ‘Environmental Twitter’](https://www.theverge.com/2023/8/17/23835629/elon-musk-environmental-twitter-abandons-x)
- - [Acura ZDX is a Google-powered premium EV with 325 miles of range and a $60K price tag](https://www.theverge.com/2023/8/17/23835950/acura-zdx-ev-price-specs-photos-google-honda)
- - [Microsoft plans to hold a &quot;special event&quot; in New York City on September 21, 2023, likely to announce Surface hardware, including Laptop Studio 2 and Laptop Go 3 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230817/p28#a230817p28)<!-- TECH:END -->
+ - [Google Maps will stop showing gas stations to EV owners](https://www.theverge.com/2023/8/17/23835910/google-built-in-maps-ev-charger-android-auto-no-gas-station)
+ - [The Sony WH-CH720N offers many features of the XM5 at $300 less](https://www.androidauthority.com/sony-wh-ch720n-deal-3355881/)
+ - [My Baldur’s Gate 3 perfectionism is killing me](https://www.theverge.com/2023/8/17/23834516/baldurs-gate-3-choices-narrative-perfectionism)
+ - [Call of Duty: Modern Warfare III unveiled with first trailer](https://www.theverge.com/23834700/call-of-duty-modern-warfare-3-trailer-date-details)
+ - [Microsoft plans to discontinue Azure Kinect Developer Kit, a depth-sensing camera it released in 2019, in October 2023 &lpar;John Callaham/Neowin&rpar;](http://www.techmeme.com/230817/p29#a230817p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

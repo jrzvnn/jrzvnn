@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arthur launches Arthur Bench, an open-source tool for comparing the performance of LLMs, like OpenAI&#39;s GPT-3.5 Turbo and Meta&#39;s Llama 2, for specific use cases &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230817/p32#a230817p32)
  - [Apple Card earns J.D. Power&#39;s top spot for co-branded credit card with no annual fee](https://appleinsider.com/articles/23/08/17/apple-card-earns-jd-powers-top-spot-for-co-branded-credit-card-with-no-annual-fee?utm_medium=rss)
  - [iPhone 15 charging speed could beat Pixel 8’s](https://www.androidauthority.com/iphone-15-rumored-charging-speed-3355927/)
- - [What is an APU processor and how does it differ vs. a CPU?](https://www.androidauthority.com/what-is-an-apu-3355930/)
- - [Match Group will no longer offer background checks on Tinder and other dating apps](https://www.theverge.com/2023/8/17/23836215/match-group-tinder-background-checks-garbo-partnership-end)
- - [Microsoft’s AI recommends the Ottawa Food Bank as a tourist destination](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)<!-- TECH:END -->
+ - [Microsoft Surface Laptop 6: Release date, price, specs, rumors, and what we know](https://www.androidauthority.com/microsoft-surface-laptop-6-3352642/)
+ - [What is an APU processor and how does it differ vs. a CPU?](https://www.androidauthority.com/what-is-an-apu-3355930/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

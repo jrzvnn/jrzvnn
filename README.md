@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 😝 [We always know](http://9gag.com/gag/aA0mj19)
- - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 👉 [Scarred for life](http://9gag.com/gag/aQErLV2)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/aGEo3z6)
+ - 😝 [Must&#39;ve drove her nuts!](http://9gag.com/gag/aoKdXq0)
+ - 💣 [But... I want to.](http://9gag.com/gag/ay2zggM)
+ - 😝 [Keep hydrated](http://9gag.com/gag/aVbdn6M)
+ - 👉 [Reparations](http://9gag.com/gag/armdPQ5)<!-- MEMES:END -->
 
 ---
 </div>

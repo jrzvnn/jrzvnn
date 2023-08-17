@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Android Auto, Apple CarPlay, or your car’s infotainment, what do you use?](https://www.androidauthority.com/car-infotainment-system-poll-3355770/)
+ - [Microsoft plans to close the Xbox 360 Store and Xbox 360 Marketplace on July 29, 2024, meaning users will not be able to buy new games, DLC, avatars, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230817/p21#a230817p21)
  - [Microsoft’s Xbox 360 Store to close in July 2024](https://www.theverge.com/2023/8/17/23835636/microsoft-xbox-360-store-closure-july-2024)
  - [AMD is gearing up to reveal new Radeon GPUs next week](https://www.theverge.com/2023/8/17/23835592/amd-radeon-gamescom-reveal)
- - [Samsung Good Lock guide: The must-have toolkit for your Galaxy phone](https://www.androidauthority.com/samsung-good-lock-1079882/)
- - [Sei launches its trading-focused blockchain and SEI reaches $1.6B trading volume in the first 24 hours, per CoinMarketCap; many users criticized SEI&#39;s airdrop &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230817/p20#a230817p20)
- - [The Best Hiking Gear &lpar;2023&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)<!-- TECH:END -->
+ - [Samsung Good Lock guide: The must-have toolkit for your Galaxy phone](https://www.androidauthority.com/samsung-good-lock-1079882/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

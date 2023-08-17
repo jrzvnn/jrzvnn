@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
- - 😝 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
- - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - 😝 [We always know](http://9gag.com/gag/aA0mj19)
+ - 😝 [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
+ - 💣 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Someone care to explain?](http://9gag.com/gag/avQDN35)<!-- MEMES:END -->
+ - 👉 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)<!-- MEMES:END -->
 
 ---
 </div>

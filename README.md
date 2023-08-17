@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
- - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
- - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 😝 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 💣 [We always know](http://9gag.com/gag/aA0mj19)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
  - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---

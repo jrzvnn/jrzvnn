@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reportedly won’t make leather cases for the iPhone 15](https://www.theverge.com/2023/8/17/23835829/apple-iphone-15-pro-leather-cases)
+ - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)
  - [Satechi&#39;s new USB-C dock adds ports and lifts your MacBooks](https://appleinsider.com/articles/23/08/17/satechis-new-usb-c-dock-adds-ports-and-lifts-your-macbooks?utm_medium=rss)
  - [Samsung’s second-gen Freestyle projector is now available — and it’s still overpriced](https://www.theverge.com/2023/8/17/23835667/samsung-freestyle-gen-2-portable-projector-now-available)
- - [WhatsApp rolls out support for HD photos globally on Android, iOS, and the web, and says it plans to add support for HD videos soon &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230817/p23#a230817p23)
- - [Apple shares more details about live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)
- - [Daily Deals Aug. 17:  $100 off iPad Pro, Apple Pencil $89, Samsung smartphones from $149, more](https://appleinsider.com/articles/23/08/17/daily-deals-aug-17-100-off-ipad-pro-apple-pencil-89-samsung-smartphones-from-149-more?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp rolls out support for HD photos globally on Android, iOS, and the web, and says it plans to add support for HD videos soon &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230817/p23#a230817p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

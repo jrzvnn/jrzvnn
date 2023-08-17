@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A group of crypto investors and developers loses its Coinbase-funded lawsuit arguing that the US Treasury overstepped its authority in sanctioning Tornado Cash &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230817/p33#a230817p33)
  - [Microsoft pulls AI-written article telling tourists to visit the Ottawa Food Bank](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
  - [Spotify reportedly has a $38 million white noise problem](https://www.theverge.com/2023/8/17/23836403/spotify-podcasts-white-noise-algorithmproblem)
  - [Arthur launches Arthur Bench, an open-source tool for comparing the performance of LLMs, like OpenAI&#39;s GPT-3.5 Turbo and Meta&#39;s Llama 2, for specific use cases &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230817/p32#a230817p32)
- - [Apple Card earns J.D. Power&#39;s top spot for co-branded credit card with no annual fee](https://appleinsider.com/articles/23/08/17/apple-card-earns-jd-powers-top-spot-for-co-branded-credit-card-with-no-annual-fee?utm_medium=rss)
- - [iPhone 15 charging speed could beat Pixel 8’s](https://www.androidauthority.com/iphone-15-rumored-charging-speed-3355927/)<!-- TECH:END -->
+ - [Apple Card earns J.D. Power&#39;s top spot for co-branded credit card with no annual fee](https://appleinsider.com/articles/23/08/17/apple-card-earns-jd-powers-top-spot-for-co-branded-credit-card-with-no-annual-fee?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

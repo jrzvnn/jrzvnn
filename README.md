@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp will let users send ‘HD’ photos](https://www.theverge.com/2023/8/17/23835641/whatsapp-hd-photo-video-compression)
  - [&#39;Fake Airplane Mode&#39; makes iPhone look offline to user, while an attacker stays connected](https://appleinsider.com/articles/23/08/17/fake-airplane-mode-makes-iphone-look-offline-to-user-while-an-attacker-stays-connected?utm_medium=rss)
  - [Samsung Galaxy Tab S9 family review: easier choices](https://www.theverge.com/23835595/samsung-galaxy-tab-s9-plus-ultra-tablet-review)
  - [The Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [Apple announces live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)
- - [Apple says The Glenn Beck Program was removed from Apple Podcasts because of a trademark dispute that has since been resolved &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230817/p22#a230817p22)<!-- TECH:END -->
+ - [Apple announces live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

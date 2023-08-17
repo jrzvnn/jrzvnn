@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shiba Inu&#39;s Ethereum layer-2 network Shibarium, which hopes to lure users with low fees to an ecosystem focused on financial services and gaming, goes live &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230816/p33#a230816p33)
  - [OpenAI acquires New York-based AI design studio Global Illumination, marking the company&#39;s first public acquisition; the terms of the deal weren&#39;t disclosed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230816/p32#a230816p32)
  - [The best Samsung Galaxy Watch 6 Classic cases](https://www.androidauthority.com/best-samsung-galaxy-watch-6-classic-cases-3355388/)
  - [Leaked images reveal Lenovo’s Steam Deck competitor with a hint of the Switch](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
- - [NYC-based Highlight, which helps brands automate, track, and scale physical product testing, raised an $18M Series A led by Acre Venture Partners and HearstLab &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230816/p31#a230816p31)
- - [21 Harry Potter Gifts Perfect for Back to Hogwarts Day     - CNET](https://www.cnet.com/culture/entertainment/21-harry-potter-gifts-perfect-for-back-to-hogwarts-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Highlight, which helps brands automate, track, and scale physical product testing, raised an $18M Series A led by Acre Venture Partners and HearstLab &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230816/p31#a230816p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

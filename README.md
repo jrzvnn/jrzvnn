@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upcoming flagship phones could be costlier than ever](https://www.androidauthority.com/upcoming-flagships-more-expensive-3355705/)
  - [HMD’s repairable Nokia phone initiative lands stateside](https://www.theverge.com/2023/8/17/23835512/hmd-nokia-g310-price-release-date-specs-feature)
  - [A number of cyber security professionals called in by companies and governments to tackle organized hacking groups say their work is attracting physical threats &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230817/p11#a230817p11)
  - [Effective global governance of AI doesn&#39;t stand a chance without collaboration with tech companies and policymakers agreeing on basic AI governance principles &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/230817/p10#a230817p10)
- - [We asked, you told us: 128GB of storage definitely isn’t enough for flagships](https://www.androidauthority.com/128gb-storage-flagship-phone-poll-results-3355703/)
- - [You can now self-repair your Pixel 7a](https://www.androidauthority.com/google-pixel-7a-self-repair-3355704/)<!-- TECH:END -->
+ - [We asked, you told us: 128GB of storage definitely isn’t enough for flagships](https://www.androidauthority.com/128gb-storage-flagship-phone-poll-results-3355703/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

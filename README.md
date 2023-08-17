@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
  - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - 💣 [Oh no! It&#39;s fappening again!](http://9gag.com/gag/anzdoGV)
- - 😝 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)
- - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
+ - 💣 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)
+ - 😝 [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 </div>

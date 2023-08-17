@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Databricks had a total loss of ~$900M in its last two fiscal years, including $380M in the year ending in January 2023, and is close to break even &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230817/p27#a230817p27)
+ - [Slack is having major issues](https://www.theverge.com/2023/8/17/23835971/slack-major-issues-outage-send-messages)
  - [Llion Jones, who co-authored Google&#39;s pioneering transformer paper, launches Sakana AI alongside David Ha, the former head of Google&#39;s AI research arm in Japan &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230817/p26#a230817p26)
  - [Netflix is sending its DVD subscribers 10 extra discs for the service’s last hurrah](https://www.theverge.com/2023/8/17/23835731/netflix-dvd-customers-10-extra-discs)
- - [Vampire Survivors could be getting cross-saves and an ‘adventures’ mode](https://www.theverge.com/2023/8/17/23835870/vampire-survivors-cross-saves-adventures-mode-poncle)
- - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
- - [A Letter Prompted Talk of AI Doomsday. Many Who Signed Weren&#39;t Actually AI Doomers](https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/)<!-- TECH:END -->
+ - [Vampire Survivors could be getting cross-saves and an ‘adventures’ mode](https://www.theverge.com/2023/8/17/23835870/vampire-survivors-cross-saves-adventures-mode-poncle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

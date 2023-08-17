@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft could announce new Surface devices next month](https://www.androidauthority.com/microsoft-surface-special-event-3355861/)
  - [Elon Musk is killing ‘Environmental Twitter’](https://www.theverge.com/2023/8/17/23835629/elon-musk-environmental-twitter-abandons-x)
  - [Acura ZDX is a Google-powered premium EV with 325 miles of range and a $60K price tag](https://www.theverge.com/2023/8/17/23835950/acura-zdx-ev-price-specs-photos-google-honda)
  - [Microsoft plans to hold a &quot;special event&quot; in New York City on September 21, 2023, likely to announce Surface hardware, including Laptop Studio 2 and Laptop Go 3 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230817/p28#a230817p28)
- - [Slack briefly experienced some major issues](https://www.theverge.com/2023/8/17/23835971/slack-major-issues-outage-send-messages)
- - [Nomad 130W GaN Power Adapter review: Plenty of USB-C power for 3 devices](https://appleinsider.com/articles/23/08/17/nomad-130w-gan-power-adapter-review-plenty-of-usb-c-power-for-3-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Slack briefly experienced some major issues](https://www.theverge.com/2023/8/17/23835971/slack-major-issues-outage-send-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nvidia Chromebook dream is no more](https://www.theverge.com/2023/8/17/23835797/google-chromebooks-nvidia-canceled)
+ - [Satechi&#39;s new USB-C dock adds ports and lifts your MacBooks](https://appleinsider.com/articles/23/08/17/satechis-new-usb-c-dock-adds-ports-and-lifts-your-macbooks?utm_medium=rss)
  - [Google Maps will stop showing gas stations to EV owners](https://www.theverge.com/2023/8/17/23835910/google-built-in-maps-ev-charger-android-auto-no-gas-station)
  - [The Sony WH-CH720N offers many features of the XM5 at $300 less](https://www.androidauthority.com/sony-wh-ch720n-deal-3355881/)
- - [My Baldur’s Gate 3 perfectionism is killing me](https://www.theverge.com/2023/8/17/23834516/baldurs-gate-3-choices-narrative-perfectionism)
- - [Call of Duty: Modern Warfare III unveiled with first trailer](https://www.theverge.com/23834700/call-of-duty-modern-warfare-3-trailer-date-details)
- - [Microsoft plans to discontinue Azure Kinect Developer Kit, a depth-sensing camera it released in 2019, in October 2023 &lpar;John Callaham/Neowin&rpar;](http://www.techmeme.com/230817/p29#a230817p29)<!-- TECH:END -->
+ - [My Baldur’s Gate 3 perfectionism is killing me](https://www.theverge.com/2023/8/17/23834516/baldurs-gate-3-choices-narrative-perfectionism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

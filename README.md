@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wednesday at last, stay safe my dudes.](http://9gag.com/gag/aGEoWXZ)
- - 😝 [Morally Corrupted By the CCP](http://9gag.com/gag/a9qVoQK)
- - 💣 [But... I want to.](http://9gag.com/gag/ay2zggM)
- - 😝 [Keep hydrated](http://9gag.com/gag/aVbdn6M)
- - 👉 [9gag, you son of a b*tch, you did it, f**k you and see you tomorrow](http://9gag.com/gag/aA0mjeo)<!-- MEMES:END -->
+ - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
+ - 😝 [We always know](http://9gag.com/gag/aA0mj19)
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 👉 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)<!-- MEMES:END -->
 
 ---
 </div>

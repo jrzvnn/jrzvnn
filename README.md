@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube channel Linus Tech Tips pauses production amid accusations of theft, ethical lapses, and sexual harassment, and says it&#39;ll hire an outside investigator &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230817/p1#a230817p1)
  - [Researchers find ChatGPT has a &quot;significant and systematic political bias&quot; toward the Democrats in the US, Lula in Brazil, and the Labour Party in the UK &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230816/p35#a230816p35)
  - [A look at studies saying LK-99 is not a superconductor and that impurities in the material were responsible for its superconducting-like behaviors &lpar;Dan Garisto/Nature&rpar;](http://www.techmeme.com/230816/p34#a230816p34)
  - [Shiba Inu&#39;s Ethereum layer-2 network Shibarium, which hopes to lure users with low fees to an ecosystem focused on financial services and gaming, goes live &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230816/p33#a230816p33)
- - [OpenAI acquires New York-based AI design studio Global Illumination, marking the company&#39;s first public acquisition; the terms of the deal weren&#39;t disclosed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230816/p32#a230816p32)
- - [The best Samsung Galaxy Watch 6 Classic cases](https://www.androidauthority.com/best-samsung-galaxy-watch-6-classic-cases-3355388/)<!-- TECH:END -->
+ - [OpenAI acquires New York-based AI design studio Global Illumination, marking the company&#39;s first public acquisition; the terms of the deal weren&#39;t disclosed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230816/p32#a230816p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

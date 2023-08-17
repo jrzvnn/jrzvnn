@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says The Glenn Beck Program was removed from Apple Podcasts because of a trademark dispute that has since been resolved &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230817/p22#a230817p22)
- - [Apple shows off a first look at its Godzilla series Monarch: Legacy of Monsters](https://www.theverge.com/2023/8/17/23834897/monarch-legacy-of-monsters-godzilla-apple-tv-plus)
- - [You can already save $10 on a Starfield preorder for either PC or Xbox](https://www.theverge.com/2023/8/17/23834195/starfield-preorder-xbox-pc-anker-soundcore-earbuds-logitech-litra-deal-sale)
- - [Apple won&#39;t release leather iPhone 15 cases, claims leaker](https://appleinsider.com/articles/23/08/17/apple-wont-release-leather-iphone-15-cases-claims-leaker?utm_medium=rss)
- - [Poll: Android Auto, Apple CarPlay, or your car’s infotainment, what do you use?](https://www.androidauthority.com/car-infotainment-system-poll-3355770/)<!-- TECH:END -->
+ - [&#39;Fake Airplane Mode&#39; makes iPhone look offline to user, while an attacker stays connected](https://appleinsider.com/articles/23/08/17/fake-airplane-mode-makes-iphone-look-offline-to-user-while-an-attacker-stays-connected?utm_medium=rss)
+ - [Samsung Galaxy Tab S9 family review: easier choices](https://www.theverge.com/23835595/samsung-galaxy-tab-s9-plus-ultra-tablet-review)
+ - [The Best Mattresses You Can Buy Online &lpar;2023&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [Apple announces live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)
+ - [Apple says The Glenn Beck Program was removed from Apple Podcasts because of a trademark dispute that has since been resolved &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230817/p22#a230817p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

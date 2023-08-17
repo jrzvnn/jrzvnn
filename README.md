@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
  - 😝 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)
  - 💣 [Save the Children](http://9gag.com/gag/avQX20X)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)<!-- MEMES:END -->
+ - 👉 [Someone care to explain?](http://9gag.com/gag/avQDN35)<!-- MEMES:END -->
 
 ---
 </div>

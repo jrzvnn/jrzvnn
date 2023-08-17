@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
- - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
- - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
  - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---

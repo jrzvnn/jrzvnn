@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Good Lock guide: The must-have toolkit for your Galaxy phone](https://www.androidauthority.com/samsung-good-lock-1079882/)
  - [Sei launches its trading-focused blockchain and SEI reaches $1.6B trading volume in the first 24 hours, per CoinMarketCap; many users criticized SEI&#39;s airdrop &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230817/p20#a230817p20)
  - [The Best Hiking Gear &lpar;2023&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)
  - [Cofense discovers a phishing campaign that uses QR codes to target a notable US energy company, the first known use of QR codes for phishing at scale &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230817/p19#a230817p19)
- - [Apple&#39;s market share grows as global smartphone sales hit new low](https://appleinsider.com/articles/23/08/17/apples-market-share-grows-as-global-smartphone-sales-hit-new-low?utm_medium=rss)
- - [The Z Flip 5 just launched but a big Z Flip 6 camera leak is already here](https://www.androidauthority.com/samsung-galaxy-z-flip-6-camera-leak-3355754/)<!-- TECH:END -->
+ - [Apple&#39;s market share grows as global smartphone sales hit new low](https://appleinsider.com/articles/23/08/17/apples-market-share-grows-as-global-smartphone-sales-hit-new-low?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

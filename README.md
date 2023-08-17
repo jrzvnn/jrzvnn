@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morally Corrupted By the CCP](http://9gag.com/gag/a9qVoQK)
- - 😝 [Wednesday at last, stay safe my dudes.](http://9gag.com/gag/aGEoWXZ)
- - 💣 [9gag, you son of a b*tch, you did it, f**k you and see you tomorrow](http://9gag.com/gag/aA0mjeo)
- - 😝 [Keep hydrated](http://9gag.com/gag/aVbdn6M)
- - 👉 [But... I want to.](http://9gag.com/gag/ay2zggM)<!-- MEMES:END -->
+ - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
+ - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 💣 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)
+ - 😝 [Smart mokey...](http://9gag.com/gag/aqedP7Y)
+ - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
 
 ---
 </div>

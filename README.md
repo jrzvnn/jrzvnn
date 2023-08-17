@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Vision Pro may use liquid for lenses instead of glass](https://appleinsider.com/articles/23/08/17/future-apple-vision-pro-may-use-liquid-for-lenses-instead-of-glass?utm_medium=rss)
- - [Extreme Heat Is Here to Stay](https://www.wired.com/story/gadget-lab-podcast-609/)
- - [Lenovo Slim Pro 9i &lpar;14.5-Inch, Gen 8&rpar; Review: A Powerful Laptop](https://www.wired.com/review/lenovo-slim-pro-9i/)
- - [Here’s what Lenovo’s Steam Deck rival could look like](https://www.androidauthority.com/lenovo-legion-go-leaked-images-3355736/)
- - [Jefferies and TrueUp: tech companies have laid off 342,671 employees so far in 2023, well above the 243,075 job cuts across all of 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/230817/p16#a230817p16)<!-- TECH:END -->
+ - [Apple&#39;s market share grows as global smartphone sales hit new low](https://appleinsider.com/articles/23/08/17/apples-market-share-grows-as-global-smartphone-sales-hit-new-low?utm_medium=rss)
+ - [The Z Flip 5 just launched but a big Z Flip 6 camera leak is already here](https://www.androidauthority.com/samsung-galaxy-z-flip-6-camera-leak-3355754/)
+ - [Analysis: Bing had 1% to 3% market share in search globally in July, the same as January 2023, despite adding Bing Chat; Microsoft calls the new Bing a success &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/230817/p18#a230817p18)
+ - [Red Dead Redemption works just fine on the Switch](https://www.theverge.com/2023/8/17/23834520/red-dead-redemption-nintendo-switch-hands-on)
+ - [Filings: FTX&#39;s Alameda can make a $175M claim from the estate of similarly bankrupt crypto company Genesis, significantly below the nearly $4B FTX first sought &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230817/p17#a230817p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
  - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 💣 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)
+ - 💣 [We always know](http://9gag.com/gag/aA0mj19)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [. . .](http://9gag.com/gag/az2B6Gp)<!-- MEMES:END -->
+ - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
 
 ---
 </div>

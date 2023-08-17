@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
- - 😝 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
- - 😝 [We always know](http://9gag.com/gag/aA0mj19)
- - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
+ - 😝 [Aww-ducational](http://9gag.com/gag/aBdvqNP)
+ - 😝 [The two sides of the same coin.](http://9gag.com/gag/aL1bq3A)
+ - 💣 [9gag, you son of a b*tch, you did it, f**k you and see you tomorrow](http://9gag.com/gag/aA0mjeo)
+ - 😝 [Hehe](http://9gag.com/gag/aGEo3z6)
+ - 👉 [Must&#39;ve drove her nuts!](http://9gag.com/gag/aoKdXq0)<!-- MEMES:END -->
 
 ---
 </div>

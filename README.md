@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slack briefly experienced some major issues](https://www.theverge.com/2023/8/17/23835971/slack-major-issues-outage-send-messages)
+ - [Nomad 130W GaN Power Adapter review: Plenty of USB-C power for 3 devices](https://appleinsider.com/articles/23/08/17/nomad-130w-gan-power-adapter-review-plenty-of-usb-c-power-for-3-devices?utm_medium=rss)
+ - [Microsoft to hold ‘special event’ in New York City on September 21st](https://www.theverge.com/2023/8/17/23835992/microsoft-surface-special-event-new-york-city-september-21st)
  - [This fantastic OnePlus 11 deal ends tonight](https://www.androidauthority.com/oneplus-11-16gb-deal-3355842/)
- - [Sources: Databricks had a total loss of ~$900M in its last two fiscal years, including $380M in the year ending in January 2023, and is close to break even &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230817/p27#a230817p27)
- - [Slack is having major issues](https://www.theverge.com/2023/8/17/23835971/slack-major-issues-outage-send-messages)
- - [Llion Jones, who co-authored Google&#39;s pioneering transformer paper, launches Sakana AI alongside David Ha, the former head of Google&#39;s AI research arm in Japan &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230817/p26#a230817p26)
- - [Netflix is sending its DVD subscribers 10 extra discs for the service’s last hurrah](https://www.theverge.com/2023/8/17/23835731/netflix-dvd-customers-10-extra-discs)<!-- TECH:END -->
+ - [Sources: Databricks had a total loss of ~$900M in its last two fiscal years, including $380M in the year ending in January 2023, and is close to break even &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230817/p27#a230817p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

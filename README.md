@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European payments company Adyen reports H1 2023 net revenue up 21% YoY to &amp;euro;739.1M, below &amp;euro;754M est., &amp;euro;320M EBITA, below &amp;euro;365M est., and defends hiring 551 staff &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230817/p13#a230817p13)
  - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)
+ - [Apple Podcasts removed &#39;The Glenn Beck Program&#39; likely over technical error](https://appleinsider.com/articles/23/08/16/apple-podcasts-removes-the-glenn-beck-program-likely-over-technical-error?utm_medium=rss)
+ - [European payments company Adyen reports H1 2023 net revenue up 21% YoY to &amp;euro;739.1M, below &amp;euro;754M est., &amp;euro;320M EBITA, below &amp;euro;365M est., and defends hiring 551 staff &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230817/p13#a230817p13)
  - [Samsung confirmed it’s working on a foldable tablet and everyone missed it!](https://www.androidauthority.com/samsung-foldable-tablet-confirmation-3355727/)
- - [HHS Launches &#39;Digiheals&#39; Project to Better Protect US Hospitals From Ransomware](https://www.wired.com/story/hospital-ransomware-hhs-digiheals/)
- - [Sources: Chinese regulators met with Walmart, PayPal, and other foreign companies to help navigate China&#39;s new data security rules, hoping to ease some fears &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230817/p12#a230817p12)<!-- TECH:END -->
+ - [HHS Launches &#39;Digiheals&#39; Project to Better Protect US Hospitals From Ransomware](https://www.wired.com/story/hospital-ransomware-hhs-digiheals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/aGEo3z6)
- - 😝 [Must&#39;ve drove her nuts!](http://9gag.com/gag/aoKdXq0)
- - 💣 [But... I want to.](http://9gag.com/gag/ay2zggM)
- - 😝 [Keep hydrated](http://9gag.com/gag/aVbdn6M)
- - 👉 [Reparations](http://9gag.com/gag/armdPQ5)<!-- MEMES:END -->
+ - 😝 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
+ - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
+ - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 😝 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---
 </div>

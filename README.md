@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frog of knowledge](http://9gag.com/gag/aVbdNQn)
- - 😝 [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)
- - 💣 [Wednesday at last, stay safe my dudes.](http://9gag.com/gag/aGEoWXZ)
- - 😝 [Morally Corrupted By the CCP](http://9gag.com/gag/a9qVoQK)
- - 👉 [Nice](http://9gag.com/gag/a2KxBn1)<!-- MEMES:END -->
+ - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 💣 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)
+ - 😝 [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 👉 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)<!-- MEMES:END -->
 
 ---
 </div>

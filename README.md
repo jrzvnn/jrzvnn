@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Flip 5 updates: First software update rolling out in the US](https://www.androidauthority.com/samsung-galaxy-z-flip-5-updates-3355689/)
  - [Leaked images reveal Lenovo&#39;s Legion Go, a Windows 11-based gaming handheld that appears to combine features of Steam Deck, Asus ROG Ally, and Nintendo Switch &lpar;Vlad Turiceanu/Windows Report&rpar;](http://www.techmeme.com/230817/p3#a230817p3)
  - [OnePlus Open: Release date, price, specs, rumors, and more &lpar;Updated: Aug. 17&rpar;](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
  - [OnePlus Open may be delayed because of Nokia-OPPO patent battle](https://www.androidauthority.com/oneplus-open-delay-launch-3355679/)
- - [Crypto hardware wallet maker Ledger partners with PayPal to let US users buy BTC, ETH, BCH, and LTC in its Ledger Live app through their PayPal accounts &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230817/p2#a230817p2)
- - [YouTube channel Linus Tech Tips pauses production amid accusations of theft, ethical lapses, and sexual harassment, and says it&#39;ll hire an outside investigator &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230817/p1#a230817p1)<!-- TECH:END -->
+ - [Crypto hardware wallet maker Ledger partners with PayPal to let US users buy BTC, ETH, BCH, and LTC in its Ledger Live app through their PayPal accounts &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230817/p2#a230817p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

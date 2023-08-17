@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 😝 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
- - 💣 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 😝 [It&#39;s like a magic ward](http://9gag.com/gag/ajVdoZp)
+ - 😝 [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 💣 [Would say burned but they already are.](http://9gag.com/gag/a9qVxzL)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [He got him hard.](http://9gag.com/gag/aeQdvBv)<!-- MEMES:END -->
+ - 👉 [Morally Corrupted By the CCP](http://9gag.com/gag/a9qVoQK)<!-- MEMES:END -->
 
 ---
 </div>

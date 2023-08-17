@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp rolls out support for HD photos globally on Android, iOS, and the web, and says it plans to add support for HD videos soon &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230817/p23#a230817p23)
  - [Satechi&#39;s new USB-C dock adds ports and lifts your MacBooks](https://appleinsider.com/articles/23/08/17/satechis-new-usb-c-dock-adds-ports-and-lifts-your-macbooks?utm_medium=rss)
+ - [Samsung’s second-gen Freestyle projector is now available — and it’s still overpriced](https://www.theverge.com/2023/8/17/23835667/samsung-freestyle-gen-2-portable-projector-now-available)
+ - [WhatsApp rolls out support for HD photos globally on Android, iOS, and the web, and says it plans to add support for HD videos soon &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230817/p23#a230817p23)
  - [Apple shares more details about live action Godzilla and Titans drama](https://appleinsider.com/articles/23/08/17/apple-announces-live-action-godzilla-and-titans-drama?utm_medium=rss)
- - [Daily Deals Aug. 17:  $100 off iPad Pro, Apple Pencil $89, Samsung smartphones from $149, more](https://appleinsider.com/articles/23/08/17/daily-deals-aug-17-100-off-ipad-pro-apple-pencil-89-samsung-smartphones-from-149-more?utm_medium=rss)
- - [WhatsApp will let users send ‘HD’ photos](https://www.theverge.com/2023/8/17/23835641/whatsapp-hd-photo-video-compression)<!-- TECH:END -->
+ - [Daily Deals Aug. 17:  $100 off iPad Pro, Apple Pencil $89, Samsung smartphones from $149, more](https://appleinsider.com/articles/23/08/17/daily-deals-aug-17-100-off-ipad-pro-apple-pencil-89-samsung-smartphones-from-149-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

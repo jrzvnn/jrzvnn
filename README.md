@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 💣 [We always know](http://9gag.com/gag/aA0mj19)
+ - 😝 [This didn&#39;t age well...](http://9gag.com/gag/a7q6vv2)
+ - 😝 [So I posted this yesterday and got deleted. Let&#39;s fight for freedom of speech on this platform. Bl*ack market in Africa](http://9gag.com/gag/a04x2bd)
+ - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Anon has a baby](http://9gag.com/gag/aKELrAZ)<!-- MEMES:END -->
+ - 👉 [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)<!-- MEMES:END -->
 
 ---
 </div>

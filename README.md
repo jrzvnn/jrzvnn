@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morally Corrupted By the CCP](http://9gag.com/gag/a9qVoQK)
- - 😝 [Wednesday at last, stay safe my dudes.](http://9gag.com/gag/aGEoWXZ)
- - 💣 [9gag, you son of a b*tch, you did it, f**k you and see you tomorrow](http://9gag.com/gag/aA0mjeo)
- - 😝 [Hehe](http://9gag.com/gag/aGEo3z6)
- - 👉 [Keep hydrated](http://9gag.com/gag/aVbdn6M)<!-- MEMES:END -->
+ - 😝 [Scarred for life](http://9gag.com/gag/aQErLV2)
+ - 😝 [Nice](http://9gag.com/gag/a2KxBn1)
+ - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 </div>

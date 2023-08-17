@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
- - 😝 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)
- - 💣 [Pretty self explanatory](http://9gag.com/gag/aqedPOj)
- - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [It is the most interesting, man](http://9gag.com/gag/aBdve5O)<!-- MEMES:END -->
+ - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
+ - 💣 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 👉 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Llion Jones, who co-authored Google&#39;s pioneering transformer paper, launches Sakana AI alongside David Ha, the former head of Google&#39;s AI research arm in Japan &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230817/p26#a230817p26)
+ - [Netflix is sending its DVD subscribers 10 extra discs for the service’s last hurrah](https://www.theverge.com/2023/8/17/23835731/netflix-dvd-customers-10-extra-discs)
  - [Vampire Survivors could be getting cross-saves and an ‘adventures’ mode](https://www.theverge.com/2023/8/17/23835870/vampire-survivors-cross-saves-adventures-mode-poncle)
  - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
- - [A Letter Prompted Talk of AI Doomsday. Many Who Signed Weren&#39;t Actually AI Doomers](https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/)
- - [WhatsApp users can now send HD photos to friends, HD videos to follow](https://www.androidauthority.com/whatsapp-hd-photos-3355796/)
- - [Google launches a new Transparency Center to let users report harmful content, make appeals across Google&#39;s services, read its transparency reports, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230817/p25#a230817p25)<!-- TECH:END -->
+ - [A Letter Prompted Talk of AI Doomsday. Many Who Signed Weren&#39;t Actually AI Doomers](https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

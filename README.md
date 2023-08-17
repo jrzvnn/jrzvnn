@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filings: Tesla engineers admit that the company did nothing to address Autopilot&#39;s inability to recognize crossing traffic following a fatal crash in 2016 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230817/p8#a230817p8)
  - [Lenovo reports Q1 revenue down 24% YoY to $12.9B, and a net income attributable to shareholders down 66% YoY to $177M, amid a prolonged slump in demand for PCs &lpar;Reuters&rpar;](http://www.techmeme.com/230817/p7#a230817p7)
  - [Counterpoint: global smartphone shipments to drop 6% YoY to 1.15B units in 2023, the lowest level since 2013, due to worsening China economy and poor US demand &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/230817/p6#a230817p6)
  - [Fake Meat Is Bleeding, but It’s Not Dead Yet](https://www.wired.com/story/beyond-plant-based-meat/)
- - [Inside Def Con AI Village 2023, which attracted 2,200 people competing in a White House-backed challenge to find vulnerabilities in popular generative AI models &lpar;New York Times&rpar;](http://www.techmeme.com/230817/p5#a230817p5)
- - [Your brand new Samsung Galaxy Z Fold 5 is getting an update!](https://www.androidauthority.com/samsung-galaxy-z-fold-5-updates-3355692/)<!-- TECH:END -->
+ - [Inside Def Con AI Village 2023, which attracted 2,200 people competing in a White House-backed challenge to find vulnerabilities in popular generative AI models &lpar;New York Times&rpar;](http://www.techmeme.com/230817/p5#a230817p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

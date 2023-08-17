@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fixes location permissions issue with macOS 13.5.1 update](https://appleinsider.com/articles/23/08/17/apple-fixes-location-permissions-issue-with-macos-1351-update?utm_medium=rss)
  - [The Nvidia Chromebook dream is no more](https://www.theverge.com/2023/8/17/23835797/google-chromebooks-nvidia-canceled)
  - [Satechi&#39;s new USB-C dock adds ports and lifts your MacBooks](https://appleinsider.com/articles/23/08/17/satechis-new-usb-c-dock-adds-ports-and-lifts-your-macbooks?utm_medium=rss)
  - [Google Maps will stop showing gas stations to EV owners](https://www.theverge.com/2023/8/17/23835910/google-built-in-maps-ev-charger-android-auto-no-gas-station)
- - [The Sony WH-CH720N offers many features of the XM5 at $300 less](https://www.androidauthority.com/sony-wh-ch720n-deal-3355881/)
- - [My Baldur’s Gate 3 perfectionism is killing me](https://www.theverge.com/2023/8/17/23834516/baldurs-gate-3-choices-narrative-perfectionism)<!-- TECH:END -->
+ - [The Sony WH-CH720N offers many features of the XM5 at $300 less](https://www.androidauthority.com/sony-wh-ch720n-deal-3355881/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

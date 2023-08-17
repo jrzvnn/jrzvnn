@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A number of cyber security professionals called in by companies and governments to tackle organized hacking groups say their work is attracting physical threats &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230817/p11#a230817p11)
  - [Effective global governance of AI doesn&#39;t stand a chance without collaboration with tech companies and policymakers agreeing on basic AI governance principles &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/230817/p10#a230817p10)
  - [We asked, you told us: 128GB of storage definitely isn’t enough for flagships](https://www.androidauthority.com/128gb-storage-flagship-phone-poll-results-3355703/)
  - [You can now self-repair your Pixel 7a](https://www.androidauthority.com/google-pixel-7a-self-repair-3355704/)
- - [A deep dive into X&#39;s Community Notes, including how the algorithm works, whether the feature actually fights polarization, and its use in high-stakes situations &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/230817/p9#a230817p9)
- - [Court filings: Tesla engineers admit that the company did nothing to address Autopilot&#39;s inability to recognize crossing traffic following a fatal crash in 2016 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230817/p8#a230817p8)<!-- TECH:END -->
+ - [A deep dive into X&#39;s Community Notes, including how the algorithm works, whether the feature actually fights polarization, and its use in high-stakes situations &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/230817/p9#a230817p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

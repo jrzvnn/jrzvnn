@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let&#39;s not forget about this numbnutt...](http://9gag.com/gag/aQErjbK)
  - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
- - 💣 [Found this in my grandpa old chest , should i sell it or keep it?](http://9gag.com/gag/aeQd8Xv)
+ - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
  - 😝 [Systems small enough to fit in a backpack and powerfully equipped to play your latest games with detailed clarity or to accelerate your creative studio workflows.](http://9gag.com/gag/axoAPgL)
- - 👉 [Someone care to explain?](http://9gag.com/gag/avQDN35)<!-- MEMES:END -->
+ - 👉 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)<!-- MEMES:END -->
 
 ---
 </div>

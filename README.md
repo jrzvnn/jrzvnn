@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Apple Vision Pro may use liquid for lenses instead of glass](https://appleinsider.com/articles/23/08/17/future-apple-vision-pro-may-use-liquid-for-lenses-instead-of-glass?utm_medium=rss)
+ - [Extreme Heat Is Here to Stay](https://www.wired.com/story/gadget-lab-podcast-609/)
+ - [Lenovo Slim Pro 9i &lpar;14.5-Inch, Gen 8&rpar; Review: A Powerful Laptop](https://www.wired.com/review/lenovo-slim-pro-9i/)
  - [Here’s what Lenovo’s Steam Deck rival could look like](https://www.androidauthority.com/lenovo-legion-go-leaked-images-3355736/)
- - [Jefferies and TrueUp: tech companies have laid off 342,671 employees so far in 2023, well above the 243,075 job cuts across all of 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/230817/p16#a230817p16)
- - [Microsoft will let you uninstall more built-in Windows 11 apps soon for less bloat](https://www.theverge.com/2023/8/17/23835550/microsoft-windows-11-uninstall-built-in-inbox-apps)
- - [10 Facts That Prove the World Is in a Climate Emergency](https://www.wired.com/story/climate-change-facts/)
- - [Snap confirms and fixes a My AI glitch that caused the chatbot to post its own Story and then stop responding to users&#39; messages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230817/p15#a230817p15)<!-- TECH:END -->
+ - [Jefferies and TrueUp: tech companies have laid off 342,671 employees so far in 2023, well above the 243,075 job cuts across all of 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/230817/p16#a230817p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

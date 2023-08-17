@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vampire Survivors could be getting cross-saves and an ‘adventures’ mode](https://www.theverge.com/2023/8/17/23835870/vampire-survivors-cross-saves-adventures-mode-poncle)
+ - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
+ - [A Letter Prompted Talk of AI Doomsday. Many Who Signed Weren&#39;t Actually AI Doomers](https://www.wired.com/story/letter-prompted-talk-of-ai-doomsday-many-who-signed-werent-actually-doomers/)
  - [WhatsApp users can now send HD photos to friends, HD videos to follow](https://www.androidauthority.com/whatsapp-hd-photos-3355796/)
- - [Google launches a new Transparency Center to let users report harmful content, make appeals across Google&#39;s services, read its transparency reports, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230817/p25#a230817p25)
- - [Sources: Ramp, which offers credit cards and expense management software, is raising funding at a $5.5B valuation, a 32% cut to its $8.1B valuation from 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230817/p24#a230817p24)
- - [Apple reportedly won’t make leather cases for the iPhone 15](https://www.theverge.com/2023/8/17/23835829/apple-iphone-15-pro-leather-cases)
- - [Wedbush says it&#39;s &#39;when not if&#39; Apple will buy ESPN](https://appleinsider.com/articles/23/08/17/wedbush-says-its-when-not-if-apple-will-buy-espn?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches a new Transparency Center to let users report harmful content, make appeals across Google&#39;s services, read its transparency reports, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230817/p25#a230817p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

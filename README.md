@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 😝 [What type of screw is this?](http://9gag.com/gag/aL1bZyP)
- - 💣 [Save the Children](http://9gag.com/gag/avQX20X)
+ - 😝 [This is the stabilized version of the Patterson-Gimlin Bigfoot footage](http://9gag.com/gag/aBdvAmP)
+ - 😝 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
+ - 💣 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [He got him hard.](http://9gag.com/gag/aeQdvBv)<!-- MEMES:END -->
+ - 👉 [We always know](http://9gag.com/gag/aA0mj19)<!-- MEMES:END -->
 
 ---
 </div>

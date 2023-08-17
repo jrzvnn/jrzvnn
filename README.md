@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 charging speed could beat Pixel 8’s](https://www.androidauthority.com/iphone-15-rumored-charging-speed-3355927/)
  - [What is an APU processor and how does it differ vs. a CPU?](https://www.androidauthority.com/what-is-an-apu-3355930/)
  - [Match Group will no longer offer background checks on Tinder and other dating apps](https://www.theverge.com/2023/8/17/23836215/match-group-tinder-background-checks-garbo-partnership-end)
  - [Microsoft’s AI recommends the Ottawa Food Bank as a tourist destination](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
- - [Apple Watch Cardio Fitness notifications help healthy man identify major heart issue](https://appleinsider.com/articles/23/08/17/apple-watch-cardio-fitness-notifications-help-healthy-man-identify-major-heart-issue?utm_medium=rss)
- - [Internal doc: Spotify weighed removing white noise podcasts and redirecting users to &quot;talk&quot; content, which would boost the company&#39;s annual gross profit by &amp;euro;35M &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230817/p31#a230817p31)<!-- TECH:END -->
+ - [Apple Watch Cardio Fitness notifications help healthy man identify major heart issue](https://appleinsider.com/articles/23/08/17/apple-watch-cardio-fitness-notifications-help-healthy-man-identify-major-heart-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

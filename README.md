@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking Real Questions...](http://9gag.com/gag/anzdP4b)
- - 😝 [We always know](http://9gag.com/gag/aA0mj19)
- - 💣 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 😝 [American made vs. European made car](http://9gag.com/gag/a4oxXQw)
  - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 👉 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)<!-- MEMES:END -->
+ - 💣 [Bad linus, bad](http://9gag.com/gag/aA0mjZ2)
+ - 😝 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)
+ - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
 
 ---
 </div>

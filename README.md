@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
  - 😝 [Save the Children](http://9gag.com/gag/avQX20X)
- - 💣 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 💣 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [If you know, you know](http://9gag.com/gag/aDYPEDd)<!-- MEMES:END -->
+ - 👉 [Long post warning](http://9gag.com/gag/a1PxG6w)<!-- MEMES:END -->
 
 ---
 </div>

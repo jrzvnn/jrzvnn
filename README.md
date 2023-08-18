@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy has lived](http://9gag.com/gag/aMEWp8P)
- - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
- - 💣 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 😝 [Anon has a baby](http://9gag.com/gag/aKELrAZ)
- - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
+ - 😝 [Shhh...](http://9gag.com/gag/aYVnN1V)
+ - 😝 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
+ - 💣 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)
+ - 😝 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
+ - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---
 </div>

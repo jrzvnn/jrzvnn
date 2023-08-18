@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who would&#39;ve thought](http://9gag.com/gag/aZDVq7p)
- - 😝 [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)
- - 💣 [Emotional damage](http://9gag.com/gag/aRENw8j)
+ - 😝 [I love San Francisco](http://9gag.com/gag/aDYN0WB)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 💣 [Anon has a baby](http://9gag.com/gag/aKELrAZ)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)<!-- MEMES:END -->
+ - 👉 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)<!-- MEMES:END -->
 
 ---
 </div>

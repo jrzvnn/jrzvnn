@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 💣 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 😝 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - 💣 [Save the Children](http://9gag.com/gag/avQX20X)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
+ - 👉 [Pirates can be immune to Science!](http://9gag.com/gag/aVbdAy2)<!-- MEMES:END -->
 
 ---
 </div>

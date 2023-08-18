@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The fandomization of news](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
  - [Daily Deals Aug. 18: $600 off M2 Max MacBook Pro, $250 off Apple Studio Display, Insignia 4K Fire TV $159, more](https://appleinsider.com/articles/23/08/18/daily-deals-aug-18-600-off-m2-max-macbook-pro-250-off-apple-studio-display-insignia-4k-fire-tv-159-more?utm_medium=rss)
  - [Tiffany Haddish on her new movie’s bleak vision of our streaming future](https://www.theverge.com/23835785/tiffany-haddish-interview-landscape-with-invisible-hand)
  - [A book excerpt traces &quot;wrong number&quot; texts to Chinese gangs in Cambodia and Myanmar that use forced labor to run pig butchering scams involving Tether &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/230818/p7#a230818p7)
- - [How an Iowa School District Used ChatGPT to Ban Books](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/)
- - [25 Years Ago Steve Jobs Launched the First iMac—and the Strategy That Saved Apple](https://www.wired.com/story/plaintext-imac-anniversary-25-years-steve-jobs-strategy-apple/)<!-- TECH:END -->
+ - [Best 3D Printing Slicer: PrusaSlicer, Cura and More     - CNET](https://www.cnet.com/tech/computing/the-best-3d-printing-slicer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

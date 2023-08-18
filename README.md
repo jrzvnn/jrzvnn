@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Florida’s War With Invasive Pythons Has a New Twist](https://www.wired.com/story/floridas-war-with-invasive-pythons-has-a-new-twist/)
  - [Twitch plans to roll out a long-requested anti-harassment feature in the next few weeks, letting streamers block banned users from watching streams &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230818/p8#a230818p8)
  - [These are all the new features Apple has added to iOS over the years!](https://www.androidauthority.com/new-ios-update-features-3355546/)
  - [The fandomization of news](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
- - [Daily Deals Aug. 18: $600 off M2 Max MacBook Pro, $250 off Apple Studio Display, Insignia 4K Fire TV $159, more](https://appleinsider.com/articles/23/08/18/daily-deals-aug-18-600-off-m2-max-macbook-pro-250-off-apple-studio-display-insignia-4k-fire-tv-159-more?utm_medium=rss)
- - [Tiffany Haddish on her new movie’s bleak vision of our streaming future](https://www.theverge.com/23835785/tiffany-haddish-interview-landscape-with-invisible-hand)<!-- TECH:END -->
+ - [Daily Deals Aug. 18: $600 off M2 Max MacBook Pro, $250 off Apple Studio Display, Insignia 4K Fire TV $159, more](https://appleinsider.com/articles/23/08/18/daily-deals-aug-18-600-off-m2-max-macbook-pro-250-off-apple-studio-display-insignia-4k-fire-tv-159-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

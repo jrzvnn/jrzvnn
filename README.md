@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baldur’s Gate 3 on the Steam Deck plays better than it looks](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)
  - [Bored Ape Yacht Club creator to block OpenSea in fight over payments](https://www.theverge.com/2023/8/18/23837677/bayc-opensea-drops-support-creator-royalty-fees)
  - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)
  - [Canadian Heritage Minister Pascale St-Onge demands that Meta lift its &quot;reckless&quot; news ban on Facebook and Instagram for the safety of people fleeing wildfires &lpar;David Ljunggren/Reuters&rpar;](http://www.techmeme.com/230818/p17#a230818p17)
- - [App Store terms probably won&#39;t stop X from turning off the block feature](https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature?utm_medium=rss)
- - [Pornhub’s parent company is changing its name to total nonsense](https://www.theverge.com/2023/8/18/23837670/pornhub-parent-company-mindgeek-rebrand-aylo)<!-- TECH:END -->
+ - [App Store terms probably won&#39;t stop X from turning off the block feature](https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

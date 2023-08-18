@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: You’ve almost completely switched to USB-C](https://www.androidauthority.com/switch-usb-c-poll-results-3356163/)
- - [The EU Commission plans to carry out a regulatory assessment of Qualcomm&#39;s acquisition of Israeli fabless chipmaker Autotalks, a deal announced in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230818/p5#a230818p5)
- - [Hands on with Apple Vision Pro in the wild](https://appleinsider.com/articles/23/08/18/hands-on-with-apple-vision-pro-in-the-wild?utm_medium=rss)
- - [Netflix partners with Jio Platforms, India&#39;s largest telecom operator, to bundle its streaming service with two pay-as-you-go carrier plans &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230818/p4#a230818p4)
- - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)<!-- TECH:END -->
+ - [KPMG: Canadian fintech activity totaled $353.7M across 57 deals from January 2023 to June 2023, down from $834.1M across 109 deals for same time period in 2022 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230818/p6#a230818p6)
+ - [Apple joins protest against India&#39;s import restrictions](https://appleinsider.com/articles/23/08/18/apple-joins-protest-against-indias-import-restrictions?utm_medium=rss)
+ - [iPhone Thunderbolt rumors, a new App Store and more on the AppleInsider podcast](https://appleinsider.com/articles/23/08/18/iphone-thunderbolt-rumors-a-new-app-store-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
+ - [We asked, you told us: You’ve almost completely switched to USB-C](https://www.androidauthority.com/switch-usb-c-poll-results-3356163/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
- - 💣 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
+ - 😝 [Me neither](http://9gag.com/gag/aBdvqPZ)
+ - 😝 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 💣 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
+ - 👉 [. . .](http://9gag.com/gag/az2B6Gp)<!-- MEMES:END -->
 
 ---
 </div>

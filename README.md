@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it removed Glenn Beck podcast over trademark dispute](https://appleinsider.com/articles/23/08/18/apple-says-it-removed-glenn-beck-podcast-over-trademark-dispute?utm_medium=rss)
+ - [Google adds a reminder to clean your Pixel Buds every once in a while](https://www.theverge.com/2023/8/18/23836920/google-pixel-buds-pro-app-cleaning-notification-prompt)
  - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)
  - [What is an SSD’s TBW rating and why does it matter?](https://www.androidauthority.com/what-is-ssd-tbw-rating-meaning-3355987/)
- - [Twitch will let streamers ban users from watching their streams](https://www.theverge.com/2023/8/18/23836913/twitch-ban-block-stream-viewing)
- - [PE firm EQT plans to take the german software company private at &amp;euro;16 per share, below the &amp;euro;30 price of its 2021 IPO but above Thursday&#39;s closing price of &amp;euro;9.6 &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230818/p3#a230818p3)
- - [From 200MP to 440MP: Samsung could be working on crazy camera sensors](https://www.androidauthority.com/samsung-440mp-camera-sensors-3356090/)<!-- TECH:END -->
+ - [Twitch will let streamers ban users from watching their streams](https://www.theverge.com/2023/8/18/23836913/twitch-ban-block-stream-viewing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

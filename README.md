@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [This guy has lived](http://9gag.com/gag/aMEWp8P)
  - 😝 [Long post warning](http://9gag.com/gag/a1PxG6w)
  - 💣 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Anon has a baby](http://9gag.com/gag/aKELrAZ)<!-- MEMES:END -->
+ - 😝 [Anon has a baby](http://9gag.com/gag/aKELrAZ)
+ - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
 
 ---
 </div>

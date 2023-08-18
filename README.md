@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix partners with Jio Platforms, India&#39;s largest telecom operator, to bundle its streaming service with two pay-as-you-go carrier plans &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230818/p4#a230818p4)
  - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)
  - [Hate bezels on your phone? This Samsung concept could be for you.](https://www.androidauthority.com/samsung-bezel-free-device-3356113/)
  - [In the Dreams Favela, Wi-Fi and Ecommerce Promise a Better Future](https://www.wired.com/story/brazil-dreams-favela-3d/)
- - [Russia and India Are Racing to Put Landers on the Moon](https://www.wired.com/story/russia-and-india-are-racing-to-put-landers-on-the-moon/)
- - [Samsung could lose to Apple for the first time ever in annual phone shipments](https://www.androidauthority.com/samsung-lose-apple-global-annual-smartphone-shipments-3356119/)<!-- TECH:END -->
+ - [Russia and India Are Racing to Put Landers on the Moon](https://www.wired.com/story/russia-and-india-are-racing-to-put-landers-on-the-moon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

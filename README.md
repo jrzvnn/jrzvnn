@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
- - 😝 [If you know, you know](http://9gag.com/gag/aDYPEDd)
- - 💣 [. . .](http://9gag.com/gag/az2B6Gp)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 😝 [He got him hard.](http://9gag.com/gag/aeQdvBv)
+ - 💣 [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
+ - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
 
 ---
 </div>

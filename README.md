@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From 200MP to 440MP: Samsung could be working on crazy camera sensors](https://www.androidauthority.com/samsung-440mp-camera-sensors-3356090/)
+ - [Lyft and Uber threaten to leave Minneapolis if the mayor signs a minimum wage bill on August 23 that mandates at least $1.40/mile and $0.51/minute for drivers &lpar;CNN&rpar;](http://www.techmeme.com/230818/p2#a230818p2)
  - [The iPhone 15 might have faster charging speeds](https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage)
  - [Meta updates Threads with a Repost tab on users&#39; profile pages and adds reposts to the reverse-chronological &quot;Following&quot; feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230818/p1#a230818p1)
- - [Apple could discontinue its iconic leather case starting with the iPhone 15](https://www.androidauthority.com/apple-leather-case-discontinue-3356081/)
- - [The Moto G54 5G could be the budget camera phone to watch out for](https://www.androidauthority.com/moto-g54-5g-renders-specs-leak-3356067/)
- - [7 Best Electric Cargo Bikes for Families &lpar;2023&rpar;](https://www.wired.com/gallery/best-electric-cargo-bikes/)<!-- TECH:END -->
+ - [Apple could discontinue its iconic leather case starting with the iPhone 15](https://www.androidauthority.com/apple-leather-case-discontinue-3356081/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG: Canadian fintech activity totaled $353.7M across 57 deals from January 2023 to June 2023, down from $834.1M across 109 deals for same time period in 2022 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230818/p6#a230818p6)
- - [Apple joins protest against India&#39;s import restrictions](https://appleinsider.com/articles/23/08/18/apple-joins-protest-against-indias-import-restrictions?utm_medium=rss)
- - [iPhone Thunderbolt rumors, a new App Store and more on the AppleInsider podcast](https://appleinsider.com/articles/23/08/18/iphone-thunderbolt-rumors-a-new-app-store-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
- - [We asked, you told us: You’ve almost completely switched to USB-C](https://www.androidauthority.com/switch-usb-c-poll-results-3356163/)<!-- TECH:END -->
+ - [How an Iowa School District Used ChatGPT to Ban Books](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/)
+ - [25 Years Ago Steve Jobs Launched the First iMac—and the Strategy That Saved Apple](https://www.wired.com/story/plaintext-imac-anniversary-25-years-steve-jobs-strategy-apple/)
+ - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)
+ - [Low interest rates and loneliness: the origins of the pandemic crypto boom](https://www.theverge.com/2023/8/18/23836104/this-is-not-financial-advice-easy-money-ben-mckenzie-review)
+ - [KPMG: Canadian fintech activity totaled $353.7M across 57 deals from January 2023 to June 2023, down from $834.1M across 109 deals for same time period in 2022 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230818/p6#a230818p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

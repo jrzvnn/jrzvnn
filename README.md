@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: You’ve almost completely switched to USB-C](https://www.androidauthority.com/switch-usb-c-poll-results-3356163/)
+ - [The EU Commission plans to carry out a regulatory assessment of Qualcomm&#39;s acquisition of Israeli fabless chipmaker Autotalks, a deal announced in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230818/p5#a230818p5)
  - [Hands on with Apple Vision Pro in the wild](https://appleinsider.com/articles/23/08/18/hands-on-with-apple-vision-pro-in-the-wild?utm_medium=rss)
  - [Netflix partners with Jio Platforms, India&#39;s largest telecom operator, to bundle its streaming service with two pay-as-you-go carrier plans &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230818/p4#a230818p4)
- - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)
- - [Hate bezels on your phone? This Samsung concept could be for you.](https://www.androidauthority.com/samsung-bezel-free-device-3356113/)
- - [Best Samsung Galaxy Z Flip 4 Cases in 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

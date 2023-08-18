@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
- - 😝 [Nice](http://9gag.com/gag/a2KxBn1)
- - 💣 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
+ - 😝 [Save the Children](http://9gag.com/gag/avQX20X)
+ - 💣 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Me neither](http://9gag.com/gag/aBdvqPZ)<!-- MEMES:END -->
+ - 👉 [This guy has lived](http://9gag.com/gag/aMEWp8P)<!-- MEMES:END -->
 
 ---
 </div>

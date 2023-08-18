@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy has lived](http://9gag.com/gag/aMEWp8P)
  - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 💣 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)
- - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
+ - 😝 [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 💣 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
+ - 😝 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)
+ - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---
 </div>

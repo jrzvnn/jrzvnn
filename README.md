@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
- - 😝 [Save the Children](http://9gag.com/gag/avQX20X)
- - 💣 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
+ - 😝 [This guy has lived](http://9gag.com/gag/aMEWp8P)
+ - 😝 [A UFC Fighter Won His First Fight, Tweeted That He Had $7 In His Account, The Rock Showed Up, Pretended They Were Going To A Friend&#39;s House, Then The Rock Gave Him They Keys To His New House.](http://9gag.com/gag/agoZrBW)
+ - 💣 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [This guy has lived](http://9gag.com/gag/aMEWp8P)<!-- MEMES:END -->
+ - 👉 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)<!-- MEMES:END -->
 
 ---
 </div>

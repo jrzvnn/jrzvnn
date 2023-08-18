@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
  - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
- - 💣 [If you know, you know](http://9gag.com/gag/aDYPEDd)
+ - 😝 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 💣 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Anon has a baby](http://9gag.com/gag/aKELrAZ)<!-- MEMES:END -->
+ - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
 
 ---
 </div>

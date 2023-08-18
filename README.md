@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could discontinue its iconic leather case starting with the iPhone 15](https://www.androidauthority.com/apple-leather-case-discontinue-3356081/)
  - [The Moto G54 5G could be the budget camera phone to watch out for](https://www.androidauthority.com/moto-g54-5g-renders-specs-leak-3356067/)
  - [7 Best Electric Cargo Bikes for Families &lpar;2023&rpar;](https://www.wired.com/gallery/best-electric-cargo-bikes/)
  - [T-Mobile’s first Revvl tablet dukes it out with Amazon and Samsung’s cheap tabs](https://www.androidauthority.com/t-mobile-revvl-tab-5g-3355037/)
- - [Samsung Galaxy S23 series August update lands in the US with new camera features](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Google Messages preparing to add support for emergency SOS over satellite](https://www.androidauthority.com/google-messages-emergency-sos-via-satellite-3356040/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 series August update lands in the US with new camera features](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

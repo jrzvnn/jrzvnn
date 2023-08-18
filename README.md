@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California gets its first tropical storm watch with Hurricane Hilary](https://www.theverge.com/2023/8/18/23837313/california-first-tropical-storm-watch-hurricane-hilary)
  - [The Apple AirPods 3 just hit a record low price](https://www.androidauthority.com/apple-airpods-3-deal-3356265/)
  - [Disney Plus moves Ahsoka episodes into prime time on Tuesdays](https://www.theverge.com/2023/8/18/23837261/disney-plus-ahsoka-release-date-new-prime-time)
  - [Leaked images reveal Lenovo’s Steam Deck competitor that may connect to AR glasses](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
- - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)
- - [Best Noise-Canceling Headphones Under $100 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

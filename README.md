@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
  - [Elon Musk claims &quot;block is going to be deleted as a &#39;feature&#39;, except for DMs&quot;, without giving any details, in a reply to a user&#39;s X post about block vs. mute &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230818/p16#a230818p16)
  - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-2/)
  - [Evacuees from the wildfires threatening Yellowknife say that Meta&#39;s news fight with Canada&#39;s government makes it harder for them to share lifesaving information &lpar;Pete Evans/CBC News&rpar;](http://www.techmeme.com/230818/p15#a230818p15)
- - [Elon Musk says &lpar;yet again&rpar; that X will stop letting you block users](https://www.theverge.com/2023/8/18/23837494/elon-musk-twitter-x-remove-blocking)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
+ - [Elon Musk says &lpar;yet again&rpar; that X will stop letting you block users](https://www.theverge.com/2023/8/18/23837494/elon-musk-twitter-x-remove-blocking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shhh...](http://9gag.com/gag/aYVnN1V)
  - 😝 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
+ - 😝 [Shhh...](http://9gag.com/gag/aYVnN1V)
  - 💣 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)
  - 😝 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
  - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->

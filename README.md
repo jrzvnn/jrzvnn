@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evacuees from the wildfires threatening Yellowknife say that Meta&#39;s news fight with Canada&#39;s government makes it harder for them to share lifesaving information &lpar;Pete Evans/CBC News&rpar;](http://www.techmeme.com/230818/p15#a230818p15)
+ - [Elon Musk says &lpar;yet again&rpar; that X will stop letting you block users](https://www.theverge.com/2023/8/18/23837494/elon-musk-twitter-x-remove-blocking)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
  - [Android 14 beta 5.1 is here to kill last-minute bugs before the stable launch](https://www.androidauthority.com/android-14-beta-5-1-3356312/)
- - [Draft IPO filing: Arm&#39;s revenue fell 1% YoY to $2.68B in its fiscal year ended on March 31, 2023; sources: Arm plans to sell ~10% of its shares in its listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p14#a230818p14)
- - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Draft IPO filing: Arm&#39;s revenue fell 1% YoY to $2.68B in its fiscal year ended on March 31, 2023; sources: Arm plans to sell ~10% of its shares in its listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p14#a230818p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
- - 😝 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
- - 💣 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 😝 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
+ - 😝 [She doesn\u2019t understand](http://9gag.com/gag/aVb1Q8P)
+ - 💣 [Time to game.](http://9gag.com/gag/a7q65Bw)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)<!-- MEMES:END -->
+ - 👉 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)<!-- MEMES:END -->
 
 ---
 </div>

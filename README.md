@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chromebooks could be getting ultra-wideband &lpar;UWB&rpar; in the future](https://www.androidauthority.com/chromebooks-could-get-uwb-3356318/)
  - [The everything app: Here’s what we know about Musk’s plans for X](https://www.androidauthority.com/the-everything-app-x-3356006/)
  - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
  - [Elon Musk claims &quot;block is going to be deleted as a &#39;feature&#39;, except for DMs&quot;, without giving any details, in a reply to a user&#39;s X post about block vs. mute &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230818/p16#a230818p16)
- - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-2/)
- - [Evacuees from the wildfires threatening Yellowknife say that Meta&#39;s news fight with Canada&#39;s government makes it harder for them to share lifesaving information &lpar;Pete Evans/CBC News&rpar;](http://www.techmeme.com/230818/p15#a230818p15)<!-- TECH:END -->
+ - [44 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

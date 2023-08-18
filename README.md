@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 beta 5.1 is here to kill last-minute bugs before the stable launch](https://www.androidauthority.com/android-14-beta-5-1-3356312/)
  - [Draft IPO filing shows Arm revenue fell 1% YoY to $2.68B in the 12 months ended on March 31; sources: Arm is expected to sell ~10% of its shares in the listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p14#a230818p14)
  - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
- - [The new Beats Studio Buds Plus are already $40 off](https://www.theverge.com/2023/8/18/23835874/beats-studio-buds-plus-amazon-fire-tv-stick-4k-max-streamer-deal-sale)<!-- TECH:END -->
+ - [Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is preparing to release a free open-source code-generating AI model dubbed Code Llama as soon as next week &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230817/p35#a230817p35)
+ - [Sources: Meta is preparing to release &quot;Code Llama&quot;, a free code-generating AI model based on Llama 2 as soon as next week &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230817/p35#a230817p35)
+ - [Apple Arcade: Every New Game Arriving in August     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
  - [Threads gets retweets — sorry, reposts — in the reverse-chronological feed](https://www.theverge.com/2023/8/17/23836588/threads-reposts-following-chronological-retweets)
  - [One surviving Reddit app plans to charge based on how much you use it](https://www.theverge.com/2023/8/17/23836528/reddit-relay-android-app-subscriptions-potential-price)
- - [Razer’s new BlackWidow V4 75 could be a great starter mechanical keyboard](https://www.theverge.com/2023/8/17/23836326/razer-blackwidow-v4-75-mechanical-keyboard-hot-swappable-switches)
- - [Filing: NYC-based AI startup Elemental Cognition raised nearly $60M; AI researcher David Ferrucci, who led the team behind IBM Watson, founded Elemental in 2015 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230817/p34#a230817p34)<!-- TECH:END -->
+ - [Razer’s new BlackWidow V4 75 could be a great starter mechanical keyboard](https://www.theverge.com/2023/8/17/23836326/razer-blackwidow-v4-75-mechanical-keyboard-hot-swappable-switches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

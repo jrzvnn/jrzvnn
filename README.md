@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tiffany Haddish on her new movie’s bleak vision of our streaming future](https://www.theverge.com/23835785/tiffany-haddish-interview-landscape-with-invisible-hand)
+ - [A book excerpt traces &quot;wrong number&quot; texts to Chinese gangs in Cambodia and Myanmar that use forced labor to run pig butchering scams involving Tether &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/230818/p7#a230818p7)
  - [How an Iowa School District Used ChatGPT to Ban Books](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/)
  - [25 Years Ago Steve Jobs Launched the First iMac—and the Strategy That Saved Apple](https://www.wired.com/story/plaintext-imac-anniversary-25-years-steve-jobs-strategy-apple/)
- - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)
- - [Low interest rates and loneliness: the origins of the pandemic crypto boom](https://www.theverge.com/2023/8/18/23836104/this-is-not-financial-advice-easy-money-ben-mckenzie-review)
- - [KPMG: Canadian fintech activity totaled $353.7M across 57 deals from January 2023 to June 2023, down from $834.1M across 109 deals for same time period in 2022 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230818/p6#a230818p6)<!-- TECH:END -->
+ - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

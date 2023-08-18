@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Disney Plus moves Ahsoka episodes into prime time on Tuesdays](https://www.theverge.com/2023/8/18/23837261/disney-plus-ahsoka-release-date-new-prime-time)
  - [Leaked images reveal Lenovo’s Steam Deck competitor that may connect to AR glasses](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
  - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)
- - [Big companies use AI-generated ads because they’re cheap](https://www.theverge.com/2023/8/18/23837273/generative-ai-advertising-oreos-cadbury-watermarking)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones Under $100 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

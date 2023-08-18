@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me neither](http://9gag.com/gag/aBdvqPZ)
- - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 💣 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 😝 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
+ - 😝 [Nice](http://9gag.com/gag/a2KxBn1)
+ - 💣 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)<!-- MEMES:END -->
+ - 👉 [Me neither](http://9gag.com/gag/aBdvqPZ)<!-- MEMES:END -->
 
 ---
 </div>

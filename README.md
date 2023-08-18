@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
- - 😝 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
- - 💣 [Face your fears!](http://9gag.com/gag/aBdNRQQ)
+ - 😝 [Face your fears!](http://9gag.com/gag/aBdNRQQ)
+ - 💣 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
+ - 👉 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)<!-- MEMES:END -->
 
 ---
 </div>

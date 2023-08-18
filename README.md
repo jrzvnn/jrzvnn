@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Viome, which uses AI to assess customers&#39; microbiomes and provide them with supplements, raised a $86.5M Series C, bringing its total funding to $175M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230818/p10#a230818p10)
  - [Pixel Watch 2’s design leaks along with some new details](https://www.androidauthority.com/google-pixel-watch-design-2-3356220/)
  - [Vision Pro to ship with 1TB storage](https://appleinsider.com/articles/23/08/18/vision-pro-to-ship-with-1tb-storage?utm_medium=rss)
  - [Target is selling the Xbox Series S with a free $70 game right now](https://www.theverge.com/2023/8/18/23836264/microsoft-xbox-series-s-console-free-game-digital-bundle-target-deal-sale)
- - [Withings Body Smart review: a flawed but thoughtful approach to weight](https://www.theverge.com/23828694/withings-body-smart-review-smart-scales-body-composition)
- - [London-based credit card processor Checkout.com abruptly terminates its contract with Binance citing reports of regulatory actions and money laundering concerns &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/230818/p9#a230818p9)<!-- TECH:END -->
+ - [Withings Body Smart review: a flawed but thoughtful approach to weight](https://www.theverge.com/23828694/withings-body-smart-review-smart-scales-body-composition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

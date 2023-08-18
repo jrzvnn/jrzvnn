@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [App Store terms probably won&#39;t stop X from turning off the block feature](https://appleinsider.com/articles/23/08/18/app-store-terms-probably-wont-stop-x-from-turning-off-the-block-feature?utm_medium=rss)
  - [Pornhub’s parent company is changing its name to total nonsense](https://www.theverge.com/2023/8/18/23837670/pornhub-parent-company-mindgeek-rebrand-aylo)
+ - [Direct Energy Review: An Accessible Provider With Plenty of Options     - CNET](https://www.cnet.com/news/direct-energy-review-an-accessible-provider-with-plenty-of-options/#ftag=CAD590a51e)
  - [California is letting a lot more people get a digital ID](https://www.theverge.com/2023/8/18/23837596/california-digital-ids-program-mdl-expansion)
- - [Senators want YouTube investigated over showing targeted ads to kids, again](https://www.theverge.com/2023/8/18/23837530/youtube-ads-child-safety-tracking-coppa-senator-investigation)
- - [New Apple Watch pops up in Bluetooth database](https://appleinsider.com/articles/23/08/18/new-apple-watch-pops-up-in-bluetooth-database?utm_medium=rss)<!-- TECH:END -->
+ - [Senators want YouTube investigated over showing targeted ads to kids, again](https://www.theverge.com/2023/8/18/23837530/youtube-ads-child-safety-tracking-coppa-senator-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hate bezels on your phone? This Samsung concept could be for you.](https://www.androidauthority.com/samsung-bezel-free-device-3356113/)
+ - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)
  - [Samsung could lose to Apple for the first time ever in annual phone shipments](https://www.androidauthority.com/samsung-lose-apple-global-annual-smartphone-shipments-3356119/)
  - [Apple says it removed Glenn Beck podcast over trademark dispute](https://appleinsider.com/articles/23/08/18/apple-says-it-removed-glenn-beck-podcast-over-trademark-dispute?utm_medium=rss)
- - [Google adds a reminder to clean your Pixel Buds every once in a while](https://www.theverge.com/2023/8/18/23836920/google-pixel-buds-pro-app-cleaning-notification-prompt)
- - [Best Back-to-School Gear for $100 or Less in 2023     - CNET](https://www.cnet.com/tech/best-back-to-school-gear-under-100/#ftag=CAD590a51e)
- - [Only heroes use iPhones on TV, but they use them a lot](https://appleinsider.com/articles/23/08/17/only-heroes-use-iphones-on-tv-but-they-use-them-a-lot?utm_medium=rss)<!-- TECH:END -->
+ - [Google adds a reminder to clean your Pixel Buds every once in a while](https://www.theverge.com/2023/8/18/23836920/google-pixel-buds-pro-app-cleaning-notification-prompt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

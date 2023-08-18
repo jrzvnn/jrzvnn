@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with Apple Vision Pro in the wild](https://appleinsider.com/articles/23/08/18/hands-on-with-apple-vision-pro-in-the-wild?utm_medium=rss)
  - [Netflix partners with Jio Platforms, India&#39;s largest telecom operator, to bundle its streaming service with two pay-as-you-go carrier plans &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230818/p4#a230818p4)
  - [iPhone 15 may get faster charging speeds up to 35W](https://appleinsider.com/articles/23/08/18/iphone-15-may-get-faster-charging-speeds-up-to-35w?utm_medium=rss)
  - [Hate bezels on your phone? This Samsung concept could be for you.](https://www.androidauthority.com/samsung-bezel-free-device-3356113/)
- - [Best Samsung Galaxy Z Flip 4 Cases in 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e)
- - [In the Dreams Favela, Wi-Fi and Ecommerce Promise a Better Future](https://www.wired.com/story/brazil-dreams-favela-3d/)<!-- TECH:END -->
+ - [Best Samsung Galaxy Z Flip 4 Cases in 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

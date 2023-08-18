@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PSA: Your smartwatch band may have dangerous bacteria on it](https://www.androidauthority.com/smartwatch-band-bacteria-3356261/)
+ - [Lamborghini Lanzador: Price, Specs, Release Date](https://www.wired.com/story/lamborghini-lanzador-all-electric-most-powerful-car-ever/)
+ - [Lamborghini’s Lanzador EV concept has over one megawatt of peak power](https://www.theverge.com/2023/8/18/23836309/lamborghini-lanzador-ev-concept-peak-power)
  - [California gets its first tropical storm watch with Hurricane Hilary](https://www.theverge.com/2023/8/18/23837313/california-first-tropical-storm-watch-hurricane-hilary)
- - [The Apple AirPods 3 just hit a record low price](https://www.androidauthority.com/apple-airpods-3-deal-3356265/)
- - [Disney Plus moves Ahsoka episodes into prime time on Tuesdays](https://www.theverge.com/2023/8/18/23837261/disney-plus-ahsoka-release-date-new-prime-time)
- - [Leaked images reveal Lenovo’s Steam Deck competitor that may connect to AR glasses](https://www.theverge.com/2023/8/16/23835191/lenovo-legion-go-leaked-images-steam-deck-competitor)
- - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)<!-- TECH:END -->
+ - [The Apple AirPods 3 just hit a record low price](https://www.androidauthority.com/apple-airpods-3-deal-3356265/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

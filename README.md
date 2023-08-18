@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy has lived](http://9gag.com/gag/aMEWp8P)
- - 😝 [A UFC Fighter Won His First Fight, Tweeted That He Had $7 In His Account, The Rock Showed Up, Pretended They Were Going To A Friend&#39;s House, Then The Rock Gave Him They Keys To His New House.](http://9gag.com/gag/agoZrBW)
- - 💣 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 😝 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
+ - 😝 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
+ - 💣 [Face your fears!](http://9gag.com/gag/aBdNRQQ)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)<!-- MEMES:END -->
+ - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
 
 ---
 </div>

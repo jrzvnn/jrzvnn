@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Draft IPO filing shows Arm revenue fell 1% YoY to $2.68B in the 12 months ended on March 31; sources: Arm is expected to sell ~10% of its shares in the listing &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p14#a230818p14)
  - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
- - [The new Beats Studio Buds Plus are already $40 off](https://www.theverge.com/2023/8/18/23835874/beats-studio-buds-plus-amazon-fire-tv-stick-4k-max-streamer-deal-sale)
- - [Elon Musk claims &quot;block is going to be deleted as a &#39;feature&#39;, except for DMs&quot;, without giving any details, in a reply to a user&#39;s X post about block vs. mute &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230818/p13#a230818p13)<!-- TECH:END -->
+ - [The new Beats Studio Buds Plus are already $40 off](https://www.theverge.com/2023/8/18/23835874/beats-studio-buds-plus-amazon-fire-tv-stick-4k-max-streamer-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

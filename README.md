@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a post on X, Elon Musk says &quot;Block is going to be deleted as a &#39;feature&#39;, except for DMs&quot; as it &quot;makes no sense&quot;, without giving further details &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230818/p13#a230818p13)
  - [Sources: SoftBank has acquired a 25% stake in Arm from its Vision Fund unit at a $64B valuation and will make the chip designer&#39;s IPO filing public on Monday &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/230818/p12#a230818p12)
  - [PSA: Your smartwatch band may have dangerous bacteria on it](https://www.androidauthority.com/smartwatch-band-bacteria-3356261/)
  - [Lamborghini Lanzador: Price, Specs, Release Date](https://www.wired.com/story/lamborghini-lanzador-all-electric-most-powerful-car-ever/)
- - [Lamborghini’s Lanzador EV concept has over one megawatt of peak power](https://www.theverge.com/2023/8/18/23836309/lamborghini-lanzador-ev-concept-peak-power)
- - [California gets its first tropical storm watch with Hurricane Hilary](https://www.theverge.com/2023/8/18/23837313/california-first-tropical-storm-watch-hurricane-hilary)<!-- TECH:END -->
+ - [Lamborghini’s Lanzador EV concept has over one megawatt of peak power](https://www.theverge.com/2023/8/18/23836309/lamborghini-lanzador-ev-concept-peak-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

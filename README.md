@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’](https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination)
  - [The new Beats Studio Buds Plus are already $40 off](https://www.theverge.com/2023/8/18/23835874/beats-studio-buds-plus-amazon-fire-tv-stick-4k-max-streamer-deal-sale)
- - [In a post on X, Elon Musk says &quot;Block is going to be deleted as a &#39;feature&#39;, except for DMs&quot; as it &quot;makes no sense&quot;, without giving further details &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230818/p13#a230818p13)
- - [Sources: SoftBank acquired a 25% stake in Arm from its Vision Fund unit at a $64B valuation and plans to make the chip designer&#39;s IPO filing public on August 21 &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/230818/p12#a230818p12)
- - [PSA: Your smartwatch band may have dangerous bacteria on it](https://www.androidauthority.com/smartwatch-band-bacteria-3356261/)
- - [Lamborghini Lanzador: Price, Specs, Release Date](https://www.wired.com/story/lamborghini-lanzador-all-electric-most-powerful-car-ever/)<!-- TECH:END -->
+ - [Elon Musk claims &quot;block is going to be deleted as a &#39;feature&#39;, except for DMs&quot;, without giving any details, in a reply to a user&#39;s X post about block vs. mute &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230818/p13#a230818p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You what?](http://9gag.com/gag/adP4NZd)
- - 😝 [Escaped medical leech on hospital floor](http://9gag.com/gag/aL1NKDv)
- - 💣 [Me neither](http://9gag.com/gag/aBdvqPZ)
+ - 😝 [Me neither](http://9gag.com/gag/aBdvqPZ)
+ - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 💣 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
+ - 👉 [A little bit of honesty](http://9gag.com/gag/aBdvqVZ)<!-- MEMES:END -->
 
 ---
 </div>

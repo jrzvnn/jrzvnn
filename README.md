@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Messages preparing to add support for emergency SOS over satellite](https://www.androidauthority.com/google-messages-emergency-sos-via-satellite-3356040/)
  - [Mandiant: the use of AI to conduct politically-motivated online influence campaigns has grown in recent years, but the impact of such campaigns has been limited &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230817/p38#a230817p38)
  - [Apple Watch bands harbor dangerous bacteria -- because no one cleans them](https://appleinsider.com/articles/23/08/18/apple-watch-bands-harbor-dangerous-bacteria----because-no-one-cleans-them?utm_medium=rss)
  - [ProjectDiscovery, a free vulnerability scanning platform to monitor for exploits in websites, apps, APIs, and cloud services, raised a $25M Series A led by CRV &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230817/p37#a230817p37)
- - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [OpenSea plans to make creator fees optional for new collections from August 31, and enforce creator fees on certain existing collections through February 2024 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/230817/p36#a230817p36)<!-- TECH:END -->
+ - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

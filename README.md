@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
- - 😝 [Nice](http://9gag.com/gag/a2KxBn1)
- - 💣 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
+ - 😝 [When you meet someone who matches your energy.](http://9gag.com/gag/aGENww6)
+ - 😝 [She doesn\u2019t understand](http://9gag.com/gag/aVb1Q8P)
+ - 💣 [They deserve it](http://9gag.com/gag/aA0NVgL)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [This guy has lived](http://9gag.com/gag/aMEWp8P)<!-- MEMES:END -->
+ - 👉 [Me trying to be sober for at least one week](http://9gag.com/gag/a8qXbpp)<!-- MEMES:END -->
 
 ---
 </div>

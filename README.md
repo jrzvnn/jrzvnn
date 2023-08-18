@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California is letting a lot more people get a digital ID](https://www.theverge.com/2023/8/18/23837596/california-digital-ids-program-mdl-expansion)
  - [Senators want YouTube investigated over showing targeted ads to kids, again](https://www.theverge.com/2023/8/18/23837530/youtube-ads-child-safety-tracking-coppa-senator-investigation)
  - [New Apple Watch pops up in Bluetooth database](https://appleinsider.com/articles/23/08/18/new-apple-watch-pops-up-in-bluetooth-database?utm_medium=rss)
  - [Chromebooks could be getting ultra-wideband &lpar;UWB&rpar; in the future](https://www.androidauthority.com/chromebooks-could-get-uwb-3356318/)
- - [The everything app: Here’s what we know about Musk’s plans for X](https://www.androidauthority.com/the-everything-app-x-3356006/)
- - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)<!-- TECH:END -->
+ - [The everything app: Here’s what we know about Musk’s plans for X](https://www.androidauthority.com/the-everything-app-x-3356006/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

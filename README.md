@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based credit card processor Checkout.com abruptly terminates its contract with Binance citing reports of regulatory actions and money laundering concerns &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/230818/p9#a230818p9)
- - [Florida’s War With Invasive Pythons Has a New Twist](https://www.wired.com/story/floridas-war-with-invasive-pythons-has-a-new-twist/)
- - [Twitch plans to roll out a long-requested anti-harassment feature in the next few weeks, letting streamers block banned users from watching streams &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230818/p8#a230818p8)
- - [These are all the new features Apple has added to iOS over the years!](https://www.androidauthority.com/new-ios-update-features-3355546/)
- - [The fandomization of news](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)<!-- TECH:END -->
+ - [Pixel Watch 2’s design leaks along with some new details](https://www.androidauthority.com/google-pixel-watch-design-2-3356220/)
+ - [Vision Pro to ship with 1TB storage](https://appleinsider.com/articles/23/08/18/vision-pro-to-ship-with-1tb-storage?utm_medium=rss)
+ - [Target is selling the Xbox Series S with a free $70 game right now](https://www.theverge.com/2023/8/18/23836264/microsoft-xbox-series-s-console-free-game-digital-bundle-target-deal-sale)
+ - [Withings Body Smart review: a flawed but thoughtful approach to weight](https://www.theverge.com/23828694/withings-body-smart-review-smart-scales-body-composition)
+ - [London-based credit card processor Checkout.com abruptly terminates its contract with Binance citing reports of regulatory actions and money laundering concerns &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/230818/p9#a230818p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Develop Skills in Cybersecurity and IT for Hundreds Less With This Discounted Bundle     - CNET](https://www.cnet.com/deals/develop-skills-in-cyber-security-and-it-for-hundreds-less-with-this-discounted-bundle/#ftag=CAD590a51e)
+ - [Primitive Power Solar Review: Not an Installer, but an Interesting Model     - CNET](https://www.cnet.com/home/energy-and-utilities/primitive-power-solar-review/#ftag=CAD590a51e)
  - [Viome, which sells supplements to customers based on AI-based assessments of their microbiomes, raised an $86.5M Series C, bringing its total funding to $175M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230818/p10#a230818p10)
- - [Pixel Watch 2’s design leaks along with some new details](https://www.androidauthority.com/google-pixel-watch-design-2-3356220/)
- - [Vision Pro to ship with 1TB storage](https://appleinsider.com/articles/23/08/18/vision-pro-to-ship-with-1tb-storage?utm_medium=rss)
- - [Target is selling the Xbox Series S with a free $70 game right now](https://www.theverge.com/2023/8/18/23836264/microsoft-xbox-series-s-console-free-game-digital-bundle-target-deal-sale)
- - [Withings Body Smart review: a flawed but thoughtful approach to weight](https://www.theverge.com/23828694/withings-body-smart-review-smart-scales-body-composition)<!-- TECH:END -->
+ - [Pixel Watch 2’s design leaks along with some new details &lpar;Update&rpar;](https://www.androidauthority.com/google-pixel-watch-design-2-3356220/)
+ - [Vision Pro to ship with 1TB storage](https://appleinsider.com/articles/23/08/18/vision-pro-to-ship-with-1tb-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

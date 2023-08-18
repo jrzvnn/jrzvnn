@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
- - 😝 [Shhh...](http://9gag.com/gag/aYVnN1V)
- - 💣 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)
- - 😝 [Finally... Someone did it!](http://9gag.com/gag/aMEN1VV)
+ - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 💣 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
+ - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
  - 👉 [Save the Children](http://9gag.com/gag/avQX20X)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch will let streamers ban users from watching their streams](https://www.theverge.com/2023/8/18/23836913/twitch-ban-block-stream-viewing)
  - [PE firm EQT plans to take the german software company private at &amp;euro;16 per share, below the &amp;euro;30 price of its 2021 IPO but above Thursday&#39;s closing price of &amp;euro;9.6 &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230818/p3#a230818p3)
  - [From 200MP to 440MP: Samsung could be working on crazy camera sensors](https://www.androidauthority.com/samsung-440mp-camera-sensors-3356090/)
  - [Lyft and Uber threaten to leave Minneapolis if the mayor signs a minimum wage bill on August 23 that mandates at least $1.40/mile and $0.51/minute for drivers &lpar;CNN&rpar;](http://www.techmeme.com/230818/p2#a230818p2)
- - [The iPhone 15 might have faster charging speeds](https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage)
- - [Meta updates Threads with a Repost tab on users&#39; profile pages and adds reposts to the reverse-chronological &quot;Following&quot; feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230818/p1#a230818p1)<!-- TECH:END -->
+ - [The iPhone 15 might have faster charging speeds](https://www.theverge.com/2023/8/18/23836903/apple-iphone-15-usbc-lightning-cable-charging-speed-wattage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

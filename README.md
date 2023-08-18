@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shhh...](http://9gag.com/gag/aYVnN1V)
- - 😝 [Hooking up with a dnd girl](http://9gag.com/gag/a1PqpN2)
- - 💣 [Emotional damage](http://9gag.com/gag/aRENw8j)
+ - 😝 [Hmm...I wonder why](http://9gag.com/gag/amAdE99)
+ - 😝 [Save the Children](http://9gag.com/gag/avQX20X)
+ - 💣 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
  - 😝 [Attention gamers! Prepare to meet your favorite influencers \ud83e\udd29 at 9GAG gamescom booth and have fun at the World of Tanks Blitz and ROG zones to explore the newest gaming updates and cutting-edge technology in action.](http://9gag.com/gag/aqedvzQ)
- - 👉 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)<!-- MEMES:END -->
+ - 👉 [Just to spread the reality. Where UN? Where BLM?](http://9gag.com/gag/a8qnBqV)<!-- MEMES:END -->
 
 ---
 </div>

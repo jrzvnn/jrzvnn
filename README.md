@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise robotaxi collides with fire truck in San Francisco, leaving one injured](https://www.theverge.com/2023/8/18/23837217/cruise-robotaxi-driverless-crash-fire-truck-san-francisco)
  - [Big companies use AI-generated ads because they’re cheap](https://www.theverge.com/2023/8/18/23837273/generative-ai-advertising-oreos-cadbury-watermarking)
  - [Steep discounts: save up to $400 on Apple&#39;s latest MacBooks](https://appleinsider.com/articles/23/08/18/steep-discounts-save-up-to-400-on-apples-latest-macbooks?utm_medium=rss)
  - [Here’s how Bambu will fix its 3D printers that began printing by themselves](https://www.theverge.com/23837180/bambu-rogue-3d-printers-fix-cloud-outage)
- - [Email: Amazon is offering $12,500 to some creators for 500 videos, or $25 a video, for its TikTok-like shopping feed; creators typically charge $200+ per video &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p11#a230818p11)
- - [Develop Skills in Cybersecurity and IT for Hundreds Less With This Discounted Bundle     - CNET](https://www.cnet.com/deals/develop-skills-in-cyber-security-and-it-for-hundreds-less-with-this-discounted-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Email: Amazon is offering $12,500 to some creators for 500 videos, or $25 a video, for its TikTok-like shopping feed; creators typically charge $200+ per video &lpar;Bloomberg&rpar;](http://www.techmeme.com/230818/p11#a230818p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

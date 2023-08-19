@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Escaped medical leech on hospital floor](http://9gag.com/gag/aL1NKDv)
- - 😝 [It is what it is](http://9gag.com/gag/aYVnbxm)
- - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 💣 [Short girl ride bike no audio](http://9gag.com/gag/aQENp1w)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
  - 👉 [You what?](http://9gag.com/gag/adP4NZd)<!-- MEMES:END -->
 

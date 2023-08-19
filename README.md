@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 😝 [Would](http://9gag.com/gag/aNw2rG0)
- - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 😝 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
+ - 😝 [Me trying to be sober for at least one week](http://9gag.com/gag/a8qXbpp)
+ - 💣 [And it makes my mouth water](http://9gag.com/gag/armr4oy)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
+ - 👉 [Crazy Lightning from a volcano in Guatemala](http://9gag.com/gag/ay2VpAV)<!-- MEMES:END -->
 
 ---
 </div>

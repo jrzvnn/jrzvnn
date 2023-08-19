@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US intelligence agencies warn China and Russia are targeting private US space companies and preparing cyberattacks that could disable satellites in a conflict &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/230819/p1#a230819p1)
  - [Western Digital refused to answer questions about how its portable SanDisk Extreme SSDs might lose all the data; the company is being sued over data-loss claims &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230818/p20#a230818p20)
  - [Cruise is complying with a California DMV request to cut its fleet by 50% as the regulator probes &quot;recent concerning incidents&quot; involving Cruise robotaxis &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230818/p19#a230818p19)
  - [The best Samsung Galaxy Watch 6 faces](https://www.androidauthority.com/best-samsung-galaxy-watch-6-faces-3355979/)
- - [A district court judge upheld a US Copyright Office finding that artwork created by AI isn&#39;t eligible for copyright protection because it lacks human authorship &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/230818/p18#a230818p18)
- - [Baldur’s Gate 3 on the Steam Deck plays better than it looks](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)<!-- TECH:END -->
+ - [A district court judge upheld a US Copyright Office finding that artwork created by AI isn&#39;t eligible for copyright protection because it lacks human authorship &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/230818/p18#a230818p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

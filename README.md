@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cellebrite trains law enforcement to maintain iPhone-hacking secrets](https://appleinsider.com/articles/23/08/19/cellebrite-trains-law-enforcement-to-maintain-iphone-hacking-secrets?utm_medium=rss)
  - [Windows file archiver utility WinRAR fixed a high-severity vulnerability that could give remote attackers arbitrary code execution, after researchers flagged it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230819/p6#a230819p6)
  - [Daily Deals Aug. 19: $150 off Mac Studio, 50% off JBL Tune 230NL TWS Headphones, Up to 25% off Keurig Brewers and Accessories](https://appleinsider.com/articles/23/08/19/daily-deals-aug-19-150-off-mac-studio-50-off-jbl-tune-230nl-tws-headphones-up-to-25-off-keurig-brewers-and-accessories?utm_medium=rss)
  - [Striking writers have been in consistent talks with studios for over a week](https://www.theverge.com/2023/8/19/23838283/striking-writers-have-been-in-consistent-talks-with-studios-for-over-a-week)
- - [4 Eye Products That Are Actually Worth Investing In     - CNET](https://www.cnet.com/health/personal-care/eye-products-worth-investing-in/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-497-3355683/)<!-- TECH:END -->
+ - [4 Eye Products That Are Actually Worth Investing In     - CNET](https://www.cnet.com/health/personal-care/eye-products-worth-investing-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

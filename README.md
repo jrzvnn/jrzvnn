@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/aNw2rG0)
- - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
- - 💣 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 😝 [Wtf just happened here?](http://9gag.com/gag/aRENgRQ)
+ - 😝 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)<!-- MEMES:END -->
+ - 👉 [Escaped medical leech on hospital floor](http://9gag.com/gag/aL1NKDv)<!-- MEMES:END -->
 
 ---
 </div>

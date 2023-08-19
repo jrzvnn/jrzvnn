@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Today is the last day to save on the PS5 and its colorful DualSense controllers](https://www.theverge.com/2023/8/19/23837196/sony-playstation-5-ps5-dualsense-wireless-controller-console-cover-deal-sale)
  - [If you’re experiencing glitchy audio in Madden 24, you’re not alone](https://www.theverge.com/2023/8/19/23838186/madden-24-ps5-pc-audio-issues-popping-clicking-stereo-channel-dropping-ea-sports)
  - [Samsung Galaxy S23 Ultra revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-s23-ultra-revisited-review-3353002/)
- - [How to set up parental controls on your Xbox Series X and Xbox Series S](https://www.theverge.com/23837134/xbox-series-x-series-s-parental-controls-how-to)
- - [How robots equipped with cameras, sensors, AI, and lasers are helping spot and repair problems with bridges, ships, and other critical infrastructure in the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p4#a230819p4)<!-- TECH:END -->
+ - [Prime Video: The 37 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-37-absolute-best-tv-series-to-watch-august-2023/#ftag=CAD590a51e)
+ - [The Right Color of Sunglasses for Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/the-right-color-of-sunglasses-for-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

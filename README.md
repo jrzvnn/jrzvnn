@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
- - 💣 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
+ - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 😝 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
+ - 💣 [Something we can all agree on](http://9gag.com/gag/axon2bb)
  - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
+ - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf just happened here?](http://9gag.com/gag/aRENgRQ)
- - 😝 [You what?](http://9gag.com/gag/adP4NZd)
- - 💣 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 😝 [Would](http://9gag.com/gag/aNw2rG0)
+ - 💣 [Confession](http://9gag.com/gag/az2DL9K)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)<!-- MEMES:END -->
+ - 👉 [Short girl ride bike no audio](http://9gag.com/gag/aQENp1w)<!-- MEMES:END -->
 
 ---
 </div>

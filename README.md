@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)
- - 😝 [Me trying to be sober for at least one week](http://9gag.com/gag/a8qXbpp)
- - 💣 [And it makes my mouth water](http://9gag.com/gag/armr4oy)
+ - 😝 [You what?](http://9gag.com/gag/adP4NZd)
+ - 😝 [Would](http://9gag.com/gag/aNw2rG0)
+ - 💣 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Crazy Lightning from a volcano in Guatemala](http://9gag.com/gag/ay2VpAV)<!-- MEMES:END -->
+ - 👉 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)<!-- MEMES:END -->
 
 ---
 </div>

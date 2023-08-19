@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 😝 [It is what it is](http://9gag.com/gag/aYVnbxm)
- - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 😝 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
- - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
+ - 😝 [Doggo has spoken](http://9gag.com/gag/armrKmB)
+ - 😝 [How to open a package of spaghetti](http://9gag.com/gag/aVb1W0y)
+ - 💣 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
+ - 😝 [Fan brings a gift for Matt Rife - Standup comedy](http://9gag.com/gag/aOxNywR)
+ - 👉 [Define a liquid](http://9gag.com/gag/aA0NpbZ)<!-- MEMES:END -->
 
 ---
 </div>

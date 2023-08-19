@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon restarts Amazon Shipping, its UPS and FedEx competitor that handles packages from other websites, after pausing the US service earlier in the pandemic &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p8#a230819p8)
  - [Source: in H1 2023, Instacart&#39;s revenue grew 30%+ YoY to ~$1.4B but gross transaction volume grew ~5% YoY; Instacart reportedly plans to go public in September &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230819/p7#a230819p7)
  - [Tesla’s app now supports automation with Apple Shortcuts](https://www.theverge.com/2023/8/19/23838346/tesla-app-apple-ios-shortcuts-automation-update)
  - [Cellebrite trains law enforcement to maintain iPhone-hacking secrets](https://appleinsider.com/articles/23/08/19/cellebrite-trains-law-enforcement-to-maintain-iphone-hacking-secrets?utm_medium=rss)
- - [Windows file archiver utility maker WinRAR fixes a vulnerability that could let an attacker remotely execute arbitrary code, after a researcher flagged the flaw &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230819/p6#a230819p6)
- - [Daily Deals Aug. 19: $150 off Mac Studio, 50% off JBL Tune 230NL TWS Headphones, Up to 25% off Keurig Brewers and Accessories](https://appleinsider.com/articles/23/08/19/daily-deals-aug-19-150-off-mac-studio-50-off-jbl-tune-230nl-tws-headphones-up-to-25-off-keurig-brewers-and-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Windows file archiver utility maker WinRAR fixes a vulnerability that could let an attacker remotely execute arbitrary code, after a researcher flagged the flaw &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230819/p6#a230819p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

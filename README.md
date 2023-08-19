@@ -155,7 +155,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)
+ - 😝 [Shoeshiner working on a pair of Redwings](http://9gag.com/gag/aPgdGEQ)
  - 😝 [50:50](http://9gag.com/gag/agoZNgg)
  - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
  - 😝 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Escaped medical leech on hospital floor](http://9gag.com/gag/aL1NKDv)
- - 😝 [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
- - 💣 [This guy has lived](http://9gag.com/gag/aMEWp8P)
+ - 😝 [It is what it is](http://9gag.com/gag/aYVnbxm)
+ - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Wtf just happened here?](http://9gag.com/gag/aRENgRQ)<!-- MEMES:END -->
+ - 👉 [You what?](http://9gag.com/gag/adP4NZd)<!-- MEMES:END -->
 
 ---
 </div>

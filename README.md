@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
- - 😝 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
- - 💣 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 😝 [Crazy Lightning from a volcano in Guatemala](http://9gag.com/gag/ay2VpAV)
+ - 😝 [Scratch scratch](http://9gag.com/gag/aqep2Ap)
+ - 💣 [When you meet someone who matches your energy.](http://9gag.com/gag/aGENww6)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)<!-- MEMES:END -->
+ - 👉 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)<!-- MEMES:END -->
 
 ---
 </div>

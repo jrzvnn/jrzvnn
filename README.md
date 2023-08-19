@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is](http://9gag.com/gag/aYVnbxm)
- - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 💣 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)<!-- MEMES:END -->
+ - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
 
 ---
 </div>

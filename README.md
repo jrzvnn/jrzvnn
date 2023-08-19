@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
- - 😝 [Save the Children](http://9gag.com/gag/avQX20X)
- - 💣 [Short girl ride bike no audio](http://9gag.com/gag/aQENp1w)
+ - 😝 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 💣 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
  - 👉 [Wtf just happened here?](http://9gag.com/gag/aRENgRQ)<!-- MEMES:END -->
 

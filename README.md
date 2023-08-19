@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jackie Chan doesn&#39;t know who the Kardashians are \ud83d\ude02](http://9gag.com/gag/abvmyv8)
- - 😝 [That look at the last part tho.](http://9gag.com/gag/aRENQAA)
- - 💣 [So long, dogo](http://9gag.com/gag/aQENn5d)
- - 😝 [I&#39;ve seen that before...](http://9gag.com/gag/adP40nN)
- - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
+ - 😝 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)
+ - 😝 [50:50](http://9gag.com/gag/agoZNgg)
+ - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 😝 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
+ - 👉 [How to open a package of spaghetti](http://9gag.com/gag/aVb1W0y)<!-- MEMES:END -->
 
 ---
 </div>

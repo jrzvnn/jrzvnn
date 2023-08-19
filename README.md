@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
- - 😝 [I&#39;ve seen that before...](http://9gag.com/gag/adP40nN)
- - 💣 [You what?](http://9gag.com/gag/adP4NZd)
+ - 😝 [That look at the last part tho.](http://9gag.com/gag/aRENQAA)
+ - 😝 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Shhh...](http://9gag.com/gag/aYVnN1V)<!-- MEMES:END -->
+ - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
 
 ---
 </div>

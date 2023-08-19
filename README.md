@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
+ - 😝 [Would](http://9gag.com/gag/aNw2rG0)
  - 😝 [. . .](http://9gag.com/gag/az2B6Gp)
- - 💣 [You what?](http://9gag.com/gag/adP4NZd)
+ - 💣 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
+ - 👉 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)<!-- MEMES:END -->
 
 ---
 </div>

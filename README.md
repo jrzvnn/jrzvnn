@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Define a liquid](http://9gag.com/gag/aA0NpbZ)
- - 😝 [Fan brings a gift for Matt Rife - Standup comedy](http://9gag.com/gag/aOxNywR)
- - 💣 [At last, fighting back](http://9gag.com/gag/aPgdDbV)
- - 😝 [Scratch scratch](http://9gag.com/gag/aqep2Ap)
- - 👉 [So long, dogo](http://9gag.com/gag/aQENn5d)<!-- MEMES:END -->
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
+ - 💣 [So long, dogo](http://9gag.com/gag/aQENn5d)
+ - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 👉 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
- - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 💣 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
- - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Testicular cancer here we go. They will cut one of my balls off tomorrow. I&#39;ve been a part of this cancerous community for some years now so it&#39;s your fault. I expect the stupidest comments and memes. Don&#39;t let me down. Also test youselves when you reach wizard age.](http://9gag.com/gag/armr1q0)<!-- MEMES:END -->
+ - 😝 [Jackie Chan doesn&#39;t know who the Kardashians are \ud83d\ude02](http://9gag.com/gag/abvmyv8)
+ - 😝 [That look at the last part tho.](http://9gag.com/gag/aRENQAA)
+ - 💣 [So long, dogo](http://9gag.com/gag/aQENn5d)
+ - 😝 [I&#39;ve seen that before...](http://9gag.com/gag/adP40nN)
+ - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
 
 ---
 </div>

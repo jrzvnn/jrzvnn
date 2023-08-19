@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Early Labor Day Deals &lpar;2023&rpar;: Luggage, Grills, and Outdoor Gear](https://www.wired.com/story/best-labor-day-deals-2023/)
  - [Nestl&amp;eacute;, Unilever, and other big advertisers are experimenting with using generative AI ads, but many remain wary of the security, copyright, and data bias risks &lpar;Reuters&rpar;](http://www.techmeme.com/230819/p3#a230819p3)
  - [Xiaomi 14: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/xiaomi-14-3355519/)
  - [The Race to Save Yellowknife From Raging Wildfires](https://www.wired.com/story/race-to-save-yellowknife-wildfires/)
- - [8 Best Travel Bags &lpar;2023&rpar;: Carry-On Luggage, Duffel, Budget](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)
- - [A profile of and interview with Max Tegmark, co-founder of Elon Musk-backed Future of Life Institute, who warns AI could pose an existential threat to humanity &lpar;Emily Bobrow/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p2#a230819p2)<!-- TECH:END -->
+ - [8 Best Travel Bags &lpar;2023&rpar;: Carry-On Luggage, Duffel, Budget](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

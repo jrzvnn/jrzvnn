@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
- - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 💣 [So long, dogo](http://9gag.com/gag/aQENn5d)
+ - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 😝 [Jackie Chan doesn&#39;t know who the Kardashians are \ud83d\ude02](http://9gag.com/gag/abvmyv8)
+ - 💣 [This aged well](http://9gag.com/gag/ay2V7YX)
  - 😝 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
- - 👉 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)<!-- MEMES:END -->
+ - 👉 [It is what it is](http://9gag.com/gag/aYVnbxm)<!-- MEMES:END -->
 
 ---
 </div>

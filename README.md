@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Corporate greed has ruined the modern world](http://9gag.com/gag/aGENK76)
- - 😝 [You what?](http://9gag.com/gag/adP4NZd)
- - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
+ - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
+ - 😝 [Would](http://9gag.com/gag/aNw2rG0)
+ - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Turks stoned Arab homes and stores after the news that a 10-year-old boy was raped in Urfa, Turkey](http://9gag.com/gag/aXnGZV2)<!-- MEMES:END -->
+ - 👉 [Liv Tyler, Joaquin Phoenix and Jennifer Connelly on the sets of Inventing the Abbotts &lpar;1997&rpar;. Photo taken by Quentin Tarantino](http://9gag.com/gag/a3ZpvQ7)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Static electricity in the desert](http://9gag.com/gag/aVbdG4y)
- - 😝 [Would](http://9gag.com/gag/aNw2rG0)
- - 💣 [Confession](http://9gag.com/gag/az2DL9K)
+ - 😝 [Escaped medical leech on hospital floor](http://9gag.com/gag/aL1NKDv)
+ - 😝 [Influencer stealing jokes](http://9gag.com/gag/ajVMQd8)
+ - 💣 [This guy has lived](http://9gag.com/gag/aMEWp8P)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [Short girl ride bike no audio](http://9gag.com/gag/aQENp1w)<!-- MEMES:END -->
+ - 👉 [Wtf just happened here?](http://9gag.com/gag/aRENgRQ)<!-- MEMES:END -->
 
 ---
 </div>

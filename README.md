@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [How to get detailed macOS system info using uname](https://appleinsider.com/inside/macos/tips/how-to-get-detailed-macos-system-info-using-uname?utm_medium=rss)
+ - [PE firm Ethical Capital Partners, which acquired MindGeek in March 2023, rebrands the Pornhub owner as Aylo, seeking a &quot;fresh start&quot; after a series of scandals &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/230819/p5#a230819p5)
  - [Today is the last day to save on the PS5 and its colorful DualSense controllers](https://www.theverge.com/2023/8/19/23837196/sony-playstation-5-ps5-dualsense-wireless-controller-console-cover-deal-sale)
  - [If you’re experiencing glitchy audio in Madden 24, you’re not alone](https://www.theverge.com/2023/8/19/23838186/madden-24-ps5-pc-audio-issues-popping-clicking-stereo-channel-dropping-ea-sports)
- - [Samsung Galaxy S23 Ultra revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-s23-ultra-revisited-review-3353002/)
- - [Prime Video: The 37 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-37-absolute-best-tv-series-to-watch-august-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-s23-ultra-revisited-review-3353002/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

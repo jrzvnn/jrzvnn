@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Travel Bags &lpar;2023&rpar;: Carry-On Luggage, Duffel, Budget](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)
  - [A profile of and interview with Max Tegmark, co-founder of Elon Musk-backed Future of Life Institute, who warns AI could pose an existential threat to humanity &lpar;Emily Bobrow/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p2#a230819p2)
  - [US intelligence agencies warn China and Russia are targeting private US space companies and preparing cyberattacks that could disable satellites in a conflict &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/230819/p1#a230819p1)
  - [Western Digital refused to answer questions about how its portable SanDisk Extreme SSDs might lose all the data; the company is being sued over data-loss issues &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230818/p20#a230818p20)
- - [Cruise is complying with a California DMV request to cut its fleet by 50% as the regulator probes &quot;recent concerning incidents&quot; involving Cruise robotaxis &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230818/p19#a230818p19)
- - [The best Samsung Galaxy Watch 6 faces](https://www.androidauthority.com/best-samsung-galaxy-watch-6-faces-3355979/)<!-- TECH:END -->
+ - [Cruise is complying with a California DMV request to cut its fleet by 50% as the regulator probes &quot;recent concerning incidents&quot; involving Cruise robotaxis &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230818/p19#a230818p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

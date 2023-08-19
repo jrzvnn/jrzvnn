@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [When you meet someone who matches your energy.](http://9gag.com/gag/aGENww6)
- - 😝 [50:50](http://9gag.com/gag/agoZNgg)
- - 💣 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)
+ - 😝 [Excuse me\u2026. Lemme\u2026..Lemme just yoink that out for a second\u2026\u2026\u2026..because of reasons](http://9gag.com/gag/aOxNb6y)
+ - 💣 [50:50](http://9gag.com/gag/agoZNgg)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
  - 👉 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)<!-- MEMES:END -->
 

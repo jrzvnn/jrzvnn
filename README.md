@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)
- - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 💣 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
- - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
- - 👉 [It is what it is](http://9gag.com/gag/aYVnbxm)<!-- MEMES:END -->
+ - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 💣 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
+ - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
 
 ---
 </div>

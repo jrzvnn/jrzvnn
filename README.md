@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Escaped medical leech on hospital floor](http://9gag.com/gag/aL1NKDv)
- - 😝 [This moment can never die](http://9gag.com/gag/a1Pqe38)
- - 💣 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
+ - 😝 [A C-17 flying in between of building &amp; skyscrapers in Brisbane!](http://9gag.com/gag/aEqNdw9)
+ - 😝 [I&#39;ve seen that before...](http://9gag.com/gag/adP40nN)
+ - 💣 [You what?](http://9gag.com/gag/adP4NZd)
  - 😝 [Escape the mundane and unlock the door to a fantasy world!](http://9gag.com/gag/aVbdo0O)
- - 👉 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)<!-- MEMES:END -->
+ - 👉 [Shhh...](http://9gag.com/gag/aYVnN1V)<!-- MEMES:END -->
 
 ---
 </div>

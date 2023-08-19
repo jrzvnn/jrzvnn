@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S23 Ultra revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-s23-ultra-revisited-review-3353002/)
+ - [How to set up parental controls on your Xbox Series X and Xbox Series S](https://www.theverge.com/23837134/xbox-series-x-series-s-parental-controls-how-to)
  - [How robots equipped with cameras, sensors, AI, and lasers are helping spot and repair problems with bridges, ships, and other critical infrastructure in the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p4#a230819p4)
  - [Travel More With a Pair of Dollar Flight Club Memberships for $100     - CNET](https://www.cnet.com/deals/travel-more-with-a-pair-of-dollar-flight-club-memberships-for-100/#ftag=CAD590a51e)
- - [Daily Deals Aug. 19: $150 off Mac Studio, 50% off JBL Tune 230NL TWS Headphones, Up to 25% off Keurig Brewers and Accessories](https://appleinsider.com/articles/23/08/19/daily-deals-aug-19-150-off-mac-studio-50-off-jbl-tune-230nl-tws-headphones-up-to-25-off-keurig-brewers-and-accessories?utm_medium=rss)
- - [Streaming Soars: Summer Sees Viewership Surge for Top Streaming Services     - CNET](https://www.cnet.com/tech/services-and-software/streaming-soars-summer-sees-viewership-surge-for-top-streaming-services/#ftag=CAD590a51e)
- - [When the Student Loan Pause Ends, Almost Half of Borrowers Expect to Miss Payments     - CNET](https://www.cnet.com/personal-finance/loans/nearly-half-of-borrowers-expect-to-go-into-delinquency-when-student-loan-payments-restart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Deals Aug. 19: $150 off Mac Studio, 50% off JBL Tune 230NL TWS Headphones, Up to 25% off Keurig Brewers and Accessories](https://appleinsider.com/articles/23/08/19/daily-deals-aug-19-150-off-mac-studio-50-off-jbl-tune-230nl-tws-headphones-up-to-25-off-keurig-brewers-and-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

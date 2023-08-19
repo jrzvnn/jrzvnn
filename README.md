@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
  - 😝 [It is what it is](http://9gag.com/gag/aYVnbxm)
- - 💣 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
- - 😝 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
- - 👉 [Just a moment](http://9gag.com/gag/adP4jnQ)<!-- MEMES:END -->
+ - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 😝 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
 
 ---
 </div>

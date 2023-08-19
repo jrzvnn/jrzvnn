@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you’re seeing glitchy audio in Madden 24, you’re not alone](https://www.theverge.com/2023/8/19/23838186/madden-24-ps5-pc-audio-issues-popping-clicking-stereo-channel-dropping-ea-sports)
+ - [Today is the last day to save on the PS5 and its colorful DualSense controllers](https://www.theverge.com/2023/8/19/23837196/sony-playstation-5-ps5-dualsense-wireless-controller-console-cover-deal-sale)
+ - [If you’re experiencing glitchy audio in Madden 24, you’re not alone](https://www.theverge.com/2023/8/19/23838186/madden-24-ps5-pc-audio-issues-popping-clicking-stereo-channel-dropping-ea-sports)
  - [Samsung Galaxy S23 Ultra revisited: The good and the bad six months later](https://www.androidauthority.com/samsung-galaxy-s23-ultra-revisited-review-3353002/)
  - [How to set up parental controls on your Xbox Series X and Xbox Series S](https://www.theverge.com/23837134/xbox-series-x-series-s-parental-controls-how-to)
- - [How robots equipped with cameras, sensors, AI, and lasers are helping spot and repair problems with bridges, ships, and other critical infrastructure in the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p4#a230819p4)
- - [Travel More With a Pair of Dollar Flight Club Memberships for $100     - CNET](https://www.cnet.com/deals/travel-more-with-a-pair-of-dollar-flight-club-memberships-for-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How robots equipped with cameras, sensors, AI, and lasers are helping spot and repair problems with bridges, ships, and other critical infrastructure in the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p4#a230819p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

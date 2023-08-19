@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
- - 😝 [I&#39;ve seen that before...](http://9gag.com/gag/adP40nN)
- - 💣 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 😝 [Sexy, sexy, sexy.](http://9gag.com/gag/a04W8Dd)
+ - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 💣 [So long, dogo](http://9gag.com/gag/aQENn5d)
  - 😝 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
- - 👉 [It is what it is](http://9gag.com/gag/aYVnbxm)<!-- MEMES:END -->
+ - 👉 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)<!-- MEMES:END -->
 
 ---
 </div>

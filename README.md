@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Kensington TB550 Pro Fit Ergo Trackball review: a solid entry-level trackball mouse](https://appleinsider.com/articles/23/08/19/kensington-tb550-pro-fit-ergo-trackball-review-a-solid-entry-level-trackball-mouse?utm_medium=rss)
+ - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
  - [Amazon restarts Amazon Shipping, its UPS and FedEx competitor that handles packages from other websites, after pausing the US service earlier in the pandemic &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/230819/p8#a230819p8)
  - [Energy Choice: How to Switch Your Electric Company     - CNET](https://www.cnet.com/news/how-to-switch-electric-companies/#ftag=CAD590a51e)
- - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
- - [Source: in H1 2023, Instacart&#39;s revenue grew 30%+ YoY to ~$1.4B but gross transaction volume grew ~5% YoY; Instacart reportedly plans to go public in September &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230819/p7#a230819p7)<!-- TECH:END -->
+ - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

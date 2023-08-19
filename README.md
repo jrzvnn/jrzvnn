@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoeshiner working on a pair of Redwings](http://9gag.com/gag/aPgdGEQ)
- - 😝 [50:50](http://9gag.com/gag/agoZNgg)
- - 💣 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 😝 [I stole this, you can too.](http://9gag.com/gag/abvmXRv)
- - 👉 [How to open a package of spaghetti](http://9gag.com/gag/aVb1W0y)<!-- MEMES:END -->
+ - 😝 [Evergrande filed for bankruptcy it happened it isn&#39;t a conspiracy theory anymore.](http://9gag.com/gag/aRENwDy)
+ - 😝 [I&#39;ve seen that before...](http://9gag.com/gag/adP40nN)
+ - 💣 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)
+ - 😝 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
+ - 👉 [It is what it is](http://9gag.com/gag/aYVnbxm)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 😝 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
- - 💣 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 👉 [Im not saying any names](http://9gag.com/gag/armrR8X)<!-- MEMES:END -->
+ - 😝 [FYI](http://9gag.com/gag/aeQPYGO)
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 💣 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 👉 [This is why i love math](http://9gag.com/gag/aeQP6q5)<!-- MEMES:END -->
 
 ---
 </div>

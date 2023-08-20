@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
- - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - 💣 [You what?](http://9gag.com/gag/adP4NZd)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
+ - 😝 [That&#39;s pretty awsesome](http://9gag.com/gag/aL1N27x)
+ - 😝 [Shrinkflation and greed](http://9gag.com/gag/aDYNjzK)
+ - 💣 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
+ - 😝 [Forgot this masterpiece existed](http://9gag.com/gag/a7q67M2)
+ - 👉 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)<!-- MEMES:END -->
 
 ---
 </div>

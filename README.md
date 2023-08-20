@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Only the EU can save Android in the US now](https://www.androidauthority.com/eu-save-android-us-ios-opinion-3352096/)
  - [In Good Omens, diversity is divine](https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation)
  - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
  - [Galaxy S24: All the Biggest Rumors About Samsung&#39;s Next Phone     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-all-the-biggest-rumors-for-samsungs-next-phone/#ftag=CAD590a51e)
- - [Xbox Series X Storage Upgrade with WD Black C50 Is Cheap and Easy     - CNET](https://www.cnet.com/tech/gaming/xbox-series-x-storage-upgrade-with-wd-black-c50-cheap-and-easy/#ftag=CAD590a51e)
- - [KEF R3 Meta Review: Solid Bass, Premium Sound](https://www.wired.com/review/kef-r3-meta/)<!-- TECH:END -->
+ - [Xbox Series X Storage Upgrade with WD Black C50 Is Cheap and Easy     - CNET](https://www.cnet.com/tech/gaming/xbox-series-x-storage-upgrade-with-wd-black-c50-cheap-and-easy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
- - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 👉 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)<!-- MEMES:END -->
+ - 😝 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 💣 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 😝 [Fatality](http://9gag.com/gag/ap9jLXW)
+ - 👉 [Latin Americans are more based than what you think.](http://9gag.com/gag/ap9jrQB)<!-- MEMES:END -->
 
 ---
 </div>

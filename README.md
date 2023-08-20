@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [A look at online trading scams, which have cost European consumers billions, being perpetrated by fraudsters working from call centers, dubbed &quot;boiler rooms&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230820/p7#a230820p7)
  - [Yaber K2s projector review: streaming made easy with integrated apps](https://appleinsider.com/articles/23/08/20/yaber-k2s-projector-review-streaming-made-easy-with-integrated-apps?utm_medium=rss)
  - [Apple AirPods Pro 3: Release date, price, rumors, features we want to see](https://www.androidauthority.com/apple-airpods-pro-3-3352080/)
- - [SwitchBot says its new smart curtain controller is stronger and quieter](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)<!-- TECH:END -->
+ - [Sign Up for a Year of WP Engine Web-Hosting and Get 4 Months Free     - CNET](https://www.cnet.com/deals/sign-up-for-a-year-of-wp-engine-web-hosting-and-get-4-months-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

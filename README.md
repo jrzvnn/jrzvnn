@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
  - [A look at the potential impact of EU&#39;s DSA and DMA on Big Tech, as some say the impact may be as profound as Great Depression-era laws that reined in US banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p8#a230820p8)
  - [What is TPM &lpar;Trusted Platform Module&rpar;? Here’s how to enable it for Windows 11](https://www.androidauthority.com/what-is-tpm-windows-3356474/)
  - [macOS Ventura App Management exploit revealed 10 months after discovery](https://appleinsider.com/articles/23/08/20/macos-ventura-app-management-exploit-revealed-10-months-after-discovery?utm_medium=rss)
- - [The best AI story generators to help you write your next novel](https://www.androidauthority.com/best-ai-story-generators-3356438/)
- - [Russia’s Luna-25 space craft ‘ceased to exist’ after colliding with the Moon.](https://www.theverge.com/2023/8/20/23839240/russias-luna-25-space-craft-ceased-to-exist-after-colliding-with-the-moon)<!-- TECH:END -->
+ - [The best AI story generators to help you write your next novel](https://www.androidauthority.com/best-ai-story-generators-3356438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

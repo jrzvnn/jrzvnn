@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With that reflex, he&#39;s definitely a gamer!](http://9gag.com/gag/avQXP9d)
- - 😝 [Fan brings a gift for Matt Rife - Standup comedy](http://9gag.com/gag/aOxNywR)
- - 💣 [At last, fighting back](http://9gag.com/gag/aPgdDbV)
- - 😝 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
- - 👉 [So long, dogo](http://9gag.com/gag/aQENn5d)<!-- MEMES:END -->
+ - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 😝 [So long, dogo](http://9gag.com/gag/aQENn5d)
+ - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 👉 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
- - 😝 [Fatality](http://9gag.com/gag/ap9jLXW)
- - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
  - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
+ - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
+ - 💣 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
+ - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
 
 ---
 </div>

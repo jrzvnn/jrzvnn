@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Good Omens, diversity is divine](https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation)
  - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
  - [KEF R3 Meta Review: Solid Bass, Premium Sound](https://www.wired.com/review/kef-r3-meta/)
  - [Google&#39;s New Feature Ensures Your Pixel Phone Hasn&#39;t Been Hacked. Here’s How It Works](https://www.wired.com/story/google-pixel-binary-transparency-security-feature/)
- - [The Lawlessness of Large Numbers](https://www.wired.com/story/the-lawlessness-of-large-numbers/)
- - [LG Gram Style review: a beautiful mess](https://www.theverge.com/23837288/lg-gram-style-2023-review-price-specs-features)<!-- TECH:END -->
+ - [The Lawlessness of Large Numbers](https://www.wired.com/story/the-lawlessness-of-large-numbers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

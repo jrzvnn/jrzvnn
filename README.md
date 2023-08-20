@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [FYI](http://9gag.com/gag/aeQPYGO)
  - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
  - 💣 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
- - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - 👉 [This is why i love math](http://9gag.com/gag/aeQP6q5)<!-- MEMES:END -->
+ - 😝 [This is why i love math](http://9gag.com/gag/aeQP6q5)
+ - 👉 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch Every NFL Football Game on a Streaming Service &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nfl-football/)
- - [Q&amp;A with TikTok Head of Music Ole Obermann on launching TikTok Music in Indonesia and Brazil before the US and helping artists from discovery to distribution &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230820/p3#a230820p3)
- - [Best OTA DVR for Cord Cutting     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [14 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
- - [As Big Tech companies compel employees back to the office, some companies, like Atlassian, Airbnb, Dropbox, and Twilio, remain steadfast backers of remote work &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230820/p2#a230820p2)<!-- TECH:END -->
+ - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
+ - [KEF R3 Meta Review: Solid Bass, Premium Sound](https://www.wired.com/review/kef-r3-meta/)
+ - [Google&#39;s New Feature Ensures Your Pixel Phone Hasn&#39;t Been Hacked. Here’s How It Works](https://www.wired.com/story/google-pixel-binary-transparency-security-feature/)
+ - [The Lawlessness of Large Numbers](https://www.wired.com/story/the-lawlessness-of-large-numbers/)
+ - [LG Gram Style review: a beautiful mess](https://www.theverge.com/23837288/lg-gram-style-2023-review-price-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

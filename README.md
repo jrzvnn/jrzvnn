@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
  - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
- - 💣 [The stance](http://9gag.com/gag/az2DrBj)
- - 😝 [Latin Americans are more based than what you think.](http://9gag.com/gag/ap9jrQB)
+ - 😝 [Ted is Taken](http://9gag.com/gag/a8qXy4e)
+ - 💣 [Latin Americans are more based than what you think.](http://9gag.com/gag/ap9jrQB)
+ - 😝 [The stance](http://9gag.com/gag/az2DrBj)
  - 👉 [Cat vs Onion](http://9gag.com/gag/armrbnK)<!-- MEMES:END -->
 
 ---

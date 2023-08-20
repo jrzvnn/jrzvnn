@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot says its new smart curtain controller is stronger and quieter](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)
  - [The iPhone’s Dynamic Island is like the Mac’s Touch Bar: A promising failure](https://www.androidauthority.com/apple-iphone-dynamic-island-failure-3355250/)
  - [Sources: the UK is in talks to acquire GPUs worth up to &amp;pound;100M for a national &quot;AI Research Resource&quot;; some officials are pushing for allocating more funds &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/230820/p6#a230820p6)
  - [Daily Deals Aug. 20: $150 off M2 MacBook Air, 35% off Shark Robot Vac, MagSafe Wireless Charger for $30, more](https://appleinsider.com/articles/23/08/20/daily-deals-aug-20-150-off-m2-macbook-air-35-off-shark-robot-vac-magsafe-wireless-charger-for-30-more?utm_medium=rss)
- - [John Warnock, who co-founded Adobe in 1982 with Charles Geschke and served as the company&#39;s CEO until 2000, died on August 19 at age 82 &lpar;Dayana Mustak/Bloomberg&rpar;](http://www.techmeme.com/230820/p5#a230820p5)
- - [How Science, Nature, and other peer-reviewed journals are grappling with outlines, drafts, or papers that authors wrote using generative AI, without disclosure &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/230820/p4#a230820p4)<!-- TECH:END -->
+ - [John Warnock, who co-founded Adobe in 1982 with Charles Geschke and served as the company&#39;s CEO until 2000, died on August 19 at age 82 &lpar;Dayana Mustak/Bloomberg&rpar;](http://www.techmeme.com/230820/p5#a230820p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

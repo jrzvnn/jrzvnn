@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
  - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
  - 💣 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
- - 👉 [Agreed](http://9gag.com/gag/aVb1P78)<!-- MEMES:END -->
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [The stance](http://9gag.com/gag/az2DrBj)
+ - 💣 [Cat vs Onion](http://9gag.com/gag/armrbnK)
+ - 😝 [Matt Damon actually rules.](http://9gag.com/gag/aA0NdYR)
+ - 👉 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)<!-- MEMES:END -->
 
 ---
 </div>

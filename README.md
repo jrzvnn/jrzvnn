@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is TPM &lpar;Trusted Platform Module&rpar;? Here’s how to enable it for Windows 11](https://www.androidauthority.com/what-is-tpm-windows-3356474/)
  - [macOS Ventura App Management exploit revealed 10 months after discovery](https://appleinsider.com/articles/23/08/20/macos-ventura-app-management-exploit-revealed-10-months-after-discovery?utm_medium=rss)
  - [The best AI story generators to help you write your next novel](https://www.androidauthority.com/best-ai-story-generators-3356438/)
  - [Russia’s Luna-25 space craft ‘ceased to exist’ after colliding with the Moon.](https://www.theverge.com/2023/8/20/23839240/russias-luna-25-space-craft-ceased-to-exist-after-colliding-with-the-moon)
- - [Apple&#39;s loaded M1 Max MacBook Pro 64GB 2TB drops to record low $2,949](https://appleinsider.com/articles/23/08/20/apples-loaded-m1-max-macbook-pro-64gb-2tb-drops-to-record-low-2949?utm_medium=rss)
- - [Adobe co-founder Dr. John Warnock has died — he was 82](https://www.theverge.com/2023/8/20/23839212/adobe-co-founder-dr-john-warnock-has-died-he-was-82)<!-- TECH:END -->
+ - [Apple&#39;s loaded M1 Max MacBook Pro 64GB 2TB drops to record low $2,949](https://appleinsider.com/articles/23/08/20/apples-loaded-m1-max-macbook-pro-64gb-2tb-drops-to-record-low-2949?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

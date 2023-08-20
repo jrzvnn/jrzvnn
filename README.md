@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
  - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 😝 [So long, dogo](http://9gag.com/gag/aQENn5d)
- - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 👉 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)<!-- MEMES:END -->
+ - 💣 [To all you europeans complaining about immigrants. Im a Saudi citizen, I applied for schengen visa. Got rejected. &lpar;Proved im wealthy and with a stable job&rpar;Is it me or is europe allowing certain type of useless people in to fulfill some agenda? I just wanna see the colosseum.](http://9gag.com/gag/ajVMrPx)
+ - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
+ - 👉 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)<!-- MEMES:END -->
 
 ---
 </div>

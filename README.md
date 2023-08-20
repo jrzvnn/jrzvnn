@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
- - 😝 [Why?](http://9gag.com/gag/ajVMDz1)
- - 💣 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 👉 [Shrinkflation and greed](http://9gag.com/gag/aDYNjzK)<!-- MEMES:END -->
+ - 😝 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 💣 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
+ - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
+ - 👉 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)<!-- MEMES:END -->
 
 ---
 </div>

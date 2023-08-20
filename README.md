@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 😝 [I am not even British but it makes my blood boil](http://9gag.com/gag/az2DEQp)
- - 💣 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
- - 😝 [No sauce, more bonk](http://9gag.com/gag/aGENRVX)
- - 👉 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)<!-- MEMES:END -->
+ - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 👉 [Agreed](http://9gag.com/gag/aVb1P78)<!-- MEMES:END -->
 
 ---
 </div>

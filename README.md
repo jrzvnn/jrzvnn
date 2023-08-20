@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 😝 [Why?](http://9gag.com/gag/ajVMDz1)
- - 👉 [Just a moment](http://9gag.com/gag/adP4jnQ)<!-- MEMES:END -->
+ - 😝 [So long, dogo](http://9gag.com/gag/aQENn5d)
+ - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
+ - 💣 [That&#39;s pretty awsesome](http://9gag.com/gag/aL1N27x)
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 👉 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)<!-- MEMES:END -->
 
 ---
 </div>

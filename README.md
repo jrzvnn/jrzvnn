@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
  - [As Big Tech companies compel employees back to the office, some companies, like Atlassian, Airbnb, Dropbox, and Twilio, remain steadfast backers of remote work &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230820/p2#a230820p2)
  - [Spain vs. England: How to Watch FIFA Women&#39;s World Cup 2023 Final Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spain-vs-england-how-to-watch-fifa-womens-world-cup-2023-final-live-from-anywhere/#ftag=CAD590a51e)
  - [X appears to have deleted all images posted directly on the website between 2011 and 2014; links that used Twitter&#39;s native shortening service are also broken &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230820/p1#a230820p1)
- - [Analysis: Books3, a dataset used to train Meta&#39;s Llama, BloombergGPT, and EleutherAI&#39;s GPT-J, contains 170K+ books from Stephen King and other authors &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/230819/p10#a230819p10)
- - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: Books3, a dataset used to train Meta&#39;s Llama, BloombergGPT, and EleutherAI&#39;s GPT-J, contains 170K+ books from Stephen King and other authors &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/230819/p10#a230819p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Latin Americans are more based than what you think.](http://9gag.com/gag/ap9jrQB)
- - 😝 [Ted is Taken](http://9gag.com/gag/a8qXy4e)
- - 💣 [The stance](http://9gag.com/gag/az2DrBj)
- - 😝 [That feeling](http://9gag.com/gag/aMEN8Xx)
- - 👉 [Cat vs Onion](http://9gag.com/gag/armrbnK)<!-- MEMES:END -->
+ - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
+ - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 💣 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 ---
 </div>

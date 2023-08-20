@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 💣 [Im not saying any names](http://9gag.com/gag/armrR8X)
- - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 👉 [The title writes itself](http://9gag.com/gag/anzW1wz)<!-- MEMES:END -->
+ - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 💣 [Why?](http://9gag.com/gag/ajVMDz1)
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 👉 [Physics...](http://9gag.com/gag/ap9jvO5)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
- - 💣 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
- - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 😝 [So long, dogo](http://9gag.com/gag/aQENn5d)
+ - 💣 [This is why i love math](http://9gag.com/gag/aeQP6q5)
+ - 😝 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)
+ - 👉 [Just a moment](http://9gag.com/gag/adP4jnQ)<!-- MEMES:END -->
 
 ---
 </div>

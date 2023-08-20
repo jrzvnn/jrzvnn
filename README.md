@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
- - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 💣 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 👉 [Why?](http://9gag.com/gag/ajVMDz1)<!-- MEMES:END -->
+ - 😝 [Forgot this masterpiece existed](http://9gag.com/gag/a7q67M2)
+ - 😝 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)
+ - 💣 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 👉 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)<!-- MEMES:END -->
 
 ---
 </div>

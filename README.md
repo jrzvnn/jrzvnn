@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FYI](http://9gag.com/gag/aeQPYGO)
- - 😝 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)
- - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 😝 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
- - 👉 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)<!-- MEMES:END -->
+ - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 💣 [Im not saying any names](http://9gag.com/gag/armrR8X)
+ - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
+ - 👉 [The title writes itself](http://9gag.com/gag/anzW1wz)<!-- MEMES:END -->
 
 ---
 </div>

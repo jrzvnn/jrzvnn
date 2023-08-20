@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
- - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 💣 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 😝 [I am not even British but it makes my blood boil](http://9gag.com/gag/az2DEQp)
+ - 💣 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)
+ - 😝 [No sauce, more bonk](http://9gag.com/gag/aGENRVX)
+ - 👉 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)<!-- MEMES:END -->
 
 ---
 </div>

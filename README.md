@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
  - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 👉 [Agreed](http://9gag.com/gag/aVb1P78)<!-- MEMES:END -->
+ - 😝 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 💣 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 👉 [Im not saying any names](http://9gag.com/gag/armrR8X)<!-- MEMES:END -->
 
 ---
 </div>

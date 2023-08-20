@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A funny 170](http://9gag.com/gag/aOxNVA3)
- - 😝 [Fan brings a gift for Matt Rife - Standup comedy](http://9gag.com/gag/aOxNywR)
- - 💣 [At last, fighting back](http://9gag.com/gag/aPgdDbV)
- - 😝 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
- - 👉 [So long, dogo](http://9gag.com/gag/aQENn5d)<!-- MEMES:END -->
+ - 😝 [Don&#39;t pay your bill to a contractor......](http://9gag.com/gag/aOxNVGy)
+ - 😝 [It is what it is](http://9gag.com/gag/aYVnbxm)
+ - 💣 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
+ - 👉 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)<!-- MEMES:END -->
 
 ---
 </div>

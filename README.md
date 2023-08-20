@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Big Tech companies compel employees back to the office, some companies, like Atlassian, Airbnb, Dropbox, and Twilio, remain steadfast backers of remote work &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230820/p2#a230820p2)
  - [X appears to have deleted all images posted directly on the website between 2011 and 2014; links that used Twitter&#39;s native shortening service are also broken &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230820/p1#a230820p1)
  - [Analysis: Books3, a dataset used to train Meta&#39;s Llama, BloombergGPT, and EleutherAI&#39;s GPT-J, contains 170K+ books from Stephen King and other authors &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/230819/p10#a230819p10)
  - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
- - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
- - [Analysis: daily trading volumes surge on Coinbase International, an offshore derivatives exchange Coinbase launched in May 2023, reaching $287M on August 18 &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230819/p9#a230819p9)<!-- TECH:END -->
+ - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

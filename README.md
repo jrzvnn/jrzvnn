@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 💣 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
- - 👉 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)<!-- MEMES:END -->
+ - 😝 [When details were made not only for posting them online](http://9gag.com/gag/aqep5YY)
+ - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
+ - 💣 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
 
 ---
 </div>

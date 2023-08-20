@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Books3, a dataset used to train Meta&#39;s Llama, BloombergGPT, and EleutherAI&#39;s GPT-J, contains 170K+ books from Stephen King and other authors &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/230819/p10#a230819p10)
  - [Best Android VPN 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)
  - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
  - [Analysis: daily trading volumes surge on Coinbase International, an offshore derivatives exchange Coinbase launched in May 2023, reaching $287M on August 18 &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230819/p9#a230819p9)
- - [Kensington TB550 Pro Fit Ergo Trackball review: a solid entry-level trackball mouse](https://appleinsider.com/articles/23/08/19/kensington-tb550-pro-fit-ergo-trackball-review-a-solid-entry-level-trackball-mouse?utm_medium=rss)
- - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kensington TB550 Pro Fit Ergo Trackball review: a solid entry-level trackball mouse](https://appleinsider.com/articles/23/08/19/kensington-tb550-pro-fit-ergo-trackball-review-a-solid-entry-level-trackball-mouse?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

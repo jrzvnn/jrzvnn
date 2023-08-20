@@ -157,8 +157,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [A funny 170](http://9gag.com/gag/aOxNVA3)
  - 😝 [Fan brings a gift for Matt Rife - Standup comedy](http://9gag.com/gag/aOxNywR)
- - 💣 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
- - 😝 [At last, fighting back](http://9gag.com/gag/aPgdDbV)
+ - 💣 [At last, fighting back](http://9gag.com/gag/aPgdDbV)
+ - 😝 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
  - 👉 [So long, dogo](http://9gag.com/gag/aQENn5d)<!-- MEMES:END -->
 
 ---

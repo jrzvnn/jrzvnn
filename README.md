@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
  - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 😝 [Why?](http://9gag.com/gag/ajVMDz1)
  - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 👉 [How thoughtful of her!](http://9gag.com/gag/a9qN7K1)<!-- MEMES:END -->
+ - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 👉 [Agreed](http://9gag.com/gag/aVb1P78)<!-- MEMES:END -->
 
 ---
 </div>

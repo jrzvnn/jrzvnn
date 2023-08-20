@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
- - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
- - 💣 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 😝 [The stance](http://9gag.com/gag/az2DrBj)
  - 😝 [Fatality](http://9gag.com/gag/ap9jLXW)
+ - 💣 [Cat vs Onion](http://9gag.com/gag/armrbnK)
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
  - 👉 [Latin Americans are more based than what you think.](http://9gag.com/gag/ap9jrQB)<!-- MEMES:END -->
 
 ---

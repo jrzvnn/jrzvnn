@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
  - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
- - 💣 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 👉 [Just a moment](http://9gag.com/gag/adP4jnQ)<!-- MEMES:END -->
+ - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
+ - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 👉 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)<!-- MEMES:END -->
 
 ---
 </div>

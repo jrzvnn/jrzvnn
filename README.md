@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
- - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 💣 [Im not saying any names](http://9gag.com/gag/armrR8X)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 👉 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)<!-- MEMES:END -->
+ - 😝 [Latin Americans are more based than what you think.](http://9gag.com/gag/ap9jrQB)
+ - 😝 [Ted is Taken](http://9gag.com/gag/a8qXy4e)
+ - 💣 [The stance](http://9gag.com/gag/az2DrBj)
+ - 😝 [That feeling](http://9gag.com/gag/aMEN8Xx)
+ - 👉 [Cat vs Onion](http://9gag.com/gag/armrbnK)<!-- MEMES:END -->
 
 ---
 </div>

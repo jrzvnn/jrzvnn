@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 😝 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
+ - 😝 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
  - 💣 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 👉 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)<!-- MEMES:END -->
+ - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
+ - 👉 [Why?](http://9gag.com/gag/ajVMDz1)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When details were made not only for posting them online](http://9gag.com/gag/aqep5YY)
- - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
- - 💣 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
- - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 👉 [She took a break from dancing around dying grandparents for TikTok](http://9gag.com/gag/amAb8zd)<!-- MEMES:END -->
+ - 😝 [A funny 170](http://9gag.com/gag/aOxNVA3)
+ - 😝 [Fan brings a gift for Matt Rife - Standup comedy](http://9gag.com/gag/aOxNywR)
+ - 💣 [Back in day we used to say that he has eyes also on back of his head](http://9gag.com/gag/a5Xy72y)
+ - 😝 [At last, fighting back](http://9gag.com/gag/aPgdDbV)
+ - 👉 [So long, dogo](http://9gag.com/gag/aQENn5d)<!-- MEMES:END -->
 
 ---
 </div>

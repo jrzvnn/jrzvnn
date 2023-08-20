@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forgot this masterpiece existed](http://9gag.com/gag/a7q67M2)
- - 😝 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)
- - 💣 [Once in a lifetime shot. Park ranger uses a shotgun to separate &lpar;and save&rpar; two antler locked bucks](http://9gag.com/gag/aBdNwKA)
+ - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
+ - 😝 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 💣 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
  - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 👉 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)<!-- MEMES:END -->
+ - 👉 [Something we can all agree on](http://9gag.com/gag/axon2bb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirPods Pro 3: Release date, price, rumors, features we want to see](https://www.androidauthority.com/apple-airpods-pro-3-3352080/)
  - [SwitchBot says its new smart curtain controller is stronger and quieter](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)
  - [The iPhone’s Dynamic Island is like the Mac’s Touch Bar: A promising failure](https://www.androidauthority.com/apple-iphone-dynamic-island-failure-3355250/)
  - [Sources: the UK is in talks to acquire GPUs worth up to &amp;pound;100M for a national &quot;AI Research Resource&quot;; some officials are pushing for allocating more funds &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/230820/p6#a230820p6)
- - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
- - [Boost Your Recovery With Up to $200 Off Therabody Massagers and More     - CNET](https://www.cnet.com/deals/boost-your-recovery-with-up-to-200-off-therabody-massagers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So long, dogo](http://9gag.com/gag/aQENn5d)
- - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 💣 [That&#39;s pretty awsesome](http://9gag.com/gag/aL1N27x)
- - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - 👉 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)<!-- MEMES:END -->
+ - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 💣 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
+ - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
 
 ---
 </div>

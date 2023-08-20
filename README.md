@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Deals Aug. 20: $150 off M2 MacBook Air, 35% off Shark Robot Vac, MagSafe Wireless Charger for $30, more](https://appleinsider.com/articles/23/08/20/daily-deals-aug-20-150-off-m2-macbook-air-35-off-shark-robot-vac-magsafe-wireless-charger-for-30-more?utm_medium=rss)
+ - [John Warnock, who co-founded Adobe in 1982 with Charles Geschke and served as the company&#39;s CEO until 2000, died on August 19 at age 82 &lpar;Dayana Mustak/Bloomberg&rpar;](http://www.techmeme.com/230820/p5#a230820p5)
  - [How Science, Nature, and other peer-reviewed journals are grappling with outlines, drafts, or papers that authors wrote using generative AI, without disclosure &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/230820/p4#a230820p4)
  - [Tesla iOS app update lets you ask Siri to lock the doors](https://appleinsider.com/articles/23/08/20/tesla-ios-app-update-lets-you-ask-siri-to-lock-the-doors?utm_medium=rss)
- - [Only the EU can save Android in the US now](https://www.androidauthority.com/eu-save-android-us-ios-opinion-3352096/)
- - [In Good Omens, diversity is divine](https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation)
- - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)<!-- TECH:END -->
+ - [Only the EU can save Android in the US now](https://www.androidauthority.com/eu-save-android-us-ios-opinion-3352096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

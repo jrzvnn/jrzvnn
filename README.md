@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
- - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
- - 💣 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 💣 [You what?](http://9gag.com/gag/adP4NZd)
  - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe co-founder Dr. John Warnock has died — he was 82](https://www.theverge.com/2023/8/20/23839212/adobe-co-founder-dr-john-warnock-has-died-he-was-82)
  - [A look at online trading scams, which have cost European consumers billions, being perpetrated by fraudsters working from call centers, dubbed &quot;boiler rooms&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230820/p7#a230820p7)
  - [Yaber K2s projector review: streaming made easy with integrated apps](https://appleinsider.com/articles/23/08/20/yaber-k2s-projector-review-streaming-made-easy-with-integrated-apps?utm_medium=rss)
  - [Apple AirPods Pro 3: Release date, price, rumors, features we want to see](https://www.androidauthority.com/apple-airpods-pro-3-3352080/)
- - [SwitchBot says its new smart curtain controller is stronger and quieter](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)
- - [The iPhone’s Dynamic Island is like the Mac’s Touch Bar: A promising failure](https://www.androidauthority.com/apple-iphone-dynamic-island-failure-3355250/)<!-- TECH:END -->
+ - [SwitchBot says its new smart curtain controller is stronger and quieter](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

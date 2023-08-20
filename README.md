@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
  - 😝 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 💣 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
- - 😝 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
+ - 😝 [Sunny day](http://9gag.com/gag/a8qXM8d)
+ - 💣 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
+ - 😝 [`I&#39;m not a sheep, I&#39;m a wolf`](http://9gag.com/gag/aeQP38B)
+ - 👉 [Something we can all agree on](http://9gag.com/gag/axon2bb)<!-- MEMES:END -->
 
 ---
 </div>

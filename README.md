@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)
- - 😝 [Stand-up comedy heckler](http://9gag.com/gag/aBdNQ8P)
- - 💣 [Something we can all agree on](http://9gag.com/gag/axon2bb)
- - 😝 [Where is the hentay version?](http://9gag.com/gag/aeQP39Q)
- - 👉 [How Coffee Shops Track Customers and Employees](http://9gag.com/gag/a9qNLZW)<!-- MEMES:END -->
+ - 😝 [Full send!](http://9gag.com/gag/aPgdDoq)
+ - 😝 [Fatality](http://9gag.com/gag/ap9jLXW)
+ - 💣 [Physics...](http://9gag.com/gag/ap9jvO5)
+ - 😝 [Kat Dennings](http://9gag.com/gag/aMENrNV)
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 ---
 </div>

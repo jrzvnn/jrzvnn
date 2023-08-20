@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [SwitchBot says its new smart curtain controller is stronger and quieter](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)
  - [The iPhone’s Dynamic Island is like the Mac’s Touch Bar: A promising failure](https://www.androidauthority.com/apple-iphone-dynamic-island-failure-3355250/)
  - [Sources: the UK is in talks to acquire GPUs worth up to &amp;pound;100M for a national &quot;AI Research Resource&quot;; some officials are pushing for allocating more funds &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/230820/p6#a230820p6)
- - [Daily Deals Aug. 20: $150 off M2 MacBook Air, 35% off Shark Robot Vac, MagSafe Wireless Charger for $30, more](https://appleinsider.com/articles/23/08/20/daily-deals-aug-20-150-off-m2-macbook-air-35-off-shark-robot-vac-magsafe-wireless-charger-for-30-more?utm_medium=rss)
- - [John Warnock, who co-founded Adobe in 1982 with Charles Geschke and served as the company&#39;s CEO until 2000, died on August 19 at age 82 &lpar;Dayana Mustak/Bloomberg&rpar;](http://www.techmeme.com/230820/p5#a230820p5)<!-- TECH:END -->
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)
+ - [Boost Your Recovery With Up to $200 Off Therabody Massagers and More     - CNET](https://www.cnet.com/deals/boost-your-recovery-with-up-to-200-off-therabody-massagers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Specs and pricing for Xiaomi’s Pixel 7 rival have leaked](https://www.androidauthority.com/xiaomi-13t-series-specs-price-leak-3356520/)
  - [iPhones now support RCS messages for the first time thanks to this app!](https://www.androidauthority.com/iphone-rcs-support-beeper-3356511/)
  - [This is how Google’s upcoming eSIM transfer tool will work on Android](https://www.androidauthority.com/android-esim-transfer-3356508/)
  - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)
- - [Sources: Meta plans to launch a web version of Threads early this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p10#a230820p10)
- - [Some clinicians think unrealistic depictions of dissociative identity disorder on TikTok are influencing young people to self-diagnose or imitate the disorder &lpar;Jessica Lucas/The Verge&rpar;](http://www.techmeme.com/230820/p9#a230820p9)<!-- TECH:END -->
+ - [Sources: Meta plans to launch a web version of Threads early this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p10#a230820p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

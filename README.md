@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)
  - [Apple Support app update adds info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)
  - [Zoom reports Q2 revenue up 3.6% YoY to $1.14B, vs. $1.12B est., net income of $182M, up from $46M YoY, and raises its FY 2024 guidance; ZM jumps 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230821/p22#a230821p22)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Triller&#39;s S-1 filing claims the short-form video app has had 550M signups, but Apptopia estimates it has been downloaded just 73.2M times since its 2015 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p21#a230821p21)
- - [Rejoice, friends: The Galaxy S24 and S24 Plus batteries could get much larger](https://www.androidauthority.com/samsung-galaxy-s24-battery-3356783/)<!-- TECH:END -->
+ - [Triller&#39;s S-1 filing claims the short-form video app has had 550M signups, but Apptopia estimates it has been downloaded just 73.2M times since its 2015 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p21#a230821p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

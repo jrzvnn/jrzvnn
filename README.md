@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 could get braided &amp; color-matched USB-C cables](https://appleinsider.com/articles/23/08/21/iphone-15-could-get-braided-color-matched-usb-c-cables?utm_medium=rss)
- - [LG Gram Style &lpar;2023&rpar; review: 120Hz OLED, bold color-changing body, and lightweight, but limited power, poor thermal management and trackpad, and bendy chassis &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230821/p5#a230821p5)
- - [Samsung announces the first game to support new HDR10 Plus Gaming standard](https://www.theverge.com/2023/8/21/23839768/samsung-hdr10-plus-gaming-standard-the-first-descendant-nexon)
- - [Sources: Instacart, Databricks, and Socure are considered candidates to launch IPOs in 2024, as Arm&#39;s forthcoming IPO provides a good test of investor sentiment &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p4#a230821p4)
- - [The US announces $667M in new grants and loans for 37 new recipients to expand rural broadband infrastructure, after allocating $771.4M in April and June 2023 &lpar;Kavish Harjai/Associated Press&rpar;](http://www.techmeme.com/230821/p3#a230821p3)<!-- TECH:END -->
+ - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)
+ - [5 Best Webcams &lpar;2023&rpar;: 1080p, 4K, Pan-Tilt-Zoom Cameras](https://www.wired.com/gallery/best-webcams/)
+ - [The Most Popular Digital Abortion Clinics, Ranked by Data Privacy](https://www.wired.com/story/most-popular-digital-telehealth-medication-abortion-ranked-data-privacy/)
+ - [One UI 6 brings official Chromecast support to Samsung Galaxy phones](https://www.androidauthority.com/samsung-galaxy-chromecast-one-ui-6-3356571/)
+ - [iPhone 15 could get braided &amp; color-matched USB-C cables](https://appleinsider.com/articles/23/08/21/iphone-15-could-get-braided-color-matched-usb-c-cables?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

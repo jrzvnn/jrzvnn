@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
+ - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
+ - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
  - 😝 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)
- - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 💣 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 😝 [Agreed](http://9gag.com/gag/aVb1P78)
- - 👉 [Panam cosplay](http://9gag.com/gag/adP4KMV)<!-- MEMES:END -->
+ - 👉 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)<!-- MEMES:END -->
 
 ---
 </div>

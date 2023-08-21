@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
  - 💣 [Paris, France. First World Country.](http://9gag.com/gag/ajVMDYw)
- - 😝 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)
- - 👉 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)<!-- MEMES:END -->
+ - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: cybersecurity company SentinelOne, whose shares dropped ~80% in the last two years, has been exploring options including a sale; stock jumps 15%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230821/p19#a230821p19)
  - [Samsung’s latest pitch for the Z Fold 5: two iPhones at the same time](https://www.theverge.com/2023/8/21/23840345/samsung-try-galaxy-foldable-demo-two-iphones)
  - [Info leaks on Galaxy Buds 3, but could possibly be a new ‘Fan Edition’ variant](https://www.androidauthority.com/samsung-galaxy-buds-r400n-3356759/)
  - [Microsoft kills Kinect again](https://www.theverge.com/2023/8/21/23840327/microsoft-azure-kinect-developer-kit-discontinued)
- - [Friend.tech, which lets people use crypto to buy &quot;shares&quot; of X accounts, hits 100K users, per a database of wallet addresses that has raised privacy concerns &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230821/p18#a230821p18)
- - [Should California expect more tropical storms like Hurricane Hilary?](https://www.theverge.com/2023/8/21/23839976/california-tropical-storms-hurricane-hilary-climate-change)<!-- TECH:END -->
+ - [Friend.tech, which lets people use crypto to buy &quot;shares&quot; of X accounts, hits 100K users, per a database of wallet addresses that has raised privacy concerns &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230821/p18#a230821p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

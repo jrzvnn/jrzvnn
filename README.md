@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
  - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
  - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
  - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
- - 👉 [No sauce, more bonk](http://9gag.com/gag/aGENRVX)<!-- MEMES:END -->
+ - 👉 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)<!-- MEMES:END -->
 
 ---
 </div>

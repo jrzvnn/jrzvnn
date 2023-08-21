@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Triller&#39;s S-1 filing claims the short-form video app has had 550M signups, but Apptopia estimates it has been downloaded just 73.2M times since its 2015 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p21#a230821p21)
  - [Rejoice, friends: The Galaxy S24 and S24 Plus batteries could get much larger](https://www.androidauthority.com/samsung-galaxy-s24-battery-3356783/)
  - [A summer 2022 draft agreement between the US and ByteDance to avoid a TikTok ban would give US agencies power to block app policy changes, veto hirings, more &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230821/p20#a230821p20)
- - [The best phone deals of August 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Sources: cybersecurity company SentinelOne, whose shares dropped ~80% in the last two years, has been exploring options including a sale; stock jumps 15%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230821/p19#a230821p19)
- - [Samsung’s latest pitch for the Z Fold 5: two iPhones at the same time](https://www.theverge.com/2023/8/21/23840345/samsung-try-galaxy-foldable-demo-two-iphones)<!-- TECH:END -->
+ - [T-Mobile&#39;s New Go5G Next Plan Gives You a New Smartphone Every Year     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-new-go5g-next-plan-gives-you-a-new-smartphone-every-year/#ftag=CAD590a51e)
+ - [Netflix Mail Subscribers Might Receive Up to 10 Mystery DVDs     - CNET](https://www.cnet.com/news/netflix-mail-subscribers-might-receive-up-to-10-mystery-dvds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

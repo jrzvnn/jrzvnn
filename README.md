@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mysterious Fitbit tracker stops by the FCC, but what is it?](https://www.androidauthority.com/fitbit-tracker-2023-3356731/)
+ - [How to use the new Kanban feature in Reminders on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-kanban-feature-in-reminders-on-macos-sonoma?utm_medium=rss)
+ - [Report: before tweeting a pro-Russia Ukraine peace plan, Elon Musk said he had Kremlin consultations; he also told the US of a Putin call but publicly denied it &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/230821/p16#a230821p16)
  - [The new Metal Gear Solid collection is coming to PS4, too](https://www.theverge.com/2023/8/21/23840181/the-new-metal-gear-solid-collection-is-coming-to-ps4-too)
- - [All the Pixel Watch 2 really needs is good battery life](https://www.theverge.com/23836353/pixel-watch-2-battery-life-wear-os-4)
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [First price drop on the new Skullcandy Crusher ANC 2 headphones](https://www.androidauthority.com/first-price-drop-on-the-new-skullcandy-crusher-anc-2-headphones-3356709/)
- - [Apple Podcasts adds Subscription Analytics, integrates its analytics into the marketing platform Linkfire, and adds more hosting providers to Delegated Delivery &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230821/p15#a230821p15)<!-- TECH:END -->
+ - [All the Pixel Watch 2 really needs is good battery life](https://www.theverge.com/23836353/pixel-watch-2-battery-life-wear-os-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

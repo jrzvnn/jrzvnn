@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
- - 😝 [How the Turntables](http://9gag.com/gag/awZGnrD)
- - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 😝 [Nobody wants to kiss her](http://9gag.com/gag/az2D9Km)
- - 👉 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)<!-- MEMES:END -->
+ - 😝 [Beach w\u00f6rm](http://9gag.com/gag/aMEN8v1)
+ - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 💣 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 😝 [Right into nerve](http://9gag.com/gag/aoKqeE0)
+ - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
 
 ---
 </div>

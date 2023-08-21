@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTag again exposes lies told by airlines about lost luggage](https://appleinsider.com/articles/23/08/21/airtag-again-exposes-lies-told-by-airlines-about-lost-luggage?utm_medium=rss)
  - [You told us: You think the Mix Fold 3 is hot, so where’s the global launch?](https://www.androidauthority.com/xiaomi-mix-fold-3-hot-not-poll-results-3356553/)
  - [PeckShield: a wallet tied to the ~$600M Binance Coin hack in October 2022 had $63M liquidated on lending platform Venus Protocol, after using BNB as collateral &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230821/p2#a230821p2)
  - [Adderall Shortages Are Dragging On—Can Video Games Help?](https://www.wired.com/story/adhd-adderall-video-games-endeavorrx/)
- - [The Dark History ‘Oppenheimer’ Didn&#39;t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)
- - [T-Mobile&#39;s Autopay Change Complicates My Favorite Credit Card Perk     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-autopay-change-complicates-my-favorite-credit-card-perk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Dark History ‘Oppenheimer’ Didn&#39;t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

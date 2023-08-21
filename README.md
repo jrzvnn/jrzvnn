@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
- - 👉 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)<!-- MEMES:END -->
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
+ - 💣 [Im not saying any names](http://9gag.com/gag/armrR8X)
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 👉 [The title writes itself](http://9gag.com/gag/anzW1wz)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
+ - 💣 [How the Turntables](http://9gag.com/gag/awZGnrD)
  - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
  - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 

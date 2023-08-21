@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Oh behave!](http://9gag.com/gag/aA0N3p0)
- - 😝 [Good news of the day ...](http://9gag.com/gag/a04WK3Z)
- - 💣 [Bestie questioning my sanity](http://9gag.com/gag/a4orQdQ)
- - 😝 [Meme origin: This music video was filmed exactly 22 years ago today.](http://9gag.com/gag/a8qXov6)
- - 👉 [Nap time be like...](http://9gag.com/gag/avQXOqM)<!-- MEMES:END -->
+ - 😝 [Bestie questioning my sanity](http://9gag.com/gag/a4orQdQ)
+ - 💣 [Meme origin: This music video was filmed exactly 22 years ago today.](http://9gag.com/gag/a8qXov6)
+ - 😝 [Nap time be like...](http://9gag.com/gag/avQXOqM)
+ - 👉 [Manager standing up for his employees](http://9gag.com/gag/aA0NgVg)<!-- MEMES:END -->
 
 ---
 </div>

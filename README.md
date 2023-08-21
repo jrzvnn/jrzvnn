@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eve Cam 2 leaks, Aqara&#39;s T1 light strip, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/21/eve-cam-2-leaks-aqaras-t1-light-strip-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Interviews with Microsoft CEO Satya Nadella, CTO Kevin Scott, and other executives on AI, investment in AI over the past decade, Office Copilots, Bing, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230821/p9#a230821p9)
+ - [Tired of broken iPhone cables? The iPhone 15 could finally fix this](https://www.androidauthority.com/iphone-15-series-braided-usb-c-cable-leak-3356613/)
  - [Here’s the first outdoor smart plug to work with Matter](https://www.theverge.com/2023/8/21/23837585/leviton-matter-outdoor-smart-plug)
- - [Are you the world&#39;s biggest Apple fan? Here&#39;s how to find out](https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out?utm_medium=rss)
- - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)
- - [A notice from Maine&#39;s AG says Tesla&#39;s May 2023 data breach impacted 75,735 people, included employee-related records, and was a result of &quot;insider wrongdoing&quot; &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/230821/p7#a230821p7)
- - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)<!-- TECH:END -->
+ - [Are you the world&#39;s biggest Apple fan? Here&#39;s how to find out](https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

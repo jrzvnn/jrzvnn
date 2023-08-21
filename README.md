@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 😝 [Bored?](http://9gag.com/gag/aNw21L0)
- - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 😝 [The biggest mistake](http://9gag.com/gag/aA0NwP0)
  - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 💣 [How the Turntables](http://9gag.com/gag/awZGnrD)
+ - 😝 [Physics...](http://9gag.com/gag/ap9jvO5)
  - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 
 ---

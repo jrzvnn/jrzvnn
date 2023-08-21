@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [PeckShield: a wallet tied to the ~$600M Binance Coin hack in October 2022 had $63M liquidated on lending platform Venus Protocol, after using BNB as collateral &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230821/p2#a230821p2)
  - [Adderall Shortages Are Dragging On—Can Video Games Help?](https://www.wired.com/story/adhd-adderall-video-games-endeavorrx/)
  - [The Dark History ‘Oppenheimer’ Didn&#39;t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)
- - [USDA announces $667 million in rural broadband funding](https://www.theverge.com/2023/8/21/23837593/biden-broadband-usda-reconnect-internet-rural-farms)<!-- TECH:END -->
+ - [T-Mobile&#39;s Autopay Change Complicates My Favorite Credit Card Perk     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-autopay-change-complicates-my-favorite-credit-card-perk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

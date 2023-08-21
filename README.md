@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How did he...](http://9gag.com/gag/aL1N9RV)
+ - 😝 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
  - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
- - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 👉 [Agreed](http://9gag.com/gag/aVb1P78)<!-- MEMES:END -->
+ - 💣 [Paris, France. First World Country.](http://9gag.com/gag/ajVMDYw)
+ - 😝 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)
+ - 👉 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)<!-- MEMES:END -->
 
 ---
 </div>

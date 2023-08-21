@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The stance](http://9gag.com/gag/az2DrBj)
- - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 💣 [Matt Damon actually rules.](http://9gag.com/gag/aA0NdYR)
- - 😝 [That feeling](http://9gag.com/gag/aMEN8Xx)
- - 👉 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)<!-- MEMES:END -->
+ - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
+ - 👉 [No sauce, more bonk](http://9gag.com/gag/aGENRVX)<!-- MEMES:END -->
 
 ---
 </div>

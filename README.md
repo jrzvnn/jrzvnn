@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase takes a &quot;small&quot; equity stake in Circle as the companies shutter the Centre Consortium, which previously governed the USDC stablecoin &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230821/p24#a230821p24)
  - [FCC filing hints at a new Fitbit tracker — but which one?](https://www.theverge.com/2023/8/21/23840308/fitbit-ace-4-luxe-google-fcc-filing-fitness-tracker)
  - [Filing: SoftBank&#39;s Arm files to list on Nasdaq and reports $524M in net income on $2.68B in revenue in its fiscal 2023, with sales slightly down from 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230821/p23#a230821p23)
  - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)
- - [Apple Support app update adds info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)
- - [Zoom reports Q2 revenue up 3.6% YoY to $1.14B, vs. $1.12B est., net income of $182M, up from $46M YoY, and raises its FY 2024 guidance; ZM jumps 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230821/p22#a230821p22)<!-- TECH:END -->
+ - [Apple Support app update adds info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

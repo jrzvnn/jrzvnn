@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
- - 😝 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)
- - 👉 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)<!-- MEMES:END -->
+ - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 
 ---
 </div>

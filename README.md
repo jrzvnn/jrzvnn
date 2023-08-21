@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USDA announces $667 million in rural broadband funding](https://www.theverge.com/2023/8/21/23837593/biden-broadband-usda-reconnect-internet-rural-farms)
- - [A look at Music: Not Impossible&#39;s haptic suit, consisting of a backpack and ankle and wrist bands, which lets people feel music as vibrations on their bodies &lpar;New York Times&rpar;](http://www.techmeme.com/230821/p1#a230821p1)
- - [Specs and pricing for Xiaomi’s Pixel 7 rival have leaked](https://www.androidauthority.com/xiaomi-13t-series-specs-price-leak-3356520/)
- - [iPhones now support RCS messages for the first time thanks to this app!](https://www.androidauthority.com/iphone-rcs-support-beeper-3356511/)
- - [This is how Google’s upcoming eSIM transfer tool will work on Android](https://www.androidauthority.com/android-esim-transfer-3356508/)<!-- TECH:END -->
+ - [You told us: You think the Mix Fold 3 is hot, so where’s the global launch?](https://www.androidauthority.com/xiaomi-mix-fold-3-hot-not-poll-results-3356553/)
+ - [PeckShield: a wallet tied to the ~$600M Binance Coin hack in October 2022 had $63M liquidated on lending platform Venus Protocol, after using BNB as collateral &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230821/p2#a230821p2)
+ - [Adderall Shortages Are Dragging On—Can Video Games Help?](https://www.wired.com/story/adhd-adderall-video-games-endeavorrx/)
+ - [The Dark History ‘Oppenheimer’ Didn&#39;t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)
+ - [USDA announces $667 million in rural broadband funding](https://www.theverge.com/2023/8/21/23837593/biden-broadband-usda-reconnect-internet-rural-farms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

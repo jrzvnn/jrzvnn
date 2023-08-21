@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First price drop on the new Skullcandy Crusher ANC 2 headphones](https://www.androidauthority.com/first-price-drop-on-the-new-skullcandy-crusher-anc-2-headphones-3356709/)
  - [Apple Podcasts adds Subscription Analytics, integrates its analytics into the marketing platform Linkfire, and adds more hosting providers to Delegated Delivery &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230821/p15#a230821p15)
  - [Blockchain Capital co-founder Bart Stephens sues hacker who stole $6.3M via a SIM-swap attack; FBI: ~$72M was stolen via SIM swaps in 2022, up from $68M in 2021 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/230821/p14#a230821p14)
  - [Tesla points to ‘insider wrongdoing’ as cause of massive employee data leak](https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt)
- - [Apple Podcasts rolls out new data analytics dashboard for content creators](https://appleinsider.com/articles/23/08/21/apple-podcasts-rolls-out-new-data-analytics-dashboard-for-content-creators?utm_medium=rss)
- - [T-Mobile’s new Go5G plan gets even more expensive and offers faster phone upgrades](https://www.theverge.com/2023/8/21/23839982/t-mobile-go5g-next-annual-upgrade-iphone-samsung-galaxy-google-pixel)<!-- TECH:END -->
+ - [Apple Podcasts rolls out new data analytics dashboard for content creators](https://appleinsider.com/articles/23/08/21/apple-podcasts-rolls-out-new-data-analytics-dashboard-for-content-creators?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

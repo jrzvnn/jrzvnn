@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
  - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 👉 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)<!-- MEMES:END -->
+ - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 💣 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What dog breed is this](http://9gag.com/gag/aEqNz2M)
- - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
- - 👉 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)<!-- MEMES:END -->
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 😝 [Didn\u2019t know PR already started](http://9gag.com/gag/aeQPpgq)
+ - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 ---
 </div>

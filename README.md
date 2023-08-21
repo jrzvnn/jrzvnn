@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is unsurprisingly already working on A19 and M5 chips](https://appleinsider.com/articles/23/08/21/apple-is-unsurprisingly-already-working-on-a19-and-m5-chips?utm_medium=rss)
+ - [Amazon’s Fire TV Channels adds a sidebar and more free streaming content](https://www.theverge.com/2023/8/21/23839875/amazon-fire-tv-channels-sidebar-free-streaming-content-fast)
+ - [BeReal replaces its Discovery feed with a Friends of Friends feed, adds pinned profile posts and mentions, and says the app is holding steady at ~20M DAUs &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p12#a230821p12)
  - [The voice of Mario is stepping away from the character](https://www.theverge.com/2023/8/21/23839933/mario-voice-actor-martinet-nintendo-stepping-down)
- - [A recent paper on ChatGPT&#39;s political biases seems to have many flaws, including testing an older model and prompt types, but the broader topic merits research &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230821/p11#a230821p11)
- - [Using Generative AI to Resurrect the Dead Will Create a Burden for the Living](https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/)
- - [Snag an Xbox Series S From Best Buy and Get a Free Copy of Madden NFL 24     - CNET](https://www.cnet.com/deals/snag-an-xbox-series-s-from-best-buy-and-get-a-free-copy-of-madden-nfl-24/#ftag=CAD590a51e)
- - [YouTube is working with Universal Music Group to explore the use of music in AI programs and ways to pay artists whose work is used to make AI-generated content &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230821/p10#a230821p10)<!-- TECH:END -->
+ - [A recent paper on ChatGPT&#39;s political biases seems to have many flaws, including testing an older model and prompt types, but the broader topic merits research &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230821/p11#a230821p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

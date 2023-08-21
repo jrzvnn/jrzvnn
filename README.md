@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 😝 [Is that your real hair?](http://9gag.com/gag/a4or7qy)
- - 💣 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
+ - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 😝 [Fun has no limits](http://9gag.com/gag/aqep13Q)
+ - 💣 [You can never be too careful.](http://9gag.com/gag/aoKqN6A)
+ - 😝 [Title](http://9gag.com/gag/a6q3o89)
+ - 👉 [Monday again](http://9gag.com/gag/aoKqN93)<!-- MEMES:END -->
 
 ---
 </div>

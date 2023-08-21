@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 😝 [Remember what they took from you](http://9gag.com/gag/axonDnY)
  - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 💣 [Equality](http://9gag.com/gag/aL1N8Mv)
- - 😝 [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
- - 👉 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)<!-- MEMES:END -->
+ - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 👉 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)<!-- MEMES:END -->
 
 ---
 </div>

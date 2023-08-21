@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
  - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 💣 [Im not saying any names](http://9gag.com/gag/armrR8X)
- - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
- - 👉 [The title writes itself](http://9gag.com/gag/anzW1wz)<!-- MEMES:END -->
+ - 💣 [Equality](http://9gag.com/gag/aL1N8Mv)
+ - 😝 [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
+ - 👉 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)<!-- MEMES:END -->
 
 ---
 </div>

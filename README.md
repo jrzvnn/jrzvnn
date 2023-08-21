@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A notice from Maine&#39;s AG says Tesla&#39;s May 2023 data breach impacted 75,735 people, included employee-related records, and was a result of &quot;insider wrongdoing&quot; &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/230821/p7#a230821p7)
  - [NFT platform Recur plans to shut down by November 16, 2023, less than two years after raising a $50M Series A, and tells owners to move NFT metadata to the IPFS &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230821/p6#a230821p6)
  - [5 Best Webcams &lpar;2023&rpar;: 1080p, 4K, Pan-Tilt-Zoom Cameras](https://www.wired.com/gallery/best-webcams/)
  - [The Most Popular Digital Abortion Clinics, Ranked by Data Privacy](https://www.wired.com/story/most-popular-digital-telehealth-medication-abortion-ranked-data-privacy/)
- - [One UI 6 brings official Chromecast support to Samsung Galaxy phones](https://www.androidauthority.com/samsung-galaxy-chromecast-one-ui-6-3356571/)
- - [iPhone 15 could get braided &amp; color-matched USB-C cables](https://appleinsider.com/articles/23/08/21/iphone-15-could-get-braided-color-matched-usb-c-cables?utm_medium=rss)<!-- TECH:END -->
+ - [One UI 6 brings official Chromecast support to Samsung Galaxy phones](https://www.androidauthority.com/samsung-galaxy-chromecast-one-ui-6-3356571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

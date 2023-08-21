@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile’s new Go5G plan gets even more expensive and offers faster phone upgrades](https://www.theverge.com/2023/8/21/23839982/t-mobile-go5g-next-annual-upgrade-iphone-samsung-galaxy-google-pixel)
+ - [Daily deals Aug. 21: AirPods Pro $199, $800 off M1 MacBook Pro, 30% off Pixelmator Pro, more](https://appleinsider.com/articles/23/08/21/daily-deals-aug-21-airpods-pro-199-800-off-m1-macbook-pro-30-off-pixelmator-pro-more?utm_medium=rss)
  - [No Apple foldable yet, but iOS users can ‘fold’ two iPhones using Try Galaxy app](https://www.androidauthority.com/try-galaxy-foldables-3356680/)
  - [Samsung Galaxy Z Fold 5 vs Samsung Galaxy S23 Ultra: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-samsung-galaxy-s23-ultra-3355204/)
- - [Microsoft’s new Xbox Series X console wraps include Starfield and camo options](https://www.theverge.com/2023/8/21/23840110/microsoft-xbox-series-x-console-wraps-starfield-camo)
- - [LG’s lovely 65-inch C3 OLED TV is now $700 off at Amazon](https://www.theverge.com/2023/8/21/23839813/lg-c3-oled-tv-xbox-controller-anbernic-handheld-emulators-deal-sale)
- - [Rack-mounted Mac mini power problem solved by remote servos](https://appleinsider.com/articles/23/08/21/rack-mounted-mac-mini-power-problem-solved-by-remote-servos?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Series X console wraps include Starfield and camo options](https://www.theverge.com/2023/8/21/23840110/microsoft-xbox-series-x-console-wraps-starfield-camo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

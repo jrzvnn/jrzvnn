@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Matt Damon actually rules.](http://9gag.com/gag/aA0NdYR)
- - 😝 [Today collected 20kg of garbage. Total is 2955kg. Last time people hate me a lot because of my nationality.But I have no difference where to collect. Your Cleaning Guy.](http://9gag.com/gag/amAbYN9)
- - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
- - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 👉 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)<!-- MEMES:END -->
+ - 😝 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)
+ - 😝 [How the Turntables](http://9gag.com/gag/awZGnrD)
+ - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 😝 [Nobody wants to kiss her](http://9gag.com/gag/az2D9Km)
+ - 👉 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)<!-- MEMES:END -->
 
 ---
 </div>

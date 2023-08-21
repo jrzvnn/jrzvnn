@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friend.tech, which lets people buy &quot;shares&quot; of X accounts with crypto, hits 100K+ users, according to a database that lists wallets and raised privacy concerns &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230821/p18#a230821p18)
+ - [Microsoft kills Kinect again](https://www.theverge.com/2023/8/21/23840327/microsoft-azure-kinect-developer-kit-discontinued)
+ - [Friend.tech, which lets people use crypto to buy &quot;shares&quot; of X accounts, hits 100K users, per a database of wallet addresses that has raised privacy concerns &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230821/p18#a230821p18)
  - [Should California expect more tropical storms like Hurricane Hilary?](https://www.theverge.com/2023/8/21/23839976/california-tropical-storms-hurricane-hilary-climate-change)
- - [Ghost, a B2B surplus inventory marketplace with 1,000+ members, raised a $30M Series B led by Cathay Innovation and plans to expand to Europe and Asia &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230821/p17#a230821p17)
- - [Mysterious Fitbit tracker stops by the FCC, but what is it?](https://www.androidauthority.com/fitbit-tracker-2023-3356731/)
- - [How to use the new Kanban feature in Reminders on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-the-new-kanban-feature-in-reminders-on-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Los Angeles-based Ghost, a B2B surplus inventory marketplace with 1,000+ members, raised a $30M Series B led by Cathay Innovation and aims for Europe and Asia &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230821/p17#a230821p17)
+ - [Mysterious Fitbit tracker stops by the FCC, but what is it?](https://www.androidauthority.com/fitbit-tracker-2023-3356731/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

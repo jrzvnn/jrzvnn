@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beach w\u00f6rm](http://9gag.com/gag/aMEN8v1)
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
+ - 😝 [Taylor Stepaniuk](http://9gag.com/gag/aBdN1mQ)
  - 💣 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - 😝 [Right into nerve](http://9gag.com/gag/aoKqeE0)
- - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
+ - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
 
 ---
 </div>

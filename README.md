@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Newest XLoader threat targets work environments](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
+ - [The New York Times blocks OpenAI’s web crawler](https://www.theverge.com/2023/8/21/23840705/new-york-times-openai-web-crawler-ai-gpt)
+ - [How Hilary Turned Into a Monster Storm](https://www.wired.com/story/how-hilary-turned-into-a-monster-storm/)
  - [Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds](https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet)
- - [X says it’s fixed the bug that broke links and images in pre-December 2014 tweets](https://www.theverge.com/2023/8/21/23840640/twitter-x-2014-image-link-tweet-t-co-shortener)
- - [Coinbase takes a &quot;small&quot; equity stake in Circle as the companies shutter the Centre Consortium, which previously governed the USDC stablecoin &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230821/p24#a230821p24)
- - [FCC filing hints at a new Fitbit tracker — but which one?](https://www.theverge.com/2023/8/21/23840308/fitbit-ace-4-luxe-google-fcc-filing-fitness-tracker)
- - [Filing: SoftBank&#39;s Arm files to list on Nasdaq and reports $524M in net income on $2.68B in revenue in its fiscal 2023, with sales slightly down from 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230821/p23#a230821p23)<!-- TECH:END -->
+ - [X says it’s fixed the bug that broke links and images in pre-December 2014 tweets](https://www.theverge.com/2023/8/21/23840640/twitter-x-2014-image-link-tweet-t-co-shortener)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

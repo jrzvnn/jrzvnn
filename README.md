@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When details were made not only for posting them online](http://9gag.com/gag/aqep5YY)
- - 😝 [Forgot this masterpiece existed](http://9gag.com/gag/a7q67M2)
- - 💣 [Also tax cut](http://9gag.com/gag/aXnGwGV)
- - 😝 [Agreed](http://9gag.com/gag/aVb1P78)
- - 👉 [Remember what they took from you](http://9gag.com/gag/axonDnY)<!-- MEMES:END -->
+ - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 😝 [The stance](http://9gag.com/gag/az2DrBj)
+ - 💣 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 👉 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)<!-- MEMES:END -->
 
 ---
 </div>

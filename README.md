@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [Apple Support app update includes info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)
  - [Triller&#39;s S-1 filing claims the short-form video app has had 550M signups, but Apptopia estimates it has been downloaded just 73.2M times since its 2015 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p21#a230821p21)
  - [Rejoice, friends: The Galaxy S24 and S24 Plus batteries could get much larger](https://www.androidauthority.com/samsung-galaxy-s24-battery-3356783/)
- - [A summer 2022 draft agreement between the US and ByteDance to avoid a TikTok ban would give US agencies power to block app policy changes, veto hirings, more &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230821/p20#a230821p20)
- - [T-Mobile&#39;s New Go5G Next Plan Gives You a New Smartphone Every Year     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-new-go5g-next-plan-gives-you-a-new-smartphone-every-year/#ftag=CAD590a51e)
- - [Netflix Mail Subscribers Might Receive Up to 10 Mystery DVDs     - CNET](https://www.cnet.com/news/netflix-mail-subscribers-might-receive-up-to-10-mystery-dvds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A summer 2022 draft agreement between the US and ByteDance to avoid a TikTok ban would give US agencies power to block app policy changes, veto hirings, more &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230821/p20#a230821p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford’s Mustang Mach-E recall to prevent power failures is under investigation](https://www.theverge.com/2023/8/21/23840346/ford-mustang-mach-e-power-failure-recall-nhtsa)
  - [How to watch Serie A in the USA](https://www.androidauthority.com/how-to-watch-serie-a-in-usa-3356798/)
  - [Newest XLoader threat targets work environments](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
  - [The New York Times blocks OpenAI’s web crawler](https://www.theverge.com/2023/8/21/23840705/new-york-times-openai-web-crawler-ai-gpt)
- - [How Hilary Turned Into a Monster Storm](https://www.wired.com/story/how-hilary-turned-into-a-monster-storm/)
- - [Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds](https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet)<!-- TECH:END -->
+ - [How Hilary Turned Into a Monster Storm](https://www.wired.com/story/how-hilary-turned-into-a-monster-storm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

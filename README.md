@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
- - 😝 [Fun has no limits](http://9gag.com/gag/aqep13Q)
- - 💣 [You can never be too careful.](http://9gag.com/gag/aoKqN6A)
- - 😝 [Title](http://9gag.com/gag/a6q3o89)
- - 👉 [Monday again](http://9gag.com/gag/aoKqN93)<!-- MEMES:END -->
+ - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
+ - 😝 [Bored?](http://9gag.com/gag/aNw21L0)
+ - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
 
 ---
 </div>

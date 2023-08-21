@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rejoice, friends: The Galaxy S24 and S24 Plus batteries could get much larger](https://www.androidauthority.com/samsung-galaxy-s24-battery-3356783/)
+ - [A summer 2022 draft agreement between the US and ByteDance to avoid a TikTok ban would give US agencies power to block app policy changes, veto hirings, more &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230821/p20#a230821p20)
  - [The best phone deals of August 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
  - [Sources: cybersecurity company SentinelOne, whose shares dropped ~80% in the last two years, has been exploring options including a sale; stock jumps 15%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230821/p19#a230821p19)
- - [Samsung’s latest pitch for the Z Fold 5: two iPhones at the same time](https://www.theverge.com/2023/8/21/23840345/samsung-try-galaxy-foldable-demo-two-iphones)
- - [Info leaks on Galaxy Buds 3, but could possibly be a new ‘Fan Edition’ variant](https://www.androidauthority.com/samsung-galaxy-buds-r400n-3356759/)
- - [Microsoft kills Kinect again](https://www.theverge.com/2023/8/21/23840327/microsoft-azure-kinect-developer-kit-discontinued)<!-- TECH:END -->
+ - [Samsung’s latest pitch for the Z Fold 5: two iPhones at the same time](https://www.theverge.com/2023/8/21/23840345/samsung-try-galaxy-foldable-demo-two-iphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

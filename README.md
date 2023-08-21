@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 💣 [How the Turntables](http://9gag.com/gag/awZGnrD)
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 👉 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)<!-- MEMES:END -->
+ - 😝 [Is that your real hair?](http://9gag.com/gag/a4or7qy)
+ - 💣 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
+ - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
+ - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
 
 ---
 </div>

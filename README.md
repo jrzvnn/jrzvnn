@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds](https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet)
+ - [X says it’s fixed the bug that broke links and images in pre-December 2014 tweets](https://www.theverge.com/2023/8/21/23840640/twitter-x-2014-image-link-tweet-t-co-shortener)
  - [Coinbase takes a &quot;small&quot; equity stake in Circle as the companies shutter the Centre Consortium, which previously governed the USDC stablecoin &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230821/p24#a230821p24)
  - [FCC filing hints at a new Fitbit tracker — but which one?](https://www.theverge.com/2023/8/21/23840308/fitbit-ace-4-luxe-google-fcc-filing-fitness-tracker)
- - [Filing: SoftBank&#39;s Arm files to list on Nasdaq and reports $524M in net income on $2.68B in revenue in its fiscal 2023, with sales slightly down from 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230821/p23#a230821p23)
- - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)
- - [Apple Support app update adds info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: SoftBank&#39;s Arm files to list on Nasdaq and reports $524M in net income on $2.68B in revenue in its fiscal 2023, with sales slightly down from 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/230821/p23#a230821p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag again exposes lies told by airlines about lost luggage](https://appleinsider.com/articles/23/08/21/airtag-again-exposes-lies-told-by-airlines-about-lost-luggage?utm_medium=rss)
- - [You told us: You think the Mix Fold 3 is hot, so where’s the global launch?](https://www.androidauthority.com/xiaomi-mix-fold-3-hot-not-poll-results-3356553/)
- - [PeckShield: a wallet tied to the ~$600M Binance Coin hack in October 2022 had $63M liquidated on lending platform Venus Protocol, after using BNB as collateral &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230821/p2#a230821p2)
- - [Adderall Shortages Are Dragging On—Can Video Games Help?](https://www.wired.com/story/adhd-adderall-video-games-endeavorrx/)
- - [The Dark History ‘Oppenheimer’ Didn&#39;t Show](https://www.wired.com/story/the-dark-history-oppenheimer-didnt-show/)<!-- TECH:END -->
+ - [The US announces $667M in new grants and loans for 37 new recipients to expand rural broadband infrastructure, after allocating $771.4M in April and June 2023 &lpar;Kavish Harjai/Associated Press&rpar;](http://www.techmeme.com/230821/p3#a230821p3)
+ - [How to Upgrade Wi-Fi in Your Laptop or Desktop: Wi-Fi Card or USB Adapter](https://www.wired.com/story/how-to-upgrade-wi-fi-pc-laptop/)
+ - [Scammers Used ChatGPT to Unleash a Crypto Botnet on X](https://www.wired.com/story/chat-gpt-crypto-botnet-scam/)
+ - [The World’s Workers Are Donning Cooling Vests to Battle Record Heat Waves](https://www.wired.com/story/cooling-vests-ice-heat-waves/)
+ - [Apple Game Porting Toolkit is easier to set up using a new installer](https://appleinsider.com/articles/23/08/21/apple-game-porting-toolkit-is-easier-to-set-up-using-a-new-installer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

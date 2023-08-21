@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Support app update adds info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)
+ - [Zoom reports Q2 revenue up 3.6% YoY to $1.14B, vs. $1.12B est., net income of $182M, up from $46M YoY, and raises its FY 2024 guidance; ZM jumps 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230821/p22#a230821p22)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Apple Support app update includes info about Apple Store locations](https://appleinsider.com/articles/23/08/21/apple-support-app-update-includes-info-about-apple-store-locations?utm_medium=rss)
  - [Triller&#39;s S-1 filing claims the short-form video app has had 550M signups, but Apptopia estimates it has been downloaded just 73.2M times since its 2015 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p21#a230821p21)
- - [Rejoice, friends: The Galaxy S24 and S24 Plus batteries could get much larger](https://www.androidauthority.com/samsung-galaxy-s24-battery-3356783/)
- - [A summer 2022 draft agreement between the US and ByteDance to avoid a TikTok ban would give US agencies power to block app policy changes, veto hirings, more &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230821/p20#a230821p20)<!-- TECH:END -->
+ - [Rejoice, friends: The Galaxy S24 and S24 Plus batteries could get much larger](https://www.androidauthority.com/samsung-galaxy-s24-battery-3356783/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

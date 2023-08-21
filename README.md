@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla points to ‘insider wrongdoing’ as cause of massive employee data leak](https://www.theverge.com/2023/8/21/23839940/tesla-data-leak-inside-job-handelsblatt)
+ - [Apple Podcasts rolls out new data analytics dashboard for content creators](https://appleinsider.com/articles/23/08/21/apple-podcasts-rolls-out-new-data-analytics-dashboard-for-content-creators?utm_medium=rss)
  - [T-Mobile’s new Go5G plan gets even more expensive and offers faster phone upgrades](https://www.theverge.com/2023/8/21/23839982/t-mobile-go5g-next-annual-upgrade-iphone-samsung-galaxy-google-pixel)
  - [Daily deals Aug. 21: AirPods Pro $199, $800 off M1 MacBook Pro, 30% off Pixelmator Pro, more](https://appleinsider.com/articles/23/08/21/daily-deals-aug-21-airpods-pro-199-800-off-m1-macbook-pro-30-off-pixelmator-pro-more?utm_medium=rss)
- - [No Apple foldable yet, but iOS users can ‘fold’ two iPhones using Try Galaxy app](https://www.androidauthority.com/try-galaxy-foldables-3356680/)
- - [Samsung Galaxy Z Fold 5 vs Samsung Galaxy S23 Ultra: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-samsung-galaxy-s23-ultra-3355204/)
- - [Microsoft’s new Xbox Series X console wraps include Starfield and camo options](https://www.theverge.com/2023/8/21/23840110/microsoft-xbox-series-x-console-wraps-starfield-camo)<!-- TECH:END -->
+ - [No Apple foldable yet, but iOS users can ‘fold’ two iPhones using Try Galaxy app](https://www.androidauthority.com/try-galaxy-foldables-3356680/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

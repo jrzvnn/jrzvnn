@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
  - 😝 [Bored?](http://9gag.com/gag/aNw21L0)
- - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
  - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 👉 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)<!-- MEMES:END -->
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 </div>

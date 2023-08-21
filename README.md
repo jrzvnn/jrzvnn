@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No Apple foldable yet, but iOS users can ‘fold’ two iPhones using Try Galaxy app](https://www.androidauthority.com/try-galaxy-foldables-3356680/)
+ - [Samsung Galaxy Z Fold 5 vs Samsung Galaxy S23 Ultra: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-samsung-galaxy-s23-ultra-3355204/)
  - [Microsoft’s new Xbox Series X console wraps include Starfield and camo options](https://www.theverge.com/2023/8/21/23840110/microsoft-xbox-series-x-console-wraps-starfield-camo)
  - [LG’s lovely 65-inch C3 OLED TV is now $700 off at Amazon](https://www.theverge.com/2023/8/21/23839813/lg-c3-oled-tv-xbox-controller-anbernic-handheld-emulators-deal-sale)
- - [Rack-mounted Mac mini power problem solved by remote servos](https://appleinsider.com/articles/23/08/21/rack-mounted-mac-mini-power-problem-solved-by-remote-servos?utm_medium=rss)
- - [The Samsung Galaxy S22 Plus plunges by $300 to an all-time low price](https://www.androidauthority.com/samsung-galaxy-s22-plus-deal-3356676/)
- - [15 Best Coffee Subscription Boxes We’ve Tasted &lpar;2023&rpar;: Gifting, Fresh, Decaf, Single-Origin](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [Rack-mounted Mac mini power problem solved by remote servos](https://appleinsider.com/articles/23/08/21/rack-mounted-mac-mini-power-problem-solved-by-remote-servos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

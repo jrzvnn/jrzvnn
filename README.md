@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
- - 😝 [The stance](http://9gag.com/gag/az2DrBj)
- - 💣 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
- - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 👉 [Tom Hardy responds to a question by a gay activist about his sexuality](http://9gag.com/gag/aEqNRAO)<!-- MEMES:END -->
+ - 😝 [Fun has no limits](http://9gag.com/gag/aqep13Q)
+ - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
+ - 💣 [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
+ - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
+ - 👉 [Recently I went to the shop and bought some oil paint, canvas and roughly followed Bob Ross&#39; painting &lpar;Northern Lights&rpar;. I know that it&#39;s not even close to maestro&#39;s work, but I think it&#39;s OKish, given the fact that I never tried painting before, except in the elementary school](http://9gag.com/gag/avQXGGb)<!-- MEMES:END -->
 
 ---
 </div>

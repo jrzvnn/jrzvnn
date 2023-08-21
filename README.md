@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 😝 [Bored?](http://9gag.com/gag/aNw21L0)
- - 💣 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 😝 [Oh behave!](http://9gag.com/gag/aA0N3p0)
+ - 😝 [Good news of the day ...](http://9gag.com/gag/a04WK3Z)
+ - 💣 [Bestie questioning my sanity](http://9gag.com/gag/a4orQdQ)
+ - 😝 [Meme origin: This music video was filmed exactly 22 years ago today.](http://9gag.com/gag/a8qXov6)
+ - 👉 [Nap time be like...](http://9gag.com/gag/avQXOqM)<!-- MEMES:END -->
 
 ---
 </div>

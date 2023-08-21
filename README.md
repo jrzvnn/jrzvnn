@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
- - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
- - 👉 [Im not saying any names](http://9gag.com/gag/armrR8X)<!-- MEMES:END -->
+ - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 😝 [Why?](http://9gag.com/gag/ajVMDz1)
+ - 💣 [Remember what they took from you](http://9gag.com/gag/axonDnY)
+ - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
+ - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
 
 ---
 </div>

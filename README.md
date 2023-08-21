@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)
- - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 💣 [How did he...](http://9gag.com/gag/aL1N9RV)
- - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 👉 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)<!-- MEMES:END -->
+ - 😝 [How did he...](http://9gag.com/gag/aL1N9RV)
+ - 😝 [Fungi are a amazing thing to behold](http://9gag.com/gag/aMENAb6)
+ - 💣 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 👉 [Agreed](http://9gag.com/gag/aVb1P78)<!-- MEMES:END -->
 
 ---
 </div>

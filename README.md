@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pinterest unveils new safety features; users ages 16 and older will now be able to opt into either a private or public profile; private is default for under 16 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230821/p13#a230821p13)
+ - [T-Mobile has a new plan just for folks who like to upgrade phones every year](https://www.androidauthority.com/t-mobile-go5g-next-3356651/)
  - [Apple’s sci-fi drama Invasion ramps up the tension in season 2](https://www.theverge.com/23833132/invasion-season-2-review-apple-tv-plus)
  - [Apple is unsurprisingly already working on A19 and M5 chips](https://appleinsider.com/articles/23/08/21/apple-is-unsurprisingly-already-working-on-a19-and-m5-chips?utm_medium=rss)
- - [Amazon’s Fire TV Channels adds a sidebar and more free streaming content](https://www.theverge.com/2023/8/21/23839875/amazon-fire-tv-channels-sidebar-free-streaming-content-fast)
- - [BeReal replaces its Discovery feed with a Friends of Friends feed, adds pinned profile posts and mentions, and says the app is holding steady at ~20M DAUs &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230821/p12#a230821p12)
- - [The voice of Mario is stepping away from the character](https://www.theverge.com/2023/8/21/23839933/mario-voice-actor-martinet-nintendo-stepping-down)<!-- TECH:END -->
+ - [Amazon’s Fire TV Channels adds a sidebar and more free streaming content](https://www.theverge.com/2023/8/21/23839875/amazon-fire-tv-channels-sidebar-free-streaming-content-fast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

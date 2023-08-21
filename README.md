@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta may launch a Threads web version early this week](https://www.theverge.com/2023/8/20/23839495/meta-threads-web-version-coming-this-week)
  - [Sources: Meta plans to launch a web version of Threads early this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p10#a230820p10)
  - [Some clinicians think unrealistic depictions of dissociative identity disorder on TikTok are influencing young people to self-diagnose or imitate the disorder &lpar;Jessica Lucas/The Verge&rpar;](http://www.techmeme.com/230820/p9#a230820p9)
  - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
- - [A look at the potential impact of the EU&#39;s DSA and DMA on Big Tech, as some say the effect may be as severe as Great Depression-era laws that reined in US banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p8#a230820p8)
- - [What is TPM &lpar;Trusted Platform Module&rpar;? Here’s how to enable it for Windows 11](https://www.androidauthority.com/what-is-tpm-windows-3356474/)<!-- TECH:END -->
+ - [A look at the potential impact of the EU&#39;s DSA and DMA on Big Tech, as some say the effect may be as severe as Great Depression-era laws that reined in US banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230820/p8#a230820p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

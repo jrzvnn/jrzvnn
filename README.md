@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
- - 😝 [Didn\u2019t know PR already started](http://9gag.com/gag/aeQPpgq)
+ - 😝 [`Lightning does not strike at the same place twice,` they said](http://9gag.com/gag/a3ZpLD1)
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
  - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
- - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
+ - 😝 [Just a moment](http://9gag.com/gag/adP4jnQ)
+ - 👉 [Im not saying any names](http://9gag.com/gag/armrR8X)<!-- MEMES:END -->
 
 ---
 </div>

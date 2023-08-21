@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung announces the first game to support new HDR10 Plus Gaming standard](https://www.theverge.com/2023/8/21/23839768/samsung-hdr10-plus-gaming-standard-the-first-descendant-nexon)
+ - [Sources: Instacart, Databricks, and Socure are considered candidates to launch IPOs in 2024, as Arm&#39;s forthcoming IPO provides a good test of investor sentiment &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p4#a230821p4)
  - [The US announces $667M in new grants and loans for 37 new recipients to expand rural broadband infrastructure, after allocating $771.4M in April and June 2023 &lpar;Kavish Harjai/Associated Press&rpar;](http://www.techmeme.com/230821/p3#a230821p3)
  - [How to Upgrade Wi-Fi in Your Laptop or Desktop: Wi-Fi Card or USB Adapter](https://www.wired.com/story/how-to-upgrade-wi-fi-pc-laptop/)
- - [Scammers Used ChatGPT to Unleash a Crypto Botnet on X](https://www.wired.com/story/chat-gpt-crypto-botnet-scam/)
- - [The World’s Workers Are Donning Cooling Vests to Battle Record Heat Waves](https://www.wired.com/story/cooling-vests-ice-heat-waves/)
- - [Apple Game Porting Toolkit is easier to set up using a new installer](https://appleinsider.com/articles/23/08/21/apple-game-porting-toolkit-is-easier-to-set-up-using-a-new-installer?utm_medium=rss)<!-- TECH:END -->
+ - [Scammers Used ChatGPT to Unleash a Crypto Botnet on X](https://www.wired.com/story/chat-gpt-crypto-botnet-scam/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

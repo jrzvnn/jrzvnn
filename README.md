@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The voice of Mario is stepping away from the character](https://www.theverge.com/2023/8/21/23839933/mario-voice-actor-martinet-nintendo-stepping-down)
  - [A recent paper on ChatGPT&#39;s political biases seems to have many flaws, including testing an older model and prompt types, but the broader topic merits research &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230821/p11#a230821p11)
  - [Using Generative AI to Resurrect the Dead Will Create a Burden for the Living](https://www.wired.com/story/using-generative-ai-to-resurrect-the-dead-will-create-a-burden-for-the-living/)
- - [YouTube is working with Universal Music Group to explore the use of music in AI programs and ways to pay artists whose work is used to make AI-generated content &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230821/p10#a230821p10)
- - [Eve Cam 2 leaks, Aqara&#39;s T1 light strip, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/21/eve-cam-2-leaks-aqaras-t1-light-strip-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Snag an Xbox Series S From Best Buy and Get a Free Copy of Madden NFL 24     - CNET](https://www.cnet.com/deals/snag-an-xbox-series-s-from-best-buy-and-get-a-free-copy-of-madden-nfl-24/#ftag=CAD590a51e)
+ - [YouTube is working with Universal Music Group to explore the use of music in AI programs and ways to pay artists whose work is used to make AI-generated content &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230821/p10#a230821p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

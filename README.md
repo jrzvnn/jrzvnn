@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 💣 [The title writes itself](http://9gag.com/gag/anzW1wz)
  - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
- - 😝 [Why?](http://9gag.com/gag/ajVMDz1)
- - 💣 [Remember what they took from you](http://9gag.com/gag/axonDnY)
- - 😝 [The title writes itself](http://9gag.com/gag/anzW1wz)
- - 👉 [What dog breed is this](http://9gag.com/gag/aEqNz2M)<!-- MEMES:END -->
+ - 👉 [Ok let me tell you something...](http://9gag.com/gag/a6q37YL)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Podcasts now shows creators who’s really paying for their shows](https://www.theverge.com/2023/8/21/23839961/apple-podcasts-subscription-analytics-linkfire-partnership)
- - [Stitching together an archive of an endangered Palestinian art](https://www.theverge.com/23833322/palestinian-embroidery-digital-archive-tatreez-wafa-ghnaim-tirazain)
- - [The Mandalorian, Loki, and WandaVision are headed to Blu-ray](https://www.theverge.com/2023/8/21/23839994/disney-plus-mandalorian-loki-wandavision-blu-ray)
- - [YouTube is figuring out its AI strategy by working with music labels](https://www.theverge.com/2023/8/21/23840026/youtube-ai-music-copyright-monetization-universal)
- - [Pinterest unveils new safety features; users ages 16 and older will now be able to opt into either a private or public profile; private is default for under 16 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230821/p13#a230821p13)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Series X console wraps include Starfield and camo options](https://www.theverge.com/2023/8/21/23840110/microsoft-xbox-series-x-console-wraps-starfield-camo)
+ - [LG’s lovely 65-inch C3 OLED TV is now $700 off at Amazon](https://www.theverge.com/2023/8/21/23839813/lg-c3-oled-tv-xbox-controller-anbernic-handheld-emulators-deal-sale)
+ - [Rack-mounted Mac mini power problem solved by remote servos](https://appleinsider.com/articles/23/08/21/rack-mounted-mac-mini-power-problem-solved-by-remote-servos?utm_medium=rss)
+ - [The Samsung Galaxy S22 Plus plunges by $300 to an all-time low price](https://www.androidauthority.com/samsung-galaxy-s22-plus-deal-3356676/)
+ - [15 Best Coffee Subscription Boxes We’ve Tasted &lpar;2023&rpar;: Gifting, Fresh, Decaf, Single-Origin](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

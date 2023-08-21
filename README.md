@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The digital equivalent of getting a statue](http://9gag.com/gag/a3Zpjw8)
- - 😝 [Fun has no limits](http://9gag.com/gag/aqep13Q)
- - 💣 [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
- - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 👉 [Recently I went to the shop and bought some oil paint, canvas and roughly followed Bob Ross&#39; painting &lpar;Northern Lights&rpar;. I know that it&#39;s not even close to maestro&#39;s work, but I think it&#39;s OKish, given the fact that I never tried painting before, except in the elementary school](http://9gag.com/gag/avQXGGb)<!-- MEMES:END -->
+ - 😝 [Angela Merkel visiting Saudi Arabia](http://9gag.com/gag/adP47ND)
+ - 💣 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
+ - 😝 [Recently I went to the shop and bought some oil paint, canvas and roughly followed Bob Ross&#39; painting &lpar;Northern Lights&rpar;. I know that it&#39;s not even close to maestro&#39;s work, but I think it&#39;s OKish, given the fact that I never tried painting before, except in the elementary school](http://9gag.com/gag/avQXGGb)
+ - 👉 [Fun has no limits](http://9gag.com/gag/aqep13Q)<!-- MEMES:END -->
 
 ---
 </div>

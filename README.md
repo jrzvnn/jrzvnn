@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh behave!](http://9gag.com/gag/aA0N3p0)
- - 😝 [Bestie questioning my sanity](http://9gag.com/gag/a4orQdQ)
- - 💣 [Meme origin: This music video was filmed exactly 22 years ago today.](http://9gag.com/gag/a8qXov6)
- - 😝 [Nap time be like...](http://9gag.com/gag/avQXOqM)
- - 👉 [Manager standing up for his employees](http://9gag.com/gag/aA0NgVg)<!-- MEMES:END -->
+ - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
+ - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 💣 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 </div>

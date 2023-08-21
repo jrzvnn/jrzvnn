@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Serie A in the USA](https://www.androidauthority.com/how-to-watch-serie-a-in-usa-3356798/)
  - [Newest XLoader threat targets work environments](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
  - [The New York Times blocks OpenAI’s web crawler](https://www.theverge.com/2023/8/21/23840705/new-york-times-openai-web-crawler-ai-gpt)
  - [How Hilary Turned Into a Monster Storm](https://www.wired.com/story/how-hilary-turned-into-a-monster-storm/)
- - [Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds](https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet)
- - [X says it’s fixed the bug that broke links and images in pre-December 2014 tweets](https://www.theverge.com/2023/8/21/23840640/twitter-x-2014-image-link-tweet-t-co-shortener)<!-- TECH:END -->
+ - [Tell every PC gamer you know: Dough, formerly Eve, is ready to issue refunds](https://www.theverge.com/2023/8/21/22825700/dough-eve-refunds-retail-brand-perception-spectrum-v-tablet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

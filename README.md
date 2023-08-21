@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Podcasts now shows creators who’s really paying for their shows](https://www.theverge.com/2023/8/21/23839961/apple-podcasts-subscription-analytics-linkfire-partnership)
  - [Stitching together an archive of an endangered Palestinian art](https://www.theverge.com/23833322/palestinian-embroidery-digital-archive-tatreez-wafa-ghnaim-tirazain)
  - [The Mandalorian, Loki, and WandaVision are headed to Blu-ray](https://www.theverge.com/2023/8/21/23839994/disney-plus-mandalorian-loki-wandavision-blu-ray)
  - [YouTube is figuring out its AI strategy by working with music labels](https://www.theverge.com/2023/8/21/23840026/youtube-ai-music-copyright-monetization-universal)
- - [Pinterest unveils new safety features; users ages 16 and older will now be able to opt into either a private or public profile; private is default for under 16 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230821/p13#a230821p13)
- - [T-Mobile has a new plan just for folks who like to upgrade phones every year](https://www.androidauthority.com/t-mobile-go5g-next-3356651/)<!-- TECH:END -->
+ - [Pinterest unveils new safety features; users ages 16 and older will now be able to opt into either a private or public profile; private is default for under 16 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230821/p13#a230821p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

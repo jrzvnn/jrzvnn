@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - 😝 [Taylor Stepaniuk](http://9gag.com/gag/aBdN1mQ)
- - 💣 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 😝 [Bored?](http://9gag.com/gag/aNw21L0)
+ - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
  - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 👉 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)<!-- MEMES:END -->
+ - 👉 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)<!-- MEMES:END -->
 
 ---
 </div>

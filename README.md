@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 😝 [How the Turntables](http://9gag.com/gag/awZGnrD)
- - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 😝 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)
+ - 😝 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
+ - 💣 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
  - 😝 [Agreed](http://9gag.com/gag/aVb1P78)
- - 👉 [Bored?](http://9gag.com/gag/aNw21L0)<!-- MEMES:END -->
+ - 👉 [Panam cosplay](http://9gag.com/gag/adP4KMV)<!-- MEMES:END -->
 
 ---
 </div>

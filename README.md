@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
+ - 😝 [B\u00edch found out.](http://9gag.com/gag/aBdN1bx)
+ - 💣 [When Goku discovered something better than the Dragon Balls](http://9gag.com/gag/aA0NdP9)
  - 😝 [A moment Conan O&#39;Brien would never forget, starring Nina Dobrev.](http://9gag.com/gag/aYVnxKO)
- - 😝 [The stance](http://9gag.com/gag/az2DrBj)
- - 💣 [Cat vs Onion](http://9gag.com/gag/armrbnK)
- - 😝 [Matt Damon actually rules.](http://9gag.com/gag/aA0NdYR)
- - 👉 [2000yo pottery technique with some help of technology](http://9gag.com/gag/axonjBb)<!-- MEMES:END -->
+ - 👉 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)<!-- MEMES:END -->
 
 ---
 </div>

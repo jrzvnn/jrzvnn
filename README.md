@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Did you notice YouTube’s new corners?](https://www.theverge.com/2023/8/22/23841737/youtube-rounded-corners-desktop)
  - [Apple issues first beta for macOS 13.6 Ventura](https://appleinsider.com/articles/23/08/22/apple-issues-first-beta-for-macos-136-ventura?utm_medium=rss)
  - [Apple distributes seventh watchOS 10 developer beta](https://appleinsider.com/articles/23/08/22/apple-distributes-seventh-watchos-10-developer-beta?utm_medium=rss)
- - [Apple seeds sixth macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/22/apple-seeds-sixth-macos-sonoma-developer-beta?utm_medium=rss)
- - [Apple seeds seventh tvOS 17 developer beta](https://appleinsider.com/articles/23/08/22/apple-seeds-seventh-tvos-17-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds sixth macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/22/apple-seeds-sixth-macos-sonoma-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Age of Empires IV arrives on Xbox consoles and Game Pass today](https://www.theverge.com/2023/8/22/23841238/age-of-empires-iv-xbox-game-pass-console-launch)
- - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
- - [Q&amp;A with Fandom CEO Perkins Miller on the wiki hosting service&#39;s origin as Wikipedia&#39;s sister company, Pottermore, acquiring TV Guide, ads, FanDNA, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p22#a230822p22)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The best Google Home and Nest deals of August 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
+ - [Climate change is redrawing the disaster map](https://www.theverge.com/2023/8/22/23840516/weather-disaster-new-location-climate-change)
+ - [13 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-1/)
+ - [Zack Snyder shows the first trailer for his Netflix movie Rebel Moon](https://www.theverge.com/23840280/zack-snyder-rebel-moon-trailer-netflix-gamescom)
+ - [Experian fined $650,000 for not letting you opt out of its spammy emails](https://www.theverge.com/2023/8/22/23841646/experian-fined-spam-emails-ftc-doj)
+ - [Age of Empires IV arrives on Xbox consoles and Game Pass today](https://www.theverge.com/2023/8/22/23841238/age-of-empires-iv-xbox-game-pass-console-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

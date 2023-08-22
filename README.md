@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerby, which manages access to &quot;nonstandard&quot; enterprise apps, like those without modern identity protocols, raised a $17M Series A led by Two Sigma Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p11#a230822p11)
- - [Poll results: You don’t think high-resolution cameras have lived up to the hype](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-results-3357009/)
- - [Future Apple Watch could color-coordinate itself automatically](https://appleinsider.com/articles/23/08/22/future-apple-watch-could-color-coordinate-itself-automatically?utm_medium=rss)
- - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)
- - [Riding in three Waymo taxis in San Francisco finds two avoided traffic while another didn&#39;t, the app works like Uber, and the first experience can be confusing &lpar;New York Times&rpar;](http://www.techmeme.com/230822/p10#a230822p10)<!-- TECH:END -->
+ - [Naomi Duguid &#39;The Miracle of Salt&#39; Cookbook Review: A Vital Reference for Pickling, Preserving, and Flavoring](https://www.wired.com/story/naomi-duguid-the-miracle-of-salt-cookbook-review/)
+ - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)
+ - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
+ - [Microsoft’s PC Game Pass arrives on Nvidia’s GeForce Now service this week](https://www.theverge.com/2023/8/22/23841163/microsoft-xbox-pc-game-pass-nvidia-geforce-now)
+ - [Nvidia’s new DLSS 3.5 works on all RTX GPUs to improve the quality of ray tracing](https://www.theverge.com/2023/8/22/23841148/nvidia-dlss-3-5-ray-reconstruction-ray-tracing-quality)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

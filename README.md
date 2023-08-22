@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)
  - [OpenAI opens GPT-3.5 Turbo up for custom tuning](https://www.theverge.com/2023/8/22/23842042/openai-gpt-3-5-turbo-fine-tuning-enterprise-business-custom-chatbot-ai-artificial-intelligence)
  - [OpenAI adds fine-tuning to GPT-3.5 Turbo, letting developers, for a fee, customize models with their own data to make them perform better for their use cases &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p29#a230822p29)
  - [A look at the UK government&#39;s planned revisions to its Investigatory Powers Act, including potential unintended consequences like slowing down security updates &lpar;Ioannis Kouvakas/Just Security&rpar;](http://www.techmeme.com/230822/p28#a230822p28)
- - [Sources: Salesforce is leading a ~$200M funding round in Hugging Face at a $4B+ valuation, more than doubling its share price and private valuation &lpar;The Information&rpar;](http://www.techmeme.com/230822/p27#a230822p27)
- - [How to watch the German Bundesliga in the USA](https://www.androidauthority.com/how-to-watch-bundesliga-in-usa-3357188/)<!-- TECH:END -->
+ - [Sources: Salesforce is leading a ~$200M funding round in Hugging Face at a $4B+ valuation, more than doubling its share price and private valuation &lpar;The Information&rpar;](http://www.techmeme.com/230822/p27#a230822p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 😝 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
+ - 😝 [Send this to your fluid mechanics teacher](http://9gag.com/gag/agoZqXK)
  - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 </div>

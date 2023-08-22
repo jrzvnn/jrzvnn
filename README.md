@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Amazfit GTR 4 has dropped to its best price of the year](https://www.theverge.com/2023/8/22/23840004/amazfit-gtr-4-xbox-series-x-elgato-stream-deck-xl-deal-sale)
+ - [Brilliant’s new smart home controller makes it easier to put a touchscreen on your wall](https://www.theverge.com/23841213/brilliant-plug-in-smart-home-control-panel-price-review)
  - [Forza Motorsport on PC includes DLSS, FSR 2, and DirectStorage support](https://www.theverge.com/23841330/forza-motorsport-pc-spec-requirements-microsoft)
  - [Nothing sends big camera update to Phone 2 to fix issues from previous update](https://www.androidauthority.com/nothing-phone-2-update-august-2023-3357069/)
- - [Here’s our first look at the new Philips Hue security cameras](https://www.theverge.com/2023/8/22/23841296/philips-hue-smarthome-security-cameras-first-look-images)
- - [Daily deals Aug. 22: Apple Watch Ultra $699, Babbel lifetime subscription $149, AirTag 4-pack $88, more](https://appleinsider.com/articles/23/08/22/daily-deals-aug-22-apple-watch-ultra-699-babbel-lifetime-subscription-149-airtag-4-pack-88-more?utm_medium=rss)
- - [Apple researching a Smart Ring for notifications and controlling other devices](https://appleinsider.com/articles/23/08/22/apple-researching-a-smart-ring-for-notifications-and-controlling-other-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s our first look at the new Philips Hue security cameras](https://www.theverge.com/2023/8/22/23841296/philips-hue-smarthome-security-cameras-first-look-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

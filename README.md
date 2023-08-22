@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
  - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 👉 [We were lied to](http://9gag.com/gag/avQXoOE)<!-- MEMES:END -->
 
 ---
 </div>

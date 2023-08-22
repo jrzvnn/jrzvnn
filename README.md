@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This phone will let you easily adjust the CPU clock speed, no root needed](https://www.androidauthority.com/realme-gt5-cpu-clock-speed-3356916/)
+ - [Bill Simmons, Ben Shapiro, Kara Swisher, and other podcast hosts, executives, and agents on how the industry has changed, not reaching &quot;peak podcast&quot;, and more &lpar;Lacey Rose/The Hollywood Reporter&rpar;](http://www.techmeme.com/230822/p3#a230822p3)
  - [Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma)
  - [A look at Worldcoin from a privacy-skeptical point of view, including likely risks and how the project doesn&#39;t link users&#39; transaction data with its ID database &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/230822/p2#a230822p2)
- - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)
- - [China&#39;s metaverse proposals at the UN&#39;s ITU include a digital identity system, akin to the country&#39;s social credit system, that experts say invades user privacy &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/230822/p1#a230822p1)
- - [&#39;Immortals of Aveum&#39; Is a Shooter That Swaps Gunfire for Spell-Casting](https://www.wired.com/story/immortals-of-aveum-review-magic-shooter/)<!-- TECH:END -->
+ - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

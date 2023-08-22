@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
  - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [Reparation in Los Angeles, CA](http://9gag.com/gag/aPgdRjQ)
+ - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
 
 ---
 </div>

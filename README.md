@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta refreshes promise to roll out default end-to-end encryption in Messenger this year](https://www.theverge.com/2023/8/22/23841490/meta-facebook-messenger-instagram-encryption-default)
+ - [Microsoft Paint could soon get AI-enhanced features on Windows 11](https://www.theverge.com/2023/8/22/23841824/microsoft-paint-ai-features-windows-11)
  - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)
  - [iPhone 15 Pro Action Button haptics spotted in iOS 17 beta 7 code](https://appleinsider.com/articles/23/08/22/iphone-15-pro-action-button-haptics-spotted-in-ios-17-beta-7-code?utm_medium=rss)
- - [Nvidia and VMware extend partnership to help companies iterate on open models like Llama 2 for their AI apps, using Nvidia&#39;s NeMo framework on VMware&#39;s cloud &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230822/p23#a230822p23)
- - [OnePlus Open will likely come in only two colors OnePlus cares about anymore](https://www.androidauthority.com/oneplus-open-colors-3357097/)
- - [The 43 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Nvidia and VMware extend partnership to help companies iterate on open models like Llama 2 for their AI apps, using Nvidia&#39;s NeMo framework on VMware&#39;s cloud &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230822/p23#a230822p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

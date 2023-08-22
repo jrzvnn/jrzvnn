@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
- - 😝 [Another DC movie, another box office bomb.](http://9gag.com/gag/aBdN882)
- - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
+ - 😝 [Your thoughts?](http://9gag.com/gag/aqepgyY)
+ - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 </div>

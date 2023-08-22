@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the dire state of Americans&#39; privacy, made worse by credit bureaus&#39; data policies; Telegram bots offer huge dossiers on targets for ~$15 in bitcoin &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230822/p20#a230822p20)
+ - [Fandom runs some of the biggest communities on the internet — can CEO Perkins Miller keep them happy?](https://www.theverge.com/23841327/fandom-wikia-perkins-miller-ads-ai-community-passion)
  - [Ramp, which offers credit cards and expense management tools, raised $300M at a $5.8B valuation from Founders Fund and others, down from $8.1B in March 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230822/p19#a230822p19)
  - [Ads are coming to TikTok search results](https://www.theverge.com/2023/8/22/23841335/tiktok-search-results-ads-toggle-sponsored-content)
- - [Coros just made my new favorite heart rate monitor](https://www.androidauthority.com/coros-heart-rate-monitor-review-3355551/)
- - [Ahsoka brings mystery back to Star Wars](https://www.theverge.com/23839946/ahsoka-star-wars-review-disney-plus)
- - [A look at CivitAI, a site for sharing AI models that generate images mostly trained on material taken without consent, as non-consensual AI porn proliferates &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/230822/p18#a230822p18)<!-- TECH:END -->
+ - [Coros just made my new favorite heart rate monitor](https://www.androidauthority.com/coros-heart-rate-monitor-review-3355551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

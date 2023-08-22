@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
+ - [Q&amp;A with Fandom CEO Perkins Miller on the wiki hosting service&#39;s origin as Wikipedia&#39;s sister company, Pottermore, acquiring TV Guide, ads, FanDNA, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p22#a230822p22)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Did you notice YouTube’s new corners?](https://www.theverge.com/2023/8/22/23841737/youtube-rounded-corners-desktop)
- - [Apple issues first beta for macOS 13.6 Ventura](https://appleinsider.com/articles/23/08/22/apple-issues-first-beta-for-macos-136-ventura?utm_medium=rss)
- - [Apple distributes seventh watchOS 10 developer beta](https://appleinsider.com/articles/23/08/22/apple-distributes-seventh-watchos-10-developer-beta?utm_medium=rss)
- - [Apple seeds sixth macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/22/apple-seeds-sixth-macos-sonoma-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [The best Google Home and Nest deals of August 2023](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
+ - [Did you notice YouTube’s new corners?](https://www.theverge.com/2023/8/22/23841737/youtube-rounded-corners-desktop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

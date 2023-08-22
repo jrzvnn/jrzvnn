@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s metaverse proposals at the UN&#39;s ITU include a digital identity system, akin to the country&#39;s social credit system, that experts say invades user privacy &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/230822/p1#a230822p1)
+ - [&#39;Immortals of Aveum&#39; Is a Shooter That Swaps Gunfire for Spell-Casting](https://www.wired.com/story/immortals-of-aveum-review-magic-shooter/)
  - [Google&#39;s AI-powered Search Generative Experience and Bard listed favorable arguments when asked about &quot;benefits&quot; of slavery, genocide, fascism, and colonization &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230821/p30#a230821p30)
  - [A look at Google executives like CFO Ruth Porat who have either shifted roles or left the company in recent months, as the company searches for its own identity &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230821/p29#a230821p29)
- - [Source: X is internally testing removing headlines and other text from shared news articles, so that posts with article links display only the image and the URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)
- - [Nvidia&#39;s A800 and H800 chips, hobbled for the Chinese market to meet US export rules, have seen huge demand as they more powerful than anything else before 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p27#a230821p27)
- - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)<!-- TECH:END -->
+ - [Source: X is internally testing removing headlines and other text from shared news articles, so that posts with article links display only the image and the URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

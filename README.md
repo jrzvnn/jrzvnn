@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [Reparation in Los Angeles, CA](http://9gag.com/gag/aPgdRjQ)
- - 👉 [Gali golan](http://9gag.com/gag/aXnGqOD)<!-- MEMES:END -->
+ - 😝 [Bestie questioning my sanity](http://9gag.com/gag/a4orQdQ)
+ - 😝 [Is that your real hair?](http://9gag.com/gag/a4or7qy)
+ - 💣 [Nap time be like...](http://9gag.com/gag/avQXOqM)
+ - 😝 [`Everything`](http://9gag.com/gag/aBdNgKQ)
+ - 👉 [Panam cosplay](http://9gag.com/gag/adP4KMV)<!-- MEMES:END -->
 
 ---
 </div>

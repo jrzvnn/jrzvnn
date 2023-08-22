@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bestie questioning my sanity](http://9gag.com/gag/a4orQdQ)
- - 😝 [Is that your real hair?](http://9gag.com/gag/a4or7qy)
- - 💣 [Nap time be like...](http://9gag.com/gag/avQXOqM)
- - 😝 [`Everything`](http://9gag.com/gag/aBdNgKQ)
- - 👉 [Panam cosplay](http://9gag.com/gag/adP4KMV)<!-- MEMES:END -->
+ - 😝 [No problem Itachi](http://9gag.com/gag/aWGNEZd)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 </div>

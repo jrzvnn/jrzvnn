@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s AI-powered Search Generative Experience and Bard listed favorable arguments when asked about &quot;benefits&quot; of slavery, genocide, fascism, and colonization &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230821/p30#a230821p30)
  - [A look at Google executives like CFO Ruth Porat who have either shifted roles or left the company in recent months, as the company searches for its own identity &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230821/p29#a230821p29)
  - [Source: X is internally testing removing headlines and other text from shared news articles, so that posts with article links display only the image and the URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)
  - [Nvidia&#39;s A800 and H800 chips, hobbled for the Chinese market to meet US export rules, have seen huge demand as they more powerful than anything else before 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p27#a230821p27)
- - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
- - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

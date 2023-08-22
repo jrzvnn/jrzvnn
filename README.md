@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM agrees to sell its weather business, including Weather.com and business-oriented services, to private equity firm Francisco Partners for an undisclosed sum &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230822/p14#a230822p14)
+ - [Meta releases multilingual speech translation model](https://www.theverge.com/2023/8/22/23840571/meta-multilingual-speech-translation-model-ai)
  - [Nvidia announces DLSS 3.5 with AI-powered ray reconstruction, designed to recognize patterns within a noisy image for better clarity, available on RTX GPUs &lpar;Dave James/PC Gamer&rpar;](http://www.techmeme.com/230822/p13#a230822p13)
  - [The EU might need to reassess Microsoft’s Activision Blizzard deal after restructuring](https://www.theverge.com/2023/8/22/23841244/eu-microsoft-activision-blizzard-restructure-investigation-comment)
- - [Meta plans to roll out a more capable web app for Threads in the next few days, offering the ability to post, interact with other posts, and look at the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p12#a230822p12)
- - [Naomi Duguid &#39;The Miracle of Salt&#39; Cookbook Review: A Vital Reference for Pickling, Preserving, and Flavoring](https://www.wired.com/story/naomi-duguid-the-miracle-of-salt-cookbook-review/)
- - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)<!-- TECH:END -->
+ - [Meta plans to roll out a more capable web app for Threads in the next few days, offering the ability to post, interact with other posts, and look at the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p12#a230822p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

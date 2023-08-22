@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
+ - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
+ - [Genesis Therapeutics, which uses AI to discover and develop new medicines, raised a $200M Series B co-led by a16z, bringing its total funding to $280M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230821/p26#a230821p26)
  - [How to use ChatGPT to make money: Is it really possible?](https://www.androidauthority.com/how-to-use-chatgpt-to-make-money-3356831/)
- - [X says it has fixed a bug which, over the weekend, prevented it from displaying many images from before 2014, and that &quot;no images or data were lost&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230821/p25#a230821p25)
- - [Ford’s Mustang Mach-E recall to prevent power failures is under investigation](https://www.theverge.com/2023/8/21/23840346/ford-mustang-mach-e-power-failure-recall-nhtsa)
- - [How to watch Serie A in the USA](https://www.androidauthority.com/how-to-watch-serie-a-in-usa-3356798/)
- - [Newest XLoader threat targets work environments](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)<!-- TECH:END -->
+ - [X says it has fixed a bug which, over the weekend, prevented it from displaying many images from before 2014, and that &quot;no images or data were lost&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230821/p25#a230821p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

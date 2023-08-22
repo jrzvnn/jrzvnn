@@ -146,8 +146,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: X is internally testing removing headlines and other text from shared news articles so that posts with links display only the article&#39;s image and URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)
- - [Demand has been very strong for Nvidia&#39;s A800 and H800 hobbled chips, designed for the Chinese market to meet US export rules, as they still outperform rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p27#a230821p27)
+ - [Source: X is internally testing removing headlines and other text from shared news articles, so that posts with article links display only the image and the URL &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230821/p28#a230821p28)
+ - [Nvidia&#39;s A800 and H800 chips, hobbled for the Chinese market to meet US export rules, have seen huge demand as they more powerful than anything else before 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230821/p27#a230821p27)
  - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
  - [Adobe Co-founder Dr. John Warnock dies at 82](https://appleinsider.com/articles/23/08/20/adobe-co-founder-dr-john-warnock-dies-at-82?utm_medium=rss)
  - [Genesis Therapeutics, which uses AI to discover and develop small-molecule drugs, raised a $200M Series B co-led by a16z, bringing its total funding to $280M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230821/p26#a230821p26)<!-- TECH:END -->

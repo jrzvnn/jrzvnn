@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia and VMware extend partnership to help companies iterate on open models like Llama 2 for their AI apps, using Nvidia&#39;s NeMo framework on VMware&#39;s cloud &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230822/p23#a230822p23)
  - [OnePlus Open will likely come in only two colors OnePlus cares about anymore](https://www.androidauthority.com/oneplus-open-colors-3357097/)
  - [The 43 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
  - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)
- - [Climate change is redrawing the disaster map](https://www.theverge.com/2023/8/22/23840516/weather-disaster-new-location-climate-change)
- - [13 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-1/)<!-- TECH:END -->
+ - [Climate change is redrawing the disaster map](https://www.theverge.com/2023/8/22/23840516/weather-disaster-new-location-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

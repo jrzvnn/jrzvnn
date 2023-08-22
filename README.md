@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple researching a Smart Ring for notifications and controlling other devices](https://appleinsider.com/articles/23/08/22/apple-researching-a-smart-ring-for-notifications-and-controlling-other-devices?utm_medium=rss)
+ - [War Thunder finally brings ray tracing to mobile. Can you tell the difference?](https://www.androidauthority.com/war-thunder-mobile-ray-tracing-3356989/)
+ - [15 Best Paper Planners &lpar;2023&rpar;: Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/gallery/our-favorite-paper-planners/)
  - [iPhone 15 Ultra &lpar;or Pro Max, maybe&rpar; deliveries could see delays due to camera](https://www.androidauthority.com/iphone-15-ultra-delay-3357051/)
- - [Meta releases SeamlessM4T, an AI model that can translate and transcribe nearly 100 languages across text and speech, and SeamlessAlign, a translation data set &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p16#a230822p16)
- - [Microsoft announces a public preview of Python in Excel, which will run calculations in Microsoft&#39;s Cloud, first on Windows and then other platforms &quot;later&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230822/p15#a230822p15)
- - [IBM agrees to sell its weather business, including Weather.com and business-oriented services, to private equity firm Francisco Partners for an undisclosed sum &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230822/p14#a230822p14)
- - [Meta releases multilingual speech translation model](https://www.theverge.com/2023/8/22/23840571/meta-multilingual-speech-translation-model-ai)<!-- TECH:END -->
+ - [Meta releases SeamlessM4T, an AI model that can translate and transcribe nearly 100 languages across text and speech, and SeamlessAlign, a translation data set &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p16#a230822p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

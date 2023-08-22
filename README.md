@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 alternatives to lithium-ion batteries: What’s the future of energy storage?](https://www.androidauthority.com/lithium-ion-battery-alternatives-3356834/)
  - [An analysis of Google policy dilemmas as YouTube and UMG explore AI licensing, Google scrapes the web to train AI, and lawsuits threaten to upend copyright law &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p31#a230822p31)
  - [MediaTek-powered flagship phones will get on-device AI support in 2024](https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/)
  - [3D printer maker Bambu Lab blames a cloud outage for an issue that caused some of its customers&#39; devices to start printing without their consent &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230822/p30#a230822p30)
- - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)
- - [OpenAI opens GPT-3.5 Turbo up for custom tuning](https://www.theverge.com/2023/8/22/23842042/openai-gpt-3-5-turbo-fine-tuning-enterprise-business-custom-chatbot-ai-artificial-intelligence)<!-- TECH:END -->
+ - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

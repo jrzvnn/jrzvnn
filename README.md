@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [To appease the UK, Microsoft restructures its Activision deal by agreeing to sell off Activision cloud gaming rights to Ubisoft; the UK CMA will now investigate &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230822/p4#a230822p4)
  - [Poll: Do you clean your wearable after a workout?](https://www.androidauthority.com/clean-wearable-after-workout-poll-3356949/)
  - [OnePlus Open could have the sharpest foldable screen around](https://www.androidauthority.com/oneplus-open-display-resolution-colors-3356917/)
  - [Samsung Galaxy Watch 6 tips and tricks: Get more from your device](https://www.androidauthority.com/samsung-galaxy-watch-6-tips-and-tricks-3356432/)
- - [This phone will let you easily adjust the CPU clock speed, no root needed](https://www.androidauthority.com/realme-gt5-cpu-clock-speed-3356916/)
- - [Bill Simmons, Ben Shapiro, Kara Swisher, and other podcast hosts, executives, and agents on how the industry has changed, not reaching &quot;peak podcast&quot;, and more &lpar;Lacey Rose/The Hollywood Reporter&rpar;](http://www.techmeme.com/230822/p3#a230822p3)<!-- TECH:END -->
+ - [This phone will let you easily adjust the CPU clock speed, no root needed](https://www.androidauthority.com/realme-gt5-cpu-clock-speed-3356916/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

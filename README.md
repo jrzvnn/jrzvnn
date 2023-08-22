@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
- - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 👉 [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)<!-- MEMES:END -->
+ - 😝 [The intenseness](http://9gag.com/gag/aNw2g9w)
+ - 😝 [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - 💣 [Ah yes the Swiss man](http://9gag.com/gag/a1PqW08)
+ - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 👉 [Sweet revenge](http://9gag.com/gag/aVb10oP)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Thoma Bravo will close its $2.3B acquisition of identity software provider ForgeRock this week after the US DOJ declined to challenge the deal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230822/p21#a230822p21)
- - [Command &amp; Conquer is getting another mobile game](https://www.theverge.com/2023/8/22/23841520/command-and-conquer-legions-mobile-game-ea)
- - [Destiny 2: The Final Shape arrives on February 27th to finish a light vs. dark battle](https://www.theverge.com/2023/8/22/23841430/destiny-2-the-final-shape-release-date)
- - [Gamescom Opening Night Live 2023: all the news and trailers](https://www.theverge.com/2023/8/22/23841479/opening-night-live-2023-geoff-keighley-gamescom)
- - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)<!-- TECH:END -->
+ - [Apple issues first beta for macOS 13.6 Ventura](https://appleinsider.com/articles/23/08/22/apple-issues-first-beta-for-macos-136-ventura?utm_medium=rss)
+ - [Apple seeds sixth macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/22/apple-seeds-sixth-macos-sonoma-developer-beta?utm_medium=rss)
+ - [Apple seeds seventh tvOS 17 developer beta](https://appleinsider.com/articles/23/08/22/apple-seeds-seventh-tvos-17-developer-beta?utm_medium=rss)
+ - [Microsoft’s AI-powered design tool is now widely available in Edge](https://www.theverge.com/2023/8/22/23841650/microsoft-designer-edge-ai-available)
+ - [Apple seeds seventh iOS 17, iPadOS 17 developer betas](https://appleinsider.com/articles/23/08/22/apple-seeds-seventh-ios-17-ipados-17-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

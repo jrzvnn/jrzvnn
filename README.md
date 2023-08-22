@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ivanti warns of a critical Sentry API authentication bypass flaw that is being exploited in the wild, after another zero-day compromised Norway&#39;s government &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230822/p8#a230822p8)
  - [Apple brings Tap to Pay to Netherlands businesses](https://appleinsider.com/articles/23/08/22/apple-brings-tap-to-pay-to-netherlands-businesses?utm_medium=rss)
  - [A Brain Implant Helped Stroke Survivors Regain Movement](https://www.wired.com/story/a-brain-implant-helped-stroke-survivors-regain-movement/)
  - [The Internet Is Turning Into a Data Black Box. An ‘Inspectability API’ Could Crack It Open](https://www.wired.com/story/inspectability-api-app-transparency/)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
- - [New Parallels Desktop 19 arrives with Touch ID, macOS Sonoma support](https://appleinsider.com/articles/23/08/22/new-parallels-desktop-19-with-touch-id-macos-sonoma-support?utm_medium=rss)<!-- TECH:END -->
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

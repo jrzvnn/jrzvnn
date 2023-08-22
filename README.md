@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The intenseness](http://9gag.com/gag/aNw2g9w)
- - 😝 [Classic prank](http://9gag.com/gag/aYVnyWV)
- - 💣 [Ah yes the Swiss man](http://9gag.com/gag/a1PqW08)
+ - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
  - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 👉 [Sweet revenge](http://9gag.com/gag/aVb10oP)<!-- MEMES:END -->
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 </div>

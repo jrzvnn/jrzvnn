@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 💣 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
  - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
  - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 

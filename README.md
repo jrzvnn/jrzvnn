@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Destiny 2: The Final Shape arrives on February 27th to finish a light vs. dark battle](https://www.theverge.com/2023/8/22/23841430/destiny-2-the-final-shape-release-date)
+ - [Gamescom Opening Night Live 2023: all the news and trailers](https://www.theverge.com/2023/8/22/23841479/opening-night-live-2023-geoff-keighley-gamescom)
  - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)
  - [ASUS Zenfone 10 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
- - [AT&amp;T is bringing its $55 per month 5G home internet plan to more places](https://www.theverge.com/2023/8/22/23841470/att-5g-internet-air-plan-expansion)
- - [The Amazfit GTR 4 finally got its first price drop of 2023](https://www.androidauthority.com/amazfit-gtr-4-deal-3357125/)
- - [iPhone 14 Pro&#39;s LiDAR helps create custom prosthetics for dogs](https://appleinsider.com/articles/23/08/22/iphone-14-pros-lidar-helps-create-custom-prosthetics-for-dogs?utm_medium=rss)<!-- TECH:END -->
+ - [AT&amp;T is bringing its $55 per month 5G home internet plan to more places](https://www.theverge.com/2023/8/22/23841470/att-5g-internet-air-plan-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

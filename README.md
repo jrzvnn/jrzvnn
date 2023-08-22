@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
  - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
- - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
  - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---

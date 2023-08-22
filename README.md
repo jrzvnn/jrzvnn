@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody wants to kiss her](http://9gag.com/gag/az2D9Km)
- - 😝 [Ah yes the Swiss man](http://9gag.com/gag/a1PqW08)
- - 💣 [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
  - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 </div>

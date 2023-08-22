@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch 6 tips and tricks: Get more from your device](https://www.androidauthority.com/samsung-galaxy-watch-6-tips-and-tricks-3356432/)
  - [This phone will let you easily adjust the CPU clock speed, no root needed](https://www.androidauthority.com/realme-gt5-cpu-clock-speed-3356916/)
  - [Bill Simmons, Ben Shapiro, Kara Swisher, and other podcast hosts, executives, and agents on how the industry has changed, not reaching &quot;peak podcast&quot;, and more &lpar;Lacey Rose/The Hollywood Reporter&rpar;](http://www.techmeme.com/230822/p3#a230822p3)
  - [Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma)
- - [A look at Worldcoin from a privacy-skeptical point of view, including likely risks and how the project doesn&#39;t link users&#39; transaction data with its ID database &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/230822/p2#a230822p2)
- - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)<!-- TECH:END -->
+ - [A look at Worldcoin from a privacy-skeptical point of view, including likely risks and how the project doesn&#39;t link users&#39; transaction data with its ID database &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/230822/p2#a230822p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

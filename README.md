@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
  - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
  - 💣 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 👉 [We were lied to](http://9gag.com/gag/avQXoOE)<!-- MEMES:END -->
+ - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 </div>

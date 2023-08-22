@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Amazfit GTR 4 finally got its first price drop of 2023](https://www.androidauthority.com/amazfit-gtr-4-deal-3357125/)
+ - [iPhone 14 Pro&#39;s LiDAR helps create custom prosthetics for dogs](https://appleinsider.com/articles/23/08/22/iphone-14-pros-lidar-helps-create-custom-prosthetics-for-dogs?utm_medium=rss)
+ - [Disney&#39;s ESPN Bet Is a Play for Younger Gamblers](https://www.wired.com/story/espn-bet-future-disney/)
  - [A look at the dire state of Americans&#39; privacy, made worse by credit bureaus&#39; data policies; Telegram bots offer huge dossiers on targets for ~$15 in bitcoin &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230822/p20#a230822p20)
- - [Fandom runs some of the biggest communities on the internet — can CEO Perkins Miller keep them happy?](https://www.theverge.com/23841327/fandom-wikia-perkins-miller-ads-ai-community-passion)
- - [Ramp, which offers credit cards and expense management tools, raised $300M at a $5.8B valuation from Founders Fund and others, down from $8.1B in March 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230822/p19#a230822p19)
- - [Ads are coming to TikTok search results](https://www.theverge.com/2023/8/22/23841335/tiktok-search-results-ads-toggle-sponsored-content)
- - [Coros just made my new favorite heart rate monitor](https://www.androidauthority.com/coros-heart-rate-monitor-review-3355551/)<!-- TECH:END -->
+ - [Fandom runs some of the biggest communities on the internet — can CEO Perkins Miller keep them happy?](https://www.theverge.com/23841327/fandom-wikia-perkins-miller-ads-ai-community-passion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

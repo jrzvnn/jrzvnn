@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How to watch the German Bundesliga in the USA](https://www.androidauthority.com/how-to-watch-bundesliga-in-usa-3357188/)
  - [Linux for Apple Silicon adds first conformant M1 GPU driver](https://appleinsider.com/articles/23/08/22/linux-for-apple-silicon-adds-first-conformant-m1-gpu-driver?utm_medium=rss)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Twitch rolls out an experimental TikTok-like vertical &quot;discovery feed&quot; to select users, first with horizontal clips and, &quot;as the feed evolves&quot;, vertical clips &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p26#a230822p26)<!-- TECH:END -->
+ - [Meta’s New AI Can Translate Speech and Text for Nearly 100 Languages     - CNET](https://www.cnet.com/tech/services-and-software/metas-new-ai-can-translate-speech-and-text-for-nearly-100-languages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

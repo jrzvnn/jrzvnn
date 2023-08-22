@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 😝 [Programming in Hebrew](http://9gag.com/gag/aWGN1Wx)
- - 💣 [We were lied to](http://9gag.com/gag/avQXoOE)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---
 </div>

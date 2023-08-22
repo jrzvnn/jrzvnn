@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No problem Itachi](http://9gag.com/gag/aWGNEZd)
  - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 💣 [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
+ - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 💣 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 💣 [Your thoughts?](http://9gag.com/gag/aqepgyY)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 💣 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
  - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
+ - 👉 [We were lied to](http://9gag.com/gag/avQXoOE)<!-- MEMES:END -->
 
 ---
 </div>

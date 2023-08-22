@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma)
  - [A look at Worldcoin from a privacy-skeptical point of view, including likely risks and how the project doesn&#39;t link users&#39; transaction data with its ID database &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/230822/p2#a230822p2)
  - [X reportedly tests removing headlines from links to news articles](https://www.theverge.com/2023/8/22/23841012/x-twitter-remove-headlines-news-elon-musk)
  - [China&#39;s metaverse proposals at the UN&#39;s ITU include a digital identity system, akin to the country&#39;s social credit system, that experts say invades user privacy &lpar;Gian Volpicelli/Politico&rpar;](http://www.techmeme.com/230822/p1#a230822p1)
- - [&#39;Immortals of Aveum&#39; Is a Shooter That Swaps Gunfire for Spell-Casting](https://www.wired.com/story/immortals-of-aveum-review-magic-shooter/)
- - [Google&#39;s AI-powered Search Generative Experience and Bard listed favorable arguments when asked about &quot;benefits&quot; of slavery, genocide, fascism, and colonization &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230821/p30#a230821p30)<!-- TECH:END -->
+ - [&#39;Immortals of Aveum&#39; Is a Shooter That Swaps Gunfire for Spell-Casting](https://www.wired.com/story/immortals-of-aveum-review-magic-shooter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

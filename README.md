@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know a situation has gotten out of control when you look at the thief and think ` we should really stop hitting him `](http://9gag.com/gag/aOxN0Nv)
- - 😝 [`Everything`](http://9gag.com/gag/aBdNgKQ)
- - 💣 [Nobody wants to kiss her](http://9gag.com/gag/az2D9Km)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
  - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
- - 👉 [Classic prank](http://9gag.com/gag/aYVnyWV)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 </div>

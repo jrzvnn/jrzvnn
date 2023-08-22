@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia announces DLSS 3.5 with AI-powered ray reconstruction, designed to recognize patterns within a noisy image for better clarity, available on RTX GPUs &lpar;Dave James/PC Gamer&rpar;](http://www.techmeme.com/230822/p13#a230822p13)
+ - [The EU might need to reassess Microsoft’s Activision Blizzard deal after restructuring](https://www.theverge.com/2023/8/22/23841244/eu-microsoft-activision-blizzard-restructure-investigation-comment)
+ - [Meta plans to roll out a more capable web app for Threads in the next few days, offering the ability to post, interact with other posts, and look at the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p12#a230822p12)
  - [Naomi Duguid &#39;The Miracle of Salt&#39; Cookbook Review: A Vital Reference for Pickling, Preserving, and Flavoring](https://www.wired.com/story/naomi-duguid-the-miracle-of-salt-cookbook-review/)
- - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)
- - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
- - [Microsoft’s PC Game Pass arrives on Nvidia’s GeForce Now service this week](https://www.theverge.com/2023/8/22/23841163/microsoft-xbox-pc-game-pass-nvidia-geforce-now)
- - [Nvidia’s new DLSS 3.5 works on all RTX GPUs to improve the quality of ray tracing](https://www.theverge.com/2023/8/22/23841148/nvidia-dlss-3-5-ray-reconstruction-ray-tracing-quality)<!-- TECH:END -->
+ - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

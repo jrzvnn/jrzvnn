@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Open will likely come in only two colors OnePlus cares about anymore](https://www.androidauthority.com/oneplus-open-colors-3357097/)
+ - [The 43 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
  - [Beats Studio Buds + gain two colors in Olive &amp; June collaboration](https://appleinsider.com/articles/23/08/22/beats-studio-buds-gain-two-colors-in-olive-june-collaboration?utm_medium=rss)
  - [Climate change is redrawing the disaster map](https://www.theverge.com/2023/8/22/23840516/weather-disaster-new-location-climate-change)
- - [13 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-1/)
- - [Zack Snyder shows the first trailer for his Netflix movie Rebel Moon](https://www.theverge.com/23840280/zack-snyder-rebel-moon-trailer-netflix-gamescom)
- - [Experian fined $650,000 for not letting you opt out of its spammy emails](https://www.theverge.com/2023/8/22/23841646/experian-fined-spam-emails-ftc-doj)<!-- TECH:END -->
+ - [13 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

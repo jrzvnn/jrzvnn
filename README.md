@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch is testing a TikTok-style feed](https://www.theverge.com/2023/8/22/23842075/twitch-tiktok-style-discovery-feed)
- - [Apple releases fifth public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/22/apple-releases-fifth-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
- - [Meta says it remains committed to rolling out default E2EE for Messenger, which has opt-in E2EE, by the end of 2023, and shortly afterwards for Instagram DMs &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230822/p24#a230822p24)
- - [Google and YouTube are trying to have it both ways with AI and copyright](https://www.theverge.com/2023/8/22/23841822/google-youtube-ai-copyright-umg-scraping-universal)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [What is C Spire? C Spire plans, prices, and more](https://www.androidauthority.com/what-is-c-spire-plans-prices-3355851/)
+ - [NVIDIA GeForce Now will work with Microsoft PC Game Pass this week](https://www.androidauthority.com/game-pass-geforce-now-3357168/)
+ - [HBO and Max content leader Casey Bloys is coming to the Code Conference](https://www.theverge.com/2023/8/22/23840204/casey-bloys-hbo-max-code-conference-2023)
+ - [Sources: Tiger Global nears a deal to sell a ~2.1% stake in AI startup Cohere for ~$63M at a $3B valuation, up 40% from June 2023; Tiger will retain a ~5% stake &lpar;The Information&rpar;](http://www.techmeme.com/230822/p25#a230822p25)
+ - [Twitch is testing a TikTok-style feed](https://www.theverge.com/2023/8/22/23842075/twitch-tiktok-style-discovery-feed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

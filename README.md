@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 💣 [Title](http://9gag.com/gag/ay2VX1b)
- - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 </div>

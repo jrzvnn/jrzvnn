@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch rolls out an experimental TikTok-like vertical &quot;discovery feed&quot; to select users, first with horizontal clips and, &quot;as the feed evolves&quot;, vertical clips &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p26#a230822p26)
+ - [Babbel&#39;s lifetime subscription hits a new low price of $149.97, with limited time remaining](https://appleinsider.com/articles/23/08/22/babbels-lifetime-subscription-hits-a-new-low-price-of-14997-with-limited-time-remaining?utm_medium=rss)
  - [What is C Spire? C Spire plans, prices, and more](https://www.androidauthority.com/what-is-c-spire-plans-prices-3355851/)
  - [NVIDIA GeForce Now will work with Microsoft PC Game Pass this week](https://www.androidauthority.com/game-pass-geforce-now-3357168/)
- - [HBO and Max content leader Casey Bloys is coming to the Code Conference](https://www.theverge.com/2023/8/22/23840204/casey-bloys-hbo-max-code-conference-2023)
- - [Sources: Tiger Global nears a deal to sell a ~2.1% stake in AI startup Cohere for ~$63M at a $3B valuation, up 40% from June 2023; Tiger will retain a ~5% stake &lpar;The Information&rpar;](http://www.techmeme.com/230822/p25#a230822p25)
- - [Twitch is testing a TikTok-style feed](https://www.theverge.com/2023/8/22/23842075/twitch-tiktok-style-discovery-feed)<!-- TECH:END -->
+ - [HBO and Max content leader Casey Bloys is coming to the Code Conference](https://www.theverge.com/2023/8/22/23840204/casey-bloys-hbo-max-code-conference-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch is testing a TikTok-style feed](https://www.theverge.com/2023/8/22/23842075/twitch-tiktok-style-discovery-feed)
  - [Apple releases fifth public betas of iOS 17, macOS Sonoma, others](https://appleinsider.com/articles/23/08/22/apple-releases-fifth-public-betas-of-ios-17-macos-sonoma-others?utm_medium=rss)
  - [Meta says it remains committed to rolling out default E2EE for Messenger, which has opt-in E2EE, by the end of 2023, and shortly afterwards for Instagram DMs &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230822/p24#a230822p24)
  - [Google and YouTube are trying to have it both ways with AI and copyright](https://www.theverge.com/2023/8/22/23841822/google-youtube-ai-copyright-umg-scraping-universal)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

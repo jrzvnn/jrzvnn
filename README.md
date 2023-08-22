@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Parallels Desktop 19 with Touch ID, macOS Sonoma support](https://appleinsider.com/articles/23/08/22/new-parallels-desktop-19-with-touch-id-macos-sonoma-support?utm_medium=rss)
+ - [Nick Clegg says Meta plans to let Instagram and Facebook users opt out of its recommendation algorithms, part of its broader work to comply with the EU DSA &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230822/p7#a230822p7)
  - [Instagram is adding a chronological feed for Reels and Stories in Europe](https://www.theverge.com/2023/8/22/23841173/instagram-facebook-meta-chronological-feed-stories-reels-european-union-digital-services-act)
  - [The View From the Center of the World’s Myopia Epidemic](https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/)
- - [New Supply Chain Attack Hit Close to 100 Victims—and Clues Point to China](https://www.wired.com/story/carderbee-china-hong-kong-supply-chain-attack/)
- - [Old Mac malware lurches back to life, hiding in productivity software](https://appleinsider.com/articles/23/08/21/newest-xloader-threat-targets-work-environments?utm_medium=rss)
- - [OnePlus Open: Release date, price, specs, rumors, and more &lpar;Updated: Aug. 22&rpar;](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)<!-- TECH:END -->
+ - [New Supply Chain Attack Hit Close to 100 Victims—and Clues Point to China](https://www.wired.com/story/carderbee-china-hong-kong-supply-chain-attack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

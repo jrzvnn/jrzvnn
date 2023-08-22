@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [New Parallels Desktop 19 with Touch ID, macOS Sonoma support](https://appleinsider.com/articles/23/08/22/new-parallels-desktop-19-with-touch-id-macos-sonoma-support?utm_medium=rss)
- - [Nick Clegg says Meta plans to let Instagram and Facebook users opt out of its recommendation algorithms, part of its broader work to comply with the EU DSA &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230822/p7#a230822p7)
- - [Instagram is adding a chronological feed for Reels and Stories in Europe](https://www.theverge.com/2023/8/22/23841173/instagram-facebook-meta-chronological-feed-stories-reels-european-union-digital-services-act)
- - [The View From the Center of the World’s Myopia Epidemic](https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/)<!-- TECH:END -->
+ - [Apple brings Tap to Pay to Netherlands businesses](https://appleinsider.com/articles/23/08/22/apple-brings-tap-to-pay-to-netherlands-businesses?utm_medium=rss)
+ - [A Brain Implant Helped Stroke Survivors Regain Movement](https://www.wired.com/story/a-brain-implant-helped-stroke-survivors-regain-movement/)
+ - [The Internet Is Turning Into a Data Black Box. An ‘Inspectability API’ Could Crack It Open](https://www.wired.com/story/inspectability-api-app-transparency/)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
+ - [New Parallels Desktop 19 arrives with Touch ID, macOS Sonoma support](https://appleinsider.com/articles/23/08/22/new-parallels-desktop-19-with-touch-id-macos-sonoma-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

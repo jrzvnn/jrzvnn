@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Thoma Bravo will close its $2.3B acquisition of identity software provider ForgeRock this week after the US DOJ declined to challenge the deal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230822/p21#a230822p21)
+ - [Command &amp; Conquer is getting another mobile game](https://www.theverge.com/2023/8/22/23841520/command-and-conquer-legions-mobile-game-ea)
  - [Destiny 2: The Final Shape arrives on February 27th to finish a light vs. dark battle](https://www.theverge.com/2023/8/22/23841430/destiny-2-the-final-shape-release-date)
  - [Gamescom Opening Night Live 2023: all the news and trailers](https://www.theverge.com/2023/8/22/23841479/opening-night-live-2023-geoff-keighley-gamescom)
- - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)
- - [ASUS Zenfone 10 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
- - [AT&amp;T is bringing its $55 per month 5G home internet plan to more places](https://www.theverge.com/2023/8/22/23841470/att-5g-internet-air-plan-expansion)<!-- TECH:END -->
+ - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

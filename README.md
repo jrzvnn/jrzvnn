@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 💣 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 👉 [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)<!-- MEMES:END -->
 
 ---
 </div>

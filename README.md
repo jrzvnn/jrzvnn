@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diver realises a freighter just went by inches overhead](http://9gag.com/gag/aMENwmx)
- - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
- - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 💣 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
  - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---

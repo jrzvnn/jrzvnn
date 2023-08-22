@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 💣 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
- - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [We were lied to](http://9gag.com/gag/avQXoOE)<!-- MEMES:END -->
+ - 😝 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
+ - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---
 </div>

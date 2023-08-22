@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
- - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---
 </div>

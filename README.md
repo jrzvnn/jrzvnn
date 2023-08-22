@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi matches Samsung’s industry-leading Android updates policy](https://www.androidauthority.com/xiaomi-android-update-promise-3356992/)
- - [Baidu reports Q2 revenue up 15% YoY to ~$4.7B, beating ~$4.6B est., and net income up 43% YoY to ~$714M, as China boosts its private sector; BIDU rises 4%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230822/p9#a230822p9)
- - [Ivanti warns of a critical Sentry API authentication bypass flaw that is being exploited in the wild, after another zero-day compromised Norway&#39;s government &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230822/p8#a230822p8)
- - [Apple brings Tap to Pay to Netherlands businesses](https://appleinsider.com/articles/23/08/22/apple-brings-tap-to-pay-to-netherlands-businesses?utm_medium=rss)
- - [A Brain Implant Helped Stroke Survivors Regain Movement](https://www.wired.com/story/a-brain-implant-helped-stroke-survivors-regain-movement/)<!-- TECH:END -->
+ - [Future Apple Watch could color-coordinate itself automatically](https://appleinsider.com/articles/23/08/22/future-apple-watch-could-color-coordinate-itself-automatically?utm_medium=rss)
+ - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)
+ - [Riding in three Waymo taxis in San Francisco finds two avoided traffic while another didn&#39;t, the app works like Uber, and the first experience can be confusing &lpar;New York Times&rpar;](http://www.techmeme.com/230822/p10#a230822p10)
+ - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
+ - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

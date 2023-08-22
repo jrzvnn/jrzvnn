@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive on CivitAI, a site for sharing AI models that generate pornographic images mostly trained on material taken without consent from across the internet &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/230822/p18#a230822p18)
- - [Netflix is going to let DVD.com subscribers keep any unreturned discs](https://www.theverge.com/2023/8/22/23841540/netflix-dvd-com-subscribers-keep-unreturned-discs)
- - [New iPhone 15 charging cable rumored to be a bit longer than before](https://appleinsider.com/articles/23/08/22/new-iphone-15-charging-cable-rumored-to-be-a-bit-longer-than-before?utm_medium=rss)
- - [A new Atari 2600 will play your old cartridges](https://www.theverge.com/2023/8/22/23841336/atari-2600-plus-compatible-with-7800-cartridges)
- - [Asus ROG Strix Scar X3D review: the $3.7K, 17&quot; gaming laptop outperforms a pricier Intel-powered rival by up to 20% due to its stellar AMD Ryzen 9 7945HX3D chip &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230822/p17#a230822p17)<!-- TECH:END -->
+ - [Ramp, which offers credit cards and expense management tools, raised $300M at a $5.8B valuation from Founders Fund and others, down from $8.1B in March 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230822/p19#a230822p19)
+ - [Ads are coming to TikTok search results](https://www.theverge.com/2023/8/22/23841335/tiktok-search-results-ads-toggle-sponsored-content)
+ - [Coros just made my new favorite heart rate monitor](https://www.androidauthority.com/coros-heart-rate-monitor-review-3355551/)
+ - [Ahsoka brings mystery back to Star Wars](https://www.theverge.com/23839946/ahsoka-star-wars-review-disney-plus)
+ - [A look at CivitAI, a site for sharing AI models that generate images mostly trained on material taken without consent, as non-consensual AI porn proliferates &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/230822/p18#a230822p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

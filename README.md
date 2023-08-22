@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
- - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 😝 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
  - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 👉 [Good girl](http://9gag.com/gag/a2KjZo9)<!-- MEMES:END -->
 
 ---
 </div>

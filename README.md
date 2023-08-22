@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)
- - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
- - 💣 [Just a few strong Darwin Awards contenders](http://9gag.com/gag/a4orbn1)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
+ - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
  - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/ay2VX1b)<!-- MEMES:END -->
 
 ---
 </div>

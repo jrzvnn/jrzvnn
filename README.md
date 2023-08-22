@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gali golan](http://9gag.com/gag/aXnGqOD)
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 💣 [Title](http://9gag.com/gag/ay2VX1b)
  - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
- - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
+ - 👉 [Stalker dies inside, several times, after his victim escapes and he realizes he&#39;s been caught on camera](http://9gag.com/gag/aA0NdjZ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s enough that you&#39;re beautiful](http://9gag.com/gag/aqep7mZ)
+ - 😝 [Level of trust](http://9gag.com/gag/aOxN7NR)
  - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)
- - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
+ - 💣 [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - 😝 [Do you?](http://9gag.com/gag/aWGNjpq)
+ - 👉 [Well, don&#39;t buy a new one!](http://9gag.com/gag/aQENdZz)<!-- MEMES:END -->
 
 ---
 </div>

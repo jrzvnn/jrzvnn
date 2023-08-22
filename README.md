@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AlphaSense: ~40% of companies in the S&amp;P 500 mentioned AI or related terms in their latest earnings calls, but only 16% mentioned AI in their regulatory filings &lpar;Financial Times&rpar;](http://www.techmeme.com/230822/p5#a230822p5)
  - [OnePlus seems to be testing several generative AI-powered tools](https://www.androidauthority.com/oneplus-generative-ai-features-3356957/)
  - [To appease the UK, Microsoft restructures its Activision deal by agreeing to sell off Activision cloud gaming rights to Ubisoft; the UK CMA will now investigate &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230822/p4#a230822p4)
  - [Poll: Do you clean your wearable after a workout?](https://www.androidauthority.com/clean-wearable-after-workout-poll-3356949/)
- - [OnePlus Open could have the sharpest foldable screen around](https://www.androidauthority.com/oneplus-open-display-resolution-colors-3356917/)
- - [Samsung Galaxy Watch 6 tips and tricks: Get more from your device](https://www.androidauthority.com/samsung-galaxy-watch-6-tips-and-tricks-3356432/)<!-- TECH:END -->
+ - [OnePlus Open could have the sharpest foldable screen around](https://www.androidauthority.com/oneplus-open-display-resolution-colors-3356917/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

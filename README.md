@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the END he says : we gonna kill ourself](http://9gag.com/gag/aDYNdBZ)
- - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 💣 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 😝 [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)
+ - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
+ - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
  - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
 
 ---

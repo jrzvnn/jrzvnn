@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LAist Studios relaunches Imperfect Paradise as weekly podcast and radio program](https://www.theverge.com/2023/8/22/23841491/laist-imperfect-paradise-elsa-podcast-disney-triton-youtube)
+ - [ASUS Zenfone 10 is here: Price, specs, features, and all you need to know](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
+ - [AT&amp;T is bringing its $55 per month 5G home internet plan to more places](https://www.theverge.com/2023/8/22/23841470/att-5g-internet-air-plan-expansion)
  - [The Amazfit GTR 4 finally got its first price drop of 2023](https://www.androidauthority.com/amazfit-gtr-4-deal-3357125/)
- - [iPhone 14 Pro&#39;s LiDAR helps create custom prosthetics for dogs](https://appleinsider.com/articles/23/08/22/iphone-14-pros-lidar-helps-create-custom-prosthetics-for-dogs?utm_medium=rss)
- - [Disney&#39;s ESPN Bet Is a Play for Younger Gamblers](https://www.wired.com/story/espn-bet-future-disney/)
- - [A look at the dire state of Americans&#39; privacy, made worse by credit bureaus&#39; data policies; Telegram bots offer huge dossiers on targets for ~$15 in bitcoin &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230822/p20#a230822p20)
- - [Fandom runs some of the biggest communities on the internet — can CEO Perkins Miller keep them happy?](https://www.theverge.com/23841327/fandom-wikia-perkins-miller-ads-ai-community-passion)<!-- TECH:END -->
+ - [iPhone 14 Pro&#39;s LiDAR helps create custom prosthetics for dogs](https://appleinsider.com/articles/23/08/22/iphone-14-pros-lidar-helps-create-custom-prosthetics-for-dogs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

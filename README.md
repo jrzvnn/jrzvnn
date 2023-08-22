@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [We were lied to](http://9gag.com/gag/avQXoOE)
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
  - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
  - 😝 [\ud83c\udfaeGamers, rejoice! The moment we all have been waiting for - Geoff Keighley is back in Cologne for gamescom Opening Night Live!](http://9gag.com/gag/aeQPDVj)
- - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
+ - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---
 </div>

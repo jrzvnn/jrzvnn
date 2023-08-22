@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Salesforce is leading a ~$200M funding round in Hugging Face at a $4B+ valuation, more than doubling its share price and private valuation &lpar;The Information&rpar;](http://www.techmeme.com/230822/p27#a230822p27)
+ - [How to watch the German Bundesliga in the USA](https://www.androidauthority.com/how-to-watch-bundesliga-in-usa-3357188/)
+ - [Linux for Apple Silicon adds first conformant M1 GPU driver](https://appleinsider.com/articles/23/08/22/linux-for-apple-silicon-adds-first-conformant-m1-gpu-driver?utm_medium=rss)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Twitch rolls out an experimental TikTok-like vertical &quot;discovery feed&quot; to select users, first with horizontal clips and, &quot;as the feed evolves&quot;, vertical clips &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p26#a230822p26)
- - [Babbel&#39;s lifetime subscription hits a new low price of $149.97, with limited time remaining](https://appleinsider.com/articles/23/08/22/babbels-lifetime-subscription-hits-a-new-low-price-of-14997-with-limited-time-remaining?utm_medium=rss)
- - [What is C Spire? C Spire plans, prices, and more](https://www.androidauthority.com/what-is-c-spire-plans-prices-3355851/)
- - [NVIDIA GeForce Now will work with Microsoft PC Game Pass this week](https://www.androidauthority.com/game-pass-geforce-now-3357168/)<!-- TECH:END -->
+ - [Twitch rolls out an experimental TikTok-like vertical &quot;discovery feed&quot; to select users, first with horizontal clips and, &quot;as the feed evolves&quot;, vertical clips &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p26#a230822p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerby, which manages access to &quot;nonstandard&quot; enterprise apps, like those without modern identity protocols, raised a $17M Series A led by Two Sigma Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p11#a230822p11)
+ - [Poll results: You don’t think high-resolution cameras have lived up to the hype](https://www.androidauthority.com/ultra-high-resolution-cameras-hype-poll-results-3357009/)
  - [Future Apple Watch could color-coordinate itself automatically](https://appleinsider.com/articles/23/08/22/future-apple-watch-could-color-coordinate-itself-automatically?utm_medium=rss)
  - [iPhone 15 USB-C could change how physical SIM slots attach](https://appleinsider.com/articles/23/08/21/iphone-15-usb-c-could-change-how-physical-sim-slots-attach?utm_medium=rss)
- - [Riding in three Waymo taxis in San Francisco finds two avoided traffic while another didn&#39;t, the app works like Uber, and the first experience can be confusing &lpar;New York Times&rpar;](http://www.techmeme.com/230822/p10#a230822p10)
- - [iPhone 15 Pro Max not shipping until October says analyst](https://appleinsider.com/articles/23/08/22/iphone-15-pro-max-not-shipping-until-october-says-analyst?utm_medium=rss)
- - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)<!-- TECH:END -->
+ - [Riding in three Waymo taxis in San Francisco finds two avoided traffic while another didn&#39;t, the app works like Uber, and the first experience can be confusing &lpar;New York Times&rpar;](http://www.techmeme.com/230822/p10#a230822p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

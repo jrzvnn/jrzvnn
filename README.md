@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi matches Samsung’s industry-leading Android updates policy](https://www.androidauthority.com/xiaomi-android-update-promise-3356992/)
+ - [Baidu reports Q2 revenue up 15% YoY to ~$4.7B, beating ~$4.6B est., and net income up 43% YoY to ~$714M, as China boosts its private sector; BIDU rises 4%+ &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230822/p9#a230822p9)
  - [Ivanti warns of a critical Sentry API authentication bypass flaw that is being exploited in the wild, after another zero-day compromised Norway&#39;s government &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230822/p8#a230822p8)
  - [Apple brings Tap to Pay to Netherlands businesses](https://appleinsider.com/articles/23/08/22/apple-brings-tap-to-pay-to-netherlands-businesses?utm_medium=rss)
- - [A Brain Implant Helped Stroke Survivors Regain Movement](https://www.wired.com/story/a-brain-implant-helped-stroke-survivors-regain-movement/)
- - [The Internet Is Turning Into a Data Black Box. An ‘Inspectability API’ Could Crack It Open](https://www.wired.com/story/inspectability-api-app-transparency/)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
+ - [A Brain Implant Helped Stroke Survivors Regain Movement](https://www.wired.com/story/a-brain-implant-helped-stroke-survivors-regain-movement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

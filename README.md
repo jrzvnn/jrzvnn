@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 😝 [I did not know it had this effect](http://9gag.com/gag/aKENDP6)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 💣 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
  - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 😝 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 👉 [A 20 years old Afghan refugee has raped an 18 year old Man for hours, camera has filmed the complete crime. WTF?! And nobody helped the victim? What is worse, if they don&#39;t rape Women, they start rape Man?! WTF Germany?!](http://9gag.com/gag/aWGNYvK)<!-- MEMES:END -->
 
 ---
 </div>

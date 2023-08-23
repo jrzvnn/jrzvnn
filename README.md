@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia plans to at least triple the production of the H100 in 2024, predicting shipments of between 1.5M to 2M units, up from 500K in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230823/p9#a230823p9)
  - [Tired of setting up hotspots for your other devices? Android will soon fix that](https://www.androidauthority.com/android-automatic-hotspot-leak-3357368/)
  - [LLMs, Transformers, and diffusion models represent an entirely new era for AI and discontinuity from the past capabilities of the CNN/RNN/GAN world &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230823/p8#a230823p8)
  - [London-based ticketing company Dice raised $65M from MUSIC and others to expand in Europe and the US; the app will serve 55K+ artists and 10K+ venues in 2023 &lpar;Glenn Peoples/Billboard&rpar;](http://www.techmeme.com/230823/p7#a230823p7)
- - [Poll: Do you mute your group chats in messaging apps?](https://www.androidauthority.com/mute-group-chats-messaging-apps-poll-3357356/)
- - [AirPods Max can malfunction or suddenly stop working because of users&#39; sweat or condensation inside of earcups, an issue Apple has not publicly acknowledged &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230823/p6#a230823p6)<!-- TECH:END -->
+ - [Poll: Do you mute your group chats in messaging apps?](https://www.androidauthority.com/mute-group-chats-messaging-apps-poll-3357356/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

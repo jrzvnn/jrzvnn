@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 💣 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
  - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 👉 [Help me](http://9gag.com/gag/a8qXG2p)<!-- MEMES:END -->
+ - 💣 [Marion, Kansas police raid of 98-year-old newspaper publisher\u2019s home; she passed the next day and the warrant was rescinded for lacking evidence](http://9gag.com/gag/amAbvD6)
+ - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
 
 ---
 </div>

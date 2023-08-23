@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After the Netherlands invented the speed camera, the whole world uses those b*tches. We now have something new again, the sound speed camera. above 80 decibels you can soon be fined about 400 euros. Soon also in your city, you&#39;re welcome ; &rpar;](http://9gag.com/gag/aDYN4zZ)
- - 😝 [Do you?](http://9gag.com/gag/aWGNjpq)
- - 💣 [L is beautiful](http://9gag.com/gag/aYVnr4q)
- - 😝 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
+ - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
+ - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
 
 ---
 </div>

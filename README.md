@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hollywood writers say producers want them to ‘cave’ after the public release of proposals](https://www.theverge.com/2023/8/23/23842892/hollywood-producers-amptp-proposals-wga-strike)
+ - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
  - [Epic’s new program lets developers keep their revenue in exchange for exclusivity](https://www.theverge.com/2023/8/23/23843018/epic-games-store-first-run-developers-revenue)
  - [The US DOJ charges Tornado Cash founders Roman Storm, of Auburn, WA, and Roman Semenov, a Russian national, with money laundering and sanctions violations &lpar;Katherine Ross/Blockworks&rpar;](http://www.techmeme.com/230823/p22#a230823p22)
- - [Spotify introduces new podcaster tools, including customized pages, impression analytics, controls for previews, and a new dashboard for Megaphone publishers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230823/p21#a230823p21)
- - [New Meta Horizon Worlds update lets you easily block and report other users](https://www.theverge.com/2023/8/23/23842975/meta-horizon-worlds-v124-moderation-safety-report-features)
- - [Save $200 on a like-new unlocked iPhone 14 Pro Max](https://www.androidauthority.com/iphone-14-pro-max-deal-3357512/)<!-- TECH:END -->
+ - [Spotify introduces new podcaster tools, including customized pages, impression analytics, controls for previews, and a new dashboard for Megaphone publishers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230823/p21#a230823p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

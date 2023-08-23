@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to convert a PDF for your Kindle](https://www.theverge.com/21314512/pdf-file-amazon-kindle-convert-how-to-read)
+ - [Brain implants could one day restore communication for people with paralysis](https://www.theverge.com/2023/8/23/23842109/brain-implants-speech-paralysis)
+ - [Twilio announces AI-powered tools to let clients generate suggestions about marketing strategy and use internal data to build automated contact support services &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230823/p24#a230823p24)
  - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Tornado Cash devs charged with laundering more than $1 billion](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
- - [The best Chromebook deals of August 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [Qualcomm updates its lineup of processors for gaming handhelds, adding the G1 and G2 chips for cheaper devices and unveiling its flagship Snapdragon G3x Gen 2 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230823/p23#a230823p23)
- - [How to clean Apple Watch bands](https://appleinsider.com/inside/apple-watch/tips/heres-how-to-clean-apple-watch-bands?utm_medium=rss)<!-- TECH:END -->
+ - [Tornado Cash devs charged with laundering more than $1 billion](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

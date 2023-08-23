@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
  - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 💣 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 👉 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)<!-- MEMES:END -->
+ - 💣 [Use cash.](http://9gag.com/gag/axonMGL)
+ - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
 
 ---
 </div>

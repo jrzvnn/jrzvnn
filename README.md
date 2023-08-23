@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 😝 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
- - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
- - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
+ - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
+ - 💣 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 👉 [Help me](http://9gag.com/gag/a8qXG2p)<!-- MEMES:END -->
 
 ---
 </div>

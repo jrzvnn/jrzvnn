@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
+ - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
+ - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)
  - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [Samsung Galaxy Z Fold 5 vs Google Pixel Fold: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-google-pixel-fold-3356233/)
- - [How to crossfade Apple Music tracks in iOS 17](https://appleinsider.com/inside/apple-music/tips/how-to-crossfade-apple-music-tracks-in-ios-17?utm_medium=rss)
- - [Mukesh Ambani&#39;s Reliance Retail, which runs 18,500 stores and e-commerce platforms, raised $1B from Qatar&#39;s QIA for a 0.99% stake at a $100B pre-money valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230823/p12#a230823p12)
- - [Q Acoustics 5020 Review: Clear, Stylish, Limited Bass](https://www.wired.com/review/q-acoustics-5020-speakers/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 vs Google Pixel Fold: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-google-pixel-fold-3356233/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And now with sound](http://9gag.com/gag/aREN132)
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 💣 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
  - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ay2VX1b)
+ - 💣 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 😝 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 👉 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)<!-- MEMES:END -->
 
 ---
 </div>

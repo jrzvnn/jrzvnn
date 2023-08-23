@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Right-to-Repair Car Law Makes a Surprising U-Turn in Massachusetts](https://www.wired.com/story/nhtsa-massachusetts-right-to-repair-letter/)
+ - [Brilliant launches plug-in Smart Home Control with Siri support](https://appleinsider.com/articles/23/08/23/brilliant-launches-plug-in-smart-home-control-with-siri-support?utm_medium=rss)
+ - [GuliKit’s Steam Deck dock looks like a Super Nintendo](https://www.theverge.com/2023/8/23/23843324/gulikit-steam-deck-rog-ally-dock-super-nintendo-snes-xbox-elite-gamepad)
  - [Nvidia reports Q2 revenue up 101% YoY to $13.51B, vs. $11.22B est., Data Center revenue up 171% YoY to $10.32B, and authorizes a $25B buyback; NVDA jumps 6%+ &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230823/p26#a230823p26)
- - [Reddit comments weren’t loading for awhile](https://www.theverge.com/2023/8/23/23843352/reddit-down-comments-not-loading-server-error)
- - [Nvidia just made $6 billion in pure profit over the AI boom](https://www.theverge.com/2023/8/23/22608145/nvidia-q2-2024-profit-revenue-ai-chips)
- - [Apple is the most under-owned large-cap tech firm by big investors](https://appleinsider.com/articles/23/08/23/apple-is-the-most-under-owned-large-cap-tech-firm-by-big-investors?utm_medium=rss)
- - [Sources: Microsoft is experimenting with new AI capabilities in Windows 11 apps, including generating a canvas from text in Paint and OCR in Snipping Tool &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230823/p25#a230823p25)<!-- TECH:END -->
+ - [Reddit comments weren’t loading for awhile](https://www.theverge.com/2023/8/23/23843352/reddit-down-comments-not-loading-server-error)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

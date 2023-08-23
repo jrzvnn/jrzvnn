@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Antenna: Netflix had ~2.6M signups in the US in July, more than any other paid streaming service but down 26% from June 2023; 23% were for Netflix&#39;s ad tier &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230823/p19#a230823p19)
  - [WhatsApp will let you set up group chats without having to come up with a name](https://www.theverge.com/2023/8/23/23842834/whatsapp-group-chat-name-unnamed)
  - [A decade after data analytics promised to revolutionize US agriculture, many farmers are still waiting for the tech to pay off and are swamped by a data deluge &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230823/p18#a230823p18)
- - [Some Apple Card users will get 5% Daily Cash back on dining and travel](https://appleinsider.com/articles/23/08/23/some-apple-card-users-will-get-5-daily-cash-back-on-dining-and-travel?utm_medium=rss)<!-- TECH:END -->
+ - [Why Your Glasses Get Foggy and How to Stop It     - CNET](https://www.cnet.com/health/personal-care/why-your-glasses-get-foggy-and-how-to-stop-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

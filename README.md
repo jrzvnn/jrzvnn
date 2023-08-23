@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Do you mute your group chats in messaging apps?](https://www.androidauthority.com/mute-group-chats-messaging-apps-poll-3357356/)
  - [AirPods Max can malfunction or suddenly stop working because of users&#39; sweat or condensation inside of earcups, an issue Apple has not publicly acknowledged &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230823/p6#a230823p6)
  - [A future Apple Watch could offer automatic color coordination with straps](https://www.androidauthority.com/apple-watch-patent-watch-face-straps-band-colors-3357315/)
  - [Mortal Kombat 1 reboots the bloody fighter with a focus on new players](https://www.theverge.com/23842175/mortal-kombat-1-invasions-hands-on-preview)
- - [Hyperkin’s new Xbox controller has drift-free sticks in a PlayStation-style layout](https://www.theverge.com/2023/8/23/23841614/hyperkin-competition-xbox-controller-hall-effect-drift-free-sticks-playstation-announcement-specs)
- - [The wait is almost over: Here’s when Nothing Phone 1 will get Nothing OS 2.0](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-launch-date-3357286/)<!-- TECH:END -->
+ - [Hyperkin’s new Xbox controller has drift-free sticks in a PlayStation-style layout](https://www.theverge.com/2023/8/23/23841614/hyperkin-competition-xbox-controller-hall-effect-drift-free-sticks-playstation-announcement-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

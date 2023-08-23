@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair’s first standing desk is designed for gaming, streaming, and more](https://www.theverge.com/2023/8/23/23842681/corsair-platform-6-gaming-desk-height-adjust-cable-management-release-date-monitor-arm)
- - [Repair experts weigh in on AirPods Max condensation complaints](https://appleinsider.com/articles/23/08/23/repair-experts-weigh-in-on-airpods-max-condensation-complaints?utm_medium=rss)
- - [The FBI details North Korea&#39;s TraderTraitor-affiliated actors, responsible for Alphapo, CoinsPaid, and Atomic Wallet hacks, and warns over cashing out $40M+ BTC &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230823/p11#a230823p11)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Kids Are Going Back to School. So Is ChatGPT](https://www.wired.com/story/chatgpt-schools-plagiarism-lesson-plans/)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [Samsung Galaxy Z Fold 5 vs Google Pixel Fold: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-google-pixel-fold-3356233/)
+ - [How to crossfade Apple Music tracks in iOS 17](https://appleinsider.com/inside/apple-music/tips/how-to-crossfade-apple-music-tracks-in-ios-17?utm_medium=rss)
+ - [Mukesh Ambani&#39;s Reliance Retail, which runs 18,500 stores and e-commerce platforms, raised $1B from Qatar&#39;s QIA for a 0.99% stake at a $100B pre-money valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230823/p12#a230823p12)
+ - [Q Acoustics 5020 Review: Clear, Stylish, Limited Bass](https://www.wired.com/review/q-acoustics-5020-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

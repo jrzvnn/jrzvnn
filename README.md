@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 💣 [Use cash.](http://9gag.com/gag/axonMGL)
- - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
+ - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 💣 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
+ - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 👉 [Help me](http://9gag.com/gag/a8qXG2p)<!-- MEMES:END -->
 
 ---
 </div>

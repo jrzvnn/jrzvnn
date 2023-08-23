@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is bee-autiful](http://9gag.com/gag/a9qN176)
- - 😝 [Classic prank](http://9gag.com/gag/aYVnyWV)
- - 💣 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)
- - 😝 [A true classic](http://9gag.com/gag/aNw2p33)
- - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
+ - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
+ - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
+ - 😝 [My roommate keeps bringing girls over so I made a survey](http://9gag.com/gag/amAbgOy)
+ - 👉 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)<!-- MEMES:END -->
 
 ---
 </div>

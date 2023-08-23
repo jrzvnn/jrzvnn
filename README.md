@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
  - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 💣 [Use cash.](http://9gag.com/gag/axonMGL)
+ - 💣 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)
  - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 👉 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)<!-- MEMES:END -->
+ - 👉 [This is so symbolic for economic migrants in Europe. Migrant in Italy refuses to get off the train because he didn\u2019t pay for a ticket. Meanwhile he\u2019s holding an expensive new iPhone 14 Pro. Italy should give him a free ticket - a plane ticket back to Africa.](http://9gag.com/gag/aYVnQOq)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India’s Lander Touches Down on the Moon. Russia’s Has Crashed](https://www.wired.com/story/indias-lander-touches-down-on-the-moon-russias-has-crashed/)
+ - [Hands-on: the HyperX Cloud III Wireless makes a great headset even better](https://www.theverge.com/22686476/hyperx-cloud-iii-wireless-features-price-release-date)
+ - [Leak: The Galaxy S23 FE launch could be around the corner](https://www.androidauthority.com/samsung-galaxy-s23-fe-specs-release-date-leak-3357421/)
  - [Scream The Game Review: Heart-pounding Fun](https://www.wired.com/review/scream-the-game/)
- - [Ducati MotoE 2023: specs, speed, charging times](https://www.wired.com/story/ducati-motoe-electric-motorcycle/)
- - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
- - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
- - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)<!-- TECH:END -->
+ - [Ducati MotoE 2023: specs, speed, charging times](https://www.wired.com/story/ducati-motoe-electric-motorcycle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

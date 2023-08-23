@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All the women bailing him out is ridiculous](http://9gag.com/gag/aDYNDxG)
- - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
+ - 😝 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
+ - 😝 [What&#39;s your answer?](http://9gag.com/gag/aQEN3wK)
  - 💣 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
+ - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - 👉 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)<!-- MEMES:END -->
 
 ---
 </div>

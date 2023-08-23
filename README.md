@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A future Apple Watch could offer automatic color coordination with straps](https://www.androidauthority.com/apple-watch-patent-watch-face-straps-band-colors-3357315/)
  - [Mortal Kombat 1 reboots the bloody fighter with a focus on new players](https://www.theverge.com/23842175/mortal-kombat-1-invasions-hands-on-preview)
  - [Hyperkin’s new Xbox controller has drift-free sticks in a PlayStation-style layout](https://www.theverge.com/2023/8/23/23841614/hyperkin-competition-xbox-controller-hall-effect-drift-free-sticks-playstation-announcement-specs)
  - [The wait is almost over: Here’s when Nothing Phone 1 will get Nothing OS 2.0](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-launch-date-3357286/)
- - [LinkedIn is benefiting from recent social media upheavals with a jump in sharing, leveraging its position as a place where old-school self-promotion still works &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/230823/p5#a230823p5)
- - [Snap names former Google Pay executive Pulkit Trivedi as the new India head and grants greater autonomy to local leadership in a market where it has 200M+ MAUs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230823/p4#a230823p4)<!-- TECH:END -->
+ - [LinkedIn is benefiting from recent social media upheavals with a jump in sharing, leveraging its position as a place where old-school self-promotion still works &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/230823/p5#a230823p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

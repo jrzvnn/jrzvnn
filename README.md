@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch the first Republican presidential debate](https://www.theverge.com/2023/8/23/23841621/republican-presidental-debate-gop-how-to-watch-live-stream-tv)
  - [The Remote Play handheld from Sony is PlayStation Portal — Here’s all the info!](https://www.androidauthority.com/sony-playstation-portal-3357470/)
  - [Antenna: Netflix had ~2.6M signups in the US in July, more than any other paid streaming service but down 26% from June 2023; 23% were for Netflix&#39;s ad tier &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230823/p19#a230823p19)
  - [WhatsApp will let you set up group chats without having to come up with a name](https://www.theverge.com/2023/8/23/23842834/whatsapp-group-chat-name-unnamed)
- - [A decade after data analytics promised to revolutionize US agriculture, many farmers are still waiting for the tech to pay off and are swamped by a data deluge &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230823/p18#a230823p18)
- - [Why Your Glasses Get Foggy and How to Stop It     - CNET](https://www.cnet.com/health/personal-care/why-your-glasses-get-foggy-and-how-to-stop-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A decade after data analytics promised to revolutionize US agriculture, many farmers are still waiting for the tech to pay off and are swamped by a data deluge &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230823/p18#a230823p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

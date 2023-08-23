@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The FBI details North Korea&#39;s TraderTraitor-affiliated actors, responsible for Alphapo, CoinsPaid, and Atomic Wallet hacks, and warns over cashing out $40M+ BTC &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230823/p11#a230823p11)
+ - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
  - [Kids Are Going Back to School. So Is ChatGPT](https://www.wired.com/story/chatgpt-schools-plagiarism-lesson-plans/)
  - [Facebook’s 2024 Election Policy May Hinge on a Cambodian Video](https://www.wired.com/story/cambodia-meta-oversight-board/)
- - [The Winds That Doomed Lahaina](https://www.wired.com/story/the-winds-that-doomed-lahaina/)
- - [Maybe You Should Just Join a Commune](https://www.wired.com/story/have-a-nice-future-podcast-19/)<!-- TECH:END -->
+ - [The Winds That Doomed Lahaina](https://www.wired.com/story/the-winds-that-doomed-lahaina/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [How to convert a PDF for your Kindle](https://www.theverge.com/21314512/pdf-file-amazon-kindle-convert-how-to-read)
  - [Brain implants could one day restore communication for people with paralysis](https://www.theverge.com/2023/8/23/23842109/brain-implants-speech-paralysis)
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
  - [Twilio announces AI-powered tools to let clients generate suggestions about marketing strategy and use internal data to build automated contact support services &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230823/p24#a230823p24)
- - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Tornado Cash devs charged with laundering more than $1 billion](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)<!-- TECH:END -->
+ - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

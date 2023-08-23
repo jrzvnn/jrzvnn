@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tornado Cash devs charged with laundering more than $1 billion](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
+ - [Qualcomm updates its lineup of processors designed for gaming handhelds, adding the G1 and G2 chips for cheaper devices and the flagship Snapdragon G3x Gen 2 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230823/p23#a230823p23)
  - [How to clean Apple Watch bands](https://appleinsider.com/inside/apple-watch/tips/heres-how-to-clean-apple-watch-bands?utm_medium=rss)
  - [BioWare is laying off ‘approximately’ 50 people](https://www.theverge.com/2023/8/23/23843096/bioware-layoffs-dragon-age-dreadwolf-mass-effect)
- - [Hollywood writers say producers want them to ‘cave’ after the public release of proposals](https://www.theverge.com/2023/8/23/23842892/hollywood-producers-amptp-proposals-wga-strike)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Epic’s new program lets developers keep their revenue in exchange for exclusivity](https://www.theverge.com/2023/8/23/23843018/epic-games-store-first-run-developers-revenue)<!-- TECH:END -->
+ - [Hollywood writers say producers want them to ‘cave’ after the public release of proposals](https://www.theverge.com/2023/8/23/23842892/hollywood-producers-amptp-proposals-wga-strike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

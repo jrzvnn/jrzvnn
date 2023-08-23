@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mendaera, which is developing a collaborative robotic system for healthcare providers that uses real-time imaging and AI, raised a $24M Series A led by Lux &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230822/p34#a230822p34)
+ - [SIA: Huawei is building secret chip fabrication facilities across China that would let the company skirt US sanctions and is receiving ~$30B in state funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/230822/p33#a230822p33)
  - [IBM unveils watsonx Code Assistant for IBM Z, which uses a code-generating AI model to translate COBOL code into Java, set for general availability in Q4 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p32#a230822p32)
  - [6 alternatives to lithium-ion batteries: What’s the future of energy storage?](https://www.androidauthority.com/lithium-ion-battery-alternatives-3356834/)
- - [An analysis of Google policy dilemmas as YouTube and UMG explore AI licensing, Google scrapes the web to train AI, and lawsuits threaten to upend copyright law &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p31#a230822p31)
- - [Xbox Series X: Retheme Your Gaming Console With Starfield Wrap     - CNET](https://www.cnet.com/tech/xbox-series-x-retheme-your-gaming-console-with-starfield-wrap/#ftag=CAD590a51e)
- - [High-Speed Internet for Rural Areas Gets Over $600 Million From USDA     - CNET](https://www.cnet.com/home/internet/high-speed-internet-for-rural-areas-gets-over-600-million-from-usda/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An analysis of Google policy dilemmas as YouTube and UMG explore AI licensing, Google scrapes the web to train AI, and lawsuits threaten to upend copyright law &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p31#a230822p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

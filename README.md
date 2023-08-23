@@ -18,8 +18,8 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- 💻 I’m an Artificial Intelligence intern, taking up Computer Science,.
-- 🤖 Learning NLP, AWS and FERN Stack.
+- 💻 I’m an DevOps Engineer intern, taking up Computer Science,.
+- 🤖 Learning AWS, Jenkins and Terraform.
 - 🎯 Life Hack: Talking to a rubber ducky uncovers hidden coding errors.
 - ⚡ Fun fact: Can solve a Rubik's Cube less than 15 seconds.
 - 👉 `npx jrzvnn` Hit in your console or terminal to connect with me.

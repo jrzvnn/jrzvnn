@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Sony PlayStation Portal: a slightly weird design but lighter than the Switch, expansive and vibrant 60Hz LCD screen, no Bluetooth, and needs a PS5 &lpar;Bo Moore/IGN&rpar;](http://www.techmeme.com/230823/p16#a230823p16)
  - [Sony’s PlayStation wireless earbuds will cost a whopping $199.99](https://www.theverge.com/2023/8/23/23842778/sony-playstation-earbuds-pulse-explore-elite-features-price)
  - [Sony announces the PlayStation Portal, an 8-inch handheld console that will stream PS5 games over Wi-Fi in 1080p at 60fps, available later in 2023 for $200 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230823/p15#a230823p15)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 23&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-23-2023-3357181/)
- - [A UK court finds 18-year-old Arion Kurtaj and a 17-year-old were part of Lapsus$, the group that hacked Uber, Nvidia, and Rockstar Games in 2021 and 2022 &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/230823/p14#a230823p14)
- - [Sony’s portable PlayStation Portal launches later this year for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)<!-- TECH:END -->
+ - [A UK court finds 18-year-old Arion Kurtaj and a 17-year-old were part of Lapsus$, the group that hacked Uber, Nvidia, and Rockstar Games in 2021 and 2022 &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/230823/p14#a230823p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

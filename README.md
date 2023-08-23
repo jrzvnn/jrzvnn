@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it supports California&#39;s Right to Repair Act, which passed a Senate vote in May and is awaiting approval before going to a full assembly vote &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230823/p29#a230823p29)
  - [Two years after Safari, Chrome plans to let you move the address bar to the bottom](https://www.theverge.com/2023/8/23/23843255/google-chrome-address-bar-bottom-safari)
  - [Apple voices official support for California SB 244 right to repair bill](https://appleinsider.com/articles/23/08/23/apple-voices-official-support-for-california-sb-244-right-to-repair-bill?utm_medium=rss)
  - [Surprise: Apple now supports California’s right-to-repair](https://www.theverge.com/2023/8/23/23843506/apple-california-right-to-repair-sb-244)
- - [Snowflake reports Q2 revenue up 36% YoY to $674M vs. $662M est., net loss of $227M vs. $223M in Q2 2022, and forecasts Q3 product revenue in line with estimates &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230823/p28#a230823p28)
- - [Source: SpaceX is working with Cloudflare to increase Starlink&#39;s terrestrial network of mini data centers, which could help the service deliver faster speeds &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230823/p27#a230823p27)<!-- TECH:END -->
+ - [Snowflake reports Q2 revenue up 36% YoY to $674M, vs. $662M est., net loss up 2% YoY to $227M, and projects Q3 product revenue of $670M to $675M, vs. $675M est. &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230823/p28#a230823p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 💣 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
- - 👉 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)<!-- MEMES:END -->
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
+ - 💣 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
+ - 👉 [Use cash.](http://9gag.com/gag/axonMGL)<!-- MEMES:END -->
 
 ---
 </div>

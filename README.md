@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn is benefiting from recent social media upheavals with a jump in sharing, leveraging its position as a place where old-school self-promotion still works &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/230823/p5#a230823p5)
  - [Snap names former Google Pay exec Pulkit Trivedi as the new India head and grants the country&#39;s leadership greater autonomy in a market where it has 200M+ MAUs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230823/p4#a230823p4)
  - [Arm&#39;s IPO prospectus says the company has a 10% share of the $18B market for cloud processors, up from 7% in 2020, and a 41% share of the automotive market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230823/p3#a230823p3)
  - [Details leak about Project Moohan, Samsung and Google’s upcoming XR headset](https://www.androidauthority.com/samsung-google-xr-headset-project-moohan-3357275/)
- - [Android 14 could automatically add a URL to your shared screenshot](https://www.androidauthority.com/android-14-automatically-add-url-screenshot-3357276/)
- - [Experts warn that Meta, and possibly Google, blocking trusted news outlets in Canada will worsen misinformation as the world nears a &quot;precipice&quot; of AI content &lpar;Kevin Jiang/Toronto Star&rpar;](http://www.techmeme.com/230823/p2#a230823p2)<!-- TECH:END -->
+ - [Android 14 could automatically add a URL to your shared screenshot](https://www.androidauthority.com/android-14-automatically-add-url-screenshot-3357276/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 23&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-23-2023-3357181/)
+ - [A UK court finds 18-year-old Arion Kurtaj and a 17-year-old were part of Lapsus$, the group that hacked Uber, Nvidia, and Rockstar Games in 2021 and 2022 &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/230823/p14#a230823p14)
+ - [Daily deals Aug. 23: M2 MacBook Air $749, Apple Watch SE $149, up to $400 off Dell laptops, more](https://appleinsider.com/articles/23/08/23/daily-deals-aug-23-m2-macbook-air-749-apple-watch-se-149-up-to-400-off-dell-laptops-more?utm_medium=rss)
  - [India’s Lander Touches Down on the Moon. Russia’s Has Crashed](https://www.wired.com/story/indias-lander-touches-down-on-the-moon-russias-has-crashed/)
- - [Hands-on: the HyperX Cloud III Wireless makes a great headset even better](https://www.theverge.com/22686476/hyperx-cloud-iii-wireless-features-price-release-date)
- - [Leak: The Galaxy S23 FE launch could be around the corner](https://www.androidauthority.com/samsung-galaxy-s23-fe-specs-release-date-leak-3357421/)
- - [Scream The Game Review: Heart-pounding Fun](https://www.wired.com/review/scream-the-game/)
- - [Ducati MotoE 2023: specs, speed, charging times](https://www.wired.com/story/ducati-motoe-electric-motorcycle/)<!-- TECH:END -->
+ - [Hands-on: the HyperX Cloud III Wireless makes a great headset even better](https://www.theverge.com/22686476/hyperx-cloud-iii-wireless-features-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

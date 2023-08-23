@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scream The Game Review: Heart-pounding Fun](https://www.wired.com/review/scream-the-game/)
+ - [Ducati MotoE 2023: specs, speed, charging times](https://www.wired.com/story/ducati-motoe-electric-motorcycle/)
  - [Amazon shoppers can save up to $600 on MacBook Pro, plus deep discounts on M2 MacBook Air, iPad Pro](https://appleinsider.com/articles/23/08/23/amazon-shoppers-can-save-up-to-600-on-macbook-pro-plus-deep-discounts-on-m2-macbook-air-ipad-pro?utm_medium=rss)
  - [India’s Chandrayaan-3 probe successfully lands on the lunar south pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
- - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [Samsung Galaxy Z Fold 5 vs Google Pixel Fold: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-vs-google-pixel-fold-3356233/)<!-- TECH:END -->
+ - [Bank for International Settlements: crypto has amplified rather than reduced financial risks in less developed economies, offering only an &quot;illusory&quot; appeal &lpar;Laura Noonan/Financial Times&rpar;](http://www.techmeme.com/230823/p13#a230823p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s new Go5G Next plan hides a nasty surprise](https://www.androidauthority.com/t-mobile-go5g-next-extra-charge-3357506/)
- - [NCC Group saw a record 502 ransomware attacks in July, up from 198 in July 2022; the Cl0p ransomware-as-a-service gang was tied to 171 of the July 2023 attacks &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/230823/p20#a230823p20)
- - [Peloton’s business still haunted by recalls](https://www.theverge.com/2023/8/23/23842705/peloton-q4-2023-tread-plus-bike-recall-subscriptions)
- - [How to use the updated text magnification in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-updated-text-magnification-in-ios-17?utm_medium=rss)
- - [How to watch the first Republican presidential debate](https://www.theverge.com/2023/8/23/23841621/republican-presidental-debate-gop-how-to-watch-live-stream-tv)<!-- TECH:END -->
+ - [Apple debuts trailer for &#39;Flora and Son&#39; musical film](https://appleinsider.com/articles/23/08/23/apple-debuts-trailer-for-flora-and-son-musical-film?utm_medium=rss)
+ - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
+ - [Somebody already unboxed the Quest 3](https://www.theverge.com/2023/8/23/23842962/meta-quest-3-leak-unboxing-vr)
+ - [The latest iPad Air is once again matching its all-time low price](https://www.theverge.com/2023/8/23/23837788/apple-ipad-air-wyze-cam-floodlight-pro-sony-wh-1000xm4-deal-sale)
+ - [NFL Sunday Ticket has arrived on the Google TV homescreen](https://www.theverge.com/2023/8/23/23842853/nfl-sunday-ticket-google-tv-homescreen-free-channels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

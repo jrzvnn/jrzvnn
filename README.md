@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 💣 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
- - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
+ - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 😝 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
+ - 💣 [Sweet revenge](http://9gag.com/gag/aVb10oP)
+ - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 👉 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is thinking about a smart ring for notifications and controlling iPhones](https://www.androidauthority.com/apple-smart-ring-patent-3357452/)
  - [Sony announces the $200 Pulse Explore headphones, utilizing its new PlayStation Link tech to connect to the Portal and offer low-latency performance &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230823/p17#a230823p17)
  - [Teen Lapsus$ member was behind the leaked GTA 6 footage, London jury finds](https://www.theverge.com/2023/8/23/23842746/lapsus-member-uber-rockstar-games-hack)
  - [A visit to the one-man computer factory](https://www.theverge.com/23841276/mythic-computer-keegan-mcnamara-pc-builder)
- - [This batarang houses Qualcomm’s next big bet on gaming](https://www.theverge.com/2023/8/23/23840895/qualcomm-g3x-snapdragon-gen-2-g2-g1-gaming-handheld-chips)
- - [Dark Brandon haunts the Fox News website on GOP debate day](https://www.theverge.com/2023/8/23/23842792/dark-brandon-joe-biden-fox-news-gop-debate-meme)<!-- TECH:END -->
+ - [This batarang houses Qualcomm’s next big bet on gaming](https://www.theverge.com/2023/8/23/23840895/qualcomm-g3x-snapdragon-gen-2-g2-g1-gaming-handheld-chips)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

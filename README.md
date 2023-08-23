@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NCC Group saw a record 502 ransomware attacks in July, up from 198 in July 2022; the Cl0p ransomware-as-a-service gang was tied to 171 of the July 2023 attacks &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/230823/p20#a230823p20)
+ - [Peloton’s business still haunted by recalls](https://www.theverge.com/2023/8/23/23842705/peloton-q4-2023-tread-plus-bike-recall-subscriptions)
+ - [How to use the updated text magnification in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-updated-text-magnification-in-ios-17?utm_medium=rss)
  - [How to watch the first Republican presidential debate](https://www.theverge.com/2023/8/23/23841621/republican-presidental-debate-gop-how-to-watch-live-stream-tv)
- - [The Remote Play handheld from Sony is PlayStation Portal — Here’s all the info!](https://www.androidauthority.com/sony-playstation-portal-3357470/)
- - [Antenna: Netflix had ~2.6M signups in the US in July, more than any other paid streaming service but down 26% from June 2023; 23% were for Netflix&#39;s ad tier &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230823/p19#a230823p19)
- - [WhatsApp will let you set up group chats without having to come up with a name](https://www.theverge.com/2023/8/23/23842834/whatsapp-group-chat-name-unnamed)
- - [A decade after data analytics promised to revolutionize US agriculture, many farmers are still waiting for the tech to pay off and are swamped by a data deluge &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230823/p18#a230823p18)<!-- TECH:END -->
+ - [The Remote Play handheld from Sony is PlayStation Portal — Here’s all the info!](https://www.androidauthority.com/sony-playstation-portal-3357470/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

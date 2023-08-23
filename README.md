@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM unveils watsonx Code Assistant for IBM Z, which uses a code-generating AI model to translate COBOL code into Java, set for general availability in Q4 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230822/p32#a230822p32)
  - [6 alternatives to lithium-ion batteries: What’s the future of energy storage?](https://www.androidauthority.com/lithium-ion-battery-alternatives-3356834/)
  - [An analysis of Google policy dilemmas as YouTube and UMG explore AI licensing, Google scrapes the web to train AI, and lawsuits threaten to upend copyright law &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230822/p31#a230822p31)
- - [MediaTek-powered flagship phones will get on-device AI support in 2024](https://www.androidauthority.com/mediatek-phones-on-device-ai-3356055/)
- - [3D printer maker Bambu Lab blames a cloud outage for an issue that caused some of its customers&#39; devices to start printing without their consent &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230822/p30#a230822p30)
- - [iPhone 15 Pro models could cost at least $100 more](https://appleinsider.com/articles/23/08/22/iphone-15-pro-models-could-cost-at-least-100-more?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox Series X: Retheme Your Gaming Console With Starfield Wrap     - CNET](https://www.cnet.com/tech/xbox-series-x-retheme-your-gaming-console-with-starfield-wrap/#ftag=CAD590a51e)
+ - [High-Speed Internet for Rural Areas Gets Over $600 Million From USDA     - CNET](https://www.cnet.com/home/internet/high-speed-internet-for-rural-areas-gets-over-600-million-from-usda/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

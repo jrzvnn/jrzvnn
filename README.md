@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Old Glasses Can Hurt Your Eyes. Here&#39;s When to Buy a New Pair     - CNET](https://www.cnet.com/health/personal-care/old-glasses-can-hurt-your-eyes-heres-when-to-buy-a-new-pair/#ftag=CAD590a51e)
  - [Google announces new security features for Workspace, including zero-trust, data loss prevention, and digital sovereignty controls, rolling out in 2023 and 2024 &lpar;David Gewirtz/ZDNet&rpar;](http://www.techmeme.com/230823/p31#a230823p31)
  - [Refurbished Apple M2 MacBook Air dips to $749](https://appleinsider.com/articles/23/08/23/refurbished-apple-m2-macbook-air-dips-to-749?utm_medium=rss)
  - [Google’s AR projects are reportedly facing even more setbacks](https://www.theverge.com/2023/8/23/23843308/google-samsung-ar-mixed-reality-headsets)
- - [Yahoo acquires CommonStock, launched in 2020 to let retail investors share insights based on their brokerage account information; CommonStock had raised ~$34M &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230823/p30#a230823p30)
- - [Apple says it supports California&#39;s Right to Repair Act, which passed a Senate vote in May and is awaiting approval before going to a full assembly vote &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230823/p29#a230823p29)<!-- TECH:END -->
+ - [Yahoo acquires CommonStock, launched in 2020 to let retail investors share insights based on their brokerage account information; CommonStock had raised ~$34M &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230823/p30#a230823p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

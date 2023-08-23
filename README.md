@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is the most under-owned large-cap tech firm by big investors](https://appleinsider.com/articles/23/08/23/apple-is-the-most-under-owned-large-cap-tech-firm-by-big-investors?utm_medium=rss)
  - [Sources: Microsoft is experimenting with new AI capabilities in Windows 11 apps, including generating a canvas from text in Paint and OCR in Snipping Tool &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230823/p25#a230823p25)
  - [Developers evangelize Apple Vision Pro labs in latest update](https://appleinsider.com/articles/23/08/23/developers-evangelize-apple-vision-pro-labs-in-latest-update?utm_medium=rss)
  - [Reddit comments might not load for you right now](https://www.theverge.com/2023/8/23/23843352/reddit-down-comments-not-loading-server-error)
- - [How to convert a PDF for your Kindle](https://www.theverge.com/21314512/pdf-file-amazon-kindle-convert-how-to-read)
- - [Brain implants could one day restore communication for people with paralysis](https://www.theverge.com/2023/8/23/23842109/brain-implants-speech-paralysis)<!-- TECH:END -->
+ - [Apple Watch Could Change Color to Match What You&#39;re Wearing in Future     - CNET](https://www.cnet.com/tech/mobile/apple-watch-could-change-color-to-match-what-youre-wearing-in-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s PlayStation wireless earbuds will cost a whopping $199.99](https://www.theverge.com/2023/8/23/23842778/sony-playstation-earbuds-pulse-explore-elite-features-price)
+ - [Sony announces the PlayStation Portal, an 8-inch handheld console that will stream PS5 games over Wi-Fi in 1080p at 60fps, available later in 2023 for $200 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230823/p15#a230823p15)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 23&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-23-2023-3357181/)
  - [A UK court finds 18-year-old Arion Kurtaj and a 17-year-old were part of Lapsus$, the group that hacked Uber, Nvidia, and Rockstar Games in 2021 and 2022 &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/230823/p14#a230823p14)
- - [Sony’s portable PlayStation Portal launches later this year for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)
- - [Daily deals Aug. 23: M2 MacBook Air $749, Apple Watch SE $149, up to $400 off Dell laptops, more](https://appleinsider.com/articles/23/08/23/daily-deals-aug-23-m2-macbook-air-749-apple-watch-se-149-up-to-400-off-dell-laptops-more?utm_medium=rss)
- - [India’s Lander Touches Down on the Moon. Russia’s Has Crashed](https://www.wired.com/story/indias-lander-touches-down-on-the-moon-russias-has-crashed/)<!-- TECH:END -->
+ - [Sony’s portable PlayStation Portal launches later this year for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

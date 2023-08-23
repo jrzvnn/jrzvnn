@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Refurbished Apple M2 MacBook Air dips to $749](https://appleinsider.com/articles/23/08/23/refurbished-apple-m2-macbook-air-dips-to-749?utm_medium=rss)
  - [Google’s AR projects are reportedly facing even more setbacks](https://www.theverge.com/2023/8/23/23843308/google-samsung-ar-mixed-reality-headsets)
  - [Yahoo acquires CommonStock, launched in 2020 to let retail investors share insights based on their brokerage account information; CommonStock had raised ~$34M &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230823/p30#a230823p30)
  - [Apple says it supports California&#39;s Right to Repair Act, which passed a Senate vote in May and is awaiting approval before going to a full assembly vote &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230823/p29#a230823p29)
- - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Two years after Safari, Chrome plans to let you move the address bar to the bottom](https://www.theverge.com/2023/8/23/23843255/google-chrome-address-bar-bottom-safari)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

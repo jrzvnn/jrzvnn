@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm&#39;s IPO prospectus says the company has a 10% share of the $18B market for cloud processors, up from 7% in 2020, and a 41% share of the automotive market &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230823/p3#a230823p3)
+ - [Details leak about Project Moohan, Samsung and Google’s upcoming XR headset](https://www.androidauthority.com/samsung-google-xr-headset-project-moohan-3357275/)
  - [Android 14 could automatically add a URL to your shared screenshot](https://www.androidauthority.com/android-14-automatically-add-url-screenshot-3357276/)
  - [Experts warn that Meta, and possibly Google, blocking trusted news outlets in Canada will worsen misinformation as the world nears a &quot;precipice&quot; of AI content &lpar;Kevin Jiang/Toronto Star&rpar;](http://www.techmeme.com/230823/p2#a230823p2)
- - [Binance.US teams up with MoonPay to let users use their debit or credit cards, Apple Pay or Google Pay to buy Tether, which can then be used to buy other tokens &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230823/p1#a230823p1)
- - [Tel Aviv-based Grip Security, which helps companies reduce their SaaS identity risk, raised a $41M Series B led by Third Point, taking its total funding to $66M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230822/p36#a230822p36)
- - [A US judge orders ex-OpenSea product head Nate Chastain to three months in prison for making ~$50K through insider trades, in the first NFT insider trading case &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/230822/p35#a230822p35)<!-- TECH:END -->
+ - [Binance.US teams up with MoonPay to let users use their debit or credit cards, Apple Pay or Google Pay to buy Tether, which can then be used to buy other tokens &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230823/p1#a230823p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

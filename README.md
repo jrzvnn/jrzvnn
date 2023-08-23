@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And now with sound](http://9gag.com/gag/aREN132)
- - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 💣 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 👉 [Sweet revenge](http://9gag.com/gag/aVb10oP)<!-- MEMES:END -->
+ - 😝 [My roommate keeps bringing girls over so I made a survey](http://9gag.com/gag/amAbgOy)
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
+ - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---
 </div>

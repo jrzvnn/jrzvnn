@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 😝 [Use cash.](http://9gag.com/gag/axonMGL)
- - 💣 [Realistic](http://9gag.com/gag/ay2V9XV)
  - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 👉 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)<!-- MEMES:END -->
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 💣 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
+ - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI details North Korea&#39;s TraderTraitor-affiliated actors, responsible for Alphapo, CoinsPaid, and Atomic Wallet hacks, and warns over cashing out $40M+ BTC &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230823/p11#a230823p11)
  - [Kids Are Going Back to School. So Is ChatGPT](https://www.wired.com/story/chatgpt-schools-plagiarism-lesson-plans/)
  - [Facebook’s 2024 Election Policy May Hinge on a Cambodian Video](https://www.wired.com/story/cambodia-meta-oversight-board/)
  - [The Winds That Doomed Lahaina](https://www.wired.com/story/the-winds-that-doomed-lahaina/)
- - [Maybe You Should Just Join a Commune](https://www.wired.com/story/have-a-nice-future-podcast-19/)
- - [Feds seize $400,000 worth of counterfeit Apple devices](https://appleinsider.com/articles/23/08/23/feds-seize-400000-worth-of-counterfeit-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Maybe You Should Just Join a Commune](https://www.wired.com/story/have-a-nice-future-podcast-19/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

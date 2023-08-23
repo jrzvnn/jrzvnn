@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two years after Safari, Chrome plans to let you move the address bar to the bottom](https://www.theverge.com/2023/8/23/23843255/google-chrome-address-bar-bottom-safari)
  - [Apple voices official support for California SB 244 right to repair bill](https://appleinsider.com/articles/23/08/23/apple-voices-official-support-for-california-sb-244-right-to-repair-bill?utm_medium=rss)
- - [Apple is endorsing California’s right-to-repair legislation](https://www.theverge.com/2023/8/23/23843506/apple-california-right-to-repair-sb-244)
+ - [Surprise: Apple now supports California’s right-to-repair](https://www.theverge.com/2023/8/23/23843506/apple-california-right-to-repair-sb-244)
  - [Snowflake reports Q2 revenue up 36% YoY to $674M vs. $662M est., net loss of $227M vs. $223M in Q2 2022, and forecasts Q3 product revenue in line with estimates &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230823/p28#a230823p28)
- - [Source: SpaceX is working with Cloudflare to increase Starlink&#39;s terrestrial network of mini data centers, which could help the service deliver faster speeds &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230823/p27#a230823p27)
- - [A Right-to-Repair Car Law Makes a Surprising U-Turn in Massachusetts](https://www.wired.com/story/nhtsa-massachusetts-right-to-repair-letter/)<!-- TECH:END -->
+ - [Source: SpaceX is working with Cloudflare to increase Starlink&#39;s terrestrial network of mini data centers, which could help the service deliver faster speeds &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230823/p27#a230823p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

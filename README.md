@@ -157,9 +157,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
  - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 💣 [Sweet revenge](http://9gag.com/gag/aVb10oP)
- - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 👉 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)<!-- MEMES:END -->
+ - 💣 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
+ - 👉 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)<!-- MEMES:END -->
 
 ---
 </div>

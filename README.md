@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
  - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 💣 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)
- - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 👉 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)<!-- MEMES:END -->
+ - 😝 [Bad girl arrested](http://9gag.com/gag/a3ZpKqv)
+ - 💣 [Be proud of who you are](http://9gag.com/gag/aWGNjjd)
+ - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 👉 [WTH is that sound?](http://9gag.com/gag/a8qXoWV)<!-- MEMES:END -->
 
 ---
 </div>

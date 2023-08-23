@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp will let you set up group chats without having to come up with a name](https://www.theverge.com/2023/8/23/23842834/whatsapp-group-chat-name-unnamed)
+ - [A decade after data analytics promised to revolutionize US agriculture, many farmers are still waiting for the tech to pay off and are swamped by a data deluge &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230823/p18#a230823p18)
  - [Some Apple Card users will get 5% Daily Cash back on dining and travel](https://appleinsider.com/articles/23/08/23/some-apple-card-users-will-get-5-daily-cash-back-on-dining-and-travel?utm_medium=rss)
  - [Apple is thinking about a smart ring for notifications and controlling iPhones](https://www.androidauthority.com/apple-smart-ring-patent-3357452/)
- - [Sony announces the $200 Pulse Explore headphones, utilizing its new PlayStation Link tech to connect to the Portal and offer low-latency performance &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230823/p17#a230823p17)
- - [Teen Lapsus$ member was behind the leaked GTA 6 footage, London jury finds](https://www.theverge.com/2023/8/23/23842746/lapsus-member-uber-rockstar-games-hack)
- - [A visit to the one-man computer factory](https://www.theverge.com/23841276/mythic-computer-keegan-mcnamara-pc-builder)<!-- TECH:END -->
+ - [Sony announces the $200 Pulse Explore headphones, utilizing its new PlayStation Link tech to connect to the Portal and offer low-latency performance &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230823/p17#a230823p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

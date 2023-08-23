@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ay2VX1b)
- - 😝 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)
- - 💣 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 👉 [Ssempa](http://9gag.com/gag/aNw2PX3)<!-- MEMES:END -->
+ - 😝 [This is bee-autiful](http://9gag.com/gag/a9qN176)
+ - 😝 [Classic prank](http://9gag.com/gag/aYVnyWV)
+ - 💣 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)
+ - 😝 [A true classic](http://9gag.com/gag/aNw2p33)
+ - 👉 [There are tunnels - and then there is this ...](http://9gag.com/gag/aL1Ng4W)<!-- MEMES:END -->
 
 ---
 </div>

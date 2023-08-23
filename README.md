@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
  - [Tornado Cash devs charged with laundering more than $1 billion](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
  - [The best Chromebook deals of August 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
  - [Qualcomm updates its lineup of processors designed for gaming handhelds, adding the G1 and G2 chips for cheaper devices and the flagship Snapdragon G3x Gen 2 &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230823/p23#a230823p23)
- - [How to clean Apple Watch bands](https://appleinsider.com/inside/apple-watch/tips/heres-how-to-clean-apple-watch-bands?utm_medium=rss)
- - [BioWare is laying off ‘approximately’ 50 people](https://www.theverge.com/2023/8/23/23843096/bioware-layoffs-dragon-age-dreadwolf-mass-effect)<!-- TECH:END -->
+ - [How to clean Apple Watch bands](https://appleinsider.com/inside/apple-watch/tips/heres-how-to-clean-apple-watch-bands?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s 2020 smart TVs are getting cloud gaming apps soon](https://www.theverge.com/2023/8/23/23842683/samsung-xbox-cloud-gaming-nvidia-geforce-now-2020-smart-tvs)
+ - [Spotify will let podcasters customize their show page to bring in new listeners](https://www.theverge.com/2023/8/23/23842929/spotify-podcast-customize-show-pages-better-analytics)
  - [Apple debuts trailer for &#39;Flora and Son&#39; musical film](https://appleinsider.com/articles/23/08/23/apple-debuts-trailer-for-flora-and-son-musical-film?utm_medium=rss)
  - [The best laptops for video editing](https://www.theverge.com/23643460/best-video-editing-laptop)
- - [Somebody already unboxed the Quest 3](https://www.theverge.com/2023/8/23/23842962/meta-quest-3-leak-unboxing-vr)
- - [The latest iPad Air is once again matching its all-time low price](https://www.theverge.com/2023/8/23/23837788/apple-ipad-air-wyze-cam-floodlight-pro-sony-wh-1000xm4-deal-sale)
- - [NFL Sunday Ticket has arrived on the Google TV homescreen](https://www.theverge.com/2023/8/23/23842853/nfl-sunday-ticket-google-tv-homescreen-free-channels)<!-- TECH:END -->
+ - [Somebody already unboxed the Quest 3](https://www.theverge.com/2023/8/23/23842962/meta-quest-3-leak-unboxing-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

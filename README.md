@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds seize $400,000 worth of counterfeit Apple devices](https://appleinsider.com/articles/23/08/23/feds-seize-400000-worth-of-counterfeit-apple-devices?utm_medium=rss)
- - [Looking for a song on YouTube? Google will let you hum for it.](https://www.androidauthority.com/google-hum-a-song-search-youtube-3357372/)
- - [Investigation: despite scaling back in Russia in 2022, Binance continues to handle substantial ruble trading, helping clients evade sanctions via intermediaries &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230823/p10#a230823p10)
- - [The Impossible Fight to Stop Canada’s Wildfires](https://www.wired.com/story/canada-wildfires-future/)
- - [Samsung’s 57-inch ‘Dual UHD’ gaming monitor gets a price and release date](https://www.theverge.com/2023/8/23/23842638/samsung-57-inch-odyssey-neo-g9-dual-uhd-4k-monitor-price-release-date-specs-features)<!-- TECH:END -->
+ - [Kids Are Going Back to School. So Is ChatGPT](https://www.wired.com/story/chatgpt-schools-plagiarism-lesson-plans/)
+ - [Facebook’s 2024 Election Policy May Hinge on a Cambodian Video](https://www.wired.com/story/cambodia-meta-oversight-board/)
+ - [The Winds That Doomed Lahaina](https://www.wired.com/story/the-winds-that-doomed-lahaina/)
+ - [Maybe You Should Just Join a Commune](https://www.wired.com/story/have-a-nice-future-podcast-19/)
+ - [Feds seize $400,000 worth of counterfeit Apple devices](https://appleinsider.com/articles/23/08/23/feds-seize-400000-worth-of-counterfeit-apple-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

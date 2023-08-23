@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
- - 💣 [Help me](http://9gag.com/gag/a8qXG2p)
+ - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
  - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 👉 [Ssempa](http://9gag.com/gag/aNw2PX3)<!-- MEMES:END -->
+ - 💣 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 👉 [Use cash.](http://9gag.com/gag/axonMGL)<!-- MEMES:END -->
 
 ---
 </div>

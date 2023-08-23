@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 😝 [Reporter: \u201cHow many children are missing?\u201d | Maui Mayor: \u201cI guess we can end this right now, if you want\u201d.](http://9gag.com/gag/a4orRNv)
- - 💣 [And now with sound](http://9gag.com/gag/aREN132)
- - 😝 [Sweet revenge](http://9gag.com/gag/aVb10oP)
- - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 💣 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
+ - 😝 [Use cash.](http://9gag.com/gag/axonMGL)
+ - 👉 [It takes alot of balls](http://9gag.com/gag/aVb10vP)<!-- MEMES:END -->
 
 ---
 </div>

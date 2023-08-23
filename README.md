@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 💣 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
+ - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 💣 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
  - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 👉 [Use cash.](http://9gag.com/gag/axonMGL)<!-- MEMES:END -->
+ - 👉 [Realistic](http://9gag.com/gag/ay2V9XV)<!-- MEMES:END -->
 
 ---
 </div>

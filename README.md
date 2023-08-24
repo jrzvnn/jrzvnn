@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11 will soon get a settings homepage that puts your most-used controls in one place](https://www.theverge.com/2023/8/24/23844610/windows-11-insider-settings-homepage-update)
+ - [What Wi-Fi 6E in the iPhone 15 Pro means for you](https://appleinsider.com/articles/23/08/24/what-wi-fi-6e-in-the-iphone-15-pro-means-for-you?utm_medium=rss)
  - [Galaxy Z Flip 4 is now getting One UI 5.1.1 with August 2023 patch](https://www.androidauthority.com/samsung-galaxy-z-flip-4-updates-3215194/)
  - [Meta rolls out its Threads web app to all users, featuring an app bar at the top with the same five tabs as in the mobile app; tapping Home refreshes the Feed &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230824/p27#a230824p27)
- - [The Space Invaders AR game now lets you play without using AR](https://www.theverge.com/2023/8/24/23844704/space-invaders-world-defense-ar-game-indoor-mode)
- - [iPhone 15 Pro might ditch gold in favor of blues and grays](https://appleinsider.com/articles/23/08/24/iphone-15-pro-might-ditch-gold-in-favor-of-blues-and-grays?utm_medium=rss)
- - [Monarch Tractor CEO Praveen Penmetsa is coming to the Code Conference](https://www.theverge.com/2023/8/24/23843286/monarch-tractor-ceo-praveen-penmetsa-code-conference-2023)<!-- TECH:END -->
+ - [The Space Invaders AR game now lets you play without using AR](https://www.theverge.com/2023/8/24/23844704/space-invaders-world-defense-ar-game-indoor-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

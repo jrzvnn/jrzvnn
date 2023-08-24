@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yeah Science !](http://9gag.com/gag/armr3o6)
  - 😝 [Thanks Dad](http://9gag.com/gag/aL1Nvog)
- - 😝 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
- - 💣 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 😝 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
- - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
+ - 💣 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
+ - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
+ - 👉 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)<!-- MEMES:END -->
 
 ---
 </div>

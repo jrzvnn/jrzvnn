@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
- - 💣 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
- - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 👉 [This has me laughing](http://9gag.com/gag/aNw29m4)<!-- MEMES:END -->
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
+ - 💣 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 👉 [Priceless reaction from QT.](http://9gag.com/gag/a4ornDm)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents: China quietly revived its initiative to recruit top foreign-trained scientists, which was stopped in 2018, to boost its tech proficiency &lpar;Reuters&rpar;](http://www.techmeme.com/230823/p35#a230823p35)
  - [Research teams from the University of California, San Francisco and Stanford University use AI and electrodes to turn thoughts into speech via a lifelike avatar &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230823/p34#a230823p34)
  - [Naver unveils its generative AI product HyperCLOVA X, including chatbot app CLOVA X available in beta, and AI search service Cue, launching in beta in September &lpar;Ju-min Park/Reuters&rpar;](http://www.techmeme.com/230823/p33#a230823p33)
  - [Atari announces the $130 Atari 2600+, with HDMI and a slot for Atari 2600 and 7800 cartridges, the $25 CX40+ joystick, and a $40 CX30+ paddle controller bundle &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230823/p32#a230823p32)
- - [Razer Kishi V2 Pro Mobile Game Controller Sends Out Strange Vibrations     - CNET](https://www.cnet.com/tech/gaming/razer-kishi-v2-pro-mobile-game-controller-vibrates-hypersensically/#ftag=CAD590a51e)
- - [How to watch La Liga in the USA](https://www.androidauthority.com/how-to-watch-la-liga-in-usa-3357563/)<!-- TECH:END -->
+ - [Razer Kishi V2 Pro Mobile Game Controller Sends Out Strange Vibrations     - CNET](https://www.cnet.com/tech/gaming/razer-kishi-v2-pro-mobile-game-controller-vibrates-hypersensically/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

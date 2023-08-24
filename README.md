@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches Amazon Luna on LG smart TVs released between 2021 and 2023 and running webOS 6.0 or later, after debuting Luna on Samsung TVs in August 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230824/p7#a230824p7)
  - [Here’s our best look yet at Philips Hue’s upcoming security camera](https://www.theverge.com/2023/8/24/23844055/philips-hue-security-cameras-sensors-renders)
  - [Microsoft investigating Windows 11 BSOD ‘unsupported processor’ update errors](https://www.theverge.com/2023/8/24/23844054/microsoft-windows-11-bsod-kb5029351-msi-motherboard-bios-update)
  - [OPPO confirms Find N3 Flip and Watch 4 Pro launch, here are official renders](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-3357629/)
- - [How LLMs designed for chat interactions turned AI into a general purpose tool, as AI undergoes transformation much like semiconductors gave rise CPUs and GPUs &lpar;Haomiao Huang/Ars Technica&rpar;](http://www.techmeme.com/230824/p6#a230824p6)
- - [Pixel Tablet’s stylus capabilities are about to get a whole lot better](https://www.androidauthority.com/pixel-tablet-stylus-settings-3357632/)<!-- TECH:END -->
+ - [How LLMs designed for chat interactions turned AI into a general purpose tool, as AI undergoes transformation much like semiconductors gave rise CPUs and GPUs &lpar;Haomiao Huang/Ars Technica&rpar;](http://www.techmeme.com/230824/p6#a230824p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

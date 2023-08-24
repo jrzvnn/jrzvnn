@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darryl&#39;s contribution](http://9gag.com/gag/a6q39Dm)
- - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
- - 💣 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 👉 [A tittle](http://9gag.com/gag/aPgdmgB)<!-- MEMES:END -->
+ - 😝 [Must be high on meth](http://9gag.com/gag/adP4O2j)
+ - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
+ - 😝 [I&#39;m busy enough cleaning up after her...](http://9gag.com/gag/aZDV120)
+ - 😝 [After turning 30](http://9gag.com/gag/aREN42G)
+ - 💣 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
+ - 😝 [They just went for it](http://9gag.com/gag/a9qN6OW)
+ - 👉 [Careful he&#39;s a Hero!](http://9gag.com/gag/aqepe0j)<!-- MEMES:END -->
 
 ---
 </div>

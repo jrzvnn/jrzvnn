@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 😝 [This goal celebration in slow-mo is dope](http://9gag.com/gag/a6q3Nz8)
- - 💣 [Prigozhin last selfie](http://9gag.com/gag/a7q68Kr)
- - 😝 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
- - 👉 [Thanks Dad](http://9gag.com/gag/aL1Nvog)<!-- MEMES:END -->
+ - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 😝 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
+ - 💣 [Bro was like wait wait WAIT](http://9gag.com/gag/aNw2g10)
+ - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
+ - 👉 [Help me](http://9gag.com/gag/a8qXG2p)<!-- MEMES:END -->
 
 ---
 </div>

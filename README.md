@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scammers are offering fake Waymo jobs on Adobe’s Behance creative social network](https://www.theverge.com/2023/8/24/23844069/adobe-behance-waymo-job-scam-impersonation)
+ - [Sources: Vietnamese internet company VNG aims to raise ~$150M in its US IPO and targets a debut at the end of September; VNG reported $166.3M in H1 2023 revenue &lpar;Dave Sebastian/Wall Street Journal&rpar;](http://www.techmeme.com/230824/p8#a230824p8)
  - [Rumor: iPhone 15 USB-C cable limited to USB 2.0 speeds, has no MFi](https://appleinsider.com/articles/23/08/24/rumor-iphone-15-usb-c-cable-limited-to-usb-20-speeds-has-no-mfi?utm_medium=rss)
  - [Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power](https://www.wired.com/story/nvidia-chip-shortages-leave-ai-startups-scrambling-for-computing-power/)
- - [TikTok and Instagram Beauty Filters Aren’t Trying to Fool Anyone](https://www.wired.com/story/augmented-reality-beauty-filter-tiktok-instagram/)
- - [Amazon launches Amazon Luna on LG smart TVs released between 2021 and 2023 and running webOS 6.0 or later, after debuting Luna on Samsung TVs in August 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230824/p7#a230824p7)
- - [Here’s our best look yet at Philips Hue’s upcoming security camera](https://www.theverge.com/2023/8/24/23844055/philips-hue-security-cameras-sensors-renders)<!-- TECH:END -->
+ - [TikTok and Instagram Beauty Filters Aren’t Trying to Fool Anyone](https://www.wired.com/story/augmented-reality-beauty-filter-tiktok-instagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

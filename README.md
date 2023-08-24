@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
- - 😝 [Thanks Dad](http://9gag.com/gag/aL1Nvog)
- - 💣 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
- - 😝 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
- - 👉 [Straight out of the oven](http://9gag.com/gag/amAboK9)<!-- MEMES:END -->
+ - 😝 [Impossible](http://9gag.com/gag/a3Zpwzr)
+ - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
+ - 👉 [Young Ivan adventures on the front](http://9gag.com/gag/aPgdmoV)<!-- MEMES:END -->
 
 ---
 </div>

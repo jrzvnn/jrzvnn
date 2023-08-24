@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 💣 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
- - 😝 [This goal celebration in slow-mo is dope](http://9gag.com/gag/a6q3Nz8)
- - 👉 [Thanks Dad](http://9gag.com/gag/aL1Nvog)<!-- MEMES:END -->
+ - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 💣 [India becomes first country to successfully land on south pole of the moon.](http://9gag.com/gag/awZGyxD)
+ - 😝 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
+ - 👉 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)<!-- MEMES:END -->
 
 ---
 </div>

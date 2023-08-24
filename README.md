@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little plothole](http://9gag.com/gag/armrX16)
- - 😝 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
- - 💣 [A tittle](http://9gag.com/gag/aPgdmgB)
- - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
- - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 💣 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
 
 ---
 </div>

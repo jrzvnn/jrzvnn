@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
  - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
  - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
  - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->

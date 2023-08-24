@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 💣 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
- - 👉 [Priceless reaction from QT.](http://9gag.com/gag/a4ornDm)<!-- MEMES:END -->
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 😝 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
+ - 💣 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
+ - 😝 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
+ - 👉 [Thanks Dad](http://9gag.com/gag/aL1Nvog)<!-- MEMES:END -->
 
 ---
 </div>

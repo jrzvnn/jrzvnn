@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He thought he was home alone and got caught red pawed](http://9gag.com/gag/aQENQP7)
  - 😝 [Darryl&#39;s contribution](http://9gag.com/gag/a6q39Dm)
- - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 😝 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
- - 👉 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)<!-- MEMES:END -->
+ - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
+ - 💣 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 👉 [A tittle](http://9gag.com/gag/aPgdmgB)<!-- MEMES:END -->
 
 ---
 </div>

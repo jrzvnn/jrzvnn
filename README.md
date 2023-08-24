@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m busy enough cleaning up after her...](http://9gag.com/gag/aZDV120)
- - 😝 [After turning 30](http://9gag.com/gag/aREN42G)
- - 💣 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
- - 😝 [They just went for it](http://9gag.com/gag/a9qN6OW)
- - 👉 [Careful he&#39;s a Hero!](http://9gag.com/gag/aqepe0j)<!-- MEMES:END -->
+ - 😝 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
+ - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 👉 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)<!-- MEMES:END -->
 
 ---
 </div>

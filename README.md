@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [This slow-mo goal celebration is insane](http://9gag.com/gag/az2DMBq)
+ - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
  - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 👉 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)<!-- MEMES:END -->
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
 
 ---
 </div>

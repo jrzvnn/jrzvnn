@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastercard and Binance plan to end their card partnership in Latin America and Middle East on September 22; Visa stopped issuing Binance cards in Europe in July &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230824/p31#a230824p31)
  - [Dune: Part Two has been delayed](https://www.theverge.com/2023/8/24/23845060/dune-part-two-delay-godzilla-x-kong-lord-of-the-rings-war-of-the-rohirrim)
  - [Sources: Amazon has had early talks with Disney about working on a streaming version of ESPN, perhaps helping with distribution and taking a minority stake &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230824/p30#a230824p30)
  - [Alphabet’s Wing partners with Walmart for drone deliveries in Dallas](https://www.theverge.com/2023/8/24/23844975/alphabet-wing-walmart-drone-deliveries-dallas)
- - [Citizen suspends sales of its latest smartwatch](https://www.theverge.com/2023/8/24/23844909/citizen-cz-smart-wear-os-sales-suspension)
- - [A US judge dismissed an RNC lawsuit alleging Google&#39;s spam filters illegally suppressed their emails, saying the RNC hadn&#39;t shown that Google acted in bad faith &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230824/p29#a230824p29)<!-- TECH:END -->
+ - [Citizen suspends sales of its latest smartwatch](https://www.theverge.com/2023/8/24/23844909/citizen-cz-smart-wear-os-sales-suspension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

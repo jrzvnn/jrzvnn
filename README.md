@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bixby’s voice cloning feature is getting a wider rollout](https://www.androidauthority.com/bixby-voice-cloning-rollout-3357654/)
+ - [Filings: FTX wants to begin selling, staking, and hedging its crypto holdings, valued at over $3B, and seeks to hire Mike Novogratz&#39;s Galaxy as an advisor &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230824/p9#a230824p9)
  - [Pixel 8 could gain these new AI camera features as per Google survey](https://www.androidauthority.com/google-pixel-8-ai-camera-features-3357643/)
  - [Scammers are offering fake Waymo jobs on Adobe’s Behance creative social network](https://www.theverge.com/2023/8/24/23844069/adobe-behance-waymo-job-scam-impersonation)
- - [Sources: Vietnamese internet company VNG aims to raise ~$150M in its US IPO and targets a debut at the end of September; VNG reported $166.3M in H1 2023 revenue &lpar;Dave Sebastian/Wall Street Journal&rpar;](http://www.techmeme.com/230824/p8#a230824p8)
- - [Rumor: iPhone 15 USB-C cable limited to USB 2.0 speeds, has no MFi](https://appleinsider.com/articles/23/08/24/rumor-iphone-15-usb-c-cable-limited-to-usb-20-speeds-has-no-mfi?utm_medium=rss)
- - [Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power](https://www.wired.com/story/nvidia-chip-shortages-leave-ai-startups-scrambling-for-computing-power/)<!-- TECH:END -->
+ - [Sources: Vietnamese internet company VNG aims to raise ~$150M in its US IPO and targets a debut at the end of September; VNG reported $166.3M in H1 2023 revenue &lpar;Dave Sebastian/Wall Street Journal&rpar;](http://www.techmeme.com/230824/p8#a230824p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

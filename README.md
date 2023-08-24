@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
- - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
- - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 😝 [Thanks Dad](http://9gag.com/gag/aL1Nvog)
+ - 😝 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
+ - 💣 [Straight out of the oven](http://9gag.com/gag/amAboK9)
+ - 😝 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
+ - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
 
 ---
 </div>

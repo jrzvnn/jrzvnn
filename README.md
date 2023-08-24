@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 💣 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
  - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
- - 💣 [India becomes first country to successfully land on south pole of the moon.](http://9gag.com/gag/awZGyxD)
- - 😝 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
- - 👉 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)<!-- MEMES:END -->
+ - 👉 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)<!-- MEMES:END -->
 
 ---
 </div>

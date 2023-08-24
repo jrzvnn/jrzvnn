@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple celebrates National Parks and the work of restoring El Capitan Meadow](https://appleinsider.com/articles/23/08/24/apple-celebrates-national-parks-and-the-work-of-restoring-el-capitan-meadow?utm_medium=rss)
+ - [Apple is killing the iPhone’s mute switch and I won’t stay silent!](https://www.androidauthority.com/apple-iphone-15-mute-switch-vs-action-button-3357319/)
  - [The Apple Watch Ultra is $100 off with a couple colorful strap options](https://www.theverge.com/2023/8/24/23844109/apple-watch-ultra-sony-linkbuds-earbuds-google-nest-doorbell-deal-sale)
  - [As one Destiny 2 saga ends, Bungie prepares for the future](https://www.theverge.com/23844068/destiny-2-the-final-shape-joe-blackburn-interview)
- - [16 Best Soundbars for Every Budget &lpar;2023&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Blink’s latest battery-powered camera now comes with person detection](https://www.theverge.com/2023/8/24/23843590/blink-outdoor-4-security-camera-wireless-person-detection)
- - [Filing: T-Mobile plans to cut ~7% of its global staff, or ~5,000 jobs, mostly in corporate and tech; AT&amp;T has cut 74,130 jobs, or 32% of its staff, since 2021 &lpar;Scott Moritz/Bloomberg&rpar;](http://www.techmeme.com/230824/p17#a230824p17)<!-- TECH:END -->
+ - [16 Best Soundbars for Every Budget &lpar;2023&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

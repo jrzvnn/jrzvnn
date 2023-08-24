@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah Science !](http://9gag.com/gag/armr3o6)
- - 😝 [Thanks Dad](http://9gag.com/gag/aL1Nvog)
- - 💣 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
- - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 👉 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)<!-- MEMES:END -->
+ - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
+ - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Details leak about Apple’s USB-C cable for the iPhone 15 series](https://www.androidauthority.com/apple-iphone-15-usb-c-cable-specs-3357623/)
+ - [Sources say TikTok plans to bar links to Amazon and other e-commerce sites in a bid to force people to use TikTok Shop to buy items they see on the app &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230824/p3#a230824p3)
  - [An analysis finds 37 sites that are using AI chatbots to rewrite news articles, which first appeared in outlets like CNN, the NYT, and Reuters, without credit &lpar;NewsGuard&rpar;](http://www.techmeme.com/230824/p2#a230824p2)
  - [Crypto exchange Bitstamp says it is ending its Ethereum staking service for US customers from September 25, citing &quot;current regulatory dynamics in the US&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/230824/p1#a230824p1)
- - [Sources and documents: China quietly revived its initiative to recruit top foreign-trained scientists, which was stopped in 2018, to boost its tech proficiency &lpar;Reuters&rpar;](http://www.techmeme.com/230823/p35#a230823p35)
- - [Research teams from the University of California, San Francisco and Stanford University use AI and electrodes to turn thoughts into speech via a lifelike avatar &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230823/p34#a230823p34)
- - [Naver unveils its generative AI product HyperCLOVA X, including chatbot app CLOVA X available in beta, and AI search service Cue, launching in beta in September &lpar;Ju-min Park/Reuters&rpar;](http://www.techmeme.com/230823/p33#a230823p33)<!-- TECH:END -->
+ - [Sources and documents: China quietly revived its initiative to recruit top foreign-trained scientists, which was stopped in 2018, to boost its tech proficiency &lpar;Reuters&rpar;](http://www.techmeme.com/230823/p35#a230823p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

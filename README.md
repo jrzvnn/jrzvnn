@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 😝 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
- - 💣 [This goal celebration in slow-mo is dope](http://9gag.com/gag/a6q3Nz8)
- - 😝 [Chandrayaan3, successfully landed.](http://9gag.com/gag/adP4Prd)
- - 👉 [Thanks Dad](http://9gag.com/gag/aL1Nvog)<!-- MEMES:END -->
+ - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
+ - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 💣 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
+ - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 👉 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)<!-- MEMES:END -->
 
 ---
 </div>

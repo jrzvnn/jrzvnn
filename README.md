@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A tittle](http://9gag.com/gag/aPgdmgB)
- - 😝 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
- - 💣 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 👉 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)<!-- MEMES:END -->
+ - 😝 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
+ - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
 
 ---
 </div>

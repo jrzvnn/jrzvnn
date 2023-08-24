@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
- - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
+ - 😝 [A little plothole](http://9gag.com/gag/armrX16)
+ - 😝 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)
+ - 💣 [A tittle](http://9gag.com/gag/aPgdmgB)
+ - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
+ - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
 
 ---
 </div>

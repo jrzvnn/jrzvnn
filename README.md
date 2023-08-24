@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
+ - 💣 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
  - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 💣 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 😝 [A woman was found chained to the floor of a Kentucky home. She was able to kick out a window and scream for help, prompting neighbors to call 911. Police arrived and rescued her.](http://9gag.com/gag/a9qNz9D)
  - 👉 [This has me laughing](http://9gag.com/gag/aNw29m4)<!-- MEMES:END -->
 
 ---

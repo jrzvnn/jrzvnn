@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [Immigrant in Germany refuses to pay a ticket and causes an incident. Meanwhile in Serbia.](http://9gag.com/gag/aeQPOqb)
- - 💣 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 👉 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)<!-- MEMES:END -->
+ - 😝 [He thought he was home alone and got caught red pawed](http://9gag.com/gag/aQENQP7)
+ - 😝 [Darryl&#39;s contribution](http://9gag.com/gag/a6q39Dm)
+ - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 😝 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
+ - 👉 [This guy copyrighted every possible melody &lpar;sounds bogus to me&rpar;](http://9gag.com/gag/a9qNvLD)<!-- MEMES:END -->
 
 ---
 </div>

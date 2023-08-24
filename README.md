@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Modular, which offers a platform for developing and optimizing AI systems, raised $100M led by General Catalyst, bringing its total funding to $130M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230824/p22#a230824p22)
+ - [Strava’s new route building feature is picture perfect](https://www.androidauthority.com/new-strava-route-building-feature-is-picture-perfect-3357608/)
+ - [The Myth of ‘Open Source’ AI](https://www.wired.com/story/the-myth-of-open-source-ai/)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Fortnite’s next season has heists, Ahsoka, and a beefy fish](https://www.theverge.com/2023/8/24/23844367/fortnite-chapter-4-season-4-trailer-heists-ahsoka-beefy-fish)
- - [Threads on the web is here](https://www.theverge.com/2023/8/22/23840441/meta-threads-web-app)
- - [Cherry is overhauling its classic mechanical keyboard switches](https://www.theverge.com/2023/8/24/23844298/cherry-mx2a-mechanical-keyboard-switch-announced-factory-lubed-redesigned-spring)
- - [OnlyFans reports revenue up 17% YoY to $1.1B in the FY to November 30, 2022, profit up 24% YoY to ~$404M, creators up 47% to 3.2M, and users spent $5.6B in 2022 &lpar;Nathan McAlone/Insider&rpar;](http://www.techmeme.com/230824/p21#a230824p21)<!-- TECH:END -->
+ - [Fortnite’s next season has heists, Ahsoka, and a beefy fish](https://www.theverge.com/2023/8/24/23844367/fortnite-chapter-4-season-4-trailer-heists-ahsoka-beefy-fish)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

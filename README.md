@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ummm](http://9gag.com/gag/a9qN1q0)
- - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 💣 [Realistic](http://9gag.com/gag/ay2V9XV)
- - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
- - 👉 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)<!-- MEMES:END -->
+ - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 💣 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 😝 [A woman was found chained to the floor of a Kentucky home. She was able to kick out a window and scream for help, prompting neighbors to call 911. Police arrived and rescued her.](http://9gag.com/gag/a9qNz9D)
+ - 👉 [This has me laughing](http://9gag.com/gag/aNw29m4)<!-- MEMES:END -->
 
 ---
 </div>

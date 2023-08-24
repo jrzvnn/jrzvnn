@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: in May 2023, ~150K nonconsensual porn deepfakes, with 3.8B total views, appeared on 30 sites, up 9x since 2019, aided by services from big tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p14#a230824p14)
  - [MSI shares an unlisted video confirming Intel&#39;s upcoming 14th Gen CPUs will see no major core count upgrades and will be 3% faster than 13th Gen CPUs on average &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/230824/p13#a230824p13)
  - [Q&amp;A with Phil Spencer on growing Game Pass, Microsoft&#39;s mobile focus, streaming Starfield and other games on mobile, Xbox generations, console prices, and more &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230824/p12#a230824p12)
  - [Why The Chainsmokers Invest in—and Party With—Niche Cybersecurity Companies](https://www.wired.com/story/the-chainsmokers-alex-pall-cybersecurity-investing/)
- - [The Case of the Not-Stolen AirPods](https://www.wired.com/story/gadget-lab-podcast-610/)
- - [Technics EAH-AZ80 Earbuds Review: Comfy, Feature-Packed](https://www.wired.com/review/technics-eaz-az80/)<!-- TECH:END -->
+ - [The Case of the Not-Stolen AirPods](https://www.wired.com/story/gadget-lab-podcast-610/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

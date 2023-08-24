@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor: iPhone 15 USB-C cable limited to USB 2.0 speeds, has no MFi](https://appleinsider.com/articles/23/08/24/rumor-iphone-15-usb-c-cable-limited-to-usb-20-speeds-has-no-mfi?utm_medium=rss)
  - [Nvidia Chip Shortages Leave AI Startups Scrambling for Computing Power](https://www.wired.com/story/nvidia-chip-shortages-leave-ai-startups-scrambling-for-computing-power/)
  - [TikTok and Instagram Beauty Filters Aren’t Trying to Fool Anyone](https://www.wired.com/story/augmented-reality-beauty-filter-tiktok-instagram/)
  - [Amazon launches Amazon Luna on LG smart TVs released between 2021 and 2023 and running webOS 6.0 or later, after debuting Luna on Samsung TVs in August 2022 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230824/p7#a230824p7)
- - [Here’s our best look yet at Philips Hue’s upcoming security camera](https://www.theverge.com/2023/8/24/23844055/philips-hue-security-cameras-sensors-renders)
- - [Microsoft investigating Windows 11 BSOD ‘unsupported processor’ update errors](https://www.theverge.com/2023/8/24/23844054/microsoft-windows-11-bsod-kb5029351-msi-motherboard-bios-update)<!-- TECH:END -->
+ - [Here’s our best look yet at Philips Hue’s upcoming security camera](https://www.theverge.com/2023/8/24/23844055/philips-hue-security-cameras-sensors-renders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

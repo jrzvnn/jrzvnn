@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new SmartTag leaks in full with October launch date](https://www.androidauthority.com/samsung-galaxy-smarttag-2-october-2023-3357793/)
+ - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)
  - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)
  - [DOJ sues SpaceX for hiring discrimination](https://www.theverge.com/2023/8/24/23844450/doj-spacex-lawsuit-hiring-discrimination)
- - [Baldur’s Gate 3 is coming to Xbox ‘this year’](https://www.theverge.com/2023/8/24/23844418/baldurs-gate-3-xbox-release-series-x-s-cross-save-split-screen)
- - [Walmart partners with Alphabet&#39;s Wing to test drone deliveries of up to six miles at two stores in the Dallas area, dropping off food and household essentials &lpar;Brendan Case/Bloomberg&rpar;](http://www.techmeme.com/230824/p23#a230824p23)
- - [The Last Hour Before Yevgeny Prigozhin&#39;s Plane Crash](https://www.wired.com/story/plane-crash-yevgeny-prigozhin-russia/)<!-- TECH:END -->
+ - [Baldur’s Gate 3 is coming to Xbox ‘this year’](https://www.theverge.com/2023/8/24/23844418/baldurs-gate-3-xbox-release-series-x-s-cross-save-split-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

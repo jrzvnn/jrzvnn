@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They just went for it](http://9gag.com/gag/a9qN6OW)
- - 😝 [Careful he&#39;s a Hero!](http://9gag.com/gag/aqepe0j)
- - 💣 [The apprentice never had a chance to overcome the master of box flipping](http://9gag.com/gag/a5Xy6oL)
- - 😝 [Young Ivan adventures on the front](http://9gag.com/gag/aPgdmoV)
- - 👉 [After turning 30](http://9gag.com/gag/aREN42G)<!-- MEMES:END -->
+ - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
+ - 😝 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
+ - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 😝 [Holup](http://9gag.com/gag/aGENEW5)
+ - 👉 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)<!-- MEMES:END -->
 
 ---
 </div>

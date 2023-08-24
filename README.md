@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay keeps growing, but can&#39;t catch Visa or Paypal](https://appleinsider.com/articles/23/08/24/apple-pay-keeps-growing-but-cant-catch-visa-or-paypal?utm_medium=rss)
  - [Crazy $100 price cut on the new Beats Studio Pro](https://www.androidauthority.com/beats-studio-pro-deal-3357753/)
  - [Amazon is bringing a whole lot of AI to Thursday Night Football this season](https://www.theverge.com/2023/8/24/23842818/amazon-thursday-night-football-ai-streaming)
  - [Canada-based LemFi, which offers remittances and other payment services for immigrants worldwide, raised a $33M Series A, bringing its total funding to ~$34M &lpar;Abraham Augustine/TechCabal&rpar;](http://www.techmeme.com/230824/p19#a230824p19)
- - [How to turn on Walking Steadiness notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-turn-on-walking-steadiness-notifications-in-ios-16?utm_medium=rss)
- - [Daily deals Aug. 24: $249 Beats Studio Pro, $1,099 15&quot; MacBook Air, $100 off iPad mini, more](https://appleinsider.com/articles/23/08/24/daily-deals-aug-24-249-beats-studio-pro-1099-15-macbook-air-100-off-ipad-mini-more?utm_medium=rss)<!-- TECH:END -->
+ - [How to turn on Walking Steadiness notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-turn-on-walking-steadiness-notifications-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

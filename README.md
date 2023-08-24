@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crazy $100 price cut on the new Beats Studio Pro](https://www.androidauthority.com/beats-studio-pro-deal-3357753/)
+ - [Amazon is bringing a whole lot of AI to Thursday Night Football this season](https://www.theverge.com/2023/8/24/23842818/amazon-thursday-night-football-ai-streaming)
  - [Canada-based LemFi, which offers remittances and other payment services for immigrants worldwide, raised a $33M Series A, bringing its total funding to ~$34M &lpar;Abraham Augustine/TechCabal&rpar;](http://www.techmeme.com/230824/p19#a230824p19)
  - [How to turn on Walking Steadiness notifications in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-turn-on-walking-steadiness-notifications-in-ios-16?utm_medium=rss)
- - [Daily deals Aug. 24: $249 Beats Studio Pro, $1,099 15&quot; MacBook Air, $100 off iPad mini, more](https://appleinsider.com/articles/23/08/24/daily-deals-aug-24-249-beats-studio-pro-1099-15-macbook-air-100-off-ipad-mini-more?utm_medium=rss)
- - [Hugging Face confirms it raised a $235M Series D from Salesforce, Google, Amazon, Nvidia, Intel, AMD, Qualcomm, and others, bringing its total raised to $395.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230824/p18#a230824p18)
- - [Apple celebrates National Parks and the work of restoring El Capitan Meadow](https://appleinsider.com/articles/23/08/24/apple-celebrates-national-parks-and-the-work-of-restoring-el-capitan-meadow?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Aug. 24: $249 Beats Studio Pro, $1,099 15&quot; MacBook Air, $100 off iPad mini, more](https://appleinsider.com/articles/23/08/24/daily-deals-aug-24-249-beats-studio-pro-1099-15-macbook-air-100-off-ipad-mini-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

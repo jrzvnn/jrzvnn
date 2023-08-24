@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)
  - [DOJ sues SpaceX for hiring discrimination](https://www.theverge.com/2023/8/24/23844450/doj-spacex-lawsuit-hiring-discrimination)
  - [Baldur’s Gate 3 is coming to Xbox ‘this year’](https://www.theverge.com/2023/8/24/23844418/baldurs-gate-3-xbox-release-series-x-s-cross-save-split-screen)
  - [Walmart partners with Alphabet&#39;s Wing to test drone deliveries of up to six miles at two stores in the Dallas area, dropping off food and household essentials &lpar;Brendan Case/Bloomberg&rpar;](http://www.techmeme.com/230824/p23#a230824p23)
- - [The Last Hour Before Yevgeny Prigozhin&#39;s Plane Crash](https://www.wired.com/story/plane-crash-yevgeny-prigozhin-russia/)
- - [Sony’s PlayStation division is acquiring headphone maker Audeze](https://www.theverge.com/2023/8/24/23844430/sony-playstation-division-acquiring-headphone-maker-audeze)<!-- TECH:END -->
+ - [The Last Hour Before Yevgeny Prigozhin&#39;s Plane Crash](https://www.wired.com/story/plane-crash-yevgeny-prigozhin-russia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

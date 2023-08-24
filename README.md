@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A vessel should repair the West Africa Cable System, which runs ~10K miles from Europe to Africa, by September, after disruption to all South African networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p11#a230824p11)
  - [To comply with the EU DSA, Google plans to expand its Ads Transparency Center and offer more details on EU ad targeting, increase researcher access, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230824/p10#a230824p10)
  - [Apple asks Indian government for more manufacturing support](https://appleinsider.com/articles/23/08/24/apple-asks-indian-government-for-more-manufacturing-support?utm_medium=rss)
  - [Brain Implants That Help Paralyzed People Speak Just Broke New Records](https://www.wired.com/story/brain-implants-that-help-paralyzed-people-speak-just-broke-new-records/)
- - [Bixby’s voice cloning feature is getting a wider rollout](https://www.androidauthority.com/bixby-voice-cloning-rollout-3357654/)
- - [Filings: FTX wants to begin selling, staking, and hedging its crypto holdings, valued at over $3B, and seeks to hire Mike Novogratz&#39;s Galaxy as an advisor &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230824/p9#a230824p9)<!-- TECH:END -->
+ - [Bixby’s voice cloning feature is getting a wider rollout](https://www.androidauthority.com/bixby-voice-cloning-rollout-3357654/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge dismissed an RNC lawsuit alleging Google&#39;s spam filters illegally suppressed their emails, saying the RNC hadn&#39;t shown that Google acted in bad faith &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230824/p29#a230824p29)
  - [Affirm reports Q4 revenue up 22% YoY to $446M, vs. $406M est., net loss up 11% YoY to $206M, and GMV up 25% YoY to $5.5B, vs. $5.3B est.; AFRM jumps 5%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230824/p28#a230824p28)
+ - [Best Gaming TV: Low Input Lag and High Picture Quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
  - [14 Best Early Labor Day Deals &lpar;2023&rpar;: Firepits, Grills, and Couches](https://www.wired.com/story/best-labor-day-deals-2023-1/)
- - [Get a 2TB iPad Pro 12.9-inch for just $1,299 &lpar;$900 off retail&rpar;](https://appleinsider.com/articles/23/08/24/get-a-2tb-ipad-pro-129-inch-for-just-1299-900-off-retail?utm_medium=rss)
- - [The 4 Best Soda Makers to Buy in 2023, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-soda-water-maker/#ftag=CAD590a51e)
- - [T-Mobile Go5G Next vs Magenta: Finally a plan worth switching to?](https://www.androidauthority.com/t-mobile-go5g-next-vs-magenta-3357138/)<!-- TECH:END -->
+ - [Get a 2TB iPad Pro 12.9-inch for just $1,299 &lpar;$900 off retail&rpar;](https://appleinsider.com/articles/23/08/24/get-a-2tb-ipad-pro-129-inch-for-just-1299-900-off-retail?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

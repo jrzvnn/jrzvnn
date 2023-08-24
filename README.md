@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak: Meta’s next Ray-Bans will stream video and let viewers whisper in your ear](https://www.theverge.com/22537624/meta-ray-ban-stories-version-2-leak-livestream-video-audio)
+ - [Google, Amazon, Nvidia, and others put $235 million into Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
  - [Samsung’s new SmartTag leaks in full with October launch date](https://www.androidauthority.com/samsung-galaxy-smarttag-2-october-2023-3357793/)
  - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)
- - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)
- - [DOJ sues SpaceX for hiring discrimination](https://www.theverge.com/2023/8/24/23844450/doj-spacex-lawsuit-hiring-discrimination)
- - [Baldur’s Gate 3 is coming to Xbox ‘this year’](https://www.theverge.com/2023/8/24/23844418/baldurs-gate-3-xbox-release-series-x-s-cross-save-split-screen)<!-- TECH:END -->
+ - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

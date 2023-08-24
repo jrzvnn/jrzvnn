@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
+ - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
  - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
- - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 👉 [Be proud of who you are](http://9gag.com/gag/aWGNjjd)<!-- MEMES:END -->
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 👉 [Fastest job interview](http://9gag.com/gag/aqepRBP)<!-- MEMES:END -->
 
 ---
 </div>

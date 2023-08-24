@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impossible](http://9gag.com/gag/a3Zpwzr)
- - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 💣 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
  - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
- - 👉 [Young Ivan adventures on the front](http://9gag.com/gag/aPgdmoV)<!-- MEMES:END -->
+ - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
+ - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 👉 [Be proud of who you are](http://9gag.com/gag/aWGNjjd)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AfD isn&#39;t a good choice, but it might be the only choice.](http://9gag.com/gag/anzWR8E)
- - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
+ - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
 
 ---
 </div>

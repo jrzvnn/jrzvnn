@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 😝 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
- - 💣 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
- - 😝 [Anon&#39;s ex girl](http://9gag.com/gag/aBdNZgQ)
- - 👉 [Thanks Dad](http://9gag.com/gag/aL1Nvog)<!-- MEMES:END -->
+ - 😝 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
+ - 😝 [Ummm](http://9gag.com/gag/a9qN1q0)
+ - 💣 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 👉 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)<!-- MEMES:END -->
 
 ---
 </div>

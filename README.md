@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - 💣 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
- - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
- - 👉 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)<!-- MEMES:END -->
+ - 😝 [Ummm](http://9gag.com/gag/a9qN1q0)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 💣 [Realistic](http://9gag.com/gag/ay2V9XV)
+ - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 👉 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)<!-- MEMES:END -->
 
 ---
 </div>

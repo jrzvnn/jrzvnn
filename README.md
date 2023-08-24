@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold your horses](http://9gag.com/gag/a4oroM1)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
  - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [Holup](http://9gag.com/gag/aGENEW5)
- - 👉 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)<!-- MEMES:END -->
+ - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 👉 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)<!-- MEMES:END -->
 
 ---
 </div>

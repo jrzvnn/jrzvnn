@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad, which provides Brazilians access to financial services in the US, such as an investment platform, raised $61M led by Tiger Global at a ~$361M valuation &lpar;Reuters&rpar;](http://www.techmeme.com/230824/p24#a230824p24)
- - [Leak: Meta’s next Ray-Bans will stream video and let viewers whisper in your ear](https://www.theverge.com/22537624/meta-ray-ban-stories-version-2-leak-livestream-video-audio)
- - [Google, Amazon, Nvidia, and others put $235 million into Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
- - [Samsung’s new SmartTag leaks in full with October launch date](https://www.androidauthority.com/samsung-galaxy-smarttag-2-october-2023-3357793/)
- - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)<!-- TECH:END -->
+ - [Dropbox ends its unlimited option, capping its highest tier &quot;all the space you need&quot; storage plan to 5TB, after some abused it to resell the storage and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230824/p25#a230824p25)
+ - [For Native Hawaiian advocates, tech billionaires’ donations don’t go far enough](https://www.theverge.com/23844156/mauii-hawaii-fire-tech-billionaires)
+ - [Upgrade your battle station with up to $1,300 off Acer gaming gear](https://www.androidauthority.com/acer-gaming-deals-3357795/)
+ - [YouTube tests a new hum-to-search feature on Android](https://www.theverge.com/2023/8/24/23844501/youtube-tests-hum-to-search-feature-android-google)
+ - [How to clean your smartwatch](https://www.theverge.com/23843279/smartwatch-cleaning-straps-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

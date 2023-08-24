@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s our best look yet at Philips Hue’s upcoming security camera](https://www.theverge.com/2023/8/24/23844055/philips-hue-security-cameras-sensors-renders)
+ - [Microsoft investigating Windows 11 BSOD ‘unsupported processor’ update errors](https://www.theverge.com/2023/8/24/23844054/microsoft-windows-11-bsod-kb5029351-msi-motherboard-bios-update)
  - [OPPO confirms Find N3 Flip and Watch 4 Pro launch, here are official renders](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-3357629/)
  - [How LLMs designed for chat interactions turned AI into a general purpose tool, as AI undergoes transformation much like semiconductors gave rise CPUs and GPUs &lpar;Haomiao Huang/Ars Technica&rpar;](http://www.techmeme.com/230824/p6#a230824p6)
- - [Pixel Tablet’s stylus capabilities are about to get a whole lot better](https://www.androidauthority.com/pixel-tablet-stylus-settings-3357632/)
- - [We are at the tail end of the first wave of LLM-based AI, which performs better than the average human in some tasks but is not enough and is expensive to train &lpar;Irregular Ideas&rpar;](http://www.techmeme.com/230824/p5#a230824p5)
- - [Epic Games announces the Epic First Run program, offering developers 100% of net revenue for six months if they launch games exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)<!-- TECH:END -->
+ - [Pixel Tablet’s stylus capabilities are about to get a whole lot better](https://www.androidauthority.com/pixel-tablet-stylus-settings-3357632/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

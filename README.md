@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OPPO confirms Find N3 Flip and Watch 4 Pro launch, here are official renders](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-3357629/)
+ - [How LLMs designed for chat interactions turned AI into a general purpose tool, as AI undergoes transformation much like semiconductors gave rise CPUs and GPUs &lpar;Haomiao Huang/Ars Technica&rpar;](http://www.techmeme.com/230824/p6#a230824p6)
  - [Pixel Tablet’s stylus capabilities are about to get a whole lot better](https://www.androidauthority.com/pixel-tablet-stylus-settings-3357632/)
  - [We are at the tail end of the first wave of LLM-based AI, which performs better than the average human in some tasks but is not enough and is expensive to train &lpar;Irregular Ideas&rpar;](http://www.techmeme.com/230824/p5#a230824p5)
- - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)
- - [Details leak about Apple’s USB-C cable for the iPhone 15 series](https://www.androidauthority.com/apple-iphone-15-usb-c-cable-specs-3357623/)
- - [Sources say TikTok plans to bar links to Amazon and other e-commerce sites in a bid to force people to use TikTok Shop to buy items they see on the app &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230824/p3#a230824p3)<!-- TECH:END -->
+ - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

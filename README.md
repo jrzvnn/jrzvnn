@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
- - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 💣 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
- - 😝 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
- - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
+ - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 💣 [Festival crowd getting hyped by Beethoven&#39;s 9th symphony](http://9gag.com/gag/a4orPny)
+ - 😝 [This goal celebration in slow-mo is dope](http://9gag.com/gag/a6q3Nz8)
+ - 👉 [Thanks Dad](http://9gag.com/gag/aL1Nvog)<!-- MEMES:END -->
 
 ---
 </div>

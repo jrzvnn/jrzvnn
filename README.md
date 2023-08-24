@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must be high on meth](http://9gag.com/gag/adP4O2j)
+ - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
  - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
+ - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
  - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Car may help find your lost iPhone under the seat](https://appleinsider.com/articles/21/05/11/apple-car-may-help-find-your-lost-iphone-under-the-seat?utm_medium=rss)
- - [Intel’s 14th Gen processors leak out thanks to MSI](https://www.theverge.com/2023/8/24/23844095/intel-14th-gen-processors-performance-msi-leak)
- - [A vessel should repair the West Africa Cable System, which runs ~10K miles from Europe to Africa, by September, after disruption to all South African networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p11#a230824p11)
- - [To comply with the EU DSA, Google plans to expand its Ads Transparency Center and offer more details on EU ad targeting, increase researcher access, and more &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230824/p10#a230824p10)
- - [Apple asks Indian government for more manufacturing support](https://appleinsider.com/articles/23/08/24/apple-asks-indian-government-for-more-manufacturing-support?utm_medium=rss)<!-- TECH:END -->
+ - [MSI shares an unlisted video confirming Intel&#39;s upcoming 14th Gen CPUs will see no major core count upgrades and will be 3% faster than 13th Gen CPUs on average &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/230824/p13#a230824p13)
+ - [Q&amp;A with Phil Spencer on growing Game Pass, Microsoft&#39;s mobile focus, streaming Starfield and other games on mobile, Xbox generations, console prices, and more &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230824/p12#a230824p12)
+ - [Why The Chainsmokers Invest in—and Party With—Niche Cybersecurity Companies](https://www.wired.com/story/the-chainsmokers-alex-pall-cybersecurity-investing/)
+ - [The Case of the Not-Stolen AirPods](https://www.wired.com/story/gadget-lab-podcast-610/)
+ - [Technics EAH-AZ80 Earbuds Review: Comfy, Feature-Packed](https://www.wired.com/review/technics-eaz-az80/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cherry is overhauling its classic mechanical keyboard switches](https://www.theverge.com/2023/8/24/23844298/cherry-mx2a-mechanical-keyboard-switch-announced-factory-lubed-redesigned-spring)
+ - [OnlyFans reports revenue up 17% YoY to $1.1B in the FY to November 30, 2022, profit up 24% YoY to ~$404M, creators up 47% to 3.2M, and users spent $5.6B in 2022 &lpar;Nathan McAlone/Insider&rpar;](http://www.techmeme.com/230824/p21#a230824p21)
+ - [Shein beat out its competitors — soon it could sell Forever 21 clothes](https://www.theverge.com/2023/8/24/23844216/shein-forever-21-deal-ecommerce-in-store-returns)
  - [Uber raises the minimum age requirement for most of its new drivers in California to 25, citing rising costs of commercial auto insurance in the state &lpar;Associated Press&rpar;](http://www.techmeme.com/230824/p20#a230824p20)
- - [The new Beats Studio Pro are $100 off for the first time](https://www.theverge.com/2023/8/24/23844267/beats-studio-pro-noise-canceling-headphones-deal-sale)
- - [Apple Pay keeps growing, but can&#39;t catch Visa or Paypal](https://appleinsider.com/articles/23/08/24/apple-pay-keeps-growing-but-cant-catch-visa-or-paypal?utm_medium=rss)
- - [Crazy $100 price cut on the new Beats Studio Pro](https://www.androidauthority.com/beats-studio-pro-deal-3357753/)
- - [Amazon is bringing a whole lot of AI to Thursday Night Football this season](https://www.theverge.com/2023/8/24/23842818/amazon-thursday-night-football-ai-streaming)<!-- TECH:END -->
+ - [The new Beats Studio Pro are $100 off for the first time](https://www.theverge.com/2023/8/24/23844267/beats-studio-pro-noise-canceling-headphones-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

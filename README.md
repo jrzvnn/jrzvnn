@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Fortnite’s next season has heists, Ahsoka, and a beefy fish](https://www.theverge.com/2023/8/24/23844367/fortnite-chapter-4-season-4-trailer-heists-ahsoka-beefy-fish)
+ - [Threads on the web is here](https://www.theverge.com/2023/8/22/23840441/meta-threads-web-app)
  - [Cherry is overhauling its classic mechanical keyboard switches](https://www.theverge.com/2023/8/24/23844298/cherry-mx2a-mechanical-keyboard-switch-announced-factory-lubed-redesigned-spring)
- - [OnlyFans reports revenue up 17% YoY to $1.1B in the FY to November 30, 2022, profit up 24% YoY to ~$404M, creators up 47% to 3.2M, and users spent $5.6B in 2022 &lpar;Nathan McAlone/Insider&rpar;](http://www.techmeme.com/230824/p21#a230824p21)
- - [Shein beat out its competitors — soon it could sell Forever 21 clothes](https://www.theverge.com/2023/8/24/23844216/shein-forever-21-deal-ecommerce-in-store-returns)
- - [Uber raises the minimum age requirement for most of its new drivers in California to 25, citing rising costs of commercial auto insurance in the state &lpar;Associated Press&rpar;](http://www.techmeme.com/230824/p20#a230824p20)
- - [The new Beats Studio Pro are $100 off for the first time](https://www.theverge.com/2023/8/24/23844267/beats-studio-pro-noise-canceling-headphones-deal-sale)<!-- TECH:END -->
+ - [OnlyFans reports revenue up 17% YoY to $1.1B in the FY to November 30, 2022, profit up 24% YoY to ~$404M, creators up 47% to 3.2M, and users spent $5.6B in 2022 &lpar;Nathan McAlone/Insider&rpar;](http://www.techmeme.com/230824/p21#a230824p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

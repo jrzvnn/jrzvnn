@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)
+ - [Meta releases Code Llama, a tool built on top of Llama 2 to generate new code and debug human-written work, under the same community license as Llama 2 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230824/p16#a230824p16)
  - [Meta Releases Code Llama, a Coding Version of Llama 2](https://www.wired.com/story/meta-code-llama/)
  - [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm)
- - [Apple releases full trailer for the return of &#39;The Morning Show&#39;](https://appleinsider.com/articles/23/08/24/apple-releases-full-trailer-for-the-return-of-the-morning-show?utm_medium=rss)
- - [WBD plans to launch CNN Max, a 24/7 stream pulled from CNN&#39;s US and international feeds alongside some original content, in &quot;open beta&quot; on September 27 on Max &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230824/p15#a230824p15)
- - [10 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Apple releases full trailer for the return of &#39;The Morning Show&#39;](https://appleinsider.com/articles/23/08/24/apple-releases-full-trailer-for-the-return-of-the-morning-show?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

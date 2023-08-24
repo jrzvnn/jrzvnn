@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
+ - 😝 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
+ - 😝 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
  - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
- - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 </div>

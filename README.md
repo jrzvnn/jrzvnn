@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: T-Mobile plans to cut ~7% of its global staff, or ~5,000 jobs, mostly in corporate and tech; AT&amp;T has cut 74,130 jobs, or 32% of its staff, since 2021 &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/230824/p17#a230824p17)
  - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)
  - [Meta releases Code Llama, a tool built on top of Llama 2 to generate new code and debug human-written work, under the same community license as Llama 2 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230824/p16#a230824p16)
  - [Meta Releases Code Llama, a Coding Version of Llama 2](https://www.wired.com/story/meta-code-llama/)
- - [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm)
- - [Apple releases full trailer for the return of &#39;The Morning Show&#39;](https://appleinsider.com/articles/23/08/24/apple-releases-full-trailer-for-the-return-of-the-morning-show?utm_medium=rss)<!-- TECH:END -->
+ - [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

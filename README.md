@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realistic](http://9gag.com/gag/ay2V9XV)
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
+ - 😝 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 💣 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
+ - 😝 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 </div>

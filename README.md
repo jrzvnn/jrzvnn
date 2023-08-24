@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Releases Code Llama, a Coding Version of Llama 2](https://www.wired.com/story/meta-code-llama/)
+ - [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm)
  - [Apple releases full trailer for the return of &#39;The Morning Show&#39;](https://appleinsider.com/articles/23/08/24/apple-releases-full-trailer-for-the-return-of-the-morning-show?utm_medium=rss)
  - [WBD plans to launch CNN Max, a 24/7 stream pulled from CNN&#39;s US and international feeds alongside some original content, in &quot;open beta&quot; on September 27 on Max &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230824/p15#a230824p15)
- - [10 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
- - [Ultimate Ears Pro UE Premier Review: A Borderline Spiritual Experience](https://www.wired.com/review/ultimate-ears-pro-ue-premier/)
- - [You Are Not Responsible for Your Own Online Privacy](https://www.wired.com/story/you-are-not-responsible-for-your-own-online-privacy/)<!-- TECH:END -->
+ - [10 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

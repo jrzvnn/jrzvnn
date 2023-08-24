@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: in May 2023, ~150K nonconsensual porn deepfakes, with 3.8B total views, appeared on 30 sites, up 9x since 2019, aided by services from big tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230824/p14#a230824p14)
- - [MSI shares an unlisted video confirming Intel&#39;s upcoming 14th Gen CPUs will see no major core count upgrades and will be 3% faster than 13th Gen CPUs on average &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/230824/p13#a230824p13)
- - [Q&amp;A with Phil Spencer on growing Game Pass, Microsoft&#39;s mobile focus, streaming Starfield and other games on mobile, Xbox generations, console prices, and more &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230824/p12#a230824p12)
- - [Why The Chainsmokers Invest in—and Party With—Niche Cybersecurity Companies](https://www.wired.com/story/the-chainsmokers-alex-pall-cybersecurity-investing/)
- - [The Case of the Not-Stolen AirPods](https://www.wired.com/story/gadget-lab-podcast-610/)<!-- TECH:END -->
+ - [10 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
+ - [Ultimate Ears Pro UE Premier Review: A Borderline Spiritual Experience](https://www.wired.com/review/ultimate-ears-pro-ue-premier/)
+ - [You Are Not Responsible for Your Own Online Privacy](https://www.wired.com/story/you-are-not-responsible-for-your-own-online-privacy/)
+ - [Ford’s matte black F-150 Lightning looks ready to chase the Joker](https://www.theverge.com/2023/8/24/23842907/ford-f-150-lightning-platinum-black)
+ - [Max will launch a 24/7 CNN stream for all subscribers next month](https://www.theverge.com/2023/8/24/23844121/cnn-max-warnerbros-discovery-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad, which provides Brazilians access to financial services in the US, such as an investment platform, raised $61M led by Tiger Global at a ~$361M valuation &lpar;Reuters&rpar;](http://www.techmeme.com/230824/p24#a230824p24)
  - [Leak: Meta’s next Ray-Bans will stream video and let viewers whisper in your ear](https://www.theverge.com/22537624/meta-ray-ban-stories-version-2-leak-livestream-video-audio)
  - [Google, Amazon, Nvidia, and others put $235 million into Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
  - [Samsung’s new SmartTag leaks in full with October launch date](https://www.androidauthority.com/samsung-galaxy-smarttag-2-october-2023-3357793/)
- - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)
- - [T-Mobile is laying off around 5,000 workers](https://www.theverge.com/2023/8/24/23844278/t-mobile-layoffs-5000-workers-merger)<!-- TECH:END -->
+ - [Citizen Is Suspending Sales of Its New Wear OS Smartwatch](https://www.wired.com/story/citizen-suspends-sale-of-cz-smart-gen-2-wear-os-smartwatch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modular, which offers a platform for developing and optimizing AI systems, raised $100M led by General Catalyst, bringing its total funding to $130M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230824/p22#a230824p22)
- - [Strava’s new route building feature is picture perfect](https://www.androidauthority.com/new-strava-route-building-feature-is-picture-perfect-3357608/)
- - [The Myth of ‘Open Source’ AI](https://www.wired.com/story/the-myth-of-open-source-ai/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Fortnite’s next season has heists, Ahsoka, and a beefy fish](https://www.theverge.com/2023/8/24/23844367/fortnite-chapter-4-season-4-trailer-heists-ahsoka-beefy-fish)<!-- TECH:END -->
+ - [DOJ sues SpaceX for hiring discrimination](https://www.theverge.com/2023/8/24/23844450/doj-spacex-lawsuit-hiring-discrimination)
+ - [Baldur’s Gate 3 is coming to Xbox ‘this year’](https://www.theverge.com/2023/8/24/23844418/baldurs-gate-3-xbox-release-series-x-s-cross-save-split-screen)
+ - [Walmart partners with Alphabet&#39;s Wing to test drone deliveries of up to six miles at two stores in the Dallas area, dropping off food and household essentials &lpar;Brendan Case/Bloomberg&rpar;](http://www.techmeme.com/230824/p23#a230824p23)
+ - [The Last Hour Before Yevgeny Prigozhin&#39;s Plane Crash](https://www.wired.com/story/plane-crash-yevgeny-prigozhin-russia/)
+ - [Sony’s PlayStation division is acquiring headphone maker Audeze](https://www.theverge.com/2023/8/24/23844430/sony-playstation-division-acquiring-headphone-maker-audeze)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

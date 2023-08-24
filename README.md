@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 👉 [Fastest job interview](http://9gag.com/gag/aqepRBP)<!-- MEMES:END -->
+ - 😝 [Help me](http://9gag.com/gag/a8qXG2p)
+ - 😝 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/az2DMYN)<!-- MEMES:END -->
 
 ---
 </div>

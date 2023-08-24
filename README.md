@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If your not first your last](http://9gag.com/gag/a3ZpZAv)
- - 😝 [Certified Female Moment!](http://9gag.com/gag/amAb5w2)
+ - 😝 [Nobody got nothing dawg](http://9gag.com/gag/a2Kj19w)
+ - 😝 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
  - 💣 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 👉 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)<!-- MEMES:END -->
+ - 😝 [Quantum entanglement of photons captured in real-time](http://9gag.com/gag/az2Dedm)
+ - 👉 [Mom&#39;s face](http://9gag.com/gag/aXnGLRV)<!-- MEMES:END -->
 
 ---
 </div>

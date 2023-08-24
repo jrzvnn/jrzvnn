@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shein acquires ~33% of Forever 21 parent Sparc, and Sparc takes a minority stake in Shein, allowing Shein to sell Forever 21 items and operate inside its stores &lpar;Suzanne Kapner/Wall Street Journal&rpar;](http://www.techmeme.com/230824/p26#a230824p26)
  - [T-Mobile keeps doing the thing it said it wouldn’t do](https://www.androidauthority.com/t-mobile-layoffs-2023-3357846/)
  - [Astropad&#39;s new Rock Paper Pencil iPad screen protector mimics the pen-on-paper experience](https://appleinsider.com/articles/23/08/24/astropads-new-rock-paper-pencil-ipad-screen-protector-mimics-the-pen-on-paper-experience?utm_medium=rss)
  - [Dropbox ends its unlimited option, capping its &quot;all the space you need&quot; storage plan to 5TB, after some abused the tier by pooling storage, reselling, and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230824/p25#a230824p25)
- - [For Native Hawaiian advocates, tech billionaires’ donations don’t go far enough](https://www.theverge.com/23844156/mauii-hawaii-fire-tech-billionaires)
- - [Upgrade your battle station with up to $1,300 off Acer gaming gear](https://www.androidauthority.com/acer-gaming-deals-3357795/)<!-- TECH:END -->
+ - [For Native Hawaiian advocates, tech billionaires’ donations don’t go far enough](https://www.theverge.com/23844156/mauii-hawaii-fire-tech-billionaires)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

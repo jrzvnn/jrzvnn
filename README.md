@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games announces Epic First Run program, which will give developers 100% of net revenue for six months if they launch exclusively on the Epic Games Store &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230824/p4#a230824p4)
  - [Details leak about Apple’s USB-C cable for the iPhone 15 series](https://www.androidauthority.com/apple-iphone-15-usb-c-cable-specs-3357623/)
  - [Sources say TikTok plans to bar links to Amazon and other e-commerce sites in a bid to force people to use TikTok Shop to buy items they see on the app &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230824/p3#a230824p3)
  - [An analysis finds 37 sites that are using AI chatbots to rewrite news articles, which first appeared in outlets like CNN, the NYT, and Reuters, without credit &lpar;NewsGuard&rpar;](http://www.techmeme.com/230824/p2#a230824p2)
- - [Crypto exchange Bitstamp says it is ending its Ethereum staking service for US customers from September 25, citing &quot;current regulatory dynamics in the US&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/230824/p1#a230824p1)
- - [Sources and documents: China quietly revived its initiative to recruit top foreign-trained scientists, which was stopped in 2018, to boost its tech proficiency &lpar;Reuters&rpar;](http://www.techmeme.com/230823/p35#a230823p35)<!-- TECH:END -->
+ - [Crypto exchange Bitstamp says it is ending its Ethereum staking service for US customers from September 25, citing &quot;current regulatory dynamics in the US&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/230824/p1#a230824p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

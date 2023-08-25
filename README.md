@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
  - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 👉 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aoKqRMn)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
  - 😝 [Title](http://9gag.com/gag/aoKqRMn)
  - 💣 [I would...](http://9gag.com/gag/abvmWBX)
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 👉 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)<!-- MEMES:END -->
 
 ---
 </div>

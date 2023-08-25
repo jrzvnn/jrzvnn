@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Google squeaks in one more Android 14 beta update, this time to 5.2](https://www.androidauthority.com/android-14-beta-5-2-3358201/)
  - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)
  - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)
- - [The best Bose headphones just got a whole lot cheaper](https://www.androidauthority.com/bose-headphones-deals-3358186/)
- - [Google Keep for Android is getting some overdue upgrades](https://www.theverge.com/2023/8/25/23837296/google-keep-app-formatting-version-history)
- - [The EU’s Digital Services Act goes into effect today: here’s what that means](https://www.theverge.com/23845672/eu-digital-services-act-explained)<!-- TECH:END -->
+ - [The best Bose headphones just got a whole lot cheaper](https://www.androidauthority.com/bose-headphones-deals-3358186/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

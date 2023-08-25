@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 😝 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
- - 💣 [A promising one](http://9gag.com/gag/aDYN8ew)
  - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
 
 ---
 </div>

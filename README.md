@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi 13T unboxing video reveals almost all ahead of launch](https://www.androidauthority.com/xiaomi-13t-unboxing-video-3357981/)
  - [New iPhone 15 Pro colors to replace Gold and Purple options](https://www.androidauthority.com/apple-iphone-15-pro-new-colors-3357988/)
  - [Samsung is changing how storage is shown in One UI 6](https://www.androidauthority.com/samsung-one-ui-6-storage-change-3357984/)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Samsung’s new limited edition Galaxy Watch 6 Classic marries space and time](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-astro-edition-3357972/)
- - [Customs data shows China&#39;s chip production tool imports in June and July 2023 totaled nearly $5B, up 70% YoY from $2.9B, mostly from Netherlands and Japan &lpar;Financial Times&rpar;](http://www.techmeme.com/230825/p2#a230825p2)<!-- TECH:END -->
+ - [Samsung’s new limited edition Galaxy Watch 6 Classic marries space and time](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-astro-edition-3357972/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

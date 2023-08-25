@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: EvolutionaryScale, founded by members of Meta AI&#39;s recently axed protein-folding team to build biological LLMs, raised a $40M seed at a $200M valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230825/p19#a230825p19)
+ - [Your Smartwatch Band Might Be Covered in Harmful Bacteria. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/mobile/your-smartwatch-band-is-probably-covered-in-harmful-bacteria-heres-how-to-clean-it/#ftag=CAD590a51e)
+ - [Save Big on Contact Lenses From Warby Parker, ContactsDirect and More     - CNET](https://www.cnet.com/deals/save-big-on-contact-lenses-from-warby-parker-contactsdirect-and-more/#ftag=CAD590a51e)
  - [Sources: a company spending $800M+ to buy thousands of acres to build a new Bay Area city is backed by Michael Moritz, Reid Hoffman, Marc Andreessen, and others &lpar;New York Times&rpar;](http://www.techmeme.com/230825/p18#a230825p18)
- - [Texas Approves 2 Tesla Virtual Power Plants to Help Out State&#39;s Power Grid     - CNET](https://www.cnet.com/news/texas-approves-two-tesla-virtual-power-plants-to-help-out-states-power-grid/#ftag=CAD590a51e)
- - [E-commerce marketing company Klaviyo files for a US IPO and reports H1 2023 revenue of ~$321M, vs. ~$208M YoY, and $15.2M net income, vs. a $24.6M net loss YoY &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230825/p17#a230825p17)
- - [10 Tricks to Naturally Boost Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-tricks-to-naturally-boost-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texas Approves 2 Tesla Virtual Power Plants to Help Out State&#39;s Power Grid     - CNET](https://www.cnet.com/news/texas-approves-two-tesla-virtual-power-plants-to-help-out-states-power-grid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

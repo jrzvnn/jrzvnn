@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Meta and YouTube, battered by content moderation battles, are following X in retreating from fighting political misinfo, raising fears for 2024&#39;s election &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)
+ - [Chrome’s reading mode might read articles out loud](https://www.theverge.com/2023/8/25/23845986/google-chrome-reading-mode-speak-articles-out-loud)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
  - [Google squeaks in one more Android 14 beta update, this time to 5.2](https://www.androidauthority.com/android-14-beta-5-2-3358201/)
- - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)
- - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)
- - [The best Bose headphones just got a whole lot cheaper](https://www.androidauthority.com/bose-headphones-deals-3358186/)<!-- TECH:END -->
+ - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

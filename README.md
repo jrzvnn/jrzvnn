@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapdragon 8 Gen 3 spotted in alleged benchmark listing, more details revealed](https://www.androidauthority.com/snapdragon-8-gen-3-alleged-benchmark-listing-3358037/)
  - [The ‘Budget Ryan Reynolds’ Taking Bitcoin FC to the Big Leagues](https://www.wired.com/story/real-bedford-budget-ryan-reynolds-bitcoin-fc/)
  - [It’s Easy to Check the Air Quality. Meet the People Collecting That Data for You](https://www.wired.com/story/the-people-collecting-air-quality-sensor-data/)
  - [How to turn your photos into stickers in iOS 17](https://www.theverge.com/23844877/ios-17-photos-stickers-imessage)
- - [CoinGecko: Worldcoin&#39;s WLD fell 9.1% in the past 24 hours to ~$1.33, down 43.6% since its launch a month ago, after scrutiny over data collection and privacy &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230825/p5#a230825p5)
- - [Source: Tencent Music, Cloud Music, and more scrap their virtual lucky draws and other features at a hefty cost, as China cracks down on online gambling &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230825/p4#a230825p4)<!-- TECH:END -->
+ - [CoinGecko: Worldcoin&#39;s WLD fell 9.1% in the past 24 hours to ~$1.33, down 43.6% since its launch a month ago, after scrutiny over data collection and privacy &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230825/p5#a230825p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

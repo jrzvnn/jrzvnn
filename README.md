@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Paperlike Folio review: iPad case geared specifically to artists](https://appleinsider.com/articles/23/08/25/paperlike-folio-review-ipad-case-geared-specifically-to-artists?utm_medium=rss)
  - [48 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-3/)
  - [Donald Trump&#39;s Mug Shot Matters in a World of Fakes](https://www.wired.com/story/trump-mug-shot/)
- - [AMD announces new Radeon RX 7000 series video cards, $449 RX 7700 XT and $499 7800 XT, based on its new Navi 32 GPU and aimed at the 1440p gaming market &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230825/p12#a230825p12)<!-- TECH:END -->
+ - [AMD announces new Radeon RX 7000 series video cards, the $449 RX 7700 XT and the $499 7800 XT, based on its new Navi 32 GPU and aimed at the 1440p gaming market &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230825/p12#a230825p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU DSA goes into effect today, forcing platforms like Facebook, YouTube, and TikTok to give users a choice to opt out of profiling-based content recommendations &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230825/p13#a230825p13)
  - [Paperlike Folio review: iPad case geared specifically to artists](https://appleinsider.com/articles/23/08/25/paperlike-folio-review-ipad-case-geared-specifically-to-artists?utm_medium=rss)
  - [48 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-3/)
  - [Donald Trump&#39;s Mug Shot Matters in a World of Fakes](https://www.wired.com/story/trump-mug-shot/)
- - [AMD announces new Radeon RX 7000 series video cards, $449 RX 7700 XT and $499 7800 XT, based on its new Navi 32 GPU and aimed at the 1440p gaming market &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230825/p12#a230825p12)
- - [AMD Radeon RX 7700 XT and 7800 XT Are Coming for Your 1440p Gaming     - CNET](https://www.cnet.com/tech/gaming/amd-radeon-rx-7700-xt-7800-xt-are-coming-for-your-1440p-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD announces new Radeon RX 7000 series video cards, $449 RX 7700 XT and $499 7800 XT, based on its new Navi 32 GPU and aimed at the 1440p gaming market &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230825/p12#a230825p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young Ivan adventures on the front](http://9gag.com/gag/aPgdmoV)
- - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 👉 [Straight out of the oven](http://9gag.com/gag/amAboK9)<!-- MEMES:END -->
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 👉 [Title](http://9gag.com/gag/aoKqRMn)<!-- MEMES:END -->
 
 ---
 </div>

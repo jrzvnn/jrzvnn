@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 😝 [That smile](http://9gag.com/gag/ajVMOpg)
- - 💣 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)
- - 😝 [UK: Birmingham&#39;s Green Lane Mosque on how to stone a woman to death for indecent behaviour. `You must first bury her up to her waist to preserve her modesty`. The British government has just given this mosque a \u00a32.2 mn grant for `youth services`.](http://9gag.com/gag/aRENzRq)
- - 👉 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)<!-- MEMES:END -->
+ - 😝 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
+ - 😝 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 💣 [Title](http://9gag.com/gag/aoKqRMn)
+ - 😝 [The president of El Salvador presented on national television the 3 terrorists who killed a policeman.](http://9gag.com/gag/a6q35AA)
+ - 👉 [Straight out of the oven](http://9gag.com/gag/amAboK9)<!-- MEMES:END -->
 
 ---
 </div>

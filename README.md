@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 💣 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 😝 [Drunk police officer in Pakistan riding a bike without a license plate confronted by journalist. This is wild](http://9gag.com/gag/awZG1dQ)
+ - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Home app finally begins adding support for older Nest Cams](https://www.theverge.com/2023/8/24/23845152/google-home-app-support-older-nest-cam-indoor)
  - [Google is expanding its ads transparency center to comply with EU rules](https://www.theverge.com/2023/8/24/23845117/google-expanding-ads-transparency-center-comply-eu-dsa)
  - [Mastercard and Binance plan to end their card partnership in Latin America and Middle East on September 22; Visa stopped issuing Binance cards in Europe in July &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230824/p31#a230824p31)
  - [Dune: Part Two has been delayed](https://www.theverge.com/2023/8/24/23845060/dune-part-two-delay-godzilla-x-kong-lord-of-the-rings-war-of-the-rohirrim)
- - [Sources: Amazon has had early talks with Disney about working on a streaming version of ESPN, perhaps helping with distribution and taking a minority stake &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230824/p30#a230824p30)
- - [Alphabet’s Wing partners with Walmart for drone deliveries in Dallas](https://www.theverge.com/2023/8/24/23844975/alphabet-wing-walmart-drone-deliveries-dallas)<!-- TECH:END -->
+ - [Sources: Amazon has had early talks with Disney about working on a streaming version of ESPN, perhaps helping with distribution and taking a minority stake &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230824/p30#a230824p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

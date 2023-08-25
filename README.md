@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 😝 [Young Ivan adventures on the front](http://9gag.com/gag/aPgdmoV)
  - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 💣 [Holup](http://9gag.com/gag/aGENEW5)
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
+ - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 👉 [Straight out of the oven](http://9gag.com/gag/amAboK9)<!-- MEMES:END -->
 
 ---
 </div>

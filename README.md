@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 💣 [Gender reveal](http://9gag.com/gag/aQEN74e)
  - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 💣 [Let me see your favourite Osha Violations](http://9gag.com/gag/aQENmvK)
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
 
 ---
 </div>

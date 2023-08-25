@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 👉 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)<!-- MEMES:END -->
+ - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 😝 [Holup](http://9gag.com/gag/aGENEW5)
+ - 👉 [Straight out of the oven](http://9gag.com/gag/amAboK9)<!-- MEMES:END -->
 
 ---
 </div>

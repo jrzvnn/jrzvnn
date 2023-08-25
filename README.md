@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony will launch the Xperia 5 V come September](https://www.androidauthority.com/sony-xperia-5-v-launch-date-3358018/)
+ - [Sony will launch the Xperia 5 V on this date come September](https://www.androidauthority.com/sony-xperia-5-v-launch-date-3358018/)
  - [Indian instant grocery delivery startup Zepto raised a $200M Series E led by StepStone Group at a $1.4B valuation, bringing its total funding to $560M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230825/p3#a230825p3)
  - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
  - [Xiaomi 13T unboxing video reveals almost all ahead of launch](https://www.androidauthority.com/xiaomi-13t-unboxing-video-3357981/)

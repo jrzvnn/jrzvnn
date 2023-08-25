@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
  - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 💣 [Title](http://9gag.com/gag/aoKqRMn)
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 👉 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)<!-- MEMES:END -->
+ - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
+ - 💣 [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 
 ---
 </div>

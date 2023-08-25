@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holup](http://9gag.com/gag/aGENEW5)
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 💣 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
  - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 👉 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aoKqRMn)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 👉 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)<!-- MEMES:END -->
 
 ---
 </div>

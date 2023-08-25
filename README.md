@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - 💣 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 💣 [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
 
 ---
 </div>

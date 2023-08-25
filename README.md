@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 😝 [Gender reveal](http://9gag.com/gag/aQEN74e)
- - 💣 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 😝 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 💣 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
  - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
 
 ---

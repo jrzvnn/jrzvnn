@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 💣 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
- - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 😝 [Holup](http://9gag.com/gag/aGENEW5)
+ - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
  - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
 
 ---

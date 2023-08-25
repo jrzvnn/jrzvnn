@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That smile](http://9gag.com/gag/ajVMOpg)
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 💣 [UK: Birmingham&#39;s Green Lane Mosque on how to stone a woman to death for indecent behaviour. `You must first bury her up to her waist to preserve her modesty`. The British government has just given this mosque a \u00a32.2 mn grant for `youth services`.](http://9gag.com/gag/aRENzRq)
  - 😝 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
- - 👉 [Pop culture test. Name the film](http://9gag.com/gag/aPgd81G)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 💣 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 </div>

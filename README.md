@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot’s new robot vacuum mop is the closest thing yet to a sci-fi cleaning robot](https://www.theverge.com/23845579/switchbot-s10-robot-vacuum-mop-launch-ifa)
- - [AMD claims there’s nothing stopping Starfield from adding Nvidia DLSS](https://www.theverge.com/2023/8/25/22372077/amd-starfield-dlss-fsr-exclusive-frank-azor)
- - [AMD announces Radeon RX 7800 XT and 7700 XT, starting at $449](https://www.theverge.com/22327528/amd-radeon-rx-7800-7700-xt-gpu-price-release-date)
- - [Baldur’s Gate 3’s gigantic new patch is for the shorties](https://www.theverge.com/2023/8/25/23845649/baldurs-gate-3-patch-one-bug-fixes)
- - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)<!-- TECH:END -->
+ - [Paperlike Folio review: iPad case geared specifically to artists](https://appleinsider.com/articles/23/08/25/paperlike-folio-review-ipad-case-geared-specifically-to-artists?utm_medium=rss)
+ - [48 Best Back-to-School Deals &lpar;2023&rpar;: Laptops, Backpacks, Household Essentials](https://www.wired.com/story/back-to-school-deals-2023-3/)
+ - [Donald Trump&#39;s Mug Shot Matters in a World of Fakes](https://www.wired.com/story/trump-mug-shot/)
+ - [AMD announces new Radeon RX 7000 series video cards, $449 RX 7700 XT and $499 7800 XT, based on its new Navi 32 GPU and aimed at the 1440p gaming market &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230825/p12#a230825p12)
+ - [AMD Radeon RX 7700 XT and 7800 XT Are Coming for Your 1440p Gaming     - CNET](https://www.cnet.com/tech/gaming/amd-radeon-rx-7700-xt-7800-xt-are-coming-for-your-1440p-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

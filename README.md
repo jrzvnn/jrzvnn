@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 😝 [Holup](http://9gag.com/gag/aGENEW5)
- - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
  - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
+ - 💣 [Straight out of the oven](http://9gag.com/gag/amAboK9)
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 
 ---
 </div>

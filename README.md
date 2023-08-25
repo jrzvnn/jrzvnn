@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Next level woodworking](http://9gag.com/gag/aA0NMqo)
+ - 😝 [`How come you have never had any female friends or girlfriends?` Me as a kid, while other kids socialized and had first kisses n stuff:](http://9gag.com/gag/aPgdPOn)
+ - 💣 [He is one of us](http://9gag.com/gag/a3Zp0g3)
  - 😝 [No more serious relationship](http://9gag.com/gag/amAbx8y)
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 💣 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
- - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 👉 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)<!-- MEMES:END -->
 
 ---
 </div>

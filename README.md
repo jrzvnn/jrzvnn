@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘Budget Ryan Reynolds’ Taking Bitcoin FC to the Big Leagues](https://www.wired.com/story/real-bedford-budget-ryan-reynolds-bitcoin-fc/)
+ - [It’s Easy to Check the Air Quality. Meet the People Collecting That Data for You](https://www.wired.com/story/the-people-collecting-air-quality-sensor-data/)
+ - [How to turn your photos into stickers in iOS 17](https://www.theverge.com/23844877/ios-17-photos-stickers-imessage)
  - [CoinGecko: Worldcoin&#39;s WLD fell 9.1% in the past 24 hours to ~$1.33, down 43.6% since its launch a month ago, after scrutiny over data collection and privacy &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230825/p5#a230825p5)
- - [Source: Tencent Music, Cloud Music, and more scrap their virtual lucky draws and other features at a hefty cost, as China cracks down on online gambling &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230825/p4#a230825p4)
- - [Apple&#39;s Beats signs 15 college athletes to endorsement deals](https://appleinsider.com/articles/23/08/25/apples-beats-signs-15-college-athletes-to-endorsement-deals?utm_medium=rss)
- - [The Battle Against the Fungal Apocalypse Is Just Beginning](https://www.wired.com/story/the-battle-against-the-fungal-apocalypse-is-just-beginning/)
- - [Sony Xperia 5 V: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/sony-xperia-5-v-3351427/)<!-- TECH:END -->
+ - [Source: Tencent Music, Cloud Music, and more scrap their virtual lucky draws and other features at a hefty cost, as China cracks down on online gambling &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230825/p4#a230825p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

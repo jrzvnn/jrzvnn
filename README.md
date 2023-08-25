@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your Mac wallpaper](https://www.theverge.com/23844592/macos-mac-wallpaper-how-to-change-desktop)
- - [Dropbox blames crypto miners and resellers for ending its unlimited cloud storage plan](https://www.theverge.com/2023/8/25/23845554/dropbox-ending-unlimited-storage-advanced-plan)
- - [28 Best REI Labor Day Deals &lpar;2023&rpar;: Tents, Sleeping Bags, and Outdoor Gear](https://www.wired.com/story/best-rei-labor-day-deals-outdoor-gear-2023/)
- - [Maui County says Hawaiian Electric caused deadly blazes in new lawsuit](https://www.theverge.com/2023/8/25/23845581/maui-county-hawaiian-electric-utility-lawsuit-fire)
- - [I got so fed up with the Pixel 7 Pro’s Face Unlock that I disabled it](https://www.androidauthority.com/pixel-face-unlock-opinion-3355850/)<!-- TECH:END -->
+ - [All colors of the Beats Studio Buds Plus are $40 off &lpar;including the clear ones&rpar;](https://www.theverge.com/2023/8/25/23845572/beats-studio-buds-plus-samsung-990pro-ssd-nintendo-switch-oled-deal-sale)
+ - [What the iPhone 15 Pro in gray titanium could look like](https://appleinsider.com/articles/23/08/25/what-the-iphone-15-pro-in-gray-titanium-could-look-like?utm_medium=rss)
+ - [Daily deals Aug. 25: Samsung Fold &amp; Flip 5 up to $1,000 off, MagSafe Battery Pack $84, iPhones from $120, more](https://appleinsider.com/articles/23/08/25/daily-deals-aug-25-samsung-fold-flip-5-up-to-1000-off-magsafe-battery-pack-84-iphones-from-120-more?utm_medium=rss)
+ - [Alibaba debuts two open-source AI models: Qwen-VL, which can understand images and generate captions, and Qwen-VL-Chat, which can have &quot;complex interactions&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230825/p10#a230825p10)
+ - [How to change your Mac wallpaper](https://www.theverge.com/23844592/macos-mac-wallpaper-how-to-change-desktop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 👉 [Title](http://9gag.com/gag/aoKqRMn)<!-- MEMES:END -->
+ - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
+ - 😝 [The president of El Salvador presented on national television the 3 terrorists who killed a policeman.](http://9gag.com/gag/a6q35AA)
+ - 💣 [Holup](http://9gag.com/gag/aGENEW5)
+ - 😝 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
+ - 👉 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Must be high on meth](http://9gag.com/gag/adP4O2j)
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 💣 [Fastest job interview](http://9gag.com/gag/aqepRBP)
  - 😝 [Holup](http://9gag.com/gag/aGENEW5)
- - 👉 [I would...](http://9gag.com/gag/abvmWBX)<!-- MEMES:END -->
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 💣 [What to do with my bf&#39;s cat?](http://9gag.com/gag/armrmQK)
+ - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 👉 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)<!-- MEMES:END -->
 
 ---
 </div>

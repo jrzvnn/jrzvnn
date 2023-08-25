@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I heard some men there too](http://9gag.com/gag/aDYN8jx)
- - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
- - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
- - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - 👉 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)<!-- MEMES:END -->
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [That smile](http://9gag.com/gag/ajVMOpg)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapdragon handhelds can’t run PC games, but Qualcomm wants to change that](https://www.androidauthority.com/qualcomm-steam-deck-rival-gaming-handheld-3358030/)
+ - [Citizen suspends sales of its $350 CZ Smart smartwatch, launched on May 1; review units had extensive issues, including freezing and inaccurate tracking data &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/230825/p6#a230825p6)
  - [Snapdragon 8 Gen 3 spotted in alleged benchmark listing, more details revealed](https://www.androidauthority.com/snapdragon-8-gen-3-alleged-benchmark-listing-3358037/)
  - [The ‘Budget Ryan Reynolds’ Taking Bitcoin FC to the Big Leagues](https://www.wired.com/story/real-bedford-budget-ryan-reynolds-bitcoin-fc/)
- - [It’s Easy to Check the Air Quality. Meet the People Collecting That Data for You](https://www.wired.com/story/the-people-collecting-air-quality-sensor-data/)
- - [How to turn your photos into stickers in iOS 17](https://www.theverge.com/23844877/ios-17-photos-stickers-imessage)
- - [CoinGecko: Worldcoin&#39;s WLD fell 9.1% in the past 24 hours to ~$1.33, down 43.6% since its launch a month ago, after scrutiny over data collection and privacy &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230825/p5#a230825p5)<!-- TECH:END -->
+ - [It’s Easy to Check the Air Quality. Meet the People Collecting That Data for You](https://www.wired.com/story/the-people-collecting-air-quality-sensor-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 😝 [The president of El Salvador presented on national television the 3 terrorists who killed a policeman.](http://9gag.com/gag/a6q35AA)
- - 💣 [Holup](http://9gag.com/gag/aGENEW5)
- - 😝 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
- - 👉 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)<!-- MEMES:END -->
+ - 😝 [Holup](http://9gag.com/gag/aGENEW5)
+ - 😝 [This has me laughing](http://9gag.com/gag/aNw29m4)
+ - 💣 [The president of El Salvador presented on national television the 3 terrorists who killed a policeman.](http://9gag.com/gag/a6q35AA)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 ---
 </div>

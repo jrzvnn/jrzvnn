@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based digital lender Better.com closed down 94% in its Nasdaq debut on Thursday after a SPAC merger &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/230825/p9#a230825p9)
  - [How to use the new Spotlight in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spotlight-in-ios-17?utm_medium=rss)
  - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
  - [AI Can’t Read Books. It’s Reviewing Them Anyway](https://www.wired.com/story/plaintext-ai-chatgpt-book-reviews/)
- - [How to Cool an Object Without Using Any Energy](https://www.wired.com/story/how-to-cool-an-object-without-using-any-energy/)
- - [The Anticlimactic Death of the Streaming Wars](https://www.wired.com/story/netflix-amazon-disney-max-streaming-wars-no-win/)<!-- TECH:END -->
+ - [How to Cool an Object Without Using Any Energy](https://www.wired.com/story/how-to-cool-an-object-without-using-any-energy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

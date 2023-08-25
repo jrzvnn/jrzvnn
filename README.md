@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Licenses to Microsoft Office 2021 for Windows or Mac Are Back Down to $35 Right Now     - CNET](https://www.cnet.com/deals/licenses-to-microsoft-office-2021-for-windows-or-mac-are-back-down-to-35-right-now/#ftag=CAD590a51e)
  - [Emsisoft: the MOVEit Transfer breach has so far impacted 1,000+ known victim organizations, of which 83.9% are based in the US, and 60M+ individuals &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230825/p16#a230825p16)
  - [Early Labor Day deals knock up to $1,600 off Macs, Apple Studio Display at B&amp;H Photo](https://appleinsider.com/articles/23/08/25/early-labor-day-deals-knock-up-to-1600-off-macs-apple-studio-display-at-bh-photo?utm_medium=rss)
- - [The 47 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 46 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Microsoft Office Pro for just $34.97 is the ultimate back-to-school deal](https://www.androidauthority.com/microsoft-office-pro-deal-3358204/)<!-- TECH:END -->
+ - [Best Energy Vitamins to Boost Productivity in 2023     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-to-boost-your-energy/#ftag=CAD590a51e)
+ - [The 47 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - 😝 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
- - 💣 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
+ - 💣 [Let me see your favourite Osha Violations](http://9gag.com/gag/aQENmvK)
  - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 </div>

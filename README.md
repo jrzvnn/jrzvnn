@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 💣 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
  - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
+ - 💣 [Straight out of the oven](http://9gag.com/gag/amAboK9)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 
 ---
 </div>

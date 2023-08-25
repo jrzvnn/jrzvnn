@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meta and YouTube, battered by content moderation battles, are following X in retreating from fighting political misinfo, raising fears for 2024&#39;s election &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)
+ - [Instacart files for a US IPO, set for September; the company was valued at $39B in 2021 but has repeatedly reset its valuation, most recently to a reported $13B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
+ - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)
+ - [How Meta and YouTube, battered by content moderation battles, are following X in receding from fighting political misinformation, raising US 2024 election fears &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)
  - [Chrome’s reading mode might read articles out loud](https://www.theverge.com/2023/8/25/23845986/google-chrome-reading-mode-speak-articles-out-loud)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Google squeaks in one more Android 14 beta update, this time to 5.2](https://www.androidauthority.com/android-14-beta-5-2-3358201/)
- - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

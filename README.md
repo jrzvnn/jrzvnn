@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 😝 [That smile](http://9gag.com/gag/ajVMOpg)
+ - 💣 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)
+ - 😝 [UK: Birmingham&#39;s Green Lane Mosque on how to stone a woman to death for indecent behaviour. `You must first bury her up to her waist to preserve her modesty`. The British government has just given this mosque a \u00a32.2 mn grant for `youth services`.](http://9gag.com/gag/aRENzRq)
+ - 👉 [The mirror hasn&#39;t `seen` the orange](http://9gag.com/gag/a6q3nV2)<!-- MEMES:END -->
 
 ---
 </div>

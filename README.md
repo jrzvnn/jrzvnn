@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use the new mental health logging in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)
+ - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)
  - [The best Bose headphones just got a whole lot cheaper](https://www.androidauthority.com/bose-headphones-deals-3358186/)
  - [Google Keep for Android is getting some overdue upgrades](https://www.theverge.com/2023/8/25/23837296/google-keep-app-formatting-version-history)
- - [The EU’s Digital Services Act goes into effect today: here’s what that means](https://www.theverge.com/23845672/eu-digital-services-act-explained)
- - [The EU&#39;s DSA goes into effect, forcing platforms like Facebook, Instagram, YouTube, and TikTok to let users opt out of profiling-based content recommendations &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230825/p13#a230825p13)
- - [Paperlike Folio review: iPad case geared specifically to artists](https://appleinsider.com/articles/23/08/25/paperlike-folio-review-ipad-case-geared-specifically-to-artists?utm_medium=rss)<!-- TECH:END -->
+ - [The EU’s Digital Services Act goes into effect today: here’s what that means](https://www.theverge.com/23845672/eu-digital-services-act-explained)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

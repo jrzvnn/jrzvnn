@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is no cure for them...they are lost...](http://9gag.com/gag/aqepynQ)
  - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - 💣 [Title](http://9gag.com/gag/aoKqRMn)
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 👉 [The president of El Salvador presented on national television the 3 terrorists who killed a policeman.](http://9gag.com/gag/a6q35AA)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
 
 ---
 </div>

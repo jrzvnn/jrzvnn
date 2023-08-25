@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)
- - 💣 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)
- - 😝 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
- - 👉 [He is one of us](http://9gag.com/gag/a3Zp0g3)<!-- MEMES:END -->
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 💣 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 😝 [Let me see your favourite Osha Violations](http://9gag.com/gag/aQENmvK)
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 </div>

@@ -147,7 +147,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Microsoft Office Pro for just $34.97 is the ultimate back-to-school deal](https://www.androidauthority.com/microsoft-office-pro-deal-3358204/)
- - [Instacart files for a US IPO set for September; after being valued at $39B in 2021, the company repeatedly cut its valuation, reportedly to $13B in October 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
+ - [Instacart files for a US IPO, reports 2022 revenue up 39% YoY to $2.55B, $428M net income, up from a $73M loss in 2021, and H1 2023 revenue up 31% YoY to $1.48B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
  - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)
  - [How Meta and YouTube, battered by content moderation fights, are following X in retreating from policing political misinfo, raising US 2024 election fears &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)
  - [Chrome’s reading mode might read articles out loud](https://www.theverge.com/2023/8/25/23845986/google-chrome-reading-mode-speak-articles-out-loud)<!-- TECH:END -->

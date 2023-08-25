@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
  - 😝 [Title](http://9gag.com/gag/aoKqRMn)
  - 💣 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 😝 [Drunk police officer in Pakistan riding a bike without a license plate confronted by journalist. This is wild](http://9gag.com/gag/awZG1dQ)
- - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 👉 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)<!-- MEMES:END -->
 
 ---
 </div>

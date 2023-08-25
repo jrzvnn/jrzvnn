@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How YouTube plans to integrate creators into its NFL Sunday Ticket programming, as the company looks to be a &quot;one-stop shop for multiple types of video content&quot; &lpar;Ainsley Harris/Fast Company&rpar;](http://www.techmeme.com/230825/p1#a230825p1)
  - [Ikigai Labs, which offers a no-code generative AI service built using large graphical models for tabular data, raised a $25M Series A led by Premji Invest &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230824/p35#a230824p35)
  - [Microsoft researchers say Flax Typhoon, a hacking group with suspected links to the Chinese government, is actively targeting dozens of organizations in Taiwan &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/230824/p34#a230824p34)
  - [Apple could offer Thunderbolt cable for iPhone 15 Pro as separate purchase](https://appleinsider.com/articles/23/08/25/apple-could-offer-thunderbolt-cable-for-iphone-15-pro-as-separate-purchase?utm_medium=rss)
- - [What is ChatGPT Code Interpreter? Features, how to use it, and more](https://www.androidauthority.com/chatgpt-code-interpreter-3357946/)
- - [Reddit launches the &quot;Mod Helper Program&quot;, a tiered system that rewards moderators with trophies and flairs for helping other moderators in r/ModSupport &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230824/p33#a230824p33)<!-- TECH:END -->
+ - [What is ChatGPT Code Interpreter? Features, how to use it, and more](https://www.androidauthority.com/chatgpt-code-interpreter-3357946/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 💣 [Gender reveal](http://9gag.com/gag/aQEN74e)
- - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 😝 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)
+ - 💣 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)
+ - 😝 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
+ - 👉 [He is one of us](http://9gag.com/gag/a3Zp0g3)<!-- MEMES:END -->
 
 ---
 </div>

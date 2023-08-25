@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)
  - [Another iPhone 15 model may have been spotted on a regulatory database](https://appleinsider.com/articles/23/08/25/another-iphone-15-model-may-have-been-spotted-on-a-regulatory-database?utm_medium=rss)
  - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)
  - [Cricket now offers the ability to pay for multiple months and earn big discounts](https://www.androidauthority.com/cricket-wireless-pay-in-advance-3358140/)
- - [Sources: Swiggy, which was valued at $10.7B in 2022, is considering an IPO in 2024, after putting the plans on hold earlier due to market conditions &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/230825/p11#a230825p11)
- - [Why note-taking apps don’t make us smarter](https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian)<!-- TECH:END -->
+ - [Sources: Swiggy, which was valued at $10.7B in 2022, is considering an IPO in 2024, after putting the plans on hold earlier due to market conditions &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/230825/p11#a230825p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

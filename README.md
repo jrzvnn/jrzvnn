@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [NYT, CNN, and some other news outlets block OpenAI&#39;s GPTBot web crawler from accessing their content; some have also blocked Common Crawl Foundation&#39;s CCBot &lpar;Ariel Bogle/The Guardian&rpar;](http://www.techmeme.com/230825/p7#a230825p7)
- - [Fortnite’s island gets a luxury makeover thanks to a vampire](https://www.theverge.com/2023/8/25/23844876/fortnite-chapter-4-season-4-last-resort-island-map-battle-pass)
- - [How to Record a Phone Call on Your iPhone or Android Phone](https://www.wired.com/story/how-to-record-phone-calls/)
- - [Elvie Pump Review: Not Worth It](https://www.wired.com/review/elvie-pump/)<!-- TECH:END -->
+ - [How to use the new Spotlight in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spotlight-in-ios-17?utm_medium=rss)
+ - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
+ - [AI Can’t Read Books. It’s Reviewing Them Anyway](https://www.wired.com/story/plaintext-ai-chatgpt-book-reviews/)
+ - [How to Cool an Object Without Using Any Energy](https://www.wired.com/story/how-to-cool-an-object-without-using-any-energy/)
+ - [The Anticlimactic Death of the Streaming Wars](https://www.wired.com/story/netflix-amazon-disney-max-streaming-wars-no-win/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

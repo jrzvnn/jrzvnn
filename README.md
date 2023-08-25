@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon handhelds can’t run PC games, but Qualcomm wants to change that](https://www.androidauthority.com/qualcomm-steam-deck-rival-gaming-handheld-3358030/)
- - [Citizen suspends sales of its $350 CZ Smart smartwatch, launched on May 1; review units had extensive issues, including freezing and inaccurate tracking data &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/230825/p6#a230825p6)
- - [Snapdragon 8 Gen 3 spotted in alleged benchmark listing, more details revealed](https://www.androidauthority.com/snapdragon-8-gen-3-alleged-benchmark-listing-3358037/)
- - [The ‘Budget Ryan Reynolds’ Taking Bitcoin FC to the Big Leagues](https://www.wired.com/story/real-bedford-budget-ryan-reynolds-bitcoin-fc/)
- - [It’s Easy to Check the Air Quality. Meet the People Collecting That Data for You](https://www.wired.com/story/the-people-collecting-air-quality-sensor-data/)<!-- TECH:END -->
+ - [iPhone 15 USB-C, Apple Vision Pro labs, Tesla app Shortcuts and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/08/25/iphone-15-usb-c-apple-vision-pro-labs-tesla-app-shortcuts-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [NYT, CNN, and some other news outlets block OpenAI&#39;s GPTBot web crawler from accessing their content; some have also blocked Common Crawl Foundation&#39;s CCBot &lpar;Ariel Bogle/The Guardian&rpar;](http://www.techmeme.com/230825/p7#a230825p7)
+ - [Fortnite’s island gets a luxury makeover thanks to a vampire](https://www.theverge.com/2023/8/25/23844876/fortnite-chapter-4-season-4-last-resort-island-map-battle-pass)
+ - [How to Record a Phone Call on Your iPhone or Android Phone](https://www.wired.com/story/how-to-record-phone-calls/)
+ - [Elvie Pump Review: Not Worth It](https://www.wired.com/review/elvie-pump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

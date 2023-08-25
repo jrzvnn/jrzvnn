@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t see any mistake here](http://9gag.com/gag/aDYNDpB)
- - 😝 [Straight out of the oven](http://9gag.com/gag/amAboK9)
- - 💣 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 😝 [I heard some men there too](http://9gag.com/gag/aDYN8jx)
+ - 😝 [Old buddy bandit, he thought he&#39;s being replaced by a calf](http://9gag.com/gag/ajVMOGx)
+ - 💣 [Male Privilege](http://9gag.com/gag/a9qNv4W)
  - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
- - 👉 [Male Privilege](http://9gag.com/gag/a9qNv4W)<!-- MEMES:END -->
+ - 👉 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)<!-- MEMES:END -->
 
 ---
 </div>

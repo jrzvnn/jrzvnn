@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
  - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
  - 💣 [I would...](http://9gag.com/gag/abvmWBX)
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 👉 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)<!-- MEMES:END -->
+ - 😝 [Gender reveal](http://9gag.com/gag/aQEN74e)
+ - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 
 ---
 </div>

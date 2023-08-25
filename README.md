@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
  - [Samsung’s new limited edition Galaxy Watch 6 Classic marries space and time](https://www.androidauthority.com/samsung-galaxy-watch-6-classic-astro-edition-3357972/)
  - [Customs data shows China&#39;s chip production tool imports in June and July 2023 totaled nearly $5B, up 70% YoY from $2.9B, mostly from Netherlands and Japan &lpar;Financial Times&rpar;](http://www.techmeme.com/230825/p2#a230825p2)
  - [How YouTube plans to integrate creators into its NFL Sunday Ticket programming, as the company looks to be a &quot;one-stop shop for multiple types of video content&quot; &lpar;Ainsley Harris/Fast Company&rpar;](http://www.techmeme.com/230825/p1#a230825p1)
- - [Ikigai Labs, which offers a no-code generative AI service built using large graphical models for tabular data, raised a $25M Series A led by Premji Invest &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230824/p35#a230824p35)
- - [Microsoft researchers say Flax Typhoon, a hacking group with suspected links to the Chinese government, is actively targeting dozens of organizations in Taiwan &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/230824/p34#a230824p34)<!-- TECH:END -->
+ - [Ikigai Labs, which offers a no-code generative AI service built using large graphical models for tabular data, raised a $25M Series A led by Premji Invest &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230824/p35#a230824p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

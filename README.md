@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to avoid unwanted calls !](http://9gag.com/gag/aVb1KmP)
+ - 😝 [Must be high on meth](http://9gag.com/gag/adP4O2j)
  - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 💣 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
- - 👉 [Holup](http://9gag.com/gag/aGENEW5)<!-- MEMES:END -->
+ - 💣 [Fastest job interview](http://9gag.com/gag/aqepRBP)
+ - 😝 [Holup](http://9gag.com/gag/aGENEW5)
+ - 👉 [I would...](http://9gag.com/gag/abvmWBX)<!-- MEMES:END -->
 
 ---
 </div>

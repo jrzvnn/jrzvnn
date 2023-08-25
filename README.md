@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This teacher handling the situation](http://9gag.com/gag/anzWxX5)
- - 😝 [He is one of us](http://9gag.com/gag/a3Zp0g3)
- - 💣 [`How come you have never had any female friends or girlfriends?` Me as a kid, while other kids socialized and had first kisses n stuff:](http://9gag.com/gag/aPgdPOn)
  - 😝 [No more serious relationship](http://9gag.com/gag/amAbx8y)
- - 👉 [I will be a Billionaire now](http://9gag.com/gag/az2DOwK)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aoKqRMn)
+ - 💣 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 </div>

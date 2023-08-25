@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Tencent Music, Cloud Music, and more scrap their virtual lucky draws and other features at a hefty cost, as China cracks down on online gambling &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230825/p4#a230825p4)
+ - [Apple&#39;s Beats signs 15 college athletes to endorsement deals](https://appleinsider.com/articles/23/08/25/apples-beats-signs-15-college-athletes-to-endorsement-deals?utm_medium=rss)
  - [The Battle Against the Fungal Apocalypse Is Just Beginning](https://www.wired.com/story/the-battle-against-the-fungal-apocalypse-is-just-beginning/)
  - [Sony Xperia 5 V: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/sony-xperia-5-v-3351427/)
- - [Sony will launch the Xperia 5 V on this date come September](https://www.androidauthority.com/sony-xperia-5-v-launch-date-3358018/)
- - [Indian instant grocery startup Zepto raised a $200M Series E led by StepStone at a $1.4B valuation, taking its funding to $560M, India&#39;s first unicorn of 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230825/p3#a230825p3)
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)<!-- TECH:END -->
+ - [Sony will launch the Xperia 5 V on this date come September](https://www.androidauthority.com/sony-xperia-5-v-launch-date-3358018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

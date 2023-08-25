@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart files for a US IPO, set for September; the company was valued at $39B in 2021 but has repeatedly reset its valuation, most recently to a reported $13B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
+ - [Microsoft Office Pro for just $34.97 is the ultimate back-to-school deal](https://www.androidauthority.com/microsoft-office-pro-deal-3358204/)
+ - [Instacart files for a US IPO set for September; after being valued at $39B in 2021, the company repeatedly cut its valuation, reportedly to $13B in October 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230825/p15#a230825p15)
  - [WhatsApp finally rolling out support for HD video today to Android and iOS](https://www.androidauthority.com/whatsapp-hd-video-3358221/)
- - [How Meta and YouTube, battered by content moderation battles, are following X in receding from fighting political misinformation, raising US 2024 election fears &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)
- - [Chrome’s reading mode might read articles out loud](https://www.theverge.com/2023/8/25/23845986/google-chrome-reading-mode-speak-articles-out-loud)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
+ - [How Meta and YouTube, battered by content moderation fights, are following X in retreating from policing political misinfo, raising US 2024 election fears &lpar;Washington Post&rpar;](http://www.techmeme.com/230825/p14#a230825p14)
+ - [Chrome’s reading mode might read articles out loud](https://www.theverge.com/2023/8/25/23845986/google-chrome-reading-mode-speak-articles-out-loud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

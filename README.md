@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maui County says Hawaiian Electric caused deadly blazes in new lawsuit](https://www.theverge.com/2023/8/25/23845581/maui-county-hawaiian-electric-utility-lawsuit-fire)
+ - [I got so fed up with the Pixel 7 Pro’s Face Unlock that I disabled it](https://www.androidauthority.com/pixel-face-unlock-opinion-3355850/)
+ - [Can news outlets build a ‘trustworthy’ AI chatbot?](https://www.theverge.com/2023/8/25/23844868/ai-chatbot-macworld-pcworld-journalism-smart-answers)
  - [NYC-based digital lender Better.com closed down 94% in its Nasdaq debut on Thursday after a SPAC merger &lpar;David Jeans/Forbes&rpar;](http://www.techmeme.com/230825/p9#a230825p9)
- - [How to use the new Spotlight in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spotlight-in-ios-17?utm_medium=rss)
- - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
- - [AI Can’t Read Books. It’s Reviewing Them Anyway](https://www.wired.com/story/plaintext-ai-chatgpt-book-reviews/)
- - [How to Cool an Object Without Using Any Energy](https://www.wired.com/story/how-to-cool-an-object-without-using-any-energy/)<!-- TECH:END -->
+ - [How to use the new Spotlight in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-spotlight-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

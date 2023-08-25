@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
- - 😝 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
- - 💣 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
- - 😝 [That smile](http://9gag.com/gag/ajVMOpg)
- - 👉 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 😝 [Leader of El Salvador Nayib Bukele `The Coolest Dictator`, has put over 70,000 gang members in jail and cut the country&#39;s murder rate by 92%. More in comments](http://9gag.com/gag/aL1N1pg)
+ - 😝 [Male Privilege](http://9gag.com/gag/a9qNv4W)
+ - 💣 [Wtf Popular Science?](http://9gag.com/gag/agoZQ6q)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 👉 [Straight out of the oven](http://9gag.com/gag/amAboK9)<!-- MEMES:END -->
 
 ---
 </div>

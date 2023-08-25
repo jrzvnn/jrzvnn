@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cricket now offers the ability to pay for multiple months and earn big discounts](https://www.androidauthority.com/cricket-wireless-pay-in-advance-3358140/)
  - [Sources: Swiggy, which was valued at $10.7B in 2022, is considering an IPO in 2024, after putting the plans on hold earlier due to market conditions &lpar;M. Sriram/Reuters&rpar;](http://www.techmeme.com/230825/p11#a230825p11)
  - [Why note-taking apps don’t make us smarter](https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian)
  - [All colors of the Beats Studio Buds Plus are $40 off &lpar;including the clear ones&rpar;](https://www.theverge.com/2023/8/25/23845572/beats-studio-buds-plus-samsung-990pro-ssd-nintendo-switch-oled-deal-sale)
- - [What the iPhone 15 Pro in gray titanium could look like](https://appleinsider.com/articles/23/08/25/what-the-iphone-15-pro-in-gray-titanium-could-look-like?utm_medium=rss)
- - [Daily deals Aug. 25: Samsung Fold &amp; Flip 5 up to $1,000 off, MagSafe Battery Pack $84, iPhones from $120, more](https://appleinsider.com/articles/23/08/25/daily-deals-aug-25-samsung-fold-flip-5-up-to-1000-off-magsafe-battery-pack-84-iphones-from-120-more?utm_medium=rss)<!-- TECH:END -->
+ - [What the iPhone 15 Pro in gray titanium could look like](https://appleinsider.com/articles/23/08/25/what-the-iphone-15-pro-in-gray-titanium-could-look-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

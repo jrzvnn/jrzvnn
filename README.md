@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 😝 [Assistant to Chinese President Xi Jinping was mistakenly pinned down by security guards at the BRICS summit. Video of the incident is circulating online](http://9gag.com/gag/armryq6)
- - 💣 [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [Welp, it&#39;s materialistic life .](http://9gag.com/gag/amAbGVo)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 💣 [Must be high on meth](http://9gag.com/gag/adP4O2j)
  - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
  - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 

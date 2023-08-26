@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-498-3357895/)
  - [How to disable animated cover art in Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music?utm_medium=rss)
  - [Samsung Galaxy Tab S9 Plus review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-review-3356735/)
- - [The last-gen Blink Outdoor security camera is half off today](https://www.theverge.com/2023/8/26/23845684/third-gen-blink-outdoor-xbox-series-x-beats-studio-pro-bose-soundlink-flex-deal-sale)
- - [Making Diablo II Was Pure Hell](https://www.wired.com/2021/08/geeks-guide-david-l-craddock/)<!-- TECH:END -->
+ - [Usyk vs. Dubois Livestream: When It Starts and How to Watch Heavyweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/usyk-vs-dubois-livestream-when-it-starts-and-how-to-watch-heavyweight-boxing-fight/#ftag=CAD590a51e)
+ - [The last-gen Blink Outdoor security camera is half off today](https://www.theverge.com/2023/8/26/23845684/third-gen-blink-outdoor-xbox-series-x-beats-studio-pro-bose-soundlink-flex-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
+ - 😝 [Poland with their `zero`. People are chilling listening Chopin concert for free. The concert takes place in peace for a whole summer till end of September in every sunday.](http://9gag.com/gag/a2KjLdD)
+ - 😝 [2000&#39;s.](http://9gag.com/gag/anzWDoq)
+ - 💣 [Words of wisdom](http://9gag.com/gag/a1PqOAb)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a2KjOZZ)<!-- MEMES:END -->
 
 ---
 </div>

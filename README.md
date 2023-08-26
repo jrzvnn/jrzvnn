@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 😝 [Gender reveal](http://9gag.com/gag/aQEN74e)
+ - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
+ - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
 
 ---
 </div>

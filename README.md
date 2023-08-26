@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender reveal](http://9gag.com/gag/aQEN74e)
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 💣 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
+ - 💣 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)<!-- MEMES:END -->
+ - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
 
 ---
 </div>

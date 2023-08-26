@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey Google and Samsung, why can’t I rent a Fold to test it out?](https://www.androidauthority.com/google-samsung-rent-pixel-fold-galazy-z-fold-5-3357511/)
- - [Welcome to the Republic of Cows](https://www.wired.com/story/welcome-to-the-republic-of-cows/)
- - [What’s the Matter with the smart home?](https://www.theverge.com/2023/8/26/23844529/smart-home-matter-ifa-2023-tech-show)
- - [These are all the new features Samsung has added to One UI over the years!](https://www.androidauthority.com/samsung-one-ui-feature-updates-3356225/)
- - [Elvie Stride Review &lpar;2023&rpar;: Elvie&#39;s Best Breast Pump](https://www.wired.com/review/elvie-stride/)<!-- TECH:END -->
+ - [What is TikTok Music? Features, pricing, availability and more](https://www.androidauthority.com/tiktok-music-3358284/)
+ - [12 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [This Tool Lets Hackers Dox Almost Anyone in the US](https://www.wired.com/story/credit-bureau-dox-americans-security-roundup/)
+ - [The Leaked Quest 3 Headset Video Teases Meta’s VR Ambitions](https://www.wired.com/story/meta-quest-3-headset-video-leak/)
+ - [Hey Google and Samsung, why can’t I rent a Fold to test it out?](https://www.androidauthority.com/google-samsung-rent-pixel-fold-galazy-z-fold-5-3357511/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

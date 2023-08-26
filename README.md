@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 😝 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)
- - 💣 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
 
 ---
 </div>

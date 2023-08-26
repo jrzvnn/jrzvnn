@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Apple TV+ production company is dodging bills in Finland](https://appleinsider.com/articles/23/08/26/an-apple-tv-production-company-is-dodging-bills-in-finland?utm_medium=rss)
  - [What is TikTok Music? Features, pricing, availability and more](https://www.androidauthority.com/tiktok-music-3358284/)
  - [12 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
  - [This Tool Lets Hackers Dox Almost Anyone in the US](https://www.wired.com/story/credit-bureau-dox-americans-security-roundup/)
- - [The Leaked Quest 3 Headset Video Teases Meta’s VR Ambitions](https://www.wired.com/story/meta-quest-3-headset-video-leak/)
- - [AI and You: No Copyright for Nonhuman Creations, AI &#39;Boss From Hell,&#39; Porn Deepfakes     - CNET](https://www.cnet.com/tech/computing/ai-and-you-no-copyright-for-nonhuman-creations-ai-boss-from-hell-porn-deepfakes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Leaked Quest 3 Headset Video Teases Meta’s VR Ambitions](https://www.wired.com/story/meta-quest-3-headset-video-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

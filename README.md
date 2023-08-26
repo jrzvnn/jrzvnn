@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Smallville, a virtual village populated by AI chatbots, built by Stanford and Google researchers to create a society with &quot;believable human behavior&quot; &lpar;Oliver Roeder/Financial Times&rpar;](http://www.techmeme.com/230826/p5#a230826p5)
  - [Daily deals Aug. 26: Apple TV 4K $115, MacBook Pro 14 $1,799, Office for Mac $34.97, more](https://appleinsider.com/articles/23/08/26/daily-deals-aug-26-apple-tv-4k-115-macbook-pro-14-1799-office-for-mac-3497-more?utm_medium=rss)
  - [Why is there no easy way to see battery health on Android?](https://www.androidauthority.com/check-android-battery-health-3356557/)
  - [An Apple TV+ production company is dodging bills in Finland](https://appleinsider.com/articles/23/08/26/an-apple-tv-production-company-is-dodging-bills-in-finland?utm_medium=rss)
- - [What is TikTok Music? Features, pricing, availability and more](https://www.androidauthority.com/tiktok-music-3358284/)
- - [The iPhone 15 May Embrace USB-C: What Apple&#39;s Move Means for You     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-may-embrace-usb-c-what-apples-move-means-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is TikTok Music? Features, pricing, availability and more](https://www.androidauthority.com/tiktok-music-3358284/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

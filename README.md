@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hackers breached WebDetetive, an Android spyware app used mainly in Brazil, and deleted data on its victims; Poland-based LetMeSpy was similarly hacked in June &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230826/p8#a230826p8)
  - [Meross Outdoor Dimmer Plug review: Further control your outdoor lights at a budget-friendly price](https://appleinsider.com/articles/23/08/26/meross-outdoor-dimmer-plug-review-further-control-your-outdoor-lights-at-a-budget-friendly-price?utm_medium=rss)
  - [NASA’s Crew-7 mission has launched four astronauts into orbit](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)
  - [How to disable animated cover art in Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music?utm_medium=rss)
- - [An Apple TV+ production company is dodging bills in Finland](https://appleinsider.com/articles/23/08/26/an-apple-tv-production-company-is-dodging-bills-in-finland?utm_medium=rss)
- - [Judge dismisses Republican lawsuit against Google over Gmail’s spam filtering](https://www.theverge.com/2023/8/26/23845050/judge-dismisses-republican-lawsuit-against-google-over-gmails-spam-filtering)<!-- TECH:END -->
+ - [An Apple TV+ production company is dodging bills in Finland](https://appleinsider.com/articles/23/08/26/an-apple-tv-production-company-is-dodging-bills-in-finland?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

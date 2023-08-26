@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [12 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
  - [This Tool Lets Hackers Dox Almost Anyone in the US](https://www.wired.com/story/credit-bureau-dox-americans-security-roundup/)
  - [The Leaked Quest 3 Headset Video Teases Meta’s VR Ambitions](https://www.wired.com/story/meta-quest-3-headset-video-leak/)
- - [Hey Google and Samsung, why can’t I rent a Fold to test it out?](https://www.androidauthority.com/google-samsung-rent-pixel-fold-galazy-z-fold-5-3357511/)<!-- TECH:END -->
+ - [AI and You: No Copyright for Nonhuman Creations, AI &#39;Boss From Hell,&#39; Porn Deepfakes     - CNET](https://www.cnet.com/tech/computing/ai-and-you-no-copyright-for-nonhuman-creations-ai-boss-from-hell-porn-deepfakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

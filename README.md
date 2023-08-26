@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
- - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
+ - 😝 [He is one of us](http://9gag.com/gag/a3Zp0g3)
+ - 😝 [This could&#39;ve ended worse](http://9gag.com/gag/a5XyznL)
+ - 💣 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
+ - 😝 [I will be a Billionaire now](http://9gag.com/gag/az2DOwK)
+ - 👉 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)<!-- MEMES:END -->
 
 ---
 </div>

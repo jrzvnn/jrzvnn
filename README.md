@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
- - 😝 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
- - 💣 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
+ - 👉 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)<!-- MEMES:END -->
 
 ---
 </div>

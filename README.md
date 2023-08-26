@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
  - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 💣 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
+ - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
 
 ---
 </div>

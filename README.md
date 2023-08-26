@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
  - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
- - 😝 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
 
 ---
 </div>

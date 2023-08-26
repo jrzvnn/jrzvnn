@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
- - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 💣 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 💣 [I would...](http://9gag.com/gag/abvmWBX)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
+ - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
 
 ---
 </div>

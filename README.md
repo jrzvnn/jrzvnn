@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
- - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 😝 [Good job](http://9gag.com/gag/az2DGrz)
+ - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
  - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
- - 💣 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
  - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 👉 [Hahaha](http://9gag.com/gag/a6q3B12)<!-- MEMES:END -->
+ - 😝 [Those who know Porta Potty....](http://9gag.com/gag/a4or6Nm)
+ - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
+ - 👉 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)<!-- MEMES:END -->
 
 ---
 </div>

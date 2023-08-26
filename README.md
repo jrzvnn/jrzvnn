@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well done sir](http://9gag.com/gag/a4orAxy)
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 💣 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
+ - 💣 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 👉 [Hahaha](http://9gag.com/gag/a6q3B12)<!-- MEMES:END -->
 
 ---
 </div>

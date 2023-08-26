@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
- - 😝 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
- - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
  - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 👉 [I would...](http://9gag.com/gag/abvmWBX)<!-- MEMES:END -->
+ - 💣 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
+ - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
 
 ---
 </div>

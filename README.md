@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the UK&#39;s new DARPA-inspired Advanced Research and Invention Agency &lpar;ARIA&rpar;, which has a four-year &amp;pound;800M budget to invest in breakthrough tech like AI &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230826/p7#a230826p7)
  - [Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
  - [WatchOS 10 killed my favorite Apple Watch features](https://www.androidauthority.com/watchos-10-apple-watch-3356776/)
  - [Linus Sebastian addresses error handling and ethics in a new video](https://www.theverge.com/2023/8/26/23846889/linus-tech-tips-gamersnexus-harassment-controversy-response)
- - [WordPress.com debuts a 100-year domain name registration for $38K, offering managed hosting and 24/7 customer service; domains are typically capped at 10 years &lpar;Roger Montti/Search Engine Journal&rpar;](http://www.techmeme.com/230826/p6#a230826p6)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-498-3357895/)<!-- TECH:END -->
+ - [WordPress.com debuts a 100-year domain name registration for $38K, offering managed hosting and 24/7 customer service; domains are typically capped at 10 years &lpar;Roger Montti/Search Engine Journal&rpar;](http://www.techmeme.com/230826/p6#a230826p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

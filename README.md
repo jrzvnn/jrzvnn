@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite cheating and misinformation fears, some US schools that once raced to block AI chatbot access are now encouraging teachers and students to use them &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230826/p4#a230826p4)
- - [OPPO Find X7 Pro: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
- - [A profile of New Jersey-based CoreWeave, which offers Nvidia GPUs in the cloud, is valued at ~$2B, and has 700 clients, including Microsoft and Inflection AI &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230826/p3#a230826p3)
- - [Nansen: ~90% of PYUSD is held in issuer Paxos Trust&#39;s wallets, indicating a &quot;lack of demand from crypto users&quot; for PayPal&#39;s stablecoin that launched on August 7 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230826/p2#a230826p2)
- - [X launches its job posting feature X Hiring in beta for verified organizations, allowing them to &quot;organically reach millions of relevant candidates&quot; &lpar;Joe Wituschek/BGR&rpar;](http://www.techmeme.com/230826/p1#a230826p1)<!-- TECH:END -->
+ - [These are all the new features Samsung has added to One UI over the years!](https://www.androidauthority.com/samsung-one-ui-feature-updates-3356225/)
+ - [Elvie Stride Review &lpar;2023&rpar;: Elvie&#39;s Best Breast Pump](https://www.wired.com/review/elvie-stride/)
+ - [The Best Sheets &lpar;2023&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
+ - [23 Best Early Labor Day Deals &lpar;2023&rpar;: Firepits, Grills, and Couches](https://www.wired.com/story/best-labor-day-deals-2023-1/)
+ - [Despite cheating and misinformation fears, some US schools that once raced to block AI chatbot access are now encouraging teachers and students to use them &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230826/p4#a230826p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

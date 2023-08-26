@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Tab S9 Plus review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-review-3356735/)
  - [The last-gen Blink Outdoor security camera is half off today](https://www.theverge.com/2023/8/26/23845684/third-gen-blink-outdoor-xbox-series-x-beats-studio-pro-bose-soundlink-flex-deal-sale)
  - [Making Diablo II Was Pure Hell](https://www.wired.com/2021/08/geeks-guide-david-l-craddock/)
  - [A look at Smallville, a virtual village populated by AI chatbots, built by Stanford and Google researchers to create a society with &quot;believable human behavior&quot; &lpar;Oliver Roeder/Financial Times&rpar;](http://www.techmeme.com/230826/p5#a230826p5)
- - [Daily deals Aug. 26: Apple TV 4K $115, MacBook Pro 14 $1,799, Office for Mac $34.97, more](https://appleinsider.com/articles/23/08/26/daily-deals-aug-26-apple-tv-4k-115-macbook-pro-14-1799-office-for-mac-3497-more?utm_medium=rss)
- - [Why is there no easy way to see battery health on Android?](https://www.androidauthority.com/check-android-battery-health-3356557/)<!-- TECH:END -->
+ - [Daily deals Aug. 26: Apple TV 4K $115, MacBook Pro 14 $1,799, Office for Mac $34.97, more](https://appleinsider.com/articles/23/08/26/daily-deals-aug-26-apple-tv-4k-115-macbook-pro-14-1799-office-for-mac-3497-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

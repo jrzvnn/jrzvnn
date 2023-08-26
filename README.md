@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube offers insights meant to guide Shorts creators, including how the Shorts algorithm differs from long-form YouTube&#39;s algorithm and what counts as a view &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230825/p23#a230825p23)
  - [Huawei and Ericsson renew a multiyear global patent cross-licensing deal for 5G and other technologies; Huawei owns 20% of global 5G patents &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/230825/p22#a230825p22)
  - [Cisco Talos: North Korea&#39;s Lazarus is using a new malware variant to target internet backbone infrastructure and healthcare entities in Europe and the US &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230825/p21#a230825p21)
  - [Best Surge Protector of 2023     - CNET](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
- - [Best Budget Laptop 2023     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
- - [FTX, Genesis, and BlockFi customer data is compromised after a SIM swap against an employee of Kroll, which manages creditor claims for the bankrupt companies &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230825/p20#a230825p20)<!-- TECH:END -->
+ - [Best Budget Laptop 2023     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

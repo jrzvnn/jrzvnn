@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WatchOS 10 killed my favorite Apple Watch features](https://www.androidauthority.com/watchos-10-apple-watch-3356776/)
  - [Linus Sebastian addresses error handling and ethics in a new video](https://www.theverge.com/2023/8/26/23846889/linus-tech-tips-gamersnexus-harassment-controversy-response)
  - [WordPress.com debuts a 100-year domain name registration for $38K, offering managed hosting and 24/7 customer service; domains are typically capped at 10 years &lpar;Roger Montti/Search Engine Journal&rpar;](http://www.techmeme.com/230826/p6#a230826p6)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-498-3357895/)
- - [How to disable animated cover art in Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music?utm_medium=rss)
- - [Samsung Galaxy Tab S9 Plus review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-review-3356735/)<!-- TECH:END -->
+ - [How to disable animated cover art in Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is one of us](http://9gag.com/gag/a3Zp0g3)
- - 😝 [This could&#39;ve ended worse](http://9gag.com/gag/a5XyznL)
- - 💣 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
- - 😝 [I will be a Billionaire now](http://9gag.com/gag/az2DOwK)
- - 👉 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)<!-- MEMES:END -->
+ - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 💣 [Gender reveal](http://9gag.com/gag/aQEN74e)
+ - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 👉 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)<!-- MEMES:END -->
 
 ---
 </div>

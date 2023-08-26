@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 💣 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
- - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
- - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
+ - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 💣 [Gender reveal](http://9gag.com/gag/aQEN74e)
+ - 😝 [You don&#39;t slap someone that killed the Terminator](http://9gag.com/gag/aXnGNvD)
+ - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
 
 ---
 </div>

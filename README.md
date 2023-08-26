@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some injuries heal very quick](http://9gag.com/gag/a3Zp8y1)
- - 😝 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
- - 💣 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 😝 [Christopher Hitchens on Islam](http://9gag.com/gag/avQXRjq)
+ - 😝 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)
+ - 💣 [A usefull info right there](http://9gag.com/gag/anzWrXB)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
+ - 👉 [See you tomorrow](http://9gag.com/gag/aA0NOPL)<!-- MEMES:END -->
 
 ---
 </div>

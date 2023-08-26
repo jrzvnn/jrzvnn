@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei and Ericsson renew a multiyear global patent cross-licensing deal for 5G and other technologies; Huawei owns 20% of global 5G patents &lpar;Eri Sugiura/Financial Times&rpar;](http://www.techmeme.com/230825/p22#a230825p22)
+ - [Cisco Talos: North Korea&#39;s Lazarus is using a new malware variant to target internet backbone infrastructure and healthcare entities in Europe and the US &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230825/p21#a230825p21)
+ - [Best Budget Laptop 2023     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
  - [FTX, Genesis, and BlockFi customer data is compromised after a SIM swap against an employee of Kroll, which manages creditor claims for the bankrupt companies &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230825/p20#a230825p20)
- - [Sources: EvolutionaryScale, founded by members of Meta AI&#39;s recently axed protein-folding team to build biological LLMs, raised a $40M seed at a $200M valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230825/p19#a230825p19)
- - [Your Smartwatch Band Might Be Covered in Harmful Bacteria. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/mobile/your-smartwatch-band-is-probably-covered-in-harmful-bacteria-heres-how-to-clean-it/#ftag=CAD590a51e)
- - [Save Big on Contact Lenses From Warby Parker, ContactsDirect and More     - CNET](https://www.cnet.com/deals/save-big-on-contact-lenses-from-warby-parker-contactsdirect-and-more/#ftag=CAD590a51e)
- - [Sources: a company spending $800M+ to buy thousands of acres to build a new Bay Area city is backed by Michael Moritz, Reid Hoffman, Marc Andreessen, and others &lpar;New York Times&rpar;](http://www.techmeme.com/230825/p18#a230825p18)<!-- TECH:END -->
+ - [Sources: EvolutionaryScale, founded by members of Meta AI&#39;s recently axed protein-folding team to build biological LLMs, raised a $40M seed at a $200M valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230825/p19#a230825p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

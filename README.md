@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christopher Hitchens on Islam](http://9gag.com/gag/avQXRjq)
- - 😝 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)
- - 💣 [A usefull info right there](http://9gag.com/gag/anzWrXB)
+ - 😝 [Words of wisdom](http://9gag.com/gag/a1PqOAb)
+ - 😝 [A usefull info right there](http://9gag.com/gag/anzWrXB)
+ - 💣 [See you tomorrow](http://9gag.com/gag/aA0NOPL)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [See you tomorrow](http://9gag.com/gag/aA0NOPL)<!-- MEMES:END -->
+ - 👉 [Poland with their `zero`. People are chilling listening Chopin concert for free. The concert takes place in peace for a whole summer till end of September in every sunday.](http://9gag.com/gag/a2KjLdD)<!-- MEMES:END -->
 
 ---
 </div>

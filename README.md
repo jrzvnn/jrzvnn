@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OPPO Find X7 Pro: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
  - [A profile of New Jersey-based CoreWeave, which offers Nvidia GPUs in the cloud, is valued at ~$2B, and has 700 clients, including Microsoft and Inflection AI &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230826/p3#a230826p3)
  - [Nansen: ~90% of PYUSD is held in issuer Paxos Trust&#39;s wallets, indicating a &quot;lack of demand from crypto users&quot; for PayPal&#39;s stablecoin that launched on August 7 &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230826/p2#a230826p2)
  - [X launches its job posting feature X Hiring in beta for verified organizations, allowing them to &quot;organically reach millions of relevant candidates&quot; &lpar;Joe Wituschek/BGR&rpar;](http://www.techmeme.com/230826/p1#a230826p1)
- - [Sources: Oracle employees reviewing TikTok&#39;s source code sit at desks beneath cameras controlled by TikTok, a requirement that came from the Chinese government &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230825/p24#a230825p24)
- - [YouTube offers insights meant to guide Shorts creators, including how the Shorts algorithm differs from long-form YouTube&#39;s algorithm and what counts as a view &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230825/p23#a230825p23)<!-- TECH:END -->
+ - [Sources: Oracle employees reviewing TikTok&#39;s source code sit at desks beneath cameras controlled by TikTok, a requirement that came from the Chinese government &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/230825/p24#a230825p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

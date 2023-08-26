@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [No more serious relationship](http://9gag.com/gag/amAbx8y)
+ - 😝 [A usefull info right there](http://9gag.com/gag/anzWrXB)
  - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
+ - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
 
 ---
 </div>

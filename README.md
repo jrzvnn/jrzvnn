@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
- - 😝 [Gender reveal](http://9gag.com/gag/aQEN74e)
- - 💣 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [In 2019 she weighed 63 kg. Then lockdown in 2020 got her up to 68 kg. Then in 2021 she got pregnant with twins and went up to 95 kg. Now she&#39;s down to 72 kg](http://9gag.com/gag/aQEN27z)
+ - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 💣 [A promising one](http://9gag.com/gag/aDYN8ew)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 </div>

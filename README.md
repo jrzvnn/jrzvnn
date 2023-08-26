@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
  - 😝 [Gender reveal](http://9gag.com/gag/aQEN74e)
- - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 💣 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 👉 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)<!-- MEMES:END -->
 
 ---
 </div>

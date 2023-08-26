@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
- - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 💣 [Let\u2019s be honest. The main reason to rewatch Jack Reacher is this\u2026](http://9gag.com/gag/aKENvLQ)
+ - 😝 [The unbelievable difference 14 wolves can make...](http://9gag.com/gag/a3Zp24v)
+ - 😝 [Go meat-eaters](http://9gag.com/gag/a8qXK1O)
+ - 💣 [See you tomorrow](http://9gag.com/gag/aA0NOPL)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
+ - 👉 [Christopher Hitchens on Islam](http://9gag.com/gag/avQXRjq)<!-- MEMES:END -->
 
 ---
 </div>

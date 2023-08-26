@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
- - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
- - 💣 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 😝 [No more serious relationship](http://9gag.com/gag/amAbx8y)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 😝 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)
+ - 😝 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 👉 [I would...](http://9gag.com/gag/abvmWBX)<!-- MEMES:END -->
 
 ---
 </div>

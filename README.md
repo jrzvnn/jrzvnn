@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
  - 😝 [Good job](http://9gag.com/gag/az2DGrz)
- - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 💣 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
+ - 👉 [Funny coz](http://9gag.com/gag/aZDVQB9)<!-- MEMES:END -->
 
 ---
 </div>

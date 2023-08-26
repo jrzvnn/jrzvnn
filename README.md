@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would...](http://9gag.com/gag/abvmWBX)
  - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
- - 💣 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 💣 [Let\u2019s be honest. The main reason to rewatch Jack Reacher is this\u2026](http://9gag.com/gag/aKENvLQ)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
+ - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
 
 ---
 </div>

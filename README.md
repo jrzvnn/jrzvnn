@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
- - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 💣 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
+ - 😝 [This scene hit harder after gotg3](http://9gag.com/gag/aWGNbv4)
+ - 😝 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)
+ - 💣 [I will be a Billionaire now](http://9gag.com/gag/az2DOwK)
+ - 😝 [Next level woodworking](http://9gag.com/gag/aA0NMqo)
+ - 👉 [Portuguese president was in Ukraine for the past few days and Zelensky didn&#39;t want to shake his hand. Wondering why](http://9gag.com/gag/abvmxjE)<!-- MEMES:END -->
 
 ---
 </div>

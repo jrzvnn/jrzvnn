@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The unbelievable difference 14 wolves can make...](http://9gag.com/gag/a3Zp24v)
- - 😝 [Go meat-eaters](http://9gag.com/gag/a8qXK1O)
- - 💣 [See you tomorrow](http://9gag.com/gag/aA0NOPL)
+ - 😝 [I would...](http://9gag.com/gag/abvmWBX)
+ - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
+ - 💣 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Christopher Hitchens on Islam](http://9gag.com/gag/avQXRjq)<!-- MEMES:END -->
+ - 👉 [A promising one](http://9gag.com/gag/aDYN8ew)<!-- MEMES:END -->
 
 ---
 </div>

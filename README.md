@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
+ - 😝 [Well done sir](http://9gag.com/gag/a4orAxy)
  - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 💣 [Gender reveal](http://9gag.com/gag/aQEN74e)
- - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 👉 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)<!-- MEMES:END -->
+ - 💣 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
 
 ---
 </div>

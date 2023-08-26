@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
- - 😝 [Title](http://9gag.com/gag/aoKqRMn)
- - 💣 [Gender reveal](http://9gag.com/gag/aQEN74e)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 😝 [No more serious relationship](http://9gag.com/gag/amAbx8y)
+ - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)<!-- MEMES:END -->
+ - 👉 [Gender reveal](http://9gag.com/gag/aQEN74e)<!-- MEMES:END -->
 
 ---
 </div>

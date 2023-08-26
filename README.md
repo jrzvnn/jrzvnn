@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Words of wisdom](http://9gag.com/gag/a1PqOAb)
- - 😝 [A usefull info right there](http://9gag.com/gag/anzWrXB)
- - 💣 [See you tomorrow](http://9gag.com/gag/aA0NOPL)
+ - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 😝 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
+ - 💣 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Poland with their `zero`. People are chilling listening Chopin concert for free. The concert takes place in peace for a whole summer till end of September in every sunday.](http://9gag.com/gag/a2KjLdD)<!-- MEMES:END -->
+ - 👉 [Funny coz](http://9gag.com/gag/aZDVQB9)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [A usefull info right there](http://9gag.com/gag/anzWrXB)
- - 💣 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 😝 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
+ - 💣 [A promising one](http://9gag.com/gag/aDYN8ew)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
+ - 👉 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)<!-- MEMES:END -->
 
 ---
 </div>

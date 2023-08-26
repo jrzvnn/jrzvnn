@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 😝 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
- - 💣 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
+ - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
+ - 😝 [It took her time, but she&#39;s getting it now](http://9gag.com/gag/az2DGBq)
+ - 💣 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Funny coz](http://9gag.com/gag/aZDVQB9)<!-- MEMES:END -->
+ - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
 
 ---
 </div>

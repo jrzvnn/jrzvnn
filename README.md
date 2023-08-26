@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Perfect answer in the world](http://9gag.com/gag/aNw2v73)
  - 😝 [Yes, Black men can jump!](http://9gag.com/gag/agoZ7Qg)
- - 💣 [American and their coupon after squeezing welfare money](http://9gag.com/gag/axon6yM)
- - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
- - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
+ - 😝 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)
+ - 💣 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
+ - 😝 [Hang in there duuude!](http://9gag.com/gag/a3ZpA0Q)
+ - 👉 [No more serious relationship](http://9gag.com/gag/amAbx8y)<!-- MEMES:END -->
 
 ---
 </div>

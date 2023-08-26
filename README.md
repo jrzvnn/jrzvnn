@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to disable animated cover art in Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music?utm_medium=rss)
  - [An Apple TV+ production company is dodging bills in Finland](https://appleinsider.com/articles/23/08/26/an-apple-tv-production-company-is-dodging-bills-in-finland?utm_medium=rss)
  - [Judge dismisses Republican lawsuit against Google over Gmail’s spam filtering](https://www.theverge.com/2023/8/26/23845050/judge-dismisses-republican-lawsuit-against-google-over-gmails-spam-filtering)
  - [A look at the UK&#39;s new DARPA-inspired Advanced Research and Invention Agency &lpar;ARIA&rpar;, which has a four-year &amp;pound;800M budget to invest in breakthrough tech like AI &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230826/p7#a230826p7)
- - [Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)
- - [WatchOS 10 killed my favorite Apple Watch features](https://www.androidauthority.com/watchos-10-apple-watch-3356776/)<!-- TECH:END -->
+ - [CVS Joins Race to Sell Cheaper, &#39;Biosimilar&#39; Drugs     - CNET](https://www.cnet.com/health/medical/cvs-joins-race-to-sell-cheaper-biosimilar-drugs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

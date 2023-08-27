@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 💣 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
+ - 😝 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
+ - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
+ - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
+ - 👉 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)<!-- MEMES:END -->
 
 ---
 </div>

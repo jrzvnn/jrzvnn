@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yearly Croissant harvest in France](http://9gag.com/gag/aOxNGG2)
- - 😝 [Title](http://9gag.com/gag/a2KjOZZ)
- - 💣 [Meanwhile](http://9gag.com/gag/a8qXz1p)
- - 😝 [Go meat-eaters](http://9gag.com/gag/a8qXK1O)
- - 👉 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)<!-- MEMES:END -->
+ - 😝 [*regulated screeching*](http://9gag.com/gag/a3Zpn8r)
+ - 😝 [Change of plans](http://9gag.com/gag/ay2VPQp)
+ - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
 
 ---
 </div>

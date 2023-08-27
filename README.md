@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 5-Quart Insignia Air Fryer Is Currently Half Off at Best Buy     - CNET](https://www.cnet.com/deals/this-5-quart-insignia-air-fryer-is-currently-half-off-at-best-buy/#ftag=CAD590a51e)
+ - [Daily deals Aug. 27: $200 off 15&quot; MacBook Air, up to $650 off Samsung Tab S9, Google Home for $75, more](https://appleinsider.com/articles/23/08/27/daily-deals-aug-27-200-off-15-macbook-air-up-to-650-off-samsung-tab-s9-google-home-for-75-more?utm_medium=rss)
  - [Sources: Apple&#39;s new iPad Pro, due in 2024, will get its first major overhaul since 2018, including an M3 chip, OLED displays, and a revamped Magic Keyboard &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230827/p4#a230827p4)
  - [I tried a PopSocket for the first time and once I popped, I couldn’t stop](https://www.androidauthority.com/popsocket-magsafe-3356131/)
  - [Amazon Has Knocked Over $120 Off One of Our Favorite Bluetooth Boomboxes     - CNET](https://www.cnet.com/deals/get-60-off-the-excellent-tribit-stormbox-blast-boom-box-speaker/#ftag=CAD590a51e)

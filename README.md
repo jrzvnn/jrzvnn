@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple&#39;s new iPad Pro, due in 2024, will get its first major overhaul since 2018, including an M3 chip, OLED displays, and a revamped Magic Keyboard &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230827/p4#a230827p4)
  - [I tried a PopSocket for the first time and once I popped, I couldn’t stop](https://www.androidauthority.com/popsocket-magsafe-3356131/)
  - [Amazon Has Knocked Over $120 Off One of Our Favorite Bluetooth Boomboxes     - CNET](https://www.cnet.com/deals/get-60-off-the-excellent-tribit-stormbox-blast-boom-box-speaker/#ftag=CAD590a51e)
  - [Premier League Soccer Livestream: How to Watch Newcastle vs. Liverpool From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-newcastle-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
- - [M3 MacBook Air &amp; MacBook Pro may not debut until October](https://appleinsider.com/articles/23/08/27/m3-macbook-air-macbook-pro-may-not-debut-until-october?utm_medium=rss)
- - [ASUS reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)<!-- TECH:END -->
+ - [M3 MacBook Air &amp; MacBook Pro may not debut until October](https://appleinsider.com/articles/23/08/27/m3-macbook-air-macbook-pro-may-not-debut-until-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

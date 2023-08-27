@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your theory fails to meet reality](http://9gag.com/gag/aEqNZNx)
- - 😝 [Just let me see them](http://9gag.com/gag/aVb1RDP)
- - 💣 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
+ - 😝 [Funny coz](http://9gag.com/gag/aZDVQB9)
+ - 😝 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
+ - 💣 [Nerds are god warriors with these stats: hp: 99999, mp: 9999, str: 255, dex: 255, int: over 9000, spd: 69, spt: 420, lck: 100, crit ch: 100%, crit dmg: infinity x2, dmg&amp;mdmg absorbtion 100%](http://9gag.com/gag/ay2VvNr)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Riding blind](http://9gag.com/gag/avQXdYb)<!-- MEMES:END -->
+ - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
 
 ---
 </div>

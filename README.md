@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change of plans](http://9gag.com/gag/ay2VPQp)
- - 😝 [Let&#39;s Goooo](http://9gag.com/gag/a4orVOd)
- - 💣 [Yearly Croissant harvest in France](http://9gag.com/gag/aOxNGG2)
- - 😝 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
+ - 💣 [Goofing around](http://9gag.com/gag/aA0NO3g)
+ - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
  - 👉 [When science inconveniences politics](http://9gag.com/gag/avQXmOq)<!-- MEMES:END -->
 
 ---

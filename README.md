@@ -159,7 +159,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Words of wisdom](http://9gag.com/gag/a1PqOAb)
  - 💣 [How dog breeds react to robbers](http://9gag.com/gag/awZGeKy)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [I hope Trump wins](http://9gag.com/gag/aRENRXy)<!-- MEMES:END -->
+ - 👉 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)<!-- MEMES:END -->
 
 ---
 </div>

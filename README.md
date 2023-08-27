@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free ride](http://9gag.com/gag/a3ZpNze)
- - 😝 [They remind me of Ken dolls](http://9gag.com/gag/ap9jV8B)
- - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
- - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
+ - 😝 [How dog breeds react to robbers](http://9gag.com/gag/awZGeKy)
+ - 😝 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)
+ - 💣 [What&#39;s your take on this?](http://9gag.com/gag/aeQPRgp)
+ - 😝 [I hope Trump wins](http://9gag.com/gag/aRENRXy)
+ - 👉 [Meanwhile](http://9gag.com/gag/a8qXz1p)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Breast Pumps &lpar;2023&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
+ - [Struggling to Schedule Video Calls? Here’s How to Have an Asynchronous One](https://www.wired.com/story/zoom-asynchronous-video-calls-clips/)
+ - [The Low-Stakes Race to Crack an Encrypted German U-Boat Message](https://www.wired.com/story/maritime-radio-historical-society-crypto-event-enigma/)
  - [Formula 1 Racing 2023: How to Watch and Livestream the Dutch GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-dutch-gp-today/#ftag=CAD590a51e)
- - [Stephen King reflects on his books being used for AI training, arguing the sum is lesser than its parts, so far, as creativity can&#39;t happen without sentience &lpar;Stephen King/The Atlantic&rpar;](http://www.techmeme.com/230827/p2#a230827p2)
- - [A Pepe memecoin team member says three ex-colleagues stole about 16T Pepe tokens worth $15M from the project&#39;s multisig before selling them on crypto exchanges &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230827/p1#a230827p1)
- - [Linus Tech Tips founder Linus Sebastian addresses errors and ethics but not sexual harassment claims, responding to accusations that prompted a production pause &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230826/p9#a230826p9)
- - [Hackers breached WebDetetive, an Android spyware app used mainly in Brazil, and deleted data on its victims; Poland-based LetMeSpy was similarly hacked in June &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230826/p8#a230826p8)<!-- TECH:END -->
+ - [Stephen King reflects on his books being used for AI training, arguing the sum is lesser than its parts, so far, as creativity can&#39;t happen without sentience &lpar;Stephen King/The Atlantic&rpar;](http://www.techmeme.com/230827/p2#a230827p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

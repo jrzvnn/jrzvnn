@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA’s Crew-7 mission launched four astronauts to the ISS](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)
  - [How to install Apple&#39;s Game Porting Toolkit via a third-party installer](https://appleinsider.com/inside/macos-sonoma/tips/how-to-install-apples-game-porting-toolkit-via-a-third-party-installer?utm_medium=rss)
  - [The iPad Pro could get bigger screens and OLED next year, but it should do more](https://www.theverge.com/2023/8/27/23847743/ipad-pro-oled-m3-13-inch-magic-keyboard-bigger-trackpad)
  - [A look at the ethical and legal issues around generative AI, as it makes practical at a massive scale things that were previously only possible on a small scale &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230827/p5#a230827p5)
- - [Fitbit&#39;s Most Advanced Smartwatch Is Over $70 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/optimize-your-workouts-this-summer-with-a-discounted-fitbit-sense-2-for-229/#ftag=CAD590a51e)
- - [Save $15 on an Echo Pop Smart Speaker and Get a Free Smart Bulb Too     - CNET](https://www.cnet.com/deals/save-15-on-an-echo-pop-smart-speaker-and-get-a-free-smart-bulb-too/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitbit&#39;s Most Advanced Smartwatch Is Over $70 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/optimize-your-workouts-this-summer-with-a-discounted-fitbit-sense-2-for-229/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

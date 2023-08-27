@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
  - 😝 [They remind me of Ken dolls](http://9gag.com/gag/ap9jV8B)
- - 💣 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
+ - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)<!-- MEMES:END -->
+ - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
 
 ---
 </div>

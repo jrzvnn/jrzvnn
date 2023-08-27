@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free ride](http://9gag.com/gag/a3ZpNze)
- - 😝 [When science inconveniences politics](http://9gag.com/gag/avQXmOq)
- - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 😝 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
- - 👉 [Goofing around](http://9gag.com/gag/aA0NO3g)<!-- MEMES:END -->
+ - 😝 [What&#39;s your take on this?](http://9gag.com/gag/aeQPRgp)
+ - 😝 [I hope Trump wins](http://9gag.com/gag/aRENRXy)
+ - 💣 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)
+ - 😝 [Title](http://9gag.com/gag/a2KjOZZ)
+ - 👉 [Go meat-eaters](http://9gag.com/gag/a8qXK1O)<!-- MEMES:END -->
 
 ---
 </div>

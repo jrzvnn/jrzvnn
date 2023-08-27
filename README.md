@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Does the larger display on the Galaxy Watch 6 improve the experience?](https://www.androidauthority.com/does-the-larger-display-on-the-galaxy-watch-6-improve-the-experience-3357928/)
+ - [Using Solar-Powered AI Sensors to Detect Wildfires Earlier     - CNET](https://www.cnet.com/science/climate/using-solar-powered-ai-sensors-to-detect-wildfires-earlier/#ftag=CAD590a51e)
+ - [Are Foldable Phones Really the Future? My Trip to Samsung&#39;s Home Turf Gave Me a Glimpse     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)
  - [Is It Real or Imagined? Here’s How Your Brain Tells the Difference](https://www.wired.com/story/is-it-real-or-imagined-heres-how-your-brain-tells-the-difference/)
- - [5 Best Digital Photo Frames &lpar;2023&rpar;: High Res and Natural Screens, Plus Privacy Tips](https://www.wired.com/gallery/best-digital-picture-frames/)
- - [Threads for web, AI for bookmarks, and the best new car tech](https://www.theverge.com/23845815/threads-web-fabric-car-tech-installer-newsletter)
- - [Crime blotter: Chaos near Apple Store in London](https://appleinsider.com/articles/23/08/27/crime-blotter-chaos-near-apple-store-in-london?utm_medium=rss)<!-- TECH:END -->
+ - [5 Best Digital Photo Frames &lpar;2023&rpar;: High Res and Natural Screens, Plus Privacy Tips](https://www.wired.com/gallery/best-digital-picture-frames/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

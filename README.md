@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 💣 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
- - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
- - 👉 [Goofing around](http://9gag.com/gag/aA0NO3g)<!-- MEMES:END -->
+ - 😝 [Yearly Croissant harvest in France](http://9gag.com/gag/aOxNGG2)
+ - 😝 [Title](http://9gag.com/gag/a2KjOZZ)
+ - 💣 [Meanwhile](http://9gag.com/gag/a8qXz1p)
+ - 😝 [Go meat-eaters](http://9gag.com/gag/a8qXK1O)
+ - 👉 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)<!-- MEMES:END -->
 
 ---
 </div>

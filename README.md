@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yearly Croissant harvest in France](http://9gag.com/gag/aOxNGG2)
- - 😝 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)
- - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
- - 😝 [Let&#39;s Goooo](http://9gag.com/gag/a4orVOd)
- - 👉 [When science inconveniences politics](http://9gag.com/gag/avQXmOq)<!-- MEMES:END -->
+ - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 💣 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
+ - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
+ - 👉 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)
- - 😝 [Just let me see them](http://9gag.com/gag/aVb1RDP)
- - 💣 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
+ - 😝 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)
+ - 😝 [Breakfast in Romania \ud83c\uddf7\ud83c\uddf4 all natural and homemade](http://9gag.com/gag/a04WOLQ)
+ - 💣 [2000&#39;s.](http://9gag.com/gag/anzWDoq)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Nerds are god warriors with these stats: hp: 99999, mp: 9999, str: 255, dex: 255, int: over 9000, spd: 69, spt: 420, lck: 100, crit ch: 100%, crit dmg: infinity x2, dmg&amp;mdmg absorbtion 100%](http://9gag.com/gag/ay2VvNr)<!-- MEMES:END -->
+ - 👉 [Words of wisdom](http://9gag.com/gag/a1PqOAb)<!-- MEMES:END -->
 
 ---
 </div>

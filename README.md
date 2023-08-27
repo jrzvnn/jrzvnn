@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The `change my mind` in real life be like..](http://9gag.com/gag/aWGN2PK)
- - 😝 [Words of wisdom](http://9gag.com/gag/a1PqOAb)
- - 💣 [How dog breeds react to robbers](http://9gag.com/gag/awZGeKy)
+ - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
+ - 😝 [Nerds are god warriors with these stats: hp: 99999, mp: 9999, str: 255, dex: 255, int: over 9000, spd: 69, spt: 420, lck: 100, crit ch: 100%, crit dmg: infinity x2, dmg&amp;mdmg absorbtion 100%](http://9gag.com/gag/ay2VvNr)
+ - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)<!-- MEMES:END -->
+ - 👉 [Hahaha](http://9gag.com/gag/a6q3B12)<!-- MEMES:END -->
 
 ---
 </div>

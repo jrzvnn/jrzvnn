@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
- - 😝 [Hahaha](http://9gag.com/gag/a6q3B12)
- - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 😝 [They remind me of Ken dolls](http://9gag.com/gag/ap9jV8B)
+ - 💣 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [The innocent curiosity of a child. I wish someone had lifted the tail for him](http://9gag.com/gag/axonOm2)<!-- MEMES:END -->
+ - 👉 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)<!-- MEMES:END -->
 
 ---
 </div>

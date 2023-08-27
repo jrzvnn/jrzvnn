@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazilian Last Samurai](http://9gag.com/gag/aXnGWyV)
- - 😝 [Breakfast in Romania \ud83c\uddf7\ud83c\uddf4 all natural and homemade](http://9gag.com/gag/a04WOLQ)
- - 💣 [2000&#39;s.](http://9gag.com/gag/anzWDoq)
+ - 😝 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
+ - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 💣 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Words of wisdom](http://9gag.com/gag/a1PqOAb)<!-- MEMES:END -->
+ - 👉 [Golden throwback nr\u00b0 16... who has the original story behind this?](http://9gag.com/gag/aeQP74b)<!-- MEMES:END -->
 
 ---
 </div>

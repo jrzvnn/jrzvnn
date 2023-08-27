@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPad Pro could get bigger screens and OLED next year, but it should do more](https://www.theverge.com/2023/8/27/23847743/ipad-pro-oled-m3-13-inch-magic-keyboard-bigger-trackpad)
  - [A look at the ethical and legal issues around generative AI, as it makes practical at a massive scale things that were previously only possible on a small scale &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230827/p5#a230827p5)
  - [Fitbit&#39;s Most Advanced Smartwatch Is Over $70 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/optimize-your-workouts-this-summer-with-a-discounted-fitbit-sense-2-for-229/#ftag=CAD590a51e)
  - [Save $15 on an Echo Pop Smart Speaker and Get a Free Smart Bulb Too     - CNET](https://www.cnet.com/deals/save-15-on-an-echo-pop-smart-speaker-and-get-a-free-smart-bulb-too/#ftag=CAD590a51e)
- - [The Cheap Radio Hack That Disrupted Poland&#39;s Railway System](https://www.wired.com/story/poland-train-radio-stop-attack/)
- - [iPad Pro Overhaul Reportedly to Include OLED Display, Revamped Magic Keyboard     - CNET](https://www.cnet.com/tech/mobile/ipad-pro-overhaul-reportedly-to-include-oled-display-revamped-magic-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Cheap Radio Hack That Disrupted Poland&#39;s Railway System](https://www.wired.com/story/poland-train-radio-stop-attack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

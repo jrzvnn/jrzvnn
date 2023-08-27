@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
  - 😝 [Free ride](http://9gag.com/gag/a3ZpNze)
- - 💣 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 👉 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)<!-- MEMES:END -->
+ - 😝 [When science inconveniences politics](http://9gag.com/gag/avQXmOq)
+ - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 😝 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
+ - 👉 [Goofing around](http://9gag.com/gag/aA0NO3g)<!-- MEMES:END -->
 
 ---
 </div>

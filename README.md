@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
  - 😝 [Chemistry PHD student in Florida charged for injecting chemical agent under upstairs neighbor&#39;s door](http://9gag.com/gag/az2DYZN)
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 💣 [What do you expect them to do](http://9gag.com/gag/a8qXK01)
+ - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Golden throwback nr\u00b0 16... who has the original story behind this?](http://9gag.com/gag/aeQP74b)<!-- MEMES:END -->
+ - 👉 [She was so beautiful!!](http://9gag.com/gag/awZGLdy)<!-- MEMES:END -->
 
 ---
 </div>

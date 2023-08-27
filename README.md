@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Chaos near Apple Store in London](https://appleinsider.com/articles/23/08/27/crime-blotter-chaos-near-apple-store-in-london?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Sheffield United vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-sheffield-united-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [7 Best Breast Pumps &lpar;2023&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
- - [Struggling to Schedule Video Calls? Here’s How to Have an Asynchronous One](https://www.wired.com/story/zoom-asynchronous-video-calls-clips/)
- - [The Low-Stakes Race to Crack an Encrypted German U-Boat Message](https://www.wired.com/story/maritime-radio-historical-society-crypto-event-enigma/)<!-- TECH:END -->
+ - [Does the larger display on the Galaxy Watch 6 improve the experience?](https://www.androidauthority.com/does-the-larger-display-on-the-galaxy-watch-6-improve-the-experience-3357928/)
+ - [Is It Real or Imagined? Here’s How Your Brain Tells the Difference](https://www.wired.com/story/is-it-real-or-imagined-heres-how-your-brain-tells-the-difference/)
+ - [5 Best Digital Photo Frames &lpar;2023&rpar;: High Res and Natural Screens, Plus Privacy Tips](https://www.wired.com/gallery/best-digital-picture-frames/)
+ - [Threads for web, AI for bookmarks, and the best new car tech](https://www.theverge.com/23845815/threads-web-fabric-car-tech-installer-newsletter)
+ - [Crime blotter: Chaos near Apple Store in London](https://appleinsider.com/articles/23/08/27/crime-blotter-chaos-near-apple-store-in-london?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

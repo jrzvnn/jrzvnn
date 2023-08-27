@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi’s 13 Ultra camera kit is more fun than it should be](https://www.theverge.com/23845090/xiaomi-13-ultra-review-camera-photography-shutter-grip-hands-on-testing)
  - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)
  - [A look at Smart Answers, an AI chatbot trained only on Macworld, PCWorld, Tech Advisor, and TechHive content, and offered to the outlets&#39; readers on August 1 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230827/p3#a230827p3)
  - [Does the larger display on the Galaxy Watch 6 improve the experience?](https://www.androidauthority.com/does-the-larger-display-on-the-galaxy-watch-6-improve-the-experience-3357928/)
- - [Using Solar-Powered AI Sensors to Detect Wildfires Earlier     - CNET](https://www.cnet.com/science/climate/using-solar-powered-ai-sensors-to-detect-wildfires-earlier/#ftag=CAD590a51e)
- - [Are Foldable Phones Really the Future? My Trip to Samsung&#39;s Home Turf Gave Me a Glimpse     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Using Solar-Powered AI Sensors to Detect Wildfires Earlier     - CNET](https://www.cnet.com/science/climate/using-solar-powered-ai-sensors-to-detect-wildfires-earlier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

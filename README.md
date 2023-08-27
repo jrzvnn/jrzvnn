@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How dog breeds react to robbers](http://9gag.com/gag/awZGeKy)
- - 😝 [Can believe what this creature turned into](http://9gag.com/gag/aA0NX1g)
- - 💣 [What&#39;s your take on this?](http://9gag.com/gag/aeQPRgp)
- - 😝 [I hope Trump wins](http://9gag.com/gag/aRENRXy)
- - 👉 [Meanwhile](http://9gag.com/gag/a8qXz1p)<!-- MEMES:END -->
+ - 😝 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)
+ - 😝 [Free ride](http://9gag.com/gag/a3ZpNze)
+ - 💣 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 👉 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)<!-- MEMES:END -->
 
 ---
 </div>

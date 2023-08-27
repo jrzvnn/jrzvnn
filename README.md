@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tried a PopSocket for the first time and once I popped, I couldn’t stop](https://www.androidauthority.com/popsocket-magsafe-3356131/)
  - [M3 MacBook Air &amp; MacBook Pro may not debut until October](https://appleinsider.com/articles/23/08/27/m3-macbook-air-macbook-pro-may-not-debut-until-october?utm_medium=rss)
  - [ASUS reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)
  - [Apple set to overhaul iPad Pro with OLED and Magic Keyboard revamp](https://appleinsider.com/articles/23/08/27/apple-set-to-overhaul-ipad-pro-with-oled-and-magic-keyboard-revamp?utm_medium=rss)
- - [13 Best Car Phone Mounts, Chargers, and Accessories &lpar;2023&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)
- - [Xiaomi’s 13 Ultra camera kit is more fun than it should be](https://www.theverge.com/23845090/xiaomi-13-ultra-review-camera-photography-shutter-grip-hands-on-testing)<!-- TECH:END -->
+ - [13 Best Car Phone Mounts, Chargers, and Accessories &lpar;2023&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

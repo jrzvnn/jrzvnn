@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Pepe memecoin team member says three ex-colleagues stole about 16T Pepe tokens worth $15M from the project&#39;s multisig before selling them on crypto exchanges &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230827/p1#a230827p1)
  - [Linus Tech Tips founder Linus Sebastian addresses errors and ethics but not sexual harassment claims, responding to accusations that prompted a production pause &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230826/p9#a230826p9)
  - [Hackers breached WebDetetive, an Android spyware app used mainly in Brazil, and deleted data on its victims; Poland-based LetMeSpy was similarly hacked in June &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230826/p8#a230826p8)
  - [Meross Outdoor Dimmer Plug review: Further control your outdoor lights at a budget-friendly price](https://appleinsider.com/articles/23/08/26/meross-outdoor-dimmer-plug-review-further-control-your-outdoor-lights-at-a-budget-friendly-price?utm_medium=rss)
- - [NASA’s Crew-7 mission has launched four astronauts into orbit](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)
- - [How to disable animated cover art in Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-disable-animated-cover-art-in-apple-music?utm_medium=rss)<!-- TECH:END -->
+ - [NASA’s Crew-7 mission has launched four astronauts into orbit](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

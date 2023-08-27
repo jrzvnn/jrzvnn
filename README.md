@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Chaos near Apple Store in London](https://appleinsider.com/articles/23/08/27/crime-blotter-chaos-near-apple-store-in-london?utm_medium=rss)
+ - [Premier League Soccer Livestream: How to Watch Sheffield United vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-sheffield-united-vs-man-city-from-anywhere/#ftag=CAD590a51e)
  - [7 Best Breast Pumps &lpar;2023&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
  - [Struggling to Schedule Video Calls? Here’s How to Have an Asynchronous One](https://www.wired.com/story/zoom-asynchronous-video-calls-clips/)
- - [The Low-Stakes Race to Crack an Encrypted German U-Boat Message](https://www.wired.com/story/maritime-radio-historical-society-crypto-event-enigma/)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Dutch GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-dutch-gp-today/#ftag=CAD590a51e)
- - [Stephen King reflects on his books being used for AI training, arguing the sum is lesser than its parts, so far, as creativity can&#39;t happen without sentience &lpar;Stephen King/The Atlantic&rpar;](http://www.techmeme.com/230827/p2#a230827p2)<!-- TECH:END -->
+ - [The Low-Stakes Race to Crack an Encrypted German U-Boat Message](https://www.wired.com/story/maritime-radio-historical-society-crypto-event-enigma/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

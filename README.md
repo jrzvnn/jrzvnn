@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take me there](http://9gag.com/gag/aZDVvrV)
- - 😝 [Communicators](http://9gag.com/gag/ay2VPzY)
- - 💣 [What everybody thinking they will do if they get a chance on the show......](http://9gag.com/gag/aGENb6K)
- - 😝 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)
- - 👉 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)<!-- MEMES:END -->
+ - 😝 [This is Taylor Swifts childhood home that she calls \u201da small farmhouse, not a mansion\u201d](http://9gag.com/gag/aGENbvG)
+ - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
+ - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
+ - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
+ - 👉 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)<!-- MEMES:END -->
 
 ---
 </div>

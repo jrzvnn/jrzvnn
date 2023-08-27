@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows physics perfectly....amazing result!](http://9gag.com/gag/a7q6nyz)
- - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
- - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
- - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
+ - 😝 [Change of plans](http://9gag.com/gag/ay2VPQp)
+ - 😝 [Let&#39;s Goooo](http://9gag.com/gag/a4orVOd)
+ - 💣 [Yearly Croissant harvest in France](http://9gag.com/gag/aOxNGG2)
+ - 😝 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)
+ - 👉 [When science inconveniences politics](http://9gag.com/gag/avQXmOq)<!-- MEMES:END -->
 
 ---
 </div>

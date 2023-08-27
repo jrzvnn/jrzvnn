@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fitbit&#39;s Most Advanced Smartwatch Is Over $70 Off Right Now at Amazon     - CNET](https://www.cnet.com/deals/optimize-your-workouts-this-summer-with-a-discounted-fitbit-sense-2-for-229/#ftag=CAD590a51e)
+ - [Save $15 on an Echo Pop Smart Speaker and Get a Free Smart Bulb Too     - CNET](https://www.cnet.com/deals/save-15-on-an-echo-pop-smart-speaker-and-get-a-free-smart-bulb-too/#ftag=CAD590a51e)
  - [The Cheap Radio Hack That Disrupted Poland&#39;s Railway System](https://www.wired.com/story/poland-train-radio-stop-attack/)
- - [The Pixel 8 camera app needs an overhaul, not meagre UI tweaks](https://www.androidauthority.com/google-pixel-camera-app-tweaks-3357628/)
- - [Daily deals Aug. 27: $200 off 15&quot; MacBook Air, up to $650 off Samsung Tab S9, Google Home for $75, more](https://appleinsider.com/articles/23/08/27/daily-deals-aug-27-200-off-15-macbook-air-up-to-650-off-samsung-tab-s9-google-home-for-75-more?utm_medium=rss)
- - [This 5-Quart Insignia Air Fryer Is Currently Half Off at Best Buy     - CNET](https://www.cnet.com/deals/this-5-quart-insignia-air-fryer-is-currently-half-off-at-best-buy/#ftag=CAD590a51e)
- - [Sources: Apple&#39;s new iPad Pro, due in 2024, will get its first major overhaul since 2018, including an M3 chip, OLED displays, and a revamped Magic Keyboard &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230827/p4#a230827p4)<!-- TECH:END -->
+ - [iPad Pro Overhaul Reportedly to Include OLED Display, Revamped Magic Keyboard     - CNET](https://www.cnet.com/tech/mobile/ipad-pro-overhaul-reportedly-to-include-oled-display-revamped-magic-keyboard/#ftag=CAD590a51e)
+ - [The Pixel 8 camera app needs an overhaul, not meagre UI tweaks](https://www.androidauthority.com/google-pixel-camera-app-tweaks-3357628/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [I tried a PopSocket for the first time and once I popped, I couldn’t stop](https://www.androidauthority.com/popsocket-magsafe-3356131/)
+ - [Amazon Has Knocked Over $120 Off One of Our Favorite Bluetooth Boomboxes     - CNET](https://www.cnet.com/deals/get-60-off-the-excellent-tribit-stormbox-blast-boom-box-speaker/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Newcastle vs. Liverpool From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-newcastle-vs-liverpool-from-anywhere/#ftag=CAD590a51e)
  - [M3 MacBook Air &amp; MacBook Pro may not debut until October](https://appleinsider.com/articles/23/08/27/m3-macbook-air-macbook-pro-may-not-debut-until-october?utm_medium=rss)
- - [ASUS reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)
- - [Apple set to overhaul iPad Pro with OLED and Magic Keyboard revamp](https://appleinsider.com/articles/23/08/27/apple-set-to-overhaul-ipad-pro-with-oled-and-magic-keyboard-revamp?utm_medium=rss)
- - [13 Best Car Phone Mounts, Chargers, and Accessories &lpar;2023&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)<!-- TECH:END -->
+ - [ASUS reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

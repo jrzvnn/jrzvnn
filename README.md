@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
- - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
- - 💣 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 👉 [When science inconveniences politics](http://9gag.com/gag/avQXmOq)<!-- MEMES:END -->
+ - 😝 [He knows physics perfectly....amazing result!](http://9gag.com/gag/a7q6nyz)
+ - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 💣 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
+ - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
+ - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
 
 ---
 </div>

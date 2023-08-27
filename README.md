@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A usefull info right there](http://9gag.com/gag/anzWrXB)
- - 😝 [One small win](http://9gag.com/gag/adP4n2M)
- - 💣 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 💣 [Funny coz](http://9gag.com/gag/aZDVQB9)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Riding blind](http://9gag.com/gag/avQXdYb)<!-- MEMES:END -->
+ - 👉 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your take on this?](http://9gag.com/gag/aeQPRgp)
- - 😝 [I hope Trump wins](http://9gag.com/gag/aRENRXy)
- - 💣 [No extra appendages needed](http://9gag.com/gag/aL1NrAW)
- - 😝 [Title](http://9gag.com/gag/a2KjOZZ)
- - 👉 [Go meat-eaters](http://9gag.com/gag/a8qXK1O)<!-- MEMES:END -->
+ - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
+ - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 💣 [Change of plans](http://9gag.com/gag/ay2VPQp)
+ - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 👉 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)<!-- MEMES:END -->
 
 ---
 </div>

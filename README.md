@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They remind me of Ken dolls](http://9gag.com/gag/ap9jV8B)
- - 😝 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)
- - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 😝 [The `change my mind` in real life be like..](http://9gag.com/gag/aWGN2PK)
+ - 😝 [Words of wisdom](http://9gag.com/gag/a1PqOAb)
+ - 💣 [How dog breeds react to robbers](http://9gag.com/gag/awZGeKy)
  - 😝 [#GenshinGamescom | Follow Gamescom Live &amp; Join the Discussion to Win Big!](http://9gag.com/gag/a04WMvn)
- - 👉 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)<!-- MEMES:END -->
+ - 👉 [I hope Trump wins](http://9gag.com/gag/aRENRXy)<!-- MEMES:END -->
 
 ---
 </div>

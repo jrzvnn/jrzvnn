@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon CEO reportedly told remote employees: ‘It’s probably not going to work out’](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)
+ - [Elon Musk, Mark Zuckerberg, Sundar Pichai, Sam Altman, Jensen Huang, and others are expected to attend Sen. Schumer&#39;s closed-door AI forum on September 13 &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230828/p15#a230828p15)
  - [Google announces several automation starters and actions for the Home app, plus new features for the Home script editor, which is available in Public Preview &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230828/p14#a230828p14)
  - [Microsoft Edge’s latest feature is removing features](https://www.theverge.com/2023/8/28/23849552/microsoft-edge-feature-remove-v117-beta)
- - [iPhone 15 Pro Colors Leak Reveals New Gray and Blue Hues     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-lineup-rumored-to-include-gray-and-blue-colors/#ftag=CAD590a51e)
- - [In a bid to build buzz, a whole lot of AMC shows are coming to Max ad-free](https://www.theverge.com/2023/8/28/23849509/amc-plus-max-ad-free-demo-the-walking-dead-streaming)
- - [Best Wireless Earbuds of 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 Pro Colors Leak Reveals New Gray and Blue Hues     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-lineup-rumored-to-include-gray-and-blue-colors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

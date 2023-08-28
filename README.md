@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Brutal Summer in 10 Alarming Maps and Graphs](https://www.wired.com/story/this-brutal-summer-in-10-alarming-maps-and-graphs/)
+ - [Meta&#39;s News Block Causes Chaos as Canada Burns](https://www.wired.com/story/meta-facebook-instagram-news-block-canada-wildfire/)
  - [We asked, you told us: Some of you have filthy wearables](https://www.androidauthority.com/clean-wearable-after-workout-poll-results-3358565/)
  - [Apple security chief must face bribery charges over firearms permits](https://appleinsider.com/articles/23/08/28/apple-security-chief-must-face-bribery-charges-over-firearms-permits?utm_medium=rss)
- - [Sexy AI Chatbots Are Creating Thorny Issues for Fandom](https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/)
- - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
- - [Samsung Galaxy S24 Ultra could get a brighter display, but ditch the curves](https://www.androidauthority.com/samsung-galaxy-s24-ultra-brighter-flat-display-leak-3358516/)<!-- TECH:END -->
+ - [Sexy AI Chatbots Are Creating Thorny Issues for Fandom](https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store launches slow down as focus moves to refurbishment](https://appleinsider.com/articles/23/08/28/apple-store-launches-slow-down-as-focus-moves-to-refurbishment?utm_medium=rss)
+ - [Yahoo Mail isn’t dead and adds AI capabilities](https://www.theverge.com/2023/8/28/23848784/yahoo-mail-ai-capabilities-shopping-gift-cards)
  - [Galaxy S23 FE has been sitting at the FCC since May and just gained approval](https://www.androidauthority.com/galaxy-s23-fe-fcc-3358651/)
  - [Cheap stuff that doesn’t suck](https://www.theverge.com/23837448/cheap-gadgets-tools-tech-accessories-wearables)
- - [A Skype app vulnerability could expose your IP address to hackers — and Microsoft has yet to fix it](https://www.theverge.com/2023/8/28/23848823/skype-vulnerability-ip-address-microsoft)
- - [The New York Times’ new word game Connections rolls out on mobile](https://www.theverge.com/2023/8/28/23848942/new-york-times-game-connections-iphone-android)
- - [India’s lunar mission beams back video and images from the Moon’s south pole](https://www.theverge.com/2023/8/28/23848816/india-chandrayaan-3-lunar-rover-videos-pictures)<!-- TECH:END -->
+ - [A Skype app vulnerability could expose your IP address to hackers — and Microsoft has yet to fix it](https://www.theverge.com/2023/8/28/23848823/skype-vulnerability-ip-address-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s CMF smartwatch, earbuds, and more leak, could launch next month](https://www.androidauthority.com/nothing-smartwatch-earbuds-cmf-3358681/)
+ - [This might be the iPhone 15’s USB-C port](https://www.theverge.com/2023/8/28/23849103/iphone-15-usb-c-port-leather-alternative-woven-case-apple-rumor-leak)
  - [Sources: Intenseye, a workplace safety AI startup, is raising a $65M Series B led by Lightspeed at a ~$300M valuation, up from a ~$100M valuation in 2021 &lpar;Forbes&rpar;](http://www.techmeme.com/230828/p9#a230828p9)
  - [The Galaxy Watch 5 Bespoke Edition just hit an all-time low price](https://www.androidauthority.com/galaxy-watch-5-bespoke-deal-3358696/)
- - [Mercedes-Benz’s first EV charging hubs will open this fall](https://www.theverge.com/2023/8/28/23849029/mercedes-benz-first-ev-charging-stations-atlanta-build)
- - [Tesla faces its first two trials involving fatalities where Autopilot allegedly malfunctioned, in California and Florida state courts in September and October &lpar;Reuters&rpar;](http://www.techmeme.com/230828/p8#a230828p8)
- - [SEC takes first action against an NFT project as an unregistered security](https://www.theverge.com/2023/8/28/23849104/sec-nft-action-securities-impact-theory)<!-- TECH:END -->
+ - [Mercedes-Benz’s first EV charging hubs will open this fall](https://www.theverge.com/2023/8/28/23849029/mercedes-benz-first-ev-charging-stations-atlanta-build)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

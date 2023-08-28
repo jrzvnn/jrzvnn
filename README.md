@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 😝 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)
- - 💣 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
- - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
- - 👉 [\u00a4\u00a1\u2606\u00bf\u25a1\u2667\u00b0\u2664\u25a1\u25c7\u25cb\u25c7\u00a4](http://9gag.com/gag/adP4RdQ)<!-- MEMES:END -->
+ - 😝 [Communicators](http://9gag.com/gag/ay2VPzY)
+ - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)
+ - 👉 [Skill](http://9gag.com/gag/a8qXnQe)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI releases enterprise-grade version of ChatGPT](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)
  - [Yahoo Mail gets Shopping Saver, a tool to find gift cards, discount codes, and more in inboxes and draft messages to vendors to apply them to previous purchases &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230828/p12#a230828p12)
  - [Amazon issues month-end deals on AirPods, MacBooks, iPads &amp; Apple accessories, prices from $84](https://appleinsider.com/articles/23/08/28/amazon-issues-month-end-deals-on-airpods-macbooks-ipads-apple-accessories-prices-from-84?utm_medium=rss)
  - [Google Home automation just leapfrogged everyone](https://www.theverge.com/2023/8/28/23849298/google-home-automation-starters-script-editor)
- - [Amazon raises free shipping minimum to $35 for some users](https://www.theverge.com/2023/8/28/23849452/amazon-prime-free-shipping-minimum-order-price-increase)
- - [Microsoft&#39;s Next Special Event Happening on Sept. 21     - CNET](https://www.cnet.com/tech/microsofts-next-special-event-happening-on-sept-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon raises free shipping minimum to $35 for some users](https://www.theverge.com/2023/8/28/23849452/amazon-prime-free-shipping-minimum-order-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

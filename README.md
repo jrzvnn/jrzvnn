@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Communicators](http://9gag.com/gag/ay2VPzY)
- - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 😝 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)
- - 👉 [Skill](http://9gag.com/gag/a8qXnQe)<!-- MEMES:END -->
+ - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
+ - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - 💣 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)
+ - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
+ - 👉 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
 
 ---
 </div>

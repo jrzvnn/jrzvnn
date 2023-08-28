@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC takes first action against an NFT project as an unregistered security](https://www.theverge.com/2023/8/28/23849104/sec-nft-action-securities-impact-theory)
+ - [OpenAI launches GPT-4-powered Enterprise ChatGPT, with better privacy, performance, and data analysis features; pricing is &quot;dependent on each company&#39;s usage&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230828/p7#a230828p7)
  - [DoorDash’s voice ordering service could have AI take your carryout order](https://www.theverge.com/2023/8/28/23849040/doordash-ai-voice-ordering-takeout)
  - [Foxconn puts its empty buildings in Wisconsin up for sale](https://www.theverge.com/2023/8/28/23849080/foxconn-wisconsin-empty-buildings-for-sale)
- - [Fire alarms and bleeding audio at Podcast Movement 2023](https://www.theverge.com/2023/8/28/23849035/podcast-movement-2023-recap-spotify-apple-podcasts-youtube-rss)
- - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Google and Meta are the best-paying Big Tech companies for engineers](https://www.theverge.com/2023/8/28/23849005/google-meta-best-paying-big-tech-engineers-blind-survey)<!-- TECH:END -->
+ - [Fire alarms and bleeding audio at Podcast Movement 2023](https://www.theverge.com/2023/8/28/23849035/podcast-movement-2023-recap-spotify-apple-podcasts-youtube-rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

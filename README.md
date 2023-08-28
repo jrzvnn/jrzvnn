@@ -147,7 +147,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: Elon Musk, Mark Zuckerberg, Sundar Pichai, Sam Altman, Jensen Huang, and others are expected to attend Sen. Schumer&#39;s closed-door AI forum on Sept. 13 &lpar;Axios&rpar;](http://www.techmeme.com/230828/p13#a230828p13)
- - [Donald Trump&#39;s Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)
+ - [Donald Trumpbests Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)
  - [Google Home app becomes even more handy with new smart home automations](https://www.androidauthority.com/google-home-app-new-automations-3358725/)
  - [OpenAI releases enterprise-grade version of ChatGPT](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)
  - [Yahoo Mail gets Shopping Saver, a tool to find gift cards, discount codes, and more in inboxes and draft messages to vendors to apply them to previous purchases &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230828/p12#a230828p12)<!-- TECH:END -->

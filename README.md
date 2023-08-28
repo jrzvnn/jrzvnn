@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn founder Terry Gou plans to run in Taiwan&#39;s 2024 presidential election as an independent candidate, after an unsuccessful bid in 2019 &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/230828/p2#a230828p2)
  - [Foxconn founder says Apple business means China can&#39;t risk threatening him](https://appleinsider.com/articles/23/08/28/foxconn-founder-says-apple-business-means-china-cant-risk-threatening-him?utm_medium=rss)
  - [HP Dragonfly Pro Chromebook Review: Worth Every Penny     - CNET](https://www.cnet.com/tech/computing/hp-dragonfly-pro-chromebook-review-worth-every-penny/#ftag=CAD590a51e)
  - [This Brutal Summer in 10 Alarming Maps and Graphs](https://www.wired.com/story/this-brutal-summer-in-10-alarming-maps-and-graphs/)
- - [Meta&#39;s News Block Causes Chaos as Canada Burns](https://www.wired.com/story/meta-facebook-instagram-news-block-canada-wildfire/)
- - [We asked, you told us: Some of you have filthy wearables](https://www.androidauthority.com/clean-wearable-after-workout-poll-results-3358565/)<!-- TECH:END -->
+ - [Meta&#39;s News Block Causes Chaos as Canada Burns](https://www.wired.com/story/meta-facebook-instagram-news-block-canada-wildfire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

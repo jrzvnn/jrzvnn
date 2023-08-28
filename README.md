@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lifetime access to Windows 11 Pro is on sale for $32.97 &lpar;83% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
  - [Nothing OS 2.0 is starting to rollout to the Nothing Phone 1](https://www.androidauthority.com/nothing-os-2-comes-to-phone-1-3358709/)
  - [How Crew-7 astronauts will study the effects of spaceflight on the human body](https://www.theverge.com/2023/8/28/23849293/crew-7-astronauts-study-effects-spaceflight-human-body)
  - [Best Buy Early Labor Day Deals: Save On Headphones, Laptops, Appliances and More     - CNET](https://www.cnet.com/deals/best-buy-early-labor-day-deals-save-on-headphones-laptops-appliances-and-more/#ftag=CAD590a51e)
- - [Document: Lenovo plans to unveil on September 1 a &amp;euro;799 Legion Go gaming handheld, with an 8.8&quot; 144Hz 2560&amp;times;1600 display and 16GB RAM, and &amp;euro;499 Legion AR glasses &lpar;Vlad Turiceanu/Windows Report&rpar;](http://www.techmeme.com/230828/p11#a230828p11)
- - [The US SEC charges Impact Theory, which sold NFTs, with offering unregistered securities, in a first; the LA-based entertainment firm agreed to pay a $6.1M fine &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230828/p10#a230828p10)<!-- TECH:END -->
+ - [Document: Lenovo plans to unveil on September 1 a &amp;euro;799 Legion Go gaming handheld, with an 8.8&quot; 144Hz 2560&amp;times;1600 display and 16GB RAM, and &amp;euro;499 Legion AR glasses &lpar;Vlad Turiceanu/Windows Report&rpar;](http://www.techmeme.com/230828/p11#a230828p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

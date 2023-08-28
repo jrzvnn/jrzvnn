@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
  - [Google and Meta are the best-paying Big Tech companies for engineers](https://www.theverge.com/2023/8/28/23849005/google-meta-best-paying-big-tech-engineers-blind-survey)
  - [First chance to score savings on the new OnePlus Pad](https://www.androidauthority.com/oneplus-pad-deal-3358669/)
  - [Apple’s 13-inch MacBook Air with M2 processor is selling for just $899](https://www.theverge.com/2023/8/28/23848710/apple-macbook-air-m2-anker-555-usbc-hub-galaxy-s23-deal-sale)
- - [New smart home controls, Tesla gains Shortcuts, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/28/new-smart-home-controls-tesla-gains-shortcuts-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [An analysis finds ChatGPT can draft political messages targeting specific voting demographics, months after OpenAI said it will ban generating such material &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230828/p6#a230828p6)<!-- TECH:END -->
+ - [New smart home controls, Tesla gains Shortcuts, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/28/new-smart-home-controls-tesla-gains-shortcuts-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

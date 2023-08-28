@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s ViewFinity S9 is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)
  - [WhatsApp could soon let you share original quality pictures and videos](https://www.theverge.com/2023/8/28/23848712/whatsapp-original-quality-pictures-video)
  - [Google’s AI-powered note-taking app is the messy beginning of something great](https://www.theverge.com/23845856/google-notebooklm-tailwind-ai-notes-research)
  - [Google might recreate Apple’s satellite SOS on Android](https://www.theverge.com/2023/8/28/23848719/google-messages-satellite-emergency-services-garmin-rumor)
- - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)
- - [24 Best Wireless Chargers &lpar;2023&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
+ - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

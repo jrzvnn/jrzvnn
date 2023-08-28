@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sexy AI Chatbots Are Creating Thorny Issues for Fandom](https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/)
  - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
  - [Samsung Galaxy S24 Ultra could get a brighter display, but ditch the curves](https://www.androidauthority.com/samsung-galaxy-s24-ultra-brighter-flat-display-leak-3358516/)
  - [A look at the US Air Force&#39;s efforts to build an AI-based air combat system, including drones for as little as $3M apiece that serve pilots as a &quot;loyal wingman&quot; &lpar;Eric Lipton/New York Times&rpar;](http://www.techmeme.com/230828/p1#a230828p1)
- - [Realme GT 5 launched: This phone has a Burning Mode](https://www.androidauthority.com/realme-gt-5-3356514/)
- - [Apple could really spruce up the next iPad Pro: M3 chip, OLED, and more expected](https://www.androidauthority.com/apple-ipad-pro-m3-chip-3358502/)<!-- TECH:END -->
+ - [Realme GT 5 launched: This phone has a Burning Mode](https://www.androidauthority.com/realme-gt-5-3356514/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

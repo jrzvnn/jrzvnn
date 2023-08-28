@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn founder says Apple business means China can&#39;t risk threatening him](https://appleinsider.com/articles/23/08/28/foxconn-founder-says-apple-business-means-china-cant-risk-threatening-him?utm_medium=rss)
+ - [HP Dragonfly Pro Chromebook Review: Worth Every Penny     - CNET](https://www.cnet.com/tech/computing/hp-dragonfly-pro-chromebook-review-worth-every-penny/#ftag=CAD590a51e)
  - [This Brutal Summer in 10 Alarming Maps and Graphs](https://www.wired.com/story/this-brutal-summer-in-10-alarming-maps-and-graphs/)
  - [Meta&#39;s News Block Causes Chaos as Canada Burns](https://www.wired.com/story/meta-facebook-instagram-news-block-canada-wildfire/)
- - [We asked, you told us: Some of you have filthy wearables](https://www.androidauthority.com/clean-wearable-after-workout-poll-results-3358565/)
- - [Apple security chief must face bribery charges over firearms permits](https://appleinsider.com/articles/23/08/28/apple-security-chief-must-face-bribery-charges-over-firearms-permits?utm_medium=rss)
- - [Sexy AI Chatbots Are Creating Thorny Issues for Fandom](https://www.wired.com/story/sexy-ai-chatbots-fanfiction-issues/)<!-- TECH:END -->
+ - [We asked, you told us: Some of you have filthy wearables](https://www.androidauthority.com/clean-wearable-after-workout-poll-results-3358565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

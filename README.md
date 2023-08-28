@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
  - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 👉 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)<!-- MEMES:END -->
+ - 😝 [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 💣 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)
+ - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
 
 ---
 </div>

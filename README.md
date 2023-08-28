@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google might recreate Apple’s satellite SOS on Android](https://www.theverge.com/2023/8/28/23848719/google-messages-satellite-emergency-services-garmin-rumor)
  - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)
  - [24 Best Wireless Chargers &lpar;2023&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)
  - [iRobot’s two newest Roombas bring more mopping](https://www.theverge.com/2023/8/28/23845899/irobot-roomba-combo-j5-plus-robot-vacuum-mop-price)
- - [UK&#39;s National Air Traffic Services is experiencing network-wide computer failure, as hundreds of flights in and out of the country have been delayed &lpar;Gwyn Topham/The Guardian&rpar;](http://www.techmeme.com/230828/p4#a230828p4)
- - [UK flights delayed after air traffic control suffers ‘technical issue’](https://www.theverge.com/2023/8/28/23848721/uk-air-traffic-control-issues-flight-delays)<!-- TECH:END -->
+ - [UK&#39;s National Air Traffic Services is experiencing network-wide computer failure, as hundreds of flights in and out of the country have been delayed &lpar;Gwyn Topham/The Guardian&rpar;](http://www.techmeme.com/230828/p4#a230828p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

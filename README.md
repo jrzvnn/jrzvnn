@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 😝 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)
+ - 😝 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)
  - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 😝 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)
- - 👉 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)<!-- MEMES:END -->
+ - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 👉 [Any captain ?](http://9gag.com/gag/aQENVR8)<!-- MEMES:END -->
 
 ---
 </div>

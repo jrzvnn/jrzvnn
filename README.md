@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese EV giant BYD&#39;s electronics unit strikes a deal with US-based Jabil to buy the key Apple supplier&#39;s manufacturing business in China for ~$2.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230828/p3#a230828p3)
+ - [Nanoleaf 4D Kit Review &lpar;2023&rpar;: Fantastic Colors](https://www.wired.com/review/nanoleaf-4d-kit/)
+ - [Best Bike Accessories &lpar;2023&rpar;: Helmets, Locks, Pumps, Rain Gear, and More](https://www.wired.com/story/best-bike-accessories/)
  - [Foxconn founder Terry Gou plans to run in Taiwan&#39;s 2024 presidential election as an independent candidate, after an unsuccessful bid in 2019 &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/230828/p2#a230828p2)
- - [Foxconn founder says Apple business means China can&#39;t risk threatening him](https://appleinsider.com/articles/23/08/28/foxconn-founder-says-apple-business-means-china-cant-risk-threatening-him?utm_medium=rss)
- - [HP Dragonfly Pro Chromebook Review: Worth Every Penny     - CNET](https://www.cnet.com/tech/computing/hp-dragonfly-pro-chromebook-review-worth-every-penny/#ftag=CAD590a51e)
- - [This Brutal Summer in 10 Alarming Maps and Graphs](https://www.wired.com/story/this-brutal-summer-in-10-alarming-maps-and-graphs/)
- - [Meta&#39;s News Block Causes Chaos as Canada Burns](https://www.wired.com/story/meta-facebook-instagram-news-block-canada-wildfire/)<!-- TECH:END -->
+ - [Foxconn founder says Apple business means China can&#39;t risk threatening him](https://appleinsider.com/articles/23/08/28/foxconn-founder-says-apple-business-means-china-cant-risk-threatening-him?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
  - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 💣 [The stare...](http://9gag.com/gag/aqepAZ7)
- - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
+ - 😝 [In 1939](http://9gag.com/gag/axon4pD)
+ - 💣 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 👉 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)<!-- MEMES:END -->
 
 ---
 </div>

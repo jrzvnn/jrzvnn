@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
  - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 😝 [Any captain ?](http://9gag.com/gag/aQENVR8)
  - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 👉 [Any captain ?](http://9gag.com/gag/aQENVR8)<!-- MEMES:END -->
+ - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
 
 ---
 </div>

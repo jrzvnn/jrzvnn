@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Document: Lenovo plans to unveil on September 1 a &amp;euro;799 Legion Go gaming handheld, with an 8.8&quot; 144Hz 2560&amp;times;1600 display and 16GB RAM, and &amp;euro;499 Legion AR glasses &lpar;Vlad Turiceanu/Windows Report&rpar;](http://www.techmeme.com/230828/p11#a230828p11)
  - [The US SEC charges Impact Theory, which sold NFTs, with offering unregistered securities, in a first; the LA-based entertainment firm agreed to pay a $6.1M fine &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230828/p10#a230828p10)
  - [Poe’s new desktop app lets you use all the AI chatbots in one place](https://www.theverge.com/2023/8/28/23849161/poe-ai-chatbot-platform-mac-app-llama-2-enterprise-tier)
  - [Samsung&#39;s Apple Studio Display competitor is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)
- - [New &#39;Ted Lasso&#39; shortbread cookies let fans experience biscuits with the boss](https://appleinsider.com/articles/23/08/28/new-ted-lasso-shortbread-cookies-let-fans-experience-biscuits-with-the-boss?utm_medium=rss)
- - [Elon Musk’s FSD v12 demo includes a near miss at a red light and doxxing Mark Zuckerberg](https://www.theverge.com/2023/8/28/23848882/elon-musk-tesla-fsd-v12-demo-red-light-zuckerberg-house)<!-- TECH:END -->
+ - [New &#39;Ted Lasso&#39; shortbread cookies let fans experience biscuits with the boss](https://appleinsider.com/articles/23/08/28/new-ted-lasso-shortbread-cookies-let-fans-experience-biscuits-with-the-boss?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

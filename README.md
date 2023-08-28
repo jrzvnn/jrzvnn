@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
- - 😝 [Walkies](http://9gag.com/gag/az2DDQK)
- - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 😝 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)
- - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
+ - 😝 [Communicators](http://9gag.com/gag/ay2VPzY)
+ - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 💣 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)
+ - 😝 [Skill](http://9gag.com/gag/a8qXnQe)
+ - 👉 [Why is the BLM movement silent about this?](http://9gag.com/gag/aWGNd26)<!-- MEMES:END -->
 
 ---
 </div>

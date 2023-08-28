@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They remind me of Ken dolls](http://9gag.com/gag/ap9jV8B)
- - 😝 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)
- - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
+ - 💣 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)
  - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
- - 👉 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)<!-- MEMES:END -->
+ - 👉 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)<!-- MEMES:END -->
 
 ---
 </div>

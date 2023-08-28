@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
  - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 👉 [The stare...](http://9gag.com/gag/aqepAZ7)<!-- MEMES:END -->
 
 ---
 </div>

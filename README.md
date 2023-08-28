@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 😝 [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 😝 [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 💣 [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 </div>

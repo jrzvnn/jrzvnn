@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 😝 [In 1939](http://9gag.com/gag/axon4pD)
- - 💣 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 👉 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)<!-- MEMES:END -->
+ - 😝 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 😝 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)
+ - 👉 [The stare...](http://9gag.com/gag/aqepAZ7)<!-- MEMES:END -->
 
 ---
 </div>

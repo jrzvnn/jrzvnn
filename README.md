@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl with tourettes tries to host a show](http://9gag.com/gag/anzW8On)
- - 😝 [Does the council of men approve this?](http://9gag.com/gag/aA0NN32)
- - 💣 [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 👉 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)<!-- MEMES:END -->
+ - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 💣 [Then and now](http://9gag.com/gag/a8qXX8d)
+ - 😝 [In 1939](http://9gag.com/gag/axon4pD)
+ - 👉 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
 
 ---
 </div>

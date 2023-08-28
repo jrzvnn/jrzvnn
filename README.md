@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung prices its 27-inch 5K monitor at $1,599 — just like Apple’s Studio Display](https://www.theverge.com/2023/7/17/23797004/samsung-viewfinity-s9-price-release-date-announced)
  - [Nothing OS 2.0 is available now for Nothing’s first phone](https://www.theverge.com/2023/8/28/23848779/nothing-os-2-phone-1-android-13-update-roll-out)
  - [8 Best Merino Wool Apparel &lpar;2023&rpar;: Hoodies, Shirts, Pants, and Socks](https://www.wired.com/story/best-merino-wool-clothes/)
  - [Samba de Amigo just isn’t quite the same without maracas controllers](https://www.theverge.com/23848754/samba-de-amigo-party-central-review-nintendo-switch)
- - [The end of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
- - [Samsung&#39;s ViewFinity S9 is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [The end of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

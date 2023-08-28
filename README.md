@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Communicators](http://9gag.com/gag/ay2VPzY)
- - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 💣 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)
- - 😝 [Skill](http://9gag.com/gag/a8qXnQe)
- - 👉 [Why is the BLM movement silent about this?](http://9gag.com/gag/aWGNd26)<!-- MEMES:END -->
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 😝 [Give me your best cursed images](http://9gag.com/gag/a7q6nDm)
+ - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
+ - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
 
 ---
 </div>

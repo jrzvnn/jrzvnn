@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
- - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
- - 💣 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
- - 👉 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
+ - 😝 [Skill](http://9gag.com/gag/a8qXnQe)
+ - 😝 [Why is the BLM movement silent about this?](http://9gag.com/gag/aWGNd26)
+ - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 😝 [I&#39;ve been a part of this community for many years now, thanks for all the laughs. I&#39;m not sick or anything, I just don&#39;t want to go to work tomorrow. Pray for me.](http://9gag.com/gag/aDYNPb7)
+ - 👉 [Escalated so Quickly](http://9gag.com/gag/awZGvER)<!-- MEMES:END -->
 
 ---
 </div>

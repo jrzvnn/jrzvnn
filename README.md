@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goofing around](http://9gag.com/gag/aA0NO3g)
- - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
- - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
- - 👉 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)<!-- MEMES:END -->
+ - 😝 [Meanwhile in fc24](http://9gag.com/gag/aREND4B)
+ - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 😝 [Caught taking a piece of gum](http://9gag.com/gag/a4orw4A)
+ - 👉 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)<!-- MEMES:END -->
 
 ---
 </div>

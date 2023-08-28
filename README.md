@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Donald Trumpbests Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)
  - [Google Home app becomes even more handy with new smart home automations](https://www.androidauthority.com/google-home-app-new-automations-3358725/)
  - [OpenAI releases enterprise-grade version of ChatGPT](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)
- - [Yahoo Mail gets Shopping Saver, a tool to find gift cards, discount codes, and more in inboxes and draft messages to vendors to apply them to previous purchases &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230828/p12#a230828p12)<!-- TECH:END -->
+ - [The 6 Best Places to Buy Contact Lenses Online for 2023     - CNET](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech leaders have spent $800 million trying to build a new city beside San Francisco](https://www.theverge.com/2023/8/28/23848833/flannery-associates-tech-investor-city-san-fracisco)
- - [Daily deals Aug. 28: $1,500 off M1 Max MacBook Pro, Apple Watch Series 7 from $223, MacBooks from $470, more](https://appleinsider.com/articles/23/08/28/daily-deals-aug-28-1500-off-m1-max-macbook-pro-apple-watch-series-7-from-223-macbooks-from-470-more?utm_medium=rss)
- - [DoorDash launches AI-powered voice ordering tech, giving restaurants a multi-language personalized voice ordering system with no missed calls or wait times &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230828/p5#a230828p5)
- - [Samsung prices its 27-inch 5K monitor at $1,599 — just like Apple’s Studio Display](https://www.theverge.com/2023/7/17/23797004/samsung-viewfinity-s9-price-release-date-announced)
- - [Nothing OS 2.0 is available now for Nothing’s first phone](https://www.theverge.com/2023/8/28/23848779/nothing-os-2-phone-1-android-13-update-roll-out)<!-- TECH:END -->
+ - [India’s lunar mission beams back video and images from the Moon’s south pole](https://www.theverge.com/2023/8/28/23848816/india-chandrayaan-3-lunar-rover-videos-pictures)
+ - [Leaked photographs show new green color for iPhone 15 lineup](https://appleinsider.com/articles/23/08/28/leaked-photographs-show-new-green-color-for-iphone-15-lineup?utm_medium=rss)
+ - [Fake leather cases for iPhone 15 surface weeks before launch](https://appleinsider.com/articles/23/08/28/fake-leather-cases-for-iphone-15-surface-weeks-before-launch?utm_medium=rss)
+ - [Samsung&#39;s Apple Studio Display competitor is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)
+ - [iPhone 15 Pro Max starts mass shipments, claims Kuo](https://appleinsider.com/articles/23/08/28/iphone-15-pro-max-starts-mass-shipments-claims-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

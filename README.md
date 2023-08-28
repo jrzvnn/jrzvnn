@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store launches slow down as focus moves to refurbishment](https://appleinsider.com/articles/23/08/28/apple-store-launches-slow-down-as-focus-moves-to-refurbishment?utm_medium=rss)
- - [Yahoo Mail isn’t dead and adds AI capabilities](https://www.theverge.com/2023/8/28/23848784/yahoo-mail-ai-capabilities-shopping-gift-cards)
- - [Galaxy S23 FE has been sitting at the FCC since May and just gained approval](https://www.androidauthority.com/galaxy-s23-fe-fcc-3358651/)
- - [Cheap stuff that doesn’t suck](https://www.theverge.com/23837448/cheap-gadgets-tools-tech-accessories-wearables)
- - [A Skype app vulnerability could expose your IP address to hackers — and Microsoft has yet to fix it](https://www.theverge.com/2023/8/28/23848823/skype-vulnerability-ip-address-microsoft)<!-- TECH:END -->
+ - [New smart home controls, Tesla gains Shortcuts, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/08/28/new-smart-home-controls-tesla-gains-shortcuts-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [An analysis finds ChatGPT can draft political messages targeting specific voting demographics, months after OpenAI said it will ban generating such material &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230828/p6#a230828p6)
+ - [iPhone 15 in green shown off in leaked photographs](https://appleinsider.com/articles/23/08/28/leaked-photographs-show-new-green-color-for-iphone-15-lineup?utm_medium=rss)
+ - [No, they did not do surgery on a banana over 5G](https://www.theverge.com/2023/8/28/23846049/banana-surgery-5g-video-viral)
+ - [Apple Store launches slow down as focus moves to refurbishment](https://appleinsider.com/articles/23/08/28/apple-store-launches-slow-down-as-focus-moves-to-refurbishment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

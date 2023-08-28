@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
- - 😝 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 💣 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - 😝 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 💣 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)
  - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
  - 👉 [August 25th 1988 \u2013 Mehran Karimi Nasseri unknowingly began the first day what would be an 18 year layover in Charles De Gaulle Airport. The movie `The Terminal` is based on his story](http://9gag.com/gag/a04WwqQ)<!-- MEMES:END -->
 

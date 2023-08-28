@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India’s lunar mission beams back video and images from the Moon’s south pole](https://www.theverge.com/2023/8/28/23848816/india-chandrayaan-3-lunar-rover-videos-pictures)
- - [Leaked photographs show new green color for iPhone 15 lineup](https://appleinsider.com/articles/23/08/28/leaked-photographs-show-new-green-color-for-iphone-15-lineup?utm_medium=rss)
- - [Fake leather cases for iPhone 15 surface weeks before launch](https://appleinsider.com/articles/23/08/28/fake-leather-cases-for-iphone-15-surface-weeks-before-launch?utm_medium=rss)
- - [Samsung&#39;s Apple Studio Display competitor is now available in the US](https://appleinsider.com/articles/23/08/28/samsungs-viewfinity-s9-is-now-available-in-the-us?utm_medium=rss)
- - [iPhone 15 Pro Max starts mass shipments, claims Kuo](https://appleinsider.com/articles/23/08/28/iphone-15-pro-max-starts-mass-shipments-claims-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S23 FE has been sitting at the FCC since May and just gained approval](https://www.androidauthority.com/galaxy-s23-fe-fcc-3358651/)
+ - [Cheap stuff that doesn’t suck](https://www.theverge.com/23837448/cheap-gadgets-tools-tech-accessories-wearables)
+ - [A Skype app vulnerability could expose your IP address to hackers — and Microsoft has yet to fix it](https://www.theverge.com/2023/8/28/23848823/skype-vulnerability-ip-address-microsoft)
+ - [The New York Times’ new word game Connections rolls out on mobile](https://www.theverge.com/2023/8/28/23848942/new-york-times-game-connections-iphone-android)
+ - [India’s lunar mission beams back video and images from the Moon’s south pole](https://www.theverge.com/2023/8/28/23848816/india-chandrayaan-3-lunar-rover-videos-pictures)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

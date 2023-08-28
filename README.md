@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [University classes hit different](http://9gag.com/gag/aWGN9n4)
- - 😝 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
- - 💣 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 👉 [Any captain ?](http://9gag.com/gag/aQENVR8)<!-- MEMES:END -->
+ - 😝 [WOULD the menopause.](http://9gag.com/gag/aA0NNe9)
+ - 😝 [Next level cheating](http://9gag.com/gag/az2DQ6z)
+ - 💣 [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
 
 ---
 </div>

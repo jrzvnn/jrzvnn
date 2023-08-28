@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How LLMs are transforming computational humor, an AI subfield that uses computers to create jokes, as some artists begin using AI chatbots for improv comedy &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230827/p6#a230827p6)
+ - [Didi says it has agreed to sell its smart car development arm to Xpeng, one of China&#39;s largest EV makers, for ~$744M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230827/p7#a230827p7)
+ - [How LLMs are impacting computational humor, an AI subfield that uses computers to create jokes, as some comedians begin using AI chatbots for improv and roasts &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230827/p6#a230827p6)
  - [NASA’s Crew-7 mission launched four astronauts to the ISS](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)
  - [How to install Apple&#39;s Game Porting Toolkit via a third-party installer](https://appleinsider.com/inside/macos-sonoma/tips/how-to-install-apples-game-porting-toolkit-via-a-third-party-installer?utm_medium=rss)
- - [The iPad Pro could get bigger screens and OLED next year, but it should do more](https://www.theverge.com/2023/8/27/23847743/ipad-pro-oled-m3-13-inch-magic-keyboard-bigger-trackpad)
- - [A look at the ethical and legal issues around generative AI, as it makes practical at a massive scale things that were previously only possible on a small scale &lpar;Benedict Evans&rpar;](http://www.techmeme.com/230827/p5#a230827p5)<!-- TECH:END -->
+ - [The iPad Pro could get bigger screens and OLED next year, but it should do more](https://www.theverge.com/2023/8/27/23847743/ipad-pro-oled-m3-13-inch-magic-keyboard-bigger-trackpad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

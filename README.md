@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 😝 [Aliens vs transformers](http://9gag.com/gag/a2KjOQY)
- - 💣 [Communicators](http://9gag.com/gag/ay2VPzY)
- - 😝 [Skill](http://9gag.com/gag/a8qXnQe)
- - 👉 [Why is the BLM movement silent about this?](http://9gag.com/gag/aWGNd26)<!-- MEMES:END -->
+ - 😝 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)
+ - 😝 [Jesus Christ... It&#39;s Jason Bourne](http://9gag.com/gag/a04WM5O)
+ - 💣 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 👉 [Show me your IDs](http://9gag.com/gag/aNw2243)<!-- MEMES:END -->
 
 ---
 </div>

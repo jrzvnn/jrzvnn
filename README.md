@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK&#39;s National Air Traffic Services is experiencing network-wide computer failure, as hundreds of flights in and out of the country have been delayed &lpar;Gwyn Topham/The Guardian&rpar;](http://www.techmeme.com/230828/p4#a230828p4)
  - [UK flights delayed after air traffic control suffers ‘technical issue’](https://www.theverge.com/2023/8/28/23848721/uk-air-traffic-control-issues-flight-delays)
  - [Undercharged: iPhone 14 owners complain about lower battery endurance](https://appleinsider.com/articles/23/08/28/undercharged-iphone-14-owners-complain-about-lower-battery-endurance?utm_medium=rss)
  - [Dolby might have found a way to make built-in TV speakers sound much better](https://www.theverge.com/2023/8/28/23848678/dolby-atmos-flexconnect-tv-speakers-tcl)
- - [Chinese EV giant BYD&#39;s electronics unit strikes a deal with US-based Jabil to buy the key Apple supplier&#39;s manufacturing business in China for ~$2.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230828/p3#a230828p3)
- - [Nanoleaf 4D Kit Review &lpar;2023&rpar;: Fantastic Colors](https://www.wired.com/review/nanoleaf-4d-kit/)<!-- TECH:END -->
+ - [Chinese EV giant BYD&#39;s electronics unit strikes a deal with US-based Jabil to buy the key Apple supplier&#39;s manufacturing business in China for ~$2.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230828/p3#a230828p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

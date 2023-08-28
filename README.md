@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didi says it has agreed to sell its smart car development arm to Xpeng, one of China&#39;s largest EV makers, for ~$744M &lpar;Bloomberg&rpar;](http://www.techmeme.com/230827/p7#a230827p7)
+ - [Filing: Didi plans to sell its smart car development arm to Xpeng, one of China&#39;s largest EV makers, for ~$744M in Xpeng stock, or a ~3.25% stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/230827/p7#a230827p7)
  - [How LLMs are impacting computational humor, an AI subfield that uses computers to create jokes, as some comedians begin using AI chatbots for improv and roasts &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230827/p6#a230827p6)
  - [NASA’s Crew-7 mission launched four astronauts to the ISS](https://www.theverge.com/2023/8/26/23847081/spacex-falcon-9-launch-iss-crew-7-dragon-endurance-astronauts)
  - [How to install Apple&#39;s Game Porting Toolkit via a third-party installer](https://appleinsider.com/inside/macos-sonoma/tips/how-to-install-apples-game-porting-toolkit-via-a-third-party-installer?utm_medium=rss)

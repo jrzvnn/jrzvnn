@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Edge’s latest feature is removing features](https://www.theverge.com/2023/8/28/23849552/microsoft-edge-feature-remove-v117-beta)
+ - [In a bid to build buzz, a whole lot of AMC shows are coming to Max ad-free](https://www.theverge.com/2023/8/28/23849509/amc-plus-max-ad-free-demo-the-walking-dead-streaming)
  - [Sources: Elon Musk, Mark Zuckerberg, Sundar Pichai, Sam Altman, Jensen Huang, and others are expected to attend Sen. Schumer&#39;s closed-door AI forum on Sept. 13 &lpar;Axios&rpar;](http://www.techmeme.com/230828/p13#a230828p13)
  - [Donald Trumpbests Mug Shot Will Be His Most Enduring Meme](https://www.wired.com/story/donald-trump-mug-shot-meme/)
- - [Google Home app becomes even more handy with new smart home automations](https://www.androidauthority.com/google-home-app-new-automations-3358725/)
- - [OpenAI releases enterprise-grade version of ChatGPT](https://www.theverge.com/2023/8/28/23849453/openai-chatgpt-enterprise-grade-version)
- - [The 6 Best Places to Buy Contact Lenses Online for 2023     - CNET](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Home app becomes even more handy with new smart home automations](https://www.androidauthority.com/google-home-app-new-automations-3358725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

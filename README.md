@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
  - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
+ - 💣 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
 
 ---
 </div>

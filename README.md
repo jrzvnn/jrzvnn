@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP Q3: revenue down 10% YoY to $13.2B, vs. $13.4B est., Personal Systems revenue down 11% YoY to $8.9B, and Printing revenue down 7% YoY to $4.3B; HPQ down 5%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/230829/p37#a230829p37)
+ - [HP Q3: revenue down 10% YoY to $13.2B, vs. $13.4B est., Personal Systems revenue down 11% YoY to $8.9B, and Printing revenue down 7% YoY to $4.3B; HPQ falls 5%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/230829/p37#a230829p37)
  - [HPE reports Q3 revenue up 1% YoY to $7B, HPC &amp; AI revenue up 1% YoY to $836M, Intelligent Edge revenue up 50% YoY to $1.4B, and bumps its FY 2023 profit outlook &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230829/p36#a230829p36)
  - [Letter: the UFC, the NBA, and the NFL tell the USPTO that the DMCA needs to be updated so live content can be removed &quot;instantaneously or near-instantaneously&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230829/p35#a230829p35)
  - [GM extends its Google Cloud partnership to use AI, leveraging chatbots for handling simple OnStar calls, freeing up operators to address more complex requests &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230829/p34#a230829p34)

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
- - 😝 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)<!-- MEMES:END -->
+ - 😝 [Pepper spraying the innocent soul . Hehehe](http://9gag.com/gag/aXnG3pb)
+ - 😝 [This is a climate protest that makes more sense. ---- Instead of blocking traffic of regular people trying to get to work, block the super-polluting private jets of rich folk.](http://9gag.com/gag/aL1N33M)
+ - 💣 [Truth or lie?](http://9gag.com/gag/aL1N3ng)
+ - 😝 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
+ - 👉 [What is a woman?](http://9gag.com/gag/a3Zpg4m)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Duet AI for Workspace will cost $30/month/user for enterprise, consumer pricing will come in the coming months, and Workspace has 10M paying users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230829/p23#a230829p23)
  - [YouTube will waive a creator’s content violation warning — if they attend a class](https://www.theverge.com/2023/8/29/23850431/youtube-content-violation-class-warning-removal)
  - [Grayscale was unreasonably denied its Bitcoin ETF, court rules](https://www.theverge.com/2023/8/29/23850498/grayscale-bitcoin-etf-lawsuit-wins-sec)
  - [You’ll soon be able to control an LG appliance with Samsung’s app — and vice versa](https://www.theverge.com/2023/8/29/23850250/samsung-lg-app-home-connectivity-alliance-appliances-ifa)
- - [The NFL, NBA, and UFC want to rewrite the laws for fast DMCA takedowns](https://www.theverge.com/2023/8/29/23850343/dmca-takedown-nfl-nba-ufc-uspto-letter-streams)
- - [TechCrunch acquires Connie Loizos&#39; media startup StrictlyVC, which has 60K newsletter subscribers, and appoints Loizos as TechCrunch&#39;s editor-in-chief and GM &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230829/p22#a230829p22)<!-- TECH:END -->
+ - [The NFL, NBA, and UFC want to rewrite the laws for fast DMCA takedowns](https://www.theverge.com/2023/8/29/23850343/dmca-takedown-nfl-nba-ufc-uspto-letter-streams)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

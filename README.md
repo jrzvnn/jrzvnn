@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook cracks down on global disinformation campaign linked to law enforcement in China](https://www.theverge.com/2023/8/29/23850341/facebook-china-disinformation-campaign-transparency-report)
- - [A US appeals court rules that the SEC must &quot;vacate&quot; and review its rejection of Grayscale&#39;s bid to convert the Grayscale Bitcoin Trust into an ETF &lpar;Lyllah Ledesma/CoinDesk&rpar;](http://www.techmeme.com/230829/p21#a230829p21)
- - [Keeping the classics alive: how archivists are preserving video game history](https://www.theverge.com/23850347/video-game-preservation)
- - [Daily deals Aug. 29: $48 MagSafe Battery Pack, $899 M2 MacBook Air, iPads from $126, more](https://appleinsider.com/articles/23/08/29/daily-deals-aug-29-48-magsafe-battery-pack-899-m2-macbook-air-ipads-from-126-more?utm_medium=rss)
- - [The next Nintendo Direct is all about Super Mario Bros. Wonder](https://www.theverge.com/2023/8/29/23850433/super-mario-bros-wonder-nintendo-direct-preview)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 6 vs Fitbit Versa 4: Which watch is right for you?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-fitbit-versa-4-3357801/)
+ - [Google Photos brings welcome Locked Folder improvements](https://www.androidauthority.com/google-photos-locked-folder-improvements-3358910/)
+ - [Best Multivitamins for Men of 2023     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
+ - [Nudes stored in Google Photos can now be securely accessed from more devices](https://www.theverge.com/2023/8/29/23850223/google-photos-locked-folders-ios-web-android-password-protected-nudes)
+ - [Digital Eclipse is preserving classic games in the most entertaining way possible](https://www.theverge.com/23848883/karateka-making-of-digital-eclipse-game-preservation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

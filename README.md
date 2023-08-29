@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MoonSwatch Mission to Neptune 2023: Price, Details, Release Date](https://www.wired.com/story/moonswatch-mission-to-neptune-speedmaster-moonwatch/)
+ - [The 2023 flagship Motorola phones are all on sale this week](https://www.androidauthority.com/motorola-labor-day-sale-3359099/)
  - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
  - [Mastodon will run on an ancient Apple IIe, if you try hard enough](https://appleinsider.com/articles/23/08/29/mastodon-will-run-on-an-ancient-apple-iie-if-you-try-hard-enough?utm_medium=rss)
- - [The new WhatsApp for Mac adds video and audio group calling](https://www.theverge.com/2023/8/29/23850557/new-whatsapp-native-macos-app-video-and-audio-group-calls)
- - [YouTube lets creators take an educational training course when they receive a warning, which YouTube lifts if they don&#39;t violate the same policy within 90 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230829/p26#a230829p26)
- - [Apple announces ‘Wonderlust’ September 12 launch event for the iPhone 15](https://www.androidauthority.com/apple-iphone-15-launch-event-3359018/)<!-- TECH:END -->
+ - [The new WhatsApp for Mac adds video and audio group calling](https://www.theverge.com/2023/8/29/23850557/new-whatsapp-native-macos-app-video-and-audio-group-calls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

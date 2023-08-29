@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There may be new AirPods with USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)
+ - [Apple event invite showcases iPhone 15 Pro colors, says leaker](https://appleinsider.com/articles/23/08/29/apple-event-invite-showcases-iphone-15-pro-colors-says-leaker?utm_medium=rss)
  - [Meta Avatars finally have legs in Quest Home, with the v57 update on the Public Test Channel, after announcing they were coming in October 2022 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230829/p30#a230829p30)
  - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [There may be new AirPods with USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)
- - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
- - [Meta rejects the Oversight Board&#39;s recommendation to suspend former Cambodian PM Hun Sen&#39;s account, determining it wouldn&#39;t &quot;be consistent with our policies&quot; &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230829/p29#a230829p29)<!-- TECH:END -->
+ - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

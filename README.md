@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww](http://9gag.com/gag/a1PqnKG)
- - 😝 [Dumping A Huge Tub Of Soapy Water Down A Stairwell](http://9gag.com/gag/a9qNem0)
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
  - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
  - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---

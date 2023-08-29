@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
  - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
  - 💣 [Truth or lie?](http://9gag.com/gag/aL1N3ng)
- - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 😝 [Any captain ?](http://9gag.com/gag/aQENVR8)
+ - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
 
 ---
 </div>

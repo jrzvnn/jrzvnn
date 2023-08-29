@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple opens up Back to School offers to university students](https://appleinsider.com/articles/23/08/29/apple-opens-up-back-to-school-offers-to-university-students?utm_medium=rss)
+ - [Vision Pro may use sensors to react to wearer&#39;s stress or attention span](https://appleinsider.com/articles/20/07/23/apple-glass-may-use-sensors-to-react-to-wearers-stress-or-attention-span?utm_medium=rss)
  - [A look at Disney&#39;s shifting India strategy, after the unit reported a $41.5M loss on $390M revenue in the year to March 2022, including free cricket on mobile &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p8#a230829p8)
  - [USB 3.0 vs 3.1 vs 3.2: What’s the difference?](https://www.androidauthority.com/usb-3-0-vs-3-1-vs-3-2-3358606/)
- - [Swedish payments company Trustly acquires French recurring payments service SlimPay, sources say for &amp;euro;70M; Trustly shelved IPO plans in 2021 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230829/p7#a230829p7)
- - [How to Use AI to Talk to Whales—and Save Life on Earth](https://www.wired.com/story/use-ai-talk-to-whales-save-life-on-earth/)
- - [A look at Kick, a Twitch rival launched in 2022 that is gaining traction among creators for its looser moderation policies and a 95/5 revenue split &lpar;Olivia Balsamo/NBC News&rpar;](http://www.techmeme.com/230829/p6#a230829p6)<!-- TECH:END -->
+ - [Swedish payments company Trustly acquires French recurring payments service SlimPay, sources say for &amp;euro;70M; Trustly shelved IPO plans in 2021 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230829/p7#a230829p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

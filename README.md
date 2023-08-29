@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter, the UFC, NBA, and NFL tell the USPTO the DMCA needs updating to ensure that live content is removed &quot;instantaneously or near-instantaneously&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230829/p35#a230829p35)
+ - [GM details its AI collaboration with Google Cloud, including using chatbots to handle simple OnStar calls, freeing up operators to address more complex queries &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230829/p34#a230829p34)
  - [Surface Pro 10: Release date, price, specs, rumors, and more](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
  - [Best Home Security Camera of 2023     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
- - [Google Cloud unveils Vertex AI improvements to better compete with Azure AI Studio and Amazon Bedrock; Nvidia announces PaxML, built on Google&#39;s JAX framework &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)
- - [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
- - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)<!-- TECH:END -->
+ - [Google Cloud unveils Vertex AI improvements to better compete with Azure AI Studio and Amazon Bedrock; Nvidia announces PaxML, built on Google&#39;s JAX framework &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

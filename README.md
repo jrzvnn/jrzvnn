@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple supplies third visionOS developer beta](https://appleinsider.com/articles/23/08/29/apple-supplies-third-visionos-developer-beta?utm_medium=rss)
+ - [iFixit wants Congress to let it hack McDonald’s ice cream machines](https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit)
  - [Apple issues eighth iOS 17, iPadOS 17 developer betas for testing](https://appleinsider.com/articles/23/08/29/apple-issues-eighth-ios-17-ipados-17-developer-betas-for-testing?utm_medium=rss)
  - [Apple seeds watchOS 10 developer beta 8](https://appleinsider.com/articles/23/08/29/apple-seeds-watchos-10-developer-beta-8?utm_medium=rss)
- - [Apple distributes eighth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/29/apple-distributes-eighth-tvos-17-developer-beta?utm_medium=rss)
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [Apple distributes eighth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/29/apple-distributes-eighth-tvos-17-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

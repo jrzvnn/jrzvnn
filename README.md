@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepper spraying the innocent soul . Hehehe](http://9gag.com/gag/aXnG3pb)
- - 😝 [This is a climate protest that makes more sense. ---- Instead of blocking traffic of regular people trying to get to work, block the super-polluting private jets of rich folk.](http://9gag.com/gag/aL1N33M)
- - 💣 [Truth or lie?](http://9gag.com/gag/aL1N3ng)
- - 😝 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
- - 👉 [What is a woman?](http://9gag.com/gag/a3Zpg4m)<!-- MEMES:END -->
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [Let\u2019s throw some favorite gifs in the comments](http://9gag.com/gag/aDYNqod)
+ - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - 😝 [Then and now](http://9gag.com/gag/a8qXX8d)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
 
 ---
 </div>

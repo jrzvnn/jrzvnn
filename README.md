@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta takes down a Chinese influence campaign, started in 2019 and spanning thousands of accounts on Facebook, TikTok, X, and more, the largest such campaign yet &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/230829/p13#a230829p13)
- - [How to set up multiple users on your Android device](https://www.theverge.com/23844676/android-phone-tablet-multiple-users-guests)
- - [How to delete your Twitter history](https://www.theverge.com/23833347/twitter-x-history-delete-how-to)
- - [Google announces AI features coming soon to Meet, including expanding Duet AI to take notes, mid-meeting summaries, and &quot;attending&quot; meetings on a user&#39;s behalf &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230829/p12#a230829p12)
- - [The Weird, Big-Money World of Cybercrime Writing Contests](https://www.wired.com/story/hacking-contests-cybercriminals/)<!-- TECH:END -->
+ - [Google Cloud announces its 5th generation Tensor Processing Units, promising 2x training performance improvement per dollar compared to 2021&#39;s 4th gen TPUs &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230829/p17#a230829p17)
+ - [Google unveils SynthID, which embeds an invisible digital &quot;watermark&quot; directly into AI-generated images, available now to Cloud customers for Imagen-made images &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230829/p16#a230829p16)
+ - [Google plans to update Chat with a new design, Duet AI collaboration tools, &quot;huddles&quot; for audio and video calls, capacity for 500K in group channels, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230829/p15#a230829p15)
+ - [Google adds AI tools from others, like Meta&#39;s Llama 2 and Anthropic&#39;s Claude 2, to Cloud, expands Duet AI in Workspace, partners with Fox Sports, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/230829/p14#a230829p14)
+ - [Meta takes down a Chinese influence campaign, started in 2019 and spanning thousands of accounts on Facebook, TikTok, X, and more, the largest such campaign yet &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/230829/p13#a230829p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

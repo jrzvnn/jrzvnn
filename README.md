@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)
+ - [The FBI led an effort to dismantle the Qakbot botnet, which ransomware gangs used as an infection vector for years, on August 25 after infiltrating its network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230829/p27#a230829p27)
  - [Apple supplies third visionOS developer beta](https://appleinsider.com/articles/23/08/29/apple-supplies-third-visionos-developer-beta?utm_medium=rss)
  - [iFixit wants Congress to let it hack McDonald’s ice cream machines](https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit)
- - [Apple issues eighth iOS 17, iPadOS 17 developer betas for testing](https://appleinsider.com/articles/23/08/29/apple-issues-eighth-ios-17-ipados-17-developer-betas-for-testing?utm_medium=rss)
- - [Apple seeds watchOS 10 developer beta 8](https://appleinsider.com/articles/23/08/29/apple-seeds-watchos-10-developer-beta-8?utm_medium=rss)
- - [Apple distributes eighth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/29/apple-distributes-eighth-tvos-17-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues eighth iOS 17, iPadOS 17 developer betas for testing](https://appleinsider.com/articles/23/08/29/apple-issues-eighth-ios-17-ipados-17-developer-betas-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

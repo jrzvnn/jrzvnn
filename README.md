@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 💣 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
+ - 😝 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
+ - 😝 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)<!-- MEMES:END -->
 
 ---
 </div>

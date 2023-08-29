@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 💣 [Let\u2019s throw some favorite gifs in the comments](http://9gag.com/gag/aDYNqod)
  - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 </div>

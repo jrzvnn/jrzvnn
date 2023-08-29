@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/a6q3e4A)
- - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 😝 [Pepper spraying the innocent soul . Hehehe](http://9gag.com/gag/aXnG3pb)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 💣 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 👉 [Not really sure what to say to this..](http://9gag.com/gag/abvmdvX)<!-- MEMES:END -->
 
 ---
 </div>

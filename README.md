@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HUAWEI Mate 60 Pro launched: This phone can make satellite calls](https://www.androidauthority.com/huawei-mate-60-pro-3358902/)
  - [Nielsen: over two years, the number of streaming titles in the US, Canada, UK, Mexico, and Germany grew 39% to 2.35M and streaming services grew from 118 to 167 &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/230829/p5#a230829p5)
  - [Apple wipes out Android to dominate list of top 5 smartphones shipped this year](https://www.androidauthority.com/top-10-smartphones-shipped-2023-3358913/)
  - [A look at Monotype, which owns most major fonts, like Arial and Helvetica, and exchanges FontShop and MyFonts; designers say the industry is becoming a monopoly &lpar;Sara Friedman/The Hustle&rpar;](http://www.techmeme.com/230829/p4#a230829p4)
- - [OPPO Find N3 Flip takes aim at Galaxy Z Flip 5 with borrowed OnePlus features](https://www.androidauthority.com/oppo-find-n3-flip-3358524/)
- - [Oppo&#39;s Find N3 Flip Has an Alert Slider and 3 Rear Cameras     - CNET](https://www.cnet.com/tech/mobile/oppos-find-n3-flip-has-an-alert-slider-and-3-rear-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OPPO Find N3 Flip takes aim at Galaxy Z Flip 5 with borrowed OnePlus features](https://www.androidauthority.com/oppo-find-n3-flip-3358524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

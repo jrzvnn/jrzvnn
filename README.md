@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 6 vs Fitbit Versa 4: Which watch is right for you?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-fitbit-versa-4-3357801/)
- - [Google Photos brings welcome Locked Folder improvements](https://www.androidauthority.com/google-photos-locked-folder-improvements-3358910/)
- - [Best Multivitamins for Men of 2023     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
- - [Nudes stored in Google Photos can now be securely accessed from more devices](https://www.theverge.com/2023/8/29/23850223/google-photos-locked-folders-ios-web-android-password-protected-nudes)
- - [Digital Eclipse is preserving classic games in the most entertaining way possible](https://www.theverge.com/23848883/karateka-making-of-digital-eclipse-game-preservation)<!-- TECH:END -->
+ - [YouTube will waive a creator’s content violation warning — if they attend a class](https://www.theverge.com/2023/8/29/23850431/youtube-content-violation-class-warning-removal)
+ - [Grayscale was unreasonably denied its Bitcoin ETF, court rules](https://www.theverge.com/2023/8/29/23850498/grayscale-bitcoin-etf-lawsuit-wins-sec)
+ - [You’ll soon be able to control an LG appliance with Samsung’s app — and vice versa](https://www.theverge.com/2023/8/29/23850250/samsung-lg-app-home-connectivity-alliance-appliances-ifa)
+ - [The NFL, NBA, and UFC want to rewrite the laws for fast DMCA takedowns](https://www.theverge.com/2023/8/29/23850343/dmca-takedown-nfl-nba-ufc-uspto-letter-streams)
+ - [TechCrunch acquires Connie Loizos&#39; media startup StrictlyVC, which has 60K newsletter subscribers, and appoints Loizos as TechCrunch&#39;s editor-in-chief and GM &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230829/p22#a230829p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

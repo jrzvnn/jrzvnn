@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - 😝 [OKAY HELL NO](http://9gag.com/gag/aqepwgR)
- - 💣 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 😝 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
+ - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 </div>

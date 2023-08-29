@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hardware is a benefit to enterprise, survey reveals](https://appleinsider.com/articles/23/08/29/apple-hardware-is-a-benefit-to-enterprise-survey-reveals?utm_medium=rss)
+ - [Roborock is offering up to $400 off a range of robot vacuums right now](https://www.theverge.com/2023/8/29/23849034/roborock-robot-vacuum-belkin-fujifilm-instant-camera-deal-sale)
+ - [Verizon is making it easier to block spam texts sent by email](https://www.theverge.com/2023/8/29/23850366/verizon-email-to-text-spammers-block)
  - [Vision Pro display delays may get solved by China suppliers](https://appleinsider.com/articles/23/08/29/vision-pro-display-delays-may-get-solved-by-china-suppliers?utm_medium=rss)
- - [iPhone 14 Pro Max was the best-selling smartphone for first half of 2023](https://appleinsider.com/articles/23/08/29/iphone-14-pro-max-was-the-best-selling-smartphone-for-first-half-of-2023?utm_medium=rss)
- - [The Galaxy S24 Plus could get a long-awaited display upgrade](https://www.androidauthority.com/samsung-galaxy-s24-plus-display-upgrade-3359033/)
- - [An OHCHR investigation finds 120K+ people in Myanmar and ~100K people in Cambodia &quot;may be held in situations where they are forced to carry out online scams&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230829/p20#a230829p20)
- - [The Weird, Big-Money World of Cybercrime Writing Contests](https://www.wired.com/story/hacking-contests-cybercriminals/)<!-- TECH:END -->
+ - [Marshall’s latest wireless earbuds are ready for the LE Audio future](https://www.theverge.com/2023/8/29/23850281/marshall-motif-ii-anc-earbuds-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

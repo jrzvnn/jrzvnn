@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OPPO Find N3 Flip takes aim at Galaxy Z Flip 5 with borrowed OnePlus features](https://www.androidauthority.com/oppo-find-n3-flip-3358524/)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
  - [Court filing: DCG reaches an in-principle deal with Genesis creditors to resolve the bankruptcy claims, estimates recoveries of 70%-90% for unsecured creditors &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230829/p3#a230829p3)
  - [There’s great news and bad news for Galaxy S24 Ultra storage](https://www.androidauthority.com/samsung-galaxy-s24-ultra-2tb-3358871/)
- - [Google could leave Samsung behind with longer Android updates for Pixel 8 series](https://www.androidauthority.com/google-pixel-8-software-updates-3358870/)
- - [Omdia: Apple shipped 26.5M iPhone 14 Pro Max phones in H1 2023, the most out of any model from any manufacturer; Apple had all four of the top-shipping models &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230829/p2#a230829p2)<!-- TECH:END -->
+ - [Google could leave Samsung behind with longer Android updates for Pixel 8 series](https://www.androidauthority.com/google-pixel-8-software-updates-3358870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

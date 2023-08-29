@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TCL 40 NXTPAPER is a retail version of the nifty concept phone it had at CES](https://www.androidauthority.com/tcl-40-nxtpaper-3358261/)
+ - [TCL’s latest phones try to put an emphasis on eye comfort](https://www.theverge.com/2023/8/29/23849169/tcl-40-nxtpaper-5g-screen-specs-price-ifa)
  - [Businesses increasing Apple hardware buys because of longevity &amp; reliability](https://appleinsider.com/articles/23/08/29/apple-hardware-is-a-benefit-to-enterprise-survey-reveals?utm_medium=rss)
  - [Roborock is offering up to $400 off a range of robot vacuums right now](https://www.theverge.com/2023/8/29/23849034/roborock-robot-vacuum-belkin-fujifilm-instant-camera-deal-sale)
- - [Verizon is making it easier to block spam texts sent by email](https://www.theverge.com/2023/8/29/23850366/verizon-email-to-text-spammers-block)
- - [Vision Pro display delays may get solved by China suppliers](https://appleinsider.com/articles/23/08/29/vision-pro-display-delays-may-get-solved-by-china-suppliers?utm_medium=rss)
- - [Marshall’s latest wireless earbuds are ready for the LE Audio future](https://www.theverge.com/2023/8/29/23850281/marshall-motif-ii-anc-earbuds-features-price)<!-- TECH:END -->
+ - [Verizon is making it easier to block spam texts sent by email](https://www.theverge.com/2023/8/29/23850366/verizon-email-to-text-spammers-block)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

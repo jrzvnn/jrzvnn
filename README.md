@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 💣 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)<!-- MEMES:END -->
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 💣 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 </div>

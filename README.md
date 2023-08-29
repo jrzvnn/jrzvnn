@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 💣 [Truth or lie?](http://9gag.com/gag/aL1N3ng)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 😝 [Awww](http://9gag.com/gag/a1PqnKG)
+ - 😝 [Dumping A Huge Tub Of Soapy Water Down A Stairwell](http://9gag.com/gag/a9qNem0)
+ - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 </div>

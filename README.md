@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Cloud unveils improvements to Vertex AI to better compete with Azure AI studio and Amazon Bedrock; Nvidia announces PaxML, built on top of Google&#39;s JAX &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)
+ - [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
  - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)
  - [Apple will reportedly launch AirPods with USB-C in September](https://www.theverge.com/2023/8/29/23851103/apple-airpods-usb-c-september-event)
- - [Tesla scolded for hands-free Autopilot mode that could lead to ‘driver inattention’](https://www.theverge.com/2023/8/29/23851053/tesla-autopilot-fsd-nhtsa-hands-free-letter-elon-mode)
- - [X says in a blog post that it is going to allow political advertising starting in the US and will &quot;also provide a global advertising transparency center&quot; &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/230829/p32#a230829p32)
- - [Samsung Galaxy Z Flip 5 vs Motorola Razr Plus: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-3357710/)<!-- TECH:END -->
+ - [Tesla scolded for hands-free Autopilot mode that could lead to ‘driver inattention’](https://www.theverge.com/2023/8/29/23851053/tesla-autopilot-fsd-nhtsa-hands-free-letter-elon-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

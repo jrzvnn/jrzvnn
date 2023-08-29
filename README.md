@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biometrics? Bring it on: why Okta’s Jameeka Green Aaron wants passwords to go away](https://www.theverge.com/23850354/biometrics-breaches-okta-jameeka-green-aaron-passwords-passkeys-security)
+ - [WhatsApp launches a new native macOS app, available via its website; users can participate in video calls with up to eight people and audio with 32 people &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230829/p24#a230829p24)
  - [Apple iPad Air 6: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/apple-ipad-air-6-3357074/)
  - [Google says Duet AI for Workspace will cost $30/month/user for enterprise, consumer pricing will come in the coming months, and Workspace has 10M paying users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230829/p23#a230829p23)
- - [YouTube will waive a creator’s content violation warning — if they attend a class](https://www.theverge.com/2023/8/29/23850431/youtube-content-violation-class-warning-removal)
- - [Grayscale was unreasonably denied its Bitcoin ETF, court rules](https://www.theverge.com/2023/8/29/23850498/grayscale-bitcoin-etf-lawsuit-wins-sec)
- - [You’ll soon be able to control an LG appliance with Samsung’s app — and vice versa](https://www.theverge.com/2023/8/29/23850250/samsung-lg-app-home-connectivity-alliance-appliances-ifa)<!-- TECH:END -->
+ - [YouTube will waive a creator’s content violation warning — if they attend a class](https://www.theverge.com/2023/8/29/23850431/youtube-content-violation-class-warning-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
- - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 💣 [Then and now](http://9gag.com/gag/a8qXX8d)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 </div>

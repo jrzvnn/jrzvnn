@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next level cheating](http://9gag.com/gag/az2DQ6z)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [Murder tries to get gun](http://9gag.com/gag/a2KjVwE)
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
  - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal docs: Google plans to sell mapping APIs to companies making products that use solar and air quality data, targeting ~$100M in revenue in the first year &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230828/p17#a230828p17)
+ - [PC Shipments Still Falling After COVID Pushed High Sales     - CNET](https://www.cnet.com/tech/computing/pc-shipments-still-falling-after-covid-pushed-high-sales/#ftag=CAD590a51e)
  - [Internal meeting: Andy Jassy told employees who refuse to comply with Amazon&#39;s return-to-office mandate that &quot;it&#39;s probably not going to work out for you&quot; &lpar;Eugene Kim/Insider&rpar;](http://www.techmeme.com/230828/p16#a230828p16)
- - [OpenAI Wants Its New ChatGPT to Be Your &#39;AI Assistant for Work&#39;     - CNET](https://www.cnet.com/tech/computing/openai-wants-its-new-chatgpt-to-be-your-ai-assistant-for-work/#ftag=CAD590a51e)
- - [Amazon CEO reportedly told remote employees: ‘It’s probably not going to work out’](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)
- - [Elon Musk, Mark Zuckerberg, Sundar Pichai, Sam Altman, Jensen Huang, and others are expected to attend Sen. Schumer&#39;s closed-door AI forum on September 13 &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230828/p15#a230828p15)
- - [Google announces several automation starters and actions for the Home app, plus new features for the Home script editor, which is available in Public Preview &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230828/p14#a230828p14)<!-- TECH:END -->
+ - [Your Apple Watch Band Is Filthy, Study Says. How To Clean It Now     - CNET](https://www.cnet.com/tech/mobile/your-apple-watch-band-is-filthy-study-says-how-to-clean-it-now/#ftag=CAD590a51e)
+ - [OpenAI Wants Its New ChatGPT to Be Your &#39;AI Assistant for Work&#39;     - CNET](https://www.cnet.com/tech/computing/openai-wants-its-new-chatgpt-to-be-your-ai-assistant-for-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

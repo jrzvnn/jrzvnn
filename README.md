@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
+ - [Meta rejects the Oversight Board&#39;s recommendation to suspend former Cambodian PM Hun Sen&#39;s account, determining it wouldn&#39;t &quot;be consistent with our policies&quot; &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230829/p29#a230829p29)
  - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)
- - [The FBI led an effort to dismantle the Qakbot botnet, which ransomware gangs used as an infection vector for years, on August 25 after infiltrating its network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230829/p27#a230829p27)
- - [Apple supplies third visionOS developer beta](https://appleinsider.com/articles/23/08/29/apple-supplies-third-visionos-developer-beta?utm_medium=rss)
- - [iFixit wants Congress to let it hack McDonald’s ice cream machines](https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit)
- - [Apple issues eighth iOS 17, iPadOS 17 developer betas for testing](https://appleinsider.com/articles/23/08/29/apple-issues-eighth-ios-17-ipados-17-developer-betas-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Mortgage Rates for Aug. 28, 2023: Rates Tick Up for Homebuyers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-aug-28-2023-tick-up/#ftag=CAD590a51e)
+ - [The FBI led an effort to dismantle the Qakbot botnet, which ransomware gangs used as an infection vector for years, on August 25 after infiltrating its network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230829/p27#a230829p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

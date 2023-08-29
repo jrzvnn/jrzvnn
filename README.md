@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Pro Max was the best-selling smartphone for first half of 2023](https://appleinsider.com/articles/23/08/29/iphone-14-pro-max-was-the-best-selling-smartphone-for-first-half-of-2023?utm_medium=rss)
  - [The Galaxy S24 Plus could get a long-awaited display upgrade](https://www.androidauthority.com/samsung-galaxy-s24-plus-display-upgrade-3359033/)
  - [An OHCHR investigation finds 120K+ people in Myanmar and ~100K people in Cambodia &quot;may be held in situations where they are forced to carry out online scams&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230829/p20#a230829p20)
- - [Netflix’s The Killer looks like David Fincher at his most brutal in first trailer](https://www.theverge.com/23849549/netflix-the-killer-david-fincher-trailer)
- - [Snap begins rolling out Dreams, a take on the generative AI selfies that Lensa and others have popularized, for $1 per eight-photo pack, after a first free pack &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230829/p19#a230829p19)
- - [Now is the worst time to buy some new AirPods](https://www.androidauthority.com/dont-buy-apple-airpods-now-3358172/)<!-- TECH:END -->
+ - [The Weird, Big-Money World of Cybercrime Writing Contests](https://www.wired.com/story/hacking-contests-cybercriminals/)
+ - [Netflix’s The Killer looks like David Fincher at his most brutal in first trailer](https://www.theverge.com/23849549/netflix-the-killer-david-fincher-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

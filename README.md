@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 😝 [OKAY HELL NO](http://9gag.com/gag/aqepwgR)
+ - 💣 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
 
 ---
 </div>

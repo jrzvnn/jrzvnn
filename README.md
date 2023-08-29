@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let\u2019s throw some favorite gifs in the comments](http://9gag.com/gag/aDYNqod)
+ - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
  - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
- - 💣 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 😝 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
- - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
+ - 👉 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: OpenAI is on pace to generate more than $1B in revenue over the next 12 months from the sale of AI software and the computing capacity that powers it &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/230829/p40#a230829p40)
  - [Apple will give &#39;Killers of the Flower Moon&#39; a global release on October 20](https://appleinsider.com/articles/23/08/29/apple-will-give-killers-of-the-flower-moon-a-global-release-on-october-20?utm_medium=rss)
  - [Sources: Tether has added Britannia Bank &amp; Trust, a privately held bank operating in the Bahamas, to process dollar transfers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230829/p39#a230829p39)
  - [Hurricane Idalia Is About to Slam Florida With a Wall of Water](https://www.wired.com/story/hurricane-idalia-is-about-to-slam-florida-with-a-wall-of-water/)
- - [SiriusXM’s Adam Sachs on why podcasts are showing up on the radio](https://www.theverge.com/2023/8/29/23851442/siriusxm-adam-sachs-podcasts-radio-interview)
- - [This M1 Max MacBook Pro 16-inch with 64GB RAM is in stock for $2,299 &lpar;$1,400 off&rpar;](https://appleinsider.com/articles/23/08/29/this-m1-max-macbook-pro-16-inch-with-64gb-ram-is-in-stock-for-2299-1400-off?utm_medium=rss)<!-- TECH:END -->
+ - [SiriusXM’s Adam Sachs on why podcasts are showing up on the radio](https://www.theverge.com/2023/8/29/23851442/siriusxm-adam-sachs-podcasts-radio-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

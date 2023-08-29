@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google ends its phone subscription bundle, Pixel Pass, for new customers after launching it in 2021 alongside the Pixel 6 series in the US &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230829/p31#a230829p31)
+ - [Google quietly ends Pixel Pass right before the Pixel 8 launch](https://www.androidauthority.com/google-pixel-pass-discontinued-3359146/)
  - [There may be new AirPods with USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)
  - [Apple event invite showcases iPhone 15 Pro colors, says leaker](https://appleinsider.com/articles/23/08/29/apple-event-invite-showcases-iphone-15-pro-colors-says-leaker?utm_medium=rss)
- - [Meta Avatars finally have legs in Quest Home, with the v57 update on the Public Test Channel, after announcing they were coming in October 2022 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230829/p30#a230829p30)
- - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)<!-- TECH:END -->
+ - [Meta Avatars finally have legs in Quest Home, with the v57 update on the Public Test Channel, after announcing they were coming in October 2022 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230829/p30#a230829p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

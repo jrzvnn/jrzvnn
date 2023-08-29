@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 💣 [Next level cheating](http://9gag.com/gag/az2DQ6z)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 💣 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 😝 [Then and now](http://9gag.com/gag/a8qXX8d)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 </div>

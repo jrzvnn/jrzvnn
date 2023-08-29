@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
- - [MoonSwatch Mission to Neptune 2023: Price, Details, Release Date](https://www.wired.com/story/moonswatch-mission-to-neptune-speedmaster-moonwatch/)
- - [The 2023 flagship Motorola phones are all on sale this week](https://www.androidauthority.com/motorola-labor-day-sale-3359099/)
- - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [Mastodon will run on an ancient Apple IIe, if you try hard enough](https://appleinsider.com/articles/23/08/29/mastodon-will-run-on-an-ancient-apple-iie-if-you-try-hard-enough?utm_medium=rss)<!-- TECH:END -->
+ - [Apple supplies third visionOS developer beta](https://appleinsider.com/articles/23/08/29/apple-supplies-third-visionos-developer-beta?utm_medium=rss)
+ - [Apple issues eighth iOS 17, iPadOS 17 developer betas for testing](https://appleinsider.com/articles/23/08/29/apple-issues-eighth-ios-17-ipados-17-developer-betas-for-testing?utm_medium=rss)
+ - [Apple seeds watchOS 10 developer beta 8](https://appleinsider.com/articles/23/08/29/apple-seeds-watchos-10-developer-beta-8?utm_medium=rss)
+ - [Apple distributes eighth tvOS 17 developer beta](https://appleinsider.com/articles/23/08/29/apple-distributes-eighth-tvos-17-developer-beta?utm_medium=rss)
+ - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

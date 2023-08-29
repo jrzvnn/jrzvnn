@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
  - 😝 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 💣 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
  - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [Not really sure what to say to this..](http://9gag.com/gag/abvmdvX)<!-- MEMES:END -->
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 </div>

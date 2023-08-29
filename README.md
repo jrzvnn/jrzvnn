@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
- - 😝 [Any captain ?](http://9gag.com/gag/aQENVR8)
- - 💣 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 😝 [Priorities set right](http://9gag.com/gag/a5Xy91o)
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 👉 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)<!-- MEMES:END -->
 
 ---
 </div>

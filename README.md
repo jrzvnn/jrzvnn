@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S24 Plus could get a long-awaited display upgrade](https://www.androidauthority.com/samsung-galaxy-s24-plus-display-upgrade-3359033/)
+ - [An OHCHR investigation finds 120K+ people in Myanmar and ~100K people in Cambodia &quot;may be held in situations where they are forced to carry out online scams&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230829/p20#a230829p20)
+ - [Netflix’s The Killer looks like David Fincher at his most brutal in first trailer](https://www.theverge.com/23849549/netflix-the-killer-david-fincher-trailer)
  - [Snap begins rolling out Dreams, a take on the generative AI selfies that Lensa and others have popularized, for $1 per eight-photo pack, after a first free pack &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230829/p19#a230829p19)
- - [Now is the worst time to buy some new AirPods](https://www.androidauthority.com/dont-buy-apple-airpods-now-3358172/)
- - [COROS PACE 3 smartwatch is here: Low weight, better GPS, slightly more expensive](https://www.androidauthority.com/coros-pace-3-3358930/)
- - [Similarweb and Data.ai: Meta blocking news in Canada has had almost no impact on Canadians&#39; Facebook usage, supporting Meta&#39;s claim that news holds little value &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p18#a230829p18)
- - [Get up to $650 off Roborock robot vacuum and mop solutions with Anniversary Sale discounts](https://appleinsider.com/articles/23/08/29/get-up-to-650-off-roborock-robot-vacuum-and-mop-solutions-with-anniversary-sale-discounts?utm_medium=rss)<!-- TECH:END -->
+ - [Now is the worst time to buy some new AirPods](https://www.androidauthority.com/dont-buy-apple-airpods-now-3358172/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

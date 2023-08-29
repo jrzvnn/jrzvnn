@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Interviews with 36 Remotasks workers in the Philippines, who annotate data for Scale AI customers in the US, reveal delayed, reduced, or canceled payments &lpar;Washington Post&rpar;](http://www.techmeme.com/230829/p1#a230829p1)
- - [Kuo: Apple aims for iPhone 15 Pro Max to make up 35%-40% of iPhone 15 shipments, optimistic about the phone&#39;s exclusive periscope lens camera as a selling point &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/230828/p20#a230828p20)
- - [Binance is reevaluating its Russian business, including potentially a full withdrawal, after stopping P2P trading in Russia for all currencies but the ruble &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230828/p19#a230828p19)
- - [ASUS confirms it’s NOT shutting down the Zenfone division](https://www.androidauthority.com/asus-zenfone-division-shutdown-official-statement-3358842/)
- - [Police won’t fine Elon Musk for illegally livestreaming while driving](https://www.theverge.com/2023/8/28/23850011/elon-musk-driving-phone-california-law-palo-alto)<!-- TECH:END -->
+ - [Best Gaming Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
+ - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
+ - [Best Chemical Drain Cleaners for 2023     - CNET](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)
+ - [Best Smoke Detector for 2023     - CNET](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s myPlan lineup adds a pricier Unlimited Ultimate option](https://www.theverge.com/2023/8/29/23851218/verizon-myplan-5g-wireless-plan-ultimate-unlimited)
  - [FBI brings down massive botnet that infected more than 700,000 computers](https://www.theverge.com/2023/8/29/23851227/fbi-doj-qakbot-botnet-malware)
  - [Google previews AlloyDB AI, an integrated set of capabilities built into AlloyDB for PostgreSQL to help developers build generative AI apps using their own data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230829/p38#a230829p38)
  - [Sixth public betas for iOS 17 and others now available](https://appleinsider.com/articles/23/08/29/sixth-public-betas-for-ios-17-and-others-now-available?utm_medium=rss)
- - [HP Q3: revenue down 10% YoY to $13.2B, vs. $13.4B est., Personal Systems revenue down 11% YoY to $8.9B, and Printing revenue down 7% YoY to $4.3B; HPQ falls 5%+ &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/230829/p37#a230829p37)
- - [HPE reports Q3 revenue up 1% YoY to $7B, HPC &amp; AI revenue up 1% YoY to $836M, Intelligent Edge revenue up 50% YoY to $1.4B, and bumps its FY 2023 profit outlook &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230829/p36#a230829p36)<!-- TECH:END -->
+ - [Samba de Amigo: Party-To-Go Brings Rhythm to Apple Arcade     - CNET](https://www.cnet.com/tech/mobile/samba-de-amigo-party-to-go-brings-rhythm-to-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

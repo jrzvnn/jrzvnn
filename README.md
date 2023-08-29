@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)
+ - [Apple will reportedly launch AirPods with USB-C in September](https://www.theverge.com/2023/8/29/23851103/apple-airpods-usb-c-september-event)
  - [Tesla scolded for hands-free Autopilot mode that could lead to ‘driver inattention’](https://www.theverge.com/2023/8/29/23851053/tesla-autopilot-fsd-nhtsa-hands-free-letter-elon-mode)
  - [X says in a blog post that it is going to allow political advertising starting in the US and will &quot;also provide a global advertising transparency center&quot; &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/230829/p32#a230829p32)
- - [Samsung Galaxy Z Flip 5 vs Motorola Razr Plus: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-3357710/)
- - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [How Two FDA Moves Have Quietly Advanced Reproductive Health Care     - CNET](https://www.cnet.com/health/medical/how-two-fda-moves-have-quietly-advanced-reproductive-health-care/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 vs Motorola Razr Plus: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-vs-motorola-razr-plus-3357710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

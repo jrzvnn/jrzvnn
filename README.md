@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud announces its 5th generation Tensor Processing Units, promising 2x training performance improvement per dollar compared to 2021&#39;s 4th gen TPUs &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230829/p17#a230829p17)
- - [Google unveils SynthID, which embeds an invisible digital &quot;watermark&quot; directly into AI-generated images, available now to Cloud customers for Imagen-made images &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/230829/p16#a230829p16)
- - [Google plans to update Chat with a new design, Duet AI collaboration tools, &quot;huddles&quot; for audio and video calls, capacity for 500K in group channels, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230829/p15#a230829p15)
- - [Google adds AI tools from others, like Meta&#39;s Llama 2 and Anthropic&#39;s Claude 2, to Cloud, expands Duet AI in Workspace, partners with Fox Sports, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/230829/p14#a230829p14)
- - [Meta takes down a Chinese influence campaign, started in 2019 and spanning thousands of accounts on Facebook, TikTok, X, and more, the largest such campaign yet &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/230829/p13#a230829p13)<!-- TECH:END -->
+ - [Now is the worst time to buy some new AirPods](https://www.androidauthority.com/dont-buy-apple-airpods-now-3358172/)
+ - [COROS PACE 3 smartwatch is here: Low weight, better GPS, slightly more expensive](https://www.androidauthority.com/coros-pace-3-3358930/)
+ - [Similarweb and Data.ai: Meta blocking news in Canada has had almost no impact on Canadians&#39; Facebook usage, supporting Meta&#39;s claim that news holds little value &lpar;Reuters&rpar;](http://www.techmeme.com/230829/p18#a230829p18)
+ - [Get up to $650 off Roborock robot vacuum and mop solutions with Anniversary Sale discounts](https://appleinsider.com/articles/23/08/29/get-up-to-650-off-roborock-robot-vacuum-and-mop-solutions-with-anniversary-sale-discounts?utm_medium=rss)
+ - [The Best Sun-Protection Clothes for Everyday Wear &lpar;2023&rpar;](https://www.wired.com/gallery/everyday-sun-protection/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

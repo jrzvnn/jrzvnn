@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hardware is a benefit to enterprise, survey reveals](https://appleinsider.com/articles/23/08/29/apple-hardware-is-a-benefit-to-enterprise-survey-reveals?utm_medium=rss)
+ - [Businesses increasing Apple hardware buys because of longevity &amp; reliability](https://appleinsider.com/articles/23/08/29/apple-hardware-is-a-benefit-to-enterprise-survey-reveals?utm_medium=rss)
  - [Roborock is offering up to $400 off a range of robot vacuums right now](https://www.theverge.com/2023/8/29/23849034/roborock-robot-vacuum-belkin-fujifilm-instant-camera-deal-sale)
  - [Verizon is making it easier to block spam texts sent by email](https://www.theverge.com/2023/8/29/23850366/verizon-email-to-text-spammers-block)
  - [Vision Pro display delays may get solved by China suppliers](https://appleinsider.com/articles/23/08/29/vision-pro-display-delays-may-get-solved-by-china-suppliers?utm_medium=rss)

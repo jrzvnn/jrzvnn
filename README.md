@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Surface Pro 10: Release date, price, specs, rumors, and more](https://www.androidauthority.com/microsoft-surface-pro-10-3357886/)
- - [Best Home Security Camera of 2023     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
- - [Google Cloud unveils improvements to Vertex AI to better compete with Azure AI studio and Amazon Bedrock; Nvidia announces PaxML, built on top of Google&#39;s JAX &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)
+ - [Google Cloud unveils Vertex AI improvements to better compete with Azure AI Studio and Amazon Bedrock; Nvidia announces PaxML, built on Google&#39;s JAX framework &lpar;Matthew Lynley/Supervised&rpar;](http://www.techmeme.com/230829/p33#a230829p33)
  - [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
- - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues fourth beta for AirPods Pro 2](https://appleinsider.com/articles/23/08/29/apple-issues-fourth-beta-for-airpods-pro-2?utm_medium=rss)
+ - [Apple will reportedly launch AirPods with USB-C in September](https://www.theverge.com/2023/8/29/23851103/apple-airpods-usb-c-september-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

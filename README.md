@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple aims for iPhone 15 Pro Max to make up 35%-40% of iPhone 15 shipments, optimistic about the phone&#39;s exclusive periscope lens camera as a selling point &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/230828/p20#a230828p20)
  - [Binance is reevaluating its Russian business, including potentially a full withdrawal, after stopping P2P trading in Russia for all currencies but the ruble &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230828/p19#a230828p19)
  - [ASUS denies Zenfone division shutdown](https://www.androidauthority.com/asus-zenfone-division-shutdown-official-statement-3358842/)
  - [Police won’t fine Elon Musk for illegally livestreaming while driving](https://www.theverge.com/2023/8/28/23850011/elon-musk-driving-phone-california-law-palo-alto)
- - [iPhone 15 Pro Max periscope camera to be major selling point, says Kuo](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo?utm_medium=rss)
- - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)<!-- TECH:END -->
+ - [iPhone 15 Pro Max periscope camera to be major selling point, says Kuo](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

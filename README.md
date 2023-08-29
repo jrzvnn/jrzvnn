@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 💣 [Escalated so Quickly](http://9gag.com/gag/awZGvER)
  - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 💣 [Skill](http://9gag.com/gag/a8qXnQe)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
  - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---

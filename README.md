@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google could leave Samsung behind with longer Android updates for Pixel 8 series](https://www.androidauthority.com/google-pixel-8-software-updates-3358870/)
  - [Omdia: Apple shipped 26.5M iPhone 14 Pro Max phones in H1 2023, the most out of any model from any manufacturer; Apple had all four of the top-shipping models &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230829/p2#a230829p2)
  - [Interviews with 36 Remotasks workers in the Philippines, who annotate data for Scale AI customers in the US, reveal delayed, reduced, or canceled payments &lpar;Washington Post&rpar;](http://www.techmeme.com/230829/p1#a230829p1)
  - [Best Gaming Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Best Chemical Drain Cleaners for 2023     - CNET](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

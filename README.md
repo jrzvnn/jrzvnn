@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose wisely](http://9gag.com/gag/a7q6mQm)
- - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Next level cheating](http://9gag.com/gag/az2DQ6z)
  - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
+ - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 </div>

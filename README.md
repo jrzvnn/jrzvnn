@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs: Google plans to sell mapping APIs to companies making products that use solar and air quality data, targeting ~$100M in revenue in the first year &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230828/p17#a230828p17)
+ - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)
+ - [Intel details next-gen Xeon processors Sierra Forest and Granite Rapids, launching in 2024, claiming Sierra Forest has 2.4x performance per watt than last gen &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)
+ - [Docs: Google plans to sell mapping API access to companies making products that use solar, energy, and air quality data, targeting ~$100M in revenue in year one &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230828/p17#a230828p17)
  - [PC Shipments Still Falling After COVID Pushed High Sales     - CNET](https://www.cnet.com/tech/computing/pc-shipments-still-falling-after-covid-pushed-high-sales/#ftag=CAD590a51e)
- - [Internal meeting: Andy Jassy told employees who refuse to comply with Amazon&#39;s return-to-office mandate that &quot;it&#39;s probably not going to work out for you&quot; &lpar;Eugene Kim/Insider&rpar;](http://www.techmeme.com/230828/p16#a230828p16)
- - [Your Apple Watch Band Is Filthy, Study Says. How To Clean It Now     - CNET](https://www.cnet.com/tech/mobile/your-apple-watch-band-is-filthy-study-says-how-to-clean-it-now/#ftag=CAD590a51e)
- - [OpenAI Wants Its New ChatGPT to Be Your &#39;AI Assistant for Work&#39;     - CNET](https://www.cnet.com/tech/computing/openai-wants-its-new-chatgpt-to-be-your-ai-assistant-for-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal meeting: Andy Jassy told employees who refuse to comply with Amazon&#39;s return-to-office mandate that &quot;it&#39;s probably not going to work out for you&quot; &lpar;Eugene Kim/Insider&rpar;](http://www.techmeme.com/230828/p16#a230828p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

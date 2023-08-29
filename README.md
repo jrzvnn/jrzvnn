@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SiriusXM’s Adam Sachs on why podcasts are showing up on the radio](https://www.theverge.com/2023/8/29/23851442/siriusxm-adam-sachs-podcasts-radio-interview)
+ - [This M1 Max MacBook Pro 16-inch with 64GB RAM is in stock for $2,299 &lpar;$1,400 off&rpar;](https://appleinsider.com/articles/23/08/29/this-m1-max-macbook-pro-16-inch-with-64gb-ram-is-in-stock-for-2299-1400-off?utm_medium=rss)
  - [Verizon’s myPlan lineup adds a pricier Unlimited Ultimate option](https://www.theverge.com/2023/8/29/23851218/verizon-myplan-5g-wireless-plan-ultimate-unlimited)
  - [FBI brings down massive botnet that infected more than 700,000 computers](https://www.theverge.com/2023/8/29/23851227/fbi-doj-qakbot-botnet-malware)
- - [Google previews AlloyDB AI, an integrated set of capabilities built into AlloyDB for PostgreSQL to help developers build generative AI apps using their own data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230829/p38#a230829p38)
- - [Sixth public betas for iOS 17 and others now available](https://appleinsider.com/articles/23/08/29/sixth-public-betas-for-ios-17-and-others-now-available?utm_medium=rss)
- - [Samba de Amigo: Party-To-Go Brings Rhythm to Apple Arcade     - CNET](https://www.cnet.com/tech/mobile/samba-de-amigo-party-to-go-brings-rhythm-to-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google previews AlloyDB AI, an integrated set of capabilities built into AlloyDB for PostgreSQL to help developers build generative AI apps using their own data &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230829/p38#a230829p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

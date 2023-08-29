@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 😝 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)
- - 💣 [Show me your IDs](http://9gag.com/gag/aNw2243)
- - 😝 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 💣 [Truth or lie?](http://9gag.com/gag/aL1N3ng)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
  - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---

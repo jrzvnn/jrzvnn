@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 😝 [Savage](http://9gag.com/gag/a6q3e4A)
+ - 😝 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 😝 [Pepper spraying the innocent soul . Hehehe](http://9gag.com/gag/aXnG3pb)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 </div>

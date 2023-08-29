@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
  - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
  - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
 

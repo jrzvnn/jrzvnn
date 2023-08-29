@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swedish payments company Trustly acquires French recurring payments service SlimPay, sources say for &amp;euro;70M; Trustly shelved IPO plans in 2021 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230829/p7#a230829p7)
  - [How to Use AI to Talk to Whales—and Save Life on Earth](https://www.wired.com/story/use-ai-talk-to-whales-save-life-on-earth/)
  - [A look at Kick, a Twitch rival launched in 2022 that is gaining traction among creators for its looser moderation policies and a 95/5 revenue split &lpar;Olivia Balsamo/NBC News&rpar;](http://www.techmeme.com/230829/p6#a230829p6)
  - [Oppo’s new rival to Samsung’s Galaxy Z Flip to launch globally ‘soon’](https://www.theverge.com/2023/8/29/23850190/oppo-find-n3-flip-release-date-alert-slider-hasselblad-cameras)
- - [HUAWEI Mate 60 Pro launched: This phone can make satellite calls](https://www.androidauthority.com/huawei-mate-60-pro-3358902/)
- - [Nielsen: over two years, the number of streaming titles in the US, Canada, UK, Mexico, and Germany grew 39% to 2.35M and streaming services grew from 118 to 167 &lpar;Christopher Palmeri/Bloomberg&rpar;](http://www.techmeme.com/230829/p5#a230829p5)<!-- TECH:END -->
+ - [Zenfone Will Live On: Asus Denies Discontinuation Rumors     - CNET](https://www.cnet.com/tech/mobile/zenfone-will-live-on-asus-denies-discontinuation-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

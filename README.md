@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 😝 [Over 4200 doctors and engineers from africa and middle east arrived on Lampedusa Island, Italy, this weekend - an island with only ~6000 inhabitants. And again there are no women and children among them, If this is not an invasion, i don&#39;t know what is.](http://9gag.com/gag/aZDV4PW)
- - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [The stare...](http://9gag.com/gag/aqepAZ7)
- - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
+ - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
+ - 💣 [The stare...](http://9gag.com/gag/aqepAZ7)
+ - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
 
 ---
 </div>

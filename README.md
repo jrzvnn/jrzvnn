@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How to Use AI to Talk to Whales—and Save Life on Earth](https://www.wired.com/story/use-ai-talk-to-whales-save-life-on-earth/)
  - [A look at Kick, a Twitch rival launched in 2022 that is gaining traction among creators for its looser moderation policies and a 95/5 revenue split &lpar;Olivia Balsamo/NBC News&rpar;](http://www.techmeme.com/230829/p6#a230829p6)
  - [Oppo’s new rival to Samsung’s Galaxy Z Flip to launch globally ‘soon’](https://www.theverge.com/2023/8/29/23850190/oppo-find-n3-flip-release-date-alert-slider-hasselblad-cameras)
- - [Zenfone Will Live On: Asus Denies Discontinuation Rumors     - CNET](https://www.cnet.com/tech/mobile/zenfone-will-live-on-asus-denies-discontinuation-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HUAWEI Mate 60 Pro launched: This phone can make satellite calls](https://www.androidauthority.com/huawei-mate-60-pro-3358902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

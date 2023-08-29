@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biometrics? Bring it on: why Okta’s Jameeka Green Aaron wants passwords to go away](https://www.theverge.com/23850354/biometrics-breaches-okta-jameeka-green-aaron-passwords-passkeys-security)
- - [WhatsApp launches a new native macOS app, available via its website; users can participate in video calls with up to eight people and audio with 32 people &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230829/p24#a230829p24)
- - [Apple iPad Air 6: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/apple-ipad-air-6-3357074/)
- - [Google says Duet AI for Workspace will cost $30/month/user for enterprise, consumer pricing will come in the coming months, and Workspace has 10M paying users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230829/p23#a230829p23)
- - [YouTube will waive a creator’s content violation warning — if they attend a class](https://www.theverge.com/2023/8/29/23850431/youtube-content-violation-class-warning-removal)<!-- TECH:END -->
+ - [YouTube lets creators take an educational training course when they receive a warning, which YouTube lifts if they don&#39;t violate the same policy within 90 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230829/p26#a230829p26)
+ - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
+ - [Apple announces ‘Wonderlust’ September 12 launch event for the iPhone 15](https://www.androidauthority.com/apple-iphone-15-launch-event-3359018/)
+ - [Apple announces an event at Apple Park on September 12 at 10am PT, titled &quot;Wonderlust&quot;, where the iPhone 15, Apple Watch Series 9, and more are expected &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230829/p25#a230829p25)
+ - [Apple announces the iPhone 15 launch event](https://www.theverge.com/2023/8/29/23819494/apple-september-event-iphone-15-pro-watch-ultra-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

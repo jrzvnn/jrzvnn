@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max periscope camera to be major selling point, says Kuo](https://appleinsider.com/articles/23/08/29/iphone-15-pro-max-periscope-camera-to-be-major-selling-point-says-kuo?utm_medium=rss)
  - [watchOS 10: Release date, features, and what we hope to see](https://www.androidauthority.com/watchos-10-3358760/)
- - [Intel details next-gen Xeon processors Sierra Forest and Granite Rapids, launching in 2024, claiming Sierra Forest has 2.4x performance per watt than last gen &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)
+ - [Intel details its Xeon chips Sierra Forest and Granite Rapids set for 2024, claiming Sierra Forest has a 2.4x higher performance per watt than fourth-gen Xeons &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230828/p18#a230828p18)
  - [Docs: Google plans to sell mapping API access to companies making products that use solar, energy, and air quality data, targeting ~$100M in revenue in year one &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230828/p17#a230828p17)
- - [PC Shipments Still Falling After COVID Pushed High Sales     - CNET](https://www.cnet.com/tech/computing/pc-shipments-still-falling-after-covid-pushed-high-sales/#ftag=CAD590a51e)
- - [Internal meeting: Andy Jassy told employees who refuse to comply with Amazon&#39;s return-to-office mandate that &quot;it&#39;s probably not going to work out for you&quot; &lpar;Eugene Kim/Insider&rpar;](http://www.techmeme.com/230828/p16#a230828p16)<!-- TECH:END -->
+ - [PC Shipments Still Falling After COVID Pushed High Sales     - CNET](https://www.cnet.com/tech/computing/pc-shipments-still-falling-after-covid-pushed-high-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

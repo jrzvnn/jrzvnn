@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at friend.tech, crypto&#39;s latest craze that briefly became the second highest earning platform after Ethereum before bots and &quot;speculative games&quot; exploded &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230829/p11#a230829p11)
  - [Rumored iPhone 15 Pro box could break a packaging pattern](https://appleinsider.com/articles/23/08/29/rumored-iphone-15-pro-box-could-break-a-packaging-pattern?utm_medium=rss)
  - [Amazon confirms testing increasing the free shipping minimum to $35 from $25 for non-Prime members; Walmart also has a $35 minimum for non-Walmart+ members &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230829/p10#a230829p10)
  - [Apollo.io, which offers sales and marketing tools used by 500K+ firms, raised $100M led by Bain at a $1.6B valuation, up from ~$900M after raising $110M in 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/230829/p9#a230829p9)
- - [The Massive Campaign to Air-Drop Tiny Rabies Vaccines to Raccoons](https://www.wired.com/story/the-massive-campaign-to-air-drop-tiny-rabies-vaccines-to-raccoons/)
- - [Goldie by Sourhouse Review: Keep Your Sourdough Starter in the Goldilocks Zone](https://www.wired.com/review/goldie-by-sourhouse/)<!-- TECH:END -->
+ - [The Massive Campaign to Air-Drop Tiny Rabies Vaccines to Raccoons](https://www.wired.com/story/the-massive-campaign-to-air-drop-tiny-rabies-vaccines-to-raccoons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

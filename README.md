@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Murder tries to get gun](http://9gag.com/gag/a2KjVwE)
- - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 💣 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 💣 [How can you be this dense](http://9gag.com/gag/awZGP88)
  - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
+ - 👉 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)<!-- MEMES:END -->
 
 ---
 </div>

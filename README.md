@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 💣 [Car wasn\u2019t even 6 months old. Guy runs a red light at 60+ mph. Hit me so hard it spun me 3 times. All air bags deployed. The midlyinfuriating part? He has no insurance.](http://9gag.com/gag/aXnGQNP)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [In 1939](http://9gag.com/gag/axon4pD)<!-- MEMES:END -->
+ - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 💣 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)<!-- MEMES:END -->
 
 ---
 </div>

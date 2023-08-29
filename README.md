@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Aug. 29: $48 MagSafe Battery Pack, $899 M2 MacBook Air, iPads from $126, more](https://appleinsider.com/articles/23/08/29/daily-deals-aug-29-48-magsafe-battery-pack-899-m2-macbook-air-ipads-from-126-more?utm_medium=rss)
+ - [The next Nintendo Direct is all about Super Mario Bros. Wonder](https://www.theverge.com/2023/8/29/23850433/super-mario-bros-wonder-nintendo-direct-preview)
  - [TCL 40 NXTPAPER is a retail version of the nifty concept phone it had at CES](https://www.androidauthority.com/tcl-40-nxtpaper-3358261/)
  - [TCL’s latest phones try to put an emphasis on eye comfort](https://www.theverge.com/2023/8/29/23849169/tcl-40-nxtpaper-5g-screen-specs-price-ifa)
- - [Businesses increasing Apple hardware buys because of longevity &amp; reliability](https://appleinsider.com/articles/23/08/29/apple-hardware-is-a-benefit-to-enterprise-survey-reveals?utm_medium=rss)
- - [Roborock is offering up to $400 off a range of robot vacuums right now](https://www.theverge.com/2023/8/29/23849034/roborock-robot-vacuum-belkin-fujifilm-instant-camera-deal-sale)
- - [Verizon is making it easier to block spam texts sent by email](https://www.theverge.com/2023/8/29/23850366/verizon-email-to-text-spammers-block)<!-- TECH:END -->
+ - [Businesses increasing Apple hardware buys because of longevity &amp; reliability](https://appleinsider.com/articles/23/08/29/apple-hardware-is-a-benefit-to-enterprise-survey-reveals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

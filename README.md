@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There may be new AirPods with a USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)
+ - [Meta Avatars finally have legs in Quest Home, with the v57 update on the Public Test Channel, after announcing they were coming in October 2022 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230829/p30#a230829p30)
+ - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
+ - [There may be new AirPods with USB-C charging case in iPhone 15 event](https://appleinsider.com/articles/23/08/29/there-may-be-new-airpods-with-a-usb-c-charging-case-in-iphone-15-event?utm_medium=rss)
  - [Meta’s avatar legs roll out to beta testers, but only in Quest Home](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
- - [Meta rejects the Oversight Board&#39;s recommendation to suspend former Cambodian PM Hun Sen&#39;s account, determining it wouldn&#39;t &quot;be consistent with our policies&quot; &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230829/p29#a230829p29)
- - [Google launches Duet AI in Mandiant Threat Intelligence, Duet AI for Chronicle Security Operations, and Duet AI in Security Command Center, all in preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230829/p28#a230829p28)
- - [Today&#39;s Mortgage Rates for Aug. 28, 2023: Rates Tick Up for Homebuyers     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-aug-28-2023-tick-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta rejects the Oversight Board&#39;s recommendation to suspend former Cambodian PM Hun Sen&#39;s account, determining it wouldn&#39;t &quot;be consistent with our policies&quot; &lpar;Rebecca Klar/The Hill&rpar;](http://www.techmeme.com/230829/p29#a230829p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 💣 [The stare...](http://9gag.com/gag/aqepAZ7)
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 👉 [Then and now](http://9gag.com/gag/a8qXX8d)<!-- MEMES:END -->
+ - 😝 [Edgy qoutes.](http://9gag.com/gag/awZG9zQ)
+ - 😝 [Show me your IDs](http://9gag.com/gag/aNw2243)
+ - 💣 [Priorities set right](http://9gag.com/gag/a5Xy91o)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 👉 [It is indeed in your hands.](http://9gag.com/gag/a2KjAWE)<!-- MEMES:END -->
 
 ---
 </div>

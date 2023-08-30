@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OKAY HELL NO](http://9gag.com/gag/aqepwgR)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [That took a turn](http://9gag.com/gag/a4or0Gd)
  - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
  - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---

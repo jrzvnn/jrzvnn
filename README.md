@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Manual therapy](http://9gag.com/gag/aEqN5RK)
+ - 😝 [Environment activists tried to block road in Germany, didn&#39;t go as well as in UK and France](http://9gag.com/gag/aGENqDn)
  - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 💣 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
+ - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 </div>

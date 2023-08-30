@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox clips will soon automatically upload to OneDrive cloud storage](https://www.theverge.com/2023/8/30/23853101/microsoft-xbox-clips-screenshots-onedrive-automatic-uploads-feature)
  - [Apple may stop offering customer support on social media](https://www.theverge.com/2023/8/30/23852867/apple-x-twitter-youtube-netflix-sony)
- - [Sennheiser’s latest soundbar is half the size and almost half the price](https://www.theverge.com/2023/8/30/23840008/sennheiser-ambeo-soundbar-mini-price-release-date-specs-features-atmos)
- - [31 Best REI Labor Day Deals &lpar;2023&rpar;: Tents, Sleeping Bags, and Outdoor Gear](https://www.wired.com/story/best-rei-labor-day-deals-outdoor-gear-2023-1/)
- - [Tel Aviv-based AI21 Labs, which develops generative AI tools for text use cases, raised a $155M Series C at a $1.4B valuation, taking its total funding to $283M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230830/p32#a230830p32)
- - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
+ - [Sennheiser Ambeo Mini Is a Cheaper Dolby Atmos Soundbar     - CNET](https://www.cnet.com/tech/home-entertainment/sennheiser-ambeo-mini-debuts-cheaper-dolby-atmos-soundbar/#ftag=CAD590a51e)
+ - [Sennheiser’s latest soundbar is half the size and almost half the price](https://www.theverge.com/2023/8/30/23840008/sennheiser-ambeo-soundbar-mini-price-release-date-specs-features-atmos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches third &#39;Impact Accelerator&#39; for training minority-owned businesses](https://appleinsider.com/articles/23/08/30/apple-launches-third-impact-accelerator-for-training-minority-owned-businesses?utm_medium=rss)
  - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)
  - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)
  - [16 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [The future of Tesla is in China](https://www.theverge.com/2023/8/30/23850923/tesla-china-ev-factory-competition-land-of-the-giants)
- - [Early iPhone 15 Pro production problems appear to have been solved](https://appleinsider.com/articles/23/08/30/early-iphone-15-pro-production-problems-appear-to-have-been-solved?utm_medium=rss)<!-- TECH:END -->
+ - [The future of Tesla is in China](https://www.theverge.com/2023/8/30/23850923/tesla-china-ev-factory-competition-land-of-the-giants)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

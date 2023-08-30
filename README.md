@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oceanic+ Dive Housing turns iPhone into an underwater camera &amp; dive computer](https://appleinsider.com/articles/23/08/30/oceanic-dive-housing-turns-iphone-into-an-underwater-camera-dive-computer?utm_medium=rss)
- - [Sony is raising PlayStation Plus prices up to $40 per year](https://www.theverge.com/2023/8/30/23852353/playstation-plus-prices-increase-essential-extra-premium)
- - [Microsoft plans to address an &quot;unintended behavior&quot; causing malware-like notification pop-ups in Windows 11 for months that promote Bing search in Chrome &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230830/p20#a230830p20)
- - [India says at least 32 international electronics makers, including HP, Dell, Asus, Acer, and Lenovo, applied to its incentive program as part of &quot;Make in India&quot; &lpar;Blassy Boben/Reuters&rpar;](http://www.techmeme.com/230830/p19#a230830p19)
- - [Rivian’s new dual-motor R1T will get up to 410 miles of range](https://www.theverge.com/2023/8/30/23852111/rivian-dual-motor-r1t-electric-truck-range-performance)<!-- TECH:END -->
+ - [The annual cost of owning a car has skyrocketed in the last year to over $12K](https://www.theverge.com/2023/8/30/23852125/car-ownership-cost-increasing-us-public-transit-e-bikes)
+ - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
+ - [Google announces a hardware event on October 4 at 10am ET in New York City, where the company is expected to unveil the Pixel 8, Pixel 8 Pro, and Pixel Watch 2 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p21#a230830p21)
+ - [Roborock launches two midrange robovacs with high-end features](https://www.theverge.com/2023/8/30/23851502/roborock-q5-pro-q8-max-robot-vacuum-launch-price-ifa)
+ - [Google sets its Pixel 8 launch event for October 4th](https://www.theverge.com/2023/8/30/23852400/pixel-8-google-event-announced-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

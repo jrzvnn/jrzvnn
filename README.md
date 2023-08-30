@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average 9gag bartender](http://9gag.com/gag/abvm8qO)
- - 😝 [What should i do](http://9gag.com/gag/aKENn9N)
- - 💣 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
- - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
- - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 😝 [In case you need a suggestion for a movie to watch after work](http://9gag.com/gag/aVb19D2)
+ - 💣 [How can you be this dense](http://9gag.com/gag/awZGP88)
+ - 😝 [A simple reminder](http://9gag.com/gag/a7q6BDq)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 </div>

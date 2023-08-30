@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 cases may be synthetic leather, but these &#39;FineWoven&#39; cases probably aren&#39;t it](https://appleinsider.com/articles/23/08/30/iphone-15-cases-may-be-synthetic-leather-but-the-finewoven-cases-probably-arent-it?utm_medium=rss)
+ - [We sent the top ANC headphones to a lab to test their noise-canceling abilities](https://www.theverge.com/23852015/active-noise-cancellation-headphone-test-audio-lab)
  - [The annual cost of owning a car has skyrocketed in the last year to over $12K](https://www.theverge.com/2023/8/30/23852125/car-ownership-cost-increasing-us-public-transit-e-bikes)
  - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
- - [Google announces a hardware event on October 4 at 10am ET in New York City, where the company is expected to unveil the Pixel 8, Pixel 8 Pro, and Pixel Watch 2 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p21#a230830p21)
- - [Roborock launches two midrange robovacs with high-end features](https://www.theverge.com/2023/8/30/23851502/roborock-q5-pro-q8-max-robot-vacuum-launch-price-ifa)
- - [Google sets its Pixel 8 launch event for October 4th](https://www.theverge.com/2023/8/30/23852400/pixel-8-google-event-announced-date)<!-- TECH:END -->
+ - [Google announces a hardware event on October 4 at 10am ET in New York City, where the company is expected to unveil the Pixel 8, Pixel 8 Pro, and Pixel Watch 2 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p21#a230830p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

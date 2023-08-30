@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose wisely](http://9gag.com/gag/a7q6mQm)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 💣 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 💣 [Finally, an american athlete has the balls to say it and all the all other douchebags jumped him online](http://9gag.com/gag/aBdNjrD)
- - 😝 [What should i do](http://9gag.com/gag/aKENn9N)
- - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
+ - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
+ - 😝 [Awww](http://9gag.com/gag/a1PqnKG)
+ - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to send books to your Kindle — even if they’re not from Amazon](https://www.theverge.com/23842102/kindle-amazon-import-files-epub)
- - [This is the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)
- - [Killed by Google: Do you remember these products and services?](https://www.androidauthority.com/killed-by-google-3352366/)
- - [Tracking Screen Time Is Ruining Your Life](https://www.wired.com/story/tracking-screen-time-is-ruining-your-life/)
- - [Canyon Precede:ON CF 8 Review: A Fun, Futuristic Ride](https://www.wired.com/review/canyon-precedeon-cf-8/)<!-- TECH:END -->
+ - [Meta’s avatar legs roll out to VR beta testers, but only in Quest Home for now](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
+ - [This may be the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)
+ - [OnePlus’ impressive first tablet just received its first discount](https://www.theverge.com/2023/8/30/23851051/oneplus-pad-tablet-amazon-echo-show-5-tears-of-the-kingdom-deal-sale)
+ - [UAE-linked G42, MBZUAI, and Cerebras announce Jais, an open-source, bilingual LLM for Arabic speakers; the UAE previously trained Falcon on 300+ Nvidia CPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/230830/p15#a230830p15)
+ - [How to send books to your Kindle — even if they’re not from Amazon](https://www.theverge.com/23842102/kindle-amazon-import-files-epub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

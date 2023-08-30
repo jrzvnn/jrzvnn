@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
  - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 💣 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)
- - 😝 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 💣 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 👉 [What should i do](http://9gag.com/gag/aKENn9N)<!-- MEMES:END -->
 
 ---
 </div>

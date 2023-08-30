@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 😝 [Manual therapy](http://9gag.com/gag/aEqN5RK)
- - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
+ - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
+ - 💣 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
  - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
+ - 👉 [Manual therapy](http://9gag.com/gag/aEqN5RK)<!-- MEMES:END -->
 
 ---
 </div>

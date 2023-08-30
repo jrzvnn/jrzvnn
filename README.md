@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa and Google Assistant are together at last on new JBL speakers](https://www.theverge.com/2023/8/30/23850185/amazon-google-jbl-authentics-smart-speaker-simultaneous-voice-assistants-ifa)
- - [JBL’s new true wireless earbuds have an open design and detachable neckband](https://www.theverge.com/2023/8/30/23848666/jbl-soundgear-sense-wireless-earbuds-partybox-ultimate-live-770nc-670nc-price-release-date)
- - [Daily deals Aug. 30: $90 off iPad mini, $70 off Apple Mighty Mouse, 35% off iRobot Roomba, more](https://appleinsider.com/articles/23/08/30/daily-deals-aug-30-90-off-ipad-mini-70-off-apple-mighty-mouse-35-off-irobot-roomba-more?utm_medium=rss)
- - [Seattle-based Hyperproof, which offers SaaS risk and compliance management tools, raised $40M led by Riverwood Capital, taking its total funding to $66.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230830/p17#a230830p17)
- - [Instagram may be making Reels longer to compete with TikTok](https://www.theverge.com/2023/8/30/23852109/instagram-longer-reels-leak-tiktok)<!-- TECH:END -->
+ - [iPhone 15 dummy models show off bland color options in new leak](https://www.androidauthority.com/iphone-15-color-options-3359410/)
+ - [Carriers rebound from pandemic to top iPhone sales again](https://appleinsider.com/articles/23/08/30/carriers-rebound-from-pandemic-to-top-iphone-sales-again?utm_medium=rss)
+ - [Hallmark and Venmo will let people send cash with greeting cards](https://www.theverge.com/2023/8/30/23852220/hallmark-venmo-cash-giftcards-cards)
+ - [JBL announces the $330 Authentics 200, $700 Authentics 500, and portable $430 Authentics 300 speakers, the first smart speakers to have both Alexa and Assistant &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230830/p18#a230830p18)
+ - [Neon’s Ferrari movie looks like a winding race through life in new trailer](https://www.theverge.com/23852107/neon-ferrari-trailer-adam-driver-penelope-cruz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

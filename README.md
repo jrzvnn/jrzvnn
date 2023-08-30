@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi reports Q2 revenue down 4% YoY to ~$9.25B and a net profit of ~$504M, vs. ~$440.9M est., more than doubling from a year earlier &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/230829/p41#a230829p41)
  - [Apple Stores close as Hurricane Idalia approaches landfall in Florida](https://appleinsider.com/articles/23/08/29/apple-stores-close-as-hurricane-idalia-approaches-landfall-in-florida?utm_medium=rss)
  - [Source: OpenAI is on pace to generate more than $1B in revenue over the next 12 months from the sale of AI software and the computing capacity that powers it &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/230829/p40#a230829p40)
- - [Apple will give &#39;Killers of the Flower Moon&#39; a global release on October 20](https://appleinsider.com/articles/23/08/29/apple-will-give-killers-of-the-flower-moon-a-global-release-on-october-20?utm_medium=rss)
- - [Sources: Tether has added Britannia Bank &amp; Trust, a privately held bank operating in the Bahamas, to process dollar transfers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230829/p39#a230829p39)
- - [Hurricane Idalia Is About to Slam Florida With a Wall of Water](https://www.wired.com/story/hurricane-idalia-is-about-to-slam-florida-with-a-wall-of-water/)<!-- TECH:END -->
+ - [3M to Pay $6 Billion to Resolve Earplug Lawsuits Over Hearing Damage Claims     - CNET](https://www.cnet.com/health/medical/3m-to-pay-6-billion-to-resolve-earplug-lawsuits-over-hearing-damage-claims/#ftag=CAD590a51e)
+ - [WhatsApp Launches Mac App With Video Calling for 8 People     - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-launches-mac-app-with-video-calling-for-8-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

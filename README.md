@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s avatar legs roll out to VR beta testers, but only in Quest Home for now](https://www.theverge.com/2023/8/29/23850750/meta-avatar-legs-beta-testers-quest-home)
- - [This may be the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)
- - [OnePlus’ impressive first tablet just received its first discount](https://www.theverge.com/2023/8/30/23851051/oneplus-pad-tablet-amazon-echo-show-5-tears-of-the-kingdom-deal-sale)
- - [UAE-linked G42, MBZUAI, and Cerebras announce Jais, an open-source, bilingual LLM for Arabic speakers; the UAE previously trained Falcon on 300+ Nvidia CPUs &lpar;Financial Times&rpar;](http://www.techmeme.com/230830/p15#a230830p15)
- - [How to send books to your Kindle — even if they’re not from Amazon](https://www.theverge.com/23842102/kindle-amazon-import-files-epub)<!-- TECH:END -->
+ - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)
+ - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)
+ - [16 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
+ - [The future of Tesla is in China](https://www.theverge.com/2023/8/30/23850923/tesla-china-ev-factory-competition-land-of-the-giants)
+ - [Early iPhone 15 Pro production problems appear to have been solved](https://appleinsider.com/articles/23/08/30/early-iphone-15-pro-production-problems-appear-to-have-been-solved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

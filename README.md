@@ -157,9 +157,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
  - 😝 [Predict this B!](http://9gag.com/gag/abvm8rB)
- - 💣 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)
+ - 💣 [It&#39;s official. Me and my wife are moving to Ireland from South Africa. Planes tickets are booked and we are leaving this crime infested place. I&#39;m not gonna lie, we are going to miss it though.](http://9gag.com/gag/aL1NENV)
  - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
- - 👉 [It&#39;s official. Me and my wife are moving to Ireland from South Africa. Planes tickets are booked and we are leaving this crime infested place. I&#39;m not gonna lie, we are going to miss it though.](http://9gag.com/gag/aL1NENV)<!-- MEMES:END -->
+ - 👉 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)<!-- MEMES:END -->
 
 ---
 </div>

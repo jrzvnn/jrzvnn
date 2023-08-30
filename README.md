@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That wagging tail](http://9gag.com/gag/a3ZpO1v)
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 😝 [OKAY HELL NO](http://9gag.com/gag/aqepwgR)
+ - 😝 [What should i do](http://9gag.com/gag/aKENn9N)
  - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
- - 😝 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
- - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
+ - 😝 [Try confidence](http://9gag.com/gag/armrLGd)
+ - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
 
 ---
 </div>

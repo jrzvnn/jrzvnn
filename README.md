@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to address an &quot;unintended behavior&quot; that has caused malware-like notification pop-ups in Windows 11 for months that promote Bing over Chrome &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230830/p20#a230830p20)
  - [India says at least 32 international electronics makers, including HP, Dell, Asus, Acer, and Lenovo, applied to its incentive program as part of &quot;Make in India&quot; &lpar;Blassy Boben/Reuters&rpar;](http://www.techmeme.com/230830/p19#a230830p19)
  - [Rivian’s new dual-motor R1T will get up to 410 miles of range](https://www.theverge.com/2023/8/30/23852111/rivian-dual-motor-r1t-electric-truck-range-performance)
  - [iPhone 15 dummy models show off bland color options in new leak](https://www.androidauthority.com/iphone-15-color-options-3359410/)
- - [Carriers rebound from pandemic to top iPhone sales again](https://appleinsider.com/articles/23/08/30/carriers-rebound-from-pandemic-to-top-iphone-sales-again?utm_medium=rss)
- - [Hallmark and Venmo will let people send cash with greeting cards](https://www.theverge.com/2023/8/30/23852220/hallmark-venmo-cash-giftcards-cards)<!-- TECH:END -->
+ - [Carriers rebound from pandemic to top iPhone sales again](https://appleinsider.com/articles/23/08/30/carriers-rebound-from-pandemic-to-top-iphone-sales-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

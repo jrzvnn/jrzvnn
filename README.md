@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexa and Google Assistant are together at last on new JBL speakers](https://www.theverge.com/2023/8/30/23850185/amazon-google-jbl-authentics-smart-speaker-simultaneous-voice-assistants-ifa)
+ - [JBL’s new true wireless earbuds have an open design and detachable neckband](https://www.theverge.com/2023/8/30/23848666/jbl-soundgear-sense-wireless-earbuds-partybox-ultimate-live-770nc-670nc-price-release-date)
  - [Daily deals Aug. 30: $90 off iPad mini, $70 off Apple Mighty Mouse, 35% off iRobot Roomba, more](https://appleinsider.com/articles/23/08/30/daily-deals-aug-30-90-off-ipad-mini-70-off-apple-mighty-mouse-35-off-irobot-roomba-more?utm_medium=rss)
  - [Seattle-based Hyperproof, which offers SaaS risk and compliance management tools, raised $40M led by Riverwood Capital, taking its total funding to $66.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230830/p17#a230830p17)
- - [Instagram may be making Reels longer to compete with TikTok](https://www.theverge.com/2023/8/30/23852109/instagram-longer-reels-leak-tiktok)
- - [25 years of Google Doodles: Here are our favorite 25](https://www.androidauthority.com/25-best-google-doodles-3359269/)
- - [Roborock’s new Q5 Pro and Q8 Max robot vacuums come with a brush system upgrade](https://www.androidauthority.com/roborock-q5-pro-q8-max-robot-vacuum-launch-3359036/)<!-- TECH:END -->
+ - [Instagram may be making Reels longer to compete with TikTok](https://www.theverge.com/2023/8/30/23852109/instagram-longer-reels-leak-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

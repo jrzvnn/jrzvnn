@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 💣 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Manual therapy](http://9gag.com/gag/aEqN5RK)<!-- MEMES:END -->
+ - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 😝 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
+ - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 😝 [That took a turn](http://9gag.com/gag/a4or0Gd)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 </div>

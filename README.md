@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
  - 😝 [Manual therapy](http://9gag.com/gag/aEqN5RK)
- - 💣 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 👉 [If it works, don&#39;t fix it.](http://9gag.com/gag/aZDVO23)<!-- MEMES:END -->
+ - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
+ - 💣 [Microsoft](http://9gag.com/gag/axonqmp)
+ - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
 
 ---
 </div>

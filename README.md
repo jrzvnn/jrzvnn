@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 😝 [It&#39;s official. Me and my wife are moving to Ireland from South Africa. Planes tickets are booked and we are leaving this crime infested place. I&#39;m not gonna lie, we are going to miss it though.](http://9gag.com/gag/aL1NENV)
+ - 😝 [Why create them!](http://9gag.com/gag/aMEN7eP)
  - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 😝 [To have this much patience for a Karen](http://9gag.com/gag/abvmnLp)
- - 👉 [Manual therapy](http://9gag.com/gag/aEqN5RK)<!-- MEMES:END -->
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 </div>

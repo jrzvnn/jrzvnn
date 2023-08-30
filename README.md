@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 30&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-30-2023-3358228/)
+ - [Meta’s Oversight Board is too slow to matter](https://www.theverge.com/23852016/meta-facebook-oversight-board-too-slow-cambodia)
  - [Apple launches third &#39;Impact Accelerator&#39; for training minority-owned businesses](https://appleinsider.com/articles/23/08/30/apple-launches-third-impact-accelerator-for-training-minority-owned-businesses?utm_medium=rss)
  - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)
- - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)
- - [16 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [The future of Tesla is in China](https://www.theverge.com/2023/8/30/23850923/tesla-china-ev-factory-competition-land-of-the-giants)<!-- TECH:END -->
+ - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

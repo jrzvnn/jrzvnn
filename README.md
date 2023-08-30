@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei quietly launches the ~$960 Mate 60 Pro, giving no advance notice and releasing no ads; some investors speculate that Huawei used its own 5G chip &lpar;Reuters&rpar;](http://www.techmeme.com/230830/p9#a230830p9)
  - [Garmin Epix 2 Pro vs Fenix 7 Pro: Which should you choose?](https://www.androidauthority.com/garmin-epix-2-pro-vs-fenix-7-pro-3358834/)
  - [Poll: Do you miss small Android tablets?](https://www.androidauthority.com/miss-small-android-tablets-poll-3359287/)
  - [Critics say India&#39;s new privacy safeguards do little to prevent mass government surveillance via tracking equipment installed at subsea cable landing stations &lpar;Financial Times&rpar;](http://www.techmeme.com/230830/p8#a230830p8)
- - [What is Google Voice and how to set it up](https://www.androidauthority.com/what-is-google-voice-3359246/)
- - [The Galaxy S24 Ultra could stick with Snapdragon after all](https://www.androidauthority.com/samsung-galaxy-s24-ultra-snapdragon-regions-3358500/)<!-- TECH:END -->
+ - [What is Google Voice and how to set it up](https://www.androidauthority.com/what-is-google-voice-3359246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

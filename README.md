@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
- - 😝 [Predict this B!](http://9gag.com/gag/abvm8rB)
- - 💣 [It&#39;s official. Me and my wife are moving to Ireland from South Africa. Planes tickets are booked and we are leaving this crime infested place. I&#39;m not gonna lie, we are going to miss it though.](http://9gag.com/gag/aL1NENV)
- - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
- - 👉 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)<!-- MEMES:END -->
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 😝 [Awww](http://9gag.com/gag/a1PqnKG)
+ - 💣 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple begins testing 3D printing for Apple Watch manufacture](https://appleinsider.com/articles/23/08/30/apple-begins-testing-3d-printing-for-apple-watch-manufacture?utm_medium=rss)
+ - [Our Flag Means Death is back for season 2 in October](https://www.theverge.com/23852544/our-flag-means-death-season-2-date-trailer-hbo-max)
+ - [Sources: Apple is testing 3D printing the stainless steel Apple Watch Series 9&#39;s chassis to speed up production, boost sustainability, and lower costs over time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230830/p23#a230830p23)
  - [Mercedes-Benz eSprinter electric van will start at $71,000](https://www.theverge.com/2023/8/30/23852367/mercedes-benz-esprinter-electric-van-price-order)
- - [Apple issues seventh macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/30/apple-issues-seventh-macos-sonoma-developer-beta?utm_medium=rss)
- - [In what has become tradition, Google has leaked the Pixel 8 Pro](https://appleinsider.com/articles/23/08/30/in-what-has-become-tradition-google-has-leaked-the-pixel-8-pro?utm_medium=rss)
- - [Did Huawei already develop its own 5G chip to get around US sanctions?](https://www.theverge.com/2023/8/30/23852150/huawei-5g-chip-us-sanctions-mate-60-pro)
- - [Google announces date for its upcoming Pixel 8 series event](https://www.androidauthority.com/google-pixel-8-event-announcement-3359445/)<!-- TECH:END -->
+ - [Apple issues seventh macOS Sonoma developer beta](https://appleinsider.com/articles/23/08/30/apple-issues-seventh-macos-sonoma-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

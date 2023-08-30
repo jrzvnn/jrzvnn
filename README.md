@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ridley Scott hopes Apple will screen vastly extended &#39;Napoleon&#39;](https://appleinsider.com/articles/23/08/30/ridley-scott-hopes-apple-will-screen-vastly-extended-napoleon?utm_medium=rss)
+ - [How to use Continuity Camera in iOS 16 and macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-continuity-camera-in-ios-16-and-macos-ventura?utm_medium=rss)
  - [A look at the wave of child safety legislation in the US to age gate minors&#39; access to the internet, backed by Republicans and Democrats alike &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230830/p10#a230830p10)
  - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
- - [Motorola Edge 40 Neo leaked specs and renders show off three colorways](https://www.androidauthority.com/motorola-edge-40-neo-render-spec-leak-3359293/)
- - [Fairphone 5 launched: Up to 10 years &lpar;!&rpar; of software support](https://www.androidauthority.com/fairphone-5-launched-3358597/)
- - [The Fairphone 5 is a little more repairable and much more modern](https://www.theverge.com/2023/8/30/23843287/fairphone-5-price-release-date-specs-features-repairable-smartphone)<!-- TECH:END -->
+ - [Motorola Edge 40 Neo leaked specs and renders show off three colorways](https://www.androidauthority.com/motorola-edge-40-neo-render-spec-leak-3359293/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

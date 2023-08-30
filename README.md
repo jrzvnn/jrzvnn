@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 8 Pro just made an official appearance on Google’s website](https://www.androidauthority.com/pixel-8-pro-google-leak-3359233/)
  - [Sources: Chinese state-backed hackers breached Japanese cybersecurity agency NISC&#39;s email system; experts link July 4 Port of Nagoya ransomware attack to China &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/230830/p3#a230830p3)
  - [Google leaked Google’s flagship Pixel 8 Pro, again](https://www.theverge.com/2023/8/30/23851805/google-store-pixel-8-pro-leak-porcelain)
  - [Nine Chinese chip companies, including Alibaba&#39;s T-Head and VeriSilicon, announce a patent alliance for RISC-V to share patents and license them to 3rd parties &lpar;Lilian Zhang/South China Morning Post&rpar;](http://www.techmeme.com/230830/p2#a230830p2)
- - [Court filing: X is facing 2,200 arbitration cases from employees it laid-off after Musk took over; the filing fees alone for that volume of cases could be $3.5M &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230830/p1#a230830p1)
- - [Best Car Phone Mount for 2023     - CNET](https://www.cnet.com/tech/mobile/best-car-phone-mount-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Court filing: X is facing 2,200 arbitration cases from employees it laid off after Musk took over; the filing fees alone for that volume of cases could be $3.5M &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230830/p1#a230830p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

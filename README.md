@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian’s new dual-motor R1T will get up to 410 miles of range](https://www.theverge.com/2023/8/30/23852111/rivian-dual-motor-r1t-electric-truck-range-performance)
  - [iPhone 15 dummy models show off bland color options in new leak](https://www.androidauthority.com/iphone-15-color-options-3359410/)
  - [Carriers rebound from pandemic to top iPhone sales again](https://appleinsider.com/articles/23/08/30/carriers-rebound-from-pandemic-to-top-iphone-sales-again?utm_medium=rss)
  - [Hallmark and Venmo will let people send cash with greeting cards](https://www.theverge.com/2023/8/30/23852220/hallmark-venmo-cash-giftcards-cards)
- - [JBL announces the $330 Authentics 200, $700 Authentics 500, and portable $430 Authentics 300 speakers, the first smart speakers to have both Alexa and Assistant &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230830/p18#a230830p18)
- - [Neon’s Ferrari movie looks like a winding race through life in new trailer](https://www.theverge.com/23852107/neon-ferrari-trailer-adam-driver-penelope-cruz)<!-- TECH:END -->
+ - [JBL announces the $330 Authentics 200, $700 Authentics 500, and portable $430 Authentics 300 speakers, the first smart speakers to have both Alexa and Assistant &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230830/p18#a230830p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

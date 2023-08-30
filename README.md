@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nine Chinese chip companies, including Alibaba&#39;s T-Head and VeriSilicon, announce a patent alliance for RISC-V to share patents and license them to 3rd parties &lpar;Lilian Zhang/South China Morning Post&rpar;](http://www.techmeme.com/230830/p2#a230830p2)
  - [Court filing: X is facing 2,200 arbitration cases from employees it laid-off after Musk took over; the filing fees alone for that volume of cases could be $3.5M &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230830/p1#a230830p1)
  - [Chicago-based Mediafly, which provides a revenue enablement service to Adobe, TransUnion, Nestle, and other large companies, raised $80M led by BIP Ventures &lpar;Alex Zorn/Chicago Business Journal&rpar;](http://www.techmeme.com/230829/p44#a230829p44)
  - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [Apple AirPods with USB-C could join the iPhone 15 series on Sep. 12](https://www.androidauthority.com/apple-airpods-usb-c-3359230/)
- - [Source: Robinhood, whose entry into crypto was powered by Jump Trading, split ways with the firm in early July, as Jump reportedly backs away from the US market &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230829/p43#a230829p43)<!-- TECH:END -->
+ - [Apple AirPods with USB-C could join the iPhone 15 series on Sep. 12](https://www.androidauthority.com/apple-airpods-usb-c-3359230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

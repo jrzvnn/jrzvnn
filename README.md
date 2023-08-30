@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trailer for Apple TV+ John le Carre documentary &#39;The Pigeon Tunnel&#39; arrives](https://appleinsider.com/articles/23/08/30/trailer-for-apple-tv-john-le-carre-documentary-the-pigeon-tunnel-arrives?utm_medium=rss)
- - [Apple seeds second release candidates for macOS Ventura 13.6 &amp; Monterey 12.7](https://appleinsider.com/articles/23/08/30/apple-seeds-second-release-candidates-for-macos-ventura-136-monterey-127?utm_medium=rss)
- - [Unmasking Trickbot, One of the World’s Top Cybercrime Gangs](https://www.wired.com/story/trickbot-trickleaks-bentley/)
- - [Apple begins testing 3D printing for Apple Watch manufacture](https://appleinsider.com/articles/23/08/30/apple-begins-testing-3d-printing-for-apple-watch-manufacture?utm_medium=rss)
- - [Our Flag Means Death is back for season 2 in October](https://www.theverge.com/23852544/our-flag-means-death-season-2-date-trailer-hbo-max)<!-- TECH:END -->
+ - [Instagram is internally testing the ability to create Reels up to 10 minutes long; TikTok expanded its maximum video length to 10 minutes in February 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230830/p25#a230830p25)
+ - [Windows 11 Pro is on sale for just $32.97 until Friday &lpar;83% off&rpar;](https://www.androidauthority.com/microsoft-windows-11-pro-deal-3359476/)
+ - [Google Pixel 8: all of the leaks and rumors so far](https://www.theverge.com/2023/8/30/23852507/google-pixel-8-pro-rumors-leaks-camera-display)
+ - [PS5 Slim: Release date, price, specs, and rumors for thinner PlayStation 5 model](https://www.androidauthority.com/sony-ps5-slim-3358308/)
+ - [Sony will raise PlayStation Plus annual subscription prices in September; Essential will go from $60 to $80, Extra from $100 to $135, Premium from $120 to $160 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230830/p24#a230830p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

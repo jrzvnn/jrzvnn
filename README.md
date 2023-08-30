@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 spotted at FCC after Pixel hardware event announcement](https://www.androidauthority.com/pixel-8-fcc-listing-3359518/)
+ - [Best Gifts for Readers in 2023: Kindle, Kobo, Onyx Boox and More     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-readers/#ftag=CAD590a51e)
  - [OpenAI files a motion to dismiss two similar lawsuits from book authors alleging copyright infringement, saying the authors &quot;misconceive the scope of copyright&quot; &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230830/p27#a230830p27)
  - [The key ingredient to millions of EVs is buried under a former volcano — but there’s still a lot we don’t know](https://www.theverge.com/2023/8/30/23849619/lithium-ev-battery-thacker-pass-mine-mcdermitt-caldera)
- - [The New York subway’s ride tracker has a scary security loophole](https://www.theverge.com/2023/8/30/23852651/nyc-subway-omny-mta-ride-history-credit-card-security-gap)
- - [Studio Display firmware version 17 beta 6 is now available](https://appleinsider.com/articles/23/08/30/studio-display-firmware-version-17-beta-6-is-now-available?utm_medium=rss)
- - [Call of Duty will use AI to moderate voice chats](https://www.theverge.com/2023/8/30/23852652/call-of-duty-activision-modulate-toxmod-artificial-intelligence-voice-moderation)<!-- TECH:END -->
+ - [The New York subway’s ride tracker has a scary security loophole](https://www.theverge.com/2023/8/30/23852651/nyc-subway-omny-mta-ride-history-credit-card-security-gap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

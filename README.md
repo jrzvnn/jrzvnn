@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 💣 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 😝 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
- - 👉 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)<!-- MEMES:END -->
+ - 😝 [Prepare for trouble! And make it double!\u00a0](http://9gag.com/gag/armrDr7)
+ - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
+ - 😝 [Did the India chyna border get redrawn again.](http://9gag.com/gag/a6q3YoA)
+ - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
 
 ---
 </div>

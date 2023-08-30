@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is eliminating the social media support roles from Twitter and others](https://appleinsider.com/articles/23/08/30/apple-is-eliminating-the-social-media-support-roles-from-twitter-and-others?utm_medium=rss)
+ - [Microsoft retires Visual Studio for Mac, saying the IDE will get &quot;servicing updates for security issues and updated platforms from Apple&quot; until August 31, 2024 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230830/p28#a230830p28)
  - [Google Pixel 8 spotted at FCC after Pixel hardware event announcement](https://www.androidauthority.com/pixel-8-fcc-listing-3359518/)
  - [Best Gifts for Readers in 2023: Kindle, Kobo, Onyx Boox and More     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-readers/#ftag=CAD590a51e)
- - [OpenAI files a motion to dismiss two similar lawsuits from book authors alleging copyright infringement, saying the authors &quot;misconceive the scope of copyright&quot; &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230830/p27#a230830p27)
- - [The key ingredient to millions of EVs is buried under a former volcano — but there’s still a lot we don’t know](https://www.theverge.com/2023/8/30/23849619/lithium-ev-battery-thacker-pass-mine-mcdermitt-caldera)
- - [The New York subway’s ride tracker has a scary security loophole](https://www.theverge.com/2023/8/30/23852651/nyc-subway-omny-mta-ride-history-credit-card-security-gap)<!-- TECH:END -->
+ - [OpenAI files a motion to dismiss two similar lawsuits from book authors alleging copyright infringement, saying the authors &quot;misconceive the scope of copyright&quot; &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230830/p27#a230830p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

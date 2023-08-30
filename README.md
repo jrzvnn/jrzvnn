@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
  - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 😝 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [Awww](http://9gag.com/gag/a1PqnKG)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)<!-- MEMES:END -->
 
 ---
 </div>

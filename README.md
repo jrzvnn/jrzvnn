@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
  - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Warthunder boys did it again](http://9gag.com/gag/agoZ92W)<!-- MEMES:END -->
+ - 😝 [Finally, an american athlete has the balls to say it and all the all other douchebags jumped him online](http://9gag.com/gag/aBdNjrD)
+ - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
+ - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
 
 ---
 </div>

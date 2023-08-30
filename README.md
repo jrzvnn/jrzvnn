@@ -156,9 +156,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 💣 [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - 😝 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 💣 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
  - 👉 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)<!-- MEMES:END -->
 
 ---

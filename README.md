@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
  - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
  - 💣 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 👉 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)<!-- MEMES:END -->
+ - 😝 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
+ - 👉 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)<!-- MEMES:END -->
 
 ---
 </div>

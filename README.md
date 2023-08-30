@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will never get old](http://9gag.com/gag/aBdNz3P)
- - 😝 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
- - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
+ - 😝 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
+ - 😝 [What are the chances?](http://9gag.com/gag/a4orgjZ)
+ - 💣 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 😝 [Her dropped the keys inside a hole, and a friendly neighbourhood cat came to their rescue.](http://9gag.com/gag/aVb15Qy)
+ - 👉 [Chicken go Aaah](http://9gag.com/gag/a8qXOVZ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seattle-based Hyperproof, which offers SaaS risk and compliance management tools, raised $40M led by Riverwood Capital, taking its total funding to $66.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230830/p17#a230830p17)
+ - [Instagram may be making Reels longer to compete with TikTok](https://www.theverge.com/2023/8/30/23852109/instagram-longer-reels-leak-tiktok)
  - [25 years of Google Doodles: Here are our favorite 25](https://www.androidauthority.com/25-best-google-doodles-3359269/)
  - [Roborock’s new Q5 Pro and Q8 Max robot vacuums come with a brush system upgrade](https://www.androidauthority.com/roborock-q5-pro-q8-max-robot-vacuum-launch-3359036/)
- - [DART Showed How to Smash an Asteroid. So Where Did the Space Shrapnel Go?](https://www.wired.com/story/dart-showed-how-to-smash-an-asteroid-so-where-did-the-space-shrapnel-go/)
- - [Best Gear to Make Professional Videos &lpar;2023&rpar;: Mics, Lights, Tripods, Tips](https://www.wired.com/story/gear-and-tips-to-make-professional-videos/)
- - [Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)<!-- TECH:END -->
+ - [DART Showed How to Smash an Asteroid. So Where Did the Space Shrapnel Go?](https://www.wired.com/story/dart-showed-how-to-smash-an-asteroid-so-where-did-the-space-shrapnel-go/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

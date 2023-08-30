@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m sad but I guess it&#39;s time for her to get tf out of my life.](http://9gag.com/gag/avQXBXE)
+ - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
+ - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
  - 😝 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 💣 [Nottingham Hill carnival in London.](http://9gag.com/gag/amAbKoo)
- - 😝 [How can you be this dense](http://9gag.com/gag/awZGP88)
- - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
+ - 👉 [What should i do](http://9gag.com/gag/aKENn9N)<!-- MEMES:END -->
 
 ---
 </div>

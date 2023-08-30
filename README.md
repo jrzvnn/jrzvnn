@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Environment activists tried to block road in Germany, didn&#39;t go as well as in UK and France](http://9gag.com/gag/aGENqDn)
- - 😝 [A simple reminder](http://9gag.com/gag/a7q6BDq)
- - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [Prepare for trouble! And make it double!\u00a0](http://9gag.com/gag/armrDr7)
- - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
+ - 😝 [This will never get old](http://9gag.com/gag/aBdNz3P)
+ - 😝 [When the blue socially awkward penguin gets even bluer](http://9gag.com/gag/aDYN5wK)
+ - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [Don&#39;t](http://9gag.com/gag/aBdNb5D)<!-- MEMES:END -->
 
 ---
 </div>

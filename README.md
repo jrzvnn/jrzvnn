@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the wave of child safety legislation in the US to age gate minors&#39; access to the internet, backed by Republicans and Democrats alike &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230830/p10#a230830p10)
+ - [Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
+ - [Motorola Edge 40 Neo leaked specs and renders show off three colorways](https://www.androidauthority.com/motorola-edge-40-neo-render-spec-leak-3359293/)
  - [Fairphone 5 launched: Up to 10 years &lpar;!&rpar; of software support](https://www.androidauthority.com/fairphone-5-launched-3358597/)
- - [The Fairphone 5 is a little more repairable and much more modern](https://www.theverge.com/2023/8/30/23843287/fairphone-5-price-release-date-specs-features-repairable-smartphone)
- - [Huawei quietly launches the ~$960 Mate 60 Pro, giving no advance notice and releasing no ads; some investors speculate that Huawei used its own 5G chip &lpar;Reuters&rpar;](http://www.techmeme.com/230830/p9#a230830p9)
- - [Garmin Epix 2 Pro vs Fenix 7 Pro: Which should you choose?](https://www.androidauthority.com/garmin-epix-2-pro-vs-fenix-7-pro-3358834/)
- - [Poll: Do you miss small Android tablets?](https://www.androidauthority.com/miss-small-android-tablets-poll-3359287/)<!-- TECH:END -->
+ - [The Fairphone 5 is a little more repairable and much more modern](https://www.theverge.com/2023/8/30/23843287/fairphone-5-price-release-date-specs-features-repairable-smartphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

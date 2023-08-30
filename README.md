@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 😝 [Online friends are friends too. The cat was probably reincarnated .](http://9gag.com/gag/aMEN7EV)
- - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 😝 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
+ - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [Manual therapy](http://9gag.com/gag/aEqN5RK)
+ - 💣 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 👉 [If it works, don&#39;t fix it.](http://9gag.com/gag/aZDVO23)<!-- MEMES:END -->
 
 ---
 </div>

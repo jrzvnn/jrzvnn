@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lotus will reveal its electric Emeya hypercar September 7th](https://www.theverge.com/2023/8/30/23852023/lotus-emeya-electric-hypercar-reveal-date)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 30&rpar;](https://www.androidauthority.com/wallpaper-wednesday-aug-30-2023-3358228/)
- - [Meta’s Oversight Board is too slow to matter](https://www.theverge.com/23852016/meta-facebook-oversight-board-too-slow-cambodia)
- - [Apple launches third &#39;Impact Accelerator&#39; for training minority-owned businesses](https://appleinsider.com/articles/23/08/30/apple-launches-third-impact-accelerator-for-training-minority-owned-businesses?utm_medium=rss)
- - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)<!-- TECH:END -->
+ - [25 years of Google Doodles: Here are our favorite 25](https://www.androidauthority.com/25-best-google-doodles-3359269/)
+ - [Roborock’s new Q5 Pro and Q8 Max robot vacuums come with a brush system upgrade](https://www.androidauthority.com/roborock-q5-pro-q8-max-robot-vacuum-launch-3359036/)
+ - [DART Showed How to Smash an Asteroid. So Where Did the Space Shrapnel Go?](https://www.wired.com/story/dart-showed-how-to-smash-an-asteroid-so-where-did-the-space-shrapnel-go/)
+ - [Best Gear to Make Professional Videos &lpar;2023&rpar;: Mics, Lights, Tripods, Tips](https://www.wired.com/story/gear-and-tips-to-make-professional-videos/)
+ - [Microsoft Office for Mac standalone license dips to $34.97](https://appleinsider.com/articles/23/08/11/flash-deal-microsoft-office-for-mac-standalone-license-dips-to-3497?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

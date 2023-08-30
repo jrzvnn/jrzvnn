@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 💣 [This will never get old](http://9gag.com/gag/aBdNz3P)
- - 😝 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 💣 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 😝 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
+ - 👉 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)<!-- MEMES:END -->
 
 ---
 </div>

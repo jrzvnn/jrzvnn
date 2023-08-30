@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin Epix 2 Pro vs Fenix 7 Pro: Which should you choose?](https://www.androidauthority.com/garmin-epix-2-pro-vs-fenix-7-pro-3358834/)
+ - [Poll: Do you miss small Android tablets?](https://www.androidauthority.com/miss-small-android-tablets-poll-3359287/)
  - [Critics say India&#39;s new privacy safeguards do little to prevent mass government surveillance via tracking equipment installed at subsea cable landing stations &lpar;Financial Times&rpar;](http://www.techmeme.com/230830/p8#a230830p8)
  - [What is Google Voice and how to set it up](https://www.androidauthority.com/what-is-google-voice-3359246/)
- - [The Galaxy S24 Ultra could stick with Snapdragon after all](https://www.androidauthority.com/samsung-galaxy-s24-ultra-snapdragon-regions-3358500/)
- - [Chinese sextortion scammers have flooded X, harassing political dissidents and influential figures since the platform added paid verification in April 2023 &lpar;Caiwei Chen/Rest of World&rpar;](http://www.techmeme.com/230830/p7#a230830p7)
- - [In July 2023, the NHTSA ordered Tesla to provide data on Autopilot&#39;s &quot;Elon mode&quot;, which eliminates prompts for drivers to their keep hands on the wheel &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230830/p6#a230830p6)<!-- TECH:END -->
+ - [The Galaxy S24 Ultra could stick with Snapdragon after all](https://www.androidauthority.com/samsung-galaxy-s24-ultra-snapdragon-regions-3358500/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

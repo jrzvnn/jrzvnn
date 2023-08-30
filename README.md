@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [AirTag-owning husband talked out of tracking down stolen AirPods clone](https://appleinsider.com/articles/23/08/30/airtag-owning-husband-talked-out-of-tracking-down-stolen-airpods-clone?utm_medium=rss)
+ - [Garmin&#39;s Venu 3 Smartwatch Can Track Your Naps and Has 14-Day Battery Life     - CNET](https://www.cnet.com/tech/mobile/garmins-venu-3-smartwatch-can-track-your-naps-and-has-14-day-battery-life/#ftag=CAD590a51e)
  - [Fairphone announces the &amp;euro;699 Fairphone 5, offering a 6.46-inch 90Hz OLED display, dual 50-megapixel cameras, and 30W fast charging, shipping on September 14 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230830/p12#a230830p12)
  - [15 Best Early Labor Day Mattress Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-2/)
- - [The Garmin Venu 3 series will finally give you credit for naps](https://www.theverge.com/2023/8/30/23851025/garmin-venu-3-nap-detection-wheelchair-mode-smartwatch)
- - [Bumble, Match, Hinge, and Grindr explore more expensive subscriptions for users seeking a curated experience; Bumble says $40 to $50 feels &quot;low&quot; to some users &lpar;Gabriel Sanchez/Bloomberg&rpar;](http://www.techmeme.com/230830/p11#a230830p11)<!-- TECH:END -->
+ - [The Garmin Venu 3 series will finally give you credit for naps](https://www.theverge.com/2023/8/30/23851025/garmin-venu-3-nap-detection-wheelchair-mode-smartwatch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 cases may be synthetic leather, but these &#39;FineWoven&#39; cases probably aren&#39;t it](https://appleinsider.com/articles/23/08/30/iphone-15-cases-may-be-synthetic-leather-but-the-finewoven-cases-probably-arent-it?utm_medium=rss)
- - [We sent the top ANC headphones to a lab to test their noise-canceling abilities](https://www.theverge.com/23852015/active-noise-cancellation-headphone-test-audio-lab)
- - [The annual cost of owning a car has skyrocketed in the last year to over $12K](https://www.theverge.com/2023/8/30/23852125/car-ownership-cost-increasing-us-public-transit-e-bikes)
- - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
- - [Google announces a hardware event on October 4 at 10am ET in New York City, where the company is expected to unveil the Pixel 8, Pixel 8 Pro, and Pixel Watch 2 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230830/p21#a230830p21)<!-- TECH:END -->
+ - [Sources: China will approve the first batch of generative AI services for public rollout as soon as this week, with Baidu among the first to win approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230830/p22#a230830p22)
+ - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
+ - [The best budget tablet just dropped to within $1 of its record-low price](https://www.androidauthority.com/samsung-galaxy-tab-a8-amazon-deal-3359440/)
+ - [Netflix’s fall movie lineup has a little something for everyone](https://www.theverge.com/23852198/netflix-2023-fall-movies-preview)
+ - [iPhone 15 cases may be synthetic leather, but these &#39;FineWoven&#39; cases probably aren&#39;t it](https://appleinsider.com/articles/23/08/30/iphone-15-cases-may-be-synthetic-leather-but-the-finewoven-cases-probably-arent-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

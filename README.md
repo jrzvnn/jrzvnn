@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
  - 😝 [Prepare for trouble! And make it double!\u00a0](http://9gag.com/gag/armrDr7)
  - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 😝 [Did the India chyna border get redrawn again.](http://9gag.com/gag/a6q3YoA)
- - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)<!-- MEMES:END -->
 
 ---
 </div>

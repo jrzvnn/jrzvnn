@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Robinhood, whose entry into crypto was powered by Jump Trading, split ways with the firm in early July, as Jump reportedly backs away from the US market &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230829/p43#a230829p43)
+ - [The Ayaneo Kun nearly doubles the Steam Deck’s battery for nearly twice the price](https://www.theverge.com/2023/8/29/23732435/ayaneo-kun-announcement-price-battery-life)
+ - [Meta&#39;s Oversight Board took 234 days to get a ruling in an incitement to violence case involving Hun Sen, revealing a problem with the board&#39;s glacial pace &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230829/p42#a230829p42)
  - [Xiaomi reports Q2 revenue down 4% YoY to ~$9.25B and a net profit of ~$504M, vs. ~$440.9M est., more than doubling from a year earlier &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/230829/p41#a230829p41)
- - [Apple Stores close as Hurricane Idalia approaches landfall in Florida](https://appleinsider.com/articles/23/08/29/apple-stores-close-as-hurricane-idalia-approaches-landfall-in-florida?utm_medium=rss)
- - [Source: OpenAI is on pace to generate more than $1B in revenue over the next 12 months from the sale of AI software and the computing capacity that powers it &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/230829/p40#a230829p40)
- - [3M to Pay $6 Billion to Resolve Earplug Lawsuits Over Hearing Damage Claims     - CNET](https://www.cnet.com/health/medical/3m-to-pay-6-billion-to-resolve-earplug-lawsuits-over-hearing-damage-claims/#ftag=CAD590a51e)
- - [WhatsApp Launches Mac App With Video Calling for 8 People     - CNET](https://www.cnet.com/tech/services-and-software/whatsapp-launches-mac-app-with-video-calling-for-8-people/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Stores close as Hurricane Idalia approaches landfall in Florida](https://appleinsider.com/articles/23/08/29/apple-stores-close-as-hurricane-idalia-approaches-landfall-in-florida?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [31 Best REI Labor Day Deals &lpar;2023&rpar;: Tents, Sleeping Bags, and Outdoor Gear](https://www.wired.com/story/best-rei-labor-day-deals-outdoor-gear-2023-1/)
  - [Tel Aviv-based AI21 Labs, which develops generative AI tools for text use cases, raised a $155M Series C at a $1.4B valuation, taking its total funding to $283M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230830/p32#a230830p32)
  - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)
  - [CrowdStrike reports Q2 revenue up 37% YoY to $731.6M, vs. $724.2M est., ARR up 37% YoY to $2.93B, and forecasts Q3 and FY 2024 earnings above expectations &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/230830/p31#a230830p31)
- - [Global Smartphone Market Hits Lowest Point in a Decade     - CNET](https://www.cnet.com/tech/mobile/global-smartphone-market-hits-lowest-point-in-a-decade/#ftag=CAD590a51e)
- - [Starz is lowering the price of its annual subscription, unlike everyone else](https://www.theverge.com/2023/8/30/23852647/starz-disney-plus-hulu-paramount-plus-streaming-service)<!-- TECH:END -->
+ - [Global Smartphone Market Hits Lowest Point in a Decade     - CNET](https://www.cnet.com/tech/mobile/global-smartphone-market-hits-lowest-point-in-a-decade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

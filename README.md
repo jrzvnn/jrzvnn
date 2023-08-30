@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
- - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 💣 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
  - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
+ - 💣 [This will never get old](http://9gag.com/gag/aBdNz3P)
+ - 😝 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
+ - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
 
 ---
 </div>

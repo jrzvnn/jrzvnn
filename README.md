@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Studio Display firmware version 17 beta 6 is now available](https://appleinsider.com/articles/23/08/30/studio-display-firmware-version-17-beta-6-is-now-available?utm_medium=rss)
+ - [Call of Duty will use AI to moderate voice chats](https://www.theverge.com/2023/8/30/23852652/call-of-duty-activision-modulate-toxmod-artificial-intelligence-voice-moderation)
  - [A Saudi court sentences a man to death over his X posts and YouTube activity, part of a growing dissent crackdown; his brother is a well-known government critic &lpar;Jon Gambrell/Associated Press&rpar;](http://www.techmeme.com/230830/p26#a230830p26)
  - [Microsoft begins sunsetting process for Visual Studio for Mac](https://appleinsider.com/articles/23/08/30/microsoft-begins-sunsetting-process-for-visual-studio-for-mac?utm_medium=rss)
- - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Starz Lowers the Price of Its Annual Subscription     - CNET](https://www.cnet.com/tech/services-and-software/starz-lowers-the-price-of-its-annual-subscription/#ftag=CAD590a51e)
- - [Apple invites researchers to apply to the 2024 iPhone Security Research Device Program](https://appleinsider.com/articles/23/08/30/apple-invites-researchers-to-apply-to-the-2024-iphone-security-research-device-program?utm_medium=rss)<!-- TECH:END -->
+ - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

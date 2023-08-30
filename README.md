@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OKAY HELL NO](http://9gag.com/gag/aqepwgR)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 💣 [Finally, an american athlete has the balls to say it and all the all other douchebags jumped him online](http://9gag.com/gag/aBdNjrD)
  - 😝 [What should i do](http://9gag.com/gag/aKENn9N)
- - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
- - 😝 [Try confidence](http://9gag.com/gag/armrLGd)
  - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
 
 ---

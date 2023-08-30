@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 😝 [Prepare for trouble! And make it double!\u00a0](http://9gag.com/gag/armrDr7)
- - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)<!-- MEMES:END -->
+ - 😝 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
+ - 😝 [Predict this B!](http://9gag.com/gag/abvm8rB)
+ - 💣 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)
+ - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
+ - 👉 [It&#39;s official. Me and my wife are moving to Ireland from South Africa. Planes tickets are booked and we are leaving this crime infested place. I&#39;m not gonna lie, we are going to miss it though.](http://9gag.com/gag/aL1NENV)<!-- MEMES:END -->
 
 ---
 </div>

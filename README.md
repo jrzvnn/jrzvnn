@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Predict this B!](http://9gag.com/gag/abvm8rB)
- - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
- - 💣 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
- - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 👉 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)<!-- MEMES:END -->
+ - 😝 [Lock up your daughters, hide your wives](http://9gag.com/gag/a8qX9b3)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 💣 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
 
 ---
 </div>

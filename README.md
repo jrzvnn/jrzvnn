@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s official. Me and my wife are moving to Ireland from South Africa. Planes tickets are booked and we are leaving this crime infested place. I&#39;m not gonna lie, we are going to miss it though.](http://9gag.com/gag/aL1NENV)
- - 😝 [Why create them!](http://9gag.com/gag/aMEN7eP)
- - 💣 [Interesting title](http://9gag.com/gag/a8qXNMQ)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 😝 [Manual therapy](http://9gag.com/gag/aEqN5RK)
+ - 💣 [Awww](http://9gag.com/gag/a1PqnKG)
  - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
+ - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
 
 ---
 </div>

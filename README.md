@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sad but I guess it&#39;s time for her to get tf out of my life.](http://9gag.com/gag/avQXBXE)
- - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 😝 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 👉 [What should i do](http://9gag.com/gag/aKENn9N)<!-- MEMES:END -->
+ - 😝 [Choose wisely](http://9gag.com/gag/a7q6mQm)
+ - 😝 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 💣 [That took a turn](http://9gag.com/gag/a4or0Gd)
+ - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
+ - 👉 [Trust me bro!](http://9gag.com/gag/avQX4Vd)<!-- MEMES:END -->
 
 ---
 </div>

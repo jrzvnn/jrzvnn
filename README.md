@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI files a motion to dismiss two similar lawsuits from book authors alleging copyright infringement, saying the authors &quot;misconceive the scope of copyright&quot; &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230830/p27#a230830p27)
+ - [The key ingredient to millions of EVs is buried under a former volcano — but there’s still a lot we don’t know](https://www.theverge.com/2023/8/30/23849619/lithium-ev-battery-thacker-pass-mine-mcdermitt-caldera)
+ - [The New York subway’s ride tracker has a scary security loophole](https://www.theverge.com/2023/8/30/23852651/nyc-subway-omny-mta-ride-history-credit-card-security-gap)
  - [Studio Display firmware version 17 beta 6 is now available](https://appleinsider.com/articles/23/08/30/studio-display-firmware-version-17-beta-6-is-now-available?utm_medium=rss)
- - [Call of Duty will use AI to moderate voice chats](https://www.theverge.com/2023/8/30/23852652/call-of-duty-activision-modulate-toxmod-artificial-intelligence-voice-moderation)
- - [A Saudi court sentences a man to death over his X posts and YouTube activity, part of a growing dissent crackdown; his brother is a well-known government critic &lpar;Jon Gambrell/Associated Press&rpar;](http://www.techmeme.com/230830/p26#a230830p26)
- - [Microsoft begins sunsetting process for Visual Studio for Mac](https://appleinsider.com/articles/23/08/30/microsoft-begins-sunsetting-process-for-visual-studio-for-mac?utm_medium=rss)
- - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Call of Duty will use AI to moderate voice chats](https://www.theverge.com/2023/8/30/23852652/call-of-duty-activision-modulate-toxmod-artificial-intelligence-voice-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

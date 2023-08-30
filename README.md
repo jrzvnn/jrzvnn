@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 😝 [Huh](http://9gag.com/gag/aeQPBvB)
- - 💣 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 😝 [That took a turn](http://9gag.com/gag/a4or0Gd)
- - 👉 [Mysterious](http://9gag.com/gag/aEqNbxM)<!-- MEMES:END -->
+ - 😝 [As a guy who does batch cooking or at least perpetrations, these helped me alot!](http://9gag.com/gag/aEqN5Ex)
+ - 😝 [Shit happen](http://9gag.com/gag/aMENLg6)
+ - 💣 [They&#39;re sleeping now](http://9gag.com/gag/anzWo85)
+ - 😝 [I wish I were as happy as that Hostage](http://9gag.com/gag/aqepwyv)
+ - 👉 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)<!-- MEMES:END -->
 
 ---
 </div>

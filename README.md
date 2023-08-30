@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sleep well Princess](http://9gag.com/gag/aoKq620)
- - 😝 [Prepare for trouble! And make it double!\u00a0](http://9gag.com/gag/armrDr7)
- - 💣 [I hope her fetus is fine](http://9gag.com/gag/a6q3zRA)
- - 😝 [Interesting title](http://9gag.com/gag/a8qXNMQ)
- - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
+ - 😝 [Predict this B!](http://9gag.com/gag/abvm8rB)
+ - 😝 [Lol i just jumped like a scared cat](http://9gag.com/gag/a1Pq6z2)
+ - 💣 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
+ - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 👉 [What has changed in the last century?](http://9gag.com/gag/aZDVO3z)<!-- MEMES:END -->
 
 ---
 </div>

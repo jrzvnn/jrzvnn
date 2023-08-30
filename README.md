@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 😝 [Finally, an american athlete has the balls to say it and all the all other douchebags jumped him online](http://9gag.com/gag/aBdNjrD)
- - 💣 [A 10-episode of 10 girl and 1 killer among them. Wow, much scare, such thrilling. Can you guess the english title?](http://9gag.com/gag/abvmKXL)
- - 😝 [Milk from the left tap please, madam](http://9gag.com/gag/amAbOxo)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 😝 [Average 9gag bartender](http://9gag.com/gag/abvm8qO)
+ - 😝 [What should i do](http://9gag.com/gag/aKENn9N)
+ - 💣 [Sandwich maker!](http://9gag.com/gag/aQENBqW)
+ - 😝 [Trust me bro!](http://9gag.com/gag/avQX4Vd)
+ - 👉 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
 
 ---
 </div>

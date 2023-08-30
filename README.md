@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did Huawei already develop its own 5G chip to get around US sanctions?](https://www.theverge.com/2023/8/30/23852150/huawei-5g-chip-us-sanctions-mate-60-pro)
  - [Google announces date for its upcoming Pixel 8 series event](https://www.androidauthority.com/google-pixel-8-event-announcement-3359445/)
  - [Sources: China will approve the first batch of generative AI services for public rollout as soon as this week, with Baidu among the first to win approval &lpar;Bloomberg&rpar;](http://www.techmeme.com/230830/p22#a230830p22)
  - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
- - [The best budget tablet just dropped to within $1 of its record-low price](https://www.androidauthority.com/samsung-galaxy-tab-a8-amazon-deal-3359440/)
- - [Netflix’s fall movie lineup has a little something for everyone](https://www.theverge.com/23852198/netflix-2023-fall-movies-preview)<!-- TECH:END -->
+ - [The best budget tablet just dropped to within $1 of its record-low price](https://www.androidauthority.com/samsung-galaxy-tab-a8-amazon-deal-3359440/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

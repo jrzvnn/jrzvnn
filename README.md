@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Saudi court sentences a man to death over his X posts and YouTube activity, part of a growing dissent crackdown; his brother is a well-known government critic &lpar;Jon Gambrell/Associated Press&rpar;](http://www.techmeme.com/230830/p26#a230830p26)
  - [Microsoft begins sunsetting process for Visual Studio for Mac](https://appleinsider.com/articles/23/08/30/microsoft-begins-sunsetting-process-for-visual-studio-for-mac?utm_medium=rss)
- - [Apple invites researchers to apply to the 2024 iPhone Security Research Device Program](https://appleinsider.com/articles/23/08/30/apple-invites-researchers-to-apply-to-the-2024-iphone-security-research-device-program?utm_medium=rss)
- - [Instagram is internally testing letting users create Reels up to 10 minutes long, after TikTok increased its maximum video length to 10 minutes in February 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230830/p25#a230830p25)
- - [Windows 11 Pro is on sale for just $32.97 until Friday &lpar;83% off&rpar;](https://www.androidauthority.com/microsoft-windows-11-pro-deal-3359476/)
- - [Google Pixel 8: all of the leaks and rumors so far](https://www.theverge.com/2023/8/30/23852507/google-pixel-8-pro-rumors-leaks-camera-display)<!-- TECH:END -->
+ - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Starz Lowers the Price of Its Annual Subscription     - CNET](https://www.cnet.com/tech/services-and-software/starz-lowers-the-price-of-its-annual-subscription/#ftag=CAD590a51e)
+ - [Apple invites researchers to apply to the 2024 iPhone Security Research Device Program](https://appleinsider.com/articles/23/08/30/apple-invites-researchers-to-apply-to-the-2024-iphone-security-research-device-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

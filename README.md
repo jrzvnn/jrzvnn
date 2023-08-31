@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Network security company LogicMonitor confirms a &quot;security incident&quot;, source says due to assigning customers default passwords like &quot;Welcome@&quot; plus a number &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230831/p34#a230831p34)
+ - [Apple abandons iTunes Movie Trailers site and iOS app](https://appleinsider.com/articles/23/08/31/apple-abandons-itunes-movie-trailers-site-and-ios-app?utm_medium=rss)
+ - [The best smartwatch you can buy just got an $89 discount](https://www.androidauthority.com/apple-watch-series-8-deal-3359998/)
  - [A look at Starfield, a game by Microsoft&#39;s Bethesda with 1,000 explorable planets, set for September 6 after a 10-month delay, as Microsoft needs an Xbox hit &lpar;New York Times&rpar;](http://www.techmeme.com/230831/p33#a230831p33)
- - [Belkin launches Qi2 wireless charging pad, 4-port USB-C charger and more](https://appleinsider.com/articles/23/08/31/belkin-launches-qi2-wireless-charging-pad-4-port-usb-c-charger-and-more?utm_medium=rss)
- - [The US Commerce Department says the government &quot;has not blocked chip sales to the Middle East&quot;, after Nvidia and AMD received new US export licensing rules &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230831/p32#a230831p32)
- - [SwitchBot S10 vacuums, mops, self-cleans, and refills your humidifier](https://www.androidauthority.com/switchbot-s10-floor-cleaner-launch-3359960/)
- - [Meta releases FACET, an AI benchmarking tool for evaluating the &quot;fairness&quot; of AI models that classify and detect things in photos and videos, including people &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230831/p31#a230831p31)<!-- TECH:END -->
+ - [Belkin launches Qi2 wireless charging pad, 4-port USB-C charger and more](https://appleinsider.com/articles/23/08/31/belkin-launches-qi2-wireless-charging-pad-4-port-usb-c-charger-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

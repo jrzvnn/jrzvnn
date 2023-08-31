@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Universal won’t be seeing Ana de Armas fans in court for their Yesterday trailer lawsuit](https://www.theverge.com/2023/8/31/23853681/universal-ana-de-armas-yesterday-trailer-lawsuit)
+ - [Interbank messaging system Swift and Chainlink successfully transfer tokenized value across multiple private and public blockchains via Chainlink&#39;s CCIP &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230831/p22#a230831p22)
+ - [Samsung’s noise-canceling Galaxy Buds 2 Pro are over $50 off right now](https://www.theverge.com/2023/8/31/23852153/samsung-galaxy-buds-2-pro-amazon-fire-tv-omni-qled-yeedi-vac-2-pro-deal-sale)
  - [VanMoof e-bikes finds a buyer](https://www.theverge.com/23822598/lavoie-buys-vanmoof-e-bikes)
- - [Source: Binance Asia-Pacific&#39;s head Leon Foong resigned from the exchange, the latest senior executive departure; Foong helped expand in South Korea and Japan &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p21#a230831p21)
- - [Meta begins testing full-text search on Threads in Australia and New Zealand and plans a wider rollout to other English-speaking countries in the future &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p20#a230831p20)
- - [IBM promised to back off facial recognition — then it signed a $69.8 million contract to provide it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
- - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)<!-- TECH:END -->
+ - [Source: Binance Asia-Pacific&#39;s head Leon Foong resigned from the exchange, the latest senior executive departure; Foong helped expand in South Korea and Japan &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p21#a230831p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

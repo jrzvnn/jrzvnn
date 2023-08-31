@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X wants permission to start collecting your biometric data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
+ - [Apple TV+ drops seven-day free trial in UK, South Africa](https://appleinsider.com/articles/23/08/31/apple-tv-drops-seven-day-free-trial-in-uk-south-africa?utm_medium=rss)
  - [A US judge dismisses a lawsuit against Uniswap, founder Hayden Adams, a16z, and others over scam token sales as software cannot be held accountable for losses &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/230831/p23#a230831p23)
  - [Universal won’t be seeing Ana de Armas fans in court for their Yesterday trailer lawsuit](https://www.theverge.com/2023/8/31/23853681/universal-ana-de-armas-yesterday-trailer-lawsuit)
- - [Interbank messaging system Swift and Chainlink successfully transfer tokenized value across multiple private and public blockchains via Chainlink&#39;s CCIP &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230831/p22#a230831p22)
- - [Samsung’s noise-canceling Galaxy Buds 2 Pro are over $50 off right now](https://www.theverge.com/2023/8/31/23852153/samsung-galaxy-buds-2-pro-amazon-fire-tv-omni-qled-yeedi-vac-2-pro-deal-sale)
- - [VanMoof e-bikes finds a buyer](https://www.theverge.com/23822598/lavoie-buys-vanmoof-e-bikes)<!-- TECH:END -->
+ - [Interbank messaging system Swift and Chainlink successfully transfer tokenized value across multiple private and public blockchains via Chainlink&#39;s CCIP &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230831/p22#a230831p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

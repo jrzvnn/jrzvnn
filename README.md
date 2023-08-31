@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Valorant esports team has disbanded despite winning crucial tournament](https://www.theverge.com/2023/8/31/23853178/valorant-esports-the-guard-explained-riot-vct)
  - [Google Chrome makes it easy to copy the exact frame you want from a video](https://www.androidauthority.com/google-chrome-copy-video-frame-3360067/)
+ - [The Best Sleep Headphones in 2023     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
  - [The 26 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Where to preorder the various editions of Starfield &lpar;and what’s included&rpar;](https://www.theverge.com/23831977/starfield-preorder-guide-constellation-edition-controller-headset-bethesda-xbox-pc)
- - [Bumble updates its community guidelines to crack down on bots, spam, ghosting, and doxxing, and says it has blocked 8.2M+ accounts this year, mostly using AI &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p37#a230831p37)
- - [Watch India’s lunar rover take a spin on the Moon](https://www.theverge.com/2023/8/31/23854071/india-lunar-moon-mission-chandrayaan-3-rover-video)<!-- TECH:END -->
+ - [Where to preorder the various editions of Starfield &lpar;and what’s included&rpar;](https://www.theverge.com/23831977/starfield-preorder-guide-constellation-edition-controller-headset-bethesda-xbox-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

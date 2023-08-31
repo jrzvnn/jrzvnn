@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads will soon let you search through posts](https://www.theverge.com/2023/8/31/23853782/threads-search-posts-feature-test-meta)
  - [Cybersecurity giant Malwarebytes laid off 100+ employees as it prepares for a major restructuring to separate its consumer and corporate-facing business units &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230831/p25#a230831p25)
  - [Nintendo is making a bright red Switch OLED for Mario Wonder](https://www.theverge.com/2023/8/31/23853679/super-mario-bros-wonder-red-nintendo-switch)
  - [Apple&#39;s iPhone continues to gain as smartphone market falls](https://appleinsider.com/articles/23/08/31/apples-iphone-continues-to-gain-as-smartphone-market-falls?utm_medium=rss)
- - [Berlin-based Ivy, which offers an API to create a &quot;network of networks&quot; for open banking payments globally, raised a $20M Series A, after a $7.7M seed in July &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p24#a230831p24)
- - [Xgimi’s latest 4K projector is super bright for the price](https://www.theverge.com/2023/8/31/23848656/xgimi-bright-4k-projector-horizon-ultra-price-specs)<!-- TECH:END -->
+ - [Berlin-based Ivy, which offers an API to create a &quot;network of networks&quot; for open banking payments globally, raised a $20M Series A, after a $7.7M seed in July &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p24#a230831p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

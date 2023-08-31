@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 😝 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - 💣 [They get stiches](http://9gag.com/gag/az2DWgK)
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
+ - 😝 [They get stiches](http://9gag.com/gag/az2DWgK)
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 👉 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)<!-- MEMES:END -->
 
 ---
 </div>

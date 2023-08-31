@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ozark](http://9gag.com/gag/aoKqXrw)
  - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
  - 💣 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
  - 👉 [There is no God](http://9gag.com/gag/aKENQpO)<!-- MEMES:END -->
 
 ---

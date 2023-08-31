@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta lets users submit requests to access, alter, or delete some of their third-party information that Meta uses for generative AI training &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230830/p40#a230830p40)
  - [Australia abandons its plans to mandate age verification tech for porn sites, citing privacy and security concerns, and will instead focus on educating parents &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230830/p39#a230830p39)
  - [X updates its privacy policy to include biometric information as data it plans to collect for safety and security, along with data on users&#39; jobs and education &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/230830/p38#a230830p38)
  - [Document: the UK plans to increase use of AI-based facial recognition tech by the police, potentially deploying new biometric systems over the next 12-18 months &lpar;Financial Times&rpar;](http://www.techmeme.com/230830/p37#a230830p37)
- - [How to check data usage on your Android device](https://www.androidauthority.com/how-to-check-data-usage-android-3359573/)
- - [Sources: Apple plans to eliminate social media support adviser roles across X, YouTube, and the Apple Support Community website starting later this year &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230830/p36#a230830p36)<!-- TECH:END -->
+ - [How to check data usage on your Android device](https://www.androidauthority.com/how-to-check-data-usage-android-3359573/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

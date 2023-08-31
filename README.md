@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s suitcase TV is as sturdy as it is bizarre](https://www.theverge.com/2023/8/31/23853578/lg-standbyme-go-suitcase-tv-hands-on)
  - [Activision partners with Modulate to begin testing ToxMod, an AI-based voice moderation tool for Modern Warfare 2 and other games, in North America &lpar;Morgan Park/PC Gamer&rpar;](http://www.techmeme.com/230831/p17#a230831p17)
  - [This may be the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)
  - [Investor letter: Reid Hoffman won&#39;t be a GP for Greylock&#39;s next $1B fund, down from its $1.5B funds in 2020 and 2021; Hoffman made one deal in its 16th fund &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230831/p16#a230831p16)
- - [Google Fixes Serious Security Flaws in Chrome and Android](https://www.wired.com/story/google-android-chrome-critical-update-august-2023/)
- - [The Inventor Behind a Rush of AI Copyright Suits Is Trying to Show His Bot Is Sentient](https://www.wired.com/story/the-inventor-behind-a-rush-of-ai-copyright-suits-is-trying-to-show-his-bot-is-sentient/)<!-- TECH:END -->
+ - [Google Fixes Serious Security Flaws in Chrome and Android](https://www.wired.com/story/google-android-chrome-critical-update-august-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

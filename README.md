@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a coincidence](http://9gag.com/gag/az2DpDZ)
- - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 💣 [Only 93](http://9gag.com/gag/aYVnX4v)
- - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
- - 👉 [I know guys who&#39;ll do it cheaper](http://9gag.com/gag/aeQPBnm)<!-- MEMES:END -->
+ - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 💣 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
+ - 👉 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)<!-- MEMES:END -->
 
 ---
 </div>

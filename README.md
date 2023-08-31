@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 👉 [There is no God](http://9gag.com/gag/aKENQpO)<!-- MEMES:END -->
+ - 😝 [Facts beats opinions](http://9gag.com/gag/aVb1NKM)
+ - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
+ - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
+ - 👉 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)<!-- MEMES:END -->
 
 ---
 </div>

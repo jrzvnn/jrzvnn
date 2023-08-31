@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lessons from the rapid grocery delivery boom: $10B+ of VC money, used for ads and promos, created the market from nothing, app downloads have cratered, and more &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/230831/p14#a230831p14)
  - [Stockholm-based Klarna reports H1 2023 revenue up 15% YoY to ~$963M and a ~$185M adjusted loss, down from a ~$570M loss in H1 2022, as the company cuts costs &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230831/p13#a230831p13)
  - [She Sacrificed Her Youth to Get the Tech Bros to Grow Up](https://www.wired.com/story/patricia-moore-sacrificed-youth-to-get-tech-bros-to-grow-up/)
  - [Preferring Biological Children Is Immoral](https://www.wired.com/story/ethics-children-parenting-family-biology/)
- - [This USB button helps Jeopardy! contestants get their buzz on](https://www.theverge.com/23852814/jeopardy-signaling-device-delcom-practice-buzzer-button-of-the-month)
- - [The Eve Play brings AirPlay 2 audio to your Hi-Fi gear this November](https://www.theverge.com/2023/8/31/23851992/eve-play-airplay-2-receiver-thermo-control-matter-apple-home)<!-- TECH:END -->
+ - [This USB button helps Jeopardy! contestants get their buzz on](https://www.theverge.com/23852814/jeopardy-signaling-device-delcom-practice-buzzer-button-of-the-month)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saints Row developer Volition permanently shuts down](https://www.theverge.com/2023/8/31/23854126/volition-shuts-down-embracer-group-saints-row)
- - [Network security company LogicMonitor confirms a &quot;security incident&quot;, source says due to assigning customers default passwords like &quot;Welcome@&quot; plus a number &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230831/p34#a230831p34)
- - [Apple abandons iTunes Movie Trailers site and iOS app](https://appleinsider.com/articles/23/08/31/apple-abandons-itunes-movie-trailers-site-and-ios-app?utm_medium=rss)
- - [The best smartwatch you can buy just got an $89 discount](https://www.androidauthority.com/apple-watch-series-8-deal-3359998/)
- - [Dual-Motor Rivian R1T Is a More Efficient, Less Expensive Electric Pickup     - CNET](https://www.cnet.com/roadshow/news/dual-motor-rivian-r1t-is-a-more-efficient-less-expensive-electric-pickup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Withings updates its ScanWatch lineup with ScanWatch 2, ScanWatch Light](https://appleinsider.com/articles/23/08/31/withings-updates-its-scanwatch-lineup-with-scanwatch-2-scanwatch-light?utm_medium=rss)
+ - [Meta is showing a &quot;For you on Threads&quot; carousel on the Instagram app for some users, with a button to open the Threads app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p35#a230831p35)
+ - [Don’t panic: An emergency alert test will take place in the US in October](https://www.androidauthority.com/fema-fcc-emergency-test-3360012/)
+ - [To fast charge or not: OnePlus could be working on a cool solution](https://www.androidauthority.com/oneplus-oxygenos-14-charging-boost-feature-leak-3359953/)
+ - [Saints Row developer Volition permanently shuts down](https://www.theverge.com/2023/8/31/23854126/volition-shuts-down-embracer-group-saints-row)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

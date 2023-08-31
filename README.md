@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue updates existing lights with Matter, launches new security cameras](https://www.androidauthority.com/philips-hue-matter-update-security-cameras-3359494/)
+ - [Philips Hue’s new security cameras are end-to-end encrypted and predictably expensive](https://www.theverge.com/2023/8/31/23853233/philips-hue-secure-smart-security-cameras-launch-price-specs-hands-on)
+ - [Philips Hue finally &lpar;for real this time&rpar; adds support for Matter](https://www.theverge.com/2023/8/31/23852589/philips-hue-matter-support-adds-bridge)
  - [Chromebook camera not working? Here are 8 ways to fix it.](https://www.androidauthority.com/chromebook-camera-not-working-3359751/)
- - [Aqara put a notification light in its new Matter ceiling light](https://www.theverge.com/2023/8/31/23852845/aqara-matter-enabled-ceiling-light)
- - [IFA 2023: the biggest announcements from Europe’s big tech show](https://www.theverge.com/2023/8/31/23845604/ifa-2023-news-products-announcements-smart-home-foldables-headphones-audio)
- - [How open-source software transformed automated insulin delivery systems, as many advocates say the tech promises more personalization than proprietary software &lpar;Liam Drew/Nature&rpar;](http://www.techmeme.com/230831/p6#a230831p6)
- - [A look at cybercrime writing contests, which Russian-language cybercrime forums have hosted for over a decade, that offer the winners up to $80K in prize money &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230831/p5#a230831p5)<!-- TECH:END -->
+ - [Aqara put a notification light in its new Matter ceiling light](https://www.theverge.com/2023/8/31/23852845/aqara-matter-enabled-ceiling-light)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 💣 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
  - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 👉 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)<!-- MEMES:END -->
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
 
 ---
 </div>

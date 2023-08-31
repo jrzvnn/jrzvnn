@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How open-source software transformed automated insulin delivery systems, as many advocates say the tech promises more personalization than proprietary software &lpar;Liam Drew/Nature&rpar;](http://www.techmeme.com/230831/p6#a230831p6)
  - [A look at cybercrime writing contests, which Russian-language cybercrime forums have hosted for over a decade, that offer the winners up to $80K in prize money &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230831/p5#a230831p5)
  - [Google partners with enterprise messaging interoperability provider Mio to enable messaging between Chat and platforms like Slack and Teams, available in beta &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230831/p4#a230831p4)
  - [Google Chrome could soon let you share passwords with up to 6 people](https://www.androidauthority.com/google-chrome-password-sharing-3359736/)
- - [NYC subway&#39;s contactless payments system, the OMNY, has a privacy issue that lets one view a rider&#39;s 7-day trip history using just the rider&#39;s credit card info &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230831/p3#a230831p3)
- - [OnePlus Open could outfold the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-folding-durability-3359725/)<!-- TECH:END -->
+ - [NYC subway&#39;s contactless payments system, the OMNY, has a privacy issue that lets one view a rider&#39;s 7-day trip history using just the rider&#39;s credit card info &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230831/p3#a230831p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

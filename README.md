@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
  - 😝 [Netflix being babysitted as they should be](http://9gag.com/gag/avQXMAO)
- - 💣 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
+ - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
  - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
+ - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
 
 ---
 </div>

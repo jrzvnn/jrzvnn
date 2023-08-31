@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts beats opinions](http://9gag.com/gag/aVb1NKM)
- - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
- - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
- - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
- - 👉 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)<!-- MEMES:END -->
+ - 😝 [Ozark](http://9gag.com/gag/aoKqXrw)
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 💣 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 👉 [There is no God](http://9gag.com/gag/aKENQpO)<!-- MEMES:END -->
 
 ---
 </div>

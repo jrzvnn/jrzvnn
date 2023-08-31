@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
- - 😝 [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
- - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
+ - 👉 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Segway P100S Review: Heavy, Powerful, Smooth Ride](https://www.wired.com/review/segway-p100s/)
+ - [Game Mode isn&#39;t enough to bring gaming to macOS, and Apple needs to do more](https://appleinsider.com/articles/23/08/31/game-mode-isnt-enough-to-bring-gaming-to-macos-and-apple-needs-to-do-more?utm_medium=rss)
  - [Philips Hue adds security cameras and announces Matter support](https://appleinsider.com/articles/23/08/31/philips-hue-adds-security-cameras-and-announces-matter-support?utm_medium=rss)
  - [Binance plans to &quot;gradually&quot; end support for its BUSD stablecoin by February 2024, citing Paxos ceasing to mint new BUSD after an NYDFS order in February 2023 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230831/p18#a230831p18)
- - [LG’s suitcase TV is as sturdy as it is bizarre](https://www.theverge.com/2023/8/31/23853578/lg-standbyme-go-suitcase-tv-hands-on)
- - [Activision partners with Modulate to begin testing ToxMod, an AI-based voice moderation tool for Modern Warfare 2 and other games, in North America &lpar;Morgan Park/PC Gamer&rpar;](http://www.techmeme.com/230831/p17#a230831p17)
- - [This may be the best look yet at the iPhone 15 color assortment](https://appleinsider.com/articles/23/08/30/this-is-the-best-look-yet-at-the-iphone-15-color-assortment?utm_medium=rss)<!-- TECH:END -->
+ - [LG’s suitcase TV is as sturdy as it is bizarre](https://www.theverge.com/2023/8/31/23853578/lg-standbyme-go-suitcase-tv-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

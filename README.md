@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can Samsung Food usher in a new era for the smart kitchen?](https://www.theverge.com/2023/8/31/23853978/samsung-food-app-smart-kitchen-ifa-2023)
  - [New York subway system disables feature that could let stalkers track your trips](https://www.theverge.com/2023/8/31/23854372/new-york-subway-system-mta-omny-disabled)
  - [New Chrome feature makes it easier to grab full-resolution frames from videos](https://www.theverge.com/2023/8/31/23854302/google-chrome-copy-video-frame-chromium)
  - [A Baldur’s Gate 3 companion bug is ruining my game](https://www.theverge.com/2023/8/31/23852398/baldurs-gate-3-bug-patch-2-jaheira)
- - [University of Z&amp;uuml;rich and Intel researchers show autonomous drones that use deep reinforcement learning to beat human champions in first-person view drone racing &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230831/p38#a230831p38)
- - [Apple&#39;s Decision to Kill Its CSAM Photo-Scanning Tool Sparks Fresh Controversy](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)<!-- TECH:END -->
+ - [University of Z&amp;uuml;rich and Intel researchers reveal Swift, an autonomous drone trained via deep reinforcement learning to beat human champions in FPV drone racing &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230831/p38#a230831p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

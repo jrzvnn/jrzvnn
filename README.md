@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 👉 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)<!-- MEMES:END -->
+ - 😝 [Microsoft](http://9gag.com/gag/axonqmp)
+ - 😝 [Used to put stuff on the road as a kid just to watch them get destroyed.](http://9gag.com/gag/a9qNxP0)
+ - 💣 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
+ - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 👉 [Shit happen](http://9gag.com/gag/aMENLg6)<!-- MEMES:END -->
 
 ---
 </div>

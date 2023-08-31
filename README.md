@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML says the company has licenses to ship restricted chipmaking machines to China until end of 2023, even as Dutch export control rules kick in on September 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p28#a230831p28)
  - [YouTube Music now has YouTube comments, because Google learned nothing](https://www.theverge.com/2023/8/31/23853677/youtube-music-comments-section-rollout)
  - [An excerpt from Walter Isaacson&#39;s new Elon Musk biography details Musk&#39;s decision to buy Twitter and how his moods fluctuated wildly before the official closing &lpar;Walter Isaacson/Wall Street Journal&rpar;](http://www.techmeme.com/230831/p27#a230831p27)
  - [The Fisker Pear’s disappearing trunk is a nifty magic trick](https://www.theverge.com/2023/8/31/23853644/fisker-pear-houdini-trunk-electric-suv)
- - [Daily deals Aug. 31: iPad $279, 15&quot; MacBook Air $1,099, Anova Sous Vide Cooker $149, more](https://appleinsider.com/articles/23/08/31/daily-deals-aug-31-ipad-279-15-macbook-air-1099-anova-sous-vide-cooker-149-more?utm_medium=rss)
- - [OnePlus is working on an interesting way to use all that RAM on your phone](https://www.androidauthority.com/oneplus-oxygenos-14-dedicated-ram-games-feature-leak-3359910/)<!-- TECH:END -->
+ - [Daily deals Aug. 31: iPad $279, 15&quot; MacBook Air $1,099, Anova Sous Vide Cooker $149, more](https://appleinsider.com/articles/23/08/31/daily-deals-aug-31-ipad-279-15-macbook-air-1099-anova-sous-vide-cooker-149-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

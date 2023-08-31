@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investor letter: Reid Hoffman won&#39;t be a GP for Greylock&#39;s next $1B fund, down from its $1.5B funds in 2020 and 2021; Hoffman made one deal in its 16th fund &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230831/p16#a230831p16)
+ - [Google Fixes Serious Security Flaws in Chrome and Android](https://www.wired.com/story/google-android-chrome-critical-update-august-2023/)
+ - [The Inventor Behind a Rush of AI Copyright Suits Is Trying to Show His Bot Is Sentient](https://www.wired.com/story/the-inventor-behind-a-rush-of-ai-copyright-suits-is-trying-to-show-his-bot-is-sentient/)
  - [Chinese state media heralds Huawei&#39;s new Mate 60 Pro, which apparently includes a Huawei-made Kirin 5G chip, as a repudiation of US efforts to contain China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p15#a230831p15)
- - [Lessons from the rapid grocery delivery boom: $10B+ of VC money, used for ads and promos, created the market from nothing, app downloads have cratered, and more &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/230831/p14#a230831p14)
- - [Stockholm-based Klarna reports H1 2023 revenue up 15% YoY to ~$963M and a ~$185M adjusted loss, down from a ~$570M loss in H1 2022, as the company cuts costs &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230831/p13#a230831p13)
- - [She Sacrificed Her Youth to Get the Tech Bros to Grow Up](https://www.wired.com/story/patricia-moore-sacrificed-youth-to-get-tech-bros-to-grow-up/)
- - [Preferring Biological Children Is Immoral](https://www.wired.com/story/ethics-children-parenting-family-biology/)<!-- TECH:END -->
+ - [Lessons from the rapid grocery delivery boom: $10B+ of VC money, used for ads and promos, created the market from nothing, app downloads have cratered, and more &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/230831/p14#a230831p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

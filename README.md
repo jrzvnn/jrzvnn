@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Baldur’s Gate 3 companion bug is ruining my game](https://www.theverge.com/2023/8/31/23852398/baldurs-gate-3-bug-patch-2-jaheira)
+ - [University of Z&amp;uuml;rich and Intel researchers show autonomous drones that use deep reinforcement learning to beat human champions in first-person view drone racing &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230831/p38#a230831p38)
+ - [Apple&#39;s Decision to Kill Its CSAM Photo-Scanning Tool Sparks Fresh Controversy](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
  - [A Valorant esports team has disbanded despite winning crucial tournament](https://www.theverge.com/2023/8/31/23853178/valorant-esports-the-guard-explained-riot-vct)
- - [Google Chrome makes it easy to copy the exact frame you want from a video](https://www.androidauthority.com/google-chrome-copy-video-frame-3360067/)
- - [The Best Sleep Headphones in 2023     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [The 26 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Where to preorder the various editions of Starfield &lpar;and what’s included&rpar;](https://www.theverge.com/23831977/starfield-preorder-guide-constellation-edition-controller-headset-bethesda-xbox-pc)<!-- TECH:END -->
+ - [Google Chrome makes it easy to copy the exact frame you want from a video](https://www.androidauthority.com/google-chrome-copy-video-frame-3360067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

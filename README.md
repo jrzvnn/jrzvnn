@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo is making a bright red Switch OLED for Mario Wonder](https://www.theverge.com/2023/8/31/23853679/super-mario-bros-wonder-red-nintendo-switch)
  - [Apple&#39;s iPhone continues to gain as smartphone market falls](https://appleinsider.com/articles/23/08/31/apples-iphone-continues-to-gain-as-smartphone-market-falls?utm_medium=rss)
  - [Berlin-based Ivy, which offers an API to create a &quot;network of networks&quot; for open banking payments globally, raised a $20M Series A, after a $7.7M seed in July &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p24#a230831p24)
  - [Xgimi’s latest 4K projector is super bright for the price](https://www.theverge.com/2023/8/31/23848656/xgimi-bright-4k-projector-horizon-ultra-price-specs)
- - [This $90 Nelko Shipping Label Printer Is a Must-Have for Your Online Business     - CNET](https://www.cnet.com/deals/this-90-nelko-shipping-label-printer-is-a-must-have-for-your-online-business/#ftag=CAD590a51e)
- - [X wants permission to start collecting your biometric data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)<!-- TECH:END -->
+ - [This $90 Nelko Shipping Label Printer Is a Must-Have for Your Online Business     - CNET](https://www.cnet.com/deals/this-90-nelko-shipping-label-printer-is-a-must-have-for-your-online-business/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
- - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
- - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
+ - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)
+ - 👉 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)<!-- MEMES:END -->
 
 ---
 </div>

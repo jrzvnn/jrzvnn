@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble updates its community guidelines to crack down on bots, spam, ghosting, and doxxing, and says it has blocked 8.2M+ accounts this year, mostly using AI &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p37#a230831p37)
  - [Watch India’s lunar rover take a spin on the Moon](https://www.theverge.com/2023/8/31/23854071/india-lunar-moon-mission-chandrayaan-3-rover-video)
  - [Fairphone 5 hands-on: Feels like the best phone for a small group of people](https://www.androidauthority.com/fairphone-5-hands-on-3359027/)
  - [Labor Day deals: up to $1,600 in Apple savings from Amazon, B&amp;H, Best Buy &amp; more](https://appleinsider.com/articles/23/08/31/labor-day-deals-up-to-1600-in-apple-savings-from-amazon-bh-best-buy-more?utm_medium=rss)
- - [Investigation: IBM signed a &amp;pound;54.7M deal to develop a UK biometrics platform, including for facial recognition, in July, despite a 2020 pledge to quit such work &lpar;Mark Wilding/The Verge&rpar;](http://www.techmeme.com/230831/p36#a230831p36)
- - [&#39;Super Mario Bros. Wonder&#39; Is What Happens When Devs Have Time to Play](https://www.wired.com/story/super-mario-bros-wonder-nintendo-switch-mouri-tezuka-interview/)<!-- TECH:END -->
+ - [Investigation: IBM signed a &amp;pound;54.7M deal to develop a UK biometrics platform, including for facial recognition, in July, despite a 2020 pledge to quit such work &lpar;Mark Wilding/The Verge&rpar;](http://www.techmeme.com/230831/p36#a230831p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

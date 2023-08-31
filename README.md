@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [They get stiches](http://9gag.com/gag/az2DWgK)
- - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
  - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 👉 [Cristy Ren](http://9gag.com/gag/aDYN9bK)<!-- MEMES:END -->
+ - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
 
 ---
 </div>

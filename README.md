@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
- - 💣 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
- - 😝 [I know guys who&#39;ll do it cheaper](http://9gag.com/gag/aeQPBnm)
- - 👉 [I wonder why?](http://9gag.com/gag/ap9jOAB)<!-- MEMES:END -->
+ - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
+ - 😝 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
+ - 💣 [I wonder why?](http://9gag.com/gag/ap9jOAB)
+ - 😝 [Perfect counter](http://9gag.com/gag/az2D0db)
+ - 👉 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)<!-- MEMES:END -->
 
 ---
 </div>

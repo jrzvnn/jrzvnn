@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NYPD will police Labor Day parties with surveillance drones](https://www.theverge.com/2023/8/31/23318832/nypd-drones-parties-jouvert-west-indian-labor-day-weekend)
  - [&#39;Reservation Dogs&#39; Is a Vision of Hollywood’s New Normal](https://www.wired.com/story/reservation-dogs-future-of-tv/)
  - [AirTag helps police track down another car thief](https://appleinsider.com/articles/23/08/31/airtag-helps-police-track-down-another-car-thief?utm_medium=rss)
  - [A US District judge grants a preliminary injunction temporarily blocking the enforcement of a Texas law that requires age verification to access porn sites &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230831/p40#a230831p40)
- - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
- - [Max Streaming Service Launches Top 10 Rows     - CNET](https://www.cnet.com/tech/services-and-software/max-streaming-service-launches-top-10-rows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

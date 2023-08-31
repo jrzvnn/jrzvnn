@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VanMoof e-bikes finds a buyer](https://www.theverge.com/23822598/lavoie-buys-vanmoof-e-bikes)
  - [Source: Binance Asia-Pacific&#39;s head Leon Foong resigned from the exchange, the latest senior executive departure; Foong helped expand in South Korea and Japan &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p21#a230831p21)
  - [Meta begins testing full-text search on Threads in Australia and New Zealand and plans a wider rollout to other English-speaking countries in the future &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p20#a230831p20)
  - [IBM promised to back off facial recognition — then it signed a $69.8 million contract to provide it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
- - [NFL 2023: How to Watch and Stream Football, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-football-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)
- - [Halo Announces Its Third Generation GPS Dog Collar With AI Smarts and My Dog Loves It     - CNET](https://www.cnet.com/news/halo-announces-its-third-generation-gps-dog-collar-with-ai-smarts-and-my-dog-loves-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

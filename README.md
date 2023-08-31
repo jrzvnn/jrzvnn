@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cardboard VS 2nd strongest army in the world.](http://9gag.com/gag/a7q64Om)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 😝 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
- - 👉 [Hehe](http://9gag.com/gag/a04W2Qq)<!-- MEMES:END -->
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 😝 [Complicated](http://9gag.com/gag/aoKq79n)
+ - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
+ - 👉 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)<!-- MEMES:END -->
 
 ---
 </div>

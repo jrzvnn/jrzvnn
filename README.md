@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
+ - 😝 [Cardboard VS 2nd strongest army in the world.](http://9gag.com/gag/a7q64Om)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 😝 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
+ - 👉 [Hehe](http://9gag.com/gag/a04W2Qq)<!-- MEMES:END -->
 
 ---
 </div>

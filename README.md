@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s new MagGo wireless chargers might charge iPhones just as fast as MagSafe](https://www.theverge.com/2023/8/31/23850968/anker-maggo-qi2-chargers-usb-c-battery-ifa-2023)
+ - [Philips Hue launches Secure, a DIY security system with E2EE, starting at $200 for a wired indoor/outdoor camera, and plans to add Matter support in September &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230831/p9#a230831p9)
+ - [Microsoft is unbundling Teams from Office in Europe to address regulator concerns](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
  - [Microsoft plans to unbundle Teams from Microsoft 365 and Office 365 across Europe from October 1, instead offering Teams to enterprise for &amp;euro;24 per year &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230831/p8#a230831p8)
- - [Sea-owned Garena plans to relaunch its popular mobile game Free Fire in India on September 5, around 18 months after the app was banned over security concerns &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230831/p7#a230831p7)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Philips Hue updates existing lights with Matter, launches new security cameras](https://www.androidauthority.com/philips-hue-matter-update-security-cameras-3359494/)
- - [Philips Hue’s new security cameras are end-to-end encrypted and predictably expensive](https://www.theverge.com/2023/8/31/23853233/philips-hue-secure-smart-security-cameras-launch-price-specs-hands-on)<!-- TECH:END -->
+ - [Sea-owned Garena plans to relaunch its popular mobile game Free Fire in India on September 5, around 18 months after the app was banned over security concerns &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230831/p7#a230831p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTag helps police track down another car thief](https://appleinsider.com/articles/23/08/31/airtag-helps-police-track-down-another-car-thief?utm_medium=rss)
  - [A US District judge grants a preliminary injunction temporarily blocking the enforcement of a Texas law that requires age verification to access porn sites &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230831/p40#a230831p40)
  - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
  - [Apple offering up to $100 Daily Cash bonus for adding Apple Card Family members](https://appleinsider.com/articles/23/08/31/apple-offering-up-to-100-daily-cash-bonus-for-adding-apple-card-family-members?utm_medium=rss)
- - [Anker unveils new Qi2 charging accessories ahead of iPhone 15 launch](https://appleinsider.com/articles/23/08/31/anker-unveils-new-qi2-charging-accessories-ahead-of-iphone-15-launch?utm_medium=rss)
- - [Sony’s portable PlayStation Portal launches on November 15th for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)<!-- TECH:END -->
+ - [Anker unveils new Qi2 charging accessories ahead of iPhone 15 launch](https://appleinsider.com/articles/23/08/31/anker-unveils-new-qi2-charging-accessories-ahead-of-iphone-15-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

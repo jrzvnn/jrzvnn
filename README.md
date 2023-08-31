@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Microsoft](http://9gag.com/gag/axonqmp)
- - 😝 [Used to put stuff on the road as a kid just to watch them get destroyed.](http://9gag.com/gag/a9qNxP0)
- - 💣 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
- - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 👉 [Shit happen](http://9gag.com/gag/aMENLg6)<!-- MEMES:END -->
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [That is not a spider on the snake&#39;s tail](http://9gag.com/gag/abvmwA9)
+ - 👉 [All part of a master plan](http://9gag.com/gag/aDYNewx)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 💣 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
- - 👉 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)<!-- MEMES:END -->
+ - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 😝 [I wonder why?](http://9gag.com/gag/ap9jOAB)
+ - 💣 [Only 93](http://9gag.com/gag/aYVnX4v)
+ - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
+ - 👉 [I know guys who&#39;ll do it cheaper](http://9gag.com/gag/aeQPBnm)<!-- MEMES:END -->
 
 ---
 </div>

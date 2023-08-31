@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google partners with enterprise messaging interoperability provider Mio to enable messaging between Chat and platforms like Slack and Teams, available in beta &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230831/p4#a230831p4)
  - [Google Chrome could soon let you share passwords with up to 6 people](https://www.androidauthority.com/google-chrome-password-sharing-3359736/)
  - [NYC subway&#39;s contactless payments system, the OMNY, has a privacy issue that lets one view a rider&#39;s 7-day trip history using just the rider&#39;s credit card info &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230831/p3#a230831p3)
  - [OnePlus Open could outfold the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-folding-durability-3359725/)
- - [The FCC rejects ISPs&#39; requests to eliminate an upcoming requirement that they list all their monthly fees, saying &quot;every consumer needs transparent information&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230831/p2#a230831p2)
- - [The US Copyright Office seeks public input on AI and copyright issues, including the use of copyrighted works to train AI; written comments are due October 18 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230831/p1#a230831p1)<!-- TECH:END -->
+ - [The FCC rejects ISPs&#39; requests to eliminate an upcoming requirement that they list all their monthly fees, saying &quot;every consumer needs transparent information&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230831/p2#a230831p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

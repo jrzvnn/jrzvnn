@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
+ - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)
+ - [Vietnam faces a chronic shortage of engineers, presenting a major challenge to the growth of its chip industry; Biden plans to visit next month to talk chips &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/230831/p19#a230831p19)
  - [Segway P100S Review: Heavy, Powerful, Smooth Ride](https://www.wired.com/review/segway-p100s/)
- - [Game Mode isn&#39;t enough to bring gaming to macOS, and Apple needs to do more](https://appleinsider.com/articles/23/08/31/game-mode-isnt-enough-to-bring-gaming-to-macos-and-apple-needs-to-do-more?utm_medium=rss)
- - [Philips Hue adds security cameras and announces Matter support](https://appleinsider.com/articles/23/08/31/philips-hue-adds-security-cameras-and-announces-matter-support?utm_medium=rss)
- - [Binance plans to &quot;gradually&quot; end support for its BUSD stablecoin by February 2024, citing Paxos ceasing to mint new BUSD after an NYDFS order in February 2023 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230831/p18#a230831p18)
- - [LG’s suitcase TV is as sturdy as it is bizarre](https://www.theverge.com/2023/8/31/23853578/lg-standbyme-go-suitcase-tv-hands-on)<!-- TECH:END -->
+ - [Game Mode isn&#39;t enough to bring gaming to macOS, and Apple needs to do more](https://appleinsider.com/articles/23/08/31/game-mode-isnt-enough-to-bring-gaming-to-macos-and-apple-needs-to-do-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

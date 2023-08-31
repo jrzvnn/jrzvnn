@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to unbundle Teams from Microsoft 365 and Office 365 across Europe from October 1, instead offering Teams to enterprise for &amp;euro;24 per year &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230831/p8#a230831p8)
+ - [Sea-owned Garena plans to relaunch its popular mobile game Free Fire in India on September 5, around 18 months after the app was banned over security concerns &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230831/p7#a230831p7)
  - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
  - [Philips Hue updates existing lights with Matter, launches new security cameras](https://www.androidauthority.com/philips-hue-matter-update-security-cameras-3359494/)
- - [Philips Hue’s new security cameras are end-to-end encrypted and predictably expensive](https://www.theverge.com/2023/8/31/23853233/philips-hue-secure-smart-security-cameras-launch-price-specs-hands-on)
- - [Philips Hue finally &lpar;for real this time&rpar; adds support for Matter](https://www.theverge.com/2023/8/31/23852589/philips-hue-matter-support-adds-bridge)
- - [Chromebook camera not working? Here are 8 ways to fix it.](https://www.androidauthority.com/chromebook-camera-not-working-3359751/)<!-- TECH:END -->
+ - [Philips Hue’s new security cameras are end-to-end encrypted and predictably expensive](https://www.theverge.com/2023/8/31/23853233/philips-hue-secure-smart-security-cameras-launch-price-specs-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

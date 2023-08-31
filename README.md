@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift’s Eras Tour is coming to theaters for the ‘theatrical event of the millennium’](https://www.theverge.com/2023/8/31/23853812/taylor-swifts-eras-tour-amc-theatrical-release-price)
- - [ASML says the company has licenses to ship restricted chipmaking machines to China until end of 2023, even as Dutch export control rules kick in on September 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p28#a230831p28)
- - [YouTube Music now has YouTube comments, because Google learned nothing](https://www.theverge.com/2023/8/31/23853677/youtube-music-comments-section-rollout)
- - [An excerpt from Walter Isaacson&#39;s new Elon Musk biography details Musk&#39;s decision to buy Twitter and how his moods fluctuated wildly before the official closing &lpar;Walter Isaacson/Wall Street Journal&rpar;](http://www.techmeme.com/230831/p27#a230831p27)
- - [The Fisker Pear’s disappearing trunk is a nifty magic trick](https://www.theverge.com/2023/8/31/23853644/fisker-pear-houdini-trunk-electric-suv)<!-- TECH:END -->
+ - [Withings introduces the new ScanWatch 2 and a budget-friendly ScanWatch Light](https://www.androidauthority.com/withings-scanwatch-2-scanwatch-light-3359279/)
+ - [&#39;Starfield&#39; Review: Get Lost in Space](https://www.wired.com/review/starfield-review/)
+ - [People Are Increasingly Worried AI Will Make Daily Life Worse](https://www.wired.com/story/fast-forward-people-are-increasingly-worried-artificial-intelligence/)
+ - [Starfield doesn’t have Nvidia’s DLSS at launch](https://www.theverge.com/2023/8/31/23853561/starfield-no-dlss-support-launch-bethesda)
+ - [Starfield is a stellar sci-fi refresh of the Bethesda RPG formula](https://www.theverge.com/23852390/starfield-review-xbox-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

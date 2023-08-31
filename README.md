@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fart guitar](http://9gag.com/gag/aREN5ZA)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 😝 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
- - 👉 [Hehe](http://9gag.com/gag/a04W2Qq)<!-- MEMES:END -->
+ - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
+ - 💣 [There is no God](http://9gag.com/gag/aKENQpO)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
 
 ---
 </div>

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 💣 [There is no God](http://9gag.com/gag/aKENQpO)
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
+ - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 💣 [Lord of the simps](http://9gag.com/gag/avQXY2n)
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 👉 [There is no God](http://9gag.com/gag/aKENQpO)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple provides detailed reasoning behind abandoning iPhone CSAM detection](https://appleinsider.com/articles/23/08/31/apple-provides-detailed-reasoning-behind-abandoning-iphone-csam-detection?utm_medium=rss)
  - [Can Samsung Food usher in a new era for the smart kitchen?](https://www.theverge.com/2023/8/31/23853978/samsung-food-app-smart-kitchen-ifa-2023)
  - [New York subway system disables feature that could let stalkers track your trips](https://www.theverge.com/2023/8/31/23854372/new-york-subway-system-mta-omny-disabled)
- - [New Chrome feature makes it easier to grab full-resolution frames from videos](https://www.theverge.com/2023/8/31/23854302/google-chrome-copy-video-frame-chromium)
- - [A Baldur’s Gate 3 companion bug is ruining my game](https://www.theverge.com/2023/8/31/23852398/baldurs-gate-3-bug-patch-2-jaheira)
- - [University of Z&amp;uuml;rich and Intel researchers reveal Swift, an autonomous drone trained via deep reinforcement learning to beat human champions in FPV drone racing &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230831/p38#a230831p38)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [New Chrome feature makes it easier to grab full-resolution frames from videos](https://www.theverge.com/2023/8/31/23854302/google-chrome-copy-video-frame-chromium)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

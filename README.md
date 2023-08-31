@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings introduces the new ScanWatch 2 and a budget-friendly ScanWatch Light](https://www.androidauthority.com/withings-scanwatch-2-scanwatch-light-3359279/)
- - [&#39;Starfield&#39; Review: Get Lost in Space](https://www.wired.com/review/starfield-review/)
- - [People Are Increasingly Worried AI Will Make Daily Life Worse](https://www.wired.com/story/fast-forward-people-are-increasingly-worried-artificial-intelligence/)
- - [Starfield doesn’t have Nvidia’s DLSS at launch](https://www.theverge.com/2023/8/31/23853561/starfield-no-dlss-support-launch-bethesda)
- - [Starfield is a stellar sci-fi refresh of the Bethesda RPG formula](https://www.theverge.com/23852390/starfield-review-xbox-pc)<!-- TECH:END -->
+ - [Meta releases FACET, an AI benchmark tool to evaluate the &quot;fairness&quot; of AI models that classify and detect things in photos and videos, including people &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230831/p31#a230831p31)
+ - [Starfield: all the news and trailers about Bethesda’s massive space RPG](https://www.theverge.com/23833189/starfield-news-announcements-trailers-microsoft-bethesda-xbox-pc)
+ - [YouTube Music rolls out a redesign of its Now Playing screen on Android and iOS, adding a comments section, after launching real-time lyrics last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230831/p30#a230831p30)
+ - [Best Monitor Deals: See 27-inch QHD and 32-Inch 4K Displays on Sale     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
+ - [Withings introduces the new ScanWatch 2 and a budget-friendly ScanWatch Light](https://www.androidauthority.com/withings-scanwatch-2-scanwatch-light-3359279/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We wish this rollable phone concept was a thing you could buy](https://www.androidauthority.com/tecno-phantom-ultimate-rollable-phone-3359859/)
- - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
- - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)
- - [Vietnam faces a chronic shortage of engineers, presenting a major challenge to the growth of its chip industry; Biden plans to visit next month to talk chips &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/230831/p19#a230831p19)
- - [Segway P100S Review: Heavy, Powerful, Smooth Ride](https://www.wired.com/review/segway-p100s/)<!-- TECH:END -->
+ - [Source: Binance Asia-Pacific&#39;s head Leon Foong resigned from the exchange, the latest senior executive departure; Foong helped expand in South Korea and Japan &lpar;Bloomberg&rpar;](http://www.techmeme.com/230831/p21#a230831p21)
+ - [Meta begins testing full-text search on Threads in Australia and New Zealand and plans a wider rollout to other English-speaking countries in the future &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p20#a230831p20)
+ - [IBM promised to back off facial recognition — then it signed a $69.8 million contract to provide it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+ - [NFL 2023: How to Watch and Stream Football, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-football-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)
+ - [Halo Announces Its Third Generation GPS Dog Collar With AI Smarts and My Dog Loves It     - CNET](https://www.cnet.com/news/halo-announces-its-third-generation-gps-dog-collar-with-ai-smarts-and-my-dog-loves-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fisker Pear’s disappearing trunk is a nifty magic trick](https://www.theverge.com/2023/8/31/23853644/fisker-pear-houdini-trunk-electric-suv)
+ - [Daily deals Aug. 31: iPad $279, 15&quot; MacBook Air $1,099, Anova Sous Vide Cooker $149, more](https://appleinsider.com/articles/23/08/31/daily-deals-aug-31-ipad-279-15-macbook-air-1099-anova-sous-vide-cooker-149-more?utm_medium=rss)
+ - [OnePlus is working on an interesting way to use all that RAM on your phone](https://www.androidauthority.com/oneplus-oxygenos-14-dedicated-ram-games-feature-leak-3359910/)
  - [Sources: CoreWeave is exploring a ~10% equity stake sale valuing the company between $5B and $8B; source: CoreWeave revenue is projected to hit $1.5B in 2024 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/230831/p26#a230831p26)
- - [Super Mario Bros. Wonder looks trippy as hell in new gameplay trailer](https://www.theverge.com/23853685/super-mario-bros-wonder-gameplay-trailer-nintendo-direct)
- - [Threads will soon let you search through posts](https://www.theverge.com/2023/8/31/23853782/threads-search-posts-feature-test-meta)
- - [Cybersecurity giant Malwarebytes laid off 100+ employees as it prepares for a major restructuring to separate its consumer and corporate-facing business units &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230831/p25#a230831p25)
- - [Nintendo is making a bright red Switch OLED for Mario Wonder](https://www.theverge.com/2023/8/31/23853679/super-mario-bros-wonder-red-nintendo-switch)<!-- TECH:END -->
+ - [The Best Noise Colors Proven to Boost Quality Sleep     - CNET](https://www.cnet.com/health/sleep/best-noise-color-for-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

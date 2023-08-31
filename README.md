@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker unveils new Qi2 charging accessories ahead of iPhone 15 launch](https://appleinsider.com/articles/23/08/31/anker-unveils-new-qi2-charging-accessories-ahead-of-iphone-15-launch?utm_medium=rss)
+ - [Sony’s portable PlayStation Portal launches on November 15th for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price)
  - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
  - [Windows 11 tests Notepad autosave and better Snipping Tool](https://www.theverge.com/2023/8/31/23854449/windows-11-notepad-autosave-snipping-tool-update)
- - [Porn age verification law is unconstitutional, says judge](https://www.theverge.com/2023/8/31/23854369/texas-porn-age-verification-law-blocked-judge)
- - [This Chrome Trick Could Replace Manual Video Screenshots     - CNET](https://www.cnet.com/tech/services-and-software/this-chrome-trick-could-replace-manual-video-screenshots/#ftag=CAD590a51e)
- - [Star Wars Chatter Back Chopper Hands-On: An Always-Listening Loudmouth     - CNET](https://www.cnet.com/tech/computing/star-wars-chatter-back-chopper-hands-on-an-always-listening-loudmouth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Porn age verification law is unconstitutional, says judge](https://www.theverge.com/2023/8/31/23854369/texas-porn-age-verification-law-blocked-judge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

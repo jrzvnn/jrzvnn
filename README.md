@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch 5 starts getting stable One UI 5 Watch update in the US](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-5-watch-update-3359789/)
+ - [A monthslong investigation exposes the secrets of Russian ransomware gang Trickbot, which thrived despite global disruption efforts, and a key member&#39;s identity &lpar;Wired&rpar;](http://www.techmeme.com/230831/p10#a230831p10)
  - [Alexa and Google Assistant play together nicely, but not perfectly, on JBL’s new speakers](https://www.theverge.com/2023/8/31/23853487/jbl-authentics-200-300-500-hands-on-alexa-google-assistant-smart-speaker)
  - [Anker’s new MagGo wireless chargers might charge iPhones just as fast as MagSafe](https://www.theverge.com/2023/8/31/23850968/anker-maggo-qi2-chargers-usb-c-battery-ifa-2023)
- - [Philips Hue launches Secure, a DIY security system with E2EE, starting at $200 for a wired indoor/outdoor camera, and plans to add Matter support in September &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230831/p9#a230831p9)
- - [Microsoft is unbundling Teams from Office in Europe to address regulator concerns](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
- - [Microsoft plans to unbundle Teams from Microsoft 365 and Office 365 across Europe from October 1, instead offering Teams to enterprise for &amp;euro;24 per year &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230831/p8#a230831p8)<!-- TECH:END -->
+ - [Philips Hue launches Secure, a DIY security system with E2EE, starting at $200 for a wired indoor/outdoor camera, and plans to add Matter support in September &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230831/p9#a230831p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

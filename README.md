@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - 👉 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)<!-- MEMES:END -->
+ - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
+ - 💣 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
+ - 😝 [I know guys who&#39;ll do it cheaper](http://9gag.com/gag/aeQPBnm)
+ - 👉 [I wonder why?](http://9gag.com/gag/ap9jOAB)<!-- MEMES:END -->
 
 ---
 </div>

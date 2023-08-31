@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)
- - 👉 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)<!-- MEMES:END -->
+ - 😝 [Microsoft](http://9gag.com/gag/axonqmp)
+ - 😝 [Shit happen](http://9gag.com/gag/aMENLg6)
+ - 💣 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
+ - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
+ - 👉 [Just a coincidence](http://9gag.com/gag/az2DpDZ)<!-- MEMES:END -->
 
 ---
 </div>

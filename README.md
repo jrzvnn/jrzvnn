@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Eve Play brings AirPlay 2 audio to your Hi-Fi gear this November](https://www.theverge.com/2023/8/31/23851992/eve-play-airplay-2-receiver-thermo-control-matter-apple-home)
- - [X plans to let paid users hide their Likes from other users and &quot;from the X APIs&quot;, reversing a longstanding feature; individual Likes will appear on posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p12#a230831p12)
- - [Elon Musk says X users will be able to make video and audio calls without a phone number, but offers no timeframe, as X &quot;is the effective global address book&quot; &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230831/p11#a230831p11)
- - [Motorola plans to launch at least two new Moto G phones in September](https://www.androidauthority.com/motorola-g84-g54-5g-launch-3359780/)
- - [Samsung Galaxy Watch 5 starts getting stable One UI 5 Watch update in the US](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-5-watch-update-3359789/)<!-- TECH:END -->
+ - [Stockholm-based Klarna reports H1 2023 revenue up 15% YoY to ~$963M and a ~$185M adjusted loss, down from a ~$570M loss in H1 2022, as the company cuts costs &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/230831/p13#a230831p13)
+ - [She Sacrificed Her Youth to Get the Tech Bros to Grow Up](https://www.wired.com/story/patricia-moore-sacrificed-youth-to-get-tech-bros-to-grow-up/)
+ - [Preferring Biological Children Is Immoral](https://www.wired.com/story/ethics-children-parenting-family-biology/)
+ - [This USB button helps Jeopardy! contestants get their buzz on](https://www.theverge.com/23852814/jeopardy-signaling-device-delcom-practice-buzzer-button-of-the-month)
+ - [The Eve Play brings AirPlay 2 audio to your Hi-Fi gear this November](https://www.theverge.com/2023/8/31/23851992/eve-play-airplay-2-receiver-thermo-control-matter-apple-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

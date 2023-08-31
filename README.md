@@ -155,8 +155,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just a coincidence](http://9gag.com/gag/az2DpDZ)
  - 😝 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 😝 [I wonder why?](http://9gag.com/gag/ap9jOAB)
  - 💣 [Only 93](http://9gag.com/gag/aYVnX4v)
  - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
  - 👉 [I know guys who&#39;ll do it cheaper](http://9gag.com/gag/aeQPBnm)<!-- MEMES:END -->

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
- - 😝 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
- - 💣 [I wonder why?](http://9gag.com/gag/ap9jOAB)
- - 😝 [Perfect counter](http://9gag.com/gag/az2D0db)
- - 👉 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)<!-- MEMES:END -->
+ - 😝 [I wonder why?](http://9gag.com/gag/ap9jOAB)
+ - 💣 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
+ - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
 
 ---
 </div>

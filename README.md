@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The best Labor Day deals you can already get](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
  - [Windows 11 tests Notepad autosave and better Snipping Tool](https://www.theverge.com/2023/8/31/23854449/windows-11-notepad-autosave-snipping-tool-update)
  - [Porn age verification law is unconstitutional, says judge](https://www.theverge.com/2023/8/31/23854369/texas-porn-age-verification-law-blocked-judge)
- - [Dell reports Q2 revenue down 13% YoY to $22.9B, vs. $20.8B est., Client Solutions down 16% to $12.9B, Infrastructure Solutions down 11% to $8.5B; DELL jumps 7%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230831/p39#a230831p39)
- - [Apple provides detailed reasoning behind abandoning iPhone CSAM detection](https://appleinsider.com/articles/23/08/31/apple-provides-detailed-reasoning-behind-abandoning-iphone-csam-detection?utm_medium=rss)<!-- TECH:END -->
+ - [This Chrome Trick Could Replace Manual Video Screenshots     - CNET](https://www.cnet.com/tech/services-and-software/this-chrome-trick-could-replace-manual-video-screenshots/#ftag=CAD590a51e)
+ - [Star Wars Chatter Back Chopper Hands-On: An Always-Listening Loudmouth     - CNET](https://www.cnet.com/tech/computing/star-wars-chatter-back-chopper-hands-on-an-always-listening-loudmouth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

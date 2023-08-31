@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
- - 😝 [Netflix being babysitted as they should be](http://9gag.com/gag/avQXMAO)
- - 💣 [African mosquito burger](http://9gag.com/gag/a4orgmZ)
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 😝 [Cristy Ren](http://9gag.com/gag/aDYN9bK)
+ - 😝 [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
  - 👉 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)<!-- MEMES:END -->
 
 ---

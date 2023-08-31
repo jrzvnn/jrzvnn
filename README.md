@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
  - 😝 [They get stiches](http://9gag.com/gag/az2DWgK)
- - 💣 [Manual therapy](http://9gag.com/gag/aEqN5RK)
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
+ - 😝 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 👉 [Cristy Ren](http://9gag.com/gag/aDYN9bK)<!-- MEMES:END -->
 
 ---
 </div>

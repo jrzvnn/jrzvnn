@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Eve Play brings AirPlay 2 audio to your Hi-Fi gear this November](https://www.theverge.com/2023/8/31/23851992/eve-play-airplay-2-receiver-thermo-control-matter-apple-home)
  - [X plans to let paid users hide their Likes from other users and &quot;from the X APIs&quot;, reversing a longstanding feature; individual Likes will appear on posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p12#a230831p12)
  - [Elon Musk says X users will be able to make video and audio calls without a phone number, but offers no timeframe, as X &quot;is the effective global address book&quot; &lpar;Charlotte Hughes-Morgan/Bloomberg&rpar;](http://www.techmeme.com/230831/p11#a230831p11)
  - [Motorola plans to launch at least two new Moto G phones in September](https://www.androidauthority.com/motorola-g84-g54-5g-launch-3359780/)
- - [Samsung Galaxy Watch 5 starts getting stable One UI 5 Watch update in the US](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-5-watch-update-3359789/)
- - [A monthslong investigation exposes the secrets of Russian ransomware gang Trickbot, which thrived despite global disruption efforts, and a key member&#39;s identity &lpar;Wired&rpar;](http://www.techmeme.com/230831/p10#a230831p10)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 starts getting stable One UI 5 Watch update in the US](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-5-watch-update-3359789/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

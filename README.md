@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Network security company LogicMonitor confirms a &quot;security incident&quot;, source says due to assigning customers default passwords like &quot;Welcome@&quot; plus a number &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230831/p34#a230831p34)
  - [Apple abandons iTunes Movie Trailers site and iOS app](https://appleinsider.com/articles/23/08/31/apple-abandons-itunes-movie-trailers-site-and-ios-app?utm_medium=rss)
  - [The best smartwatch you can buy just got an $89 discount](https://www.androidauthority.com/apple-watch-series-8-deal-3359998/)
- - [A look at Starfield, a game by Microsoft&#39;s Bethesda with 1,000 explorable planets, set for September 6 after a 10-month delay, as Microsoft needs an Xbox hit &lpar;New York Times&rpar;](http://www.techmeme.com/230831/p33#a230831p33)
- - [Belkin launches Qi2 wireless charging pad, 4-port USB-C charger and more](https://appleinsider.com/articles/23/08/31/belkin-launches-qi2-wireless-charging-pad-4-port-usb-c-charger-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Dual-Motor Rivian R1T Is a More Efficient, Less Expensive Electric Pickup     - CNET](https://www.cnet.com/roadshow/news/dual-motor-rivian-r1t-is-a-more-efficient-less-expensive-electric-pickup/#ftag=CAD590a51e)
+ - [A look at Starfield, a game by Microsoft&#39;s Bethesda with 1,000 explorable planets, set for September 6 after a 10-month delay, as Microsoft needs an Xbox hit &lpar;New York Times&rpar;](http://www.techmeme.com/230831/p33#a230831p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Chrome Trick Could Replace Manual Video Screenshots     - CNET](https://www.cnet.com/tech/services-and-software/this-chrome-trick-could-replace-manual-video-screenshots/#ftag=CAD590a51e)
+ - [Star Wars Chatter Back Chopper Hands-On: An Always-Listening Loudmouth     - CNET](https://www.cnet.com/tech/computing/star-wars-chatter-back-chopper-hands-on-an-always-listening-loudmouth/#ftag=CAD590a51e)
+ - [Dell reports Q2 revenue down 13% YoY to $22.9B, vs. $20.8B est., Client Solutions down 16% to $12.9B, Infrastructure Solutions down 11% to $8.5B; DELL jumps 7%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230831/p39#a230831p39)
  - [Apple provides detailed reasoning behind abandoning iPhone CSAM detection](https://appleinsider.com/articles/23/08/31/apple-provides-detailed-reasoning-behind-abandoning-iphone-csam-detection?utm_medium=rss)
- - [Can Samsung Food usher in a new era for the smart kitchen?](https://www.theverge.com/2023/8/31/23853978/samsung-food-app-smart-kitchen-ifa-2023)
- - [New York subway system disables feature that could let stalkers track your trips](https://www.theverge.com/2023/8/31/23854372/new-york-subway-system-mta-omny-disabled)
- - [Best Noise-Canceling Headphones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [New Chrome feature makes it easier to grab full-resolution frames from videos](https://www.theverge.com/2023/8/31/23854302/google-chrome-copy-video-frame-chromium)<!-- TECH:END -->
+ - [Can Samsung Food usher in a new era for the smart kitchen?](https://www.theverge.com/2023/8/31/23853978/samsung-food-app-smart-kitchen-ifa-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

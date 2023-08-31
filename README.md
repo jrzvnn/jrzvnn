@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Open could outfold the Galaxy Z Fold 5](https://www.androidauthority.com/oneplus-open-folding-durability-3359725/)
  - [The FCC rejects ISPs&#39; requests to eliminate an upcoming requirement that they list all their monthly fees, saying &quot;every consumer needs transparent information&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230831/p2#a230831p2)
  - [The US Copyright Office seeks public input on AI and copyright issues, including the use of copyrighted works to train AI; written comments are due October 18 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230831/p1#a230831p1)
  - [Meta lets users submit requests to access, alter, or delete some of their third-party information that Meta uses for generative AI training &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230830/p40#a230830p40)
- - [Australia abandons its plans to mandate age verification tech for porn sites, citing privacy and security concerns, and will instead focus on educating parents &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230830/p39#a230830p39)
- - [X updates its privacy policy to include biometric information as data it plans to collect for safety and security, along with data on users&#39; jobs and education &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/230830/p38#a230830p38)<!-- TECH:END -->
+ - [Australia abandons its plans to mandate age verification tech for porn sites, citing privacy and security concerns, and will instead focus on educating parents &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/230830/p39#a230830p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

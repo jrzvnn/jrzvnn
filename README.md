@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We wish this rollable phone concept was a thing you could buy](https://www.androidauthority.com/tecno-phantom-ultimate-rollable-phone-3359859/)
  - [Eve announces AirPlay 2 adapter Eve Play](https://appleinsider.com/articles/23/08/31/eve-announces-airplay-2-adapter-eve-play?utm_medium=rss)
  - [Researcher claims MTA subway flaw beats Apple Pay security](https://appleinsider.com/articles/23/08/31/researcher-claims-mta-subway-flaw-beats-apple-pay-security?utm_medium=rss)
  - [Vietnam faces a chronic shortage of engineers, presenting a major challenge to the growth of its chip industry; Biden plans to visit next month to talk chips &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/230831/p19#a230831p19)
- - [Segway P100S Review: Heavy, Powerful, Smooth Ride](https://www.wired.com/review/segway-p100s/)
- - [Game Mode isn&#39;t enough to bring gaming to macOS, and Apple needs to do more](https://appleinsider.com/articles/23/08/31/game-mode-isnt-enough-to-bring-gaming-to-macos-and-apple-needs-to-do-more?utm_medium=rss)<!-- TECH:END -->
+ - [Segway P100S Review: Heavy, Powerful, Smooth Ride](https://www.wired.com/review/segway-p100s/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

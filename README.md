@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
- - 😝 [Microsoft](http://9gag.com/gag/axonqmp)
- - 💣 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 😝 [Shit happen](http://9gag.com/gag/aMENLg6)
- - 👉 [Used to put stuff on the road as a kid just to watch them get destroyed.](http://9gag.com/gag/a9qNxP0)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [They get stiches](http://9gag.com/gag/az2DWgK)
+ - 💣 [Manual therapy](http://9gag.com/gag/aEqN5RK)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 👉 [Interesting title](http://9gag.com/gag/a8qXNMQ)<!-- MEMES:END -->
 
 ---
 </div>

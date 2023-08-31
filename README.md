@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 😝 [Anyone remember this Game? It&#39;s called Diablo 4. It was fun for about 3 days and then disappeared.](http://9gag.com/gag/avQXw6O)
+ - 💣 [Nice](http://9gag.com/gag/aBdNA5O)
  - 😝 [Ozark](http://9gag.com/gag/aoKqXrw)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
- - 👉 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)<!-- MEMES:END -->
+ - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
 </div>

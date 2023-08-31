@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Microsoft](http://9gag.com/gag/axonqmp)
+ - 😝 [Dude builds entire &#39;universe&#39; in Minecraft](http://9gag.com/gag/avQXj3M)
  - 😝 [Shit happen](http://9gag.com/gag/aMENLg6)
  - 💣 [Just two cute young ladies having some fun.](http://9gag.com/gag/aWGN59x)
- - 😝 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)
- - 👉 [Just a coincidence](http://9gag.com/gag/az2DpDZ)<!-- MEMES:END -->
+ - 😝 [Just a coincidence](http://9gag.com/gag/az2DpDZ)
+ - 👉 [Drinking and remebering...](http://9gag.com/gag/aXnGyPD)<!-- MEMES:END -->
 
 ---
 </div>

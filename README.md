@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
  - 😝 [How? s1](http://9gag.com/gag/a6q4rKR)
- - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
+ - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
 
 ---
 </div>

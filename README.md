@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a same](http://9gag.com/gag/aeQyKeB)
- - 😝 [Where climate activists??](http://9gag.com/gag/armrPEp)
- - 💣 [`Nazi Germany invaded Poland on Sept. 1st, 1939. 2 weeks later, the communist USSR attacked Poland in the back &lpar;...&rpar; In February 2022, ruSSia - the successor of the USSR launched it&#39;s invasion of Ukraine. Poland was first to come to Ukraine&#39;s aid`](http://9gag.com/gag/ay2ZE9p)
- - 😝 [Hol&#39;up `sippy sip`](http://9gag.com/gag/a2KjBre)
- - 👉 [Fun!](http://9gag.com/gag/a5Xvpro)<!-- MEMES:END -->
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
+ - 👉 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)<!-- MEMES:END -->
 
 ---
 </div>

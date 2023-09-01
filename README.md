@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taylor Swift’s Eras Tour movie broke presale records in less than three hours](https://www.theverge.com/2023/9/1/23855524/taylor-swift-eras-tour-movie-presale-records-amc)
+ - [New York-based Benitago, an Amazon e-commerce business acquirer that has raised $380M in equity and debt in the past two years, files for bankruptcy &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230901/p13#a230901p13)
  - [Paris becomes the first European capital to outlaw rented electric scooters, following a vote in April; e-scooter rental companies shift focus to electric bikes &lpar;Juliette Gu&amp;eacute;ron-Gabrielle/New York Times&rpar;](http://www.techmeme.com/230901/p12#a230901p12)
  - [How to use the improved Stage Manager in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-use-the-improved-stage-manager-in-ipados-17?utm_medium=rss)
- - [The robovacs are coming, and they’re edgier than ever](https://www.theverge.com/2023/9/1/23854843/robot-vacuum-ecovacs-dreametech-innovation-ifa-2023)
- - [Beta Bionics, which recently won FDA approval for its automated insulin dosing software, raised a $100M Series D, bringing its total funding to $293.5M &lpar;Andrea Park/Fierce Biotech&rpar;](http://www.techmeme.com/230901/p11#a230901p11)
- - [Daily deals Sept. 1: AirPods Max $370, 22% off Apple Watch Series 8, AirPods Pro 2 $160, more](https://appleinsider.com/articles/23/09/01/daily-deals-sept-1-airpods-max-370-22-off-apple-watch-series-8-airpods-pro-2-160-more?utm_medium=rss)<!-- TECH:END -->
+ - [The robovacs are coming, and they’re edgier than ever](https://www.theverge.com/2023/9/1/23854843/robot-vacuum-ecovacs-dreametech-innovation-ifa-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

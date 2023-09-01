@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 😝 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
- - 💣 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 💣 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
 
 ---
 </div>

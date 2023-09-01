@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ahead of a child safety group&#39;s campaign, Apple details why it&#39;s dropping iCloud CSAM scanning, saying it could be a &quot;slippery slope of unintended consequences&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230831/p45#a230831p45)
- - [SentinelOne CEO Tomer Weingarten says the cybersecurity company is not for sale, following an August report claiming the company was looking to sell &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230831/p44#a230831p44)
- - [Apple Vision Pro Optical Inserts pairing process and other details revealed](https://appleinsider.com/articles/23/09/01/apple-vision-pro-optical-inserts-pairing-process-and-other-details-revealed?utm_medium=rss)
- - [London-based telehealth startup Babylon Health, once valued at ~$2B after being backed by DeepMind and others, is being sold for parts after going bankrupt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p43#a230831p43)
- - [Magic Leap tells customers the Magic Leap 1 AR headset, which launched in August 2018, and its apps will &quot;cease to function&quot; from December 31, 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230831/p42#a230831p42)<!-- TECH:END -->
+ - [Hands-on with the Lenovo Legion Go: The Windows Nintendo Switch?](https://www.androidauthority.com/lenovo-legion-go-hands-on-3359533/)
+ - [Lenovo Legion Go is here: A massive, super-powered Windows gaming handheld](https://www.androidauthority.com/lenovo-legion-go-launched-3359556/)
+ - [With Legion Go gaming handheld, Lenovo takes aim at the ROG Ally](https://www.theverge.com/23853454/lenovo-legion-go-windows-gaming-handheld-price-specs-hands-on)
+ - [Lenovo’s new Legion 9i is a liquid-cooled, Mini LED, RGB monstrosity](https://www.theverge.com/2023/9/1/23853318/lenovo-legion-9i-gaming-laptop-price-release-date-specs-features-intel)
+ - [Ahead of a child safety group&#39;s campaign, Apple details why it&#39;s dropping iCloud CSAM scanning, saying it could be a &quot;slippery slope of unintended consequences&quot; &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230831/p45#a230831p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

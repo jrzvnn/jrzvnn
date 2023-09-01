@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
- - 😝 [Karenception.](http://9gag.com/gag/a04W2AZ)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
+ - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
+ - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 💣 [Ozark](http://9gag.com/gag/aoKqXrw)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 👉 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
 
 ---
 </div>

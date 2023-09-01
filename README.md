@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google could bring Night Sight to video on the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-sim-slot-night-sight-video-3360242/)
  - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)
  - [Hands-on with the Lenovo Legion Go: The Windows Nintendo Switch?](https://www.androidauthority.com/lenovo-legion-go-hands-on-3359533/)
  - [Lenovo Legion Go is here: A massive, super-powered Windows gaming handheld](https://www.androidauthority.com/lenovo-legion-go-launched-3359556/)
- - [With Legion Go gaming handheld, Lenovo takes aim at the ROG Ally](https://www.theverge.com/23853454/lenovo-legion-go-windows-gaming-handheld-price-specs-hands-on)
- - [Lenovo’s new Legion 9i is a liquid-cooled, Mini LED, RGB monstrosity](https://www.theverge.com/2023/9/1/23853318/lenovo-legion-9i-gaming-laptop-price-release-date-specs-features-intel)<!-- TECH:END -->
+ - [With Legion Go gaming handheld, Lenovo takes aim at the ROG Ally](https://www.theverge.com/23853454/lenovo-legion-go-windows-gaming-handheld-price-specs-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

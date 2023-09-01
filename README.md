@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airline fears around 5G may finally be over](https://www.theverge.com/2023/9/1/23856099/delta-updates-airplanes-5g-interference)
  - [Sources: Arm looks to target its IPO at a $50B-$55B valuation, well below the $64B valuation implied by SoftBank&#39;s recent acquisition of a 25% stake in Arm &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230901/p21#a230901p21)
  - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)
- - [Gizmodo’s owner shuts down Spanish language site in favor of AI translations](https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations)
- - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)
- - [Child safety advocacy group launches campaign against Apple](https://appleinsider.com/articles/23/09/01/child-safety-advocacy-group-launches-campaign-against-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Nourish Your Kidneys: 13 Nutrient-Packed Foods for Optimal Kidney Health     - CNET](https://www.cnet.com/health/nutrition/nourish-your-kidneys-13-nutrient-packed-foods-for-optimal-kidney-health/#ftag=CAD590a51e)
+ - [Gizmodo’s owner shuts down Spanish language site in favor of AI translations](https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

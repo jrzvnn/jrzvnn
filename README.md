@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol&#39;up `sippy sip`](http://9gag.com/gag/a2KjBre)
- - 😝 [Telepawted](http://9gag.com/gag/awZPN7R)
+ - 😝 [Wheelchair stunt-ing](http://9gag.com/gag/a8qXBj1)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
  - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [White is not a colour](http://9gag.com/gag/awZPNZB)
- - 👉 [Old man has dementia and doesn\u2019t even remember his son or any member of his family. Amazing way in which his son handles him giving him confidence and positivity! A rare sight nowadays! \ud83d\ude4f](http://9gag.com/gag/aRE964G)<!-- MEMES:END -->
+ - 😝 [How? s1](http://9gag.com/gag/a6q4rKR)
+ - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
 
 ---
 </div>

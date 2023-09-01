@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
+ - 😝 [He isn&#39;t shuttering, just demanding.](http://9gag.com/gag/aWGNwmx)
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 💣 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
 </div>

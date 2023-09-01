@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
+ - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
  - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
  - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---

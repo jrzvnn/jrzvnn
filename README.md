@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 💣 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
+ - 😝 [Huge wave hits windows of German commuter ferry](http://9gag.com/gag/aEqNL0p)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 💣 [Lord of the simps](http://9gag.com/gag/avQXY2n)
+ - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
 </div>

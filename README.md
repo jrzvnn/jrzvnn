@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo unveils $329 Legion Glasses with 60Hz displays, equivalent to a 27&quot; monitor, that works with Legion Go, Android phones, iPhones, and Windows and Mac PCs &lpar;Tom Pritchard/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230901/p7#a230901p7)
- - [Apple AirPods Pro 2 return to $199 at Amazon](https://appleinsider.com/articles/23/09/01/apple-airpods-pro-2-return-to-199-at-amazon?utm_medium=rss)
- - [iPhone 15, M3 Macs, and 2024 iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/01/iphone-15-m3-macs-and-2024-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: EU regulators plan to block Booking.com&#39;s &amp;euro;1.63B acquisition of Sweden-based Etraveli due to competition concerns; UK&#39;s CMA approved the deal in 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230901/p6#a230901p6)
- - [Lenovo unveils $4,400 Legion 9i, a gaming laptop with liquid-cooling, 16&quot; Mini LED display, 13th Gen Intel Core i9, Nvidia GeForce RTX 4090, available in Oct. &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230901/p5#a230901p5)<!-- TECH:END -->
+ - [The Best Govee Smart Lights &lpar;2023&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
+ - [Meta Isn&#39;t Enforcing Its Own Political Ads Policy, While the 2024 US Election Looms](https://www.wired.com/story/meta-prageru-advertising/)
+ - [The Creator of &#39;Andor&#39; Is Fired Up About the Streaming Wars](https://www.wired.com/story/andor-tony-gilroy-hollywood-streaming-strike/)
+ - [The auto industry’s Congress member is worried about losing the EV race to China](https://www.theverge.com/2023/9/1/23854230/debbie-dingell-interview-ev-china-tesla-gop)
+ - [Time to revisit the original ‘Battle Royale’](https://www.theverge.com/23851408/battle-royale-revisited-hunger-games-fortnite-squid-game-criterion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

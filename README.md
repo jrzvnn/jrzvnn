@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 💣 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
- - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 👉 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)<!-- MEMES:END -->
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 😝 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)
+ - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
+ - 👉 [Play of the century](http://9gag.com/gag/armrPq6)<!-- MEMES:END -->
 
 ---
 </div>

@@ -156,9 +156,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [He isn&#39;t shuttering, just demanding.](http://9gag.com/gag/aWGNwmx)
- - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 💣 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 💣 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
  - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
 
 ---

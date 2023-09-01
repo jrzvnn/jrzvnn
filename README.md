@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple considers micro lens technology to make iPhone 16 screens brighter](https://appleinsider.com/articles/23/09/01/apple-considers-micro-lens-technology-to-make-iphone-16-screens-brighter?utm_medium=rss)
+ - [33 Best Advent Calendars for Kids in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)
  - [Honor’s V Purse is a fashion-inspired foldable concept phone](https://www.theverge.com/2023/9/1/23855191/honor-v-purse-concept-foldable-fashion-v2-international-launch)
  - [HONOR Magic V2 Ultimate hands on: The foldable thinner than a ballpoint pen](https://www.androidauthority.com/honor-magic-v2-ultimate-hands-on-impressions-3344674/)
- - [The HONOR Magic V2 will launch in these markets](https://www.androidauthority.com/honor-magic-v2-global-launch-coming-3359817/)
- - [AI hasn&#39;t stemmed the yearslong startup downturn; PitchBook: US venture funding fell by almost half in Q2 2023, as generative AI investments rose 65% to $3.3B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230901/p1#a230901p1)<!-- TECH:END -->
+ - [The HONOR Magic V2 will launch in these markets](https://www.androidauthority.com/honor-magic-v2-global-launch-coming-3359817/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

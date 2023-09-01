@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The HONOR Magic V2 will launch in these markets](https://www.androidauthority.com/honor-magic-v2-global-launch-coming-3359817/)
+ - [AI hasn&#39;t stemmed the yearslong startup downturn; PitchBook: US venture funding fell by almost half in Q2 2023, as generative AI investments rose 65% to $3.3B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230901/p1#a230901p1)
  - [Tesla’s upgraded Model 3 has a new design, rear touchscreen, and range improvements](https://www.theverge.com/2023/9/1/23855176/tesla-new-model-3-design-highland)
  - [Is it a phone? Is it a purse? HONOR’s new foldable concept is both](https://www.androidauthority.com/honor-v-purse-3360243/)
- - [The Samsung Galaxy S24 Ultra could get a new 200MP sensor](https://www.androidauthority.com/samsung-galaxy-s24-ultra-200mp-new-sensor-leak-3360262/)
- - [Yale launches a new home security system for Europe](https://www.theverge.com/2023/9/1/23853864/yale-complete-home-security-system-europe-uk)
- - [Sony Xperia 5 V: Specs, pricing, availability, and more](https://www.androidauthority.com/sony-xperia-5-v-3351427/)<!-- TECH:END -->
+ - [The Samsung Galaxy S24 Ultra could get a new 200MP sensor](https://www.androidauthority.com/samsung-galaxy-s24-ultra-200mp-new-sensor-leak-3360262/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

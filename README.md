@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
- - 😝 [How? s1](http://9gag.com/gag/a6q4rKR)
+ - 😝 [Asking the real questions](http://9gag.com/gag/aYVn21O)
+ - 😝 [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
  - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
+ - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
+ - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
 
 ---
 </div>

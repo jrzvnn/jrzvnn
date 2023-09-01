@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung reveals the world&#39;s first 32 Gb DDR5 DRAM die, allowing the company to lower costs of high-capacity memory modules and build 1 TB RDIMMs for servers &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230901/p15#a230901p15)
  - [Both iPhone 15 Pro Max and iPhone 15 Ultra are coming, claims sketchy rumor](https://appleinsider.com/articles/23/09/01/there-will-be-both-an-iphone-15-pro-max-and-iphone-15-ultra-claims-sketchy-rumor?utm_medium=rss)
  - [Anker’s new 6-in-1 Charging Station solves your power problems](https://www.androidauthority.com/anker-6-in-1-charging-station-deal-3360434/)
  - [Sources: Meta is considering paid, ad-free versions of Facebook and Instagram for users in the EU, to fend off privacy concerns and scrutiny from EU regulators &lpar;New York Times&rpar;](http://www.techmeme.com/230901/p14#a230901p14)
- - [Mophie announces Qi2 chargers for office, home, and car](https://appleinsider.com/articles/23/09/01/mophie-announces-qi2-chargers-for-office-home-and-car?utm_medium=rss)
- - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mophie announces Qi2 chargers for office, home, and car](https://appleinsider.com/articles/23/09/01/mophie-announces-qi2-chargers-for-office-home-and-car?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

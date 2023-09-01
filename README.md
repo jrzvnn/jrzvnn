@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He isn&#39;t shuttering, just demanding.](http://9gag.com/gag/aWGNwmx)
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 💣 [Play of the century](http://9gag.com/gag/armrPq6)
  - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 👉 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)<!-- MEMES:END -->
+ - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 👉 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)<!-- MEMES:END -->
 
 ---
 </div>

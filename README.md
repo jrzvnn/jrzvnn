@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
- - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
+ - 😝 [He isn&#39;t shuttering, just demanding.](http://9gag.com/gag/aWGNwmx)
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 💣 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 😝 [All part of a master plan](http://9gag.com/gag/aDYNewx)
+ - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fart guitar](http://9gag.com/gag/aREN5ZA)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 💣 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
- - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
- - 👉 [Nobody cares but I am proud anyway - Learned from zero how to build this deck!](http://9gag.com/gag/aQENwBq)<!-- MEMES:END -->
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
+ - 💣 [Always be careful guys.](http://9gag.com/gag/armrjZp)
+ - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
+ - 👉 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)<!-- MEMES:END -->
 
 ---
 </div>

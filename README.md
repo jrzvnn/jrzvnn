@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
+ - 😝 [Wanted to laugh but end up feelipines](http://9gag.com/gag/aDYNKBd)
+ - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 💣 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
 
 ---
 </div>

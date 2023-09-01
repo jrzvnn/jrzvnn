@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 😝 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)
- - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
- - 👉 [Play of the century](http://9gag.com/gag/armrPq6)<!-- MEMES:END -->
+ - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
+ - 💣 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
 
 ---
 </div>

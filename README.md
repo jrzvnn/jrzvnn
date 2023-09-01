@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
  - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
- - 👉 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)<!-- MEMES:END -->
+ - 💣 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
 
 ---
 </div>

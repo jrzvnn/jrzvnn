@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
- - 😝 [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
- - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 😝 [How? s1](http://9gag.com/gag/a6q4rKR)
+ - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
  - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
 
 ---

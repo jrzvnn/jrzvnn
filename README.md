@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada tries to address C-18 bill concerns, saying Google would pay ~$126.6M and Meta would pay ~$44M a year to publishers; Meta says it will keep blocking news &lpar;Reuters&rpar;](http://www.techmeme.com/230901/p17#a230901p17)
  - [A person managing the .ai TLD for British territory Anguilla says the island will bring in ~$30M from domain registration fees in 2023, up from $7.4M in 2021 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230901/p16#a230901p16)
  - [The OnePlus Pad Go could be the company’s next tablet](https://www.androidauthority.com/oneplus-pad-go-tablet-leak-3360407/)
  - [Samsung reveals the world&#39;s first 32 Gb DDR5 DRAM die, allowing the company to lower costs of high-capacity memory modules and build 1 TB RDIMMs for servers &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230901/p15#a230901p15)
- - [Both iPhone 15 Pro Max and iPhone 15 Ultra are coming, claims sketchy rumor](https://appleinsider.com/articles/23/09/01/there-will-be-both-an-iphone-15-pro-max-and-iphone-15-ultra-claims-sketchy-rumor?utm_medium=rss)
- - [Anker’s new 6-in-1 Charging Station solves your power problems](https://www.androidauthority.com/anker-6-in-1-charging-station-deal-3360434/)<!-- TECH:END -->
+ - [Luton vs. West Ham Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/luton-vs-west-ham-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

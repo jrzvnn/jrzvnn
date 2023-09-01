@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
- - 😝 [Did you just bark at me?!](http://9gag.com/gag/aMENgWP)
- - 💣 [Play of the century](http://9gag.com/gag/armrPq6)
  - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 💣 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 👉 [Lord of the simps](http://9gag.com/gag/avQXY2n)<!-- MEMES:END -->
 
 ---
 </div>

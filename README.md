@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump’s trial in Georgia will be livestreamed on YouTube](https://www.theverge.com/2023/9/1/23855299/donald-trump-election-interference-georgia-livestream-youtube)
  - [Netflix’s One Piece is the rare anime adaptation that gets all of the important things right](https://www.theverge.com/2023/9/1/23854257/netflix-one-piece-review)
  - [The Bose QuietComfort 45 noise-canceling headphones are $130 off for a refurb model](https://www.theverge.com/2023/9/1/23853726/bose-quietcomfort-45-headphones-keychron-q1-mechanical-keyboard-starfield-deal-sale)
  - [Robinhood says it paid nearly $606M to repurchase shares held by an affiliate of Sam Bankman-Fried, via an agreement with the US Marshal Service &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230901/p10#a230901p10)
- - [Here&#39;s What Your Weird Dreams Mean     - CNET](https://www.cnet.com/health/sleep/what-your-weird-dreams-mean/#ftag=CAD590a51e)
- - [6 Best Electric Scooters &lpar;2023&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Here&#39;s What Your Weird Dreams Mean     - CNET](https://www.cnet.com/health/sleep/what-your-weird-dreams-mean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

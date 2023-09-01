@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 💣 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
+ - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 😝 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
+ - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 👉 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 ---
 </div>

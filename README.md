@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)
+ - [Google removes controversial live streaming app Chamet, which let users video call hosts, from the Play Store for violating its user-generated content policy &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230901/p9#a230901p9)
  - [Zoom adds collaborative notes you can edit while on a video call](https://www.theverge.com/2023/9/1/23855356/zoom-notes-collaborative-documents-video-calls)
  - [Sony unveils Xperia 5 V, with a 120Hz, 6.1&quot; display, Snapdragon 8 Gen2 chip, a 52MP sensor, and a heat diffusion shield, available in late September for &amp;euro;999 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230901/p8#a230901p8)
- - [Best Cellphone Plans of 2023: Our Top Picks for September     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)
- - [Best Fire Pit for 2023     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-fire-pit/#ftag=CAD590a51e)
- - [The Best Govee Smart Lights &lpar;2023&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)<!-- TECH:END -->
+ - [Best Cellphone Plans of 2023: Our Top Picks for September     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

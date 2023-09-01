@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 💣 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
- - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
- - 👉 [Perfect counter](http://9gag.com/gag/az2D0db)<!-- MEMES:END -->
+ - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
+ - 😝 [Ain&#39;t worth the hassle](http://9gag.com/gag/aWGNXr3)
+ - 💣 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)
+ - 😝 [Just a coincidence](http://9gag.com/gag/az2DpDZ)
+ - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
 
 ---
 </div>

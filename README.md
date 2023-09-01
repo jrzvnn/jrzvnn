@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
- - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
- - 😝 [UK citizens helping criminals.](http://9gag.com/gag/aZDV9BQ)
- - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 💣 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
+ - 😝 [Perfect counter](http://9gag.com/gag/az2D0db)
+ - 👉 [Once a internet meme always a internet meme](http://9gag.com/gag/aA0Nom0)<!-- MEMES:END -->
 
 ---
 </div>

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
+ - 😝 [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
+ - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 👉 [Nice](http://9gag.com/gag/aBdNA5O)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nutrisense review: a pricey way to learn a little](https://www.theverge.com/23844553/glucose-monitor-wearables-nutrisense-review)
  - [Hands on with Windows-powered $699 Lenovo Legion Go, with an 8.8&quot; QHD+ screen, AMD Ryzen Z1 Extreme processor, and detachable controllers, available in October &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230901/p3#a230901p3)
  - [Apple Watch saves distracted driver&#39;s life with Crash Detection](https://appleinsider.com/articles/23/09/01/apple-watch-saves-distracted-drivers-life-with-crash-detection?utm_medium=rss)
  - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)
- - [Samsung’s mid-range phones could get AMD graphics next year](https://www.androidauthority.com/samsung-mid-range-exynos-chips-amd-gpu-3360280/)
- - [Herodotus and StarkWare unveil a developer tool to verify data at any point in Ethereum&#39;s history, overcoming a current verification limit of 256 blockhashes &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230901/p2#a230901p2)<!-- TECH:END -->
+ - [Samsung’s mid-range phones could get AMD graphics next year](https://www.androidauthority.com/samsung-mid-range-exynos-chips-amd-gpu-3360280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

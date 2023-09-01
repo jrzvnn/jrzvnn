@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple, USPTO settle lawsuit over &#39;Smart Keyboard&#39; trademark](https://appleinsider.com/articles/23/09/01/apple-uspto-settle-lawsuit-over-smart-keyboard-trademark?utm_medium=rss)
  - [Apple considers micro lens technology to make iPhone 16 screens brighter](https://appleinsider.com/articles/23/09/01/apple-considers-micro-lens-technology-to-make-iphone-16-screens-brighter?utm_medium=rss)
- - [33 Best Advent Calendars for Kids in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)
  - [Honor’s V Purse is a fashion-inspired foldable concept phone](https://www.theverge.com/2023/9/1/23855191/honor-v-purse-concept-foldable-fashion-v2-international-launch)
  - [HONOR Magic V2 Ultimate hands on: The foldable thinner than a ballpoint pen](https://www.androidauthority.com/honor-magic-v2-ultimate-hands-on-impressions-3344674/)
- - [The HONOR Magic V2 will launch in these markets](https://www.androidauthority.com/honor-magic-v2-global-launch-coming-3359817/)<!-- TECH:END -->
+ - [The HONOR Magic V2 will launch in these markets, but there’s bad news](https://www.androidauthority.com/honor-magic-v2-global-launch-coming-3359817/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

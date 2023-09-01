@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huge wave hits windows of German commuter ferry](http://9gag.com/gag/aEqNL0p)
  - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 💣 [Lord of the simps](http://9gag.com/gag/avQXY2n)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
  - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---

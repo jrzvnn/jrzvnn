@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wanted to share that with you guys . I\u2019m sad as f**k . He fought a year without complaining once . And he was like us a degenerate that I\u2019ll remember all my life .](http://9gag.com/gag/aBdN7EA)
- - 😝 [Once a internet meme always a internet meme](http://9gag.com/gag/aA0Nom0)
- - 💣 [Nobody cares but I am proud anyway - Learned from zero how to build this deck!](http://9gag.com/gag/aQENwBq)
- - 😝 [I should have one](http://9gag.com/gag/aVb1ND2)
- - 👉 [Damn right.](http://9gag.com/gag/agoZRov)<!-- MEMES:END -->
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
 
 ---
 </div>

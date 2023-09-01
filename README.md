@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanted to laugh but end up feelipines](http://9gag.com/gag/aDYNKBd)
- - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 😝 [He isn&#39;t shuttering, just demanding.](http://9gag.com/gag/aWGNwmx)
+ - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
  - 💣 [Play of the century](http://9gag.com/gag/armrPq6)
  - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
+ - 👉 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)<!-- MEMES:END -->
 
 ---
 </div>

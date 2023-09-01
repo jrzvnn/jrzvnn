@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
  - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 👉 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)<!-- MEMES:END -->
+ - 💣 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 👉 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yale launches a new home security system for Europe and UK](https://www.theverge.com/2023/9/1/23853864/yale-complete-home-security-system-europe-uk)
+ - [The Samsung Galaxy S24 Ultra could get a new 200MP sensor](https://www.androidauthority.com/samsung-galaxy-s24-ultra-200mp-new-sensor-leak-3360262/)
+ - [Yale launches a new home security system for Europe](https://www.theverge.com/2023/9/1/23853864/yale-complete-home-security-system-europe-uk)
  - [Sony Xperia 5 V: Specs, pricing, availability, and more](https://www.androidauthority.com/sony-xperia-5-v-3351427/)
  - [Google could bring Night Sight to video on the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-sim-slot-night-sight-video-3360242/)
- - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)
- - [Hands-on with the Lenovo Legion Go: The Windows Nintendo Switch?](https://www.androidauthority.com/lenovo-legion-go-hands-on-3359533/)<!-- TECH:END -->
+ - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

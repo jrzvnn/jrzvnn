@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karenception.](http://9gag.com/gag/a04W2AZ)
- - 😝 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
- - 💣 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 👉 [School teacher who apparently knows nothing about history got offended by &#39;Don&#39;t Tread On Me&#39; badge and kicked a kid out of class due to some alternative historic fact she imagined in her head](http://9gag.com/gag/a9qNoYK)<!-- MEMES:END -->
+ - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
+ - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
+ - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
+ - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
 
 ---
 </div>

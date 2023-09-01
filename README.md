@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There will be both an iPhone 15 Pro max and iPhone 15 Ultra, claims sketchy rumor](https://appleinsider.com/articles/23/09/01/there-will-be-both-an-iphone-15-pro-max-and-iphone-15-ultra-claims-sketchy-rumor?utm_medium=rss)
+ - [Both iPhone 15 Pro Max and iPhone 15 Ultra are coming, claims sketchy rumor](https://appleinsider.com/articles/23/09/01/there-will-be-both-an-iphone-15-pro-max-and-iphone-15-ultra-claims-sketchy-rumor?utm_medium=rss)
+ - [Anker’s new 6-in-1 Charging Station solves your power problems](https://www.androidauthority.com/anker-6-in-1-charging-station-deal-3360434/)
  - [Sources: Meta is considering paid, ad-free versions of Facebook and Instagram for users in the EU, to fend off privacy concerns and scrutiny from EU regulators &lpar;New York Times&rpar;](http://www.techmeme.com/230901/p14#a230901p14)
  - [Mophie announces Qi2 chargers for office, home, and car](https://appleinsider.com/articles/23/09/01/mophie-announces-qi2-chargers-for-office-home-and-car?utm_medium=rss)
- - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)
- - [Starfield: Early Access, Launch Date Game Pass and Everything You Should Know     - CNET](https://www.cnet.com/tech/gaming/starfield-early-access-launch-date-game-pass-and-everything-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Hybrid Mattresses for 2023     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

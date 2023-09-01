@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 💣 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 👉 [Lord of the simps](http://9gag.com/gag/avQXY2n)<!-- MEMES:END -->
+ - 😝 [Hol&#39;up `sippy sip`](http://9gag.com/gag/a2KjBre)
+ - 😝 [Telepawted](http://9gag.com/gag/awZPN7R)
+ - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 😝 [White is not a colour](http://9gag.com/gag/awZPNZB)
+ - 👉 [Old man has dementia and doesn\u2019t even remember his son or any member of his family. Amazing way in which his son handles him giving him confidence and positivity! A rare sight nowadays! \ud83d\ude4f](http://9gag.com/gag/aRE964G)<!-- MEMES:END -->
 
 ---
 </div>

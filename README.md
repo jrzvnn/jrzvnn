@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, USPTO settle lawsuit over &#39;Smart Keyboard&#39; trademark](https://appleinsider.com/articles/23/09/01/apple-uspto-settle-lawsuit-over-smart-keyboard-trademark?utm_medium=rss)
- - [Apple considers micro lens technology to make iPhone 16 screens brighter](https://appleinsider.com/articles/23/09/01/apple-considers-micro-lens-technology-to-make-iphone-16-screens-brighter?utm_medium=rss)
- - [Honor’s V Purse is a fashion-inspired foldable concept phone](https://www.theverge.com/2023/9/1/23855191/honor-v-purse-concept-foldable-fashion-v2-international-launch)
- - [HONOR Magic V2 Ultimate hands on: The foldable thinner than a ballpoint pen](https://www.androidauthority.com/honor-magic-v2-ultimate-hands-on-impressions-3344674/)
- - [The HONOR Magic V2 will launch in these markets, but there’s bad news](https://www.androidauthority.com/honor-magic-v2-global-launch-coming-3359817/)<!-- TECH:END -->
+ - [Herodotus and StarkWare unveil a developer tool to verify data at any point in Ethereum&#39;s history, overcoming a current verification limit of 256 blockhashes &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230901/p2#a230901p2)
+ - [Nationwide Emergency Alert Test Coming to Your Phones and TVs in October     - CNET](https://www.cnet.com/tech/mobile/nationwide-emergency-alert-test-coming-to-your-phones-and-tvs-in-october/#ftag=CAD590a51e)
+ - [iOS 17: When Apple Might Release the Next iPhone OS     - CNET](https://www.cnet.com/tech/mobile/ios-17-when-apple-might-release-the-next-iphone-os/#ftag=CAD590a51e)
+ - [Viture One XR Glasses Review: Gamer&#39;s Mixed Reality](https://www.wired.com/review/viture-one-xr-glasses/)
+ - [Paper Coffee Cups Are Just as Toxic for the Environment as Plastic Ones](https://www.wired.com/story/paper-cups-toxic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

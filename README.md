@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wheelchair stunt-ing](http://9gag.com/gag/a8qXBj1)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [How? s1](http://9gag.com/gag/a6q4rKR)
- - 👉 [When you want to be the center of attention!](http://9gag.com/gag/a3Zpo8e)<!-- MEMES:END -->
+ - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 👉 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)<!-- MEMES:END -->
 
 ---
 </div>

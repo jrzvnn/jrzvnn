@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gizmodo’s owner shuts down Spanish language site in favor of AI translations](https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations)
  - [The Pro Display XDR stand being out of stock is unsurprising](https://appleinsider.com/articles/23/09/01/the-pro-display-xdr-stand-being-out-of-stock-is-unsurprising?utm_medium=rss)
  - [Child safety advocacy group launches campaign against Apple](https://appleinsider.com/articles/23/09/01/child-safety-advocacy-group-launches-campaign-against-apple?utm_medium=rss)
  - [Tesla cuts its Full Self-Driving Beta&#39;s US price from $15K to $12K, reversing the bump from $12K to $15K in September 2022; the subscription is still $199/month &lpar;Jameson Dow/Electrek&rpar;](http://www.techmeme.com/230901/p20#a230901p20)
- - [Filing: Globalstar signed a $64M deal with SpaceX to launch satellites for Apple&#39;s Emergency SOS iPhone feature in 2025 &lpar;Robert Stewart/NOLA.com&rpar;](http://www.techmeme.com/230901/p19#a230901p19)
- - [Suddenly Lose ESPN and ABC? Here&#39;s What Going on Between Disney and Spectrum     - CNET](https://www.cnet.com/tech/home-entertainment/suddenly-lose-espn-and-abc-heres-what-going-on-between-disney-and-spectrum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Natural Ways to Boost Your Eye Health Daily     - CNET](https://www.cnet.com/health/personal-care/10-natural-ways-to-boost-your-eye-health-daily/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

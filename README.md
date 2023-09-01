@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo unveils $329 Legion Glasses with 60Hz displays, equivalent to a 27&quot; monitor, that works with Legion Go, Android phones, iPhones, and Windows and Mac PCs &lpar;Tom Pritchard/Tom&#39;s Guide&rpar;](http://www.techmeme.com/230901/p7#a230901p7)
+ - [Apple AirPods Pro 2 return to $199 at Amazon](https://appleinsider.com/articles/23/09/01/apple-airpods-pro-2-return-to-199-at-amazon?utm_medium=rss)
  - [iPhone 15, M3 Macs, and 2024 iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/01/iphone-15-m3-macs-and-2024-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sources: EU regulators plan to block Booking.com&#39;s &amp;euro;1.63B acquisition of Sweden-based Etraveli due to competition concerns; UK&#39;s CMA approved the deal in 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230901/p6#a230901p6)
- - [Lenovo unveils $4,400 Legion 9i, a gaming laptop with liquid-cooling, 16&quot; Mini LED display, 13th Gen Intel Core i9, Nvidia GeForce RTX 4090, available in Oct. &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230901/p5#a230901p5)
- - [Honor says Magic V2, its foldable phone launched in China in July 2023, will come to Europe, UK and other markets, except the US, in Q1 2024 for around &amp;euro;1,500 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/230901/p4#a230901p4)
- - [The iPhone 15 Event Could Leave Some Apple Fans Sour     - CNET](https://www.cnet.com/tech/the-iphone-15-event-could-leave-some-apple-fans-sour/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo unveils $4,400 Legion 9i, a gaming laptop with liquid-cooling, 16&quot; Mini LED display, 13th Gen Intel Core i9, Nvidia GeForce RTX 4090, available in Oct. &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230901/p5#a230901p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

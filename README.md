@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beta Bionics, which recently won FDA approval for its automated insulin dosing software, raised a $100M Series D, bringing its total funding to $293.5M &lpar;Andrea Park/Fierce Biotech&rpar;](http://www.techmeme.com/230901/p11#a230901p11)
+ - [Daily deals Sept. 1: AirPods Max $370, 22% off Apple Watch Series 8, AirPods Pro 2 $160, more](https://appleinsider.com/articles/23/09/01/daily-deals-sept-1-airpods-max-370-22-off-apple-watch-series-8-airpods-pro-2-160-more?utm_medium=rss)
  - [The High-Stakes Calculus of Preventing Wildfires by Burying Power Lines](https://www.wired.com/story/the-high-stakes-calculus-of-preventing-wildfires-by-burying-power-lines/)
  - [It’s the Year of the Big Game, and that’s a good thing](https://www.theverge.com/2023/9/1/23846264/starfield-baldurs-gate-legend-of-zelda-year-video-game-2023)
- - [Xiaomi 14 Ultra: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/xiaomi-14-ultra-release-date-price-specs-3357551/)
- - [Donald Trump’s trial in Georgia will be livestreamed on YouTube](https://www.theverge.com/2023/9/1/23855299/donald-trump-election-interference-georgia-livestream-youtube)
- - [SwitchBot’s new robot vacuum mop is the closest thing yet to a sci-fi cleaning robot](https://www.theverge.com/23845579/switchbot-s10-robot-vacuum-mop-launch-ifa)<!-- TECH:END -->
+ - [Xiaomi 14 Ultra: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/xiaomi-14-ultra-release-date-price-specs-3357551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SentinelOne CEO Tomer Weingarten says the cybersecurity company is not for sale, following an August report claiming the company was looking to sell &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230831/p44#a230831p44)
  - [Apple Vision Pro Optical Inserts pairing process and other details revealed](https://appleinsider.com/articles/23/09/01/apple-vision-pro-optical-inserts-pairing-process-and-other-details-revealed?utm_medium=rss)
  - [London-based telehealth startup Babylon Health, once valued at ~$2B after being backed by DeepMind and others, is being sold for parts after going bankrupt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230831/p43#a230831p43)
  - [Magic Leap tells customers the Magic Leap 1 AR headset, which launched in August 2018, and its apps will &quot;cease to function&quot; from December 31, 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230831/p42#a230831p42)
- - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)
- - [Amazon&#39;s Buy With Prime Now Offered in Shopify Stores     - CNET](https://www.cnet.com/tech/amazons-buy-with-prime-now-offered-in-shopify-stores/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US district judge temporarily blocks an Arkansas law requiring parental consent for minors to open social media accounts that was set to take effect on Sep. 1 &lpar;Andrew DeMillo/Associated Press&rpar;](http://www.techmeme.com/230831/p41#a230831p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

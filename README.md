@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s upgraded Model 3 has a new design, rear touchscreen, and range improvements](https://www.theverge.com/2023/9/1/23855176/tesla-new-model-3-design-highland)
+ - [Is it a phone? Is it a purse? HONOR’s new foldable concept is both](https://www.androidauthority.com/honor-v-purse-3360243/)
  - [The Samsung Galaxy S24 Ultra could get a new 200MP sensor](https://www.androidauthority.com/samsung-galaxy-s24-ultra-200mp-new-sensor-leak-3360262/)
  - [Yale launches a new home security system for Europe](https://www.theverge.com/2023/9/1/23853864/yale-complete-home-security-system-europe-uk)
- - [Sony Xperia 5 V: Specs, pricing, availability, and more](https://www.androidauthority.com/sony-xperia-5-v-3351427/)
- - [Google could bring Night Sight to video on the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-sim-slot-night-sight-video-3360242/)
- - [OnePlus will roll out Android 14 to its phones later this month](https://www.androidauthority.com/oneplus-oxygenos-14-android-14-update-3360215/)<!-- TECH:END -->
+ - [Sony Xperia 5 V: Specs, pricing, availability, and more](https://www.androidauthority.com/sony-xperia-5-v-3351427/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

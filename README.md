@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
+ - 😝 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)
  - 😝 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
+ - 💣 [Better be a passport bro nowadays](http://9gag.com/gag/aA0NjPd)
+ - 😝 [UK citizens helping criminals.](http://9gag.com/gag/aZDV9BQ)
+ - 👉 [Probably time to give up](http://9gag.com/gag/aMENMoR)<!-- MEMES:END -->
 
 ---
 </div>

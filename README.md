@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony unveils Xperia 5 V, with a 120Hz, 6.1&quot; display, Snapdragon 8 Gen2 chip, a 52MP sensor, and a heat diffusion shield, available in late September for &amp;euro;999 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230901/p8#a230901p8)
  - [The Best Govee Smart Lights &lpar;2023&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
  - [Meta Isn&#39;t Enforcing Its Own Political Ads Policy, While the 2024 US Election Looms](https://www.wired.com/story/meta-prageru-advertising/)
  - [The Creator of &#39;Andor&#39; Is Fired Up About the Streaming Wars](https://www.wired.com/story/andor-tony-gilroy-hollywood-streaming-strike/)
- - [The auto industry’s Congress member is worried about losing the EV race to China](https://www.theverge.com/2023/9/1/23854230/debbie-dingell-interview-ev-china-tesla-gop)
- - [Time to revisit the original ‘Battle Royale’](https://www.theverge.com/23851408/battle-royale-revisited-hunger-games-fortnite-squid-game-criterion)<!-- TECH:END -->
+ - [The auto industry’s Congress member is worried about losing the EV race to China](https://www.theverge.com/2023/9/1/23854230/debbie-dingell-interview-ev-china-tesla-gop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

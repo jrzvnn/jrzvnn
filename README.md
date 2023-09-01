@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World champion of what? Love this guy](http://9gag.com/gag/aBdNe41)
- - 😝 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
- - 💣 [Ozark](http://9gag.com/gag/aoKqXrw)
- - 😝 [A delicated maneuver just a few were able to pull with precision](http://9gag.com/gag/aXnGB9z)
- - 👉 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 💣 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
+ - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
+ - 👉 [Perfect counter](http://9gag.com/gag/az2D0db)<!-- MEMES:END -->
 
 ---
 </div>

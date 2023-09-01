@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
- - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
- - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
+ - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 👉 [How? s1](http://9gag.com/gag/a6q4rKR)<!-- MEMES:END -->
 
 ---
 </div>

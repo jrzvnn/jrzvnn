@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions](http://9gag.com/gag/aYVn21O)
- - 😝 [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
+ - 😝 [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
+ - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
  - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
- - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
+ - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
+ - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
 
 ---
 </div>

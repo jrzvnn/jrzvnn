@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
- - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
- - 💣 [GO WOKE...](http://9gag.com/gag/aGEN3Ew)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 👉 [Complaining because got trixed](http://9gag.com/gag/aXnQZqg)<!-- MEMES:END -->
+ - 😝 [Such a same](http://9gag.com/gag/aeQyKeB)
+ - 😝 [Where climate activists??](http://9gag.com/gag/armrPEp)
+ - 💣 [`Nazi Germany invaded Poland on Sept. 1st, 1939. 2 weeks later, the communist USSR attacked Poland in the back &lpar;...&rpar; In February 2022, ruSSia - the successor of the USSR launched it&#39;s invasion of Ukraine. Poland was first to come to Ukraine&#39;s aid`](http://9gag.com/gag/ay2ZE9p)
+ - 😝 [Hol&#39;up `sippy sip`](http://9gag.com/gag/a2KjBre)
+ - 👉 [Fun!](http://9gag.com/gag/a5Xvpro)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 💣 [Lord of the simps](http://9gag.com/gag/avQXY2n)
- - 😝 [Nice](http://9gag.com/gag/aBdNA5O)
- - 👉 [There is no God](http://9gag.com/gag/aKENQpO)<!-- MEMES:END -->
+ - 😝 [Fart guitar](http://9gag.com/gag/aREN5ZA)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 💣 [Woke in kitchen wtf](http://9gag.com/gag/awZG6z1)
+ - 😝 [Hehe](http://9gag.com/gag/a04W2Qq)
+ - 👉 [Nobody cares but I am proud anyway - Learned from zero how to build this deck!](http://9gag.com/gag/aQENwBq)<!-- MEMES:END -->
 
 ---
 </div>

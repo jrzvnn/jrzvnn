@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [99% of bricklayers are men \u2014 Pordan Jeterson](http://9gag.com/gag/a9qNxno)
- - 😝 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 💣 [Land of the free?](http://9gag.com/gag/a6q3Ag9)
  - 😝 [Lord of the simps](http://9gag.com/gag/avQXY2n)
+ - 😝 [Karenception.](http://9gag.com/gag/a04W2AZ)
+ - 💣 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
  - 👉 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
- - 💣 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
+ - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
+ - 😝 [Quora is like 9gag](http://9gag.com/gag/aRE9Q72)
+ - 💣 [Title](http://9gag.com/gag/axoQdgY)
+ - 😝 [Social engineering?](http://9gag.com/gag/aA0qBRZ)
+ - 👉 [He was already living in the future.](http://9gag.com/gag/aEqywAG)<!-- MEMES:END -->
 
 ---
 </div>

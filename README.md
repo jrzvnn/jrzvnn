@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 💣 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
- - 😝 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/ay2ZpzW)
- - 👉 [I hate my life.](http://9gag.com/gag/anz8YPo)<!-- MEMES:END -->
+ - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
+ - 😝 [10/10 Parenting](http://9gag.com/gag/aPgzw4Q)
+ - 💣 [Insulting other singers](http://9gag.com/gag/aVb4QmP)
+ - 😝 [Rich going rich things](http://9gag.com/gag/aOxAqO6)
+ - 👉 [Man of culture](http://9gag.com/gag/arm9pjd)<!-- MEMES:END -->
 
 ---
 </div>

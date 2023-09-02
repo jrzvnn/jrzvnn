@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
+ - 😝 [Young girl with autism blows out a stranger&#39;s birthday candles and the birthday boy couldn&#39;t be a kinder man](http://9gag.com/gag/aDYrRNG)
  - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 💣 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
- - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
- - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
+ - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 👉 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)<!-- MEMES:END -->
 
 ---
 </div>

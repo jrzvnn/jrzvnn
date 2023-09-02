@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW’s Vision Neue Klasse Concept Gives the Storied Brand a Future-Friendly Face](https://www.wired.com/story/bmw-vision-neue-klasse-concept/)
- - [Interviews with AI red team heads at Microsoft, Google, Nvidia, and Meta on why breaking AI models is important for safety, challenges of fixing them, and more &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/230902/p3#a230902p3)
- - [LG and Samsung say their smart home apps will soon be able to control each other&#39;s appliances and TVs, as part of the Home Connectivity Alliance formed in 2021 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230902/p2#a230902p2)
- - [Serie A Italian Soccer Livestream: How to Watch Napoli vs. Lazio From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-napoli-vs-lazio-from-anywhere/#ftag=CAD590a51e)
- - [California Forever, the company backed by tech billionaires that wants to build a city in the Bay Area&#39;s Solano County, unveiled a website explaining its plans &lpar;New York Times&rpar;](http://www.techmeme.com/230902/p1#a230902p1)<!-- TECH:END -->
+ - [2025 Mini Cooper SE Debuts Minimal, Compact Design     - CNET](https://www.cnet.com/roadshow/pictures/2025-mini-cooper-se-debuts-minimal-compact-design/#ftag=CAD590a51e)
+ - [BMW Vision Concept Previews 2025 Neue Klasse EVs     - CNET](https://www.cnet.com/roadshow/pictures/bmw-vision-concept-previews-2025-neue-klasse-evs/#ftag=CAD590a51e)
+ - [BMW Vision Neue Klasse Concept Previews Future Design, Tech     - CNET](https://www.cnet.com/roadshow/news/bmw-vision-neue-klasse-concept-previews-future-design-tech/#ftag=CAD590a51e)
+ - [2025 Mini Countryman SE ALL4 Is Kind of a Big Deal     - CNET](https://www.cnet.com/roadshow/pictures/2025-mini-countryman-se-all4-is-kind-of-a-big-deal/#ftag=CAD590a51e)
+ - [BMW’s Vision Neue Klasse Concept Gives the Storied Brand a Future-Friendly Face](https://www.wired.com/story/bmw-vision-neue-klasse-concept/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

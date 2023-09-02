@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Walmart spent $3.5B in H1 2023 to buy Flipkart shares from Tiger Global and others, growing its Flipkart stake to ~80%, and resolve PhonePe liabilities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230902/p5#a230902p5)
+ - [How to sync multiple Apple Watches to one iPhone](https://appleinsider.com/inside/apple-watch/tips/how-to-sync-multiple-apple-watches-to-one-iphone?utm_medium=rss)
  - [Five months later, I still don’t want to use Google Bard](https://www.androidauthority.com/google-bard-tested-after-launch-3358065/)
- - [Frankfurt Apple Store reopens after month-long renovation](https://appleinsider.com/articles/23/09/02/frankfurt-apple-store-reopens-after-month-long-renovation?utm_medium=rss)
- - [Best Latex Mattresses of 2023     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)
- - [With a Crippled Energy Grid, Puerto Rico Turned to Solar Power. &lpar;Spoiler: It&#39;s Working&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/with-a-crippled-energy-grid-puerto-rico-turned-to-solar-power-spoiler-its-working/#ftag=CAD590a51e)
- - [Best Unlimited Data Plans for September 2023     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [Frankfurt Apple Store reopens after month-long renovation](https://appleinsider.com/articles/23/09/02/frankfurt-apple-store-reopens-after-month-long-renovation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

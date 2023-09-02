@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Filing: Walmart spent $3.5B in H1 2023 to buy Flipkart shares from Tiger Global and others, growing its Flipkart stake to ~80%, and resolve PhonePe liabilities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230902/p5#a230902p5)
  - [How to sync multiple Apple Watches to one iPhone](https://appleinsider.com/inside/apple-watch/tips/how-to-sync-multiple-apple-watches-to-one-iphone?utm_medium=rss)
  - [Five months later, I still don’t want to use Google Bard](https://www.androidauthority.com/google-bard-tested-after-launch-3358065/)
- - [Best iPhone &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Frankfurt Apple Store reopens after month-long renovation](https://appleinsider.com/articles/23/09/02/frankfurt-apple-store-reopens-after-month-long-renovation?utm_medium=rss)<!-- TECH:END -->
+ - [Best TV for 2023: We Tested Samsung, LG, TCL, Vizio and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [Best 2-Player Game of 2023     - CNET](https://www.cnet.com/culture/entertainment/best-2-player-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

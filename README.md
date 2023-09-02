@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple is already using machine learning and AI in iOS](https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios?utm_medium=rss)
+ - [Mophie has three Qi2 magnetic wireless chargers on the way](https://www.theverge.com/2023/9/2/23856662/mophie-qi2-wireless-chargers-iphone-apple)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-499-3360055/)
  - [Daily deals Sept 2: Apple TV $67, HomePod mini $79, MagSafe Wireless Charger $30, more](https://appleinsider.com/articles/23/09/02/daily-deals-sept-2-apple-tv-67-homepod-mini-79-magsafe-wireless-charger-30-more?utm_medium=rss)
- - [Instacart&#39;s IPO filing suggests its Snowflake cloud spending will fall 71% in 2023, sparking an online spat between staffers of Snowflake and rival Databricks &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230902/p6#a230902p6)
- - [Which countries have the cheapest Netflix subscriptions?](https://www.androidauthority.com/cheapest-netflix-countries-3360105/)
- - [Eubank Jr. vs. Smith Livestream: When It Starts and How to Watch Middleweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/eubank-jr-vs-smith-livestream-when-it-starts-and-how-to-watch-middleweight-boxing-fight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instacart&#39;s IPO filing suggests its Snowflake cloud spending will fall 71% in 2023, sparking an online spat between staffers of Snowflake and rival Databricks &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230902/p6#a230902p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

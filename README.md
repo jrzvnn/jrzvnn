@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
+ - 😝 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
+ - 💣 [I hate my life.](http://9gag.com/gag/anz8YPo)
  - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
- - 😝 [Frustrated man begs to let him take sick infant to the hospital, activists tell him to &#39;chill out&#39;](http://9gag.com/gag/a8qQbpe)
- - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
- - 👉 [Gowok &lpar;manhood maid&rpar; was a profession to train boys into men. The maid will teach how to sexually please a woman. Gowoks also teach how to properly treat women as a gentleman. Now it&#39;s an extinct profession That was last seen in the 60&#39;s.](http://9gag.com/gag/amAKXvX)<!-- MEMES:END -->
+ - 👉 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
 
 ---
 </div>

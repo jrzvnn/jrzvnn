@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
- - 😝 [Not even women support the show made for them](http://9gag.com/gag/a5XvN3q)
- - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
- - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
- - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
+ - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
+ - 💣 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
+ - 😝 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/ay2ZpzW)
+ - 👉 [I hate my life.](http://9gag.com/gag/anz8YPo)<!-- MEMES:END -->
 
 ---
 </div>

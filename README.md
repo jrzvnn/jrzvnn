@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A look at AI chatbots from Baidu, ByteDance, and other Chinese companies, rolled out publicly after China&#39;s approval, and how they deal with sensitive content &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230902/p8#a230902p8)
  - [Final Girls Make the Best Horror Movie Heroes](https://www.wired.com/2021/09/geeks-guide-final-girls/)
+ - [ChatGPT Glossary: 41 AI Terms that Everyone Should Know     - CNET](https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
  - [Microsoft PowerToys’ Crop and Lock lets you make mini app windows](https://www.theverge.com/2023/9/2/23856744/microsoft-windows-powertoys-crop-and-lock-feature)
- - [Standby Mode on the iPhone 14 Pro replaced my Google Nest Hub](https://www.androidauthority.com/iphone-standby-mode-vs-google-nest-hub-3359363/)
- - [8 Yoga Poses You Can Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-yoga-poses-you-can-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Standby Mode on the iPhone 14 Pro replaced my Google Nest Hub](https://www.androidauthority.com/iphone-standby-mode-vs-google-nest-hub-3359363/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

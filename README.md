@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Which countries have the cheapest Netflix subscriptions?](https://www.androidauthority.com/cheapest-netflix-countries-3360105/)
+ - [Eubank Jr. vs. Smith Livestream: When It Starts and How to Watch Middleweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/eubank-jr-vs-smith-livestream-when-it-starts-and-how-to-watch-middleweight-boxing-fight/#ftag=CAD590a51e)
+ - [Google Duet AI: New Features for Gmail, Docs and Sheets, at $30 a Month     - CNET](https://www.cnet.com/tech/services-and-software/google-duet-ai-new-features-for-gmail-docs-and-sheets-at-30-a-month/#ftag=CAD590a51e)
  - [7 Face Masks Your Kids May Actually Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-kids-face-masks/)
- - [Filing: Walmart spent $3.5B in H1 2023 to buy Flipkart shares from Tiger Global and others, growing its Flipkart stake to ~80%, and resolve PhonePe liabilities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230902/p5#a230902p5)
- - [How to sync multiple Apple Watches to one iPhone](https://appleinsider.com/inside/apple-watch/tips/how-to-sync-multiple-apple-watches-to-one-iphone?utm_medium=rss)
- - [Five months later, I still don’t want to use Google Bard](https://www.androidauthority.com/google-bard-tested-after-launch-3358065/)<!-- TECH:END -->
+ - [Filing: Walmart spent $3.5B in H1 2023 to buy Flipkart shares from Tiger Global and others, growing its Flipkart stake to ~80%, and resolve PhonePe liabilities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230902/p5#a230902p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

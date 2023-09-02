@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quora is like 9gag](http://9gag.com/gag/aRE9Q72)
- - 😝 [Back to monkey](http://9gag.com/gag/aQEB6y8)
- - 💣 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 😝 [He was already living in the future.](http://9gag.com/gag/aEqywAG)
- - 👉 [Title](http://9gag.com/gag/axoQdgY)<!-- MEMES:END -->
+ - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
+ - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
+ - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
 
 ---
 </div>

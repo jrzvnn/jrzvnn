@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
+ - [2 Polish Men Arrested for Radio Hack That Disrupted Trains](https://www.wired.com/story/poland-train-radio-attack-security-roundup/)
  - [A Media Matters for America report on PragerU Kids: Meta isn&#39;t consistently enforcing transparency rules for ads around &quot;social issues, elections, or politics&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/230902/p4#a230902p4)
  - [The Samsung Galaxy Watch 6’s sleep tracking is adorable but just alright](https://www.androidauthority.com/galaxy-watch-6-series-sleep-tracking-3357229/)
- - [What Ever Happened to the Tiny House Movement?](https://www.wired.com/story/what-ever-happened-to-the-tiny-house-movement/)
- - [Leica Q3 Review: Pricey but Worth It](https://www.wired.com/review/leica-q3/)
- - [Best of IFA 2023 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2023-awards-3360664/)<!-- TECH:END -->
+ - [What Ever Happened to the Tiny House Movement?](https://www.wired.com/story/what-ever-happened-to-the-tiny-house-movement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

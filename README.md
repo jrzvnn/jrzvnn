@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
- - 💣 [Gowok &lpar;manhood maid&rpar; was a profession to train boys into men. The maid will teach how to sexually please a woman. Gowoks also teach how to properly treat women as a gentleman. Now it&#39;s an extinct profession That was last seen in the 60&#39;s.](http://9gag.com/gag/amAKXvX)
+ - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
  - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 👉 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)<!-- MEMES:END -->
+ - 💣 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
+ - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
 
 ---
 </div>

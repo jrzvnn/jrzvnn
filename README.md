@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
- - 💣 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 😝 [Compact](http://9gag.com/gag/aDYr0zd)
+ - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
  - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
+ - 👉 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)<!-- MEMES:END -->
 
 ---
 </div>

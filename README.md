@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 💣 [Douchebags](http://9gag.com/gag/aMENpVR)
  - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 👉 [Quiet and peaceful construction](http://9gag.com/gag/ay2ZpbY)<!-- MEMES:END -->
+ - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
+ - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/ay2ZpzW)
+ - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
 
 ---
 </div>

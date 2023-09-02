@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insulting other singers](http://9gag.com/gag/aVb4QmP)
- - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 💣 [So simple](http://9gag.com/gag/aGE6wDz)
- - 😝 [Man of culture](http://9gag.com/gag/arm9pjd)
- - 👉 [We would so do this](http://9gag.com/gag/az2oL8Z)<!-- MEMES:END -->
+ - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 💣 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
 
 ---
 </div>

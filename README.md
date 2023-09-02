@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 💣 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 👉 [What should he do tho](http://9gag.com/gag/aKEn4Ab)<!-- MEMES:END -->
+ - 😝 [Got awkward real quick](http://9gag.com/gag/anz8ezn)
+ - 😝 [Back to monkey](http://9gag.com/gag/aQEB6y8)
+ - 💣 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
+ - 😝 [He was already living in the future.](http://9gag.com/gag/aEqywAG)
+ - 👉 [Title](http://9gag.com/gag/axoQdgY)<!-- MEMES:END -->
 
 ---
 </div>

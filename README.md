@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 😝 [Old man has dementia and doesn\u2019t even remember his son or any member of his family. Amazing way in which his son handles him giving him confidence and positivity! A rare sight nowadays! \ud83d\ude4f](http://9gag.com/gag/aRE964G)
- - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 😝 [Back to monkey](http://9gag.com/gag/aQEB6y8)
- - 👉 [Got awkward real quick](http://9gag.com/gag/anz8ezn)<!-- MEMES:END -->
+ - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
+ - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 💣 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 👉 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)<!-- MEMES:END -->
 
 ---
 </div>

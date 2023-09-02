@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Child advocacy group Heat Initiative is starting a $2M campaign calling on Apple to detect, report, and remove child sexual abuse materials from iCloud &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/230901/p22#a230901p22)
+ - [Google Is Raising Nest Aware Subscription Price to $80 a Year     - CNET](https://www.cnet.com/home/security/google-is-raising-nest-aware-subscription-price-to-80-a-year/#ftag=CAD590a51e)
  - [Airline fears around 5G may finally be over](https://www.theverge.com/2023/9/1/23856099/delta-updates-airplanes-5g-interference)
  - [Sources: Arm looks to target its IPO at a $50B-$55B valuation, well below the $64B valuation implied by SoftBank&#39;s recent acquisition of a 25% stake in Arm &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230901/p21#a230901p21)
- - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)
- - [Nourish Your Kidneys: 13 Nutrient-Packed Foods for Optimal Kidney Health     - CNET](https://www.cnet.com/health/nutrition/nourish-your-kidneys-13-nutrient-packed-foods-for-optimal-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google raises Nest Aware subscription prices up to $30 per year](https://www.theverge.com/2023/9/1/23856074/nest-aware-price-hike-google-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

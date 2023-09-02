@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 😝 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
- - 💣 [I hate my life.](http://9gag.com/gag/anz8YPo)
- - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
- - 👉 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
+ - 😝 [True](http://9gag.com/gag/aPgzywK)
+ - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
+ - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
+ - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
 
 ---
 </div>

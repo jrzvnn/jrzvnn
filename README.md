@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Standby Mode on the iPhone 14 Pro replaced my Google Nest Hub](https://www.androidauthority.com/iphone-standby-mode-vs-google-nest-hub-3359363/)
+ - [8 Yoga Poses You Can Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-yoga-poses-you-can-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)
  - [Microsoft plans to deprecate WordPad, automatically included with Windows since 1995, via a future Windows update, as it&#39;s no longer under active development &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230902/p7#a230902p7)
  - [How Apple is already using machine learning and AI in iOS](https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios?utm_medium=rss)
- - [Mophie has three Qi2 magnetic wireless chargers on the way](https://www.theverge.com/2023/9/2/23856662/mophie-qi2-wireless-chargers-iphone-apple)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-499-3360055/)
- - [Daily deals Sept 2: Apple TV $67, HomePod mini $79, MagSafe Wireless Charger $30, more](https://appleinsider.com/articles/23/09/02/daily-deals-sept-2-apple-tv-67-homepod-mini-79-magsafe-wireless-charger-30-more?utm_medium=rss)<!-- TECH:END -->
+ - [Mophie has three Qi2 magnetic wireless chargers on the way](https://www.theverge.com/2023/9/2/23856662/mophie-qi2-wireless-chargers-iphone-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True](http://9gag.com/gag/aPgzywK)
  - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
- - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [Not even women support the show made for them](http://9gag.com/gag/a5XvN3q)
+ - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
  - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
- - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
+ - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
 
 ---
 </div>

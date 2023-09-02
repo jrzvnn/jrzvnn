@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BMW’s Vision Neue Klasse Concept Gives the Storied Brand a Future-Friendly Face](https://www.wired.com/story/bmw-vision-neue-klasse-concept/)
  - [Interviews with AI red team heads at Microsoft, Google, Nvidia, and Meta on why breaking AI models is important for safety, challenges of fixing them, and more &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/230902/p3#a230902p3)
  - [LG and Samsung say their smart home apps will soon be able to control each other&#39;s appliances and TVs, as part of the Home Connectivity Alliance formed in 2021 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230902/p2#a230902p2)
  - [Serie A Italian Soccer Livestream: How to Watch Napoli vs. Lazio From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-napoli-vs-lazio-from-anywhere/#ftag=CAD590a51e)
- - [California Forever, the company backed by tech billionaires that wants to build a city in the Bay Area&#39;s Solano County, unveiled a website explaining its plans &lpar;New York Times&rpar;](http://www.techmeme.com/230902/p1#a230902p1)
- - [DappRadar: monthly NFT trading volume fell 81% between January 2022 and July 2023, while monthly NFT sales dropped 61%; bitcoin is up nearly 55% in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p24#a230901p24)<!-- TECH:END -->
+ - [California Forever, the company backed by tech billionaires that wants to build a city in the Bay Area&#39;s Solano County, unveiled a website explaining its plans &lpar;New York Times&rpar;](http://www.techmeme.com/230902/p1#a230902p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

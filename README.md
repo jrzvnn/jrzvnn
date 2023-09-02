@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Color are Your Sunglasses? It Matters for Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/what-color-are-your-sunglasses-it-matters-for-your-eye-health/#ftag=CAD590a51e)
  - [Twelve South AirFly Pro review: Boost your in-flight audio quality](https://appleinsider.com/articles/23/09/02/twelve-south-airfly-pro-review-boost-your-in-flight-audio-quality?utm_medium=rss)
+ - [Don&#39;t Sweat It: These Clothes Can Help You Stay Cool Amid High Temperatures     - CNET](https://www.cnet.com/health/personal-care/dont-sweat-it-these-clothes-can-help-you-stay-cool-even-during-a-heat-wave/#ftag=CAD590a51e)
  - [A look at AI chatbots from Baidu, ByteDance, and other Chinese companies, rolled out publicly after China&#39;s approval, and how they deal with sensitive content &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230902/p8#a230902p8)
- - [AI Took the Stage at the World&#39;s Largest Arts Festival. Here&#39;s What Happened     - CNET](https://www.cnet.com/tech/ai-took-the-stage-at-the-worlds-largest-arts-festival-heres-what-happened/#ftag=CAD590a51e)
- - [Final Girls Make the Best Horror Movie Heroes](https://www.wired.com/2021/09/geeks-guide-final-girls/)
- - [ChatGPT Glossary: 41 AI Terms that Everyone Should Know     - CNET](https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Took the Stage at the World&#39;s Largest Arts Festival. Here&#39;s What Happened     - CNET](https://www.cnet.com/tech/ai-took-the-stage-at-the-worlds-largest-arts-festival-heres-what-happened/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

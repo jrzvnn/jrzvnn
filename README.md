@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
- - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
- - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [Wow! She practically showed her entire shoulder.](http://9gag.com/gag/amAbDro)
  - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
  - 👉 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)<!-- MEMES:END -->
 
 ---

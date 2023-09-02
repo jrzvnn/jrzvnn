@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rich going rich things](http://9gag.com/gag/aOxAqO6)
  - 😝 [Insulting other singers](http://9gag.com/gag/aVb4QmP)
- - 💣 [Man of culture](http://9gag.com/gag/arm9pjd)
- - 😝 [So simple](http://9gag.com/gag/aGE6wDz)
+ - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 💣 [So simple](http://9gag.com/gag/aGE6wDz)
+ - 😝 [Man of culture](http://9gag.com/gag/arm9pjd)
  - 👉 [We would so do this](http://9gag.com/gag/az2oL8Z)<!-- MEMES:END -->
 
 ---

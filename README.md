@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Travis, you will play alone tonight.](http://9gag.com/gag/aOxAKMy)
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 💣 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
- - 😝 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
- - 👉 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)<!-- MEMES:END -->
+ - 😝 [&#39; I&#39;m gonna do what&#39;s called a pro gamer move &#39;](http://9gag.com/gag/aoKAE0n)
+ - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 💣 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
+ - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
+ - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
 
 ---
 </div>

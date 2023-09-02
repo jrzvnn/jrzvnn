@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 😝 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
+ - 💣 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)
  - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 💣 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
+ - 👉 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
 
 ---
 </div>

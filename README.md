@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was already living in the future.](http://9gag.com/gag/aEqywAG)
- - 😝 [Travis, you will play alone tonight.](http://9gag.com/gag/aOxAKMy)
- - 💣 [So now we know](http://9gag.com/gag/ay2Z5K8)
- - 😝 [Never gets old](http://9gag.com/gag/abvKXBp)
- - 👉 [Best feeling after hard day](http://9gag.com/gag/amAKNwv)<!-- MEMES:END -->
+ - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
+ - 💣 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
+ - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
+ - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
 
 ---
 </div>

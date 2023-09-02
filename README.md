@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
- - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 👉 [Douchebags](http://9gag.com/gag/aMENpVR)<!-- MEMES:END -->
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 😝 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 💣 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
+ - 😝 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
 
 ---
 </div>

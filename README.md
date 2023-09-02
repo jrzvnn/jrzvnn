@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young girl with autism blows out a stranger&#39;s birthday candles and the birthday boy couldn&#39;t be a kinder man](http://9gag.com/gag/aDYrRNG)
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 👉 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)<!-- MEMES:END -->
+ - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 😝 [Old man has dementia and doesn\u2019t even remember his son or any member of his family. Amazing way in which his son handles him giving him confidence and positivity! A rare sight nowadays! \ud83d\ude4f](http://9gag.com/gag/aRE964G)
+ - 💣 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 😝 [Back to monkey](http://9gag.com/gag/aQEB6y8)
+ - 👉 [Got awkward real quick](http://9gag.com/gag/anz8ezn)<!-- MEMES:END -->
 
 ---
 </div>

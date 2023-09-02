@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Mophie has three Qi2 magnetic wireless chargers on the way](https://www.theverge.com/2023/9/2/23856662/mophie-qi2-wireless-chargers-iphone-apple)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-499-3360055/)
  - [Daily deals Sept 2: Apple TV $67, HomePod mini $79, MagSafe Wireless Charger $30, more](https://appleinsider.com/articles/23/09/02/daily-deals-sept-2-apple-tv-67-homepod-mini-79-magsafe-wireless-charger-30-more?utm_medium=rss)
- - [Instacart&#39;s IPO filing suggests its Snowflake cloud spending will fall 71% in 2023, sparking an online spat between staffers of Snowflake and rival Databricks &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230902/p6#a230902p6)<!-- TECH:END -->
+ - [Instacart&#39;s IPO filing suggests its Snowflake cloud spending will fall 71% YoY in 2023, sparking an online spat between staff of rivals Snowflake and Databricks &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230902/p6#a230902p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

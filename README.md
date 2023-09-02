@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Reasons You Should Use DuckDuckGo Instead of Google     - CNET](https://www.cnet.com/tech/services-and-software/five-reasons-you-should-use-duckduckgo-instead-of-google/#ftag=CAD590a51e)
+ - [Best of IFA 2023 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2023-awards-3360664/)
  - [53 Best Labor Day Deals &lpar;2023&rpar;: Grills, Vacuums, Mechanical Keyboards](https://www.wired.com/story/best-labor-day-deals-2023-3/)
  - [2025 Mini Cooper SE Debuts Minimal, Compact Design     - CNET](https://www.cnet.com/roadshow/pictures/2025-mini-cooper-se-debuts-minimal-compact-design/#ftag=CAD590a51e)
  - [BMW Vision Neue Klasse Concept Previews Future Design, Tech     - CNET](https://www.cnet.com/roadshow/news/bmw-vision-neue-klasse-concept-previews-future-design-tech/#ftag=CAD590a51e)

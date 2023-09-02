@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
+ - 😝 [Only legends will know this masterpiece.](http://9gag.com/gag/a3ZePRv)
+ - 😝 [It was made with love](http://9gag.com/gag/aZDVG6V)
  - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 👉 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)<!-- MEMES:END -->
+ - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
+ - 👉 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)<!-- MEMES:END -->
 
 ---
 </div>

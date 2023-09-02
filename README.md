@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
  - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
- - 💣 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 👉 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)<!-- MEMES:END -->
+ - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
+ - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG and Samsung say their smart home apps will soon be able to control each other&#39;s appliances and TVs, as part of the Home Connectivity Alliance formed in 2021 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230902/p2#a230902p2)
  - [Serie A Italian Soccer Livestream: How to Watch Napoli vs. Lazio From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-napoli-vs-lazio-from-anywhere/#ftag=CAD590a51e)
  - [California Forever, the company backed by tech billionaires that wants to build a city in the Bay Area&#39;s Solano County, unveiled a website explaining its plans &lpar;New York Times&rpar;](http://www.techmeme.com/230902/p1#a230902p1)
  - [DappRadar: monthly NFT trading volume fell 81% between January 2022 and July 2023, while monthly NFT sales dropped 61%; bitcoin is up nearly 55% in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p24#a230901p24)
- - [Sources: Apple, Nvidia, Alphabet, Intel, Samsung, and AMD have agreed to invest between $25M and $100M each in Arm&#39;s IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230901/p23#a230901p23)
- - [Google Maps Updates UI With Brighter Colors Not Everyone Will Love     - CNET](https://www.cnet.com/tech/mobile/google-maps-updates-ui-with-brighter-colors-not-everyone-will-love/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple, Nvidia, Alphabet, Intel, Samsung, and AMD have agreed to invest between $25M and $100M each in Arm&#39;s IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230901/p23#a230901p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

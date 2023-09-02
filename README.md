@@ -155,7 +155,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got awkward real quick](http://9gag.com/gag/anz8ezn)
+ - 😝 [Quora is like 9gag](http://9gag.com/gag/aRE9Q72)
  - 😝 [Back to monkey](http://9gag.com/gag/aQEB6y8)
  - 💣 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
  - 😝 [He was already living in the future.](http://9gag.com/gag/aEqywAG)

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Girls Make the Best Horror Movie Heroes](https://www.wired.com/2021/09/geeks-guide-final-girls/)
  - [Microsoft PowerToys’ Crop and Lock lets you make mini app windows](https://www.theverge.com/2023/9/2/23856744/microsoft-windows-powertoys-crop-and-lock-feature)
  - [Standby Mode on the iPhone 14 Pro replaced my Google Nest Hub](https://www.androidauthority.com/iphone-standby-mode-vs-google-nest-hub-3359363/)
- - [Microsoft plans to deprecate WordPad, automatically included with Windows since 1995, via a future Windows update, as it&#39;s no longer under active development &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230902/p7#a230902p7)
- - [How Apple is already using machine learning and AI in iOS](https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios?utm_medium=rss)
- - [Mophie has three Qi2 magnetic wireless chargers on the way](https://www.theverge.com/2023/9/2/23856662/mophie-qi2-wireless-chargers-iphone-apple)<!-- TECH:END -->
+ - [8 Yoga Poses You Can Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-yoga-poses-you-can-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)
+ - [Microsoft plans to deprecate WordPad, automatically included with Windows since 1995, via a future Windows update, as it&#39;s no longer under active development &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230902/p7#a230902p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

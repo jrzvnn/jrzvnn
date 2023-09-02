@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
- - 😝 [10/10 Parenting](http://9gag.com/gag/aPgzw4Q)
- - 💣 [Insulting other singers](http://9gag.com/gag/aVb4QmP)
- - 😝 [Rich going rich things](http://9gag.com/gag/aOxAqO6)
- - 👉 [Man of culture](http://9gag.com/gag/arm9pjd)<!-- MEMES:END -->
+ - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
+ - 💣 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 👉 [Quiet and peaceful construction](http://9gag.com/gag/ay2ZpbY)<!-- MEMES:END -->
 
 ---
 </div>

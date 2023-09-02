@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [How can they take it seriously?](http://9gag.com/gag/avQXbVX)
- - 💣 [How? s1](http://9gag.com/gag/a6q4rKR)
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 👉 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)<!-- MEMES:END -->
+ - 😝 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
+ - 😝 [Does this mean SHE&#39;LL be the first woman to play Tinker Bell now?](http://9gag.com/gag/a8qXrbQ)
+ - 💣 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
+ - 😝 [How? s1](http://9gag.com/gag/a6q4rKR)
+ - 👉 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)<!-- MEMES:END -->
 
 ---
 </div>

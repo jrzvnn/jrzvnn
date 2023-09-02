@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
- - [2 Polish Men Arrested for Radio Hack That Disrupted Trains](https://www.wired.com/story/poland-train-radio-attack-security-roundup/)
- - [A Media Matters for America report on PragerU Kids: Meta isn&#39;t consistently enforcing transparency rules for ads around &quot;social issues, elections, or politics&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/230902/p4#a230902p4)
- - [The Samsung Galaxy Watch 6’s sleep tracking is adorable but just alright](https://www.androidauthority.com/galaxy-watch-6-series-sleep-tracking-3357229/)
- - [What Ever Happened to the Tiny House Movement?](https://www.wired.com/story/what-ever-happened-to-the-tiny-house-movement/)<!-- TECH:END -->
+ - [Five months later, I still don’t want to use Google Bard](https://www.androidauthority.com/google-bard-tested-after-launch-3358065/)
+ - [Frankfurt Apple Store reopens after month-long renovation](https://appleinsider.com/articles/23/09/02/frankfurt-apple-store-reopens-after-month-long-renovation?utm_medium=rss)
+ - [Best Latex Mattresses of 2023     - CNET](https://www.cnet.com/health/sleep/best-latex-mattresses/#ftag=CAD590a51e)
+ - [With a Crippled Energy Grid, Puerto Rico Turned to Solar Power. &lpar;Spoiler: It&#39;s Working&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/with-a-crippled-energy-grid-puerto-rico-turned-to-solar-power-spoiler-its-working/#ftag=CAD590a51e)
+ - [Best Unlimited Data Plans for September 2023     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

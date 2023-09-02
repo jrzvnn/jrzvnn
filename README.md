@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instacart&#39;s IPO filing suggests its Snowflake cloud spending will fall 71% in 2023, sparking an online spat between staffers of Snowflake and rival Databricks &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230902/p6#a230902p6)
  - [Which countries have the cheapest Netflix subscriptions?](https://www.androidauthority.com/cheapest-netflix-countries-3360105/)
  - [Eubank Jr. vs. Smith Livestream: When It Starts and How to Watch Middleweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/eubank-jr-vs-smith-livestream-when-it-starts-and-how-to-watch-middleweight-boxing-fight/#ftag=CAD590a51e)
  - [Google Duet AI: New Features for Gmail, Docs and Sheets, at $30 a Month     - CNET](https://www.cnet.com/tech/services-and-software/google-duet-ai-new-features-for-gmail-docs-and-sheets-at-30-a-month/#ftag=CAD590a51e)
- - [7 Face Masks Your Kids May Actually Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-kids-face-masks/)
- - [Filing: Walmart spent $3.5B in H1 2023 to buy Flipkart shares from Tiger Global and others, growing its Flipkart stake to ~80%, and resolve PhonePe liabilities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230902/p5#a230902p5)<!-- TECH:END -->
+ - [7 Face Masks Your Kids May Actually Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-kids-face-masks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

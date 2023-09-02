@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today collected 40kg of garbage. Total is 3005kg. Guys it\u2019s 3 tons of plastic collected only by me! Thank you for supporting. Next goal is 4000kg. Your Cleaning Guy.](http://9gag.com/gag/aNw8mbG)
- - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 💣 [Old man has dementia and doesn\u2019t even remember his son or any member of his family. Amazing way in which his son handles him giving him confidence and positivity! A rare sight nowadays! \ud83d\ude4f](http://9gag.com/gag/aRE964G)
- - 😝 [Got awkward real quick](http://9gag.com/gag/anz8ezn)
- - 👉 [Back to monkey](http://9gag.com/gag/aQEB6y8)<!-- MEMES:END -->
+ - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
+ - 😝 [Play of the century](http://9gag.com/gag/armrPq6)
+ - 💣 [This episode is a masterpiece](http://9gag.com/gag/a8qXBzY)
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 👉 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)<!-- MEMES:END -->
 
 ---
 </div>

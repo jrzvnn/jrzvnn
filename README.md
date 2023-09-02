@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
- - 😝 [Gowok &lpar;manhood maid&rpar; was a profession to train boys into men. The maid will teach how to sexually please a woman. Gowoks also teach how to properly treat women as a gentleman. Now it&#39;s an extinct profession That was last seen in the 60&#39;s.](http://9gag.com/gag/amAKXvX)
- - 💣 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
- - 😝 [A young man got kicked out of his home by his mother on his 18th birthday and was told he was on his own from now on](http://9gag.com/gag/aYVnzYO)
- - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
+ - 😝 [He was already living in the future.](http://9gag.com/gag/aEqywAG)
+ - 😝 [Travis, you will play alone tonight.](http://9gag.com/gag/aOxAKMy)
+ - 💣 [So now we know](http://9gag.com/gag/ay2Z5K8)
+ - 😝 [Never gets old](http://9gag.com/gag/abvKXBp)
+ - 👉 [Best feeling after hard day](http://9gag.com/gag/amAKNwv)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 😝 [Beautiful nature. WTF](http://9gag.com/gag/az2ogyq)
- - 💣 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
- - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
- - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
+ - 😝 [Frustrated man begs to let him take sick infant to the hospital, activists tell him to &#39;chill out&#39;](http://9gag.com/gag/a8qQbpe)
+ - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
+ - 💣 [Douchebags](http://9gag.com/gag/aMENpVR)
+ - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
 
 ---
 </div>

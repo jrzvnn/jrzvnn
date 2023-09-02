@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Forever, the company backed by tech billionaires that wants to build a city in the Bay Area&#39;s Solano County, unveiled a website explaining its plans &lpar;New York Times&rpar;](http://www.techmeme.com/230902/p1#a230902p1)
  - [DappRadar: monthly NFT trading volume fell 81% between January 2022 and July 2023, while monthly NFT sales dropped 61%; bitcoin is up nearly 55% in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230901/p24#a230901p24)
  - [Sources: Apple, Nvidia, Alphabet, Intel, Samsung, and AMD have agreed to invest between $25M and $100M each in Arm&#39;s IPO &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230901/p23#a230901p23)
  - [Google Maps Updates UI With Brighter Colors Not Everyone Will Love     - CNET](https://www.cnet.com/tech/mobile/google-maps-updates-ui-with-brighter-colors-not-everyone-will-love/#ftag=CAD590a51e)
- - [Child advocacy group Heat Initiative is starting a $2M campaign calling on Apple to detect, report, and remove child sexual abuse materials from iCloud &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/230901/p22#a230901p22)
- - [Google Is Raising Nest Aware Subscription Price to $80 a Year     - CNET](https://www.cnet.com/home/security/google-is-raising-nest-aware-subscription-price-to-80-a-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Child advocacy group Heat Initiative is starting a $2M campaign calling on Apple to detect, report, and remove child sexual abuse materials from iCloud &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/230901/p22#a230901p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

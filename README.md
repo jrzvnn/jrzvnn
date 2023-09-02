@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
  - 😝 [Well well\u2026.](http://9gag.com/gag/aBdNqeN)
- - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [Images you can smell](http://9gag.com/gag/a3Zp9Yr)
+ - 💣 [Took me a while](http://9gag.com/gag/aoKqBWX)
  - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
- - 👉 [Took me a while](http://9gag.com/gag/aoKqBWX)<!-- MEMES:END -->
+ - 👉 [What should he do tho](http://9gag.com/gag/aKEn4Ab)<!-- MEMES:END -->
 
 ---
 </div>

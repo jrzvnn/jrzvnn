@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me a while](http://9gag.com/gag/aoKqBWX)
  - 😝 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 💣 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
- - 😝 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/ay2ZpzW)
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 💣 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
  - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
 
 ---

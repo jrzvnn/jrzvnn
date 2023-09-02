@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Twelve South AirFly Pro review: Boost your in-flight audio quality](https://appleinsider.com/articles/23/09/02/twelve-south-airfly-pro-review-boost-your-in-flight-audio-quality?utm_medium=rss)
  - [A look at AI chatbots from Baidu, ByteDance, and other Chinese companies, rolled out publicly after China&#39;s approval, and how they deal with sensitive content &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230902/p8#a230902p8)
+ - [AI Took the Stage at the World&#39;s Largest Arts Festival. Here&#39;s What Happened     - CNET](https://www.cnet.com/tech/ai-took-the-stage-at-the-worlds-largest-arts-festival-heres-what-happened/#ftag=CAD590a51e)
  - [Final Girls Make the Best Horror Movie Heroes](https://www.wired.com/2021/09/geeks-guide-final-girls/)
- - [ChatGPT Glossary: 41 AI Terms that Everyone Should Know     - CNET](https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)
- - [Microsoft PowerToys’ Crop and Lock lets you make mini app windows](https://www.theverge.com/2023/9/2/23856744/microsoft-windows-powertoys-crop-and-lock-feature)<!-- TECH:END -->
+ - [ChatGPT Glossary: 41 AI Terms that Everyone Should Know     - CNET](https://www.cnet.com/tech/computing/chatgpt-glossary-41-ai-terms-that-everyone-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

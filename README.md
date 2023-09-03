@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple was &#39;close&#39; to introducing 14-inch iPad model in 2023](https://appleinsider.com/articles/23/09/03/apple-was-close-to-introducing-14-inch-ipad-model-in-2023?utm_medium=rss)
  - [A look at iPhone&#39;s upcoming Lightning to USB-C transition; sources: Magic Keyboard for the iPad Pro coming next year will have an aluminum top case &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230903/p6#a230903p6)
  - [The iPad may get a hardier aluminum Magic Keyboard](https://www.theverge.com/2023/9/3/23857409/ipad-aluminum-magic-keyboard-apple-ipad-pro)
  - [Apple will frame iPhone 15 USB-C switch as a consumer win](https://appleinsider.com/articles/23/09/03/apple-will-frame-iphone-15-usb-c-switch-as-a-consumer-win?utm_medium=rss)
- - [Future iPad Pro Magic Keyboard will use MacBook-like aluminum enclosure](https://appleinsider.com/articles/23/09/03/magic-keyboard-for-ipad-pro-will-use-macbook-like-aluminum-enclosure?utm_medium=rss)
- - [I love the idea of Live Caption on Android, but don’t use it](https://www.androidauthority.com/live-caption-android-opinion-3358105/)<!-- TECH:END -->
+ - [Future iPad Pro Magic Keyboard will use MacBook-like aluminum enclosure](https://appleinsider.com/articles/23/09/03/magic-keyboard-for-ipad-pro-will-use-macbook-like-aluminum-enclosure?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

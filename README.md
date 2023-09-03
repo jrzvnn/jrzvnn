@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
  - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
- - 👉 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
+ - 💣 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
 
 ---
 </div>

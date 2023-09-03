@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crafting a trash can from collected beach garbage](http://9gag.com/gag/a04zLBd)
- - 😝 [Old but gold](http://9gag.com/gag/a8qQjQZ)
- - 💣 [Still deserves a raise.](http://9gag.com/gag/a8qQjXZ)
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 💣 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
 
 ---
 </div>

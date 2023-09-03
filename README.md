@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 😝 [Oh no](http://9gag.com/gag/abvKy6b)
- - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Title](http://9gag.com/gag/aDYr0eK)
+ - 💣 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
 
 ---
 </div>

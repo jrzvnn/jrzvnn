@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Microsoft is removing WordPad from Windows after nearly 30 years](https://www.theverge.com/2023/9/3/23857331/microsoft-wordpad-windows-removal-end-of-support)
+ - [I Hope These iPhone 15 Clues Come True From Apple&#39;s &#39;Wonderlust&#39; Event Invite     - CNET](https://www.cnet.com/tech/mobile/i-hope-these-iphone-15-clues-come-true-from-apples-wonderlust-event-invite/#ftag=CAD590a51e)
  - [Foxconn founder Terry Gou resigns as a company board member due to &quot;personal reasons&quot;, less than a week after announcing a bid to be Taiwan&#39;s next president &lpar;Reuters&rpar;](http://www.techmeme.com/230903/p4#a230903p4)
  - [Senior YouTube staff express concerns over Shorts drawing away audiences from long-form videos, which produce more revenue but may be &quot;dying out&quot; as a format &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230903/p3#a230903p3)
- - [The SF Fire Department says two Cruise driverless taxis blocked an ambulance carrying a patient who later died at a hospital; Cruise claims it was not at fault &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230903/p2#a230903p2)
- - [EU study: social media companies have failed to stop pro-Russian disinformation and the &quot;reach and influence of Kremlin-backed accounts&quot; grew further in 2023 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/230903/p1#a230903p1)<!-- TECH:END -->
+ - [The SF Fire Department says two Cruise driverless taxis blocked an ambulance carrying a patient who later died at a hospital; Cruise claims it was not at fault &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230903/p2#a230903p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

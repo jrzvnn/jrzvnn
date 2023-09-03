@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Francisco cosplay](http://9gag.com/gag/az2ojrj)
- - 😝 [Still deserves a raise.](http://9gag.com/gag/a8qQjXZ)
- - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 👉 [Why do we even tolerate them at this point?](http://9gag.com/gag/a5XvK9y)<!-- MEMES:END -->
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 😝 [Oh no](http://9gag.com/gag/abvKy6b)
+ - 💣 [Title](http://9gag.com/gag/aDYr0eK)
+ - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
 
 ---
 </div>

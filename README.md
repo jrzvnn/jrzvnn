@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
  - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [Title](http://9gag.com/gag/aDYr0eK)
- - 👉 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)<!-- MEMES:END -->
+ - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
+ - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
 
 ---
 </div>

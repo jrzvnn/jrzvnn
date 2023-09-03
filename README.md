@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)
- - 😝 [Oh no](http://9gag.com/gag/abvKy6b)
- - 💣 [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 😝 [Title](http://9gag.com/gag/aDYr0eK)
  - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
+ - 💣 [Oh no](http://9gag.com/gag/abvKy6b)
+ - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
 
 ---
 </div>

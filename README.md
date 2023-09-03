@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 may have ten &#39;FineWoven&#39; case colors at launch](https://appleinsider.com/articles/23/09/03/iphone-15-may-have-ten-finewoven-case-colors-at-launch?utm_medium=rss)
+ - [4 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
  - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
- - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
- - [I Visited Samsung&#39;s Home Turf to See if Foldable Phones Are Really the Future     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land](https://www.wired.com/story/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land/)<!-- TECH:END -->
+ - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

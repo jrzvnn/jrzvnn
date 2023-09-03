@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [X updated its privacy policy to let the company use data X collects to train its AI models; Musk says X may use &quot;just public data, not DMs or anything private&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230902/p9#a230902p9)
  - [Burning Man access is closed as heavy rains muddy the playa](https://www.theverge.com/2023/9/2/23856894/burning-man-2023-mud-rain-playa-shelter-in-place)
  - [Best Internet Providers in Pittsburgh     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)
- - [Mini’s new Cooper EV centers a giant circular OLED on the dash](https://www.theverge.com/2023/9/2/23856781/mini-cooper-2025-e-se-ev-redesign-oled-touchscreen)
- - [Apps by Apple promotes first-party apps already on iPhone and Mac](https://appleinsider.com/articles/23/09/02/apps-by-apple-promotes-first-party-apps-already-on-iphone-and-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Mini’s new Cooper EV centers a giant circular OLED on the dash](https://www.theverge.com/2023/9/2/23856781/mini-cooper-2025-e-se-ev-redesign-oled-touchscreen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

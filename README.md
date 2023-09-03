@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [After that conversation I just want to pirate all their software](http://9gag.com/gag/a1PBMR8)
- - 💣 [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)
- - 😝 [Anything for them clicks](http://9gag.com/gag/az2ojBp)
- - 👉 [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)<!-- MEMES:END -->
+ - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
 
 ---
 </div>

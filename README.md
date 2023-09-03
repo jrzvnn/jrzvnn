@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
- - 💣 [Title](http://9gag.com/gag/aDYr0eK)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/a8qQjQZ)
+ - 😝 [Still deserves a raise.](http://9gag.com/gag/a8qQjXZ)
+ - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [I only know 13/60 this is something new/&lpar;old&rpar;.](http://9gag.com/gag/aRE9A02)
+ - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
 
 ---
 </div>

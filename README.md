@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 😝 [I watched WATERWORLD many times, and always I thought that something is missing there. Now I watched this 3h version, GOD F**KING DAMN is this movie great! So, who f**ked it up in first place? Why wasn&#39;t this version in cinemas from the beginning? Who f**ked it up?](http://9gag.com/gag/aA0qrEp)
- - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
+ - 😝 [Insulting other singers](http://9gag.com/gag/aVb4QmP)
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 💣 [Man of culture](http://9gag.com/gag/arm9pjd)
+ - 😝 [We would so do this](http://9gag.com/gag/az2oL8Z)
+ - 👉 [Striking a good pose.](http://9gag.com/gag/aMEDbwM)<!-- MEMES:END -->
 
 ---
 </div>

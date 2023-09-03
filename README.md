@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 😝 [Why do we even tolerate them at this point?](http://9gag.com/gag/a5XvK9y)
+ - 💣 [After that conversation I just want to pirate all their software](http://9gag.com/gag/a1PBMR8)
+ - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 👉 [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)<!-- MEMES:END -->
 
 ---
 </div>

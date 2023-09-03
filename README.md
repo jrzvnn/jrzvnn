@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will there be a Microsoft Surface Duo 3? Release date, price, and specs rumors](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
  - [Emails: some UK Home Office officials lobbied the ICO to act &quot;favorably&quot; towards Facewatch, which is rolling out facial recognition tech across the country &lpar;Mark Townsend/The Guardian&rpar;](http://www.techmeme.com/230903/p7#a230903p7)
  - [Get Ready for Fall With Up to 68% Off Horror Movies at Amazon     - CNET](https://www.cnet.com/deals/get-ready-for-fall-with-up-to-68-off-horror-movies-at-amazon/#ftag=CAD590a51e)
  - [Apple was &#39;close&#39; to introducing 14-inch iPad model in 2023](https://appleinsider.com/articles/23/09/03/apple-was-close-to-introducing-14-inch-ipad-model-in-2023?utm_medium=rss)
- - [A look at iPhone&#39;s upcoming Lightning to USB-C transition; sources: Magic Keyboard for the iPad Pro coming next year will have an aluminum top case &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230903/p6#a230903p6)
- - [The iPad may get a hardier aluminum Magic Keyboard](https://www.theverge.com/2023/9/3/23857409/ipad-aluminum-magic-keyboard-apple-ipad-pro)<!-- TECH:END -->
+ - [A look at iPhone&#39;s upcoming Lightning to USB-C transition; sources: Magic Keyboard for the iPad Pro coming next year will have an aluminum top case &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230903/p6#a230903p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

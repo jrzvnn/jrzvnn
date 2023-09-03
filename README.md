@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
  - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 💣 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
  - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
 
 ---

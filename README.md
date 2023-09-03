@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How much does Spotify cost around the world?](https://www.androidauthority.com/how-much-does-spotify-cost-around-the-world-3360533/)
  - [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)
  - [The best Labor Day sales happening now](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
  - [Disney blames Charter for the ESPN blackout](https://www.theverge.com/2023/9/3/23857501/disney-charter-spectrum-espn-blackout-cable-carriage-dispute)
- - [Apple Vision Pro execs talk about developer headset accessibility](https://appleinsider.com/articles/23/09/03/apple-vision-pro-execs-talk-about-developer-headset-accessibility?utm_medium=rss)
- - [Trade in your used iPhone, Apple Watch &amp; get bonus cash ahead of the Apple event](https://appleinsider.com/articles/23/09/03/trade-in-your-used-iphone-apple-watch-get-bonus-cash-ahead-of-the-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro execs talk about developer headset accessibility](https://appleinsider.com/articles/23/09/03/apple-vision-pro-execs-talk-about-developer-headset-accessibility?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

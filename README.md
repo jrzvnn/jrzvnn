@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/a8qQjQZ)
- - 😝 [Still deserves a raise.](http://9gag.com/gag/a8qQjXZ)
- - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [I only know 13/60 this is something new/&lpar;old&rpar;.](http://9gag.com/gag/aRE9A02)
- - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
 
 ---
 </div>

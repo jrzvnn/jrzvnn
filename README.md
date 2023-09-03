@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
  - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [Cheating or not](http://9gag.com/gag/aOxAqj2)
- - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
+ - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
 
 ---
 </div>

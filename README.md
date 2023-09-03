@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Instagram and other social media feeds get swamped with influencers&#39; professionally created content, average users move to private posting and closed groups &lpar;Insider&rpar;](http://www.techmeme.com/230903/p5#a230903p5)
- - [iOS 17 Is Almost Here and I&#39;m Excited About These New iPhone Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-is-almost-here-and-im-excited-about-these-new-iphone-features/#ftag=CAD590a51e)
- - [How to Use Proton Sentinel to Keep Your Accounts Safe](https://www.wired.com/story/how-to-use-proton-sentinel/)
- - [I Use This Overpriced Travel Stroller Every Single Day &lpar;2023&rpar;](https://www.wired.com/story/nuna-travel-stroller-rave/)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Italian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-italian-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
+ - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
+ - [I Visited Samsung&#39;s Home Turf to See if Foldable Phones Are Really the Future     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)
+ - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land](https://www.wired.com/story/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

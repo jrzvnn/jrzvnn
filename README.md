@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Trade in your used iPhone, Apple Watch &amp; get bonus cash ahead of the Apple event](https://appleinsider.com/articles/23/09/03/trade-in-your-used-iphone-apple-watch-get-bonus-cash-ahead-of-the-apple-event?utm_medium=rss)
  - [Will there be a Microsoft Surface Duo 3? Release date, price, and specs rumors](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
- - [Emails: some UK Home Office officials lobbied the ICO to act &quot;favorably&quot; towards Facewatch, which is rolling out facial recognition tech across the country &lpar;Mark Townsend/The Guardian&rpar;](http://www.techmeme.com/230903/p7#a230903p7)
- - [Get Ready for Fall With Up to 68% Off Horror Movies at Amazon     - CNET](https://www.cnet.com/deals/get-ready-for-fall-with-up-to-68-off-horror-movies-at-amazon/#ftag=CAD590a51e)
- - [Apple was &#39;close&#39; to introducing 14-inch iPad model in 2023](https://appleinsider.com/articles/23/09/03/apple-was-close-to-introducing-14-inch-ipad-model-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Our Exclusive Coupon Code Saves You 50% on Your First BistroMD Delivery     - CNET](https://www.cnet.com/deals/our-exclusive-coupon-code-saves-you-50-on-your-first-bistromd-delivery/#ftag=CAD590a51e)
+ - [Prime Video: The 37 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-37-absolute-best-tv-series-to-watch-september-2023/#ftag=CAD590a51e)
+ - [Emails: some UK Home Office officials lobbied the ICO to act &quot;favorably&quot; towards Facewatch, which is rolling out facial recognition tech across the country &lpar;Mark Townsend/The Guardian&rpar;](http://www.techmeme.com/230903/p7#a230903p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

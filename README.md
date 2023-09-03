@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Use Proton Sentinel to Keep Your Accounts Safe](https://www.wired.com/story/how-to-use-proton-sentinel/)
+ - [I Use This Overpriced Travel Stroller Every Single Day &lpar;2023&rpar;](https://www.wired.com/story/nuna-travel-stroller-rave/)
  - [Formula 1 Racing 2023: How to Watch and Livestream the Italian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-italian-gp-today/#ftag=CAD590a51e)
  - [Premier League Soccer Livestream: How to Watch Liverpool vs. Aston Villa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [Microsoft is removing WordPad from Windows after nearly 30 years](https://www.theverge.com/2023/9/3/23857331/microsoft-wordpad-windows-removal-end-of-support)
- - [I Hope These iPhone 15 Clues Come True From Apple&#39;s &#39;Wonderlust&#39; Event Invite     - CNET](https://www.cnet.com/tech/mobile/i-hope-these-iphone-15-clues-come-true-from-apples-wonderlust-event-invite/#ftag=CAD590a51e)
- - [Foxconn founder Terry Gou resigns as a company board member due to &quot;personal reasons&quot;, less than a week after announcing a bid to be Taiwan&#39;s next president &lpar;Reuters&rpar;](http://www.techmeme.com/230903/p4#a230903p4)<!-- TECH:END -->
+ - [Microsoft is removing WordPad from Windows after nearly 30 years](https://www.theverge.com/2023/9/3/23857331/microsoft-wordpad-windows-removal-end-of-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

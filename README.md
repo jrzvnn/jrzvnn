@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
  - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
 
 ---
 </div>

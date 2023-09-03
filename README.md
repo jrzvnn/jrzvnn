@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
- - 😝 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
- - 💣 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
+ - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
+ - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 💣 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
+ - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
 
 ---
 </div>

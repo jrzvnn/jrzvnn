@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aDYr0eK)
- - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 💣 [Oh no](http://9gag.com/gag/abvKy6b)
- - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
+ - 😝 [Crafting a trash can from collected beach garbage](http://9gag.com/gag/a04zLBd)
+ - 😝 [Old but gold](http://9gag.com/gag/a8qQjQZ)
+ - 💣 [Still deserves a raise.](http://9gag.com/gag/a8qQjXZ)
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
 
 ---
 </div>

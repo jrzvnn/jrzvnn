@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 😝 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
- - 💣 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 💣 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
  - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 👉 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)<!-- MEMES:END -->
+ - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
 
 ---
 </div>

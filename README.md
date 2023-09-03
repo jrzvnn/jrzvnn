@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 💣 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
  - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
+ - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 💣 [Title](http://9gag.com/gag/aDYr0eK)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
 
 ---
 </div>

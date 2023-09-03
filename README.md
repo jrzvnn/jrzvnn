@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What should he do tho](http://9gag.com/gag/aKEn4Ab)
  - 😝 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 💣 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
+ - 😝 [I watched WATERWORLD many times, and always I thought that something is missing there. Now I watched this 3h version, GOD F**KING DAMN is this movie great! So, who f**ked it up in first place? Why wasn&#39;t this version in cinemas from the beginning? Who f**ked it up?](http://9gag.com/gag/aA0qrEp)
+ - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
 
 ---
 </div>

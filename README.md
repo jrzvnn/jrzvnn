@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 💣 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)
+ - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
  - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
 
 ---

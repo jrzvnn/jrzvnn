@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 💣 [Title](http://9gag.com/gag/aDYr0eK)
  - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 👉 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future iPad Pro Magic Keyboard will use MacBook-like aluminum enclosure](https://appleinsider.com/articles/23/09/03/magic-keyboard-for-ipad-pro-will-use-macbook-like-aluminum-enclosure?utm_medium=rss)
+ - [I love the idea of Live Caption on Android, but don’t use it](https://www.androidauthority.com/live-caption-android-opinion-3358105/)
+ - [The Best N95, KF94, and KN95 Face Masks &lpar;2023&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
  - [Daily deals Sept. 3: $100 off AirPods Max, M1 24&quot; iMac from $899, Samsung monitor $99, more](https://appleinsider.com/articles/23/09/03/daily-deals-sept-3-100-off-airpods-max-m1-24-imac-from-899-samsung-monitor-99-more?utm_medium=rss)
- - [iPhone 15 may have ten &#39;FineWoven&#39; case colors at launch](https://appleinsider.com/articles/23/09/03/iphone-15-may-have-ten-finewoven-case-colors-at-launch?utm_medium=rss)
- - [Magic Keyboard for iPad Pro will use MacBook-like aluminum enclosure](https://appleinsider.com/articles/23/09/03/magic-keyboard-for-ipad-pro-will-use-macbook-like-aluminum-enclosure?utm_medium=rss)
- - [Roborock launches two midrange robovacs with high-end features](https://www.theverge.com/2023/8/30/23851502/roborock-q5-pro-q8-max-robot-vacuum-launch-price-ifa)
- - [4 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
+ - [iPhone 15 may have ten &#39;FineWoven&#39; case colors at launch](https://appleinsider.com/articles/23/09/03/iphone-15-may-have-ten-finewoven-case-colors-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

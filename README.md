@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 😝 [Title](http://9gag.com/gag/aDYr0eK)
  - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
  - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
 
 ---
 </div>

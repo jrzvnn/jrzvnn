@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [iPhone 15 may have ten &#39;FineWoven&#39; case colors at launch](https://appleinsider.com/articles/23/09/03/iphone-15-may-have-ten-finewoven-case-colors-at-launch?utm_medium=rss)
+ - [Magic Keyboard for iPad Pro will use MacBook-like aluminum enclosure](https://appleinsider.com/articles/23/09/03/magic-keyboard-for-ipad-pro-will-use-macbook-like-aluminum-enclosure?utm_medium=rss)
+ - [Roborock launches two midrange robovacs with high-end features](https://www.theverge.com/2023/8/30/23851502/roborock-q5-pro-q8-max-robot-vacuum-launch-price-ifa)
  - [4 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
- - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
- - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

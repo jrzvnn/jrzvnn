@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 💣 [Squint and you&#39;ll be disappointed](http://9gag.com/gag/aEqywG9)
+ - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 💣 [Starboring](http://9gag.com/gag/a8qQY2Z)
  - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
+ - 👉 [Leroyyy Jenkinss!](http://9gag.com/gag/ajVG0np)<!-- MEMES:END -->
 
 ---
 </div>

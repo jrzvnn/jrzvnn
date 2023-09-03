@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man of culture](http://9gag.com/gag/arm9pjd)
- - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 💣 [Crafting a trash can from collected beach garbage](http://9gag.com/gag/a04zLBd)
- - 😝 [Striking a good pose.](http://9gag.com/gag/aMEDbwM)
- - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
+ - 😝 [Mercury through cloth](http://9gag.com/gag/adPr6xN)
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [Title](http://9gag.com/gag/aDYr0eK)
+ - 👉 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)<!-- MEMES:END -->
 
 ---
 </div>

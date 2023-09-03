@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
  - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 💣 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
- - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 💣 [Title](http://9gag.com/gag/aDYr0eK)
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
  - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
 
 ---

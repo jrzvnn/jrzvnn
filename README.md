@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 😝 [Man of culture](http://9gag.com/gag/arm9pjd)
  - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 💣 [Crafting a trash can from collected beach garbage](http://9gag.com/gag/a04zLBd)
+ - 😝 [Striking a good pose.](http://9gag.com/gag/aMEDbwM)
  - 👉 [A timeless classic](http://9gag.com/gag/adPrYBd)<!-- MEMES:END -->
 
 ---

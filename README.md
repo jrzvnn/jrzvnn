@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the endless battle being waged by a group of internet sleuths, trans engineers, and activists to banish stalking forum Kiwi Farms from the internet &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230903/p8#a230903p8)
+ - [Apple TV+ MLS Season Pass subscription discounted to $29](https://appleinsider.com/articles/23/09/03/apple-tv-mls-season-pass-subscription-discounted-to-29?utm_medium=rss)
  - [How much does Spotify cost around the world?](https://www.androidauthority.com/how-much-does-spotify-cost-around-the-world-3360533/)
  - [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)
- - [The best Labor Day sales happening now](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
- - [Disney blames Charter for the ESPN blackout](https://www.theverge.com/2023/9/3/23857501/disney-charter-spectrum-espn-blackout-cable-carriage-dispute)
- - [Apple Vision Pro execs talk about developer headset accessibility](https://appleinsider.com/articles/23/09/03/apple-vision-pro-execs-talk-about-developer-headset-accessibility?utm_medium=rss)<!-- TECH:END -->
+ - [The best Labor Day sales happening now](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

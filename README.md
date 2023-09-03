@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Why do we even tolerate them at this point?](http://9gag.com/gag/a5XvK9y)
- - 💣 [After that conversation I just want to pirate all their software](http://9gag.com/gag/a1PBMR8)
+ - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
  - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 👉 [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)<!-- MEMES:END -->
+ - 💣 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 👉 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 👉 [Starboring](http://9gag.com/gag/a8qQY2Z)<!-- MEMES:END -->
+ - 😝 [Francisco cosplay](http://9gag.com/gag/az2ojrj)
+ - 😝 [Still deserves a raise.](http://9gag.com/gag/a8qQjXZ)
+ - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 👉 [Why do we even tolerate them at this point?](http://9gag.com/gag/a5XvK9y)<!-- MEMES:END -->
 
 ---
 </div>

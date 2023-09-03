@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Title](http://9gag.com/gag/aDYr0eK)
- - 💣 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
- - 😝 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 👉 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)<!-- MEMES:END -->
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 👉 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
 
 ---
 </div>

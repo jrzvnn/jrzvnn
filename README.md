@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aDYr0eK)
- - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [After that conversation I just want to pirate all their software](http://9gag.com/gag/a1PBMR8)
+ - 💣 [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)
+ - 😝 [Anything for them clicks](http://9gag.com/gag/az2ojBp)
+ - 👉 [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)<!-- MEMES:END -->
 
 ---
 </div>

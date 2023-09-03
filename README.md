@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Instagram and other social media feeds get swamped with influencers&#39; professionally created content, average users move to private posting and closed groups &lpar;Insider&rpar;](http://www.techmeme.com/230903/p5#a230903p5)
+ - [iOS 17 Is Almost Here and I&#39;m Excited About These New iPhone Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-is-almost-here-and-im-excited-about-these-new-iphone-features/#ftag=CAD590a51e)
  - [How to Use Proton Sentinel to Keep Your Accounts Safe](https://www.wired.com/story/how-to-use-proton-sentinel/)
  - [I Use This Overpriced Travel Stroller Every Single Day &lpar;2023&rpar;](https://www.wired.com/story/nuna-travel-stroller-rave/)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Italian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-italian-gp-today/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Liverpool vs. Aston Villa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [Microsoft is removing WordPad from Windows after nearly 30 years](https://www.theverge.com/2023/9/3/23857331/microsoft-wordpad-windows-removal-end-of-support)<!-- TECH:END -->
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Italian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-italian-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

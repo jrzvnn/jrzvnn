@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney blames Charter for the ESPN blackout](https://www.theverge.com/2023/9/3/23857501/disney-charter-spectrum-espn-blackout-cable-carriage-dispute)
  - [Apple Vision Pro execs talk about developer headset accessibility](https://appleinsider.com/articles/23/09/03/apple-vision-pro-execs-talk-about-developer-headset-accessibility?utm_medium=rss)
  - [Trade in your used iPhone, Apple Watch &amp; get bonus cash ahead of the Apple event](https://appleinsider.com/articles/23/09/03/trade-in-your-used-iphone-apple-watch-get-bonus-cash-ahead-of-the-apple-event?utm_medium=rss)
  - [Will there be a Microsoft Surface Duo 3? Release date, price, and specs rumors](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
- - [Our Exclusive Coupon Code Saves You 50% on Your First BistroMD Delivery     - CNET](https://www.cnet.com/deals/our-exclusive-coupon-code-saves-you-50-on-your-first-bistromd-delivery/#ftag=CAD590a51e)
- - [Prime Video: The 37 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-37-absolute-best-tv-series-to-watch-september-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Exclusive Coupon Code Saves You 50% on Your First BistroMD Delivery     - CNET](https://www.cnet.com/deals/our-exclusive-coupon-code-saves-you-50-on-your-first-bistromd-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

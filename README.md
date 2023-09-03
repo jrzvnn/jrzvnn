@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [After that conversation I just want to pirate all their software](http://9gag.com/gag/a1PBMR8)
- - 💣 [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)
- - 😝 [Anything for them clicks](http://9gag.com/gag/az2ojBp)
- - 👉 [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)<!-- MEMES:END -->
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
+ - 💣 [Oh no](http://9gag.com/gag/abvKy6b)
+ - 😝 [Just a heads-up](http://9gag.com/gag/aBdjreP)
+ - 👉 [Confiscator](http://9gag.com/gag/aXnQX6b)<!-- MEMES:END -->
 
 ---
 </div>

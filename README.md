@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
- - [Best Google Pixel Phone to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone-to-buy-in-2023/#ftag=CAD590a51e)
- - [I Visited Samsung&#39;s Home Turf to See if Foldable Phones Are Really the Future     - CNET](https://www.cnet.com/tech/mobile/features/are-foldables-phones-really-the-future-my-trip-to-samsungs-home-turf-gave-me-a-glimpse/#ftag=CAD590a51e)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land](https://www.wired.com/story/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land/)<!-- TECH:END -->
+ - [In a Fierce Desert, Microbe ‘Crusts’ Show How Life Tamed the Land](https://www.wired.com/story/in-a-fierce-desert-microbe-crusts-show-how-life-tamed-the-land/)
+ - [7 Rapid At-Home Covid-19 Tests—and Where to Find Them &lpar;2023&rpar;](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
+ - [How to Remove Your Personal Info From Google by Using Its ‘Results About You’ Tool](https://www.wired.com/story/results-about-you-remove-personal-info-from-google/)
+ - [The True Joy of Sandbox Games Is Breaking Them](https://www.wired.com/story/let-me-break-sandbox-games/)
+ - [A super-simple way to organize your internet](https://www.theverge.com/2023/9/3/23855448/bookmarking-apps-starfield-retro-games-quibi-history-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

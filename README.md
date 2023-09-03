@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SF Fire Department says two Cruise driverless taxis blocked an ambulance carrying a patient who later died at a hospital; Cruise claims it was not at fault &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230903/p2#a230903p2)
  - [EU study: social media companies have failed to stop pro-Russian disinformation and the &quot;reach and influence of Kremlin-backed accounts&quot; grew further in 2023 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/230903/p1#a230903p1)
  - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [X updated its privacy policy to let the company use data X collects to train its AI models; Musk says X may use &quot;just public data, not DMs or anything private&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230902/p9#a230902p9)
- - [Burning Man access is closed as heavy rains muddy the playa](https://www.theverge.com/2023/9/2/23856894/burning-man-2023-mud-rain-playa-shelter-in-place)
- - [Best Internet Providers in Pittsburgh     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Burning Man access is closed as heavy rains muddy the playa](https://www.theverge.com/2023/9/2/23856894/burning-man-2023-mud-rain-playa-shelter-in-place)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [I hate my life.](http://9gag.com/gag/anz8YPo)
  - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
- - 💣 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
+ - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
 
 ---
 </div>

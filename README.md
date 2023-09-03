@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn founder Terry Gou resigns as a company board member due to &quot;personal reasons&quot;, less than a week after announcing a bid to be Taiwan&#39;s next president &lpar;Reuters&rpar;](http://www.techmeme.com/230903/p4#a230903p4)
  - [Senior YouTube staff express concerns over Shorts drawing away audiences from long-form videos, which produce more revenue but may be &quot;dying out&quot; as a format &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230903/p3#a230903p3)
  - [The SF Fire Department says two Cruise driverless taxis blocked an ambulance carrying a patient who later died at a hospital; Cruise claims it was not at fault &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/230903/p2#a230903p2)
  - [EU study: social media companies have failed to stop pro-Russian disinformation and the &quot;reach and influence of Kremlin-backed accounts&quot; grew further in 2023 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/230903/p1#a230903p1)
- - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [X updated its privacy policy to let the company use data X collects to train its AI models; Musk says X may use &quot;just public data, not DMs or anything private&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230902/p9#a230902p9)<!-- TECH:END -->
+ - [Best Cheap Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

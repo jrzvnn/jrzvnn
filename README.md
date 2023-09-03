@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 💣 [Oh no](http://9gag.com/gag/abvKy6b)
- - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 😝 [Number one customer](http://9gag.com/gag/aKEnznb)
+ - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
+ - 💣 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
+ - 😝 [Oh no](http://9gag.com/gag/abvKy6b)
  - 👉 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate my life.](http://9gag.com/gag/anz8YPo)
- - 😝 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)
+ - 😝 [Frustrated man begs to let him take sick infant to the hospital, activists tell him to &#39;chill out&#39;](http://9gag.com/gag/a8qQbpe)
+ - 😝 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
  - 💣 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
- - 😝 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
- - 👉 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)<!-- MEMES:END -->
+ - 😝 [What&#39;s this new occupation](http://9gag.com/gag/aeQyjxv)
+ - 👉 [You&#39;re a big guy](http://9gag.com/gag/aYVZbj2)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insulting other singers](http://9gag.com/gag/aVb4QmP)
  - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 💣 [Man of culture](http://9gag.com/gag/arm9pjd)
- - 😝 [We would so do this](http://9gag.com/gag/az2oL8Z)
- - 👉 [Striking a good pose.](http://9gag.com/gag/aMEDbwM)<!-- MEMES:END -->
+ - 😝 [When you see this, do you still need a headline to know what happened?](http://9gag.com/gag/aKEn45Q)
+ - 💣 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 👉 [Clown show in the comments](http://9gag.com/gag/aDYrAoO)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [27 Best Labor Day Mattress and Sheet Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-2/)
+ - [After ADL&#39;s CEO noted talking to X CEO Yaccarino last week, anti-Semitic X posts surged and #BanTheADL trended as Elon Musk replied to and liked far-right posts &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230903/p9#a230903p9)
  - [‘California Forever’ website touts the city tech billionaires are trying to build](https://www.theverge.com/2023/9/3/23857664/california-forever-tech-billionaire-secret-city)
  - [A look at the endless battle being waged by a group of internet sleuths, trans engineers, and activists to banish stalking forum Kiwi Farms from the internet &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230903/p8#a230903p8)
- - [Apple TV+ MLS Season Pass subscription discounted to $29](https://appleinsider.com/articles/23/09/03/apple-tv-mls-season-pass-subscription-discounted-to-29?utm_medium=rss)
- - [How much does Spotify cost around the world?](https://www.androidauthority.com/how-much-does-spotify-cost-around-the-world-3360533/)
- - [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)<!-- TECH:END -->
+ - [Apple TV+ MLS Season Pass subscription discounted to $29](https://appleinsider.com/articles/23/09/03/apple-tv-mls-season-pass-subscription-discounted-to-29?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

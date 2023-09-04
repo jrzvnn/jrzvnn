@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
  - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 💣 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
- - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
+ - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 💣 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
 
 ---
 </div>

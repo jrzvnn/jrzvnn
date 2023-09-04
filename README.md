@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A first look at Atmos FlexConnect, Dolby’s latest attempt to fix bad TV audio](https://www.theverge.com/2023/9/4/23858244/dolby-atmos-flexconnect-hands-on-tcl-spatial-audio-speakers)
+ - [The Huawei Mate 60 Pro&#39;s 7nm Kirin 9000s chip, made by SMIC, is an evolutionary rather than revolutionary development and shows US curbs are porous, not useless &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230904/p8#a230904p8)
  - [Thief decides iPhone is worth more than dentistry, chews through security cable](https://appleinsider.com/articles/23/09/04/thief-decides-iphone-is-worth-more-than-dentistry-chews-through-security-cable?utm_medium=rss)
  - [Insta360 Go 3 Camera Review: Go-Anywhere Tiny Cam](https://www.wired.com/review/insta360-go-3-action-camera/)
- - [28 Best Mac Apps You Should Download Now &lpar;2023&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)
- - [How long do iPhones last? How long should you use your iPhone for?](https://www.androidauthority.com/how-long-do-iphones-last-3359069/)
- - [Hands-on with the Withings ScanWatch 2: A new hybrid hero emerges](https://www.androidauthority.com/withings-scanwatch-2-hands-on-3360663/)<!-- TECH:END -->
+ - [28 Best Mac Apps You Should Download Now &lpar;2023&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

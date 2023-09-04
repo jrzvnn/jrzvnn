@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 😝 [Shoplifting in Asia](http://9gag.com/gag/aVb4e58)
- - 💣 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)
+ - 😝 [Oh no](http://9gag.com/gag/abvKy6b)
  - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
+ - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
+ - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
 
 ---
 </div>

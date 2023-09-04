@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Meta’s next Quest Pro might be a team-up with LG](https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor)
  - [How LLMs like GPT-4 can be an equalizing technology in some cases, boosting less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
  - [The best T-Mobile deals of September 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Razer&#39;s Compact BlackWidow V3 Mechanical Keyboard Is 45% Off at Amazon     - CNET](https://www.cnet.com/deals/razers-compact-blackwidow-v3-mechanical-keyboard-is-45-off-at-amazon/#ftag=CAD590a51e)
- - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [Add Some Ambiance to Your Home With Factory Reconditioned Philips Smart Lights     - CNET](https://www.cnet.com/deals/add-some-ambience-factory-reconditioned-philips-hue-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

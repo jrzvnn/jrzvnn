@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Nobody reads this](http://9gag.com/gag/a6q4LDR)
  - 😝 [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
- - 💣 [Nobody reads this](http://9gag.com/gag/a6q4LDR)
- - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
- - 👉 [Is this fair?](http://9gag.com/gag/az2oj6K)<!-- MEMES:END -->
+ - 💣 [Cute dress](http://9gag.com/gag/aVb4epO)
+ - 😝 [Is this fair?](http://9gag.com/gag/az2oj6K)
+ - 👉 [The hero that Philly deserves](http://9gag.com/gag/amAKzYd)<!-- MEMES:END -->
 
 ---
 </div>

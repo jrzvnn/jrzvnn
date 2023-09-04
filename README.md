@@ -147,7 +147,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Meta’s next Quest Pro might be a team-up with LG](https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor)
- - [How LLMs like GPT-4 can be an equalizing technology in some cases, boosting less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
+ - [How LLMs like GPT-4 can have an equalizing effect in some cases, boosting the less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
  - [The best T-Mobile deals of September 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
  - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
  - [Add Some Ambiance to Your Home With Factory Reconditioned Philips Smart Lights     - CNET](https://www.cnet.com/deals/add-some-ambience-factory-reconditioned-philips-hue-sale/#ftag=CAD590a51e)<!-- TECH:END -->

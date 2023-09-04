@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Pain.](http://9gag.com/gag/aA0qwzg)
- - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
  - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
+ - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
 
 ---
 </div>

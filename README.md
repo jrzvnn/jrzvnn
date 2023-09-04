@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple supply chain receives fewer iPhone 15 orders than iPhone 14](https://appleinsider.com/articles/23/09/04/apple-supply-chain-receives-fewer-iphone-15-orders-than-iphone-14?utm_medium=rss)
  - [Documents: Tencent, Xiaomi, and others begin enforcing China&#39;s new app store rules, which require regulatory disclosures; Apple has not yet begun checking apps &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230904/p6#a230904p6)
  - [Electra Loft Go! Review: Comfy Ebike Cruiser](https://www.wired.com/review/electra-loft-go-7d-eq/)
  - [&#39;Baldur&#39;s Gate 3&#39; Review: Play the Way You Choose](https://www.wired.com/review/baldurs-gate-3-review/)
- - [A Soap Opera Is Exactly What Overwatch 2 Needed](https://www.wired.com/story/pve-soap-opera-missions-overwatch-2-story/)
- - [A first look at the 1TB black Xbox Series S](https://www.theverge.com/2023/9/4/23858230/microsoft-xbox-series-s-black-1tb-storage-model-hands-on)<!-- TECH:END -->
+ - [A Soap Opera Is Exactly What Overwatch 2 Needed](https://www.wired.com/story/pve-soap-opera-missions-overwatch-2-story/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

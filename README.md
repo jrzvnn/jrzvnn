@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s next Quest Pro might be a team-up with LG](https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor)
  - [How LLMs like GPT-4 can be an equalizing technology in some cases, boosting less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
  - [The best T-Mobile deals of September 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
  - [Razer&#39;s Compact BlackWidow V3 Mechanical Keyboard Is 45% Off at Amazon     - CNET](https://www.cnet.com/deals/razers-compact-blackwidow-v3-mechanical-keyboard-is-45-off-at-amazon/#ftag=CAD590a51e)
- - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)
- - [Climate Change Has Finally Come For Burning Man](https://www.wired.com/story/climate-change-has-finally-come-for-burning-man/)<!-- TECH:END -->
+ - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

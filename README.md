@@ -150,7 +150,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How to set up recurring Apple Pay Cash payments in iOS 17](https://appleinsider.com/articles/23/09/04/how-to-set-up-recurring-apple-pay-cash-payments-in-ios-17?utm_medium=rss)
  - [Google has an uphill battle with the Pixel 8, if these leaked prices are correct](https://www.androidauthority.com/pixel-8-price-increase-3360895/)
  - [China&#39;s app rule changes applied everywhere but the App Store](https://appleinsider.com/articles/23/09/04/chinas-app-rule-changes-applied-everywhere-but-the-app-store?utm_medium=rss)
- - [Today is the final day to get a 9-inch Apple CarPlay display for $104.99](https://appleinsider.com/articles/23/09/04/today-is-the-final-day-to-get-a-9-inch-apple-carplay-display-for-10499?utm_medium=rss)<!-- TECH:END -->
+ - [Labor Day Discount on the Roomba i4 Evo Robot Vacuum Offers Nearly Half Off     - CNET](https://www.cnet.com/deals/labor-day-discount-roomba-i4-nearly-half-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

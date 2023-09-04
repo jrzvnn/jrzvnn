@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 💣 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
- - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
+ - 😝 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)
+ - 😝 [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
+ - 💣 [9gagers on the way to Donbas to drop SUVs for paramedics](http://9gag.com/gag/aA0qwz2)
+ - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 👉 [A smile from above :&rpar;](http://9gag.com/gag/a8qQpPO)<!-- MEMES:END -->
 
 ---
 </div>

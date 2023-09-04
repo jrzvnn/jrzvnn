@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Apple executives Susan Prescott and Steve Sinclair on building apps for the Vision Pro and how Apple is trying to lure developers to make apps &lpar;Alex Blake/Digital Trends&rpar;](http://www.techmeme.com/230904/p5#a230904p5)
  - [The Battle Over Books3 Could Change AI Forever](https://www.wired.com/story/battle-over-books3/)
  - [CCData: the stablecoin market contracted 0.4% to ~$125B in August, the 17th straight month of decline, reflecting low trading volumes and reduced DeFi activity &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230904/p4#a230904p4)
  - [Final Fantasy XVI is getting a PC port and two DLC expansions](https://www.theverge.com/2023/9/4/23858209/final-fantasy-16-windows-pc-port-dlc-expansions-announcement)
- - [The London Stock Exchange plans to add a blockchain-based digital assets business after a year of testing, but is &quot;not building anything around cryptoassets&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230904/p3#a230904p3)
- - [Samsung Galaxy Tab S9 FE: Release date, price, specs, rumors, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)<!-- TECH:END -->
+ - [The London Stock Exchange plans to add a blockchain-based digital assets business after a year of testing, but is &quot;not building anything around cryptoassets&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230904/p3#a230904p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

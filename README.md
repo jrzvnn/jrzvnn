@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could bring spatial photos to &#39;iPhone Ultra&#39; after Vision Pro release](https://appleinsider.com/articles/23/09/04/apple-could-bring-spatial-photos-to-iphone-ultra-after-vision-pro-release?utm_medium=rss)
+ - [Prepare for unexpected power outages with these essential safety tips from Bluetti](https://appleinsider.com/articles/23/09/04/prepare-for-unexpected-power-outages-with-these-essential-safety-tips-from-bluetti?utm_medium=rss)
  - [Q&amp;A with Bethesda Head of Publishing Pete Hines on releasing Starfield, working with Microsoft, Game Pass, triple-A games in 2023, debugging Starfield, and more &lpar;Matt Poskitt/GamesIndustry.biz&rpar;](http://www.techmeme.com/230904/p9#a230904p9)
  - [Strong iPhone 15 sales could see Apple overtake Samsung](https://appleinsider.com/articles/23/09/04/strong-iphone-15-sales-could-see-apple-overtake-samsung?utm_medium=rss)
- - [NFL 2023: How to Watch and Stream Games, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)
- - [Best Cheap Phone Plans for September 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
- - [The Aftermath of a &#39;Miracle Cure&#39; for a Rare Cancer](https://www.wired.com/story/tyranny-of-the-gene-james-tabery-excerpt/)<!-- TECH:END -->
+ - [NFL 2023: How to Watch and Stream Games, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

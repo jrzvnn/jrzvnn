@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score a free Samsung Galaxy Tab S9 storage upgrade for Labor Day](https://www.androidauthority.com/samsung-galaxy-tab-s9-deal-3360944/)
  - [57 Best Labor Day Deals &lpar;2023&rpar;: Grills, Vacuums, Mechanical Keyboards](https://www.wired.com/story/best-labor-day-deals-2023-3/)
  - [This robot vacuum mop may solve the problem of dirty docks](https://www.theverge.com/2023/9/4/23853479/hands-on-switchbot-s10-robot-vacuum-mop-ifa-2023)
  - [All the smart home news from a bumper IFA Berlin trade show on the AppleInsider podcast](https://appleinsider.com/articles/23/09/04/all-the-smart-home-news-from-a-bumper-ifa-berlin-trade-show-on-the-appleinsider-podcast?utm_medium=rss)
- - [Filing: Paytm founder Vijay Shekhar Sharma became the biggest investor in the company, with a 19.42% stake, after he acquired shares from China&#39;s Ant Group &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230904/p10#a230904p10)
- - [Labor Day deals: MacBook Air $582, Eve Weather Station $57, Samsung M8 monitor $339, more](https://appleinsider.com/articles/23/09/04/labor-day-deals-macbook-air-582-eve-weather-station-57-samsung-m8-monitor-339-more?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Paytm founder Vijay Shekhar Sharma became the biggest investor in the company, with a 19.42% stake, after he acquired shares from China&#39;s Ant Group &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230904/p10#a230904p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

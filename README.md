@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The HONOR Magic V2 could be cheaper than Z Fold 5, Pixel Fold](https://www.androidauthority.com/honor-magic-v2-price-hint-3360792/)
+ - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 4&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
  - [India’s IITs Are a Golden Ticket With a Dark Side](https://www.wired.com/story/indias-elite-tech-schools-are-a-golden-ticket-with-a-dark-side/)
  - [New Pixel Buds Pro colors could be coming to Pixel fall launch](https://www.androidauthority.com/google-pixel-buds-pro-new-colors-3359239/)
- - [Pixel 8, Pixel 8 Pro European prices leak for all storage versions](https://www.androidauthority.com/pixel-8-pixel-8-pro-prices-leak-3360776/)
- - [QD-OLED vs. OLED: How do they compare and which one to buy?](https://www.androidauthority.com/qd-oled-vs-oled-3360777/)
- - [How startups offering AI-powered cameras, tree-mounted sensors, water-dumping drones, satellite data, and more are helping prevent, detect, and fight wildfires &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230903/p10#a230903p10)<!-- TECH:END -->
+ - [Pixel 8, Pixel 8 Pro European prices leak for all storage versions](https://www.androidauthority.com/pixel-8-pixel-8-pro-prices-leak-3360776/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,7 +155,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)
+ - 😝 [The German Chancellor fell and hurt his eye while jogging. Now he has to wear an eyepatch. His reaction: `I&#39;m eager to see all the memes about that`](http://9gag.com/gag/avQ4rVn)
  - 😝 [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
  - 💣 [9gagers on the way to Donbas to drop SUVs for paramedics](http://9gag.com/gag/aA0qwz2)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)

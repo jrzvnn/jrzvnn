@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google has an uphill battle with the Pixel 8, if these leaked prices are correct](https://www.androidauthority.com/pixel-8-price-increase-3360895/)
+ - [China&#39;s app rule changes applied everywhere but the App Store](https://appleinsider.com/articles/23/09/04/chinas-app-rule-changes-applied-everywhere-but-the-app-store?utm_medium=rss)
  - [Today is the final day to get a 9-inch Apple CarPlay display for $104.99](https://appleinsider.com/articles/23/09/04/today-is-the-final-day-to-get-a-9-inch-apple-carplay-display-for-10499?utm_medium=rss)
  - [New Godzilla Minus One trailer takes the kaiju king back to his metaphorical roots](https://www.theverge.com/2023/9/4/23858294/godzilla-minus-one-trailer)
- - [Poll: Do you wear ANC headphones/earbuds without playing anything?](https://www.androidauthority.com/wear-anc-headphones-earbuds-without-playing-poll-3360902/)
- - [Apple could bring spatial photos to &#39;iPhone Ultra&#39; after Vision Pro release](https://appleinsider.com/articles/23/09/04/apple-could-bring-spatial-photos-to-iphone-ultra-after-vision-pro-release?utm_medium=rss)
- - [Prepare for unexpected power outages with these essential safety tips from Bluetti](https://appleinsider.com/articles/23/09/04/prepare-for-unexpected-power-outages-with-these-essential-safety-tips-from-bluetti?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Do you wear ANC headphones/earbuds without playing anything?](https://www.androidauthority.com/wear-anc-headphones-earbuds-without-playing-poll-3360902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

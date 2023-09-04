@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The German Chancellor fell and hurt his eye while jogging. Now he has to wear an eyepatch. His reaction: `I&#39;m eager to see all the memes about that`](http://9gag.com/gag/avQ4rVn)
- - 😝 [Have a good day man!](http://9gag.com/gag/aqeBrvQ)
- - 💣 [9gagers on the way to Donbas to drop SUVs for paramedics](http://9gag.com/gag/aA0qwz2)
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 💣 [Confiscator](http://9gag.com/gag/aXnQX6b)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [A smile from above :&rpar;](http://9gag.com/gag/a8qQpPO)<!-- MEMES:END -->
+ - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Tab S9 FE European prices leak: Bad news for the fans?](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-series-europe-price-3360807/)
  - [A look at Optima Academy Online, an all-virtual school launched in 2022 that lets US parents opt out of public school by putting their kid in a Meta Quest 2 &lpar;Emma Green/New Yorker&rpar;](http://www.techmeme.com/230904/p1#a230904p1)
  - [The HONOR Magic V2 could be cheaper than Z Fold 5, Pixel Fold](https://www.androidauthority.com/honor-magic-v2-price-hint-3360792/)
  - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 4&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [India’s IITs Are a Golden Ticket With a Dark Side](https://www.wired.com/story/indias-elite-tech-schools-are-a-golden-ticket-with-a-dark-side/)
- - [New Pixel Buds Pro colors could be coming to Pixel fall launch](https://www.androidauthority.com/google-pixel-buds-pro-new-colors-3359239/)<!-- TECH:END -->
+ - [India’s IITs Are a Golden Ticket With a Dark Side](https://www.wired.com/story/indias-elite-tech-schools-are-a-golden-ticket-with-a-dark-side/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

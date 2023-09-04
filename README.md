@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Labor Day sales happening now](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
  - [All the smart home news from a bumper IFA Berlin trade show on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/04/all-the-smart-home-news-from-a-bumper-ifa-berlin-trade-show-on-the-appleinsider-podcast?utm_medium=rss)
  - [Score a free Samsung Galaxy Tab S9 storage upgrade for Labor Day](https://www.androidauthority.com/samsung-galaxy-tab-s9-deal-3360944/)
  - [57 Best Labor Day Deals &lpar;2023&rpar;: Grills, Vacuums, Mechanical Keyboards](https://www.wired.com/story/best-labor-day-deals-2023-3/)
- - [Emergency Alert System Will Be Tested on Your Phone and TV in October     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-system-will-be-tested-on-your-phone-and-tv-in-october/#ftag=CAD590a51e)
- - [This robot vacuum mop may solve the problem of dirty docks](https://www.theverge.com/2023/9/4/23853479/hands-on-switchbot-s10-robot-vacuum-mop-ifa-2023)<!-- TECH:END -->
+ - [Emergency Alert System Will Be Tested on Your Phone and TV in October     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-system-will-be-tested-on-your-phone-and-tv-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

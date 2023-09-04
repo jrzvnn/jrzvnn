@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: Spotify raises the listener threshold for creators in Ambassador Ads from 100 to 1,000 over 60 days, and plans to cut ad support for white noise podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/230904/p12#a230904p12)
  - [Best Smart Soundbar of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-soundbar/#ftag=CAD590a51e)
  - [Meta’s next Quest Pro might be a team-up with LG](https://www.theverge.com/2023/9/4/23858650/meta-quest-pro-lg-partnership-release-date-pricing-rumor)
  - [How LLMs like GPT-4 can have an equalizing effect in some cases, boosting the less-skilled workers and potentially leveling the human-capital playing field &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/230904/p11#a230904p11)
- - [The best T-Mobile deals of September 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best T-Mobile deals of September 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A timeless classic](http://9gag.com/gag/adPrYBd)
- - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 💣 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 👉 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)<!-- MEMES:END -->
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
+ - 💣 [Nobody reads this](http://9gag.com/gag/a6q4LDR)
+ - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
+ - 👉 [Is this fair?](http://9gag.com/gag/az2oj6K)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 😝 [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 💣 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 😝 [Someone is gonna have the worst day of their life](http://9gag.com/gag/aPgzW8n)
+ - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 💣 [9gagger kids &lpar;0:57&rpar;](http://9gag.com/gag/aoKApqx)
  - 😝 [Just a heads-up](http://9gag.com/gag/aBdjreP)
  - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
 

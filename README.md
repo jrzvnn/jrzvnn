@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody reads this](http://9gag.com/gag/a6q4LDR)
  - 😝 [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
- - 💣 [Cute dress](http://9gag.com/gag/aVb4epO)
- - 😝 [Is this fair?](http://9gag.com/gag/az2oj6K)
- - 👉 [The hero that Philly deserves](http://9gag.com/gag/amAKzYd)<!-- MEMES:END -->
+ - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
+ - 💣 [Is this fair?](http://9gag.com/gag/az2oj6K)
+ - 😝 [The hero that Philly deserves](http://9gag.com/gag/amAKzYd)
+ - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
 
 ---
 </div>

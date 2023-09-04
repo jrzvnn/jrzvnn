@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Strong iPhone 15 sales could see Apple overtake Samsung](https://appleinsider.com/articles/23/09/04/strong-iphone-15-sales-could-see-apple-overtake-samsung?utm_medium=rss)
+ - [The Aftermath of a &#39;Miracle Cure&#39; for a Rare Cancer](https://www.wired.com/story/tyranny-of-the-gene-james-tabery-excerpt/)
  - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)
  - [Spotify is reportedly limiting ad payouts for white noise podcasters](https://www.theverge.com/2023/9/4/23858268/spotify-ambient-white-noise-podcasts-ad-revenue-crackdown)
- - [A first look at Atmos FlexConnect, Dolby’s latest attempt to fix bad TV audio](https://www.theverge.com/2023/9/4/23858244/dolby-atmos-flexconnect-hands-on-tcl-spatial-audio-speakers)
- - [The Huawei Mate 60 Pro&#39;s 7nm Kirin 9000s chip, made by SMIC, is an evolutionary rather than revolutionary development and shows US curbs are porous, not useless &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230904/p8#a230904p8)
- - [Thief decides iPhone is worth more than dentistry, chews through security cable](https://appleinsider.com/articles/23/09/04/thief-decides-iphone-is-worth-more-than-dentistry-chews-through-security-cable?utm_medium=rss)<!-- TECH:END -->
+ - [A first look at Atmos FlexConnect, Dolby’s latest attempt to fix bad TV audio](https://www.theverge.com/2023/9/4/23858244/dolby-atmos-flexconnect-hands-on-tcl-spatial-audio-speakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Pixel Buds Pro colors are coming to Pixel fall launch](https://www.androidauthority.com/google-pixel-buds-pro-new-colors-3359239/)
  - [Pixel 8, Pixel 8 Pro European prices leak for all storage versions](https://www.androidauthority.com/pixel-8-pixel-8-pro-prices-leak-3360776/)
  - [QD-OLED vs. OLED: How do they compare and which one to buy?](https://www.androidauthority.com/qd-oled-vs-oled-3360777/)
  - [How startups offering AI-powered cameras, tree-mounted sensors, water-dumping drones, satellite data, and more are helping prevent, detect, and fight wildfires &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230903/p10#a230903p10)
- - [27 Best Labor Day Mattress and Sheet Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-2/)
- - [After ADL&#39;s CEO noted talking to X CEO Yaccarino last week, anti-Semitic X posts surged and #BanTheADL trended as Elon Musk replied to and liked far-right posts &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230903/p9#a230903p9)<!-- TECH:END -->
+ - [27 Best Labor Day Mattress and Sheet Deals: Hybrid Beds, Budget, Innerspring](https://www.wired.com/story/best-labor-day-mattress-deals-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

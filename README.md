@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg, it\u2019s so true](http://9gag.com/gag/a6q4QeL)
- - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
- - 💣 [Is this fair?](http://9gag.com/gag/az2oj6K)
- - 😝 [The hero that Philly deserves](http://9gag.com/gag/amAKzYd)
- - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
+ - 😝 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)
+ - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple working on radical iMac redesign using single sheet of glass](https://appleinsider.com/articles/20/01/24/apple-working-on-radical-imac-redesign-using-single-sheet-of-glass?utm_medium=rss)
- - [How to set up recurring Apple Pay Cash payments in iOS 17](https://appleinsider.com/articles/23/09/04/how-to-set-up-recurring-apple-pay-cash-payments-in-ios-17?utm_medium=rss)
- - [Google has an uphill battle with the Pixel 8, if these leaked prices are correct](https://www.androidauthority.com/pixel-8-price-increase-3360895/)
- - [China&#39;s app rule changes applied everywhere but the App Store](https://appleinsider.com/articles/23/09/04/chinas-app-rule-changes-applied-everywhere-but-the-app-store?utm_medium=rss)
- - [Labor Day Discount on the Roomba i4 Evo Robot Vacuum Offers Nearly Half Off     - CNET](https://www.cnet.com/deals/labor-day-discount-roomba-i4-nearly-half-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the smart home news from a bumper IFA Berlin trade show on the AppleInsider podcast](https://appleinsider.com/articles/23/09/04/all-the-smart-home-news-from-a-bumper-ifa-berlin-trade-show-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Filing: Paytm founder Vijay Shekhar Sharma became the biggest investor in the company, with a 19.42% stake, after he acquired shares from China&#39;s Ant Group &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230904/p10#a230904p10)
+ - [Labor Day deals: MacBook Air $582, Eve Weather Station $57, Samsung M8 monitor $339, more](https://appleinsider.com/articles/23/09/04/labor-day-deals-macbook-air-582-eve-weather-station-57-samsung-m8-monitor-339-more?utm_medium=rss)
+ - [The Audi Q6 E-tron has three screens taking up the entire dashboard](https://www.theverge.com/2023/9/4/23858320/audi-q6-e-tron-dashboard-screen-digital-stage)
+ - [Apple working on radical iMac redesign using single sheet of glass](https://appleinsider.com/articles/20/01/24/apple-working-on-radical-imac-redesign-using-single-sheet-of-glass?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

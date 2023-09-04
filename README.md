@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Q&amp;A with Bethesda Head of Publishing Pete Hines on releasing Starfield, working with Microsoft, Game Pass, triple-A games in 2023, debugging Starfield, and more &lpar;Matt Poskitt/GamesIndustry.biz&rpar;](http://www.techmeme.com/230904/p9#a230904p9)
  - [Strong iPhone 15 sales could see Apple overtake Samsung](https://appleinsider.com/articles/23/09/04/strong-iphone-15-sales-could-see-apple-overtake-samsung?utm_medium=rss)
- - [The Aftermath of a &#39;Miracle Cure&#39; for a Rare Cancer](https://www.wired.com/story/tyranny-of-the-gene-james-tabery-excerpt/)
- - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)
- - [Spotify is reportedly limiting ad payouts for white noise podcasters](https://www.theverge.com/2023/9/4/23858268/spotify-ambient-white-noise-podcasts-ad-revenue-crackdown)<!-- TECH:END -->
+ - [NFL 2023: How to Watch and Stream Games, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)
+ - [Best Cheap Phone Plans for September 2023     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
+ - [The Aftermath of a &#39;Miracle Cure&#39; for a Rare Cancer](https://www.wired.com/story/tyranny-of-the-gene-james-tabery-excerpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

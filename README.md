@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone is gonna have the worst day of their life](http://9gag.com/gag/aPgzW8n)
- - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 💣 [9gagger kids &lpar;0:57&rpar;](http://9gag.com/gag/aoKApqx)
  - 😝 [Just a heads-up](http://9gag.com/gag/aBdjreP)
- - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 💣 [Someone is gonna have the worst day of their life](http://9gag.com/gag/aPgzW8n)
+ - 😝 [IPhone 7 release at Apple store in Denmark](http://9gag.com/gag/anz81m5)
+ - 👉 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)<!-- MEMES:END -->
 
 ---
 </div>

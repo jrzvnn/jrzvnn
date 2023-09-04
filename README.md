@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 💣 [Confiscator](http://9gag.com/gag/aXnQX6b)
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
+ - 💣 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)
+ - 😝 [A couple who bought their dream home were shocked to discover a huge pool underneath the floorboards. Mountain Home, Arkansas. USA.](http://9gag.com/gag/amAKr16)
+ - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
 
 ---
 </div>

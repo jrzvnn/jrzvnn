@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
  - 😝 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)
+ - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
  - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
 
 ---

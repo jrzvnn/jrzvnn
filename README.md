@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 😝 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)
+ - 💣 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
  - 😝 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)
- - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
+ - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
 
 ---
 </div>

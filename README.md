@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pixel Buds Pro colors are coming to Pixel fall launch](https://www.androidauthority.com/google-pixel-buds-pro-new-colors-3359239/)
+ - [New Pixel Buds Pro colors could be coming to Pixel fall launch](https://www.androidauthority.com/google-pixel-buds-pro-new-colors-3359239/)
  - [Pixel 8, Pixel 8 Pro European prices leak for all storage versions](https://www.androidauthority.com/pixel-8-pixel-8-pro-prices-leak-3360776/)
  - [QD-OLED vs. OLED: How do they compare and which one to buy?](https://www.androidauthority.com/qd-oled-vs-oled-3360777/)
  - [How startups offering AI-powered cameras, tree-mounted sensors, water-dumping drones, satellite data, and more are helping prevent, detect, and fight wildfires &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230903/p10#a230903p10)

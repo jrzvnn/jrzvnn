@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute dress](http://9gag.com/gag/aVb4epO)
  - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 💣 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 😝 [Mumble rap \ud83d\udc4e\ud83c\udffb](http://9gag.com/gag/aPgzWVV)
- - 👉 [Well, Starfield seems to be bringing out some strong opinions in people...](http://9gag.com/gag/aNw8n73)<!-- MEMES:END -->
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 💣 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
 
 ---
 </div>

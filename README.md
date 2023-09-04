@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/abvKy6b)
- - 😝 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 💣 [Grade 7 teacher with her students](http://9gag.com/gag/a8qQWzO)
+ - 😝 [Just a heads-up](http://9gag.com/gag/aBdjreP)
+ - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 💣 [Confiscator](http://9gag.com/gag/aXnQX6b)
  - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
  - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How long do iPhones last? How long should you use your iPhone for?](https://www.androidauthority.com/how-long-do-iphones-last-3359069/)
+ - [Hands-on with the Withings ScanWatch 2: A new hybrid hero emerges](https://www.androidauthority.com/withings-scanwatch-2-hands-on-3360663/)
  - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
  - [TechInsights teardown: Huawei&#39;s Mate 60 Pro uses a new Kirin 9000s chip that was fabricated in China by SMIC using a 7nm process, a blow to US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/230904/p7#a230904p7)
- - [India says AirTag &#39;digital terror&#39; is first stalking case in country](https://appleinsider.com/articles/23/09/04/india-says-airtag-digital-terror-is-first-stalking-case-in-country?utm_medium=rss)
- - [You told us: You’re interested in a Snapdragon handheld that runs PC games](https://www.androidauthority.com/snapdragon-handheld-run-pc-games-poll-results-3360852/)
- - [Apple supply chain receives fewer iPhone 15 orders than iPhone 14](https://appleinsider.com/articles/23/09/04/apple-supply-chain-receives-fewer-iphone-15-orders-than-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [India says AirTag &#39;digital terror&#39; is first stalking case in country](https://appleinsider.com/articles/23/09/04/india-says-airtag-digital-terror-is-first-stalking-case-in-country?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

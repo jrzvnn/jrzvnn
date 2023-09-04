@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Godzilla Minus One trailer takes the kaiju king back to his metaphorical roots](https://www.theverge.com/2023/9/4/23858294/godzilla-minus-one-trailer)
+ - [Poll: Do you wear ANC headphones/earbuds without playing anything?](https://www.androidauthority.com/wear-anc-headphones-earbuds-without-playing-poll-3360902/)
  - [Apple could bring spatial photos to &#39;iPhone Ultra&#39; after Vision Pro release](https://appleinsider.com/articles/23/09/04/apple-could-bring-spatial-photos-to-iphone-ultra-after-vision-pro-release?utm_medium=rss)
  - [Prepare for unexpected power outages with these essential safety tips from Bluetti](https://appleinsider.com/articles/23/09/04/prepare-for-unexpected-power-outages-with-these-essential-safety-tips-from-bluetti?utm_medium=rss)
- - [Q&amp;A with Bethesda Head of Publishing Pete Hines on releasing Starfield, working with Microsoft, Game Pass, triple-A games in 2023, debugging Starfield, and more &lpar;Matt Poskitt/GamesIndustry.biz&rpar;](http://www.techmeme.com/230904/p9#a230904p9)
- - [Strong iPhone 15 sales could see Apple overtake Samsung](https://appleinsider.com/articles/23/09/04/strong-iphone-15-sales-could-see-apple-overtake-samsung?utm_medium=rss)
- - [NFL 2023: How to Watch and Stream Games, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Bethesda Head of Publishing Pete Hines on releasing Starfield, working with Microsoft, Game Pass, triple-A games in 2023, debugging Starfield, and more &lpar;Matt Poskitt/GamesIndustry.biz&rpar;](http://www.techmeme.com/230904/p9#a230904p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

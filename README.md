@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entering Harvard is really like buying a lottery ticket](http://9gag.com/gag/aRE9ewB)
+ - 😝 [Cool spiderman cosplay](http://9gag.com/gag/a3ZeLy1)
  - 😝 [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)
- - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 💣 [Entering Harvard is really like buying a lottery ticket](http://9gag.com/gag/aRE9ewB)
+ - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
  - 👉 [A great explanation](http://9gag.com/gag/abvKbw8)<!-- MEMES:END -->
 
 ---

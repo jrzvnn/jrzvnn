@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 💣 [Starboring](http://9gag.com/gag/a8qQY2Z)
- - 😝 [Claire Sinclair](http://9gag.com/gag/aDYr0pG)
- - 👉 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)<!-- MEMES:END -->
+ - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 😝 [Title](http://9gag.com/gag/aDYr0eK)
+ - 💣 [Actual text from idiot](http://9gag.com/gag/aOxAyEv)
+ - 😝 [Ever seen an rabbid fox? Scary](http://9gag.com/gag/a8qQY4Q)
+ - 👉 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)<!-- MEMES:END -->
 
 ---
 </div>

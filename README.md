@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk threatens filing a defamation suit against the ADL for &quot;falsely accusing&quot; X and him of being anti-Semitic, and blames the ADL for X&#39;s US ad sales drop &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230904/p15#a230904p15)
  - [Report: Meta has partnered with LG to launch a new Quest Pro in 2025 to compete with Apple&#39;s Vision Pro; Meta also plans to release a sub-$200 headset in 2024 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230904/p14#a230904p14)
  - [Apple and Microsoft reportedly want iMessage and Bing off the EU’s tech ‘gatekeeper’ list](https://www.theverge.com/2023/9/4/23858948/eu-microsoft-apple-bing-imessage-dma-gatekeepers-list-dispute)
  - [Best Xbox Cloud Gaming Controllers and Accessories in 2023     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
- - [Sources: Apple and Microsoft have argued that iMessage and Bing are insufficiently popular to be designated &quot;gatekeepers&quot; set to be regulated under the EU&#39;s DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230904/p13#a230904p13)
- - [Apple allegedly arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple and Microsoft have argued that iMessage and Bing are insufficiently popular to be designated &quot;gatekeepers&quot; set to be regulated under the EU&#39;s DMA &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230904/p13#a230904p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

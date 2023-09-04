@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a heads-up](http://9gag.com/gag/aBdjreP)
- - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 💣 [Confiscator](http://9gag.com/gag/aXnQX6b)
- - 😝 [You know the rules.](http://9gag.com/gag/ajVGnQx)
- - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
+ - 😝 [Entering Harvard is really like buying a lottery ticket](http://9gag.com/gag/aRE9ewB)
+ - 😝 [Knowledge to any dudes in here](http://9gag.com/gag/avQ4LV5)
+ - 💣 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 👉 [A great explanation](http://9gag.com/gag/abvKbw8)<!-- MEMES:END -->
 
 ---
 </div>

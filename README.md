@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Just a heads-up](http://9gag.com/gag/aBdjreP)
- - 😝 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
- - 💣 [Someone is gonna have the worst day of their life](http://9gag.com/gag/aPgzW8n)
  - 😝 [IPhone 7 release at Apple store in Denmark](http://9gag.com/gag/anz81m5)
- - 👉 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)<!-- MEMES:END -->
+ - 💣 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)
+ - 😝 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 👉 [Would you jump in for 10 million dollars?](http://9gag.com/gag/a3Ze3ne)<!-- MEMES:END -->
 
 ---
 </div>

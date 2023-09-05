@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
- - 😝 [Connect five](http://9gag.com/gag/aYVZ4P2)
- - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 👉 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)<!-- MEMES:END -->
+ - 😝 [Pain.](http://9gag.com/gag/aA0qwzg)
+ - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
+ - 💣 [Connect five](http://9gag.com/gag/aYVZ4P2)
+ - 😝 [Lois had no chill](http://9gag.com/gag/a2K94xe)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 </div>

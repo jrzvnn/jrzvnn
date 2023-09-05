@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch chipmaker NXP alerts customers to a breach involving their personal data, discovered on July 14; NXP declines to say how many customers had been impacted &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230905/p18#a230905p18)
  - [Visa expands its USDC stablecoin settlements to Solana, partnering with Worldpay and Nuvei for pilots, and has already moved millions of USDC via VisaNet &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230905/p17#a230905p17)
  - [The best Android retro gaming handhelds you can buy](https://www.androidauthority.com/best-android-retro-gaming-handhelds-3360856/)
  - [Meta plans to eliminate the Facebook News tab in the UK, France, and Germany in early December 2023 and won&#39;t sign new deals for news content in those countries &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230905/p16#a230905p16)
- - [PowerA is adding the wrong kind of wireless to its wired Xbox controller](https://www.theverge.com/2023/9/5/23852669/powera-advantage-wired-controller-lumectra-rgb-xbox-series-pc-price-specs)
- - [Facebook’s unloved ‘News’ tab is going away in Europe](https://www.theverge.com/2023/9/5/23859463/facebooks-news-tab-europe-reels)<!-- TECH:END -->
+ - [PowerA is adding the wrong kind of wireless to its wired Xbox controller](https://www.theverge.com/2023/9/5/23852669/powera-advantage-wired-controller-lumectra-rgb-xbox-series-pc-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

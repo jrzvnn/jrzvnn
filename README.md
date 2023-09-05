@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is testing making lyrics a Premium-only feature](https://www.theverge.com/2023/9/5/23860124/spotify-lyrics-premium-only-feature)
- - [Meta is back in the office three days a week, as WFH continues to die](https://www.theverge.com/2023/9/5/23860073/meta-return-to-office-three-days-wfh-work-from-home)
- - [Best Grills for 2023     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill/#ftag=CAD590a51e)
- - [AirTag and Find My helps traveler bust Brussels theft ring](https://appleinsider.com/articles/23/09/05/airtag-and-find-my-helps-traveler-bust-brussels-theft-ring?utm_medium=rss)
- - [Streaming on Max: The 24 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-24-absolute-best-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Labor Day deals you can still grab at Amazon and elsewhere](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)
+ - [Future visionOS developer beta will get the App Store](https://appleinsider.com/articles/23/09/05/future-visionos-developer-beta-will-get-the-app-store?utm_medium=rss)
+ - [Apple iPhone 15 countdown: Apple&#39;s &#39;Wanderlust&#39; YouTube event page is now live](https://appleinsider.com/articles/23/09/05/apple-iphone-15-countdown-apples-wanderlust-youtube-event-page-is-now-live?utm_medium=rss)
+ - [How to disable Chrome’s new targeted ad tracking](https://www.theverge.com/23860050/chrome-ads-topics-sandbox)
+ - [Spotify is testing making lyrics a Premium-only feature](https://www.theverge.com/2023/9/5/23860124/spotify-lyrics-premium-only-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

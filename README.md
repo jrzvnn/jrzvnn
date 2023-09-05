@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
- - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
+ - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 💣 [Who are you??](http://9gag.com/gag/aMED876)
+ - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 👉 [Candice](http://9gag.com/gag/aOxAV9M)<!-- MEMES:END -->
 
 ---
 </div>

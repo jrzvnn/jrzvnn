@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)<!-- MEMES:END -->
+ - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 💣 [Women](http://9gag.com/gag/avQ4O8O)
+ - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
+ - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
 
 ---
 </div>

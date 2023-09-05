@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long showers have meaning](http://9gag.com/gag/aQEBMv2)
- - 😝 [After raping a 12 year old girl while he was in college, Karl Malone went on to avoid punishment and play in the NBA](http://9gag.com/gag/aVb4eN2)
- - 💣 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
- - 😝 [Women](http://9gag.com/gag/avQ4O8O)
- - 👉 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)<!-- MEMES:END -->
+ - 😝 [Connect five](http://9gag.com/gag/aYVZ4P2)
+ - 😝 [Who are you??](http://9gag.com/gag/aMED876)
+ - 💣 [Lois had no chill](http://9gag.com/gag/a2K94xe)
+ - 😝 [Pain.](http://9gag.com/gag/aA0qwzg)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
+ - 😝 [I&#39;m gonna do that too when I break up......if I only had one](http://9gag.com/gag/aoKA2RX)
+ - 😝 [I have been working on dinosaur&#39;s animation for a bit of time, and I was wondering if 9gag&#39;s community would be interested to see my work. Thank you.](http://9gag.com/gag/aQEBeXr)
+ - 💣 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
+ - 😝 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
+ - 👉 [Billionaires asking money is disgusting. Oprah and The Rock hire private firemen.](http://9gag.com/gag/aEqyBPo)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify is testing making lyrics a Premium-only feature](https://www.theverge.com/2023/9/5/23860124/spotify-lyrics-premium-only-feature)
  - [Meta is back in the office three days a week, as WFH continues to die](https://www.theverge.com/2023/9/5/23860073/meta-return-to-office-three-days-wfh-work-from-home)
+ - [Best Grills for 2023     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill/#ftag=CAD590a51e)
  - [AirTag and Find My helps traveler bust Brussels theft ring](https://appleinsider.com/articles/23/09/05/airtag-and-find-my-helps-traveler-bust-brussels-theft-ring?utm_medium=rss)
- - [Baldur’s Gate 3: all the news and updates on one of the best RPGs of the year](https://www.theverge.com/2023/9/5/23860060/baldurs-gate-3-news-reviews-updates)
- - [Reddit’s replacement mods may be putting its communities at risk](https://www.theverge.com/2023/9/5/23859712/reddit-new-moderators-no-expertise-safety-misinformation-protest)
- - [Baldur’s Gate 3 will defy everyone’s wishes, make characters less horny](https://www.theverge.com/2023/9/5/23859759/baldurs-gate-three-romance-bug-horny-companions)<!-- TECH:END -->
+ - [Streaming on Max: The 24 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-24-absolute-best-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

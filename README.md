@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy XVI just received a free content update and is now $20 off](https://www.theverge.com/2023/9/5/23859223/final-fantasy-xvi-amazfit-band-7-samsung-galaxy-z-fold-5-deal-sale)
- - [Volkswagen’s electric GTI concept teases the future of hot hatches](https://www.theverge.com/2023/9/5/23859546/volkswagen-electric-gti-concept-photos-specs-hot-hatch)
- - [The multiplayer in Baldur’s Gate 3 sorely needs a dungeon master](https://www.theverge.com/23853139/baldurs-gate-3-multiplayer)
- - [How Afripods is trying to grow the podcast market in Africa](https://www.theverge.com/2023/9/5/23859798/afripods-broadcast-to-podcast-kevin-brown-africa-podcast-market-hot-pod)
- - [Sources: over half of the 14 authors of Meta&#39;s original Llama research paper from February quit over battles for compute resources, a hot job market, and more &lpar;The Information&rpar;](http://www.techmeme.com/230905/p23#a230905p23)<!-- TECH:END -->
+ - [Google is making the Android logo more dynamic and playful](https://www.androidauthority.com/google-android-new-bugdroid-logo-wordmark-3360879/)
+ - [Feature Drops aren’t just for Pixels anymore as Android Feature Drop lands](https://www.androidauthority.com/first-android-feature-drop-3360784/)
+ - [Google Freshens Up Its Android Brand and Drops New Features](https://www.wired.com/story/google-rebrands-android-feature-drop/)
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [Google’s latest Android feature updates come with a refreshed logo](https://www.theverge.com/2023/9/5/23854729/google-android-logo-update-quarterly-feature-drop-at-a-glance-widget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

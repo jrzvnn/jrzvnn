@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China plans to launch a new state-backed fund that aims to raise ~$41B for its chip sector, larger than the ~$19B and ~$27B funds from 2014 and 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/230905/p5#a230905p5)
- - [iPhone 15: Could Apple Push Prices Higher This Fall?     - CNET](https://www.cnet.com/tech/mobile/iphone-15-could-apple-push-prices-higher-this-fall/#ftag=CAD590a51e)
- - [Reddit hastily replacing some of its long-time mods raises questions about the company prioritizing reopening protesting subreddits over finding the best people &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230905/p4#a230905p4)
- - [Copyright activists are working to wipe Books3 from the internet, which may only benefit the big companies that have already been using the AI training dataset &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230905/p3#a230905p3)
- - [Apple says iMessage isn’t popular enough to play nice with other apps](https://www.androidauthority.com/apple-imessage-popular-gatekeeper-eu-3361088/)<!-- TECH:END -->
+ - [Indian telecoms giants Jio, Airtel, and Vodafone-Idea ask regulators to consider forcing internet companies to pay for network usage, echoing efforts globally &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230905/p6#a230905p6)
+ - [Apple could be working on an affordable MacBook to rival Chromebooks](https://www.androidauthority.com/apple-new-macbook-lineup-chromebook-competitor-3361110/)
+ - [The Mysterious Power of the Platform, the Internet’s Building Block](https://www.wired.com/story/glossary-platform-linguistics-philosophy/)
+ - [What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/)
+ - [The End of Airbnb in New York](https://www.wired.com/story/airbnb-ban-new-york-city/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

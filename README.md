@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India says AirTag &#39;digital terror&#39; is first stalking case in country](https://appleinsider.com/articles/23/09/04/india-says-airtag-digital-terror-is-first-stalking-case-in-country?utm_medium=rss)
+ - [AirTag and Find My helps traveler bust Brussels theft ring](https://appleinsider.com/articles/23/09/05/airtag-and-find-my-helps-traveler-bust-brussels-theft-ring?utm_medium=rss)
  - [Google releases a refreshed Android logo and grab bag of updates for its mobile app and services, including the At a Glance widget and Lookout app &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230905/p26#a230905p26)
  - [Ninth tvOS 17 beta build now available for developer testing](https://appleinsider.com/articles/23/09/05/ninth-tvos-17-beta-build-now-available-for-developer-testing?utm_medium=rss)
- - [United Airlines briefly pauses all flights nationwide for ‘technology issue’](https://www.theverge.com/2023/9/5/23860056/united-airlines-ground-stop-order-faa-technology)
- - [This SanDisk 512GB flash drive is a steal at 64% off](https://www.androidauthority.com/sandisk-512gb-flash-drive-deal-3361273/)
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [United Airlines briefly pauses all flights nationwide for ‘technology issue’](https://www.theverge.com/2023/9/5/23860056/united-airlines-ground-stop-order-faa-technology)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

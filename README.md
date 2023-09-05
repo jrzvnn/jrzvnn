@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 😝 [They are still in 1800s ....](http://9gag.com/gag/aGE60A5)
- - 💣 [Pain.](http://9gag.com/gag/aA0qwzg)
- - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 👉 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)<!-- MEMES:END -->
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 </div>

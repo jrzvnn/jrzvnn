@@ -157,9 +157,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
  - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 💣 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 💣 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
  - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 </div>

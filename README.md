@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 😝 [Who are you??](http://9gag.com/gag/aMED876)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [Who are you??](http://9gag.com/gag/aMED876)
- - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
  - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
 
 ---

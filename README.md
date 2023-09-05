@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)
+ - [Analysis: lawyers, accountants, consultants, and more have charged $700M+ in fees since 2022 in the bankruptcies of FTX, Celsius, Voyager, BlockFi, and Genesis &lpar;New York Times&rpar;](http://www.techmeme.com/230905/p12#a230905p12)
  - [Yeedi Cube review: a robot that vacuums, mops, and cleans itself](https://appleinsider.com/articles/23/09/05/yeedi-cube-review-a-robot-that-vacuums-mops-and-cleans-itself?utm_medium=rss)
  - [Aventon Aventure.2 Ebike Review: Fat Tires, Affordable, 60-Mile Range](https://www.wired.com/review/aventon-aventure2/)
- - [Weight-Loss Drugs Ozempic and Wegovy Can Also Protect the Heart](https://www.wired.com/story/weight-loss-drugs-ozempic-and-wegovy-can-also-protect-the-heart/)
- - [macOS Sonoma could be locked down with XProtect behavioral security](https://appleinsider.com/articles/23/09/05/macos-sonoma-could-be-secured-with-xprotect-behavioral-security?utm_medium=rss)
- - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)<!-- TECH:END -->
+ - [Weight-Loss Drugs Ozempic and Wegovy Can Also Protect the Heart](https://www.wired.com/story/weight-loss-drugs-ozempic-and-wegovy-can-also-protect-the-heart/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

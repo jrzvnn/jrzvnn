@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Coinbase has created a new crypto lending service in the US for institutional clients and has raised $57M for the program &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/230905/p32#a230905p32)
  - [Zoom is even less happy about Microsoft Teams than you are](https://www.theverge.com/2023/9/5/23860390/zoom-microsoft-teams-bundling-eu-regulation)
  - [Three Apple executives to serve as key witnesses at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/05/three-apple-executives-to-serve-as-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
  - [All 50 states call on Congress to address AI-generated CSAM](https://www.theverge.com/2023/9/5/23860412/ai-attorneys-general-50-states-congress-csam)
- - [Source: the FTC plans to file an antitrust lawsuit against Amazon later this month, after Amazon offered no concessions in an August meeting with FTC officials &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p31#a230905p31)
- - [Malicious attackers can flood iPhone users with endless popups using a $170 tool](https://appleinsider.com/articles/23/09/05/malicious-attackers-can-flood-iphone-users-with-endless-popups-using-a-170-tool?utm_medium=rss)<!-- TECH:END -->
+ - [Starfield: Xbox Game Pass, Release Date and Everything Else You Should Know     - CNET](https://www.cnet.com/tech/gaming/starfield-xbox-game-pass-release-date-and-everything-else-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 💣 [Who are you??](http://9gag.com/gag/aMED876)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 👉 [Women](http://9gag.com/gag/avQ4O8O)<!-- MEMES:END -->
+ - 💣 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
+ - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
 
 ---
 </div>

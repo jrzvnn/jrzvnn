@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a bid to please regulators, TikTok opens its first EU data center](https://www.theverge.com/2023/9/5/23859499/tiktok-first-eu-data-center-ireland-launch)
- - [Apple Arcade adds four games with 40 set for September updates](https://appleinsider.com/articles/23/09/05/apple-arcade-adds-four-games-with-40-set-for-september-updates?utm_medium=rss)
- - [The Burning Man Fiasco Is the Ultimate Tech Culture Clash](https://www.wired.com/story/burning-man-diplo-chris-rock-social-media-culture-clash/)
- - [&#39;Overworked and unhappy&#39; Apple Southampton store staff want to unionize](https://appleinsider.com/articles/23/09/05/overworked-and-unhappy-apple-southampton-store-staff-want-to-unionize?utm_medium=rss)
- - [Dutch chipmaker NXP alerts customers to a breach involving their personal data, discovered on July 14; NXP declines to say how many customers had been impacted &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230905/p18#a230905p18)<!-- TECH:END -->
+ - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)
+ - [BMW expands its deal with Amazon Web Services to include autonomous vehicle data](https://www.theverge.com/2023/9/5/23859450/bmw-aws-cloud-autonomous-driving-data)
+ - [How well does Starfield run on PC?](https://www.theverge.com/23855205/starfield-pc-performance-benchmarks-hands-on)
+ - [Antenna: MLS Season Pass had 110K US signups on July 21, the day of Messi&#39;s first MLS match, up from 6,143 on July 20; July was TV+&#39;s best signup month in 2023 &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p19#a230905p19)
+ - [In a bid to please regulators, TikTok opens its first EU data center](https://www.theverge.com/2023/9/5/23859499/tiktok-first-eu-data-center-ireland-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

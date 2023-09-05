@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Email: Genesis Global Trading plans to close its US-focused spot crypto trading platform on September 18 and all remaining open accounts by September 30&#39;s end &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230905/p27#a230905p27)
+ - [TikTok appears to be gearing up for a big push into messaging](https://www.theverge.com/2023/9/5/23860247/tiktok-social-messaging-job-listings)
  - [Amazon’s in-garage delivery service is going to cost a little extra for the convenience](https://www.theverge.com/2023/9/5/23860140/amazon-key-in-garage-delivery-day-fee)
  - [Nintendo isn’t revealing Mario’s new voice actor until Wonder comes out](https://www.theverge.com/23860180/mario-new-voice-actor-super-bros-wonder-nintendo)
- - [Cinebench can now test GPU power](https://www.theverge.com/2023/9/5/23859920/cinebench-2024-cpu-gpu-benchmark-release)
- - [The best UScellular deals of September 2023](https://www.androidauthority.com/best-us-cellular-deals-835558/)<!-- TECH:END -->
+ - [Cinebench can now test GPU power](https://www.theverge.com/2023/9/5/23859920/cinebench-2024-cpu-gpu-benchmark-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

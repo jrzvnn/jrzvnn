@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Genesis Global Trading plans to close its US-focused spot crypto trading platform on September 18 and all remaining open accounts by September 30&#39;s end &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230905/p27#a230905p27)
- - [TikTok appears to be gearing up for a big push into messaging](https://www.theverge.com/2023/9/5/23860247/tiktok-social-messaging-job-listings)
- - [Amazon’s in-garage delivery service is going to cost a little extra for the convenience](https://www.theverge.com/2023/9/5/23860140/amazon-key-in-garage-delivery-day-fee)
- - [Nintendo isn’t revealing Mario’s new voice actor until Wonder comes out](https://www.theverge.com/23860180/mario-new-voice-actor-super-bros-wonder-nintendo)
- - [Cinebench can now test GPU power](https://www.theverge.com/2023/9/5/23859920/cinebench-2024-cpu-gpu-benchmark-release)<!-- TECH:END -->
+ - [Apple says visionOS beta will include the App Store this fall and, by default, iPad and iPhone apps will be published automatically on the Vision Pro app store &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230905/p28#a230905p28)
+ - [iPhone and iPad apps will be available in the Vision Pro App Store by default](https://www.theverge.com/2023/9/5/23860335/apple-iphone-ipad-apps-vision-pro-app-store-default)
+ - [The Real Reason Bloody Marys Tastes so Good on an Airplane     - CNET](https://www.cnet.com/news/why-bloody-mary-tastes-so-much-better-on-an-airplane/#ftag=CAD590a51e)
+ - [Buy Narcan Online: Walgreens, CVS and More Stores Roll Out Easier Way to Get Lifesaving Drug     - CNET](https://www.cnet.com/health/medical/buy-narcan-online-walgreens-cvs-and-more-stores-roll-out-easier-way-to-get-lifesaving-drug/#ftag=CAD590a51e)
+ - [Email: Genesis Global Trading plans to close its US-focused spot crypto trading platform on September 18 and all remaining open accounts by September 30&#39;s end &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230905/p27#a230905p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

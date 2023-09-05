@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a bid to please regulators, TikTok opens its first EU data center](https://www.theverge.com/2023/9/5/23859499/tiktok-first-eu-data-center-ireland-launch)
+ - [Apple Arcade adds four games with 40 set for September updates](https://appleinsider.com/articles/23/09/05/apple-arcade-adds-four-games-with-40-set-for-september-updates?utm_medium=rss)
+ - [The Burning Man Fiasco Is the Ultimate Tech Culture Clash](https://www.wired.com/story/burning-man-diplo-chris-rock-social-media-culture-clash/)
  - [&#39;Overworked and unhappy&#39; Apple Southampton store staff want to unionize](https://appleinsider.com/articles/23/09/05/overworked-and-unhappy-apple-southampton-store-staff-want-to-unionize?utm_medium=rss)
- - [Dutch chipmaker NXP alerts customers to a breach involving their personal data, discovered on July 14; NXP declines to say how many customers had been impacted &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230905/p18#a230905p18)
- - [Visa expands its USDC stablecoin settlements to Solana, partnering with Worldpay and Nuvei for pilots, and has already moved millions of USDC via VisaNet &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230905/p17#a230905p17)
- - [The best Android retro gaming handhelds you can buy](https://www.androidauthority.com/best-android-retro-gaming-handhelds-3360856/)
- - [Meta plans to eliminate the Facebook News tab in the UK, France, and Germany in early December 2023 and won&#39;t sign new deals for news content in those countries &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230905/p16#a230905p16)<!-- TECH:END -->
+ - [Dutch chipmaker NXP alerts customers to a breach involving their personal data, discovered on July 14; NXP declines to say how many customers had been impacted &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230905/p18#a230905p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

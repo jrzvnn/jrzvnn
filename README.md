@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [AGs in all 50 US states urge Congress to study how AI can be used to exploit kids, including via AI-made pornography, and pass legislation to guard against it &lpar;Meg Kinnard/Associated Press&rpar;](http://www.techmeme.com/230905/p24#a230905p24)
  - [Google is making the Android logo more dynamic and playful](https://www.androidauthority.com/google-android-new-bugdroid-logo-wordmark-3360879/)
  - [Feature Drops aren’t just for Pixels anymore as Android Feature Drop lands](https://www.androidauthority.com/first-android-feature-drop-3360784/)
- - [Google Freshens Up Its Android Brand and Drops New Features](https://www.wired.com/story/google-rebrands-android-feature-drop/)
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Google’s latest Android feature updates come with a refreshed logo](https://www.theverge.com/2023/9/5/23854729/google-android-logo-update-quarterly-feature-drop-at-a-glance-widget)<!-- TECH:END -->
+ - [Google Freshens Up Its Android Brand and Drops New Features](https://www.wired.com/story/google-rebrands-android-feature-drop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

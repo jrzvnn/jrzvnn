@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel and Tower Semiconductor say the Israeli contract chipmaker will invest $300M in Intel&#39;s New Mexico factory, after their $5.4B merger collapsed in August &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230905/p14#a230905p14)
+ - [Apple Music acquires famed classical label BIS](https://appleinsider.com/articles/23/09/05/apple-music-acquires-famed-classical-label-bis?utm_medium=rss)
+ - [Israel-based Upwind, which helps detect and counter cloud infrastructure threats, raised $50M led by Greylock at a $300M valuation, taking its funding to $80M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230905/p13#a230905p13)
  - [Apple arguing iMessage isn&#39;t big enough to be EU gatekeeper service](https://appleinsider.com/articles/23/09/04/apple-allegedly-arguing-imessage-isnt-big-enough-to-be-eu-gatekeeper-service?utm_medium=rss)
- - [Analysis: lawyers, accountants, consultants, and more have charged $700M+ in fees since 2022 in the bankruptcies of FTX, Celsius, Voyager, BlockFi, and Genesis &lpar;New York Times&rpar;](http://www.techmeme.com/230905/p12#a230905p12)
- - [Yeedi Cube review: a robot that vacuums, mops, and cleans itself](https://appleinsider.com/articles/23/09/05/yeedi-cube-review-a-robot-that-vacuums-mops-and-cleans-itself?utm_medium=rss)
- - [Aventon Aventure.2 Ebike Review: Fat Tires, Affordable, 60-Mile Range](https://www.wired.com/review/aventon-aventure2/)
- - [Weight-Loss Drugs Ozempic and Wegovy Can Also Protect the Heart](https://www.wired.com/story/weight-loss-drugs-ozempic-and-wegovy-can-also-protect-the-heart/)<!-- TECH:END -->
+ - [Analysis: lawyers, accountants, consultants, and more have charged $700M+ in fees since 2022 in the bankruptcies of FTX, Celsius, Voyager, BlockFi, and Genesis &lpar;New York Times&rpar;](http://www.techmeme.com/230905/p12#a230905p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

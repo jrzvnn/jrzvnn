@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This SanDisk 512GB flash drive is a steal at 64% off](https://www.androidauthority.com/sandisk-512gb-flash-drive-deal-3361273/)
  - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
  - [Margrethe Vestager is stepping down as EU competition chief to run for a job at the EIB; sources: justice commissioner Didier Reynders will assume the role &lpar;Financial Times&rpar;](http://www.techmeme.com/230905/p25#a230905p25)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [AGs in all 50 US states urge Congress to study how AI can be used to exploit kids, including via AI-made pornography, and pass legislation to guard against it &lpar;Meg Kinnard/Associated Press&rpar;](http://www.techmeme.com/230905/p24#a230905p24)
- - [Google is making the Android logo more dynamic and playful](https://www.androidauthority.com/google-android-new-bugdroid-logo-wordmark-3360879/)<!-- TECH:END -->
+ - [AGs in all 50 US states urge Congress to study how AI can be used to exploit kids, including via AI-made pornography, and pass legislation to guard against it &lpar;Meg Kinnard/Associated Press&rpar;](http://www.techmeme.com/230905/p24#a230905p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

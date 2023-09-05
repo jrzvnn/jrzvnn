@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
- - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 💣 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
- - 😝 [It took me a bit to get this one...](http://9gag.com/gag/aDYrxVN)
- - 👉 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)<!-- MEMES:END -->
+ - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [No idea what this is, never heard of it before, future DLC probably...](http://9gag.com/gag/aOxAvZE)
+ - 💣 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 👉 [Women](http://9gag.com/gag/avQ4O8O)<!-- MEMES:END -->
 
 ---
 </div>

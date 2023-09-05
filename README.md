@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 😝 [They are still in 1800s ....](http://9gag.com/gag/aGE60A5)
+ - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 💣 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)
  - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 💣 [Women](http://9gag.com/gag/avQ4O8O)
- - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
+ - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
 
 ---
 </div>

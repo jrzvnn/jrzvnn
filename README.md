@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 💣 [Pain.](http://9gag.com/gag/aA0qwzg)
  - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 👉 [Such a nice celebration](http://9gag.com/gag/amAK81d)<!-- MEMES:END -->
+ - 👉 [Only in Thailand](http://9gag.com/gag/amAKrAj)<!-- MEMES:END -->
 
 ---
 </div>

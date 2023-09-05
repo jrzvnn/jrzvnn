@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New low cost MacBook coming in 2024 to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
+ - [We asked, you told us: You really miss small Android tablets](https://www.androidauthority.com/miss-small-android-tablets-poll-results-3361125/)
  - [Indian telecoms giants Jio, Airtel, and Vodafone-Idea ask regulators to consider forcing internet companies to pay for network usage, echoing efforts globally &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230905/p6#a230905p6)
  - [Apple could be working on an affordable MacBook to rival Chromebooks](https://www.androidauthority.com/apple-new-macbook-lineup-chromebook-competitor-3361110/)
- - [The Mysterious Power of the Platform, the Internet’s Building Block](https://www.wired.com/story/glossary-platform-linguistics-philosophy/)
- - [What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/)
- - [The End of Airbnb in New York](https://www.wired.com/story/airbnb-ban-new-york-city/)<!-- TECH:END -->
+ - [The Mysterious Power of the Platform, the Internet’s Building Block](https://www.wired.com/story/glossary-platform-linguistics-philosophy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

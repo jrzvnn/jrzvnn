@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom is even less happy about Microsoft Teams than you are](https://www.theverge.com/2023/9/5/23860390/zoom-microsoft-teams-bundling-eu-regulation)
+ - [Three Apple executives to serve as key witnesses at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/05/three-apple-executives-to-serve-as-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
+ - [All 50 states call on Congress to address AI-generated CSAM](https://www.theverge.com/2023/9/5/23860412/ai-attorneys-general-50-states-congress-csam)
  - [Source: the FTC plans to file an antitrust lawsuit against Amazon later this month, after Amazon offered no concessions in an August meeting with FTC officials &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230905/p31#a230905p31)
- - [Malicious attackers can flood iPhone users with endless popups using a $170 tool](https://appleinsider.com/articles/23/09/05/malicious-attackers-can-flood-iphone-users-with-endless-popups-using-a-170-tool?utm_medium=rss)
- - [Elon Musk paid for our attention, but the price to keep it is getting higher](https://www.theverge.com/2023/9/5/23860377/elon-musk-lawsuit-adl-twitter-x)
- - [Android 14 got a last-minute delay, here’s when we expect it](https://www.androidauthority.com/android-14-delayed-a-month-3361353/)
- - [Apple acquires Sweden-based BIS Records, founded in 1973, and plans to fold the classical music label into Apple Music Classical and Apple&#39;s A&amp;R label Platoon &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230905/p30#a230905p30)<!-- TECH:END -->
+ - [Malicious attackers can flood iPhone users with endless popups using a $170 tool](https://appleinsider.com/articles/23/09/05/malicious-attackers-can-flood-iphone-users-with-endless-popups-using-a-170-tool?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

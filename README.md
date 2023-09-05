@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India says AirTag &#39;digital terror&#39; is first stalking case in country](https://appleinsider.com/articles/23/09/04/india-says-airtag-digital-terror-is-first-stalking-case-in-country?utm_medium=rss)
- - [AirTag and Find My helps traveler bust Brussels theft ring](https://appleinsider.com/articles/23/09/05/airtag-and-find-my-helps-traveler-bust-brussels-theft-ring?utm_medium=rss)
- - [Google releases a refreshed Android logo and grab bag of updates for its mobile app and services, including the At a Glance widget and Lookout app &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230905/p26#a230905p26)
- - [Ninth tvOS 17 beta build now available for developer testing](https://appleinsider.com/articles/23/09/05/ninth-tvos-17-beta-build-now-available-for-developer-testing?utm_medium=rss)
- - [United Airlines briefly pauses all flights nationwide for ‘technology issue’](https://www.theverge.com/2023/9/5/23860056/united-airlines-ground-stop-order-faa-technology)<!-- TECH:END -->
+ - [Baldur’s Gate 3: all the news and updates on one of the best RPGs of the year](https://www.theverge.com/2023/9/5/23860060/baldurs-gate-3-news-reviews-updates)
+ - [Reddit’s replacement mods may be putting its communities at risk](https://www.theverge.com/2023/9/5/23859712/reddit-new-moderators-no-expertise-safety-misinformation-protest)
+ - [Baldur’s Gate 3 will defy everyone’s wishes, make characters less horny](https://www.theverge.com/2023/9/5/23859759/baldurs-gate-three-romance-bug-horny-companions)
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

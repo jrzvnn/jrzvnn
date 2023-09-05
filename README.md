@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Strange Afterlife of Wagner’s Yevgeny Prigozhin](https://www.wired.com/story/prigozhin-wagner-dead-news-disinformation/)
  - [Niantic’s new AR experiment is a ho-hum Pikmin mobile browser game](https://www.theverge.com/2023/9/5/23859540/pikmin-finder-niantic-nintendo-ar-browser-game)
  - [Mujin, which develops AI software for industrial automation, raised a $85M Series C led by SBI Investment, bringing its total funding to $150M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230905/p20#a230905p20)
  - [New Xbox update includes game streaming to Discord friends and VRR improvements](https://www.theverge.com/2023/9/5/23859690/microsoft-xbox-september-update-discord-streaming-vrr-xbox-series-s-x)
- - [Nintendo’s holiday Switch bundles toss in Mario Kart or Animal Crossing for free](https://www.theverge.com/2023/9/5/23859547/nintendo-switch-holiday-bundle-mario-kart-8-animal-crossing)
- - [Apple &amp; ARM have been crucial to each other&#39;s survival for three decades](https://appleinsider.com/articles/23/09/05/apple-arm-have-been-crucial-to-each-others-survival-for-three-decades?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo’s holiday Switch bundles toss in Mario Kart or Animal Crossing for free](https://www.theverge.com/2023/9/5/23859547/nintendo-switch-holiday-bundle-mario-kart-8-animal-crossing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

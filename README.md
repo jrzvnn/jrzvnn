@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma could be secured with XProtect behavioral security](https://appleinsider.com/articles/23/09/05/macos-sonoma-could-be-secured-with-xprotect-behavioral-security?utm_medium=rss)
- - [TikTok hires UK cybersecurity company NCC to audit its data controls and protections, and provide independent verification, as part of Project Clover &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230905/p11#a230905p11)
- - [How Spotify&#39;s $1B+ bet on building a podcast empire has not paid off: most shows are not profitable, debates over exclusivity, cutting original shows, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230905/p10#a230905p10)
- - [Future AirPods may ID wearer and tailor features to protect owner&#39;s privacy](https://appleinsider.com/articles/22/01/27/future-airpods-may-id-wearer-and-tailor-features-to-protect-owners-privacy?utm_medium=rss)
- - [Apple &amp; ARM&#39;s iPhone &amp; Mac chip partnership will continue for decades](https://appleinsider.com/articles/23/09/05/apple-arms-iphone-mac-chip-partnership-will-continue-for-decades?utm_medium=rss)<!-- TECH:END -->
+ - [Yeedi Cube review: a robot that vacuums, mops, and cleans itself](https://appleinsider.com/articles/23/09/05/yeedi-cube-review-a-robot-that-vacuums-mops-and-cleans-itself?utm_medium=rss)
+ - [Aventon Aventure.2 Ebike Review: Fat Tires, Affordable, 60-Mile Range](https://www.wired.com/review/aventon-aventure2/)
+ - [Weight-Loss Drugs Ozempic and Wegovy Can Also Protect the Heart](https://www.wired.com/story/weight-loss-drugs-ozempic-and-wegovy-can-also-protect-the-heart/)
+ - [macOS Sonoma could be locked down with XProtect behavioral security](https://appleinsider.com/articles/23/09/05/macos-sonoma-could-be-secured-with-xprotect-behavioral-security?utm_medium=rss)
+ - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

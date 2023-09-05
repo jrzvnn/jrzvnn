@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Fantasy XVI just received a free content update and is now $20 off](https://www.theverge.com/2023/9/5/23859223/final-fantasy-xvi-amazfit-band-7-samsung-galaxy-z-fold-5-deal-sale)
  - [Volkswagen’s electric GTI concept teases the future of hot hatches](https://www.theverge.com/2023/9/5/23859546/volkswagen-electric-gti-concept-photos-specs-hot-hatch)
  - [The multiplayer in Baldur’s Gate 3 sorely needs a dungeon master](https://www.theverge.com/23853139/baldurs-gate-3-multiplayer)
  - [How Afripods is trying to grow the podcast market in Africa](https://www.theverge.com/2023/9/5/23859798/afripods-broadcast-to-podcast-kevin-brown-africa-podcast-market-hot-pod)
- - [Sources: over half of the 14 authors of Meta&#39;s original Llama research paper from February quit over battles for compute resources, a hot job market, and more &lpar;The Information&rpar;](http://www.techmeme.com/230905/p23#a230905p23)
- - [B&amp;H shaves up to $1,700 off MacBooks, Mac Studio &amp; Apple Studio Display this week](https://appleinsider.com/articles/23/09/05/bh-shaves-up-to-1700-off-macbook-mac-studio-apple-studio-display-this-week?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: over half of the 14 authors of Meta&#39;s original Llama research paper from February quit over battles for compute resources, a hot job market, and more &lpar;The Information&rpar;](http://www.techmeme.com/230905/p23#a230905p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

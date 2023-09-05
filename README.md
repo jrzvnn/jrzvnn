@@ -146,8 +146,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Sept. 5: $499 M2 Mac mini, Apple Watch SE $129, Mac security software up to 65% off, more](https://appleinsider.com/articles/23/09/05/daily-deals-sept-5-499-m2-mac-mini-apple-watch-se-129-mac-security-software-up-to-65-off-more?utm_medium=rss)
  - [Two OLED iPad Pro models rumored to arrive in 2024](https://appleinsider.com/articles/23/09/05/two-oled-ipad-pro-models-rumored-to-arrive-in-2024?utm_medium=rss)
+ - [Daily deals Sept. 5: $499 M2 Mac mini, Apple Watch SE $129, Mac security software up to 65% off, more](https://appleinsider.com/articles/23/09/05/daily-deals-sept-5-499-m2-mac-mini-apple-watch-se-129-mac-security-software-up-to-65-off-more?utm_medium=rss)
  - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)
  - [BMW expands its deal with Amazon Web Services to include autonomous vehicle data](https://www.theverge.com/2023/9/5/23859450/bmw-aws-cloud-autonomous-driving-data)
  - [How well does Starfield run on PC?](https://www.theverge.com/23855205/starfield-pc-performance-benchmarks-hands-on)<!-- TECH:END -->

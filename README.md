@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra back on sale, MacBooks from $749 &amp; more from Amazon this week](https://appleinsider.com/articles/23/09/05/apple-watch-ultra-back-on-sale-macbooks-from-749-more-from-amazon-this-week?utm_medium=rss)
  - [SEC filing: Coinbase has created a new crypto lending service in the US for institutional clients and has raised $57M for the program &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/230905/p32#a230905p32)
  - [Zoom is even less happy about Microsoft Teams than you are](https://www.theverge.com/2023/9/5/23860390/zoom-microsoft-teams-bundling-eu-regulation)
  - [Three Apple executives to serve as key witnesses at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/05/three-apple-executives-to-serve-as-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
- - [All 50 states call on Congress to address AI-generated CSAM](https://www.theverge.com/2023/9/5/23860412/ai-attorneys-general-50-states-congress-csam)
- - [Starfield: Xbox Game Pass, Release Date and Everything Else You Should Know     - CNET](https://www.cnet.com/tech/gaming/starfield-xbox-game-pass-release-date-and-everything-else-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All 50 states call on Congress to address AI-generated CSAM](https://www.theverge.com/2023/9/5/23860412/ai-attorneys-general-50-states-congress-csam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

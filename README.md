@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
  - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
- - 💣 [Sweden, ex-husband](http://9gag.com/gag/ay2ZLbp)
- - 😝 [Lois had no chill](http://9gag.com/gag/a2K94xe)
- - 👉 [Connect five](http://9gag.com/gag/aYVZ4P2)<!-- MEMES:END -->
+ - 😝 [Who are you??](http://9gag.com/gag/aMED876)
+ - 💣 [Lois had no chill](http://9gag.com/gag/a2K94xe)
+ - 😝 [Pain.](http://9gag.com/gag/aA0qwzg)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 </div>

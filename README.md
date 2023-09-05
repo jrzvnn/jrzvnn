@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s in-garage delivery service is going to cost a little extra for the convenience](https://www.theverge.com/2023/9/5/23860140/amazon-key-in-garage-delivery-day-fee)
+ - [Nintendo isn’t revealing Mario’s new voice actor until Wonder comes out](https://www.theverge.com/23860180/mario-new-voice-actor-super-bros-wonder-nintendo)
  - [Cinebench can now test GPU power](https://www.theverge.com/2023/9/5/23859920/cinebench-2024-cpu-gpu-benchmark-release)
  - [The best UScellular deals of September 2023](https://www.androidauthority.com/best-us-cellular-deals-835558/)
- - [Hate hunting for new apps and games on the Play Store? Google has a new solution](https://www.androidauthority.com/google-play-store-videos-3361323/)
- - [Star Trek is getting five new ‘very Short Treks’](https://www.theverge.com/2023/9/5/23860154/star-trek-very-short-treks-too-many-cooks)
- - [The best Labor Day deals you can still grab at Amazon and elsewhere](https://www.theverge.com/2023/8/30/23850369/best-labor-day-sales-2023-tech-deals-apple-wireless-earbuds-laptops-tvs)<!-- TECH:END -->
+ - [Hate hunting for new apps and games on the Play Store? Google has a new solution](https://www.androidauthority.com/google-play-store-videos-3361323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

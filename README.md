@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 😝 [Pain.](http://9gag.com/gag/aA0qwzg)
- - 💣 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
- - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
+ - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
+ - 👉 [This tattoo removal](http://9gag.com/gag/aDYrj7w)<!-- MEMES:END -->
 
 ---
 </div>

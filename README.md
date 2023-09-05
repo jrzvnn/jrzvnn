@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 😝 [Horse girl stuff](http://9gag.com/gag/aOxAzVD)
+ - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
+ - 💣 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 😝 [Hornet harvest](http://9gag.com/gag/amAK2Qy)
- - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
+ - 👉 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)<!-- MEMES:END -->
 
 ---
 </div>

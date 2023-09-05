@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [Who are you??](http://9gag.com/gag/aMED876)
  - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 👉 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)<!-- MEMES:END -->
+ - 💣 [Who are you??](http://9gag.com/gag/aMED876)
+ - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
+ - 👉 [Women](http://9gag.com/gag/avQ4O8O)<!-- MEMES:END -->
 
 ---
 </div>

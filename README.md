@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Malicious attackers can flood iPhone users with endless popups using a $170 tool](https://appleinsider.com/articles/23/09/05/malicious-attackers-can-flood-iphone-users-with-endless-popups-using-a-170-tool?utm_medium=rss)
+ - [Elon Musk paid for our attention, but the price to keep it is getting higher](https://www.theverge.com/2023/9/5/23860377/elon-musk-lawsuit-adl-twitter-x)
  - [Android 14 got a last-minute delay, here’s when we expect it](https://www.androidauthority.com/android-14-delayed-a-month-3361353/)
  - [Apple acquires Sweden-based BIS Records, founded in 1973, and plans to fold the classical music label into Apple Music Classical and Apple&#39;s A&amp;R label Platoon &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230905/p30#a230905p30)
- - [These Steam Deck custom resin buttons look phenomenal — and they’re for sale](https://www.theverge.com/22537628/steam-deck-custom-resin-buttons-hands-on)
- - [Amazon will now charge $1.99 per delivery for in-garage deliveries that used to be free if the date is outside a customer&#39;s designated weekly &quot;Amazon Day&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230905/p29#a230905p29)<!-- TECH:END -->
+ - [These Steam Deck custom resin buttons look phenomenal — and they’re for sale](https://www.theverge.com/22537628/steam-deck-custom-resin-buttons-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

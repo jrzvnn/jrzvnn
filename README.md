@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It took me a bit to get this one...](http://9gag.com/gag/aDYrxVN)
  - 😝 [Only in Thailand](http://9gag.com/gag/amAKrAj)
- - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
  - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 💣 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
  - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
 
 ---

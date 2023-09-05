@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sonoma could be secured with XProtect behavioral security](https://appleinsider.com/articles/23/09/05/macos-sonoma-could-be-secured-with-xprotect-behavioral-security?utm_medium=rss)
+ - [TikTok hires UK cybersecurity company NCC to audit its data controls and protections, and provide independent verification, as part of Project Clover &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/230905/p11#a230905p11)
  - [How Spotify&#39;s $1B+ bet on building a podcast empire has not paid off: most shows are not profitable, debates over exclusivity, cutting original shows, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230905/p10#a230905p10)
  - [Future AirPods may ID wearer and tailor features to protect owner&#39;s privacy](https://appleinsider.com/articles/22/01/27/future-airpods-may-id-wearer-and-tailor-features-to-protect-owners-privacy?utm_medium=rss)
- - [Apple &amp; ARM&#39;s iPhone &amp; Mac chip partnership will continue for decades](https://appleinsider.com/articles/23/09/05/apple-arms-iphone-mac-chip-partnership-will-continue-for-decades?utm_medium=rss)
- - [Filing: SoftBank prices Arm&#39;s shares at $47 and $51, aiming to raise up to $4.87B by selling 95.5M shares, for a $52B+ valuation and the biggest US IPO of 2023 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230905/p9#a230905p9)
- - [Israeli payments company ThetaRay, which uses AI to monitor financial transactions, raised $57M led by Portage, taking its total funding to $148M &lpar;Globes Online&rpar;](http://www.techmeme.com/230905/p8#a230905p8)<!-- TECH:END -->
+ - [Apple &amp; ARM&#39;s iPhone &amp; Mac chip partnership will continue for decades](https://appleinsider.com/articles/23/09/05/apple-arms-iphone-mac-chip-partnership-will-continue-for-decades?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

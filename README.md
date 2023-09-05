@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo’s holiday Switch bundles toss in Mario Kart or Animal Crossing for free](https://www.theverge.com/2023/9/5/23859547/nintendo-switch-holiday-bundle-mario-kart-8-animal-crossing)
  - [Apple &amp; ARM have been crucial to each other&#39;s survival for three decades](https://appleinsider.com/articles/23/09/05/apple-arm-have-been-crucial-to-each-others-survival-for-three-decades?utm_medium=rss)
  - [WhatsApp could look very different soon](https://www.androidauthority.com/whatsapp-redesign-in-beta-3361196/)
  - [Sony is making a $2,950 screenless, battery-less full-frame camera for drones](https://www.theverge.com/2023/9/5/23852829/sony-ilxlr1-fullframe-alpha-mirrorless-box-camera-video-drones-price-specs)
- - [This split ergonomic keyboard looks like it’s ripped right from Starfield](https://www.theverge.com/2023/9/5/23853664/zsa-voyager-split-ergonomic-mechanical-keyboard-low-profile-price-specs)
- - [Two OLED iPad Pro models rumored to arrive in 2024](https://appleinsider.com/articles/23/09/05/two-oled-ipad-pro-models-rumored-to-arrive-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [This split ergonomic keyboard looks like it’s ripped right from Starfield](https://www.theverge.com/2023/9/5/23853664/zsa-voyager-split-ergonomic-mechanical-keyboard-low-profile-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

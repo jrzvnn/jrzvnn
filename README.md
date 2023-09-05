@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 😝 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)
- - 💣 [Who are you??](http://9gag.com/gag/aMED876)
- - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 👉 [Women](http://9gag.com/gag/avQ4O8O)<!-- MEMES:END -->
+ - 😝 [Pushing an island back to its place \ud83e\udd2f](http://9gag.com/gag/aVb4372)
+ - 😝 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
+ - 💣 [Lois had no chill](http://9gag.com/gag/a2K94xe)
+ - 😝 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
+ - 👉 [Transaction successfully](http://9gag.com/gag/avQ4OmW)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: SoftBank prices Arm&#39;s shares at between $47 and $51, aiming to raise up to $4.87B in its US IPO by selling 95.5M shares in the company &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230905/p9#a230905p9)
+ - [Filing: SoftBank prices Arm&#39;s shares at $47 and $51, aiming to raise up to $4.87B by selling 95.5M shares, for a $52B+ valuation and the biggest US IPO of 2023 &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230905/p9#a230905p9)
  - [Israeli payments company ThetaRay, which uses AI to monitor financial transactions, raised $57M led by Portage, taking its total funding to $148M &lpar;Globes Online&rpar;](http://www.techmeme.com/230905/p8#a230905p8)
  - [It’s official: The Leica-branded Xiaomi 13T series launches this month](https://www.androidauthority.com/xiaomi-13t-series-launch-date-3361141/)
  - [A Billion-Dollar Plan to Fix Farm Emissions Might Make Things Worse](https://www.wired.com/story/usda-climate-smart-agriculture/)

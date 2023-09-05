@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says visionOS beta will include the App Store this fall and, by default, iPad and iPhone apps will be published automatically on the Vision Pro app store &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230905/p28#a230905p28)
- - [iPhone and iPad apps will be available in the Vision Pro App Store by default](https://www.theverge.com/2023/9/5/23860335/apple-iphone-ipad-apps-vision-pro-app-store-default)
- - [The Real Reason Bloody Marys Tastes so Good on an Airplane     - CNET](https://www.cnet.com/news/why-bloody-mary-tastes-so-much-better-on-an-airplane/#ftag=CAD590a51e)
- - [Buy Narcan Online: Walgreens, CVS and More Stores Roll Out Easier Way to Get Lifesaving Drug     - CNET](https://www.cnet.com/health/medical/buy-narcan-online-walgreens-cvs-and-more-stores-roll-out-easier-way-to-get-lifesaving-drug/#ftag=CAD590a51e)
- - [Email: Genesis Global Trading plans to close its US-focused spot crypto trading platform on September 18 and all remaining open accounts by September 30&#39;s end &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230905/p27#a230905p27)<!-- TECH:END -->
+ - [Android 14 got a last-minute delay, here’s when we expect it](https://www.androidauthority.com/android-14-delayed-a-month-3361353/)
+ - [Apple acquires Sweden-based BIS Records, founded in 1973, and plans to fold the classical music label into Apple Music Classical and Apple&#39;s A&amp;R label Platoon &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230905/p30#a230905p30)
+ - [These Steam Deck custom resin buttons look phenomenal — and they’re for sale](https://www.theverge.com/22537628/steam-deck-custom-resin-buttons-hands-on)
+ - [Amazon will now charge $1.99 per delivery for in-garage deliveries that used to be free if the date is outside a customer&#39;s designated weekly &quot;Amazon Day&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230905/p29#a230905p29)
+ - [Apple says visionOS beta will include the App Store this fall and, by default, iPad and iPhone apps will be published automatically on the Vision Pro app store &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230905/p28#a230905p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

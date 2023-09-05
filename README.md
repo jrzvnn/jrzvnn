@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Billionaires asking money is disgusting. Oprah and The Rock hire private firemen.](http://9gag.com/gag/aEqyBPo)
- - 😝 [HAve A nICe DaY!](http://9gag.com/gag/awZPX7r)
- - 💣 [It took me a bit to get this one...](http://9gag.com/gag/aDYrxVN)
- - 😝 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
- - 👉 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)<!-- MEMES:END -->
+ - 😝 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 😝 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 💣 [Who are you??](http://9gag.com/gag/aMED876)
+ - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
+ - 👉 [Miss Poland contest contestants. Notice anything?](http://9gag.com/gag/a04zjqX)<!-- MEMES:END -->
 
 ---
 </div>

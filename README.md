@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stray is being turned into a movie](https://www.theverge.com/2023/9/5/23859805/stray-movie-cat-video-game-annapurna-interactive-animation)
+ - [Big cash discounts on the Galaxy Z Fold 5 and Z Flip 5 today](https://www.androidauthority.com/galaxy-z-fold-5-z-flip-5-deals-3361234/)
+ - [TikTok opens its first European data center, in Ireland, after announcing the project in August 2020, and plans to complete data migration by Q4 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230905/p22#a230905p22)
  - [Microsoft rolls out a new Xbox dashboard that lets users stream Xbox gameplay to anyone on Discord one-way, a new way to report Xbox audio clips, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230905/p21#a230905p21)
- - [Nomad’s new 3-in-1 MagSafe charger is a metal slab for your Apple device trio](https://www.theverge.com/2023/9/5/23854508/nomad-base-one-max-3in1-magsafe-charger-iphone-apple-watch-airpods-price-specs)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [The Strange Afterlife of Wagner’s Yevgeny Prigozhin](https://www.wired.com/story/prigozhin-wagner-dead-news-disinformation/)
- - [Niantic’s new AR experiment is a ho-hum Pikmin mobile browser game](https://www.theverge.com/2023/9/5/23859540/pikmin-finder-niantic-nintendo-ar-browser-game)<!-- TECH:END -->
+ - [Nomad’s new 3-in-1 MagSafe charger is a metal slab for your Apple device trio](https://www.theverge.com/2023/9/5/23854508/nomad-base-one-max-3in1-magsafe-charger-iphone-apple-watch-airpods-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Copyright activists are working to wipe Books3 from the internet, which may only benefit the big companies that have already been using the AI training dataset &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230905/p3#a230905p3)
  - [Apple says iMessage isn’t popular enough to play nice with other apps](https://www.androidauthority.com/apple-imessage-popular-gatekeeper-eu-3361088/)
  - [Logitech’s latest Pro-branded gaming keyboard is wireless, RGB, and $199](https://www.theverge.com/2023/9/5/23858523/logitech-pro-x-tkl-lightspeed-mechanical-gaming-keyboard-price-release-date-specs-features)
  - [The new Logitech G Pro X Superlight 2 gives me serious mouse envy](https://www.theverge.com/2023/9/5/23043644/logitech-g-pro-x-superlight-2-gaming-mouse-price-release-date-specs)
- - [Malaysia says it is in discussions with Google, Meta and others over a regulatory framework to compensate news outlets for their content on online platforms &lpar;Reuters&rpar;](http://www.techmeme.com/230905/p2#a230905p2)
- - [Milton Keynes, UK-based Envisics, which is building in-car AR heads-up display tech, raised $50M in a second Series C tranche, closing the $100M round in total &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230905/p1#a230905p1)<!-- TECH:END -->
+ - [Malaysia says it is in discussions with Google, Meta and others over a regulatory framework to compensate news outlets for their content on online platforms &lpar;Reuters&rpar;](http://www.techmeme.com/230905/p2#a230905p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

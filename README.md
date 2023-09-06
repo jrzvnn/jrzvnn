@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paytm, whose &quot;soundbox&quot; is used by 7M+ merchants, launches a $12 model that can accept tap and pay card payments, as rival Pine Labs unveils a similar POS unit &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230906/p1#a230906p1)
+ - [Lamborghini Lanzador EV First Drive: Shooting for the Moon](https://www.wired.com/story/first-drive-lamborghini-lanzador-ev/)
  - [Deal extended: get a 9-inch Apple CarPlay display for $104.99](https://appleinsider.com/articles/23/09/04/today-is-the-final-day-to-get-a-9-inch-apple-carplay-display-for-10499?utm_medium=rss)
  - [NYC&#39;s Local Law 18, which imposes registration and other requirements on short-term rentals, goes into force, potentially wiping out thousands of Airbnbs &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/230905/p37#a230905p37)
- - [Google leaks Pixel 8 Pro again with a 360-degree preview](https://www.theverge.com/2023/9/5/23860807/pixel-8-pro-leak-colors-google-simulator-360)
- - [Harmonya, which offers software to help retail and consumer packaged goods companies decipher their product data, raised a $20M Series A led by Bright Pixel &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230905/p36#a230905p36)
- - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)<!-- TECH:END -->
+ - [Google leaks Pixel 8 Pro again with a 360-degree preview](https://www.theverge.com/2023/9/5/23860807/pixel-8-pro-leak-colors-google-simulator-360)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New AI-powered Gboard tool could make grammar mistakes a thing of the past](https://www.androidauthority.com/gboard-ai-powered-tool-3361680/)
+ - [Slack’s AI tool that can recap channels and threads starts testing this winter](https://www.theverge.com/2023/9/6/23861713/slack-ai-tool-recap-channels-threads-test)
  - [The 20 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Apple is pouring money into Siri improvements with generative AI](https://appleinsider.com/articles/23/09/06/apple-is-pouring-money-into-siri-improvements-with-generative-ai?utm_medium=rss)
- - [Wow, we have yet another new beta for Android 14, this time beta 5.3](https://www.androidauthority.com/android-14-beta-5-3-3361699/)
- - [Microsoft says Chinese hackers who recently breached US government email accounts stole a key from a crash dump after hacking a Microsoft engineer&#39;s account &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230906/p32#a230906p32)<!-- TECH:END -->
+ - [Apple is pouring money into Siri improvements with generative AI](https://appleinsider.com/articles/23/09/06/apple-is-pouring-money-into-siri-improvements-with-generative-ai?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

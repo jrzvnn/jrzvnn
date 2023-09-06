@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
- - 😝 [Women](http://9gag.com/gag/avQ4O8O)
- - 💣 [She looks familiar](http://9gag.com/gag/aRE97gM)
- - 😝 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)
- - 👉 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)<!-- MEMES:END -->
+ - 😝 [So delusional](http://9gag.com/gag/a9qZnrZ)
+ - 😝 [Good parenting](http://9gag.com/gag/axoQ9qL)
+ - 💣 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)
+ - 😝 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)
+ - 👉 [Based Cyrus](http://9gag.com/gag/aL1VpAP)<!-- MEMES:END -->
 
 ---
 </div>

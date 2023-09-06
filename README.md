@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harmonya, which offers software to help retail and consumer packaged goods companies decipher their product data, raised a $20M Series A led by Bright Pixel &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230905/p36#a230905p36)
+ - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
+ - [Here’s Google CEO Sundar Pichai’s public memo on Google at 25](https://www.theverge.com/2023/9/5/23860683/google-25-memo-sundar-pichai)
  - [Filing: Apple signed a new deal with Arm for chip technology that &quot;extends beyond 2040&quot; &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230905/p35#a230905p35)
- - [MetaMask says its customers in the US, UK, and parts of Europe can now convert ether for traditional fiat currency with a new sell function &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230905/p34#a230905p34)
- - [Sundar Pichai reflects on Google turning 25, says search is &quot;still our biggest moonshot&quot; and that AI will be the biggest tech shift &quot;we see in our lifetimes&quot; &lpar;Sundar Pichai/The Keyword&rpar;](http://www.techmeme.com/230905/p33#a230905p33)
- - [Zoom Announces New &#39;AI Companion&#39; Features     - CNET](https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/#ftag=CAD590a51e)
- - [Overnight updates to physical Apple Stores could hint at fast post-event product availability](https://appleinsider.com/articles/23/09/05/overnight-updates-to-physical-apple-stores-could-hint-at-fast-post-event-product-availability?utm_medium=rss)<!-- TECH:END -->
+ - [MetaMask says its customers in the US, UK, and parts of Europe can now convert ether for traditional fiat currency with a new sell function &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230905/p34#a230905p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

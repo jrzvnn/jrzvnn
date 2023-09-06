@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU will force these platforms to open up to rivals, and here’s when](https://www.androidauthority.com/eu-digital-markets-act-gatekeeper-platforms-list-3361518/)
+ - [A US judge denies Apple&#39;s efforts to block Eddy Cue and two executives testifying in a DOJ case over Google&#39;s market dominance, set to begin on September 12 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230906/p14#a230906p14)
  - [Apple&#39;s iMessage gets a reprieve from EU law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
  - [A look at U.S. et al v. Google, the federal government&#39;s first monopoly trial of the modern internet era, set to last 10 weeks; top execs are likely to testify &lpar;New York Times&rpar;](http://www.techmeme.com/230906/p13#a230906p13)
- - [China completely bans use of iPhone for government business](https://appleinsider.com/articles/23/09/06/china-completely-bans-use-of-iphone-for-government-business?utm_medium=rss)
- - [The EU lists the 22 services falling under the Digital Markets Act, including TikTok and Facebook, and will assess if Microsoft&#39;s services and iMessage qualify &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230906/p12#a230906p12)
- - [The UK says a bug caused its air traffic system to confuse two checkpoints 4,000 nautical miles apart, leading to a huge outage, and plans to review the issue &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/230906/p11#a230906p11)<!-- TECH:END -->
+ - [China completely bans use of iPhone for government business](https://appleinsider.com/articles/23/09/06/china-completely-bans-use-of-iphone-for-government-business?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

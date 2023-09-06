@@ -159,7 +159,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [I need a captain. Where is this from?](http://9gag.com/gag/ajVGEzw)
  - 💣 [She looks familiar](http://9gag.com/gag/aRE97gM)
  - 😝 [Tower of London Evolution](http://9gag.com/gag/aBdj8oA)
- - 👉 [Stupid forget to throw a grenade and it explodes in the car](http://9gag.com/gag/a1PBRVG)<!-- MEMES:END -->
+ - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
 
 ---
 </div>

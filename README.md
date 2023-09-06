@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Google tentatively settled a US Play Store class action antitrust lawsuit brought by over 30 states; the settlement is subject to the court&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/230906/p29#a230906p29)
- - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
- - [UK comes to its senses, will not push iMessage and WhatsApp to exit country](https://www.androidauthority.com/investigatory-powers-act-fail-3361630/)
- - [Here’s where you can preorder Sonos’ new Move 2 speaker](https://www.theverge.com/2023/9/6/23854738/sonos-move-2-preorder-buy-price-availability-release-date)
- - [The Boy and the Heron’s first trailer is a glimpse at Miyazaki’s next dark fantasy](https://www.theverge.com/23859581/the-boy-and-the-heron-trailer-release-date)<!-- TECH:END -->
+ - [Pixar’s Elemental will hit Disney Plus streaming on September 13th](https://www.theverge.com/2023/9/6/23861205/elemental-pixar-disney-plus-release-september-13-streaming)
+ - [New YouTube face just dropped](https://www.theverge.com/2023/9/6/23861576/youtube-face-mrbeast-open-closed-mouth-a-b-testing-thumbnail)
+ - [Bob Iger and Bob Chapek’s CEO battle made Disney the pettiest place on Earth](https://www.theverge.com/2023/9/6/23861125/bob-iger-chapek-disney-ceo-takeover-drama)
+ - [EV automaker is going to make a smartphone](https://www.androidauthority.com/polestar-phone-3361620/)
+ - [Filing: Google tentatively settled a US Play Store class action antitrust lawsuit brought by over 30 states; the settlement is subject to the court&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/230906/p29#a230906p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

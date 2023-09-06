@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This tattoo removal](http://9gag.com/gag/aDYrj7w)
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 💣 [Connect five](http://9gag.com/gag/aYVZ4P2)
+ - 😝 [How to get rid of nuclear waste in Finland \ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/adPr9DM)
+ - 😝 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
+ - 💣 [You&#39;ll be able to say that you know](http://9gag.com/gag/a5XvZ8q)
  - 😝 [Lois had no chill](http://9gag.com/gag/a2K94xe)
- - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
+ - 👉 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Passkey: Which popular apps and services offer the new feature?](https://appleinsider.com/articles/23/09/06/passkey-which-popular-apps-and-services-offer-the-new-feature?utm_medium=rss)
- - [Spotify is testing making song lyrics a Premium-only feature, currently &quot;with a limited number of users in a pair of markets&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230906/p30#a230906p30)
- - [Pixar’s Elemental will hit Disney Plus streaming on September 13th](https://www.theverge.com/2023/9/6/23861205/elemental-pixar-disney-plus-release-september-13-streaming)
- - [New YouTube face just dropped](https://www.theverge.com/2023/9/6/23861576/youtube-face-mrbeast-open-closed-mouth-a-b-testing-thumbnail)
- - [Bob Iger and Bob Chapek’s CEO battle made Disney the pettiest place on Earth](https://www.theverge.com/2023/9/6/23861125/bob-iger-chapek-disney-ceo-takeover-drama)<!-- TECH:END -->
+ - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)
+ - [China bans iPhone use for government work](https://www.theverge.com/2023/9/6/23861353/china-bans-iphones-foreign-smartphones-government-officials-us-tiktok-restrictions)
+ - [Forget AI — I just want the Pixel 8 to get four OS upgrades](https://www.theverge.com/2023/9/6/23861563/google-pixel-8-pro-rumors-android-os-software-support)
+ - [Amazon has ended its periodicals program, and independent publishers are panicking](https://www.theverge.com/23861370/amazon-kindle-periodicals-unlimited-ended)
+ - [Passkey: Which popular apps and services offer the new feature?](https://appleinsider.com/articles/23/09/06/passkey-which-popular-apps-and-services-offer-the-new-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

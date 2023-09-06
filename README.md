@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slack announces Slack AI, which can generate channel highlights, thread summaries, and search answers based on messages, with a pilot starting &quot;this winter&quot; &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230906/p39#a230906p39)
  - [Swatch x Blancpain Scuba Fifty Fathom: price, availability, specs](https://www.wired.com/story/swatch-x-blancpain-scuba-fifty-fathoms-diver-watch/)
  - [Google will soon require disclaimers for AI-generated political ads](https://www.theverge.com/2023/9/6/23862172/google-disclaimers-ai-generated-political-ads)
  - [YouTube is going to remove some ad controls for creators](https://www.theverge.com/2023/9/6/23862198/youtube-ad-controls-creators-remove)
- - [A Rube Goldberg chain of failures led to breach of Microsoft-hosted government emails](https://www.theverge.com/2023/9/6/23861890/microsoft-azure-data-breach-investigation-failures-outlook)
- - [Best Google Pixel Deals: Save on the Pixel 7 Pro and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Rube Goldberg chain of failures led to breach of Microsoft-hosted government emails](https://www.theverge.com/2023/9/6/23861890/microsoft-azure-data-breach-investigation-failures-outlook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

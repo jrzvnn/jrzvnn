@@ -155,7 +155,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Try to pause it](http://9gag.com/gag/ap9zmW5)
+ - 😝 [Who are you??](http://9gag.com/gag/aMED876)
  - 😝 [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)
  - 💣 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
  - 😝 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)

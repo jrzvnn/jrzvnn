@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to allow real-money games on the Play Store in India that will be approved by self-regulatory bodies once a new regulatory framework is implemented &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230906/p5#a230906p5)
+ - [Google can’t stop leaking Pixel 8 Pro, posts 360-degree render](https://www.androidauthority.com/google-pixel-8-pro-360-render-3361090/)
+ - [The UK Is Poised to Force a Bad Law on the Internet](https://www.wired.com/story/the-uk-is-poised-to-force-a-bad-law-on-the-internet/)
  - [Story Protocol, a blockchain-based IP ownership network that aims to address creatives&#39; concerns over AI, raised over $54M led by Andreessen Horowitz &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/230906/p4#a230906p4)
- - [Tokyo-based Josys, a SaaS startup that helps companies automate corporate IT operations, raised a $93M Series B led by Global Brain and Globis Capital Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230906/p3#a230906p3)
- - [Pixel Pro 8 appeared online on Google&#39;s 360-degree device simulator, showing the phone in three colors and a new temperature sensor beside the back cameras &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230906/p2#a230906p2)
- - [Paytm, whose &quot;soundbox&quot; is used by 7M+ merchants, launches a $12 model that can accept tap and pay card payments, as rival Pine Labs unveils a similar POS unit &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230906/p1#a230906p1)
- - [Lamborghini Lanzador EV First Drive: Shooting for the Moon](https://www.wired.com/story/first-drive-lamborghini-lanzador-ev/)<!-- TECH:END -->
+ - [Tokyo-based Josys, a SaaS startup that helps companies automate corporate IT operations, raised a $93M Series B led by Global Brain and Globis Capital Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230906/p3#a230906p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

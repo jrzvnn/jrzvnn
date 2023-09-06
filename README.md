@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iMessage gets a reprieve from EU digital gatekeeper law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
- - [d-Matrix, which designs chips aimed at the &quot;inference&quot; part of AI processing, raised a $110M Series B led by Temasek, taking its total funding to $154M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230906/p21#a230906p21)
- - [A profile of Kent Walker, Google&#39;s top lawyer, who helped negotiate the 2013 FTC settlement, as Google prepares to defend itself against DOJ antitrust claims &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230906/p20#a230906p20)
- - [Sources: the UK government pulls back from new encryption rules in the Online Safety Bill, averting a clash with Big Tech, as the bill enters its final stages &lpar;Financial Times&rpar;](http://www.techmeme.com/230906/p19#a230906p19)
- - [The Pentagon is considering building a vast network of AI-powered tech, drones, and autonomous systems in the next two years to counter threats from China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p18#a230906p18)<!-- TECH:END -->
+ - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
+ - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
+ - [&#39;Asada: The Art of Mexican-Style Grilling&#39; Cookbook Review: An Essential, Flavor-Filled Intro](https://www.wired.com/story/asada-mexican-grilling-cookbook-bricia-lopez/)
+ - [How China Demands Tech Firms Reveal Hackable Flaws in Their Products](https://www.wired.com/story/china-vulnerability-disclosure-law/)
+ - [AMD Radeon RX 7800 XT and 7700 XT review: a nudge into the 1440p era](https://www.theverge.com/23860970/amd-radeon-rx-7800-xt-7700-xt-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

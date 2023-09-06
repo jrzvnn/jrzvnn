@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UPS and Phoenix Air Unmanned win FAA approval to fly drones beyond the sight of operators, a key step that may eventually enable widespread package delivery &lpar;Alan Levin/Bloomberg&rpar;](http://www.techmeme.com/230906/p27#a230906p27)
  - [Amazon just added support for bridges, but Matter is still in a bind](https://www.theverge.com/2023/9/6/23860092/matter-smart-home-amazon-ifa-2023-philips-hue-camera)
  - [Daily deals Sept. 6: $200 off 15&quot; MacBook Air, Apple Pencil $79, HP laptops from $350, more](https://appleinsider.com/articles/23/09/06/daily-deals-sept-6-200-off-15-macbook-air-apple-pencil-79-hp-laptops-from-350-more?utm_medium=rss)
  - [UK backs down from nonsensical law after threats from Apple, WhatsApp](https://appleinsider.com/articles/23/09/06/uk-backs-down-from-nonsensical-law-after-threats-from-apple-whatsapp?utm_medium=rss)
- - [US military planning to fund fleets of ‘small, smart, cheap’ drones](https://www.theverge.com/2023/9/6/23861322/us-military-drones-ai-surveillance)
- - [The first episode of Pokémon: Paldean Winds is a crash course in treasure hunting](https://www.theverge.com/23861201/pokemon-paldea-winds-episode-1-show)<!-- TECH:END -->
+ - [US military planning to fund fleets of ‘small, smart, cheap’ drones](https://www.theverge.com/2023/9/6/23861322/us-military-drones-ai-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

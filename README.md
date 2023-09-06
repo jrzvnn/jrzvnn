@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK backs down from nonsensical law after threats from Apple, WhatsApp](https://appleinsider.com/articles/23/09/06/uk-backs-down-from-nonsensical-law-after-threats-from-apple-whatsapp?utm_medium=rss)
+ - [The Spectrum / Disney blackout led a US Open player to pirate the US Open](https://www.theverge.com/2023/9/6/23861267/disney-charter-spectrum-us-open-pirate-daniil-medvedev)
+ - [Samsung’s new Galaxy Z Flip 5 and Z Fold 5 are $200 off](https://www.theverge.com/2023/9/6/23860340/samsung-galaxy-z-flip-5-fold-apple-mac-studio-hades-nintendo-switch-deal-sale)
  - [Atlantic Council: how a Chinese law from 2021 that requires firms disclose flaws within two days of discovery feeds into China&#39;s offensive hacking operations &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230906/p25#a230906p25)
- - [Sonos Move 2 announced with better battery &amp; stereo support](https://appleinsider.com/articles/23/09/06/sonos-move-2-announced-with-better-battery-stereo-support?utm_medium=rss)
- - [New &#39;8-hour Long Work Day innie Mix&#39; of &#39;Severence&#39; is perfect for your office playlist](https://appleinsider.com/articles/23/09/06/new-8-hour-long-work-day-innie-mix-of-severence-is-perfect-for-your-office-playlist?utm_medium=rss)
- - [X rolls out Community Notes for videos and says the tool offers a &quot;highly-scalable way of adding context to edited clips, AI-generated videos, and more&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230906/p24#a230906p24)
- - [iPhone 15 Pro not enough to boost sales, say analysts](https://appleinsider.com/articles/23/09/06/iphone-15-pro-not-enough-to-boost-sales-say-analysts?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos Move 2 announced with better battery &amp; stereo support](https://appleinsider.com/articles/23/09/06/sonos-move-2-announced-with-better-battery-stereo-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

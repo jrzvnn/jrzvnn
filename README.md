@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can preorder Sonos’ new Move 2 speaker](https://www.theverge.com/2023/9/6/23854738/sonos-move-2-preorder-buy-price-availability-release-date)
  - [The Boy and the Heron’s first trailer is a glimpse at Miyazaki’s next dark fantasy](https://www.theverge.com/23859581/the-boy-and-the-heron-trailer-release-date)
  - [An analysis of EU and other data on iOS and Android usage finds Apple&#39;s App Store has $10.40 of Monthly Revenue Per User compared to $1.40 for Google Play &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/230906/p28#a230906p28)
  - [YouTube is experimenting with longer but less frequent ad breaks on TV](https://www.theverge.com/2023/9/6/23859965/youtube-fewer-ad-breaks-longer-length)
- - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)
- - [This 27-inch ASUS monitor protects your eyes and is now just $109](https://www.androidauthority.com/asus-27-inch-eye-care-monitor-deal-3361581/)<!-- TECH:END -->
+ - [Pixel Feature Drop: Here’s everything new added to Google Pixel devices](https://www.androidauthority.com/google-pixel-feature-drop-3360934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

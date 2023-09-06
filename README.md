@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo-based Josys, a SaaS startup that helps companies automate corporate IT operations, raised a $93M Series B led by Global Brain and Globis Capital Partners &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230906/p3#a230906p3)
  - [Pixel Pro 8 appeared online on Google&#39;s 360-degree device simulator, showing the phone in three colors and a new temperature sensor beside the back cameras &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230906/p2#a230906p2)
  - [Paytm, whose &quot;soundbox&quot; is used by 7M+ merchants, launches a $12 model that can accept tap and pay card payments, as rival Pine Labs unveils a similar POS unit &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230906/p1#a230906p1)
  - [Lamborghini Lanzador EV First Drive: Shooting for the Moon](https://www.wired.com/story/first-drive-lamborghini-lanzador-ev/)
- - [Deal extended: get a 9-inch Apple CarPlay display for $104.99](https://appleinsider.com/articles/23/09/04/today-is-the-final-day-to-get-a-9-inch-apple-carplay-display-for-10499?utm_medium=rss)
- - [NYC&#39;s Local Law 18, which imposes registration and other requirements on short-term rentals, goes into force, potentially wiping out thousands of Airbnbs &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/230905/p37#a230905p37)<!-- TECH:END -->
+ - [Deal extended: get a 9-inch Apple CarPlay display for $104.99](https://appleinsider.com/articles/23/09/04/today-is-the-final-day-to-get-a-9-inch-apple-carplay-display-for-10499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

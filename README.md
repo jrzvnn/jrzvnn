@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
- - 😝 [When you find out your fianc\u00e9 is an international h03 in front of the whole world](http://9gag.com/gag/ago6nmw)
- - 💣 [Women](http://9gag.com/gag/avQ4O8O)
- - 😝 [Try to pause it](http://9gag.com/gag/ap9zmW5)
- - 👉 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)<!-- MEMES:END -->
+ - 😝 [1999 Nissan Skyline GT-R&lpar;R34&rpar;](http://9gag.com/gag/adPr9bd)
+ - 😝 [I need a captain. Where is this from?](http://9gag.com/gag/ajVGEzw)
+ - 💣 [She looks familiar](http://9gag.com/gag/aRE97gM)
+ - 😝 [Tower of London Evolution](http://9gag.com/gag/aBdj8oA)
+ - 👉 [Stupid forget to throw a grenade and it explodes in the car](http://9gag.com/gag/a1PBRVG)<!-- MEMES:END -->
 
 ---
 </div>

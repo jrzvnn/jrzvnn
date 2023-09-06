@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - 😝 [I like the live action\u2026\u2026..but oof](http://9gag.com/gag/aeQybzm)
- - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
+ - 😝 [Transaction successfully](http://9gag.com/gag/avQ4OmW)
+ - 💣 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
+ - 😝 [Connect five](http://9gag.com/gag/aYVZ4P2)
+ - 👉 [Good parenting](http://9gag.com/gag/axoQ9qL)<!-- MEMES:END -->
 
 ---
 </div>

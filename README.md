@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iMessage gets a reprieve from EU digital gatekeeper law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
+ - [d-Matrix, which designs chips aimed at the &quot;inference&quot; part of AI processing, raised a $110M Series B led by Temasek, taking its total funding to $154M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230906/p21#a230906p21)
  - [A profile of Kent Walker, Google&#39;s top lawyer, who helped negotiate the 2013 FTC settlement, as Google prepares to defend itself against DOJ antitrust claims &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230906/p20#a230906p20)
  - [Sources: the UK government pulls back from new encryption rules in the Online Safety Bill, averting a clash with Big Tech, as the bill enters its final stages &lpar;Financial Times&rpar;](http://www.techmeme.com/230906/p19#a230906p19)
- - [The Pentagon is considering building a vast network of AI-powered tech, drones, and autonomous systems in the next two years to counter threats from China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p18#a230906p18)
- - [The iPhone 15 Pro Soon Could Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-soon-could-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
- - [Don&#39;t Start Playing Starfield Until You Read These 11 Essential Tips     - CNET](https://www.cnet.com/tech/gaming/dont-start-playing-starfield-until-you-read-these-11-essential-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pentagon is considering building a vast network of AI-powered tech, drones, and autonomous systems in the next two years to counter threats from China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p18#a230906p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

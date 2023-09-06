@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How long does a MacBook battery last?](https://www.androidauthority.com/how-long-does-a-macbook-battery-last-3361447/)
  - [Sources: China orders officials at central government agencies not to use iPhones and other foreign-branded devices for work or bring them into the office &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230906/p8#a230906p8)
  - [Mozilla finds that 25 of the major car brands it examined fail to adhere to the most basic privacy and security standards in their new internet-connected models &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230906/p7#a230906p7)
  - [UMG and Deezer strike a deal to give more weight to professional artists, who generate at least 1,000 listens a month, when calculating streaming royalties &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230906/p6#a230906p6)
- - [Google plans to allow real-money games on the Play Store in India that will be approved by self-regulatory bodies once a new regulatory framework is implemented &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/230906/p5#a230906p5)
- - [Google can’t stop leaking Pixel 8 Pro, posts 360-degree render](https://www.androidauthority.com/google-pixel-8-pro-360-render-3361090/)<!-- TECH:END -->
+ - [Google plans to allow real-money games on the Play Store in India that will be approved by self-regulatory bodies once a new regulatory framework is implemented &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/230906/p5#a230906p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

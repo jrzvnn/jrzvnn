@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
  - 😝 [Women](http://9gag.com/gag/avQ4O8O)
+ - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
  - 💣 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)
- - 😝 [She looks familiar](http://9gag.com/gag/aRE97gM)
+ - 😝 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
  - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &#39;8-hour Long Work Day innie Mix&#39; of &#39;Severence&#39; is perfect for your office playlist](https://appleinsider.com/articles/23/09/06/new-8-hour-long-work-day-innie-mix-of-severence-is-perfect-for-your-office-playlist?utm_medium=rss)
+ - [Sonos Move 2 announced with better battery &amp; stereo support](https://appleinsider.com/articles/23/09/06/sonos-move-2-announced-with-better-battery-stereo-support?utm_medium=rss)
  - [X rolls out Community Notes for videos and says the tool offers a &quot;highly-scalable way of adding context to edited clips, AI-generated videos, and more&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230906/p24#a230906p24)
  - [iPhone 15 Pro not enough to boost sales, say analysts](https://appleinsider.com/articles/23/09/06/iphone-15-pro-not-enough-to-boost-sales-say-analysts?utm_medium=rss)
- - [Dictionary.com adds a bunch of AI-related words](https://www.theverge.com/2023/9/6/23861136/chatgpt-dictionary-generative-ai-nepo-baby)
- - [B&amp;H slashes latest MacBook Pro 14-inch to record low $1,699, M1 Max up to $1,900 off](https://appleinsider.com/articles/23/09/06/bh-slashes-latest-macbook-pro-14-inch-to-record-low-1699-m1-max-up-to-1900-off?utm_medium=rss)
- - [Apple defends iMessage, says users can switch between IM apps](https://www.androidauthority.com/apple-defends-imessage-dma-investigation-3361537/)<!-- TECH:END -->
+ - [Dictionary.com adds a bunch of AI-related words](https://www.theverge.com/2023/9/6/23861136/chatgpt-dictionary-generative-ai-nepo-baby)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

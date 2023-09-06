@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)
+ - 😝 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
+ - 😝 [Lois had no chill](http://9gag.com/gag/a2K94xe)
+ - 💣 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)
  - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 💣 [Lois had no chill](http://9gag.com/gag/a2K94xe)
- - 😝 [Connect five](http://9gag.com/gag/aYVZ4P2)
  - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
 
 ---

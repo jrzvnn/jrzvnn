@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon just added support for bridges, but Matter is still in a bind](https://www.theverge.com/2023/9/6/23860092/matter-smart-home-amazon-ifa-2023-philips-hue-camera)
+ - [Daily deals Sept. 6: $200 off 15&quot; MacBook Air, Apple Pencil $79, HP laptops from $350, more](https://appleinsider.com/articles/23/09/06/daily-deals-sept-6-200-off-15-macbook-air-apple-pencil-79-hp-laptops-from-350-more?utm_medium=rss)
  - [UK backs down from nonsensical law after threats from Apple, WhatsApp](https://appleinsider.com/articles/23/09/06/uk-backs-down-from-nonsensical-law-after-threats-from-apple-whatsapp?utm_medium=rss)
  - [US military planning to fund fleets of ‘small, smart, cheap’ drones](https://www.theverge.com/2023/9/6/23861322/us-military-drones-ai-surveillance)
- - [The first episode of Pokémon: Paldean Winds is a crash course in treasure hunting](https://www.theverge.com/23861201/pokemon-paldea-winds-episode-1-show)
- - [Updated OnePlus 12 renders give us a better look at the 2024 flagship](https://www.androidauthority.com/oneplus-12-updated-renders-3361563/)
- - [AMD Radeon RX 7700 XT and 7800 XT review: great for 1440p gaming and less power hungry, but 7800 XT is barely faster than 6800 XT and older GPUs may suffice &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230906/p26#a230906p26)<!-- TECH:END -->
+ - [The first episode of Pokémon: Paldean Winds is a crash course in treasure hunting](https://www.theverge.com/23861201/pokemon-paldea-winds-episode-1-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 6&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [Catch Kickoff and Save Big With Deals From These Streaming Services     - CNET](https://www.cnet.com/deals/catch-kickoff-and-save-big-with-deals-from-these-streaming-services/#ftag=CAD590a51e)
  - [Phone brands need to be stopped: 32GB of RAM could soon be a thing](https://www.androidauthority.com/32gb-ram-smartphones-3361445/)
  - [The new UE Epicboom is a beefy $350 Bluetooth speaker](https://www.theverge.com/2023/9/6/23860991/ue-epicboom-speaker-announced-features-price)
- - [The Galaxy Watch 6 could literally fall off your wrist, thanks to the new strap](https://www.androidauthority.com/samsung-galaxy-watch-6-strap-design-fault-3361454/)
- - [Pakistan&#39;s tech workers are leaving the country, as funding dries up, companies close, and more; data: 800K+ Pakistanis got jobs abroad in 2022, up 189% YoY &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/230906/p9#a230906p9)<!-- TECH:END -->
+ - [The Galaxy Watch 6 could literally fall off your wrist, thanks to the new strap](https://www.androidauthority.com/samsung-galaxy-watch-6-strap-design-fault-3361454/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

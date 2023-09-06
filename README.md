@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: data analytics software company Alteryx has been working with an investment bank to explore a sale after attracting takeover interest; AYX jumps 13%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230906/p35#a230906p35)
  - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)
  - [California Gov. Newsom signs an EO on AI risks, instructing state agencies to examine AI threats and authorizing state employees to experiment with AI tools &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230906/p34#a230906p34)
  - [FAA clears UPS delivery drones for longer-range flights](https://www.theverge.com/2023/9/6/23861764/faa-ups-delivery-drones-amazon-prime-air)
- - [iPhone 17 could be the first phone to have Apple-designed 5G modems](https://www.androidauthority.com/apple-iphone-17-modem-3361729/)
- - [OpenAI announces its first developer conference, OpenAI DevDay, on November 6 in San Francisco, and plans to livestream a keynote presentation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230906/p33#a230906p33)<!-- TECH:END -->
+ - [iPhone 17 could be the first phone to have Apple-designed 5G modems](https://www.androidauthority.com/apple-iphone-17-modem-3361729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

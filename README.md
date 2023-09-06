@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Malicious Google ads deceive Mac users into installing Atomic Stealer malware](https://appleinsider.com/articles/23/09/06/malicious-google-ads-deceive-mac-users-into-installing-atomic-stealer-malware?utm_medium=rss)
  - [The AI Drake ‘Ghostwriter’ is back with a new song and is chasing a Grammy](https://www.theverge.com/2023/9/6/23862036/ai-drake-ghostwriter-new-song-grammy-travis-scott-21-savage)
  - [Google plans a November policy update requiring election advertisers to prominently disclose when their ads contain images, video, or audio from generative AI &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230906/p36#a230906p36)
- - [Sources: data analytics software company Alteryx has been working with an investment bank to explore a sale after attracting takeover interest; AYX jumps 13%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230906/p35#a230906p35)
- - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)<!-- TECH:END -->
+ - [Why This Award-Winning Piece of AI Art Can’t Be Copyrighted](https://www.wired.com/story/ai-art-copyright-matthew-allen/)
+ - [The best Google Pixel deals of September 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

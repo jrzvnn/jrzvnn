@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Google tentatively settled a US Play Store class action antitrust lawsuit brought by over 30 states; the settlement is subject to the court&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/230906/p29#a230906p29)
  - [New low-cost MacBook rumored to take on Chromebooks in education](https://appleinsider.com/articles/23/09/05/new-low-cost-macbook-coming-in-2024-to-take-on-chromebooks-in-education?utm_medium=rss)
  - [UK comes to its senses, will not push iMessage and WhatsApp to exit country](https://www.androidauthority.com/investigatory-powers-act-fail-3361630/)
  - [Here’s where you can preorder Sonos’ new Move 2 speaker](https://www.theverge.com/2023/9/6/23854738/sonos-move-2-preorder-buy-price-availability-release-date)
- - [The Boy and the Heron’s first trailer is a glimpse at Miyazaki’s next dark fantasy](https://www.theverge.com/23859581/the-boy-and-the-heron-trailer-release-date)
- - [An analysis of EU and other data on iOS and Android usage finds Apple&#39;s App Store has $10.40 of Monthly Revenue Per User compared to $1.40 for Google Play &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/230906/p28#a230906p28)<!-- TECH:END -->
+ - [The Boy and the Heron’s first trailer is a glimpse at Miyazaki’s next dark fantasy](https://www.theverge.com/23859581/the-boy-and-the-heron-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

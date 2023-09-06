@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s RX 7800 XT is the antidote to GPU inflation](https://www.theverge.com/2023/9/6/23861603/amd-radeon-rx-7800-xt-editorial-gpu-prices)
+ - [Max will reportedly start offering free sports later this year](https://www.theverge.com/2023/9/6/23861581/max-free-sports-streaming-warner-bros-discovery)
  - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)
  - [China bans iPhone use for government work](https://www.theverge.com/2023/9/6/23861353/china-bans-iphones-foreign-smartphones-government-officials-us-tiktok-restrictions)
- - [Forget AI — I just want the Pixel 8 to get four OS upgrades](https://www.theverge.com/2023/9/6/23861563/google-pixel-8-pro-rumors-android-os-software-support)
- - [Amazon has ended its periodicals program, and independent publishers are panicking](https://www.theverge.com/23861370/amazon-kindle-periodicals-unlimited-ended)
- - [Passkey: Which popular apps and services offer the new feature?](https://appleinsider.com/articles/23/09/06/passkey-which-popular-apps-and-services-offer-the-new-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Forget AI — I just want the Pixel 8 to get four OS upgrades](https://www.theverge.com/2023/9/6/23861563/google-pixel-8-pro-rumors-android-os-software-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

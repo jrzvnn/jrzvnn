@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku plans to lay off 300+ staff, or 10% of its workforce, to cut costs and will take a ~$65M impairment charge in the current quarter to remove some content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230906/p16#a230906p16)
+ - [Microsoft to detail OneDrive AI plans in ‘future of file management’ event](https://www.theverge.com/2023/9/6/23861040/microsoft-onedrive-ai-features-october-event)
  - [Dublin-based Wayflyer, which offers e-commerce funding in exchange for future revenue, raised $1B from Neuberger Berman via an &quot;off-balance sheet program&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230906/p15#a230906p15)
  - [HONOR’s biggest mistake with the Magic V2 is a delayed global launch](https://www.androidauthority.com/honor-magic-v2-delayed-global-launch-3360967/)
- - [A Flesh-Eating Bacterium Is Creeping North as Oceans Warm](https://www.wired.com/story/a-flesh-eating-bacterium-is-creeping-north-as-oceans-warm/)
- - [Autonomous Driving Goes Into High Gear](https://www.wired.com/story/have-a-nice-future-podcast-20/)
- - [Generative AI’s Biggest Security Flaw Is Not Easy to Fix](https://www.wired.com/story/generative-ai-prompt-injection-hacking/)<!-- TECH:END -->
+ - [A Flesh-Eating Bacterium Is Creeping North as Oceans Warm](https://www.wired.com/story/a-flesh-eating-bacterium-is-creeping-north-as-oceans-warm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

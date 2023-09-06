@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This one setting could be making your Instagram posts look worse — maybe](https://www.theverge.com/23861711/instagram-best-quality-posts-reels-stories-upload)
+ - [‘Hyundai Pay’ is the latest effort by car companies to make in-car payments a thing](https://www.theverge.com/2023/9/6/23861412/hyundai-pay-parkopedia-in-car-payment)
  - [Apple&#39;s own 5G modem is now expected to arrive in 2025](https://appleinsider.com/articles/23/09/06/apples-own-5g-modem-is-now-expected-to-arrive-in-2025?utm_medium=rss)
  - [Source: Apple&#39;s budget for training AI is now millions of dollars per day; its conversational AI team Foundational Models has ~16 people led by Ruoming Pang &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230906/p31#a230906p31)
- - [How to get started with Cinebench 2024](https://www.theverge.com/23861347/cinebench-2024-how-to)
- - [AMD’s RX 7800 XT is the antidote to GPU inflation](https://www.theverge.com/2023/9/6/23861603/amd-radeon-rx-7800-xt-editorial-gpu-prices)
- - [Max will reportedly start offering free sports later this year](https://www.theverge.com/2023/9/6/23861581/max-free-sports-streaming-warner-bros-discovery)<!-- TECH:END -->
+ - [How to get started with Cinebench 2024](https://www.theverge.com/23861347/cinebench-2024-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

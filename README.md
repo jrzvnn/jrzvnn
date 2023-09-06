@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 😝 [Transaction successfully](http://9gag.com/gag/avQ4OmW)
- - 💣 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
- - 😝 [Connect five](http://9gag.com/gag/aYVZ4P2)
- - 👉 [Good parenting](http://9gag.com/gag/axoQ9qL)<!-- MEMES:END -->
+ - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
+ - 😝 [She looks familiar](http://9gag.com/gag/aRE97gM)
+ - 💣 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
+ - 😝 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)
+ - 👉 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)<!-- MEMES:END -->
 
 ---
 </div>

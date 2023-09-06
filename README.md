@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Rube Goldberg chain of failures led to breach of Microsoft-hosted government emails](https://www.theverge.com/2023/9/6/23861890/microsoft-azure-data-breach-investigation-failures-outlook)
  - [Clubhouse updates its iOS and Android apps to include asynchronous voice-only group chats, in an attempt to be &quot;more like a messaging app&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230906/p38#a230906p38)
  - [Flexport CEO Dave Clark resigns after one year at the company, which he joined from Amazon; sources: Clark is considering a potential run for governor of Texas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p37#a230906p37)
  - [WhatsApp now supports HD photos and video](https://www.theverge.com/2023/9/6/23862044/whatsapp-hd-photo-video-messaging)
- - [Malicious Google ads deceive Mac users into installing Atomic Stealer malware](https://appleinsider.com/articles/23/09/06/malicious-google-ads-deceive-mac-users-into-installing-atomic-stealer-malware?utm_medium=rss)
- - [The AI Drake ‘Ghostwriter’ is back with a new song and is chasing a Grammy](https://www.theverge.com/2023/9/6/23862036/ai-drake-ghostwriter-new-song-grammy-travis-scott-21-savage)<!-- TECH:END -->
+ - [Malicious Google ads deceive Mac users into installing Atomic Stealer malware](https://appleinsider.com/articles/23/09/06/malicious-google-ads-deceive-mac-users-into-installing-atomic-stealer-malware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

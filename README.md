@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out file locking for Workspace customers](https://www.theverge.com/2023/9/6/23861097/google-workspace-file-lock-feature-drive-docs-sheets-slides)
- - [After adding math lessons in 2022, Duolingo plans to add &quot;hundreds of bite-sized&quot; music lessons to its app, helping users learn from a library of 200+ songs &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230906/p23#a230906p23)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 6&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-06-2023-3360940/)
- - [YouTube’s latest experiment is playing games](https://www.theverge.com/2023/9/6/23861087/youtube-playable-games-experiment)
- - [Ever wanted to play games on YouTube? This Google test might be for you](https://www.androidauthority.com/youtube-playables-3361539/)<!-- TECH:END -->
+ - [iPhone 15 Pro not enough to boost sales, say analysts](https://appleinsider.com/articles/23/09/06/iphone-15-pro-not-enough-to-boost-sales-say-analysts?utm_medium=rss)
+ - [Dictionary.com adds a bunch of AI-related words](https://www.theverge.com/2023/9/6/23861136/chatgpt-dictionary-generative-ai-nepo-baby)
+ - [B&amp;H slashes latest MacBook Pro 14-inch to record low $1,699, M1 Max up to $1,900 off](https://appleinsider.com/articles/23/09/06/bh-slashes-latest-macbook-pro-14-inch-to-record-low-1699-m1-max-up-to-1900-off?utm_medium=rss)
+ - [Apple defends iMessage, says users can switch between IM apps](https://www.androidauthority.com/apple-defends-imessage-dma-investigation-3361537/)
+ - [Google rolls out file locking for Workspace customers](https://www.theverge.com/2023/9/6/23861097/google-workspace-file-lock-feature-drive-docs-sheets-slides)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

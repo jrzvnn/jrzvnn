@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
- - 😝 [She looks familiar](http://9gag.com/gag/aRE97gM)
- - 💣 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 😝 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)
- - 👉 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/avQ4O8O)
+ - 💣 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
+ - 😝 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)
+ - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---
 </div>

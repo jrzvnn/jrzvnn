@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy Watch 6 could literally fall off your wrist, thanks to the new strap](https://www.androidauthority.com/samsung-galaxy-watch-6-strap-design-fault-3361454/)
  - [Pakistan&#39;s tech workers are leaving the country, as funding dries up, companies close, and more; data: 800K+ Pakistanis got jobs abroad in 2022, up 189% YoY &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/230906/p9#a230906p9)
  - [How long does a MacBook battery last?](https://www.androidauthority.com/how-long-does-a-macbook-battery-last-3361447/)
  - [Sources: China orders officials at central government agencies not to use iPhones and other foreign-branded devices for work or bring them into the office &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/230906/p8#a230906p8)
- - [Mozilla finds that 25 major car brands examined fail to adhere to the most basic privacy and security standards in their new internet-connected models &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230906/p7#a230906p7)
- - [UMG and Deezer strike a deal to give more weight to professional artists, who generate at least 1,000 listens a month, when calculating streaming royalties &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230906/p6#a230906p6)<!-- TECH:END -->
+ - [Mozilla finds that 25 major car brands examined fail to adhere to the most basic privacy and security standards in their new internet-connected models &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230906/p7#a230906p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EcoFlow Delta 2 Max portable power station review: improving on excellence](https://appleinsider.com/articles/23/09/06/ecoflow-delta-2-max-portable-power-station-review-improving-on-excellence?utm_medium=rss)
  - [Samsung’s upcoming Galaxy Buds FE could look a lot like the original Galaxy Buds](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-3361522/)
  - [iMessage and Bing avoid strict DMA rules, for now](https://www.theverge.com/2023/9/6/23861030/imessage-bing-european-union-commission-digital-markets-act-dma)
  - [MSI fixes Windows 11 BSOD ‘unsupported processor’ errors with new BIOS updates](https://www.theverge.com/2023/9/6/23861050/msi-windows-11-bsod-unsupported-processor-error)
- - [Roku plans to lay off 300+ staff, or 10% of its workforce, to cut costs and will take a ~$65M impairment charge in the current quarter to remove some content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230906/p16#a230906p16)
- - [Microsoft to detail OneDrive AI plans in ‘future of file management’ event](https://www.theverge.com/2023/9/6/23861040/microsoft-onedrive-ai-features-october-event)<!-- TECH:END -->
+ - [Roku plans to lay off 300+ staff, or 10% of its workforce, to cut costs and will take a ~$65M impairment charge in the current quarter to remove some content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230906/p16#a230906p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

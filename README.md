@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clubhouse reinvents itself as an audio messaging app](https://www.theverge.com/2023/9/6/23861862/clubhouse-reinvents-itself-audio-messaging-app)
  - [X’s Community Notes feature will now include videos](https://www.theverge.com/2023/9/6/23861669/x-twitter-community-notes-video-fact-checking)
  - [New AI-powered Gboard tool could make grammar mistakes a thing of the past](https://www.androidauthority.com/gboard-ai-powered-tool-3361680/)
  - [Slack’s AI tool that can recap channels and threads starts testing this winter](https://www.theverge.com/2023/9/6/23861713/slack-ai-tool-recap-channels-threads-test)
- - [The 20 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)<!-- TECH:END -->
+ - [The 20 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

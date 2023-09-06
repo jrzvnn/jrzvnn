@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will soon require disclaimers for AI-generated political ads](https://www.theverge.com/2023/9/6/23862172/google-disclaimers-ai-generated-political-ads)
+ - [YouTube is going to remove some ad controls for creators](https://www.theverge.com/2023/9/6/23862198/youtube-ad-controls-creators-remove)
  - [A Rube Goldberg chain of failures led to breach of Microsoft-hosted government emails](https://www.theverge.com/2023/9/6/23861890/microsoft-azure-data-breach-investigation-failures-outlook)
- - [Clubhouse updates its iOS and Android apps to include asynchronous voice-only group chats, in an attempt to be &quot;more like a messaging app&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230906/p38#a230906p38)
- - [Flexport CEO Dave Clark resigns after one year at the company, which he joined from Amazon; sources: Clark is considering a potential run for governor of Texas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p37#a230906p37)
- - [WhatsApp now supports HD photos and video](https://www.theverge.com/2023/9/6/23862044/whatsapp-hd-photo-video-messaging)
- - [Malicious Google ads deceive Mac users into installing Atomic Stealer malware](https://appleinsider.com/articles/23/09/06/malicious-google-ads-deceive-mac-users-into-installing-atomic-stealer-malware?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save on the Pixel 7 Pro and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [22 Advent Calendars You Should Buy Before They&#39;re Gone     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So delusional](http://9gag.com/gag/a9qZnrZ)
+ - 😝 [Some nice pair of\u2026](http://9gag.com/gag/aOxA3eE)
  - 😝 [Good parenting](http://9gag.com/gag/axoQ9qL)
- - 💣 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)
- - 😝 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)
+ - 💣 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)
+ - 😝 [Title](http://9gag.com/gag/a8qQEGV)
  - 👉 [Based Cyrus](http://9gag.com/gag/aL1VpAP)<!-- MEMES:END -->
 
 ---

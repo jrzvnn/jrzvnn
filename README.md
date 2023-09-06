@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)
+ - [California Gov. Newsom signs an EO on AI risks, instructing state agencies to examine AI threats and authorizing state employees to experiment with AI tools &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230906/p34#a230906p34)
  - [FAA clears UPS delivery drones for longer-range flights](https://www.theverge.com/2023/9/6/23861764/faa-ups-delivery-drones-amazon-prime-air)
  - [iPhone 17 could be the first phone to have Apple-designed 5G modems](https://www.androidauthority.com/apple-iphone-17-modem-3361729/)
- - [OpenAI announces its first developer conference, OpenAI DevDay, on November 6 in San Francisco, and plans to livestream a keynote presentation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230906/p33#a230906p33)
- - [Apple is reportedly spending ‘millions of dollars a day’ training AI](https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending)
- - [Grindr’s Return to Office Ultimatum Has Gutted a Uniquely Queer Space in Tech](https://www.wired.com/story/grindrs-return-to-office-ultimatum-gutted-a-uniquely-queer-space-in-tech/)<!-- TECH:END -->
+ - [OpenAI announces its first developer conference, OpenAI DevDay, on November 6 in San Francisco, and plans to livestream a keynote presentation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230906/p33#a230906p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

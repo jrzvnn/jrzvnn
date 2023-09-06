@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlantic Council: how a Chinese law from 2021 that requires firms disclose flaws within two days of discovery feeds into China&#39;s offensive hacking operations &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230906/p25#a230906p25)
  - [Sonos Move 2 announced with better battery &amp; stereo support](https://appleinsider.com/articles/23/09/06/sonos-move-2-announced-with-better-battery-stereo-support?utm_medium=rss)
  - [New &#39;8-hour Long Work Day innie Mix&#39; of &#39;Severence&#39; is perfect for your office playlist](https://appleinsider.com/articles/23/09/06/new-8-hour-long-work-day-innie-mix-of-severence-is-perfect-for-your-office-playlist?utm_medium=rss)
- - [Starfield Is the Reason to Subscribe to Xbox Game Pass     - CNET](https://www.cnet.com/tech/gaming/starfield-is-the-reason-to-subscribe-to-xbox-game-pass/#ftag=CAD590a51e)
- - [The Best Reading Glasses of 2023     - CNET](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
- - [X rolls out Community Notes for videos and says the tool offers a &quot;highly-scalable way of adding context to edited clips, AI-generated videos, and more&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230906/p24#a230906p24)<!-- TECH:END -->
+ - [X rolls out Community Notes for videos and says the tool offers a &quot;highly-scalable way of adding context to edited clips, AI-generated videos, and more&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230906/p24#a230906p24)
+ - [iPhone 15 Pro not enough to boost sales, say analysts](https://appleinsider.com/articles/23/09/06/iphone-15-pro-not-enough-to-boost-sales-say-analysts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malicious Google ads deceive Mac users into installing Atomic Stealer malware](https://appleinsider.com/articles/23/09/06/malicious-google-ads-deceive-mac-users-into-installing-atomic-stealer-malware?utm_medium=rss)
+ - [The AI Drake ‘Ghostwriter’ is back with a new song and is chasing a Grammy](https://www.theverge.com/2023/9/6/23862036/ai-drake-ghostwriter-new-song-grammy-travis-scott-21-savage)
+ - [Google plans a November policy update requiring election advertisers to prominently disclose when their ads contain images, video, or audio from generative AI &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230906/p36#a230906p36)
  - [Sources: data analytics software company Alteryx has been working with an investment bank to explore a sale after attracting takeover interest; AYX jumps 13%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/230906/p35#a230906p35)
- - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)
- - [California Gov. Newsom signs an EO on AI risks, instructing state agencies to examine AI threats and authorizing state employees to experiment with AI tools &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230906/p34#a230906p34)
- - [FAA clears UPS delivery drones for longer-range flights](https://www.theverge.com/2023/9/6/23861764/faa-ups-delivery-drones-amazon-prime-air)
- - [iPhone 17 could be the first phone to have Apple-designed 5G modems](https://www.androidauthority.com/apple-iphone-17-modem-3361729/)<!-- TECH:END -->
+ - [Universal Music Group lands new royalty model that boosts popular artists](https://www.theverge.com/2023/9/6/23861232/universal-music-deezer-streaming-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

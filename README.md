@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ever wanted to play games on YouTube? This Google test might be for you](https://www.androidauthority.com/youtube-playables-3361539/)
+ - [Polestar is working on its own smartphone to seamlessly sync with its luxury EVs](https://www.theverge.com/2023/9/6/23861090/polestar-smartphone-launch-geely-xingji-meizu-evs)
  - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
  - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
- - [&#39;Asada: The Art of Mexican-Style Grilling&#39; Cookbook Review: An Essential, Flavor-Filled Intro](https://www.wired.com/story/asada-mexican-grilling-cookbook-bricia-lopez/)
- - [How China Demands Tech Firms Reveal Hackable Flaws in Their Products](https://www.wired.com/story/china-vulnerability-disclosure-law/)
- - [AMD Radeon RX 7800 XT and 7700 XT review: a nudge into the 1440p era](https://www.theverge.com/23860970/amd-radeon-rx-7800-xt-7700-xt-review)<!-- TECH:END -->
+ - [&#39;Asada: The Art of Mexican-Style Grilling&#39; Cookbook Review: An Essential, Flavor-Filled Intro](https://www.wired.com/story/asada-mexican-grilling-cookbook-bricia-lopez/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

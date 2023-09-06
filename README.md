@@ -155,9 +155,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who are you??](http://9gag.com/gag/aMED876)
- - 😝 [Cooking beef tenderloin with Diane steak sauce](http://9gag.com/gag/aEqyx5M)
- - 💣 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
+ - 😝 [I need a captain. Where is this from?](http://9gag.com/gag/ajVGEzw)
+ - 😝 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
+ - 💣 [WHEN YOU THINK YOU&#39;RE IN CONTROL... BUT SHE&#39;S ABOUT TO DESTROY YOU...](http://9gag.com/gag/a8qQ8jY)
  - 😝 [Women](http://9gag.com/gag/avQ4O8O)
  - 👉 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)<!-- MEMES:END -->
 

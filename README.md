@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU will force these platforms to open up to rivals, and here’s when](https://www.androidauthority.com/eu-digital-markets-act-gatekeeper-platforms-list-3361518/)
- - [A US judge denies Apple&#39;s efforts to block Eddy Cue and two executives testifying in a DOJ case over Google&#39;s market dominance, set to begin on September 12 &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230906/p14#a230906p14)
- - [Apple&#39;s iMessage gets a reprieve from EU law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
- - [A look at U.S. et al v. Google, the federal government&#39;s first monopoly trial of the modern internet era, set to last 10 weeks; top execs are likely to testify &lpar;New York Times&rpar;](http://www.techmeme.com/230906/p13#a230906p13)
- - [China completely bans use of iPhone for government business](https://appleinsider.com/articles/23/09/06/china-completely-bans-use-of-iphone-for-government-business?utm_medium=rss)<!-- TECH:END -->
+ - [HONOR’s biggest mistake with the Magic V2 is a delayed global launch](https://www.androidauthority.com/honor-magic-v2-delayed-global-launch-3360967/)
+ - [A Flesh-Eating Bacterium Is Creeping North as Oceans Warm](https://www.wired.com/story/a-flesh-eating-bacterium-is-creeping-north-as-oceans-warm/)
+ - [Autonomous Driving Goes Into High Gear](https://www.wired.com/story/have-a-nice-future-podcast-20/)
+ - [Generative AI’s Biggest Security Flaw Is Not Easy to Fix](https://www.wired.com/story/generative-ai-prompt-injection-hacking/)
+ - [Waymo is using insurance data about self-driving cars to bolster its safety case](https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

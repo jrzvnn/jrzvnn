@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: KKR plans to float chip equipment maker Hitachi Kokusai Electric in Tokyo, aiming for a ~$2.7B valuation, up 60% from KKR&#39;s 2017 acquisition price &lpar;Financial Times&rpar;](http://www.techmeme.com/230906/p10#a230906p10)
- - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 6&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [Catch Kickoff and Save Big With Deals From These Streaming Services     - CNET](https://www.cnet.com/deals/catch-kickoff-and-save-big-with-deals-from-these-streaming-services/#ftag=CAD590a51e)
- - [Phone brands need to be stopped: 32GB of RAM could soon be a thing](https://www.androidauthority.com/32gb-ram-smartphones-3361445/)
- - [The new UE Epicboom is a beefy $350 Bluetooth speaker](https://www.theverge.com/2023/9/6/23860991/ue-epicboom-speaker-announced-features-price)<!-- TECH:END -->
+ - [The EU lists the 22 services falling under the Digital Markets Act, including TikTok and Facebook, and will assess if Microsoft&#39;s services and iMessage qualify &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230906/p12#a230906p12)
+ - [The UK says a bug caused its air traffic system to confuse two checkpoints 4,000 nautical miles apart, leading to a huge outage, and plans to review the issue &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/230906/p11#a230906p11)
+ - [GoPro is back at making 360-degree cameras](https://www.theverge.com/2023/9/6/23860476/gopro-max-360-video-new-model)
+ - [Google Search, Whatsapp, and TikTok on list of 22 services targeted by EU’s tough new DMA](https://www.theverge.com/2023/9/6/23859570/european-union-commission-digital-markets-act-gatekeepers-apple-google-meta-microsoft)
+ - [OPPO Find X7 Pro: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

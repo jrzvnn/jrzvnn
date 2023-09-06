@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 29 story building in New York without windows](http://9gag.com/gag/aPgz9YG)
- - 😝 [Be careful, ladies! Here cums the best shooter in wild East](http://9gag.com/gag/abvKzKL)
- - 💣 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
+ - 😝 [Who are you??](http://9gag.com/gag/aMED876)
  - 😝 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)
- - 👉 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
+ - 💣 [Two brothers were able to say a precious final goodbye with the help of hospital staff](http://9gag.com/gag/ago6XRK)
+ - 😝 [Be careful, ladies! Here cums the best shooter in wild East](http://9gag.com/gag/abvKzKL)
+ - 👉 [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)<!-- MEMES:END -->
 
 ---
 </div>

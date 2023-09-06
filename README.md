@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 could be the first phone to have Apple-designed 5G modems](https://www.androidauthority.com/apple-iphone-17-modem-3361729/)
+ - [OpenAI announces its first developer conference, OpenAI DevDay, on November 6 in San Francisco, and plans to livestream a keynote presentation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230906/p33#a230906p33)
  - [Apple is reportedly spending ‘millions of dollars a day’ training AI](https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending)
  - [Grindr’s Return to Office Ultimatum Has Gutted a Uniquely Queer Space in Tech](https://www.wired.com/story/grindrs-return-to-office-ultimatum-gutted-a-uniquely-queer-space-in-tech/)
- - [Clubhouse reinvents itself as an audio messaging app](https://www.theverge.com/2023/9/6/23861862/clubhouse-reinvents-itself-audio-messaging-app)
- - [X’s Community Notes feature will now include videos](https://www.theverge.com/2023/9/6/23861669/x-twitter-community-notes-video-fact-checking)
- - [New AI-powered Gboard tool could make grammar mistakes a thing of the past](https://www.androidauthority.com/gboard-ai-powered-tool-3361680/)<!-- TECH:END -->
+ - [New Slack AI to Help Summarize Your Work Conversations and More     - CNET](https://www.cnet.com/tech/services-and-software/new-slack-ai-to-help-summarize-your-work-conversations-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

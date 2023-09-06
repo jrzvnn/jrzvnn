@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ever wanted to play games on YouTube? This Google test might be for you](https://www.androidauthority.com/youtube-playables-3361539/)
- - [Polestar is working on its own smartphone to seamlessly sync with its luxury EVs](https://www.theverge.com/2023/9/6/23861090/polestar-smartphone-launch-geely-xingji-meizu-evs)
- - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
- - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
- - [&#39;Asada: The Art of Mexican-Style Grilling&#39; Cookbook Review: An Essential, Flavor-Filled Intro](https://www.wired.com/story/asada-mexican-grilling-cookbook-bricia-lopez/)<!-- TECH:END -->
+ - [Google rolls out file locking for Workspace customers](https://www.theverge.com/2023/9/6/23861097/google-workspace-file-lock-feature-drive-docs-sheets-slides)
+ - [After adding math lessons in 2022, Duolingo plans to add &quot;hundreds of bite-sized&quot; music lessons to its app, helping users learn from a library of 200+ songs &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230906/p23#a230906p23)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 6&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-06-2023-3360940/)
+ - [YouTube’s latest experiment is playing games](https://www.theverge.com/2023/9/6/23861087/youtube-playable-games-experiment)
+ - [Ever wanted to play games on YouTube? This Google test might be for you](https://www.androidauthority.com/youtube-playables-3361539/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

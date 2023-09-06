@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is dropping some YouTube Studio ad controls, limiting creators&#39; control over pre-roll, post-roll, skippable, and non-skippable ads starting in November &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230906/p40#a230906p40)
+ - [Developers can RSVP to attend a free, in-person workshop at the Apple Developer Center](https://appleinsider.com/articles/23/09/06/developers-can-rsvp-to-attend-a-free-in-person-workshop-at-the-apple-developer-center?utm_medium=rss)
  - [Slack announces Slack AI, which can generate channel highlights, thread summaries, and search answers based on messages, with a pilot starting &quot;this winter&quot; &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230906/p39#a230906p39)
  - [Swatch x Blancpain Scuba Fifty Fathom: price, availability, specs](https://www.wired.com/story/swatch-x-blancpain-scuba-fifty-fathoms-diver-watch/)
- - [Google will soon require disclaimers for AI-generated political ads](https://www.theverge.com/2023/9/6/23862172/google-disclaimers-ai-generated-political-ads)
- - [YouTube is going to remove some ad controls for creators](https://www.theverge.com/2023/9/6/23862198/youtube-ad-controls-creators-remove)
- - [A Rube Goldberg chain of failures led to breach of Microsoft-hosted government emails](https://www.theverge.com/2023/9/6/23861890/microsoft-azure-data-breach-investigation-failures-outlook)<!-- TECH:END -->
+ - [Google will soon require disclaimers for AI-generated political ads](https://www.theverge.com/2023/9/6/23862172/google-disclaimers-ai-generated-political-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

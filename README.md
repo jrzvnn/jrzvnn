@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Can Be An Extraordinary Force For Good—if It’s Contained](https://www.wired.com/story/ai-containment-regulation-suleyman/)
- - [Google has been rolling out Chrome&#39;s &quot;Enhanced Ad Privacy&quot; via a popup, part of its Topics API; some say the &quot;Got It&quot; button is misleading as tracking is active &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/230906/p17#a230906p17)
- - [EcoFlow Delta 2 Max portable power station review: improving on excellence](https://appleinsider.com/articles/23/09/06/ecoflow-delta-2-max-portable-power-station-review-improving-on-excellence?utm_medium=rss)
- - [Samsung’s upcoming Galaxy Buds FE could look a lot like the original Galaxy Buds](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-3361522/)
- - [iMessage and Bing avoid strict DMA rules, for now](https://www.theverge.com/2023/9/6/23861030/imessage-bing-european-union-commission-digital-markets-act-dma)<!-- TECH:END -->
+ - [A profile of Kent Walker, Google&#39;s top lawyer, who helped negotiate the 2013 FTC settlement, as Google prepares to defend itself against DOJ antitrust claims &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230906/p20#a230906p20)
+ - [Sources: the UK government pulls back from new encryption rules in the Online Safety Bill, averting a clash with Big Tech, as the bill enters its final stages &lpar;Financial Times&rpar;](http://www.techmeme.com/230906/p19#a230906p19)
+ - [The Pentagon is considering building a vast network of AI-powered tech, drones, and autonomous systems in the next two years to counter threats from China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230906/p18#a230906p18)
+ - [The iPhone 15 Pro Soon Could Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-soon-could-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)
+ - [Don&#39;t Start Playing Starfield Until You Read These 11 Essential Tips     - CNET](https://www.cnet.com/tech/gaming/dont-start-playing-starfield-until-you-read-these-11-essential-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

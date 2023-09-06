@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iMessage gets a reprieve from EU law](https://appleinsider.com/articles/23/09/06/apples-imessage-gets-a-reprieve-from-eu-law?utm_medium=rss)
+ - [A look at U.S. et al v. Google, the federal government&#39;s first monopoly trial of the modern internet era, set to last 10 weeks; top execs are likely to testify &lpar;New York Times&rpar;](http://www.techmeme.com/230906/p13#a230906p13)
+ - [China completely bans use of iPhone for government business](https://appleinsider.com/articles/23/09/06/china-completely-bans-use-of-iphone-for-government-business?utm_medium=rss)
  - [The EU lists the 22 services falling under the Digital Markets Act, including TikTok and Facebook, and will assess if Microsoft&#39;s services and iMessage qualify &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230906/p12#a230906p12)
- - [The UK says a bug caused its air traffic system to confuse two checkpoints 4,000 nautical miles apart, leading to a huge outage, and plans to review the issue &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/230906/p11#a230906p11)
- - [GoPro is back at making 360-degree cameras](https://www.theverge.com/2023/9/6/23860476/gopro-max-360-video-new-model)
- - [Google Search, Whatsapp, and TikTok on list of 22 services targeted by EU’s tough new DMA](https://www.theverge.com/2023/9/6/23859570/european-union-commission-digital-markets-act-gatekeepers-apple-google-meta-microsoft)
- - [OPPO Find X7 Pro: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
+ - [The UK says a bug caused its air traffic system to confuse two checkpoints 4,000 nautical miles apart, leading to a huge outage, and plans to review the issue &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/230906/p11#a230906p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

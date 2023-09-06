@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dublin-based Wayflyer, which offers e-commerce funding in exchange for future revenue, raised $1B from Neuberger Berman via an &quot;off-balance sheet program&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230906/p15#a230906p15)
  - [HONOR’s biggest mistake with the Magic V2 is a delayed global launch](https://www.androidauthority.com/honor-magic-v2-delayed-global-launch-3360967/)
  - [A Flesh-Eating Bacterium Is Creeping North as Oceans Warm](https://www.wired.com/story/a-flesh-eating-bacterium-is-creeping-north-as-oceans-warm/)
  - [Autonomous Driving Goes Into High Gear](https://www.wired.com/story/have-a-nice-future-podcast-20/)
- - [Generative AI’s Biggest Security Flaw Is Not Easy to Fix](https://www.wired.com/story/generative-ai-prompt-injection-hacking/)
- - [Waymo is using insurance data about self-driving cars to bolster its safety case](https://www.theverge.com/2023/9/6/23860029/waymo-insurance-injury-claims-autonomous-vehicle-swiss-re)<!-- TECH:END -->
+ - [Generative AI’s Biggest Security Flaw Is Not Easy to Fix](https://www.wired.com/story/generative-ai-prompt-injection-hacking/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

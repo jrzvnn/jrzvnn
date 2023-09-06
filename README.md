@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Apple signed a new deal with Arm for chip technology that &quot;extends beyond 2040&quot; &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230905/p35#a230905p35)
+ - [MetaMask says its customers in the US, UK, and parts of Europe can now convert ether for traditional fiat currency with a new sell function &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/230905/p34#a230905p34)
  - [Sundar Pichai reflects on Google turning 25, says search is &quot;still our biggest moonshot&quot; and that AI will be the biggest tech shift &quot;we see in our lifetimes&quot; &lpar;Sundar Pichai/The Keyword&rpar;](http://www.techmeme.com/230905/p33#a230905p33)
- - [Overnight updates to physical Apple Stores could hint at fast post-event product availability](https://appleinsider.com/articles/23/09/05/overnight-updates-to-physical-apple-stores-could-hint-at-fast-post-event-product-availability?utm_medium=rss)
- - [Apple Watch Ultra back on sale, MacBooks from $749 &amp; more from Amazon this week](https://appleinsider.com/articles/23/09/05/apple-watch-ultra-back-on-sale-macbooks-from-749-more-from-amazon-this-week?utm_medium=rss)
- - [Samsung Galaxy Z Fold 5 Deals: Up to $1,000 Off With Trade-In or New Line and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-preorder-deals/#ftag=CAD590a51e)
- - [SEC filing: Coinbase has created a new crypto lending service in the US for institutional clients and has raised $57M for the program &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/230905/p32#a230905p32)<!-- TECH:END -->
+ - [Zoom Announces New &#39;AI Companion&#39; Features     - CNET](https://www.cnet.com/tech/services-and-software/zoom-announces-new-ai-companion-features/#ftag=CAD590a51e)
+ - [Overnight updates to physical Apple Stores could hint at fast post-event product availability](https://appleinsider.com/articles/23/09/05/overnight-updates-to-physical-apple-stores-could-hint-at-fast-post-event-product-availability?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

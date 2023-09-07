@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inevitable iPhone 15 price increase won&#39;t deter pent-up demand](https://appleinsider.com/articles/23/09/07/inevitable-iphone-15-price-increase-wont-deter-pent-up-demand?utm_medium=rss)
  - [Riot reports earning $31.7M in energy credits from Texas power grid operator ERCOT to curtail its usage in August, dwarfing the ~$8.9M worth of bitcoin mined &lpar;CNBC&rpar;](http://www.techmeme.com/230907/p15#a230907p15)
  - [Poll: Which dead/dormant phone series would you resurrect?](https://www.androidauthority.com/dead-dormant-phone-series-resurrect-poll-3361939/)
  - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
- - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
- - [Experts link LastPass security breach to a string of crypto heists](https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers)<!-- TECH:END -->
+ - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

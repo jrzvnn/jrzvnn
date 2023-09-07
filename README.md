@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 💣 [Women](http://9gag.com/gag/avQ4O8O)
- - 😝 [Good to know](http://9gag.com/gag/aWGP1Xn)
- - 👉 [First time thunder or what?](http://9gag.com/gag/a6q4OM2)<!-- MEMES:END -->
+ - 😝 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)
+ - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 💣 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
+ - 😝 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)
+ - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
 
 ---
 </div>

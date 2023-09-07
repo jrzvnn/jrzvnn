@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Charles Martinet finally explains what the hell a Mario ambassador is](https://www.theverge.com/2023/9/7/23862869/nintendo-mario-voice-actor-charles-martinet-ambassador)
  - [Microsoft says its Copilot Copyright Commitment will defend customers of its AI products from copyright lawsuits if they use &quot;guardrails and content filters&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230907/p24#a230907p24)
  - [BMW drops plans to offer subscriptions to activate heated seats or other hardware already fitted to its cars, limiting subscriptions to software-based functions &lpar;Alistair Charlton/Forbes&rpar;](http://www.techmeme.com/230907/p23#a230907p23)
- - [Patreon is adding a Discord-like chat feature for creators and fans](https://www.theverge.com/2023/9/7/23861171/patreon-community-chats-discord-chatroom-member-profile)
- - [Anthropic’s Claude AI chatbot gets a paid plan for heavy users](https://www.theverge.com/2023/9/7/23862848/anthropic-claude-pro-ai-chatbot-paid-plan-google)
- - [Apple TV+ unveils its first German-language show](https://appleinsider.com/articles/23/09/07/apple-tv-unveils-its-first-german-language-show?utm_medium=rss)<!-- TECH:END -->
+ - [11 Unhealthy Foods to Ditch From Your Diet     - CNET](https://www.cnet.com/health/nutrition/11-unhealthy-foods-to-ditch-from-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

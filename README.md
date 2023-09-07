@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android Security Bulletin for September 2023 patches a privilege escalation zero-day flaw in Android 11-13 that &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230907/p1#a230907p1)
  - [Vitalik Buterin co-authors paper on &quot;Privacy Pools&quot;, a blockchain protocol to verify the legality of user funds without revealing their full transaction history &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230906/p45#a230906p45)
  - [iPhone 15: Rumors, Leaks and All the Buzz Ahead of the Apple Event     - CNET](https://www.cnet.com/tech/mobile/iphone-15-apple-leaks-buzz-ahead-of-apple-event/#ftag=CAD590a51e)
  - [London-based Shop Circle, which provides e-commerce software to merchants, raised a $120M Series A in equity and debt led by 645 Ventures and 3VC &lpar;Alex York/Forbes&rpar;](http://www.techmeme.com/230906/p44#a230906p44)
- - [Tencent is launching its Hunyuan AI model for business use on Sept. 7 and integrating the model with its existing video conferencing and social media products &lpar;CNBC&rpar;](http://www.techmeme.com/230906/p43#a230906p43)
- - [Tel Aviv-based Ibex Medical Analytics, which uses AI for cancer diagnostics, raised a $55M Series C led by 83North, bringing its total funding to $100M+ &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230906/p42#a230906p42)<!-- TECH:END -->
+ - [Tencent is launching its Hunyuan AI model for business use on Sept. 7 and integrating the model with its existing video conferencing and social media products &lpar;CNBC&rpar;](http://www.techmeme.com/230906/p43#a230906p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

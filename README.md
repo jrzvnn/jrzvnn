@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)
+ - 😝 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)
  - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
  - 💣 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
- - 😝 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)
- - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
+ - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - 👉 [Good to know](http://9gag.com/gag/aWGP1Xn)<!-- MEMES:END -->
 
 ---
 </div>

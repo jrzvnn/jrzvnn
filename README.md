@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Sept. 7: AirPods for $99, iPhone SE 2 $159, 2023 MacBook Pro $1,699, more](https://appleinsider.com/articles/23/09/07/daily-deals-sept-7-airpods-for-99-iphone-se-2-159-2023-macbook-pro-1699-more?utm_medium=rss)
  - [Certa, which offers a compliance, governance, and risk management service for enterprises, raised a $35M Series B, bringing its total raised to &quot;just over&quot; $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230907/p22#a230907p22)
  - [Sunday Ticket is bringing the NFL to YouTube — and YouTube to the NFL](https://www.theverge.com/2023/9/7/23862828/sunday-ticket-youtube-nfl-season)
  - [Amazon has ended its periodicals program, and independent publishers are panicking](https://www.theverge.com/23861370/amazon-kindle-periodicals-unlimited-ended)
- - [The best smoke and carbon monoxide detectors with HomeKit support](https://appleinsider.com/inside/homekit/best/the-best-smoke-and-carbon-monoxide-detectors-with-homekit-support?utm_medium=rss)
- - [How to Choose the Best Game Subscription Service &lpar;2023&rpar;: Xbox Game Pass, PlayStation Plus, Nintendo Online](https://www.wired.com/story/best-game-subscriptions/)<!-- TECH:END -->
+ - [The best smoke and carbon monoxide detectors with HomeKit support](https://appleinsider.com/inside/homekit/best/the-best-smoke-and-carbon-monoxide-detectors-with-homekit-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

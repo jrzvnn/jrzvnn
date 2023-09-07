@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Senate votes to confirm Anna Gomez as an FCC commissioner, breaking the deadlock at the agency and giving the FCC a 3-2 Democratic majority &lpar;Linda Hardesty/Fierce Wireless&rpar;](http://www.techmeme.com/230907/p35#a230907p35)
+ - [Senate confirms Anna Gomez to break Joe Biden’s FCC deadlock](https://www.theverge.com/2023/9/7/23863365/anna-gomez-fcc-commissioner-senate-confirmation-net-neutrality)
+ - [Cruise ‘just days away’ from approval to mass-produce Origin robotaxi without steering wheels](https://www.theverge.com/2023/9/7/23863390/cruise-origin-robotaxi-regulatory-approval-nhtsa)
+ - [The Senate votes 55 to 43 to approve Anna Gomez as the fifth FCC commissioner, breaking the deadlock at the agency and giving the FCC a 3-2 Democratic majority &lpar;Linda Hardesty/Fierce Wireless&rpar;](http://www.techmeme.com/230907/p35#a230907p35)
  - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 7&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [The End of Burning Man Is Also Its Future](https://www.wired.com/story/the-end-of-burning-man-is-also-its-future/)
- - [Apple&#39;s Entrepreneur Camp application window is now open](https://appleinsider.com/articles/23/09/07/apples-entrepreneur-camp-application-window-is-now-open?utm_medium=rss)
- - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)<!-- TECH:END -->
+ - [The End of Burning Man Is Also Its Future](https://www.wired.com/story/the-end-of-burning-man-is-also-its-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

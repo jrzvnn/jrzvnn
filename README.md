@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elyana Thierry, X&#39;s head of brand safety, has left per her LinkedIn page, months after being elevated to the role after the previous head resigned in summer &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230907/p38#a230907p38)
+ - [FTX exec Ryan Salame pleads guilty to criminal charges](https://www.theverge.com/2023/9/7/23862959/ftx-trial-ryan-salame-pleads-guilty-criminal-charges)
  - [China government iPhone ban will have almost no effect on sales, says analyst](https://appleinsider.com/articles/23/09/07/china-government-iphone-ban-will-have-almost-no-effect-on-sales-says-analyst?utm_medium=rss)
  - [Tesla will install up to 20,000 versatile EV chargers at Hilton locations](https://www.theverge.com/2023/9/7/23862765/tesla-hilton-universal-wall-connector-ev-charger-deal)
- - [Entire iPhone 15 lineup&#39;s camera specs detailed in last-minute leak](https://appleinsider.com/articles/23/09/07/entire-iphone-15-lineups-camera-specs-detailed-in-last-minute-leak?utm_medium=rss)
- - [Ex-FTX Digital Markets co-CEO Ryan Salame pleads guilty to federal campaign finance and money transmitting crimes and will forfeit $1.5B+ as part of the deal &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230907/p37#a230907p37)
- - [Patreon adds Discord-like group chats to mobile, letting creators join up to four chats and restrict access based on subscriber tiers; desktop is coming later &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230907/p36#a230907p36)<!-- TECH:END -->
+ - [Entire iPhone 15 lineup&#39;s camera specs detailed in last-minute leak](https://appleinsider.com/articles/23/09/07/entire-iphone-15-lineups-camera-specs-detailed-in-last-minute-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

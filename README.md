@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - 😝 [Women](http://9gag.com/gag/avQ4O8O)
- - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 😝 [Good to know](http://9gag.com/gag/aWGP1Xn)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
+ - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
+ - 💣 [Good to know](http://9gag.com/gag/aWGP1Xn)
+ - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 👉 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)<!-- MEMES:END -->
 
 ---
 </div>

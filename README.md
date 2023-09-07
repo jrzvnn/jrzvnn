@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China plans to expand the iPhone for work ban to include sensitive departments, government-backed agencies and state-owned companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p3#a230907p3)
  - [UNESCO report: overreliance on online learning during COVID-19 led to &quot;staggering&quot; education inequality and hindered discussion on equitable, lower-tech options &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230907/p2#a230907p2)
  - [Android Security Bulletin for September 2023 patches a privilege escalation zero-day flaw in Android 11-13 that &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230907/p1#a230907p1)
  - [Vitalik Buterin co-authors paper on &quot;Privacy Pools&quot;, a blockchain protocol to verify the legality of user funds without revealing their full transaction history &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230906/p45#a230906p45)
- - [iPhone 15: Rumors, Leaks and All the Buzz Ahead of the Apple Event     - CNET](https://www.cnet.com/tech/mobile/iphone-15-apple-leaks-buzz-ahead-of-apple-event/#ftag=CAD590a51e)
- - [London-based Shop Circle, which provides e-commerce software to merchants, raised a $120M Series A in equity and debt led by 645 Ventures and 3VC &lpar;Alex York/Forbes&rpar;](http://www.techmeme.com/230906/p44#a230906p44)<!-- TECH:END -->
+ - [iPhone 15: Rumors, Leaks and All the Buzz Ahead of the Apple Event     - CNET](https://www.cnet.com/tech/mobile/iphone-15-apple-leaks-buzz-ahead-of-apple-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

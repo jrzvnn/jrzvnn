@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Surface Go 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/microsoft-surface-go-4-3360520/)
  - [Elyana Thierry, X&#39;s head of brand safety, has left per her LinkedIn page, months after being elevated to the role after the previous head resigned in summer &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230907/p38#a230907p38)
  - [FTX exec Ryan Salame pleads guilty to criminal charges](https://www.theverge.com/2023/9/7/23862959/ftx-trial-ryan-salame-pleads-guilty-criminal-charges)
  - [China government iPhone ban will have almost no effect on sales, says analyst](https://appleinsider.com/articles/23/09/07/china-government-iphone-ban-will-have-almost-no-effect-on-sales-says-analyst?utm_medium=rss)
- - [Tesla will install up to 20,000 versatile EV chargers at Hilton locations](https://www.theverge.com/2023/9/7/23862765/tesla-hilton-universal-wall-connector-ev-charger-deal)
- - [Entire iPhone 15 lineup&#39;s camera specs detailed in last-minute leak](https://appleinsider.com/articles/23/09/07/entire-iphone-15-lineups-camera-specs-detailed-in-last-minute-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla will install up to 20,000 versatile EV chargers at Hilton locations](https://www.theverge.com/2023/9/7/23862765/tesla-hilton-universal-wall-connector-ev-charger-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

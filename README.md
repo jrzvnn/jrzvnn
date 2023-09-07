@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it will take the heat if Copilot AI users get sued](https://www.theverge.com/2023/9/7/23863349/microsoft-ai-assume-responsibility-copyright-lawsuit)
+ - [eBay shoppers are about to see more AI-generated product listings](https://www.theverge.com/2023/9/7/23863313/ebay-generative-ai-tool-product-listings-photo)
  - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Microsoft is testing a background removal tool in Paint](https://www.theverge.com/2023/9/7/23863377/microsoft-paint-background-removal-tool)
- - [Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)
- - [Senate confirms Anna Gomez to break Joe Biden’s FCC deadlock](https://www.theverge.com/2023/9/7/23863365/anna-gomez-fcc-commissioner-senate-confirmation-net-neutrality)
- - [Cruise ‘just days away’ from approval to mass-produce Origin robotaxi without steering wheels](https://www.theverge.com/2023/9/7/23863390/cruise-origin-robotaxi-regulatory-approval-nhtsa)<!-- TECH:END -->
+ - [Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

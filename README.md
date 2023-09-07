@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [New Castlevania: Nocturne trailer is all about Bloodlines](https://www.theverge.com/23863001/netflix-castlevania-nocturne-trailer-early-digital-release-twitch)
  - [Microsoft is the first customer for the Biden administration’s carbon removal hubs](https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub)
- - [Exploit patched in iOS 16.6.1 update delivered Pegasus spyware](https://appleinsider.com/articles/23/09/07/exploit-patched-in-ios-1661-update-delivered-pegasus-spyware?utm_medium=rss)
- - [Apple releases macOS, iOS, iPadOS, and watchOS updates to address two zero-day flaws that Citizen Lab says were used to deliver NSO Group&#39;s Pegasus spyware &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/230907/p39#a230907p39)<!-- TECH:END -->
+ - [Exploit patched in iOS 16.6.1 update delivered Pegasus spyware](https://appleinsider.com/articles/23/09/07/exploit-patched-in-ios-1661-update-delivered-pegasus-spyware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

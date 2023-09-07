@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Puppy barks on his own hiccups](http://9gag.com/gag/arm9mRy)
- - 😝 [Gaming with the boys](http://9gag.com/gag/a6q415b)
- - 💣 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)
- - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 👉 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)<!-- MEMES:END -->
+ - 😝 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
+ - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---
 </div>

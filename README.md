@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
- - 😝 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
- - 💣 [Hi 9gag. Im a `mercenary` fighting for Ukraine - AMA.](http://9gag.com/gag/a6q4Z9R)
- - 😝 [The hero we need](http://9gag.com/gag/axoQoBp)
- - 👉 [How about that](http://9gag.com/gag/a6q4ZrL)<!-- MEMES:END -->
+ - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
+ - 😝 [. . .](http://9gag.com/gag/aQEBEAd)
+ - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 😝 [Tja](http://9gag.com/gag/axoQyeM)
+ - 👉 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)<!-- MEMES:END -->
 
 ---
 </div>

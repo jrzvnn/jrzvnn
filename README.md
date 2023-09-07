@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Inside Apple&#39;s impossible war on child exploitation, as the company scrapped its on-device CSAM scanning system and key team members behind the initiative left &lpar;Forbes&rpar;](http://www.techmeme.com/230907/p41#a230907p41)
  - [The FBI says North Korea-linked Lazarus Group was responsible for the theft of $41M in crypto from online casino and betting site Stake around September 4, 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230907/p40#a230907p40)
+ - [Best Apartment Security Systems in 2023     - CNET](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
  - [The Lotus Emeya is the latest electric hypercar to join the ‘under 3 second’ club](https://www.theverge.com/2023/9/7/23863522/lotus-emeya-ev-hypercar-specs-price-photos)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

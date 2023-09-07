@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
- - 😝 [Thought this might be interresting](http://9gag.com/gag/aL1V0Bg)
- - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - 😝 [Took me a bit of time](http://9gag.com/gag/abvKrmr)
+ - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 💣 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
 
 ---
 </div>

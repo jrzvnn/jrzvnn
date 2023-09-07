@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
- - [US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs](https://www.wired.com/story/trickbot-conti-sanctions-indictments/)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [What is battery degradation and why does it occur? 4 tips to prevent it](https://www.androidauthority.com/what-is-battery-degradation-3362017/)
- - [China&#39;s iPhones ban seen as effort to restrict Apple&#39;s access to market](https://appleinsider.com/articles/23/09/07/chinas-iphones-ban-seen-as-effort-to-restrict-apples-access-to-market?utm_medium=rss)<!-- TECH:END -->
+ - [The Senate votes to confirm Anna Gomez as an FCC commissioner, breaking the deadlock at the agency and giving the FCC a 3-2 Democratic majority &lpar;Linda Hardesty/Fierce Wireless&rpar;](http://www.techmeme.com/230907/p35#a230907p35)
+ - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 7&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [The End of Burning Man Is Also Its Future](https://www.wired.com/story/the-end-of-burning-man-is-also-its-future/)
+ - [Apple&#39;s Entrepreneur Camp application window is now open](https://appleinsider.com/articles/23/09/07/apples-entrepreneur-camp-application-window-is-now-open?utm_medium=rss)
+ - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

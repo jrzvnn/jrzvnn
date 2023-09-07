@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
  - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 💣 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 😝 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
+ - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
 
 ---
 </div>

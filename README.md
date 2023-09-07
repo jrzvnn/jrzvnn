@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)
- - 😝 [Took me a bit of time](http://9gag.com/gag/abvKrmr)
- - 💣 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)
- - 😝 [She looks familiar](http://9gag.com/gag/aRE97gM)
- - 👉 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)<!-- MEMES:END -->
+ - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
+ - 😝 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
+ - 💣 [Hi 9gag. Im a `mercenary` fighting for Ukraine - AMA.](http://9gag.com/gag/a6q4Z9R)
+ - 😝 [The hero we need](http://9gag.com/gag/axoQoBp)
+ - 👉 [How about that](http://9gag.com/gag/a6q4ZrL)<!-- MEMES:END -->
 
 ---
 </div>

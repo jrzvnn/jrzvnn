@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI says North Korea-linked Lazarus Group was responsible for the theft of $41M in crypto from online casino and betting site Stake around September 4, 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230907/p40#a230907p40)
+ - [The Lotus Emeya is the latest electric hypercar to join the ‘under 3 second’ club](https://www.theverge.com/2023/9/7/23863522/lotus-emeya-ev-hypercar-specs-price-photos)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [New Castlevania: Nocturne trailer is all about Bloodlines](https://www.theverge.com/23863001/netflix-castlevania-nocturne-trailer-early-digital-release-twitch)
- - [Microsoft is the first customer for the Biden administration’s carbon removal hubs](https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub)
- - [Exploit patched in iOS 16.6.1 update delivered Pegasus spyware](https://appleinsider.com/articles/23/09/07/exploit-patched-in-ios-1661-update-delivered-pegasus-spyware?utm_medium=rss)<!-- TECH:END -->
+ - [New Castlevania: Nocturne trailer is all about Bloodlines](https://www.theverge.com/23863001/netflix-castlevania-nocturne-trailer-early-digital-release-twitch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Windows 11 Pro &amp; Microsoft Office 2021 bundle for just $54.97](https://appleinsider.com/articles/23/09/07/get-windows-11-pro-microsoft-office-2021-bundle-for-just-5497?utm_medium=rss)
+ - [Snapchat adds minor safety features, including making it harder for strangers to contact teens and cracking down on accounts marketing inappropriate content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230907/p30#a230907p30)
+ - [Get a Windows 11 Pro &amp; Microsoft Office 2021 bundle for just $54.97](https://appleinsider.com/articles/23/09/07/get-windows-11-pro-microsoft-office-2021-bundle-for-just-5497?utm_medium=rss)
  - [This Cybertruck-inspired McFlurry spoon is real, but it’s only available in China](https://www.theverge.com/2023/9/7/23863016/tesla-cyberspoon-cybertruck-inspired-mcflurry-spoon)
  - [The ESA says it will not work with organizer ReedPop on future E3 events and informs the LA Convention Center that 2024&#39;s E3 will not be held at the center &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230907/p29#a230907p29)
- - [This is the cheapest way to pick up the Sonos One &lpar;Gen 2&rpar;](https://www.androidauthority.com/sonos-one-gen-2-deal-3362052/)
- - [The founders of shuttered AV startup Argo AI launch Stack AV, an autonomous trucking startup, a Pittsburgh official estimates with $1B+ funding from SoftBank &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p28#a230907p28)<!-- TECH:END -->
+ - [This is the cheapest way to pick up the Sonos One &lpar;Gen 2&rpar;](https://www.androidauthority.com/sonos-one-gen-2-deal-3362052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

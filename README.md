@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says its Copilot Copyright Commitment will defend customers of its AI products from copyright lawsuits if they use &quot;guardrails and content filters&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230907/p24#a230907p24)
+ - [BMW drops plans to offer subscriptions to activate heated seats or other hardware already fitted to its cars, limiting subscriptions to software-based functions &lpar;Alistair Charlton/Forbes&rpar;](http://www.techmeme.com/230907/p23#a230907p23)
  - [Patreon is adding a Discord-like chat feature for creators and fans](https://www.theverge.com/2023/9/7/23861171/patreon-community-chats-discord-chatroom-member-profile)
  - [Anthropic’s Claude AI chatbot gets a paid plan for heavy users](https://www.theverge.com/2023/9/7/23862848/anthropic-claude-pro-ai-chatbot-paid-plan-google)
- - [Apple TV+ unveils its first German-language show](https://appleinsider.com/articles/23/09/07/apple-tv-unveils-its-first-german-language-show?utm_medium=rss)
- - [Where is Microsoft’s handheld Xbox?](https://www.theverge.com/2023/9/7/23862655/microsoft-xbox-handheld-editorial-steam-deck)
- - [Daily deals Sept. 7: AirPods for $99, iPhone SE 2 $159, 2023 MacBook Pro $1,699, more](https://appleinsider.com/articles/23/09/07/daily-deals-sept-7-airpods-for-99-iphone-se-2-159-2023-macbook-pro-1699-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ unveils its first German-language show](https://appleinsider.com/articles/23/09/07/apple-tv-unveils-its-first-german-language-show?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

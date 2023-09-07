@@ -159,7 +159,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Some nice pair of\u2026](http://9gag.com/gag/aOxA3eE)
  - 💣 [Title](http://9gag.com/gag/a8qQEGV)
  - 😝 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)
- - 👉 [Tbt. Happened over 10 years ago but it still puts a smile on my face.](http://9gag.com/gag/aDYr17d)<!-- MEMES:END -->
+ - 👉 [Am I alone?](http://9gag.com/gag/a6q4EZ9)<!-- MEMES:END -->
 
 ---
 </div>

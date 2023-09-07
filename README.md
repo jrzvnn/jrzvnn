@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts link LastPass security breach to a string of crypto heists](https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers)
+ - [Bankrupt cryptocurrency lender Genesis sues its parent DCG, seeking to recover ~$620M in cash and bitcoin in outstanding loans despite ongoing settlement talks &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/230907/p14#a230907p14)
  - [Apple launched AirPods seven years ago, and changed the world again](https://appleinsider.com/articles/23/09/07/apple-launched-airpods-seven-years-ago-and-changed-the-world-again?utm_medium=rss)
  - [Doug Bowser, president of Nintendo of America, describes the company&#39;s evolution from a gaming company to a broader entertainment company, including live events &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/230907/p13#a230907p13)
- - [Love, Loss, and Pig Butchering Scams](https://www.wired.com/story/love-loss-and-pig-butchering-scams/)
- - [Unhinged Conspiracies, AI Doppelgangers, and the Fractured Reality of Naomi Klein](https://www.wired.com/story/covid-conspiracies-ai-doppelgangers-naomi-klein/)
- - [The new Mustang Mach-E Rally is Ford’s off-roadiest performance EV yet](https://www.theverge.com/2023/9/7/23861771/mustang-mach-e-rally-off-road-performance-ev-specs)<!-- TECH:END -->
+ - [Love, Loss, and Pig Butchering Scams](https://www.wired.com/story/love-loss-and-pig-butchering-scams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

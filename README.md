@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
  - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
  - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
  - 😝 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
- - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
+ - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
 
 ---
 </div>

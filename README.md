@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo is closer to launching a Switch 2 than you think](https://www.androidauthority.com/nintendo-switch-2-demo-gamescom-3361964/)
  - [Can a $599 camera bring Polaroid back?](https://www.theverge.com/23861994/polaroid-i-2-instant-camera-test-hands-on-full-frame-becca-farsace)
  - [Polaroid’s new I-2 is its most capable — and expensive — instant camera](https://www.theverge.com/2023/9/7/23861477/polaroid-i-2-instant-film-camera-fujifilm-instax-photography)
  - [13 movies we can’t wait to check out at TIFF 2023](https://www.theverge.com/2023/9/7/23859494/tiff-2023-preview-trailers-boy-and-the-heron-studio-ghibli)
- - [UK tries to claim it hasn&#39;t backed down on encryption at all](https://appleinsider.com/articles/23/09/07/uk-tries-to-claim-it-hasnt-backed-down-on-encryption-at-all?utm_medium=rss)
- - [Cruise CEO Kyle Vogt attributes angst over driverless cars to anti-robot bias, saying &quot;anything that we do differently than humans is being sensationalized&quot; &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/230907/p18#a230907p18)<!-- TECH:END -->
+ - [UK tries to claim it hasn&#39;t backed down on encryption at all](https://appleinsider.com/articles/23/09/07/uk-tries-to-claim-it-hasnt-backed-down-on-encryption-at-all?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

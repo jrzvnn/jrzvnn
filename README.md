@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UPDF&#39;s ChatGPT-powered PDF editor for MacOS users now 63% off](https://appleinsider.com/articles/23/09/07/updfs-chatgpt-powered-pdf-editor-for-macos-users-now-63-off?utm_medium=rss)
- - [Source: at Gamescom in August, Nintendo demoed the Switch 2 running a souped up version of Breath of the Wild to developers; the device is expected in 2024 &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230907/p17#a230907p17)
- - [Why I Want an iPhone 15 &lpar;Even Though I Haven&#39;t Seen It Yet&rpar;     - CNET](https://www.cnet.com/tech/why-i-want-an-iphone-15-even-though-i-havent-seen-it-yet/#ftag=CAD590a51e)
- - [Will the Ultimate Quest 3 and Vision Pro Accessory Be a Book?     - CNET](https://www.cnet.com/tech/computing/will-the-ultimate-quest-3-and-vision-pro-accessory-be-a-book/#ftag=CAD590a51e)
- - [Refinance Rates for Sep. 7, 2023: Rates Trend Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-sep-7-2023-rates-trend-higher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can a $599 camera bring Polaroid back?](https://www.theverge.com/23861994/polaroid-i-2-instant-camera-test-hands-on-full-frame-becca-farsace)
+ - [Polaroid’s new I-2 is its most capable — and expensive — instant camera](https://www.theverge.com/2023/9/7/23861477/polaroid-i-2-instant-film-camera-fujifilm-instax-photography)
+ - [13 movies we can’t wait to check out at TIFF 2023](https://www.theverge.com/2023/9/7/23859494/tiff-2023-preview-trailers-boy-and-the-heron-studio-ghibli)
+ - [UK tries to claim it hasn&#39;t backed down on encryption at all](https://appleinsider.com/articles/23/09/07/uk-tries-to-claim-it-hasnt-backed-down-on-encryption-at-all?utm_medium=rss)
+ - [Cruise CEO Kyle Vogt attributes angst over driverless cars to anti-robot bias, saying &quot;anything that we do differently than humans is being sensationalized&quot; &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/230907/p18#a230907p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

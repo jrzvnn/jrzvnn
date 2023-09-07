@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - 💣 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 👉 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)<!-- MEMES:END -->
+ - 😝 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
+ - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 👉 [You&#39;ve gotta be kidding me](http://9gag.com/gag/a9qZE8m)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CWA files charges with the US NLRB against Grindr, alleging the company laid off 82 workers, or 46% of its staff, for rejecting a return-to-office mandate &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/230906/p41#a230906p41)
+ - [Save $1,500 on Apple&#39;s loaded M1 Max MacBook Pro with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/23/09/07/save-1500-on-apples-loaded-m1-max-macbook-pro-with-64gb-ram-2tb-ssd?utm_medium=rss)
+ - [The Comedy of Errors That Let China-Backed Hackers Steal Microsoft’s Signing Key](https://www.wired.com/story/china-backed-hackers-steal-microsofts-signing-key-post-mortem/)
  - [YouTube is dropping some YouTube Studio ad controls, limiting creators&#39; control over pre-roll, post-roll, skippable, and non-skippable ads starting in November &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230906/p40#a230906p40)
- - [Developers can RSVP to attend a free, in-person workshop at the Apple Developer Center](https://appleinsider.com/articles/23/09/06/developers-can-rsvp-to-attend-a-free-in-person-workshop-at-the-apple-developer-center?utm_medium=rss)
- - [Slack announces Slack AI, which can generate channel highlights, thread summaries, and search answers based on messages, with a pilot starting &quot;this winter&quot; &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230906/p39#a230906p39)
- - [Swatch x Blancpain Scuba Fifty Fathom: price, availability, specs](https://www.wired.com/story/swatch-x-blancpain-scuba-fifty-fathoms-diver-watch/)
- - [Google will soon require disclaimers for AI-generated political ads](https://www.theverge.com/2023/9/6/23862172/google-disclaimers-ai-generated-political-ads)<!-- TECH:END -->
+ - [Developers can RSVP to attend a free, in-person workshop at the Apple Developer Center](https://appleinsider.com/articles/23/09/06/developers-can-rsvp-to-attend-a-free-in-person-workshop-at-the-apple-developer-center?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

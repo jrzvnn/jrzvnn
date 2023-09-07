@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gaming with the boys](http://9gag.com/gag/a6q415b)
- - 😝 [Upvote for financial prosperity](http://9gag.com/gag/aeQy9KW)
- - 💣 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)
+ - 😝 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)
  - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 👉 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)<!-- MEMES:END -->
+ - 💣 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
+ - 😝 [How about that](http://9gag.com/gag/a6q4ZrL)
+ - 👉 [The French i tell you](http://9gag.com/gag/a3ZeZMv)<!-- MEMES:END -->
 
 ---
 </div>

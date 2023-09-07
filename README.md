@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile’s new callous move shows it moving even further from ‘Uncarrier’ roots](https://www.androidauthority.com/t-mobile-dividends-3362027/)
+ - [Google’s cookie-replacing Privacy Sandbox reaches major milestone](https://www.theverge.com/2023/9/7/23862743/google-chrome-privacy-sandbox-milestone-availability)
  - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)
  - [Google Chrome gets redesign and new features for 15th anniversary](https://www.androidauthority.com/google-chrome-15th-anniversary-3361991/)
- - [A tale of two rowers — or why connected fitness feels adrift](https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness)
- - [iPhone 15 will sell well but iPhone 16 will do even better](https://appleinsider.com/articles/23/09/07/iphone-15-will-sell-well-but-iphone-16-will-do-even-better?utm_medium=rss)
- - [Anthropic launches a $20 per month version of its Claude chatbot in the US and the UK, offering priority during busy times, early access to features, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230907/p26#a230907p26)<!-- TECH:END -->
+ - [Why connected fitness feels adrift: a tale of two rowers](https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix opens an investigation into the Huawei Mate 60 Pro using its LPDDR5 and NAND flash memory, some of the few materials in 60 Pro sourced outside China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p12#a230907p12)
  - [Molly Holzschlag, aka &quot;mollydotcom&quot;, a longtime advocate for the open web and accessible, inclusive online design standards, died at 60 on September 5 &lpar;Dylan Smith/TucsonSentinel.com&rpar;](http://www.techmeme.com/230907/p11#a230907p11)
  - [Nevermind 2024, we just got official details about a 2025 flagship chip](https://www.androidauthority.com/mediatek-dimensity-9400-2025-chip-3361901/)
  - [An excerpt from the book Number Go Up details an April 2022 FTX conference in the Bahamas, where writer Michael Lewis lavished Sam Bankman-Fried with praise &lpar;Zeke Faux/New York Magazine&rpar;](http://www.techmeme.com/230907/p10#a230907p10)
- - [The Generative AI Boom Could Fuel a New International Arms Race](https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/)
- - [Ghostwriter, the anonymous creator who used AI to mimic Drake and The Weeknd, has met with record labels, Grammy organizers, and more, and releases a new song &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/230907/p9#a230907p9)<!-- TECH:END -->
+ - [The Generative AI Boom Could Fuel a New International Arms Race](https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

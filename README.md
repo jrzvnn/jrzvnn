@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Certa, which offers a compliance, governance, and risk management service for enterprises, raised a $35M Series B, bringing its total raised to &quot;just over&quot; $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230907/p22#a230907p22)
+ - [Sunday Ticket is bringing the NFL to YouTube — and YouTube to the NFL](https://www.theverge.com/2023/9/7/23862828/sunday-ticket-youtube-nfl-season)
+ - [Amazon has ended its periodicals program, and independent publishers are panicking](https://www.theverge.com/23861370/amazon-kindle-periodicals-unlimited-ended)
  - [The best smoke and carbon monoxide detectors with HomeKit support](https://appleinsider.com/inside/homekit/best/the-best-smoke-and-carbon-monoxide-detectors-with-homekit-support?utm_medium=rss)
- - [How to Choose the Best Game Subscription Service &lpar;2023&rpar;: Xbox Game Pass, PlayStation Plus, Nintendo Online](https://www.wired.com/story/best-game-subscriptions/)
- - [Lutron finally made its smart remote look just like a regular light switch](https://www.theverge.com/2023/9/7/23862694/lutron-caseta-smart-lighting-pico-paddle-remote-price-launch)
- - [China widens ban on officials using iPhones but isn&#39;t enforcing it](https://appleinsider.com/articles/23/09/07/china-widens-ban-on-officials-using-iphones-but-isnt-enforcing-it?utm_medium=rss)
- - [In a novel move, Pinterest updates its content algorithm to surface diverse body types, powered by an AI system trained on 5B+ images of bodies of all sizes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230907/p21#a230907p21)<!-- TECH:END -->
+ - [How to Choose the Best Game Subscription Service &lpar;2023&rpar;: Xbox Game Pass, PlayStation Plus, Nintendo Online](https://www.wired.com/story/best-game-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

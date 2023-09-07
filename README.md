@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
  - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
  - 😝 [Good to know](http://9gag.com/gag/aWGP1Xn)
- - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
+ - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
 
 ---
 </div>

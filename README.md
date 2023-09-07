@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is testing fewer ad breaks on TV, but there’s bad news](https://www.androidauthority.com/youtube-testing-fewer-grouped-tv-ads-3361958/)
  - [Norway&#39;s $1.4T oil fund, which owns ~1.5% of all listed companies, details its three concerns over AI: board responsibility, transparency, and risk management &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/230907/p16#a230907p16)
  - [Nintendo Switch 2 evidence grows with rumors of developer demos](https://www.theverge.com/2023/9/7/23862676/nintendo-switch-2-developer-demo-gamescom-rumor)
  - [Inevitable iPhone 15 price increase won&#39;t deter pent-up demand](https://appleinsider.com/articles/23/09/07/inevitable-iphone-15-price-increase-wont-deter-pent-up-demand?utm_medium=rss)
- - [Riot reports earning $31.7M in energy credits from Texas power grid operator ERCOT to curtail its usage in August, dwarfing the ~$8.9M worth of bitcoin mined &lpar;CNBC&rpar;](http://www.techmeme.com/230907/p15#a230907p15)
- - [Poll: Which dead/dormant phone series would you resurrect?](https://www.androidauthority.com/dead-dormant-phone-series-resurrect-poll-3361939/)<!-- TECH:END -->
+ - [Riot reports earning $31.7M in energy credits from Texas power grid operator ERCOT to curtail its usage in August, dwarfing the ~$8.9M worth of bitcoin mined &lpar;CNBC&rpar;](http://www.techmeme.com/230907/p15#a230907p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An IMF and Financial Stability Board paper warns jurisdictions against blanket bans on crypto, recommending targeted restrictions and sound monetary policy &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230907/p20#a230907p20)
+ - [Every Studio Ghibli Film, Ranked From Worst to Best](https://www.wired.com/story/best-studio-ghibli-films/)
  - [China widens ban on officials using iPhones but isn&#39;t enforcing it](https://appleinsider.com/articles/23/09/07/china-widens-ban-on-officials-using-iphones-but-isnt-enforcing-it?utm_medium=rss)
- - [Honda adopts Tesla’s charging port for future EVs](https://www.theverge.com/2023/9/7/23862781/honda-ev-nacs-tesla-charging-port)
- - [Google plans to update Chrome to incorporate its Material You design language in the coming weeks, including refreshed icons and new color palettes &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230907/p19#a230907p19)
- - [NFL 2023: How to Watch and Stream Games and RedZone With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-and-redzone-with-or-without-cable/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch Lions vs. Chiefs on NBC Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-nfl-opening-night-how-to-watch-lions-vs-chiefs-on-nbc-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
+ - [Honda adopts Tesla’s charging port for future EVs](https://www.theverge.com/2023/9/7/23862781/honda-ev-nacs-tesla-charging-port)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

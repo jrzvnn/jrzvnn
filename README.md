@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ghostwriter, the anonymous creator who used AI to mimic Drake and The Weeknd, has met with record labels, Grammy organizers, and more, and releases a new song &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/230907/p9#a230907p9)
  - [The Galaxy Z Fold 5 Thom Browne Edition is a bold new look for the foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-5-thom-browne-edition-3361873/)
  - [A test of ChatGPT&#39;s ability to respond in underrepresented languages like Bengali and Kurdish found translation errors, fabricated words, and illogical answers &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230907/p8#a230907p8)
  - [From battery to titanium design, Galaxy S24 Ultra leak reveals key specs](https://www.androidauthority.com/samsung-galaxy-s24-ultra-specs-leak-3361427/)
- - [How Rotten Tomatoes&#39; Tomatometer, an important metric in entertainment, became erratic and reductive as some PR firms hack its score by paying obscure &quot;critics&quot; &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230907/p7#a230907p7)
- - [An excerpt from the new Elon Musk biography details an argument with Larry Page in 2013 over the dangers of AI, how he founded OpenAI and xAI, and more &lpar;Walter Isaacson/TIME&rpar;](http://www.techmeme.com/230907/p6#a230907p6)<!-- TECH:END -->
+ - [How Rotten Tomatoes&#39; Tomatometer, an important metric in entertainment, became erratic and reductive as some PR firms hack its score by paying obscure &quot;critics&quot; &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230907/p7#a230907p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

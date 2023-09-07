@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Belgrade celebrates a Family Day](http://9gag.com/gag/az2oe5x)
- - 😝 [Based Cyrus](http://9gag.com/gag/aL1VpAP)
- - 💣 [Gaming with the boys](http://9gag.com/gag/a6q415b)
- - 😝 [Mama cheetah introduces a photographer to her little cubs](http://9gag.com/gag/abvKgbb)
+ - 😝 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
+ - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
+ - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
  - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
 
 ---

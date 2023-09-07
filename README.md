@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [What is battery degradation and why does it occur? 4 tips to prevent it](https://www.androidauthority.com/what-is-battery-degradation-3362017/)
+ - [China&#39;s iPhones ban seen as effort to restrict Apple&#39;s access to market](https://appleinsider.com/articles/23/09/07/chinas-iphones-ban-seen-as-effort-to-restrict-apples-access-to-market?utm_medium=rss)
  - [Microsoft says Chinese state-affiliated hackers are using AI to generate content designed to &quot;go viral across social networks in the US and other democracies&quot; &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/230907/p34#a230907p34)
- - [Here’s official imagery comparing the Pixel 8 to the 8 Pro](https://www.androidauthority.com/pixel-8-vs-pixel-8-pro-3362119/)
- - [12 Best Deals: Recycled Bags and Clothing, Smartwatches, and Headphones](https://www.wired.com/story/midweek-deals-september-7-2023/)
- - [Companies aren’t showing whether their environmental promises have any impact](https://www.theverge.com/2023/9/7/23862032/big-tech-environmental-pledges-transparency-reporting-ecosystem-restoration-analysis)
- - [Elon Musk’s involvement in the war in Ukraine is confounding, even to him](https://www.theverge.com/2023/9/7/23863157/elon-musk-ukraine-twitter-starlink-isaacson)<!-- TECH:END -->
+ - [Here’s official imagery comparing the Pixel 8 to the 8 Pro](https://www.androidauthority.com/pixel-8-vs-pixel-8-pro-3362119/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it will take the heat if Copilot AI users get sued](https://www.theverge.com/2023/9/7/23863349/microsoft-ai-assume-responsibility-copyright-lawsuit)
+ - [Microsoft says it will take the heat if Copilot AI commercial users get sued](https://www.theverge.com/2023/9/7/23863349/microsoft-ai-assume-responsibility-copyright-lawsuit)
  - [eBay shoppers are about to see more AI-generated product listings](https://www.theverge.com/2023/9/7/23863313/ebay-generative-ai-tool-product-listings-photo)
  - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Microsoft is testing a background removal tool in Paint](https://www.theverge.com/2023/9/7/23863377/microsoft-paint-background-removal-tool)

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)
- - 😝 [Good parenting](http://9gag.com/gag/axoQ9qL)
- - 💣 [Some nice pair of\u2026](http://9gag.com/gag/aOxA3eE)
- - 😝 [Title](http://9gag.com/gag/a8qQEGV)
- - 👉 [Am I alone?](http://9gag.com/gag/a6q4EZ9)<!-- MEMES:END -->
+ - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
+ - 💣 [Women](http://9gag.com/gag/avQ4O8O)
+ - 😝 [Good to know](http://9gag.com/gag/aWGP1Xn)
+ - 👉 [First time thunder or what?](http://9gag.com/gag/a6q4OM2)<!-- MEMES:END -->
 
 ---
 </div>

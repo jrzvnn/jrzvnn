@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest 14-inch MacBook Pro falls to a new low of $1,699 for today only](https://www.theverge.com/2023/9/7/23862740/apple-macbook-pro-m2-lg-c3-oled-lego-delorean-deal-sale)
+ - [Imbue, formerly Generally Intelligent, which says it has access to 10,000 of Nvidia&#39;s H100 GPUs to build AI &quot;agents&quot;, raised a $200M Series B at a $1B valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230907/p25#a230907p25)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Charles Martinet finally explains what the hell a Mario ambassador is](https://www.theverge.com/2023/9/7/23862869/nintendo-mario-voice-actor-charles-martinet-ambassador)
- - [Microsoft says its Copilot Copyright Commitment will defend customers of its AI products from copyright lawsuits if they use &quot;guardrails and content filters&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230907/p24#a230907p24)
- - [BMW drops plans to offer subscriptions to activate heated seats or other hardware already fitted to its cars, limiting subscriptions to software-based functions &lpar;Alistair Charlton/Forbes&rpar;](http://www.techmeme.com/230907/p23#a230907p23)
- - [11 Unhealthy Foods to Ditch From Your Diet     - CNET](https://www.cnet.com/health/nutrition/11-unhealthy-foods-to-ditch-from-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft says its Copilot Copyright Commitment will defend customers of its AI products from copyright lawsuits if they use &quot;guardrails and content filters&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230907/p24#a230907p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

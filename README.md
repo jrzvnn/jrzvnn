@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Patreon adds Discord-like group chats to mobile, letting creators join up to four chats and restrict access based on subscriber tiers; desktop is coming later &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230907/p36#a230907p36)
  - [Microsoft says it will take the heat if Copilot AI commercial users get sued](https://www.theverge.com/2023/9/7/23863349/microsoft-ai-assume-responsibility-copyright-lawsuit)
  - [eBay shoppers are about to see more AI-generated product listings](https://www.theverge.com/2023/9/7/23863313/ebay-generative-ai-tool-product-listings-photo)
  - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Microsoft is testing a background removal tool in Paint](https://www.theverge.com/2023/9/7/23863377/microsoft-paint-background-removal-tool)
- - [Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)<!-- TECH:END -->
+ - [Microsoft is testing a background removal tool in Paint](https://www.theverge.com/2023/9/7/23863377/microsoft-paint-background-removal-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
  - 💣 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - 😝 [I have submitted my idea `XVIII Century Flagship Cross-Section Model in Minifigure Scale` on LEGO IDEAS, but they rejected it, because they say it violates their policy: No `Warfare or war vehicles in any modern or present-day situation, or national war memorials` allowed. WTF??](http://9gag.com/gag/ajVGV51)
- - 👉 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)<!-- MEMES:END -->
+ - 😝 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
+ - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
 
 ---
 </div>

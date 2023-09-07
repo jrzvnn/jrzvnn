@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 😝 [Passenger on Delta flight had diarrhea all the way down the aisle of the plane.... ALL. THE. WAY. they had to replace the carpet.](http://9gag.com/gag/arm9o8K)
  - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 💣 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
- - 😝 [Joe Biden just WALKED OUT of a Medal of Honor award ceremony BEFORE it was over](http://9gag.com/gag/ay2Zo4M)
- - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
+ - 💣 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
+ - 😝 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)
+ - 👉 [Joe Biden just WALKED OUT of a Medal of Honor award ceremony BEFORE it was over](http://9gag.com/gag/ay2Zo4M)<!-- MEMES:END -->
 
 ---
 </div>

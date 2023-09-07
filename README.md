@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An excerpt from the new Elon Musk biography details an argument with Larry Page in 2013 over the dangers of AI, how he founded OpenAI and xAI, and more &lpar;Walter Isaacson/TIME&rpar;](http://www.techmeme.com/230907/p6#a230907p6)
  - [Caplight: secondary market shares of USDC stablecoin developer Circle were trading at a ~$4.8B valuation in August 2023; Circle was valued at $8B in April 2022 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230907/p5#a230907p5)
  - [Inceptive, whose AI-based software designs unique mRNA-based molecules that are licensed out to pharmaceutical companies, raised $100M from Nvidia and a16z &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230907/p4#a230907p4)
  - [Sources: China plans to expand its ban on the use of iPhones in sensitive departments to include government-backed agencies and state-owned companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p3#a230907p3)
- - [UNESCO report: overreliance on online learning during COVID-19 led to &quot;staggering&quot; education inequality and hindered discussion on equitable, lower-tech options &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230907/p2#a230907p2)
- - [Android Security Bulletin for September 2023 patches a privilege escalation zero-day flaw in Android 11-13 that &quot;may be under limited, targeted exploitation&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230907/p1#a230907p1)<!-- TECH:END -->
+ - [UNESCO report: overreliance on online learning during COVID-19 led to &quot;staggering&quot; education inequality and hindered discussion on equitable, lower-tech options &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230907/p2#a230907p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

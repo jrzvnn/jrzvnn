@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So delusional](http://9gag.com/gag/a9qZnrZ)
- - 😝 [Belgrade celebrates a Family Day](http://9gag.com/gag/az2oe5x)
- - 💣 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 😝 [Mama cheetah introduces a photographer to her little cubs](http://9gag.com/gag/abvKgbb)
+ - 😝 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
+ - 😝 [I will die.](http://9gag.com/gag/aGE6ZVw)
+ - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
+ - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
  - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
 
 ---

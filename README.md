@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Go 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/microsoft-surface-go-4-3360520/)
- - [Elyana Thierry, X&#39;s head of brand safety, has left per her LinkedIn page, months after being elevated to the role after the previous head resigned in summer &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230907/p38#a230907p38)
- - [FTX exec Ryan Salame pleads guilty to criminal charges](https://www.theverge.com/2023/9/7/23862959/ftx-trial-ryan-salame-pleads-guilty-criminal-charges)
- - [China government iPhone ban will have almost no effect on sales, says analyst](https://appleinsider.com/articles/23/09/07/china-government-iphone-ban-will-have-almost-no-effect-on-sales-says-analyst?utm_medium=rss)
- - [Tesla will install up to 20,000 versatile EV chargers at Hilton locations](https://www.theverge.com/2023/9/7/23862765/tesla-hilton-universal-wall-connector-ev-charger-deal)<!-- TECH:END -->
+ - [New Castlevania: Nocturne trailer is all about Bloodlines](https://www.theverge.com/23863001/netflix-castlevania-nocturne-trailer-early-digital-release-twitch)
+ - [Microsoft is the first customer for the Biden administration’s carbon removal hubs](https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub)
+ - [Exploit patched in iOS 16.6.1 update delivered Pegasus spyware](https://appleinsider.com/articles/23/09/07/exploit-patched-in-ios-1661-update-delivered-pegasus-spyware?utm_medium=rss)
+ - [Apple releases macOS, iOS, iPadOS, and watchOS updates to address two zero-day flaws that Citizen Lab says were used to deliver NSO Group&#39;s Pegasus spyware &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/230907/p39#a230907p39)
+ - [Microsoft Surface Go 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/microsoft-surface-go-4-3360520/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

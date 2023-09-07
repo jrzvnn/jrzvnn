@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Is the True Scale of New York’s Airbnb Apocalypse](https://www.wired.com/story/airbnb-ban-new-york-numbers/)
  - [Apple rolls out surprise iPadOS &amp; iOS 16.6.1, watchOS 9.6.2, macOS Ventura 13.5.2 updates](https://appleinsider.com/articles/23/09/07/apple-rolls-out-surprise-ios-1661-watchos-962-macos-ventura-1352-updates?utm_medium=rss)
- - [Google confirms Pixel Watch 2 design, needlessly continues to tease Pixel 8 Pro](https://www.androidauthority.com/google-pixel-watch-2-tease-3362079/)
- - [Meta expands keyword search on Threads to &quot;most&quot; English- and Spanish-speaking countries, including the US and UK, after a test in Australia and New Zealand &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230907/p32#a230907p32)
- - [The lead prosecutor of the International Criminal Court says it will start investigating and prosecuting hacking crimes that violate existing international law &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230907/p31#a230907p31)
- - [Sony Xperia 1 VI: Release date, specs, rumors, price, and feature wishlist](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)<!-- TECH:END -->
+ - [This 1977 horror novel is about social media](https://www.theverge.com/23863059/social-media-20-days-of-turin-giorgio-de-maria)
+ - [Google teaser previews Pixel Watch 2 and both Pixel 8 phones](https://www.theverge.com/2023/9/7/23863192/google-pixel-8-pro-watch-2)
+ - [Google confirms Pixel Watch 2 design, needlessly continues to tease Pixel 8 Pro](https://www.androidauthority.com/google-pixel-watch-2-tease-3362079/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

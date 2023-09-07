@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing fewer ad breaks on TV, but there’s bad news](https://www.androidauthority.com/youtube-testing-fewer-grouped-tv-ads-3361958/)
- - [Norway&#39;s $1.4T oil fund, which owns ~1.5% of all listed companies, details its three concerns over AI: board responsibility, transparency, and risk management &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/230907/p16#a230907p16)
- - [Nintendo Switch 2 evidence grows with rumors of developer demos](https://www.theverge.com/2023/9/7/23862676/nintendo-switch-2-developer-demo-gamescom-rumor)
- - [Inevitable iPhone 15 price increase won&#39;t deter pent-up demand](https://appleinsider.com/articles/23/09/07/inevitable-iphone-15-price-increase-wont-deter-pent-up-demand?utm_medium=rss)
- - [Riot reports earning $31.7M in energy credits from Texas power grid operator ERCOT to curtail its usage in August, dwarfing the ~$8.9M worth of bitcoin mined &lpar;CNBC&rpar;](http://www.techmeme.com/230907/p15#a230907p15)<!-- TECH:END -->
+ - [UPDF&#39;s ChatGPT-powered PDF editor for MacOS users now 63% off](https://appleinsider.com/articles/23/09/07/updfs-chatgpt-powered-pdf-editor-for-macos-users-now-63-off?utm_medium=rss)
+ - [Source: at Gamescom in August, Nintendo demoed the Switch 2 running a souped up version of Breath of the Wild to developers; the device is expected in 2024 &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230907/p17#a230907p17)
+ - [Why I Want an iPhone 15 &lpar;Even Though I Haven&#39;t Seen It Yet&rpar;     - CNET](https://www.cnet.com/tech/why-i-want-an-iphone-15-even-though-i-havent-seen-it-yet/#ftag=CAD590a51e)
+ - [Will the Ultimate Quest 3 and Vision Pro Accessory Be a Book?     - CNET](https://www.cnet.com/tech/computing/will-the-ultimate-quest-3-and-vision-pro-accessory-be-a-book/#ftag=CAD590a51e)
+ - [Refinance Rates for Sep. 7, 2023: Rates Trend Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-sep-7-2023-rates-trend-higher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

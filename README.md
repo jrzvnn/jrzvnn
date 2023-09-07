@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An excerpt from the book Number Go Up details an April 2022 FTX conference in the Bahamas, where writer Michael Lewis lavished Sam Bankman-Fried with praise &lpar;Zeke Faux/New York Magazine&rpar;](http://www.techmeme.com/230907/p10#a230907p10)
+ - [The Generative AI Boom Could Fuel a New International Arms Race](https://www.wired.com/story/fast-forward-generative-ai-could-fuel-a-new-international-arms-race/)
  - [Ghostwriter, the anonymous creator who used AI to mimic Drake and The Weeknd, has met with record labels, Grammy organizers, and more, and releases a new song &lpar;Joe Coscarelli/New York Times&rpar;](http://www.techmeme.com/230907/p9#a230907p9)
  - [The Galaxy Z Fold 5 Thom Browne Edition is a bold new look for the foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-5-thom-browne-edition-3361873/)
- - [A test of ChatGPT&#39;s ability to respond in underrepresented languages like Bengali and Kurdish found translation errors, fabricated words, and illogical answers &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230907/p8#a230907p8)
- - [From battery to titanium design, Galaxy S24 Ultra leak reveals key specs](https://www.androidauthority.com/samsung-galaxy-s24-ultra-specs-leak-3361427/)
- - [How Rotten Tomatoes&#39; Tomatometer, an important metric in entertainment, became erratic and reductive as some PR firms hack its score by paying obscure &quot;critics&quot; &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230907/p7#a230907p7)<!-- TECH:END -->
+ - [A test of ChatGPT&#39;s ability to respond in underrepresented languages like Bengali and Kurdish found translation errors, fabricated words, and illogical answers &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230907/p8#a230907p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

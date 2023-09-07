@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)
  - [Senate confirms Anna Gomez to break Joe Biden’s FCC deadlock](https://www.theverge.com/2023/9/7/23863365/anna-gomez-fcc-commissioner-senate-confirmation-net-neutrality)
  - [Cruise ‘just days away’ from approval to mass-produce Origin robotaxi without steering wheels](https://www.theverge.com/2023/9/7/23863390/cruise-origin-robotaxi-regulatory-approval-nhtsa)
  - [The Senate votes 55 to 43 to approve Anna Gomez as the fifth FCC commissioner, breaking the deadlock at the agency and giving the FCC a 3-2 Democratic majority &lpar;Linda Hardesty/Fierce Wireless&rpar;](http://www.techmeme.com/230907/p35#a230907p35)
- - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 7&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [The End of Burning Man Is Also Its Future](https://www.wired.com/story/the-end-of-burning-man-is-also-its-future/)<!-- TECH:END -->
+ - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 7&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

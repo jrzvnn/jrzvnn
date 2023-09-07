@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s new callous move shows it moving even further from ‘Uncarrier’ roots](https://www.androidauthority.com/t-mobile-dividends-3362027/)
- - [Google’s cookie-replacing Privacy Sandbox reaches major milestone](https://www.theverge.com/2023/9/7/23862743/google-chrome-privacy-sandbox-milestone-availability)
- - [MagSafe vs. Qi2 -- Everything you need to know before the iPhone 15 launch](https://appleinsider.com/inside/magsafe/vs/magsafe-vs-qi2----everything-you-need-to-know-before-the-iphone-15-launch?utm_medium=rss)
- - [Google Chrome gets redesign and new features for 15th anniversary](https://www.androidauthority.com/google-chrome-15th-anniversary-3361991/)
- - [Why connected fitness feels adrift: a tale of two rowers](https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness)<!-- TECH:END -->
+ - [The ESA says it will not work with organizer ReedPop on future E3 events and informs the LA Convention Center that 2024&#39;s E3 will not be held at the center &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230907/p29#a230907p29)
+ - [This is the cheapest way to pick up the Sonos One &lpar;Gen 2&rpar;](https://www.androidauthority.com/sonos-one-gen-2-deal-3362052/)
+ - [The founders of shuttered AV startup Argo AI launch Stack AV, an autonomous trucking startup, a Pittsburgh official estimates with $1B+ funding from SoftBank &lpar;Bloomberg&rpar;](http://www.techmeme.com/230907/p28#a230907p28)
+ - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
+ - [Google makes its relevance and measurement APIs for Privacy Sandbox generally available, meaning the APIs are now available by default in Chrome &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230907/p27#a230907p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

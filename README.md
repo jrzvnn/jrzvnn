@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The US and the UK sanction 11 more alleged Trickbot ransomware gang members, and the US DOJ unseals indictments against nine alleged Trickbot and Conti members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230907/p42#a230907p42)
- - [Summer Isn&#39;t Done, With Triple-Digit Heat Waves Expected to Hit This Weekend     - CNET](https://www.cnet.com/science/climate/summer-isnt-done-with-triple-digit-heat-waves-expected-to-hit-this-weekend/#ftag=CAD590a51e)
  - [Inside Apple&#39;s impossible war on child exploitation, as the company scrapped its on-device CSAM scanning system and key team members behind the initiative left &lpar;Forbes&rpar;](http://www.techmeme.com/230907/p41#a230907p41)
  - [The FBI says North Korea-linked Lazarus Group was responsible for the theft of $41M in crypto from online casino and betting site Stake around September 4, 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230907/p40#a230907p40)
- - [Best Apartment Security Systems in 2023     - CNET](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apartment Security Systems in 2023     - CNET](https://www.cnet.com/home/security/best-home-security-systems-for-renters/#ftag=CAD590a51e)
+ - [The Lotus Emeya is the latest electric hypercar to join the ‘under 3 second’ club](https://www.theverge.com/2023/9/7/23863522/lotus-emeya-ev-hypercar-specs-price-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

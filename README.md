@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)
- - 😝 [Good to know](http://9gag.com/gag/aWGP1Xn)
- - 💣 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 😝 [Size does matter](http://9gag.com/gag/aOxABgy)
- - 👉 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)<!-- MEMES:END -->
+ - 😝 [Every russian still being silent is responsible. Every company still doing business with Russia is responsible. Ukraine today, missile attack on local market. Just sad.](http://9gag.com/gag/aL1Vpy6)
+ - 😝 [Good parenting](http://9gag.com/gag/axoQ9qL)
+ - 💣 [Some nice pair of\u2026](http://9gag.com/gag/aOxA3eE)
+ - 😝 [Title](http://9gag.com/gag/a8qQEGV)
+ - 👉 [Am I alone?](http://9gag.com/gag/a6q4EZ9)<!-- MEMES:END -->
 
 ---
 </div>

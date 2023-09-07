@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Patreon is adding a Discord-like chat feature for creators and fans](https://www.theverge.com/2023/9/7/23861171/patreon-community-chats-discord-chatroom-member-profile)
+ - [Anthropic’s Claude AI chatbot gets a paid plan for heavy users](https://www.theverge.com/2023/9/7/23862848/anthropic-claude-pro-ai-chatbot-paid-plan-google)
  - [Apple TV+ unveils its first German-language show](https://appleinsider.com/articles/23/09/07/apple-tv-unveils-its-first-german-language-show?utm_medium=rss)
  - [Where is Microsoft’s handheld Xbox?](https://www.theverge.com/2023/9/7/23862655/microsoft-xbox-handheld-editorial-steam-deck)
- - [Daily deals Sept. 7: AirPods for $99, iPhone SE 2 $159, 2023 MacBook Pro $1,699, more](https://appleinsider.com/articles/23/09/07/daily-deals-sept-7-airpods-for-99-iphone-se-2-159-2023-macbook-pro-1699-more?utm_medium=rss)
- - [Certa, which offers a compliance, governance, and risk management service for enterprises, raised a $35M Series B, bringing its total raised to &quot;just over&quot; $50M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230907/p22#a230907p22)
- - [Sunday Ticket is bringing the NFL to YouTube — and YouTube to the NFL](https://www.theverge.com/2023/9/7/23862828/sunday-ticket-youtube-nfl-season)<!-- TECH:END -->
+ - [Daily deals Sept. 7: AirPods for $99, iPhone SE 2 $159, 2023 MacBook Pro $1,699, more](https://appleinsider.com/articles/23/09/07/daily-deals-sept-7-airpods-for-99-iphone-se-2-159-2023-macbook-pro-1699-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

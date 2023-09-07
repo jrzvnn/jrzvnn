@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
- - 😝 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
- - 💣 [Good to know](http://9gag.com/gag/aWGP1Xn)
- - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 👉 [My grandfather passed away a week ago, today I went to his place for the first time since he died. I&#39;m speechless!](http://9gag.com/gag/aMEDZMM)<!-- MEMES:END -->
+ - 😝 [So delusional](http://9gag.com/gag/a9qZnrZ)
+ - 😝 [Belgrade celebrates a Family Day](http://9gag.com/gag/az2oe5x)
+ - 💣 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
+ - 😝 [Mama cheetah introduces a photographer to her little cubs](http://9gag.com/gag/abvKgbb)
+ - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
 
 ---
 </div>

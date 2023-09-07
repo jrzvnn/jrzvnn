@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The vacation experience for European tourists in California is like being in some 3rd world sh*thole country](http://9gag.com/gag/aBdj09D)
- - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 😝 [Good to know](http://9gag.com/gag/aWGP1Xn)
  - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 😝 [This OF model got trapped inside a washing machine while recording explicit content for her audience. Luckily for her, some of her fans called 911 to get her rescued.](http://9gag.com/gag/aoKAe1e)
- - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
+ - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
 
 ---
 </div>

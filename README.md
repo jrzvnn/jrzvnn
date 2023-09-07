@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 😝 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
+ - 😝 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)
+ - 😝 [Thought this might be interresting](http://9gag.com/gag/aL1V0Bg)
  - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
  - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
- - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
+ - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---
 </div>

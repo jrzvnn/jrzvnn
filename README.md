@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The lead prosecutor of the International Criminal Court says it will start investigating and prosecuting hacking crimes that violate existing international law &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230907/p31#a230907p31)
+ - [Sony Xperia 1 VI: Release date, specs, rumors, price, and feature wishlist](https://www.androidauthority.com/sony-xperia-1-vi-3361570/)
  - [Threads will now let you search for posts](https://www.theverge.com/2023/9/7/23863088/threads-rolling-out-support-search-posts)
  - [Snapchat adds minor safety features, including making it harder for strangers to contact teens and cracking down on accounts marketing inappropriate content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230907/p30#a230907p30)
- - [Get a Windows 11 Pro &amp; Microsoft Office 2021 bundle for just $54.97](https://appleinsider.com/articles/23/09/07/get-windows-11-pro-microsoft-office-2021-bundle-for-just-5497?utm_medium=rss)
- - [This Cybertruck-inspired McFlurry spoon is real, but it’s only available in China](https://www.theverge.com/2023/9/7/23863016/tesla-cyberspoon-cybertruck-inspired-mcflurry-spoon)
- - [The ESA says it will not work with organizer ReedPop on future E3 events and informs the LA Convention Center that 2024&#39;s E3 will not be held at the center &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230907/p29#a230907p29)<!-- TECH:END -->
+ - [Get a Windows 11 Pro &amp; Microsoft Office 2021 bundle for just $54.97](https://appleinsider.com/articles/23/09/07/get-windows-11-pro-microsoft-office-2021-bundle-for-just-5497?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

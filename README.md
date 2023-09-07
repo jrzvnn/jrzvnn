@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - 😝 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 👉 [That officers is about to get him some. Serving up that BWC](http://9gag.com/gag/aVb405v)<!-- MEMES:END -->
+ - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
+ - 😝 [. . .](http://9gag.com/gag/aQEBEAd)
+ - 💣 [Prime Castro at work](http://9gag.com/gag/aOxA0Z2)
+ - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
 
 ---
 </div>

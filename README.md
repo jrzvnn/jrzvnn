@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 😝 [. . .](http://9gag.com/gag/aQEBEAd)
- - 💣 [Prime Castro at work](http://9gag.com/gag/aOxA0Z2)
- - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 👉 [Nice soundtrack](http://9gag.com/gag/az2o15Z)<!-- MEMES:END -->
+ - 😝 [Puppy barks on his own hiccups](http://9gag.com/gag/arm9mRy)
+ - 😝 [Gaming with the boys](http://9gag.com/gag/a6q415b)
+ - 💣 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)
+ - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 👉 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)<!-- MEMES:END -->
 
 ---
 </div>

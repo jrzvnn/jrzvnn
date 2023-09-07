@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smoke and carbon monoxide detectors with HomeKit support](https://appleinsider.com/inside/homekit/best/the-best-smoke-and-carbon-monoxide-detectors-with-homekit-support?utm_medium=rss)
+ - [How to Choose the Best Game Subscription Service &lpar;2023&rpar;: Xbox Game Pass, PlayStation Plus, Nintendo Online](https://www.wired.com/story/best-game-subscriptions/)
+ - [Lutron finally made its smart remote look just like a regular light switch](https://www.theverge.com/2023/9/7/23862694/lutron-caseta-smart-lighting-pico-paddle-remote-price-launch)
  - [China widens ban on officials using iPhones but isn&#39;t enforcing it](https://appleinsider.com/articles/23/09/07/china-widens-ban-on-officials-using-iphones-but-isnt-enforcing-it?utm_medium=rss)
- - [In a novel move, Pinterest updates its content algorithm to surface diverse body types, powered by an AI system trained on 5B+ images of bodies of all sizes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230907/p21#a230907p21)
- - [An IMF and Financial Stability Board paper warns jurisdictions against blanket bans on crypto, recommending targeted restrictions and sound monetary policy &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230907/p20#a230907p20)
- - [Every Studio Ghibli Film, Ranked From Worst to Best](https://www.wired.com/story/best-studio-ghibli-films/)
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [In a novel move, Pinterest updates its content algorithm to surface diverse body types, powered by an AI system trained on 5B+ images of bodies of all sizes &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230907/p21#a230907p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

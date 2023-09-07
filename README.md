@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
  - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - 💣 [What a lovely man](http://9gag.com/gag/aDYrgOO)
- - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
+ - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 💣 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 😝 [Joe Biden just WALKED OUT of a Medal of Honor award ceremony BEFORE it was over](http://9gag.com/gag/ay2Zo4M)
  - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
 
 ---

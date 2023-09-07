@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reject BS, take care of yourselves brothers!](http://9gag.com/gag/aZDoDwW)
+ - 😝 [What kind of ass simulator is this?](http://9gag.com/gag/ago6Bvr)
  - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 💣 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
- - 😝 [How about that](http://9gag.com/gag/a6q4ZrL)
- - 👉 [The French i tell you](http://9gag.com/gag/a3ZeZMv)<!-- MEMES:END -->
+ - 💣 [Nice soundtrack](http://9gag.com/gag/az2o15Z)
+ - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 👉 [Holy f**k dude, holy f**k](http://9gag.com/gag/avQ4zPE)<!-- MEMES:END -->
 
 ---
 </div>

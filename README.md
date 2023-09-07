@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
+ - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
  - [Experts link LastPass security breach to a string of crypto heists](https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers)
  - [Bankrupt cryptocurrency lender Genesis sues its parent DCG, seeking to recover ~$620M in cash and bitcoin in outstanding loans despite ongoing settlement talks &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/230907/p14#a230907p14)
- - [Apple launched AirPods seven years ago, and changed the world again](https://appleinsider.com/articles/23/09/07/apple-launched-airpods-seven-years-ago-and-changed-the-world-again?utm_medium=rss)
- - [Doug Bowser, president of Nintendo of America, describes the company&#39;s evolution from a gaming company to a broader entertainment company, including live events &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/230907/p13#a230907p13)
- - [Love, Loss, and Pig Butchering Scams](https://www.wired.com/story/love-loss-and-pig-butchering-scams/)<!-- TECH:END -->
+ - [Apple launched AirPods seven years ago, and changed the world again](https://appleinsider.com/articles/23/09/07/apple-launched-airpods-seven-years-ago-and-changed-the-world-again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

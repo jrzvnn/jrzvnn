@@ -158,8 +158,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
  - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
  - 💣 [Tja](http://9gag.com/gag/axoQyeM)
- - 😝 [How about that](http://9gag.com/gag/a6q4ZrL)
- - 👉 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)<!-- MEMES:END -->
+ - 😝 [Parenting done right](http://9gag.com/gag/abvKvmB)
+ - 👉 [How about that](http://9gag.com/gag/a6q4ZrL)<!-- MEMES:END -->
 
 ---
 </div>

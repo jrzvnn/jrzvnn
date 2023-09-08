@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak claims to have details of everything Apple will launch next week](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
- - [Tesla’s $25,000 ‘next-generation car’ will have a Cybertruck design](https://www.theverge.com/2023/9/8/23864172/tesla-next-generation-car-cybertruck-design-price)
- - [The world’s largest mini-LED TV can be yours, if you’re swimming in cash](https://www.androidauthority.com/hisense-u8k-tv-3362388/)
- - [JP Morgan drops Apple stock target to $230 over low expectations for iPhone 15](https://appleinsider.com/articles/23/09/08/jp-morgan-drops-apple-stock-target-to-230-over-low-expectations-for-iphone-15?utm_medium=rss)
- - [Google may have accidentally leaked the remote of a new Chromecast](https://www.androidauthority.com/google-chromecast-new-remote-leak-3362396/)<!-- TECH:END -->
+ - [AirPods Pro charging case will move to USB-C](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)
+ - [China breaks its silence on iPhone ban rumors](https://appleinsider.com/articles/23/09/08/china-breaks-its-silence-on-iphone-ban-rumors?utm_medium=rss)
+ - [Sources: Mukesh Ambani&#39;s Reliance, encouraged by the Indian government, is in talks with foreign chipmakers to enter semiconductor manufacturing &lpar;Reuters&rpar;](http://www.techmeme.com/230908/p9#a230908p9)
+ - [Do you really need 24GB RAM on your phone?](https://www.androidauthority.com/best-24gb-ram-phones-3361976/)
+ - [Leak claims to have all details of the iPhone 15 range](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

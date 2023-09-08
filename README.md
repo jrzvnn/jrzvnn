@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently Rockstar Games is selling cracked games on Steam instead of removing their own DRM. Games like Midnight Club 2, Manhunt, and Max Payne on steam are the cracked version...](http://9gag.com/gag/aBdj2XQ)
- - 😝 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 💣 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
+ - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 💣 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
  - 😝 [Tja](http://9gag.com/gag/axoQyeM)
- - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
+ - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
 
 ---
 </div>

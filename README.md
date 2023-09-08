@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT doesn’t want to write your Stucky fanfic](https://www.theverge.com/2023/9/8/23863304/chatgpt-banned-fandom-shipping-terms)
- - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Axon&#39;s Ethics Board Resigned Over Taser-Armed Drones. Then the Company Bought a Military Drone Maker](https://www.wired.com/story/axon-taser-drones-ethics-board/)
- - [Roblox Builds Out Its Metaverse Vision With Video Chat](https://www.wired.com/story/gadget-lab-podcast-611/)<!-- TECH:END -->
+ - [Roblox plans to let creators that sell assets and tools on its Creator Marketplace keep all of the revenue minus taxes and payment processing fees, from 2024 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p18#a230908p18)
+ - [What is Discord Nitro, and should you get it?](https://www.androidauthority.com/what-is-discord-nitro-and-should-you-get-it-3362494/)
+ - [Samsung Galaxy Watch 6 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-watch-6-review-3361360/)
+ - [Roblox announces Roblox Connect, letting users video chat with other people as their Roblox avatar in a shared virtual space, available later in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p17#a230908p17)
+ - [Top US Spies Meet With Privacy Experts Over Surveillance &#39;Crown Jewel&#39;](https://www.wired.com/story/section-702-privacy-meeting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

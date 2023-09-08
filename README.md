@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Investigation of SpaceX’s Starship Explosion Is Complete—and Elon Musk Has More Work to Do](https://www.wired.com/story/the-investigation-of-spacexs-starship-explosion-is-complete-and-elon-musk-has-more-work-to-do/)
+ - [Ming-Chi Kuo: Apple no longer plans to launch any MacBook models with an M3 chip &quot;before the end of this year&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230908/p21#a230908p21)
+ - [Apple officially endorses California&#39;s Climate Corporate Data Accountability Act](https://appleinsider.com/articles/23/09/08/apple-officially-endorses-californias-climate-corporate-data-accountability-act?utm_medium=rss)
  - [Apple’s M3 MacBooks might not arrive this year](https://www.theverge.com/2023/9/8/23864712/apples-m3-macbooks-release-kuo-2024)
- - [Donald Mustard, head of Fortnite’s story, is leaving Epic and retiring](https://www.theverge.com/23864706/donald-mustard-leave-epic-games-retire-fortnite)
- - [Roblox unveils Roblox Assistant, a conversational AI assistant that lets creators enter prompts to generate virtual environments, get help with coding, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p20#a230908p20)
- - [Roblox plans to release coding tools for developers to create subscription-based services for in-platform games and experiences; Roblox will take a 30% cut &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230908/p19#a230908p19)
- - [Roblox plans to let creators that sell assets and tools on its Creator Marketplace keep all of the revenue minus taxes and payment processing fees, from 2024 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p18#a230908p18)<!-- TECH:END -->
+ - [Donald Mustard, head of Fortnite’s story, is leaving Epic and retiring](https://www.theverge.com/23864706/donald-mustard-leave-epic-games-retire-fortnite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

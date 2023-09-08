@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court finds the White House, the CDC, and the FBI likely violated the First Amendment by influencing tech companies&#39; moderation on COVID-19 posts &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230908/p26#a230908p26)
  - [Reddit can now translate posts](https://www.theverge.com/2023/9/8/23865149/reddit-translate-posts-coins)
  - [The Uber for tasks might just be Uber](https://www.theverge.com/2023/9/8/23865081/uber-app-hire-workers-chores)
  - [Save Big on TVs With These Limited-Time Samsung Deals     - CNET](https://www.cnet.com/deals/save-big-on-tvs-with-these-samsung-deals/#ftag=CAD590a51e)
- - [Roblox plans to launch on PlayStation 4 and PlayStation 5 in October and on Meta Quest headsets later in September, but has no &quot;imminent plans&quot; for Switch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p25#a230908p25)
- - [Best Vitamins for Hair Growth in 2023     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roblox plans to launch on PlayStation 4 and PlayStation 5 in October and on Meta Quest headsets later in September, but has no &quot;imminent plans&quot; for Switch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p25#a230908p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

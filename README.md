@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rapid Intensification of Hurricane Lee Is a Warning](https://www.wired.com/story/the-rapid-intensification-of-hurricane-lee-is-a-warning/)
- - [One of the most talked-about iPhone 15 rumors appears to not be happening](https://www.androidauthority.com/iphone-15-ultra-3362480/)
  - [Investors are overreacting to China iPhone ban news, says Morgan Stanley](https://appleinsider.com/articles/23/09/08/investors-are-overreacting-to-china-iphone-ban-news-says-morgan-stanley?utm_medium=rss)
- - [Apple Glasgow union reaches agreement with Apple for pay raises](https://appleinsider.com/articles/23/09/08/apple-glasgow-union-reaches-agreement-with-apple-for-pay-raises?utm_medium=rss)
- - [Reliance&#39;s Jio Platforms partners with Nvidia to build AI cloud infrastructure and work on building an LLM trained on India&#39;s diverse languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230908/p14#a230908p14)<!-- TECH:END -->
+ - [iPhone 14 Satellite SOS saves stranded New Zealand hikers](https://appleinsider.com/articles/23/09/08/iphone-14-satellite-sos-saves-stranded-new-zealand-hikers?utm_medium=rss)
+ - [Charlie Kaufman Movies Have Gotten Really Bleak](https://www.wired.com/2023/09/geeks-guide-charlie-kaufman/)
+ - [Procreate’s latest iPad app aims to make animation easier for everyone](https://www.theverge.com/2023/9/8/23864374/procreate-dreams-animation-app-ipad-release-date-announcement-price)
+ - [AI Drake song ‘not eligible’ for a Grammy, Academy CEO says](https://www.theverge.com/2023/9/8/23864379/ghostwriter-ai-drake-song-grammy-not-eligible)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

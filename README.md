@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 preview &amp; final leaks, Apple still isn&#39;t buying Disney, and more on the AppleInsider podcast](https://appleinsider.com/articles/23/09/08/iphone-15-preview-final-leaks-apple-still-isnt-buying-disney-and-more-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sources: Spotify plans to test a free audiobook bundle for its paid subscribers, including up to 20 hours of content a month, as part of a push into audiobooks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230908/p11#a230908p11)
  - [How Google plans to win its antitrust trial](https://www.theverge.com/23864025/google-antitrust-trial-kent-walker-interview)
  - [This year’s expected Apple Watch updates are all about the sensors](https://www.theverge.com/2023/9/8/23864230/apple-watch-series-9-heart-rate-ultra-wideband)
- - [Gmail might let you send emoji reactions to emails soon](https://www.theverge.com/2023/9/8/23863544/google-gmail-emoji-reactions-feature-email)
- - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gmail might let you send emoji reactions to emails soon](https://www.theverge.com/2023/9/8/23863544/google-gmail-emoji-reactions-feature-email)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

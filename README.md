@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
  - [Sources: Apple spent $5M on the film rights for Michael Lewis&#39; book about Sam Bankman-Fried; at least eight Hollywood projects on SBF are in the works so far &lpar;Peter Kiefer/The Ankler&rpar;](http://www.techmeme.com/230908/p23#a230908p23)
  - [New Procreate Dreams app brings intuitive animation creation to the iPad](https://appleinsider.com/articles/23/09/08/new-procreate-dreams-app-brings-intuitive-animation-creation-to-the-ipad?utm_medium=rss)
  - [Roblox wants to be a dating app](https://www.theverge.com/2023/9/8/23864858/roblox-ceo-prediction-adults-dating-experiences-rdc-2023)
- - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
- - [X is showing some ads in users&#39; Following feeds without an &quot;Ad&quot; label, indicated only by clicking on the three-dot menu, which could attract the FTC&#39;s attention &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230908/p22#a230908p22)<!-- TECH:END -->
+ - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

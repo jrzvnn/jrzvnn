@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Spotify plans to test a free audiobook bundle for its paid subscribers, including up to 20 hours of content a month, as part of a push into audiobooks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230908/p11#a230908p11)
+ - [How Google plans to win its antitrust trial](https://www.theverge.com/23864025/google-antitrust-trial-kent-walker-interview)
+ - [This year’s expected Apple Watch updates are all about the sensors](https://www.theverge.com/2023/9/8/23864230/apple-watch-series-9-heart-rate-ultra-wideband)
  - [Gmail might let you send emoji reactions to emails soon](https://www.theverge.com/2023/9/8/23863544/google-gmail-emoji-reactions-feature-email)
- - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
- - [Trump Squeezed America&#39;s Geek Squad. Biden Built It Back Stronger](https://www.wired.com/story/plaintext-trump-squeezed-americas-geek-squad-biden-built-it-back-stronger/)
- - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)<!-- TECH:END -->
+ - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s next Chromecast remote might have more buttons](https://www.theverge.com/2023/9/8/23864231/chromecast-google-tv-remote-android-14-star-button-leak)
- - [What to expect from Apple’s iPhone 15 event](https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors)
- - [X updates its TOS to ban scraping or crawling without &quot;prior written consent&quot;, effective September 29, likely to stop AI models from training on its data &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230908/p12#a230908p12)
- - [iPhone 15 preview &amp; final leaks, Apple still isn&#39;t buying Disney, and more on the AppleInsider podcast](https://appleinsider.com/articles/23/09/08/iphone-15-preview-final-leaks-apple-still-isnt-buying-disney-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: Spotify plans to test a free audiobook bundle for its paid subscribers, including up to 20 hours of content a month, as part of a push into audiobooks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230908/p11#a230908p11)<!-- TECH:END -->
+ - [Godzilla roars onto Apple TV+ starting in November](https://appleinsider.com/articles/23/09/08/godzilla-roars-onto-apple-tv-starting-in-november?utm_medium=rss)
+ - [Daily Deals Sept. 8: $130 off AirPods Max, $750 off 1TB MacBook Pro, $115 off iPad Pro, more](https://appleinsider.com/articles/23/09/08/daily-deals-sept-8-130-off-airpods-max-750-off-1tb-macbook-pro-115-off-ipad-pro-more?utm_medium=rss)
+ - [Xgimi’s ultra-portable MoGo 2 Pro projector is $120 off right now](https://www.theverge.com/2023/9/8/23862880/xgimi-mogo-2-pro-projector-apple-airpods-3-sonos-one-speaker-deal-sale)
+ - [Apple’s The Changeling is a haunted fairy tale about the joys and nightmares of new parenting](https://www.theverge.com/23860333/changeling-review-apple-tv-plus-review)
+ - [Apple staff will unsurprisingly tell iPhone 15 customers that Lightning won&#39;t work](https://appleinsider.com/articles/23/09/08/apple-staff-will-unsurprisingly-tell-iphone-15-customers-that-lightning-wont-work?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

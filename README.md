@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But it&#39;s not cool](http://9gag.com/gag/aPgzmmq)
- - 😝 [It&#39;s just a prank bruh! The prank:](http://9gag.com/gag/a3ZeGw7)
- - 💣 [Captain... is this guy lying? Tell me my money is used for a real cause! Please!](http://9gag.com/gag/aBdjZDx)
- - 😝 [Yes](http://9gag.com/gag/aXnQMMv)
- - 👉 [Shadowheart cosplay.](http://9gag.com/gag/a9qZ6r1)<!-- MEMES:END -->
+ - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 💣 [No words were necessary](http://9gag.com/gag/a9qZzjL)
+ - 😝 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
+ - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---
 </div>

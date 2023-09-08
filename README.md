@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - 😝 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
+ - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 😝 [Jim Carrey makes fun of Margot Robbie.](http://9gag.com/gag/a8qQAMe)
+ - 💣 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
+ - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
 
 ---
 </div>

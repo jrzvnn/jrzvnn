@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
- - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 💣 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
- - 😝 [The hero we need](http://9gag.com/gag/axoQoBp)
- - 👉 [How about that](http://9gag.com/gag/a6q4ZrL)<!-- MEMES:END -->
+ - 😝 [\ud83d\udcaf% damage](http://9gag.com/gag/aL1Vn2V)
+ - 😝 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 💣 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
+ - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
+ - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
 
 ---
 </div>

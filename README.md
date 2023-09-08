@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox wants to be a dating app](https://www.theverge.com/2023/9/8/23864858/roblox-ceo-prediction-adults-dating-experiences-rdc-2023)
  - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
- - [X is showing some ads in users&#39; Following feeds without an &quot;Ad&quot; label, recognizable only by clicking for more information, which could attract FTC scrutiny &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230908/p22#a230908p22)
+ - [X is showing some ads in users&#39; Following feeds without an &quot;Ad&quot; label, indicated only by clicking on the three-dot menu, which could attract the FTC&#39;s attention &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230908/p22#a230908p22)
  - [Surprise: Studio Ghibli’s Hayao Miyazaki has failed to retire a fourth time](https://www.theverge.com/2023/9/8/23864856/studio-ghibli-hayao-miyazaki-retirement-postponed-yet-again)
- - [Update your iPhone: New iOS patch shuts down serious exploit](https://www.androidauthority.com/apple-ios-vulnerabilities-3362582/)
- - [SpaceX Must Fix 63 Issues Before Its Starship Can Fly Again](https://www.wired.com/story/the-investigation-of-spacexs-starship-explosion-is-complete-and-elon-musk-has-more-work-to-do/)<!-- TECH:END -->
+ - [Update your iPhone: New iOS patch shuts down serious exploit](https://www.androidauthority.com/apple-ios-vulnerabilities-3362582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

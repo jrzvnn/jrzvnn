@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She looks familiar](http://9gag.com/gag/aRE97gM)
  - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
- - 💣 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 👉 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)<!-- MEMES:END -->
+ - 😝 [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)
+ - 💣 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
+ - 😝 [Tja](http://9gag.com/gag/axoQyeM)
+ - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
 
 ---
 </div>

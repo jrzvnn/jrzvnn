@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Gmail might let you send emoji reactions to emails soon](https://www.theverge.com/2023/9/8/23863544/google-gmail-emoji-reactions-feature-email)
+ - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
  - [Trump Squeezed America&#39;s Geek Squad. Biden Built It Back Stronger](https://www.wired.com/story/plaintext-trump-squeezed-americas-geek-squad-biden-built-it-back-stronger/)
- - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)
- - [Godzilla returns in Apple’s first trailer for the Monarch: Legacy of Monsters TV series](https://www.theverge.com/23864153/monarch-legacy-of-monsters-first-trailer-release-date-apple-tv-plus)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

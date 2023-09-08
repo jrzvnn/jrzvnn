@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The future is now, old man](http://9gag.com/gag/aqeBX0Q)
  - 😝 [H*ly shit](http://9gag.com/gag/a8qQmNQ)
+ - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
  - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 💣 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
  - 👉 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)<!-- MEMES:END -->
 
 ---

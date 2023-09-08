@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to rearrange your iMessage apps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-rearrange-your-imessage-apps-in-ios-17?utm_medium=rss)
+ - [Pixel Watch 2 teaser shows off a new crown and sensor layout](https://www.theverge.com/2023/9/8/23864574/google-pixel-watch-2-teaser-new-crown-sensors)
+ - [Ant Group unveils a financial LLM for wealth management and insurance services, powering two tools: Zhixiaobao, for consumers, and Zhixiaozhu, for professionals &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230908/p15#a230908p15)
  - [The world’s first climate change report card is in](https://www.theverge.com/2023/9/8/23864365/united-nations-climate-change-report-card-global-stocktake)
- - [SpaceX’s next Starship launch is on hold as FAA lists 63 ‘corrective actions’ needed](https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold)
- - [Samsung Galaxy A54 cuts in front of S22 to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a54-one-ui-6-3362491/)
- - [Investors are overreacting to China iPhone ban news, says Morgan Stanley](https://appleinsider.com/articles/23/09/08/investors-are-overreacting-to-china-iphone-ban-news-says-morgan-stanley?utm_medium=rss)
- - [iPhone 14 Satellite SOS saves stranded New Zealand hikers](https://appleinsider.com/articles/23/09/08/iphone-14-satellite-sos-saves-stranded-new-zealand-hikers?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX’s next Starship launch is on hold as FAA lists 63 ‘corrective actions’ needed](https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

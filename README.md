@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
- - [AirPods Pro charging case will move to USB-C](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)
- - [China breaks its silence on iPhone ban rumors](https://appleinsider.com/articles/23/09/08/china-breaks-its-silence-on-iphone-ban-rumors?utm_medium=rss)
- - [Sources: Mukesh Ambani&#39;s Reliance, encouraged by the Indian government, is in talks with foreign chipmakers to enter semiconductor manufacturing &lpar;Reuters&rpar;](http://www.techmeme.com/230908/p9#a230908p9)
- - [Do you really need 24GB RAM on your phone?](https://www.androidauthority.com/best-24gb-ram-phones-3361976/)<!-- TECH:END -->
+ - [Gmail might let you send emoji reactions to emails soon](https://www.theverge.com/2023/9/8/23863544/google-gmail-emoji-reactions-feature-email)
+ - [Trump Squeezed America&#39;s Geek Squad. Biden Built It Back Stronger](https://www.wired.com/story/plaintext-trump-squeezed-americas-geek-squad-biden-built-it-back-stronger/)
+ - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)
+ - [Godzilla returns in Apple’s first trailer for the Monarch: Legacy of Monsters TV series](https://www.theverge.com/23864153/monarch-legacy-of-monsters-first-trailer-release-date-apple-tv-plus)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

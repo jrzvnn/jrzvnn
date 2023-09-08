@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The world’s first climate change report card is in](https://www.theverge.com/2023/9/8/23864365/united-nations-climate-change-report-card-global-stocktake)
+ - [SpaceX’s next Starship launch is on hold as FAA lists 63 ‘corrective actions’ needed](https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold)
+ - [Samsung Galaxy A54 cuts in front of S22 to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a54-one-ui-6-3362491/)
  - [Investors are overreacting to China iPhone ban news, says Morgan Stanley](https://appleinsider.com/articles/23/09/08/investors-are-overreacting-to-china-iphone-ban-news-says-morgan-stanley?utm_medium=rss)
- - [iPhone 14 Satellite SOS saves stranded New Zealand hikers](https://appleinsider.com/articles/23/09/08/iphone-14-satellite-sos-saves-stranded-new-zealand-hikers?utm_medium=rss)
- - [Charlie Kaufman Movies Have Gotten Really Bleak](https://www.wired.com/2023/09/geeks-guide-charlie-kaufman/)
- - [Procreate’s latest iPad app aims to make animation easier for everyone](https://www.theverge.com/2023/9/8/23864374/procreate-dreams-animation-app-ipad-release-date-announcement-price)
- - [AI Drake song ‘not eligible’ for a Grammy, Academy CEO says](https://www.theverge.com/2023/9/8/23864379/ghostwriter-ai-drake-song-grammy-not-eligible)<!-- TECH:END -->
+ - [iPhone 14 Satellite SOS saves stranded New Zealand hikers](https://appleinsider.com/articles/23/09/08/iphone-14-satellite-sos-saves-stranded-new-zealand-hikers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

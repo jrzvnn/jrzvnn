@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a](http://9gag.com/gag/adPrveD)
- - 😝 [The hero we need](http://9gag.com/gag/axoQoBp)
- - 💣 [Tja](http://9gag.com/gag/axoQyeM)
- - 😝 [. . .](http://9gag.com/gag/aQEBEAd)
- - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
+ - 😝 [Things that are](http://9gag.com/gag/a4omEqZ)
+ - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 💣 [You&#39;ve gotta be kidding me](http://9gag.com/gag/a9qZE8m)
+ - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - 👉 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)<!-- MEMES:END -->
 
 ---
 </div>

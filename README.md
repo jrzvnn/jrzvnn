@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of the most talked-about iPhone 15 rumors appears to not be happening](https://www.androidauthority.com/iphone-15-ultra-3362480/)
+ - [Apple Glasgow union reaches agreement with Apple for pay raises](https://appleinsider.com/articles/23/09/08/apple-glasgow-union-reaches-agreement-with-apple-for-pay-raises?utm_medium=rss)
  - [Reliance&#39;s Jio Platforms partners with Nvidia to build AI cloud infrastructure and work on building an LLM trained on India&#39;s diverse languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230908/p14#a230908p14)
  - [Spotify appears to be planning free audiobook trials for subscribers](https://www.theverge.com/2023/9/8/23864377/spotify-free-audiobook-streaming-trial)
- - [Samsung breaks tradition, leak reveals Plus version of the Galaxy Tab A9](https://www.androidauthority.com/samsung-galaxy-a9-plus-fcc-3362456/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [19 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung breaks tradition, leak reveals Plus version of the Galaxy Tab A9](https://www.androidauthority.com/samsung-galaxy-a9-plus-fcc-3362456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

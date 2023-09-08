@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brand Engagement Network, which offers AI-powered chatbots and conversational AI tech to companies, agrees to go public via a SPAC merger at a $358M valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230907/p46#a230907p46)
  - [The US Commerce Department begins an official probe to &quot;obtain more information&quot; on a &quot;purported&quot; 7nm chip made by SMIC in China used in Huawei&#39;s Mate 60 Pro &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/230907/p45#a230907p45)
  - [An excerpt from Walter Isaacson&#39;s Elon Musk biography says Musk cut off Starlink internet service access to disrupt a Ukrainian sneak attack on a Russian fleet &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230907/p44#a230907p44)
  - [Valve’s next mystery gadget may be imminent](https://www.theverge.com/2023/9/7/23863862/valve-galileo-sephiroth-1030-south-korea-radio-certification)
- - [TikTok&#39;s Shop marketplace goes live for some US users, presenting a feed of &quot;recommended&quot; random products, including several counterfeit Chinese goods &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230907/p43#a230907p43)
- - [X’s new terms of service insist that tweets are now posts](https://www.theverge.com/2023/9/7/23863785/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)<!-- TECH:END -->
+ - [TikTok&#39;s Shop marketplace goes live for some US users, presenting a feed of &quot;recommended&quot; random products, including several counterfeit Chinese goods &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230907/p43#a230907p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

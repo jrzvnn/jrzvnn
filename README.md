@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
- - 😝 [Jim Carrey makes fun of Margot Robbie.](http://9gag.com/gag/a8qQAMe)
- - 💣 [. . .](http://9gag.com/gag/aQEBEAd)
+ - 😝 [So delusional](http://9gag.com/gag/a9qZnrZ)
  - 😝 [Tja](http://9gag.com/gag/axoQyeM)
- - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
+ - 💣 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
 
 ---
 </div>

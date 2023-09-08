@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
+ - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
  - 😝 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 💣 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
- - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
+ - 💣 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
 
 ---
 </div>

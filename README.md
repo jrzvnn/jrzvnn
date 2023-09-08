@@ -149,8 +149,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [JP Morgan drops Apple stock target to $230 over low expectations for iPhone 15](https://appleinsider.com/articles/23/09/08/jp-morgan-drops-apple-stock-target-to-230-over-low-expectations-for-iphone-15?utm_medium=rss)
  - [Google may have accidentally leaked the remote of a new Chromecast](https://www.androidauthority.com/google-chromecast-new-remote-leak-3362396/)
  - [Local media: Turkey sentenced Faruk Fatih &amp;Ouml;zer, the CEO of defunct crypto exchange Thodex, to 11,196 years; 400K+ users of Thodex have lost $2B+ in deposits &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230908/p7#a230908p7)
- - [How to Escape the YouTube Algorithm](https://www.wired.com/story/how-to-turn-off-youtube-algorithm/)
- - [Big Batteries Are Booming. So Are Fears They&#39;ll Catch Fire](https://www.wired.com/story/big-grid-batteries-are-booming-so-are-fears-fire/)<!-- TECH:END -->
+ - [VPN App or Browser Extension: Which Is Right for You?     - CNET](https://www.cnet.com/tech/services-and-software/vpn-app-or-browser-extension-which-is-right-for-you/#ftag=CAD590a51e)
+ - [How to Escape the YouTube Algorithm](https://www.wired.com/story/how-to-turn-off-youtube-algorithm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

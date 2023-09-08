@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is going to let creators that make assets and tools keep nearly all of their sales](https://www.theverge.com/2023/9/8/23864027/roblox-marketplace-creators-keep-sales-revenue-share-subscriptions-rdc-2023)
- - [Roblox is putting its own spin on video chat](https://www.theverge.com/2023/9/8/23864026/roblox-connect-video-chat)
- - [Roblox’s new AI chatbot will help you build virtual worlds](https://www.theverge.com/2023/9/8/23863943/roblox-ai-chatbot-assistant-ai-rdc-2023)
- - [Roblox is finally coming to PlayStation](https://www.theverge.com/2023/9/8/23863712/roblox-playstation-ps4-ps5-rdc-2023)
- - [M3 MacBook Air models may not arrive in October after all](https://appleinsider.com/articles/23/09/08/m3-macbook-air-models-may-not-arrive-in-october-after-all?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT doesn’t want to write your Stucky fanfic](https://www.theverge.com/2023/9/8/23863304/chatgpt-banned-fandom-shipping-terms)
+ - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Axon&#39;s Ethics Board Resigned Over Taser-Armed Drones. Then the Company Bought a Military Drone Maker](https://www.wired.com/story/axon-taser-drones-ethics-board/)
+ - [Roblox Builds Out Its Metaverse Vision With Video Chat](https://www.wired.com/story/gadget-lab-podcast-611/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

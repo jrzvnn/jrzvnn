@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox unveils Roblox Assistant, a conversational AI assistant that lets creators enter prompts to generate virtual environments, get help with coding, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p20#a230908p20)
+ - [Roblox plans to release coding tools for developers to create subscription-based services for in-platform games and experiences; Roblox will take a 30% cut &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230908/p19#a230908p19)
  - [Roblox plans to let creators that sell assets and tools on its Creator Marketplace keep all of the revenue minus taxes and payment processing fees, from 2024 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p18#a230908p18)
  - [What is Discord Nitro, and should you get it?](https://www.androidauthority.com/what-is-discord-nitro-and-should-you-get-it-3362494/)
- - [Samsung Galaxy Watch 6 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-watch-6-review-3361360/)
- - [Roblox announces Roblox Connect, letting users video chat with other people as their Roblox avatar in a shared virtual space, available later in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p17#a230908p17)
- - [Top US Spies Meet With Privacy Experts Over Surveillance &#39;Crown Jewel&#39;](https://www.wired.com/story/section-702-privacy-meeting/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 6 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-watch-6-review-3361360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Turkey-based grocery delivery startup Getir raises $500M from Mubadala, Michael Moritz, and others at a $2.5B valuation, down from $11.8B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230908/p4#a230908p4)
  - [Similarweb: ChatGPT&#39;s desktop and mobile website visits fell 3.2% MoM to 1.43B in August, following 10% drops from each of the previous two months &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230908/p3#a230908p3)
  - [iPhone 15 release date: When will it be available?](https://www.androidauthority.com/iphone-15-release-date-3345850/)
  - [The iPhone 15 Pro Max could become the most expensive iPhone ever](https://www.androidauthority.com/apple-iphone-15-pro-max-leaked-prices-3362289/)
- - [MS Paint is ancient, but it’s getting this Galaxy S23 feature](https://www.androidauthority.com/microsoft-paint-image-clipper-background-removal-3361867/)
- - [A look at Microsoft&#39;s device-agnostic game streaming model; sources say Microsoft prototyped a cloud-focused Xbox handheld, but work on cloud gaming has slowed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230908/p2#a230908p2)<!-- TECH:END -->
+ - [MS Paint is ancient, but it’s getting this Galaxy S23 feature](https://www.androidauthority.com/microsoft-paint-image-clipper-background-removal-3361867/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

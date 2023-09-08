@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
- - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
  - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 👉 [No words were necessary](http://9gag.com/gag/a9qZzjL)<!-- MEMES:END -->
+ - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 💣 [I regret nothing](http://9gag.com/gag/awZPg94)
+ - 😝 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
+ - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
 
 ---
 </div>

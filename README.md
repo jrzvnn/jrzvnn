@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 💣 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 😝 [You&#39;ve gotta be kidding me](http://9gag.com/gag/a9qZE8m)
- - 👉 [Things that are](http://9gag.com/gag/a4omEqZ)<!-- MEMES:END -->
+ - 😝 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
+ - 😝 [`Radio Cirugia` a new type of tumor treatment. They make a map of your brain then send you home. They operate the map 5... 8... 10 times. Call you up, strap you to the bed and just hit `play` laser operates you alone. Had a apple size tumor 2 monthes later was a pea! Me on vid.](http://9gag.com/gag/ay2ZqBb)
+ - 💣 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 😝 [Dad knows his stuff!](http://9gag.com/gag/aQEBgbd)
+ - 👉 [It&#39;s just a prank bruh! The prank:](http://9gag.com/gag/a3ZeGw7)<!-- MEMES:END -->
 
 ---
 </div>

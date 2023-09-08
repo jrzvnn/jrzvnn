@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [If you got &#39;free money&#39; from Apple Pay and CashApp, you should check your balances](https://appleinsider.com/articles/23/09/08/if-you-got-free-money-from-apple-pay-and-cashapp-you-should-check-your-balances?utm_medium=rss)
  - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
  - [Huawei debuts the Mate 60 Pro+ and the Mate X5 foldable, both likely powered by Huawei&#39;s mysterious HiSilicon Kirin 9000S; sources: both phones are 5G devices &lpar;Richard Lai/Engadget&rpar;](http://www.techmeme.com/230908/p13#a230908p13)
- - [AirPods Pro charging case will get USB-C first, AirPods Max will wait](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)
- - [Godzilla roars onto Apple TV+ starting in November](https://appleinsider.com/articles/23/09/08/godzilla-roars-onto-apple-tv-starting-in-november?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Pro charging case will get USB-C first, AirPods Max will wait](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

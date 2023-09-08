@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
  - 😝 [Jim Carrey makes fun of Margot Robbie.](http://9gag.com/gag/a8qQAMe)
- - 💣 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
- - 😝 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
- - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/aQEBEAd)
+ - 😝 [Tja](http://9gag.com/gag/axoQyeM)
+ - 👉 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)<!-- MEMES:END -->
 
 ---
 </div>

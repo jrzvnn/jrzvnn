@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 💣 [No words were necessary](http://9gag.com/gag/a9qZzjL)
  - 😝 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
- - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
+ - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 💣 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - 👉 [No words were necessary](http://9gag.com/gag/a9qZzjL)<!-- MEMES:END -->
 
 ---
 </div>

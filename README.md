@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei debuts the Mate 60 Pro+ and the Mate X5 foldable, both likely powered by Huawei&#39;s mysterious HiSilicon Kirin 9000S; sources: both phones are 5G devices &lpar;Richard Lai/Engadget&rpar;](http://www.techmeme.com/230908/p13#a230908p13)
  - [AirPods Pro charging case will get USB-C first, AirPods Max will wait](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)
  - [Godzilla roars onto Apple TV+ starting in November](https://appleinsider.com/articles/23/09/08/godzilla-roars-onto-apple-tv-starting-in-november?utm_medium=rss)
  - [Daily Deals Sept. 8: $130 off AirPods Max, $750 off 1TB MacBook Pro, $115 off iPad Pro, more](https://appleinsider.com/articles/23/09/08/daily-deals-sept-8-130-off-airpods-max-750-off-1tb-macbook-pro-115-off-ipad-pro-more?utm_medium=rss)
- - [The 12 Best Foods for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/the-12-best-foods-for-healthy-eyes/#ftag=CAD590a51e)
- - [Add These 8 Yoga Poses to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/add-these-8-yoga-poses-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 12 Best Foods for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/the-12-best-foods-for-healthy-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

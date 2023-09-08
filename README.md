@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 😝 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 💣 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
+ - 😝 [Boomerang](http://9gag.com/gag/aA0qQnd)
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 💣 [Old man is a savage.](http://9gag.com/gag/aMEDmw6)
+ - 😝 [Or is it?!](http://9gag.com/gag/aGE6n7z)
+ - 👉 [Repent sinner!!](http://9gag.com/gag/aRE9ZoQ)<!-- MEMES:END -->
 
 ---
 </div>

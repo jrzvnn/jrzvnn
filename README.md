@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X sues California over AB 587, which requires social networks to share moderation rules, arguing it interferes with X&#39;s editorial calls protected as free speech &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/230908/p24#a230908p24)
  - [Roblox: all the news about the popular social and gaming platform](https://www.theverge.com/23864790/roblox-news-announcements-updates)
  - [Sources: Apple spent $5M on the film rights for Michael Lewis&#39; book about Sam Bankman-Fried; at least eight Hollywood projects on SBF are in the works so far &lpar;Peter Kiefer/The Ankler&rpar;](http://www.techmeme.com/230908/p23#a230908p23)
  - [New Procreate Dreams app brings intuitive animation creation to the iPad](https://appleinsider.com/articles/23/09/08/new-procreate-dreams-app-brings-intuitive-animation-creation-to-the-ipad?utm_medium=rss)
- - [Roblox wants to be a dating app](https://www.theverge.com/2023/9/8/23864858/roblox-ceo-prediction-adults-dating-experiences-rdc-2023)
- - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)<!-- TECH:END -->
+ - [Best 4K TV Deals: Up to $900 Off Samsung, LG and Other Major Brands     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

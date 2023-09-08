@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every man dreams about it only a few gets it in their lifetime.](http://9gag.com/gag/aqeBjpv)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
  - 😝 [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
- - 👉 [You&#39;ve gotta be kidding me](http://9gag.com/gag/a9qZE8m)<!-- MEMES:END -->
+ - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 💣 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - 😝 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
+ - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---
 </div>

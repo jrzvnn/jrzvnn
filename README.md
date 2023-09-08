@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms Pixel Watch 2 has best IP rating in new video](https://www.androidauthority.com/google-pixel-watch-2-sneak-peak-3362528/)
+ - [The IRS says it has started using AI to investigate complex cases of tax evasion at multibillion-dollar partnerships, large hedge funds, PE groups, and others &lpar;Alan Rappeport/New York Times&rpar;](http://www.techmeme.com/230908/p16#a230908p16)
  - [Early access to the Samsung sale can save you $1,300 on the Galaxy Z Fold 5](https://www.androidauthority.com/early-access-samsung-sale-3362522/)
  - [Framework is finally working on a full-size SD card module](https://www.theverge.com/2023/9/8/23864554/framework-sd-card-module-diy-nuc-deal)
- - [Dbrand’s Arachnoplates arguably look better than Sony’s Spider-Man PS5](https://www.theverge.com/23864143/dbrand-spider-man-ps5-plates-arachnoplates)
- - [15 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [How to rearrange your iMessage apps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-rearrange-your-imessage-apps-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Dbrand’s Arachnoplates arguably look better than Sony’s Spider-Man PS5](https://www.theverge.com/23864143/dbrand-spider-man-ps5-plates-arachnoplates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

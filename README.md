@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to rearrange your iMessage apps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-rearrange-your-imessage-apps-in-ios-17?utm_medium=rss)
- - [Pixel Watch 2 teaser shows off a new crown and sensor layout](https://www.theverge.com/2023/9/8/23864574/google-pixel-watch-2-teaser-new-crown-sensors)
- - [Ant Group unveils a financial LLM for wealth management and insurance services, powering two tools: Zhixiaobao, for consumers, and Zhixiaozhu, for professionals &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230908/p15#a230908p15)
- - [The world’s first climate change report card is in](https://www.theverge.com/2023/9/8/23864365/united-nations-climate-change-report-card-global-stocktake)
- - [SpaceX’s next Starship launch is on hold as FAA lists 63 ‘corrective actions’ needed](https://www.theverge.com/2023/9/8/23864393/spacex-starship-orbital-flight-test-faa-hold)<!-- TECH:END -->
+ - [Early access to the Samsung sale can save you $1,300 on the Galaxy Z Fold 5](https://www.androidauthority.com/early-access-samsung-sale-3362522/)
+ - [Framework is finally working on a full-size SD card module](https://www.theverge.com/2023/9/8/23864554/framework-sd-card-module-diy-nuc-deal)
+ - [Dbrand’s Arachnoplates arguably look better than Sony’s Spider-Man PS5](https://www.theverge.com/23864143/dbrand-spider-man-ps5-plates-arachnoplates)
+ - [15 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
+ - [How to rearrange your iMessage apps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-rearrange-your-imessage-apps-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

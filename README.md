@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Rapid Intensification of Hurricane Lee Is a Warning](https://www.wired.com/story/the-rapid-intensification-of-hurricane-lee-is-a-warning/)
  - [One of the most talked-about iPhone 15 rumors appears to not be happening](https://www.androidauthority.com/iphone-15-ultra-3362480/)
  - [Investors are overreacting to China iPhone ban news, says Morgan Stanley](https://appleinsider.com/articles/23/09/08/investors-are-overreacting-to-china-iphone-ban-news-says-morgan-stanley?utm_medium=rss)
  - [Apple Glasgow union reaches agreement with Apple for pay raises](https://appleinsider.com/articles/23/09/08/apple-glasgow-union-reaches-agreement-with-apple-for-pay-raises?utm_medium=rss)
- - [Reliance&#39;s Jio Platforms partners with Nvidia to build AI cloud infrastructure and work on building an LLM trained on India&#39;s diverse languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230908/p14#a230908p14)
- - [Spotify appears to be planning free audiobook trials for subscribers](https://www.theverge.com/2023/9/8/23864377/spotify-free-audiobook-streaming-trial)<!-- TECH:END -->
+ - [Reliance&#39;s Jio Platforms partners with Nvidia to build AI cloud infrastructure and work on building an LLM trained on India&#39;s diverse languages &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230908/p14#a230908p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

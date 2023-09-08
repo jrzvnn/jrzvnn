@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Pro charging case will get USB-C first, AirPods Max will wait](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)
  - [Godzilla roars onto Apple TV+ starting in November](https://appleinsider.com/articles/23/09/08/godzilla-roars-onto-apple-tv-starting-in-november?utm_medium=rss)
  - [Daily Deals Sept. 8: $130 off AirPods Max, $750 off 1TB MacBook Pro, $115 off iPad Pro, more](https://appleinsider.com/articles/23/09/08/daily-deals-sept-8-130-off-airpods-max-750-off-1tb-macbook-pro-115-off-ipad-pro-more?utm_medium=rss)
- - [Xgimi’s ultra-portable MoGo 2 Pro projector is $120 off right now](https://www.theverge.com/2023/9/8/23862880/xgimi-mogo-2-pro-projector-apple-airpods-3-sonos-one-speaker-deal-sale)
- - [Apple’s The Changeling is a haunted fairy tale about the joys and nightmares of new parenting](https://www.theverge.com/23860333/changeling-review-apple-tv-plus-review)
- - [Apple staff will unsurprisingly tell iPhone 15 customers that Lightning won&#39;t work](https://appleinsider.com/articles/23/09/08/apple-staff-will-unsurprisingly-tell-iphone-15-customers-that-lightning-wont-work?utm_medium=rss)<!-- TECH:END -->
+ - [The 12 Best Foods for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/the-12-best-foods-for-healthy-eyes/#ftag=CAD590a51e)
+ - [Add These 8 Yoga Poses to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/add-these-8-yoga-poses-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

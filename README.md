@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify appears to be planning free audiobook trials for subscribers](https://www.theverge.com/2023/9/8/23864377/spotify-free-audiobook-streaming-trial)
+ - [Samsung breaks tradition, leak reveals Plus version of the Galaxy Tab A9](https://www.androidauthority.com/samsung-galaxy-a9-plus-fcc-3362456/)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [If you got &#39;free money&#39; from Apple Pay and CashApp, you should check your balances](https://appleinsider.com/articles/23/09/08/if-you-got-free-money-from-apple-pay-and-cashapp-you-should-check-your-balances?utm_medium=rss)
- - [Here are the best deals on headphones and wireless earbuds we could find](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Huawei debuts the Mate 60 Pro+ and the Mate X5 foldable, both likely powered by Huawei&#39;s mysterious HiSilicon Kirin 9000S; sources: both phones are 5G devices &lpar;Richard Lai/Engadget&rpar;](http://www.techmeme.com/230908/p13#a230908p13)
- - [AirPods Pro charging case will get USB-C first, AirPods Max will wait](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [If you got &#39;free money&#39; from Apple Pay and CashApp, you should check your balances](https://appleinsider.com/articles/23/09/08/if-you-got-free-money-from-apple-pay-and-cashapp-you-should-check-your-balances?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

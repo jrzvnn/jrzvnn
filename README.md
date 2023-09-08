@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 💣 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 👉 [No words were necessary](http://9gag.com/gag/a9qZzjL)<!-- MEMES:END -->
+ - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 💣 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
+ - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---
 </div>

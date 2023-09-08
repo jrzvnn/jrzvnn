@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
  - 😝 [Things that are](http://9gag.com/gag/a4omEqZ)
- - 💣 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
  - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 👉 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)<!-- MEMES:END -->
+ - 💣 [Funny Ron Swanson moment](http://9gag.com/gag/adPrgLB)
+ - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
 
 ---
 </div>

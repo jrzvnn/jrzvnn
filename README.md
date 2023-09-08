@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
- - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 💣 [Tja](http://9gag.com/gag/axoQyeM)
- - 😝 [Parenting done right](http://9gag.com/gag/abvKvmB)
- - 👉 [How about that](http://9gag.com/gag/a6q4ZrL)<!-- MEMES:END -->
+ - 😝 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
+ - 😝 [DO NOT REDEEM IT MAM](http://9gag.com/gag/a3ZewA8)
+ - 💣 [A Gastroenterology Professor performs endoscopy on herself as a demonstration!](http://9gag.com/gag/a8qQGe3)
+ - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 👉 [She looks familiar](http://9gag.com/gag/aRE97gM)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surprise: Studio Ghibli’s Hayao Miyazaki has failed to retire a fourth time](https://www.theverge.com/2023/9/8/23864856/studio-ghibli-hayao-miyazaki-retirement-postponed-yet-again)
  - [Update your iPhone: New iOS patch shuts down serious exploit](https://www.androidauthority.com/apple-ios-vulnerabilities-3362582/)
  - [The Investigation of SpaceX’s Starship Explosion Is Complete—and Elon Musk Has More Work to Do](https://www.wired.com/story/the-investigation-of-spacexs-starship-explosion-is-complete-and-elon-musk-has-more-work-to-do/)
  - [Ming-Chi Kuo: Apple no longer plans to launch any MacBook models with an M3 chip &quot;before the end of this year&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230908/p21#a230908p21)
- - [Apple officially endorses California&#39;s Climate Corporate Data Accountability Act](https://appleinsider.com/articles/23/09/08/apple-officially-endorses-californias-climate-corporate-data-accountability-act?utm_medium=rss)
- - [Apple’s M3 MacBooks might not arrive this year](https://www.theverge.com/2023/9/8/23864712/apples-m3-macbooks-release-kuo-2024)<!-- TECH:END -->
+ - [Apple officially endorses California&#39;s Climate Corporate Data Accountability Act](https://appleinsider.com/articles/23/09/08/apple-officially-endorses-californias-climate-corporate-data-accountability-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

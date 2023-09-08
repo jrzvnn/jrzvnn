@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok&#39;s Shop marketplace goes live for some US users, presenting a feed of &quot;recommended&quot; random products, including several counterfeit Chinese goods &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230907/p43#a230907p43)
  - [X’s new terms of service insist that tweets are now posts](https://www.theverge.com/2023/9/7/23863785/x-twitter-new-terms-of-service-tweets-posts-lawsuit-scraping)
  - [The US and the UK sanction 11 more alleged Trickbot ransomware gang members, and the US DOJ unseals indictments against nine alleged Trickbot and Conti members &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230907/p42#a230907p42)
  - [Summer Isn&#39;t Done, With Triple-Digit Heat Waves Expected to Hit This Weekend     - CNET](https://www.cnet.com/science/climate/summer-isnt-done-with-triple-digit-heat-waves-expected-to-hit-this-weekend/#ftag=CAD590a51e)
- - [Inside Apple&#39;s impossible war on child exploitation, as the company scrapped its on-device CSAM scanning system and key team members behind the initiative left &lpar;Forbes&rpar;](http://www.techmeme.com/230907/p41#a230907p41)
- - [The FBI says North Korea-linked Lazarus Group was responsible for the theft of $41M in crypto from online casino and betting site Stake around September 4, 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230907/p40#a230907p40)<!-- TECH:END -->
+ - [Inside Apple&#39;s impossible war on child exploitation, as the company scrapped its on-device CSAM scanning system and key team members behind the initiative left &lpar;Forbes&rpar;](http://www.techmeme.com/230907/p41#a230907p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

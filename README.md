@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 😝 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
+ - 💣 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
  - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [The future is now, old man](http://9gag.com/gag/aqeBX0Q)
- - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
+ - 👉 [The future is now, old man](http://9gag.com/gag/aqeBX0Q)<!-- MEMES:END -->
 
 ---
 </div>

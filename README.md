@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 😝 [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
- - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
- - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
+ - 😝 [Getting the Lightsaber polished](http://9gag.com/gag/arm9WEB)
+ - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 💣 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
+ - 😝 [`Radio Cirugia` a new type of tumor treatment. They make a map of your brain then send you home. They operate the map 5... 8... 10 times. Call you up, strap you to the bed and just hit `play` laser operates you alone. Had a apple size tumor 2 monthes later was a pea! Me on vid.](http://9gag.com/gag/ay2ZqBb)
+ - 👉 [Shadowheart cosplay.](http://9gag.com/gag/a9qZ6r1)<!-- MEMES:END -->
 
 ---
 </div>

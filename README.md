@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tja](http://9gag.com/gag/axoQyeM)
- - 😝 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - 💣 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
- - 😝 [This is what I also imagine](http://9gag.com/gag/aVb4vq2)
- - 👉 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)<!-- MEMES:END -->
+ - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
+ - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 💣 [Tja](http://9gag.com/gag/axoQyeM)
+ - 😝 [How about that](http://9gag.com/gag/a6q4ZrL)
+ - 👉 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)<!-- MEMES:END -->
 
 ---
 </div>

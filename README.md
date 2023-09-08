@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s largest wireless carrier denies rumor that it will skip iPhone 15 sales](https://appleinsider.com/articles/23/09/08/chinas-largest-wireless-carrier-denies-rumor-that-it-will-skip-iphone-15-sales?utm_medium=rss)
+ - [iPhone 15 Pro Max expected to get price hike, rest of line may be safe](https://appleinsider.com/articles/23/09/08/iphone-15-pro-max-expected-to-get-price-hike-rest-of-line-may-be-safe?utm_medium=rss)
  - [Exploit that delivered Pegasus spyware patched in iOS 16.6.1 update](https://appleinsider.com/articles/23/09/07/exploit-patched-in-ios-1661-update-delivered-pegasus-spyware?utm_medium=rss)
  - [Ant Group launches ZAN, a new blockchain service aimed at institutional and individual clients in overseas markets, including Hong Kong and Singapore &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/230908/p5#a230908p5)
- - [You really should hold off on updating your Xiaomi Mi Box S](https://www.androidauthority.com/first-generation-xiaomi-mi-box-s-update-bugs-3362333/)
- - [iOS 16.6.1 fixes a big iPhone security vulnerability used to install Pegasus spyware](https://www.theverge.com/2023/9/8/23864150/ios-16-6-1-iphone-security-vulnerability-0-day-exploit-patch-update)
- - [Sources: Turkey-based grocery delivery startup Getir raises $500M from Mubadala, Michael Moritz, and others at a $2.5B valuation, down from $11.8B in early 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230908/p4#a230908p4)<!-- TECH:END -->
+ - [You really should hold off on updating your Xiaomi Mi Box S](https://www.androidauthority.com/first-generation-xiaomi-mi-box-s-update-bugs-3362333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

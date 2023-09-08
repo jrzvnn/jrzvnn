@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JP Morgan drops Apple stock target to $230 over low expectations for iPhone 15](https://appleinsider.com/articles/23/09/08/jp-morgan-drops-apple-stock-target-to-230-over-low-expectations-for-iphone-15?utm_medium=rss)
+ - [Google may have accidentally leaked the remote of a new Chromecast](https://www.androidauthority.com/google-chromecast-new-remote-leak-3362396/)
  - [Local media: Turkey sentenced Faruk Fatih &amp;Ouml;zer, the CEO of defunct crypto exchange Thodex, to 11,196 years; 400K+ users of Thodex have lost $2B+ in deposits &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230908/p7#a230908p7)
- - [How to watch Apple&#39;s iPhone 15 announcement event](https://appleinsider.com/inside/iphone-15/tips/how-to-watch-apples-iphone-15-announcement-event?utm_medium=rss)
- - [Q&amp;A with Threads engineers Jesse Chen and Zahan Malkani on building the app with Instagram&#39;s tech stack, handling Threads&#39; unexpectedly intense launch, and more &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/230908/p6#a230908p6)
- - [China&#39;s largest wireless carrier denies rumor that it will skip iPhone 15 sales](https://appleinsider.com/articles/23/09/08/chinas-largest-wireless-carrier-denies-rumor-that-it-will-skip-iphone-15-sales?utm_medium=rss)
- - [iPhone 15 Pro Max expected to get price hike, rest of line may be safe](https://appleinsider.com/articles/23/09/08/iphone-15-pro-max-expected-to-get-price-hike-rest-of-line-may-be-safe?utm_medium=rss)<!-- TECH:END -->
+ - [How to Escape the YouTube Algorithm](https://www.wired.com/story/how-to-turn-off-youtube-algorithm/)
+ - [Big Batteries Are Booming. So Are Fears They&#39;ll Catch Fire](https://www.wired.com/story/big-grid-batteries-are-booming-so-are-fears-fire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

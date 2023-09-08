@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air models may not arrive in October after all](https://appleinsider.com/articles/23/09/08/m3-macbook-air-models-may-not-arrive-in-october-after-all?utm_medium=rss)
+ - [You’ll soon be able to buy a brand-new Xbox 360](https://www.theverge.com/2023/9/8/23864463/xbox-360-replica-mega-target-halo-3)
  - [Google confirms Pixel Watch 2 has best IP rating in new video](https://www.androidauthority.com/google-pixel-watch-2-sneak-peak-3362528/)
  - [The IRS says it has started using AI to investigate complex cases of tax evasion at multibillion-dollar partnerships, large hedge funds, PE groups, and others &lpar;Alan Rappeport/New York Times&rpar;](http://www.techmeme.com/230908/p16#a230908p16)
- - [Early access to the Samsung sale can save you $1,300 on the Galaxy Z Fold 5](https://www.androidauthority.com/early-access-samsung-sale-3362522/)
- - [Framework is finally working on a full-size SD card module](https://www.theverge.com/2023/9/8/23864554/framework-sd-card-module-diy-nuc-deal)
- - [Dbrand’s Arachnoplates arguably look better than Sony’s Spider-Man PS5](https://www.theverge.com/23864143/dbrand-spider-man-ps5-plates-arachnoplates)<!-- TECH:END -->
+ - [Early access to the Samsung sale can save you $1,300 on the Galaxy Z Fold 5](https://www.androidauthority.com/early-access-samsung-sale-3362522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

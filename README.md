@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl gets arrested for drunk driving and expects her father &lpar;who\u2019s a sheriff&rpar; to help.](http://9gag.com/gag/a6q4qRN)
- - 😝 [For all the hater.. 10/10 fix](http://9gag.com/gag/a8qQq7e)
- - 💣 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 😝 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)
- - 👉 [Title is swallowed by singularity](http://9gag.com/gag/a7qP1dw)<!-- MEMES:END -->
+ - 😝 [Dog trained to wipe mouth after drinking water](http://9gag.com/gag/avQ4yrq)
+ - 😝 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 💣 [`Jump, jump!`](http://9gag.com/gag/a9qZn81)
+ - 😝 [The hero we need](http://9gag.com/gag/axoQoBp)
+ - 👉 [How about that](http://9gag.com/gag/a6q4ZrL)<!-- MEMES:END -->
 
 ---
 </div>

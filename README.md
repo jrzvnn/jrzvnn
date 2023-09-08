@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly every iPhone 15 &amp; iPhone 15 Pro detail spilled by new leak](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)
  - [AirPods Pro charging case will move to USB-C](https://appleinsider.com/articles/23/09/08/airpods-pro-charging-case-will-move-to-usb-c?utm_medium=rss)
  - [China breaks its silence on iPhone ban rumors](https://appleinsider.com/articles/23/09/08/china-breaks-its-silence-on-iphone-ban-rumors?utm_medium=rss)
  - [Sources: Mukesh Ambani&#39;s Reliance, encouraged by the Indian government, is in talks with foreign chipmakers to enter semiconductor manufacturing &lpar;Reuters&rpar;](http://www.techmeme.com/230908/p9#a230908p9)
- - [Do you really need 24GB RAM on your phone?](https://www.androidauthority.com/best-24gb-ram-phones-3361976/)
- - [Leak claims to have all details of the iPhone 15 range](https://appleinsider.com/articles/23/09/08/leak-claims-to-have-details-of-everything-apple-will-launch-next-week?utm_medium=rss)<!-- TECH:END -->
+ - [Do you really need 24GB RAM on your phone?](https://www.androidauthority.com/best-24gb-ram-phones-3361976/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [. . .](http://9gag.com/gag/aQEBEAd)
- - 😝 [Getting the Lightsaber polished](http://9gag.com/gag/arm9WEB)
- - 💣 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 😝 [Captain... is this guy lying? Tell me my money is used for a real cause! Please!](http://9gag.com/gag/aBdjZDx)
- - 👉 [Boomerang](http://9gag.com/gag/aA0qQnd)<!-- MEMES:END -->
+ - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - 😝 [LOL! Their reactions when the journalist questions about the lack of diversity in their movie.](http://9gag.com/gag/a2K9M9O)
+ - 💣 [Seen on the shelf at a local convenience store. WTF](http://9gag.com/gag/aBdj2gZ)
+ - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
 
 ---
 </div>

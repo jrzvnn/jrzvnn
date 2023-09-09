@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Sept. 9: $200 off Apple Watch SE, M1 iPad Pro from $659, WD 18TB external hard drive $269, more](https://appleinsider.com/articles/23/09/09/daily-deals-sept-9-200-off-apple-watch-se-m1-ipad-pro-from-659-wd-18tb-external-hard-drive-269-more?utm_medium=rss)
  - [Don’t let Apple fool you: It was forced to adopt USB-C](https://www.androidauthority.com/apple-forced-adopt-usb-c-3361996/)
  - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)
  - [Can you guess how many apps we have on our phones?](https://www.theverge.com/23864656/iphone-android-apps-phone)
- - [Why is it so hard to find a good PopSocket alternative?](https://www.theverge.com/23861997/popsocket-magsafe-phone-grip-kickstand)
- - [How privacy campaigners and tech executives, like Signal president Meredith Whittaker, teamed up to challenge the UK&#39;s Online Safety Bill encryption crackdown &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/230909/p6#a230909p6)<!-- TECH:END -->
+ - [Why is it so hard to find a good PopSocket alternative?](https://www.theverge.com/23861997/popsocket-magsafe-phone-grip-kickstand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

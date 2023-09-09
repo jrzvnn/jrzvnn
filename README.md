@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Delhi High Court approves a pirate site blocking order, requested by Netflix and other studios, allowing for preemptive blocks covering &quot;future content&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230909/p5#a230909p5)
- - [Best AV Receivers for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)
  - [Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
- - [iPhone 15: All the Rumors, Leaks and Hype Ahead of Apple&#39;s Sept. 12 Event     - CNET](https://www.cnet.com/tech/mobile/iphone-15-all-the-rumors-leaks-and-hype-ahead-of-apples-sept-12-event/#ftag=CAD590a51e)
- - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)<!-- TECH:END -->
+ - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)
+ - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
+ - [Best Carbon Monoxide Detector for 2023     - CNET](https://www.cnet.com/news/best-carbon-monoxide-detector-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
- - 😝 [Go woke and go broke. Zegler showing the definition of shooting yourself in the foot.](http://9gag.com/gag/amAK1K9)
+ - 😝 [The magnetic heliosphere balloon that protects the solar system from the unseen dangers of the universe.](http://9gag.com/gag/amAKWno)
+ - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
  - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 😝 [Lol](http://9gag.com/gag/ago6oRn)
  - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---

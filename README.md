@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
+ - 😝 [Lol](http://9gag.com/gag/ago6oRn)
  - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
- - 💣 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
+ - 💣 [That lucky flute...](http://9gag.com/gag/aWGPGDZ)
+ - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
 
 ---
 </div>

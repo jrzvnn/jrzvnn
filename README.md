@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The magnetic heliosphere balloon that protects the solar system from the unseen dangers of the universe.](http://9gag.com/gag/amAKWno)
- - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
- - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [Lol](http://9gag.com/gag/ago6oRn)
- - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
+ - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 💣 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
+ - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
+ - 👉 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)<!-- MEMES:END -->
 
 ---
 </div>

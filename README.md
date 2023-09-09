@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 💣 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
  - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
+ - 💣 [Can&#39;t we just unalive people like her?](http://9gag.com/gag/ajVGB0Q)
+ - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
 
 ---
 </div>

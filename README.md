@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Elon Musk’s X is suing California over its online moderation reporting bill](https://www.theverge.com/2023/9/9/23865828/elon-musk-x-corp-suing-california-ab-587-first-amendment-challenge-free-speech-twitter-social-media)
- - [NFL 2023: How to Watch and Stream Games and RedZone With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-and-redzone-with-or-without-cable/#ftag=CAD590a51e)
  - [How Tesla&#39;s Autopilot team moved away from a rules-based approach for the upcoming FSD 12 to a &quot;neural network planner&quot; trained on 10M+ Tesla car video clips &lpar;Walter Isaacson/CNBC&rpar;](http://www.techmeme.com/230909/p9#a230909p9)
  - [Apple Watch was launched nine years ago on September 9, 2014](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)
- - [Satechi Thunderbolt 4 Multimedia Pro Dock: A true 16-port powerhouse](https://appleinsider.com/articles/23/09/09/satechi-thunderbolt-4-multimedia-pro-dock-a-true-16-port-powerhouse?utm_medium=rss)<!-- TECH:END -->
+ - [Satechi Thunderbolt 4 Multimedia Pro Dock: A true 16-port powerhouse](https://appleinsider.com/articles/23/09/09/satechi-thunderbolt-4-multimedia-pro-dock-a-true-16-port-powerhouse?utm_medium=rss)
+ - [iPhone 15 Pro models may be thicker &amp; lighter than iPhone 14 Pro](https://appleinsider.com/articles/23/09/09/iphone-15-pro-models-may-be-thicker-lighter-than-iphone-14-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

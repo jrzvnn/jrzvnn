@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)
+ - [8 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)
+ - [How some doctors are using VR to help patients manage pain and to practice by simulating procedures, as medical schools insert the tech into their curriculums &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230909/p7#a230909p7)
  - [Daily deals Sept. 9: $200 off Apple Watch SE, M1 iPad Pro from $659, WD 18TB external hard drive $269, more](https://appleinsider.com/articles/23/09/09/daily-deals-sept-9-200-off-apple-watch-se-m1-ipad-pro-from-659-wd-18tb-external-hard-drive-269-more?utm_medium=rss)
- - [Don’t let Apple fool you: It was forced to adopt USB-C](https://www.androidauthority.com/apple-forced-adopt-usb-c-3361996/)
- - [Ukraine vs. England Livestream: How to Watch Euro 2024 Qualifier Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/ukraine-vs-england-livestream-how-to-watch-euro-2024-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)
- - [Can you guess how many apps we have on our phones?](https://www.theverge.com/23864656/iphone-android-apps-phone)<!-- TECH:END -->
+ - [Don’t let Apple fool you: It was forced to adopt USB-C](https://www.androidauthority.com/apple-forced-adopt-usb-c-3361996/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

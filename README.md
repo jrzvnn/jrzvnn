@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch was shipped eight years ago on September 9, 2015](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)
  - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
- - [Man, I really miss removable batteries and microSD card slots](https://www.androidauthority.com/miss-removable-batteries-microsd-card-slots-3362009/)
- - [Doona SensAlert &lpar;2023&rpar;: Aftermarket Accessories Aren&#39;t Safe](https://www.wired.com/story/doona-sensalert-aftermarket-accessories-rant/)
- - [A Summer of Record Heat Deals Costly Damage to Texas Water Systems](https://www.wired.com/story/a-summer-of-record-heat-deals-costly-damage-to-texas-water-systems/)<!-- TECH:END -->
+ - [Nintendo Reportedly Gave Private Switch 2 Demos to Developers](https://www.wired.com/story/nintendo-switch-2-private-developer-demos/)
+ - [Mozilla: Your New Car Is a Data Privacy Nightmare](https://www.wired.com/story/your-new-car-privacy-nightmare/)
+ - [Sea of Stars is pure RPG comfort food once you push past its slow start](https://www.theverge.com/23864117/sea-of-stars-review-rpg)
+ - [Apple Watch was shipped eight years ago on September 9, 2015](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

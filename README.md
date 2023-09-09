@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
+ - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
+ - 💣 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
  - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
- - 😝 [I know this is a repost, but some things are always good to remember](http://9gag.com/gag/avQ41QE)
- - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
- - 😝 [Can&#39;t we just unalive people like her?](http://9gag.com/gag/ajVGB0Q)
- - 👉 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)<!-- MEMES:END -->
+ - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
 
 ---
 </div>

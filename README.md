@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An FTC judge rules that Intuit misled consumers with its ads claiming that TurboTax is free when most customers need to pay to use the tax preparation software &lpar;Bloomberg&rpar;](http://www.techmeme.com/230908/p27#a230908p27)
- - [A US appeals court finds the White House, the CDC, and the FBI likely violated the First Amendment by influencing tech companies&#39; moderation on COVID-19 posts &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230908/p26#a230908p26)
- - [The 7 Best Plant-Based Chicken Nuggets, According to Vegetarians and Omnivores     - CNET](https://www.cnet.com/health/nutrition/the-7-best-plant-based-chicken-nuggets-according-to-vegetarians-and-omnivores/#ftag=CAD590a51e)
- - [Reddit can now translate posts](https://www.theverge.com/2023/9/8/23865149/reddit-translate-posts-coins)
- - [Google Dramatically Unveils Pixel Watch 2 in Video Sneak Peek     - CNET](https://www.cnet.com/tech/mobile/google-dramatically-unveils-pixel-watch-2-in-video-sneak-peek/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit can now translate posts into eight languages, including Spanish and French, when viewing them on its mobile apps or on the web while logged out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p28#a230908p28)
+ - [Your Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
+ - [The Best Blood Pressure Monitors     - CNET](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
+ - [Best OTA DVR for Cord Cutting     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
+ - [Best Chemical Drain Cleaners for 2023     - CNET](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

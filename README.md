@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just a prank bruh! The prank:](http://9gag.com/gag/a3ZeGw7)
- - 😝 [Boomerang](http://9gag.com/gag/aA0qQnd)
- - 💣 [Early 90s was a time](http://9gag.com/gag/avQ4e6O)
- - 😝 [Repent sinner!!](http://9gag.com/gag/aRE9ZoQ)
- - 👉 [Ah France!](http://9gag.com/gag/aA0qE20)<!-- MEMES:END -->
+ - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 💣 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 😝 [Lol](http://9gag.com/gag/ago6oRn)
+ - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---
 </div>

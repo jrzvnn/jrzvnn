@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 💣 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
  - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
+ - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 💣 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 😝 [Can&#39;t we just unalive people like her?](http://9gag.com/gag/ajVGB0Q)
+ - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---
 </div>

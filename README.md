@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [An FTC judge rules that Intuit misled consumers with its ads claiming that TurboTax is free when most customers need to pay to use the tax preparation software &lpar;Bloomberg&rpar;](http://www.techmeme.com/230908/p27#a230908p27)
  - [A US appeals court finds the White House, the CDC, and the FBI likely violated the First Amendment by influencing tech companies&#39; moderation on COVID-19 posts &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230908/p26#a230908p26)
+ - [The 7 Best Plant-Based Chicken Nuggets, According to Vegetarians and Omnivores     - CNET](https://www.cnet.com/health/nutrition/the-7-best-plant-based-chicken-nuggets-according-to-vegetarians-and-omnivores/#ftag=CAD590a51e)
  - [Reddit can now translate posts](https://www.theverge.com/2023/9/8/23865149/reddit-translate-posts-coins)
- - [The Uber for tasks might just be Uber](https://www.theverge.com/2023/9/8/23865081/uber-app-hire-workers-chores)
- - [Save Big on TVs With These Limited-Time Samsung Deals     - CNET](https://www.cnet.com/deals/save-big-on-tvs-with-these-samsung-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Dramatically Unveils Pixel Watch 2 in Video Sneak Peek     - CNET](https://www.cnet.com/tech/mobile/google-dramatically-unveils-pixel-watch-2-in-video-sneak-peek/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

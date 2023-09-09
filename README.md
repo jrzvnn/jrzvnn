@@ -146,7 +146,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro models may be thicker, lighter than iPhone 14 Pro](https://appleinsider.com/articles/23/09/09/iphone-15-pro-models-may-be-thicker-lighter-than-iphone-14-pro?utm_medium=rss)
+ - [iPhone 15 Pro models may be thicker &amp; lighter than iPhone 14 Pro](https://appleinsider.com/articles/23/09/09/iphone-15-pro-models-may-be-thicker-lighter-than-iphone-14-pro?utm_medium=rss)
  - [Some Wyze security camera owners report briefly seeing feeds from cameras they didn&#39;t own or recognize; Wyze blames &quot;a web caching issue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230909/p8#a230909p8)
  - [I’m no elite athelete but I love the Galaxy Watch 6 Extreme Sport band](https://www.androidauthority.com/samsung-extreme-sport-galaxy-watch-6-band-3360109/)
  - [Ex-Apple employee files RICO lawsuit over whistleblower retaliation](https://appleinsider.com/articles/23/09/09/ex-apple-employee-files-rico-lawsuit-over-whistleblower-retaliation?utm_medium=rss)

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
- - 💣 [Lol](http://9gag.com/gag/ago6oRn)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
+ - 😝 [Or is it?!](http://9gag.com/gag/aGE6n7z)
+ - 😝 [Boomerang](http://9gag.com/gag/aA0qQnd)
+ - 💣 [Early 90s was a time](http://9gag.com/gag/avQ4e6O)
+ - 😝 [As I walk through the valley of the shadow of death](http://9gag.com/gag/aRE9Zyq)
+ - 👉 [Ah France!](http://9gag.com/gag/aA0qE20)<!-- MEMES:END -->
 
 ---
 </div>

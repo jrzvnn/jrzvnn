@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
+ - 😝 [Behind the scenes of Sam Raimi&#39;s Drag me to hell](http://9gag.com/gag/aQEBv2r)
+ - 😝 [Activity from a children&#39;s book.. wtf is this supposed to be?!](http://9gag.com/gag/awZPgZ8)
+ - 💣 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
  - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
  - 👉 [I regret nothing](http://9gag.com/gag/awZPg94)<!-- MEMES:END -->
 
 ---

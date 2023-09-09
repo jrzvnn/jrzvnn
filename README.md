@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delhi High Court approves a pirate site blocking order, requested by Netflix and other studios, allowing for preemptive blocks covering &quot;future content&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230909/p5#a230909p5)
- - [Best AV Receivers for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-av-receiver/#ftag=CAD590a51e)
- - [Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
- - [iPhone 15: All the Rumors, Leaks and Hype Ahead of Apple&#39;s Sept. 12 Event     - CNET](https://www.cnet.com/tech/mobile/iphone-15-all-the-rumors-leaks-and-hype-ahead-of-apples-sept-12-event/#ftag=CAD590a51e)
- - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)<!-- TECH:END -->
+ - [11 Best Deals: Sex Toys, Breast Pumps, and Smart Lights](https://www.wired.com/story/weekend-deals-september-9-2023/)
+ - [Senators Want ChatGPT-Level AI to Require a Government License](https://www.wired.com/story/senators-want-chatgpt-ai-to-require-government-license/)
+ - [Mario Will Never Be the Same Again](https://www.wired.com/story/mario-new-voice-charles-martinet/)
+ - [The iPhone 15 Is Finally Getting USB-C. Here’s What That Means](https://www.wired.com/story/apple-iphone-15-usb-c/)
+ - [Delhi High Court approves a pirate site blocking order, requested by Netflix and other studios, allowing for preemptive blocks covering &quot;future content&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230909/p5#a230909p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

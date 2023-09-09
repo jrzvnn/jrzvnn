@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The future is now, old man](http://9gag.com/gag/aqeBX0Q)
- - 😝 [Lol](http://9gag.com/gag/ago6oRn)
+ - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
  - 💣 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 👉 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/ago6oRn)
+ - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---
 </div>

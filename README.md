@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope every man can do this!!](http://9gag.com/gag/aGE6M4G)
  - 😝 [Don&#39;t lie to yourself, you&#39;re beautiful](http://9gag.com/gag/a3ZeyyQ)
- - 💣 [Our hero: Ken](http://9gag.com/gag/aWGPv73)
  - 😝 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 💣 [I hope every man can do this!!](http://9gag.com/gag/aGE6M4G)
+ - 😝 [No other group of people would debase themselves like this &lpar; * except for left leaning white women&rpar;](http://9gag.com/gag/az2oGmB)
  - 👉 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)<!-- MEMES:END -->
 
 ---

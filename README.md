@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 💣 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
- - 👉 [We need more underground stuff](http://9gag.com/gag/arm9xKX)<!-- MEMES:END -->
+ - 😝 [Hey man](http://9gag.com/gag/aGE6Mm5)
+ - 😝 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)
+ - 💣 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 😝 [Went on a hike and found this bad boy. Rate my stick!](http://9gag.com/gag/aVb4mQK)
+ - 👉 [I hope every man can do this!!](http://9gag.com/gag/aGE6M4G)<!-- MEMES:END -->
 
 ---
 </div>

@@ -147,10 +147,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Get Hulu with live TV for a major discount during Disney’s Charter spat](https://www.theverge.com/2023/9/9/23865664/hulu-plus-live-tv-discount-disney-charter-blackout)
+ - [If You Have One of These Health Conditions, Taking Extra Care in the Heat Is Important     - CNET](https://www.cnet.com/health/medical/if-you-have-one-of-these-health-conditions-taking-extra-care-in-the-heat-is-important/#ftag=CAD590a51e)
  - [Grid’s framed, disassembled gadgets are up to 40 percent off this weekend](https://www.theverge.com/2023/9/9/23865034/grid-tech-art-m1-ipad-pro-sony-wh-1000xm4-headphones-deal-sale)
  - [PowerPoint co-creator Dennis Austin is dead at 76](https://www.theverge.com/2023/9/9/23865578/dennis-austin-powerpoint-co-creator-died)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)
- - [6 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

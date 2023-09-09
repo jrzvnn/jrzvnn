@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
  - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 💣 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
- - 😝 [Lol](http://9gag.com/gag/ago6oRn)
+ - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 😝 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
  - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---

@@ -156,8 +156,8 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Hey man](http://9gag.com/gag/aGE6Mm5)
- - 😝 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)
- - 💣 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 💣 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)
  - 😝 [Went on a hike and found this bad boy. Rate my stick!](http://9gag.com/gag/aVb4mQK)
  - 👉 [I hope every man can do this!!](http://9gag.com/gag/aGE6M4G)<!-- MEMES:END -->
 

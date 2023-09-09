@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch was shipped eight years ago on September 9, 2015](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)
  - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
  - [Man, I really miss removable batteries and microSD card slots](https://www.androidauthority.com/miss-removable-batteries-microsd-card-slots-3362009/)
  - [Doona SensAlert &lpar;2023&rpar;: Aftermarket Accessories Aren&#39;t Safe](https://www.wired.com/story/doona-sensalert-aftermarket-accessories-rant/)
- - [A Summer of Record Heat Deals Costly Damage to Texas Water Systems](https://www.wired.com/story/a-summer-of-record-heat-deals-costly-damage-to-texas-water-systems/)
- - [11 Best Deals: Sex Toys, Breast Pumps, and Smart Lights](https://www.wired.com/story/weekend-deals-september-9-2023/)<!-- TECH:END -->
+ - [A Summer of Record Heat Deals Costly Damage to Texas Water Systems](https://www.wired.com/story/a-summer-of-record-heat-deals-costly-damage-to-texas-water-systems/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

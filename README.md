@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boomerang](http://9gag.com/gag/aA0qQnd)
- - 😝 [Early 90s was a time](http://9gag.com/gag/avQ4e6O)
- - 💣 [Repent sinner!!](http://9gag.com/gag/aRE9ZoQ)
- - 😝 [Ah France!](http://9gag.com/gag/aA0qE20)
- - 👉 [As I walk through the valley of the shadow of death](http://9gag.com/gag/aRE9Zyq)<!-- MEMES:END -->
+ - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
+ - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
+ - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepsi inside](http://9gag.com/gag/aKEnv81)
- - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 💣 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
+ - 😝 [Boomerang](http://9gag.com/gag/aA0qQnd)
+ - 😝 [Early 90s was a time](http://9gag.com/gag/avQ4e6O)
+ - 💣 [Repent sinner!!](http://9gag.com/gag/aRE9ZoQ)
+ - 😝 [Ah France!](http://9gag.com/gag/aA0qE20)
+ - 👉 [As I walk through the valley of the shadow of death](http://9gag.com/gag/aRE9Zyq)<!-- MEMES:END -->
 
 ---
 </div>

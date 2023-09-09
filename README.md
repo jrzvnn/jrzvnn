@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [I know this is a repost, but some things are always good to remember](http://9gag.com/gag/avQ41QE)
- - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 💣 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
- - 😝 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)
- - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 💣 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 👉 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)<!-- MEMES:END -->
 
 ---
 </div>

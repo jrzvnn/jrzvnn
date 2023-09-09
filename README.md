@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 😝 [Lol](http://9gag.com/gag/ago6oRn)
+ - 😝 [Go woke and go broke. Zegler showing the definition of shooting yourself in the foot.](http://9gag.com/gag/amAK1K9)
+ - 😝 [The future is now, old man](http://9gag.com/gag/aqeBX0Q)
  - 💣 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 👉 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/ago6oRn)
+ - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---
 </div>

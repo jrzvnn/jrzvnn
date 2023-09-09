@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)
  - [Google says North Korea-backed hackers are targeting security researchers with an exploit using a currently unfixed zero-day flaw in a popular software package &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230909/p3#a230909p3)
  - [Amazon requires writers in its e-book program to disclose the use of AI-generated content in their books, after complaints from the Authors Guild and others &lpar;Hillel Italie/Associated Press&rpar;](http://www.techmeme.com/230909/p2#a230909p2)
  - [Code in Uber&#39;s iPhone app suggests the company is working on a TaskRabbit-like service, codenamed Chore, to let users hire people to conduct various tasks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230909/p1#a230909p1)
- - [Best iPhone 14 Camera Accessories     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-camera-accessories/#ftag=CAD590a51e)
- - [Your Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)<!-- TECH:END -->
+ - [Best iPhone 14 Camera Accessories     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-camera-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

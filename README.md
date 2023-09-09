@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go woke and go broke. Zegler showing the definition of shooting yourself in the foot.](http://9gag.com/gag/amAK1K9)
- - 😝 [The future is now, old man](http://9gag.com/gag/aqeBX0Q)
- - 💣 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
- - 😝 [Lol](http://9gag.com/gag/ago6oRn)
- - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
+ - 😝 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)
+ - 😝 [Even someone who\u2019s not into collectibles has got to realize that this is annoying as hell.](http://9gag.com/gag/adPr1Y2)
+ - 💣 [Go woke and go broke. Zegler showing the definition of shooting yourself in the foot.](http://9gag.com/gag/amAK1K9)
+ - 😝 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
+ - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
 
 ---
 </div>

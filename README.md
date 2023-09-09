@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accessories set for rapid Lighting to USB-C shift](https://appleinsider.com/articles/23/09/09/apple-prepares-accessories-for-iphone-15-usb-c-switchover?utm_medium=rss)
- - [VPNs, Verizon, and Instagram Reels: how students are getting around the TikTok ban](https://www.theverge.com/2023/9/9/23864469/tiktok-college-campus-ban-students-vpn-data-instagram-reels)
- - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
- - [Nintendo Reportedly Gave Private Switch 2 Demos to Developers](https://www.wired.com/story/nintendo-switch-2-private-developer-demos/)
- - [Mozilla: Your New Car Is a Data Privacy Nightmare](https://www.wired.com/story/your-new-car-privacy-nightmare/)<!-- TECH:END -->
+ - [Don’t let Apple fool you: It was forced to adopt USB-C](https://www.androidauthority.com/apple-forced-adopt-usb-c-3361996/)
+ - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)
+ - [Can you guess how many apps we have on our phones?](https://www.theverge.com/23864656/iphone-android-apps-phone)
+ - [Why is it so hard to find a good PopSocket alternative?](https://www.theverge.com/23861997/popsocket-magsafe-phone-grip-kickstand)
+ - [How privacy campaigners and tech executives, like Signal president Meredith Whittaker, teamed up to challenge the UK&#39;s Online Safety Bill encryption crackdown &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/230909/p6#a230909p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

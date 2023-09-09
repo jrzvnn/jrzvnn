@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 15-Inch Gaming and Work Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-15-inch-laptop-gaming-and-work-laptop/#ftag=CAD590a51e)
  - [Reddit can now translate posts into eight languages, including Spanish and French, when viewing them on its mobile apps or on the web while logged out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p28#a230908p28)
  - [Your Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
  - [The Best Blood Pressure Monitors     - CNET](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [Best OTA DVR for Cord Cutting     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)
- - [Best Chemical Drain Cleaners for 2023     - CNET](https://www.cnet.com/news/best-chemical-drain-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best OTA DVR for Cord Cutting     - CNET](https://www.cnet.com/tech/home-entertainment/best-ota-dvr-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

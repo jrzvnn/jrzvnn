@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
  - [A profile of Maltese politician Alex Agius Saliba, who led the EU legislation making USB-C the standard, which may force Apple to replace its Lightning port &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230909/p4#a230909p4)
  - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)
  - [Best Carbon Monoxide Detector for 2023     - CNET](https://www.cnet.com/news/best-carbon-monoxide-detector-for-2023/#ftag=CAD590a51e)
- - [Google says North Korea-backed hackers are targeting security researchers with an exploit using a currently unfixed zero-day flaw in a popular software package &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230909/p3#a230909p3)
- - [Amazon requires writers in its e-book program to disclose the use of AI-generated content in their books, after complaints from the Authors Guild and others &lpar;Hillel Italie/Associated Press&rpar;](http://www.techmeme.com/230909/p2#a230909p2)<!-- TECH:END -->
+ - [Google says North Korea-backed hackers are targeting security researchers with an exploit using a currently unfixed zero-day flaw in a popular software package &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230909/p3#a230909p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

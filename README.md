@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get Hulu with live TV for a major discount during Disney’s Charter spat](https://www.theverge.com/2023/9/9/23865664/hulu-plus-live-tv-discount-disney-charter-blackout)
  - [Grid’s framed, disassembled gadgets are up to 40 percent off this weekend](https://www.theverge.com/2023/9/9/23865034/grid-tech-art-m1-ipad-pro-sony-wh-1000xm4-headphones-deal-sale)
  - [PowerPoint co-creator Dennis Austin is dead at 76](https://www.theverge.com/2023/9/9/23865578/dennis-austin-powerpoint-co-creator-died)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)
- - [6 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)
- - [Best Internet Providers in Concord, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-concord-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

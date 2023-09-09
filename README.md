@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
  - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
- - 💣 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
+ - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 👉 [I regret nothing](http://9gag.com/gag/awZPg94)<!-- MEMES:END -->
 
 ---
 </div>

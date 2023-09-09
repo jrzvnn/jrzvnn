@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
  - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
- - 👉 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)<!-- MEMES:END -->
+ - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
+ - 💣 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---
 </div>

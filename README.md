@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 💣 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 😝 [I know this is a repost, but some things are always good to remember](http://9gag.com/gag/avQ41QE)
+ - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
  - 😝 [Can&#39;t we just unalive people like her?](http://9gag.com/gag/ajVGB0Q)
- - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
+ - 👉 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)<!-- MEMES:END -->
 
 ---
 </div>

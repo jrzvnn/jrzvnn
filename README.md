@@ -156,9 +156,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [My cat three seconds after I refill her water bowl](http://9gag.com/gag/aEqyqzx)
- - 😝 [Good for her, right?](http://9gag.com/gag/aA0qQ50)
- - 💣 [Lol](http://9gag.com/gag/ago6oRn)
- - 😝 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
+ - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
+ - 💣 [Self proclaimed `world champs` just got eliminated by Germany in FIBA World Cup semi-finals](http://9gag.com/gag/avQ4eZZ)
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
  - 👉 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)<!-- MEMES:END -->
 
 ---

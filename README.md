@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know this is a repost, but some things are always good to remember](http://9gag.com/gag/avQ41QE)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 💣 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 😝 [Repost.](http://9gag.com/gag/a2K9M2p)
  - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
- - 👉 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)<!-- MEMES:END -->
+ - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 😝 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
+ - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
 
 ---
 </div>

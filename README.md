@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grid’s framed, disassembled gadgets are up to 40 percent off this weekend](https://www.theverge.com/2023/9/9/23865034/grid-tech-art-m1-ipad-pro-sony-wh-1000xm4-headphones-deal-sale)
+ - [PowerPoint co-creator Dennis Austin is dead at 76](https://www.theverge.com/2023/9/9/23865578/dennis-austin-powerpoint-co-creator-died)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-500-3362045/)
  - [8 Best Lubes &lpar;2023&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)
- - [How some doctors are using VR to help patients manage pain and to practice by simulating procedures, as medical schools insert the tech into their curriculums &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230909/p7#a230909p7)
- - [Daily deals Sept. 9: $200 off Apple Watch SE, M1 iPad Pro from $659, WD 18TB external hard drive $269, more](https://appleinsider.com/articles/23/09/09/daily-deals-sept-9-200-off-apple-watch-se-m1-ipad-pro-from-659-wd-18tb-external-hard-drive-269-more?utm_medium=rss)
- - [Don’t let Apple fool you: It was forced to adopt USB-C](https://www.androidauthority.com/apple-forced-adopt-usb-c-3361996/)<!-- TECH:END -->
+ - [Best Internet Providers in Concord, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-concord-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

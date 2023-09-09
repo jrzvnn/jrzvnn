@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Rene Haas, who Arm appointed as CEO in February 2022 after Nvidia&#39;s Arm acquisition was scrapped and SoftBank shared plans to pursue an IPO instead &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230909/p10#a230909p10)
  - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
  - [Elon Musk’s X is suing California over its online moderation reporting bill](https://www.theverge.com/2023/9/9/23865828/elon-musk-x-corp-suing-california-ab-587-first-amendment-challenge-free-speech-twitter-social-media)
  - [NFL 2023: How to Watch and Stream Games and RedZone With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-games-and-redzone-with-or-without-cable/#ftag=CAD590a51e)
- - [How Tesla&#39;s Autopilot team moved away from a rules-based approach for the upcoming FSD 12 to a &quot;neural network planner&quot; trained on 10M+ Tesla car video clips &lpar;Walter Isaacson/CNBC&rpar;](http://www.techmeme.com/230909/p9#a230909p9)
- - [Apple Watch was launched nine years ago on September 9, 2014](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)<!-- TECH:END -->
+ - [How Tesla&#39;s Autopilot team moved away from a rules-based approach for the upcoming FSD 12 to a &quot;neural network planner&quot; trained on 10M+ Tesla car video clips &lpar;Walter Isaacson/CNBC&rpar;](http://www.techmeme.com/230909/p9#a230909p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

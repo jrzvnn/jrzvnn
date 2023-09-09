@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/ago6oRn)
- - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
- - 💣 [That lucky flute...](http://9gag.com/gag/aWGPGDZ)
- - 😝 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
+ - 😝 [Boomerang](http://9gag.com/gag/aA0qQnd)
+ - 😝 [Went on a hike and found this bad boy. Rate my stick!](http://9gag.com/gag/aVb4mQK)
+ - 💣 [Repent sinner!!](http://9gag.com/gag/aRE9ZoQ)
+ - 😝 [Ah France!](http://9gag.com/gag/aA0qE20)
+ - 👉 [The way they both said `Ohhhh` \ud83d\ude02](http://9gag.com/gag/az2oPRB)<!-- MEMES:END -->
 
 ---
 </div>

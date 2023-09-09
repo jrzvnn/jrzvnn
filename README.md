@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple prepares accessories for iPhone 15 USB-C switchover](https://appleinsider.com/articles/23/09/09/apple-prepares-accessories-for-iphone-15-usb-c-switchover?utm_medium=rss)
  - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
  - [Nintendo Reportedly Gave Private Switch 2 Demos to Developers](https://www.wired.com/story/nintendo-switch-2-private-developer-demos/)
  - [Mozilla: Your New Car Is a Data Privacy Nightmare](https://www.wired.com/story/your-new-car-privacy-nightmare/)
- - [Sea of Stars is pure RPG comfort food once you push past its slow start](https://www.theverge.com/23864117/sea-of-stars-review-rpg)
- - [Apple Watch was shipped eight years ago on September 9, 2015](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)<!-- TECH:END -->
+ - [Sea of Stars is pure RPG comfort food once you push past its slow start](https://www.theverge.com/23864117/sea-of-stars-review-rpg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

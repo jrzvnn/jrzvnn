@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon requires writers who want to sell books through its e-book program to disclose the use of AI material, after complaints from the Authors Guild and others &lpar;Hillel Italie/Associated Press&rpar;](http://www.techmeme.com/230909/p2#a230909p2)
+ - [Amazon requires writers in its e-book program to disclose the use of AI-generated content in their books, after complaints from the Authors Guild and others &lpar;Hillel Italie/Associated Press&rpar;](http://www.techmeme.com/230909/p2#a230909p2)
  - [Code in Uber&#39;s iPhone app suggests the company is working on a TaskRabbit-like service, codenamed Chore, to let users hire people to conduct various tasks &lpar;Bloomberg&rpar;](http://www.techmeme.com/230909/p1#a230909p1)
+ - [Best iPhone 14 Camera Accessories     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-camera-accessories/#ftag=CAD590a51e)
  - [Your Wyze webcam might have let other owners peek into your house](https://www.theverge.com/2023/9/8/23865255/wyze-security-camera-feeds-web-view-issue)
- - [Best 15-Inch Gaming and Work Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-15-inch-laptop-gaming-and-work-laptop/#ftag=CAD590a51e)
- - [Reddit can now translate posts into eight languages, including Spanish and French, when viewing them on its mobile apps or on the web while logged out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230908/p28#a230908p28)<!-- TECH:END -->
+ - [Best 15-Inch Gaming and Work Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-15-inch-laptop-gaming-and-work-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
  - 😝 [Repost.](http://9gag.com/gag/a2K9M2p)
- - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
  - 💣 [Diversity](http://9gag.com/gag/ajVG1px)
- - 😝 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 👉 [It was nice knowing you Italy](http://9gag.com/gag/abvKAQp)<!-- MEMES:END -->
+ - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
+ - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
 
 ---
 </div>

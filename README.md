@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch was launched nine years ago on September 9, 2014](https://appleinsider.com/articles/19/04/24/how-apple-watch-went-from-rumor-to-shipping-product-on-april-24-2015?utm_medium=rss)
+ - [Satechi Thunderbolt 4 Multimedia Pro Dock: A true 16-port powerhouse](https://appleinsider.com/articles/23/09/09/satechi-thunderbolt-4-multimedia-pro-dock-a-true-16-port-powerhouse?utm_medium=rss)
  - [iPhone 15 Pro models may be thicker &amp; lighter than iPhone 14 Pro](https://appleinsider.com/articles/23/09/09/iphone-15-pro-models-may-be-thicker-lighter-than-iphone-14-pro?utm_medium=rss)
  - [Some Wyze security camera owners report briefly seeing feeds from cameras they didn&#39;t own or recognize; Wyze blames &quot;a web caching issue&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230909/p8#a230909p8)
- - [I’m no elite athelete but I love the Galaxy Watch 6 Extreme Sport band](https://www.androidauthority.com/samsung-extreme-sport-galaxy-watch-6-band-3360109/)
- - [Ex-Apple employee files RICO lawsuit over whistleblower retaliation](https://appleinsider.com/articles/23/09/09/ex-apple-employee-files-rico-lawsuit-over-whistleblower-retaliation?utm_medium=rss)
- - [Get Hulu with live TV for a major discount during Disney’s Charter spat](https://www.theverge.com/2023/9/9/23865664/hulu-plus-live-tv-discount-disney-charter-blackout)<!-- TECH:END -->
+ - [I’m no elite athelete but I love the Galaxy Watch 6 Extreme Sport band](https://www.androidauthority.com/samsung-extreme-sport-galaxy-watch-6-band-3360109/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

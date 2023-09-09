@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey man](http://9gag.com/gag/aGE6Mm5)
- - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
- - 💣 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)
- - 😝 [Went on a hike and found this bad boy. Rate my stick!](http://9gag.com/gag/aVb4mQK)
- - 👉 [I hope every man can do this!!](http://9gag.com/gag/aGE6M4G)<!-- MEMES:END -->
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
+ - 💣 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
 
 ---
 </div>

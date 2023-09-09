@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Deals: Sex Toys, Breast Pumps, and Smart Lights](https://www.wired.com/story/weekend-deals-september-9-2023/)
- - [Senators Want ChatGPT-Level AI to Require a Government License](https://www.wired.com/story/senators-want-chatgpt-ai-to-require-government-license/)
- - [Mario Will Never Be the Same Again](https://www.wired.com/story/mario-new-voice-charles-martinet/)
- - [The iPhone 15 Is Finally Getting USB-C. Here’s What That Means](https://www.wired.com/story/apple-iphone-15-usb-c/)
- - [Delhi High Court approves a pirate site blocking order, requested by Netflix and other studios, allowing for preemptive blocks covering &quot;future content&quot; &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/230909/p5#a230909p5)<!-- TECH:END -->
+ - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
+ - [Man, I really miss removable batteries and microSD card slots](https://www.androidauthority.com/miss-removable-batteries-microsd-card-slots-3362009/)
+ - [Doona SensAlert &lpar;2023&rpar;: Aftermarket Accessories Aren&#39;t Safe](https://www.wired.com/story/doona-sensalert-aftermarket-accessories-rant/)
+ - [A Summer of Record Heat Deals Costly Damage to Texas Water Systems](https://www.wired.com/story/a-summer-of-record-heat-deals-costly-damage-to-texas-water-systems/)
+ - [11 Best Deals: Sex Toys, Breast Pumps, and Smart Lights](https://www.wired.com/story/weekend-deals-september-9-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

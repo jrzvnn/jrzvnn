@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No words were necessary](http://9gag.com/gag/a9qZzjL)
- - 😝 [Repost.](http://9gag.com/gag/a2K9M2p)
- - 💣 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
- - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
+ - 😝 [No other group of people would debase themselves like this &lpar; * except for left leaning white women&rpar;](http://9gag.com/gag/az2oGmB)
+ - 😝 [Hey man](http://9gag.com/gag/aGE6Mm5)
+ - 💣 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)
+ - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 👉 [Excuse me Ma\u2019am](http://9gag.com/gag/aKEn8qQ)<!-- MEMES:END -->
 
 ---
 </div>

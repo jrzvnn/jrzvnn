@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
- - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 💣 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 😝 [What are your thoughts?](http://9gag.com/gag/aQEBm1q)
- - 👉 [We need more underground stuff](http://9gag.com/gag/arm9xKX)<!-- MEMES:END -->
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 😝 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 😝 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
+ - 👉 [When the director failed physics](http://9gag.com/gag/axoQbOn)<!-- MEMES:END -->
 
 ---
 </div>

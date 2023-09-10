@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 😝 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
- - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
  - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
  - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
 
 ---

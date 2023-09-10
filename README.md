@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: ChatGPT consumes up to an estimated 500ml of water for every five to 50 prompts; Microsoft reported its water use spiked 34% YoY in 2022, Google 20% &lpar;Associated Press&rpar;](http://www.techmeme.com/230910/p3#a230910p3)
- - [TECNO Pova 5 Pro review: Should you buy it?](https://www.androidauthority.com/tecno-pova-5-pro-review-3355627/)
- - [How Meta and Google held back their tech to recognize unknown people&#39;s faces due to privacy worries, opening the door for startups like Clearview AI and PimEyes &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230910/p2#a230910p2)
- - [Dennis Austin, the principal developer of PowerPoint who led development of the presentation software until he retired in 1996, died on September 1 aged 76 &lpar;Michael S. Rosenwald/Washington Post&rpar;](http://www.techmeme.com/230910/p1#a230910p1)
- - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Super Apps Are Terrible for People—and Great for Companies](https://www.wired.com/story/super-app-musk-x-wechat-regulation/)
+ - [The Best Climbing Gear for Beginners &lpar;2023&rpar;: Harnesses, Belay Devices, and Helmets](https://www.wired.com/gallery/best-climbing-gear/)
+ - [How to Take Back Control of Your Photo and Video Storage](https://www.wired.com/story/how-to-take-back-control-photos-videos/)
+ - [Is Google’s Search Engine Smart or Sneaky? A Trial Court Judge Will Decide](https://www.wired.com/story/is-googles-search-engine-smart-or-sneaky-a-trial-court-judge-will-decide/)
+ - [Research: ChatGPT consumes up to an estimated 500ml of water for every five to 50 prompts; Microsoft reported its water use spiked 34% YoY in 2022, Google 20% &lpar;Associated Press&rpar;](http://www.techmeme.com/230910/p3#a230910p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

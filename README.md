@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t even know myself](http://9gag.com/gag/a4omzdd)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 💣 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
- - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
+ - 😝 [I\u2019m not crying, you are crying! 14 y. o. hears for the first time after getting cochlear implants](http://9gag.com/gag/aVb4m18)
+ - 😝 [I hope every man can do this!!](http://9gag.com/gag/aGE6M4G)
+ - 💣 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 👉 [I know I&#39;m fat but at least the gyros seller on my street never judges me. He&#39;s just asking me one thing: `The usual, boss?`](http://9gag.com/gag/aDYrZr9)<!-- MEMES:END -->
 
 ---
 </div>

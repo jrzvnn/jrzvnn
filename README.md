@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 👉 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)<!-- MEMES:END -->
+ - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
+ - 💣 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
+ - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
 
 ---
 </div>

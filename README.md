@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 💣 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
+ - 😝 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
  - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
+ - 💣 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
+ - 😝 [What are your thoughts?](http://9gag.com/gag/aQEBm1q)
+ - 👉 [We need more underground stuff](http://9gag.com/gag/arm9xKX)<!-- MEMES:END -->
 
 ---
 </div>

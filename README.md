@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 😝 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
- - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 😝 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 👉 [When the director failed physics](http://9gag.com/gag/axoQbOn)<!-- MEMES:END -->
+ - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
+ - 💣 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 👉 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)<!-- MEMES:END -->
 
 ---
 </div>

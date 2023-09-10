@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Daniel Zhang steps down as the CEO of Alibaba&#39;s cloud unit, after assuming the role in June 2023; Alibaba CEO Eddie Wu will serve as the acting head of the unit &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/230910/p7#a230910p7)
  - [Coros Pace 3 review: Should you buy it?](https://www.androidauthority.com/coros-pace-3-review-3361183/)
- - [Vitalik Buterin&#39;s X account was hacked to promote a crypto scam, leading to an estimated $650K+ of assets being stolen; the tweet was deleted within 20 minutes &lpar;Molly White/Web3 is Going Just Great&rpar;](http://www.techmeme.com/230910/p6#a230910p6)
- - [Daily deals Sept. 10: 15&quot; MacBook Pro for $588, 32% off Beats Studio Buds Plus, 37% off a Shark IQ Robot Vacuum, more](https://appleinsider.com/articles/23/09/10/daily-deals-sept-10-15-macbook-pro-for-588-32-off-beats-studio-buds-plus-37-off-a-shark-iq-robot-vacuum-more?utm_medium=rss)
- - [Expected price increase and features like periscope lens, exclusive to iPhone 15 Pro Max, suggest Apple is getting more aggressive with its premium strategy &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230910/p5#a230910p5)<!-- TECH:END -->
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
+ - [Cardinals vs. Commanders Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-commanders-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Vitalik Buterin&#39;s X account was hacked to promote a crypto scam, leading to an estimated $650K+ of assets being stolen; the tweet was deleted within 20 minutes &lpar;Molly White/Web3 is Going Just Great&rpar;](http://www.techmeme.com/230910/p6#a230910p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
- - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 💣 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [I used to be awesome at video games \u201cShoutout\u201d](http://9gag.com/gag/a3Ze0D5)
  - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
- - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
+ - 💣 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
 
 ---
 </div>

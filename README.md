@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to be awesome at video games \u201cShoutout\u201d](http://9gag.com/gag/a3Ze0D5)
- - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
- - 💣 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
  - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
  - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
 
 ---

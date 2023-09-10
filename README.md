@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI and You: Big Tech Goes to DC, Google Takes On &#39;Synthetic&#39; Political Ads     - CNET](https://www.cnet.com/tech/computing/ai-and-you-big-tech-goes-to-dc-google-takes-on-synthetic-political-ads/#ftag=CAD590a51e)
  - [Chrome’s invasive new tracking makes this the perfect time for a new browser](https://www.androidauthority.com/chrome-ad-topics-rollout-3362364/)
  - [A New Map of the Universe, Painted With Cosmic Neutrinos](https://www.wired.com/story/cosmic-neutrinos-origin/)
  - [10 Best Smart Notebooks and Smart Pens &lpar;2023&rpar;: Tablets, Digital Pens, and Reusable Books](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [A new-old camera, Clubhouse pivots, and smart home apps galore](https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter)
- - [Crime blotter: Five indicted in California Apple product thefts](https://appleinsider.com/articles/23/09/10/crime-blotter-five-indicted-in-california-apple-product-thefts?utm_medium=rss)<!-- TECH:END -->
+ - [A new-old camera, Clubhouse pivots, and smart home apps galore](https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

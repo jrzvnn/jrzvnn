@@ -148,9 +148,9 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple Studio Display vs Samsung ViewFinity S9 5K -- compared](https://appleinsider.com/inside/studio-display/vs/apple-studio-display-vs-samsung-viewfinity-s9-5k----compared?utm_medium=rss)
  - [Sonnet Solo2.5G Gigabit Ethernet Adapter adds wired networking to MacBooks](https://appleinsider.com/articles/23/09/10/sonnet-solo25g-gigabit-ethernet-adapter-adds-wired-networking-to-macbooks?utm_medium=rss)
- - [AnkerMake M5C Review: Great Budget 3D Printer With a Catch     - CNET](https://www.cnet.com/tech/computing/ankermake-m5c-review-great-budget-3d-printer-with-a-catch/#ftag=CAD590a51e)
  - [The 11 Best Turntables for Your Vinyl Collection &lpar;2023&rpar;](https://www.wired.com/gallery/best-turntables/)
- - [8 Best Meal Kit Delivery Services &lpar;2023&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)<!-- TECH:END -->
+ - [8 Best Meal Kit Delivery Services &lpar;2023&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)
+ - [How to use the new web-based editing tools in Google Photos](https://www.theverge.com/23864917/google-photos-tools-edit-tutorial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

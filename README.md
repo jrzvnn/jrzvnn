@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
- - 💣 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
  - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
- - 👉 [One cannot get clout in peace these days!](http://9gag.com/gag/abvK4W9)<!-- MEMES:END -->
+ - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 💣 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
+ - 😝 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
+ - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
 
 ---
 </div>

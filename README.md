@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Map of the Universe, Painted With Cosmic Neutrinos](https://www.wired.com/story/cosmic-neutrinos-origin/)
+ - [10 Best Smart Notebooks and Smart Pens &lpar;2023&rpar;: Tablets, Digital Pens, and Reusable Books](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [A new-old camera, Clubhouse pivots, and smart home apps galore](https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter)
  - [Crime blotter: Five indicted in California Apple product thefts](https://appleinsider.com/articles/23/09/10/crime-blotter-five-indicted-in-california-apple-product-thefts?utm_medium=rss)
- - [Super Apps Are Terrible for People—and Great for Companies](https://www.wired.com/story/super-app-musk-x-wechat-regulation/)
- - [The Best Climbing Gear for Beginners &lpar;2023&rpar;: Harnesses, Belay Devices, and Helmets](https://www.wired.com/gallery/best-climbing-gear/)
- - [How to Take Back Control of Your Photo and Video Storage](https://www.wired.com/story/how-to-take-back-control-photos-videos/)
- - [Is Google’s Search Engine Smart or Sneaky? A Trial Court Judge Will Decide](https://www.wired.com/story/is-googles-search-engine-smart-or-sneaky-a-trial-court-judge-will-decide/)<!-- TECH:END -->
+ - [Super Apps Are Terrible for People—and Great for Companies](https://www.wired.com/story/super-app-musk-x-wechat-regulation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

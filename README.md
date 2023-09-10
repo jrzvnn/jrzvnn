@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
  - 😝 [If you&#39;re a loner and need a flower holder... Or stuff](http://9gag.com/gag/awZPdOx)
- - 💣 [Celebrities...](http://9gag.com/gag/a3Ze20m)
- - 😝 [I need permission to say it](http://9gag.com/gag/a8qQ21e)
- - 👉 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)<!-- MEMES:END -->
+ - 😝 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 👉 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)<!-- MEMES:END -->
 
 ---
 </div>

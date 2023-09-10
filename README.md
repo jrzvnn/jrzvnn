@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thankfully people are finally putting on the glasses.](http://9gag.com/gag/aNw84YG)
  - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 😝 [Behind the scenes of Sam Raimi&#39;s Drag me to hell](http://9gag.com/gag/aQEBv2r)
- - 💣 [I used to be awesome at video games \u201cShoutout\u201d](http://9gag.com/gag/a3Ze0D5)
- - 😝 [I regret nothing](http://9gag.com/gag/awZPg94)
- - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
+ - 💣 [I know this is a repost, but some things are always good to remember](http://9gag.com/gag/avQ41QE)
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Maps lists were getting useless, then emojis came along](https://www.androidauthority.com/google-maps-lists-emojis-3362338/)
+ - [I never want to be apart from my home espresso machine](https://www.theverge.com/2023/9/10/23864688/breville-barista-express-home-espresso-maintenance)
  - [iPhone 15 Pro with periscope camera &amp; titanium expected to entice buyers](https://appleinsider.com/articles/23/09/10/iphone-15-pro-titanium-periscope-camera-rumors-are-doubled-down?utm_medium=rss)
  - [iPhone 15 Pro models will be thicker &amp; lighter than iPhone 14 Pro](https://appleinsider.com/articles/23/09/09/iphone-15-pro-models-may-be-thicker-lighter-than-iphone-14-pro?utm_medium=rss)
- - [Apple Studio Display vs Samsung ViewFinity S9 5K -- compared](https://appleinsider.com/inside/studio-display/vs/apple-studio-display-vs-samsung-viewfinity-s9-5k----compared?utm_medium=rss)
- - [Sonnet Solo2.5G Gigabit Ethernet Adapter adds wired networking to MacBooks](https://appleinsider.com/articles/23/09/10/sonnet-solo25g-gigabit-ethernet-adapter-adds-wired-networking-to-macbooks?utm_medium=rss)
- - [AnkerMake M5C Review: Great Budget 3D Printer With a Catch     - CNET](https://www.cnet.com/tech/computing/ankermake-m5c-review-great-budget-3d-printer-with-a-catch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Studio Display vs Samsung ViewFinity S9 5K -- compared](https://appleinsider.com/inside/studio-display/vs/apple-studio-display-vs-samsung-viewfinity-s9-5k----compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

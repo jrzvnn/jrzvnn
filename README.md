@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)
  - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 😝 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 💣 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
- - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
+ - 💣 [Why modern gaming sucks](http://9gag.com/gag/a8qQwMV)
+ - 😝 [I need permission to say it](http://9gag.com/gag/a8qQ21e)
+ - 👉 [Currently on 9gag](http://9gag.com/gag/a04znQX)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dynamic Island isn’t such an exciting destination after all — and that’s okay](https://www.theverge.com/23864716/iphone-15-dynamic-island-live-activities-wonderlust)
  - [How Lisbon&#39;s quality of life, crypto-friendly tax laws, and government incentives for foreigners have made the city one of the crypto capitals of the world &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230910/p4#a230910p4)
  - [Google Maps lists were getting useless, then emojis came along](https://www.androidauthority.com/google-maps-lists-emojis-3362338/)
  - [Save Up to $1,300 on Premium Studio Appliances at LG&#39;s Extended Labor Day Sale     - CNET](https://www.cnet.com/deals/save-up-to-1300-on-premium-studio-appliances-at-lgs-extended-labor-day-sale/#ftag=CAD590a51e)
- - [10 Daily Ways to Boost Your Eye Health Naturally     - CNET](https://www.cnet.com/health/personal-care/10-daily-ways-to-boost-your-eye-health-naturally/#ftag=CAD590a51e)
- - [13 Nutrient-Packed Foods for Optimal Kidney Health     - CNET](https://www.cnet.com/health/nutrition/13-nutrient-packed-foods-for-optimal-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Daily Ways to Boost Your Eye Health Naturally     - CNET](https://www.cnet.com/health/personal-care/10-daily-ways-to-boost-your-eye-health-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

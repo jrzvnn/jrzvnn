@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dynamic Island isn’t such an exciting destination after all — and that’s okay](https://www.theverge.com/23864716/iphone-15-dynamic-island-live-activities-wonderlust)
- - [How Lisbon&#39;s quality of life, crypto-friendly tax laws, and government incentives for foreigners have made the city one of the crypto capitals of the world &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230910/p4#a230910p4)
- - [Google Maps lists were getting useless, then emojis came along](https://www.androidauthority.com/google-maps-lists-emojis-3362338/)
- - [Save Up to $1,300 on Premium Studio Appliances at LG&#39;s Extended Labor Day Sale     - CNET](https://www.cnet.com/deals/save-up-to-1300-on-premium-studio-appliances-at-lgs-extended-labor-day-sale/#ftag=CAD590a51e)
- - [10 Daily Ways to Boost Your Eye Health Naturally     - CNET](https://www.cnet.com/health/personal-care/10-daily-ways-to-boost-your-eye-health-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Expected price increase and features like periscope lens, exclusive to iPhone 15 Pro Max, suggest Apple is getting more aggressive with its premium strategy &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230910/p5#a230910p5)
+ - [How to move or change your Apple Music library folder in macOS Ventura](https://appleinsider.com/inside/apple-music/tips/how-to-move-or-change-your-apple-music-library-folder-in-macos-ventura?utm_medium=rss)
+ - [Panthers vs. Falcons Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-falcons-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [49ers vs. Steelers Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-steelers-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Titans vs. Saints Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/titans-vs-saints-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

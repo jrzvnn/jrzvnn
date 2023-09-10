@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [WhatsApp is working on cross-platform messaging](https://www.theverge.com/2023/9/10/23866912/whatsapp-cross-platform-messaging-eu-dma-meta)
- - [16GB vs. 32GB -- Maximize a Mac&#39;s performance by choosing the right amount of memory](https://appleinsider.com/inside/mac/vs/16gb-vs-32gb----maximize-a-macs-performance-by-choosing-the-right-amount-of-memory?utm_medium=rss)
- - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [Logitech MX Master 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/logitech-mx-master-4-3361692/)
- - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)<!-- TECH:END -->
+ - [Eagles vs. Patriots Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-patriots-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [LA Rams vs. Seahawks Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/la-rams-vs-seahawks-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Dolphins vs. LA Chargers Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/dolphins-vs-la-chargers-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Packers vs. Bears Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-bears-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

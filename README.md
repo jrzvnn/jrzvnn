@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 💣 [Legend](http://9gag.com/gag/aA0qMnZ)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
+ - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
+ - 😝 [....paying attention paid off](http://9gag.com/gag/aA0qEjg)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
 
 ---
 </div>

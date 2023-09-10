@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
  - [Daniel Zhang steps down as the CEO of Alibaba&#39;s cloud unit, after assuming the role in June 2023; Alibaba CEO Eddie Wu will serve as the acting head of the unit &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/230910/p7#a230910p7)
  - [Coros Pace 3 review: Should you buy it?](https://www.androidauthority.com/coros-pace-3-review-3361183/)
  - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
- - [Cardinals vs. Commanders Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-commanders-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [Vitalik Buterin&#39;s X account was hacked to promote a crypto scam, leading to an estimated $650K+ of assets being stolen; the tweet was deleted within 20 minutes &lpar;Molly White/Web3 is Going Just Great&rpar;](http://www.techmeme.com/230910/p6#a230910p6)<!-- TECH:END -->
+ - [Cardinals vs. Commanders Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-commanders-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

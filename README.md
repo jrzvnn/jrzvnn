@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
+ - 😝 [Excuse me Ma\u2019am](http://9gag.com/gag/aKEn8qQ)
+ - 😝 [Celebrities...](http://9gag.com/gag/a3Ze20m)
+ - 💣 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
+ - 😝 [I need permission to say it](http://9gag.com/gag/a8qQ21e)
+ - 👉 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)<!-- MEMES:END -->
 
 ---
 </div>

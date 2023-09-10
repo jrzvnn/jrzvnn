@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thankfully people are finally putting on the glasses.](http://9gag.com/gag/aNw84YG)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 💣 [I know this is a repost, but some things are always good to remember](http://9gag.com/gag/avQ41QE)
  - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
+ - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 👉 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)<!-- MEMES:END -->
 
 ---
 </div>

@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple may discontinue silicone iPhone case in eco-friendly push](https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push?utm_medium=rss)
+ - [Apple Stores run stocks low, brace for changes after iPhone 15 event](https://appleinsider.com/articles/23/09/10/apple-stores-run-stocks-low-brace-for-changes-after-iphone-15-event?utm_medium=rss)
  - [Sources: Instacart plans to target its IPO at roughly $8.6B to $9.3B valuation, well below the $39B valuation the company had in March 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230910/p8#a230910p8)
  - [WhatsApp is working on cross-platform messaging](https://www.theverge.com/2023/9/10/23866912/whatsapp-cross-platform-messaging-eu-dma-meta)
- - [Eagles vs. Patriots Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-patriots-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [LA Rams vs. Seahawks Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/la-rams-vs-seahawks-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eagles vs. Patriots Livestream: How to Watch NFL Week 1 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-patriots-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Five indicted in California Apple product thefts](https://appleinsider.com/articles/23/09/10/crime-blotter-five-indicted-in-california-apple-product-thefts?utm_medium=rss)
  - [Super Apps Are Terrible for People—and Great for Companies](https://www.wired.com/story/super-app-musk-x-wechat-regulation/)
  - [The Best Climbing Gear for Beginners &lpar;2023&rpar;: Harnesses, Belay Devices, and Helmets](https://www.wired.com/gallery/best-climbing-gear/)
  - [How to Take Back Control of Your Photo and Video Storage](https://www.wired.com/story/how-to-take-back-control-photos-videos/)
- - [Is Google’s Search Engine Smart or Sneaky? A Trial Court Judge Will Decide](https://www.wired.com/story/is-googles-search-engine-smart-or-sneaky-a-trial-court-judge-will-decide/)
- - [Research: ChatGPT consumes up to an estimated 500ml of water for every five to 50 prompts; Microsoft reported its water use spiked 34% YoY in 2022, Google 20% &lpar;Associated Press&rpar;](http://www.techmeme.com/230910/p3#a230910p3)<!-- TECH:END -->
+ - [Is Google’s Search Engine Smart or Sneaky? A Trial Court Judge Will Decide](https://www.wired.com/story/is-googles-search-engine-smart-or-sneaky-a-trial-court-judge-will-decide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

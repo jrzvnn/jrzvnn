@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
  - 😝 [Joe Rogan asking the right stuff.](http://9gag.com/gag/awZPLKB)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
  - 😝 [Bullshido level over 9000](http://9gag.com/gag/a7qPO4A)
- - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 😝 [I regret nothing](http://9gag.com/gag/awZPg94)
- - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
+ - 👉 [I regret nothing](http://9gag.com/gag/awZPg94)<!-- MEMES:END -->
 
 ---
 </div>

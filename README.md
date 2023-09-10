@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
- - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
- - 💣 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 😝 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - 👉 [We need more underground stuff](http://9gag.com/gag/arm9xKX)<!-- MEMES:END -->
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 👉 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Celebrities...](http://9gag.com/gag/a3Ze20m)
- - 😝 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)
- - 💣 [I need permission to say it](http://9gag.com/gag/a8qQ21e)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 👉 [Currently on 9gag](http://9gag.com/gag/a04znQX)<!-- MEMES:END -->
+ - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [Why modern gaming sucks](http://9gag.com/gag/a8qQwMV)
+ - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
 
 ---
 </div>

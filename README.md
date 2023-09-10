@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
- - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 💣 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
- - 😝 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
+ - 😝 [Do not touch grapes without consent.](http://9gag.com/gag/aEqyXKo)
+ - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
+ - 👉 [One cannot get clout in peace these days!](http://9gag.com/gag/abvK4W9)<!-- MEMES:END -->
 
 ---
 </div>

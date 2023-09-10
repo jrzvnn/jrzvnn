@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 💣 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
+ - 😝 [Diversity](http://9gag.com/gag/ajVG1px)
+ - 😝 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
  - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
+ - 👉 [When the director failed physics](http://9gag.com/gag/axoQbOn)<!-- MEMES:END -->
 
 ---
 </div>

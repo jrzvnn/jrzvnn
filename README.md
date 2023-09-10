@@ -148,7 +148,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple&#39;s iPhone 15 event is on September 12, here&#39;s what to expect](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
  - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
- - [Daniel Zhang steps down as the CEO of Alibaba&#39;s cloud unit, after assuming the role in June 2023; Alibaba CEO Eddie Wu will serve as the acting head of the unit &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/230910/p7#a230910p7)
+ - [Alibaba Cloud Intelligence Group CEO Daniel Zhang steps down, after assuming the role in June 2023; Alibaba CEO Eddie Wu becomes the unit&#39;s acting chair and CEO &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/230910/p7#a230910p7)
  - [Coros Pace 3 review: Should you buy it?](https://www.androidauthority.com/coros-pace-3-review-3361183/)
  - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 

@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TECNO Pova 5 Pro review: Should you buy it?](https://www.androidauthority.com/tecno-pova-5-pro-review-3355627/)
  - [How Meta and Google held back their tech to recognize unknown people&#39;s faces due to privacy worries, opening the door for startups like Clearview AI and PimEyes &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/230910/p2#a230910p2)
  - [Dennis Austin, the principal developer of PowerPoint who led development of the presentation software until he retired in 1996, died on September 1 aged 76 &lpar;Michael S. Rosenwald/Washington Post&rpar;](http://www.techmeme.com/230910/p1#a230910p1)
  - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)
- - [Sources: US chipmakers and tech firms, including Intel, GlobalFoundries, and Google, plan to attend a business meeting in Vietnam as Biden visits to boost ties &lpar;Reuters&rpar;](http://www.techmeme.com/230909/p11#a230909p11)
- - [Summer Sizzles On, With Triple-Digit Heat Waves Breaking Records     - CNET](https://www.cnet.com/science/climate/summer-sizzles-on-with-triple-digit-heat-waves-breaking-records/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: US chipmakers and tech firms, including Intel, GlobalFoundries, and Google, plan to attend a business meeting in Vietnam as Biden visits to boost ties &lpar;Reuters&rpar;](http://www.techmeme.com/230909/p11#a230909p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

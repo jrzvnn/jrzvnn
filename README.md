@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 😝 [If you&#39;re a loner and need a flower holder... Or stuff](http://9gag.com/gag/awZPdOx)
+ - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
  - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 👉 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)<!-- MEMES:END -->
+ - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
 
 ---
 </div>

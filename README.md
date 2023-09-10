@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
  - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 💣 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
 
 ---
 </div>

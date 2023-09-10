@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 💣 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
- - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
- - 👉 [I regret nothing](http://9gag.com/gag/awZPg94)<!-- MEMES:END -->
+ - 😝 [I know I&#39;m fat but at least the gyros seller on my street never judges me. He&#39;s just asking me one thing: `The usual, boss?`](http://9gag.com/gag/aDYrZr9)
+ - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 💣 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)
+ - 😝 [Now this is poetic and satisfying](http://9gag.com/gag/aWGPLe3)
+ - 👉 [Excuse me Ma\u2019am](http://9gag.com/gag/aKEn8qQ)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you max out your stick gun.](http://9gag.com/gag/axoQPjM)
  - 😝 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
- - 💣 [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
- - 😝 [A garden sprinkler that launches](http://9gag.com/gag/aBdjO11)
- - 👉 [Poor soul is terrified](http://9gag.com/gag/aRE92Mj)<!-- MEMES:END -->
+ - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
+ - 💣 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
+ - 😝 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
+ - 👉 [We need more underground stuff](http://9gag.com/gag/arm9xKX)<!-- MEMES:END -->
 
 ---
 </div>

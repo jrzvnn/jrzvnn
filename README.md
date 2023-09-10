@@ -155,11 +155,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
  - 😝 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
- - 😝 [Why modern gaming sucks](http://9gag.com/gag/a8qQwMV)
- - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
+ - 💣 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,10 +155,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you&#39;re a loner and need a flower holder... Or stuff](http://9gag.com/gag/awZPdOx)
  - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 💣 [Must be that W.P. I keep hearing about?](http://9gag.com/gag/ay2ZWxb)
- - 😝 [Journalist: `this is a cast that is entirely Nordic so it has a lack of diversity` Director: `well first of all the film takes place in Denmark in the 1750s`](http://9gag.com/gag/aQEBveK)
+ - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
  - 👉 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)<!-- MEMES:END -->
 
 ---

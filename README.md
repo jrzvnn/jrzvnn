@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI and You: Big Tech Goes to DC, Google Takes On &#39;Synthetic&#39; Political Ads     - CNET](https://www.cnet.com/tech/computing/ai-and-you-big-tech-goes-to-dc-google-takes-on-synthetic-political-ads/#ftag=CAD590a51e)
- - [Chrome’s invasive new tracking makes this the perfect time for a new browser](https://www.androidauthority.com/chrome-ad-topics-rollout-3362364/)
- - [A New Map of the Universe, Painted With Cosmic Neutrinos](https://www.wired.com/story/cosmic-neutrinos-origin/)
- - [10 Best Smart Notebooks and Smart Pens &lpar;2023&rpar;: Tablets, Digital Pens, and Reusable Books](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [A new-old camera, Clubhouse pivots, and smart home apps galore](https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter)<!-- TECH:END -->
+ - [Apple Studio Display vs Samsung ViewFinity S9 5K -- compared](https://appleinsider.com/inside/studio-display/vs/apple-studio-display-vs-samsung-viewfinity-s9-5k----compared?utm_medium=rss)
+ - [Sonnet Solo2.5G Gigabit Ethernet Adapter adds wired networking to MacBooks](https://appleinsider.com/articles/23/09/10/sonnet-solo25g-gigabit-ethernet-adapter-adds-wired-networking-to-macbooks?utm_medium=rss)
+ - [AnkerMake M5C Review: Great Budget 3D Printer With a Catch     - CNET](https://www.cnet.com/tech/computing/ankermake-m5c-review-great-budget-3d-printer-with-a-catch/#ftag=CAD590a51e)
+ - [The 11 Best Turntables for Your Vinyl Collection &lpar;2023&rpar;](https://www.wired.com/gallery/best-turntables/)
+ - [8 Best Meal Kit Delivery Services &lpar;2023&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

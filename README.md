@@ -155,10 +155,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
  - 😝 [No hurricane has ever crossed the equator](http://9gag.com/gag/anz8xno)
+ - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
  - 💣 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
- - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
+ - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
  - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
 
 ---

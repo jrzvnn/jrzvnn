@@ -156,10 +156,10 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 😝 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
- - 💣 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
+ - 💣 [We need more underground stuff](http://9gag.com/gag/arm9xKX)
  - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 👉 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)<!-- MEMES:END -->
+ - 👉 [Diversity](http://9gag.com/gag/ajVG1px)<!-- MEMES:END -->
 
 ---
 </div>

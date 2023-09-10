@@ -146,11 +146,11 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Lisbon&#39;s quality of life, crypto-friendly tax laws, and government incentives for foreigners have made the city one of the crypto capitals of the world &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230910/p4#a230910p4)
  - [Google Maps lists were getting useless, then emojis came along](https://www.androidauthority.com/google-maps-lists-emojis-3362338/)
- - [I never want to be apart from my home espresso machine](https://www.theverge.com/2023/9/10/23864688/breville-barista-express-home-espresso-maintenance)
- - [iPhone 15 Pro with periscope camera &amp; titanium expected to entice buyers](https://appleinsider.com/articles/23/09/10/iphone-15-pro-titanium-periscope-camera-rumors-are-doubled-down?utm_medium=rss)
- - [iPhone 15 Pro models will be thicker &amp; lighter than iPhone 14 Pro](https://appleinsider.com/articles/23/09/09/iphone-15-pro-models-may-be-thicker-lighter-than-iphone-14-pro?utm_medium=rss)
- - [Apple Studio Display vs Samsung ViewFinity S9 5K -- compared](https://appleinsider.com/inside/studio-display/vs/apple-studio-display-vs-samsung-viewfinity-s9-5k----compared?utm_medium=rss)<!-- TECH:END -->
+ - [Save Up to $1,300 on Premium Studio Appliances at LG&#39;s Extended Labor Day Sale     - CNET](https://www.cnet.com/deals/save-up-to-1300-on-premium-studio-appliances-at-lgs-extended-labor-day-sale/#ftag=CAD590a51e)
+ - [10 Daily Ways to Boost Your Eye Health Naturally     - CNET](https://www.cnet.com/health/personal-care/10-daily-ways-to-boost-your-eye-health-naturally/#ftag=CAD590a51e)
+ - [13 Nutrient-Packed Foods for Optimal Kidney Health     - CNET](https://www.cnet.com/health/nutrition/13-nutrient-packed-foods-for-optimal-kidney-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

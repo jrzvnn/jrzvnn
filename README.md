@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not touch grapes without consent.](http://9gag.com/gag/aEqyXKo)
- - 😝 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)
- - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
- - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 👉 [One cannot get clout in peace these days!](http://9gag.com/gag/abvK4W9)<!-- MEMES:END -->
+ - 😝 [When you max out your stick gun.](http://9gag.com/gag/axoQPjM)
+ - 😝 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
+ - 💣 [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
+ - 😝 [A garden sprinkler that launches](http://9gag.com/gag/aBdjO11)
+ - 👉 [Poor soul is terrified](http://9gag.com/gag/aRE92Mj)<!-- MEMES:END -->
 
 ---
 </div>

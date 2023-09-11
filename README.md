@@ -148,9 +148,9 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Samsung leaks Galaxy Buds FE, and they look super comfortable](https://www.androidauthority.com/samsung-leaks-galaxy-buds-fe-and-they-look-super-comfortable-3363075/)
  - [Lifetime access to Windows 11 Pro is on sale for $29.97 &lpar;85% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)
- - [Filing: FTX&#39;s estate has now marshalled ~$7B in assets, including $1.5B in cash, $1.16B in solana, $560M in bitcoin, and $200M in properties in the Bahamas &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230911/p20#a230911p20)
- - [How LLMs are taught to reason, the downsides of &quot;chain of thought&quot;, how models might solve problems without reasoning, and evaluating LLMs for general reasoning &lpar;Melanie Mitchell/AI: A Guide ...&rpar;](http://www.techmeme.com/230911/p19#a230911p19)
- - [Our favorite Anker wireless power bank for MagSafe iPhones is now $30 off](https://www.theverge.com/2023/9/11/23867693/anker-maggo-magsafe-battery-lego-mario-question-macbook-pro-16-deal-sale)<!-- TECH:END -->
+ - [Apple Extends Modem Deal with Qualcomm Ahead of iPhone 15 Launch     - CNET](https://www.cnet.com/tech/mobile/apple-extends-modem-deal-with-qualcomm-ahead-of-iphone-15-launch/#ftag=CAD590a51e)
+ - [The 12 Fruits and Vegetables Most Likely to Contain Pesticides     - CNET](https://www.cnet.com/news/fruits-and-vegetables-with-the-most-pesticides/#ftag=CAD590a51e)
+ - [Filing: FTX&#39;s estate has now marshalled ~$7B in assets, including $1.5B in cash, $1.16B in solana, $560M in bitcoin, and $200M in properties in the Bahamas &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230911/p20#a230911p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

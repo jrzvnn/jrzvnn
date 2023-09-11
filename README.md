@@ -150,7 +150,7 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [iPhone 15 might not come with that fancy color-matched cable after all](https://www.androidauthority.com/iphone-15-color-cable-3363194/)
  - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)
  - [Tests show Threads&#39; new search function blocks words like &quot;sex&quot;, &quot;gore&quot;, and &quot;vaccines&quot;; Meta admits &quot;covid&quot; is a blocked term but declines to disclose others &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230911/p25#a230911p25)
- - [Meta is adding new customization options to its avatar creator](https://www.theverge.com/2023/9/11/23868560/meta-avatar-customization-quest-v57-update)<!-- TECH:END -->
+ - [Stream Hulu Plus Live TV for Just $50 a Month Right Now &lpar;Save $20&rpar;     - CNET](https://www.cnet.com/deals/stream-hulu-plus-live-tv-for-just-50-a-month-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

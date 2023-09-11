@@ -155,10 +155,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 💣 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
  - 😝 [I think it was the smart move to dump her. But let&#39;s suspend disbelief for a while. What good reason does she have to refuse it? Is there any?](http://9gag.com/gag/arm98gV)
+ - 💣 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
+ - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
  - 👉 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)<!-- MEMES:END -->
 
 ---

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)
+ - [iPhone 15 might not come with that fancy color-matched cable after all](https://www.androidauthority.com/iphone-15-color-cable-3363194/)
  - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)
  - [Tests show Threads&#39; new search function blocks terms like &quot;sex&quot;, &quot;gore&quot;, and &quot;vaccines&quot;; Meta admits &quot;covid&quot; is a blocked term but declines to disclose others &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230911/p25#a230911p25)
- - [Meta is adding new customization options to its avatar creator](https://www.theverge.com/2023/9/11/23868560/meta-avatar-customization-quest-v57-update)
- - [Google Camera app gets first UI overhaul since the Pixel 4](https://www.androidauthority.com/google-camera-app-revamp-3363136/)
- - [Nvidia claims its upcoming open-source library TensorRT-LLM will double the H100&#39;s performance for running inference on leading LLMs when it debuts next month &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/230911/p23#a230911p23)<!-- TECH:END -->
+ - [Meta is adding new customization options to its avatar creator](https://www.theverge.com/2023/9/11/23868560/meta-avatar-customization-quest-v57-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

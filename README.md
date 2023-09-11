@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Final hours: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,599](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
- - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
- - [Another group of writers is suing OpenAI over copyright claims](https://www.theverge.com/2023/9/11/23869145/writers-sue-openai-chatgpt-copyright-claims)
- - [Heybike Ranger S e-bike review: stable, foldable fat tire fun](https://appleinsider.com/articles/23/09/11/heybike-ranger-s-e-bike-review-stable-foldable-fat-tire-fun?utm_medium=rss)
- - [MGM Resorts says a &quot;cybersecurity issue&quot; that began on Sunday is affecting some casino and hotel computer systems at the company&#39;s properties across the US &lpar;Associated Press&rpar;](http://www.techmeme.com/230911/p28#a230911p28)<!-- TECH:END -->
+ - [&#39;Ring of Fire&#39; Eclipse Will Be Visible From 8 States in October     - CNET](https://www.cnet.com/science/ring-of-fire-eclipse-will-be-visible-from-8-states-in-october/#ftag=CAD590a51e)
+ - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch, Stream Bills vs. Jets, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-bills-vs-jets-manningcast-without-cable/#ftag=CAD590a51e)
+ - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

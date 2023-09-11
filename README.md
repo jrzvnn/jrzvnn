@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was seriously tired of being fat and ugly, decided at ugly is enough. Today I finally RUN 12k without stop. I know that most of you don&#39;t give a f ,but I still will post it. F**k you ,and see you tomorrow](http://9gag.com/gag/anz8xEz)
- - 😝 [Hammer time!](http://9gag.com/gag/a8qQVXd)
- - 💣 [Rate my Stick](http://9gag.com/gag/aL1VWyV)
- - 😝 [Sheiiiiitttttt](http://9gag.com/gag/aDYrQX7)
- - 👉 [The orange cat](http://9gag.com/gag/aOxAG2N)<!-- MEMES:END -->
+ - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 👉 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)<!-- MEMES:END -->
 
 ---
 </div>

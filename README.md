@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This morning there was heavy rain. Then I pulled over to avoid the rain. What a surprise, there was a beautiful woman who stepped out of the rain with me. Then I offered the woman an umbrella so that she could continue her activities later.](http://9gag.com/gag/aVb4LXP)
- - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
- - 👉 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)<!-- MEMES:END -->
+ - 😝 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
+ - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation finds Barstool Sports apparently controls 40+ sockpuppet X accounts to launder viral copyright-protected videos for Barstool&#39;s legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)
- - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)
- - [iPhone 15 might not come with that fancy color-matched cable after all](https://www.androidauthority.com/iphone-15-color-cable-3363194/)
- - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 11&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
+ - [Epic Games taps former MCU character designer as new creative executive](https://www.theverge.com/2023/9/11/23868790/epic-games-fortnite-chief-creative-officer-charlie-wen-sony-marvel)
+ - [FDA approves Pfizer and Moderna covid vaccines with new formula](https://www.theverge.com/2023/9/11/23868683/fda-pfizer-moderna-covid-vaccines-new-formula-approval)
+ - [Yes, There’s a New Covid Variant. No, You Shouldn’t Panic](https://www.wired.com/story/pirola-covid-variant/)
+ - [An investigation finds that Barstool Sports apparently controls 40+ &quot;burner&quot; X accounts to launder viral copyright-protected videos for its legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)
+ - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

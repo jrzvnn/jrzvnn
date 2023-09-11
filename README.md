@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 USB-C will fix some problems, but create issues for most](https://appleinsider.com/articles/23/09/11/iphone-15-usb-c-will-fix-some-problems-but-create-issues-for-most?utm_medium=rss)
  - [Oracle Q1: revenue up 9% YoY to $12.45B, vs. $12.47B est., cloud services and license support revenue up 13% YoY to $9.5B, net income up 56% YoY; ORCL drops 5%+ &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230911/p27#a230911p27)
  - [iPhone 15 Pro could have 8GB of RAM, same storage options](https://appleinsider.com/articles/23/09/11/iphone-15-pro-could-have-8gb-of-ram-same-storage-options?utm_medium=rss)
  - [Epic Games taps former MCU character designer as new creative executive](https://www.theverge.com/2023/9/11/23868790/epic-games-fortnite-chief-creative-officer-charlie-wen-sony-marvel)
- - [FDA approves Pfizer and Moderna covid vaccines with new formula](https://www.theverge.com/2023/9/11/23868683/fda-pfizer-moderna-covid-vaccines-new-formula-approval)
- - [Yes, There’s a New Covid Variant. No, You Shouldn’t Panic](https://www.wired.com/story/pirola-covid-variant/)<!-- TECH:END -->
+ - [FDA approves Pfizer and Moderna covid vaccines with new formula](https://www.theverge.com/2023/9/11/23868683/fda-pfizer-moderna-covid-vaccines-new-formula-approval)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -147,7 +147,7 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Our favorite Anker wireless power bank for MagSafe iPhones is now $30 off](https://www.theverge.com/2023/9/11/23867693/anker-maggo-magsafe-battery-lego-mario-question-macbook-pro-16-deal-sale)
- - [Sources: seeking to shore up its finances, Embracer is considering options for US-based Tomb Raider developer Gearbox, acquired in a $1.4B deal in February 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p18#a230911p18)
+ - [Sources: seeking to shore up its finances, Embracer is considering options for US-based Borderlands developer Gearbox, acquired in a $1.4B deal in February 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p18#a230911p18)
  - [Starfield is a ‘bizarrely worse experience’ on Nvidia and Intel, says Digital Foundry](https://www.theverge.com/2023/9/11/23867991/starfield-pc-performance-amd-nvidia-intel-digital-foundry-analysis)
  - [Daily deals: AirTag 4-pack $88, Apple Studio Display from $1,280, Echo Show 8 $68, more](https://appleinsider.com/articles/23/09/11/daily-deals-airtag-4-pack-88-apple-studio-display-from-1280-echo-show-8-68-more?utm_medium=rss)
  - [Why there has never been a better time for online creators: it might be harder than ever to earn $1M per year but it has never been easier to make $50,000 &lpar;Hunter Walk&rpar;](http://www.techmeme.com/230911/p17#a230911p17)<!-- TECH:END -->

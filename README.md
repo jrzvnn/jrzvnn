@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 💣 [Back to where you started](http://9gag.com/gag/aRE9D15)
- - 😝 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
- - 👉 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)<!-- MEMES:END -->
+ - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
+ - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
+ - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
 
 ---
 </div>

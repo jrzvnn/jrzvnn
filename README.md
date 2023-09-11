@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Instacart aims to raise up to $616M in its IPO at an up to $7.73B valuation and prices shares at $26 to $28; the listing is expected later this month &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p6#a230911p6)
+ - [What to expect from Apple&#39;s &#39;Wonderlust&#39; iPhone 15 event tomorrow](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
  - [Hermes pulls all Apple Watch bands from online store](https://appleinsider.com/articles/23/09/11/hermes-pulls-all-apple-watch-bands-from-online-store?utm_medium=rss)
  - [Missing autistic boy found safe at Apple Store](https://appleinsider.com/articles/23/09/11/missing-autistic-boy-found-safe-at-apple-store?utm_medium=rss)
- - [Q&amp;A with Brian Ward, the CEO of Saudi Arabia&#39;s Savvy Games Group, on the $4.9B acquisition of Scopely, esports, human rights issues in Saudi Arabia, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230911/p5#a230911p5)
- - [What to expect from Apple&#39;s &#39;Wonderlust&#39; iPhone 15 event tomorrow](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?](https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/)<!-- TECH:END -->
+ - [Q&amp;A with Brian Ward, the CEO of Saudi Arabia&#39;s Savvy Games Group, on the $4.9B acquisition of Scopely, esports, human rights issues in Saudi Arabia, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230911/p5#a230911p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

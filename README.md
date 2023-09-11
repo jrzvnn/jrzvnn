@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A competition between Wharton MBA students and ChatGPT that judges generating ideas for a new product or service finds that 35 of the top 40 came from ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230911/p4#a230911p4)
+ - [This upcoming flagship chip might be too hot &lpar;literally&rpar;](https://www.androidauthority.com/mediatek-dimensity-9300-heating-issue-report-3362935/)
  - [The Galaxy S24 series may not be the star of Samsung’s next Unpacked launch](https://www.androidauthority.com/samsung-galaxy-s24-series-galaxy-ring-launch-3362966/)
  - [Sony launches ‘foster care’ program for its aging robot dogs](https://www.theverge.com/2023/9/11/23867799/sony-launches-foster-care-program-aibo-robot-dog-sustainability)
- - [List of Samsung Galaxy phones and tablets eligible for the One UI 6 update](https://www.androidauthority.com/one-ui-6-eligible-devices-3362453/)
- - [How cybercriminals in Turkey teamed up with Russian &amp;eacute;migr&amp;eacute; hackers to steal and sell tens of millions of credit card numbers, passwords, &quot;hot&quot; cookies, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230911/p3#a230911p3)
- - [WhatsApp prepares to play nice with other messaging apps](https://www.androidauthority.com/whatsapp-third-party-messaging-apps-interoperability-3362939/)<!-- TECH:END -->
+ - [List of Samsung Galaxy phones and tablets eligible for the One UI 6 update](https://www.androidauthority.com/one-ui-6-eligible-devices-3362453/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

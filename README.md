@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At just $16.99, the Anker Nano 3 30W charger is ideal for the iPhone 15](https://www.androidauthority.com/anker-nano-3-30w-charger-deal-3363140/)
+ - [Apple issues updates for iOS 15.7.9, iPadOS 15.7.9, macOS Monterey 12.6.9, Big Sur 11.7.10](https://appleinsider.com/articles/23/09/11/apple-issues-updates-for-ios-1579-ipados-1579-macos-monterey-1269-big-sur-11710?utm_medium=rss)
  - [Survey: 22% of US workers worry that tech will replace their job, up from 15% in 2021, 17% in 2019, and 13% in 2017, a jump driven by college-educated workers &lpar;Lydia Saad/Gallup&rpar;](http://www.techmeme.com/230911/p22#a230911p22)
  - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [Mario Kart Tour has crossed the finish line](https://www.theverge.com/2023/9/11/23868131/mario-kart-tour-nintendo-mobile-gaming)
- - [Nothing Phone 2 update adds a new app for the phone’s coolest feature](https://www.androidauthority.com/nothing-phone-2-new-features-3363112/)
- - [macOS Sonoma: Release date, features, and compatability](https://www.androidauthority.com/macos-sonoma-3362507/)<!-- TECH:END -->
+ - [Mario Kart Tour has crossed the finish line](https://www.theverge.com/2023/9/11/23868131/mario-kart-tour-nintendo-mobile-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

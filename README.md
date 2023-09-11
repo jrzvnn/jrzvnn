@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 💣 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
+ - 😝 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
  - 😝 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
- - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
+ - 💣 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - 👉 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)<!-- MEMES:END -->
 
 ---
 </div>

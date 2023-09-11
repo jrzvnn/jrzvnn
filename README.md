@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
- - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
- - 💣 [Back to where you started](http://9gag.com/gag/aRE9D15)
- - 😝 [This advice saved my life once, hope you will never have to use it, but it could save yours.](http://9gag.com/gag/avQ49BX)
- - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
+ - 😝 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 😝 [My aunt gave me one as a gift](http://9gag.com/gag/a04zMdz)
+ - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
 
 ---
 </div>

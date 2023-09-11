@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to move Fitbit to your Google account](https://www.theverge.com/23868162/fitbit-google-account-migration-how-to)
  - [Save up to $1,400 on Samsung Galaxy Fold 5, Bespoke appliances &amp; monitors during fall sale](https://appleinsider.com/articles/23/09/11/save-up-to-1400-on-samsung-galaxy-fold-5-bespoke-appliances-monitors-during-fall-sale?utm_medium=rss)
  - [ESPN’s standalone streaming channel is included in Charter and Disney’s new deal](https://www.theverge.com/2023/9/11/23868117/disney-charter-carriage-dispute-espn-standalone-streaming)
- - [US Copyright Office denies protection for an AI-made image that won a fine arts competition, despite many prompt revisions and it being altered with Photoshop &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)
- - [Samsung’s Deal of the Day gets you the Galaxy S23 for just $599.99](https://www.androidauthority.com/samsung-galaxy-s23-deal-3363080/)
- - [The Logitech Reach is an articulating webcam you can point at what you want](https://www.theverge.com/2023/9/11/23867926/logitech-reach-articulating-webcam-streamcam-remote-work-livestreaming)<!-- TECH:END -->
+ - [The US Copyright Office denies protection for an AI-made image that won an art competition, despite Adobe Photoshop alterations and 624+ text prompt revisions &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)
+ - [Samsung’s Deal of the Day gets you the Galaxy S23 for just $599.99](https://www.androidauthority.com/samsung-galaxy-s23-deal-3363080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

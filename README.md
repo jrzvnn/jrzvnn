@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new TicWatch Pro 5 is a bargain at under $300](https://www.androidauthority.com/mobvoi-ticwatch-pro-5-deal-3363118/)
  - [How to move Fitbit to your Google account](https://www.theverge.com/23868162/fitbit-google-account-migration-how-to)
- - [Save up to $1,400 on Samsung Galaxy Fold 5, Bespoke appliances &amp; monitors during fall sale](https://appleinsider.com/articles/23/09/11/save-up-to-1400-on-samsung-galaxy-fold-5-bespoke-appliances-monitors-during-fall-sale?utm_medium=rss)
- - [ESPN’s standalone streaming channel is included in Charter and Disney’s new deal](https://www.theverge.com/2023/9/11/23868117/disney-charter-carriage-dispute-espn-standalone-streaming)
- - [The US Copyright Office denies protection for an AI-made image that won an art competition, despite Adobe Photoshop alterations and 624+ text prompt revisions &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)
- - [Samsung’s Deal of the Day gets you the Galaxy S23 for just $599.99](https://www.androidauthority.com/samsung-galaxy-s23-deal-3363080/)<!-- TECH:END -->
+ - [Disney and Spectrum Deal Restores ESPN, ABC for Millions of Viewers     - CNET](https://www.cnet.com/tech/home-entertainment/disney-and-spectrum-deal-restores-espn-abc-for-millions-of-viewers/#ftag=CAD590a51e)
+ - [Hey, Apple: I&#39;m Wishing the Watch Ultra 2 Will Have These 5 Features     - CNET](https://www.cnet.com/tech/mobile/hey-apple-im-wishing-the-watch-ultra-2-will-have-these-5-features/#ftag=CAD590a51e)
+ - [Save up to $1,400 on Samsung Galaxy Fold 5, Bespoke appliances &amp; monitors during fall sale](https://appleinsider.com/articles/23/09/11/save-up-to-1400-on-samsung-galaxy-fold-5-bespoke-appliances-monitors-during-fall-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

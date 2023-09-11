@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexico](http://9gag.com/gag/aBdjOnx)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 💣 [We need a woman who has their end of world priorities in check like this](http://9gag.com/gag/aGE6Ob6)
- - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
- - 👉 [Was seriously tired of being fat and ugly, decided at ugly is enough. Today I finally RUN 12k without stop. I know that most of you don&#39;t give a f ,but I still will post it. F**k you ,and see you tomorrow](http://9gag.com/gag/anz8xEz)<!-- MEMES:END -->
+ - 😝 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - 💣 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
 
 ---
 </div>

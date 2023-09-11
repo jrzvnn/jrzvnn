@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
- - 😝 [All my homo friends think the same](http://9gag.com/gag/ago62Zg)
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
  - 💣 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 😝 [Mexico](http://9gag.com/gag/aBdjOnx)
- - 👉 [We need a woman who has their end of world priorities in check like this](http://9gag.com/gag/aGE6Ob6)<!-- MEMES:END -->
+ - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
+ - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
 
 ---
 </div>

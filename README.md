@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo and DeNA tell Mario Kart Tour users that the mobile game will not be updated after October 4, signaling Nintendo&#39;s lessening focus on mobile titles &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230911/p12#a230911p12)
  - [Apple will keep using Qualcomm 5G modems until 2026](https://appleinsider.com/articles/23/09/11/apple-will-keep-using-qualcomm-5g-modems-until-2026?utm_medium=rss)
- - [Garmin Epix Pro &lpar;Gen 2&rpar; Review: Better Than Apple](https://www.wired.com/review/garmin-epix-pro-gen-2/)
- - [Everyone Is a Girl Online](https://www.wired.com/story/girls-online-culture/)
- - [Apple’s Lightning connector was the first great port — and USB-C might be the last](https://www.theverge.com/23864263/iphone-usb-c-lightning-wireless-charging-apple)
- - [Bluetti&#39;s Power Week offers unbeatable prices on portable power stations for every scenario](https://appleinsider.com/articles/23/09/11/bluettis-power-week-offers-unbeatable-prices-on-portable-power-stations-for-every-scenario?utm_medium=rss)<!-- TECH:END -->
+ - [Buy an iPhone 13 mini now because it&#39;s going away tomorrow](https://appleinsider.com/articles/23/09/11/buy-an-iphone-13-mini-now-because-its-going-away-tomorrow?utm_medium=rss)
+ - [A Myanmar official says a powerful ethnic militia arrested and repatriated over 1,200 Chinese nationals allegedly involved in criminal online scam operations &lpar;Associated Press&rpar;](http://www.techmeme.com/230911/p11#a230911p11)
+ - [I Hope the iPhone 15 Pro Inherits This Apple Watch Feature     - CNET](https://www.cnet.com/tech/mobile/why-the-rumored-iphone-15-pro-needs-an-action-button/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 😝 [Peak German engineering](http://9gag.com/gag/aVb4VxP)
- - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
- - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
+ - 😝 [Rate my Stick](http://9gag.com/gag/aL1VWyV)
+ - 😝 [Sheiiiiitttttt](http://9gag.com/gag/aDYrQX7)
+ - 💣 [Diversity](http://9gag.com/gag/avQ49YE)
+ - 😝 [Washed upon the shore many years ago on Lake Michigan, it\u2019s my honor to present to you: my stick.](http://9gag.com/gag/a9qZBvW)
+ - 👉 [Grass slides in Hulunbuir Prairie, Inner Mongolia](http://9gag.com/gag/a6q48ye)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 💣 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
  - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
- - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
+ - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
+ - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
+ - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - 👉 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)<!-- MEMES:END -->
 
 ---
 </div>

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 😝 [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
- - 💣 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
- - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
- - 👉 [Poor soul is terrified](http://9gag.com/gag/aRE92Mj)<!-- MEMES:END -->
+ - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
+ - 😝 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 💣 [I think I downloaded the right wrong game this time](http://9gag.com/gag/aQEB75z)
+ - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 👉 [When the director failed physics](http://9gag.com/gag/axoQbOn)<!-- MEMES:END -->
 
 ---
 </div>

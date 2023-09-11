@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation finds Barstool Sports apparently controls 40+ sockpuppet X accounts to launder viral copyright-protected videos for Barstool&#39;s legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)
  - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)
  - [iPhone 15 might not come with that fancy color-matched cable after all](https://www.androidauthority.com/iphone-15-color-cable-3363194/)
- - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)
- - [Tests show Threads&#39; new search function blocks words like &quot;sex&quot;, &quot;gore&quot;, and &quot;vaccines&quot;; Meta admits &quot;covid&quot; is a blocked term but declines to disclose others &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230911/p25#a230911p25)
- - [Stream Hulu Plus Live TV for Just $50 a Month Right Now &lpar;Save $20&rpar;     - CNET](https://www.cnet.com/deals/stream-hulu-plus-live-tv-for-just-50-a-month-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 8: Release date, price, specs, and rumors &lpar;Updated: September 11&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [iPhone 15 USB-C vs Lightning -- here&#39;s what you need to know](https://appleinsider.com/inside/iphone-15/vs/iphone-15-usb-c-vs-lightning----heres-what-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

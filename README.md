@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm says Apple extended its modem deal for three more years, covering &quot;smartphone launches in 2024, 2025, and 2026&quot;; the prior deal was set to end in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230911/p9#a230911p9)
  - [FTX sues cross-chain swap protocol builder LayerZero Labs, seeking to undo a $45M deal made four days before FTX filed for bankruptcy and a $40M cash withdrawal &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/230911/p8#a230911p8)
  - [UK researchers detail Bluebird, a &quot;digital twin&quot; of English airspace to examine AI&#39;s potential role in air traffic control, backed by &amp;pound;15M in government funding &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230911/p7#a230911p7)
  - [Extended for 1 day: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,799](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
- - [Samsung’s XR headset could come with smell-o-vision](https://www.androidauthority.com/samsung-xr-headset-touch-smell-o-vision-3362979/)
- - [AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous](https://www.wired.com/story/local-governments-generative-ai/)<!-- TECH:END -->
+ - [Samsung’s XR headset could come with smell-o-vision](https://www.androidauthority.com/samsung-xr-headset-touch-smell-o-vision-3362979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

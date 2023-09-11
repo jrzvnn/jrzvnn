@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro could have 8GB of RAM, same storage options](https://appleinsider.com/articles/23/09/11/iphone-15-pro-could-have-8gb-of-ram-same-storage-options?utm_medium=rss)
  - [Epic Games taps former MCU character designer as new creative executive](https://www.theverge.com/2023/9/11/23868790/epic-games-fortnite-chief-creative-officer-charlie-wen-sony-marvel)
  - [FDA approves Pfizer and Moderna covid vaccines with new formula](https://www.theverge.com/2023/9/11/23868683/fda-pfizer-moderna-covid-vaccines-new-formula-approval)
  - [Yes, There’s a New Covid Variant. No, You Shouldn’t Panic](https://www.wired.com/story/pirola-covid-variant/)
- - [An investigation finds that Barstool Sports apparently controls 40+ &quot;burner&quot; X accounts to launder viral copyright-protected videos for its legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)
- - [Sorry S22 owners, the Galaxy A34 is the next to get the One UI 6 beta](https://www.androidauthority.com/samsung-galaxy-a34-one-ui-6-3363187/)<!-- TECH:END -->
+ - [An investigation finds that Barstool Sports apparently controls 40+ &quot;burner&quot; X accounts to launder viral copyright-protected videos for its legitimate accounts &lpar;Robert Silverman/The Daily Beast&rpar;](http://www.techmeme.com/230911/p26#a230911p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

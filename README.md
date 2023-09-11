@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Epix Pro &lpar;Gen 2&rpar; review: big, beautiful screen, tough, durable, and incredible satellite support, but no solar charging, pricey, and kind of embarrassing &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/230911/p16#a230911p16)
+ - [Why there has never been a better time for online creators: it might be harder than ever to earn $1M per year but it has never been easier to make $50,000 &lpar;Hunter Walk&rpar;](http://www.techmeme.com/230911/p17#a230911p17)
+ - [Sonos Move 2, Matter 1.2, and more Qi2 devices on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/09/11/sonos-move-2-matter-12-and-more-qi2-devices-on-the-homekit-insider-podcast?utm_medium=rss)
  - [TSMC&#39;s Arizona factory won&#39;t break Apple&#39;s overseas chip reliance](https://appleinsider.com/articles/23/09/11/tsmcs-arizona-factory-wont-break-apples-overseas-chip-reliance?utm_medium=rss)
- - [AI voices are taking over the internet](https://www.theverge.com/23864878/ai-voice-clones-podcastle-elevenlabs-personal-voice)
- - [Gaming conglomerate Embracer Group might sell the studio behind Borderlands](https://www.theverge.com/2023/9/11/23867945/embracer-group-gearbox-entertainment-sale-borderlands)
- - [UK-based Open Cosmos, which builds &quot;sustainable&quot; low-earth orbit satellites and a platform to manage their data, raised $50M, taking its total funding to $57M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230911/p15#a230911p15)<!-- TECH:END -->
+ - [How to watch tomorrow’s iPhone 15 and Apple Watch launch event](https://www.androidauthority.com/iphone-15-livestream-3362448/)
+ - [5 Best Multi-Tools &lpar;2023&rpar;: Leatherman, Victorinox, and Ones to Avoid](https://www.wired.com/gallery/best-multi-tools/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

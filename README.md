@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A garden sprinkler that launches](http://9gag.com/gag/aBdjO11)
- - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
- - 💣 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
- - 😝 [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
- - 👉 [Poor soul is terrified](http://9gag.com/gag/aRE92Mj)<!-- MEMES:END -->
+ - 😝 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 💣 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: FTX&#39;s estate has now marshalled ~$7B in assets, including $1.5B in cash, $1.16B in solana, $560M in bitcoin, and $200M in properties in the Bahamas &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230911/p20#a230911p20)
+ - [How LLMs are taught to reason, the downsides of &quot;chain of thought&quot;, how models might solve problems without reasoning, and evaluating LLMs for general reasoning &lpar;Melanie Mitchell/AI: A Guide ...&rpar;](http://www.techmeme.com/230911/p19#a230911p19)
  - [Our favorite Anker wireless power bank for MagSafe iPhones is now $30 off](https://www.theverge.com/2023/9/11/23867693/anker-maggo-magsafe-battery-lego-mario-question-macbook-pro-16-deal-sale)
  - [Sources: seeking to shore up its finances, Embracer is considering options for US-based Borderlands developer Gearbox, acquired in a $1.4B deal in February 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p18#a230911p18)
- - [Starfield is a ‘bizarrely worse experience’ on Nvidia and Intel, says Digital Foundry](https://www.theverge.com/2023/9/11/23867991/starfield-pc-performance-amd-nvidia-intel-digital-foundry-analysis)
- - [Daily deals: AirTag 4-pack $88, Apple Studio Display from $1,280, Echo Show 8 $68, more](https://appleinsider.com/articles/23/09/11/daily-deals-airtag-4-pack-88-apple-studio-display-from-1280-echo-show-8-68-more?utm_medium=rss)
- - [Why there has never been a better time for online creators: it might be harder than ever to earn $1M per year but it has never been easier to make $50,000 &lpar;Hunter Walk&rpar;](http://www.techmeme.com/230911/p17#a230911p17)<!-- TECH:END -->
+ - [Starfield is a ‘bizarrely worse experience’ on Nvidia and Intel, says Digital Foundry](https://www.theverge.com/2023/9/11/23867991/starfield-pc-performance-amd-nvidia-intel-digital-foundry-analysis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

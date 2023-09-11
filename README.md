@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final hours: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,599](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
  - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
  - [Another group of writers is suing OpenAI over copyright claims](https://www.theverge.com/2023/9/11/23869145/writers-sue-openai-chatgpt-copyright-claims)
  - [Heybike Ranger S e-bike review: stable, foldable fat tire fun](https://appleinsider.com/articles/23/09/11/heybike-ranger-s-e-bike-review-stable-foldable-fat-tire-fun?utm_medium=rss)
- - [MGM Resorts says a &quot;cybersecurity issue&quot; that began on Sunday is affecting some casino and hotel computer systems at the company&#39;s properties across the US &lpar;Associated Press&rpar;](http://www.techmeme.com/230911/p28#a230911p28)
- - [TikTok accidentally blocked Hollywood writers strike videos while casting a QAnon net](https://www.theverge.com/2023/9/11/23868930/tiktok-wga-writers-guild-strike-blocked-qanon-conspiracy)<!-- TECH:END -->
+ - [MGM Resorts says a &quot;cybersecurity issue&quot; that began on Sunday is affecting some casino and hotel computer systems at the company&#39;s properties across the US &lpar;Associated Press&rpar;](http://www.techmeme.com/230911/p28#a230911p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

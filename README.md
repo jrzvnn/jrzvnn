@@ -146,7 +146,7 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best upcoming smartwatches in 2023 and beyond](https://www.androidauthority.com/the-best-upcoming-smartwatches-in-2023-and-beyond-3362895/)
+ - [The best upcoming smartwatches in 2023 and beyond](https://www.androidauthority.com/best-upcoming-smartwatches-2023-3362895/)
  - [Microsoft Office for Mac is back on sale for $29.97 for the Apple Event](https://appleinsider.com/articles/23/09/11/microsoft-office-for-mac-is-back-on-sale-for-2997-for-the-apple-event?utm_medium=rss)
  - [NewsWhip data on 300K influential X users suggests X is throttling posts linking to the NYT, with &quot;weekly average shares per article&quot; down ~75% from July&#39;s peak &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230910/p10#a230910p10)
  - [Meta sets GPT-4 as the bar for its next AI model, says a new report](https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple)

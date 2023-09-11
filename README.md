@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 💣 [Do not touch grapes without consent.](http://9gag.com/gag/aEqyXKo)
- - 😝 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
- - 👉 [Wait for it...](http://9gag.com/gag/adPrewD)<!-- MEMES:END -->
+ - 😝 [Was seriously tired of being fat and ugly, decided at ugly is enough. Today I finally RUN 12k without stop. I know that most of you don&#39;t give a f ,but I still will post it. F**k you ,and see you tomorrow](http://9gag.com/gag/anz8xEz)
+ - 😝 [Hammer time!](http://9gag.com/gag/a8qQVXd)
+ - 💣 [Rate my Stick](http://9gag.com/gag/aL1VWyV)
+ - 😝 [Sheiiiiitttttt](http://9gag.com/gag/aDYrQX7)
+ - 👉 [The orange cat](http://9gag.com/gag/aOxAG2N)<!-- MEMES:END -->
 
 ---
 </div>

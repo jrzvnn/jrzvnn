@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 😝 [Peak German engineering](http://9gag.com/gag/aVb4VxP)
- - 💣 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [Pure coincidence, just an unlucky girl](http://9gag.com/gag/aA0qvA9)
- - 👉 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)<!-- MEMES:END -->
+ - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 😝 [We are not the same.](http://9gag.com/gag/a1PBOyG)
+ - 💣 [We need a woman who has their end of world priorities in check like this](http://9gag.com/gag/aGE6Ob6)
+ - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
+ - 👉 [Was seriously tired of being fat and ugly, decided at ugly is enough. Today I finally RUN 12k without stop. I know that most of you don&#39;t give a f ,but I still will post it. F**k you ,and see you tomorrow](http://9gag.com/gag/anz8xEz)<!-- MEMES:END -->
 
 ---
 </div>

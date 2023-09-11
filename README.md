@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
+ - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
  - 😝 [One of the greatest drag races.](http://9gag.com/gag/aqeBWPp)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 💣 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
- - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 👉 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)<!-- MEMES:END -->
+ - 👉 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)<!-- MEMES:END -->
 
 ---
 </div>

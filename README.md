@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MGM Resorts says a &quot;cybersecurity issue&quot; that began on Sunday is affecting some casino and hotel computer systems at the company&#39;s properties across the US &lpar;Associated Press&rpar;](http://www.techmeme.com/230911/p28#a230911p28)
  - [TikTok accidentally blocked Hollywood writers strike videos while casting a QAnon net](https://www.theverge.com/2023/9/11/23868930/tiktok-wga-writers-guild-strike-blocked-qanon-conspiracy)
  - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
  - [Internet Archive appeals loss in library ebook lawsuit](https://www.theverge.com/2023/9/11/23868870/internet-archive-hachette-open-library-copyright-lawsuit-appeal)
- - [&#39;Five Nights at Freddy&#39;s&#39;: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/five-nights-at-freddys-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [Lithium-ion batteries with recycled metals nearing production in the US](https://www.theverge.com/2023/9/11/23868593/lithium-ion-batteries-recycled-metals-us-production)<!-- TECH:END -->
+ - [&#39;Five Nights at Freddy&#39;s&#39;: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/five-nights-at-freddys-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

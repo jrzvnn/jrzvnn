@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Some Pixel owners still can’t dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
- - [Qualcomm says Apple extended its modem deal for three more years, covering &quot;smartphone launches in 2024, 2025, and 2026&quot;; the prior deal was set to end in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230911/p9#a230911p9)
- - [FTX sues cross-chain swap protocol builder LayerZero Labs, seeking to undo a $45M deal made four days before FTX filed for bankruptcy and a $40M cash withdrawal &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/230911/p8#a230911p8)
- - [UK researchers detail Bluebird, a &quot;digital twin&quot; of English airspace to examine AI&#39;s potential role in air traffic control, backed by &amp;pound;15M in government funding &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230911/p7#a230911p7)
- - [Extended for 1 day: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,799](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will keep using Qualcomm 5G modems until 2026](https://appleinsider.com/articles/23/09/11/apple-will-keep-using-qualcomm-5g-modems-until-2026?utm_medium=rss)
+ - [Garmin Epix Pro &lpar;Gen 2&rpar; Review: Better Than Apple](https://www.wired.com/review/garmin-epix-pro-gen-2/)
+ - [Everyone Is a Girl Online](https://www.wired.com/story/girls-online-culture/)
+ - [Apple’s Lightning connector was the first great port — and USB-C might be the last](https://www.theverge.com/23864263/iphone-usb-c-lightning-wireless-charging-apple)
+ - [Bluetti&#39;s Power Week offers unbeatable prices on portable power stations for every scenario](https://appleinsider.com/articles/23/09/11/bluettis-power-week-offers-unbeatable-prices-on-portable-power-stations-for-every-scenario?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

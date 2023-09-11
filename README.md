@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [My aunt gave me one as a gift](http://9gag.com/gag/a04zMdz)
- - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
  - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
- - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
+ - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 😝 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
+ - 👉 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)<!-- MEMES:END -->
 
 ---
 </div>

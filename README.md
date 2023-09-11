@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
- - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
+ - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
+ - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
+ - 💣 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 😝 [This advice saved my life once, hope you will never have to use it, but it could save yours.](http://9gag.com/gag/avQ49BX)
+ - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
 
 ---
 </div>

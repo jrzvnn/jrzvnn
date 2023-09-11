@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
- - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
- - 💣 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)<!-- MEMES:END -->
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 😝 [Peak German engineering](http://9gag.com/gag/aVb4VxP)
+ - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
+ - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
 
 ---
 </div>

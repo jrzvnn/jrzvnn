@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPadOS 17: Release date, features, and compatability](https://www.androidauthority.com/ipados-17-3362101/)
  - [A competition between Wharton MBA students and ChatGPT that judges generating ideas for a new product or service finds that 35 of the top 40 came from ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230911/p4#a230911p4)
  - [This upcoming flagship chip might be too hot &lpar;literally&rpar;](https://www.androidauthority.com/mediatek-dimensity-9300-heating-issue-report-3362935/)
  - [The Galaxy S24 series may not be the star of Samsung’s next Unpacked launch](https://www.androidauthority.com/samsung-galaxy-s24-series-galaxy-ring-launch-3362966/)
- - [Sony launches ‘foster care’ program for its aging robot dogs](https://www.theverge.com/2023/9/11/23867799/sony-launches-foster-care-program-aibo-robot-dog-sustainability)
- - [List of Samsung Galaxy phones and tablets eligible for the One UI 6 update](https://www.androidauthority.com/one-ui-6-eligible-devices-3362453/)<!-- TECH:END -->
+ - [Sony launches ‘foster care’ program for its aging robot dogs](https://www.theverge.com/2023/9/11/23867799/sony-launches-foster-care-program-aibo-robot-dog-sustainability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

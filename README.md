@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
+ - 😝 [3 women beating an 61-year-old Asian man with a pipe in Chicago&#39;s Chinatown during a carjacking](http://9gag.com/gag/a8qQ2x3)
  - 💣 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
- - 👉 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)<!-- MEMES:END -->
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 👉 [No more suffering, for us at least](http://9gag.com/gag/aKEnW8Q)<!-- MEMES:END -->
 
 ---
 </div>

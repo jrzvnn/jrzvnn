@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo and DeNA tell Mario Kart Tour users that the mobile game will not be updated after October 4, signaling Nintendo&#39;s lessening focus on mobile titles &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/230911/p12#a230911p12)
- - [Apple will keep using Qualcomm 5G modems until 2026](https://appleinsider.com/articles/23/09/11/apple-will-keep-using-qualcomm-5g-modems-until-2026?utm_medium=rss)
- - [Buy an iPhone 13 mini now because it&#39;s going away tomorrow](https://appleinsider.com/articles/23/09/11/buy-an-iphone-13-mini-now-because-its-going-away-tomorrow?utm_medium=rss)
- - [A Myanmar official says a powerful ethnic militia arrested and repatriated over 1,200 Chinese nationals allegedly involved in criminal online scam operations &lpar;Associated Press&rpar;](http://www.techmeme.com/230911/p11#a230911p11)
- - [I Hope the iPhone 15 Pro Inherits This Apple Watch Feature     - CNET](https://www.cnet.com/tech/mobile/why-the-rumored-iphone-15-pro-needs-an-action-button/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp releases an Android beta that adds a &quot;Third-party chats&quot; screen, offering a clue for how Meta plans to comply with the EU&#39;s DMA interoperability rules &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230911/p14#a230911p14)
+ - [China problems won&#39;t affect iPhone 15 success, says Wedbush](https://appleinsider.com/articles/23/09/11/china-problems-wont-affect-iphone-15-success-says-wedbush?utm_medium=rss)
+ - [Pixelmator Pro 3.4 adds extensive PDF editing support](https://appleinsider.com/articles/23/09/11/pixelmator-pro-34-adds-extensive-pdf-editing-support?utm_medium=rss)
+ - [Qualcomm extends iPhone modem deal amid Apple chip delays](https://www.theverge.com/2023/9/11/23867918/apple-iphone-5g-modem-chip-qualcomm-deal-2026)
+ - [An interview with Walter Isaacson on Elon Musk, the new biography, why Musk agreed, the Twitter acquisition, Musk being &quot;driven by demons&quot;, surprises, and more &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230911/p13#a230911p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
- - 😝 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 😝 [Hot jumper cables](http://9gag.com/gag/aVb4mGP)
  - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)<!-- MEMES:END -->
+ - 💣 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
+ - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
+ - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
 
 ---
 </div>

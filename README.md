@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK researchers detail Bluebird, a &quot;digital twin&quot; of English airspace to examine AI&#39;s potential role in air traffic control, backed by &amp;pound;15M in government funding &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230911/p7#a230911p7)
+ - [Extended for 1 day: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,799](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
  - [Samsung’s XR headset could come with smell-o-vision](https://www.androidauthority.com/samsung-xr-headset-touch-smell-o-vision-3362979/)
  - [AI Chatbots Are Invading Your Local Government—and Making Everyone Nervous](https://www.wired.com/story/local-governments-generative-ai/)
- - [How to Watch Apple’s iPhone 15 Launch, and What to Expect](https://www.wired.com/story/apple-iphone-15-launch-how-to-watch-what-to-expect/)
- - [Blue-Green Algae Is Filling Rivers With Toxic Sludge](https://www.wired.com/story/blue-green-algae-is-filling-rivers-with-toxic-sludge/)
- - [Filing: Instacart aims to raise up to $616M in its IPO at an up to $7.73B valuation and prices shares at $26 to $28; the listing is expected later this month &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p6#a230911p6)<!-- TECH:END -->
+ - [How to Watch Apple’s iPhone 15 Launch, and What to Expect](https://www.wired.com/story/apple-iphone-15-launch-how-to-watch-what-to-expect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
- - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
- - 💣 [Mexico](http://9gag.com/gag/aBdjOnx)
- - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
- - 👉 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)<!-- MEMES:END -->
+ - 😝 [A garden sprinkler that launches](http://9gag.com/gag/aBdjO11)
+ - 😝 [NPCs Breaking Character](http://9gag.com/gag/az2oY5K)
+ - 💣 [She can go 24 hours without going to the bathroom, so she doesn&#39;t leave until she wants to](http://9gag.com/gag/ay2ZQ1M)
+ - 😝 [Painting a modern art piece of the London skyline](http://9gag.com/gag/aDYrXXw)
+ - 👉 [Poor soul is terrified](http://9gag.com/gag/aRE92Mj)<!-- MEMES:END -->
 
 ---
 </div>

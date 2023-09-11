@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)
- - 😝 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)
- - 💣 [One cannot get clout in peace these days!](http://9gag.com/gag/abvK4W9)
- - 😝 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - 👉 [Mexico](http://9gag.com/gag/aBdjOnx)<!-- MEMES:END -->
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 😝 [Changing The pronouns can&#39;t change the reality,](http://9gag.com/gag/aOxAD1M)
+ - 💣 [Mexico](http://9gag.com/gag/aBdjOnx)
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 👉 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)<!-- MEMES:END -->
 
 ---
 </div>

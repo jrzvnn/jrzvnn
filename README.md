@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
- - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
- - 💣 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)
- - 😝 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
- - 👉 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
+ - 😝 [A new c\u00e4r](http://9gag.com/gag/a04z6xd)
+ - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 💣 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 😝 [I think it was the smart move to dump her. But let&#39;s suspend disbelief for a while. What good reason does she have to refuse it? Is there any?](http://9gag.com/gag/arm98gV)
+ - 👉 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)<!-- MEMES:END -->
 
 ---
 </div>

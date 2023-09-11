@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
  - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 💣 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
- - 😝 [Long distance girlfriend secretly flies in and shows up for his prom.](http://9gag.com/gag/aBdjG61)
- - 👉 [Throwing b\u00f6ws](http://9gag.com/gag/adPrx1Q)<!-- MEMES:END -->
+ - 😝 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 💣 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
+ - 😝 [More of a upgraded version to be honest.](http://9gag.com/gag/amAKxoy)
+ - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
 
 ---
 </div>

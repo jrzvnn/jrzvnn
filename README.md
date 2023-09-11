@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy S23 FE looks like a Galaxy A54 in these real-world images](https://www.androidauthority.com/samsung-galaxy-s23-fe-tenaa-listing-3362284/)
  - [Facebook Is Giving Up on News—Again](https://www.wired.com/story/facebook-is-giving-up-on-news-again/)
  - [TikTok Is Spending $1.3 Billion to Dodge Bans in Europe](https://www.wired.com/story/tiktok-is-spending-dollar13-billion-to-dodge-bans-in-europe/)
  - [Bengaluru-based fintech Perfios, which offers real-time credit underwriting solutions to financial companies, raised a $229M Series D led by Kedaara Capital &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230911/p2#a230911p2)
- - [In an email, Coinbase tells its customers in India that it plans to cease operations in the country after September 25, advising to withdraw any remaining funds &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230911/p1#a230911p1)
- - [Let the robot vacuum wars begin: the newest Roombas tackle the competition’s biggest issues](https://www.theverge.com/2023/9/11/23864923/irobot-roomba-combo-j9-plus-robot-vacuum-mop-price-features)<!-- TECH:END -->
+ - [In an email, Coinbase tells its customers in India that it plans to cease operations in the country after September 25, advising to withdraw any remaining funds &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230911/p1#a230911p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

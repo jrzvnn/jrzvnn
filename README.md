@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 😝 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
- - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [Whatever happened to fireflies? I don\u2019t see them anymore.](http://9gag.com/gag/aoKAY1n)
- - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
+ - 😝 [Get Stick. Stick very good!](http://9gag.com/gag/aRE9yEy)
+ - 😝 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
+ - 💣 [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)
+ - 😝 [Savage](http://9gag.com/gag/a5XvxKV)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 </div>

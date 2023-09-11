@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Missing autistic boy found safe at Apple Store](https://appleinsider.com/articles/23/09/11/missing-autistic-boy-found-safe-at-apple-store?utm_medium=rss)
  - [Q&amp;A with Brian Ward, the CEO of Saudi Arabia&#39;s Savvy Games Group, on the $4.9B acquisition of Scopely, esports, human rights issues in Saudi Arabia, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230911/p5#a230911p5)
  - [What to expect from Apple&#39;s &#39;Wonderlust&#39; iPhone 15 event tomorrow](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
  - [Sundar Pichai on Google’s AI, Microsoft’s AI, OpenAI, and … Did We Mention AI?](https://www.wired.com/story/sundar-pichai-google-ai-microsoft-openai/)
- - [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
- - [iPadOS 17: Release date, features, and compatability](https://www.androidauthority.com/ipados-17-3362101/)<!-- TECH:END -->
+ - [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

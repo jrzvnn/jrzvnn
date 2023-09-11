@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Copyright Office denies protection for an AI-made image that won a fine arts competition, despite many prompt revisions and it being altered with Photoshop &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230911/p21#a230911p21)
+ - [Samsung’s Deal of the Day gets you the Galaxy S23 for just $599.99](https://www.androidauthority.com/samsung-galaxy-s23-deal-3363080/)
  - [The Logitech Reach is an articulating webcam you can point at what you want](https://www.theverge.com/2023/9/11/23867926/logitech-reach-articulating-webcam-streamcam-remote-work-livestreaming)
  - [PayPal slowly rolls out Apple Pay support for its cards](https://appleinsider.com/articles/23/09/11/paypal-slowly-rolls-out-apple-pay-support-for-its-cards?utm_medium=rss)
- - [Microsoft’s new Xbox Mastercard includes points you can redeem on games](https://www.theverge.com/2023/9/11/23867833/microsoft-xbox-mastercard-credit-card-points-games-barclays)
- - [Samsung leaks Galaxy Buds FE, and they look super comfortable](https://www.androidauthority.com/samsung-leaks-galaxy-buds-fe-and-they-look-super-comfortable-3363075/)
- - [Lifetime access to Windows 11 Pro is on sale for $29.97 &lpar;85% off&rpar;](https://appleinsider.com/articles/23/07/06/lifetime-access-to-windows-11-professional-is-now-84-off-dropping-the-price-to-2997?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Mastercard includes points you can redeem on games](https://www.theverge.com/2023/9/11/23867833/microsoft-xbox-mastercard-credit-card-points-games-barclays)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

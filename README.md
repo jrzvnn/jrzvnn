@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: seeking to shore up its finances, Embracer is considering options for US-based Tomb Raider developer Gearbox, acquired in a $1.4B deal in February 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230911/p18#a230911p18)
+ - [Starfield is a ‘bizarrely worse experience’ on Nvidia and Intel, says Digital Foundry](https://www.theverge.com/2023/9/11/23867991/starfield-pc-performance-amd-nvidia-intel-digital-foundry-analysis)
+ - [Daily deals: AirTag 4-pack $88, Apple Studio Display from $1,280, Echo Show 8 $68, more](https://appleinsider.com/articles/23/09/11/daily-deals-airtag-4-pack-88-apple-studio-display-from-1280-echo-show-8-68-more?utm_medium=rss)
  - [Why there has never been a better time for online creators: it might be harder than ever to earn $1M per year but it has never been easier to make $50,000 &lpar;Hunter Walk&rpar;](http://www.techmeme.com/230911/p17#a230911p17)
- - [Sonos Move 2, Matter 1.2, and more Qi2 devices on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/09/11/sonos-move-2-matter-12-and-more-qi2-devices-on-the-homekit-insider-podcast?utm_medium=rss)
- - [TSMC&#39;s Arizona factory won&#39;t break Apple&#39;s overseas chip reliance](https://appleinsider.com/articles/23/09/11/tsmcs-arizona-factory-wont-break-apples-overseas-chip-reliance?utm_medium=rss)
- - [How to watch tomorrow’s iPhone 15 and Apple Watch launch event](https://www.androidauthority.com/iphone-15-livestream-3362448/)
- - [5 Best Multi-Tools &lpar;2023&rpar;: Leatherman, Victorinox, and Ones to Avoid](https://www.wired.com/gallery/best-multi-tools/)<!-- TECH:END -->
+ - [Sonos Move 2, Matter 1.2, and more Qi2 devices on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/09/11/sonos-move-2-matter-12-and-more-qi2-devices-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

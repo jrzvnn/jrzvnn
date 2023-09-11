@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Office for Mac is back on sale for $29.97 for the Apple Event](https://appleinsider.com/articles/23/09/11/microsoft-office-for-mac-is-back-on-sale-for-2997-for-the-apple-event?utm_medium=rss)
+ - [NewsWhip data on 300K influential X users suggests X is throttling posts linking to the NYT, with &quot;weekly average shares per article&quot; down ~75% from July&#39;s peak &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230910/p10#a230910p10)
  - [Meta sets GPT-4 as the bar for its next AI model, says a new report](https://www.theverge.com/2023/9/10/23867323/meta-new-ai-model-gpt-4-openai-chatbot-google-apple)
  - [Sources: Meta plans to begin training an LLM in Q1 2024 on its own infrastructure that it hopes will be roughly as capable as OpenAI&#39;s GPT-4 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230910/p9#a230910p9)
- - [Apple may discontinue silicone iPhone case in eco-friendly push](https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push?utm_medium=rss)
- - [Apple Stores run stocks low, brace for changes after iPhone 15 event](https://appleinsider.com/articles/23/09/10/apple-stores-run-stocks-low-brace-for-changes-after-iphone-15-event?utm_medium=rss)
- - [Sources: Instacart plans to target its IPO at roughly $8.6B to $9.3B valuation, well below the $39B valuation the company had in March 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230910/p8#a230910p8)<!-- TECH:END -->
+ - [Apple may discontinue silicone iPhone case in eco-friendly push](https://appleinsider.com/articles/23/09/10/apple-may-discontinue-silicone-iphone-case-in-eco-friendly-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

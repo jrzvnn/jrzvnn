@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Open Cosmos, which builds &quot;sustainable&quot; low-earth orbit satellites and a platform to manage their data, raised $50M, taking its total funding to $57M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230911/p15#a230911p15)
  - [TSMC&#39;s Arizona factory won&#39;t break Apple&#39;s overseas chip reliance](https://appleinsider.com/articles/23/09/11/tsmcs-arizona-factory-wont-break-apples-overseas-chip-reliance?utm_medium=rss)
  - [WhatsApp releases an Android beta that adds a &quot;Third-party chats&quot; screen, offering a clue for how Meta plans to comply with the EU&#39;s DMA interoperability rules &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230911/p14#a230911p14)
  - [China problems won&#39;t affect iPhone 15 success, says Wedbush](https://appleinsider.com/articles/23/09/11/china-problems-wont-affect-iphone-15-success-says-wedbush?utm_medium=rss)
- - [Pixelmator Pro 3.4 adds extensive PDF editing support](https://appleinsider.com/articles/23/09/11/pixelmator-pro-34-adds-extensive-pdf-editing-support?utm_medium=rss)
- - [Qualcomm extends iPhone modem deal amid Apple chip delays](https://www.theverge.com/2023/9/11/23867918/apple-iphone-5g-modem-chip-qualcomm-deal-2026)<!-- TECH:END -->
+ - [Pixelmator Pro 3.4 adds extensive PDF editing support](https://appleinsider.com/articles/23/09/11/pixelmator-pro-34-adds-extensive-pdf-editing-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

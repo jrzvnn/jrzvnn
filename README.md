@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey: 22% of US workers worry that tech will replace their job, up from 15% in 2021, 17% in 2019, and 13% in 2017, a jump driven by college-educated workers &lpar;Lydia Saad/Gallup&rpar;](http://www.techmeme.com/230911/p22#a230911p22)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
  - [Mario Kart Tour has crossed the finish line](https://www.theverge.com/2023/9/11/23868131/mario-kart-tour-nintendo-mobile-gaming)
  - [Nothing Phone 2 update adds a new app for the phone’s coolest feature](https://www.androidauthority.com/nothing-phone-2-new-features-3363112/)
- - [macOS Sonoma: Release date, features, and compatability](https://www.androidauthority.com/macos-sonoma-3362507/)
- - [The new TicWatch Pro 5 is a bargain at under $300](https://www.androidauthority.com/mobvoi-ticwatch-pro-5-deal-3363118/)
- - [Starfield: all the news about Bethesda’s massive space RPG](https://www.theverge.com/23833189/starfield-news-announcements-trailers-microsoft-bethesda-xbox-pc)<!-- TECH:END -->
+ - [macOS Sonoma: Release date, features, and compatability](https://www.androidauthority.com/macos-sonoma-3362507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

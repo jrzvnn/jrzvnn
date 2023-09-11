@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rate my Stick](http://9gag.com/gag/aL1VWyV)
- - 😝 [Sheiiiiitttttt](http://9gag.com/gag/aDYrQX7)
- - 💣 [Diversity](http://9gag.com/gag/avQ49YE)
- - 😝 [Washed upon the shore many years ago on Lake Michigan, it\u2019s my honor to present to you: my stick.](http://9gag.com/gag/a9qZBvW)
- - 👉 [Grass slides in Hulunbuir Prairie, Inner Mongolia](http://9gag.com/gag/a6q48ye)<!-- MEMES:END -->
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 💣 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 😝 [Ladies . . . He\u2019s single](http://9gag.com/gag/a4om2py)
+ - 👉 [Boat full of jellyfish](http://9gag.com/gag/awZP4d4)<!-- MEMES:END -->
 
 ---
 </div>

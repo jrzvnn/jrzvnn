@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Serious Brain Trauma Starts Well Before Young Athletes Go Pro](https://www.wired.com/story/serious-brain-trauma-starts-well-before-young-athletes-go-pro/)
- - [A history of Apple making us buy new cables](https://www.theverge.com/2023/9/12/23859659/apple-cable-history-iphone-15-usb-c-lightning-mac-thunderbolt)
- - [An in-depth look at how Google&#39;s Transformer model, developed by eight researchers in 2017, radically sped up and augmented how computers understand language &lpar;Financial Times&rpar;](http://www.techmeme.com/230912/p15#a230912p15)
- - [Apple Watch Series 9 &#39;FineWoven&#39; band leaks hours before event](https://appleinsider.com/articles/23/09/12/apple-watch-series-9-finewoven-band-leaks-hours-before-event?utm_medium=rss)
- - [Sources: Inditex races to fix bugs in Zara&#39;s new anti-shoplifting system, based on RFID, to replace plastic tags; some staff worry over theft becoming easier &lpar;Clara Hernanz Lizarraga/Bloomberg&rpar;](http://www.techmeme.com/230912/p14#a230912p14)<!-- TECH:END -->
+ - [How to follow The Verge’s new Tech Cases Bot](https://www.theverge.com/23869657/verge-free-law-project-tech-cases-bot-how-to-follow-x-twitter-mastodon)
+ - [The antitrust trial against Google Search starts today — here’s what to expect](https://www.theverge.com/2023/9/12/23868141/google-search-antitrust-trial-what-to-know)
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [MLCommons&#39; MLPerf benchmark, based on a 6B-parameter LLM that summarizes CNN articles, finds Nvidia&#39;s H100s performed best, closely followed by Intel&#39;s Gaudi2 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230912/p17#a230912p17)
+ - [Salesforce announces Einstein Copilot, an AI chatbot for its apps, launching via pilot later in fall, part of its new Einstein 1 Platform &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/230912/p16#a230912p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

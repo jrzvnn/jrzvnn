@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [Apple unveils $799 Apple Watch Ultra 2, with an S9 chip, a second-gen UWB chip, up to 3,000 nits brightness, 36-hour battery, and a new Modular Ultra watch face &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230912/p31#a230912p31)
- - [Apple announces iPhone 15 with a big camera upgrade, the Dynamic Island, and more](https://www.theverge.com/2023/9/12/23859779/iphone-15-plus-usb-c-price-release-date-apple)
- - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
- - [Apple’s new FineWoven line replaces leather cases and Apple Watch bands](https://www.theverge.com/2023/9/12/23863322/apple-watch-series-9-iphone-15-case-finewoven-fabric-leather)<!-- TECH:END -->
+ - [Apple killing off plastic packaging by the end of 2024](https://appleinsider.com/articles/23/09/12/apple-killing-off-plastic-packaging-by-the-end-of-2024?utm_medium=rss)
+ - [FineWoven is here, as Apple phases out leather in watch bands &amp; cases](https://appleinsider.com/articles/23/09/12/finewoven-is-here-as-apple-phases-out-leather-in-watch-bands-cases?utm_medium=rss)
+ - [Apple announces a new FineWoven material for Apple Watch bands, made of 68% post-consumer content, and will no longer use leather for new Apple accessories &lpar;Mitchel Broussard/MacRumors&rpar;](http://www.techmeme.com/230912/p33#a230912p33)
+ - [Apple announces iPhone 15, with Dynamic Island, up to 2,000 nits brightness, or twice as bright as iPhone 14, a new 48MP main camera, and more, in five colors &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230912/p32#a230912p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 9 &#39;FineWoven&#39; band leaks hours before event](https://appleinsider.com/articles/23/09/12/apple-watch-series-9-finewoven-band-leaks-hours-before-event?utm_medium=rss)
  - [California passed a first-of-its-kind bill mandating pollution disclosures, including supply chain emissions](https://www.theverge.com/2023/9/12/23869723/california-climate-pollution-disclosures-bill-big-businesses)
  - [Amazon announces a service that lets its 2M merchants deliver inventory directly to physical retail stores and warehouses, rolling out broadly later in 2023 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230912/p22#a230912p22)
  - [Intel announces Thunderbolt 5, offering up to 120 Gbps bandwidth, support for DisplayPort 2.1, USB v4, USB 3 20G, and PCIe Gen4, and up to 240W charging support &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/230912/p21#a230912p21)
- - [Philips Hue’s two-bulb starter kit is on sale with a Hue Bridge for $40 off](https://www.theverge.com/2023/9/12/23868346/philips-hue-smart-bulbs-skullcandy-dime-2-earbuds-elgato-stream-deck-deal-sale)
- - [How Finnish AI startup Metroc, which helps construction companies find projects, uses prison labor paid &amp;euro;1.54/hour to label data, with widespread public support &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230912/p20#a230912p20)<!-- TECH:END -->
+ - [Philips Hue’s two-bulb starter kit is on sale with a Hue Bridge for $40 off](https://www.theverge.com/2023/9/12/23868346/philips-hue-smart-bulbs-skullcandy-dime-2-earbuds-elgato-stream-deck-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

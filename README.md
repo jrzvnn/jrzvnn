@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Advocates urge Chuck Schumer to tackle AI’s climate impact](https://www.theverge.com/2023/9/12/23868620/ai-climate-change-pollution-disclosure-legislation-chuck-schumer)
  - [Sources: in a first, Apple plans to make the India-built iPhone 15 available in the country and some other regions on the global sales debut day &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230912/p6#a230912p6)
  - [OnePlus 11 gets first taste of Android 14 with OxygenOS 14 Open Beta](https://www.androidauthority.com/oneplus-11-oxygenos-14-android-14-3363377/)
  - [What to expect from Apple&#39;s &#39;Wonderlust&#39; iPhone 15 event today](https://appleinsider.com/articles/23/08/29/apples-iphone-15-event-is-on-september-12-heres-what-to-expect?utm_medium=rss)
- - [HMD Global wants to use it own brand name alongside Nokia’s](https://www.androidauthority.com/hmd-global-branded-phones-alongside-nokia-3363349/)
- - [Pixel 8 series could keep its cool thanks to a new Tensor G3 improvement](https://www.androidauthority.com/google-pixel-8-tensor-g3-heat-management-3363337/)<!-- TECH:END -->
+ - [HMD Global wants to use it own brand name alongside Nokia’s](https://www.androidauthority.com/hmd-global-branded-phones-alongside-nokia-3363349/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

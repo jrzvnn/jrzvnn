@@ -156,8 +156,8 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 😝 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
- - 💣 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
+ - 😝 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
+ - 💣 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
  - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
 

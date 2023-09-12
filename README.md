@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft now lets drivers prioritize matches with women and nonbinary riders](https://www.theverge.com/2023/9/12/23869996/lyft-women-plus-connect-women-nonbinary-drivers-riders)
  - [Apple&#39;s USB-C AirPods Pro will support 20-bit, 48 kHz lossless audio when used with the upcoming Vision Pro headset &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p52#a230912p52)
  - [The iPhone is getting new ringtones](https://www.theverge.com/2023/9/12/23870868/apple-iphone-ios-17-new-ringtones)
  - [Devialet Gemini II Review: OK but Overpriced](https://www.wired.com/review/review-devialet-gemini-ii-wireless-earphones/)
- - [Apple’s $60 iCloud Service Is the Future of Apple](https://www.wired.com/story/apple-60-dollar-icloud-storage-tier-is-the-future/)
- - [The iPhone 15 is the first phone to &lpar;almost&rpar; support Qi2 charging](https://www.theverge.com/2023/9/12/23870494/qi2-certification-iphone-15-magnetic-charging)<!-- TECH:END -->
+ - [Apple’s $60 iCloud Service Is the Future of Apple](https://www.wired.com/story/apple-60-dollar-icloud-storage-tier-is-the-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

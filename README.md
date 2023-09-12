@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 doesn&#39;t come with color-matched cables after all](https://appleinsider.com/articles/23/09/12/iphone-15-doesnt-come-with-color-matched-cables-after-all?utm_medium=rss)
- - [T-Mobile to buy more 5G airwaves from Comcast for up to $3.3 billion](https://www.theverge.com/2023/9/12/23870736/t-mobile-low-band-airwaves-comcast-5g-deal)
- - [Apple starts selling a $29 USB-C to Lightning adapter alongside a $19 one-meter USB-C charging cable, a $29 two-meter USB-C cable, and a $69 Thunderbolt 4 cable &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230912/p49#a230912p49)
- - [The iPhone 15 Pro and Pro Max are the first smartphones with Thread](https://www.theverge.com/2023/9/12/23870522/iphone-15-pro-max-thread-smartphones)
- - [Apple’s USB-C AirPods Pro will support lossless audio with the Vision Pro](https://www.theverge.com/2023/9/12/23870723/apple-airpods-pro-usb-c-lossless-audio-vision)<!-- TECH:END -->
+ - [Good news, everyone: Apple’s Polishing Cloth supports the iPhone 15 Pro Max](https://www.theverge.com/2023/9/12/23870721/apple-polishing-cloth-iphone-15-pro-max-watch-compatible)
+ - [Apple launches Roadside Assistance via satellite in the US, allowing iPhone 15 and iPhone 14 users to text AAA for assistance in areas without cell signal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230912/p50#a230912p50)
+ - [Unity has changed its pricing model, and game developers are pissed off](https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development)
+ - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)
+ - [iPhone 15 doesn&#39;t come with color-matched cables after all](https://appleinsider.com/articles/23/09/12/iphone-15-doesnt-come-with-color-matched-cables-after-all?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

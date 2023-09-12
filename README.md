@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
- - 😝 [The raise in price\u2026..](http://9gag.com/gag/aNw8Gr3)
- - 💣 [No idea when this became a place about sticks but here&#39;s a picture of my wood](http://9gag.com/gag/anz8dYq)
+ - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
+ - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 💣 [Finally someone with manners](http://9gag.com/gag/ay2ZPBr)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
+ - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
 
 ---
 </div>

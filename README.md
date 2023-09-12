@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces the Apple Watch Series 9](https://www.theverge.com/2023/9/12/23860234/apple-watch-series-9-price-release-date-features)
+ - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
+ - [Apple unveils the Apple Watch Series 9, featuring the S9 chip with a four-core neural engine, 30% faster CPU, Double Tap gesture, and on-device Siri requests &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/230912/p30#a230912p30)
+ - [Apple announces Apple Watch Series 9, and it has a handy double tap feature](https://www.theverge.com/2023/9/12/23860234/apple-watch-series-9-price-release-date-features)
  - [Apple’s Vision Pro headset is on track to ship early next year](https://www.theverge.com/2023/9/12/23860400/apple-vision-pro-mixed-reality-headset-release-date)
- - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
- - [Apple&#39;s livestream of the &quot;Wonderlust&quot; event at Apple Park &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230912/p29#a230912p29)
- - [A live blog of Apple&#39;s &quot;Wonderlust&quot; event, where four iPhone 15 models with USB-C, the Apple Watch Series 9, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p28#a230912p28)<!-- TECH:END -->
+ - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

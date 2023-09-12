@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HMD Global wants to use it own brand name alongside Nokia’s](https://www.androidauthority.com/hmd-global-branded-phones-alongside-nokia-3363349/)
  - [Pixel 8 series could keep its cool thanks to a new Tensor G3 improvement](https://www.androidauthority.com/google-pixel-8-tensor-g3-heat-management-3363337/)
  - [Q&amp;A with Sundar Pichai on 25 years of Google, competition in AI, ChatGPT in Bing, DeepMind and Google Brain, AI chips, staff&#39;s bureaucracy complaints, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230912/p5#a230912p5)
  - [Apple Event 2023: Today Is the Expected iPhone 15 Reveal and More     - CNET](https://www.cnet.com/tech/mobile/apple-event-2023-today-is-the-expected-iphone-15-reveal-and-more/#ftag=CAD590a51e)
- - [Spigen cheekily confirms iPhone 15 action button hours before launch](https://www.androidauthority.com/spigen-confirms-iphone-15-action-button-3363338/)
- - [Lime says its gross bookings grew 45% YoY to $250M in H1 2023 and the adjusted EBITDA reached $27M, as CEO Wayne Ting hints at an IPO &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230912/p4#a230912p4)<!-- TECH:END -->
+ - [Spigen cheekily confirms iPhone 15 action button hours before launch](https://www.androidauthority.com/spigen-confirms-iphone-15-action-button-3363338/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

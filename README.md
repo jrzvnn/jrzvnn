@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)
- - [Nokia phone maker HMD is launching its own smartphone brand](https://www.theverge.com/2023/9/12/23869656/nokia-hmd-smartphone-brand-announcement-foxconn)
- - [Advocates urge Chuck Schumer to tackle AI’s climate impact](https://www.theverge.com/2023/9/12/23868620/ai-climate-change-pollution-disclosure-legislation-chuck-schumer)
- - [Sources: in a first, Apple plans to make the India-built iPhone 15 available in the country and some other regions on the global sales debut day &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230912/p6#a230912p6)
- - [OnePlus 11 gets first taste of Android 14 with OxygenOS 14 Open Beta](https://www.androidauthority.com/oneplus-11-oxygenos-14-android-14-3363377/)<!-- TECH:END -->
+ - [Six years ago, the iPhone X set the table for everything that has come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)
+ - [UK digital bank Monzo launches Investments, letting users invest as little as &amp;pound;1 in BlackRock-picked funds, its first foray into the investment market &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230912/p7#a230912p7)
+ - [Apple Event Live Blog: iPhone 15, Apple Watch Series 9](https://www.wired.com/live/apple-event-live-blog-september-2023/)
+ - [China-Linked Hackers Breached a Power Grid—Again](https://www.wired.com/story/china-redfly-power-grid-cyberattack-asia/)
+ - [Fujifilm’s new GFX100 II medium format camera is smaller, faster, and $2,500 cheaper](https://www.theverge.com/2023/9/12/23868832/fujifilm-fuji-gfx100ii-medium-format-mirrorless-camera-8k-reala-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

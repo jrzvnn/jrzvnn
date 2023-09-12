@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
- - 😝 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
- - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
+ - 😝 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
+ - 😝 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
+ - 💣 [Savage](http://9gag.com/gag/a5XvxKV)
+ - 😝 [Can you see their point?](http://9gag.com/gag/aZDoVdW)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 </div>

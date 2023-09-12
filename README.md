@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)
+ - [US accuses Google of &#39;knowingly&#39; breaking antitrust laws](https://appleinsider.com/articles/23/09/12/us-accuses-google-of-knowingly-breaking-antitrust-laws?utm_medium=rss)
  - [The Fall of the House of Usher looks like it might be Mike Flanagan’s darkest Netflix series yet](https://www.theverge.com/23869977/netflix-the-fall-of-the-house-of-usher-trailer)
  - [Don&#39;t expect any new iPads before 2024, says Kuo](https://appleinsider.com/articles/23/09/12/dont-expect-any-new-ipads-before-2024-says-kuo?utm_medium=rss)
- - [As some supposedly &quot;leaked&quot; Harry Styles songs are being sold on Discord, fans and AI-analysis companies struggle to determine if the clips are AI-generated &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230912/p26#a230912p26)
- - [iPhone 15 event: all the news on Apple’s new phones](https://www.theverge.com/2023/9/12/23862837/iphone-15-event-apple-watch-ultra-airpods-usb-c)
- - [Picross developer to port lost 3DS games to the Switch](https://www.theverge.com/2023/9/12/23869852/picrosse-nintendo-switch-3ds-jupiter-corporation)<!-- TECH:END -->
+ - [As some supposedly &quot;leaked&quot; Harry Styles songs are being sold on Discord, fans and AI-analysis companies struggle to determine if the clips are AI-generated &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230912/p26#a230912p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

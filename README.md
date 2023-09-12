@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
  - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 💣 [Wtf](http://9gag.com/gag/a1PBx88)
+ - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Frontlines](http://9gag.com/gag/anz8W05)<!-- MEMES:END -->
+ - 👉 [Wtf](http://9gag.com/gag/a1PBx88)<!-- MEMES:END -->
 
 ---
 </div>

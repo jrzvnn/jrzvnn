@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia boosts Starfield performance with GPU driver update](https://www.theverge.com/2023/9/12/23870123/nvidia-starfield-performance-resizable-bar-new-gpu-drivers)
+ - [Some of Garmin’s birthday deals are pretty amazing](https://www.androidauthority.com/garmin-birthday-deals-3363516/)
+ - [A look at the Huawei Kirin 9000S, the impact on Apple, Qualcomm, and MediaTek, SMIC&#39;s 7nm and future 5nm chips, and potential Western responses to curtail China &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230912/p27#a230912p27)
  - [Save up to $500 on Mac, iPad, Apple Watch with Apple Event deals at Amazon](https://appleinsider.com/articles/23/09/12/save-up-to-500-on-mac-ipad-apple-watch-with-apple-event-deals-at-amazon?utm_medium=rss)
- - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)
- - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)
- - [US accuses Google of &#39;knowingly&#39; breaking antitrust laws](https://appleinsider.com/articles/23/09/12/us-accuses-google-of-knowingly-breaking-antitrust-laws?utm_medium=rss)
- - [The Fall of the House of Usher looks like it might be Mike Flanagan’s darkest Netflix series yet](https://www.theverge.com/23869977/netflix-the-fall-of-the-house-of-usher-trailer)<!-- TECH:END -->
+ - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

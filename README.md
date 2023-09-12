@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 doesn&#39;t come with color-matched cables after all](https://appleinsider.com/articles/23/09/12/iphone-15-doesnt-come-with-color-matched-cables-after-all?utm_medium=rss)
+ - [T-Mobile to buy more 5G airwaves from Comcast for up to $3.3 billion](https://www.theverge.com/2023/9/12/23870736/t-mobile-low-band-airwaves-comcast-5g-deal)
+ - [Apple starts selling a $29 USB-C to Lightning adapter alongside a $19 one-meter USB-C charging cable, a $29 two-meter USB-C cable, and a $69 Thunderbolt 4 cable &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230912/p49#a230912p49)
  - [The iPhone 15 Pro and Pro Max are the first smartphones with Thread](https://www.theverge.com/2023/9/12/23870522/iphone-15-pro-max-thread-smartphones)
- - [Apple’s USB-C AirPods Pro will support lossless audio with the Vision Pro](https://www.theverge.com/2023/9/12/23870723/apple-airpods-pro-usb-c-lossless-audio-vision)
- - [Roadside Assistance via Satellite provides more help for iPhone users](https://appleinsider.com/articles/23/09/12/roadside-assistance-via-satellite-provides-more-help-for-iphone-15-users?utm_medium=rss)
- - [Washington-based Treasury4, which sells data analytics software for risk management of financial and treasury processes, raised a $20M Series A led by WestCap &lpar;Nate Bek/GeekWire&rpar;](http://www.techmeme.com/230912/p48#a230912p48)
- - [The MagSafe Duo and MagSafe Battery Pack have left the Apple Store](https://www.theverge.com/2023/9/12/23870575/apple-magsafe-duo-battery-pack-discontinued)<!-- TECH:END -->
+ - [Apple’s USB-C AirPods Pro will support lossless audio with the Vision Pro](https://www.theverge.com/2023/9/12/23870723/apple-airpods-pro-usb-c-lossless-audio-vision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

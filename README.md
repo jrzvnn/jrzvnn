@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Apple&#39;s &quot;Wonderlust&quot; event, where four iPhone 15 models with USB-C, the Apple Watch Series 9, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p28#a230912p28)
- - [The next Sims will be free and won’t replace The Sims 4](https://www.theverge.com/2023/9/12/23870172/project-rene-next-gen-sims-free)
- - [More companies commit to the White House AI safety accord](https://www.theverge.com/2023/9/12/23870092/nvidia-ibm-adobe-white-house-ai-agreement-nonbinding)
- - [Apple leans further into sustainability for Wonderlust with badges made from recycled materials](https://appleinsider.com/articles/23/09/12/apple-leans-further-into-sustainability-for-wonderlust-with-badges-made-from-recycled-materials?utm_medium=rss)
- - [Apple is ‘unlikely’ to release a new iPad before the end of the year](https://www.theverge.com/2023/9/12/23870096/apple-unlikely-release-new-ipad-2023)<!-- TECH:END -->
+ - [Apple announces the Apple Watch Series 9](https://www.theverge.com/2023/9/12/23860234/apple-watch-series-9-price-release-date-features)
+ - [Apple’s Vision Pro headset is on track to ship early next year](https://www.theverge.com/2023/9/12/23860400/apple-vision-pro-mixed-reality-headset-release-date)
+ - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
+ - [Apple&#39;s livestream of the &quot;Wonderlust&quot; event at Apple Park &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230912/p29#a230912p29)
+ - [A live blog of Apple&#39;s &quot;Wonderlust&quot; event, where four iPhone 15 models with USB-C, the Apple Watch Series 9, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p28#a230912p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Senate passes a bill that requires the presence of a human safety operator in self-driving trucks on public roads; bill requires governor&#39;s approval &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230912/p3#a230912p3)
  - [GlobalFoundries opens a $4B chip fabrication plant in Singapore aiming to produce up to 450K 300mm wafers per year; Singapore makes 11% of total global chips &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/230912/p2#a230912p2)
  - [The 7 best AI photo editors in 2023 to retouch and elevate your photos](https://www.androidauthority.com/best-ai-photo-editor-apps-3363313/)
  - [Get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,799](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
- - [Visa&#39;s credit card disputes hit 90M+ in 2022, up 24% in 2020 and ~2% in both 2021 and 2022, widely attributed to the online shopping shift since the pandemic &lpar;Ignacio Gonzalez/Bloomberg&rpar;](http://www.techmeme.com/230912/p1#a230912p1)
- - [The scooter wars might be over, as Lime claims victory](https://www.theverge.com/2023/9/12/23864737/lime-profit-h1-2023-scooter-gross-booking-free-cash)<!-- TECH:END -->
+ - [Visa&#39;s credit card disputes hit 90M+ in 2022, up 24% in 2020 and ~2% in both 2021 and 2022, widely attributed to the online shopping shift since the pandemic &lpar;Ignacio Gonzalez/Bloomberg&rpar;](http://www.techmeme.com/230912/p1#a230912p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

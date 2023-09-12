@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [tvOS 17: Release date, features, and compatibility](https://www.androidauthority.com/apple-tvos-17-3362182/)
- - [Daily deals Sept. 12: $120 off iPad Air, $150 off M2 Pro Mac mini, Samsung phones from $120, more](https://appleinsider.com/articles/23/09/12/daily-deals-sept-12-120-off-ipad-air-150-off-m2-pro-mac-mini-samsung-phones-from-120-more?utm_medium=rss)
- - [Bio: before the Twitter takeover, Musk promised Jack Dorsey that, if Dorsey ever needed cash, he would buy Dorsey&#39;s Twitter stock at the $54.20 takeover price &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230912/p25#a230912p25)
- - [Samsung Galaxy S24 production info points to early launch](https://www.androidauthority.com/samsung-galaxy-s24-early-launch-3363485/)
- - [AI-Powered ‘Thought Decoders’ Won’t Just Read Your Mind—They’ll Change It](https://www.wired.com/story/ai-thought-decoder-mind-philosophy/)<!-- TECH:END -->
+ - [Don&#39;t expect any new iPads before 2024, says Kuo](https://appleinsider.com/articles/23/09/12/dont-expect-any-new-ipads-before-2024-says-kuo?utm_medium=rss)
+ - [As some supposedly &quot;leaked&quot; Harry Styles songs are being sold on Discord, fans and AI-analysis companies struggle to determine if the clips are AI-generated &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230912/p26#a230912p26)
+ - [iPhone 15 event: all the news on Apple’s new phones](https://www.theverge.com/2023/9/12/23862837/iphone-15-event-apple-watch-ultra-airpods-usb-c)
+ - [Picross developer to port lost 3DS games to the Switch](https://www.theverge.com/2023/9/12/23869852/picrosse-nintendo-switch-3ds-jupiter-corporation)
+ - [Dimensity 9300 chip rumored to run hot &lpar;Update: MediaTek refutes rumor&rpar;](https://www.androidauthority.com/mediatek-dimensity-9300-heating-issue-report-3362935/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

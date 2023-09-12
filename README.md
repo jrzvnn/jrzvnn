@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max lands with 5x optical zoom, faster USB-C](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-lands-with-5x-optical-zoom-faster-usb-c?utm_medium=rss)
  - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [Double Tap brings Vision Pro’s coolest feature to the Apple Watch Series 9](https://www.androidauthority.com/apple-announces-apple-watch-series-9-double-tap-feature-3363582/)
- - [The US sentences Karl Greenwood, who co-founded OneCoin in 2014 alongside Ruja Ignatova, to 20 years and orders him to pay $300M; Greenwood had pleaded guilty &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230912/p37#a230912p37)
- - [Apple is adding roadside assistance via satellite to the iPhone](https://www.theverge.com/2023/9/12/23870328/apple-iphone-roadside-assistance-emergency-sos-satellite-aaa)<!-- TECH:END -->
+ - [Apple announces a USB-C charging case for AirPods Pro, letting iPhone 15 owners use the same cable to charge both devices, and new wired EarPods with USB-C &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p39#a230912p39)
+ - [A17 Pro features 6 CPU cores, with 2 performance cores that are 10% faster, a redesigned GPU that&#39;s up to 20% faster, and the Neural Engine is almost 2x as fast &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230912/p38#a230912p38)
+ - [Don&#39;t miss Spigen&#39;s iPhone 15 Pro and iPhone 15 Pro Max case lineup](https://appleinsider.com/articles/23/09/12/dont-miss-spigens-iphone-15-pro-and-iphone-15-pro-max-case-lineup?utm_medium=rss)
+ - [Roadside Assistance via Satellite provides more help for iPhone 15 users](https://appleinsider.com/articles/23/09/12/roadside-assistance-via-satellite-provides-more-help-for-iphone-15-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

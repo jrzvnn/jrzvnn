@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 💣 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
+ - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
+ - 😝 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
+ - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)<!-- MEMES:END -->
+ - 👉 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)<!-- MEMES:END -->
 
 ---
 </div>

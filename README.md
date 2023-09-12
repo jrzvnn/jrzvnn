@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Find the best USB-C charger for your iPhone 15](https://appleinsider.com/inside/iphone-15/best/find-the-best-usb-c-charger-for-your-iphone-15?utm_medium=rss)
+ - [10 years ago, Apple finally convinced us to lock our phones](https://www.theverge.com/23868464/apple-iphone-touch-id-fingerprint-security-ten-year-anniversary)
  - [Intel makes Thunderbolt 5 official, promising speeds of up to 120Gbps](https://www.theverge.com/2023/9/12/23869802/intel-thunderbolt-5-launch-specs)
  - [Thunderbolt 5 launches with twice the speed of Thunderbolt 4](https://appleinsider.com/articles/23/09/12/thunderbolt-5-launches-with-twice-the-speed-of-thunderbolt-4?utm_medium=rss)
- - [The TikTok Shop rolls out in the US](https://www.theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon)
- - [Sources describe Apollo&#39;s Yahoo turnaround efforts, including layoffs, asset sales, and new partnerships; Yahoo is on pace to generate $7B in 2023 gross revenue &lpar;Rachel Graf/The Information&rpar;](http://www.techmeme.com/230912/p24#a230912p24)
- - [Western Digital now sells SSD upgrade drives for the Steam Deck and ROG Ally](https://www.theverge.com/2023/9/12/23869772/western-digital-m2-2230-ssd-steam-deck-rog-ally)<!-- TECH:END -->
+ - [The TikTok Shop rolls out in the US](https://www.theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

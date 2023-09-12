@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Results of local elections in Norway today](http://9gag.com/gag/aQEBN18)
- - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
+ - 💣 [Typical western family](http://9gag.com/gag/a9qZZqZ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Frontlines](http://9gag.com/gag/anz8W05)<!-- MEMES:END -->
+ - 👉 [Can you see their point?](http://9gag.com/gag/aZDoVdW)<!-- MEMES:END -->
 
 ---
 </div>

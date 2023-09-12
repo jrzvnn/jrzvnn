@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Unity announces new fees based on a game&#39;s number of installs and the developer&#39;s plan tier, starting January 1, 2024, joining Unreal Engine &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/230912/p47#a230912p47)
- - [France could force Apple to recall every iPhone 12 over radiation concerns](https://www.androidauthority.com/france-stops-iphone-12-sale-radiation-concerns-3363725/)
  - [The iPhone 15 Pro and Pro Max will let you film spatial video you can watch on the Vision Pro](https://www.theverge.com/2023/9/12/23870546/iphone-15-pro-max-film-spatial-video-vision-pro)
- - [Apple quietly admits iPhone 15 series doesn’t improve on battery life](https://www.androidauthority.com/iphone-15-battery-life-3363745/)
- - [Everything the iPhone 15 Pro Action button can do](https://appleinsider.com/articles/23/09/12/everything-iphone-15-pro-action-button-can-do?utm_medium=rss)<!-- TECH:END -->
+ - [Everything the iPhone 15 Pro Action button can do](https://appleinsider.com/articles/23/09/12/everything-iphone-15-pro-action-button-can-do?utm_medium=rss)
+ - [Just what we needed: another Apple dongle, this time for USB-C to Lightning](https://appleinsider.com/articles/23/09/12/just-what-we-needed-another-apple-dongle-this-time-for-usb-c?utm_medium=rss)
+ - [Hands-on with the iPhone 15 Pro, which is nicer to hold thanks to its curved edges and a lighter titanium frame that was immediately covered in fingerprints &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230912/p46#a230912p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

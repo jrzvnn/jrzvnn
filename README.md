@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel announces Thunderbolt 5, offering up to 120 Gbps bandwidth, support for DisplayPort 2.1, USB v4, USB 3 20G, and PCIe Gen4, and up to 240W charging support &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/230912/p21#a230912p21)
  - [Philips Hue’s two-bulb starter kit is on sale with a Hue Bridge for $40 off](https://www.theverge.com/2023/9/12/23868346/philips-hue-smart-bulbs-skullcandy-dime-2-earbuds-elgato-stream-deck-deal-sale)
  - [How Finnish AI startup Metroc, which helps construction companies find projects, uses prison labor paid &amp;euro;1.54/hour to label data, with widespread public support &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230912/p20#a230912p20)
  - [Apple’s India-made iPhones to be available at launch for the first time](https://www.theverge.com/2023/9/12/23869727/apple-iphone-15-india-production-supply-launch-china)
- - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)
- - [Rad Power Bikes says it will only produce UL-certified e-bikes and batteries going forward](https://www.theverge.com/2023/9/12/23868264/rad-power-bikes-ul-certification-ebike-battery-fires)<!-- TECH:END -->
+ - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

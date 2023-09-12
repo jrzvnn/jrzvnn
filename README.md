@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford, Honda, and BMW create a new vehicle-to-grid company to help EV owners save money](https://www.theverge.com/2023/9/12/23870267/ford-honda-bmw-ev-v2g-company-chargescape)
+ - [iPhone 15 Pro Max price unchanged from 14 Pro Max -- assuming you want 256GB](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-price-unchanged-from-14-pro-max----assuming-you-want-256gb?utm_medium=rss)
  - [iPhone 15 Pro gets direct record to external storage, but iPhone 15 has Lightning speeds](https://appleinsider.com/articles/23/09/12/iphone-15-pro-gets-direct-record-to-external-storage-but-iphone-15-has-lightning-speeds?utm_medium=rss)
- - [Everything Apple Announced &lpar;September 2023&rpar;: iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra, AirPods Pro 2](https://www.wired.com/story/everything-apple-announced-september-2023-iphone-15-apple-watch-series-9/)
- - [Apple issues release candidates for iOS 17, iPadOS 17, tvOS 17, watchOS 10](https://appleinsider.com/articles/23/09/12/apple-issues-release-candidates-for-ios-17-ipados-17-tvos-17-watchos-10?utm_medium=rss)
- - [Hands-on with the iPhone 15, which is noticeably nicer to hold thanks to the matte back and rounded sides &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p44#a230912p44)
- - [macOS Sonoma arrives on Sept. 26; iOS 17, tvOS 17, watchOS 10 on Sept 18](https://appleinsider.com/articles/23/09/12/macos-sonoma-arrives-on-sept-26-ios-17-tvos-17-watchos-10-on-sept-18?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s new USB-C iPhone cables and dongles are predictably expensive](https://www.theverge.com/2023/9/12/23870441/apple-usb-c-cables-lightning-dongle-price)
+ - [Everything Apple Announced &lpar;September 2023&rpar;: iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra, AirPods Pro 2](https://www.wired.com/story/everything-apple-announced-september-2023-iphone-15-apple-watch-series-9/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

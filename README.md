@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple started killing Lightning accessories minutes after iPhone 15 USB-C introduction](https://appleinsider.com/articles/23/09/12/apple-started-killing-lightning-accessories-minutes-after-iphone-15-usb-c-introduction?utm_medium=rss)
+ - [Apple plans to release macOS Sonoma on September 26 and iOS 17, iPadOS 17, tvOS 17, and watchOS 10 on September 18 &lpar;Michael Stroup/AppleInsider&rpar;](http://www.techmeme.com/230912/p45#a230912p45)
  - [Ford, Honda, and BMW create a new vehicle-to-grid company to help EV owners save money](https://www.theverge.com/2023/9/12/23870267/ford-honda-bmw-ev-v2g-company-chargescape)
  - [iPhone 15 Pro Max price unchanged from 14 Pro Max -- assuming you want 256GB](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-price-unchanged-from-14-pro-max----assuming-you-want-256gb?utm_medium=rss)
- - [iPhone 15 Pro gets direct record to external storage, but iPhone 15 has Lightning speeds](https://appleinsider.com/articles/23/09/12/iphone-15-pro-gets-direct-record-to-external-storage-but-iphone-15-has-lightning-speeds?utm_medium=rss)
- - [Apple’s new USB-C iPhone cables and dongles are predictably expensive](https://www.theverge.com/2023/9/12/23870441/apple-usb-c-cables-lightning-dongle-price)
- - [Everything Apple Announced &lpar;September 2023&rpar;: iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra, AirPods Pro 2](https://www.wired.com/story/everything-apple-announced-september-2023-iphone-15-apple-watch-series-9/)<!-- TECH:END -->
+ - [iPhone 15 Pro gets direct record to external storage, but iPhone 15 has Lightning speeds](https://appleinsider.com/articles/23/09/12/iphone-15-pro-gets-direct-record-to-external-storage-but-iphone-15-has-lightning-speeds?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

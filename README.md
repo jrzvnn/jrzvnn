@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
- - [Apple introduces new 6TB and 12TB iCloud+ storage tiers, priced at $30 and $60 a month, available on September 18 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230912/p42#a230912p42)
- - [Hands-on with the Apple Watch Ultra 2 and Apple Watch Series 9](https://www.theverge.com/23866958/apple-watch-ultra-2-series-9-hands-on-pictures-video-price)
- - [macOS Sonoma comes out on September 26th](https://www.theverge.com/2023/9/12/23860441/macos-sonoma-release-date-apple)
- - [Apple is adding Roadside Assistance via satellite to the iPhone](https://www.theverge.com/2023/9/12/23870328/apple-iphone-roadside-assistance-emergency-sos-satellite-aaa)<!-- TECH:END -->
+ - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
+ - [New FineWoven cases are here to protect your iPhone 15 &amp; iPhone 15 Pro](https://appleinsider.com/articles/23/09/12/new-finewoven-cases-are-here-to-protect-your-iphone-15-iphone-15-pro?utm_medium=rss)
+ - [Steam just turned 20 years old and Valve is celebrating](https://www.theverge.com/2023/9/12/23870270/steam-20-birthday-2003-2023)
+ - [Apple updates the AirPods Pro 2 with new USB-C charging case](https://www.androidauthority.com/apple-airpods-pro-2-charging-case-3363637/)
+ - [Second Gen AirPods Pro get new USB-C case that can be charged by iPhone 15 directly](https://appleinsider.com/articles/23/09/12/second-gen-airpods-pro-get-new-usb-c-case-that-can-be-charged-by-iphone-15-directly?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

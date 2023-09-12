@@ -158,8 +158,8 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
  - 😝 [Frontlines](http://9gag.com/gag/anz8W05)
  - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
- - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 👉 [Back to where you started](http://9gag.com/gag/aRE9D15)<!-- MEMES:END -->
+ - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
+ - 👉 [Wtf](http://9gag.com/gag/a1PBx88)<!-- MEMES:END -->
 
 ---
 </div>

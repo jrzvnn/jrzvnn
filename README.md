@@ -155,9 +155,9 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 💣 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)
+ - 😝 [The one and only](http://9gag.com/gag/ay2Zm18)
+ - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
+ - 💣 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
  - 👉 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)<!-- MEMES:END -->
 

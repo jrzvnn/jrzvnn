@@ -155,9 +155,9 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 💣 [I know how to use them but seriously how was this the best solution for utensils???](http://9gag.com/gag/aGE6rj0)
+ - 😝 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
+ - 😝 [I know how to use them but seriously how was this the best solution for utensils???](http://9gag.com/gag/aGE6rj0)
+ - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
  - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
 

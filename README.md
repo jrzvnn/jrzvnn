@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple started killing Lightning accessories minutes after iPhone 15 USB-C introduction](https://appleinsider.com/articles/23/09/12/apple-started-killing-lightning-accessories-minutes-after-iphone-15-usb-c-introduction?utm_medium=rss)
- - [Apple plans to release macOS Sonoma on September 26 and iOS 17, iPadOS 17, tvOS 17, and watchOS 10 on September 18 &lpar;Michael Stroup/AppleInsider&rpar;](http://www.techmeme.com/230912/p45#a230912p45)
- - [Ford, Honda, and BMW create a new vehicle-to-grid company to help EV owners save money](https://www.theverge.com/2023/9/12/23870267/ford-honda-bmw-ev-v2g-company-chargescape)
- - [iPhone 15 Pro Max price unchanged from 14 Pro Max -- assuming you want 256GB](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-price-unchanged-from-14-pro-max----assuming-you-want-256gb?utm_medium=rss)
- - [iPhone 15 Pro gets direct record to external storage, but iPhone 15 has Lightning speeds](https://appleinsider.com/articles/23/09/12/iphone-15-pro-gets-direct-record-to-external-storage-but-iphone-15-has-lightning-speeds?utm_medium=rss)<!-- TECH:END -->
+ - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
+ - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
+ - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
+ - [Everything iPhone 15 Pro Action button can do](https://appleinsider.com/articles/23/09/12/everything-iphone-15-pro-action-button-can-do?utm_medium=rss)
+ - [Covid Boosters Can’t Outpace New Mutations. Here’s Why They Still Work](https://www.wired.com/story/covid-vaccine-boosters-2023-moderna-pfizer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

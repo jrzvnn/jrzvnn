@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
- - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
- - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
- - 👉 [Chad energy offended the entire group](http://9gag.com/gag/aDYrPpB)<!-- MEMES:END -->
+ - 😝 [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)
+ - 😝 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
+ - 💣 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
+ - 😝 [Savage](http://9gag.com/gag/a5XvxKV)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 </div>

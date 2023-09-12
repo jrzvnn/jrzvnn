@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The raise in price\u2026..](http://9gag.com/gag/aNw8Gr3)
- - 😝 [No idea when this became a place about sticks but here&#39;s a picture of my wood](http://9gag.com/gag/anz8dYq)
- - 💣 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)
+ - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
+ - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 💣 [Looks like huge sphere sucking something from SUN &lpar; NASA was the one to made it public &rpar;..](http://9gag.com/gag/a04zOVn)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Thats a beautiful car!!](http://9gag.com/gag/aNw8qpv)<!-- MEMES:END -->
+ - 👉 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)<!-- MEMES:END -->
 
 ---
 </div>

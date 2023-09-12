@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at how Google&#39;s Transformer model, developed by eight researchers in 2017, radically sped up and augmented how computers understand language &lpar;Financial Times&rpar;](http://www.techmeme.com/230912/p15#a230912p15)
  - [Apple Watch Series 9 &#39;FineWoven&#39; band leaks hours before event](https://appleinsider.com/articles/23/09/12/apple-watch-series-9-finewoven-band-leaks-hours-before-event?utm_medium=rss)
  - [Sources: Inditex races to fix bugs in Zara&#39;s new anti-shoplifting system, based on RFID, to replace plastic tags; some staff worry over theft becoming easier &lpar;Clara Hernanz Lizarraga/Bloomberg&rpar;](http://www.techmeme.com/230912/p14#a230912p14)
  - [Apple has taken down the online Apple Store ahead of the iPhone 15 launch](https://appleinsider.com/articles/23/09/12/apple-has-taken-down-the-online-apple-store-ahead-of-the-iphone-15-launch?utm_medium=rss)
- - [Enfabrica, which develops &quot;hub and spoke&quot; networking chips to improve Nvidia GPU-based AI data center processing, raised a $125M Series B led by Atreides &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230912/p13#a230912p13)
- - [Apple TV+ shows will get millions more viewers on India&#39;s Tata Play Binge](https://appleinsider.com/articles/23/09/12/apple-tv-shows-will-get-millions-more-viewers-on-indias-tata-play-binge?utm_medium=rss)<!-- TECH:END -->
+ - [Enfabrica, which develops &quot;hub and spoke&quot; networking chips to improve Nvidia GPU-based AI data center processing, raised a $125M Series B led by Atreides &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/230912/p13#a230912p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

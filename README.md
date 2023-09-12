@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - 😝 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 😝 [Results of local elections in Norway today](http://9gag.com/gag/aQEBN18)
+ - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
  - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Wtf](http://9gag.com/gag/a1PBx88)<!-- MEMES:END -->
+ - 👉 [Frontlines](http://9gag.com/gag/anz8W05)<!-- MEMES:END -->
 
 ---
 </div>

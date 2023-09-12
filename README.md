@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The MagSafe Duo and MagSafe Battery Pack have left the Apple Store](https://www.theverge.com/2023/9/12/23870575/apple-magsafe-duo-battery-pack-discontinued)
  - [Olivia Rodrigo&#39;s latest music video &#39;get him back!&#39; was shot on iPhone 15 Pro](https://appleinsider.com/articles/23/09/12/olivia-rodrigos-latest-music-video-get-him-back-was-shot-on-iphone-15-pro?utm_medium=rss)
  - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
  - [The iPhone 15 Is Finally Getting USB-C. Here’s What That Means](https://www.wired.com/story/apple-iphone-15-usb-c/)
- - [iPhone 15 Pro Max, Apple Watch Ultra 2, and the rest of the Apple Event, on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-apple-watch-ultra-2-and-the-rest-of-the-apple-event-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)<!-- TECH:END -->
+ - [New COVID Vaccines: CDC Committee Recommends a New Booster Shot for Everyone     - CNET](https://www.cnet.com/health/medical/new-covid-vaccines-cdc-committee-recommends-a-new-booster-shot-for-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

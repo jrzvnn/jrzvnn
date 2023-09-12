@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6.1&quot; iPhone 15 Pro starts at $999 for the 128GB model, same as the iPhone 14 Pro, and the 6.7&quot; iPhone 15 Pro Max starts at $1,199 for the 256GB model &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230912/p40#a230912p40)
- - [Apple kills the iPhone Mini](https://www.theverge.com/2023/9/12/23868428/iphone-13-mini-lineup-discontinued-apple-event)
- - [Apple’s iPhone 15 Pro Max now costs more — but also has double the storage](https://www.theverge.com/2023/9/12/23860503/iphone-15-price-increase-pro-max-apple)
- - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [Apple announces a USB-C charging case for AirPods Pro, letting iPhone 15 owners use the same cable to charge both devices, and new wired EarPods with USB-C &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p39#a230912p39)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
+ - [Apple introduces new 6TB and 12TB iCloud+ storage tiers, priced at $30 and $60 a month, available on September 18 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230912/p42#a230912p42)
+ - [Hands-on with the Apple Watch Ultra 2 and Apple Watch Series 9](https://www.theverge.com/23866958/apple-watch-ultra-2-series-9-hands-on-pictures-video-price)
+ - [macOS Sonoma comes out on September 26th](https://www.theverge.com/2023/9/12/23860441/macos-sonoma-release-date-apple)
+ - [Apple is adding Roadside Assistance via satellite to the iPhone](https://www.theverge.com/2023/9/12/23870328/apple-iphone-roadside-assistance-emergency-sos-satellite-aaa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it...](http://9gag.com/gag/adPrewD)
- - 😝 [Chad energy offended the entire group](http://9gag.com/gag/aDYrPpB)
- - 💣 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
  - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
- - 👉 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)<!-- MEMES:END -->
+ - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 👉 [Chad energy offended the entire group](http://9gag.com/gag/aDYrPpB)<!-- MEMES:END -->
 
 ---
 </div>

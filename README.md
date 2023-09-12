@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the new camera actions in Shortcuts for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-camera-actions-in-shortcuts-for-ios-17?utm_medium=rss)
- - [The White House says eight more companies, including Salesforce, Nvidia, Palantir, IBM, and Stability, are signing its voluntary AI pledge, for 15 in total &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p10#a230912p10)
- - [Investor video: Arm CEO Rene Haas outlines a pivot toward complex design work on specific products, a &quot;purpose-built approach&quot; to address the needs of clients &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230912/p9#a230912p9)
- - [iPhone 15 models made in India will be sold on launch day for the first time](https://appleinsider.com/articles/23/09/12/iphone-15-models-made-in-india-will-be-sold-on-launch-day-for-the-first-time?utm_medium=rss)
- - [TikTok begins rolling out TikTok Shop to all US users, adding a home screen Shop button that sends users to a marketplace, and already has 200K+ sellers &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230912/p8#a230912p8)<!-- TECH:END -->
+ - [Apple TV+ shows will get millions more viewers on India&#39;s Tata Play Binge](https://appleinsider.com/articles/23/09/12/apple-tv-shows-will-get-millions-more-viewers-on-indias-tata-play-binge?utm_medium=rss)
+ - [A look at the challenges facing Arm, expected to start trading on September 14 at a $52B valuation, including a huge array of clients and geopolitical tensions &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230912/p12#a230912p12)
+ - [Do You Like WIRED? Do You Like Merch? Guess What: WIRED Now Has Merch](https://www.wired.com/story/wired-launches-merch-store/)
+ - [A profile of Thierry Breton, as the EU prepares to enforce the DSA and DMA, giving the bloc unprecedented regulatory power over big American tech companies &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230912/p11#a230912p11)
+ - [How to use the new camera actions in Shortcuts for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-camera-actions-in-shortcuts-for-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

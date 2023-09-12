@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says eight more companies, including Salesforce, Nvidia, Palantir, IBM, and Stability, are signing its voluntary AI pledge, for 15 in total &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p10#a230912p10)
  - [Investor video: Arm CEO Rene Haas outlines a pivot toward complex design work on specific products, a &quot;purpose-built approach&quot; to address the needs of clients &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230912/p9#a230912p9)
  - [iPhone 15 models made in India will be sold on launch day for the first time](https://appleinsider.com/articles/23/09/12/iphone-15-models-made-in-india-will-be-sold-on-launch-day-for-the-first-time?utm_medium=rss)
  - [TikTok begins rolling out TikTok Shop to all US users, adding a home screen Shop button that sends users to a marketplace, and already has 200K+ sellers &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230912/p8#a230912p8)
- - [Six years ago, the iPhone X set the table for everything that has come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)
- - [UK digital bank Monzo launches Investments, letting users invest as little as &amp;pound;1 in BlackRock-picked funds, its first foray into the investment market &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230912/p7#a230912p7)<!-- TECH:END -->
+ - [Six years ago, the iPhone X set the table for everything that has come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

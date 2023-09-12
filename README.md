@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
  - 😝 [Ideas for my New Mexico Amigos](http://9gag.com/gag/awZPGwR)
- - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [What the hell happened here](http://9gag.com/gag/ay2ZzXy)
- - 👉 [Can you see their point?](http://9gag.com/gag/aZDoVdW)<!-- MEMES:END -->
+ - 😝 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 💣 [What the hell happened here](http://9gag.com/gag/ay2ZzXy)
+ - 😝 [Can you see their point?](http://9gag.com/gag/aZDoVdW)
+ - 👉 [So how can you measure it without doing weird stuff?](http://9gag.com/gag/aOxAA36)<!-- MEMES:END -->
 
 ---
 </div>

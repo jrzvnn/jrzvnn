@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 is the first phone to &lpar;almost&rpar; support Qi2 charging](https://www.theverge.com/2023/9/12/23870494/qi2-certification-iphone-15-magnetic-charging)
+ - [A recap of the first day of US et al v. Google, as the DOJ argues that the company illegally protected its internet search monopoly via smartphone maker deals &lpar;New York Times&rpar;](http://www.techmeme.com/230912/p51#a230912p51)
+ - [Apple is adding Roadside Assistance via satellite to the iPhone](https://www.theverge.com/2023/9/12/23870328/apple-iphone-roadside-assistance-emergency-sos-satellite-aaa)
  - [Good news, everyone: Apple’s Polishing Cloth supports the iPhone 15 Pro Max](https://www.theverge.com/2023/9/12/23870721/apple-polishing-cloth-iphone-15-pro-max-watch-compatible)
- - [Apple launches Roadside Assistance via satellite in the US, allowing iPhone 15 and iPhone 14 users to text AAA for assistance in areas without cell signal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230912/p50#a230912p50)
- - [Unity has changed its pricing model, and game developers are pissed off](https://www.theverge.com/2023/9/12/23870547/unit-price-change-game-development)
- - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)
- - [iPhone 15 doesn&#39;t come with color-matched cables after all](https://appleinsider.com/articles/23/09/12/iphone-15-doesnt-come-with-color-matched-cables-after-all?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches Roadside Assistance via satellite in the US, allowing iPhone 15 and iPhone 14 users to text AAA for assistance in areas without cell signal &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230912/p50#a230912p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia boosts Starfield performance with GPU driver update](https://www.theverge.com/2023/9/12/23870123/nvidia-starfield-performance-resizable-bar-new-gpu-drivers)
- - [Some of Garmin’s birthday deals are pretty amazing](https://www.androidauthority.com/garmin-birthday-deals-3363516/)
- - [A look at the Huawei Kirin 9000S, the impact on Apple, Qualcomm, and MediaTek, SMIC&#39;s 7nm and future 5nm chips, and potential Western responses to curtail China &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230912/p27#a230912p27)
- - [Save up to $500 on Mac, iPad, Apple Watch with Apple Event deals at Amazon](https://appleinsider.com/articles/23/09/12/save-up-to-500-on-mac-ipad-apple-watch-with-apple-event-deals-at-amazon?utm_medium=rss)
- - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)<!-- TECH:END -->
+ - [Apple leans further into sustainability for Wonderlust with badges made from recycled materials](https://appleinsider.com/articles/23/09/12/apple-leans-further-into-sustainability-for-wonderlust-with-badges-made-from-recycled-materials?utm_medium=rss)
+ - [Apple is ‘unlikely’ to release a new iPad before the end of the year](https://www.theverge.com/2023/9/12/23870096/apple-unlikely-release-new-ipad-2023)
+ - [Lyft now lets drivers prioritize matches with women and nonbinary riders](https://www.theverge.com/2023/9/12/23869996/lyft-women-plus-connect-women-nonbinary-drivers-riders)
+ - [Dbrand says ‘you’ll die before’ its iPhone 15 Pro Ghost Case yellows](https://www.theverge.com/2023/9/12/23869892/dbrand-ghost-case-clear-anti-yellow-iphone-15-pro-max-samsung-galaxy-s23-google-pixel-7)
+ - [iPhone 15 event live blog: all the news from Apple’s keynote](https://www.theverge.com/2023/9/12/23824688/iphone-15-event-live-blog-apple-keynote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

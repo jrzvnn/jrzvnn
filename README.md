@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel makes Thunderbolt 5 official, promising speeds of up to 120Gbps](https://www.theverge.com/2023/9/12/23869802/intel-thunderbolt-5-launch-specs)
  - [Thunderbolt 5 launches with twice the speed of Thunderbolt 4](https://appleinsider.com/articles/23/09/12/thunderbolt-5-launches-with-twice-the-speed-of-thunderbolt-4?utm_medium=rss)
- - [Western Digital now sells SSD upgrade drives for the Steam Deck and ROG Ally](https://www.theverge.com/2023/9/12/23869772/western-digital-m2-2230-ssd-steam-deck-rog-ally)
- - [A live blog of the US et al v. Google trial, which starts today, as the DOJ prepares to argue the company illegally protected its internet search monopoly &lpar;New York Times&rpar;](http://www.techmeme.com/230912/p23#a230912p23)
- - [Apple Watch Series 9 &#39;FineWoven&#39; band leaks hours before event](https://appleinsider.com/articles/23/09/12/apple-watch-series-9-finewoven-band-leaks-hours-before-event?utm_medium=rss)
- - [California passed a first-of-its-kind bill mandating pollution disclosures, including supply chain emissions](https://www.theverge.com/2023/9/12/23869723/california-climate-pollution-disclosures-bill-big-businesses)<!-- TECH:END -->
+ - [The TikTok Shop rolls out in the US](https://www.theverge.com/2023/9/12/23869741/tiktok-shop-available-us-marketplace-e-commerce-amazon)
+ - [Sources describe Apollo&#39;s Yahoo turnaround efforts, including layoffs, asset sales, and new partnerships; Yahoo is on pace to generate $7B in 2023 gross revenue &lpar;Rachel Graf/The Information&rpar;](http://www.techmeme.com/230912/p24#a230912p24)
+ - [Western Digital now sells SSD upgrade drives for the Steam Deck and ROG Ally](https://www.theverge.com/2023/9/12/23869772/western-digital-m2-2230-ssd-steam-deck-rog-ally)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

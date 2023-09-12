@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
- - 😝 [I know how to use them but seriously how was this the best solution for utensils???](http://9gag.com/gag/aGE6rj0)
- - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
+ - 😝 [The raise in price\u2026..](http://9gag.com/gag/aNw8Gr3)
+ - 💣 [No idea when this became a place about sticks but here&#39;s a picture of my wood](http://9gag.com/gag/anz8dYq)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
+ - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
 
 ---
 </div>

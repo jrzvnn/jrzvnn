@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with the iPhone 15, which is noticeably nicer to hold thanks to the matte back and rounded sides &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p44#a230912p44)
+ - [macOS Sonoma arrives on Sept. 26; iOS 17, tvOS 17, watchOS 10 on Sept 18](https://appleinsider.com/articles/23/09/12/macos-sonoma-arrives-on-sept-26-ios-17-tvos-17-watchos-10-on-sept-18?utm_medium=rss)
  - [Here’s where you can preorder the Apple Watch Series 9 and Watch Ultra 2](https://www.theverge.com/23862174/apple-watch-series-9-ultra-2-preorder-buy-price-release-date)
  - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
- - [iPhone 15 Pro hardware-based ray tracing promises more realistic gaming](https://appleinsider.com/articles/23/09/12/iphone-15-pro-hardware-based-ray-tracing-promises-more-realistic-gaming?utm_medium=rss)
- - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [Apple iPhone 15: Release date, price, colors, and more](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)<!-- TECH:END -->
+ - [Apple Announces 5 New iPhone 15 Colors, 4 Titanium iPhone 15 Pro Colors     - CNET](https://www.cnet.com/tech/mobile/apple-announces-5-new-iphone-15-colors-4-titanium-iphone-15-pro-colors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

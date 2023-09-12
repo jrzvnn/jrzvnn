@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 Is Finally Getting USB-C. Here’s What That Means](https://www.wired.com/story/apple-iphone-15-usb-c/)
  - [iPhone 15 Pro Max, Apple Watch Ultra 2, and the rest of the Apple Event, on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-apple-watch-ultra-2-and-the-rest-of-the-apple-event-on-the-appleinsider-podcast?utm_medium=rss)
  - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
  - [France threatens total recall of iPhone 12 over RF power concerns](https://appleinsider.com/articles/23/09/12/france-threatens-total-recall-of-iphone-12-over-rf-power-concerns?utm_medium=rss)
- - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
- - [Apple discontinues its Mini phone, proves that people don’t want small phones](https://www.androidauthority.com/apple-iphone-mini-discontinued-3363739/)<!-- TECH:END -->
+ - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey of 2,203 US adults: 53% say AI misinformation will impact who wins the 2024 election, and 35% say AI will decrease their trust in election ads &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/230911/p29#a230911p29)
  - [Final hours: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,599](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
  - [&#39;Ring of Fire&#39; Eclipse Will Be Visible From 8 States in October     - CNET](https://www.cnet.com/science/ring-of-fire-eclipse-will-be-visible-from-8-states-in-october/#ftag=CAD590a51e)
  - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch, Stream Bills vs. Jets, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-bills-vs-jets-manningcast-without-cable/#ftag=CAD590a51e)
- - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch, Stream Bills vs. Jets, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-bills-vs-jets-manningcast-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

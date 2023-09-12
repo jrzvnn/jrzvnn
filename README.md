@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still Wood](http://9gag.com/gag/aA0qvQo)
- - 😝 [I&#39;m just gonna left it here..](http://9gag.com/gag/avQ4vzM)
- - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
- - 👉 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)<!-- MEMES:END -->
+ - 😝 [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)
+ - 😝 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
+ - 💣 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
+ - 😝 [Savage](http://9gag.com/gag/a5XvxKV)
+ - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
 
 ---
 </div>

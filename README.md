@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
- - 😝 [We go to hell together](http://9gag.com/gag/a8qQvYp)
+ - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 😝 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
  - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Back to where you started](http://9gag.com/gag/aRE9D15)<!-- MEMES:END -->
+ - 👉 [Wtf](http://9gag.com/gag/a1PBx88)<!-- MEMES:END -->
 
 ---
 </div>

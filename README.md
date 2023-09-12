@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 large wine containers &lpar;1 MN liters&rpar; broke yesterday in the town of Levira, Portugal, which led to streets being flooded with wine.](http://9gag.com/gag/anz8dY5)
- - 😝 [-What did you say, b*tch?](http://9gag.com/gag/a8qQnXV)
- - 💣 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
- - 😝 [Savage](http://9gag.com/gag/a5XvxKV)
- - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
+ - 😝 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - 😝 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)
+ - 💣 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 👉 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)<!-- MEMES:END -->
 
 ---
 </div>

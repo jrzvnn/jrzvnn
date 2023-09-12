@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $500 on Mac, iPad, Apple Watch with Apple Event deals at Amazon](https://appleinsider.com/articles/23/09/12/save-up-to-500-on-mac-ipad-apple-watch-with-apple-event-deals-at-amazon?utm_medium=rss)
+ - [Amazon will pay an oil company to help it meet climate goals](https://www.theverge.com/2023/9/12/23869817/amazon-climate-carbon-removal-purchase-occidental-petroleum)
  - [More than Sally Ride: Loren Grush explains how NASA’s first women astronauts changed space](https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex)
  - [US accuses Google of &#39;knowingly&#39; breaking antitrust laws](https://appleinsider.com/articles/23/09/12/us-accuses-google-of-knowingly-breaking-antitrust-laws?utm_medium=rss)
- - [The Fall of the House of Usher looks like it might be Mike Flanagan’s darkest Netflix series yet](https://www.theverge.com/23869977/netflix-the-fall-of-the-house-of-usher-trailer)
- - [Don&#39;t expect any new iPads before 2024, says Kuo](https://appleinsider.com/articles/23/09/12/dont-expect-any-new-ipads-before-2024-says-kuo?utm_medium=rss)
- - [As some supposedly &quot;leaked&quot; Harry Styles songs are being sold on Discord, fans and AI-analysis companies struggle to determine if the clips are AI-generated &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230912/p26#a230912p26)<!-- TECH:END -->
+ - [The Fall of the House of Usher looks like it might be Mike Flanagan’s darkest Netflix series yet](https://www.theverge.com/23869977/netflix-the-fall-of-the-house-of-usher-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

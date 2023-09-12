@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you see their point?](http://9gag.com/gag/aZDoVdW)
- - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
- - 💣 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)
+ - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
+ - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
+ - 💣 [I know how to use them but seriously how was this the best solution for utensils???](http://9gag.com/gag/aGE6rj0)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [No idea when this became a place about sticks but here&#39;s a picture of my wood](http://9gag.com/gag/anz8dYq)<!-- MEMES:END -->
+ - 👉 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)<!-- MEMES:END -->
 
 ---
 </div>

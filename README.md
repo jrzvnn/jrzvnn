@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 Pro and Pro Max are the first smartphones with Thread](https://www.theverge.com/2023/9/12/23870522/iphone-15-pro-max-thread-smartphones)
+ - [Apple’s USB-C AirPods Pro will support lossless audio with the Vision Pro](https://www.theverge.com/2023/9/12/23870723/apple-airpods-pro-usb-c-lossless-audio-vision)
+ - [Roadside Assistance via Satellite provides more help for iPhone users](https://appleinsider.com/articles/23/09/12/roadside-assistance-via-satellite-provides-more-help-for-iphone-15-users?utm_medium=rss)
  - [Washington-based Treasury4, which sells data analytics software for risk management of financial and treasury processes, raised a $20M Series A led by WestCap &lpar;Nate Bek/GeekWire&rpar;](http://www.techmeme.com/230912/p48#a230912p48)
- - [The MagSafe Duo and MagSafe Battery Pack have left the Apple Store](https://www.theverge.com/2023/9/12/23870575/apple-magsafe-duo-battery-pack-discontinued)
- - [Olivia Rodrigo&#39;s latest music video &#39;get him back!&#39; was shot on iPhone 15 Pro](https://appleinsider.com/articles/23/09/12/olivia-rodrigos-latest-music-video-get-him-back-was-shot-on-iphone-15-pro?utm_medium=rss)
- - [How to responsibly get rid of the stuff you’ve decluttered](https://www.theverge.com/22594200/recycle-tech-declutter-environment-green)
- - [The iPhone 15 Is Finally Getting USB-C. Here’s What That Means](https://www.wired.com/story/apple-iphone-15-usb-c/)<!-- TECH:END -->
+ - [The MagSafe Duo and MagSafe Battery Pack have left the Apple Store](https://www.theverge.com/2023/9/12/23870575/apple-magsafe-duo-battery-pack-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel agrees to sell a 10% stake in IMS Nanofabrication to TSMC, valuing IMS at $4.3B, and will retain majority ownership of the standalone subsidiary &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230912/p19#a230912p19)
- - [Lyft announces Women+ Connect, a feature that helps match female drivers with female passengers; riders can still match with men when no women are available &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230912/p18#a230912p18)
- - [How to follow The Verge’s new Tech Cases Bot](https://www.theverge.com/23869657/verge-free-law-project-tech-cases-bot-how-to-follow-x-twitter-mastodon)
- - [The antitrust trial against Google Search starts today — here’s what to expect](https://www.theverge.com/2023/9/12/23868141/google-search-antitrust-trial-what-to-know)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
+ - [Philips Hue’s two-bulb starter kit is on sale with a Hue Bridge for $40 off](https://www.theverge.com/2023/9/12/23868346/philips-hue-smart-bulbs-skullcandy-dime-2-earbuds-elgato-stream-deck-deal-sale)
+ - [How Finnish AI startup Metroc, which helps construction companies find projects, uses prison labor paid &amp;euro;1.54/hour to label data, with widespread public support &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/230912/p20#a230912p20)
+ - [Apple’s India-made iPhones to be available at launch for the first time](https://www.theverge.com/2023/9/12/23869727/apple-iphone-15-india-production-supply-launch-china)
+ - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)
+ - [Rad Power Bikes says it will only produce UL-certified e-bikes and batteries going forward](https://www.theverge.com/2023/9/12/23868264/rad-power-bikes-ul-certification-ebike-battery-fires)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

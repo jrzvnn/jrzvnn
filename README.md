@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [Apple announces the Apple Watch Ultra 2](https://www.theverge.com/2023/9/12/23860255/apple-watch-ultra-2-price-release-date-features)
- - [Apple unveils the Apple Watch Series 9, featuring the S9 chip with a four-core neural engine, 30% faster CPU, Double Tap gesture, and on-device Siri requests &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/230912/p30#a230912p30)
- - [Apple announces Apple Watch Series 9, and it has a handy double tap feature](https://www.theverge.com/2023/9/12/23860234/apple-watch-series-9-price-release-date-features)
- - [Apple’s Vision Pro headset is on track to ship early next year](https://www.theverge.com/2023/9/12/23860400/apple-vision-pro-mixed-reality-headset-release-date)<!-- TECH:END -->
+ - [Apple unveils $799 Apple Watch Ultra 2, with an S9 chip, a second-gen UWB chip, up to 3,000 nits brightness, 36-hour battery, and a new Modular Ultra watch face &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/230912/p31#a230912p31)
+ - [Apple announces iPhone 15 with a big camera upgrade, the Dynamic Island, and more](https://www.theverge.com/2023/9/12/23859779/iphone-15-plus-usb-c-price-release-date-apple)
+ - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
+ - [Apple’s new FineWoven line replaces leather cases and Apple Watch bands](https://www.theverge.com/2023/9/12/23863322/apple-watch-series-9-iphone-15-case-finewoven-fabric-leather)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

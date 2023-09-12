@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
- - [Everything iPhone 15 Pro Action button can do](https://appleinsider.com/articles/23/09/12/everything-iphone-15-pro-action-button-can-do?utm_medium=rss)
- - [Covid Boosters Can’t Outpace New Mutations. Here’s Why They Still Work](https://www.wired.com/story/covid-vaccine-boosters-2023-moderna-pfizer/)<!-- TECH:END -->
+ - [The iPhone 15 Pro and Pro Max will let you film spatial video you can watch on the Vision Pro](https://www.theverge.com/2023/9/12/23870546/iphone-15-pro-max-film-spatial-video-vision-pro)
+ - [Apple quietly admits iPhone 15 series doesn’t improve on battery life](https://www.androidauthority.com/iphone-15-battery-life-3363745/)
+ - [Everything the iPhone 15 Pro Action button can do](https://appleinsider.com/articles/23/09/12/everything-iphone-15-pro-action-button-can-do?utm_medium=rss)
+ - [Just what we needed: another Apple dongle, this time for USB-C to Lightning](https://appleinsider.com/articles/23/09/12/just-what-we-needed-another-apple-dongle-this-time-for-usb-c?utm_medium=rss)
+ - [Hands-on with the iPhone 15 Pro, which is nicer to hold thanks to its curved edges and a lighter titanium frame that was immediately covered in fingerprints &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230912/p46#a230912p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
+ - [Apple iPhone 15 Pro and Pro Max announced with titanium bodies and ultra-thin bezels](https://www.theverge.com/2023/9/12/23859756/iphone-15-pro-max-price-features-release-date-apple)
+ - [Apple&#39;s iPhone 15 features USB-C, the A16 chip from the iPhone 14 Pro, and a second-gen UWB chip; the 6.1&quot; iPhone 15 starts at $799 and 6.7&quot; 15 Plus at $899 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230912/p34#a230912p34)
  - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [Apple killing off plastic packaging by the end of 2024](https://appleinsider.com/articles/23/09/12/apple-killing-off-plastic-packaging-by-the-end-of-2024?utm_medium=rss)
- - [FineWoven is here, as Apple phases out leather in watch bands &amp; cases](https://appleinsider.com/articles/23/09/12/finewoven-is-here-as-apple-phases-out-leather-in-watch-bands-cases?utm_medium=rss)
- - [Apple announces a new FineWoven material for Apple Watch bands, made of 68% post-consumer content, and will no longer use leather for new Apple accessories &lpar;Mitchel Broussard/MacRumors&rpar;](http://www.techmeme.com/230912/p33#a230912p33)
- - [Apple announces iPhone 15, with Dynamic Island, up to 2,000 nits brightness, or twice as bright as iPhone 14, a new 48MP main camera, and more, in five colors &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230912/p32#a230912p32)<!-- TECH:END -->
+ - [Apple reveals iPhone 15 and iPhone 15 Plus with Dynamic Island &amp; USB-C](https://appleinsider.com/articles/23/09/12/apple-reveals-iphone-15-and-iphone-15-plus-with-dynamic-island?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

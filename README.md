@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
- - 💣 [Typical western family](http://9gag.com/gag/a9qZZqZ)
+ - 😝 [Frontlines](http://9gag.com/gag/anz8W05)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Can you see their point?](http://9gag.com/gag/aZDoVdW)<!-- MEMES:END -->
+ - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
 
 ---
 </div>

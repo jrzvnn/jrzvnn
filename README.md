@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases detailed PDFs of iOS 17 and macOS Sonoma features](https://appleinsider.com/articles/23/09/12/apple-releases-detailed-pdfs-of-ios-17-and-macos-sonoma-features?utm_medium=rss)
  - [IPhone 15 and USB-C: Expect a Cable Mess, but It Might Not Bug You     - CNET](https://www.cnet.com/tech/mobile/iphone-15-and-usb-c-expect-a-cable-mess-but-it-might-not-bug-you/#ftag=CAD590a51e)
  - [Lyft now lets drivers prioritize matches with women and nonbinary riders](https://www.theverge.com/2023/9/12/23869996/lyft-women-plus-connect-women-nonbinary-drivers-riders)
  - [Apple&#39;s USB-C AirPods Pro will support 20-bit, 48 kHz lossless audio when used with the upcoming Vision Pro headset &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p52#a230912p52)
- - [The iPhone is getting new ringtones](https://www.theverge.com/2023/9/12/23870868/apple-iphone-ios-17-new-ringtones)
- - [Devialet Gemini II Review: OK but Overpriced](https://www.wired.com/review/review-devialet-gemini-ii-wireless-earphones/)<!-- TECH:END -->
+ - [The iPhone is getting new ringtones](https://www.theverge.com/2023/9/12/23870868/apple-iphone-ios-17-new-ringtones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

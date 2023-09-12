@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
- - 😝 [Relentlessly left](http://9gag.com/gag/aPgzr8g)
- - 💣 [Savage](http://9gag.com/gag/a5XvxKV)
- - 😝 [Can you see their point?](http://9gag.com/gag/aZDoVdW)
- - 👉 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)<!-- MEMES:END -->
+ - 😝 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
+ - 😝 [If this is true, then not all heroes wear capes.](http://9gag.com/gag/ajVGdd0)
+ - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 👉 [Do not touch grapes without consent.](http://9gag.com/gag/aEqyXKo)<!-- MEMES:END -->
 
 ---
 </div>

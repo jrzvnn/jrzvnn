@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel agrees to sell a 10% stake in IMS Nanofabrication to TSMC, valuing IMS at $4.3B, and will retain majority ownership of the standalone subsidiary &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230912/p19#a230912p19)
+ - [Lyft announces Women+ Connect, a feature that helps match female drivers with female passengers; riders can still match with men when no women are available &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230912/p18#a230912p18)
  - [How to follow The Verge’s new Tech Cases Bot](https://www.theverge.com/23869657/verge-free-law-project-tech-cases-bot-how-to-follow-x-twitter-mastodon)
  - [The antitrust trial against Google Search starts today — here’s what to expect](https://www.theverge.com/2023/9/12/23868141/google-search-antitrust-trial-what-to-know)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [MLCommons&#39; MLPerf benchmark, based on a 6B-parameter LLM that summarizes CNN articles, finds Nvidia&#39;s H100s performed best, closely followed by Intel&#39;s Gaudi2 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/230912/p17#a230912p17)
- - [Salesforce announces Einstein Copilot, an AI chatbot for its apps, launching via pilot later in fall, part of its new Einstein 1 Platform &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/230912/p16#a230912p16)<!-- TECH:END -->
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

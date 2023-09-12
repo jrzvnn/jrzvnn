@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
- - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
- - 💣 [Frontlines](http://9gag.com/gag/anz8W05)
+ - 😝 [And that&#39;s how he got paid](http://9gag.com/gag/aBdjX41)
+ - 😝 [Typical western family](http://9gag.com/gag/a9qZZqZ)
+ - 💣 [Awww......](http://9gag.com/gag/a7qPnpL)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Back to where you started](http://9gag.com/gag/aRE9D15)<!-- MEMES:END -->
+ - 👉 [Frontlines](http://9gag.com/gag/anz8W05)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 2 gains S9 chip, brighter screen, and new gesture](https://appleinsider.com/articles/23/09/12/apple-watch-ultra-2-gains-s9-chip-brighter-screen-and-new-gesture?utm_medium=rss)
- - [Apple iPhone 15 Pro and Pro Max announced with titanium bodies and ultra-thin bezels](https://www.theverge.com/2023/9/12/23859756/iphone-15-pro-max-price-features-release-date-apple)
- - [Apple&#39;s iPhone 15 features USB-C, the A16 chip from the iPhone 14 Pro, and a second-gen UWB chip; the 6.1&quot; iPhone 15 starts at $799 and 6.7&quot; 15 Plus at $899 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230912/p34#a230912p34)
- - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [Apple reveals iPhone 15 and iPhone 15 Plus with Dynamic Island &amp; USB-C](https://appleinsider.com/articles/23/09/12/apple-reveals-iphone-15-and-iphone-15-plus-with-dynamic-island?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro Max lands with 5x optical zoom, faster USB-C](https://appleinsider.com/articles/23/09/12/iphone-15-pro-max-lands-with-5x-optical-zoom-faster-usb-c?utm_medium=rss)
+ - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
+ - [Double Tap brings Vision Pro’s coolest feature to the Apple Watch Series 9](https://www.androidauthority.com/apple-announces-apple-watch-series-9-double-tap-feature-3363582/)
+ - [The US sentences Karl Greenwood, who co-founded OneCoin in 2014 alongside Ruja Ignatova, to 20 years and orders him to pay $300M; Greenwood had pleaded guilty &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/230912/p37#a230912p37)
+ - [Apple is adding roadside assistance via satellite to the iPhone](https://www.theverge.com/2023/9/12/23870328/apple-iphone-roadside-assistance-emergency-sos-satellite-aaa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

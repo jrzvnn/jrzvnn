@@ -147,10 +147,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [New FineWoven cases are here to protect your iPhone 15 &amp; iPhone 15 Pro](https://appleinsider.com/articles/23/09/12/new-finewoven-cases-are-here-to-protect-your-iphone-15-iphone-15-pro?utm_medium=rss)
- - [Steam just turned 20 years old and Valve is celebrating](https://www.theverge.com/2023/9/12/23870270/steam-20-birthday-2003-2023)
- - [Apple updates the AirPods Pro 2 with new USB-C charging case](https://www.androidauthority.com/apple-airpods-pro-2-charging-case-3363637/)
- - [Second Gen AirPods Pro get new USB-C case that can be charged by iPhone 15 directly](https://appleinsider.com/articles/23/09/12/second-gen-airpods-pro-get-new-usb-c-case-that-can-be-charged-by-iphone-15-directly?utm_medium=rss)<!-- TECH:END -->
+ - [Apple iPhone 15: Release date, price, colors, and more](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
+ - [iPhone 15 Pro and Pro Max hands-on](https://www.theverge.com/23859793/iphone-15-pro-max-hands-on-pictures-video-apple)
+ - [Apple discontinues the 5.4&quot; iPhone 13 mini, its last flagship with a screen smaller than 6&quot;; the 6.1&quot; iPhone 13 and iPhone 14 remain for sale at $599 and $699 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230912/p43#a230912p43)
+ - [Resident Evil 4 remake is coming to the iPhone 15 Pro](https://www.theverge.com/2023/9/12/23870365/resident-evil-4-remake-iphone-15-pro-assassins-creed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

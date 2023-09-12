@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can preorder the Apple Watch Series 9 and Watch Ultra 2](https://www.theverge.com/23862174/apple-watch-series-9-ultra-2-preorder-buy-price-release-date)
+ - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
+ - [iPhone 15 Pro hardware-based ray tracing promises more realistic gaming](https://appleinsider.com/articles/23/09/12/iphone-15-pro-hardware-based-ray-tracing-promises-more-realistic-gaming?utm_medium=rss)
  - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [Apple iPhone 15: Release date, price, colors, and more](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
- - [iPhone 15 Pro and Pro Max hands-on](https://www.theverge.com/23859793/iphone-15-pro-max-hands-on-pictures-video-apple)
- - [Apple discontinues the 5.4&quot; iPhone 13 mini, its last flagship with a screen smaller than 6&quot;; the 6.1&quot; iPhone 13 and iPhone 14 remain for sale at $599 and $699 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/230912/p43#a230912p43)
- - [Resident Evil 4 remake is coming to the iPhone 15 Pro](https://www.theverge.com/2023/9/12/23870365/resident-evil-4-remake-iphone-15-pro-assassins-creed)<!-- TECH:END -->
+ - [Apple iPhone 15: Release date, price, colors, and more](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

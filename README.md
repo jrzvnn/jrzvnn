@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ideas for my New Mexico Amigos](http://9gag.com/gag/awZPGwR)
- - 😝 [I\u2019m going to have a heart surgery tomorrow morning. Please wish me luck.](http://9gag.com/gag/aXnQ2Gv)
- - 💣 [Some booty traps used in the Vietnam War](http://9gag.com/gag/aNw83O3)
- - 😝 [What the hell happened here](http://9gag.com/gag/ay2ZzXy)
- - 👉 [Can you see their point?](http://9gag.com/gag/aZDoVdW)<!-- MEMES:END -->
+ - 😝 [Frontlines](http://9gag.com/gag/anz8W05)
+ - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
+ - 💣 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 👉 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)<!-- MEMES:END -->
 
 ---
 </div>

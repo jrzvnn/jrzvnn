@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If this is true, then not all heroes wear capes.](http://9gag.com/gag/ajVGdd0)
- - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
- - 💣 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)
  - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - 👉 [Wait for it...](http://9gag.com/gag/adPrewD)<!-- MEMES:END -->
+ - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
+ - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
+ - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The scooter wars might be over, as Lime claims victory](https://www.theverge.com/2023/9/12/23864737/lime-profit-h1-2023-scooter-gross-booking-free-cash)
  - [The Internet Archive appeals a US judge&#39;s decision in March 2023 favoring publishers in a copyright infringement case over the nonprofit&#39;s ebook lending program &lpar;Andrew Albanese/Publishers Weekly&rpar;](http://www.techmeme.com/230911/p30#a230911p30)
  - [YouTube Music working on HomePod integration](https://appleinsider.com/articles/23/09/12/youtube-music-working-on-homepod-integration?utm_medium=rss)
  - [Survey of 2,203 US adults: 53% say AI misinformation will impact who wins the 2024 election, and 35% say AI will decrease their trust in election ads &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/230911/p29#a230911p29)
- - [Final hours: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,599](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)
- - [&#39;Ring of Fire&#39; Eclipse Will Be Visible From 8 States in October     - CNET](https://www.cnet.com/science/ring-of-fire-eclipse-will-be-visible-from-8-states-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Final hours: get a loaded M1 Max MacBook Pro 16-inch &lpar;64GB, 2TB&rpar; for $2,599](https://appleinsider.com/articles/23/09/11/extended-for-1-day-get-a-loaded-m1-max-macbook-pro-16-inch-64gb-2tb-for-2799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

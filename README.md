@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro gets direct record to external storage, but iPhone 15 has Lightning speeds](https://appleinsider.com/articles/23/09/12/iphone-15-pro-gets-direct-record-to-external-storage-but-iphone-15-has-lightning-speeds?utm_medium=rss)
+ - [Everything Apple Announced &lpar;September 2023&rpar;: iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra, AirPods Pro 2](https://www.wired.com/story/everything-apple-announced-september-2023-iphone-15-apple-watch-series-9/)
+ - [Apple issues release candidates for iOS 17, iPadOS 17, tvOS 17, watchOS 10](https://appleinsider.com/articles/23/09/12/apple-issues-release-candidates-for-ios-17-ipados-17-tvos-17-watchos-10?utm_medium=rss)
  - [Hands-on with the iPhone 15, which is noticeably nicer to hold thanks to the matte back and rounded sides &lpar;The Verge&rpar;](http://www.techmeme.com/230912/p44#a230912p44)
- - [macOS Sonoma arrives on Sept. 26; iOS 17, tvOS 17, watchOS 10 on Sept 18](https://appleinsider.com/articles/23/09/12/macos-sonoma-arrives-on-sept-26-ios-17-tvos-17-watchos-10-on-sept-18?utm_medium=rss)
- - [Here’s where you can preorder the Apple Watch Series 9 and Watch Ultra 2](https://www.theverge.com/23862174/apple-watch-series-9-ultra-2-preorder-buy-price-release-date)
- - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
- - [Apple Announces 5 New iPhone 15 Colors, 4 Titanium iPhone 15 Pro Colors     - CNET](https://www.cnet.com/tech/mobile/apple-announces-5-new-iphone-15-colors-4-titanium-iphone-15-pro-colors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [macOS Sonoma arrives on Sept. 26; iOS 17, tvOS 17, watchOS 10 on Sept 18](https://appleinsider.com/articles/23/09/12/macos-sonoma-arrives-on-sept-26-ios-17-tvos-17-watchos-10-on-sept-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

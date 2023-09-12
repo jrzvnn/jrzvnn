@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frontlines](http://9gag.com/gag/anz8W05)
- - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
- - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
+ - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
+ - 😝 [Typical western family](http://9gag.com/gag/a9qZZqZ)
+ - 💣 [Can you see their point?](http://9gag.com/gag/aZDoVdW)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Awww......](http://9gag.com/gag/a7qPnpL)<!-- MEMES:END -->
+ - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
 
 ---
 </div>

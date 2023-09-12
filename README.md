@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6.1&quot; iPhone 15 Pro starts at $999 for the 128GB model, same as the iPhone 14 Pro, and the 6.7&quot; iPhone 15 Pro Max starts at $1,199 for the 256GB model &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230912/p40#a230912p40)
+ - [Apple kills the iPhone Mini](https://www.theverge.com/2023/9/12/23868428/iphone-13-mini-lineup-discontinued-apple-event)
+ - [Apple’s iPhone 15 Pro Max now costs more — but also has double the storage](https://www.theverge.com/2023/9/12/23860503/iphone-15-price-increase-pro-max-apple)
  - [Titanium iPhone 15 Pro has new Action button, faster processor](https://appleinsider.com/articles/23/09/12/titanium-iphone-15-pro-has-new-action-button-faster-processor?utm_medium=rss)
- - [Apple announces a USB-C charging case for AirPods Pro, letting iPhone 15 owners use the same cable to charge both devices, and new wired EarPods with USB-C &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p39#a230912p39)
- - [A17 Pro features 6 CPU cores, with 2 performance cores that are 10% faster, a redesigned GPU that&#39;s up to 20% faster, and the Neural Engine is almost 2x as fast &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230912/p38#a230912p38)
- - [Don&#39;t miss Spigen&#39;s iPhone 15 Pro and iPhone 15 Pro Max case lineup](https://appleinsider.com/articles/23/09/12/dont-miss-spigens-iphone-15-pro-and-iphone-15-pro-max-case-lineup?utm_medium=rss)
- - [Roadside Assistance via Satellite provides more help for iPhone 15 users](https://appleinsider.com/articles/23/09/12/roadside-assistance-via-satellite-provides-more-help-for-iphone-15-users?utm_medium=rss)<!-- TECH:END -->
+ - [Apple announces a USB-C charging case for AirPods Pro, letting iPhone 15 owners use the same cable to charge both devices, and new wired EarPods with USB-C &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p39#a230912p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

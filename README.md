@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3y/o toddler saves his dad](http://9gag.com/gag/a9qZNQK)
- - 😝 [Typical western family](http://9gag.com/gag/a9qZZqZ)
- - 💣 [Can you see their point?](http://9gag.com/gag/aZDoVdW)
+ - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
+ - 😝 [We go to hell together](http://9gag.com/gag/a8qQvYp)
+ - 💣 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [It is unknown how much more forest fires there would be in the world if not for birds\ud83d\udc40](http://9gag.com/gag/aOxAjBE)<!-- MEMES:END -->
+ - 👉 [Back to where you started](http://9gag.com/gag/aRE9D15)<!-- MEMES:END -->
 
 ---
 </div>

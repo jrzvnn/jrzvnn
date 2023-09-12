@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Galaxy S23 series outselling S22 series, and S24 series could go bigger](https://www.androidauthority.com/samsung-galaxy-s23-sales-3363482/)
- - [Trade in your used iPhone, Apple Watch &amp; get bonus cash ahead of the iPhone 15 Apple event](https://appleinsider.com/articles/23/09/03/trade-in-your-used-iphone-apple-watch-get-bonus-cash-ahead-of-the-apple-event?utm_medium=rss)
- - [Find the best USB-C charger for your iPhone 15](https://appleinsider.com/inside/iphone-15/best/find-the-best-usb-c-charger-for-your-iphone-15?utm_medium=rss)
- - [10 years ago, Apple finally convinced us to lock our phones](https://www.theverge.com/23868464/apple-iphone-touch-id-fingerprint-security-ten-year-anniversary)
- - [Intel makes Thunderbolt 5 official, promising speeds of up to 120Gbps](https://www.theverge.com/2023/9/12/23869802/intel-thunderbolt-5-launch-specs)<!-- TECH:END -->
+ - [tvOS 17: Release date, features, and compatibility](https://www.androidauthority.com/apple-tvos-17-3362182/)
+ - [Daily deals Sept. 12: $120 off iPad Air, $150 off M2 Pro Mac mini, Samsung phones from $120, more](https://appleinsider.com/articles/23/09/12/daily-deals-sept-12-120-off-ipad-air-150-off-m2-pro-mac-mini-samsung-phones-from-120-more?utm_medium=rss)
+ - [Bio: before the Twitter takeover, Musk promised Jack Dorsey that, if Dorsey ever needed cash, he would buy Dorsey&#39;s Twitter stock at the $54.20 takeover price &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230912/p25#a230912p25)
+ - [Samsung Galaxy S24 production info points to early launch](https://www.androidauthority.com/samsung-galaxy-s24-early-launch-3363485/)
+ - [AI-Powered ‘Thought Decoders’ Won’t Just Read Your Mind—They’ll Change It](https://www.wired.com/story/ai-thought-decoder-mind-philosophy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

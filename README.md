@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
- - 😝 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)
- - 💣 [This is prince Harry next to his mom Diana\u2019s driving instructor](http://9gag.com/gag/a2K9LMZ)
- - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 👉 [Isn&#39;t it obvious?](http://9gag.com/gag/aPgzQOw)<!-- MEMES:END -->
+ - 😝 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
+ - 😝 [Back to where you started](http://9gag.com/gag/aRE9D15)
+ - 💣 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 😝 [Awww......](http://9gag.com/gag/a7qPnpL)
+ - 👉 [Lot of flex](http://9gag.com/gag/avQ4doq)<!-- MEMES:END -->
 
 ---
 </div>

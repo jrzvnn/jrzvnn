@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
+ - [California passes right-to-repair act guaranteeing seven years of parts for your phone](https://www.theverge.com/2023/9/13/23871712/california-right-to-repair-act-sb-244)
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
  - [Google’s Pixel 7 Pro is matching its best price yet](https://www.theverge.com/2023/9/13/23869901/google-pixel-7-pro-eufy-security-smarttrack-card-apple-watch-series-8-deal-sale)
- - [How to control your Apple Watch hands-free with Assistive Touch](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)
- - [Former FaZe Clan staff describe mismanagement, including expanding into unprofitable categories, at the creator collective; FaZe fired its CEO on September 9 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230913/p33#a230913p33)
- - [Apple sneaks in very old devices into iPhone 15 event video -- and omits one, too](https://appleinsider.com/articles/23/09/13/apple-sneaks-in-very-old-devices-into-iphone-15-event-video----and-omits-one-too?utm_medium=rss)
- - [Apple TV+ sci-fi hit &#39;For All Mankind&#39; launches fourth season in November](https://appleinsider.com/articles/23/09/13/apple-tv-sci-fi-hit-for-all-mankind-launches-fourth-season-in-november?utm_medium=rss)<!-- TECH:END -->
+ - [How to control your Apple Watch hands-free with Assistive Touch](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

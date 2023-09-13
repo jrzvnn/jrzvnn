@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)
+ - [Spotify will let artists pay to appear as homescreen recommendations](https://www.theverge.com/2023/9/13/23872199/spotify-showcase-sponsored-recommendations-home-feed-artists)
  - [One UI 5.1.1 is causing Pokemon Go to crash on Samsung Galaxy devices](https://www.androidauthority.com/one-ui-pokemon-go-issues-3364083/)
- - [How the new iPhone 15 models differ from one another &lpar;and the iPhone 14&rpar;](https://www.theverge.com/23860594/iphone-15-vs-14-plus-pro-max-comparison-specs-price-apple)
- - [Google adds Prime Video and bunch of other stuff to cars with native Android software](https://www.theverge.com/2023/9/13/23872249/google-built-in-android-auto-webex-zoom-prime-video)
- - [An actively exploited flaw in the WebP codec&#39;s library libwebp leads to updates for Chrome, Firefox, Brave, Edge, and more; many non-browser apps are affected &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/230913/p37#a230913p37)
- - [MGM Resorts&#39; website is still down more than 60 hours after it was hit by a cyberattack, as ransomware-as-a-service group ALPHV reportedly claims credit &lpar;Suzanne Rowan Kelleher/Forbes&rpar;](http://www.techmeme.com/230913/p36#a230913p36)<!-- TECH:END -->
+ - [Mila Kunis and Ashton Kutcher’s Stoner Cats NFTs must sober up, SEC orders](https://www.theverge.com/2023/9/13/23872048/stoner-cats-nft-sec-mila-kunis-ashton-kutcher)
+ - [How the new iPhone 15 models differ from one another &lpar;and the iPhone 14&rpar;](https://www.theverge.com/23860594/iphone-15-vs-14-plus-pro-max-comparison-specs-price-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

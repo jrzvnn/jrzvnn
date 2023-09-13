@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Army says Microsoft&#39;s improved HoloLens-based combat goggles passed their first round of intensive testing by soldiers, ahead of a key 2025 evaluation &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230913/p30#a230913p30)
  - [Xbox Game Pass Core is launching with 36 games this week](https://www.theverge.com/2023/9/13/23871737/xbox-game-pass-core-36-games-release-date)
  - [The Galaxy S23 Plus is $300 off in this sensational 24-hour deal](https://www.androidauthority.com/galaxy-s23-plus-deal-3363968/)
  - [Global Crypto Adoption Index: India, Nigeria, Vietnam, the US, and Ukraine make the top five for grassroots adoption, as Central and Southern Asia dominates &lpar;Chainalysis&rpar;](http://www.techmeme.com/230913/p29#a230913p29)
- - [Stability AI releases AI audio platform](https://www.theverge.com/2023/9/13/23871635/stability-ai-generative-audio-model-platform)
- - [Nintendo announces Direct showcase for this winter’s Switch games](https://www.theverge.com/2023/9/13/23871713/nintendo-direct-fall-2023-switch-winter-games)<!-- TECH:END -->
+ - [Stability AI releases AI audio platform](https://www.theverge.com/2023/9/13/23871635/stability-ai-generative-audio-model-platform)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

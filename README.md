@@ -156,10 +156,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 😝 [The one and only](http://9gag.com/gag/ay2Zm18)
- - 💣 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
+ - 😝 [Typical western family](http://9gag.com/gag/a9qZZqZ)
+ - 💣 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)<!-- MEMES:END -->
+ - 👉 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)<!-- MEMES:END -->
 
 ---
 </div>

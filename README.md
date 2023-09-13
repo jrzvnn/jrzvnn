@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
  - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 😝 [The one and only](http://9gag.com/gag/ay2Zm18)
  - 💣 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)<!-- MEMES:END -->
+ - 👉 [Best pranks are those that punish the wicked!](http://9gag.com/gag/a04zOoQ)<!-- MEMES:END -->
 
 ---
 </div>

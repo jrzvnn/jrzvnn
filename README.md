@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LAist employees clash over Bari Weiss ad campaign](https://www.theverge.com/2023/9/13/23872701/laist-free-press-ad-campaign-controversy)
  - [Update everything: Chrome, Firefox, Brave, and Edge just patched a big flaw](https://www.theverge.com/2023/9/13/23872484/chrome-firefox-brave-edge-security-update-webp-vulnerability)
  - [Google’s emoji mashup maker is now available in Search](https://www.theverge.com/2023/9/13/23872618/google-emoji-kitchen-search-web-availability)
  - [Arm prices its 95.5M shares at $51 a piece, raising $4.87B in 2023&#39;s largest IPO so far and giving the company a fully diluted valuation of ~$54.5B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230913/p44#a230913p44)
- - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
- - [Apple iPhone 15 vs. iPhone 15 Pro: Every Difference Between the New Phones     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-15-vs-iphone-15-pro-every-difference-between-the-new-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

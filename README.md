@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe makes Firefly generally and commercially available in Creative Cloud and other services, and announces &quot;generative credits&quot; to charge for Firefly access &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230913/p27#a230913p27)
  - [Researchers: the iPhone of Meduza journalist Galina Timchenko was infected with Pegasus in Germany, the first known case of its use against a Russian journalist &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/230913/p26#a230913p26)
  - [Adobe’s Firefly generative AI tools are now widely available](https://www.theverge.com/2023/9/13/23871537/adobe-firefly-generative-ai-model-general-availability-launch-date-price)
  - [WhatsApp rolls out Channels to users in over 150 countries, after introducing the broadcast feature in June 2023 in Colombia and Singapore, and adds features &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p25#a230913p25)
- - [Does the Apple iPhone 15 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/apple-iphone-15-esim-dual-sim-3363295/)
- - [WhatsApp is widely rolling out its Telegram-like Channels feature](https://www.theverge.com/2023/9/13/23871553/whatsapp-telegram-channels-feature-global-rollout)<!-- TECH:END -->
+ - [Does the Apple iPhone 15 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/apple-iphone-15-esim-dual-sim-3363295/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

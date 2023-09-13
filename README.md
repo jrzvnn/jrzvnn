@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wedbush raises Apple price target to $240 after impressive iPhone 15 event](https://appleinsider.com/articles/23/09/13/wedbush-raises-apple-price-target-to-240-after-impressive-iphone-15-event?utm_medium=rss)
+ - [After France ordered Apple to step selling the iPhone 12 due to radiation levels, Apple says the device was certified by multiple bodies as radiation compliant &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p20#a230913p20)
  - [Mozilla releases an emergency security update to fix a critical zero-day vulnerability exploited in the wild, impacting Firefox and its Thunderbird email client &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230913/p19#a230913p19)
  - [Apple&#39;s &#39;Mother Nature&#39; sketch was a complete dud, and didn&#39;t belong in the iPhone 15 event](https://appleinsider.com/articles/23/09/13/apples-mother-nature-sketch-was-a-complete-dud-and-didnt-belong-in-the-iphone-15-event?utm_medium=rss)
- - [Sony releases a PS5 software update, including adding Dolby Atmos support, using a second controller as an &quot;assist controller&quot;, and support for up to 8TB SSDs &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/230913/p18#a230913p18)
- - [iPhone 15 series battery life and charging speeds: How long does it last?](https://www.androidauthority.com/apple-iphone-15-battery-life-charging-speeds-3363856/)
- - [Scientists Say You’re Looking for Alien Civilizations All Wrong](https://www.wired.com/story/scientists-say-youre-looking-for-alien-civilizations-all-wrong/)<!-- TECH:END -->
+ - [Sony releases a PS5 software update, including adding Dolby Atmos support, using a second controller as an &quot;assist controller&quot;, and support for up to 8TB SSDs &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/230913/p18#a230913p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

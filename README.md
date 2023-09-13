@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iOS 17 feature will help users rely more on renewable energy](https://appleinsider.com/articles/23/09/13/new-ios-17-feature-will-help-users-rely-more-on-renewable-energy?utm_medium=rss)
  - [Hermes isn&#39;t following Apple&#39;s lead, releases new array of leather Apple Watch bands](https://appleinsider.com/articles/23/09/13/hermes-isnt-following-apples-lead-releases-new-array-of-leather-apple-watch-bands?utm_medium=rss)
  - [The iPhone 15 could borrow this Android feature to improve battery health](https://www.androidauthority.com/apple-iphone-15-battery-charging-feature-3363920/)
  - [Apple does not plan to sell the new AirPods USB-C charging case as a standalone product; users will instead need to buy a whole new $249 pair &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230913/p24#a230913p24)
- - [Adobe Premiere Pro can now automatically remove your ‘ums’ and background noise](https://www.theverge.com/2023/9/13/23871459/adobe-premiere-pro-after-effects-updates-video-audio-apps)
- - [The best Apple iPhone 15 Pro Max cases you can buy at launch](https://www.androidauthority.com/best-apple-iphone-15-pro-max-cases-3363376/)<!-- TECH:END -->
+ - [Adobe Premiere Pro can now automatically remove your ‘ums’ and background noise](https://www.theverge.com/2023/9/13/23871459/adobe-premiere-pro-after-effects-updates-video-audio-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

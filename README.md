@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Pixel 7 Pro is matching its best price yet](https://www.theverge.com/2023/9/13/23869901/google-pixel-7-pro-eufy-security-smarttrack-card-apple-watch-series-8-deal-sale)
+ - [How to control your Apple Watch hands-free with Assistive Touch](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)
+ - [Former FaZe Clan staff describe mismanagement, including expanding into unprofitable categories, at the creator collective; FaZe fired its CEO on September 9 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230913/p33#a230913p33)
  - [Apple sneaks in very old devices into iPhone 15 event video -- and omits one, too](https://appleinsider.com/articles/23/09/13/apple-sneaks-in-very-old-devices-into-iphone-15-event-video----and-omits-one-too?utm_medium=rss)
- - [Apple TV+ sci-fi hit &#39;For All Mankind&#39; launches fourth season in November](https://appleinsider.com/articles/23/09/13/apple-tv-sci-fi-hit-for-all-mankind-launches-fourth-season-in-november?utm_medium=rss)
- - [Documents: Starlink reported $1.4B in revenue in 2022, up from $222M in 2021, falling short of Elon Musk&#39;s 2015 projections, as some question its future growth &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230913/p32#a230913p32)
- - [Starfield is getting DLSS, an FOV slider, and ultrawide monitor support](https://www.theverge.com/2023/9/13/23871869/starfield-dlss-support-fov-slider-ultrawide-monitor-support)
- - [People keep swallowing AirPods and we’re really concerned](https://www.androidauthority.com/woman-swallows-airpods-3363985/)<!-- TECH:END -->
+ - [Apple TV+ sci-fi hit &#39;For All Mankind&#39; launches fourth season in November](https://appleinsider.com/articles/23/09/13/apple-tv-sci-fi-hit-for-all-mankind-launches-fourth-season-in-november?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

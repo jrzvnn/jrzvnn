@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago-based Kin Insurance, which uses thousands of data points to provide personalized home insurance, raised a $33M Series D extension at a $1B+ valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230913/p42#a230913p42)
- - [Faze Clan fires CEO as esports industry struggles](https://www.theverge.com/2023/9/13/23872288/faze-clan-lee-trink-ceo-fired-news)
- - [SpaceX’s Starlink made $1.4 billion last year](https://www.theverge.com/2023/9/13/23872244/spacex-starlink-revenue-customer-base-elon-musk)
- - [Apple Watch Series 9 vs Apple Watch Series 8 - compared](https://appleinsider.com/articles/23/09/13/apple-watch-series-9-vs-apple-watch-series-8---compared?utm_medium=rss)
- - [Sources: Arm shares are expected to be priced at as much as $52 per share, above the prior IPO range of $47-$51 a share, giving Arm a valuation of ~$54B &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p41#a230913p41)<!-- TECH:END -->
+ - [Inexplicably, there are two indistinguishable models of second generation AirPods Pro](https://appleinsider.com/articles/23/09/13/inexplicably-there-are-two-indistinguishable-models-of-second-generation-airpods-pro?utm_medium=rss)
+ - [Apple Watch Series 8 vs Watch Series 9: Which is the better buy?](https://www.androidauthority.com/apple-watch-series-8-vs-watch-series-9-3363361/)
+ - [11 Great Deals From Samsung&#39;s Fall Sale: Galaxy Z Flip5, Galaxy Tab S9, and More](https://www.wired.com/story/midweek-deals-september-13-2023/)
+ - [US Senate&#39;s AI Insight Forum: Musk warns of AI risks, Zuckerberg defends open source, all guests agree the US needs to play a role in regulating AI, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230913/p43#a230913p43)
+ - [Chicago-based Kin Insurance, which uses thousands of data points to provide personalized home insurance, raised a $33M Series D extension at a $1B+ valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230913/p42#a230913p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

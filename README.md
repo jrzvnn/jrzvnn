@@ -149,8 +149,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple Watch Series 6 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-6-vs-watch-series-9-3363356/)
  - [Bio: Elon Musk told Bari Weiss that Twitter needs to be careful when discussing China due to Tesla&#39;s business, and that China&#39;s Uyghur repression has two sides &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/230913/p35#a230913p35)
  - [California Bill Requiring Bidirectional Charging in All EVs Is Defeated in State Assembly     - CNET](https://www.cnet.com/roadshow/news/california-bill-requiring-bidirectional-charging-in-all-evs-is-defeated-in-state-assembly/#ftag=CAD590a51e)
- - [Best Cordless Vacuums for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok has quietly been inserting Wikipedia snippets into search results](https://www.theverge.com/2023/9/13/23871880/tiktok-search-engine-wikipedia-snippets-google)
+ - [Best Cordless Vacuums for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

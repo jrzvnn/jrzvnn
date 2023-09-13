@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WAIT \u2014 did we hear this guy right? Did he just sit on a stage and say the world economy is being purposefully manipulated to impose financial pain on purpose to manipulate the people back into submission???](http://9gag.com/gag/aYVZ5r7)
- - 😝 [Women have it so hard](http://9gag.com/gag/abvKD7B)
- - 💣 [9gag I&#39;m not asking you to take sides, but I&#39;m asking you to takes sides](http://9gag.com/gag/aZDo5R3)
- - 😝 [Title is geh like op](http://9gag.com/gag/a9qZ0qZ)
- - 👉 [Who this gangster?](http://9gag.com/gag/aBdjM8P)<!-- MEMES:END -->
+ - 😝 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)
+ - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 💣 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)
+ - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 👉 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)<!-- MEMES:END -->
 
 ---
 </div>

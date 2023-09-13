@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iPhone 15 Pro bests all Android phones in future smart home preparedness](https://www.androidauthority.com/apple-iphone-15-pro-thread-support-3363846/)
+ - [Xcode 15 Release Candidate files show iPhone 15 and 15 Plus have 6GB of RAM and iPhone 15 Pro and 15 Pro Max have 8GB of RAM, a 2GB increase for the Pro models &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230913/p2#a230913p2)
  - [Mumbai-based Kale Logistics, which offers cloud-based tools to assist airports, seaports, and others with logistics, raised a $30M Series B led by Creaegis &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230913/p1#a230913p1)
  - [Court filing: the US DOJ claims Elon Musk repeatedly made decisions that likely ran afoul of a 2022 FTC order restricting Twitter&#39;s data security practices &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p57#a230912p57)
- - [Alibaba opens its AI model Tongyi Qianwen to the public and plans to make an open source version available for free commercial use &quot;by the whole society&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/230912/p56#a230912p56)
- - [iPhone 15 Pro and Pro Max Hands-On: Titanium Frame, 5x Zoom Camera and Spatial Video     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-and-pro-max-hands-on-titanium-frame-5x-zoom-camera-and-spatial-video/#ftag=CAD590a51e)
- - [Bucharest-based Druid, which offers a conversational AI service to companies, raised a $30M Series B led by TQ Ventures, taking its total funding to ~$50M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230912/p55#a230912p55)<!-- TECH:END -->
+ - [Alibaba opens its AI model Tongyi Qianwen to the public and plans to make an open source version available for free commercial use &quot;by the whole society&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/230912/p56#a230912p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

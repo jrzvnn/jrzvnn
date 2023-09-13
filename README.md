@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These are the best iPhone 15 chargers you can buy right now](https://www.androidauthority.com/best-apple-iphone-15-chargers-3363259/)
  - [A look at the &quot;hectic evolution&quot; of Steam, 20 years after Valve launched the beta, as rivals like the Epic Games Store and Itch.io fail to make much of a dent &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/230913/p9#a230913p9)
  - [The widely diverging ideas and approaches on how to regulate the AI models across the world risk tying the AI industry up in red tape &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p8#a230913p8)
  - [The AI Hype Train Has Stalled in China](https://www.wired.com/story/ai-hype-train-stalled-in-china/)
- - [Solidus Labs: wash trading on Ethereum-based decentralized exchanges amounted to at least $2B worth of cryptocurrencies since September 2020 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230913/p7#a230913p7)
- - [Symantec: Chinese cyberespionage group Redfly used the ShadowPad trojan to compromise a national grid in an Asian country from February 28 until August 3, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230913/p6#a230913p6)<!-- TECH:END -->
+ - [Solidus Labs: wash trading on Ethereum-based decentralized exchanges amounted to at least $2B worth of cryptocurrencies since September 2020 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230913/p7#a230913p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China claims to have noticed &quot;some security incidents concerning Apple phones&quot;, without elaborating, after the government reportedly curtails staff iPhone use &lpar;Philip Glamann/Bloomberg&rpar;](http://www.techmeme.com/230913/p11#a230913p11)
  - [Q&amp;A with Alexandr Wang, co-founder of Scale AI that has contracts with the DoD, on why US technologists should help preserve US military and economic leadership &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230913/p10#a230913p10)
  - [These are the best iPhone 15 chargers you can buy right now](https://www.androidauthority.com/best-apple-iphone-15-chargers-3363259/)
  - [A look at the &quot;hectic evolution&quot; of Steam, 20 years after Valve launched the beta, as rivals like the Epic Games Store and Itch.io fail to make much of a dent &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/230913/p9#a230913p9)
- - [The widely diverging ideas and approaches on how to regulate the AI models across the world risk tying the AI industry up in red tape &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p8#a230913p8)
- - [The AI Hype Train Has Stalled in China](https://www.wired.com/story/ai-hype-train-stalled-in-china/)<!-- TECH:END -->
+ - [The widely diverging ideas and approaches on how to regulate the AI models across the world risk tying the AI industry up in red tape &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p8#a230913p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Game Pass Core is launching with 36 games this week](https://www.theverge.com/2023/9/13/23871737/xbox-game-pass-core-36-games-release-date)
+ - [The Galaxy S23 Plus is $300 off in this sensational 24-hour deal](https://www.androidauthority.com/galaxy-s23-plus-deal-3363968/)
+ - [Global Crypto Adoption Index: India, Nigeria, Vietnam, the US, and Ukraine make the top five for grassroots adoption, as Central and Southern Asia dominates &lpar;Chainalysis&rpar;](http://www.techmeme.com/230913/p29#a230913p29)
  - [Stability AI releases AI audio platform](https://www.theverge.com/2023/9/13/23871635/stability-ai-generative-audio-model-platform)
- - [Nintendo announces Direct showcase for this winter’s Switch games](https://www.theverge.com/2023/9/13/23871713/nintendo-direct-fall-2023-switch-winter-games)
- - [The anti-hate group sued by Musk releases another damning report on X](https://www.theverge.com/2023/9/13/23871528/anti-hate-research-group-ccdh-elon-musk-x-research-twitter)
- - [Apple’s smart home app can now tell you when you’re using clean energy](https://www.theverge.com/2023/9/12/23871008/grid-forecast-apple-home-ios17)
- - [Google’s Find My Device 3.0 has a fresh look, hints at upcoming features](https://www.theverge.com/2023/9/13/23871544/google-find-my-device-3-0-icon-bluetooth-trackers)<!-- TECH:END -->
+ - [Nintendo announces Direct showcase for this winter’s Switch games](https://www.theverge.com/2023/9/13/23871713/nintendo-direct-fall-2023-switch-winter-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

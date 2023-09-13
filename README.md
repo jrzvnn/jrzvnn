@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI announces text-to-audio tool Stable Audio, available for free for 20 songs and 20-second tracks or $12/month for 500 songs and 90-second tracks &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/230913/p28#a230913p28)
+ - [Quan Millz Was the Biggest Mystery on TikTok. Until Now](https://www.wired.com/story/quan-millz-tiktok-street-lit/)
+ - [Nine wild details from the new Elon Musk biography](https://www.theverge.com/23871530/elon-musk-biography-twitter-acquisition)
  - [Woman swallowed her AirPod after mistaking it for a vitamin](https://appleinsider.com/articles/23/09/13/woman-swallowed-her-airpod-after-mistaking-it-for-a-vitamin?utm_medium=rss)
- - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
- - [Baldur’s Gate 3 on PS5 is a technically complicated but still enjoyable experience](https://www.theverge.com/23861883/baldurs-gate-3-ps5-technical-review)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-13-2023-3362467/)
- - [Ring’s new Pet Tag puts a QR code on your dog or cat’s collar to help if they go missing](https://www.theverge.com/2023/9/13/23871446/ring-pet-tag-qr-code-dog-cat-collar-missing)<!-- TECH:END -->
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

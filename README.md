@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
+ - [iPhone 15 vs iPhone 14 -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-vs-iphone-14----specs-price-and-features-compared?utm_medium=rss)
  - [VideoAmp, which offers audience and ad measurement tools, raised a $150M Series G from Vista Credit Partners at the same $1.4B valuation as its Series F in 2021 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/230913/p21#a230913p21)
  - [Wedbush raises Apple price target to $240 after impressive iPhone 15 event](https://appleinsider.com/articles/23/09/13/wedbush-raises-apple-price-target-to-240-after-impressive-iphone-15-event?utm_medium=rss)
- - [After France ordered Apple to step selling the iPhone 12 due to radiation levels, Apple says the device was certified by multiple bodies as radiation compliant &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p20#a230913p20)
- - [Mozilla releases an emergency security update to fix a critical zero-day vulnerability exploited in the wild, impacting Firefox and its Thunderbird email client &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230913/p19#a230913p19)
- - [Apple&#39;s &#39;Mother Nature&#39; sketch was a complete dud, and didn&#39;t belong in the iPhone 15 event](https://appleinsider.com/articles/23/09/13/apples-mother-nature-sketch-was-a-complete-dud-and-didnt-belong-in-the-iphone-15-event?utm_medium=rss)<!-- TECH:END -->
+ - [After France ordered Apple to stop selling the iPhone 12 due to radiation levels, Apple says the device was certified by multiple bodies as radiation compliant &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p20#a230913p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US spokesman behind on the news pours gas on seemingly settled China iPhone ban](https://appleinsider.com/articles/23/09/13/us-spokesman-behind-on-the-news-pours-gas-on-seemingly-settled-china-iphone-ban?utm_medium=rss)
  - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
+ - [Apple iPhone 15 vs. iPhone 15 Pro: Every Difference Between the New Phones     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-15-vs-iphone-15-pro-every-difference-between-the-new-phones/#ftag=CAD590a51e)
+ - [US spokesman behind on the news pours gas on seemingly settled China iPhone ban](https://appleinsider.com/articles/23/09/13/us-spokesman-behind-on-the-news-pours-gas-on-seemingly-settled-china-iphone-ban?utm_medium=rss)
  - [Tech leaders want ‘balanced’ AI regulation in private Senate meeting](https://www.theverge.com/2023/9/13/23872478/ai-tech-regulation-leaders-insight-forum)
- - [Inexplicably, there are two indistinguishable models of second generation AirPods Pro](https://appleinsider.com/articles/23/09/13/inexplicably-there-are-two-indistinguishable-models-of-second-generation-airpods-pro?utm_medium=rss)
- - [Autoworkers Prepare to Strike for a Place in the EV Future](https://www.wired.com/story/auto-workers-prepare-to-strike-for-a-place-in-the-ev-future/)<!-- TECH:END -->
+ - [Jupiter&#39;s Moon Callisto Has a Whole Lot of Oxygen Scientists Struggle to Explain     - CNET](https://www.cnet.com/science/space/jupiters-moon-callisto-has-a-whole-lot-of-oxygen-scientists-struggle-to-explain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

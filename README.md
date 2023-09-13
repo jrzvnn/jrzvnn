@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple iPhone 15 Pro Max cases you can buy at launch](https://www.androidauthority.com/best-apple-iphone-15-pro-max-cases-3363376/)
- - [Apple&#39;s second-gen Ultra Wideband chip in the iPhone 15 helps improve Find My, including adding precision finding with distance indicators for crowded venues &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p23#a230913p23)
- - [T-Mobile plans to acquire more 5G airwaves from Comcast, which is selling 600MHz spectrum licenses that the company is &quot;unlikely&quot; to need, for up to $3.3B &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p22#a230913p22)
- - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [iPhone 15 vs iPhone 14 -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-vs-iphone-14----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Hermes isn&#39;t following Apple&#39;s lead, releases new array of leather Apple Watch bands](https://appleinsider.com/articles/23/09/13/hermes-isnt-following-apples-lead-releases-new-array-of-leather-apple-watch-bands?utm_medium=rss)
+ - [The iPhone 15 could borrow this Android feature to improve battery health](https://www.androidauthority.com/apple-iphone-15-battery-charging-feature-3363920/)
+ - [Apple does not plan to sell the new AirPods USB-C charging case as a standalone product; users will instead need to buy a whole new $249 pair &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230913/p24#a230913p24)
+ - [Adobe Premiere Pro can now automatically remove your ‘ums’ and background noise](https://www.theverge.com/2023/9/13/23871459/adobe-premiere-pro-after-effects-updates-video-audio-apps)
+ - [The best Apple iPhone 15 Pro Max cases you can buy at launch](https://www.androidauthority.com/best-apple-iphone-15-pro-max-cases-3363376/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

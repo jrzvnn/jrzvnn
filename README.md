@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iOS 17 feature will help users rely more on renewable energy](https://appleinsider.com/articles/23/09/13/new-ios-17-feature-will-help-users-rely-more-on-renewable-energy?utm_medium=rss)
- - [Hermes isn&#39;t following Apple&#39;s lead, releases new array of leather Apple Watch bands](https://appleinsider.com/articles/23/09/13/hermes-isnt-following-apples-lead-releases-new-array-of-leather-apple-watch-bands?utm_medium=rss)
- - [The iPhone 15 could borrow this Android feature to improve battery health](https://www.androidauthority.com/apple-iphone-15-battery-charging-feature-3363920/)
- - [Apple does not plan to sell the new AirPods USB-C charging case as a standalone product; users will instead need to buy a whole new $249 pair &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230913/p24#a230913p24)
- - [Adobe Premiere Pro can now automatically remove your ‘ums’ and background noise](https://www.theverge.com/2023/9/13/23871459/adobe-premiere-pro-after-effects-updates-video-audio-apps)<!-- TECH:END -->
+ - [Researchers: the iPhone of Meduza journalist Galina Timchenko was infected with Pegasus in Germany, the first known case of its use against a Russian journalist &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/230913/p26#a230913p26)
+ - [Adobe’s Firefly generative AI tools are now widely available](https://www.theverge.com/2023/9/13/23871537/adobe-firefly-generative-ai-model-general-availability-launch-date-price)
+ - [WhatsApp rolls out Channels to users in over 150 countries, after introducing the broadcast feature in June 2023 in Colombia and Singapore, and adds features &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p25#a230913p25)
+ - [Does the Apple iPhone 15 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/apple-iphone-15-esim-dual-sim-3363295/)
+ - [WhatsApp is widely rolling out its Telegram-like Channels feature](https://www.theverge.com/2023/9/13/23871553/whatsapp-telegram-channels-feature-global-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

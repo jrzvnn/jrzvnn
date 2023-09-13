@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram plans to add the Open Network-based crypto wallet TON Space in November 2023 for all users outside the US, after rolling out to Wallet users now &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230913/p13#a230913p13)
  - [Huawei signs a global patent cross-licensing deal with Xiaomi, covering 5G and other communication tech; Chinese media reported in March that Huawei sued Xiaomi &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p12#a230913p12)
  - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)
  - [China claims to have noticed &quot;some security incidents concerning Apple phones&quot;, without elaborating, after the government reportedly curtails staff iPhone use &lpar;Philip Glamann/Bloomberg&rpar;](http://www.techmeme.com/230913/p11#a230913p11)
- - [Q&amp;A with Alexandr Wang, co-founder of Scale AI that has contracts with the DoD, on why US technologists should help preserve US military and economic leadership &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230913/p10#a230913p10)
- - [These are the best iPhone 15 chargers you can buy right now](https://www.androidauthority.com/best-apple-iphone-15-chargers-3363259/)<!-- TECH:END -->
+ - [Q&amp;A with Alexandr Wang, co-founder of Scale AI that has contracts with the DoD, on why US technologists should help preserve US military and economic leadership &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230913/p10#a230913p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

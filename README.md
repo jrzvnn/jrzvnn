@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Woman swallowed her AirPod after mistaking it for a vitamin](https://appleinsider.com/articles/23/09/13/woman-swallowed-her-airpod-after-mistaking-it-for-a-vitamin?utm_medium=rss)
  - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
  - [Baldur’s Gate 3 on PS5 is a technically complicated but still enjoyable experience](https://www.theverge.com/23861883/baldurs-gate-3-ps5-technical-review)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-13-2023-3362467/)
- - [Ring’s new Pet Tag puts a QR code on your dog or cat’s collar to help if they go missing](https://www.theverge.com/2023/9/13/23871446/ring-pet-tag-qr-code-dog-cat-collar-missing)
- - [Daily deals Sept. 13: $150 off Apple Watch Ultra, iPhone SE $190, $200 off 15&quot; M2 MacBook Air, more](https://appleinsider.com/articles/23/09/13/daily-deals-sept-13-150-off-apple-watch-ultra-iphone-se-190-200-off-15-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
+ - [Ring’s new Pet Tag puts a QR code on your dog or cat’s collar to help if they go missing](https://www.theverge.com/2023/9/13/23871446/ring-pet-tag-qr-code-dog-cat-collar-missing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

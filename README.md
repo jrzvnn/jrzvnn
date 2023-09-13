@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
+ - [Tech leaders want ‘balanced’ AI regulation in private Senate meeting](https://www.theverge.com/2023/9/13/23872478/ai-tech-regulation-leaders-insight-forum)
  - [Inexplicably, there are two indistinguishable models of second generation AirPods Pro](https://appleinsider.com/articles/23/09/13/inexplicably-there-are-two-indistinguishable-models-of-second-generation-airpods-pro?utm_medium=rss)
- - [Apple Watch Series 8 vs Watch Series 9: Which is the better buy?](https://www.androidauthority.com/apple-watch-series-8-vs-watch-series-9-3363361/)
- - [11 Great Deals From Samsung&#39;s Fall Sale: Galaxy Z Flip5, Galaxy Tab S9, and More](https://www.wired.com/story/midweek-deals-september-13-2023/)
- - [US Senate&#39;s AI Insight Forum: Musk warns of AI risks, Zuckerberg defends open source, all guests agree the US needs to play a role in regulating AI, and more &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230913/p43#a230913p43)
- - [Chicago-based Kin Insurance, which uses thousands of data points to provide personalized home insurance, raised a $33M Series D extension at a $1B+ valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230913/p42#a230913p42)<!-- TECH:END -->
+ - [Autoworkers Prepare to Strike for a Place in the EV Future](https://www.wired.com/story/auto-workers-prepare-to-strike-for-a-place-in-the-ev-future/)
+ - [Apple Watch Series 8 vs Watch Series 9: Which is the better buy?](https://www.androidauthority.com/apple-watch-series-8-vs-watch-series-9-3363361/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

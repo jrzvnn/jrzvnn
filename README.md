@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases detailed PDFs of iOS 17 and macOS Sonoma features](https://appleinsider.com/articles/23/09/12/apple-releases-detailed-pdfs-of-ios-17-and-macos-sonoma-features?utm_medium=rss)
- - [IPhone 15 and USB-C: Expect a Cable Mess, but It Might Not Bug You     - CNET](https://www.cnet.com/tech/mobile/iphone-15-and-usb-c-expect-a-cable-mess-but-it-might-not-bug-you/#ftag=CAD590a51e)
- - [Lyft now lets drivers prioritize matches with women and nonbinary riders](https://www.theverge.com/2023/9/12/23869996/lyft-women-plus-connect-women-nonbinary-drivers-riders)
- - [Apple&#39;s USB-C AirPods Pro will support 20-bit, 48 kHz lossless audio when used with the upcoming Vision Pro headset &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230912/p52#a230912p52)
- - [The iPhone is getting new ringtones](https://www.theverge.com/2023/9/12/23870868/apple-iphone-ios-17-new-ringtones)<!-- TECH:END -->
+ - [Binance.US CEO Brian Shroder departs, replaced on an interim basis by Chief Legal Officer Norman Reed, as the company cuts 100+ jobs, a third of its workforce &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230912/p53#a230912p53)
+ - [New firmware released for AirPods Pro, AirPods, &amp; AirPods Max](https://appleinsider.com/articles/23/09/13/new-firmware-released-for-airpods-pro-airpods-airpods-max?utm_medium=rss)
+ - [EV Mania Hasn&#39;t Killed Hunger for Hybrid Trucks](https://www.wired.com/story/ev-mania-hybrid-trucks-ford-f150/)
+ - [Ford’s newest gassy F-150s include more hybrid configurations](https://www.theverge.com/2023/9/12/23869818/ford-f-150-2024-powerboost-hybrid-5g-sync-4)
+ - [Apple Asked to Halt iPhone 12 Sales in France Due to High Radiofrequency Concerns     - CNET](https://www.cnet.com/tech/mobile/apple-asked-to-halt-iphone-12-sales-in-france-due-to-high-radiofrequency-concerns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

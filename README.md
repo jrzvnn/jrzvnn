@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frontlines](http://9gag.com/gag/anz8W05)
- - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 😝 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
+ - 😝 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
+ - 💣 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)<!-- MEMES:END -->
+ - 👉 [Here we go](http://9gag.com/gag/aqeBOnL)<!-- MEMES:END -->
 
 ---
 </div>

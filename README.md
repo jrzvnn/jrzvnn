@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 6 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-6-vs-watch-series-9-3363356/)
+ - [Bio: Elon Musk told Bari Weiss that Twitter needs to be careful when discussing China due to Tesla&#39;s business, and that China&#39;s Uyghur repression has two sides &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/230913/p35#a230913p35)
  - [California Bill Requiring Bidirectional Charging in All EVs Is Defeated in State Assembly     - CNET](https://www.cnet.com/roadshow/news/california-bill-requiring-bidirectional-charging-in-all-evs-is-defeated-in-state-assembly/#ftag=CAD590a51e)
  - [Best Cordless Vacuums for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
- - [iPhone 14 Pro Max vs iPhone 15 Pro Max: Should you upgrade to the latest iPhone?](https://www.androidauthority.com/iphone-14-pro-max-vs-iphone-15-pro-max-3363888/)
- - [Samsung leaks the Galaxy Buds FE by posting their user manual](https://www.theverge.com/2023/9/13/23871933/samsung-galaxy-buds-fe-user-manual-leak)<!-- TECH:END -->
+ - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can preorder the Apple Watch Series 9 and Watch Ultra 2](https://www.theverge.com/23862174/apple-watch-series-9-ultra-2-preorder-buy-price-release-date)
+ - [The best Apple Watch Series 9 alternatives: 5 other smartwatches to consider](https://www.androidauthority.com/best-apple-watch-series-9-alternatives-3363318/)
  - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
  - [California passes right-to-repair act guaranteeing seven years of parts for your phone](https://www.theverge.com/2023/9/13/23871712/california-right-to-repair-act-sb-244)
- - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
- - [Google’s Pixel 7 Pro is matching its best price yet](https://www.theverge.com/2023/9/13/23869901/google-pixel-7-pro-eufy-security-smarttrack-card-apple-watch-series-8-deal-sale)
- - [How to control your Apple Watch hands-free with Assistive Touch](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)<!-- TECH:END -->
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

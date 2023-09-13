@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 😝 [Typical western family](http://9gag.com/gag/a9qZZqZ)
+ - 😝 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
+ - 😝 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
  - 💣 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)<!-- MEMES:END -->
+ - 👉 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)<!-- MEMES:END -->
 
 ---
 </div>

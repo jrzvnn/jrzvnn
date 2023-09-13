@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Army says Microsoft&#39;s improved HoloLens-based combat goggles passed their first round of intensive testing by soldiers, ahead of a key 2025 evaluation &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230913/p30#a230913p30)
- - [Xbox Game Pass Core is launching with 36 games this week](https://www.theverge.com/2023/9/13/23871737/xbox-game-pass-core-36-games-release-date)
- - [The Galaxy S23 Plus is $300 off in this sensational 24-hour deal](https://www.androidauthority.com/galaxy-s23-plus-deal-3363968/)
- - [Global Crypto Adoption Index: India, Nigeria, Vietnam, the US, and Ukraine make the top five for grassroots adoption, as Central and Southern Asia dominates &lpar;Chainalysis&rpar;](http://www.techmeme.com/230913/p29#a230913p29)
- - [Stability AI releases AI audio platform](https://www.theverge.com/2023/9/13/23871635/stability-ai-generative-audio-model-platform)<!-- TECH:END -->
+ - [iPhone &amp; Mac game engine Unity putting the screws to independent developers](https://appleinsider.com/articles/23/09/13/iphone-mac-game-engine-unity-putting-the-screws-to-independent-developers?utm_medium=rss)
+ - [Netflix is kicking off Castlevania: Nocturne with a showcase of its other animated series](https://www.theverge.com/2023/9/13/23871627/netflix-castlevania-nocturne-drop-01-showcase)
+ - [Artifact’s new Links feature makes it much more than a news app](https://www.theverge.com/2023/9/13/23871561/artifact-links-news-reading-app-tiktok)
+ - [Here’s how Apple’s new iPhone 15 models compare to some of the best Android phones](https://www.theverge.com/23860505/apple-iphone-15-pro-android-specs-comparison-versus-samsung-google)
+ - [Tesla unveils Powerwall 3, this time with a built-in solar inverter](https://www.theverge.com/2023/9/13/23871576/tesla-powerwall-3-battery-solar-inverter-introduced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

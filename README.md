@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crystal Ball](http://9gag.com/gag/a4omg8y)
- - 😝 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
- - 💣 [Smart answer to woke virtue signalling check.](http://9gag.com/gag/aQEBKq2)
- - 😝 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)
- - 👉 [Women have it so hard](http://9gag.com/gag/abvKD7B)<!-- MEMES:END -->
+ - 😝 [Sarah Snyder](http://9gag.com/gag/aRE9DMQ)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 😝 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 </div>

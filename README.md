@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces generative AI tools to help sellers write &quot;captivating product descriptions, titles, and listing details&quot; and add to existing descriptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p39#a230913p39)
+ - [The full version of Baldur’s Gate 3 is coming to Mac soon](https://www.theverge.com/2023/9/13/23872350/baldurs-gate-3-bg3-mac-full-release-date)
  - [Google is laying off hundreds of people across its global recruiting team, saying &quot;the volume of requests for our recruiters has gone down&quot; &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230913/p38#a230913p38)
  - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)
- - [How to create a QR code using a browser](https://www.theverge.com/23868568/qr-code-chrome-edge-how-to)
- - [Spotify will let artists pay to appear as homescreen recommendations](https://www.theverge.com/2023/9/13/23872199/spotify-showcase-sponsored-recommendations-home-feed-artists)
- - [One UI 5.1.1 is causing Pokemon Go to crash on Samsung Galaxy devices](https://www.androidauthority.com/one-ui-pokemon-go-issues-3364083/)<!-- TECH:END -->
+ - [How to create a QR code using a browser](https://www.theverge.com/23868568/qr-code-chrome-edge-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

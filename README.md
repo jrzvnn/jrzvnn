@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Solidus Labs: wash trading on Ethereum-based decentralized exchanges amounted to at least $2B worth of cryptocurrencies since September 2020 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230913/p7#a230913p7)
  - [Symantec: Chinese cyberespionage group Redfly used the ShadowPad trojan to compromise a national grid in an Asian country from February 28 until August 3, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230913/p6#a230913p6)
  - [A profile of The Raine Group, a NY-based tech-focused boutique merchant bank that is headlining Arm&#39;s IPO filing and has become a go-to advisor for SoftBank &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p5#a230913p5)
  - [NGO Save the Children confirms a data breach after cybercrime group BianLian bragged that it had hit &quot;the world&#39;s leading nonprofit&quot; and stolen 6.8TB of data &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/230913/p4#a230913p4)
- - [The A17 Pro in iPhone 15 Pro and iPhone 15 Pro Max offers hardware-accelerated ray tracing; Qualcomm and Samsung have released ray tracing-capable mobile chips &lpar;Peter Cohen/AppleInsider&rpar;](http://www.techmeme.com/230913/p3#a230913p3)
- - [Apple’s iPhone 15 Pro bests all Android phones in future smart home preparedness](https://www.androidauthority.com/apple-iphone-15-pro-thread-support-3363846/)<!-- TECH:END -->
+ - [The A17 Pro in iPhone 15 Pro and iPhone 15 Pro Max offers hardware-accelerated ray tracing; Qualcomm and Samsung have released ray tracing-capable mobile chips &lpar;Peter Cohen/AppleInsider&rpar;](http://www.techmeme.com/230913/p3#a230913p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

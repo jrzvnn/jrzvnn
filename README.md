@@ -155,11 +155,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - 😝 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
- - 💣 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
+ - 😝 [Martin Bryant murdered 35 people and injured 23 others in a mass shooting in the Port Arthur massacre in 1996, one of the world&#39;s deadliest shooting sprees. After months of denying, he unexpectedly admitted being guilty thinking the police stopped recording.](http://9gag.com/gag/anz8VOq)
+ - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)<!-- MEMES:END -->
+ - 👉 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California lawmaker proposes regulation of AI models](https://www.theverge.com/2023/9/13/23871866/california-lawmaker-ai-regulation-transparency)
- - [Apple Watch Series 6 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-6-vs-watch-series-9-3363356/)
- - [Bio: Elon Musk told Bari Weiss that Twitter needs to be careful when discussing China due to Tesla&#39;s business, and that China&#39;s Uyghur repression has two sides &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/230913/p35#a230913p35)
- - [US Army orders more Microsoft AR headsets now that they no longer make soldiers want to barf](https://www.theverge.com/2023/9/13/23871859/us-army-microsoft-ivas-ar-goggles-success-new-contract-hololens)
- - [TikTok has quietly been inserting Wikipedia snippets into search results](https://www.theverge.com/2023/9/13/23871880/tiktok-search-engine-wikipedia-snippets-google)<!-- TECH:END -->
+ - [MGM Resorts&#39; website is still down more than 60 hours after it was hit by a cyberattack, as ransomware-as-a-service group ALPHV reportedly claims credit &lpar;Suzanne Rowan Kelleher/Forbes&rpar;](http://www.techmeme.com/230913/p36#a230913p36)
+ - [Apple now finally sells USB-C EarPods](https://www.theverge.com/2023/9/13/23872134/apple-usb-c-earpods-store)
+ - [Starfield has arrived on Nvidia’s GeForce Now — the most important cloud game yet](https://www.theverge.com/2023/9/13/23871170/starfield-geforce-now-nvidia-cloud-gaming)
+ - [Apple Watch Series 9 vs Watch SE 2: Which should you buy?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-se-2-3363290/)
+ - [California lawmaker proposes regulation of AI models](https://www.theverge.com/2023/9/13/23871866/california-lawmaker-ai-regulation-transparency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

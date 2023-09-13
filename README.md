@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US CEO Brian Shroder departs, replaced on an interim basis by Chief Legal Officer Norman Reed, as the company cuts 100+ jobs, a third of its workforce &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230912/p53#a230912p53)
- - [New firmware released for AirPods Pro, AirPods, &amp; AirPods Max](https://appleinsider.com/articles/23/09/13/new-firmware-released-for-airpods-pro-airpods-airpods-max?utm_medium=rss)
- - [EV Mania Hasn&#39;t Killed Hunger for Hybrid Trucks](https://www.wired.com/story/ev-mania-hybrid-trucks-ford-f150/)
- - [Ford’s newest gassy F-150s include more hybrid configurations](https://www.theverge.com/2023/9/12/23869818/ford-f-150-2024-powerboost-hybrid-5g-sync-4)
- - [Apple Asked to Halt iPhone 12 Sales in France Due to High Radiofrequency Concerns     - CNET](https://www.cnet.com/tech/mobile/apple-asked-to-halt-iphone-12-sales-in-france-due-to-high-radiofrequency-concerns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)
+ - [Sources: TSMC is frustrated with its Arizona plant and has growing confidence in Japan, where its $8.6B fab is on track to produce mature-tech chips in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230912/p54#a230912p54)
+ - [For $5 a Serving, I Assumed EveryPlate Meal Kits Would Suck. I Was Wrong     - CNET](https://www.cnet.com/health/nutrition/everyplate-review-best-cheap-meal-kits/#ftag=CAD590a51e)
+ - [SpaceX confirms Starlink ‘network outage’](https://www.theverge.com/2023/9/12/23871162/spacex-starlink-network-outage)
+ - [Apple’s smart home app can now tell you when you’re using clean energy](https://www.theverge.com/2023/9/12/23871008/grid-forecast-apple-home-ios17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe makes Firefly generally and commercially available in Creative Cloud and other services, and announces &quot;generative credits&quot; to charge for Firefly access &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230913/p27#a230913p27)
- - [Researchers: the iPhone of Meduza journalist Galina Timchenko was infected with Pegasus in Germany, the first known case of its use against a Russian journalist &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/230913/p26#a230913p26)
- - [Adobe’s Firefly generative AI tools are now widely available](https://www.theverge.com/2023/9/13/23871537/adobe-firefly-generative-ai-model-general-availability-launch-date-price)
- - [WhatsApp rolls out Channels to users in over 150 countries, after introducing the broadcast feature in June 2023 in Colombia and Singapore, and adds features &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p25#a230913p25)
- - [Does the Apple iPhone 15 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/apple-iphone-15-esim-dual-sim-3363295/)<!-- TECH:END -->
+ - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)
+ - [Baldur’s Gate 3 on PS5 is a technically complicated but still enjoyable experience](https://www.theverge.com/23861883/baldurs-gate-3-ps5-technical-review)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-13-2023-3362467/)
+ - [Ring’s new Pet Tag puts a QR code on your dog or cat’s collar to help if they go missing](https://www.theverge.com/2023/9/13/23871446/ring-pet-tag-qr-code-dog-cat-collar-missing)
+ - [Daily deals Sept. 13: $150 off Apple Watch Ultra, iPhone SE $190, $200 off 15&quot; M2 MacBook Air, more](https://appleinsider.com/articles/23/09/13/daily-deals-sept-13-150-off-apple-watch-ultra-iphone-se-190-200-off-15-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

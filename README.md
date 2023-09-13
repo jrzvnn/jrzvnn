@@ -146,10 +146,10 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX says Starlink ‘network issue’ has been resolved](https://www.theverge.com/2023/9/12/23871162/spacex-starlink-network-outage)
  - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)
  - [Sources: TSMC is frustrated with its Arizona plant and has growing confidence in Japan, where its $8.6B fab is on track to produce mature-tech chips in 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/230912/p54#a230912p54)
  - [For $5 a Serving, I Assumed EveryPlate Meal Kits Would Suck. I Was Wrong     - CNET](https://www.cnet.com/health/nutrition/everyplate-review-best-cheap-meal-kits/#ftag=CAD590a51e)
- - [SpaceX confirms Starlink ‘network outage’](https://www.theverge.com/2023/9/12/23871162/spacex-starlink-network-outage)
  - [Apple’s smart home app can now tell you when you’re using clean energy](https://www.theverge.com/2023/9/12/23871008/grid-forecast-apple-home-ios17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

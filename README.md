@@ -155,10 +155,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
  - 😝 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
- - 😝 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)
- - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 💣 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
+ - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
  - 👉 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)<!-- MEMES:END -->
 
 ---

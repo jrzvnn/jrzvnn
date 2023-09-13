@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US spokesman behind on the news pours gas on seemingly settled China iPhone ban](https://appleinsider.com/articles/23/09/13/us-spokesman-behind-on-the-news-pours-gas-on-seemingly-settled-china-iphone-ban?utm_medium=rss)
  - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
  - [Tech leaders want ‘balanced’ AI regulation in private Senate meeting](https://www.theverge.com/2023/9/13/23872478/ai-tech-regulation-leaders-insight-forum)
  - [Inexplicably, there are two indistinguishable models of second generation AirPods Pro](https://appleinsider.com/articles/23/09/13/inexplicably-there-are-two-indistinguishable-models-of-second-generation-airpods-pro?utm_medium=rss)
- - [Autoworkers Prepare to Strike for a Place in the EV Future](https://www.wired.com/story/auto-workers-prepare-to-strike-for-a-place-in-the-ev-future/)
- - [Apple Watch Series 8 vs Watch Series 9: Which is the better buy?](https://www.androidauthority.com/apple-watch-series-8-vs-watch-series-9-3363361/)<!-- TECH:END -->
+ - [Autoworkers Prepare to Strike for a Place in the EV Future](https://www.wired.com/story/auto-workers-prepare-to-strike-for-a-place-in-the-ev-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

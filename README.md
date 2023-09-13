@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Since releasing Final Fantasy XVI in June 2023 to mixed reviews, Tokyo-based Square Enix shed ~$2B in market value and its new CEO faces skepticism about growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/230913/p16#a230913p16)
- - [Apple denies that iPhone 12 modem exceeds French limits on radio exposure](https://appleinsider.com/articles/23/09/13/apple-denies-that-iphone-12-modem-exceeds-french-limits-on-radio-exposure?utm_medium=rss)
- - [Apple&#39;s environmental announcements, including its first carbon-neutral products, are progress but may act as a red herring to distract from its overall impact &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230913/p15#a230913p15)
- - [Paris-based Swan, which lets companies integrate banking and other financial services, raised a &amp;euro;37M Series B led by Lakestar, bringing its total raised to &amp;euro;58M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230913/p14#a230913p14)
- - [The Twisted Eye in the Sky Over Buenos Aires](https://www.wired.com/story/buenos-aires-facial-recognition-scandal/)<!-- TECH:END -->
+ - [Sony releases a PS5 software update, including adding Dolby Atmos support, using a second controller as an &quot;assist controller&quot;, and support for up to 8TB SSDs &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/230913/p18#a230913p18)
+ - [iPhone 15 series battery life and charging speeds: How long does it last?](https://www.androidauthority.com/apple-iphone-15-battery-life-charging-speeds-3363856/)
+ - [Scientists Say You’re Looking for Alien Civilizations All Wrong](https://www.wired.com/story/scientists-say-youre-looking-for-alien-civilizations-all-wrong/)
+ - [How to Take Back the Internet](https://www.wired.com/story/have-a-nice-future-podcast-21/)
+ - [The iPhone 15 Opts for Intuitive AI, Not Generative AI](https://www.wired.com/story/apple-iphone-15-opts-for-intuitive-ai-not-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

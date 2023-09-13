@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
- - 😝 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
- - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 😝 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
- - 👉 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)<!-- MEMES:END -->
+ - 😝 [WAIT \u2014 did we hear this guy right? Did he just sit on a stage and say the world economy is being purposefully manipulated to impose financial pain on purpose to manipulate the people back into submission???](http://9gag.com/gag/aYVZ5r7)
+ - 😝 [Women have it so hard](http://9gag.com/gag/abvKD7B)
+ - 💣 [9gag I&#39;m not asking you to take sides, but I&#39;m asking you to takes sides](http://9gag.com/gag/aZDo5R3)
+ - 😝 [Title is geh like op](http://9gag.com/gag/a9qZ0qZ)
+ - 👉 [Who this gangster?](http://9gag.com/gag/aBdjM8P)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Arm shares are expected to be priced at as much as $52 per share, above the prior IPO range of $47-$51 a share, giving Arm a valuation of ~$54B &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p41#a230913p41)
+ - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)
  - [Sony announces a new PlayStation State of Play event](https://www.theverge.com/2023/9/13/23872471/sony-playstation-state-of-play-september-2023)
  - [&#39;Baldur&#39;s Gate 3&#39; lands on Mac September 21](https://appleinsider.com/articles/23/09/13/baldurs-gate-3-lands-on-mac-september-21?utm_medium=rss)
- - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)
- - [The White House says it is monitoring reports of a growing Chinese government ban of iPhones and that the move seems to be a reprisal against the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/230913/p40#a230913p40)
- - [Best Internet Providers in Seattle, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The White House says it is monitoring reports of a growing Chinese government ban of iPhones and that the move seems to be a reprisal against the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/230913/p40#a230913p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

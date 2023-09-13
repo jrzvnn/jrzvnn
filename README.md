@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is laying off hundreds of people across its global recruiting team, saying &quot;the volume of requests for our recruiters has gone down&quot; &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230913/p38#a230913p38)
  - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)
  - [How to create a QR code using a browser](https://www.theverge.com/23868568/qr-code-chrome-edge-how-to)
  - [Spotify will let artists pay to appear as homescreen recommendations](https://www.theverge.com/2023/9/13/23872199/spotify-showcase-sponsored-recommendations-home-feed-artists)
- - [One UI 5.1.1 is causing Pokemon Go to crash on Samsung Galaxy devices](https://www.androidauthority.com/one-ui-pokemon-go-issues-3364083/)
- - [Mila Kunis and Ashton Kutcher’s Stoner Cats NFTs must sober up, SEC orders](https://www.theverge.com/2023/9/13/23872048/stoner-cats-nft-sec-mila-kunis-ashton-kutcher)<!-- TECH:END -->
+ - [One UI 5.1.1 is causing Pokemon Go to crash on Samsung Galaxy devices](https://www.androidauthority.com/one-ui-pokemon-go-issues-3364083/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

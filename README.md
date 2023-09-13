@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple iPhone 15 Pro Max cases you can buy at launch](https://www.androidauthority.com/best-apple-iphone-15-pro-max-cases-3363376/)
+ - [Apple&#39;s second-gen Ultra Wideband chip in the iPhone 15 helps improve Find My, including adding precision finding with distance indicators for crowded venues &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p23#a230913p23)
+ - [T-Mobile plans to acquire more 5G airwaves from Comcast, which is selling 600MHz spectrum licenses that the company is &quot;unlikely&quot; to need, for up to $3.3B &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p22#a230913p22)
  - [Faster Apple Watch Series 9 launches with on-device Siri processing](https://appleinsider.com/articles/23/09/12/faster-apple-watch-series-9-launches-with-on-device-siri-processing?utm_medium=rss)
- - [iPhone 15 vs iPhone 14 -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-vs-iphone-14----specs-price-and-features-compared?utm_medium=rss)
- - [VideoAmp, which offers audience and ad measurement tools, raised a $150M Series G from Vista Credit Partners at the same $1.4B valuation as its Series F in 2021 &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/230913/p21#a230913p21)
- - [Wedbush raises Apple price target to $240 after impressive iPhone 15 event](https://appleinsider.com/articles/23/09/13/wedbush-raises-apple-price-target-to-240-after-impressive-iphone-15-event?utm_medium=rss)
- - [After France ordered Apple to stop selling the iPhone 12 due to radiation levels, Apple says the device was certified by multiple bodies as radiation compliant &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p20#a230913p20)<!-- TECH:END -->
+ - [iPhone 15 vs iPhone 14 -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-vs-iphone-14----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

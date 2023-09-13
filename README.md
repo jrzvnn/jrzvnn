@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds Prime Video and bunch of other stuff to cars with native Android software](https://www.theverge.com/2023/9/13/23872249/google-built-in-android-auto-webex-zoom-prime-video)
  - [An actively exploited flaw in the WebP codec&#39;s library libwebp leads to updates for Chrome, Firefox, Brave, Edge, and more; many non-browser apps are affected &lpar;Alex Ivanovs/Stack Diary&rpar;](http://www.techmeme.com/230913/p37#a230913p37)
  - [MGM Resorts&#39; website is still down more than 60 hours after it was hit by a cyberattack, as ransomware-as-a-service group ALPHV reportedly claims credit &lpar;Suzanne Rowan Kelleher/Forbes&rpar;](http://www.techmeme.com/230913/p36#a230913p36)
  - [Apple now finally sells USB-C EarPods](https://www.theverge.com/2023/9/13/23872134/apple-usb-c-earpods-store)
- - [Starfield has arrived on Nvidia’s GeForce Now — the most important cloud game yet](https://www.theverge.com/2023/9/13/23871170/starfield-geforce-now-nvidia-cloud-gaming)
- - [Hooray! Apple iPhone 15 Pro Max Gets Periscope Cameras to Catch Up With Android     - CNET](https://www.cnet.com/tech/mobile/hooray-apple-iphone-15-pro-max-gets-periscope-cameras-to-catch-up-with-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starfield has arrived on Nvidia’s GeForce Now — the most important cloud game yet](https://www.theverge.com/2023/9/13/23871170/starfield-geforce-now-nvidia-cloud-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

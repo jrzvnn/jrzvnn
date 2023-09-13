@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Bill Requiring Bidirectional Charging in All EVs Is Defeated in State Assembly     - CNET](https://www.cnet.com/roadshow/news/california-bill-requiring-bidirectional-charging-in-all-evs-is-defeated-in-state-assembly/#ftag=CAD590a51e)
+ - [Best Cordless Vacuums for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)
  - [iPhone 14 Pro Max vs iPhone 15 Pro Max: Should you upgrade to the latest iPhone?](https://www.androidauthority.com/iphone-14-pro-max-vs-iphone-15-pro-max-3363888/)
- - [Samsung leaks the Galaxy Buds FE by posting their user manual](https://www.theverge.com/2023/9/13/23871933/samsung-galaxy-buds-fe-user-manual-leak)
- - [News sharing app Artifact adds Links, a new section where users can post any link and discover links through a Following page or an algorithmic For You page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230913/p34#a230913p34)
- - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
- - [Chromecast with Google TV can now stream PS5 games via PS Remote Play](https://www.androidauthority.com/chromecast-ps-remote-play-3364010/)<!-- TECH:END -->
+ - [Samsung leaks the Galaxy Buds FE by posting their user manual](https://www.theverge.com/2023/9/13/23871933/samsung-galaxy-buds-fe-user-manual-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

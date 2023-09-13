@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/a1PBx88)
- - 😝 [That\u2019s going to be a Big challenge](http://9gag.com/gag/aBdjzxN)
- - 💣 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 😝 [We go to hell together](http://9gag.com/gag/a8qQvYp)
+ - 😝 [Download before it disappears again](http://9gag.com/gag/awZPPVr)
+ - 💣 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
  - 😝 [Who dances better? The @trendkidsofcl dance crew or Hide the Pain Harold?](http://9gag.com/gag/aL1VVEz)
- - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
+ - 👉 [Smart answer to woke virtue signalling check.](http://9gag.com/gag/aQEBKq2)<!-- MEMES:END -->
 
 ---
 </div>

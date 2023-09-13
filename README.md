@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder the Apple Watch Series 9 and Watch Ultra 2](https://www.theverge.com/23862174/apple-watch-series-9-ultra-2-preorder-buy-price-release-date)
- - [The best Apple Watch Series 9 alternatives: 5 other smartwatches to consider](https://www.androidauthority.com/best-apple-watch-series-9-alternatives-3363318/)
- - [MGM ‘cybersecurity issue’ shuts down slot machines and ATMs in Las Vegas casinos](https://www.theverge.com/2023/9/11/23869020/mgm-resorts-hacked-casino-shut-down-las-vegas)
- - [California passes right-to-repair act guaranteeing seven years of parts for your phone](https://www.theverge.com/2023/9/13/23871712/california-right-to-repair-act-sb-244)
- - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
+ - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
+ - [Chromecast with Google TV can now stream PS5 games via PS Remote Play](https://www.androidauthority.com/chromecast-ps-remote-play-3364010/)
+ - [The Biden administration approves $100 million to fix the nation’s broken EV chargers](https://www.theverge.com/2023/9/13/23871857/ev-charger-broken-fix-biden-usdot-funding-infrastructure)
+ - [At just $649, the Pixel 7 Pro is an affordable iPhone 15 alternative](https://www.androidauthority.com/pixel-7-pro-deal-3364022/)
+ - [More 25th anniversary wallpapers land from Google, get them here!](https://www.androidauthority.com/google-birthday-wallpapers-25-years-3364024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

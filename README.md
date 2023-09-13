@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mumbai-based Kale Logistics, which offers cloud-based tools to assist airports, seaports, and others with logistics, raised a $30M Series B led by Creaegis &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230913/p1#a230913p1)
  - [Court filing: the US DOJ claims Elon Musk repeatedly made decisions that likely ran afoul of a 2022 FTC order restricting Twitter&#39;s data security practices &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p57#a230912p57)
  - [Alibaba opens its AI model Tongyi Qianwen to the public and plans to make an open source version available for free commercial use &quot;by the whole society&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/230912/p56#a230912p56)
- - [Bucharest-based Druid, which offers a conversational AI service to companies, raised a $30M Series B led by TQ Ventures, taking its total funding to ~$50M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230912/p55#a230912p55)
- - [SpaceX says Starlink ‘network issue’ has been resolved](https://www.theverge.com/2023/9/12/23871162/spacex-starlink-network-outage)
- - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro and Pro Max Hands-On: Titanium Frame, 5x Zoom Camera and Spatial Video     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-and-pro-max-hands-on-titanium-frame-5x-zoom-camera-and-spatial-video/#ftag=CAD590a51e)
+ - [Bucharest-based Druid, which offers a conversational AI service to companies, raised a $30M Series B led by TQ Ventures, taking its total funding to ~$50M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230912/p55#a230912p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

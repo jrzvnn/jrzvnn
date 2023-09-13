@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ sci-fi hit &#39;For All Mankind&#39; launches fourth season in November](https://appleinsider.com/articles/23/09/13/apple-tv-sci-fi-hit-for-all-mankind-launches-fourth-season-in-november?utm_medium=rss)
+ - [Documents: Starlink reported $1.4B in revenue in 2022, up from $222M in 2021, falling short of Elon Musk&#39;s 2015 projections, as some question its future growth &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230913/p32#a230913p32)
+ - [Starfield is getting DLSS, an FOV slider, and ultrawide monitor support](https://www.theverge.com/2023/9/13/23871869/starfield-dlss-support-fov-slider-ultrawide-monitor-support)
  - [People keep swallowing AirPods and we’re really concerned](https://www.androidauthority.com/woman-swallows-airpods-3363985/)
- - [Find My Device update includes new icon and hints at future FMD Network](https://www.androidauthority.com/find-my-device-icon-3363988/)
- - [The SEC says the creator of Stoner Cats NFTs, which raised $8M+, will pay a $1M fine for an unregistered offering and return money to investors via a Fair Fund &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230913/p31#a230913p31)
- - [A key cold medicine ingredient is basically worthless](https://www.theverge.com/2023/9/13/23871534/fda-panel-phenylephrine-ineffective-cold-medication-allergy)
- - [iPhone &amp; Mac game engine Unity putting the screws to independent developers](https://appleinsider.com/articles/23/09/13/iphone-mac-game-engine-unity-putting-the-screws-to-independent-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Find My Device update includes new icon and hints at future FMD Network](https://www.androidauthority.com/find-my-device-icon-3363988/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

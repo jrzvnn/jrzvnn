@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says it is monitoring reports of a growing Chinese government ban of iPhones and that the move seems to be a reprisal against the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/230913/p40#a230913p40)
+ - [Google antitrust trial already getting formal protests from Apple](https://appleinsider.com/articles/23/09/13/google-antitrust-trial-already-getting-formal-protests-from-apple?utm_medium=rss)
  - [Amazon announces generative AI tools to help sellers write &quot;captivating product descriptions, titles, and listing details&quot; and add to existing descriptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p39#a230913p39)
  - [The full version of Baldur’s Gate 3 is coming to Mac soon](https://www.theverge.com/2023/9/13/23872350/baldurs-gate-3-bg3-mac-full-release-date)
- - [Google cuts hundreds from its global recruiting team, saying &quot;the volume of requests for our recruiters has gone down&quot;, but plans to keep a significant majority &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230913/p38#a230913p38)
- - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)
- - [How to create a QR code using a browser](https://www.theverge.com/23868568/qr-code-chrome-edge-how-to)<!-- TECH:END -->
+ - [Google cuts hundreds from its global recruiting team, saying &quot;the volume of requests for our recruiters has gone down&quot;, but plans to keep a significant majority &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230913/p38#a230913p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

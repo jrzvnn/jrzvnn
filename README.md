@@ -148,7 +148,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Amazon announces generative AI tools to help sellers write &quot;captivating product descriptions, titles, and listing details&quot; and add to existing descriptions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230913/p39#a230913p39)
  - [The full version of Baldur’s Gate 3 is coming to Mac soon](https://www.theverge.com/2023/9/13/23872350/baldurs-gate-3-bg3-mac-full-release-date)
- - [Google is laying off hundreds of people across its global recruiting team, saying &quot;the volume of requests for our recruiters has gone down&quot; &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230913/p38#a230913p38)
+ - [Google cuts hundreds from its global recruiting team, saying &quot;the volume of requests for our recruiters has gone down&quot;, but plans to keep a significant majority &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230913/p38#a230913p38)
  - [The cheapest countries in which to buy an iPhone 15](https://www.androidauthority.com/cheapest-place-to-buy-iphone-15-3363813/)
  - [How to create a QR code using a browser](https://www.theverge.com/23868568/qr-code-chrome-edge-how-to)<!-- TECH:END -->
 

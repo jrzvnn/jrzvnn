@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple denies that iPhone 12 modem exceeds French limits on radio exposure](https://appleinsider.com/articles/23/09/13/apple-denies-that-iphone-12-modem-exceeds-french-limits-on-radio-exposure?utm_medium=rss)
+ - [Apple&#39;s environmental announcements, including its first carbon-neutral products, are progress but may act as a red herring to distract from its overall impact &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230913/p15#a230913p15)
  - [Paris-based Swan, which lets companies integrate banking and other financial services, raised a &amp;euro;37M Series B led by Lakestar, bringing its total raised to &amp;euro;58M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230913/p14#a230913p14)
  - [The Twisted Eye in the Sky Over Buenos Aires](https://www.wired.com/story/buenos-aires-facial-recognition-scandal/)
- - [Telegram plans to add the Open Network-based crypto wallet TON Space in November 2023 for all users outside the US, after rolling out to Wallet users now &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230913/p13#a230913p13)
- - [Huawei signs a global patent cross-licensing deal with Xiaomi, covering 5G and other communication tech; Chinese media reported in March that Huawei sued Xiaomi &lpar;Reuters&rpar;](http://www.techmeme.com/230913/p12#a230913p12)
- - [iPhone 15 Pro Max vs. iPhone 14 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-vs-iphone-14-pro-max----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Telegram plans to add the Open Network-based crypto wallet TON Space in November 2023 for all users outside the US, after rolling out to Wallet users now &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230913/p13#a230913p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

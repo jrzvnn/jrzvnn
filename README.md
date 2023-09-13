@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI announces text-to-audio tool Stable Audio, available for free for 20 songs and 20-second tracks or $12/month for 500 songs and 90-second tracks &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/230913/p28#a230913p28)
- - [Quan Millz Was the Biggest Mystery on TikTok. Until Now](https://www.wired.com/story/quan-millz-tiktok-street-lit/)
- - [Nine wild details from the new Elon Musk biography](https://www.theverge.com/23871530/elon-musk-biography-twitter-acquisition)
- - [Woman swallowed her AirPod after mistaking it for a vitamin](https://appleinsider.com/articles/23/09/13/woman-swallowed-her-airpod-after-mistaking-it-for-a-vitamin?utm_medium=rss)
- - [Analysts say iPhone 15 incremental update will still attract buyers](https://appleinsider.com/articles/23/09/13/analysts-say-iphone-15-incremental-update-will-still-attract-buyers?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo announces Direct showcase for this winter’s Switch games](https://www.theverge.com/2023/9/13/23871713/nintendo-direct-fall-2023-switch-winter-games)
+ - [The anti-hate group sued by Musk releases another damning report on X](https://www.theverge.com/2023/9/13/23871528/anti-hate-research-group-ccdh-elon-musk-x-research-twitter)
+ - [Apple’s smart home app can now tell you when you’re using clean energy](https://www.theverge.com/2023/9/12/23871008/grid-forecast-apple-home-ios17)
+ - [Google’s Find My Device 3.0 has a fresh look, hints at upcoming features](https://www.theverge.com/2023/9/13/23871544/google-find-my-device-3-0-icon-bluetooth-trackers)
+ - [Stability AI announces text-to-audio tool Stable Audio, available for free for 20 songs and 20-second tracks or $12/month for 500 songs and 90-second tracks &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/230913/p28#a230913p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

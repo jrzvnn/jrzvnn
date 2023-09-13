@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)
- - 😝 [The one and only](http://9gag.com/gag/ay2Zm18)
+ - 😝 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)
+ - 😝 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
  - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 😝 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)
- - 👉 [Imagine getting excited over 9 years old techology...](http://9gag.com/gag/aDYrL2x)<!-- MEMES:END -->
+ - 😝 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
+ - 👉 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)<!-- MEMES:END -->
 
 ---
 </div>

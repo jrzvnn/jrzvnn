@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We go to hell together](http://9gag.com/gag/a8qQvYp)
- - 😝 [Download before it disappears again](http://9gag.com/gag/awZPPVr)
- - 💣 [When you arrive earlier from work](http://9gag.com/gag/az2ov7N)
- - 😝 [Smart answer to woke virtue signalling check.](http://9gag.com/gag/aQEBKq2)
- - 👉 [Fly Gang.nam style](http://9gag.com/gag/anz8WAz)<!-- MEMES:END -->
+ - 😝 [The one and only](http://9gag.com/gag/ay2Zm18)
+ - 😝 [What\u2019s your next move?](http://9gag.com/gag/az2ov9m)
+ - 💣 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)
+ - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
+ - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
 
 ---
 </div>

@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chicago-based Kin Insurance, which uses thousands of data points to provide personalized home insurance, raised a $33M Series D extension at a $1B+ valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230913/p42#a230913p42)
+ - [Faze Clan fires CEO as esports industry struggles](https://www.theverge.com/2023/9/13/23872288/faze-clan-lee-trink-ceo-fired-news)
  - [SpaceX’s Starlink made $1.4 billion last year](https://www.theverge.com/2023/9/13/23872244/spacex-starlink-revenue-customer-base-elon-musk)
  - [Apple Watch Series 9 vs Apple Watch Series 8 - compared](https://appleinsider.com/articles/23/09/13/apple-watch-series-9-vs-apple-watch-series-8---compared?utm_medium=rss)
- - [Sources: Arm shares are expected to be priced at as much as $52 per share, above the prior IPO range of $47-$51 a share, giving Arm a valuation of ~$54B &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p41#a230913p41)
- - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)
- - [Sony announces a new PlayStation State of Play event](https://www.theverge.com/2023/9/13/23872471/sony-playstation-state-of-play-september-2023)<!-- TECH:END -->
+ - [Sources: Arm shares are expected to be priced at as much as $52 per share, above the prior IPO range of $47-$51 a share, giving Arm a valuation of ~$54B &lpar;Financial Times&rpar;](http://www.techmeme.com/230913/p41#a230913p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

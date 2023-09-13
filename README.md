@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California lawmaker proposes regulation of AI models](https://www.theverge.com/2023/9/13/23871866/california-lawmaker-ai-regulation-transparency)
  - [Apple Watch Series 6 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-6-vs-watch-series-9-3363356/)
  - [Bio: Elon Musk told Bari Weiss that Twitter needs to be careful when discussing China due to Tesla&#39;s business, and that China&#39;s Uyghur repression has two sides &lpar;Isaac Schorr/Mediaite&rpar;](http://www.techmeme.com/230913/p35#a230913p35)
  - [US Army orders more Microsoft AR headsets now that they no longer make soldiers want to barf](https://www.theverge.com/2023/9/13/23871859/us-army-microsoft-ivas-ar-goggles-success-new-contract-hololens)
- - [TikTok has quietly been inserting Wikipedia snippets into search results](https://www.theverge.com/2023/9/13/23871880/tiktok-search-engine-wikipedia-snippets-google)
- - [Apple&#39;s new iCloud+ big data plans start at $30 per month for 6TB](https://appleinsider.com/articles/23/09/13/apples-new-icloud-big-data-plans-start-at-30-per-month-for-6tb?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok has quietly been inserting Wikipedia snippets into search results](https://www.theverge.com/2023/9/13/23871880/tiktok-search-engine-wikipedia-snippets-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

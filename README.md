@@ -146,11 +146,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [News sharing app Artifact adds Links, a new section where users can post any link and discover links through a Following page or an algorithmic For You page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230913/p34#a230913p34)
  - [How to preorder Apple’s upcoming iPhone 15 models](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
  - [Chromecast with Google TV can now stream PS5 games via PS Remote Play](https://www.androidauthority.com/chromecast-ps-remote-play-3364010/)
  - [The Biden administration approves $100 million to fix the nation’s broken EV chargers](https://www.theverge.com/2023/9/13/23871857/ev-charger-broken-fix-biden-usdot-funding-infrastructure)
- - [At just $649, the Pixel 7 Pro is an affordable iPhone 15 alternative](https://www.androidauthority.com/pixel-7-pro-deal-3364022/)
- - [More 25th anniversary wallpapers land from Google, get them here!](https://www.androidauthority.com/google-birthday-wallpapers-25-years-3364024/)<!-- TECH:END -->
+ - [At just $649, the Pixel 7 Pro is an affordable iPhone 15 alternative](https://www.androidauthority.com/pixel-7-pro-deal-3364022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

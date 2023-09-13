@@ -146,11 +146,11 @@ Dockerfile               1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NGO Save the Children confirms a data breach after cybercrime group BianLian bragged that it had hit &quot;the world&#39;s leading nonprofit&quot; and stolen 6.8TB of data &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/230913/p4#a230913p4)
  - [The A17 Pro in iPhone 15 Pro and iPhone 15 Pro Max offers hardware-accelerated ray tracing; Qualcomm and Samsung have released ray tracing-capable mobile chips &lpar;Peter Cohen/AppleInsider&rpar;](http://www.techmeme.com/230913/p3#a230913p3)
  - [Apple’s iPhone 15 Pro bests all Android phones in future smart home preparedness](https://www.androidauthority.com/apple-iphone-15-pro-thread-support-3363846/)
  - [Xcode 15 Release Candidate files show iPhone 15 and 15 Plus have 6GB of RAM and iPhone 15 Pro and 15 Pro Max have 8GB of RAM, a 2GB increase for the Pro models &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230913/p2#a230913p2)
- - [Mumbai-based Kale Logistics, which offers cloud-based tools to assist airports, seaports, and others with logistics, raised a $30M Series B led by Creaegis &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230913/p1#a230913p1)
- - [Court filing: the US DOJ claims Elon Musk repeatedly made decisions that likely ran afoul of a 2022 FTC order restricting Twitter&#39;s data security practices &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230912/p57#a230912p57)<!-- TECH:END -->
+ - [Mumbai-based Kale Logistics, which offers cloud-based tools to assist airports, seaports, and others with logistics, raised a $30M Series B led by Creaegis &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230913/p1#a230913p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

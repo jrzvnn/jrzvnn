@@ -156,11 +156,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Fashion`](http://9gag.com/gag/abvK8E8)
- - 😝 [It\u2019s happening](http://9gag.com/gag/a3ZeOLv)
- - 💣 [I&#39;m offended](http://9gag.com/gag/aA0q5q2)
- - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
- - 👉 [But what about the epstein client list?](http://9gag.com/gag/aKEn5eO)<!-- MEMES:END -->
+ - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
+ - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 👉 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)<!-- MEMES:END -->
 
 ---
 </div>

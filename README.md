@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, This Is Not an Alien. Here’s Why](https://www.wired.com/story/mexico-congress-aliens-fake/)
+ - [Samsung’s new Tab S9 tablet comes with a free storage upgrade and $100 Amazon gift card](https://www.theverge.com/2023/9/14/23872036/samsung-galaxy-tab-s9-google-pixel-6a-android-xbox-elite-deal-sale)
  - [France iPhone 12 ban over RF power induces Belgium to ask questions too](https://appleinsider.com/articles/23/09/14/france-iphone-12-ban-over-rf-power-induces-belgium-to-ask-questions-too?utm_medium=rss)
  - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
- - [Sources: Israeli PM Benjamin Netanyahu plans to fly to the US to meet Elon Musk, the latest attempt to stave off an escalating crisis over antisemitism &lpar;Washington Post&rpar;](http://www.techmeme.com/230914/p19#a230914p19)
- - [HUAWEI Watch GT 4 review: Should you buy it?](https://www.androidauthority.com/huawei-watch-gt-4-review-3363537/)
- - [The new HUAWEI Watch GT4 has a cool sleep feature you won’t find elsewhere](https://www.androidauthority.com/huawei-watch-gt-4-launched-3364260/)<!-- TECH:END -->
+ - [Sources: Israeli PM Netanyahu plans to fly to the US to meet Elon Musk, the latest attempt by Musk&#39;s allies to stave off an escalating crisis over antisemitism &lpar;Washington Post&rpar;](http://www.techmeme.com/230914/p19#a230914p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

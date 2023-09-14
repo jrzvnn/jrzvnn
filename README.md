@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 😝 [Apply cold water to the burned areas](http://9gag.com/gag/aYVZXEx)
+ - 😝 [6k of male `refugges` in 36 hours? That is no Immigration, that is an fu***ng invasion!](http://9gag.com/gag/aBdjA5D)
+ - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - 😝 [Cheating level pro](http://9gag.com/gag/aeQyn5j)
+ - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
 
 ---
 

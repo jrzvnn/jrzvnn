@@ -161,10 +161,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 😝 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
- - 💣 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
+ - 👉 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)<!-- MEMES:END -->
 
 ---
 

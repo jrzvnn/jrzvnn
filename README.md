@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Direct September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23872788/nintendo-direct-september-2023-news-trailers)
+ - [Another Code remakes are coming to the Nintendo Switch in January](https://www.theverge.com/23873427/another-code-remake-nintendo-switch-release-date-trailer)
+ - [NASA Didn’t Find Aliens—but if You See Any UFOs, Holler](https://www.wired.com/story/nasa-ufos-aliens-report-2023/)
  - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
- - [League of Legends’ Song of Nunu spinoff gets a release date](https://www.theverge.com/2023/9/14/23873249/league-of-legends-song-of-nunu-spinoff-release-date-price)
- - [The Nintendo Museum will be finished by March](https://www.theverge.com/2023/9/14/23873357/nintendo-museum-2024-gallery-history-uji-kyoto)
- - [The coolest smart home gadgets I saw in Berlin](https://www.theverge.com/23863589/favorite-smart-home-gadgets-ifa-2023-tech-show)
- - [F-Zero returns to the Switch in F-Zero 99](https://www.theverge.com/23872896/f-zero-99-nintendo-direct-trailer)<!-- TECH:END -->
+ - [League of Legends’ Song of Nunu spinoff gets a release date](https://www.theverge.com/2023/9/14/23873249/league-of-legends-song-of-nunu-spinoff-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

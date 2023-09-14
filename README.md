@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 😝 [Rekt](http://9gag.com/gag/aBdjbrP)
+ - 😝 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
+ - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - 💣 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 </div>

@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox is finally coming to PlayStation](https://www.theverge.com/2023/9/8/23863712/roblox-playstation-ps4-ps5-rdc-2023)
+ - [Microsoft and Oracle expand their cloud partnership with Oracle Database@Azure, which offers access to Oracle services on Oracle Cloud Infrastructure in Azure &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/230914/p35#a230914p35)
  - [Why everyone in the podcast world is mad at Kast Media](https://www.theverge.com/2023/9/14/23874141/podcast-kast-media-colin-thomson-whitney-cummings-theo-von-one)
  - [Surface Laptop Studio 2 leak: Intel 13th Gen, RTX 4060, and a microSD slot](https://www.theverge.com/2023/9/14/23874096/microsoft-surface-laptop-studio-2-leak-specs)
- - [SCOTUS pauses a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests, hours after DOJ filed a request &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p34#a230914p34)
- - [PlayStation State of Play September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23873488/playstation-state-of-play-september-2023-news-trailers)
- - [Windows 11 will let you copy text from your PC and Android screenshots soon](https://www.theverge.com/2023/9/14/23873939/microsoft-windows-11-text-photos-background-blur-remote-capture-android)<!-- TECH:END -->
+ - [SCOTUS pauses a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests, hours after DOJ filed a request &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p34#a230914p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

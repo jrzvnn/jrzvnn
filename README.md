@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 😝 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
- - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
+ - 😝 [Polish Super Bowl](http://9gag.com/gag/a8qQRee)
+ - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
+ - 💣 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)
+ - 😝 [Apply cold water to the burned areas](http://9gag.com/gag/aYVZXEx)
+ - 👉 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)<!-- MEMES:END -->
 
 ---
 

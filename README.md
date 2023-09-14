@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work b*tch](http://9gag.com/gag/a1PB34Y)
- - 😝 [No body cares](http://9gag.com/gag/a6q4Rz2)
- - 💣 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)
- - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
- - 👉 [Apply cold water to the burned areas](http://9gag.com/gag/aYVZXEx)<!-- MEMES:END -->
+ - 😝 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
+ - 😝 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
+ - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
+ - 👉 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)<!-- MEMES:END -->
 
 ---
 

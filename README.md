@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Arm, bolstered by success in architecture, licensing, and ecosystem, is looking to maintain a sustainable model by raising prices, not chasing market share &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230914/p11#a230914p11)
- - [Lenders allege that Indian edtech giant Byju&#39;s hid $533M in an obscure three-year-old hedge fund that once said it was based out of an IHOP restaurant in Miami &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p10#a230914p10)
- - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
- - [Bike tires made from NASA’s bizarre shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
- - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Changes Everything &lpar;Again&rpar;](https://www.wired.com/story/gadget-lab-podcast-612/)
+ - [Will the Real David Sosa Please Stand Up?](https://www.wired.com/story/data-warrants-policing-scotus/)
+ - [How to watch the September 2023 Nintendo Direct](https://www.theverge.com/2023/9/14/23872306/nintendo-direct-september-2023-live-stream-time-youtube)
+ - [The ‘Big Three’ autoworkers are about to go on strike — here’s what’s at stake](https://www.theverge.com/2023/9/14/23871914/uaw-auto-worker-strike-explained-big-three-ev-tesla)
+ - [The HP Spectre Fold is the world’s thinnest 17-inch foldable PC](https://www.theverge.com/2023/9/14/23870597/hp-spectre-fold-foldable-windows-laptop-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - 😝 [When they told me to trust nobody, I should have listened\u2026](http://9gag.com/gag/amAK474)
- - 💣 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 😝 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
- - 👉 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)<!-- MEMES:END -->
+ - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
+ - 😝 [Rekt](http://9gag.com/gag/aBdjbrP)
+ - 💣 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
+ - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
 
 ---
 

@@ -149,8 +149,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Can &#39;Monster Hunter Now&#39; Pull Niantic Out of Its Slump?](https://www.wired.com/story/monster-hunter-now-interview-kawai-osumi-niantic/)
  - [Monster Hunter Now strips the MonHun experience down to its very basics](https://www.theverge.com/23870146/monster-hunter-now-review-niantic-iphone-android)
  - [Sources: Caesars Entertainment paid tens of millions of dollars to hackers who breached the company&#39;s systems in recent weeks and threatened to release the data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/230913/p47#a230913p47)
- - [Starfield on GeForce Now is among the best and worst ways to play](https://www.theverge.com/2023/9/13/23872416/starfield-geforce-now-pc-mobile-cloud-gaming)
- - [TikTok expands its revamped creator fund Creativity Program Beta beyond the US to eligible creators in Brazil, France, Germany, Japan, South Korea, and the UK &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230913/p46#a230913p46)<!-- TECH:END -->
+ - [Apple Watch 9 Specs: How It Compares to the Series 8, Series 7 and Series 6     - CNET](https://www.cnet.com/tech/mobile/apple-watch-9-specs-how-it-compares-to-the-series-8-series-7-and-series-6/#ftag=CAD590a51e)
+ - [Starfield on GeForce Now is among the best and worst ways to play](https://www.theverge.com/2023/9/13/23872416/starfield-geforce-now-pc-mobile-cloud-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

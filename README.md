@@ -156,11 +156,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
- - 😝 [Apple designing iPhone 15 Pro be like](http://9gag.com/gag/aXnQ1Yd)
- - 💣 [But what about the epstein client list?](http://9gag.com/gag/aKEn5eO)
- - 😝 [For those people posting Mexicans ETs....](http://9gag.com/gag/aBdjeAA)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
+ - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - 💣 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
+ - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
 
 ---
 </div>

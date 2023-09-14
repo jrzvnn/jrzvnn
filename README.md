@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [F-Zero returns to the Switch in F-Zero 99](https://www.theverge.com/23872896/f-zero-99-nintendo-direct-trailer)
+ - [Nintendo is remaking Paper Mario: The Thousand-Year Door for Switch](https://www.theverge.com/2023/9/14/23873435/nintendo-switch-paper-mario-the-thousand-year-door-trailer)
+ - [Apple&#39;s security message: Keep data safe by keeping it out of the cloud](https://appleinsider.com/articles/23/09/14/apples-security-message-keep-data-safe-by-keeping-it-out-of-the-cloud?utm_medium=rss)
  - [Trombone Champ is tooting its way to Nintendo Switch with four-player co-op](https://www.theverge.com/2023/9/14/23828655/trombone-champ-nintendo-switch-multiplayer-announcement-release-date)
- - [Splatoon 3’s single-player expansion launches in 2024](https://www.theverge.com/2023/9/14/23873364/splatoon-3-expansion-pass-side-order-dlc-trailer)
- - [Linear, which makes project management software used by startups like Cohere and Ramp, raised a $35M Series B led by Accel, sources say at a $400M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230914/p21#a230914p21)
- - [iPhone 15 Pro vs iPhone 14 Pro -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-14-pro----specs-price-and-features-compared?utm_medium=rss)
- - [California’s Right to Repair Act ensures plentiful access to phone spare parts](https://www.androidauthority.com/california-right-to-repair-act-3364340/)<!-- TECH:END -->
+ - [Splatoon 3’s single-player expansion launches in 2024](https://www.theverge.com/2023/9/14/23873364/splatoon-3-expansion-pass-side-order-dlc-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

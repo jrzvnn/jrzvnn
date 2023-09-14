@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s new car-building process could be a huge industrial breakthrough](https://www.theverge.com/2023/9/14/23873345/tesla-gigapress-gigacasting-manufacturing-breakthrough)
  - [Meta’s Horizon Worlds social platform is finally coming to mobile and the web](https://www.theverge.com/2023/9/14/23873820/meta-horizon-worlds-mobile-web-vr-early-access-release)
  - [If NASA has to keep investigating UFO claims, it should get more budget for that](https://www.theverge.com/2023/9/14/23873619/nasa-ufo-budget-uap-office)
  - [Automattic releases ActivityPub 1.0.0 for WordPress, letting fediverse users follow WordPress blogs on apps like Mastodon and receive replies as blog comments &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230914/p27#a230914p27)
- - [Galaxy Z Fold 4 and Flip 4 get vague September 2023 security patch](https://www.androidauthority.com/galaxy-z-fold-4-flip-4-september-update-3364429/)
- - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)<!-- TECH:END -->
+ - [Galaxy Z Fold 4 and Flip 4 get vague September 2023 security patch](https://www.androidauthority.com/galaxy-z-fold-4-flip-4-september-update-3364429/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

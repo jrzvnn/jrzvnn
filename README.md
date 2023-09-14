@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France iPhone 12 ban over RF power induces Belgium to ask questions too](https://appleinsider.com/articles/23/09/14/france-iphone-12-ban-over-rf-power-induces-belgium-to-ask-questions-too?utm_medium=rss)
+ - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
+ - [Sources: Israeli PM Benjamin Netanyahu plans to fly to the US to meet Elon Musk, the latest attempt to stave off an escalating crisis over antisemitism &lpar;Washington Post&rpar;](http://www.techmeme.com/230914/p19#a230914p19)
  - [HUAWEI Watch GT 4 review: Should you buy it?](https://www.androidauthority.com/huawei-watch-gt-4-review-3363537/)
- - [The new HUAWEI Watch GT4 has a cool sleep feature you won’t find elsewhere](https://www.androidauthority.com/huawei-watch-gt-4-launched-3364260/)
- - [You can now buy a Mac Pro at an Apple Store, and not have to carry it out of the mall](https://appleinsider.com/articles/23/09/14/apple-promotes-new-easy-pay-online-ordering-for-iphone-15?utm_medium=rss)
- - [Nintendo Direct September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23872788/nintendo-direct-september-2023-news-trailers)
- - [Pixis, which offers AI tools for marketing campaigns, raised an $85M Series C1 led by Touring, taking its total funding to $209M, and reports $50M in ARR &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p18#a230914p18)<!-- TECH:END -->
+ - [The new HUAWEI Watch GT4 has a cool sleep feature you won’t find elsewhere](https://www.androidauthority.com/huawei-watch-gt-4-launched-3364260/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

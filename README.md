@@ -151,8 +151,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge says FTX can now sell, stake, and hedge its crypto holding, estimated to be worth $3.4B+, including $1.16B in solana, to repay creditors &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230914/p7#a230914p7)
  - [Google Pixel Tablet parts and repair guides now available from iFixit](https://www.theverge.com/2023/9/14/23873136/google-pixel-tablet-ifixit-parts-self-repair-guides)
- - [Thursday Night Football: How to Watch, Stream Vikings vs. Eagles on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-vikings-vs-eagles-on-prime-video-or-twitch/#ftag=CAD590a51e)
  - [Extremely Online book excerpt: how Julia Allison invented the concept of a content creator in the mid-2000s, for which journalists and others villainized her &lpar;Taylor Lorenz/Rolling Stone&rpar;](http://www.techmeme.com/230914/p6#a230914p6)
  - [BMW PGA Championship 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/bmw-pga-championship-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)
  - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)<!-- TECH:END -->

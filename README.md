@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work b*tch](http://9gag.com/gag/a1PB34Y)
- - 😝 [Polish Super Bowl](http://9gag.com/gag/a8qQRee)
- - 💣 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)
- - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
- - 👉 [Apply cold water to the burned areas](http://9gag.com/gag/aYVZXEx)<!-- MEMES:END -->
+ - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 💣 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
 
 ---
 

@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Extremely Online book excerpt: how Julia Allison invented the concept of a content creator in the mid-2000s, for which journalists and others villainized her &lpar;Taylor Lorenz/Rolling Stone&rpar;](http://www.techmeme.com/230914/p6#a230914p6)
+ - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)
  - [Child content creators, or &quot;kidfluencers&quot;, some of whom make $20M+/year, show that protecting kids from labor exploitation is difficult in the social media age &lpar;Tyler Cowen/Bloomberg&rpar;](http://www.techmeme.com/230914/p5#a230914p5)
  - [Top10VPN: the government&#39;s internet shutdowns in India between 2019 and 2022 cost $4.8B+ in economic activity and affected more than 120M people in 2022 &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230914/p4#a230914p4)
- - [Wayve unveils Lingo-1 self-driving car system that the company claims can explain its actions with ~60% accuracy compared to human answers; availability TBD &lpar;Financial Times&rpar;](http://www.techmeme.com/230914/p3#a230914p3)
- - [Sriracha Shortage: 10 Excellent Alternatives to Try     - CNET](https://www.cnet.com/culture/best-sriracha-alternatives/#ftag=CAD590a51e)
- - [A Concrete Crisis Has the UK Literally Crumbling](https://www.wired.com/story/raac-concrete-crisis-uk-literally-crumbling/)<!-- TECH:END -->
+ - [Wayve unveils Lingo-1 self-driving car system that the company claims can explain its actions with ~60% accuracy compared to human answers; availability TBD &lpar;Financial Times&rpar;](http://www.techmeme.com/230914/p3#a230914p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

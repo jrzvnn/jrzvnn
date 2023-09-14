@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Instacart CEO Fidji Simo helped find new ways for the company to make money, including via expanding its ads and software, which made $406M in 2023 revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230914/p9#a230914p9)
- - [Apple&#39;s new &#39;pro&#39; Thunderbolt 4 and six-foot USB-C cables are bad, and you shouldn&#39;t buy them](https://appleinsider.com/articles/23/09/14/apples-new-pro-thunderbolt-4-and-six-foot-usb-c-cables-are-bad-and-you-shouldnt-buy-them?utm_medium=rss)
- - [iPhone 15 &amp; iPhone 15 Pro can connect to an external 4K display without dongles](https://appleinsider.com/articles/23/09/14/iphone-15-iphone-15-pro-can-connect-to-an-external-4k-display-without-dongles?utm_medium=rss)
- - [On day two of the Google trial, an Apple lawyer protested two numbers the DOJ used in its opening statement, including Google paying Apple $4B-$7B for search &lpar;Washington Post&rpar;](http://www.techmeme.com/230914/p8#a230914p8)
- - [iPhone 15 Pro benchmarks show big speed improvements &amp; 8GB RAM](https://appleinsider.com/articles/23/09/14/iphone-15-pro-benchmarks-show-big-speed-improvements-8gb-ram?utm_medium=rss)<!-- TECH:END -->
+ - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)
+ - [Apple Watch Series 7 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-7-vs-series-9-3364175/)
+ - [Your New Apple Watch Series 9 Won’t Be Carbon Neutral](https://www.wired.com/story/new-apple-watch-series-9-wont-be-carbon-neutral/)
+ - [Xbox Live Gold Is Now Game Pass Core. Here&#39;s What to Know](https://www.wired.com/story/game-pass-core-xbox-live-gold-differences/)
+ - [How Instacart CEO Fidji Simo helped find new ways for the company to make money, including via expanding its ads and software, which made $406M in 2023 revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230914/p9#a230914p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney, Hulu, and Paramount Plus are all discounted for a limited time](https://www.theverge.com/2023/9/14/23873580/disney-plus-hulu-live-tv-paramount-showtime-streaming-deal-sale)
+ - [X CEO Linda Yaccarino starts bringing in her executive team](https://www.theverge.com/2023/9/14/23874008/x-ceo-linda-yaccarino-executive-team-memo)
+ - [Nothing confirms when it will launch its first smartwatch](https://www.androidauthority.com/nothing-smartwatch-launch-3364491/)
  - [Apple Watch glucose tracker gets Apple Silicon executive as project lead](https://appleinsider.com/articles/23/09/14/apple-watch-glucose-tracker-gets-apple-silicon-executive-as-project-lead?utm_medium=rss)
- - [Blackmagic Camera on iOS App Store unlocks enhanced filmmaking controls](https://appleinsider.com/articles/23/09/14/blackmagic-camera-on-ios-app-store-unlocks-enhanced-filmmaking-controls?utm_medium=rss)
- - [Inside the Senate’s Private AI Meeting With Tech’s Billionaire Elites](https://www.wired.com/story/senate-ai-forum-musk-zuckerberg/)
- - [Amazon adds back IAP for Prime Video users on Android to buy VOD rentals and more, after removing IAP from its Android apps in 2022 to avoid Google&#39;s 30% fee &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230914/p31#a230914p31)
- - [Unity unites the indie game industry against its new pricing model](https://www.theverge.com/23873852/unity-new-pricing-model-news-updates)<!-- TECH:END -->
+ - [Blackmagic Camera on iOS App Store unlocks enhanced filmmaking controls](https://appleinsider.com/articles/23/09/14/blackmagic-camera-on-ios-app-store-unlocks-enhanced-filmmaking-controls?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

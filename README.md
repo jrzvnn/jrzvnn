@@ -147,11 +147,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tallinn-based digital forensics and incident response tools provider Binalyze raised a $19M Series A led by Molten Ventures, taking its total funding to ~$30M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230913/p48#a230913p48)
+ - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)
  - [Can &#39;Monster Hunter Now&#39; Pull Niantic Out of Its Slump?](https://www.wired.com/story/monster-hunter-now-interview-kawai-osumi-niantic/)
  - [Monster Hunter Now strips the MonHun experience down to its very basics](https://www.theverge.com/23870146/monster-hunter-now-review-niantic-iphone-android)
- - [Sources: Caesars Entertainment paid tens of millions of dollars to hackers who breached the company&#39;s systems in recent weeks and threatened to release the data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/230913/p47#a230913p47)
- - [Apple Watch 9 Specs: How It Compares to the Series 8, Series 7 and Series 6     - CNET](https://www.cnet.com/tech/mobile/apple-watch-9-specs-how-it-compares-to-the-series-8-series-7-and-series-6/#ftag=CAD590a51e)
- - [Starfield on GeForce Now is among the best and worst ways to play](https://www.theverge.com/2023/9/13/23872416/starfield-geforce-now-pc-mobile-cloud-gaming)<!-- TECH:END -->
+ - [Sources: Caesars Entertainment paid tens of millions of dollars to hackers who breached the company&#39;s systems in recent weeks and threatened to release the data &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/230913/p47#a230913p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

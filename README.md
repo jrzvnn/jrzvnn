@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 &amp; iPhone 15 Pro can connect to an external 4K display without dongles](https://appleinsider.com/articles/23/09/14/iphone-15-iphone-15-pro-can-connect-to-an-external-4k-display-without-dongles?utm_medium=rss)
+ - [On day two of the Google trial, an Apple lawyer protested two numbers the DOJ used in its opening statement, including Google paying Apple $4B-$7B for search &lpar;Washington Post&rpar;](http://www.techmeme.com/230914/p8#a230914p8)
  - [iPhone 15 Pro benchmarks show big speed improvements &amp; 8GB RAM](https://appleinsider.com/articles/23/09/14/iphone-15-pro-benchmarks-show-big-speed-improvements-8gb-ram?utm_medium=rss)
  - [The AI Detection Arms Race Is On](https://www.wired.com/story/ai-detection-chat-gpt-college-students/)
- - [A US judge says FTX can now sell, stake, and hedge its crypto holding, estimated to be worth $3.4B+, including $1.16B in solana, to repay creditors &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230914/p7#a230914p7)
- - [Google Pixel Tablet parts and repair guides now available from iFixit](https://www.theverge.com/2023/9/14/23873136/google-pixel-tablet-ifixit-parts-self-repair-guides)
- - [Thursday Night Football: How to Watch, Stream Vikings vs. Eagles on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-vikings-vs-eagles-on-prime-video-or-twitch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge says FTX can now sell, stake, and hedge its crypto holding, estimated to be worth $3.4B+, including $1.16B in solana, to repay creditors &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/230914/p7#a230914p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackmagic Camera on iOS App Store unlocks enhanced filmmaking controls](https://appleinsider.com/articles/23/09/14/blackmagic-camera-on-ios-app-store-unlocks-enhanced-filmmaking-controls?utm_medium=rss)
+ - [Amazon adds back IAP for Prime Video users on Android to buy VOD rentals and more, after removing IAP from its Android apps in 2022 to avoid Google&#39;s 30% fee &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/230914/p31#a230914p31)
+ - [Unity unites the indie game industry against its new pricing model](https://www.theverge.com/23873852/unity-new-pricing-model-news-updates)
  - [It increasingly looks like the OnePlus Pad Go could only land in one country](https://www.androidauthority.com/oneplus-pad-go-availability-3364502/)
- - [Hands on: Apple&#39;s new iPhone 15 silicone cases](https://appleinsider.com/articles/23/09/14/hands-on-apples-new-iphone-15-silicone-cases?utm_medium=rss)
- - [The iPhone Mini’s long goodbye is complete — but it’s not all bad news](https://www.theverge.com/2023/9/14/23870815/small-phone-apple-iphone-mini-discontinued-15-pro-samsung-galaxy-s23)
- - [Filing: Caesars confirms the casino operator was hacked via a social engineering attack on an outsourced IT support vendor; sources: Caesars paid a ~$15M ransom &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230914/p30#a230914p30)
- - [X Premium subscribers can now hide the posts they’ve liked](https://www.theverge.com/2023/9/14/23873842/twitter-x-premium-hide-likes-tab-feature)<!-- TECH:END -->
+ - [Hands on: Apple&#39;s new iPhone 15 silicone cases](https://appleinsider.com/articles/23/09/14/hands-on-apples-new-iphone-15-silicone-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

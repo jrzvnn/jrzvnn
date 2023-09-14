@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Joseph Bankman and Barbara Fried, both renowned Stanford scholars, opened doors for their son, Sam, and provided a halo effect for FTX before its implosion &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p16#a230914p16)
- - [Munich-based Helsing, which makes software for European militaries, raised &amp;euro;209M led by General Catalyst; Saab paid &amp;euro;75M for a 5% stake, for a &amp;euro;1.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/230914/p15#a230914p15)
- - [iPhone 15 &amp; iPhone 15 Pro can connect to an external 4K display without dongles](https://appleinsider.com/articles/23/09/14/iphone-15-iphone-15-pro-can-connect-to-an-external-4k-display-without-dongles?utm_medium=rss)
- - [Hands-on with the HP Spectre Fold: a very striking design, slim bezels, a 17-inch 2560 x 1920 OLED display, 8.5mm thin, Intel i7-1250U, 16GB of RAM, and more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/230914/p14#a230914p14)
- - [Rumors of Lightning’s death are just slightly exaggerated](https://www.theverge.com/23871824/apple-products-lightning-connector-usb-c-iphone-15)<!-- TECH:END -->
+ - [‘Bodies on the line’: why climate protesters risked arrest to block BlackRock](https://www.theverge.com/2023/9/14/23872130/blackrock-protests-arrests-new-york-city-climate-change)
+ - [How to prepare for iPhone 15 pre-ordering and avoid disappointment](https://appleinsider.com/inside/iphone-15/tips/how-to-prepare-for-iphone-15-pre-ordering-and-avoid-disappointment?utm_medium=rss)
+ - [Databricks raised a $500M Series I at a $43B valuation, after raising $1.6B at a $38B valuation in August 2021, ahead of an IPO, and reports 10K+ customers &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/230914/p17#a230914p17)
+ - [The iPhone 15 Pro’s new Action Button is great news for Android](https://www.androidauthority.com/iphone-15-pro-action-button-android-3363736/)
+ - [6 Best Video Doorbell Cameras &lpar;2023&rpar;: Smart, Wireless, and a Word About Eufy and Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

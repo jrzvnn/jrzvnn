@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS pauses a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests, hours after DOJ filed a request &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p34#a230914p34)
+ - [PlayStation State of Play September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23873488/playstation-state-of-play-september-2023-news-trailers)
+ - [Windows 11 will let you copy text from your PC and Android screenshots soon](https://www.theverge.com/2023/9/14/23873939/microsoft-windows-11-text-photos-background-blur-remote-capture-android)
  - [Sources: Unity is offering a 100% Runtime Fee waiver to studios using its LevelPlay mediation platform and 80%-100% waivers to those switching from AppLovin &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/230914/p33#a230914p33)
- - [Don’t buy a Chromecast just to play PS5](https://www.theverge.com/23873872/ps5-chromecast-ps-remote-play-hands-on)
- - [Sources: in H1 2023, Flexport burned ~$300M and its revenue fell nearly 70% to $700M; founder Ryan Petersen, back as the CEO, says Flexport has $1B+ in net cash &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230914/p32#a230914p32)
- - [Disney, Hulu, and Paramount Plus are all discounted for a limited time](https://www.theverge.com/2023/9/14/23873580/disney-plus-hulu-live-tv-paramount-showtime-streaming-deal-sale)
- - [X CEO Linda Yaccarino starts bringing in her executive team](https://www.theverge.com/2023/9/14/23874008/x-ceo-linda-yaccarino-executive-team-memo)<!-- TECH:END -->
+ - [Don’t buy a Chromecast just to play PS5](https://www.theverge.com/23873872/ps5-chromecast-ps-remote-play-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

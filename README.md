@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trombone Champ is tooting its way to Nintendo Switch with four-player co-op](https://www.theverge.com/2023/9/14/23828655/trombone-champ-nintendo-switch-multiplayer-announcement-release-date)
+ - [Splatoon 3’s single-player expansion launches in 2024](https://www.theverge.com/2023/9/14/23873364/splatoon-3-expansion-pass-side-order-dlc-trailer)
  - [Linear, which makes project management software used by startups like Cohere and Ramp, raised a $35M Series B led by Accel, sources say at a $400M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230914/p21#a230914p21)
  - [iPhone 15 Pro vs iPhone 14 Pro -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-14-pro----specs-price-and-features-compared?utm_medium=rss)
- - [California’s Right to Repair Act ensures plentiful access to phone spare parts](https://www.androidauthority.com/california-right-to-repair-act-3364340/)
- - [You shouldn’t pre-order the iPhone 15 tomorrow](https://www.androidauthority.com/best-time-to-buy-iphone-15-3362910/)
- - [Mario and Donkey Kong face off in Game Boy Advance remake](https://www.theverge.com/23872870/mario-vs-donkey-kong-nintendo-direct-trailer)<!-- TECH:END -->
+ - [California’s Right to Repair Act ensures plentiful access to phone spare parts](https://www.androidauthority.com/california-right-to-repair-act-3364340/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

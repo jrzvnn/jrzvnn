@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HiRise 3 Deluxe review: A luxurious, Apple-blessed MagSafe charger](https://appleinsider.com/articles/23/09/14/hirise-3-deluxe-review-a-luxurious-apple-blessed-magsafe-charger?utm_medium=rss)
  - [No, This Is Not an Alien. Here’s Why](https://www.wired.com/story/mexico-congress-aliens-fake/)
  - [Samsung’s new Tab S9 tablet comes with a free storage upgrade and $100 Amazon gift card](https://www.theverge.com/2023/9/14/23872036/samsung-galaxy-tab-s9-google-pixel-6a-android-xbox-elite-deal-sale)
  - [France iPhone 12 ban over RF power induces Belgium to ask questions too](https://appleinsider.com/articles/23/09/14/france-iphone-12-ban-over-rf-power-induces-belgium-to-ask-questions-too?utm_medium=rss)
- - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
- - [Sources: Israeli PM Netanyahu plans to fly to the US to meet Elon Musk, the latest attempt by Musk&#39;s allies to stave off an escalating crisis over antisemitism &lpar;Washington Post&rpar;](http://www.techmeme.com/230914/p19#a230914p19)<!-- TECH:END -->
+ - [All the big conferences and events in tech, entertainment, and automotive coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

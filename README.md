@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never knew... wtf is that sht ??](http://9gag.com/gag/aqeBoOP)
- - 😝 [Are your sons so much like you?](http://9gag.com/gag/aVb4y1y)
- - 💣 [Another stick post](http://9gag.com/gag/a5Xv0xy)
  - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 👉 [No body cares](http://9gag.com/gag/a6q4Rz2)<!-- MEMES:END -->
+ - 😝 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
+ - 💣 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
+ - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 👉 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)<!-- MEMES:END -->
 
 ---
 

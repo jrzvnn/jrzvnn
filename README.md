@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 💣 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 😝 [Work b*tch](http://9gag.com/gag/a1PB34Y)
+ - 😝 [No body cares](http://9gag.com/gag/a6q4Rz2)
+ - 💣 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)
+ - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
+ - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
 
 ---
 

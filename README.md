@@ -34,7 +34,7 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
 <br />
 <br /><br />
-<a href="https://app.daily.dev/jorizvillanueva"><img src="https://api.daily.dev/devcards/07bd888c4e504c608260446ec34b251f.png?r=bk8" width="400" alt="Joriz Villanueva's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jrzvnn/jrzvnn/blob/main/devcard.svg" width="400" alt="Joriz Dev Card"/></a>
 </p>
 
 

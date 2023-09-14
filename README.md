@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenders allege that Indian edtech giant Byju&#39;s hid $533M in an obscure three-year-old hedge fund that once said it was based out of an IHOP restaurant in Miami &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p10#a230914p10)
+ - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
+ - [Bike tires made from NASA’s bizarre shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
  - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)
- - [Apple Watch Series 7 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-7-vs-series-9-3364175/)
- - [Your New Apple Watch Series 9 Won’t Be Carbon Neutral](https://www.wired.com/story/new-apple-watch-series-9-wont-be-carbon-neutral/)
- - [Xbox Live Gold Is Now Game Pass Core. Here&#39;s What to Know](https://www.wired.com/story/game-pass-core-xbox-live-gold-differences/)
- - [How Instacart CEO Fidji Simo helped find new ways for the company to make money, including via expanding its ads and software, which made $406M in 2023 revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230914/p9#a230914p9)<!-- TECH:END -->
+ - [Apple Watch Series 7 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-7-vs-series-9-3364175/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

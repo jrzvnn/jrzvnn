@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks will soon get 10 years of automatic updates](https://www.theverge.com/2023/9/14/23873319/google-chromebook-chrome-os-automatic-security-updates)
- - [The Fossil Gen 6 smartwatch hits its 2nd lowest price ever at just $173](https://www.androidauthority.com/fossil-gen-6-smartwatch-deal-3364403/)
- - [Google plans to offer Chromebook software updates for up to 10 years, starting in 2024, so no current device expires within the next two years, to help schools &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/230914/p22#a230914p22)
- - [Apple TV+ expands kids slate with spooky &#39;Curses!&#39; and more](https://appleinsider.com/articles/23/09/14/apple-tv-expands-kids-slate-with-spooky-curses-and-more?utm_medium=rss)
- - [Three classic Tomb Raider games are launching on the Switch](https://www.theverge.com/23873400/tomb-raider-1-3-remastered-nintendo-switch-trailer)<!-- TECH:END -->
+ - [This foldable tablet can transform into a laptop and desktop](https://www.androidauthority.com/hp-spectre-fold-folding-pc-3364356/)
+ - [Butt-dial of iPhone Emergency SOS via satellite still summons helicopter rescue](https://appleinsider.com/articles/23/09/14/butt-dial-of-iphone-emergency-sos-via-satellite-still-summons-helicopter-rescue?utm_medium=rss)
+ - [Unity cancels a town hall and closes two offices after receiving what the company says was a credible death threat, following huge backlash to its install fees &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230914/p23#a230914p23)
+ - [Chromebooks will now get updates for twice as long as Pixel phones](https://www.androidauthority.com/google-chromebook-updates-3364119/)
+ - [Don&#39;t Count on Tesla&#39;s Dojo Supercomputer to Jump-Start an AI Revolution](https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

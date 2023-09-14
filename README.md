@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why everyone in the podcast world is mad at Kast Media](https://www.theverge.com/2023/9/14/23874141/podcast-kast-media-colin-thomson-whitney-cummings-theo-von-one)
+ - [Surface Laptop Studio 2 leak: Intel 13th Gen, RTX 4060, and a microSD slot](https://www.theverge.com/2023/9/14/23874096/microsoft-surface-laptop-studio-2-leak-specs)
  - [SCOTUS pauses a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests, hours after DOJ filed a request &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p34#a230914p34)
  - [PlayStation State of Play September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23873488/playstation-state-of-play-september-2023-news-trailers)
- - [Windows 11 will let you copy text from your PC and Android screenshots soon](https://www.theverge.com/2023/9/14/23873939/microsoft-windows-11-text-photos-background-blur-remote-capture-android)
- - [Sources: Unity is offering a 100% Runtime Fee waiver to studios using its LevelPlay mediation platform and 80%-100% waivers to those switching from AppLovin &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/230914/p33#a230914p33)
- - [Don’t buy a Chromecast just to play PS5](https://www.theverge.com/23873872/ps5-chromecast-ps-remote-play-hands-on)<!-- TECH:END -->
+ - [Windows 11 will let you copy text from your PC and Android screenshots soon](https://www.theverge.com/2023/9/14/23873939/microsoft-windows-11-text-photos-background-blur-remote-capture-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

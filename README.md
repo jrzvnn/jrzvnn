@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
  - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
+ - 😝 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
+ - 👉 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)<!-- MEMES:END -->
 
 ---
 </div>

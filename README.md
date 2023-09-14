@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation State of Play September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23873488/playstation-state-of-play-september-2023-news-trailers)
+ - [Adobe reports Q3 revenue up 10% YoY to $4.89B, vs. $4.87B est., Digital Media revenue up 11% YoY to $3.59B, and Digital Experience revenue up 10% YoY to $1.23B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230914/p36#a230914p36)
  - [Here’s a look at the expanded New York City in Marvel’s Spider-Man 2](https://www.theverge.com/23874289/marvels-spider-man-2-playstation-state-of-play-trailer-nyc-map)
  - [Netflix’s live-action One Piece to set sail with even more episodes](https://www.theverge.com/2023/9/14/23874258/netflix-one-piece-season-2-announcement)
- - [Final Fantasy VII Rebirth comes out in February](https://www.theverge.com/23874206/final-fantasy-vii-rebirth-trailer-release-date-ps5)
- - [Resident Evil 4 remake is getting its Separate Ways DLC on September 21st](https://www.theverge.com/2023/9/14/23874264/resident-evil-4-ps5-remake-separate-ways-dlc-vr-mode-mercenaries-update)
- - [How to Preorder the iPhone 15 and Which Model Should You Buy?](https://www.wired.com/story/apple-iphone-15-deals/)<!-- TECH:END -->
+ - [Final Fantasy VII Rebirth comes out in February](https://www.theverge.com/23874206/final-fantasy-vii-rebirth-trailer-release-date-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

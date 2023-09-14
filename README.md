@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Arm, bolstered by success in architecture, licensing, and ecosystem, is looking to maintain a sustainable model by raising prices, not chasing market share &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/230914/p11#a230914p11)
  - [Lenders allege that Indian edtech giant Byju&#39;s hid $533M in an obscure three-year-old hedge fund that once said it was based out of an IHOP restaurant in Miami &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p10#a230914p10)
  - [How to use SharePlay with CarPlay in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-shareplay-with-carplay-in-ios-17?utm_medium=rss)
  - [Bike tires made from NASA’s bizarre shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
- - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)
- - [Apple Watch Series 7 vs Watch Series 9: Should you upgrade?](https://www.androidauthority.com/apple-watch-series-7-vs-series-9-3364175/)<!-- TECH:END -->
+ - [Activists agitate for &#39;iPhone infinity&#39; with AI-generated Tim Cook, promise protests](https://appleinsider.com/articles/23/09/13/activists-agitate-for-iphone-infinity-with-ai-generated-tim-cook-promise-protests?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

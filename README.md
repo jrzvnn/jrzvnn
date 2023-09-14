@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
- - 😝 [R.I.P.](http://9gag.com/gag/a7qPx9r)
- - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 😝 [`Fashion`](http://9gag.com/gag/abvK8E8)
+ - 😝 [It\u2019s happening](http://9gag.com/gag/a3ZeOLv)
+ - 💣 [I&#39;m offended](http://9gag.com/gag/aA0q5q2)
+ - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
+ - 👉 [But what about the epstein client list?](http://9gag.com/gag/aKEn5eO)<!-- MEMES:END -->
 
 ---
 </div>

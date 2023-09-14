@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 😝 [Rekt](http://9gag.com/gag/aBdjbrP)
- - 💣 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
- - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
+ - 😝 [I never knew... wtf is that sht ??](http://9gag.com/gag/aqeBoOP)
+ - 😝 [Are your sons so much like you?](http://9gag.com/gag/aVb4y1y)
+ - 💣 [Another stick post](http://9gag.com/gag/a5Xv0xy)
+ - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 👉 [No body cares](http://9gag.com/gag/a6q4Rz2)<!-- MEMES:END -->
 
 ---
 

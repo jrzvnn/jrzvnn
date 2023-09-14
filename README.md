@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 👉 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)<!-- MEMES:END -->
+ - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
+ - 💣 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
+ - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
+ - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
 
 ---
 

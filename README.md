@@ -156,10 +156,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
  - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
- - 💣 [No meme, just a thing I think is good for everyone to know - just in case.](http://9gag.com/gag/aoKAA5g)
- - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 💣 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
  - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
 
 ---

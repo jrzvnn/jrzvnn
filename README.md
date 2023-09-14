@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Joseph Bankman and Barbara Fried, both renowned Stanford scholars, opened doors for their son, Sam, and provided a halo effect for FTX before its implosion &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p16#a230914p16)
  - [Munich-based Helsing, which makes software for European militaries, raised &amp;euro;209M led by General Catalyst; Saab paid &amp;euro;75M for a 5% stake, for a &amp;euro;1.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/230914/p15#a230914p15)
  - [iPhone 15 &amp; iPhone 15 Pro can connect to an external 4K display without dongles](https://appleinsider.com/articles/23/09/14/iphone-15-iphone-15-pro-can-connect-to-an-external-4k-display-without-dongles?utm_medium=rss)
  - [Hands-on with the HP Spectre Fold: a very striking design, slim bezels, a 17-inch 2560 x 1920 OLED display, 8.5mm thin, Intel i7-1250U, 16GB of RAM, and more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/230914/p14#a230914p14)
- - [Rumors of Lightning’s death are just slightly exaggerated](https://www.theverge.com/23871824/apple-products-lightning-connector-usb-c-iphone-15)
- - [HP unveils the Spectre Fold, a foldable PC that can be used as 17-inch tablet or laptop, or as a 12.3-inch laptop, weighing under 3lb, starting at $5,000 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230914/p13#a230914p13)<!-- TECH:END -->
+ - [Rumors of Lightning’s death are just slightly exaggerated](https://www.theverge.com/23871824/apple-products-lightning-connector-usb-c-iphone-15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

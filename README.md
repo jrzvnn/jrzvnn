@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 💣 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
+ - 😝 [Currucuuu! Currucuuu!](http://9gag.com/gag/aQEBWr8)
+ - 😝 [Never forget the spirit of the first days of war](http://9gag.com/gag/avQ4NoE)
+ - 💣 [Freedom !](http://9gag.com/gag/aGE6X8w)
+ - 😝 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
+ - 👉 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)<!-- MEMES:END -->
 
 ---
 

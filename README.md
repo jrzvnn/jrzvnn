@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Denies iPhone 12 High Radiofrequency Concerns     - CNET](https://www.cnet.com/tech/mobile/apple-denies-iphone-12-high-radiofrequency-concerns/#ftag=CAD590a51e)
  - [Threads now lets you quote posts on the web](https://www.theverge.com/2023/9/14/23874414/threads-quote-posts-web-mobile-notifications)
  - [In Final Fantasy VII Rebirth, you can’t use your old Remake save](https://www.theverge.com/2023/9/14/23874373/final-fantasy-vii-rebirth-remake-save-file-aerith)
  - [DoorDash plans to transfer its listing from the New York Stock Exchange to the Nasdaq and begin trading on September 27, 2023, under the same symbol DASH &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230914/p37#a230914p37)
- - [Bose announces new Ultra line of headphones with spatial audio](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-launch-3364519/)
- - [Disney reportedly held talks about selling ABC](https://www.theverge.com/2023/9/14/23874313/disney-sell-abc-nexstar-local-media-group)<!-- TECH:END -->
+ - [Bose announces new Ultra line of headphones with spatial audio](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-launch-3364519/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

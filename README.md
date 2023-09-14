@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If NASA has to keep investigating UFO claims, it should get more budget for that](https://www.theverge.com/2023/9/14/23873619/nasa-ufo-budget-uap-office)
+ - [Automattic releases ActivityPub 1.0.0 for WordPress, letting fediverse users follow WordPress blogs on apps like Mastodon and receive replies as blog comments &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230914/p27#a230914p27)
  - [Galaxy Z Fold 4 and Flip 4 get vague September 2023 security patch](https://www.androidauthority.com/galaxy-z-fold-4-flip-4-september-update-3364429/)
  - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
- - [Ember’s new temperature-controlled tumbler is its biggest and most expensive mug yet](https://www.theverge.com/2023/9/14/23873613/ember-tumbler-temperature-controlled-mug)
- - [Greater Manchester Police confirm a ransomware attack on its ID supplier, potentially exposing officer identities, one month after a breach in Northern Ireland &lpar;BBC&rpar;](http://www.techmeme.com/230914/p26#a230914p26)
- - [MGM was likely hacked by Scattered Spider, an English-speaking group that previously used help desk calls to get passwords and planned to hack the slot machines &lpar;Mehul Srivastava/Financial Times&rpar;](http://www.techmeme.com/230914/p25#a230914p25)<!-- TECH:END -->
+ - [Best Streaming Services for Kids in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

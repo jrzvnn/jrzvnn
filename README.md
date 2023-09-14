@@ -31,7 +31,12 @@
 <br />
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
+<br />
+<a href="https://app.daily.dev/jorizvillanueva"><img src="https://api.daily.dev/devcards/07bd888c4e504c608260446ec34b251f.png?r=58n" width="400" alt="Joriz Villanueva's Dev Card"/></a>
+</p>
+
 
 <br />
 

@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Caesars confirms it was hacked via a social engineering attack on an outsourced IT support vendor; sources: the company paid a ransom of ~$15M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230914/p30#a230914p30)
- - [X Premium subscribers can now hide the posts they’ve liked](https://www.theverge.com/2023/9/14/23873842/twitter-x-premium-hide-likes-tab-feature)
- - [You can now buy a Mac Pro at an Apple Store, and not have to carry it out of the mall](https://appleinsider.com/articles/23/09/14/apple-promotes-new-easy-pay-online-ordering-for-iphone-15?utm_medium=rss)
- - [The 16 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Hulu’s new top 15 row might make it easier to find something to watch](https://www.theverge.com/2023/9/14/23873905/hulu-top-15-row-popular-shows-movies)<!-- TECH:END -->
+ - [It increasingly looks like the OnePlus Pad Go could only land in one country](https://www.androidauthority.com/oneplus-pad-go-availability-3364502/)
+ - [Hands on: Apple&#39;s new iPhone 15 silicone cases](https://appleinsider.com/articles/23/09/14/hands-on-apples-new-iphone-15-silicone-cases?utm_medium=rss)
+ - [The iPhone Mini’s long goodbye is complete — but it’s not all bad news](https://www.theverge.com/2023/9/14/23870815/small-phone-apple-iphone-mini-discontinued-15-pro-samsung-galaxy-s23)
+ - [Filing: Caesars confirms the casino operator was hacked via a social engineering attack on an outsourced IT support vendor; sources: Caesars paid a ~$15M ransom &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230914/p30#a230914p30)
+ - [X Premium subscribers can now hide the posts they’ve liked](https://www.theverge.com/2023/9/14/23873842/twitter-x-premium-hide-likes-tab-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

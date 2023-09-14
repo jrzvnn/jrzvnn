@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This foldable tablet can transform into a laptop and desktop](https://www.androidauthority.com/hp-spectre-fold-folding-pc-3364356/)
- - [Butt-dial of iPhone Emergency SOS via satellite still summons helicopter rescue](https://appleinsider.com/articles/23/09/14/butt-dial-of-iphone-emergency-sos-via-satellite-still-summons-helicopter-rescue?utm_medium=rss)
- - [Unity cancels a town hall and closes two offices after receiving what the company says was a credible death threat, following huge backlash to its install fees &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230914/p23#a230914p23)
- - [Chromebooks will now get updates for twice as long as Pixel phones](https://www.androidauthority.com/google-chromebook-updates-3364119/)
- - [Don&#39;t Count on Tesla&#39;s Dojo Supercomputer to Jump-Start an AI Revolution](https://www.wired.com/story/fast-forward-tesla-dojo-supercomputer-elon-musk-ai-revolution/)<!-- TECH:END -->
+ - [Steve Jobs signed iPad, plus a check and unopened iPhones, are up for auction](https://appleinsider.com/articles/23/09/14/steve-jobs-signed-ipad-plus-a-check-and-unopened-iphones-are-up-for-auction?utm_medium=rss)
+ - [TikTok is tracking its most popular songs with a Billboard top 50 chart](https://www.theverge.com/2023/9/14/23873516/billboard-tiktok-top-50-chart-songs)
+ - [Cruise unveils a wheelchair-accessible robotaxi, with plans to launch in 2024](https://www.theverge.com/2023/9/14/23873374/cruise-wav-robotaxi-wheelchair-accessible-design-launch)
+ - [Libya’s Deadly Floods Show the Growing Threat of Medicanes](https://www.wired.com/story/libya-medicane-flooding-storm-daniel-derma/)
+ - [Cyberpunk 2077’s next major update launches very soon](https://www.theverge.com/2023/9/14/23873573/cyberpunk-2077-update-2-0-launch-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

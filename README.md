@@ -156,11 +156,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
- - 😝 [R.I.P.](http://9gag.com/gag/a7qPx9r)
- - 💣 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
+ - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
+ - 😝 [Apple designing iPhone 15 Pro be like](http://9gag.com/gag/aXnQ1Yd)
+ - 💣 [But what about the epstein client list?](http://9gag.com/gag/aKEn5eO)
+ - 😝 [For those people posting Mexicans ETs....](http://9gag.com/gag/aBdjeAA)
+ - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
 
 ---
 </div>

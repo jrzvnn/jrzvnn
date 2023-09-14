@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
  - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 😝 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
- - 👉 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)<!-- MEMES:END -->
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 💣 [According to experts , she is the most beautiful woman of last century.](http://9gag.com/gag/arm9EzV)
+ - 😝 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 

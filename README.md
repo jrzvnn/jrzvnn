@@ -152,10 +152,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple TV+ expands kids slate with spooky &#39;Curses!&#39; and more](https://appleinsider.com/articles/23/09/14/apple-tv-expands-kids-slate-with-spooky-curses-and-more?utm_medium=rss)
+ - [Three classic Tomb Raider games are launching on the Switch](https://www.theverge.com/23873400/tomb-raider-1-3-remastered-nintendo-switch-trailer)
  - [The best Apple iPhone 15 Pro cases you can buy](https://www.androidauthority.com/best-apple-iphone-15-pro-cases-3364261/)
  - [Nintendo Direct September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23872788/nintendo-direct-september-2023-news-trailers)
- - [Another Code remakes are coming to the Nintendo Switch in January](https://www.theverge.com/23873427/another-code-remake-nintendo-switch-release-date-trailer)
- - [NASA Didn’t Find Aliens—but if You See Any UFOs, Holler](https://www.wired.com/story/nasa-ufos-aliens-report-2023/)<!-- TECH:END -->
+ - [Another Code remakes are coming to the Nintendo Switch in January](https://www.theverge.com/23873427/another-code-remake-nintendo-switch-release-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -147,11 +147,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing OS 2.0.3 for Nothing Phone 2 gets wider rollout with new features](https://www.androidauthority.com/nothing-phone-2-nothing-os-2-0-3-update-3364200/)
  - [A memo by a lawyer for the ~2,000 former Twitter employees laid off after Musk took over says X has agreed to enter settlement talks set for Dec. 1 and Dec. 2 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p1#a230914p1)
+ - [5 Apps That Tell You When and Where Something&#39;s Streaming on TV     - CNET](https://www.cnet.com/tech/services-and-software/5-apps-tell-you-when-where-something-streaming-on-tv/#ftag=CAD590a51e)
  - [Tallinn-based digital forensics and incident response tools provider Binalyze raised a $19M Series A led by Molten Ventures, taking its total funding to ~$30M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230913/p48#a230913p48)
- - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)
- - [Can &#39;Monster Hunter Now&#39; Pull Niantic Out of Its Slump?](https://www.wired.com/story/monster-hunter-now-interview-kawai-osumi-niantic/)
- - [Monster Hunter Now strips the MonHun experience down to its very basics](https://www.theverge.com/23870146/monster-hunter-now-review-niantic-iphone-android)<!-- TECH:END -->
+ - [Intel&#39;s Thunderbolt 5 Doubles Speeds to Give Gamers Better, Faster Displays     - CNET](https://www.cnet.com/tech/computing/intels-thunderbolt-5-doubles-speeds-to-give-gamers-better-faster-displays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

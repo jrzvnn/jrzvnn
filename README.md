@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X Premium subscribers can now hide the posts they’ve liked](https://www.theverge.com/2023/9/14/23873842/twitter-x-premium-hide-likes-tab-feature)
  - [You can now buy a Mac Pro at an Apple Store, and not have to carry it out of the mall](https://appleinsider.com/articles/23/09/14/apple-promotes-new-easy-pay-online-ordering-for-iphone-15?utm_medium=rss)
  - [The 16 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Hulu’s new top 15 row might make it easier to find something to watch](https://www.theverge.com/2023/9/14/23873905/hulu-top-15-row-popular-shows-movies)
- - [Developers respond to Unity’s new pricing scheme](https://www.theverge.com/2023/9/14/23872330/unity-developers-react-new-pricing-model)
- - [The Biden administration asks SCOTUS to pause a lower court&#39;s order limiting the White House, FBI, and public health agencies from making social media requests &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230914/p29#a230914p29)<!-- TECH:END -->
+ - [Developers respond to Unity’s new pricing scheme](https://www.theverge.com/2023/9/14/23872330/unity-developers-react-new-pricing-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

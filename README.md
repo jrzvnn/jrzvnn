@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Currucuuu! Currucuuu!](http://9gag.com/gag/aQEBWr8)
- - 😝 [Never forget the spirit of the first days of war](http://9gag.com/gag/avQ4NoE)
- - 💣 [Freedom !](http://9gag.com/gag/aGE6X8w)
- - 😝 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
- - 👉 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)<!-- MEMES:END -->
+ - 😝 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
+ - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
+ - 💣 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
 
 ---
 

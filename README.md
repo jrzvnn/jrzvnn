@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Bodies on the line’: why climate protesters risked arrest to block BlackRock](https://www.theverge.com/2023/9/14/23872130/blackrock-protests-arrests-new-york-city-climate-change)
- - [How to prepare for iPhone 15 pre-ordering and avoid disappointment](https://appleinsider.com/inside/iphone-15/tips/how-to-prepare-for-iphone-15-pre-ordering-and-avoid-disappointment?utm_medium=rss)
- - [Databricks raised a $500M Series I at a $43B valuation, after raising $1.6B at a $38B valuation in August 2021, ahead of an IPO, and reports 10K+ customers &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/230914/p17#a230914p17)
- - [The iPhone 15 Pro’s new Action Button is great news for Android](https://www.androidauthority.com/iphone-15-pro-action-button-android-3363736/)
- - [6 Best Video Doorbell Cameras &lpar;2023&rpar;: Smart, Wireless, and a Word About Eufy and Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
+ - [HUAWEI Watch GT 4 review: Should you buy it?](https://www.androidauthority.com/huawei-watch-gt-4-review-3363537/)
+ - [The new HUAWEI Watch GT4 has a cool sleep feature you won’t find elsewhere](https://www.androidauthority.com/huawei-watch-gt-4-launched-3364260/)
+ - [You can now buy a Mac Pro at an Apple Store, and not have to carry it out of the mall](https://appleinsider.com/articles/23/09/14/apple-promotes-new-easy-pay-online-ordering-for-iphone-15?utm_medium=rss)
+ - [Nintendo Direct September 2023: all the news and trailers](https://www.theverge.com/2023/9/14/23872788/nintendo-direct-september-2023-news-trailers)
+ - [Pixis, which offers AI tools for marketing campaigns, raised an $85M Series C1 led by Touring, taking its total funding to $209M, and reports $50M in ARR &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p18#a230914p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

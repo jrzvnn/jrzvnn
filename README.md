@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)
+ - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty)
  - [The next emoji coming to your phone include head shakes and a phoenix](https://www.theverge.com/2023/9/14/23874429/emoji-15-1-head-shakes-phoenix-lime)
  - [Apple Denies iPhone 12 High Radiofrequency Concerns     - CNET](https://www.cnet.com/tech/mobile/apple-denies-iphone-12-high-radiofrequency-concerns/#ftag=CAD590a51e)
- - [Threads now lets you quote posts on the web](https://www.theverge.com/2023/9/14/23874414/threads-quote-posts-web-mobile-notifications)
- - [In Final Fantasy VII Rebirth, you can’t use your old Remake save](https://www.theverge.com/2023/9/14/23874373/final-fantasy-vii-rebirth-remake-save-file-aerith)
- - [DoorDash plans to transfer its listing from the New York Stock Exchange to the Nasdaq and begin trading on September 27, 2023, under the same symbol DASH &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230914/p37#a230914p37)<!-- TECH:END -->
+ - [Threads now lets you quote posts on the web](https://www.theverge.com/2023/9/14/23874414/threads-quote-posts-web-mobile-notifications)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

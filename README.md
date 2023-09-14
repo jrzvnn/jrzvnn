@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden administration asks SCOTUS to pause a lower court&#39;s order that limits social media requests from the White House, FBI, and key public health agencies &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230914/p29#a230914p29)
  - [Bose just overhauled its entire lineup of headphones and earbuds](https://www.theverge.com/2023/9/14/23873671/bose-quietcomfort-ultra-headphones-earbuds-announced)
  - [Donald and Stephen Glover’s Lando Calrissian series is actually going to be a movie](https://www.theverge.com/23873769/lando-calrissian-movie-stephen-glover-donald)
  - [Where is John Wick Streaming? How to watch all four chapters](https://www.androidauthority.com/john-wick-streaming-3364449/)
- - [Hands on: Apple&#39;s new FineWoven iPhone 15 cases](https://appleinsider.com/articles/23/09/14/hands-on-apples-new-finewoven-iphone-15-cases?utm_medium=rss)
- - [Meta expands Horizon Worlds, previously exclusive to its VR headsets, to the web and mobile, starting with some users on Android, with iOS rollout coming soon &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230914/p28#a230914p28)<!-- TECH:END -->
+ - [Hands on: Apple&#39;s new FineWoven iPhone 15 cases](https://appleinsider.com/articles/23/09/14/hands-on-apples-new-finewoven-iphone-15-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

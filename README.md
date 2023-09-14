@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
  - 😝 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
- - 💣 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
- - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 👉 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)<!-- MEMES:END -->
+ - 💣 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
+ - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
 
 ---
 

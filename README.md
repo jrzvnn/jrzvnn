@@ -147,11 +147,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top10VPN: the government&#39;s internet shutdowns in India between 2019 and 2022 cost $4.8B+ in economic activity and affected more than 120M people in 2022 &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/230914/p4#a230914p4)
+ - [Wayve unveils Lingo-1 self-driving car system that the company claims can explain its actions with ~60% accuracy compared to human answers; availability TBD &lpar;Financial Times&rpar;](http://www.techmeme.com/230914/p3#a230914p3)
+ - [A Concrete Crisis Has the UK Literally Crumbling](https://www.wired.com/story/raac-concrete-crisis-uk-literally-crumbling/)
  - [Researchers develop RETFound, an AI tool capable of predicting the risk of ocular diseases, heart failure, Parkinson&#39;s disease, and more based on retinal images &lpar;Mariana Lenharo/Nature&rpar;](http://www.techmeme.com/230914/p2#a230914p2)
- - [Android Auto will now tell you if you’re heading into bad weather](https://www.androidauthority.com/android-auto-new-apps-3364212/)
- - [Nothing OS 2.0.3 for Nothing Phone 2 gets wider rollout with new features](https://www.androidauthority.com/nothing-phone-2-nothing-os-2-0-3-update-3364200/)
- - [A memo by a lawyer for the ~2,000 former Twitter employees laid off after Musk took over says X has agreed to enter settlement talks set for Dec. 1 and Dec. 2 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p1#a230914p1)
- - [Best Online Tools for Dungeons &amp; Dragons     - CNET](https://www.cnet.com/tech/services-and-software/best-online-tools-for-dungeons-and-dragons/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android Auto will now tell you if you’re heading into bad weather](https://www.androidauthority.com/android-auto-new-apps-3364212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

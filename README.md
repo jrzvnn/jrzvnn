@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands its search and discovery features, including multimodal search and Find-on-Amazon, which lets users find similar products to those in a photo &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230914/p20#a230914p20)
- - [Daily deals Sept. 14: $70 off AirPods Max, $300 off M2 Max MacBook Pro, $250 off an MSI Bravo Gaming Laptop, more](https://appleinsider.com/articles/23/09/14/daily-deals-sept-14-70-off-airpods-max-300-off-m2-max-macbook-pro-250-off-an-msi-bravo-gaming-laptop-more?utm_medium=rss)
- - [HiRise 3 Deluxe review: A luxurious, Apple-blessed MagSafe charger](https://appleinsider.com/articles/23/09/14/hirise-3-deluxe-review-a-luxurious-apple-blessed-magsafe-charger?utm_medium=rss)
- - [No, This Is Not an Alien. Here’s Why](https://www.wired.com/story/mexico-congress-aliens-fake/)
- - [Samsung’s new Tab S9 tablet comes with a free storage upgrade and $100 Amazon gift card](https://www.theverge.com/2023/9/14/23872036/samsung-galaxy-tab-s9-google-pixel-6a-android-xbox-elite-deal-sale)<!-- TECH:END -->
+ - [Linear, which makes project management software used by startups like Cohere and Ramp, raised a $35M Series B led by Accel, sources say at a $400M valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230914/p21#a230914p21)
+ - [iPhone 15 Pro vs iPhone 14 Pro -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-14-pro----specs-price-and-features-compared?utm_medium=rss)
+ - [California’s Right to Repair Act ensures plentiful access to phone spare parts](https://www.androidauthority.com/california-right-to-repair-act-3364340/)
+ - [You shouldn’t pre-order the iPhone 15 tomorrow](https://www.androidauthority.com/best-time-to-buy-iphone-15-3362910/)
+ - [Mario and Donkey Kong face off in Game Boy Advance remake](https://www.theverge.com/23872870/mario-vs-donkey-kong-nintendo-direct-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

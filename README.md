@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not an expert in fish psychology, but this one is a real psychopath.](http://9gag.com/gag/aRE989B)
  - 😝 [Ahh yes, I too Love Pre-ordering stuff](http://9gag.com/gag/a7qPPnw)
- - 💣 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)
- - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
- - 👉 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)<!-- MEMES:END -->
+ - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
+ - 👉 [With Unity and it&#39;s new pricing model](http://9gag.com/gag/a3ZerM1)<!-- MEMES:END -->
 
 ---
 </div>

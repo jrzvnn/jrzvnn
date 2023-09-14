@@ -164,7 +164,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [No body cares](http://9gag.com/gag/a6q4Rz2)
  - 💣 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)
  - 😝 [Yeah](http://9gag.com/gag/aGE64AZ)
- - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
+ - 👉 [Apply cold water to the burned areas](http://9gag.com/gag/aYVZXEx)<!-- MEMES:END -->
 
 ---
 

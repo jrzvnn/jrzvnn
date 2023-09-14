@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s a look at the expanded New York City in Marvel’s Spider-Man 2](https://www.theverge.com/23874289/marvels-spider-man-2-playstation-state-of-play-trailer-nyc-map)
+ - [Netflix’s live-action One Piece to set sail with even more episodes](https://www.theverge.com/2023/9/14/23874258/netflix-one-piece-season-2-announcement)
+ - [Final Fantasy VII Rebirth comes out in February](https://www.theverge.com/23874206/final-fantasy-vii-rebirth-trailer-release-date-ps5)
  - [Resident Evil 4 remake is getting its Separate Ways DLC on September 21st](https://www.theverge.com/2023/9/14/23874264/resident-evil-4-ps5-remake-separate-ways-dlc-vr-mode-mercenaries-update)
- - [How to Preorder the iPhone 15 and Which Model Should You Buy?](https://www.wired.com/story/apple-iphone-15-deals/)
- - [Roblox is finally coming to PlayStation](https://www.theverge.com/2023/9/8/23863712/roblox-playstation-ps4-ps5-rdc-2023)
- - [Microsoft and Oracle expand their cloud partnership with Oracle Database@Azure, which lets users access Oracle services on Oracle Cloud Infrastructure in Azure &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/230914/p35#a230914p35)
- - [Why everyone in the podcast world is mad at Kast Media](https://www.theverge.com/2023/9/14/23874141/podcast-kast-media-colin-thomson-whitney-cummings-theo-von-one)<!-- TECH:END -->
+ - [How to Preorder the iPhone 15 and Which Model Should You Buy?](https://www.wired.com/story/apple-iphone-15-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

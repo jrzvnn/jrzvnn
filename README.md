@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MEXICAN CONGRESS JUST SHOWED ALIEN BODIES ON A LIVE HEARING!](http://9gag.com/gag/a6q4gO9)
- - 😝 [Derna, Libya is almost completely wiped out. Death toll expected to be over 20k](http://9gag.com/gag/ap9zM9b)
- - 💣 [Rekt](http://9gag.com/gag/aBdjbrP)
+ - 😝 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)
  - 😝 [R.I.P.](http://9gag.com/gag/a7qPx9r)
- - 👉 [Judges with emotional feelings](http://9gag.com/gag/a3ZeDx7)<!-- MEMES:END -->
+ - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
+ - 😝 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)
+ - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
 
 ---
 </div>

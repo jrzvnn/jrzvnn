@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best MagSafe cases for your iPhone 14 series phone](https://www.androidauthority.com/best-iphone-14-magsafe-cases-3364295/)
- - [Preorders for the new iPhone 15 are now live — here’s where to get yours](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
- - [Pre-orders for iPhone 15 &amp; iPhone 15 Pro have started](https://appleinsider.com/articles/23/09/15/pre-orders-for-iphone-15-iphone-15-pro-have-started?utm_medium=rss)
- - [How to Trade In or Sell Your iPhone &lpar;2023&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
- - [Electrifying Your Home Is About to Get a Lot Cheaper](https://www.wired.com/story/electrifying-your-home-is-about-to-get-a-lot-cheaper/)<!-- TECH:END -->
+ - [High demand sees iPhone 15 Pro Max immediately sell out](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
+ - [X can now ask users for government IDs to verify their paid accounts](https://www.theverge.com/2023/9/15/23874854/x-twitter-verification-government-id-paid-account-benefits)
+ - [Artifact co-founder Mike Krieger is coming to the Code Conference](https://www.theverge.com/2023/9/15/23874267/artifact-mike-krieger-code-conference-2023)
+ - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)
+ - [Watch Unlock could make unlocking your phone a breeze](https://www.androidauthority.com/watch-unlock-wear-os-phone-hands-on-3364764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

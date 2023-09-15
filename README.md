@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 😝 [What she is trying?](http://9gag.com/gag/a4omO8w)
- - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
+ - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)<!-- MEMES:END -->
+ - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
 
 ---
 

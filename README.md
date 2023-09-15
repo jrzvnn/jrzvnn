@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whats with all the mind-games](http://9gag.com/gag/awZPqVx)
- - 😝 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)
- - 💣 [Quadrakill](http://9gag.com/gag/a9qZQb6)
+ - 😝 [Some people find the driving license in chips](http://9gag.com/gag/aXnQBp6)
+ - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 💣 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Timelaps of the average village in Africa, from -8000 to 2023.](http://9gag.com/gag/a4omMEw)<!-- MEMES:END -->
+ - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
 
 ---
 

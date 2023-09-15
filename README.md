@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
- - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
- - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
+ - 💣 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)<!-- MEMES:END -->
+ - 👉 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)<!-- MEMES:END -->
 
 ---
 

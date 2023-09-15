@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 😝 [The AI sound for dialogue on Prime is a bit better but everywhere else....](http://9gag.com/gag/abvKPL8)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
  - 💣 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)<!-- MEMES:END -->
+ - 👉 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)<!-- MEMES:END -->
 
 ---
 

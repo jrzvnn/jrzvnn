@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook picks an iPhone color, manages to praise them all](https://appleinsider.com/articles/23/09/15/tim-cook-picks-an-iphone-color-manages-to-praise-them-all?utm_medium=rss)
  - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)
  - [If Elon Musk Had Been a Happy Child, Would He Still Be Launching Rockets?](https://www.wired.com/story/plaintext-elon-musk-happy-child-launching-rockets/)
  - [Horizon Worlds’ avatars now walk among the virtual universe with their own legs](https://www.theverge.com/2023/9/15/23874975/horizon-worlds-avatars-legs-now-available)
- - [The iPhone 15 apparently has a slightly bigger battery](https://www.theverge.com/2023/9/15/23874884/iphone-15-pro-bigger-battery-capacity-increase)
- - [Snag Amazon and Ring Smart Home Devices for as Little as $12 at Woot     - CNET](https://www.cnet.com/deals/snag-amazon-ring-smart-home-devices-from-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 15 apparently has a slightly bigger battery](https://www.theverge.com/2023/9/15/23874884/iphone-15-pro-bigger-battery-capacity-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

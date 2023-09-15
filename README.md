@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Auto Strike Threatens a Supply Chain Already Weakened by Covid](https://www.wired.com/story/the-auto-strike-threatens-a-supply-chain-already-weakened-by-covid/)
  - [X will now tell you if someone deletes a post you annotated with a Community Note](https://www.theverge.com/2023/9/15/23875891/x-community-note-delete-post)
  - [The newest Steam Deck preview tests VRR, HDR, and improvements for Starfield](https://www.theverge.com/2023/9/15/23875824/valve-steam-deck-steamos-3-5-preview-vrr-hdr-starfield)
  - [When Every Apple OS Update Will Be Available, Including iPhone iOS 17, WatchOS 10     - CNET](https://www.cnet.com/tech/mobile/when-every-apple-os-update-will-be-available-including-iphone-ios-17-watchos-10/#ftag=CAD590a51e)
- - [The iPhone 15 Pro’s 5G modem reportedly boosts speeds by up to 24 percent](https://www.theverge.com/2023/9/15/23875787/iphone-15-pro-better-5g-connectivity)
- - [Sources: Goldman Sachs recently made changes to how it handles Apple Savings transactions to resolve problems some customers had when making withdrawals &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230915/p18#a230915p18)<!-- TECH:END -->
+ - [The iPhone 15 Pro’s 5G modem reportedly boosts speeds by up to 24 percent](https://www.theverge.com/2023/9/15/23875787/iphone-15-pro-better-5g-connectivity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

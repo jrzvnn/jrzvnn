@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
+ - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)<!-- MEMES:END -->
+ - 👉 [What she is trying?](http://9gag.com/gag/a4omO8w)<!-- MEMES:END -->
 
 ---
 

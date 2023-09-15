@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 15 vs. iPhone 13 series: Which one should you buy?](https://www.androidauthority.com/apple-iphone-15-vs-iphone-13-3364231/)
- - [Chinese regulator reveals iPhone 15 battery capacities have improved](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
- - [Sources: ByteDance and the US restart their negotiations over TikTok&#39;s operations, as calls to ban the wildly popular app have faded ahead of the 2024 election &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230915/p11#a230915p11)
- - [The best USB-C Cables for the iPhone 15 series](https://www.androidauthority.com/best-iphone-15-usb-c-cables-3364390/)
- - [Revolut appears to have withdrawn its application for a US banking license, after saying in 2021 that it filed a draft; it has 500K+ retail customers in the US &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/230915/p10#a230915p10)<!-- TECH:END -->
+ - [The best MagSafe cases for your iPhone 14 series phone](https://www.androidauthority.com/best-iphone-14-magsafe-cases-3364295/)
+ - [Preorders for the new iPhone 15 are now live — here’s where to get yours](https://www.theverge.com/23859935/iphone-15-plus-pro-max-preorder-buy-price-release-date-apple)
+ - [Pre-orders for iPhone 15 &amp; iPhone 15 Pro have started](https://appleinsider.com/articles/23/09/15/pre-orders-for-iphone-15-iphone-15-pro-have-started?utm_medium=rss)
+ - [How to Trade In or Sell Your iPhone &lpar;2023&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
+ - [Electrifying Your Home Is About to Get a Lot Cheaper](https://www.wired.com/story/electrifying-your-home-is-about-to-get-a-lot-cheaper/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Instacart plans to price its IPO on Monday and begin trading on Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230915/p17#a230915p17)
  - [iPhone 15 Pro Max delivery estimates hit October minutes into preorders](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
  - [Apple Has Fix for iPhone 12 in France Over Radio Frequency Concerns     - CNET](https://www.cnet.com/tech/mobile/apple-has-fix-for-iphone-12-in-france-over-radio-frequency-concerns/#ftag=CAD590a51e)
  - [Apple is now charging more for most Apple Watch battery swaps](https://www.theverge.com/2023/9/15/23875514/apple-watch-battery-replacement-cost-expensive)
- - [Judge declines to order Jonathan Kanter&#39;s recusal from DOJ&#39;s advertising antitrust lawsuit against Google, after Google cited his previous work for its critics &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230915/p16#a230915p16)
- - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Judge declines to order Jonathan Kanter&#39;s recusal from DOJ&#39;s advertising antitrust lawsuit against Google, after Google cited his previous work for its critics &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230915/p16#a230915p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

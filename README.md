@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 💣 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 😝 [Grab your corn and watch it pop in real time](http://9gag.com/gag/adPrGbZ)
+ - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
+ - 👉 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)<!-- MEMES:END -->
 
 ---
 

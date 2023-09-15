@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
+ - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
 
 ---
 

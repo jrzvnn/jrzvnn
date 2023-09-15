@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Why black men dont date black women](http://9gag.com/gag/aGE63v7)
- - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
- - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
+ - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
+ - 👉 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)<!-- MEMES:END -->
 
 ---
 

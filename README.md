@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iPhone 16 Pro leak might put you off buying the iPhone 15 Pro Max](https://www.androidauthority.com/apple-iphone-16-pro-series-zoom-camera-leak-3363849/)
  - [Best Chest Strap Heart-Rate Monitors for 2023     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
- - [Teardown reveals Pixel Tablet wastes so much space on the inside](https://www.androidauthority.com/google-pixel-tablet-teardown-3364651/)
- - [OnePlus could be working on a new smartwatch with Snapdragon W5 Gen 1](https://www.androidauthority.com/oneplus-watch-snapdragon-w5-gen-1-leak-3364647/)
- - [Microsoft&#39;s Start news website published a garbled, seemingly AI-generated obit for former NBA player Brandon Hunter, headlined, &quot;Brandon Hunter useless at 42&quot; &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/230915/p2#a230915p2)<!-- TECH:END -->
+ - [Microsoft&#39;s Start news website published a garbled, seemingly AI-generated obit for former NBA player Brandon Hunter, headlined, &quot;Brandon Hunter useless at 42&quot; &lpar;Victor Tangermann/Futurism&rpar;](http://www.techmeme.com/230915/p2#a230915p2)
+ - [Sources: Meta is exploring whether to show ads in WhatsApp and charge a subscription fee to use the app without ads; WhatsApp denies working on such a feature &lpar;Financial Times&rpar;](http://www.techmeme.com/230915/p1#a230915p1)
+ - [Best Language Learning Apps for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-language-learning-apps/#ftag=CAD590a51e)
+ - [Sources: Google has given a small group of companies access to an early version of its Gemini AI model, as the company nears a launch of the GPT-4 rival &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230914/p43#a230914p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

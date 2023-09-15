@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Playtika agrees to acquire Innplay Labs, a mobile game studio in Israel, for an upfront fee of $80M and as much as $300M in total &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230915/p7#a230915p7)
- - [Apple to issue iPhone 12 software update in France to address radiation concerns](https://www.theverge.com/2023/9/15/23874803/apple-iphone-12-france-radiation-update)
- - [London-based fintech Hyperjar, which offers digital payments, planning, and personalized rewards platform, raised a $24M Series A &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230915/p6#a230915p6)
- - [X partners with Au10tix to launch government ID-based account verification for paid users; verification is not yet available in the EU and the UK &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230915/p5#a230915p5)
- - [Sources: TSMC has told its suppliers to delay the delivery of high-end chipmaking equipment, as the chipmaker grows increasingly nervous about customer demand &lpar;Reuters&rpar;](http://www.techmeme.com/230915/p4#a230915p4)<!-- TECH:END -->
+ - [The Snapdragon 7s Gen 2 could be a great chip for budget phones](https://www.androidauthority.com/snapdragon-7s-gen-2-3364720/)
+ - [How to move your Home directory in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-move-your-home-directory-in-macos-ventura?utm_medium=rss)
+ - [Media mogul Byron Allen offers $10 billion to acquire ABC from Disney](https://www.theverge.com/2023/9/15/23874804/disney-abc-network-10-billion-offer-byron-allen-acquisition)
+ - [A look at the race to build tools to identify AI-generated text and evade detection, such as GPTZero and WorkNinja, which were built by college students &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/230915/p8#a230915p8)
+ - [Insiders Reveal Major Problems at Lab-Grown-Meat Startup Upside Foods](https://www.wired.com/story/upside-foods-lab-grown-chicken/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Verizon iPhone 15 deals you can get on launch day](https://www.androidauthority.com/verizon-iphone-15-deals-3364858/)
+ - [Samsung Galaxy S23 FE leak reveals every color option](https://www.androidauthority.com/samsung-galaxy-s23-fe-colors-3364849/)
+ - [If Elon Musk Had Been a Happy Child, Would He Still Be Launching Rockets?](https://www.wired.com/story/plaintext-elon-musk-happy-child-launching-rockets/)
  - [Forget the iPhone; get 50% off the ROG Phone 6 Batman Edition today](https://www.androidauthority.com/asus-rog-phone-6-batman-edition-deal-3364840/)
- - [The Pixel Tablet is the best Android tablet. Here’s why.](https://www.androidauthority.com/pixel-tablet-best-android-tablet-3364638/)
- - [X changes its crowdsourced fact-checking Community Notes feature to show contributors other note proposals and see other viewpoints before they submit a rating &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230915/p14#a230915p14)
- - [iPhone 15 battery capacities have improved, reveals China regulator](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
- - [Buying an iPhone 15 at T-Mobile? Here are the best deals!!](https://www.androidauthority.com/t-mobile-iphone-15-deals-3364833/)<!-- TECH:END -->
+ - [The Pixel Tablet is the best Android tablet. Here’s why.](https://www.androidauthority.com/pixel-tablet-best-android-tablet-3364638/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

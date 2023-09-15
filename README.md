@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
- - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
- - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
+ - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 😝 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)
+ - 💣 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)<!-- MEMES:END -->
+ - 👉 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)<!-- MEMES:END -->
 
 ---
 

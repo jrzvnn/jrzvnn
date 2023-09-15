@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sick wheelie](http://9gag.com/gag/aeQynqq)
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
- - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 👉 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)<!-- MEMES:END -->
+ - 😝 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)
+ - 😝 [Currucuuu! Currucuuu!](http://9gag.com/gag/aQEBWr8)
+ - 💣 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
+ - 😝 [Freedom !](http://9gag.com/gag/aGE6X8w)
+ - 👉 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)<!-- MEMES:END -->
 
 ---
 

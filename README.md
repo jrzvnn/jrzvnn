@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone 15 &amp; Apple Watch event -- what we loved, and didn&#39;t](https://appleinsider.com/articles/23/09/15/apples-iphone-15-apple-watch-event----what-we-loved-and-didnt?utm_medium=rss)
  - [Apple releases report on geofence warrants and data requests](https://appleinsider.com/articles/23/09/15/apple-releases-report-on-geofence-warrants-and-data-requests?utm_medium=rss)
  - [How to use Philips Hue’s new smart security system](https://www.theverge.com/23875192/philips-hue-secure-smart-security-system-lights-camera-how-to)
  - [Google’s Fitbit Charge 6 will finally bring the physical button back](https://www.theverge.com/2023/9/15/23875542/fitbit-charge-6-physical-button-google-maps-youtube-music)
- - [Sources: Instacart plans to price its IPO on Monday and begin trading on Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230915/p17#a230915p17)
- - [iPhone 15 Pro Max delivery estimates hit October minutes into preorders](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Instacart plans to price its IPO on Monday and begin trading on Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230915/p17#a230915p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The newest Steam Deck preview tests VRR, HDR, and improvements for Starfield](https://www.theverge.com/2023/9/15/23875824/valve-steam-deck-steamos-3-5-preview-vrr-hdr-starfield)
  - [The iPhone 15 Pro’s 5G modem reportedly boosts speeds by up to 24 percent](https://www.theverge.com/2023/9/15/23875787/iphone-15-pro-better-5g-connectivity)
  - [Sources: Goldman Sachs recently made changes to how it handles Apple Savings transactions to resolve problems some customers had when making withdrawals &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230915/p18#a230915p18)
  - [Best USB-C Car Charger for Your iPhone or Android Phone     - CNET](https://www.cnet.com/tech/mobile/best-usb-car-charger/#ftag=CAD590a51e)
- - [Best E Ink Tablets for 2023: Devices Made for Reading and Writing     - CNET](https://www.cnet.com/tech/computing/best-e-ink-tablets/#ftag=CAD590a51e)
- - [Microsoft Surface Laptop Studio 2, Laptop Go 4 Details Leak Ahead of AI Event     - CNET](https://www.cnet.com/tech/computing/microsoft-surface-laptop-studio-2-laptop-go-4-details-leak-ahead-of-ai-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best E Ink Tablets for 2023: Devices Made for Reading and Writing     - CNET](https://www.cnet.com/tech/computing/best-e-ink-tablets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

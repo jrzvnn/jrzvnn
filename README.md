@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X partners with Au10tix to launch government ID-based account verification for paid users; verification is not yet available in the EU and the UK &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230915/p5#a230915p5)
  - [Sources: TSMC has told its suppliers to delay the delivery of high-end chipmaking equipment, as the chipmaker grows increasingly nervous about customer demand &lpar;Reuters&rpar;](http://www.techmeme.com/230915/p4#a230915p4)
  - [Today I learned this weird Windows keyboard shortcut that opens LinkedIn](https://www.theverge.com/2023/9/15/23874798/microsoft-windows-linkedin-onenote-keyboard-shortcut)
  - [Apple plans a software update for iPhone 12 in France to address radiation concerns, says &quot;this is related to a specific testing protocol&quot; used by the regulator &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230915/p3#a230915p3)
- - [Samsung Galaxy S24 series listing reveals charging speeds](https://www.androidauthority.com/galaxy-s24-series-charging-speeds-3364692/)
- - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S24 series listing reveals charging speeds](https://www.androidauthority.com/galaxy-s24-series-charging-speeds-3364692/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

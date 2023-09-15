@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 💣 [Guy poured motor oil on the stairs at a gym, which caused many patrons to slip and fall - one requiring hospitalization.](http://9gag.com/gag/abvK9xr)
- - 😝 [Sick wheelie](http://9gag.com/gag/aeQynqq)
- - 👉 [What a weirdo](http://9gag.com/gag/amAKEE2)<!-- MEMES:END -->
+ - 😝 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)
+ - 😝 [So now it&#39;s a stereotype that vikings were white Nothern Europeans?](http://9gag.com/gag/ap9zO5M)
+ - 💣 [The irony](http://9gag.com/gag/ay2ZGRX)
+ - 😝 [How to get divorced without asking for it!](http://9gag.com/gag/ay2ZGqV)
+ - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
 
 ---
 

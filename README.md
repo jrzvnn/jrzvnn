@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 Pro’s 5G modem reportedly boosts speeds by up to 24 percent](https://www.theverge.com/2023/9/15/23875787/iphone-15-pro-better-5g-connectivity)
  - [Sources: Goldman Sachs recently made changes to how it handles Apple Savings transactions to resolve problems some customers had when making withdrawals &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230915/p18#a230915p18)
  - [Automated fraud protections tuned up to make Apple Savings withdrawals easier](https://appleinsider.com/articles/23/09/15/automated-fraud-protections-tuned-up-to-make-apple-savings-withdrawals-easier?utm_medium=rss)
  - [Developers fight back against Unity’s new pricing model](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)
- - [Best Earbuds and Headphones Deals: Save on Bose, Sony, Apple and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [The 12 Best Cooling Pillows of 2023     - CNET](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Earbuds and Headphones Deals: Save on Bose, Sony, Apple and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

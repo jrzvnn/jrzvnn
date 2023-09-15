@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Senate Armed Services Committee is probing national security issues raised by Elon Musk&#39;s denial to extend Starlink to aid a Ukrainian attack on Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p40#a230914p40)
+ - [Microsoft unveils EvoDiff, a novel protein-generating AI framework that the company says can help create enzymes for new therapeutics and drug delivery methods &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p39#a230914p39)
  - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)
  - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty)
- - [The next emoji coming to your phone include head shakes and a phoenix](https://www.theverge.com/2023/9/14/23874429/emoji-15-1-head-shakes-phoenix-lime)
- - [Apple Denies iPhone 12 High Radiofrequency Concerns     - CNET](https://www.cnet.com/tech/mobile/apple-denies-iphone-12-high-radiofrequency-concerns/#ftag=CAD590a51e)
- - [Threads now lets you quote posts on the web](https://www.theverge.com/2023/9/14/23874414/threads-quote-posts-web-mobile-notifications)<!-- TECH:END -->
+ - [What Are the Most Popular Songs on TikTok? There&#39;s Now a Billboard Chart for That     - CNET](https://www.cnet.com/tech/mobile/what-are-the-most-popular-songs-on-tiktok-theres-now-a-billboard-chart-for-that/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

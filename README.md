@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)
- - 😝 [So now it&#39;s a stereotype that vikings were white Nothern Europeans?](http://9gag.com/gag/ap9zO5M)
- - 💣 [The irony](http://9gag.com/gag/ay2ZGRX)
- - 😝 [How to get divorced without asking for it!](http://9gag.com/gag/ay2ZGqV)
- - 👉 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)<!-- MEMES:END -->
+ - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 👉 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)<!-- MEMES:END -->
 
 ---
 

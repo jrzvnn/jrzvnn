@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 series listing reveals charging speeds](https://www.androidauthority.com/galaxy-s24-series-charging-speeds-3364692/)
  - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)
  - [Don’t break your Pixel Watch display because Google won’t repair it](https://www.androidauthority.com/pixel-watch-display-repair-3364686/)
  - [Apple takes store down ahead of iPhone 15 pre-orders](https://appleinsider.com/articles/23/09/15/apple-takes-store-down-ahead-of-iphone-15-pre-orders?utm_medium=rss)
- - [This iPhone 16 Pro leak might put you off buying the iPhone 15 Pro Max](https://www.androidauthority.com/apple-iphone-16-pro-series-zoom-camera-leak-3363849/)
- - [Best Chest Strap Heart-Rate Monitors for 2023     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This iPhone 16 Pro leak might put you off buying the iPhone 15 Pro Max](https://www.androidauthority.com/apple-iphone-16-pro-series-zoom-camera-leak-3363849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

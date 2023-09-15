@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge declines to order Jonathan Kanter&#39;s recusal from DOJ&#39;s advertising antitrust lawsuit against Google, after Google cited his previous work for its critics &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230915/p16#a230915p16)
+ - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Samsung Galaxy Ring’s release date and name revealed in new leak](https://www.androidauthority.com/samsung-galaxy-ring-release-window-3364928/)
- - [How to use back-to-back commands with Siri in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-back-to-back-commands-with-siri-in-ios-17?utm_medium=rss)
- - [In the Google antitrust trial, defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
- - [Best Noise-Canceling Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Best Budget Earbuds for 2023: Cheap Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use back-to-back commands with Siri in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-back-to-back-commands-with-siri-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

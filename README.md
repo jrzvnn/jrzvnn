@@ -162,10 +162,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 💣 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
- - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
+ - 😝 [What she is trying?](http://9gag.com/gag/a4omO8w)
+ - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 😝 [Chad WinRAR Devs](http://9gag.com/gag/aWGPzgZ)
+ - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
 
 ---
 

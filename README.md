@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy poured motor oil on the stairs at a gym, which caused many patrons to slip and fall - one requiring hospitalization.](http://9gag.com/gag/abvK9xr)
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 💣 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
- - 😝 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 💣 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
+ - 👉 [Worst people on earth](http://9gag.com/gag/aL1VZy5)<!-- MEMES:END -->
 
 ---
 

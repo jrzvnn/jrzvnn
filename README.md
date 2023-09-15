@@ -155,7 +155,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [High demand sees iPhone 15 Pro Max immediately sell out](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
+ - [iPhone 15 Pro Max delivery estimates hit October minutes into preorders](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
  - [X can now ask users for government IDs to verify their paid accounts](https://www.theverge.com/2023/9/15/23874854/x-twitter-verification-government-id-paid-account-benefits)
  - [Artifact co-founder Mike Krieger is coming to the Code Conference](https://www.theverge.com/2023/9/15/23874267/artifact-mike-krieger-code-conference-2023)
  - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)

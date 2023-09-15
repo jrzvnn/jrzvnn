@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beg for mercy](http://9gag.com/gag/amAKej4)
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 💣 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
- - 👉 [Chad WinRAR Devs](http://9gag.com/gag/aWGPzgZ)<!-- MEMES:END -->
+ - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 💣 [Guy poured motor oil on the stairs at a gym, which caused many patrons to slip and fall - one requiring hospitalization.](http://9gag.com/gag/abvK9xr)
+ - 😝 [Sick wheelie](http://9gag.com/gag/aeQynqq)
+ - 👉 [What a weirdo](http://9gag.com/gag/amAKEE2)<!-- MEMES:END -->
 
 ---
 

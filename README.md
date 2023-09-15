@@ -162,10 +162,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
- - 💣 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 😝 [Chad WinRAR Devs](http://9gag.com/gag/aWGPzgZ)
- - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
+ - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 😝 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
+ - 👉 [Worst people on earth](http://9gag.com/gag/aL1VZy5)<!-- MEMES:END -->
 
 ---
 

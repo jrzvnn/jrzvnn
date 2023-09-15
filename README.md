@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How some Chinese data labeling companies hired by Baidu, Alibaba, and JD.com to train AI are exploiting vocational school students via data labeling internships &lpar;Rest of World&rpar;](http://www.techmeme.com/230915/p15#a230915p15)
  - [Daily deals Sept. 15: iPads from $100, $250 off M2 Max MacBook Pro, Kindle and Fire Tablets from $30, more](https://appleinsider.com/articles/23/09/15/daily-deals-sept-15-ipads-from-100-250-off-m2-max-macbook-pro-kindle-and-fire-tablets-from-30-more?utm_medium=rss)
  - [We’ve got all the best AT&amp;T iPhone 15 deals rounded up for you here](https://www.androidauthority.com/att-iphone-15-deals-3364888/)
  - [Google to pay California $93 million over location-tracking claims](https://www.theverge.com/2023/9/15/23875137/google-location-tracking-settlement-93-million-california)
- - [Apple&#39;s new iCloud+ tiers are too much for consumers, too little for professionals](https://appleinsider.com/articles/23/09/15/apples-new-icloud-tiers-are-too-much-for-consumers-too-little-for-professionals?utm_medium=rss)
- - [Apple Arcade: Every New Game Arriving in September     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s new iCloud+ tiers are too much for consumers, too little for professionals](https://appleinsider.com/articles/23/09/15/apples-new-icloud-tiers-are-too-much-for-consumers-too-little-for-professionals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

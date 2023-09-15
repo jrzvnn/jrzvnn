@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grab your corn and watch it pop in real time](http://9gag.com/gag/adPrGbZ)
+ - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
  - 😝 [Mexico is just unboxed aliens in their Congress.](http://9gag.com/gag/aeQyzv5)
  - 💣 [Ears are just like fingerprints. Just so you know.](http://9gag.com/gag/aDYr9BN)
- - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
+ - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 👉 [Help](http://9gag.com/gag/a9qZ06j)<!-- MEMES:END -->
 
 ---
 

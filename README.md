@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Buds FE could cost as much as the Pixel Buds A](https://www.androidauthority.com/samsung-galaxy-buds-fe-price-3364962/)
  - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)
  - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)
  - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)
- - [iPhone 15 Pro has faster 5G downloads -- assuming you&#39;ve got good coverage](https://appleinsider.com/articles/23/09/15/iphone-15-pro-has-faster-5g-downloads----assuming-youve-got-good-coverage?utm_medium=rss)
- - [Apple&#39;s iPhone 15 &amp; Apple Watch event -- what we loved, and didn&#39;t](https://appleinsider.com/articles/23/09/15/apples-iphone-15-apple-watch-event----what-we-loved-and-didnt?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro has faster 5G downloads -- assuming you&#39;ve got good coverage](https://appleinsider.com/articles/23/09/15/iphone-15-pro-has-faster-5g-downloads----assuming-youve-got-good-coverage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

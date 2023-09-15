@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buying an iPhone 15 at T-Mobile? Here are the best deals!!](https://www.androidauthority.com/t-mobile-iphone-15-deals-3364833/)
+ - [Preorder Apple&#39;s new iPhone 15, iPhone 15 Pro or iPhone 15 Pro Max &amp; save up to $1,000](https://appleinsider.com/articles/23/09/15/preorder-apples-new-iphone-15-iphone-15-pro-or-iphone-15-pro-max-save-up-to-1000?utm_medium=rss)
  - [iPhone 15 listing reveals how much battery the phone really has](https://www.androidauthority.com/apple-iphone-15-battery-3364825/)
  - [Tim Cook picks an iPhone color, manages to praise them all](https://appleinsider.com/articles/23/09/15/tim-cook-picks-an-iphone-color-manages-to-praise-them-all?utm_medium=rss)
- - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)
- - [If Elon Musk Had Been a Happy Child, Would He Still Be Launching Rockets?](https://www.wired.com/story/plaintext-elon-musk-happy-child-launching-rockets/)
- - [Horizon Worlds’ avatars now walk among the virtual universe with their own legs](https://www.theverge.com/2023/9/15/23874975/horizon-worlds-avatars-legs-now-available)<!-- TECH:END -->
+ - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

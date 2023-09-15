@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms it currently offers no repair options for cracked Pixel Watch screens; the company&#39;s hardware warranty does not cover accidental damage &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230915/p13#a230915p13)
  - [The best iPhone 15 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-iphone-15-alternatives-3363123/)
  - [Why Is Everyone Asking Men About the Roman Empire?](https://www.wired.com/story/ask-men-about-roman-empire-tiktok-twitter-pop-culture/)
  - [13 Best Mobile Game Controllers &lpar;2023&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
- - [Radiation Is Everywhere. But It’s Not All Bad](https://www.wired.com/story/radiation-is-everywhere-but-its-not-all-bad/)
- - [Samsung is bringing artwork from the Met museum to its Frame TVs](https://www.theverge.com/2023/9/15/23874873/samsung-met-metropolitan-museum-of-art-frame-tv)<!-- TECH:END -->
+ - [Radiation Is Everywhere. But It’s Not All Bad](https://www.wired.com/story/radiation-is-everywhere-but-its-not-all-bad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

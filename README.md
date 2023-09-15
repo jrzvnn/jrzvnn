@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revolut appears to have withdrawn its application for a US banking license, after saying in 2021 that it filed a draft; it has 500K+ retail customers in the US &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/230915/p10#a230915p10)
+ - [How to prepare for iPhone 15 pre-ordering and avoid disappointment](https://appleinsider.com/inside/iphone-15/tips/how-to-prepare-for-iphone-15-pre-ordering-and-avoid-disappointment?utm_medium=rss)
  - [Instacart raises its proposed IPO price range, seeking to sell 22M shares at $28 to $30 each, up from $26 to $28 each, in the wake of Arm&#39;s successful IPO &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/230915/p9#a230915p9)
- - [This Is Your Kid’s Brain on Extreme Heat](https://www.wired.com/story/extreme-heat-kids-schools-learning/)
- - [Teachers Are Going All In on Generative AI](https://www.wired.com/story/teachers-are-going-all-in-on-generative-ai/)
- - [Here’s all the carriers that get you an iPhone 15 for free](https://www.androidauthority.com/heres-all-the-carriers-that-get-you-an-iphone-15-for-free-3364747/)
- - [The most popular Google Doodle games](https://www.androidauthority.com/popular-google-doodle-games-3364681/)<!-- TECH:END -->
+ - [iOS 17 Review: StandBy Mode Changed My Relationship With My iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-17-review-standby-mode-changed-my-relationship-with-my-iphone/#ftag=CAD590a51e)
+ - [This Is Your Kid’s Brain on Extreme Heat](https://www.wired.com/story/extreme-heat-kids-schools-learning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

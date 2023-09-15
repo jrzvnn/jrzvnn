@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
- - 😝 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)
- - 💣 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
+ - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 💣 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Will it cost me a kidney or two?](http://9gag.com/gag/a5Xv0Bq)<!-- MEMES:END -->
+ - 👉 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)<!-- MEMES:END -->
 
 ---
 

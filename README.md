@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget the iPhone; get 50% off the ROG Phone 6 Batman Edition today](https://www.androidauthority.com/asus-rog-phone-6-batman-edition-deal-3364840/)
+ - [The Pixel Tablet is the best Android tablet. Here’s why.](https://www.androidauthority.com/pixel-tablet-best-android-tablet-3364638/)
  - [X changes its crowdsourced fact-checking Community Notes feature to show contributors other note proposals and see other viewpoints before they submit a rating &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230915/p14#a230915p14)
  - [iPhone 15 battery capacities have improved, reveals China regulator](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
- - [Buying an iPhone 15 at T-Mobile? Here are the best deals!!](https://www.androidauthority.com/t-mobile-iphone-15-deals-3364833/)
- - [Save $120 on the New Galaxy Tab S9 and Get a Free $100 Amazon Gift Card     - CNET](https://www.cnet.com/deals/save-120-on-the-new-galaxy-tab-s9-and-get-a-free-100-amazon-gift-card/#ftag=CAD590a51e)
- - [Preorder Apple&#39;s new iPhone 15, iPhone 15 Pro or iPhone 15 Pro Max &amp; save up to $1,000](https://appleinsider.com/articles/23/09/15/preorder-apples-new-iphone-15-iphone-15-pro-or-iphone-15-pro-max-save-up-to-1000?utm_medium=rss)<!-- TECH:END -->
+ - [Buying an iPhone 15 at T-Mobile? Here are the best deals!!](https://www.androidauthority.com/t-mobile-iphone-15-deals-3364833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

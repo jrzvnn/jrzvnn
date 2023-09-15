@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - 💣 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [Fairest man in the world](http://9gag.com/gag/amAKDXj)
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 💣 [Daddy chill...](http://9gag.com/gag/aZDo66n)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)<!-- MEMES:END -->
+ - 👉 [Dumb ways to die](http://9gag.com/gag/axoQx3b)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whe you cut your dingdong for an easy money, but something went wrong](http://9gag.com/gag/anz8p1B)
- - 😝 [Ladys and gentlemen... we got him!](http://9gag.com/gag/aeQyojq)
- - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 😝 [Always carry An Extra ..](http://9gag.com/gag/aA0qo2d)
- - 👉 [Oh, shit](http://9gag.com/gag/aVb4nZO)<!-- MEMES:END -->
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
+ - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 😝 [Oh, shit](http://9gag.com/gag/aVb4nZO)
+ - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
 
 ---
 

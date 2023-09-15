@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 apparently has a slightly bigger battery](https://www.theverge.com/2023/9/15/23874884/iphone-15-pro-bigger-battery-capacity-increase)
  - [How to manage camera and mic permissions on your desktop](https://www.theverge.com/23873983/camera-microphone-permissions-fix-how-to)
  - [Pre-orders for iPhone 15 &amp; iPhone 15 Pro have started](https://appleinsider.com/articles/23/09/15/pre-orders-for-iphone-15-iphone-15-pro-have-started?utm_medium=rss)
  - [Protect Your New iPhone 15 With 30% Off Moment Cases and Bundles     - CNET](https://www.cnet.com/deals/protect-your-new-iphone-15-with-30-off-moment-cases-and-bundles/#ftag=CAD590a51e)
- - [Google confirms it currently offers no repair options for cracked Pixel Watch screens; the company&#39;s hardware warranty does not cover accidental damage &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230915/p13#a230915p13)
- - [The best iPhone 15 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-iphone-15-alternatives-3363123/)<!-- TECH:END -->
+ - [Google confirms it currently offers no repair options for cracked Pixel Watch screens; the company&#39;s hardware warranty does not cover accidental damage &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230915/p13#a230915p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

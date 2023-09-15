@@ -161,10 +161,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
- - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 😝 [Pedestrians attack road workers.](http://9gag.com/gag/a5Xv8XO)
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
  - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 😝 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
+ - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
  - 👉 [Worst people on earth](http://9gag.com/gag/aL1VZy5)<!-- MEMES:END -->
 
 ---

@@ -156,10 +156,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple&#39;s iPhone 15 &amp; Apple Watch event -- what we loved, and didn&#39;t](https://appleinsider.com/articles/23/09/15/apples-iphone-15-apple-watch-event----what-we-loved-and-didnt?utm_medium=rss)
- - [Apple releases report on geofence warrants and data requests](https://appleinsider.com/articles/23/09/15/apple-releases-report-on-geofence-warrants-and-data-requests?utm_medium=rss)
- - [How to use Philips Hue’s new smart security system](https://www.theverge.com/23875192/philips-hue-secure-smart-security-system-lights-camera-how-to)
- - [Google’s Fitbit Charge 6 will finally bring the physical button back](https://www.theverge.com/2023/9/15/23875542/fitbit-charge-6-physical-button-google-maps-youtube-music)
- - [Sources: Instacart plans to price its IPO on Monday and begin trading on Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230915/p17#a230915p17)<!-- TECH:END -->
+ - [Best Smart TV for 2023: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)
+ - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [Best Roku TV for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
+ - [The Best MP3 Players for 2023     - CNET](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

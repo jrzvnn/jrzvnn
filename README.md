@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple attempts to control the message around France&#39;s iPhone 12 RF radiation debacle](https://appleinsider.com/articles/23/09/15/apple-attempts-to-control-the-message-around-frances-iphone-12-rf-radiation-debacle?utm_medium=rss)
  - [Salesforce plans to hire 3,300 people for sales, engineering, and its data cloud product, after cutting 10% of its workforce, or ~8,000 jobs, in January 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230914/p42#a230914p42)
  - [Google agrees to pay California $93M to settle a lawsuit accusing the company of tracking users&#39; location for commercial gain even after they opted out &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230914/p41#a230914p41)
  - [The Top iPhone 15 Deals From T-Mobile and Verizon Require Switching to Priciest Plans     - CNET](https://www.cnet.com/tech/mobile/the-top-iphone-15-deals-from-t-mobile-and-verizon-require-switching-to-priciest-plans/#ftag=CAD590a51e)
- - [The US Senate Armed Services Committee is probing national security issues raised by Elon Musk&#39;s denial to extend Starlink to aid a Ukrainian attack on Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p40#a230914p40)
- - [Microsoft unveils EvoDiff, a novel protein-generating AI framework that the company says can help create enzymes for new therapeutics and drug delivery methods &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p39#a230914p39)<!-- TECH:END -->
+ - [The US Senate Armed Services Committee is probing national security issues raised by Elon Musk&#39;s denial to extend Starlink to aid a Ukrainian attack on Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p40#a230914p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

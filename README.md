@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s all the carriers that get you an iPhone 15 for free](https://www.androidauthority.com/heres-all-the-carriers-that-get-you-an-iphone-15-for-free-3364747/)
  - [The most popular Google Doodle games](https://www.androidauthority.com/popular-google-doodle-games-3364681/)
  - [Apple will issue iOS update to appease France over RF exposure row](https://appleinsider.com/articles/23/09/15/apple-will-issue-ios-update-to-appease-france-over-rf-exposure-row?utm_medium=rss)
  - [The Snapdragon 7s Gen 2 could be a great chip for budget phones](https://www.androidauthority.com/snapdragon-7s-gen-2-3364720/)
- - [How to move your Home directory in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-move-your-home-directory-in-macos-ventura?utm_medium=rss)
- - [Media mogul Byron Allen offers $10 billion to acquire ABC from Disney](https://www.theverge.com/2023/9/15/23874804/disney-abc-network-10-billion-offer-byron-allen-acquisition)<!-- TECH:END -->
+ - [How to move your Home directory in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-move-your-home-directory-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

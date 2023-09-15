@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max delivery estimates hit October minutes into preorders](https://appleinsider.com/articles/23/09/15/high-demand-sees-iphone-15-pro-max-immediately-sell-out?utm_medium=rss)
- - [X can now ask users for government IDs to verify their paid accounts](https://www.theverge.com/2023/9/15/23874854/x-twitter-verification-government-id-paid-account-benefits)
- - [Artifact co-founder Mike Krieger is coming to the Code Conference](https://www.theverge.com/2023/9/15/23874267/artifact-mike-krieger-code-conference-2023)
- - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)
- - [Watch Unlock could make unlocking your phone a breeze](https://www.androidauthority.com/watch-unlock-wear-os-phone-hands-on-3364764/)<!-- TECH:END -->
+ - [The best iPhone 15 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-iphone-15-alternatives-3363123/)
+ - [Why Is Everyone Asking Men About the Roman Empire?](https://www.wired.com/story/ask-men-about-roman-empire-tiktok-twitter-pop-culture/)
+ - [13 Best Mobile Game Controllers &lpar;2023&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
+ - [Radiation Is Everywhere. But It’s Not All Bad](https://www.wired.com/story/radiation-is-everywhere-but-its-not-all-bad/)
+ - [Samsung is bringing artwork from the Met museum to its Frame TVs](https://www.theverge.com/2023/9/15/23874873/samsung-met-metropolitan-museum-of-art-frame-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

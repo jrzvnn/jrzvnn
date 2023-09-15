@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We’ve got all the best AT&amp;T iPhone 15 deals rounded up for you here](https://www.androidauthority.com/att-iphone-15-deals-3364888/)
  - [Google to pay California $93 million over location-tracking claims](https://www.theverge.com/2023/9/15/23875137/google-location-tracking-settlement-93-million-california)
  - [Apple&#39;s new iCloud+ tiers are too much for consumers, too little for professionals](https://appleinsider.com/articles/23/09/15/apples-new-icloud-tiers-are-too-much-for-consumers-too-little-for-professionals?utm_medium=rss)
  - [Apple Arcade: Every New Game Arriving in September     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
- - [The EV revolution is on hold as the ‘Big Three’ autoworkers go on strike](https://www.theverge.com/2023/9/15/23875085/uaw-strike-autoworker-contract-ev-ford-gm-stellantis)
- - [Here are the best Verizon iPhone 15 deals you can get on launch day](https://www.androidauthority.com/verizon-iphone-15-deals-3364858/)<!-- TECH:END -->
+ - [The EV revolution is on hold as the ‘Big Three’ autoworkers go on strike](https://www.theverge.com/2023/9/15/23875085/uaw-strike-autoworker-contract-ev-ford-gm-stellantis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

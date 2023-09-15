@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will issue iOS update to appease France over RF exposure row](https://appleinsider.com/articles/23/09/15/apple-will-issue-ios-update-to-appease-france-over-rf-exposure-row?utm_medium=rss)
  - [The Snapdragon 7s Gen 2 could be a great chip for budget phones](https://www.androidauthority.com/snapdragon-7s-gen-2-3364720/)
  - [How to move your Home directory in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-move-your-home-directory-in-macos-ventura?utm_medium=rss)
  - [Media mogul Byron Allen offers $10 billion to acquire ABC from Disney](https://www.theverge.com/2023/9/15/23874804/disney-abc-network-10-billion-offer-byron-allen-acquisition)
- - [A look at the race to build tools to identify AI-generated text and evade detection, such as GPTZero and WorkNinja, which were built by college students &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/230915/p8#a230915p8)
- - [Insiders Reveal Major Problems at Lab-Grown-Meat Startup Upside Foods](https://www.wired.com/story/upside-foods-lab-grown-chicken/)<!-- TECH:END -->
+ - [A look at the race to build tools to identify AI-generated text and evade detection, such as GPTZero and WorkNinja, which were built by college students &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/230915/p8#a230915p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

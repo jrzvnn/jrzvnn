@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a weirdo](http://9gag.com/gag/amAKEE2)
- - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
- - 💣 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)
+ - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 😝 [What she is trying?](http://9gag.com/gag/a4omO8w)
+ - 💣 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)<!-- MEMES:END -->
+ - 👉 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)<!-- MEMES:END -->
 
 ---
 

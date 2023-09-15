@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man I detest this celebrity worship culture](http://9gag.com/gag/anz8L0L)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 💣 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
- - 😝 [Woman attacks a bunny out of nowhere](http://9gag.com/gag/awZP6pB)
- - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
+ - 😝 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
+ - 😝 [Freedom !](http://9gag.com/gag/aGE6X8w)
+ - 💣 [Always carry An Extra ..](http://9gag.com/gag/aA0qo2d)
+ - 😝 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)
+ - 👉 [So now it&#39;s a stereotype that vikings were white Nothern Europeans?](http://9gag.com/gag/ap9zO5M)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automated fraud protections tuned up to make Apple Savings withdrawals easier](https://appleinsider.com/articles/23/09/15/automated-fraud-protections-tuned-up-to-make-apple-savings-withdrawals-easier?utm_medium=rss)
  - [Developers fight back against Unity’s new pricing model](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)
- - [Galaxy Buds FE could cost as much as the Pixel Buds A](https://www.androidauthority.com/samsung-galaxy-buds-fe-price-3364962/)
- - [iPhone 15 Pro &amp; iPhone 15 Pro Max case roundup: keep your iPhone looking perfect with these cases](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-pro-case?utm_medium=rss)
- - [iPhone 15 case roundup: protect your investment with the perfect case](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-case?utm_medium=rss)
- - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)<!-- TECH:END -->
+ - [Best Earbuds and Headphones Deals: Save on Bose, Sony, Apple and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [The 12 Best Cooling Pillows of 2023     - CNET](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
+ - [Galaxy Buds FE could cost as much as the Pixel Buds A](https://www.androidauthority.com/samsung-galaxy-buds-fe-price-3364962/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

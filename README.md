@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
+ - 😝 [Whats with all the mind-games](http://9gag.com/gag/awZPqVx)
+ - 😝 [Damn you, you glorious bastards](http://9gag.com/gag/a04zAed)
+ - 💣 [Quadrakill](http://9gag.com/gag/a9qZQb6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
+ - 👉 [Timelaps of the average village in Africa, from -8000 to 2023.](http://9gag.com/gag/a4omMEw)<!-- MEMES:END -->
 
 ---
 

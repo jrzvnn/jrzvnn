@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
  - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
- - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 👉 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)<!-- MEMES:END -->
+ - 😝 [Dragonfly ultra zoomed in.](http://9gag.com/gag/a7qPRvA)
+ - 💣 [Guy poured motor oil on the stairs at a gym, which caused many patrons to slip and fall - one requiring hospitalization.](http://9gag.com/gag/abvK9xr)
+ - 😝 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)
+ - 👉 [I want to know both answer](http://9gag.com/gag/amAKEqv)<!-- MEMES:END -->
 
 ---
 

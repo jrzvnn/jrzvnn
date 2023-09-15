@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google agrees to pay California $93M to settle a lawsuit accusing the company of tracking users&#39; location for commercial gain even after they opted out &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230914/p41#a230914p41)
+ - [The Top iPhone 15 Deals From T-Mobile and Verizon Require Switching to Priciest Plans     - CNET](https://www.cnet.com/tech/mobile/the-top-iphone-15-deals-from-t-mobile-and-verizon-require-switching-to-priciest-plans/#ftag=CAD590a51e)
  - [The US Senate Armed Services Committee is probing national security issues raised by Elon Musk&#39;s denial to extend Starlink to aid a Ukrainian attack on Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p40#a230914p40)
  - [Microsoft unveils EvoDiff, a novel protein-generating AI framework that the company says can help create enzymes for new therapeutics and drug delivery methods &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230914/p39#a230914p39)
- - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)
- - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty)
- - [What Are the Most Popular Songs on TikTok? There&#39;s Now a Billboard Chart for That     - CNET](https://www.cnet.com/tech/mobile/what-are-the-most-popular-songs-on-tiktok-theres-now-a-billboard-chart-for-that/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At trial, the US DOJ asserted Googlers are trained to have sensitive conversations over chat with history off and avoid phrases like &quot;market share&quot; and &quot;bundle&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230914/p38#a230914p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

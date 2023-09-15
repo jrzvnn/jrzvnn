@@ -151,11 +151,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta is exploring whether to show ads in WhatsApp and charge a subscription fee to use the app without ads; WhatsApp denies working on such a feature &lpar;Financial Times&rpar;](http://www.techmeme.com/230915/p1#a230915p1)
  - [Sources: Google has given a small group of companies access to an early version of its Gemini AI model, as the company nears a launch of the GPT-4 rival &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230914/p43#a230914p43)
  - [Apple attempts to control the message around France&#39;s iPhone 12 RF radiation debacle](https://appleinsider.com/articles/23/09/15/apple-attempts-to-control-the-message-around-frances-iphone-12-rf-radiation-debacle?utm_medium=rss)
  - [Salesforce plans to hire 3,300 people for sales, engineering, and its data cloud product, after cutting 10% of its workforce, or ~8,000 jobs, in January 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230914/p42#a230914p42)
- - [Google agrees to pay California $93M to settle a lawsuit accusing the company of tracking users&#39; location for commercial gain even after they opted out &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230914/p41#a230914p41)
- - [The Top iPhone 15 Deals From T-Mobile and Verizon Require Switching to Priciest Plans     - CNET](https://www.cnet.com/tech/mobile/the-top-iphone-15-deals-from-t-mobile-and-verizon-require-switching-to-priciest-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google agrees to pay California $93M to settle a lawsuit accusing the company of tracking users&#39; location for commercial gain even after they opted out &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230914/p41#a230914p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

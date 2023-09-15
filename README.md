@@ -161,11 +161,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [What she is trying?](http://9gag.com/gag/a4omO8w)
- - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
- - 😝 [Chad WinRAR Devs](http://9gag.com/gag/aWGPzgZ)
- - 👉 [This mf deserves to be beaten](http://9gag.com/gag/aRE9pqj)<!-- MEMES:END -->
+ - 😝 [Beg for mercy](http://9gag.com/gag/amAKej4)
+ - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 💣 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 👉 [Chad WinRAR Devs](http://9gag.com/gag/aWGPzgZ)<!-- MEMES:END -->
 
 ---
 

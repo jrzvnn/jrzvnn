@@ -160,11 +160,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I should stop overthinking the 3 pixels of a motorcycle in my next CAPTCHA](http://9gag.com/gag/aeQynrj)
- - 😝 [Freedom !](http://9gag.com/gag/aGE6X8w)
- - 💣 [Always carry An Extra ..](http://9gag.com/gag/aA0qo2d)
- - 😝 [When u ask ur wife for energy saving light, she goes &amp; buy the voice sensor light instead](http://9gag.com/gag/a9qZxGj)
- - 👉 [So now it&#39;s a stereotype that vikings were white Nothern Europeans?](http://9gag.com/gag/ap9zO5M)<!-- MEMES:END -->
+ - 😝 [Men&#39;s dating options](http://9gag.com/gag/aMEDM4X)
+ - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
+ - 💣 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 😝 [Chad WinRAR Devs](http://9gag.com/gag/aWGPzgZ)
+ - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
 
 ---
 

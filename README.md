@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X changes its crowdsourced fact-checking Community Notes feature to show contributors other note proposals and see other viewpoints before they submit a rating &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230915/p14#a230915p14)
+ - [iPhone 15 battery capacities have improved, reveals China regulator](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
  - [Buying an iPhone 15 at T-Mobile? Here are the best deals!!](https://www.androidauthority.com/t-mobile-iphone-15-deals-3364833/)
- - [Preorder Apple&#39;s new iPhone 15, iPhone 15 Pro or iPhone 15 Pro Max &amp; save up to $1,000](https://appleinsider.com/articles/23/09/15/preorder-apples-new-iphone-15-iphone-15-pro-or-iphone-15-pro-max-save-up-to-1000?utm_medium=rss)
- - [iPhone 15 listing reveals how much battery the phone really has](https://www.androidauthority.com/apple-iphone-15-battery-3364825/)
- - [Tim Cook picks an iPhone color, manages to praise them all](https://appleinsider.com/articles/23/09/15/tim-cook-picks-an-iphone-color-manages-to-praise-them-all?utm_medium=rss)
- - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)<!-- TECH:END -->
+ - [Save $120 on the New Galaxy Tab S9 and Get a Free $100 Amazon Gift Card     - CNET](https://www.cnet.com/deals/save-120-on-the-new-galaxy-tab-s9-and-get-a-free-100-amazon-gift-card/#ftag=CAD590a51e)
+ - [Preorder Apple&#39;s new iPhone 15, iPhone 15 Pro or iPhone 15 Pro Max &amp; save up to $1,000](https://appleinsider.com/articles/23/09/15/preorder-apples-new-iphone-15-iphone-15-pro-or-iphone-15-pro-max-save-up-to-1000?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese regulator reveals iPhone 15 battery capacities have improved](https://appleinsider.com/articles/23/09/15/chinese-regulator-reveals-iphone-15-battery-capacities-have-improved?utm_medium=rss)
+ - [Sources: ByteDance and the US restart their negotiations over TikTok&#39;s operations, as calls to ban the wildly popular app have faded ahead of the 2024 election &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230915/p11#a230915p11)
  - [The best USB-C Cables for the iPhone 15 series](https://www.androidauthority.com/best-iphone-15-usb-c-cables-3364390/)
  - [Revolut appears to have withdrawn its application for a US banking license, after saying in 2021 that it filed a draft; it has 500K+ retail customers in the US &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/230915/p10#a230915p10)
- - [How to prepare for iPhone 15 pre-ordering and avoid disappointment](https://appleinsider.com/inside/iphone-15/tips/how-to-prepare-for-iphone-15-pre-ordering-and-avoid-disappointment?utm_medium=rss)
- - [Instacart raises its proposed IPO price range, seeking to sell 22M shares at $28 to $30 each, up from $26 to $28 each, in the wake of Arm&#39;s successful IPO &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/230915/p9#a230915p9)
- - [iOS 17 Review: StandBy Mode Changed My Relationship With My iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-17-review-standby-mode-changed-my-relationship-with-my-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to prepare for iPhone 15 pre-ordering and avoid disappointment](https://appleinsider.com/inside/iphone-15/tips/how-to-prepare-for-iphone-15-pre-ordering-and-avoid-disappointment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)
+ - [iPhone 15 Pro has faster 5G downloads -- assuming you&#39;ve got good coverage](https://appleinsider.com/articles/23/09/15/iphone-15-pro-has-faster-5g-downloads----assuming-youve-got-good-coverage?utm_medium=rss)
  - [Apple&#39;s iPhone 15 &amp; Apple Watch event -- what we loved, and didn&#39;t](https://appleinsider.com/articles/23/09/15/apples-iphone-15-apple-watch-event----what-we-loved-and-didnt?utm_medium=rss)
  - [Best Smart TV for 2023: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)
- - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Best Roku TV for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-roku-tv/#ftag=CAD590a51e)
- - [The Best MP3 Players for 2023     - CNET](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2023: Samsung, TCL and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

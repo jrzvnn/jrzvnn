@@ -152,11 +152,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Playtika agrees to acquire Innplay Labs, a mobile game studio in Israel, for an upfront fee of $80M and as much as $300M in total &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230915/p7#a230915p7)
  - [Apple to issue iPhone 12 software update in France to address radiation concerns](https://www.theverge.com/2023/9/15/23874803/apple-iphone-12-france-radiation-update)
  - [London-based fintech Hyperjar, which offers digital payments, planning, and personalized rewards platform, raised a $24M Series A &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230915/p6#a230915p6)
  - [X partners with Au10tix to launch government ID-based account verification for paid users; verification is not yet available in the EU and the UK &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230915/p5#a230915p5)
- - [Sources: TSMC has told its suppliers to delay the delivery of high-end chipmaking equipment, as the chipmaker grows increasingly nervous about customer demand &lpar;Reuters&rpar;](http://www.techmeme.com/230915/p4#a230915p4)
- - [Today I learned this weird Windows keyboard shortcut that opens LinkedIn](https://www.theverge.com/2023/9/15/23874798/microsoft-windows-linkedin-onenote-keyboard-shortcut)<!-- TECH:END -->
+ - [Sources: TSMC has told its suppliers to delay the delivery of high-end chipmaking equipment, as the chipmaker grows increasingly nervous about customer demand &lpar;Reuters&rpar;](http://www.techmeme.com/230915/p4#a230915p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

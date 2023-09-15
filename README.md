@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
- - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 💣 [What she is trying?](http://9gag.com/gag/a4omO8w)
+ - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 😝 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 💣 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 👉 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)<!-- MEMES:END -->
 
 ---
 

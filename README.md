@@ -166,9 +166,9 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
  - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
- - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 😝 [Oh, shit](http://9gag.com/gag/aVb4nZO)
- - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
+ - 💣 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at #9GAGgamescom 2023.](http://9gag.com/gag/aoKArbx)
+ - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 👉 [Oh, shit](http://9gag.com/gag/aVb4nZO)<!-- MEMES:END -->
 
 ---
 

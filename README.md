@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horizon Worlds’ avatars now walk among the virtual universe with their own legs](https://www.theverge.com/2023/9/15/23874975/horizon-worlds-avatars-legs-now-available)
  - [The iPhone 15 apparently has a slightly bigger battery](https://www.theverge.com/2023/9/15/23874884/iphone-15-pro-bigger-battery-capacity-increase)
- - [How to manage camera and mic permissions on your desktop](https://www.theverge.com/23873983/camera-microphone-permissions-fix-how-to)
- - [Pre-orders for iPhone 15 &amp; iPhone 15 Pro have started](https://appleinsider.com/articles/23/09/15/pre-orders-for-iphone-15-iphone-15-pro-have-started?utm_medium=rss)
- - [Protect Your New iPhone 15 With 30% Off Moment Cases and Bundles     - CNET](https://www.cnet.com/deals/protect-your-new-iphone-15-with-30-off-moment-cases-and-bundles/#ftag=CAD590a51e)
- - [Google confirms it currently offers no repair options for cracked Pixel Watch screens; the company&#39;s hardware warranty does not cover accidental damage &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230915/p13#a230915p13)<!-- TECH:END -->
+ - [Snag Amazon and Ring Smart Home Devices for as Little as $12 at Woot     - CNET](https://www.cnet.com/deals/snag-amazon-ring-smart-home-devices-from-12/#ftag=CAD590a51e)
+ - [Streaming on Max: The 24 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-24-absolute-best-movies-to-watch-in-september/#ftag=CAD590a51e)
+ - [Consider Ditching These 11 Foods From Your Diet     - CNET](https://www.cnet.com/health/nutrition/consider-ditching-these-11-foods-from-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

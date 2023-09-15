@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)
+ - [If Elon Musk Had Been a Happy Child, Would He Still Be Launching Rockets?](https://www.wired.com/story/plaintext-elon-musk-happy-child-launching-rockets/)
  - [Horizon Worlds’ avatars now walk among the virtual universe with their own legs](https://www.theverge.com/2023/9/15/23874975/horizon-worlds-avatars-legs-now-available)
  - [The iPhone 15 apparently has a slightly bigger battery](https://www.theverge.com/2023/9/15/23874884/iphone-15-pro-bigger-battery-capacity-increase)
- - [Snag Amazon and Ring Smart Home Devices for as Little as $12 at Woot     - CNET](https://www.cnet.com/deals/snag-amazon-ring-smart-home-devices-from-12/#ftag=CAD590a51e)
- - [Streaming on Max: The 24 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-24-absolute-best-movies-to-watch-in-september/#ftag=CAD590a51e)
- - [Consider Ditching These 11 Foods From Your Diet     - CNET](https://www.cnet.com/health/nutrition/consider-ditching-these-11-foods-from-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag Amazon and Ring Smart Home Devices for as Little as $12 at Woot     - CNET](https://www.cnet.com/deals/snag-amazon-ring-smart-home-devices-from-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
- - 💣 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 👉 [Oh, shit](http://9gag.com/gag/aVb4nZO)<!-- MEMES:END -->
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 💣 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
+ - 👉 [Daddy chill...](http://9gag.com/gag/aZDo66n)<!-- MEMES:END -->
 
 ---
 

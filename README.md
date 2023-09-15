@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the Google antitrust trial, defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
+ - [How to use back-to-back commands with Siri in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-back-to-back-commands-with-siri-in-ios-17?utm_medium=rss)
  - [X continues to throttle links to competitors](https://www.theverge.com/2023/9/15/23875251/x-twitter-links-throttling-facebook-instagram-threads)
  - [Valve is taking up to 20 percent off the Steam Deck to celebrate Steam’s 20th anniversary](https://www.theverge.com/2023/9/15/23873858/steam-deck-docking-station-google-pixel-watch-apple-gift-card-deal-sale)
- - [How some Chinese data labeling companies hired by Baidu, Alibaba, and JD.com to train AI are exploiting vocational school students via data labeling internships &lpar;Rest of World&rpar;](http://www.techmeme.com/230915/p15#a230915p15)
- - [Daily deals Sept. 15: iPads from $100, $250 off M2 Max MacBook Pro, Kindle and Fire Tablets from $30, more](https://appleinsider.com/articles/23/09/15/daily-deals-sept-15-ipads-from-100-250-off-m2-max-macbook-pro-kindle-and-fire-tablets-from-30-more?utm_medium=rss)
- - [Naturally Boost Your Eye Health With These 10 Daily Habits     - CNET](https://www.cnet.com/health/personal-care/naturally-boost-your-eye-health-with-these-10-daily-habits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How some Chinese data labeling companies hired by Baidu, Alibaba, and JD.com to train AI are exploiting vocational school students via data labeling internships &lpar;Rest of World&rpar;](http://www.techmeme.com/230915/p15#a230915p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

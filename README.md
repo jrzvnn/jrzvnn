@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - 👉 [Elon x Amber Turd](http://9gag.com/gag/amAKw42)<!-- MEMES:END -->
+ - 😝 [Whe you cut your dingdong for an easy money, but something went wrong](http://9gag.com/gag/anz8p1B)
+ - 😝 [Ladys and gentlemen... we got him!](http://9gag.com/gag/aeQyojq)
+ - 💣 [All girls my age are already married or crazy](http://9gag.com/gag/aEqyLbO)
+ - 😝 [Always carry An Extra ..](http://9gag.com/gag/aA0qo2d)
+ - 👉 [Oh, shit](http://9gag.com/gag/aVb4nZO)<!-- MEMES:END -->
 
 ---
 

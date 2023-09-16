@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quadrakill](http://9gag.com/gag/a9qZQb6)
- - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
- - 💣 [Timelaps of the average village in Africa, from -8000 to 2023.](http://9gag.com/gag/a4omMEw)
+ - 😝 [Happy Friday my dudes. Le Go](http://9gag.com/gag/aXnQDZD)
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 💣 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [It turns out billionaires can give good ideas. Accountability.](http://9gag.com/gag/aBdjDAx)<!-- MEMES:END -->
+ - 👉 [Casually reminding you, the President of France is trying to remove this video from the internet.](http://9gag.com/gag/awZPw8r)<!-- MEMES:END -->
 
 ---
 

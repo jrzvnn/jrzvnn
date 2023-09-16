@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
- - 😝 [Possibly one of the best &amp; most deserved slap in the face I&#39;ve heard in politics in my life, &amp; delivered magnificently. Bravo Dominik Tarczy\u0144ski, Bravo. - Strasbourg 14.09.2023](http://9gag.com/gag/aOxnKzM)
- - 💣 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
+ - 😝 [How?](http://9gag.com/gag/aoKGmvX)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 💣 [Orange cats](http://9gag.com/gag/a4omeqy)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)<!-- MEMES:END -->
+ - 👉 [I finally will be able to pay for a descent Apartment which is nice](http://9gag.com/gag/a8qQrjY)<!-- MEMES:END -->
 
 ---
 

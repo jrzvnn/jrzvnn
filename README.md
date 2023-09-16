@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 😝 [It&#39;s legit!!](http://9gag.com/gag/a9qZoxZ)
+ - 😝 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
+ - 💣 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
 
 ---
 

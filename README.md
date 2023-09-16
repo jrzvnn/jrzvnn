@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s it like using a microSD card on Android in 2023?](https://www.androidauthority.com/using-microsd-card-android-3362538/)
+ - [Everything you need to know about switching to USB-C](https://www.theverge.com/2023/9/16/23872237/apple-iphone-15-usb-c-switch-guide)
  - [If you really want to save Mother Nature, keep your old iPhone and Apple Watch](https://www.androidauthority.com/keep-your-old-iphone-3364003/)
  - [Meal Kits vs. Grocery Shopping: Which Is Cheaper in 2023?     - CNET](https://www.cnet.com/health/nutrition/are-meal-kits-more-expensive-than-groceries/#ftag=CAD590a51e)
- - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)
- - [Apple Bids Goodbye to the iPhone Mini](https://www.wired.com/story/goodbye-apple-iphone-mini/)
- - [9 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)<!-- TECH:END -->
+ - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

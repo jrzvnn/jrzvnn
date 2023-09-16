@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Timelaps of the average village in Africa, from -8000 to 2023.](http://9gag.com/gag/a4omMEw)
- - 😝 [It turns out billionaires can give good ideas. Accountability.](http://9gag.com/gag/aBdjDAx)
- - 💣 [Quadrakill](http://9gag.com/gag/a9qZQb6)
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
+ - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)<!-- MEMES:END -->
+ - 👉 [Me as an agent](http://9gag.com/gag/aA0qjZg)<!-- MEMES:END -->
 
 ---
 

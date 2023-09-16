@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 😝 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
- - 💣 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
+ - 💣 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 👉 [Casually reminding you, the President of France is trying to remove this video from the internet.](http://9gag.com/gag/awZPw8r)<!-- MEMES:END -->
 
 ---
 

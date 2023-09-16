@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 💣 [Jair Bolsonaro, former president of Brazil, has already undergone 10 surgeries. I wonder why?](http://9gag.com/gag/ago6POg)
+ - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)<!-- MEMES:END -->
+ - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
 
 ---
 

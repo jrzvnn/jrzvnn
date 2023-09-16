@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 😝 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 😝 [More than 3000 licenses! 9gag is really a surprising community](http://9gag.com/gag/amAON2o)
+ - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
+ - 💣 [Sorry for the music](http://9gag.com/gag/abvL5ep)
+ - 😝 [Italian residents in Lampedusa are losing patience with the Italian government: `You journalists say they are refugees, false! They are not refugees!`](http://9gag.com/gag/avQB0Gd)
+ - 👉 [This kind of moves from brands, make me want to buy my girl overpriced Dior presents, X100 more that any woke shit they are doing](http://9gag.com/gag/aVb9zKy)<!-- MEMES:END -->
 
 ---
 

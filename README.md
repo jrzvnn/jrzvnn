@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
- - 💣 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
  - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
- - 👉 [Twins](http://9gag.com/gag/aRE86Bq)<!-- MEMES:END -->
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
+ - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
 
 ---
 

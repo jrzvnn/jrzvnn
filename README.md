@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/aoKGmvX)
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 💣 [Orange cats](http://9gag.com/gag/a4omeqy)
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
+ - 💣 [So much eye candy](http://9gag.com/gag/avQ4b4q)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [I finally will be able to pay for a descent Apartment which is nice](http://9gag.com/gag/a8qQrjY)<!-- MEMES:END -->
+ - 👉 [Me as an agent](http://9gag.com/gag/aA0qjZg)<!-- MEMES:END -->
 
 ---
 

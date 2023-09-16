@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look D Billions, a network of YouTube channels run by Kyrgyzstan-based media company AWA and which got billions of views by teaching kids words through songs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/230916/p8#a230916p8)
+ - [Logitech MX Anywhere 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/logitech-mx-anywhere-4-3362076/)
  - [Apple Watch Ultra 2 vs Apple Watch Ultra - Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-ultra/vs/apple-watch-ultra-2-vs-apple-watch-ultra---specs-price-and-features-compared?utm_medium=rss)
  - [OnePlus’ next tablet is a budget model called the OnePlus Pad Go](https://www.theverge.com/2023/9/16/23876282/oneplus-next-tablet-is-a-budget-model-called-the-oneplus-pad-go)
- - [German prosecutors say Elon Musk&#39;s X has complied with hundreds of hate-crime user data requests; Twitter used to push back if requests threatened free speech &lpar;Max Hoppenstedt/Washington Post&rpar;](http://www.techmeme.com/230916/p7#a230916p7)
- - [The Nintendo Switch OLED and jet-black Xbox Series S are both on sale right now](https://www.theverge.com/2023/9/16/23875156/nintendo-switch-oled-xbox-series-s-x-anker-622-magnetic-battery-deal-sale)
- - [Premier League Soccer Livestream: How to Watch Newcastle United vs. Brentford From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-newcastle-united-vs-brentford-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [German prosecutors say Elon Musk&#39;s X has complied with hundreds of hate-crime user data requests; Twitter used to push back if requests threatened free speech &lpar;Max Hoppenstedt/Washington Post&rpar;](http://www.techmeme.com/230916/p7#a230916p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

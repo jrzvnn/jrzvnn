@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save On iPhone 15 Accessories and More With 15% Off Apple Gear at Belkin     - CNET](https://www.cnet.com/deals/save-on-iphone-15-accessories-and-more-with-15-off-apple-gear-at-belkin/#ftag=CAD590a51e)
  - [Apple Watch Ultra 2 vs Apple Watch Ultra - Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-ultra/vs/apple-watch-ultra-2-vs-apple-watch-ultra---specs-price-and-features-compared?utm_medium=rss)
  - [OnePlus’ next tablet is a budget model called the OnePlus Pad Go](https://www.theverge.com/2023/9/16/23876282/oneplus-next-tablet-is-a-budget-model-called-the-oneplus-pad-go)
- - [Etsy&#39;s First Sitewide Deal Saves You $5 on Any Order Over $25     - CNET](https://www.cnet.com/deals/etsys-first-sitewide-deal-saves-you-5-on-any-order-over-25/#ftag=CAD590a51e)
- - [Emergency Alert Warning: You&#39;ll Be Getting These Messages on Your Phone and TV in October     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-warning-youll-be-getting-these-messages-on-your-phone-and-tv-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [German prosecutors say Elon Musk&#39;s X has complied with hundreds of hate-crime user data requests; Twitter used to push back if requests threatened free speech &lpar;Max Hoppenstedt/Washington Post&rpar;](http://www.techmeme.com/230916/p7#a230916p7)
+ - [The Nintendo Switch OLED and jet-black Xbox Series S are both on sale right now](https://www.theverge.com/2023/9/16/23875156/nintendo-switch-oled-xbox-series-s-x-anker-622-magnetic-battery-deal-sale)
+ - [Premier League Soccer Livestream: How to Watch Newcastle United vs. Brentford From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-newcastle-united-vs-brentford-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

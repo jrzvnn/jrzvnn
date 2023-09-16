@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
  - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
- - 💣 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 💣 [So much eye candy](http://9gag.com/gag/avQ4b4q)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
 
 ---
 

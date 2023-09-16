@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One UI 6 update: Here are all the new features for Samsung Galaxy smartphones](https://www.androidauthority.com/one-ui-6-features-3363081/)
+ - [Daily deals Sept. 16: 12.9&quot; cellular iPad Pro $799, $233 Mac mini, 25% off Apple MagSafe Duo Charger, more](https://appleinsider.com/articles/23/09/16/daily-deals-sept-16-129-cellular-ipad-pro-799-233-mac-mini-25-off-apple-magsafe-duo-charger-more?utm_medium=rss)
  - [Apple warns Russian journalists of Pegasus iPhone infections](https://appleinsider.com/articles/23/09/16/apple-warns-russian-journalists-of-pegasus-iphone-infections?utm_medium=rss)
  - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)
- - [Chipolo interview: Bluetooth trackers, AirTags, and Google’s Find My Device](https://www.androidauthority.com/chipolo-interview-bluetooth-trackers-3364831/)
- - [8 Best Yoga Poses to Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-best-yoga-poses-to-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)
- - [A look at D Billions, a network of YouTube channels run by Kyrgyzstan-based media company AWA and which got billions of views by teaching kids words via songs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/230916/p8#a230916p8)<!-- TECH:END -->
+ - [Chipolo interview: Bluetooth trackers, AirTags, and Google’s Find My Device](https://www.androidauthority.com/chipolo-interview-bluetooth-trackers-3364831/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

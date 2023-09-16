@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
  - 💣 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
- - 😝 [So f*cked](http://9gag.com/gag/amAON04)
- - 👉 [Cool story bro](http://9gag.com/gag/a2KAN4D)<!-- MEMES:END -->
+ - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
+ - 👉 [Twins](http://9gag.com/gag/aRE86Bq)<!-- MEMES:END -->
 
 ---
 

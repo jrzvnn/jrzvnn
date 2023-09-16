@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus’ next tablet is a budget model called the OnePlus Pad Go](https://www.theverge.com/2023/9/16/23876282/oneplus-next-tablet-is-a-budget-model-called-the-oneplus-pad-go)
  - [German prosecutors say Musk&#39;s X has complied with hundreds of hate-crime user data requests; Twitter used to push back if such requests threatened free speech &lpar;Max Hoppenstedt/Washington Post&rpar;](http://www.techmeme.com/230916/p7#a230916p7)
  - [The Nintendo Switch OLED and jet-black Xbox Series S are both on sale right now](https://www.theverge.com/2023/9/16/23875156/nintendo-switch-oled-xbox-series-s-x-anker-622-magnetic-battery-deal-sale)
  - [Serie A Italian Soccer Livestream: How to Watch Inter Milan vs. AC Milan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-inter-milan-vs-ac-milan-from-anywhere/#ftag=CAD590a51e)
- - [Apple&#39;s Satellite Roadside Assistance Offers Help Without Cell Signal     - CNET](https://www.cnet.com/tech/mobile/apples-satellite-roadside-assistance-offers-help-without-cell-signal/#ftag=CAD590a51e)
- - [What’s it like using a microSD card on Android in 2023?](https://www.androidauthority.com/using-microsd-card-android-3362538/)<!-- TECH:END -->
+ - [Apple&#39;s Satellite Roadside Assistance Offers Help Without Cell Signal     - CNET](https://www.cnet.com/tech/mobile/apples-satellite-roadside-assistance-offers-help-without-cell-signal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

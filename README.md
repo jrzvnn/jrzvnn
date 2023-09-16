@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)
  - [Apple TV+ first look deals suspended as Hollywood strikes continue](https://appleinsider.com/articles/23/09/16/apple-tv-first-look-deals-suspended-as-strikes-continue?utm_medium=rss)
  - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)
  - [Should you buy an iPhone 15 or wait for the Galaxy S24?](https://www.androidauthority.com/apple-iphone-15-vs-samsung-galaxy-s24-3363171/)
- - [One UI 6 update: Here are all the new features for Samsung Galaxy smartphones](https://www.androidauthority.com/one-ui-6-features-3363081/)
- - [Daily deals Sept. 16: 12.9&quot; cellular iPad Pro $799, $233 Mac mini, 25% off Apple MagSafe Duo Charger, more](https://appleinsider.com/articles/23/09/16/daily-deals-sept-16-129-cellular-ipad-pro-799-233-mac-mini-25-off-apple-magsafe-duo-charger-more?utm_medium=rss)<!-- TECH:END -->
+ - [One UI 6 update: Here are all the new features for Samsung Galaxy smartphones](https://www.androidauthority.com/one-ui-6-features-3363081/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

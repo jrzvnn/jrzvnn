@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS MetaStealer attacks go after business user data](https://appleinsider.com/articles/23/09/16/macos-metastealer-attacks-go-after-business-user-data?utm_medium=rss)
  - [TikTok&#39;s US staff complain about a new internal app to track office attendance; TikTok requires most staff to be in the office three times a week from October &lpar;New York Times&rpar;](http://www.techmeme.com/230916/p9#a230916p9)
  - [TikTok will fund Black Friday deals to take on Amazon](https://www.theverge.com/2023/9/16/23876501/tiktok-black-friday-deals-subsidized-amazon-walmart)
  - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)
- - [Apple TV+ first look deals suspended as Hollywood strikes continue](https://appleinsider.com/articles/23/09/16/apple-tv-first-look-deals-suspended-as-strikes-continue?utm_medium=rss)
- - [Dog Essentials List: 13 Necessities for New Dog Owners     - CNET](https://www.cnet.com/home/kitchen-and-household/dog-essentials-list-13-necessities-for-new-dog-owners/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ first look deals suspended as Hollywood strikes continue](https://appleinsider.com/articles/23/09/16/apple-tv-first-look-deals-suspended-as-strikes-continue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

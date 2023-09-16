@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HDMI 2.1: Everything You Should Know     - CNET](https://www.cnet.com/tech/home-entertainment/hdmi-2-1-everything-you-should-know/#ftag=CAD590a51e)
  - [A look at Sam Bankman-Fried&#39;s ~250 pages of reflections and self-justifications while under house arrest, offering a window into how he may defend his actions &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/230916/p5#a230916p5)
+ - [Wolves vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Thoughts on Apple&#39;s Wonderlust event, including the Mother Nature skit, FineWoven iPhone cases and Watch straps, iPhone 15 and 15 Pro lineup, and AirPods Pro 2 &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230916/p4#a230916p4)
- - [Apple&#39;s Mother Nature skit at the Wonderlust event was awkward, but every fact or position put forth is a strategic, money-saving, and innovative effort &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/230916/p3#a230916p3)
- - [TikTok Shop plans to give steep holiday discounts between October 27 and November 30, and is offering to subsidize discounts of as much as 50% to entice sellers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230916/p2#a230916p2)
- - [Q&amp;A with Apple executives Jeremy Sandmel and Tim Millet on the company&#39;s gaming ambitions for the iPhone 15 Pro, MetalFX upscaling, gaming controllers, and more &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/230916/p1#a230916p1)<!-- TECH:END -->
+ - [Apple&#39;s Mother Nature skit at the Wonderlust event was awkward, but every fact or position put forth is a strategic, money-saving, and innovative effort &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/230916/p3#a230916p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

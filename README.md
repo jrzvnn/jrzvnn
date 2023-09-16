@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
+ - 😝 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 👉 [Jair Bolsonaro, former president of Brazil, has already undergone 10 surgeries. I wonder why?](http://9gag.com/gag/ago6POg)<!-- MEMES:END -->
 
 ---
 

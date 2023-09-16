@@ -156,10 +156,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [A look at Buenos Aires&#39; legal battle to turn back on a facial recognition system that activists criticized for its misuse and the city shut down in March 2020 &lpar;Karen Naundorf/Wired&rpar;](http://www.techmeme.com/230915/p19#a230915p19)
+ - [Galaxy S23 FE Leak Hints at Bright New Samsung Phone Colors     - CNET](https://www.cnet.com/tech/mobile/galaxy-s23-fe-leak-hints-at-bright-new-samsung-phone-colors/#ftag=CAD590a51e)
  - [Meta’s next smart glasses may have just shown up in FCC filings](https://www.theverge.com/2023/9/15/23875925/meta-next-smart-glasses-fcc-ray-ban-stories)
  - [Best Quest 2 Head Strap     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-head-strap/#ftag=CAD590a51e)
- - [Best Internet Providers in Boise, Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [The Auto Strike Threatens a Supply Chain Already Weakened by Covid](https://www.wired.com/story/the-auto-strike-threatens-a-supply-chain-already-weakened-by-covid/)<!-- TECH:END -->
+ - [Best Internet Providers in Boise, Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

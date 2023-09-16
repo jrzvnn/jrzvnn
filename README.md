@@ -156,10 +156,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [If you really want to save Mother Nature, keep your old iPhone and Apple Watch](https://www.androidauthority.com/keep-your-old-iphone-3364003/)
+ - [Meal Kits vs. Grocery Shopping: Which Is Cheaper in 2023?     - CNET](https://www.cnet.com/health/nutrition/are-meal-kits-more-expensive-than-groceries/#ftag=CAD590a51e)
  - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)
  - [Apple Bids Goodbye to the iPhone Mini](https://www.wired.com/story/goodbye-apple-iphone-mini/)
- - [9 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)
- - [Lightning was great, actually](https://www.theverge.com/2023/9/16/23875491/apple-lightning-cable-usb-c-iphone-15)<!-- TECH:END -->
+ - [9 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

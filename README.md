@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
  - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 💣 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Me as an agent](http://9gag.com/gag/aA0qjZg)<!-- MEMES:END -->
+ - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
 
 ---
 

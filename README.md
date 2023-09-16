@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You think they&#39;ll file a lawsuit after this stunt?](http://9gag.com/gag/amAKDyy)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 😝 [Me as an agent](http://9gag.com/gag/aA0qjZg)
+ - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
  - 💣 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 👉 [So f*cked](http://9gag.com/gag/amAON04)<!-- MEMES:END -->
 
 ---
 

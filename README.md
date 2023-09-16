@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HDMI 2.1: Everything You Should Know     - CNET](https://www.cnet.com/tech/home-entertainment/hdmi-2-1-everything-you-should-know/#ftag=CAD590a51e)
- - [A look at Sam Bankman-Fried&#39;s ~250 pages of reflections and self-justifications while under house arrest, offering a window into how he may defend his actions &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/230916/p5#a230916p5)
- - [Wolves vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Thoughts on Apple&#39;s Wonderlust event, including the Mother Nature skit, FineWoven iPhone cases and Watch straps, iPhone 15 and 15 Pro lineup, and AirPods Pro 2 &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230916/p4#a230916p4)
- - [Apple&#39;s Mother Nature skit at the Wonderlust event was awkward, but every fact or position put forth is a strategic, money-saving, and innovative effort &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/230916/p3#a230916p3)<!-- TECH:END -->
+ - [The Expanse Marks Telltale Games&#39; Return to Form](https://www.wired.com/story/telltale-games-the-expanse-studio-returns/)
+ - [How to Build Your Lego Collection Like a Lego Master &lpar;2023&rpar;](https://www.wired.com/story/how-to-build-a-lego-collection/)
+ - [Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle](https://www.wired.com/story/mgm-ceasars-hack-ransomware/)
+ - [15 Great Deals From Samsung&#39;s Discover Fall Sale: Galaxy Z Flip5, Galaxy Tab S9, and More](https://www.wired.com/story/samsung-discover-fall-sales-event-2023/)
+ - [HDMI 2.1: Everything You Should Know     - CNET](https://www.cnet.com/tech/home-entertainment/hdmi-2-1-everything-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

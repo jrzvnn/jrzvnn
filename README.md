@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More than 3000 licenses! 9gag is really a surprising community](http://9gag.com/gag/amAON2o)
- - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
- - 💣 [Sorry for the music](http://9gag.com/gag/abvL5ep)
- - 😝 [Italian residents in Lampedusa are losing patience with the Italian government: `You journalists say they are refugees, false! They are not refugees!`](http://9gag.com/gag/avQB0Gd)
- - 👉 [This kind of moves from brands, make me want to buy my girl overpriced Dior presents, X100 more that any woke shit they are doing](http://9gag.com/gag/aVb9zKy)<!-- MEMES:END -->
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 😝 [The most useless police I&#39;ve ever seen](http://9gag.com/gag/aEqjwDe)
+ - 💣 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 👉 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
 
 ---
 

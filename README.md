@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you really want to save Mother Nature, keep your old iPhone and Apple Watch](https://www.androidauthority.com/keep-your-old-iphone-3364003/)
  - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)
  - [Apple Bids Goodbye to the iPhone Mini](https://www.wired.com/story/goodbye-apple-iphone-mini/)
  - [9 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)
- - [Lightning was great, actually](https://www.theverge.com/2023/9/16/23875491/apple-lightning-cable-usb-c-iphone-15)
- - [A profile of Microsoft CTO Kevin Scott, whose OpenAI-or-bust strategy rankled some employees who found their AI projects pushed aside and resources curtailed &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/230916/p6#a230916p6)<!-- TECH:END -->
+ - [Lightning was great, actually](https://www.theverge.com/2023/9/16/23875491/apple-lightning-cable-usb-c-iphone-15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

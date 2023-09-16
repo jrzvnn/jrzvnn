@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 💣 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 😝 [6k of male `refugges` in 36 hours? That is no Immigration, that is an fu***ng invasion!](http://9gag.com/gag/aBdjA5D)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Me as an agent](http://9gag.com/gag/aA0qjZg)<!-- MEMES:END -->
+ - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
 
 ---
 

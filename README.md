@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple warns Russian journalists of Pegasus iPhone infections](https://appleinsider.com/articles/23/09/16/apple-warns-russian-journalists-of-pegasus-iphone-infections?utm_medium=rss)
  - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)
  - [Chipolo interview: Bluetooth trackers, AirTags, and Google’s Find My Device](https://www.androidauthority.com/chipolo-interview-bluetooth-trackers-3364831/)
- - [A look at D Billions, a network of YouTube channels run by Kyrgyzstan-based media company AWA and which got billions of views by teaching kids words via songs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/230916/p8#a230916p8)
- - [Logitech MX Anywhere 4: Release date, price, specs, rumors, and more](https://www.androidauthority.com/logitech-mx-anywhere-4-3362076/)
- - [Save On iPhone 15 Accessories and More With 15% Off Apple Gear at Belkin     - CNET](https://www.cnet.com/deals/save-on-iphone-15-accessories-and-more-with-15-off-apple-gear-at-belkin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Yoga Poses to Add to Your Bedtime Routine for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-best-yoga-poses-to-add-to-your-bedtime-routine-for-better-sleep/#ftag=CAD590a51e)
+ - [A look at D Billions, a network of YouTube channels run by Kyrgyzstan-based media company AWA and which got billions of views by teaching kids words via songs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/230916/p8#a230916p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

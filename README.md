@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Microsoft CTO Kevin Scott, whose OpenAI-or-bust strategy rankled some employees who found their AI projects pushed aside and resources curtailed &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/230916/p6#a230916p6)
- - [UGreen 300W GaN Charger review: Fast-charging with lots of high-power USB-C](https://appleinsider.com/articles/23/09/16/ugreen-300w-gan-charger-review-fast-charging-with-five-ports?utm_medium=rss)
- - [iPhone 15 Pro hardware, software improvements behind Apple&#39;s gaming push](https://appleinsider.com/articles/23/09/16/iphone-15-pro-hardware-software-improvements-behind-apples-gaming-push?utm_medium=rss)
- - [Exclusive: Google Pixel 9 processor won’t be the ambitious chip we hoped for](https://www.androidauthority.com/google-tensor-g4-pixel-9-3363795/)
- - [The 21 Best iPad Accessories &lpar;2023&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
+ - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)
+ - [Apple Bids Goodbye to the iPhone Mini](https://www.wired.com/story/goodbye-apple-iphone-mini/)
+ - [9 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)
+ - [Lightning was great, actually](https://www.theverge.com/2023/9/16/23875491/apple-lightning-cable-usb-c-iphone-15)
+ - [A profile of Microsoft CTO Kevin Scott, whose OpenAI-or-bust strategy rankled some employees who found their AI projects pushed aside and resources curtailed &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/230916/p6#a230916p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

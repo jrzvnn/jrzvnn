@@ -164,9 +164,9 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
- - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
- - 💣 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 💣 [Jair Bolsonaro, former president of Brazil, has already undergone 10 surgeries. I wonder why?](http://9gag.com/gag/ago6POg)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
  - 👉 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)<!-- MEMES:END -->
 

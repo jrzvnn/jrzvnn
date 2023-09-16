@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 💣 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
  - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
+ - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
 
 ---
 

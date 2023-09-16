@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UGreen 300W GaN Charger review: Fast-charging with lots of high-power USB-C](https://appleinsider.com/articles/23/09/16/ugreen-300w-gan-charger-review-fast-charging-with-five-ports?utm_medium=rss)
+ - [iPhone 15 Pro hardware, software improvements behind Apple&#39;s gaming push](https://appleinsider.com/articles/23/09/16/iphone-15-pro-hardware-software-improvements-behind-apples-gaming-push?utm_medium=rss)
  - [Exclusive: Google Pixel 9 processor won’t be the ambitious chip we hoped for](https://www.androidauthority.com/google-tensor-g4-pixel-9-3363795/)
  - [The 21 Best iPad Accessories &lpar;2023&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)
- - [A Global Surge in Cholera Outbreaks May Be Fueled by Climate Change](https://www.wired.com/story/a-global-surge-in-cholera-outbreaks-may-be-fueled-by-climate-change/)
- - [The Expanse Marks Telltale Games&#39; Return to Form](https://www.wired.com/story/telltale-games-the-expanse-studio-returns/)
- - [How to Build Your Lego Collection Like a Lego Master &lpar;2023&rpar;](https://www.wired.com/story/how-to-build-a-lego-collection/)<!-- TECH:END -->
+ - [A Global Surge in Cholera Outbreaks May Be Fueled by Climate Change](https://www.wired.com/story/a-global-surge-in-cholera-outbreaks-may-be-fueled-by-climate-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

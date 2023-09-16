@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nintendo Switch OLED and jet-black Xbox Series S are both on sale right now](https://www.theverge.com/2023/9/16/23875156/nintendo-switch-oled-xbox-series-s-x-anker-622-magnetic-battery-deal-sale)
+ - [Serie A Italian Soccer Livestream: How to Watch Inter Milan vs. AC Milan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-inter-milan-vs-ac-milan-from-anywhere/#ftag=CAD590a51e)
+ - [Apple&#39;s Satellite Roadside Assistance Offers Help Without Cell Signal     - CNET](https://www.cnet.com/tech/mobile/apples-satellite-roadside-assistance-offers-help-without-cell-signal/#ftag=CAD590a51e)
  - [What’s it like using a microSD card on Android in 2023?](https://www.androidauthority.com/using-microsd-card-android-3362538/)
- - [Everything you need to know about switching to USB-C](https://www.theverge.com/2023/9/16/23872237/apple-iphone-15-usb-c-switch-guide)
- - [If you really want to save Mother Nature, keep your old iPhone and Apple Watch](https://www.androidauthority.com/keep-your-old-iphone-3364003/)
- - [Meal Kits vs. Grocery Shopping: Which Is Cheaper in 2023?     - CNET](https://www.cnet.com/health/nutrition/are-meal-kits-more-expensive-than-groceries/#ftag=CAD590a51e)
- - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)<!-- TECH:END -->
+ - [Everything you need to know about switching to USB-C](https://www.theverge.com/2023/9/16/23872237/apple-iphone-15-usb-c-switch-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

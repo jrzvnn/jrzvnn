@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [Daddy chill...](http://9gag.com/gag/aZDo66n)
- - 💣 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 💣 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 👉 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
 
 ---
 

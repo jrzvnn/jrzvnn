@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)
- - 💣 [An emergency was declared on Italy&#39;s Lampedusa Island, where more than 6 thousand African immigrants arrived in 36 hours.](http://9gag.com/gag/awZPEA8)
+ - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)<!-- MEMES:END -->
+ - 👉 [Me as an agent](http://9gag.com/gag/aA0qjZg)<!-- MEMES:END -->
 
 ---
 

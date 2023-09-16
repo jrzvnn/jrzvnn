@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So f*cked](http://9gag.com/gag/amAON04)
- - 😝 [The most useless police I&#39;ve ever seen](http://9gag.com/gag/aEqjwDe)
+ - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 😝 [Let us all remember...](http://9gag.com/gag/anz8pXE)
  - 💣 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
  - 👉 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exclusive: Google Pixel 9 processor won’t be the ambitious chip we hoped for](https://www.androidauthority.com/google-tensor-g4-pixel-9-3363795/)
+ - [The 21 Best iPad Accessories &lpar;2023&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)
+ - [A Global Surge in Cholera Outbreaks May Be Fueled by Climate Change](https://www.wired.com/story/a-global-surge-in-cholera-outbreaks-may-be-fueled-by-climate-change/)
  - [The Expanse Marks Telltale Games&#39; Return to Form](https://www.wired.com/story/telltale-games-the-expanse-studio-returns/)
- - [How to Build Your Lego Collection Like a Lego Master &lpar;2023&rpar;](https://www.wired.com/story/how-to-build-a-lego-collection/)
- - [Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle](https://www.wired.com/story/mgm-ceasars-hack-ransomware/)
- - [15 Great Deals From Samsung&#39;s Discover Fall Sale: Galaxy Z Flip5, Galaxy Tab S9, and More](https://www.wired.com/story/samsung-discover-fall-sales-event-2023/)
- - [HDMI 2.1: Everything You Should Know     - CNET](https://www.cnet.com/tech/home-entertainment/hdmi-2-1-everything-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Build Your Lego Collection Like a Lego Master &lpar;2023&rpar;](https://www.wired.com/story/how-to-build-a-lego-collection/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

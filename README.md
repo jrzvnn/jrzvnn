@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should you buy an iPhone 15 or wait for the Galaxy S24?](https://www.androidauthority.com/apple-iphone-15-vs-samsung-galaxy-s24-3363171/)
  - [One UI 6 update: Here are all the new features for Samsung Galaxy smartphones](https://www.androidauthority.com/one-ui-6-features-3363081/)
  - [Daily deals Sept. 16: 12.9&quot; cellular iPad Pro $799, $233 Mac mini, 25% off Apple MagSafe Duo Charger, more](https://appleinsider.com/articles/23/09/16/daily-deals-sept-16-129-cellular-ipad-pro-799-233-mac-mini-25-off-apple-magsafe-duo-charger-more?utm_medium=rss)
  - [Apple warns Russian journalists of Pegasus iPhone infections](https://appleinsider.com/articles/23/09/16/apple-warns-russian-journalists-of-pegasus-iphone-infections?utm_medium=rss)
- - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)
- - [Chipolo interview: Bluetooth trackers, AirTags, and Google’s Find My Device](https://www.androidauthority.com/chipolo-interview-bluetooth-trackers-3364831/)<!-- TECH:END -->
+ - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

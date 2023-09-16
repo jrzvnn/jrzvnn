@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
- - 😝 [Let us all remember...](http://9gag.com/gag/anz8pXE)
- - 💣 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 👉 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
+ - 😝 [Italian residents in Lampedusa are losing patience with the Italian government: `You journalists say they are refugees, false! They are not refugees!`](http://9gag.com/gag/avQB0Gd)
+ - 😝 [If the AFFIRMATIVE ACTION&#39;s actually WENT to school and learned to read and write, they might have been able to read the STATISTICS about themselves !.](http://9gag.com/gag/aeQqNP5)
+ - 💣 [Bro didn&#39;t waste a single drop](http://9gag.com/gag/amAONXV)
+ - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
+ - 👉 [The immigration system is extremely flawed!](http://9gag.com/gag/aoKGzW0)<!-- MEMES:END -->
 
 ---
 

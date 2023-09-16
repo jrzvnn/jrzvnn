@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me as an agent](http://9gag.com/gag/aA0qjZg)
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 💣 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
+ - 😝 [Worst people on earth](http://9gag.com/gag/aL1VZy5)
+ - 😝 [I want to know both answer](http://9gag.com/gag/amAKEqv)
+ - 💣 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Jair Bolsonaro, former president of Brazil, has already undergone 10 surgeries. I wonder why?](http://9gag.com/gag/ago6POg)<!-- MEMES:END -->
+ - 👉 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)<!-- MEMES:END -->
 
 ---
 

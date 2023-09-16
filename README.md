@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
- - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 😝 [Quadrakill](http://9gag.com/gag/a9qZQb6)
+ - 😝 [She raised a f**king jaguar by accident what the f**k](http://9gag.com/gag/a7qPQ3A)
+ - 💣 [Timelaps of the average village in Africa, from -8000 to 2023.](http://9gag.com/gag/a4omMEw)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [Me as an agent](http://9gag.com/gag/aA0qjZg)<!-- MEMES:END -->
+ - 👉 [It turns out billionaires can give good ideas. Accountability.](http://9gag.com/gag/aBdjDAx)<!-- MEMES:END -->
 
 ---
 

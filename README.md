@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
  - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
+ - 😝 [You think they&#39;ll file a lawsuit after this stunt?](http://9gag.com/gag/amAKDyy)
+ - 💣 [Casually reminding you, the President of France is trying to remove this video from the internet.](http://9gag.com/gag/awZPw8r)
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 👉 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)<!-- MEMES:END -->
 
 ---
 

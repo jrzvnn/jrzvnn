@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orange cats](http://9gag.com/gag/a4omeqy)
- - 😝 [How?](http://9gag.com/gag/aoKGmvX)
- - 💣 [Man I detest this celebrity worship culture](http://9gag.com/gag/anz8L0L)
- - 😝 [Oh, shit](http://9gag.com/gag/aVb4nZO)
- - 👉 [It be like that.](http://9gag.com/gag/aBdb9NA)<!-- MEMES:END -->
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 😝 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me as an agent](http://9gag.com/gag/aA0qjZg)
- - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
+ - 😝 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
  - 💣 [Georgia Meloni prime minister of Italy. Promised that she won&#39;t tolerate migrants. Video after yesterday&#39;s invasion of 7.000 migrants in the island of Lampedusa &lpar;6.000 Italians live there&rpar;](http://9gag.com/gag/aMEDg5V)
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 👉 [So f*cked](http://9gag.com/gag/amAON04)<!-- MEMES:END -->
+ - 😝 [RIP Lampedusa](http://9gag.com/gag/avQ43oX)
+ - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 😝 [6k of male `refugges` in 36 hours? That is no Immigration, that is an fu***ng invasion!](http://9gag.com/gag/aBdjA5D)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 😝 [Me as an agent](http://9gag.com/gag/aA0qjZg)
+ - 💣 [Casually reminding you, the President of France is trying to remove this video from the internet.](http://9gag.com/gag/awZPw8r)
  - 😝 [Achievement unlocked! \ud83c\udfaeA huge thank you to everyone who joined us at 9GAG gamescom 2023.](http://9gag.com/gag/aoKArbx)
- - 👉 [So you had a bad day](http://9gag.com/gag/aGE63n6)<!-- MEMES:END -->
+ - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
 
 ---
 

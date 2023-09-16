@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoughts on Apple&#39;s Wonderlust event, including the Mother Nature skit, FineWoven iPhone cases and Watch straps, iPhone 15 and 15 Pro lineup, and AirPods Pro 2 &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/230916/p4#a230916p4)
+ - [Apple&#39;s Mother Nature skit at the Wonderlust event was awkward, but every fact or position put forth is a strategic, money-saving, and innovative effort &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/230916/p3#a230916p3)
  - [TikTok Shop plans to give steep holiday discounts between October 27 and November 30, and is offering to subsidize discounts of as much as 50% to entice sellers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230916/p2#a230916p2)
  - [Q&amp;A with Apple executives Jeremy Sandmel and Tim Millet on the company&#39;s gaming ambitions for the iPhone 15 Pro, MetalFX upscaling, gaming controllers, and more &lpar;Taylor Lyles/IGN&rpar;](http://www.techmeme.com/230916/p1#a230916p1)
- - [Best Smart Scale for 2023     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
- - [Best iPhone 15 and iPhone 15 Pro Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
- - [A look at Buenos Aires&#39; legal battle to turn back on a facial recognition system that activists criticized for its misuse and the city shut down in March 2020 &lpar;Karen Naundorf/Wired&rpar;](http://www.techmeme.com/230915/p19#a230915p19)<!-- TECH:END -->
+ - [Best Smart Scale for 2023     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

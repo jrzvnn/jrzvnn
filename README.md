@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If the AFFIRMATIVE ACTION&#39;s actually WENT to school and learned to read and write, they might have been able to read the STATISTICS about themselves !.](http://9gag.com/gag/aeQqNP5)
- - 😝 [The immigration system is extremely flawed!](http://9gag.com/gag/aoKGzW0)
- - 💣 [Sometimes even watches can be great wingmen](http://9gag.com/gag/anz0YA0)
- - 😝 [Bro didn&#39;t waste a single drop](http://9gag.com/gag/amAONXV)
+ - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 💣 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
+ - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
  - 👉 [Cool story bro](http://9gag.com/gag/a2KAN4D)<!-- MEMES:END -->
 
 ---

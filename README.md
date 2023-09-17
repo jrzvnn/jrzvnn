@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What position were they in?](http://9gag.com/gag/aKEXwGj)
+ - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
  - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 💣 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
- - 😝 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 👉 [Respect Traditions](http://9gag.com/gag/a9q4j2L)<!-- MEMES:END -->
+ - 💣 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
+ - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
+ - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
 
 ---
 

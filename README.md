@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walter Isaacson&#39;s Elon Musk biography is a book of rigorous and dogged reportage, but lacks analysis and often ignores the moments at which Musk&#39;s flaws scale &lpar;Constance Grady/Vox&rpar;](http://www.techmeme.com/230917/p3#a230917p3)
+ - [18 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Apple continues to use our own mortality as marketing](https://www.theverge.com/23875558/apple-watch-iphone-ads-emergency-sos-satellite-connectivity)
  - [ErgoFx desk review: Optimize your cable management and storage](https://appleinsider.com/articles/23/09/17/ergofx-desk-review-optimize-your-cable-management-and-storage?utm_medium=rss)
- - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)
- - [A New Proof Moves the Needle on a Sticky Geometry Problem](https://www.wired.com/story/a-new-proof-moves-the-needle-on-a-sticky-geometry-problem/)
- - [Doona Liki Trike Review &lpar;2023&rpar;: Easy to Transport](https://www.wired.com/review/doona-liki-trike/)
- - [How to reinvent your phone without buying a new one](https://www.theverge.com/23875308/widgets-wallpapers-iphone-15-earpods-elon-musk-installer-newsletter)<!-- TECH:END -->
+ - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

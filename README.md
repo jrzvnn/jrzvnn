@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So f*cked](http://9gag.com/gag/amAON04)
- - 😝 [Watched this vocal lesson for 2 hours.](http://9gag.com/gag/aoKGEm3)
- - 💣 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
+ - 😝 [Times change](http://9gag.com/gag/awZ9KYr)
+ - 😝 [Somebody asked me for FIREEE](http://9gag.com/gag/aeQq02p)
+ - 💣 [In The Top Ten For Sure](http://9gag.com/gag/aeQq0dv)
+ - 😝 [Starsomething](http://9gag.com/gag/az2vE5q)
+ - 👉 [Shawty restless](http://9gag.com/gag/aeQq0rO)<!-- MEMES:END -->
 
 ---
 

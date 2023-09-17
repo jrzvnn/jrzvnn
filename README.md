@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That terrible](http://9gag.com/gag/aBdbR0A)
- - 😝 [You think they&#39;ll file a lawsuit after this stunt?](http://9gag.com/gag/amAKDyy)
- - 💣 [The curse was broken years ago.](http://9gag.com/gag/ajV3QRG)
- - 😝 [1991 - World sees face morphing VFX for the first time.. in a music video](http://9gag.com/gag/a8qvbqQ)
- - 👉 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)<!-- MEMES:END -->
+ - 😝 [This kind of moves from brands, make me want to buy my girl overpriced Dior presents, X100 more that any woke shit they are doing](http://9gag.com/gag/aVb9zKy)
+ - 😝 [The immigration system is extremely flawed!](http://9gag.com/gag/aoKGzW0)
+ - 💣 [Bro didn&#39;t waste a single drop](http://9gag.com/gag/amAONXV)
+ - 😝 [Sometimes even watches can be great wingmen](http://9gag.com/gag/anz0YA0)
+ - 👉 [Hello little one. Long time no see.](http://9gag.com/gag/aEqjw6n)<!-- MEMES:END -->
 
 ---
 

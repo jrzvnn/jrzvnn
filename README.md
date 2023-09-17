@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 😝 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
- - 💣 [Twins](http://9gag.com/gag/aRE86Bq)
- - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)<!-- MEMES:END -->
+ - 😝 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
+ - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 💣 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 👉 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)<!-- MEMES:END -->
 
 ---
 

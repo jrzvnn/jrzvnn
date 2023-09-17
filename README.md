@@ -155,7 +155,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple holiday sales poised for growth, but 2024 financial should be better](https://appleinsider.com/articles/23/09/17/apple-holiday-sales-poised-for-growth-but-2024-financial-should-be-better?utm_medium=rss)
+ - [Apple holiday sales poised for growth, but 2024 financials should be better](https://appleinsider.com/articles/23/09/17/apple-holiday-sales-poised-for-growth-but-2024-financial-should-be-better?utm_medium=rss)
  - [8 Apple features we’ve already seen on Android](https://www.androidauthority.com/apple-iphone-15-features-seen-on-android-3362934/)
  - [The 8 Best Money-Saving Kitchen Appliances: SodaStream, Instant Pot, Air Fryer and More     - CNET](https://www.cnet.com/news/best-kitchen-tools-and-appliances-to-save-money-at-home/#ftag=CAD590a51e)
  - [Upgrade Your Kitchen Arsenal With Sitewide Savings at Xtrema Cookware     - CNET](https://www.cnet.com/deals/take-up-to-30-off-or-more-sitewide-at-xtrema-cookware-during-its-summer-sizzle-sale/#ftag=CAD590a51e)

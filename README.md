@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [Benchmark results: Faaaak](http://9gag.com/gag/aBdbK4D)
- - 💣 [Cool story bro](http://9gag.com/gag/a2KAN4D)
- - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
+ - 😝 [If the AFFIRMATIVE ACTION&#39;s actually WENT to school and learned to read and write, they might have been able to read the STATISTICS about themselves !.](http://9gag.com/gag/aeQqNP5)
+ - 😝 [The immigration system is extremely flawed!](http://9gag.com/gag/aoKGzW0)
+ - 💣 [Sometimes even watches can be great wingmen](http://9gag.com/gag/anz0YA0)
+ - 😝 [Bro didn&#39;t waste a single drop](http://9gag.com/gag/amAONXV)
+ - 👉 [Cool story bro](http://9gag.com/gag/a2KAN4D)<!-- MEMES:END -->
 
 ---
 

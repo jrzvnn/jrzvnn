@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
  - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
- - 💣 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
  - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)<!-- MEMES:END -->
+ - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
 
 ---
 

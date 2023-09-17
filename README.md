@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 💣 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
+ - 😝 [Programmer](http://9gag.com/gag/aqeVNqj)
+ - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - 💣 [Shawty restless](http://9gag.com/gag/aeQq0rO)
+ - 😝 [In The Top Ten For Sure](http://9gag.com/gag/aeQq0dv)
+ - 👉 [Wifu Material](http://9gag.com/gag/anz0Kbq)<!-- MEMES:END -->
 
 ---
 

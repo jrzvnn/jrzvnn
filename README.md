@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 😝 [Watched this vocal lesson for 2 hours.](http://9gag.com/gag/aoKGEm3)
  - 💣 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 👉 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)<!-- MEMES:END -->
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---
 

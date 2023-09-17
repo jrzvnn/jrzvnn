@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
  - 😝 [The perfect girlfriend doesn&#39;t exi...](http://9gag.com/gag/amAOXnX)
- - 💣 [Twins](http://9gag.com/gag/aRE86Bq)
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 👉 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
+ - 😝 [Possibly one of the best &amp; most deserved slap in the face I&#39;ve heard in politics in my life, &amp; delivered magnificently. Bravo Dominik Tarczy\u0144ski, Bravo. - Strasbourg 14.09.2023](http://9gag.com/gag/aOxnKzM)
+ - 💣 [Sometimes even watches can be great wingmen](http://9gag.com/gag/anz0YA0)
+ - 😝 [Shawty restless](http://9gag.com/gag/aeQq0rO)
+ - 👉 [Sorry for the music](http://9gag.com/gag/abvL5ep)<!-- MEMES:END -->
 
 ---
 

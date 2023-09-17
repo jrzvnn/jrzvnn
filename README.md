@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 💣 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 😝 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
- - 👉 [Respect Traditions](http://9gag.com/gag/a9q4j2L)<!-- MEMES:END -->
+ - 😝 [Respect Traditions](http://9gag.com/gag/a9q4j2L)
+ - 😝 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
+ - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
+ - 👉 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)<!-- MEMES:END -->
 
 ---
 

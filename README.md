@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 💣 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
- - 😝 [Athleticism](http://9gag.com/gag/aBdb3vA)
- - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 💣 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
+ - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 👉 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)<!-- MEMES:END -->
 
 ---
 

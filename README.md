@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
- - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
- - 💣 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
+ - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
+ - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
+ - 💣 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
+ - 😝 [Florida,USA](http://9gag.com/gag/aeQyvdB)
+ - 👉 [Cool story bro](http://9gag.com/gag/a2KAN4D)<!-- MEMES:END -->
 
 ---
 

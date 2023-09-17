@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cook justifies Apple&#39;s advertising on X as a &#39;town square&#39; for the Internet](https://appleinsider.com/articles/23/09/17/cook-justifies-apples-advertising-on-x-as-a-town-square-for-the-internet?utm_medium=rss)
  - [Apple’s USB-C shift could bring back the MagSafe Duo and Battery Pack](https://www.theverge.com/2023/9/17/23877363/apple-usb-c-magsafe-airpods-iphone-2025)
  - [Best Roku Deals: Save $31 on Roku Streambar and More     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
  - [The Home Assistant Green is here to make the most powerful smart home platform more accessible](https://www.theverge.com/23875557/home-assistant-green-announcement-price-specs-ten-year-anniversary)
- - [Swytch Electric Bike Conversion Kit review: Sleek and easy bike electrification](https://appleinsider.com/articles/23/09/17/swytch-electric-bike-conversion-kit-review-sleek-and-easy-bike-electrification?utm_medium=rss)
- - [Jets vs. Cowboys Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jets-vs-cowboys-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Swytch Electric Bike Conversion Kit review: Sleek and easy bike electrification](https://appleinsider.com/articles/23/09/17/swytch-electric-bike-conversion-kit-review-sleek-and-easy-bike-electrification?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

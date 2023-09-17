@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
+ - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
+ - 💣 [Twins](http://9gag.com/gag/aRE86Bq)
  - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 💣 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [Cool story bro](http://9gag.com/gag/a2KAN4D)<!-- MEMES:END -->
+ - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
 
 ---
 

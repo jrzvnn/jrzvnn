@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times change](http://9gag.com/gag/awZ9KYr)
- - 😝 [Somebody asked me for FIREEE](http://9gag.com/gag/aeQq02p)
- - 💣 [In The Top Ten For Sure](http://9gag.com/gag/aeQq0dv)
- - 😝 [Starsomething](http://9gag.com/gag/az2vE5q)
- - 👉 [Shawty restless](http://9gag.com/gag/aeQq0rO)<!-- MEMES:END -->
+ - 😝 [What position were they in?](http://9gag.com/gag/aKEXwGj)
+ - 😝 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
+ - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 👉 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Proof Moves the Needle on a Sticky Geometry Problem](https://www.wired.com/story/a-new-proof-moves-the-needle-on-a-sticky-geometry-problem/)
+ - [Doona Liki Trike Review &lpar;2023&rpar;: Easy to Transport](https://www.wired.com/review/doona-liki-trike/)
+ - [How to reinvent your phone without buying a new one](https://www.theverge.com/23875308/widgets-wallpapers-iphone-15-earpods-elon-musk-installer-newsletter)
  - [Dell XPS 17 9730 Review: Big, Fast but No OLED Option     - CNET](https://www.cnet.com/tech/computing/dell-xps-17-9730-review-big-fast-but-no-oled-option/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Bournemouth vs. Chelsea From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-bournemouth-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
- - [iOS 17 Arrives Tomorrow. Here&#39;s What You Can Expect     - CNET](https://www.cnet.com/tech/mobile/ios-17-arrives-tomorrow-heres-what-you-can-expect/#ftag=CAD590a51e)
- - [ChatGPT Isn&#39;t Coming for Your Coding Job](https://www.wired.com/story/chatgpt-coding-software-crisis/)
- - [How to Make Sure Important Emails Don’t End Up in Spam](https://www.wired.com/story/how-to-make-sure-important-emails-not-in-spam/)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Bournemouth vs. Chelsea From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-bournemouth-vs-chelsea-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

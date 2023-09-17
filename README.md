@@ -158,8 +158,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [iPhone 15 Pro vs. iPhone 15 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-15-pro-max----specs-price-and-features-compared?utm_medium=rss)
  - [How Spotify and other streaming services have transformed the sound of music: songs are shorter, albums are longer, and artists collaborate more across genres &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230917/p4#a230917p4)
  - [Should you buy Apple Watch Series 9 or wait for the Watch X?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-x-3364486/)
- - [Raiders vs. Bills Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/raiders-vs-bills-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
- - [Ravens vs. Bengals Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/ravens-vs-bengals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Casper&#39;s Secret Sale Knocks Up to 60% Off Mattresses and Beddings     - CNET](https://www.cnet.com/deals/caspers-secret-sale-knocks-up-to-60-off-mattresses-and-beddings/#ftag=CAD590a51e)
+ - [Celebrate the iPhone 15 Release With Up to 25% Off Anker Accessories     - CNET](https://www.cnet.com/deals/celebrate-the-iphone-15-release-with-up-to-25-off-anker-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

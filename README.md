@@ -164,7 +164,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This kind of moves from brands, make me want to buy my girl overpriced Dior presents, X100 more that any woke shit they are doing](http://9gag.com/gag/aVb9zKy)
+ - 😝 [If the AFFIRMATIVE ACTION&#39;s actually WENT to school and learned to read and write, they might have been able to read the STATISTICS about themselves !.](http://9gag.com/gag/aeQqNP5)
  - 😝 [The immigration system is extremely flawed!](http://9gag.com/gag/aoKGzW0)
  - 💣 [Bro didn&#39;t waste a single drop](http://9gag.com/gag/amAONXV)
  - 😝 [Sometimes even watches can be great wingmen](http://9gag.com/gag/anz0YA0)

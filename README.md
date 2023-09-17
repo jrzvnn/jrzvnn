@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [What position were they in?](http://9gag.com/gag/aKEXwGj)
- - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 💣 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
  - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
+ - 💣 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
+ - 😝 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
+ - 👉 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
 
 ---
 

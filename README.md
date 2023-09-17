@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max in high demand, but with production challenges](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)
  - [Daily deals Sept. 17: $50 off AirPods Pro 2 with USB-C, $200 off 15&quot; MacBook Air, $44 off Kate Spade Apple Watch Band, more](https://appleinsider.com/articles/23/09/17/daily-deals-sept-17-50-off-airpods-pro-2-with-usb-c-200-off-15-macbook-air-44-off-kate-spade-apple-watch-band-more?utm_medium=rss)
  - [iPhone 15 Pro vs. iPhone 15 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-15-pro-max----specs-price-and-features-compared?utm_medium=rss)
  - [How Spotify and other streaming services have transformed the sound of music: songs are shorter, albums are longer, and artists collaborate more across genres &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230917/p4#a230917p4)
- - [Should you buy Apple Watch Series 9 or wait for the Watch X?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-x-3364486/)
- - [Casper&#39;s Secret Sale Knocks Up to 60% Off Mattresses and Beddings     - CNET](https://www.cnet.com/deals/caspers-secret-sale-knocks-up-to-60-off-mattresses-and-beddings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should you buy Apple Watch Series 9 or wait for the Watch X?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-x-3364486/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

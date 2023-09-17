@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 💣 [So f*cked](http://9gag.com/gag/amAON04)
- - 😝 [The curse was broken years ago.](http://9gag.com/gag/ajV3QRG)
- - 👉 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)<!-- MEMES:END -->
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Benchmark results: Faaaak](http://9gag.com/gag/aBdbK4D)
+ - 💣 [Cool story bro](http://9gag.com/gag/a2KAN4D)
+ - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
+ - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grand Theft Auto V is now 10 years old](https://www.theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old)
  - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)
  - [iPhone 15 Pro Max in high demand, but production challenges remain](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)
  - [Cook justifies Apple&#39;s advertising on X as a &#39;town square&#39; for the Internet](https://appleinsider.com/articles/23/09/17/cook-justifies-apples-advertising-on-x-as-a-town-square-for-the-internet?utm_medium=rss)
- - [Apple’s USB-C shift could bring back the MagSafe Duo and Battery Pack](https://www.theverge.com/2023/9/17/23877363/apple-usb-c-magsafe-airpods-iphone-2025)
- - [Best Roku Deals: Save $31 on Roku Streambar and More     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s USB-C shift could bring back the MagSafe Duo and Battery Pack](https://www.theverge.com/2023/9/17/23877363/apple-usb-c-magsafe-airpods-iphone-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

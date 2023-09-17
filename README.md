@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard fall](http://9gag.com/gag/a1P8eMw)
- - 😝 [The perfect girlfriend doesn&#39;t exi...](http://9gag.com/gag/amAOXnX)
- - 💣 [Hello there..](http://9gag.com/gag/aqeVNbQ)
- - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 👉 [I could watch this for hours](http://9gag.com/gag/aGErw20)<!-- MEMES:END -->
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
+ - 💣 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
+ - 😝 [Athleticism](http://9gag.com/gag/aBdb3vA)
+ - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---
 

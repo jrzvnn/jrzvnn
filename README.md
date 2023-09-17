@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Repairable smartphones need a futureproof processor too](https://www.androidauthority.com/fairphone-5-benchmarks-3362975/)
- - [iPhone 15 Pro Max in high demand, but with production challenges](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)
- - [Glowforge Aura Review: A Delightful Sandbox of Potential Crafting Fun     - CNET](https://www.cnet.com/tech/computing/glowforge-aura-review/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Real Sociedad From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-real-sociedad-from-anywhere/#ftag=CAD590a51e)
- - [Daily deals Sept. 17: $50 off AirPods Pro 2 with USB-C, $200 off 15&quot; MacBook Air, $44 off Kate Spade Apple Watch Band, more](https://appleinsider.com/articles/23/09/17/daily-deals-sept-17-50-off-airpods-pro-2-with-usb-c-200-off-15-macbook-air-44-off-kate-spade-apple-watch-band-more?utm_medium=rss)<!-- TECH:END -->
+ - [Swytch Electric Bike Conversion Kit review: Sleek and easy bike electrification](https://appleinsider.com/articles/23/09/17/swytch-electric-bike-conversion-kit-review-sleek-and-easy-bike-electrification?utm_medium=rss)
+ - [Jets vs. Cowboys Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jets-vs-cowboys-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Commanders vs. Broncos Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-broncos-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Giants vs. Cardinals Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-cardinals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [49ers vs. Rams Livestream: How to Watch NFL Week 2 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/49ers-vs-rams-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

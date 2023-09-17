@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
- - 💣 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 😝 [So f*cked](http://9gag.com/gag/amAON04)
- - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 💣 [Ze russist came back from smo and throws a grenade at kids.](http://9gag.com/gag/a4omeyv)
+ - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 👉 [So f*cked](http://9gag.com/gag/amAON04)<!-- MEMES:END -->
 
 ---
 

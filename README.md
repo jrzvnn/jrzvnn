@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Repairable smartphones need a futureproof processor too](https://www.androidauthority.com/fairphone-5-benchmarks-3362975/)
  - [iPhone 15 Pro Max in high demand, but with production challenges](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)
- - [Daily deals Sept. 17: $50 off AirPods Pro 2 with USB-C, $200 off 15&quot; MacBook Air, $44 off Kate Spade Apple Watch Band, more](https://appleinsider.com/articles/23/09/17/daily-deals-sept-17-50-off-airpods-pro-2-with-usb-c-200-off-15-macbook-air-44-off-kate-spade-apple-watch-band-more?utm_medium=rss)
- - [iPhone 15 Pro vs. iPhone 15 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-15-pro-max----specs-price-and-features-compared?utm_medium=rss)
- - [How Spotify and other streaming services have transformed the sound of music: songs are shorter, albums are longer, and artists collaborate more across genres &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230917/p4#a230917p4)
- - [Should you buy Apple Watch Series 9 or wait for the Watch X?](https://www.androidauthority.com/apple-watch-series-9-vs-watch-x-3364486/)<!-- TECH:END -->
+ - [Glowforge Aura Review: A Delightful Sandbox of Potential Crafting Fun     - CNET](https://www.cnet.com/tech/computing/glowforge-aura-review/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Real Madrid vs. Real Sociedad From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-madrid-vs-real-sociedad-from-anywhere/#ftag=CAD590a51e)
+ - [Daily deals Sept. 17: $50 off AirPods Pro 2 with USB-C, $200 off 15&quot; MacBook Air, $44 off Kate Spade Apple Watch Band, more](https://appleinsider.com/articles/23/09/17/daily-deals-sept-17-50-off-airpods-pro-2-with-usb-c-200-off-15-macbook-air-44-off-kate-spade-apple-watch-band-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

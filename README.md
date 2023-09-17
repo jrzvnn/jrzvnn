@@ -164,8 +164,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
  - 😝 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
- - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
  - 💣 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
  - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
  - 👉 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)<!-- MEMES:END -->

@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
- - 😝 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 💣 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 💣 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
  - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---

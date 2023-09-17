@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell XPS 17 9730 Review: Big, Fast but No OLED Option     - CNET](https://www.cnet.com/tech/computing/dell-xps-17-9730-review-big-fast-but-no-oled-option/#ftag=CAD590a51e)
+ - [Premier League Soccer Livestream: How to Watch Bournemouth vs. Chelsea From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-bournemouth-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
+ - [iOS 17 Arrives Tomorrow. Here&#39;s What You Can Expect     - CNET](https://www.cnet.com/tech/mobile/ios-17-arrives-tomorrow-heres-what-you-can-expect/#ftag=CAD590a51e)
  - [ChatGPT Isn&#39;t Coming for Your Coding Job](https://www.wired.com/story/chatgpt-coding-software-crisis/)
- - [How to Make Sure Important Emails Don’t End Up in Spam](https://www.wired.com/story/how-to-make-sure-important-emails-not-in-spam/)
- - [The Weird Link Between Donald Trump’s Georgia Indictment and the Rapper Young Thug](https://www.wired.com/story/trump-rico-georgia-young-thug-gunna/)
- - [The Best Video Game Deals &lpar;September 2023&rpar;: Xbox, PC, Switch, PlayStation](https://www.wired.com/story/best-video-game-deals/)
- - [A look at the proliferation of pirated movies and TV shows on TikTok, posted as small clips by accounts that don&#39;t appear to make any money from the content &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/230917/p2#a230917p2)<!-- TECH:END -->
+ - [How to Make Sure Important Emails Don’t End Up in Spam](https://www.wired.com/story/how-to-make-sure-important-emails-not-in-spam/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

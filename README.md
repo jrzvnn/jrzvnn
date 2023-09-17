@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t that be great..?](http://9gag.com/gag/aNw8xW6)
- - 😝 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)
- - 💣 [Nice Kitty](http://9gag.com/gag/a8qQP6O)
- - 😝 [Florida,USA](http://9gag.com/gag/aeQyvdB)
+ - 😝 [Sometimes even watches can be great wingmen](http://9gag.com/gag/anz0YA0)
+ - 😝 [If the AFFIRMATIVE ACTION&#39;s actually WENT to school and learned to read and write, they might have been able to read the STATISTICS about themselves !.](http://9gag.com/gag/aeQqNP5)
+ - 💣 [Bro didn&#39;t waste a single drop](http://9gag.com/gag/amAONXV)
+ - 😝 [The immigration system is extremely flawed!](http://9gag.com/gag/aoKGzW0)
  - 👉 [Cool story bro](http://9gag.com/gag/a2KAN4D)<!-- MEMES:END -->
 
 ---

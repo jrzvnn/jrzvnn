@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [N. Korea-linked Lazarus Group stole ~$240M in crypto in the past 104 days, as it ramps up hacks and shifts focus from decentralized services to centralized ones &lpar;Elliptic&rpar;](http://www.techmeme.com/230916/p10#a230916p10)
  - [New malware strain stealing business data from Intel Macs](https://appleinsider.com/articles/23/09/16/macos-metastealer-attacks-go-after-business-user-data?utm_medium=rss)
  - [TikTok&#39;s US staff complain about a new internal app to track office attendance; TikTok requires most staff to be in the office three times a week from October &lpar;New York Times&rpar;](http://www.techmeme.com/230916/p9#a230916p9)
  - [TikTok will fund Black Friday deals to take on Amazon](https://www.theverge.com/2023/9/16/23876501/tiktok-black-friday-deals-subsidized-amazon-walmart)
- - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)
- - [Apple TV+ first look deals suspended as Hollywood strikes continue](https://appleinsider.com/articles/23/09/16/apple-tv-first-look-deals-suspended-as-strikes-continue?utm_medium=rss)<!-- TECH:END -->
+ - [Destiny 2 has one of the worst bugs in its history that’s melting bosses and PvP players](https://www.theverge.com/2023/9/15/23875637/destiny-2-crafted-weapon-bug-glitch-exploit-pvp-trials-of-osiris)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A little bit, maybe a LOT !](http://9gag.com/gag/abvLq6X)
- - 😝 [Twins](http://9gag.com/gag/aRE86Bq)
- - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)
- - 👉 [Nice Kitty](http://9gag.com/gag/a8qQP6O)<!-- MEMES:END -->
+ - 😝 [So much eye candy](http://9gag.com/gag/avQ4b4q)
+ - 💣 [So you had a bad day](http://9gag.com/gag/aGE63n6)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 👉 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)<!-- MEMES:END -->
 
 ---
 

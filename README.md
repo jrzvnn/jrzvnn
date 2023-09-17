@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So, no school tomorrow?](http://9gag.com/gag/a5XvLpE)
- - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
- - 💣 [Twins](http://9gag.com/gag/aRE86Bq)
- - 😝 [So you had a bad day](http://9gag.com/gag/aGE63n6)
- - 👉 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)<!-- MEMES:END -->
+ - 😝 [That terrible](http://9gag.com/gag/aBdbR0A)
+ - 😝 [You think they&#39;ll file a lawsuit after this stunt?](http://9gag.com/gag/amAKDyy)
+ - 💣 [The curse was broken years ago.](http://9gag.com/gag/ajV3QRG)
+ - 😝 [1991 - World sees face morphing VFX for the first time.. in a music video](http://9gag.com/gag/a8qvbqQ)
+ - 👉 [MFers with bullshit articles.](http://9gag.com/gag/aVb9j2n)<!-- MEMES:END -->
 
 ---
 

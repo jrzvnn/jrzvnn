@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the proliferation of pirated movies and TV shows on TikTok, posted as small clips by accounts that don&#39;t appear to make any money from the content &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/230917/p2#a230917p2)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Singapore GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)
- - [One year after Ethereum&#39;s Merge, developers approve a change to slow down staking, which has emerged as one of a few reliable ways to earn returns in crypto &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230917/p1#a230917p1)
- - [Starfield: Xbox Game Pass, Mods and Everything Else You Should Know     - CNET](https://www.cnet.com/tech/gaming/starfield-xbox-game-pass-mods-and-everything-else-you-should-know/#ftag=CAD590a51e)
- - [N. Korea-linked Lazarus Group stole ~$240M in crypto in the past 104 days, as it ramps up hacks and shifts focus from decentralized services to centralized ones &lpar;Elliptic&rpar;](http://www.techmeme.com/230916/p10#a230916p10)<!-- TECH:END -->
+ - [ChatGPT Isn&#39;t Coming for Your Coding Job](https://www.wired.com/story/chatgpt-coding-software-crisis/)
+ - [How to Make Sure Important Emails Don’t End Up in Spam](https://www.wired.com/story/how-to-make-sure-important-emails-not-in-spam/)
+ - [The Weird Link Between Donald Trump’s Georgia Indictment and the Rapper Young Thug](https://www.wired.com/story/trump-rico-georgia-young-thug-gunna/)
+ - [The Best Video Game Deals &lpar;September 2023&rpar;: Xbox, PC, Switch, PlayStation](https://www.wired.com/story/best-video-game-deals/)
+ - [A look at the proliferation of pirated movies and TV shows on TikTok, posted as small clips by accounts that don&#39;t appear to make any money from the content &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/230917/p2#a230917p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

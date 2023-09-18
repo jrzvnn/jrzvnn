@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 😝 [Well done 9gag!](http://9gag.com/gag/a8qv44V)
- - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
+ - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 💣 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
 
 ---
 

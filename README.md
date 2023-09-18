@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
  - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 😝 [Shawty restless](http://9gag.com/gag/aeQq0rO)
- - 💣 [In The Top Ten For Sure](http://9gag.com/gag/aeQq0dv)
- - 😝 [Wifu Material](http://9gag.com/gag/anz0Kbq)
- - 👉 [Guys listen...!](http://9gag.com/gag/aqeV21v)<!-- MEMES:END -->
+ - 💣 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 👉 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)<!-- MEMES:END -->
 
 ---
 

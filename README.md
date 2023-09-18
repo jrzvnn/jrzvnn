@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPhone camera features and limitations detailed by Apple executives](https://appleinsider.com/articles/23/09/18/new-iphone-camera-features-and-limitations-detailed-by-apple-executives?utm_medium=rss)
+ - [Agility Robotics is opening a Salem, Oregon factory to mass produce up to 10K humanoid Digit robots per year, designed to be warehouse and factory &quot;co-workers&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230918/p28#a230918p28)
+ - [The cast of Baldur’s Gate 3 is doing a D&amp;D one-shot as their in-game characters](https://www.theverge.com/2023/9/18/23879408/baldurs-gate-3-cast-dnd-high-rollers-one-shot)
  - [TMNT: Mutant Mayhem starts streaming on Paramount Plus on September 19th](https://www.theverge.com/2023/9/18/23879336/teenage-mutant-ninja-turtles-mutant-mayhem-streaming-paramount-plus-release)
- - [Nintendo Switch 2 will be as powerful as a PlayStation 4, per court documents](https://www.androidauthority.com/nintendo-switch-2-power-3365545/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Google and the US DoD reveal an AI-powered Augmented Reality Microscope, in the works for years, that may help doctors diagnose cancer and cost $90K to $100K &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230918/p27#a230918p27)
- - [The Dark Economics of Russell Brand](https://www.wired.com/story/dark-economics-russell-brand/)<!-- TECH:END -->
+ - [Nintendo Switch 2 will be as powerful as a PlayStation 4, per court documents](https://www.androidauthority.com/nintendo-switch-2-power-3365545/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

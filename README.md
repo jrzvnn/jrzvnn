@@ -164,8 +164,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
  - 💣 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
  - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
  - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->

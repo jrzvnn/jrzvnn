@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 😝 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 😝 [Wifu Material](http://9gag.com/gag/anz0Kbq)
- - 👉 [Guys listen...!](http://9gag.com/gag/aqeV21v)<!-- MEMES:END -->
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
+ - 💣 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
+ - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
 
 ---
 

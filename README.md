@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instacart prices its 22M shares at $30 a piece, giving the company a fully diluted valuation of ~$10B; Instacart was valued at $39B in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230918/p32#a230918p32)
+ - [The best Apple Watch Series 9 bands](https://www.androidauthority.com/apple-watch-series-9-bands-3364397/)
  - [A judge grants NetChoice&#39;s request to block the California Age-Appropriate Design Code, saying the online child safety law likely violates the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230918/p31#a230918p31)
  - [Netflix ends a three-year legal dispute over Squid Game traffic](https://www.theverge.com/2023/9/18/23879475/netflix-squid-game-sk-broadband-partnership)
- - [What’s next for Windows and Surface without Panos Panay?](https://www.theverge.com/2023/9/18/23878759/microsoft-windows-panos-panay-surface-yusuf-mehdi)
- - [Court blocks California’s online child safety law](https://www.theverge.com/2023/9/18/23879489/california-age-appropriate-design-code-act-blocked-unconstitutional-first-amendment-injunction)
- - [In a livestream, Elon Musk says X is moving toward a &quot;small&quot; monthly subscription for all users, as it&#39;s the &quot;only way&quot; to combat &quot;vast armies of bots&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230918/p30#a230918p30)<!-- TECH:END -->
+ - [What’s next for Windows and Surface without Panos Panay?](https://www.theverge.com/2023/9/18/23878759/microsoft-windows-panos-panay-surface-yusuf-mehdi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

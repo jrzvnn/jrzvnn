@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is planning to stream PC cloud games, internal emails reveal](https://www.theverge.com/2023/9/18/23878376/microsoft-xbox-cloud-gaming-pc-games-streaming-ftc-documents)
- - [AI writing startup Writer, used by L&#39;Or&amp;eacute;al, Spotify, and Uber to create digital marketing campaigns, raised $100M led by Iconiq Growth at a $500M+ valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230918/p9#a230918p9)
- - [The UK CMA outlines seven principles for regulating AI foundation models and plans to speak to Meta, Google, OpenAI, Nvidia, and others before a report in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230918/p8#a230918p8)
- - [Xiaomi Mix Fold 3 Review: The Slimmest Folding Phone Yet](https://www.wired.com/review/xiaomi-mix-fold-3/)
- - [The US should not push to regulate most aspects of AI, letting the tech mature for positive uses, to avoid favoring incumbents and forcing the industry overseas &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230918/p7#a230918p7)<!-- TECH:END -->
+ - [iPhone 15 ships soon, iOS 17, MagSafe accessories on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/18/iphone-15-ships-soon-ios-17-magsafe-accessories-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Analysis: Arm&#39;s $5B IPO generated $84M in fees for services firms including Deloitte, the most a company spent on fees since Axa in 2018 and over 7x the average &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/230918/p10#a230918p10)
+ - [Amazon’s fall Prime Day sale is happening October 10th and 11th](https://www.theverge.com/2023/9/18/23878420/amazon-october-prime-day-big-deal-days-fall-dates)
+ - [This is how Microsoft reacted to Sony’s PS5 announcement and price hike](https://www.theverge.com/2023/9/18/23878386/microsoft-sony-ps5-playstation-reaction-price-increase-internal-emails)
+ - [Microsoft is planning to stream PC cloud games, internal emails reveal](https://www.theverge.com/2023/9/18/23878376/microsoft-xbox-cloud-gaming-pc-games-streaming-ftc-documents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

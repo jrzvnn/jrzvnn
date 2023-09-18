@@ -155,7 +155,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Square CEO Alyssa Henry plans to step down on October 2, after working at the company for over nine years; Jack Dorsey will take over the role &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)
+ - [Filing: Square CEO Alyssa Henry plans to step down on October 2, after working at the company for over nine years; Jack Dorsey will become the &quot;Square Head&quot; &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)
  - [Instacart prices its 22M shares at $30 a piece, giving the company a fully diluted valuation of ~$10B; Instacart was valued at $39B in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230918/p32#a230918p32)
  - [The best Apple Watch Series 9 bands](https://www.androidauthority.com/apple-watch-series-9-bands-3364397/)
  - [A judge grants NetChoice&#39;s request to block the California Age-Appropriate Design Code Act, as the online child safety law likely violates the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230918/p31#a230918p31)

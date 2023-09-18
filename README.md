@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)
+ - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
  - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 💣 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
+ - 💣 [Wifu Material](http://9gag.com/gag/anz0Kbq)
+ - 😝 [Didn&#39;t it used to be innocent until proven guilty?](http://9gag.com/gag/aKEXBY6)
+ - 👉 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)<!-- MEMES:END -->
 
 ---
 

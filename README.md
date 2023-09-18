@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The barking noise got me](http://9gag.com/gag/aBdbrVD)
- - 😝 [FEMINIST vs JORDAN PETERSON](http://9gag.com/gag/aDYqojN)
- - 💣 [Henry Cavill wants to star in a movie adaptation of Red Dead Redemption](http://9gag.com/gag/aeQq0yv)
- - 😝 [Life was back then](http://9gag.com/gag/aEqjnvM)
- - 👉 [Many such cases!](http://9gag.com/gag/aPgVWRn)<!-- MEMES:END -->
+ - 😝 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
+ - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 💣 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 

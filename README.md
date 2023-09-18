@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Pad Go design and launch window revealed](https://www.androidauthority.com/oneplus-pad-go-design-launch-window-3364666/)
  - [Prosus and Naspers CEO Bob van Dijk steps down, will remain as a consultant to the companies for a year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230918/p2#a230918p2)
  - [Apple promises to fix iPhone 12 radiation levels with software update](https://www.androidauthority.com/apple-iphone-12-france-radiation-software-update-3365191/)
  - [Bigger iPhones, redesigned watches, new Macs — Apple’s 2024 plans revealed](https://www.androidauthority.com/apple-2024-iphone-16-apple-watch-x-m3-macbook-3365178/)
- - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct by June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)
- - [Best Small Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct by June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

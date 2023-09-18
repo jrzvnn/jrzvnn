@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - 💣 [So f*cked](http://9gag.com/gag/amAON04)
- - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
- - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - 😝 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
+ - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [Wifu Material](http://9gag.com/gag/anz0Kbq)
+ - 👉 [Guys listen...!](http://9gag.com/gag/aqeV21v)<!-- MEMES:END -->
 
 ---
 

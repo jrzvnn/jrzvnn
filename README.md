@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 😝 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 😝 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
  - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
  - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
+ - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
 
 ---
 

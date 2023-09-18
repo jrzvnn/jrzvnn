@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 😝 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
- - 💣 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
- - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
+ - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 💣 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
 
 ---
 

@@ -155,7 +155,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android TV 14: Release date, features, and compatibility](https://www.androidauthority.com/android-tv-14-features-3362883/)
+ - [Panos Panay, Godfather of the Surface, Leaves Microsoft     - CNET](https://www.cnet.com/tech/services-and-software/panos-panay-godfather-of-the-surface-leaves-microsoft/#ftag=CAD590a51e)
  - [Microsoft Paint gets support for layers and image transparency, 38 years after its launch, rolling out to Windows Insiders first &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230918/p24#a230918p24)
  - [The cheaper $600 Asus ROG Ally is here, and you probably shouldn’t buy it](https://www.theverge.com/2023/9/18/23879024/asus-rog-ally-600-z1-gaming-handheld-steam-deck)
  - [Protesters take over NYC streets to tell Joe Biden to ‘end fossil fuels’](https://www.theverge.com/2023/9/18/23875180/protest-march-climate-change-end-fossil-fuels-new-york-city-joe-biden)

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 😝 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)
- - 💣 [Help me](http://9gag.com/gag/a8qvjK6)
+ - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 😝 [Hard fall](http://9gag.com/gag/a1P8eMw)
+ - 💣 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
  - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
+ - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
 
 ---
 

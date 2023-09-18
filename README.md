@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto custody startup Bastion, co-founded by two ex-a16z executives, raised a $25M seed led by a16z crypto to expand its tools for traditional companies &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/230918/p17#a230918p17)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [iPhone 15 Pro back glass is hugely cheaper to repair than iPhone 14 Pro](https://appleinsider.com/articles/23/09/18/iphone-15-pro-back-glass-is-hugely-cheaper-to-repair-than-iphone-14-pro?utm_medium=rss)
- - [Galaxy S23 FE leak delivers 360 degree view of Samsung’s upcoming phone](https://www.androidauthority.com/galaxy-s23-fe-render-3365332/)
- - [Researchers find a GitHub repository belonging to Microsoft&#39;s AI research unit that exposed 38TB of sensitive data, including secret keys and Teams chat logs &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230918/p16#a230918p16)<!-- TECH:END -->
+ - [Daily deals Sept. 18: 30% off Fitbit Sense, Apple Magic Keyboard $70, iPhone 13, 13 Pro, &amp; 13 Pro Max Models from $520, more](https://appleinsider.com/articles/23/09/18/daily-deals-sept-18-30-off-fitbit-sense-apple-magic-keyboard-70-iphone-13-13-pro-13-pro-max-models-from-520-more?utm_medium=rss)
+ - [Plex: The World’s Most Comprehensive Entertainment Platform](https://www.androidauthority.com/plex-the-worlds-most-comprehensive-entertainment-platform-3361392/)
+ - [Google might kill video calls on its video calling machine](https://www.androidauthority.com/google-nest-hub-max-video-calls-3365337/)
+ - [The Steve Jobs Archive is helping nine people follow in the man’s footsteps](https://www.theverge.com/2023/9/18/23878397/steve-jobs-archive-fellowship-apple-financial-assistance-program)
+ - [Crypto custody startup Bastion, co-founded by two ex-a16z executives, raised a $25M seed led by a16z crypto to expand its tools for traditional companies &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/230918/p17#a230918p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

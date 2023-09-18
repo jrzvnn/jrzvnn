@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - 😝 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
- - 💣 [WTF?!](http://9gag.com/gag/ap9nL1n)
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 👉 [Many such cases!](http://9gag.com/gag/aPgVWRn)<!-- MEMES:END -->
+ - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 😝 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
+ - 💣 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
+ - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 👉 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)<!-- MEMES:END -->
 
 ---
 

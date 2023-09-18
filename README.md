@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look around MGM&#39;s Vegas properties, where a September 10 cyberattack has led to broken slot machines and payment kiosks, strained employees, and long waits &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230918/p26#a230918p26)
+ - [Meta is shutting down three Oculus games without explanation](https://www.theverge.com/2023/9/18/23879252/meta-shut-down-dead-buried-bogo-oculus-games)
+ - [Panos Panay suddenly exits Microsoft &lpar;Update: Could be headed to Amazon&rpar;](https://www.androidauthority.com/panos-panay-microsoft-3365351/)
  - [Microsoft Paint is finally adding some of Photoshop’s best features](https://www.theverge.com/2023/9/18/23879221/microsoft-paint-testing-layers-transparency-photoshop-features)
- - [The smaller iPhone 16 Pro might get Apple’s new ‘tetraprism’ zoom lens](https://www.theverge.com/2023/9/18/23879170/apple-iphone-16-pro-max-tetraprism-zoom-lens-telephoto)
- - [Virtual tickets to the Code Conference are now on sale](https://www.theverge.com/23879011/code-conference-2023-virtual-tickets)
- - [How to tag pets in Photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-tag-your-pets-in-the-photos-app-in-ios-17?utm_medium=rss)
- - [Unity plans to change its disastrous new pricing program](https://www.theverge.com/2023/9/18/23879029/unity-pricing-model-change)<!-- TECH:END -->
+ - [The smaller iPhone 16 Pro might get Apple’s new ‘tetraprism’ zoom lens](https://www.theverge.com/2023/9/18/23879170/apple-iphone-16-pro-max-tetraprism-zoom-lens-telephoto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

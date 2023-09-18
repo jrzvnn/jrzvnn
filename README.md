@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get $500 in credit when you preorder Samsung’s 57-inch Odyssey Neo G9 gaming monitor](https://www.theverge.com/2023/9/18/23878636/samsung-57-inch-odyssey-neo-g9-gaming-monitor-preorder-buy-price-release-date)
- - [Garmin vivoactive 5 could have this big improvement over last generation](https://www.androidauthority.com/garmin-vivoactive-5-specs-leak-3365344/)
- - [UK antitrust regulator lays out seven AI principles](https://www.theverge.com/2023/9/18/23878784/uk-anti-trust-regulator-ai-principles)
- - [iOS 17 is now rolling out to users, with Contact Posters, NameDrop, and more!](https://www.androidauthority.com/ios-17-stable-release-rollout-3365274/)
- - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)<!-- TECH:END -->
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [Music industry revenue hits all-time high](https://www.theverge.com/2023/9/18/23878916/riaa-music-industry-revenue-all-time-high-first-half-2023)
+ - [Apple’s widget-heavy watchOS 10 is available to download](https://www.theverge.com/2023/9/18/23878532/apple-watchos-10-available-series-9)
+ - [iOS 17 and iPadOS 17 are now available](https://www.theverge.com/2023/9/18/23875703/apple-ios-17-ipados-17-now-available-iphone-ipad)
+ - [Apple rolls out watchOS 10 for Apple Watch with new faces, health features](https://appleinsider.com/articles/23/09/18/apple-rolls-out-watchos-10-for-apple-watch-with-new-faces-health-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

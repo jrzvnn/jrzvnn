@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: external code contributions to the Android Open Source Project will need at least two Google reviewers&#39; approval starting next month &lpar;Patreon&rpar;](http://www.techmeme.com/230918/p22#a230918p22)
- - [Explore the Ancient Aztec Capital in This Lifelike 3D Rendering](https://www.wired.com/story/explore-tenochtitlan-ancient-aztec-capital-3d-render-thomas-kole/)
- - [At an all-hands, Unity discusses potential changes to its new controversial fees, like capping fees to 4% of a game&#39;s revenue for customers with $1M+ revenue &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230918/p21#a230918p21)
- - [The best Apple iPhone 15 cases you can buy](https://www.androidauthority.com/best-apple-iphone-15-cases-3365234/)
- - [Review of iOS and iPadOS 17: a bigger bet on widgets and the modularization of apps, nice tweaks to Stage Manager, but visionOS stole the spotlight this year &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/230918/p20#a230918p20)<!-- TECH:END -->
+ - [Microsoft Paint gets support for layers and image transparency, 38 years after its launch, rolling out to Windows Insiders first &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230918/p24#a230918p24)
+ - [The cheaper $600 Asus ROG Ally is here, and you probably shouldn’t buy it](https://www.theverge.com/2023/9/18/23879024/asus-rog-ally-600-z1-gaming-handheld-steam-deck)
+ - [Protesters take over NYC streets to tell Joe Biden to ‘end fossil fuels’](https://www.theverge.com/2023/9/18/23875180/protest-march-climate-change-end-fossil-fuels-new-york-city-joe-biden)
+ - [Spotify speaks out against Apple&#39;s 30% commission fee -- again](https://appleinsider.com/articles/23/09/18/spotify-speaks-out-against-apples-30-commission-fee----again?utm_medium=rss)
+ - [All the big tech events coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel details its work on glass core substrates, a longterm project to replace organic substrates in chips, and plans a launch in the second half of the decade &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230918/p12#a230918p12)
- - [We tried to make a hit song with only AI tools — and it got messy](https://www.theverge.com/23878445/ai-music-tools-magenta-suno-chatgpt-vergecast)
- - [The Elder Scrolls VI will skip PS5 and isn’t coming until at least 2026](https://www.theverge.com/2023/9/18/23878504/the-elder-scrolls-6-2026-release-xbox-exclusive)
- - [Steep discounts: save up to $400 on Apple&#39;s latest MacBooks](https://appleinsider.com/articles/23/08/18/steep-discounts-save-up-to-400-on-apples-latest-macbooks?utm_medium=rss)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
+ - [T2, a rival to X launched after Elon Musk&#39;s takeover, rebrands as Pebble with a new logo and says T2 was never meant to be its permanent name &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230918/p13#a230918p13)
+ - [Updated AirPods Pro bring USB-C and the promise of a Vision Pro future](https://appleinsider.com/articles/23/09/18/updated-airpods-pro-bring-usb-c-and-the-promise-of-a-vision-pro-future?utm_medium=rss)
+ - [Apple Vision Pro on track for early 2024 release says Tim Cook](https://appleinsider.com/articles/23/09/18/apple-vision-pro-on-track-for-early-2024-release-says-tim-cook?utm_medium=rss)
+ - [40 Best Couch Co-Op Games &lpar;2023&rpar;: PS4/5, Xbox, PC, Switch](https://www.wired.com/gallery/best-local-couch-co-op-games/)
+ - [Carrot will report the weather in your own voice on iOS 17](https://www.theverge.com/2023/9/18/23878349/carrot-weather-app-ios-17-watchos-10-personal-voice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

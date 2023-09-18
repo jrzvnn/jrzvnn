@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel details its work on glass core substrates, a longterm project to replace organic substrates in chips, and plans a launch in the second half of the decade &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/230918/p12#a230918p12)
+ - [We tried to make a hit song with only AI tools — and it got messy](https://www.theverge.com/23878445/ai-music-tools-magenta-suno-chatgpt-vergecast)
+ - [The Elder Scrolls VI will skip PS5 and isn’t coming until at least 2026](https://www.theverge.com/2023/9/18/23878504/the-elder-scrolls-6-2026-release-xbox-exclusive)
  - [Steep discounts: save up to $400 on Apple&#39;s latest MacBooks](https://appleinsider.com/articles/23/08/18/steep-discounts-save-up-to-400-on-apples-latest-macbooks?utm_medium=rss)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
- - [Apple made it way cheaper to repair an iPhone 15 Pro’s broken back glass](https://www.theverge.com/2023/9/18/23878447/iphone-15-back-glass-repair-price-apple)
- - [Apple&#39;s new AirPods Pro with USB-C add dust resistance but little else; an AirPods Pro software update alongside iOS 17 adds the useful Adaptive Audio and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230918/p11#a230918p11)
- - [Best Buy Knocks $49 Off the New AirPods Pro 2 With USB-C     - CNET](https://www.cnet.com/deals/best-buy-knocks-49-off-the-new-airpods-pro-2-with-usb-c/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

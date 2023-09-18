@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon is hiring Microsoft&#39;s former Chief Product Officer Panos Panay to run the division responsible for Alexa and the Echo smart speakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230918/p19#a230918p19)
  - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
  - [Music industry revenue hits all-time high](https://www.theverge.com/2023/9/18/23878916/riaa-music-industry-revenue-all-time-high-first-half-2023)
- - [Apple’s widget-heavy watchOS 10 is available to download](https://www.theverge.com/2023/9/18/23878532/apple-watchos-10-available-series-9)
- - [iOS 17 and iPadOS 17 are now available](https://www.theverge.com/2023/9/18/23875703/apple-ios-17-ipados-17-now-available-iphone-ipad)
- - [Apple rolls out watchOS 10 for Apple Watch with new faces, health features](https://appleinsider.com/articles/23/09/18/apple-rolls-out-watchos-10-for-apple-watch-with-new-faces-health-features?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s widget-heavy watchOS 10 is available to download](https://www.theverge.com/2023/9/18/23878532/apple-watchos-10-available-series-9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

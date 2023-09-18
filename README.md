@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s new AirPods Pro with USB-C charging case is already $50 off on a preorder](https://www.theverge.com/2023/9/18/23878472/apple-airpods-pro-usbc-anker-magsafe-charger-cube-samsung-deal-sale)
+ - [iPhone 15 Pro Max demand outselling supply, says Goldman Sachs](https://appleinsider.com/articles/23/09/18/iphone-15-pro-max-demand-outselling-supply-says-goldman-sachs?utm_medium=rss)
  - [Lyft to pay a $10M fine over US SEC claims that it failed to disclose a board director was paid millions to arrange a pre-IPO sale of $424M in private shares &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230918/p18#a230918p18)
- - [How to install iOS 17 on your iPhone](https://www.theverge.com/23878612/ios-17-iphone-install-update-how-to)
- - [Loki’s second season will debut a day early](https://www.theverge.com/2023/9/18/23878714/loki-second-season-premiere-date-disney-plus)
- - [Good Burger 2 premieres on Paramount Plus on November 22nd](https://www.theverge.com/23878603/good-burger-2-paramount-plus-release-date-premiere)
- - [Daily deals Sept. 18: 30% off Fitbit Sense, Apple Magic Keyboard $70, iPhone 13, 13 Pro &amp; 13 Pro Max Models from $520, more](https://appleinsider.com/articles/23/09/18/daily-deals-sept-18-30-off-fitbit-sense-apple-magic-keyboard-70-iphone-13-13-pro-13-pro-max-models-from-520-more?utm_medium=rss)<!-- TECH:END -->
+ - [Windows/Surface lead Panos Panay suddenly exit Microsoft days before major event](https://www.androidauthority.com/panos-panay-microsoft-3365351/)
+ - [How to install iOS 17 on your iPhone](https://www.theverge.com/23878612/ios-17-iphone-install-update-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

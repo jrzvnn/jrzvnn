@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
  - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
+ - 😝 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
+ - 💣 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
 
 ---
 

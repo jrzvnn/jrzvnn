@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
- - 😝 [Holy grail](http://9gag.com/gag/aoKGEYA)
- - 💣 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
+ - 😝 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
  - 😝 [What position were they in?](http://9gag.com/gag/aKEXwGj)
- - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 💣 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
 
 ---
 

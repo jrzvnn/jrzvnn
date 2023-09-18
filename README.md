@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple made it way cheaper to repair an iPhone 15 Pro’s broken back glass](https://www.theverge.com/2023/9/18/23878447/iphone-15-back-glass-repair-price-apple)
+ - [Apple&#39;s new AirPods Pro with USB-C add dust resistance but little else; an AirPods Pro software update alongside iOS 17 adds the useful Adaptive Audio and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230918/p11#a230918p11)
+ - [Protesters take over NYC streets to tell Joe Biden to ‘end fossil fuels’](https://www.theverge.com/2023/9/18/23875180/protest-march-climate-change-end-fossil-fuels-new-york-city-joe-biden)
  - [Activision was briefed on Nintendo’s Switch 2 last year](https://www.theverge.com/2023/9/18/23878412/nintendo-switch-2-activision-briefing-next-gen-switch)
- - [Apple leapfrogged Google’s Chromecast with now playing watch notifications](https://www.androidauthority.com/apple-watch-now-playing-notification-vs-google-chromecast-3363956/)
- - [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
- - [Apple’s AirPods Pro just got much better — no matter what port is on the case](https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review)
- - [Sonos Move 2 review: a slam-dunk sequel](https://www.theverge.com/23877274/sonos-move-2-review)<!-- TECH:END -->
+ - [Apple leapfrogged Google’s Chromecast with now playing watch notifications](https://www.androidauthority.com/apple-watch-now-playing-notification-vs-google-chromecast-3363956/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

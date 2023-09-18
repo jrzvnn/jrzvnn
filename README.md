@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos Move 2 Review: Powerful and Punchy Portable Speaker](https://www.wired.com/review/review-sonos-move-2/)
+ - [You can get $500 in credit when you preorder Samsung’s 57-inch Odyssey Neo G9 gaming monitor](https://www.theverge.com/2023/9/18/23878636/samsung-57-inch-odyssey-neo-g9-gaming-monitor-preorder-buy-price-release-date)
  - [Garmin vivoactive 5 could have this big improvement over last generation](https://www.androidauthority.com/garmin-vivoactive-5-specs-leak-3365344/)
  - [UK antitrust regulator lays out seven AI principles](https://www.theverge.com/2023/9/18/23878784/uk-anti-trust-regulator-ai-principles)
- - [iOS 17 is now rolling out to users, with Contact Posters, NameDrop, and more!](https://www.androidauthority.com/ios-17-stable-release-rollout-3365274/)
- - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)
- - [This cozy Apple Arcade game consumed my entire weekend](https://www.theverge.com/23878638/japanese-rural-life-adventure-apple-arcade-iphone-game)<!-- TECH:END -->
+ - [iOS 17 is now rolling out to users, with Contact Posters, NameDrop, and more!](https://www.androidauthority.com/ios-17-stable-release-rollout-3365274/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

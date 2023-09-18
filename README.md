@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moment’s T-Series lenses give your smartphone’s camera superpowers](https://www.theverge.com/2023/9/18/23862233/moment-t-series-smartphone-lenses-hands-on-iphone-galaxy-pixel)
+ - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
+ - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)
  - [Apple’s new AirPods Pro with USB-C charging case is already $50 off on a preorder](https://www.theverge.com/2023/9/18/23878472/apple-airpods-pro-usbc-anker-magsafe-charger-cube-samsung-deal-sale)
- - [iPhone 15 Pro Max demand outselling supply, says Goldman Sachs](https://appleinsider.com/articles/23/09/18/iphone-15-pro-max-demand-outselling-supply-says-goldman-sachs?utm_medium=rss)
- - [Lyft to pay a $10M fine over US SEC claims that it failed to disclose a board director was paid millions to arrange a pre-IPO sale of $424M in private shares &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/230918/p18#a230918p18)
- - [Windows/Surface lead Panos Panay suddenly exit Microsoft days before major event](https://www.androidauthority.com/panos-panay-microsoft-3365351/)
- - [How to install iOS 17 on your iPhone](https://www.theverge.com/23878612/ios-17-iphone-install-update-how-to)<!-- TECH:END -->
+ - [iPhone 15 Pro Max demand outselling supply, says Goldman Sachs](https://appleinsider.com/articles/23/09/18/iphone-15-pro-max-demand-outselling-supply-says-goldman-sachs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

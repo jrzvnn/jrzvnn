@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 💣 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
  - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 

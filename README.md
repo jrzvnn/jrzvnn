@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Tim Cook on Apple&#39;s pledge to become carbon neutral by 2030, the Vision Pro, return to the office, why Apple still advertises on X, and more &lpar;John Dickerson/CBS News&rpar;](http://www.techmeme.com/230917/p6#a230917p6)
+ - [Q&amp;A with DeepMind co-founder Mustafa Suleyman on maintaining AI optimism, how &quot;interactive&quot; AI will follow the generative AI wave, AI regulation, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230917/p5#a230917p5)
  - [Grand Theft Auto V is now 10 years old](https://www.theverge.com/2023/9/17/23877777/grand-theft-auto-v-now-10-years-old)
  - [Tim Cook talks advertising on X, Vision Pro, and more in a new interview](https://www.theverge.com/2023/9/17/23877433/tim-cook-talks-advertising-on-x-vision-pro-and-more-in-a-new-interview)
- - [iPhone 15 Pro Max in high demand, but production challenges remain](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)
- - [Cook justifies Apple&#39;s advertising on X as a &#39;town square&#39; for the Internet](https://appleinsider.com/articles/23/09/17/cook-justifies-apples-advertising-on-x-as-a-town-square-for-the-internet?utm_medium=rss)
- - [Apple’s USB-C shift could bring back the MagSafe Duo and Battery Pack](https://www.theverge.com/2023/9/17/23877363/apple-usb-c-magsafe-airpods-iphone-2025)<!-- TECH:END -->
+ - [iPhone 15 Pro Max in high demand, but production challenges remain](https://appleinsider.com/articles/23/09/17/iphone-15-pro-max-in-high-demand-but-with-production-challenges?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

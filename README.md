@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lied on the CV](http://9gag.com/gag/aBdb1rZ)
  - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - 💣 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
+ - 💣 [Life was back then](http://9gag.com/gag/aEqjnvM)
+ - 😝 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
+ - 👉 [Ahh, substances as a substitute for relationships, especially with oneself.. Too bad that humans can even identify with abstractions...](http://9gag.com/gag/armDNz7)<!-- MEMES:END -->
 
 ---
 

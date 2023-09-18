@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panos Panay, Godfather of the Surface, Leaves Microsoft     - CNET](https://www.cnet.com/tech/services-and-software/panos-panay-godfather-of-the-surface-leaves-microsoft/#ftag=CAD590a51e)
- - [Microsoft Paint gets support for layers and image transparency, 38 years after its launch, rolling out to Windows Insiders first &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230918/p24#a230918p24)
- - [The cheaper $600 Asus ROG Ally is here, and you probably shouldn’t buy it](https://www.theverge.com/2023/9/18/23879024/asus-rog-ally-600-z1-gaming-handheld-steam-deck)
- - [Protesters take over NYC streets to tell Joe Biden to ‘end fossil fuels’](https://www.theverge.com/2023/9/18/23875180/protest-march-climate-change-end-fossil-fuels-new-york-city-joe-biden)
- - [Spotify speaks out against Apple&#39;s 30% commission fee -- again](https://appleinsider.com/articles/23/09/18/spotify-speaks-out-against-apples-30-commission-fee----again?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix and South Korean ISP SK Broadband end lawsuits over streaming services paying for network usage due to surging traffic, and agree to form a partnership &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/230918/p25#a230918p25)
+ - [How to install watchOS 10](https://www.theverge.com/23879092/watchos-10-install-how-to)
+ - [September 2023 Android security patch here for Pixel phones and the Pixel Tablet](https://www.androidauthority.com/september-2023-android-security-patch-3365501/)
+ - [Android TV 14: Release date, features, and compatibility](https://www.androidauthority.com/android-tv-14-features-3362883/)
+ - [Panos Panay, Godfather of the Surface, Leaves Microsoft     - CNET](https://www.cnet.com/tech/services-and-software/panos-panay-godfather-of-the-surface-leaves-microsoft/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

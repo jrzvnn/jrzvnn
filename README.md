@@ -166,9 +166,9 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
  - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
- - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
- - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
+ - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
 
 ---
 

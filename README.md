@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s next for Windows and Surface without Panos Panay?](https://www.theverge.com/2023/9/18/23878759/microsoft-windows-panos-panay-surface-yusuf-mehdi)
  - [Court blocks California’s online child safety law](https://www.theverge.com/2023/9/18/23879489/california-age-appropriate-design-code-act-blocked-unconstitutional-first-amendment-injunction)
  - [In a livestream, Elon Musk says X is moving toward a &quot;small&quot; monthly subscription for all users, as it&#39;s the &quot;only way&quot; to combat &quot;vast armies of bots&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230918/p30#a230918p30)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Citigroup debuts Citi Token Services, which turns deposits into tokens that can be sent internationally, in a push to offer institutional clients digital assets &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230918/p29#a230918p29)
- - [iPhone 16 Pro might level up its camera with this Pro Max-exclusive feature](https://www.androidauthority.com/apple-iphone-16-pro-zoom-camera-3365550/)<!-- TECH:END -->
+ - [Citigroup debuts Citi Token Services, which turns deposits into tokens that can be sent internationally, in a push to offer institutional clients digital assets &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230918/p29#a230918p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

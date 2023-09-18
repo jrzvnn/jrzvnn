@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T2, a rival to X launched after Elon Musk&#39;s takeover, rebrands as Pebble with a new logo and says T2 was never meant to be its permanent name &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230918/p13#a230918p13)
+ - [Windows leader Panos Panay is leaving Microsoft](https://www.theverge.com/2023/9/18/23878609/microsoft-windows-panos-panay-leaving)
+ - [Woman accidentally discovers swallowed AirPods are acid resistant for nine hours](https://appleinsider.com/articles/23/09/18/woman-accidentally-discovers-airpods-are-acid-resistant-for-nine-hours?utm_medium=rss)
  - [Updated AirPods Pro bring USB-C and the promise of a Vision Pro future](https://appleinsider.com/articles/23/09/18/updated-airpods-pro-bring-usb-c-and-the-promise-of-a-vision-pro-future?utm_medium=rss)
- - [Apple Vision Pro on track for early 2024 release says Tim Cook](https://appleinsider.com/articles/23/09/18/apple-vision-pro-on-track-for-early-2024-release-says-tim-cook?utm_medium=rss)
- - [40 Best Couch Co-Op Games &lpar;2023&rpar;: PS4/5, Xbox, PC, Switch](https://www.wired.com/gallery/best-local-couch-co-op-games/)
- - [Carrot will report the weather in your own voice on iOS 17](https://www.theverge.com/2023/9/18/23878349/carrot-weather-app-ios-17-watchos-10-personal-voice)<!-- TECH:END -->
+ - [The cable bundle of the future is officially here](https://www.theverge.com/23868355/disney-charter-bundle-espn-abc-broadcast)
+ - [Uh-oh: The Pixel 9 could have the same GPU as the Pixel 8](https://www.androidauthority.com/google-pixel-9-tensor-g4-gpu-3365319/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

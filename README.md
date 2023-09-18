@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lied on the CV](http://9gag.com/gag/aBdb1rZ)
- - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 💣 [Life was back then](http://9gag.com/gag/aEqjnvM)
- - 😝 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
- - 👉 [Ahh, substances as a substitute for relationships, especially with oneself.. Too bad that humans can even identify with abstractions...](http://9gag.com/gag/armDNz7)<!-- MEMES:END -->
+ - 😝 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
+ - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 💣 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 

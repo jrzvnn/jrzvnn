@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 💣 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
  - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 💣 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
  - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---

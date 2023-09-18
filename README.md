@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: external code contributions to the Android Open Source Project will need at least two Google reviewers&#39; approval starting next month &lpar;Patreon&rpar;](http://www.techmeme.com/230918/p22#a230918p22)
+ - [Explore the Ancient Aztec Capital in This Lifelike 3D Rendering](https://www.wired.com/story/explore-tenochtitlan-ancient-aztec-capital-3d-render-thomas-kole/)
  - [At an all-hands, Unity discusses potential changes to its new controversial fees, like capping fees to 4% of a game&#39;s revenue for customers with $1M+ revenue &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230918/p21#a230918p21)
  - [The best Apple iPhone 15 cases you can buy](https://www.androidauthority.com/best-apple-iphone-15-cases-3365234/)
- - [Review of iOS and iPadOS 17: a bigger bet on widgets and the modularization of apps, nice tweaks to Stage Manager, but visionOS stole the spotlight this year &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/230918/p20#a230918p20)
- - [Microsoft’s former Surface chief Panos Panay is reportedly heading to Amazon](https://www.theverge.com/2023/9/18/23879036/microsoft-panos-panay-amazon-hire-former-surface-windows-chief)
- - [Microsoft Office for Mac or Windows drops to only $34.97 with these limited time deals](https://appleinsider.com/articles/23/09/18/microsoft-office-for-mac-or-windows-drops-to-only-3497-with-these-limited-time-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Review of iOS and iPadOS 17: a bigger bet on widgets and the modularization of apps, nice tweaks to Stage Manager, but visionOS stole the spotlight this year &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/230918/p20#a230918p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

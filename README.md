@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 ships soon, iOS 17, MagSafe accessories on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/18/iphone-15-ships-soon-ios-17-magsafe-accessories-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Analysis: Arm&#39;s $5B IPO generated $84M in fees for services firms including Deloitte, the most a company spent on fees since Axa in 2018 and over 7x the average &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/230918/p10#a230918p10)
- - [Amazon’s fall Prime Day sale is happening October 10th and 11th](https://www.theverge.com/2023/9/18/23878420/amazon-october-prime-day-big-deal-days-fall-dates)
- - [This is how Microsoft reacted to Sony’s PS5 announcement and price hike](https://www.theverge.com/2023/9/18/23878386/microsoft-sony-ps5-playstation-reaction-price-increase-internal-emails)
- - [Microsoft is planning to stream PC cloud games, internal emails reveal](https://www.theverge.com/2023/9/18/23878376/microsoft-xbox-cloud-gaming-pc-games-streaming-ftc-documents)<!-- TECH:END -->
+ - [Activision was briefed on Nintendo’s Switch 2 last year](https://www.theverge.com/2023/9/18/23878412/nintendo-switch-2-activision-briefing-next-gen-switch)
+ - [Apple leapfrogged Google’s Chromecast with now playing watch notifications](https://www.androidauthority.com/apple-watch-now-playing-notification-vs-google-chromecast-3363956/)
+ - [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
+ - [Apple’s AirPods Pro just got much better — no matter what port is on the case](https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review)
+ - [Sonos Move 2 review: a slam-dunk sequel](https://www.theverge.com/23877274/sonos-move-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

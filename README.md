@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TMNT: Mutant Mayhem starts streaming on Paramount Plus on September 19th](https://www.theverge.com/2023/9/18/23879336/teenage-mutant-ninja-turtles-mutant-mayhem-streaming-paramount-plus-release)
  - [Nintendo Switch 2 will be as powerful as a PlayStation 4, per court documents](https://www.androidauthority.com/nintendo-switch-2-power-3365545/)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Google and the US DoD reveal an AI-powered Augmented Reality Microscope, in the works for years, that may help doctors diagnose cancer and cost $90K to $100K &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230918/p27#a230918p27)
- - [The Dark Economics of Russell Brand](https://www.wired.com/story/dark-economics-russell-brand/)
- - [Amazon Prime Big Deal Days starts October 10-11, shop early deals on Apple now](https://appleinsider.com/articles/23/09/18/amazon-prime-big-deal-days-starts-october-10-11-shop-early-deals-on-apple-now?utm_medium=rss)<!-- TECH:END -->
+ - [The Dark Economics of Russell Brand](https://www.wired.com/story/dark-economics-russell-brand/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

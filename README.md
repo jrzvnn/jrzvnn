@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 💣 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
  - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
+ - 💣 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 😝 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
+ - 👉 [Well done 9gag!](http://9gag.com/gag/a8qv44V)<!-- MEMES:END -->
 
 ---
 

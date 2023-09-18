@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple promises to fix iPhone 12 radiation levels with software update](https://www.androidauthority.com/apple-iphone-12-france-radiation-software-update-3365191/)
  - [Bigger iPhones, redesigned watches, new Macs — Apple’s 2024 plans revealed](https://www.androidauthority.com/apple-2024-iphone-16-apple-watch-x-m3-macbook-3365178/)
  - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct by June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)
  - [Best Small Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)
- - [KKR agrees to buy 20% of Singapore-based Singtel&#39;s regional datacenter business for ~$807M at a ~$4B valuation, with an option to raise its stake to 25% by 2027 &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/230917/p7#a230917p7)
- - [Baldur&#39;s Gate 3 Review: The Most In-Depth, Fun RPG You Can Play on Steam Deck     - CNET](https://www.cnet.com/tech/gaming/baldurs-gate-3-review-the-most-in-depth-fun-rpg-playable-on-steam-deck/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [KKR agrees to buy 20% of Singapore-based Singtel&#39;s regional datacenter business for ~$807M at a ~$4B valuation, with an option to raise its stake to 25% by 2027 &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/230917/p7#a230917p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

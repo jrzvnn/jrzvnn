@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court blocks California’s online child safety law](https://www.theverge.com/2023/9/18/23879489/california-age-appropriate-design-code-act-blocked-unconstitutional-first-amendment-injunction)
+ - [In a livestream, Elon Musk says X is moving toward a &quot;small&quot; monthly subscription for all users, as it&#39;s the &quot;only way&quot; to combat &quot;vast armies of bots&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230918/p30#a230918p30)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [Citigroup debuts Citi Token Services, which turns deposits into tokens that can be sent internationally, in a push to offer institutional clients digital assets &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/230918/p29#a230918p29)
- - [iPhone 16 Pro might level up its camera with this Pro Max-exclusive feature](https://www.androidauthority.com/apple-iphone-16-pro-zoom-camera-3365550/)
- - [New iPhone camera features and limitations detailed by Apple executives](https://appleinsider.com/articles/23/09/18/new-iphone-camera-features-and-limitations-detailed-by-apple-executives?utm_medium=rss)
- - [Agility Robotics is opening a Salem, Oregon factory to mass produce up to 10K humanoid Digit robots per year, designed to be warehouse and factory &quot;co-workers&quot; &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230918/p28#a230918p28)
- - [The cast of Baldur’s Gate 3 is doing a D&amp;D one-shot as their in-game characters](https://www.theverge.com/2023/9/18/23879408/baldurs-gate-3-cast-dnd-high-rollers-one-shot)<!-- TECH:END -->
+ - [iPhone 16 Pro might level up its camera with this Pro Max-exclusive feature](https://www.androidauthority.com/apple-iphone-16-pro-zoom-camera-3365550/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Hong Kong IPOs, AI startup and US Entity List member Beijing Fourth Paradigm aims to raise $144M and cloud hospital firm Neusoft Xikang aims for $81M-$101M &lpar;Scott Murdoch/Reuters&rpar;](http://www.techmeme.com/230918/p5#a230918p5)
- - [How to run an Apple I on your Mac with OpenEmulator](https://appleinsider.com/inside/macos/tips/how-to-run-an-apple-i-on-your-mac-with-openemulator?utm_medium=rss)
- - [You might want to avoid the cheaper ASUS ROG Ally](https://www.androidauthority.com/cheap-asus-rog-ally-z1-performance-3365244/)
- - [What is ray tracing in games? Everything you need to know](https://www.androidauthority.com/what-is-ray-tracing-3365243/)
- - [Amazon Confirms Dates for Second Prime Day Sale in October     - CNET](https://www.cnet.com/tech/amazon-confirms-dates-for-second-prime-day-sale-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ski Resorts Are Giving Up on Snow](https://www.wired.com/story/ski-adaptations-climate-change-paganella-italy/)
+ - [The Squelchy, Messy Art of Video Game Sound Effects](https://www.wired.com/story/obsessed-joanna-fang-god-of-war-sound-effects/)
+ - [Pay Transparency Is Sweeping Across the US](https://www.wired.com/story/pay-transparency-is-sweeping-across-us/)
+ - [This Treaty Could Stop Plastic Pollution—or Doom the Earth to Drown in It](https://www.wired.com/story/this-treaty-could-stop-plastic-pollution-or-doom-the-earth-to-drown-in-it/)
+ - [In Hong Kong IPOs, AI startup and US Entity List member Beijing Fourth Paradigm aims to raise $144M and cloud hospital firm Neusoft Xikang aims for $81M-$101M &lpar;Scott Murdoch/Reuters&rpar;](http://www.techmeme.com/230918/p5#a230918p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 💣 [Wifu Material](http://9gag.com/gag/anz0Kbq)
- - 😝 [Didn&#39;t it used to be innocent until proven guilty?](http://9gag.com/gag/aKEXBY6)
- - 👉 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)<!-- MEMES:END -->
+ - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 😝 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
+ - 💣 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 😝 [So f*cked](http://9gag.com/gag/amAON04)
+ - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---
 

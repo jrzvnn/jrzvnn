@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is planning to stream PC cloud games, internal emails reveal](https://www.theverge.com/2023/9/18/23878376/microsoft-xbox-cloud-gaming-pc-games-streaming-ftc-documents)
+ - [AI writing startup Writer, used by L&#39;Or&amp;eacute;al, Spotify, and Uber to create digital marketing campaigns, raised $100M led by Iconiq Growth at a $500M+ valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230918/p9#a230918p9)
  - [The UK CMA outlines seven principles for regulating AI foundation models and plans to speak to Meta, Google, OpenAI, Nvidia, and others before a report in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230918/p8#a230918p8)
  - [Xiaomi Mix Fold 3 Review: The Slimmest Folding Phone Yet](https://www.wired.com/review/xiaomi-mix-fold-3/)
- - [The US should not push to regulate most aspects of AI, letting the tech mature for positive uses, to avoid favoring incumbents and forcing the industry overseas &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230918/p7#a230918p7)
- - [Unity caves, is reconsidering new fee structure after developer revolt](https://appleinsider.com/articles/23/09/18/unity-caves-is-reconsidering-new-fee-structure-after-developer-revolt?utm_medium=rss)
- - [iPhone 15 Pro won&#39;t charge faster than iPhone 14 Pro, claims report](https://appleinsider.com/articles/23/09/18/iphone-15-pro-wont-charge-faster-than-iphone-14-pro-claims-report?utm_medium=rss)<!-- TECH:END -->
+ - [The US should not push to regulate most aspects of AI, letting the tech mature for positive uses, to avoid favoring incumbents and forcing the industry overseas &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230918/p7#a230918p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Well done 9gag!](http://9gag.com/gag/a8qv44V)
- - 😝 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
- - 💣 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
+ - 😝 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
+ - 💣 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
 
 ---
 

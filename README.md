@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s former Surface chief Panos Panay is reportedly heading to Amazon](https://www.theverge.com/2023/9/18/23879036/microsoft-panos-panay-amazon-hire-former-surface-windows-chief)
+ - [Microsoft Office for Mac or Windows drops to only $34.97 with these limited time deals](https://appleinsider.com/articles/23/09/18/microsoft-office-for-mac-or-windows-drops-to-only-3497-with-these-limited-time-deals?utm_medium=rss)
  - [Thunderbolt 5 vs Thunderbolt 4: How do they compare?](https://www.androidauthority.com/thunderbolt-5-vs-thunderbolt-4-3365195/)
  - [Apple&#39;s new 6TB and 12TB iCloud+ plans are now available](https://appleinsider.com/articles/23/09/18/apples-new-6tb-and-12tb-icloud-plans-are-now-available?utm_medium=rss)
- - [Sources: Amazon is hiring Microsoft&#39;s former Chief Product Officer Panos Panay to run the division responsible for Alexa and the Echo smart speakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230918/p19#a230918p19)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
+ - [Sources: Amazon is hiring Microsoft&#39;s former Chief Product Officer Panos Panay to run the division responsible for Alexa and the Echo smart speakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/230918/p19#a230918p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

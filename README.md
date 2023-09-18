@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The BBC, ITV, Channel 4, and other UK broadcasters announce Freely, offering linear TV channels via the internet, available on new smart TVs starting in 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230918/p4#a230918p4)
- - [A look at Amazon&#39;s bets across industries, including health care, as some analysts and investors question the company&#39;s scattershot efforts and its poor returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230918/p3#a230918p3)
- - [iOS 17 Arrives Today. Here&#39;s What You Can Expect     - CNET](https://www.cnet.com/tech/mobile/ios-17-arrives-today-heres-what-you-can-expect/#ftag=CAD590a51e)
- - [Prosus and Naspers CEO Bob van Dijk steps down and plans to remain as a consultant for a year; Prosus executive Ervin Tu will temporarily take over as CEO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230918/p2#a230918p2)
- - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct by June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)<!-- TECH:END -->
+ - [You might want to avoid the cheaper ASUS ROG Ally](https://www.androidauthority.com/cheap-asus-rog-ally-z1-performance-3365244/)
+ - [What is ray tracing in games? Everything you need to know](https://www.androidauthority.com/what-is-ray-tracing-3365243/)
+ - [Amazon Confirms Dates for Second Prime Day Sale in October     - CNET](https://www.cnet.com/tech/amazon-confirms-dates-for-second-prime-day-sale-in-october/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Browns vs. Steelers, Saints vs. Panthers Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-browns-vs-steelers-saints-vs-panthers-without-cable/#ftag=CAD590a51e)
+ - [The BBC, ITV, Channel 4, and other UK broadcasters announce Freely, offering linear TV channels via the internet, available on new smart TVs starting in 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230918/p4#a230918p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

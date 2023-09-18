@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Big Deal Days starts October 10-11, shop early deals on Apple now](https://appleinsider.com/articles/23/09/18/amazon-prime-big-deal-days-starts-october-10-11-shop-early-deals-on-apple-now?utm_medium=rss)
  - [A look around MGM&#39;s Vegas properties, where a September 10 cyberattack has led to broken slot machines and payment kiosks, strained employees, and long waits &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230918/p26#a230918p26)
  - [Meta is shutting down three Oculus games without explanation](https://www.theverge.com/2023/9/18/23879252/meta-shut-down-dead-buried-bogo-oculus-games)
  - [Panos Panay suddenly exits Microsoft &lpar;Update: Could be headed to Amazon&rpar;](https://www.androidauthority.com/panos-panay-microsoft-3365351/)
- - [Microsoft Paint is finally adding some of Photoshop’s best features](https://www.theverge.com/2023/9/18/23879221/microsoft-paint-testing-layers-transparency-photoshop-features)
- - [The smaller iPhone 16 Pro might get Apple’s new ‘tetraprism’ zoom lens](https://www.theverge.com/2023/9/18/23879170/apple-iphone-16-pro-max-tetraprism-zoom-lens-telephoto)<!-- TECH:END -->
+ - [Microsoft Paint is finally adding some of Photoshop’s best features](https://www.theverge.com/2023/9/18/23879221/microsoft-paint-testing-layers-transparency-photoshop-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

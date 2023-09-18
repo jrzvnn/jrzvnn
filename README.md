@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
  - 💣 [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
+ - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 👉 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)<!-- MEMES:END -->
 
 ---
 

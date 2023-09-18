@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
- - 💣 [What position were they in?](http://9gag.com/gag/aKEXwGj)
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 👉 [Help me](http://9gag.com/gag/a8qvjK6)<!-- MEMES:END -->
+ - 😝 [FEMINIST vs JORDAN PETERSON](http://9gag.com/gag/aDYqojN)
+ - 😝 [Wifu Material](http://9gag.com/gag/anz0Kbq)
+ - 💣 [Trippy](http://9gag.com/gag/aYVvey2)
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 👉 [I could watch this for hours](http://9gag.com/gag/aGErw20)<!-- MEMES:END -->
 
 ---
 

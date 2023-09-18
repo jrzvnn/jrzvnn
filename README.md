@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ricky Gervais reaction to David Blaine&#39;s trick `icepick through arm`](http://9gag.com/gag/a1P8APP)
- - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
- - 💣 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 😝 [So f*cked](http://9gag.com/gag/amAON04)
- - 👉 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)<!-- MEMES:END -->
+ - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 💣 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 👉 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)<!-- MEMES:END -->
 
 ---
 

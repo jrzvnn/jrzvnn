@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 😝 [Lied on the CV](http://9gag.com/gag/aBdb1rZ)
- - 💣 [Life was back then](http://9gag.com/gag/aEqjnvM)
- - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 👉 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)<!-- MEMES:END -->
+ - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
+ - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
 
 ---
 

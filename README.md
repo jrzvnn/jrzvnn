@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool story bro](http://9gag.com/gag/a2KAN4D)
- - 😝 [\u201cDon\u2019t tell me the reasons\u201d feminism in 1 sentence](http://9gag.com/gag/amAO0w6)
- - 💣 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 😝 [Men dont want to be abused? wow](http://9gag.com/gag/a5X9PbO)
+ - 💣 [Imagine being such a fat f**k you can&#39;t climb int bed and then you blame everyone else for it.](http://9gag.com/gag/a6qeyve)
+ - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 👉 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)<!-- MEMES:END -->
 
 ---
 

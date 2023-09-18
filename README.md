@@ -156,10 +156,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Australia says Tinder, Bumble, Hinge, and others must submit a voluntary code of conduct until June 30, 2024, to improve safety standards or face regulation &lpar;Rod McGuirk/Associated Press&rpar;](http://www.techmeme.com/230918/p1#a230918p1)
+ - [Best Small Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-small-phone/#ftag=CAD590a51e)
  - [KKR agrees to buy 20% of Singapore-based Singtel&#39;s regional datacenter business for ~$807M at a ~$4B valuation, with an option to raise its stake to 25% by 2027 &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/230917/p7#a230917p7)
  - [Baldur&#39;s Gate 3 Review: The Most In-Depth, Fun RPG You Can Play on Steam Deck     - CNET](https://www.cnet.com/tech/gaming/baldurs-gate-3-review-the-most-in-depth-fun-rpg-playable-on-steam-deck/#ftag=CAD590a51e)
- - [An interview with Tim Cook on Apple&#39;s pledge to become carbon neutral by 2030, the Vision Pro, return to the office, why Apple still advertises on X, and more &lpar;John Dickerson/CBS News&rpar;](http://www.techmeme.com/230917/p6#a230917p6)
- - [Q&amp;A with DeepMind co-founder Mustafa Suleyman on LLMs becoming more controllable, &quot;interactive&quot; AI after generative AI, AI regulation being achievable, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230917/p5#a230917p5)<!-- TECH:END -->
+ - [An interview with Tim Cook on Apple&#39;s pledge to become carbon neutral by 2030, the Vision Pro, return to the office, why Apple still advertises on X, and more &lpar;John Dickerson/CBS News&rpar;](http://www.techmeme.com/230917/p6#a230917p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

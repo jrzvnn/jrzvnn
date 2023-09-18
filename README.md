@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 💣 [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 👉 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)<!-- MEMES:END -->
+ - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 💣 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
+ - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
+ - 👉 [Help me](http://9gag.com/gag/a8qvjK6)<!-- MEMES:END -->
 
 ---
 

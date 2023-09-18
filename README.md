@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 😝 [Hard fall](http://9gag.com/gag/a1P8eMw)
- - 💣 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
  - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
+ - 😝 [Lied on the CV](http://9gag.com/gag/aBdb1rZ)
+ - 💣 [Life was back then](http://9gag.com/gag/aEqjnvM)
+ - 😝 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
+ - 👉 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)<!-- MEMES:END -->
 
 ---
 

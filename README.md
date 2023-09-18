@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 😝 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
- - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [Sensor sensitivity testing on a Hydraulic trimming machine](http://9gag.com/gag/aRE8g6M)
+ - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 👉 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)<!-- MEMES:END -->
 
 ---
 

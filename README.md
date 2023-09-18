@@ -158,8 +158,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Filing: Square CEO Alyssa Henry plans to step down on October 2, after working at the company for over nine years; Jack Dorsey will become the &quot;Square Head&quot; &lpar;Catherine Thorbecke/CNN&rpar;](http://www.techmeme.com/230918/p33#a230918p33)
  - [Instacart prices its 22M shares at $30 a piece, giving the company a fully diluted valuation of ~$10B; Instacart was valued at $39B in 2021 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230918/p32#a230918p32)
  - [The best Apple Watch Series 9 bands](https://www.androidauthority.com/apple-watch-series-9-bands-3364397/)
- - [A judge grants NetChoice&#39;s request to block the California Age-Appropriate Design Code Act, as the online child safety law likely violates the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230918/p31#a230918p31)
- - [Netflix ends a three-year legal dispute over Squid Game traffic](https://www.theverge.com/2023/9/18/23879475/netflix-squid-game-sk-broadband-partnership)<!-- TECH:END -->
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
+ - [Best Smart Home Deals: Save on Lighting, Speakers and More     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

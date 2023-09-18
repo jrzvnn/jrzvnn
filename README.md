@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is ray tracing in games? Everything you need to know](https://www.androidauthority.com/what-is-ray-tracing-3365243/)
  - [The BBC, ITV, Channel 4, and other UK broadcasters announce Freely, offering linear TV channels via the internet, available on new smart TVs starting in 2024 &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/230918/p4#a230918p4)
  - [Poll results: You won’t buy the Pixel 8 if these price hikes are true](https://www.androidauthority.com/google-pixel-8-series-price-hike-leak-poll-results-3365227/)
  - [A look at Amazon&#39;s bets across industries, including health care, as some analysts and investors question the company&#39;s scattershot efforts and its poor returns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230918/p3#a230918p3)
- - [iOS 17 Arrives Today. Here&#39;s What You Can Expect     - CNET](https://www.cnet.com/tech/mobile/ios-17-arrives-today-heres-what-you-can-expect/#ftag=CAD590a51e)
- - [OnePlus Pad Go design and launch date revealed](https://www.androidauthority.com/oneplus-pad-go-design-launch-window-3364666/)<!-- TECH:END -->
+ - [iOS 17 Arrives Today. Here&#39;s What You Can Expect     - CNET](https://www.cnet.com/tech/mobile/ios-17-arrives-today-heres-what-you-can-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

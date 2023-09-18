@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
- - 😝 [New 3m cable from apple costs 159$](http://9gag.com/gag/aGEr9qz)
- - 💣 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
- - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Holy grail](http://9gag.com/gag/aoKGEYA)
+ - 💣 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
+ - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
+ - 👉 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)<!-- MEMES:END -->
 
 ---
 

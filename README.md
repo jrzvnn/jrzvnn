@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 💣 [Alcohol is not for Kids](http://9gag.com/gag/ajV3D0w)
- - 😝 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
- - 👉 [Well done 9gag!](http://9gag.com/gag/a8qv44V)<!-- MEMES:END -->
+ - 😝 [The barking noise got me](http://9gag.com/gag/aBdbrVD)
+ - 😝 [FEMINIST vs JORDAN PETERSON](http://9gag.com/gag/aDYqojN)
+ - 💣 [Henry Cavill wants to star in a movie adaptation of Red Dead Redemption](http://9gag.com/gag/aeQq0yv)
+ - 😝 [Life was back then](http://9gag.com/gag/aEqjnvM)
+ - 👉 [Many such cases!](http://9gag.com/gag/aPgVWRn)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S23 FE leak delivers 360 degree view of Samsung’s upcoming phone](https://www.androidauthority.com/galaxy-s23-fe-render-3365332/)
+ - [Researchers find a GitHub repository belonging to Microsoft&#39;s AI research unit that exposed 38TB of sensitive data, including secret keys and Teams chat logs &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230918/p16#a230918p16)
  - [iPhone 15 pre-orders up 10% worldwide year-over-year, says Wedbush](https://appleinsider.com/articles/23/09/18/iphone-15-pre-orders-up-10-worldwide-year-over-year-says-wedbush?utm_medium=rss)
  - [Twitter&#39;s ex-head of trust and safety reflects on Donald Trump publicly attacking him, the resulting abuse, fact-checking, Elon Musk, Twitter Files, and more &lpar;Yoel Roth/New York Times&rpar;](http://www.techmeme.com/230918/p15#a230918p15)
- - [Updated AirPods Pro bring USB-C and the promise of a Vision Pro future](https://appleinsider.com/articles/23/09/18/updated-airpods-pro-bring-usb-c-and-the-promise-of-a-vision-pro-future?utm_medium=rss)
- - [Microsoft Chief Product Officer Panos Panay plans to leave after nearly 20 years; Panay joined in 2004 as a group program manager and became CPO in 2018 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230918/p14#a230918p14)
- - [Woot Has Refurbished iPhone 13 Models on Sale Starting at Just $520     - CNET](https://www.cnet.com/deals/woot-has-refurbished-iphone-13-models-on-sale-starting-at-just-520/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Updated AirPods Pro bring USB-C and the promise of a Vision Pro future](https://appleinsider.com/articles/23/09/18/updated-airpods-pro-bring-usb-c-and-the-promise-of-a-vision-pro-future?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

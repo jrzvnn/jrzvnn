@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moment’s T-Series lenses give your smartphone’s camera superpowers](https://www.theverge.com/2023/9/18/23862233/moment-t-series-smartphone-lenses-hands-on-iphone-galaxy-pixel)
- - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)
+ - [iOS 17 is now rolling out to users, with Contact Posters, NameDrop, and more!](https://www.androidauthority.com/ios-17-stable-release-rollout-3365274/)
  - [iPhone 15 Pro Max production hindered by tetraprism camera lens](https://appleinsider.com/articles/23/09/18/main-iphone-15-pro-max-production-bottleneck-is-the-tetraprism-camera-lens?utm_medium=rss)
- - [Apple’s new AirPods Pro with USB-C charging case is already $50 off on a preorder](https://www.theverge.com/2023/9/18/23878472/apple-airpods-pro-usbc-anker-magsafe-charger-cube-samsung-deal-sale)
- - [iPhone 15 Pro Max demand outselling supply, says Goldman Sachs](https://appleinsider.com/articles/23/09/18/iphone-15-pro-max-demand-outselling-supply-says-goldman-sachs?utm_medium=rss)<!-- TECH:END -->
+ - [This cozy Apple Arcade game consumed my entire weekend](https://www.theverge.com/23878638/japanese-rural-life-adventure-apple-arcade-iphone-game)
+ - [Moment’s T-Series lenses give your smartphone’s camera superpowers](https://www.theverge.com/2023/9/18/23862233/moment-t-series-smartphone-lenses-hands-on-iphone-galaxy-pixel)
+ - [Disney is releasing a very expensive 100-movie Blu-ray collection](https://www.theverge.com/2023/9/10/23866610/disney-legacy-animated-film-collection-100-film-blu-ray-pixar-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

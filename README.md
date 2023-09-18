@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA outlines seven principles for regulating AI foundation models and plans to speak to Meta, Google, OpenAI, Nvidia, and others before a report in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230918/p8#a230918p8)
+ - [Xiaomi Mix Fold 3 Review: The Slimmest Folding Phone Yet](https://www.wired.com/review/xiaomi-mix-fold-3/)
  - [The US should not push to regulate most aspects of AI, letting the tech mature for positive uses, to avoid favoring incumbents and forcing the industry overseas &lpar;Elad Gil/Elad Blog&rpar;](http://www.techmeme.com/230918/p7#a230918p7)
  - [Unity caves, is reconsidering new fee structure after developer revolt](https://appleinsider.com/articles/23/09/18/unity-caves-is-reconsidering-new-fee-structure-after-developer-revolt?utm_medium=rss)
- - [iPhone 15 Pro won&#39;t charge faster than iPhone 14 Pro, claims report](https://appleinsider.com/articles/23/09/18/iphone-15-pro-wont-charge-faster-than-iphone-14-pro-claims-report?utm_medium=rss)
- - [In a long X post, French President Macron backtracks on saying video games had &quot;intoxicated&quot; young rioters and declares games are an &quot;integral part of France&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230918/p6#a230918p6)
- - [Ski Resorts Are Giving Up on Snow](https://www.wired.com/story/ski-adaptations-climate-change-paganella-italy/)<!-- TECH:END -->
+ - [iPhone 15 Pro won&#39;t charge faster than iPhone 14 Pro, claims report](https://appleinsider.com/articles/23/09/18/iphone-15-pro-wont-charge-faster-than-iphone-14-pro-claims-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

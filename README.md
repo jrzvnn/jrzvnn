@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a long X post, French President Macron backtracks on saying video games had &quot;intoxicated&quot; young rioters and declares games are an &quot;integral part of France&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/230918/p6#a230918p6)
  - [Ski Resorts Are Giving Up on Snow](https://www.wired.com/story/ski-adaptations-climate-change-paganella-italy/)
  - [The Squelchy, Messy Art of Video Game Sound Effects](https://www.wired.com/story/obsessed-joanna-fang-god-of-war-sound-effects/)
  - [Pay Transparency Is Sweeping Across the US](https://www.wired.com/story/pay-transparency-is-sweeping-across-us/)
- - [This Treaty Could Stop Plastic Pollution—or Doom the Earth to Drown in It](https://www.wired.com/story/this-treaty-could-stop-plastic-pollution-or-doom-the-earth-to-drown-in-it/)
- - [In Hong Kong IPOs, AI startup and US Entity List member Beijing Fourth Paradigm aims to raise $144M and cloud hospital firm Neusoft Xikang aims for $81M-$101M &lpar;Scott Murdoch/Reuters&rpar;](http://www.techmeme.com/230918/p5#a230918p5)<!-- TECH:END -->
+ - [This Treaty Could Stop Plastic Pollution—or Doom the Earth to Drown in It](https://www.wired.com/story/this-treaty-could-stop-plastic-pollution-or-doom-the-earth-to-drown-in-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

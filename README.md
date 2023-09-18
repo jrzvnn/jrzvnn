@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 😝 [Is there any Photoshop lvl3 fire mages ? That can make this cat orange? B\u016bt leabe the rest same](http://9gag.com/gag/a9q4bQ6)
  - 😝 [Holy grail](http://9gag.com/gag/aoKGEYA)
- - 💣 [Mainstream media is the cancer of society. Zero police investigations and yet they have already plastered his name all over the country.](http://9gag.com/gag/aA0LpG0)
- - 😝 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)
- - 👉 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)<!-- MEMES:END -->
+ - 💣 [Stuttgart, yesterday. &lpar;Part 3&rpar;](http://9gag.com/gag/avQBLE5)
+ - 😝 [What position were they in?](http://9gag.com/gag/aKEXwGj)
+ - 👉 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
 
 ---
 

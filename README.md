@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to install iOS 17 on your iPhone](https://www.theverge.com/23878612/ios-17-iphone-install-update-how-to)
  - [Loki’s second season will debut a day early](https://www.theverge.com/2023/9/18/23878714/loki-second-season-premiere-date-disney-plus)
  - [Good Burger 2 premieres on Paramount Plus on November 22nd](https://www.theverge.com/23878603/good-burger-2-paramount-plus-release-date-premiere)
- - [Daily deals Sept. 18: 30% off Fitbit Sense, Apple Magic Keyboard $70, iPhone 13, 13 Pro, &amp; 13 Pro Max Models from $520, more](https://appleinsider.com/articles/23/09/18/daily-deals-sept-18-30-off-fitbit-sense-apple-magic-keyboard-70-iphone-13-13-pro-13-pro-max-models-from-520-more?utm_medium=rss)
- - [Plex: The World’s Most Comprehensive Entertainment Platform](https://www.androidauthority.com/plex-the-worlds-most-comprehensive-entertainment-platform-3361392/)
- - [Google might kill video calls on its video calling machine](https://www.androidauthority.com/google-nest-hub-max-video-calls-3365337/)<!-- TECH:END -->
+ - [Daily deals Sept. 18: 30% off Fitbit Sense, Apple Magic Keyboard $70, iPhone 13, 13 Pro &amp; 13 Pro Max Models from $520, more](https://appleinsider.com/articles/23/09/18/daily-deals-sept-18-30-off-fitbit-sense-apple-magic-keyboard-70-iphone-13-13-pro-13-pro-max-models-from-520-more?utm_medium=rss)
+ - [Plex: The World’s Most Comprehensive Entertainment Platform](https://www.androidauthority.com/plex-the-worlds-most-comprehensive-entertainment-platform-3361392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

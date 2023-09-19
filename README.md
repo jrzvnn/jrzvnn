@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the UK CMA blocking Microsoft&#39;s Activision deal, at odds with the US and the EU, shows its newfound influence after Brexit and forced a revised proposal &lpar;Financial Times&rpar;](http://www.techmeme.com/230919/p17#a230919p17)
  - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)
  - [Okta CSO David Bradbury says five client companies, including MGM and Caesars, were hacked via help desk calls by the ALPHV and Scattered Spider groups &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230919/p16#a230919p16)
- - [What to expect from Microsoft’s ‘special’ Surface and AI event](https://www.theverge.com/2023/9/19/23878352/microsoft-surface-ai-event-nyc-laptop-studio-2-go-laptop-go-rumors-leaks)
- - [Apple revamps iOS 17 App Store with more personalized recommendations](https://appleinsider.com/articles/23/09/19/apple-revamps-ios-17-app-store-with-more-personalized-recommendations?utm_medium=rss)
- - [TikTok launches a tool to let creators label their AI-generated content and plans to test other ways of labeling such content automatically &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230919/p15#a230919p15)<!-- TECH:END -->
+ - [The Fall of Babylon Is a Warning for AI Unicorns](https://www.wired.com/story/babylon-health-warning-ai-unicorns/)
+ - [TikTok Shop Has a Snail Slime Problem](https://www.wired.com/story/tiktok-shop-fake-scam-products/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

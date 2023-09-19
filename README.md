@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cricket Wireless launches new Android phone under its brand](https://www.androidauthority.com/cricket-wireless-android-phone-3365921/)
+ - [Max will start offering a live sports tier in October](https://www.theverge.com/2023/9/19/23880831/max-live-sports-tier-launch-date-price)
  - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)
  - [Emails from 2022: worried about Starfield&#39;s delay, Microsoft discussed how much it would take to get various games on Xbox Game Pass, ranging up to $300M &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/230919/p41#a230919p41)
- - [Microsoft leaked its own Xbox documents, court says](https://www.theverge.com/2023/9/19/23880795/microsoft-leaked-xbox-documents-court)
- - [Jamf Pro 11 updates the UI, automates common device management tasks](https://appleinsider.com/articles/23/09/19/jamf-pro-11-updates-the-ui-automates-common-device-management-tasks?utm_medium=rss)
- - [iFixit retroactively dings the iPhone 14 over Apple’s parts pairing requirement](https://www.theverge.com/2023/9/19/23880701/ifixit-lowers-iphone-14-repairability-score-parts-pairing)<!-- TECH:END -->
+ - [Microsoft leaked its own Xbox documents, court says](https://www.theverge.com/2023/9/19/23880795/microsoft-leaked-xbox-documents-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

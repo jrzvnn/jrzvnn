@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [The lamb looks great](http://9gag.com/gag/avQBPKW)
  - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
- - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
+ - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
  - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
 
 ---

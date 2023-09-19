@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trend Micro: Chinese cyberespionage group Earth Lusca used a new Linux malware dubbed SprySOCKS to target government agencies in multiple countries in H1 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230919/p9#a230919p9)
+ - [Microsoft’s next Xbox, coming 2028, envisions hybrid computing](https://www.theverge.com/2023/9/19/23880138/microsoft-xbox-2028-hybrid-cloud-games-platform)
  - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)
  - [FTC v. Microsoft: new documents detail an Xbox Series X refresh in 2024, codenamed Brooklin, including a new controller and cylindrical, disc-less design &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p7#a230919p7)
- - [Phil Spencer says acquiring Nintendo would be ‘a career moment’](https://www.theverge.com/2023/9/19/23880146/phil-spencer-microsoft-xbox-acquiring-nintendo)
- - [Before Google&#39;s Android Ruled the World, It Had to Get Radical. I Had a Front-Row Seat     - CNET](https://www.cnet.com/tech/mobile/before-googles-android-ruled-the-world-it-had-to-get-radical-i-had-a-front-row-seat/#ftag=CAD590a51e)
- - [Pixel Watch 2 could borrow key features from the Fitbit Sense 2](https://www.androidauthority.com/google-pixel-watch-2-temperature-measurement-personal-safety-stress-tracking-features-3365633/)<!-- TECH:END -->
+ - [Phil Spencer says acquiring Nintendo would be ‘a career moment’](https://www.theverge.com/2023/9/19/23880146/phil-spencer-microsoft-xbox-acquiring-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

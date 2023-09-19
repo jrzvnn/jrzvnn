@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel will launch Meteor Lake on December 14th — this is Intel’s Core Ultra](https://www.theverge.com/2023/9/19/23872888/intel-meteor-lake-core-ultra-date-chip-specs-details)
+ - [Notifications in iOS 17 are too quiet, and there&#39;s nothing you can do about it](https://appleinsider.com/articles/23/09/19/notifications-in-ios-17-are-too-quiet-and-theres-nothing-you-can-do-about-it?utm_medium=rss)
+ - [The Chan Zuckerberg Initiative is funding an AI GPU cluster made up of 1K+ Nvidia H100 GPUs to run &quot;openly available&quot; models of human cells for medical research &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230919/p32#a230919p32)
  - [Samsung’s new Amex card works with SmartThings Find, but it’s only in South Korea](https://www.theverge.com/2023/9/19/23880369/samsungs-amex-card-smartthings-find-south-korea)
- - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/inside/iphone/tips/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)
- - [An iPhone running iOS 17 can be used to recover a bricked Apple TV](https://appleinsider.com/articles/23/09/19/an-iphone-running-ios-17-can-be-used-to-recover-a-bricked-apple-tv?utm_medium=rss)
- - [After Hong Kong&#39;s police arrested six following allegations of fraud at unlicensed crypto exchange JPEX, the government plans to tighten its crypto regulations &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230919/p31#a230919p31)
- - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)<!-- TECH:END -->
+ - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/inside/iphone/tips/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

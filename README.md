@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA&#39;s New Moon Mosaic Lets You Peer Deep Into Shackleton Center     - CNET](https://www.cnet.com/science/space/nasas-new-moon-mosaic-lets-you-peer-deep-into-shackleton-center/#ftag=CAD590a51e)
  - [Microsoft’s new Xbox controller borrows great ideas from Stadia, Steam, and Sony](https://www.theverge.com/2023/9/19/23880809/microsoft-xbox-leak-gamepad-sebile-stadia-steam-sony)
  - [Notifications in iOS 17 are too quiet, and there&#39;s nothing you can do about it](https://appleinsider.com/articles/23/09/19/notifications-in-ios-17-are-too-quiet-and-theres-nothing-you-can-do-about-it?utm_medium=rss)
- - [WhatsApp appears to be about to launch its long-overdue iPad app](https://www.theverge.com/2023/9/19/23880855/whatsapp-ipad-app-beta)
- - [Mandiant details UNC53, a China-backed group that hacked 29+ global orgs since 2022 by tricking staff into using malware-infected USB drives, mostly in Africa &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230919/p42#a230919p42)
- - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)<!-- TECH:END -->
+ - [Best MacBook Deals: $200 Off Latest M2 Models and More     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [The 21 Coolest Halloween Decorations You Can Buy Now     - CNET](https://www.cnet.com/news/the-coolest-halloween-decorations-you-can-buy-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

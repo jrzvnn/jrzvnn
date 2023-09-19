@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electrify Video Partners, which acquires 50% to 100% of a YouTube creator&#39;s business, raised $85M from Capital D and says the company is profitable &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/230919/p19#a230919p19)
- - [FTC v. Microsoft: in April 2022, Xbox Game Pass may have generated around $231.5M in revenue, or $9.26 per subscription, and most subscribers pay full price &lpar;Derek Strickland/TweakTown&rpar;](http://www.techmeme.com/230919/p18#a230919p18)
- - [How the UK CMA blocking Microsoft&#39;s Activision deal, at odds with the US and the EU, shows its newfound influence after Brexit and forced a revised proposal &lpar;Financial Times&rpar;](http://www.techmeme.com/230919/p17#a230919p17)
- - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)
- - [Okta CSO David Bradbury says five client companies, including MGM and Caesars, were hacked via help desk calls by the ALPHV and Scattered Spider groups &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230919/p16#a230919p16)<!-- TECH:END -->
+ - [Berlin-based Plan A, which offers a SaaS sustainability tool to help track net zero efforts, raised a $27M Series A extension, taking its total funding to $42M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230919/p20#a230919p20)
+ - [9 Best Electric Toothbrushes &lpar;2023&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)
+ - [How to Make Reddit Suck Less on Your Phone](https://www.wired.com/story/how-to-make-reddit-suck-less-on-your-phone/)
+ - [Get Ready for ChatGPT-Style AI Chatbots That Do Your Boring Chores](https://www.wired.com/story/ai-chatbots-chatgpt-boring-chores/)
+ - [Arlo’s new line of cameras come at a more affordable price](https://www.theverge.com/2023/9/19/23879706/arlo-essentials-second-generation-cameras-video-doorbell-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

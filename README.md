@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon made a new version of its cashierless tech that doesn’t need cameras](https://www.theverge.com/2023/9/19/23881052/amazon-just-walk-out-rfid-cashierless-tech)
+ - [Microsoft addresses the huge Xbox leaks: here’s Phil Spencer’s full memo](https://www.theverge.com/2023/9/19/23881174/microsoft-xbox-leak-gaming-phil-spencer-memo)
  - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)
  - [Tabular, which provides an independent storage platform based on Apache Iceberg, raised $26M led by Altimeter Capital, bringing its total funding to $37M &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230919/p43#a230919p43)
- - [Everything We Know About Neuralink&#39;s Brain Implant Trial](https://www.wired.com/story/everything-we-know-about-neuralinks-brain-implant-trial/)
- - [How to use iPad as a portable screen for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
- - [Microsoft’s new Xbox controller borrows great ideas from Stadia, Steam, and Sony](https://www.theverge.com/2023/9/19/23880809/microsoft-xbox-leak-gamepad-sebile-stadia-steam-sony)<!-- TECH:END -->
+ - [Everything We Know About Neuralink&#39;s Brain Implant Trial](https://www.wired.com/story/everything-we-know-about-neuralinks-brain-implant-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

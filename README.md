@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alcion, which offers &quot;backup-as-a-service&quot; tools to enterprise, raised a $21M Series A led by Insight Partners-owned IT company Veeam, for $29M in total funding &lpar;Justin Warren/Forbes&rpar;](http://www.techmeme.com/230919/p24#a230919p24)
- - [Tel Aviv-based Cato Networks, which offers tools to protect remote workforces, raised $238M led by Lightspeed at a $3B+ valuation, for $770M in total funding &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230919/p23#a230919p23)
- - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)
- - [Interviews with 15 current and former employees at Amazon&#39;s Lab126 hardware unit describe low morale after layoffs and fears over a weak development pipeline &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/230919/p22#a230919p22)
- - [Netgear’s expensive new Orbi might have the cure to mesh Wi-Fi’s weakest link](https://www.theverge.com/2023/9/19/23880239/netgear-orbi-970-mesh-wifi-7-router-system-price)<!-- TECH:END -->
+ - [Amazon announces a new version of Just Walk Out for clothing retailers, using RFID tags to track apparel; the previous system relied on ceiling-mounted cameras &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/230919/p27#a230919p27)
+ - [Apple iPhone 15 and 15 Plus review: comfortable to hold, Dynamic Island, great performance, and helpful camera features, but no always-on display or ProMotion &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230919/p26#a230919p26)
+ - [Apple iPhone 15 Pro and Pro Max review: USB-C, lighter, nicer to hold, useful Action Button, and camera improvements, but no 5x telephoto on the smaller Pro &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230919/p25#a230919p25)
+ - [Dream Scenario’s new trailer makes viral fame seem like the nightmare it is](https://www.theverge.com/23879579/a24-dream-scenario-trailer)
+ - [Ray tracing is improved with Nvidia’s DLSS 3.5, and it’s cruising to Cyberpunk 2077 this week](https://www.theverge.com/2023/9/19/23880259/cyberpunk-2077-nvidia-dlss-3-5-upgrade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

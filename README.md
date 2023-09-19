@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The case for creating new art for every podcast episode](https://www.theverge.com/2023/9/19/23881340/apple-podcasts-episode-art-rss-ios-17)
+ - [Justice Department and Google spar over public access to antitrust trial files](https://www.theverge.com/2023/9/19/23881283/google-justice-department-antitrust-search-trial-online-document-access)
+ - [Signal announces PQXDH, a new cryptographic specification meant as a first step to advance quantum resistance for the Signal Protocol &lpar;Ehren Kret/Signal&rpar;](http://www.techmeme.com/230919/p46#a230919p46)
  - [Roblox is rolling out in-experience subscriptions, but you can’t buy them yet](https://www.theverge.com/2023/9/19/23881336/roblox-in-experience-subscriptions-developers)
- - [iPhone 15 has new battery health controls to prevent charging past 80%](https://appleinsider.com/articles/23/09/19/iphone-15-has-new-battery-health-controls-to-prevent-charging-past-80?utm_medium=rss)
- - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
- - [You May Be One of the 45 Million US Households Eligible to Choose a New Energy Provider     - CNET](https://www.cnet.com/news/you-may-be-one-of-the-45-million-us-households-eligible-to-choose-a-new-energy-provider/#ftag=CAD590a51e)
- - [We Tried 15 BBQ Sauces. These Are the Best     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 has new battery health controls to prevent charging past 80%](https://appleinsider.com/articles/23/09/19/iphone-15-has-new-battery-health-controls-to-prevent-charging-past-80?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

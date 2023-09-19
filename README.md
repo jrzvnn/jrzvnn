@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit retroactively dings the iPhone 14 over Apple’s parts pairing requirement](https://www.theverge.com/2023/9/19/23880701/ifixit-lowers-iphone-14-repairability-score-parts-pairing)
- - [Xbox leak: new Xbox Series X design, next-gen in 2028, and more](https://www.theverge.com/2023/9/19/23880165/xbox-leak-ftc-documents-new-xbox-series-x-controller-next-gen)
- - [US government official says HUAWEI could be bluffing on Mate 60 Pro chip scale](https://www.androidauthority.com/huawei-mate-60-pro-chip-3365912/)
- - [US Commerce Secretary Gina Raimondo says there is no evidence that SMIC can make the 7nm Kirin 9000s chips found in the Huawei Mate 60 Pro &quot;at scale&quot; &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/230919/p40#a230919p40)
- - [You can now apply for a refund from Epic Games’ Fortnite FTC settlement](https://www.theverge.com/2023/9/19/23880687/fortnite-ftc-settlement-epic-games-apply)<!-- TECH:END -->
+ - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)
+ - [Emails from 2022: worried about Starfield&#39;s delay, Microsoft discussed how much it would take to get various games on Xbox Game Pass, ranging up to $300M &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/230919/p41#a230919p41)
+ - [Microsoft leaked its own Xbox documents, court says](https://www.theverge.com/2023/9/19/23880795/microsoft-leaked-xbox-documents-court)
+ - [Jamf Pro 11 updates the UI, automates common device management tasks](https://appleinsider.com/articles/23/09/19/jamf-pro-11-updates-the-ui-automates-common-device-management-tasks?utm_medium=rss)
+ - [iFixit retroactively dings the iPhone 14 over Apple’s parts pairing requirement](https://www.theverge.com/2023/9/19/23880701/ifixit-lowers-iphone-14-repairability-score-parts-pairing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

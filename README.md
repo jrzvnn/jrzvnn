@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 😝 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 💣 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
- - 😝 [IPhone15](http://9gag.com/gag/aXnm9Nd)
- - 👉 [Justice Served..](http://9gag.com/gag/ay2m8YY)<!-- MEMES:END -->
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
+ - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
 
 ---
 

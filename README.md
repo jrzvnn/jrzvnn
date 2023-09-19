@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 😝 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
- - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
+ - 😝 [This man doesn\u2019t cook only meals\u2026 he cooks also beats](http://9gag.com/gag/aBdb1jN)
+ - 😝 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
+ - 💣 [IPhone15](http://9gag.com/gag/aXnm9Nd)
+ - 😝 [I&#39;d like to take a loan to start my own sex slave plantation](http://9gag.com/gag/a4oBjeZ)
+ - 👉 [One of the best scenes](http://9gag.com/gag/a04DbYO)<!-- MEMES:END -->
 
 ---
 

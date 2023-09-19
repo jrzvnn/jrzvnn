@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crowdstrike confirms acquiring Bionic, which analyzes a company&#39;s tech and IT to find vulnerabilities, sources say for $350M; Bionic has raised $82M in total &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230919/p29#a230919p29)
  - [iPhone 15 Pro &amp; iPhone 15 Pro Max review roundup: Titanium, Camera, and USB-C](https://appleinsider.com/articles/23/09/19/iphone-15-pro-iphone-15-pro-max-review-roundup-titanium-camera-and-usb-c?utm_medium=rss)
+ - [Digimarc adds copyright information to digital data](https://www.theverge.com/2023/9/19/23879555/digimarc-copyright-watermark-generative-ai)
  - [After over 100 internal Microsoft documents leaked, the FTC says that &quot;Microsoft was responsible for the error in uploading these documents to the court&quot; &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230919/p28#a230919p28)
- - [The HONOR V Purse is now a commercial phone, but you should wait for the V2](https://www.androidauthority.com/honor-v-purse-china-launch-3365830/)
- - [Amazon announces a new version of Just Walk Out for clothing retailers, using RFID tags to track apparel; the previous system relied on ceiling-mounted cameras &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/230919/p27#a230919p27)
- - [Apple iPhone 15 and 15 Plus review: comfortable to hold, Dynamic Island, great performance, and helpful camera features, but no always-on display or ProMotion &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230919/p26#a230919p26)<!-- TECH:END -->
+ - [The HONOR V Purse is now a commercial phone, but you should wait for the V2](https://www.androidauthority.com/honor-v-purse-china-launch-3365830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

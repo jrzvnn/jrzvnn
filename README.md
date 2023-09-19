@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 😝 [A man burned a stranger&#39;s hair for no reason in Turkey](http://9gag.com/gag/az2vVLz)
- - 💣 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 💣 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
  - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
- - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
+ - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
 
 ---
 

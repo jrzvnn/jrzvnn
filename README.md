@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)
+ - [FTC v. Microsoft: new documents detail an Xbox Series X refresh in 2024, codenamed Brooklin, including a new controller and cylindrical, disc-less design &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p7#a230919p7)
  - [Phil Spencer says acquiring Nintendo would be ‘a career moment’](https://www.theverge.com/2023/9/19/23880146/phil-spencer-microsoft-xbox-acquiring-nintendo)
- - [Pixel Watch 2 could borrow key features from the Fitbit Sense 2](https://www.androidauthority.com/google-pixel-watch-2-temperature-measurement-personal-safety-stress-tracking-features-3365633/)
- - [Microsoft documents leak new Bethesda games, including an Oblivion remaster](https://www.theverge.com/2023/9/19/23880132/microsoft-ftc-documents-leak-oblivion-fallout-3-remaster-doom-xbox)
- - [Logitech’s Yeti GX is a new USB mic with RGB lighting](https://www.theverge.com/2023/9/19/23879633/logitech-yeti-gx-orb-litra-beam-lx-usb-microphone-light-bar-rgb)
- - [Nest devices get major downgrade as part of legal challenge](https://www.androidauthority.com/google-nest-multiple-speaker-groups-3365632/)<!-- TECH:END -->
+ - [Before Google&#39;s Android Ruled the World, It Had to Get Radical. I Had a Front-Row Seat     - CNET](https://www.cnet.com/tech/mobile/before-googles-android-ruled-the-world-it-had-to-get-radical-i-had-a-front-row-seat/#ftag=CAD590a51e)
+ - [Pixel Watch 2 could borrow key features from the Fitbit Sense 2](https://www.androidauthority.com/google-pixel-watch-2-temperature-measurement-personal-safety-stress-tracking-features-3365633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

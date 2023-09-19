@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
- - 👉 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)<!-- MEMES:END -->
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 💣 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 👉 [I&#39;m the lower line](http://9gag.com/gag/aDYq3nN)<!-- MEMES:END -->
 
 ---
 

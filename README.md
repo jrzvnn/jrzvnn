@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches the Red Teaming Network, a contracted group of experts to help inform the company&#39;s AI model risk assessment and mitigation strategies &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p47#a230919p47)
  - [TikTok Ban: Montana&#39;s Attempt Backed by Group Representing 18 States     - CNET](https://www.cnet.com/tech/mobile/tiktok-ban-montanas-attempt-backed-by-group-representing-18-states/#ftag=CAD590a51e)
  - [The Biggest Revelations From the Microsoft Xbox Leaks](https://www.wired.com/story/ftc-microsoft-leaks-xbox/)
  - [The case for creating new art for every podcast episode](https://www.theverge.com/2023/9/19/23881340/apple-podcasts-episode-art-rss-ios-17)
- - [Bloody Marys Taste Better on an Airplane. One Expert Explains Why     - CNET](https://www.cnet.com/news/why-bloody-mary-tastes-so-much-better-on-an-airplane/#ftag=CAD590a51e)
- - [Justice Department and Google spar over public access to antitrust trial files](https://www.theverge.com/2023/9/19/23881283/google-justice-department-antitrust-search-trial-online-document-access)<!-- TECH:END -->
+ - [Bloody Marys Taste Better on an Airplane. One Expert Explains Why     - CNET](https://www.cnet.com/news/why-bloody-mary-tastes-so-much-better-on-an-airplane/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

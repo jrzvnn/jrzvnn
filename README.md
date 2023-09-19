@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York DFS revamps its virtual currency oversight regime and removes two dozen tokens from its &quot;greenlist&quot;, including Ripple, Dogecoin, and Litecoin &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230919/p4#a230919p4)
  - [Blockchain Capital raised a total of $580M for two separate VC funds and says the focus of the new funds will be on sectors including DeFi and blockchain gaming &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230919/p3#a230919p3)
  - [Twitter, now X, moving towards becoming paid for all users](https://www.androidauthority.com/x-twitter-paid-subscription-3365627/)
  - [A US federal judge rejects SEC&#39;s request to inspect Binance.US&#39; technological infrastructure, and to force the company to share other requested information &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/230919/p2#a230919p2)
- - [A group of 18 state AGs backs Montana&#39;s effort to ban TikTok, urging a US judge to reject legal challenges ahead of the January 1, 2024, effective date &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230919/p1#a230919p1)
- - [Location and mapping platform Mapbox raised $280M led by SoftBank, sources say at a ~$1.3B pre-money valuation; PitchBook: Mapbox had previously raised $360M &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/230918/p36#a230918p36)<!-- TECH:END -->
+ - [A group of 18 state AGs backs Montana&#39;s effort to ban TikTok, urging a US judge to reject legal challenges ahead of the January 1, 2024, effective date &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230919/p1#a230919p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

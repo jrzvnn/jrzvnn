@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Hong Kong police arrested six following allegations of fraud at unlicensed crypto exchange JPEX, the government plans to tighten its crypto regulations &lpar;Zen Soo/Associated Press&rpar;](http://www.techmeme.com/230919/p11#a230919p11)
- - [FTC v. Microsoft: docs show Microsoft&#39;s gaming plans for 2028, aiming for &quot;full convergence&quot; of its cloud platform and hardware to deliver &quot;cloud hybrid games&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p10#a230919p10)
- - [This upcoming mid-range smartphone will democratize IP68 water resistance](https://www.androidauthority.com/xiaomi-redmi-note-13-pro-plus-ip68-rating-3365648/)
- - [From CPU to design, more Pixel 9 processor details leak](https://www.androidauthority.com/google-pixel-9-tensor-g4-cpu-leak-3365647/)
- - [Xbox leak: new Xbox Series X design, next-gen in 2028, and more](https://www.theverge.com/2023/9/19/23880165/xbox-leak-ftc-documents-new-xbox-series-x-controller-next-gen)<!-- TECH:END -->
+ - [A look at Panos Panay&#39;s impact on Microsoft and Surface, paving the way for OEMs to focus on quality 2-in-1s, and the executives taking over parts of his role &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p12#a230919p12)
+ - [Google’s Bard chatbot can now find answers in your Gmail, Docs, Drive](https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions)
+ - [A giant &lpar;accidental&rpar; leak has revealed new Xbox consoles, and more](https://www.androidauthority.com/microsoft-refreshed-xbox-series-x-series-s-leak-3365675/)
+ - [Google Bard now works with your Google account and related apps](https://www.androidauthority.com/google-bard-extensions-3365657/)
+ - [Crispr Pioneer Jennifer Doudna Has the Guts to Take On the Microbiome](https://www.wired.com/story/crispr-jennifer-doudna-microbiome/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

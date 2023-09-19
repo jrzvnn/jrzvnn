@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel says its fifth-gen Emerald Rapids Xeon will arrive on December 14, and announces a Sierra Forest Xeon processor with 288 E-cores launching in 2024 &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230919/p39#a230919p39)
+ - [Your iPhone can now restore your Apple TV if the streaming box has problems](https://www.theverge.com/2023/9/19/23880671/apple-tv-4k-hd-iphone-restore-recovery)
+ - [The Fire TV should be at the heart of Amazon’s smart home](https://www.theverge.com/2023/9/19/23880495/amazon-fire-tv-alexa-smart-home-hardware-event)
  - [Toyota is making AI-trained breakfast bots in a ‘kindergarten for robots’](https://www.theverge.com/2023/9/19/23880507/toyota-research-ai-robots-breakfast)
- - [The iPhone 14’s repairability issues are causing repair professionals to quit](https://www.androidauthority.com/iphone-14-repair-issues-3365869/)
- - [iOS 17 is probably hitting your battery hard today -- but that&#39;s expected](https://appleinsider.com/articles/23/09/19/ios-17-is-probably-hitting-your-battery-hard-today----but-thats-expected?utm_medium=rss)
- - [TikTok introduces a way to label AI-generated content](https://www.theverge.com/2023/9/19/23880630/tiktok-ai-generated-content-label-effects-filters)
- - [Read the full unredacted email where Microsoft reacts to Sony’s PS5 reveal](https://www.theverge.com/2023/9/19/23880635/microsoft-ps5-reveal-email-xbox-nadella-spencer)<!-- TECH:END -->
+ - [The iPhone 14’s repairability issues are causing repair professionals to quit](https://www.androidauthority.com/iphone-14-repair-issues-3365869/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

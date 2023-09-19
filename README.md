@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Read the full unredacted email where Microsoft reacts to Sony’s PS5 reveal](https://www.theverge.com/2023/9/19/23880635/microsoft-ps5-reveal-email-xbox-nadella-spencer)
+ - [Instacart shares open up 40% on Nasdaq at $42, valuing the grocery delivery company at about $14B &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230919/p38#a230919p38)
  - [UK&#39;s parliament passes the Online Safety Bill, paving the way for Royal Assent and the bill becoming law in the coming days &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230919/p37#a230919p37)
  - [Fitbit app redesign is rolling out now to all users](https://www.androidauthority.com/fitbit-app-redesign-2023-3365874/)
- - [Amazon plans to hire 250,000 US staff to help manage the holidays, up from 150,000 in 2022, and bumps the average hourly pay for warehouse and delivery workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230919/p36#a230919p36)
- - [H&amp;M is the latest brand to charge for returns — and that might be good for the planet](https://www.theverge.com/2023/9/19/23880439/h-m-free-returns-ends-climate-change-pollution-waste)
- - [High Blood Pressure Is the World’s Biggest Killer. Now There’s a Plan to Tackle It](https://www.wired.com/story/high-blood-pressure-is-the-worlds-biggest-killer-now-theres-a-plan-to-tackle-it/)<!-- TECH:END -->
+ - [Amazon plans to hire 250,000 US staff to help manage the holidays, up from 150,000 in 2022, and bumps the average hourly pay for warehouse and delivery workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230919/p36#a230919p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

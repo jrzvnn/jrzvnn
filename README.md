@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read the full unredacted email where Microsoft reacts to Sony’s PS5 reveal](https://www.theverge.com/2023/9/19/23880635/microsoft-ps5-reveal-email-xbox-nadella-spencer)
- - [Instacart shares open up 40% on Nasdaq at $42, valuing the grocery delivery company at about $14B &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/230919/p38#a230919p38)
- - [UK&#39;s parliament passes the Online Safety Bill, paving the way for Royal Assent and the bill becoming law in the coming days &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230919/p37#a230919p37)
- - [Fitbit app redesign is rolling out now to all users](https://www.androidauthority.com/fitbit-app-redesign-2023-3365874/)
- - [Amazon plans to hire 250,000 US staff to help manage the holidays, up from 150,000 in 2022, and bumps the average hourly pay for warehouse and delivery workers &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230919/p36#a230919p36)<!-- TECH:END -->
+ - [Toyota is making AI-trained breakfast bots in a ‘kindergarten for robots’](https://www.theverge.com/2023/9/19/23880507/toyota-research-ai-robots-breakfast)
+ - [The iPhone 14’s repairability issues are causing repair professionals to quit](https://www.androidauthority.com/iphone-14-repair-issues-3365869/)
+ - [iOS 17 is probably hitting your battery hard today -- but that&#39;s expected](https://appleinsider.com/articles/23/09/19/ios-17-is-probably-hitting-your-battery-hard-today----but-thats-expected?utm_medium=rss)
+ - [TikTok introduces a way to label AI-generated content](https://www.theverge.com/2023/9/19/23880630/tiktok-ai-generated-content-label-effects-filters)
+ - [Read the full unredacted email where Microsoft reacts to Sony’s PS5 reveal](https://www.theverge.com/2023/9/19/23880635/microsoft-ps5-reveal-email-xbox-nadella-spencer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

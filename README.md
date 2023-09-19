@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Fortnite&#39; refund applications open for $245M Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)
  - [The UK passes massive online safety bill](https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill)
  - [Snag high-performance Apple gear with savings of up to $1,800 off this week at B&amp;H](https://appleinsider.com/articles/23/09/19/snag-high-performance-apple-gear-with-savings-of-up-to-1800-off-this-week-at-bh?utm_medium=rss)
  - [Neuralink is recruiting subjects for the first human trial of its brain-computer interface](https://www.theverge.com/2023/9/19/23880861/neuralink-human-clinical-trial-n1-implant)
- - [Final Cut Pro, iMovie, Compressor, and Motion get updates for iPhone 15 Pro](https://appleinsider.com/articles/23/09/19/final-cut-pro-imovie-compressor-and-motion-get-updates-for-iphone-15-pro?utm_medium=rss)
- - [The best stuff Sam Bankman-Fried’s parents bought using FTX money](https://www.theverge.com/2023/9/19/23880783/bankman-fried-ftx-lawsuit-clawback)<!-- TECH:END -->
+ - [Final Cut Pro, iMovie, Compressor, and Motion get updates for iPhone 15 Pro](https://appleinsider.com/articles/23/09/19/final-cut-pro-imovie-compressor-and-motion-get-updates-for-iphone-15-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

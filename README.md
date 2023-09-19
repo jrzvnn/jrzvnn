@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alcion, which offers &quot;backup-as-a-service&quot; tools to enterprise, raised a $21M Series A led by Insight Partners-owned IT company Veeam, for $29M in total funding &lpar;Justin Warren/Forbes&rpar;](http://www.techmeme.com/230919/p24#a230919p24)
  - [Tel Aviv-based Cato Networks, which offers tools to protect remote workforces, raised $238M led by Lightspeed at a $3B+ valuation, for $770M in total funding &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230919/p23#a230919p23)
  - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)
  - [Interviews with 15 current and former employees at Amazon&#39;s Lab126 hardware unit describe low morale after layoffs and fears over a weak development pipeline &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/230919/p22#a230919p22)
- - [Netgear’s expensive new Orbi might have the cure to mesh Wi-Fi’s weakest link](https://www.theverge.com/2023/9/19/23880239/netgear-orbi-970-mesh-wifi-7-router-system-price)
- - [AT&amp;T helped connect the first satellite 5G phone call](https://www.theverge.com/2023/9/19/23879527/att-cellular-satellite-ast-spacemobile-5g)<!-- TECH:END -->
+ - [Netgear’s expensive new Orbi might have the cure to mesh Wi-Fi’s weakest link](https://www.theverge.com/2023/9/19/23880239/netgear-orbi-970-mesh-wifi-7-router-system-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

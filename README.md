@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro &amp; iPhone 15 Pro Max review roundup: Titanium, Camera, and USB-C](https://appleinsider.com/articles/23/09/19/iphone-15-pro-iphone-15-pro-max-review-roundup-titanium-camera-and-usb-c?utm_medium=rss)
+ - [After over 100 internal Microsoft documents leaked, the FTC says that &quot;Microsoft was responsible for the error in uploading these documents to the court&quot; &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230919/p28#a230919p28)
  - [The HONOR V Purse is now a commercial phone, but you should wait for the V2](https://www.androidauthority.com/honor-v-purse-china-launch-3365830/)
  - [Amazon announces a new version of Just Walk Out for clothing retailers, using RFID tags to track apparel; the previous system relied on ceiling-mounted cameras &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/230919/p27#a230919p27)
- - [Apple iPhone 15 and 15 Plus review: comfortable to hold, Dynamic Island, great performance, and helpful camera features, but no always-on display or ProMotion &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230919/p26#a230919p26)
- - [Apple iPhone 15 Pro and Pro Max review: USB-C, lighter, nicer to hold, useful Action Button, and camera improvements, but no 5x telephoto on the smaller Pro &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230919/p25#a230919p25)
- - [Dream Scenario’s new trailer makes viral fame seem like the nightmare it is](https://www.theverge.com/23879579/a24-dream-scenario-trailer)<!-- TECH:END -->
+ - [Apple iPhone 15 and 15 Plus review: comfortable to hold, Dynamic Island, great performance, and helpful camera features, but no always-on display or ProMotion &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230919/p26#a230919p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

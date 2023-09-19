@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
- - 💣 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
- - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
- - 👉 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)<!-- MEMES:END -->
+ - 😝 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
+ - 😝 [You know what\u2026?](http://9gag.com/gag/aL1ODeg)
+ - 💣 [Strong women getting offended by silly jokes is hilarious](http://9gag.com/gag/aOxnz8r)
+ - 😝 [`invisible` we men want to welcome you to the real world...](http://9gag.com/gag/aOxnzNM)
+ - 👉 [Justice Served..](http://9gag.com/gag/ay2m8YY)<!-- MEMES:END -->
 
 ---
 

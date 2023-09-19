@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Ban: Montana&#39;s Attempt Backed by Group Representing 18 States     - CNET](https://www.cnet.com/tech/mobile/tiktok-ban-montanas-attempt-backed-by-group-representing-18-states/#ftag=CAD590a51e)
  - [The Biggest Revelations From the Microsoft Xbox Leaks](https://www.wired.com/story/ftc-microsoft-leaks-xbox/)
  - [The case for creating new art for every podcast episode](https://www.theverge.com/2023/9/19/23881340/apple-podcasts-episode-art-rss-ios-17)
- - [Justice Department and Google spar over public access to antitrust trial files](https://www.theverge.com/2023/9/19/23881283/google-justice-department-antitrust-search-trial-online-document-access)
- - [Signal announces PQXDH, a new cryptographic specification meant as a first step to advance quantum resistance for the Signal Protocol &lpar;Ehren Kret/Signal&rpar;](http://www.techmeme.com/230919/p46#a230919p46)
- - [Roblox is rolling out in-experience subscriptions, but you can’t buy them yet](https://www.theverge.com/2023/9/19/23881336/roblox-in-experience-subscriptions-developers)<!-- TECH:END -->
+ - [Bloody Marys Taste Better on an Airplane. One Expert Explains Why     - CNET](https://www.cnet.com/news/why-bloody-mary-tastes-so-much-better-on-an-airplane/#ftag=CAD590a51e)
+ - [Justice Department and Google spar over public access to antitrust trial files](https://www.theverge.com/2023/9/19/23881283/google-justice-department-antitrust-search-trial-online-document-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

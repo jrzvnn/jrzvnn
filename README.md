@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [H&amp;M is the latest brand to charge for returns — and that might be good for the planet](https://www.theverge.com/2023/9/19/23880439/h-m-free-returns-ends-climate-change-pollution-waste)
+ - [High Blood Pressure Is the World’s Biggest Killer. Now There’s a Plan to Tackle It](https://www.wired.com/story/high-blood-pressure-is-the-worlds-biggest-killer-now-theres-a-plan-to-tackle-it/)
  - [Score a $500 credit when you pre-order this elite Samsung 57-inch monitor](https://www.androidauthority.com/samsung-57-inch-odyssey-neo-g9-monitor-deal-3365861/)
  - [Austin-based HiddenLayer, which focuses on hardening the security of AI models used by companies, raised a $50M Series A led by M12 and Moore Strategic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p35#a230919p35)
- - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)
- - [Google DeepMind details its new AlphaMissense AI, which predicts if mutations in human genes are likely to be harmful, an example of AI accelerating diagnosis &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230919/p34#a230919p34)
- - [After 10 years covering startups, former TechCrunch editor-in-chief Matthew Panzarino tells us what’s next](https://www.theverge.com/23880330/matthew-panzarino-techcrunch-eic-digital-media-ai-google-disrupt-decoder)<!-- TECH:END -->
+ - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

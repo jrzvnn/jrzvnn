@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 😝 [The lamb looks great](http://9gag.com/gag/avQBPKW)
- - 💣 [IPhone15](http://9gag.com/gag/aXnm9Nd)
+ - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
  - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
- - 👉 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)<!-- MEMES:END -->
+ - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
 
 ---
 

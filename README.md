@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
+ - 😝 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
+ - 💣 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
  - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
- - 💣 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
- - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 👉 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)<!-- MEMES:END -->
+ - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use iPad as a portable screen for your Nintendo Switch](https://appleinsider.com/inside/ipados-17/tips/how-to-use-ipad-as-a-portable-monitor-for-your-nintendo-switch?utm_medium=rss)
  - [NASA&#39;s New Moon Mosaic Lets You Peer Deep Into Shackleton Center     - CNET](https://www.cnet.com/science/space/nasas-new-moon-mosaic-lets-you-peer-deep-into-shackleton-center/#ftag=CAD590a51e)
  - [Microsoft’s new Xbox controller borrows great ideas from Stadia, Steam, and Sony](https://www.theverge.com/2023/9/19/23880809/microsoft-xbox-leak-gamepad-sebile-stadia-steam-sony)
  - [Notifications in iOS 17 are too quiet, and there&#39;s nothing you can do about it](https://appleinsider.com/articles/23/09/19/notifications-in-ios-17-are-too-quiet-and-theres-nothing-you-can-do-about-it?utm_medium=rss)
- - [Best MacBook Deals: $200 Off Latest M2 Models and More     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [The 21 Coolest Halloween Decorations You Can Buy Now     - CNET](https://www.cnet.com/news/the-coolest-halloween-decorations-you-can-buy-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MacBook Deals: $200 Off Latest M2 Models and More     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score a $500 credit when you pre-order this elite Samsung 57-inch monitor](https://www.androidauthority.com/samsung-57-inch-odyssey-neo-g9-monitor-deal-3365861/)
+ - [Austin-based HiddenLayer, which focuses on hardening the security of AI models used by companies, raised a $50M Series A led by M12 and Moore Strategic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p35#a230919p35)
+ - [How to set slow-motion screensavers in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-set-slow-motion-screensavers-in-macos-sonoma?utm_medium=rss)
  - [Google DeepMind details its new AlphaMissense AI, which predicts if mutations in human genes are likely to be harmful, an example of AI accelerating diagnosis &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/230919/p34#a230919p34)
- - [After 10 years covering startups, former TechCrunch editor-in-chief Matthew Panzarino tells us what’s next](https://www.theverge.com/23880330/matthew-panzarino-techcrunch-eic-digital-media-ai-google-disrupt-decoder)
- - [Intel announces Meteor Lake, its first chips to use its new chiplet architecture, offering CPUs using the Intel 4 process node, ahead of a December 14 &quot;launch&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p33#a230919p33)
- - [Getting Snoopy on Apple Watch was more challenging than you&#39;d think](https://appleinsider.com/articles/23/09/19/how-snoopy-made-it-onto-the-apple-watch?utm_medium=rss)
- - [The Galaxy S22 is the next in line to get the One UI 6 beta](https://www.androidauthority.com/galaxy-s22-one-ui-6-beta-3365853/)<!-- TECH:END -->
+ - [After 10 years covering startups, former TechCrunch editor-in-chief Matthew Panzarino tells us what’s next](https://www.theverge.com/23880330/matthew-panzarino-techcrunch-eic-digital-media-ai-google-disrupt-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

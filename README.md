@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lamb looks great](http://9gag.com/gag/avQBPKW)
- - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
- - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
+ - 😝 [Drunk people who act like this deserve to get knocked out. Gender is irrelevant,if you can&#39;t hold your liquor then drink less. Alcohol doesn&#39;t excuse you from acting poorly and hurting others.](http://9gag.com/gag/a6qebL2)
+ - 😝 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
+ - 💣 [Title lol](http://9gag.com/gag/a5X9Z3r)
+ - 😝 [Dont forget your pills today](http://9gag.com/gag/a9q4YRm)
+ - 👉 [Well done 9gag!](http://9gag.com/gag/a8qv44V)<!-- MEMES:END -->
 
 ---
 

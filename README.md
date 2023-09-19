@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple brings Dynamic Island, 48MP camera, and pink to the iPhone 15](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)
- - [Crowdstrike confirms acquiring Bionic, which analyzes a company&#39;s tech and IT to find vulnerabilities, sources say for $350M; Bionic has raised $82M in total &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230919/p29#a230919p29)
  - [iPhone 15 Pro &amp; iPhone 15 Pro Max review roundup: Titanium, Camera, and USB-C](https://appleinsider.com/articles/23/09/19/iphone-15-pro-iphone-15-pro-max-review-roundup-titanium-camera-and-usb-c?utm_medium=rss)
- - [Digimarc adds copyright information to digital data](https://www.theverge.com/2023/9/19/23879555/digimarc-copyright-watermark-generative-ai)
- - [After over 100 internal Microsoft documents leaked, the FTC says that &quot;Microsoft was responsible for the error in uploading these documents to the court&quot; &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/230919/p28#a230919p28)<!-- TECH:END -->
+ - [Apple brings Dynamic Island, 48MP camera, and pink to the iPhone 15](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)
+ - [Google quietly raised ad prices to boost search revenue, says executive](https://www.theverge.com/2023/9/19/23880275/google-search-ads-competition-auction-prices-doj-trial-antitrust)
+ - [What to expect from Microsoft&#39;s Surface and AI event: Surface Laptop Studio 2, Surface Go 4 and Laptop Go 3, and AI updates for Windows, Surface, and Office &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p30#a230919p30)
+ - [Forget the Pro Max, the iPhone 15 is the most overpriced iPhone](https://www.androidauthority.com/iphone-15-overpriced-3364796/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

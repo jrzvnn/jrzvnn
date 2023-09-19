@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helicopter incoming...](http://9gag.com/gag/ay2mLLY)
- - 😝 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
- - 💣 [IPhone15](http://9gag.com/gag/aXnm9Nd)
- - 😝 [I&#39;d like to take a loan to start my own sex slave plantation](http://9gag.com/gag/a4oBjeZ)
- - 👉 [Ahh, substances as a substitute for relationships, especially with oneself.. Too bad that humans can even identify with abstractions...](http://9gag.com/gag/armDNz7)<!-- MEMES:END -->
+ - 😝 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
+ - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 💣 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
+ - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
+ - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
 
 ---
 

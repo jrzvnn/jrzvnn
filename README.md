@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
  - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 💣 [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 👉 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)<!-- MEMES:END -->
+ - 💣 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 👉 [One of the best scenes](http://9gag.com/gag/a04DbYO)<!-- MEMES:END -->
 
 ---
 

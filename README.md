@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
+ - 😝 [Work, work, work, work, work, work](http://9gag.com/gag/ap9nvbB)
  - 😝 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
  - 💣 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
- - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
+ - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [IPhone15](http://9gag.com/gag/aXnm9Nd)
+ - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
+ - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
  - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
- - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
- - 👉 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)<!-- MEMES:END -->
+ - 👉 [Justice Served..](http://9gag.com/gag/ay2m8YY)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man doesn\u2019t cook only meals\u2026 he cooks also beats](http://9gag.com/gag/aBdb1jN)
+ - 😝 [Helicopter incoming...](http://9gag.com/gag/ay2mLLY)
  - 😝 [I wonder why he was #metoo](http://9gag.com/gag/aOxnVD6)
  - 💣 [IPhone15](http://9gag.com/gag/aXnm9Nd)
  - 😝 [I&#39;d like to take a loan to start my own sex slave plantation](http://9gag.com/gag/a4oBjeZ)
- - 👉 [One of the best scenes](http://9gag.com/gag/a04DbYO)<!-- MEMES:END -->
+ - 👉 [Ahh, substances as a substitute for relationships, especially with oneself.. Too bad that humans can even identify with abstractions...](http://9gag.com/gag/armDNz7)<!-- MEMES:END -->
 
 ---
 

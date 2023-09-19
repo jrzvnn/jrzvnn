@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
- - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 👉 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)<!-- MEMES:END -->
+ - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 💣 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
+ - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
+ - 👉 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)<!-- MEMES:END -->
 
 ---
 

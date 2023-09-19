@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new Amex card works with SmartThings Find, but it’s only in South Korea](https://www.theverge.com/2023/9/19/23880369/samsungs-amex-card-smartthings-find-south-korea)
+ - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/inside/iphone/tips/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)
+ - [An iPhone running iOS 17 can be used to recover a bricked Apple TV](https://appleinsider.com/articles/23/09/19/an-iphone-running-ios-17-can-be-used-to-recover-a-bricked-apple-tv?utm_medium=rss)
  - [After Hong Kong&#39;s police arrested six following allegations of fraud at unlicensed crypto exchange JPEX, the government plans to tighten its crypto regulations &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230919/p31#a230919p31)
- - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)
- - [How to get Double Tap on your existing Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-get-double-tap-on-your-existing-apple-watch?utm_medium=rss)
- - [DeepMind’s New AI Can Predict Genetic Diseases](https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/)
- - [Chan Zuckerberg Initiative is building an expensive new AI GPU cluster for medical research](https://www.theverge.com/2023/9/19/23880277/chan-zuckerberg-foundation-funds-ai-gpu-medical-research)<!-- TECH:END -->
+ - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

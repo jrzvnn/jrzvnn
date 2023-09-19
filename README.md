@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IPhone15](http://9gag.com/gag/aXnm9Nd)
- - 😝 [Ahh, substances as a substitute for relationships, especially with oneself.. Too bad that humans can even identify with abstractions...](http://9gag.com/gag/armDNz7)
- - 💣 [Drunk people who act like this deserve to get knocked out. Gender is irrelevant,if you can&#39;t hold your liquor then drink less. Alcohol doesn&#39;t excuse you from acting poorly and hurting others.](http://9gag.com/gag/a6qebL2)
- - 😝 [Title lol](http://9gag.com/gag/a5X9Z3r)
- - 👉 [Many such cases!](http://9gag.com/gag/aPgVWRn)<!-- MEMES:END -->
+ - 😝 [I could watch this for hours](http://9gag.com/gag/aGErw20)
+ - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - 💣 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
+ - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
 
 ---
 

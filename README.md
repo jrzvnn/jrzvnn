@@ -156,7 +156,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [After Hong Kong police arrested six following allegations of fraud at unlicensed crypto exchange JPEX, the government plans to tighten its crypto regulations &lpar;Zen Soo/Associated Press&rpar;](http://www.techmeme.com/230919/p11#a230919p11)
- - [FTC v. Microsoft: docs show Microsoft&#39;s gaming plans to 2028, aiming for a &quot;full convergence&quot; of its cloud platform and hardware to deliver &quot;cloud hybrid games&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p10#a230919p10)
+ - [FTC v. Microsoft: docs show Microsoft&#39;s gaming plans for 2028, aiming for &quot;full convergence&quot; of its cloud platform and hardware to deliver &quot;cloud hybrid games&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230919/p10#a230919p10)
  - [This upcoming mid-range smartphone will democratize IP68 water resistance](https://www.androidauthority.com/xiaomi-redmi-note-13-pro-plus-ip68-rating-3365648/)
  - [From CPU to design, more Pixel 9 processor details leak](https://www.androidauthority.com/google-pixel-9-tensor-g4-cpu-leak-3365647/)
  - [Xbox leak: new Xbox Series X design, next-gen in 2028, and more](https://www.theverge.com/2023/9/19/23880165/xbox-leak-ftc-documents-new-xbox-series-x-controller-next-gen)<!-- TECH:END -->

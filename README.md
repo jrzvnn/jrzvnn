@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
  - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
  - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
- - 💣 [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 👉 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)<!-- MEMES:END -->
+ - 👉 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)<!-- MEMES:END -->
 
 ---
 

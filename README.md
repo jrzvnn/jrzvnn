@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)
  - [How to get Double Tap on your existing Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-get-double-tap-on-your-existing-apple-watch?utm_medium=rss)
  - [DeepMind’s New AI Can Predict Genetic Diseases](https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/)
  - [Chan Zuckerberg Initiative is building an expensive new AI GPU cluster for medical research](https://www.theverge.com/2023/9/19/23880277/chan-zuckerberg-foundation-funds-ai-gpu-medical-research)
- - [Reviewers praise iPhone 15&#39;s Dynamic Island, 48MP camera, and pink color](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)
- - [iPhone 15 exceeding sales expectations in China with many retailers selling out in minutes](https://appleinsider.com/articles/23/09/19/iphone-15-exceeding-sales-expectations-in-china-with-many-retailers-selling-out-in-minutes?utm_medium=rss)<!-- TECH:END -->
+ - [Reviewers praise iPhone 15&#39;s Dynamic Island, 48MP camera, and pink color](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

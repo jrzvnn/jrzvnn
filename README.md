@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [WTF?!](http://9gag.com/gag/ap9nL1n)
- - 💣 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
- - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 👉 [Help me](http://9gag.com/gag/a8qvjK6)<!-- MEMES:END -->
+ - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
+ - 😝 [A man burned a stranger&#39;s hair for no reason in Turkey](http://9gag.com/gag/az2vVLz)
+ - 💣 [WTF?!](http://9gag.com/gag/ap9nL1n)
+ - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drunk people who act like this deserve to get knocked out. Gender is irrelevant,if you can&#39;t hold your liquor then drink less. Alcohol doesn&#39;t excuse you from acting poorly and hurting others.](http://9gag.com/gag/a6qebL2)
- - 😝 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
- - 💣 [Title lol](http://9gag.com/gag/a5X9Z3r)
- - 😝 [Dont forget your pills today](http://9gag.com/gag/a9q4YRm)
- - 👉 [Well done 9gag!](http://9gag.com/gag/a8qv44V)<!-- MEMES:END -->
+ - 😝 [Just a few lines, nothing else](http://9gag.com/gag/aOxnmp3)
+ - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 💣 [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
 
 ---
 

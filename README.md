@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates Bard to use data from Gmail, Docs, and Drive, not just the web, to help find and summarize emails, highlight points in a document, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230919/p14#a230919p14)
+ - [How to use the new mental health features in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)
+ - [A look at ShadowDragon, which offers social media surveillance tools that gather data from games and more, used by ICE, the State Department, the DEA, and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230919/p13#a230919p13)
  - [A look at Panos Panay&#39;s impact on Microsoft and Surface, paving the way for OEMs to focus on quality 2-in-1s, and the executives taking over parts of his role &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p12#a230919p12)
- - [Google’s Bard chatbot can now find answers in your Gmail, Docs, Drive](https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions)
- - [A giant &lpar;accidental&rpar; leak has revealed new Xbox consoles, and more](https://www.androidauthority.com/microsoft-refreshed-xbox-series-x-series-s-leak-3365675/)
- - [Google Bard now works with your Google account and related apps](https://www.androidauthority.com/google-bard-extensions-3365657/)
- - [Crispr Pioneer Jennifer Doudna Has the Guts to Take On the Microbiome](https://www.wired.com/story/crispr-jennifer-doudna-microbiome/)<!-- TECH:END -->
+ - [Google’s Bard chatbot can now find answers in your Gmail, Docs, Drive](https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

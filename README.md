@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Getting Snoopy on Apple Watch was more challenging than you&#39;d think](https://appleinsider.com/articles/23/09/19/how-snoopy-made-it-onto-the-apple-watch?utm_medium=rss)
+ - [The Galaxy S22 is the next in line to get the One UI 6 beta](https://www.androidauthority.com/galaxy-s22-one-ui-6-beta-3365853/)
  - [Intel will launch Meteor Lake on December 14th — this is Intel’s Core Ultra](https://www.theverge.com/2023/9/19/23872888/intel-meteor-lake-core-ultra-date-chip-specs-details)
  - [Notifications in iOS 17 are too quiet, and there&#39;s nothing you can do about it](https://appleinsider.com/articles/23/09/19/notifications-in-ios-17-are-too-quiet-and-theres-nothing-you-can-do-about-it?utm_medium=rss)
- - [The Chan Zuckerberg Initiative is funding an AI GPU cluster made up of 1K+ Nvidia H100 GPUs to run &quot;openly available&quot; models of human cells for medical research &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230919/p32#a230919p32)
- - [Samsung’s new Amex card works with SmartThings Find, but it’s only in South Korea](https://www.theverge.com/2023/9/19/23880369/samsungs-amex-card-smartthings-find-south-korea)
- - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/inside/iphone/tips/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)<!-- TECH:END -->
+ - [The Chan Zuckerberg Initiative is funding an AI GPU cluster made up of 1K+ Nvidia H100 GPUs to run &quot;openly available&quot; models of human cells for medical research &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/230919/p32#a230919p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

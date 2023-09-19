@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)
- - 😝 [IPhone15](http://9gag.com/gag/aXnm9Nd)
- - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 😝 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
  - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - 👉 [What is this creature](http://9gag.com/gag/avQBL6Z)<!-- MEMES:END -->
+ - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
 
 ---
 

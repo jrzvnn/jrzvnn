@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Hong Kong&#39;s police arrested six following allegations of fraud at unlicensed crypto exchange JPEX, the government plans to tighten its crypto regulations &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230919/p31#a230919p31)
  - [YouTube stops letting Russell Brand earn money on the platform](https://www.theverge.com/2023/9/19/23880337/russell-brand-youtube-demonetize-channel-allegations)
  - [How to get Double Tap on your existing Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-get-double-tap-on-your-existing-apple-watch?utm_medium=rss)
  - [DeepMind’s New AI Can Predict Genetic Diseases](https://www.wired.com/story/deepmind-ai-alphamissense-genetics-rare-diseases/)
- - [Chan Zuckerberg Initiative is building an expensive new AI GPU cluster for medical research](https://www.theverge.com/2023/9/19/23880277/chan-zuckerberg-foundation-funds-ai-gpu-medical-research)
- - [Reviewers praise iPhone 15&#39;s Dynamic Island, 48MP camera, and pink color](https://appleinsider.com/articles/23/09/19/apple-brings-dynamic-island-48mp-camera-and-pink-to-the-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Chan Zuckerberg Initiative is building an expensive new AI GPU cluster for medical research](https://www.theverge.com/2023/9/19/23880277/chan-zuckerberg-foundation-funds-ai-gpu-medical-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

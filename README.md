@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A group of 18 state AGs backs Montana&#39;s effort to ban TikTok, urging a US judge to reject legal challenges ahead of the January 1, 2024, effective date &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230919/p1#a230919p1)
  - [Location and mapping platform Mapbox raised $280M led by SoftBank, sources say at a ~$1.3B pre-money valuation; PitchBook: Mapbox had previously raised $360M &lpar;Leo Lewis/Financial Times&rpar;](http://www.techmeme.com/230918/p36#a230918p36)
  - [SMIC&#39;s gross margins halved in H1 2023, as it poured $345M, or 11.4% of revenue, into research and development; SMIC reported $111M in state grants in H1 2023 &lpar;Katrina Hamlin/Reuters&rpar;](http://www.techmeme.com/230918/p35#a230918p35)
  - [Levelpath, which provides enterprise procurement services, raised a $30M Series A led by Redpoint, following an unannounced $14.5M seed led by Benchmark &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230918/p34#a230918p34)
- - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Browns vs. Steelers, Saints vs. Panthers Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-browns-vs-steelers-saints-vs-panthers-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wi-Fi 6 Router of 2023     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resident Evil Village on the iPhone 15 Pro actually looks pretty good](https://www.theverge.com/2023/9/19/23880782/iphone-15-pro-resident-evil-village-gaming)
  - [Fitbit updates its app and teases something for September 28th](https://www.theverge.com/2023/9/19/23881151/fitbit-charge-6-updates-app-september)
  - [In a memo, Phil Spencer tells staff the FTC v. Microsoft documents leak is &quot;disappointing&quot; and Microsoft failed to live up to its confidentiality expectations &lpar;The Verge&rpar;](http://www.techmeme.com/230919/p44#a230919p44)
  - [Amazon made a new version of its cashierless tech that doesn’t need cameras](https://www.theverge.com/2023/9/19/23881052/amazon-just-walk-out-rfid-cashierless-tech)
- - [Microsoft addresses the huge Xbox leaks: here’s Phil Spencer’s full memo](https://www.theverge.com/2023/9/19/23881174/microsoft-xbox-leak-gaming-phil-spencer-memo)
- - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft addresses the huge Xbox leaks: here’s Phil Spencer’s full memo](https://www.theverge.com/2023/9/19/23881174/microsoft-xbox-leak-gaming-phil-spencer-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

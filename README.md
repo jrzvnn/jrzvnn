@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nest devices get major restrictive change as part of legal challenge](https://www.androidauthority.com/google-nest-multiple-speaker-groups-3365632/)
  - [Governor Katie Hobbs says TSMC and Arizona authorities are talking about adding advanced chip packaging capacity to the chipmaker&#39;s plants in the state &lpar;Bloomberg&rpar;](http://www.techmeme.com/230919/p6#a230919p6)
  - [Universal Music Declares War on Streaming Noise](https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise/)
  - [This is Microsoft’s new disc-less Xbox Series X design with a new controller](https://www.theverge.com/2023/9/19/23880111/microsoft-xbox-series-x-new-design-refresh)
- - [Filing: FTX sues SBF&#39;s parents, Joseph Bankman and Barbara Fried, to &quot;recover millions of dollars in fraudulently transferred and misappropriated funds&quot; &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230919/p5#a230919p5)
- - [The New York DFS revamps its virtual currency oversight regime and removes two dozen tokens from its &quot;greenlist&quot;, including Ripple, Dogecoin, and Litecoin &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230919/p4#a230919p4)<!-- TECH:END -->
+ - [Filing: FTX sues SBF&#39;s parents, Joseph Bankman and Barbara Fried, to &quot;recover millions of dollars in fraudulently transferred and misappropriated funds&quot; &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230919/p5#a230919p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

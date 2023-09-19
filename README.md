@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Watch 2 could borrow key features from the Fitbit Sense 2](https://www.androidauthority.com/google-pixel-watch-2-temperature-measurement-personal-safety-stress-tracking-features-3365633/)
+ - [Microsoft documents leak new Bethesda games, including an Oblivion remaster](https://www.theverge.com/2023/9/19/23880132/microsoft-ftc-documents-leak-oblivion-fallout-3-remaster-doom-xbox)
+ - [Logitech’s Yeti GX is a new USB mic with RGB lighting](https://www.theverge.com/2023/9/19/23879633/logitech-yeti-gx-orb-litra-beam-lx-usb-microphone-light-bar-rgb)
  - [Nest devices get major downgrade as part of legal challenge](https://www.androidauthority.com/google-nest-multiple-speaker-groups-3365632/)
- - [Governor Katie Hobbs says TSMC and Arizona authorities are talking about adding advanced chip packaging capacity to the chipmaker&#39;s plants in the state &lpar;Bloomberg&rpar;](http://www.techmeme.com/230919/p6#a230919p6)
- - [Universal Music Declares War on Streaming Noise](https://www.wired.com/story/universal-music-deezer-war-on-streaming-noise/)
- - [This is Microsoft’s new disc-less Xbox Series X design with a new controller](https://www.theverge.com/2023/9/19/23880111/microsoft-xbox-series-x-new-design-refresh)
- - [Filing: FTX sues SBF&#39;s parents, Joseph Bankman and Barbara Fried, to &quot;recover millions of dollars in fraudulently transferred and misappropriated funds&quot; &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/230919/p5#a230919p5)<!-- TECH:END -->
+ - [Governor Katie Hobbs says TSMC and Arizona authorities are talking about adding advanced chip packaging capacity to the chipmaker&#39;s plants in the state &lpar;Bloomberg&rpar;](http://www.techmeme.com/230919/p6#a230919p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From CPU to design, more Pixel 9 processor details leak](https://www.androidauthority.com/google-pixel-9-tensor-g4-cpu-leak-3365647/)
  - [Xbox leak: new Xbox Series X design, next-gen in 2028, and more](https://www.theverge.com/2023/9/19/23880165/xbox-leak-ftc-documents-new-xbox-series-x-controller-next-gen)
  - [Trend Micro: Chinese cyberespionage group Earth Lusca used a new Linux malware dubbed SprySOCKS to target government agencies in multiple countries in H1 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230919/p9#a230919p9)
  - [Microsoft’s next Xbox, coming 2028, envisions hybrid computing](https://www.theverge.com/2023/9/19/23880138/microsoft-xbox-2028-hybrid-cloud-games-platform)
- - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)
- - [FTC v. Microsoft: new documents detail an Xbox Series X refresh in 2024, codenamed Brooklin, including a new controller and cylindrical, disc-less design &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p7#a230919p7)<!-- TECH:END -->
+ - [FTC v. Microsoft: in mid-2020, Phil Spencer discussed acquiring Warner Bros Interactive alongside Bethesda and said buying Nintendo would be a &quot;career moment&quot; &lpar;Push Square&rpar;](http://www.techmeme.com/230919/p8#a230919p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

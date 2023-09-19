@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox is rolling out in-experience subscriptions, but you can’t buy them yet](https://www.theverge.com/2023/9/19/23881336/roblox-in-experience-subscriptions-developers)
  - [iPhone 15 has new battery health controls to prevent charging past 80%](https://appleinsider.com/articles/23/09/19/iphone-15-has-new-battery-health-controls-to-prevent-charging-past-80?utm_medium=rss)
  - [Best Internet Providers in New York, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
  - [You May Be One of the 45 Million US Households Eligible to Choose a New Energy Provider     - CNET](https://www.cnet.com/news/you-may-be-one-of-the-45-million-us-households-eligible-to-choose-a-new-energy-provider/#ftag=CAD590a51e)
- - [We Tried 15 BBQ Sauces. These Are the Best     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [Fitbit teases what could be a Fitbit Charge 6 announcement date](https://www.androidauthority.com/fitbit-charge-6-teaser-3365987/)<!-- TECH:END -->
+ - [We Tried 15 BBQ Sauces. These Are the Best     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

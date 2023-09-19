@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US government official says HUAWEI could be bluffing on Mate 60 Pro chip scale](https://www.androidauthority.com/huawei-mate-60-pro-chip-3365912/)
+ - [US Commerce Secretary Gina Raimondo says there is no evidence that SMIC can make the 7nm Kirin 9000s chips found in the Huawei Mate 60 Pro &quot;at scale&quot; &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/230919/p40#a230919p40)
  - [You can now apply for a refund from Epic Games’ Fortnite FTC settlement](https://www.theverge.com/2023/9/19/23880687/fortnite-ftc-settlement-epic-games-apply)
- - [Epomaker’s TH80 Pro mechanical keyboard is down to just $71.99](https://www.theverge.com/2023/9/19/23878968/epomaker-th80-pro-mechanical-keyboard-8bitdo-ultimate-bluetooth-controller-deal-sale)
- - [Intel says its fifth-gen Emerald Rapids Xeon will arrive on December 14, and announces a Sierra Forest Xeon processor with 288 E-cores launching in 2024 &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230919/p39#a230919p39)
- - [Your iPhone can now restore your Apple TV if the streaming box has problems](https://www.theverge.com/2023/9/19/23880671/apple-tv-4k-hd-iphone-restore-recovery)
- - [The Fire TV should be at the heart of Amazon’s smart home](https://www.theverge.com/2023/9/19/23880495/amazon-fire-tv-alexa-smart-home-hardware-event)<!-- TECH:END -->
+ - [The step-up model of one of our favorite mechanical keyboards is down to just $71.99](https://www.theverge.com/2023/9/19/23878968/epomaker-th80-pro-mechanical-keyboard-8bitdo-ultimate-bluetooth-controller-deal-sale)
+ - [Intel says Emerald Rapids, its fifth-gen Xeon chips, will arrive on December 14, and announces a Sierra Forest Xeon processor with 288 cores launching in 2024 &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230919/p39#a230919p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

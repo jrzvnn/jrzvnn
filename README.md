@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
+ - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - 😝 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - 👉 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)<!-- MEMES:END -->
 
 ---
 

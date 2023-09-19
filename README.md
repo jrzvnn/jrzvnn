@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
+ - 😝 [What do you reckon she&#39;s thinking](http://9gag.com/gag/aL1OM06)
+ - 💣 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
  - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 💣 [Migrants on Lampedusa, Italy are setting up barricades and establishing territorial control over certain areas of the island.](http://9gag.com/gag/axoejb2)
- - 😝 [Ain&#39;t no way \ud83d\ude2d](http://9gag.com/gag/aBdb3AD)
- - 👉 [MK1&#39;s Switch port is something else.](http://9gag.com/gag/aNwGKz0)<!-- MEMES:END -->
+ - 👉 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)<!-- MEMES:END -->
 
 ---
 

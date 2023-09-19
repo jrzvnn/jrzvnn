@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok launches a tool to let creators label AI-generated content and plans to test other ways of labeling such content automatically &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230919/p15#a230919p15)
- - [Google updates Bard to use data from Gmail, Docs, and Drive, not just the web, to help find and summarize emails, highlight points in a document, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230919/p14#a230919p14)
- - [How to use the new mental health features in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-mental-health-logging-in-ios-17?utm_medium=rss)
- - [A look at ShadowDragon, which offers social media surveillance tools that gather data from games and more, used by ICE, the State Department, the DEA, and more &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/230919/p13#a230919p13)
- - [A look at Panos Panay&#39;s impact on Microsoft and Surface, paving the way for OEMs to focus on quality 2-in-1s, and the executives taking over parts of his role &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230919/p12#a230919p12)<!-- TECH:END -->
+ - [iPhone 15 Pro Max versus iPhone 12 Pro Max -- Specs and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-max-versus-iphone-12-pro-max----specs-and-features-compared?utm_medium=rss)
+ - [Okta CSO David Bradbury says five client companies, including MGM and Caesars, were hacked via help desk calls by the ALPHV and Scattered Spider groups &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/230919/p16#a230919p16)
+ - [What to expect from Microsoft’s ‘special’ Surface and AI event](https://www.theverge.com/2023/9/19/23878352/microsoft-surface-ai-event-nyc-laptop-studio-2-go-laptop-go-rumors-leaks)
+ - [Apple revamps iOS 17 App Store with more personalized recommendations](https://appleinsider.com/articles/23/09/19/apple-revamps-ios-17-app-store-with-more-personalized-recommendations?utm_medium=rss)
+ - [TikTok launches a tool to let creators label their AI-generated content and plans to test other ways of labeling such content automatically &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230919/p15#a230919p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

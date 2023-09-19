@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Xbox controller borrows great ideas from Stadia, Steam, and Sony](https://www.theverge.com/2023/9/19/23880809/microsoft-xbox-leak-gamepad-sebile-stadia-steam-sony)
+ - [Notifications in iOS 17 are too quiet, and there&#39;s nothing you can do about it](https://appleinsider.com/articles/23/09/19/notifications-in-ios-17-are-too-quiet-and-theres-nothing-you-can-do-about-it?utm_medium=rss)
  - [WhatsApp appears to be about to launch its long-overdue iPad app](https://www.theverge.com/2023/9/19/23880855/whatsapp-ipad-app-beta)
  - [Mandiant details UNC53, a China-backed group that hacked 29+ global orgs since 2022 by tricking staff into using malware-infected USB drives, mostly in Africa &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230919/p42#a230919p42)
- - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)
- - [The UK passes massive online safety bill](https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill)
- - [Snag high-performance Apple gear with savings of up to $1,800 off this week at B&amp;H](https://appleinsider.com/articles/23/09/19/snag-high-performance-apple-gear-with-savings-of-up-to-1800-off-this-week-at-bh?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Fortnite&#39; refund applications open for $245 million Epic settlement](https://appleinsider.com/articles/23/09/19/fortnite-refund-applications-open-for-245m-epic-settlement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

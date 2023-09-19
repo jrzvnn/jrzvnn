@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [After the moroccan earthquake he found this cave, does anyone know what it is for?](http://9gag.com/gag/aL1OB7M)
- - 😝 [What do you reckon she&#39;s thinking](http://9gag.com/gag/aL1OM06)
+ - 😝 [Hol up. Did not expect that](http://9gag.com/gag/abvL0Qr)
  - 💣 [Single Moms when Texas put a cap on child support](http://9gag.com/gag/aQEDnLd)
- - 😝 [Help me](http://9gag.com/gag/a8qvjK6)
- - 👉 [Forgot to take the Semtex out of his trouser pocket before washing.](http://9gag.com/gag/ajV3nLg)<!-- MEMES:END -->
+ - 😝 [What is this creature](http://9gag.com/gag/avQBL6Z)
+ - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
 
 ---
 

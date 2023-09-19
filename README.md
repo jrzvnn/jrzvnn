@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a difference 10 years makes](http://9gag.com/gag/a6qeMB2)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
+ - 💣 [Justice Served..](http://9gag.com/gag/ay2m8YY)
  - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 💣 [People have died.](http://9gag.com/gag/aeQq6OQ)
- - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - 👉 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)<!-- MEMES:END -->
+ - 👉 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Cut Pro, iMovie, Compressor, and Motion get updates for iPhone 15 Pro](https://appleinsider.com/articles/23/09/19/final-cut-pro-imovie-compressor-and-motion-get-updates-for-iphone-15-pro?utm_medium=rss)
+ - [The best stuff Sam Bankman-Fried’s parents bought using FTX money](https://www.theverge.com/2023/9/19/23880783/bankman-fried-ftx-lawsuit-clawback)
  - [For the first time in 20 years, Apple didn’t beat Samsung for prestigious award](https://www.androidauthority.com/acsi-2023-samsung-3365931/)
  - [Cricket Wireless launches new Android phone under its brand](https://www.androidauthority.com/cricket-wireless-android-phone-3365921/)
- - [Max will start offering a live sports tier in October](https://www.theverge.com/2023/9/19/23880831/max-live-sports-tier-launch-date-price)
- - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)
- - [Emails from 2022: worried about Starfield&#39;s delay, Microsoft discussed how much it would take to get various games on Xbox Game Pass, ranging up to $300M &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/230919/p41#a230919p41)<!-- TECH:END -->
+ - [Max will start offering a live sports tier in October](https://www.theverge.com/2023/9/19/23880831/max-live-sports-tier-launch-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

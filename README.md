@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepMind researchers detail Optimization by PROmpting to improve LLM performance by using &quot;meta-prompts&quot; like &quot;take a deep breath&quot;, which helped Google&#39;s PaLM 2 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230920/p20#a230920p20)
  - [Legit Security, which helps identify app vulnerabilities from code, raised a $40M Series B led by CRV, taking its total funding to $77M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p19#a230920p19)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-20-2023-3365486/)
  - [The best iPhone 15 screen protectors for all models](https://www.androidauthority.com/best-iphone-15-screen-protectors-3366139/)
- - [Our 12 favorite movies from TIFF 2023](https://www.theverge.com/23879088/tiff-2023-best-movies-dream-scenario-smugglers)
- - [Arlo announces updated Essential range, promises HomeKit in 2024](https://appleinsider.com/articles/23/09/20/arlo-announces-updated-essential-range-promises-homekit-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Our 12 favorite movies from TIFF 2023](https://www.theverge.com/23879088/tiff-2023-best-movies-dream-scenario-smugglers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

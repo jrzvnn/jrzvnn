@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
- - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 💣 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - 👉 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)<!-- MEMES:END -->
 
 ---
 

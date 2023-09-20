@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces updated Echo Frames, its Alexa-powered glasses, offering enhanced speech processing, better noise isolation, and six hours of battery for $270 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p27#a230920p27)
+ - [Everything Amazon announced at its product event: Alexa Emergency Assist for $6/month, Alexa Eye Gaze to control devices, the $50 Echo Pop Kids, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230920/p26#a230920p26)
  - [How to turn your photos into stickers in iOS 17](https://www.theverge.com/23844877/ios-17-photos-stickers-imessage)
  - [Amazon’s new Echo Show 8 changes its home screen the closer you get](https://www.androidauthority.com/echo-show-8-3rd-gen-announcement-3366233/)
- - [Amazon unveils generative AI updates for Alexa, aiming to become more conversational and personalized, available as a free preview on all Echo devices in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p25#a230920p25)
- - [Amazon Upgrades Alexa for the ChatGPT Era](https://www.wired.com/story/amazon-upgrades-alexa-for-the-chatgpt-era/)
- - [Record price drop on the Sony INZONE H9 wireless gaming headset](https://www.androidauthority.com/sony-inzone-h9-deal-3366228/)<!-- TECH:END -->
+ - [Amazon unveils generative AI updates for Alexa, aiming to become more conversational and personalized, available as a free preview on all Echo devices in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p25#a230920p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

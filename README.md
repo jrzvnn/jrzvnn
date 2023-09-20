@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to preorder all of the new Amazon devices, including the Echo Hub](https://www.theverge.com/23881928/amazon-event-echo-hub-fire-tv-blink-eero-glasses-alexa-preorder)
+ - [The Orion Video System app turns your iPad into an HDMI monitor with retro vibes](https://www.theverge.com/2023/9/20/23882461/orion-video-system-app-ipad-os-uvc-hdmi-monitor)
  - [Galaxy Tab S9 FE and S9 FE Plus leak reveals prices, colors, and versions](https://www.androidauthority.com/galaxy-tab-s9-fe-price-leak-3366300/)
  - [What an AI-Generated Medieval Village Means for the Future of Art](https://www.wired.com/story/artificial-intelligence-medieval-village/)
- - [Darrow, which uses AI to parse public documents for class action lawsuit potential, raised a $35M Series B led by Georgian and says ~50 companies use its tool &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p31#a230920p31)
- - [Amazon&#39;s new Echo devices bring generative AI and new smart home features](https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features?utm_medium=rss)
- - [GitHub’s AI-powered coding chatbot is now available for individuals](https://www.theverge.com/2023/9/20/23882605/github-copilot-chat-ai-chatbot-individuals)<!-- TECH:END -->
+ - [Darrow, which uses AI to parse public documents for class action lawsuit potential, raised a $35M Series B led by Georgian and says ~50 companies use its tool &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p31#a230920p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - 😝 [Perfect match....](http://9gag.com/gag/a3ZzMb5)
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 👉 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)<!-- MEMES:END -->
+ - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [To be fair, superman is superboring.](http://9gag.com/gag/a9q4KKZ)
+ - 💣 [Hahahaha](http://9gag.com/gag/avQB70Z)
+ - 😝 [Yes yes... absolutely...](http://9gag.com/gag/aZD4gOQ)
+ - 👉 [I am sphinx today :3](http://9gag.com/gag/a2KAo99)<!-- MEMES:END -->
 
 ---
 

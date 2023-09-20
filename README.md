@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google taught AI to doubt itself](https://www.theverge.com/23881954/google-bard-ai-fact-checking)
+ - [Apple Watch Series 9 and Ultra 2 review: Precision Finding, Double Tap is great, and some Siri and brightness improvements, but many of the tweaks feel minor &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230920/p18#a230920p18)
  - [Apple &amp; Goldman Sachs abandoned plans for a Robin Hood-like stock trading app](https://appleinsider.com/articles/23/09/20/apple-goldman-sachs-abandoned-plans-for-a-robin-hood-like-stock-trading-app?utm_medium=rss)
- - [LG’s monstrous Gram 17 is nearly half off just for today](https://www.theverge.com/2023/9/20/23880389/lg-gram-17-disney-plus-apple-ipad-pro-homepod-deal-sale)
- - [OnePlus Open launch date leaked, coming after Pixel 8 series](https://www.androidauthority.com/oneplus-open-launch-date-leak-3366183/)
- - [Philips Hue adds Matter support to existing bridges](https://appleinsider.com/articles/23/09/20/philips-hue-adds-matter-support-to-existing-bridges?utm_medium=rss)
- - [Sources: as equities soared in 2020, Apple and Goldman were working on a stock trading feature for iPhones, shelving the project in 2022 as markets turned &lpar;CNBC&rpar;](http://www.techmeme.com/230920/p17#a230920p17)<!-- TECH:END -->
+ - [5 Apple iPhone 15 features we want on Android](https://www.androidauthority.com/apple-iphone-15-features-android-3363897/)
+ - [Apple Watch Series 9 Review: New Chip and New WatchOS 10 Health Updates](https://www.wired.com/review/apple-watch-series-9/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

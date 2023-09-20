@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Uber executive warns the EU&#39;s Platform Work Directive designating gig workers as employees will result in Uber closing in hundreds of cities and price hikes &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230920/p3#a230920p3)
  - [Sources: Huawei&#39;s HiSilicon is shipping new Chinese-made chips for surveillance cameras, a fresh sign that the company is finding ways around US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/230920/p2#a230920p2)
  - [Jeep Avenger EV 2023: Specs, Prices, Performance, Range](https://www.wired.com/review/review-jeep-avenger-ev/)
  - [E-commerce marketing company Klaviyo prices its 19.2M shares at $30 a piece, raising $576M in its IPO at a fully diluted valuation of $9.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230920/p1#a230920p1)
- - [Nikon’s new ZF is a retro-styled full-frame camera aimed right at our nostalgic hearts](https://www.theverge.com/2023/9/20/23878641/nikon-zf-full-frame-mirrorless-classic-camera-fm2-film-specs-price)
- - [The best Apple Watch Series 9 cases](https://www.androidauthority.com/best-apple-watch-series-9-cases-3365986/)<!-- TECH:END -->
+ - [Nikon’s new ZF is a retro-styled full-frame camera aimed right at our nostalgic hearts](https://www.theverge.com/2023/9/20/23878641/nikon-zf-full-frame-mirrorless-classic-camera-fm2-film-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

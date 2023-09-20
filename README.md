@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US is going to restart its free at-home covid test kit program](https://www.theverge.com/2023/9/20/23882834/covid-home-test-free-us-government)
  - [Apple&#39;s FineWoven accessories and iPhone cases are really bad: they&#39;re expensive, quickly show wear, and scratch very easily, leaving seemingly permanent marks &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230920/p37#a230920p37)
  - [Find My Device may soon let you find your Pixel phone even when it’s off](https://www.androidauthority.com/pixel-find-my-device-powered-off-3365389/)
  - [Android 14 beta is rolling out to Xiaomi’s flagship phones](https://www.androidauthority.com/android-14-beta-xiaomi-13-3366323/)
- - [Klaviyo closes up 9.2% in its New York Stock Exchange debut, valuing the Shopify-backed e-commerce marketing company at $9.9B on a fully diluted basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/230920/p36#a230920p36)
- - [Android 14 QPR1 lets you finally force Instagram to go full screen](https://www.androidauthority.com/android-14-qpr1-change-aspect-ratio-3365423/)<!-- TECH:END -->
+ - [Klaviyo closes up 9.2% in its New York Stock Exchange debut, valuing the Shopify-backed e-commerce marketing company at $9.9B on a fully diluted basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/230920/p36#a230920p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

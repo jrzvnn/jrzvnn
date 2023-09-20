@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [George R.R. Martin and other authors sue OpenAI for copyright infringement](https://www.theverge.com/2023/9/20/23882140/george-r-r-martin-lawsuit-openai-copyright-infringement)
+ - [Cyberpunk 2077 is finally where it should have been from the start](https://www.theverge.com/2023/9/20/23881536/cyberpunk-2077-phantom-liberty-update-2-0)
+ - [Bluesky Stats: by the end of September 19, after Elon Musk floated an X paywall, Bluesky added 53,585 new signups, or 5% of its ~1,125,499 total userbase &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230920/p23#a230920p23)
  - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
- - [1Password rolls out public passkey support to its iOS and Android apps and web extensions; replacing a master password with a passkey is coming later in 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230920/p22#a230920p22)
- - [The iPhone 15 will now tell you how many charge cycles are on its battery](https://www.theverge.com/2023/9/20/23881952/apple-iphone-15-battery-charge-cycles-ios-17)
- - [Apple Watch Temperature Data Now Syncs to Natural Cycles, the Birth Control App     - CNET](https://www.cnet.com/health/medical/apple-watch-temperature-data-now-syncs-to-natural-cycles-the-birth-control-app/#ftag=CAD590a51e)
- - [Donald Trump Jr. said his father ‘passed away’ in apparent X account hack](https://www.theverge.com/2023/9/20/23881979/donald-trump-jr-x-twitter-account-hacked)<!-- TECH:END -->
+ - [1Password rolls out public passkey support to its iOS and Android apps and web extensions; replacing a master password with a passkey is coming later in 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230920/p22#a230920p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

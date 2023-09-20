@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
+ - 😝 [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)
+ - 😝 [People have died.](http://9gag.com/gag/aeQq6OQ)
+ - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
+ - 😝 [It hurts right in my meow meow](http://9gag.com/gag/aA0L1W2)
+ - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
  - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 👉 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Echo smart speakers can soon control your smart lights automatically](https://www.theverge.com/2023/9/20/23881647/amazon-echo-smart-speaker-alexa-automatic-lighting-new-feature)
- - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)
- - [The Echo Hub is Amazon’s first true smart home controller](https://www.theverge.com/2023/9/20/23880766/amazon-alexa-echo-hub-smart-displays-price-matter)
+ - [Ring’s new Stick Up Cam Pro includes radar sensors to help with motion detection](https://www.theverge.com/2023/9/20/23882430/ring-stick-up-cam-pro-radar-sensors-motion-detection)
+ - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
  - [Does your Mac, iPad, or iPhone make the cut for &#39;Death Stranding Director&#39;s Cut?&#39;](https://appleinsider.com/articles/23/09/20/does-your-mac-ipad-or-iphone-make-the-cut-for-death-stranding-directors-cut?utm_medium=rss)
- - [Amazon Alexa Emergency Assist lets users call for help from an Echo](https://www.theverge.com/2023/9/20/23882337/amazon-alexa-emergency-assist-echo)<!-- TECH:END -->
+ - [Echo smart speakers can soon control your smart lights automatically](https://www.theverge.com/2023/9/20/23881647/amazon-echo-smart-speaker-alexa-automatic-lighting-new-feature)
+ - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

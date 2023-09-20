@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple &amp; Goldman Sachs abandoned plans for a Robin Hood-like stock trading app](https://appleinsider.com/articles/23/09/20/apple-goldman-sachs-abandoned-plans-for-a-robin-hood-like-stock-trading-app?utm_medium=rss)
+ - [LG’s monstrous Gram 17 is nearly half off just for today](https://www.theverge.com/2023/9/20/23880389/lg-gram-17-disney-plus-apple-ipad-pro-homepod-deal-sale)
+ - [OnePlus Open launch date leaked, coming after Pixel 8 series](https://www.androidauthority.com/oneplus-open-launch-date-leak-3366183/)
  - [Philips Hue adds Matter support to existing bridges](https://appleinsider.com/articles/23/09/20/philips-hue-adds-matter-support-to-existing-bridges?utm_medium=rss)
- - [Sources: as equities soared in 2020, Apple and Goldman were working on a stock trading feature for iPhones, shelving the project in 2022 as markets turned &lpar;CNBC&rpar;](http://www.techmeme.com/230920/p17#a230920p17)
- - [Poll results: You really miss removable batteries and expandable storage](https://www.androidauthority.com/miss-removable-batteries-expandable-storage-poll-results-3366161/)
- - [Apple rolls out watchOS 10 for Apple Watch with new faces, health features](https://appleinsider.com/articles/23/09/18/apple-rolls-out-watchos-10-for-apple-watch-with-new-faces-health-features?utm_medium=rss)
- - [14 Best Apple 3-in-1 Wireless Chargers &lpar;2023&rpar;: For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
+ - [Sources: as equities soared in 2020, Apple and Goldman were working on a stock trading feature for iPhones, shelving the project in 2022 as markets turned &lpar;CNBC&rpar;](http://www.techmeme.com/230920/p17#a230920p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

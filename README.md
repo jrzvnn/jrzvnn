@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Repair Mode could hide your personal data while your Pixel phone is being fixed](https://www.androidauthority.com/pixel-repair-mode-3365357/)
  - [MotherDuck, which is commercializing the database platform DuckDB, raised a $52.5M Series B at a $400M post-money valuation, taking its total funding to $100M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p38#a230920p38)
- - [Google is testing a new floating search bar in Android 14 QPR1](https://www.androidauthority.com/pixel-floating-search-bar-3365457/)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
- - [The US is going to restart its free at-home covid test kit program](https://www.theverge.com/2023/9/20/23882834/covid-home-test-free-us-government)<!-- TECH:END -->
+ - [T-Mobile &#39;System Glitch&#39; Exposes Some Customers&#39; Personal and Payment Info     - CNET](https://www.cnet.com/tech/mobile/t-mobile-system-glitch-exposes-some-customers-personal-and-payment-info/#ftag=CAD590a51e)
+ - [Best Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
+ - [Google is testing a new floating search bar in Android 14 QPR1](https://www.androidauthority.com/pixel-floating-search-bar-3365457/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

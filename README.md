@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump Jr. said his father ‘passed away’ in apparent X account hack](https://www.theverge.com/2023/9/20/23881979/donald-trump-jr-x-twitter-account-hacked)
+ - [The US spending over $66B to improve rural broadband and close the &quot;digital divide&quot; may not be enough due to the cost of laying fiber, labor shortages, and more &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/230920/p21#a230920p21)
+ - [Babbel price drop: get a lifetime subscription for $169.97](https://appleinsider.com/articles/23/09/20/babbel-price-drop-get-a-lifetime-subscription-for-16997?utm_medium=rss)
  - [Reviewers say there&#39;s no need to upgrade to Apple Watch Series 9 and Apple Watch Ultra 2](https://appleinsider.com/articles/23/09/20/reviewers-say-theres-no-need-to-upgrade-to-apple-watch-series-9-and-apple-watch-ultra-2?utm_medium=rss)
- - [Apple reportedly stopped short of bringing a stock trading feature to iPhone](https://www.theverge.com/2023/9/20/23881966/apple-stock-trading-iphones)
- - [A lawsuit alleging privacy violations by OpenAI was dismissed](https://www.theverge.com/2023/9/20/23882009/class-action-lawsuit-openai-privacy-dropped)
- - [Joe Biden launches climate and jobs programs — but no new pollution-cutting goals](https://www.theverge.com/2023/9/20/23881178/biden-american-climate-change-corps-jobs-clean-energy-grants-epa)
- - [All the news from Amazon’s September 2023 product launch event](https://www.theverge.com/2023/9/20/23881164/amazon-event-hardware-devices-alexa-echo-ring)<!-- TECH:END -->
+ - [Apple reportedly stopped short of bringing a stock trading feature to iPhone](https://www.theverge.com/2023/9/20/23881966/apple-stock-trading-iphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

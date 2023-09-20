@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
- - 😝 [I am sphinx today :3](http://9gag.com/gag/a2KAo99)
- - 💣 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
+ - 😝 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
  - 😝 [What a trick shot](http://9gag.com/gag/aME08VR)
- - 👉 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)<!-- MEMES:END -->
+ - 💣 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
+ - 😝 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)
+ - 👉 [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)<!-- MEMES:END -->
 
 ---
 

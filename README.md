@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI debuts DALL-E 3, which can be summoned and controlled using ChatGPT, and plans to make it available to ChatGPT+ and enterprise customers in October &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230920/p30#a230920p30)
+ - [OpenAI’s Dall-E 3 Is an Art Generator Powered by ChatGPT](https://www.wired.com/story/dall-e-3-open-ai-chat-gpt/)
+ - [Waymo begins testing the waters for a robotaxi service in Los Angeles](https://www.theverge.com/2023/9/20/23880537/waymo-los-angeles-tour-autonomous-robotaxi-tickets)
  - [Amazon makes Alexa more conversational with generative AI](https://www.androidauthority.com/amazon-alexa-ai-improvements-3366260/)
- - [Commute in style with this tempting Razor C45 electric scooter deal](https://www.androidauthority.com/razor-c45-electric-scooter-deal-3366256/)
- - [Amazon unveils the $180 Echo Hub, a wall-mountable smart home controller with an 8&quot; touchscreen, and Map View, a new interface that shows a home&#39;s floor plan &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230920/p29#a230920p29)
- - [Eero’s new Max 7 is a powerful router with Wi-Fi 7 support](https://www.theverge.com/2023/9/20/23882163/amazon-eero-max-7-wi-fi-router-mesh-price-release-date)
- - [Peacock’s John Wick prequel series, The Continental, shoots itself in the foot](https://www.theverge.com/2023/9/20/23879184/the-continentental-john-wick-peacock-review)<!-- TECH:END -->
+ - [All the biggest announcements from Amazon’s September 2023 product launch event](https://www.theverge.com/2023/9/20/23881164/amazon-event-hardware-devices-alexa-echo-ring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

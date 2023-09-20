@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Apple 3-in-1 Wireless Chargers &lpar;2023&rpar;: For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [A Pair of Sun Probes Just Got Closer to Solving a Solar Enigma](https://www.wired.com/story/a-pair-of-sun-probes-just-got-closer-to-solving-a-solar-enigma/)
- - [Dumb Money is the Funko Pop version of the GameStop story](https://www.theverge.com/23880707/dumb-money-seth-rogen-pete-davidson-paul-dano-gamestop)
- - [Latin America-focused rapid grocery startup JOKR raised a $50M Series D led by Convivialit&amp;eacute; at an $800M valuation, down from a $1.3B valuation in February 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230920/p16#a230920p16)
- - [Sources and analysis: four of the eight CPUs in the Kirin 9000S SoC use Arm designs and four use Huawei-modified Arm designs, HiSilicon made the GPU, and more &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230920/p15#a230920p15)<!-- TECH:END -->
+ - [Philips Hue adds Matter support to existing bridges](https://appleinsider.com/articles/23/09/20/philips-hue-adds-matter-support-to-existing-bridges?utm_medium=rss)
+ - [Sources: as equities soared in 2020, Apple and Goldman were working on a stock trading feature for iPhones, shelving the project in 2022 as markets turned &lpar;CNBC&rpar;](http://www.techmeme.com/230920/p17#a230920p17)
+ - [Poll results: You really miss removable batteries and expandable storage](https://www.androidauthority.com/miss-removable-batteries-expandable-storage-poll-results-3366161/)
+ - [Apple rolls out watchOS 10 for Apple Watch with new faces, health features](https://appleinsider.com/articles/23/09/18/apple-rolls-out-watchos-10-for-apple-watch-with-new-faces-health-features?utm_medium=rss)
+ - [14 Best Apple 3-in-1 Wireless Chargers &lpar;2023&rpar;: For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

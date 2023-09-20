@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
  - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 💣 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 😝 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
 

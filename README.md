@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [To be fair, superman is superboring.](http://9gag.com/gag/a9q4KKZ)
- - 💣 [Hahahaha](http://9gag.com/gag/avQB70Z)
- - 😝 [Yes yes... absolutely...](http://9gag.com/gag/aZD4gOQ)
- - 👉 [I am sphinx today :3](http://9gag.com/gag/a2KAo99)<!-- MEMES:END -->
+ - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - 👉 [Damn thyroids](http://9gag.com/gag/a9q4RRW)<!-- MEMES:END -->
 
 ---
 

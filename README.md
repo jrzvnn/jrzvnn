@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces updated Echo Frames, its Alexa-powered glasses, offering enhanced speech processing, better noise isolation, and six hours of battery for $270 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p27#a230920p27)
- - [Everything Amazon announced at its product event: Alexa Emergency Assist for $6/month, Alexa Eye Gaze to control devices, the $50 Echo Pop Kids, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230920/p26#a230920p26)
- - [How to turn your photos into stickers in iOS 17](https://www.theverge.com/23844877/ios-17-photos-stickers-imessage)
- - [Amazon’s new Echo Show 8 changes its home screen the closer you get](https://www.androidauthority.com/echo-show-8-3rd-gen-announcement-3366233/)
- - [Amazon unveils generative AI updates for Alexa, aiming to become more conversational and personalized, available as a free preview on all Echo devices in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p25#a230920p25)<!-- TECH:END -->
+ - [Echo smart speakers can soon control your smart lights automatically](https://www.theverge.com/2023/9/20/23881647/amazon-echo-smart-speaker-alexa-automatic-lighting-new-feature)
+ - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)
+ - [The Echo Hub is Amazon’s first true smart home controller](https://www.theverge.com/2023/9/20/23880766/amazon-alexa-echo-hub-smart-displays-price-matter)
+ - [Does your Mac, iPad, or iPhone make the cut for &#39;Death Stranding Director&#39;s Cut?&#39;](https://appleinsider.com/articles/23/09/20/does-your-mac-ipad-or-iphone-make-the-cut-for-death-stranding-directors-cut?utm_medium=rss)
+ - [Amazon Alexa Emergency Assist lets users call for help from an Echo](https://www.theverge.com/2023/9/20/23882337/amazon-alexa-emergency-assist-echo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

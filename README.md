@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhone 15 screen protectors for all models](https://www.androidauthority.com/best-iphone-15-screen-protectors-3366139/)
+ - [Our 12 favorite movies from TIFF 2023](https://www.theverge.com/23879088/tiff-2023-best-movies-dream-scenario-smugglers)
+ - [Arlo announces updated Essential range, promises HomeKit in 2024](https://appleinsider.com/articles/23/09/20/arlo-announces-updated-essential-range-promises-homekit-in-2024?utm_medium=rss)
  - [How Google taught AI to doubt itself](https://www.theverge.com/23881954/google-bard-ai-fact-checking)
- - [Apple Watch Series 9 and Ultra 2 review: Precision Finding, Double Tap is great, and some Siri and brightness improvements, but many of the tweaks feel minor &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230920/p18#a230920p18)
- - [Apple &amp; Goldman Sachs abandoned plans for a Robin Hood-like stock trading app](https://appleinsider.com/articles/23/09/20/apple-goldman-sachs-abandoned-plans-for-a-robin-hood-like-stock-trading-app?utm_medium=rss)
- - [5 Apple iPhone 15 features we want on Android](https://www.androidauthority.com/apple-iphone-15-features-android-3363897/)
- - [Apple Watch Series 9 Review: New Chip and New WatchOS 10 Health Updates](https://www.wired.com/review/apple-watch-series-9/)<!-- TECH:END -->
+ - [Apple Watch Series 9 and Ultra 2 review: Precision Finding, Double Tap is great, and some Siri and brightness improvements, but many of the tweaks feel minor &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230920/p18#a230920p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

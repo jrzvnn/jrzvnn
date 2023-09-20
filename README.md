@@ -166,9 +166,9 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)
  - 😝 [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)
- - 💣 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
- - 😝 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)
- - 👉 [The last seconds drama](http://9gag.com/gag/aqeVgRj)<!-- MEMES:END -->
+ - 💣 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)
+ - 😝 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
+ - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Matthew Panzarino, who recently stepped down as TechCrunch EIC after 10 years, on the site&#39;s Silicon Valley relationship, the future of media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230920/p9#a230920p9)
  - [iPhone 15 gets Android 14-like battery health info before Android gets it](https://www.androidauthority.com/apple-iphone-15-battery-health-info-3366103/)
  - [A profile of Japan-based Soramitsu, which helped build Cambodia&#39;s &quot;quasi-digital currency&quot; system and is running CBDC studies in other Southeast Asian countries &lpar;Rest of World&rpar;](http://www.techmeme.com/230920/p8#a230920p8)
  - [OxygenOS 14 beta roadmap released: Here’s when it’ll arrive on your device](https://www.androidauthority.com/oxygenos-14-beta-roadmap-3366100/)
- - [Watch: Someone connected an iPhone 15 to an Android phone via USB-C](https://www.androidauthority.com/connect-iphone-15-to-android-phone-usb-c-3366099/)
- - [Galaxy S24 Ultra might not be the zoom king in 2024 thanks to this downgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-drop-10x-camera-5x-camera-3365193/)<!-- TECH:END -->
+ - [Watch: Someone connected an iPhone 15 to an Android phone via USB-C](https://www.androidauthority.com/connect-iphone-15-to-android-phone-usb-c-3366099/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

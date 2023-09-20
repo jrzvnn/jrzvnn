@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MotherDuck, which is commercializing the database platform DuckDB, raised a $52.5M Series B at a $400M post-money valuation, taking its total funding to $100M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p38#a230920p38)
  - [Google is testing a new floating search bar in Android 14 QPR1](https://www.androidauthority.com/pixel-floating-search-bar-3365457/)
  - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
  - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
- - [The US is going to restart its free at-home covid test kit program](https://www.theverge.com/2023/9/20/23882834/covid-home-test-free-us-government)
- - [How to install Android 14 on your phone right now](https://www.androidauthority.com/install-android-14-3280834/)<!-- TECH:END -->
+ - [The US is going to restart its free at-home covid test kit program](https://www.theverge.com/2023/9/20/23882834/covid-home-test-free-us-government)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Linux Foundation launches the Unified Acceleration Foundation to create an open standard for accelerator programming, an evolution of the oneAPI initiative &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230919/p50#a230919p50)
  - [Neuralink opens enrollment for the first human trial of its brain implant for paralysis patients, which is expected to take about six years to complete &lpar;Mariam Sunny/Reuters&rpar;](http://www.techmeme.com/230919/p49#a230919p49)
  - [Bard&#39;s &quot;Google it&quot; feature adds the ability to &quot;double check&quot; answers by highlighting phrases with supporting or contradicting information found by Search &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230919/p48#a230919p48)
  - [Google Bard AI Dips into Gmail, Google Maps, YouTube     - CNET](https://www.cnet.com/tech/google-bard-ai-dips-into-gmail-google-maps-youtube/#ftag=CAD590a51e)
- - [OpenAI launches the Red Teaming Network, a contracted group of experts to help inform the company&#39;s AI model risk assessment and mitigation strategies &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p47#a230919p47)
- - [TikTok Ban: Montana&#39;s Attempt Backed by Group Representing 18 States     - CNET](https://www.cnet.com/tech/mobile/tiktok-ban-montanas-attempt-backed-by-group-representing-18-states/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI launches the Red Teaming Network, a contracted group of experts to help inform the company&#39;s AI model risk assessment and mitigation strategies &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p47#a230919p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

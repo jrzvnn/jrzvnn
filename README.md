@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn your photos into stickers in iOS 17](https://www.theverge.com/23844877/ios-17-photos-stickers-imessage)
+ - [Amazon’s new Echo Show 8 changes its home screen the closer you get](https://www.androidauthority.com/echo-show-8-3rd-gen-announcement-3366233/)
  - [Amazon unveils generative AI updates for Alexa, aiming to become more conversational and personalized, available as a free preview on all Echo devices in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p25#a230920p25)
  - [Amazon Upgrades Alexa for the ChatGPT Era](https://www.wired.com/story/amazon-upgrades-alexa-for-the-chatgpt-era/)
- - [Record price drop on the Sony INZONE H9 wireless gaming headset](https://www.androidauthority.com/sony-inzone-h9-deal-3366228/)
- - [How to set up your own Contact Poster in iOS 17](https://www.theverge.com/23814601/iphone-ios-17-contact-poster-how-to)
- - [Amazon announces the $150 Echo Show 8 with a new design, a centered camera, a smart home hub, Spatial Audio, and a changing home screen based on proximity &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230920/p24#a230920p24)<!-- TECH:END -->
+ - [Record price drop on the Sony INZONE H9 wireless gaming headset](https://www.androidauthority.com/sony-inzone-h9-deal-3366228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

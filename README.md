@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a trick shot](http://9gag.com/gag/aME08VR)
- - 😝 [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
- - 💣 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
- - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
- - 👉 [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)<!-- MEMES:END -->
+ - 😝 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 💣 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
 

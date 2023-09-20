@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon confirms it’s backing away from charging an extra seller fee](https://www.theverge.com/2023/9/20/23883097/amazon-stops-seller-fee-plan-ftc-lawsuit)
  - [Google rolls out Android 14 QPR1 beta despite stable version delay](https://www.androidauthority.com/android-14-qpr1-beta-launch-3366360/)
  - [GitHub expands Copilot Chat beta in Visual Studio and VS Code to individual subscribers, after launching the tool for business users in July 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230920/p39#a230920p39)
  - [Facebook changed its logo — see if you can tell the difference](https://www.theverge.com/2023/9/20/23883126/meta-facebook-changed-logo-design-wordmark-reactions)
- - [Here are the details on the grisly deaths of Elon Musk’s Neuralink monkeys](https://www.theverge.com/2023/9/20/23882888/elon-musk-brain-implant-startup-neuralink-monkeys-euthanized)
- - [Android 14 QPR1 will let you keep apps open when you close the Pixel Fold](https://www.androidauthority.com/android-14-qpr1-stay-unlocked-on-fold-3365897/)<!-- TECH:END -->
+ - [Here are the details on the grisly deaths of Elon Musk’s Neuralink monkeys](https://www.theverge.com/2023/9/20/23882888/elon-musk-brain-implant-startup-neuralink-monkeys-euthanized)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

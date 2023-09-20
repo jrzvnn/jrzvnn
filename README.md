@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - 😝 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
- - 👉 [Hahahaha](http://9gag.com/gag/avQB70Z)<!-- MEMES:END -->
+ - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 💣 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 👉 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
 
 ---
 

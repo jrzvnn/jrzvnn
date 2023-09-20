@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)
- - 💣 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 👉 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)<!-- MEMES:END -->
+ - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
 
 ---
 

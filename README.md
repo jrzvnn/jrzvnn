@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
  - [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)
  - [PayPal says select Venmo users can now purchase its stablecoin PYUSD, with a rollout to more users in the coming weeks, in addition to BTC, ETH, BCH, and LTC &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/230920/p32#a230920p32)
  - [Echo Hub hands-on: It’s all about the widgets](https://www.theverge.com/23882652/amazon-echo-hub-smart-home-controller-hands-on)
- - [How to preorder all of the new Amazon devices, including the Echo Hub](https://www.theverge.com/23881928/amazon-event-echo-hub-fire-tv-blink-eero-glasses-alexa-preorder)
- - [The Orion Video System app turns your iPad into an HDMI monitor with retro vibes](https://www.theverge.com/2023/9/20/23882461/orion-video-system-app-ipad-os-uvc-hdmi-monitor)<!-- TECH:END -->
+ - [How to preorder all of the new Amazon devices, including the Echo Hub](https://www.theverge.com/23881928/amazon-event-echo-hub-fire-tv-blink-eero-glasses-alexa-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

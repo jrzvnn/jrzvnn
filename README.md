@@ -164,10 +164,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That moment when the heebie-jeebies consumes you](http://9gag.com/gag/a8qvo63)
  - 😝 [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - 💣 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)
+ - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
  - 👉 [Hahahaha](http://9gag.com/gag/avQB70Z)<!-- MEMES:END -->
 
 ---

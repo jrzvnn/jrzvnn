@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 👉 [Damn thyroids](http://9gag.com/gag/a9q4RRW)<!-- MEMES:END -->
+ - 😝 [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
+ - 😝 [I am sphinx today :3](http://9gag.com/gag/a2KAo99)
+ - 💣 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
+ - 😝 [What a trick shot](http://9gag.com/gag/aME08VR)
+ - 👉 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)<!-- MEMES:END -->
 
 ---
 

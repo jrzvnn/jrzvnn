@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s time to turn in your Pixel 4a as Google ends software support](https://www.androidauthority.com/google-pixel-4a-end-of-life-3366088/)
+ - [WhatsApp announces Flows to let merchants build richer shopping experiences like allowing users to pick a flight seat or order a meal without leaving the app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230920/p6#a230920p6)
+ - [Meta launches in-chat payments for WhatsApp in India, allowing businesses to accept payments via credit/debit cards, WhatsApp Pay or UPI at no extra cost &lpar;Financial Times&rpar;](http://www.techmeme.com/230920/p5#a230920p5)
  - [Meta expands its Meta Verified program to businesses on Facebook and Instagram in select geographies, starting at $21.99 per month per page on either service &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230920/p4#a230920p4)
- - [Meta is expanding its paid verification badge to business accounts](https://www.theverge.com/2023/9/20/23880510/meta-verified-blue-check-businesses-instagram-facebook-whatsapp)
- - [An Uber executive warns the EU&#39;s Platform Work Directive designating gig workers as employees will result in Uber closing in hundreds of cities and price hikes &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230920/p3#a230920p3)
- - [Sources: Huawei&#39;s HiSilicon is shipping new Chinese-made chips for surveillance cameras, a fresh sign that the company is finding ways around US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/230920/p2#a230920p2)
- - [Jeep Avenger EV 2023: Specs, Prices, Performance, Range](https://www.wired.com/review/review-jeep-avenger-ev/)<!-- TECH:END -->
+ - [Meta is expanding its paid verification badge to business accounts](https://www.theverge.com/2023/9/20/23880510/meta-verified-blue-check-businesses-instagram-facebook-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

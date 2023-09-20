@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is testing a new floating search bar in Android 14 QPR1](https://www.androidauthority.com/pixel-floating-search-bar-3365457/)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
  - [The US is going to restart its free at-home covid test kit program](https://www.theverge.com/2023/9/20/23882834/covid-home-test-free-us-government)
- - [How to install Android 14 on your phone right now](https://www.androidauthority.com/install-android-14-3280834/)
- - [Apple&#39;s FineWoven accessories and iPhone cases are really bad: they&#39;re expensive, quickly show wear, and scratch very easily, leaving seemingly permanent marks &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230920/p37#a230920p37)
- - [Find My Device may soon let you find your Pixel phone even when it’s off](https://www.androidauthority.com/pixel-find-my-device-powered-off-3365389/)
- - [Android 14 beta is rolling out to Xiaomi’s flagship phones](https://www.androidauthority.com/android-14-beta-xiaomi-13-3366323/)<!-- TECH:END -->
+ - [How to install Android 14 on your phone right now](https://www.androidauthority.com/install-android-14-3280834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

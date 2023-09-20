@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)
+ - [PayPal says its stablecoin PYUSD is now available on Venmo to select users, with a full rollout in the coming weeks &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/230920/p32#a230920p32)
+ - [Echo Hub hands-on: It’s all about the widgets](https://www.theverge.com/23882652/amazon-echo-hub-smart-home-controller-hands-on)
  - [How to preorder all of the new Amazon devices, including the Echo Hub](https://www.theverge.com/23881928/amazon-event-echo-hub-fire-tv-blink-eero-glasses-alexa-preorder)
- - [The Orion Video System app turns your iPad into an HDMI monitor with retro vibes](https://www.theverge.com/2023/9/20/23882461/orion-video-system-app-ipad-os-uvc-hdmi-monitor)
- - [Galaxy Tab S9 FE and S9 FE Plus leak reveals prices, colors, and versions](https://www.androidauthority.com/galaxy-tab-s9-fe-price-leak-3366300/)
- - [What an AI-Generated Medieval Village Means for the Future of Art](https://www.wired.com/story/artificial-intelligence-medieval-village/)
- - [Darrow, which uses AI to parse public documents for class action lawsuit potential, raised a $35M Series B led by Georgian and says ~50 companies use its tool &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p31#a230920p31)<!-- TECH:END -->
+ - [The Orion Video System app turns your iPad into an HDMI monitor with retro vibes](https://www.theverge.com/2023/9/20/23882461/orion-video-system-app-ipad-os-uvc-hdmi-monitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

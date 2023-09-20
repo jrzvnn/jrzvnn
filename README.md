@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
+ - 😝 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
+ - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
  - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 😝 [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)
- - 👉 [People have died.](http://9gag.com/gag/aeQq6OQ)<!-- MEMES:END -->
+ - 👉 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)<!-- MEMES:END -->
 
 ---
 

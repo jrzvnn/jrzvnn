@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon makes Alexa more conversational with generative AI](https://www.androidauthority.com/amazon-alexa-ai-improvements-3366260/)
+ - [Commute in style with this tempting Razor C45 electric scooter deal](https://www.androidauthority.com/razor-c45-electric-scooter-deal-3366256/)
+ - [Amazon unveils the $180 Echo Hub, a wall-mountable smart home controller with an 8&quot; touchscreen, and Map View, a new interface that shows a home&#39;s floor plan &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230920/p29#a230920p29)
  - [Eero’s new Max 7 is a powerful router with Wi-Fi 7 support](https://www.theverge.com/2023/9/20/23882163/amazon-eero-max-7-wi-fi-router-mesh-price-release-date)
- - [Peacock’s John Wick prequel series, The Continental, shoots itself in the foot](https://www.theverge.com/2023/9/20/23879184/the-continentental-john-wick-peacock-review)
- - [Ring’s new Stick Up Cam Pro includes radar sensors to help with motion detection](https://www.theverge.com/2023/9/20/23882430/ring-stick-up-cam-pro-radar-sensors-motion-detection)
- - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
- - [Does your Mac, iPad, or iPhone make the cut for &#39;Death Stranding Director&#39;s Cut?&#39;](https://appleinsider.com/articles/23/09/20/does-your-mac-ipad-or-iphone-make-the-cut-for-death-stranding-directors-cut?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock’s John Wick prequel series, The Continental, shoots itself in the foot](https://www.theverge.com/2023/9/20/23879184/the-continentental-john-wick-peacock-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

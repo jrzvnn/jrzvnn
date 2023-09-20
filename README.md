@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind researchers detail Optimization by PROmpting to improve LLM performance by using &quot;meta-prompts&quot; like &quot;take a deep breath&quot;, which helped Google&#39;s PaLM 2 &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230920/p20#a230920p20)
- - [Legit Security, which helps identify app vulnerabilities from code, raised a $40M Series B led by CRV, taking its total funding to $77M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p19#a230920p19)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-20-2023-3365486/)
- - [The best iPhone 15 screen protectors for all models](https://www.androidauthority.com/best-iphone-15-screen-protectors-3366139/)
- - [Our 12 favorite movies from TIFF 2023](https://www.theverge.com/23879088/tiff-2023-best-movies-dream-scenario-smugglers)<!-- TECH:END -->
+ - [Reviewers say there&#39;s no need to upgrade to Apple Watch Series 9 and Apple Watch Ultra 2](https://appleinsider.com/articles/23/09/20/reviewers-say-theres-no-need-to-upgrade-to-apple-watch-series-9-and-apple-watch-ultra-2?utm_medium=rss)
+ - [Apple reportedly stopped short of bringing a stock trading feature to iPhone](https://www.theverge.com/2023/9/20/23881966/apple-stock-trading-iphones)
+ - [A lawsuit alleging privacy violations by OpenAI was dismissed](https://www.theverge.com/2023/9/20/23882009/class-action-lawsuit-openai-privacy-dropped)
+ - [Joe Biden launches climate and jobs programs — but no new pollution-cutting goals](https://www.theverge.com/2023/9/20/23881178/biden-american-climate-change-corps-jobs-clean-energy-grants-epa)
+ - [All the news from Amazon’s September 2023 product launch event](https://www.theverge.com/2023/9/20/23881164/amazon-event-hardware-devices-alexa-echo-ring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

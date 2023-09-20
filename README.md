@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
  - 😝 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
+ - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
  - 💣 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - 👉 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
+ - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
+ - 👉 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X ranks the lowest among all social media in combating climate disinformation, study finds](https://www.theverge.com/2023/9/20/23882774/x-climate-misinformation-study-climate-action-disinformation)
  - [Uber plans to accept the US food stamps EBT card and health insurance-issued FSA and flex cards for Uber Eats grocery delivery orders, starting in 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230920/p34#a230920p34)
  - [Panasonic cuts the wires from its SoundSlayer neck speaker for gamers](https://www.theverge.com/2023/9/20/23882622/panasonic-soundslayer-wireless-neck-speaker-gaming)
  - [In its Prime lawsuit, the FTC alleges three Amazon executives played key roles in enrolling customers unwittingly and making it hard to cancel subscriptions &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230920/p33#a230920p33)
- - [4 Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)
- - [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)<!-- TECH:END -->
+ - [4 Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

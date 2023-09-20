@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
  - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - 👉 [Anyone know what this thing is?](http://9gag.com/gag/a7qm7Qx)<!-- MEMES:END -->
+ - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 👉 [IPhone15](http://9gag.com/gag/aXnm9Nd)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klaviyo closes up 9.2% in its New York Stock Exchange debut, valuing the Shopify-backed e-commerce marketing company at $9.9B on a fully diluted basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/230920/p36#a230920p36)
  - [Android 14 QPR1 lets you finally force Instagram to go full screen](https://www.androidauthority.com/android-14-qpr1-change-aspect-ratio-3365423/)
  - [Amazon leaders were ‘okay’ with people being secretly signed up for Prime, lawsuit alleges](https://www.theverge.com/2023/9/20/23882675/amazon-prime-ftc-dark-patterns-lawsuit)
  - [The new Echo Show 8 is smarter, speedier, and knows when you get close](https://www.theverge.com/23882844/amazon-echo-show-8-smart-display-hands-on)
- - [Documents: Amazon is scrapping a planned 2% fee on merchants that don&#39;t use its shipping services; the fee was set to take effect on October 1 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230920/p35#a230920p35)
- - [New study finds Mac most secure &amp; cost competitive in enterprise workplaces](https://appleinsider.com/articles/23/09/20/new-study-finds-mac-most-secure-cost-competitive-in-enterprise-workplaces?utm_medium=rss)<!-- TECH:END -->
+ - [Documents: Amazon is scrapping a planned 2% fee on merchants that don&#39;t use its shipping services; the fee was set to take effect on October 1 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230920/p35#a230920p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

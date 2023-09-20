@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new Garmin vivoactive 5 makes fitness tracking accessible to all](https://www.androidauthority.com/garmin-vivoactive-5-3360623/)
+ - [Code leak says WhatsApp is finally coming to iPad](https://appleinsider.com/articles/23/09/20/code-leak-says-whatsapp-is-finally-coming-to-ipad?utm_medium=rss)
  - [After Meta criticizes potential UK encryption rules, the UK says Meta &quot;failed to provide assurances&quot; over keeping its platforms &quot;safe from sickening abusers&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230920/p12#a230920p12)
  - [WhatsApp releases a beta via Apple&#39;s TestFlight that works natively with the iPad, built using Mac Catalyst, after years of requests for the app from users &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230920/p11#a230920p11)
- - [French Apple Store staff will strike as iPhone 15 goes on sale](https://appleinsider.com/articles/23/09/20/french-apple-store-staff-will-strike-as-iphone-15-goes-on-sale?utm_medium=rss)
- - [How a ‘Digital Peeping Tom’ Unmasked Porn Actors](https://www.wired.com/story/kashmir-hill-privacy-surveillance-facial-recognition/)
- - [Samsung brings One UI 6 beta to the Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-s22-series-one-ui-6-beta-korea-3366130/)<!-- TECH:END -->
+ - [French Apple Store staff will strike as iPhone 15 goes on sale](https://appleinsider.com/articles/23/09/20/french-apple-store-staff-will-strike-as-iphone-15-goes-on-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

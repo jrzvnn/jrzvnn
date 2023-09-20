@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Legit Security, which helps identify app vulnerabilities from code, raised a $40M Series B led by CRV, taking its total funding to $77M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p19#a230920p19)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 20&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-20-2023-3365486/)
  - [The best iPhone 15 screen protectors for all models](https://www.androidauthority.com/best-iphone-15-screen-protectors-3366139/)
  - [Our 12 favorite movies from TIFF 2023](https://www.theverge.com/23879088/tiff-2023-best-movies-dream-scenario-smugglers)
- - [Arlo announces updated Essential range, promises HomeKit in 2024](https://appleinsider.com/articles/23/09/20/arlo-announces-updated-essential-range-promises-homekit-in-2024?utm_medium=rss)
- - [How Google taught AI to doubt itself](https://www.theverge.com/23881954/google-bard-ai-fact-checking)
- - [Apple Watch Series 9 and Ultra 2 review: Precision Finding, Double Tap is great, and some Siri and brightness improvements, but many of the tweaks feel minor &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230920/p18#a230920p18)<!-- TECH:END -->
+ - [Arlo announces updated Essential range, promises HomeKit in 2024](https://appleinsider.com/articles/23/09/20/arlo-announces-updated-essential-range-promises-homekit-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

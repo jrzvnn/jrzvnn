@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces the $150 Echo Show 8 with a new design, a centered camera, a smart home hub, Spatial Audio, and a changing home screen based on proximity &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230920/p24#a230920p24)
+ - [iPhone 14 hitting east coast&#39;s biggest agricultural fair with false 911 calls](https://appleinsider.com/articles/23/09/20/iphone-14-hitting-east-coasts-biggest-agricultural-fair-with-false-911-calls?utm_medium=rss)
+ - [How to use FaceTime on Apple TV with Continuity Camera on iPhone](https://appleinsider.com/inside/tvos-17/tips/how-to-use-facetime-on-apple-tv-with-continuity-camera-on-iphone?utm_medium=rss)
  - [George R.R. Martin and other authors sue OpenAI for copyright infringement](https://www.theverge.com/2023/9/20/23882140/george-r-r-martin-lawsuit-openai-copyright-infringement)
- - [Cyberpunk 2077 is finally where it should have been from the start](https://www.theverge.com/2023/9/20/23881536/cyberpunk-2077-phantom-liberty-update-2-0)
- - [Bluesky Stats: by the end of September 19, after Elon Musk floated an X paywall, Bluesky added 53,585 new signups, or 5% of its ~1,125,499 total userbase &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230920/p23#a230920p23)
- - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
- - [1Password rolls out public passkey support to its iOS and Android apps and web extensions; replacing a master password with a passkey is coming later in 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230920/p22#a230920p22)<!-- TECH:END -->
+ - [Cyberpunk 2077 is finally where it should have been from the start](https://www.theverge.com/2023/9/20/23881536/cyberpunk-2077-phantom-liberty-update-2-0)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new Echo Show 8 is smarter, speedier, and knows when you get close](https://www.theverge.com/23882844/amazon-echo-show-8-smart-display-hands-on)
  - [Documents: Amazon is scrapping a planned 2% fee on merchants that don&#39;t use its shipping services; the fee was set to take effect on October 1 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/230920/p35#a230920p35)
  - [New study finds Mac most secure &amp; cost competitive in enterprise workplaces](https://appleinsider.com/articles/23/09/20/new-study-finds-mac-most-secure-cost-competitive-in-enterprise-workplaces?utm_medium=rss)
  - [X ranks the lowest among all social media in combating climate disinformation, study finds](https://www.theverge.com/2023/9/20/23882774/x-climate-misinformation-study-climate-action-disinformation)
- - [Uber plans to accept the US food stamps EBT card and health insurance-issued FSA and flex cards for Uber Eats grocery delivery orders, starting in 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230920/p34#a230920p34)
- - [Panasonic cuts the wires from its SoundSlayer neck speaker for gamers](https://www.theverge.com/2023/9/20/23882622/panasonic-soundslayer-wireless-neck-speaker-gaming)<!-- TECH:END -->
+ - [Uber plans to accept the US food stamps EBT card and health insurance-issued FSA and flex cards for Uber Eats grocery delivery orders, starting in 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230920/p34#a230920p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

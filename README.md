@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and analysis: four of the eight CPUs in the Kirin 9000S SoC use Arm designs and four use Huawei-modified Arm designs, HiSilicon made the GPU, and more &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230920/p15#a230920p15)
+ - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)
  - [Copenhagen-based Corti, which offers an AI chatbot for hospitals, raised $60M co-led by Atomico and Prosus, sources say at a $260M valuation &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230920/p14#a230920p14)
  - [Arlo’s new security tags can disable your security system with a doorbell tap](https://www.theverge.com/2023/9/20/23881842/arlo-security-nfc-tag-smart-home-system-video-doorbell)
- - [LimeWire, the infamous piracy site that pivoted to content creation, acquires AI image tool BlueWillow, which has a 2.5M-strong Discord and created 500M+ images &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p13#a230920p13)
- - [The Mysterious &#39;Warming Hole&#39; in the Middle of the US](https://www.wired.com/story/the-mysterious-warming-hole-in-the-middle-of-the-us/)
- - [How to Get Free Ebooks on ‘Stuff Your E-Reader’ Day &lpar;2023&rpar;](https://www.wired.com/story/stuff-your-e-reader-day-september-2023/)<!-- TECH:END -->
+ - [LimeWire, the infamous piracy site that pivoted to content creation, acquires AI image tool BlueWillow, which has a 2.5M-strong Discord and created 500M+ images &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p13#a230920p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

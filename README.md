@@ -156,7 +156,7 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The Gruesome Story of How Neuralink’s Monkeys Actually Died](https://www.wired.com/story/elon-musk-pcrm-neuralink-monkey-deaths/)
- - [PayPal says its stablecoin PYUSD is now available on Venmo to select users, with a full rollout in the coming weeks &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/230920/p32#a230920p32)
+ - [PayPal says select Venmo users can now purchase its stablecoin PYUSD, with a rollout to more users in the coming weeks, in addition to BTC, ETH, BCH, and LTC &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/230920/p32#a230920p32)
  - [Echo Hub hands-on: It’s all about the widgets](https://www.theverge.com/23882652/amazon-echo-hub-smart-home-controller-hands-on)
  - [How to preorder all of the new Amazon devices, including the Echo Hub](https://www.theverge.com/23881928/amazon-event-echo-hub-fire-tv-blink-eero-glasses-alexa-preorder)
  - [The Orion Video System app turns your iPad into an HDMI monitor with retro vibes](https://www.theverge.com/2023/9/20/23882461/orion-video-system-app-ipad-os-uvc-hdmi-monitor)<!-- TECH:END -->

@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Japan-based Soramitsu, which helped build Cambodia&#39;s &quot;quasi-digital currency&quot; system and is running CBDC studies in other Southeast Asian countries &lpar;Rest of World&rpar;](http://www.techmeme.com/230920/p8#a230920p8)
  - [OxygenOS 14 beta roadmap released: Here’s when it’ll arrive on your device](https://www.androidauthority.com/oxygenos-14-beta-roadmap-3366100/)
  - [Watch: Someone connected an iPhone 15 to an Android phone via USB-C](https://www.androidauthority.com/connect-iphone-15-to-android-phone-usb-c-3366099/)
  - [Galaxy S24 Ultra might not be the zoom king in 2024 thanks to this downgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-drop-10x-camera-5x-camera-3365193/)
- - [A profile of Jeff Yass, whose Susquehanna International Group has a ~15% stake in ByteDance, and is working to prevent a US TikTok ban by donating to lawmakers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230920/p7#a230920p7)
- - [It’s time to turn in your Pixel 4a as Google ends software support](https://www.androidauthority.com/google-pixel-4a-end-of-life-3366088/)<!-- TECH:END -->
+ - [A profile of Jeff Yass, whose Susquehanna International Group has a ~15% stake in ByteDance, and is working to prevent a US TikTok ban by donating to lawmakers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230920/p7#a230920p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

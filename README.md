@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub expands Copilot Chat beta in Visual Studio and VS Code to individual subscribers, after launching the tool for business users in July 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230920/p39#a230920p39)
+ - [Facebook changed its logo — see if you can tell the difference](https://www.theverge.com/2023/9/20/23883126/meta-facebook-changed-logo-design-wordmark-reactions)
+ - [Here are the details on the grisly deaths of Elon Musk’s Neuralink monkeys](https://www.theverge.com/2023/9/20/23882888/elon-musk-brain-implant-startup-neuralink-monkeys-euthanized)
  - [Android 14 QPR1 will let you keep apps open when you close the Pixel Fold](https://www.androidauthority.com/android-14-qpr1-stay-unlocked-on-fold-3365897/)
- - [Repair Mode could hide your personal data while your Pixel phone is being fixed](https://www.androidauthority.com/pixel-repair-mode-3365357/)
- - [MotherDuck, which is commercializing the database platform DuckDB, raised a $52.5M Series B at a $400M post-money valuation, taking its total funding to $100M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p38#a230920p38)
- - [T-Mobile &#39;System Glitch&#39; Exposes Some Customers&#39; Personal and Payment Info     - CNET](https://www.cnet.com/tech/mobile/t-mobile-system-glitch-exposes-some-customers-personal-and-payment-info/#ftag=CAD590a51e)
- - [Best Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Repair Mode could hide your personal data while your Pixel phone is being fixed](https://www.androidauthority.com/pixel-repair-mode-3365357/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

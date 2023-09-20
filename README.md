@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon unveils generative AI updates for Alexa, aiming to become more conversational and personalized, available as a free preview on all Echo devices in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p25#a230920p25)
+ - [Amazon Upgrades Alexa for the ChatGPT Era](https://www.wired.com/story/amazon-upgrades-alexa-for-the-chatgpt-era/)
  - [Record price drop on the Sony INZONE H9 wireless gaming headset](https://www.androidauthority.com/sony-inzone-h9-deal-3366228/)
  - [How to set up your own Contact Poster in iOS 17](https://www.theverge.com/23814601/iphone-ios-17-contact-poster-how-to)
- - [Amazon announces the $150 Echo Show 8 with a new design, a centered camera, a smart home hub, Spatial Audio, and a changing home screen based on proximity &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230920/p24#a230920p24)
- - [iPhone 14 hitting east coast&#39;s biggest agricultural fair with false 911 calls](https://appleinsider.com/articles/23/09/20/iphone-14-hitting-east-coasts-biggest-agricultural-fair-with-false-911-calls?utm_medium=rss)
- - [How to use FaceTime on Apple TV with Continuity Camera on iPhone](https://appleinsider.com/inside/tvos-17/tips/how-to-use-facetime-on-apple-tv-with-continuity-camera-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon announces the $150 Echo Show 8 with a new design, a centered camera, a smart home hub, Spatial Audio, and a changing home screen based on proximity &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230920/p24#a230920p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

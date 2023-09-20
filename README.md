@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New study finds Mac most secure &amp; cost competitive in enterprise workplaces](https://appleinsider.com/articles/23/09/20/new-study-finds-mac-most-secure-cost-competitive-in-enterprise-workplaces?utm_medium=rss)
  - [X ranks the lowest among all social media in combating climate disinformation, study finds](https://www.theverge.com/2023/9/20/23882774/x-climate-misinformation-study-climate-action-disinformation)
  - [Uber plans to accept the US food stamps EBT card and health insurance-issued FSA and flex cards for Uber Eats grocery delivery orders, starting in 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230920/p34#a230920p34)
  - [Panasonic cuts the wires from its SoundSlayer neck speaker for gamers](https://www.theverge.com/2023/9/20/23882622/panasonic-soundslayer-wireless-neck-speaker-gaming)
- - [In its Prime lawsuit, the FTC alleges three Amazon executives played key roles in enrolling customers unwittingly and making it hard to cancel subscriptions &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/230920/p33#a230920p33)
- - [4 Best Early Prime Day TV Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023/)<!-- TECH:END -->
+ - [Pregnancy and Sleep: How It Changes Through the 3 Trimesters     - CNET](https://www.cnet.com/health/sleep/pregnancy-and-sleep-how-it-changes-through-the-3-trimesters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

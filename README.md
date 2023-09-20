@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Copenhagen-based Corti, which offers an AI chatbot for hospitals, raised $60M co-led by Atomico and Prosus, sources say at a $260M valuation &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230920/p14#a230920p14)
  - [Arlo’s new security tags can disable your security system with a doorbell tap](https://www.theverge.com/2023/9/20/23881842/arlo-security-nfc-tag-smart-home-system-video-doorbell)
  - [LimeWire, the infamous piracy site that pivoted to content creation, acquires AI image tool BlueWillow, which has a 2.5M-strong Discord and created 500M+ images &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p13#a230920p13)
  - [The Mysterious &#39;Warming Hole&#39; in the Middle of the US](https://www.wired.com/story/the-mysterious-warming-hole-in-the-middle-of-the-us/)
- - [How to Get Free Ebooks on ‘Stuff Your E-Reader’ Day &lpar;2023&rpar;](https://www.wired.com/story/stuff-your-e-reader-day-september-2023/)
- - [The Kids Don’t Want to Go to College Anymore, and Why Would They?](https://www.wired.com/story/have-a-nice-future-podcast-22/)<!-- TECH:END -->
+ - [How to Get Free Ebooks on ‘Stuff Your E-Reader’ Day &lpar;2023&rpar;](https://www.wired.com/story/stuff-your-e-reader-day-september-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

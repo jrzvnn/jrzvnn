@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [E-commerce marketing company Klaviyo prices its 19.2M shares at $30 a piece, raising $576M in its IPO at a fully diluted valuation of $9.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230920/p1#a230920p1)
  - [Nikon’s new ZF is a retro-styled full-frame camera aimed right at our nostalgic hearts](https://www.theverge.com/2023/9/20/23878641/nikon-zf-full-frame-mirrorless-classic-camera-fm2-film-specs-price)
  - [The best Apple Watch Series 9 cases](https://www.androidauthority.com/best-apple-watch-series-9-cases-3365986/)
  - [Calgary-based ZayZoon, which provides SMB employees access to their earned wages whenever they need them, raised a $34.5M Series B co-led by Framework and EDC &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230919/p52#a230919p52)
- - [Apple on iPhone 15 Pro: &#39;The best game console is the one you have with you&#39;](https://appleinsider.com/articles/23/09/20/apple-on-iphone-15-pro-the-best-game-console-is-the-one-you-have-with-you?utm_medium=rss)
- - [How Airbnb Head of Trust and Safety Naba Banerjee cut parties reported on the service by 55% from 2020 to 2022 and launched an anti-party AI system in May 2023 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/230919/p51#a230919p51)<!-- TECH:END -->
+ - [Apple on iPhone 15 Pro: &#39;The best game console is the one you have with you&#39;](https://appleinsider.com/articles/23/09/20/apple-on-iphone-15-pro-the-best-game-console-is-the-one-you-have-with-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

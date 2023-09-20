@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eero’s new Max 7 is a powerful router with Wi-Fi 7 support](https://www.theverge.com/2023/9/20/23882163/amazon-eero-max-7-wi-fi-router-mesh-price-release-date)
+ - [Peacock’s John Wick prequel series, The Continental, shoots itself in the foot](https://www.theverge.com/2023/9/20/23879184/the-continentental-john-wick-peacock-review)
  - [Ring’s new Stick Up Cam Pro includes radar sensors to help with motion detection](https://www.theverge.com/2023/9/20/23882430/ring-stick-up-cam-pro-radar-sensors-motion-detection)
  - [Unity&#39;s self-sabotage with pricing will be a long-term problem for Apple](https://appleinsider.com/articles/23/09/20/unitys-self-sabotage-with-pricing-will-be-a-long-term-problem-for-apple?utm_medium=rss)
- - [Does your Mac, iPad, or iPhone make the cut for &#39;Death Stranding Director&#39;s Cut?&#39;](https://appleinsider.com/articles/23/09/20/does-your-mac-ipad-or-iphone-make-the-cut-for-death-stranding-directors-cut?utm_medium=rss)
- - [Echo smart speakers can soon control your smart lights automatically](https://www.theverge.com/2023/9/20/23881647/amazon-echo-smart-speaker-alexa-automatic-lighting-new-feature)
- - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)<!-- TECH:END -->
+ - [Does your Mac, iPad, or iPhone make the cut for &#39;Death Stranding Director&#39;s Cut?&#39;](https://appleinsider.com/articles/23/09/20/does-your-mac-ipad-or-iphone-make-the-cut-for-death-stranding-directors-cut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

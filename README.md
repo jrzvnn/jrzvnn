@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom and son reunites after he wakes up from a 16-day coma.](http://9gag.com/gag/a4oBjvv)
+ - 😝 [Justice Served..](http://9gag.com/gag/ay2m8YY)
  - 😝 [I want to fly whit them too](http://9gag.com/gag/aOxndGv)
- - 💣 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
- - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 👉 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
+ - 💣 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
+ - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
 
 ---
 

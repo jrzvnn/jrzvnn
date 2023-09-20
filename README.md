@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Sept. 20: $630 off iMac, Apple Fine Woven Case for iPhone 15 Pro Max $56, iPad Air 5 $408, more](https://appleinsider.com/articles/23/09/20/daily-deals-sept-20-630-off-imac-apple-fine-woven-case-for-iphone-15-pro-max-56-ipad-air-5-408-more?utm_medium=rss)
+ - [Amazon Fire TV Soundbar hands-on: it’s loud and inexpensive](https://www.theverge.com/23882491/amazon-fire-tv-soundbar-hands-on-price)
  - [Amazon Hardware Event 2023: Alexa, Echo Hub, Echo Frames, Eero, Fire TV](https://www.wired.com/story/amazon-hardware-event-2023-everything-announced/)
  - [The UK Is Burning Climate Pledges to Fuel a Culture War](https://www.wired.com/story/uk-net-zero-climate-pledges-weakened-rishi-sunak/)
- - [Amazon’s new Echo Frames hands-on: lighter, louder, still all Alexa](https://www.theverge.com/23882492/amazon-echo-frames-2023-hands-on-mic-speaker-audio)
- - [OpenAI debuts DALL-E 3, which can be summoned and controlled using ChatGPT, and plans to make it available to ChatGPT+ and enterprise customers in October &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230920/p30#a230920p30)
- - [OpenAI’s Dall-E 3 Is an Art Generator Powered by ChatGPT](https://www.wired.com/story/dall-e-3-open-ai-chat-gpt/)<!-- TECH:END -->
+ - [Amazon’s new Echo Frames hands-on: lighter, louder, still all Alexa](https://www.theverge.com/23882492/amazon-echo-frames-2023-hands-on-mic-speaker-audio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

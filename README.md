@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
+ - 😝 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)
+ - 😝 [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)
  - 💣 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
- - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
+ - 😝 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)
+ - 👉 [The last seconds drama](http://9gag.com/gag/aqeVgRj)<!-- MEMES:END -->
 
 ---
 

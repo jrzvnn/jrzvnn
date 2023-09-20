@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 QPR1 will let you keep apps open when you close the Pixel Fold](https://www.androidauthority.com/android-14-qpr1-stay-unlocked-on-fold-3365897/)
  - [Repair Mode could hide your personal data while your Pixel phone is being fixed](https://www.androidauthority.com/pixel-repair-mode-3365357/)
  - [MotherDuck, which is commercializing the database platform DuckDB, raised a $52.5M Series B at a $400M post-money valuation, taking its total funding to $100M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230920/p38#a230920p38)
  - [T-Mobile &#39;System Glitch&#39; Exposes Some Customers&#39; Personal and Payment Info     - CNET](https://www.cnet.com/tech/mobile/t-mobile-system-glitch-exposes-some-customers-personal-and-payment-info/#ftag=CAD590a51e)
- - [Best Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)
- - [Google is testing a new floating search bar in Android 14 QPR1](https://www.androidauthority.com/pixel-floating-search-bar-3365457/)<!-- TECH:END -->
+ - [Best Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

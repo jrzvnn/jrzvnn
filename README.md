@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Hardware Event 2023: Alexa, Echo Hub, Echo Frames, Eero, Fire TV](https://www.wired.com/story/amazon-hardware-event-2023-everything-announced/)
+ - [The UK Is Burning Climate Pledges to Fuel a Culture War](https://www.wired.com/story/uk-net-zero-climate-pledges-weakened-rishi-sunak/)
+ - [Amazon’s new Echo Frames hands-on: lighter, louder, still all Alexa](https://www.theverge.com/23882492/amazon-echo-frames-2023-hands-on-mic-speaker-audio)
  - [OpenAI debuts DALL-E 3, which can be summoned and controlled using ChatGPT, and plans to make it available to ChatGPT+ and enterprise customers in October &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230920/p30#a230920p30)
- - [OpenAI’s Dall-E 3 Is an Art Generator Powered by ChatGPT](https://www.wired.com/story/dall-e-3-open-ai-chat-gpt/)
- - [Waymo begins testing the waters for a robotaxi service in Los Angeles](https://www.theverge.com/2023/9/20/23880537/waymo-los-angeles-tour-autonomous-robotaxi-tickets)
- - [Amazon makes Alexa more conversational with generative AI](https://www.androidauthority.com/amazon-alexa-ai-improvements-3366260/)
- - [All the biggest announcements from Amazon’s September 2023 product launch event](https://www.theverge.com/2023/9/20/23881164/amazon-event-hardware-devices-alexa-echo-ring)<!-- TECH:END -->
+ - [OpenAI’s Dall-E 3 Is an Art Generator Powered by ChatGPT](https://www.wired.com/story/dall-e-3-open-ai-chat-gpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

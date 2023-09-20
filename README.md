@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 😝 [Women](http://9gag.com/gag/aYVv7bV)
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 😝 [What a trick shot](http://9gag.com/gag/aME08VR)
+ - 😝 [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
+ - 💣 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
+ - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 👉 [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)<!-- MEMES:END -->
 
 ---
 

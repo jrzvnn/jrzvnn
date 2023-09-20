@@ -164,11 +164,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
- - 💣 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 👉 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)<!-- MEMES:END -->
+ - 😝 [Justice Served..](http://9gag.com/gag/ay2m8YY)
+ - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
+ - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
+ - 😝 [Wtf is wrong with some people](http://9gag.com/gag/ajV3Xzx)
+ - 👉 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)<!-- MEMES:END -->
 
 ---
 

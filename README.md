@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S24 Ultra might not be the zoom king in 2024 thanks to this downgrade](https://www.androidauthority.com/samsung-galaxy-s24-ultra-drop-10x-camera-5x-camera-3365193/)
+ - [A profile of Jeff Yass, whose Susquehanna International Group has a ~15% stake in ByteDance, and is working to prevent a US TikTok ban by donating to lawmakers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230920/p7#a230920p7)
  - [It’s time to turn in your Pixel 4a as Google ends software support](https://www.androidauthority.com/google-pixel-4a-end-of-life-3366088/)
  - [WhatsApp announces Flows to let merchants build richer shopping experiences like allowing users to pick a flight seat or order a meal without leaving the app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230920/p6#a230920p6)
- - [Meta launches in-chat payments for WhatsApp in India, allowing businesses to accept payments via credit/debit cards, WhatsApp Pay or UPI at no extra cost &lpar;Financial Times&rpar;](http://www.techmeme.com/230920/p5#a230920p5)
- - [Meta expands its Meta Verified program to businesses on Facebook and Instagram in select geographies, starting at $21.99 per month per page on either service &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230920/p4#a230920p4)
- - [Meta is expanding its paid verification badge to business accounts](https://www.theverge.com/2023/9/20/23880510/meta-verified-blue-check-businesses-instagram-facebook-whatsapp)<!-- TECH:END -->
+ - [Meta launches in-chat payments for WhatsApp in India, allowing businesses to accept payments via credit/debit cards, WhatsApp Pay or UPI at no extra cost &lpar;Financial Times&rpar;](http://www.techmeme.com/230920/p5#a230920p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

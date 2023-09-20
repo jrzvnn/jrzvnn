@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Apple 3-in-1 Wireless Chargers &lpar;2023&rpar;: For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+ - [A Pair of Sun Probes Just Got Closer to Solving a Solar Enigma](https://www.wired.com/story/a-pair-of-sun-probes-just-got-closer-to-solving-a-solar-enigma/)
+ - [Dumb Money is the Funko Pop version of the GameStop story](https://www.theverge.com/23880707/dumb-money-seth-rogen-pete-davidson-paul-dano-gamestop)
  - [Latin America-focused rapid grocery startup JOKR raised a $50M Series D led by Convivialit&amp;eacute; at an $800M valuation, down from a $1.3B valuation in February 2023 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230920/p16#a230920p16)
- - [Sources and analysis: four of the eight CPUs in the Kirin 9000S SoC use Arm designs and four use Huawei-modified Arm designs, HiSilicon made the GPU, and more &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230920/p15#a230920p15)
- - [How to download and use offline maps in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-download-and-use-offline-maps-in-ios-17?utm_medium=rss)
- - [Copenhagen-based Corti, which offers an AI chatbot for hospitals, raised $60M co-led by Atomico and Prosus, sources say at a $260M valuation &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230920/p14#a230920p14)
- - [Arlo’s new security tags can disable your security system with a doorbell tap](https://www.theverge.com/2023/9/20/23881842/arlo-security-nfc-tag-smart-home-system-video-doorbell)<!-- TECH:END -->
+ - [Sources and analysis: four of the eight CPUs in the Kirin 9000S SoC use Arm designs and four use Huawei-modified Arm designs, HiSilicon made the GPU, and more &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230920/p15#a230920p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

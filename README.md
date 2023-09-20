@@ -165,10 +165,10 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A father calls the local police because his 11 year old daughter is being stalked, cops proceed to threaten the little girl with making cp](http://9gag.com/gag/axoegw2)
- - 😝 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
- - 💣 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - 😝 [I saw the video here in 9gag](http://9gag.com/gag/a9q4AR1)
+ - 💣 [The quickness... Oof!](http://9gag.com/gag/a9q4W0Z)
  - 😝 [It&#39;s rude to some people... but you have to talk about it first if... \ud83c\uddf2\ud83c\uddee\ud83c\uddf8\ud83c\udde8](http://9gag.com/gag/aEqj7De)
- - 👉 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)<!-- MEMES:END -->
+ - 👉 [Does she like you?](http://9gag.com/gag/az2v8Bb)<!-- MEMES:END -->
 
 ---
 

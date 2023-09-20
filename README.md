@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French Apple Store staff will strike as iPhone 15 goes on sale](https://appleinsider.com/articles/23/09/20/french-apple-store-staff-will-strike-as-iphone-15-goes-on-sale?utm_medium=rss)
+ - [How a ‘Digital Peeping Tom’ Unmasked Porn Actors](https://www.wired.com/story/kashmir-hill-privacy-surveillance-facial-recognition/)
+ - [Samsung brings One UI 6 beta to the Galaxy S22 series](https://www.androidauthority.com/samsung-galaxy-s22-series-one-ui-6-beta-korea-3366130/)
  - [In a WeChat post, China&#39;s Ministry of State Security accuses the US of hacking Huawei&#39;s servers, stealing critical data, and installing backdoors since 2009 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230920/p10#a230920p10)
- - [T-Mobile users say other people’s account information is appearing in their app](https://www.theverge.com/2023/9/20/23881825/t-mobile-account-security-breach-customer-information-leak)
- - [Q&amp;A with Matthew Panzarino, who recently stepped down as TechCrunch EIC after 10 years, on the site&#39;s Silicon Valley relationship, the future of media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230920/p9#a230920p9)
- - [A profile of Japan-based Soramitsu, which helped build Cambodia&#39;s &quot;quasi-digital currency&quot; system and is running CBDC studies in other Southeast Asian countries &lpar;Rest of World&rpar;](http://www.techmeme.com/230920/p8#a230920p8)
- - [A profile of Jeff Yass, whose Susquehanna International Group has a ~15% stake in ByteDance, and is working to prevent a US TikTok ban by donating to lawmakers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230920/p7#a230920p7)<!-- TECH:END -->
+ - [T-Mobile users say other people’s account information is appearing in their app](https://www.theverge.com/2023/9/20/23881825/t-mobile-account-security-breach-customer-information-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

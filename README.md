@@ -155,11 +155,11 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Darrow, which uses AI to parse public documents for class action lawsuit potential, raised a $35M Series B led by Georgian and says ~50 companies use its tool &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230920/p31#a230920p31)
+ - [Amazon&#39;s new Echo devices bring generative AI and new smart home features](https://appleinsider.com/articles/23/09/20/amazons-new-echo-devices-bring-generative-ai-and-new-smart-home-features?utm_medium=rss)
+ - [GitHub’s AI-powered coding chatbot is now available for individuals](https://www.theverge.com/2023/9/20/23882605/github-copilot-chat-ai-chatbot-individuals)
  - [Latest Galaxy Buds FE leak give us our best look yet at Samsung’s earbuds](https://www.androidauthority.com/galaxy-buds-fe-new-images-3366278/)
- - [The new FineWoven iPhone cases are very bad](https://www.theverge.com/2023/9/20/23882255/apple-iphone-15-finewoven-case-wallet-bad)
- - [EA taps Burnout studio Criterion to work on ‘new era’ of Battlefield](https://www.theverge.com/2023/9/20/23882537/ea-criterion-battlefield)
- - [OpenAI releases third version of DALL-E](https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai)
- - [Daily deals Sept. 20: $630 off iMac, Apple Fine Woven Case for iPhone 15 Pro Max $56, iPad Air 5 $408, more](https://appleinsider.com/articles/23/09/20/daily-deals-sept-20-630-off-imac-apple-fine-woven-case-for-iphone-15-pro-max-56-ipad-air-5-408-more?utm_medium=rss)<!-- TECH:END -->
+ - [The new FineWoven iPhone cases are very bad](https://www.theverge.com/2023/9/20/23882255/apple-iphone-15-finewoven-case-wallet-bad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

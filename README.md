@@ -166,8 +166,8 @@ Dockerfile               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Ah, I see you&#39;re a man of culture as well](http://9gag.com/gag/a3ZzMRr)
  - 😝 [What a trick shot](http://9gag.com/gag/aME08VR)
- - 💣 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
- - 😝 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)
+ - 💣 [Would this also apply to humans?](http://9gag.com/gag/aBdb0Zz)
+ - 😝 [OSHA enters the chat*](http://9gag.com/gag/aL1OgmW)
  - 👉 [When Lidl in Poland tried to make their advertising more diverse](http://9gag.com/gag/aPgVR4B)<!-- MEMES:END -->
 
 ---

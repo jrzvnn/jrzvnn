@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration awards $238M via the Defense Department to set up eight chip research hubs, one of the earliest releases of the nearly $53B CHIPS Act &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/230921/p9#a230921p9)
- - [How to use Personal Voice in iOS 17 and how it compares to an actual voice](https://appleinsider.com/inside/ios-17/tips/how-to-use-personal-voice-in-ios-17-and-how-it-compares-to-an-actual-voice?utm_medium=rss)
- - [Google is being sued after bad map directions led a man to his death](https://appleinsider.com/articles/23/09/21/google-is-being-sued-after-bad-map-directions-led-a-man-to-his-death?utm_medium=rss)
- - [You can’t buy the Galaxy S23 Tactical Edition even if you wanted to](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-2-3366506/)
- - [Apple’s failure to develop its own modem detailed in new report](https://www.theverge.com/2023/9/21/23883565/apple-5g-modem-failure-inside-story)<!-- TECH:END -->
+ - [How Elon Musk and Tesla Helped Spark the UAW Auto Strikes](https://www.wired.com/story/elon-musk-and-tesla-helped-spark-uaw-auto-strikes/)
+ - [Everything You Need to Know About Getting Your Genome Sequenced](https://www.wired.com/story/everything-you-need-to-know-about-getting-your-genome-sequenced/)
+ - [8 Best Deals: Sex Toys, Tights, and Coffee Gear](https://www.wired.com/story/mid-week-deals-september-21-2023/)
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2023&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
+ - [How to Switch iPhones or iPads and Transfer Data &lpar;2023&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 💣 [Germany](http://9gag.com/gag/aqeVg17)
  - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 💣 [I met both!](http://9gag.com/gag/aVb978P)
+ - 😝 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
  - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
 
 ---

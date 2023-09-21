@@ -158,7 +158,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Google continues to push for RCS integration on Apple devices with new &#39;Meet iPager&#39; video](https://appleinsider.com/articles/23/09/21/google-continues-to-push-for-rcs-integration-on-apple-devices-with-new-meet-ipager-video?utm_medium=rss)
  - [Apple rolls out iOS 17.0.1, iPadOS 17.0.1, watchOS 10.0.1 updates](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)
  - [Razer goes after the Herman Miller Aeron with its Fujin gaming chair](https://www.theverge.com/2023/9/21/23883174/razer-fujin-pro-gaming-chair-herman-miller-aeron)
- - [Snap says Snapchat+ now has 5M+ subscribers, up from 3M it disclosed in April 2023; the $3.99/month tier launched in June 2022 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230921/p35#a230921p35)
+ - [Snap says Snapchat+ now has 5M+ subscribers, up from 3M in April 2023; the $3.99 per month tier launched in June 2022 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230921/p35#a230921p35)
  - [Apple seeds second macOS Sonoma release candidate](https://appleinsider.com/articles/23/09/21/apple-seeds-second-macos-sonoma-release-candidate?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

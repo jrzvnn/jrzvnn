@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is testing Google results in its search pages](https://www.theverge.com/2023/9/21/23884278/tiktok-google-search-results-antitrust-case)
  - [The Great Unbundling of Rupert Murdoch](https://www.wired.com/story/rupert-murdoch-end-of-an-era/)
  - [The 55 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
  - [Headway Premium drops to only $59.97, making it affordable to engage in self-growth](https://appleinsider.com/articles/23/09/21/headway-premium-drops-to-only-5997-making-it-affordable-to-engage-in-self-growth?utm_medium=rss)
- - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)
- - [Mesh, which helps its customers transfer and manage digital assets like crypto, raised a $22M Series A led by Money Forward, bringing its total funding to $32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230921/p37#a230921p37)<!-- TECH:END -->
+ - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

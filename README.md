@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Korean game publisher Krafton says Dead Space developer Striking Distance&#39;s CEO Glen Schofield, COO, and CFO are leaving, months after its new game flopped &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230921/p10#a230921p10)
  - [How Elon Musk and Tesla Helped Spark the UAW Auto Strikes](https://www.wired.com/story/elon-musk-and-tesla-helped-spark-uaw-auto-strikes/)
  - [Everything You Need to Know About Getting Your Genome Sequenced](https://www.wired.com/story/everything-you-need-to-know-about-getting-your-genome-sequenced/)
  - [8 Best Deals: Sex Toys, Tights, and Coffee Gear](https://www.wired.com/story/mid-week-deals-september-21-2023/)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2023&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
- - [How to Switch iPhones or iPads and Transfer Data &lpar;2023&rpar;](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2023&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eight things we learned from Intel’s Innovation keynote](https://www.theverge.com/2023/9/21/23882988/intel-innovation-2023-announcements-meteor-lake-lunar-panther-xeon)
  - [The iPhone 15 has a new optimized charging setting, here’s how it works](https://www.theverge.com/2023/9/21/23884725/apple-iphone-15-pro-optimized-charging-80-percent-how-it-works)
  - [NVIDIA GeForce RTX 5090: Release date, price, specs, rumors, and more](https://www.androidauthority.com/nvidia-geforce-rtx-5090-3361677/)
  - [YouTube to Introduce Generative AI Feature Dream Screen     - CNET](https://www.cnet.com/tech/services-and-software/youtube-to-introduce-generative-ai-feature-dream-screen/#ftag=CAD590a51e)
- - [Spotify code suggests HiFi tier is coming with lossless audio for $20 / month](https://www.theverge.com/2023/9/21/23884577/spotify-supremium-lossless-audio-tier-code)
- - [How to turn off NameDrop in iOS 17](https://www.theverge.com/23884415/ios-17-namedrop-how-to-iphone-apple)<!-- TECH:END -->
+ - [Spotify code suggests HiFi tier is coming with lossless audio for $20 / month](https://www.theverge.com/2023/9/21/23884577/spotify-supremium-lossless-audio-tier-code)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

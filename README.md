@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The next Baldur’s Gate 3 patch will finally let you change your appearance](https://www.theverge.com/2023/9/21/23883903/baldurs-gate-3s-patch-3-change-character-appearance)
  - [Apple updates iWork with iOS 17, macOS Sonoma features](https://appleinsider.com/articles/23/09/21/apple-updates-iwork-with-ios-17-macos-sonoma-features?utm_medium=rss)
  - [Microsoft Surface Go 4 adds more powerful chip and goes full business](https://www.androidauthority.com/microsoft-surface-go-4-announcement-3366691/)
  - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
- - [Microsoft announces Surface Hub 3 with portrait mode](https://www.theverge.com/2023/9/21/23883955/microsoft-surface-hub-3-portrait-mode)
- - [Nnete Matima and Jo&amp;euml;l Carter, two Black ex-TikTok staff, file a civil rights complaint alleging ByteDance fired them because they spoke up about discrimination &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230921/p33#a230921p33)<!-- TECH:END -->
+ - [Microsoft announces Surface Hub 3 with portrait mode](https://www.theverge.com/2023/9/21/23883955/microsoft-surface-hub-3-portrait-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

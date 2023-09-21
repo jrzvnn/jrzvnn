@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
  - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
+ - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 

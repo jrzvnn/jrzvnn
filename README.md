@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the documents the Google antitrust trial judge didn’t want you to see](https://www.theverge.com/2023/9/21/23883680/us-google-antitrust-trial-amit-mehta-doj-exhibit-documents)
- - [How to set a unique search engine for private browsing in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-a-unique-search-engine-for-private-browsing-in-ios-17?utm_medium=rss)
- - [Microsoft Surface and AI event: live coverage from the keynote](https://www.theverge.com/2023/9/21/23861261/microsoft-surface-event-ai-windows-live-blog-keynote)
- - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)
- - [Microsoft’s Surface and AI event: all the news and announcements](https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai)<!-- TECH:END -->
+ - [Future iPhones may recognize accessories and change user interface to suit](https://appleinsider.com/articles/23/09/21/future-iphones-may-recognize-accessories-and-change-user-interface-to-suit?utm_medium=rss)
+ - [How to customize the iPhone 15 Pro’s Action Button](https://www.theverge.com/23882928/apple-iphone-15-pro-action-button-custom-how-to)
+ - [Bose QuietComfort Ultra Earbuds review: still great but a questionable ‘upgrade’](https://www.theverge.com/23883649/bose-quietcomfort-ultra-earbuds-review)
+ - [A live blog of Microsoft&#39;s Surface and AI event, where the company is expected to detail its vision for Surface, Windows, Bing, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230921/p19#a230921p19)
+ - [Conservative media mogul Rupert Murdoch is stepping down from News Corp, Fox](https://www.theverge.com/2023/9/21/23883699/rupert-murdoch-fox-news-corp-steps-down-lachlan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

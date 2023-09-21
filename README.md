@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
+ - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 💣 [Police chase](http://9gag.com/gag/a9q4146)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
 
 ---
 

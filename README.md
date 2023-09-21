@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is being sued after bad map directions led a man to his death](https://appleinsider.com/articles/23/09/21/google-is-being-sued-after-bad-map-directions-led-a-man-to-his-death?utm_medium=rss)
  - [You can’t buy the Galaxy S23 Tactical Edition even if you wanted to](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-2-3366506/)
  - [Apple’s failure to develop its own modem detailed in new report](https://www.theverge.com/2023/9/21/23883565/apple-5g-modem-failure-inside-story)
  - [Amazon&#39;s Eero announces the Eero Max 7, its first router to support Wi-Fi 7, offering 2.4GHz, 5GHz, and 6GHz and &quot;up to 4.3 Gbps&quot; wireless throughput, for $600+ &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230921/p8#a230921p8)
- - [Apple&#39;s iPhone modem design is three years behind Qualcomm](https://appleinsider.com/articles/23/09/21/apples-iphone-modem-design-is-three-years-behind-qualcomm?utm_medium=rss)
- - [Confessions of a Viral AI Writer](https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone modem design is three years behind Qualcomm](https://appleinsider.com/articles/23/09/21/apples-iphone-modem-design-is-three-years-behind-qualcomm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Surface and AI event: live coverage from the keynote](https://www.theverge.com/2023/9/21/23861261/microsoft-surface-event-ai-windows-live-blog-keynote)
  - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)
  - [Microsoft’s Surface and AI event: all the news and announcements](https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai)
  - [Sources: Panos Panay&#39;s abrupt departure came after Microsoft made budget and staff cuts, canceled products, and discussed reorganizing his hardware unit &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/230921/p18#a230921p18)
- - [I Failed Two Captcha Tests This Week. Am I Still Human?](https://www.wired.com/story/failed-captcha-test-am-i-still-human/)
- - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [I Failed Two Captcha Tests This Week. Am I Still Human?](https://www.wired.com/story/failed-captcha-test-am-i-still-human/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

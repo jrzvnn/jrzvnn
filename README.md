@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AI-generated geometric art crafted using Stable Diffusion and ControlNet, a neural network structure that adds extra conditions to diffusion models &lpar;Keisha Oleaga/nft now&rpar;](http://www.techmeme.com/230921/p1#a230921p1)
  - [The DOJ removes public access to Google&#39;s emails, charts, and internal presentations that had come out as evidence in the antitrust lawsuit against the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/230920/p43#a230920p43)
  - [Android 14 QPR1’s new screen search gesture is inspired by Google Now on Tap](https://www.androidauthority.com/android-14-qpr1-screen-search-3366397/)
  - [Sources: Apple spent billions of dollars developing a modem chip for the new iPhones to cut ties with Qualcomm, but the chip was slow and prone to overheating &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230920/p42#a230920p42)
- - [Fujifilm’s new Instax Pal is a $200 palm-sized digital camera bundled with a smartphone printer](https://www.theverge.com/2023/9/20/23879594/fujifilm-instax-pal-mini-link-2-camera-bundle-price)
- - [A consortium led by Japan Industrial Partners gains 78.65% of Toshiba via a tender offer, setting the company up to be taken private as early as December &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/230920/p41#a230920p41)<!-- TECH:END -->
+ - [Fujifilm’s new Instax Pal is a $200 palm-sized digital camera bundled with a smartphone printer](https://www.theverge.com/2023/9/20/23879594/fujifilm-instax-pal-mini-link-2-camera-bundle-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

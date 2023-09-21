@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [The iPhone 15 has a new optimized charging setting, here’s how it works](https://www.theverge.com/2023/9/21/23884725/apple-iphone-15-pro-optimized-charging-80-percent-how-it-works)
  - [NVIDIA GeForce RTX 5090: Release date, price, specs, rumors, and more](https://www.androidauthority.com/nvidia-geforce-rtx-5090-3361677/)
+ - [YouTube to Introduce Generative AI Feature Dream Screen     - CNET](https://www.cnet.com/tech/services-and-software/youtube-to-introduce-generative-ai-feature-dream-screen/#ftag=CAD590a51e)
  - [Spotify code suggests HiFi tier is coming with lossless audio for $20 / month](https://www.theverge.com/2023/9/21/23884577/spotify-supremium-lossless-audio-tier-code)
- - [How to turn off NameDrop in iOS 17](https://www.theverge.com/23884415/ios-17-namedrop-how-to-iphone-apple)
- - [SMIC used DUV lithography, not EUV, for its 7nm chip, which isn&#39;t a breakthrough but does show progress and reaffirms China&#39;s commitment to domestic production &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/230921/p40#a230921p40)<!-- TECH:END -->
+ - [How to turn off NameDrop in iOS 17](https://www.theverge.com/23884415/ios-17-namedrop-how-to-iphone-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

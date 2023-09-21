@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off NameDrop in iOS 17](https://www.theverge.com/23884415/ios-17-namedrop-how-to-iphone-apple)
+ - [SMIC used DUV lithography, not EUV, for its 7nm chip, which isn&#39;t a breakthrough but does show progress and reaffirms China&#39;s commitment to domestic production &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/230921/p40#a230921p40)
  - [Amazon’s rumored home projector can turn anything into a screen](https://www.theverge.com/2023/9/21/23884363/amazon-smart-home-projector-alexa-device)
  - [Mastodon gets better search, onboarding, and cross-server interactions](https://www.theverge.com/2023/9/21/23884312/mastodon-search-onboarding-cross-server-interactions-4-2)
- - [Threads might be getting an edit button soon](https://www.theverge.com/2023/9/21/23884466/threads-edit-button-development-instagram-meta)
- - [Nintendo now supports passwordless sign-ins](https://www.theverge.com/2023/9/21/23884464/nintendo-passwordless-sign-in-passkeys)
- - [Amazon limits the number of books that authors can self-publish on its site to three a day, after an influx of suspected AI-generated material &lpar;Ella Creamer/The Guardian&rpar;](http://www.techmeme.com/230921/p39#a230921p39)<!-- TECH:END -->
+ - [Threads might be getting an edit button soon](https://www.theverge.com/2023/9/21/23884466/threads-edit-button-development-instagram-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

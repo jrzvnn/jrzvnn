@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo now supports passwordless sign-ins](https://www.theverge.com/2023/9/21/23884464/nintendo-passwordless-sign-in-passkeys)
+ - [Amazon limits the number of books that authors can self-publish on its site to three a day, after an influx of suspected AI-generated material &lpar;Ella Creamer/The Guardian&rpar;](http://www.techmeme.com/230921/p39#a230921p39)
  - [Environmental conservation in Brazil: more investments, fewer ‘stupid decisions’](https://www.theverge.com/2023/9/21/23884192/environmental-brazil-climate-summit)
  - [TikTok is testing a Google integration in different markets; researcher: TikTok&#39;s search feature includes an in-app option to search the same query on Google &lpar;Lara O&#39;Reilly/Insider&rpar;](http://www.techmeme.com/230921/p38#a230921p38)
- - [TikTok is testing Google results in its search pages](https://www.theverge.com/2023/9/21/23884278/tiktok-google-search-results-antitrust-case)
- - [The Great Unbundling of Rupert Murdoch](https://www.wired.com/story/rupert-murdoch-end-of-an-era/)
- - [The 55 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [Bose Unveils Smart Ultra Soundbar with Dolby Atmos Onboard     - CNET](https://www.cnet.com/tech/home-entertainment/bose-unveils-smart-ultra-soundbar-with-dolby-atmos-onboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

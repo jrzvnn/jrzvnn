@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Surface event: the 6 biggest announcements](https://www.theverge.com/2023/9/21/23882074/microsoft-surface-copilot-event-2023-biggest-announcements)
+ - [Google Pixel 8A allegedly leaks, shows off massive bezels](https://www.androidauthority.com/google-pixel-8a-hands-on-leak-3366648/)
+ - [Microsoft announces the 12.4&quot; Surface Laptop Go 3, offering Intel 12th Gen CPUs and Iris Xe GPUs, and up to 16GB of RAM, starting at $799 and shipping October 3 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230921/p28#a230921p28)
  - [Meta rolls out the ability for Facebook users to create up to four additional profiles and switch between them without logging out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230921/p27#a230921p27)
- - [Microsoft announces the 14.4&quot; Surface Laptop Studio 2, offering Intel&#39;s 13th Gen chips, Nvidia RTX 4050 or RTX 4060, and up to 2TB storage, starting at $1,999 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230921/p26#a230921p26)
- - [iPhone 15 Pro teardown shows new camera hardware, A17 Pro chip](https://appleinsider.com/articles/23/09/21/iphone-15-pro-teardown-shows-new-camera-hardware-a17-pro-chip?utm_medium=rss)
- - [YouTube unveils YouTube Studio AI features coming in 2024 and lets select creators test Aloud, a dubbing tool that creates AI-generated dubs in other languages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p25#a230921p25)
- - [The Dumb Alien Mummy Story Takes an Entirely Predictable Turn](https://www.wired.com/story/mexico-fake-aliens-science-fightback/)<!-- TECH:END -->
+ - [Microsoft announces the 14.4&quot; Surface Laptop Studio 2, offering Intel&#39;s 13th Gen chips, Nvidia RTX 4050 or RTX 4060, and up to 2TB storage, starting at $1,999 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230921/p26#a230921p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

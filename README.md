@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Google has extensively discussed dropping Broadcom for AI chips as early as 2027 to design its own TPUs, aiming to save billions of dollars annually &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230921/p12#a230921p12)
  - [Japanese chipmaking equipment maker Kokusai Electric plans to raise ~$750M in an IPO on October 25 in Tokyo at a ~$2.95B valuation, pricing shares at ~$12.78 &lpar;Reuters&rpar;](http://www.techmeme.com/230921/p11#a230921p11)
  - [Korean game publisher Krafton says Dead Space developer Striking Distance&#39;s CEO Glen Schofield, COO, and CFO are leaving, months after its new game flopped &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230921/p10#a230921p10)
  - [How Elon Musk and Tesla Helped Spark the UAW Auto Strikes](https://www.wired.com/story/elon-musk-and-tesla-helped-spark-uaw-auto-strikes/)
- - [Everything You Need to Know About Getting Your Genome Sequenced](https://www.wired.com/story/everything-you-need-to-know-about-getting-your-genome-sequenced/)
- - [8 Best Deals: Sex Toys, Tights, and Coffee Gear](https://www.wired.com/story/mid-week-deals-september-21-2023/)<!-- TECH:END -->
+ - [Everything You Need to Know About Getting Your Genome Sequenced](https://www.wired.com/story/everything-you-need-to-know-about-getting-your-genome-sequenced/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

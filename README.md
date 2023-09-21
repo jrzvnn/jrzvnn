@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proof of Play, which released a blockchain-based RPG game called Pirate Nation in December 2022, raised $33M in seed funding co-led by a16z and Greenoaks &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230921/p29#a230921p29)
+ - [The Surface Go 4 comes with a much-needed performance boost](https://www.theverge.com/2023/9/21/23880536/microsoft-surface-go-4-convertible-price-release-date)
  - [Microsoft Surface event: the 6 biggest announcements](https://www.theverge.com/2023/9/21/23882074/microsoft-surface-copilot-event-2023-biggest-announcements)
  - [Google Pixel 8A allegedly leaks, shows off massive bezels](https://www.androidauthority.com/google-pixel-8a-hands-on-leak-3366648/)
- - [Microsoft announces the 12.4&quot; Surface Laptop Go 3, offering Intel 12th Gen CPUs and Iris Xe GPUs, and up to 16GB of RAM, starting at $799 and shipping October 3 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230921/p28#a230921p28)
- - [Meta rolls out the ability for Facebook users to create up to four additional profiles and switch between them without logging out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230921/p27#a230921p27)
- - [Microsoft announces the 14.4&quot; Surface Laptop Studio 2, offering Intel&#39;s 13th Gen chips, Nvidia RTX 4050 or RTX 4060, and up to 2TB storage, starting at $1,999 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230921/p26#a230921p26)<!-- TECH:END -->
+ - [Microsoft announces the 12.4&quot; Surface Laptop Go 3, offering Intel 12th Gen CPUs and Iris Xe GPUs, and up to 16GB of RAM, starting at $799 and shipping October 3 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230921/p28#a230921p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

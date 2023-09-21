@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple updates iWork with iOS 17, macOS Sonoma features](https://appleinsider.com/articles/23/09/21/apple-updates-iwork-with-ios-17-macos-sonoma-features?utm_medium=rss)
  - [Microsoft Surface Go 4 adds more powerful chip and goes full business](https://www.androidauthority.com/microsoft-surface-go-4-announcement-3366691/)
  - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
  - [Microsoft announces Surface Hub 3 with portrait mode](https://www.theverge.com/2023/9/21/23883955/microsoft-surface-hub-3-portrait-mode)
- - [Nnete Matima and Jo&amp;euml;l Carter, two Black ex-TikTok staff, file a civil rights complaint alleging ByteDance fired them because they spoke up about discrimination &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230921/p33#a230921p33)
- - [A first look at Microsoft’s upgraded Surface Laptop Studio 2](https://www.theverge.com/23883722/microsoft-surface-laptop-studio-2-hands-on-features-photos)<!-- TECH:END -->
+ - [Nnete Matima and Jo&amp;euml;l Carter, two Black ex-TikTok staff, file a civil rights complaint alleging ByteDance fired them because they spoke up about discrimination &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230921/p33#a230921p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

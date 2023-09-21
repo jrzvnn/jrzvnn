@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W.T.F](http://9gag.com/gag/aKEX71b)
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 💣 [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
- - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
+ - 😝 [We are a totally peaceful group](http://9gag.com/gag/aoKG5Ze)
+ - 😝 [Damn thyroids](http://9gag.com/gag/a9q4RRW)
+ - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
+ - 👉 [What is the difference between illusion and delusion again? Or between irony and sarcasm? Or between imaginary and actual? Or between fantasy and magical realism? Or between abstract and concrete?](http://9gag.com/gag/a04D7YQ)<!-- MEMES:END -->
 
 ---
 

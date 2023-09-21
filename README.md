@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Headway Premium drops to only $59.97, making it affordable to engage in self-growth](https://appleinsider.com/articles/23/09/21/headway-premium-drops-to-only-5997-making-it-affordable-to-engage-in-self-growth?utm_medium=rss)
  - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)
- - [Mesh, which helps customers transfer and manage digital assets like crypto, raised a $22M Series A led by Money Forward, bringing its total raised to $32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230921/p37#a230921p37)
+ - [Mesh, which helps its customers transfer and manage digital assets like crypto, raised a $22M Series A led by Money Forward, bringing its total funding to $32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230921/p37#a230921p37)
  - [An early iPhone 15 Pro teardown looks inside Apple’s new flagship phone](https://www.theverge.com/23884103/iphone-15-pro-teardown-video)
  - [Eddy Cue believes Apple can reinvent sports broadcasting with Apple TV+](https://appleinsider.com/articles/23/09/21/eddy-cue-believes-apple-can-reinvent-sports-broadcasting-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
 

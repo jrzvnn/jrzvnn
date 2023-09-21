@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 💣 [Can\u2019t remember the name, but i heard it\u2019s the biggest of their kind](http://9gag.com/gag/anz0jeo)
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 💣 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
  - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
  - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 

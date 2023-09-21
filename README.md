@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 users can see battery cycle count &amp; more in Settings](https://appleinsider.com/articles/23/09/21/iphone-15-users-can-see-battery-cycle-count-more-in-settings?utm_medium=rss)
+ - [With blistering public attacks against a lesser-known accelerator and investors, Y Combinator appears curiously on the defensive lately &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230920/p40#a230920p40)
  - [Crappy situation: Woman dives into outhouse muck to fetch Apple Watch](https://appleinsider.com/articles/23/09/20/woman-dives-into-outhouse-waste-to-fetch-apple-watch?utm_medium=rss)
  - [Amazon confirms it’s backing away from charging an extra seller fee](https://www.theverge.com/2023/9/20/23883097/amazon-stops-seller-fee-plan-ftc-lawsuit)
- - [Google rolls out Android 14 QPR1 beta despite stable version delay](https://www.androidauthority.com/android-14-qpr1-beta-launch-3366360/)
- - [GitHub expands Copilot Chat beta in Visual Studio and VS Code to individual subscribers, after launching the tool for business users in July 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230920/p39#a230920p39)
- - [Facebook changed its logo — see if you can tell the difference](https://www.theverge.com/2023/9/20/23883126/meta-facebook-changed-logo-design-wordmark-reactions)<!-- TECH:END -->
+ - [Google rolls out Android 14 QPR1 beta despite stable version delay](https://www.androidauthority.com/android-14-qpr1-beta-launch-3366360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
- - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 💣 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 😝 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
- - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
+ - 😝 [Tesla crashes into a parked truck and explodes twice](http://9gag.com/gag/avQBzd5)
+ - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 💣 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 😝 [Perfect match....](http://9gag.com/gag/a3ZzMb5)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
 

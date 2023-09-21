@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego’s awesome $60 Super Mario Piranha Plant just earned a spot in my brick garden](https://www.theverge.com/23884011/lego-piranha-plant)
+ - [Hyundai is offering free home chargers and install discounts for new EV buyers](https://www.theverge.com/2023/9/21/23883677/hyundai-free-home-charger-offer-install-discount-ioniq-5-6-kona-ev)
  - [The next Baldur’s Gate 3 patch will finally let you change your appearance](https://www.theverge.com/2023/9/21/23883903/baldurs-gate-3s-patch-3-change-character-appearance)
  - [Apple updates iWork with iOS 17, macOS Sonoma features](https://appleinsider.com/articles/23/09/21/apple-updates-iwork-with-ios-17-macos-sonoma-features?utm_medium=rss)
- - [Microsoft Surface Go 4 adds more powerful chip and goes full business](https://www.androidauthority.com/microsoft-surface-go-4-announcement-3366691/)
- - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
- - [Microsoft announces Surface Hub 3 with portrait mode](https://www.theverge.com/2023/9/21/23883955/microsoft-surface-hub-3-portrait-mode)<!-- TECH:END -->
+ - [Microsoft Surface Go 4 adds more powerful chip and goes full business](https://www.androidauthority.com/microsoft-surface-go-4-announcement-3366691/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

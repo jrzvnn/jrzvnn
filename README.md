@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the documents the Google antitrust trial judge didn’t want you to see](https://www.theverge.com/2023/9/21/23883680/us-google-antitrust-trial-amit-mehta-doj-exhibit-documents)
+ - [How to set a unique search engine for private browsing in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-a-unique-search-engine-for-private-browsing-in-ios-17?utm_medium=rss)
  - [Microsoft Surface and AI event: live coverage from the keynote](https://www.theverge.com/2023/9/21/23861261/microsoft-surface-event-ai-windows-live-blog-keynote)
  - [Amazon is set to supercharge Alexa with generative AI](https://www.theverge.com/2023/9/20/23880764/amazon-ai-alexa-generative-llm-smart-home)
- - [Microsoft’s Surface and AI event: all the news and announcements](https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai)
- - [Sources: Panos Panay&#39;s abrupt departure came after Microsoft made budget and staff cuts, canceled products, and discussed reorganizing his hardware unit &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/230921/p18#a230921p18)
- - [I Failed Two Captcha Tests This Week. Am I Still Human?](https://www.wired.com/story/failed-captcha-test-am-i-still-human/)<!-- TECH:END -->
+ - [Microsoft’s Surface and AI event: all the news and announcements](https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

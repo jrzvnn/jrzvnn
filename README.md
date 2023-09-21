@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Poisson flow generative models, a physics-inspired alternative to diffusion-based AI models that can create same quality images 10 to 20 times faster &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/230921/p6#a230921p6)
  - [Documents show that up to a dozen of Neuralink&#39;s primate subjects were euthanized after suffering complications; Elon Musk says no primates died due to implants &lpar;Wired&rpar;](http://www.techmeme.com/230921/p5#a230921p5)
  - [Research: the global cyber workforce reached 4.7M in 2022 while still short by 3.4M; Statista: average salary for cyber professionals was between $120K-$150K &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/230921/p4#a230921p4)
  - [The developer behind AstroPepeX details using ChatGPT to name and launch the ERC-20 memecoin, which has raked in $12.9M in trading volume over the past 24 hours &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/230921/p3#a230921p3)
- - [T-Mobile blames latest data leak on ‘temporary system glitch’](https://www.androidauthority.com/t-mobile-app-leaking-user-information-3366182/)
- - [Hands-on with Bard Extensions, which lets the chatbot use data from Gmail, Docs, and Drive: the feature hallucinated emails, made wrong travel plans, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230921/p2#a230921p2)<!-- TECH:END -->
+ - [T-Mobile blames latest data leak on ‘temporary system glitch’](https://www.androidauthority.com/t-mobile-app-leaking-user-information-3366182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

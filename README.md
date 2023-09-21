@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A first look at Microsoft’s upgraded Surface Laptop Studio 2](https://www.theverge.com/23883722/microsoft-surface-laptop-studio-2-hands-on-features-photos)
+ - [Google taunts Apple again over its lack of RCS messaging support](https://www.theverge.com/2023/9/21/23883609/google-rcs-message-apple-iphone-ipager-ad)
+ - [Microsoft unveils new Surface laptops, AI-powered Windows Copilot](https://appleinsider.com/articles/23/09/21/microsoft-unveils-new-surface-laptops-ai-powered-windows-copilot?utm_medium=rss)
  - [Luxshare doubles iPhone production, prepares for Apple Vision Pro](https://appleinsider.com/articles/23/09/21/luxshare-doubles-iphone-production-prepares-for-apple-vision-pro?utm_medium=rss)
- - [Microsoft announces the Surface Go 4 with a four-core Intel N200 chip and plans to sell the 2-in-1 only to businesses, available on October 3, starting at $579 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230921/p32#a230921p32)
- - [Mastodon releases Mastodon 4.2, making it easier for users to get started, use its network even when logged out, more easily search for content, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p31#a230921p31)
- - [Enough Talk, ChatGPT—My New Chatbot Friend Can Get Things Done](https://www.wired.com/story/fast-forward-chatgpt-my-new-chatbot-friend-get-things-done/)
- - [Microsoft’s unified Copilot is coming to Windows, Edge, and everywhere else](https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date)<!-- TECH:END -->
+ - [Microsoft announces the Surface Go 4 with a four-core Intel N200 chip and plans to sell the 2-in-1 only to businesses, available on October 3, starting at $579 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230921/p32#a230921p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

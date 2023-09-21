@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 😝 [I hate when this happens](https://www.reddit.com/r/funny/comments/16otohk/i_hate_when_this_happens/)
+ - 😝 [Made me chuckle](https://www.reddit.com/r/memes/comments/16otk8l/made_me_chuckle/)
+ - 💣 [yes, you&#39;re a genius, the whole internet would be lost without you.](https://www.reddit.com/r/memes/comments/16otinx/yes_youre_a_genius_the_whole_internet_would_be/)
+ - 😝 [Programmers...](https://www.reddit.com/r/memes/comments/16osocr/programmers/)
+ - 👉 [You what?](https://www.reddit.com/r/memes/comments/16os1bs/you_what/)<!-- MEMES:END -->
 
 ---
 

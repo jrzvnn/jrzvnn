@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s failure to develop its own modem detailed in new report](https://www.theverge.com/2023/9/21/23883565/apple-5g-modem-failure-inside-story)
  - [Amazon&#39;s Eero announces the Eero Max 7, its first router to support Wi-Fi 7, offering 2.4GHz, 5GHz, and 6GHz and &quot;up to 4.3 Gbps&quot; wireless throughput, for $600+ &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230921/p8#a230921p8)
  - [Apple&#39;s iPhone modem design is three years behind Qualcomm](https://appleinsider.com/articles/23/09/21/apples-iphone-modem-design-is-three-years-behind-qualcomm?utm_medium=rss)
  - [Confessions of a Viral AI Writer](https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/)
- - [Palantir’s Reputation Stalks Its Bid for the UK’s National Health Data](https://www.wired.com/story/palantir-nhs-data/)
- - [Pixel Fold replacement parts and iFixit repair guides now available](https://www.theverge.com/2023/9/21/23883578/pixel-fold-ifixit-replacement-parts-repair-guides-price)<!-- TECH:END -->
+ - [Palantir’s Reputation Stalks Its Bid for the UK’s National Health Data](https://www.wired.com/story/palantir-nhs-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

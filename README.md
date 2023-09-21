@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego’s awesome $60 Super Mario Piranha Plant just earned a spot in my brick garden](https://www.theverge.com/23884011/lego-piranha-plant)
- - [Hyundai is offering free home chargers and install discounts for new EV buyers](https://www.theverge.com/2023/9/21/23883677/hyundai-free-home-charger-offer-install-discount-ioniq-5-6-kona-ev)
- - [The next Baldur’s Gate 3 patch will finally let you change your appearance](https://www.theverge.com/2023/9/21/23883903/baldurs-gate-3s-patch-3-change-character-appearance)
- - [Apple updates iWork with iOS 17, macOS Sonoma features](https://appleinsider.com/articles/23/09/21/apple-updates-iwork-with-ios-17-macos-sonoma-features?utm_medium=rss)
- - [Microsoft Surface Go 4 adds more powerful chip and goes full business](https://www.androidauthority.com/microsoft-surface-go-4-announcement-3366691/)<!-- TECH:END -->
+ - [Snap says Snapchat+ now has 5M+ subscribers, up from 3M it disclosed in April 2023; the $3.99/month tier launched in June 2022 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230921/p35#a230921p35)
+ - [Apple seeds second macOS Sonoma release candidate](https://appleinsider.com/articles/23/09/21/apple-seeds-second-macos-sonoma-release-candidate?utm_medium=rss)
+ - [A record 50% price drop makes this 55-inch Amazon Fire TV a steal](https://www.androidauthority.com/55-inch-amazon-fire-tv-deal-3366707/)
+ - [Apple rolls out watchOS 10.0.1 update](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)
+ - [Microsoft announces Surface Hub 3, with 50&quot; or 85&quot; 4K PixelSense displays and support for smart rotation and portrait mode, available later in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230921/p34#a230921p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

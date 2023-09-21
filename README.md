@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Environmental conservation in Brazil: more investments, fewer ‘stupid decisions’](https://www.theverge.com/2023/9/21/23884192/environmental-brazil-climate-summit)
+ - [Researcher: TikTok is testing a partnership with Google, with some searches on the TikTok app displaying an in-app option to search the request on Google &lpar;Lara O&#39;Reilly/Insider&rpar;](http://www.techmeme.com/230921/p38#a230921p38)
  - [TikTok is testing Google results in its search pages](https://www.theverge.com/2023/9/21/23884278/tiktok-google-search-results-antitrust-case)
  - [The Great Unbundling of Rupert Murdoch](https://www.wired.com/story/rupert-murdoch-end-of-an-era/)
- - [The 55 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [Headway Premium drops to only $59.97, making it affordable to engage in self-growth](https://appleinsider.com/articles/23/09/21/headway-premium-drops-to-only-5997-making-it-affordable-to-engage-in-self-growth?utm_medium=rss)
- - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)<!-- TECH:END -->
+ - [The 55 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

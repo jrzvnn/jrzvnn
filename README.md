@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
  - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 👉 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)<!-- MEMES:END -->
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
 

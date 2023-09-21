@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Headway Premium drops to only $59.97, making it affordable to engage in self-growth](https://appleinsider.com/articles/23/09/21/headway-premium-drops-to-only-5997-making-it-affordable-to-engage-in-self-growth?utm_medium=rss)
+ - [Lawsuit claims Google Maps caused man to drive off a collapsed bridge](https://www.androidauthority.com/google-maps-bridge-lawsuit-3366730/)
+ - [Mesh, which helps customers transfer and manage digital assets like crypto, raised a $22M Series A led by Money Forward, bringing its total raised to $32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230921/p37#a230921p37)
  - [An early iPhone 15 Pro teardown looks inside Apple’s new flagship phone](https://www.theverge.com/23884103/iphone-15-pro-teardown-video)
- - [Eddy Cue believes Apple can reinvent sports broadcasting with Apple TV+](https://appleinsider.com/articles/23/09/21/eddy-cue-believes-apple-can-reinvent-sports-broadcasting-with-apple-tv?utm_medium=rss)
- - [Best Apple Watch bands you can buy right now](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-you-can-buy-right-now?utm_medium=rss)
- - [Apple rolls out iOS 17.0.1, iPadOS 17.0.1, watchOS 10.0.1 updates](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)
- - [Microsoft hopes people won’t become ‘over-reliant’ on its AI assistant](https://www.theverge.com/2023/9/21/23884030/microsoft-copilot-365-assistant-responsible-ai-panel)<!-- TECH:END -->
+ - [Eddy Cue believes Apple can reinvent sports broadcasting with Apple TV+](https://appleinsider.com/articles/23/09/21/eddy-cue-believes-apple-can-reinvent-sports-broadcasting-with-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are a totally peaceful group](http://9gag.com/gag/aoKG5Ze)
- - 😝 [Damn thyroids](http://9gag.com/gag/a9q4RRW)
- - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
- - 👉 [What is the difference between illusion and delusion again? Or between irony and sarcasm? Or between imaginary and actual? Or between fantasy and magical realism? Or between abstract and concrete?](http://9gag.com/gag/a04D7YQ)<!-- MEMES:END -->
+ - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 😝 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
+ - 💣 [Germany](http://9gag.com/gag/aqeVg17)
+ - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
+ - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
 
 ---
 

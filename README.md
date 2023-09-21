@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
  - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
- - 👉 [Thanks for your service](http://9gag.com/gag/a4oBEB1)<!-- MEMES:END -->
+ - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 💣 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
+ - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
 
 ---
 

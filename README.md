@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [W.T.F](http://9gag.com/gag/aKEX71b)
  - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [Perfect match....](http://9gag.com/gag/a3ZzMb5)
  - 💣 [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
+ - 😝 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
+ - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
 
 ---
 

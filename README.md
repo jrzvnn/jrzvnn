@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are a totally peaceful group](http://9gag.com/gag/aoKG5Ze)
- - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
- - 💣 [Damn thyroids](http://9gag.com/gag/a9q4RRW)
+ - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [Perfect match....](http://9gag.com/gag/a3ZzMb5)
+ - 💣 [Germany](http://9gag.com/gag/aqeVg17)
  - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [Remember when people &lpar;men&rpar; were innocent until proven guilty? The UK parliament wrote a letter to the video platform Rumble asking them about Russel Brand&#39;s ability to monotise his content. YouTube took away his earnings. Rumble&#39;s ceo stood up against them.](http://9gag.com/gag/a7qmEo2)<!-- MEMES:END -->
+ - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
 
 ---
 

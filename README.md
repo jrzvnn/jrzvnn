@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 💣 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
+ - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
+ - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
+ - 👉 [Thanks for your service](http://9gag.com/gag/a4oBEB1)<!-- MEMES:END -->
 
 ---
 

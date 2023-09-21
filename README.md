@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a unified Copilot built into Windows 11, launching across all of its apps and services, including Office 365, from September 26 &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230921/p20#a230921p20)
- - [Microsoft’s unified Copilot is coming to Windows, Edge, and everywhere else](https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date)
- - [Windows 11’s next big update arrives on September 26th with Copilot, RAR support, and more](https://www.theverge.com/2023/9/21/23882173/microsoft-windows-11-23h2-update-features-release-date)
- - [Future iPhones may recognize accessories and change user interface to suit](https://appleinsider.com/articles/23/09/21/future-iphones-may-recognize-accessories-and-change-user-interface-to-suit?utm_medium=rss)
- - [How to customize the iPhone 15 Pro’s Action Button](https://www.theverge.com/23882928/apple-iphone-15-pro-action-button-custom-how-to)<!-- TECH:END -->
+ - [YouTube announces a new feature for Shorts called Dream Screen, letting users create an AI-generated video or image background, rolling out early next year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p22#a230921p22)
+ - [Gelato Pique’s new Pokémon Sleep&lpar;wear&rpar; collab is perfect for catching some Z’s](https://www.theverge.com/23883692/gelato-piques-new-pokemon-sleep-lougewear)
+ - [Microsoft 365 Copilot launches in November](https://www.theverge.com/2023/9/21/23880882/microsoft-365-copilot-ai-release-date)
+ - [Apple has the world&#39;s second most loyal users -- after Netflix](https://appleinsider.com/articles/23/09/21/apple-has-the-worlds-second-most-loyal-users----after-netflix?utm_medium=rss)
+ - [Microsoft plans to release its next Windows 11 update, 23H2, on September 26, offering the new AI-powered Windows Copilot, a redesigned File Explorer, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230921/p21#a230921p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
- - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
- - 💣 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
  - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 💣 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out iOS 17.0.1, iPadOS 17.0.1, watchOS 10.0.1 updates](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)
+ - [An early iPhone 15 Pro teardown looks inside Apple’s new flagship phone](https://www.theverge.com/23884103/iphone-15-pro-teardown-video)
+ - [Eddy Cue believes Apple can reinvent sports broadcasting with Apple TV+](https://appleinsider.com/articles/23/09/21/eddy-cue-believes-apple-can-reinvent-sports-broadcasting-with-apple-tv?utm_medium=rss)
  - [Best Apple Watch bands you can buy right now](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-you-can-buy-right-now?utm_medium=rss)
- - [Microsoft hopes people won’t become ‘over-reliant’ on its AI assistant](https://www.theverge.com/2023/9/21/23884030/microsoft-copilot-365-assistant-responsible-ai-panel)
- - [Razer wants to make over your living room with its own smart gamer lights](https://www.theverge.com/2023/9/21/23882968/razer-aether-smart-light-bulb-lamp-led-strip)
- - [Bastian Lehmann&#39;s TipTop launches an app that scans for past purchases in users&#39; Gmail and Amazon accounts and offers to buy their used products at a fair value &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230921/p36#a230921p36)<!-- TECH:END -->
+ - [Apple rolls out iOS 17.0.1, iPadOS 17.0.1, watchOS 10.0.1 updates](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)
+ - [Microsoft hopes people won’t become ‘over-reliant’ on its AI assistant](https://www.theverge.com/2023/9/21/23884030/microsoft-copilot-365-assistant-responsible-ai-panel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

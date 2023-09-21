@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USB-C on iPhone 15: Everything you need to know](https://appleinsider.com/articles/23/09/21/usb-c-on-iphone-15-everything-you-need-to-know?utm_medium=rss)
+ - [Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
  - [Eight things we learned from Intel’s Innovation keynote](https://www.theverge.com/2023/9/21/23882988/intel-innovation-2023-announcements-meteor-lake-lunar-panther-xeon)
  - [The iPhone 15 has a new optimized charging setting, here’s how it works](https://www.theverge.com/2023/9/21/23884725/apple-iphone-15-pro-optimized-charging-80-percent-how-it-works)
- - [NVIDIA GeForce RTX 5090: Release date, price, specs, rumors, and more](https://www.androidauthority.com/nvidia-geforce-rtx-5090-3361677/)
- - [YouTube to Introduce Generative AI Feature Dream Screen     - CNET](https://www.cnet.com/tech/services-and-software/youtube-to-introduce-generative-ai-feature-dream-screen/#ftag=CAD590a51e)
- - [Spotify code suggests HiFi tier is coming with lossless audio for $20 / month](https://www.theverge.com/2023/9/21/23884577/spotify-supremium-lossless-audio-tier-code)<!-- TECH:END -->
+ - [NVIDIA GeForce RTX 5090: Release date, price, specs, rumors, and more](https://www.androidauthority.com/nvidia-geforce-rtx-5090-3361677/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

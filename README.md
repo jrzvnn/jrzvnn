@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether confirms resuming lending its stablecoins to customers, less than a year after saying it would end such loans; $5.5B of its assets were loans on June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/230921/p16#a230921p16)
+ - [After recent IPOs, Arm and Instacart fall by 20%+ from their highs; Arm closed at $52.91 on September 20, down 4% on its offer price, while Instacart was flat &lpar;Financial Times&rpar;](http://www.techmeme.com/230921/p15#a230921p15)
+ - [Apple researching how to add a Touch Bar to the side of an iPhone](https://appleinsider.com/articles/23/09/21/apple-researching-how-to-add-a-touch-bar-to-the-side-of-an-iphone?utm_medium=rss)
  - [Cisco plans to acquire cybersecurity company Splunk for $157 per share in cash, up 31% on Splunk&#39;s September 20 closing price, in a deal valued at ~$28B &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/230921/p14#a230921p14)
- - [Apple Watch Series 9 vs Apple Watch Ultra 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-apple-watch-ultra-2----specs-price-and-features-compared?utm_medium=rss)
- - [Layer 2 blockchain Optimism sells 116M tokens worth $157M to seven buyers in a &quot;private&quot; sale, after airdropping 19.4M tokens to 31K+ users earlier this week &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230921/p13#a230921p13)
- - [Alexa Just Got an AI Makeover](https://www.wired.com/story/gadget-lab-podcast-613/)
- - [Best iPhone &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
+ - [Apple Watch Series 9 vs Apple Watch Ultra 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-apple-watch-ultra-2----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

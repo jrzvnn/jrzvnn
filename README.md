@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft announces a unified Copilot built into Windows 11, launching across all of its apps and services, including Office 365, from September 26 &lpar;Nathan Edwards/The Verge&rpar;](http://www.techmeme.com/230921/p20#a230921p20)
+ - [Microsoft’s unified Copilot is coming to Windows, Edge, and everywhere else](https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date)
  - [Windows 11’s next big update arrives on September 26th with Copilot, RAR support, and more](https://www.theverge.com/2023/9/21/23882173/microsoft-windows-11-23h2-update-features-release-date)
  - [Future iPhones may recognize accessories and change user interface to suit](https://appleinsider.com/articles/23/09/21/future-iphones-may-recognize-accessories-and-change-user-interface-to-suit?utm_medium=rss)
- - [How to customize the iPhone 15 Pro’s Action Button](https://www.theverge.com/23882928/apple-iphone-15-pro-action-button-custom-how-to)
- - [Bose QuietComfort Ultra Earbuds review: still great but a questionable ‘upgrade’](https://www.theverge.com/23883649/bose-quietcomfort-ultra-earbuds-review)
- - [A live blog of Microsoft&#39;s Surface and AI event, where the company is expected to detail its vision for Surface, Windows, Bing, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230921/p19#a230921p19)<!-- TECH:END -->
+ - [How to customize the iPhone 15 Pro’s Action Button](https://www.theverge.com/23882928/apple-iphone-15-pro-action-button-custom-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

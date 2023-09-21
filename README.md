@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever tried to eat a clock?](http://9gag.com/gag/a2KArzZ)
- - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 👉 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)<!-- MEMES:END -->
 
 ---
 

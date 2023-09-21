@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
- - 😝 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
- - 👉 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)<!-- MEMES:END -->
+ - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
+ - 😝 [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
+ - 💣 [Remember when people &lpar;men&rpar; were innocent until proven guilty? The UK parliament wrote a letter to the video platform Rumble asking them about Russel Brand&#39;s ability to monotise his content. YouTube took away his earnings. Rumble&#39;s ceo stood up against them.](http://9gag.com/gag/a7qmEo2)
+ - 😝 [Imagine just casually bumping into King of England](http://9gag.com/gag/a4oBEWA)
+ - 👉 [How will this even be possible?Its already imposed in France n Belgium..any captains can confirm?](http://9gag.com/gag/ap9nNz9)<!-- MEMES:END -->
 
 ---
 

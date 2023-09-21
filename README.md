@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 💣 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
+ - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
+ - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 😝 [Police chase](http://9gag.com/gag/a9q4146)
  - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---

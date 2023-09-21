@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile blames latest data leak on ‘temporary system glitch’](https://www.androidauthority.com/t-mobile-app-leaking-user-information-3366182/)
  - [Hands-on with Bard Extensions, which lets the chatbot use data from Gmail, Docs, and Drive: the feature hallucinated emails, made wrong travel plans, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230921/p2#a230921p2)
  - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
  - [Hollywood’s writers’ strike might come to an end soon](https://www.theverge.com/2023/9/21/23882218/wga-negotiations-hollywood-writers-strike-2023)
- - [A look at AI-generated geometric art crafted using Stable Diffusion and ControlNet, a neural network structure that adds extra conditions to diffusion models &lpar;Keisha Oleaga/nft now&rpar;](http://www.techmeme.com/230921/p1#a230921p1)
- - [The 8 Best Herbal Teas for Stress and Restful Sleep     - CNET](https://www.cnet.com/health/mental/8-best-teas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at AI-generated geometric art crafted using Stable Diffusion and ControlNet, a neural network structure that adds extra conditions to diffusion models &lpar;Keisha Oleaga/nft now&rpar;](http://www.techmeme.com/230921/p1#a230921p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

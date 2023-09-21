@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Environmental conservation in Brazil: more investments, fewer ‘stupid decisions’](https://www.theverge.com/2023/9/21/23884192/environmental-brazil-climate-summit)
- - [Researcher: TikTok is testing a partnership with Google, with some searches on the TikTok app displaying an in-app option to search the request on Google &lpar;Lara O&#39;Reilly/Insider&rpar;](http://www.techmeme.com/230921/p38#a230921p38)
+ - [TikTok is testing a Google integration in different markets; researcher: TikTok&#39;s search feature includes an in-app option to search the same query on Google &lpar;Lara O&#39;Reilly/Insider&rpar;](http://www.techmeme.com/230921/p38#a230921p38)
  - [TikTok is testing Google results in its search pages](https://www.theverge.com/2023/9/21/23884278/tiktok-google-search-results-antitrust-case)
  - [The Great Unbundling of Rupert Murdoch](https://www.wired.com/story/rupert-murdoch-end-of-an-era/)
  - [The 55 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->

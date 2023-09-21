@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 😝 [The Nasa is looking for him](http://9gag.com/gag/ap9nGy5)
- - 💣 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)
  - 😝 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
- - 👉 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)<!-- MEMES:END -->
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
 

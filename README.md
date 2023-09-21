@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A consortium led by Japan Industrial Partners gains 78.65% of Toshiba via a tender offer, setting the company up to be taken private as early as December &lpar;Makiko Yamazaki/Reuters&rpar;](http://www.techmeme.com/230920/p41#a230920p41)
+ - [Iconic League of Legends team TSM replaced by Shopify in pro league](https://www.theverge.com/2023/9/20/23883238/league-of-legends-lcs-tsm-replaced-shopify-rebellion)
  - [iPhone 15 users can see battery cycle count &amp; more in Settings](https://appleinsider.com/articles/23/09/21/iphone-15-users-can-see-battery-cycle-count-more-in-settings?utm_medium=rss)
  - [With blistering public attacks against a lesser-known accelerator and investors, Y Combinator appears curiously on the defensive lately &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230920/p40#a230920p40)
- - [Crappy situation: Woman dives into outhouse muck to fetch Apple Watch](https://appleinsider.com/articles/23/09/20/woman-dives-into-outhouse-waste-to-fetch-apple-watch?utm_medium=rss)
- - [Amazon confirms it’s backing away from charging an extra seller fee](https://www.theverge.com/2023/9/20/23883097/amazon-stops-seller-fee-plan-ftc-lawsuit)
- - [Google rolls out Android 14 QPR1 beta despite stable version delay](https://www.androidauthority.com/android-14-qpr1-beta-launch-3366360/)<!-- TECH:END -->
+ - [Helix Mattresses Review 2023: A Bed for Every Body and Sleeping Position     - CNET](https://www.cnet.com/health/sleep/helix-mattresses-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 💣 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 😝 [Women](http://9gag.com/gag/aYVv7bV)
  - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
+ - 💣 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
 
 ---
 

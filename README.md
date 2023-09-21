@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
  - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
+ - 💣 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
+ - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
 
 ---
 

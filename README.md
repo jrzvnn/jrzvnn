@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
- - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 😝 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 💣 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
+ - 👉 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)<!-- MEMES:END -->
 
 ---
 

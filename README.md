@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to quit](http://9gag.com/gag/anz058n)
- - 😝 [Damn that was amazing](http://9gag.com/gag/ay2mo4V)
- - 💣 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
- - 😝 [Keep your eyes slightly shut](http://9gag.com/gag/aqeVgmL)
- - 👉 [We are a totally peaceful group](http://9gag.com/gag/aoKG5Ze)<!-- MEMES:END -->
+ - 😝 [That&#39;s no surprise, what&#39;d you expect.](http://9gag.com/gag/a8qv8D1)
+ - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
+ - 💣 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 😝 [The urge is to powerful.](http://9gag.com/gag/a8qvywQ)
+ - 👉 [Little trick](http://9gag.com/gag/ap9n2dB)<!-- MEMES:END -->
 
 ---
 

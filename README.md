@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proof of Play, which released a blockchain-based RPG game called Pirate Nation in December 2022, raised $33M in seed funding co-led by a16z and Greenoaks &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230921/p29#a230921p29)
- - [The Surface Go 4 comes with a much-needed performance boost](https://www.theverge.com/2023/9/21/23880536/microsoft-surface-go-4-convertible-price-release-date)
- - [Microsoft Surface event: the 6 biggest announcements](https://www.theverge.com/2023/9/21/23882074/microsoft-surface-copilot-event-2023-biggest-announcements)
- - [Google Pixel 8A allegedly leaks, shows off massive bezels](https://www.androidauthority.com/google-pixel-8a-hands-on-leak-3366648/)
- - [Microsoft announces the 12.4&quot; Surface Laptop Go 3, offering Intel 12th Gen CPUs and Iris Xe GPUs, and up to 16GB of RAM, starting at $799 and shipping October 3 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230921/p28#a230921p28)<!-- TECH:END -->
+ - [Daily deals Sept. 21: Apple Watch Series 7 from $250, OWC Thunderbolt 4 dock $299, iPhone X for $210, up to 22% off Kindle Scribe, more](https://appleinsider.com/articles/23/09/21/daily-deals-sept-21-apple-watch-series-7-from-250-owc-thunderbolt-4-dock-299-iphone-x-for-210-up-to-22-off-kindle-scribe-more?utm_medium=rss)
+ - [This amazing Samsung Galaxy Tab S8 Ultra deal ends tonight](https://www.androidauthority.com/samsung-galaxy-tab-s8-ultra-deal-3366674/)
+ - [YouTube debuts YouTube Create, an app to let creators to edit videos with effects, royalty-free tracks, and more, available in beta on Android in eight markets &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p30#a230921p30)
+ - [You can finally ask Siri to play Spotify on a HomePod](https://www.theverge.com/2023/9/21/23883860/siri-can-now-play-spotify-on-apple-homepod-smart-speaker)
+ - [Proof of Play, which released a blockchain-based RPG game called Pirate Nation in December 2022, raised $33M in seed funding co-led by a16z and Greenoaks &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230921/p29#a230921p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

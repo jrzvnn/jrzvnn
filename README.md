@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reduces raises given to retail employees after weak iPhone quarter](https://appleinsider.com/articles/23/09/21/apple-reduces-raises-given-to-retail-employees-after-weak-iphone-quarter?utm_medium=rss)
- - [Google expands Studio Bot, its AI chatbot for Android Studio launched in May 2023 for US users, to 170+ regions; users in the EU and the UK are still barred &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230921/p41#a230921p41)
- - [USB-C on iPhone 15: Everything you need to know](https://appleinsider.com/articles/23/09/21/usb-c-on-iphone-15-everything-you-need-to-know?utm_medium=rss)
- - [Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
- - [Eight things we learned from Intel’s Innovation keynote](https://www.theverge.com/2023/9/21/23882988/intel-innovation-2023-announcements-meteor-lake-lunar-panther-xeon)<!-- TECH:END -->
+ - [Apple uses hidden watermarks on iPhone 15 boxes to verify authenticity](https://appleinsider.com/articles/23/09/21/apple-uses-hidden-watermarks-on-iphone-15-boxes-to-verify-authenticity?utm_medium=rss)
+ - [X is shutting down Circles](https://www.theverge.com/2023/9/21/23884851/x-shutting-down-circles-twitter)
+ - [how to mess with Snapchat AI &lpar;It’s a lot of fun!&rpar;](https://www.androidauthority.com/how-to-mess-with-snapchat-ai-3366788/)
+ - [Apple releases emergency updates for iOS, iPadOS, macOS, and watchOS to patch three new zero-day vulnerabilities, for a total of 16 zero-days fixed in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230921/p42#a230921p42)
+ - [Apple reduces raises given to retail employees after weak iPhone quarter](https://appleinsider.com/articles/23/09/21/apple-reduces-raises-given-to-retail-employees-after-weak-iphone-quarter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bastian Lehmann&#39;s TipTop launches an app that scans for past purchases in users&#39; Gmail or Amazon accounts and offers to buy their used products for a fair value &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230921/p36#a230921p36)
- - [Google continues to awkwardly push for iPhone RCS integration in new &#39;Meet iPager&#39; video](https://appleinsider.com/articles/23/09/21/google-continues-to-push-for-rcs-integration-on-apple-devices-with-new-meet-ipager-video?utm_medium=rss)
- - [Apple releases macOS Ventura 13.6, iOS &amp; iPadOS 16.7, watchOS 9.6.3, macOS Monterey 12.7](https://appleinsider.com/articles/23/09/21/apple-releases-macos-ventura-136-ios-ipados-167-watchos-963-macos-monterey-127?utm_medium=rss)
- - [Amazon’s Echo Show 10 is receiving its biggest discount since Prime Day](https://www.theverge.com/2023/9/21/23881922/amazon-echo-show-10-apple-macbook-air-m2-hyperx-quadcast-mic-deal-sale)
- - [Apple rolls out iOS 17.0.1, iPadOS 17.0.1, watchOS 10.0.1 updates](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rolls out iOS 17.0.1, iPadOS 17.0.1, watchOS 10.0.1 updates](https://appleinsider.com/articles/23/09/21/apple-rolls-out-watchos-1001-update?utm_medium=rss)
+ - [Best Apple Watch bands you can buy right now](https://appleinsider.com/inside/apple-watch/best/best-apple-watch-bands-you-can-buy-right-now?utm_medium=rss)
+ - [Microsoft hopes people won’t become ‘over-reliant’ on its AI assistant](https://www.theverge.com/2023/9/21/23884030/microsoft-copilot-365-assistant-responsible-ai-panel)
+ - [Razer wants to make over your living room with its own smart gamer lights](https://www.theverge.com/2023/9/21/23882968/razer-aether-smart-light-bulb-lamp-led-strip)
+ - [Bastian Lehmann&#39;s TipTop launches an app that scans for past purchases in users&#39; Gmail and Amazon accounts and offers to buy their used products at a fair value &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230921/p36#a230921p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

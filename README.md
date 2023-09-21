@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Fold replacement parts and iFixit repair guides now available](https://www.theverge.com/2023/9/21/23883578/pixel-fold-ifixit-replacement-parts-repair-guides-price)
- - [Data-labeling firms like Scale AI and Appen are hiring writers and poets with humanities backgrounds to improve the literary quality and creativity of AI tools &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/230921/p7#a230921p7)
- - [Just 48 hours left to score 20% off a Lifetime Plex Pass](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)
- - [Samsung could add to a busy Techtober with the Galaxy S23 FE launch](https://www.androidauthority.com/samsung-galaxy-s23-fe-october-launch-3366480/)
- - [Google Helped Spark a Phone Revolution by Doing a Simple but Radical Thing     - CNET](https://www.cnet.com/tech/mobile/google-helped-spark-a-phone-revolution-by-doing-a-simple-but-radical-thing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Eero announces the Eero Max 7, its first router to support Wi-Fi 7, offering 2.4GHz, 5GHz, and 6GHz and &quot;up to 4.3 Gbps&quot; wireless throughput, for $600+ &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230921/p8#a230921p8)
+ - [Apple&#39;s iPhone modem design is three years behind Qualcomm](https://appleinsider.com/articles/23/09/21/apples-iphone-modem-design-is-three-years-behind-qualcomm?utm_medium=rss)
+ - [Confessions of a Viral AI Writer](https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/)
+ - [Palantir’s Reputation Stalks Its Bid for the UK’s National Health Data](https://www.wired.com/story/palantir-nhs-data/)
+ - [Pixel Fold replacement parts and iFixit repair guides now available](https://www.theverge.com/2023/9/21/23883578/pixel-fold-ifixit-replacement-parts-repair-guides-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft announces the new Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23881978/microsoft-surface-laptop-go-3-price-release-date)
+ - [Microsoft announces the Surface Laptop Studio 2 with upgraded chips and ports](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date)
+ - [Microsoft to add DALL-E 3 to Bing Chat](https://www.theverge.com/2023/9/21/23873690/microsoft-new-ai-features-bing-search-shopping-dall-e-3)
  - [MGM Resorts ended a 10-day computer shutdown on September 20 after a hack on September 7 and says that &quot;all of our hotels and casinos are operating normally&quot; &lpar;Ken Ritter/Associated Press&rpar;](http://www.techmeme.com/230921/p24#a230921p24)
- - [Microsoft plans to release 365 Copilot AI on November 1 for Microsoft 365 customers on certain business and enterprise plans for $30 per month per user &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230921/p23#a230921p23)
- - [YouTube announces a new feature for Shorts called Dream Screen, letting users create an AI-generated video or image background, rolling out early next year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p22#a230921p22)
- - [Gelato Pique’s new Pokémon Sleep&lpar;wear&rpar; collab is perfect for catching some Z’s](https://www.theverge.com/23883692/gelato-piques-new-pokemon-sleep-lougewear)
- - [Microsoft 365 Copilot launches in November](https://www.theverge.com/2023/9/21/23880882/microsoft-365-copilot-ai-release-date)<!-- TECH:END -->
+ - [Microsoft plans to release 365 Copilot AI on November 1 for Microsoft 365 customers on certain business and enterprise plans for $30 per month per user &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230921/p23#a230921p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [Does she like you?](http://9gag.com/gag/az2v8Bb)
- - 💣 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
- - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
+ - 😝 [One of the best scenes](http://9gag.com/gag/a04DbYO)
+ - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 👉 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)<!-- MEMES:END -->
 
 ---
 

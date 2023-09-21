@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23883904/surface-laptop-go-3-hands-on)
- - [Daily deals Sept. 21: Apple Watch Series 7 from $250, OWC Thunderbolt 4 dock $299, iPhone X for $210, up to 22% off Kindle Scribe, more](https://appleinsider.com/articles/23/09/21/daily-deals-sept-21-apple-watch-series-7-from-250-owc-thunderbolt-4-dock-299-iphone-x-for-210-up-to-22-off-kindle-scribe-more?utm_medium=rss)
- - [This amazing Samsung Galaxy Tab S8 Ultra deal ends tonight](https://www.androidauthority.com/samsung-galaxy-tab-s8-ultra-deal-3366674/)
- - [YouTube debuts YouTube Create, an app to let creators to edit videos with effects, royalty-free tracks, and more, available in beta on Android in eight markets &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p30#a230921p30)
- - [You can finally ask Siri to play Spotify on a HomePod](https://www.theverge.com/2023/9/21/23883860/siri-can-now-play-spotify-on-apple-homepod-smart-speaker)<!-- TECH:END -->
+ - [Luxshare doubles iPhone production, prepares for Apple Vision Pro](https://appleinsider.com/articles/23/09/21/luxshare-doubles-iphone-production-prepares-for-apple-vision-pro?utm_medium=rss)
+ - [Microsoft announces the Surface Go 4 with a four-core Intel N200 chip and plans to sell the 2-in-1 only to businesses, available on October 3, starting at $579 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230921/p32#a230921p32)
+ - [Mastodon releases Mastodon 4.2, making it easier for users to get started, use its network even when logged out, more easily search for content, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p31#a230921p31)
+ - [Enough Talk, ChatGPT—My New Chatbot Friend Can Get Things Done](https://www.wired.com/story/fast-forward-chatgpt-my-new-chatbot-friend-get-things-done/)
+ - [Microsoft’s unified Copilot is coming to Windows, Edge, and everywhere else](https://www.theverge.com/2023/9/21/23883798/microsoft-copilot-unified-windows-11-apps-launch-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

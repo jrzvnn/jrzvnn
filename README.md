@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces the new Surface Laptop Go 3](https://www.theverge.com/2023/9/21/23881978/microsoft-surface-laptop-go-3-price-release-date)
- - [Microsoft announces the Surface Laptop Studio 2 with upgraded chips and ports](https://www.theverge.com/2023/9/21/23878658/microsoft-surface-laptop-studio-2-price-release-date)
- - [Microsoft to add DALL-E 3 to Bing Chat](https://www.theverge.com/2023/9/21/23873690/microsoft-new-ai-features-bing-search-shopping-dall-e-3)
- - [MGM Resorts ended a 10-day computer shutdown on September 20 after a hack on September 7 and says that &quot;all of our hotels and casinos are operating normally&quot; &lpar;Ken Ritter/Associated Press&rpar;](http://www.techmeme.com/230921/p24#a230921p24)
- - [Microsoft plans to release 365 Copilot AI on November 1 for Microsoft 365 customers on certain business and enterprise plans for $30 per month per user &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/230921/p23#a230921p23)<!-- TECH:END -->
+ - [Meta rolls out the ability for Facebook users to create up to four additional profiles and switch between them without logging out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230921/p27#a230921p27)
+ - [Microsoft announces the 14.4&quot; Surface Laptop Studio 2, offering Intel&#39;s 13th Gen chips, Nvidia RTX 4050 or RTX 4060, and up to 2TB storage, starting at $1,999 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230921/p26#a230921p26)
+ - [iPhone 15 Pro teardown shows new camera hardware, A17 Pro chip](https://appleinsider.com/articles/23/09/21/iphone-15-pro-teardown-shows-new-camera-hardware-a17-pro-chip?utm_medium=rss)
+ - [YouTube unveils YouTube Studio AI features coming in 2024 and lets select creators test Aloud, a dubbing tool that creates AI-generated dubs in other languages &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230921/p25#a230921p25)
+ - [The Dumb Alien Mummy Story Takes an Entirely Predictable Turn](https://www.wired.com/story/mexico-fake-aliens-science-fightback/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

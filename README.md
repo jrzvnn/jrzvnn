@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
  - 😝 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
- - 💣 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 👉 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)<!-- MEMES:END -->
+ - 💣 [Little trick](http://9gag.com/gag/ap9n2dB)
+ - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
+ - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A first look at Microsoft’s upgraded Surface Laptop Studio 2](https://www.theverge.com/23883722/microsoft-surface-laptop-studio-2-hands-on-features-photos)
- - [Google taunts Apple again over its lack of RCS messaging support](https://www.theverge.com/2023/9/21/23883609/google-rcs-message-apple-iphone-ipager-ad)
- - [Microsoft unveils new Surface laptops, AI-powered Windows Copilot](https://appleinsider.com/articles/23/09/21/microsoft-unveils-new-surface-laptops-ai-powered-windows-copilot?utm_medium=rss)
- - [Luxshare doubles iPhone production, prepares for Apple Vision Pro](https://appleinsider.com/articles/23/09/21/luxshare-doubles-iphone-production-prepares-for-apple-vision-pro?utm_medium=rss)
- - [Microsoft announces the Surface Go 4 with a four-core Intel N200 chip and plans to sell the 2-in-1 only to businesses, available on October 3, starting at $579 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230921/p32#a230921p32)<!-- TECH:END -->
+ - [Microsoft Surface Go 4 adds more powerful chip and goes full business](https://www.androidauthority.com/microsoft-surface-go-4-announcement-3366691/)
+ - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
+ - [Microsoft announces Surface Hub 3 with portrait mode](https://www.theverge.com/2023/9/21/23883955/microsoft-surface-hub-3-portrait-mode)
+ - [Nnete Matima and Jo&amp;euml;l Carter, two Black ex-TikTok staff, file a civil rights complaint alleging ByteDance fired them because they spoke up about discrimination &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230921/p33#a230921p33)
+ - [A first look at Microsoft’s upgraded Surface Laptop Studio 2](https://www.theverge.com/23883722/microsoft-surface-laptop-studio-2-hands-on-features-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

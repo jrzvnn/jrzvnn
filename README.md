@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Be careful !!!](http://9gag.com/gag/aVb937n)
+ - 😝 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
+ - 💣 [In Lampedusa, the number of African migrants officially exceeds that of Italian citizens.](http://9gag.com/gag/aZD4g0X)
  - 😝 [Tesla crashes into a parked truck and explodes twice](http://9gag.com/gag/avQBzd5)
- - 😝 [Little trick](http://9gag.com/gag/ap9n2dB)
- - 💣 [The last seconds drama](http://9gag.com/gag/aqeVgRj)
- - 😝 [Perfect match....](http://9gag.com/gag/a3ZzMb5)
- - 👉 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)<!-- MEMES:END -->
+ - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
 

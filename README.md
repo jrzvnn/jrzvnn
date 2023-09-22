@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age gracefully](http://9gag.com/gag/aA0LyQp)
- - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
- - 💣 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 💣 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
  - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
 
 ---

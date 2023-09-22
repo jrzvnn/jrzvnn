@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Fitbit Deals: Save on Top-Rated Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [Unity May Never Win Back the Developers It Lost in Its Fee Debacle](https://www.wired.com/story/unity-walks-back-policies-lost-trust/)
  - [Mac gamers can now play &#39;Baldur&#39;s Gate 3&#39; a day later than expected](https://appleinsider.com/articles/23/09/22/mac-gamers-can-now-play-baldurs-gate-3-a-day-later-than-expected?utm_medium=rss)
- - [Best MagSafe Duo alternatives with USB-C to charge an iPhone 15](https://appleinsider.com/inside/magsafe/best/best-magsafe-duo-alternatives-with-usb-c-to-charge-an-iphone-15?utm_medium=rss)
- - [iFixit tears down… Apple’s FineWoven cases](https://www.theverge.com/2023/9/22/23886030/apple-finewoven-cases-ifixit-teardown)
- - [Apple iPhone 15 Pro and Pro Max review: by the numbers](https://www.theverge.com/23879619/apple-iphone-15-pro-max-review)<!-- TECH:END -->
+ - [Best Beats Headphone Deals: Save Up to $181 on Studio3, Fit Pro and More     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
+ - [Best MagSafe Duo alternatives with USB-C to charge an iPhone 15](https://appleinsider.com/inside/magsafe/best/best-magsafe-duo-alternatives-with-usb-c-to-charge-an-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

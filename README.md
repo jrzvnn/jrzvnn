@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
  - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 👉 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 💣 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
+ - 😝 [W.T.F](http://9gag.com/gag/aKEX71b)
+ - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
 
 ---
 

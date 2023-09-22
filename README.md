@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Surface and AI event: all the news and announcements](https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai)
- - [Sources: The White House is weighing requiring cloud companies to disclose when a client buys computing resources above a set threshold, as part of an EO on AI &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230922/p17#a230922p17)
- - [This retractable cable can help make the iPhone USB-C transition easier](https://www.theverge.com/2023/9/22/23885971/iphone-usb-c-lightning-retractable-carplay-cable)
- - [What Microsoft&#39;s AI Push Means for Your Windows Laptop     - CNET](https://www.cnet.com/tech/services-and-software/what-microsofts-ai-push-means-for-your-windows-laptop/#ftag=CAD590a51e)
- - [Make sure to update your iPhone 15 before transferring over data from your old phone](https://www.theverge.com/2023/9/22/23885885/apple-iphone-15-pro-ios-17-0-2-data-transfer)<!-- TECH:END -->
+ - [Best MagSafe Duo alternatives with USB-C to charge an iPhone 15](https://appleinsider.com/inside/magsafe/best/best-magsafe-duo-alternatives-with-usb-c-to-charge-an-iphone-15?utm_medium=rss)
+ - [iFixit tears down… Apple’s FineWoven cases](https://www.theverge.com/2023/9/22/23886030/apple-finewoven-cases-ifixit-teardown)
+ - [Apple iPhone 15 Pro and Pro Max review: by the numbers](https://www.theverge.com/23879619/apple-iphone-15-pro-max-review)
+ - [Documents: Coinbase explored acquiring FTX Europe after FTX&#39;s November 2022 bankruptcy, as part of Coinbase&#39;s goal to expand its overseas derivatives business &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230922/p18#a230922p18)
+ - [iPhone 15 review: A bigger step up than the iPhone 14 was](https://appleinsider.com/articles/23/09/22/iphone-15-review-a-bigger-step-up-than-the-iphone-14-was?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

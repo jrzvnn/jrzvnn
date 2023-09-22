@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 😝 [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
- - 💣 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
- - 😝 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
- - 👉 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)<!-- MEMES:END -->
+ - 😝 [W.T.F](http://9gag.com/gag/aKEX71b)
+ - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 

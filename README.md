@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
  - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
  - 😝 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
- - 👉 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)<!-- MEMES:END -->
+ - 👉 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)<!-- MEMES:END -->
 
 ---
 

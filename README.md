@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple uses hidden watermarks on iPhone 15 boxes to verify authenticity](https://appleinsider.com/articles/23/09/21/apple-uses-hidden-watermarks-on-iphone-15-boxes-to-verify-authenticity?utm_medium=rss)
- - [X is shutting down Circles](https://www.theverge.com/2023/9/21/23884851/x-shutting-down-circles-twitter)
- - [how to mess with Snapchat AI &lpar;It’s a lot of fun!&rpar;](https://www.androidauthority.com/how-to-mess-with-snapchat-ai-3366788/)
- - [Apple releases emergency updates for iOS, iPadOS, macOS, and watchOS to patch three new zero-day vulnerabilities, for a total of 16 zero-days fixed in 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230921/p42#a230921p42)
- - [Apple reduces raises given to retail employees after weak iPhone quarter](https://appleinsider.com/articles/23/09/21/apple-reduces-raises-given-to-retail-employees-after-weak-iphone-quarter?utm_medium=rss)<!-- TECH:END -->
+ - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
+ - [Prime Day Deals Return in October 2023. Here’s What to Know](https://www.wired.com/story/best-october-prime-day-deals-2023/)
+ - [11 Best Early Prime Day Laptop Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023/)
+ - [X plans to deprecate Circles on October 31, 2023; users will not be able to create new posts nor add people to their Circle but will be able to remove people &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230921/p43#a230921p43)
+ - [Apple uses hidden watermarks on iPhone 15 boxes to verify authenticity](https://appleinsider.com/articles/23/09/21/apple-uses-hidden-watermarks-on-iphone-15-boxes-to-verify-authenticity?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

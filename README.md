@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 💣 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - 👉 [Victimization incoming](http://9gag.com/gag/amAOoQo)<!-- MEMES:END -->
+ - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Oh no](http://9gag.com/gag/a9q4qro)
+ - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
 
 ---
 

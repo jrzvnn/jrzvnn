@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 💣 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
+ - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)
+ - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
 
 ---
 

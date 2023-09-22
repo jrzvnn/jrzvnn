@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
- - 😝 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
- - 💣 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)
- - 😝 [Stick with Hand Guard](http://9gag.com/gag/aA0LGmp)
- - 👉 [Silence Ankle Biter, I do not listen to people smaller than me](http://9gag.com/gag/abvLgEp)<!-- MEMES:END -->
+ - 😝 [Police chase](http://9gag.com/gag/a9q4146)
+ - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 💣 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
+ - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---
 

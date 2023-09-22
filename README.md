@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No need to see a doctor. this movie will cure your depression, guaranteed!](http://9gag.com/gag/aA0L0q2)
  - 😝 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
- - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
- - 😝 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)
- - 👉 [Stick with Hand Guard](http://9gag.com/gag/aA0LGmp)<!-- MEMES:END -->
+ - 😝 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
+ - 💣 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)
+ - 😝 [Stick with Hand Guard](http://9gag.com/gag/aA0LGmp)
+ - 👉 [Silence Ankle Biter, I do not listen to people smaller than me](http://9gag.com/gag/abvLgEp)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest Windows 11 update will help you ditch passwords for good](https://www.theverge.com/2023/9/22/23885212/microsoft-windows-11-update-passkey-support-availability-date)
+ - [Xiaomi’s latest affordable phone pinches some flagship features](https://www.androidauthority.com/xiaomi-redmi-note-13-series-china-launch-3366984/)
  - [TECNO Phantom V Flip review: Should you buy it?](https://www.androidauthority.com/tecno-phantom-v-flip-review-3362962/)
  - [Suit Up for Fall with These Great Clothing Deals and Discounts     - CNET](https://www.cnet.com/deals/suit-up-for-fall-with-these-great-clothing-deals-and-discounts/#ftag=CAD590a51e)
- - [This might be the cheapest Flip foldable on the market](https://www.androidauthority.com/tecno-phantom-v-flip-3366964/)
- - [Almost 500 brands &lpar;!&rpar; have exited the smartphone market since 2017](https://www.androidauthority.com/500-brands-exit-smartphone-market-3366975/)
- - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)<!-- TECH:END -->
+ - [This might be the cheapest Flip foldable on the market](https://www.androidauthority.com/tecno-phantom-v-flip-3366964/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

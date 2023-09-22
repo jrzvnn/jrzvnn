@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Stores worldwide -- including China -- are packed for iPhone 15](https://appleinsider.com/articles/23/09/22/apple-stores-worldwide----including-china----are-packed-for-iphone-15?utm_medium=rss)
- - [EU regulators fine Intel &amp;euro;376.36M over &quot;a previously established abuse of dominant position&quot;, after an EU court overturned a &amp;euro;1.06B fine in January 2022 &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230922/p7#a230922p7)
- - [Galaxy S23 FE listings show a return to dual-chip strategy](https://www.androidauthority.com/galaxy-s23-fe-listing-processor-3367011/)
- - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
- - [Coalition: ransomware victims reported an average $365K+ loss in H1 2023, up from $227K+ in H2 2022; the average ransom demand was $1.62M, up 74% from 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230922/p6#a230922p6)<!-- TECH:END -->
+ - [Amazon plans to introduce limited ads in Prime Video in the US, the UK, Germany, and Canada early in 2024; ad-free tier will cost $2.99/month extra in the US &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/230922/p9#a230922p9)
+ - [How to Set Up Your New iPhone &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
+ - [Workers Demand Job Security in the Autonomous, Electrified Future of Transport](https://www.wired.com/story/workers-demand-job-security-in-the-autonomous-electrified-future-of-transport/)
+ - [A Medieval French Skeleton Is Rewriting the History of Syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
+ - [Revolut Needs to Get Its House in Order](https://www.wired.com/story/revolut-needs-to-get-its-house-in-order/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

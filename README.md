@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based Diligent, which makes &quot;socially intelligent&quot; service robots for hospitals, raised $25M and plans to have 100+ robots in 22 US hospitals by year end &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230922/p14#a230922p14)
  - [Inside the Race to Stop a Deadly Viral Outbreak in India](https://www.wired.com/story/kerala-nipah-outbreak/)
  - [The iPhone 15 lineup has arrived, and here’s everything you need to know about it](https://www.theverge.com/23885548/apple-iphone-15-everything-need-know-news-announcement)
  - [High-res Pixel 8 and 8 Pro renders will help you decide which color you want](https://www.androidauthority.com/google-pixel-8-colors-renders-3367155/)
- - [iPhone 15 Pro, iOS 17, new Apple Watches on the AppleInsider podcast](https://appleinsider.com/articles/23/09/22/iphone-15-pro-ios-17-new-apple-watches-on-the-appleinsider-podcast?utm_medium=rss)
- - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)<!-- TECH:END -->
+ - [iPhone 15 Pro, iOS 17, new Apple Watches on the AppleInsider podcast](https://appleinsider.com/articles/23/09/22/iphone-15-pro-ios-17-new-apple-watches-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

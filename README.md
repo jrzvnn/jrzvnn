@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Buds FE leak once again, this time with their launch date](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-launch-date-3367101/)
+ - [Sorry, Google, pushing Apple to adopt RCS isn’t cute anymore; it’s desperate](https://www.androidauthority.com/google-rcs-push-apple-desperate-3367001/)
  - [An interview with Vitalik Buterin about his &quot;decentralized lifestyle&quot;, avoiding some countries like Russia, the growing crypto crackdown in the US, and more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230922/p12#a230922p12)
  - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)
- - [Smarter AI Assistants Could Make It Harder to Stay Human](https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/)
- - [Streaming TV Is Entering Its Jock Phase](https://www.wired.com/story/streaming-wars-sports-espn-disney-charter-netflix/)
- - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)<!-- TECH:END -->
+ - [Smarter AI Assistants Could Make It Harder to Stay Human](https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

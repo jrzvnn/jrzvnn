@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google veteran Luiz Andr&amp;eacute; Barroso, who overturned many data center design conventions and conceived &quot;the data center as a computer&quot;, died on September 16 at 59 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230922/p1#a230922p1)
+ - [Hulu’s No One Will Save You is taut, minimalist sci-fi horror](https://www.theverge.com/23883971/no-one-will-save-you-review-hulu)
  - [Source: Vietnamese internet company VNG postpones its US IPO, planned for September 2023, after mixed performances by Arm, Instacart, and Klaviyo &lpar;Bloomberg&rpar;](http://www.techmeme.com/230921/p47#a230921p47)
  - [Google is really out for Apple’s blood with this latest video attacking iMessage](https://www.androidauthority.com/google-vs-apple-rcs-messaging-video-3366871/)
- - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
- - [Tether spent ~$420M on 10K Nvidia H100 GPUs in a deal that will see it get a stake in bitcoin miner Northern Data, who plans to rent the chips to AI startups &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/230921/p46#a230921p46)
- - [Check out what pro photographers accomplish with iPhone 15 Pro Max](https://appleinsider.com/articles/23/09/22/check-out-what-pro-photographers-accomplish-with-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

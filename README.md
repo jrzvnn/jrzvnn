@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 review: A bigger step up than the iPhone 14 was](https://appleinsider.com/articles/23/09/22/iphone-15-review-a-bigger-step-up-than-the-iphone-14-was?utm_medium=rss)
- - [How to use interactive widgets in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-interactive-widgets-in-ios-17?utm_medium=rss)
- - [This magnetic case for your new iPhone 15 is just $9 today](https://www.androidauthority.com/lamicall-magnetic-case-iphone-15-deal-3367188/)
- - [Amazon to Offer Alexa Accessibility Features Eye Gaze, Call Translation     - CNET](https://www.cnet.com/tech/amazon-to-offer-alexa-accessibility-features-eye-gaze-call-translation/#ftag=CAD590a51e)
- - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
+ - [Microsoft adds AI-powered features to its SwiftKey mobile keyboard app for iOS and Android, including Snapchat camera lenses, an AI-powered editor, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230922/p15#a230922p15)
+ - [The latest Baldur’s Gate 3 patch makes the hardest fight in the game harder](https://www.theverge.com/23885607/baldurs-gate-3-patch-3-mac-support-magic-mirror)
+ - [Chaos explodes as Apple fans fight their way get an iPhone 15](https://www.androidauthority.com/apple-iphone-15-fight-3367205/)
+ - [Apple’s faster Haptic Touch is as close to a 3D Touch comeback as we’re gonna get](https://www.theverge.com/23885489/apple-ios-17-haptic-touch-duration-how-to)
+ - [iPhone 15 review: A bigger step up than the iPhone 14 was](https://appleinsider.com/articles/23/09/22/iphone-15-review-a-bigger-step-up-than-the-iphone-14-was?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

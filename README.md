@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU regulators fine Intel &amp;euro;376.36M over &quot;a previously established abuse of dominant position&quot;, after an EU court overturned a &amp;euro;1.06B fine in January 2022 &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230922/p7#a230922p7)
  - [Galaxy S23 FE listings show a return to dual-chip strategy](https://www.androidauthority.com/galaxy-s23-fe-listing-processor-3367011/)
  - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
  - [Coalition: ransomware victims reported an average $365K+ loss in H1 2023, up from $227K+ in H2 2022; the average ransom demand was $1.62M, up 74% from 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230922/p6#a230922p6)
- - [How to recover from iPhone 15 stuck on Apple logo](https://appleinsider.com/articles/23/09/22/how-to-recover-from-iphone-15-stuck-on-apple-logo?utm_medium=rss)
- - [The Bizarre Cottage Industry of YouTube Obituary Pirates](https://www.wired.com/story/youtube-obituary-pirates/)<!-- TECH:END -->
+ - [How to recover from iPhone 15 stuck on Apple logo](https://appleinsider.com/articles/23/09/22/how-to-recover-from-iphone-15-stuck-on-apple-logo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

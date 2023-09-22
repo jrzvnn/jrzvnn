@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This retractable cable can help make the iPhone USB-C transition easier](https://www.theverge.com/2023/9/22/23885971/iphone-usb-c-lightning-retractable-carplay-cable)
  - [Make sure to update your iPhone 15 before transferring over data from your old phone](https://www.theverge.com/2023/9/22/23885885/apple-iphone-15-pro-ios-17-0-2-data-transfer)
  - [In this official Star Wars game, anyone can die](https://www.theverge.com/2023/9/22/23885843/star-wars-eclipse-quantic-dream-tgs-2023-update)
  - [Is Google Wallet not working? You can blame the Android 14 QPR1 beta](https://www.androidauthority.com/google-wallet-android-14-qpr1-3367245/)
- - [Lego&#39;s Newest Super Mario Set Is This &#39;Menacing&#39; Piranha Plant     - CNET](https://www.cnet.com/tech/legos-newest-super-mario-set-is-this-menacing-piranha-plant/#ftag=CAD590a51e)
- - [iOS 17.0.1: You Should Download This iPhone Update Now     - CNET](https://www.cnet.com/tech/mobile/ios-17-0-1-you-should-download-this-iphone-update-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lego&#39;s Newest Super Mario Set Is This &#39;Menacing&#39; Piranha Plant     - CNET](https://www.cnet.com/tech/legos-newest-super-mario-set-is-this-menacing-piranha-plant/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

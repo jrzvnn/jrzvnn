@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Video won&#39;t be ad-free in 2024 without an additional charge](https://appleinsider.com/articles/23/09/22/amazon-prime-video-wont-be-ad-free-in-2024-without-an-additional-charge?utm_medium=rss)
+ - [The first Apple Watch Ultra 2 Amazon deal lands on launch day](https://www.androidauthority.com/apple-watch-ultra-2-deal-3367232/)
+ - [Gmail for Android’s new update lets you batch-select 50 emails at a time](https://www.theverge.com/23885751/gmail-select-all-emails-rolling-out-android-app-update)
  - [Microsoft adds AI-powered features to its SwiftKey mobile keyboard app for iOS and Android, including Snapchat camera lenses, an AI-powered editor, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230922/p15#a230922p15)
- - [The latest Baldur’s Gate 3 patch makes the hardest fight in the game harder](https://www.theverge.com/23885607/baldurs-gate-3-patch-3-mac-support-magic-mirror)
- - [Chaos explodes as Apple fans fight their way get an iPhone 15](https://www.androidauthority.com/apple-iphone-15-fight-3367205/)
- - [Apple’s faster Haptic Touch is as close to a 3D Touch comeback as we’re gonna get](https://www.theverge.com/23885489/apple-ios-17-haptic-touch-duration-how-to)
- - [iPhone 15 review: A bigger step up than the iPhone 14 was](https://appleinsider.com/articles/23/09/22/iphone-15-review-a-bigger-step-up-than-the-iphone-14-was?utm_medium=rss)<!-- TECH:END -->
+ - [The latest Baldur’s Gate 3 patch makes the hardest fight in the game harder](https://www.theverge.com/23885607/baldurs-gate-3-patch-3-mac-support-magic-mirror)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

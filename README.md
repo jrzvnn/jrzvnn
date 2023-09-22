@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silence Ankle Biter, I do not listen to people smaller than me](http://9gag.com/gag/abvLgEp)
- - 😝 [My daughter is born 1h ago](http://9gag.com/gag/aA0LGnL)
- - 💣 [I would argument and act as a child too.](http://9gag.com/gag/aDYq25x)
- - 😝 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
- - 👉 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)<!-- MEMES:END -->
+ - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 💣 [He&#39;s smooth](http://9gag.com/gag/aZD4DXW)
+ - 😝 [Poor Lady, what they&#39;ve done to her? Lol](http://9gag.com/gag/ajV37Kw)
+ - 👉 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)<!-- MEMES:END -->
 
 ---
 

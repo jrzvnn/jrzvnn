@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA says Microsoft&#39;s revised offer to acquire Activision, which includes selling some gaming rights to Ubisoft, appears to address regulator&#39;s concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230922/p3#a230922p3)
+ - [The UK says it&#39;s moving forward with the US data bridge deal, allowing UK citizens&#39; data to be exported to the US under protections in line with UK GDPR &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230922/p4#a230922p4)
+ - [The UK CMA says Microsoft&#39;s revised offer to acquire Activision, which includes selling some gaming rights to Ubisoft, appears to address its concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230922/p3#a230922p3)
  - [YouTube launches a simple video editing app with cool AI tricks](https://www.androidauthority.com/youtube-launches-a-simple-video-editing-app-with-cool-ai-tricks-3366086/)
  - [You can now be five different people on Facebook with one account](https://www.androidauthority.com/facebook-multiple-profiles-3366935/)
- - [CLSA: China has at least 130 LLMs, accounting for 40% of the global total and behind the US&#39; 50% share; experts say most are yet to find viable business models &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230922/p2#a230922p2)
- - [Google veteran Luiz Andr&amp;eacute; Barroso, who overturned many data center design conventions and conceived &quot;the data center as a computer&quot;, died on September 16 at 59 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230922/p1#a230922p1)<!-- TECH:END -->
+ - [CLSA: China has at least 130 LLMs, accounting for 40% of the global total and behind the US&#39; 50% share; experts say most are yet to find viable business models &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230922/p2#a230922p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

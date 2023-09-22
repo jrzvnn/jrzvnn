@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 😝 [Germany](http://9gag.com/gag/aqeVg17)
- - 💣 [6 years ago I started building a Bag End inspired house. I finished the exterior this year. more pics in comments](http://9gag.com/gag/aVb90Rn)
- - 😝 [W.T.F](http://9gag.com/gag/aKEX71b)
- - 👉 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)<!-- MEMES:END -->
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
+ - 😝 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
+ - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
+ - 😝 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)
+ - 👉 [Remake better than original](http://9gag.com/gag/abvLvjr)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)
  - [Android 14 beta adds the ability to use your phone as a webcam](https://www.theverge.com/2023/9/22/23885446/android-14-beta-google-pixel-webcam-feature-usb-apple-continuity-camera)
  - [Amazon will charge you to use its new Echo Show 8 as a digital photo frame](https://www.theverge.com/2023/9/22/23885332/amazon-echo-show-8-photos-edition-digital-frame-price-fee)
  - [iPhone 15 giveaway: enter to win Apple&#39;s new smartphone &amp; Speck MagSafe accessories](https://appleinsider.com/articles/23/09/22/iphone-15-giveaway-enter-to-win-apples-new-smartphone-speck-magsafe-accessories?utm_medium=rss)
- - [Number of active smartphone brands fell from 700+ in 2017 to ~250 in 2023, as local brands lose marketshare due to a maturing userbase, shift to 5G, and more &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/230922/p13#a230922p13)
- - [Tim Cook and Greg Joswiak open Fifth Avenue store for iPhone 15 launch](https://appleinsider.com/articles/23/09/22/tim-cook-and-greg-joswiak-open-fifth-avenue-store-for-iphone-15-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon to Introduce Ads in Prime Video in 2024     - CNET](https://www.cnet.com/tech/services-and-software/amazon-to-introduce-ads-prime-video-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

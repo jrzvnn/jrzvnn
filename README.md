@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity apologizes and makes some changes to its Runtime Fee, which will no longer apply to games using current or prior Unity versions or built on Unity Personal &lpar;Bryant Francis/Game Developer&rpar;](http://www.techmeme.com/230922/p16#a230922p16)
  - [Unity announces its revamped pricing model](https://www.theverge.com/2023/9/22/23882768/unity-new-pricing-model-update)
  - [Grab everything you need for your iPhone 15 - cases, cables, chargers, and more](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-accessories?utm_medium=rss)
  - [Amazon Prime Video won&#39;t be ad-free in 2024 without an additional charge](https://appleinsider.com/articles/23/09/22/amazon-prime-video-wont-be-ad-free-in-2024-without-an-additional-charge?utm_medium=rss)
- - [The first Apple Watch Ultra 2 Amazon deal lands on launch day](https://www.androidauthority.com/apple-watch-ultra-2-deal-3367232/)
- - [Gmail for Android’s new update lets you batch-select 50 emails at a time](https://www.theverge.com/23885751/gmail-select-all-emails-rolling-out-android-app-update)<!-- TECH:END -->
+ - [The first Apple Watch Ultra 2 Amazon deal lands on launch day](https://www.androidauthority.com/apple-watch-ultra-2-deal-3367232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

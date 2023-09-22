@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube launches a simple video editing app with cool AI tricks](https://www.androidauthority.com/youtube-launches-a-simple-video-editing-app-with-cool-ai-tricks-3366086/)
  - [You can now be five different people on Facebook with one account](https://www.androidauthority.com/facebook-multiple-profiles-3366935/)
  - [CLSA: China has at least 130 LLMs, accounting for 40% of the global total and behind the US&#39; 50% share; experts say most are yet to find viable business models &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230922/p2#a230922p2)
  - [Google veteran Luiz Andr&amp;eacute; Barroso, who overturned many data center design conventions and conceived &quot;the data center as a computer&quot;, died on September 16 at 59 &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230922/p1#a230922p1)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
- - [Hulu’s No One Will Save You is taut, minimalist sci-fi horror](https://www.theverge.com/23883971/no-one-will-save-you-review-hulu)<!-- TECH:END -->
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

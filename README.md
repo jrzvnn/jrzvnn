@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US issues final rules to stop Chips Act subsidies from going to countries like China, including limiting chips fab expansions in such countries for 10 years &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230922/p10#a230922p10)
  - [Amazon plans to introduce limited ads in Prime Video in the US, the UK, Germany, and Canada early in 2024; ad-free tier will cost $2.99/month extra in the US &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/230922/p9#a230922p9)
  - [How to Set Up Your New iPhone &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
  - [Workers Demand Job Security in the Autonomous, Electrified Future of Transport](https://www.wired.com/story/workers-demand-job-security-in-the-autonomous-electrified-future-of-transport/)
- - [A Medieval French Skeleton Is Rewriting the History of Syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
- - [Revolut Needs to Get Its House in Order](https://www.wired.com/story/revolut-needs-to-get-its-house-in-order/)<!-- TECH:END -->
+ - [A Medieval French Skeleton Is Rewriting the History of Syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

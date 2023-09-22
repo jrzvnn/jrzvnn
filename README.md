@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You asked, and we answered your burning iPhone 15 questions](https://www.theverge.com/23884468/apple-iphone-15-battery-usb-c-questions-vergecast-hotline)
- - [Ads are coming to Prime Video because Amazon clearly needs the cash](https://www.androidauthority.com/amazon-prime-video-ads-3367068/)
- - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
- - [The US issues final rules to stop Chips Act subsidies from going to countries like China, including limiting chips fab expansions in such countries for 10 years &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230922/p10#a230922p10)
- - [Amazon plans to introduce limited ads in Prime Video in the US, the UK, Germany, and Canada early in 2024; ad-free tier will cost $2.99/month extra in the US &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/230922/p9#a230922p9)<!-- TECH:END -->
+ - [Wedbush says iPhone 15 Pro Max is &#39;a clear standout&#39;](https://appleinsider.com/articles/23/09/22/wedbush-says-iphone-15-pro-max-is-a-clear-standout?utm_medium=rss)
+ - [How Apple SVP of Services Eddy Cue led the company&#39;s push into live sports streaming and is using its MLS deal to test reshaping how sports are consumed &lpar;Sam Schube/GQ&rpar;](http://www.techmeme.com/230922/p11#a230922p11)
+ - [How to trade in or sell your old iPhone](https://www.androidauthority.com/how-to-trade-in-or-sell-old-iphone-3367074/)
+ - [NASA&#39;s OSIRIS-REx Is About to Bring Asteroid Pieces Back to Earth](https://www.wired.com/story/nasas-osiris-rex-is-about-to-bring-asteroid-pieces-back-to-earth/)
+ - [Fairphone 5 Review: A More Ethical Phone](https://www.wired.com/review/fairphone-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

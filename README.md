@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate when this happens](https://www.reddit.com/r/funny/comments/16otohk/i_hate_when_this_happens/)
- - 😝 [Made me chuckle](https://www.reddit.com/r/memes/comments/16otk8l/made_me_chuckle/)
- - 💣 [yes, you&#39;re a genius, the whole internet would be lost without you.](https://www.reddit.com/r/memes/comments/16otinx/yes_youre_a_genius_the_whole_internet_would_be/)
- - 😝 [Programmers...](https://www.reddit.com/r/memes/comments/16osocr/programmers/)
- - 👉 [You what?](https://www.reddit.com/r/memes/comments/16os1bs/you_what/)<!-- MEMES:END -->
+ - 😝 [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)
+ - 😝 [It\u2019s those little things that make us happy](http://9gag.com/gag/a8qv16Q)
+ - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
+ - 👉 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)<!-- MEMES:END -->
 
 ---
 

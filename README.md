@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
- - 💣 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 👉 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
+ - 😝 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
+ - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
+ - 😝 [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
+ - 👉 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)<!-- MEMES:END -->
 
 ---
 

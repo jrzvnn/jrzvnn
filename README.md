@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
  - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 😝 [Dark Briiish Empire\u2026 oh come on!](http://9gag.com/gag/abvLg0O)
+ - 💣 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
+ - 😝 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
+ - 👉 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)<!-- MEMES:END -->
 
 ---
 

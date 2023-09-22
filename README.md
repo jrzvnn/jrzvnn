@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Almost 500 brands &lpar;!&rpar; have exited the smartphone market since 2017](https://www.androidauthority.com/500-brands-exit-smartphone-market-3366975/)
  - [Microsoft’s Activision Blizzard deal gets preliminary approval from UK regulator](https://www.theverge.com/2023/9/22/23885176/microsofts-activision-blizzard-uk-cma-preliminary-approval)
  - [A look at Sullivan &amp; Cromwell&#39;s tangled FTX relationship, as SBF argues that the law firm set him up; the firm has made $100M+ in fees from FTX&#39;s bankruptcy &lpar;New York Times&rpar;](http://www.techmeme.com/230922/p5#a230922p5)
  - [The UK says it&#39;s moving forward with the US data bridge deal, allowing UK citizens&#39; data to be exported to the US under protections in line with UK GDPR &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230922/p4#a230922p4)
- - [The UK CMA says Microsoft&#39;s revised offer to acquire Activision, which includes selling some gaming rights to Ubisoft, appears to address its concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230922/p3#a230922p3)
- - [YouTube launches a simple video editing app with cool AI tricks](https://www.androidauthority.com/youtube-launches-a-simple-video-editing-app-with-cool-ai-tricks-3366086/)<!-- TECH:END -->
+ - [The UK CMA says Microsoft&#39;s revised offer to acquire Activision, which includes selling some gaming rights to Ubisoft, appears to address its concerns &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230922/p3#a230922p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

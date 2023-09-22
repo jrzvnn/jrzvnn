@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Surface and AI event: all the news and announcements](https://www.theverge.com/2023/9/21/23882273/microsoft-event-surface-windows-office-ai)
  - [Sources: The White House is weighing requiring cloud companies to disclose when a client buys computing resources above a set threshold, as part of an EO on AI &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/230922/p17#a230922p17)
  - [This retractable cable can help make the iPhone USB-C transition easier](https://www.theverge.com/2023/9/22/23885971/iphone-usb-c-lightning-retractable-carplay-cable)
  - [What Microsoft&#39;s AI Push Means for Your Windows Laptop     - CNET](https://www.cnet.com/tech/services-and-software/what-microsofts-ai-push-means-for-your-windows-laptop/#ftag=CAD590a51e)
- - [Make sure to update your iPhone 15 before transferring over data from your old phone](https://www.theverge.com/2023/9/22/23885885/apple-iphone-15-pro-ios-17-0-2-data-transfer)
- - [In this official Star Wars game, anyone can die](https://www.theverge.com/2023/9/22/23885843/star-wars-eclipse-quantic-dream-tgs-2023-update)<!-- TECH:END -->
+ - [Make sure to update your iPhone 15 before transferring over data from your old phone](https://www.theverge.com/2023/9/22/23885885/apple-iphone-15-pro-ios-17-0-2-data-transfer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

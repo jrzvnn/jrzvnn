@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
  - 😝 [Germany](http://9gag.com/gag/aqeVg17)
+ - 😝 [Police chase](http://9gag.com/gag/a9q4146)
  - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
- - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 👉 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
+ - [A look at the UK NHS&#39; plans for a federated data platform and the doctors, privacy campaigners, and others concerned that Palantir could win the &amp;pound;480M contract &lpar;Wired&rpar;](http://www.techmeme.com/230922/p19#a230922p19)
  - [Best Fitbit Deals: Save on Top-Rated Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [Unity May Never Win Back the Developers It Lost in Its Fee Debacle](https://www.wired.com/story/unity-walks-back-policies-lost-trust/)
- - [Mac gamers can now play &#39;Baldur&#39;s Gate 3&#39; a day later than expected](https://appleinsider.com/articles/23/09/22/mac-gamers-can-now-play-baldurs-gate-3-a-day-later-than-expected?utm_medium=rss)
- - [Best Beats Headphone Deals: Save Up to $181 on Studio3, Fit Pro and More     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
- - [Best MagSafe Duo alternatives with USB-C to charge an iPhone 15](https://appleinsider.com/inside/magsafe/best/best-magsafe-duo-alternatives-with-usb-c-to-charge-an-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Mac gamers can now play &#39;Baldur&#39;s Gate 3&#39; a day later than expected](https://appleinsider.com/articles/23/09/22/mac-gamers-can-now-play-baldurs-gate-3-a-day-later-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [High-res Pixel 8 and 8 Pro renders will help you decide which color you want](https://www.androidauthority.com/google-pixel-8-colors-renders-3367155/)
  - [iPhone 15 Pro, iOS 17, new Apple Watches on the AppleInsider podcast](https://appleinsider.com/articles/23/09/22/iphone-15-pro-ios-17-new-apple-watches-on-the-appleinsider-podcast?utm_medium=rss)
  - [Climate Week NYC: news and protests surrounding the UN Climate Ambition Summit](https://www.theverge.com/23875724/climate-week-nyc-united-nations-climate-change-ambition-summit)
  - [A Steam Deck 2 is coming, just not as soon as you hoped](https://www.androidauthority.com/steam-deck-2-years-away-3367151/)
- - [Samsung leaks its new Fan Edition phone, tablet, and earbuds](https://www.theverge.com/2023/9/22/23885350/samsung-leaks-fan-edition-galaxy-buds-s23-tab-fe)
- - [The Lamborghini-inspired Dry Studio Black Diamond 75 gaming keyboard is more cool than cringe](https://www.theverge.com/23885308/dry-studio-black-diamond-75-mechanical-keyboard-specs-price-impressions)<!-- TECH:END -->
+ - [Samsung leaks its new Fan Edition phone, tablet, and earbuds](https://www.theverge.com/2023/9/22/23885350/samsung-leaks-fan-edition-galaxy-buds-s23-tab-fe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

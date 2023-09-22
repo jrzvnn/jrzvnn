@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
+ - [Tether spent ~$420M on 10K Nvidia H100 GPUs in a deal that will see it get a stake in bitcoin miner Northern Data, who plans to rent the chips to AI startups &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/230921/p46#a230921p46)
  - [Check out what pro photographers accomplish with iPhone 15 Pro Max](https://appleinsider.com/articles/23/09/22/check-out-what-pro-photographers-accomplish-with-iphone-15-pro-max?utm_medium=rss)
  - [GGV, which invested in Alibaba, ByteDance, and other Chinese companies, splits its Asia and US units; in July, the US sought details about its holdings in China &lpar;Financial Times&rpar;](http://www.techmeme.com/230921/p45#a230921p45)
- - [Valve: don’t expect a faster Steam Deck ‘in the next couple of years’](https://www.theverge.com/2023/9/21/23884863/valve-steam-deck-2-refresh-upgrade-cpu-2025)
- - [Binance, Binance.US, and Changpeng Zhao file to dismiss an SEC lawsuit, claiming the regulator hadn&#39;t &quot;plausibly alleged&quot; various securities-related violations &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230921/p44#a230921p44)
- - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)<!-- TECH:END -->
+ - [Valve: don’t expect a faster Steam Deck ‘in the next couple of years’](https://www.theverge.com/2023/9/21/23884863/valve-steam-deck-2-refresh-upgrade-cpu-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

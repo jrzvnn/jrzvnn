@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
  - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
  - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 😝 [Oh no](http://9gag.com/gag/a9q4qro)
- - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
+ - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
+ - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
 
 ---
 

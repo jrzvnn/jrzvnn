@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 review: A bigger step up than the iPhone 14 was](https://appleinsider.com/articles/23/09/22/iphone-15-review-a-bigger-step-up-than-the-iphone-14-was?utm_medium=rss)
  - [How to use interactive widgets in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-interactive-widgets-in-ios-17?utm_medium=rss)
  - [This magnetic case for your new iPhone 15 is just $9 today](https://www.androidauthority.com/lamicall-magnetic-case-iphone-15-deal-3367188/)
- - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)
- - [&#39;Majority&#39; Imagines Internet Hate Mobs to the Extreme](https://www.wired.com/2023/09/geeks-guide-abby-goldsmith/)
- - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon to Offer Alexa Accessibility Features Eye Gaze, Call Translation     - CNET](https://www.cnet.com/tech/amazon-to-offer-alexa-accessibility-features-eye-gaze-call-translation/#ftag=CAD590a51e)
+ - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

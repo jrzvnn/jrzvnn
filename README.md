@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Windows 11 update will help you ditch passwords for good](https://www.theverge.com/2023/9/22/23885212/microsoft-windows-11-update-passkey-support-availability-date)
- - [Xiaomi’s latest affordable phone pinches some flagship features](https://www.androidauthority.com/xiaomi-redmi-note-13-series-china-launch-3366984/)
- - [TECNO Phantom V Flip review: Should you buy it?](https://www.androidauthority.com/tecno-phantom-v-flip-review-3362962/)
- - [Suit Up for Fall with These Great Clothing Deals and Discounts     - CNET](https://www.cnet.com/deals/suit-up-for-fall-with-these-great-clothing-deals-and-discounts/#ftag=CAD590a51e)
- - [This might be the cheapest Flip foldable on the market](https://www.androidauthority.com/tecno-phantom-v-flip-3366964/)<!-- TECH:END -->
+ - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
+ - [Coalition: ransomware victims reported an average $365K+ loss in H1 2023, up from $227K+ in H2 2022; the average ransom demand was $1.62M, up 74% from 2022 &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/230922/p6#a230922p6)
+ - [How to recover from iPhone 15 stuck on Apple logo](https://appleinsider.com/articles/23/09/22/how-to-recover-from-iphone-15-stuck-on-apple-logo?utm_medium=rss)
+ - [The Bizarre Cottage Industry of YouTube Obituary Pirates](https://www.wired.com/story/youtube-obituary-pirates/)
+ - [The latest Windows 11 update will help you ditch passwords for good](https://www.theverge.com/2023/9/22/23885212/microsoft-windows-11-update-passkey-support-availability-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

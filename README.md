@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wedbush says iPhone 15 Pro Max is &#39;a clear standout&#39;](https://appleinsider.com/articles/23/09/22/wedbush-says-iphone-15-pro-max-is-a-clear-standout?utm_medium=rss)
- - [How Apple SVP of Services Eddy Cue led the company&#39;s push into live sports streaming and is using its MLS deal to test reshaping how sports are consumed &lpar;Sam Schube/GQ&rpar;](http://www.techmeme.com/230922/p11#a230922p11)
- - [How to trade in or sell your old iPhone](https://www.androidauthority.com/how-to-trade-in-or-sell-old-iphone-3367074/)
- - [NASA&#39;s OSIRIS-REx Is About to Bring Asteroid Pieces Back to Earth](https://www.wired.com/story/nasas-osiris-rex-is-about-to-bring-asteroid-pieces-back-to-earth/)
- - [Fairphone 5 Review: A More Ethical Phone](https://www.wired.com/review/fairphone-5/)<!-- TECH:END -->
+ - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)
+ - [Smarter AI Assistants Could Make It Harder to Stay Human](https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/)
+ - [Streaming TV Is Entering Its Jock Phase](https://www.wired.com/story/streaming-wars-sports-espn-disney-charter-netflix/)
+ - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
+ - [In a Battle Between Harassment and Censorship, the Choice Is Clear](https://www.wired.com/story/kiwifarms-tech-ethics-networked-harassment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

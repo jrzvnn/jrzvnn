@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve: don’t expect a faster Steam Deck ‘in the next couple of years’](https://www.theverge.com/2023/9/21/23884863/valve-steam-deck-2-refresh-upgrade-cpu-2025)
+ - [Binance, Binance.US, and Changpeng Zhao file to dismiss an SEC lawsuit, claiming the regulator hadn&#39;t &quot;plausibly alleged&quot; various securities-related violations &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230921/p44#a230921p44)
  - [6 Best Early Prime Day Apple Deals &lpar;2023&rpar;: MacBooks and Accessories](https://www.wired.com/story/amazon-prime-day-apple-deals-2023/)
  - [Prime Day Deals Return in October 2023. Here’s What to Know](https://www.wired.com/story/best-october-prime-day-deals-2023/)
- - [11 Best Early Prime Day Laptop Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023/)
- - [X plans to deprecate Circles on October 31, 2023; users will not be able to create new posts nor add people to their Circle but will be able to remove people &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230921/p43#a230921p43)
- - [Apple uses hidden watermarks on iPhone 15 boxes to verify authenticity](https://appleinsider.com/articles/23/09/21/apple-uses-hidden-watermarks-on-iphone-15-boxes-to-verify-authenticity?utm_medium=rss)<!-- TECH:END -->
+ - [11 Best Early Prime Day Laptop Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

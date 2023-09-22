@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 💣 [I met both!](http://9gag.com/gag/aVb978P)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
+ - 😝 [Silence Ankle Biter, I do not listen to people smaller than me](http://9gag.com/gag/abvLgEp)
+ - 😝 [My daughter is born 1h ago](http://9gag.com/gag/aA0LGnL)
+ - 💣 [I would argument and act as a child too.](http://9gag.com/gag/aDYq25x)
+ - 😝 [What is this? A Crossover Episode?](http://9gag.com/gag/a3ZzZLr)
+ - 👉 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)<!-- MEMES:END -->
 
 ---
 

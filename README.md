@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)
  - [Daily deals Sept. 22: $20 off Apple Watch Ultra 2, Apple Watch Series 9 $389, $90 off iPad 9th Generation, more](https://appleinsider.com/articles/23/09/22/daily-deals-sept-22-20-off-apple-watch-ultra-2-apple-watch-series-9-389-90-off-ipad-9th-generation-more?utm_medium=rss)
  - [Samsung Galaxy Buds FE leak once again, this time with their launch date](https://www.androidauthority.com/samsung-galaxy-buds-fe-leak-launch-date-3367101/)
  - [Sorry, Google, pushing Apple to adopt RCS isn’t cute anymore; it’s desperate](https://www.androidauthority.com/google-rcs-push-apple-desperate-3367001/)
- - [An interview with Vitalik Buterin about his &quot;decentralized lifestyle&quot;, avoiding some countries like Russia, the growing crypto crackdown in the US, and more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230922/p12#a230922p12)
- - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Vitalik Buterin about his &quot;decentralized lifestyle&quot;, avoiding some countries like Russia, the growing crypto crackdown in the US, and more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230922/p12#a230922p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

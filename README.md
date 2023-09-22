@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 💣 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
  - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 😝 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
- - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
- - 😝 [What&#39;s up man](http://9gag.com/gag/aQEDX4q)
- - 👉 [Remake better than original](http://9gag.com/gag/abvLvjr)<!-- MEMES:END -->
+ - 👉 [Germany](http://9gag.com/gag/aqeVg17)<!-- MEMES:END -->
 
 ---
 

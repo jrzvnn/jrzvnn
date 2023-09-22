@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The legend Trev\u2026.. I mean Steven Ogg](http://9gag.com/gag/anz0O5V)
- - 😝 [Remake better than original](http://9gag.com/gag/abvLvjr)
- - 💣 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
- - 👉 [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)<!-- MEMES:END -->
+ - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
+ - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
+ - 👉 [Victimization incoming](http://9gag.com/gag/amAOoQo)<!-- MEMES:END -->
 
 ---
 

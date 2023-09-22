@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman violently pushes Priest off stage during mass live broadcast.](http://9gag.com/gag/aL1OgXx)
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 💣 [Most people have shitty bosses but mine is an absolute gem. He&#39;s a kind old man who has helped out many of his employees when they were in a difficult situation. It&#39;s just unfair that the police can drag you out of your place of work without any evidence.just a false statement.](http://9gag.com/gag/a9q41XD)
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
+ - 😝 [It\u2019s those little things that make us happy](http://9gag.com/gag/a8qv16Q)
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
+ - 💣 [Daddy-daughter camping trip](http://9gag.com/gag/aRE80nQ)
+ - 😝 [Popeye back in the day\u2026](http://9gag.com/gag/aXnmrwD)
+ - 👉 [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)<!-- MEMES:END -->
 
 ---
 

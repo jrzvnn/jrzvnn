@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 😝 [The legend Trev\u2026.. I mean Steven Ogg](http://9gag.com/gag/anz0O5V)
+ - 😝 [Remake better than original](http://9gag.com/gag/abvLvjr)
+ - 💣 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
+ - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 👉 [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)<!-- MEMES:END -->
 
 ---
 

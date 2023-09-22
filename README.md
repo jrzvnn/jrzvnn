@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellite Images Show the Devastating Cost of Sudan’s Aerial War](https://www.wired.com/story/sudan-conflict-satellites/)
+ - [In this official Star Wars game, anyone can die](https://www.theverge.com/2023/9/22/23885843/star-wars-eclipse-quantic-dream-tgs-2023-update)
+ - [Is Google Wallet not working? You can blame the Android 14 QPR1 beta](https://www.androidauthority.com/google-wallet-android-14-qpr1-3367245/)
  - [Unity apologizes and says games made with Unity Personal will be exempt from its Runtime Fee, which will only apply to games made with Unity versions from 2024 &lpar;Bryant Francis/Game Developer&rpar;](http://www.techmeme.com/230922/p16#a230922p16)
  - [Unity announces its revamped pricing model](https://www.theverge.com/2023/9/22/23882768/unity-new-pricing-model-update)
- - [Grab everything you need for your iPhone 15 - cases, cables, chargers, and more](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-accessories?utm_medium=rss)
- - [Amazon Prime Video won&#39;t be ad-free in 2024 without an additional charge](https://appleinsider.com/articles/23/09/22/amazon-prime-video-wont-be-ad-free-in-2024-without-an-additional-charge?utm_medium=rss)<!-- TECH:END -->
+ - [Grab everything you need for your iPhone 15 - cases, cables, chargers, and more](https://appleinsider.com/inside/iphone-15/best/best-iphone-15-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

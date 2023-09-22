@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
+ - 😝 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)
+ - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 

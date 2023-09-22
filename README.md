@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use interactive widgets in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-interactive-widgets-in-ios-17?utm_medium=rss)
+ - [This magnetic case for your new iPhone 15 is just $9 today](https://www.androidauthority.com/lamicall-magnetic-case-iphone-15-deal-3367188/)
  - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)
  - [&#39;Majority&#39; Imagines Internet Hate Mobs to the Extreme](https://www.wired.com/2023/09/geeks-guide-abby-goldsmith/)
- - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)
- - [Austin-based Diligent, which makes &quot;socially intelligent&quot; service robots for hospitals, raised $25M and plans to have 100+ robots in 22 US hospitals by year end &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230922/p14#a230922p14)
- - [Inside the Race to Stop a Deadly Viral Outbreak in India](https://www.wired.com/story/kerala-nipah-outbreak/)<!-- TECH:END -->
+ - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

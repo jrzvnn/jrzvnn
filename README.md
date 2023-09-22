@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 💣 [Relax song](http://9gag.com/gag/az2v1ex)
+ - 😝 [Whats the best posture to take in this case, to take minimal damage?](http://9gag.com/gag/a3ZzZZ7)
+ - 😝 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
  - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 👉 [Police chase](http://9gag.com/gag/a9q4146)<!-- MEMES:END -->
 
 ---
 

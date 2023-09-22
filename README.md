@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 9: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-9-3365966/)
+ - [&#39;Majority&#39; Imagines Internet Hate Mobs to the Extreme](https://www.wired.com/2023/09/geeks-guide-abby-goldsmith/)
  - [Why the new AirPods Pro 2 are needed for Apple Vision Pro lossless audio](https://appleinsider.com/articles/23/09/22/why-the-new-airpods-pro-2-are-needed-for-apple-vision-pro-lossless-audio?utm_medium=rss)
  - [Austin-based Diligent, which makes &quot;socially intelligent&quot; service robots for hospitals, raised $25M and plans to have 100+ robots in 22 US hospitals by year end &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230922/p14#a230922p14)
- - [Inside the Race to Stop a Deadly Viral Outbreak in India](https://www.wired.com/story/kerala-nipah-outbreak/)
- - [The iPhone 15 lineup has arrived, and here’s everything you need to know about it](https://www.theverge.com/23885548/apple-iphone-15-everything-need-know-news-announcement)
- - [High-res Pixel 8 and 8 Pro renders will help you decide which color you want](https://www.androidauthority.com/google-pixel-8-colors-renders-3367155/)<!-- TECH:END -->
+ - [Inside the Race to Stop a Deadly Viral Outbreak in India](https://www.wired.com/story/kerala-nipah-outbreak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

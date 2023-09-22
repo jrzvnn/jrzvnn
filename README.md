@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity May Never Win Back the Developers It Lost in Its Fee Debacle](https://www.wired.com/story/unity-walks-back-policies-lost-trust/)
  - [Mac gamers can now play &#39;Baldur&#39;s Gate 3&#39; a day later than expected](https://appleinsider.com/articles/23/09/22/mac-gamers-can-now-play-baldurs-gate-3-a-day-later-than-expected?utm_medium=rss)
  - [Best MagSafe Duo alternatives with USB-C to charge an iPhone 15](https://appleinsider.com/inside/magsafe/best/best-magsafe-duo-alternatives-with-usb-c-to-charge-an-iphone-15?utm_medium=rss)
  - [iFixit tears down… Apple’s FineWoven cases](https://www.theverge.com/2023/9/22/23886030/apple-finewoven-cases-ifixit-teardown)
- - [Apple iPhone 15 Pro and Pro Max review: by the numbers](https://www.theverge.com/23879619/apple-iphone-15-pro-max-review)
- - [Documents: Coinbase explored acquiring FTX Europe after FTX&#39;s November 2022 bankruptcy, as part of Coinbase&#39;s goal to expand its overseas derivatives business &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230922/p18#a230922p18)<!-- TECH:END -->
+ - [Apple iPhone 15 Pro and Pro Max review: by the numbers](https://www.theverge.com/23879619/apple-iphone-15-pro-max-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

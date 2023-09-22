@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 giveaway: enter to win Apple&#39;s new smartphone &amp; Speck MagSafe accessories](https://appleinsider.com/articles/23/09/22/iphone-15-giveaway-enter-to-win-apples-new-smartphone-speck-magsafe-accessories?utm_medium=rss)
  - [Number of active smartphone brands fell from 700+ in 2017 to ~250 in 2023, as local brands lose marketshare due to a maturing userbase, shift to 5G, and more &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/230922/p13#a230922p13)
  - [Tim Cook and Greg Joswiak open Fifth Avenue store for iPhone 15 launch](https://appleinsider.com/articles/23/09/22/tim-cook-and-greg-joswiak-open-fifth-avenue-store-for-iphone-15-launch?utm_medium=rss)
  - [Case-Mate’s see-through Fuel Chargers are on sale starting at just $10](https://www.theverge.com/2023/9/22/23884130/case-mate-usb-c-fuel-charger-eero-pro-6e-router-tile-pro-tracker-deal-sale)
- - [Please don’t trash your perfectly good Lightning cables! Do this instead](https://www.androidauthority.com/lightning-cable-donation-3361204/)
- - [How to secure NameDrop and keep safe in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-secure-namedrop-and-keep-safe-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Please don’t trash your perfectly good Lightning cables! Do this instead](https://www.androidauthority.com/lightning-cable-donation-3361204/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

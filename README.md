@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
- - 😝 [Remake better than original](http://9gag.com/gag/abvLvjr)
- - 💣 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)
+ - 😝 [Relax song](http://9gag.com/gag/az2v1ex)
+ - 😝 [Bonk!!](http://9gag.com/gag/ap9nR8W)
+ - 💣 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
  - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 👉 [Angry Birds - Special edition?](http://9gag.com/gag/aQEDdXq)<!-- MEMES:END -->
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 

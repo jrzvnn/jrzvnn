@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right in the heart..](http://9gag.com/gag/aGErLo5)
- - 😝 [Awesome improvised dance](http://9gag.com/gag/aBdb6yz)
- - 💣 [Having disagreement is racism?](http://9gag.com/gag/aWGeL8q)
- - 😝 [The best boi.](http://9gag.com/gag/aYVvEzV)
- - 👉 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)<!-- MEMES:END -->
+ - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

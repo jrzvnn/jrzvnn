@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 💣 [Undeniable](http://9gag.com/gag/a3Zz5N1)
- - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 👉 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)<!-- MEMES:END -->
+ - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
+ - 💣 [Police chase](http://9gag.com/gag/a9q4146)
+ - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
 
 ---
 

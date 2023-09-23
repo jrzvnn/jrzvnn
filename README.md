@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Police chase](http://9gag.com/gag/a9q4146)
+ - 😝 [End of discussion](http://9gag.com/gag/a7qmORe)
+ - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
  - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
+ - 👉 [Victimization incoming](http://9gag.com/gag/amAOoQo)<!-- MEMES:END -->
 
 ---
 

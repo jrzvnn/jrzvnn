@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 😝 [I met both!](http://9gag.com/gag/aVb978P)
- - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
+ - 😝 [Get scammed](http://9gag.com/gag/a7qmoBw)
+ - 💣 [Nature&#39;s just something else](http://9gag.com/gag/a9q4y2j)
+ - 😝 [Awesome improvised dance](http://9gag.com/gag/aBdb6yz)
+ - 👉 [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)<!-- MEMES:END -->
 
 ---
 

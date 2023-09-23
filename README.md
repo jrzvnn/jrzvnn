@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [The last-gen Apple Watch Series 8 is on sale for as low as $279 today](https://www.theverge.com/2023/9/23/23886191/apple-watch-series-8-airpods-pro-usb-c-lg-c3-old-deal-sale)
  - [I pay $250 a month for internet access, and I’m not even mad about it](https://www.androidauthority.com/starlink-priority-access-3364927/)
+ - [Care for Your Eye Health Naturally With These 10 Daily Habits     - CNET](https://www.cnet.com/health/personal-care/care-for-your-eye-health-naturally-with-these-10-daily-habits/#ftag=CAD590a51e)
  - [Optimizing Metal: Ways to improve code made for Apple&#39;s graphics framework](https://appleinsider.com/inside/xcode/tips/optimizing-metal-ways-to-improve-code-made-for-apples-graphics-framework?utm_medium=rss)
- - [Walmart-backed PhonePe, which leads India&#39;s UPI-based payments market, launches the Indus AppStore on Android with zero platform fees and no commission on IAP &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230923/p9#a230923p9)
- - [The Google Pixel 8’s latest leak shows off big AI camera updates](https://www.theverge.com/2023/9/23/23886765/google-pixel-8-pro-camera-specs-leak-ai-magic-editor)<!-- TECH:END -->
+ - [Walmart-backed PhonePe, which leads India&#39;s UPI-based payments market, launches the Indus AppStore on Android with zero platform fees and no commission on IAP &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230923/p9#a230923p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

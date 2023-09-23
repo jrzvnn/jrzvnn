@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the antitrust activists attending the DOJ&#39;s Google antitrust trial every day and documenting their observations through social media and newsletters &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230922/p21#a230922p21)
  - [Get Apple&#39;s new USB-C AirPods Pro 2 for $199.99, a $50 discount off retail](https://appleinsider.com/articles/23/09/23/get-apples-new-usb-c-airpods-pro-2-for-19999-a-50-discount-off-retail?utm_medium=rss)
  - [Sources: SpaceX isn&#39;t planning to test its direct to cell service with T-Mobile until 2024 as SpaceX works on technical kinks, after a planned late 2023 rollout &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230922/p20#a230922p20)
  - [TCL&#39;s $200 5G Phone Is Now Available Unlocked     - CNET](https://www.cnet.com/tech/mobile/tcls-200-5g-phone-is-now-available-unlocked/#ftag=CAD590a51e)
- - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Which iPhone 15 Model Should You Buy?](https://www.wired.com/story/apple-iphone-15-deals/)<!-- TECH:END -->
+ - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

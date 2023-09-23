@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having disagreement is racism?](http://9gag.com/gag/aWGeL8q)
+ - 😝 [DORa](http://9gag.com/gag/aVb9E72)
  - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 💣 [Right in the heart..](http://9gag.com/gag/aGErLo5)
- - 😝 [On Friday, &#39;transphobic&#39; students at a high school in Perkiomen Township, Penn. staged a walkout to protest the school board allowing biological males in female bathrooms](http://9gag.com/gag/aRE84BB)
- - 👉 [Awesome improvised dance](http://9gag.com/gag/aBdb6yz)<!-- MEMES:END -->
+ - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 

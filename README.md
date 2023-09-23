@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [End of discussion](http://9gag.com/gag/a7qmORe)
+ - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 💣 [DORa](http://9gag.com/gag/aVb9E72)
  - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
- - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 👉 [Victimization incoming](http://9gag.com/gag/amAOoQo)<!-- MEMES:END -->
 
 ---
 

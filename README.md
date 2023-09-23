@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Love these videos](http://9gag.com/gag/adPWQrD)
- - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
  - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 👉 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)<!-- MEMES:END -->
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 👉 [Love these videos](http://9gag.com/gag/adPWQrD)<!-- MEMES:END -->
 
 ---
 

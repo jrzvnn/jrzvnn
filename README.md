@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
+ - 💣 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
  - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 👉 [Love these videos](http://9gag.com/gag/adPWQrD)<!-- MEMES:END -->
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

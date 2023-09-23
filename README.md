@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new ploy to get kids off iPhones is a MrBeast sponsorship](https://www.theverge.com/2023/9/23/23886657/samsung-mrbeast-sponsorhip-galaxy-apple-iphone)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)
  - [Sources: India will delay its import license requirement for laptops and tablets by a year and instead plans a simpler import registration process from November &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p6#a230923p6)
  - [Alexa is the best frenemy I’ve ever had](https://www.theverge.com/23817430/amazon-alexa-echo-show-parkinsons-disease)
- - [Android 1.0 didn’t impress me 15 years ago, but look at us now](https://www.androidauthority.com/android-15-years-anniversary-3366640/)
- - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-to-watch-right-now-september/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 1.0 didn’t impress me 15 years ago, but look at us now](https://www.androidauthority.com/android-15-years-anniversary-3366640/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DORa](http://9gag.com/gag/aVb9E72)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
+ - 💣 [DORa](http://9gag.com/gag/aVb9E72)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

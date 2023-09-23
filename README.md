@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)
+ - [Sources: India will delay its import license requirement for laptops and tablets by a year and instead plans a simpler import registration process from November &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p6#a230923p6)
  - [Alexa is the best frenemy I’ve ever had](https://www.theverge.com/23817430/amazon-alexa-echo-show-parkinsons-disease)
  - [Android 1.0 didn’t impress me 15 years ago, but look at us now](https://www.androidauthority.com/android-15-years-anniversary-3366640/)
- - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-to-watch-right-now-september/#ftag=CAD590a51e)
- - [Add These 8 Yoga Poses to Your Bedtime Routine     - CNET](https://www.cnet.com/health/sleep/add-these-8-yoga-poses-to-your-bedtime-routine/#ftag=CAD590a51e)
- - [A look at Scattered Spider, which experts say is a group of 17 to 22-year-old native English speakers likely behind the MGM and 52+ other hacks since March 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p5#a230923p5)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-to-watch-right-now-september/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

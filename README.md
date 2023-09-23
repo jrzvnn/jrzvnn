@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers and US agencies are overhauling or ending the study of political and medical misinfo due to pressure from Rep. Jim Jordan and other conservatives &lpar;Washington Post&rpar;](http://www.techmeme.com/230923/p7#a230923p7)
  - [Samsung’s new ploy to get kids off iPhones is a MrBeast sponsorship](https://www.theverge.com/2023/9/23/23886657/samsung-mrbeast-sponsorhip-galaxy-apple-iphone)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)
  - [Sources: India will delay its import license requirement for laptops and tablets by a year and instead plans a simpler import registration process from November &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p6#a230923p6)
- - [Alexa is the best frenemy I’ve ever had](https://www.theverge.com/23817430/amazon-alexa-echo-show-parkinsons-disease)
- - [Android 1.0 didn’t impress me 15 years ago, but look at us now](https://www.androidauthority.com/android-15-years-anniversary-3366640/)<!-- TECH:END -->
+ - [Alexa is the best frenemy I’ve ever had](https://www.theverge.com/23817430/amazon-alexa-echo-show-parkinsons-disease)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

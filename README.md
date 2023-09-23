@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
  - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [Police chase](http://9gag.com/gag/a9q4146)
- - 👉 [Was not visible in water](http://9gag.com/gag/aA0LG9o)<!-- MEMES:END -->
+ - 💣 [End of discussion](http://9gag.com/gag/a7qmORe)
+ - 😝 [Was not visible in water](http://9gag.com/gag/aA0LG9o)
+ - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
 
 ---
 

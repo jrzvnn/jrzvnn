@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
+ - 😝 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)
+ - 💣 [Now who did this casting? \u0ca0\u2060_\u2060\u0ca0](http://9gag.com/gag/aQED7b7)
  - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
- - 💣 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 👉 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)<!-- MEMES:END -->
+ - 👉 [End of discussion](http://9gag.com/gag/a7qmORe)<!-- MEMES:END -->
 
 ---
 

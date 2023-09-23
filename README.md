@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexa is the best frenemy I’ve ever had](https://www.theverge.com/23817430/amazon-alexa-echo-show-parkinsons-disease)
  - [Android 1.0 didn’t impress me 15 years ago, but look at us now](https://www.androidauthority.com/android-15-years-anniversary-3366640/)
  - [A look at Scattered Spider, which experts say is a group of 17 to 22-year-old native English speakers likely behind the MGM and 52+ other hacks since March 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p5#a230923p5)
  - [A new third-party MacBook repair tool is good for Right to Repair](https://appleinsider.com/articles/23/09/23/a-new-third-party-macbook-repair-tool-is-good-for-right-to-repair?utm_medium=rss)
- - [The iPhone 12 Isn&#39;t the Only Phone to Fail France&#39;s Radiation Test](https://www.wired.com/story/the-iphone-12-isnt-the-only-phone-to-fail-frances-radiation-test/)
- - [The Shocking Data on Kia and Hyundai Thefts in the US](https://www.wired.com/story/kia-hyundai-car-thefts-us-security-roundup/)<!-- TECH:END -->
+ - [The iPhone 12 Isn&#39;t the Only Phone to Fail France&#39;s Radiation Test](https://www.wired.com/story/the-iphone-12-isnt-the-only-phone-to-fail-frances-radiation-test/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

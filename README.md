@@ -155,9 +155,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A leaked promo video for the Pixel 8 and Pixel 8 Pro reveals camera features, including an Audio Eraser, the ability to swap faces, manual controls, and more &lpar;Sanket Vijayasarathy/91mobiles&rpar;](http://www.techmeme.com/230923/p10#a230923p10)
  - [The last-gen Apple Watch Series 8 is on sale for as low as $279 today](https://www.theverge.com/2023/9/23/23886191/apple-watch-series-8-airpods-pro-usb-c-lg-c3-old-deal-sale)
  - [I pay $250 a month for internet access, and I’m not even mad about it](https://www.androidauthority.com/starlink-priority-access-3364927/)
- - [Care for Your Eye Health Naturally With These 10 Daily Habits     - CNET](https://www.cnet.com/health/personal-care/care-for-your-eye-health-naturally-with-these-10-daily-habits/#ftag=CAD590a51e)
  - [Optimizing Metal: Ways to improve code made for Apple&#39;s graphics framework](https://appleinsider.com/inside/xcode/tips/optimizing-metal-ways-to-improve-code-made-for-apples-graphics-framework?utm_medium=rss)
  - [Walmart-backed PhonePe, which leads India&#39;s UPI-based payments market, launches the Indus AppStore on Android with zero platform fees and no commission on IAP &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230923/p9#a230923p9)<!-- TECH:END -->
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: In 15 years of Android, what’s the best Android version?](https://www.androidauthority.com/best-android-version-poll-3366485/)
+ - [The World’s Largest—and Stinkiest—Flower Is in Danger of Extinction](https://www.wired.com/story/the-worlds-largest-and-stinkiest-flower-is-in-danger-of-extinction/)
+ - [A look at chip equipment makers, like Applied Materials, pushing the boundaries of sculpting materials at the atomic level, in a quest to make chips faster &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230923/p4#a230923p4)
  - [One UI 6: Release date, features, and compatibility](https://www.androidauthority.com/one-ui-6-3366216/)
- - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)
- - [iOS 17 Review: Standby Mode, Meaningful Changes in Messages and More     - CNET](https://www.cnet.com/tech/mobile/ios-17-review-standby-mode-meaningful-changes-in-messages-and-more/#ftag=CAD590a51e)
- - [I Bought the First Android Phone Ever. It Wasn&#39;t Pretty, but I Loved It     - CNET](https://www.cnet.com/tech/mobile/i-bought-the-first-android-phone-ever-it-wasnt-pretty-but-i-loved-it/#ftag=CAD590a51e)
- - [Apple AirPods Pro 2nd Gen USB-C Review: New Port and Adaptive Audio](https://www.wired.com/review/airpods-pro-2023-usb-c/)<!-- TECH:END -->
+ - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DORa](http://9gag.com/gag/aVb9E72)
- - 😝 [Probably shit her pants](http://9gag.com/gag/aoKGKbX)
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
  - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 👉 [Old but still cold](http://9gag.com/gag/a6qeD9q)<!-- MEMES:END -->
+ - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
 
 ---
 

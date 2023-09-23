@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX isn&#39;t planning to test its direct to cell service with T-Mobile until 2024 as SpaceX works on technical kinks, after a planned late 2023 rollout &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/230922/p20#a230922p20)
+ - [TCL&#39;s $200 5G Phone Is Now Available Unlocked     - CNET](https://www.cnet.com/tech/mobile/tcls-200-5g-phone-is-now-available-unlocked/#ftag=CAD590a51e)
+ - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
  - [Which iPhone 15 Model Should You Buy?](https://www.wired.com/story/apple-iphone-15-deals/)
- - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)
- - [A look at the UK NHS&#39; plans for a federated data platform and the doctors, privacy campaigners, and others concerned that Palantir could win the &amp;pound;480M contract &lpar;Wired&rpar;](http://www.techmeme.com/230922/p19#a230922p19)
- - [A 3D Printer Enthusiast&#39;s Plea: Plug and Play Printers Are What&#39;s Needed to Attract More People     - CNET](https://www.cnet.com/tech/computing/a-3d-printer-enthusiasts-plea-plug-and-play-printers-are-whats-needed-to-attract-more-people/#ftag=CAD590a51e)
- - [NASA&#39;s Osiris-Rex to Deliver Asteroid Sample to Earth on Sunday     - CNET](https://www.cnet.com/science/space/nasas-osiris-rex-to-deliver-asteroid-sample-to-earth-on-sunday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where to preorder the new Surface Laptop Studio 2 and Laptop Go 3](https://www.theverge.com/2023/9/21/23882865/microsoft-surface-laptop-studio-2-go-3-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

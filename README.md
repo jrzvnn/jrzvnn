@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)
- - [A look at Microsoft&#39;s Surface business as device revenue plunged in FY 2023 after growing steadily since FY 2014, as a major correction hits the wider PC market &lpar;Ed Bott/ZDNet&rpar;](http://www.techmeme.com/230923/p3#a230923p3)
- - [A writer whose AI-assisted essay went viral reflects on testing GPT-3 early, Sudowrite&#39;s novel generator, and whether AI is good for writers and literature &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/230923/p2#a230923p2)
- - [Doc: Booking.com accuses the EU of using &quot;misleading&quot; and &quot;selective&quot; facts to block its &amp;euro;1.63B Etraveli acquisition and plans to challenge any ban in court &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230923/p1#a230923p1)
- - [A look at the antitrust activists attending the DOJ&#39;s Google antitrust trial every day and documenting their observations through social media and newsletters &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230922/p21#a230922p21)<!-- TECH:END -->
+ - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)
+ - [Apple AirPods Pro 2nd Gen USB-C Review: New Port and Adaptive Audio](https://www.wired.com/review/airpods-pro-2023-usb-c/)
+ - [Behold the Latest Treasures Unearthed at Mexico City&#39;s Templo Mayor](https://www.wired.com/story/archaeology-treasures-offerings-mexico-city-templo-mayor/)
+ - [11 Best Deals: Laptops, Chargers, and Home Office Gear](https://www.wired.com/story/weekend-deals-september-23-2023/)
+ - [Finally, a Cozy, Studio Ghibli-Inspired Way to Play Dungeons &amp; Dragons](https://www.wired.com/story/studio-ghibli-inspired-cozy-dungeons-and-dragons-obojima/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

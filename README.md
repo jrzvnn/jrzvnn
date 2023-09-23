@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new third-party MacBook repair tool is good for Right to Repair](https://appleinsider.com/articles/23/09/23/a-new-third-party-macbook-repair-tool-is-good-for-right-to-repair?utm_medium=rss)
  - [The iPhone 12 Isn&#39;t the Only Phone to Fail France&#39;s Radiation Test](https://www.wired.com/story/the-iphone-12-isnt-the-only-phone-to-fail-frances-radiation-test/)
  - [The Shocking Data on Kia and Hyundai Thefts in the US](https://www.wired.com/story/kia-hyundai-car-thefts-us-security-roundup/)
  - [21 Best iPhone 14 Cases and Accessories &lpar;2023&rpar;: MagSafe-Tested, Chargers, and More](https://www.wired.com/gallery/best-iphone-14-cases-and-accessories/)
- - [The iPhone 15 Pro is teaching me to embrace digital zoom](https://www.theverge.com/23884240/iphone-15-pro-max-5x-camera-google-pixel-7-samsung-s23-ultra-comparison-zoom)
- - [Poll: In 15 years of Android, what’s the best Android version?](https://www.androidauthority.com/best-android-version-poll-3366485/)<!-- TECH:END -->
+ - [The iPhone 15 Pro is teaching me to embrace digital zoom](https://www.theverge.com/23884240/iphone-15-pro-max-5x-camera-google-pixel-7-samsung-s23-ultra-comparison-zoom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

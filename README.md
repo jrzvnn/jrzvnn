@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 💣 [End of discussion](http://9gag.com/gag/a7qmORe)
- - 😝 [Was not visible in water](http://9gag.com/gag/aA0LG9o)
- - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
+ - 😝 [Right in the heart..](http://9gag.com/gag/aGErLo5)
+ - 😝 [Awesome improvised dance](http://9gag.com/gag/aBdb6yz)
+ - 💣 [Having disagreement is racism?](http://9gag.com/gag/aWGeL8q)
+ - 😝 [The best boi.](http://9gag.com/gag/aYVvEzV)
+ - 👉 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)<!-- MEMES:END -->
 
 ---
 

@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get scammed](http://9gag.com/gag/a7qmoBw)
  - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [Nature&#39;s just something else](http://9gag.com/gag/a9q4y2j)
+ - 😝 [Nature&#39;s just something else](http://9gag.com/gag/a9q4y2j)
+ - 💣 [The best boi.](http://9gag.com/gag/aYVvEzV)
  - 😝 [Checkmate Leftists](http://9gag.com/gag/ap9n9GM)
  - 👉 [Awesome improvised dance](http://9gag.com/gag/aBdb6yz)<!-- MEMES:END -->
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - 👉 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)<!-- MEMES:END -->
+ - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Love these videos](http://9gag.com/gag/adPWQrD)
+ - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 👉 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)<!-- MEMES:END -->
 
 ---
 

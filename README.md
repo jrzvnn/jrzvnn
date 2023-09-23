@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One UI 6: Release date, features, and compatibility](https://www.androidauthority.com/one-ui-6-3366216/)
  - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)
  - [Apple AirPods Pro 2nd Gen USB-C Review: New Port and Adaptive Audio](https://www.wired.com/review/airpods-pro-2023-usb-c/)
  - [Behold the Latest Treasures Unearthed at Mexico City&#39;s Templo Mayor](https://www.wired.com/story/archaeology-treasures-offerings-mexico-city-templo-mayor/)
- - [11 Best Deals: Laptops, Chargers, and Home Office Gear](https://www.wired.com/story/weekend-deals-september-23-2023/)
- - [Finally, a Cozy, Studio Ghibli-Inspired Way to Play Dungeons &amp; Dragons](https://www.wired.com/story/studio-ghibli-inspired-cozy-dungeons-and-dragons-obojima/)<!-- TECH:END -->
+ - [11 Best Deals: Laptops, Chargers, and Home Office Gear](https://www.wired.com/story/weekend-deals-september-23-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

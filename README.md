@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
+ - 😝 [Police chase](http://9gag.com/gag/a9q4146)
+ - 💣 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Nick moved to Argentina and loves disguises.](http://9gag.com/gag/aZD4Zzn)
  - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
  - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 💣 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 😝 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)
  - 👉 [Was not visible in water](http://9gag.com/gag/aA0LG9o)<!-- MEMES:END -->
 
 ---

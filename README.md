@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [One UI 6: Release date, features, and compatibility](https://www.androidauthority.com/one-ui-6-3366216/)
  - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)
- - [Apple AirPods Pro 2nd Gen USB-C Review: New Port and Adaptive Audio](https://www.wired.com/review/airpods-pro-2023-usb-c/)
- - [Behold the Latest Treasures Unearthed at Mexico City&#39;s Templo Mayor](https://www.wired.com/story/archaeology-treasures-offerings-mexico-city-templo-mayor/)
- - [11 Best Deals: Laptops, Chargers, and Home Office Gear](https://www.wired.com/story/weekend-deals-september-23-2023/)<!-- TECH:END -->
+ - [iOS 17 Review: Standby Mode, Meaningful Changes in Messages and More     - CNET](https://www.cnet.com/tech/mobile/ios-17-review-standby-mode-meaningful-changes-in-messages-and-more/#ftag=CAD590a51e)
+ - [I Bought the First Android Phone Ever. It Wasn&#39;t Pretty, but I Loved It     - CNET](https://www.cnet.com/tech/mobile/i-bought-the-first-android-phone-ever-it-wasnt-pretty-but-i-loved-it/#ftag=CAD590a51e)
+ - [Apple AirPods Pro 2nd Gen USB-C Review: New Port and Adaptive Audio](https://www.wired.com/review/airpods-pro-2023-usb-c/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

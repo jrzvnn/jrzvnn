@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 💣 [End of discussion](http://9gag.com/gag/a7qmORe)
+ - 😝 [Police chase](http://9gag.com/gag/a9q4146)
+ - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 💣 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
  - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 👉 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)<!-- MEMES:END -->
+ - 👉 [DORa](http://9gag.com/gag/aVb9E72)<!-- MEMES:END -->
 
 ---
 

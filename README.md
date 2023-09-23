@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Was not visible in water](http://9gag.com/gag/aA0LG9o)
- - 👉 [Victimization incoming](http://9gag.com/gag/amAOoQo)<!-- MEMES:END -->
+ - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
+ - 💣 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 👉 [Was not visible in water](http://9gag.com/gag/aA0LG9o)<!-- MEMES:END -->
 
 ---
 

@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Poll: In 15 years of Android, what’s the best Android version?](https://www.androidauthority.com/best-android-version-poll-3366485/)
  - [The World’s Largest—and Stinkiest—Flower Is in Danger of Extinction](https://www.wired.com/story/the-worlds-largest-and-stinkiest-flower-is-in-danger-of-extinction/)
  - [A look at chip equipment makers, like Applied Materials, pushing the boundaries of sculpting materials at the atomic level, in a quest to make chips faster &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230923/p4#a230923p4)
- - [One UI 6: Release date, features, and compatibility](https://www.androidauthority.com/one-ui-6-3366216/)
- - [Google Camera: All the features that you get on Google Pixel smartphones](https://www.androidauthority.com/google-camera-3365224/)<!-- TECH:END -->
+ - [iPhone 15 Pro vs. iPhone 15 Pro Max -- Specs, price, and features, compared](https://appleinsider.com/inside/iphone-15/vs/iphone-15-pro-vs-iphone-15-pro-max----specs-price-and-features-compared?utm_medium=rss)
+ - [One UI 6: Release date, features, and compatibility](https://www.androidauthority.com/one-ui-6-3366216/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 💣 [End of discussion](http://9gag.com/gag/a7qmORe)
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 👉 [Victimization incoming](http://9gag.com/gag/amAOoQo)<!-- MEMES:END -->
+ - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
+ - 💣 [Police chase](http://9gag.com/gag/a9q4146)
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

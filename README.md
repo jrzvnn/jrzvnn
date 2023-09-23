@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A look at the flood of near-identical YouTube obituary videos, where men read obituaries scraped from funeral homes, newspapers, and other authorized publishers &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230923/p11#a230923p11)
  - [California&#39;s Governor Gavin Newsom Vetoes State Ban on Driverless Trucks](https://www.wired.com/story/californias-governor-gavin-newsom-vetoes-state-ban-on-driverless-trucks/)
- - [A leaked promo video for the Pixel 8 and Pixel 8 Pro reveals camera features, including an Audio Eraser, the ability to swap faces, manual controls, and more &lpar;Sanket Vijayasarathy/91mobiles&rpar;](http://www.techmeme.com/230923/p10#a230923p10)
+ - [A leaked promo video for the Pixel 8 and Pixel 8 Pro reveals camera features: an Audio Eraser, the ability to swap faces, full manual controls like ISO, more &lpar;Sanket Vijayasarathy/91mobiles&rpar;](http://www.techmeme.com/230923/p10#a230923p10)
  - [The last-gen Apple Watch Series 8 is on sale for as low as $279 today](https://www.theverge.com/2023/9/23/23886191/apple-watch-series-8-airpods-pro-usb-c-lg-c3-old-deal-sale)
  - [I pay $250 a month for internet access, and I’m not even mad about it](https://www.androidauthority.com/starlink-priority-access-3364927/)<!-- TECH:END -->
 

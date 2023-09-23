@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
- - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
- - 💣 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
- - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
+ - 😝 [Alfred.](http://9gag.com/gag/aDYq7vN)
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
+ - 💣 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 😝 [Nature&#39;s just something else](http://9gag.com/gag/a9q4y2j)
+ - 👉 [Get scammed](http://9gag.com/gag/a7qmoBw)<!-- MEMES:END -->
 
 ---
 

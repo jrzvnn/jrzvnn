@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
+ - 💣 [Talk about job security](http://9gag.com/gag/a2KAwYe)
  - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [Police chase](http://9gag.com/gag/a9q4146)
- - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
- - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
+ - 👉 [Police chase](http://9gag.com/gag/a9q4146)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t let the intrusive thoughts win.](http://9gag.com/gag/a2KAMNd)
- - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
+ - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 😝 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)
  - 💣 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
+ - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
+ - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks for your service](http://9gag.com/gag/a4oBEB1)
- - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 😝 [Water is wet](http://9gag.com/gag/a7qmWX2)
- - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
+ - 😝 [Looks of dissapointment](http://9gag.com/gag/awZ9zxW)
+ - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 💣 [Talk about job security](http://9gag.com/gag/a2KAwYe)
+ - 😝 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)
+ - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
 
 ---
 

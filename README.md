@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Samsung’s new ploy to get kids off iPhones is a MrBeast sponsorship](https://www.theverge.com/2023/9/23/23886657/samsung-mrbeast-sponsorhip-galaxy-apple-iphone)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)
  - [Sources: India will delay its import license requirement for laptops and tablets by a year and instead plans a simpler import registration process from November &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p6#a230923p6)
- - [Alexa is the best frenemy I’ve ever had](https://www.theverge.com/23817430/amazon-alexa-echo-show-parkinsons-disease)<!-- TECH:END -->
+ - [Emergency Alert Nationwide Test: Don&#39;t Panic When You Get Messages on Your Phone and TV     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-nationwide-test-dont-panic-when-you-get-messages-on-your-phone-and-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

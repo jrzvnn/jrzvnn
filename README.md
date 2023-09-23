@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
  - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)
- - 👉 [Was not visible in water](http://9gag.com/gag/aA0LG9o)<!-- MEMES:END -->
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
+ - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

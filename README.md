@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
- - 😝 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)
- - 💣 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 👉 [Cant stop watching](http://9gag.com/gag/aOxn3XR)<!-- MEMES:END -->
+ - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
+ - 😝 [I met both!](http://9gag.com/gag/aVb978P)
+ - 💣 [Residential housing in Dubai. Personally I\u2019d rather die alone in the jungle](http://9gag.com/gag/a8qvEO6)
+ - 😝 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 👉 [Talk about job security](http://9gag.com/gag/a2KAwYe)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Governor Gavin Newsom vetoes a bill that requires a human safety operator in heavy-duty self-driving trucks on public roads &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/230923/p8#a230923p8)
  - [Researchers and US agencies are overhauling or ending the study of political and medical misinfo due to pressure from Rep. Jim Jordan and other conservatives &lpar;Washington Post&rpar;](http://www.techmeme.com/230923/p7#a230923p7)
  - [Samsung’s new ploy to get kids off iPhones is a MrBeast sponsorship](https://www.theverge.com/2023/9/23/23886657/samsung-mrbeast-sponsorhip-galaxy-apple-iphone)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-501-3367057/)
- - [Sources: India will delay its import license requirement for laptops and tablets by a year and instead plans a simpler import registration process from November &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p6#a230923p6)
- - [Emergency Alert Nationwide Test: Don&#39;t Panic When You Get Messages on Your Phone and TV     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-nationwide-test-dont-panic-when-you-get-messages-on-your-phone-and-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: India will delay its import license requirement for laptops and tablets by a year and instead plans a simpler import registration process from November &lpar;Reuters&rpar;](http://www.techmeme.com/230923/p6#a230923p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

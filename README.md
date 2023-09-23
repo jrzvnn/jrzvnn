@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 😝 [Don&#39;t let the intrusive thoughts win.](http://9gag.com/gag/a2KAMNd)
+ - 😝 [Talk about job security](http://9gag.com/gag/a2KAwYe)
+ - 💣 [Old but still cold](http://9gag.com/gag/a6qeD9q)
  - 😝 [Cant stop watching](http://9gag.com/gag/aOxn3XR)
- - 💣 [Talk about job security](http://9gag.com/gag/a2KAwYe)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 👉 [Police chase](http://9gag.com/gag/a9q4146)<!-- MEMES:END -->
+ - 👉 [Beverly Hills is now effectively a ghost town. What once was a thriving shopping mecca of LA is now a desolate wasteland as high end shops, banks and restaurants shutter their doors](http://9gag.com/gag/aA0Lbwd)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone come and pose for a picture with the dangerous reptile.](http://9gag.com/gag/aRE8v32)
- - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 💣 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
+ - 😝 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
+ - 😝 [People should not get into trouble for objectively funny crimes](http://9gag.com/gag/aNwGVew)
+ - 💣 [I was there Gandalf](http://9gag.com/gag/aQEDm1z)
+ - 😝 [Minutes before the start of the Berlin Marathon.](http://9gag.com/gag/ay2m1A8)
+ - 👉 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)<!-- MEMES:END -->
 
 ---
 

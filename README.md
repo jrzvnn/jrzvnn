@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
- - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
  - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 
 ---

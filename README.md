@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
- - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
+ - 😝 [Undeniable](http://9gag.com/gag/a3Zz5N1)
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
  - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
- - 👉 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)<!-- MEMES:END -->
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 👉 [Right in the heart..](http://9gag.com/gag/aGErLo5)<!-- MEMES:END -->
 
 ---
 

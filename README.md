@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with outgoing Amazon SVP of Devices and Services Dave Limp on using generative AI for Alexa, a possible Alexa subscription, advice for Panos Panay, and more &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/230923/p14#a230923p14)
  - [In a countersuit, chip startup Rivos and six ex-Apple staff claim Apple intimidates those who &quot;dare to leave&quot;; Apple sued Rivos over trade secrets theft in 2022 &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230923/p13#a230923p13)
  - [Three major US voting equipment makers let some researchers stress-test their software and hardware, to take on conspiracy theories with greater transparency &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230923/p12#a230923p12)
  - [How to merge albums of the same person or pet in Photos for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-merge-albums-of-the-same-person-or-pet-in-photos-for-ios-17?utm_medium=rss)
- - [California governor vetoes a bill requiring humans in autonomous big rigs](https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle)
- - [A look at the flood of near-identical YouTube obituary videos, in which men read obituaries scraped from authorized publishers like funeral homes and newspapers &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230923/p11#a230923p11)<!-- TECH:END -->
+ - [California governor vetoes a bill requiring humans in autonomous big rigs](https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

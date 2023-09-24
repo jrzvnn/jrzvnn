@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [President of South Sudan pees his pants , cameraman and crew arrested for not turning camera away fast enough.](http://9gag.com/gag/aME0V6x)
+ - 😝 [Look like... !!!](http://9gag.com/gag/aME0E5V)
  - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
- - 💣 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
+ - 💣 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
+ - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
 
 ---
 

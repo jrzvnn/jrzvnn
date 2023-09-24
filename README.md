@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
  - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
- - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - 👉 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)<!-- MEMES:END -->
+ - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
 
 ---
 

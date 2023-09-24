@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
- - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
+ - 😝 [Everyone come and pose for a picture with the dangerous reptile.](http://9gag.com/gag/aRE8v32)
+ - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 💣 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
 
 ---
 

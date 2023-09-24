@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA collected a sample from an asteroid for the first time — here’s why it matters](https://www.theverge.com/2023/9/24/23887975/nasa-asteroid-sample-osiris-rex-bennu-explained)
  - [Notes for iOS 17 has a right-to-left typing problem](https://appleinsider.com/articles/23/09/24/notes-for-ios-17-has-a-right-to-left-typing-problem?utm_medium=rss)
  - [8 Best Foods to Boost Happiness, According to Science     - CNET](https://www.cnet.com/health/mental/foods-that-will-make-you-happy/#ftag=CAD590a51e)
  - [Sources: Apple to increase its production in India over 5x to $40B in the next four to five years, and start making AirPods, in addition to iPhones, in 2024 &lpar;PTI&rpar;](http://www.techmeme.com/230924/p5#a230924p5)
- - [This wireless Apple CarPlay display is still on sale for $104.99](https://appleinsider.com/articles/23/09/24/this-wireless-apple-carplay-display-is-still-on-sale-for-10499?utm_medium=rss)
- - [EV maker Nio launches the Nio Phone in China with a Snapdragon 8 Gen 2 chipset and 30+ car-specific features, including automatic parking, starting at ~$890 &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230924/p4#a230924p4)<!-- TECH:END -->
+ - [This wireless Apple CarPlay display is still on sale for $104.99](https://appleinsider.com/articles/23/09/24/this-wireless-apple-carplay-display-is-still-on-sale-for-10499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

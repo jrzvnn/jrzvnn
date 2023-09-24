@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Minneapolis&#39; &#39;iPhone Man&#39; pleads guilty over theft ring](https://appleinsider.com/articles/23/09/24/crime-blotter-minneapolis-iphone-man-pleads-guilty-over-theft-ring?utm_medium=rss)
- - [How ChatGPT Can Help You Do More With PDFs](https://www.wired.com/story/chatgpt-pdf-plugins/)
- - [How to Get Your 4 Free At-Home Covid-19 Tests &lpar;2023&rpar;](https://www.wired.com/story/how-to-get-free-covid-19-tests/)
- - [Welcome to the Golden Age of Console Strategy Games](https://www.wired.com/story/welcome-golden-age-console-strategy-games/)
- - [Twelve South AirFly Pro Bluetooth Transmitter Review: Don&#39;t Fly Without It     - CNET](https://www.cnet.com/tech/mobile/twelve-south-airfly-pro-bluetooth-wireless-audio-transmitter-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poll: What’s the most iconic Android phone in the last 15 years](https://www.androidauthority.com/most-iconic-android-phone-15-years-poll-3366553/)
+ - [Superkop Espresso Maker Review: Great Espresso Without the Electricity](https://www.wired.com/review/superkop-espresso-machine/)
+ - [The Secret of How Cells Make ‘Dark Oxygen’ Without Light](https://www.wired.com/story/the-secret-of-how-cells-make-dark-oxygen-without-light/)
+ - [Apple’s new software is widgets all the way down](https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter)
+ - [Crime blotter: Minneapolis&#39; &#39;iPhone Man&#39; pleads guilty over theft ring](https://appleinsider.com/articles/23/09/24/crime-blotter-minneapolis-iphone-man-pleads-guilty-over-theft-ring?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Usher to headline Apple Music Super Bowl LVIII Halftime Show](https://appleinsider.com/articles/23/09/24/usher-to-headline-apple-music-super-bowl-lviii-halftime-show?utm_medium=rss)
- - [Apple FineWoven case review: Not the leather replacement we were hoping for](https://appleinsider.com/articles/23/09/24/apple-finewoven-case-review-not-the-leather-replacement-we-were-hoping-for?utm_medium=rss)
- - [Sources: Meta plans to release AI chatbots with personalities, internally called Gen AI Personas, across its apps at this week&#39;s Connect, to attract young users &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230924/p3#a230924p3)
- - [Andrew Tate app pulled by Apple amid misogyny and pyramid scheme claims](https://appleinsider.com/articles/23/09/24/andrew-tate-app-pulled-by-apple-amid-misogyny-and-pyramid-scheme-claims?utm_medium=rss)
- - [The Pixel Watch 2 should have on-device Assistant, like Apple’s Watch Series 9](https://www.androidauthority.com/on-device-assistant-pixel-watch-2-3365259/)<!-- TECH:END -->
+ - [EV maker Nio launches the Nio Phone in China with a Snapdragon 8 Gen 2 chipset and 30+ car-specific features, including automatic parking, starting at ~$890 &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230924/p4#a230924p4)
+ - [Here’s what you miss out on by not buying the iPhone 15 Pro](https://www.androidauthority.com/iphone-15-vs-iphone-15-pro-3365302/)
+ - [Bears vs. Chiefs Livestream: How to Watch NFL Week 3 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bears-vs-chiefs-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
+ - [Cowboys vs. Cardinals Livestream: How to Watch NFL Week 3 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-cardinals-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
+ - [Usher to headline Apple Music Super Bowl LVIII Halftime Show](https://appleinsider.com/articles/23/09/24/usher-to-headline-apple-music-super-bowl-lviii-halftime-show?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

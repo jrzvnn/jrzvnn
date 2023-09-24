@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [10 best Android backup apps and other ways to backup Android](https://www.androidauthority.com/best-android-backup-apps-and-other-ways-too-608014/)
  - [Poll: What’s the most iconic Android phone in the last 15 years](https://www.androidauthority.com/most-iconic-android-phone-15-years-poll-3366553/)
- - [Superkop Espresso Maker Review: Great Espresso Without the Electricity](https://www.wired.com/review/superkop-espresso-machine/)
- - [The Secret of How Cells Make ‘Dark Oxygen’ Without Light](https://www.wired.com/story/the-secret-of-how-cells-make-dark-oxygen-without-light/)
- - [Apple’s new software is widgets all the way down](https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter)<!-- TECH:END -->
+ - [You Might Not Need Open Brain Surgery to Get Mind Control     - CNET](https://www.cnet.com/tech/computing/you-might-not-need-open-brain-surgery-to-get-mind-control/#ftag=CAD590a51e)
+ - [Solar in the South: Does it Make Sense for Homeowners?     - CNET](https://www.cnet.com/home/energy-and-utilities/the-south-doesnt-take-full-advantage-of-its-solar-potential/#ftag=CAD590a51e)
+ - [Superkop Espresso Maker Review: Great Espresso Without the Electricity](https://www.wired.com/review/superkop-espresso-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

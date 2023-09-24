@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twelve South AirFly Pro Bluetooth Transmitter Review: Don&#39;t Fly Without It     - CNET](https://www.cnet.com/tech/mobile/twelve-south-airfly-pro-bluetooth-wireless-audio-transmitter-review/#ftag=CAD590a51e)
  - [Thunderbolt 5: Release date, bandwidth, display support and more](https://www.androidauthority.com/thunderbolt-5-3367422/)
  - [Some employees reminisce about Netflix&#39;s DVD subscription service, which upended the entertainment industry and is shutting down on September 29 after 25 years &lpar;New York Times&rpar;](http://www.techmeme.com/230924/p1#a230924p1)
  - [Formula 1 Racing 2023: How to Watch and Livestream the Japanese GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)
- - [Q&amp;A with outgoing Amazon SVP of Devices and Services Dave Limp on using generative AI for Alexa, a possible Alexa subscription, advice for Panos Panay, and more &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/230923/p14#a230923p14)
- - [In a countersuit, chip startup Rivos and six ex-Apple staff claim Apple intimidates those who &quot;dare to leave&quot;; Apple sued Rivos over trade secrets theft in 2022 &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230923/p13#a230923p13)<!-- TECH:END -->
+ - [Q&amp;A with outgoing Amazon SVP of Devices and Services Dave Limp on using generative AI for Alexa, a possible Alexa subscription, advice for Panos Panay, and more &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/230923/p14#a230923p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

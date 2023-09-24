@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
- - 👉 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)<!-- MEMES:END -->
+ - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
+ - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 👉 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)<!-- MEMES:END -->
 
 ---
 

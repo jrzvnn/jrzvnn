@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Undeniable](http://9gag.com/gag/a3Zz5N1)
+ - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
  - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
  - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---

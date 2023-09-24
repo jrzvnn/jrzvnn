@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
  - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
- - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
+ - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 
 ---
 

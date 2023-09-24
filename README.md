@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
- - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 💣 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
- - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 👉 [University dorm room in china](http://9gag.com/gag/aBdbEnz)<!-- MEMES:END -->
+ - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 😝 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)
+ - 💣 [Harder](http://9gag.com/gag/anz0x0E)
+ - 😝 [Free your mind](http://9gag.com/gag/a9q4m8D)
+ - 👉 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)<!-- MEMES:END -->
 
 ---
 

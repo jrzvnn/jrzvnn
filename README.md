@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Watch as NASA’s OSIRIS-REx mission brings asteroid samples back to Earth](https://www.theverge.com/2023/9/24/23887196/nasa-osiris-rex-asteroid-sample-return)
- - [10 best texting apps and SMS apps for Android](https://www.androidauthority.com/best-texting-apps-for-android-653970/)
  - [10 best video editor apps for Android](https://www.androidauthority.com/best-video-editor-apps-android-716248/)
  - [A look at the role of pro gaming in Tencent&#39;s long-term strategy as China hosts the Hangzhou Asian Games, the first event where esports are eligible for medals &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230924/p2#a230924p2)
- - [10 best news apps for Android](https://www.androidauthority.com/best-android-news-apps-568332/)<!-- TECH:END -->
+ - [10 best news apps for Android](https://www.androidauthority.com/best-android-news-apps-568332/)
+ - [10 best RSS reader apps for Android](https://www.androidauthority.com/best-rss-reader-apps-for-android-2-174770/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

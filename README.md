@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 best Android backup apps and other ways to backup Android](https://www.androidauthority.com/best-android-backup-apps-and-other-ways-too-608014/)
  - [Poll: What’s the most iconic Android phone in the last 15 years](https://www.androidauthority.com/most-iconic-android-phone-15-years-poll-3366553/)
  - [Superkop Espresso Maker Review: Great Espresso Without the Electricity](https://www.wired.com/review/superkop-espresso-machine/)
  - [The Secret of How Cells Make ‘Dark Oxygen’ Without Light](https://www.wired.com/story/the-secret-of-how-cells-make-dark-oxygen-without-light/)
- - [Apple’s new software is widgets all the way down](https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter)
- - [Crime blotter: Minneapolis&#39; &#39;iPhone Man&#39; pleads guilty over theft ring](https://appleinsider.com/articles/23/09/24/crime-blotter-minneapolis-iphone-man-pleads-guilty-over-theft-ring?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s new software is widgets all the way down](https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
+ - 😝 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)
+ - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
  - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
- - 👉 [Old but still cold](http://9gag.com/gag/a6qeD9q)<!-- MEMES:END -->
+ - 👉 [End of discussion](http://9gag.com/gag/a7qmORe)<!-- MEMES:END -->
 
 ---
 

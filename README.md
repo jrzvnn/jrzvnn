@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
- - 👉 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)<!-- MEMES:END -->
+ - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
+ - 👉 [Old but still cold](http://9gag.com/gag/a6qeD9q)<!-- MEMES:END -->
 
 ---
 

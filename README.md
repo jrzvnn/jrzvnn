@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Notes for iOS 17 has a right-to-left typing problem](https://appleinsider.com/articles/23/09/24/notes-for-ios-17-has-a-right-to-left-typing-problem?utm_medium=rss)
+ - [Sources: Apple to increase its production in India over 5x to $40B in the next four to five years, and start making AirPods, in addition to iPhones, in 2024 &lpar;PTI&rpar;](http://www.techmeme.com/230924/p5#a230924p5)
  - [This wireless Apple CarPlay display is still on sale for $104.99](https://appleinsider.com/articles/23/09/24/this-wireless-apple-carplay-display-is-still-on-sale-for-10499?utm_medium=rss)
  - [EV maker Nio launches the Nio Phone in China with a Snapdragon 8 Gen 2 chipset and 30+ car-specific features, including automatic parking, starting at ~$890 &lpar;Chethan Rao/Android Police&rpar;](http://www.techmeme.com/230924/p4#a230924p4)
- - [Here’s what you miss out on by not buying the iPhone 15 Pro](https://www.androidauthority.com/iphone-15-vs-iphone-15-pro-3365302/)
- - [Bears vs. Chiefs Livestream: How to Watch NFL Week 3 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bears-vs-chiefs-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)
- - [Cowboys vs. Cardinals Livestream: How to Watch NFL Week 3 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-cardinals-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what you miss out on by not buying the iPhone 15 Pro](https://www.androidauthority.com/iphone-15-vs-iphone-15-pro-3365302/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

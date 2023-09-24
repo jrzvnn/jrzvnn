@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)
- - 😝 [Accurate.](http://9gag.com/gag/adPWn29)
+ - 😝 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)
+ - 😝 [Russian soldier trying to stay hydrated, Klishchevka, near Bakhmut](http://9gag.com/gag/a04DVXq)
  - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 👉 [End of discussion](http://9gag.com/gag/a7qmORe)<!-- MEMES:END -->
+ - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
+ - 👉 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)<!-- MEMES:END -->
 
 ---
 

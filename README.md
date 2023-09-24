@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
  - 😝 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
- - 💣 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 💣 [A certified Lovecraft moment](http://9gag.com/gag/aZD4nKV)
  - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 👉 [A certified Lovecraft moment](http://9gag.com/gag/aZD4nKV)<!-- MEMES:END -->
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

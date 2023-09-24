@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undeniable](http://9gag.com/gag/a3Zz5N1)
- - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
  - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 👉 [Right in the heart..](http://9gag.com/gag/aGErLo5)<!-- MEMES:END -->
+ - 💣 [Cheers](http://9gag.com/gag/anz0xY0)
+ - 😝 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
+ - 👉 [A certified Lovecraft moment](http://9gag.com/gag/aZD4nKV)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - 😝 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)
- - 💣 [Harder](http://9gag.com/gag/anz0x0E)
- - 😝 [Free your mind](http://9gag.com/gag/a9q4m8D)
- - 👉 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)<!-- MEMES:END -->
+ - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
+ - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 

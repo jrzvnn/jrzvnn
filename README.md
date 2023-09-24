@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank God we have paper straws.](http://9gag.com/gag/a9q4zq1)
- - 😝 [Russian soldier trying to stay hydrated, Klishchevka, near Bakhmut](http://9gag.com/gag/a04DVXq)
- - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
- - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
- - 👉 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)<!-- MEMES:END -->
+ - 😝 [Old but still cold](http://9gag.com/gag/a6qeD9q)
+ - 😝 [At last manged to hit something](http://9gag.com/gag/aYVvGMv)
+ - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 👉 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)<!-- MEMES:END -->
 
 ---
 

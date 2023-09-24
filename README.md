@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thoughts ?](http://9gag.com/gag/aA0L4Zo)
  - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
- - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
- - 👉 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)<!-- MEMES:END -->
+ - 💣 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
+ - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
 
 ---
 

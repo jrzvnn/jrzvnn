@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
- - 😝 [Am I dying?](http://9gag.com/gag/anz0vvq)
- - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
+ - 😝 [Glorious once in a life time footage of the Yeti](http://9gag.com/gag/aVb9ved)
+ - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
+ - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
+ - 😝 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
 
 ---
 

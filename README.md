@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a twist!](http://9gag.com/gag/aYVvMpv)
- - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 💣 [Accurate.](http://9gag.com/gag/adPWn29)
- - 😝 [Minutes before the start of the Berlin Marathon.](http://9gag.com/gag/ay2m1A8)
- - 👉 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)<!-- MEMES:END -->
+ - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 😝 [Right in the heart..](http://9gag.com/gag/aGErLo5)
+ - 👉 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)<!-- MEMES:END -->
 
 ---
 

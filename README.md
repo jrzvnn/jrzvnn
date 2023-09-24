@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a countersuit, chip startup Rivos and six ex-Apple employees claim Apple intimidates workers who &quot;dare to leave&quot;; Apple accuses Rivos of trade secrets theft &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230923/p13#a230923p13)
  - [Three major US voting equipment makers grant some researchers access to their software and hardware, to fight conspiracy theories with greater transparency &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/230923/p12#a230923p12)
  - [How to merge albums of the same person or pet in Photos for iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-merge-albums-of-the-same-person-or-pet-in-photos-for-ios-17?utm_medium=rss)
  - [California governor vetoes a bill requiring humans in autonomous big rigs](https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle)
- - [A look at the flood of near-identical YouTube obituary videos, where men read obituaries scraped from funeral homes, newspapers, and other authorized publishers &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230923/p11#a230923p11)
- - [California&#39;s Governor Gavin Newsom Vetoes State Ban on Driverless Trucks](https://www.wired.com/story/californias-governor-gavin-newsom-vetoes-state-ban-on-driverless-trucks/)<!-- TECH:END -->
+ - [A look at the flood of near-identical YouTube obituary videos, where men read obituaries scraped from funeral homes, newspapers, and other authorized publishers &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/230923/p11#a230923p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

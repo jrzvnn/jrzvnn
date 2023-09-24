@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple FineWoven case review: Not the leather replacement we were hoping for](https://appleinsider.com/articles/23/09/24/apple-finewoven-case-review-not-the-leather-replacement-we-were-hoping-for?utm_medium=rss)
  - [Sources: Meta plans to release AI chatbots with personalities, internally called Gen AI Personas, across its apps at this week&#39;s Connect, to attract young users &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230924/p3#a230924p3)
  - [Andrew Tate app pulled by Apple amid misogyny and pyramid scheme claims](https://appleinsider.com/articles/23/09/24/andrew-tate-app-pulled-by-apple-amid-misogyny-and-pyramid-scheme-claims?utm_medium=rss)
  - [The Pixel Watch 2 should have on-device Assistant, like Apple’s Watch Series 9](https://www.androidauthority.com/on-device-assistant-pixel-watch-2-3365259/)
- - [12 Best Probiotic Foods to Eat for Gut Health     - CNET](https://www.cnet.com/health/nutrition/12-best-probiotic-foods-to-eat-for-your-gut-health/#ftag=CAD590a51e)
- - [20 Best MagSafe Accessories for Your iPhone &lpar;2023&rpar;: Webcam Mount, Car Docks, Wireless Chargers](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [12 Best Probiotic Foods to Eat for Gut Health     - CNET](https://www.cnet.com/health/nutrition/12-best-probiotic-foods-to-eat-for-your-gut-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

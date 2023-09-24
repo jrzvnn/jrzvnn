@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Minutes before the start of the Berlin Marathon.](http://9gag.com/gag/ay2m1A8)
- - 😝 [Harder](http://9gag.com/gag/anz0x0E)
- - 💣 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - 😝 [Litarally everything](http://9gag.com/gag/aPgVezq)
- - 👉 [Free your mind](http://9gag.com/gag/a9q4m8D)<!-- MEMES:END -->
+ - 😝 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
+ - 👉 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)<!-- MEMES:END -->
 
 ---
 

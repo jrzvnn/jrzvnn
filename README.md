@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)
  - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 💣 [Cheers](http://9gag.com/gag/anz0xY0)
+ - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
  - 😝 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
- - 👉 [A certified Lovecraft moment](http://9gag.com/gag/aZD4nKV)<!-- MEMES:END -->
+ - 👉 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)<!-- MEMES:END -->
 
 ---
 

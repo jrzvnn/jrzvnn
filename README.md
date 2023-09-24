@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resident Evil Village’s iPhone port might launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
  - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)
  - [Meta’s AI chatbot plan includes a ‘sassy robot’ for younger users](https://www.theverge.com/2023/9/24/23887773/meta-ai-chatbots-gen-ai-personas-young)
  - [NASA collected a sample from an asteroid for the first time — here’s why it matters](https://www.theverge.com/2023/9/24/23887975/nasa-asteroid-sample-osiris-rex-bennu-explained)
- - [Notes for iOS 17 has a right-to-left typing problem](https://appleinsider.com/articles/23/09/24/notes-for-ios-17-has-a-right-to-left-typing-problem?utm_medium=rss)
- - [8 Best Foods to Boost Happiness, According to Science     - CNET](https://www.cnet.com/health/mental/foods-that-will-make-you-happy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Notes for iOS 17 has a right-to-left typing problem](https://appleinsider.com/articles/23/09/24/notes-for-ios-17-has-a-right-to-left-typing-problem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

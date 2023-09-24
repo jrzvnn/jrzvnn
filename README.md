@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it legal to stop robbers with a tool?](http://9gag.com/gag/az2vOBj)
  - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 💣 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)
  - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
  - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 

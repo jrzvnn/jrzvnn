@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andrew Tate app pulled by Apple amid misogyny and pyramid scheme claims](https://appleinsider.com/articles/23/09/24/andrew-tate-app-pulled-by-apple-amid-misogyny-and-pyramid-scheme-claims?utm_medium=rss)
  - [The Pixel Watch 2 should have on-device Assistant, like Apple’s Watch Series 9](https://www.androidauthority.com/on-device-assistant-pixel-watch-2-3365259/)
  - [20 Best MagSafe Accessories for Your iPhone &lpar;2023&rpar;: Webcam Mount, Car Docks, Wireless Chargers](https://www.wired.com/gallery/best-magsafe-accessories/)
  - [Watch as NASA’s OSIRIS-REx mission brings asteroid samples back to Earth](https://www.theverge.com/2023/9/24/23887196/nasa-osiris-rex-asteroid-sample-return)
- - [10 best video editor apps for Android](https://www.androidauthority.com/best-video-editor-apps-android-716248/)
- - [A look at the role of pro gaming in Tencent&#39;s long-term strategy as China hosts the Hangzhou Asian Games, the first event where esports are eligible for medals &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230924/p2#a230924p2)<!-- TECH:END -->
+ - [10 best video editor apps for Android](https://www.androidauthority.com/best-video-editor-apps-android-716248/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

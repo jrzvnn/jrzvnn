@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undeniable](http://9gag.com/gag/a3Zz5N1)
- - 😝 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)
- - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
+ - 😝 [Am I dying?](http://9gag.com/gag/anz0vvq)
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
  - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 👉 [End of discussion](http://9gag.com/gag/a7qmORe)<!-- MEMES:END -->
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
 
 ---
 

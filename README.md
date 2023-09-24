@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Doesn&#39;t even flinch](http://9gag.com/gag/aGErGdw)
- - 😝 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)
- - 💣 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
- - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
+ - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
+ - 💣 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)
+ - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
+ - 👉 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a twist!](http://9gag.com/gag/aYVvMpv)
- - 😝 [Xavier rules](http://9gag.com/gag/a1P8VAw)
- - 💣 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
- - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
- - 👉 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)<!-- MEMES:END -->
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 😝 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
+ - 💣 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
+ - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
+ - 👉 [A certified Lovecraft moment](http://9gag.com/gag/aZD4nKV)<!-- MEMES:END -->
 
 ---
 

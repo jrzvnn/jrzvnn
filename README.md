@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look like... !!!](http://9gag.com/gag/aME0E5V)
- - 😝 [Should&#39;ve known the first time](http://9gag.com/gag/aME0me1)
- - 💣 [Not a single second to be wasted](http://9gag.com/gag/aME0dVM)
+ - 😝 [People should not get into trouble for objectively funny crimes](http://9gag.com/gag/aNwGVew)
+ - 😝 [Do I make you proud grandpa?](http://9gag.com/gag/a9q45go)
+ - 💣 [Victimization incoming](http://9gag.com/gag/amAOoQo)
  - 😝 [Psy introduces himself](http://9gag.com/gag/a1P80Lv)
- - 👉 [His name was Stew](http://9gag.com/gag/a3ZzG53)<!-- MEMES:END -->
+ - 👉 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undeniable](http://9gag.com/gag/a3Zz5N1)
- - 😝 [Hopefully one day we can live here in peace](http://9gag.com/gag/a6qeZxm)
- - 💣 [His name was Stew](http://9gag.com/gag/a3ZzG53)
- - 😝 [Victimization incoming](http://9gag.com/gag/amAOoQo)
- - 👉 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)<!-- MEMES:END -->
+ - 😝 [We don&#39;t deserve their love.](http://9gag.com/gag/adPWOdj)
+ - 😝 [Accurate.](http://9gag.com/gag/adPWn29)
+ - 💣 [Well well well, how the turntables](http://9gag.com/gag/a2KA87w)
+ - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 👉 [End of discussion](http://9gag.com/gag/a7qmORe)<!-- MEMES:END -->
 
 ---
 

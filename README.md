@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Hank Asher, the &quot;father of data fusion&quot; who died in 2013 after initiating a vast shift in privacy norms through his data mining software companies &lpar;McKenzie Funk/New York Times&rpar;](http://www.techmeme.com/230924/p6#a230924p6)
  - [Meta’s AI chatbot plan includes a ‘sassy robot’ for younger users](https://www.theverge.com/2023/9/24/23887773/meta-ai-chatbots-gen-ai-personas-young)
  - [NASA collected a sample from an asteroid for the first time — here’s why it matters](https://www.theverge.com/2023/9/24/23887975/nasa-asteroid-sample-osiris-rex-bennu-explained)
  - [Notes for iOS 17 has a right-to-left typing problem](https://appleinsider.com/articles/23/09/24/notes-for-ios-17-has-a-right-to-left-typing-problem?utm_medium=rss)
- - [8 Best Foods to Boost Happiness, According to Science     - CNET](https://www.cnet.com/health/mental/foods-that-will-make-you-happy/#ftag=CAD590a51e)
- - [Sources: Apple to increase its production in India over 5x to $40B in the next four to five years, and start making AirPods, in addition to iPhones, in 2024 &lpar;PTI&rpar;](http://www.techmeme.com/230924/p5#a230924p5)<!-- TECH:END -->
+ - [8 Best Foods to Boost Happiness, According to Science     - CNET](https://www.cnet.com/health/mental/foods-that-will-make-you-happy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

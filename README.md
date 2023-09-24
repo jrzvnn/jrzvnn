@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the role of pro gaming in Tencent&#39;s long-term strategy as China hosts the Hangzhou Asian Games, the first event where esports are eligible for medals &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230924/p2#a230924p2)
+ - [10 best news apps for Android](https://www.androidauthority.com/best-android-news-apps-568332/)
  - [10 best RSS reader apps for Android](https://www.androidauthority.com/best-rss-reader-apps-for-android-2-174770/)
  - [10 best Android backup apps and other ways to backup Android](https://www.androidauthority.com/best-android-backup-apps-and-other-ways-too-608014/)
- - [Poll: What’s the most iconic Android phone in the last 15 years](https://www.androidauthority.com/most-iconic-android-phone-15-years-poll-3366553/)
- - [You Might Not Need Open Brain Surgery to Get Mind Control     - CNET](https://www.cnet.com/tech/computing/you-might-not-need-open-brain-surgery-to-get-mind-control/#ftag=CAD590a51e)
- - [Solar in the South: Does it Make Sense for Homeowners?     - CNET](https://www.cnet.com/home/energy-and-utilities/the-south-doesnt-take-full-advantage-of-its-solar-potential/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poll: What’s the most iconic Android phone in the last 15 years](https://www.androidauthority.com/most-iconic-android-phone-15-years-poll-3366553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

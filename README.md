@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
- - 😝 [Remember, switching the rotary magazine is always faster than reloading.](http://9gag.com/gag/axoe6Kp)
- - 💣 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
- - 😝 [Amazing video though.](http://9gag.com/gag/a5X9wXO)
- - 👉 [End of discussion](http://9gag.com/gag/a7qmORe)<!-- MEMES:END -->
+ - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 😝 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)
+ - 💣 [New Japanese ad for McDonalds makes woke people. mad.](http://9gag.com/gag/a2KA84e)
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 👉 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)<!-- MEMES:END -->
 
 ---
 

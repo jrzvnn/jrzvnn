@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fire halts iPhone production at Pegatron&#39;s Indian plant](https://appleinsider.com/articles/23/09/25/fire-halts-iphone-production-at-pegatrons-indian-plant?utm_medium=rss)
+ - [EU blocks Booking.com&#39;s &amp;euro;1.63B acquisition of Etraveli, saying Booking failed to allay concerns that the deal bolsters its dominance in the hotel OTA market &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230925/p4#a230925p4)
  - [Amazon will invest up to $4 billion into OpenAI rival Anthropic](https://www.theverge.com/2023/9/25/23888841/amazon-4-billion-investment-anthropic-claude-ai-openai-microsoft)
  - [The Hypocrisy of Judging Those Who Become More Beautiful](https://www.wired.com/story/lookism-beauty-philosophy-cosmetics/)
- - [Sources: China told Tencent and Huya to stream only some esports semifinals and finals at the Hangzhou Asian Games, in part due to internet addiction concerns &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230925/p3#a230925p3)
- - [DeFi project Mixin Network suspends deposits and withdrawals after suffering a hack involving about $200M; SlowMist: Mixin&#39;s cloud provider was compromised &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/230925/p2#a230925p2)
- - [Pixel 8 series rumored to include seven years of software support](https://www.theverge.com/2023/9/25/23888831/pixel-8-pro-seven-years-software-support-price-rumors-leak)<!-- TECH:END -->
+ - [Sources: China told Tencent and Huya to stream only some esports semifinals and finals at the Hangzhou Asian Games, in part due to internet addiction concerns &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230925/p3#a230925p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

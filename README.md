@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT now lets you talk with it or submit pictures for prompts](https://www.androidauthority.com/openai-chatgpt-new-capabilities-3367733/)
+ - [All the big tech events coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
  - [The Action Button is the most significant new iPhone feature in years](https://www.theverge.com/23889013/iphone-15-pro-action-button-programmability-possibility-powerful)
  - [The Analogue Pocket is getting a delightful limited-edition transparent version](https://www.theverge.com/2023/9/25/23888931/analogue-pocket-transparent-price-release-date)
- - [Apple’s Eddy Cue will take the stand Tuesday in the Google antitrust case](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled)
- - [Tinder rolls out $500/month Tinder Select, with perks like the ability to DM others up to twice a week without matching and displaying a SELECT badge &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230925/p11#a230925p11)
- - [Leaked Pixel 8 Pro deal shows Google will throw in a Pixel Watch 2 for free](https://www.theverge.com/2023/9/25/23888942/google-pixel-8-pro-watch-2-free-preorder-bonus)<!-- TECH:END -->
+ - [Apple’s Eddy Cue will take the stand Tuesday in the Google antitrust case](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

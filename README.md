@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify partners with OpenAI to launch an AI-powered voice translation feature that reproduces podcasts in other languages using the podcaster&#39;s own voice &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/230925/p6#a230925p6)
+ - [OpenAI rolls out an update to let Plus and Enterprise users prompt ChatGPT using voice commands or by uploading an image, available for other users &quot;soon after&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230925/p5#a230925p5)
  - [Apple Watch Series 9 and Ultra 2 teardown reveals not much has changed internally](https://appleinsider.com/articles/23/09/25/apple-watch-series-9-and-ultra-2-teardown-reveals-not-much-has-changed-internally?utm_medium=rss)
  - [Why Tech Bros and Politicians Can’t Really Connect](https://www.wired.com/story/why-tech-bros-and-politicians-cant-really-connect/)
- - [Loftie Smart Alarm Clock Review &lpar;2023&rpar;: A Clock with AI-Generated Bedtime Stories](https://www.wired.com/review/loftie-clock/)
- - [13 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
- - [The ChatGPT App Can Now Talk to You—and Look Into Your Life](https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/)<!-- TECH:END -->
+ - [Loftie Smart Alarm Clock Review &lpar;2023&rpar;: A Clock with AI-Generated Bedtime Stories](https://www.wired.com/review/loftie-clock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

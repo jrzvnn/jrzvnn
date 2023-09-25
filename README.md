@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capcom&#39;s &#39;Resident Evil Village&#39; arriving on iPhone 15 Pro on October 30](https://appleinsider.com/articles/23/09/25/capcoms-resident-evil-village-arriving-on-iphone-15-pro-on-october-30?utm_medium=rss)
- - [iPhone 15 Pro Max lead time at historical highs](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-lead-time-at-historical-highs?utm_medium=rss)
- - [LG Gram Fold launched: LG’s first laptop with a folding screen](https://www.androidauthority.com/lg-gram-fold-foldable-laptop-3367653/)
- - [A Tricky New Way to Sneak Past Repressive Internet Censorship](https://www.wired.com/story/equalitie-trojan-horse-internet-censorship/)
- - [Your Boss’s Spyware Could Train AI to Replace You](https://www.wired.com/story/corporate-surveillance-train-ai/)<!-- TECH:END -->
+ - [Apple Watch Series 9 and Ultra 2 teardown reveals not much has changed internally](https://appleinsider.com/articles/23/09/25/apple-watch-series-9-and-ultra-2-teardown-reveals-not-much-has-changed-internally?utm_medium=rss)
+ - [Why Tech Bros and Politicians Can’t Really Connect](https://www.wired.com/story/why-tech-bros-and-politicians-cant-really-connect/)
+ - [Loftie Smart Alarm Clock Review &lpar;2023&rpar;: A Clock with AI-Generated Bedtime Stories](https://www.wired.com/review/loftie-clock/)
+ - [13 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [The ChatGPT App Can Now Talk to You—and Look Into Your Life](https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

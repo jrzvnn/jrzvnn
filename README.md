@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Capcom&#39;s &#39;Resident Evil Village&#39; arriving on iPhone 15 Pro on October 30](https://appleinsider.com/articles/23/09/25/capcoms-resident-evil-village-arriving-on-iphone-15-pro-on-october-30?utm_medium=rss)
+ - [iPhone 15 Pro Max lead time at historical highs](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-lead-time-at-historical-highs?utm_medium=rss)
+ - [LG Gram Fold launched: LG’s first laptop with a folding screen](https://www.androidauthority.com/lg-gram-fold-foldable-laptop-3367653/)
  - [A Tricky New Way to Sneak Past Repressive Internet Censorship](https://www.wired.com/story/equalitie-trojan-horse-internet-censorship/)
- - [Your Boss’s Spyware Could Train AI to Replace You](https://www.wired.com/story/corporate-surveillance-train-ai/)
- - [Sketchy rumor claims iPad mini might still arrive in 2023](https://appleinsider.com/articles/23/09/25/sketchy-rumor-claims-ipad-mini-might-still-arrive-in-2023?utm_medium=rss)
- - [Kuo: Both iPhone 16 Pro models will use tetraprism camera in 2024](https://appleinsider.com/articles/23/09/25/kuo-both-iphone-16-pro-models-will-use-tetraprism-camera-in-2024?utm_medium=rss)
- - [Bayonetta director and Platinum Games co-founder Hideki Kamiya is leaving the studio](https://www.theverge.com/2023/9/25/23888860/hideki-kamiya-leaving-platinumgames-bayonetta-viewtiful-joe-director-wonderful-101)<!-- TECH:END -->
+ - [Your Boss’s Spyware Could Train AI to Replace You](https://www.wired.com/story/corporate-surveillance-train-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit announces a Contributor Program for verified users to get monthly payments based on the gold and karma earned for &quot;eligible contributions&quot; on the site &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230925/p13#a230925p13)
  - [Reddit is going to let you turn gold into money](https://www.theverge.com/2023/9/25/23887226/reddit-gold-system-contributor-program)
  - [The Booking.com Decision Shows the True Scope of the EU’s Big Tech Crackdown](https://www.wired.com/story/the-bookingcom-decision-shows-the-true-scope-of-the-eus-big-tech-crackdown/)
  - [Galaxy S23 FE may launch at same time as the Pixel 8 for much less](https://www.androidauthority.com/galaxy-s23-fe-price-launch-date-3367764/)
- - [Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,349, plus $40 off AppleCare](https://appleinsider.com/articles/23/09/25/apples-m2-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1349-plus-40-off-applecare?utm_medium=rss)
- - [Wow, video streaming piracy is on the rise, who could have seen this coming?](https://www.androidauthority.com/video-streaming-piracy-3367743/)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,349, plus $40 off AppleCare](https://appleinsider.com/articles/23/09/25/apples-m2-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1349-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

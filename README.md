@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
  - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
  - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 💣 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
+ - 😝 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
  - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 ---

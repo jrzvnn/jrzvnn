@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab the best deal of 2023 on the Amazon Eero 6 Plus router](https://www.androidauthority.com/amazon-eero-6-plus-router-deal-3367857/)
  - [Gripped by worker shortages, some security companies are using robots developed by 1X, Knightscope, Ava Robotics, Ascento, and others to augment human labor &lpar;Leke Oso Alabi/Financial Times&rpar;](http://www.techmeme.com/230925/p14#a230925p14)
  - [Apple&#39;s FineWoven magnetic band now available for preorder](https://appleinsider.com/articles/23/09/25/apples-finewoven-magnetic-band-now-available-for-preorder?utm_medium=rss)
  - [iPhone 15 Pro is getting two Resident Evil games with one out next month](https://www.androidauthority.com/iphone-15-pro-resident-evil-3367819/)
- - [Initial display orders for iPhone 15 Pro far exceeded iPhone 14 Pro mix](https://appleinsider.com/articles/23/09/25/initial-display-orders-for-iphone-15-pro-far-exceeded-iphone-14-pro-mix?utm_medium=rss)
- - [Google Pixel 8: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)<!-- TECH:END -->
+ - [Initial display orders for iPhone 15 Pro far exceeded iPhone 14 Pro mix](https://appleinsider.com/articles/23/09/25/initial-display-orders-for-iphone-15-pro-far-exceeded-iphone-14-pro-mix?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

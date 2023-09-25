@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)
- - 😝 [How to tame a cat](http://9gag.com/gag/a8qvw2p)
- - 💣 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)
- - 😝 [Low sodium variety, too.](http://9gag.com/gag/aNwG484)
- - 👉 [Destroyed](http://9gag.com/gag/amAOMzj)<!-- MEMES:END -->
+ - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 👉 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
  - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 💣 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 😝 [A concerned citizen called the Miami Seaquarium to ask about the fate of Li\u2019i, their elderly dolphin living in solitary confinement and in ever deteriorating conditions.](http://9gag.com/gag/amAOmZ4)
+ - 💣 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
  - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
 
 ---
 

@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Full Pixel 8 specs leak, suggests Pro will have better durability](https://www.androidauthority.com/google-pixel-8-series-spec-sheets-leak-3367600/)
+ - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
  - [Google is finally bringing a highly-requested camera mode to the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-series-camera-features-3367597/)
  - [Here’s how much the Pixel 8 and Pixel 8 Pro could cost](https://www.androidauthority.com/google-pixel-8-pixel-8-pro-prices-3367577/)
- - [Hollywood writers reach tentative deal to end the strike](https://www.theverge.com/2023/9/24/23883641/hollywood-writers-strike-tentative-deal-wga-amptp)
- - [The WGA and AMPTP reach a tentative deal to end the strike; sources: the proposed three-year contract adds new AI rules, increases streaming residuals, and more &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/230924/p8#a230924p8)<!-- TECH:END -->
+ - [Hollywood writers reach tentative deal to end the strike](https://www.theverge.com/2023/9/24/23883641/hollywood-writers-strike-tentative-deal-wga-amptp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

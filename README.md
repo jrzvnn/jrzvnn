@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call me bigot](http://9gag.com/gag/a9q42yj)
  - 😝 [She&#39;s got a point](http://9gag.com/gag/ap9nAXn)
- - 💣 [Calmest austrian bus driver ever](http://9gag.com/gag/az2vYAK)
  - 😝 [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
- - 👉 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)<!-- MEMES:END -->
+ - 💣 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)
+ - 😝 [Calmest austrian bus driver ever](http://9gag.com/gag/az2vYAK)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 

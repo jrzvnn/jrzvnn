@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 💣 [Time flies](http://9gag.com/gag/armD2GX)
  - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)<!-- MEMES:END -->
+ - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
 
 ---
 

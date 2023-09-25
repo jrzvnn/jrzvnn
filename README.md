@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top tip for office workers](http://9gag.com/gag/aPgV1yG)
- - 😝 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)
- - 💣 [She&#39;s got a point](http://9gag.com/gag/ap9nAXn)
- - 😝 [Low sodium variety, too.](http://9gag.com/gag/aNwG484)
- - 👉 [Destroyed](http://9gag.com/gag/amAOMzj)<!-- MEMES:END -->
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)<!-- MEMES:END -->
 
 ---
 

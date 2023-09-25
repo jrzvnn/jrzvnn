@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung leaks its new Fan Edition phone, tablet, and earbuds](https://www.theverge.com/2023/9/22/23885350/samsung-leaks-fan-edition-galaxy-buds-s23-tab-fe)
+ - [Samsung Galaxy Tab S9 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-review-3362141/)
  - [iPhone 16 rumored to gain new capacitive &#39;Capture Button,&#39; updated Action button](https://appleinsider.com/articles/23/09/25/iphone-16-rumored-to-gain-new-capacitive-capture-button-updated-action-button?utm_medium=rss)
  - [How to Make a Pig Heart Transplant Last in a Person](https://www.wired.com/story/how-to-make-a-pig-heart-transplant-last-in-a-person/)
- - [Nissan’s racy new EV concept previews an all-electric future in Europe](https://www.theverge.com/2023/9/25/23889481/nissan-ev-concept-20-23-europe-electrification-ambitions)
- - [Festival movies you can stream from home very soon](https://www.theverge.com/23889070/tiff-2023-movies-streaming-netflix-hulu-apple-tv-plus)
- - [Tinder Select is a $499 per month plan for Tinder’s 1 percent](https://www.theverge.com/2023/9/25/23889285/tinder-select-match-group-dating-apps)<!-- TECH:END -->
+ - [Nissan’s racy new EV concept previews an all-electric future in Europe](https://www.theverge.com/2023/9/25/23889481/nissan-ev-concept-20-23-europe-electrification-ambitions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

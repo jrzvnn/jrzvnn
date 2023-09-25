@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 💣 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
- - 😝 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
+ - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rick and Morty sound pretty much just like they used to in new season 7 trailer](https://www.theverge.com/23889455/rick-and-morty-season-7-trailer-new-voice-actors)
+ - [Eddy Cue is set to take the stand as a key witness at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/25/eddy-cue-is-set-to-take-the-stand-as-a-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
+ - [Save 20% on a Lifetime Plex Pass &lpar;Updated: Less than 24 hours left!&rpar;](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)
  - [Reddit launches a Contributor Program that pays verified users monthly based on the karma earned and the gold received for &quot;eligible contributions&quot; on the site &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230925/p13#a230925p13)
- - [Reddit is going to let you turn gold into money](https://www.theverge.com/2023/9/25/23887226/reddit-gold-system-contributor-program)
- - [The Booking.com Decision Shows the True Scope of the EU’s Big Tech Crackdown](https://www.wired.com/story/the-bookingcom-decision-shows-the-true-scope-of-the-eus-big-tech-crackdown/)
- - [Galaxy S23 FE may launch at same time as the Pixel 8 for much less](https://www.androidauthority.com/galaxy-s23-fe-price-launch-date-3367764/)
- - [Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,349, plus $40 off AppleCare](https://appleinsider.com/articles/23/09/25/apples-m2-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1349-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Reddit is going to let you turn gold into money](https://www.theverge.com/2023/9/25/23887226/reddit-gold-system-contributor-program)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

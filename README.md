@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 8 series rumored to include seven years of software support](https://www.theverge.com/2023/9/25/23888831/pixel-8-pro-seven-years-software-support-price-rumors-leak)
  - [Google Pixel 8: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
  - [iPhone 15 Pro durability tests are here: Is Titanium really stronger?](https://www.androidauthority.com/iphone-15-pro-max-durability-tests-3367625/)
  - [Amazon to invest up to $4B in Anthropic, with an initial investment of $1.25B for a minority stake in the AI startup, and an option to increase the total to $4B &lpar;Financial Times&rpar;](http://www.techmeme.com/230925/p1#a230925p1)
- - [Pixel Watch 2 appears in black, UK price leaked](https://www.androidauthority.com/pixel-watch-2-price-leak-3367624/)
- - [Full Pixel 8 specs leak, suggests Pro will have better durability](https://www.androidauthority.com/google-pixel-8-series-spec-sheets-leak-3367600/)<!-- TECH:END -->
+ - [Pixel Watch 2 appears in black, UK price leaked](https://www.androidauthority.com/pixel-watch-2-price-leak-3367624/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

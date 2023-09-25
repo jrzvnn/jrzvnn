@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
  - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
+ - 💣 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 rumored to gain new capacitive &#39;Capture Button,&#39; updated Action button](https://appleinsider.com/articles/23/09/25/iphone-16-rumored-to-gain-new-capacitive-capture-button-updated-action-button?utm_medium=rss)
  - [How to Make a Pig Heart Transplant Last in a Person](https://www.wired.com/story/how-to-make-a-pig-heart-transplant-last-in-a-person/)
  - [Nissan’s racy new EV concept previews an all-electric future in Europe](https://www.theverge.com/2023/9/25/23889481/nissan-ev-concept-20-23-europe-electrification-ambitions)
  - [Festival movies you can stream from home very soon](https://www.theverge.com/23889070/tiff-2023-movies-streaming-netflix-hulu-apple-tv-plus)
- - [Tinder Select is a $499 per month plan for Tinder’s 1 percent](https://www.theverge.com/2023/9/25/23889285/tinder-select-match-group-dating-apps)
- - [Grab the best deal of 2023 on the Amazon Eero 6 Plus router](https://www.androidauthority.com/amazon-eero-6-plus-router-deal-3367857/)<!-- TECH:END -->
+ - [Tinder Select is a $499 per month plan for Tinder’s 1 percent](https://www.theverge.com/2023/9/25/23889285/tinder-select-match-group-dating-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

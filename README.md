@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tip of the week](http://9gag.com/gag/aRE8o77)
- - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
- - 💣 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)
- - 😝 [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
- - 👉 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)<!-- MEMES:END -->
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
+ - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 
 ---
 

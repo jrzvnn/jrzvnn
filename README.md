@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest foldables are off to a good start](https://www.androidauthority.com/samsung-galaxy-z-flip-fold-5-shipments-3367667/)
- - [Amazon moves some free features, like smoke and CO alarm detection, from its security system Alexa Guard to its $5.99/month Emergency Assist service &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230925/p10#a230925p10)
- - [iFixit has good news and bad news about the iPhone 15 Pro Max’s repairability](https://www.theverge.com/2023/9/25/23888952/ifixit-iphone-15-pro-max-teardown-repairability)
- - [Pixel Watch 2 all but launched as latest leak bares new features](https://www.androidauthority.com/google-pixel-watch-2-new-features-3367695/)
- - [iPhone 15 Pro Max teardown reveals few internal changes, digs at repairability](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-teardown-reveals-few-internal-changes-digs-at-repairability?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Sept. 25: Apple Watch Series 8 $299, macOS apps starting at $1, 42% off iPhone 14 Pro Leather MagSafe Case, more](https://appleinsider.com/articles/23/09/25/daily-deals-sept-25-apple-watch-series-8-299-macos-apps-starting-at-1-42-off-iphone-14-pro-leather-magsafe-case-more?utm_medium=rss)
+ - [Apple wants five times more iPhone production in India in the next five years](https://appleinsider.com/articles/23/09/25/apple-wants-five-times-more-iphone-production-in-india-in-the-next-five-years?utm_medium=rss)
+ - [6 Best Electric Scooters &lpar;2023&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)
+ - [The high tech behind Netflix’s old-school DVD service](https://www.theverge.com/23883662/netflix-dvd-shutdown-complex-tech-packaging-mail)
+ - [The AI assistant revolution is more than 50 years in the making](https://www.theverge.com/23888985/ai-assistant-you-chatgpt-bard-siri-alexa-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

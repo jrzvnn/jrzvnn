@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8: Release date, price, specs, and rumors](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
  - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
  - [Rick and Morty sound pretty much just like they used to in new season 7 trailer](https://www.theverge.com/23889455/rick-and-morty-season-7-trailer-new-voice-actors)
  - [Eddy Cue is set to take the stand as a key witness at Google&#39;s antitrust bench trial](https://appleinsider.com/articles/23/09/25/eddy-cue-is-set-to-take-the-stand-as-a-key-witnesses-at-googles-antitrust-bench-trial?utm_medium=rss)
- - [Save 20% on a Lifetime Plex Pass &lpar;Updated: Less than 24 hours left!&rpar;](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)
- - [Reddit launches a Contributor Program that pays verified users monthly based on the karma earned and the gold received for &quot;eligible contributions&quot; on the site &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230925/p13#a230925p13)<!-- TECH:END -->
+ - [Save 20% on a Lifetime Plex Pass &lpar;Updated: Less than 24 hours left!&rpar;](https://www.androidauthority.com/lifetime-plex-pass-deal-3366392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

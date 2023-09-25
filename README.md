@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
- - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
- - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
+ - 😝 [Call me bigot](http://9gag.com/gag/a9q42yj)
+ - 😝 [She&#39;s got a point](http://9gag.com/gag/ap9nAXn)
+ - 💣 [Calmest austrian bus driver ever](http://9gag.com/gag/az2vYAK)
+ - 😝 [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
+ - 👉 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)<!-- MEMES:END -->
 
 ---
 

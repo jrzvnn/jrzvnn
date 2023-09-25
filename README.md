@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hue gets Matter, Sonos Move 2, and more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/25/hue-gets-matter-sonos-move-2-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Amazon is placing free Alexa Guard security features behind a paywall](https://www.theverge.com/2023/9/25/23888910/amazon-alexa-guard-security-features-paywall-emergency-assist)
- - [OpenAI updates ChatGPT on iOS and Android to let the bot speak in five different voices in a conversational tone, rolling out to Plus and Enterprise users &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230925/p7#a230925p7)
- - [Spotify partners with OpenAI to launch an AI-powered voice translation feature that reproduces podcasts in other languages using the podcaster&#39;s own voice &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/230925/p6#a230925p6)
- - [OpenAI rolls out an update to let Plus and Enterprise users prompt ChatGPT using voice commands or by uploading an image, available for other users &quot;soon after&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230925/p5#a230925p5)<!-- TECH:END -->
+ - [Getty partners with Nvidia to launch Generative AI by Getty Images, which lets users create legally protected images using Getty&#39;s library of licensed photos &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230925/p9#a230925p9)
+ - [A teardown of the iPhone 15 Pro Max: a redesigned frame for easier back glass repairs, new tetraprism periscope lens, software lockdown makes repairs hard, more &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/230925/p8#a230925p8)
+ - [Oxygen OS 14 beta hands-on: Half-baked but still fast and smooth](https://www.androidauthority.com/oxygen-os-14-hands-on-3367182/)
+ - [How to Actually Clean Install Windows 11](https://www.wired.com/story/how-to-clean-install-windows-11/)
+ - [Meta’s Horizon Worlds is surprisingly decent on the web and mobile](https://www.theverge.com/2023/9/25/23887494/meta-horizon-worlds-web-mobile-vr-super-rumble)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

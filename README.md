@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit announces a Contributor Program for verified users to get monthly payments based on the gold and karma earned for &quot;eligible contributions&quot; on the site &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230925/p13#a230925p13)
+ - [Reddit launches a Contributor Program that pays verified users monthly based on the karma earned and the gold received for &quot;eligible contributions&quot; on the site &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230925/p13#a230925p13)
  - [Reddit is going to let you turn gold into money](https://www.theverge.com/2023/9/25/23887226/reddit-gold-system-contributor-program)
  - [The Booking.com Decision Shows the True Scope of the EU’s Big Tech Crackdown](https://www.wired.com/story/the-bookingcom-decision-shows-the-true-scope-of-the-eus-big-tech-crackdown/)
  - [Galaxy S23 FE may launch at same time as the Pixel 8 for much less](https://www.androidauthority.com/galaxy-s23-fe-price-launch-date-3367764/)

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DJI Mini 4 Pro is the first mini with binocular vision in every direction](https://www.theverge.com/2023/9/25/23890019/dji-mini-4-pro-price-release-date)
+ - [Several users report that their iPhone 15 series devices, including the 15 Pro and 15 Pro Max, are overheating, especially during charging or prolonged use &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/230925/p17#a230925p17)
  - [YouTube is axing its ad-free Premium Lite subscription plan](https://www.theverge.com/2023/9/25/23889917/youtube-premium-lite-subscription-discontinued-retired)
  - [Memos: Blue Origin CEO Bob Smith is retiring effective December 4 and will be replaced by outgoing Amazon SVP of Devices and Services Dave Limp &lpar;CNBC&rpar;](http://www.techmeme.com/230925/p16#a230925p16)
- - [The Boys season 4 release date: Here’s what we know so far](https://www.androidauthority.com/the-boys-season-4-release-date-3367036/)
- - [Former Amazon hardware boss Dave Limp will take over as CEO of Blue Origin](https://www.theverge.com/2023/9/25/23889986/amazon-blue-origin-dave-limp-ceo)
- - [Garmin Venu 2 vs Venu 3: What’s the difference and should you upgrade?](https://www.androidauthority.com/garmin-venu-2-vs-venu-3-3366722/)<!-- TECH:END -->
+ - [The Boys season 4 release date: Here’s what we know so far](https://www.androidauthority.com/the-boys-season-4-release-date-3367036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

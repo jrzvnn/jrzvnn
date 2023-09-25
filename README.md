@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 😝 [Bro thought he was a bad ass with the bat](http://9gag.com/gag/aME0OZx)
  - 💣 [Time flies](http://9gag.com/gag/armD2GX)
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
  - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
 
 ---

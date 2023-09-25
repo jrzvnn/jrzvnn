@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it AGAIN](http://9gag.com/gag/aeQq1Eq)
  - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 💣 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
+ - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
+ - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
 
 ---
 

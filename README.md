@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 😝 [Top tip for office workers](http://9gag.com/gag/aPgV1yG)
+ - 😝 [Time flies](http://9gag.com/gag/armD2GX)
+ - 💣 [Single moms from the past](http://9gag.com/gag/a6qej6N)
+ - 😝 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)
+ - 👉 [Narrator: \u201cShe could, in fact, NOT do it herself.\u201d](http://9gag.com/gag/aYVvRpv)<!-- MEMES:END -->
 
 ---
 

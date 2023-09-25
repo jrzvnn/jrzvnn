@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Action Button is the most significant new iPhone feature in years](https://www.theverge.com/23889013/iphone-15-pro-action-button-programmability-possibility-powerful)
+ - [The Analogue Pocket is getting a delightful limited-edition transparent version](https://www.theverge.com/2023/9/25/23888931/analogue-pocket-transparent-price-release-date)
+ - [Apple’s Eddy Cue will take the stand Tuesday in the Google antitrust case](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled)
  - [Tinder rolls out $500/month Tinder Select, with perks like the ability to DM others up to twice a week without matching and displaying a SELECT badge &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230925/p11#a230925p11)
- - [Leaked Pixel 8 Pro deal shows Google will throw in a Pixel Watch 2 for free](https://www.theverge.com/2023/9/25/23888942/google-pixel-8-pro-watch-2-free-preorder-bonus)
- - [Rivos countersues Apple over employee intimidation with restrictive agreements](https://appleinsider.com/articles/23/09/25/rivos-countersues-apple-over-employee-intimidation-with-restrictive-agreements?utm_medium=rss)
- - [Daily deals Sept. 25: Apple Watch Series 8 $299, macOS apps starting at $1, 42% off iPhone 14 Pro Leather MagSafe Case, more](https://appleinsider.com/articles/23/09/25/daily-deals-sept-25-apple-watch-series-8-299-macos-apps-starting-at-1-42-off-iphone-14-pro-leather-magsafe-case-more?utm_medium=rss)
- - [Apple wants five times more iPhone production in India in the next five years](https://appleinsider.com/articles/23/09/25/apple-wants-five-times-more-iphone-production-in-india-in-the-next-five-years?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked Pixel 8 Pro deal shows Google will throw in a Pixel Watch 2 for free](https://www.theverge.com/2023/9/25/23888942/google-pixel-8-pro-watch-2-free-preorder-bonus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

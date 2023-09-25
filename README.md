@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
  - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)<!-- MEMES:END -->
+ - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 

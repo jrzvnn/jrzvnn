@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s discontinued MagSafe Duo charger is on sale for $35 off](https://www.theverge.com/2023/9/25/23888976/apple-magsafe-duo-beats-studio-buds-plus-macbook-air-m2-deal-sale)
+ - [Resident Evil Village’s iPhone port will launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
  - [ChatGPT now lets you talk with it or submit pictures for prompts](https://www.androidauthority.com/openai-chatgpt-new-capabilities-3367733/)
  - [All the big tech events coming this fall](https://www.theverge.com/2023/9/11/23852104/tech-conferences-events-fall-2023-techtember-techtober)
- - [The Action Button is the most significant new iPhone feature in years](https://www.theverge.com/23889013/iphone-15-pro-action-button-programmability-possibility-powerful)
- - [The Analogue Pocket is getting a delightful limited-edition transparent version](https://www.theverge.com/2023/9/25/23888931/analogue-pocket-transparent-price-release-date)
- - [Apple’s Eddy Cue will take the stand Tuesday in the Google antitrust case](https://www.theverge.com/2023/9/25/23888904/apple-eddy-cue-us-google-antitrust-trial-testimony-scheduled)<!-- TECH:END -->
+ - [The Action Button is the most significant new iPhone feature in years](https://www.theverge.com/23889013/iphone-15-pro-action-button-programmability-possibility-powerful)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

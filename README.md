@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 💣 [Don&#39;t worry, he&#39;s not pepsi](http://9gag.com/gag/a9q4Oyo)
  - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 
 ---
 

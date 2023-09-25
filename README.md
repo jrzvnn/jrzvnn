@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
+ - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
  - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 😝 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
+ - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 👉 [Who are these people?](http://9gag.com/gag/aNwGQ8G)<!-- MEMES:END -->
 
 ---
 

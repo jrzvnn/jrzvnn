@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Boys season 4 release date: Here’s what we know so far](https://www.androidauthority.com/the-boys-season-4-release-date-3367036/)
+ - [Former Amazon hardware boss Dave Limp will take over as CEO of Blue Origin](https://www.theverge.com/2023/9/25/23889986/amazon-blue-origin-dave-limp-ceo)
  - [Garmin Venu 2 vs Venu 3: What’s the difference and should you upgrade?](https://www.androidauthority.com/garmin-venu-2-vs-venu-3-3366722/)
  - [Apple is working on adding yet another new button to the iPhone 16 series](https://www.androidauthority.com/apple-iphone-16-capture-button-3367907/)
- - [LG unveils Gram Fold, its first foldable-screen laptop, weighing just 2.76 lb, launching on October 4 in South Korea for ~$3.7K, rivaling Asus, Lenovo, others &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230925/p15#a230925p15)
- - [Gmail’s basic HTML view will go to the Google graveyard in 2024](https://www.theverge.com/2023/9/25/23889791/gmail-basic-html-view-discontinued-2024)
- - [Unity finally addressed developers’ biggest questions about its new pricing model](https://www.theverge.com/2023/9/25/23889346/unity-pricing-model-fireside-chat-overview)<!-- TECH:END -->
+ - [LG unveils Gram Fold, its first foldable-screen laptop, weighing just 2.76 lb, launching on October 4 in South Korea for ~$3.7K, rivaling Asus, Lenovo, others &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230925/p15#a230925p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s latest foldables are off to a good start](https://www.androidauthority.com/samsung-galaxy-z-flip-fold-5-shipments-3367667/)
+ - [Amazon moves some free features, like smoke and CO alarm detection, from its security system Alexa Guard to its $5.99/month Emergency Assist service &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230925/p10#a230925p10)
  - [iFixit has good news and bad news about the iPhone 15 Pro Max’s repairability](https://www.theverge.com/2023/9/25/23888952/ifixit-iphone-15-pro-max-teardown-repairability)
  - [Pixel Watch 2 all but launched as latest leak bares new features](https://www.androidauthority.com/google-pixel-watch-2-new-features-3367695/)
- - [iPhone 15 Pro Max teardown reveals few internal changes, digs at repairability](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-teardown-reveals-few-internal-changes-digs-at-repairability?utm_medium=rss)
- - [The Pixel 8 series has basically been launched by leakers](https://www.androidauthority.com/pixel-8-series-google-store-listings-leak-3367697/)
- - [Getty partners with Nvidia to launch Generative AI by Getty Images, which lets users create legally protected images using Getty&#39;s library of licensed photos &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230925/p9#a230925p9)<!-- TECH:END -->
+ - [iPhone 15 Pro Max teardown reveals few internal changes, digs at repairability](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-teardown-reveals-few-internal-changes-digs-at-repairability?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

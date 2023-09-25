@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [The kid saw an opportunity and went for it.](http://9gag.com/gag/aeQqxNv)
- - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
  - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
- - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
+ - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
+ - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 👉 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)<!-- MEMES:END -->
 
 ---
 

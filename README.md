@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
+ - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Christopher Reeve. All aboard the feels train.](http://9gag.com/gag/avQBEdq)
  - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
+ - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 👉 [Wait wait wait...sht sht sht](http://9gag.com/gag/abvL2yb)<!-- MEMES:END -->
 
 ---
 

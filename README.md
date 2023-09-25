@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 8 series has basically been launched by leakers](https://www.androidauthority.com/pixel-8-series-google-store-listings-leak-3367697/)
  - [Getty partners with Nvidia to launch Generative AI by Getty Images, which lets users create legally protected images using Getty&#39;s library of licensed photos &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230925/p9#a230925p9)
  - [A teardown of the iPhone 15 Pro Max: a redesigned frame for easier back glass repairs, new tetraprism periscope lens, software lockdown makes repairs hard, more &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/230925/p8#a230925p8)
  - [Oxygen OS 14 beta hands-on: Half-baked but still fast and smooth](https://www.androidauthority.com/oxygen-os-14-hands-on-3367182/)
- - [How to Actually Clean Install Windows 11](https://www.wired.com/story/how-to-clean-install-windows-11/)
- - [Meta’s Horizon Worlds is surprisingly decent on the web and mobile](https://www.theverge.com/2023/9/25/23887494/meta-horizon-worlds-web-mobile-vr-super-rumble)<!-- TECH:END -->
+ - [How to Actually Clean Install Windows 11](https://www.wired.com/story/how-to-clean-install-windows-11/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

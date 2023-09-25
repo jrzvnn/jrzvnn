@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hue gets Matter, Sonos Move 2, and more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/09/25/hue-gets-matter-sonos-move-2-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Amazon is placing free Alexa Guard security features behind a paywall](https://www.theverge.com/2023/9/25/23888910/amazon-alexa-guard-security-features-paywall-emergency-assist)
+ - [OpenAI updates ChatGPT on iOS and Android to let the bot speak in five different voices in a conversational tone, rolling out to Plus and Enterprise users &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230925/p7#a230925p7)
  - [Spotify partners with OpenAI to launch an AI-powered voice translation feature that reproduces podcasts in other languages using the podcaster&#39;s own voice &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/230925/p6#a230925p6)
- - [OpenAI rolls out an update to let Plus and Enterprise users prompt ChatGPT using voice commands or by uploading an image, available for other users &quot;soon after&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230925/p5#a230925p5)
- - [Apple Watch Series 9 and Ultra 2 teardown reveals not much has changed internally](https://appleinsider.com/articles/23/09/25/apple-watch-series-9-and-ultra-2-teardown-reveals-not-much-has-changed-internally?utm_medium=rss)
- - [Why Tech Bros and Politicians Can’t Really Connect](https://www.wired.com/story/why-tech-bros-and-politicians-cant-really-connect/)
- - [Loftie Smart Alarm Clock Review &lpar;2023&rpar;: A Clock with AI-Generated Bedtime Stories](https://www.wired.com/review/loftie-clock/)<!-- TECH:END -->
+ - [OpenAI rolls out an update to let Plus and Enterprise users prompt ChatGPT using voice commands or by uploading an image, available for other users &quot;soon after&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230925/p5#a230925p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

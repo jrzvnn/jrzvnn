@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG unveils Gram Fold, its first foldable-screen laptop, weighing just 2.76 lb, launching on October 4 in South Korea for ~$3.7K, rivaling Asus, Lenovo, others &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/230925/p15#a230925p15)
+ - [Gmail’s basic HTML view will go to the Google graveyard in 2024](https://www.theverge.com/2023/9/25/23889791/gmail-basic-html-view-discontinued-2024)
  - [Unity finally addressed developers’ biggest questions about its new pricing model](https://www.theverge.com/2023/9/25/23889346/unity-pricing-model-fireside-chat-overview)
  - [Facebook can be sued over biased ad algorithm, says court](https://www.theverge.com/2023/9/25/23889747/facebook-biased-ad-algorithm-aclu-court)
- - [FBI Agents Are Using Face Recognition Without Proper Training](https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/)
- - [Samsung leaks its new Fan Edition phone, tablet, and earbuds](https://www.theverge.com/2023/9/22/23885350/samsung-leaks-fan-edition-galaxy-buds-s23-tab-fe)
- - [Samsung Galaxy Tab S9 review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-tab-s9-review-3362141/)<!-- TECH:END -->
+ - [FBI Agents Are Using Face Recognition Without Proper Training](https://www.wired.com/story/fbi-agents-face-recognition-without-proper-training/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

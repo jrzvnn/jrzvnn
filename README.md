@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 ---
 

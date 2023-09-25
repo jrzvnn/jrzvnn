@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iFixit has good news and bad news about the iPhone 15 Pro Max’s repairability](https://www.theverge.com/2023/9/25/23888952/ifixit-iphone-15-pro-max-teardown-repairability)
  - [Pixel Watch 2 all but launched as latest leak bares new features](https://www.androidauthority.com/google-pixel-watch-2-new-features-3367695/)
  - [iPhone 15 Pro Max teardown reveals few internal changes, digs at repairability](https://appleinsider.com/articles/23/09/25/iphone-15-pro-max-teardown-reveals-few-internal-changes-digs-at-repairability?utm_medium=rss)
  - [The Pixel 8 series has basically been launched by leakers](https://www.androidauthority.com/pixel-8-series-google-store-listings-leak-3367697/)
- - [Getty partners with Nvidia to launch Generative AI by Getty Images, which lets users create legally protected images using Getty&#39;s library of licensed photos &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230925/p9#a230925p9)
- - [A teardown of the iPhone 15 Pro Max: a redesigned frame for easier back glass repairs, new tetraprism periscope lens, software lockdown makes repairs hard, more &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/230925/p8#a230925p8)<!-- TECH:END -->
+ - [Getty partners with Nvidia to launch Generative AI by Getty Images, which lets users create legally protected images using Getty&#39;s library of licensed photos &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/230925/p9#a230925p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

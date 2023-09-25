@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who are these people?](http://9gag.com/gag/aNwGQ8G)
- - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)<!-- MEMES:END -->
+ - 😝 [Harder](http://9gag.com/gag/anz0x0E)
+ - 😝 [Are you going to drink that?](http://9gag.com/gag/aDYqZqG)
+ - 💣 [My lower back is killing me](http://9gag.com/gag/a7qm2VL)
+ - 😝 [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
+ - 👉 [When he realized Red&#39;s the good part](http://9gag.com/gag/a2KAD0Y)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
- - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 😝 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
+ - 💣 [Wild wild west](http://9gag.com/gag/aQEDABz)
  - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 👉 [Who are these people?](http://9gag.com/gag/aNwGQ8G)<!-- MEMES:END -->
+ - 👉 [Everything is fake in China](http://9gag.com/gag/ap9nP35)<!-- MEMES:END -->
 
 ---
 

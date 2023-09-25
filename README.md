@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [What the hell was it thinking?](http://9gag.com/gag/a4oBzrm)
- - 😝 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
- - 💣 [University dorm room in china](http://9gag.com/gag/aBdbEnz)
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 👉 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)<!-- MEMES:END -->
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
+ - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 
 ---
 

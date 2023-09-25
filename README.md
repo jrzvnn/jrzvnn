@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro durability tests are here: Is Titanium really stronger?](https://www.androidauthority.com/iphone-15-pro-max-durability-tests-3367625/)
  - [Amazon to invest up to $4B in Anthropic, with an initial investment of $1.25B for a minority stake in the AI startup, and an option to increase the total to $4B &lpar;Financial Times&rpar;](http://www.techmeme.com/230925/p1#a230925p1)
  - [Pixel Watch 2 appears in black, UK price leaked](https://www.androidauthority.com/pixel-watch-2-price-leak-3367624/)
  - [Full Pixel 8 specs leak, suggests Pro will have better durability](https://www.androidauthority.com/google-pixel-8-series-spec-sheets-leak-3367600/)
- - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
- - [Google is finally bringing a highly-requested camera mode to the Pixel 8 series](https://www.androidauthority.com/google-pixel-8-series-camera-features-3367597/)<!-- TECH:END -->
+ - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

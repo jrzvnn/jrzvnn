@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wow, video streaming piracy is on the rise, who could have seen this coming?](https://www.androidauthority.com/video-streaming-piracy-3367743/)
  - [Pay almost $0 upfront for the iPhone 15 Pro with a $60 Boost Infinite plan](https://www.androidauthority.com/free-iphone-15-pro-boost-infinite-plan-3367749/)
  - [Boston-based Openly, which uses AI to generate home insurance quotes in 20+ US states, raised a $100M Series D led by Eden, bringing its total funding to $240M &lpar;Lucia Maffei/Boston Business Journal&rpar;](http://www.techmeme.com/230925/p12#a230925p12)
  - [Apple’s discontinued MagSafe Duo charger is on sale for $35 off](https://www.theverge.com/2023/9/25/23888976/apple-magsafe-duo-beats-studio-buds-plus-macbook-air-m2-deal-sale)
- - [Resident Evil Village’s iPhone port will launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)
- - [ChatGPT now lets you talk with it or submit pictures for prompts](https://www.androidauthority.com/openai-chatgpt-new-capabilities-3367733/)<!-- TECH:END -->
+ - [Resident Evil Village’s iPhone port will launch a day before Halloween](https://www.theverge.com/2023/9/24/23888326/resident-evil-village-iphone-15-pro-ipad-pro-air-m1-m2-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

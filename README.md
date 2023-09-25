@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to support the Basic HTML version of Gmail only until January 2024, saying it does not include &quot;full Gmail feature functionality&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230925/p18#a230925p18)
  - [Getty Images Plunges Into the Generative AI Pool](https://www.wired.com/story/getty-images-generative-ai-photo-tool/)
  - [The DJI Mini 4 Pro is the first mini with binocular vision in every direction](https://www.theverge.com/2023/9/25/23890019/dji-mini-4-pro-price-release-date)
  - [Many users report that their iPhone 15 series devices, including the 15 Pro and 15 Pro Max, are overheating, especially during charging or prolonged use &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/230925/p17#a230925p17)
- - [YouTube is axing its ad-free Premium Lite subscription plan](https://www.theverge.com/2023/9/25/23889917/youtube-premium-lite-subscription-discontinued-retired)
- - [Memos: Blue Origin CEO Bob Smith is retiring effective December 4 and will be replaced by outgoing Amazon SVP of Devices and Services Dave Limp &lpar;CNBC&rpar;](http://www.techmeme.com/230925/p16#a230925p16)<!-- TECH:END -->
+ - [YouTube is axing its ad-free Premium Lite subscription plan](https://www.theverge.com/2023/9/25/23889917/youtube-premium-lite-subscription-discontinued-retired)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

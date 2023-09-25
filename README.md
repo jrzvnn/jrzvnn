@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Both iPhone 16 Pro models will use tetraprism camera in 2024](https://appleinsider.com/articles/23/09/25/kuo-both-iphone-16-pro-models-will-use-tetraprism-camera-in-2024?utm_medium=rss)
  - [Bayonetta director and Platinum Games co-founder Hideki Kamiya is leaving the studio](https://www.theverge.com/2023/9/25/23888860/hideki-kamiya-leaving-platinumgames-bayonetta-viewtiful-joe-director-wonderful-101)
  - [Fire halts iPhone production at Pegatron&#39;s Indian plant](https://appleinsider.com/articles/23/09/25/fire-halts-iphone-production-at-pegatrons-indian-plant?utm_medium=rss)
  - [EU blocks Booking.com&#39;s &amp;euro;1.63B acquisition of Etraveli, saying Booking failed to allay concerns that the deal bolsters its dominance in the hotel OTA market &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230925/p4#a230925p4)
- - [Amazon will invest up to $4 billion into OpenAI rival Anthropic](https://www.theverge.com/2023/9/25/23888841/amazon-4-billion-investment-anthropic-claude-ai-openai-microsoft)
- - [The Hypocrisy of Judging Those Who Become More Beautiful](https://www.wired.com/story/lookism-beauty-philosophy-cosmetics/)<!-- TECH:END -->
+ - [Amazon will invest up to $4 billion into OpenAI rival Anthropic](https://www.theverge.com/2023/9/25/23888841/amazon-4-billion-investment-anthropic-claude-ai-openai-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

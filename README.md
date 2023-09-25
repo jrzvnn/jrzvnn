@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s got a point](http://9gag.com/gag/ap9nAXn)
- - 😝 [I initially thought this scene was cgi.](http://9gag.com/gag/anz0D1L)
- - 💣 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)
- - 😝 [Calmest austrian bus driver ever](http://9gag.com/gag/az2vYAK)
- - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
+ - 😝 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
+ - 💣 [Everything is fake in China](http://9gag.com/gag/ap9nP35)
+ - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 👉 [Who are these people?](http://9gag.com/gag/aNwGQ8G)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Pixel 8 Pro deal shows Google will throw in a Pixel Watch 2 for free](https://www.theverge.com/2023/9/25/23888942/google-pixel-8-pro-watch-2-free-preorder-bonus)
  - [Rivos countersues Apple over employee intimidation with restrictive agreements](https://appleinsider.com/articles/23/09/25/rivos-countersues-apple-over-employee-intimidation-with-restrictive-agreements?utm_medium=rss)
  - [Daily deals Sept. 25: Apple Watch Series 8 $299, macOS apps starting at $1, 42% off iPhone 14 Pro Leather MagSafe Case, more](https://appleinsider.com/articles/23/09/25/daily-deals-sept-25-apple-watch-series-8-299-macos-apps-starting-at-1-42-off-iphone-14-pro-leather-magsafe-case-more?utm_medium=rss)
  - [Apple wants five times more iPhone production in India in the next five years](https://appleinsider.com/articles/23/09/25/apple-wants-five-times-more-iphone-production-in-india-in-the-next-five-years?utm_medium=rss)
- - [6 Best Electric Scooters &lpar;2023&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)
- - [The high tech behind Netflix’s old-school DVD service](https://www.theverge.com/23883662/netflix-dvd-shutdown-complex-tech-packaging-mail)<!-- TECH:END -->
+ - [6 Best Electric Scooters &lpar;2023&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

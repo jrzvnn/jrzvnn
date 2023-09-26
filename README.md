@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MoneyGram unveils a non-custodial wallet to help its users move funds between fiat currency and USDC, limited to ~40 countries supporting a digital KYC process &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230926/p26#a230926p26)
  - [Over a dozen senior execs left Binance over the past three months; Kaiko: Binance handled ~70% of all direct crypto trades at year&#39;s start, now it handles ~50% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p25#a230926p25)
  - [Apple releases iOS &amp; iPadOS 17.0.2, watchOS 10.0.2 to select devices](https://appleinsider.com/articles/23/09/26/apple-releases-ios-ipados-1702-watchos-1002-to-select-devices?utm_medium=rss)
  - [Newegg now takes GPU trade-ins](https://www.theverge.com/2023/9/26/23891243/newegg-gpu-trade-in-program)
- - [iPhone 15 Pro Max has second-best smartphone camera in the world](https://appleinsider.com/articles/23/09/26/iphone-15-pro-max-has-second-best-smartphone-camera-in-the-world?utm_medium=rss)
- - [An OpenAI paper on GPT-4 with vision, or GPT-4V, shows some of the biases, shortcomings, and dangers of the model, and OpenAI&#39;s efforts to add safeguards &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230926/p24#a230926p24)<!-- TECH:END -->
+ - [iPhone 15 Pro Max has second-best smartphone camera in the world](https://appleinsider.com/articles/23/09/26/iphone-15-pro-max-has-second-best-smartphone-camera-in-the-world?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

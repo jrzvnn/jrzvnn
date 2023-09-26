@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants to use magnets to help cool overheating devices](https://appleinsider.com/articles/23/09/26/apple-wants-to-use-magnets-to-help-cool-overheating-devices?utm_medium=rss)
  - [iPhone 15 Pro overheating investigated: Is it really too hot to handle?](https://www.androidauthority.com/iphone-15-pro-overheating-3367682/)
- - [Email: Chase bans crypto-linked payments for UK clients starting October 16 as &quot;fraudsters are increasingly using crypto assets to steal large sums of money&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230926/p9#a230926p9)
- - [Spotify’s new social listening feature lets you ‘Jam’ with 32 friends](https://www.theverge.com/2023/9/26/23890594/spotify-jam-collaborative-playlist-listening-feature-date-announcement)
- - [Starlink problems and how to fix them](https://www.androidauthority.com/starlink-problems-3365453/)
- - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)<!-- TECH:END -->
+ - [What Makes a Video Game Remake Actually Worth Playing?](https://www.wired.com/story/what-makes-video-game-remake-worth-playing/)
+ - [Why Aren&#39;t Disabled Astronauts Exploring Space?](https://www.wired.com/story/ashley-shew-disability-space-exploration/)
+ - [Best Streaming Services &lpar;2023&rpar;: Which Are Worth Your Money?](https://www.wired.com/gallery/best-streaming-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants to use magnets to help cool overheating devices](https://appleinsider.com/articles/23/09/26/apple-wants-to-use-magnets-to-help-cool-overheating-devices?utm_medium=rss)
- - [iPhone 15 Pro overheating investigated: Is it really too hot to handle?](https://www.androidauthority.com/iphone-15-pro-overheating-3367682/)
- - [What Makes a Video Game Remake Actually Worth Playing?](https://www.wired.com/story/what-makes-video-game-remake-worth-playing/)
- - [Why Aren&#39;t Disabled Astronauts Exploring Space?](https://www.wired.com/story/ashley-shew-disability-space-exploration/)
- - [Best Streaming Services &lpar;2023&rpar;: Which Are Worth Your Money?](https://www.wired.com/gallery/best-streaming-services/)<!-- TECH:END -->
+ - [Samsung and Apple should watch out for this brand-new flagship](https://www.androidauthority.com/xiaomi-13t-series-3366949/)
+ - [Series, which offers ERP-like tools, including for contract lifecycle management and orchestrating payroll, raised $25M across a Series A and seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230926/p10#a230926p10)
+ - [You’re using YouTube wrong if you’re not checking video transcripts](https://www.androidauthority.com/youtube-video-transcript-3365317/)
+ - [Xiaomi announces 13T Pro with promise of four major Android updates](https://www.theverge.com/2023/9/26/23890552/xiaomi-13t-pro-price-release-date-specs-features-years-android-security-updates-support)
+ - [Apple wants to use magnets to help cool overheating devices](https://appleinsider.com/articles/23/09/26/apple-wants-to-use-magnets-to-help-cool-overheating-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

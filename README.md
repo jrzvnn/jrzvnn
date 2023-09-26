@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - 😝 [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - 😝 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)
+ - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
  - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/aGErb5Z)
+ - 👉 [I love democracy.](http://9gag.com/gag/a2KAGOY)<!-- MEMES:END -->
 
 ---
 

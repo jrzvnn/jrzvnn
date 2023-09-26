@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple submits update that will weaken iPhone 12 modem to French government](https://appleinsider.com/articles/23/09/26/apple-submits-update-that-will-weaken-iphone-12-modem-to-french-government?utm_medium=rss)
+ - [What If the Robots Were Very Nice While They Took Over the World?](https://www.wired.com/story/ai-diplomacy-robots/)
  - [Apple won&#39;t make a Google search rival, says Cue](https://appleinsider.com/articles/23/09/26/apple-wont-make-a-google-search-rival-says-cue?utm_medium=rss)
  - [CMF by Nothing launches first three products: earbuds, smartwatch, GaN charger](https://www.androidauthority.com/cmf-by-nothing-first-products-3367867/)
- - [LG dives into the foldable laptop fray](https://www.theverge.com/2023/9/26/23890518/lg-gram-fold-foldable-laptop-oled-display-17-inch-price-release-dates-specs-features)
- - [You told us: You’re big fans of multiple Nest speaker groups](https://www.androidauthority.com/use-nest-speaker-groups-poll-results-3368151/)
- - [Giant leak reveals everything about the Galaxy Tab S9 FE series](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-spec-leak-3368157/)<!-- TECH:END -->
+ - [LG dives into the foldable laptop fray](https://www.theverge.com/2023/9/26/23890518/lg-gram-fold-foldable-laptop-oled-display-17-inch-price-release-dates-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

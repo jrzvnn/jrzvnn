@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [To catch a snake, hold it behind its head?](http://9gag.com/gag/a7qmVjx)
  - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
- - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
- - 💣 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
  - 😝 [Lough Neagh, the largest lake Ireland is being poisoned by toxic algae. It provides about 40% of Northern Ireland&#39;s drinking water. The blue-green algae is killing fish, birds and dogs and there are serious concerns about public health](http://9gag.com/gag/axoemn2)
- - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
+ - 👉 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)<!-- MEMES:END -->
 
 ---
 

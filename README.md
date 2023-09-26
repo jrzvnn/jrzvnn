@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
  - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [How it started and how its going](http://9gag.com/gag/aWGebdK)
- - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
+ - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
 
 ---
 

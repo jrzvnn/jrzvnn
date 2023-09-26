@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC and 17 US states sue Amazon for allegedly using monopoly power to keep its prices artificially high, push sellers to pay fees, and harm its rivals &lpar;CNBC&rpar;](http://www.techmeme.com/230926/p16#a230926p16)
+ - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)
+ - [The first trailer for Apple’s sci-fi film Fingernails shows a retrofuturistic romcom](https://www.theverge.com/23890999/fingernails-trailer-apple-tv-plus-movie)
  - [How to use the iPhone 15’s Action Button like a Pro](https://www.androidauthority.com/how-to-customize-iphone-15-action-button-3367771/)
- - [Streaming giants have banded together for lobbying power](https://www.theverge.com/2023/9/26/23890778/streaming-companies-trade-group-sia-regulation-net-neutrality)
- - [FTC sues Amazon, alleges monopolistic market abuse](https://appleinsider.com/articles/23/09/26/ftc-sues-amazon-alleges-monopolistic-market-abuse?utm_medium=rss)
- - [Apple Podcasts overhaul pulls in original programming from third-party apps](https://www.theverge.com/2023/9/26/23890734/apple-podcasts-original-programming-third-party-apps)
- - [The CIA is planning to roll out a ChatGPT-style tool across the 18-agency US intelligence community to give analysts better access to intelligence &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p15#a230926p15)<!-- TECH:END -->
+ - [Streaming giants have banded together for lobbying power](https://www.theverge.com/2023/9/26/23890778/streaming-companies-trade-group-sia-regulation-net-neutrality)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC and 17 US states sue Amazon for allegedly using monopoly power to keep its prices artificially high, push sellers to pay fees, and harm its rivals &lpar;CNBC&rpar;](http://www.techmeme.com/230926/p16#a230926p16)
- - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)
- - [The first trailer for Apple’s sci-fi film Fingernails shows a retrofuturistic romcom](https://www.theverge.com/23890999/fingernails-trailer-apple-tv-plus-movie)
- - [How to use the iPhone 15’s Action Button like a Pro](https://www.androidauthority.com/how-to-customize-iphone-15-action-button-3367771/)
- - [Streaming giants have banded together for lobbying power](https://www.theverge.com/2023/9/26/23890778/streaming-companies-trade-group-sia-regulation-net-neutrality)<!-- TECH:END -->
+ - [macOS Sonoma with interactive widgets, Kanban Reminders and more is now available](https://appleinsider.com/articles/23/09/26/macos-sonoma-with-interactive-widgets-kanban-reminders-and-more-is-now-available?utm_medium=rss)
+ - [Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’](https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google)
+ - [More than half of the testimony given in the Google antitrust trial so far has been behind closed doors, due to a secrecy push from Google, Microsoft, and Apple &lpar;New York Times&rpar;](http://www.techmeme.com/230926/p17#a230926p17)
+ - [The Top New Features in macOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
+ - [Windows 11’s next big update is now available with Copilot, AI-powered Paint, and more](https://www.theverge.com/2023/9/26/23890621/microsoft-windows-11-update-copilot-paint-snipping-tool-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

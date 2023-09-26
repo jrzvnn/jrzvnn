@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me 5 second into cuddling](http://9gag.com/gag/armD8j5)
- - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
- - 💣 [Yeah](http://9gag.com/gag/ajV3Rvg)
- - 😝 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
- - 👉 [Who would make that connection and who wouldn&#39;t care?](http://9gag.com/gag/aVb9VL2)<!-- MEMES:END -->
+ - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 💣 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 

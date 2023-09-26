@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)
+ - [Sources detail how Microsoft aims to cut costs behind AI features like Bing&#39;s chatbot by developing efficient AI models that mimic OpenAI&#39;s more capable ones &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230926/p12#a230926p12)
  - [Garmin Venu 3 review: Should you buy it?](https://www.androidauthority.com/garmin-venu-3-review-3366220/)
  - [Threads is struggling to retain users — but it could still catch up to X](https://www.theverge.com/2023/9/26/23890592/threads-meta-monthly-users-data-x-twitter)
- - [Bowers &amp; Wilkins’ PX7 S2 noise-canceling headphones have dropped to a new low](https://www.theverge.com/2023/9/26/23889103/bowers-wilkins-px7-s2-headphones-apple-airtag-loop-yeedi-vac-2-pro-deal-sale)
- - [Microsoft is going nuclear to power its AI ambitions](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)
- - [SAG-AFTRA votes for strike approval for video game performers](https://www.theverge.com/2023/9/26/23890663/sag-aftra-strike-approval-video-game-performers)<!-- TECH:END -->
+ - [Bowers &amp; Wilkins’ PX7 S2 noise-canceling headphones have dropped to a new low](https://www.theverge.com/2023/9/26/23889103/bowers-wilkins-px7-s2-headphones-apple-airtag-loop-yeedi-vac-2-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

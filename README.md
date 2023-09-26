@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’](https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google)
+ - [FCC announces plans to resurrect net neutrality rules](https://www.theverge.com/2023/9/26/23890527/fcc-net-neutrality-rules-law-usa-internet-access)
+ - [Sources: OpenAI is pitching investors on a possible share sale that would value the startup at between $80B and $90B, almost triple its level earlier this year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p23#a230926p23)
  - [Safari 17 with enhanced Private Browsing out now for macOS Ventura, macOS Monterey](https://appleinsider.com/articles/23/09/26/safari-17-with-enhanced-private-browsing-out-now-for-macos-ventura-macos-monterey?utm_medium=rss)
- - [Researchers detail a cross-origin attack affecting Chrome that lets a malicious site read pixels from another site; it exploits how modern GPUs compress images &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230926/p22#a230926p22)
- - [macOS Sonoma with interactive widgets, Kanban Reminders and more is now available](https://appleinsider.com/articles/23/09/26/macos-sonoma-with-interactive-widgets-kanban-reminders-and-more-is-now-available?utm_medium=rss)
- - [Apple’s Studio Display gets manual controls for its webcam](https://www.theverge.com/2023/9/26/23891242/apple-studio-display-webcam-control-macos-sonoma)
- - [The US FCC announces plans to reinstate net neutrality and &quot;return to the successful rules the Commission adopted in 2015&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230926/p21#a230926p21)<!-- TECH:END -->
+ - [Researchers detail a cross-origin attack affecting Chrome that lets a malicious site read pixels from another site; it exploits how modern GPUs compress images &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230926/p22#a230926p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

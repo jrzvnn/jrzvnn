@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
- - 😝 [How was it called?](http://9gag.com/gag/amAOpDd)
- - 💣 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
- - 😝 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)
- - 👉 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)<!-- MEMES:END -->
+ - 😝 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
+ - 💣 [I love democracy.](http://9gag.com/gag/a2KAGOY)
+ - 😝 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)
+ - 👉 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)<!-- MEMES:END -->
 
 ---
 

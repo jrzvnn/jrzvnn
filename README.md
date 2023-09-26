@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks to the civil Polizei](http://9gag.com/gag/anz0VGn)
- - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
- - 💣 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)
+ - 😝 [Lough Neagh, the largest lake Ireland is being poisoned by toxic algae. It provides about 40% of Northern Ireland&#39;s drinking water. The blue-green algae is killing fish, birds and dogs and there are serious concerns about public health](http://9gag.com/gag/axoemn2)
+ - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 💣 [I thought I could handle this issue, but that moment, being woken up in total darkness, her squeezing my arm and saying these words - I nearly pissed myself. F**k this shit, I&#39;m out](http://9gag.com/gag/aVb9R7d)
  - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [Bro made an `executive decision`](http://9gag.com/gag/aQEDrPr)<!-- MEMES:END -->
+ - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals?utm_medium=rss)
  - [Samsung and Apple should watch out for this brand-new flagship](https://www.androidauthority.com/xiaomi-13t-series-3366949/)
  - [Series, which offers ERP-like tools, including for contract lifecycle management and orchestrating payroll, raised $25M across a Series A and seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230926/p10#a230926p10)
  - [You’re using YouTube wrong if you’re not checking video transcripts](https://www.androidauthority.com/youtube-video-transcript-3365317/)
- - [Xiaomi announces 13T Pro with promise of four major Android updates](https://www.theverge.com/2023/9/26/23890552/xiaomi-13t-pro-price-release-date-specs-features-years-android-security-updates-support)
- - [Apple wants to use magnets to help cool overheating devices](https://appleinsider.com/articles/23/09/26/apple-wants-to-use-magnets-to-help-cool-overheating-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi announces 13T Pro with promise of four major Android updates](https://www.theverge.com/2023/9/26/23890552/xiaomi-13t-pro-price-release-date-specs-features-years-android-security-updates-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

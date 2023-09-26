@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases Studio Display firmware 17 with camera feature updates](https://appleinsider.com/articles/23/09/26/apple-releases-studio-display-firmware-17-with-camera-updates?utm_medium=rss)
  - [Review of macOS 14 Sonoma: a better stab at usable widgets, improved password manager, promising gaming enhancements, but more features are skipping Intel Macs &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230926/p20#a230926p20)
  - [Eddie Cue&#39;s US v. Google testimony: Cue said Google was the only &quot;valid&quot; search choice for a deal; the DOJ noted Apple railed against Google&#39;s privacy policies &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230926/p19#a230926p19)
  - [Apple sacrificed the iPhone 15’s cooling to make it lighter, claims Kuo](https://www.androidauthority.com/iphone-15-pro-heat-issue-3368485/)
- - [The 7 Best Conspiracies About Taylor Swift and Travis Kelce](https://www.wired.com/story/taylor-swift-travis-kelce-conspiracy-theories/)
- - [These smart bulbs transform your home at a record deal price of $26](https://www.androidauthority.com/kasa-smart-light-bulbs-deal-3368488/)<!-- TECH:END -->
+ - [The 7 Best Conspiracies About Taylor Swift and Travis Kelce](https://www.wired.com/story/taylor-swift-travis-kelce-conspiracy-theories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

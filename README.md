@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Giant leak reveals everything about the Galaxy Tab S9 FE series](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-spec-leak-3368157/)
+ - [Spotify launches Jam, a new feature that lets up to 32 people curate a single playlist; only Premium subscribers can create Jams, but all users can contribute &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230926/p3#a230926p3)
+ - [A Windows 11 Pro License Costs Just $27 While This Deal Lasts     - CNET](https://www.cnet.com/deals/windows-11-pro-license-costs-27-while-this-deal-lasts/#ftag=CAD590a51e)
  - [Samsung Galaxy S24 series launch date possibly leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-launch-date-3368161/)
- - [DJI Mini 4 Pro review: lightweight, improved obstacle avoidance, great ActiveTrack 360 subject tracking, 4K at 60fps, but not crashproof and expensive at $760 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230926/p2#a230926p2)
- - [YouTube is killing a cheaper ad-free plan you didn’t know about](https://www.androidauthority.com/youtube-premium-lite-dead-3368129/)
- - [Why Solar Panels Will Likely Keep Getting Cheaper     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-solar-panels-will-likely-keep-falling/#ftag=CAD590a51e)
- - [Techno-fixes to climate change aren’t living up to the hype](https://www.theverge.com/2023/9/26/23889066/climate-change-international-energy-agency-roadmap-hydrogen-carbon-capture)<!-- TECH:END -->
+ - [Spotify Jam Makes Real-Time Playlists With Your Friends     - CNET](https://www.cnet.com/tech/services-and-software/spotify-jam-makes-real-time-playlists-with-friends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
+ - 😝 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
+ - 😝 [Samuel L Jackson in British bread ad](http://9gag.com/gag/aVb9RQO)
+ - 💣 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
+ - 😝 [How was it called?](http://9gag.com/gag/amAOpDd)
+ - 👉 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)<!-- MEMES:END -->
 
 ---
 

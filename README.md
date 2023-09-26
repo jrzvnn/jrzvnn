@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit officially announces Contributor Program: Get paid for your shitposts](https://www.androidauthority.com/reddit-contributor-program-announced-3368236/)
  - [SEC objects to Coinbase&#39;s proposed involvement in Celsius&#39; plan to emerge from bankruptcy, saying the plans &quot;go far beyond the services of a distribution agent&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p6#a230926p6)
  - [Indian iPhone factory shut for third day, and may be closed all week](https://appleinsider.com/articles/23/09/26/indian-iphone-factory-shut-for-third-day-and-may-be-closed-all-week?utm_medium=rss)
  - [Sources: French authorities received a software update from Apple that turns down the strength of the radio on iPhone 12&#39;s cellular modem and are reviewing it &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230926/p5#a230926p5)
- - [Why Rain Is Getting Fiercer on a Warming Planet](https://www.wired.com/story/why-rain-is-getting-fiercer-on-a-warming-planet/)
- - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [Why Rain Is Getting Fiercer on a Warming Planet](https://www.wired.com/story/why-rain-is-getting-fiercer-on-a-warming-planet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CMF by Nothing launches earbuds, smartwatch, charger &lpar;Update: Availability&rpar;](https://www.androidauthority.com/cmf-by-nothing-first-products-3367867/)
  - [Old Macs can still get macOS Sonoma with a tool available in October](https://appleinsider.com/articles/23/09/26/old-macs-can-still-get-macos-sonoma-with-a-tool-available-in-october?utm_medium=rss)
  - [15 incredibly useful Windows 11 keyboard shortcuts](https://www.theverge.com/23890880/windows-11-keyboard-shortcuts-how-to)
  - [Apple launches &#39;Meet with Apple Experts&#39; for developers worldwide](https://appleinsider.com/articles/23/09/26/apple-launches-meet-with-apple-experts-for-developers-worldwide?utm_medium=rss)
- - [Ming-Chi Kuo predicts a dim future for Apple Vision Pro](https://appleinsider.com/articles/23/09/26/ming-chi-kuo-predicts-a-dim-future-for-apple-vision-pro?utm_medium=rss)
- - [Skydio debuts X10, an autonomous drone capable of mitigating high-speed police chases by flying at 45 mph and tracking people in the dark using infrared sensors &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230926/p18#a230926p18)<!-- TECH:END -->
+ - [Ming-Chi Kuo predicts a dim future for Apple Vision Pro](https://appleinsider.com/articles/23/09/26/ming-chi-kuo-predicts-a-dim-future-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [How it started and how its going](http://9gag.com/gag/aWGebdK)
- - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
+ - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [After 20 years grind me and girlfriend are finally buying a timber cabin on the countryside of Sweden. Nothing big or fancy, not even electricity, but a dream for us two. &lpar;More pics in comments&rpar;](http://9gag.com/gag/aoKGDon)
+ - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
 
 ---
 

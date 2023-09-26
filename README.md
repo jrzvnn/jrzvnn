@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [That&#39;s it, I&#39;m done with NETFLIX!!!](http://9gag.com/gag/aBdbGmN)
- - 💣 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
+ - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 

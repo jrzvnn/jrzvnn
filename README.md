@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 top Amazon deals on Apple gear offer up to $550 in savings](https://appleinsider.com/articles/23/09/26/14-top-amazon-deals-on-apple-gear-offer-up-to-550-in-savings?utm_medium=rss)
  - [Investigation: some stakeholders, like AI firms selling CSAM scanning tech, funded lobbying efforts for EU Commissioner Ylva Johansson&#39;s CSAM scanning proposal &lpar;Balkan Insight&rpar;](http://www.techmeme.com/230925/p20#a230925p20)
  - [Valve suddenly releases SteamVR 2.0 in beta — as headset rumors swirl](https://www.theverge.com/2023/9/25/23890229/valve-steamvr-2-0-beta-announce)
  - [Email: YouTube plans to stop offering its ad-free &amp;euro;6.99/month Premium Lite tier, piloted in select European countries since August 2021, after October 25, 2023 &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/230925/p19#a230925p19)
- - [Google plans to discontinue Gmail&#39;s Basic HTML version in January 2024, saying the view does not include &quot;full Gmail feature functionality&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230925/p18#a230925p18)
- - [Getty Images Plunges Into the Generative AI Pool](https://www.wired.com/story/getty-images-generative-ai-photo-tool/)<!-- TECH:END -->
+ - [Google plans to discontinue Gmail&#39;s Basic HTML version in January 2024, saying the view does not include &quot;full Gmail feature functionality&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/230925/p18#a230925p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

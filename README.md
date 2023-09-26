@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay weird japan. Stay weird.](http://9gag.com/gag/az2vZKN)
- - 😝 [We use 10% of brain](http://9gag.com/gag/a5X9q0g)
- - 💣 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)
- - 😝 [Very nice](http://9gag.com/gag/aOxnRWR)
- - 👉 [Narrator: \u201cShe could, in fact, NOT do it herself.\u201d](http://9gag.com/gag/aYVvRpv)<!-- MEMES:END -->
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sonoma with interactive widgets, Kanban Reminders and more is now available](https://appleinsider.com/articles/23/09/26/macos-sonoma-with-interactive-widgets-kanban-reminders-and-more-is-now-available?utm_medium=rss)
- - [Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’](https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google)
- - [More than half of the testimony given in the Google antitrust trial so far has been behind closed doors, due to a secrecy push from Google, Microsoft, and Apple &lpar;New York Times&rpar;](http://www.techmeme.com/230926/p17#a230926p17)
- - [The Top New Features in macOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
- - [Windows 11’s next big update is now available with Copilot, AI-powered Paint, and more](https://www.theverge.com/2023/9/26/23890621/microsoft-windows-11-update-copilot-paint-snipping-tool-features)<!-- TECH:END -->
+ - [Ming-Chi Kuo predicts a dim future for Apple Vision Pro](https://appleinsider.com/articles/23/09/26/ming-chi-kuo-predicts-a-dim-future-for-apple-vision-pro?utm_medium=rss)
+ - [Skydio debuts X10, an autonomous drone capable of mitigating high-speed police chases by flying at 45 mph and tracking people in the dark using infrared sensors &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230926/p18#a230926p18)
+ - [Outstanding deals from B&amp;H Photo include $1,900 off MacBook Pro kits and more](https://appleinsider.com/articles/23/09/26/outstanding-deals-from-bh-photo-include-1900-off-macbook-pro-kits-and-more?utm_medium=rss)
+ - [Apple releases macOS Sonoma, with iOS-like widgets and Game Mode](https://www.theverge.com/2023/9/26/23890599/apple-macos-sonoma-14-available-desktop-widgets-game-mode)
+ - [macOS Sonoma with interactive widgets, Kanban Reminders and more is now available](https://appleinsider.com/articles/23/09/26/macos-sonoma-with-interactive-widgets-kanban-reminders-and-more-is-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

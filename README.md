@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time flies](http://9gag.com/gag/armD2GX)
- - 😝 [Single moms from the past](http://9gag.com/gag/a6qej6N)
- - 💣 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)
- - 😝 [I thought I could handle this issue, but that moment, being woken up in total darkness, her squeezing my arm and saying these words - I nearly pissed myself. F**k this shit, I&#39;m out](http://9gag.com/gag/aVb9R7d)
- - 👉 [Narrator: \u201cShe could, in fact, NOT do it herself.\u201d](http://9gag.com/gag/aYVvRpv)<!-- MEMES:END -->
+ - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
+ - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
+ - 👉 [Wild wild west](http://9gag.com/gag/aQEDABz)<!-- MEMES:END -->
 
 ---
 

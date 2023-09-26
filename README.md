@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought I could handle this issue, but that moment, being woken up in total darkness, her squeezing my arm and saying these words - I nearly pissed myself. F**k this shit, I&#39;m out](http://9gag.com/gag/aVb9R7d)
- - 😝 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
- - 💣 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
- - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)<!-- MEMES:END -->
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 💣 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
 
 ---
 

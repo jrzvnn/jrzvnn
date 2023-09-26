@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought I could handle this issue, but that moment, being woken up in total darkness, her squeezing my arm and saying these words - I nearly pissed myself. F**k this shit, I&#39;m out](http://9gag.com/gag/aVb9R7d)
+ - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
  - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 💣 [How it started and how its going](http://9gag.com/gag/aWGebdK)
- - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
+ - 💣 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
+ - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
  - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
 
 ---

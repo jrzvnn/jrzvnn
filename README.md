@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU&#39;s first DSA report: Twitter had the highest rate of disinfo in H1 2023, followed by Facebook; TikTok removed ~6M fake accounts; YouTube removed 400+ channels &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/230926/p8#a230926p8)
  - [No, you&#39;re not going to damage your iPhone 15 with an Android USB-C cable](https://appleinsider.com/articles/23/09/26/no-youre-not-going-to-damage-your-iphone-15-with-an-android-usb-c-cable?utm_medium=rss)
  - [iPhone 15 Pro first to use new incredibly dense Micron memory chips](https://appleinsider.com/articles/23/09/26/iphone-15-pro-first-to-use-new-incredibly-dense-micron-memory-chips?utm_medium=rss)
  - [7 Rapid At-Home Covid-19 Tests—and Where to Find Them &lpar;2023&rpar;](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits/)
- - [Mattel’s Pictionary Vs. AI leaves the guesswork to the bots](https://www.theverge.com/2023/9/26/23889925/mattel-pictionary-vs-ai-board-game-google-quick-draw)
- - [How Uber learned to stop fighting and play nice with taxis](https://www.theverge.com/2023/9/26/23888950/uber-taxi-driver-referral-third-party-los-angeles)<!-- TECH:END -->
+ - [Mattel’s Pictionary Vs. AI leaves the guesswork to the bots](https://www.theverge.com/2023/9/26/23889925/mattel-pictionary-vs-ai-board-game-google-quick-draw)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

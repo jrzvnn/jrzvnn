@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail a cross-origin attack affecting Chrome that lets a malicious site read pixels from another site; it exploits how modern GPUs compress images &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230926/p22#a230926p22)
  - [macOS Sonoma with interactive widgets, Kanban Reminders and more is now available](https://appleinsider.com/articles/23/09/26/macos-sonoma-with-interactive-widgets-kanban-reminders-and-more-is-now-available?utm_medium=rss)
  - [Apple’s Studio Display gets manual controls for its webcam](https://www.theverge.com/2023/9/26/23891242/apple-studio-display-webcam-control-macos-sonoma)
  - [The US FCC announces plans to reinstate net neutrality and &quot;return to the successful rules the Commission adopted in 2015&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230926/p21#a230926p21)
- - [The 22 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Apple releases Studio Display firmware 17 with camera feature updates](https://appleinsider.com/articles/23/09/26/apple-releases-studio-display-firmware-17-with-camera-updates?utm_medium=rss)<!-- TECH:END -->
+ - [The 22 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

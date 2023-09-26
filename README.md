@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases Studio Display firmware 17 with camera feature updates](https://appleinsider.com/articles/23/09/26/apple-releases-studio-display-firmware-17-with-camera-updates?utm_medium=rss)
- - [Review of macOS 14 Sonoma: a better stab at usable widgets, improved password manager, promising gaming enhancements, but more features are skipping Intel Macs &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230926/p20#a230926p20)
- - [Eddie Cue&#39;s US v. Google testimony: Cue said Google was the only &quot;valid&quot; search choice for a deal; the DOJ noted Apple railed against Google&#39;s privacy policies &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230926/p19#a230926p19)
- - [Apple sacrificed the iPhone 15’s cooling to make it lighter, claims Kuo](https://www.androidauthority.com/iphone-15-pro-heat-issue-3368485/)
- - [The 7 Best Conspiracies About Taylor Swift and Travis Kelce](https://www.wired.com/story/taylor-swift-travis-kelce-conspiracy-theories/)<!-- TECH:END -->
+ - [macOS Sonoma with interactive widgets, Kanban Reminders and more is now available](https://appleinsider.com/articles/23/09/26/macos-sonoma-with-interactive-widgets-kanban-reminders-and-more-is-now-available?utm_medium=rss)
+ - [Apple’s Studio Display gets manual controls for its webcam](https://www.theverge.com/2023/9/26/23891242/apple-studio-display-webcam-control-macos-sonoma)
+ - [The US FCC announces plans to reinstate net neutrality and &quot;return to the successful rules the Commission adopted in 2015&quot; &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230926/p21#a230926p21)
+ - [The 22 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Apple releases Studio Display firmware 17 with camera feature updates](https://appleinsider.com/articles/23/09/26/apple-releases-studio-display-firmware-17-with-camera-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

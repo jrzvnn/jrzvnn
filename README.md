@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
+ - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
  - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 💣 [He\u2019s on one.](http://9gag.com/gag/awZ94yx)
- - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
+ - 👉 [Lucky](http://9gag.com/gag/aA0LvM2)<!-- MEMES:END -->
 
 ---
 

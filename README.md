@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)
+ - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
  - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/aGErb5Z)
- - 👉 [I love democracy.](http://9gag.com/gag/a2KAGOY)<!-- MEMES:END -->
+ - 💣 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
 

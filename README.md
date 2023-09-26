@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These iPhone 15 models have significantly higher delivery wait times this year](https://www.androidauthority.com/iphone-15-pre-order-wait-times-3368250/)
+ - [Q&amp;A with GitHub CEO Thomas Dohmke on generative AI making developers more efficient and shortening software development cycles, managing AI&#39;s risks, and more &lpar;Alexandra Garfinkle/Yahoo Finance&rpar;](http://www.techmeme.com/230926/p7#a230926p7)
+ - [No, you&#39;re not going to damage your iPhone 15 with an Android USB-C cable](https://appleinsider.com/articles/23/09/26/no-youre-not-going-to-damage-your-iphone-15-with-an-android-usb-c-cable?utm_medium=rss)
  - [Reddit officially announces Contributor Program: Get paid for your shitposts](https://www.androidauthority.com/reddit-contributor-program-announced-3368236/)
- - [SEC objects to Coinbase&#39;s proposed involvement in Celsius&#39; plan to emerge from bankruptcy, saying the plans &quot;go far beyond the services of a distribution agent&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p6#a230926p6)
- - [Indian iPhone factory shut for third day, and may be closed all week](https://appleinsider.com/articles/23/09/26/indian-iphone-factory-shut-for-third-day-and-may-be-closed-all-week?utm_medium=rss)
- - [Sources: French authorities received a software update from Apple that turns down the strength of the radio on iPhone 12&#39;s cellular modem and are reviewing it &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230926/p5#a230926p5)
- - [Why Rain Is Getting Fiercer on a Warming Planet](https://www.wired.com/story/why-rain-is-getting-fiercer-on-a-warming-planet/)<!-- TECH:END -->
+ - [SEC objects to Coinbase&#39;s proposed involvement in Celsius&#39; plan to emerge from bankruptcy, saying the plans &quot;go far beyond the services of a distribution agent&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p6#a230926p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

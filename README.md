@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 😝 [What a twist!](http://9gag.com/gag/aYVvMpv)
- - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 😝 [Lough Neagh, the largest lake Ireland is being poisoned by toxic algae. It provides about 40% of Northern Ireland&#39;s drinking water. The blue-green algae is killing fish, birds and dogs and there are serious concerns about public health](http://9gag.com/gag/axoemn2)
- - 👉 [Lucky](http://9gag.com/gag/aA0LvM2)<!-- MEMES:END -->
+ - 😝 [Stay weird japan. Stay weird.](http://9gag.com/gag/az2vZKN)
+ - 😝 [We use 10% of brain](http://9gag.com/gag/a5X9q0g)
+ - 💣 [Play stupid games, win stupid prizes](http://9gag.com/gag/aKEXO8j)
+ - 😝 [Very nice](http://9gag.com/gag/aOxnRWR)
+ - 👉 [Narrator: \u201cShe could, in fact, NOT do it herself.\u201d](http://9gag.com/gag/aYVvRpv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s All-Powerful ‘Buy Box’ Is at the Heart of Its New Antitrust Troubles](https://www.wired.com/story/amazons-all-powerful-buy-box-is-at-the-heart-of-its-new-antitrust-troubles/)
+ - [Apple and Google want to shift how you listen to podcasts](https://www.theverge.com/2023/9/26/23891493/apple-podcasts-overhaul-ios-17-google-ends-podcasts-spotify-translation-open-ai)
  - [The Code Conference 2023](https://www.theverge.com/2023/9/26/23890396/code-conference-2023-interviews-news)
  - [The federal judge overseeing US v. Google says documents used during the trial can be published online at the end of each day, resolving a weeklong dispute &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p29#a230926p29)
- - [Pre-order &#39;Resident Evil 4&#39; for iPhone, iPad, or Mac today, pay $60 at launch for full unlock](https://appleinsider.com/articles/23/09/26/pre-order-resident-evil-4-for-iphone-ipad-or-mac-today-pay-60-at-launch-for-full-unlock?utm_medium=rss)
- - [Peloton co-founder Tom Cortese is stepping down](https://www.theverge.com/2023/9/26/23891565/peloton-co-founder-tom-cortese-nick-caldwell-stepping-down)
- - [Microsoft starts rolling out a Windows 11 update that adds access to Windows Copilot and, over the coming months, AI updates to Paint, Snipping Tool, and Photos &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230926/p28#a230926p28)<!-- TECH:END -->
+ - [Pre-order &#39;Resident Evil 4&#39; for iPhone, iPad, or Mac today, pay $60 at launch for full unlock](https://appleinsider.com/articles/23/09/26/pre-order-resident-evil-4-for-iphone-ipad-or-mac-today-pay-60-at-launch-for-full-unlock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

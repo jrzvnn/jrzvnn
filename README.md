@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
- - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
  - 💣 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 😝 [Is that the freeway?](http://9gag.com/gag/a04D6GL)
- - 👉 [Take that](http://9gag.com/gag/aXnmK3g)<!-- MEMES:END -->
+ - 😝 [Lough Neagh, the largest lake Ireland is being poisoned by toxic algae. It provides about 40% of Northern Ireland&#39;s drinking water. The blue-green algae is killing fish, birds and dogs and there are serious concerns about public health](http://9gag.com/gag/axoemn2)
+ - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
 
 ---
 

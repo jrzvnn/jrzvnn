@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
- - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
- - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
+ - 😝 [I thought I could handle this issue, but that moment, being woken up in total darkness, her squeezing my arm and saying these words - I nearly pissed myself. F**k this shit, I&#39;m out](http://9gag.com/gag/aVb9R7d)
+ - 😝 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
+ - 💣 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Diego-based edge AI chip maker Kneron raised a $49M series B extension, after raising a $48M series B in October 2022, bringing its total funding to $190M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230926/p4#a230926p4)
- - [Apple submits update that will weaken iPhone 12 modem to French government](https://appleinsider.com/articles/23/09/26/apple-submits-update-that-will-weaken-iphone-12-modem-to-french-government?utm_medium=rss)
- - [What If the Robots Were Very Nice While They Took Over the World?](https://www.wired.com/story/ai-diplomacy-robots/)
- - [Apple won&#39;t make a Google search rival, says Cue](https://appleinsider.com/articles/23/09/26/apple-wont-make-a-google-search-rival-says-cue?utm_medium=rss)
- - [CMF by Nothing launches first three products: earbuds, smartwatch, GaN charger](https://www.androidauthority.com/cmf-by-nothing-first-products-3367867/)<!-- TECH:END -->
+ - [SEC objects to Coinbase&#39;s proposed involvement in Celsius&#39; plan to emerge from bankruptcy, saying the plans &quot;go far beyond the services of a distribution agent&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p6#a230926p6)
+ - [Indian iPhone factory shut for third day, and may be closed all week](https://appleinsider.com/articles/23/09/26/indian-iphone-factory-shut-for-third-day-and-may-be-closed-all-week?utm_medium=rss)
+ - [Sources: French authorities received a software update from Apple that turns down the strength of the radio on iPhone 12&#39;s cellular modem and are reviewing it &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230926/p5#a230926p5)
+ - [Why Rain Is Getting Fiercer on a Warming Planet](https://www.wired.com/story/why-rain-is-getting-fiercer-on-a-warming-planet/)
+ - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

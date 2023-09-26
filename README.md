@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FCC chair Jessica Rosenworcel is set to announce plans to reinstate net neutrality rules governing ISPs on September 26, which were gutted under Trump &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/230925/p22#a230925p22)
+ - [Sources: FCC chair Jessica Rosenworcel is set to announce on September 26 plans to reinstate net neutrality rules governing ISPs that the FCC gutted under Trump &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/230925/p22#a230925p22)
  - [Apple Music radio shows &amp; narrated News+ articles now available in Podcasts app](https://appleinsider.com/articles/23/09/26/apple-music-radio-shows-narrated-news-articles-now-available-in-podcasts-app?utm_medium=rss)
  - [Hong Kong&#39;s Securities and Futures Commission plans to publish a list of crypto exchange license applicants in the wake of the JPEX crypto exchange probe &lpar;Financial Times&rpar;](http://www.techmeme.com/230925/p21#a230925p21)
  - [14 top Amazon deals on Apple gear offer up to $550 in savings](https://appleinsider.com/articles/23/09/26/14-top-amazon-deals-on-apple-gear-offer-up-to-550-in-savings?utm_medium=rss)

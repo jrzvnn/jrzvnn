@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a twist!](http://9gag.com/gag/aYVvMpv)
- - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [CLOSE THE BLAST DOORS](http://9gag.com/gag/aGErGxZ)
+ - 😝 [To be killed](http://9gag.com/gag/aXnm7rb)
  - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
  - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
  - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->

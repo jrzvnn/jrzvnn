@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 8 Pro pre-orders could get you a free Pixel Watch 2!](https://www.androidauthority.com/pixel-8-pro-pre-order-pixel-watch-2-deal-3368077/)
+ - [Valve announces SteamVR 2.0 in beta, with an updated keyboard, Steam Chat and Voice Chat integration, and an improved Store, after teasing the project in 2019 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230926/p1#a230926p1)
  - [Q&amp;A with Apple execs Ron Huang and Eric Treski on AirPods Pro&#39;s Adaptive Audio, Conversational Awareness, Personalized Volume, faster device switching, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230925/p23#a230925p23)
  - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [Customer FineWoven complaints lead to threadbare response from Apple](https://appleinsider.com/articles/23/09/26/customer-finewoven-complaints-lead-to-threadbare-response-from-apple?utm_medium=rss)
- - [Sources: FCC chair Jessica Rosenworcel is set to announce on September 26 plans to reinstate net neutrality rules governing ISPs that the FCC gutted under Trump &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/230925/p22#a230925p22)
- - [Apple Music radio shows &amp; narrated News+ articles now available in Podcasts app](https://appleinsider.com/articles/23/09/26/apple-music-radio-shows-narrated-news-articles-now-available-in-podcasts-app?utm_medium=rss)<!-- TECH:END -->
+ - [Customer FineWoven complaints lead to threadbare response from Apple](https://appleinsider.com/articles/23/09/26/customer-finewoven-complaints-lead-to-threadbare-response-from-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

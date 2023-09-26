@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S24 series launch date possibly leaked](https://www.androidauthority.com/samsung-galaxy-s24-series-launch-date-3368161/)
  - [DJI Mini 4 Pro review: lightweight, improved obstacle avoidance, great ActiveTrack 360 subject tracking, 4K at 60fps, but not crashproof and expensive at $760 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/230926/p2#a230926p2)
  - [YouTube is killing a cheaper ad-free plan you didn’t know about](https://www.androidauthority.com/youtube-premium-lite-dead-3368129/)
  - [Why Solar Panels Will Likely Keep Getting Cheaper     - CNET](https://www.cnet.com/home/energy-and-utilities/why-the-cost-of-solar-panels-will-likely-keep-falling/#ftag=CAD590a51e)
- - [Techno-fixes to climate change aren’t living up to the hype](https://www.theverge.com/2023/9/26/23889066/climate-change-international-energy-agency-roadmap-hydrogen-carbon-capture)
- - [Pixel 8 Pro pre-orders could get you a free Pixel Watch 2!](https://www.androidauthority.com/pixel-8-pro-pre-order-pixel-watch-2-deal-3368077/)<!-- TECH:END -->
+ - [Techno-fixes to climate change aren’t living up to the hype](https://www.theverge.com/2023/9/26/23889066/climate-change-international-energy-agency-roadmap-hydrogen-carbon-capture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

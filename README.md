@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max has second-best smartphone camera in the world](https://appleinsider.com/articles/23/09/26/iphone-15-pro-max-has-second-best-smartphone-camera-in-the-world?utm_medium=rss)
  - [An OpenAI paper on GPT-4 with vision, or GPT-4V, shows some of the biases, shortcomings, and dangers of the model, and OpenAI&#39;s efforts to add safeguards &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230926/p24#a230926p24)
  - [Apple defends Google Search deal in court: ‘There wasn’t a valid alternative’](https://www.theverge.com/2023/9/26/23891037/apple-eddy-cue-testimony-us-google)
  - [FCC announces plans to resurrect net neutrality rules](https://www.theverge.com/2023/9/26/23890527/fcc-net-neutrality-rules-law-usa-internet-access)
- - [Sources: OpenAI is pitching investors on a possible share sale that would value the startup at between $80B and $90B, almost triple its level earlier this year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p23#a230926p23)
- - [Safari 17 with enhanced Private Browsing out now for macOS Ventura, macOS Monterey](https://appleinsider.com/articles/23/09/26/safari-17-with-enhanced-private-browsing-out-now-for-macos-ventura-macos-monterey?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: OpenAI is pitching investors on a possible share sale that would value the startup at between $80B and $90B, almost triple its level earlier this year &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p23#a230926p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

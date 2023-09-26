@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is killing a cheaper ad-free plan you didn’t know about](https://www.androidauthority.com/youtube-premium-lite-dead-3368129/)
  - [Techno-fixes to climate change aren’t living up to the hype](https://www.theverge.com/2023/9/26/23889066/climate-change-international-energy-agency-roadmap-hydrogen-carbon-capture)
  - [Pixel 8 Pro pre-orders could get you a free Pixel Watch 2!](https://www.androidauthority.com/pixel-8-pro-pre-order-pixel-watch-2-deal-3368077/)
  - [Valve announces SteamVR 2.0 in beta, with an updated keyboard, Steam Chat and Voice Chat integration, and an improved Store, after teasing the project in 2019 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230926/p1#a230926p1)
- - [Roku Announces Roku Express 4K with Voice Remote Pro Bundle     - CNET](https://www.cnet.com/tech/home-entertainment/roku-announces-roku-express-4k-with-voice-remote-pro-bundle/#ftag=CAD590a51e)
- - [Best 5G Phones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roku Announces Roku Express 4K with Voice Remote Pro Bundle     - CNET](https://www.cnet.com/tech/home-entertainment/roku-announces-roku-express-4k-with-voice-remote-pro-bundle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

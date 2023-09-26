@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CIA is planning to roll out a ChatGPT-style tool across the 18-agency US intelligence community to give analysts better access to intelligence &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p15#a230926p15)
- - [The FTC and 17 US states sue Amazon for allegedly using monopoly power to keep its prices artificially high, lock sellers into its platform, and harm its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p14#a230926p14)
- - [This code drops 20% off Spigen’s new iPhone 15 cases](https://www.androidauthority.com/spigen-iphone-15-cases-deals-3368384/)
- - [FTC files a massive antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)
- - [Google Messages has been installed 5B+ times, after crossing the 1B threshold in 2020 and since becoming a default installation on a majority of Android devices &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230926/p13#a230926p13)<!-- TECH:END -->
+ - [How to use the iPhone 15’s Action Button like a Pro](https://www.androidauthority.com/how-to-customize-iphone-15-action-button-3367771/)
+ - [Streaming giants have banded together for lobbying power](https://www.theverge.com/2023/9/26/23890778/streaming-companies-trade-group-sia-regulation-net-neutrality)
+ - [FTC sues Amazon, alleges monopolistic market abuse](https://appleinsider.com/articles/23/09/26/ftc-sues-amazon-alleges-monopolistic-market-abuse?utm_medium=rss)
+ - [Apple Podcasts overhaul pulls in original programming from third-party apps](https://www.theverge.com/2023/9/26/23890734/apple-podcasts-original-programming-third-party-apps)
+ - [The CIA is planning to roll out a ChatGPT-style tool across the 18-agency US intelligence community to give analysts better access to intelligence &lpar;Bloomberg&rpar;](http://www.techmeme.com/230926/p15#a230926p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

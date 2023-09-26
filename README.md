@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
- - 😝 [Samuel L Jackson in British bread ad](http://9gag.com/gag/aVb9RQO)
- - 💣 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
- - 😝 [How was it called?](http://9gag.com/gag/amAOpDd)
- - 👉 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)<!-- MEMES:END -->
+ - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 💣 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [How it started and how its going](http://9gag.com/gag/aWGebdK)<!-- MEMES:END -->
 
 ---
 

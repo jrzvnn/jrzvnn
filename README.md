@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
  - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
- - 💣 [He\u2019s on one.](http://9gag.com/gag/awZ94yx)
- - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - 👉 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)<!-- MEMES:END -->
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 

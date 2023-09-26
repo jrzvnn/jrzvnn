@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lucky](http://9gag.com/gag/aA0LvM2)
  - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
- - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [Lucky](http://9gag.com/gag/aA0LvM2)<!-- MEMES:END -->
+ - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 👉 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)<!-- MEMES:END -->
 
 ---
 

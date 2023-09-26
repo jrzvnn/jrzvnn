@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What a twist!](http://9gag.com/gag/aYVvMpv)
  - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 😝 [HolUp\u2026 you mean to tell me you don\u2019t?](http://9gag.com/gag/aqeVzwv)
  - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
- - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 👉 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)<!-- MEMES:END -->
+ - 😝 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 

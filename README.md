@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
- - 😝 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
- - 💣 [I love democracy.](http://9gag.com/gag/a2KAGOY)
- - 😝 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)
- - 👉 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)<!-- MEMES:END -->
+ - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)
+ - 💣 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)
+ - 😝 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)
+ - 👉 [I love democracy.](http://9gag.com/gag/a2KAGOY)<!-- MEMES:END -->
 
 ---
 

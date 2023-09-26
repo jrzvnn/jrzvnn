@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin Venu 3 review: Should you buy it?](https://www.androidauthority.com/garmin-venu-3-review-3366220/)
+ - [Threads is struggling to retain users — but it could still catch up to X](https://www.theverge.com/2023/9/26/23890592/threads-meta-monthly-users-data-x-twitter)
  - [Bowers &amp; Wilkins’ PX7 S2 noise-canceling headphones have dropped to a new low](https://www.theverge.com/2023/9/26/23889103/bowers-wilkins-px7-s2-headphones-apple-airtag-loop-yeedi-vac-2-pro-deal-sale)
  - [Microsoft is going nuclear to power its AI ambitions](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)
- - [SAG-AFTRA votes for strike approval for video game performers](https://www.theverge.com/2023/9/26/23890663/sag-aftra-strike-approval-video-game-performers)
- - [Google plans to shut down Google Podcasts later in 2024 as part of its broader transition to move its streaming listeners over to YouTube Music &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230926/p11#a230926p11)
- - [Google Podcasts is going to the graveyard as YouTube Music takes over](https://www.theverge.com/2023/9/26/23890694/google-podcasts-2024-shutdown-youtube-music)<!-- TECH:END -->
+ - [SAG-AFTRA votes for strike approval for video game performers](https://www.theverge.com/2023/9/26/23890663/sag-aftra-strike-approval-video-game-performers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

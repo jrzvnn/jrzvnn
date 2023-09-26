@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals?utm_medium=rss)
- - [Samsung and Apple should watch out for this brand-new flagship](https://www.androidauthority.com/xiaomi-13t-series-3366949/)
- - [Series, which offers ERP-like tools, including for contract lifecycle management and orchestrating payroll, raised $25M across a Series A and seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230926/p10#a230926p10)
- - [You’re using YouTube wrong if you’re not checking video transcripts](https://www.androidauthority.com/youtube-video-transcript-3365317/)
- - [Xiaomi announces 13T Pro with promise of four major Android updates](https://www.theverge.com/2023/9/26/23890552/xiaomi-13t-pro-price-release-date-specs-features-years-android-security-updates-support)<!-- TECH:END -->
+ - [SAG-AFTRA votes for strike approval for video game performers](https://www.theverge.com/2023/9/26/23890663/sag-aftra-strike-approval-video-game-performers)
+ - [Google plans to shut down Google Podcasts later in 2024 as part of its broader transition to move its streaming listeners over to YouTube Music &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230926/p11#a230926p11)
+ - [Google Podcasts is going to the graveyard as YouTube Music takes over](https://www.theverge.com/2023/9/26/23890694/google-podcasts-2024-shutdown-youtube-music)
+ - [Daily deals Sept. 26: $120 off Apple Watch Series 8, 41% off Beats Studio Buds Plus, 27% off MagSafe Duo Fast Wireless Charger, more](https://appleinsider.com/articles/23/09/26/daily-deals-sept-26-120-off-apple-watch-series-8-41-off-beats-studio-buds-plus-27-off-magsafe-duo-fast-wireless-charger-more?utm_medium=rss)
+ - [Xiaomi dives headfirst into Wear OS with the Watch 2 Pro](https://www.theverge.com/2023/9/26/23890658/xiaomi-watch-2-pro-wear-os-smartwatch-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

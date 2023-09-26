@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify now lets your friends help you build the perfect party playlist](https://www.androidauthority.com/spotify-jam-feature-3368364/)
- - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)
- - [Sources detail how Microsoft aims to cut costs behind running AI features like Bing Chat by developing efficient AI models that mimic OpenAI&#39;s more capable ones &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230926/p12#a230926p12)
- - [Garmin Venu 3 review: Should you buy it?](https://www.androidauthority.com/garmin-venu-3-review-3366220/)
- - [Threads is struggling to retain users — but it could still catch up to X](https://www.theverge.com/2023/9/26/23890592/threads-meta-monthly-users-data-x-twitter)<!-- TECH:END -->
+ - [The FTC and 17 US states sue Amazon for allegedly using monopoly power to keep its prices artificially high, lock sellers into its platform, and harm its rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p14#a230926p14)
+ - [This code drops 20% off Spigen’s new iPhone 15 cases](https://www.androidauthority.com/spigen-iphone-15-cases-deals-3368384/)
+ - [FTC files a massive antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)
+ - [Google Messages has been installed 5B+ times, after crossing the 1B threshold in 2020 and since becoming a default installation on a majority of Android devices &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230926/p13#a230926p13)
+ - [The Lamborghini-inspired Dry Studio Black Diamond 75 gaming keyboard is more cool than cringe](https://www.theverge.com/23885308/dry-studio-black-diamond-75-mechanical-keyboard-specs-price-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

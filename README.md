@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pre-order &#39;Resident Evil 4&#39; for iPhone, iPad, or Mac today, pay $60 at launch for full unlock](https://appleinsider.com/articles/23/09/26/pre-order-resident-evil-4-for-iphone-ipad-or-mac-today-pay-60-at-launch-for-full-unlock?utm_medium=rss)
+ - [Peloton co-founder Tom Cortese is stepping down](https://www.theverge.com/2023/9/26/23891565/peloton-co-founder-tom-cortese-nick-caldwell-stepping-down)
  - [Microsoft starts rolling out a Windows 11 update that adds access to Windows Copilot and, over the coming months, AI updates to Paint, Snipping Tool, and Photos &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230926/p28#a230926p28)
  - [CDC Makes Another RSV Shot Approval: Here&#39;s Who Needs a COVID, Flu and RSV Shot     - CNET](https://www.cnet.com/health/medical/cdc-makes-another-rsv-shot-approval-heres-who-needs-a-covid-flu-and-rsv-shot/#ftag=CAD590a51e)
- - [Google subscription bundle could be on the way including Nest Aware, One, more](https://www.androidauthority.com/google-subscription-all-in-one-bundle-3368615/)
- - [Source: WGA and AMPTP&#39;s deal lets studios train AI models on writers&#39; work, while writers would get compensation for work on scripts even if AI tools are used &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p27#a230926p27)
- - [The Quest 3 is Meta’s last chance to win the headset war before it truly begins](https://www.theverge.com/2023/9/26/23891486/meta-quest-3-games-connect-2023)<!-- TECH:END -->
+ - [Google subscription bundle could be on the way including Nest Aware, One, more](https://www.androidauthority.com/google-subscription-all-in-one-bundle-3368615/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

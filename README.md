@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
- - 😝 [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
+ - 😝 [Thanks to the civil Polizei](http://9gag.com/gag/anz0VGn)
+ - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
+ - 💣 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)
+ - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 👉 [Bro made an `executive decision`](http://9gag.com/gag/aQEDrPr)<!-- MEMES:END -->
 
 ---
 

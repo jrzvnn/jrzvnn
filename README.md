@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snag Our Favorite Video Doorbell of 2023 at an All-Time Low Price     - CNET](https://www.cnet.com/deals/snag-our-favorite-video-doorbell-of-2023-all-time-low/#ftag=CAD590a51e)
+ - [Google&#39;s Pixel 8 Needs These Features to Stand Out From the Pixel 7A     - CNET](https://www.cnet.com/tech/mobile/the-pixel-7a-raises-the-bar-for-the-pixel-8/#ftag=CAD590a51e)
  - [iPhone 15 overheat complaints are inconsistent, and it&#39;s unclear what&#39;s going on](https://appleinsider.com/articles/23/09/26/iphone-15-overheat-complaints-are-inconsistent-and-its-unclear-whats-going-on?utm_medium=rss)
- - [Sources detail how Microsoft aims to cut costs behind AI features like Bing&#39;s chatbot by developing efficient AI models that mimic OpenAI&#39;s more capable ones &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230926/p12#a230926p12)
- - [Garmin Venu 3 review: Should you buy it?](https://www.androidauthority.com/garmin-venu-3-review-3366220/)
- - [Threads is struggling to retain users — but it could still catch up to X](https://www.theverge.com/2023/9/26/23890592/threads-meta-monthly-users-data-x-twitter)
- - [Bowers &amp; Wilkins’ PX7 S2 noise-canceling headphones have dropped to a new low](https://www.theverge.com/2023/9/26/23889103/bowers-wilkins-px7-s2-headphones-apple-airtag-loop-yeedi-vac-2-pro-deal-sale)<!-- TECH:END -->
+ - [Sources detail how Microsoft aims to cut costs behind running AI features like Bing Chat by developing efficient AI models that mimic OpenAI&#39;s more capable ones &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230926/p12#a230926p12)
+ - [Get Winter Ready With Up to 75% Off Greenworks and Sun Joe Power Tools     - CNET](https://www.cnet.com/deals/get-winter-ready-with-up-to-75-off-tools-from-greenworks-sun-joe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

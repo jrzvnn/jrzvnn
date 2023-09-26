@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/aGErb5Z)
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 💣 [I love democracy.](http://9gag.com/gag/a2KAGOY)
- - 😝 [Thanks to the civil Polizei](http://9gag.com/gag/anz0VGn)
- - 👉 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)<!-- MEMES:END -->
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
+ - 😝 [How it started and how its going](http://9gag.com/gag/aWGebdK)
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
 

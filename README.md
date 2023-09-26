@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [Margaret Thatcher on illegal immigrants](http://9gag.com/gag/aZD4vvX)
- - 💣 [No pixels, but after listening to the conversation u may need umbrella, coz it may rain](http://9gag.com/gag/aWGe90K)
- - 😝 [Intresting Type - X concept for Ceiling.](http://9gag.com/gag/aQEDVzz)
- - 👉 [I love democracy.](http://9gag.com/gag/a2KAGOY)<!-- MEMES:END -->
+ - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
+ - 💣 [Trying out tramperline in church](http://9gag.com/gag/agop4Lw)
+ - 😝 [How it started and how its going](http://9gag.com/gag/aWGebdK)
+ - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
 
 ---
 

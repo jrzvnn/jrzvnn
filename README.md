@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okeeeeeeeeeeeeeeeeey, let&#39;s goooooooo!](http://9gag.com/gag/aOxn9ED)
+ - 😝 [Stay calm. Stay calm.](http://9gag.com/gag/ap9nx3D)
  - 😝 [Take that](http://9gag.com/gag/aXnmK3g)
- - 💣 [In case you never seen the mother of all Karens](http://9gag.com/gag/aL1OWGx)
- - 😝 [What a nice young lady, she should apply for a police office or something](http://9gag.com/gag/amAOxMd)
- - 👉 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)<!-- MEMES:END -->
+ - 💣 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 😝 [How it started and how its going](http://9gag.com/gag/aWGebdK)
+ - 👉 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 ---
 

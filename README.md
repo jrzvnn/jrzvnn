@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft starts rolling out a Windows 11 update that adds access to Windows Copilot and, over the coming months, AI updates to Paint, Snipping Tool, and Photos &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230926/p28#a230926p28)
+ - [Google subscription bundle could be on the way including Nest Aware, One, more](https://www.androidauthority.com/google-subscription-all-in-one-bundle-3368615/)
  - [Source: WGA and AMPTP&#39;s deal lets studios train AI models on writers&#39; work, while writers would get compensation for work on scripts even if AI tools are used &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230926/p27#a230926p27)
  - [The Quest 3 is Meta’s last chance to win the headset war before it truly begins](https://www.theverge.com/2023/9/26/23891486/meta-quest-3-games-connect-2023)
- - [Real-life Pixel 8 Pro image shows the matte back is classy af](https://www.androidauthority.com/pixel-8-pro-hands-on-leak-3368599/)
- - [Make sure to update your iPhone 15 before transferring over data from your old phone](https://www.theverge.com/2023/9/22/23885885/apple-iphone-15-pro-ios-17-0-2-data-transfer)
- - [Apple&#39;s Eddy Cue says Google is default search engine because it is the &#39;best&#39;](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)<!-- TECH:END -->
+ - [Real-life Pixel 8 Pro image shows the matte back is classy af](https://www.androidauthority.com/pixel-8-pro-hands-on-leak-3368599/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

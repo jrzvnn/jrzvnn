@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CMF by Nothing launches first three products: earbuds, smartwatch, GaN charger](https://www.androidauthority.com/cmf-by-nothing-first-products-3367867/)
  - [LG dives into the foldable laptop fray](https://www.theverge.com/2023/9/26/23890518/lg-gram-fold-foldable-laptop-oled-display-17-inch-price-release-dates-specs-features)
  - [You told us: You’re big fans of multiple Nest speaker groups](https://www.androidauthority.com/use-nest-speaker-groups-poll-results-3368151/)
  - [Giant leak reveals everything about the Galaxy Tab S9 FE series](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-plus-spec-leak-3368157/)
- - [Spotify launches Jam, a new feature that lets up to 32 people curate a single playlist; only Premium subscribers can create Jams, but all users can contribute &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230926/p3#a230926p3)
- - [A Windows 11 Pro License Costs Just $27 While This Deal Lasts     - CNET](https://www.cnet.com/deals/windows-11-pro-license-costs-27-while-this-deal-lasts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify launches Jam, a new feature that lets up to 32 people curate a single playlist; only Premium subscribers can create Jams, but all users can contribute &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230926/p3#a230926p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix Drop 01: all the news and trailers from Netflix’s animation event](https://www.theverge.com/2023/9/27/23889776/netflix-drop-01-news-trailers-castlevania-scott-pilgrim)
+ - [Early Prime Day Kindle Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023/)
+ - [4 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses and Mattress Toppers](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-october-2023/)
  - [Sources: dozens of VC firms, including Bain Capital, Mayfield, and IVP, are working with the US Commerce Department to develop &quot;responsible AI&quot; guidelines &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230927/p20#a230927p20)
- - [MOVEit cyberattacks: keeping tabs on the biggest data theft of 2023](https://www.theverge.com/23892245/moveit-cyberattacks-clop-ransomware-government-business)
- - [Amazon CEO Andy Jassy confirms that former Microsoft CPO Panos Panay will be joining Amazon at the end of October to lead its devices and services division &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230927/p19#a230927p19)
- - [LG Gram Pro 17 review: a Gram with more gusto](https://www.theverge.com/23879367/lg-gram-pro-17-inch-2023-rtx-3050-review)
- - [Panos Panay is leaving Microsoft for Amazon](https://www.theverge.com/2023/9/27/23892462/amazon-hires-panos-panay-microsoft)<!-- TECH:END -->
+ - [MOVEit cyberattacks: keeping tabs on the biggest data theft of 2023](https://www.theverge.com/23892245/moveit-cyberattacks-clop-ransomware-government-business)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

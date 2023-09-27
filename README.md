@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - 😝 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
- - 💣 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
- - 👉 [Korean street burger](http://9gag.com/gag/aBdbvLD)<!-- MEMES:END -->
+ - 😝 [One Piece be like](http://9gag.com/gag/ay2mP3y)
+ - 😝 [I was there](http://9gag.com/gag/aEqjN7K)
+ - 💣 [The late David McCallum was responsible for an iconic sample from hip hop history.](http://9gag.com/gag/a5X9D7q)
+ - 😝 [Borderline a compliment](http://9gag.com/gag/a5X9xgE)
+ - 👉 [We&#39;ve been trying to reach you about your car&#39;s extended warranty](http://9gag.com/gag/aPgVnnV)<!-- MEMES:END -->
 
 ---
 

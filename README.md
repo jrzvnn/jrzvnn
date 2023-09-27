@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
  - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
+ - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
 
 ---
 

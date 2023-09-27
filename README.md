@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 💣 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
  - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
+ - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
+ - 💣 [Korean street burger](http://9gag.com/gag/aBdbvLD)
+ - 😝 [For a while now.. distrust every post](http://9gag.com/gag/anz0dKL)
+ - 👉 [Toot toot don&#39;t](http://9gag.com/gag/aDYqPMN)<!-- MEMES:END -->
 
 ---
 

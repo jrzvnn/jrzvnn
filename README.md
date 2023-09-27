@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bad news for Sony fans: The Xperia 5 V won’t be coming to the US](https://www.androidauthority.com/sony-xperia-5-v-us-launch-3368752/)
+ - [FTC Chair Lina Khan, who rose to prominence with a 2017 academic paper that called for a break-up of Amazon, now has a chance to test her approach in the courts &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/230927/p9#a230927p9)
  - [Linda Yaccarino reflects on her first 100 days as X CEO, says intense public scrutiny is &quot;hard on me&quot;, as sources describe her relationship with Elon Musk &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/230927/p8#a230927p8)
  - [Study: 88% of S&amp;P 500 company boards don&#39;t have a director with direct cybersecurity experience; only seven companies have a current or former CISO on the board &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/230927/p7#a230927p7)
- - [Idris Elba Is Ready to Talk About Crypto](https://www.wired.com/story/idris-elba-crypto-stellar-development-foundation/)
- - [The Climate Crisis Is Driving People to Substance Abuse](https://www.wired.com/story/climate-change-substance-abuse-tobacco-alcohol-india/)
- - [Ming-Chi Kuo: iPhone 15 Pro overheating issues likely due to thermal system design compromises to achieve a lighter weight, and are unrelated to TSMC&#39;s 3nm node &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/230927/p6#a230927p6)<!-- TECH:END -->
+ - [Idris Elba Is Ready to Talk About Crypto](https://www.wired.com/story/idris-elba-crypto-stellar-development-foundation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

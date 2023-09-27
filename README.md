@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU criticizes X over levels of disinformation found on platform](https://www.theverge.com/2023/9/27/23892145/twitter-x-elon-musk-disinformation-european-union-commission-digital-services-act)
+ - [Don&#39;t buy a looted iPhone, it will never work](https://appleinsider.com/articles/20/06/03/dont-buy-a-looted-iphone-it-will-never-work?utm_medium=rss)
  - [Will OpenAI build its own AI smartphone?](https://www.androidauthority.com/openai-ai-smartphone-3368822/)
  - [The Latest Way to Cash In on TikTok? Going Live 24/7](https://www.wired.com/story/tiktok-live-247-money/)
- - [AI Hurricane Predictions Are Storming the World of Weather Forecasting](https://www.wired.com/story/ai-hurricane-predictions-are-storming-the-world-of-weather-forecasting/)
- - [You might get free Pixel Buds Pro if you pre-order the Pixel 8](https://www.androidauthority.com/you-might-get-free-pixel-buds-pro-if-you-pre-order-the-pixel-8-3368814/)
- - [Researchers say X removed the ability for users to report election misinformation, a feature launched in the US, Australia, and some other countries in 2021 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230927/p13#a230927p13)<!-- TECH:END -->
+ - [AI Hurricane Predictions Are Storming the World of Weather Forecasting](https://www.wired.com/story/ai-hurricane-predictions-are-storming-the-world-of-weather-forecasting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

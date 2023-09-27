@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)
- - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
  - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)<!-- MEMES:END -->
+ - 💣 [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)
+ - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
+ - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
 
 ---
 

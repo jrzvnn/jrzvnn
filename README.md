@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China releases a list of 26 app stores, including from Samsung, Huawei, and Xiaomi, that comply with its new rules; Apple&#39;s App Store is not on the list &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230927/p10#a230927p10)
  - [Resident Evil 4 for the iPhone 15 Pro will cost $60, would you buy it?](https://www.androidauthority.com/resident-evil-4-iphone-15-pro-price-3368777/)
  - [Jony Ive is reportedly developing an AI gadget with OpenAI’s Sam Altman](https://www.theverge.com/2023/9/27/23892135/jony-ive-sam-altman-ai-device-openai-ceo-apple-designer)
- - [This Android app lets you make your own custom Wear OS watch faces](https://www.androidauthority.com/kwch-wear-os-custom-watch-face-maker-3368770/)
- - [Bad news for Sony fans: The Xperia 5 V won’t be coming to the US](https://www.androidauthority.com/sony-xperia-5-v-us-launch-3368752/)
- - [FTC Chair Lina Khan, who rose to prominence with a 2017 academic paper that called for a break-up of Amazon, now has a chance to test her approach in the courts &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/230927/p9#a230927p9)<!-- TECH:END -->
+ - [This new Android app lets you make your own custom Wear OS watch faces](https://www.androidauthority.com/kwch-wear-os-custom-watch-face-maker-3368770/)
+ - [Bad news for Sony fans: The Xperia 5 V won’t be coming to the US](https://www.androidauthority.com/sony-xperia-5-v-us-launch-3368752/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

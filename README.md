@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only way to go](http://9gag.com/gag/aL1Or5V)
- - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 👉 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)<!-- MEMES:END -->
+ - 😝 [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)
+ - 😝 [Learning to drive properly](http://9gag.com/gag/awZ9vKB)
+ - 💣 [Take that](http://9gag.com/gag/aXnmK3g)
+ - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
+ - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You might get free Pixel Buds Pro if you pre-order the Pixel 8](https://www.androidauthority.com/you-might-get-free-pixel-buds-pro-if-you-pre-order-the-pixel-8-3368814/)
+ - [Researchers say X removed the ability for users to report election misinformation, a feature launched in the US, Australia, and some other countries in 2021 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230927/p13#a230927p13)
  - [Apple&#39;s Eddy Cue says Google is default search engine because it is the best option](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)
  - [Apple&#39;s App Stores are not yet in compliance with new China law](https://appleinsider.com/articles/23/09/27/apples-app-stores-are-not-yet-in-compliance-with-new-china-law?utm_medium=rss)
- - [Indonesia plans to ban direct transactions on social media, citing their effect on traditional markets, a blow to TikTok Shop in its first and largest market &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230927/p12#a230927p12)
- - [Jony Ive may design AI hardware that will compete with Apple](https://appleinsider.com/articles/23/09/27/jony-ive-may-design-ai-hardware-that-will-compete-with-apple?utm_medium=rss)
- - [Binance exits its Russia business as it is not &quot;compatible with Binance&#39;s compliance strategy&quot;, and sells the business to CommEX, which launched a day earlier &lpar;Bloomberg&rpar;](http://www.techmeme.com/230927/p11#a230927p11)<!-- TECH:END -->
+ - [Indonesia plans to ban direct transactions on social media, citing their effect on traditional markets, a blow to TikTok Shop in its first and largest market &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230927/p12#a230927p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

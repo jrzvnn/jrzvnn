@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Idris Elba Is Ready to Talk About Crypto](https://www.wired.com/story/idris-elba-crypto-stellar-development-foundation/)
+ - [The Climate Crisis Is Driving People to Substance Abuse](https://www.wired.com/story/climate-change-substance-abuse-tobacco-alcohol-india/)
  - [Ming-Chi Kuo: iPhone 15 Pro overheating issues likely due to thermal system design compromises to achieve a lighter weight, and are unrelated to TSMC&#39;s 3nm node &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/230927/p6#a230927p6)
  - [US-based TikTok staff say recent executive transfers from ByteDance to TikTok show ByteDance plays a greater role in TikTok&#39;s operations than publicly disclosed &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/230927/p5#a230927p5)
- - [The WGA contract calls for streaming data transparency and guarantees on AI use, including preventing AI-generated material to be used as a source material &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230927/p4#a230927p4)
- - [Staffers and allies of India&#39;s BJP detail how they crafted posts for a vast network of WhatsApp groups aimed at exploiting the fears of the Hindu majority &lpar;Gerry Shih/Washington Post&rpar;](http://www.techmeme.com/230927/p3#a230927p3)
- - [Sources: China&#39;s $41B chip fund is struggling to raise capital from local governments and state-owned enterprises, which are grappling with an economic slowdown &lpar;Financial Times&rpar;](http://www.techmeme.com/230927/p2#a230927p2)<!-- TECH:END -->
+ - [Best Earplugs for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-and-earbuds-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

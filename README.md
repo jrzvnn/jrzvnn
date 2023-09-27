@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China releases a list of 26 app stores, including from Samsung, Huawei, and Xiaomi, that comply with its new rules; Apple&#39;s App Store is not on the list &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230927/p10#a230927p10)
- - [Resident Evil 4 for the iPhone 15 Pro will cost $60, would you buy it?](https://www.androidauthority.com/resident-evil-4-iphone-15-pro-price-3368777/)
- - [Jony Ive is reportedly developing an AI gadget with OpenAI’s Sam Altman](https://www.theverge.com/2023/9/27/23892135/jony-ive-sam-altman-ai-device-openai-ceo-apple-designer)
- - [This new Android app lets you make your own custom Wear OS watch faces](https://www.androidauthority.com/kwch-wear-os-custom-watch-face-maker-3368770/)
- - [Bad news for Sony fans: The Xperia 5 V won’t be coming to the US](https://www.androidauthority.com/sony-xperia-5-v-us-launch-3368752/)<!-- TECH:END -->
+ - [Indonesia plans to ban direct transactions on social media, citing their effect on traditional markets, a blow to TikTok Shop in its first and largest market &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230927/p12#a230927p12)
+ - [Jony Ive may design AI hardware that will compete with Apple](https://appleinsider.com/articles/23/09/27/jony-ive-may-design-ai-hardware-that-will-compete-with-apple?utm_medium=rss)
+ - [Binance says it exited its Russia business by selling it to CommEX, saying it is &quot;not compatible with Binance&#39;s compliance strategy&quot;; CommEX launched on Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230927/p11#a230927p11)
+ - [Is the Physics of Time Actually Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
+ - [China releases a list of 26 app stores, including from Samsung, Huawei, and Xiaomi, that comply with its new rules; Apple&#39;s App Store is not on the list &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230927/p10#a230927p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

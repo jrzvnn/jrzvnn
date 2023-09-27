@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Mercedes-Benz&#39;s Drive Pilot, the first and only Level 3 system approved for sale in the US and EU, available only on freeways mapped by Mercedes &lpar;Daniel Golson/The Verge&rpar;](http://www.techmeme.com/230927/p14#a230927p14)
+ - [Will there be a Microsoft Surface Duo 3? Release date, price, and specs rumors](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
  - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)
  - [Outstanding deals from B&amp;H Photo include $1,900 off MacBook Pro kits and more](https://appleinsider.com/articles/23/09/26/outstanding-deals-from-bh-photo-include-1900-off-macbook-pro-kits-and-more?utm_medium=rss)
- - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)
- - [DJI Mavic 3 Pro Cine Review: A Movie Studio in the Sky](https://www.wired.com/review/dji-mavic-3-pro-cine/)
- - [We put our faith in Mercedes-Benz’s first-of-its-kind autonomous Drive Pilot feature](https://www.theverge.com/2023/9/27/23892154/mercedes-benz-drive-pilot-autonomous-level-3-test)<!-- TECH:END -->
+ - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

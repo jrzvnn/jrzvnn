@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Mercedes-Benz&#39;s Drive Pilot, the first and only Level 3 system approved for sale in the US and EU, available only on freeways mapped by Mercedes &lpar;Daniel Golson/The Verge&rpar;](http://www.techmeme.com/230927/p14#a230927p14)
- - [Will there be a Microsoft Surface Duo 3? Release date, price, and specs rumors](https://www.androidauthority.com/microsoft-surface-duo-3-3358295/)
- - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)
- - [Outstanding deals from B&amp;H Photo include $1,900 off MacBook Pro kits and more](https://appleinsider.com/articles/23/09/26/outstanding-deals-from-bh-photo-include-1900-off-macbook-pro-kits-and-more?utm_medium=rss)
- - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro users will pay full console price for Resident Evil 4 remake](https://www.theverge.com/2023/9/27/23892250/iphone-15-pro-resident-evil-4-remake-port-console-price)
+ - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)
+ - [Cloudflare launches new tools to help customers deploy and run AI models, including Workers AI, which gives pay-as-you-go access to GPUs from its partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230927/p15#a230927p15)
+ - [Horizon Forbidden West is coming to PC early next year](https://www.theverge.com/2023/9/27/23874229/horizon-forbidden-west-pc-port-playstation)
+ - [Bridgerton season 3 release date: Here’s what we know so far](https://www.androidauthority.com/bridgerton-season-3-release-date-3368818/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

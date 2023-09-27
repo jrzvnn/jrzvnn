@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artifact is becoming Twitter, too](https://www.theverge.com/2023/9/27/23887416/artifact-mike-krieger-code-2023-posts)
+ - [Apple releases macOS Sonoma 14.1 developer beta 1](https://appleinsider.com/articles/23/09/27/apple-releases-macos-sonoma-141-developer-beta-1?utm_medium=rss)
  - [Apple seeds first iOS 17.1, iPadOS 17.1 developer betas](https://appleinsider.com/articles/23/09/27/apple-seeds-first-ios-171-ipados-171-developer-betas?utm_medium=rss)
  - [Demand for iPhone 15 stronger than iPhone 14, Pro models about the same](https://appleinsider.com/articles/23/09/27/demand-for-iphone-15-stronger-than-iphone-14-pro-models-about-the-same?utm_medium=rss)
- - [Meta announces the $299 Ray-Ban Meta smart glasses, featuring a 12MP camera, speakers, five mics, Snapdragon AR1 Gen 1 processor, and more, on sale October 17 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230927/p33#a230927p33)
- - [Meta’s Quest 3 wireless charging dock juices up your headset and controllers](https://www.theverge.com/2023/9/27/23890816/meta-quest-3-charging-dock-price-availability-connect)
- - [Interview with Mark Zuckerberg on Threads, the future of AI, Quest 3, his rivalry with Elon Musk, decentralization, &quot;open source&quot; AI tools, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230927/p32#a230927p32)<!-- TECH:END -->
+ - [Meta announces the $299 Ray-Ban Meta smart glasses, featuring a 12MP camera, speakers, five mics, Snapdragon AR1 Gen 1 processor, and more, on sale October 17 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230927/p33#a230927p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

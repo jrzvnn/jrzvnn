@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Pick up a Mac mini with 16GB RAM, 1TB SSD for $999](https://appleinsider.com/articles/23/09/27/pick-up-a-mac-mini-with-16gb-ram-1tb-ssd-for-999?utm_medium=rss)
  - [Mac Studio with M2 Max and M2 Ultra now available on Apple&#39;s refurbished store](https://appleinsider.com/articles/23/09/27/mac-studio-with-m2-max-and-m2-ultra-now-available-on-apples-refurbished-store?utm_medium=rss)
  - [Pokémon are coming to the Van Gogh Museum to teach the world about art](https://www.theverge.com/23893271/pokemon-x-van-gogh-museum)
- - [Disney Plus Password Sharing Crackdown to Begin Nov. 1     - CNET](https://www.cnet.com/tech/services-and-software/disney-plus-password-sharing-crackdown-to-begin-nov-1/#ftag=CAD590a51e)
- - [HP Spectre Foldable PC Review: It&#39;s Slick but Quirky     - CNET](https://www.cnet.com/tech/computing/hp-spectre-foldable-pc-review-its-slick-but-quirky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lululemon is throwing in the towel on Mirror](https://www.theverge.com/2023/9/27/23893249/lululemon-mirror-peloton-connected-fitness)
+ - [Sony Interactive Entertainment President and CEO Jim Ryan plans to retire in March 2024, after almost 30 years with the PlayStation business &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230927/p48#a230927p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

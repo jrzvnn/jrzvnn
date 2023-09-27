@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
  - 😝 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
- - 💣 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - 😝 [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)
- - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
+ - 😝 [... true](http://9gag.com/gag/adPWRzN)
+ - 💣 [Same software different hardware](http://9gag.com/gag/aA0LNK0)
+ - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 👉 [How to enter an i8](http://9gag.com/gag/aPgVdng)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - 😝 [A 14-year-old girl hanged her rapist in the forest. Sweden, September 27, 2023. A 26-year-old taxi driver &lpar;immigrant&rpar; reported for rape against a 14-year-old girl, then he was found hanged in a nature reserve. Now the girl, her boyfriend, and three brothers are suspects.](http://9gag.com/gag/ap9nzEb)
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 💣 [Man EDUCATES A WOKE Professor On CULTURAL APPROPRIATION](http://9gag.com/gag/aNwG8A3)
+ - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
+ - 👉 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)<!-- MEMES:END -->
 
 ---
 

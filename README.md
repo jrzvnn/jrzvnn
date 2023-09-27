@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [The factory must grow!](http://9gag.com/gag/aBdbvqZ)
- - 💣 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)<!-- MEMES:END -->
+ - 😝 [For a while now.. distrust every post](http://9gag.com/gag/anz0dKL)
+ - 😝 [Korean street burger](http://9gag.com/gag/aBdbvLD)
+ - 💣 [Toot toot don&#39;t](http://9gag.com/gag/aDYqPMN)
+ - 😝 [How to enter an i8](http://9gag.com/gag/aPgVdng)
+ - 👉 [Same software different hardware](http://9gag.com/gag/aA0LNK0)<!-- MEMES:END -->
 
 ---
 

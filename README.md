@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap closes AR Enterprise Services, launched in March 2023 to let retailers adapt Snap&#39;s AR technology for their own websites, citing high costs and complexity &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230927/p16#a230927p16)
  - [The Wear OS renaissance era is upon us and I’m here for it](https://www.androidauthority.com/wear-os-google-smartwatch-renaissance-3368820/)
  - [iPhone 15 Pro users will pay full console price for Resident Evil 4 remake](https://www.theverge.com/2023/9/27/23892250/iphone-15-pro-resident-evil-4-remake-port-console-price)
  - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)
- - [Cloudflare launches new tools to help customers deploy and run AI models, including Workers AI, which gives pay-as-you-go access to GPUs from its partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230927/p15#a230927p15)
- - [Horizon Forbidden West is coming to PC early next year](https://www.theverge.com/2023/9/27/23874229/horizon-forbidden-west-pc-port-playstation)<!-- TECH:END -->
+ - [Cloudflare launches new tools to help customers deploy and run AI models, including Workers AI, which gives pay-as-you-go access to GPUs from its partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230927/p15#a230927p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

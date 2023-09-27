@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is testing a DALL-E-powered text-to-image creator in Paint for Windows 11](https://www.theverge.com/2023/9/27/23892900/microsoft-dall-e-windows-11-paint-cocreator)
+ - [Google rolls out big OS update for Chromebooks, adds Material You redesign](https://www.androidauthority.com/chromebook-chrome-os-update-3369033/)
  - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
  - [The US and Japan warn that the China-backed BlackTech hacking group is breaching network devices, including Cisco&#39;s, to install backdoors on corporate networks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230927/p44#a230927p44)
- - [OpenAI says ChatGPT can now browse the internet and it&#39;s &quot;no longer limited to data before September 2021&quot;; browsing comes first to Plus and Enterprise users &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230927/p43#a230927p43)
- - [EA delists old FIFA titles ahead of its new soccer game’s debut](https://www.theverge.com/2023/9/27/23892905/fifa-23-delisted-ea-sports-fc-24)
- - [Fortnite V-bucks are about to get more expensive](https://www.theverge.com/2023/9/27/23893112/fortnite-v-bucks-pricing-adjustment)<!-- TECH:END -->
+ - [OpenAI says ChatGPT can now browse the internet and it&#39;s &quot;no longer limited to data before September 2021&quot;; browsing comes first to Plus and Enterprise users &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230927/p43#a230927p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

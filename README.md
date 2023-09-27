@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy’s new X8 Pro robot vacuum can detangle hair automatically](https://www.theverge.com/2023/9/26/23891423/eufy-clean-x8-pro-robot-vacuum-anker)
- - [Eufy’s latest security package can track one person across multiple cameras](https://www.theverge.com/2023/9/26/23890980/eufy-security-cross-camera-tracking-ai-solocam-floodlight-doorbell)
- - [K-pop group NewJeans will perform this year’s League of Legends Worlds anthem](https://www.theverge.com/2023/9/26/23885476/newjeans-league-of-legends-worlds-2023-anthem)
- - [Amazon’s All-Powerful ‘Buy Box’ Is at the Heart of Its New Antitrust Troubles](https://www.wired.com/story/amazons-all-powerful-buy-box-is-at-the-heart-of-its-new-antitrust-troubles/)
- - [Apple and Google want to shift how you listen to podcasts](https://www.theverge.com/2023/9/26/23891493/apple-podcasts-overhaul-ios-17-google-ends-podcasts-spotify-translation-open-ai)<!-- TECH:END -->
+ - [The Writers Guild of America’s strike ends at midnight](https://www.theverge.com/2023/9/26/23889334/wga-strike-end-hollywood-writers)
+ - [Hollywood’s actors are still on strike](https://www.theverge.com/2023/7/17/23798246/strike-hollywoods-writers-actors-wga-sag-aftra)
+ - [Sources: Palo Alto Networks is in negotiations to acquire Dig Security for between $300M and $400M and Talon Cyber Security for between $600M and $700M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230926/p31#a230926p31)
+ - [Nothing Launches Smartwatch for Under $70, Alongside $49 Earbuds     - CNET](https://www.cnet.com/tech/mobile/nothing-launches-smartwatch-for-under-70-alongside-49-earbuds/#ftag=CAD590a51e)
+ - [Sony says it launched an investigation after a ransomware group claimed to have breached the company&#39;s systems and threatened to sell the stolen data &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/230926/p30#a230926p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

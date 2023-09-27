@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s long-term demand for 3nm chips may be lower than expected](https://appleinsider.com/articles/23/09/27/apples-long-term-demand-for-3nm-chips-may-be-lower-than-expected?utm_medium=rss)
+ - [Filing: the US FTC revives its challenge against Microsoft&#39;s $69B acquisition of Activision Blizzard, a move which may seek to unwind the deal after it closes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230927/p21#a230927p21)
  - [Netflix Drop 01: all the news and trailers from Netflix’s animation event](https://www.theverge.com/2023/9/27/23889776/netflix-drop-01-news-trailers-castlevania-scott-pilgrim)
  - [Primal Kitchen Is Offering Buy One, Get One Collagen Mixes     - CNET](https://www.cnet.com/deals/primal-kitchen-is-offering-buy-one-get-one-collagen-mixes/#ftag=CAD590a51e)
- - [Early Prime Day Kindle Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023/)
- - [4 Best Prime Day Mattress Deals &lpar;2023&rpar;: Mattresses and Mattress Toppers](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-october-2023/)
- - [24 Epic Holiday Gifts for Dad in 2023     - CNET](https://www.cnet.com/news/gifts-for-dad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Prime Day Kindle Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

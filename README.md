@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple A17 Pro vs Snapdragon 8 Gen 2: Battle of the next-gen chips](https://www.androidauthority.com/apple-a17-pro-vs-snapdragon-8-gen-2-3361973/)
+ - [Outstanding deals from B&amp;H Photo include $1,900 off MacBook Pro kits and more](https://appleinsider.com/articles/23/09/26/outstanding-deals-from-bh-photo-include-1900-off-macbook-pro-kits-and-more?utm_medium=rss)
  - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)
  - [DJI Mavic 3 Pro Cine Review: A Movie Studio in the Sky](https://www.wired.com/review/dji-mavic-3-pro-cine/)
- - [We put our faith in Mercedes-Benz’s first-of-its-kind autonomous Drive Pilot feature](https://www.theverge.com/2023/9/27/23892154/mercedes-benz-drive-pilot-autonomous-level-3-test)
- - [How to turn regular photos into Portrait mode photos on an iPhone 15](https://www.theverge.com/23891219/apple-iphone-15-plus-pro-max-portrait-mode-photos-edit-camera)
- - [EU criticizes X over levels of disinformation found on platform](https://www.theverge.com/2023/9/27/23892145/twitter-x-elon-musk-disinformation-european-union-commission-digital-services-act)<!-- TECH:END -->
+ - [We put our faith in Mercedes-Benz’s first-of-its-kind autonomous Drive Pilot feature](https://www.theverge.com/2023/9/27/23892154/mercedes-benz-drive-pilot-autonomous-level-3-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

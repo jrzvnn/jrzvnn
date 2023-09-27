@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron reports Q4 revenue of $4.01B., vs. $3.91B est., down from $6.64B in Q4 2022, and forecasts Q1 revenue above estimates, driven by demand for memory chips &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230927/p46#a230927p46)
+ - [FedEx’s New Robot Loads Delivery Vans Like It’s Playing 3D Tetris](https://www.wired.com/story/fedexs-new-robot-loads-delivery-vans-like-its-playing-3d-tetris/)
+ - [Epic asks the US Supreme Court to review a judge&#39;s 2021 ruling that Apple&#39;s App Store policies don&#39;t violate federal antitrust laws &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230927/p45#a230927p45)
  - [Microsoft is testing a DALL-E-powered text-to-image creator in Paint for Windows 11](https://www.theverge.com/2023/9/27/23892900/microsoft-dall-e-windows-11-paint-cocreator)
- - [Google rolls out big OS update for Chromebooks, adds Material You redesign](https://www.androidauthority.com/chromebook-chrome-os-update-3369033/)
- - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
- - [The US and Japan warn that the China-backed BlackTech hacking group is breaching network devices, including Cisco&#39;s, to install backdoors on corporate networks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230927/p44#a230927p44)
- - [OpenAI says ChatGPT can now browse the internet and it&#39;s &quot;no longer limited to data before September 2021&quot;; browsing comes first to Plus and Enterprise users &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230927/p43#a230927p43)<!-- TECH:END -->
+ - [Google rolls out big OS update for Chromebooks, adds Material You redesign](https://www.androidauthority.com/chromebook-chrome-os-update-3369033/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

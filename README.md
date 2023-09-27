@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
- - 😝 [... true](http://9gag.com/gag/adPWRzN)
- - 💣 [Same software different hardware](http://9gag.com/gag/aA0LNK0)
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 👉 [How to enter an i8](http://9gag.com/gag/aPgVdng)<!-- MEMES:END -->
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [A 14-year-old girl hanged her rapist in the forest. Sweden, September 27, 2023. A 26-year-old taxi driver &lpar;immigrant&rpar; reported for rape against a 14-year-old girl, then he was found hanged in a nature reserve. Now the girl, her boyfriend, and three brothers are suspects.](http://9gag.com/gag/ap9nzEb)
+ - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young people are suing Europe’s governments over climate change](https://www.theverge.com/2023/9/27/23892294/climate-change-lawsuit-young-people-sue-europe-governments-human-rights-hearing)
- - [Apple&#39;s long-term demand for 3nm chips may be lower than expected](https://appleinsider.com/articles/23/09/27/apples-long-term-demand-for-3nm-chips-may-be-lower-than-expected?utm_medium=rss)
- - [Filing: the US FTC revives its challenge against Microsoft&#39;s $69B acquisition of Activision Blizzard, a move which may seek to unwind the deal after it closes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230927/p21#a230927p21)
- - [Netflix Drop 01: all the news and trailers from Netflix’s animation event](https://www.theverge.com/2023/9/27/23889776/netflix-drop-01-news-trailers-castlevania-scott-pilgrim)
- - [Primal Kitchen Is Offering Buy One, Get One Collagen Mixes     - CNET](https://www.cnet.com/deals/primal-kitchen-is-offering-buy-one-get-one-collagen-mixes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix is making a Devil May Cry anime](https://www.theverge.com/23889805/devil-may-cry-anime-netflix-trailer)
+ - [All the news from Meta Connect 2023](https://www.theverge.com/2023/9/27/23889627/meta-connect-quest-3-developer-conference-announcements-news)
+ - [New NVIDIA Shield TV: Release date, price, specs, rumors, and wishlist](https://www.androidauthority.com/new-nvidia-shield-tv-price-specs-release-date-3357041/)
+ - [How to watch Meta Connect — and Quest 3 — at 10AM PT / 1PM ET](https://www.theverge.com/2023/9/27/23892586/meta-connect-watch-live-how-to-stream-quest-3)
+ - [Young people are suing Europe’s governments over climate change](https://www.theverge.com/2023/9/27/23892294/climate-change-lawsuit-young-people-sue-europe-governments-human-rights-hearing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

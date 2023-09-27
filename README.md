@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Korean street burger](http://9gag.com/gag/aBdbvLD)
- - 😝 [Father Figure](http://9gag.com/gag/a1P8xWG)
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [Bro made an `executive decision`](http://9gag.com/gag/aQEDrPr)
- - 👉 [This is spark joy](http://9gag.com/gag/aRE8y7G)<!-- MEMES:END -->
+ - 😝 [Don&#39;t let any man to drag you.](http://9gag.com/gag/aA0Lvxd)
+ - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
+ - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 👉 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)<!-- MEMES:END -->
 
 ---
 

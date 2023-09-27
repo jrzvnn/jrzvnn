@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 😝 [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
  - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
+ - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
 
 ---
 

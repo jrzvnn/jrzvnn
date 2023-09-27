@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces AI-generated stickers are coming to Facebook, Instagram, WhatsApp, and Messenger, and unveils new AI-driven image editing tools for Instagram &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230927/p28#a230927p28)
- - [Meta unveils a Meta AI assistant for WhatsApp, Messenger, and Instagram, along with 28 AI characters based on celebrities like MrBeast and Charli D&#39;Amelio &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230927/p27#a230927p27)
- - [Meta&#39;s Quest 3 VR Headset Now Includes a Bigger Dose of Reality](https://www.wired.com/story/meta-connect-meta-quest-3-mixed-reality/)
- - [Hands-on with Meta Quest 3: an iterative update, but its mixed reality pass through video is less grainy than the Quest Pro and offers color, unlike the Quest 2 &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230927/p26#a230927p26)
- - [A live blog of Meta&#39;s Connect 2023 event, with details on the upcoming Quest 3 and possibly new software and other hardware &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230927/p25#a230927p25)<!-- TECH:END -->
+ - [This hidden deal on a top budget Bluetooth speaker is worth a look](https://www.androidauthority.com/sony-srs-xb13-bluetooth-speaker-deal-3368986/)
+ - [Meta teases Meta Quest for business, set to launch in October with a focus on enterprise AR applications including Microsoft 360, which is coming later in 2023 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230927/p30#a230927p30)
+ - [Mark Zuckerberg on Threads, the future of AI, and Quest 3](https://www.theverge.com/23889057/mark-zuckerberg-meta-ai-elon-musk-threads-quest-interview-decoder)
+ - [The Meta Quest 3 lets you play with virtual Legos in your real living room](https://www.theverge.com/2023/9/27/23892690/meta-quest-3-lego-bricktales-oculus)
+ - [SoundThinking, Maker of ShotSpotter, Is Buying Parts of PredPol Creator Geolitica](https://www.wired.com/story/soundthinking-geolitica-acquisition-predictive-policing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

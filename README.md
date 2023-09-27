@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta debuts the $500 Quest 3 with 30% higher resolution than the Quest 2, double the processing power, better lenses, thinner design, alongside new controllers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230927/p24#a230927p24)
+ - [The Meta Quest 3 is sharper, more powerful, and still trying to make mixed reality happen](https://www.theverge.com/2023/9/27/23890731/meta-quest-3-headset-hands-on-mixed-reality-connect)
+ - [Meta’s $499.99 Quest 3 headset is all about mixed reality and video games](https://www.theverge.com/2023/9/27/23889059/meta-quest-3-headset-mixed-reality-price-release-date)
  - [With rare exceptions, most Mac apps seem happy with Sonoma](https://appleinsider.com/articles/23/09/27/with-rare-exceptions-most-mac-apps-seem-happy-with-sonoma?utm_medium=rss)
- - [Sources: Meta&#39;s VP of infrastructure, who oversees the company&#39;s efforts to develop its own chips for AI work, is leaving at the end of September 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230927/p23#a230927p23)
- - [Get Apple&#39;s M2 Pro MacBook Pro 14-inch for $1,749 during latest flash sale](https://appleinsider.com/articles/23/09/27/get-apples-m2-pro-macbook-pro-14-inch-for-1749-during-latest-flash-sale?utm_medium=rss)
- - [Here’s your first look at Netflix’s Tomb Raider animated series](https://www.theverge.com/2023/9/27/23892308/tomb-raider-lara-croft-anime-trailer-netflix)
- - [NYC- and Tel Aviv-based Gem Security, which offers a cloud threat detection, investigation, and response service, raised a $23M Series A led by GGV Capital &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230927/p22#a230927p22)<!-- TECH:END -->
+ - [Sources: Meta&#39;s VP of infrastructure, who oversees the company&#39;s efforts to develop its own chips for AI work, is leaving at the end of September 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230927/p23#a230927p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

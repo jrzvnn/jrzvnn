@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)
+ - 😝 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
+ - 😝 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
+ - 💣 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
  - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
- - 💣 [Korean street burger](http://9gag.com/gag/aBdbvLD)
- - 😝 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
- - 👉 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)<!-- MEMES:END -->
+ - 👉 [Korean street burger](http://9gag.com/gag/aBdbvLD)<!-- MEMES:END -->
 
 ---
 

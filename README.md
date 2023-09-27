@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t let any man to drag you.](http://9gag.com/gag/aA0Lvxd)
- - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 💣 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 😝 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)
+ - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
+ - 💣 [Korean street burger](http://9gag.com/gag/aBdbvLD)
+ - 😝 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)
+ - 👉 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)<!-- MEMES:END -->
 
 ---
 

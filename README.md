@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to enter an i8](http://9gag.com/gag/aPgVdng)
- - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - 💣 [Screw you, poachers.](http://9gag.com/gag/aME0DwA)
- - 😝 [It&#39;s called fashion, sweaty.](http://9gag.com/gag/avQBXNW)
- - 👉 [Best friends...Oh wait!](http://9gag.com/gag/a2KAjyd)<!-- MEMES:END -->
+ - 😝 [Don&#39;t let any man to drag you.](http://9gag.com/gag/aA0Lvxd)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 💣 [Choose wisely, or else regret it later.](http://9gag.com/gag/a9q4DQ0)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 

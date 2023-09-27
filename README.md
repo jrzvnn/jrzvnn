@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lululemon is throwing in the towel on Mirror](https://www.theverge.com/2023/9/27/23893249/lululemon-mirror-peloton-connected-fitness)
+ - [Sony Interactive Entertainment President and CEO Jim Ryan plans to retire in March 2024, after almost 30 years with the PlayStation business &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230927/p48#a230927p48)
+ - [PlayStation leader Jim Ryan to retire after 28 years with Sony](https://www.theverge.com/2023/9/27/23893389/sony-playstation-jim-ryan-ceo-steps-down)
  - [Disney’s password-sharing crackdown has begun](https://www.theverge.com/2023/9/27/23893231/disney-plus-password-sharing-ban-canada)
- - [In a message to Canadian users, Disney+ says it updated its subscriber agreement to limit the usage of the service to a single household, effective November 1 &lpar;Matt Tamanini/The Streamable&rpar;](http://www.techmeme.com/230927/p47#a230927p47)
- - [iPhone SE 4 detailed in new anonymous leak](https://appleinsider.com/articles/23/09/27/iphone-se-4-detailed-in-new-anonymous-leak?utm_medium=rss)
- - [Counter-Strike 2 is out now](https://www.theverge.com/2023/9/27/23893279/valve-counter-strike-2-launch)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [In a message to Canadian users, Disney+ says it updated its subscriber agreement to limit the usage of the service to a single household, effective November 1 &lpar;Matt Tamanini/The Streamable&rpar;](http://www.techmeme.com/230927/p47#a230927p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

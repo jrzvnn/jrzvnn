@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [Fascinating behaviour](http://9gag.com/gag/aQEDyr2)
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
+ - 😝 [How to enter an i8](http://9gag.com/gag/aPgVdng)
+ - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
+ - 💣 [Screw you, poachers.](http://9gag.com/gag/aME0DwA)
+ - 😝 [It&#39;s called fashion, sweaty.](http://9gag.com/gag/avQBXNW)
+ - 👉 [Best friends...Oh wait!](http://9gag.com/gag/a2KAjyd)<!-- MEMES:END -->
 
 ---
 

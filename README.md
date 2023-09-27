@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Eddy Cue says Google is default search engine because it is the best option](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)
+ - [Apple&#39;s App Stores are not yet in compliance with new China law](https://appleinsider.com/articles/23/09/27/apples-app-stores-are-not-yet-in-compliance-with-new-china-law?utm_medium=rss)
  - [Indonesia plans to ban direct transactions on social media, citing their effect on traditional markets, a blow to TikTok Shop in its first and largest market &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230927/p12#a230927p12)
  - [Jony Ive may design AI hardware that will compete with Apple](https://appleinsider.com/articles/23/09/27/jony-ive-may-design-ai-hardware-that-will-compete-with-apple?utm_medium=rss)
- - [Binance says it exited its Russia business by selling it to CommEX, saying it is &quot;not compatible with Binance&#39;s compliance strategy&quot;; CommEX launched on Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230927/p11#a230927p11)
- - [Is the Physics of Time Actually Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
- - [China releases a list of 26 app stores, including from Samsung, Huawei, and Xiaomi, that comply with its new rules; Apple&#39;s App Store is not on the list &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/230927/p10#a230927p10)<!-- TECH:END -->
+ - [Binance exits its Russia business as it is not &quot;compatible with Binance&#39;s compliance strategy&quot;, and sells the business to CommEX, which launched a day earlier &lpar;Bloomberg&rpar;](http://www.techmeme.com/230927/p11#a230927p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

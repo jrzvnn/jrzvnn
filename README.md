@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only way to go](http://9gag.com/gag/aL1Or5V)
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 💣 [Russian Black Sea commander shown on video](http://9gag.com/gag/anz0WWB)
- - 😝 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
+ - 😝 [What is the worst can happen?](http://9gag.com/gag/armD9gd)
+ - 💣 [Screw you, poachers.](http://9gag.com/gag/aME0DwA)
+ - 😝 [Man EDUCATES A WOKE Professor On CULTURAL APPROPRIATION](http://9gag.com/gag/aNwG8A3)
+ - 👉 [Shut up and take my money!](http://9gag.com/gag/ajV3G8p)<!-- MEMES:END -->
 
 ---
 

@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sonoma puts the last nail in the coffin for PostScript on macOS](https://appleinsider.com/articles/23/09/27/sonoma-puts-the-last-nail-in-the-coffin-for-postscript-on-macos?utm_medium=rss)
+ - [Florida-based Lumu, which helps companies identify and isolate network intrusions, raised a $30M Series B, of which $6M is in debt, led by Forgepoint Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230927/p17#a230927p17)
  - [Jabra’s rugged Elite 8 Active earbuds are on sale for the first time](https://www.theverge.com/2023/9/27/23891031/jabra-elite-8-active-earbuds-apple-watch-ultra-2-tcl-q7-tv-deal-sale)
  - [Snap closes AR Enterprise Services, launched in March 2023 to let retailers adapt Snap&#39;s AR technology for their own websites, citing high costs and complexity &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230927/p16#a230927p16)
- - [The Wear OS renaissance era is upon us and I’m here for it](https://www.androidauthority.com/wear-os-google-smartwatch-renaissance-3368820/)
- - [iPhone 15 Pro users will pay full console price for Resident Evil 4 remake](https://www.theverge.com/2023/9/27/23892250/iphone-15-pro-resident-evil-4-remake-port-console-price)<!-- TECH:END -->
+ - [The Wear OS renaissance era is upon us and I’m here for it](https://www.androidauthority.com/wear-os-google-smartwatch-renaissance-3368820/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [This is spark joy](http://9gag.com/gag/aRE8y7G)
- - 💣 [Korean street burger](http://9gag.com/gag/aBdbvLD)
- - 😝 [For a while now.. distrust every post](http://9gag.com/gag/anz0dKL)
- - 👉 [Toot toot don&#39;t](http://9gag.com/gag/aDYqPMN)<!-- MEMES:END -->
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 😝 [The factory must grow!](http://9gag.com/gag/aBdbvqZ)
+ - 💣 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
+ - 😝 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)
+ - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
 

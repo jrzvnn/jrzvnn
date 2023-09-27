@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Offended by Everything, Ashamed of Nothing, Destroy Everything.](http://9gag.com/gag/aA0LZWd)
- - 😝 [What is the worst can happen?](http://9gag.com/gag/armD9gd)
- - 💣 [Screw you, poachers.](http://9gag.com/gag/aME0DwA)
- - 😝 [Man EDUCATES A WOKE Professor On CULTURAL APPROPRIATION](http://9gag.com/gag/aNwG8A3)
- - 👉 [Shut up and take my money!](http://9gag.com/gag/ajV3G8p)<!-- MEMES:END -->
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 💣 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)<!-- MEMES:END -->
 
 ---
 

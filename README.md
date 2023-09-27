@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)<!-- MEMES:END -->
+ - 😝 [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 💣 [Russian Black Sea commander shown on video](http://9gag.com/gag/anz0WWB)
+ - 😝 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 

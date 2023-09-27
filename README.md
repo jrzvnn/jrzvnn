@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Staffers and allies of India&#39;s BJP detail how they crafted posts for a vast network of WhatsApp groups aimed at exploiting the fears of the Hindu majority &lpar;Gerry Shih/Washington Post&rpar;](http://www.techmeme.com/230927/p3#a230927p3)
  - [Sources: China&#39;s $41B chip fund is struggling to raise capital from local governments and state-owned enterprises, which are grappling with an economic slowdown &lpar;Financial Times&rpar;](http://www.techmeme.com/230927/p2#a230927p2)
  - [Sources and new documents detail how Facebook execs repeatedly shied away from punishing the BJP or associated accounts in India for hate speech and propaganda &lpar;Washington Post&rpar;](http://www.techmeme.com/230927/p1#a230927p1)
- - [French billionaire Xavier Niel plans to invest &amp;euro;200M in AI projects, including an Nvidia cloud supercomputer, a research lab in Paris, and an annual conference &lpar;Financial Times&rpar;](http://www.techmeme.com/230926/p33#a230926p33)<!-- TECH:END -->
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

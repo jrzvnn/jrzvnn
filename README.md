@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will OpenAI build its own AI smartphone?](https://www.androidauthority.com/openai-ai-smartphone-3368822/)
+ - [The Latest Way to Cash In on TikTok? Going Live 24/7](https://www.wired.com/story/tiktok-live-247-money/)
+ - [AI Hurricane Predictions Are Storming the World of Weather Forecasting](https://www.wired.com/story/ai-hurricane-predictions-are-storming-the-world-of-weather-forecasting/)
  - [You might get free Pixel Buds Pro if you pre-order the Pixel 8](https://www.androidauthority.com/you-might-get-free-pixel-buds-pro-if-you-pre-order-the-pixel-8-3368814/)
- - [Researchers say X removed the ability for users to report election misinformation, a feature launched in the US, Australia, and some other countries in 2021 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230927/p13#a230927p13)
- - [Apple&#39;s Eddy Cue says Google is default search engine because it is the best option](https://appleinsider.com/articles/23/09/26/apples-eddy-cue-says-google-is-default-search-engine-because-it-is-the-best?utm_medium=rss)
- - [Apple&#39;s App Stores are not yet in compliance with new China law](https://appleinsider.com/articles/23/09/27/apples-app-stores-are-not-yet-in-compliance-with-new-china-law?utm_medium=rss)
- - [Indonesia plans to ban direct transactions on social media, citing their effect on traditional markets, a blow to TikTok Shop in its first and largest market &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230927/p12#a230927p12)<!-- TECH:END -->
+ - [Researchers say X removed the ability for users to report election misinformation, a feature launched in the US, Australia, and some other countries in 2021 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230927/p13#a230927p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

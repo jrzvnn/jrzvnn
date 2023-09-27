@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG Gram 17 Pro review: a discrete GPU, lightweight at 3.2 lbs, a 144Hz screen, and ample ports, but a flimsy chassis and not the best Nvidia GPU for the price &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230927/p42#a230927p42)
+ - [The Meta AI Chatbot Is Mark Zuckerberg&#39;s Answer to ChatGPT](https://www.wired.com/story/meta-ai-chatbot-is-mark-zuckerbergs-answer-to-chatgpt/)
  - [Epic takes its &#39;Fortnite&#39; fight with Apple to the Supreme Court](https://appleinsider.com/articles/23/09/27/epic-takes-its-fortnite-fight-with-apple-to-the-supreme-court?utm_medium=rss)
- - [B2B payments startup Slope, which in April debuted SlopeGPT as the first GPT-powered payments risk model, raised $30M led by Union Square; Sam Altman invested &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230927/p41#a230927p41)
- - [ChromeOS 117 rolls out with a new look, plus better control over charging and cameras](https://www.theverge.com/2023/9/27/23892651/chromeos-117-stable-release-quick-settings-notifications-adaptive-charging)
- - [Qualcomm unveils the Snapdragon XR2 Gen 2 for XR devices, with 2.5x GPU and 8x AI performance compared to Gen 1, and the Snapdragon AR1 Gen 1 for smart glasses &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230927/p40#a230927p40)
- - [Mark Zuckerberg says that Xbox Cloud Gaming is coming to the Quest 3 in December, letting users play hundreds of titles on &quot;a massive screen, anywhere you go&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/230927/p38#a230927p38)<!-- TECH:END -->
+ - [Best Portable Air Conditioner Deals: Up to $275 Off Costway, Whynter and More     - CNET](https://www.cnet.com/deals/best-portable-air-conditioner-deals/#ftag=CAD590a51e)
+ - [B2B payments startup Slope, which in April debuted SlopeGPT as the first GPT-powered payments risk model, raised $30M led by Union Square; Sam Altman invested &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230927/p41#a230927p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

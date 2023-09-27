@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm unveils the Snapdragon XR2 Gen 2 for XR devices, with 2.5x GPU and 8x AI performance compared to Gen 1, and the Snapdragon AR1 Gen 1 for smart glasses &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230927/p40#a230927p40)
+ - [Mark Zuckerberg says that Xbox Cloud Gaming is coming to the Quest 3 in December, letting users play hundreds of titles on &quot;a massive screen, anywhere you go&quot; &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/230927/p38#a230927p38)
+ - [Kraken plans to offer US-listed stocks and ETFs trading, a source says through a new division called Kraken Securities in the US and UK, targeting a 2024 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/230927/p39#a230927p39)
  - [US v. Google: Microsoft says it&#39;s been trying for years to displace Google as the iPhone&#39;s default search engine, but Apple never seriously considered switching &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230927/p37#a230927p37)
- - [DOJ sues eBay, saying it broke environmental laws by allowing the sale of harmful products including 343K+ &quot;defeat&quot; devices that skirt vehicle emission controls &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230927/p36#a230927p36)
- - [Hollywood Writers Reached an AI Deal That Will Rewrite History](https://www.wired.com/story/us-writers-strike-ai-provisions-precedents/)
- - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
- - [Epic Games asks the Supreme Court to hear its case against Apple’s App Store rules](https://www.theverge.com/2023/9/27/23892853/epic-games-apple-app-store-supreme-court-antitrust-trial)<!-- TECH:END -->
+ - [DOJ sues eBay, saying it broke environmental laws by allowing the sale of harmful products including 343K+ &quot;defeat&quot; devices that skirt vehicle emission controls &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230927/p36#a230927p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

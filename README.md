@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU criticizes X over levels of disinformation found on platform](https://www.theverge.com/2023/9/27/23892145/twitter-x-elon-musk-disinformation-european-union-commission-digital-services-act)
- - [Don&#39;t buy a looted iPhone, it will never work](https://appleinsider.com/articles/20/06/03/dont-buy-a-looted-iphone-it-will-never-work?utm_medium=rss)
- - [Will OpenAI build its own AI smartphone?](https://www.androidauthority.com/openai-ai-smartphone-3368822/)
- - [The Latest Way to Cash In on TikTok? Going Live 24/7](https://www.wired.com/story/tiktok-live-247-money/)
- - [AI Hurricane Predictions Are Storming the World of Weather Forecasting](https://www.wired.com/story/ai-hurricane-predictions-are-storming-the-world-of-weather-forecasting/)<!-- TECH:END -->
+ - [iPhone 15 Pro Max review: Come for 5x optical zoom, stay for USB-C](https://appleinsider.com/articles/23/09/27/iphone-15-pro-max-review-come-for-5x-optical-zoom-stay-for-usb-c?utm_medium=rss)
+ - [DJI Mavic 3 Pro Cine Review: A Movie Studio in the Sky](https://www.wired.com/review/dji-mavic-3-pro-cine/)
+ - [We put our faith in Mercedes-Benz’s first-of-its-kind autonomous Drive Pilot feature](https://www.theverge.com/2023/9/27/23892154/mercedes-benz-drive-pilot-autonomous-level-3-test)
+ - [How to turn regular photos into Portrait mode photos on an iPhone 15](https://www.theverge.com/23891219/apple-iphone-15-plus-pro-max-portrait-mode-photos-edit-camera)
+ - [EU criticizes X over levels of disinformation found on platform](https://www.theverge.com/2023/9/27/23892145/twitter-x-elon-musk-disinformation-european-union-commission-digital-services-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

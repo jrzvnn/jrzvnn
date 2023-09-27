@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US and Japan warn that the China-backed BlackTech hacking group is breaching network devices, including Cisco&#39;s, to install backdoors on corporate networks &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230927/p44#a230927p44)
  - [OpenAI says ChatGPT can now browse the internet and it&#39;s &quot;no longer limited to data before September 2021&quot;; browsing comes first to Plus and Enterprise users &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230927/p43#a230927p43)
  - [EA delists old FIFA titles ahead of its new soccer game’s debut](https://www.theverge.com/2023/9/27/23892905/fifa-23-delisted-ea-sports-fc-24)
  - [Fortnite V-bucks are about to get more expensive](https://www.theverge.com/2023/9/27/23893112/fortnite-v-bucks-pricing-adjustment)
- - [LG Gram 17 Pro review: a discrete GPU, lightweight at 3.2 lbs, a 144Hz screen, and ample ports, but a flimsy chassis and not the best Nvidia GPU for the price &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230927/p42#a230927p42)
- - [The Meta AI Chatbot Is Mark Zuckerberg&#39;s Answer to ChatGPT](https://www.wired.com/story/meta-ai-chatbot-is-mark-zuckerbergs-answer-to-chatgpt/)<!-- TECH:END -->
+ - [LG Gram 17 Pro review: a discrete GPU, lightweight at 3.2 lbs, a 144Hz screen, and ample ports, but a flimsy chassis and not the best Nvidia GPU for the price &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230927/p42#a230927p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

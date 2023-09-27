@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
+ - 😝 [Hop hop](http://9gag.com/gag/avQBXPd)
+ - 😝 [The factory must grow!](http://9gag.com/gag/aBdbvqZ)
+ - 💣 [Only way to go](http://9gag.com/gag/aL1Or5V)
  - 😝 [Nice little life hack\u2026 use it responsibly\u2026 and remember a power like this can not be learned from a Jedi.](http://9gag.com/gag/aqeVA7M)
- - 👉 [Stick the D in crazy](http://9gag.com/gag/ap9nVK5)<!-- MEMES:END -->
+ - 👉 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
 
 ---
 

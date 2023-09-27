@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google antitrust trial is opening back up... a little](https://www.theverge.com/2023/9/27/23892215/google-search-antitrust-trial-documents-public-again-judge-mehta-rules)
- - [Sonoma puts the last nail in the coffin for PostScript on macOS](https://appleinsider.com/articles/23/09/27/sonoma-puts-the-last-nail-in-the-coffin-for-postscript-on-macos?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;September 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-sep-27-2023-3367807/)
- - [Florida-based Lumu, which helps companies identify and isolate network intrusions, raised a $30M Series B, of which $6M is in debt, led by Forgepoint Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230927/p17#a230927p17)
- - [Jabra’s rugged Elite 8 Active earbuds are on sale for the first time](https://www.theverge.com/2023/9/27/23891031/jabra-elite-8-active-earbuds-apple-watch-ultra-2-tcl-q7-tv-deal-sale)<!-- TECH:END -->
+ - [Immersive Tech Obscures Reality. AI Will Threaten It](https://www.wired.com/story/immersive-technology-artificial-intelligence-disinformation/)
+ - [Daily deals Sept. 27: $999 high-end Mac mini, $1,099 24&quot; iMac, $42 off Google Nest Thermostat, more](https://appleinsider.com/articles/23/09/27/daily-deals-sept-27-999-high-end-mac-mini-1099-24-imac-42-off-google-nest-thermostat-more?utm_medium=rss)
+ - [How to watch the second Republican presidential debate](https://www.theverge.com/2023/9/27/23892298/second-gop-presidential-debate-watch-how-to-date-time-streaming)
+ - [Warner Bros. Discovery launches CNN Max in an open beta in the US, offering a 24/7 live news streaming feed on the Max streaming service &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/230927/p18#a230927p18)
+ - [The Google antitrust trial is opening back up... a little](https://www.theverge.com/2023/9/27/23892215/google-search-antitrust-trial-documents-public-again-judge-mehta-rules)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

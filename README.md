@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: dozens of VC firms, including Bain Capital, Mayfield, and IVP, are working with the US Commerce Department to develop &quot;responsible AI&quot; guidelines &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230927/p20#a230927p20)
  - [MOVEit cyberattacks: keeping tabs on the biggest data theft of 2023](https://www.theverge.com/23892245/moveit-cyberattacks-clop-ransomware-government-business)
  - [Amazon CEO Andy Jassy confirms that former Microsoft CPO Panos Panay will be joining Amazon at the end of October to lead its devices and services division &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230927/p19#a230927p19)
  - [LG Gram Pro 17 review: a Gram with more gusto](https://www.theverge.com/23879367/lg-gram-pro-17-inch-2023-rtx-3050-review)
- - [Panos Panay is leaving Microsoft for Amazon](https://www.theverge.com/2023/9/27/23892462/amazon-hires-panos-panay-microsoft)
- - [Yale introduces Yale Assure Lock 2 Touch and Assure Lock 2 Plus with Apple Home Key support](https://appleinsider.com/articles/23/09/27/yale-introduces-yale-assure-lock-2-touch-and-assure-lock-2-plus-with-apple-home-keys-support?utm_medium=rss)<!-- TECH:END -->
+ - [Panos Panay is leaving Microsoft for Amazon](https://www.theverge.com/2023/9/27/23892462/amazon-hires-panos-panay-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

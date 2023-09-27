@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 💣 [Man EDUCATES A WOKE Professor On CULTURAL APPROPRIATION](http://9gag.com/gag/aNwG8A3)
+ - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 😝 [Only Fans-Visa](http://9gag.com/gag/a04DWoX)
+ - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
  - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 👉 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)<!-- MEMES:END -->
+ - 👉 [Random girl showing her home in Venezuela.](http://9gag.com/gag/aBdb4dz)<!-- MEMES:END -->
 
 ---
 

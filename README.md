@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Ray-Ban Meta smart glasses: classic look, better camera makes a big difference, some audio leakage, and a promising tool for content creators &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230927/p34#a230927p34)
  - [Artifact is becoming Twitter, too](https://www.theverge.com/2023/9/27/23887416/artifact-mike-krieger-code-2023-posts)
  - [Apple releases macOS Sonoma 14.1 developer beta 1](https://appleinsider.com/articles/23/09/27/apple-releases-macos-sonoma-141-developer-beta-1?utm_medium=rss)
  - [Apple seeds first iOS 17.1, iPadOS 17.1 developer betas](https://appleinsider.com/articles/23/09/27/apple-seeds-first-ios-171-ipados-171-developer-betas?utm_medium=rss)
- - [Demand for iPhone 15 stronger than iPhone 14, Pro models about the same](https://appleinsider.com/articles/23/09/27/demand-for-iphone-15-stronger-than-iphone-14-pro-models-about-the-same?utm_medium=rss)
- - [Meta announces the $299 Ray-Ban Meta smart glasses, featuring a 12MP camera, speakers, five mics, Snapdragon AR1 Gen 1 processor, and more, on sale October 17 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230927/p33#a230927p33)<!-- TECH:END -->
+ - [Demand for iPhone 15 stronger than iPhone 14, Pro models about the same](https://appleinsider.com/articles/23/09/27/demand-for-iphone-15-stronger-than-iphone-14-pro-models-about-the-same?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

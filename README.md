@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)
  - 😝 [This is a 9gag ad. 200% roast me](http://9gag.com/gag/a1P8EAD)
+ - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
  - 😝 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
- - 💣 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [Mostly peaceful night shopping](http://9gag.com/gag/a6qe3ye)
- - 👉 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)<!-- MEMES:END -->
+ - 👉 [Play stupid game...](http://9gag.com/gag/aeQqd3B)<!-- MEMES:END -->
 
 ---
 

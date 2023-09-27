@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC- and Tel Aviv-based Gem Security, which offers a cloud threat detection, investigation, and response service, raised a $23M Series A led by GGV Capital &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230927/p22#a230927p22)
  - [Netflix is making a Devil May Cry anime](https://www.theverge.com/23889805/devil-may-cry-anime-netflix-trailer)
  - [All the news from Meta Connect 2023](https://www.theverge.com/2023/9/27/23889627/meta-connect-quest-3-developer-conference-announcements-news)
  - [New NVIDIA Shield TV: Release date, price, specs, rumors, and wishlist](https://www.androidauthority.com/new-nvidia-shield-tv-price-specs-release-date-3357041/)
- - [How to watch Meta Connect — and Quest 3 — at 10AM PT / 1PM ET](https://www.theverge.com/2023/9/27/23892586/meta-connect-watch-live-how-to-stream-quest-3)
- - [Young people are suing Europe’s governments over climate change](https://www.theverge.com/2023/9/27/23892294/climate-change-lawsuit-young-people-sue-europe-governments-human-rights-hearing)<!-- TECH:END -->
+ - [How to watch Meta Connect — and Quest 3 — at 10AM PT / 1PM ET](https://www.theverge.com/2023/9/27/23892586/meta-connect-watch-live-how-to-stream-quest-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

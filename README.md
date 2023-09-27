@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yale introduces Yale Assure Lock 2 Touch and Assure Lock 2 Plus with Apple Home Key support](https://appleinsider.com/articles/23/09/27/yale-introduces-yale-assure-lock-2-touch-and-assure-lock-2-plus-with-apple-home-keys-support?utm_medium=rss)
+ - [Samsung delays One UI 6 beta for the Galaxy Z Fold 5 and Flip 5](https://www.androidauthority.com/one-ui-6-beta-delay-fold-5-flip-5-3368898/)
  - [Immersive Tech Obscures Reality. AI Will Threaten It](https://www.wired.com/story/immersive-technology-artificial-intelligence-disinformation/)
  - [Daily deals Sept. 27: $999 high-end Mac mini, $1,099 24&quot; iMac, $42 off Google Nest Thermostat, more](https://appleinsider.com/articles/23/09/27/daily-deals-sept-27-999-high-end-mac-mini-1099-24-imac-42-off-google-nest-thermostat-more?utm_medium=rss)
- - [How to watch the second Republican presidential debate](https://www.theverge.com/2023/9/27/23892298/second-gop-presidential-debate-watch-how-to-date-time-streaming)
- - [Warner Bros. Discovery launches CNN Max in an open beta in the US, offering a 24/7 live news streaming feed on the Max streaming service &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/230927/p18#a230927p18)
- - [The Google antitrust trial is opening back up... a little](https://www.theverge.com/2023/9/27/23892215/google-search-antitrust-trial-documents-public-again-judge-mehta-rules)<!-- TECH:END -->
+ - [How to watch the second Republican presidential debate](https://www.theverge.com/2023/9/27/23892298/second-gop-presidential-debate-watch-how-to-date-time-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

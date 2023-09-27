@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta debuts the $500 Quest 3 with 30% higher resolution than the Quest 2, double the processing power, better lenses, thinner design, alongside new controllers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230927/p24#a230927p24)
- - [The Meta Quest 3 is sharper, more powerful, and still trying to make mixed reality happen](https://www.theverge.com/2023/9/27/23890731/meta-quest-3-headset-hands-on-mixed-reality-connect)
- - [Meta’s $499.99 Quest 3 headset is all about mixed reality and video games](https://www.theverge.com/2023/9/27/23889059/meta-quest-3-headset-mixed-reality-price-release-date)
- - [With rare exceptions, most Mac apps seem happy with Sonoma](https://appleinsider.com/articles/23/09/27/with-rare-exceptions-most-mac-apps-seem-happy-with-sonoma?utm_medium=rss)
- - [Sources: Meta&#39;s VP of infrastructure, who oversees the company&#39;s efforts to develop its own chips for AI work, is leaving at the end of September 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/230927/p23#a230927p23)<!-- TECH:END -->
+ - [Hands-on with Meta Quest 3: an iterative update, but its mixed reality pass through video is less grainy than the Quest Pro and in color, unlike the Quest 2 &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230927/p26#a230927p26)
+ - [A live blog of Meta&#39;s Connect 2023 event, with details on the upcoming Quest 3 and possibly new software and other hardware &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/230927/p25#a230927p25)
+ - [Facebook and Instagram will soon get a slew of AI-powered creator tools](https://www.theverge.com/2023/9/27/23892231/meta-generative-ai-image-editing-stickers-instagram-facebook-whatsapp)
+ - [Meta is putting AI chatbots everywhere](https://www.theverge.com/2023/9/27/23891128/meta-ai-assistant-characters-whatsapp-instagram-connect)
+ - [Meta debuts the $500 Quest 3 with 30% higher resolution than the Quest 2, double the processing power, better lenses, thinner design, alongside new controllers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230927/p24#a230927p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

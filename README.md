@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Piece be like](http://9gag.com/gag/ay2mP3y)
- - 😝 [I was there](http://9gag.com/gag/aEqjN7K)
- - 💣 [The late David McCallum was responsible for an iconic sample from hip hop history.](http://9gag.com/gag/a5X9D7q)
- - 😝 [Borderline a compliment](http://9gag.com/gag/a5X9xgE)
- - 👉 [We&#39;ve been trying to reach you about your car&#39;s extended warranty](http://9gag.com/gag/aPgVnnV)<!-- MEMES:END -->
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 👉 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)<!-- MEMES:END -->
 
 ---
 

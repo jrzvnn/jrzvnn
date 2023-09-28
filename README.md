@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raspberry Pi 5 launches with 64-bit quad-core Arm Cortex-A76 processor, up to 8GB of RAM, two 4K HDMI ports with HDR, available in October for $60 for 4GB model &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p9#a230928p9)
  - [Counterpoint: Pixel had a record 12% market share in Japan in Q2 2023, up from 2% YoY, while the iPhone&#39;s share fell from 58% to 46% during the same period &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230928/p8#a230928p8)
  - [At the center of Google&#39;s antitrust trial are a &quot;remarkable&quot; number of deleted employee chats, as chat backups show employees discussing going &quot;off the record&quot; &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230928/p7#a230928p7)
  - [The Raspberry Pi 5 is finally here](https://www.theverge.com/2023/9/28/23889238/raspberry-pi-5-specs-availability-pricing)
- - [Disney Plus password sharing restrictions are here!](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-canada-3369214/)
- - [SoundThinking, which makes the sensor-based gunshot-detection system ShotSpotter, acquires parts of Geolitica, which built the predictive policing tool PredPol &lpar;Wired&rpar;](http://www.techmeme.com/230928/p6#a230928p6)<!-- TECH:END -->
+ - [Disney Plus password sharing restrictions are here!](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-canada-3369214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

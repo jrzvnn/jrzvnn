@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Indian fantasy sports and online gaming startups including Dream11 receive notices from tax authorities demanding hundreds of millions of dollars in back taxes &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230928/p5#a230928p5)
  - [ChatGPT can now browse the internet like Google Bard](https://www.androidauthority.com/chatgpt-browse-internet-3369204/)
  - [X CEO Linda Yaccarino claims 90% of the top 100 advertisers &quot;returned to the platform in the past 12 weeks alone&quot; and that X will be profitable by early 2024 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230928/p4#a230928p4)
- - [Nord Security, the Lithuania-based startup behind NordVPN, raised $100M led by Warburg Pincus at a $3B valuation, up from $1.6B valuation in April 2022 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230928/p3#a230928p3)
- - [A US Senate staffer says officials told lawmakers that Chinese hackers who breached Microsoft&#39;s email system stole 60K emails from ten State Department accounts &lpar;Reuters&rpar;](http://www.techmeme.com/230928/p2#a230928p2)<!-- TECH:END -->
+ - [Best Flip Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-flip-phone-of-2023/#ftag=CAD590a51e)
+ - [Nord Security, the Lithuania-based startup behind NordVPN, raised $100M led by Warburg Pincus at a $3B valuation, up from $1.6B valuation in April 2022 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230928/p3#a230928p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

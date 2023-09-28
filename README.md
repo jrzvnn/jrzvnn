@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro review: Best balance of performance to price yet in an iPhone](https://appleinsider.com/articles/23/09/28/iphone-15-pro-review-best-balance-of-performance-to-price-yet-in-an-iphone?utm_medium=rss)
+ - [IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)
+ - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
  - [Music licensing marketplace Songtradr acquires Bandcamp and says it will keep running Bandcamp as a marketplace and community with an artist-first revenue share &lpar;Songtradr&rpar;](http://www.techmeme.com/230928/p29#a230928p29)
- - [Trump and the GOP are trying to drive a wedge between autoworkers and EVs](https://www.theverge.com/2023/9/28/23894243/trump-electric-vehicle-uaw-union-strike-biden-election)
- - [Medium will aim to block AI companies from training on posts published on Medium until the company gets concessions about credit, compensation, and consent &lpar;Tony Stubblebine/The Medium Blog&rpar;](http://www.techmeme.com/230928/p28#a230928p28)
- - [How to fix a blank Weather complication on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-fix-a-blank-weather-complication-on-apple-watch?utm_medium=rss)
- - [The Samsung Galaxy Buds 2 Pro price is slashed to just $174.99](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-deals-3369366/)<!-- TECH:END -->
+ - [Trump and the GOP are trying to drive a wedge between autoworkers and EVs](https://www.theverge.com/2023/9/28/23894243/trump-electric-vehicle-uaw-union-strike-biden-election)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

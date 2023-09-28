@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
+ - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 💣 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
  - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
- - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
+ - 👉 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude fell for the oldest trick in poker and called security](http://9gag.com/gag/amAOyp4)
- - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 💣 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
- - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
+ - 😝 [Typical Liberal](http://9gag.com/gag/aNwGGx6)
+ - 😝 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
+ - 💣 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - 😝 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
+ - 👉 [RiP Sir, Dumbledoor. GBNF](http://9gag.com/gag/a1P8nY6)<!-- MEMES:END -->
 
 ---
 

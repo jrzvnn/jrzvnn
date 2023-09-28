@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)
- - [Apple researching how to make smart clothes, bags, and furniture](https://appleinsider.com/articles/23/09/28/apple-researching-how-to-make-smart-clothes-bags-and-furniture?utm_medium=rss)
- - [Hands on with all the changes in the first beta of iOS 17.1](https://appleinsider.com/articles/23/09/28/hands-on-with-all-the-changes-in-the-first-beta-of-ios-171?utm_medium=rss)
- - [Reddit removes the ability to opt out of ad personalization based on Reddit activity but says users will still have opt-out controls in &quot;select countries&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230928/p15#a230928p15)
- - [Report: Bank for International Settlements and French, Swiss, and Singaporean central banks successfully tested cross-border wholesale CBDC trading using DeFi &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230928/p14#a230928p14)<!-- TECH:END -->
+ - [Barnes and Noble Nook Glowlight 4 Plus Review: Waterproof E-Reader With Buttons](https://www.wired.com/review/nook-glowlight-4-plus/)
+ - [The FTX trial is bigger than Sam Bankman-Fried](https://www.theverge.com/2023/9/28/23893269/ftx-sam-bankman-fried-trial-evidence-crypto)
+ - [Philips Hue will soon require an account to use its app — here’s what that means](https://www.theverge.com/2023/9/28/23892761/philips-hue-app-account-changes)
+ - [ChatGPT restrictions: How to bypass them for an uncensored chatbot](https://www.androidauthority.com/bypass-chatgpt-restrictions-3368272/)
+ - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple researching how to make smart clothes, bags, and furniture](https://appleinsider.com/articles/23/09/28/apple-researching-how-to-make-smart-clothes-bags-and-furniture?utm_medium=rss)
  - [Hands on with all the changes in the first beta of iOS 17.1](https://appleinsider.com/articles/23/09/28/hands-on-with-all-the-changes-in-the-first-beta-of-ios-171?utm_medium=rss)
  - [Reddit removes the ability to opt out of ad personalization based on Reddit activity but says users will still have opt-out controls in &quot;select countries&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230928/p15#a230928p15)
  - [Report: Bank for International Settlements and French, Swiss, and Singaporean central banks successfully tested cross-border wholesale CBDC trading using DeFi &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230928/p14#a230928p14)
- - [DNA Drives Help Identify Missing People. It&#39;s a Privacy Nightmare](https://www.wired.com/story/dna-drives-help-identify-missing-people-its-a-privacy-nightmare/)
- - [Amazon Could Flag AI Books. AI-Detection Startups Say It Just Doesn’t](https://www.wired.com/story/amazon-flag-ai-generated-books/)<!-- TECH:END -->
+ - [DNA Drives Help Identify Missing People. It&#39;s a Privacy Nightmare](https://www.wired.com/story/dna-drives-help-identify-missing-people-its-a-privacy-nightmare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 💣 [I hit that](http://9gag.com/gag/awZ9Pd4)
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
  - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
+ - 👉 [The more you know...](http://9gag.com/gag/abvLdGO)<!-- MEMES:END -->
 
 ---
 

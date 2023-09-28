@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bring sexy back](http://9gag.com/gag/aA0LLXg)
- - 😝 [Woof Woof](http://9gag.com/gag/aWGeeYZ)
- - 💣 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
- - 😝 [Make cash now](http://9gag.com/gag/aVb98DM)
- - 👉 [Karaoke session with your equally weird friend](http://9gag.com/gag/aQEDDyK)<!-- MEMES:END -->
+ - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
+ - 😝 [I wonder why?](http://9gag.com/gag/aeQqPym)
+ - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 

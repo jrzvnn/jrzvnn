@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus password sharing restrictions are here!](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-canada-3369214/)
+ - [SoundThinking, which makes the sensor-based gunshot-detection system ShotSpotter, acquires parts of Geolitica, which built the predictive policing tool PredPol &lpar;Wired&rpar;](http://www.techmeme.com/230928/p6#a230928p6)
  - [Indian fantasy sports and online gaming startups including Dream11 receive notices from tax authorities demanding hundreds of millions of dollars in back taxes &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230928/p5#a230928p5)
  - [ChatGPT can now browse the internet like Google Bard](https://www.androidauthority.com/chatgpt-browse-internet-3369204/)
- - [X CEO Linda Yaccarino claims 90% of the top 100 advertisers &quot;returned to the platform in the past 12 weeks alone&quot; and that X will be profitable by early 2024 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230928/p4#a230928p4)
- - [Best Flip Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-flip-phone-of-2023/#ftag=CAD590a51e)
- - [Nord Security, the Lithuania-based startup behind NordVPN, raised $100M led by Warburg Pincus at a $3B valuation, up from $1.6B valuation in April 2022 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230928/p3#a230928p3)<!-- TECH:END -->
+ - [X CEO Linda Yaccarino claims 90% of the top 100 advertisers &quot;returned to the platform in the past 12 weeks alone&quot; and that X will be profitable by early 2024 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230928/p4#a230928p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

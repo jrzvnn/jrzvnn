@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
  - 💣 [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 😝 [What are the odds?](http://9gag.com/gag/a8qvQeO)
- - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
+ - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
 
 ---
 

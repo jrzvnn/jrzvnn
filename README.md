@@ -155,9 +155,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive layoffs expected to hit Epic Games](https://www.theverge.com/2023/9/28/23894266/epic-games-layoffs-fortnite-unreal-engine)
+ - [Epic Games cuts around 830 jobs](https://www.theverge.com/2023/9/28/23894266/epic-games-layoffs-fortnite-unreal-engine)
  - [Google patches a zero-day in Chrome that was exploited by a commercial spyware vendor, just two days after it was reported by Google&#39;s Threat Analysis Group &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230928/p25#a230928p25)
- - [Apple wants Supreme Court to reverse Epic&#39;s only victory](https://appleinsider.com/articles/23/09/28/apple-wants-supreme-court-to-reverse-epics-only-victory?utm_medium=rss)
+ - [Apple wants Supreme Court to reverse Epic&#39;s only &#39;Fortnite&#39; antitrust victory](https://appleinsider.com/articles/23/09/28/apple-wants-supreme-court-to-reverse-epics-only-victory?utm_medium=rss)
  - [SpaceX inks first Space Force deal for government-focused Starshield satellite network](https://www.theverge.com/2023/9/28/23894239/spacex-starshield-satellite-network-space-force-pentagon-deal)
  - [Henry Cavill is superspy &#39;Argylle,&#39; in an Apple TV+ film set to hit theaters in February](https://appleinsider.com/articles/23/09/28/henry-cavill-is-superspy-argylle-in-an-apple-tv-film-set-to-hit-theaters-in-february?utm_medium=rss)<!-- TECH:END -->
 

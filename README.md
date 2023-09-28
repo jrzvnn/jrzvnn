@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Videos show Galaxy S23 FE in the wild, could be a fingerprint magnet](https://www.androidauthority.com/samsung-galaxy-s23-real-world-videos-3364228/)
  - [Details emerge on Jony Ive and OpenAI’s plan to build the ‘iPhone of artificial intelligence’](https://www.theverge.com/2023/9/28/23893939/jony-ive-openai-sam-altman-iphone-of-artificial-intelligence-device)
  - [The cheapest countries to buy a Samsung Galaxy Z Fold 5](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-z-fold-5-3369115/)
- - [WhatsApp is getting Meta’s new AI Assistant to answer your questions and more](https://www.androidauthority.com/whatsapp-meta-new-ai-assistant-3369228/)<!-- TECH:END -->
+ - [Thursday Night Football: How to Watch, Stream Lions vs. Packers Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-lions-vs-packers-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

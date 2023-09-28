@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
- - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
- - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
+ - 💣 [I wonder why?](http://9gag.com/gag/aeQqPym)
+ - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
+ - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
 
 ---
 

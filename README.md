@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
- - [Apple’s Argylle looks like the ultimate power clash in new trailer](https://www.theverge.com/23894072/apple-argylle-trailer-henry-cavill)
- - [Apple Wallet adds exclusive UK features with signs of more to come](https://appleinsider.com/articles/23/09/28/apple-wallet-adds-exclusive-uk-features-with-signs-of-more-to-come?utm_medium=rss)
- - [Apple asks SCOTUS to revisit the 2021 Epic ruling regarding alternate IAP payment options, a day after Epic separately asked SCOTUS to take up the case &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230928/p20#a230928p20)
- - [SanDisk&#39;s Extreme Pro 1TB Rugged SSD Is Just $110, Saving $68 Today Only     - CNET](https://www.cnet.com/deals/sandisks-extreme-pro-1tb-ssd-is-just-110/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung may be readying a new fitness band after three years](https://www.androidauthority.com/samsung-fitness-tracker-3369318/)
+ - [What is HDMI ARC and HDMI eARC, and how to use them on your TV](https://www.androidauthority.com/what-is-hdmi-arc-3368940/)
+ - [Source: Epic Games announced in a staff memo that it is laying off about 900 employees or 16% of its workforce &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230928/p22#a230928p22)
+ - [The new Charge 6 is proof that Google can improve Fitbit, not just ruin it](https://www.androidauthority.com/fitbit-charge-6-google-improvement-3369258/)
+ - [New York City-based Transfr, which provides businesses with VR training tools, raised a $40M Series C led by ABS Capital, bringing its total funding to $90M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230928/p21#a230928p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 😝 [Desert Santa.](http://9gag.com/gag/a04DW6v)
- - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
 
 ---
 

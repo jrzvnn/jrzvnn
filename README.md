@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reportedly pitched Apple on buying Bing to no avail](https://www.theverge.com/2023/9/28/23895055/microsoft-apple-bing-sale-rumor-google-default)
  - [Microsoft entered negotiations to sell Bing to Apple in 2020](https://appleinsider.com/articles/23/09/28/microsoft-entered-negotiations-to-sell-bing-to-apple-in-2020?utm_medium=rss)
  - [Hermes Apple Watch bands review: No leather in these new stylish strap options](https://appleinsider.com/articles/23/09/28/hermes-apple-watch-bands-review-no-leather-in-these-new-stylish-strap-options?utm_medium=rss)
  - [Sources: Microsoft discussed selling Bing to Apple around 2020, a deal that would have replaced Google as the default search engine on Apple&#39;s devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p38#a230928p38)
- - [tvOS 17: Release date, features, and compatibility](https://www.androidauthority.com/apple-tvos-17-3362182/)
- - [iPadOS 17: Release date, features, and compatibility](https://www.androidauthority.com/ipados-17-3362101/)<!-- TECH:END -->
+ - [tvOS 17: Release date, features, and compatibility](https://www.androidauthority.com/apple-tvos-17-3362182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

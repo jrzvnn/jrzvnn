@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 👉 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)<!-- MEMES:END -->
 
 ---
 

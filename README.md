@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple Pay antitrust lawsuit accuses Apple of coercing consumers, excessive fees](https://appleinsider.com/articles/23/09/28/apple-pay-antitrust-lawsuit-accuses-apple-of-coercing-consumers-excessive-fees?utm_medium=rss)
  - [Adobe makes its web-based Photoshop, including Firefly-powered features, generally available for paid plans, and has no &quot;immediate plans&quot; for a freemium plan &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230927/p52#a230927p52)
- - [SpaceX receives its first contract from the US Space Force, valued up to $70M, to provide customized satellite communications for the military under Starshield &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)
+ - [SpaceX gets its first US Space Force contract, valued at up to $70M, offering the military custom satellite communications via the company&#39;s Starshield service &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)
  - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
  - [Adobe Launches Photoshop For Web With AI Tools     - CNET](https://www.cnet.com/tech/services-and-software/adobe-launches-photoshop-for-web-with-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
 

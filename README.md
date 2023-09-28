@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Bank for International Settlements and French, Swiss, and Singaporean central banks successfully tested cross-border wholesale CBDC trading using DeFi &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230928/p14#a230928p14)
  - [DNA Drives Help Identify Missing People. It&#39;s a Privacy Nightmare](https://www.wired.com/story/dna-drives-help-identify-missing-people-its-a-privacy-nightmare/)
  - [Amazon Could Flag AI Books. AI-Detection Startups Say It Just Doesn’t](https://www.wired.com/story/amazon-flag-ai-generated-books/)
  - [GameStop names Ryan Cohen as CEO effective immediately and says he won&#39;t receive compensation for his work as CEO, president, and executive chairman &lpar;Mike Calia/CNBC&rpar;](http://www.techmeme.com/230928/p13#a230928p13)
- - [iPhone 15 durability tested: Does Aluminum fare better than Titanium?](https://www.androidauthority.com/iphone-15-durability-tests-3369277/)
- - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)<!-- TECH:END -->
+ - [iPhone 15 durability tested: Does Aluminum fare better than Titanium?](https://www.androidauthority.com/iphone-15-durability-tests-3369277/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

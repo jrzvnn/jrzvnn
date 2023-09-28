@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 😝 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
+ - 😝 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
+ - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
 
 ---
 

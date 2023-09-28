@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview using Meta&#39;s photorealistic Codec Avatars, Mark Zuckerberg talks about the metaverse, Quest 3, the nature of reality, AI, and humanity&#39;s future &lpar;Lex Fridman/Lex Fridman Podcast&rpar;](http://www.techmeme.com/230928/p39#a230928p39)
  - [I Guess We’re All Talking to Our Glasses Now](https://www.wired.com/story/gadget-lab-podcast-614/)
  - [The 2024 Honda Prologue EV will have 300 miles of range](https://www.theverge.com/2023/9/28/23894748/2024-honda-prologue-ev-range-battery-evgo-charging-credit)
  - [Microsoft reportedly pitched Apple on buying Bing to no avail](https://www.theverge.com/2023/9/28/23895055/microsoft-apple-bing-sale-rumor-google-default)
- - [Microsoft entered negotiations to sell Bing to Apple in 2020](https://appleinsider.com/articles/23/09/28/microsoft-entered-negotiations-to-sell-bing-to-apple-in-2020?utm_medium=rss)
- - [Hermes Apple Watch bands review: No leather in these new stylish strap options](https://appleinsider.com/articles/23/09/28/hermes-apple-watch-bands-review-no-leather-in-these-new-stylish-strap-options?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft entered negotiations to sell Bing to Apple in 2020](https://appleinsider.com/articles/23/09/28/microsoft-entered-negotiations-to-sell-bing-to-apple-in-2020?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Details emerge on Jony Ive and OpenAI’s plan to build the ‘iPhone of artificial intelligence’](https://www.theverge.com/2023/9/28/23893939/jony-ive-openai-sam-altman-iphone-of-artificial-intelligence-device)
  - [The cheapest countries to buy a Samsung Galaxy Z Fold 5](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-z-fold-5-3369115/)
  - [WhatsApp is getting Meta’s new AI Assistant to answer your questions and more](https://www.androidauthority.com/whatsapp-meta-new-ai-assistant-3369228/)
  - [Save on Office Essentials from Office Depot, Staples and Others     - CNET](https://www.cnet.com/deals/save-on-office-essentials-from-office-depot-staples-and-others/#ftag=CAD590a51e)
- - [Sources: OpenAI and Jony Ive&#39;s LoveFrom are in advanced talks with Masayoshi Son to raise $1B+ from SoftBank to build the &quot;iPhone of artificial intelligence&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p10#a230928p10)
- - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)<!-- TECH:END -->
+ - [Sources: OpenAI and Jony Ive&#39;s LoveFrom are in advanced talks with Masayoshi Son to raise $1B+ from SoftBank to build the &quot;iPhone of artificial intelligence&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p10#a230928p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

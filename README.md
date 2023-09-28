@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 💣 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
- - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 👉 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)<!-- MEMES:END -->
+ - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 😝 [I wonder why?](http://9gag.com/gag/aeQqPym)
+ - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
 
 ---
 

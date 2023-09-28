@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
  - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 💣 [Russian Black Sea commander shown on video](http://9gag.com/gag/anz0WWB)
+ - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
+ - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
  - 😝 [A sad day for Brits everywhere. One of the most famous trees in the UK was felled by unknown persons last night.](http://9gag.com/gag/a3ZzDL8)
- - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games cuts around 830 jobs](https://www.theverge.com/2023/9/28/23894266/epic-games-layoffs-fortnite-unreal-engine)
- - [Google patches a zero-day in Chrome that was exploited by a commercial spyware vendor, just two days after it was reported by Google&#39;s Threat Analysis Group &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230928/p25#a230928p25)
- - [Apple wants Supreme Court to reverse Epic&#39;s only &#39;Fortnite&#39; antitrust victory](https://appleinsider.com/articles/23/09/28/apple-wants-supreme-court-to-reverse-epics-only-victory?utm_medium=rss)
- - [SpaceX inks first Space Force deal for government-focused Starshield satellite network](https://www.theverge.com/2023/9/28/23894239/spacex-starshield-satellite-network-space-force-pentagon-deal)
- - [Henry Cavill is superspy &#39;Argylle,&#39; in an Apple TV+ film set to hit theaters in February](https://appleinsider.com/articles/23/09/28/henry-cavill-is-superspy-argylle-in-an-apple-tv-film-set-to-hit-theaters-in-february?utm_medium=rss)<!-- TECH:END -->
+ - [The Samsung Galaxy Buds 2 Pro price is slashed to just $174.99](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-deals-3369366/)
+ - [Epic Games confirms it is laying off 16% of its workforce, or about 830 people, and intends to divest from Bandcamp and spin off &quot;kid-tech&quot; company SuperAwesome &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230928/p27#a230928p27)
+ - [US Justice Department Urged to Investigate Gunshot Detector Purchases](https://www.wired.com/story/shotspotter-doj-letter-epic/)
+ - [Email: Serve Robotics, which delivers for Uber Eats in LA, provided video filmed by one of its food delivery robots to LAPD as part of a criminal investigation &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230928/p26#a230928p26)
+ - [Garmin Vivoactive 5 vs Venu 3: Which is best for you?](https://www.androidauthority.com/garmin-vivoactive-5-vs-venu-3-which-is-best-for-you-3367799/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

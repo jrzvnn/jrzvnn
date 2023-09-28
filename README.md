@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 😝 [Aux battery location for a 2020 and newer Mercedes GLE350. Good luck once it goes out of warranty.](http://9gag.com/gag/a9q4V0D)
- - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
- - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
+ - 😝 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
+ - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
 
 ---
 

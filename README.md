@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
- - 💣 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
+ - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 💣 [I hit that](http://9gag.com/gag/awZ9Pd4)
+ - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
 
 ---
 

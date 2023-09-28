@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
  - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 😝 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
- - 💣 [DO NOT REDEEM THE CARD](http://9gag.com/gag/aRE8DpQ)
- - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
  - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---

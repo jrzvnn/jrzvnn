@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [A sad day for Brits everywhere. One of the most famous trees in the UK was felled by unknown persons last night.](http://9gag.com/gag/a3ZzDL8)<!-- MEMES:END -->
+ - 😝 [Make cash now](http://9gag.com/gag/aVb98DM)
+ - 😝 [Typical Liberal](http://9gag.com/gag/aNwGGx6)
+ - 💣 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
+ - 😝 [F**kin&#39; disease!](http://9gag.com/gag/aA0L7WZ)
+ - 👉 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)<!-- MEMES:END -->
 
 ---
 

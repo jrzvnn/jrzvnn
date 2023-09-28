@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 😝 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
- - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
+ - 😝 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
+ - 😝 [Just Stop Oil!](http://9gag.com/gag/aKEXy7b)
+ - 💣 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
+ - 😝 [Make cash now](http://9gag.com/gag/aVb98DM)
+ - 👉 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)<!-- MEMES:END -->
 
 ---
 

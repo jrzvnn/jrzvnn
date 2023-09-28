@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
- - 💣 [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
- - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
+ - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
+ - 😝 [Desert Santa.](http://9gag.com/gag/a04DW6v)
+ - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
 
 ---
 

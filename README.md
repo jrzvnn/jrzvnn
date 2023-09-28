@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
- - [When to expect updates to AirPods, iPad, Mac, MacBook Pro, and more](https://appleinsider.com/articles/23/09/28/when-to-expect-updates-to-airpods-ipad-mac-macbook-pro-and-more?utm_medium=rss)
- - [Apple launches a Wallet feature in the UK using the country&#39;s Open Banking API, showing users their current account balances, deposits, and payment history &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230928/p16#a230928p16)
- - [Barnes and Noble Nook Glowlight 4 Plus Review: Waterproof E-Reader With Buttons](https://www.wired.com/review/nook-glowlight-4-plus/)
- - [The FTX trial is bigger than Sam Bankman-Fried](https://www.theverge.com/2023/9/28/23893269/ftx-sam-bankman-fried-trial-evidence-crypto)<!-- TECH:END -->
+ - [Reddit will no longer let you opt out of personalized ads](https://www.theverge.com/2023/9/28/23894023/reddit-opt-out-personalized-ads-privacy-update)
+ - [Scalpers use bots to mass buy iPhone 15 Pro Max](https://appleinsider.com/articles/23/09/28/scalpers-use-bots-to-mass-buy-iphone-15-pro-max?utm_medium=rss)
+ - [New PlayStation 5 owners can currently snag a free game courtesy of Sony](https://www.theverge.com/2023/9/28/23892371/sony-ps5-free-game-samsung-galaxy-tab-s9-kindle-oasis-deal-sale)
+ - [NYC-based market intelligence company AlphaSense raised a $150M Series E at a $2.5B valuation, after raising $100M at a $1.8B valuation in April 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230928/p17#a230928p17)
+ - [From action button to USB-C: Major leak details iPhone SE 4](https://www.androidauthority.com/apple-iphone-se-4-usb-c-action-button-3369294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Animated TV Show You Never See](https://www.wired.com/story/young-love-hbo-precedent/)
+ - [Spotify is adding auto-generated transcripts to millions of podcasts](https://www.theverge.com/2023/9/28/23894674/spotify-auto-generated-podcast-transcripts)
  - [Google adds a switch for publishers to opt out of becoming AI training data](https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex)
  - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [iPhone is losing popularity in major market while Pixel is thriving](https://www.androidauthority.com/google-pixel-phones-sales-surge-3369474/)
- - [X Fires Its Election Team Before a Huge Election Year](https://www.wired.com/story/x-elections-team-firings/)
- - [Newsrooms around the world are using AI to optimize work, despite concerns about bias and accuracy](https://www.theverge.com/2023/9/28/23894651/ai-newsroom-journalism-study-automation-bias)<!-- TECH:END -->
+ - [iPhone is losing popularity in major market while Pixel is thriving](https://www.androidauthority.com/google-pixel-phones-sales-surge-3369474/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

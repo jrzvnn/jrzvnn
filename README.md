@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s whiteboarding app is joining the graveyard](https://www.theverge.com/2023/9/28/23894509/google-jamboard-whiteboarding-app-graveyard)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [Google rolls out ChromeOS 117 with a Material You redesign, adaptive charging, a new camera and microphone privacy indicator, an improved clipboard, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230928/p32#a230928p32)
  - [Sega cancels live-service shooter Hyenas](https://www.theverge.com/2023/9/28/23894156/sega-cancels-hyenas-creative-assembly-layoffs)
- - [Lowest price ever: Apple&#39;s 16-inch MacBook Pro with 32GB RAM plunges to $1,775](https://appleinsider.com/articles/23/09/28/lowest-price-ever-apples-16-inch-macbook-pro-with-32gb-ram-plunges-to-1775?utm_medium=rss)
- - [Google’s new #BestPhonesForever pokes fun at iPhone Action Button](https://www.androidauthority.com/google-pixel-phone-apple-joke-3369431/)
- - [Google opens up Search Generative Experience to teens aged 13-17 in the US and adds a new feature to give people context about how a response was generated &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230928/p31#a230928p31)
- - [Apple Pay has new discounts up to 15% off at select retailers](https://appleinsider.com/articles/23/09/28/apple-pay-has-new-discounts-up-to-15-off-at-select-retailers?utm_medium=rss)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s 16-inch MacBook Pro with 32GB RAM plunges to $1,775](https://appleinsider.com/articles/23/09/28/lowest-price-ever-apples-16-inch-macbook-pro-with-32gb-ram-plunges-to-1775?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

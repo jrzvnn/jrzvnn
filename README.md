@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [Only way to go](http://9gag.com/gag/aL1Or5V)
- - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 👉 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)<!-- MEMES:END -->
+ - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 💣 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
 
 ---
 

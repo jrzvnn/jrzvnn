@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shanghai-based AI chipmaker Enflame raised a ~$273.7M Series D from state capital operator Shanghai International Group&#39;s funds, Tencent, Meitu, and others &lpar;DealStreetAsia&rpar;](http://www.techmeme.com/230928/p37#a230928p37)
  - [Nvidia offices raided by French competition authority](https://www.theverge.com/2023/9/28/23894863/nvidia-offices-raided-french-competition-authority)
  - [Tesla sued for ‘severe’ racial harassment at its California factory, again](https://www.theverge.com/2023/9/28/23894848/tesla-lawsuit-severe-discrimination-harassment-eeoc)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Save $800 on this 27-inch iMac 5K, now $1,199](https://appleinsider.com/articles/23/09/28/save-800-on-this-27-inch-imac-5k-now-1199?utm_medium=rss)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
+ - [Save $800 on this 27-inch iMac 5K, now $1,199](https://appleinsider.com/articles/23/09/28/save-800-on-this-27-inch-imac-5k-now-1199?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

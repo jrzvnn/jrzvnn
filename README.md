@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit will no longer let you opt out of personalized ads](https://www.theverge.com/2023/9/28/23894023/reddit-opt-out-personalized-ads-privacy-update)
- - [Scalpers use bots to mass buy iPhone 15 Pro Max](https://appleinsider.com/articles/23/09/28/scalpers-use-bots-to-mass-buy-iphone-15-pro-max?utm_medium=rss)
- - [New PlayStation 5 owners can currently snag a free game courtesy of Sony](https://www.theverge.com/2023/9/28/23892371/sony-ps5-free-game-samsung-galaxy-tab-s9-kindle-oasis-deal-sale)
- - [NYC-based market intelligence company AlphaSense raised a $150M Series E at a $2.5B valuation, after raising $100M at a $1.8B valuation in April 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230928/p17#a230928p17)
- - [From action button to USB-C: Major leak details iPhone SE 4](https://www.androidauthority.com/apple-iphone-se-4-usb-c-action-button-3369294/)<!-- TECH:END -->
+ - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
+ - [DJI Osmo Action 4 Review: Finally, a Worthy GoPro Competitor](https://www.wired.com/review/dji-osmo-action-4-camera/)
+ - [7 Best Deals: Outdoor Apparel, Camping, and Climbing Gear](https://www.wired.com/story/midweek-deals-september-28-2023/)
+ - [Bots buying iPhone 15 Pro Max are making it harder for regular people](https://appleinsider.com/articles/23/09/28/scalpers-use-bots-to-mass-buy-iphone-15-pro-max?utm_medium=rss)
+ - [Reddit will no longer let you opt out of personalized ads](https://www.theverge.com/2023/9/28/23894023/reddit-opt-out-personalized-ads-privacy-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

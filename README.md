@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX receives its first contract from the US Space Force, valued up to $70M, to provide customized satellite communications for the military under Starshield &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)
  - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
  - [Kia’s three-row EV9 electric SUV will start at $54,900](https://www.theverge.com/2023/9/27/23893352/kia-ev9-2024-starting-price-cost-announcement)
  - [Paris-based Mistral AI makes its first LLM, Mistral 7B, which the company claims outperforms open models up to 13B parameters, free to all without restrictions &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230927/p50#a230927p50)
- - [The US DoD awards Palantir a three-year $250M R&amp;D contract for AI services, building on the work the company does since at least 2018 for the Army Research Lab &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230927/p49#a230927p49)
- - [Adobe’s full Photoshop on the web launch includes its popular desktop AI tools](https://www.theverge.com/2023/9/27/23892889/adobe-photoshop-for-the-web-firefly-ai-generative-fill-full-release-price-date)<!-- TECH:END -->
+ - [The US DoD awards Palantir a three-year $250M R&amp;D contract for AI services, building on the work the company does since at least 2018 for the Army Research Lab &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230927/p49#a230927p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

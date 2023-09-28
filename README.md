@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google unveils Fitbit Charge 6, with a physical side button, integration with Google services like YouTube Music, and more, available on October 12 for $160 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230928/p24#a230928p24)
+ - [Mark Zuckerberg can’t quit the metaverse](https://www.theverge.com/23894188/mark-zuckerberg-metaverse-connect-2023-ai-vr)
+ - [Amazon announces the general availability of Bedrock, unveiled in April to offer generative AI models from Amazon itself and third-party partners through an API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230928/p23#a230928p23)
  - [Samsung may be readying a new fitness band after three years](https://www.androidauthority.com/samsung-fitness-tracker-3369318/)
- - [What is HDMI ARC and HDMI eARC, and how to use them on your TV](https://www.androidauthority.com/what-is-hdmi-arc-3368940/)
- - [Source: Epic Games announced in a staff memo that it is laying off about 900 employees or 16% of its workforce &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230928/p22#a230928p22)
- - [The new Charge 6 is proof that Google can improve Fitbit, not just ruin it](https://www.androidauthority.com/fitbit-charge-6-google-improvement-3369258/)
- - [New York City-based Transfr, which provides businesses with VR training tools, raised a $40M Series C led by ABS Capital, bringing its total funding to $90M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230928/p21#a230928p21)<!-- TECH:END -->
+ - [What is HDMI ARC and HDMI eARC, and how to use them on your TV](https://www.androidauthority.com/what-is-hdmi-arc-3368940/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

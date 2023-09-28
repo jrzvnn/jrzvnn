@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
- - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
- - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
 
 ---
 

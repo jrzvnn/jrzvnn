@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft discussed selling Bing to Apple around 2020, a deal that would have replaced Google as the default search engine on Apple&#39;s devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p38#a230928p38)
  - [Shanghai-based AI chipmaker Enflame raised a ~$273.7M Series D from state capital operator Shanghai International Group&#39;s funds, Tencent, Meitu, and others &lpar;DealStreetAsia&rpar;](http://www.techmeme.com/230928/p37#a230928p37)
  - [Nvidia offices raided by French competition authority](https://www.theverge.com/2023/9/28/23894863/nvidia-offices-raided-french-competition-authority)
- - [Tesla sued for ‘severe’ racial harassment at its California factory, again](https://www.theverge.com/2023/9/28/23894848/tesla-lawsuit-severe-discrimination-harassment-eeoc)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [The best new streaming movies this week on Netflix, Hulu, Prime, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [The best new streaming shows this week on Netflix, Paramount, Hulu, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Tesla sued for ‘severe’ racial harassment at its California factory, again](https://www.theverge.com/2023/9/28/23894848/tesla-lawsuit-severe-discrimination-harassment-eeoc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

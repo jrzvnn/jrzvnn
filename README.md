@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
- - 😝 [That\u2019s a hero right there](http://9gag.com/gag/avQB42b)
- - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
- - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
+ - 😝 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 

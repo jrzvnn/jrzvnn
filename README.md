@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re fired](http://9gag.com/gag/anz089B)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 💣 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
  - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 👉 [Only way to go](http://9gag.com/gag/aL1Or5V)<!-- MEMES:END -->
+ - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
+ - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
 
 ---
 

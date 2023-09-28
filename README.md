@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
- - 😝 [Just Stop Oil!](http://9gag.com/gag/aKEXy7b)
- - 💣 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
- - 😝 [Make cash now](http://9gag.com/gag/aVb98DM)
- - 👉 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)<!-- MEMES:END -->
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 💣 [Russian Black Sea commander shown on video](http://9gag.com/gag/anz0WWB)
+ - 😝 [A sad day for Brits everywhere. One of the most famous trees in the UK was felled by unknown persons last night.](http://9gag.com/gag/a3ZzDL8)
+ - 👉 [Misses of the world](http://9gag.com/gag/ap9nn1W)<!-- MEMES:END -->
 
 ---
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
- - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
  - 😝 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 👉 [Now that&#39;s a real manager](http://9gag.com/gag/a8qvzAp)<!-- MEMES:END -->
+ - 👉 [Woof Woof](http://9gag.com/gag/aWGeeYZ)<!-- MEMES:END -->
 
 ---
 

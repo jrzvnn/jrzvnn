@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to fix a blank Weather complication on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-fix-a-blank-weather-complication-on-apple-watch?utm_medium=rss)
  - [The Samsung Galaxy Buds 2 Pro price is slashed to just $174.99](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-deals-3369366/)
  - [Epic Games confirms it is laying off 16% of its workforce, or about 830 people, and intends to divest from Bandcamp and spin off &quot;kid-tech&quot; company SuperAwesome &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230928/p27#a230928p27)
  - [US Justice Department Urged to Investigate Gunshot Detector Purchases](https://www.wired.com/story/shotspotter-doj-letter-epic/)
- - [Email: Serve Robotics, which delivers for Uber Eats in LA, provided video filmed by one of its food delivery robots to LAPD as part of a criminal investigation &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230928/p26#a230928p26)
- - [Garmin Vivoactive 5 vs Venu 3: Which is best for you?](https://www.androidauthority.com/garmin-vivoactive-5-vs-venu-3-which-is-best-for-you-3367799/)<!-- TECH:END -->
+ - [Email: Serve Robotics, which delivers for Uber Eats in LA, provided video filmed by one of its food delivery robots to LAPD as part of a criminal investigation &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/230928/p26#a230928p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

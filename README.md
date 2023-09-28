@@ -166,8 +166,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
  - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 😝 [A sad day for Brits everywhere. One of the most famous trees in the UK was felled by unknown persons last night.](http://9gag.com/gag/a3ZzDL8)
+ - 💣 [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
  - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---

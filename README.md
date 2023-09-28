@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds a switch for publishers to opt out of becoming AI training data](https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex)
+ - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [iPhone is losing popularity in major market while Pixel is thriving](https://www.androidauthority.com/google-pixel-phones-sales-surge-3369474/)
  - [X Fires Its Election Team Before a Huge Election Year](https://www.wired.com/story/x-elections-team-firings/)
- - [Newsrooms around the world are using AI to optimize work, despite concerns about bias and accuracy](https://www.theverge.com/2023/9/28/23894651/ai-newsroom-journalism-study-automation-bias)
- - [France&#39;s competition authority says it raided a company in the &quot;graphics cards sector&quot; as part of a cloud-computing inquiry; sources: Nvidia was raided &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230928/p35#a230928p35)
- - [Google plans to wind down its collaborative Jamboard app starting October 2024 and end support for its $5K, 55&quot; Jamboard meeting room display on September 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230928/p34#a230928p34)<!-- TECH:END -->
+ - [Newsrooms around the world are using AI to optimize work, despite concerns about bias and accuracy](https://www.theverge.com/2023/9/28/23894651/ai-newsroom-journalism-study-automation-bias)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

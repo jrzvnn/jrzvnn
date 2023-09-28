@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 💣 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
- - 😝 [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
+ - 😝 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)
+ - 😝 [That makes 3 of us](http://9gag.com/gag/avQB4VZ)
+ - 💣 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 😝 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
+ - 👉 [Huehuehue](http://9gag.com/gag/a04Dzbn)<!-- MEMES:END -->
 
 ---
 

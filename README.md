@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
  - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
+ - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
+ - [When to expect updates to AirPods, iPad, Mac, MacBook Pro, and more](https://appleinsider.com/articles/23/09/28/when-to-expect-updates-to-airpods-ipad-mac-macbook-pro-and-more?utm_medium=rss)
+ - [Apple launches a Wallet feature in the UK using the country&#39;s Open Banking API, showing users their current account balances, deposits, and payment history &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230928/p16#a230928p16)
  - [Barnes and Noble Nook Glowlight 4 Plus Review: Waterproof E-Reader With Buttons](https://www.wired.com/review/nook-glowlight-4-plus/)
- - [The FTX trial is bigger than Sam Bankman-Fried](https://www.theverge.com/2023/9/28/23893269/ftx-sam-bankman-fried-trial-evidence-crypto)
- - [Philips Hue will soon require an account to use its app — here’s what that means](https://www.theverge.com/2023/9/28/23892761/philips-hue-app-account-changes)
- - [ChatGPT restrictions: How to bypass them for an uncensored chatbot](https://www.androidauthority.com/bypass-chatgpt-restrictions-3368272/)
- - [How to use spring-loaded folders in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-spring-loaded-folders-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [The FTX trial is bigger than Sam Bankman-Fried](https://www.theverge.com/2023/9/28/23893269/ftx-sam-bankman-fried-trial-evidence-crypto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

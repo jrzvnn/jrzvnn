@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Nvidia offices raided by French competition authority](https://www.theverge.com/2023/9/28/23894863/nvidia-offices-raided-french-competition-authority)
  - [Tesla sued for ‘severe’ racial harassment at its California factory, again](https://www.theverge.com/2023/9/28/23894848/tesla-lawsuit-severe-discrimination-harassment-eeoc)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Save $800 on this 27-inch iMac 5K, now $1,199](https://appleinsider.com/articles/23/09/28/save-800-on-this-27-inch-imac-5k-now-1199?utm_medium=rss)<!-- TECH:END -->
+ - [The best new streaming movies this week on Netflix, Hulu, Prime, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

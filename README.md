@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 😝 [These mfs are top-tier scammers.](http://9gag.com/gag/ajV3GZ8)
- - 💣 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)<!-- MEMES:END -->
+ - 😝 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 💣 [Southern front at Zaporozhye. About twenty Russians are `playing airplane`. Wise decision. Dying for a fascist Russian regime and a psychotic midget in a bunker is the opposite of common sense.](http://9gag.com/gag/aOxnnwD)
+ - 😝 [Bring sexy back](http://9gag.com/gag/aA0LLXg)
+ - 👉 [In case you haven&#39;t seen the video](http://9gag.com/gag/a8qvvW3)<!-- MEMES:END -->
 
 ---
 

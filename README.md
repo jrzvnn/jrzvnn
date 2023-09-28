@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 15 Pro case market is a minefield right now](https://www.theverge.com/23892671/iphone-15-pro-action-button-case-maker-problems)
  - [Apple’s Argylle looks like the ultimate power clash in new trailer](https://www.theverge.com/23894072/apple-argylle-trailer-henry-cavill)
  - [Apple Wallet adds exclusive UK features with signs of more to come](https://appleinsider.com/articles/23/09/28/apple-wallet-adds-exclusive-uk-features-with-signs-of-more-to-come?utm_medium=rss)
  - [Apple asks SCOTUS to revisit the 2021 Epic ruling regarding alternate IAP payment options, a day after Epic separately asked SCOTUS to take up the case &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230928/p20#a230928p20)
- - [Beyerdynamic’s first wireless gaming headset opts for simplicity over RGB](https://www.theverge.com/2023/9/28/23892590/beyerdynamic-mmx-200-wireless-gaming-headset-pc-playstation-switch-specs-price)
- - [A review of 115 warrants for Google&#39;s location and search data in five US states shows investigators are increasingly using the data to solve nonviolent cases &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p19#a230928p19)<!-- TECH:END -->
+ - [SanDisk&#39;s Extreme Pro 1TB Rugged SSD Is Just $110, Saving $68 Today Only     - CNET](https://www.cnet.com/deals/sandisks-extreme-pro-1tb-ssd-is-just-110/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

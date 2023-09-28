@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone wants to deliver a not so laughable answer?](http://9gag.com/gag/aNwGGj0)
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 💣 [Southern front at Zaporozhye. About twenty Russians are `playing airplane`. Wise decision. Dying for a fascist Russian regime and a psychotic midget in a bunker is the opposite of common sense.](http://9gag.com/gag/aOxnnwD)
- - 😝 [Bring sexy back](http://9gag.com/gag/aA0LLXg)
- - 👉 [In case you haven&#39;t seen the video](http://9gag.com/gag/a8qvvW3)<!-- MEMES:END -->
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 😝 [Aux battery location for a 2020 and newer Mercedes GLE350. Good luck once it goes out of warranty.](http://9gag.com/gag/a9q4V0D)
+ - 💣 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)
+ - 😝 [The more you know...](http://9gag.com/gag/abvLdGO)
+ - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
 
 ---
 

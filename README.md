@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nord Security, the Lithuania-based startup behind NordVPN, raised $100M led by Warburg Pincus at a $3B valuation, up from $1.6B valuation in April 2022 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230928/p3#a230928p3)
  - [A US Senate staffer says officials told lawmakers that Chinese hackers who breached Microsoft&#39;s email system stole 60K emails from ten State Department accounts &lpar;Reuters&rpar;](http://www.techmeme.com/230928/p2#a230928p2)
  - [Canalys: Q2 smartphone sales in North America fell 22% YoY, with Apple down 20% and Samsung down 27%; Google&#39;s sales rose 59% YoY and market share doubled to 4% &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230928/p1#a230928p1)
  - [After USB-C win, EU now wants Apple to open up its gates to rivals](https://www.androidauthority.com/apple-eu-digital-markets-act-3369195/)
- - [Hands-on with ChatGPT&#39;s image recognition and voice features: image recognition isn&#39;t perfect and refuses to discuss faces, voice is fluid and natural, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230927/p55#a230927p55)
- - [Meta&#39;s celebrity AIs are generated AI animations built from filming the 28 people they represent; Meta would not comment on how the celebrities were compensated &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230927/p54#a230927p54)<!-- TECH:END -->
+ - [Hands-on with ChatGPT&#39;s image recognition and voice features: image recognition isn&#39;t perfect and refuses to discuss faces, voice is fluid and natural, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230927/p55#a230927p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

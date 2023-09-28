@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Details emerge about Jony Ive collab to make the &#39;iPhone of AI&#39;](https://appleinsider.com/articles/23/09/28/details-emerge-about-jony-ive-collab-to-make-the-iphone-of-ai?utm_medium=rss)
  - [The Trial of Sam Bankman-Fried, Explained](https://www.wired.com/story/sam-bankman-fried-trial-explained/)
  - [Scientists Have an Audacious Plan to Map the Ancient World Before It Disappears](https://www.wired.com/story/scientists-have-an-audacious-plan-to-map-the-ancient-world-before-it-disappears/)
  - [Can FTX Be Revived—Without Sam Bankman-Fried?](https://www.wired.com/story/can-ftx-be-revived-without-sam-bankman-fried-sbf/)
- - [A look at the rise of online feminism in China, driven by content on apps like Weibo, Douyin, WeChat, and Douban, despite increased scrutiny from the platforms &lpar;Wanqing Zhang/Rest of World&rpar;](http://www.techmeme.com/230928/p11#a230928p11)
- - [Videos show Galaxy S23 FE in the wild, could be a fingerprint magnet](https://www.androidauthority.com/samsung-galaxy-s23-real-world-videos-3364228/)<!-- TECH:END -->
+ - [A look at the rise of online feminism in China, driven by content on apps like Weibo, Douyin, WeChat, and Douban, despite increased scrutiny from the platforms &lpar;Wanqing Zhang/Rest of World&rpar;](http://www.techmeme.com/230928/p11#a230928p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

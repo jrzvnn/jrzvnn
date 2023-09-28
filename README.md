@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Google opens up Search Generative Experience to teens aged 13-17 in the US and adds a new feature to give people context about how a response was generated &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230928/p31#a230928p31)
  - [Apple Pay has new discounts up to 15% off at select retailers](https://appleinsider.com/articles/23/09/28/apple-pay-has-new-discounts-up-to-15-off-at-select-retailers?utm_medium=rss)
  - [iPhone 15 Pro review: Best balance of performance to price yet in an iPhone](https://appleinsider.com/articles/23/09/28/iphone-15-pro-review-best-balance-of-performance-to-price-yet-in-an-iphone?utm_medium=rss)
- - [IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)<!-- TECH:END -->
+ - [NYC-based IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

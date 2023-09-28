@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
  - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
  - 💣 [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
  - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
 
 ---

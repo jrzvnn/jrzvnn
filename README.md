@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The cheapest countries to buy a Samsung Galaxy Z Fold 5](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-z-fold-5-3369115/)
  - [WhatsApp is getting Meta’s new AI Assistant to answer your questions and more](https://www.androidauthority.com/whatsapp-meta-new-ai-assistant-3369228/)
  - [Save on Office Essentials from Office Depot, Staples and Others     - CNET](https://www.cnet.com/deals/save-on-office-essentials-from-office-depot-staples-and-others/#ftag=CAD590a51e)
  - [Sources: OpenAI and Jony Ive&#39;s LoveFrom are in advanced talks with Masayoshi Son to raise $1B+ from SoftBank to build the &quot;iPhone of artificial intelligence&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p10#a230928p10)
- - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)
- - [Raspberry Pi 5 launches with 64-bit quad-core Arm Cortex-A76 processor, up to 8GB of RAM, two 4K HDMI ports with HDR, available in October for $60 for 4GB model &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p9#a230928p9)<!-- TECH:END -->
+ - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

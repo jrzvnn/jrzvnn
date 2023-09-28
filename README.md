@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the center of Google&#39;s antitrust trial are a &quot;remarkable&quot; number of deleted employee chats, as chat backups show employees discussing going &quot;off the record&quot; &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230928/p7#a230928p7)
  - [The Raspberry Pi 5 is finally here](https://www.theverge.com/2023/9/28/23889238/raspberry-pi-5-specs-availability-pricing)
  - [Disney Plus password sharing restrictions are here!](https://www.androidauthority.com/disney-plus-password-sharing-restrictions-canada-3369214/)
  - [SoundThinking, which makes the sensor-based gunshot-detection system ShotSpotter, acquires parts of Geolitica, which built the predictive policing tool PredPol &lpar;Wired&rpar;](http://www.techmeme.com/230928/p6#a230928p6)
- - [Indian fantasy sports and online gaming startups including Dream11 receive notices from tax authorities demanding hundreds of millions of dollars in back taxes &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230928/p5#a230928p5)
- - [ChatGPT can now browse the internet like Google Bard](https://www.androidauthority.com/chatgpt-browse-internet-3369204/)<!-- TECH:END -->
+ - [Indian fantasy sports and online gaming startups including Dream11 receive notices from tax authorities demanding hundreds of millions of dollars in back taxes &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/230928/p5#a230928p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

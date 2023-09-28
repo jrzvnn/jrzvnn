@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: X is cutting ~50% of its global team devoted to limiting disinformation and election fraud, less than a month after saying it would expand the team &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230927/p53#a230927p53)
  - [Apple Pay antitrust lawsuit accuses Apple of coercing consumers, excessive fees](https://appleinsider.com/articles/23/09/28/apple-pay-antitrust-lawsuit-accuses-apple-of-coercing-consumers-excessive-fees?utm_medium=rss)
  - [Adobe makes its web-based Photoshop, including Firefly-powered features, generally available for paid plans, and has no &quot;immediate plans&quot; for a freemium plan &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230927/p52#a230927p52)
  - [SpaceX gets its first US Space Force contract, valued at up to $70M, offering the military custom satellite communications via the company&#39;s Starshield service &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)
- - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
- - [Adobe Launches Photoshop for Web With AI Tools     - CNET](https://www.cnet.com/tech/services-and-software/adobe-launches-photoshop-for-web-with-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

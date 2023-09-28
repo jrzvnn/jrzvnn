@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with ChatGPT&#39;s image recognition and voice features: image recognition isn&#39;t perfect and refuses to discuss faces, voice is fluid and natural, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230927/p55#a230927p55)
  - [Meta&#39;s celebrity AIs are generated AI animations built from filming the 28 people they represent; Meta would not comment on how the celebrities were compensated &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230927/p54#a230927p54)
  - [Sources: X is cutting ~50% of its global team devoted to limiting disinformation and election fraud, less than a month after saying it would expand the team &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230927/p53#a230927p53)
  - [Apple Pay antitrust lawsuit accuses Apple of coercing consumers, excessive fees](https://appleinsider.com/articles/23/09/28/apple-pay-antitrust-lawsuit-accuses-apple-of-coercing-consumers-excessive-fees?utm_medium=rss)
- - [Adobe makes its web-based Photoshop, including Firefly-powered features, generally available for paid plans, and has no &quot;immediate plans&quot; for a freemium plan &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230927/p52#a230927p52)
- - [SpaceX gets its first US Space Force contract, valued at up to $70M, offering the military custom satellite communications via the company&#39;s Starshield service &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)<!-- TECH:END -->
+ - [Adobe makes its web-based Photoshop, including Firefly-powered features, generally available for paid plans, and has no &quot;immediate plans&quot; for a freemium plan &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230927/p52#a230927p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

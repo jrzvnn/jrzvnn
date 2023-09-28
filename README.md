@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Deals Sept. 28: $250 off M2 MacBook Pro 14, $69 off AirPods Max, Echo Show 15 for $150, more](https://appleinsider.com/articles/23/09/28/daily-deals-sept-28-250-off-m2-macbook-pro-14-69-off-airpods-max-echo-show-15-for-150-more?utm_medium=rss)
  - [Google unveils Fitbit Charge 6, with a physical side button, integration with Google services like YouTube Music, and more, available on October 12 for $160 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230928/p24#a230928p24)
  - [Mark Zuckerberg can’t quit the metaverse](https://www.theverge.com/23894188/mark-zuckerberg-metaverse-connect-2023-ai-vr)
  - [Amazon announces the general availability of Bedrock, unveiled in April to offer generative AI models from Amazon itself and third-party partners through an API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230928/p23#a230928p23)
- - [Samsung may be readying a new fitness band after three years](https://www.androidauthority.com/samsung-fitness-tracker-3369318/)
- - [What is HDMI ARC and HDMI eARC, and how to use them on your TV](https://www.androidauthority.com/what-is-hdmi-arc-3368940/)<!-- TECH:END -->
+ - [Samsung may be readying a new fitness band after three years](https://www.androidauthority.com/samsung-fitness-tracker-3369318/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

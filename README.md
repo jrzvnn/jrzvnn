@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Save $800 on this 27-inch iMac 5K, now $1,199](https://appleinsider.com/articles/23/09/28/save-800-on-this-27-inch-imac-5k-now-1199?utm_medium=rss)
  - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
  - [Castlevania: Nocturne is a revolutionary epic that does the franchise’s best games justice](https://www.theverge.com/23891310/netflix-castlevania-nocturne-review-konami-animated)
- - [Google lets publishers use a robots.txt flag to opt out of the company using their data to train its AI models, while remaining accessible through Google Search &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p36#a230928p36)
- - [The Animated TV Show You Never See](https://www.wired.com/story/young-love-hbo-precedent/)<!-- TECH:END -->
+ - [Google lets publishers use a robots.txt flag to opt out of the company using their data to train its AI models, while remaining accessible through Google Search &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p36#a230928p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

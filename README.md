@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s whiteboarding app is joining the graveyard](https://www.theverge.com/2023/9/28/23894509/google-jamboard-whiteboarding-app-graveyard)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [Google rolls out ChromeOS 117 with a Material You redesign, adaptive charging, a new camera and microphone privacy indicator, an improved clipboard, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230928/p32#a230928p32)
- - [Sega cancels live-service shooter Hyenas](https://www.theverge.com/2023/9/28/23894156/sega-cancels-hyenas-creative-assembly-layoffs)
- - [Lowest price ever: Apple&#39;s 16-inch MacBook Pro with 32GB RAM plunges to $1,775](https://appleinsider.com/articles/23/09/28/lowest-price-ever-apples-16-inch-macbook-pro-with-32gb-ram-plunges-to-1775?utm_medium=rss)<!-- TECH:END -->
+ - [Five ways the Meta Quest 3 will &lpar;let developers&rpar; change the game](https://www.theverge.com/23893454/meta-quest-3-game-graphics-features-hands-avatar)
+ - [A New York state judge rejects a bid by Uber, DoorDash, and Grubhub to block NYC&#39;s law setting a minimum pay of $17.96/hour for app-based delivery workers &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230928/p33#a230928p33)
+ - [The WGA&#39;s AI Wins are Good—But They&#39;re Not Enough](https://www.wired.com/story/writers-strike-hollywood-ai-protections/)
+ - [An Epic Fight Over What Really Killed the Dinosaurs](https://www.wired.com/story/what-killed-the-dinosaurs/)
+ - [Google’s whiteboarding app is joining the graveyard](https://www.theverge.com/2023/9/28/23894509/google-jamboard-whiteboarding-app-graveyard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

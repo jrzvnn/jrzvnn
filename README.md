@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay has new discounts up to 15% off at select retailers](https://appleinsider.com/articles/23/09/28/apple-pay-has-new-discounts-up-to-15-off-at-select-retailers?utm_medium=rss)
  - [iPhone 15 Pro review: Best balance of performance to price yet in an iPhone](https://appleinsider.com/articles/23/09/28/iphone-15-pro-review-best-balance-of-performance-to-price-yet-in-an-iphone?utm_medium=rss)
  - [IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)
  - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
- - [Music licensing marketplace Songtradr acquires Bandcamp and says it will keep running Bandcamp as a marketplace and community with an artist-first revenue share &lpar;Songtradr&rpar;](http://www.techmeme.com/230928/p29#a230928p29)
- - [Trump and the GOP are trying to drive a wedge between autoworkers and EVs](https://www.theverge.com/2023/9/28/23894243/trump-electric-vehicle-uaw-union-strike-biden-election)<!-- TECH:END -->
+ - [Music licensing marketplace Songtradr acquires Bandcamp and says it will keep running Bandcamp as a marketplace and community with an artist-first revenue share &lpar;Songtradr&rpar;](http://www.techmeme.com/230928/p29#a230928p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

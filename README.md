@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sega cancels live-service shooter Hyenas](https://www.theverge.com/2023/9/28/23894156/sega-cancels-hyenas-creative-assembly-layoffs)
+ - [Lowest price ever: Apple&#39;s 16-inch MacBook Pro with 32GB RAM plunges to $1,775](https://appleinsider.com/articles/23/09/28/lowest-price-ever-apples-16-inch-macbook-pro-with-32gb-ram-plunges-to-1775?utm_medium=rss)
  - [Google’s new #BestPhonesForever pokes fun at iPhone Action Button](https://www.androidauthority.com/google-pixel-phone-apple-joke-3369431/)
  - [Google opens up Search Generative Experience to teens aged 13-17 in the US and adds a new feature to give people context about how a response was generated &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230928/p31#a230928p31)
- - [Apple Pay has new discounts up to 15% off at select retailers](https://appleinsider.com/articles/23/09/28/apple-pay-has-new-discounts-up-to-15-off-at-select-retailers?utm_medium=rss)
- - [iPhone 15 Pro review: Best balance of performance to price yet in an iPhone](https://appleinsider.com/articles/23/09/28/iphone-15-pro-review-best-balance-of-performance-to-price-yet-in-an-iphone?utm_medium=rss)
- - [NYC-based IYK, which lets brands, musicians, and creators build &quot;digi-physical experiences&quot;, including through NFTs, raised a $16.8M seed led by A16z Crypto &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230928/p30#a230928p30)<!-- TECH:END -->
+ - [Apple Pay has new discounts up to 15% off at select retailers](https://appleinsider.com/articles/23/09/28/apple-pay-has-new-discounts-up-to-15-off-at-select-retailers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

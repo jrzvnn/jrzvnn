@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
- - 💣 [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
+ - 😝 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - 😝 [Those were simpler times.](http://9gag.com/gag/aqeVdE7)
+ - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
 
 ---
 

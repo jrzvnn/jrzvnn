@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
  - [How TikTok Shop&#39;s growth in Indonesia, meant to be a template for a global expansion, ended in a ban amid backlash from rivals and an &quot;activist&quot; minister &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p12#a230928p12)
  - [Details emerge about Jony Ive collab to make the &#39;iPhone of AI&#39;](https://appleinsider.com/articles/23/09/28/details-emerge-about-jony-ive-collab-to-make-the-iphone-of-ai?utm_medium=rss)
  - [The Trial of Sam Bankman-Fried, Explained](https://www.wired.com/story/sam-bankman-fried-trial-explained/)
- - [Scientists Have an Audacious Plan to Map the Ancient World Before It Disappears](https://www.wired.com/story/scientists-have-an-audacious-plan-to-map-the-ancient-world-before-it-disappears/)
- - [Can FTX Be Revived—Without Sam Bankman-Fried?](https://www.wired.com/story/can-ftx-be-revived-without-sam-bankman-fried-sbf/)<!-- TECH:END -->
+ - [Scientists Have an Audacious Plan to Map the Ancient World Before It Disappears](https://www.wired.com/story/scientists-have-an-audacious-plan-to-map-the-ancient-world-before-it-disappears/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

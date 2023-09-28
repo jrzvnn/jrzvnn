@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DNA Drives Help Identify Missing People. It&#39;s a Privacy Nightmare](https://www.wired.com/story/dna-drives-help-identify-missing-people-its-a-privacy-nightmare/)
+ - [Amazon Could Flag AI Books. AI-Detection Startups Say It Just Doesn’t](https://www.wired.com/story/amazon-flag-ai-generated-books/)
+ - [GameStop names Ryan Cohen as CEO effective immediately and says he won&#39;t receive compensation for his work as CEO, president, and executive chairman &lpar;Mike Calia/CNBC&rpar;](http://www.techmeme.com/230928/p13#a230928p13)
  - [iPhone 15 durability tested: Does Aluminum fare better than Titanium?](https://www.androidauthority.com/iphone-15-durability-tests-3369277/)
- - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
- - [How TikTok Shop&#39;s growth in Indonesia, meant to be a template for a global expansion, ended in a ban amid backlash from rivals and an &quot;activist&quot; minister &lpar;Bloomberg&rpar;](http://www.techmeme.com/230928/p12#a230928p12)
- - [Details emerge about Jony Ive collab to make the &#39;iPhone of AI&#39;](https://appleinsider.com/articles/23/09/28/details-emerge-about-jony-ive-collab-to-make-the-iphone-of-ai?utm_medium=rss)
- - [The Trial of Sam Bankman-Fried, Explained](https://www.wired.com/story/sam-bankman-fried-trial-explained/)<!-- TECH:END -->
+ - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone is losing popularity in major market while Pixel is thriving](https://www.androidauthority.com/google-pixel-phones-sales-surge-3369474/)
+ - [Newsrooms around the world are using AI to optimize work, despite concerns about bias and accuracy](https://www.theverge.com/2023/9/28/23894651/ai-newsroom-journalism-study-automation-bias)
  - [France&#39;s competition authority says it raided a company in the &quot;graphics cards sector&quot; as part of a cloud-computing inquiry; sources: Nvidia was raided &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230928/p35#a230928p35)
  - [Google plans to wind down its collaborative Jamboard app starting October 2024 and end support for its $5K, 55&quot; Jamboard meeting room display on September 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230928/p34#a230928p34)
- - [iOS 17.1 Beta 1: What Could Be Coming to Your iPhone Soon     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-beta-1-what-could-be-coming-to-your-iphone-soon/#ftag=CAD590a51e)
- - [The best Cricket Wireless deals of October 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Five ways the Meta Quest 3 will &lpar;let developers&rpar; change the game](https://www.theverge.com/23893454/meta-quest-3-game-graphics-features-hands-avatar)<!-- TECH:END -->
+ - [iOS 17.1 Beta 1: What Could Be Coming to Your iPhone Soon     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-beta-1-what-could-be-coming-to-your-iphone-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

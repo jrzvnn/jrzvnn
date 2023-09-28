@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 💣 [Get him](http://9gag.com/gag/ap9nj4n)
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 👉 [What are the odds?](http://9gag.com/gag/a8qvQeO)<!-- MEMES:END -->
+ - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
+ - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
+ - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
+ - 👉 [I wonder why?](http://9gag.com/gag/aeQqPym)<!-- MEMES:END -->
 
 ---
 

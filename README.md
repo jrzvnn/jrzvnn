@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Record them!!!](http://9gag.com/gag/aBdbjyQ)
  - 😝 [Play stupid game...](http://9gag.com/gag/aeQqd3B)
+ - 💣 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)
  - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 💣 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
 
 ---
 

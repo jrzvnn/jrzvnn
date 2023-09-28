@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 😝 [Oktoberfest, Stuttgart. 2023](http://9gag.com/gag/aWGePmx)
- - 💣 [What are the odds?](http://9gag.com/gag/a8qvQeO)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [Get him](http://9gag.com/gag/ap9nj4n)<!-- MEMES:END -->
+ - 😝 [Dude fell for the oldest trick in poker and called security](http://9gag.com/gag/amAOyp4)
+ - 😝 [Get him](http://9gag.com/gag/ap9nj4n)
+ - 💣 [Misses of the world](http://9gag.com/gag/ap9nn1W)
+ - 😝 [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 👉 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Adobe makes its web-based Photoshop, including Firefly-powered features, generally available for paid plans, and has no &quot;immediate plans&quot; for a freemium plan &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230927/p52#a230927p52)
  - [SpaceX gets its first US Space Force contract, valued at up to $70M, offering the military custom satellite communications via the company&#39;s Starshield service &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230927/p51#a230927p51)
  - [Apple will have to face an antitrust lawsuit alleging iOS Apple Pay dominance](https://www.theverge.com/2023/9/27/23893434/apple-pay-antitrust-lawsuit-tap-to-pay-digital-wallet)
- - [Adobe Launches Photoshop For Web With AI Tools     - CNET](https://www.cnet.com/tech/services-and-software/adobe-launches-photoshop-for-web-with-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe Launches Photoshop for Web With AI Tools     - CNET](https://www.cnet.com/tech/services-and-software/adobe-launches-photoshop-for-web-with-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

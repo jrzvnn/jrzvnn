@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Castlevania: Nocturne is a revolutionary epic that does the franchise’s best games justice](https://www.theverge.com/23891310/netflix-castlevania-nocturne-review-konami-animated)
+ - [Google lets publishers use a robots.txt flag to opt out of the company using their data to train its AI models, while remaining accessible through Google Search &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p36#a230928p36)
  - [The Animated TV Show You Never See](https://www.wired.com/story/young-love-hbo-precedent/)
  - [Spotify is adding auto-generated transcripts to millions of podcasts](https://www.theverge.com/2023/9/28/23894674/spotify-auto-generated-podcast-transcripts)
- - [Google adds a switch for publishers to opt out of becoming AI training data](https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex)
- - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [iPhone is losing popularity in major market while Pixel is thriving](https://www.androidauthority.com/google-pixel-phones-sales-surge-3369474/)<!-- TECH:END -->
+ - [Google adds a switch for publishers to opt out of becoming AI training data](https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France&#39;s competition authority says it raided a company in the &quot;graphics cards sector&quot; as part of a cloud-computing inquiry; sources: Nvidia was raided &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230928/p35#a230928p35)
  - [Google plans to wind down its collaborative Jamboard app starting October 2024 and end support for its $5K, 55&quot; Jamboard meeting room display on September 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230928/p34#a230928p34)
- - [Five ways the Meta Quest 3 will &lpar;let developers&rpar; change the game](https://www.theverge.com/23893454/meta-quest-3-game-graphics-features-hands-avatar)
- - [A New York state judge rejects a bid by Uber, DoorDash, and Grubhub to block NYC&#39;s law setting a minimum pay of $17.96/hour for app-based delivery workers &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230928/p33#a230928p33)
- - [The Hollywood Writers AI Deal Sure Puts a Lot of Trust in Studios to Do the Right Thing](https://www.wired.com/story/writers-strike-hollywood-ai-protections/)
- - [An Epic Fight Over What Really Killed the Dinosaurs](https://www.wired.com/story/what-killed-the-dinosaurs/)<!-- TECH:END -->
+ - [iOS 17.1 Beta 1: What Could Be Coming to Your iPhone Soon     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-beta-1-what-could-be-coming-to-your-iphone-soon/#ftag=CAD590a51e)
+ - [The best Cricket Wireless deals of October 2023](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [Five ways the Meta Quest 3 will &lpar;let developers&rpar; change the game](https://www.theverge.com/23893454/meta-quest-3-game-graphics-features-hands-avatar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

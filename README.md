@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp is getting Meta’s new AI Assistant to answer your questions and more](https://www.androidauthority.com/whatsapp-meta-new-ai-assistant-3369228/)
+ - [Save on Office Essentials from Office Depot, Staples and Others     - CNET](https://www.cnet.com/deals/save-on-office-essentials-from-office-depot-staples-and-others/#ftag=CAD590a51e)
  - [Sources: OpenAI and Jony Ive&#39;s LoveFrom are in advanced talks with Masayoshi Son to raise $1B+ from SoftBank to build the &quot;iPhone of artificial intelligence&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p10#a230928p10)
  - [Google has doubled its market share for Pixel phones in the US since last year](https://www.androidauthority.com/google-pixel-us-market-share-q2-2023-3369219/)
- - [Raspberry Pi 5 launches with 64-bit quad-core Arm Cortex-A76 processor, up to 8GB of RAM, two 4K HDMI ports with HDR, available in October for $60 for 4GB model &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p9#a230928p9)
- - [Counterpoint: Pixel had a record 12% market share in Japan in Q2 2023, up from 2% YoY, while the iPhone&#39;s share fell from 58% to 46% during the same period &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/230928/p8#a230928p8)
- - [At the center of Google&#39;s antitrust trial are a &quot;remarkable&quot; number of deleted employee chats, as chat backups show employees discussing going &quot;off the record&quot; &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/230928/p7#a230928p7)<!-- TECH:END -->
+ - [Raspberry Pi 5 launches with 64-bit quad-core Arm Cortex-A76 processor, up to 8GB of RAM, two 4K HDMI ports with HDR, available in October for $60 for 4GB model &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230928/p9#a230928p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

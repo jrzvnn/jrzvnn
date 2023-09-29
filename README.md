@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch Linda Yaccarino’s wild interview at the Code Conference](https://www.theverge.com/2023/9/28/23895150/linda-yaccarino-code-conference-2023-x-twitter)
  - [In an interview using Meta&#39;s photorealistic Codec Avatars, Mark Zuckerberg talks about the metaverse, Quest 3, the nature of reality, AI, and humanity&#39;s future &lpar;Lex Fridman/Lex Fridman Podcast&rpar;](http://www.techmeme.com/230928/p39#a230928p39)
+ - [PS5 Pro: Release date, rumors, price, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
  - [I Guess We’re All Talking to Our Glasses Now](https://www.wired.com/story/gadget-lab-podcast-614/)
- - [The 2024 Honda Prologue EV will have 300 miles of range](https://www.theverge.com/2023/9/28/23894748/2024-honda-prologue-ev-range-battery-evgo-charging-credit)
- - [Microsoft reportedly pitched Apple on buying Bing to no avail](https://www.theverge.com/2023/9/28/23895055/microsoft-apple-bing-sale-rumor-google-default)
- - [Microsoft entered negotiations to sell Bing to Apple in 2020](https://appleinsider.com/articles/23/09/28/microsoft-entered-negotiations-to-sell-bing-to-apple-in-2020?utm_medium=rss)<!-- TECH:END -->
+ - [Affordable Fitness Gifts Under $50 for Your Favorite Workout Warriors     - CNET](https://www.cnet.com/health/fitness/cheap-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

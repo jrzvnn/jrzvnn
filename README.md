@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)
+ - [The co-founder of a collapsed crypto hedge fund was arrested in Singapore](https://www.theverge.com/2023/9/29/23896188/crypto-hedge-fund-three-arrows-captial-su-zhu-arrest)
  - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)
  - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
- - [Letter: the US SEC told Bolt the startup likely won&#39;t face enforcement action after a 15-month probe into whether Bolt violated securities laws when fundraising &lpar;Forbes&rpar;](http://www.techmeme.com/230929/p16#a230929p16)
- - [Pokémon’s Van Gogh collaboration turned out to be kind of a disaster](https://www.theverge.com/23896251/pokemon-van-gogh-pikachu-sold-out-scalping-promos)
- - [iPhone 16 Pro may get larger displays than iPhone 15 Pro counterparts](https://appleinsider.com/articles/23/09/29/iphone-16-pro-may-get-larger-displays-than-iphone-15-pro-counterparts?utm_medium=rss)<!-- TECH:END -->
+ - [Letter: the US SEC told Bolt the startup likely won&#39;t face enforcement action after a 15-month probe into whether Bolt violated securities laws when fundraising &lpar;Forbes&rpar;](http://www.techmeme.com/230929/p16#a230929p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

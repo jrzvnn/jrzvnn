@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 💣 [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
+ - 😝 [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
  - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
  - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
 

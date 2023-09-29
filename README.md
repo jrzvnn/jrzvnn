@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical Liberal](http://9gag.com/gag/aNwGGx6)
+ - 😝 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
  - 😝 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
- - 💣 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 😝 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
- - 👉 [RiP Sir, Dumbledoor. GBNF](http://9gag.com/gag/a1P8nY6)<!-- MEMES:END -->
+ - 💣 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
+ - 😝 [RiP Sir, Dumbledoor. GBNF](http://9gag.com/gag/a1P8nY6)
+ - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
 
 ---
 

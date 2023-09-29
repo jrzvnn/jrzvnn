@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How and when you can just say &#39;Siri&#39; to a Mac on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-and-when-you-can-just-say-siri-to-a-mac-on-macos-sonoma?utm_medium=rss)
+ - [&#39;EA Sports FC 24&#39; Is Just &#39;FIFA 24&#39; in a Different Jersey](https://www.wired.com/story/ea-sports-fc-just-fifa-in-a-different-kit/)
+ - [EA Sports FC 24 isn’t a huge change — but EA hopes it’s the start of something bigger](https://www.theverge.com/23894652/ea-sports-fc-24-launch-future-playstation-xbox-pc-switch)
  - [These Pixel 8 and Pixel Watch 2 leaks tell us everything about the products](https://www.androidauthority.com/google-pixel-8-pro-watch-2-leak-again-3369765/)
- - [The best Ring video doorbell you can buy is $100 off right now](https://www.theverge.com/2023/9/29/23894481/ring-video-doorbell-pro-xbox-apple-iphone-gift-card-deal-sale)
- - [Every iPhone screen has a barcode to prevent a manufacturing scam](https://appleinsider.com/articles/23/09/29/every-iphone-screen-has-a-barcode-to-prevent-a-manufacturing-scam?utm_medium=rss)
- - [The Supreme Court agrees to hear two cases concerning whether Florida and Texas can restrict how social media companies moderate content &lpar;Washington Post&rpar;](http://www.techmeme.com/230929/p8#a230929p8)
- - [15 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [The best Ring video doorbell you can buy is $100 off right now](https://www.theverge.com/2023/9/29/23894481/ring-video-doorbell-pro-xbox-apple-iphone-gift-card-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

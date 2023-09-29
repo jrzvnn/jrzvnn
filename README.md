@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Discord is down, and affected users are seeing a “blocked” message](https://www.androidauthority.com/discord-is-down-3369789/)
  - [A Revelation About Trees Is Messing With Climate Calculations](https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
  - [The Rebel Drone Maker of Myanmar](https://www.wired.com/story/the-rebel-drone-maker-of-myanmar/)
- - [France won&#39;t recall iPhone 12, as modem-limiting iOS update has been approved](https://appleinsider.com/articles/23/09/29/france-wont-recall-iphone-12-now-ios-update-has-been-approved?utm_medium=rss)
- - [Apple says it supports over half a million jobs in the UK](https://appleinsider.com/articles/23/09/29/apple-says-it-supports-over-half-a-million-jobs-in-the-uk?utm_medium=rss)
- - [The UK CMA says it is examining whether Qualcomm&#39;s purchase of Israeli auto-chip maker Autotalks would lessen competition in the UK market &lpar;Reuters&rpar;](http://www.techmeme.com/230929/p6#a230929p6)<!-- TECH:END -->
+ - [France won&#39;t recall iPhone 12, as modem-limiting iOS update has been approved](https://appleinsider.com/articles/23/09/29/france-wont-recall-iphone-12-now-ios-update-has-been-approved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

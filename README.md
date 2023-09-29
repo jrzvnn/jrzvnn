@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
  - 😝 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
+ - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
 
 ---
 

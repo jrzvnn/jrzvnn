@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jasper, which offers AI writing tools for marketers, slashed its internal valuation by 20% from $1.5B and cut its $140M 2023 ARR projections by 30%+ &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)
+ - [Sources: Jasper, which offers AI writing tools for marketers, has cut its $140M 2023 ARR projections by 30%+ and slashed internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)
  - [‘There’s no tracing Xbox 360 chat,’ claimed guy now charged with insider trading](https://www.theverge.com/2023/9/29/23896150/xbox-360-chat-insider-trading-anthony-viggiano-christopher-salamone-stephen-forlano)
  - [The 28 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
  - [The 13 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)

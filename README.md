@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Watch 2 leak shows off Fitbit features with UI redesign](https://www.androidauthority.com/pixel-watch-2-fitbit-features-3369838/)
+ - [AMC Plus is getting an ad-supported subscription tier](https://www.theverge.com/2023/9/29/23895786/amc-plus-ad-supported-streaming-price)
  - [Liquidators say 3AC&#39;s Su Zhu was arrested in Singapore while trying to leave the country and sentenced to four months for failure to comply with court orders &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230929/p9#a230929p9)
  - [The Fairphone 5 is less about what comes in the box and more about what you get over the years](https://www.theverge.com/23895548/fairphone-5-review-price-features)
- - [Amazon will charge you to use its new Echo Show 8 as a digital photo frame](https://www.theverge.com/2023/9/22/23885332/amazon-echo-show-8-photos-edition-digital-frame-price-fee)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Daily deals Sept. 29: Apple Pencil 2 $89, $1,500 off M1 Max MacBook Pro, M2 MacBook Air 16GB RAM $1,099, more](https://appleinsider.com/articles/23/09/29/daily-deals-sept-29-apple-pencil-2-89-1500-off-m1-max-macbook-pro-m2-macbook-air-16gb-ram-1099-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon will charge you to use its new Echo Show 8 as a digital photo frame](https://www.theverge.com/2023/9/22/23885332/amazon-echo-show-8-photos-edition-digital-frame-price-fee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

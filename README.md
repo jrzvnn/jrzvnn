@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Pixel Watch 2 leak shows features adopted from Fitbit](https://www.theverge.com/2023/9/29/23895764/google-pixel-watch-2-leak-fitbit-body-responses)
  - [Omnicase 2 Pro USB-C Hub review: Compact and competent data and charging](https://appleinsider.com/articles/23/09/29/omnicase-2-pro-usb-c-hub-review-compact-and-competent-data-and-charging?utm_medium=rss)
  - [Supreme Court to hear landmark social media moderation cases](https://www.theverge.com/2023/9/29/23895867/supreme-court-texas-florida-moderation-social-media-conservative-bias)
  - [Pixel Watch 2 leak shows off Fitbit features with UI redesign](https://www.androidauthority.com/pixel-watch-2-fitbit-features-3369838/)
- - [AMC Plus is getting an ad-supported subscription tier](https://www.theverge.com/2023/9/29/23895786/amc-plus-ad-supported-streaming-price)
- - [Liquidators say 3AC&#39;s Su Zhu was arrested in Singapore while trying to leave the country and sentenced to four months for failure to comply with court orders &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230929/p9#a230929p9)<!-- TECH:END -->
+ - [AMC Plus is getting an ad-supported subscription tier](https://www.theverge.com/2023/9/29/23895786/amc-plus-ad-supported-streaming-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
- - [Hey Zuck, Get Those Robots out of My Social Feed](https://www.wired.com/story/plaintext-zuckerberg-robots-social-feed/)
- - [Netflix Just Shipped Its Last DVD. The Algorithms Won](https://www.wired.com/story/netflix-last-dvd-algorithms-won/)
- - [Google Podcasts is going away but we’ve got some alternatives.](https://www.theverge.com/23891397/google-podcasts-youtube-spotify-alternatives-pocket-casts)
- - [We’re at New York Film Festival 2023](https://www.theverge.com/23885491/new-york-film-festival-2023-nyff-movies-trailers)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra renders leak: Are flat displays back in fashion?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-render-leak-3369812/)
+ - [Intel says it had begun high-volume production using extreme ultraviolet lithography machines at its Ireland plant in its first such attempt with EUV technology &lpar;Reuters&rpar;](http://www.techmeme.com/230929/p7#a230929p7)
+ - [Google Pixel event: how to watch and what to expect](https://www.theverge.com/23894038/google-pixel-8-pro-event-date-time-watch-live-stream)
+ - [Apple fights to preserve major App Store loophole in China](https://www.theverge.com/2023/9/29/23895650/apple-app-store-loophole-china-firewall-regulation-licensing)
+ - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

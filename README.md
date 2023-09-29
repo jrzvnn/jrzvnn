@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 😝 [Oprah&#39;s mates](http://9gag.com/gag/a4oB8OQ)
- - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
+ - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
 
 ---
 

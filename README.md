@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook confirms Apple is researching ChatGPT-style AI](https://appleinsider.com/articles/23/09/29/tim-cook-confirms-apple-is-researching-chatgpt-style-ai?utm_medium=rss)
- - [Apple Watch Series 9 review: Solid upgrade even with features still coming](https://appleinsider.com/articles/23/09/29/apple-watch-series-9-review-solid-upgrade-even-with-features-still-coming?utm_medium=rss)
- - [Which Spider-Man Is Stronger: Tobey Maguire or Tom Holland?](https://www.wired.com/story/which-spider-man-is-stronger-tobey-maguire-or-tom-holland/)
- - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)
- - [Discord is down, and affected users are seeing a “blocked” message](https://www.androidauthority.com/discord-is-down-3369789/)<!-- TECH:END -->
+ - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
+ - [Hey Zuck, Get Those Robots out of My Social Feed](https://www.wired.com/story/plaintext-zuckerberg-robots-social-feed/)
+ - [Netflix Just Shipped Its Last DVD. The Algorithms Won](https://www.wired.com/story/netflix-last-dvd-algorithms-won/)
+ - [Google Podcasts is going away but we’ve got some alternatives.](https://www.theverge.com/23891397/google-podcasts-youtube-spotify-alternatives-pocket-casts)
+ - [We’re at New York Film Festival 2023](https://www.theverge.com/23885491/new-york-film-festival-2023-nyff-movies-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

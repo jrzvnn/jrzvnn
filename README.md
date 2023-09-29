@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [iPhone 16 Pro may get larger displays than iPhone 15 Pro counterparts](https://appleinsider.com/articles/23/09/29/iphone-16-pro-may-get-larger-displays-than-iphone-15-pro-counterparts?utm_medium=rss)
  - [October’s video game release calendar is a little too stacked](https://www.theverge.com/2023/9/29/23896119/october-2023-video-games-release-date)
- - [Sources: Jasper, which offers AI writing tools for marketers, has cut its $140M 2023 ARR projections by 30%+ and slashed internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)
+ - [Sources: Jasper, which offers an AI writing tool for marketers, cut its $140M ARR projections for 2023 by 30%+ and its internal valuation by 20% from $1.5B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/230929/p15#a230929p15)
  - [‘There’s no tracing Xbox 360 chat,’ claimed guy now charged with insider trading](https://www.theverge.com/2023/9/29/23896150/xbox-360-chat-insider-trading-anthony-viggiano-christopher-salamone-stephen-forlano)
  - [The 28 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 

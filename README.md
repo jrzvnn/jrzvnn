@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christina Hendricks](http://9gag.com/gag/aBdbbZP)
- - 😝 [Dude fell for the oldest trick in poker and called security](http://9gag.com/gag/amAOyp4)
- - 💣 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
- - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 👉 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)<!-- MEMES:END -->
+ - 😝 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
+ - 😝 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
+ - 💣 [RiP Sir, Dumbledoor. GBNF](http://9gag.com/gag/a1P8nY6)
+ - 😝 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
+ - 👉 [Did you know? Chinese were once black](http://9gag.com/gag/a9q4eAo)<!-- MEMES:END -->
 
 ---
 

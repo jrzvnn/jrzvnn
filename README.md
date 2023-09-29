@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
- - 😝 [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)
- - 💣 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [Huehuehue](http://9gag.com/gag/a04Dzbn)
+ - 😝 [Clock alarm](http://9gag.com/gag/axoewjM)
+ - 💣 [THIS IS THE WAY FORWARD.](http://9gag.com/gag/a4oBB3d)
+ - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
  - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Letterboxd has been acquired — and promises ‘very little’ will change](https://www.theverge.com/2023/9/29/23896052/letterboxd-movie-app-acquired-tiny-holding-company-deal)
  - [MakerDAO has passed a proposal that will allow it to invest up to $6B in short-term US Treasuries, double the current limit; MKR token is up almost 3x in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230929/p14#a230929p14)
  - [Ford accuses UAW of holding contract negotiations ‘hostage’ over EV battery plants](https://www.theverge.com/2023/9/29/23896139/ford-uaw-strike-contract-hostage-ev-battery-factory)
  - [Now you can water-cool your PS5, too](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x)
- - [BeReal says its app has 25M+ DAUs, up from 20M in October 2022, disputing a Similarweb report estimating that BeReal&#39;s MAUs declined to 16.06M in August 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)
- - [M2 MacBook Pro 14-inch vs Microsoft Surface Laptop Studio 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-14-inch-vs-microsoft-surface-laptop-studio-2----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [BeReal says its app has 25M+ DAUs, up from 20M in October 2022, disputing a Similarweb report estimating that BeReal&#39;s MAUs declined to 16.06M in August 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

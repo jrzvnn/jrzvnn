@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The synthetic social network is coming](https://www.theverge.com/2023/9/29/23895675/ai-bot-social-network-openai-meta-chatbots)
  - [Samsung Galaxy S24 Ultra renders leak: Are flat displays back in fashion?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-render-leak-3369812/)
  - [Intel says it had begun high-volume production using extreme ultraviolet lithography machines at its Ireland plant in its first such attempt with EUV technology &lpar;Reuters&rpar;](http://www.techmeme.com/230929/p7#a230929p7)
  - [Google Pixel event: how to watch and what to expect](https://www.theverge.com/23894038/google-pixel-8-pro-event-date-time-watch-live-stream)
- - [Apple fights to preserve major App Store loophole in China](https://www.theverge.com/2023/9/29/23895650/apple-app-store-loophole-china-firewall-regulation-licensing)
- - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)<!-- TECH:END -->
+ - [Apple fights to preserve major App Store loophole in China](https://www.theverge.com/2023/9/29/23895650/apple-app-store-loophole-china-firewall-regulation-licensing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

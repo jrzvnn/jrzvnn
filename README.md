@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
  - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 💣 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 👉 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
+ - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
 
 ---
 

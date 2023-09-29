@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
  - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 💣 [Oprah&#39;s mates](http://9gag.com/gag/a4oB8OQ)
- - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 👉 [Gym assistant](http://9gag.com/gag/axoeejb)<!-- MEMES:END -->
+ - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 😝 [Oprah&#39;s mates](http://9gag.com/gag/a4oB8OQ)
+ - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
 
 ---
 

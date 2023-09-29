@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘There’s no tracing Xbox 360 chat,’ claimed guy now charged with insider trading](https://www.theverge.com/2023/9/29/23896150/xbox-360-chat-insider-trading-anthony-viggiano-christopher-salamone-stephen-forlano)
+ - [The 28 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 13 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Famous movie star seen using a OnePlus Open](https://www.androidauthority.com/oneplus-open-anushka-sharma-3369988/)
- - [Letterboxd has been acquired — and promises ‘very little’ will change](https://www.theverge.com/2023/9/29/23896052/letterboxd-movie-app-acquired-tiny-holding-company-deal)
- - [MakerDAO has passed a proposal that will allow it to invest up to $6B in short-term US Treasuries, double the current limit; MKR token is up almost 3x in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230929/p14#a230929p14)
- - [Ford accuses UAW of holding contract negotiations ‘hostage’ over EV battery plants](https://www.theverge.com/2023/9/29/23896139/ford-uaw-strike-contract-hostage-ev-battery-factory)
- - [Now you can water-cool your PS5, too](https://www.theverge.com/2023/9/29/23895967/water-cooled-ps5-ek-water-blocks-quantum-x)<!-- TECH:END -->
+ - [Letterboxd has been acquired — and promises ‘very little’ will change](https://www.theverge.com/2023/9/29/23896052/letterboxd-movie-app-acquired-tiny-holding-company-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

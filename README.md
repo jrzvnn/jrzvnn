@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
  - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 💣 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
 
 ---
 

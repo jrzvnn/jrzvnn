@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock alarm](http://9gag.com/gag/axoewjM)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
- - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
+ - 😝 [Go away](http://9gag.com/gag/a9q40L6)
+ - 😝 [Very deep](http://9gag.com/gag/aEqjbAo)
+ - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 😝 [You know it , I know it , everybody knows it](http://9gag.com/gag/aPgV2yQ)
+ - 👉 [Clock alarm](http://9gag.com/gag/axoewjM)<!-- MEMES:END -->
 
 ---
 

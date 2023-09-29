@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are the odds?](http://9gag.com/gag/a8qvQeO)
- - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
- - 💣 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
+ - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 💣 [What are the odds?](http://9gag.com/gag/a8qvQeO)
  - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
  - 👉 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)<!-- MEMES:END -->
 

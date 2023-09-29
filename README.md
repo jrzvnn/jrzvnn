@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta quietly unveils Llama 2 Long, which has been trained with long sequences, outperforming GPT-3.5 Turbo and Claude 2 in responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
+ - [Meta quietly unveils Llama 2 Long, which has been trained with longer sequences, outperforming GPT-3.5 Turbo and Claude 2 when responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
  - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)
  - [The co-founder of a collapsed crypto hedge fund was arrested in Singapore](https://www.theverge.com/2023/9/29/23896188/crypto-hedge-fund-three-arrows-captial-su-zhu-arrest)
  - [New York Needs to Get Spongier—or Get Used to More Floods](https://www.wired.com/story/new-york-needs-to-get-spongier-or-get-used-to-more-floods/)
- - [Here’s where you can preorder Sony’s upcoming PlayStation Portal](https://www.theverge.com/2023/8/31/23850592/sony-playstation-portal-preorder-buy-price-availability-release-date)<!-- TECH:END -->
+ - [NASA Spots Eerie &#39;Spider&#39; Shapes in Mars Crater View     - CNET](https://www.cnet.com/science/space/nasa-spots-eerie-spider-shapes-in-mars-crater-view/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 9 review: Solid upgrade even with features still coming](https://appleinsider.com/articles/23/09/29/apple-watch-series-9-review-solid-upgrade-even-with-features-still-coming?utm_medium=rss)
+ - [Which Spider-Man Is Stronger: Tobey Maguire or Tom Holland?](https://www.wired.com/story/which-spider-man-is-stronger-tobey-maguire-or-tom-holland/)
  - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)
  - [Discord is down, and affected users are seeing a “blocked” message](https://www.androidauthority.com/discord-is-down-3369789/)
- - [5 Reasons to Use a VPN     - CNET](https://www.cnet.com/tech/services-and-software/5-reasons-to-use-a-vpn/#ftag=CAD590a51e)
- - [iOS 17 Makes It Easy to Share AirTags. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/ios-17-makes-it-easy-to-share-airtags-heres-how/#ftag=CAD590a51e)
- - [A Revelation About Trees Is Messing With Climate Calculations](https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)<!-- TECH:END -->
+ - [5 Reasons to Use a VPN     - CNET](https://www.cnet.com/tech/services-and-software/5-reasons-to-use-a-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ai will touch our brain](http://9gag.com/gag/a8qvQ3p)
- - 😝 [If ever there was an excuse to buy a printer](http://9gag.com/gag/awZ994r)
- - 💣 [RiP Sir, Dumbledoor. GBNF](http://9gag.com/gag/a1P8nY6)
+ - 😝 [Misses of the world](http://9gag.com/gag/ap9nn1W)
  - 😝 [There&#39;s no better place for a date...wy](http://9gag.com/gag/aKEXy8g)
- - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
+ - 💣 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - 😝 [9gag community living in horny mode](http://9gag.com/gag/aA0L71g)
+ - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
 
 ---
 

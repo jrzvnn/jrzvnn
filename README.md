@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A film about the failed Titan submersible is already in the works](https://www.theverge.com/2023/9/29/23895953/titan-submersible-film-production)
+ - [BeReal says it has 25M DAUs, up from 20M about a year ago, disputing a Similarweb report that BeReal&#39;s MAUs declined to 16.06M in August &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)
+ - [M2 MacBook Pro 14-inch vs Microsoft Surface Laptop Studio 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-14-inch-vs-microsoft-surface-laptop-studio-2----specs-price-and-features-compared?utm_medium=rss)
+ - [A movie about the failed Titan submersible is already in the works](https://www.theverge.com/2023/9/29/23895953/titan-submersible-film-production)
  - [New York City Is Drowning](https://www.wired.com/story/new-york-city-floods-state-of-emergency/)
- - [Score a chance to get the Sony HTX8500 soundbar at an insane $200 off](https://www.androidauthority.com/sony-htx8500-soundbar-deal-3369941/)
- - [The founders of Letterboxd sell a majority stake to Canadian company Tiny; source: the deal values the film-focused social network with 10M users at $50M+ &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230929/p12#a230929p12)
- - [End of an Era: Netflix announces it shipped its last DVD today](https://www.androidauthority.com/netflix-ships-final-dvd-3369933/)<!-- TECH:END -->
+ - [Score a chance to get the Sony HTX8500 soundbar at an insane $200 off](https://www.androidauthority.com/sony-htx8500-soundbar-deal-3369941/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

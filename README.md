@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock alarm](http://9gag.com/gag/axoewjM)
- - 😝 [Go away](http://9gag.com/gag/a9q40L6)
- - 💣 [One of the rare times where a LinkedIn post is not some bullshit](http://9gag.com/gag/aDYq589)
- - 😝 [It doesn&#39;t have to be this way](http://9gag.com/gag/aYVv602)
- - 👉 [McDonalds ad, adjusted for the American market.](http://9gag.com/gag/amAOwBV)<!-- MEMES:END -->
+ - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 😝 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
+ - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
 
 ---
 

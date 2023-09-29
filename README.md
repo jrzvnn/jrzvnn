@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What are silicon anode batteries?](https://www.androidauthority.com/silicon-anode-batteries-3369698/)
  - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
  - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)
  - [It’s only September but we’ve already got our first look at the Galaxy S24](https://www.androidauthority.com/samsung-galaxy-s24-leaked-renders-3368259/)
- - [An abandoned Apple-Microsoft deal is now making trouble for Google](https://www.androidauthority.com/microsoft-bing-apple-google-search-deal-3369622/)
- - [Sources: the UK is pushing Google, OpenAI, and Anthropic for unprecedented access to examine the internal workings of their LLMs, ahead of its global AI summit &lpar;Financial Times&rpar;](http://www.techmeme.com/230929/p1#a230929p1)<!-- TECH:END -->
+ - [An abandoned Apple-Microsoft deal is now making trouble for Google](https://www.androidauthority.com/microsoft-bing-apple-google-search-deal-3369622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

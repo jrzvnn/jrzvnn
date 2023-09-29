@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
+ - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 😝 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
  - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
  - 👉 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
 
 ---

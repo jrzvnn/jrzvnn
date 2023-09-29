@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: get Apple&#39;s M2 MacBook Air 13-inch with 16GB RAM for just $1,099](https://appleinsider.com/articles/23/09/29/flash-deal-get-apples-m2-macbook-air-13-inch-with-16gb-ram-for-just-1099?utm_medium=rss)
+ - [Famous movie star seen using a OnePlus Open](https://www.androidauthority.com/oneplus-open-real-life-3369903/)
+ - [Linda Yaccarino says X has paid out nearly $20M to creators; Musk said in July that first payments totaled $5M &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230929/p11#a230929p11)
  - [Report: Apple uses microscopic QR codes on iPhone screens to track defects, which helped reduce faulty screen report rates from its suppliers from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)
- - [This Pixel Watch 2 leak shows features adopted from Fitbit](https://www.theverge.com/2023/9/29/23895764/google-pixel-watch-2-leak-fitbit-body-responses)
- - [Omnicase 2 Pro USB-C Hub review: Compact and competent data and charging](https://appleinsider.com/articles/23/09/29/omnicase-2-pro-usb-c-hub-review-compact-and-competent-data-and-charging?utm_medium=rss)
- - [Supreme Court to hear landmark social media moderation cases](https://www.theverge.com/2023/9/29/23895867/supreme-court-texas-florida-moderation-social-media-conservative-bias)
- - [Pixel Watch 2 leak shows off Fitbit features with UI redesign](https://www.androidauthority.com/pixel-watch-2-fitbit-features-3369838/)<!-- TECH:END -->
+ - [This Pixel Watch 2 leak shows features adopted from Fitbit](https://www.theverge.com/2023/9/29/23895764/google-pixel-watch-2-leak-fitbit-body-responses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

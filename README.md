@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The founders of Letterboxd sell a majority stake to Canadian company Tiny; source: the deal values the film-focused social network with 10M users at $50M+ &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230929/p12#a230929p12)
  - [End of an Era: Netflix announces it shipped its last DVD today](https://www.androidauthority.com/netflix-ships-final-dvd-3369933/)
  - [Flash deal: get Apple&#39;s M2 MacBook Air 13-inch with 16GB RAM for just $1,099](https://appleinsider.com/articles/23/09/29/flash-deal-get-apples-m2-macbook-air-13-inch-with-16gb-ram-for-just-1099?utm_medium=rss)
  - [Linda Yaccarino says X has paid out nearly $20M to creators; Musk said in July that first payments totaled $5M &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230929/p11#a230929p11)
- - [Report: Apple uses two microscopic QR codes on iPhone displays to track defects, which has helped cut its suppliers&#39; faulty screen report rates from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)
- - [Best Workout Mirrors for 2023     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: Apple uses two microscopic QR codes on iPhone displays to track defects, which has helped cut its suppliers&#39; faulty screen report rates from 30% to 10% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/230929/p10#a230929p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook confirms Apple is researching ChatGPT-style AI](https://appleinsider.com/articles/23/09/29/tim-cook-confirms-apple-is-researching-chatgpt-style-ai?utm_medium=rss)
  - [Apple Watch Series 9 review: Solid upgrade even with features still coming](https://appleinsider.com/articles/23/09/29/apple-watch-series-9-review-solid-upgrade-even-with-features-still-coming?utm_medium=rss)
  - [Which Spider-Man Is Stronger: Tobey Maguire or Tom Holland?](https://www.wired.com/story/which-spider-man-is-stronger-tobey-maguire-or-tom-holland/)
  - [iPhone 15 Pro Max review, iOS 17.1 beta, macOS Sonoma details on the AppleInsider Podcast](https://appleinsider.com/articles/23/09/29/iphone-15-pro-max-review-ios-171-beta-macos-sonoma-details-on-the-appleinsider-podcast?utm_medium=rss)
- - [Discord is down, and affected users are seeing a “blocked” message](https://www.androidauthority.com/discord-is-down-3369789/)
- - [5 Reasons to Use a VPN     - CNET](https://www.cnet.com/tech/services-and-software/5-reasons-to-use-a-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Discord is down, and affected users are seeing a “blocked” message](https://www.androidauthority.com/discord-is-down-3369789/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

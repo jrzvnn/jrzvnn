@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows exactly what she is doing.](http://9gag.com/gag/aKEXnqW)
- - 😝 [I wonder why?](http://9gag.com/gag/aeQqPym)
- - 💣 [What are the odds?](http://9gag.com/gag/a8qvQeO)
- - 😝 [I think we deserve this today](http://9gag.com/gag/a04DzZZ)
- - 👉 [Greatest manager ever](http://9gag.com/gag/abvLKDB)<!-- MEMES:END -->
+ - 😝 [It&#39;s them again...](http://9gag.com/gag/aeQqyOQ)
+ - 😝 [Greatest manager ever](http://9gag.com/gag/abvLKDB)
+ - 💣 [Shooting in Dutch prestigious university hospital and home. Special police forces were able to catch him right outside the hospital. 3 dead. Husband, wife and daughter.](http://9gag.com/gag/adPWMZ9)
+ - 😝 [What are the odds?](http://9gag.com/gag/a8qvQeO)
+ - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
 
 ---
 

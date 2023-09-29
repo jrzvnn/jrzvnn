@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
+ - 😝 [Clock alarm](http://9gag.com/gag/axoewjM)
+ - 😝 [Go away](http://9gag.com/gag/a9q40L6)
+ - 💣 [One of the rare times where a LinkedIn post is not some bullshit](http://9gag.com/gag/aDYq589)
+ - 😝 [It doesn&#39;t have to be this way](http://9gag.com/gag/aYVv602)
+ - 👉 [McDonalds ad, adjusted for the American market.](http://9gag.com/gag/amAOwBV)<!-- MEMES:END -->
 
 ---
 

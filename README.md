@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [Make Middle Earth Great Again](http://9gag.com/gag/aVb96W8)
+ - 😝 [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
+ - 💣 [That escalated quickly](http://9gag.com/gag/aOxn5y6)
+ - 😝 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
+ - 👉 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)<!-- MEMES:END -->
 
 ---
 

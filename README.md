@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
  - 😝 [Am I lesbian geh?](http://9gag.com/gag/a3Zze98)
- - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
 
 ---
 

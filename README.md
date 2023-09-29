@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Pixel 8 and Pixel Watch 2 leaks tell us everything about the products](https://www.androidauthority.com/google-pixel-8-pro-watch-2-leak-again-3369765/)
  - [The best Ring video doorbell you can buy is $100 off right now](https://www.theverge.com/2023/9/29/23894481/ring-video-doorbell-pro-xbox-apple-iphone-gift-card-deal-sale)
  - [Every iPhone screen has a barcode to prevent a manufacturing scam](https://appleinsider.com/articles/23/09/29/every-iphone-screen-has-a-barcode-to-prevent-a-manufacturing-scam?utm_medium=rss)
  - [The Supreme Court agrees to hear two cases concerning whether Florida and Texas can restrict how social media companies moderate content &lpar;Washington Post&rpar;](http://www.techmeme.com/230929/p8#a230929p8)
- - [15 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
- - [AMD CEO Lisa Su on the AI revolution and competing with Nvidia](https://www.theverge.com/23894647/amd-ceo-lisa-su-ai-chips-nvidia-supply-chain-interview-decoder)<!-- TECH:END -->
+ - [15 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

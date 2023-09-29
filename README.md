@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Progress Software, the company behind the widely exploited MOVEit file transfer tool, patches critical vulnerabilities in its WS_FTP Server file transfer tool &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230929/p2#a230929p2)
  - [It’s only September but we’ve already got our first look at the Galaxy S24](https://www.androidauthority.com/samsung-galaxy-s24-leaked-renders-3368259/)
  - [An abandoned Apple-Microsoft deal is now making trouble for Google](https://www.androidauthority.com/microsoft-bing-apple-google-search-deal-3369622/)
  - [Sources: the UK is pushing Google, OpenAI, and Anthropic for unprecedented access to examine the internal workings of their LLMs, ahead of its global AI summit &lpar;Financial Times&rpar;](http://www.techmeme.com/230929/p1#a230929p1)
- - [Give the Gift of Learning With These Subscriptions     - CNET](https://www.cnet.com/tech/services-and-software/give-the-gift-of-learning-with-these-discounted-subscriptions/#ftag=CAD590a51e)
- - [The Ryder Cup 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-ryder-cup-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Give the Gift of Learning With These Subscriptions     - CNET](https://www.cnet.com/tech/services-and-software/give-the-gift-of-learning-with-these-discounted-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

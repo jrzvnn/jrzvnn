@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Revelation About Trees Is Messing With Climate Calculations](https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
+ - [The Rebel Drone Maker of Myanmar](https://www.wired.com/story/the-rebel-drone-maker-of-myanmar/)
  - [France won&#39;t recall iPhone 12, as modem-limiting iOS update has been approved](https://appleinsider.com/articles/23/09/29/france-wont-recall-iphone-12-now-ios-update-has-been-approved?utm_medium=rss)
  - [Apple says it supports over half a million jobs in the UK](https://appleinsider.com/articles/23/09/29/apple-says-it-supports-over-half-a-million-jobs-in-the-uk?utm_medium=rss)
- - [The UK CMA says it is examining whether Qualcomm&#39;s purchase of Israeli auto-chip maker Autotalks would lessen competition in the UK market &lpar;Reuters&rpar;](http://www.techmeme.com/230929/p6#a230929p6)
- - [French authorities say they have approved Apple&#39;s iPhone 12 software update to address radiation concerns; Apple submitted the update on September 26 &lpar;Elizabeth Pineau/Reuters&rpar;](http://www.techmeme.com/230929/p5#a230929p5)
- - [Apple iPhone SE 4: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/iphone-se-4-3351760/)<!-- TECH:END -->
+ - [The UK CMA says it is examining whether Qualcomm&#39;s purchase of Israeli auto-chip maker Autotalks would lessen competition in the UK market &lpar;Reuters&rpar;](http://www.techmeme.com/230929/p6#a230929p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

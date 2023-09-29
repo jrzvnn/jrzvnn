@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple execs met with Chinese officials recently to discuss new rules forcing Apple to ban foreign apps whose operators are not registered with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230929/p3#a230929p3)
+ - [Passkeys: all the news and updates around passwordless sign-on](https://www.theverge.com/2023/9/29/23895518/passkey-passwordless-login-announcements-news-updates)
  - [Samsung Galaxy S24 leak shows a familiar design ahead of early 2024 launch](https://www.theverge.com/2023/9/29/23895519/samsung-galaxy-s24-leaked-renders-design-specs-features-rumors)
  - [What does Nudge mean on TikTok?](https://www.androidauthority.com/nudge-meaning-tiktok-3369708/)
- - [Apple remains silent on iPhone 15 Pro’s heating issue despite mounting evidence](https://www.androidauthority.com/apple-iphone-15-pro-heating-issue-silence-3369669/)
- - [What are silicon anode batteries?](https://www.androidauthority.com/silicon-anode-batteries-3369698/)
- - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)<!-- TECH:END -->
+ - [Apple remains silent on iPhone 15 Pro’s heating issue despite mounting evidence](https://www.androidauthority.com/apple-iphone-15-pro-heating-issue-silence-3369669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

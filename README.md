@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 😝 [Gym assistant](http://9gag.com/gag/axoeejb)
- - 💣 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
+ - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 💣 [Gym assistant](http://9gag.com/gag/axoeejb)
  - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 👉 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)<!-- MEMES:END -->
+ - 👉 [Hell no](http://9gag.com/gag/adPWAQ9)<!-- MEMES:END -->
 
 ---
 

@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BeReal says it has 25M DAUs, up from 20M about a year ago, disputing a Similarweb report that BeReal&#39;s MAUs declined to 16.06M in August &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)
+ - [BeReal says its app has 25M+ DAUs, up from 20M in October 2022, disputing a Similarweb report estimating that BeReal&#39;s MAUs declined to 16.06M in August 2023 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230929/p13#a230929p13)
  - [M2 MacBook Pro 14-inch vs Microsoft Surface Laptop Studio 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-14-inch-vs-microsoft-surface-laptop-studio-2----specs-price-and-features-compared?utm_medium=rss)
  - [A movie about the failed Titan submersible is already in the works](https://www.theverge.com/2023/9/29/23895953/titan-submersible-film-production)
  - [New York City Is Drowning](https://www.wired.com/story/new-york-city-floods-state-of-emergency/)

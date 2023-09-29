@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK is pushing Google, OpenAI, and Anthropic for unprecedented access to examine the internal workings of their LLMs, ahead of its global AI summit &lpar;Financial Times&rpar;](http://www.techmeme.com/230929/p1#a230929p1)
+ - [The Ryder Cup 2023: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-ryder-cup-2023-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)
  - [Meta&#39;s Quest 3 is scheduled to get upper body tracking and AI estimated legs, called Generative Legs, in a software update in December &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230928/p42#a230928p42)
  - [Sources: on October 5, Linda Yaccarino plans to meet with the seven banks that helped fund Elon Musk&#39;s takeover of X to lay out her plans to revive the company &lpar;Financial Times&rpar;](http://www.techmeme.com/230928/p41#a230928p41)
- - [The Cyberspace Administration of China unveils rules to relax some cross-border data controls, in a bid to reassure businesses worried about US-China relations &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230928/p40#a230928p40)
- - [Best Sports Streaming Service for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
- - [Bumble Wants AI to Be &#39;A Supercharger to Love and Relationships&#39;     - CNET](https://www.cnet.com/tech/services-and-software/bumble-wants-ai-to-be-a-supercharger-to-love-and-relationships/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Cyberspace Administration of China unveils rules to relax some cross-border data controls, in a bid to reassure businesses worried about US-China relations &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230928/p40#a230928p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

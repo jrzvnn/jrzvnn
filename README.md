@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That is quite the challenge!](http://9gag.com/gag/awZ9pwR)
- - 😝 [Yup, facemask is one of the best things invented by hooman.](http://9gag.com/gag/aqeVwjL)
- - 💣 [The most manly of responses.](http://9gag.com/gag/amAOwDo)
- - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
- - 👉 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)<!-- MEMES:END -->
+ - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 💣 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

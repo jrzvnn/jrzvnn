@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Between ChatGPT&#39;s surprisingly human voice and Meta&#39;s AI characters, we may be witnessing the rise of social networks populated by synthetic companions &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230930/p12#a230930p12)
  - [LG is dropping ATSC 3.0 from its TVs next year](https://www.theverge.com/2023/9/30/23897460/lg-drops-atsc-3-0-support-fcc-broadcast-tv)
+ - [Aston Villa vs. Brighton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-brighton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Did you know there are way more than 3 independent mobile networks in the USA?](https://www.androidauthority.com/mobile-networks-cspire-us-cellular-3355820/)
- - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)
- - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

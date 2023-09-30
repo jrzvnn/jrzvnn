@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple, Microsoft, and Google Just Fixed Multiple Zero-Day Flaws](https://www.wired.com/story/apple-google-microsoft-zero-days-september-2023/)
  - [17 Best Early October Prime Day Deals &lpar;2023&rpar;: Headphones, Fitness Trackers, and WFH Gear](https://www.wired.com/story/best-october-prime-day-deals-2023-1/)
  - [5 Ways to Work Remotely &lpar;and Effectively&rpar; for the Long Haul](https://www.wired.com/story/5-ways-work-remotely-effectively/)
- - [Q&amp;A with YouTube Chief Business Officer Mary Ellen Coe on NFL Sunday Ticket &quot;exceeding expectations&quot;, Multiview interest, the Charter-Disney dispute, and more &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230930/p5#a230930p5)<!-- TECH:END -->
+ - [27 Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

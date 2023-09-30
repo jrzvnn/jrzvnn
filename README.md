@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No one should buy the Pixel Watch 2 unless Google fixes its repairability issue](https://www.androidauthority.com/google-pixel-watch-2-repairability-3366979/)
+ - [‘The Android of agriculture’: Monarch Tractor CEO Praveen Penmetsa on the future of farming](https://www.theverge.com/23895900/praveen-penmetsa-monarch-tractor-autonomous-ev-interview-decoder)
  - [The Pixel 8 is Google’s best opportunity to bring its AI ideas together under one roof](https://www.theverge.com/2023/9/30/23896256/google-pixel-8-pro-assistant-ai-bard)
  - [Apple considers $2B Apple TV+ streaming rights grab for Formula 1](https://appleinsider.com/articles/23/09/30/apple-considers-2b-apple-tv-streaming-rights-grab-for-formula-1?utm_medium=rss)
- - [Apple Wallet&#39;s Connected Accounts may come to the US](https://appleinsider.com/articles/23/09/30/apple-wallets-connected-accounts-may-come-to-the-us?utm_medium=rss)
- - [Chinese Hackers Are Hiding in Routers in the US and Japan](https://www.wired.com/story/china-blacktech-router-hack/)
- - [House of Marley Stir It Up Lux Review &lpar;2023&rpar;: Made for Beginners](https://www.wired.com/review/house-of-marley-stir-it-up-lux-turntable/)<!-- TECH:END -->
+ - [Apple Wallet&#39;s Connected Accounts may come to the US](https://appleinsider.com/articles/23/09/30/apple-wallets-connected-accounts-may-come-to-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

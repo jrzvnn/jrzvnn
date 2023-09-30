@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 💣 [Caught in the middle of...](http://9gag.com/gag/aYVvX6O)
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 👉 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)<!-- MEMES:END -->
+ - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
+ - 💣 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [Caught in the middle of...](http://9gag.com/gag/aYVvX6O)
+ - 👉 [Hell no](http://9gag.com/gag/adPWAQ9)<!-- MEMES:END -->
 
 ---
 

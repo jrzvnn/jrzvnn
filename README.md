@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers report critical vulnerabilities in the Exim mail transfer agent allowing remote code execution; Exim is used by as many as 253K servers &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230929/p18#a230929p18)
  - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
  - [Meta quietly unveils Llama 2 Long, which has been trained with longer sequences, outperforming GPT-3.5 Turbo and Claude 2 when responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
  - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)
- - [The co-founder of a collapsed crypto hedge fund was arrested in Singapore](https://www.theverge.com/2023/9/29/23896188/crypto-hedge-fund-three-arrows-captial-su-zhu-arrest)
- - [New York Needs to Get Spongier—or Get Used to More Floods](https://www.wired.com/story/new-york-needs-to-get-spongier-or-get-used-to-more-floods/)<!-- TECH:END -->
+ - [The co-founder of a collapsed crypto hedge fund was arrested in Singapore](https://www.theverge.com/2023/9/29/23896188/crypto-hedge-fund-three-arrows-captial-su-zhu-arrest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
  - 💣 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 😝 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 👉 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)<!-- MEMES:END -->
 
 ---
 

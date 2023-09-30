@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 💣 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 👉 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)<!-- MEMES:END -->
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 💣 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 😝 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

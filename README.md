@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
  - [The Sphere’s first show looks like it was a mind-blowing spectacle](https://www.theverge.com/2023/9/30/23897156/the-sphere-las-vegas-u2-concert-achtung-baby-live)
  - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
  - [AT&amp;T in trouble? Seems to be playing it safe in 2023](https://www.androidauthority.com/att-in-trouble-3365616/)
- - [Apple says iPhone 15 models could be running &quot;warmer than expected&quot; due to a few factors, like an iOS 17 bug and updates to Instagram and other third-party apps &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/230930/p9#a230930p9)
- - [Here are a few discounted chargers to make use of iOS 17’s StandBy mode](https://www.theverge.com/2023/9/30/23894737/iphone-magsafe-charging-stand-belkin-anker-standby-mode-ios-17-deal-sale)<!-- TECH:END -->
+ - [Apple says iPhone 15 models could be running &quot;warmer than expected&quot; due to a few factors, like an iOS 17 bug and updates to Instagram and other third-party apps &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/230930/p9#a230930p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

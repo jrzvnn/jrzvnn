@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 💣 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 😝 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 💣 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
+ - 👉 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)<!-- MEMES:END -->
 
 ---
 

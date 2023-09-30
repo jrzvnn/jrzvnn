@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data and sources: TikTok Shop was on pace to handle $6B+ worth of transactions in Indonesia in 2023, before its ban in the country, and $17B+ in Southeast Asia &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230930/p2#a230930p2)
  - [Research: ahead of Slovakia&#39;s parliamentary elections, AI-generated deepfake videos of politicians are spreading on Facebook, Telegram, and other platforms &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/230930/p1#a230930p1)
  - [Best Phone Under $300: 5G Phones at Starter Prices     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
  - [Sriracha Shortage: 10 Excellent Alternatives to Try     - CNET](https://www.cnet.com/culture/best-sriracha-alternatives/#ftag=CAD590a51e)
- - [A look at FTX 2.0 Coalition, a group of creditors led by FTX CEO John Ray III that has almost 3,000 members and is looking to relaunch the exchange without SBF &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230929/p19#a230929p19)
- - [M2 MacBook Pro 14-inch vs Microsoft Surface Laptop Studio 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-14-inch-vs-microsoft-surface-laptop-studio-2----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [A look at FTX 2.0 Coalition, a group of creditors led by FTX CEO John Ray III that has almost 3,000 members and is looking to relaunch the exchange without SBF &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230929/p19#a230929p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

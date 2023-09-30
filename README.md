@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 💣 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 👉 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)<!-- MEMES:END -->
+ - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 💣 [First time laying tiles, damn it&#39;s slow](http://9gag.com/gag/aL1O7bW)
+ - 😝 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

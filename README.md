@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 😝 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)
- - 💣 [Ouch!](http://9gag.com/gag/ap9nZQ5)
- - 😝 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
- - 👉 [Should I be racist or?](http://9gag.com/gag/a04DyvL)<!-- MEMES:END -->
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 💣 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 😝 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
 
 ---
 

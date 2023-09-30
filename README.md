@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 👉 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)<!-- MEMES:END -->
+ - 😝 [... still would like to swim into the ocean!!](http://9gag.com/gag/a1P83MY)
+ - 😝 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)
+ - 💣 [Ouch!](http://9gag.com/gag/ap9nZQ5)
+ - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 👉 [First scene surprised me](http://9gag.com/gag/aeQq8vq)<!-- MEMES:END -->
 
 ---
 

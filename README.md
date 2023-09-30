@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 💣 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
  - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
+ - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
+ - 💣 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 👉 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dumbest 911 call ever seen - with the ugliest laugh ever recorded by mankind, God damn it](http://9gag.com/gag/aBdbeeN)
- - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 💣 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 👉 [Hell no](http://9gag.com/gag/adPWAQ9)<!-- MEMES:END -->
+ - 😝 [Oprah&#39;s mates](http://9gag.com/gag/a4oB8OQ)
+ - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
+ - 💣 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 👉 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)<!-- MEMES:END -->
 
 ---
 

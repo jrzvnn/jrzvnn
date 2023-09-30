@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Sept. 30: M2 MacBook Air $899, 16&quot; MacBook Pro 32GB $1,775, iPhone 12 models from $270 &amp; more](https://appleinsider.com/articles/23/09/30/daily-deals-sept-30-m2-macbook-air-899-16-macbook-pro-32gb-1775-iphone-12-models-from-270-more?utm_medium=rss)
+ - [The Humane Ai Pin makes its debut on the runway at Paris Fashion Week](https://www.theverge.com/2023/9/30/23897065/humane-ai-pin-coperni-paris-fashion-week)
  - [6 years later, I still use the Google Pixelbook](https://www.androidauthority.com/google-pixelbook-6-years-3360413/)
  - [Bluetti AC180 Solar Portable Power Station review: Perfect merge of price, ports, and power](https://appleinsider.com/articles/23/09/30/bluetti-ac180-solar-portable-power-station-review-perfect-merge-of-price-ports-and-power?utm_medium=rss)
- - [Smart glasses need to be stylish to really go mainstream](https://www.theverge.com/2023/9/30/23894067/ray-ban-meta-smart-glasses-style-wearables)
- - [Instagram being blamed for iPhone 15 overheating issues](https://appleinsider.com/articles/23/09/30/instagram-now-blamed-for-iphone-15-overheating-issues?utm_medium=rss)
- - [US DoD Chief Digital and AI Officer Craig Martell says the agency wants to use AI safely and urges companies to be more transparent about their AI software &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/230930/p7#a230930p7)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Spurs vs. Liverpool From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-spurs-vs-liverpool-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

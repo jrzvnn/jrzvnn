@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use ChatGPT’s New Image Features](https://www.wired.com/story/chatgpt-plus-image-feature-openai/)
- - [Apple, Microsoft, and Google Just Fixed Multiple Zero-Day Flaws](https://www.wired.com/story/apple-google-microsoft-zero-days-september-2023/)
- - [17 Best Early October Prime Day Deals &lpar;2023&rpar;: Headphones, Fitness Trackers, and WFH Gear](https://www.wired.com/story/best-october-prime-day-deals-2023-1/)
- - [5 Ways to Work Remotely &lpar;and Effectively&rpar; for the Long Haul](https://www.wired.com/story/5-ways-work-remotely-effectively/)
- - [27 Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Xperia 5 V review: Should you buy it?](https://www.androidauthority.com/sony-xperia-5-v-review-3366564/)
+ - [Everything Should Be As Easy to Upgrade As the Steam Deck &lpar;2023&rpar;](https://www.wired.com/story/steam-deck-upgrade-rave/)
+ - [Sweat Is Helping You Survive Climate Change](https://www.wired.com/story/sweat-is-helping-you-survive-climate-change/)
+ - [&#39;The Creator&#39; Review: It&#39;s AI That Wants to Save Humanity](https://www.wired.com/story/the-creator-gareth-edwards-review/)
+ - [iOS 17.1 Beta 1: What Apple Could Bring to Your iPhone Soon     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-beta-1-what-apple-could-bring-to-your-iphone-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

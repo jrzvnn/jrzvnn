@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is almost the weekend.](http://9gag.com/gag/aDYq5LG)
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 👉 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)<!-- MEMES:END -->
+ - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

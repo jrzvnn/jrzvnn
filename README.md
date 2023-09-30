@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [M2 MacBook Pro 14-inch vs Microsoft Surface Laptop Studio 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-14-inch-vs-microsoft-surface-laptop-studio-2----specs-price-and-features-compared?utm_medium=rss)
+ - [Samsung Galaxy S24 Leak Shows 360-Degree View of New Flat-Edge Design     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-leak-shows-360-degree-view-of-new-flat-edge-design/#ftag=CAD590a51e)
  - [Researchers report critical vulnerabilities in the Exim mail transfer agent allowing remote code execution; Exim is used by as many as 253K servers &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230929/p18#a230929p18)
  - [Nerf Launches Its Own Sport Using Hit-Detection Gear and Lots of Blasters     - CNET](https://www.cnet.com/tech/computing/nerf-launches-its-own-sport-using-hit-detection-gear-and-lots-of-blasters/#ftag=CAD590a51e)
- - [Meta quietly unveils Llama 2 Long, which has been trained with longer sequences, outperforming GPT-3.5 Turbo and Claude 2 when responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)
- - [Why New York and other cities still aren’t prepared for floods](https://www.theverge.com/2023/9/29/23896228/new-york-city-flooding-brooklyn-urban-climate)<!-- TECH:END -->
+ - [Meta quietly unveils Llama 2 Long, which has been trained with longer sequences, outperforming GPT-3.5 Turbo and Claude 2 when responding to long user prompts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/230929/p17#a230929p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

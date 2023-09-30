@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Here are a few discounted chargers to make use of iOS 17’s StandBy mode](https://www.theverge.com/2023/9/30/23894737/iphone-magsafe-charging-stand-belkin-anker-standby-mode-ios-17-deal-sale)
  - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
  - [NSA&#39;s outgoing director Paul Nakasone announces an AI security center, after an NSA study identified protecting American AI models as a national security issue &lpar;Associated Press&rpar;](http://www.techmeme.com/230930/p8#a230930p8)
- - [These are the biggest wins in the WGA’s new labor contract](https://www.theverge.com/2023/9/30/23892324/these-are-the-biggest-wins-in-the-wgas-new-labor-contract)<!-- TECH:END -->
+ - [Get a 1-Year Subscription to Flexjobs for $30 and Find Verified Remote Job Postings     - CNET](https://www.cnet.com/deals/get-a-1-year-subscription-to-flexjobs-for-30-and-find-verified-remote-job-postings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

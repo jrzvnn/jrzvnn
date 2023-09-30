@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 💣 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
- - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
+ - 😝 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
+ - 😝 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 💣 [Good](http://9gag.com/gag/a9q4GWW)
+ - 😝 [The dumbest 911 call ever seen - with the ugliest laugh ever recorded by mankind, God damn it](http://9gag.com/gag/aBdbeeN)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

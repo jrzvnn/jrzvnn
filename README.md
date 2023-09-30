@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
  - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 💣 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 👉 [Hell no](http://9gag.com/gag/adPWAQ9)<!-- MEMES:END -->
 
 ---
 

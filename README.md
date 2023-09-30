@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 💣 [Hell no](http://9gag.com/gag/adPWAQ9)
  - 😝 [Omg, some 16 year old cut down the famous Robin Hood tree at Scamore gap in Hadrians Wall. I feel the pain.](http://9gag.com/gag/aBdbzKD)
- - 👉 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)<!-- MEMES:END -->
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 💣 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 👉 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
 
 ---
 

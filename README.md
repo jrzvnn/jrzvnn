@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
  - [NSA&#39;s outgoing director Paul Nakasone announces an AI security center, after an NSA study identified protecting American AI models as a national security issue &lpar;Associated Press&rpar;](http://www.techmeme.com/230930/p8#a230930p8)
- - [Get a 1-Year Subscription to Flexjobs for $30 and Find Verified Remote Job Postings     - CNET](https://www.cnet.com/deals/get-a-1-year-subscription-to-flexjobs-for-30-and-find-verified-remote-job-postings/#ftag=CAD590a51e)
  - [These are the biggest wins in the WGA’s new labor contract](https://www.theverge.com/2023/9/30/23892324/these-are-the-biggest-wins-in-the-wgas-new-labor-contract)
- - [Daily deals Sept. 30: M2 MacBook Air $899, 16&quot; MacBook Pro 32GB $1,775, iPhone 12 models from $270 &amp; more](https://appleinsider.com/articles/23/09/30/daily-deals-sept-30-m2-macbook-air-899-16-macbook-pro-32gb-1775-iphone-12-models-from-270-more?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Sept. 30: M2 MacBook Air $899, 16&quot; MacBook Pro 32GB $1,775, iPhone 12 models from $270 &amp; more](https://appleinsider.com/articles/23/09/30/daily-deals-sept-30-m2-macbook-air-899-16-macbook-pro-32gb-1775-iphone-12-models-from-270-more?utm_medium=rss)
+ - [The Humane Ai Pin makes its debut on the runway at Paris Fashion Week](https://www.theverge.com/2023/9/30/23897065/humane-ai-pin-coperni-paris-fashion-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

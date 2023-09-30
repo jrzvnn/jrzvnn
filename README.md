@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 😝 [I dont think there is going back frodo](http://9gag.com/gag/aVb98G2)
+ - 😝 [This week in ...](http://9gag.com/gag/amAOwzX)
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
  - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
+ - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
+ - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
 
 ---
 

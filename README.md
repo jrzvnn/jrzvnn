@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple blames iOS 17 bugs and apps like Instagram for making iPhone 15s run hot](https://www.theverge.com/2023/9/30/23897273/apple-iphone-15-overheating-ios-17-1-bug-fix)
  - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
  - [A Canadian appeals court rules that Google&#39;s search engine is covered by federal privacy law, which could give Canadians the &quot;right to be forgotten&quot; on Google &lpar;Sean Fine/Globe and Mail&rpar;](http://www.techmeme.com/230930/p10#a230930p10)
  - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
- - [COVID, Flu and RSV Vaccines: Your Guide to Which Vaccines You Need     - CNET](https://www.cnet.com/health/medical/covid-flu-and-rsv-vaccines-your-guide-to-which-vaccines-you-need/#ftag=CAD590a51e)
- - [The Sphere’s first show looks like it was a mind-blowing spectacle](https://www.theverge.com/2023/9/30/23897156/the-sphere-las-vegas-u2-concert-achtung-baby-live)<!-- TECH:END -->
+ - [COVID, Flu and RSV Vaccines: Your Guide to Which Vaccines You Need     - CNET](https://www.cnet.com/health/medical/covid-flu-and-rsv-vaccines-your-guide-to-which-vaccines-you-need/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

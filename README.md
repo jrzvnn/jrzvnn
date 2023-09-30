@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
  - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 😝 [Lets get rid of this tuna smell real quick.](http://9gag.com/gag/aVb96xP)
+ - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
 
 ---
 

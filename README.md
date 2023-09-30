@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Did you know there are way more than 3 independent mobile networks in the USA?](https://www.androidauthority.com/mobile-networks-cspire-us-cellular-3355820/)
- - [Filing: Robinhood says it expects a $100M charge in Q3 to resolve some legal and regulatory matters that were previously disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/230930/p11#a230930p11)
- - [Apple blames iOS 17 bugs and apps like Instagram for making iPhone 15s run hot](https://www.theverge.com/2023/9/30/23897273/apple-iphone-15-overheating-ios-17-1-bug-fix)
- - [Best Online Tools for Dungeons &amp; Dragons     - CNET](https://www.cnet.com/tech/services-and-software/best-online-tools-for-dungeons-and-dragons/#ftag=CAD590a51e)
- - [8 Best Foods That Make You Happy, According to Science     - CNET](https://www.cnet.com/health/mental/foods-that-will-make-you-happy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)
+ - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)
+ - [Frontier Internet Review: Fiber Is First Class, DSL Is a Last Resort     - CNET](https://www.cnet.com/home/internet/frontier-internet-review/#ftag=CAD590a51e)
+ - [Filing: Robinhood says it expects a $100M charge in Q3 to resolve some legal and regulatory matters that were previously disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/230930/p11#a230930p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)
+ - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
+ - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
+ - 💣 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)
  - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 👉 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)<!-- MEMES:END -->
+ - 👉 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)<!-- MEMES:END -->
 
 ---
 

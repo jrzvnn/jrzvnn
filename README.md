@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jia lissa ...she does it so naturally](http://9gag.com/gag/aQED53r)
- - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 💣 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)
- - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 👉 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)<!-- MEMES:END -->
+ - 😝 [That is quite the challenge!](http://9gag.com/gag/awZ9pwR)
+ - 😝 [Yup, facemask is one of the best things invented by hooman.](http://9gag.com/gag/aqeVwjL)
+ - 💣 [The most manly of responses.](http://9gag.com/gag/amAOwDo)
+ - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 👉 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)<!-- MEMES:END -->
 
 ---
 

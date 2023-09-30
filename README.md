@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [... still would like to swim into the ocean!!](http://9gag.com/gag/a1P83MY)
- - 😝 [Musk is picking up a fight with the German government.](http://9gag.com/gag/anz0PXL)
- - 💣 [Ouch!](http://9gag.com/gag/ap9nZQ5)
- - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
- - 👉 [First scene surprised me](http://9gag.com/gag/aeQq8vq)<!-- MEMES:END -->
+ - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 💣 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
+ - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
+ - 👉 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)<!-- MEMES:END -->
 
 ---
 

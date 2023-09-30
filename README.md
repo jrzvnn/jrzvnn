@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says iPhone 15 models could be running &quot;warmer than expected&quot; due to a few factors, like an iOS 17 bug and updates to Instagram and other third-party apps &lpar;Patrick Holland/CNET&rpar;](http://www.techmeme.com/230930/p9#a230930p9)
+ - [Here are a few discounted chargers to make use of iOS 17’s StandBy mode](https://www.theverge.com/2023/9/30/23894737/iphone-magsafe-charging-stand-belkin-anker-standby-mode-ios-17-deal-sale)
  - [Apple Pencil 3 leak claims changeable magnetic tips are on the way](https://appleinsider.com/articles/23/09/30/apple-pencil-3-leak-claims-changeable-magnetic-tips-are-on-the-way?utm_medium=rss)
  - [NSA&#39;s outgoing director Paul Nakasone announces an AI security center, after an NSA study identified protecting American AI models as a national security issue &lpar;Associated Press&rpar;](http://www.techmeme.com/230930/p8#a230930p8)
- - [These are the biggest wins in the WGA’s new labor contract](https://www.theverge.com/2023/9/30/23892324/these-are-the-biggest-wins-in-the-wgas-new-labor-contract)
- - [Daily deals Sept. 30: M2 MacBook Air $899, 16&quot; MacBook Pro 32GB $1,775, iPhone 12 models from $270 &amp; more](https://appleinsider.com/articles/23/09/30/daily-deals-sept-30-m2-macbook-air-899-16-macbook-pro-32gb-1775-iphone-12-models-from-270-more?utm_medium=rss)
- - [The Humane Ai Pin makes its debut on the runway at Paris Fashion Week](https://www.theverge.com/2023/9/30/23897065/humane-ai-pin-coperni-paris-fashion-week)<!-- TECH:END -->
+ - [These are the biggest wins in the WGA’s new labor contract](https://www.theverge.com/2023/9/30/23892324/these-are-the-biggest-wins-in-the-wgas-new-labor-contract)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

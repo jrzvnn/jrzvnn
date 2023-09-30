@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf was that](http://9gag.com/gag/aGEr4e6)
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 💣 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 💣 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
 
 ---
 

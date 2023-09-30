@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with YouTube Chief Business Officer Mary Ellen Coe on NFL Sunday Ticket &quot;exceeding expectations&quot;, Multiview interest, the Charter-Disney dispute, and more &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230930/p5#a230930p5)
- - [A history of Vine&#39;s failure to build relationships with its top creators, who Vine leadership resented for gaming the app&#39;s ranking algorithm and their humor &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230930/p4#a230930p4)
- - [Best iPad Drawing Apps to Try in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-ipad-drawing-apps-2023/#ftag=CAD590a51e)
- - [Leaked internal messages from 2020 and 2021 detail Huawei&#39;s efforts to lobby Greek officials; filings: Huawei&#39;s 2022 sales in Greece rose 56% YoY to &amp;euro;258M &lpar;New York Times&rpar;](http://www.techmeme.com/230930/p3#a230930p3)
- - [Data and sources: TikTok Shop was on pace to handle $6B+ worth of transactions in Indonesia in 2023, before its ban in the country, and $17B+ in Southeast Asia &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230930/p2#a230930p2)<!-- TECH:END -->
+ - [How to Use ChatGPT’s New Image Features](https://www.wired.com/story/chatgpt-plus-image-feature-openai/)
+ - [Apple, Microsoft, and Google Just Fixed Multiple Zero-Day Flaws](https://www.wired.com/story/apple-google-microsoft-zero-days-september-2023/)
+ - [17 Best Early October Prime Day Deals &lpar;2023&rpar;: Headphones, Fitness Trackers, and WFH Gear](https://www.wired.com/story/best-october-prime-day-deals-2023-1/)
+ - [5 Ways to Work Remotely &lpar;and Effectively&rpar; for the Long Haul](https://www.wired.com/story/5-ways-work-remotely-effectively/)
+ - [Q&amp;A with YouTube Chief Business Officer Mary Ellen Coe on NFL Sunday Ticket &quot;exceeding expectations&quot;, Multiview interest, the Charter-Disney dispute, and more &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230930/p5#a230930p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

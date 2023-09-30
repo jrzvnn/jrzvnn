@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Neil did his best](http://9gag.com/gag/a5X9YDq)
- - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 💣 [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
- - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
+ - 😝 [That escalated quickly](http://9gag.com/gag/aOxn5y6)
+ - 😝 [Monkey: Don&#39;t mess with Monkey. Human: I am monkey](http://9gag.com/gag/aPgVq4w)
+ - 💣 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
+ - 😝 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 👉 [Good](http://9gag.com/gag/a9q4GWW)<!-- MEMES:END -->
 
 ---
 

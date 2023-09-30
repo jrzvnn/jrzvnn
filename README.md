@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Skype co-founder Niklas Zennstr&amp;ouml;m about his upbringing, his VC firm Atomico, the vitality of Europe&#39;s startup space, a Skype &quot;mafia&quot;, and more &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/230930/p6#a230930p6)
- - [Sony Xperia 5 V review: Should you buy it?](https://www.androidauthority.com/sony-xperia-5-v-review-3366564/)
- - [Everything Should Be As Easy to Upgrade As the Steam Deck &lpar;2023&rpar;](https://www.wired.com/story/steam-deck-upgrade-rave/)
- - [Sweat Is Helping You Survive Climate Change](https://www.wired.com/story/sweat-is-helping-you-survive-climate-change/)
- - [&#39;The Creator&#39; Review: It&#39;s AI That Wants to Save Humanity](https://www.wired.com/story/the-creator-gareth-edwards-review/)<!-- TECH:END -->
+ - [Apple Wallet&#39;s Connected Accounts may come to the US](https://appleinsider.com/articles/23/09/30/apple-wallets-connected-accounts-may-come-to-the-us?utm_medium=rss)
+ - [Chinese Hackers Are Hiding in Routers in the US and Japan](https://www.wired.com/story/china-blacktech-router-hack/)
+ - [House of Marley Stir It Up Lux Review &lpar;2023&rpar;: Made for Beginners](https://www.wired.com/review/house-of-marley-stir-it-up-lux-turntable/)
+ - [Lego Is a Company Haunted by Its Own Plastic](https://www.wired.com/story/lego-haunted-by-its-own-plastic/)
+ - [Apple’s dark sci-fi comedy Fingernails turns love into science](https://www.theverge.com/23881997/fingernails-review-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

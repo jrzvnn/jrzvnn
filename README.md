@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/a3ZzgW5)
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 💣 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
- - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 👉 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)<!-- MEMES:END -->
+ - 😝 [Ouch!](http://9gag.com/gag/ap9nZQ5)
+ - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
+ - 💣 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
+ - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 👉 [First scene surprised me](http://9gag.com/gag/aeQq8vq)<!-- MEMES:END -->
 
 ---
 

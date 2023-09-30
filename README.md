@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Melody marks ..she does it very confidently](http://9gag.com/gag/aOxnnE6)
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [You&#39;re not wrong, you&#39;re just an asshole](http://9gag.com/gag/aeQqzmq)
  - 💣 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [Lets get rid of this tuna smell real quick.](http://9gag.com/gag/aVb96xP)
- - 👉 [Lmao](http://9gag.com/gag/a3ZzgW5)<!-- MEMES:END -->
+ - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
 
 ---
 

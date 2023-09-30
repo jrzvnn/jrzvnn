@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood says it expects a $100M charge in Q3 to resolve some legal and regulatory matters that were previously disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/230930/p11#a230930p11)
+ - [Filing: Robinhood says it expects a $100M charge in Q3 to resolve some legal and regulatory matters that were previously disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/230930/p11#a230930p11)
  - [Apple blames iOS 17 bugs and apps like Instagram for making iPhone 15s run hot](https://www.theverge.com/2023/9/30/23897273/apple-iphone-15-overheating-ios-17-1-bug-fix)
  - [Best Online Tools for Dungeons &amp; Dragons     - CNET](https://www.cnet.com/tech/services-and-software/best-online-tools-for-dungeons-and-dragons/#ftag=CAD590a51e)
  - [8 Best Foods That Make You Happy, According to Science     - CNET](https://www.cnet.com/health/mental/foods-that-will-make-you-happy/#ftag=CAD590a51e)

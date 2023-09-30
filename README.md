@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
- - 😝 [Always has been....](http://9gag.com/gag/aRE8bVA)
- - 💣 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
- - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 👉 [First scene surprised me](http://9gag.com/gag/aeQq8vq)<!-- MEMES:END -->
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 😝 [The media knows the kids are all locked in Oprah&#39;s basement](http://9gag.com/gag/armDwBB)
+ - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
+ - 👉 [Peodo bastards](http://9gag.com/gag/a2KAgpp)<!-- MEMES:END -->
 
 ---
 

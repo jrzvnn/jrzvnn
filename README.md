@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A history of Vine&#39;s failure to build relationships with its top creators, who Vine leadership resented for gaming the app&#39;s ranking algorithm and their humor &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230930/p4#a230930p4)
  - [Leaked internal messages from 2020 and 2021 detail Huawei&#39;s efforts to lobby Greek officials; filings: Huawei&#39;s 2022 sales in Greece rose 56% YoY to &amp;euro;258M &lpar;New York Times&rpar;](http://www.techmeme.com/230930/p3#a230930p3)
  - [Data and sources: TikTok Shop was on pace to handle $6B+ worth of transactions in Indonesia in 2023, before its ban in the country, and $17B+ in Southeast Asia &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230930/p2#a230930p2)
  - [Research: ahead of Slovakia&#39;s parliamentary elections, AI-generated deepfake videos of politicians are spreading on Facebook, Telegram, and other platforms &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/230930/p1#a230930p1)
- - [Best Phone Under $300: 5G Phones at Starter Prices     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Sriracha Shortage: 10 Excellent Alternatives to Try     - CNET](https://www.cnet.com/culture/best-sriracha-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $300: 5G Phones at Starter Prices     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

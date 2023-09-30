@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 😝 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)
  - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
  - 💣 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 😝 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
- - 👉 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)<!-- MEMES:END -->
+ - 😝 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
+ - 👉 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)<!-- MEMES:END -->
 
 ---
 

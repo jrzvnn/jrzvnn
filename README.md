@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 💣 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)
  - 😝 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 👉 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)<!-- MEMES:END -->
+ - 💣 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 😝 [Her social media was found by law enforcement and they know who she is. He is pressing charges. Shit\u2019s about to get real\u2026](http://9gag.com/gag/avQBqjn)
+ - 👉 [Boy got the wrong order](http://9gag.com/gag/aeQqEzv)<!-- MEMES:END -->
 
 ---
 

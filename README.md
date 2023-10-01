@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Priority](http://9gag.com/gag/agopP5K)
- - 😝 [Self adjusting hydropneumatic suspension in an almost 3 decades old car](http://9gag.com/gag/ap9nWxn)
- - 💣 [He really said that.](http://9gag.com/gag/aGErWnX)
- - 😝 [Rewatching Ace Ventura but as an adult, I now understand this particular scene.](http://9gag.com/gag/a04D2KQ)
- - 👉 [Just Stop Oil protester using plane to go to a summit where they protest against planes.](http://9gag.com/gag/aKEXRvN)<!-- MEMES:END -->
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [WTF](http://9gag.com/gag/aeQq8pQ)
+ - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 😝 [WTF](http://9gag.com/gag/aeQq8pQ)
- - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - 😝 [Harry Potter but in America.](http://9gag.com/gag/a9q4oz1)
+ - 😝 [Priority](http://9gag.com/gag/agopP5K)
+ - 💣 [He really said that.](http://9gag.com/gag/aGErWnX)
+ - 😝 [Angry server noise](http://9gag.com/gag/aOxnX8y)
+ - 👉 [Rewatching Ace Ventura but as an adult, I now understand this particular scene.](http://9gag.com/gag/a04D2KQ)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Celebrating my bday! First post in 11.5 yrs](http://9gag.com/gag/adPWGmd)
  - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
- - 😝 [Always has been....](http://9gag.com/gag/aRE8bVA)
- - 💣 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
- - 😝 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
+ - 💣 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
+ - 😝 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
  - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---

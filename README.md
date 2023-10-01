@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 brain cells at work here](http://9gag.com/gag/a6qeY5e)
- - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 💣 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)
- - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 👉 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)<!-- MEMES:END -->
+ - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 💣 [They are lying to us!](http://9gag.com/gag/armDQvy)
+ - 😝 [Hypergamy](http://9gag.com/gag/aXnm1KD)
+ - 👉 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [They are lying to us!](http://9gag.com/gag/armDQvy)
+ - 😝 [WTF](http://9gag.com/gag/aeQq8pQ)
  - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
- - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 👉 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)<!-- MEMES:END -->
 
 ---
 

@@ -155,8 +155,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg wants Meta to be the Android of XR](https://www.androidauthority.com/meta-xr-opinion-3369498/)
  - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
- - [How to Watch Taylor Swift, Travis Kelce at Kansas City Chiefs vs. New York Jets Tonight     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-taylor-swift-travis-kelce-at-kansas-city-chiefs-vs-new-york-jets-tonight/#ftag=CAD590a51e)
  - [Apple has most of the elements it needs to create its own search engine](https://appleinsider.com/articles/23/10/01/apple-has-most-of-the-elements-it-needs-to-create-its-own-search-engine?utm_medium=rss)
  - [A leaked Google ‘Switch to Pixel’ ad highlights Pixel 8 AI features](https://www.theverge.com/2023/10/1/23898128/google-pixel-8-ad-leak-ai-photo-editing-best-take-phone-cases)
  - [Sources: John Giannandrea&#39;s team built a next-gen search engine, &quot;Pegasus&quot;, for Apple&#39;s own apps, used in Spotlight and Siri, and coming soon to the App Store &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231001/p7#a231001p7)<!-- TECH:END -->

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cctv..!!](http://9gag.com/gag/aQEDG9z)
- - 😝 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
- - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
+ - 😝 [This one&#39;s for the men](http://9gag.com/gag/awZ9EbR)
+ - 😝 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
+ - 💣 [We need more of this](http://9gag.com/gag/a2KA3Qe)
+ - 😝 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)
+ - 👉 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)<!-- MEMES:END -->
 
 ---
 

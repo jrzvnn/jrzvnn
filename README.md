@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
  - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 😝 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
- - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
+ - 💣 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 👉 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)<!-- MEMES:END -->
 
 ---
 

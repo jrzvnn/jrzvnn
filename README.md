@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)
  - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
  - 💣 [2 brain cells at work here](http://9gag.com/gag/a6qeY5e)
- - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 👉 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)<!-- MEMES:END -->
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 👉 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)<!-- MEMES:END -->
 
 ---
 

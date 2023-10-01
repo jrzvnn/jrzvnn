@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Monarch Tractor CEO Praveen Penmetsa on licensing the autonomous electric tractor startup&#39;s tech to other companies, the future of farming, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231001/p8#a231001p8)
  - [The cheapest countries to buy a Samsung Galaxy Z Flip 5](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-z-flip-5-3370173/)
  - [Apple plans to upgrade the App Store’s search engine, and it might not stop there](https://www.theverge.com/2023/10/1/23898280/apple-google-pegasus-search-engine-competition-generative-ai)
- - [Daily deals Oct. 1: AirPods Pro $199, $700 off M1 MacBook Pro, Echelon EX3 exercise bike $299, more](https://appleinsider.com/articles/23/10/01/daily-deals-oct-1-airpods-pro-199-700-off-m1-macbook-pro-echelon-ex3-exercise-bike-299-more?utm_medium=rss)
- - [Mark Zuckerberg wants Meta to be the Android of XR](https://www.androidauthority.com/meta-xr-opinion-3369498/)
- - [Target Circle Week: Big Savings on Apple, Beats, Dyson and More     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save an Extra $15 During the Final Hours of QVC&#39;s Holiday Preseason Sale     - CNET](https://www.cnet.com/deals/save-an-extra-15-during-the-final-hours-of-qvcs-holiday-preseason-sale/#ftag=CAD590a51e)
+ - [Apple Reportedly Has Ingredients to Create its Own Search Engine     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-has-ingredients-to-create-its-own-search-engine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Microsoft&#39;s consumer chief marketing officer Yusuf Mehdi on AI trends, competition, taking over some of Panos Panay&#39;s responsibilities, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231001/p3#a231001p3)
  - [Nick Clegg says Meta used public Facebook and Instagram posts to train its new AI assistant and took steps to filter private details from training datasets &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231001/p2#a231001p2)
  - [Apple acknowledges iPhone 15 Pro overheating issue, says it’s not the hardware](https://www.androidauthority.com/apple-iphone-15-pro-overheating-fix-update-3370174/)
  - [Filing: LG suspends the inclusion of ATSC 3.0, an IP-based broadcast system, in its 2024 lineup of US TVs due to a &quot;challenging and uncertain patent landscape&quot; &lpar;Jeff Baumgartner/Light Reading&rpar;](http://www.techmeme.com/231001/p1#a231001p1)
- - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)
- - [Thronmax Space wireless mic kit review: an almost-great option for vloggers &amp; more](https://appleinsider.com/articles/23/09/30/thronmax-space-wireless-mic-kit-review-an-almost-great-option-for-vloggers-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

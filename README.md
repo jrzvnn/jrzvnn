@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s be honest, it had to end like this](http://9gag.com/gag/aBdbBnN)
+ - 😝 [They are lying to us!](http://9gag.com/gag/armDQvy)
  - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 💣 [2 brain cells at work here](http://9gag.com/gag/a6qeY5e)
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 👉 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)<!-- MEMES:END -->
+ - 💣 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 😝 [2 brain cells at work here](http://9gag.com/gag/a6qeY5e)
+ - 👉 [Peodo bastards](http://9gag.com/gag/a2KAgpp)<!-- MEMES:END -->
 
 ---
 

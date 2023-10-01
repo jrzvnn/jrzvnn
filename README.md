@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
  - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 💣 [WTF](http://9gag.com/gag/aeQq8pQ)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 👉 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)<!-- MEMES:END -->
 
 ---
 

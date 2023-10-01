@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 💣 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 😝 [WTF](http://9gag.com/gag/aeQq8pQ)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - 😝 [Priority](http://9gag.com/gag/agopP5K)
+ - 😝 [Self adjusting hydropneumatic suspension in an almost 3 decades old car](http://9gag.com/gag/ap9nWxn)
+ - 💣 [He really said that.](http://9gag.com/gag/aGErWnX)
+ - 😝 [Rewatching Ace Ventura but as an adult, I now understand this particular scene.](http://9gag.com/gag/a04D2KQ)
+ - 👉 [Just Stop Oil protester using plane to go to a summit where they protest against planes.](http://9gag.com/gag/aKEXRvN)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Ukrainians fear new Chinese rules restricting the export of cheap consumer drone components could worsen Ukraine&#39;s supply chain woes in their &quot;war of drones&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p6#a231001p6)
  - [I really miss the dual-tone colored Pixel phones](https://www.androidauthority.com/dual-tone-google-pixel-phones-3368874/)
  - [Tim Cook calls spatial computing in Apple Vision Pro an &#39;aha moment&#39; in a user&#39;s life](https://appleinsider.com/articles/23/10/01/tim-cook-calls-spatial-computing-in-apple-vision-pro-an-aha-moment-in-a-users-life?utm_medium=rss)
- - [Best Bed Frames &lpar;2023&rpar;: Easy Assembly, Fabric, Wood, and Metal](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
+ - [21 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

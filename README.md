@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harry Potter but in America.](http://9gag.com/gag/a9q4oz1)
+ - 😝 [It was fine.](http://9gag.com/gag/ap9nOn8)
  - 😝 [Priority](http://9gag.com/gag/agopP5K)
  - 💣 [He really said that.](http://9gag.com/gag/aGErWnX)
- - 😝 [Angry server noise](http://9gag.com/gag/aOxnX8y)
- - 👉 [Rewatching Ace Ventura but as an adult, I now understand this particular scene.](http://9gag.com/gag/a04D2KQ)<!-- MEMES:END -->
+ - 😝 [Rewatching Ace Ventura but as an adult, I now understand this particular scene.](http://9gag.com/gag/a04D2KQ)
+ - 👉 [Angry server noise](http://9gag.com/gag/aOxnX8y)<!-- MEMES:END -->
 
 ---
 

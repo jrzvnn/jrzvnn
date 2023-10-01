@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one&#39;s for the men](http://9gag.com/gag/awZ9EbR)
- - 😝 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
- - 💣 [We need more of this](http://9gag.com/gag/a2KA3Qe)
- - 😝 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)
- - 👉 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)<!-- MEMES:END -->
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 💣 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - 😝 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

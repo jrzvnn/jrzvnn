@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I really miss the dual-tone colored Pixel phones](https://www.androidauthority.com/dual-tone-google-pixel-phones-3368874/)
  - [Tim Cook calls spatial computing in Apple Vision Pro an &#39;aha moment&#39; in a user&#39;s life](https://appleinsider.com/articles/23/10/01/tim-cook-calls-spatial-computing-in-apple-vision-pro-an-aha-moment-in-a-users-life?utm_medium=rss)
  - [Best Bed Frames &lpar;2023&rpar;: Easy Assembly, Fabric, Wood, and Metal](https://www.wired.com/gallery/best-bed-frames/)
  - [The Pixel Watch exceeded expectations — now it needs to be as good as Samsung](https://www.theverge.com/2023/10/1/23895890/google-pixel-watch-2-smartwatch-wearable)
- - [Hong Sangsoo’s new movies are losing focus](https://www.theverge.com/23894907/in-our-day-in-water-hong-sangsoo-review)
- - [How the Elon Musk biography exposes Walter Isaacson](https://www.theverge.com/2023/10/1/23895069/walter-isaacson-biography-musk-review)<!-- TECH:END -->
+ - [Hong Sangsoo’s new movies are losing focus](https://www.theverge.com/23894907/in-our-day-in-water-hong-sangsoo-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: John Giannandrea&#39;s team built a next-gen search engine, &quot;Pegasus&quot;, for Apple&#39;s own apps, used in Spotlight and Siri, and coming soon to the App Store &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231001/p7#a231001p7)
  - [Apple has most of the elements it needs to create its own search engine](https://appleinsider.com/articles/23/10/01/apple-has-most-of-the-elements-it-needs-to-create-its-own-search-engine?utm_medium=rss)
  - [Ukrainians fear new Chinese rules restricting the export of cheap consumer drone components could worsen Ukraine&#39;s supply chain woes in their &quot;war of drones&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p6#a231001p6)
  - [I really miss the dual-tone colored Pixel phones](https://www.androidauthority.com/dual-tone-google-pixel-phones-3368874/)
- - [Tim Cook calls spatial computing in Apple Vision Pro an &#39;aha moment&#39; in a user&#39;s life](https://appleinsider.com/articles/23/10/01/tim-cook-calls-spatial-computing-in-apple-vision-pro-an-aha-moment-in-a-users-life?utm_medium=rss)
- - [21 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Knocks $120 Off the Toshiba C350 4K Fire TV Ahead of Prime Day     - CNET](https://www.cnet.com/deals/amazon-knocks-120-off-the-toshiba-c350-4k-fire-tv-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

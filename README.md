@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
- - 😝 [Hypergamy](http://9gag.com/gag/aXnm1KD)
- - 💣 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 😝 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
+ - 💣 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
+ - 😝 [This one&#39;s for the men](http://9gag.com/gag/awZ9EbR)
  - 👉 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)<!-- MEMES:END -->
 
 ---

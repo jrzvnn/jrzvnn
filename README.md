@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Tell When Your Phone Will Stop Getting Security Updates](https://www.wired.com/story/phone-ios-android-security-updates/)
+ - [The Game Theory of the Auto Strikes](https://www.wired.com/story/the-game-theory-of-the-auto-strikes/)
  - [Q&amp;A with AMD CEO Lisa Su on competing with Nvidia&#39;s H100, PyTorch, AI regulation, the CHIPS Act, diversifying from TSMC, the global supply chain, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231001/p5#a231001p5)
  - [Your Project Management Software Can&#39;t Save You](https://www.wired.com/story/project-management-software-productivity/)
- - [Fact-checking sites have been declining worldwide as social media platforms cut back on disinformation efforts, and bogus AI-generated content thrives online &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p4#a231001p4)
- - [Q&amp;A with Microsoft&#39;s consumer chief marketing officer Yusuf Mehdi on AI trends, competition, taking over some of Panos Panay&#39;s responsibilities, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231001/p3#a231001p3)
- - [Nick Clegg says Meta used public Facebook and Instagram posts to train its new AI assistant and took steps to filter private details from training datasets &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/231001/p2#a231001p2)<!-- TECH:END -->
+ - [Fact-checking sites have been declining worldwide as social media platforms cut back on disinformation efforts, and bogus AI-generated content thrives online &lpar;New York Times&rpar;](http://www.techmeme.com/231001/p4#a231001p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

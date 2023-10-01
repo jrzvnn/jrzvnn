@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)
  - [Shipping times for iPhone 15 Pro models are gradually improving](https://appleinsider.com/articles/23/10/01/shipping-times-for-iphone-15-pro-models-are-gradually-improving?utm_medium=rss)
  - [National emergency alert test will affect all U.S. iPhones on Wednesday](https://appleinsider.com/articles/23/10/01/national-emergency-alert-test-will-affect-all-us-iphones-on-wednesday?utm_medium=rss)
- - [Tesla rolls out an updated Model Y in China but keeps the same starting price](https://www.theverge.com/2023/10/1/23898419/tesla-model-y-updated-china-ambient-lighting-long-range)<!-- TECH:END -->
+ - [Best Gifts for Cyclists That Will Actually Get Used     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-cyclists/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

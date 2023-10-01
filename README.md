@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one&#39;s for the men](http://9gag.com/gag/awZ9EbR)
- - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
- - 💣 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
+ - 😝 [Where are my \ud83c\udf49](http://9gag.com/gag/aEqj3PG)
  - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 👉 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)<!-- MEMES:END -->
+ - 💣 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
+ - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
 
 ---
 

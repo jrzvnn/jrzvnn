@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Celebrating my bday! First post in 11.5 yrs](http://9gag.com/gag/adPWGmd)
- - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
- - 💣 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
- - 😝 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
+ - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
+ - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
+ - 💣 [They are lying to us!](http://9gag.com/gag/armDQvy)
+ - 😝 [Hypergamy](http://9gag.com/gag/aXnm1KD)
  - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---

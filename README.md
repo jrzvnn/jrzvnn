@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Bed Frames &lpar;2023&rpar;: Easy Assembly, Fabric, Wood, and Metal](https://www.wired.com/gallery/best-bed-frames/)
+ - [The Pixel Watch exceeded expectations — now it needs to be as good as Samsung](https://www.theverge.com/2023/10/1/23895890/google-pixel-watch-2-smartwatch-wearable)
+ - [Hong Sangsoo’s new movies are losing focus](https://www.theverge.com/23894907/in-our-day-in-water-hong-sangsoo-review)
  - [How the Elon Musk biography exposes Walter Isaacson](https://www.theverge.com/2023/10/1/23895069/walter-isaacson-biography-musk-review)
- - [Oura Ring 4: Release date, rumors, specs, price, and features we want to see](https://www.androidauthority.com/oura-ring-4-3368927/)
- - [8 Best Sunrise Alarm Clocks &lpar;2023&rpar;: Homelabs, Philips, Casper](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [How to Stop Google Bard From Storing Your Data and Location](https://www.wired.com/story/google-bard-location-data-tracking-ai/)
- - [How Insect Brains Melt and Rewire During Metamorphosis](https://www.wired.com/story/how-insect-brains-melt-and-rewire-during-metamorphosis/)<!-- TECH:END -->
+ - [Oura Ring 4: Release date, rumors, specs, price, and features we want to see](https://www.androidauthority.com/oura-ring-4-3368927/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

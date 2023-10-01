@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans to upgrade the App Store’s search engine, and it might not stop there](https://www.theverge.com/2023/10/1/23898280/apple-google-pegasus-search-engine-competition-generative-ai)
  - [Daily deals Oct. 1: AirPods Pro $199, $700 off M1 MacBook Pro, Echelon EX3 exercise bike $299, more](https://appleinsider.com/articles/23/10/01/daily-deals-oct-1-airpods-pro-199-700-off-m1-macbook-pro-echelon-ex3-exercise-bike-299-more?utm_medium=rss)
  - [Mark Zuckerberg wants Meta to be the Android of XR](https://www.androidauthority.com/meta-xr-opinion-3369498/)
  - [Target Circle Week: Big Savings on Apple, Beats, Dyson and More     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
- - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)<!-- TECH:END -->
+ - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

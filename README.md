@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 😝 [The media knows the kids are all locked in Oprah&#39;s basement](http://9gag.com/gag/armDwBB)
- - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 👉 [Peodo bastards](http://9gag.com/gag/a2KAgpp)<!-- MEMES:END -->
+ - 😝 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 💣 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

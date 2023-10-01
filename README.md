@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 😝 [He has a point](http://9gag.com/gag/aoKGXOA)
  - 😝 [No one reads the title anyways](http://9gag.com/gag/aDYqvQ9)
  - 💣 [With this cat dreams come true](http://9gag.com/gag/anz0oOV)
  - 😝 [It was fine.](http://9gag.com/gag/ap9nOn8)

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)
  - [Thronmax Space wireless mic kit review: an almost-great option for vloggers &amp; more](https://appleinsider.com/articles/23/09/30/thronmax-space-wireless-mic-kit-review-an-almost-great-option-for-vloggers-more?utm_medium=rss)
  - [Between ChatGPT&#39;s surprisingly human voice and Meta&#39;s AI characters, we may be witnessing the rise of social networks populated by synthetic companions &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230930/p12#a230930p12)
  - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [LG is dropping ATSC 3.0 from its TVs next year](https://www.theverge.com/2023/9/30/23897460/lg-drops-atsc-3-0-support-fcc-broadcast-tv)
- - [Aston Villa vs. Brighton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/aston-villa-vs-brighton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG is dropping ATSC 3.0 from its TVs next year](https://www.theverge.com/2023/9/30/23897460/lg-drops-atsc-3-0-support-fcc-broadcast-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

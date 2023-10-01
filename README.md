@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 💣 [They are lying to us!](http://9gag.com/gag/armDQvy)
- - 😝 [Hypergamy](http://9gag.com/gag/aXnm1KD)
- - 👉 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)<!-- MEMES:END -->
+ - 😝 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
+ - 😝 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
+ - 💣 [Always has been....](http://9gag.com/gag/aRE8bVA)
+ - 😝 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
+ - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 
 ---
 

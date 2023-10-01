@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice thing to keep inside the house](http://9gag.com/gag/anz0wQL)
- - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
- - 💣 [They are lying to us!](http://9gag.com/gag/armDQvy)
+ - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
  - 😝 [Hypergamy](http://9gag.com/gag/aXnm1KD)
- - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
+ - 💣 [Heartbreaking video shows a tearing 10-year-old White girl tell her grandmother that her mother\u2019s black boyfriend ra*es her while the mother watches. Sophie was forcefully removed from her father\u2019s custody by child support and given to her mother and her would-be-abuser.](http://9gag.com/gag/aGEr5M6)
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 👉 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)<!-- MEMES:END -->
 
 ---
 

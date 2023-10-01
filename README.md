@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
- - 😝 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
- - 💣 [Always has been....](http://9gag.com/gag/aRE8bVA)
+ - 😝 [We need more of this](http://9gag.com/gag/a2KA3Qe)
+ - 😝 [Always has been....](http://9gag.com/gag/aRE8bVA)
+ - 💣 [My coworker showed me this and i think everyone should know this](http://9gag.com/gag/aGErmXn)
  - 😝 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
  - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
 

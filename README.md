@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 💣 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 👉 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)<!-- MEMES:END -->
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 😝 [No one reads the title anyways](http://9gag.com/gag/aDYqvQ9)
+ - 💣 [With this cat dreams come true](http://9gag.com/gag/anz0oOV)
+ - 😝 [It was fine.](http://9gag.com/gag/ap9nOn8)
+ - 👉 [Harry Potter but in America.](http://9gag.com/gag/a9q4oz1)<!-- MEMES:END -->
 
 ---
 

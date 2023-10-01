@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should I be racist or?](http://9gag.com/gag/a04DyvL)
- - 😝 [Balanced\u2026.. just as all things should be\u2026..](http://9gag.com/gag/aA0L8wL)
- - 💣 [Always has been....](http://9gag.com/gag/aRE8bVA)
- - 😝 [First scene surprised me](http://9gag.com/gag/aeQq8vq)
- - 👉 [Right them feels..](http://9gag.com/gag/a3ZzO65)<!-- MEMES:END -->
+ - 😝 [NowWhichOneOfYouDidThis](http://9gag.com/gag/axoeqzK)
+ - 😝 [Peodo bastards](http://9gag.com/gag/a2KAgpp)
+ - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
 
 ---
 

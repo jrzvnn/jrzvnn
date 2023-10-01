@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)
+ - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
  - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 💣 [No one reads the title anyways](http://9gag.com/gag/aDYqvQ9)
- - 😝 [Making Life HELL For Scammers](http://9gag.com/gag/aME0gM1)
- - 👉 [It was fine.](http://9gag.com/gag/ap9nOn8)<!-- MEMES:END -->
+ - 💣 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
+ - 😝 [WTF](http://9gag.com/gag/aeQq8pQ)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 ---
 

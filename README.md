@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Daily deals Oct. 1: AirPods Pro $199, $700 off M1 MacBook Pro, Echelon EX3 exercise bike $299, more](https://appleinsider.com/articles/23/10/01/daily-deals-oct-1-airpods-pro-199-700-off-m1-macbook-pro-echelon-ex3-exercise-bike-299-more?utm_medium=rss)
  - [Mark Zuckerberg wants Meta to be the Android of XR](https://www.androidauthority.com/meta-xr-opinion-3369498/)
- - [Target Circle Week: Big Savings on Apple, Beats, Dyson and More     - CNET](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)
- - [Best Wine Club for 2023     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)
- - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)<!-- TECH:END -->
+ - [Apple confirms iOS 17 fix for overheating iPhones is on the way](https://appleinsider.com/articles/23/09/30/apple-confirms-ios-17-fix-for-overheating-iphones-is-on-the-way?utm_medium=rss)
+ - [How to Watch Taylor Swift, Travis Kelce at Kansas City Chiefs vs. New York Jets Tonight     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-taylor-swift-travis-kelce-at-kansas-city-chiefs-vs-new-york-jets-tonight/#ftag=CAD590a51e)
+ - [Apple has most of the elements it needs to create its own search engine](https://appleinsider.com/articles/23/10/01/apple-has-most-of-the-elements-it-needs-to-create-its-own-search-engine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

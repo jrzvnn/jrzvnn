@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
- - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - 😝 [That&#39;s true love for her child](http://9gag.com/gag/aA0L8b2)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 💣 [No one reads the title anyways](http://9gag.com/gag/aDYqvQ9)
+ - 😝 [Making Life HELL For Scammers](http://9gag.com/gag/aME0gM1)
+ - 👉 [It was fine.](http://9gag.com/gag/ap9nOn8)<!-- MEMES:END -->
 
 ---
 

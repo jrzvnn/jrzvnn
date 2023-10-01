@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He has a point](http://9gag.com/gag/aoKGXOA)
- - 😝 [No one reads the title anyways](http://9gag.com/gag/aDYqvQ9)
- - 💣 [With this cat dreams come true](http://9gag.com/gag/anz0oOV)
- - 😝 [It was fine.](http://9gag.com/gag/ap9nOn8)
- - 👉 [Harry Potter but in America.](http://9gag.com/gag/a9q4oz1)<!-- MEMES:END -->
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 💣 [WTF](http://9gag.com/gag/aeQq8pQ)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
 
 ---
 

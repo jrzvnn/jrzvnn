@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where are my \ud83c\udf49](http://9gag.com/gag/aEqj3PG)
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 💣 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
- - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 👉 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)<!-- MEMES:END -->
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 😝 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
+ - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
+ - 😝 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 👉 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)<!-- MEMES:END -->
 
 ---
 

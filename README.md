@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple acknowledges iPhone 15 Pro overheating issue, says it’s not the hardware](https://www.androidauthority.com/apple-iphone-15-pro-overheating-fix-update-3370174/)
  - [Filing: LG suspends the inclusion of ATSC 3.0, an IP-based broadcast system, in its 2024 lineup of US TVs due to a &quot;challenging and uncertain patent landscape&quot; &lpar;Jeff Baumgartner/Light Reading&rpar;](http://www.techmeme.com/231001/p1#a231001p1)
  - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)
  - [Thronmax Space wireless mic kit review: an almost-great option for vloggers &amp; more](https://appleinsider.com/articles/23/09/30/thronmax-space-wireless-mic-kit-review-an-almost-great-option-for-vloggers-more?utm_medium=rss)
- - [Between ChatGPT&#39;s surprisingly human voice and Meta&#39;s AI characters, we may be witnessing the rise of social networks populated by synthetic companions &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230930/p12#a230930p12)
- - [Best Space Heater for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Between ChatGPT&#39;s surprisingly human voice and Meta&#39;s AI characters, we may be witnessing the rise of social networks populated by synthetic companions &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230930/p12#a230930p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

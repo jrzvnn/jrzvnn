@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 💣 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
  - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
+ - 😝 [WTF](http://9gag.com/gag/aeQq8pQ)
+ - 💣 [Right them feels..](http://9gag.com/gag/a3ZzO65)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 💣 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
+ - 😝 [Stretch so well that it turns into cramp](http://9gag.com/gag/aeQqX9b)
+ - 😝 [Man i love this sound](http://9gag.com/gag/ay2mgYW)
+ - 💣 [Physics.](http://9gag.com/gag/anz0Ajb)
+ - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
+ - 👉 [It&#39;s funny because it&#39;s true but also very sad because it&#39;s true. Mostly sad.](http://9gag.com/gag/avQBbzX)<!-- MEMES:END -->
 
 ---
 

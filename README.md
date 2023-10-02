@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
+ - 😝 [In case anyone wondered and/or needs instruction, here ya go.](http://9gag.com/gag/armDYMX)
+ - 😝 [Winter is coming](http://9gag.com/gag/a5X9LdL)
+ - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
  - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
+ - 👉 [No Title](http://9gag.com/gag/aVb9nWM)<!-- MEMES:END -->
 
 ---
 

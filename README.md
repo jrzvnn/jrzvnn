@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
- - 😝 [I&#39;m so proud of this community](http://9gag.com/gag/a6qevQL)
- - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [In case anyone wondered and/or needs instruction, here ya go.](http://9gag.com/gag/armDYMX)
+ - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 😝 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
+ - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
  - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
 
 ---

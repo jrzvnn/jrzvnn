@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satya Nadella tells a court that Bing is worse than Google — and Apple could fix it](https://www.theverge.com/2023/10/2/23900233/microsoft-ceo-satya-nadella-us-google-antitrust-trial-testimony)
  - [Elon Musk sued for defamation for falsely identifying man as neo-Nazi protestor](https://www.theverge.com/2023/10/2/23900223/elon-musk-neo-nazi-defamation-lawsuit-fed-agent)
  - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)
  - [Blizzard says it’s building ‘revitalized’ Overwatch esports after OWL season ends](https://www.theverge.com/2023/10/2/23899985/overwatch-league-disbands-esports)
- - [MrBeast is putting his snack brand’s logo on NBA jerseys](https://www.theverge.com/2023/10/2/23899984/mrbeast-feastables-charlotte-hornets-nba-jersey-logo)
- - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)<!-- TECH:END -->
+ - [MrBeast is putting his snack brand’s logo on NBA jerseys](https://www.theverge.com/2023/10/2/23899984/mrbeast-feastables-charlotte-hornets-nba-jersey-logo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

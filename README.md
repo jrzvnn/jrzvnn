@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: at Foxconn&#39;s Sriperumbudur factory, key to Apple&#39;s pivot to India, issues persist like disciplinary wage docking and poorer conditions for contractors &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231002/p14#a231002p14)
+ - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
+ - [Sources: at Foxconn&#39;s Sriperumbudur factory, key to Apple&#39;s pivot to India, issues persist, like disciplinary wage docking and poorer conditions for contractors &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231002/p14#a231002p14)
+ - [Best Gaming Gifts for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-gifts-for-holiday-season-2023/#ftag=CAD590a51e)
  - [Google Pixel Buds Pro rumor says conversation detection is coming in an update](https://www.theverge.com/2023/10/2/23900272/google-pixel-buds-pro-rumor-leak-software-update-conversation-detection)
- - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
- - [Microsoft okay with losing billions if Bing can be Apple’s search default](https://www.androidauthority.com/microsoft-bing-default-search-3370545/)
- - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)<!-- TECH:END -->
+ - [MLB Playoffs: How to Watch the Wild Card Games Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/mlb-playoffs-how-to-watch-the-wild-card-games-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

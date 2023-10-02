@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 😝 [Relax, he just wants to play](http://9gag.com/gag/ay2mOGV)
- - 💣 [We dont control the media](http://9gag.com/gag/aGEqKDw)
- - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 💣 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
  - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---

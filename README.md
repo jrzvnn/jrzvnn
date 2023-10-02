@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)
  - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
  - [TikTok is considering offering an ad-free subscription to keep up with rival platforms](https://appleinsider.com/articles/23/10/02/tiktok-is-considering-offering-an-ad-free-subscription-to-keep-up-with-rival-platforms?utm_medium=rss)
  - [Documents and sources undermine Flexport founder Ryan Petersen&#39;s claims that CEO Dave Clark overspent, overhired, and overpromised before being forced to resign &lpar;CNBC&rpar;](http://www.techmeme.com/231002/p13#a231002p13)
- - [The Raspberry Pi 5 is here: Who is it for and is it worth buying?](https://www.androidauthority.com/raspberry-pi-5-specs-price-3370189/)
- - [Men Overran a Job Fair for Women in Tech](https://www.wired.com/story/grace-hopper-celebration-career-fair-men/)<!-- TECH:END -->
+ - [The Raspberry Pi 5 is here: Who is it for and is it worth buying?](https://www.androidauthority.com/raspberry-pi-5-specs-price-3370189/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

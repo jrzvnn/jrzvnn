@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Katalin Karikó’s Nobel Prize Marks the Beginning of a Vaccine Revolution](https://www.wired.com/story/mrna-vaccine-revolution-katalin-kariko/)
  - [Fairphone 4 gets Android 13, could extend support up to Android 15](https://www.androidauthority.com/fairphone-4-android-13-3370457/)
  - [Paris Hilton is getting a special deal to post on X](https://www.theverge.com/2023/10/2/23899858/paris-hilton-special-deal-post-partnership-x-twitter)
  - [Spotify head wants UK to show leadership and stop Apple&#39;s App Store dominance](https://appleinsider.com/articles/23/10/02/spotify-head-wants-uk-to-show-leadership-and-stop-apples-app-store-dominance?utm_medium=rss)
- - [Samsung will reportedly bring its game streaming service out of beta this week](https://www.theverge.com/2023/10/2/23899924/samsung-game-launcher-cloud-service-rumor-leak)
- - [TikTok is reportedly testing a paid, ad-free version of its app](https://www.theverge.com/2023/10/2/23899771/tiktok-paid-version-ad-free-plan-test)<!-- TECH:END -->
+ - [Samsung will reportedly bring its game streaming service out of beta this week](https://www.theverge.com/2023/10/2/23899924/samsung-game-launcher-cloud-service-rumor-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

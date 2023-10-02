@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Lists is now available for everyone on iOS, Android, and the web](https://www.theverge.com/2023/10/2/23899361/microsoft-lists-preview-ios-android-web-consumers)
  - [In an open letter, the CEOs of 20 European telcos including BT, Telekom, and Telef&amp;oacute;nica ask EU to compel Big Tech to pay a &quot;fair share&quot; for using their networks &lpar;Financial Times&rpar;](http://www.techmeme.com/231002/p3#a231002p3)
  - [Samsung confirms launch on the same day as Pixel 8, likely for the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-launch-teaser-3370277/)
  - [Google has partnered with HP to manufacture Chromebooks in India for the first time; the Chromebooks will mainly cater to the demand for affordable PCs in India &lpar;Times of India&rpar;](http://www.techmeme.com/231002/p2#a231002p2)
- - [Leaked promo video shows how easy it is to switch to Pixel 8](https://www.androidauthority.com/google-pixel-8-video-leak-switch-3370254/)
- - [Galaxy S24 Plus renders leak: iPhone-style flat edges, but what else?](https://www.androidauthority.com/samsung-galaxy-s24-plus-renders-3370236/)<!-- TECH:END -->
+ - [Leaked promo video shows how easy it is to switch to Pixel 8](https://www.androidauthority.com/google-pixel-8-video-leak-switch-3370254/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

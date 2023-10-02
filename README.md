@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [While Adobe, Getty Images, Stability AI, and YouTube have at least pledged to share generative AI profits with creators, none have publicly detailed their plans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231002/p12#a231002p12)
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
  - [Satya Nadella tells a court that Bing is worse than Google — and Apple could fix it](https://www.theverge.com/2023/10/2/23900233/microsoft-ceo-satya-nadella-us-google-antitrust-trial-testimony)
  - [Elon Musk sued for defamation for falsely identifying man as neo-Nazi protestor](https://www.theverge.com/2023/10/2/23900223/elon-musk-neo-nazi-defamation-lawsuit-fed-agent)
- - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)
- - [Blizzard says it’s building ‘revitalized’ Overwatch esports after OWL season ends](https://www.theverge.com/2023/10/2/23899985/overwatch-league-disbands-esports)<!-- TECH:END -->
+ - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

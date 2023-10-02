@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
- - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
+ - 😝 [No Title](http://9gag.com/gag/aVb9nWM)
+ - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
+ - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
 
 ---
 

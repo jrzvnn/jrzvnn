@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 💣 [In case anyone wondered and/or needs instruction, here ya go.](http://9gag.com/gag/armDYMX)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
  - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
 
 ---
 

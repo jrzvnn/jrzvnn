@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best SSDs for recording video on iPhone 15 Pro](https://appleinsider.com/inside/iphone-15-pro/best/the-best-ssds-for-recording-video-on-iphone-15-pro?utm_medium=rss)
- - [FTX’s Sam Bankman-Fried is on trial for fraud and conspiracy](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [Beyoncé’s Renaissance film is the next movie theater blockbuster](https://www.theverge.com/2023/10/2/23899671/beyonce-renaissance-concert-film-trailer-movie-theaters)
  - [Apple drops all human support on X](https://appleinsider.com/articles/23/10/02/apple-drops-all-human-support-on-x?utm_medium=rss)
- - [The Biggest Hack of 2023 Keeps Getting Bigger](https://www.wired.com/story/moveit-breach-victims/)<!-- TECH:END -->
+ - [The best SSD for recording video on iPhone 15 Pro](https://appleinsider.com/inside/iphone-15-pro/best/the-best-ssds-for-recording-video-on-iphone-15-pro?utm_medium=rss)
+ - [FTX’s Sam Bankman-Fried is on trial for fraud and conspiracy](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
+ - [The 15-Minute City Conspiracy Theory Goes Mainstream](https://www.wired.com/story/15-minute-city-conspiracy-uk-politics/)
+ - [The Trial of Sam Bankman-Fried, Explained](https://www.wired.com/story/sam-bankman-fried-trial-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

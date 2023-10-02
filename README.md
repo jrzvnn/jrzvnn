@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 💣 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 😝 [Stretch so well that it turns into cramp](http://9gag.com/gag/aeQqX9b)
+ - 😝 [It&#39;s funny because it&#39;s true but also very sad because it&#39;s true. Mostly sad.](http://9gag.com/gag/avQBbzX)
+ - 💣 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
+ - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 👉 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)
+ - [Blizzard says it’s building ‘revitalized’ Overwatch esports after OWL season ends](https://www.theverge.com/2023/10/2/23899985/overwatch-league-disbands-esports)
+ - [MrBeast is putting his snack brand’s logo on NBA jerseys](https://www.theverge.com/2023/10/2/23899984/mrbeast-feastables-charlotte-hornets-nba-jersey-logo)
  - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)
- - [The new Samsung microSD took just a month to get a 30% price drop](https://www.androidauthority.com/samsung-pro-ultimate-microsd-deal-3370498/)
- - [US v. Google: Satya Nadella says Google cemented search dominance via mobile default search deals with Apple and he may have been overenthusiastic about ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p11#a231002p11)
- - [macOS Sonoma can be installed on 83 unsupported Macs with this tool](https://appleinsider.com/articles/23/10/02/macos-sonoma-can-be-installed-on-83-unsupported-macs-with-this-tool?utm_medium=rss)
- - [Katalin Karikó’s Nobel Prize Marks the Beginning of a Vaccine Revolution](https://www.wired.com/story/mrna-vaccine-revolution-katalin-kariko/)<!-- TECH:END -->
+ - [The new Samsung microSD took just a month to get a 30% price drop](https://www.androidauthority.com/samsung-pro-ultimate-microsd-deal-3370498/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

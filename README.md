@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
  - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
+ - 😝 [Relax, he just wants to play](http://9gag.com/gag/ay2mOGV)
+ - 💣 [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---
 

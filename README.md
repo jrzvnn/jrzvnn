@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 😝 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
+ - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 💣 [Sad but admirable](http://9gag.com/gag/aME0R1x)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
  - 👉 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)<!-- MEMES:END -->
 
 ---

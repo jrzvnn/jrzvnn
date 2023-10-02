@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chromebook Plus is Google’s new certification for premium Chromebooks](https://www.theverge.com/2023/10/2/23897416/google-chromebook-plus-certification-announcement)
+ - [New Genki ShadowCast video capture card goes ‘Pro,’ Covert Dock gets an upgrade](https://www.theverge.com/2023/10/2/23899679/genki-shadowcast-2-pro-video-capture-card-covert-dock-2-switch)
  - [Q&amp;A with Intel&#39;s GM of the Data Center and AI Group Sandra Rivera about the Metaverse, competing with Nvidia, brain-like architectures, generative AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231002/p8#a231002p8)
- - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)
- - [Apple Watch Ultra with microLED display expected in 2025](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-with-microled-display-expected-in-2025?utm_medium=rss)
- - [The OnePlus Open and OPPO Find N3 are confirmed to be the same phone](https://www.androidauthority.com/oneplus-open-oppo-find-n3-2-3370405/)
- - [Apple drops all human support on X](https://appleinsider.com/articles/23/10/02/apple-drops-all-human-support-on-x?utm_medium=rss)<!-- TECH:END -->
+ - [Apple has stopped offering customer support on X](https://www.theverge.com/2023/10/2/23899814/apple-customer-support-x-twitter-end)
+ - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

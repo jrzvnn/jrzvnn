@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 💣 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
  - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 💣 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 ---
 

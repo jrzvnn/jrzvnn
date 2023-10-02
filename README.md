@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin Vivoactive 5 review: Should you buy it?](https://www.androidauthority.com/garmin-vivoactive-5-review-3369028/)
+ - [Tesla produced over 430,000 vehicles in the third quarter of 2023](https://www.theverge.com/2023/10/2/23899523/tesla-delivery-production-ev-q3-2023)
  - [iPhone 15 with Thread, Home Key smart lock, &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/02/iphone-15-with-thread-home-key-smart-lock-more-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Google launches Chromebook Plus certification for premium Chromebooks, with qualifying specs like a 1080p webcam and display, 8GB of RAM, and 128GB of storage &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231002/p6#a231002p6)
- - [Pixel 8 Pro unboxed on video: This phone might not attract fingerprints](https://www.androidauthority.com/pixel-8-pro-unboxing-video-3370368/)
- - [Chromebook Plus: Huge and exciting changes with a boring name](https://www.androidauthority.com/google-chromebook-plus-3369405/)
- - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
+ - [Pixel 8 Pro unboxed on video: This phone might not attract fingerprints](https://www.androidauthority.com/pixel-8-pro-unboxing-video-3370368/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

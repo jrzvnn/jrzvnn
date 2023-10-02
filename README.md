@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Leave the World Behind is a tense post-apocalyptic thriller in first trailer](https://www.theverge.com/23896161/leave-the-world-behind-trailer-date-netflix)
- - [This Exec Is Forcing Google Into Its First Trial Over Sexist Pay Discrimination](https://www.wired.com/story/exec-google-trial-sexist-pay-discrimination/)
- - [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)
- - [HP AMD Omen 16 Review &lpar;2023&rpar;: A Powerful Gaming Laptop](https://www.wired.com/review/hp-omen-16-2023/)
- - [Apple Watch Ultra 2 review: Still the best smartwatch around, despite lack of new features](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-2-review-still-the-best-smartwatch-around-despite-lack-of-new-features?utm_medium=rss)<!-- TECH:END -->
+ - [Apple reveals teaser for new &#39;Messi Meets America&#39; series](https://appleinsider.com/articles/23/10/02/apple-reveals-teaser-for-new-messi-meets-america-series?utm_medium=rss)
+ - [Google Pixel event: how to watch and what to expect](https://www.theverge.com/23894038/google-pixel-8-pro-event-date-time-watch-live-stream)
+ - [A profile of New York-based GlobalFoundries, spun out of AMD in 2009, which makes &quot;essential&quot; 12nm chips and above for image sensors, power management, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/231002/p5#a231002p5)
+ - [Tesla missed its Q3 target for the Cybertruck delivery event](https://www.theverge.com/2023/10/2/23899439/tesla-cybertruck-q3-delivery-event-target-miss)
+ - [Netflix’s Leave the World Behind is a tense post-apocalyptic thriller in first trailer](https://www.theverge.com/23896161/leave-the-world-behind-trailer-date-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

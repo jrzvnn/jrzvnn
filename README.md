@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s India iPhone factory still has growing pains post-protests](https://appleinsider.com/articles/23/10/02/apples-india-iphone-factory-still-has-growing-pains-post-protests?utm_medium=rss)
  - [What Will Plants Be Like on Alien Worlds?](https://www.wired.com/story/what-will-plants-be-like-on-alien-worlds/)
  - [Why Silicon Valley Falls for Frauds](https://www.wired.com/story/why-silicon-valley-falls-for-frauds/)
  - [Why It&#39;s Too Soon to Call It Covid Season](https://www.wired.com/story/why-its-too-soon-to-call-it-covid-season/)
- - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)
- - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)<!-- TECH:END -->
+ - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

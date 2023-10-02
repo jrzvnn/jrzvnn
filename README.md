@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [October Deal Days extends to popular software, from Office for Mac for $32.97 to Windows 11 Pro for $29.97](https://appleinsider.com/articles/23/10/02/october-deal-days-extends-to-popular-software-from-office-for-mac-for-3297-to-windows-11-pro-for-2997?utm_medium=rss)
  - [X Social Media is suing X, a social media company](https://www.theverge.com/2023/10/2/23900434/x-lawsuit-trademark-unfair-competition-elon-musk-twitter-florida)
  - [Filing: Virginia-based cybersecurity startup IronNet, which was founded in 2014 by an ex-NSA director and raised over $400M, has shut down and laid off staff &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231002/p16#a231002p16)
  - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)
- - [Sources: ByteDance plans a buyback from employees at a $223.5B valuation, down 26% YoY; it made $20B+ in operating profit in 2022, but revenue growth slowed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)
- - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)<!-- TECH:END -->
+ - [Sources: ByteDance plans a buyback from employees at a $223.5B valuation, down 26% YoY; it made $20B+ in operating profit in 2022, but revenue growth slowed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

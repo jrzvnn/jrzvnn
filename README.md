@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In US v. Google testimony, Satya Nadella says Google cemented its search dominance through Apple deals, he may have been overenthusiastic about ChatGPT, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p11#a231002p11)
+ - [macOS Sonoma can be installed on 83 unsupported Macs with this tool](https://appleinsider.com/articles/23/10/02/macos-sonoma-can-be-installed-on-83-unsupported-macs-with-this-tool?utm_medium=rss)
  - [Katalin Karikó’s Nobel Prize Marks the Beginning of a Vaccine Revolution](https://www.wired.com/story/mrna-vaccine-revolution-katalin-kariko/)
  - [Fairphone 4 gets Android 13, could extend support up to Android 15](https://www.androidauthority.com/fairphone-4-android-13-3370457/)
- - [Paris Hilton is getting a special deal to post on X](https://www.theverge.com/2023/10/2/23899858/paris-hilton-special-deal-post-partnership-x-twitter)
- - [Spotify head wants UK to show leadership and stop Apple&#39;s App Store dominance](https://appleinsider.com/articles/23/10/02/spotify-head-wants-uk-to-show-leadership-and-stop-apples-app-store-dominance?utm_medium=rss)
- - [Samsung will reportedly bring its game streaming service out of beta this week](https://www.theverge.com/2023/10/2/23899924/samsung-game-launcher-cloud-service-rumor-leak)<!-- TECH:END -->
+ - [Paris Hilton is getting a special deal to post on X](https://www.theverge.com/2023/10/2/23899858/paris-hilton-special-deal-post-partnership-x-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is still slow to purge scam apps in the Mac App Store](https://appleinsider.com/articles/23/10/02/apple-is-still-slow-to-purge-scam-apps-in-the-mac-app-store?utm_medium=rss)
+ - [Predictive Policing Software Terrible at Predicting Crimes](https://www.wired.com/story/plainfield-geolitica-crime-predictions/)
+ - [How I Use Sleep Deprivation as a Productivity Tool, and Why That&#39;s a Horrible Idea     - CNET](https://www.cnet.com/health/sleep/how-i-use-sleep-deprivation-as-a-productivity-tool-and-why-thats-a-horrible-idea/#ftag=CAD590a51e)
  - [Who wins when telehealth companies push weight loss drugs?](https://www.theverge.com/23878992/ro-ozempic-subway-ads-telehealth-weight-loss-drugs)
- - [Garmin Vivoactive 5 review: Should you buy it?](https://www.androidauthority.com/garmin-vivoactive-5-review-3369028/)
- - [Tesla produced over 430,000 vehicles in the third quarter of 2023](https://www.theverge.com/2023/10/2/23899523/tesla-delivery-production-ev-q3-2023)
- - [iPhone 15 with Thread, Home Key smart lock, &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/02/iphone-15-with-thread-home-key-smart-lock-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Google launches Chromebook Plus certification for premium Chromebooks, with qualifying specs like a 1080p webcam and display, 8GB of RAM, and 128GB of storage &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231002/p6#a231002p6)<!-- TECH:END -->
+ - [Garmin Vivoactive 5 review: Should you buy it?](https://www.androidauthority.com/garmin-vivoactive-5-review-3369028/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

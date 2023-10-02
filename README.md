@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
- - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
- - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 👉 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)<!-- MEMES:END -->
+ - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
+ - 😝 [I&#39;m so proud of this community](http://9gag.com/gag/a6qevQL)
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [In case anyone wondered and/or needs instruction, here ya go.](http://9gag.com/gag/armDYMX)
+ - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
 
 ---
 

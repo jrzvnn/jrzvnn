@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stretch so well that it turns into cramp](http://9gag.com/gag/aeQqX9b)
- - 😝 [It&#39;s funny because it&#39;s true but also very sad because it&#39;s true. Mostly sad.](http://9gag.com/gag/avQBbzX)
- - 💣 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
- - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
- - 👉 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)<!-- MEMES:END -->
+ - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
+ - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
+ - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
 
 ---
 

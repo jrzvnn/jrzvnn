@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 💣 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [Sorry for that.](http://9gag.com/gag/a6qePom)
+ - 💣 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
  - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
- - 👉 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)<!-- MEMES:END -->
+ - 👉 [No Title](http://9gag.com/gag/aVb9nWM)<!-- MEMES:END -->
 
 ---
 

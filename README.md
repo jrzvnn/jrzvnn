@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)
- - [Sources: ByteDance plans a buyback from employees that values itself at $223.5B, down 26% YoY; last year it made $20B+ in operating profit but saw revenue slow &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)
+ - [Sources: ByteDance plans a buyback from employees at a $223.5B valuation, down 26% YoY; it made $20B+ in operating profit in 2022, but revenue growth slowed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)
  - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
  - [Sources: at Foxconn&#39;s Sriperumbudur factory, key to Apple&#39;s pivot to India, issues persist, like disciplinary wage docking and poorer conditions for contractors &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231002/p14#a231002p14)
  - [Best Gaming Gifts for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-gifts-for-holiday-season-2023/#ftag=CAD590a51e)<!-- TECH:END -->

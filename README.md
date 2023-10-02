@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X Social Media is suing X, a social media company](https://www.theverge.com/2023/10/2/23900434/x-lawsuit-trademark-unfair-competition-elon-musk-twitter-florida)
+ - [Filing: Virginia-based cybersecurity startup IronNet, which was founded in 2014 by an ex-NSA director and raised over $400M, has shut down and laid off staff &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231002/p16#a231002p16)
  - [The next foldable Pixel might not be the Pixel Fold 2](https://www.androidauthority.com/pixel-fold-2-potential-codename-3370587/)
  - [Sources: ByteDance plans a buyback from employees at a $223.5B valuation, down 26% YoY; it made $20B+ in operating profit in 2022, but revenue growth slowed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p15#a231002p15)
- - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)
- - [Sources: at Foxconn&#39;s Sriperumbudur factory, key to Apple&#39;s pivot to India, issues persist, like disciplinary wage docking and poorer conditions for contractors &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231002/p14#a231002p14)
- - [Best Gaming Gifts for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-gifts-for-holiday-season-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will no longer fix the $17,000 gold Apple Watch](https://www.theverge.com/2023/10/2/23900158/apple-watch-edition-gold-2015-obsolete-unsupported-beyonce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

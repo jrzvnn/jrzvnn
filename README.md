@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [While Adobe, Getty Images, Stability AI, and YouTube have at least pledged to share generative AI profits with creators, none have publicly detailed their plans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231002/p12#a231002p12)
+ - [The Raspberry Pi 5 is here: Who is it for and is it worth buying?](https://www.androidauthority.com/raspberry-pi-5-specs-price-3370189/)
+ - [Men Overran a Job Fair for Women in Tech](https://www.wired.com/story/grace-hopper-celebration-career-fair-men/)
+ - [While Adobe, Getty Images, Stability AI, and YouTube have at least pledged to share their generative AI profits with creators, none have detailed their plans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231002/p12#a231002p12)
  - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Satya Nadella tells a court that Bing is worse than Google — and Apple could fix it](https://www.theverge.com/2023/10/2/23900233/microsoft-ceo-satya-nadella-us-google-antitrust-trial-testimony)
- - [Elon Musk sued for defamation for falsely identifying man as neo-Nazi protestor](https://www.theverge.com/2023/10/2/23900223/elon-musk-neo-nazi-defamation-lawsuit-fed-agent)
- - [OnePlus Open’s first official look shows off new gapless hinge](https://www.androidauthority.com/oneplus-open-official-look-3370501/)<!-- TECH:END -->
+ - [Satya Nadella tells a court that Bing is worse than Google — and Apple could fix it](https://www.theverge.com/2023/10/2/23900233/microsoft-ceo-satya-nadella-us-google-antitrust-trial-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

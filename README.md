@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He really said that.](http://9gag.com/gag/aGErWnX)
- - 😝 [Angry server noise](http://9gag.com/gag/aOxnX8y)
- - 💣 [Rewatching Ace Ventura but as an adult, I now understand this particular scene.](http://9gag.com/gag/a04D2KQ)
- - 😝 [Just Stop Oil protester using plane to go to a summit where they protest against planes.](http://9gag.com/gag/aKEXRvN)
- - 👉 [Making Life HELL For Scammers](http://9gag.com/gag/aME0gM1)<!-- MEMES:END -->
+ - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 💣 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 👉 [No Title](http://9gag.com/gag/aVb9nWM)<!-- MEMES:END -->
 
 ---
 

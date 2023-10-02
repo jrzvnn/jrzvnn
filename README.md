@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time laying tiles, damn it&#39;s slow](http://9gag.com/gag/aL1O7bW)
- - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
- - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
+ - 😝 [Interesting destination , would you be interested??](http://9gag.com/gag/aEqjLnN)
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
+ - 👉 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)<!-- MEMES:END -->
 
 ---
 

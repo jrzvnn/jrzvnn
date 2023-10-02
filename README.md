@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beyoncé’s Renaissance film is the next movie theater blockbuster](https://www.theverge.com/2023/10/2/23899671/beyonce-renaissance-concert-film-trailer-movie-theaters)
+ - [Apple drops all human support on X](https://appleinsider.com/articles/23/10/02/apple-drops-all-human-support-on-x?utm_medium=rss)
+ - [The Biggest Hack of 2023 Keeps Getting Bigger](https://www.wired.com/story/moveit-breach-victims/)
  - [Someone already unboxed the Google Pixel 8 and 8 Pro](https://www.theverge.com/2023/10/2/23899648/google-pixel-8-pro-unboxing-video-leak)
- - [7 Face Masks Your Kids May Actually Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-kids-face-masks/)
- - [This giant, next-generation satellite is now one of the brightest objects in the night sky](https://www.theverge.com/2023/10/2/23899530/satellite-night-sky-blue-walker-3-brightest-object)
- - [FEMA’s national emergency alert test rings phones, TVs, and radios on Wednesday](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
- - [The Beats Studio Pro are once again $100 off &lpar;in all color options&rpar;](https://www.theverge.com/2023/10/2/23899443/apple-beats-studio-pro-xbox-elite-controller-echo-dot-deal-sale)<!-- TECH:END -->
+ - [7 Face Masks Your Kids May Actually Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-kids-face-masks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

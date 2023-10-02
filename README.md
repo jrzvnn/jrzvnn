@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [First time laying tiles, damn it&#39;s slow](http://9gag.com/gag/aL1O7bW)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
+ - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
  - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
- - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 👉 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)<!-- MEMES:END -->
+ - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
 
 ---
 

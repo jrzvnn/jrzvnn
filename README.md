@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 💣 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
+ - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
+ - 💣 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
 
 ---
 

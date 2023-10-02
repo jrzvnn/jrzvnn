@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
- - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 💣 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
+ - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
 
 ---
 

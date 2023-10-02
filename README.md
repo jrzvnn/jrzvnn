@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - 💣 [WTF](http://9gag.com/gag/aeQq8pQ)
  - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
+ - 👉 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)<!-- MEMES:END -->
 
 ---
 

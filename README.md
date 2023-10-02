@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
- - 😝 [Sad but admirable](http://9gag.com/gag/aME0R1x)
+ - 😝 [Sorry for that.](http://9gag.com/gag/a6qePom)
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
  - 💣 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Historically accurate costumes](http://9gag.com/gag/agopWg6)<!-- MEMES:END -->
+ - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 👉 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)<!-- MEMES:END -->
 
 ---
 

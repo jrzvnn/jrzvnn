@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
- - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
- - 💣 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
- - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
+ - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 👉 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)<!-- MEMES:END -->
 
 ---
 

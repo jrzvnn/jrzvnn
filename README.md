@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;Messi Meets America&#39; series hits Apple TV+ soon](https://appleinsider.com/articles/23/10/02/apple-reveals-teaser-for-new-messi-meets-america-series?utm_medium=rss)
- - [TikTok is testing an ad-free monthly subscription plan](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)
- - [Google Pixel event: how to watch and what to expect](https://www.theverge.com/23894038/google-pixel-8-pro-event-date-time-watch-live-stream)
- - [A profile of New York-based GlobalFoundries, spun out of AMD in 2009, which makes &quot;essential&quot; 12nm chips and above for image sensors, power management, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/231002/p5#a231002p5)
- - [Tesla missed its Q3 target for the Cybertruck delivery event](https://www.theverge.com/2023/10/2/23899439/tesla-cybertruck-q3-delivery-event-target-miss)<!-- TECH:END -->
+ - [iPhone 15 with Thread, Home Key smart lock, &amp; more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/02/iphone-15-with-thread-home-key-smart-lock-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Google launches Chromebook Plus certification for premium Chromebooks, with qualifying specs like a 1080p webcam and display, 8GB of RAM, and 128GB of storage &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231002/p6#a231002p6)
+ - [Pixel 8 Pro unboxed on video: This phone might not attract fingerprints](https://www.androidauthority.com/pixel-8-pro-unboxing-video-3370368/)
+ - [Chromebook Plus: Huge and exciting changes with a boring name](https://www.androidauthority.com/google-chromebook-plus-3369405/)
+ - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

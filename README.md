@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Will Plants Be Like on Alien Worlds?](https://www.wired.com/story/what-will-plants-be-like-on-alien-worlds/)
+ - [Why Silicon Valley Falls for Frauds](https://www.wired.com/story/why-silicon-valley-falls-for-frauds/)
+ - [Why It&#39;s Too Soon to Call It Covid Season](https://www.wired.com/story/why-its-too-soon-to-call-it-covid-season/)
  - [Humane shows off its wearable AI pin at Paris Fashion Week](https://appleinsider.com/articles/23/10/02/humane-shows-off-its-wearable-ai-pin-at-paris-fashion-week?utm_medium=rss)
- - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)
- - [Vertex, a SPAC backed by Singapore&#39;s Temasek, plans to buy live streaming service 17LIVE for ~$676M; 17LIVE had revenue of $363.7M in 2022 and is profitable &lpar;Reuters&rpar;](http://www.techmeme.com/231002/p4#a231002p4)
- - [We asked, you told us: You overwhelmingly still have hope for Wear OS](https://www.androidauthority.com/hope-wear-os-poll-results-3370274/)
- - [Dutch regulator rejects Apple&#39;s appeal over App Store fines](https://appleinsider.com/articles/23/10/02/dutch-regulator-rejects-apples-appeal-over-app-store-fines?utm_medium=rss)<!-- TECH:END -->
+ - [BMW’s in-car wireless charging will break your new iPhone 15](https://www.androidauthority.com/bmw-wireless-charging-iphone-15-apple-pay-3370296/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

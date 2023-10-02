@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: at Foxconn&#39;s Sriperumbudur factory, key to Apple&#39;s pivot to India, issues persist like disciplinary wage docking and poorer conditions for contractors &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231002/p14#a231002p14)
  - [Google Pixel Buds Pro rumor says conversation detection is coming in an update](https://www.theverge.com/2023/10/2/23900272/google-pixel-buds-pro-rumor-leak-software-update-conversation-detection)
  - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
  - [Microsoft okay with losing billions if Bing can be Apple’s search default](https://www.androidauthority.com/microsoft-bing-default-search-3370545/)
- - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)
- - [TikTok is considering offering an ad-free subscription to keep up with rival platforms](https://appleinsider.com/articles/23/10/02/tiktok-is-considering-offering-an-ad-free-subscription-to-keep-up-with-rival-platforms?utm_medium=rss)<!-- TECH:END -->
+ - [Apple hasn&#39;t leaked a MacBook Pro with Dynamic Island](https://appleinsider.com/articles/23/10/02/apple-hasnt-leaked-a-macbook-pro-with-dynamic-island?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

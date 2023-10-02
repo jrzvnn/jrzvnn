@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monetary Authority of Singapore grants Coinbase license to offer a wide range of digital payment services to retail and institutional customers in the country &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/231002/p1#a231002p1)
  - [The Pixel 8 launches later this week, but we’ve already got an unboxing clip](https://www.androidauthority.com/google-pixel-8-unboxing-3370227/)
  - [Epic vs Apple trial - all you need to know about the trial, verdict, and aftermath](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
  - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)
- - [Shipping times for iPhone 15 Pro models are gradually improving](https://appleinsider.com/articles/23/10/01/shipping-times-for-iphone-15-pro-models-are-gradually-improving?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

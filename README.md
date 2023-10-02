@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 💣 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
+ - 😝 [I&#39;m so proud of this community](http://9gag.com/gag/a6qevQL)
+ - 😝 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
+ - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting destination , would you be interested??](http://9gag.com/gag/aEqjLnN)
- - 😝 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
- - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)
- - 👉 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)<!-- MEMES:END -->
+ - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 😝 [Don\u2019t stick your dick in crazy](http://9gag.com/gag/armD7yK)
+ - 💣 [Wait a minute...](http://9gag.com/gag/aeQqn6B)
+ - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
+ - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
 
 ---
 

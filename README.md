@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Studio Pro are once again $100 off &lpar;in all color options&rpar;](https://www.theverge.com/2023/10/2/23899443/apple-beats-studio-pro-xbox-elite-controller-echo-dot-deal-sale)
- - [What to expect from the &quot;Made by Google&quot; event on October 4: Pixel 8 and Pixel 8 Pro, Pixel Watch 2, Android 14 release, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231002/p7#a231002p7)
- - [Daily deals Oct. 2: 53% off 27&quot; iMac, Apple Watch Ultra $649, $50 off Apple Magic Keyboard for iPad Pro, more](https://appleinsider.com/articles/23/10/02/daily-deals-oct-2-53-off-27-imac-apple-watch-ultra-649-50-off-apple-magic-keyboard-for-ipad-pro-more?utm_medium=rss)
- - [Apple is still slow to purge scam apps in the Mac App Store](https://appleinsider.com/articles/23/10/02/apple-is-still-slow-to-purge-scam-apps-in-the-mac-app-store?utm_medium=rss)
- - [Predictive Policing Software Terrible at Predicting Crimes](https://www.wired.com/story/plainfield-geolitica-crime-predictions/)<!-- TECH:END -->
+ - [Someone already unboxed the Google Pixel 8 and 8 Pro](https://www.theverge.com/2023/10/2/23899648/google-pixel-8-pro-unboxing-video-leak)
+ - [7 Face Masks Your Kids May Actually Wear &lpar;2023&rpar;](https://www.wired.com/gallery/best-kids-face-masks/)
+ - [This giant, next-generation satellite is now one of the brightest objects in the night sky](https://www.theverge.com/2023/10/2/23899530/satellite-night-sky-blue-walker-3-brightest-object)
+ - [FEMA’s national emergency alert test rings phones, TVs, and radios on Wednesday](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
+ - [The Beats Studio Pro are once again $100 off &lpar;in all color options&rpar;](https://www.theverge.com/2023/10/2/23899443/apple-beats-studio-pro-xbox-elite-controller-echo-dot-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

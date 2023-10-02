@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
  - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 💣 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 😝 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
- - 👉 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)<!-- MEMES:END -->
+ - 💣 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 👉 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)<!-- MEMES:END -->
 
 ---
 

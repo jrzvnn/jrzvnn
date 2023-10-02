@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 8 launches later this week, but we’ve already got an unboxing clip](https://www.androidauthority.com/google-pixel-8-unboxing-3370227/)
  - [Epic vs Apple trial - all you need to know about the trial, verdict, and aftermath](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
  - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
  - [Q&amp;A with researcher Tamara Kneese on her book Death Glitch and why tech companies need to improve how they handle posthumous digital remains on their platforms &lpar;Zo&amp;euml; Corbyn/The Guardian&rpar;](http://www.techmeme.com/231001/p9#a231001p9)
- - [Shipping times for iPhone 15 Pro models are gradually improving](https://appleinsider.com/articles/23/10/01/shipping-times-for-iphone-15-pro-models-are-gradually-improving?utm_medium=rss)
- - [National emergency alert test will affect all U.S. iPhones on Wednesday](https://appleinsider.com/articles/23/10/01/national-emergency-alert-test-will-affect-all-us-iphones-on-wednesday?utm_medium=rss)<!-- TECH:END -->
+ - [Shipping times for iPhone 15 Pro models are gradually improving](https://appleinsider.com/articles/23/10/01/shipping-times-for-iphone-15-pro-models-are-gradually-improving?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

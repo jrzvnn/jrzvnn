@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monetary Authority of Singapore grants Coinbase license to offer a wide range of digital payment services to retail and institutional customers in the country &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/231002/p1#a231002p1)
+ - [Singapore grants Coinbase a Major Payment Institution license, allowing it to offer a wider range of Digital Payment Token services to institutions, customers &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/231002/p1#a231002p1)
  - [The Pixel 8 launches later this week, but we’ve already got an unboxing clip](https://www.androidauthority.com/google-pixel-8-unboxing-3370227/)
  - [Epic vs Apple trial - all you need to know about the trial, verdict, and aftermath](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
  - [Best Power Bank for iPhone for 2023     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)

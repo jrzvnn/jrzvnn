@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s October Prime Day starts in 1 week, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)
  - [The new Samsung microSD took just a month to get a 30% price drop](https://www.androidauthority.com/samsung-pro-ultimate-microsd-deal-3370498/)
  - [US v. Google: Satya Nadella says Google cemented search dominance via mobile default search deals with Apple and he may have been overenthusiastic about ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231002/p11#a231002p11)
  - [macOS Sonoma can be installed on 83 unsupported Macs with this tool](https://appleinsider.com/articles/23/10/02/macos-sonoma-can-be-installed-on-83-unsupported-macs-with-this-tool?utm_medium=rss)
- - [Katalin Karikó’s Nobel Prize Marks the Beginning of a Vaccine Revolution](https://www.wired.com/story/mrna-vaccine-revolution-katalin-kariko/)
- - [Fairphone 4 gets Android 13, could extend support up to Android 15](https://www.androidauthority.com/fairphone-4-android-13-3370457/)<!-- TECH:END -->
+ - [Katalin Karikó’s Nobel Prize Marks the Beginning of a Vaccine Revolution](https://www.wired.com/story/mrna-vaccine-revolution-katalin-kariko/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
  - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
  - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
 
 ---
 

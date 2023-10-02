@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Without irony, Microsoft CEO says Google unfairly dominates search](https://appleinsider.com/articles/23/10/02/without-irony-microsoft-ceo-says-google-unfairly-dominates-search?utm_medium=rss)
  - [TikTok is considering offering an ad-free subscription to keep up with rival platforms](https://appleinsider.com/articles/23/10/02/tiktok-is-considering-offering-an-ad-free-subscription-to-keep-up-with-rival-platforms?utm_medium=rss)
  - [Documents and sources undermine Flexport founder Ryan Petersen&#39;s claims that CEO Dave Clark overspent, overhired, and overpromised before being forced to resign &lpar;CNBC&rpar;](http://www.techmeme.com/231002/p13#a231002p13)
  - [The Raspberry Pi 5 is here: Who is it for and is it worth buying?](https://www.androidauthority.com/raspberry-pi-5-specs-price-3370189/)
- - [Men Overran a Job Fair for Women in Tech](https://www.wired.com/story/grace-hopper-celebration-career-fair-men/)
- - [While Adobe, Getty Images, Stability AI, and YouTube have at least pledged to share their generative AI profits with creators, none have detailed their plans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231002/p12#a231002p12)<!-- TECH:END -->
+ - [Men Overran a Job Fair for Women in Tech](https://www.wired.com/story/grace-hopper-celebration-career-fair-men/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

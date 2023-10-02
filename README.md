@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 💣 [In case anyone wondered and/or needs instruction, here ya go.](http://9gag.com/gag/armDYMX)
  - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 😝 [No Title](http://9gag.com/gag/aVb9nWM)
- - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
- - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
+ - 👉 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)<!-- MEMES:END -->
 
 ---
 

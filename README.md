@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vertex, a SPAC backed by Singapore&#39;s Temasek, plans to buy live streaming service 17LIVE for ~$676M; 17LIVE had revenue of $363.7M in 2022 and is profitable &lpar;Reuters&rpar;](http://www.techmeme.com/231002/p4#a231002p4)
+ - [We asked, you told us: You overwhelmingly still have hope for Wear OS](https://www.androidauthority.com/hope-wear-os-poll-results-3370274/)
  - [Dutch regulator rejects Apple&#39;s appeal over App Store fines](https://appleinsider.com/articles/23/10/02/dutch-regulator-rejects-apples-appeal-over-app-store-fines?utm_medium=rss)
  - [Microsoft Lists is now available for everyone on iOS, Android, and the web](https://www.theverge.com/2023/10/2/23899361/microsoft-lists-preview-ios-android-web-consumers)
- - [In an open letter, the CEOs of 20 European telcos including BT, Telekom, and Telef&amp;oacute;nica ask EU to compel Big Tech to pay a &quot;fair share&quot; for using their networks &lpar;Financial Times&rpar;](http://www.techmeme.com/231002/p3#a231002p3)
- - [Samsung confirms launch on the same day as Pixel 8, likely for the Galaxy S23 FE](https://www.androidauthority.com/samsung-galaxy-s23-fe-launch-teaser-3370277/)
- - [Google has partnered with HP to manufacture Chromebooks in India for the first time; the Chromebooks will mainly cater to the demand for affordable PCs in India &lpar;Times of India&rpar;](http://www.techmeme.com/231002/p2#a231002p2)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Seahawks vs. Giants, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-seahawks-vs-giants-manningcast-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stretch so well that it turns into cramp](http://9gag.com/gag/aeQqX9b)
- - 😝 [Man i love this sound](http://9gag.com/gag/ay2mgYW)
- - 💣 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
- - 👉 [It&#39;s funny because it&#39;s true but also very sad because it&#39;s true. Mostly sad.](http://9gag.com/gag/avQBbzX)<!-- MEMES:END -->
+ - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
+ - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - 💣 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 👉 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
 
 ---
 

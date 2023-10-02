@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
- - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 💣 [Sad but admirable](http://9gag.com/gag/aME0R1x)
+ - 😝 [They are lying to us!](http://9gag.com/gag/armDQvy)
  - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 👉 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)<!-- MEMES:END -->
+ - 💣 [Looters cry as their looted iPhone got bricked by Apple](http://9gag.com/gag/aOxnMRE)
+ - 😝 [A little suck and f**k - An Oscar nominee](http://9gag.com/gag/aDYqp1w)
+ - 👉 [\u2757\ufe0fAbout a million demonstrators gathered today at an anti-government rally in the Polish capital Warsaw Let us remind you that the population of Warsaw is just under two million people.](http://9gag.com/gag/ajV3oN0)<!-- MEMES:END -->
 
 ---
 

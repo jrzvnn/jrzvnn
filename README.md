@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
- - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
- - 💣 [Historically accurate costumes](http://9gag.com/gag/agopWg6)
+ - 😝 [Biggest plot twist](http://9gag.com/gag/a7qmRRq)
  - 😝 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)
- - 👉 [No Title](http://9gag.com/gag/aVb9nWM)<!-- MEMES:END -->
+ - 💣 [They are lying to us!](http://9gag.com/gag/armDQvy)
+ - 😝 [KILL. IT. WITH. FIRE. Or Nuke the site from orbit,](http://9gag.com/gag/amAO4N4)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aeQqn6B)<!-- MEMES:END -->
 
 ---
 

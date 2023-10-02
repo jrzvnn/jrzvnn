@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra with microLED display expected in 2025](https://appleinsider.com/articles/23/10/02/apple-watch-ultra-with-microled-display-expected-in-2025?utm_medium=rss)
+ - [The OnePlus Open and OPPO Find N3 are confirmed to be the same phone](https://www.androidauthority.com/oneplus-open-oppo-find-n3-2-3370405/)
  - [Apple drops all human support on X](https://appleinsider.com/articles/23/10/02/apple-drops-all-human-support-on-x?utm_medium=rss)
  - [The best SSD for recording video on iPhone 15 Pro](https://appleinsider.com/inside/iphone-15-pro/best/the-best-ssds-for-recording-video-on-iphone-15-pro?utm_medium=rss)
- - [FTX’s Sam Bankman-Fried is on trial for fraud and conspiracy](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [The 15-Minute City Conspiracy Theory Goes Mainstream](https://www.wired.com/story/15-minute-city-conspiracy-uk-politics/)
- - [The Trial of Sam Bankman-Fried, Explained](https://www.wired.com/story/sam-bankman-fried-trial-explained/)<!-- TECH:END -->
+ - [FTX’s Sam Bankman-Fried is on trial for fraud and conspiracy](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

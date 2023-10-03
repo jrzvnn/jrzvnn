@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Microsoft overhauls OneDrive with a big new design, AI Copilot integration, and more](https://www.theverge.com/2023/10/3/23901682/microsoft-onedrive-new-design-copilot-offline-features)
  - [Researchers find critical now-patched flaws allowing RCE in open-source AI model-serving tool TorchServe and vulnerable instances at tens of thousands of IPs &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231003/p22#a231003p22)
  - [Apple doles out fourth visionOS beta to developers](https://appleinsider.com/articles/23/10/03/apple-doles-out-fourth-visionos-beta-to-developers?utm_medium=rss)
- - [How to find the best deals during Amazon’s October Prime Day event](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)<!-- TECH:END -->
+ - [How to find the best deals during Amazon’s October Prime Day event](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

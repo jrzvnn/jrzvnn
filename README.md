@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh look...](http://9gag.com/gag/aoK6mOA)
+ - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
+ - 💣 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
  - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
- - 💣 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 😝 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
- - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
+ - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---
 

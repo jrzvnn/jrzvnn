@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starting in Feb. 2024, Google will require emailers, who send 5K+ emails/day to Gmail users, to offer a one-click unsubscribe link &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231003/p20#a231003p20)
+ - [Grimes sues Elon Musk after saying he won’t let her ‘see my son’](https://www.theverge.com/2023/10/3/23901484/grimes-elon-musk-parental-relationship-lawsuit)
+ - [FCC issues first-ever fine for leaving junk in space](https://www.theverge.com/2023/10/3/23901428/dish-network-fined-space-junk)
  - [Sam Bankman-Fried Is a Terrible Client](https://www.wired.com/story/sam-bankman-fried-trial-terrible-client/)
- - [Meta’s head of news relations, Campbell Brown, has stepped down](https://www.theverge.com/2023/10/3/23901489/meta-campbell-brown-leaving-meta-facebook-news)
- - [Researchers say it is easy to &quot;wash out&quot; watermarks on AI images, which makes it less likely that online services could reliably flag AI-generated content &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231003/p19#a231003p19)
- - [Watch Mean Girls for free today in the worst possible way](https://www.androidauthority.com/mean-girls-tiktok-3371182/)
- - [Catch the first price drop on Jabra’s most advanced earbuds ever](https://www.androidauthority.com/jabra-elite-10-deal-3371189/)<!-- TECH:END -->
+ - [Meta’s head of news relations, Campbell Brown, has stepped down](https://www.theverge.com/2023/10/3/23901489/meta-campbell-brown-leaving-meta-facebook-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 💣 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
+ - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 ---
 

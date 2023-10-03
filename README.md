@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starting in Feb. 2024, Google will require emailers, who send 5K+ emails/day to Gmail users, to offer a one-click unsubscribe link &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231003/p20#a231003p20)
- - [Grimes sues Elon Musk after saying he won’t let her ‘see my son’](https://www.theverge.com/2023/10/3/23901484/grimes-elon-musk-parental-relationship-lawsuit)
- - [FCC issues first-ever fine for leaving junk in space](https://www.theverge.com/2023/10/3/23901428/dish-network-fined-space-junk)
- - [Sam Bankman-Fried Is a Terrible Client](https://www.wired.com/story/sam-bankman-fried-trial-terrible-client/)
- - [Meta’s head of news relations, Campbell Brown, has stepped down](https://www.theverge.com/2023/10/3/23901489/meta-campbell-brown-leaving-meta-facebook-news)<!-- TECH:END -->
+ - [Apple seeds second watchOS 10.1 developer beta](https://appleinsider.com/articles/23/10/03/apple-seeds-second-watchos-101-developer-beta?utm_medium=rss)
+ - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
+ - [Second tvOS 17.1 developer beta is now available](https://appleinsider.com/articles/23/10/03/second-tvos-171-developer-beta-is-now-available?utm_medium=rss)
+ - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)
+ - [Starting in Feb. 2024, Google will require emailers, who send 5K+ emails/day to Gmail users, to offer a one-click unsubscribe link &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231003/p20#a231003p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

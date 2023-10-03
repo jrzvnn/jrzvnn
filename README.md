@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
- - 💣 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 👉 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)<!-- MEMES:END -->
+ - 😝 [Polite man](http://9gag.com/gag/az2zb2N)
+ - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
 
 ---
 

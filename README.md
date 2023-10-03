@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is planning to raise prices... again](https://www.theverge.com/2023/10/3/23901315/netflix-subscription-price-raise-wga-strike)
- - [Plugable Thunderbolt 4 and USB4 Docking Station offers 100W and dual 4K support](https://appleinsider.com/articles/23/10/03/plugable-thunderbolt-4-and-usb4-docking-station-offers-100w-and-dual-4k-support?utm_medium=rss)
- - [Loki season 2 is a quirky timeline cleanse before the next big Marvel event](https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-plus)
- - [Sources: Netflix plans to raise the price of its ad-free service a few months after the Hollywood actors strike ends, likely starting with the US and Canada &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231003/p16#a231003p16)
- - [OnePlus Open: all the news and rumors about the company’s first foldable](https://www.theverge.com/2023/10/3/23901313/oneplus-open-foldable-leaks-news-rumors-oppo)<!-- TECH:END -->
+ - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)
+ - [Google is making it harder for bulk senders to fill your Gmail with spam](https://www.theverge.com/2023/10/3/23901104/google-gmail-email-spam-security-authentication-update)
+ - [Microsoft CTO Kevin Scott on how AI and art will coexist in the future](https://www.theverge.com/23900198/microsoft-kevin-scott-ai-art-bing-google-nvidia-decoder-interview)
+ - [It’s been a good year for streaming whodunits](https://www.theverge.com/2023/10/3/23895847/streaming-mystery-2023-poker-face-afterparty-only-murders)
+ - [Netflix is planning to raise prices... again](https://www.theverge.com/2023/10/3/23901315/netflix-subscription-price-raise-wga-strike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

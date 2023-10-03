@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade adds four new games, 30 updates coming in October](https://appleinsider.com/articles/23/10/03/apple-arcade-adds-four-new-games-30-updates-coming-in-october?utm_medium=rss)
- - [Epic Games plans to add IARC age ratings to &quot;all first- and third-party playable content&quot; in Fortnite, starting November 14 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/231003/p15#a231003p15)
- - [Frec, which uses AI to let customers create their own investment strategies, comes out of stealth with $26.4M in Series A and seed funding led by Greylock &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/231003/p14#a231003p14)
- - [Daily deals Oct. 3: $750 off 16&quot; MacBook Pro, iPad 9th Generation $269, 22% off Kindle Scribe, more](https://appleinsider.com/articles/23/10/03/daily-deals-oct-3-750-off-16-macbook-pro-ipad-9th-generation-269-22-off-kindle-scribe-more?utm_medium=rss)
- - [Microsoft Surface Laptop Studio 2 review: nice build with a 120Hz display, adaptive touchpad, and a unique hinge but short battery life and expensive at $2000 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231003/p13#a231003p13)<!-- TECH:END -->
+ - [Here is your Google Pixel 8 launch event bingo card!](https://www.androidauthority.com/google-pixel-8-launch-event-bingo-3369903/)
+ - [Tenuto Mini Review: Set and Forget Vibrator &lpar;Sort Of&rpar;](https://www.wired.com/review/tenuto-mini/)
+ - [SteelSeries Alias Pro Review: A Newbie-Friendly XLR Microphone and Interface](https://www.wired.com/review/steelseries-alias-pro/)
+ - [SteelSeries enters the gaming microphone market with Alias](https://www.theverge.com/2023/10/3/23901090/steelseries-alias-microphone-release-date-price)
+ - [1,000 photos later, and the iPhone 15 Pro Max is still missing something](https://www.theverge.com/23899983/iphone-15-pro-max-camera-apple-full-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

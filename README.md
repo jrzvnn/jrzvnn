@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Live Blog: The Trial of FTX Founder Sam Bankman-Fried](https://www.wired.com/live/sam-bankman-fried-ftx-trial-live-blog/)
+ - [An interview with Airbnb CEO Brian Chesky on affordable prices, reliability, proper customer support, using AI for quality control, a loyalty program, and more &lpar;Nikki Ekstein/Bloomberg&rpar;](http://www.techmeme.com/231003/p10#a231003p10)
+ - [Apple&#39;s carbon-neutral product claims called a &#39;climate-wash&#39;](https://appleinsider.com/articles/23/10/03/apples-carbon-neutral-product-claims-deemed-a-climate-wash?utm_medium=rss)
  - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/23/10/03/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_medium=rss)
- - [Apple&#39;s carbon-neutral product claims deemed a &#39;climate-wash&#39;](https://appleinsider.com/articles/23/10/03/apples-carbon-neutral-product-claims-deemed-a-climate-wash?utm_medium=rss)
- - [Pretty Soon, Your VR Headset Will Know Exactly What Your Bedroom Looks Like](https://www.wired.com/story/virtual-reality-meta-wearables-privacy/)
- - [A Lab Just 3D-Printed a Neural Network of Living Brain Cells](https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/)
- - [U-Turn Orbit Theory Turntable Review: A Sound Investment](https://www.wired.com/review/u-turn-orbit-theory/)<!-- TECH:END -->
+ - [Pretty Soon, Your VR Headset Will Know Exactly What Your Bedroom Looks Like](https://www.wired.com/story/virtual-reality-meta-wearables-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

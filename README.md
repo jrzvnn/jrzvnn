@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
- - 💣 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - 😝 [Imagine what today would look like without all that lost knowledge.](http://9gag.com/gag/abvL77v)
+ - 💣 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)<!-- MEMES:END -->
 
 ---
 

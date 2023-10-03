@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian court rejects Apple&#39;s App Store antitrust appeal](https://appleinsider.com/articles/23/10/03/russian-court-rejects-apples-app-store-antitrust-appeal?utm_medium=rss)
- - [Apple is locking down the iPhone App Store to comply with a new law in China](https://www.theverge.com/2023/10/3/23901205/apple-app-store-government-license-china)
- - [How to use the updated text magnification in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-updated-text-magnification-in-ios-17?utm_medium=rss)
- - [Watch Champions League Soccer: Livestream Man United vs. Galatasaray From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-man-united-vs-galatasaray-from-anywhere/#ftag=CAD590a51e)
- - [Pluto TV pits human curation against streaming algorithms in new ad campaign](https://www.theverge.com/2023/10/3/23901176/pluto-tv-human-curation-streaming-algorithms-fast)<!-- TECH:END -->
+ - [How to use Reactions in video calls on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-reactions-in-video-calls-on-macos-sonoma?utm_medium=rss)
+ - [Paramount uploads Mean Girls to TikTok across 23 video clips](https://www.theverge.com/2023/10/3/23901374/mean-girls-movie-streaming-tiktok-paramount-pictures-video-clips)
+ - [Reacher season 2: Expected release date and the latest rumors](https://www.androidauthority.com/reacher-season-2-release-date-3370293/)
+ - [AI is coming to the Arc browser — but probably not like you think](https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios)
+ - [Raspberry Pi 5 vs Raspberry Pi 4: Which single-board computer should you buy?](https://www.androidauthority.com/raspberry-pi-5-vs-raspberry-pi-4-3370847/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

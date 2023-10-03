@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Netflix plans to raise the price of its ad-free service a few months after the Hollywood actors strike ends, likely starting with the US and Canada &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231003/p16#a231003p16)
  - [OnePlus Open: all the news and rumors about the company’s first foldable](https://www.theverge.com/2023/10/3/23901313/oneplus-open-foldable-leaks-news-rumors-oppo)
  - [Naughty Dog is reportedly the latest studio to cut developer jobs](https://www.theverge.com/2023/10/3/23901251/naughty-dog-layoffs-developers-last-of-us-multiplayer)
  - [Here is your Google Pixel 8 launch event bingo card!](https://www.androidauthority.com/google-pixel-8-launch-event-bingo-3369903/)
- - [MysteryVibe Tenuto Mini Review: Set and Forget Vibrator &lpar;Sort Of&rpar;](https://www.wired.com/review/tenuto-mini/)
- - [SteelSeries Alias Pro Review: A Newbie-Friendly XLR Microphone and Interface](https://www.wired.com/review/steelseries-alias-pro/)<!-- TECH:END -->
+ - [MysteryVibe Tenuto Mini Review: Set and Forget Vibrator &lpar;Sort Of&rpar;](https://www.wired.com/review/tenuto-mini/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
- - 💣 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
+ - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 💣 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
  - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
 
 ---
 

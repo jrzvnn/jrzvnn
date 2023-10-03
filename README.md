@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)
- - 😝 [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
- - 💣 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
- - 😝 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
- - 👉 [Coins stonks](http://9gag.com/gag/adPM0pZ)<!-- MEMES:END -->
+ - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
+ - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
 
 ---
 

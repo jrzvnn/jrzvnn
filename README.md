@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is in talks to raise at least $2B from Google and others, seeking a $20B-$30B valuation, and projects a revenue of $200M by the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231003/p36#a231003p36)
- - [Verizon bundles Netflix and NFL Plus Premium for $25/month](https://www.theverge.com/2023/10/3/23902112/verizon-netflix-nfl-plus-premium)
- - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [X has to pay $1.1 million in legal fees for ex-Twitter execs](https://www.theverge.com/2023/10/3/23902271/x-corp-must-pay-legal-fees-ex-twitter-executives)
- - [MrBeast asks whether social media platforms are &quot;ready to handle the rise of AI deepfakes&quot; after a deepfake scam TikTok ad, since deleted, used his likeness &lpar;Kalhan Rosenblatt/NBC News&rpar;](http://www.techmeme.com/231003/p35#a231003p35)<!-- TECH:END -->
+ - [Samsung Galaxy S23 FE vs Galaxy S23: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-fe-vs-galaxy-s23-3371217/)
+ - [Samsung Galaxy S21 FE vs Samsung Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-fe-vs-galaxy-s23-fe-3369753/)
+ - [Samsung Galaxy Tab S9 FE: Specs, pricing, features, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
+ - [Galaxy S23 FE hands-on: First impressions of Samsung’s cheaper S23](https://www.androidauthority.com/samsung-galaxy-s23-fe-hands-on-3370454/)
+ - [The new Samsung Galaxy Buds FE bring the ANC experience to more users](https://www.androidauthority.com/samsung-galaxy-buds-fe-launch-3370833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

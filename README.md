@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC fines Dish Network $150,000 for failing to move its old EchoStar-7 satellite far enough away from others in use, the FCC&#39;s first space junk fine &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/231003/p11#a231003p11)
- - [Goal Zero’s modular Yeti Pro 4000 can scale from vanlife power to home backup](https://www.theverge.com/2023/10/3/23901108/goal-zero-solar-generator-home-backup-van-alternator-price)
- - [Surface Laptop Studio 2 review: this could be so much more](https://www.theverge.com/23900932/microsoft-surface-laptop-studio-2-2023-intel-review)
- - [Fortnite is introducing age ratings for all of its Creative experiences](https://www.theverge.com/2023/10/3/23899988/fortnite-creative-age-ratings)
- - [How to use the new Copilot AI in Windows 11](https://www.theverge.com/23899626/copilot-windows-11-how-to)<!-- TECH:END -->
+ - [Cruise says a hit-and-run ‘launched’ pedestrian in front of one of its robotaxis](https://www.theverge.com/2023/10/3/23901233/cruise-crash-hit-run-pedestrian-injury-sf-robotaxi)
+ - [Wattpad replaces its Paid Stories paywall with Wattpad Originals, a freemium tier that lets readers buy chapters with coins or through Premium+ for $7.49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/231003/p12#a231003p12)
+ - [The Kindle Scribe and latest Kindle Kids have both fallen to an all-time low](https://www.theverge.com/2023/10/3/23899854/amazon-kindle-scribe-kids-smart-plug-jbl-tour-2-earbuds-deal-sale)
+ - [Microsoft makes the Windows 11 setup process less boring with an entertaining Easter egg](https://www.theverge.com/2023/10/3/23901130/microsoft-game-windows-11-setup-surface-laptops-skifree)
+ - [New Apple Watch study to look at child arrhythmia and irregular heart beats](https://appleinsider.com/articles/23/10/03/new-apple-watch-study-to-look-at-child-arrhythmia-and-irregular-heart-beats?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

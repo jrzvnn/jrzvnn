@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Niklas Zennstr&amp;ouml;m&#39;s VC firm Atomico raised $1.1B across two funds, among the largest such raises this year in Europe, as it nears its goal of $1.35B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/231003/p9#a231003p9)
- - [India Is Using Terrorism Laws to Target Journalists](https://www.wired.com/story/india-is-using-terrorism-laws-to-target-journalists/)
- - [Meta explores ad-free subscription option for Instagram and Facebook](https://www.androidauthority.com/meta-ad-free-subscription-instagram-facebook-3370961/)
- - [Stampli, which uses AI to automate the processing of invoices and help businesses pay vendors, raised $61M, bringing its total funding to $148M+ &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/231003/p8#a231003p8)
- - [Voice Actors Are Bracing to Compete With Talking AI](https://www.wired.com/story/ai-voice-actors-jobs-threat/)<!-- TECH:END -->
+ - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/23/10/03/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_medium=rss)
+ - [Apple&#39;s carbon-neutral product claims deemed a &#39;climate-wash&#39;](https://appleinsider.com/articles/23/10/03/apples-carbon-neutral-product-claims-deemed-a-climate-wash?utm_medium=rss)
+ - [Pretty Soon, Your VR Headset Will Know Exactly What Your Bedroom Looks Like](https://www.wired.com/story/virtual-reality-meta-wearables-privacy/)
+ - [A Lab Just 3D-Printed a Neural Network of Living Brain Cells](https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/)
+ - [U-Turn Orbit Theory Turntable Review: A Sound Investment](https://www.wired.com/review/u-turn-orbit-theory/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

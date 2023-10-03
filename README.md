@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan&#39;s government approves ~$1.3B in subsidies for US chipmaker Micron&#39;s plant in Hiroshima Prefecture, set to mass produce next-generation memory chips &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231003/p5#a231003p5)
  - [Michael Lewis&#39; new book Going Infinite depicts Sam Bankman-Fried as delusional and criticizes FTX CEO John Ray III&#39;s handling of the exchange&#39;s bankruptcy &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/231003/p4#a231003p4)
  - [A preview of the Sam Bankman-Fried trial, which begins Tuesday with jury selection, the seven charges, key witnesses, the likely legal strategies, and more &lpar;Molly White&rpar;](http://www.techmeme.com/231003/p3#a231003p3)
- - [TikTok is testing an ad-free monthly subscription plan &lpar;Update: Confirmation&rpar;](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)
- - [The Tensor G3 could be a surprisingly big upgrade for the Pixel 8](https://www.androidauthority.com/google-tensor-g3-specs-leak-3369648/)
- - [Cape Town-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raised a $25M Series A extension led by Ribbit &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231003/p2#a231003p2)<!-- TECH:END -->
+ - [Best VR Headsets of 2023     - CNET](https://www.cnet.com/tech/gaming/best-vr-headsets/#ftag=CAD590a51e)
+ - [TikTok is testing an ad-free monthly subscription plan &lpar;Update: Confirmation&rpar;](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

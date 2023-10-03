@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Reactions in video calls on macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-reactions-in-video-calls-on-macos-sonoma?utm_medium=rss)
- - [Paramount uploads Mean Girls to TikTok across 23 video clips](https://www.theverge.com/2023/10/3/23901374/mean-girls-movie-streaming-tiktok-paramount-pictures-video-clips)
- - [Reacher season 2: Expected release date and the latest rumors](https://www.androidauthority.com/reacher-season-2-release-date-3370293/)
- - [AI is coming to the Arc browser — but probably not like you think](https://www.theverge.com/2023/10/3/23898907/arc-max-ai-browser-mac-ios)
- - [Raspberry Pi 5 vs Raspberry Pi 4: Which single-board computer should you buy?](https://www.androidauthority.com/raspberry-pi-5-vs-raspberry-pi-4-3370847/)<!-- TECH:END -->
+ - [Watch Mean Girls for free today in the worst possible way](https://www.androidauthority.com/mean-girls-tiktok-3371182/)
+ - [Catch the first price drop on Jabra’s most advanced earbuds ever](https://www.androidauthority.com/jabra-elite-10-deal-3371189/)
+ - [Florida men win Overwatch League Grand Finals](https://www.theverge.com/2023/10/3/23899798/overwatch-league-grand-finals-2023-results-overview)
+ - [Jony Ive invests in blender company](https://www.theverge.com/2023/10/3/23901470/jony-ive-cruz-blendercap-investment-portable-bottle-blender)
+ - [The ad-free version of Discovery Plus is getting a price hike](https://www.theverge.com/2023/10/3/23901448/discovery-plus-price-increase-monthly-cost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

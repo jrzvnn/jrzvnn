@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India Is Using Terrorism Laws to Target Journalists](https://www.wired.com/story/india-is-using-terrorism-laws-to-target-journalists/)
  - [Meta explores ad-free subscription option for Instagram and Facebook](https://www.androidauthority.com/meta-ad-free-subscription-instagram-facebook-3370961/)
  - [Stampli, which uses AI to automate the processing of invoices and help businesses pay vendors, raised $61M, bringing its total funding to $148M+ &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/231003/p8#a231003p8)
  - [Voice Actors Are Bracing to Compete With Talking AI](https://www.wired.com/story/ai-voice-actors-jobs-threat/)
- - [AI Algorithms Are Biased Against Skin With Yellow Hues](https://www.wired.com/story/ai-algorithms-are-biased-against-skin-with-yellow-hues/)
- - [Slovakia’s Election Deepfakes Show AI Is a Danger to Democracy](https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/)<!-- TECH:END -->
+ - [AI Algorithms Are Biased Against Skin With Yellow Hues](https://www.wired.com/story/ai-algorithms-are-biased-against-skin-with-yellow-hues/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

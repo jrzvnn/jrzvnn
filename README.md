@@ -155,10 +155,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is planning to raise prices... again](https://www.theverge.com/2023/10/3/23901315/netflix-subscription-price-raise-wga-strike)
  - [Plugable Thunderbolt 4 and USB4 Docking Station offers 100W and dual 4K support](https://appleinsider.com/articles/23/10/03/plugable-thunderbolt-4-and-usb4-docking-station-offers-100w-and-dual-4k-support?utm_medium=rss)
  - [Loki season 2 is a quirky timeline cleanse before the next big Marvel event](https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-plus)
  - [Sources: Netflix plans to raise the price of its ad-free service a few months after the Hollywood actors strike ends, likely starting with the US and Canada &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231003/p16#a231003p16)
- - [Best Chromebook of 2023     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
  - [OnePlus Open: all the news and rumors about the company’s first foldable](https://www.theverge.com/2023/10/3/23901313/oneplus-open-foldable-leaks-news-rumors-oppo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

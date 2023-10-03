@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Chromebook of 2023     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
+ - [TikTok says it is running a limited-scale test of an ad-free subscription plan in a non-US market, but declines to reveal the market and the price &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231002/p18#a231002p18)
+ - [OnePlus Folding Phone Shown Off in YouTube Video     - CNET](https://www.cnet.com/tech/mobile/oneplus-folding-phone-shown-off-in-youtube-video/#ftag=CAD590a51e)
  - [Source: Instagram seeks to revive interest in Threads by meeting with creators, working to make Threads a place for real-time updates on big events, and more &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/231002/p17#a231002p17)
- - [Monday Night Football: How to Watch Seahawks vs. Giants, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-seahawks-vs-giants-manningcast-without-cable/#ftag=CAD590a51e)
- - [October Deal Days extends to popular software, from Office for Mac for $32.97 to Windows 11 Pro for $29.97](https://appleinsider.com/articles/23/10/02/october-deal-days-extends-to-popular-software-from-office-for-mac-for-3297-to-windows-11-pro-for-2997?utm_medium=rss)
- - [X Social Media is suing X, a social media company](https://www.theverge.com/2023/10/2/23900434/x-lawsuit-trademark-unfair-competition-elon-musk-twitter-florida)
- - [Filing: Virginia-based cybersecurity startup IronNet, which was founded in 2014 by an ex-NSA director and raised over $400M, has shut down and laid off staff &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/231002/p16#a231002p16)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Seahawks vs. Giants, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-seahawks-vs-giants-manningcast-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds second watchOS 10.1 developer beta](https://appleinsider.com/articles/23/10/03/apple-seeds-second-watchos-101-developer-beta?utm_medium=rss)
- - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
- - [Second tvOS 17.1 developer beta is now available](https://appleinsider.com/articles/23/10/03/second-tvos-171-developer-beta-is-now-available?utm_medium=rss)
- - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)
- - [Starting in Feb. 2024, Google will require emailers, who send 5K+ emails/day to Gmail users, to offer a one-click unsubscribe link &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231003/p20#a231003p20)<!-- TECH:END -->
+ - [Netflix could raise prices again as soon as the actors strike ends](https://www.androidauthority.com/netflix-could-raise-prices-3371214/)
+ - [In a letter to TikTok, Sen. Blackburn and Sen. Blumenthal ask about executives who moved from ByteDance to TikTok in the US despite its supposed independence &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p21#a231003p21)
+ - [The wholesome, feel-good true crime of Hit Man](https://www.theverge.com/23901532/hit-man-review-nyff-richard-linklater-glen-powell)
+ - [This $110 Amazon Fire TV deal is an early Prime Day 2 gem](https://www.androidauthority.com/amazon-fire-2-series-tv-deal-3371225/)
+ - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

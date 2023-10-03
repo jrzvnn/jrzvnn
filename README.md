@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
- - 💣 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)
- - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 😝 [Mike is The GOAT](http://9gag.com/gag/aME0pBW)
+ - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 💣 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
+ - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
+ - 👉 [A proud padre](http://9gag.com/gag/avQBbEq)<!-- MEMES:END -->
 
 ---
 

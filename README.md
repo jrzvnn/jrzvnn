@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 😝 [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
- - 💣 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)<!-- MEMES:END -->
+ - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 😝 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
+ - 💣 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
+ - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
+ - 👉 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)<!-- MEMES:END -->
 
 ---
 

@@ -165,8 +165,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
- - 💣 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
+ - 😝 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
+ - 💣 [We dont control the media](http://9gag.com/gag/aGEqKDw)
  - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
  - 👉 [A proud padre](http://9gag.com/gag/avQBbEq)<!-- MEMES:END -->
 

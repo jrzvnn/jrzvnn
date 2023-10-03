@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils new OneDrive features, like Copilot integration coming in December, a Fluent design refresh for its web app, better offline support, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231003/p30#a231003p30)
  - [Intel plans to turn its Programmable Solutions Group into a standalone business and either sell shares to the public or seek an investor for it &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231003/p29#a231003p29)
  - [Code sleuth discovers reference to Apple Pencil charging via USB-C](https://appleinsider.com/articles/23/10/03/code-sleuth-discovers-reference-to-apple-pencil-charging-via-usb-c?utm_medium=rss)
  - [Meta’s text chat for Horizon Worlds is rolling out to all users](https://www.theverge.com/2023/10/3/23902021/meta-horizon-worlds-text-chat-vr)
- - [Spotify says Premium subscribers will get 15 hours of audiobook streaming per month across 150K+ titles, first in the UK and Australia, and the US this winter &lpar;New York Times&rpar;](http://www.techmeme.com/231003/p28#a231003p28)
- - [A US appeals court rules the CISA likely violated the First Amendment by encouraging social networks to reduce the spread of posts, expanding a September order &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/231003/p27#a231003p27)<!-- TECH:END -->
+ - [Spotify says Premium subscribers will get 15 hours of audiobook streaming per month across 150K+ titles, first in the UK and Australia, and the US this winter &lpar;New York Times&rpar;](http://www.techmeme.com/231003/p28#a231003p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

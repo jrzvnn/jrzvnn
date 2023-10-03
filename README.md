@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple starts requiring a Chinese government license to publish new apps on its China App Store, joining local rivals that adopted the policy since at least 2017 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231003/p7#a231003p7)
+ - [Apple, Google, Amazon face Australian big tech influence probe](https://appleinsider.com/articles/23/10/03/apple-google-amazon-face-australian-big-tech-influence-probe?utm_medium=rss)
+ - [Apple starts requiring a Chinese government license to publish new apps on the China App Store, after China tightened its oversight over mobile apps in August &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231003/p7#a231003p7)
  - [Patrick Stewart Boldly Explores His Own Final Frontier](https://www.wired.com/story/patrick-stewart-memoir/)
  - [AI Watermarks Are No Match for Attackers](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
- - [Your Internet Browser Does Not Belong to You](https://www.wired.com/story/browser-online-search-surveillance-psychology/)
- - [Ford’s new F-150 Lightning Flash trim will have more range, a bigger screen, and a heat pump](https://www.theverge.com/2023/10/3/23900197/ford-f150-lightning-flash-trim-specs-price-heat-pump)<!-- TECH:END -->
+ - [Your Internet Browser Does Not Belong to You](https://www.wired.com/story/browser-online-search-surveillance-psychology/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

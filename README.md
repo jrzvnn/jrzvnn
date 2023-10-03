@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh look...](http://9gag.com/gag/aoK6mOA)
- - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
- - 💣 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
  - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 💣 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
+ - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
 
 ---
 

@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mike is The GOAT](http://9gag.com/gag/aME0pBW)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
  - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
  - 💣 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
  - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)

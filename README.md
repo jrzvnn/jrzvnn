@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bing rolls out DALL-E 3 to all Chat and Image Creator users; OpenAI is scheduled to roll out DALL-E 3 access later this month to paying ChatGPT Plus users &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)
+ - [Microsoft rolls out DALL-E 3 to all Bing Chat and Bing Image Creator users; OpenAI plans to roll out DALL-E 3 to paying ChatGPT subscribers later in October &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)
  - [The UK&#39;s Independent Publishers Alliance urges members to block OpenAI and Google crawling, as OpenAI extends ChatGPT&#39;s training database beyond September 2021 &lpar;Charlotte Tobitt/Press Gazette&rpar;](http://www.techmeme.com/231003/p31#a231003p31)
  - [Microsoft unveils new OneDrive features, like Copilot integration coming in December, a Fluent design refresh for its web app, better offline support, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231003/p30#a231003p30)
  - [Intel plans to turn its programmable chip unit created from its Altera acquisition into a standalone business, by selling shares publicly or seeking an investor &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231003/p29#a231003p29)

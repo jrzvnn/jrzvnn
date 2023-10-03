@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3.OCT.11 never forget](http://9gag.com/gag/aVb9GQP)
- - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
- - 💣 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
+ - 💣 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
+ - 😝 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)
  - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
 
 ---

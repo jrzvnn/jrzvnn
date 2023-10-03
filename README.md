@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Apple should explain how it defines product &quot;carbon neutrality&quot; after it stopped requiring suppliers to disclose greenhouse gas emissions data this year &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231003/p26#a231003p26)
+ - [Report: Apple should explain what &quot;carbon-neutral products&quot; mean after the company in 2023 stopped requiring suppliers to disclose greenhouse gas emissions data &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231003/p26#a231003p26)
  - [Google Outlines New Efforts to Keep Spam Out of Your Inbox     - CNET](https://www.cnet.com/tech/services-and-software/google-outlines-new-efforts-to-keep-spam-out-of-your-inbox/#ftag=CAD590a51e)
  - [Zoom Docs launches in 2024 with built-in AI collaboration features](https://www.theverge.com/2023/10/3/23901656/zoom-docs-ai-companion-meeting-summaries-project-management)
  - [Helium, the decentralized cellular network working with T-Mobile, debuts $250 home hotspots for Miamians, as the company looks for a sustainable business model &lpar;Jack Kubinec/Blockworks&rpar;](http://www.techmeme.com/231003/p25#a231003p25)

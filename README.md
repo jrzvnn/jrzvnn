@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft overhauls OneDrive with a big new design, AI Copilot integration, and more](https://www.theverge.com/2023/10/3/23901682/microsoft-onedrive-new-design-copilot-offline-features)
+ - [Researchers find critical now-patched flaws allowing RCE in open-source AI model-serving tool TorchServe and vulnerable instances at tens of thousands of IPs &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231003/p22#a231003p22)
+ - [Apple doles out fourth visionOS beta to developers](https://appleinsider.com/articles/23/10/03/apple-doles-out-fourth-visionos-beta-to-developers?utm_medium=rss)
  - [How to find the best deals during Amazon’s October Prime Day event](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)
- - [Apple issues second iOS 17.1, iPadOS 17.1 developer betas](https://appleinsider.com/articles/23/10/03/apple-issues-second-ios-171-ipados-171-developer-betas?utm_medium=rss)
- - [Netflix could raise prices again as soon as the actors strike ends](https://www.androidauthority.com/netflix-could-raise-prices-3371214/)
- - [In a letter to TikTok, Sen. Blackburn and Sen. Blumenthal ask about executives who moved from ByteDance to TikTok in the US despite its supposed independence &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p21#a231003p21)<!-- TECH:END -->
+ - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

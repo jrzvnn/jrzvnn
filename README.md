@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [FTC&#39;s suit against Amazon describes an algorithm where Amazon would raise product prices and hold them there if rivals followed, allegedly showing consumer harm &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p23#a231003p23)
- - [Cruz BlenderCap review: USB-C smoothies and shakes on the go](https://www.theverge.com/23901697/cruz-blendercap-review)
+ - [The Cruz BlenderCap lets you make smoothies and shakes on the go](https://www.theverge.com/23901697/cruz-blendercap-review)
  - [Quick fix: what can I do about that double diamond icon in my Chrome address bar?](https://www.theverge.com/23900574/google-chrome-service-handler-how-to)
  - [Amazon reportedly used a secret algorithm to jack up prices](https://www.theverge.com/2023/10/3/23901840/amazon-project-nessie-algorithm-antitrust-ftc-complaint)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->

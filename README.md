@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple bows to China, starts enforcing App Store rules](https://appleinsider.com/articles/23/10/03/apple-bows-to-china-starts-enforcing-app-store-rules?utm_medium=rss)
- - [V&amp;#283;ra Jourov&amp;aacute;, one of two commissioners overseeing the enactment of EU&#39;s AI law, warns against being &quot;paranoid&quot; or too restrictive when regulating generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/231003/p6#a231003p6)
- - [Japan&#39;s government approves ~$1.3B in subsidies for US chipmaker Micron&#39;s plant in Hiroshima Prefecture, set to mass produce next-generation memory chips &lpar;Yoshiaki Nohara/Bloomberg&rpar;](http://www.techmeme.com/231003/p5#a231003p5)
- - [Michael Lewis&#39; new book Going Infinite depicts Sam Bankman-Fried as delusional and criticizes FTX CEO John Ray III&#39;s handling of the exchange&#39;s bankruptcy &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/231003/p4#a231003p4)
- - [A preview of the Sam Bankman-Fried trial, which begins Tuesday with jury selection, the seven charges, key witnesses, the likely legal strategies, and more &lpar;Molly White&rpar;](http://www.techmeme.com/231003/p3#a231003p3)<!-- TECH:END -->
+ - [Patrick Stewart Boldly Explores His Own Final Frontier](https://www.wired.com/story/patrick-stewart-memoir/)
+ - [AI Watermarks Are No Match for Attackers](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
+ - [Your Internet Browser Does Not Belong to You](https://www.wired.com/story/browser-online-search-surveillance-psychology/)
+ - [Ford’s new F-150 Lightning Flash trim will have more range, a bigger screen, and a heat pump](https://www.theverge.com/2023/10/3/23900197/ford-f150-lightning-flash-trim-specs-price-heat-pump)
+ - [Apple bows to China, starts enforcing App Store rules](https://appleinsider.com/articles/23/10/03/apple-bows-to-china-starts-enforcing-app-store-rules?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

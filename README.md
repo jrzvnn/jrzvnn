@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)
- - 😝 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
- - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [3.OCT.11 never forget](http://9gag.com/gag/aVb9GQP)
+ - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 💣 [Physics.](http://9gag.com/gag/anz0Ajb)
  - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
  - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
 

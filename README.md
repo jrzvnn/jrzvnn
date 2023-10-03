@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Microsoft overhauls OneDrive with a big new design, AI Copilot integration, and more](https://www.theverge.com/2023/10/3/23901682/microsoft-onedrive-new-design-copilot-offline-features)
- - [Researchers find critical now-patched flaws allowing RCE in open-source AI model-serving tool TorchServe and vulnerable instances at tens of thousands of IPs &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231003/p22#a231003p22)
- - [Apple doles out fourth visionOS beta to developers](https://appleinsider.com/articles/23/10/03/apple-doles-out-fourth-visionos-beta-to-developers?utm_medium=rss)
- - [How to find the best deals during Amazon’s October Prime Day event](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
+ - [FTC&#39;s suit against Amazon describes an algorithm where Amazon would raise product prices and hold them there if rivals followed, allegedly showing consumer harm &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p23#a231003p23)
+ - [Cruz BlenderCap review: USB-C smoothies and shakes on the go](https://www.theverge.com/23901697/cruz-blendercap-review)
+ - [Quick fix: what can I do about that double diamond icon in my Chrome address bar?](https://www.theverge.com/23900574/google-chrome-service-handler-how-to)
+ - [Amazon reportedly used a secret algorithm to jack up prices](https://www.theverge.com/2023/10/3/23901840/amazon-project-nessie-algorithm-antitrust-ftc-complaint)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

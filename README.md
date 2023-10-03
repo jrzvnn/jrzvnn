@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Code in the latest build of the Spotify app suggests the company is working on AI-generated playlists based on users&#39; prompts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231003/p34#a231003p34)
  - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)
  - [A US judge rules X violated its duties to cover employee legal expenses and must pay $1.1M in fees to Parag Agrawal, Vijaya Gadde, and other former executives &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231003/p33#a231003p33)
  - [Microsoft rolls out DALL-E 3 to all Bing Chat and Bing Image Creator users; OpenAI plans to roll out DALL-E 3 to paying ChatGPT subscribers later in October &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231003/p32#a231003p32)
- - [Best MacBook Deals: Record Low Prices on Select M2 Pro Models     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [16 STEM Toys Your Smarty-Pants Kids Will Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MacBook Deals: Record Low Prices on Select M2 Pro Models     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

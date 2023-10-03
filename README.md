@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 💣 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
- - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 😝 [So cool!](http://9gag.com/gag/a8q9ddY)
+ - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 💣 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 👉 [Coins stonks](http://9gag.com/gag/adPM0pZ)<!-- MEMES:END -->
 
 ---
 

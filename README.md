@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom unveils collaborative document editing, featuring the ability to include information and AI-generated summaries from Zoom meetings, set to arrive in 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231003/p24#a231003p24)
  - [FTC&#39;s suit against Amazon describes an algorithm where Amazon would raise product prices and hold them there if rivals followed, allegedly showing consumer harm &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p23#a231003p23)
  - [The Cruz BlenderCap lets you make smoothies and shakes on the go](https://www.theverge.com/23901697/cruz-blendercap-review)
  - [Quick fix: what can I do about that double diamond icon in my Chrome address bar?](https://www.theverge.com/23900574/google-chrome-service-handler-how-to)
- - [Amazon reportedly used a secret algorithm to jack up prices](https://www.theverge.com/2023/10/3/23901840/amazon-project-nessie-algorithm-antitrust-ftc-complaint)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Amazon reportedly used a secret algorithm to jack up prices](https://www.theverge.com/2023/10/3/23901840/amazon-project-nessie-algorithm-antitrust-ftc-complaint)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

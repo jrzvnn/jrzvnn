@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - 😝 [Polished data for any profession\u2026](http://9gag.com/gag/aBdbqAZ)
- - 💣 [We dont control the media](http://9gag.com/gag/aGEqKDw)
- - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
- - 👉 [A proud padre](http://9gag.com/gag/avQBbEq)<!-- MEMES:END -->
+ - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---
 

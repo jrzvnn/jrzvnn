@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Michael Lewis&#39; new book Going Infinite depicts Sam Bankman-Fried as delusional and criticizes FTX CEO John Ray III&#39;s handling of the exchange&#39;s bankruptcy &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/231003/p4#a231003p4)
  - [A preview of the Sam Bankman-Fried trial, which begins Tuesday with jury selection, the seven charges, key witnesses, the likely legal strategies, and more &lpar;Molly White&rpar;](http://www.techmeme.com/231003/p3#a231003p3)
- - [Cape Town-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raised a $25M Series A extension led by Ribbit &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231003/p2#a231003p2)
- - [This Website Exposes the Truth About Soaring Food Prices](https://www.wired.com/story/heisse-preise-food-prices/)
- - [The ‘Green’ Future of Furniture Is a Sofa Stuffed With Seaweed](https://www.wired.com/story/agoprene-seaweed-furniture-stuffing/)<!-- TECH:END -->
+ - [TikTok is testing an ad-free monthly subscription plan &lpar;Update: Confirmation&rpar;](https://www.androidauthority.com/tiktok-testing-ad-free-monthly-subscription-plan-3370353/)
+ - [The Tensor G3 could be a surprisingly big upgrade for the Pixel 8](https://www.androidauthority.com/google-tensor-g3-specs-leak-3369648/)
+ - [Cape Town-based Stitch, which enables businesses to build, optimize, and scale financial products using its APIs, raised a $25M Series A extension led by Ribbit &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231003/p2#a231003p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

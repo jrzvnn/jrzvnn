@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 👉 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)<!-- MEMES:END -->
+ - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 😝 [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
+ - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
+ - 👉 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)<!-- MEMES:END -->
 
 ---
 

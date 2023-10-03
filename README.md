@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 😝 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
+ - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
+ - 😝 [She does not want to be a Mother to her three kids anymore because her new boyfriend doesn&#39;t want kids](http://9gag.com/gag/aWGeK72)
  - 💣 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
  - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
 
 ---

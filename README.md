@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you in horny jail? post the pics](http://9gag.com/gag/ajV3oop)
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 💣 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 😝 [Cmon man, can u pls don&#39;t](http://9gag.com/gag/a2KVEbd)
  - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 💣 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 👉 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)<!-- MEMES:END -->
 
 ---
 

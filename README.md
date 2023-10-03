@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy devices are about to become a cloud gaming machines soon](https://www.androidauthority.com/samsung-cloud-gaming-service-3371130/)
+ - [In a memo to staff, Campbell Brown, Meta&#39;s head of global media partnerships, says she&#39;s stepping down from the role in the fall as Meta backs away from news &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/231003/p17#a231003p17)
  - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)
  - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)
- - [Google is making it harder for bulk senders to fill your Gmail with spam](https://www.theverge.com/2023/10/3/23901104/google-gmail-email-spam-security-authentication-update)
- - [Microsoft CTO Kevin Scott on how AI and art will coexist in the future](https://www.theverge.com/23900198/microsoft-kevin-scott-ai-art-bing-google-nvidia-decoder-interview)
- - [It’s been a good year for streaming whodunits](https://www.theverge.com/2023/10/3/23895847/streaming-mystery-2023-poker-face-afterparty-only-murders)<!-- TECH:END -->
+ - [Google is making it harder for bulk senders to fill your Gmail with spam](https://www.theverge.com/2023/10/3/23901104/google-gmail-email-spam-security-authentication-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

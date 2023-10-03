@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
- - 😝 [Woah MAMA !!!!](http://9gag.com/gag/aME0RpA)
- - 💣 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
- - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 👉 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)<!-- MEMES:END -->
+ - 😝 [Some idiots need to be removed permanently from driving](http://9gag.com/gag/agobrxw)
+ - 😝 [Yeah, Trump might win again](http://9gag.com/gag/aA0LWw2)
+ - 💣 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [Strep Throat Disease](http://9gag.com/gag/aoKGXge)
+ - 👉 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)<!-- MEMES:END -->
 
 ---
 

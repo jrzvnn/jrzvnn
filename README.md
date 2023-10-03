@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 💣 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)<!-- MEMES:END -->
+ - 😝 [So cool!](http://9gag.com/gag/a8q9ddY)
+ - 😝 [We dont control the media](http://9gag.com/gag/aGEqKDw)
+ - 💣 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
+ - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 👉 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)<!-- MEMES:END -->
 
 ---
 

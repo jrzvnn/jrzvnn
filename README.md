@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pluto TV pits human curation against streaming algorithms in new ad campaign](https://www.theverge.com/2023/10/3/23901176/pluto-tv-human-curation-streaming-algorithms-fast)
+ - [LinkedIn unveils several new AI features powered by OpenAI including a LinkedIn Learning coach, and marketing, sales, and recruiting tools with AI assistance &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231003/p18#a231003p18)
  - [Galaxy devices are about to become a cloud gaming machines soon](https://www.androidauthority.com/samsung-cloud-gaming-service-3371130/)
  - [In a memo to staff, Campbell Brown, Meta&#39;s head of global media partnerships, says she&#39;s stepping down from the role in the fall as Meta backs away from news &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/231003/p17#a231003p17)
- - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)
- - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)
- - [Google is making it harder for bulk senders to fill your Gmail with spam](https://www.theverge.com/2023/10/3/23901104/google-gmail-email-spam-security-authentication-update)<!-- TECH:END -->
+ - [How to use Check In to share location in Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-check-in-to-share-location-in-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

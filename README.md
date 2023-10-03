@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Title](http://9gag.com/gag/aVb9nWM)
- - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
+ - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
+ - 💣 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)<!-- MEMES:END -->
 
 ---
 

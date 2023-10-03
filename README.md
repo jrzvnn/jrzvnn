@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: Anthropic is in talks to raise at least $2B from Google and others, seeking a $20B-$30B valuation, and projects a revenue of $200M by the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231003/p36#a231003p36)
+ - [Verizon bundles Netflix and NFL Plus Premium for $25/month](https://www.theverge.com/2023/10/3/23902112/verizon-netflix-nfl-plus-premium)
+ - [The entire story of Twitter / X under Elon Musk](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
  - [X has to pay $1.1 million in legal fees for ex-Twitter execs](https://www.theverge.com/2023/10/3/23902271/x-corp-must-pay-legal-fees-ex-twitter-executives)
- - [MrBeast asks whether social media platforms are &quot;ready to handle the rise of AI deepfakes&quot; after a deepfake scam TikTok ad, since deleted, used his likeness &lpar;Kalhan Rosenblatt/NBC News&rpar;](http://www.techmeme.com/231003/p35#a231003p35)
- - [Code in the latest build of the Spotify app suggests the company is working on AI-generated playlists based on users&#39; prompts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231003/p34#a231003p34)
- - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)<!-- TECH:END -->
+ - [MrBeast asks whether social media platforms are &quot;ready to handle the rise of AI deepfakes&quot; after a deepfake scam TikTok ad, since deleted, used his likeness &lpar;Kalhan Rosenblatt/NBC News&rpar;](http://www.techmeme.com/231003/p35#a231003p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

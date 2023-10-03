@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
- - 💣 [A proud padre](http://9gag.com/gag/avQBbEq)
- - 😝 [So cool!](http://9gag.com/gag/a8q9ddY)
- - 👉 [We dont control the media](http://9gag.com/gag/aGEqKDw)<!-- MEMES:END -->
+ - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
+ - 😝 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 💣 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
+ - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
+ - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
 
 ---
 

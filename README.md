@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
  - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 💣 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
+ - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
+ - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)<!-- MEMES:END -->
 
 ---
 

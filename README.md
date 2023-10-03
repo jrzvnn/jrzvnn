@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [YouTube prankster shot by delivery driver.](http://9gag.com/gag/abvLPMO)
  - 😝 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
- - 😝 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
- - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
+ - 💣 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---
 

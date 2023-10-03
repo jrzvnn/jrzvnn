@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s head of news relations, Campbell Brown, has stepped down](https://www.theverge.com/2023/10/3/23901489/meta-campbell-brown-leaving-meta-facebook-news)
  - [Researchers say it is easy to &quot;wash out&quot; watermarks on AI images, which makes it less likely that online services could reliably flag AI-generated content &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231003/p19#a231003p19)
  - [Watch Mean Girls for free today in the worst possible way](https://www.androidauthority.com/mean-girls-tiktok-3371182/)
  - [Catch the first price drop on Jabra’s most advanced earbuds ever](https://www.androidauthority.com/jabra-elite-10-deal-3371189/)
- - [Florida men win Overwatch League Grand Finals](https://www.theverge.com/2023/10/3/23899798/overwatch-league-grand-finals-2023-results-overview)
- - [Jony Ive invests in blender company](https://www.theverge.com/2023/10/3/23901470/jony-ive-cruz-blendercap-investment-portable-bottle-blender)<!-- TECH:END -->
+ - [Florida men win Overwatch League Grand Finals](https://www.theverge.com/2023/10/3/23899798/overwatch-league-grand-finals-2023-results-overview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

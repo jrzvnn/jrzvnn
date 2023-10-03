@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Is the Samsung Galaxy S23FE hot or not?](https://www.androidauthority.com/samsung-galaxy-s23fe-hot-or-not-3371394/)
  - [Samsung Galaxy S23 FE vs Galaxy S23: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-fe-vs-galaxy-s23-3371217/)
  - [Samsung Galaxy S21 FE vs Samsung Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-fe-vs-galaxy-s23-fe-3369753/)
  - [Samsung Galaxy Tab S9 FE: Specs, pricing, features, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)
- - [Galaxy S23 FE hands-on: First impressions of Samsung’s cheaper S23](https://www.androidauthority.com/samsung-galaxy-s23-fe-hands-on-3370454/)
- - [The new Samsung Galaxy Buds FE bring the ANC experience to more users](https://www.androidauthority.com/samsung-galaxy-buds-fe-launch-3370833/)<!-- TECH:END -->
+ - [Galaxy S23 FE hands-on: First impressions of Samsung’s cheaper S23](https://www.androidauthority.com/samsung-galaxy-s23-fe-hands-on-3370454/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

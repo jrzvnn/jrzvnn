@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 💣 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 😝 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 👉 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)<!-- MEMES:END -->
+ - 😝 [What did Mj do to the kid?](http://9gag.com/gag/aPgVOoq)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/aBdM9YD)
+ - 💣 [A proud padre](http://9gag.com/gag/avQBbEq)
+ - 😝 [So cool!](http://9gag.com/gag/a8q9ddY)
+ - 👉 [We dont control the media](http://9gag.com/gag/aGEqKDw)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live Blog: The Trial of FTX Founder Sam Bankman-Fried](https://www.wired.com/live/sam-bankman-fried-ftx-trial-live-blog/)
- - [An interview with Airbnb CEO Brian Chesky on affordable prices, reliability, proper customer support, using AI for quality control, a loyalty program, and more &lpar;Nikki Ekstein/Bloomberg&rpar;](http://www.techmeme.com/231003/p10#a231003p10)
- - [Apple&#39;s carbon-neutral product claims called a &#39;climate-wash&#39;](https://appleinsider.com/articles/23/10/03/apples-carbon-neutral-product-claims-deemed-a-climate-wash?utm_medium=rss)
- - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/23/10/03/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_medium=rss)
- - [Pretty Soon, Your VR Headset Will Know Exactly What Your Bedroom Looks Like](https://www.wired.com/story/virtual-reality-meta-wearables-privacy/)<!-- TECH:END -->
+ - [The FCC fines Dish Network $150,000 for failing to move its old EchoStar-7 satellite far enough away from others in use, the FCC&#39;s first space junk fine &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/231003/p11#a231003p11)
+ - [Goal Zero’s modular Yeti Pro 4000 can scale from vanlife power to home backup](https://www.theverge.com/2023/10/3/23901108/goal-zero-solar-generator-home-backup-van-alternator-price)
+ - [Surface Laptop Studio 2 review: this could be so much more](https://www.theverge.com/23900932/microsoft-surface-laptop-studio-2-2023-intel-review)
+ - [Fortnite is introducing age ratings for all of its Creative experiences](https://www.theverge.com/2023/10/3/23899988/fortnite-creative-age-ratings)
+ - [How to use the new Copilot AI in Windows 11](https://www.theverge.com/23899626/copilot-windows-11-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

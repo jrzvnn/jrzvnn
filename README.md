@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Open: all the news and rumors about the company’s first foldable](https://www.theverge.com/2023/10/3/23901313/oneplus-open-foldable-leaks-news-rumors-oppo)
+ - [Naughty Dog is reportedly the latest studio to cut developer jobs](https://www.theverge.com/2023/10/3/23901251/naughty-dog-layoffs-developers-last-of-us-multiplayer)
  - [Here is your Google Pixel 8 launch event bingo card!](https://www.androidauthority.com/google-pixel-8-launch-event-bingo-3369903/)
- - [Tenuto Mini Review: Set and Forget Vibrator &lpar;Sort Of&rpar;](https://www.wired.com/review/tenuto-mini/)
- - [SteelSeries Alias Pro Review: A Newbie-Friendly XLR Microphone and Interface](https://www.wired.com/review/steelseries-alias-pro/)
- - [SteelSeries enters the gaming microphone market with Alias](https://www.theverge.com/2023/10/3/23901090/steelseries-alias-microphone-release-date-price)
- - [1,000 photos later, and the iPhone 15 Pro Max is still missing something](https://www.theverge.com/23899983/iphone-15-pro-max-camera-apple-full-frame)<!-- TECH:END -->
+ - [MysteryVibe Tenuto Mini Review: Set and Forget Vibrator &lpar;Sort Of&rpar;](https://www.wired.com/review/tenuto-mini/)
+ - [SteelSeries Alias Pro Review: A Newbie-Friendly XLR Microphone and Interface](https://www.wired.com/review/steelseries-alias-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 💣 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
- - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
- - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
+ - 😝 [How Portugal deals with eco-trolls](http://9gag.com/gag/aBdMRyz)
+ - 😝 [He held on for dear life](http://9gag.com/gag/aA07Yp2)
+ - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)<!-- MEMES:END -->
 
 ---
 

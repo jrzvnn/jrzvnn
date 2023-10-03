@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, Amazon face Australian big tech influence probe](https://appleinsider.com/articles/23/10/03/apple-google-amazon-face-australian-big-tech-influence-probe?utm_medium=rss)
- - [Apple starts requiring a Chinese government license to publish new apps on the China App Store, after China tightened its oversight over mobile apps in August &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231003/p7#a231003p7)
- - [Patrick Stewart Boldly Explores His Own Final Frontier](https://www.wired.com/story/patrick-stewart-memoir/)
- - [AI Watermarks Are No Match for Attackers](https://www.wired.com/story/artificial-intelligence-watermarking-issues/)
- - [Your Internet Browser Does Not Belong to You](https://www.wired.com/story/browser-online-search-surveillance-psychology/)<!-- TECH:END -->
+ - [Meta explores ad-free subscription option for Instagram and Facebook](https://www.androidauthority.com/meta-ad-free-subscription-instagram-facebook-3370961/)
+ - [Stampli, which uses AI to automate the processing of invoices and help businesses pay vendors, raised $61M, bringing its total funding to $148M+ &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/231003/p8#a231003p8)
+ - [Voice Actors Are Bracing to Compete With Talking AI](https://www.wired.com/story/ai-voice-actors-jobs-threat/)
+ - [AI Algorithms Are Biased Against Skin With Yellow Hues](https://www.wired.com/story/ai-algorithms-are-biased-against-skin-with-yellow-hues/)
+ - [Slovakia’s Election Deepfakes Show AI Is a Danger to Democracy](https://www.wired.com/story/slovakias-election-deepfakes-show-ai-is-a-danger-to-democracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

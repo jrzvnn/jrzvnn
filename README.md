@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)
- - 😝 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
- - 💣 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
- - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
+ - 😝 [Physics.](http://9gag.com/gag/anz0Ajb)
+ - 😝 [North Korea Football \u26bd\ufe0f](http://9gag.com/gag/axoeXML)
+ - 💣 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
+ - 😝 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
  - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
 
 ---

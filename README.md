@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 3: $750 off 16&quot; MacBook Pro, iPad 9th Generation $269, 22% off Kindle Scribe, more](https://appleinsider.com/articles/23/10/03/daily-deals-oct-3-750-off-16-macbook-pro-ipad-9th-generation-269-22-off-kindle-scribe-more?utm_medium=rss)
+ - [Microsoft Surface Laptop Studio 2 review: nice build with a 120Hz display, adaptive touchpad, and a unique hinge but short battery life and expensive at $2000 &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231003/p13#a231003p13)
  - [Cruise says a hit-and-run ‘launched’ pedestrian in front of one of its robotaxis](https://www.theverge.com/2023/10/3/23901233/cruise-crash-hit-run-pedestrian-injury-sf-robotaxi)
  - [Wattpad replaces its Paid Stories paywall with Wattpad Originals, a freemium tier that lets readers buy chapters with coins or through Premium+ for $7.49/month &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/231003/p12#a231003p12)
- - [The Kindle Scribe and latest Kindle Kids have both fallen to an all-time low](https://www.theverge.com/2023/10/3/23899854/amazon-kindle-scribe-kids-smart-plug-jbl-tour-2-earbuds-deal-sale)
- - [Microsoft makes the Windows 11 setup process less boring with an entertaining Easter egg](https://www.theverge.com/2023/10/3/23901130/microsoft-game-windows-11-setup-surface-laptops-skifree)
- - [New Apple Watch study to look at child arrhythmia and irregular heart beats](https://appleinsider.com/articles/23/10/03/new-apple-watch-study-to-look-at-child-arrhythmia-and-irregular-heart-beats?utm_medium=rss)<!-- TECH:END -->
+ - [The Kindle Scribe and latest Kindle Kids have both fallen to an all-time low](https://www.theverge.com/2023/10/3/23899854/amazon-kindle-scribe-kids-smart-plug-jbl-tour-2-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

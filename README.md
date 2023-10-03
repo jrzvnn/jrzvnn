@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic is in talks to raise at least $2B from Google and others, seeking a $20B-$30B valuation, and projects a revenue of $200M by the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/231003/p36#a231003p36)
  - [X has to pay $1.1 million in legal fees for ex-Twitter execs](https://www.theverge.com/2023/10/3/23902271/x-corp-must-pay-legal-fees-ex-twitter-executives)
  - [MrBeast asks whether social media platforms are &quot;ready to handle the rise of AI deepfakes&quot; after a deepfake scam TikTok ad, since deleted, used his likeness &lpar;Kalhan Rosenblatt/NBC News&rpar;](http://www.techmeme.com/231003/p35#a231003p35)
  - [Code in the latest build of the Spotify app suggests the company is working on AI-generated playlists based on users&#39; prompts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231003/p34#a231003p34)
- - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)
- - [A US judge rules X violated its duties to cover employee legal expenses and must pay $1.1M in fees to Parag Agrawal, Vijaya Gadde, and other former executives &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/231003/p33#a231003p33)<!-- TECH:END -->
+ - [Developers take note: Apple Silicon is required to develop apps for visionOS](https://appleinsider.com/articles/23/10/03/developers-take-note-apple-silicon-is-required-to-develop-apps-for-visionos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

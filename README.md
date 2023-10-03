@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)
+ - [Apple issues second iOS 17.1, iPadOS 17.1 developer betas](https://appleinsider.com/articles/23/10/03/apple-issues-second-ios-171-ipados-171-developer-betas?utm_medium=rss)
  - [Netflix could raise prices again as soon as the actors strike ends](https://www.androidauthority.com/netflix-could-raise-prices-3371214/)
  - [In a letter to TikTok, Sen. Blackburn and Sen. Blumenthal ask about executives who moved from ByteDance to TikTok in the US despite its supposed independence &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/231003/p21#a231003p21)
- - [The wholesome, feel-good true crime of Hit Man](https://www.theverge.com/23901532/hit-man-review-nyff-richard-linklater-glen-powell)
- - [This $110 Amazon Fire TV deal is an early Prime Day 2 gem](https://www.androidauthority.com/amazon-fire-2-series-tv-deal-3371225/)
- - [macOS Sonoma 14.1 developer beta 2 is out now](https://appleinsider.com/articles/23/10/03/macos-sonoma-141-developer-beta-2-is-out-now?utm_medium=rss)<!-- TECH:END -->
+ - [The wholesome, feel-good true crime of Hit Man](https://www.theverge.com/23901532/hit-man-review-nyff-richard-linklater-glen-powell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

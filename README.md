@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early deals from Amazon’s October Prime Day event](https://www.theverge.com/23901327/amazon-october-prime-day-best-early-deals-tech-echo-speakers-fire-tvs-2023)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 4&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-04-2023-3371036/)
  - [Canva unveils AI tools to automate labor-intensive design tasks, and will pay out $200M over three years to designers for using their work to train AI models &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231004/p12#a231004p12)
  - [Google Pixel 8 launch event: all the news](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup)
- - [Memo: Qualtrics plans to cut about 14% of its workforce, or 780 employees, citing a need to address the &quot;complexity&quot; created by its past hiring and growth &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231004/p11#a231004p11)
- - [Uber will return your packages for you — for a fee, of course](https://www.theverge.com/2023/10/4/23902806/uber-connect-package-return-delivery-fee)
- - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)<!-- TECH:END -->
+ - [Memo: Qualtrics plans to cut about 14% of its workforce, or 780 employees, citing a need to address the &quot;complexity&quot; created by its past hiring and growth &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231004/p11#a231004p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

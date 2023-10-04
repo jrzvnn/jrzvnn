@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)
+ - [Apple&#39;s educational outreach fostering Hispanic leadership in Houston](https://appleinsider.com/articles/23/10/04/apples-educational-outreach-fostering-hispanic-leadership-in-houston?utm_medium=rss)
+ - [Amazon&#39;s Fall Prime Day starts October 10, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)
  - [Brothers behind massive Apple counterfeiting scam are jailed](https://appleinsider.com/articles/23/10/04/brothers-behind-massive-apple-counterfeiting-scam-are-jailed?utm_medium=rss)
- - [Toronto-based Clearco, which uses AI and ML to underwrite businesses and help customers fund inventory, raised a $60M Series D led by Inovia and Founders Circle &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231004/p13#a231004p13)
- - [Daily deals Oct. 4: $100 off iPad mini, 30% off Echo Buds, Apple Watch Series 8 for $225, more](https://appleinsider.com/articles/23/10/04/daily-deals-oct-4-100-off-ipad-mini-30-off-echo-buds-apple-watch-series-8-for-225-more?utm_medium=rss)
- - [The best early deals from Amazon’s October Prime Day event](https://www.theverge.com/23901327/amazon-october-prime-day-best-early-deals-tech-echo-speakers-fire-tvs-2023)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 4&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-04-2023-3371036/)<!-- TECH:END -->
+ - [Toronto-based Clearco, which uses AI and ML to underwrite businesses and help customers fund inventory, raised a $60M Series D led by Inovia and Founders Circle &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231004/p13#a231004p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

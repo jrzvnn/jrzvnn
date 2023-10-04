@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He held on for dear life](http://9gag.com/gag/aA07Yp2)
- - 😝 [Strong and Independent Women](http://9gag.com/gag/a4o89K1)
- - 💣 [I don&#39;t look like Austin Powers](http://9gag.com/gag/aDYL0G9)
- - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
- - 👉 [Understandable, have a nice day](http://9gag.com/gag/a4o8K31)<!-- MEMES:END -->
+ - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
 
 ---
 

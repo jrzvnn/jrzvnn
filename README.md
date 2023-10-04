@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)
+ - [Livestream of the Made by Google 2023 event &lpar;Made by Google on YouTube&rpar;](http://www.techmeme.com/231004/p15#a231004p15)
  - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)
  - [Apple&#39;s educational outreach fostering Hispanic leadership in Houston](https://appleinsider.com/articles/23/10/04/apples-educational-outreach-fostering-hispanic-leadership-in-houston?utm_medium=rss)
- - [Amazon&#39;s Fall Prime Day starts October 10, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)
- - [Brothers behind massive Apple counterfeiting scam are jailed](https://appleinsider.com/articles/23/10/04/brothers-behind-massive-apple-counterfeiting-scam-are-jailed?utm_medium=rss)
- - [Toronto-based Clearco, which uses AI and ML to underwrite businesses and help customers fund inventory, raised a $60M Series D led by Inovia and Founders Circle &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231004/p13#a231004p13)<!-- TECH:END -->
+ - [Amazon&#39;s Fall Prime Day starts October 10, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

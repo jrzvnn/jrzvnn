@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
  - 😝 [Polite man](http://9gag.com/gag/az2zb2N)
  - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
  - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 👉 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)<!-- MEMES:END -->
+ - 👉 [How about you just don&#39;t steal stuff ,criminal?](http://9gag.com/gag/a9qedm0)<!-- MEMES:END -->
 
 ---
 

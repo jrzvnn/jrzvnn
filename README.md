@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 😝 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 😝 [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
+ - 😝 [I might be late to the party but i finally have a gaming pc.](http://9gag.com/gag/aXnzEv6)
+ - 💣 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)
+ - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
+ - 👉 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)<!-- MEMES:END -->
 
 ---
 

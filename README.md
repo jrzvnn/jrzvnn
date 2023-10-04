@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - 💣 [Physics.](http://9gag.com/gag/anz0Ajb)
  - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 💣 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
+ - 👉 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 17.0.3, which &quot;addresses an issue that may cause iPhone to run warmer than expected&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231004/p34#a231004p34)
+ - [Canva&#39;s New AI Design Tools Aim to Help You Create and Edit Like a Pro     - CNET](https://www.cnet.com/tech/services-and-software/canvas-new-ai-design-tools-aim-to-help-you-create-and-edit-like-a-pro/#ftag=CAD590a51e)
  - [Apple releases iOS 17.0.3 &amp; iPadOS 17.0.3 with overheating fixes](https://appleinsider.com/articles/23/10/04/apple-releases-ios-1703-ipados-1703-with-overheating-fixes?utm_medium=rss)
  - [Every phone, TV, and radio in the US will get an emergency alert today — here’s how](https://www.theverge.com/2023/10/4/23903175/fema-fcc-national-emergency-alert-simultaneous-protocol-ipaws-wea-ems-phone-tv-radio)
- - [Ahsoka’s finale gets by on magic and mythology](https://www.theverge.com/23902876/ahsoka-finale-review-star-wars-disney-plus)
- - [Former Ubisoft executives arrested after sexual harassment investigation](https://www.theverge.com/2023/10/4/23901575/ubisoft-executives-arrest-sexual-harassment-investigation)
- - [The Pixel 8 Pro runs Google’s generative AI models: Here’s what that means](https://www.androidauthority.com/pixel-8-pro-foundation-generative-ai-models-3371837/)<!-- TECH:END -->
+ - [Watch Champions League Soccer: Livestream RB Leipzig vs. Manchester City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-rb-leipzig-vs-manchester-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

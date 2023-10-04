@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
- - 😝 [I might be late to the party but i finally have a gaming pc.](http://9gag.com/gag/aXnzEv6)
- - 💣 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)
- - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
- - 👉 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)<!-- MEMES:END -->
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 👉 [Polite man](http://9gag.com/gag/az2zb2N)<!-- MEMES:END -->
 
 ---
 

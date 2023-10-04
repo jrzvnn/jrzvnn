@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 launch event: all the news](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Artifact will let you generate images with AI for your posts](https://www.theverge.com/2023/10/4/23903578/artifact-generative-ai-meta-instagram)
  - [The cheapest countries to buy a Pixel 8](https://www.androidauthority.com/cheapest-place-to-buy-pixel-8-3371323/)
- - [Diablo IV is coming to Steam](https://www.theverge.com/2023/10/4/23903707/diablo-4-pc-steam-release-date)
- - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)<!-- TECH:END -->
+ - [28 Best Kitchen Gifts for a Home Cook in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-a-food-or-chef/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

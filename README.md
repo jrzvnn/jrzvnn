@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber expands Uber Connect with a &quot;return a package&quot; feature, allowing customers to send up to five packages for a $5 fee to UPS, FedEx, or USPS locations &lpar;Melina Khan/CNBC&rpar;](http://www.techmeme.com/231004/p10#a231004p10)
+ - [AI Chatbots Are Learning to Spout Authoritarian Propaganda](https://www.wired.com/story/chatbot-censorship-china-freedom-house/)
  - [AI bias tests gloss over a crucial aspect of skin color, Sony research claims](https://www.theverge.com/2023/10/4/23902728/ai-bias-skin-tone-hue-sony-research-artificial-intelligence-ethics)
  - [You can now add your PayPal credit card to Apple Wallet](https://appleinsider.com/articles/23/10/04/you-can-now-add-your-paypal-credit-card-to-apple-wallet?utm_medium=rss)
- - [What&#39;s new in iOS 17.1 beta 2: StandBy mode options, ringtones, &amp; more](https://appleinsider.com/articles/23/10/04/whats-new-in-ios-171-beta-2-standby-mode-options-ringtones-more?utm_medium=rss)
- - [Uber Will Save You a Trip to the Post Office With New Package-Return Feature     - CNET](https://www.cnet.com/tech/services-and-software/uber-will-save-you-a-trip-to-the-post-office-with-new-package-return-feature/#ftag=CAD590a51e)
- - [How to easily and quickly crop images in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-easily-and-quickly-crop-images-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [What&#39;s new in iOS 17.1 beta 2: StandBy mode options, ringtones, &amp; more](https://appleinsider.com/articles/23/10/04/whats-new-in-ios-171-beta-2-standby-mode-options-ringtones-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

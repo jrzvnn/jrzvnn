@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Microsoft CTO Kevin Scott on Bing&#39;s rivalry with Google, the race to acquire and develop high-end GPUs, open-source AI models, AI and art, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231004/p9#a231004p9)
- - [Meta’s new AI-generated stickers are lewd, rude, and occasionally nude](https://www.theverge.com/2023/10/4/23902721/meta-ai-generated-stickers-tool-facebook-instagram-inappropriate-content)
- - [Apple TV+ launches kids&#39; holiday season with &#39;The Velveteen Rabbit&#39;](https://appleinsider.com/articles/23/10/04/apple-tv-launches-kids-holiday-season-with-the-velveteen-rabbit?utm_medium=rss)
- - [Apple&#39;s meteoric rise is over, says KeyBanc](https://appleinsider.com/articles/23/10/04/apples-meteoric-rise-is-over-says-keybanc?utm_medium=rss)
- - [Emergency Alert Test: Heads Up for Today&#39;s Warning Message on Your Phone     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-test-heads-up-for-todays-warning-message-on-your-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to easily and quickly crop images in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-easily-and-quickly-crop-images-in-ios-17?utm_medium=rss)
+ - [September&#39;s Record-Shattering Heat Was ‘Absolutely Gobsmackingly Bananas’](https://www.wired.com/story/september-record-shattering-heat-climate-change/)
+ - [The Team Helping Women Fight Digital Domestic Abuse](https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/)
+ - [18 Best Early Prime Day Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-2/)
+ - [Hannah Diamond Has Cracked the Code of Using AI for Music](https://www.wired.com/story/hannah-diamond-has-cracked-the-code-ai-music/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

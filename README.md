@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Diablo IV is coming to Steam](https://www.theverge.com/2023/10/4/23903707/diablo-4-pc-steam-release-date)
  - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)
  - [Memo: Amazon is shutting down Amp, its live audio streaming app launched in March 2022 that let users act like DJs by playing music and talking alongside songs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231004/p37#a231004p37)
  - [Google’s latest statue has Bugdroid flipping for some upside-down cake](https://www.androidauthority.com/googles-latest-android-14-statue-3371902/)
- - [Google rolls out emoji reactions in Gmail for Android, coming to iOS and the web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)
- - [Counterfeit iPhone traffickers behind $6.1 million con at Apple Stores are going to prison](https://www.theverge.com/2023/10/4/23903202/counterfeit-iphone-ipad-traffickers-san-diego-sentenced-prison)<!-- TECH:END -->
+ - [Google rolls out emoji reactions in Gmail for Android, coming to iOS and the web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 💣 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
- - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
+ - 😝 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
+ - 😝 [Good finds a way](http://9gag.com/gag/a1Pnp62)
+ - 💣 [Today is my birthday, 41 years and almost 12 years on 9gag. Cheers my friends!](http://9gag.com/gag/aWGAQV6)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [He held on for dear life](http://9gag.com/gag/aA07Yp2)<!-- MEMES:END -->
 
 ---
 

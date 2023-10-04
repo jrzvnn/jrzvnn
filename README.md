@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
  - 😝 [Imagine having pride parade instead of this, imagine your whole city destroyed in a riot instead of, imagine women could not walk safely at night, your kids are minority at school and your street is filled with goat breeder worshipper, IMAGINE HATING YOUR OWN SKIN AND TRADITION](http://9gag.com/gag/a3ZDYV7)
- - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
- - 💣 [This one sparks joy](http://9gag.com/gag/arm0eXK)
- - 😝 [Oh no he didn&#39;t](http://9gag.com/gag/aA07V5g)
- - 👉 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)<!-- MEMES:END -->
+ - 💣 [Emanual?](http://9gag.com/gag/aOxOy72)
+ - 😝 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)
+ - 👉 [I might be late to the party but i finally have a gaming pc.](http://9gag.com/gag/aXnzEv6)<!-- MEMES:END -->
 
 ---
 

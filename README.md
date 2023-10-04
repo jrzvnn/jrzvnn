@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Android 14 with customizable lock screens, expanded passkey support, on-device health features, and more, starting with Pixel phones &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231004/p30#a231004p30)
- - [Google Pixel 8 launch event: the 7 biggest announcements](https://www.theverge.com/23902026/google-pixel-8-launch-event-biggest-announcements-watch-buds-pro)
- - [Google powers up the Fitbit app with generative AI features](https://www.androidauthority.com/fitbit-app-generative-ai-3371750/)
- - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2023](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2023?utm_medium=rss)
- - [French police arrest five ex-Ubisoft execs, including a chief creative officer and VP of editorial and creative services, after a year-long sexual assault probe &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/231004/p29#a231004p29)<!-- TECH:END -->
+ - [Google claims its latest smartphone makes the ‘enhance!’ meme a reality](https://www.theverge.com/2023/10/4/23903123/google-pixel-8-pro-zoom-enhance-artificial-intelligence-photography)
+ - [CSI just got real with the Pixel 8 Pro’s crazy Zoom Enhance feature](https://www.androidauthority.com/google-pixel-8-pro-zoom-enhance-3371785/)
+ - [A deep dive on the Pixel 8 lineup&#39;s camera improvements, like Video Boost that uses AI processing in Google&#39;s datacenters to dramatically improve image quality &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/231004/p31#a231004p31)
+ - [Google is launching a generative AI-enhanced version of Assistant](https://www.theverge.com/2023/10/4/23903101/google-assisant-with-bard-ai)
+ - [Google rolls out Android 14 with customizable lock screens, expanded passkey support, on-device health features, and more, starting with Pixel phones &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231004/p30#a231004p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

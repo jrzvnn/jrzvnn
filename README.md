@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
  - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
+ - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
 
 ---
 

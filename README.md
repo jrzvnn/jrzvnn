@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
  - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
 
 ---
 

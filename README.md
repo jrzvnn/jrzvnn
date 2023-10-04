@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last-minute Pixel 8 series leak dishes out pricing for all variants](https://www.androidauthority.com/google-pixel-8-series-pricing-leak-3371497/)
  - [Sony researchers: skin tone measures adopted by Google, Meta, and others for their image algorithms don&#39;t properly capture the red and yellow hues in human skin &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231004/p5#a231004p5)
  - [The best Samsung Galaxy S23 FE chargers you can get](https://www.androidauthority.com/best-samsung-galaxy-s23-fe-chargers-3370706/)
  - [Apple’s upcoming iOS 17 update could fix iPhone 15 Pro overheating issue](https://www.androidauthority.com/apples-ios-17-0-3-update-iphone-15-pro-overheating-3371482/)
- - [PE firm Vista, with another backer, acquires a majority stake in TRG Screen, which makes subscription spend management software; sources say for about $250M &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/231004/p4#a231004p4)
- - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)<!-- TECH:END -->
+ - [PE firm Vista, with another backer, acquires a majority stake in TRG Screen, which makes subscription spend management software; sources say for about $250M &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/231004/p4#a231004p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

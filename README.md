@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s meteoric rise is over, says KeyBanc](https://appleinsider.com/articles/23/10/04/apples-meteoric-rise-is-over-says-keybanc?utm_medium=rss)
  - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)
  - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
- - [Stockholm-based digital bank Brite Payments raised a $60M Series A led by Dawn Capital with Headline and Incore participating &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)
- - [You told us: You’re not sure about buying a watch that can’t be repaired](https://www.androidauthority.com/buy-smartwatch-repaired-poll-results-3371522/)
- - [TikTok plans to stop facilitating e-commerce transactions on TikTok Shop in Indonesia on October 4 to comply with the country&#39;s curbs on social commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/231004/p7#a231004p7)<!-- TECH:END -->
+ - [Stockholm-based Brite Payments, which offers open banking payments and payouts, raised a $60M Series A led by Dawn Capital; Headline and Incore invested as well &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)
+ - [You told us: You’re not sure about buying a watch that can’t be repaired](https://www.androidauthority.com/buy-smartwatch-repaired-poll-results-3371522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

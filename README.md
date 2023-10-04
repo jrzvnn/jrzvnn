@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yahoo announces that it&#39;s spinning off the business around Vespa, an open source tool powering the company&#39;s search and ad tech, into an independent venture &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231004/p16#a231004p16)
+ - [Apple TV Plus will stream free Charlie Brown classics for the holidays again](https://www.theverge.com/23902821/apple-tv-plus-charlie-brown-holiday-specials-free)
  - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)
  - [Livestream of the Made by Google 2023 event &lpar;Made by Google on YouTube&rpar;](http://www.techmeme.com/231004/p15#a231004p15)
- - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)
- - [Apple&#39;s educational outreach fostering Hispanic leadership in Houston](https://appleinsider.com/articles/23/10/04/apples-educational-outreach-fostering-hispanic-leadership-in-houston?utm_medium=rss)
- - [Amazon&#39;s Fall Prime Day starts October 10, but early deals knock up to $700 off Apple gear today](https://appleinsider.com/articles/23/10/02/amazons-october-prime-day-starts-in-1-week-but-early-deals-knock-up-to-700-off-apple-gear-today?utm_medium=rss)<!-- TECH:END -->
+ - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva unveils AI tools to automate labor-intensive design tasks, and will pay out $200M over three years to designers for using their work to train AI models &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231004/p12#a231004p12)
+ - [Google Pixel 8 launch event: all the news](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup)
+ - [Memo: Qualtrics plans to cut about 14% of its workforce, or 780 employees, citing a need to address the &quot;complexity&quot; created by its past hiring and growth &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231004/p11#a231004p11)
  - [Uber will return your packages for you — for a fee, of course](https://www.theverge.com/2023/10/4/23902806/uber-connect-package-return-delivery-fee)
- - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)
- - [Roku’s next update focuses on sports, live TV, and easier content discovery](https://www.theverge.com/2023/10/4/23902750/roku-os-12-5-update-sports-live-tv-google-photos)
- - [Uber expands Uber Connect with a &quot;return a package&quot; feature, allowing customers to send up to five packages for a $5 fee to UPS, FedEx, or USPS locations &lpar;Melina Khan/CNBC&rpar;](http://www.techmeme.com/231004/p10#a231004p10)
- - [Asus ExpertBook B9450 Review: Outdated Display, CPU Diminish Sleek Ultraportable     - CNET](https://www.cnet.com/tech/computing/asus-expertbook-b9450-review-outdated-display-cpu-diminish-sleek-ultraportable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

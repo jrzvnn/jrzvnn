@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 and Pixel 8 Pro hands-on: The w8 was worth it](https://www.androidauthority.com/google-pixel-8-hands-on-3371236/)
  - [Is Sam Bankman-Fried’s defense even trying to win?](https://www.theverge.com/2023/10/4/23903986/sam-bankman-fried-opening-statements-trial-fraud)
  - [Apple interested in College Football Playoff streaming rights for 2026 championship](https://appleinsider.com/articles/23/10/04/apple-interested-in-college-football-playoff-streaming-rights-for-2026-championship?utm_medium=rss)
  - [Google releases Gmail app for Wear OS](https://www.theverge.com/2023/10/4/23903765/google-gmail-app-wear-os-release)
- - [Amazon is quietly shuttering its live audio app Amp](https://www.theverge.com/2023/10/4/23903887/amazon-is-quietly-shuttering-its-live-audio-app-amp)
- - [iPhone 15 Pro Users: Fix Overheating Issues With Apple&#39;s Latest iOS 17 Update     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-users-fix-overheating-issues-with-apples-latest-ios-17-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is quietly shuttering its live audio app Amp](https://www.theverge.com/2023/10/4/23903887/amazon-is-quietly-shuttering-its-live-audio-app-amp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

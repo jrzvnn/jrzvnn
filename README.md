@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)
+ - [Memo: Amazon is shutting down Amp, its live audio streaming app launched in March 2022 that let users act like DJs by playing music and talking alongside songs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231004/p37#a231004p37)
  - [Google’s latest statue has Bugdroid flipping for some upside-down cake](https://www.androidauthority.com/googles-latest-android-14-statue-3371902/)
  - [Google rolls out emoji reactions in Gmail for Android, coming to iOS and the web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)
- - [Counterfeit iPhone traffickers behind $6.1 million con at Apple Stores are going to prison](https://www.theverge.com/2023/10/4/23903202/counterfeit-iphone-ipad-traffickers-san-diego-sentenced-prison)
- - [&#39;Five Nights at Freddy&#39;s&#39; Streaming on Peacock: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/five-nights-at-freddys-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
- - [Flu, COVID and RSV: Your Guide to What Vaccines You Need and When     - CNET](https://www.cnet.com/health/medical/flu-covid-and-rsv-your-guide-to-what-vaccines-you-need-and-when/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Counterfeit iPhone traffickers behind $6.1 million con at Apple Stores are going to prison](https://www.theverge.com/2023/10/4/23903202/counterfeit-iphone-ipad-traffickers-san-diego-sentenced-prison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

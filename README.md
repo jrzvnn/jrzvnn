@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s new AI-generated stickers are lewd, rude, and occasionally nude](https://www.theverge.com/2023/10/4/23902721/meta-ai-generated-stickers-tool-facebook-instagram-inappropriate-content)
+ - [Apple TV+ launches kids&#39; holiday season with &#39;The Velveteen Rabbit&#39;](https://appleinsider.com/articles/23/10/04/apple-tv-launches-kids-holiday-season-with-the-velveteen-rabbit?utm_medium=rss)
  - [Apple&#39;s meteoric rise is over, says KeyBanc](https://appleinsider.com/articles/23/10/04/apples-meteoric-rise-is-over-says-keybanc?utm_medium=rss)
  - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)
- - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
- - [Stockholm-based Brite Payments, which offers open banking payments and payouts, raised a $60M Series A led by Dawn Capital; Headline and Incore invested as well &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)
- - [You told us: You’re not sure about buying a watch that can’t be repaired](https://www.androidauthority.com/buy-smartwatch-repaired-poll-results-3371522/)<!-- TECH:END -->
+ - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

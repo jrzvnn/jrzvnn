@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out emoji reactions in Gmail, first on Android, then on iOS and web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)
+ - [Google rolls out emoji reactions in Gmail for Android, coming to iOS and the web &quot;over the next few months&quot;; non-Gmail users may get emoji reactions as an email &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231004/p36#a231004p36)
  - [Counterfeit iPhone traffickers behind $6.1 million con at Apple Stores are going to prison](https://www.theverge.com/2023/10/4/23903202/counterfeit-iphone-ipad-traffickers-san-diego-sentenced-prison)
  - [Here’s how Google’s new Pixel 8 phones stack up to the Pixel 7 lineup](https://www.theverge.com/23891201/google-pixel-8-vs-7-comparison-specs-price-features)
  - [Apple’s latest update claims to fix the iPhone 15 Pro’s overheating issue](https://www.androidauthority.com/apple-iphone-15-pro-overheating-fix-3371940/)

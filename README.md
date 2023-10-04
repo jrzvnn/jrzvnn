@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yahoo announces that it&#39;s spinning off the business around Vespa, an open source tool powering the company&#39;s search and ad tech, into an independent venture &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231004/p16#a231004p16)
- - [Apple TV Plus will stream free Charlie Brown classics for the holidays again](https://www.theverge.com/23902821/apple-tv-plus-charlie-brown-holiday-specials-free)
- - [Watch the Pixel 8 and Pixel Watch 2 launch live here](https://www.androidauthority.com/watch-google-pixel-8-pixel-watch-2-launch-live-3370176/)
- - [Livestream of the Made by Google 2023 event &lpar;Made by Google on YouTube&rpar;](http://www.techmeme.com/231004/p15#a231004p15)
- - [A live blog of the Made by Google 2023 event, where the Pixel 8, the Pixel 8 Pro, and the Pixel Watch 2 are expected &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/231004/p14#a231004p14)<!-- TECH:END -->
+ - [How TikTok Is Changing Stage Design](https://www.wired.com/story/stufish-tiktok-changing-stage-design/)
+ - [Google Pixel 8 and Pixel 8 Pro: Release date, price, colors, everything else!](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [The Pixel 8 has a 7-year update guarantee. That’s better than the iPhone!](https://www.androidauthority.com/google-pixel-8-series-7-years-updates-3369691/)
+ - [Google Pixel Watch 2 is here: Price, features, availability, colors, and more](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)
+ - [Pixel 8 series now has proper, secure Face Unlock for payments and more](https://www.androidauthority.com/google-pixel-8-face-unlock-3370970/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

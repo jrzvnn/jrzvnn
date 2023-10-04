@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [It&#39;s simple - We seriously need to close the borders into Europe...and I mean like now ...](http://9gag.com/gag/anz3YQE)
+ - 💣 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 👉 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)<!-- MEMES:END -->
 
 ---
 

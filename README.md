@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple interested in College Football Playoff streaming rights for 2026 championship](https://appleinsider.com/articles/23/10/04/apple-interested-in-college-football-playoff-streaming-rights-for-2026-championship?utm_medium=rss)
  - [Google releases Gmail app for Wear OS](https://www.theverge.com/2023/10/4/23903765/google-gmail-app-wear-os-release)
  - [Amazon is quietly shuttering its live audio app Amp](https://www.theverge.com/2023/10/4/23903887/amazon-is-quietly-shuttering-its-live-audio-app-amp)
  - [Amazon’s first Project Kuiper test satellites are headed to space on October 6th](https://www.theverge.com/2023/10/4/23903758/amazon-project-kuiper-test-satellites-space-launch)
- - [Sam Bankman-Fried Made Reasonable Business Decisions, Lawyers Claim](https://www.wired.com/story/ftx-trial-sam-bankman-fried-opening-arguments/)
- - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)<!-- TECH:END -->
+ - [Sam Bankman-Fried Made Reasonable Business Decisions, Lawyers Claim](https://www.wired.com/story/ftx-trial-sam-bankman-fried-opening-arguments/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

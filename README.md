@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the carriers that get you a Google Pixel 8 free](https://www.androidauthority.com/google-pixel-8-free-3370619/)
  - [Detective Pikachu Returns is a super effective story let down by dated visuals](https://www.theverge.com/23902541/detective-pikachu-returns-review-nintendo-switch)
  - [Apple TV+ welcomes &#39;The Buccaneers&#39; with first trailer](https://appleinsider.com/articles/23/10/04/apple-tv-welcomes-the-buccaneers-with-first-trailer?utm_medium=rss)
  - [The Pixel 8 Pro’s temperature sensor is as restricted as we expected](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-3370890/)
- - [Reminder: FEMA is ringing your phone with an emergency alert test today](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
- - [After closing its 3DS and Wii U eShops this year, Nintendo says it will shut down online services like multiplayer for those consoles in &quot;early April 2024&quot; &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/231004/p32#a231004p32)<!-- TECH:END -->
+ - [Reminder: FEMA is ringing your phone with an emergency alert test today](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

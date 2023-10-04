@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Meta’s new AI-generated stickers are lewd, rude, and occasionally nude](https://www.theverge.com/2023/10/4/23902721/meta-ai-generated-stickers-tool-facebook-instagram-inappropriate-content)
  - [Apple TV+ launches kids&#39; holiday season with &#39;The Velveteen Rabbit&#39;](https://appleinsider.com/articles/23/10/04/apple-tv-launches-kids-holiday-season-with-the-velveteen-rabbit?utm_medium=rss)
  - [Apple&#39;s meteoric rise is over, says KeyBanc](https://appleinsider.com/articles/23/10/04/apples-meteoric-rise-is-over-says-keybanc?utm_medium=rss)
- - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)<!-- TECH:END -->
+ - [Emergency Alert Test: Heads Up for Today&#39;s Warning Message on Your Phone     - CNET](https://www.cnet.com/tech/mobile/emergency-alert-test-heads-up-for-todays-warning-message-on-your-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

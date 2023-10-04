@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 💣 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
- - 😝 [Should Disney buy the franchise ?](http://9gag.com/gag/aBdMQ71)
- - 👉 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)<!-- MEMES:END -->
+ - 😝 [True Story Dinosaur Guys](http://9gag.com/gag/a3ZDv9r)
+ - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
  - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
+ - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm Vista, with another backer, acquires a majority stake in TRG Screen, which makes subscription spend management software; sources say for about $250M &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/231004/p4#a231004p4)
+ - [Nintendo’s Wii U and 3DS online services will shut down in April](https://www.theverge.com/2023/10/4/23902615/wii-u-nintendo-3ds-online-shut-down)
  - [Filing: the SEC asked a federal judge on October 3 to deny a Coinbase motion seeking the dismissal of SEC&#39;s lawsuit by citing a court ruling in Ripple&#39;s favor &lpar;Reuters&rpar;](http://www.techmeme.com/231004/p3#a231004p3)
  - [Don’t panic: All phones in the US will get an emergency alert today](https://www.androidauthority.com/fema-fcc-emergency-test-3360012/)
- - [The Browser Company updates Arc with GPT 3.5 and Anthropic features: Ask ChatGPT, Tidy Tab Titles, Tidy Downloads, Five-Second Previews, and Ask on Page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231004/p2#a231004p2)
- - [The European Commission starts collective risk assessments on advanced chips, AI, quantum, and biotech, the most sensitive areas for security and tech leakage &lpar;J&amp;aacute;nos Allenbach-Ammann/Euractiv&rpar;](http://www.techmeme.com/231004/p1#a231004p1)
- - [Ripple&#39;s Singapore arm secures a license as a major payment institution from the Monetary Authority of Singapore, after an in-principle approval in June 2023 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231003/p39#a231003p39)<!-- TECH:END -->
+ - [The Browser Company updates Arc with GPT 3.5 and Anthropic features: Ask ChatGPT, Tidy Tab Titles, Tidy Downloads, Five-Second Previews, and Ask on Page &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231004/p2#a231004p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

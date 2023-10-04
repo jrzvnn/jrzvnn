@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 👉 [Certainly my dragon is bigger](http://9gag.com/gag/aeQE3Lv)<!-- MEMES:END -->
+ - 😝 [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
+ - 😝 [His mum is a master crusher!](http://9gag.com/gag/aOxObZN)
+ - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
 
 ---
 

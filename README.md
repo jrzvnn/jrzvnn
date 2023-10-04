@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 💣 [Let the fight begin](http://9gag.com/gag/amAODgj)
  - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
 
 ---
 

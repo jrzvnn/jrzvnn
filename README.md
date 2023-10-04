@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one sparks joy](http://9gag.com/gag/arm0eXK)
- - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
- - 💣 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
- - 😝 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)
- - 👉 [I might be late to the party but i finally have a gaming pc.](http://9gag.com/gag/aXnzEv6)<!-- MEMES:END -->
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 💣 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
 
 ---
 

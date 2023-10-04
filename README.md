@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, dont run from the lord](http://9gag.com/gag/aREG6N2)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
+ - 😝 [This one sparks joy](http://9gag.com/gag/arm0eXK)
+ - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
+ - 💣 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
+ - 😝 [I mean, they confirm dinosaur have feather and is more closer to bird right? And trex is closer to chicken right?](http://9gag.com/gag/avQVZ1E)
+ - 👉 [I might be late to the party but i finally have a gaming pc.](http://9gag.com/gag/aXnzEv6)<!-- MEMES:END -->
 
 ---
 

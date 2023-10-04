@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
- - 😝 [Wait so actions can have consequences?](http://9gag.com/gag/a1PneLb)
- - 💣 [Maga shaman is free from prison](http://9gag.com/gag/anz3KOn)
- - 😝 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
- - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI bias tests gloss over a crucial aspect of skin color, Sony research claims](https://www.theverge.com/2023/10/4/23902728/ai-bias-skin-tone-hue-sony-research-artificial-intelligence-ethics)
  - [You can now add your PayPal credit card to Apple Wallet](https://appleinsider.com/articles/23/10/04/you-can-now-add-your-paypal-credit-card-to-apple-wallet?utm_medium=rss)
  - [What&#39;s new in iOS 17.1 beta 2: StandBy mode options, ringtones, &amp; more](https://appleinsider.com/articles/23/10/04/whats-new-in-ios-171-beta-2-standby-mode-options-ringtones-more?utm_medium=rss)
  - [How to easily and quickly crop images in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-easily-and-quickly-crop-images-in-ios-17?utm_medium=rss)
- - [September&#39;s Record-Shattering Heat Was ‘Absolutely Gobsmackingly Bananas’](https://www.wired.com/story/september-record-shattering-heat-climate-change/)
- - [The Team Helping Women Fight Digital Domestic Abuse](https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/)<!-- TECH:END -->
+ - [I really like the new Google Pixel camera UI, except for one infuriating change](https://www.androidauthority.com/new-google-pixel-camera-interface-3371153/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

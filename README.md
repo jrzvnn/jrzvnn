@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Microsoft CTO Kevin Scott on Bing&#39;s rivalry with Google, the race to acquire and develop high-end GPUs, open-source AI models, AI and art, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231004/p9#a231004p9)
  - [Meta’s new AI-generated stickers are lewd, rude, and occasionally nude](https://www.theverge.com/2023/10/4/23902721/meta-ai-generated-stickers-tool-facebook-instagram-inappropriate-content)
  - [Apple TV+ launches kids&#39; holiday season with &#39;The Velveteen Rabbit&#39;](https://appleinsider.com/articles/23/10/04/apple-tv-launches-kids-holiday-season-with-the-velveteen-rabbit?utm_medium=rss)
  - [Apple&#39;s meteoric rise is over, says KeyBanc](https://appleinsider.com/articles/23/10/04/apples-meteoric-rise-is-over-says-keybanc?utm_medium=rss)
- - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)
- - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)<!-- TECH:END -->
+ - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

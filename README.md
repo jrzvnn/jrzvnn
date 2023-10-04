@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook makes $41.5 million in his first Apple stock sale since 2021](https://appleinsider.com/articles/23/10/04/tim-cook-makes-415-million-in-his-first-apple-stock-sale-since-2021?utm_medium=rss)
- - [Where to preorder the Google Pixel Watch 2](https://www.theverge.com/23899852/google-pixel-watch-2-preorder-how-to-buy-price-release-date)
- - [Google&#39;s Pixel 8 series offers extended software support &amp; AI camera features](https://appleinsider.com/articles/23/10/04/googles-pixel-8-series-offers-extended-software-support-ai-camera-features?utm_medium=rss)
- - [Google announces the Pixel 8 with a 6.1-inch 120 Hz refresh rate display, better camera, Tensor G3 chip, a 50-megapixel wide camera, and more, starting at $699 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231004/p23#a231004p23)
- - [Google is bringing helpful generative AI features to your smart home](https://www.androidauthority.com/google-home-generative-ai-features-3371672/)<!-- TECH:END -->
+ - [Google Pixel 7 Pro vs Pixel 8 Pro: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-7-pro-vs-pixel-8-pro-3370959/)
+ - [Google Pixel Watch vs Pixel Watch 2: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-watch-vs-pixel-watch-2-3370704/)
+ - [Google promises seven years of OS and security updates for Pixel 8 and 8 Pro, up from five years of security updates and three years of OS updates previously &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231004/p24#a231004p24)
+ - [These are the macOS Sonoma features you should actually pay attention to](https://www.theverge.com/23900372/apple-macos-14-sonoma-review-mac-imac-macbook)
+ - [Google Pixel Watch 2 LTE vs Pixel Watch 2 Wi-Fi: What’s the difference?](https://www.androidauthority.com/google-pixel-watch-2-lte-vs-pixel-watch-2-wi-fi-3371202/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

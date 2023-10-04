@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing helpful generative AI features to your smart home](https://www.androidauthority.com/google-home-generative-ai-features-3371672/)
- - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
- - [Google announces Pixel 8 Pro with a 6.7-inch LTPO display, a 50MP main camera sensor and 48MP ultrawide and telephoto sensors, and more, starting at $999 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231004/p22#a231004p22)
- - [Hands-on with the Pixel Watch 2: very similar to the first generation, upgraded haptics, Snapdragon W5 chip performance is a leap ahead of Exynos 9110, and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231004/p21#a231004p21)
- - [Pixel Buds Pro gets two new colors and adds several new features](https://www.androidauthority.com/pixel-buds-pro-new-colors-3371673/)<!-- TECH:END -->
+ - [Tim Cook makes $41.5 million in his first Apple stock sale since 2021](https://appleinsider.com/articles/23/10/04/tim-cook-makes-415-million-in-his-first-apple-stock-sale-since-2021?utm_medium=rss)
+ - [Where to preorder the Google Pixel Watch 2](https://www.theverge.com/23899852/google-pixel-watch-2-preorder-how-to-buy-price-release-date)
+ - [Google&#39;s Pixel 8 series offers extended software support &amp; AI camera features](https://appleinsider.com/articles/23/10/04/googles-pixel-8-series-offers-extended-software-support-ai-camera-features?utm_medium=rss)
+ - [Google announces the Pixel 8 with a 6.1-inch 120 Hz refresh rate display, better camera, Tensor G3 chip, a 50-megapixel wide camera, and more, starting at $699 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231004/p23#a231004p23)
+ - [Google is bringing helpful generative AI features to your smart home](https://www.androidauthority.com/google-home-generative-ai-features-3371672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
+ - 😝 [Today is my birthday, 41 years and almost 12 years on 9gag. Cheers my friends!](http://9gag.com/gag/aWGAQV6)
  - 😝 [Good finds a way](http://9gag.com/gag/a1Pnp62)
- - 💣 [Today is my birthday, 41 years and almost 12 years on 9gag. Cheers my friends!](http://9gag.com/gag/aWGAQV6)
- - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 👉 [He held on for dear life](http://9gag.com/gag/aA07Yp2)<!-- MEMES:END -->
+ - 💣 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 😝 [He held on for dear life](http://9gag.com/gag/aA07Yp2)
+ - 👉 [I don&#39;t look like Austin Powers](http://9gag.com/gag/aDYL0G9)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good finds a way](http://9gag.com/gag/a1Pnp62)
- - 😝 [Strong and Independent Women](http://9gag.com/gag/a4o89K1)
- - 💣 [He held on for dear life](http://9gag.com/gag/aA07Yp2)
- - 😝 [I don&#39;t look like Austin Powers](http://9gag.com/gag/aDYL0G9)
- - 👉 [Understandable, have a nice day](http://9gag.com/gag/a4o8K31)<!-- MEMES:END -->
+ - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 👉 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)<!-- MEMES:END -->
 
 ---
 

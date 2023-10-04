@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - 💣 [It&#39;s simple - We seriously need to close the borders into Europe...and I mean like now ...](http://9gag.com/gag/anz3YQE)
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 😝 [Emanual?](http://9gag.com/gag/aOxOy72)
+ - 😝 [Wait so actions can have consequences?](http://9gag.com/gag/a1PneLb)
+ - 💣 [Maga shaman is free from prison](http://9gag.com/gag/anz3KOn)
+ - 😝 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
  - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 ---

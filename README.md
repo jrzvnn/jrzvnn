@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)
- - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 💣 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
+ - 😝 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
+ - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
+ - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 😝 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)
+ - 👉 [Wait, that&#39;s freed Britney??](http://9gag.com/gag/aBdbqdN)<!-- MEMES:END -->
 
 ---
 

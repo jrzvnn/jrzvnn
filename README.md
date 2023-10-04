@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases Gmail app for Wear OS](https://www.theverge.com/2023/10/4/23903765/google-gmail-app-wear-os-release)
+ - [Amazon is quietly shuttering its live audio app Amp](https://www.theverge.com/2023/10/4/23903887/amazon-is-quietly-shuttering-its-live-audio-app-amp)
  - [Amazon’s first Project Kuiper test satellites are headed to space on October 6th](https://www.theverge.com/2023/10/4/23903758/amazon-project-kuiper-test-satellites-space-launch)
  - [Sam Bankman-Fried Made Reasonable Business Decisions, Lawyers Claim](https://www.wired.com/story/ftx-trial-sam-bankman-fried-opening-arguments/)
- - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)
- - [Samsung Galaxy Tab S9 FE vs Galaxy Tab S9: Which Android tablet should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-vs-galaxy-tab-s9-3370308/)
- - [X starts removing preview headlines from posts with article links, showing only the lead image and domain name; Elon Musk mentioned the change in August 2023 &lpar;Natalie Korach/The Wrap&rpar;](http://www.techmeme.com/231004/p38#a231004p38)<!-- TECH:END -->
+ - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

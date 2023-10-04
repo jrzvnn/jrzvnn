@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge rejects the SEC&#39;s motion to file an interlocutory appeal against the Ripple ruling and sets an April 2024 trial date for resolution of other issues &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/231003/p38#a231003p38)
  - [Samsung announces the 6.4&quot; Galaxy S23 FE for $599, the 10.9&quot; Galaxy Tab S9 FE for $449, the 12.4&quot; Galaxy Tab S9 FE+, and the Galaxy Buds FE for $99 &lpar;Timi Cantisano/XDA Developers&rpar;](http://www.techmeme.com/231003/p37#a231003p37)
  - [Poll: Is the Samsung Galaxy S23FE hot or not?](https://www.androidauthority.com/samsung-galaxy-s23fe-hot-or-not-3371394/)
- - [Samsung Galaxy S23 FE vs Galaxy S23: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-fe-vs-galaxy-s23-3371217/)
- - [Samsung Galaxy S21 FE vs Samsung Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s21-fe-vs-galaxy-s23-fe-3369753/)
- - [Samsung Galaxy Tab S9 FE: Specs, pricing, features, and more](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-release-date-price-specs-3352542/)<!-- TECH:END -->
+ - [AI Deepfake Ads: Tom Hanks, Gayle King Sound Warning     - CNET](https://www.cnet.com/tech/ai-deepfake-ads-tom-hanks-gayle-king-sound-warning/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 FE vs Galaxy S23: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s23-fe-vs-galaxy-s23-3371217/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

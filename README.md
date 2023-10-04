@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now add your PayPal credit card to Apple Wallet](https://appleinsider.com/articles/23/10/04/you-can-now-add-your-paypal-credit-card-to-apple-wallet?utm_medium=rss)
+ - [What&#39;s new in iOS 17.1 beta 2: StandBy mode options, ringtones, &amp; more](https://appleinsider.com/articles/23/10/04/whats-new-in-ios-171-beta-2-standby-mode-options-ringtones-more?utm_medium=rss)
  - [How to easily and quickly crop images in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-easily-and-quickly-crop-images-in-ios-17?utm_medium=rss)
  - [September&#39;s Record-Shattering Heat Was ‘Absolutely Gobsmackingly Bananas’](https://www.wired.com/story/september-record-shattering-heat-climate-change/)
- - [The Team Helping Women Fight Digital Domestic Abuse](https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/)
- - [18 Best Early Prime Day Deals &lpar;October 2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-2/)
- - [Hannah Diamond Has Cracked the Code of Using AI for Music](https://www.wired.com/story/hannah-diamond-has-cracked-the-code-ai-music/)<!-- TECH:END -->
+ - [The Team Helping Women Fight Digital Domestic Abuse](https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

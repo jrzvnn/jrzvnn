@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor](https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/)
+ - [How Neuralink Keeps Dead Monkey Photos Secret](https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/)
  - [Stockholm-based digital bank Brite Payments raised a $60M Series A led by Dawn Capital with Headline and Incore participating &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231004/p8#a231004p8)
  - [You told us: You’re not sure about buying a watch that can’t be repaired](https://www.androidauthority.com/buy-smartwatch-repaired-poll-results-3371522/)
- - [TikTok plans to stop facilitating e-commerce transactions on TikTok Shop in Indonesia on October 4 to comply with the country&#39;s curbs on social commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/231004/p7#a231004p7)
- - [Bengaluru-based fintech Slice, which was valued at $1.5B in 2022, secures a rare approval from India&#39;s central bank to merge with North East Small Finance Bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231004/p6#a231004p6)
- - [Google Home will soon let you create advanced automations with the help of AI](https://www.androidauthority.com/google-home-help-me-script-3371508/)<!-- TECH:END -->
+ - [TikTok plans to stop facilitating e-commerce transactions on TikTok Shop in Indonesia on October 4 to comply with the country&#39;s curbs on social commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/231004/p7#a231004p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

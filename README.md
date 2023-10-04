@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how Google’s new Pixel 8 phones stack up to the Pixel 7 lineup](https://www.theverge.com/23891201/google-pixel-8-vs-7-comparison-specs-price-features)
+ - [Apple’s latest update claims to fix the iPhone 15 Pro’s overheating issue](https://www.androidauthority.com/apple-iphone-15-pro-overheating-fix-3371940/)
  - [FEMA’s emergency alert test rang phones two minutes early](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
  - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
- - [Google Pixel 8 vs Samsung Galaxy S23: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-2-3371056/)
- - [Best 3D Printer Deals: Save Nearly $300 on Resin and Filament Printers and Accessories     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 8 vs Samsung Galaxy S23: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-2-3371056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

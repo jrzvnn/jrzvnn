@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon rolls out a slew of new features and products, including a new visual brand identity, an updated home feed, and free membership tiers &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231004/p27#a231004p27)
- - [Google announces Assistant with Bard, adding generative AI capabilities to its mobile assistant, including planning trips and writing social media captions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231004/p28#a231004p28)
- - [Apple TV Plus is bringing its own flavor of Bridgerton to streaming with The Buccaneers](https://www.theverge.com/23903086/buccaneers-trailer-apple-tv-plus-release-date)
- - [The Verge and dbrand have partnered on new skins for the Pixel 8, iPhone 15, and more](https://www.theverge.com/23894182/verge-dbrand-skin-design-collaboration-devices)
- - [Google teases Assistant with Bard for iOS and Android](https://appleinsider.com/articles/23/10/04/google-teases-assistant-with-bard-for-ios-and-android?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2023](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2023?utm_medium=rss)
+ - [French police arrest five ex-Ubisoft execs, including a chief creative officer and VP of editorial and creative services, after a year-long sexual assault probe &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/231004/p29#a231004p29)
+ - [Google&#39;s Pixel 8 series offers extended software support &amp; AI camera features](https://appleinsider.com/articles/23/10/04/googles-pixel-8-series-offers-extended-software-support-ai-camera-features?utm_medium=rss)
+ - [Google Pixel 8 vs Pixel 8 Pro: What’s the difference and which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-pixel-8-pro-3371210/)
+ - [Patreon rolls out a slew of new features and products, including a new visual brand identity, an updated home feed, and free membership tiers &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231004/p27#a231004p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

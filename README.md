@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FEMA’s emergency alert test rang phones two minutes early](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
  - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
  - [Google Pixel 8 vs Samsung Galaxy S23: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-2-3371056/)
- - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)
- - [Blackbird, a restaurant loyalty service using the $FLY native token and founded by Resy and Eater co-founder Ben Leventhal, raised a $24M Series A led by a16z &lpar;Julia Moskin/New York Times&rpar;](http://www.techmeme.com/231004/p35#a231004p35)
- - [Former BioWare employees sue for better severance packages](https://www.theverge.com/2023/10/4/23903348/bioware-lawsuit-fair-severance-dragon-age-dreadwolf)<!-- TECH:END -->
+ - [Best 3D Printer Deals: Save Nearly $300 on Resin and Filament Printers and Accessories     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

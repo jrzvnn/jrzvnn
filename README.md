@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TikTok Is Changing Stage Design](https://www.wired.com/story/stufish-tiktok-changing-stage-design/)
- - [Google Pixel 8 and Pixel 8 Pro: Release date, price, colors, everything else!](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [The Pixel 8 has a 7-year update guarantee. That’s better than the iPhone!](https://www.androidauthority.com/google-pixel-8-series-7-years-updates-3369691/)
- - [Google Pixel Watch 2 is here: Price, features, availability, colors, and more](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)
- - [Pixel 8 series now has proper, secure Face Unlock for payments and more](https://www.androidauthority.com/google-pixel-8-face-unlock-3370970/)<!-- TECH:END -->
+ - [Google is bringing helpful generative AI features to your smart home](https://www.androidauthority.com/google-home-generative-ai-features-3371672/)
+ - [Android 14 features: Everything you need to know](https://www.androidauthority.com/android-14-features-3280726/)
+ - [Google announces Pixel 8 Pro with a 6.7-inch LTPO display, a 50MP main camera sensor and 48MP ultrawide and telephoto sensors, and more, starting at $999 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231004/p22#a231004p22)
+ - [Hands-on with the Pixel Watch 2: very similar to the first generation, upgraded haptics, Snapdragon W5 chip performance is a leap ahead of Exynos 9110, and more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231004/p21#a231004p21)
+ - [Pixel Buds Pro gets two new colors and adds several new features](https://www.androidauthority.com/pixel-buds-pro-new-colors-3371673/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

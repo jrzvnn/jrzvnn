@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google claims its latest smartphone makes the ‘enhance!’ meme a reality](https://www.theverge.com/2023/10/4/23903123/google-pixel-8-pro-zoom-enhance-artificial-intelligence-photography)
- - [CSI just got real with the Pixel 8 Pro’s crazy Zoom Enhance feature](https://www.androidauthority.com/google-pixel-8-pro-zoom-enhance-3371785/)
- - [A deep dive on the Pixel 8 lineup&#39;s camera improvements, like Video Boost that uses AI processing in Google&#39;s datacenters to dramatically improve image quality &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/231004/p31#a231004p31)
- - [Google is launching a generative AI-enhanced version of Assistant](https://www.theverge.com/2023/10/4/23903101/google-assisant-with-bard-ai)
- - [Google rolls out Android 14 with customizable lock screens, expanded passkey support, on-device health features, and more, starting with Pixel phones &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231004/p30#a231004p30)<!-- TECH:END -->
+ - [Detective Pikachu Returns is a super effective story let down by dated visuals](https://www.theverge.com/23902541/detective-pikachu-returns-review-nintendo-switch)
+ - [Apple TV+ welcomes &#39;The Buccaneers&#39; with first trailer](https://appleinsider.com/articles/23/10/04/apple-tv-welcomes-the-buccaneers-with-first-trailer?utm_medium=rss)
+ - [The Pixel 8 Pro’s temperature sensor is as restricted as we expected](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-3370890/)
+ - [Reminder: FEMA is ringing your phone with an emergency alert test today](https://www.theverge.com/2023/10/2/23899467/fema-fcc-national-emergency-alert-test-october-4th-cell-phones-wea-eas-ipaws)
+ - [After closing its 3DS and Wii U eShops this year, Nintendo says it will shut down online services like multiplayer for those consoles in &quot;early April 2024&quot; &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/231004/p32#a231004p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

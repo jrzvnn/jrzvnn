@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
- - 💣 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 😝 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
- - 👉 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)<!-- MEMES:END -->
+ - 😝 [Take care of yourself.](http://9gag.com/gag/aoK6mgx)
+ - 😝 [Two guys attempt to rob a grocery store in England and promptly apprehended by locals](http://9gag.com/gag/aPg0wpR)
+ - 💣 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
+ - 😝 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 👉 [Good finds a way](http://9gag.com/gag/a1Pnp62)<!-- MEMES:END -->
 
 ---
 

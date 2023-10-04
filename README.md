@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Double Tap on Apple Watch Ultra 2 &amp; Apple Watch Series 9 in watchOS 10.1](https://appleinsider.com/inside/apple-watch-series-9/tips/how-to-use-double-tap-on-apple-watch-ultra-2-apple-watch-series-9-in-watchos-101?utm_medium=rss)
+ - [Google Pixel 8 vs Samsung Galaxy S23: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-2-3371056/)
  - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)
  - [Blackbird, a restaurant loyalty service using the $FLY native token and founded by Resy and Eater co-founder Ben Leventhal, raised a $24M Series A led by a16z &lpar;Julia Moskin/New York Times&rpar;](http://www.techmeme.com/231004/p35#a231004p35)
- - [Former BioWare employees sue for better severance packages](https://www.theverge.com/2023/10/4/23903348/bioware-lawsuit-fair-severance-dragon-age-dreadwolf)
- - [Where to preorder the Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/preorder-pixel-8-pro-3371844/)
- - [Apple addresses iPhone 15 overheating with a new iOS 17 update](https://www.theverge.com/2023/10/4/23903409/iphone-15-pro-overheating-ios-17-0-3-update)<!-- TECH:END -->
+ - [Former BioWare employees sue for better severance packages](https://www.theverge.com/2023/10/4/23903348/bioware-lawsuit-fair-severance-dragon-age-dreadwolf)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Bengaluru-based fintech Slice, which was valued at $1.5B in 2022, secures a rare approval from India&#39;s central bank to merge with North East Small Finance Bank &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231004/p6#a231004p6)
  - [Google Home will soon let you create advanced automations with the help of AI](https://www.androidauthority.com/google-home-help-me-script-3371508/)
+ - [The Pixel 8 Launch Is Today. Here&#39;s How to Watch the Made by Google Event     - CNET](https://www.cnet.com/tech/mobile/the-pixel-8-launch-is-today-heres-how-to-watch-the-made-by-google-event/#ftag=CAD590a51e)
  - [Last-minute Pixel 8 series leak dishes out pricing for all variants](https://www.androidauthority.com/google-pixel-8-series-pricing-leak-3371497/)
- - [Sony researchers: skin tone measures adopted by Google, Meta, and others for their image algorithms don&#39;t properly capture the red and yellow hues in human skin &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231004/p5#a231004p5)
- - [The best Samsung Galaxy S23 FE chargers you can get](https://www.androidauthority.com/best-samsung-galaxy-s23-fe-chargers-3370706/)<!-- TECH:END -->
+ - [Sony researchers: skin tone measures adopted by Google, Meta, and others for their image algorithms don&#39;t properly capture the red and yellow hues in human skin &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231004/p5#a231004p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 😝 [Oversize tiddies](http://9gag.com/gag/aeQqo8b)
- - 💣 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 👉 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
+ - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 😝 [Italy - 2 dead people in the ferrari](http://9gag.com/gag/amAyqX6)
+ - 💣 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)<!-- MEMES:END -->
 
 ---
 

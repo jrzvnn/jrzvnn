@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Samsung Galaxy S23 FE alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/samsung-galaxy-s23-fe-alternatives-3371520/)
  - [Google Pixel 8 launch event: all the news](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Artifact will let you generate images with AI for your posts](https://www.theverge.com/2023/10/4/23903578/artifact-generative-ai-meta-instagram)
- - [The cheapest countries to buy a Pixel 8](https://www.androidauthority.com/cheapest-place-to-buy-pixel-8-3371323/)
- - [28 Best Kitchen Gifts for a Home Cook in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-a-food-or-chef/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The cheapest countries to buy a Pixel 8](https://www.androidauthority.com/cheapest-place-to-buy-pixel-8-3371323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

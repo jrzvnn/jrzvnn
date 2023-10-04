@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 😝 [Polite man](http://9gag.com/gag/az2zb2N)
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
  - 😝 [Plan to derail Vande Bharat &lpar;India&rpar; rail](http://9gag.com/gag/aGErPbz)
- - 👉 [How about you just don&#39;t steal stuff ,criminal?](http://9gag.com/gag/a9qedm0)<!-- MEMES:END -->
+ - 💣 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 👉 [Physics.](http://9gag.com/gag/anz0Ajb)<!-- MEMES:END -->
 
 ---
 

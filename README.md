@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X stops showing headlines because Elon Musk thinks it will make posts look better](https://www.theverge.com/2023/10/4/23903859/x-elon-musk-headlines-links-image-twitter)
  - [Samsung Galaxy Tab S9 FE vs Galaxy Tab S9: Which Android tablet should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-fe-vs-galaxy-tab-s9-3370308/)
  - [X starts removing preview headlines from posts with article links, showing only the lead image and domain name; Elon Musk mentioned the change in August 2023 &lpar;Natalie Korach/The Wrap&rpar;](http://www.techmeme.com/231004/p38#a231004p38)
  - [The best Samsung Galaxy S23 FE alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/samsung-galaxy-s23-fe-alternatives-3371520/)
- - [Google Pixel 8 launch event: all the news](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Google Pixel 8 launch event: all the news](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [Polite man](http://9gag.com/gag/az2zb2N)
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 😝 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 👉 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)<!-- MEMES:END -->
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 💣 [It&#39;s simple - We seriously need to close the borders into Europe...and I mean like now ...](http://9gag.com/gag/anz3YQE)
+ - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 ---
 

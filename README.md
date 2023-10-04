@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 💣 [I have been receiving messages from mutual friends and his family calling me a monster. I know what I did was unpleasant and horrible but i feel no sympathy for that asshole.why should I be the bigger person and take the high road ? F**k that.](http://9gag.com/gag/a7qmjvr)
- - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 👉 [Peaceful israelis at their finest](http://9gag.com/gag/ajVjQ8q)<!-- MEMES:END -->
+ - 😝 [What did she mean by this?](http://9gag.com/gag/arm0pX6)
+ - 😝 [Good finds a way](http://9gag.com/gag/a1Pnp62)
+ - 💣 [He held on for dear life](http://9gag.com/gag/aA07Yp2)
+ - 😝 [I don&#39;t look like Austin Powers](http://9gag.com/gag/aDYL0G9)
+ - 👉 [Understandable, have a nice day](http://9gag.com/gag/a4o8K31)<!-- MEMES:END -->
 
 ---
 

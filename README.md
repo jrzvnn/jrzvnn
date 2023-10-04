@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Artifact will let you generate images with AI for your posts](https://www.theverge.com/2023/10/4/23903578/artifact-generative-ai-meta-instagram)
  - [The cheapest countries to buy a Pixel 8](https://www.androidauthority.com/cheapest-place-to-buy-pixel-8-3371323/)
  - [Diablo IV is coming to Steam](https://www.theverge.com/2023/10/4/23903707/diablo-4-pc-steam-release-date)
- - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)
- - [Memo: Amazon is shutting down Amp, its live audio streaming app launched in March 2022 that let users act like DJs by playing music and talking alongside songs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231004/p37#a231004p37)
- - [Google’s latest statue has Bugdroid flipping for some upside-down cake](https://www.androidauthority.com/googles-latest-android-14-statue-3371902/)<!-- TECH:END -->
+ - [There’s already a Pixel 8 teardown video](https://www.theverge.com/2023/10/4/23903597/pixel-8-teardown-video-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

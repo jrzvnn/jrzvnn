@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7 Pro vs Pixel 8 Pro: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-7-pro-vs-pixel-8-pro-3370959/)
- - [Google Pixel Watch vs Pixel Watch 2: What’s new and should you upgrade?](https://www.androidauthority.com/google-pixel-watch-vs-pixel-watch-2-3370704/)
- - [Google promises seven years of OS and security updates for Pixel 8 and 8 Pro, up from five years of security updates and three years of OS updates previously &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231004/p24#a231004p24)
- - [These are the macOS Sonoma features you should actually pay attention to](https://www.theverge.com/23900372/apple-macos-14-sonoma-review-mac-imac-macbook)
- - [Google Pixel Watch 2 LTE vs Pixel Watch 2 Wi-Fi: What’s the difference?](https://www.androidauthority.com/google-pixel-watch-2-lte-vs-pixel-watch-2-wi-fi-3371202/)<!-- TECH:END -->
+ - [Patreon rolls out a slew of new features and products, including a new visual brand identity, an updated home feed, and free membership tiers &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231004/p27#a231004p27)
+ - [Google announces Assistant with Bard, adding generative AI capabilities to its mobile assistant, including planning trips and writing social media captions &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231004/p28#a231004p28)
+ - [Apple TV Plus is bringing its own flavor of Bridgerton to streaming with The Buccaneers](https://www.theverge.com/23903086/buccaneers-trailer-apple-tv-plus-release-date)
+ - [The Verge and dbrand have partnered on new skins for the Pixel 8, iPhone 15, and more](https://www.theverge.com/23894182/verge-dbrand-skin-design-collaboration-devices)
+ - [Google teases Assistant with Bard for iOS and Android](https://appleinsider.com/articles/23/10/04/google-teases-assistant-with-bard-for-ios-and-android?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

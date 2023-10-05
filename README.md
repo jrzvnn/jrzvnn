@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CMA announces an investigation into public cloud providers in the UK, following a referral from Ofcom, says the probe will conclude by April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p6#a231005p6)
  - [Microsoft and Amazon face UK regulator investigation over cloud services](https://www.theverge.com/2023/10/5/23904375/uk-cma-microsoft-amazon-cloud-investigation)
  - [Google reveals why Video Boost is exclusive to the Pixel 8 Pro right now](https://www.androidauthority.com/google-pixel-8-pro-video-boost-availability-3372309/)
  - [Does the Google Pixel 8 support eSIM and dual-SIM?](https://www.androidauthority.com/google-pixel-8-esim-dual-sim-3371469/)
- - [The UK&#39;s Ofcom finds that Amazon and Microsoft make it difficult for UK businesses to switch cloud providers or use multiple and refers the case to the CMA &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231005/p5#a231005p5)
- - [Google confirms the Pixel 8 series will get 7 years of spare parts](https://www.androidauthority.com/google-pixel-8-series-spare-parts-7-years-3372278/)<!-- TECH:END -->
+ - [The UK&#39;s Ofcom finds that Amazon and Microsoft make it difficult for UK businesses to switch cloud providers or use multiple and refers the case to the CMA &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231005/p5#a231005p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

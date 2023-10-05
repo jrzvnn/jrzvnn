@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Displace came up with a landing gear safety system for its totally wireless TV](https://www.theverge.com/2023/10/5/23901655/displace-wireless-tv-landing-gear)
+ - [Taylor Lorenz on her extremely online history of the internet](https://www.theverge.com/23903601/taylor-lorenz-interview-extremely-online-book)
+ - [Woman named Siri has had to change her name since iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)
  - [How a Zero-Gravity Omega Watch Repair Revolutionized NASA’s Space Station Fixes](https://www.wired.com/story/omega-watch-repair-nasa-iss-don-pettit/)
- - [10 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Generative AI Has Ushered In the Next Phase of Digital Spirituality](https://www.wired.com/story/artificial-intelligence-spirituality-tarot/)
- - [Nanoleaf’s latest smart lights bring the holiday cheer](https://www.theverge.com/2023/10/5/23903870/nanoleaf-essentials-matter-smart-holiday-string-lights)
- - [Apple’s World War II series Masters of the Air premieres in January](https://www.theverge.com/2023/10/5/23903600/masters-of-the-air-apple-tv-plus-date-images)<!-- TECH:END -->
+ - [10 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

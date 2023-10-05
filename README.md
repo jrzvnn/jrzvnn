@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
+ - 😝 [Doing childhood right](http://9gag.com/gag/a5XAKeq)
+ - 😝 [Always believe that you can do better](http://9gag.com/gag/a1PneBv)
+ - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 😝 [What are best friends for](http://9gag.com/gag/a6qzLg9)
+ - 👉 [Perfect timing](http://9gag.com/gag/anz3BpV)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)
  - [12 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watches, and Legos](https://www.wired.com/story/target-circle-week-deals-october-2023-1/)
  - [Android 14 lands on the Xiaomi 13, 13 Pro, and 12T](https://www.androidauthority.com/android-14-launches-on-xiaomi-phones-3372538/)
- - [Samsung Galaxy S20 FE vs Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-fe-vs-galaxy-s23-fe-should-you-upgrade-3371872/)<!-- TECH:END -->
+ - [Samsung&#39;s New $30 SmartTag 2 Takes on Apple AirTags     - CNET](https://www.cnet.com/tech/mobile/samsungs-new-30-smarttag-2-takes-on-apple-airtags/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

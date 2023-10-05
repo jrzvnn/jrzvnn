@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 Pro vs Samsung Galaxy S23 Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-samsung-galaxy-s23-ultra-3288654/)
+ - [Samsung announces mobile driver’s licenses for Samsung Wallet](https://www.androidauthority.com/samsung-wallet-mobile-drivers-license-3372597/)
+ - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Google Pixel 8 trade-in deals: Here’s how much you can save](https://www.androidauthority.com/google-pixel-8-trade-in-3372081/)
- - [Sources: AT&amp;T is exploring options for its 70% DirecTV stake, such as adding a new investor or selling the stake and exiting the venture as early as August 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231005/p20#a231005p20)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Samsung is adding support for mobile driver’s licenses to Samsung Wallet](https://www.theverge.com/2023/10/5/23905072/samsung-wallet-mobile-drivers-licenses)
- - [This Sneaky Discount Saves You Over $100 on a JBL 2.0 Soundbar     - CNET](https://www.cnet.com/deals/this-sneaky-discount-saves-you-over-100-on-a-jbl-2-0-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: AT&amp;T is exploring options for its 70% DirecTV stake, such as adding a new investor or selling the stake and exiting the venture as early as August 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231005/p20#a231005p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

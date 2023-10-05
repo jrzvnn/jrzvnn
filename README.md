@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to change the focus point of portrait photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-focus-point-of-portrait-photos-in-ios-17?utm_medium=rss)
  - [Cyberpunk 2077 is getting a live-action adaptation](https://www.theverge.com/2023/10/5/23904722/cyberpunk-2077-live-action-adaptation-anonymous-content)
  - [Pokémon’s new live-action drama series heaps on the nostalgia in new trailer](https://www.theverge.com/2023/10/5/23904650/pokemon-poketsume-trailer)
  - [Daily deals Oct. 5: Apple Watch Series 8 $225, iPhone leather cases from $35, $425 off iRobot robot vacuum, more](https://appleinsider.com/articles/23/10/05/daily-deals-oct-5-apple-watch-series-8-225-iphone-leather-cases-from-35-425-off-irobot-robot-vacuum-more?utm_medium=rss)
- - [The last-gen Apple Watch Series 8 is nearly half off](https://www.theverge.com/2023/10/5/23903903/apple-watch-series-8-amazon-smart-thermostat-xbox-series-x-deal-sale)
- - [LA-based Machina Labs, which wants to use AI and robotics to build &quot;software-defined factories&quot;, raised a $32M Series B, bringing its total funding to $45M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231005/p13#a231005p13)<!-- TECH:END -->
+ - [The last-gen Apple Watch Series 8 is nearly half off](https://www.theverge.com/2023/10/5/23903903/apple-watch-series-8-amazon-smart-thermostat-xbox-series-x-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Masters of the Air&#39; WWII miniseries set to debut on Apple TV+ in January](https://appleinsider.com/articles/23/10/05/masters-of-the-air-wwii-miniseries-set-to-debut-on-apple-tv-in-january?utm_medium=rss)
  - [US v. Google: in 2018 and 2019, DuckDuckGo discussed becoming Safari&#39;s default search engine for private mode, but Apple&#39;s John Giannandrea rejected the idea &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231005/p11#a231005p11)
  - [Displace came up with a landing gear safety system for its totally wireless TV](https://www.theverge.com/2023/10/5/23901655/displace-wireless-tv-landing-gear)
  - [Taylor Lorenz on her extremely online history of the internet](https://www.theverge.com/23903601/taylor-lorenz-interview-extremely-online-book)
- - [Woman named Siri has had to change her name since iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)
- - [Prime Members Can Grab This Electric Screwdriver Set for Just $35 &lpar;Save $45&rpar;     - CNET](https://www.cnet.com/deals/prime-members-can-grab-this-electric-screwdriver-set-for-just-35-save-45/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Woman named Siri has had to change her name since iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

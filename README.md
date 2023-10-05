@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Google Pixel Watch 2 alternatives](https://www.androidauthority.com/best-google-pixel-watch-2-alternatives-3370419/)
+ - [The Hong Kong Stock Exchange announces Synapse, designed to streamline post-trade processes using smart contracts, which will go live on October 9 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231005/p7#a231005p7)
  - [Details of Apple’s talks to replace Google with Bing and even DuckDuckGo revealed in unsealed court testimony](https://www.theverge.com/2023/10/5/23904392/apple-default-search-engine-bing-acquistion-duckduckgo-safari-private-browsing)
  - [Some Pixel 8 trade-in offers are insultingly bad](https://www.androidauthority.com/google-pixel-8-trade-in-offers-3372276/)
- - [The CMA announces an investigation into public cloud providers in the UK, following a referral from Ofcom, and says the probe will conclude by April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p6#a231005p6)
- - [Microsoft and Amazon face UK regulator investigation over cloud services](https://www.theverge.com/2023/10/5/23904375/uk-cma-microsoft-amazon-cloud-investigation)
- - [Google reveals why Video Boost is exclusive to the Pixel 8 Pro right now](https://www.androidauthority.com/google-pixel-8-pro-video-boost-availability-3372309/)<!-- TECH:END -->
+ - [The CMA announces an investigation into public cloud providers in the UK, following a referral from Ofcom, and says the probe will conclude by April 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p6#a231005p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

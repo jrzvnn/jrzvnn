@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S20 FE vs Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-fe-vs-galaxy-s23-fe-should-you-upgrade-3371872/)
  - [Google Pixel Watch 2 vs Samsung Galaxy Watch 6: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-6-3371074/)
  - [Messari: funding to crypto companies fell to ~$2.1B in Q3 2023, across 297 deals, the lowest since Q4 2020, after a peak of ~$17.5B across 900+ deals in Q1 2022 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/231005/p18#a231005p18)
  - [Samsung just turned its soundbar into a SmartThings hub](https://www.theverge.com/2023/10/5/23904754/samsung-sdc23-soundbar-smartthings-smart-home-hub)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [Best Internet Providers in Santa Fe, New Mexico     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

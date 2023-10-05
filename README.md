@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does the Google Pixel 8 support eSIM and dual-SIM?](https://www.androidauthority.com/google-pixel-8-esim-dual-sim-3371469/)
+ - [The UK&#39;s Ofcom finds that Amazon and Microsoft make it difficult for UK businesses to switch cloud providers or use multiple and refers the case to the CMA &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231005/p5#a231005p5)
  - [Google confirms the Pixel 8 series will get 7 years of spare parts](https://www.androidauthority.com/google-pixel-8-series-spare-parts-7-years-3372278/)
  - [The best Google Pixel 8 chargers you can get](https://www.androidauthority.com/best-google-pixel-8-chargers-3371389/)
- - [October 2023 Android security patch is here for Google Pixel devices](https://www.androidauthority.com/october-2023-android-security-patch-3372270/)
- - [Galaxy SmartTag2 launched: A more durable, longer lasting tracker](https://www.androidauthority.com/samsung-galaxy-smarttag2-3372261/)
- - [A TSMC exec says the Arizona fab will not be &quot;as profitable as our Taiwan fabs&quot;, amid construction and labor challenges and the lack of EUV expertise in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p4#a231005p4)<!-- TECH:END -->
+ - [October 2023 Android security patch is here for Google Pixel devices](https://www.androidauthority.com/october-2023-android-security-patch-3372270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

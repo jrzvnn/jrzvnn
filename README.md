@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
+ - 😝 [Oh no he didn&#39;t](http://9gag.com/gag/aA07V5g)
+ - 😝 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)
+ - 💣 [Money doesn&#39;t matter](http://9gag.com/gag/aBdMQxO)
+ - 😝 [Genius Retro engineering](http://9gag.com/gag/aXnzpqb)
+ - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
 

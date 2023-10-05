@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe teases new AI photo editing tool that will ‘revolutionize’ its products](https://www.theverge.com/2023/10/5/23904416/adobe-max-sneak-project-stardust-ai-photo-editing-tool)
  - [We did the math: The Pixel 8 and 8 Pro aren’t really overpriced](https://www.androidauthority.com/pixel-8-8-pro-overpriced-3370318/)
- - [New MacBook Pro to arrive before end of 2023, claims questionable rumor](https://appleinsider.com/articles/23/10/05/new-macbook-pro-to-arrive-before-end-of-2023-claims-questionable-rumor?utm_medium=rss)
- - [Samsung unveils Galaxy SmartTag 2, with an updated design, both BT low energy and UWB, and exclusive to Samsung devices, available on October 10 for $30 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231005/p8#a231005p8)
- - [The best Google Pixel Watch 2 alternatives](https://www.androidauthority.com/best-google-pixel-watch-2-alternatives-3370419/)
- - [The Hong Kong Stock Exchange announces Synapse, designed to streamline post-trade processes using smart contracts, which will go live on October 9 &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231005/p7#a231005p7)<!-- TECH:END -->
+ - [Generative AI Is Coming for Sales Execs’ Jobs—and They’re Celebrating](https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/)
+ - [What Are Ebike ‘Classes’ and What Do They Mean?](https://www.wired.com/story/guide-to-ebike-classes/)
+ - [New MacBook Pro to arrive before end of 2023, claims questionable rumor](https://appleinsider.com/articles/23/10/05/new-macbook-pro-to-arrive-before-end-of-2023-claims-questionable-rumor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

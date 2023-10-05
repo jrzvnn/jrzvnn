@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s SmartTag2 is smaller and lasts longer](https://www.theverge.com/2023/10/5/23902100/samsung-smarttag2-item-tracker-announce)
- - [In-depth iPhone 15 Pro Max camera review: native 24MP capture and 5x lens represent one of the biggest camera upgrades in iPhone&#39;s history for everyday users &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/231005/p12#a231005p12)
- - [T-Mobile will give you a OnePlus Nord N300 for free if you stop using 2G](https://www.androidauthority.com/t-mobile-free-oneplus-nord-n300-3372435/)
- - [The best Google Pixel 8 cases to keep your phone safe and stylish](https://www.androidauthority.com/best-google-pixel-8-cases-3371642/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [PSA: The Pixel Watch 2 won’t accept your Fitbit login for Fitbit features](https://www.androidauthority.com/fitbit-log-in-on-pixel-watch-2-3372430/)
+ - [This limited-edition Flipper Zero is the latest transparent gadget](https://www.theverge.com/2023/10/5/23904454/flipper-zero-transparent-edition-multitool-hacking)
+ - [Microsoft’s faster and redesigned Teams app now available for Windows and Mac](https://www.theverge.com/2023/10/5/23904418/microsoft-teams-new-app-faster-design-features-available-download)
+ - [In Ryûsuke Hamaguchi’s new movie Evil Does Not Exist, it does](https://www.theverge.com/23897222/evil-does-not-exist-review-ryusuke-hamaguchi-nyff)
+ - [3D sculpting tool ZBrush will get native iPad app in 2024](https://appleinsider.com/articles/23/10/05/3d-sculpting-tool-zbrush-will-get-native-ipad-app-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

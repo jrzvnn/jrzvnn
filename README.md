@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 💣 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 😝 [I was todays years old when I found out](http://9gag.com/gag/aVb8PXK)
  - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
+ - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
+ - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
 
 ---
 

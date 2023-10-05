@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung is adding support for mobile driver’s licenses to Samsung Wallet](https://www.theverge.com/2023/10/5/23905072/samsung-wallet-mobile-drivers-licenses)
+ - [This Sneaky Discount Saves You Over $100 on a JBL 2.0 Soundbar     - CNET](https://www.cnet.com/deals/this-sneaky-discount-saves-you-over-100-on-a-jbl-2-0-soundbar/#ftag=CAD590a51e)
  - [Discord&#39;s latest update broke it on macOS -- here&#39;s how to fix it](https://appleinsider.com/inside/macos-ventura/tips/discords-latest-update-broke-it-on-macos----heres-how-to-fix-it?utm_medium=rss)
- - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
- - [A look at the impact of Shein and Temu on China&#39;s exports; government data shows exports via e-commerce grew 19.9% YoY in H1 2023, while overall exports fell &lpar;South China Morning Post&rpar;](http://www.techmeme.com/231005/p19#a231005p19)
- - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
- - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)<!-- TECH:END -->
+ - [7 Sleep Tracker Alternatives to Amazon&#39;s Halo Rise     - CNET](https://www.cnet.com/health/sleep/7-sleep-tracker-alternatives-to-amazons-new-halo-rise/#ftag=CAD590a51e)
+ - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

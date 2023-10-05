@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BREAKING: Three dead after a Filipino fishing boat was rammed by an unidentified commercial vessel near the Scarborough Shoal early morning Monday, October 2, according to the Philippine Coast Guard. Take a guess on who rammed it ?](http://9gag.com/gag/ajVj6nq)
- - 😝 [A road without a turn for 200 Km .](http://9gag.com/gag/az2zLWp)
- - 💣 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
- - 👉 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)<!-- MEMES:END -->
+ - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 💣 [You breast watch your step ma\u2019am\u2026](http://9gag.com/gag/aREGw0q)
+ - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
+ - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
 
 ---
 

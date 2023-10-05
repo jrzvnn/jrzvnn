@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
  - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
- - 😝 [BREAKING: Three dead after a Filipino fishing boat was rammed by an unidentified commercial vessel near the Scarborough Shoal early morning Monday, October 2, according to the Philippine Coast Guard. Take a guess on who rammed it ?](http://9gag.com/gag/ajVj6nq)
- - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 💣 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
+ - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
 
 ---
 

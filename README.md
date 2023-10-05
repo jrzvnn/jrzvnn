@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s SmartTag2 is smaller and lasts longer](https://www.theverge.com/2023/10/5/23902100/samsung-smarttag2-item-tracker-announce)
  - [In-depth iPhone 15 Pro Max camera review: native 24MP capture and 5x lens represent one of the biggest camera upgrades in iPhone&#39;s history for everyday users &lpar;Sebastiaan de With/Lux&rpar;](http://www.techmeme.com/231005/p12#a231005p12)
  - [T-Mobile will give you a OnePlus Nord N300 for free if you stop using 2G](https://www.androidauthority.com/t-mobile-free-oneplus-nord-n300-3372435/)
  - [The best Google Pixel 8 cases to keep your phone safe and stylish](https://www.androidauthority.com/best-google-pixel-8-cases-3371642/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Sony’s high-bitrate movie service is now available on PS5 and PS4](https://www.theverge.com/2023/10/5/23904557/sony-pictures-core-now-available-ps5-ps4-ps-plus)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

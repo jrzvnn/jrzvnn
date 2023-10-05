@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Steam Deck refresh could be coming soon](https://www.androidauthority.com/steam-deck-refresh-3372659/)
  - [If you want to spend $150 per strand on smart Christmas lights, Nanoleaf has a solution](https://appleinsider.com/articles/23/10/05/if-you-want-to-spend-150-per-strand-on-smart-christmas-lights-nanoleaf-has-a-solution?utm_medium=rss)
  - [After many long years, the ‘Check for Updates’ page gets redesigned for Pixels](https://www.androidauthority.com/google-pixel-check-for-updates-page-3372681/)
  - [Filing: the US SEC sues Elon Musk to force him to testify in its probe into his Twitter takeover in 2022, after Musk failed to appear for testimony in September &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/231005/p22#a231005p22)
- - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)
- - [How Nvidia, Intel, and Qualcomm are pushing back against the Biden administration&#39;s plans for further crackdowns on their sales of semiconductor tech to China &lpar;New York Times&rpar;](http://www.techmeme.com/231005/p21#a231005p21)<!-- TECH:END -->
+ - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

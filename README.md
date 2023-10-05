@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
- - 💣 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - 😝 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 😝 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
+ - 😝 [There is something fascinating about the way they dance.](http://9gag.com/gag/aQEK4ew)
+ - 💣 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 👉 [Make it a double](http://9gag.com/gag/a8q9bDZ)<!-- MEMES:END -->
 
 ---
 

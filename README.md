@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium&#39;s intelligence service says it has been monitoring Alibaba&#39;s main logistics hub in Europe at the cargo airport in Li&amp;egrave;ge to detect &quot;possible espionage&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p2#a231005p2)
+ - [Belgium&#39;s intelligence service has been monitoring Alibaba&#39;s logistics hub in Europe at Li&amp;egrave;ge&#39;s cargo airport to detect &quot;possible espionage&quot; by Chinese entities &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p2#a231005p2)
  - [Guideline: X&#39;s monthly US ad revenue has declined 55%+ YoY in each of the 10 months since Elon Musk&#39;s Twitter takeover in October 2022 through August 2023 &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/231005/p1#a231005p1)
  - [How interest rates and X&#39;s terrible performance gave Elon Musk the upper hand before Linda Yaccarino&#39;s October 5 meeting with the banks that backed his takeover &lpar;Shawn Tully/Fortune&rpar;](http://www.techmeme.com/231004/p43#a231004p43)
  - [NYC-based Headway, which connects patients with therapists who offer care covered by insurance, raised a $125M Series C led by Spark Capital at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/231004/p42#a231004p42)

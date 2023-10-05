@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta is paying several creators millions of dollars over multiple years for nonexclusive use of their likeness in its AI chatbots &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/231005/p25#a231005p25)
+ - [Sony confirms server security breaches that exposed employee data](https://www.theverge.com/2023/10/5/23905370/sony-interactive-entertainment-security-breach-confirmation)
  - [Q&amp;A with OpenAI CTO Mira Murati about joining OpenAI, copyright challenges, AI regulation, competition, safety challenges, DALL-E 3, the future of AI, and more &lpar;Fortune&rpar;](http://www.techmeme.com/231005/p24#a231005p24)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [New rumor suggests four iPad Air models could be on the way](https://appleinsider.com/articles/23/10/05/new-rumor-suggests-four-ipad-air-models-could-be-on-the-way?utm_medium=rss)
- - [Bing’s AI image generator apparently blocks prompts about the Twin Towers](https://www.theverge.com/2023/10/5/23905311/microsoft-bing-dalle3-generative-ai-images-twin-towers)
- - [Google Pixel Watch 2 vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-fitbit-sense-2-3372463/)<!-- TECH:END -->
+ - [New rumor suggests four iPad Air models could be on the way](https://appleinsider.com/articles/23/10/05/new-rumor-suggests-four-ipad-air-models-could-be-on-the-way?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

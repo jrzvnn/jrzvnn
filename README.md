@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found the long version](http://9gag.com/gag/aKEyPgW)
  - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 💣 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - 👉 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
+ - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 💣 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 👉 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)<!-- MEMES:END -->
 
 ---
 

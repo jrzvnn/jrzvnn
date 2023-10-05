@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
+ - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)
  - [12 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watches, and Legos](https://www.wired.com/story/target-circle-week-deals-october-2023-1/)
  - [Android 14 lands on the Xiaomi 13, 13 Pro, and 12T](https://www.androidauthority.com/android-14-launches-on-xiaomi-phones-3372538/)
- - [Samsung Galaxy S20 FE vs Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-fe-vs-galaxy-s23-fe-should-you-upgrade-3371872/)
- - [Google Pixel Watch 2 vs Samsung Galaxy Watch 6: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-6-3371074/)
- - [Messari: funding to crypto companies fell to ~$2.1B in Q3 2023, across 297 deals, the lowest since Q4 2020, after a peak of ~$17.5B across 900+ deals in Q1 2022 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/231005/p18#a231005p18)<!-- TECH:END -->
+ - [Samsung Galaxy S20 FE vs Galaxy S23 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-s20-fe-vs-galaxy-s23-fe-should-you-upgrade-3371872/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 💣 [Well well well](http://9gag.com/gag/aKEygqO)
- - 😝 [41 prior arrests for unprovoked violent assaults on Asian women, 0 jail time, NYC utopia](http://9gag.com/gag/aL13Bjg)
- - 👉 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)<!-- MEMES:END -->
+ - 😝 [Doing childhood right](http://9gag.com/gag/a5XAKeq)
+ - 😝 [Always believe that you can do better](http://9gag.com/gag/a1PneBv)
+ - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 😝 [Me, Me, Me, Me\u2018 she doesn\u2018t want to know what he wants, it\u2018s all about her](http://9gag.com/gag/abvob5p)
+ - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---
 

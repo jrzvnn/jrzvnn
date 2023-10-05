@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
  - [New rumor suggests four iPad Air models could be on the way](https://appleinsider.com/articles/23/10/05/new-rumor-suggests-four-ipad-air-models-could-be-on-the-way?utm_medium=rss)
  - [Bing’s AI image generator apparently blocks prompts about the Twin Towers](https://www.theverge.com/2023/10/5/23905311/microsoft-bing-dalle3-generative-ai-images-twin-towers)
  - [Google Pixel Watch 2 vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-fitbit-sense-2-3372463/)
- - [Google Pixel 8 Pro vs Apple iPhone 15 Pro and 15 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-iphone-15-pro-max-3372375/)
- - [Forza Motorsport looks and feels like Forza but with an RPG hiding under the hood](https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions)<!-- TECH:END -->
+ - [Google Pixel 8 Pro vs Apple iPhone 15 Pro and 15 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-iphone-15-pro-max-3372375/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gabe Newell has become the Marcus Aurelius of the gaming industry.](http://9gag.com/gag/abvo0QE)
  - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
+ - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 💣 [Hol up](http://9gag.com/gag/aNwXnK0)
+ - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
+ - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
 
 ---
 

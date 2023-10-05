@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
+ - 💣 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
  - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 💣 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
- - 👉 [Polite man](http://9gag.com/gag/az2zb2N)<!-- MEMES:END -->
+ - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
 
 ---
 

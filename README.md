@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We built the $150 Xbox 360 made of Lego-like Mega bricks](https://www.theverge.com/23904110/xbox-360-mega-bloks-target-review)
+ - [Lucid’s under-$80,000 base Air Pure EV is now available to order](https://www.theverge.com/2023/10/5/23904566/lucid-air-pure-rwd-electric-car-entry-base-price-availability)
  - [Google Pixel 8 Pro vs Samsung Galaxy S23 Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-samsung-galaxy-s23-ultra-3288654/)
  - [Samsung announces mobile driver’s licenses for Samsung Wallet](https://www.androidauthority.com/samsung-wallet-mobile-drivers-license-3372597/)
- - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Google Pixel 8 trade-in deals: Here’s how much you can save](https://www.androidauthority.com/google-pixel-8-trade-in-3372081/)
- - [Sources: AT&amp;T is exploring options for its 70% DirecTV stake, such as adding a new investor or selling the stake and exiting the venture as early as August 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231005/p20#a231005p20)<!-- TECH:END -->
+ - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

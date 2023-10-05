@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u25ab\ufe0f](http://9gag.com/gag/ay2A5qV)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
+ - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
+ - 😝 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
 

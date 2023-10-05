@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)
+ - [How Nvidia, Intel, and Qualcomm are pushing back against White House plans to extend its crackdown on the sale of semiconductor technology to China &lpar;New York Times&rpar;](http://www.techmeme.com/231005/p21#a231005p21)
+ - [Epic is changing Unreal Engine’s pricing for non-game developers](https://www.theverge.com/2023/10/5/23905082/epic-unreal-engine-pricing-change-film-automotive)
  - [We built the $150 Xbox 360 made of Lego-like Mega bricks](https://www.theverge.com/23904110/xbox-360-mega-bloks-target-review)
- - [Lucid’s under-$80,000 base Air Pure EV is now available to order](https://www.theverge.com/2023/10/5/23904566/lucid-air-pure-rwd-electric-car-entry-base-price-availability)
- - [Google Pixel 8 Pro vs Samsung Galaxy S23 Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-samsung-galaxy-s23-ultra-3288654/)
- - [Samsung announces mobile driver’s licenses for Samsung Wallet](https://www.androidauthority.com/samsung-wallet-mobile-drivers-license-3372597/)
- - [The 25 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Lucid’s under-$80,000 base Air Pure EV is now available to order](https://www.theverge.com/2023/10/5/23904566/lucid-air-pure-rwd-electric-car-entry-base-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

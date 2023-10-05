@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
  - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 💣 [Well well well](http://9gag.com/gag/aKEygqO)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)<!-- MEMES:END -->
+ - 💣 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
 

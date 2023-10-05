@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forza Motorsport looks and feels like Forza but with an RPG hiding under the hood](https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions)
  - [Apple releases behind-the-scenes video of U2 in Las Vegas Sphere](https://appleinsider.com/articles/23/10/05/apple-releases-behind-the-scenes-video-of-u2-in-las-vegas-sphere?utm_medium=rss)
  - [The best Google Pixel 8 alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/best-google-pixel-8-alternatives-3371156/)
  - [Some 4chan users are running a coordinated campaign to flood the internet with racist images created using Bing&#39;s text-to-image generator powered by DALL-E 3 &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231005/p23#a231005p23)
- - [Elon Musk is stonewalling the SEC, and now he’s getting sued](https://www.theverge.com/2023/10/5/23905307/elon-musk-sec-testify-lawsuit-subpoena)
- - [A Steam Deck refresh could be coming soon](https://www.androidauthority.com/steam-deck-refresh-3372659/)<!-- TECH:END -->
+ - [Elon Musk is stonewalling the SEC, and now he’s getting sued](https://www.theverge.com/2023/10/5/23905307/elon-musk-sec-testify-lawsuit-subpoena)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

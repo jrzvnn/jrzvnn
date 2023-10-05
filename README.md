@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [PSA: The Pixel Watch 2 won’t accept your Fitbit login for Fitbit features](https://www.androidauthority.com/fitbit-log-in-on-pixel-watch-2-3372430/)
  - [This limited-edition Flipper Zero is the latest transparent gadget](https://www.theverge.com/2023/10/5/23904454/flipper-zero-transparent-edition-multitool-hacking)
  - [Microsoft’s faster and redesigned Teams app now available for Windows and Mac](https://www.theverge.com/2023/10/5/23904418/microsoft-teams-new-app-faster-design-features-available-download)
- - [In Ryûsuke Hamaguchi’s new movie Evil Does Not Exist, it does](https://www.theverge.com/23897222/evil-does-not-exist-review-ryusuke-hamaguchi-nyff)
- - [3D sculpting tool ZBrush will get native iPad app in 2024](https://appleinsider.com/articles/23/10/05/3d-sculpting-tool-zbrush-will-get-native-ipad-app-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [In Ryûsuke Hamaguchi’s new movie Evil Does Not Exist, it does](https://www.theverge.com/23897222/evil-does-not-exist-review-ryusuke-hamaguchi-nyff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

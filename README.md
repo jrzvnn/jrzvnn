@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk is stonewalling the SEC, and now he’s getting sued](https://www.theverge.com/2023/10/5/23905307/elon-musk-sec-testify-lawsuit-subpoena)
  - [A Steam Deck refresh could be coming soon](https://www.androidauthority.com/steam-deck-refresh-3372659/)
- - [If you want to spend $150 per strand on smart Christmas lights, Nanoleaf has a solution](https://appleinsider.com/articles/23/10/05/if-you-want-to-spend-150-per-strand-on-smart-christmas-lights-nanoleaf-has-a-solution?utm_medium=rss)
- - [After many long years, the ‘Check for Updates’ page gets redesigned for Pixels](https://www.androidauthority.com/google-pixel-check-for-updates-page-3372681/)
- - [Filing: the US SEC sues Elon Musk to force him to testify in its probe into his Twitter takeover in 2022, after Musk failed to appear for testimony in September &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/231005/p22#a231005p22)
- - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)<!-- TECH:END -->
+ - [Best Prime Day Laptop Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-available-right-now/#ftag=CAD590a51e)
+ - [Hyundai, Kia, Genesis EVs Will Adopt Tesla NACS Charging Port in 2024     - CNET](https://www.cnet.com/roadshow/news/hyundai-kia-genesis-evs-will-adopt-tesla-nacs-charging-port-in-2024/#ftag=CAD590a51e)
+ - [If you want to spend $150 per strand on smart Christmas lights, Nanoleaf has a solution](https://appleinsider.com/articles/23/10/05/if-you-want-to-spend-150-per-strand-on-smart-christmas-lights-nanoleaf-has-a-solution?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

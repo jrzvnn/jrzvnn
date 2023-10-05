@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FTX employees in the US found and reported the backdoor Alameda used to allegedly withdraw billions in customer funds, months before FTX&#39;s collapse &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231005/p10#a231005p10)
- - [Comcast and Charter have begun rolling out the first Xumo streaming box](https://www.theverge.com/2023/10/5/23904453/comcast-charter-xumo-stream-box-now-available)
- - [Apple researching how to make a &#39;Star Trek&#39; communicator badge](https://appleinsider.com/articles/22/03/24/apple-researching-how-to-make-a-star-trek-communicator-badge?utm_medium=rss)
- - [In the War Against Russia, Some Ukrainians Carry AK-47s. Andrey Liscovich Carries a Shopping List](https://www.wired.com/story/ukraine-russia-war-military-retail/)
- - [How Double Tap compares to Quick Actions and AssistiveTouch](https://appleinsider.com/inside/apple-watch-series-9/vs/how-double-tap-compares-to-quick-actions-and-assistivetouch?utm_medium=rss)<!-- TECH:END -->
+ - [How a Zero-Gravity Omega Watch Repair Revolutionized NASA’s Space Station Fixes](https://www.wired.com/story/omega-watch-repair-nasa-iss-don-pettit/)
+ - [10 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [Generative AI Has Ushered In the Next Phase of Digital Spirituality](https://www.wired.com/story/artificial-intelligence-spirituality-tarot/)
+ - [Nanoleaf’s latest smart lights bring the holiday cheer](https://www.theverge.com/2023/10/5/23903870/nanoleaf-essentials-matter-smart-holiday-string-lights)
+ - [Apple’s World War II series Masters of the Air premieres in January](https://www.theverge.com/2023/10/5/23903600/masters-of-the-air-apple-tv-plus-date-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

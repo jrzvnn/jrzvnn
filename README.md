@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 vs Samsung Galaxy S23 FE: Which one should you buy?](https://www.androidauthority.com/google-pixel-8-vs-samsung-galaxy-s23-fe-3371810/)
- - [Amazon&#39;s Project Kuiper plans to launch its first two demo internet satellites, KuiperSat-1 and KuiperSat-2, on October 6 &lpar;George Dvorsky/Gizmodo&rpar;](http://www.techmeme.com/231005/p9#a231005p9)
- - [Adobe teases new AI photo editing tool that will ‘revolutionize’ its products](https://www.theverge.com/2023/10/5/23904416/adobe-max-sneak-project-stardust-ai-photo-editing-tool)
- - [We did the math: The Pixel 8 and 8 Pro aren’t really overpriced](https://www.androidauthority.com/pixel-8-8-pro-overpriced-3370318/)
- - [Generative AI Is Coming for Sales Execs’ Jobs—and They’re Celebrating](https://www.wired.com/story/generative-ai-chatgpt-is-coming-for-sales-jobs/)<!-- TECH:END -->
+ - [In the War Against Russia, Some Ukrainians Carry AK-47s. Andrey Liscovich Carries a Shopping List](https://www.wired.com/story/ukraine-russia-war-military-retail/)
+ - [How Double Tap compares to Quick Actions and AssistiveTouch](https://appleinsider.com/inside/apple-watch-series-9/vs/how-double-tap-compares-to-quick-actions-and-assistivetouch?utm_medium=rss)
+ - [Hyundai’s future EVs will also have Tesla’s EV charging port](https://www.theverge.com/2023/10/5/23904089/hyundai-tesla-nacs-ev-charging-plug)
+ - [Future MacBook Pro could split at the hinge and be truly modular](https://appleinsider.com/articles/23/07/25/future-macbook-pro-could-split-at-the-hinge-and-be-truly-modular?utm_medium=rss)
+ - [iPhone 15 Pro Max Camera vs. Galaxy S23 Ultra: Smartphone Shootout     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-max-camera-vs-galaxy-s23-ultra-smartphone-shootout/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 😝 [Me, Me, Me, Me\u2018 she doesn\u2018t want to know what he wants, it\u2018s all about her](http://9gag.com/gag/abvob5p)
+ - 💣 [Perfect timing](http://9gag.com/gag/anz3BpV)
  - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
- - 👉 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)<!-- MEMES:END -->
+ - 👉 [These two men pulled people out of a burning bus in Venice, saving many lives.](http://9gag.com/gag/axo8GqL)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gas station convenience stores might survive the EV future with help from these chargers](https://www.theverge.com/2023/10/4/23903815/electric-era-ev-charging-stations-gas-convenience-stores)
+ - [Former Ubisoft Execs Detained as Part of Harassment Investigation](https://www.wired.com/story/ubisoft-arrest-harassment-tommy-francois-serge-hascoet/)
+ - [Apple to announce 2023 fourth quarter earnings on November 2](https://appleinsider.com/articles/23/10/05/apple-to-announce-2023-fourth-quarter-earnings-on-november-2?utm_medium=rss)
  - [BlackBerry plans to separate its IoT and cybersecurity business units and targets a subsidiary IPO for the IoT unit in the next fiscal year &lpar;Reuters&rpar;](http://www.techmeme.com/231004/p39#a231004p39)
- - [Google Pixel 8 and Pixel 8 Pro hands-on: The w8 was worth it](https://www.androidauthority.com/google-pixel-8-hands-on-3371236/)
- - [Is Sam Bankman-Fried’s defense even trying to win?](https://www.theverge.com/2023/10/4/23903986/sam-bankman-fried-opening-statements-trial-fraud)
- - [Apple interested in College Football Playoff streaming rights for 2026 championship](https://appleinsider.com/articles/23/10/04/apple-interested-in-college-football-playoff-streaming-rights-for-2026-championship?utm_medium=rss)
- - [Google releases Gmail app for Wear OS](https://www.theverge.com/2023/10/4/23903765/google-gmail-app-wear-os-release)<!-- TECH:END -->
+ - [Google Pixel 8 and Pixel 8 Pro hands-on: The w8 was worth it](https://www.androidauthority.com/google-pixel-8-hands-on-3371236/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
  - [Best Internet Providers in Santa Fe, New Mexico     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
  - [Filing: UK chip startup Graphcore says it needs funds to continue as a &quot;going concern&quot; after 2022 revenue fell 46% and pretax losses grew 11% YoY to $204.6M &lpar;Jamie Nimmo/Bloomberg&rpar;](http://www.techmeme.com/231005/p17#a231005p17)
  - [Woman named Siri had to change her name because of iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)
- - [Microsoft rolls out a new version of Microsoft Teams that has been rebuilt from the ground up to be less resource-hungry on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p16#a231005p16)
- - [&#39;Loki&#39; Season 2: Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/loki-season-2-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft rolls out a new version of Microsoft Teams that has been rebuilt from the ground up to be less resource-hungry on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p16#a231005p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

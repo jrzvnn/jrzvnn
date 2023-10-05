@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyberpunk 2077 is getting a live-action adaptation](https://www.theverge.com/2023/10/5/23904722/cyberpunk-2077-live-action-adaptation-anonymous-content)
+ - [Pokémon’s new live-action drama series heaps on the nostalgia in new trailer](https://www.theverge.com/2023/10/5/23904650/pokemon-poketsume-trailer)
  - [Daily deals Oct. 5: Apple Watch Series 8 $225, iPhone leather cases from $35, $425 off iRobot robot vacuum, more](https://appleinsider.com/articles/23/10/05/daily-deals-oct-5-apple-watch-series-8-225-iphone-leather-cases-from-35-425-off-irobot-robot-vacuum-more?utm_medium=rss)
  - [The last-gen Apple Watch Series 8 is nearly half off](https://www.theverge.com/2023/10/5/23903903/apple-watch-series-8-amazon-smart-thermostat-xbox-series-x-deal-sale)
- - [LA-based Machina Labs, which wants to use AI and robotics to build &quot;software-defined factories&quot;, raised a $32M Series B, bringing its total funding to $45M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231005/p13#a231005p13)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [PSA: The Pixel Watch 2 won’t accept your Fitbit login for Fitbit features](https://www.androidauthority.com/fitbit-log-in-on-pixel-watch-2-3372430/)<!-- TECH:END -->
+ - [LA-based Machina Labs, which wants to use AI and robotics to build &quot;software-defined factories&quot;, raised a $32M Series B, bringing its total funding to $45M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231005/p13#a231005p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

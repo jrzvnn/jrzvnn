@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change the focus point of portrait photos in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-change-the-focus-point-of-portrait-photos-in-ios-17?utm_medium=rss)
- - [Cyberpunk 2077 is getting a live-action adaptation](https://www.theverge.com/2023/10/5/23904722/cyberpunk-2077-live-action-adaptation-anonymous-content)
- - [Pokémon’s new live-action drama series heaps on the nostalgia in new trailer](https://www.theverge.com/2023/10/5/23904650/pokemon-poketsume-trailer)
- - [Daily deals Oct. 5: Apple Watch Series 8 $225, iPhone leather cases from $35, $425 off iRobot robot vacuum, more](https://appleinsider.com/articles/23/10/05/daily-deals-oct-5-apple-watch-series-8-225-iphone-leather-cases-from-35-425-off-irobot-robot-vacuum-more?utm_medium=rss)
- - [The last-gen Apple Watch Series 8 is nearly half off](https://www.theverge.com/2023/10/5/23903903/apple-watch-series-8-amazon-smart-thermostat-xbox-series-x-deal-sale)<!-- TECH:END -->
+ - [Woman named Siri had to change her name because of iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)
+ - [Microsoft rolls out a new version of Microsoft Teams that has been rebuilt from the ground up to be less resource-hungry on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p16#a231005p16)
+ - [Metropolis, which provides AI-powered parking services, raised $650M in debt and $1.05B in Series C financing to buy parking management company SP Plus &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231005/p15#a231005p15)
+ - [Wear OS 4 is coming to the original Pixel Watch, but not for a while](https://www.androidauthority.com/wear-os-4-pixel-watch-3372470/)
+ - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

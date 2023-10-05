@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 😝 [First and last day of work](http://9gag.com/gag/awZDK1W)
- - 💣 [It needs to rain tetten today](http://9gag.com/gag/aNwXrWK)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
+ - 😝 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
+ - 😝 [There is something fascinating about the way they dance.](http://9gag.com/gag/aQEK4ew)
+ - 💣 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 😝 [Make it a double](http://9gag.com/gag/a8q9bDZ)
+ - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Santa Fe, New Mexico     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
+ - [Filing: UK chip startup Graphcore says it needs funds to continue as a &quot;going concern&quot; after 2022 revenue fell 46% and pretax losses grew 11% YoY to $204.6M &lpar;Jamie Nimmo/Bloomberg&rpar;](http://www.techmeme.com/231005/p17#a231005p17)
  - [Woman named Siri had to change her name because of iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)
  - [Microsoft rolls out a new version of Microsoft Teams that has been rebuilt from the ground up to be less resource-hungry on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p16#a231005p16)
- - [Metropolis, which provides AI-powered parking services, raised $650M in debt and $1.05B in Series C financing to buy parking management company SP Plus &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231005/p15#a231005p15)
- - [Wear OS 4 is coming to the original Pixel Watch, but not for a while](https://www.androidauthority.com/wear-os-4-pixel-watch-3372470/)
- - [Early iPhone 15 tests after overheat-fixing patch don&#39;t show any performance losses](https://appleinsider.com/articles/23/10/04/early-iphone-15-tests-after-overheat-fixing-patch-dont-show-any-performance-losses?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Loki&#39; Season 2: Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/loki-season-2-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

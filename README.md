@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Google Pixel 8 Pro vs Apple iPhone 15 Pro and 15 Pro Max: Which should you buy?](https://www.androidauthority.com/google-pixel-8-pro-vs-iphone-15-pro-max-3372375/)
  - [Forza Motorsport looks and feels like Forza but with an RPG hiding under the hood](https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions)
  - [The best T-Mobile deals of October 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Tuft and Needle Nod Mattress Review: A Comfy Bed for Budget Shoppers     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-nod-mattress-review/#ftag=CAD590a51e)
- - [Purple Mattress Review: Comfortable, Unique Mattress for All Sleeping Positions     - CNET](https://www.cnet.com/health/sleep/purple-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple releases behind-the-scenes video of U2 in Las Vegas Sphere](https://appleinsider.com/articles/23/10/05/apple-releases-behind-the-scenes-video-of-u2-in-las-vegas-sphere?utm_medium=rss)
+ - [The best Google Pixel 8 alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/best-google-pixel-8-alternatives-3371156/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
  - 😝 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 😝 [Turns out the accident happened in Italy involving a Lamborghini was caused by an Indian billionaire. 2 deaths reported. Will he serve jail time for double homicide or just pay a fine and leave safely back to India ? Will see...](http://9gag.com/gag/ap9XBvM)
- - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
+ - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
 
 ---
 

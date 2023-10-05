@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 😝 [Hol up](http://9gag.com/gag/avQVP0n)
  - 😝 [Me, Me, Me, Me\u2018 she doesn\u2018t want to know what he wants, it\u2018s all about her](http://9gag.com/gag/abvob5p)
  - 💣 [Perfect timing](http://9gag.com/gag/anz3BpV)
- - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 👉 [These two men pulled people out of a burning bus in Venice, saving many lives.](http://9gag.com/gag/axo8GqL)<!-- MEMES:END -->
+ - 😝 [These two men pulled people out of a burning bus in Venice, saving many lives.](http://9gag.com/gag/axo8GqL)
+ - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
 
 ---
 

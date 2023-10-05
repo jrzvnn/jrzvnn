@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Found the long version](http://9gag.com/gag/aKEyPgW)
  - 😝 [Gabe Newell has become the Marcus Aurelius of the gaming industry.](http://9gag.com/gag/abvo0QE)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
- - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
+ - 💣 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 😝 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
+ - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
 
 ---
 

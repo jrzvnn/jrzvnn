@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol up](http://9gag.com/gag/avQVP0n)
- - 😝 [Me, Me, Me, Me\u2018 she doesn\u2018t want to know what he wants, it\u2018s all about her](http://9gag.com/gag/abvob5p)
- - 💣 [Perfect timing](http://9gag.com/gag/anz3BpV)
- - 😝 [These two men pulled people out of a burning bus in Venice, saving many lives.](http://9gag.com/gag/axo8GqL)
- - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
+ - 😝 [Polite man](http://9gag.com/gag/az2zb2N)
+ - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 💣 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
 

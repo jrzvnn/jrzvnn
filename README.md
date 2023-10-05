@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was todays years old when I found out](http://9gag.com/gag/aVb8PXK)
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 💣 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 😝 [Gabe Newell has become the Marcus Aurelius of the gaming industry.](http://9gag.com/gag/abvo0QE)
+ - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 💣 [Put in `training and knowledge transfer` in excel and manager agreed with a warning](http://9gag.com/gag/ajVj6ox)
  - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
+ - 👉 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)<!-- MEMES:END -->
 
 ---
 

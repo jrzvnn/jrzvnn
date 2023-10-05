@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with the Google Pixel Watch 2: Does the power lie inside?](https://www.androidauthority.com/google-pixel-watch-2-hand-on-3372047/)
  - [Berlin-based Habyt, an Airbnb-style service aimed at longer stays and &quot;flexible living&quot;, raised a &amp;euro;40M Series C and claims ~30K rental units across ~50 cities &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231004/p41#a231004p41)
  - [Taiwanese authorities plan to investigate four local companies that are reportedly assisting Huawei in establishing chipmaking infrastructure in southern China &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/231004/p40#a231004p40)
  - [DuckDuckGo could have been Apple&#39;s private search engine](https://appleinsider.com/articles/23/10/05/duckduckgo-could-have-been-apples-private-search-engine?utm_medium=rss)
- - [Gas station convenience stores might survive the EV future with help from these chargers](https://www.theverge.com/2023/10/4/23903815/electric-era-ev-charging-stations-gas-convenience-stores)
- - [Former Ubisoft Execs Detained as Part of Harassment Investigation](https://www.wired.com/story/ubisoft-arrest-harassment-tommy-francois-serge-hascoet/)<!-- TECH:END -->
+ - [Gas station convenience stores might survive the EV future with help from these chargers](https://www.theverge.com/2023/10/4/23903815/electric-era-ev-charging-stations-gas-convenience-stores)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Watch 2 vs Samsung Galaxy Watch 6: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-6-3371074/)
+ - [Messari: funding to crypto companies fell to ~$2.1B in Q3 2023, across 297 deals, the lowest since Q4 2020, after a peak of ~$17.5B across 900+ deals in Q1 2022 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/231005/p18#a231005p18)
+ - [Samsung just turned its soundbar into a SmartThings hub](https://www.theverge.com/2023/10/5/23904754/samsung-sdc23-soundbar-smartthings-smart-home-hub)
  - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [Best Internet Providers in Santa Fe, New Mexico     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)
- - [Filing: UK chip startup Graphcore says it needs funds to continue as a &quot;going concern&quot; after 2022 revenue fell 46% and pretax losses grew 11% YoY to $204.6M &lpar;Jamie Nimmo/Bloomberg&rpar;](http://www.techmeme.com/231005/p17#a231005p17)
- - [Woman named Siri had to change her name because of iOS 17](https://appleinsider.com/articles/23/10/05/woman-named-siri-has-had-to-change-her-name-since-ios-17?utm_medium=rss)
- - [Microsoft rolls out a new version of Microsoft Teams that has been rebuilt from the ground up to be less resource-hungry on Windows and Mac &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231005/p16#a231005p16)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Fe, New Mexico     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-fe-nm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

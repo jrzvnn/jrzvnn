@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/aKEygqO)
- - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 😝 [Money doesn&#39;t matter](http://9gag.com/gag/aBdMQxO)
+ - 😝 [Normality is settling back again.](http://9gag.com/gag/aQEKnn2)
+ - 💣 [I think he&#39;s gonna kill himself with 3 shots on his back](http://9gag.com/gag/aqeO297)
+ - 😝 [Doing childhood right](http://9gag.com/gag/a5XAKeq)
  - 👉 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)<!-- MEMES:END -->
 
 ---

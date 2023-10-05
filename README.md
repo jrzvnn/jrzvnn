@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada isn’t trying to silence podcasters](https://www.theverge.com/2023/10/5/23905644/canada-podcast-platform-registration-requirement)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Sony has notified ~6,800 US individuals, including current and former employees and their family members, about a MOVEit Transfer data breach that affected them &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231005/p27#a231005p27)
  - [Source: Flexport plans to lay off up to 30% of its workforce around the end of October, after cutting about 20% of its global workforce in January 2023 &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231005/p26#a231005p26)
- - [Early October Prime Day 2023 iPad deals: Apple Pencil &amp; iPads from $89](https://appleinsider.com/articles/23/10/05/early-october-prime-day-2023-ipad-deals-apple-pencil-ipads-from-89?utm_medium=rss)
- - [Source: Meta is paying several creators millions of dollars over multiple years for nonexclusive use of their likeness in its AI chatbots &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/231005/p25#a231005p25)
- - [Sony confirms server security breaches that exposed employee data](https://www.theverge.com/2023/10/5/23905370/sony-interactive-entertainment-security-breach-confirmation)
- - [Q&amp;A with OpenAI CTO Mira Murati about joining OpenAI, copyright challenges, AI regulation, competition, safety challenges, DALL-E 3, the future of AI, and more &lpar;Fortune&rpar;](http://www.techmeme.com/231005/p24#a231005p24)<!-- TECH:END -->
+ - [Early October Prime Day 2023 iPad deals: Apple Pencil &amp; iPads from $89](https://appleinsider.com/articles/23/10/05/early-october-prime-day-2023-ipad-deals-apple-pencil-ipads-from-89?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

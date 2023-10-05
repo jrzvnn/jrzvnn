@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Totally Killer is, like, such a fun slasher movie](https://www.theverge.com/23900347/totally-killer-review-amazon-prime-video)
- - [&#39;Masters of the Air&#39; WWII miniseries set to debut on Apple TV+ in January](https://appleinsider.com/articles/23/10/05/masters-of-the-air-wwii-miniseries-set-to-debut-on-apple-tv-in-january?utm_medium=rss)
- - [US v. Google: in 2018 and 2019, DuckDuckGo discussed becoming Safari&#39;s default search engine for private mode, but Apple&#39;s John Giannandrea rejected the idea &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231005/p11#a231005p11)
- - [Displace came up with a landing gear safety system for its totally wireless TV](https://www.theverge.com/2023/10/5/23901655/displace-wireless-tv-landing-gear)
- - [Taylor Lorenz on her extremely online history of the internet](https://www.theverge.com/23903601/taylor-lorenz-interview-extremely-online-book)<!-- TECH:END -->
+ - [The best Google Pixel 8 cases to keep your phone safe and stylish](https://www.androidauthority.com/best-google-pixel-8-cases-3371642/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Sony’s high-bitrate movie service is now available on PS5 and PS4](https://www.theverge.com/2023/10/5/23904557/sony-pictures-core-now-available-ps5-ps4-ps-plus)
+ - [Getty Images CEO Craig Peters has a plan to defend photography from AI](https://www.theverge.com/23903700/getty-images-craig-peters-generative-ai-images-disinformation-payment)
+ - [8 Best TV Streaming Devices for 4K, HD &lpar;2023&rpar;: Roku vs. Fire TV vs. Apple TV vs. Google](https://www.wired.com/gallery/best-4k-streaming-devices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

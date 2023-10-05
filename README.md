@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord&#39;s latest update broke it on macOS -- here&#39;s how to fix it](https://appleinsider.com/inside/macos-ventura/tips/discords-latest-update-broke-it-on-macos----heres-how-to-fix-it?utm_medium=rss)
  - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
  - [A look at the impact of Shein and Temu on China&#39;s exports; government data shows exports via e-commerce grew 19.9% YoY in H1 2023, while overall exports fell &lpar;South China Morning Post&rpar;](http://www.techmeme.com/231005/p19#a231005p19)
  - [Everybody&#39;s Talking About the Wrong Sam Bankman-Fried Book](https://www.wired.com/story/sam-bankman-fried-ftx-trial-going-infinite-number-go-up/)
- - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)
- - [12 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watches, and Legos](https://www.wired.com/story/target-circle-week-deals-october-2023-1/)<!-- TECH:END -->
+ - [Here’s the first proof a refreshed Steam Deck is nigh](https://www.theverge.com/2023/10/5/23904795/steam-deck-1030-fcc-certification-6ghz-wifi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

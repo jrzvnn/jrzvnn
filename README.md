@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms the Pixel 8 series will get 7 years of spare parts](https://www.androidauthority.com/google-pixel-8-series-spare-parts-7-years-3372278/)
  - [The best Google Pixel 8 chargers you can get](https://www.androidauthority.com/best-google-pixel-8-chargers-3371389/)
  - [October 2023 Android security patch is here for Google Pixel devices](https://www.androidauthority.com/october-2023-android-security-patch-3372270/)
  - [Galaxy SmartTag2 launched: A more durable, longer lasting tracker](https://www.androidauthority.com/samsung-galaxy-smarttag2-3372261/)
- - [A TSMC exec says the Arizona fab will not be &quot;as profitable as our Taiwan fabs&quot;, amid construction and labor challenges and the lack of EUV expertise in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p4#a231005p4)
- - [How to Watch the 2023 Cricket World Cup Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-2023-cricket-world-cup-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A TSMC exec says the Arizona fab will not be &quot;as profitable as our Taiwan fabs&quot;, amid construction and labor challenges and the lack of EUV expertise in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/231005/p4#a231005p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

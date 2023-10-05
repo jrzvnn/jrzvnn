@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The iRacing team is making a NASCAR racing sim for consoles](https://www.theverge.com/2023/10/5/23905123/iracing-nascar-racing-sim-consoles-playstation-xbox-nintendo-switch)
  - [How Nvidia, Intel, and Qualcomm are pushing back against White House plans to extend its crackdown on the sale of semiconductor technology to China &lpar;New York Times&rpar;](http://www.techmeme.com/231005/p21#a231005p21)
  - [Epic is changing Unreal Engine’s pricing for non-game developers](https://www.theverge.com/2023/10/5/23905082/epic-unreal-engine-pricing-change-film-automotive)
- - [We built the $150 Xbox 360 made of Lego-like Mega bricks](https://www.theverge.com/23904110/xbox-360-mega-bloks-target-review)
- - [Lucid’s under-$80,000 base Air Pure EV is now available to order](https://www.theverge.com/2023/10/5/23904566/lucid-air-pure-rwd-electric-car-entry-base-price-availability)<!-- TECH:END -->
+ - [Best Monitor Deals: Find Big Savings From 27-Inch Fhd to 32-Inch 4K Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
+ - [Ring Offers $1 Million if You Spot an Alien on Your Doorbell Camera     - CNET](https://www.cnet.com/home/security/ring-devices-offer-1-million-if-you-spot-an-alien-on-your-doorbell-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

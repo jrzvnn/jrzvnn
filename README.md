@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Halloween costume is wild!](http://9gag.com/gag/a9qeMBm)
- - 😝 [There is something fascinating about the way they dance.](http://9gag.com/gag/aQEK4ew)
- - 💣 [Well well well](http://9gag.com/gag/aKEygqO)
- - 😝 [Make it a double](http://9gag.com/gag/a8q9bDZ)
- - 👉 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)<!-- MEMES:END -->
+ - 😝 [\u25ab\ufe0f](http://9gag.com/gag/ay2A5qV)
+ - 😝 [Sometimes joke writes itself](http://9gag.com/gag/amAyNn2)
+ - 💣 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 😝 [Its back!](http://9gag.com/gag/aYVBbQq)
+ - 👉 [Well well well](http://9gag.com/gag/aKEygqO)<!-- MEMES:END -->
 
 ---
 

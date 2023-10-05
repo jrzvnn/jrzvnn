@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
  - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
  - 💣 [Its back!](http://9gag.com/gag/aYVBbQq)
- - 😝 [My new job. This is literally all I do.](http://9gag.com/gag/arm04ZB)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 👉 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)<!-- MEMES:END -->
 
 ---
 

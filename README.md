@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloud software company Blackbaud reaches a $49.5M agreement with AGs from 49 US states to settle a probe into a May 2020 ransomware attack and data breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231006/p18#a231006p18)
  - [Second time’s the charm? OnePlus may launch new smartwatch next year](https://www.androidauthority.com/oneplus-watch-launch-window-3373197/)
  - [Source: Microsoft plans to unveil its first chip for data centers that train and run LLMs at its developers&#39; conference in November &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231006/p17#a231006p17)
  - [The BBC is blocking OpenAI data scraping but is open to AI-powered journalism](https://www.theverge.com/2023/10/6/23906645/bbc-generative-ai-news-openai)
- - [Podcasting’s fallout continues](https://www.theverge.com/2023/10/6/23906685/podcast-fallout-wnyc-pushkin-spotify-amazon-amp-kelce-swift)
- - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)<!-- TECH:END -->
+ - [Podcasting’s fallout continues](https://www.theverge.com/2023/10/6/23906685/podcast-fallout-wnyc-pushkin-spotify-amazon-amp-kelce-swift)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

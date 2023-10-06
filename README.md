@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better in this way](http://9gag.com/gag/aNwXWqv)
- - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [She got fired](http://9gag.com/gag/a6qzQZA)
+ - 💣 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

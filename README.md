@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
- - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
+ - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
 
 ---
 

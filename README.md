@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Was Sam Bankman-Fried’s bean bag chair a lie too?](https://www.theverge.com/2023/10/5/23905665/sam-bankman-fried-fraud-trial-wang-yedidia-testimony)
+ - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)
  - [Canada isn’t trying to silence podcasters](https://www.theverge.com/2023/10/5/23905644/canada-podcast-platform-registration-requirement)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sony has notified ~6,800 US individuals, including current and former employees and their family members, about a MOVEit Transfer data breach that affected them &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231005/p27#a231005p27)
- - [Source: Flexport plans to lay off up to 30% of its workforce around the end of October, after cutting about 20% of its global workforce in January 2023 &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231005/p26#a231005p26)
- - [Early October Prime Day 2023 iPad deals: Apple Pencil &amp; iPads from $89](https://appleinsider.com/articles/23/10/05/early-october-prime-day-2023-ipad-deals-apple-pencil-ipads-from-89?utm_medium=rss)<!-- TECH:END -->
+ - [Sony has notified ~6,800 US individuals, including current and former employees and their family members, about a MOVEit Transfer data breach that affected them &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231005/p27#a231005p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

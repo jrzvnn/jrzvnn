@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will there be a season 4 of Ted Lasso?](https://www.androidauthority.com/will-there-be-a-season-4-of-ted-lasso-3372862/)
  - [Source: Microsoft plans to close its $68.7B Activision acquisition on October 13, with a final decision from UK&#39;s CMA allowing the deal expected next week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231006/p4#a231006p4)
  - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)
  - [Google’s Magnifier accessibility app is ready for download to Pixel phones](https://www.theverge.com/2023/10/6/23905966/google-pixel-magnifier-accessibility-app-zoom-release-date)
- - [Microsoft Office Home &amp; Business 2021 for Mac dips to $32.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)
- - [White House urges the FCC to adopt strong rules next month to address &quot;digital discrimination&quot; in some communities as some ISPs warn against tough regulation &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231006/p3#a231006p3)<!-- TECH:END -->
+ - [Microsoft Office Home &amp; Business 2021 for Mac dips to $32.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

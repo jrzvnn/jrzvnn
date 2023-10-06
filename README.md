@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They never had a chance](http://9gag.com/gag/aBdMwKD)
- - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
- - 💣 [Well I mean... It&#39;s biblical](http://9gag.com/gag/aeQEGQj)
- - 😝 [The girl&#39;s happiness is priceless, faith in humanity restored.](http://9gag.com/gag/agobGLr)
+ - 😝 [Better in this way](http://9gag.com/gag/aNwXWqv)
+ - 😝 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
+ - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

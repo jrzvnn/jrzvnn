@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Sales teams at Google, Twilio, and others say they have seen productivity spike after using ChatGPT-like tools to respond to prospective customers&#39; proposals &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231006/p19#a231006p19)
  - [Today the FTX jury suffered through a code review](https://www.theverge.com/2023/10/6/23906899/ftx-alameda-sam-bankman-fried-trial-gary-wang-testimony)
  - [Samsung Galaxy Tab S7 FE vs Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-vs-galaxy-tab-s9-fe-should-you-upgrade-3373076/)
- - [23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews](https://www.wired.com/story/23andme-credential-stuffing-data-stolen/)
- - [Best Gaming PC Deals: Big Savings on Desktops With RTX 4080 and RTX 3080     - CNET](https://www.cnet.com/deals/best-gaming-pc-deals/#ftag=CAD590a51e)
- - [Tuft and Needle Nod Mattress Review: A Comfy Bed for Budget Shoppers     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-nod-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews](https://www.wired.com/story/23andme-credential-stuffing-data-stolen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

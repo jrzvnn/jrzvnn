@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 💣 [Hol up](http://9gag.com/gag/aNwXnK0)
- - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
+ - 😝 [WTF Dude](http://9gag.com/gag/aBdM1wQ)
+ - 😝 [Dogs in adoption](http://9gag.com/gag/anz3XqB)
+ - 💣 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
 
 ---
 

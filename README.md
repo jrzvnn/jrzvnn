@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud software company Blackbaud reaches a $49.5M agreement with AGs from 49 US states to settle a probe into a May 2020 ransomware attack and data breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231006/p18#a231006p18)
- - [Second time’s the charm? OnePlus may launch new smartwatch next year](https://www.androidauthority.com/oneplus-watch-launch-window-3373197/)
- - [Source: Microsoft plans to unveil its first chip for data centers that train and run LLMs at its developers&#39; conference in November &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231006/p17#a231006p17)
- - [Best Laptop of 2023     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
- - [The BBC is blocking OpenAI data scraping but is open to AI-powered journalism](https://www.theverge.com/2023/10/6/23906645/bbc-generative-ai-news-openai)<!-- TECH:END -->
+ - [Best Gaming PC Deals: Big Savings on Desktops With RTX 4080 and RTX 3080     - CNET](https://www.cnet.com/deals/best-gaming-pc-deals/#ftag=CAD590a51e)
+ - [Tuft and Needle Nod Mattress Review: A Comfy Bed for Budget Shoppers     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-nod-mattress-review/#ftag=CAD590a51e)
+ - [Lucid Mattress Review: An Affordable Amazon Choice Mattress     - CNET](https://www.cnet.com/health/sleep/lucid-mattress-review-the-affordable-amazon-choice-mattress/#ftag=CAD590a51e)
+ - [Best Internet Providers in Syracuse, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-syracuse-ny/#ftag=CAD590a51e)
+ - [Purple Mattress Review: Comfortable, Unique Mattress for All Sleeping Positions     - CNET](https://www.cnet.com/health/sleep/purple-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

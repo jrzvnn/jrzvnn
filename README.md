@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish my dad was this cool...](http://9gag.com/gag/a04Gd7B)
- - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
- - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 😝 [Meanwhile, in France](http://9gag.com/gag/amAyrm6)
- - 👉 [Tight](http://9gag.com/gag/aL13MO5)<!-- MEMES:END -->
+ - 😝 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
+ - 😝 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
+ - 💣 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
 
 ---
 

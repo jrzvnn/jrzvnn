@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 😝 [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)
  - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
  - 💣 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)
  - 😝 [Never deny your past](http://9gag.com/gag/a04GdPn)

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 6: AirPods 3 for $120, Mac mini for $533, Apple Magic Keyboard with Numeric Keypad $97, more](https://appleinsider.com/articles/23/10/06/daily-deals-oct-6-airpods-3-for-120-mac-mini-for-533-apple-magic-keyboard-with-numeric-keypad-97-more?utm_medium=rss)
+ - [&#39;A Galactic Embarrassment&#39;: The Crypto World Is Already Sick of SBF&#39;s Trial](https://www.wired.com/story/galactic-embarrassment-crypto-world-is-already-sick-of-sbf-trial/)
+ - [25 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-3/)
  - [Meet the Next Generation of Doctors—and Their Surgical Robots](https://www.wired.com/story/next-generation-doctors-surgical-robots/)
- - [Secret Service and government agencies illegally used smartphone location data](https://appleinsider.com/articles/23/10/06/secret-service-and-government-agencies-illegally-used-smartphone-location-data?utm_medium=rss)
- - [Samsung Galaxy S24 series rumors: Expected release date, all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
- - [Source: MGM Resorts refused to pay hackers&#39; ransom in the September cyberattack; filing: MGM says the hack will have a $100M negative impact on its Q3 earnings &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/231006/p8#a231006p8)
- - [The best Google Pixel 8 Pro cases you can buy at launch](https://www.androidauthority.com/best-google-pixel-8-pro-cases-3372895/)<!-- TECH:END -->
+ - [Secret Service and government agencies illegally used smartphone location data](https://appleinsider.com/articles/23/10/06/secret-service-and-government-agencies-illegally-used-smartphone-location-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

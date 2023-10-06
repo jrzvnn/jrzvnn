@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early deals from Amazon’s October Prime Day event](https://www.theverge.com/23901327/amazon-october-prime-day-best-early-deals-tech-echo-speakers-fire-tvs-2023)
  - [23andMe confirms that it is aware of user data from its platform circulating on hacker forums and attributes the leak to a credential-stuffing attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231006/p12#a231006p12)
  - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
  - [Amazon has Apple Watch models on sale for as low as $219.99 ahead of Fall Prime Day](https://appleinsider.com/articles/23/10/06/amazon-has-apple-watch-models-on-sale-for-as-low-as-21999-ahead-of-fall-prime-day?utm_medium=rss)
- - [THORSwap moves to a &quot;maintenance mode&quot; after criminals linked to the FTX hack last year used the decentralized exchange to swap $38M worth of ether for bitcoin &lpar;Tim Craig/DL News&rpar;](http://www.techmeme.com/231006/p11#a231006p11)
- - [The best Google Pixel deals of October 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [THORSwap moves to a &quot;maintenance mode&quot; after criminals linked to the FTX hack last year used the decentralized exchange to swap $38M worth of ether for bitcoin &lpar;Tim Craig/DL News&rpar;](http://www.techmeme.com/231006/p11#a231006p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

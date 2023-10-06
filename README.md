@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
- - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
- - 😝 [She got fired](http://9gag.com/gag/a6qzQZA)
+ - 😝 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)
+ - 😝 [You betrayed me](http://9gag.com/gag/a9qe7R6)
+ - 💣 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
+ - 😝 [Well I mean... It&#39;s biblical](http://9gag.com/gag/aeQEGQj)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

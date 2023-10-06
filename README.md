@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 💣 [WTF Dude](http://9gag.com/gag/aBdM1wQ)
  - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 👉 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)<!-- MEMES:END -->
+ - 👉 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)<!-- MEMES:END -->
 
 ---
 

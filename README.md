@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPhone 15 teardown gets into microscopic detail](https://appleinsider.com/articles/23/10/06/new-iphone-15-teardown-gets-into-microscopic-detail?utm_medium=rss)
+ - [THORSwap moves to &quot;maintenance mode&quot; after criminals linked to the FTX hack in 2022 used the decentralized exchange to convert $38M worth of ether to bitcoin &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/231006/p14#a231006p14)
+ - [India asks X, YouTube, and Telegram to remove CSAM from their services, warning that they could be stripped of protection from legal liability for not complying &lpar;Shilpa Jamkhandikar/Reuters&rpar;](http://www.techmeme.com/231006/p13#a231006p13)
  - [The best early deals from Amazon’s October Prime Day event](https://www.theverge.com/23901327/amazon-october-prime-day-best-early-deals-tech-echo-speakers-fire-tvs-2023)
- - [23andMe confirms that it is aware of user data from its platform circulating on hacker forums and attributes the leak to a credential-stuffing attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231006/p12#a231006p12)
- - [How to master the camera app on iPhone 15 Pro &amp; iPhone 15 Pro Max](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-master-the-camera-app-on-iphone-15-pro-iphone-15-pro-max?utm_medium=rss)
- - [Amazon has Apple Watch models on sale for as low as $219.99 ahead of Fall Prime Day](https://appleinsider.com/articles/23/10/06/amazon-has-apple-watch-models-on-sale-for-as-low-as-21999-ahead-of-fall-prime-day?utm_medium=rss)
- - [THORSwap moves to a &quot;maintenance mode&quot; after criminals linked to the FTX hack last year used the decentralized exchange to swap $38M worth of ether for bitcoin &lpar;Tim Craig/DL News&rpar;](http://www.techmeme.com/231006/p11#a231006p11)<!-- TECH:END -->
+ - [23andMe says the genetics company is aware of user data from its platform circulating on hacker forums and attributes the leak to a credential-stuffing attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231006/p12#a231006p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set a browser for private searching in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-a-browser-for-private-searching-in-ios-17?utm_medium=rss)
+ - [Google’s seven-year Pixel update promise is historic — or meaningless](https://www.theverge.com/23904092/google-pixel-update-seven-years-editorial)
+ - [The Pixel Watch 2’s switch to pin charging highlights wearable design challenges](https://www.theverge.com/2023/10/6/23906028/google-pixel-watch-2-wireless-charging-smartwatch)
  - [How to use the new Messages features in iOS 17](https://www.theverge.com/23906072/apple-ios-17-iphone-messages-how-to)
- - [Samsung’s Galaxy Ring may come in four sizes and launch with Galaxy Z Fold 6](https://www.androidauthority.com/galaxy-ring-sizes-3373060/)
- - [Microsoft launches new web app store for Windows](https://www.theverge.com/2023/10/6/23906082/microsoft-windows-app-store-web-version-launch)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Daily deals Oct. 6: AirPods 3 for $120, Mac mini for $533, Apple Magic Keyboard with Numeric Keypad $97, more](https://appleinsider.com/articles/23/10/06/daily-deals-oct-6-airpods-3-for-120-mac-mini-for-533-apple-magic-keyboard-with-numeric-keypad-97-more?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy Ring may come in four sizes and launch with Galaxy Z Fold 6](https://www.androidauthority.com/galaxy-ring-sizes-3373060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

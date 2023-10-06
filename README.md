@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)
- - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 💣 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
- - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 💣 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
+ - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---
 

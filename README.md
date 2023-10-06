@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X is testing new paid membership tiers to compensate for poor ad revenue](https://www.theverge.com/2023/10/6/23906000/x-twitter-new-paid-membership-tiers-ad-revenue)
- - [Google Pixel 7 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7-vs-pixel-8-3371573/)
- - [Elliptic: total value of crypto laundered via decentralized exchanges, bridges, and coin swaps hits $7B; Lazarus Group was the top culprit, laundering $900M+ &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231006/p6#a231006p6)
- - [Save $65 on Google’s Pixel Buds Pro ahead of their big software updates](https://www.theverge.com/2023/10/6/23904491/google-pixel-buds-pro-nest-doorbell-floodlight-apple-watch-se-deal-sale)
- - [How to use screen sharing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-screen-sharing-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: Binance transferred just ~10.78M BNB tokens in its 2017 ICO vs. the 100M earmarked, and quietly gave angel investors 40M BNBs, double their allocation &lpar;Javier Paz/Forbes&rpar;](http://www.techmeme.com/231006/p7#a231006p7)
+ - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
+ - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [The Truth About the Taylor Swift, Jets Game, Google Search Conspiracy Theory](https://www.wired.com/story/taylor-swift-jets-travis-kelce-theory-google-seo/)
+ - [X is testing new paid membership tiers to compensate for poor ad revenue](https://www.theverge.com/2023/10/6/23906000/x-twitter-new-paid-membership-tiers-ad-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 💣 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
  - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 

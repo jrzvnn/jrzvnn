@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 👉 [Everyday where I live](http://9gag.com/gag/aGEqDAw)<!-- MEMES:END -->
+ - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 💣 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 👉 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)<!-- MEMES:END -->
 
 ---
 

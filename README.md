@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tested: Does iOS 17.0.3 stop the iPhone 15 Pro overheating?](https://www.androidauthority.com/iphone-15-overheating-hotfix-tested-3372421/)
  - [How to Set Up a Mattress You Bought Online &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-a-mattress/)
  - [Epic Games’ Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo](https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/)
  - [What Do We Owe the Octopus?](https://www.wired.com/story/what-do-we-owe-the-octopus/)
- - [14 Best Coffee Grinders &lpar;2023&rpar;: Conical-Burr, Flat-Burr, Manual, Blade](https://www.wired.com/gallery/best-coffee-grinders/)
- - [Why Everyone Is Talking About ‘Dicks’](https://www.wired.com/story/dicks-the-musical-a24-hollywood-strike/)<!-- TECH:END -->
+ - [14 Best Coffee Grinders &lpar;2023&rpar;: Conical-Burr, Flat-Burr, Manual, Blade](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

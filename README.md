@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is testing new paid membership tiers to compensate for poor ad revenue](https://www.theverge.com/2023/10/6/23906000/x-twitter-new-paid-membership-tiers-ad-revenue)
  - [Google Pixel 7 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7-vs-pixel-8-3371573/)
  - [Elliptic: total value of crypto laundered via decentralized exchanges, bridges, and coin swaps hits $7B; Lazarus Group was the top culprit, laundering $900M+ &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231006/p6#a231006p6)
  - [Save $65 on Google’s Pixel Buds Pro ahead of their big software updates](https://www.theverge.com/2023/10/6/23904491/google-pixel-buds-pro-nest-doorbell-floodlight-apple-watch-se-deal-sale)
- - [How to use screen sharing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-screen-sharing-in-macos-sonoma?utm_medium=rss)
- - [Hiking with Apple Watch Ultra 2 &amp; zooming with iPhone 15 Pro Max on the AppleInsider podcast](https://appleinsider.com/articles/23/10/06/hiking-with-apple-watch-ultra-2-zooming-with-iphone-15-pro-max-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [How to use screen sharing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-screen-sharing-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

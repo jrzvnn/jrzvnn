@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
- - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 💣 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 😝 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
+ - 💣 [She got fired](http://9gag.com/gag/a6qzQZA)
+ - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

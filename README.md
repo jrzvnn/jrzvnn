@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
- - 😝 [WTF Dude](http://9gag.com/gag/aBdM1wQ)
- - 💣 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
- - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
+ - 😝 [What are best friends for](http://9gag.com/gag/a6qzLg9)
+ - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 💣 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)
+ - 😝 [One of the most important character traits a man can possess is moral integrity. Integrity is what you do when no one is watching](http://9gag.com/gag/aeQEG95)
+ - 👉 [You betrayed me](http://9gag.com/gag/a9qe7R6)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [U2’s The Edge on The Sphere’s Opening Night: ‘This Is Definitely Working’](https://www.wired.com/story/u2-the-sphere-las-vegas-the-edge-interview/)
- - [Yuga Labs, the creator of Bored Ape Yacht Club NFTs, announces that it has restructured and laid off some staffers in the US &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231006/p10#a231006p10)
- - [The Las Vegas Sphere Makes Virtual Reality a Full-Body Experience](https://www.wired.com/story/plaintext-the-las-vegas-sphere-makes-virtual-reality-a-full-body-experience/)
- - [Castlevania: Nocturne is coming back for a second season](https://www.theverge.com/23906342/castlevania-nocturne-season-2)
- - [How to use Visual Look Up to identify laundry symbols in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-visual-look-up-to-identify-laundry-symbols-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy Z Fold 5 gets the One UI 6 beta, no word on the Flip 5](https://www.androidauthority.com/galaxy-z-fold-5-one-ui-6-beta-3373150/)
+ - [Play Jeopardy Whenever, Wherever With This Apple Arcade Title     - CNET](https://www.cnet.com/tech/mobile/play-jeopardy-whenever-wherever-with-this-apple-arcade-title/#ftag=CAD590a51e)
+ - [Google Assistant With Bard Puts an AI Chatbot in Your iPhone or Android     - CNET](https://www.cnet.com/tech/services-and-software/google-assistant-with-bard-puts-an-ai-chatbot-in-your-iphone-or-android/#ftag=CAD590a51e)
+ - [The QVC Deal Drop Is the Early Black Friday Sale You Won&#39;t Want to Miss     - CNET](https://www.cnet.com/deals/the-qvc-deal-drop-is-the-early-black-friday-sale-you-wont-want-to-miss/#ftag=CAD590a51e)
+ - [U2’s The Edge on The Sphere’s Opening Night: ‘This Is Definitely Working’](https://www.wired.com/story/u2-the-sphere-las-vegas-the-edge-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

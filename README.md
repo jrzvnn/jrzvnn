@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
- - 💣 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
- - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 👉 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 💣 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)
+ - 😝 [Never deny your past](http://9gag.com/gag/a04GdPn)
+ - 👉 [Meanwhile, in France](http://9gag.com/gag/amAyrm6)<!-- MEMES:END -->
 
 ---
 

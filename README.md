@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Second time’s the charm? OnePlus may launch new smartwatch next year](https://www.androidauthority.com/oneplus-watch-launch-window-3373197/)
+ - [Source: Microsoft plans to unveil its first chip for data centers that train and run LLMs at its developers&#39; conference in November &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/231006/p17#a231006p17)
  - [The BBC is blocking OpenAI data scraping but is open to AI-powered journalism](https://www.theverge.com/2023/10/6/23906645/bbc-generative-ai-news-openai)
  - [Podcasting’s fallout continues](https://www.theverge.com/2023/10/6/23906685/podcast-fallout-wnyc-pushkin-spotify-amazon-amp-kelce-swift)
- - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)
- - [Celebrate Spooky Season With These Upcoming Titles on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/celebrate-spooky-season-with-these-upcoming-titles-on-netflix-games/#ftag=CAD590a51e)
- - [X appears to be rolling out a new mobile ad format that can&#39;t be reported or blocked, lacks an ad label and user profile, and doesn&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)<!-- TECH:END -->
+ - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 💣 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 💣 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
+ - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

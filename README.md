@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [I wish my dad was this cool...](http://9gag.com/gag/a04Gd7B)
  - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
  - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
- - 👉 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)<!-- MEMES:END -->
+ - 😝 [Meanwhile, in France](http://9gag.com/gag/amAyrm6)
+ - 👉 [Tight](http://9gag.com/gag/aL13MO5)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
- - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 💣 [Found the long version](http://9gag.com/gag/aKEyPgW)
+ - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
+ - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 💣 [Coochie Monster](http://9gag.com/gag/amAy99d)
  - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 👉 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)<!-- MEMES:END -->
+ - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
 
 ---
 

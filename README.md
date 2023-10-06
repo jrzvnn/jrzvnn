@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 😝 [One of the most important character traits a man can possess is moral integrity. Integrity is what you do when no one is watching](http://9gag.com/gag/aeQEG95)
- - 💣 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)
- - 😝 [You betrayed me](http://9gag.com/gag/a9qe7R6)
+ - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
+ - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
+ - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 💣 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 👉 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)<!-- MEMES:END -->
+ - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 👉 [Everyday where I live](http://9gag.com/gag/aGEqDAw)<!-- MEMES:END -->
 
 ---
 

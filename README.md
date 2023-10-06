@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)
- - 😝 [You betrayed me](http://9gag.com/gag/a9qe7R6)
- - 💣 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
- - 😝 [Well I mean... It&#39;s biblical](http://9gag.com/gag/aeQEGQj)
+ - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
+ - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

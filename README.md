@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Yuga Labs, the creator of Bored Ape Yacht Club NFTs, announces that it has restructured and laid off some staffers in the US &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231006/p10#a231006p10)
  - [The Las Vegas Sphere Makes Virtual Reality a Full-Body Experience](https://www.wired.com/story/plaintext-the-las-vegas-sphere-makes-virtual-reality-a-full-body-experience/)
  - [Castlevania: Nocturne is coming back for a second season](https://www.theverge.com/23906342/castlevania-nocturne-season-2)
- - [UK&#39;s Information Commissioner&#39;s Office issues a preliminary enforcement notice to Snap about concerns that My AI chatbot may be a risk to children&#39;s privacy &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231006/p9#a231006p9)<!-- TECH:END -->
+ - [How to use Visual Look Up to identify laundry symbols in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-use-visual-look-up-to-identify-laundry-symbols-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

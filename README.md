@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
- - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
- - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 😝 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)
- - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
+ - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
+ - 💣 [Found the long version](http://9gag.com/gag/aKEyPgW)
+ - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 👉 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)<!-- MEMES:END -->
 
 ---
 

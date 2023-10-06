@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Facebook policy staff detail their experience with &quot;jawboning&quot;, or informal government efforts to persuade platforms to change their moderation policies &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/231006/p5#a231006p5)
- - [Tested: Does iOS 17.0.3 stop the iPhone 15 Pro overheating?](https://www.androidauthority.com/iphone-15-overheating-hotfix-tested-3372421/)
- - [How to Set Up a Mattress You Bought Online &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-a-mattress/)
- - [Epic Games’ Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo](https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/)
- - [What Do We Owe the Octopus?](https://www.wired.com/story/what-do-we-owe-the-octopus/)<!-- TECH:END -->
+ - [Microsoft Surface Laptop Go 3 Review: Higher Price, Fewer Incentives](https://www.wired.com/review/microsoft-surface-laptop-go-3/)
+ - [As Amazon Launches Project Kuiper, Astronomers Debate How to Fix a Satellite-Filled Sky](https://www.wired.com/story/as-amazon-launches-project-kuiper-astronomers-debate-how-to-fix-a-satellite-filled-sky/)
+ - [Sennheiser Profile Streaming Set Review: Pro Sound, Amateur Price](https://www.wired.com/review/sennheiser-profile-microphone-streaming-set/)
+ - [Graphcore Was the UK&#39;s AI Champion—Now It’s Scrambling to Stay Afloat](https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/)
+ - [Former Facebook policy staff detail their experience with &quot;jawboning&quot;, or informal government efforts to persuade platforms to change their moderation policies &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/231006/p5#a231006p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 8 launch was a parade of AI](https://www.theverge.com/2023/10/6/23905985/google-pixel-8-launch-artificial-intelligence-ai-hype-parade)
- - [Analysis: Binance transferred just ~10.78M BNB tokens in its 2017 ICO vs. the 100M earmarked, and quietly gave angel investors 40M BNBs, double their allocation &lpar;Javier Paz/Forbes&rpar;](http://www.techmeme.com/231006/p7#a231006p7)
- - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
- - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [The Truth About the Taylor Swift, Jets Game, Google Search Conspiracy Theory](https://www.wired.com/story/taylor-swift-jets-travis-kelce-theory-google-seo/)<!-- TECH:END -->
+ - [Galaxy S24 Exynos/Snapdragon country split is likely back with slight changes](https://www.androidauthority.com/samsung-galaxy-s24-exynos-snapdragon-3373053/)
+ - [Yale Assure Lock 2 review: almost perfect](https://www.theverge.com/23367464/yale-assure-lock-2-touchscreen-keypad-wifi-review)
+ - [11 Best Electric Kettles &lpar;2023&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
+ - [The Verge’s favorite tools to stay organized](https://www.theverge.com/23904502/organize-tools-journal-notes-apps)
+ - [Mark Hamill explains space in new video series for State Department](https://www.theverge.com/2023/10/6/23903477/mark-hamill-state-department-videos-iss-star-wars-luke-skywalker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

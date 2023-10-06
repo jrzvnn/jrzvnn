@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Report: the US DHS finds that ICE, CBP, and the Secret Service illegally used phone location data; a CBP official tracked coworkers for no investigative purpose &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231005/p31#a231005p31)
  - [Best Bar and Booze Gifts for a Home Mixologist     - CNET](https://www.cnet.com/news/best-bar-gifts/#ftag=CAD590a51e)
  - [FTX co-founder Gary Wang testifies that Alameda Research had &quot;special privileges&quot; that afforded a $65B line of credit, of which the firm ultimately withdrew $8B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231005/p30#a231005p30)
- - [Sources: OpenAI is exploring making its own AI chips and has evaluated a potential acquisition target, as Sam Altman makes acquiring more chips a top priority &lpar;Reuters&rpar;](http://www.techmeme.com/231005/p29#a231005p29)<!-- TECH:END -->
+ - [Sources: OpenAI is exploring making its own AI chips and has evaluated a potential acquisition target; Sam Altman made acquiring more AI chips a top priority &lpar;Reuters&rpar;](http://www.techmeme.com/231005/p29#a231005p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

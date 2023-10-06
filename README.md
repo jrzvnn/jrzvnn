@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She got fired](http://9gag.com/gag/a6qzQZA)
- - 😝 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)
+ - 😝 [Meanwhile, in France](http://9gag.com/gag/amAyrm6)
+ - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
  - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 👉 [Everyday where I live](http://9gag.com/gag/aGEqDAw)<!-- MEMES:END -->
+ - 😝 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)
+ - 👉 [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)<!-- MEMES:END -->
 
 ---
 

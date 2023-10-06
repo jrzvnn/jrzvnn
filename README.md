@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 14 yrs old boy opened fire at Siam Paragon in Bangkok, Thailand. 3 people died, \u201cI wanted to shoot people,\u201d he said.](http://9gag.com/gag/aPg04gV)
  - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 💣 [I thought these guys were supposed to be all zen and shit](http://9gag.com/gag/a2KV58w)
+ - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
+ - 💣 [She got fired](http://9gag.com/gag/a6qzQZA)
  - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
+ - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
 
 ---
 

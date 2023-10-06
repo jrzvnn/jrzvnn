@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 💣 [She got fired](http://9gag.com/gag/a6qzQZA)
- - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 👉 [I don&#39;t play basketball but is this considered a dick move? Any captain?](http://9gag.com/gag/aeQE3wQ)<!-- MEMES:END -->
+ - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
+ - 😝 [One of the most important character traits a man can possess is moral integrity. Integrity is what you do when no one is watching](http://9gag.com/gag/aeQEG95)
+ - 💣 [Attempt to not be impressed](http://9gag.com/gag/aPg0DKG)
+ - 😝 [You betrayed me](http://9gag.com/gag/a9qe7R6)
+ - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---
 

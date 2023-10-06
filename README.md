@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung reveals the chip that could power the Galaxy S24](https://www.androidauthority.com/samsung-exynos-2400-announced-3372890/)
  - [OnePlus Pad Go launched: A budget Android tablet with a lot to offer](https://www.androidauthority.com/oneplus-pad-go-price-specs-features-availability-3372896/)
  - [Q&amp;A with Getty Images&#39; Craig Peters on the company&#39;s generative AI tool, copyright issues, attribution for rights holders, deepfakes, disinformation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231006/p2#a231006p2)
  - [Silent Hill: Ascension premieres on Halloween](https://www.theverge.com/2023/10/6/23905933/silent-hill-ascension-release-date-october-31st-halloween)
- - [How many software updates will the Google Pixel 8 get?](https://www.androidauthority.com/google-pixel-8-software-update-policy-3372917/)
- - [PSA: The Pixel Watch 2 can’t use cases meant for the first-gen Pixel Watch](https://www.androidauthority.com/pixel-watch-2-incompatible-cases-3372876/)<!-- TECH:END -->
+ - [How many software updates will the Google Pixel 8 get?](https://www.androidauthority.com/google-pixel-8-software-update-policy-3372917/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

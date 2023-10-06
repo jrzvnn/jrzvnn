@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better in this way](http://9gag.com/gag/aNwXWqv)
- - 😝 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
- - 💣 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 😝 [Rip](http://9gag.com/gag/aeQE0gQ)
+ - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 💣 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 😝 [There&#39;s always an asian better than you\u00a0](http://9gag.com/gag/a1PnYbD)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

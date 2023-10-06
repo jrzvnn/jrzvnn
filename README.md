@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [U2’s The Edge on The Sphere’s Opening Night: ‘This Is Definitely Working’](https://www.wired.com/story/u2-the-sphere-las-vegas-the-edge-interview/)
+ - [Yuga Labs, the creator of Bored Ape Yacht Club NFTs, announces that it has restructured and laid off some staffers in the US &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231006/p10#a231006p10)
+ - [The Las Vegas Sphere Makes Virtual Reality a Full-Body Experience](https://www.wired.com/story/plaintext-the-las-vegas-sphere-makes-virtual-reality-a-full-body-experience/)
  - [Castlevania: Nocturne is coming back for a second season](https://www.theverge.com/23906342/castlevania-nocturne-season-2)
- - [UK&#39;s Information Commissioner&#39;s Office issues a preliminary enforcement notice to Snap about concerns that My AI chatbot may be a risk to children&#39;s privacy &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231006/p9#a231006p9)
- - [The 23 Best Advent Calendars You Can Buy in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
- - [EV buyers will get an instant rebate of as much as $7,500 starting in 2024](https://www.theverge.com/2023/10/6/23906238/ev-tax-credit-instant-rebate-dealership-irs-guidance)
- - [Nintendo to End Online Support for 3DS and Wii U Next Year. Here&#39;s What to Know     - CNET](https://www.cnet.com/tech/gaming/nintendo-to-end-online-support-for-3ds-and-wii-u-next-year-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK&#39;s Information Commissioner&#39;s Office issues a preliminary enforcement notice to Snap about concerns that My AI chatbot may be a risk to children&#39;s privacy &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231006/p9#a231006p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

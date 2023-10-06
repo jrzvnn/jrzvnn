@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Sources: OpenAI is exploring making its own AI chips and has evaluated a potential acquisition target, as Sam Altman makes acquiring more chips a top priority &lpar;Reuters&rpar;](http://www.techmeme.com/231005/p29#a231005p29)
  - [Source: Linda Yaccarino told the banks that helped fund Elon Musk&#39;s X takeover that X is testing three tiers of premium service that vary how many ads are shown &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/231005/p28#a231005p28)
  - [Was Sam Bankman-Fried’s bean bag chair a lie too?](https://www.theverge.com/2023/10/5/23905665/sam-bankman-fried-fraud-trial-wang-yedidia-testimony)
- - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)
- - [Canada isn’t trying to silence podcasters](https://www.theverge.com/2023/10/5/23905644/canada-podcast-platform-registration-requirement)<!-- TECH:END -->
+ - [Best Internet Providers in Juneau, Alaska     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-juneau-ak/#ftag=CAD590a51e)
+ - [Samsung Galaxy Tab A8 vs Samsung Galaxy Tab S9 FE: Should you upgrade?](https://www.androidauthority.com/samsung-galaxy-tab-a8-vs-samsung-galaxy-tab-s9-fe-should-you-upgrade-3372562/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

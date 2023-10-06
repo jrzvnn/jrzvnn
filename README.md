@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The BBC is blocking OpenAI data scraping but is open to AI-powered journalism](https://www.theverge.com/2023/10/6/23906645/bbc-generative-ai-news-openai)
+ - [Podcasting’s fallout continues](https://www.theverge.com/2023/10/6/23906685/podcast-fallout-wnyc-pushkin-spotify-amazon-amp-kelce-swift)
  - [The best price ever on Sharge’s transparent batteries and retro Mac chargers](https://www.theverge.com/2023/10/6/23906552/sharge-sharegeek-storm-retro-mac-sale-best-price)
  - [Celebrate Spooky Season With These Upcoming Titles on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/celebrate-spooky-season-with-these-upcoming-titles-on-netflix-games/#ftag=CAD590a51e)
- - [X appears to be rolling out a new mobile ad format that can&#39;t be reported or blocked, lacks an ad label and user profile, and doesn&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)
- - [Best Gifts Under $500 for 2023     - CNET](https://www.cnet.com/tech/best-gifts-under-500/#ftag=CAD590a51e)
- - [Amazon updates its Luna cloud gaming service to let users buy individual games, starting with select Ubisoft titles; users must first link their Ubisoft account &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231006/p15#a231006p15)<!-- TECH:END -->
+ - [X appears to be rolling out a new mobile ad format that can&#39;t be reported or blocked, lacks an ad label and user profile, and doesn&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

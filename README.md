@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
- - 💣 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
  - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
+ - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
+ - 💣 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
+ - 😝 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 👉 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)<!-- MEMES:END -->
 
 ---
 

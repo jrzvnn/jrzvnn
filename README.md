@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X appears to be rolling out new mobile ads that can&#39;t be reported or blocked, lack ad labels, have no user profiles, and don&#39;t disclose the advertiser &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/231006/p16#a231006p16)
  - [Amazon Luna cloud gaming service adds the ability for users to purchase games, starting with select Ubisoft titles &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231006/p15#a231006p15)
  - [New iPhone 15 teardown gets into microscopic detail](https://appleinsider.com/articles/23/10/06/new-iphone-15-teardown-gets-into-microscopic-detail?utm_medium=rss)
  - [THORSwap moves to &quot;maintenance mode&quot; after criminals linked to the FTX hack in 2022 used the decentralized exchange to convert $38M worth of ether to bitcoin &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/231006/p14#a231006p14)
- - [India asks X, YouTube, and Telegram to remove CSAM from their services, warning that they could be stripped of protection from legal liability for not complying &lpar;Shilpa Jamkhandikar/Reuters&rpar;](http://www.techmeme.com/231006/p13#a231006p13)
- - [The best early deals from Amazon’s October Prime Day event](https://www.theverge.com/23901327/amazon-october-prime-day-best-early-deals-tech-echo-speakers-fire-tvs-2023)<!-- TECH:END -->
+ - [India asks X, YouTube, and Telegram to remove CSAM from their services, warning that they could be stripped of protection from legal liability for not complying &lpar;Shilpa Jamkhandikar/Reuters&rpar;](http://www.techmeme.com/231006/p13#a231006p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

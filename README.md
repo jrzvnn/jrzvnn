@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will there be a season 4 of Ted Lasso?](https://www.androidauthority.com/will-there-be-a-season-4-of-ted-lasso-3372862/)
- - [Source: Microsoft plans to close its $68.7B Activision acquisition on October 13, with a final decision from UK&#39;s CMA allowing the deal expected next week &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231006/p4#a231006p4)
- - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)
- - [Google’s Magnifier accessibility app is ready for download to Pixel phones](https://www.theverge.com/2023/10/6/23905966/google-pixel-magnifier-accessibility-app-zoom-release-date)
- - [Microsoft Office Home &amp; Business 2021 for Mac dips to $32.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)<!-- TECH:END -->
+ - [How to Set Up a Mattress You Bought Online &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-a-mattress/)
+ - [Epic Games’ Sale of Bandcamp Has Left the Artist-Friendly Music Platform in Limbo](https://www.wired.com/story/epic-games-sale-bandcamp-music-platform-limbo/)
+ - [What Do We Owe the Octopus?](https://www.wired.com/story/what-do-we-owe-the-octopus/)
+ - [14 Best Coffee Grinders &lpar;2023&rpar;: Conical-Burr, Flat-Burr, Manual, Blade](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [Why Everyone Is Talking About ‘Dicks’](https://www.wired.com/story/dicks-the-musical-a24-hollywood-strike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

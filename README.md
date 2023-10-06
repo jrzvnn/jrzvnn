@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Laptop Go 3 Review: Higher Price, Fewer Incentives](https://www.wired.com/review/microsoft-surface-laptop-go-3/)
- - [As Amazon Launches Project Kuiper, Astronomers Debate How to Fix a Satellite-Filled Sky](https://www.wired.com/story/as-amazon-launches-project-kuiper-astronomers-debate-how-to-fix-a-satellite-filled-sky/)
- - [Sennheiser Profile Streaming Set Review: Pro Sound, Amateur Price](https://www.wired.com/review/sennheiser-profile-microphone-streaming-set/)
- - [Graphcore Was the UK&#39;s AI Champion—Now It’s Scrambling to Stay Afloat](https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/)
- - [Former Facebook policy staff detail their experience with &quot;jawboning&quot;, or informal government efforts to persuade platforms to change their moderation policies &lpar;Knight First Amendment Institute&rpar;](http://www.techmeme.com/231006/p5#a231006p5)<!-- TECH:END -->
+ - [Google Pixel 7 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7-vs-pixel-8-3371573/)
+ - [Elliptic: total value of crypto laundered via decentralized exchanges, bridges, and coin swaps hits $7B; Lazarus Group was the top culprit, laundering $900M+ &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231006/p6#a231006p6)
+ - [Save $65 on Google’s Pixel Buds Pro ahead of their big software updates](https://www.theverge.com/2023/10/6/23904491/google-pixel-buds-pro-nest-doorbell-floodlight-apple-watch-se-deal-sale)
+ - [How to use screen sharing in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-screen-sharing-in-macos-sonoma?utm_medium=rss)
+ - [Hiking with Apple Watch Ultra 2 &amp; zooming with iPhone 15 Pro Max on the AppleInsider podcast](https://appleinsider.com/articles/23/10/06/hiking-with-apple-watch-ultra-2-zooming-with-iphone-15-pro-max-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

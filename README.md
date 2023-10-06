@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s handy Magnifier app is now available for Pixels](https://www.androidauthority.com/google-magnifier-app-launched-3372858/)
  - [Forget the new Pixels, Google’s made a wearable Gboard hat that actually types](https://www.androidauthority.com/google-gboard-hat-3372855/)
  - [Going Infinite excerpt: how effective altruism pushed Caroline Ellison to Alameda, which would lose its management team and half its employees in 2018, and more &lpar;Michael Lewis/Wall Street Journal&rpar;](http://www.techmeme.com/231006/p1#a231006p1)
  - [Report: the US DHS finds that ICE, CBP, and the Secret Service illegally used phone location data; a CBP official tracked coworkers for no investigative purpose &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231005/p31#a231005p31)
- - [Best Bar and Booze Gifts for a Home Mixologist     - CNET](https://www.cnet.com/news/best-bar-gifts/#ftag=CAD590a51e)
- - [FTX co-founder Gary Wang testifies that Alameda Research had &quot;special privileges&quot; that afforded a $65B line of credit, of which the firm ultimately withdrew $8B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231005/p30#a231005p30)<!-- TECH:END -->
+ - [Best Bar and Booze Gifts for a Home Mixologist     - CNET](https://www.cnet.com/news/best-bar-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

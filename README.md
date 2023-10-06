@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 Exynos/Snapdragon country split is likely back with slight changes](https://www.androidauthority.com/samsung-galaxy-s24-exynos-snapdragon-3373053/)
- - [Yale Assure Lock 2 review: almost perfect](https://www.theverge.com/23367464/yale-assure-lock-2-touchscreen-keypad-wifi-review)
- - [11 Best Electric Kettles &lpar;2023&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
- - [The Verge’s favorite tools to stay organized](https://www.theverge.com/23904502/organize-tools-journal-notes-apps)
- - [Mark Hamill explains space in new video series for State Department](https://www.theverge.com/2023/10/6/23903477/mark-hamill-state-department-videos-iss-star-wars-luke-skywalker)<!-- TECH:END -->
+ - [Source: MGM Resorts refused to pay hackers&#39; ransom in the September cyberattack; filing: MGM says the hack will have a $100M negative impact on its Q3 earnings &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/231006/p8#a231006p8)
+ - [The best Google Pixel 8 Pro cases you can buy at launch](https://www.androidauthority.com/best-google-pixel-8-pro-cases-3372895/)
+ - [Can You Return That Prime Day Gift After Christmas? Return Policies for Amazon and More     - CNET](https://www.cnet.com/tech/mobile/can-you-return-that-prime-day-gift-after-christmas-return-policies-for-amazon-and-more/#ftag=CAD590a51e)
+ - [Best Early October Prime Day Mattress Deals From Casper, Purple and More     - CNET](https://www.cnet.com/deals/october-prime-day-mattress-deals-2023/#ftag=CAD590a51e)
+ - [Best Mattress Deals: 35 Sales From Helix, Nectar, DreamCloud and More     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

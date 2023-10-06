@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy Ring may come in four sizes and launch with Galaxy Z Fold 6](https://www.androidauthority.com/galaxy-ring-sizes-3373060/)
+ - [Microsoft launches new web app store for Windows](https://www.theverge.com/2023/10/6/23906082/microsoft-windows-app-store-web-version-launch)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Daily deals Oct. 6: AirPods 3 for $120, Mac mini for $533, Apple Magic Keyboard with Numeric Keypad $97, more](https://appleinsider.com/articles/23/10/06/daily-deals-oct-6-airpods-3-for-120-mac-mini-for-533-apple-magic-keyboard-with-numeric-keypad-97-more?utm_medium=rss)
- - [&#39;A Galactic Embarrassment&#39;: The Crypto World Is Already Sick of SBF&#39;s Trial](https://www.wired.com/story/galactic-embarrassment-crypto-world-is-already-sick-of-sbf-trial/)
- - [25 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-3/)
- - [Meet the Next Generation of Doctors—and Their Surgical Robots](https://www.wired.com/story/next-generation-doctors-surgical-robots/)
- - [Secret Service and government agencies illegally used smartphone location data](https://appleinsider.com/articles/23/10/06/secret-service-and-government-agencies-illegally-used-smartphone-location-data?utm_medium=rss)<!-- TECH:END -->
+ - [‘A Galactic Embarrassment’: The Crypto World Is Already Sick of SBF’s Trial](https://www.wired.com/story/galactic-embarrassment-crypto-world-is-already-sick-of-sbf-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

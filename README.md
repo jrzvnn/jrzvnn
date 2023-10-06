@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get a real italian pizza.](http://9gag.com/gag/aREGVwM)
- - 😝 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
- - 💣 [Gabe Newell has become the Marcus Aurelius of the gaming industry.](http://9gag.com/gag/abvo0QE)
- - 😝 [Coochie Monster](http://9gag.com/gag/amAy99d)
- - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
+ - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [WTF Dude](http://9gag.com/gag/aBdM1wQ)
+ - 💣 [That&#39;s disgusting....where?](http://9gag.com/gag/aeQEpbq)
+ - 😝 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)
+ - 👉 [She got fired](http://9gag.com/gag/a6qzQZA)<!-- MEMES:END -->
 
 ---
 

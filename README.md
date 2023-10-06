@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reveals the chip that could power the Galaxy S24](https://www.androidauthority.com/samsung-exynos-2400-announced-3372890/)
- - [OnePlus Pad Go launched: A budget Android tablet with a lot to offer](https://www.androidauthority.com/oneplus-pad-go-price-specs-features-availability-3372896/)
- - [Q&amp;A with Getty Images&#39; Craig Peters on the company&#39;s generative AI tool, copyright issues, attribution for rights holders, deepfakes, disinformation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231006/p2#a231006p2)
- - [Silent Hill: Ascension premieres on Halloween](https://www.theverge.com/2023/10/6/23905933/silent-hill-ascension-release-date-october-31st-halloween)
- - [How many software updates will the Google Pixel 8 get?](https://www.androidauthority.com/google-pixel-8-software-update-policy-3372917/)<!-- TECH:END -->
+ - [South Korea threatens to fine Apple over App Store dominance](https://appleinsider.com/articles/23/10/06/south-korea-threatens-to-fine-apple-over-app-store-dominance?utm_medium=rss)
+ - [Google’s Magnifier accessibility app is ready for download to Pixel phones](https://www.theverge.com/2023/10/6/23905966/google-pixel-magnifier-accessibility-app-zoom-release-date)
+ - [Microsoft Office Home &amp; Business 2021 for Mac dips to $32.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)
+ - [White House urges the FCC to adopt strong rules next month to address &quot;digital discrimination&quot; in some communities as some ISPs warn against tough regulation &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/231006/p3#a231006p3)
+ - [Microsoft eyes closing its giant Activision Blizzard deal next week](https://www.theverge.com/2023/10/6/23905946/microsoft-activision-blizzard-deal-finalization-timing-cma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

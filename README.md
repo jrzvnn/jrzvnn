@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They never had a chance](http://9gag.com/gag/aBdMwKD)
- - 😝 [The girl&#39;s happiness is priceless, faith in humanity restored.](http://9gag.com/gag/agobGLr)
- - 💣 [South Africa is not a real country](http://9gag.com/gag/anz31o0)
- - 😝 [I wish my dad was this cool...](http://9gag.com/gag/a04Gd7B)
+ - 😝 [Orange](http://9gag.com/gag/a5XAPgo)
+ - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 💣 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
  - 👉 [Double standards in action](http://9gag.com/gag/az2zVqN)<!-- MEMES:END -->
 
 ---

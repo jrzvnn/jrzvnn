@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)
- - 😝 [They&#39;re in deep trouble because they have big things coming up](http://9gag.com/gag/aOxOzpN)
- - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 👉 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)<!-- MEMES:END -->
+ - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
 
 ---
 

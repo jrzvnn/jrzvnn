@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, it\u2019s got to be REALLY bad, right?](http://9gag.com/gag/aEqbRve)
- - 😝 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)
- - 💣 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 😝 [Better in this way](http://9gag.com/gag/aNwXWqv)
  - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 👉 [Make a choice.](http://9gag.com/gag/aBdM1rz)<!-- MEMES:END -->
+ - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 👉 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)<!-- MEMES:END -->
 
 ---
 

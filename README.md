@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
- - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 💣 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
- - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
- - 👉 [How every normal man should react](http://9gag.com/gag/aL13Mez)<!-- MEMES:END -->
+ - 😝 [They&#39;re in deep trouble because they have big things coming up](http://9gag.com/gag/aOxOzpN)
+ - 😝 [Not one of us!](http://9gag.com/gag/anz3bLV)
+ - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 😝 [Victimized by her presence? Damned idiots are everywhere.](http://9gag.com/gag/aBdM14z)
+ - 👉 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)<!-- MEMES:END -->
 
 ---
 

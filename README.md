@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - 💣 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 👉 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)<!-- MEMES:END -->
+ - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
+ - 😝 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)
+ - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
- - 👉 [Make a choice.](http://9gag.com/gag/aBdM1rz)<!-- MEMES:END -->
+ - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 😝 [Tight](http://9gag.com/gag/aL13MO5)
+ - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 👉 [California](http://9gag.com/gag/arm05yd)<!-- MEMES:END -->
 
 ---
 

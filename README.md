@@ -158,7 +158,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Redfall finally gets a performance mode on Xbox](https://www.theverge.com/2023/10/6/23906978/redfall-update-2-performance-mode-xbox)
  - [Amazon now lets you buy games on its cloud gaming service — but only Ubisoft ones](https://www.theverge.com/2023/10/6/23906915/amazon-luna-buy-ubisoft-games-cloud-gaming-service)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Sales teams at Google, Twilio, and others say they have seen productivity spike after using ChatGPT-like tools to respond to prospective customers&#39; proposals &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231006/p19#a231006p19)
+ - [Sales teams at Google, Twilio, and other companies say productivity spiked after they started using ChatGPT-like tools to answer prospective customers&#39; RFPs &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231006/p19#a231006p19)
  - [Today the FTX jury suffered through a code review](https://www.theverge.com/2023/10/6/23906899/ftx-alameda-sam-bankman-fried-trial-gary-wang-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic deal: get a 14-inch MacBook Pro with 32GB RAM, 1TB SSD for $1,999 &lpar;$900 off&rpar;](https://appleinsider.com/articles/23/10/07/epic-deal-get-a-14-inch-macbook-pro-with-32gb-ram-1tb-ssd-for-1999-900-off?utm_medium=rss)
  - [PitchBook: VCs invested $700.3M in video game startups in Q3 2023, the lowest since Q2 2020; gaming attracted $2B+ for eight straight quarters through Q2 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231006/p20#a231006p20)
  - [Amazon&#39;s Starlink Rival Completes First Launch of Its Satellite Internet Network     - CNET](https://www.cnet.com/home/internet/amazons-starlink-rival-completes-first-launch-of-its-satellite-internet-network/#ftag=CAD590a51e)
  - [October Prime Day 2023: 85 Best Early Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [Redfall finally gets a performance mode on Xbox](https://www.theverge.com/2023/10/6/23906978/redfall-update-2-performance-mode-xbox)
- - [Amazon now lets you buy games on its cloud gaming service — but only Ubisoft ones](https://www.theverge.com/2023/10/6/23906915/amazon-luna-buy-ubisoft-games-cloud-gaming-service)<!-- TECH:END -->
+ - [Redfall finally gets a performance mode on Xbox](https://www.theverge.com/2023/10/6/23906978/redfall-update-2-performance-mode-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

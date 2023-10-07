@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steve Jobs wanted Macintosh design to be like the early Beatles](https://appleinsider.com/articles/23/10/07/steve-jobs-wanted-macintosh-design-to-be-like-the-early-beatles?utm_medium=rss)
  - [What’s up with the temperature sensor on the Pixel 8 Pro?](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature)
  - [Apple&#39;s Encryption Is Under Attack by a Mysterious Group](https://www.wired.com/story/apple-heat-initiative-dark-money/)
  - [8 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
- - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)
- - [The Pixel 8 and the what-is-a-photo apocalypse](https://www.theverge.com/2023/10/7/23906753/google-pixel-8-pro-photo-editing-tools-ai)<!-- TECH:END -->
+ - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

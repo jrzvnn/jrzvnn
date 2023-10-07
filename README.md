@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)
- - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
- - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
- - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
+ - 😝 [Kid looks familiar](http://9gag.com/gag/a04GYOz)
+ - 😝 [Let it be politics](http://9gag.com/gag/a9qeYOm)
+ - 💣 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
+ - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 👉 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)<!-- MEMES:END -->
 
 ---
 

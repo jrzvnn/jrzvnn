@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Steve Jobs wanted Macintosh design to be like the early Beatles](https://appleinsider.com/articles/23/10/07/steve-jobs-wanted-macintosh-design-to-be-like-the-early-beatles?utm_medium=rss)
  - [What’s up with the temperature sensor on the Pixel 8 Pro?](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature)
- - [Apple&#39;s Encryption Is Under Attack by a Mysterious Group](https://www.wired.com/story/apple-heat-initiative-dark-money/)
- - [8 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
- - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)<!-- TECH:END -->
+ - [Save Up to $75 on the Google Pixel Watch or Google Pixel Buds Pro     - CNET](https://www.cnet.com/deals/save-up-to-75-on-the-google-pixel-watch-or-google-pixel-buds-pro/#ftag=CAD590a51e)
+ - [How to Convert Your Calendar From Outlook, Google or Apple     - CNET](https://www.cnet.com/tech/services-and-software/how-to-convert-your-calendar-from-outlook-google-or-apple/#ftag=CAD590a51e)
+ - [Solar Panels in Puerto Rico: Costs, Incentives and Installers     - CNET](https://www.cnet.com/home/energy-and-utilities/puerto-rico-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

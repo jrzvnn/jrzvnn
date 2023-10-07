@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
+ - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
+ - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
 
 ---
 

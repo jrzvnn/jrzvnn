@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google Pixel Watch 2 vs Apple Watch Series 9: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-apple-watch-series-9-3371693/)
+ - [Luton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/luton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [October Prime Day: How to Get the Most Out of Your Shopping Experience     - CNET](https://www.cnet.com/personal-finance/how-to-prepare-for-amazon-prime-day/#ftag=CAD590a51e)
  - [Intel teases Windows ‘refresh’ for 2024 amid Windows 12 launch rumors](https://www.theverge.com/2023/10/7/23907234/intel-windows-12-2024-refresh-launch)
- - [Everything to Know About Buy With Prime: How to Snag Prime Day Deals From Other Retailers     - CNET](https://www.cnet.com/tech/everything-to-know-about-buy-with-prime-how-to-snag-prime-day-deals-from-other-retailers/#ftag=CAD590a51e)
- - [Even though the Pixel 8 and Pixel 8 Pro have the same Tensor G3 chip, features like Night Sight Video and enhanced Magic Eraser are exclusive to the Pixel 8 Pro &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231007/p6#a231007p6)
- - [AllianceBernstein: Netflix has ~6.5M subscribers in India, Prime Video has 20M, and Disney+ Hotstar has 40M+; Netflix&#39;s slow growth due to lack of local content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231007/p5#a231007p5)<!-- TECH:END -->
+ - [Everything to Know About Buy With Prime: How to Snag Prime Day Deals From Other Retailers     - CNET](https://www.cnet.com/tech/everything-to-know-about-buy-with-prime-how-to-snag-prime-day-deals-from-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

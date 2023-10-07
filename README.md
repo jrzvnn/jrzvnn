@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The Pixel 8 and the what-is-a-photo apocalypse](https://www.theverge.com/2023/10/7/23906753/google-pixel-8-pro-photo-editing-tools-ai)
+ - [Google&#39;s Pixel 8 Software Update Plan Should Push Android Phones Further     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-should-push-android-phones-further/#ftag=CAD590a51e)
  - [Every Google Pixel gimmick ranked, from best to worst](https://www.androidauthority.com/google-pixel-gimmicks-ranked-3370812/)
- - [In Defense of the Rat](https://www.wired.com/story/in-defense-of-the-rat/)
- - [16 Best Gaming Mice and Mousepads &lpar;2023&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)
- - [Two words: jazz anime](https://www.theverge.com/23906592/blue-giant-review-jazz-anime)<!-- TECH:END -->
+ - [iOS 17.1 Beta 2: Your iPhone Could Get These New Features Soon     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-beta-2-your-iphone-could-get-these-new-features-soon/#ftag=CAD590a51e)
+ - [Social Security Payments 2023: Are You Getting Your October Check This Week?     - CNET](https://www.cnet.com/personal-finance/social-security-payments-2023-are-you-getting-your-october-check-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

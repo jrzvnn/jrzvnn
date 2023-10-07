@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Up to 25% on a New LG Refrigerator With Deals on These Award-Winning Appliances     - CNET](https://www.cnet.com/deals/save-up-to-25-on-a-new-lg-refrigerator-with-deals-on-these-award-winning-appliances/#ftag=CAD590a51e)
+ - [Solar Eclipse Eye Safety: Expert Tips for Protecting Your Eyes     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-expert-tips-for-protecting-your-eyes/#ftag=CAD590a51e)
+ - [You Don&#39;t Have to Pay for Amazon Prime to Get the Prime Day Deals     - CNET](https://www.cnet.com/tech/mobile/you-dont-have-to-pay-for-amazon-prime-to-get-the-prime-day-deals/#ftag=CAD590a51e)
  - [Amazon&#39;s Alexa has been claiming that the 2020 election was stolen citing sources from Rumble and Substack; Amazon says the errors were fixed &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/231007/p10#a231007p10)
- - [Hackers are selling the data of millions lifted from 23andMe’s genetic database](https://www.theverge.com/2023/10/7/23907330/23andme-leak-hackers-selling-user-dna-data)
- - [Best Coffee Subscriptions for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
- - [Best Cooperative Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-cooperative-board-games/#ftag=CAD590a51e)
- - [Best Fantasy Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Find the Best October Prime Day Deals     - CNET](https://www.cnet.com/deals/how-to-find-the-best-amazon-prime-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

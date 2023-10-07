@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google Pixel 8 vs Apple iPhone 15: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-apple-iphone-15-3370431/)
- - [White Supremacist Active Clubs Are Breeding on Telegram](https://www.wired.com/story/active-clubs-telegram/)
- - [How to Shop Like a Pro During Amazon Prime Day &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-2023-tips-to-find-best-deals/)
- - [How to Use Google Bard to Find Your Stuff in Gmail and Docs](https://www.wired.com/story/how-to-use-google-bard-gmail-docs-ai/)
- - [A Silk Pillowcase Can’t Fix All Your Curly Hair Problems &lpar;2023&rpar;](https://www.wired.com/story/silk-pillowcase-rant/)<!-- TECH:END -->
+ - [Prevent Porch Pirates From Ruining October&#39;s Amazon Prime Day. Here&#39;s How     - CNET](https://www.cnet.com/how-to/prevent-porch-pirates-from-ruining-octobers-amazon-prime-day-heres-how/#ftag=CAD590a51e)
+ - [&#39;Spy x Family&#39; Season 2: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spy-x-family-season-2-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Qatar GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)
+ - [White Supremacist Active Clubs Are Breeding on Telegram](https://www.wired.com/story/active-clubs-telegram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

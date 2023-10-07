@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better in this way](http://9gag.com/gag/aNwXWqv)
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 👉 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)<!-- MEMES:END -->
+ - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 😝 [Tight](http://9gag.com/gag/aL13MO5)
+ - 💣 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
 
 ---
 

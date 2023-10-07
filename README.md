@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s $100 hike is eyewatering, but the Pixel 8 series seems worth it](https://www.androidauthority.com/pixel-8-price-hike-opinion-3370951/)
+ - [X users report unlabeled clickbait ads that you can’t block or report](https://www.theverge.com/2023/10/7/23907424/x-unlabeled-ads-posts-cant-block-report-chumbox)
  - [Save Up to 25% on a New LG Refrigerator With Deals on These Award-Winning Appliances     - CNET](https://www.cnet.com/deals/save-up-to-25-on-a-new-lg-refrigerator-with-deals-on-these-award-winning-appliances/#ftag=CAD590a51e)
  - [Solar Eclipse Eye Safety: Expert Tips for Protecting Your Eyes     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-expert-tips-for-protecting-your-eyes/#ftag=CAD590a51e)
- - [You Don&#39;t Have to Pay for Amazon Prime to Get the Prime Day Deals     - CNET](https://www.cnet.com/tech/mobile/you-dont-have-to-pay-for-amazon-prime-to-get-the-prime-day-deals/#ftag=CAD590a51e)
- - [Amazon&#39;s Alexa has been claiming that the 2020 election was stolen citing sources from Rumble and Substack; Amazon says the errors were fixed &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/231007/p10#a231007p10)
- - [How to Find the Best October Prime Day Deals     - CNET](https://www.cnet.com/deals/how-to-find-the-best-amazon-prime-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Don&#39;t Have to Pay for Amazon Prime to Get the Prime Day Deals     - CNET](https://www.cnet.com/tech/mobile/you-dont-have-to-pay-for-amazon-prime-to-get-the-prime-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Due to the rapid change of frames, the brain doesn&#39;t have time to process the changing faces and fills in the details by itself leading to distortion. You&#39;re literally hallucinating.](http://9gag.com/gag/aBdM182)
- - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 💣 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
- - 😝 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
- - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
+ - 😝 [Who made dis?](http://9gag.com/gag/a04G5XL)
+ - 😝 [California](http://9gag.com/gag/arm05yd)
+ - 💣 [Back to the stone age you go.](http://9gag.com/gag/a3ZDKA5)
+ - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
+ - 👉 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
 
 ---
 

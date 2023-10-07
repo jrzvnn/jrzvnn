@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
  - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 💣 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
- - 😝 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
- - 👉 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)<!-- MEMES:END -->
+ - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
+ - 👉 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
+ - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 💣 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
+ - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
+ - 👉 [How every normal man should react](http://9gag.com/gag/aL13Mez)<!-- MEMES:END -->
 
 ---
 

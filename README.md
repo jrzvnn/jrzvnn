@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Political advertisers have raised concerns about X&#39;s Community Notes after major brands like Apple, Samsung, and Uber had critical notes attached to their ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231007/p4#a231007p4)
  - [Several users on Seller Central, Amazon&#39;s forum for merchants, welcomed the FTC&#39;s lawsuit against the company, while others remain skeptical about its outcome &lpar;CNBC&rpar;](http://www.techmeme.com/231007/p3#a231007p3)
- - [Get In on the October Prime Day Action: Sign Up for Amazon Prime and Save Big     - CNET](https://www.cnet.com/tech/get-in-on-the-october-prime-day-action-sign-up-for-amazon-prime-and-save-big/#ftag=CAD590a51e)
  - [Genshin Impact developer miHoYo has made two short-lived attempts since August to set up a payment system for iOS users, to avoid Apple&#39;s 30% App Store cut &lpar;Zhao Yuanyuan/The China Project&rpar;](http://www.techmeme.com/231007/p2#a231007p2)
- - [The Delhi police accuse Xiaomi, Vivo, and others of helping transfer funds illegally to news outlet NewsClick, which is accused of spreading Chinese propaganda &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p1#a231007p1)<!-- TECH:END -->
+ - [The Delhi police accuse Xiaomi, Vivo, and others of helping transfer funds illegally to news outlet NewsClick, which is accused of spreading Chinese propaganda &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p1#a231007p1)
+ - [Epic deal: get a 14-inch MacBook Pro with 32GB RAM, 1TB SSD for $1,999 &lpar;$900 off&rpar;](https://appleinsider.com/articles/23/10/07/epic-deal-get-a-14-inch-macbook-pro-with-32gb-ram-1tb-ssd-for-1999-900-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

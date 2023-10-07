@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
  - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 👉 [Make a choice.](http://9gag.com/gag/aBdM1rz)<!-- MEMES:END -->
+ - 💣 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 😝 [The boner that ended the jedi](http://9gag.com/gag/aeQEMDb)
+ - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
 
 ---
 

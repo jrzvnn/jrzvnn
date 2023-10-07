@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
  - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
+ - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 👉 [Emotional damage!](http://9gag.com/gag/ajVjqBw)<!-- MEMES:END -->
 
 ---
 

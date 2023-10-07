@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
- - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 😝 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
- - 👉 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)<!-- MEMES:END -->
+ - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 😝 [MPs in Iran rising from their seats to chant \u201cDeath to Israel\u201d and \u201cPalestine is victorious, Israel will be destroyed\u201d.](http://9gag.com/gag/abvozjB)
+ - 💣 [Hamas launches rockets towards Tel Aviv in Israel.](http://9gag.com/gag/aeQEMVj)
+ - 😝 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 👉 [RIP Gaza](http://9gag.com/gag/az2zXWj)<!-- MEMES:END -->
 
 ---
 

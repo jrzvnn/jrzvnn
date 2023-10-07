@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs wanted Macintosh design to be like the early Beatles](https://appleinsider.com/articles/23/10/07/steve-jobs-wanted-macintosh-design-to-be-like-the-early-beatles?utm_medium=rss)
- - [What’s up with the temperature sensor on the Pixel 8 Pro?](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature)
- - [Save Up to $75 on the Google Pixel Watch or Google Pixel Buds Pro     - CNET](https://www.cnet.com/deals/save-up-to-75-on-the-google-pixel-watch-or-google-pixel-buds-pro/#ftag=CAD590a51e)
- - [How to Convert Your Calendar From Outlook, Google or Apple     - CNET](https://www.cnet.com/tech/services-and-software/how-to-convert-your-calendar-from-outlook-google-or-apple/#ftag=CAD590a51e)
- - [Solar Panels in Puerto Rico: Costs, Incentives and Installers     - CNET](https://www.cnet.com/home/energy-and-utilities/puerto-rico-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US adds 42 Chinese companies and seven companies from India, the UK, and other countries to an export control list over their support for Russia&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p8#a231007p8)
+ - [The iPhone 15 has basic specs that Android phones wouldn’t get away with](https://www.androidauthority.com/iphone-15-basic-specs-3369915/)
+ - [12 Best Umbrellas &lpar;2023&rpar;: Windproof, Cheap, Tiny, and Clear Bubble](https://www.wired.com/gallery/best-umbrellas/)
+ - [Quick fix: what are those circles on my Chrome tabs?](https://www.theverge.com/23906182/chrome-tab-circles-meaning-browser)
+ - [Discogs’ vibrant vinyl community is shattering](https://www.theverge.com/23899461/discogs-sellers-vinyl-cds-community-fees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

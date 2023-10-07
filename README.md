@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
- - 😝 [Tight](http://9gag.com/gag/aL13MO5)
- - 💣 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
+ - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
+ - 😝 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)
+ - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 👉 [That moment when the dad realises his little girl has reached peak maturity. His job is done.](http://9gag.com/gag/aoK62n2)<!-- MEMES:END -->
 
 ---
 

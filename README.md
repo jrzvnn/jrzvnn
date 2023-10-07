@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 💣 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
  - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
+ - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
 
 ---
 

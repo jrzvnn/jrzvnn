@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
- - 😝 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)
- - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 💣 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
  - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 👉 [That moment when the dad realises his little girl has reached peak maturity. His job is done.](http://9gag.com/gag/aoK62n2)<!-- MEMES:END -->
+ - 👉 [Boy pulls prank on his father](http://9gag.com/gag/a9qe7VD)<!-- MEMES:END -->
 
 ---
 

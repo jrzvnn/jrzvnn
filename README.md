@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
- - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 💣 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)
- - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
+ - 😝 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)
+ - 💣 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
  - 👉 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 8 and the what-is-a-photo apocalypse](https://www.theverge.com/2023/10/7/23906753/google-pixel-8-pro-photo-editing-tools-ai)
  - [Every Google Pixel gimmick ranked, from best to worst](https://www.androidauthority.com/google-pixel-gimmicks-ranked-3370812/)
  - [In Defense of the Rat](https://www.wired.com/story/in-defense-of-the-rat/)
  - [16 Best Gaming Mice and Mousepads &lpar;2023&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)
- - [Two words: jazz anime](https://www.theverge.com/23906592/blue-giant-review-jazz-anime)
- - [Google Pixel 8 vs Apple iPhone 15: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-apple-iphone-15-3370431/)<!-- TECH:END -->
+ - [Two words: jazz anime](https://www.theverge.com/23906592/blue-giant-review-jazz-anime)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

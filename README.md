@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Encryption Is Under Attack by a Mysterious Group](https://www.wired.com/story/apple-heat-initiative-dark-money/)
+ - [8 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
+ - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)
  - [The Pixel 8 and the what-is-a-photo apocalypse](https://www.theverge.com/2023/10/7/23906753/google-pixel-8-pro-photo-editing-tools-ai)
- - [Google&#39;s Pixel 8 Software Update Plan Should Push Android Phones Further     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-should-push-android-phones-further/#ftag=CAD590a51e)
- - [Every Google Pixel gimmick ranked, from best to worst](https://www.androidauthority.com/google-pixel-gimmicks-ranked-3370812/)
- - [iOS 17.1 Beta 2: Your iPhone Could Get These New Features Soon     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-beta-2-your-iphone-could-get-these-new-features-soon/#ftag=CAD590a51e)
- - [Social Security Payments 2023: Are You Getting Your October Check This Week?     - CNET](https://www.cnet.com/personal-finance/social-security-payments-2023-are-you-getting-your-october-check-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Pixel 8 Software Update Plan Should Push Android Phones Further     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-should-push-android-phones-further/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

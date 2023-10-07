@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared     - CNET](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/#ftag=CAD590a51e)
  - [iPhone 15 Pro review: Is Apple’s flagship Android alternative worth buying?](https://www.androidauthority.com/apple-iphone-15-pro-review-3368360/)
+ - [12 Best Foods for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-for-eye-health/#ftag=CAD590a51e)
  - [IDC says Google shipped 37.9M Pixel phones between 2016 and 2023, suggesting the company shipped a record ~10M phones over the last 12 months &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231007/p11#a231007p11)
- - [October Prime Day 2023: 85 Best Early Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [Understanding Agentized LLMs: How to avoid making rogue AI](https://appleinsider.com/inside/xcode/tips/understanding-agentized-llms-how-to-avoid-making-rogue-ai?utm_medium=rss)
- - [Hisense’s affordable, HDR-ready U6K TV has hit an all-time low](https://www.theverge.com/2023/10/7/23906288/hisense-u6k-tv-nintendo-switch-lite-bundle-bose-noise-cancelling-headphones-deal-sale)<!-- TECH:END -->
+ - [October Prime Day 2023: 85 Best Early Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [11 years ago](http://9gag.com/gag/aQEK8LW)
- - 😝 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)
+ - 😝 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)
+ - 😝 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
  - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
  - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
 
 ---

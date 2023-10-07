@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at SoftBank-owned PayPay, which holds a two-thirds share of the QR-code payments market in Japan and could be next in the conglomerate&#39;s IPO pipeline &lpar;Bloomberg&rpar;](http://www.techmeme.com/231007/p7#a231007p7)
  - [Google Pixel Watch 2 vs Apple Watch Series 9: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-apple-watch-series-9-3371693/)
  - [Luton vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/luton-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [October Prime Day: How to Get the Most Out of Your Shopping Experience     - CNET](https://www.cnet.com/personal-finance/how-to-prepare-for-amazon-prime-day/#ftag=CAD590a51e)
- - [Intel teases Windows ‘refresh’ for 2024 amid Windows 12 launch rumors](https://www.theverge.com/2023/10/7/23907234/intel-windows-12-2024-refresh-launch)
- - [Everything to Know About Buy With Prime: How to Snag Prime Day Deals From Other Retailers     - CNET](https://www.cnet.com/tech/everything-to-know-about-buy-with-prime-how-to-snag-prime-day-deals-from-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel teases Windows ‘refresh’ for 2024 amid Windows 12 launch rumors](https://www.theverge.com/2023/10/7/23907234/intel-windows-12-2024-refresh-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

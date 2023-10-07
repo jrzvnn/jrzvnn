@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Genshin Impact developer miHoYo has made two short-lived attempts since August to set up a payment system for iOS users, to avoid Apple&#39;s 30% App Store cut &lpar;Zhao Yuanyuan/The China Project&rpar;](http://www.techmeme.com/231007/p2#a231007p2)
  - [The Delhi police accuse Xiaomi, Vivo, and others of helping transfer funds illegally to news outlet NewsClick, which is accused of spreading Chinese propaganda &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p1#a231007p1)
  - [Epic deal: get a 14-inch MacBook Pro with 32GB RAM, 1TB SSD for $1,999 &lpar;$900 off&rpar;](https://appleinsider.com/articles/23/10/07/epic-deal-get-a-14-inch-macbook-pro-with-32gb-ram-1tb-ssd-for-1999-900-off?utm_medium=rss)
  - [PitchBook: VCs invested $700.3M in video game startups in Q3 2023, the lowest since Q2 2020; gaming attracted $2B+ for eight straight quarters through Q2 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231006/p20#a231006p20)
- - [Amazon&#39;s Starlink Rival Completes First Launch of Its Satellite Internet Network     - CNET](https://www.cnet.com/home/internet/amazons-starlink-rival-completes-first-launch-of-its-satellite-internet-network/#ftag=CAD590a51e)
- - [October Prime Day 2023: 85 Best Early Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Starlink Rival Completes First Launch of Its Satellite Internet Network     - CNET](https://www.cnet.com/home/internet/amazons-starlink-rival-completes-first-launch-of-its-satellite-internet-network/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
- - 😝 [The boner that ended the jedi](http://9gag.com/gag/aeQEMDb)
- - 💣 [Candace shut &#39;em down cold.](http://9gag.com/gag/a1Pnomb)
- - 😝 [Super comeback](http://9gag.com/gag/aYVBgL2)
- - 👉 [The angel](http://9gag.com/gag/adPMKVZ)<!-- MEMES:END -->
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 😝 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
+ - 👉 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)<!-- MEMES:END -->
 
 ---
 

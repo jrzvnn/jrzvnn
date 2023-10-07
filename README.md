@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t take her back](http://9gag.com/gag/aVb8Mjn)
- - 😝 [Road rage escalates](http://9gag.com/gag/aYVBxZ7)
- - 💣 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 👉 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)<!-- MEMES:END -->
+ - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
+ - 😝 [That moment when the dad realises his little girl has reached peak maturity. His job is done.](http://9gag.com/gag/aoK62n2)
+ - 💣 [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)
+ - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
+ - 👉 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel teases Windows ‘refresh’ coming in 2024 as Windows 12 launch is rumored](https://www.theverge.com/2023/10/7/23907234/intel-windows-12-2024-refresh-launch)
+ - [Everything to Know About Buy With Prime: How to Snag Prime Day Deals From Other Retailers     - CNET](https://www.cnet.com/tech/everything-to-know-about-buy-with-prime-how-to-snag-prime-day-deals-from-other-retailers/#ftag=CAD590a51e)
  - [Even though the Pixel 8 and Pixel 8 Pro have the same Tensor G3 chip, features like Night Sight Video and enhanced Magic Eraser are exclusive to the Pixel 8 Pro &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231007/p6#a231007p6)
  - [AllianceBernstein: Netflix has ~6.5M subscribers in India, Prime Video has 20M, and Disney+ Hotstar has 40M+; Netflix&#39;s slow growth due to lack of local content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231007/p5#a231007p5)
- - [Political advertisers have raised concerns about X&#39;s Community Notes after major brands like Apple, Samsung, and Uber had critical notes attached to their ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231007/p4#a231007p4)
- - [Several users on Seller Central, Amazon&#39;s forum for merchants, welcomed the FTC&#39;s lawsuit against the company, while others remain skeptical about its outcome &lpar;CNBC&rpar;](http://www.techmeme.com/231007/p3#a231007p3)
- - [Get In on the October Prime Day Action: Sign Up for Amazon Prime and Save Big     - CNET](https://www.cnet.com/tech/get-in-on-the-october-prime-day-action-sign-up-for-amazon-prime-and-save-big/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Political advertisers have raised concerns about X&#39;s Community Notes after major brands like Apple, Samsung, and Uber had critical notes attached to their ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231007/p4#a231007p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

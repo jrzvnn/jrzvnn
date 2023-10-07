@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
- - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 👉 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)<!-- MEMES:END -->
+ - 😝 [Back to the stone age you go.](http://9gag.com/gag/a3ZDKA5)
+ - 😝 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
+ - 💣 [Candace shut &#39;em down cold.](http://9gag.com/gag/a1Pnomb)
+ - 😝 [The angel](http://9gag.com/gag/adPMKVZ)
+ - 👉 [The boner that ended the jedi](http://9gag.com/gag/aeQEMDb)<!-- MEMES:END -->
 
 ---
 

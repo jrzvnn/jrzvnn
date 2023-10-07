@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Y Combinator hires Yelp policy chief Luther Lowe, best known for his public criticism of Google, to lead public policy, as the accelerator embraces politics &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/231007/p13#a231007p13)
+ - [MGM didn’t pay up after hackers broke into its system and stole customer data](https://www.theverge.com/2023/10/7/23907776/mgm-refused-pay-customer-data-stolen-cyberattack-ransom)
+ - [How to turn your vintage Mac into a Steam gaming machine using Bazzite](https://appleinsider.com/inside/mac/tips/how-to-turn-your-vintage-mac-into-a-steam-gaming-machine-using-bazzite?utm_medium=rss)
  - [The Epic v. Google witness list: Andy Rubin, Sundar Pichai, and more to testify](https://www.theverge.com/2023/10/7/23907649/epic-v-google-antitrust-lawsuit-andy-rubin-sundar-pichai)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [A research paper details how decomposing groups of neurons in a neural network into interpretable &quot;features&quot; may improve safety by enabling monitoring of LLMs &lpar;Anthropic&rpar;](http://www.techmeme.com/231007/p12#a231007p12)
- - [Google Pixel 8 Pro vs. iPhone 15 Pro Max, Galaxy S23 Ultra: Top-End Phones Compared     - CNET](https://www.cnet.com/tech/mobile/google-pixel-8-pro-vs-iphone-15-pro-max-galaxy-s23-ultra-top-end-phones-compared/#ftag=CAD590a51e)
- - [iPhone 15 Pro review: Is Apple’s flagship Android alternative worth buying?](https://www.androidauthority.com/apple-iphone-15-pro-review-3368360/)<!-- TECH:END -->
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sound of freedom](http://9gag.com/gag/aoK6OYx)
- - 😝 [Tight](http://9gag.com/gag/aL13MO5)
- - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
  - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 👉 [California](http://9gag.com/gag/arm05yd)<!-- MEMES:END -->
+ - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
+ - 💣 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 👉 [Make a choice.](http://9gag.com/gag/aBdM1rz)<!-- MEMES:END -->
 
 ---
 

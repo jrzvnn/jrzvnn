@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
+ - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
  - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
- - 👉 [Best policy](http://9gag.com/gag/amAy9Q2)<!-- MEMES:END -->
+ - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
+ - 👉 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
- - 😝 [Deep down we all wanted to at to happen](http://9gag.com/gag/a04GKmv)
- - 💣 [RIP Gaza](http://9gag.com/gag/az2zXWj)
+ - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
+ - 😝 [Hamas launches rockets towards Tel Aviv in Israel.](http://9gag.com/gag/aeQEMVj)
+ - 💣 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
  - 😝 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
- - 👉 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)<!-- MEMES:END -->
+ - 👉 [Hehe](http://9gag.com/gag/a9qeYGo)<!-- MEMES:END -->
 
 ---
 

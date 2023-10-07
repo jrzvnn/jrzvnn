@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile, in France](http://9gag.com/gag/amAyrm6)
- - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
- - 💣 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 😝 [Villain boss : `You have no power here`](http://9gag.com/gag/az2zrQN)
- - 👉 [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)<!-- MEMES:END -->
+ - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
+ - 💣 [Double standards in action](http://9gag.com/gag/az2zVqN)
+ - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 👉 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)<!-- MEMES:END -->
 
 ---
 

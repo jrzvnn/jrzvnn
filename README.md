@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 😝 [The sound of freedom](http://9gag.com/gag/aoK6OYx)
  - 😝 [Tight](http://9gag.com/gag/aL13MO5)
  - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
  - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)

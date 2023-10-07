@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back to the stone age you go.](http://9gag.com/gag/a3ZDKA5)
  - 😝 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
+ - 😝 [The boner that ended the jedi](http://9gag.com/gag/aeQEMDb)
  - 💣 [Candace shut &#39;em down cold.](http://9gag.com/gag/a1Pnomb)
- - 😝 [The angel](http://9gag.com/gag/adPMKVZ)
- - 👉 [The boner that ended the jedi](http://9gag.com/gag/aeQEMDb)<!-- MEMES:END -->
+ - 😝 [Super comeback](http://9gag.com/gag/aYVBgL2)
+ - 👉 [The angel](http://9gag.com/gag/adPMKVZ)<!-- MEMES:END -->
 
 ---
 

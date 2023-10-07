@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Alexa has been claiming that the 2020 election was stolen citing sources from Rumble and Substack; Amazon says the errors were fixed &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/231007/p10#a231007p10)
  - [Hackers are selling the data of millions lifted from 23andMe’s genetic database](https://www.theverge.com/2023/10/7/23907330/23andme-leak-hackers-selling-user-dna-data)
- - [Assassin’s Creed Mirage goes back to basics — and ends up basic](https://www.theverge.com/23906187/assassins-creed-mirage-review-ubisoft)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-504-3372975/)
- - [Hackers posted an initial data sample from 23andMe on BreachForums earlier in the week, claiming that it had 1M data points exclusively about Ashkenazi Jews &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231007/p9#a231007p9)
- - [The US adds 42 Chinese companies and seven companies from India, the UK, and other countries to an export control list over their support for Russia&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p8#a231007p8)<!-- TECH:END -->
+ - [Best Coffee Subscriptions for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
+ - [Best Cooperative Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-cooperative-board-games/#ftag=CAD590a51e)
+ - [Best Fantasy Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

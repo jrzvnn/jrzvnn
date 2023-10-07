@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
  - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
- - 💣 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 😝 [Make a choice.](http://9gag.com/gag/aBdM1rz)
+ - 💣 [Hehe](http://9gag.com/gag/a9qeYGo)
+ - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
  - 👉 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)<!-- MEMES:END -->
 
 ---

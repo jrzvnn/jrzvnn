@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s up with the temperature sensor on the Pixel 8 Pro?](https://www.theverge.com/23903842/pixel-8-pro-temperature-sensor-fda-feature)
  - [Apple&#39;s Encryption Is Under Attack by a Mysterious Group](https://www.wired.com/story/apple-heat-initiative-dark-money/)
  - [8 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
  - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)
- - [The Pixel 8 and the what-is-a-photo apocalypse](https://www.theverge.com/2023/10/7/23906753/google-pixel-8-pro-photo-editing-tools-ai)
- - [Google&#39;s Pixel 8 Software Update Plan Should Push Android Phones Further     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-8-software-update-plan-should-push-android-phones-further/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Pixel 8 and the what-is-a-photo apocalypse](https://www.theverge.com/2023/10/7/23906753/google-pixel-8-pro-photo-editing-tools-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

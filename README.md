@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where&#39;s funny?](http://9gag.com/gag/a6qzbEm)
- - 😝 [That moment when the dad realises his little girl has reached peak maturity. His job is done.](http://9gag.com/gag/aoK62n2)
- - 💣 [What is wrong with these American women ? Why in the world would you debase yourself &amp; your heritage in such a vulgar fashion.](http://9gag.com/gag/aGEq0QX)
- - 😝 [Not under David Beckhams watch](http://9gag.com/gag/adPMj6j)
- - 👉 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)<!-- MEMES:END -->
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)
+ - 💣 [Wait\u2026](http://9gag.com/gag/aOxOBzN)
+ - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
+ - 👉 [Emotional damage!](http://9gag.com/gag/ajVjqBw)<!-- MEMES:END -->
 
 ---
 

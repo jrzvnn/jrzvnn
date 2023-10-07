@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tight](http://9gag.com/gag/aL13MO5)
- - 😝 [The sound of freedom](http://9gag.com/gag/aoK6OYx)
- - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
- - 👉 [Who made dis?](http://9gag.com/gag/a04G5XL)<!-- MEMES:END -->
+ - 😝 [German police, no surprise, still apply the &#39;Pain Grip&#39; to eco-protest guys.](http://9gag.com/gag/a9qeAmL)
+ - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
+ - 💣 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 😝 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
+ - 👉 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)<!-- MEMES:END -->
 
 ---
 

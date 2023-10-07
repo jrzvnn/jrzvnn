@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [Emotional damage!](http://9gag.com/gag/ajVjqBw)
+ - 😝 [New trauma unlocked](http://9gag.com/gag/a6qzMWL)
+ - 💣 [Read the Titles](http://9gag.com/gag/a1PnMrD)
  - 😝 [`Wrapo yourself in love and kindness`](http://9gag.com/gag/aEqbz9K)
- - 💣 [Double standards in action](http://9gag.com/gag/az2zVqN)
- - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
- - 👉 [Either you learn or you become a statistic](http://9gag.com/gag/agobVdn)<!-- MEMES:END -->
+ - 👉 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: VCs invested $700.3M in video game startups in Q3 2023, the lowest since Q2 2020; gaming attracted $2B+ for eight straight quarters through Q2 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231006/p20#a231006p20)
+ - [Amazon&#39;s Starlink Rival Completes First Launch of Its Satellite Internet Network     - CNET](https://www.cnet.com/home/internet/amazons-starlink-rival-completes-first-launch-of-its-satellite-internet-network/#ftag=CAD590a51e)
+ - [October Prime Day 2023: 85 Best Early Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
  - [Redfall finally gets a performance mode on Xbox](https://www.theverge.com/2023/10/6/23906978/redfall-update-2-performance-mode-xbox)
- - [Amazon now lets you buy games on its cloud gaming service — but only Ubisoft ones](https://www.theverge.com/2023/10/6/23906915/amazon-luna-buy-ubisoft-games-cloud-gaming-service)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Sales teams at Google, Twilio, and other companies say productivity spiked after they started using ChatGPT-like tools to answer prospective customers&#39; RFPs &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231006/p19#a231006p19)
- - [Today the FTX jury suffered through a code review](https://www.theverge.com/2023/10/6/23906899/ftx-alameda-sam-bankman-fried-trial-gary-wang-testimony)<!-- TECH:END -->
+ - [Amazon now lets you buy games on its cloud gaming service — but only Ubisoft ones](https://www.theverge.com/2023/10/6/23906915/amazon-luna-buy-ubisoft-games-cloud-gaming-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

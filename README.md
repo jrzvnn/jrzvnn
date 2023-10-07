@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IDC says Google shipped 37.9M Pixel phones between 2016 and 2023, suggesting the company shipped a record ~10M phones over the last 12 months &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231007/p11#a231007p11)
  - [Understanding Agentized LLMs: How to avoid making rogue AI](https://appleinsider.com/inside/xcode/tips/understanding-agentized-llms-how-to-avoid-making-rogue-ai?utm_medium=rss)
  - [Hisense’s affordable, HDR-ready U6K TV has hit an all-time low](https://www.theverge.com/2023/10/7/23906288/hisense-u6k-tv-nintendo-switch-lite-bundle-bose-noise-cancelling-headphones-deal-sale)
  - [Daily deals Oct. 7: $1,100 off M1 MacBook Pro, $70 off AirPods Max, Apple MagSafe Battery Pack for $60, more](https://appleinsider.com/articles/23/10/07/daily-deals-oct-7-1100-off-m1-macbook-pro-70-off-airpods-max-apple-magsafe-battery-pack-for-60-more?utm_medium=rss)
- - [Google’s $100 hike is eyewatering, but the Pixel 8 series seems worth it](https://www.androidauthority.com/pixel-8-price-hike-opinion-3370951/)
- - [X users report unlabeled clickbait ads that you can’t block or report](https://www.theverge.com/2023/10/7/23907424/x-unlabeled-ads-posts-cant-block-report-chumbox)<!-- TECH:END -->
+ - [Google’s $100 hike is eyewatering, but the Pixel 8 series seems worth it](https://www.androidauthority.com/pixel-8-price-hike-opinion-3370951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

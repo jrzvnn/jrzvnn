@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyday where I live](http://9gag.com/gag/aGEqDAw)
- - 😝 [Read the Titles](http://9gag.com/gag/a1PnMrD)
- - 💣 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 😝 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 💣 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
  - 😝 [Best policy](http://9gag.com/gag/amAy9Q2)
- - 👉 [Emotional damage!](http://9gag.com/gag/ajVjqBw)<!-- MEMES:END -->
+ - 👉 [Wait\u2026](http://9gag.com/gag/aOxOBzN)<!-- MEMES:END -->
 
 ---
 

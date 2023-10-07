@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 vs Apple iPhone 15: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-apple-iphone-15-3370431/)
- - [Prevent Porch Pirates From Ruining October&#39;s Amazon Prime Day. Here&#39;s How     - CNET](https://www.cnet.com/how-to/prevent-porch-pirates-from-ruining-octobers-amazon-prime-day-heres-how/#ftag=CAD590a51e)
- - [&#39;Spy x Family&#39; Season 2: Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spy-x-family-season-2-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Qatar GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-singapore-gp-today/#ftag=CAD590a51e)
- - [White Supremacist Active Clubs Are Breeding on Telegram](https://www.wired.com/story/active-clubs-telegram/)<!-- TECH:END -->
+ - [Every Google Pixel gimmick ranked, from best to worst](https://www.androidauthority.com/google-pixel-gimmicks-ranked-3370812/)
+ - [In Defense of the Rat](https://www.wired.com/story/in-defense-of-the-rat/)
+ - [16 Best Gaming Mice and Mousepads &lpar;2023&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)
+ - [Two words: jazz anime](https://www.theverge.com/23906592/blue-giant-review-jazz-anime)
+ - [Google Pixel 8 vs Apple iPhone 15: Which should you buy?](https://www.androidauthority.com/google-pixel-8-vs-apple-iphone-15-3370431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

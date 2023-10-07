@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Hackers are selling the data of millions lifted from 23andMe’s genetic database](https://www.theverge.com/2023/10/7/23907330/23andme-leak-hackers-selling-user-dna-data)
  - [Assassin’s Creed Mirage goes back to basics — and ends up basic](https://www.theverge.com/23906187/assassins-creed-mirage-review-ubisoft)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-504-3372975/)
  - [Hackers posted an initial data sample from 23andMe on BreachForums earlier in the week, claiming that it had 1M data points exclusively about Ashkenazi Jews &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231007/p9#a231007p9)
- - [The US adds 42 Chinese companies and seven companies from India, the UK, and other countries to an export control list over their support for Russia&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p8#a231007p8)
- - [The iPhone 15 has basic specs that Android phones wouldn’t get away with](https://www.androidauthority.com/iphone-15-basic-specs-3369915/)<!-- TECH:END -->
+ - [The US adds 42 Chinese companies and seven companies from India, the UK, and other countries to an export control list over their support for Russia&#39;s military &lpar;Reuters&rpar;](http://www.techmeme.com/231007/p8#a231007p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

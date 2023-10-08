@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Dr. Lloyd Minor, dean of the Stanford University School of Medicine, on generative AI in medicine, privacy risks, responsible deployment, and more &lpar;Jo Craven McGinty/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p5#a231008p5)
  - [Apple Watch Series 9 review: Should you buy it?](https://www.androidauthority.com/apple-watch-series-9-review-3367079/)
  - [Microsoft Office Home &amp; Business 2021 for Mac dips to $29.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)
  - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)
- - [Apple’s next Vision headset might ship from the factory with custom lenses](https://www.theverge.com/2023/10/8/23908349/apple-vision-pro-built-in-prescription-vr-ar-headset)
- - [Best Anti-Prime Day Deals: Top Bargains at Walmart, Target and Other Retailers     - CNET](https://www.cnet.com/deals/best-anti-prime-day-deals-top-bargains-at-walmart-target-and-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s next Vision headset might ship from the factory with custom lenses](https://www.theverge.com/2023/10/8/23908349/apple-vision-pro-built-in-prescription-vr-ar-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

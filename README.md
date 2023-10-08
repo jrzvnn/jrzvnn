@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Rooster Teeth pulls Red vs. Blue and other shows from YouTube](https://www.theverge.com/2023/10/8/23908787/rooster-teeth-shows-leave-youtube-red-vs-blue)
+ - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-110-on-bose-700-noise-cancelling-headphones-today/#ftag=CAD590a51e)
  - [Apple&#39;s new AirPods Pro 2 with USB-C are back on sale for $199 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/10/08/apples-new-airpods-pro-2-with-usb-c-are-back-on-sale-for-199-at-amazon-ahead-of-prime-day?utm_medium=rss)
- - [iPhone 15 product mix concerns caused by reduced shipment times](https://appleinsider.com/articles/23/10/08/iphone-15-product-mix-concerns-caused-by-reduced-shipment-times?utm_medium=rss)
- - [Israel&#39;s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance](https://www.wired.com/story/israel-hamas-war-surveillance/)
- - [The 6 Best TVs to Give for the Holidays 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stream Hulu Plus Live TV for Just $50 a Month Right Now &lpar;Save $20&rpar;     - CNET](https://www.cnet.com/deals/stream-hulu-plus-live-tv-for-just-50-a-month-right-now/#ftag=CAD590a51e)
+ - [Get a Lifetime License to Microsoft Office 2021 for Just $30     - CNET](https://www.cnet.com/deals/get-microsoft-office-2021-lifetime-license-just-33/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

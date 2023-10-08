@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savages](http://9gag.com/gag/aYVB77w)
- - 😝 [... rather than being loyal to their own culture and religion? Are we still pretending?](http://9gag.com/gag/a8q9G4Y)
- - 💣 [T-90M found out](http://9gag.com/gag/anz34eb)
- - 😝 [The Solution](http://9gag.com/gag/aVb80gM)
- - 👉 [Chickens supporting KFC](http://9gag.com/gag/aME6YK1)<!-- MEMES:END -->
+ - 😝 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 💣 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 👉 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
 
 ---
 

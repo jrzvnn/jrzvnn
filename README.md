@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [War memeZ.](http://9gag.com/gag/aXnzx7z)
- - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 💣 [Title](http://9gag.com/gag/a7qBDnx)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 👉 [This one is for the boys](http://9gag.com/gag/a8q9pOQ)<!-- MEMES:END -->
+ - 😝 [A little game](http://9gag.com/gag/aA07d9d)
+ - 😝 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 💣 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 😝 [Neodymium, Baby](http://9gag.com/gag/aGEq1LX)
+ - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 ---
 

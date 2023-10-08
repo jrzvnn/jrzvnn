@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 💣 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
- - 😝 [Neodymium, Baby](http://9gag.com/gag/aGEq1LX)
- - 👉 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
+ - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 💣 [RIP Gaza](http://9gag.com/gag/az2zXWj)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 👉 [Neodymium, Baby](http://9gag.com/gag/aGEq1LX)<!-- MEMES:END -->
 
 ---
 

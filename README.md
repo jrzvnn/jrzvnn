@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s plans to beat Apple’s Vision Pro include cheaper headsets and no controllers](https://www.theverge.com/2023/10/8/23908290/meta-quest-headset-no-controllers-cheaper-ar-vr-apple-vision-pro)
+ - [Who has the best software update policy in the mobile world?](https://www.androidauthority.com/best-software-update-policy-mobile-3371276/)
+ - [Premier League Soccer Livestream: How to Watch Arsenal vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)
  - [How to Stream NHL Hockey Games &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nhl-hockey-games/)
- - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)
- - [The chilling distance of The Zone of Interest](https://www.theverge.com/23906668/zone-of-interest-review-nyff-jonathan-glazer)
- - [How to turn your vintage Mac into a Steam gaming machine using Bazzite](https://appleinsider.com/inside/mac/tips/how-to-turn-your-vintage-mac-into-a-steam-gaming-machine-using-bazzite?utm_medium=rss)
- - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)<!-- TECH:END -->
+ - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

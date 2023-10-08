@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ironic](http://9gag.com/gag/adPMLqV)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
  - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 💣 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
- - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
+ - 💣 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
+ - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
+ - 👉 [RIP Gaza](http://9gag.com/gag/az2zXWj)<!-- MEMES:END -->
 
 ---
 

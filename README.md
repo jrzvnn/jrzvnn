@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is trying to make the next Vision Pro more comfortable to wear and Meta is aiming to release true AR glasses in 2025 and a cheaper Quest &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231008/p4#a231008p4)
- - [Heavy Apple Vision Pro leads Apple to lighten future headsets](https://appleinsider.com/articles/23/10/08/heavy-apple-vision-pro-leads-apple-to-lighten-future-headsets?utm_medium=rss)
- - [Meta’s plans to beat Apple’s Vision Pro include cheaper headsets and no controllers](https://www.theverge.com/2023/10/8/23908290/meta-quest-headset-no-controllers-cheaper-ar-vr-apple-vision-pro)
- - [Who has the best software update policy in the mobile world?](https://www.androidauthority.com/best-software-update-policy-mobile-3371276/)
- - [Premier League Soccer Livestream: How to Watch Arsenal vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Even Apple makes mistakes: 4 glorious iPhone blunders](https://www.androidauthority.com/apple-iphone-blunders-fails-3368346/)
+ - [Panthers vs. Lions Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-lions-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
+ - [Texans vs. Falcons Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-falcons-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
+ - [17 Best Food and Drink Subscriptions to Gift for 2023     - CNET](https://www.cnet.com/news/best-food-subscriptions-to-gift/#ftag=CAD590a51e)
+ - [Giants vs. Dolphins Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-dolphins-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

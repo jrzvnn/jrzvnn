@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Premier League Soccer Livestream: How to Watch Arsenal vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)
  - [How to Stream NHL Hockey Games &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nhl-hockey-games/)
  - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)
- - [Best Internet Providers in Bellingham, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bellingham-washington/#ftag=CAD590a51e)
- - [The chilling distance of The Zone of Interest](https://www.theverge.com/23906668/zone-of-interest-review-nyff-jonathan-glazer)<!-- TECH:END -->
+ - [The chilling distance of The Zone of Interest](https://www.theverge.com/23906668/zone-of-interest-review-nyff-jonathan-glazer)
+ - [How to turn your vintage Mac into a Steam gaming machine using Bazzite](https://appleinsider.com/inside/mac/tips/how-to-turn-your-vintage-mac-into-a-steam-gaming-machine-using-bazzite?utm_medium=rss)
+ - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

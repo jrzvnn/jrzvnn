@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is trying to make the next Vision Pro more comfortable to wear and Meta is aiming to release true AR glasses in 2025 and a cheaper Quest &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231008/p4#a231008p4)
  - [Heavy Apple Vision Pro leads Apple to lighten future headsets](https://appleinsider.com/articles/23/10/08/heavy-apple-vision-pro-leads-apple-to-lighten-future-headsets?utm_medium=rss)
  - [Meta’s plans to beat Apple’s Vision Pro include cheaper headsets and no controllers](https://www.theverge.com/2023/10/8/23908290/meta-quest-headset-no-controllers-cheaper-ar-vr-apple-vision-pro)
  - [Who has the best software update policy in the mobile world?](https://www.androidauthority.com/best-software-update-policy-mobile-3371276/)
- - [Premier League Soccer Livestream: How to Watch Arsenal vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [How to Stream NHL Hockey Games &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nhl-hockey-games/)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Arsenal vs. Man City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-arsenal-vs-man-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

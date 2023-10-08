@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 💣 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [RIP Gaza](http://9gag.com/gag/az2zXWj)<!-- MEMES:END -->
+ - 😝 [Release the little hunter](http://9gag.com/gag/aVb8Yn8)
+ - 😝 [... rather than being loyal to their own culture and religion? Are we still pretending?](http://9gag.com/gag/a8q9G4Y)
+ - 💣 [Savages](http://9gag.com/gag/aYVB77w)
+ - 😝 [Enough is enough](http://9gag.com/gag/a6qzKE9)
+ - 👉 [The Solution](http://9gag.com/gag/aVb80gM)<!-- MEMES:END -->
 
 ---
 

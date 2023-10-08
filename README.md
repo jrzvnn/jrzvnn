@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Sleep Trackers &lpar;2023&rpar;: Expert Tips and Research](https://www.wired.com/gallery/best-sleep-trackers/)
- - [The Easiest Ways to Access Your Computer Remotely](https://www.wired.com/story/easiest-ways-access-computer-remotely/)
- - [StackSocial Deal Days: Big Savings on Subscriptions, Gadgets and Much More     - CNET](https://www.cnet.com/deals/stacksocial-deal-days-sale-offers-discounts-on-office-costco-membership-and-more/#ftag=CAD590a51e)
- - [Google Pixel 6 Pro vs Pixel 8 Pro: What’s the difference and should you upgrade?](https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-8-pro-3371171/)
- - [103 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)
+ - [Have Google and Samsung just slain the flagship killers?](https://www.androidauthority.com/pixel-8-galaxy-s23-fe-flagship-killer-3371590/)
+ - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [How These Nobel-Winning Physicists Explored Tiny Glimpses of Time](https://www.wired.com/story/how-these-nobel-winning-physicists-explored-tiny-glimpses-of-time/)
+ - [The AI gadgets are coming](https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Sleep Trackers &lpar;2023&rpar;: Expert Tips and Research](https://www.wired.com/gallery/best-sleep-trackers/)
+ - [The Easiest Ways to Access Your Computer Remotely](https://www.wired.com/story/easiest-ways-access-computer-remotely/)
  - [Google Pixel 6 Pro vs Pixel 8 Pro: What’s the difference and should you upgrade?](https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-8-pro-3371171/)
  - [101 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)
- - [Get New Kicks for Fall With Up to 60% Off Select Styles at Nike     - CNET](https://www.cnet.com/deals/get-new-kicks-for-fall-with-up-to-60-off-select-styles-at-nike/#ftag=CAD590a51e)
- - [The Permission Slip App Can Delete Your Personal History from Websites. And It&#39;s Super Simple     - CNET](https://www.cnet.com/tech/services-and-software/the-permission-slip-app-can-delete-your-personal-history-from-websites-and-its-super-simple/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

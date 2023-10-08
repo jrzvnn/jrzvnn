@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 💣 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
- - 😝 [Whewhewhewhewhe](http://9gag.com/gag/arm0NjB)
- - 👉 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)<!-- MEMES:END -->
+ - 😝 [Oops, sorry guys](http://9gag.com/gag/anz39yV)
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 💣 [The angel](http://9gag.com/gag/adPMKVZ)
+ - 😝 [War memeZ.](http://9gag.com/gag/aXnzx7z)
+ - 👉 [Propaganda saturation](http://9gag.com/gag/aBdM0wP)<!-- MEMES:END -->
 
 ---
 

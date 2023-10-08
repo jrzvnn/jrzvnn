@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to get started using Metal Developer Tools for Windows](https://appleinsider.com/articles/23/10/08/how-to-get-started-using-metal-developer-tools-for-windows?utm_medium=rss)
+ - [Crime blotter: Latest on Philadelphia Apple Store looting](https://appleinsider.com/articles/23/10/08/crime-blotter-latest-on-philadelphia-apple-store-looting?utm_medium=rss)
  - [Rooster Teeth pulls Red vs. Blue and other shows from YouTube](https://www.theverge.com/2023/10/8/23908787/rooster-teeth-shows-leave-youtube-red-vs-blue)
- - [Apple&#39;s new AirPods Pro 2 with USB-C are back on sale for $199 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/10/08/apples-new-airpods-pro-2-with-usb-c-are-back-on-sale-for-199-at-amazon-ahead-of-prime-day?utm_medium=rss)
- - [iPhone 15 product mix concerns caused by reduced shipment times](https://appleinsider.com/articles/23/10/08/iphone-15-product-mix-concerns-caused-by-reduced-shipment-times?utm_medium=rss)
- - [Israel&#39;s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance](https://www.wired.com/story/israel-hamas-war-surveillance/)
- - [The 6 Best TVs to Give for the Holidays 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-110-on-bose-700-noise-cancelling-headphones-today/#ftag=CAD590a51e)
+ - [Apple&#39;s new AirPods Pro 2 with USB-C are back on sale for $199 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/10/08/apples-new-airpods-pro-2-with-usb-c-are-back-on-sale-for-199-at-amazon-ahead-of-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rooster Teeth pulls Red vs. Blue and other shows from YouTube](https://www.theverge.com/2023/10/8/23908787/rooster-teeth-shows-leave-youtube-red-vs-blue)
  - [Apple&#39;s new AirPods Pro 2 with USB-C are back on sale for $199 at Amazon ahead of Prime Day](https://appleinsider.com/articles/23/10/08/apples-new-airpods-pro-2-with-usb-c-are-back-on-sale-for-199-at-amazon-ahead-of-prime-day?utm_medium=rss)
  - [iPhone 15 product mix concerns caused by reduced shipment times](https://appleinsider.com/articles/23/10/08/iphone-15-product-mix-concerns-caused-by-reduced-shipment-times?utm_medium=rss)
  - [Israel&#39;s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance](https://www.wired.com/story/israel-hamas-war-surveillance/)
- - [The 6 Best TVs to Give for the Holidays 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2023/#ftag=CAD590a51e)
- - [October Prime Day: The Best Under $25 Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best TVs to Give for the Holidays 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

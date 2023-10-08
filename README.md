@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
- - 😝 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
- - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 😝 [Share your mobile wallpaper.](http://9gag.com/gag/awZD5g4)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 💣 [Women in 2023. be like](http://9gag.com/gag/aME6wrA)
+ - 😝 [Whewhewhewhewhe](http://9gag.com/gag/arm0NjB)
  - 👉 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)<!-- MEMES:END -->
 
 ---

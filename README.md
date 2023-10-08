@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 💣 [RIP Gaza](http://9gag.com/gag/az2zXWj)
+ - 😝 [Thanks to whoever recommended me to visit the city around this time, I hope you have such a good time in the bathroom](http://9gag.com/gag/aqeO7xY)
+ - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
+ - 💣 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
  - 😝 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
- - 👉 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)<!-- MEMES:END -->
+ - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 ---
 

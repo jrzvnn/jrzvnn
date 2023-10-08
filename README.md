@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn your vintage Mac into a Steam gaming machine using Bazzite](https://appleinsider.com/inside/mac/tips/how-to-turn-your-vintage-mac-into-a-steam-gaming-machine-using-bazzite?utm_medium=rss)
  - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)
  - [Have Google and Samsung just slain the flagship killers?](https://www.androidauthority.com/pixel-8-galaxy-s23-fe-flagship-killer-3371590/)
  - [Best Amazon Fire Tablet &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [How These Nobel-Winning Physicists Explored Tiny Glimpses of Time](https://www.wired.com/story/how-these-nobel-winning-physicists-explored-tiny-glimpses-of-time/)
- - [The AI gadgets are coming](https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer)<!-- TECH:END -->
+ - [How These Nobel-Winning Physicists Explored Tiny Glimpses of Time](https://www.wired.com/story/how-these-nobel-winning-physicists-explored-tiny-glimpses-of-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

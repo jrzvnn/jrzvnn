@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Stream NHL Hockey Games &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nhl-hockey-games/)
+ - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)
+ - [The chilling distance of The Zone of Interest](https://www.theverge.com/23906668/zone-of-interest-review-nyff-jonathan-glazer)
  - [How to turn your vintage Mac into a Steam gaming machine using Bazzite](https://appleinsider.com/inside/mac/tips/how-to-turn-your-vintage-mac-into-a-steam-gaming-machine-using-bazzite?utm_medium=rss)
- - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)
- - [Have Google and Samsung just slain the flagship killers?](https://www.androidauthority.com/pixel-8-galaxy-s23-fe-flagship-killer-3371590/)
- - [I Tried Out 3D Video Chat via Google&#39;s Starline. It&#39;s a Slick Work in Progress     - CNET](https://www.cnet.com/tech/computing/i-tried-out-3d-video-chat-via-googles-starline-its-a-slick-work-in-progress/#ftag=CAD590a51e)
- - [AI as Your BFF? The Latest Chatbots Want to Get Personal With You     - CNET](https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One in four people in the US who reported losing money to fraud between January 2021-June 2023 said it started on social media, resulting in losses worth $2.7B &lpar;Emma Fletcher/Federal Trade Commission&rpar;](http://www.techmeme.com/231008/p3#a231008p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

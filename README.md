@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Prime Day deals: M1 iPad Pro $699, HP DeskJet 2734e Printer $39, Bose 700 headphones $299, more](https://appleinsider.com/articles/23/10/08/early-prime-day-deals-m1-ipad-pro-699-hp-deskjet-2734e-printer-39-bose-700-headphones-299-more?utm_medium=rss)
  - [Even Apple makes mistakes: 4 glorious iPhone blunders](https://www.androidauthority.com/apple-iphone-blunders-fails-3368346/)
  - [Panthers vs. Lions Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-lions-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
  - [Texans vs. Falcons Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/texans-vs-falcons-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
- - [17 Best Food and Drink Subscriptions to Gift for 2023     - CNET](https://www.cnet.com/news/best-food-subscriptions-to-gift/#ftag=CAD590a51e)
- - [Giants vs. Dolphins Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-dolphins-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [17 Best Food and Drink Subscriptions to Gift for 2023     - CNET](https://www.cnet.com/news/best-food-subscriptions-to-gift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

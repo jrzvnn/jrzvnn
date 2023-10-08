@@ -166,8 +166,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Savages](http://9gag.com/gag/aYVB77w)
  - 😝 [... rather than being loyal to their own culture and religion? Are we still pretending?](http://9gag.com/gag/a8q9G4Y)
- - 💣 [The Solution](http://9gag.com/gag/aVb80gM)
- - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 💣 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 😝 [The Solution](http://9gag.com/gag/aVb80gM)
  - 👉 [Chickens supporting KFC](http://9gag.com/gag/aME6YK1)<!-- MEMES:END -->
 
 ---

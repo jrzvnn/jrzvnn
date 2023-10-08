@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
- - 😝 [The Solution](http://9gag.com/gag/aVb80gM)
- - 💣 [I wouldn&#39;t leave after they started playing Satisfaction](http://9gag.com/gag/aBdMm6P)
- - 😝 [Chickens supporting KFC](http://9gag.com/gag/aME6YK1)
- - 👉 [Ultra Instinct](http://9gag.com/gag/ap9X5w8)<!-- MEMES:END -->
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 😝 [Hamas launches rockets towards Tel Aviv in Israel.](http://9gag.com/gag/aeQEMVj)
+ - 💣 [Open borders in the US have made human trafficking explode in numbers. NGO&#39;s participate.](http://9gag.com/gag/aXnzvb6)
+ - 😝 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
 
 ---
 

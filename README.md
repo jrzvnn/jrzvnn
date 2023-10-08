@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks to whoever recommended me to visit the city around this time, I hope you have such a good time in the bathroom](http://9gag.com/gag/aqeO7xY)
- - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 💣 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
+ - 😝 [Hamas launches rockets towards Tel Aviv in Israel.](http://9gag.com/gag/aeQEMVj)
+ - 😝 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)
+ - 💣 [RIP Gaza](http://9gag.com/gag/az2zXWj)
  - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 👉 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
+ - 👉 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)<!-- MEMES:END -->
 
 ---
 

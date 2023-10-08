@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Israel&#39;s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance](https://www.wired.com/story/israel-hamas-war-surveillance/)
+ - [The 6 Best TVs to Give for the Holidays 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tvs-to-give-for-the-holidays-2023/#ftag=CAD590a51e)
  - [October Prime Day: The Best Under $25 Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)
  - [Chiefs vs. Vikings Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-vikings-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
- - [Jets vs. Broncos Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jets-vs-broncos-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)
- - [Q&amp;A with Stanford University School of Medicine Dean Dr. Lloyd Minor on generative AI in medicine, the privacy risks, responsibly deploying the tech, and more &lpar;Jo Craven McGinty/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p5#a231008p5)<!-- TECH:END -->
+ - [Jets vs. Broncos Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jets-vs-broncos-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

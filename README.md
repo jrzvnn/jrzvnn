@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [6 Best Sleep Trackers &lpar;2023&rpar;: Expert Tips and Research](https://www.wired.com/gallery/best-sleep-trackers/)
  - [The Easiest Ways to Access Your Computer Remotely](https://www.wired.com/story/easiest-ways-access-computer-remotely/)
+ - [StackSocial Deal Days: Big Savings on Subscriptions, Gadgets and Much More     - CNET](https://www.cnet.com/deals/stacksocial-deal-days-sale-offers-discounts-on-office-costco-membership-and-more/#ftag=CAD590a51e)
  - [Google Pixel 6 Pro vs Pixel 8 Pro: What’s the difference and should you upgrade?](https://www.androidauthority.com/google-pixel-6-pro-vs-pixel-8-pro-3371171/)
- - [101 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [103 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

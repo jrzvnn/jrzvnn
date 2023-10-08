@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 9 review: Should you buy it?](https://www.androidauthority.com/apple-watch-series-9-review-3367079/)
  - [Microsoft Office Home &amp; Business 2021 for Mac dips to $29.97, a discount of 87% off](https://appleinsider.com/articles/23/10/06/microsoft-office-home-business-2021-for-mac-dips-to-3297-a-discount-of-87-off?utm_medium=rss)
+ - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)
  - [Apple’s next Vision headset might ship from the factory with custom lenses](https://www.theverge.com/2023/10/8/23908349/apple-vision-pro-built-in-prescription-vr-ar-headset)
- - [Early Prime Day deals: M1 iPad Pro $699, HP DeskJet 2734e Printer $39, Bose 700 headphones $299, more](https://appleinsider.com/articles/23/10/08/early-prime-day-deals-m1-ipad-pro-699-hp-deskjet-2734e-printer-39-bose-700-headphones-299-more?utm_medium=rss)
- - [Even Apple makes mistakes: 4 glorious iPhone blunders](https://www.androidauthority.com/apple-iphone-blunders-fails-3368346/)
- - [Panthers vs. Lions Livestream: How to Watch NFL Week 5 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-lions-livestream-how-to-watch-nfl-week-5-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Anti-Prime Day Deals: Top Bargains at Walmart, Target and Other Retailers     - CNET](https://www.cnet.com/deals/best-anti-prime-day-deals-top-bargains-at-walmart-target-and-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

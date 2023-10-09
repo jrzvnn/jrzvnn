@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 💣 [Voda](http://9gag.com/gag/a6qzE08)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 💣 [When you get called out on your bullshit](http://9gag.com/gag/ap9XN7E)
+ - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
+ - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
 
 ---
 

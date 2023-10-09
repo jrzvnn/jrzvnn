@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)
  - [Merlin Entertainments partners with Immersive Gamebox to test AR games based on TV shows Paw Patrol and Squid Game, starting at venues in Australia and Germany &lpar;Rachel Read/Blooloop&rpar;](http://www.techmeme.com/231009/p6#a231009p6)
  - [New Malaria Vaccines Offer a Real Shot at Fighting the Disease](https://www.wired.com/story/malaria-vaccine-oxford-approval/)
  - [California Nixes a Bill to Decriminalize Plant-Based Psychedelics](https://www.wired.com/story/california-nixes-a-bill-to-decriminalize-plant-based-psychedelics/)
- - [New York’s Airbnb Ban Is Descending Into Pure Chaos](https://www.wired.com/story/airbnb-ban-new-york-illegal-listings/)
- - [Samsung could offer more than five years of security updates](https://www.androidauthority.com/samsung-more-than-five-years-security-updates-3373510/)<!-- TECH:END -->
+ - [New York’s Airbnb Ban Is Descending Into Pure Chaos](https://www.wired.com/story/airbnb-ban-new-york-illegal-listings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

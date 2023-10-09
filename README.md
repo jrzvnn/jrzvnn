@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
  - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 😝 [Savages](http://9gag.com/gag/aYVB77w)
- - 💣 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
+ - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---
 

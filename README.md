@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - 😝 [How to piss off 100% of people with one picture.](http://9gag.com/gag/ajVj5M0)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 💣 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)
  - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
- - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
  - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---

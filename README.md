@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Discogs, a user-generated music database and marketplace for physical music media, as sellers complain about the website&#39;s old tech and increased fees &lpar;Natalie Weiner/The Verge&rpar;](http://www.techmeme.com/231009/p1#a231009p1)
  - [You told us: Many non-US readers think the Pixel 8 phones are overpriced](https://www.androidauthority.com/google-pixel-8-series-overpriced-poll-results-3373461/)
  - [Samsung quietly launches budget Galaxy Tab A9 and Galaxy Tab A9 Plus with 5G](https://www.androidauthority.com/samsung-galaxy-tab-a9-tab-a9-plus-5g-launched-3373370/)
  - [The EU Just Kicked Off Its Biggest Climate Experiment Yet](https://www.wired.com/story/eu-carbon-tax/)
- - [The HONOR Magic Vs2 is coming, will be thinner and lighter than V2](https://www.androidauthority.com/honor-magic-vs2-coming-3372256/)
- - [Best Rowing Machines for 2023     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The HONOR Magic Vs2 is coming, will be thinner and lighter than V2](https://www.androidauthority.com/honor-magic-vs2-coming-3372256/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

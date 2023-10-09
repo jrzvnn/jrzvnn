@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [27 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-4/)
- - [OnePlus Open display crease is almost unnoticeable in hands-on video](https://www.androidauthority.com/oneplus-open-screen-crease-3373827/)
- - [John Riccitiello is out at Unity, effective immediately](https://www.theverge.com/2023/10/9/23910441/unity-ceo-president-john-riccitiello-out-retire)
- - [Unity CEO John Riccitiello resigns in the wake of the company&#39;s fee controversy; Unity names former Red Hat President and CEO James Whitehurst as interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
- - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)
+ - [X CEO Linda Yaccarino drops out of the WSJ Tech Live conference](https://www.theverge.com/2023/10/9/23910453/linda-yaccarino-wsj-tech-live-twitter-x)
+ - [How to Score $24 Free During Amazon&#39;s October Prime Day Event     - CNET](https://www.cnet.com/tech/how-to-score-24-free-during-amazons-october-prime-day-event/#ftag=CAD590a51e)
+ - [Best Internet Providers in Augusta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-augusta-ga/#ftag=CAD590a51e)
+ - [27 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

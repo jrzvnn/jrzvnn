@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 9 vs Google Pixel Watch 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-google-pixel-watch-2----specs-price-and-features-compared?utm_medium=rss)
- - [Disney’s Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
- - [An investigation details FTX staff&#39;s all-night race to stop a crypto heist as the exchange collapsed, ultimately losing $415M to $432M to unidentified hackers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231009/p9#a231009p9)
- - [Heat Waves in the Ground Are Getting More Extreme—and Perilous](https://www.wired.com/story/heat-waves-in-the-ground-are-getting-more-extreme-and-perilous/)
- - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)<!-- TECH:END -->
+ - [Google Pixel Watch 2 vs Samsung Galaxy Watch 5 and 5 Pro: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-5-pro-3373048/)
+ - [Start Making Physical Photo Albums &lpar;2023&rpar;](https://www.wired.com/story/photo-album-rave/)
+ - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [&#39;Aggro Dr1ft&#39; Is Built on AI and Video Games—Shouldn’t the Movie Be More Fun?](https://www.wired.com/story/harmony-korine-artificial-intelligence-aggro-dr1ft-snooze/)
+ - [When to expect updates to AirPods, iPad, Mac, MacBook Pro, and more](https://appleinsider.com/articles/23/09/28/when-to-expect-updates-to-airpods-ipad-mac-macbook-pro-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

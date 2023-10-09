@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hoping for a really cheap Pixel phone? Google says you’re out of luck](https://www.androidauthority.com/google-budget-pixel-3373529/)
- - [NewsWhip: seven of the top 10 &quot;news&quot; articles with the most interactions on Facebook in September 2023 were published on the catholicfundamentalism.com domain &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/231009/p5#a231009p5)
- - [Tesla Powerwall Review: Well-Rounded Solar Batteries     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-powerwall-review/#ftag=CAD590a51e)
- - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)
- - [London-based care home marketplace Lottie, which claims 500K monthly users, raised a &amp;pound;16.35M Series A led by Accel, after raising &amp;pound;6M in July 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231009/p4#a231009p4)<!-- TECH:END -->
+ - [Merlin Entertainments partners with Immersive Gamebox to test AR games based on TV shows Paw Patrol and Squid Game, starting at venues in Australia and Germany &lpar;Rachel Read/Blooloop&rpar;](http://www.techmeme.com/231009/p6#a231009p6)
+ - [New Malaria Vaccines Offer a Real Shot at Fighting the Disease](https://www.wired.com/story/malaria-vaccine-oxford-approval/)
+ - [California Nixes a Bill to Decriminalize Plant-Based Psychedelics](https://www.wired.com/story/california-nixes-a-bill-to-decriminalize-plant-based-psychedelics/)
+ - [New York’s Airbnb Ban Is Descending Into Pure Chaos](https://www.wired.com/story/airbnb-ban-new-york-illegal-listings/)
+ - [Samsung could offer more than five years of security updates](https://www.androidauthority.com/samsung-more-than-five-years-security-updates-3373510/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

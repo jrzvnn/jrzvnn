@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The Pixel 8A is curvy and colorful in these first-look leaks](https://www.theverge.com/2023/10/9/23910301/google-pixel-8a-leak-unofficial-renders-photo)
  - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
  - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.58M total revenue in September from the $20/month ChatGPT+ plan, up from $3.81M in August and $2.74M in July &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p16#a231009p16)
- - [Google Pixel 8a rumors: Expected release date and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)<!-- TECH:END -->
+ - [Save Big on New and Refurbished M1 and M2 Macs From Just $280     - CNET](https://www.cnet.com/deals/save-big-on-new-and-refurbished-m1-and-m2-macs-from-just-280/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

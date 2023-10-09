@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
  - [Daily deals Oct. 9: 15-inch MacBook Air $1,049, AirPods Pro USB-C $199, $50 off $100 Amazon Fresh, more](https://appleinsider.com/articles/23/10/09/daily-deals-oct-9-15-inch-macbook-air-1049-airpods-pro-usb-c-199-50-off-100-amazon-fresh-more?utm_medium=rss)
  - [Netflix ends its free mobile plan in Kenya, which offered access to a quarter of its shows and movies, after two years and rolls out a $6 per month ad tier &lpar;Duncan Miriri/Reuters&rpar;](http://www.techmeme.com/231009/p11#a231009p11)
- - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
- - [Samsung SmartThings, Nanoleaf holiday lights, and smart smoke detector on HomeKit Insider](https://appleinsider.com/articles/23/10/09/samsung-smartthings-nanoleaf-holiday-lights-and-smart-smoke-detector-on-homekit-insider?utm_medium=rss)
- - [As the UK FCA widens its crypto marketing rules, Coinbase, OKX, Binance, and others partner with UK companies, expecting to continue serving UK customers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231009/p10#a231009p10)<!-- TECH:END -->
+ - [Top Channels Roundup: YouTube TV vs. Hulu Live vs. DirecTV Stream and More     - CNET](https://www.cnet.com/tech/services-and-software/top-channels-roundup-youtube-tv-vs-hulu-live-directv-stream-more/#ftag=CAD590a51e)
+ - [Best October Prime Day Deals on Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-october-2023-prime-day-earbuds-and-headphones-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As the UK FCA widens its crypto marketing rules, Coinbase, OKX, Binance, and others partner with UK companies, expecting to continue serving UK customers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231009/p10#a231009p10)
  - [Google Pixel Watch 2 vs Samsung Galaxy Watch 5 and 5 Pro: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-5-pro-3373048/)
  - [Start Making Physical Photo Albums &lpar;2023&rpar;](https://www.wired.com/story/photo-album-rave/)
  - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [&#39;Aggro Dr1ft&#39; Is Built on AI and Video Games—Shouldn’t the Movie Be More Fun?](https://www.wired.com/story/harmony-korine-artificial-intelligence-aggro-dr1ft-snooze/)
- - [When to expect updates to AirPods, iPad, Mac, MacBook Pro, and more](https://appleinsider.com/articles/23/09/28/when-to-expect-updates-to-airpods-ipad-mac-macbook-pro-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Aggro Dr1ft&#39; Is Built on AI and Video Games—Shouldn’t the Movie Be More Fun?](https://www.wired.com/story/harmony-korine-artificial-intelligence-aggro-dr1ft-snooze/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra Instinct](http://9gag.com/gag/ap9X5w8)
+ - 😝 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
  - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
- - 💣 [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
- - 😝 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
- - 👉 [Semen under the microscope](http://9gag.com/gag/anz39Yo)<!-- MEMES:END -->
+ - 💣 [Just imagine , GTA in mafia style done by rockstar, full mafia gangs war , controlling districts, managing stores .](http://9gag.com/gag/aWGA1Eq)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [They do exist. You are just looking in the wrong places.](http://9gag.com/gag/aoK6MZm)<!-- MEMES:END -->
 
 ---
 

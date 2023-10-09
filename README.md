@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Just Kicked Off Its Biggest Climate Experiment Yet](https://www.wired.com/story/eu-carbon-tax/)
  - [The HONOR Magic Vs2 is coming, will be thinner and lighter than V2](https://www.androidauthority.com/honor-magic-vs2-coming-3372256/)
  - [Best Rowing Machines for 2023     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
  - [LLMs trained on voice, text, and video chats can now detect and mimic emotions like empathy, which could impact fields like customer service, HR, mental health &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p6#a231008p6)
- - [47 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)
- - [October Prime Day: The Best Under $25 Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [47 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

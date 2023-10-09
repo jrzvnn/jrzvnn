@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 😝 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 💣 [Chinese social media said he is unfit to be the Health Minister of China. So he come to the park to prove them wrong.](http://9gag.com/gag/ajVjX21)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
+ - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 😝 [The Solution](http://9gag.com/gag/aVb80gM)
+ - 💣 [Chickens supporting KFC](http://9gag.com/gag/aME6YK1)
+ - 😝 [Enough is enough](http://9gag.com/gag/a6qzKE9)
+ - 👉 [I wouldn&#39;t leave after they started playing Satisfaction](http://9gag.com/gag/aBdMm6P)<!-- MEMES:END -->
 
 ---
 

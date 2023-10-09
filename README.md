@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They do exist. You are just looking in the wrong places.](http://9gag.com/gag/aoK6MZm)
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 💣 [Difference between men and women](http://9gag.com/gag/aeQE5Yj)
- - 😝 [Couple performing dangerous stunts while riding a bike](http://9gag.com/gag/aNwXYZ6)
- - 👉 [The crossover we didn&#39;t know existed](http://9gag.com/gag/a7qBEvm)<!-- MEMES:END -->
+ - 😝 [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 💣 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
+ - 😝 [To become more professional](http://9gag.com/gag/a1PnQBR)
+ - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 ---
 

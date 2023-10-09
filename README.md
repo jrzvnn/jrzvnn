@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 9 vs Google Pixel Watch 2 -- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-google-pixel-watch-2----specs-price-and-features-compared?utm_medium=rss)
+ - [Disney’s Loki faces backlash over reported use of generative AI](https://www.theverge.com/2023/10/9/23909529/disney-marvel-loki-generative-ai-poster-backlash-season-2)
  - [An investigation details FTX staff&#39;s all-night race to stop a crypto heist as the exchange collapsed, ultimately losing $415M to $432M to unidentified hackers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231009/p9#a231009p9)
  - [Heat Waves in the Ground Are Getting More Extreme—and Perilous](https://www.wired.com/story/heat-waves-in-the-ground-are-getting-more-extreme-and-perilous/)
- - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)
- - [Investigation: earlier in 2023, Vietnam tried to plant Predator spyware on the phones of US Congress members, CNN journalists, and policy experts via posts on X &lpar;Washington Post&rpar;](http://www.techmeme.com/231009/p7#a231009p7)
- - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)<!-- TECH:END -->
+ - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

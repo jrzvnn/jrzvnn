@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: ChatGPT iOS and Android apps, which offer a $20/month ChatGPT+ plan, hit $4.58M in total revenue in Sept., up from $3.81M in Aug. and $2.74M in July &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p16#a231009p16)
+ - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)
+ - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.58M total revenue in September from the $20/month ChatGPT+ plan, up from $3.81M in August and $2.74M in July &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p16#a231009p16)
  - [Forget Prime Day, Sony&#39;s LinkBuds S Wireless Earbuds Are 50% Off at New Egg     - CNET](https://www.cnet.com/deals/forget-prime-day-sonys-linkbuds-s-wireless-earbuds-are-50-off-at-new-egg/#ftag=CAD590a51e)
  - [Europe asks if Digital Markets Act should apply to iMessage](https://appleinsider.com/articles/23/10/09/europe-asks-if-digital-markets-act-should-apply-to-imessage?utm_medium=rss)
- - [Amazon October Prime Day 2023 Live Blog: The Best Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live/#ftag=CAD590a51e)
- - [Google will stock Pixel 8 spare parts for seven years](https://www.theverge.com/2023/10/9/23910082/google-will-stock-pixel-8-spare-parts-for-seven-years)<!-- TECH:END -->
+ - [Amazon October Prime Day 2023 Live Blog: The Best Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

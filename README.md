@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastodon fixes an issue that undercounted its MAUs by 407,814 between October 2 and October 8, meaning the social network has 1.8M MAUs in total and 10K servers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p12#a231009p12)
  - [Tim Cook defends Apple against greenwashing accusation](https://appleinsider.com/articles/23/10/09/tim-cook-defends-apple-against-greenwashing-accusation?utm_medium=rss)
  - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
  - [Daily deals Oct. 9: 15-inch MacBook Air $1,049, AirPods Pro USB-C $199, $50 off $100 Amazon Fresh, more](https://appleinsider.com/articles/23/10/09/daily-deals-oct-9-15-inch-macbook-air-1049-airpods-pro-usb-c-199-50-off-100-amazon-fresh-more?utm_medium=rss)
- - [Google&#39;s Pixel Watch Drops to Just $280 Following 2nd Gen Launch     - CNET](https://www.cnet.com/deals/googles-pixel-watch-drops-to-just-280-following-2nd-gen-launch/#ftag=CAD590a51e)
- - [Netflix ends its free mobile plan in Kenya, which offered access to a quarter of its shows and movies, after two years and rolls out a $6 per month ad tier &lpar;Duncan Miriri/Reuters&rpar;](http://www.techmeme.com/231009/p11#a231009p11)<!-- TECH:END -->
+ - [Google&#39;s Pixel Watch Drops to Just $280 Following 2nd Gen Launch     - CNET](https://www.cnet.com/deals/googles-pixel-watch-drops-to-just-280-following-2nd-gen-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

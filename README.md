@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung quietly launches budget Galaxy Tab A9 and Galaxy Tab A9 Plus with 5G](https://www.androidauthority.com/samsung-galaxy-tab-a9-tab-a9-plus-5g-launched-3373370/)
  - [The EU Just Kicked Off Its Biggest Climate Experiment Yet](https://www.wired.com/story/eu-carbon-tax/)
  - [The HONOR Magic Vs2 is coming, will be thinner and lighter than V2](https://www.androidauthority.com/honor-magic-vs2-coming-3372256/)
  - [Best Rowing Machines for 2023     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [LLMs trained on voice, text, and video chats can now detect and mimic emotions like empathy, which could impact fields like customer service, HR, mental health &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p6#a231008p6)
- - [47 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LLMs trained on voice, text, and video chats can now detect and mimic emotions like empathy, which could impact fields like customer service, HR, mental health &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p6#a231008p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

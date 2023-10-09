@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
+ - 😝 [No words needed](http://9gag.com/gag/a9qeAxZ)
  - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 💣 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - 😝 [To become more professional](http://9gag.com/gag/a1PnQBR)
+ - 💣 [To become more professional](http://9gag.com/gag/a1PnQBR)
+ - 😝 [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
  - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 ---

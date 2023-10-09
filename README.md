@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
- - 💣 [Just imagine , GTA in mafia style done by rockstar, full mafia gangs war , controlling districts, managing stores .](http://9gag.com/gag/aWGA1Eq)
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [They do exist. You are just looking in the wrong places.](http://9gag.com/gag/aoK6MZm)<!-- MEMES:END -->
+ - 😝 [`war refugees`](http://9gag.com/gag/anz35Dq)
+ - 💣 [She played it along pretty well](http://9gag.com/gag/a8q980Q)
+ - 😝 [Ultra Instinct](http://9gag.com/gag/ap9X5w8)
+ - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 ---
 

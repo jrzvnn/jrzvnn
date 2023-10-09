@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drop test shows iPhone 15 Pro Max glass no more fragile than other premium phones](https://appleinsider.com/articles/23/10/09/drop-test-shows-iphone-15-pro-max-glass-no-more-fragile-than-other-premium-phones?utm_medium=rss)
+ - [Watch the four most expensive phones get smashed to bits to see which survives](https://www.androidauthority.com/smartphone-screen-repair-facts-3373659/)
+ - [The Israel-Hamas War Is Drowning X in Disinformation](https://www.wired.com/story/x-israel-hamas-war-disinformation/)
  - [An Alleged Deepfake of UK Opposition Leader Keir Starmer Shows the Dangers of Fake Audio](https://www.wired.com/story/deepfake-audio-keir-starmer/)
- - [Genshin Impact maker tried to dodge App Store fees -- twice](https://appleinsider.com/articles/23/10/09/genshin-impact-maker-tried-to-dodge-app-store-fees----twice?utm_medium=rss)
- - [Source: Microsoft&#39;s GitHub Copilot, the $10/month service used by 1.5M+ people, loses an average of $20+ per month per user and as much as $80 for some users &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231009/p14#a231009p14)
- - [Meta Quest 3 review: comfortable with improved displays and snappy performance, but there isn&#39;t much MR content and passthrough isn&#39;t quite sharp enough &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231009/p13#a231009p13)
- - [Should Walmart be data-mining your Ozempic prescriptions?](https://www.theverge.com/2023/10/9/23909581/walmart-ozempic-food-pharmacy-market-research-privacy)<!-- TECH:END -->
+ - [Genshin Impact maker tried to dodge App Store fees -- twice](https://appleinsider.com/articles/23/10/09/genshin-impact-maker-tried-to-dodge-app-store-fees----twice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

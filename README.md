@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vegans=animal abusers](http://9gag.com/gag/aA07ev2)
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 💣 [The Future of South africa](http://9gag.com/gag/aDYLx3B)
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
+ - 😝 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 💣 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
+ - 😝 [Remember that time when people were not allowed get close to their loved ones that were dying alone at the hospital but they allowed it for the criminal drug addict George Floyd to have a funeral full of people with a golden coffin? Because I do.](http://9gag.com/gag/aGEqdvZ)
+ - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
 
 ---
 

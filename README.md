@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Voda](http://9gag.com/gag/a6qzE08)
+ - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
  - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 💣 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
- - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 💣 [Queen](http://9gag.com/gag/aoK6PAg)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
  - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---

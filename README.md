@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)
  - [A US judge throws out a $32.5M jury verdict for Sonos in a smart speaker patent case against Google after finding that the Sonos patents were unenforceable &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231009/p20#a231009p20)
  - [The Israel-Hamas War Erupts in Digital Chaos](https://www.wired.com/story/israel-hamas-war-hacktivism/)
  - [Unity CEO John Riccitiello Steps Down After Pricing Blowup](https://www.wired.com/story/john-riccitello-retires-unity-ceo-controversy/)
- - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)
- - [X CEO Linda Yaccarino drops out of the WSJ Tech Live conference](https://www.theverge.com/2023/10/9/23910453/linda-yaccarino-wsj-tech-live-twitter-x)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

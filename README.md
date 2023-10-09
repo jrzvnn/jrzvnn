@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
  - 😝 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
- - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
- - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 😝 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
+ - 💣 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
+ - 😝 [A mother wasn&#39;t notified about what was happening to her daughter in school - it didn&#39;t end well.](http://9gag.com/gag/aXnzoNV)
  - 👉 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Voda](http://9gag.com/gag/a6qzE08)
- - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 💣 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 😝 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
- - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [The Lion the Witch and the Audacity of this B*tch.](http://9gag.com/gag/ajVj940)
+ - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 👉 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)<!-- MEMES:END -->
 
 ---
 

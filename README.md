@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [Is she German enough?](http://9gag.com/gag/arm0nzd)
  - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
+ - 💣 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
+ - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based care home marketplace Lottie, which claims 500K monthly users, raised a &amp;pound;16.35M Series A led by Accel, after raising &amp;pound;6M in July 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231009/p4#a231009p4)
+ - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
  - [China outlines a plan to target 300+ exaflops of computing capacity, up from 220 in 2023, bigger optical networks, advanced data storage, and more by 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231009/p3#a231009p3)
  - [111 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
- - [50 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)
- - [Samsung and SK Hynix say the US will let them supply US chip equipment to their Chinese factories indefinitely without separate approvals &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/231009/p2#a231009p2)
- - [Woot Slash Prices Across Many Amazon Devices Ahead of Prime Day     - CNET](https://www.cnet.com/deals/woot-slash-prices-across-many-amazon-devices-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [50 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

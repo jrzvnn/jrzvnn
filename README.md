@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget Prime Day, Sony&#39;s LinkBuds S Wireless Earbuds Are 50% Off at New Egg     - CNET](https://www.cnet.com/deals/forget-prime-day-sonys-linkbuds-s-wireless-earbuds-are-50-off-at-new-egg/#ftag=CAD590a51e)
  - [Europe asks if Digital Markets Act should apply to iMessage](https://appleinsider.com/articles/23/10/09/europe-asks-if-digital-markets-act-should-apply-to-imessage?utm_medium=rss)
+ - [Amazon October Prime Day 2023 Live Blog: The Best Deals Vetted by Experts     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live/#ftag=CAD590a51e)
  - [Google will stock Pixel 8 spare parts for seven years](https://www.theverge.com/2023/10/9/23910082/google-will-stock-pixel-8-spare-parts-for-seven-years)
- - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
- - [Google Pixel 6 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-8-3372445/)
- - [TikTok Isn&#39;t Wrong. The Stanley Tumblers Really Are That Good     - CNET](https://www.cnet.com/health/tiktok-isnt-wrong-the-stanley-tumblers-really-are-that-good/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [132 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

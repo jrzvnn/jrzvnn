@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - 😝 [`war refugees`](http://9gag.com/gag/anz35Dq)
- - 💣 [She played it along pretty well](http://9gag.com/gag/a8q980Q)
+ - 😝 [The crossover we didn&#39;t know existed](http://9gag.com/gag/a7qBEvm)
+ - 😝 [Candace Owens tells the truth](http://9gag.com/gag/aEqbPAG)
+ - 💣 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
  - 😝 [Ultra Instinct](http://9gag.com/gag/ap9X5w8)
- - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
+ - 👉 [The Future of South africa](http://9gag.com/gag/aDYLx3B)<!-- MEMES:END -->
 
 ---
 

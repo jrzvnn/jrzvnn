@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
  - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 😝 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
- - 💣 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
+ - 💣 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
+ - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 👉 [Semen under the microscope](http://9gag.com/gag/anz39Yo)<!-- MEMES:END -->
 
 ---
 

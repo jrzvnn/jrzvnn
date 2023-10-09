@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Hoping for a really cheap Pixel phone? Google says you’re out of luck](https://www.androidauthority.com/google-budget-pixel-3373529/)
  - [NewsWhip: seven of the top 10 &quot;news&quot; articles with the most interactions on Facebook in September 2023 were published on the catholicfundamentalism.com domain &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/231009/p5#a231009p5)
- - [London-based care home marketplace Lottie, which claims 500K monthly users, raised a &amp;pound;16.35M Series A led by Accel, after raising &amp;pound;6M in July 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231009/p4#a231009p4)
- - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
- - [China outlines a plan to target 300+ exaflops of computing capacity, up from 220 in 2023, bigger optical networks, advanced data storage, and more by 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231009/p3#a231009p3)<!-- TECH:END -->
+ - [Tesla Powerwall Review: Well-Rounded Solar Batteries     - CNET](https://www.cnet.com/home/energy-and-utilities/tesla-powerwall-review/#ftag=CAD590a51e)
+ - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)
+ - [London-based care home marketplace Lottie, which claims 500K monthly users, raised a &amp;pound;16.35M Series A led by Accel, after raising &amp;pound;6M in July 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231009/p4#a231009p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

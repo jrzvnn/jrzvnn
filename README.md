@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
  - [Daily deals Oct. 9: 15-inch MacBook Air $1,049, AirPods Pro USB-C $199, $50 off $100 Amazon Fresh, more](https://appleinsider.com/articles/23/10/09/daily-deals-oct-9-15-inch-macbook-air-1049-airpods-pro-usb-c-199-50-off-100-amazon-fresh-more?utm_medium=rss)
+ - [Google&#39;s Pixel Watch Drops to Just $280 Following 2nd Gen Launch     - CNET](https://www.cnet.com/deals/googles-pixel-watch-drops-to-just-280-following-2nd-gen-launch/#ftag=CAD590a51e)
  - [Netflix ends its free mobile plan in Kenya, which offered access to a quarter of its shows and movies, after two years and rolls out a $6 per month ad tier &lpar;Duncan Miriri/Reuters&rpar;](http://www.techmeme.com/231009/p11#a231009p11)
- - [Top Channels Roundup: YouTube TV vs. Hulu Live vs. DirecTV Stream and More     - CNET](https://www.cnet.com/tech/services-and-software/top-channels-roundup-youtube-tv-vs-hulu-live-directv-stream-more/#ftag=CAD590a51e)
- - [Best October Prime Day Deals on Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-october-2023-prime-day-earbuds-and-headphones-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fitness Deals to Snag Ahead of October Prime Day     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

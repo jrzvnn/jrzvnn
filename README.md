@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California governor signs ban on social media ‘aiding or abetting’ child abuse](https://www.theverge.com/2023/10/9/23909903/california-ab1394-child-abuse-social-media-regulation-signed-governor)
  - [Early Pixel 8a leak gives best look yet at Google’s mid-ranger](https://www.androidauthority.com/pixel-8a-leaked-renders-3373733/)
  - [Rumored OLED iPad Pro expected to arrive in early 2024](https://appleinsider.com/articles/23/10/09/rumored-oled-ipad-pro-expected-to-arrive-in-early-2024?utm_medium=rss)
  - [This Google Pixel Watch deal slashes the price to just $279.99](https://www.androidauthority.com/google-pixel-watch-deal-3373740/)
- - [Drop test shows iPhone 15 Pro Max glass no more fragile than other premium phones](https://appleinsider.com/articles/23/10/09/drop-test-shows-iphone-15-pro-max-glass-no-more-fragile-than-other-premium-phones?utm_medium=rss)
- - [Stranger Things season 5: Expected release date and the latest rumors](https://www.androidauthority.com/stranger-things-season-5-release-date-3372283/)<!-- TECH:END -->
+ - [Drop test shows iPhone 15 Pro Max glass no more fragile than other premium phones](https://appleinsider.com/articles/23/10/09/drop-test-shows-iphone-15-pro-max-glass-no-more-fragile-than-other-premium-phones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China outlines a plan to target 300+ exaflops of computing capacity, up from 220 in 2023, bigger optical networks, advanced data storage, and more by 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231009/p3#a231009p3)
+ - [111 Best October Prime Day Deals You Can Grab Early     - CNET](https://www.cnet.com/deals/october-prime-day-2023/#ftag=CAD590a51e)
+ - [50 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)
  - [Samsung and SK Hynix say the US will let them supply US chip equipment to their Chinese factories indefinitely without separate approvals &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/231009/p2#a231009p2)
- - [A look at Discogs, a user-generated music database and marketplace for physical music media, as sellers complain about the website&#39;s old tech and increased fees &lpar;Natalie Weiner/The Verge&rpar;](http://www.techmeme.com/231009/p1#a231009p1)
- - [You told us: Many non-US readers think the Pixel 8 phones are overpriced](https://www.androidauthority.com/google-pixel-8-series-overpriced-poll-results-3373461/)
- - [Samsung quietly launches budget Galaxy Tab A9 and Galaxy Tab A9 Plus with 5G](https://www.androidauthority.com/samsung-galaxy-tab-a9-tab-a9-plus-5g-launched-3373370/)
- - [The EU Just Kicked Off Its Biggest Climate Experiment Yet](https://www.wired.com/story/eu-carbon-tax/)<!-- TECH:END -->
+ - [Woot Slash Prices Across Many Amazon Devices Ahead of Prime Day     - CNET](https://www.cnet.com/deals/woot-slash-prices-across-many-amazon-devices-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

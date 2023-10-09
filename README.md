@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 6 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-8-3372445/)
  - [Shoppers can save up to $550 with early Fall Prime Day Apple deals from Amazon](https://appleinsider.com/articles/23/10/09/shoppers-can-save-up-to-550-with-early-fall-prime-day-apple-deals-from-amazon?utm_medium=rss)
  - [A look at LinkedIn&#39;s news operation, with 250 editors and writers across 30 countries and 17 languages, as the platform prioritizes news while others pull back &lpar;Jim Edwards/Press Gazette&rpar;](http://www.techmeme.com/231009/p15#a231009p15)
  - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
- - [California governor signs ban on social media ‘aiding or abetting’ child abuse](https://www.theverge.com/2023/10/9/23909903/california-ab1394-child-abuse-social-media-regulation-signed-governor)
- - [Early Pixel 8a leak gives best look yet at Google’s mid-ranger](https://www.androidauthority.com/pixel-8a-leaked-renders-3373733/)<!-- TECH:END -->
+ - [California governor signs ban on social media ‘aiding or abetting’ child abuse](https://www.theverge.com/2023/10/9/23909903/california-ab1394-child-abuse-social-media-regulation-signed-governor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

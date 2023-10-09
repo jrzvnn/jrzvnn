@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)
  - [Investigation: earlier in 2023, Vietnam tried to plant Predator spyware on the phones of US Congress members, CNN journalists, and policy experts via posts on X &lpar;Washington Post&rpar;](http://www.techmeme.com/231009/p7#a231009p7)
  - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)
  - [Merlin Entertainments partners with Immersive Gamebox to test AR games based on TV shows Paw Patrol and Squid Game, starting at venues in Australia and Germany &lpar;Rachel Read/Blooloop&rpar;](http://www.techmeme.com/231009/p6#a231009p6)
- - [New Malaria Vaccines Offer a Real Shot at Fighting the Disease](https://www.wired.com/story/malaria-vaccine-oxford-approval/)
- - [California Nixes a Bill to Decriminalize Plant-Based Psychedelics](https://www.wired.com/story/california-nixes-a-bill-to-decriminalize-plant-based-psychedelics/)<!-- TECH:END -->
+ - [New Malaria Vaccines Offer a Real Shot at Fighting the Disease](https://www.wired.com/story/malaria-vaccine-oxford-approval/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

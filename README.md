@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [27 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-4/)
  - [OnePlus Open display crease is almost unnoticeable in hands-on video](https://www.androidauthority.com/oneplus-open-screen-crease-3373827/)
  - [John Riccitiello is out at Unity, effective immediately](https://www.theverge.com/2023/10/9/23910441/unity-ceo-president-john-riccitiello-out-retire)
  - [Unity CEO John Riccitiello resigns in the wake of the company&#39;s fee controversy; Unity names former Red Hat President and CEO James Whitehurst as interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
- - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)
- - [Google Cloud expands Vertex AI Search with features to help health care workers pull info from clinical notes, scanned documents, and electronic health records &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231009/p17#a231009p17)<!-- TECH:END -->
+ - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

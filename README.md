@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity says John Riccitiello is retiring as president, CEO, and board chairman, and appoints former Red Hat President and CEO James Whitehurst as its interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
  - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)
  - [Google Cloud expands Vertex AI Search with features to help health care workers pull info from clinical notes, scanned documents, and electronic health records &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231009/p17#a231009p17)
- - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 ahead of Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)
- - [The Pixel 8A is curvy and colorful in these first-look leaks](https://www.theverge.com/2023/10/9/23910301/google-pixel-8a-leak-unofficial-renders-photo)
- - [How to build the ultimate iPhone 15 Pro 4K60 ProRes video recording rig](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-build-the-ultimate-iphone-15-pro-4k60-prores-video-recording-rig?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)
+ - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 ahead of Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

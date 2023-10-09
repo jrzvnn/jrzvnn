@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vegans=animal abusers](http://9gag.com/gag/aA07ev2)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 💣 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
- - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 👉 [Semen under the microscope](http://9gag.com/gag/anz39Yo)<!-- MEMES:END -->
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 😝 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
+ - 💣 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
 
 ---
 

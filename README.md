@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Fitness Deals for October Prime Day Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)
+ - [Best Prime Day Laptop Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-available-right-now/#ftag=CAD590a51e)
  - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)
- - [A US judge throws out a $32.5M jury verdict for Sonos in a smart speaker patent case against Google after finding that the Sonos patents were unenforceable &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231009/p20#a231009p20)
- - [Best Anti-Prime Day Deals: Top Bargains at Walmart, Target and Other Retailers     - CNET](https://www.cnet.com/deals/best-anti-prime-day-deals-top-bargains-at-walmart-target-and-other-retailers/#ftag=CAD590a51e)
- - [Best October Prime Day Vacuum Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/best-october-prime-day-vacuum-deals/#ftag=CAD590a51e)
- - [The Israel-Hamas War Erupts in Digital Chaos](https://www.wired.com/story/israel-hamas-war-hacktivism/)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Packers vs. Raiders, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-packers-vs-raiders-manningcast-without-cable/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates on Oct. 9, 2023: Rates Trend Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-oct-9-2023-rates-trend-higher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

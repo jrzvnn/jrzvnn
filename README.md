@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
- - 💣 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
  - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
+ - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
 
 ---
 

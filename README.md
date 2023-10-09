@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon fixes an issue that undercounted its MAUs by 407,814 between October 2 and October 8, meaning the social network has 1.8M MAUs in total and 10K servers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231009/p12#a231009p12)
- - [Tim Cook defends Apple against greenwashing accusation](https://appleinsider.com/articles/23/10/09/tim-cook-defends-apple-against-greenwashing-accusation?utm_medium=rss)
- - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
- - [Daily deals Oct. 9: 15-inch MacBook Air $1,049, AirPods Pro USB-C $199, $50 off $100 Amazon Fresh, more](https://appleinsider.com/articles/23/10/09/daily-deals-oct-9-15-inch-macbook-air-1049-airpods-pro-usb-c-199-50-off-100-amazon-fresh-more?utm_medium=rss)
- - [Google&#39;s Pixel Watch Drops to Just $280 Following 2nd Gen Launch     - CNET](https://www.cnet.com/deals/googles-pixel-watch-drops-to-just-280-following-2nd-gen-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta Quest 3 review: comfortable with improved displays and snappy performance, but there isn&#39;t much MR content and passthrough isn&#39;t quite sharp enough &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231009/p13#a231009p13)
+ - [Should Walmart be data-mining your Ozempic prescriptions?](https://www.theverge.com/2023/10/9/23909581/walmart-ozempic-food-pharmacy-market-research-privacy)
+ - [Record $250 price drop on the MacBook Air 2023](https://www.androidauthority.com/macbook-air-deal-3373693/)
+ - [Meta Quest 3 Review: Huge Hardware Bump, But Who&#39;s It For?](https://www.wired.com/review/review-meta-quest-3/)
+ - [Meta Quest 3 review: almost the one we’ve been waiting for](https://www.theverge.com/23906313/meta-quest-3-review-vr-mixed-reality-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

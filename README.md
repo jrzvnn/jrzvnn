@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 💣 [Voda](http://9gag.com/gag/a6qzE08)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
  - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
- - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
+ - 💣 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [Not that shocked](http://9gag.com/gag/aeQErAW)<!-- MEMES:END -->
 
 ---
 

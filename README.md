@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)
  - [X CEO Linda Yaccarino drops out of the WSJ Tech Live conference](https://www.theverge.com/2023/10/9/23910453/linda-yaccarino-wsj-tech-live-twitter-x)
- - [How to Score $24 Free During Amazon&#39;s October Prime Day Event     - CNET](https://www.cnet.com/tech/how-to-score-24-free-during-amazons-october-prime-day-event/#ftag=CAD590a51e)
- - [Best Internet Providers in Augusta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-augusta-ga/#ftag=CAD590a51e)
- - [27 Best Early October Prime Day Deals &lpar;2023&rpar; on Headphones, Vacuums, and More](https://www.wired.com/story/best-october-prime-day-deals-2023-4/)<!-- TECH:END -->
+ - [27 Best Early October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-4/)
+ - [OnePlus Open display crease is almost unnoticeable in hands-on video](https://www.androidauthority.com/oneplus-open-screen-crease-3373827/)
+ - [John Riccitiello is out at Unity, effective immediately](https://www.theverge.com/2023/10/9/23910441/unity-ceo-president-john-riccitiello-out-retire)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

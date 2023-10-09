@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 😝 [Voda](http://9gag.com/gag/a6qzE08)
  - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 💣 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 💣 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---
 

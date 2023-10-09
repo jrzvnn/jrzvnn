@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
  - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
  - 💣 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 😝 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)
- - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---
 

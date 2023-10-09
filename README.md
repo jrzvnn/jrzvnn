@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The crossover we didn&#39;t know existed](http://9gag.com/gag/a7qBEvm)
- - 😝 [Candace Owens tells the truth](http://9gag.com/gag/aEqbPAG)
- - 💣 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 😝 [Ultra Instinct](http://9gag.com/gag/ap9X5w8)
- - 👉 [The Future of South africa](http://9gag.com/gag/aDYLx3B)<!-- MEMES:END -->
+ - 😝 [They do exist. You are just looking in the wrong places.](http://9gag.com/gag/aoK6MZm)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 💣 [Difference between men and women](http://9gag.com/gag/aeQE5Yj)
+ - 😝 [Couple performing dangerous stunts while riding a bike](http://9gag.com/gag/aNwXYZ6)
+ - 👉 [The crossover we didn&#39;t know existed](http://9gag.com/gag/a7qBEvm)<!-- MEMES:END -->
 
 ---
 

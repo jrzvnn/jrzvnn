@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity says John Riccitiello is retiring as president, CEO, and board chairman, and appoints former Red Hat President and CEO James Whitehurst as its interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
+ - [OnePlus Open display crease is almost unnoticeable in hands-on video](https://www.androidauthority.com/oneplus-open-screen-crease-3373827/)
+ - [John Riccitiello is out at Unity, effective immediately](https://www.theverge.com/2023/10/9/23910441/unity-ceo-president-john-riccitiello-out-retire)
+ - [Unity CEO John Riccitiello resigns in the wake of the company&#39;s fee controversy; Unity names former Red Hat President and CEO James Whitehurst as interim CEO &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231009/p18#a231009p18)
  - [Duelling analysts offer differing takes on Mac in the PC market](https://appleinsider.com/articles/23/10/09/duelling-analysts-offer-differing-takes-on-mac-in-the-pc-market?utm_medium=rss)
- - [Google Cloud expands Vertex AI Search with features to help health care workers pull info from clinical notes, scanned documents, and electronic health records &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231009/p17#a231009p17)
- - [Amazon Layaway Could Be Your Ace in the Hole for This Week&#39;s Prime Day Event     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-could-be-your-ace-in-the-hole-for-this-weeks-prime-day-event/#ftag=CAD590a51e)
- - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 ahead of Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [Google Cloud expands Vertex AI Search with features to help health care workers pull info from clinical notes, scanned documents, and electronic health records &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231009/p17#a231009p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

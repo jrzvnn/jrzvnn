@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - 💣 [I give guitar lessons to some of the kids in his high school. I messaged them saying I would have to cancel today&#39;s class because my dog was hurt.when they asked me what happened,I sent them the video. Now he&#39;s being bullied at school.](http://9gag.com/gag/aME6xbM)
  - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 💣 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 👉 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)<!-- MEMES:END -->
 
 ---
 

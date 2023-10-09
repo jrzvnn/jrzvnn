@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s really going on with Apple&#39;s modem chip efforts?](https://appleinsider.com/articles/23/10/09/whats-really-going-on-with-apples-modem-chip-efforts?utm_medium=rss)
  - [Samsung SmartThings, Nanoleaf holiday lights, and smart smoke detector on HomeKit Insider](https://appleinsider.com/articles/23/10/09/samsung-smartthings-nanoleaf-holiday-lights-and-smart-smoke-detector-on-homekit-insider?utm_medium=rss)
  - [As the UK FCA widens its crypto marketing rules, Coinbase, OKX, Binance, and others partner with UK companies, expecting to continue serving UK customers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231009/p10#a231009p10)
  - [Google Pixel Watch 2 vs Samsung Galaxy Watch 5 and 5 Pro: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-5-pro-3373048/)
- - [Start Making Physical Photo Albums &lpar;2023&rpar;](https://www.wired.com/story/photo-album-rave/)
- - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
+ - [Start Making Physical Photo Albums &lpar;2023&rpar;](https://www.wired.com/story/photo-album-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

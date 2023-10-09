@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details FTX staff&#39;s all-night race to stop a crypto heist as the exchange collapsed, ultimately losing $415M to $432M to unidentified hackers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231009/p9#a231009p9)
+ - [Heat Waves in the Ground Are Getting More Extreme—and Perilous](https://www.wired.com/story/heat-waves-in-the-ground-are-getting-more-extreme-and-perilous/)
  - [Investors and analysts: Intel, Nvidia, and others in Israel are set to fortify security and face disruptions after Hamas attacks; Nvidia cancels an AI summit &lpar;Reuters&rpar;](http://www.techmeme.com/231009/p8#a231009p8)
  - [Investigation: earlier in 2023, Vietnam tried to plant Predator spyware on the phones of US Congress members, CNN journalists, and policy experts via posts on X &lpar;Washington Post&rpar;](http://www.techmeme.com/231009/p7#a231009p7)
- - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)
- - [Merlin Entertainments partners with Immersive Gamebox to test AR games based on TV shows Paw Patrol and Squid Game, starting at venues in Australia and Germany &lpar;Rachel Read/Blooloop&rpar;](http://www.techmeme.com/231009/p6#a231009p6)
- - [New Malaria Vaccines Offer a Real Shot at Fighting the Disease](https://www.wired.com/story/malaria-vaccine-oxford-approval/)<!-- TECH:END -->
+ - [iPhone 15 teardown reveals updated Qualcomm 5G modem](https://appleinsider.com/articles/23/10/09/iphone-15-teardown-reveals-updated-qualcomm-5g-modem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

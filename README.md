@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [LLMs trained on voice, text, and video chats can now detect and mimic emotions like empathy, which could impact fields like customer service, HR, mental health &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/231008/p6#a231008p6)
- - [How to get started using Metal Developer Tools for Windows](https://appleinsider.com/articles/23/10/08/how-to-get-started-using-metal-developer-tools-for-windows?utm_medium=rss)
- - [Save $100 off Bose&#39;s Noise Cancelling Headphones 700     - CNET](https://www.cnet.com/deals/save-100-off-boses-noise-cancelling-headphones-700/#ftag=CAD590a51e)
- - [Crime blotter: Latest on Philadelphia Apple Store looting](https://appleinsider.com/articles/23/10/08/crime-blotter-latest-on-philadelphia-apple-store-looting?utm_medium=rss)
- - [Rooster Teeth pulls Red vs. Blue and other shows from YouTube](https://www.theverge.com/2023/10/8/23908787/rooster-teeth-shows-leave-youtube-red-vs-blue)<!-- TECH:END -->
+ - [47 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)
+ - [October Prime Day: The Best Under $25 Deals You Can Shop Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)
+ - [Best Early October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)
+ - [How to get started using Metal Developer Tools for Windows](https://appleinsider.com/articles/23/10/08/how-to-get-started-using-metal-developer-tools-for-windows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

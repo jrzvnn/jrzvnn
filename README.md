@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
- - 💣 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
- - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
+ - 😝 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
+ - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
+ - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [US CVN 78 Speed Last Week vs Today Heading Toward Israel](http://9gag.com/gag/arm0MyK)
  - 👉 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)<!-- MEMES:END -->
 
 ---

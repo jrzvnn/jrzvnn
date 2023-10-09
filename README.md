@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)
  - [A US judge throws out a $32.5M jury verdict for Sonos in a smart speaker patent case against Google after finding that the Sonos patents were unenforceable &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231009/p20#a231009p20)
- - [The Israel-Hamas War Erupts in Digital Chaos](https://www.wired.com/story/israel-hamas-war-hacktivism/)
- - [Unity CEO John Riccitiello Steps Down After Pricing Blowup](https://www.wired.com/story/john-riccitello-retires-unity-ceo-controversy/)
- - [California Gov. Gavin Newsom signs AB 1394, a bill to hold social media platforms and other web services liable for &quot;knowingly facilitating&quot; commercial CSAM &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231009/p19#a231009p19)<!-- TECH:END -->
+ - [Best Anti-Prime Day Deals: Top Bargains at Walmart, Target and Other Retailers     - CNET](https://www.cnet.com/deals/best-anti-prime-day-deals-top-bargains-at-walmart-target-and-other-retailers/#ftag=CAD590a51e)
+ - [Best October Prime Day Vacuum Deals to Shop Right Now     - CNET](https://www.cnet.com/deals/best-october-prime-day-vacuum-deals/#ftag=CAD590a51e)
+ - [The Israel-Hamas War Erupts in Digital Chaos](https://www.wired.com/story/israel-hamas-war-hacktivism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

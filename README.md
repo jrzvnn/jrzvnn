@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 😝 [Savages](http://9gag.com/gag/aYVB77w)
+ - 💣 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
  - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 💣 [How to piss off 100% of people with one picture.](http://9gag.com/gag/ajVj5M0)
- - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
- - 👉 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)<!-- MEMES:END -->
+ - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The crossover we didn&#39;t know existed](http://9gag.com/gag/a7qBEvm)
+ - 😝 [Just imagine , GTA in mafia style done by rockstar, full mafia gangs war , controlling districts, managing stores .](http://9gag.com/gag/aWGA1Eq)
+ - 💣 [Allegedly attacked for not wearing a head covering, does anybody have the actual video, or sources?](http://9gag.com/gag/aOxOBxE)
  - 😝 [No words needed](http://9gag.com/gag/a9qeAxZ)
- - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 💣 [To become more professional](http://9gag.com/gag/a1PnQBR)
- - 😝 [Going to hell. See ya!](http://9gag.com/gag/aKEyjz6)
- - 👉 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)<!-- MEMES:END -->
+ - 👉 [T-90M found out](http://9gag.com/gag/anz34eb)<!-- MEMES:END -->
 
 ---
 

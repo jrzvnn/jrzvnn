@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 💣 [When you get called out on your bullshit](http://9gag.com/gag/ap9XN7E)
- - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
- - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
+ - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 💣 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 😝 [Deep down we all wanted to at to happen](http://9gag.com/gag/a04GKmv)
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---
 

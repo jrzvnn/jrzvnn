@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
- - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - 💣 [Voda](http://9gag.com/gag/a6qzE08)
  - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
+ - 😝 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)
+ - 💣 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 😝 [So, How is your multiculturalism going?](http://9gag.com/gag/anz3zYq)
+ - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
 
 ---
 

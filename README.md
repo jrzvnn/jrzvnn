@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europe asks if Digital Markets Act should apply to iMessage](https://appleinsider.com/articles/23/10/09/europe-asks-if-digital-markets-act-should-apply-to-imessage?utm_medium=rss)
+ - [Google will stock Pixel 8 spare parts for seven years](https://www.theverge.com/2023/10/9/23910082/google-will-stock-pixel-8-spare-parts-for-seven-years)
+ - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
  - [Google Pixel 6 vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-8-3372445/)
- - [TikTok Isn&#39;t Wrong. The Stanley Tumblers Really Are That Good     - CNET](https://www.cnet.com/health/tiktok-isnt-wrong-the-stanley-tumblers-really-are-that-good/#ftag=CAD590a51e)
- - [Shoppers can save up to $550 with early Fall Prime Day Apple deals from Amazon](https://appleinsider.com/articles/23/10/09/shoppers-can-save-up-to-550-with-early-fall-prime-day-apple-deals-from-amazon?utm_medium=rss)
- - [A look at LinkedIn&#39;s news operation, with 250 editors and writers across 30 countries and 17 languages, as the platform prioritizes news while others pull back &lpar;Jim Edwards/Press Gazette&rpar;](http://www.techmeme.com/231009/p15#a231009p15)
- - [Save $172 on a Windows 11 Pro License Before This Deal Runs Out     - CNET](https://www.cnet.com/deals/save-172-on-a-windows-11-pro-license-before-this-deal-runs-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok Isn&#39;t Wrong. The Stanley Tumblers Really Are That Good     - CNET](https://www.cnet.com/health/tiktok-isnt-wrong-the-stanley-tumblers-really-are-that-good/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

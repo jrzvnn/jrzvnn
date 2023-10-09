@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Lion the Witch and the Audacity of this B*tch.](http://9gag.com/gag/ajVj940)
- - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
  - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
  - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 👉 [More women are being taken hostage in Gaza](http://9gag.com/gag/aXnzxjP)<!-- MEMES:END -->
 
 ---
 

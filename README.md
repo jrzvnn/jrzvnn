@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [T-90M found out](http://9gag.com/gag/anz34eb)
- - 😝 [When you get called out on your bullshit](http://9gag.com/gag/ap9XN7E)
- - 💣 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 😝 [Mark Waid and George Perez waited their whole lives to write this](http://9gag.com/gag/aGEqpL5)
+ - 😝 [Just a reminder that this video exists](http://9gag.com/gag/aEqbx0e)
+ - 💣 [Queen](http://9gag.com/gag/aoK6PAg)
  - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 👉 [A quick and easy solution everyone would be benefiting from.](http://9gag.com/gag/aBdMxMO)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 😝 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 💣 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 😝 [Deep down we all wanted to at to happen](http://9gag.com/gag/a04GKmv)
+ - 😝 [Not that shocked](http://9gag.com/gag/aeQErAW)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 💣 [Voda](http://9gag.com/gag/a6qzE08)
+ - 😝 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
  - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---

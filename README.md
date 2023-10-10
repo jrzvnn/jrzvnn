@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 😝 [Martes](http://9gag.com/gag/a7qB8WA)
+ - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - 💣 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
  - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
+ - 👉 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)<!-- MEMES:END -->
 
 ---
 

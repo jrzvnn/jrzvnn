@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 😝 [HAMAS SUPPORTERS ATTACK SYDNEY OPERA HOUSE](http://9gag.com/gag/aWGAg92)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
  - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
  - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
 
 ---

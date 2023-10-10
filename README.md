@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals of the Prime Big Deal Days Sale](https://www.androidauthority.com/prime-big-deal-days-3373431/)
+ - [This Bose QuietComfort 45 deal is the best pre-holiday shopping you’ll do!](https://www.androidauthority.com/bose-quietcomfort-45-amazon-prime-big-deal-days-sale-3373982/)
+ - [Amazon Prime alert! Pixel 7 and Pixel 7a get their biggest price drops yet](https://www.androidauthority.com/amazon-prime-big-deal-days-pixel-7-pixel-7a-sale-3373986/)
  - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 for Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)
- - [Apple AirPods &amp; Beats crash to $89 with Amazon Prime Day deals](https://appleinsider.com/articles/23/10/10/apple-airpods-beats-crash-to-89-with-amazon-prime-day-deals?utm_medium=rss)
- - [Get up to 30% off Aqara smart home devices &amp; lock in record low prices for Amazon Prime Day](https://appleinsider.com/articles/23/10/10/get-up-to-30-off-aqara-smart-home-devices-lock-in-record-low-prices-for-amazon-prime-day?utm_medium=rss)
- - [Your Google Nest device could be a step closer to regaining lost features](https://www.androidauthority.com/google-nest-chromecast-lost-features-sonos-lose-3373983/)
- - [Global PC shipments fell 7.6% YoY to 68.2M in Q3 2023; among the top five vendors, Apple experienced the largest decline, down 23.1%, and only HP grew, up 6.4% &lpar;IDC&rpar;](http://www.techmeme.com/231010/p2#a231010p2)<!-- TECH:END -->
+ - [Apple AirPods &amp; Beats crash to $89 with Amazon Prime Day deals](https://appleinsider.com/articles/23/10/10/apple-airpods-beats-crash-to-89-with-amazon-prime-day-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

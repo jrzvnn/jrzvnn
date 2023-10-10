@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Microsoft rolls out new tools for healthcare organizations, including three new AI models in preview for Azure AI Health Insights and an Azure AI Health Bot &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231010/p19#a231010p19)
- - [The Fall of the House of Usher is Mike Flanagan’s most ambitious horror story yet](https://www.theverge.com/23906083/the-fall-of-the-house-of-usher-movie-review-netflix)
- - [The slim PS5 is still huge](https://www.theverge.com/2023/10/10/23911388/new-ps5-model-slim-size-comparison)
- - [PlayStation 5 gets new design, new price, new storage, and cool new trick](https://www.androidauthority.com/playstation-5-refresh-2023-3374234/)<!-- TECH:END -->
+ - [Apple seeds third iOS 17.1 iPadOS 17.1 developer beta](https://appleinsider.com/articles/23/10/10/apple-seeds-third-ios-171-ipados-171-developer-beta?utm_medium=rss)
+ - [Third watchOS 10.1 developer beta is now available](https://appleinsider.com/articles/23/10/10/third-watchos-101-developer-beta-is-now-available?utm_medium=rss)
+ - [Apple issues third macOS Sonoma 14.1 developer beta](https://appleinsider.com/articles/23/10/10/apple-issues-third-macos-sonoma-141-developer-beta?utm_medium=rss)
+ - [Prime Day deals Oct. 10: MacBook Pro from $570, M2 MacBook Air from $830, Beats Solo 3 $100, Thunderbolt docks up to $130 off, more](https://appleinsider.com/articles/23/10/10/prime-day-deals-oct-10-macbook-pro-from-570-m2-macbook-air-from-830-beats-solo-3-100-thunderbolt-docks-up-to-130-off-more?utm_medium=rss)
+ - [Does the Pixel 8 Pro have a curved screen?](https://www.androidauthority.com/does-the-pixel-8-pro-have-a-curved-screen-3374200/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

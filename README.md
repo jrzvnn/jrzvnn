@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [41 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)
  - [The $180 Intel Arc A580 is Team Blue’s new budget GPU](https://www.theverge.com/2023/10/10/23911902/intel-arc-a580-announcement-performance-price-nvidia-amd)
  - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [38 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)
- - [US v. Google: in 2007, Sundar Pichai raised concerns over the bad &quot;optics&quot; of Google&#39;s deal with Apple to make Google the pre-selected search option on Safari &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231010/p28#a231010p28)<!-- TECH:END -->
+ - [38 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

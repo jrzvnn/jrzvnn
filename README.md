@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
+ - [Google starts prompting users to create a passkey for their account by default, but says passwords will &quot;still remain part of our lives as we make the pivot&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231010/p12#a231010p12)
+ - [Passkeys: all the news and updates around passwordless sign-on](https://www.theverge.com/2023/9/29/23895518/passkey-passwordless-login-announcements-news-updates)
+ - [70 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Passkeys are here to make your Google account password obsolete](https://www.androidauthority.com/google-account-passkeys-default-3374099/)
- - [A Doctored Biden Video Is a Test Case for Facebook’s Deepfake Policies](https://www.wired.com/story/a-doctored-biden-video-is-a-test-case-for-facebooks-deepfake-policies/)
- - [Google begins prompting users to create passwordless passkeys by default](https://www.theverge.com/2023/10/10/23910966/google-account-passkey-setup-prompt-default-passwordless-security)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board plans to review Meta&#39;s manipulated content and deepfake policies, after moderators did not remove a video describing Biden as a pedophile &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231010/p11#a231010p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

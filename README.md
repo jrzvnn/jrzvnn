@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon hired warehouse workers in Saudi Arabia who were trafficked from Nepal; Amazon admits that some were mistreated and is &quot;implementing stronger controls&quot; &lpar;The Guardian&rpar;](http://www.techmeme.com/231010/p23#a231010p23)
+ - [EU asks Elon Musk to prove X isn’t breaking Europe’s disinformation rules](https://www.theverge.com/2023/10/10/23911686/eu-elon-musk-x-disinformation-digital-services-act-hamas-israel)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [These new security cameras from TP-Link match Arlo and Nest for style but, thankfully, not price](https://www.theverge.com/2023/10/10/23911395/tp-link-tapo-wire-free-magcam-security-camera-price-specs)
- - [iRobot’s Roomba i4 Evo and j7 Plus are down to their best price to date](https://www.theverge.com/2023/10/10/23910544/irobot-roomba-i4-evo-j7-plus-robot-vacuum-october-prime-day-2023-deal-sale)
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
+ - [These new security cameras from TP-Link match Arlo and Nest for style but, thankfully, not price](https://www.theverge.com/2023/10/10/23911395/tp-link-tapo-wire-free-magcam-security-camera-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

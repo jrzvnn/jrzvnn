@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [37 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)
- - [The 17 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Apple releases new firmware for AirPods Pro 2](https://appleinsider.com/articles/23/10/10/apple-releases-new-firmware-for-airpods-pro-2?utm_medium=rss)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [Sources: the US SEC is investigating a Twitter security lapse in 2018 that exposed users&#39; email addresses and whether executives adequately informed investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/231010/p20#a231010p20)<!-- TECH:END -->
+ - [The 158 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
+ - [Google will bring back useful Nest speaker function that Sonos took away](https://www.androidauthority.com/google-smart-speaker-feature-3374283/)
+ - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
+ - [37 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

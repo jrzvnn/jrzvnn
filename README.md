@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [Baton Rouge-based Gutsy, which plans to use &quot;process mining&quot; to help companies improve their cybersecurity, raised a $51M seed led by YL Ventures and Mayfield &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231010/p14#a231010p14)<!-- TECH:END -->
+ - [Telly has a plan to build the best TV ever — and give it away for free](https://www.theverge.com/2023/10/10/23910631/telly-free-tv-ads-ilya-pozin-vergecast)
+ - [Apple finally brings an online store to Chile](https://appleinsider.com/articles/23/10/10/apple-finally-brings-an-online-store-to-chile?utm_medium=rss)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [How the attacks in Israel are changing Threads](https://www.theverge.com/2023/10/10/23911049/twitter-x-threads-news-misinformation-israel-hamas-attacks)
+ - [The best smartwatch and fitness tracker deals for Prime Day](https://www.theverge.com/23910515/amazon-october-prime-day-best-fitness-tracker-smartwatch-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds 1080p video in Google Meet group calls for Workspace customers, after rolling out the feature for one-on-one sessions in April 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231010/p29#a231010p29)
+ - [22 Best Prime Day Laptop Deals &lpar;2023&rpar; and Other WFH Gear](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-1/)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [41 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)
- - [The $180 Intel Arc A580 is Team Blue’s new budget GPU](https://www.theverge.com/2023/10/10/23911902/intel-arc-a580-announcement-performance-price-nvidia-amd)
- - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)
- - [38 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)<!-- TECH:END -->
+ - [The $180 Intel Arc A580 is Team Blue’s new budget GPU](https://www.theverge.com/2023/10/10/23911902/intel-arc-a580-announcement-performance-price-nvidia-amd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

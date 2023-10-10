@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HODL](http://9gag.com/gag/anz3zAb)
+ - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
+ - 😝 [Challenge Accepted](http://9gag.com/gag/aXnzrPP)
+ - 💣 [I am posting it for the 3rd time after they block it.](http://9gag.com/gag/a3ZDEx8)
  - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 💣 [Savages](http://9gag.com/gag/aYVB77w)
- - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 👉 [Terry Crews recreates scene from White Chicks](http://9gag.com/gag/avQVQwd)<!-- MEMES:END -->
 
 ---
 

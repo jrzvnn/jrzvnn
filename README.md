@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google starts prompting users to create a passkey for their account by default, but says passwords will &quot;still remain part of our lives as we make the pivot&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231010/p12#a231010p12)
- - [Passkeys: all the news and updates around passwordless sign-on](https://www.theverge.com/2023/9/29/23895518/passkey-passwordless-login-announcements-news-updates)
- - [70 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Meta&#39;s Oversight Board plans to review Meta&#39;s manipulated content and deepfake policies, after moderators did not remove a video describing Biden as a pedophile &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231010/p11#a231010p11)<!-- TECH:END -->
+ - [The Motorola Razr 2023 is finally available in the US, and it’s a steal](https://www.androidauthority.com/motorola-razr-2023-us-availability-3373646/)
+ - [In the first week of Sam Bankman-Fried&#39;s trial, Judge Kaplan repeatedly admonished SBF&#39;s lawyers, disrupting the questioning, in an ominous sign for the defense &lpar;New York Times&rpar;](http://www.techmeme.com/231010/p13#a231010p13)
+ - [iPad mini 7 could be a spec-bump instead of a full update](https://appleinsider.com/articles/23/10/10/ipad-mini-7-could-be-a-spec-bump-instead-of-a-full-update?utm_medium=rss)
+ - [Disney Imagineering’s latest robot looks right out of Star Wars](https://www.theverge.com/2023/10/10/23911040/disney-imagineering-robot-bipedal-balance-free-walking-concept)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals of the Prime Big Deal Days Sale](https://www.androidauthority.com/prime-big-deal-days-3373431/)
- - [This Bose QuietComfort 45 deal is the best pre-holiday shopping you’ll do!](https://www.androidauthority.com/bose-quietcomfort-45-amazon-prime-big-deal-days-sale-3373982/)
- - [Amazon Prime alert! Pixel 7 and Pixel 7a get their biggest price drops yet](https://www.androidauthority.com/amazon-prime-big-deal-days-pixel-7-pixel-7a-sale-3373986/)
- - [Amazon slashes MacBook Air 13-inch to $749, 15-inch to $1,049 for Prime Day](https://appleinsider.com/articles/23/10/09/amazon-slashes-macbook-air-13-inch-to-749-15-inch-to-1049-ahead-of-prime-day?utm_medium=rss)
- - [Apple AirPods &amp; Beats crash to $89 with Amazon Prime Day deals](https://appleinsider.com/articles/23/10/10/apple-airpods-beats-crash-to-89-with-amazon-prime-day-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung joins Google in RCS shaming Apple](https://www.theverge.com/2023/10/10/23910941/samsung-rcs-shaming-apple-getthemessage)
+ - [Prime Day 2 brings the OnePlus Pad deal we’ve been waiting for](https://www.androidauthority.com/oneplus-pad-big-deal-days-3373834/)
+ - [Massive $450 price drop on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-deal-3373882/)
+ - [The Galaxy S23 Ultra’s 512GB model has never had this low of a price](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-oct-2023-3373712/)
+ - [The Soundcore Liberty 4 are just $89.99 in this rare Prime Day deal](https://www.androidauthority.com/soundcore-liberty-4-deal-3373857/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

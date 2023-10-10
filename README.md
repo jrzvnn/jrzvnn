@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day monitor deals: grab epic savings on external displays for your Mac](https://appleinsider.com/articles/23/10/10/prime-day-monitor-deals-grab-epic-savings-on-external-displays-for-your-mac?utm_medium=rss)
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [The iPhone 12 will soon be legal in France again](https://www.theverge.com/2023/10/10/23911778/iphone-12-ios-17-france-emissions-fix)
- - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [TikTok adds Direct Post, which lets users post directly from Adobe Premiere Pro, Adobe Express, CapCut, DaVinci Resolve, SocialPilot, and Twitch&#39;s Clip Editor &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231010/p25#a231010p25)<!-- TECH:END -->
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
+ - [Right-to-repair is now the law in California](https://www.theverge.com/23910066/right-to-repair-law-newsom-california-sb-244)
+ - [After a US judge invalidates Sonos patents, Google rolls out an update to let Nest speakers, displays, and Chromecast devices belong to multiple speaker groups &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231010/p26#a231010p26)
+ - [Prime Day monitor deals: grab epic savings on external displays for your Mac](https://appleinsider.com/articles/23/10/10/prime-day-monitor-deals-grab-epic-savings-on-external-displays-for-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

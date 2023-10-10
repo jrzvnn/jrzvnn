@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [El Rimal neighborhood, the Gaza Beverly Hills, this morning. No survivors in any of the Israeli strikes](http://9gag.com/gag/az2zxnq)
- - 😝 [Voda](http://9gag.com/gag/a6qzE08)
- - 💣 [Friends](http://9gag.com/gag/amAyAR6)
- - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
- - 👉 [But why tho?](http://9gag.com/gag/a2KVv9e)<!-- MEMES:END -->
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 💣 [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
 
 ---
 

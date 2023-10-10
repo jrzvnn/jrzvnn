@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok adds Direct Post, which lets users post directly from Adobe Premiere Pro, Adobe Express, CapCut, DaVinci Resolve, SocialPilot, and Twitch&#39;s Clip Editor &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231010/p25#a231010p25)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [Prime deal: Save almost 50% on the new Beats Studio Pro!](https://www.androidauthority.com/beats-studio-pro-prime-deal-3374374/)
  - [Amazon’s kid-friendly Kindle Paperwhite has hit an all-time low for Prime Day](https://www.theverge.com/2023/10/10/23908823/amazon-kindle-paperwhite-kids-ebook-reader-october-prime-day-deal-sale)
- - [Letter: Thierry Breton warns Elon Musk that X could face penalties under the DSA for hosting &quot;illegal content and disinformation&quot; about the Israel-Hamas war &lpar;CNN&rpar;](http://www.techmeme.com/231010/p24#a231010p24)
- - [113 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)<!-- TECH:END -->
+ - [Letter: Thierry Breton warns Elon Musk that X could face penalties under the DSA for hosting &quot;illegal content and disinformation&quot; about the Israel-Hamas war &lpar;CNN&rpar;](http://www.techmeme.com/231010/p24#a231010p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

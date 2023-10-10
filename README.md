@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s this? Jack Skellington is coming to Fortnite for Halloween](https://www.theverge.com/2023/10/10/23910108/fortnite-halloween-20230jack-skellington-michael-myers)
  - [As the Israel-Hamas war escalates, a look at the role of hacktivism for both sides, supported by outside groups, including DDoSing Israeli government sites &lpar;Wired&rpar;](http://www.techmeme.com/231010/p6#a231010p6)
  - [57 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
  - [9 Best Prime Day Kindle Deals &lpar;2023&rpar; for Book Lovers](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023-1/)
- - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)
- - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)<!-- TECH:END -->
+ - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

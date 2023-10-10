@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: X shut down a tool used to identify coordinated disinformation campaigns in recent months, as it moved services away from Google Cloud to cut costs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231009/p21#a231009p21)
+ - [8 Best All-Clad Cookware Deals Right Now &lpar;October 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
  - [Best Fitness Deals for October Prime Day Right Now     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)
  - [Best Prime Day Laptop Deals Available Right Now     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-available-right-now/#ftag=CAD590a51e)
- - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)
- - [Monday Night Football: How to Watch Packers vs. Raiders, ManningCast Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-packers-vs-raiders-manningcast-without-cable/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates on Oct. 9, 2023: Rates Trend Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-oct-9-2023-rates-trend-higher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 7a vs Pixel 8: Should you upgrade?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-should-you-upgrade-3373717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

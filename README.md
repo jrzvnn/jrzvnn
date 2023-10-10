@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Governor Gavin Newsom signs into law the Delete Act, which requires data brokers to delete a resident&#39;s personal information after a single request &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231010/p27#a231010p27)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
  - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
- - [Right-to-repair is now the law in California](https://www.theverge.com/23910066/right-to-repair-law-newsom-california-sb-244)
- - [After a US judge invalidates Sonos patents, Google rolls out an update to let Nest speakers, displays, and Chromecast devices belong to multiple speaker groups &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231010/p26#a231010p26)
- - [Prime Day monitor deals: grab epic savings on external displays for your Mac](https://appleinsider.com/articles/23/10/10/prime-day-monitor-deals-grab-epic-savings-on-external-displays-for-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Right-to-repair is now the law in California](https://www.theverge.com/23910066/right-to-repair-law-newsom-california-sb-244)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

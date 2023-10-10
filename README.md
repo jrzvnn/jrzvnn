@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
  - [26 Best Deals From Best Buy&#39;s 48-Hour Flash Sale &lpar;2023&rpar;](https://www.wired.com/story/best-buy-flash-sale-october-2023/)
  - [Sources: EU regulators send out questionnaires asking customers and competitors whether Apple&#39;s iMessage and Microsoft&#39;s Bing should be regulated under the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231010/p4#a231010p4)
  - [50 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [The OnePlus 11 has received its biggest discount yet as part of Prime Day 2](https://www.androidauthority.com/oneplus-11-deal-prime-day-2-3374013/)
- - [Google Pixel Tablet just dropped to lowest price ever for Prime members](https://www.androidauthority.com/google-pixel-tablet-amazon-prime-big-deal-days-sale-3373990/)<!-- TECH:END -->
+ - [The OnePlus 11 has received its biggest discount yet as part of Prime Day 2](https://www.androidauthority.com/oneplus-11-deal-prime-day-2-3374013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

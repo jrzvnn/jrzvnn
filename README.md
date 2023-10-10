@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Bose SoundLink Revolve Plus II is at its lowest price in years](https://www.androidauthority.com/bose-speaker-deal-3374209/)
+ - [Sony announces a new $500 PS5 model with a detachable disc drive, 1TB of internal storage, and a slightly slimmer and shorter design, shipping in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231010/p18#a231010p18)
+ - [92 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
  - [Goldman Sachs &#39;encouraged&#39; by improving PC market](https://appleinsider.com/articles/23/10/10/goldman-sachs-encouraged-by-improving-pc-market?utm_medium=rss)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
- - [iPhone remains the top smartphone for teenagers, says Piper Sandler](https://appleinsider.com/articles/23/10/10/iphone-remains-the-top-smartphone-for-teenagers-says-piper-sandler?utm_medium=rss)
- - [The best laptop deals for October Prime Day](https://www.theverge.com/23911169/october-amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

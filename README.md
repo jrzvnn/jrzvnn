@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
+ - [Motorola’s other Razr foldable is here for $699.99](https://www.theverge.com/2023/10/10/23911156/motorola-razr-edge-2023-flip-phone-price-availability)
  - [iOS 17 Wi-Fi issues related to past or present beta installs](https://appleinsider.com/articles/23/10/10/ios-17-wi-fi-issues-related-to-past-or-present-beta-installs?utm_medium=rss)
- - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [17 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-1/)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

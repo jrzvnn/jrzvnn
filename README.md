@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge blasts Sonos for abusing patent system and throws out $32.5 million win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)
- - [Verge apparel and accessories are 20 percent off today](https://www.theverge.com/23904937/verge-merch-accessories-sale-amazon-october-prime-day)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Oura Ring gets new colorway and stress management features](https://www.androidauthority.com/oura-ring-colorway-and-features-3373173/)
- - [28 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [Cleaning with Narwal Freo: Big savings for spotless floors](https://www.androidauthority.com/cleaning-with-narwal-freo-big-savings-for-spotless-floors-3373898/)
+ - [Ontario&#39;s Apple Square One store to move upstairs](https://appleinsider.com/articles/23/10/10/ontarios-apple-square-one-store-to-move-upstairs?utm_medium=rss)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [The OnePlus Open foldable could be arriving in the US as soon as next week](https://www.theverge.com/2023/10/10/23911042/oneplus-open-folding-phone-us-release-price-android-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

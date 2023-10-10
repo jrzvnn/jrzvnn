@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 💣 [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
+ - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)
+ - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 

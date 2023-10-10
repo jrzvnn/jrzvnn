@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [50 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
  - [The OnePlus 11 has received its biggest discount yet as part of Prime Day 2](https://www.androidauthority.com/oneplus-11-deal-prime-day-2-3374013/)
  - [Google Pixel Tablet just dropped to lowest price ever for Prime members](https://www.androidauthority.com/google-pixel-tablet-amazon-prime-big-deal-days-sale-3373990/)
  - [Apple Watch Ultra 2, SE drop to as low as $199 during Amazon Prime Day](https://appleinsider.com/articles/23/10/10/apple-watch-ultra-2-se-drop-to-as-low-as-199-during-amazon-prime-day?utm_medium=rss)
- - [The Samsung Galaxy A54 5G is just $329.99 for the first time](https://www.androidauthority.com/samsung-galaxy-a54-5g-prime-deal-3373947/)
- - [London-based kennek, which offers SaaS tools for open banking, open finance, and payments, raised a $12.5M seed led by HV Capital &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/231010/p3#a231010p3)<!-- TECH:END -->
+ - [The Samsung Galaxy A54 5G is just $329.99 for the first time](https://www.androidauthority.com/samsung-galaxy-a54-5g-prime-deal-3373947/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

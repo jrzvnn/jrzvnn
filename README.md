@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro has 100Hz refresh rate to combat flickering lights](https://appleinsider.com/articles/23/10/10/apple-vision-pro-has-100hz-refresh-rate-to-combat-flickering-lights?utm_medium=rss)
+ - [Sources: after stockpiling components for months, Huawei aims to ship 60M to 70M phones in 2024, doubling shipments in 2023 and 2022, despite the US crackdown &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/231010/p7#a231010p7)
  - [What’s this? Jack Skellington is coming to Fortnite for Halloween](https://www.theverge.com/2023/10/10/23910108/fortnite-halloween-20230jack-skellington-michael-myers)
- - [As the Israel-Hamas war escalates, a look at the role of hacktivism for both sides, supported by outside groups, including DDoSing Israeli government sites &lpar;Wired&rpar;](http://www.techmeme.com/231010/p6#a231010p6)
- - [57 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [9 Best Prime Day Kindle Deals &lpar;2023&rpar; for Book Lovers](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023-1/)
- - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)<!-- TECH:END -->
+ - [Get a 1TB 16-inch MacBook Pro for $1,949 thanks to a $750 price drop](https://appleinsider.com/articles/23/10/04/get-a-1tb-16-inch-macbook-pro-for-1949-thanks-to-a-750-price-drop?utm_medium=rss)
+ - [As the Israel-Hamas war escalates, a look at the role of hacktivism for both sides, supported by outside groups, including DDoSing Israeli government sites &lpar;Wired&rpar;](http://www.techmeme.com/231010/p6#a231010p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

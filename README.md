@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung joins Google in RCS shaming Apple](https://www.theverge.com/2023/10/10/23910941/samsung-rcs-shaming-apple-getthemessage)
- - [Prime Day 2 brings the OnePlus Pad deal we’ve been waiting for](https://www.androidauthority.com/oneplus-pad-big-deal-days-3373834/)
- - [Massive $450 price drop on the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-deal-3373882/)
- - [The Galaxy S23 Ultra’s 512GB model has never had this low of a price](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-oct-2023-3373712/)
- - [The Soundcore Liberty 4 are just $89.99 in this rare Prime Day deal](https://www.androidauthority.com/soundcore-liberty-4-deal-3373857/)<!-- TECH:END -->
+ - [The OnePlus 11 has received its biggest discount yet as part of Prime Day 2](https://www.androidauthority.com/oneplus-11-deal-prime-day-2-3374013/)
+ - [Google Pixel Tablet just dropped to lowest price ever for Prime members](https://www.androidauthority.com/google-pixel-tablet-amazon-prime-big-deal-days-sale-3373990/)
+ - [Apple Watch Ultra 2, SE drop to as low as $199 during Amazon Prime Day](https://appleinsider.com/articles/23/10/10/apple-watch-ultra-2-se-drop-to-as-low-as-199-during-amazon-prime-day?utm_medium=rss)
+ - [The Samsung Galaxy A54 5G is just $329.99 for the first time](https://www.androidauthority.com/samsung-galaxy-a54-5g-prime-deal-3373947/)
+ - [London-based kennek, which offers SaaS tools for open banking, open finance, and payments, raised a $12.5M seed led by HV Capital &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/231010/p3#a231010p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

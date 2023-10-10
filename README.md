@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
- - 😝 [CCP law in Australia](http://9gag.com/gag/agobmwg)
- - 💣 [Go playboy!](http://9gag.com/gag/amAyoDV)
- - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [But why tho?](http://9gag.com/gag/a2KVv9e)
+ - 💣 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
+ - 😝 [Voda](http://9gag.com/gag/a6qzE08)
+ - 👉 [Friends](http://9gag.com/gag/amAyAR6)<!-- MEMES:END -->
 
 ---
 

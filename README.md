@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Razr 2023 is finally available in the US, and it’s a steal](https://www.androidauthority.com/motorola-razr-2023-us-availability-3373646/)
- - [In the first week of Sam Bankman-Fried&#39;s trial, Judge Kaplan repeatedly admonished SBF&#39;s lawyers, disrupting the questioning, in an ominous sign for the defense &lpar;New York Times&rpar;](http://www.techmeme.com/231010/p13#a231010p13)
- - [iPad mini 7 could be a spec-bump instead of a full update](https://appleinsider.com/articles/23/10/10/ipad-mini-7-could-be-a-spec-bump-instead-of-a-full-update?utm_medium=rss)
- - [Disney Imagineering’s latest robot looks right out of Star Wars](https://www.theverge.com/2023/10/10/23911040/disney-imagineering-robot-bipedal-balance-free-walking-concept)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
+ - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
+ - [Baton Rouge-based Gutsy, which plans to use &quot;process mining&quot; to help companies improve their cybersecurity, raised a $51M seed led by YL Ventures and Mayfield &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231010/p14#a231010p14)
+ - [21 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

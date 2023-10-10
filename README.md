@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [HODL](http://9gag.com/gag/anz3zAb)
- - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 😝 [Blud made a crazy switch](http://9gag.com/gag/aVb87Rd)
- - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 💣 [Savages](http://9gag.com/gag/aYVB77w)
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
 
 ---
 

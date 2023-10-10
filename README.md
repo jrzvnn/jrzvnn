@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 😝 [Terry Crews recreates scene from White Chicks](http://9gag.com/gag/avQVQwd)
- - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
- - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
+ - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - 😝 [CCP law in Australia](http://9gag.com/gag/agobmwg)
+ - 💣 [Go playboy!](http://9gag.com/gag/amAyoDV)
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 

@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
+ - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
  - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
  - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [Baton Rouge-based Gutsy, which plans to use &quot;process mining&quot; to help companies improve their cybersecurity, raised a $51M seed led by YL Ventures and Mayfield &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231010/p14#a231010p14)
- - [21 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)<!-- TECH:END -->
+ - [Baton Rouge-based Gutsy, which plans to use &quot;process mining&quot; to help companies improve their cybersecurity, raised a $51M seed led by YL Ventures and Mayfield &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231010/p14#a231010p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

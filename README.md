@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [October Amazon Prime Day Vacuum Deals Are Here     - CNET](https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e)
- - [100 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [Apple Watch won&#39;t get MicroLED display until 2025 at the earliest](https://appleinsider.com/articles/23/10/10/apple-watch-wont-get-microled-display-until-2025-at-the-earliest?utm_medium=rss)
- - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
+ - [Sources: the SEC is probing a 2018 security lapse at Twitter exposing users&#39; email addresses and if executives adequately disclosed the issue to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/231010/p20#a231010p20)
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
+ - [Unity’s CEO is out, but that still may not be enough for developers](https://www.theverge.com/2023/10/10/23911338/unity-ceo-steps-down-developers-react)
+ - [The 153 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [October Amazon Prime Day Vacuum Deals Are Here     - CNET](https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

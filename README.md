@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 161 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Caroline Ellison testifies SBF &quot;directed&quot; her to commit crimes like using FTX customer funds for Alameda Research&#39;s venture investments and loan repayments &lpar;New York Times&rpar;](http://www.techmeme.com/231010/p21#a231010p21)
+ - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
+ - [These new security cameras from TP-Link match Arlo and Nest for style but, thankfully, not price](https://www.theverge.com/2023/10/10/23911395/tp-link-tapo-wire-free-magcam-security-camera-price-specs)
+ - [iRobot’s Roomba i4 Evo and j7 Plus are down to their best price to date](https://www.theverge.com/2023/10/10/23910544/irobot-roomba-i4-evo-j7-plus-robot-vacuum-october-prime-day-2023-deal-sale)
  - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
- - [Skipping Prime Day? Shop the Best Deals at Target, Best Buy and Other Retailers     - CNET](https://www.cnet.com/deals/skipping-prime-day-shop-best-deals-target-best-buy-and-other-retailers/#ftag=CAD590a51e)
- - [Best CD Rates for October 2023     - CNET](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CA Gov. Newsom signs a bill into law forcing VC firms to report on the diversity of founders they back; some worry about liability from releasing sensitive info &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231010/p22#a231010p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

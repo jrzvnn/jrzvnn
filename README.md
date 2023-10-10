@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
- - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 💣 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 👉 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)<!-- MEMES:END -->
+ - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 😝 [Savages](http://9gag.com/gag/aYVB77w)
+ - 👉 [So it begins](http://9gag.com/gag/a1PnPKv)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 💣 [So it begins](http://9gag.com/gag/a1PnPKv)
- - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 👉 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)<!-- MEMES:END -->
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 😝 [Terry Crews recreates scene from White Chicks](http://9gag.com/gag/avQVQwd)
+ - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
+ - 👉 [Voda](http://9gag.com/gag/a6qzE08)<!-- MEMES:END -->
 
 ---
 

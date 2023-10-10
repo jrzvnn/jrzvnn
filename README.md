@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
- - [30 Best Deals From Best Buy&#39;s 48-Hour Flash Sale &lpar;2023&rpar;](https://www.wired.com/story/best-buy-flash-sale-october-2023/)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The environmental impact of the AI revolution is starting to come into focus](https://www.theverge.com/2023/10/10/23911059/ai-climate-impact-google-openai-chatgpt-energy)
- - [12 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-deals-october-2023/)<!-- TECH:END -->
+ - [Waymo’s robotaxi service is now available to tens of thousands of people in San Francisco](https://www.theverge.com/2023/10/10/23911190/waymo-robotaxi-san-francisco-customers-waitlist)
+ - [Elon Musk Is Personally Undermining X’s Efforts to Curb Israel-Hamas War Disinformation](https://www.wired.com/story/elon-musk-israel-hamas-war-disinformation-x/)
+ - [Unity CEO John Riccitiello out after developer rebellion](https://appleinsider.com/articles/23/10/10/unity-ceo-john-riccitiello-out-after-developer-rebellion?utm_medium=rss)
+ - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
+ - [Another game controller maker is embracing drift-resistant Hall effect joysticks](https://www.theverge.com/2023/10/10/23911052/gamesir-t4-cyclone-pro-wireless-controller-hall-effect-joysticks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

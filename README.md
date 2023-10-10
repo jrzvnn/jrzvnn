@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Amazon deal knocks over 20% off Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-amazon-big-deal-days-3374098/)
- - [The 16 Best Prime Day Laptop Deals &lpar;2023&rpar; to Upgrade Your Work Station](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-1/)
- - [Apple Vision Pro has 100Hz refresh rate to combat flickering lights](https://appleinsider.com/articles/23/10/10/apple-vision-pro-has-100hz-refresh-rate-to-combat-flickering-lights?utm_medium=rss)
- - [Sources: after stockpiling components for months, Huawei aims to ship 60M to 70M phones in 2024, doubling shipments in 2023 and 2022, despite the US crackdown &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/231010/p7#a231010p7)
- - [What’s this? Jack Skellington is coming to Fortnite for Halloween](https://www.theverge.com/2023/10/10/23910108/fortnite-halloween-20230jack-skellington-michael-myers)<!-- TECH:END -->
+ - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
+ - [A look at the stalled efforts to ban TikTok in the US as defense officials, who want an outright ban, clash with economic officials who back a compromise &lpar;Gavin Bade/Politico&rpar;](http://www.techmeme.com/231010/p8#a231010p8)
+ - [14 Best October Prime Day Mattress Deals &lpar;2023&rpar; You Won&#39;t Want to Snooze On](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-1/)
+ - [Google’s AI Is Making Traffic Lights More Efficient and Less Annoying](https://www.wired.com/story/googles-ai-traffic-lights-driving-annoying/)
+ - [Google wants to be at the center of all your climate change decisions](https://www.theverge.com/2023/10/10/23906496/google-ai-transportation-ev-heat-pump-flood-wildfire)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 😝 [Imagine taking a nice sh*t and then this happens..](http://9gag.com/gag/aQEKoMK)
- - 💣 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
- - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
+ - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - 😝 [Sweden&#39;s far-right pushes for a change in citizenship laws and the ability to sentence minors to life in prison - `We should be able to revoke citizenships of terrorists and gang criminals. Integration policy is based on a lie. They have no connection to Swedish society.`](http://9gag.com/gag/aREGLGj)
+ - 💣 [Those who know](http://9gag.com/gag/aVb8gKP)
+ - 😝 [Go playboy!](http://9gag.com/gag/amAyoDV)
+ - 👉 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 😝 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
- - 💣 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - 😝 [In Russia they go around marking the houses and shops of Jews, this reminds me of something](http://9gag.com/gag/az2zexp)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
  - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
  - [These new security cameras from TP-Link match Arlo and Nest for style but, thankfully, not price](https://www.theverge.com/2023/10/10/23911395/tp-link-tapo-wire-free-magcam-security-camera-price-specs)
  - [iRobot’s Roomba i4 Evo and j7 Plus are down to their best price to date](https://www.theverge.com/2023/10/10/23910544/irobot-roomba-i4-evo-j7-plus-robot-vacuum-october-prime-day-2023-deal-sale)
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
- - [CA Gov. Newsom signs a bill into law forcing VC firms to report on the diversity of founders they back; some worry about liability from releasing sensitive info &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231010/p22#a231010p22)<!-- TECH:END -->
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

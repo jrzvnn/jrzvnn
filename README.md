@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Governor Gavin Newsom signs into law the Delete Act, which requires data brokers to delete a resident&#39;s personal information after a single request &lpar;Queenie Wong/Los Angeles Times&rpar;](http://www.techmeme.com/231010/p27#a231010p27)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
- - [Right-to-repair is now the law in California](https://www.theverge.com/23910066/right-to-repair-law-newsom-california-sb-244)<!-- TECH:END -->
+ - [You can get the Galaxy Watch 5 Pro at an all time low right now](https://www.androidauthority.com/galaxy-watch-5-pro-deal-3374366/)
+ - [Google Meet adds support for 1080p in group video calls](https://www.theverge.com/2023/10/10/23911773/google-meet-workspace-1080p-full-hd-group-video-calls)
+ - [Is the Pixel Watch 2 a hit? Google is already running low on stock](https://www.androidauthority.com/pixel-watch-2-out-of-stock-3374385/)
+ - [9 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023/)
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

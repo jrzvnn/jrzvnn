@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - 😝 [Very impressive.](http://9gag.com/gag/aA07Q4E)
+ - 😝 [But why tho?](http://9gag.com/gag/a2KVv9e)
+ - 💣 [EU stops \u20ac651 million in financial aid to the Palestinians. They have received billions of euros over the last decade. Have they built desalination capacity for drinking water? No. The money went into underground rocket factories. Islam a religion of peace !](http://9gag.com/gag/aEqbMzO)
  - 😝 [Those who know](http://9gag.com/gag/aVb8gKP)
- - 💣 [But why tho?](http://9gag.com/gag/a2KVv9e)
- - 😝 [EU stops \u20ac651 million in financial aid to the Palestinians. They have received billions of euros over the last decade. Have they built desalination capacity for drinking water? No. The money went into underground rocket factories. Islam a religion of peace !](http://9gag.com/gag/aEqbMzO)
  - 👉 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)<!-- MEMES:END -->
 
 ---

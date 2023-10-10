@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people just can&#39;t handle their own company](http://9gag.com/gag/agobQBv)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
  - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 💣 [Those who know](http://9gag.com/gag/aVb8gKP)
- - 😝 [Very impressive.](http://9gag.com/gag/aA07Q4E)
- - 👉 [Of course thats the only explanation](http://9gag.com/gag/a9qez3Z)<!-- MEMES:END -->
+ - 💣 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 😝 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 

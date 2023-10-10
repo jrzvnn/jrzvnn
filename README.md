@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Day deals: save up to 43% on this selection of Thunderbolt and USB-C docks](https://appleinsider.com/articles/23/10/10/prime-day-deals-save-up-to-43-on-this-selection-of-thunderbolt-and-usb-c-docks?utm_medium=rss)
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
  - [The 158 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
- - [Google will bring back useful Nest speaker function that Sonos took away](https://www.androidauthority.com/google-smart-speaker-feature-3374283/)
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [37 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
+ - [Google will bring back useful Nest speaker function that Sonos took away](https://www.androidauthority.com/google-smart-speaker-feature-3374283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [HODL](http://9gag.com/gag/anz3zAb)
+ - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
  - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 💣 [Savages](http://9gag.com/gag/aYVB77w)
- - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
- - 👉 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)<!-- MEMES:END -->
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 

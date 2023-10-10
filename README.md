@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Cleaning with Narwal Freo: Big savings for spotless floors](https://www.androidauthority.com/cleaning-with-narwal-freo-big-savings-for-spotless-floors-3373898/)
- - [Ontario&#39;s Apple Square One store to move upstairs](https://appleinsider.com/articles/23/10/10/ontarios-apple-square-one-store-to-move-upstairs?utm_medium=rss)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [The OnePlus Open foldable could be arriving in the US as soon as next week](https://www.theverge.com/2023/10/10/23911042/oneplus-open-folding-phone-us-release-price-android-leak)<!-- TECH:END -->
+ - [78 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
+ - [Cleaning with Narwal Freo: Big savings for spotless floors](https://www.androidauthority.com/cleaning-with-narwal-freo-big-savings-for-spotless-floors-3373898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

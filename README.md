@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [October Amazon Prime Day Vacuum Deals Are Here     - CNET](https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e)
  - [100 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
  - [Apple Watch won&#39;t get MicroLED display until 2025 at the earliest](https://appleinsider.com/articles/23/10/10/apple-watch-wont-get-microled-display-until-2025-at-the-earliest?utm_medium=rss)
  - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [The 148 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

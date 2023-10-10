@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very impressive.](http://9gag.com/gag/aA07Q4E)
- - 😝 [But why tho?](http://9gag.com/gag/a2KVv9e)
- - 💣 [EU stops \u20ac651 million in financial aid to the Palestinians. They have received billions of euros over the last decade. Have they built desalination capacity for drinking water? No. The money went into underground rocket factories. Islam a religion of peace !](http://9gag.com/gag/aEqbMzO)
- - 😝 [Those who know](http://9gag.com/gag/aVb8gKP)
- - 👉 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)<!-- MEMES:END -->
+ - 😝 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 💣 [Voda](http://9gag.com/gag/a6qzE08)
+ - 😝 [If there is any God, he left the chat](http://9gag.com/gag/arm0WB5)
+ - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
 
 ---
 

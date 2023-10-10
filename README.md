@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 😝 [Sweden&#39;s far-right pushes for a change in citizenship laws and the ability to sentence minors to life in prison - `We should be able to revoke citizenships of terrorists and gang criminals. Integration policy is based on a lie. They have no connection to Swedish society.`](http://9gag.com/gag/aREGLGj)
- - 💣 [Those who know](http://9gag.com/gag/aVb8gKP)
- - 😝 [Go playboy!](http://9gag.com/gag/amAyoDV)
- - 👉 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)<!-- MEMES:END -->
+ - 😝 [Name your favourite underrated movie](http://9gag.com/gag/aA076g2)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 💣 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 👉 [Go playboy!](http://9gag.com/gag/amAyoDV)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nissan’s ‘Hyper Adventure’ concept looks like an EV the Galactic Empire would use](https://www.theverge.com/2023/10/10/23911396/nissan-hyper-adventure-concept-ev-japan-mobility-show)
+ - [Google Pixel phones are getting a bunch of funky new ringtones](https://www.theverge.com/2023/10/10/23911650/google-pixel-ringtones-gems-sounds-app)
+ - [France&#39;s iPhone 12 modem power testing was radically different than the standard](https://appleinsider.com/articles/23/10/10/frances-iphone-12-model-radio-power-testing-was-radically-different-than-the-standard?utm_medium=rss)
  - [Prime Day deals: save up to 43% on this selection of Thunderbolt and USB-C docks](https://appleinsider.com/articles/23/10/10/prime-day-deals-save-up-to-43-on-this-selection-of-thunderbolt-and-usb-c-docks?utm_medium=rss)
- - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
- - [The 158 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
- - [Google will bring back useful Nest speaker function that Sonos took away](https://www.androidauthority.com/google-smart-speaker-feature-3374283/)<!-- TECH:END -->
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

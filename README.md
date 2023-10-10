@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Queen](http://9gag.com/gag/aoK6PAg)
- - 😝 [Challenge Accepted](http://9gag.com/gag/aXnzrPP)
- - 💣 [I am posting it for the 3rd time after they block it.](http://9gag.com/gag/a3ZDEx8)
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 👉 [Terry Crews recreates scene from White Chicks](http://9gag.com/gag/avQVQwd)<!-- MEMES:END -->
+ - 😝 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
+ - 😝 [I give guitar lessons to some of the kids in his high school. I messaged them saying I would have to cancel today&#39;s class because my dog was hurt.when they asked me what happened,I sent them the video. Now he&#39;s being bullied at school.](http://9gag.com/gag/aME6xbM)
+ - 💣 [Voda](http://9gag.com/gag/a6qzE08)
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
 
 ---
 

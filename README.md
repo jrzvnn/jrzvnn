@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 😝 [Imagine witnessing your boyfriend being killed right in front of you and still defending your BLM cause. How damaged is your brain.](http://9gag.com/gag/aDYL2QZ)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
  - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
  - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
+ - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
 
 ---
 

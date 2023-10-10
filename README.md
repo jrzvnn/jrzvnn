@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [US v. Google: in 2007, Sundar Pichai raised concerns over the bad &quot;optics&quot; of Google&#39;s deal with Apple to make Google the pre-selected search option on Safari &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231010/p28#a231010p28)
  - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
  - [20 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-1/)
- - [You can get the Galaxy Watch 5 Pro at an all time low right now](https://www.androidauthority.com/galaxy-watch-5-pro-deal-3374366/)
- - [Google Meet adds support for 1080p in group video calls](https://www.theverge.com/2023/10/10/23911773/google-meet-workspace-1080p-full-hd-group-video-calls)
- - [Is the Pixel Watch 2 a hit? Google is already running low on stock](https://www.androidauthority.com/pixel-watch-2-out-of-stock-3374385/)<!-- TECH:END -->
+ - [You can get the Galaxy Watch 5 Pro at an all time low right now](https://www.androidauthority.com/galaxy-watch-5-pro-deal-3374366/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

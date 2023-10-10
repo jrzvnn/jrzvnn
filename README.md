@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global PC shipments fell 7.6% YoY to 68.2M in Q3 2023; among the top five vendors, Apple experienced the largest decline, down 23.1%, and only HP grew, up 6.4% &lpar;IDC&rpar;](http://www.techmeme.com/231010/p2#a231010p2)
+ - [Animal Crossing: New Horizons Is The Cozy Game I Needed This Year     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-is-the-cozy-game-i-needed-this-year/#ftag=CAD590a51e)
  - [Austin-based Saronic, a startup developing autonomous ships for the US Navy and US-aligned defense customers, raised a $55M Series A led by Caffeinated Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231010/p1#a231010p1)
  - [Many US school districts spent millions in US pandemic relief money on edtech, such as apps, games, and tutoring sites, but the results for students are unclear &lpar;Collin Binkley/Associated Press&rpar;](http://www.techmeme.com/231009/p23#a231009p23)
- - [As X fails to moderate Israel-Hamas misinformation, Meta has an opportunity to make real-time news a pillar of Threads and give the app an existential purpose &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231009/p22#a231009p22)
- - [Best Mobile VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
- - [Driving at Night: 9 Tips as Daylight Saving Time Ends     - CNET](https://www.cnet.com/health/personal-care/driving-at-night-9-tips-as-daylight-saving-time-ends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As X fails to moderate Israel-Hamas misinformation, Meta has an opportunity to make real-time news a pillar of Threads and give the app an existential purpose &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231009/p22#a231009p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

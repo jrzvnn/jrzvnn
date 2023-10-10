@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [But why tho?](http://9gag.com/gag/a2KVv9e)
- - 💣 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
- - 😝 [Voda](http://9gag.com/gag/a6qzE08)
- - 👉 [Friends](http://9gag.com/gag/amAyAR6)<!-- MEMES:END -->
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 😝 [I give guitar lessons to some of the kids in his high school. I messaged them saying I would have to cancel today&#39;s class because my dog was hurt.when they asked me what happened,I sent them the video. Now he&#39;s being bullied at school.](http://9gag.com/gag/aME6xbM)
+ - 💣 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
 
 ---
 

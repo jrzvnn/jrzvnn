@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based Saronic, a startup working on autonomous ships for US-aligned defense customers, has raised a $55M Series A led by Caffeinated Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231010/p1#a231010p1)
  - [Many US school districts spent millions in US pandemic relief money on edtech, such as apps, games, and tutoring sites, but the results for students are unclear &lpar;Collin Binkley/Associated Press&rpar;](http://www.techmeme.com/231009/p23#a231009p23)
  - [As X struggles to moderate misinformation about the Israel-Hamas war, Meta has an opportunity to make Threads a real-time news app many users are clamoring for &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231009/p22#a231009p22)
  - [Best Mobile VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
- - [Driving at Night: 9 Tips as Daylight Saving Time Ends     - CNET](https://www.cnet.com/health/personal-care/driving-at-night-9-tips-as-daylight-saving-time-ends/#ftag=CAD590a51e)
- - [Now X posts can lock replies to only allow comment from verified accounts](https://www.theverge.com/2023/10/9/23910716/x-twitter-reply-verified-only-paywall)<!-- TECH:END -->
+ - [Driving at Night: 9 Tips as Daylight Saving Time Ends     - CNET](https://www.cnet.com/health/personal-care/driving-at-night-9-tips-as-daylight-saving-time-ends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

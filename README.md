@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
- - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
  - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 😝 [Hamas spoksman Abu Ubida: ` If Israel does not stop with the bombing, we will execute a hostage every hour and film it, so his family could watch`. Woman and children... Hamas=ISIS](http://9gag.com/gag/a1PnPYD)
+ - 💣 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
+ - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
  - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bose SoundLink Revolve Plus II is at its lowest price in years](https://www.androidauthority.com/bose-speaker-deal-3374209/)
- - [Sony announces a new $500 PS5 model with a detachable disc drive, 1TB of internal storage, and a slightly slimmer and shorter design, shipping in November &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231010/p18#a231010p18)
- - [92 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [Goldman Sachs &#39;encouraged&#39; by improving PC market](https://appleinsider.com/articles/23/10/10/goldman-sachs-encouraged-by-improving-pc-market?utm_medium=rss)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Microsoft rolls out new tools for healthcare organizations, including three new AI models in preview for Azure AI Health Insights and an Azure AI Health Bot &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231010/p19#a231010p19)
+ - [The Fall of the House of Usher is Mike Flanagan’s most ambitious horror story yet](https://www.theverge.com/23906083/the-fall-of-the-house-of-usher-movie-review-netflix)
+ - [The slim PS5 is still huge](https://www.theverge.com/2023/10/10/23911388/new-ps5-model-slim-size-comparison)
+ - [PlayStation 5 gets new design, new price, new storage, and cool new trick](https://www.androidauthority.com/playstation-5-refresh-2023-3374234/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17 Wi-Fi issues related to past or present beta installs](https://appleinsider.com/articles/23/10/10/ios-17-wi-fi-issues-related-to-past-or-present-beta-installs?utm_medium=rss)
  - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [78 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [Cleaning with Narwal Freo: Big savings for spotless floors](https://www.androidauthority.com/cleaning-with-narwal-freo-big-savings-for-spotless-floors-3373898/)<!-- TECH:END -->
+ - [17 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-1/)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

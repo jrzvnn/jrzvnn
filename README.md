@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doctored Joe Biden clip triggers Facebook Oversight Board review](https://www.theverge.com/2023/10/10/23911106/facebook-meta-biden-deepfake-manipulated-media-review-oversight-board)
  - [Telly has a plan to build the best TV ever — and give it away for free](https://www.theverge.com/2023/10/10/23910631/telly-free-tv-ads-ilya-pozin-vergecast)
  - [Apple finally brings an online store to Chile](https://appleinsider.com/articles/23/10/10/apple-finally-brings-an-online-store-to-chile?utm_medium=rss)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [How the attacks in Israel are changing Threads](https://www.theverge.com/2023/10/10/23911049/twitter-x-threads-news-misinformation-israel-hamas-attacks)
- - [The best smartwatch and fitness tracker deals for Prime Day](https://www.theverge.com/23910515/amazon-october-prime-day-best-fitness-tracker-smartwatch-deals-2023)<!-- TECH:END -->
+ - [How the attacks in Israel are changing Threads](https://www.theverge.com/2023/10/10/23911049/twitter-x-threads-news-misinformation-israel-hamas-attacks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Amazon deal knocks over 20% off Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-amazon-big-deal-days-3374098/)
+ - [The 16 Best Prime Day Laptop Deals &lpar;2023&rpar; to Upgrade Your Work Station](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-1/)
  - [Apple Vision Pro has 100Hz refresh rate to combat flickering lights](https://appleinsider.com/articles/23/10/10/apple-vision-pro-has-100hz-refresh-rate-to-combat-flickering-lights?utm_medium=rss)
  - [Sources: after stockpiling components for months, Huawei aims to ship 60M to 70M phones in 2024, doubling shipments in 2023 and 2022, despite the US crackdown &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/231010/p7#a231010p7)
- - [What’s this? Jack Skellington is coming to Fortnite for Halloween](https://www.theverge.com/2023/10/10/23910108/fortnite-halloween-20230jack-skellington-michael-myers)
- - [Get a 1TB 16-inch MacBook Pro for $1,949 thanks to a $750 price drop](https://appleinsider.com/articles/23/10/04/get-a-1tb-16-inch-macbook-pro-for-1949-thanks-to-a-750-price-drop?utm_medium=rss)
- - [As the Israel-Hamas war escalates, a look at the role of hacktivism for both sides, supported by outside groups, including DDoSing Israeli government sites &lpar;Wired&rpar;](http://www.techmeme.com/231010/p6#a231010p6)<!-- TECH:END -->
+ - [What’s this? Jack Skellington is coming to Fortnite for Halloween](https://www.theverge.com/2023/10/10/23910108/fortnite-halloween-20230jack-skellington-michael-myers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

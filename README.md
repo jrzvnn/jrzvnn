@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of our favorite devices are on sale for Amazon Prime Day.](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
+ - [AMD plans to acquire Santa Clara-based Nod.ai, which specializes in deploying open-source AI software and has raised ~$36.5M, per PitchBook &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/231010/p15#a231010p15)
  - [Waymo’s robotaxi service is now available to tens of thousands of people in San Francisco](https://www.theverge.com/2023/10/10/23911190/waymo-robotaxi-san-francisco-customers-waitlist)
  - [Elon Musk Is Personally Undermining X’s Efforts to Curb Israel-Hamas War Disinformation](https://www.wired.com/story/elon-musk-israel-hamas-war-disinformation-x/)
- - [Unity CEO John Riccitiello out after developer rebellion](https://appleinsider.com/articles/23/10/10/unity-ceo-john-riccitiello-out-after-developer-rebellion?utm_medium=rss)
- - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [Another game controller maker is embracing drift-resistant Hall effect joysticks](https://www.theverge.com/2023/10/10/23911052/gamesir-t4-cyclone-pro-wireless-controller-hall-effect-joysticks)<!-- TECH:END -->
+ - [Unity CEO John Riccitiello out after developer rebellion](https://appleinsider.com/articles/23/10/10/unity-ceo-john-riccitiello-out-after-developer-rebellion?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
+ - 😝 [El Rimal neighborhood, the Gaza Beverly Hills, this morning. No survivors in any of the Israeli strikes](http://9gag.com/gag/az2zxnq)
  - 😝 [Voda](http://9gag.com/gag/a6qzE08)
  - 💣 [Friends](http://9gag.com/gag/amAyAR6)
  - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)

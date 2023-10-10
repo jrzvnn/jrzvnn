@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most expensive coffee in the world ladies and gentlemen...](http://9gag.com/gag/amAyv0j)
- - 😝 [I give guitar lessons to some of the kids in his high school. I messaged them saying I would have to cancel today&#39;s class because my dog was hurt.when they asked me what happened,I sent them the video. Now he&#39;s being bullied at school.](http://9gag.com/gag/aME6xbM)
- - 💣 [Voda](http://9gag.com/gag/a6qzE08)
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 👉 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)<!-- MEMES:END -->
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 💣 [Savages](http://9gag.com/gag/aYVB77w)
+ - 😝 [It can get worse if he slowing down, good calculation, good gymnastic!](http://9gag.com/gag/aoK6KEg)
+ - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
 
 ---
 

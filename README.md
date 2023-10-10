@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [HODL](http://9gag.com/gag/anz3zAb)
- - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
  - 😝 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
- - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
+ - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [So it begins](http://9gag.com/gag/a1PnPKv)
+ - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
 
 ---
 

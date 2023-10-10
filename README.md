@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Priscilla is Sofia Coppola back to her old tricks](https://www.theverge.com/23911447/priscilla-movie-review-sofia-coppola-nyff)
+ - [Belkin’s StandBy-ready charging puck is on sale for just $14 right now](https://www.theverge.com/2023/10/10/23909260/belkin-boostcharge-pro-magsafe-charger-amazon-october-prime-day-2023-deal-sale)
  - [Apple seeds third iOS 17.1 &amp; iPadOS 17.1 developer beta](https://appleinsider.com/articles/23/10/10/apple-seeds-third-ios-171-ipados-171-developer-beta?utm_medium=rss)
  - [Third watchOS 10.1 developer beta is now available](https://appleinsider.com/articles/23/10/10/third-watchos-101-developer-beta-is-now-available?utm_medium=rss)
- - [Google is already bringing back the software features it removed because of Sonos’ lawsuit](https://www.theverge.com/2023/10/10/23911491/google-home-grouping-features-now-available-sonos)
- - [Apple issues third macOS Sonoma 14.1 developer beta](https://appleinsider.com/articles/23/10/10/apple-issues-third-macos-sonoma-141-developer-beta?utm_medium=rss)
- - [Prime Day deals Oct. 10: MacBook Pro from $570, M2 MacBook Air from $830, Beats Solo 3 $100, Thunderbolt docks up to $130 off, more](https://appleinsider.com/articles/23/10/10/prime-day-deals-oct-10-macbook-pro-from-570-m2-macbook-air-from-830-beats-solo-3-100-thunderbolt-docks-up-to-130-off-more?utm_medium=rss)<!-- TECH:END -->
+ - [Google is already bringing back the software features it removed because of Sonos’ lawsuit](https://www.theverge.com/2023/10/10/23911491/google-home-grouping-features-now-available-sonos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

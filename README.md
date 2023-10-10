@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants an iPhone to charge other devices through the screen glass](https://appleinsider.com/articles/21/12/30/apple-wants-an-iphone-to-charge-other-devices-through-the-screen-glass?utm_medium=rss)
- - [Valve kills CS:GO on macOS, won&#39;t launch Mac Counter-Strike 2 either](https://appleinsider.com/articles/23/10/10/valve-kills-csgo-on-macos-wont-launch-mac-counter-strike-2-either?utm_medium=rss)
- - [Some academics in Saudi Arabia worry over Saudi-Chinese AI collaboration, which may jeopardize their access to US chips, as the Gulf states rush to build LLMs &lpar;Financial Times&rpar;](http://www.techmeme.com/231010/p10#a231010p10)
- - [Apple advancing all-glass iPhone with wrap-around display technology](https://appleinsider.com/articles/20/09/01/apple-advancing-all-glass-iphone-with-wrap-around-display-technology?utm_medium=rss)
- - [11 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023/)<!-- TECH:END -->
+ - [12 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Passkeys are here to make your Google account password obsolete](https://www.androidauthority.com/google-account-passkeys-default-3374099/)
+ - [A Doctored Biden Video Is a Test Case for Facebook’s Deepfake Policies](https://www.wired.com/story/a-doctored-biden-video-is-a-test-case-for-facebooks-deepfake-policies/)
+ - [Google begins prompting users to create passwordless passkeys by default](https://www.theverge.com/2023/10/10/23910966/google-account-passkey-setup-prompt-default-passwordless-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

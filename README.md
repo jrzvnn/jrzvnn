@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the most underrated tourist spot in the world?](http://9gag.com/gag/aBdMydP)
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 💣 [Voda](http://9gag.com/gag/a6qzE08)
- - 😝 [If there is any God, he left the chat](http://9gag.com/gag/arm0WB5)
- - 👉 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)<!-- MEMES:END -->
+ - 😝 [Some people just can&#39;t handle their own company](http://9gag.com/gag/agobQBv)
+ - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 💣 [Those who know](http://9gag.com/gag/aVb8gKP)
+ - 😝 [Very impressive.](http://9gag.com/gag/aA07Q4E)
+ - 👉 [Of course thats the only explanation](http://9gag.com/gag/a9qez3Z)<!-- MEMES:END -->
 
 ---
 

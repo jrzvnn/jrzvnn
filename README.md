@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express](https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express)
- - [Sony’s new PS5 with a removable disc drive launches in November](https://www.theverge.com/2023/10/10/23831415/new-ps5-model-removable-disc-drive-sony-price-release-date)
- - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
- - [WGA’s new labor contract is finally a sealed deal](https://www.theverge.com/2023/10/10/23911279/wga-contract-ratification-vote)
- - [The Big Deal Days sale slashes 44% off the OnePlus Buds Pro 2](https://www.androidauthority.com/oneplus-buds-pro-2-big-deal-days-3373896/)<!-- TECH:END -->
+ - [Goldman Sachs &#39;encouraged&#39; by improving PC market](https://appleinsider.com/articles/23/10/10/goldman-sachs-encouraged-by-improving-pc-market?utm_medium=rss)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
+ - [iPhone remains the top smartphone for teenagers, says Piper Sandler](https://appleinsider.com/articles/23/10/10/iphone-remains-the-top-smartphone-for-teenagers-says-piper-sandler?utm_medium=rss)
+ - [The best laptop deals for October Prime Day](https://www.theverge.com/23911169/october-amazon-prime-day-best-laptop-deals-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

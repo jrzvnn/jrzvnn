@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
- - 😝 [I give guitar lessons to some of the kids in his high school. I messaged them saying I would have to cancel today&#39;s class because my dog was hurt.when they asked me what happened,I sent them the video. Now he&#39;s being bullied at school.](http://9gag.com/gag/aME6xbM)
- - 💣 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
- - 😝 [Savages](http://9gag.com/gag/aYVB77w)
+ - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
+ - 😝 [Voda](http://9gag.com/gag/a6qzE08)
+ - 💣 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
  - 👉 [So it begins](http://9gag.com/gag/a1PnPKv)<!-- MEMES:END -->
 
 ---

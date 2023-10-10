@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 😝 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [Israel bombing mosques in Gaza](http://9gag.com/gag/a4o833d)
+ - 💣 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
  - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 💣 [Savages](http://9gag.com/gag/aYVB77w)
- - 😝 [It can get worse if he slowing down, good calculation, good gymnastic!](http://9gag.com/gag/aoK6KEg)
- - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
+ - 👉 [Savages](http://9gag.com/gag/aYVB77w)<!-- MEMES:END -->
 
 ---
 

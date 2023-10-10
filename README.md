@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple Watch is seeing a big sales decline year-over-year in 2023](https://appleinsider.com/articles/23/10/10/kuo-apple-watch-is-seeing-a-big-sales-decline-year-over-year-in-2023?utm_medium=rss)
- - [Adobe created a symbol to encourage tagging AI-generated content](https://www.theverge.com/2023/10/10/23911381/adobe-ai-generated-content-symbol-watermark)
- - [31 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)
- - [Pro camera controls work fine on Pixels that aren’t an 8 Pro, so why limit them?](https://www.androidauthority.com/google-pixel-pro-camera-controls-3374272/)
- - [Qualcomm’s next round of PC chips will fight Apple under the name Snapdragon X](https://www.theverge.com/2023/10/10/23911431/qualcomm-snapdragon-x-platform-oryon-cpu-windows-pc-apple-silicon)<!-- TECH:END -->
+ - [Apple Watch won&#39;t get MicroLED display until 2025 at the earliest](https://appleinsider.com/articles/23/10/10/apple-watch-wont-get-microled-display-until-2025-at-the-earliest?utm_medium=rss)
+ - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
+ - [The 148 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Kuo: Apple Watch is seeing a big sales decline year-over-year in 2023](https://appleinsider.com/articles/23/10/10/kuo-apple-watch-is-seeing-a-big-sales-decline-year-over-year-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

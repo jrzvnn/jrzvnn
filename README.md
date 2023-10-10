@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Prime Day Kindle Deals &lpar;2023&rpar; for Book Lovers](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023-1/)
+ - [Activision Blizzard’s latest games will start arriving on Xbox Game Pass in 2024 if Microsoft deal closes](https://www.theverge.com/2023/10/10/23910961/microsoft-activision-blizzard-xbox-game-pass-2024-titles)
  - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)
  - [Anker’s 10,000mAh and 20,000mAh power banks get a hefty price cut](https://www.androidauthority.com/anker-power-bank-prime-day-2-2023-3374071/)
- - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
- - [The 51 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)
- - [Best October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

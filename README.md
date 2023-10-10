@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Google Makes Passkeys Default, Stepping Up Its Push to Kill Passwords](https://www.wired.com/story/google-passkey-default/)
- - [Doctored Joe Biden clip triggers Facebook Oversight Board review](https://www.theverge.com/2023/10/10/23911106/facebook-meta-biden-deepfake-manipulated-media-review-oversight-board)
- - [Telly has a plan to build the best TV ever — and give it away for free](https://www.theverge.com/2023/10/10/23910631/telly-free-tv-ads-ilya-pozin-vergecast)
- - [Apple finally brings an online store to Chile](https://appleinsider.com/articles/23/10/10/apple-finally-brings-an-online-store-to-chile?utm_medium=rss)<!-- TECH:END -->
+ - [Judge blasts Sonos for abusing patent system and throws out $32.5 million win against Google](https://www.theverge.com/2023/10/10/23910694/sonos-google-patent-verdict-thrown-out-alsup)
+ - [Verge apparel and accessories are 20 percent off today](https://www.theverge.com/23904937/verge-merch-accessories-sale-amazon-october-prime-day)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [Oura Ring gets new colorway and stress management features](https://www.androidauthority.com/oura-ring-colorway-and-features-3373173/)
+ - [28 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

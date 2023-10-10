@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple advancing all-glass iPhone with wrap-around display technology](https://appleinsider.com/articles/20/09/01/apple-advancing-all-glass-iphone-with-wrap-around-display-technology?utm_medium=rss)
+ - [11 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023/)
  - [Analysis: Binance founder Changpeng Zhao&#39;s Industry Recovery Initiative, aiming to raise $1B after FTX&#39;s collapsed, deployed less than $30M since November 2022 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231010/p9#a231010p9)
  - [Future Apple keyboard could have one key that can pop out and be used as a mouse](https://appleinsider.com/articles/21/08/19/future-apple-keyboard-could-have-one-key-that-can-pop-out-and-be-used-as-a-mouse?utm_medium=rss)
- - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
- - [A look at the stalled efforts to ban TikTok in the US as defense officials, who want an outright ban, clash with economic officials who back a compromise &lpar;Gavin Bade/Politico&rpar;](http://www.techmeme.com/231010/p8#a231010p8)
- - [14 Best October Prime Day Mattress Deals &lpar;2023&rpar; You Won&#39;t Want to Snooze On](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-1/)<!-- TECH:END -->
+ - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

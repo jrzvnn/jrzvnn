@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14-inch MacBook Pro with peak performance gets a $1,500 discount from B&amp;H Photo](https://appleinsider.com/articles/23/10/10/14-inch-macbook-pro-with-peak-performance-gets-a-1500-discount-from-bh-photo?utm_medium=rss)
- - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [Amazon, Google, and Cloudflare say a DDoS attack hit 398M RPS in August, ~8x larger than the previous record, due to a new bug; Google was able to mitigate it &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231010/p16#a231010p16)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Some of our favorite devices are on sale for Amazon Prime Day.](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
+ - [Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express](https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express)
+ - [Sony’s new PS5 with a removable disc drive launches in November](https://www.theverge.com/2023/10/10/23831415/new-ps5-model-removable-disc-drive-sony-price-release-date)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
+ - [WGA’s new labor contract is finally a sealed deal](https://www.theverge.com/2023/10/10/23911279/wga-contract-ratification-vote)
+ - [The Big Deal Days sale slashes 44% off the OnePlus Buds Pro 2](https://www.androidauthority.com/oneplus-buds-pro-2-big-deal-days-3373896/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

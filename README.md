@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the first peek at the new Google Assistant powered by Bard](https://www.androidauthority.com/google-assistant-bard-3374245/)
- - [Apple releases iOS 16.7.1 for older devices with big security fixes](https://appleinsider.com/articles/23/10/10/apple-releases-ios-1671-for-older-devices-with-big-security-fixes?utm_medium=rss)
- - [The 144 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [18 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
- - [France&#39;s iPhone 12 model radio power testing was radically different than the standard](https://appleinsider.com/articles/23/10/10/frances-iphone-12-model-radio-power-testing-was-radically-different-than-the-standard?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: Apple Watch is seeing a big sales decline year-over-year in 2023](https://appleinsider.com/articles/23/10/10/kuo-apple-watch-is-seeing-a-big-sales-decline-year-over-year-in-2023?utm_medium=rss)
+ - [Adobe created a symbol to encourage tagging AI-generated content](https://www.theverge.com/2023/10/10/23911381/adobe-ai-generated-content-symbol-watermark)
+ - [31 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-3/)
+ - [Pro camera controls work fine on Pixels that aren’t an 8 Pro, so why limit them?](https://www.androidauthority.com/google-pixel-pro-camera-controls-3374272/)
+ - [Qualcomm’s next round of PC chips will fight Apple under the name Snapdragon X](https://www.theverge.com/2023/10/10/23911431/qualcomm-snapdragon-x-platform-oryon-cpu-windows-pc-apple-silicon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

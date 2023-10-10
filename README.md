@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)
- - 😝 [Voda](http://9gag.com/gag/a6qzE08)
- - 💣 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)
+ - 😝 [HODL](http://9gag.com/gag/anz3zAb)
  - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
- - 👉 [So it begins](http://9gag.com/gag/a1PnPKv)<!-- MEMES:END -->
+ - 💣 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 😝 [Blud made a crazy switch](http://9gag.com/gag/aVb87Rd)
+ - 👉 [Gaza rn. The definition of finding out.](http://9gag.com/gag/aqeOG5P)<!-- MEMES:END -->
 
 ---
 

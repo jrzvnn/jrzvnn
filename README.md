@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 💣 [Go playboy!](http://9gag.com/gag/amAyoDV)
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 💣 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
  - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
 
 ---

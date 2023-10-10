@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [113 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
+ - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
+ - [Swiss study shows Apple Watch produces best ECG quality and readability](https://appleinsider.com/articles/23/10/10/swiss-study-shows-apple-watch-produces-best-ecg-quality-and-readability?utm_medium=rss)
  - [Amazon hired warehouse workers in Saudi Arabia who were trafficked from Nepal; Amazon admits that some were mistreated and is &quot;implementing stronger controls&quot; &lpar;The Guardian&rpar;](http://www.techmeme.com/231010/p23#a231010p23)
- - [EU asks Elon Musk to prove X isn’t breaking Europe’s disinformation rules](https://www.theverge.com/2023/10/10/23911686/eu-elon-musk-x-disinformation-digital-services-act-hamas-israel)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [These new security cameras from TP-Link match Arlo and Nest for style but, thankfully, not price](https://www.theverge.com/2023/10/10/23911395/tp-link-tapo-wire-free-magcam-security-camera-price-specs)<!-- TECH:END -->
+ - [EU asks Elon Musk to prove X isn’t breaking Europe’s disinformation rules](https://www.theverge.com/2023/10/10/23911686/eu-elon-musk-x-disinformation-digital-services-act-hamas-israel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

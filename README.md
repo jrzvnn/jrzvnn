@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the SEC is probing a 2018 security lapse at Twitter exposing users&#39; email addresses and if executives adequately disclosed the issue to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/231010/p20#a231010p20)
- - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [Unity’s CEO is out, but that still may not be enough for developers](https://www.theverge.com/2023/10/10/23911338/unity-ceo-steps-down-developers-react)
- - [The 153 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [October Amazon Prime Day Vacuum Deals Are Here     - CNET](https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [37 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)
+ - [The 17 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Apple releases new firmware for AirPods Pro 2](https://appleinsider.com/articles/23/10/10/apple-releases-new-firmware-for-airpods-pro-2?utm_medium=rss)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [Sources: the US SEC is investigating a Twitter security lapse in 2018 that exposed users&#39; email addresses and whether executives adequately informed investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/231010/p20#a231010p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, Thierry Breton warns Elon Musk that X could face penalties under the DSA for hosting disinformation and illegal content about the Israel-Hamas war &lpar;CNN&rpar;](http://www.techmeme.com/231010/p24#a231010p24)
+ - [Prime deal: Save almost 50% on the new Beats Studio Pro!](https://www.androidauthority.com/beats-studio-pro-prime-deal-3374374/)
+ - [Amazon’s kid-friendly Kindle Paperwhite has hit an all-time low for Prime Day](https://www.theverge.com/2023/10/10/23908823/amazon-kindle-paperwhite-kids-ebook-reader-october-prime-day-deal-sale)
+ - [Letter: Thierry Breton warns Elon Musk that X could face penalties under the DSA for hosting &quot;illegal content and disinformation&quot; about the Israel-Hamas war &lpar;CNN&rpar;](http://www.techmeme.com/231010/p24#a231010p24)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [113 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
- - [Swiss study shows Apple Watch produces best ECG quality and readability](https://appleinsider.com/articles/23/10/10/swiss-study-shows-apple-watch-produces-best-ecg-quality-and-readability?utm_medium=rss)<!-- TECH:END -->
+ - [113 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

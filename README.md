@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
- - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 💣 [But why tho?](http://9gag.com/gag/a2KVv9e)
- - 😝 [EU stops \u20ac651 million in financial aid to the Palestinians. They have received billions of euros over the last decade. Have they built desalination capacity for drinking water? No. The money went into underground rocket factories. Islam a religion of peace !](http://9gag.com/gag/aEqbMzO)
- - 👉 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)<!-- MEMES:END -->
+ - 😝 [The Turkish city of Adana ordered all Arabic shop signs to be taken down.](http://9gag.com/gag/aREG7q7)
+ - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 💣 [Road rager shatters window](http://9gag.com/gag/aGEqEOZ)
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 👉 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)<!-- MEMES:END -->
 
 ---
 

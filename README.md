@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden&#39;s far-right pushes for a change in citizenship laws and the ability to sentence minors to life in prison - `We should be able to revoke citizenships of terrorists and gang criminals. Integration policy is based on a lie. They have no connection to Swedish society.`](http://9gag.com/gag/aREGLGj)
- - 😝 [Those who know](http://9gag.com/gag/aVb8gKP)
+ - 😝 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
  - 💣 [Go playboy!](http://9gag.com/gag/amAyoDV)
- - 😝 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)
- - 👉 [Martes](http://9gag.com/gag/a7qB8WA)<!-- MEMES:END -->
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirPods &amp; Beats crash to $89 with Amazon Prime Day deals](https://appleinsider.com/articles/23/10/10/apple-airpods-beats-crash-to-89-with-amazon-prime-day-deals?utm_medium=rss)
  - [Get up to 30% off Aqara smart home devices &amp; lock in record low prices for Amazon Prime Day](https://appleinsider.com/articles/23/10/10/get-up-to-30-off-aqara-smart-home-devices-lock-in-record-low-prices-for-amazon-prime-day?utm_medium=rss)
  - [Your Google Nest device could be a step closer to regaining lost features](https://www.androidauthority.com/google-nest-chromecast-lost-features-sonos-lose-3373983/)
  - [Global PC shipments fell 7.6% YoY to 68.2M in Q3 2023; among the top five vendors, Apple experienced the largest decline, down 23.1%, and only HP grew, up 6.4% &lpar;IDC&rpar;](http://www.techmeme.com/231010/p2#a231010p2)
- - [Animal Crossing: New Horizons Is The Cozy Game I Needed This Year     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-is-the-cozy-game-i-needed-this-year/#ftag=CAD590a51e)
- - [Austin-based Saronic, a startup developing autonomous ships for the US Navy and US-aligned defense customers, raised a $55M Series A led by Caffeinated Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231010/p1#a231010p1)<!-- TECH:END -->
+ - [Animal Crossing: New Horizons Is The Cozy Game I Needed This Year     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-is-the-cozy-game-i-needed-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

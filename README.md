@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Priscilla is Sofia Coppola back to her old tricks](https://www.theverge.com/23911447/priscilla-movie-review-sofia-coppola-nyff)
- - [Belkin’s StandBy-ready charging puck is on sale for just $14 right now](https://www.theverge.com/2023/10/10/23909260/belkin-boostcharge-pro-magsafe-charger-amazon-october-prime-day-2023-deal-sale)
- - [Apple seeds third iOS 17.1 &amp; iPadOS 17.1 developer beta](https://appleinsider.com/articles/23/10/10/apple-seeds-third-ios-171-ipados-171-developer-beta?utm_medium=rss)
- - [Third watchOS 10.1 developer beta is now available](https://appleinsider.com/articles/23/10/10/third-watchos-101-developer-beta-is-now-available?utm_medium=rss)
- - [Google is already bringing back the software features it removed because of Sonos’ lawsuit](https://www.theverge.com/2023/10/10/23911491/google-home-grouping-features-now-available-sonos)<!-- TECH:END -->
+ - [Apple releases iOS 16.7.1 for older devices with big security fixes](https://appleinsider.com/articles/23/10/10/apple-releases-ios-1671-for-older-devices-with-big-security-fixes?utm_medium=rss)
+ - [The 144 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
+ - [18 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
+ - [France&#39;s iPhone 12 model radio power testing was radically different than the standard](https://appleinsider.com/articles/23/10/10/frances-iphone-12-model-radio-power-testing-was-radically-different-than-the-standard?utm_medium=rss)
+ - [Priscilla is Sofia Coppola back to her old tricks](https://www.theverge.com/23911447/priscilla-movie-review-sofia-coppola-nyff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

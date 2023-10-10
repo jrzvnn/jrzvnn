@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14-inch MacBook Pro with peak performance gets a $1,500 discount from B&amp;H Photo](https://appleinsider.com/articles/23/10/10/14-inch-macbook-pro-with-peak-performance-gets-a-1500-discount-from-bh-photo?utm_medium=rss)
  - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
  - [Amazon, Google, and Cloudflare say a DDoS attack hit 398M RPS in August, ~8x larger than the previous record, due to a new bug; Google was able to mitigate it &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/231010/p16#a231010p16)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Some of our favorite devices are on sale for Amazon Prime Day.](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
- - [AMD plans to acquire Santa Clara-based Nod.ai, which specializes in deploying open-source AI software and has raised ~$36.5M, per PitchBook &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/231010/p15#a231010p15)<!-- TECH:END -->
+ - [Some of our favorite devices are on sale for Amazon Prime Day.](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

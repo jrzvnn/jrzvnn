@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X now lets users block unverified accounts from replying to their posts, potentially limiting how the community can push back on misinformation &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/231010/p5#a231010p5)
+ - [Anker’s 10,000mAh and 20,000mAh power banks get a hefty price cut](https://www.androidauthority.com/anker-power-bank-prime-day-2-2023-3374071/)
  - [Best Amazon Prime Day 2023 deals to shop now](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
- - [26 Best Deals From Best Buy&#39;s 48-Hour Flash Sale &lpar;2023&rpar;](https://www.wired.com/story/best-buy-flash-sale-october-2023/)
- - [Sources: EU regulators send out questionnaires asking customers and competitors whether Apple&#39;s iMessage and Microsoft&#39;s Bing should be regulated under the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231010/p4#a231010p4)
- - [50 Absolute Best October Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-5/)
- - [The OnePlus 11 has received its biggest discount yet as part of Prime Day 2](https://www.androidauthority.com/oneplus-11-deal-prime-day-2-3374013/)<!-- TECH:END -->
+ - [The 51 Best October Prime Day Deals You Can Shop for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e)
+ - [Best October Prime Day Deals You Can Grab for Under $10     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

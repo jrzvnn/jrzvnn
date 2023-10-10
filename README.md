@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s the first peek at the new Google Assistant powered by Bard](https://www.androidauthority.com/google-assistant-bard-3374245/)
  - [Apple releases iOS 16.7.1 for older devices with big security fixes](https://appleinsider.com/articles/23/10/10/apple-releases-ios-1671-for-older-devices-with-big-security-fixes?utm_medium=rss)
  - [The 144 best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [18 Best October Prime Day TV Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-tv-deals-october-2023-1/)
- - [France&#39;s iPhone 12 model radio power testing was radically different than the standard](https://appleinsider.com/articles/23/10/10/frances-iphone-12-model-radio-power-testing-was-radically-different-than-the-standard?utm_medium=rss)
- - [Priscilla is Sofia Coppola back to her old tricks](https://www.theverge.com/23911447/priscilla-movie-review-sofia-coppola-nyff)<!-- TECH:END -->
+ - [France&#39;s iPhone 12 model radio power testing was radically different than the standard](https://appleinsider.com/articles/23/10/10/frances-iphone-12-model-radio-power-testing-was-radically-different-than-the-standard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

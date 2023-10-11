@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [Best October Prime Day Deals You Can Still Buy for $10 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10-day-2/#ftag=CAD590a51e)
  - [21 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-2/)
  - [Alameda’s paper trail leads straight to Sam Bankman-Fried](https://www.theverge.com/2023/10/11/23913665/ftx-sam-bankman-fried-fraud-trial-caroline-ellison-testimony-alameda-balance-sheets)
- - [169 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [Microsoft owes $29 billion in back taxes, says IRS](https://www.theverge.com/2023/10/11/23913505/microsoft-owes-irs-back-taxes)<!-- TECH:END -->
+ - [169 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple objects to Australia plan to regulate Apple Pay](https://appleinsider.com/articles/23/10/11/apple-objects-to-australia-plan-to-regulate-apple-pay?utm_medium=rss)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [A look at EA&#39;s FC 24, the first soccer video game after EA and FIFA ended their licensing deal, estimated to be worth $160M/year, when FIFA demanded much more &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p24#a231011p24)
- - [PS5 Pro rumors: Expected release date, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [27 Best Prime Day Laptop Deals &lpar;2023&rpar; and Other WFH Gear](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-2/)<!-- TECH:END -->
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
+ - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
+ - [California’s newest law will make it easier to delete personal online data](https://www.theverge.com/2023/10/11/23912548/california-delete-act-personal-data-single-request-online-data-brokers)
+ - [9 Best All-Clad Cookware Deals Right Now &lpar;October 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
+ - [Sonos vows to keep fighting Google for the benefit of small companies — and its own revenue](https://www.theverge.com/2023/10/11/23912528/sonos-google-patent-response-statement-alsup-verdict)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

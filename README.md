@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking for a strong female character? When Hamas attacked, she grabbed her gun and gathered a militia. She killed 5 herself and, with her fighters, took down a total of 20, defending her community. - Do you go to paradise if you get wiped by a Jewish girl?](http://9gag.com/gag/arm0A27)
- - 😝 [Hypocrites](http://9gag.com/gag/amAyGBV)
- - 💣 [Consistent](http://9gag.com/gag/agobOmr)
- - 😝 [Wow!!](http://9gag.com/gag/axo8v6b)
- - 👉 [The truth be heard](http://9gag.com/gag/aVb8o9d)<!-- MEMES:END -->
+ - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
 
 ---
 

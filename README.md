@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Day two of Caroline Ellison&#39;s testimony: &quot;stressed out&quot; by Alameda losses, Alameda borrowed $13B from FTX users by June 2022, and $5B loaned to FTX executives &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p26#a231011p26)
- - [44 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Rosetta Stone lifetime subscription dips to $159.97 this week](https://appleinsider.com/articles/23/10/11/rosetta-stone-lifetime-subscription-dips-to-15997-this-week?utm_medium=rss)
- - [If it ain’t broke, don’t fix it: The Apple Watch X could remain boring after all](https://www.androidauthority.com/apple-watch-x-boring-3374838/)<!-- TECH:END -->
+ - [5 Best Dyson Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/dyson-prime-day-deals-october-2023/)
+ - [Day two of Caroline Ellison&#39;s testimony: &quot;stressed out&quot; by Alameda losses, Alameda borrowed $13B from FTX users by June 2022, and $5B loaned to FTX executives &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p26#a231011p26)
+ - [44 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

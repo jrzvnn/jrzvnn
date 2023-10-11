@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023-1/)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Midnight 15-inch MacBook Air with 16GB RAM drops to $1,299 on Amazon Prime Day](https://appleinsider.com/articles/23/10/11/midnight-15-inch-macbook-air-with-16gb-ram-drops-to-1299-on-amazon-prime-day?utm_medium=rss)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [Our 51 Favorite Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)<!-- TECH:END -->
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
+ - [The Google trial shows that Apple’s search deal is the most important contract in tech](https://www.theverge.com/2023/10/11/23913287/us-v-google-apple-search-deal)
+ - [Filing: Progress Software says the US SEC have opened a probe into the MOVEit hack that has exposed the personal data of at least 64M people &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231011/p32#a231011p32)
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
+ - [10 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

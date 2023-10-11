@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [A draft of ASEAN&#39;s &quot;guide to AI ethics and governance&quot; shows the bloc is taking a business-friendly approach to AI, contrary to the EU&#39;s stringent framework &lpar;Reuters&rpar;](http://www.techmeme.com/231010/p34#a231010p34)
+ - [PlayStation 5 Slim Announced: Everything You Need to Know video     - CNET](https://www.cnet.com/videos/playstation-5-slim-announced-everything-you-need-to-know/#ftag=CAD590a51e)
  - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
- - [Apple-backed right to repair bill now law in California](https://appleinsider.com/articles/23/10/11/apple-backed-right-to-repair-bill-now-law-in-california?utm_medium=rss)
- - [Online used car marketplace Shift files for Chapter 11 bankruptcy and begins the process to shut down its business, after going public via a SPAC merger in 2020 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231010/p33#a231010p33)
- - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
+ - [Best Prime Day TV Deals     - CNET](https://www.cnet.com/deals/the-best-prime-day-tv-deals/#ftag=CAD590a51e)
+ - [Apple-backed right to repair bill now law in California](https://appleinsider.com/articles/23/10/11/apple-backed-right-to-repair-bill-now-law-in-california?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

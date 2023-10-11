@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Argentina right now](http://9gag.com/gag/aXnzMz2)
- - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 💣 [What would we do without](http://9gag.com/gag/aVb8gpO)
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 💣 [I need a horse](http://9gag.com/gag/aPg0m0B)
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 👉 [What would we do without](http://9gag.com/gag/aVb8gpO)<!-- MEMES:END -->
 
 ---
 

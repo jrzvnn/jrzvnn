@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LabView design &amp; test app abandons the Mac after four decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades?utm_medium=rss)
- - [The best Samsung Galaxy S23 FE cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-fe-cases-3371516/)
- - [The UK CMA invites comments on Vodafone&#39;s $19B Three UK merge, which would reduce major networks from four to three; the EU blocked a similar deal in 2016 &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p13#a231011p13)
- - [Munich-based Orbem, which uses an MRI scanner and AI to determine the sex of an egg, raised a &amp;euro;30M Series A led by 83North, taking its total funding to &amp;euro;40M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231011/p12#a231011p12)
- - [Apple spent $200M to $250M on Killers of the Flower Moon, debuting October 20, the first test of Apple&#39;s plans to spend $1B per year on movies for theaters &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p11#a231011p11)<!-- TECH:END -->
+ - [Apple could be out $20 billion a year if Google loses DOJ antitrust case](https://appleinsider.com/articles/23/10/11/apple-could-be-out-20-billion-a-year-if-google-loses-doj-antitrust-case?utm_medium=rss)
+ - [This Momentum 4 Wireless Prime Day 2 deal is too good to pass up](https://www.androidauthority.com/this-momentum-4-wireless-prime-day-2-deal-is-too-good-to-pass-up-3374732/)
+ - [Sources: at an Activision townhall hosted by James Corden, Bobby Kotick discussed Microsoft, Elon Musk&#39;s Neuralink, hinted at a Guitar Hero revival, and more &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231011/p14#a231011p14)
+ - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
+ - [130 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

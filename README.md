@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-deals-october-2023-1/)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [Uber Eats will now let you order from two stores at once](https://www.theverge.com/2023/10/11/23912567/uber-eats-multi-store-order-delivery-fee)
  - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
- - [Nothing’s Android 14 open beta is coming soon, and you can sign up now](https://www.androidauthority.com/nothing-android-14-beta-3374773/)
- - [Dropbox announces an open beta for its AI-powered Dash universal search tool, a new web UI, collaboration tool Dropbox Studio for video creators, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231011/p19#a231011p19)<!-- TECH:END -->
+ - [Nothing’s Android 14 open beta is coming soon, and you can sign up now](https://www.androidauthority.com/nothing-android-14-beta-3374773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

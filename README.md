@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [New AirPods Pro 2 with USB-C vs AirPods Pro 2 - compared](https://appleinsider.com/inside/airpods-pro-2/vs/new-airpods-pro-2-with-usb-c-vs-airpods-pro-2---compared?utm_medium=rss)
- - [Google Pixel Watch 2 review: improved Fitbit integration, better health and stress tracking, and Safety Check is great, but fragile screen and only one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231011/p30#a231011p30)
- - [Google Pixel 8 and 8 Pro review: useful, if troubling, AI photo editing tools, 8 lacks some 8 Pro features despite both having the same chip, Tensor G3 runs hot &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231011/p29#a231011p29)
- - [Lightning Deal alert! McAfee Total Protection down 87% if you’re quick](https://www.androidauthority.com/mcafee-total-protection-2023-deal-3374934/)<!-- TECH:END -->
+ - [One of our favorite smartwatches for Android users is down to $170](https://www.theverge.com/2023/10/11/23909154/amazfit-gtr-4-android-smartwatch-fitness-tracker-october-prime-day-deal-sale)
+ - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
+ - [MacBook Pro will get OLED in 2026 from new Samsung factory](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
+ - [Big Deal Days slashes 40% off of Google’s new Pixel Buds Pro](https://www.androidauthority.com/pixel-buds-pro-amazon-deal-3374909/)
+ - [T-Mobile giving the gift of forcing more expensive plans on its subscribers](https://www.androidauthority.com/t-mobile-forced-upgrades-2023-3374950/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

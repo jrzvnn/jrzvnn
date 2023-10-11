@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: India&#39;s Enforcement Directorate arrests a Vivo executive, who is also a Chinese national, in relation to a 2022 case over alleged money laundering &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p4#a231011p4)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
+ - [Google announces enhanced search results for EVs, home heating, and cooling systems, and expands AI tools to better predict floods, wildfires, and extreme heat &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231011/p3#a231011p3)
  - [OnePlus 12 camera specs leak: A major zoom upgrade for OnePlus?](https://www.androidauthority.com/oneplus-12-camera-specs-leak-3374538/)
- - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes have become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
- - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)
- - [How Google&#39;s Project Green Light is using AI to analyze Maps data to suggest how cities can adjust traffic light timing to cut wait times and vehicle emissions &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231011/p1#a231011p1)
- - [October Amazon Prime Day 2023: Sign Up for Prime and Save Big on Today&#39;s Deals     - CNET](https://www.cnet.com/tech/october-amazon-prime-day-2023-sign-up-for-amazon-prime-and-save-big-on-todays-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes have become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

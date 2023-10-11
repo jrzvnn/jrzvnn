@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Dropbox CEO Drew Houston on new AI features, the challenge of not annoying loyal users, embracing a virtual-first workplace culture, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231011/p9#a231011p9)
+ - [October Prime Day 2023: 65 of the Best Deals Under $25 to Buy Today     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)
  - [Assistant with Bard might only come to Tensor-toting Pixels, S24 at first](https://www.androidauthority.com/google-assistant-with-bard-supported-devices-3374553/)
  - [Samsung reports Q3 operating income fell 78% QoQ to ~$1.8B and revenue fell 13% QoQ to ~$49.6B, suggesting the global chip market may have started to recover &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231011/p8#a231011p8)
- - [Google is paying Apple a shocking amount of money for iPhone presence: Report](https://www.androidauthority.com/google-paying-apple-iphone-search-3374554/)
- - [Sources: several startups, VCs, and PE firms are exploring investments in Indian banks, which may help cut capital acquisition costs for local fintech startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231011/p7#a231011p7)
- - [An investigation details the Intellexa Alliance, a shady group of European companies that marketed and sold spyware like Predator to authoritarian regimes &lpar;Spiegel Online&rpar;](http://www.techmeme.com/231011/p6#a231011p6)<!-- TECH:END -->
+ - [October Prime Day: Live Blogging Must-Grab Amazon Deals for Day Two     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-wednesday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

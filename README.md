@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel is already ‘rebooting’ its upcoming Daredevil Disney Plus reboot](https://www.theverge.com/23912791/daredevil-born-again-reboot-chris-ord-matt-corman)
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
- - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [This First Peek Inside NASA’s OSIRIS-REx Capsule Is a Glimpse Back in Time](https://www.wired.com/story/this-first-peek-inside-nasas-osiris-rex-capsule-is-a-glimpse-back-in-time/)<!-- TECH:END -->
+ - [Samsung 32-inch M8 monitor plunges to $369.99 with Amazon Prime Day deal](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
+ - [Sony will let you stream PS5 games to the PS5 very soon](https://www.theverge.com/2023/10/11/23912931/sony-playstation-ps5-cloud-streaming-games-launch)
+ - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
+ - [Sony plans to launch cloud streaming of PS5 games for PlayStation Plus Premium members in Japan, Europe, and North America later this month &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/231011/p28#a231011p28)
+ - [Join Storm Reid for a 90-minute study buddy video from Apple](https://appleinsider.com/articles/23/10/11/join-storm-reid-for-a-90-minute-study-buddy-video-from-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

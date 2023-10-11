@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
+ - [19 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-deals-october-2023-1/)
  - [Microsoft hammered with $29 billion back-tax bill](https://appleinsider.com/articles/23/10/11/microsoft-hammered-with-29-billion-back-tax-bill?utm_medium=rss)
  - [The best laptop deals for October Prime Day Day 2](https://www.theverge.com/23911169/october-amazon-prime-day-best-laptop-deals-2023)
- - [RIAA wants AI voice cloning sites on government piracy watchlist](https://www.theverge.com/2023/10/11/23913405/riaa-ai-voice-cloning-threat-copyright-ustr)
- - [165 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
+ - [RIAA wants AI voice cloning sites on government piracy watchlist](https://www.theverge.com/2023/10/11/23913405/riaa-ai-voice-cloning-threat-copyright-ustr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

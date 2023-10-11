@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 😝 [Go playboy!](http://9gag.com/gag/amAyoDV)
- - 💣 [Very impressive.](http://9gag.com/gag/aA07Q4E)
- - 😝 [Martes](http://9gag.com/gag/a7qB8WA)
- - 👉 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)<!-- MEMES:END -->
+ - 😝 [Argentina right now](http://9gag.com/gag/aXnzMz2)
+ - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - 💣 [What would we do without](http://9gag.com/gag/aVb8gpO)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 ---
 

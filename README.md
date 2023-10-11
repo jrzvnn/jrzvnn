@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dropbox redesigns its web interface and releases AI-powered Dash in open beta](https://www.theverge.com/2023/10/11/23912510/drop-web-interface-redesign-dash-ai-studio)
- - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
- - [Investors and analysts expect the Israel-Hamas war to derail the fragile recovery of Israel&#39;s tech sector, which accounts for 14% of the country&#39;s workforce &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231011/p16#a231011p16)
- - [As social networks become cluttered with ads, misinformation, and irrelevant posts, the web just feels less fun, suggesting the old era of social media is over &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/231011/p15#a231011p15)
- - [October Prime Day: Live Blogging Must-Grab Amazon Deals for Day Two     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-wednesday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
+ - [OLED displays are coming to iPad mini &amp; iPad Air soon, says obvious rumor](https://appleinsider.com/articles/23/10/11/oled-displays-are-coming-to-ipad-mini-ipad-air-soon-says-obvious-rumor?utm_medium=rss)
+ - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
+ - [The FTC proposes a new rule to require ticket sellers and others to show the total price to users upfront; Ticketmaster and SeatGeek have pledged all-in pricing &lpar;Caitlin Huston/Hollywood Reporter&rpar;](http://www.techmeme.com/231011/p17#a231011p17)
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 51 Favorite Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)
  - [Google has fixed its recent history of terrible speakers with the Pixel 8 Pro](https://www.theverge.com/2023/10/11/23913099/google-pixel-8-improved-speaker-quality)
  - [Fortnite is pushing creator-made maps with a YouTube-like redesign](https://www.theverge.com/2023/10/11/23912919/fortnite-creator-made-maps-youtube-redesign)
- - [October Prime Day: Live Blogging Must-Grab Amazon Deals for Day 2     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-wednesday/#ftag=CAD590a51e)
- - [18 Prime Day iPhone and Android Deals You Don&#39;t Want to Miss     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals/#ftag=CAD590a51e)
- - [154 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
+ - [154 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
+ - [Letter: Thierry Breton urges Mark Zuckerberg to be &quot;vigilant&quot; about removing disinformation from Meta&#39;s platforms during the Israel-Hamas war &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231011/p31#a231011p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

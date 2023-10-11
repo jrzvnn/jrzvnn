@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Amazon Prime Day TV deals - steep discounts end tonight](https://appleinsider.com/articles/23/10/11/best-amazon-prime-day-tv-deals---steep-discounts-end-tonight?utm_medium=rss)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [The best laptop deals for October Prime Day Day 2](https://www.theverge.com/23911169/october-amazon-prime-day-best-laptop-deals-2023)
  - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-11-2023-3373667/)
- - [Study: if AI growth continues at its current rate, by 2027 the industry could consume as much energy as a small country like the Netherlands, or 85-134 TWh/year &lpar;BBC&rpar;](http://www.techmeme.com/231011/p20#a231011p20)
- - [16 Best Prime Day Espresso Machine Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-espresso-machine-deals-october-2023-1/)<!-- TECH:END -->
+ - [Study: if AI growth continues at its current rate, by 2027 the industry could consume as much energy as a small country like the Netherlands, or 85-134 TWh/year &lpar;BBC&rpar;](http://www.techmeme.com/231011/p20#a231011p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

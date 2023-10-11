@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah sues TikTok for getting children ‘addicted’ to its algorithm](https://www.theverge.com/2023/10/10/23911803/utah-tiktok-child-addiction-china-deception-lawsuit)
+ - [Utah sues TikTok, accusing it of getting kids hooked through &quot;algorithms and manipulative design features&quot;, following similar lawsuits by Indiana and Arkansas &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/231010/p32#a231010p32)
+ - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [California Gov. Newsom signs into law the Right to Repair Act, effective for devices made and sold after July 1, 2021, barring game consoles and alarm systems &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231010/p31#a231010p31)
- - [One third-party Reddit app on iOS is going charge you $3.99 per month to use it](https://www.theverge.com/2023/10/10/23903204/narwhal-third-party-reddit-app-price-relay-now)
- - [New York City&#39;s crackdown on short-term listings causes Airbnb listings to plummet, while some turn to services such as Craigslist, Houfy, and Facebook Groups &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231010/p30#a231010p30)<!-- TECH:END -->
+ - [Best Prime Day router deals: save up to 55% on networking gear](https://appleinsider.com/articles/23/10/11/best-prime-day-router-deals-save-up-to-55-on-networking-gear?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

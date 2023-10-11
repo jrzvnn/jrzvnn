@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
- - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
- - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
+ - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
  - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
 
 ---
 

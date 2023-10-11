@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft owes $29 billion in back taxes, says IRS](https://www.theverge.com/2023/10/11/23913505/microsoft-owes-irs-back-taxes)
+ - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [Crunchyroll is in the news today, but not for the reason it needs to be](https://www.theverge.com/2023/10/11/23913236/crunchyroll-sony-class-action-settlement-fast-anime)
  - [Vapes, chargers, and other ‘invisible’ e-waste are a 9-million-ton problem](https://www.theverge.com/2023/10/11/23912751/vapes-chargers-invisible-ewaste-recycling)
- - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Death, Sex, and the future of WNYC podcasts](https://www.theverge.com/2023/10/11/23913556/death-sex-money-wnyc-npr-podcast-radiolab)
- - [Last call for these Amazon Prime Day tech deals](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
+ - [Death, Sex, and the future of WNYC podcasts](https://www.theverge.com/2023/10/11/23913556/death-sex-money-wnyc-npr-podcast-radiolab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

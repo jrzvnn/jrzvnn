@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
- - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - 😝 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
  - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 💣 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
  - 👉 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)<!-- MEMES:END -->
 
 ---

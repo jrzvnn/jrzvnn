@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [OLED displays are coming to iPad mini &amp; iPad Air soon, says obvious rumor](https://appleinsider.com/articles/23/10/11/oled-displays-are-coming-to-ipad-mini-ipad-air-soon-says-obvious-rumor?utm_medium=rss)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [The FTC proposes a new rule to require ticket sellers and others to show the total price to users upfront; Ticketmaster and SeatGeek have pledged all-in pricing &lpar;Caitlin Huston/Hollywood Reporter&rpar;](http://www.techmeme.com/231011/p17#a231011p17)
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)<!-- TECH:END -->
+ - [The best smartwatch and fitness tracker deals for Prime Day](https://www.theverge.com/23910515/amazon-october-prime-day-best-fitness-tracker-smartwatch-deals-2023)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
+ - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
+ - [Filing: Alphabet-owned DeepMind cut expenses related to employees by to &amp;pound;595M in 2022, down 39% from &amp;pound;969M in 2021, as revenue fell 21% YoY &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231011/p18#a231011p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

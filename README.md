@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Martes](http://9gag.com/gag/a7qB8WA)
- - 😝 [More than 700 000 people die due to suicide every year. 77%&lpar;539,000&rpar; are men](http://9gag.com/gag/abvoOyX)
- - 💣 [Classic Jacky Chan flick](http://9gag.com/gag/a9qeywZ)
- - 😝 [Of course thats the only explanation](http://9gag.com/gag/a9qez3Z)
- - 👉 [PC Master race](http://9gag.com/gag/ay2Aq7X)<!-- MEMES:END -->
+ - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
+ - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
 
 ---
 

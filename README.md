@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [This First Peek Inside NASA’s OSIRIS-REx Capsule Is a Glimpse Back in Time](https://www.wired.com/story/this-first-peek-inside-nasas-osiris-rex-capsule-is-a-glimpse-back-in-time/)
  - [8 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-2/)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [Adobe made an animated dress &lpar;and a bunch of wild AI editing tools&rpar;](https://www.theverge.com/2023/10/11/23912614/adobe-max-sneaks-generative-ai-audio-3d-tech-preview)
- - [Razer has so many crazy discounts right now, we don’t even know where to begin](https://www.androidauthority.com/razer-deals-big-deal-days-2023-3374899/)
- - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)<!-- TECH:END -->
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

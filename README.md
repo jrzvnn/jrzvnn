@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out third developer beta of tvOS 17.1](https://appleinsider.com/articles/23/10/11/apple-rolls-out-third-developer-beta-of-tvos-171?utm_medium=rss)
+ - [147 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
+ - [PSA: The Google Pixel 8 series doesn’t have ray tracing](https://www.androidauthority.com/google-pixel-8-series-ray-tracing-3374793/)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Anker’s bassy Sport X10 earbuds are nearly 40 percent off for Prime Day](https://www.theverge.com/2023/10/11/23910207/anker-soundscore-sport-x10-earbuds-amazon-october-prime-day-deal-sale)
- - [Today is the last day to save on Disney Plus and Hulu before the price hike](https://www.theverge.com/2023/10/11/23904685/disney-plus-hulu-deals-sale-price-hike)
- - [Google Tensor G3: Everything you need to know about the Pixel 8 processor](https://www.androidauthority.com/google-tensor-g3-explained-3324692/)
- - [There’s a real gap between the Google Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-pro-gap-3373639/)<!-- TECH:END -->
+ - [Anker’s bassy Sport X10 earbuds are nearly 40 percent off for Prime Day](https://www.theverge.com/2023/10/11/23910207/anker-soundscore-sport-x10-earbuds-amazon-october-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

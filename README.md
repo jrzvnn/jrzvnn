@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatch and fitness tracker deals for Prime Day](https://www.theverge.com/23910515/amazon-october-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
- - [Filing: Alphabet-owned DeepMind cut expenses related to employees by to &amp;pound;595M in 2022, down 39% from &amp;pound;969M in 2021, as revenue fell 21% YoY &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231011/p18#a231011p18)<!-- TECH:END -->
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [Uber Eats will now let you order from two stores at once](https://www.theverge.com/2023/10/11/23912567/uber-eats-multi-store-order-delivery-fee)
+ - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
+ - [Nothing’s Android 14 open beta is coming soon, and you can sign up now](https://www.androidauthority.com/nothing-android-14-beta-3374773/)
+ - [Dropbox announces an open beta for its AI-powered Dash universal search tool, a new web UI, collaboration tool Dropbox Studio for video creators, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231011/p19#a231011p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

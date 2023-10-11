@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [How Google&#39;s Project Green Light is using AI to analyze Maps data to suggest how cities can adjust traffic light timing and cut wait times and vehicle emissions &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231011/p1#a231011p1)
+ - [October Prime Day: Live Blogging the Must-Grab Amazon Deals of 2023     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-tuesday/#ftag=CAD590a51e)
  - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M between August 2021-June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [October Amazon Prime Day Vacuum Deals Are Here     - CNET](https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e)
- - [October Prime Day 2023: 64 of the Best Deals Under $25 to Buy Today     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Skipping Prime Day? Shop the Best Deals at Target, Best Buy and Other Retailers     - CNET](https://www.cnet.com/deals/skipping-prime-day-shop-best-deals-target-best-buy-and-other-retailers/#ftag=CAD590a51e)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

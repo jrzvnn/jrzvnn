@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
- - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 😝 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
+ - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
+ - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 😝 [They only care when they are the victim.](http://9gag.com/gag/aL13e7P)
+ - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aEqbVxK)
+ - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
+ - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Would you date the Gorlok?](http://9gag.com/gag/amAyggj)
  - 👉 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)<!-- MEMES:END -->
 
 ---

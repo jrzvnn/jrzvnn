@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes had become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
+ - [OnePlus 12 camera specs leak: A major zoom upgrade for OnePlus?](https://www.androidauthority.com/oneplus-12-camera-specs-leak-3374538/)
+ - [Some chemicals suppliers to TSMC plan to enter Europe, claiming EU chipmakers&#39; manufacturing processes have become inefficient and their supply chains atrophied &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p2#a231011p2)
  - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)
  - [How Google&#39;s Project Green Light is using AI to analyze Maps data to suggest how cities can adjust traffic light timing to cut wait times and vehicle emissions &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231011/p1#a231011p1)
- - [October Prime Day: Live Blogging the Must-Grab Amazon Deals of 2023     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-tuesday/#ftag=CAD590a51e)
- - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M from August 2021 to June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)<!-- TECH:END -->
+ - [October Amazon Prime Day 2023: Sign Up for Prime and Save Big on Today&#39;s Deals     - CNET](https://www.cnet.com/tech/october-amazon-prime-day-2023-sign-up-for-amazon-prime-and-save-big-on-todays-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

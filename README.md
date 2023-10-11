@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [New AirPods Pro 2 with USB-C vs AirPods Pro 2 - compared](https://appleinsider.com/inside/airpods-pro-2/vs/new-airpods-pro-2-with-usb-c-vs-airpods-pro-2---compared?utm_medium=rss)
  - [Google Pixel Watch 2 review: improved Fitbit integration, better health and stress tracking, and Safety Check is great, but fragile screen and only one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231011/p30#a231011p30)
- - [Google Pixel 8 and 8 Pro review: useful, if troubling, AI photo editing tools, 8 lacks some Pro features despite both having the same chip, Tensor G3 runs hot &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231011/p29#a231011p29)
- - [Lightning Deal alert! McAfee Total Protection down 87% if you’re quick](https://www.androidauthority.com/mcafee-total-protection-2023-deal-3374934/)
- - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 8 and 8 Pro review: useful, if troubling, AI photo editing tools, 8 lacks some 8 Pro features despite both having the same chip, Tensor G3 runs hot &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231011/p29#a231011p29)
+ - [Lightning Deal alert! McAfee Total Protection down 87% if you’re quick](https://www.androidauthority.com/mcafee-total-protection-2023-deal-3374934/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

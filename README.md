@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple objects to Australia plan to regulate Apple Pay](https://appleinsider.com/articles/23/10/11/apple-objects-to-australia-plan-to-regulate-apple-pay?utm_medium=rss)
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [A look at EA&#39;s FC 24, the first soccer video game after EA and FIFA ended their licensing deal, estimated to be worth $160M/year, when FIFA demanded much more &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p24#a231011p24)
  - [PS5 Pro rumors: Expected release date, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
- - [27 Best Prime Day Laptop Deals &lpar;2023&rpar; and Other WFH Gear](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-2/)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [FTC lays out new rule that could end hidden fees](https://www.theverge.com/2023/10/11/23912563/ftc-proposal-junk-hidden-fees)
- - [Polar announces new Vantage V3 watch for preorder](https://www.theverge.com/2023/10/11/23912623/polar-new-vantage-v3-watch-fitness-wearables)<!-- TECH:END -->
+ - [27 Best Prime Day Laptop Deals &lpar;2023&rpar; and Other WFH Gear](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

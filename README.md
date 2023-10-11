@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Galaxy Tab S8 Plus plunges by $300, and more Prime tablet deals](https://www.androidauthority.com/samsung-galaxy-tab-prime-deals-3374981/)
+ - [Google triumphant over Sonos in smart speaker patent battle](https://appleinsider.com/articles/23/10/11/google-triumphant-over-sonos-in-smart-speaker-patent-battle?utm_medium=rss)
  - [The latest Apple Watch SE is matching its best price to date for Prime Day](https://www.theverge.com/good-deals/2023/10/11/23913116/apple-watch-se-smartwatch-october-prime-day-2023-deal-sale)
  - [The EU’s Threats to Elon Musk Are Empty, Sources Say](https://www.wired.com/story/the-eu-is-playing-by-elon-musks-rules/)
- - [161 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [The best smartwatch and fitness tracker deals for Prime Day](https://www.theverge.com/23910515/amazon-october-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [You need a new laptop, and this LG Gram deal is hard to pass up](https://www.androidauthority.com/lg-gram-deal-2023-3374979/)<!-- TECH:END -->
+ - [161 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest Apple Watch SE is matching its best price to date for Prime Day](https://www.theverge.com/good-deals/2023/10/11/23913116/apple-watch-se-smartwatch-october-prime-day-2023-deal-sale)
+ - [The EU’s Threats to Elon Musk Are Empty, Sources Say](https://www.wired.com/story/the-eu-is-playing-by-elon-musks-rules/)
  - [161 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
  - [The best smartwatch and fitness tracker deals for Prime Day](https://www.theverge.com/23910515/amazon-october-prime-day-best-fitness-tracker-smartwatch-deals-2023)
- - [You need a new laptop, and this LG Gram deal is hard to pass up](https://www.androidauthority.com/lg-gram-deal-2023-3374979/)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [A Graphic Hamas Video Donald Trump Jr. Shared on X Is Actually Real, Research Confirms](https://www.wired.com/story/x-community-notes-failures/)<!-- TECH:END -->
+ - [You need a new laptop, and this LG Gram deal is hard to pass up](https://www.androidauthority.com/lg-gram-deal-2023-3374979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

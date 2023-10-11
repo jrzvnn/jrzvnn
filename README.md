@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [FCC proposal would force cable companies to issue rebates for channel blackouts](https://www.theverge.com/2023/10/11/23913172/fcc-rebates-tv-blackouts-cable-satellite)
- - [Microsoft says it received Notices of Proposed Adjustment from the IRS for an additional tax payment of $28.9B &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231011/p34#a231011p34)
- - [WordPress now offers official support for ActivityPub](https://www.theverge.com/2023/10/11/23913278/wordpress-activitypub-official-plugin-automattic-fediverse-mastodon)<!-- TECH:END -->
+ - [Microsoft hammered with $29 billion back-tax bill](https://appleinsider.com/articles/23/10/11/microsoft-hammered-with-29-billion-back-tax-bill?utm_medium=rss)
+ - [The best laptop deals for October Prime Day Day 2](https://www.theverge.com/23911169/october-amazon-prime-day-best-laptop-deals-2023)
+ - [RIAA wants AI voice cloning sites on government piracy watchlist](https://www.theverge.com/2023/10/11/23913405/riaa-ai-voice-cloning-threat-copyright-ustr)
+ - [165 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
+ - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

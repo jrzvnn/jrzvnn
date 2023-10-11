@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out third developer beta of tvOS 17.1](https://appleinsider.com/articles/23/10/11/apple-rolls-out-third-developer-beta-of-tvos-171?utm_medium=rss)
- - [147 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [PSA: The Google Pixel 8 series doesn’t have ray tracing](https://www.androidauthority.com/google-pixel-8-series-ray-tracing-3374793/)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Anker’s bassy Sport X10 earbuds are nearly 40 percent off for Prime Day](https://www.theverge.com/2023/10/11/23910207/anker-soundscore-sport-x10-earbuds-amazon-october-prime-day-deal-sale)<!-- TECH:END -->
+ - [Google Pixel 8 and 8 Pro review: useful, if troubling, AI photo editing tools, 8 lacks some Pro features despite both having the same chip, Tensor G3 runs hot &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231011/p29#a231011p29)
+ - [Lightning Deal alert! McAfee Total Protection down 87% if you’re quick](https://www.androidauthority.com/mcafee-total-protection-2023-deal-3374934/)
+ - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
+ - [12 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023-1/)
+ - [Apple rolls out third developer beta of tvOS 17.1](https://appleinsider.com/articles/23/10/11/apple-rolls-out-third-developer-beta-of-tvos-171?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

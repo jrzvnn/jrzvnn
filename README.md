@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sacrifice](http://9gag.com/gag/anz3RvE)
- - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
- - 💣 [Go playboy!](http://9gag.com/gag/amAyoDV)
+ - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
  - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
+ - 💣 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
+ - 😝 [Argentina right now](http://9gag.com/gag/aXnzMz2)
  - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
 
 ---

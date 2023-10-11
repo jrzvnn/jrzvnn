@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is overhauling how it pays creators of viral filters and effects](https://www.theverge.com/2023/10/11/23912639/tiktok-effect-house-creator-fund-update-monetization)
+ - [A US judge awards $181M+ in legal fees to plaintiffs&#39; lawyers at two firms as part of Meta&#39;s $725M Cambridge Analytica settlement; Meta is &quot;pleased&quot; to move on &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/231011/p25#a231011p25)
+ - [Microsoft’s new AI Copilot arrives in OneNote in November](https://www.theverge.com/2023/10/11/23912691/microsoft-onenote-copilot-ai-feature-november-launch)
  - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)
- - [California’s newest law will make it easier to delete personal online data](https://www.theverge.com/2023/10/11/23912548/california-delete-act-personal-data-single-request-online-data-brokers)
- - [9 Best All-Clad Cookware Deals Right Now &lpar;October 2023&rpar;](https://www.wired.com/story/all-clad-deals/)
- - [Sonos vows to keep fighting Google for the benefit of small companies — and its own revenue](https://www.theverge.com/2023/10/11/23912528/sonos-google-patent-response-statement-alsup-verdict)<!-- TECH:END -->
+ - [Android 14 update tracker: When will your phone get it?](https://www.androidauthority.com/android-14-update-3280998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

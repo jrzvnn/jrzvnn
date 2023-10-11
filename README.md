@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For those who have been brainwashed](http://9gag.com/gag/agoboxx)
- - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
- - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
  - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 😝 [Jake Brown Falls 50ft and walks away](http://9gag.com/gag/aGEqzDz)
+ - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
 
 ---
 

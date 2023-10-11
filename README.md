@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Tab S8 Plus plunges by $300, and more Prime tablet deals](https://www.androidauthority.com/samsung-galaxy-tab-prime-deals-3374981/)
- - [Google triumphant over Sonos in smart speaker patent battle](https://appleinsider.com/articles/23/10/11/google-triumphant-over-sonos-in-smart-speaker-patent-battle?utm_medium=rss)
- - [The latest Apple Watch SE is matching its best price to date for Prime Day](https://www.theverge.com/good-deals/2023/10/11/23913116/apple-watch-se-smartwatch-october-prime-day-2023-deal-sale)
- - [The EU’s Threats to Elon Musk Are Empty, Sources Say](https://www.wired.com/story/the-eu-is-playing-by-elon-musks-rules/)
- - [161 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
+ - [Price war: Bose QuietComfort 45 headphones drop to $229 &lpar;$100 off&rpar; today only](https://appleinsider.com/articles/23/10/11/price-war-bose-quietcomfort-45-headphones-drop-to-229-100-off-today-only?utm_medium=rss)
+ - [Microsoft says that VBScript is being deprecated and it will be available as an on-demand feature in future Windows releases before its removal from the OS &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231011/p33#a231011p33)
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
+ - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

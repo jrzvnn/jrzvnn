@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it received Notices of Proposed Adjustment from the IRS for an additional tax payment of $28.9B &lpar;CNBC&rpar;](http://www.techmeme.com/231011/p34#a231011p34)
+ - [WordPress now offers official support for ActivityPub](https://www.theverge.com/2023/10/11/23913278/wordpress-activitypub-official-plugin-automattic-fediverse-mastodon)
  - [Price war: Bose QuietComfort 45 headphones drop to $229 &lpar;$100 off&rpar; today only](https://appleinsider.com/articles/23/10/11/price-war-bose-quietcomfort-45-headphones-drop-to-229-100-off-today-only?utm_medium=rss)
  - [Microsoft says that VBScript is being deprecated and it will be available as an on-demand feature in future Windows releases before its removal from the OS &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231011/p33#a231011p33)
- - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)<!-- TECH:END -->
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

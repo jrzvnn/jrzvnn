@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan says BlackRock used its TCN blockchain to move collateral almost instantaneously, compared with over the course of a day, and plans to add other users &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231011/p21#a231011p21)
- - [Best Amazon Prime Day TV deals - steep discounts end tonight](https://appleinsider.com/articles/23/10/11/best-amazon-prime-day-tv-deals---steep-discounts-end-tonight?utm_medium=rss)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [The best laptop deals for October Prime Day Day 2](https://www.theverge.com/23911169/october-amazon-prime-day-best-laptop-deals-2023)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-11-2023-3373667/)<!-- TECH:END -->
+ - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)
+ - [Midjourney Stylize Parameter: What is it and how to use it](https://www.androidauthority.com/midjourney-stylize-parameter-3374681/)
+ - [Adobe details Project Res-Up, an experimental AI upscaling tool to improve the quality of low-res GIFs and video; a 1947 movie went from 480x360 to 1280x960 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231011/p22#a231011p22)
+ - [JPMorgan says BlackRock used its TCN blockchain to move collateral almost instantaneously, compared with over the course of a day, and plans to add other users &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231011/p21#a231011p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

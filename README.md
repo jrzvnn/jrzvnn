@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your cable stashes, because this Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
+ - [Dropbox redesigns its web interface and releases AI-powered Dash in open beta](https://www.theverge.com/2023/10/11/23912510/drop-web-interface-redesign-dash-ai-studio)
+ - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
  - [Investors and analysts expect the Israel-Hamas war to derail the fragile recovery of Israel&#39;s tech sector, which accounts for 14% of the country&#39;s workforce &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/231011/p16#a231011p16)
  - [As social networks become cluttered with ads, misinformation, and irrelevant posts, the web just feels less fun, suggesting the old era of social media is over &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/231011/p15#a231011p15)
- - [October Prime Day: Live Blogging Must-Grab Amazon Deals for Day Two     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-wednesday/#ftag=CAD590a51e)
- - [Apple could be out $20 billion a year if Google loses DOJ antitrust case](https://appleinsider.com/articles/23/10/11/apple-could-be-out-20-billion-a-year-if-google-loses-doj-antitrust-case?utm_medium=rss)<!-- TECH:END -->
+ - [October Prime Day: Live Blogging Must-Grab Amazon Deals for Day Two     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-wednesday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

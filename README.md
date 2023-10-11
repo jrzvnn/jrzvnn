@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung 32-inch M8 monitor plunges to $369.99 with Amazon Prime Day deal](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
- - [Sony will let you stream PS5 games to the PS5 very soon](https://www.theverge.com/2023/10/11/23912931/sony-playstation-ps5-cloud-streaming-games-launch)
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [Sony plans to launch cloud streaming of PS5 games for PlayStation Plus Premium members in Japan, Europe, and North America later this month &lpar;Tom Ivan/Video Games Chronicle&rpar;](http://www.techmeme.com/231011/p28#a231011p28)
- - [Join Storm Reid for a 90-minute study buddy video from Apple](https://appleinsider.com/articles/23/10/11/join-storm-reid-for-a-90-minute-study-buddy-video-from-apple?utm_medium=rss)<!-- TECH:END -->
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [Anker’s bassy Sport X10 earbuds are nearly 40 percent off for Prime Day](https://www.theverge.com/2023/10/11/23910207/anker-soundscore-sport-x10-earbuds-amazon-october-prime-day-deal-sale)
+ - [Today is the last day to save on Disney Plus and Hulu before the price hike](https://www.theverge.com/2023/10/11/23904685/disney-plus-hulu-deals-sale-price-hike)
+ - [Google Tensor G3: Everything you need to know about the Pixel 8 processor](https://www.androidauthority.com/google-tensor-g3-explained-3324692/)
+ - [There’s a real gap between the Google Pixel 8 and Pixel 8 Pro](https://www.androidauthority.com/google-pixel-8-pro-gap-3373639/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [21 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-2/)
  - [Alameda’s paper trail leads straight to Sam Bankman-Fried](https://www.theverge.com/2023/10/11/23913665/ftx-sam-bankman-fried-fraud-trial-caroline-ellison-testimony-alameda-balance-sheets)
  - [169 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [Microsoft owes $29 billion in back taxes, says IRS](https://www.theverge.com/2023/10/11/23913505/microsoft-owes-irs-back-taxes)
- - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)<!-- TECH:END -->
+ - [Microsoft owes $29 billion in back taxes, says IRS](https://www.theverge.com/2023/10/11/23913505/microsoft-owes-irs-back-taxes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

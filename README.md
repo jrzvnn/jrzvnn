@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [Watch as NASA reveals asteroid samples collected by the OSIRIS-REx mission](https://www.theverge.com/2023/9/24/23887196/nasa-osiris-rex-asteroid-sample-return)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [Razer has so many crazy discounts right now, we don’t even know where to begin](https://www.androidauthority.com/razer-deals-big-deal-days-2023-3374899/)
+ - [The best phone deals of Prime Big Deal Days](https://www.theverge.com/23910382/amazon-october-prime-day-best-phone-deals-2023)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [5 Best Dyson Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/dyson-prime-day-deals-october-2023/)<!-- TECH:END -->
+ - [10 Best Prime Day Kindle Deals &lpar;2023&rpar; for Book Lovers](https://www.wired.com/story/best-amazon-kindle-deals-prime-day-october-2023-2/)
+ - [How to customize Apple News to see the content you want](https://appleinsider.com/inside/apple-news/tips/how-to-customize-apple-news-to-see-the-content-you-want?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

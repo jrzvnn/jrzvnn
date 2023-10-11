@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lightroom for Android now comes with Ultra HDR image editing](https://www.theverge.com/2023/10/11/23913069/lightroom-mobile-ultra-hdr-edit-format-android-14)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
+ - [Prime Week savings: save up to $400 on Apple&#39;s latest MacBooks](https://appleinsider.com/articles/23/08/18/steep-discounts-save-up-to-400-on-apples-latest-macbooks?utm_medium=rss)
  - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)
- - [The Google trial shows that Apple’s search deal is the most important contract in tech](https://www.theverge.com/2023/10/11/23913287/us-v-google-apple-search-deal)
- - [Filing: Progress Software says the US SEC have opened a probe into the MOVEit hack that has exposed the personal data of at least 64M people &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231011/p32#a231011p32)
- - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
- - [10 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023-1/)<!-- TECH:END -->
+ - [The Google trial shows that Apple’s search deal is the most important contract in tech](https://www.theverge.com/2023/10/11/23913287/us-v-google-apple-search-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

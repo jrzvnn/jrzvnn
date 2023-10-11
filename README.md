@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)
- - [Midjourney Stylize Parameter: What is it and how to use it](https://www.androidauthority.com/midjourney-stylize-parameter-3374681/)
- - [Adobe details Project Res-Up, an experimental AI upscaling tool to improve the quality of low-res GIFs and video; a 1947 movie went from 480x360 to 1280x960 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231011/p22#a231011p22)
- - [JPMorgan says BlackRock used its TCN blockchain to move collateral almost instantaneously, compared with over the course of a day, and plans to add other users &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231011/p21#a231011p21)<!-- TECH:END -->
+ - [PS5 Pro rumors: Expected release date, what we want from Sony’s next-gen console](https://www.androidauthority.com/sony-ps5-pro-3337407/)
+ - [27 Best Prime Day Laptop Deals &lpar;2023&rpar; and Other WFH Gear](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-2/)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
+ - [FTC lays out new rule that could end hidden fees](https://www.theverge.com/2023/10/11/23912563/ftc-proposal-junk-hidden-fees)
+ - [Polar announces new Vantage V3 watch for preorder](https://www.theverge.com/2023/10/11/23912623/polar-new-vantage-v3-watch-fitness-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 👉 [Got your worm](http://9gag.com/gag/a4o8njm)<!-- MEMES:END -->
+ - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 👉 [Ouch](http://9gag.com/gag/amAy13j)<!-- MEMES:END -->
 
 ---
 

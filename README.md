@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Argentina right now](http://9gag.com/gag/aXnzMz2)
- - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 💣 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
+ - 😝 [Sacrifice](http://9gag.com/gag/anz3RvE)
+ - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
+ - 💣 [Go playboy!](http://9gag.com/gag/amAyoDV)
+ - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
+ - 👉 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)<!-- MEMES:END -->
 
 ---
 

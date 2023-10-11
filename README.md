@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As social networks become cluttered with ads, misinformation, and irrelevant posts, the web just feels less fun, suggesting the old era of social media is over &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/231011/p15#a231011p15)
  - [Apple could be out $20 billion a year if Google loses DOJ antitrust case](https://appleinsider.com/articles/23/10/11/apple-could-be-out-20-billion-a-year-if-google-loses-doj-antitrust-case?utm_medium=rss)
- - [This Momentum 4 Wireless Prime Day 2 deal is too good to pass up](https://www.androidauthority.com/this-momentum-4-wireless-prime-day-2-deal-is-too-good-to-pass-up-3374732/)
+ - [Prime Day 2: This Momentum 4 Wireless deal is too good to pass up](https://www.androidauthority.com/this-momentum-4-wireless-prime-day-2-deal-is-too-good-to-pass-up-3374732/)
  - [Sources: at an Activision townhall hosted by James Corden, Bobby Kotick discussed Microsoft, Elon Musk&#39;s Neuralink, hinted at a Guitar Hero revival, and more &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/231011/p14#a231011p14)
- - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)
- - [130 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
+ - [The UN Risks Normalizing Internet Censorship](https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

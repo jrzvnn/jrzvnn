@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)
  - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 💣 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
  - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 👉 [Genuine question, Egypt could theoretically open up the Rafah border crossing and let in some innocent refugees from Gaza. What&#39;s stopping them](http://9gag.com/gag/aWGAGz6)<!-- MEMES:END -->
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 ---
 

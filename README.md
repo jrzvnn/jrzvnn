@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New AirPods Pro 2 with USB-C vs AirPods Pro 2 - compared](https://appleinsider.com/inside/airpods-pro-2/vs/new-airpods-pro-2-with-usb-c-vs-airpods-pro-2---compared?utm_medium=rss)
+ - [Google Pixel Watch 2 review: improved Fitbit integration, better health and stress tracking, and Safety Check is great, but fragile screen and only one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231011/p30#a231011p30)
  - [Google Pixel 8 and 8 Pro review: useful, if troubling, AI photo editing tools, 8 lacks some Pro features despite both having the same chip, Tensor G3 runs hot &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231011/p29#a231011p29)
  - [Lightning Deal alert! McAfee Total Protection down 87% if you’re quick](https://www.androidauthority.com/mcafee-total-protection-2023-deal-3374934/)
- - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
- - [12 Best October Lego Prime Day Deals &lpar;2023&rpar;](https://www.wired.com/story/best-lego-prime-day-deals-october-2023-1/)
- - [Apple rolls out third developer beta of tvOS 17.1](https://appleinsider.com/articles/23/10/11/apple-rolls-out-third-developer-beta-of-tvos-171?utm_medium=rss)<!-- TECH:END -->
+ - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [154 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
  - [Letter: Thierry Breton urges Mark Zuckerberg to be &quot;vigilant&quot; about removing disinformation from Meta&#39;s platforms during the Israel-Hamas war &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/231011/p31#a231011p31)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [The best Prime Day smart home deals](https://www.theverge.com/23906464/amazon-october-prime-day-best-smart-home-deals-device-google-alexa-2023)
- - [One of our favorite smartwatches for Android users is down to $170](https://www.theverge.com/2023/10/11/23909154/amazfit-gtr-4-android-smartwatch-fitness-tracker-october-prime-day-deal-sale)
- - [MacBook Pro will get OLED in 2026 from new Samsung factory](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [One of our favorite smartwatches for Android users is down to $170](https://www.theverge.com/2023/10/11/23909154/amazfit-gtr-4-android-smartwatch-fitness-tracker-october-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

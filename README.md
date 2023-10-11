@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California adopts Right-to-Repair law: Here’s what’s changing for you](https://www.androidauthority.com/california-right-to-repair-law-3374535/)
  - [How Google&#39;s Project Green Light is using AI to analyze Maps data to suggest how cities can adjust traffic light timing and cut wait times and vehicle emissions &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231011/p1#a231011p1)
  - [October Prime Day: Live Blogging the Must-Grab Amazon Deals of 2023     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-tuesday/#ftag=CAD590a51e)
- - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M between August 2021-June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
- - [Skipping Prime Day? Shop the Best Deals at Target, Best Buy and Other Retailers     - CNET](https://www.cnet.com/deals/skipping-prime-day-shop-best-deals-target-best-buy-and-other-retailers/#ftag=CAD590a51e)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
+ - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M from August 2021 to June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
+ - [Skipping Prime Day? Shop the Best Deals at Target, Best Buy and Other Retailers     - CNET](https://www.cnet.com/deals/skipping-prime-day-shop-best-deals-target-best-buy-and-other-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

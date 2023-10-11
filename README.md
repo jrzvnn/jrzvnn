@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [41 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)
  - [Sam Bankman-Fried wrote a series of unpublished posts in 2022 announcing Alameda&#39;s closure due to the &quot;burden&quot; of &quot;FUD around Alameda&#39;s relationship with FTX&quot; &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231011/p10#a231011p10)
  - [Firefox tests a built-in checker for fake reviews](https://www.theverge.com/2023/10/11/23912457/firefox-review-checker-fakespot-feature-test-experiment)
  - [121 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
- - [An interview with Dropbox CEO Drew Houston on new AI features, the challenge of not annoying loyal users, embracing a virtual-first workplace culture, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231011/p9#a231011p9)
- - [October Prime Day 2023: 65 of the Best Deals Under $25 to Buy Today     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Dropbox CEO Drew Houston on new AI features, the challenge of not annoying loyal users, embracing a virtual-first workplace culture, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231011/p9#a231011p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

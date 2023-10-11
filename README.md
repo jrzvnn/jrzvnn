@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 😝 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
- - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 😝 [What would we do without](http://9gag.com/gag/aVb8gpO)
- - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [He is playin 5D chess](http://9gag.com/gag/anz3z8o)
+ - 💣 [What&#39;s in the box?](http://9gag.com/gag/aGEqEew)
+ - 😝 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 ---
 

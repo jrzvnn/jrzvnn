@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Death, Sex, and the future of WNYC podcasts](https://www.theverge.com/2023/10/11/23913556/death-sex-money-wnyc-npr-podcast-radiolab)
+ - [Last call for these Amazon Prime Day tech deals](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
  - [166 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Here are three Pixel 8 features that didn’t make the cut](https://www.androidauthority.com/pixel-8-features-scrapped-3375014/)
- - [3 of the best Samsung gaming monitors are at their lowest price of the year](https://www.androidauthority.com/samsung-gaming-monitor-deals-3374984/)
- - [46 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
+ - [Here are three Pixel 8 features that didn’t make the cut](https://www.androidauthority.com/pixel-8-features-scrapped-3375014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

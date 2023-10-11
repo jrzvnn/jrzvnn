@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
  - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
+ - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 

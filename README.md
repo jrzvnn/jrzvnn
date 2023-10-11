@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details the Intellexa Alliance, a shady group of European companies that marketed and sold spyware like Predator to authoritarian regimes &lpar;Spiegel Online&rpar;](http://www.techmeme.com/231011/p6#a231011p6)
  - [Best Amazon Prime Day tech deals to shop on Day 2](https://appleinsider.com/articles/23/10/10/best-amazon-prime-day-2023-deals-to-shop-now?utm_medium=rss)
  - [Adobe developed a new symbol, called &quot;an icon of transparency&quot;, as part of the C2PA, hoping to encourage the tagging of AI-generated data in media content &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231011/p5#a231011p5)
  - [Filings: India&#39;s Enforcement Directorate arrests a Vivo executive, who is also a Chinese national, in relation to a 2022 case over alleged money laundering &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p4#a231011p4)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [Google announces enhanced search results for EVs, home heating, and cooling systems, and expands AI tools to better predict floods, wildfires, and extreme heat &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/231011/p3#a231011p3)<!-- TECH:END -->
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

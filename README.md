@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LabView design &amp; test app abandons the Mac after four decades](https://appleinsider.com/articles/23/10/11/labview-programming-app-abandons-the-mac-after-four-decades?utm_medium=rss)
+ - [The best Samsung Galaxy S23 FE cases you can buy](https://www.androidauthority.com/best-samsung-galaxy-s23-fe-cases-3371516/)
+ - [The UK CMA invites comments on Vodafone&#39;s $19B Three UK merge, which would reduce major networks from four to three; the EU blocked a similar deal in 2016 &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p13#a231011p13)
  - [Munich-based Orbem, which uses an MRI scanner and AI to determine the sex of an egg, raised a &amp;euro;30M Series A led by 83North, taking its total funding to &amp;euro;40M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/231011/p12#a231011p12)
- - [Apple spent $200M to $250M on Killers of the Flower Moon, debuting October 20, the first test of Apple&#39;s plans to spend $1B per year on movies for theaters &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p11#a231011p11)
- - [41 Best Amazon Prime Day Deals Under $50 &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)
- - [Sam Bankman-Fried wrote a series of unpublished posts in 2022 announcing Alameda&#39;s closure due to the &quot;burden&quot; of &quot;FUD around Alameda&#39;s relationship with FTX&quot; &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231011/p10#a231011p10)
- - [Save on Computer Monitors From Dell, LG and Others     - CNET](https://www.cnet.com/deals/save-on-computer-monitors-from-dell-lg-and-others/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple spent $200M to $250M on Killers of the Flower Moon, debuting October 20, the first test of Apple&#39;s plans to spend $1B per year on movies for theaters &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p11#a231011p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

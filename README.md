@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: Palestinian Islamic Jihad-linked crypto wallets received ~$93M between August 2021-June 2023; Hamas-linked ones received ~$41M over a similar period &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231010/p35#a231010p35)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
  - [A draft of ASEAN&#39;s &quot;guide to AI ethics and governance&quot; shows the bloc is taking a business-friendly approach to AI, contrary to the EU&#39;s stringent framework &lpar;Reuters&rpar;](http://www.techmeme.com/231010/p34#a231010p34)
  - [PlayStation 5 Slim Announced: Everything You Need to Know video     - CNET](https://www.cnet.com/videos/playstation-5-slim-announced-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)
- - [Best Prime Day TV Deals     - CNET](https://www.cnet.com/deals/the-best-prime-day-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to 45% on SSD &amp; hard drive storage options for Mac during Amazon Prime Big Deal Days](https://appleinsider.com/articles/23/10/10/save-up-to-45-on-ssd-hard-drive-storage-options-for-mac-during-amazon-prime-big-deal-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 💣 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 👉 [Ouch](http://9gag.com/gag/amAy13j)<!-- MEMES:END -->
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 👉 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)<!-- MEMES:END -->
 
 ---
 

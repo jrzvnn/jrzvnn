@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel is already ‘rebooting’ its upcoming Daredevil Disney Plus reboot](https://www.theverge.com/23912791/daredevil-born-again-reboot-chris-ord-matt-corman)
+ - [The best October Prime Day deals on Amazon devices](https://www.theverge.com/23909225/amazon-october-prime-day-alexa-devices-smart-home-echo-fire-tv-2023)
  - [The best anti-Prime Big Deal Day deals](https://www.theverge.com/23905156/best-deals-anti-october-prime-day-walmart-best-buy-target-tech-2023)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [This First Peek Inside NASA’s OSIRIS-REx Capsule Is a Glimpse Back in Time](https://www.wired.com/story/this-first-peek-inside-nasas-osiris-rex-capsule-is-a-glimpse-back-in-time/)
- - [8 Best Prime Day Sex Toy Deals on Vibrators and Strokers &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-sex-toy-deals-2023-2/)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
+ - [This First Peek Inside NASA’s OSIRIS-REx Capsule Is a Glimpse Back in Time](https://www.wired.com/story/this-first-peek-inside-nasas-osiris-rex-capsule-is-a-glimpse-back-in-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

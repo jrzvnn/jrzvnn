@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried was a terrible boyfriend](https://www.theverge.com/2023/10/10/23912036/sam-bankman-fried-ftx-caroline-ellison-alameda-research)
+ - [Utah sues TikTok for getting children ‘addicted’ to its algorithm](https://www.theverge.com/2023/10/10/23911803/utah-tiktok-child-addiction-china-deception-lawsuit)
  - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)
- - [Google adds 1080p video in Google Meet group calls for Workspace customers, after rolling out the feature for one-on-one sessions in April 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231010/p29#a231010p29)
- - [22 Best Prime Day Laptop Deals &lpar;2023&rpar; and Other WFH Gear](https://www.wired.com/story/best-amazon-prime-day-laptop-deals-october-2023-1/)
- - [41 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
+ - [California Gov. Newsom signs into law the Right to Repair Act, effective for devices made and sold after July 1, 2021, barring game consoles and alarm systems &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231010/p31#a231010p31)
+ - [One third-party Reddit app on iOS is going charge you $3.99 per month to use it](https://www.theverge.com/2023/10/10/23903204/narwhal-third-party-reddit-app-price-relay-now)
+ - [New York City&#39;s crackdown on short-term listings causes Airbnb listings to plummet, while some turn to services such as Craigslist, Houfy, and Facebook Groups &lpar;Amanda Hoover/Wired&rpar;](http://www.techmeme.com/231010/p30#a231010p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

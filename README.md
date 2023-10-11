@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day gaming deals](https://www.theverge.com/23909229/amazon-october-prime-day-best-gaming-game-deals-2023)
- - [Our 54 Favorite Amazon Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-october-2023-4/)
- - [The Verge Guide to Amazon’s October Prime Day event](https://www.theverge.com/23903764/amazon-october-prime-day-deals-tips-news-guide-2023)
- - [T-Mobile is pushing some unlimited customers onto pricier plans](https://www.theverge.com/2023/10/11/23913290/t-mobile-automatic-plan-upgrade-customer-service-unlimited)
- - [The best Prime Day earbud and headphone deals](https://www.theverge.com/23910368/amazon-october-prime-day-best-headphone-earbud-deals-2023)<!-- TECH:END -->
+ - [166 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [Here are three Pixel 8 features that didn’t make the cut](https://www.androidauthority.com/pixel-8-features-scrapped-3375014/)
+ - [3 of the best Samsung gaming monitors are at their lowest price of the year](https://www.androidauthority.com/samsung-gaming-monitor-deals-3374984/)
+ - [46 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

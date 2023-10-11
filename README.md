@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future is bright](http://9gag.com/gag/aGEqEp7)
- - 😝 [Name your favourite underrated movie](http://9gag.com/gag/aA076g2)
- - 💣 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 😝 [Argentina right now](http://9gag.com/gag/aXnzMz2)
  - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 👉 [What would we do without](http://9gag.com/gag/aVb8gpO)<!-- MEMES:END -->
+ - 💣 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 👉 [Future is bright](http://9gag.com/gag/aGEqEp7)<!-- MEMES:END -->
 
 ---
 

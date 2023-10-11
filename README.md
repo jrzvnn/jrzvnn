@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Day two of Caroline Ellison&#39;s testimony: &quot;stressed out&quot; by Alameda losses, Alameda borrowed $13B from FTX users by June 2022, and $5B loaned to FTX executives &lpar;Bloomberg&rpar;](http://www.techmeme.com/231011/p26#a231011p26)
+ - [44 Best Prime Day Apple Deals &lpar;2023&rpar;](https://www.wired.com/story/amazon-prime-day-apple-deals-october-2023-1/)
  - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [Rosetta Stone lifetime subscription dips to $159.97 this week](https://appleinsider.com/articles/23/10/11/rosetta-stone-lifetime-subscription-dips-to-15997-this-week?utm_medium=rss)
- - [If it ain’t broke, don’t fix it: The Apple Watch X could remain boring after all](https://www.androidauthority.com/apple-watch-x-boring-3374838/)
- - [A Monkey Got a New Kidney From a Pig—and Lived for 2 Years](https://www.wired.com/story/a-monkey-got-a-new-kidney-from-a-pig-and-lived-for-2-years/)
- - [First $200 price drop on the Motorola Razr Plus 2023 &lpar;ends tonight&rpar;](https://www.androidauthority.com/motorola-razr-plus-2023-deal-3374844/)<!-- TECH:END -->
+ - [If it ain’t broke, don’t fix it: The Apple Watch X could remain boring after all](https://www.androidauthority.com/apple-watch-x-boring-3374838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

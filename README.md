@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe is working on generative AI video manipulation](https://www.theverge.com/2023/10/12/23914278/adobe-max-project-fast-fill-ai-video-generative-fill)
+ - [&#39;Star Trek: Infinite&#39; grand galactic strategy game lands on Mac](https://appleinsider.com/articles/23/10/12/star-trek-infinite-grand-galactic-strategy-game-lands-on-mac?utm_medium=rss)
+ - [Google&#39;s Search Generative Experience adds the ability to generate images using prompts and to write drafts by customizing their tone and length &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p25#a231012p25)
  - [The Galaxy Watch 5 LTE is cheaper than Prime Day at just $249.99](https://www.androidauthority.com/samsung-galaxy-watch-5-lte-deal-3375376/)
- - [Pixel 8 Pro earns best display title in new ranking](https://www.androidauthority.com/pixel-8-pro-display-ranking-3375337/)
- - [Google’s AI-powered search experience can now generate images](https://www.theverge.com/2023/10/12/23913337/google-ai-powered-search-sge-images-written-drafts)
- - [Max’s Scavengers Reign captures the beauty and terror of a truly alien world](https://www.theverge.com/23912922/scavengers-reign-review-max)
- - [How to change the alert sounds on your iPhone](https://www.theverge.com/23160418/iphone-ios-change-alarm-notification-alert-sounds-how-to)<!-- TECH:END -->
+ - [Pixel 8 Pro earns best display title in new ranking](https://www.androidauthority.com/pixel-8-pro-display-ranking-3375337/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

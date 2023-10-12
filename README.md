@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Google’s new Pixel Troubleshooting app is now available on the Pixel 8 series](https://www.androidauthority.com/googles-pixel-troubleshooting-app-pixel-8-3375193/)
  - [Pixel 8 finally gets a beloved iPhone feature: eSIM conversion and transfer!](https://www.androidauthority.com/google-pixel-8-esim-conversion-and-transfer-3375184/)
- - [Having trouble accessing Fitbit? That’s because the app is down &lpar;Updated&rpar;](https://www.androidauthority.com/fitbit-outage-3375059/)
- - [Investigation: instant loan app scams push people in India and other countries into a spiral of debt, driving many to suicide after shame and blackmail &lpar;BBC&rpar;](http://www.techmeme.com/231012/p5#a231012p5)
- - [Analysis: Apple&#39;s key suppliers in Taiwan saw revenue fall 16.4% YoY to ~$38.7B in September, despite the launch of new iPhones and several Android smartphones &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p4#a231012p4)<!-- TECH:END -->
+ - [October Prime Day 2023: Sign Up for Amazon Prime and Take Advantage of Remaining Deals     - CNET](https://www.cnet.com/tech/october-prime-day-2023-sign-up-for-amazon-prime-and-take-advantage-of-remaining-deals/#ftag=CAD590a51e)
+ - [Everything You Need to Know About NameDrop for the Apple Watch     - CNET](https://www.cnet.com/tech/mobile/everything-you-need-to-know-about-namedrop-for-apple-watch/#ftag=CAD590a51e)
+ - [Having trouble accessing Fitbit? That’s because the app is down &lpar;Updated&rpar;](https://www.androidauthority.com/fitbit-outage-3375059/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

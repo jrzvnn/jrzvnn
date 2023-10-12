@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google Chrome&#39;s Discover feed on Android serves up misleading propaganda to Russian audiences; a source says Russian-languages services are a lower priority &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p13#a231012p13)
  - [Current advanced LLMs from OpenAI and others have many flaws but they will, decades from now, be recognized as the first true examples of AGI, similar to ENIAC &lpar;Noema&rpar;](http://www.techmeme.com/231012/p12#a231012p12)
  - [X defends itself over EU accusations of playing host to Israel-Hamas disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)
- - [30+ October Prime Day Deals Under $10 That Are Still Available Today     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10-day-still-available/#ftag=CAD590a51e)
  - [Hands-on with Best Take for Pixel 8, which uses AI to replace people&#39;s faces, a fun camera tool that worryingly helps AI standardize what happiness looks like &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231012/p11#a231012p11)
- - [OLED vs LED vs MiniLED vs. LCD: What&#39;s the Best?     - CNET](https://www.cnet.com/tech/home-entertainment/oled-vs-led-vs-miniled-vs-lcd-whats-the-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

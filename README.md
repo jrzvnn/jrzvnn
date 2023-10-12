@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mia Khalifa let go from Playboy after voicing support for Hamas.](http://9gag.com/gag/agob1Qw)
- - 😝 [Humanity vs muslims](http://9gag.com/gag/awZD391)
- - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
+ - 💣 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)<!-- MEMES:END -->
+ - 👉 [A loving movie for the entire family to watch.](http://9gag.com/gag/aoK6VPm)<!-- MEMES:END -->
 
 ---
 

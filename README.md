@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Day deals extended: Apple discounts of up to 48% off](https://appleinsider.com/articles/23/10/12/prime-day-deals-extended-apple-discounts-of-up-to-48-off?utm_medium=rss)
  - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
  - [SBF’s Magic Hair and Other Big Moments From the FTX Trial](https://www.wired.com/story/ftx-trial-sbf-key-moments/)
  - [Fitbit fixed issues that lasted for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)
- - [The Best Monitor Deals You Can Still Shop After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-monitor-deals-grab-them-now-the-sales-almost-over/#ftag=CAD590a51e)
- - [Over 70 Great Post-Prime Day Deals You Can Still Grab for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-under-50-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Monitor Deals You Can Still Shop After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-monitor-deals-grab-them-now-the-sales-almost-over/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block acquires Hifi, which launched in 2020 as a financial rights organization for artists and recently rolled out Cash Flow to pay artists a bi-monthly salary &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/231012/p22#a231012p22)
+ - [The Chatbots Are Now Talking to Each Other](https://www.wired.com/story/fast-forward-the-chatbots-are-now-talking-to-each-other/)
+ - [SAG-AFTRA’s strike continues after last round of contract talks breaks down](https://www.theverge.com/2023/10/12/23914129/sag-strike-october-streaming-residuals-artificial-intelligence)
  - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
- - [The best October Prime Day deals under $25 you can still get](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
- - [Surface Laptop Go 3 review: premium design but low-resolution screen, no keyboard backlighting, limited port selection, and too expensive for what it offers &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231012/p21#a231012p21)
- - [CEO David Baszucki’s mission to make Roblox a billion-player platform](https://www.theverge.com/23913044/roblox-baszucki-platform-playstation-ai-vr-ar-china-gucci)
- - [Microsoft Surface Laptop Go 3 review: why does this exist?](https://www.theverge.com/23906932/microsoft-surface-laptop-go-3-review)<!-- TECH:END -->
+ - [The best October Prime Day deals under $25 you can still get](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

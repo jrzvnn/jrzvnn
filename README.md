@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s new Pixel Troubleshooting app is now available on the Pixel 8 series](https://www.androidauthority.com/googles-pixel-troubleshooting-app-pixel-8-3375193/)
  - [Pixel 8 finally gets a beloved iPhone feature: eSIM conversion and transfer!](https://www.androidauthority.com/google-pixel-8-esim-conversion-and-transfer-3375184/)
  - [Having trouble accessing Fitbit? That’s because the app is down &lpar;Updated&rpar;](https://www.androidauthority.com/fitbit-outage-3375059/)
  - [Investigation: instant loan app scams push people in India and other countries into a spiral of debt, driving many to suicide after shame and blackmail &lpar;BBC&rpar;](http://www.techmeme.com/231012/p5#a231012p5)
- - [Analysis: Apple&#39;s key suppliers in Taiwan saw revenue fall 16.4% YoY to ~$38.7B in September, despite the launch of new iPhones and several Android smartphones &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p4#a231012p4)
- - [OnePlus Open doppelganger OPPO Find N3 now has a launch date](https://www.androidauthority.com/oppo-find-n3-oneplus-open-launch-date-3375164/)<!-- TECH:END -->
+ - [Analysis: Apple&#39;s key suppliers in Taiwan saw revenue fall 16.4% YoY to ~$38.7B in September, despite the launch of new iPhones and several Android smartphones &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p4#a231012p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

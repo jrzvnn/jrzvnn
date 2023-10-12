@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is planning to launch retail destinations in 2025](https://www.theverge.com/2023/10/12/23914796/netflix-house-retail-stores-2025)
+ - [T-Mobile forcing customers to more expensive plans instead of hiking prices](https://appleinsider.com/articles/23/10/12/t-mobile-forcing-customers-to-more-expensive-plans-instead-of-hiking-prices?utm_medium=rss)
+ - [1,000 photos with the Pixel 8 Pro: AI, UI, and Pro stuff](https://www.theverge.com/23913367/pixel-8-pro-camera-google-ai-full-frame)
  - [A New Tool Helps Artists Thwart AI—With a Middle Finger](https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/)
- - [A Groundbreaking Human Brain Cell Atlas Just Dropped](https://www.wired.com/story/a-groundbreaking-human-brain-cell-atlas-just-dropped/)
- - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
- - [Google says it will defend users of generative AI services in Workspace and Cloud from copyright claims; Microsoft, Adobe, and others made similar pledges &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p32#a231012p32)
- - [The 17 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [KitNipBox     - CNET](https://www.cnet.com/home/kitchen-and-household/kitnipbox-deal-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

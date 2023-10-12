@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlassian plans to acquire video messaging platform Loom for around $975M, made up of $880M in cash and the rest in stock, closing in Q1 2024 &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231012/p20#a231012p20)
+ - [Exynos 2400: What you should know about Samsung’s chipset return](https://www.androidauthority.com/samsung-exynos-2400-explained-3354040/)
  - [Nanoleaf expands Matter-capable Essentials lineup with new bulbs](https://appleinsider.com/articles/23/10/12/nanoleaf-expands-matter-capable-essentials-lineup-with-new-bulbs?utm_medium=rss)
  - [The most important Google Pixel Watch 2 questions, answered](https://www.androidauthority.com/google-pixel-watch-2-questions-answered-3374929/)
- - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
- - [Elliptic: the Russia-linked unidentified FTX hackers who stole $415M to $432M in November 2022 started moving the haul in October, the first time in 2023 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)
- - [GM now has its own API for software developers to make cool apps for its cars](https://www.theverge.com/2023/10/12/23914060/gm-uservices-api-software-apps-car-sdv)<!-- TECH:END -->
+ - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

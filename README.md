@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Prime Day iPhone and Android Deals Still Available     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
- - [Caroline Ellison&#39;s well-prepared testimony painted Sam Bankman-Fried as the ultimate decision-maker at FTX and a corrupting influence on his subordinates &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231012/p16#a231012p16)
- - [Filing: India accuses 30+ staff of Chinese smartphone maker Vivo of visa violations and says Vivo siphoned off ~$13B to its Chinese parent via a &quot;masking layer&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p15#a231012p15)
- - [This 1-Day Woot Nintendo Switch Deal Is Better Than Anything We Saw on Prime Day     - CNET](https://www.cnet.com/deals/post-prime-day-nintendo-switch-oled-deal/#ftag=CAD590a51e)
- - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [As Pat Gelsinger tries to revive Intel, a self-imposed deadline to add a big foundry client in 2023 looms and, even then, revenue from a deal may be years away &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p17#a231012p17)
+ - [How the FTX Thieves Have Tried to Launder Their $400 Million Haul](https://www.wired.com/story/ftx-hack-400-million-crypto-laundering/)
+ - [Air Up Water Bottle Review: Its Smelly Gimmick Really Stinks](https://www.wired.com/review/air-up-water-bottle/)
+ - [Here’s our first official look at the OnePlus Open](https://www.theverge.com/2023/10/12/23913363/oneplus-open-foldable-launch-date-october-19)
+ - [17 Prime Day iPhone and Android Deals Still Available     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current advanced LLMs from OpenAI and others have many flaws but they will, decades from now, be recognized as the first true examples of AGI, similar to ENIAC &lpar;Noema&rpar;](http://www.techmeme.com/231012/p12#a231012p12)
  - [X defends itself over EU accusations of playing host to Israel-Hamas disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)
  - [Hands-on with Best Take for Pixel 8, which uses AI to replace people&#39;s faces, a fun camera tool that worryingly helps AI standardize what happiness looks like &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231012/p11#a231012p11)
  - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)
- - [Prime Day Under $50: Here Are 60 Bargains That Are Still Available     - CNET](https://www.cnet.com/deals/prime-day-under-50-here-are-60-bargains-still-available/#ftag=CAD590a51e)
- - [TikTok updates its $6M Effect Creator Rewards fund to add lower eligibility rules, a revamped payout model, and a lower threshold to start collecting rewards &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231012/p9#a231012p9)<!-- TECH:END -->
+ - [Prime Day Under $50: Here Are 60 Bargains That Are Still Available     - CNET](https://www.cnet.com/deals/prime-day-under-50-here-are-60-bargains-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

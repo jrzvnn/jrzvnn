@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finding a Tech Job Is Still a Nightmare](https://www.wired.com/story/tech-jobs-layoffs-hiring/)
  - [Google says it will defend users of generative AI services in Workspace and Cloud from copyright claims; Microsoft, Adobe, and others made similar pledges &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p32#a231012p32)
  - [The 17 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [SpaceX’s Starlink set to launch satellite phone service in 2024](https://www.androidauthority.com/starlink-satellite-phone-service-3375427/)
- - [Filing: Caltech settles a patent lawsuit against Apple and Broadcom, after suing them in 2016 for allegedly infringing its Wi-Fi patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p31#a231012p31)
- - [Judge questions Montana’s ban on TikTok](https://www.theverge.com/2023/10/12/23914697/montana-tiktok-ban-free-speech-first-amendment-national-security)<!-- TECH:END -->
+ - [Filing: Caltech settles a patent lawsuit against Apple and Broadcom, after suing them in 2016 for allegedly infringing its Wi-Fi patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p31#a231012p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

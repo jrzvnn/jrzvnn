@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
  - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 💣 [Why?](http://9gag.com/gag/a1Pn0LP)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
+ - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 ---
 

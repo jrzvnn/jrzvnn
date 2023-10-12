@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why were these weird accounts following a bunch of people on Spotify?](https://www.theverge.com/2023/10/12/23914995/spotify-weird-accounts-follow-lucas-lucasrpx-vitornovaes)
- - [Popular porn sites now display unproven health warnings thanks to Texas law](https://www.theverge.com/2023/10/12/23914832/texas-hb-1181-porn-age-verification-vixen-media-group)
- - [Memo: Flexport plans to cut approximately 20% of its global workforce as part of a new round of layoffs that&#39;s expected to begin on October 13 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231012/p35#a231012p35)
- - [Google promises to take the legal heat in users’ AI copyright lawsuits](https://www.theverge.com/2023/10/12/23914998/google-copyright-indemnification-generative-ai)
- - [Akira Toriyama’s coming back for a new Dragon Ball series](https://www.theverge.com/2023/10/12/23914967/dragon-ball-daima-trailer-anime-series)<!-- TECH:END -->
+ - [How is it still getting worse for Sam Bankman-Fried?](https://www.theverge.com/2023/10/12/23915108/sam-bankman-fried-ftx-alameda-caroline-ellison-lawyers)
+ - [Filing: Qualcomm plans to cut 1,258 jobs in California, including 750+ from its engineering ranks, starting in mid-December 2023; the company has ~50K employees &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231012/p36#a231012p36)
+ - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)
+ - [USB-C or Lightning, Both AirPods Pro 2 Versions Remain on Sale     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-remain-on-sale/#ftag=CAD590a51e)
+ - [Why were these weird accounts following a bunch of people on Spotify?](https://www.theverge.com/2023/10/12/23914995/spotify-weird-accounts-follow-lucas-lucasrpx-vitornovaes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

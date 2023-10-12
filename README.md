@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Prime Day iPhone and Android Deals Still Available     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
  - [Caroline Ellison&#39;s well-prepared testimony painted Sam Bankman-Fried as the ultimate decision-maker at FTX and a corrupting influence on his subordinates &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231012/p16#a231012p16)
  - [Filing: India accuses 30+ staff of Chinese smartphone maker Vivo of visa violations and says Vivo siphoned off ~$13B to its Chinese parent via a &quot;masking layer&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p15#a231012p15)
- - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)
- - [Goldman Sachs offloads major BNPL player GreenSky for an undisclosed sum to a group of money managers, after acquiring the company for $1.7B in 2021 &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/231012/p14#a231012p14)
- - [My Kid Wants to Be an Influencer. Is That Bad?](https://www.wired.com/story/my-kid-wants-to-be-an-influencer-is-that-bad/)<!-- TECH:END -->
+ - [This 1-Day Woot Nintendo Switch Deal Is Better Than Anything We Saw on Prime Day     - CNET](https://www.cnet.com/deals/post-prime-day-nintendo-switch-oled-deal/#ftag=CAD590a51e)
+ - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

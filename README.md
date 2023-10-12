@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fitbit app has been having some issues for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)
- - [Internal memo: NPR traffic loss has been negligible in the six months since it left Twitter, after the platform labeled NPR &quot;US state-affiliated media&quot; &lpar;Gabe Bullard/Nieman Reports&rpar;](http://www.techmeme.com/231011/p36#a231011p36)
- - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)<!-- TECH:END -->
+ - [Sources: OpenAI plans to introduce major updates for developers on November 6, including memory storage to its tools and vision capabilities to analyze images &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p37#a231011p37)
+ - [How to delete all your Facebook posts without deleting your account](https://www.androidauthority.com/delete-all-facebook-posts-3138075/)
+ - [Prime Day Under $50: Here Are Over 90 Bargains To Check Out While You Still Can     - CNET](https://www.cnet.com/deals/prime-day-under-50-here-are-93-bargains-you-should-check-out/#ftag=CAD590a51e)
+ - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

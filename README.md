@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
- - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 😝 [Wait for it](http://9gag.com/gag/aZDKQdQ)
  - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 ---

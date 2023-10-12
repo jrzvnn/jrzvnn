@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
+ - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
+ - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 ---
 

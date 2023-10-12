@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sam Altman told staff that OpenAI is generating revenue at a pace of $1.3B a year, implying it is generating $100M+/month, up 30% from three months ago &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231012/p23#a231012p23)
  - [Daily deals Oct. 12: $250 off MacBook Air, $399 iPad 10th Generation, Kindle Paperwhite for $70, more](https://appleinsider.com/articles/23/10/12/daily-deals-oct-12-50-off-a-64gb-ipad-33-off-apple-smart-keyboard-for-ipad-kindle-paperwhite-for-70-more?utm_medium=rss)
  - [AMC CEO was target of blackmail and extortion plot](https://www.theverge.com/2023/10/12/23914298/amc-ceo-blackmail-extortion-plot-memestock-adam-aron)
  - [Block acquires Hifi, which launched in 2020 as a financial rights organization for artists and recently rolled out Cash Flow to pay artists a bi-monthly salary &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/231012/p22#a231012p22)
- - [Honor announces its third foldable of the year](https://www.theverge.com/2023/10/12/23913011/honor-magic-vs2-price-release-date-specs-features-china-launch)
- - [The Chatbots Are Now Talking to Each Other](https://www.wired.com/story/fast-forward-the-chatbots-are-now-talking-to-each-other/)<!-- TECH:END -->
+ - [Honor announces its third foldable of the year](https://www.theverge.com/2023/10/12/23913011/honor-magic-vs2-price-release-date-specs-features-china-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

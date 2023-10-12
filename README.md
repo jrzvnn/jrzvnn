@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink plans to offer its satellite-based Direct to Cell service to LTE phones first for texting in 2024, and voice and data and IoT support in 2025 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231012/p37#a231012p37)
  - [The Rick and Morty season 7 premiere gets right to moving on to bigger, better things](https://www.theverge.com/23906715/rick-and-morty-season-7-premiere-review)
  - [How is it still getting worse for Sam Bankman-Fried?](https://www.theverge.com/2023/10/12/23915108/sam-bankman-fried-ftx-alameda-caroline-ellison-lawyers)
  - [Filing: Qualcomm plans to cut 1,258 jobs in California, including 750+ from its engineering ranks, starting in mid-December 2023; the company has ~50K employees &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231012/p36#a231012p36)
- - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)
- - [USB-C or Lightning, Both AirPods Pro 2 Versions Remain on Sale     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-remain-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
- - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
  - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 

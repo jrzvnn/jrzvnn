@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook coming in 2024, predicts supply chain monitor](https://appleinsider.com/articles/23/10/12/m3-macbook-coming-in-2024-predicts-supply-chain-monitor?utm_medium=rss)
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
  - [How Google Chrome&#39;s Discover feed on Android serves up misleading propaganda to Russian audiences; a source says Russian-languages services are a lower priority &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p13#a231012p13)
  - [Current advanced LLMs from OpenAI and others have many flaws but they will, decades from now, be recognized as the first true examples of AGI, similar to ENIAC &lpar;Noema&rpar;](http://www.techmeme.com/231012/p12#a231012p12)
- - [X defends itself over EU accusations of playing host to Israel-Hamas disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)
- - [Hands-on with Best Take for Pixel 8, which uses AI to replace people&#39;s faces, a fun camera tool that worryingly helps AI standardize what happiness looks like &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/231012/p11#a231012p11)
- - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)<!-- TECH:END -->
+ - [X defends itself over EU accusations of playing host to Israel-Hamas disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

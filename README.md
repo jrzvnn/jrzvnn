@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Apple&#39;s key suppliers in Taiwan saw revenue fall 16.4% YoY to ~$38.7B in September, despite the launch of new iPhones and several Android smartphones &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p4#a231012p4)
+ - [OnePlus Open doppelganger OPPO Find N3 now has a launch date](https://www.androidauthority.com/oppo-find-n3-oneplus-open-launch-date-3375164/)
  - [US v. SBF: Caroline Ellison says Alameda paid $100M to $150M in crypto transfers to Chinese officials to unfreeze its OKX and Huobi trading accounts, worth ~$1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231012/p3#a231012p3)
  - [Sources: the US Department of Commerce is considering new export controls for general-purpose AI programs, a move that experts say could weaken US AI innovation &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231012/p2#a231012p2)
- - [We connected a Pixel 8 Pro to an iPhone 15 Pro via USB-C: Here’s what happened](https://www.androidauthority.com/connect-pixel-8-pro-iphone-15-pro-usb-c-3374792/)
- - [Piper Sandler survey of 9,000+ US teens: 29.1% of their daily video consumption time is on YouTube, beating Netflix for the first time at 28.7%, and ~7% on Hulu &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231012/p1#a231012p1)
- - [The best last-minute Prime Day deals you can still grab](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)<!-- TECH:END -->
+ - [We connected a Pixel 8 Pro to an iPhone 15 Pro via USB-C: Here’s what happened](https://www.androidauthority.com/connect-pixel-8-pro-iphone-15-pro-usb-c-3374792/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

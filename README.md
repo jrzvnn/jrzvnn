@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 💣 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
+ - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 

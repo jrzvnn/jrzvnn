@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [a16z-backed Character.AI launches Character Group Chat, which allows paying subscribers to create group chats with AI chatbots or with humans and AI characters &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p40#a231011p40)
  - [Sources: Sequoia&#39;s China spin off HongShan is seeking global business opportunities and investments for its portfolio companies, as China&#39;s economy slows down &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p39#a231011p39)
- - [60+ October Amazon Prime Day Deals You Can Still Score for $25 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-day-2/#ftag=CAD590a51e)
- - [Google Pixel 8 Review: &#39;Best Take&#39; Levels Up AI-Enhanced Photos     - CNET](https://www.cnet.com/tech/mobile/google-pixel-8-review-best-take-levels-up-ai-enhanced-photos/#ftag=CAD590a51e)
- - [18 Prime Day iPhone and Android Deals You Don&#39;t Want to Miss     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fitness Deals for October Prime Day: Check Them Out Before They End     - CNET](https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e)
+ - [Automattic adds the ActivityPub feature to WordPress.com hosted sites, allowing site owners to tie into fediverse platforms including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p38#a231011p38)
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

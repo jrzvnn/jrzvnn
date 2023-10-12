@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 💣 [Hamas leader calls for global day of jihad for tomorrow How many governments have raised their alert levels or are warning the people?](http://9gag.com/gag/arm0qE6)
+ - 😝 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 💣 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 👉 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)<!-- MEMES:END -->
 
 ---
 

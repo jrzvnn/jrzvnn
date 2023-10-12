@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX’s Starlink set to launch satellite phone service in 2024](https://www.androidauthority.com/starlink-satellite-phone-service-3375427/)
  - [Filing: Caltech settles a patent lawsuit against Apple and Broadcom, after suing them in 2016 for allegedly infringing its Wi-Fi patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p31#a231012p31)
  - [Judge questions Montana’s ban on TikTok](https://www.theverge.com/2023/10/12/23914697/montana-tiktok-ban-free-speech-first-amendment-national-security)
  - [CFTC charges Voyager Digital co-founder Stephen Ehrlich with fraud, saying he and Voyager lied to customers and hid the crypto lender&#39;s true financial health &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231012/p30#a231012p30)
- - [All the news on Google’s Pixel 8 lineup](https://www.theverge.com/2023/10/12/23914177/google-pixel-8-everything-need-know-news-announcment-review)
- - [iPhone 17 could be first to get new thinner &amp; lighter motherboard tech](https://appleinsider.com/articles/23/10/12/iphone-17-could-be-first-to-get-new-thinner-lighter-motherboard-tech?utm_medium=rss)<!-- TECH:END -->
+ - [All the news on Google’s Pixel 8 lineup](https://www.theverge.com/2023/10/12/23914177/google-pixel-8-everything-need-know-news-announcment-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

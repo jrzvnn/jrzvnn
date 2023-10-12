@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 👉 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)<!-- MEMES:END -->
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 👉 [Wait for it](http://9gag.com/gag/aZDKQdQ)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akira Toriyama’s coming back for a new Dragon Ball series](https://www.theverge.com/2023/10/12/23914967/dragon-ball-daima-trailer-anime-series)
- - [The best Google Pixel 8 Pro alternatives: 5 phones worth consider before you buy](https://www.androidauthority.com/google-pixel-8-pro-alternatives-3372851/)
- - [Prime Day deals extended: Apple discounts of up to 48% off](https://appleinsider.com/articles/23/10/12/prime-day-deals-extended-apple-discounts-of-up-to-48-off?utm_medium=rss)
- - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
- - [SBF’s Magic Hair and Other Big Moments From the FTX Trial](https://www.wired.com/story/ftx-trial-sbf-key-moments/)<!-- TECH:END -->
+ - [Why were these weird accounts following a bunch of people on Spotify?](https://www.theverge.com/2023/10/12/23914995/spotify-weird-accounts-follow-lucas-lucasrpx-vitornovaes)
+ - [Popular porn sites now display unproven health warnings thanks to Texas law](https://www.theverge.com/2023/10/12/23914832/texas-hb-1181-porn-age-verification-vixen-media-group)
+ - [Memo: Flexport plans to cut approximately 20% of its global workforce as part of a new round of layoffs that&#39;s expected to begin on October 13 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231012/p35#a231012p35)
+ - [Google promises to take the legal heat in users’ AI copyright lawsuits](https://www.theverge.com/2023/10/12/23914998/google-copyright-indemnification-generative-ai)
+ - [Akira Toriyama’s coming back for a new Dragon Ball series](https://www.theverge.com/2023/10/12/23914967/dragon-ball-daima-trailer-anime-series)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

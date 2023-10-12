@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sequoia&#39;s China spin off HongShan is seeking global business opportunities and investments for its portfolio companies, as China&#39;s economy slows down &lpar;Financial Times&rpar;](http://www.techmeme.com/231011/p39#a231011p39)
  - [Automattic adds the ActivityPub feature to WordPress.com hosted sites, allowing site owners to tie into fediverse platforms including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p38#a231011p38)
  - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Sources: OpenAI plans to introduce major updates for developers on November 6, including memory storage to its tools and vision capabilities to analyze images &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p37#a231011p37)
- - [How to delete all your Facebook posts without deleting your account](https://www.androidauthority.com/delete-all-facebook-posts-3138075/)<!-- TECH:END -->
+ - [Sources: OpenAI plans to introduce major updates for developers on November 6, including memory storage to its tools and vision capabilities to analyze images &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p37#a231011p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

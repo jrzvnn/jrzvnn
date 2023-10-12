@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CFTC charges Voyager Digital co-founder Stephen Ehrlich with fraud, saying he and Voyager lied to customers and hid the crypto lender&#39;s true financial health &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231012/p30#a231012p30)
+ - [All the news on Google’s Pixel 8 lineup](https://www.theverge.com/2023/10/12/23914177/google-pixel-8-everything-need-know-news-announcment-review)
+ - [iPhone 17 could be first to get new thinner &amp; lighter motherboard tech](https://appleinsider.com/articles/23/10/12/iphone-17-could-be-first-to-get-new-thinner-lighter-motherboard-tech?utm_medium=rss)
  - [Sources: EU launched a probe into X over hosting misinformation in the wake of Hamas&#39; attack on Israel; X could be fined up to 5% of its daily global turnover &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231012/p29#a231012p29)
- - [The best October Prime Day deals you can still grab for under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
- - [Need AI to generate an image? Just ask for what you want in Google Search.](https://www.androidauthority.com/generate-image-google-search-3375408/)
- - [Caltech ends $1 billion patent case against Apple and Broadcom](https://appleinsider.com/articles/23/10/12/caltech-ends-1-billion-patent-case-against-apple-and-broadcom?utm_medium=rss)
- - [Threads rolls out voice posts and a free edit button; users can edit a post within five minutes of sending it, and Threads doesn&#39;t show an edit history &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231012/p28#a231012p28)<!-- TECH:END -->
+ - [The best October Prime Day deals you can still grab for under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - 😝 [Ouch](http://9gag.com/gag/amAy13j)
- - 💣 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 💣 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 👉 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)<!-- MEMES:END -->
 
 ---
 

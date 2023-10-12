@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fitbit app has been having some issues for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)
+ - [Internal memo: NPR traffic loss has been negligible in the six months since it left Twitter, after the platform labeled NPR &quot;US state-affiliated media&quot; &lpar;Gabe Bullard/Nieman Reports&rpar;](http://www.techmeme.com/231011/p36#a231011p36)
+ - [The best October Prime Day deals under $25](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Best October Prime Day Deals You Can Still Buy for $10 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10-day-2/#ftag=CAD590a51e)
- - [21 Best October Prime Day Mattress Deals &lpar;2023&rpar;](https://www.wired.com/story/best-amazon-prime-day-mattress-deals-october-2023-2/)
- - [Alameda’s paper trail leads straight to Sam Bankman-Fried](https://www.theverge.com/2023/10/11/23913665/ftx-sam-bankman-fried-fraud-trial-caroline-ellison-testimony-alameda-balance-sheets)
- - [169 Absolute Best October Prime Day Deals 2023 &lpar;Day 2&rpar;](https://www.wired.com/story/best-october-prime-day-deals-2023-6/)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon’s October Prime Day event](https://www.theverge.com/23905479/amazon-october-prime-day-apple-deals-airpods-watch-ipad-macbook-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

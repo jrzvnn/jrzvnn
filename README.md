@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
- - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
- - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
+ - 😝 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
  - 👉 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
 

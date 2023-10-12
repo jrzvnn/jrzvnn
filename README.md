@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Having trouble accessing Fitbit? That’s because the app is down &lpar;Updated&rpar;](https://www.androidauthority.com/fitbit-outage-3375059/)
+ - [Investigation: instant loan app scams push people in India and other countries into a spiral of debt, driving many to suicide after shame and blackmail &lpar;BBC&rpar;](http://www.techmeme.com/231012/p5#a231012p5)
  - [Analysis: Apple&#39;s key suppliers in Taiwan saw revenue fall 16.4% YoY to ~$38.7B in September, despite the launch of new iPhones and several Android smartphones &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p4#a231012p4)
  - [OnePlus Open doppelganger OPPO Find N3 now has a launch date](https://www.androidauthority.com/oppo-find-n3-oneplus-open-launch-date-3375164/)
- - [US v. SBF: Caroline Ellison says Alameda paid $100M to $150M in crypto transfers to Chinese officials to unfreeze its OKX and Huobi trading accounts, worth ~$1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231012/p3#a231012p3)
- - [Sources: the US Department of Commerce is considering new export controls for general-purpose AI programs, a move that experts say could weaken US AI innovation &lpar;Karen Hao/The Atlantic&rpar;](http://www.techmeme.com/231012/p2#a231012p2)
- - [We connected a Pixel 8 Pro to an iPhone 15 Pro via USB-C: Here’s what happened](https://www.androidauthority.com/connect-pixel-8-pro-iphone-15-pro-usb-c-3374792/)<!-- TECH:END -->
+ - [US v. SBF: Caroline Ellison says Alameda paid $100M to $150M in crypto transfers to Chinese officials to unfreeze its OKX and Huobi trading accounts, worth ~$1B &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231012/p3#a231012p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

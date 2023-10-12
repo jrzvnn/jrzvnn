@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 💣 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)<!-- MEMES:END -->
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 

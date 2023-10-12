@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 👉 [Wait for it](http://9gag.com/gag/aZDKQdQ)<!-- MEMES:END -->
+ - 😝 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 💣 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 👉 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)<!-- MEMES:END -->
 
 ---
 

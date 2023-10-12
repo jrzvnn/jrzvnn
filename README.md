@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Caltech ends $1 billion patent case against Apple and Broadcom](https://appleinsider.com/articles/23/10/12/caltech-ends-1-billion-patent-case-against-apple-and-broadcom?utm_medium=rss)
+ - [Meta rolls out voice posts and an edit button on Threads; users can edit a post within five minutes of sending it, and Threads doesn&#39;t show a history of edits &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231012/p28#a231012p28)
  - [Threads is getting an edit button — and you don’t have to pay for it](https://www.theverge.com/2023/10/12/23914585/instagram-threads-edit-button-voice-posts)
  - [The Stream Deck’s new paid app store is here](https://www.theverge.com/2023/10/12/23914431/stream-deck-app-store-elgato-marketplace-plugins)
- - [Microsoft’s new Xbox Series S bundle is ideal for Xbox Game Pass](https://www.theverge.com/2023/10/12/23914550/microsoft-xbox-series-x-bundle-game-pass)
- - [OnePlus Open takes back seat to identical twin, to be announced hours later](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3-3375383/)
- - [Infinite Machine P1 Electric Scooter: Specs, Release Date, Features](https://www.wired.com/story/infinite-machine-p1-electric-scooter/)<!-- TECH:END -->
+ - [Microsoft’s new Xbox Series S bundle is ideal for Xbox Game Pass](https://www.theverge.com/2023/10/12/23914550/microsoft-xbox-series-x-bundle-game-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

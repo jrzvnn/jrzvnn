@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
- - 😝 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)
- - 💣 [Palestinians throw grenade inside a shelter full of Civillians. One managed to run but gunned down.](http://9gag.com/gag/aVb8gb2)
+ - 😝 [Yes officer it was a star wars droid](http://9gag.com/gag/aREGZ55)
+ - 😝 [Weakness disgusts me...but damn](http://9gag.com/gag/az2zGKK)
+ - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - 👉 [Funny thing](http://9gag.com/gag/a9qe5Do)<!-- MEMES:END -->
 
 ---
 

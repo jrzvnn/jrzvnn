@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
+ - [The best October Prime Day deals under $25 you can still get](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)
  - [Surface Laptop Go 3 review: premium design but low-resolution screen, no keyboard backlighting, limited port selection, and too expensive for what it offers &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/231012/p21#a231012p21)
  - [CEO David Baszucki’s mission to make Roblox a billion-player platform](https://www.theverge.com/23913044/roblox-baszucki-platform-playstation-ai-vr-ar-china-gucci)
- - [Microsoft Surface Laptop Go 3 review: why does this exist?](https://www.theverge.com/23906932/microsoft-surface-laptop-go-3-review)
- - [Emirates airline equips staff of 20,000 with iPhones, iPads to streamline flying process](https://appleinsider.com/articles/23/10/12/emirates-airline-equips-staff-of-20000-with-iphones-ipads-to-streamline-flying-process?utm_medium=rss)
- - [The best deals you can still get from Amazon’s October Prime Day](https://www.theverge.com/23910120/amazon-october-prime-day-best-deals-sales-still-happening-tech-gadgets-2023)<!-- TECH:END -->
+ - [Microsoft Surface Laptop Go 3 review: why does this exist?](https://www.theverge.com/23906932/microsoft-surface-laptop-go-3-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

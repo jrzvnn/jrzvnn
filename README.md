@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals you can still get from Amazon’s October Prime Day](https://www.theverge.com/23910120/amazon-october-prime-day-best-deals-sales-still-happening-tech-gadgets-2023)
  - [Atlassian plans to acquire video messaging platform Loom for around $975M, made up of $880M in cash and the rest in stock, closing in Q1 2024 &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231012/p20#a231012p20)
  - [Exynos 2400: What you should know about Samsung’s chipset return](https://www.androidauthority.com/samsung-exynos-2400-explained-3354040/)
  - [Nanoleaf expands Matter-capable Essentials lineup with new bulbs](https://appleinsider.com/articles/23/10/12/nanoleaf-expands-matter-capable-essentials-lineup-with-new-bulbs?utm_medium=rss)
- - [The most important Google Pixel Watch 2 questions, answered](https://www.androidauthority.com/google-pixel-watch-2-questions-answered-3374929/)
- - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)<!-- TECH:END -->
+ - [The most important Google Pixel Watch 2 questions, answered](https://www.androidauthority.com/google-pixel-watch-2-questions-answered-3374929/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

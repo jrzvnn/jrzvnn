@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Sam Altman is the largest investor in Humane, which plans to unveil its AI Pin next month, with a 14.93% equity; Humane&#39;s two co-founders own 13% each &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/231012/p27#a231012p27)
- - [Save $1,100 on Apple&#39;s 16-inch MacBook Pro with 32GB RAM, now just $1,799](https://appleinsider.com/articles/23/10/12/save-1100-on-apples-16-inch-macbook-pro-with-32gb-ram-now-just-1799?utm_medium=rss)
- - [Bayonetta director Hideki Kamiya isn’t retiring](https://www.theverge.com/2023/10/12/23914228/hideki-kamiya-bayonetta-platinum-games-retiring-youtube)
- - [Over 220 VC firms, including Bessemer and GGV, sign a statement in support of Israel and call for the investor community to support Israel&#39;s tech ecosystem &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231012/p26#a231012p26)
- - [Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2023     - CNET](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads is getting an edit button — and you don’t have to pay for it](https://www.theverge.com/2023/10/12/23914585/instagram-threads-edit-button-voice-posts)
+ - [The Stream Deck’s new paid app store is here](https://www.theverge.com/2023/10/12/23914431/stream-deck-app-store-elgato-marketplace-plugins)
+ - [Microsoft’s new Xbox Series S bundle is ideal for Xbox Game Pass](https://www.theverge.com/2023/10/12/23914550/microsoft-xbox-series-x-bundle-game-pass)
+ - [OnePlus Open takes back seat to identical twin, to be announced hours later](https://www.androidauthority.com/oneplus-open-oppo-find-n3-3-3375383/)
+ - [Infinite Machine P1 Electric Scooter: Specs, Release Date, Features](https://www.wired.com/story/infinite-machine-p1-electric-scooter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

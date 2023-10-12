@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No Fakes Act wants to protect actors and singers from unauthorized AI replicas](https://www.theverge.com/2023/10/12/23914915/ai-replicas-likeness-law-no-fakes-copyright)
+ - [SBF’s Magic Hair and Other Big Moments From the FTX Trial](https://www.wired.com/story/ftx-trial-sbf-key-moments/)
  - [Fitbit fixed issues that lasted for hours](https://www.theverge.com/2023/10/11/23913740/fitbit-issues-app-down-problems-outage)
  - [The Best Monitor Deals You Can Still Shop After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-monitor-deals-grab-them-now-the-sales-almost-over/#ftag=CAD590a51e)
- - [Over 70 Great Post-Prime Day Deals You Can Still Grab for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-under-50-still-available/#ftag=CAD590a51e)
- - [Microsoft actually won’t roll out an unpopular OneDrive change to photo storage](https://www.theverge.com/2023/10/12/23914676/microsoft-onedrive-outlook-storage-limit-change)
- - [Netflix plans to open permanent stores for fans, initially in the US; the stores, named Netflix House, will offer a mix of retail, dining, and live experiences &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231012/p33#a231012p33)<!-- TECH:END -->
+ - [Over 70 Great Post-Prime Day Deals You Can Still Grab for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-under-50-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

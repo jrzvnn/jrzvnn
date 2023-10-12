@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 😝 [Another angle of the professor](http://9gag.com/gag/aXnz77V)
+ - 😝 [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)
+ - 💣 [Repost i think. just an kind reminder.](http://9gag.com/gag/ay2A6VY)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 👉 [When the Propaganda video gets interrupted by air raid sirens in Palestine. The dead rise\u2026](http://9gag.com/gag/amAym52)<!-- MEMES:END -->
 
 ---
 

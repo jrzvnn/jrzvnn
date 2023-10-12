@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 💣 [Ouch](http://9gag.com/gag/amAy13j)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 😝 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)<!-- MEMES:END -->
+ - 👉 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)<!-- MEMES:END -->
 
 ---
 

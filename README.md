@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
- - 😝 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
- - 💣 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)
- - 😝 [Wait for it](http://9gag.com/gag/aZDKQdQ)
+ - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 💣 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
  - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
+ - 😝 [It&#39;s on. Hamas supporters in France f**k around and find out.](http://9gag.com/gag/a6qzpdq)
+ - 💣 [Da Caat](http://9gag.com/gag/aBdMGoN)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 👉 [I just.. loved it..](http://9gag.com/gag/a9qem2j)<!-- MEMES:END -->
 
 ---
 

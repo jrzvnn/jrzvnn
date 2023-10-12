@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $1,100 on Apple&#39;s 16-inch MacBook Pro with 32GB RAM, now just $1,799](https://appleinsider.com/articles/23/10/12/save-1100-on-apples-16-inch-macbook-pro-with-32gb-ram-now-just-1799?utm_medium=rss)
+ - [Bayonetta director Hideki Kamiya isn’t retiring](https://www.theverge.com/2023/10/12/23914228/hideki-kamiya-bayonetta-platinum-games-retiring-youtube)
+ - [Over 220 VC firms, including Bessemer and GGV, sign a statement in support of Israel and call for the investor community to support Israel&#39;s tech ecosystem &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231012/p26#a231012p26)
  - [Adobe is working on generative AI video manipulation](https://www.theverge.com/2023/10/12/23914278/adobe-max-project-fast-fill-ai-video-generative-fill)
- - [&#39;Star Trek: Infinite&#39; grand galactic strategy game lands on Mac](https://appleinsider.com/articles/23/10/12/star-trek-infinite-grand-galactic-strategy-game-lands-on-mac?utm_medium=rss)
- - [Google&#39;s Search Generative Experience adds the ability to generate images using prompts and to write drafts by customizing their tone and length &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p25#a231012p25)
- - [The Galaxy Watch 5 LTE is cheaper than Prime Day at just $249.99](https://www.androidauthority.com/samsung-galaxy-watch-5-lte-deal-3375376/)
- - [Pixel 8 Pro earns best display title in new ranking](https://www.androidauthority.com/pixel-8-pro-display-ranking-3375337/)<!-- TECH:END -->
+ - [&#39;Star Trek: Infinite&#39; grand galactic strategy game lands on Mac](https://appleinsider.com/articles/23/10/12/star-trek-infinite-grand-galactic-strategy-game-lands-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

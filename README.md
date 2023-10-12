@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automattic adds the ActivityPub feature to WordPress.com hosted sites, allowing site owners to tie into fediverse platforms including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231011/p38#a231011p38)
+ - [The best October Prime Day deals under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)
  - [The best October Prime Day deals you can still get](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
  - [Sources: OpenAI plans to introduce major updates for developers on November 6, including memory storage to its tools and vision capabilities to analyze images &lpar;Reuters&rpar;](http://www.techmeme.com/231011/p37#a231011p37)
- - [How to delete all your Facebook posts without deleting your account](https://www.androidauthority.com/delete-all-facebook-posts-3138075/)
- - [Prime Day Under $50: Here Are Over 90 Bargains To Check Out While You Still Can     - CNET](https://www.cnet.com/deals/prime-day-under-50-here-are-93-bargains-you-should-check-out/#ftag=CAD590a51e)
- - [The best October Prime Day deals under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)<!-- TECH:END -->
+ - [How to delete all your Facebook posts without deleting your account](https://www.androidauthority.com/delete-all-facebook-posts-3138075/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

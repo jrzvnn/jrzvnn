@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEO David Baszucki’s mission to make Roblox a billion-player platform](https://www.theverge.com/23913044/roblox-baszucki-platform-playstation-ai-vr-ar-china-gucci)
+ - [Microsoft Surface Laptop Go 3 review: why does this exist?](https://www.theverge.com/23906932/microsoft-surface-laptop-go-3-review)
  - [Emirates airline equips staff of 20,000 with iPhones, iPads to streamline flying process](https://appleinsider.com/articles/23/10/12/emirates-airline-equips-staff-of-20000-with-iphones-ipads-to-streamline-flying-process?utm_medium=rss)
  - [The best deals you can still get from Amazon’s October Prime Day](https://www.theverge.com/23910120/amazon-october-prime-day-best-deals-sales-still-happening-tech-gadgets-2023)
- - [Atlassian plans to acquire video messaging platform Loom for around $975M, made up of $880M in cash and the rest in stock, closing in Q1 2024 &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231012/p20#a231012p20)
- - [Exynos 2400: What you should know about Samsung’s chipset return](https://www.androidauthority.com/samsung-exynos-2400-explained-3354040/)
- - [Nanoleaf expands Matter-capable Essentials lineup with new bulbs](https://appleinsider.com/articles/23/10/12/nanoleaf-expands-matter-capable-essentials-lineup-with-new-bulbs?utm_medium=rss)<!-- TECH:END -->
+ - [Atlassian plans to acquire video messaging platform Loom for around $975M, made up of $880M in cash and the rest in stock, closing in Q1 2024 &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231012/p20#a231012p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

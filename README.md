@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft actually won’t roll out an unpopular OneDrive change to photo storage](https://www.theverge.com/2023/10/12/23914676/microsoft-onedrive-outlook-storage-limit-change)
+ - [Netflix plans to open permanent stores for fans, initially in the US; the stores, named Netflix House, will offer a mix of retail, dining, and live experiences &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231012/p33#a231012p33)
  - [Netflix is planning to launch retail destinations in 2025](https://www.theverge.com/2023/10/12/23914796/netflix-house-retail-stores-2025)
  - [T-Mobile forcing customers to more expensive plans instead of hiking prices](https://appleinsider.com/articles/23/10/12/t-mobile-forcing-customers-to-more-expensive-plans-instead-of-hiking-prices?utm_medium=rss)
- - [1,000 photos with the Pixel 8 Pro: AI, UI, and Pro stuff](https://www.theverge.com/23913367/pixel-8-pro-camera-google-ai-full-frame)
- - [A New Tool Helps Artists Thwart AI—With a Middle Finger](https://www.wired.com/story/kudurru-ai-scraping-block-poisoning-spawning/)
- - [KitNipBox     - CNET](https://www.cnet.com/home/kitchen-and-household/kitnipbox-deal-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [1,000 photos with the Pixel 8 Pro: AI, UI, and Pro stuff](https://www.theverge.com/23913367/pixel-8-pro-camera-google-ai-full-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

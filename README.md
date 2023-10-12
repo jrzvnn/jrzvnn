@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 12: $250 off MacBook Air, $399 iPad 10th Generation, Kindle Paperwhite for $70, more](https://appleinsider.com/articles/23/10/12/daily-deals-oct-12-50-off-a-64gb-ipad-33-off-apple-smart-keyboard-for-ipad-kindle-paperwhite-for-70-more?utm_medium=rss)
+ - [AMC CEO was target of blackmail and extortion plot](https://www.theverge.com/2023/10/12/23914298/amc-ceo-blackmail-extortion-plot-memestock-adam-aron)
  - [Block acquires Hifi, which launched in 2020 as a financial rights organization for artists and recently rolled out Cash Flow to pay artists a bi-monthly salary &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/231012/p22#a231012p22)
- - [The Chatbots Are Now Talking to Each Other](https://www.wired.com/story/fast-forward-the-chatbots-are-now-talking-to-each-other/)
- - [SAG-AFTRA’s strike continues after last round of contract talks breaks down](https://www.theverge.com/2023/10/12/23914129/sag-strike-october-streaming-residuals-artificial-intelligence)
- - [How to change the ringtone on your Android phone](https://www.theverge.com/23912669/ringtone-android-pixel-galaxy-mobile-how-to)
- - [The best October Prime Day deals under $25 you can still get](https://www.theverge.com/23907931/amazon-october-prime-day-best-cheap-deals-under-25-2023)<!-- TECH:END -->
+ - [Honor announces its third foldable of the year](https://www.theverge.com/2023/10/12/23913011/honor-magic-vs2-price-release-date-specs-features-china-launch)
+ - [The Chatbots Are Now Talking to Each Other](https://www.wired.com/story/fast-forward-the-chatbots-are-now-talking-to-each-other/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

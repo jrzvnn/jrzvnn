@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Karma b1tch !](http://9gag.com/gag/ajVjOKw)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 💣 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)<!-- MEMES:END -->
+ - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The difference between the roar of a lion and a tiger](http://9gag.com/gag/a7qB0V2)
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 💣 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
+ - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
  - 😝 [Ouch](http://9gag.com/gag/amAy13j)
- - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
+ - 💣 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
+ - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 👉 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 ---
 

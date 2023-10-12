@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus 12 could beat the Pixel 8 Pro in this display spec](https://www.androidauthority.com/oneplus-12-display-upgrade-leak-3375223/)
  - [Instagram head Adam Mosseri reiterates Threads&#39; position on hard news, saying that Threads does not intend to &quot;amplify&quot; news because it&#39;s currently &quot;too risky&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p7#a231012p7)
+ - [October Prime Day: Live Blogging Amazon Deals Still Remaining     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-still-remaining/#ftag=CAD590a51e)
  - [In a letter to Thierry Breton, X CEO Linda Yaccarino says X has removed hundreds of Hamas-linked accounts, labeled tens of thousands of posts, and more &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p6#a231012p6)
- - [Google’s new Pixel Troubleshooting app is now available on the Pixel 8 series](https://www.androidauthority.com/googles-pixel-troubleshooting-app-pixel-8-3375193/)
- - [Pixel 8 finally gets a beloved iPhone feature: eSIM conversion and transfer!](https://www.androidauthority.com/google-pixel-8-esim-conversion-and-transfer-3375184/)
- - [October Prime Day 2023: Sign Up for Amazon Prime and Take Advantage of Remaining Deals     - CNET](https://www.cnet.com/tech/october-prime-day-2023-sign-up-for-amazon-prime-and-take-advantage-of-remaining-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Leave a Group Chat on your iPhone but Someone Has an Android? Check Out This Fix     - CNET](https://www.cnet.com/tech/mobile/want-to-leave-a-group-chat-on-your-iphone-but-someone-has-an-android-check-out-this-fix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

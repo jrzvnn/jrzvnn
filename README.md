@@ -158,7 +158,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Prime Day deal extended: Samsung 32-inch M8 monitor plunges to $369.99](https://appleinsider.com/articles/23/10/11/samsung-32-inch-m8-monitor-plunges-to-36999-with-amazon-prime-day-deal?utm_medium=rss)
  - [CCData: Coinbase&#39;s quarterly spot trading volume fell 52% YoY to $76B in Q3, likely the lowest volume since Coinbase&#39;s direct listing on Nasdaq in April 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231012/p24#a231012p24)
  - [The best October Prime Day deals you can still get under $50](https://www.theverge.com/23905499/amazon-october-prime-day-best-cheap-deals-under-50-2023)
- - [Sources: Sam Altman told staff that OpenAI is generating revenue at a pace of $1.3B a year, implying it is generating $100M+/month, up 30% from three months ago &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231012/p23#a231012p23)
+ - [Sources: Sam Altman told staff that OpenAI is generating $1.3B in revenue per year, implying the company is now generating $100M+/month, up 30% in three months &lpar;Amir Efrati/The Information&rpar;](http://www.techmeme.com/231012/p23#a231012p23)
  - [Daily deals Oct. 12: $250 off MacBook Air, $399 iPad 10th Generation, Kindle Paperwhite for $70, more](https://appleinsider.com/articles/23/10/12/daily-deals-oct-12-50-off-a-64gb-ipad-33-off-apple-smart-keyboard-for-ipad-kindle-paperwhite-for-70-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

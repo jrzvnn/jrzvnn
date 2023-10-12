@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
+ - [Elliptic: the unidentified FTX hackers who stole $415M to $432M in crypto in November 2022 started moving the haul for the first time in 2023 in October &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)
  - [New Starlink page launched to promote cellular service coming in 2024](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
  - [At SBF&#39;s trial, the personal dynamics between him and his friends are a vital component of the case, making clear how much his inner circle has turned on him &lpar;New York Times&rpar;](http://www.techmeme.com/231012/p18#a231012p18)
- - [As Pat Gelsinger tries to revive Intel, a self-imposed deadline to add a big foundry client in 2023 looms and, even then, revenue from a deal may be years away &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p17#a231012p17)
- - [How the FTX Thieves Have Tried to Launder Their $400 Million Haul](https://www.wired.com/story/ftx-hack-400-million-crypto-laundering/)
- - [Air Up Water Bottle Review: Its Smelly Gimmick Really Stinks](https://www.wired.com/review/air-up-water-bottle/)<!-- TECH:END -->
+ - [Here Are Today&#39;s Refinance Rates, Oct. 12, 2023: Rate Retreats     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-oct-12-2023-rate-retreats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Need AI to generate an image? Just ask for what you want in Google Search.](https://www.androidauthority.com/generate-image-google-search-3375408/)
+ - [Artificial Intelligence Is Seeping Into All of Your Gadgets](https://www.wired.com/story/gadget-lab-podcast-616/)
  - [Caltech ends $1 billion patent case against Apple and Broadcom](https://appleinsider.com/articles/23/10/12/caltech-ends-1-billion-patent-case-against-apple-and-broadcom?utm_medium=rss)
- - [Meta rolls out voice posts and an edit button on Threads; users can edit a post within five minutes of sending it, and Threads doesn&#39;t show a history of edits &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231012/p28#a231012p28)
- - [Threads is getting an edit button — and you don’t have to pay for it](https://www.theverge.com/2023/10/12/23914585/instagram-threads-edit-button-voice-posts)
- - [The Stream Deck’s new paid app store is here](https://www.theverge.com/2023/10/12/23914431/stream-deck-app-store-elgato-marketplace-plugins)
- - [Microsoft’s new Xbox Series S bundle is ideal for Xbox Game Pass](https://www.theverge.com/2023/10/12/23914550/microsoft-xbox-series-x-bundle-game-pass)<!-- TECH:END -->
+ - [Animal Crossing: New Horizons Is the Cozy Game I Needed This Year     - CNET](https://www.cnet.com/deals/animal-crossing-new-horizons-is-the-cozy-game-i-needed-this-year/#ftag=CAD590a51e)
+ - [I Can&#39;t Drink Water From Any Other Cup Now That I Own a Stanley Tumbler     - CNET](https://www.cnet.com/deals/i-cant-drink-out-of-any-other-cup-now-that-i-own-a-stanley-tumbler/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

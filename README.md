@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Caltech settles a patent lawsuit against Apple and Broadcom, after suing them in 2016 for allegedly infringing its Wi-Fi patents &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231012/p31#a231012p31)
+ - [Judge questions Montana’s ban on TikTok](https://www.theverge.com/2023/10/12/23914697/montana-tiktok-ban-free-speech-first-amendment-national-security)
  - [CFTC charges Voyager Digital co-founder Stephen Ehrlich with fraud, saying he and Voyager lied to customers and hid the crypto lender&#39;s true financial health &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/231012/p30#a231012p30)
  - [All the news on Google’s Pixel 8 lineup](https://www.theverge.com/2023/10/12/23914177/google-pixel-8-everything-need-know-news-announcment-review)
- - [iPhone 17 could be first to get new thinner &amp; lighter motherboard tech](https://appleinsider.com/articles/23/10/12/iphone-17-could-be-first-to-get-new-thinner-lighter-motherboard-tech?utm_medium=rss)
- - [Sources: EU launched a probe into X over hosting misinformation in the wake of Hamas&#39; attack on Israel; X could be fined up to 5% of its daily global turnover &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231012/p29#a231012p29)
- - [The best October Prime Day deals you can still grab for under $100](https://www.theverge.com/23907826/amazon-october-prime-day-best-cheap-deals-under-100-2023)<!-- TECH:END -->
+ - [iPhone 17 could be first to get new thinner &amp; lighter motherboard tech](https://appleinsider.com/articles/23/10/12/iphone-17-could-be-first-to-get-new-thinner-lighter-motherboard-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

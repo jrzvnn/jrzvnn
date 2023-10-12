@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: India accuses 30+ staff of Chinese smartphone maker Vivo of visa violations and says Vivo siphoned off ~$13B to its Chinese parent via a &quot;masking layer&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p15#a231012p15)
  - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)
  - [Goldman Sachs offloads major BNPL player GreenSky for an undisclosed sum to a group of money managers, after acquiring the company for $1.7B in 2021 &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/231012/p14#a231012p14)
  - [My Kid Wants to Be an Influencer. Is That Bad?](https://www.wired.com/story/my-kid-wants-to-be-an-influencer-is-that-bad/)
- - [Hydro Dams Are Struggling to Handle the World’s Intensifying Weather](https://www.wired.com/story/hydro-dams-climate-change-weather-forecasting/)
- - [AVerMedia launches its first HDMI 2.1 USB capture card, priced at $299.99](https://www.theverge.com/2023/10/12/23914015/avermedia-hdmi-2-1-capture-card-usb-pricing-release-date-features)<!-- TECH:END -->
+ - [Hydro Dams Are Struggling to Handle the World’s Intensifying Weather](https://www.wired.com/story/hydro-dams-climate-change-weather-forecasting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

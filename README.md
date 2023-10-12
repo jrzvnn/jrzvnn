@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What ai thinks about that ladies from every nation](http://9gag.com/gag/aKEy1pQ)
- - 😝 [Just a reminder of the palestinian mentality](http://9gag.com/gag/aA07yzo)
+ - 😝 [Got your worm](http://9gag.com/gag/a4o8njm)
+ - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
  - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)<!-- MEMES:END -->
+ - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 ---
 

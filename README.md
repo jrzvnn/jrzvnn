@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nanoleaf expands Matter-capable Essentials lineup with new bulbs](https://appleinsider.com/articles/23/10/12/nanoleaf-expands-matter-capable-essentials-lineup-with-new-bulbs?utm_medium=rss)
+ - [The most important Google Pixel Watch 2 questions, answered](https://www.androidauthority.com/google-pixel-watch-2-questions-answered-3374929/)
  - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
- - [Elliptic: the unidentified FTX hackers who stole $415M to $432M in crypto in November 2022 started moving the haul for the first time in 2023 in October &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)
- - [New Starlink page launched to promote cellular service coming in 2024](https://www.theverge.com/2023/10/12/23914081/spacex-starlink-direct-to-cell-satellite-internet-lte-connectivity)
- - [At SBF&#39;s trial, the personal dynamics between him and his friends are a vital component of the case, making clear how much his inner circle has turned on him &lpar;New York Times&rpar;](http://www.techmeme.com/231012/p18#a231012p18)
- - [Here Are Today&#39;s Refinance Rates, Oct. 12, 2023: Rate Retreats     - CNET](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-oct-12-2023-rate-retreats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elliptic: the Russia-linked unidentified FTX hackers who stole $415M to $432M in November 2022 started moving the haul in October, the first time in 2023 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)
+ - [GM now has its own API for software developers to make cool apps for its cars](https://www.theverge.com/2023/10/12/23914060/gm-uservices-api-software-apps-car-sdv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

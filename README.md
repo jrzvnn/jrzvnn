@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: several key ex-Arm staff in China depart for Borui Jingxin, a local government-backed chip design firm, worrying Arm investors over future China sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p10#a231012p10)
  - [TikTok updates its $6M Effect Creator Rewards fund to add lower eligibility rules, a revamped payout model, and a lower threshold to start collecting rewards &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231012/p9#a231012p9)
  - [Singapore&#39;s biggest tech hopes, Grab, Sea, and Razer, have stumbled, which may show why VCs were premature in calling Singapore the &quot;Silicon Valley of Asia&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231012/p8#a231012p8)
  - [The OnePlus 12 could beat the Pixel 8 Pro in this display spec](https://www.androidauthority.com/oneplus-12-display-upgrade-leak-3375223/)
- - [Instagram head Adam Mosseri reiterates Threads&#39; position on hard news, saying that Threads does not intend to &quot;amplify&quot; news because it&#39;s currently &quot;too risky&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p7#a231012p7)
- - [October Prime Day: Live Blogging Amazon Deals Still Remaining     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-still-remaining/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram head Adam Mosseri reiterates Threads&#39; position on hard news, saying that Threads does not intend to &quot;amplify&quot; news because it&#39;s currently &quot;too risky&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p7#a231012p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

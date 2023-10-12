@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 MacBook coming in 2024, predicts supply chain monitor](https://appleinsider.com/articles/23/10/12/m3-macbook-coming-in-2024-predicts-supply-chain-monitor?utm_medium=rss)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [How Google Chrome&#39;s Discover feed on Android serves up misleading propaganda to Russian audiences; a source says Russian-languages services are a lower priority &lpar;Bloomberg&rpar;](http://www.techmeme.com/231012/p13#a231012p13)
- - [Current advanced LLMs from OpenAI and others have many flaws but they will, decades from now, be recognized as the first true examples of AGI, similar to ENIAC &lpar;Noema&rpar;](http://www.techmeme.com/231012/p12#a231012p12)
- - [X defends itself over EU accusations of playing host to Israel-Hamas disinformation](https://www.theverge.com/2023/10/12/23914020/x-twitter-israel-hamas-war-disinformation-misinformation-european-union-dsa-commissioner)<!-- TECH:END -->
+ - [How to make Siri use WhatsApp instead of Messages in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-make-siri-use-whatsapp-instead-of-messages-in-ios-17?utm_medium=rss)
+ - [Goldman Sachs offloads major BNPL player GreenSky for an undisclosed sum to a group of money managers, after acquiring the company for $1.7B in 2021 &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/231012/p14#a231012p14)
+ - [My Kid Wants to Be an Influencer. Is That Bad?](https://www.wired.com/story/my-kid-wants-to-be-an-influencer-is-that-bad/)
+ - [Hydro Dams Are Struggling to Handle the World’s Intensifying Weather](https://www.wired.com/story/hydro-dams-climate-change-weather-forecasting/)
+ - [AVerMedia launches its first HDMI 2.1 USB capture card, priced at $299.99](https://www.theverge.com/2023/10/12/23914015/avermedia-hdmi-2-1-capture-card-usb-pricing-release-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

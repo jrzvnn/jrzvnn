@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salma Hayek or Sophia Vergara](http://9gag.com/gag/aGEqnBG)
+ - 😝 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
  - 😝 [I want two plates of this and a large beer](http://9gag.com/gag/avQVE4X)
  - 💣 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 😝 [A shape-shifting witch](http://9gag.com/gag/aDYLnRw)
+ - 👉 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)<!-- MEMES:END -->
 
 ---
 

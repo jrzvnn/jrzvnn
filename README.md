@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore&#39;s biggest tech hopes, Grab, Sea, and Razer, have stumbled, which may show why VCs were premature in calling Singapore the &quot;Silicon Valley of Asia&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231012/p8#a231012p8)
  - [The OnePlus 12 could beat the Pixel 8 Pro in this display spec](https://www.androidauthority.com/oneplus-12-display-upgrade-leak-3375223/)
  - [Instagram head Adam Mosseri reiterates Threads&#39; position on hard news, saying that Threads does not intend to &quot;amplify&quot; news because it&#39;s currently &quot;too risky&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231012/p7#a231012p7)
  - [October Prime Day: Live Blogging Amazon Deals Still Remaining     - CNET](https://www.cnet.com/deals/amazon-october-prime-day-2023-live-still-remaining/#ftag=CAD590a51e)
- - [In a letter to Thierry Breton, X CEO Linda Yaccarino says X has removed hundreds of Hamas-linked accounts, labeled tens of thousands of posts, and more &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p6#a231012p6)
- - [Want to Leave a Group Chat on your iPhone but Someone Has an Android? Check Out This Fix     - CNET](https://www.cnet.com/tech/mobile/want-to-leave-a-group-chat-on-your-iphone-but-someone-has-an-android-check-out-this-fix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a letter to Thierry Breton, X CEO Linda Yaccarino says X has removed hundreds of Hamas-linked accounts, labeled tens of thousands of posts, and more &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p6#a231012p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

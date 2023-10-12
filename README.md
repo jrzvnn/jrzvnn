@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Sam Altman is the largest investor in Humane, which plans to unveil its AI Pin next month, with a 14.93% equity; Humane&#39;s two co-founders own 13% each &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/231012/p27#a231012p27)
  - [Save $1,100 on Apple&#39;s 16-inch MacBook Pro with 32GB RAM, now just $1,799](https://appleinsider.com/articles/23/10/12/save-1100-on-apples-16-inch-macbook-pro-with-32gb-ram-now-just-1799?utm_medium=rss)
  - [Bayonetta director Hideki Kamiya isn’t retiring](https://www.theverge.com/2023/10/12/23914228/hideki-kamiya-bayonetta-platinum-games-retiring-youtube)
  - [Over 220 VC firms, including Bessemer and GGV, sign a statement in support of Israel and call for the investor community to support Israel&#39;s tech ecosystem &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231012/p26#a231012p26)
- - [Adobe is working on generative AI video manipulation](https://www.theverge.com/2023/10/12/23914278/adobe-max-project-fast-fill-ai-video-generative-fill)
- - [&#39;Star Trek: Infinite&#39; grand galactic strategy game lands on Mac](https://appleinsider.com/articles/23/10/12/star-trek-infinite-grand-galactic-strategy-game-lands-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2023     - CNET](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

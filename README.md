@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 💣 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
- - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
+ - 😝 [The impossible goal by Roberto Carlos](http://9gag.com/gag/a7qBNPA)
+ - 💣 [Da Caat](http://9gag.com/gag/aBdMGoN)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 👉 [This aged like a fine wine](http://9gag.com/gag/a5XAjMy)<!-- MEMES:END -->
 
 ---
 

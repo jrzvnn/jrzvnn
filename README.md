@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
+ - [China-based EHang received approval from Chinese regulators for its fully autonomous drone that carries two passengers, the first such approval in the world &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231013/p9#a231013p9)
+ - [The Whole of the &#39;Whole Earth Catalog&#39; Is Now Online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
  - [In five hours of cross-examination, SBF&#39;s lawyers did not elicit any revelations or inconsistencies from Caroline Ellison, who said SBF made &quot;terrible mistakes&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p8#a231013p8)
- - [Canon begins selling nanoimprint chip machines, which skip photolithography to impress circuit patterns on the wafer, likely avoiding trade curbs, to rival ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p7#a231013p7)
- - [Google tests adding a Discover Feed to its valuable desktop homepage](https://www.theverge.com/2023/10/13/23915480/google-discover-feed-desktop-homepage-experiment)
- - [Sources: Didi plans a 2024 Hong Kong IPO, after delisting from the NYSE in 2022, and is valued at ~$16B, down from $80B when Chinese regulators opened a probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p6#a231013p6)
- - [Pixel 8 Pro Face Unlock fooled by user’s brother with distinctly different face](https://www.androidauthority.com/pixel-8-pro-face-unlock-fooled-3375672/)<!-- TECH:END -->
+ - [Over 48 October Amazon Prime Day Deals Under $25 That Are Still Available     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-still-remaining/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

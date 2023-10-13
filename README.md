@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
  - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 💣 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 

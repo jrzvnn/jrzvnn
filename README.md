@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether promotes long-time CTO Paolo Ardoino to CEO, starting in December, and envisions becoming a &quot;tech-centric organization&quot;; current CEO will be an advisor &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231013/p13#a231013p13)
+ - [Biden administration doles out $7 billion for hydrogen hubs](https://www.theverge.com/2023/10/13/23915270/biden-funding-hydrogen-hubs)
+ - [TSMC expects to receive US permission to supply its China plant with US chipmaking tools indefinitely, in an easing of US restrictions on chipmakers in China &lpar;Reuters&rpar;](http://www.techmeme.com/231013/p12#a231013p12)
  - [How the next generation of semiconductor factories kicked up a fight over environmental review](https://www.theverge.com/2023/10/13/23895050/semiconductor-factory-nepa-environmental-review)
- - [Google Pixel Watch 2 Review: About Time](https://www.wired.com/review/google-pixel-watch-2/)
- - [AI brings back the voice of a deceased Cyberpunk 2077 actor for Phantom Liberty](https://www.theverge.com/2023/10/13/23915535/cyberpunk-2077-phantom-liberty-polish-voice-actor-ai-ripperdock-viktor-vektor)
- - [21 Phone Deals You Can Still Get After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
- - [iPhone 16 Pro rumored to get faster 5G, Wi-Fi 7, camera improvements](https://appleinsider.com/articles/23/10/13/iphone-16-pro-rumored-to-get-faster-5g-wi-fi-7-camera-improvements?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel Watch 2 Review: About Time](https://www.wired.com/review/google-pixel-watch-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

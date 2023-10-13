@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Squid Game reality show has an official release date](https://www.theverge.com/2023/10/13/23916079/netflix-squid-game-the-challenge-reality-show-release-date)
+ - [I am dying to know who purchased a new Wii U in September](https://www.theverge.com/2023/10/13/23915974/new-wii-u-sold-september-2023)
+ - [Nvidia plans to raise the price of GeForce Now game streaming service in Canada and European countries in November, citing &quot;increased operational costs&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231013/p20#a231013p20)
  - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)
- - [French government leaks late October release date for iOS 17.1](https://appleinsider.com/articles/23/10/13/french-government-leaks-late-october-release-date-for-ios-171?utm_medium=rss)
- - [The Pixel Watch now takes longer to charge after firmware update](https://www.androidauthority.com/pixel-watch-charging-speed-3375878/)
- - [Watch iFixit tear down the Meta Quest 3 in this beautifully shot video](https://www.theverge.com/2023/10/13/23915962/meta-quest-3-teardown-ifixit-replace-battery)
- - [Microsoft spent $170B+ on acquisitions since Satya Nadella became CEO, helping it to nearly triple its revenue and rapidly expand in sectors like AI and gaming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231013/p18#a231013p18)<!-- TECH:END -->
+ - [French government leaks late October release date for iOS 17.1](https://appleinsider.com/articles/23/10/13/french-government-leaks-late-october-release-date-for-ios-171?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

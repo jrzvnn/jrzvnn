@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Roblox CEO David Baszucki on launching the game on PlayStation, ads that leverage a 3D experience, building an &quot;autonomous network&quot; for China, and more &lpar;The Verge&rpar;](http://www.techmeme.com/231013/p5#a231013p5)
+ - [The Tensor G3 was supposed to be more powerful than what it currently is](https://www.androidauthority.com/google-tensor-g3-nerfed-3375665/)
  - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)
  - [UK CMA approves Microsoft&#39;s ~$69B acquisition of Activision Blizzard, after Microsoft restructured the deal to sell Activision&#39;s cloud gaming rights to Ubisoft &lpar;Samuel Tolbert/Windows Central&rpar;](http://www.techmeme.com/231013/p4#a231013p4)
- - [Xiaomi’s next flagship will ditch the curves for an all-flat look: Leak](https://www.androidauthority.com/xiaomi-14-pro-design-leak-3375638/)
- - [Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
- - [Israeli tech founders and investors say that 10% to 15% of their staff are among the country&#39;s 360K reservists, a potentially unprecedented industry disruption &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/231013/p3#a231013p3)<!-- TECH:END -->
+ - [Xiaomi’s next flagship will ditch the curves for an all-flat look: Leak](https://www.androidauthority.com/xiaomi-14-pro-design-leak-3375638/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

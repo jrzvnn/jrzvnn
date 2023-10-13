@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)
+ - [UK CMA approves Microsoft&#39;s ~$69B acquisition of Activision Blizzard, after Microsoft restructured the deal to sell Activision&#39;s cloud gaming rights to Ubisoft &lpar;Samuel Tolbert/Windows Central&rpar;](http://www.techmeme.com/231013/p4#a231013p4)
  - [Xiaomi’s next flagship will ditch the curves for an all-flat look: Leak](https://www.androidauthority.com/xiaomi-14-pro-design-leak-3375638/)
  - [Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
- - [Israeli tech founders and investors say that 10% to 15% of their staff are among the country&#39;s 360K reservists, a potentially unprecedented industry disruption &lpar;Financial Times&rpar;](http://www.techmeme.com/231013/p3#a231013p3)
- - [PitchBook and NVCA report: in Q3 2023, US VC deal value fell to its lowest level since Q2 2018, and US deal count is on track for its lowest year since 2019 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231013/p2#a231013p2)
- - [Hands-on with Sony&#39;s PlayStation Access and a Q&amp;A with PlayStation executive Alvin Daniel on designing the customizable accessibility controller, cost, and more &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/231013/p1#a231013p1)<!-- TECH:END -->
+ - [Israeli tech founders and investors say that 10% to 15% of their staff are among the country&#39;s 360K reservists, a potentially unprecedented industry disruption &lpar;Financial Times&rpar;](http://www.techmeme.com/231013/p3#a231013p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

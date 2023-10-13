@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink plans to offer its satellite-based Direct to Cell service to LTE phones first for texting in 2024, and voice and data and IoT support in 2025 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/231012/p37#a231012p37)
- - [The Rick and Morty season 7 premiere gets right to moving on to bigger, better things](https://www.theverge.com/23906715/rick-and-morty-season-7-premiere-review)
- - [How is it still getting worse for Sam Bankman-Fried?](https://www.theverge.com/2023/10/12/23915108/sam-bankman-fried-ftx-alameda-caroline-ellison-lawyers)
- - [Filing: Qualcomm plans to cut 1,258 jobs in California, including 750+ from its engineering ranks, starting in mid-December 2023; the company has ~50K employees &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/231012/p36#a231012p36)
- - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PC streaming service Shadow discloses security breach](https://www.theverge.com/2023/10/12/23915206/shadow-pc-streaming-service-security-breach)
+ - [Over 40 October Amazon Prime Day Deals Under $25 That Are Still Available     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-still-remaining/#ftag=CAD590a51e)
+ - [Over 70 Great Post-Prime Day Deals You Can Still Grab for $50 or Less     - CNET](https://www.cnet.com/deals/october-prime-day-under-50-still-available/#ftag=CAD590a51e)
+ - [EU is formally investigating X over content about the Israel-Hamas war](https://www.theverge.com/2023/10/12/23914862/eu-x-elon-musk-european-commission-probe-dsa-digital-services-act-hamas-israel)
+ - [25+ October Prime Day Deals Under $10 To Grab Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-10-day-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

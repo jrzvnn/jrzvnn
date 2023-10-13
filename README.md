@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 💣 [When the Propaganda video gets interrupted by air raid sirens in Palestine. The dead rise\u2026](http://9gag.com/gag/amAym52)
+ - 😝 [WTF? This is UN funded education? UNRWA?](http://9gag.com/gag/aREGowQ)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
  - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
+ - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
 
 ---
 

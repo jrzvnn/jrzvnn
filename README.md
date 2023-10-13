@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Didi plans a 2024 Hong Kong listing, following its 2022 NYSE delisting, and is valued at ~$16B, down from $80B when Chinese regulators opened a probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p6#a231013p6)
  - [Pixel 8 Pro Face Unlock fooled by user’s brother with distinctly different face](https://www.androidauthority.com/pixel-8-pro-face-unlock-fooled-3375672/)
  - [Q&amp;A with Roblox CEO David Baszucki on launching the game on PlayStation, ads that leverage a 3D experience, building an &quot;autonomous network&quot; for China, and more &lpar;The Verge&rpar;](http://www.techmeme.com/231013/p5#a231013p5)
  - [The Tensor G3 was supposed to be more powerful than what it currently is](https://www.androidauthority.com/google-tensor-g3-nerfed-3375665/)
- - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)
- - [UK CMA approves Microsoft&#39;s ~$69B acquisition of Activision Blizzard, after Microsoft restructured the deal to sell Activision&#39;s cloud gaming rights to Ubisoft &lpar;Samuel Tolbert/Windows Central&rpar;](http://www.techmeme.com/231013/p4#a231013p4)<!-- TECH:END -->
+ - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s popular $249 Prime Day iPad deal has been extended](https://appleinsider.com/articles/23/10/13/amazons-popular-249-prime-day-ipad-deal-has-been-extended?utm_medium=rss)
  - [How to change your name on Facebook](https://www.androidauthority.com/change-name-facebook-3143054/)
  - [17 iPhone and Android Deals Still Available After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
  - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)
- - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)
- - [Sources: the Biden administration is considering closing a loophole that gives Chinese companies access to US AI chips through overseas subsidiaries &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p39#a231012p39)<!-- TECH:END -->
+ - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

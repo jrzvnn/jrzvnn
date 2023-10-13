@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Hands-on with Sony&#39;s PlayStation Access and a Q&amp;A with PlayStation executive Alvin Daniel on designing the customizable accessibility controller, cost, and more &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/231013/p1#a231013p1)
+ - [Best Earplugs for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
  - [Antenna: YouTube&#39;s NFL Sunday Ticket attracted an estimated 1.3M signups, vs. 1.2M reportedly under DirecTV; ~41% of the NFL subscribers are new to YouTube TV &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/231012/p40#a231012p40)
  - [Amazon&#39;s popular $249 Prime Day iPad deal has been extended](https://appleinsider.com/articles/23/10/13/amazons-popular-249-prime-day-ipad-deal-has-been-extended?utm_medium=rss)
- - [How to change your name on Facebook](https://www.androidauthority.com/change-name-facebook-3143054/)
- - [17 iPhone and Android Deals Still Available After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to change your name on Facebook](https://www.androidauthority.com/change-name-facebook-3143054/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

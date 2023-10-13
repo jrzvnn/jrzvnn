@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wild Golbat appears. The wild Golbat used Attract.](http://9gag.com/gag/amAyMN6)
- - 😝 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
- - 💣 [Wtf defense move.](http://9gag.com/gag/az2zOVK)
+ - 😝 [Wow, just wow](http://9gag.com/gag/agob4Ox)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 💣 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)<!-- MEMES:END -->
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 

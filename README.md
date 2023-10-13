@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dozens of stalking victims join AirTag class action suit against Apple](https://appleinsider.com/articles/23/10/13/dozens-of-stalking-victims-join-airtag-class-action-suit-against-apple?utm_medium=rss)
+ - [Netflix is opening physical stores where you can literally Netflix and Chill out](https://www.androidauthority.com/netflix-house-stores-3375729/)
  - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
  - [China-based EHang received approval from Chinese regulators for its fully autonomous drone that carries two passengers, the first such approval in the world &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231013/p9#a231013p9)
- - [The Whole of the &#39;Whole Earth Catalog&#39; Is Now Online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)
- - [In five hours of cross-examination, SBF&#39;s lawyers did not elicit any revelations or inconsistencies from Caroline Ellison, who said SBF made &quot;terrible mistakes&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p8#a231013p8)
- - [Over 48 October Amazon Prime Day Deals Under $25 That Are Still Available     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-still-remaining/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Whole of the &#39;Whole Earth Catalog&#39; Is Now Online](https://www.wired.com/story/whole-earth-catalog-now-online-internet-archive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

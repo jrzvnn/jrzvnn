@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
- - 😝 [The impossible goal by Roberto Carlos](http://9gag.com/gag/a7qBNPA)
- - 💣 [Da Caat](http://9gag.com/gag/aBdMGoN)
- - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [This aged like a fine wine](http://9gag.com/gag/a5XAjMy)<!-- MEMES:END -->
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 👉 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)<!-- MEMES:END -->
 
 ---
 

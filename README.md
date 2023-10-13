@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
- - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 

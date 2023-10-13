@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
  - 💣 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
  - 😝 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
- - 👉 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)<!-- MEMES:END -->
+ - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 ---
 

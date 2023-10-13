@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 😝 [Hunters killers](http://9gag.com/gag/aA07Oq2)
+ - 😝 [She didn&#39;t see it comings](http://9gag.com/gag/a8q9wKO)
+ - 💣 [Aight, imma head out](http://9gag.com/gag/az2z4bK)
+ - 😝 [It required two posts for her whole picture.](http://9gag.com/gag/a9qeOB1)
+ - 👉 [Your momma is so fat.](http://9gag.com/gag/aoK6YDx)<!-- MEMES:END -->
 
 ---
 

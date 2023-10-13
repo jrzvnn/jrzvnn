@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
  - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
  - 👉 [A helpful hand](http://9gag.com/gag/aQEKmpr)<!-- MEMES:END -->
 
 ---

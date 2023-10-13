@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft finally closes Activision Blizzard deal, welcomes PS5 players](https://www.androidauthority.com/microsoft-activision-blizzard-deal-close-3375836/)
+ - [Best Buy will no longer carry physical movies in 2024, and I am no longer whole](https://www.theverge.com/2023/10/13/23915567/best-buy-discontinue-physical-media-dvd-blu-ray)
+ - [Long custom iMac order times don&#39;t mean that a refresh is imminent](https://appleinsider.com/articles/23/10/13/long-custom-imac-order-times-dont-mean-that-a-refresh-is-imminent?utm_medium=rss)
  - [Meta says it’s cracking down on violent content following Hamas attacks](https://www.theverge.com/2023/10/13/23915742/meta-israel-hamas-content-moderation-arabic-hebrew-speakers)
- - [Weekend flash deal: Microsoft Windows 11 Pro discounted to $29.97](https://appleinsider.com/articles/23/10/13/weekend-flash-deal-microsoft-windows-11-pro-discounted-to-2997?utm_medium=rss)
- - [Apple TV+ shows off &#39;Monarch: Legacy of Monsters&#39; at Comic Con](https://appleinsider.com/articles/23/10/13/apple-tv-shows-off-monarch-legacy-of-monsters-at-comic-con?utm_medium=rss)
- - [X’s Sneaky New Ads Might Be Illegal](https://www.wired.com/story/xs-sneaky-new-ads-might-be-illegal/)
- - [Victrola’s Sonos-ready Stream Onyx turntable is on sale for $200 off](https://www.theverge.com/2023/10/13/23914398/victrola-stream-onyx-sonos-turntable-nintendo-switch-oled-sony-speaker-deal-sale)<!-- TECH:END -->
+ - [Weekend flash deal: Microsoft Windows 11 Pro discounted to $29.97](https://appleinsider.com/articles/23/10/13/weekend-flash-deal-microsoft-windows-11-pro-discounted-to-2997?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

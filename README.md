@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Activision Blizzard Deal Changes the Game](https://www.wired.com/story/microsoft-activision-blizzard-deal-closes/)
- - [Mojo Vision, which pivoted from smart contact lenses to making microLED display tech, raised a $21.1M Series A extension, bringing its Series A to $43.5M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231013/p17#a231013p17)
- - [Apple’s new Godzilla series crushes its biggest challenge](https://www.theverge.com/23913217/monarch-legacy-of-monsters-apple-nycc-preview-godzilla)
- - [How to watch the rare ‘ring of fire’ solar eclipse without burning your eyes](https://www.theverge.com/2023/10/13/23915654/annular-solar-eclipse-ring-of-fire-how-to-watch-safely)
- - [ADT’s next security system could be a worthy Nest Secure successor](https://www.theverge.com/2023/10/13/23915644/adt-google-security-system-nest-secure-leak)<!-- TECH:END -->
+ - [Meta says it’s cracking down on violent content following Hamas attacks](https://www.theverge.com/2023/10/13/23915742/meta-israel-hamas-content-moderation-arabic-hebrew-speakers)
+ - [Weekend flash deal: Microsoft Windows 11 Pro discounted to $29.97](https://appleinsider.com/articles/23/10/13/weekend-flash-deal-microsoft-windows-11-pro-discounted-to-2997?utm_medium=rss)
+ - [Apple TV+ shows off &#39;Monarch: Legacy of Monsters&#39; at Comic Con](https://appleinsider.com/articles/23/10/13/apple-tv-shows-off-monarch-legacy-of-monsters-at-comic-con?utm_medium=rss)
+ - [X’s Sneaky New Ads Might Be Illegal](https://www.wired.com/story/xs-sneaky-new-ads-might-be-illegal/)
+ - [Victrola’s Sonos-ready Stream Onyx turntable is on sale for $200 off](https://www.theverge.com/2023/10/13/23914398/victrola-stream-onyx-sonos-turntable-nintendo-switch-oled-sony-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

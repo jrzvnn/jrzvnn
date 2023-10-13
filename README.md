@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF? This is UN funded education? UNRWA?](http://9gag.com/gag/aREGowQ)
+ - 😝 [Sonic enjoying spa](http://9gag.com/gag/a7qBp9L)
+ - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
  - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 💣 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 👉 [Darwin Awards](http://9gag.com/gag/aVb8KKn)<!-- MEMES:END -->
+ - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
 
 ---
 

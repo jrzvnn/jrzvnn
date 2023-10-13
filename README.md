@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus 12 could get a price hike, but there’s good news too](https://www.androidauthority.com/oneplus-12-price-increase-3375668/)
  - [The Annular Solar Eclipse Will Decimate US Solar Energy Output](https://www.wired.com/story/annular-solar-eclipse-decimate-us-solar-energy/)
  - [HTTP/2 Rapid Reset: A New Protocol Vulnerability Will Haunt the Web for Years](https://www.wired.com/story/http-2-rapid-reset-flaw/)
  - [CD Projekt used AI to recreate the voice of Mi&amp;#322;ogost Reczek, a Polish voice actor who died in 2021, for Cyberpunk 2077&#39;s new Polish DLC, after asking his family &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231013/p10#a231013p10)
- - [Apple TV+ takes us back to Mars with &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/10/13/apple-tv-takes-us-back-to-mars-with-for-all-mankind?utm_medium=rss)
- - [The Pixel 8 Pro does better than the iPhone 15 Pro Max in durability tests](https://www.androidauthority.com/google-pixel-8-pro-durability-test-3375707/)<!-- TECH:END -->
+ - [Apple TV+ takes us back to Mars with &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/10/13/apple-tv-takes-us-back-to-mars-with-for-all-mankind?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

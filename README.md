@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Pixel 8 Pro Face Unlock fooled by user’s brother with distinctly different face](https://www.androidauthority.com/pixel-8-pro-face-unlock-fooled-3375672/)
  - [Q&amp;A with Roblox CEO David Baszucki on launching the game on PlayStation, ads that leverage a 3D experience, building an &quot;autonomous network&quot; for China, and more &lpar;The Verge&rpar;](http://www.techmeme.com/231013/p5#a231013p5)
  - [The Tensor G3 was supposed to be more powerful than what it currently is](https://www.androidauthority.com/google-tensor-g3-nerfed-3375665/)
- - [Google dropped UWB support for the Pixel Watch 2, and that’s a shame](https://www.androidauthority.com/google-pixel-watch-2-uwb-support-3373449/)<!-- TECH:END -->
+ - [Taylor Swift&#39;s Eras Tour Concert Film Hits Theaters Today. Here&#39;s What You Need To Know     - CNET](https://www.cnet.com/culture/entertainment/heres-what-you-need-to-know-about-the-eras-tour-concert-film-before-it-comes-out-on-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

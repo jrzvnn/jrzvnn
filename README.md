@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Comcast cable internet with 2-gigabit uploads is rolling out soon](https://www.theverge.com/2023/10/13/23916047/comcast-2gbps-internet-symmetrical-upload-docsis-4-0)
  - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)
  - [After Adobe announced its $20B Figma acquisition in September 2022, the deal has stalled due to regulatory challenges and Adobe has shifted its attention to AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231013/p22#a231013p22)
  - [Vintage Apple gear auction includes 8GB original iPhone still in shipping box](https://appleinsider.com/articles/23/10/13/vintage-apple-gear-auction-includes-8gb-original-iphone-still-in-shipping-box?utm_medium=rss)
- - [Get Apple&#39;s new 15-inch MacBook Air with 16GB RAM, 1TB SSD for as low as $1,599](https://appleinsider.com/articles/23/10/13/get-apples-new-15-inch-macbook-air-with-16gb-ram-1tb-ssd-for-as-low-as-1599?utm_medium=rss)
- - [Best Samsung Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Apple&#39;s new 15-inch MacBook Air with 16GB RAM, 1TB SSD for as low as $1,599](https://appleinsider.com/articles/23/10/13/get-apples-new-15-inch-macbook-air-with-16gb-ram-1tb-ssd-for-as-low-as-1599?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

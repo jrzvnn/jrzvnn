@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sonic enjoying spa](http://9gag.com/gag/a7qBp9L)
- - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
  - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 ---
 

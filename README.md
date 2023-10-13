@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hunters killers](http://9gag.com/gag/aA07Oq2)
- - 😝 [She didn&#39;t see it comings](http://9gag.com/gag/a8q9wKO)
- - 💣 [Aight, imma head out](http://9gag.com/gag/az2z4bK)
- - 😝 [It required two posts for her whole picture.](http://9gag.com/gag/a9qeOB1)
- - 👉 [Your momma is so fat.](http://9gag.com/gag/aoK6YDx)<!-- MEMES:END -->
+ - 😝 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

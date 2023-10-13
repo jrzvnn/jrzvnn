@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
- - 😝 [Wtf defense move.](http://9gag.com/gag/az2zOVK)
- - 💣 [This aged like a fine wine](http://9gag.com/gag/a5XAjMy)
- - 😝 [Da Caat](http://9gag.com/gag/aBdMGoN)
- - 👉 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)<!-- MEMES:END -->
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 💣 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
+ - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
+ - 👉 [Why?](http://9gag.com/gag/a1Pn0LP)<!-- MEMES:END -->
 
 ---
 

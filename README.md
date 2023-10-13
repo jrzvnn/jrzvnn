@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [How to customize the lock screen in Android 14](https://www.theverge.com/23915662/android-14-lock-screen-customize-how-to)
- - [Apple Arcade: Every New Game Arriving in October     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
  - [How Microsoft placated EU and UK regulators via private deals with its rivals, got a US labor union support, and beat FTC in court to close the Activision deal &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p16#a231013p16)
  - [ADT’s next security system could be a worthy Nest Secure successor](https://www.theverge.com/2023/10/13/23915644/adt-google-security-system-nest-secure-leak)
- - [iOS 17 Cheat Sheet: What You Should Know About the iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-you-should-know-about-the-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Newly leaked OnePlus Open images shows the foldable in gold](https://www.androidauthority.com/oneplus-open-oppo-find-n3-leak-3375810/)
+ - [Microsoft and Activision Blizzard: the latest news on the acquisition](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

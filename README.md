@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ADT’s next security system could be a worthy Nest Secure successor](https://www.theverge.com/2023/10/13/23915644/adt-google-security-system-nest-secure-leak)
  - [Newly leaked OnePlus Open images shows the foldable in gold](https://www.androidauthority.com/oneplus-open-oppo-find-n3-leak-3375810/)
  - [Microsoft and Activision Blizzard: the latest news on the acquisition](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)
  - [iPhone 15 Pro video gear, cases, and rumored OLED iPads on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/13/iphone-15-pro-video-gear-cases-and-rumored-oled-ipads-on-the-appleinsider-podcast?utm_medium=rss)
- - [NASA’s Psyche Mission Is Off to Test a Space Laser &lpar;for Communications&rpar;](https://www.wired.com/story/nasas-psyche-mission-is-off-to-test-a-space-laser-for-communications/)
- - [Woot Slashes Up to 80% Off Echelon Fitness Equipment     - CNET](https://www.cnet.com/deals/woot-slashes-up-to-80-off-echelon-fitness-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA’s Psyche Mission Is Off to Test a Space Laser &lpar;for Communications&rpar;](https://www.wired.com/story/nasas-psyche-mission-is-off-to-test-a-space-laser-for-communications/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

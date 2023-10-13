@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [Slash not giving a f about up staging MJ](http://9gag.com/gag/a8q92re)
+ - 💣 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 👉 [A helpful hand](http://9gag.com/gag/aQEKmpr)<!-- MEMES:END -->
 
 ---

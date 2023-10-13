@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hunters killers](http://9gag.com/gag/aA07Oq2)
- - 😝 [Man being man](http://9gag.com/gag/aA07XbE)
- - 💣 [He went too far into the dream](http://9gag.com/gag/a3ZD2yN)
- - 😝 [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
- - 👉 [Point at someone and blow them up](http://9gag.com/gag/aeQE7Lq)<!-- MEMES:END -->
+ - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 

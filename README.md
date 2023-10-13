@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ takes us back to Mars with &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/10/13/apple-tv-takes-us-back-to-mars-with-for-all-mankind?utm_medium=rss)
  - [The Pixel 8 Pro does better than the iPhone 15 Pro Max in durability tests](https://www.androidauthority.com/google-pixel-8-pro-durability-test-3375707/)
  - [Dozens of stalking victims join AirTag class action suit against Apple](https://appleinsider.com/articles/23/10/13/dozens-of-stalking-victims-join-airtag-class-action-suit-against-apple?utm_medium=rss)
  - [Netflix is opening physical stores where you can literally Netflix and Chill out](https://www.androidauthority.com/netflix-house-stores-3375729/)
- - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)
- - [China-based EHang received approval from Chinese regulators for its fully autonomous drone that carries two passengers, the first such approval in the world &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231013/p9#a231013p9)<!-- TECH:END -->
+ - [Check your cable stashes, because this old Apple dongle is worth $200](https://appleinsider.com/articles/23/10/11/check-your-cable-stashes-because-this-apple-dongle-is-worth-200?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

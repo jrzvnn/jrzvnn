@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 😝 [Tehran? No, Vienna.](http://9gag.com/gag/aEqbDGe)
- - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
  - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
  - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 

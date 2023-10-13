@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI brings back the voice of a deceased Cyberpunk 2077 actor for Phantom Liberty](https://www.theverge.com/2023/10/13/23915535/cyberpunk-2077-phantom-liberty-polish-voice-actor-ai-ripperdock-viktor-vektor)
+ - [21 Phone Deals You Can Still Get After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
  - [iPhone 16 Pro rumored to get faster 5G, Wi-Fi 7, camera improvements](https://appleinsider.com/articles/23/10/13/iphone-16-pro-rumored-to-get-faster-5g-wi-fi-7-camera-improvements?utm_medium=rss)
  - [Meta responds to EU misinformation concerns regarding the Israel-Hamas war, saying it has created a new operations center, restricted some hashtags, and more &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231013/p11#a231013p11)
- - [The OnePlus 12 could get a price hike, but there’s good news too](https://www.androidauthority.com/oneplus-12-price-increase-3375668/)
- - [The Annular Solar Eclipse Will Decimate US Solar Energy Output](https://www.wired.com/story/annular-solar-eclipse-decimate-us-solar-energy/)
- - [HTTP/2 Rapid Reset: A New Protocol Vulnerability Will Haunt the Web for Years](https://www.wired.com/story/http-2-rapid-reset-flaw/)<!-- TECH:END -->
+ - [The OnePlus 12 could get a price hike, but there’s good news too](https://www.androidauthority.com/oneplus-12-price-increase-3375668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

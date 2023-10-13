@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [How to change your name on Facebook](https://www.androidauthority.com/change-name-facebook-3143054/)
- - [Sources: the Biden administration is considering closing a loophole that gives Chinese companies access to US AI chips through overseas subsidiaries &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p39#a231012p39)
- - [How to turn off your active status on Facebook](https://www.androidauthority.com/turn-off-active-status-facebook-3143035/)
- - [Best October Prime Day Deals on Earbuds and Headphones: These Prices Won&#39;t Stick Around     - CNET](https://www.cnet.com/deals/best-october-prime-day-deals-on-earbuds-and-headphones-airpods-pro-2-hit-189-but-the-clock-is-ticking/#ftag=CAD590a51e)
- - [Best Post-Prime Day Apple Deals Surprisingly Still Available     - CNET](https://www.cnet.com/deals/best-october-prime-day-apple-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [17 iPhone and Android Deals Still Available After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
+ - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)
+ - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)
+ - [Sources: the Biden administration is considering closing a loophole that gives Chinese companies access to US AI chips through overseas subsidiaries &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p39#a231012p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

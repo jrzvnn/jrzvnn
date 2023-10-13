@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Franz is the creepy thing that lives in your phone](https://www.theverge.com/23914680/franz-virtual-companion-horror-game-ice-pick-lodge-ios-review)
+ - [&#39;Dear David&#39; Is the Final Gasp of a Dying Internet](https://www.wired.com/story/dear-david-most-internet-movie/)
+ - [How will driverless cars ‘talk’ to pedestrians? Waymo has a few ideas](https://www.theverge.com/2023/10/13/23913251/waymo-roof-dome-communicate-intent-pedestrian-driver)
  - [Bobby Kotick will stay at Activision Blizzard until the end of this year](https://www.theverge.com/2023/10/13/23915559/activision-blizzard-ceo-steps-down-kotick-microsoft)
- - [Read Xbox chief Phil Spencer’s memo welcoming Activision Blizzard employees to Microsoft](https://www.theverge.com/2023/10/13/23915634/microsoft-xbox-internal-memo-chief-spencer-activision-blizzard-completion)
- - [Rumor: iPad mini 7 &#39;Jelly Scrolling&#39; in portrait will be improved](https://appleinsider.com/articles/23/10/13/rumor-ipad-mini-7-jelly-scrolling-in-portrait-will-be-improved?utm_medium=rss)
- - [US House Republicans Had Their Phones Confiscated to Stop Leaks](https://www.wired.com/story/us-house-phones-confiscated/)
- - [The Google-Fitbit integration needs work](https://www.theverge.com/2023/10/13/23914675/google-fitbit-integration-pixel-watch-2-server-outage)<!-- TECH:END -->
+ - [Read Xbox chief Phil Spencer’s memo welcoming Activision Blizzard employees to Microsoft](https://www.theverge.com/2023/10/13/23915634/microsoft-xbox-internal-memo-chief-spencer-activision-blizzard-completion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)
+ - [French government leaks late October release date for iOS 17.1](https://appleinsider.com/articles/23/10/13/french-government-leaks-late-october-release-date-for-ios-171?utm_medium=rss)
  - [The Pixel Watch now takes longer to charge after firmware update](https://www.androidauthority.com/pixel-watch-charging-speed-3375878/)
  - [Watch iFixit tear down the Meta Quest 3 in this beautifully shot video](https://www.theverge.com/2023/10/13/23915962/meta-quest-3-teardown-ifixit-replace-battery)
- - [Microsoft spent $170B+ on acquisitions since Satya Nadella became CEO, helping it to nearly triple its revenue and rapidly expand in sectors like AI and gaming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231013/p18#a231013p18)
- - [The Motorola Edge 2023 gets a $100 price drop just days after launch](https://www.androidauthority.com/motorola-edge-2023-deal-3375873/)
- - [Rumors of a ‘Global Day of Jihad’ Have Unleashed a Dangerous Wave of Disinformation](https://www.wired.com/story/day-of-jihad-disinformation-israel-palestine/)<!-- TECH:END -->
+ - [Microsoft spent $170B+ on acquisitions since Satya Nadella became CEO, helping it to nearly triple its revenue and rapidly expand in sectors like AI and gaming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231013/p18#a231013p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

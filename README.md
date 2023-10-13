@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
- - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
+ - 😝 [Share your forbidden photos, Friday the 13th is almost here.](http://9gag.com/gag/ay2AR2r)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 ---
 

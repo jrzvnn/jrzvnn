@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia is raising the price of GeForce Now, but not in the US](https://www.theverge.com/2023/10/13/23916159/nvidia-geforce-now-price-increase)
+ - [A student&#39;s AI tool wins a global contest to read the text inside a carbonized Herculaneum scroll, which had been unreadable since a volcanic eruption in AD 79 &lpar;Jo Marchant/Nature&rpar;](http://www.techmeme.com/231013/p21#a231013p21)
  - [Here’s Mario’s new voice actor](https://www.theverge.com/2023/10/13/23916232/super-mario-bros-wonder-new-voice-kevin-afghani)
  - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Grab These Prime Day Laptop Deals Before They Expire     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)
- - [Mint gives you a Pixel 8 and 12-month plan for less than the phone price](https://www.androidauthority.com/mint-pixel-8-deals-3375910/)<!-- TECH:END -->
+ - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

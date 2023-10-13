@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Ghost Duet` - Louie Zong](http://9gag.com/gag/a8q901p)
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 💣 [Just an answer to the video claiming there&#39;s no videos of party goers that were shot while fleeing](http://9gag.com/gag/aVb8Kvv)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
  - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 💣 [When the Propaganda video gets interrupted by air raid sirens in Palestine. The dead rise\u2026](http://9gag.com/gag/amAym52)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 👉 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)<!-- MEMES:END -->
 
 ---
 

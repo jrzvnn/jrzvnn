@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to customize the lock screen in Android 14](https://www.theverge.com/23915662/android-14-lock-screen-customize-how-to)
  - [How Microsoft placated EU and UK regulators via private deals with its rivals, got a US labor union support, and beat FTC in court to close the Activision deal &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p16#a231013p16)
  - [ADT’s next security system could be a worthy Nest Secure successor](https://www.theverge.com/2023/10/13/23915644/adt-google-security-system-nest-secure-leak)
  - [Newly leaked OnePlus Open images shows the foldable in gold](https://www.androidauthority.com/oneplus-open-oppo-find-n3-leak-3375810/)
- - [Microsoft and Activision Blizzard: the latest news on the acquisition](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)
- - [iPhone 15 Pro video gear, cases, and rumored OLED iPads on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/13/iphone-15-pro-video-gear-cases-and-rumored-oled-ipads-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft and Activision Blizzard: the latest news on the acquisition](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

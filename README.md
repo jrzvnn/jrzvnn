@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi’s next flagship will ditch the curves for an all-flat look: Leak](https://www.androidauthority.com/xiaomi-14-pro-design-leak-3375638/)
+ - [Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
+ - [Israeli tech founders and investors say that 10% to 15% of their staff are among the country&#39;s 360K reservists, a potentially unprecedented industry disruption &lpar;Financial Times&rpar;](http://www.techmeme.com/231013/p3#a231013p3)
  - [PitchBook and NVCA report: in Q3 2023, US VC deal value fell to its lowest level since Q2 2018, and US deal count is on track for its lowest year since 2019 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/231013/p2#a231013p2)
- - [Hands-on with Sony&#39;s PlayStation Access and a Q&amp;A with PlayStation executive Alvin Daniel on designing the customizable accessibility controller, cost, and more &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/231013/p1#a231013p1)
- - [Best Earplugs for Sleeping in 2023     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
- - [Antenna: YouTube&#39;s NFL Sunday Ticket attracted an estimated 1.3M signups, vs. 1.2M reportedly under DirecTV; ~41% of the NFL subscribers are new to YouTube TV &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/231012/p40#a231012p40)
- - [Amazon&#39;s popular $249 Prime Day iPad deal has been extended](https://appleinsider.com/articles/23/10/13/amazons-popular-249-prime-day-ipad-deal-has-been-extended?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Sony&#39;s PlayStation Access and a Q&amp;A with PlayStation executive Alvin Daniel on designing the customizable accessibility controller, cost, and more &lpar;Ed Nightingale/Eurogamer.net&rpar;](http://www.techmeme.com/231013/p1#a231013p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

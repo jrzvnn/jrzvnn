@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mint gives you a Pixel 8 and 12-month plan for less than the phone price](https://www.androidauthority.com/mint-pixel-8-deals-3375910/)
+ - [The best emulators for Steam Deck](https://www.androidauthority.com/best-emulators-for-steam-deck-3375838/)
  - [Netflix’s Squid Game reality show has an official release date](https://www.theverge.com/2023/10/13/23916079/netflix-squid-game-the-challenge-reality-show-release-date)
  - [I am dying to know who purchased a new Wii U in September](https://www.theverge.com/2023/10/13/23915974/new-wii-u-sold-september-2023)
- - [Nvidia plans to raise the price of GeForce Now game streaming service in Canada and European countries in November, citing &quot;increased operational costs&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231013/p20#a231013p20)
- - [A look at Microsoft&#39;s deal with Ubisoft, which has the cloud gaming rights for Call of Duty and other Activision games outside of the EU for the next 15 years &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p19#a231013p19)
- - [French government leaks late October release date for iOS 17.1](https://appleinsider.com/articles/23/10/13/french-government-leaks-late-october-release-date-for-ios-171?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia plans to raise the price of GeForce Now game streaming service in Canada and European countries in November, citing &quot;increased operational costs&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231013/p20#a231013p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

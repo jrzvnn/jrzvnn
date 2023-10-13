@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Nvidia is raising the price of GeForce Now, but not in the US](https://www.theverge.com/2023/10/13/23916159/nvidia-geforce-now-price-increase)
  - [A student&#39;s AI tool wins a global contest to read the text inside a carbonized Herculaneum scroll, which had been unreadable since a volcanic eruption in AD 79 &lpar;Jo Marchant/Nature&rpar;](http://www.techmeme.com/231013/p21#a231013p21)
  - [Here’s Mario’s new voice actor](https://www.theverge.com/2023/10/13/23916232/super-mario-bros-wonder-new-voice-kevin-afghani)
- - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Best Remaining October Prime Day Video Game Deals     - CNET](https://www.cnet.com/deals/best-remaining-october-prime-day-video-game-deals/#ftag=CAD590a51e)
+ - [Prices of Medicare Premiums Are Going Up in 2024. Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/prices-of-medicare-premiums-are-going-up-in-2024-heres-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

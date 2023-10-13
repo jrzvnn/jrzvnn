@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow, just wow](http://9gag.com/gag/agob4Ox)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
- - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 😝 [I knew america would have war withdraws.](http://9gag.com/gag/aPg0Q5B)
+ - 😝 [Wtf defense move.](http://9gag.com/gag/az2zOVK)
+ - 💣 [This aged like a fine wine](http://9gag.com/gag/a5XAjMy)
+ - 😝 [Da Caat](http://9gag.com/gag/aBdMGoN)
+ - 👉 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)<!-- MEMES:END -->
 
 ---
 

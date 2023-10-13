@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
  - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
  - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---

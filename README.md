@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 39 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Mint gives you a Pixel 8 and 12-month plan for less than the phone price](https://www.androidauthority.com/mint-pixel-8-deals-3375910/)
  - [The best emulators for Steam Deck](https://www.androidauthority.com/best-emulators-for-steam-deck-3375838/)
- - [Netflix’s Squid Game reality show has an official release date](https://www.theverge.com/2023/10/13/23916079/netflix-squid-game-the-challenge-reality-show-release-date)
- - [I am dying to know who purchased a new Wii U in September](https://www.theverge.com/2023/10/13/23915974/new-wii-u-sold-september-2023)
- - [Nvidia plans to raise the price of GeForce Now game streaming service in Canada and European countries in November, citing &quot;increased operational costs&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231013/p20#a231013p20)<!-- TECH:END -->
+ - [Netflix’s Squid Game reality show has an official release date](https://www.theverge.com/2023/10/13/23916079/netflix-squid-game-the-challenge-reality-show-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
- - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
+ - 💣 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
 
 ---
 

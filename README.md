@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch iFixit tear down the Meta Quest 3 in this beautifully shot video](https://www.theverge.com/2023/10/13/23915962/meta-quest-3-teardown-ifixit-replace-battery)
+ - [Microsoft spent $170B+ on acquisitions since Satya Nadella became CEO, helping it to nearly triple its revenue and rapidly expand in sectors like AI and gaming &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231013/p18#a231013p18)
  - [The Motorola Edge 2023 gets a $100 price drop just days after launch](https://www.androidauthority.com/motorola-edge-2023-deal-3375873/)
  - [Rumors of a ‘Global Day of Jihad’ Have Unleashed a Dangerous Wave of Disinformation](https://www.wired.com/story/day-of-jihad-disinformation-israel-palestine/)
- - [Ubisoft and Activision Blizzard’s deal for cloud gaming rights, explained](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained)
- - [Godzilla’s got some new friends in Monarch: Legacy of Monsters’ latest trailer](https://www.theverge.com/2023/10/13/23915831/apple-monarch-legacy-of-monsters-godzilla-eggs)
- - [Microsoft finally closes Activision Blizzard deal, welcomes PS5 players](https://www.androidauthority.com/microsoft-activision-blizzard-deal-close-3375836/)<!-- TECH:END -->
+ - [Ubisoft and Activision Blizzard’s deal for cloud gaming rights, explained](https://www.theverge.com/2023/10/13/23915780/ubisoft-activision-blizzard-microsoft-cloud-gaming-rights-deal-explained)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

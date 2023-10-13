@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
+ - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
  - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 
 ---
 

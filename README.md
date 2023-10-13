@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Sources: the Biden administration is considering closing a loophole that gives Chinese companies access to US AI chips through overseas subsidiaries &lpar;Reuters&rpar;](http://www.techmeme.com/231012/p39#a231012p39)
  - [How to turn off your active status on Facebook](https://www.androidauthority.com/turn-off-active-status-facebook-3143035/)
- - [The UN&#39;s top internet governance body plans to hold its 2024 conference in Riyadh, despite Saudi Arabia engaging in digital surveillance and censorship &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/231012/p38#a231012p38)
- - [PC streaming service Shadow discloses security breach](https://www.theverge.com/2023/10/12/23915206/shadow-pc-streaming-service-security-breach)
- - [Over 40 October Amazon Prime Day Deals Under $25 That Are Still Available     - CNET](https://www.cnet.com/deals/october-prime-day-deals-under-25-still-remaining/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best October Prime Day Deals on Earbuds and Headphones: These Prices Won&#39;t Stick Around     - CNET](https://www.cnet.com/deals/best-october-prime-day-deals-on-earbuds-and-headphones-airpods-pro-2-hit-189-but-the-clock-is-ticking/#ftag=CAD590a51e)
+ - [Best Post-Prime Day Apple Deals Surprisingly Still Available     - CNET](https://www.cnet.com/deals/best-october-prime-day-apple-deals-still-available/#ftag=CAD590a51e)
+ - [The UN&#39;s top internet governance body plans to hold its 2024 conference in Riyadh, despite Saudi Arabia engaging in digital surveillance and censorship &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/231012/p38#a231012p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

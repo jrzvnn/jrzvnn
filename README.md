@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
  - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
  - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
  - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 ---

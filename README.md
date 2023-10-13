@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your forbidden photos, Friday the 13th is almost here.](http://9gag.com/gag/ay2AR2r)
- - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 💣 [Why?](http://9gag.com/gag/a1Pn0LP)
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 💣 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [Why?](http://9gag.com/gag/a1Pn0LP)
  - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 ---

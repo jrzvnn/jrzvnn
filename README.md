@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [Too many RedFlags. Maybe i should stop sympathizing these people.](http://9gag.com/gag/aBdMXr1)
- - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [We need more people like that in 9gag](http://9gag.com/gag/ay2A1ep)<!-- MEMES:END -->
+ - 😝 [360-degree view of Mars captured by the Mars Curiosity Rover, with real sound](http://9gag.com/gag/abvoRR8)
+ - 😝 [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
+ - 💣 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
+ - 👉 [Point at someone and blow them up](http://9gag.com/gag/aeQE7Lq)<!-- MEMES:END -->
 
 ---
 

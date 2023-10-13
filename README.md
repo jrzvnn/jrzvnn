@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 😝 [Wow, just wow](http://9gag.com/gag/agob4Ox)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
  - 💣 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
- - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
- - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
+ - 😝 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
+ - 👉 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)<!-- MEMES:END -->
 
 ---
 

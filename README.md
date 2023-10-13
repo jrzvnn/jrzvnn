@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow, just wow](http://9gag.com/gag/agob4Ox)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 💣 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - 😝 [Help I guess](http://9gag.com/gag/abvoO9v)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [Wow, just wow](http://9gag.com/gag/agob4Ox)
  - 😝 [\ud83c\udf81Meme This Giveaway \ud83c\udf81 The AORUS Z790 X Gen motherboards are the most powerful platforms ever built for the next-gen Intel\u00ae Core\u2122 processors. Meme this in the comments now. You can submit more than once.](http://9gag.com/gag/a1PnVrw)
  - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
 

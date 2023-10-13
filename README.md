@@ -166,7 +166,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Wow, just wow](http://9gag.com/gag/agob4Ox)
  - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 💣 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [2 Blondes](http://9gag.com/gag/aeQExAv)
  - 😝 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)
  - 👉 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 

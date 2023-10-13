@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Google tests adding a Discover Feed to its valuable desktop homepage](https://www.theverge.com/2023/10/13/23915480/google-discover-feed-desktop-homepage-experiment)
- - [Sources: Didi plans a 2024 Hong Kong listing, following its 2022 NYSE delisting, and is valued at ~$16B, down from $80B when Chinese regulators opened a probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p6#a231013p6)
+ - [Sources: Didi plans a 2024 Hong Kong IPO, after delisting from the NYSE in 2022, and is valued at ~$16B, down from $80B when Chinese regulators opened a probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/231013/p6#a231013p6)
  - [Pixel 8 Pro Face Unlock fooled by user’s brother with distinctly different face](https://www.androidauthority.com/pixel-8-pro-face-unlock-fooled-3375672/)
  - [Q&amp;A with Roblox CEO David Baszucki on launching the game on PlayStation, ads that leverage a 3D experience, building an &quot;autonomous network&quot; for China, and more &lpar;The Verge&rpar;](http://www.techmeme.com/231013/p5#a231013p5)
  - [The Tensor G3 was supposed to be more powerful than what it currently is](https://www.androidauthority.com/google-tensor-g3-nerfed-3375665/)<!-- TECH:END -->

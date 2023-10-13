@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK allows Microsoft&#39;s Activision deal with token change over cloud gaming](https://appleinsider.com/articles/23/10/13/uk-allows-microsofts-activision-deal-with-token-change-over-cloud-gaming?utm_medium=rss)
- - [Microsoft completes Activision Blizzard acquisition, Call of Duty now part of Xbox](https://www.theverge.com/2023/10/13/23791235/microsoft-activision-blizzard-acquisition-complete-finalized)
- - [Tether promotes long-time CTO Paolo Ardoino to CEO, starting in December, and envisions becoming a &quot;tech-centric organization&quot;; current CEO will be an advisor &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231013/p13#a231013p13)
- - [Biden administration doles out $7 billion for hydrogen hubs](https://www.theverge.com/2023/10/13/23915270/biden-funding-hydrogen-hubs)
- - [TSMC expects to receive US permission to supply its China plant with US chipmaking tools indefinitely, in an easing of US restrictions on chipmakers in China &lpar;Reuters&rpar;](http://www.techmeme.com/231013/p12#a231013p12)<!-- TECH:END -->
+ - [The Google-Fitbit integration needs work](https://www.theverge.com/2023/10/13/23914675/google-fitbit-integration-pixel-watch-2-server-outage)
+ - [Microsoft completes Activision Blizzard acquisition after a 20-month battle with regulators in the UK and US; Bobby Kotick will remain CEO until the end of 2023 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p14#a231013p14)
+ - [The Curse of the Creator Economy](https://www.wired.com/story/plaintext-the-curse-of-the-creator-economy/)
+ - [How to Watch Saturday’s Solar Eclipse](https://www.wired.com/story/how-to-watch-saturdays-solar-eclipse/)
+ - [Asus Chromebook Plus CX34 review: a simple, smart purchase](https://www.theverge.com/23914934/asus-chromebook-plus-cx34-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

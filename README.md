@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [iPhone 15 Pro video gear, cases, and rumored OLED iPads on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/13/iphone-15-pro-video-gear-cases-and-rumored-oled-ipads-on-the-appleinsider-podcast?utm_medium=rss)
  - [NASA’s Psyche Mission Is Off to Test a Space Laser &lpar;for Communications&rpar;](https://www.wired.com/story/nasas-psyche-mission-is-off-to-test-a-space-laser-for-communications/)
+ - [Woot Slashes Up to 80% Off Echelon Fitness Equipment     - CNET](https://www.cnet.com/deals/woot-slashes-up-to-80-off-echelon-fitness-equipment/#ftag=CAD590a51e)
  - [Daily deals Oct. 13: $1,500 off 2TB MacBook Pro, up to 49% off iPad Pro, Samsung Odyssey G9 $899, more](https://appleinsider.com/articles/23/10/13/daily-deals-oct-13-1500-off-2tb-macbook-pro-up-to-49-off-ipad-pro-samsung-odyssey-g9-899-more?utm_medium=rss)
- - [India rolls back plans announced on August 3 to impose restrictions on laptop imports, saying it &quot;only wants importers to be on close watch&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231013/p15#a231013p15)
- - [Franz is the creepy thing that lives in your phone](https://www.theverge.com/23914680/franz-virtual-companion-horror-game-ice-pick-lodge-ios-review)<!-- TECH:END -->
+ - [India rolls back plans announced on August 3 to impose restrictions on laptop imports, saying it &quot;only wants importers to be on close watch&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231013/p15#a231013p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Open rumors: Expected release date, price, specs, what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
  - [Xiaomi 14 rumors: Expected release date, specs, price, and what we know so far](https://www.androidauthority.com/xiaomi-14-3355519/)
  - [As China-linked Bitcoin mines open across the US, officials raise national security concerns, like about a Wyoming mine that is close to a nuclear missile base &lpar;New York Times&rpar;](http://www.techmeme.com/231013/p23#a231013p23)
  - [YouTube is the latest large platform to face EU scrutiny regarding the war in Israel](https://www.theverge.com/2023/10/13/23916318/youtube-eu-scrutiny-israel-hamas-war-thierry-breton-sundar-pichai)
- - [Comcast cable internet with 2-gigabit uploads is rolling out soon](https://www.theverge.com/2023/10/13/23916047/comcast-2gbps-internet-symmetrical-upload-docsis-4-0)
- - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)<!-- TECH:END -->
+ - [Comcast cable internet with 2-gigabit uploads is rolling out soon](https://www.theverge.com/2023/10/13/23916047/comcast-2gbps-internet-symmetrical-upload-docsis-4-0)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

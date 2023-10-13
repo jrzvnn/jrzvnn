@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 👉 [A helpful hand](http://9gag.com/gag/aQEKmpr)<!-- MEMES:END -->
+ - 😝 [Hunters killers](http://9gag.com/gag/aA07Oq2)
+ - 😝 [Man being man](http://9gag.com/gag/aA07XbE)
+ - 💣 [He went too far into the dream](http://9gag.com/gag/a3ZD2yN)
+ - 😝 [He found the TURBO Button](http://9gag.com/gag/az2zY6N)
+ - 👉 [Point at someone and blow them up](http://9gag.com/gag/aeQE7Lq)<!-- MEMES:END -->
 
 ---
 

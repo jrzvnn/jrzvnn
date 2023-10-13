@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antenna: YouTube&#39;s NFL Sunday Ticket attracted an estimated 1.3M signups, vs. 1.2M reportedly under DirecTV; ~41% of the NFL subscribers are new to YouTube TV &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/231012/p40#a231012p40)
  - [Amazon&#39;s popular $249 Prime Day iPad deal has been extended](https://appleinsider.com/articles/23/10/13/amazons-popular-249-prime-day-ipad-deal-has-been-extended?utm_medium=rss)
  - [How to change your name on Facebook](https://www.androidauthority.com/change-name-facebook-3143054/)
  - [17 iPhone and Android Deals Still Available After Prime Day     - CNET](https://www.cnet.com/deals/best-october-prime-day-phone-deals-still-available/#ftag=CAD590a51e)
- - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)
- - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET](https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

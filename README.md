@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case...](http://9gag.com/gag/aYVBP1V)
- - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - 💣 [Why?](http://9gag.com/gag/a1Pn0LP)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
  - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 👉 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)<!-- MEMES:END -->
+ - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [Even before the placenta drops](http://9gag.com/gag/avQV6vX)<!-- MEMES:END -->
 
 ---
 

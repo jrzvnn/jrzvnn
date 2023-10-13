@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [After Adobe announced its $20B Figma acquisition in September 2022, the deal has stalled due to regulatory challenges and Adobe has shifted its attention to AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231013/p22#a231013p22)
  - [Vintage Apple gear auction includes 8GB original iPhone still in shipping box](https://appleinsider.com/articles/23/10/13/vintage-apple-gear-auction-includes-8gb-original-iphone-still-in-shipping-box?utm_medium=rss)
  - [Get Apple&#39;s new 15-inch MacBook Air with 16GB RAM, 1TB SSD for as low as $1,599](https://appleinsider.com/articles/23/10/13/get-apples-new-15-inch-macbook-air-with-16gb-ram-1tb-ssd-for-as-low-as-1599?utm_medium=rss)
- - [Nvidia is raising the price of GeForce Now, but not in the US](https://www.theverge.com/2023/10/13/23916159/nvidia-geforce-now-price-increase)
- - [A student wins a contest to read the text inside a carbonized Roman scroll, which had been unreadable since a volcanic eruption in AD 79, using an ML algorithm &lpar;Jo Marchant/Nature&rpar;](http://www.techmeme.com/231013/p21#a231013p21)<!-- TECH:END -->
+ - [Best Samsung Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [$80 October Prime Day Discount Drops the 9th-Gen iPad Back Down to All-Time Low     - CNET](https://www.cnet.com/deals/apples-ipad-returns-best-price-to-date/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [UK CMA approves Microsoft&#39;s ~$69B acquisition of Activision Blizzard, after Microsoft restructured the deal to sell Activision&#39;s cloud gaming rights to Ubisoft &lpar;Samuel Tolbert/Windows Central&rpar;](http://www.techmeme.com/231013/p4#a231013p4)
  - [Xiaomi’s next flagship will ditch the curves for an all-flat look: Leak](https://www.androidauthority.com/xiaomi-14-pro-design-leak-3375638/)
  - [Microsoft’s Activision Blizzard deal approved by UK regulators](https://www.theverge.com/2023/10/13/23796552/microsoft-activision-blizzard-cma-approval-uk)
- - [Israeli tech founders and investors say that 10% to 15% of their staff are among the country&#39;s 360K reservists, a potentially unprecedented industry disruption &lpar;Financial Times&rpar;](http://www.techmeme.com/231013/p3#a231013p3)<!-- TECH:END -->
+ - [Israeli tech founders and investors say that 10% to 15% of their staff are among the country&#39;s 360K reservists, a potentially unprecedented industry disruption &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/231013/p3#a231013p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

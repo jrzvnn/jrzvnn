@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
  - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 👉 [Just in case...](http://9gag.com/gag/aYVBP1V)<!-- MEMES:END -->
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 👉 [A helpful hand](http://9gag.com/gag/aQEKmpr)<!-- MEMES:END -->
 
 ---
 

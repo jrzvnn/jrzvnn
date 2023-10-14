@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Dustin Moskovitz&#39;s Open Philanthropy is funding the salaries of staff across Congress and federal agencies, pushing a focus on AI&#39;s long-term risks &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231014/p8#a231014p8)
  - [The Pixel Buds Pro’ new conversation mode is a game changer](https://www.androidauthority.com/pixel-buds-pro-conversation-detection-3375789/)
  - [Deeno X1500 Portable Power Station review: Good balance of cost and flexibility](https://appleinsider.com/articles/23/10/14/deeno-x1500-portable-power-station-review-good-balance-of-cost-and-flexibility?utm_medium=rss)
  - [AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
- - [USA vs. Germany Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-germany-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [GPT4-V, the new mode of GPT-4 that lets users upload images as part of conversations, allows for prompt injection attacks by following instructions in images &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231014/p7#a231014p7)<!-- TECH:END -->
+ - [USA vs. Germany Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-germany-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

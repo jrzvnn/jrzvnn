@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Beats Fit Pro vs Beats Studio Buds Plus: What’s the difference?](https://www.androidauthority.com/beats-fit-pro-vs-beats-studio-buds-plus-3375920/)
  - [Is your X ad revenue sharing payment smaller than you expected?](https://www.theverge.com/2023/10/13/23916539/x-twitter-ad-sharing-revenue-premium-accounts)
+ - [Free Solar Panels: What&#39;s in the Fine Print?     - CNET](https://www.cnet.com/home/energy-and-utilities/free-solar-panels/#ftag=CAD590a51e)
  - [Apple’s new video reactions are making therapy incredibly awkward](https://www.theverge.com/2023/10/13/23916475/apple-video-reactions-telehealth-therapy-awkward-simplepractice)
- - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)
- - [OnePlus Open rumors: Expected release date, price, specs, what we know so far](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)<!-- TECH:END -->
+ - [OnePlus 12 rumors: Expected release date, price, specs, and what we know so far](https://www.androidauthority.com/oneplus-12-3325848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

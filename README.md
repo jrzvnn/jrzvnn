@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [I was excited for the Galaxy S23 FE but I bought a Pixel 8 instead](https://www.androidauthority.com/pixel-8-vs-galaxy-s23-fe-value-3375486/)
  - [How Influencers played a key role in boosting the popularity of Riot Game&#39;s Valorant among Gen Z gamers; Riot says 70% of Valorant players are Generation Z &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231014/p5#a231014p5)
- - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [The US Congress Was Targeted With Predator Spyware](https://www.wired.com/story/us-congress-spyware/)
- - [How to Get a Refund for the Tampon Tax &lpar;2023&rpar;](https://www.wired.com/story/tampon-tax-refund-periods/)<!-- TECH:END -->
+ - [OLED vs. LED vs. MiniLED vs. LCD: What&#39;s the Best?     - CNET](https://www.cnet.com/tech/home-entertainment/oled-vs-led-vs-miniled-vs-lcd-whats-the-best/#ftag=CAD590a51e)
+ - [T-Mobile&#39;s Forced Plan Migration: How That Impacts Your Next Bill and How You Can Opt Out     - CNET](https://www.cnet.com/tech/mobile/t-mobile-forced-plan-migration-how-that-impacts-your-next-bill-how-you-can-opt-out/#ftag=CAD590a51e)
+ - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

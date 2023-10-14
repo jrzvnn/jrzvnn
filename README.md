@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deeno X1500 Portable Power Station review: Good balance of cost and flexibility](https://appleinsider.com/articles/23/10/14/deeno-x1500-portable-power-station-review-good-balance-of-cost-and-flexibility?utm_medium=rss)
  - [AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
  - [GPT4-V, the new mode of GPT-4 that lets users upload images as part of conversations, allows for prompt injection attacks by following instructions in images &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231014/p7#a231014p7)
  - [Apple defends IAP against Japanese government App Store report](https://appleinsider.com/articles/23/10/14/apple-defends-iap-against-japanese-government-app-store-report?utm_medium=rss)
- - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)
- - [Are Your COVID Tests Really Expired? Find Out Here     - CNET](https://www.cnet.com/health/are-your-covid-tests-really-expired-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

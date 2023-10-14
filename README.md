@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Toxic femininity at it....again](http://9gag.com/gag/adPMdj9)
- - 😝 [Images of pro-Palestinian demonstrations in Poland and Hungary](http://9gag.com/gag/aGEqoxZ)
- - 💣 [Men want only one thing...and it is disgusting!](http://9gag.com/gag/ajVjdr8)
- - 😝 [How to help this tick back into the forest ..](http://9gag.com/gag/az2zQQN)
- - 👉 [Aight, imma head out](http://9gag.com/gag/az2z4bK)<!-- MEMES:END -->
+ - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
+ - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

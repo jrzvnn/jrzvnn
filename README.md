@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $172 on a Windows 11 Pro License With This Incredible Deal     - CNET](https://www.cnet.com/deals/save-172-on-a-windows-11-pro-license-before-this-deal-runs-out/#ftag=CAD590a51e)
  - [I was excited for the Galaxy S23 FE but I bought a Pixel 8 instead](https://www.androidauthority.com/pixel-8-vs-galaxy-s23-fe-value-3375486/)
- - [How Influencers played a key role in boosting the popularity of Riot Game&#39;s Valorant among Gen Z gamers; Riot says 70% of Valorant players are Generation Z &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231014/p5#a231014p5)
- - [OLED vs. LED vs. MiniLED vs. LCD: What&#39;s the Best?     - CNET](https://www.cnet.com/tech/home-entertainment/oled-vs-led-vs-miniled-vs-lcd-whats-the-best/#ftag=CAD590a51e)
- - [T-Mobile&#39;s Forced Plan Migration: How That Impacts Your Next Bill and How You Can Opt Out     - CNET](https://www.cnet.com/tech/mobile/t-mobile-forced-plan-migration-how-that-impacts-your-next-bill-how-you-can-opt-out/#ftag=CAD590a51e)
- - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-october-2023/#ftag=CAD590a51e)
+ - [12 Best Foods for Eyes     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-for-eye-health/#ftag=CAD590a51e)
+ - [USB-C or Lightning, Both AirPods Pro 2 Versions Are Still Available at a Discount     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-still-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really? Right in front of my salad?](http://9gag.com/gag/a1PnxMb)
- - 😝 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
- - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
+ - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 😝 [WOMEN](http://9gag.com/gag/axo8A8M)
+ - 💣 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)
+ - 😝 [Pikachu face](http://9gag.com/gag/a4o8xLA)
+ - 👉 [New Disney](http://9gag.com/gag/abvodoX)<!-- MEMES:END -->
 
 ---
 

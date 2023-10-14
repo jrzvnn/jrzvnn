@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aight, imma head out](http://9gag.com/gag/az2z4bK)
- - 😝 [Water in Gaza](http://9gag.com/gag/abvodMr)
- - 💣 [Men want only one thing...and it is disgusting!](http://9gag.com/gag/ajVjdr8)
- - 😝 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)
- - 👉 [Good job Denmark, no to freeloaders](http://9gag.com/gag/aeQEdej)<!-- MEMES:END -->
+ - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 😝 [Really? Right in front of my salad?](http://9gag.com/gag/a1PnxMb)
+ - 💣 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
+ - 😝 [Just an ordinary day in London underground.](http://9gag.com/gag/ay2AQnY)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

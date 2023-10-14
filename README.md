@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Happy Otoya Yamaguchi Day! \ud83c\uddef\ud83c\uddf5](http://9gag.com/gag/a1PnOEv)
  - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 😝 [We need more people like that in 9gag](http://9gag.com/gag/ay2A1ep)
  - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 👉 [Happy Otoya Yamaguchi Day! \ud83c\uddef\ud83c\uddf5](http://9gag.com/gag/a1PnOEv)<!-- MEMES:END -->
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

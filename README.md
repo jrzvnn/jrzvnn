@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 😝 [Slash not giving a f about up staging MJ](http://9gag.com/gag/a8q92re)
- - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
+ - 😝 [He went too far into the dream](http://9gag.com/gag/a3ZD2yN)
+ - 😝 [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
+ - 💣 [It sure is windy out today!](http://9gag.com/gag/a6qzjW9)
+ - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 👉 [Hamas and Palestinians riot and commit Jihad in Warsaw, Poland\u2026.](http://9gag.com/gag/aeQEWpj)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)
- - 😝 [Pikachu face](http://9gag.com/gag/a4o8xLA)
- - 💣 [WOMEN](http://9gag.com/gag/axo8A8M)
+ - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
  - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 👉 [How stupid are you?](http://9gag.com/gag/a5XAx1o)<!-- MEMES:END -->
+ - 💣 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 😝 [Just an ordinary day in London underground.](http://9gag.com/gag/ay2AQnY)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

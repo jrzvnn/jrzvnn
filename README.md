@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Otoya Yamaguchi Day! \ud83c\uddef\ud83c\uddf5](http://9gag.com/gag/a1PnOEv)
- - 😝 [We need more people like that in 9gag](http://9gag.com/gag/ay2A1ep)
- - 💣 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [That was fun](http://9gag.com/gag/ay2AvVX)
+ - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 💣 [Rules of war by Prophet Muhammad](http://9gag.com/gag/aDYLVBx)
  - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
  - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
 

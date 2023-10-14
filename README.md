@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
+ - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
  - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 💣 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
+ - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
 
 ---
 

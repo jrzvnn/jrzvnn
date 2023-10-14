@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its all about perspective \ud83d\ude0c](http://9gag.com/gag/a6qzpvm)
  - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 💣 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
- - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 😝 [Hamas leader calls for global day of jihad for tomorrow How many governments have raised their alert levels or are warning the people?](http://9gag.com/gag/arm0qE6)
+ - 💣 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 😝 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
  - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
 
 ---

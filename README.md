@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Influencers played a key role in boosting the popularity of Riot Game&#39;s Valorant among Gen Z gamers; Riot says 70% of Valorant players are Generation Z &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231014/p5#a231014p5)
  - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
  - [The US Congress Was Targeted With Predator Spyware](https://www.wired.com/story/us-congress-spyware/)
  - [How to Get a Refund for the Tampon Tax &lpar;2023&rpar;](https://www.wired.com/story/tampon-tax-refund-periods/)
- - [How China’s EV Boom Caught Western Car Companies Asleep at the Wheel](https://www.wired.com/story/how-chinas-ev-boom-caught-western-car-companies-asleep-at-the-wheel/)
- - [11 Must-Play Games on Xbox Game Pass &lpar;October 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
+ - [How China’s EV Boom Caught Western Car Companies Asleep at the Wheel](https://www.wired.com/story/how-chinas-ev-boom-caught-western-car-companies-asleep-at-the-wheel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

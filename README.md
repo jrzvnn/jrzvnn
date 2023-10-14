@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t like advertising on Youtube? Just use an alternative front-end. Invidious, the open source front-end for Youtube. No ads. No tracking.](http://9gag.com/gag/ap9XdpB)
+ - 😝 [Give this officer a raise. His de-escalation skills are absolutely top tier.](http://9gag.com/gag/a9qeVpj)
  - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
  - 💣 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
+ - 😝 [Just an ordinary day in London underground.](http://9gag.com/gag/ay2AQnY)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

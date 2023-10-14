@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 😝 [Hamas leader calls for global day of jihad for tomorrow How many governments have raised their alert levels or are warning the people?](http://9gag.com/gag/arm0qE6)
- - 💣 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
- - 😝 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
- - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
+ - 😝 [Toxic femininity at it....again](http://9gag.com/gag/adPMdj9)
+ - 😝 [Images of pro-Palestinian demonstrations in Poland and Hungary](http://9gag.com/gag/aGEqoxZ)
+ - 💣 [Men want only one thing...and it is disgusting!](http://9gag.com/gag/ajVjdr8)
+ - 😝 [How to help this tick back into the forest ..](http://9gag.com/gag/az2zQQN)
+ - 👉 [Aight, imma head out](http://9gag.com/gag/az2z4bK)<!-- MEMES:END -->
 
 ---
 

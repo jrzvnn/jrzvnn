@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)
- - 😝 [New Disney](http://9gag.com/gag/abvodoX)
- - 💣 [Captain Jack Morgan](http://9gag.com/gag/anz3WYb)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [Well said.](http://9gag.com/gag/aNwXqAw)<!-- MEMES:END -->
+ - 😝 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
+ - 💣 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 👉 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)<!-- MEMES:END -->
 
 ---
 

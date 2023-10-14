@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abandoned Farms Are a Hidden Resource for Restoring Biodiversity](https://www.wired.com/story/abandoned-farms-are-a-hidden-resource-for-restoring-biodiversity/)
- - [REI Co-op Cycles DRT e3.1 Electric Mountain Bike Review: Nimble E-MTB Hits the Dirt Hard](https://www.wired.com/review/rei-co-op-cycles-drt-e31-electric-mountain-bike/)
- - [I’m Charging My Toothbrush With Wireless Power Over Distance—and It’s a Trip](https://www.wired.com/story/wi-charge-hands-on-wireless-power-over-distance/)
- - [The HTTP/2 Rapid Reset flaw, which was exploited to launch record-setting DDoS attacks, requires patching every web server before the problem can be eradicated &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231014/p4#a231014p4)
- - [33 Best Advent Calendars for Kids in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [The US Congress Was Targeted With Predator Spyware](https://www.wired.com/story/us-congress-spyware/)
+ - [How to Get a Refund for the Tampon Tax &lpar;2023&rpar;](https://www.wired.com/story/tampon-tax-refund-periods/)
+ - [How China’s EV Boom Caught Western Car Companies Asleep at the Wheel](https://www.wired.com/story/how-chinas-ev-boom-caught-western-car-companies-asleep-at-the-wheel/)
+ - [11 Must-Play Games on Xbox Game Pass &lpar;October 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

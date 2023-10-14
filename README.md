@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
  - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Slash not giving a f about up staging MJ](http://9gag.com/gag/a8q92re)
+ - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 💣 [We need more people like that in 9gag](http://9gag.com/gag/ay2A1ep)
+ - 😝 [A helpful hand](http://9gag.com/gag/aQEKmpr)
  - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---

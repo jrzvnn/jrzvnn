@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to help this tick back into the forest ..](http://9gag.com/gag/az2zQQN)
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 💣 [Toxic femininity at it....again](http://9gag.com/gag/adPMdj9)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
+ - 💣 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
  - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
+ - 👉 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)<!-- MEMES:END -->
 
 ---
 

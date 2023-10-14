@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 😝 [WOMEN](http://9gag.com/gag/axo8A8M)
- - 💣 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)
+ - 😝 [Even 9gag supports islam.. 2posts down this is 3rd](http://9gag.com/gag/anz3dKq)
  - 😝 [Pikachu face](http://9gag.com/gag/a4o8xLA)
- - 👉 [New Disney](http://9gag.com/gag/abvodoX)<!-- MEMES:END -->
+ - 💣 [WOMEN](http://9gag.com/gag/axo8A8M)
+ - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 👉 [How stupid are you?](http://9gag.com/gag/a5XAx1o)<!-- MEMES:END -->
 
 ---
 

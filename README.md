@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sliding](http://9gag.com/gag/aeQEWOv)
- - 😝 [Pikachu face](http://9gag.com/gag/a4o8xLA)
- - 💣 [Hamas and Palestinians riot and commit Jihad in Warsaw, Poland\u2026.](http://9gag.com/gag/aeQEWpj)
- - 😝 [360-degree view of Mars captured by the Mars Curiosity Rover, with real sound](http://9gag.com/gag/abvoRR8)
- - 👉 [How to help this tick back into the forest ..](http://9gag.com/gag/az2zQQN)<!-- MEMES:END -->
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 😝 [Toxic femininity at it....again](http://9gag.com/gag/adPMdj9)
+ - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 😝 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
+ - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 
 ---
 

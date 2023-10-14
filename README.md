@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the efforts of companies and governments to build their own satellite networks that can deliver internet connectivity anywhere on Earth &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231014/p3#a231014p3)
  - [Cricket World Cup 2023 Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)
  - [The US FTC says it remains focused on its appeal opposing Microsoft&#39;s acquisition of Activision and will &quot;assess&quot; the company&#39;s cloud gaming deal with Ubisoft &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231014/p2#a231014p2)
  - [A California judge allows a group of lawsuits against Meta and others alleging social media is addictive for children to proceed based on a negligence claim &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/231014/p1#a231014p1)
- - [Annular Solar Eclipse Eye Safety: What an Optometrist Wants You to Know     - CNET](https://www.cnet.com/health/personal-care/annular-solar-eclipse-eye-safety-what-an-optometrist-wants-you-to-know/#ftag=CAD590a51e)
- - [A look at TSMC&#39;s Open Innovation Platform, which debuted in 2008 and now involves tens of companies that help TSMC&#39;s clients build better chips more efficiently &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/231013/p25#a231013p25)<!-- TECH:END -->
+ - [Annular Solar Eclipse Eye Safety: What an Optometrist Wants You to Know     - CNET](https://www.cnet.com/health/personal-care/annular-solar-eclipse-eye-safety-what-an-optometrist-wants-you-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

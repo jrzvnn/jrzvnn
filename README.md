@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 Blondes](http://9gag.com/gag/aeQExAv)
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
+ - 😝 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 😝 [Slash not giving a f about up staging MJ](http://9gag.com/gag/a8q92re)
  - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Nya](http://9gag.com/gag/ay2Avrr)
- - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
 
 ---
 

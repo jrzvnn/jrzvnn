@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC says it remains focused on its appeal opposing Microsoft&#39;s acquisition of Activision and will &quot;assess&quot; the company&#39;s cloud gaming deal with Ubisoft &lpar;Diane Bartz/Reuters&rpar;](http://www.techmeme.com/231014/p2#a231014p2)
  - [A California judge allows a group of lawsuits against Meta and others alleging social media is addictive for children to proceed based on a negligence claim &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/231014/p1#a231014p1)
  - [A look at TSMC&#39;s Open Innovation Platform, which debuted in 2008 and now involves tens of companies that help TSMC&#39;s clients build better chips more efficiently &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/231013/p25#a231013p25)
  - [The Best Hotel Mattresses in 2023     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses-in-2023/#ftag=CAD590a51e)
- - [Filing: the US NLRB alleges that X illegally fired an employee in November 2022 in retaliation for her posts challenging the company&#39;s RTO policy &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231013/p24#a231013p24)
- - [The 6 Best Melatonin Supplements of 2023     - CNET](https://www.cnet.com/health/nutrition/6-best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the US NLRB alleges that X illegally fired an employee in November 2022 in retaliation for her posts challenging the company&#39;s RTO policy &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/231013/p24#a231013p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
  - [GPT4-V, the new mode of GPT-4 that lets users upload images as part of conversations, allows for prompt injection attacks by following instructions in images &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231014/p7#a231014p7)
  - [Apple defends IAP against Japanese government App Store report](https://appleinsider.com/articles/23/10/14/apple-defends-iap-against-japanese-government-app-store-report?utm_medium=rss)
  - [Check Out the Best Prime Day Deals Still Available     - CNET](https://www.cnet.com/deals/check-out-the-best-prime-day-deals-still-available/#ftag=CAD590a51e)
- - [Are Your COVID Tests Really Expired? Find Out Here     - CNET](https://www.cnet.com/health/are-your-covid-tests-really-expired-find-out-here/#ftag=CAD590a51e)
- - [Rugby World Cup 2023 Livestream: How to Watch Ireland vs. New Zealand From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/rugby-world-cup-2023-livestream-how-to-watch-ireland-v-new-zealand-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are Your COVID Tests Really Expired? Find Out Here     - CNET](https://www.cnet.com/health/are-your-covid-tests-really-expired-find-out-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

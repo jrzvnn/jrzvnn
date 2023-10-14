@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 😝 [So it begins. Arras, France.](http://9gag.com/gag/aME6OLW)
- - 💣 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [Don&#39;t like advertising on Youtube? Just use an alternative front-end. Invidious, the open source front-end for Youtube. No ads. No tracking.](http://9gag.com/gag/ap9XdpB)
  - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
+ - 💣 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Obsidian, an indie, Electron-based note-taking app that has developed a cult following on Discord and Reddit; Obsidian estimates that it has ~1M users &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/231014/p10#a231014p10)
  - [Benks MagClap StandGo Power Bank review: Adaptive on-the-go pocket battery](https://appleinsider.com/articles/23/10/14/benks-magclap-standgo-power-bank-review-adaptive-on-the-go-pocket-battery?utm_medium=rss)
  - [Caltech ends its Wi-Fi lawsuit against Apple and Broadcom](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent)
  - [Apple TV+ cancels &#39;The Afterparty&#39; after two seasons](https://appleinsider.com/articles/23/10/14/apple-tv-cancels-the-afterparty-after-two-seasons?utm_medium=rss)
- - [Some AI image detectors are labeling real photographs from the Israel-Hamas war as fake, creating what an expert calls a &quot;second level of disinformation&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231014/p9#a231014p9)
- - [The best apps for Google Pixel 8: FlashDim, Google One, and more](https://www.androidauthority.com/google-pixel-8-best-apps-3372729/)<!-- TECH:END -->
+ - [Some AI image detectors are labeling real photographs from the Israel-Hamas war as fake, creating what an expert calls a &quot;second level of disinformation&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/231014/p9#a231014p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

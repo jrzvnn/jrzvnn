@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 💣 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
+ - 😝 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)
+ - 😝 [New Disney](http://9gag.com/gag/abvodoX)
+ - 💣 [Captain Jack Morgan](http://9gag.com/gag/anz3WYb)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 👉 [Well said.](http://9gag.com/gag/aNwXqAw)<!-- MEMES:END -->
 
 ---
 

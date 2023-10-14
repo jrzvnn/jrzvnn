@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He went too far into the dream](http://9gag.com/gag/a3ZD2yN)
- - 😝 [This ever happened to you?](http://9gag.com/gag/ap9XYxp)
- - 💣 [It sure is windy out today!](http://9gag.com/gag/a6qzjW9)
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 👉 [Hamas and Palestinians riot and commit Jihad in Warsaw, Poland\u2026.](http://9gag.com/gag/aeQEWpj)<!-- MEMES:END -->
+ - 😝 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - 😝 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 💣 [In London this lady\u2019s removes posters of children who got kidnapped in Israel of Hamas](http://9gag.com/gag/ajVjyQw)
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 👉 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)<!-- MEMES:END -->
 
 ---
 

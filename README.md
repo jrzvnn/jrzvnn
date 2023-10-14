@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPT4-V, the new mode of GPT-4 that lets users upload images as part of conversations, allows for prompt injection attacks by following instructions in images &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231014/p7#a231014p7)
  - [Apple defends IAP against Japanese government App Store report](https://appleinsider.com/articles/23/10/14/apple-defends-iap-against-japanese-government-app-store-report?utm_medium=rss)
  - [X accused of illegally firing employee who criticized Elon’s return-to-work plan](https://www.theverge.com/2023/10/14/23916931/x-labor-law-violation-nlrb-complaint-fired-return-to-work)
  - [LG’s desk-friendly C3 OLED has dipped below $1,000 for the first time](https://www.theverge.com/2023/10/14/23915891/lg-c3-oled-tv-lego-atari-2600-google-pixel-tablet-deal-sale)
- - [The Microsoft-Activision deal closure shows that tech giants can still grow by getting &quot;vertical mergers&quot; through courts and regulators relatively unscathed &lpar;New York Times&rpar;](http://www.techmeme.com/231014/p6#a231014p6)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-505-3375883/)<!-- TECH:END -->
+ - [The Microsoft-Activision deal closure shows that tech giants can still grow by getting &quot;vertical mergers&quot; through courts and regulators relatively unscathed &lpar;New York Times&rpar;](http://www.techmeme.com/231014/p6#a231014p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

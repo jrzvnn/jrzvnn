@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I’m Charging My Toothbrush With Wireless Power Over Distance—and It’s a Trip](https://www.wired.com/story/wi-charge-hands-on-wireless-power-over-distance/)
  - [The HTTP/2 Rapid Reset flaw, which was exploited to launch record-setting DDoS attacks, requires patching every web server before the problem can be eradicated &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/231014/p4#a231014p4)
  - [COVID-19 Cases Are on the Rise: Order Your Free Test-at-Home Kits Today     - CNET](https://www.cnet.com/health/covid-19-cases-are-on-the-rise-order-your-free-test-at-home-kits-today/#ftag=CAD590a51e)
  - [iOS 17 Has a Fix for All of Those Annoying Two-Factor Authentication Codes in Your Inbox     - CNET](https://www.cnet.com/tech/mobile/ios-17-has-a-fix-for-all-of-those-annoying-two-factor-authentication-codes-in-your-inbox/#ftag=CAD590a51e)
- - [A look at the efforts of companies and governments to build their own satellite networks that can deliver internet connectivity anywhere on Earth &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231014/p3#a231014p3)
- - [Cricket World Cup 2023 Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/cricket-world-cup-2023-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the efforts of companies and governments to build their own satellite networks that can deliver internet connectivity anywhere on Earth &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231014/p3#a231014p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

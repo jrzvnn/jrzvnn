@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 😝 [The best and oldest. Good guy...](http://9gag.com/gag/aGEq20G)
- - 💣 [Hamas militants showed how they make rockets out of water pipes](http://9gag.com/gag/aPg0QQQ)
+ - 😝 [`Gary god dammit`... but Gary has had enough](http://9gag.com/gag/az2zBLj)
+ - 😝 [Slash not giving a f about up staging MJ](http://9gag.com/gag/a8q92re)
+ - 💣 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
  - 😝 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
  - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
 

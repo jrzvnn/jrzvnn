@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Yoga Poses to Try for the Best Sleep Ever     - CNET](https://www.cnet.com/health/sleep/8-best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)
  - [How Dustin Moskovitz&#39;s Open Philanthropy is pushing policymakers to focus on AI&#39;s long-term risks by funding salaries of staff in Congress and federal agencies &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/231014/p8#a231014p8)
  - [The Pixel Buds Pro’ new conversation mode is a game changer](https://www.androidauthority.com/pixel-buds-pro-conversation-detection-3375789/)
  - [Deeno X1500 Portable Power Station review: Good balance of cost and flexibility](https://appleinsider.com/articles/23/10/14/deeno-x1500-portable-power-station-review-good-balance-of-cost-and-flexibility?utm_medium=rss)
- - [AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
- - [USA vs. Germany Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-germany-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sliding](http://9gag.com/gag/aeQEWOv)
- - 😝 [Wonder whats the condition of the Pilot inside this f22](http://9gag.com/gag/az2z4wZ)
- - 💣 [How to help this tick back into the forest ..](http://9gag.com/gag/az2zQQN)
- - 😝 [Hamas and Palestinians riot and commit Jihad in Warsaw, Poland\u2026.](http://9gag.com/gag/aeQEWpj)
- - 👉 [360-degree view of Mars captured by the Mars Curiosity Rover, with real sound](http://9gag.com/gag/abvoRR8)<!-- MEMES:END -->
+ - 😝 [I don&#39;t want this column.](http://9gag.com/gag/aZDKzP3)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/avQVR0q)
+ - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 😝 [Just an ordinary day in London underground.](http://9gag.com/gag/ay2AQnY)
+ - 👉 [Need more guys like that](http://9gag.com/gag/aZDKE43)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid are you?](http://9gag.com/gag/a5XAx1o)
- - 😝 [WOMEN](http://9gag.com/gag/axo8A8M)
- - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 😝 [New Disney](http://9gag.com/gag/abvodoX)
- - 👉 [Captain Jack Morgan](http://9gag.com/gag/anz3WYb)<!-- MEMES:END -->
+ - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
+ - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 💣 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
+ - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
 
 ---
 

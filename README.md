@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just an ordinary day in London underground.](http://9gag.com/gag/ay2AQnY)
  - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
  - 💣 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
- - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 👉 [Just an ordinary day in London underground.](http://9gag.com/gag/ay2AQnY)<!-- MEMES:END -->
+ - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
 
 ---
 

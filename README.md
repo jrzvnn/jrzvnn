@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Microsoft-Activision deal closure shows that tech giants can still grow by getting &quot;vertical mergers&quot; through courts and regulators relatively unscathed &lpar;New York Times&rpar;](http://www.techmeme.com/231014/p6#a231014p6)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-505-3375883/)
  - [Save $172 on a Windows 11 Pro License With This Incredible Deal     - CNET](https://www.cnet.com/deals/save-172-on-a-windows-11-pro-license-before-this-deal-runs-out/#ftag=CAD590a51e)
  - [I was excited for the Galaxy S23 FE but I bought a Pixel 8 instead](https://www.androidauthority.com/pixel-8-vs-galaxy-s23-fe-value-3375486/)
- - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-october-2023/#ftag=CAD590a51e)
- - [12 Best Foods for Eyes     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-for-eye-health/#ftag=CAD590a51e)
- - [USB-C or Lightning, Both AirPods Pro 2 Versions Are Still Available at a Discount     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-still-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Horror Movies on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-october-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

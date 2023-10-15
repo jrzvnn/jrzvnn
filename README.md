@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud83d\ude31 Do your palms get sweaty? On the photo the strongest climber of the planet - Czech Adam Ondra at the finish line of the most difficult route in the world - `Dawn Wall` on the rock of El Capitan in Yosemite &lpar;USA&rpar;.](http://9gag.com/gag/a6qz3eq)
- - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 😝 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
  - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
  - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---

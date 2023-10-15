@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s recent executive promotions; sources: a cheaper Vision Pro may not have EyeSight and M3-based MacBook Pros could come in early or spring 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231015/p5#a231015p5)
  - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
  - [Low-cost Apple Vision Pro could drop external display](https://appleinsider.com/articles/23/10/15/low-cost-apple-vision-pro-could-drop-external-display?utm_medium=rss)
  - [Apple’s cheaper Vision Pro follow-up still won’t be cheap](https://www.theverge.com/2023/10/15/23917710/apple-vision-pro-cheaper-no-eyesight-external-display)
- - [M3 MacBook Pro &amp; MacBook Air edge closer to early 2024 release](https://appleinsider.com/articles/23/10/15/m3-macbook-pro-macbook-air-edge-closer-to-early-2024-release?utm_medium=rss)
- - [Apple&#39;s rumored iPad event could take place on Tuesday](https://appleinsider.com/articles/23/10/15/apples-rumored-ipad-event-could-take-place-on-tuesday?utm_medium=rss)<!-- TECH:END -->
+ - [M3 MacBook Pro &amp; MacBook Air edge closer to early 2024 release](https://appleinsider.com/articles/23/10/15/m3-macbook-pro-macbook-air-edge-closer-to-early-2024-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

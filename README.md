@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Lego Star Wars set, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)
+ - [Topdon TCView TC002 review: Disappointing take on a thermal camera](https://appleinsider.com/articles/23/10/15/topdon-tcview-tc002-review-disappointing-take-on-a-thermal-camera?utm_medium=rss)
+ - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Razor Crest Lego, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)
  - [Should you buy a Pixel 8 or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-8-vs-pixel-8a-3373333/)
  - [Apple&#39;s corporate reshuffle includes many VP promotions](https://appleinsider.com/articles/23/10/15/apples-corporate-reshuffle-includes-many-vp-promotions?utm_medium=rss)
- - [You&#39;ve Only Got One Day Left to Grab This 6-in-1 100W Charging Cable for Over 50% Off     - CNET](https://www.cnet.com/deals/save-56-on-this-lightning-fast-100w-6-in-1-usb-c-charging-cable/#ftag=CAD590a51e)
- - [The Latest M2 MacBook Air Is Still $250 Off at Amazon     - CNET](https://www.cnet.com/deals/the-best-macbook-deal-from-october-prime-day-is-still-running-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;ve Only Got One Day Left to Grab This 6-in-1 100W Charging Cable for Over 50% Off     - CNET](https://www.cnet.com/deals/save-56-on-this-lightning-fast-100w-6-in-1-usb-c-charging-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

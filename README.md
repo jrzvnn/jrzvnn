@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s rumored iPad event could take place on Tuesday](https://appleinsider.com/articles/23/10/15/apples-rumored-ipad-event-could-take-place-on-tuesday?utm_medium=rss)
+ - [Google Pixel&#39;s Magnifier App Makes It Easier to See Small Text, Objects     - CNET](https://www.cnet.com/tech/mobile/google-pixels-magnifier-app-makes-it-easier-to-see-small-text-objects/#ftag=CAD590a51e)
+ - [10 Tips for Taking Care of Your Eyes Naturally     - CNET](https://www.cnet.com/health/personal-care/10-tips-for-taking-care-of-your-eyes-naturally/#ftag=CAD590a51e)
  - [Magnetic Minerals May Have Given Life Its Molecular Asymmetry](https://www.wired.com/story/magnetic-minerals-may-have-given-life-its-molecular-asymmetry/)
- - [Best Gear and Tips to Keep Your Home Warm in the Winter &lpar;2023&rpar;](https://www.wired.com/story/gear-to-winter-proof-your-home/)
- - [Everything you need to track your movies, music, books, and more](https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter)
- - [Researchers find that a modest amount of fine-tuning can undo safety efforts that aim to prevent LLMs such as OpenAI&#39;s GPT-3.5 Turbo from spewing toxic content &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231015/p4#a231015p4)
- - [Should you buy a Google Pixel 8 or wait for the Samsung Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-google-pixel-8-3373845/)<!-- TECH:END -->
+ - [Best Gear and Tips to Keep Your Home Warm in the Winter &lpar;2023&rpar;](https://www.wired.com/story/gear-to-winter-proof-your-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Lego Star Wars set, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)
+ - [Should you buy a Pixel 8 or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-8-vs-pixel-8a-3373333/)
  - [Apple&#39;s corporate reshuffle includes many VP promotions](https://appleinsider.com/articles/23/10/15/apples-corporate-reshuffle-includes-many-vp-promotions?utm_medium=rss)
- - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes?utm_medium=rss)
- - [This iPad Deal From Last Week&#39;s Prime Day Sale Scores You a 2021 Model for Just $249     - CNET](https://www.cnet.com/deals/apples-ipad-returns-best-price-to-date/#ftag=CAD590a51e)
- - [A look at Apple&#39;s recent executive promotions; sources: a cheaper Vision Pro may not have EyeSight and M3-based MacBook Pros could come in early or spring 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231015/p5#a231015p5)
- - [Saints vs. Texans Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/saints-vs-texans-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;ve Only Got One Day Left to Grab This 6-in-1 100W Charging Cable for Over 50% Off     - CNET](https://www.cnet.com/deals/save-56-on-this-lightning-fast-100w-6-in-1-usb-c-charging-cable/#ftag=CAD590a51e)
+ - [The Latest M2 MacBook Air Is Still $250 Off at Amazon     - CNET](https://www.cnet.com/deals/the-best-macbook-deal-from-october-prime-day-is-still-running-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

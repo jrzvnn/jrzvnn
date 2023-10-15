@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Researchers find that a modest amount of fine-tuning can undo safety efforts that aim to prevent LLMs such as OpenAI&#39;s GPT-3.5 Turbo from spewing toxic content &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231015/p4#a231015p4)
  - [Should you buy a Google Pixel 8 or wait for the Samsung Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-google-pixel-8-3373845/)
- - [MLB Playoffs: How to Watch the ALCS and NLCS Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/mlb-playoffs-how-to-watch-the-division-series-today-without-cable/#ftag=CAD590a51e)
- - [iOS 17 Lets You Turn Your Favorite Pictures Into Live Stickers     - CNET](https://www.cnet.com/tech/mobile/ios-17-lets-you-turn-your-favorite-pictures-into-live-stickers/#ftag=CAD590a51e)
- - [5 Tools to Help You Manage Email Newsletter Overload](https://www.wired.com/story/5-tools-manage-email-newsletter-overload/)<!-- TECH:END -->
+ - [5 Tools to Help You Manage Email Newsletter Overload](https://www.wired.com/story/5-tools-manage-email-newsletter-overload/)
+ - [6 Best Mattresses for Side Sleepers &lpar;2023&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
+ - [The Best Christmas Decorations on Amazon in 2023     - CNET](https://www.cnet.com/news/amazon-christmas-decorations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

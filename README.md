@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Minecraft has sold over 300 million copies](https://www.theverge.com/2023/10/15/23916349/minecraft-mojang-sold-300-million-copies-live-2023)
+ - [TSMC founder Morris Chang says the company expects competition from Intel and others, and Japan and Singapore have the best chance of winning the chip race &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/231015/p6#a231015p6)
  - [Apple rumors claim refreshed iPads are coming this week](https://www.theverge.com/2023/10/15/23917926/apple-ipad-air-mini-tablet-m2-a16-bionic-rumor)
- - [Eagles vs. Jets Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-jets-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
- - [Cardinals vs. Rams Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-rams-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
- - [Lions vs. Bucs Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-bucs-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
- - [Patriots vs. Raiders Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/patriots-vs-raiders-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Topdon TCView TC002 review: Disappointing take on a thermal camera](https://appleinsider.com/articles/23/10/15/topdon-tcview-tc002-review-disappointing-take-on-a-thermal-camera?utm_medium=rss)
+ - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Razor Crest Lego, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

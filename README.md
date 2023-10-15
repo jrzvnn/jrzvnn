@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
- - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 😝 [Really? Right in front of my salad?](http://9gag.com/gag/a1PnxMb)
- - 👉 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)<!-- MEMES:END -->
+ - 😝 [Funny little site: Female Delusion Calculator](http://9gag.com/gag/a04GWpd)
+ - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
+ - 💣 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---
 

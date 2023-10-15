@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Up to $300 on Air Purifiers at Molekule&#39;s Fall Sale     - CNET](https://www.cnet.com/deals/save-up-to-300-on-air-purifiers-at-molekules-fall-sale/#ftag=CAD590a51e)
  - [You Can Still Snag the 2nd-Gen AirPods Pro at a Record-Low Price From Walmart     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-still-on-sale/#ftag=CAD590a51e)
  - [How to turn off FaceTime video reactions in iOS 17 and macOS Sonoma](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-facetime-video-reactions-in-ios-17-and-macos-sonoma?utm_medium=rss)
  - [Get Your Hands on a 20W Apple Power Adapter for Just $13     - CNET](https://www.cnet.com/deals/get-your-hands-on-a-20w-apple-power-adapter-for-just-13/#ftag=CAD590a51e)
- - [Your Eye Doctor May See Signs of Heart Disease. Here&#39;s How     - CNET](https://www.cnet.com/health/personal-care/your-eye-doctor-may-see-signs-of-heart-disease-heres-how/#ftag=CAD590a51e)
- - [Minecraft has sold over 300 million copies](https://www.theverge.com/2023/10/15/23916349/minecraft-mojang-sold-300-million-copies-live-2023)<!-- TECH:END -->
+ - [Your Eye Doctor May See Signs of Heart Disease. Here&#39;s How     - CNET](https://www.cnet.com/health/personal-care/your-eye-doctor-may-see-signs-of-heart-disease-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

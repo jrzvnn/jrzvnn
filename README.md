@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
  - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
- - 😝 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
- - 💣 [Post your cursed images!](http://9gag.com/gag/a1PnxK8)
- - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
- - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
+ - 👉 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)<!-- MEMES:END -->
 
 ---
 

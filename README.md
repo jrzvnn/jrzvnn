@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [How Brad Smith, who became Microsoft&#39;s top legal officer in 2002, used a legal, policy, and influence machine costing $1B+ a year to close the Activision deal &lpar;Financial Times&rpar;](http://www.techmeme.com/231015/p2#a231015p2)
  - [Hands-on with Wi-Charge&#39;s wireless charging system that delivers power of up to 2 or 3 watts but requires a line of sight between transmitter and receiver &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/231015/p1#a231015p1)
+ - [Nab the K-Supreme Keurig Bundle for $150 With This QVC Deal     - CNET](https://www.cnet.com/deals/nab-the-k-supreme-keurig-bundle-for-150-with-this-qvc-deal/#ftag=CAD590a51e)
  - [DappRadar: blockchain gaming projects raised $600M in Q3 2023, down 38% YoY, and $2.3B so far in 2023, which is only 30% of what was raised for all of 2022 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231014/p12#a231014p12)
- - [Disney+ Hotstar reclaims the global streaming record for most live concurrent views with 35M watching the October 14 India-Pakistan ICC Cricket World Cup match &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231014/p11#a231014p11)
- - [A look at Obsidian, an indie, Electron-based note-taking app that has developed a cult following on Discord and Reddit; Obsidian estimates that it has ~1M users &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/231014/p10#a231014p10)<!-- TECH:END -->
+ - [Disney+ Hotstar reclaims the global streaming record for most live concurrent views with 35M watching the October 14 India-Pakistan ICC Cricket World Cup match &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231014/p11#a231014p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

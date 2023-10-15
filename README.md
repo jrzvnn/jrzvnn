@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny little site: Female Delusion Calculator](http://9gag.com/gag/a04GWpd)
- - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
- - 💣 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 😝 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
+ - 💣 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
  - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
+ - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
 
 ---
 

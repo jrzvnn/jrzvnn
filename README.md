@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the scream of pure terror](http://9gag.com/gag/agobKV1)
  - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [Riding with the boys](http://9gag.com/gag/aXnzR0z)<!-- MEMES:END -->
+ - 😝 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)
+ - 💣 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)
+ - 😝 [Pls pick me up](http://9gag.com/gag/aGEqo6G)
+ - 👉 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)<!-- MEMES:END -->
 
 ---
 

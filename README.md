@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple rumors claim refreshed iPads are coming this week](https://www.theverge.com/2023/10/15/23917926/apple-ipad-air-mini-tablet-m2-a16-bionic-rumor)
- - [Topdon TCView TC002 review: Disappointing take on a thermal camera](https://appleinsider.com/articles/23/10/15/topdon-tcview-tc002-review-disappointing-take-on-a-thermal-camera?utm_medium=rss)
- - [Daily deals Oct. 15: M1 Max 16&quot; MacBook Pro 32GB RAM $2,399, $112 off iPhone 14 Plus, 30% off Razor Crest Lego, more](https://appleinsider.com/articles/23/10/15/daily-deals-oct-15-m1-max-16-macbook-pro-32gb-ram-2399-112-off-iphone-14-plus-30-off-lego-star-wars-set-more?utm_medium=rss)
- - [Should you buy a Pixel 8 or wait for the Pixel 8a?](https://www.androidauthority.com/google-pixel-8-vs-pixel-8a-3373333/)
- - [Apple&#39;s corporate reshuffle includes many VP promotions](https://appleinsider.com/articles/23/10/15/apples-corporate-reshuffle-includes-many-vp-promotions?utm_medium=rss)<!-- TECH:END -->
+ - [Eagles vs. Jets Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-jets-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Cardinals vs. Rams Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-rams-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Lions vs. Bucs Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-bucs-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Patriots vs. Raiders Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/patriots-vs-raiders-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

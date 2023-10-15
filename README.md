@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 😝 [My friend seemed like a laid back and chill person,I have no idea what caused such a violent reaction. He went as far as cursing my future children and my family.iv never seen him like that. I don&#39;t think I did anything wrong here but I think I&#39;m going to keep away from him.](http://9gag.com/gag/aNwXqB0)
+ - 💣 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
  - 😝 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
+ - 👉 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)<!-- MEMES:END -->
 
 ---
 

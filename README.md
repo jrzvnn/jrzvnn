@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best](http://9gag.com/gag/aKEynvZ)
- - 😝 [Improvisational theatre \ud83c\udfad](http://9gag.com/gag/aGEq6m6)
- - 💣 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)
- - 😝 [Pls pick me up](http://9gag.com/gag/aGEqo6G)
- - 👉 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)<!-- MEMES:END -->
+ - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 😝 [Really? Right in front of my salad?](http://9gag.com/gag/a1PnxMb)
+ - 👉 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)<!-- MEMES:END -->
 
 ---
 

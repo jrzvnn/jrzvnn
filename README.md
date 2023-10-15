@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Should you buy a Google Pixel 8 or wait for the Samsung Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-google-pixel-8-3373845/)
  - [5 Tools to Help You Manage Email Newsletter Overload](https://www.wired.com/story/5-tools-manage-email-newsletter-overload/)
  - [6 Best Mattresses for Side Sleepers &lpar;2023&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
- - [The Best Christmas Decorations on Amazon in 2023     - CNET](https://www.cnet.com/news/amazon-christmas-decorations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A&amp;W Settles for $15M Over Misleading Ad Claims: Days Left to File for Your Money     - CNET](https://www.cnet.com/personal-finance/a-w-settles-for-15m-over-misleading-ad-claims-days-left-to-file-for-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

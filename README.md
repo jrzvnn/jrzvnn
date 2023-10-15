@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pls pick me up](http://9gag.com/gag/aGEqo6G)
- - 😝 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)
- - 💣 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)
- - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
- - 👉 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)<!-- MEMES:END -->
+ - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
+ - 😝 [Wait... I have seen this movie before](http://9gag.com/gag/anz3W7B)
+ - 💣 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia says it fined X ~$384K and warned Google after they failed to give adequate info on their efforts to fight CSAM despite a law requiring the disclosure &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/231015/p8#a231015p8)
  - [How Moscow-based crypto exchange Garantex has become a major money laundering channel for cybercriminals and terror groups like the Palestinian Islamic Jihad &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/231015/p7#a231015p7)
+ - [Solar Panels vs. Tesla Solar Roof: Here&#39;s the Difference     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-versus-tesla-solar-roof/#ftag=CAD590a51e)
  - [Competing rumors cast doubt on October iPad update](https://appleinsider.com/articles/23/10/15/competing-rumors-cast-doubt-on-october-ipad-update?utm_medium=rss)
- - [Best Internet Providers in Charlotte, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
- - [Capturing Yosemite: A Deep Dive With the iPhone 15 Pro Max and 13 Pro Max Cameras     - CNET](https://www.cnet.com/tech/mobile/capturing-yosemite-deep-dive-with-iphone-15-pro-max-13-pro-max-camera/#ftag=CAD590a51e)
- - [ADT Solar Review: Strong Warranties and a Price Match Put It Over the Top     - CNET](https://www.cnet.com/home/energy-and-utilities/is-adt-solar-the-best-solar-installer-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Charlotte, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

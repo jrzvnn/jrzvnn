@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 😝 [Show me your kitties??!!](http://9gag.com/gag/amAydn2)
  - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
- - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)<!-- MEMES:END -->
+ - 💣 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
+ - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 👉 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)<!-- MEMES:END -->
 
 ---
 

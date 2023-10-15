@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 👉 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)<!-- MEMES:END -->
+ - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 😝 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 👉 [Autumn fun](http://9gag.com/gag/agobpe6)<!-- MEMES:END -->
 
 ---
 

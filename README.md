@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid are you?](http://9gag.com/gag/a5XAx1o)
+ - 😝 [He who fuks around shall find out.](http://9gag.com/gag/aqeOBQj)
  - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 💣 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)
- - 😝 [Well said.](http://9gag.com/gag/aNwXqAw)
- - 👉 [Japanese People Supporting Israel. Notice how peaceful it is](http://9gag.com/gag/aREGNMA)<!-- MEMES:END -->
+ - 💣 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
+ - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
  - 😝 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)
- - 💣 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 💣 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
  - 👉 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)<!-- MEMES:END -->
 
 ---

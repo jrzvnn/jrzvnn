@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He who fuks around shall find out.](http://9gag.com/gag/aqeOBQj)
- - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
- - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [Chicago last night](http://9gag.com/gag/axo8QvM)<!-- MEMES:END -->
+ - 😝 [Really? Right in front of my salad?](http://9gag.com/gag/a1PnxMb)
+ - 😝 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)
+ - 💣 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
 
 ---
 

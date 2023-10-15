@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 😝 [The best](http://9gag.com/gag/aKEynvZ)
  - 😝 [Who wears flip flops to a gym though](http://9gag.com/gag/aWGANDd)
  - 💣 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)
  - 😝 [Pls pick me up](http://9gag.com/gag/aGEqo6G)

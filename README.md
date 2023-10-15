@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 😝 [Female delusional calculon](http://9gag.com/gag/anz38on)
+ - 😝 [Pls pick me up](http://9gag.com/gag/aGEqo6G)
+ - 😝 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)
  - 💣 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 👉 [Show me your kitties??!!](http://9gag.com/gag/amAydn2)<!-- MEMES:END -->
+ - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
+ - 👉 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)<!-- MEMES:END -->
 
 ---
 

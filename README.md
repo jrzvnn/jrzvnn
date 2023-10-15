@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 💣 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
- - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
- - 👉 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)<!-- MEMES:END -->
+ - 😝 [Captain Niobe](http://9gag.com/gag/aGEqN4G)
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 👉 [Indian street food videoes be like:](http://9gag.com/gag/aME6y2R)<!-- MEMES:END -->
 
 ---
 

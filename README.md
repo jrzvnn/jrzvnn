@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
- - 😝 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)
- - 💣 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
- - 😝 [He who fuks around shall find out.](http://9gag.com/gag/aqeOBQj)
- - 👉 [Improvisational theatre \ud83c\udfad](http://9gag.com/gag/aGEq6m6)<!-- MEMES:END -->
+ - 😝 [This skin care routine](http://9gag.com/gag/aXnzezb)
+ - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 💣 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
+ - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
 
 ---
 

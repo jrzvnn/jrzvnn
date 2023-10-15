@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Magnetic Minerals May Have Given Life Its Molecular Asymmetry](https://www.wired.com/story/magnetic-minerals-may-have-given-life-its-molecular-asymmetry/)
+ - [Best Gear and Tips to Keep Your Home Warm in the Winter &lpar;2023&rpar;](https://www.wired.com/story/gear-to-winter-proof-your-home/)
+ - [Everything you need to track your movies, music, books, and more](https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter)
  - [Researchers find that a modest amount of fine-tuning can undo safety efforts that aim to prevent LLMs such as OpenAI&#39;s GPT-3.5 Turbo from spewing toxic content &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231015/p4#a231015p4)
- - [Should you buy a Google Pixel 8 or wait for the Samsung Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-google-pixel-8-3373845/)
- - [5 Tools to Help You Manage Email Newsletter Overload](https://www.wired.com/story/5-tools-manage-email-newsletter-overload/)
- - [6 Best Mattresses for Side Sleepers &lpar;2023&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
- - [The Best Christmas Decorations on Amazon in 2023     - CNET](https://www.cnet.com/news/amazon-christmas-decorations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should you buy a Google Pixel 8 or wait for the Samsung Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-google-pixel-8-3373845/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

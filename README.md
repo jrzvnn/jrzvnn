@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
  - 😝 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
- - 👉 [Autumn fun](http://9gag.com/gag/agobpe6)<!-- MEMES:END -->
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 👉 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)<!-- MEMES:END -->
 
 ---
 

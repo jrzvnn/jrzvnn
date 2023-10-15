@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple plans to update iPhones in-store without opening the boxes](https://appleinsider.com/articles/23/10/15/apple-plans-to-update-iphones-in-store-without-opening-the-boxes?utm_medium=rss)
+ - [This iPad Deal From Last Week&#39;s Prime Day Sale Scores You a 2021 Model for Just $249     - CNET](https://www.cnet.com/deals/apples-ipad-returns-best-price-to-date/#ftag=CAD590a51e)
  - [A look at Apple&#39;s recent executive promotions; sources: a cheaper Vision Pro may not have EyeSight and M3-based MacBook Pros could come in early or spring 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231015/p5#a231015p5)
- - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Low-cost Apple Vision Pro could drop external display](https://appleinsider.com/articles/23/10/15/low-cost-apple-vision-pro-could-drop-external-display?utm_medium=rss)
- - [Apple’s cheaper Vision Pro follow-up still won’t be cheap](https://www.theverge.com/2023/10/15/23917710/apple-vision-pro-cheaper-no-eyesight-external-display)<!-- TECH:END -->
+ - [Saints vs. Texans Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/saints-vs-texans-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)
+ - [Vikings vs. Bears Livestream: How to Watch NFL Week 6 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-bears-livestream-how-to-watch-nfl-week-6-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

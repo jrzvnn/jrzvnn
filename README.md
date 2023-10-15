@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy SHOCKED at \u201clife outside the hood\u201d \u203c\ufe0f](http://9gag.com/gag/aGEq66X)
  - 😝 [I don\u2019t play second chances\u2026..](http://9gag.com/gag/aREGy87)
- - 💣 [Do the cat](http://9gag.com/gag/aqeOdm7)
- - 😝 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)
- - 👉 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)<!-- MEMES:END -->
+ - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
+ - 💣 [Party in your 30s...](http://9gag.com/gag/a5XAvdo)
+ - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 👉 [He who fuks around shall find out.](http://9gag.com/gag/aqeOBQj)<!-- MEMES:END -->
 
 ---
 

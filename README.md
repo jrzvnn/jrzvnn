@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
  - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 💣 [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 👉 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)<!-- MEMES:END -->
+ - 😝 [Captain Niobe](http://9gag.com/gag/aGEqN4G)
+ - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)
+ - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 👉 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)<!-- MEMES:END -->
 
 ---
 

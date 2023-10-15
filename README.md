@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers find that a modest amount of fine-tuning can undo safety efforts that aim to prevent LLMs such as OpenAI&#39;s GPT-3.5 Turbo from spewing toxic content &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231015/p4#a231015p4)
  - [Should you buy a Google Pixel 8 or wait for the Samsung Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-vs-google-pixel-8-3373845/)
- - [A&amp;W Settles for $15M Over Misleading Ad Claims: Days Left to File for Your Money     - CNET](https://www.cnet.com/personal-finance/a-w-settles-for-15m-over-misleading-ad-claims-days-left-to-file-for-your-money/#ftag=CAD590a51e)
- - [How social media is inducing a fog of war surpassing previous clashes between Israel and Hamas, shaping the views of panicked citizens and a global public &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231015/p3#a231015p3)
- - [How Brad Smith, who became Microsoft&#39;s top legal officer in 2002, used a legal, policy, and influence machine costing $1B+ a year to close the Activision deal &lpar;Financial Times&rpar;](http://www.techmeme.com/231015/p2#a231015p2)
- - [Hands-on with Wi-Charge&#39;s wireless charging system that delivers power of up to 2 or 3 watts but requires a line of sight between transmitter and receiver &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/231015/p1#a231015p1)<!-- TECH:END -->
+ - [5 Tools to Help You Manage Email Newsletter Overload](https://www.wired.com/story/5-tools-manage-email-newsletter-overload/)
+ - [6 Best Mattresses for Side Sleepers &lpar;2023&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
+ - [The Best Christmas Decorations on Amazon in 2023     - CNET](https://www.cnet.com/news/amazon-christmas-decorations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

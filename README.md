@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple&#39;s rumored iPad event could take place on Tuesday](https://appleinsider.com/articles/23/10/15/apples-rumored-ipad-event-could-take-place-on-tuesday?utm_medium=rss)
+ - [Finally, the Google Pixel 8 series charges fast&lpar;er&rpar;](https://www.androidauthority.com/google-pixel-8-charging-speed-3374831/)
+ - [5 Best Nanoleaf Smart Lights &lpar;2023&rpar;: Shapes, 4D Kit, and Installation Tips](https://www.wired.com/gallery/best-nanoleaf-lights/)
  - [Google Pixel&#39;s Magnifier App Makes It Easier to See Small Text, Objects     - CNET](https://www.cnet.com/tech/mobile/google-pixels-magnifier-app-makes-it-easier-to-see-small-text-objects/#ftag=CAD590a51e)
- - [10 Tips for Taking Care of Your Eyes Naturally     - CNET](https://www.cnet.com/health/personal-care/10-tips-for-taking-care-of-your-eyes-naturally/#ftag=CAD590a51e)
- - [Magnetic Minerals May Have Given Life Its Molecular Asymmetry](https://www.wired.com/story/magnetic-minerals-may-have-given-life-its-molecular-asymmetry/)
- - [Best Gear and Tips to Keep Your Home Warm in the Winter &lpar;2023&rpar;](https://www.wired.com/story/gear-to-winter-proof-your-home/)<!-- TECH:END -->
+ - [10 Tips for Taking Care of Your Eyes Naturally     - CNET](https://www.cnet.com/health/personal-care/10-tips-for-taking-care-of-your-eyes-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

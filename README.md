@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Competing rumors cast doubt on October iPad update](https://appleinsider.com/articles/23/10/15/competing-rumors-cast-doubt-on-october-ipad-update?utm_medium=rss)
+ - [Best Internet Providers in Charlotte, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
  - [Capturing Yosemite: A Deep Dive With the iPhone 15 Pro Max and 13 Pro Max Cameras     - CNET](https://www.cnet.com/tech/mobile/capturing-yosemite-deep-dive-with-iphone-15-pro-max-13-pro-max-camera/#ftag=CAD590a51e)
  - [ADT Solar Review: Strong Warranties and a Price Match Put It Over the Top     - CNET](https://www.cnet.com/home/energy-and-utilities/is-adt-solar-the-best-solar-installer-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Save Up to $300 on Air Purifiers at Molekule&#39;s Fall Sale     - CNET](https://www.cnet.com/deals/save-up-to-300-on-air-purifiers-at-molekules-fall-sale/#ftag=CAD590a51e)
- - [You Can Still Snag the 2nd-Gen AirPods Pro at a Record-Low Price From Walmart     - CNET](https://www.cnet.com/deals/usb-c-or-lightning-both-airpods-pro-2-versions-still-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $300 on Air Purifiers at Molekule&#39;s Fall Sale     - CNET](https://www.cnet.com/deals/save-up-to-300-on-air-purifiers-at-molekules-fall-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

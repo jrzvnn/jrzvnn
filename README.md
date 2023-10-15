@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s cheaper Vision Pro follow-up still won’t be cheap](https://www.theverge.com/2023/10/15/23917710/apple-vision-pro-cheaper-no-eyesight-external-display)
  - [M3 MacBook Pro &amp; MacBook Air edge closer to early 2024 release](https://appleinsider.com/articles/23/10/15/m3-macbook-pro-macbook-air-edge-closer-to-early-2024-release?utm_medium=rss)
  - [Apple&#39;s rumored iPad event could take place on Tuesday](https://appleinsider.com/articles/23/10/15/apples-rumored-ipad-event-could-take-place-on-tuesday?utm_medium=rss)
  - [Finally, the Google Pixel 8 series charges fast&lpar;er&rpar;](https://www.androidauthority.com/google-pixel-8-charging-speed-3374831/)
- - [5 Best Nanoleaf Smart Lights &lpar;2023&rpar;: Shapes, 4D Kit, and Installation Tips](https://www.wired.com/gallery/best-nanoleaf-lights/)
- - [Google Pixel&#39;s Magnifier App Makes It Easier to See Small Text, Objects     - CNET](https://www.cnet.com/tech/mobile/google-pixels-magnifier-app-makes-it-easier-to-see-small-text-objects/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Solar Panels Cost in New York     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-solar-panels-cost-in-new-york/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

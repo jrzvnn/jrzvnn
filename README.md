@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DappRadar: blockchain gaming projects raised $600M in Q3 2023, down 38% YoY, and $2.3B so far in 2023, which is only 30% of what was raised for all of 2022 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/231014/p12#a231014p12)
  - [Disney+ Hotstar reclaims the global streaming record for most live concurrent views with 35M watching the October 14 India-Pakistan ICC Cricket World Cup match &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231014/p11#a231014p11)
  - [A look at Obsidian, an indie, Electron-based note-taking app that has developed a cult following on Discord and Reddit; Obsidian estimates that it has ~1M users &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/231014/p10#a231014p10)
  - [Benks MagClap StandGo Power Bank review: Adaptive on-the-go pocket battery](https://appleinsider.com/articles/23/10/14/benks-magclap-standgo-power-bank-review-adaptive-on-the-go-pocket-battery?utm_medium=rss)
- - [Caltech ends its Wi-Fi lawsuit against Apple and Broadcom](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent)
- - [Apple TV+ cancels &#39;The Afterparty&#39; after two seasons](https://appleinsider.com/articles/23/10/14/apple-tv-cancels-the-afterparty-after-two-seasons?utm_medium=rss)<!-- TECH:END -->
+ - [Caltech ends its Wi-Fi lawsuit against Apple and Broadcom](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

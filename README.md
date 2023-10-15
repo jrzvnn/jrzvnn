@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [He who fuks around shall find out.](http://9gag.com/gag/aqeOBQj)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 💣 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the one for today](http://9gag.com/gag/a4o8wp1)<!-- MEMES:END -->
+ - 😝 [Riding with the boys](http://9gag.com/gag/aXnzR0z)
+ - 💣 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
+ - 👉 [Chicago last night](http://9gag.com/gag/axo8QvM)<!-- MEMES:END -->
 
 ---
 

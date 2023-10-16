@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stack Overflow lays off over 100 people as the AI coding boom continues](https://www.theverge.com/2023/10/16/23919004/stack-overflow-layoff-ai-profitability)
+ - [Spotify launches a dedicated in-app Merch Hub that provides personalized merch recommendations based on users&#39; listening habits &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231016/p15#a231016p15)
  - [iPhone 15 Pro Max costs 12% more to make than iPhone 14 counterpart](https://appleinsider.com/articles/23/10/16/iphone-15-pro-max-costs-12-more-to-make-than-iphone-14-counterpart?utm_medium=rss)
  - [Spider-Man 2 on the PS5 has twice the spider-men, twice the emo fun](https://www.theverge.com/23915605/spider-man-2-review-ps5)
- - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)
- - [MyQ garage door, Meross Christmas lights, &amp; MagSafe chargers on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/16/myq-garage-door-meross-christmas-lights-magsafe-chargers-on-the-homekit-insider-podcast?utm_medium=rss)
- - [A survey of 1,500 US adolescents: 51% spend at least four hours on social media apps daily; 13-year-olds spent 4.1 hours, rising to 5.8 hours for 17-year-olds &lpar;Jonathan Rothwell/Gallup&rpar;](http://www.techmeme.com/231016/p13#a231016p13)<!-- TECH:END -->
+ - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

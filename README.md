@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times now offers daily hints for its Connections word game](https://www.theverge.com/2023/10/16/23919679/new-york-times-connections-companion-hints-help-difficulty)
  - [Biden campaign joins Donald Trump’s Truth Social platform](https://www.theverge.com/2023/10/16/23919770/trump-biden-truth-social-media-platform-gop-primary)
  - [Google Wallet’s new ‘Photo’ pass feature spotted on the Pixel 8 Pro](https://www.androidauthority.com/google-wallet-photo-feature-3376414/)
  - [WhatsApp turns on passwordless logins with passkeys for Android users](https://www.theverge.com/2023/10/16/23919609/whatsapp-passkey-android-update-passwordless-security)
- - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
- - [Israel plans to boycott Europe&#39;s biggest tech conference, Web Summit, after the event&#39;s founder accused Israel of war crimes, as many tech companies pull out &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/231016/p24#a231016p24)<!-- TECH:END -->
+ - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

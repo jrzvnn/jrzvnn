@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York Times now offers daily hints for its Connections word game](https://www.theverge.com/2023/10/16/23919679/new-york-times-connections-companion-hints-help-difficulty)
- - [The Best Hotel Mattresses in 2023     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)
- - [Biden campaign joins Donald Trump’s Truth Social platform](https://www.theverge.com/2023/10/16/23919770/trump-biden-truth-social-media-platform-gop-primary)
- - [Best Electric Toothbrush Deals: Discounts on Colgate, Quip, AquaSonic and More     - CNET](https://www.cnet.com/deals/best-electric-toothbrush-deals/#ftag=CAD590a51e)
- - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yuga Labs and Pudgy Penguins are among the NFT makers aiming to boycott Blur and OpenSea for recently slashing royalty rates &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/231016/p26#a231016p26)
+ - [Apple rumors of refreshed iPads could mean new chips or new Pencils](https://www.theverge.com/2023/10/15/23917926/apple-ipad-air-mini-tablet-m2-a16-bionic-rumor)
+ - [See the OnePlus Open put through a torture test in latest hands-on](https://www.androidauthority.com/oneplus-open-hands-on-youtube-video-3376457/)
+ - [Comcast resists a call from an ad industry group to reverse course on its February branding of its Xfinity network as &quot;10G&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/231016/p25#a231016p25)
+ - [The New York Times now offers daily hints for its Connections word game](https://www.theverge.com/2023/10/16/23919679/new-york-times-connections-companion-hints-help-difficulty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

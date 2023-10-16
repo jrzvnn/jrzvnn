@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Morgan Stanley trims Apple price target to $210 on iPhone delays](https://appleinsider.com/articles/23/10/16/morgan-stanley-trims-apple-price-target-to-210-on-iphone-delays?utm_medium=rss)
  - [Google asks Congress to not ban teens from social media](https://www.theverge.com/2023/10/16/23919221/google-youtube-child-safety-age-verification-laws-privacy)
  - [Spotify launches hub for artists’ merch](https://www.theverge.com/2023/10/16/23919160/spotify-merch-hub-taylor-swift-shopify)
  - [Volvo’s EX30 with Google built-in passes new EU speed limit warning requirements](https://www.theverge.com/2023/10/16/23918782/volvo-ex30-google-maps-eu-gsr-safety-regulations-speed-limit-certification)
- - [The next League of Legends music group is a virtual boy band](https://www.theverge.com/2023/10/16/23916595/league-of-legends-virtual-boy-band-heartsteel-riot-games)
- - [Analogue is making a 4K Nintendo 64](https://www.theverge.com/2023/10/16/23915941/analogue-3d-nintendo-64)<!-- TECH:END -->
+ - [The next League of Legends music group is a virtual boy band](https://www.theverge.com/2023/10/16/23916595/league-of-legends-virtual-boy-band-heartsteel-riot-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

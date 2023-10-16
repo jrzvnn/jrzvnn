@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder how many times you have experienced this, women with crocodile arms acting as if they are going to pay at least for their own half but then use and abuse the man on a financial basis... In my 20s and 30s I&#39;ve seen this every time I was on a date, now I only pay for myself](http://9gag.com/gag/aqeOBP7)
- - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 💣 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
- - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 👉 [My heart stopped for a second](http://9gag.com/gag/aeQEPAq)<!-- MEMES:END -->
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 😝 [Probably a repost, but I need captain to explain how it end up. &lpar;Not my video&rpar;](http://9gag.com/gag/aPg0LjQ)
+ - 💣 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---
 

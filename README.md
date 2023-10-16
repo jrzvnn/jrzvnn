@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms Pixel 8 series will support lossless USB audio in the future](https://www.androidauthority.com/pixel-8-lossless-audio-update-3376171/)
  - [Apple will soon be able to update unopened iPhones](https://www.androidauthority.com/apple-update-unopened-iphones-sealed-boxes-3375640/)
  - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)
  - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)
- - [The Pixel 8 series supports display output over USB-C despite what Google says](https://www.androidauthority.com/google-pixel-8-display-port-3376141/)
- - [Gary Gensler says it&#39;s &quot;nearly unavoidable&quot; that AI will cause a financial crisis if many institutions rely on the same underlying base model or data aggregator &lpar;Financial Times&rpar;](http://www.techmeme.com/231016/p1#a231016p1)<!-- TECH:END -->
+ - [The Pixel 8 series supports display output over USB-C despite what Google says](https://www.androidauthority.com/google-pixel-8-display-port-3376141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

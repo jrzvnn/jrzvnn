@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [The New York Times now offers daily hints for its Connections word game](https://www.theverge.com/2023/10/16/23919679/new-york-times-connections-companion-hints-help-difficulty)
+ - [The Best Hotel Mattresses in 2023     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)
  - [Biden campaign joins Donald Trump’s Truth Social platform](https://www.theverge.com/2023/10/16/23919770/trump-biden-truth-social-media-platform-gop-primary)
- - [Google Wallet’s new ‘Photo’ pass feature spotted on the Pixel 8 Pro](https://www.androidauthority.com/google-wallet-photo-feature-3376414/)
- - [WhatsApp turns on passwordless logins with passkeys for Android users](https://www.theverge.com/2023/10/16/23919609/whatsapp-passkey-android-update-passwordless-security)
- - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)<!-- TECH:END -->
+ - [Best Electric Toothbrush Deals: Discounts on Colgate, Quip, AquaSonic and More     - CNET](https://www.cnet.com/deals/best-electric-toothbrush-deals/#ftag=CAD590a51e)
+ - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

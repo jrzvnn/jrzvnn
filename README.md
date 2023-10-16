@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 6 owners who use multiple profiles run into problems with Android 14](https://www.theverge.com/2023/10/16/23919957/pixel-6-android-14-upgrade-bugs-multiple-user-profiles)
  - [Another leaker asserts an iPad update is coming Tuesday](https://appleinsider.com/articles/23/10/16/another-leaker-asserts-an-ipad-update-is-coming-tuesday?utm_medium=rss)
  - [Disney’s Gargoyles may live again — for real this time](https://www.theverge.com/2023/10/16/23920021/disney-reboot-animated-gargoyles-live-action)
  - [Apple rumors of refreshed iPads could mean new chips or new Pencils](https://www.theverge.com/2023/10/15/23917926/apple-ipad-air-mini-tablet-m2-a16-bionic-rumor)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

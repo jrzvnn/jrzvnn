@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 👉 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)<!-- MEMES:END -->
+ - 😝 [But noone was hurt. hes a good boy](http://9gag.com/gag/aWGAAX2)
+ - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
+ - 💣 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 😝 [2020.....](http://9gag.com/gag/aEqbNjn)
+ - 👉 [Autumn fun](http://9gag.com/gag/agobpe6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers be like](http://9gag.com/gag/ajVjv0Q)
- - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
- - 💣 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)
- - 😝 [The precision is impressive](http://9gag.com/gag/anz335z)
- - 👉 [WTF](http://9gag.com/gag/adPMMp9)<!-- MEMES:END -->
+ - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
+ - 😝 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
+ - 💣 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - 👉 [My heart stopped for a second](http://9gag.com/gag/aeQEPAq)<!-- MEMES:END -->
 
 ---
 

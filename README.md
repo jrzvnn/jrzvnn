@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The best alternatives to Apple&#39;s AirTag item tracker](https://appleinsider.com/inside/airtags/best/best-airtag-alternatives?utm_medium=rss)
- - [Cisco says a zero-day flaw affecting its IOS XE software has been exploited in the wild since at least September 18; Shodan shows ~80K devices may be vulnerable &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231016/p27#a231016p27)
- - [Yuga Labs and Pudgy Penguins are among the NFT makers aiming to boycott Blur and OpenSea for recently slashing royalty rates &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/231016/p26#a231016p26)
- - [Apple rumors of refreshed iPads could mean new chips or new Pencils](https://www.theverge.com/2023/10/15/23917926/apple-ipad-air-mini-tablet-m2-a16-bionic-rumor)<!-- TECH:END -->
+ - [Get 20TB of Cloud Storage for Life With This One-Time $90 StackSocial Deal     - CNET](https://www.cnet.com/deals/prism-drive-cloud-storage-lifetime-from-49/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

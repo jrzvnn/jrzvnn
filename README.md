@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks](http://9gag.com/gag/aA0751R)
- - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
- - 💣 [Consultant at a pet store](http://9gag.com/gag/aDYL5oB)
- - 😝 [They did that in the mountains of Sweden and ended up worshipping a bastard child of Loki](http://9gag.com/gag/a5XA3By)
- - 👉 [Just a respectful conversation](http://9gag.com/gag/aBdMzXQ)<!-- MEMES:END -->
+ - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 😝 [A man in Austria was out for a walk, doggo disappeared, found to be getting drowned by a kangaroo. Man punched kangaroo, which then attempted to drown him.](http://9gag.com/gag/aQEKbxq)
+ - 💣 [Beach creatures](http://9gag.com/gag/aqeOVVP)
+ - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
+ - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Wallet’s new ‘Photo’ pass feature spotted on the Pixel 8 Pro](https://www.androidauthority.com/google-wallet-photo-feature-3376414/)
  - [WhatsApp turns on passwordless logins with passkeys for Android users](https://www.theverge.com/2023/10/16/23919609/whatsapp-passkey-android-update-passwordless-security)
  - [About half of Bandcamp employees have been laid off](https://www.theverge.com/2023/10/16/23919551/bandcamp-layoffs-epic-songtradr)
  - [Israel plans to boycott Europe&#39;s biggest tech conference, Web Summit, after the event&#39;s founder accused Israel of war crimes, as many tech companies pull out &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/231016/p24#a231016p24)
- - [How Apple has changed Option key behavior in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-apple-has-changed-option-key-behavior-in-macos-sonoma?utm_medium=rss)
- - [YouTube adds Spotlight Moments, an AI-powered ad tool to help brands identify the most popular YouTube videos related to cultural moments, like the Oscars &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231016/p23#a231016p23)<!-- TECH:END -->
+ - [How Apple has changed Option key behavior in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-apple-has-changed-option-key-behavior-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

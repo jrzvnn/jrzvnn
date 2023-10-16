@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
- - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 💣 [A man in Austria was out for a walk, doggo disappeared, found to be getting drowned by a kangaroo. Man punched kangaroo, which then attempted to drown him.](http://9gag.com/gag/aQEKbxq)
+ - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
  - 👉 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)<!-- MEMES:END -->
 
 ---

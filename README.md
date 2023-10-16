@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beach creatures](http://9gag.com/gag/aqeOVVP)
- - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Another \u201cguy fights kangaroo to help free his dog\u201d video\u2026](http://9gag.com/gag/arm005y)
+ - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 💣 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
  - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)<!-- MEMES:END -->
+ - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---
 

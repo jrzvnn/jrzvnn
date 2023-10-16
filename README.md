@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 💣 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
  - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 👉 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)<!-- MEMES:END -->
+ - 💣 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 👉 [My heart stopped for a second](http://9gag.com/gag/aeQEPAq)<!-- MEMES:END -->
 
 ---
 

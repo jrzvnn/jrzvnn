@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W dad](http://9gag.com/gag/a3ZDDP1)
- - 😝 [Top Gear to no gear.](http://9gag.com/gag/ay2Aro8)
- - 💣 [Those who know, know!](http://9gag.com/gag/a4o8gEd)
- - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - 👉 [Arab tellimg truth about Palestinians](http://9gag.com/gag/a8q9NO1)<!-- MEMES:END -->
+ - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
 
 ---
 

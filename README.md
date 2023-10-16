@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
- - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
- - 💣 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [Probably a repost, but I need captain to explain how it end up. &lpar;Not my video&rpar;](http://9gag.com/gag/aPg0LjQ)<!-- MEMES:END -->
+ - 😝 [Probably a repost, but I need captain to explain how it end up. &lpar;Not my video&rpar;](http://9gag.com/gag/aPg0LjQ)
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 👉 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [What is Wi-Fi 7 — and do you even need it?](https://www.theverge.com/23902812/wi-fi-7-explained)
  - [Google calls out ‘unnecessary’ age verification systems for teens and adults](https://www.androidauthority.com/age-verification-google-framework-3376320/)
  - [Twitch adds stories to its mobile app](https://www.theverge.com/2023/10/16/23919304/twitch-stories-roll-out-twitchcon-2023)
- - [Sources detail Netflix&#39;s deepening gaming push, as it expands to games for TVs and PCs, deals for 3rd-party games like GTA, and more mobile games for its shows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231016/p20#a231016p20)
- - [The Galaxy Watch 5 Pro plunges to a record-low price of just $329](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-smartwatch-deal-3376321/)
- - [The Google antitrust trial has been frustratingly locked down — the NYT just filed a motion to open it up](https://www.theverge.com/2023/10/16/23919243/google-antitrust-trial-locked-down-nyt-motion-open-it-up-transparency)<!-- TECH:END -->
+ - [Sources detail Netflix&#39;s deepening gaming push, as it expands to games for TVs and PCs, deals for 3rd-party games like GTA, and more mobile games for its shows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231016/p20#a231016p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
- - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 😝 [Rosted and destroyed \u2713](http://9gag.com/gag/aVb89PP)
+ - 💣 [Yeah](http://9gag.com/gag/anz3ZM5)
+ - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 👉 [Welcome to filterland](http://9gag.com/gag/aVb85Wd)<!-- MEMES:END -->
 
 ---
 

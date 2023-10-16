@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21.co: the US now holds 200K+ bitcoin, worth $5B+, seized from criminals and darknet markets; an IRS executive says sales are &quot;set by the timing in our process&quot; &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p5#a231016p5)
  - [Mackenzie Limited Ted Lasso shortbread biscuits review: A delicious collaboration](https://appleinsider.com/articles/23/10/16/mackenzie-limited-ted-lasso-shortbread-biscuits-review-a-delicious-collaboration?utm_medium=rss)
  - [SolanaFM: the FTX estate staked 5.5M SOL, valued at $122M, from a principal wallet, delegating the coins to network validator Figment; FTX has $1B+ in SOL &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/231016/p4#a231016p4)
  - [Spotify has been experiencing performance issues on iOS since weeks](https://www.androidauthority.com/spotify-crashing-ios-3376194/)
- - [Assassin’s Creed Jade: Expected release date and the latest rumors](https://www.androidauthority.com/assassins-creed-jade-release-date-3376203/)
- - [Tokyo-based, KKR-owned chipmaking equipment maker Kokusai Electric raised $724.4M in its IPO, after pricing shares at ~$12.30, valuing the company at ~$2.8B &lpar;Reuters&rpar;](http://www.techmeme.com/231016/p3#a231016p3)<!-- TECH:END -->
+ - [Assassin’s Creed Jade: Expected release date and the latest rumors](https://www.androidauthority.com/assassins-creed-jade-release-date-3376203/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

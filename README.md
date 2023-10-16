@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify has been experiencing performance issues on iOS since weeks](https://www.androidauthority.com/spotify-crashing-ios-3376194/)
+ - [Assassin’s Creed Jade: Expected release date and the latest rumors](https://www.androidauthority.com/assassins-creed-jade-release-date-3376203/)
+ - [Tokyo-based, KKR-owned chipmaking equipment maker Kokusai Electric raised $724.4M in its IPO, after pricing shares at ~$12.30, valuing the company at ~$2.8B &lpar;Reuters&rpar;](http://www.techmeme.com/231016/p3#a231016p3)
  - [PS5 won’t connect to the internet? Here’s how to fix it](https://www.androidauthority.com/ps5-not-connecting-to-wifi-internet-3376193/)
- - [Brace yourselves: New iPads and Apple Pencil could be coming very very soon](https://www.androidauthority.com/apple-new-ipad-apple-pencil-possible-announcement-3376172/)
- - [A &#39;Green&#39; Search Engine Sees Danger—and Opportunity—in the Generative AI Revolution](https://www.wired.com/story/search-engine-ecosia-generative-ai-revolution/)
- - [Mojang announces 300M+ copies of Minecraft sold in ~15 years; Rockstar&#39;s GTA V is the second best-selling game ever after reportedly selling ~185M in ~10 years &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/231016/p2#a231016p2)
- - [You told us: Most of you don’t care that the Pixel 8 lacks ray tracing](https://www.androidauthority.com/google-pixel-8-lack-ray-tracing-poll-results-3376169/)<!-- TECH:END -->
+ - [Brace yourselves: New iPads and Apple Pencil could be coming very very soon](https://www.androidauthority.com/apple-new-ipad-apple-pencil-possible-announcement-3376172/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

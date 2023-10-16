@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn lays off hundreds of employees for the second time this year](https://www.theverge.com/2023/10/16/23919241/linkedin-layoff-hundreds-employees-revenue)
- - [LinkedIn plans to lay off nearly 700 staffers, mostly from its engineering teams, after cutting 716 jobs in May; source: LinkedIn is ramping up hiring in India &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231016/p19#a231016p19)
- - [Following reports from Patreon users, analysis shows X slowing down traffic on links to Patreon, WhatsApp, and, at times Meta&#39;s Messenger, by ~2.5 seconds &lpar;The Markup&rpar;](http://www.techmeme.com/231016/p18#a231016p18)
- - [Meet Rick and Morty’s new voice actors](https://www.theverge.com/23919126/rick-and-morty-voice-actors-ian-cardoni-harry-belden)
- - [Morgan Stanley trims Apple price target to $210 on iPhone delays](https://appleinsider.com/articles/23/10/16/morgan-stanley-trims-apple-price-target-to-210-on-iphone-delays?utm_medium=rss)<!-- TECH:END -->
+ - [Epic is offering a big incentive for developers to bring older games to its store](https://www.theverge.com/2023/10/16/23919265/epic-games-store-now-on-older-games)
+ - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
+ - [Samsung welcomes two more phones to the One UI 6 beta program](https://www.androidauthority.com/samsung-one-ui-6-beta-rollout-3376301/)
+ - [Wednesday season 2: Expected release date and the latest rumors](https://www.androidauthority.com/wednesday-season-2-release-date-3376055/)
+ - [LinkedIn lays off hundreds of employees for the second time this year](https://www.theverge.com/2023/10/16/23919241/linkedin-layoff-hundreds-employees-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

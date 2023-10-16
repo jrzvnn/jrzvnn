@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)
+ - 💣 [1, 2 or 3.](http://9gag.com/gag/a2KVV0Y)
  - 😝 [A man in Austria was out for a walk, doggo disappeared, found to be getting drowned by a kangaroo. Man punched kangaroo, which then attempted to drown him.](http://9gag.com/gag/aQEKbxq)
- - 💣 [Beach creatures](http://9gag.com/gag/aqeOVVP)
- - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 ---
 

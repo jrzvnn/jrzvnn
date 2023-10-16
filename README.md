@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 😝 [The Florida Man Sindrome](http://9gag.com/gag/aQEKNxq)
- - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 💣 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
  - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gary Gensler says it&#39;s &quot;nearly unavoidable&quot; that AI will cause a financial crisis if many institutions rely on the same underlying base model or data aggregator &lpar;Financial Times&rpar;](http://www.techmeme.com/231016/p1#a231016p1)
+ - [Lakers legend Rick Fox built a house that can suck CO2 out of the atmosphere](https://www.theverge.com/2023/10/16/23916106/nba-lakers-rick-fox-concrete-alternative-house-partanna-climate-change)
  - [Australia says it fined X ~$384K and warned Google after they failed to give adequate info on their efforts to fight CSAM despite a law requiring the disclosure &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/231015/p8#a231015p8)
  - [How Moscow-based crypto exchange Garantex has become a major money laundering channel for cybercriminals and terror groups like the Palestinian Islamic Jihad &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/231015/p7#a231015p7)
- - [Solar Panels vs. Tesla Solar Roof: Here&#39;s the Difference     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-versus-tesla-solar-roof/#ftag=CAD590a51e)
- - [Competing rumors cast doubt on October iPad update](https://appleinsider.com/articles/23/10/15/competing-rumors-cast-doubt-on-october-ipad-update?utm_medium=rss)
- - [Best Internet Providers in Charlotte, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solar Panels vs. Tesla Solar Roof: Here&#39;s the Difference     - CNET](https://www.cnet.com/home/energy-and-utilities/solar-panels-versus-tesla-solar-roof/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

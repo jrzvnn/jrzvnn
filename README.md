@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yuzu guide: The best Nintendo Switch emulator for Android](https://www.androidauthority.com/yuzu-emulator-android-3330620/)
+ - [Binance halts user signups in the UK, after the FCA restricted a local partner&#39;s ability to approve communications for crypto companies with customers &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231016/p21#a231016p21)
  - [Here’s when the Snapdragon 8 Gen 3 will launch](https://www.androidauthority.com/snapdragon-8-gen-3-launch-window-3376343/)
  - [Netflix tests streaming games to US TVs to take on PlayStation and Xbox](https://www.theverge.com/2023/10/16/23919517/netflix-game-streaming-beta-tvs-us)
- - [Early holiday Apple deals are going on now at Amazon, many at Prime Day pricing](https://appleinsider.com/articles/23/10/16/early-holiday-apple-deals-are-going-on-now-at-amazon-many-at-prime-day-pricing?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [What is Wi-Fi 7 — and do you even need it?](https://www.theverge.com/23902812/wi-fi-7-explained)<!-- TECH:END -->
+ - [Early holiday Apple deals are going on now at Amazon, many at Prime Day pricing](https://appleinsider.com/articles/23/10/16/early-holiday-apple-deals-are-going-on-now-at-amazon-many-at-prime-day-pricing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

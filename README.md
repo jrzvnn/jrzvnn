@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 16: $89 AirPods, $899 24-inch iMac, 14-inch MacBook Pro for $1,278, more](https://appleinsider.com/articles/23/10/16/daily-deals-oct-16-89-airpods-899-24-inch-imac-14-inch-macbook-pro-for-1278-more?utm_medium=rss)
- - [Bethesda Head of Publishing Pete Hines plans to leave after 24 years, just weeks after the release of Starfield, to begin an &quot;exciting new chapter&quot; &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/231016/p17#a231016p17)
- - [Disney courts TikTokers with a card game and quizzes](https://www.theverge.com/2023/10/16/23919098/tiktok-disney-hub-partnership-disney100)
- - [Bethesda’s head of publishing, Pete Hines, is retiring after 24 years](https://www.theverge.com/2023/10/16/23919129/bethesda-pete-hines-retiring-head-of-publishing)
- - [The Pixel 8 Pro’s temperature sensor is too inaccurate, too inconvenient](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-vs-ir-thermometer-3375751/)<!-- TECH:END -->
+ - [Google asks Congress to not ban teens from social media](https://www.theverge.com/2023/10/16/23919221/google-youtube-child-safety-age-verification-laws-privacy)
+ - [Spotify launches hub for artists’ merch](https://www.theverge.com/2023/10/16/23919160/spotify-merch-hub-taylor-swift-shopify)
+ - [Volvo’s EX30 with Google built-in passes new EU speed limit warning requirements](https://www.theverge.com/2023/10/16/23918782/volvo-ex30-google-maps-eu-gsr-safety-regulations-speed-limit-certification)
+ - [The next League of Legends music group is a virtual boy band](https://www.theverge.com/2023/10/16/23916595/league-of-legends-virtual-boy-band-heartsteel-riot-games)
+ - [Analogue is making a 4K Nintendo 64](https://www.theverge.com/2023/10/16/23915941/analogue-3d-nintendo-64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

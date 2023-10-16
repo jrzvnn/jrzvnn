@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another \u201cguy fights kangaroo to help free his dog\u201d video\u2026](http://9gag.com/gag/arm005y)
  - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 💣 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 💣 [Remember?](http://9gag.com/gag/a1Pn80G)
+ - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
+ - 👉 [Richard Patterson teaching the proper way to drink whisky like a Ser!](http://9gag.com/gag/ap9XXK5)<!-- MEMES:END -->
 
 ---
 

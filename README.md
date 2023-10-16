@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Following reports from Patreon users, analysis shows X slowing down traffic on links to Patreon, WhatsApp, and, at times Meta&#39;s Messenger, by ~2.5 seconds &lpar;The Markup&rpar;](http://www.techmeme.com/231016/p18#a231016p18)
+ - [Meet Rick and Morty’s new voice actors](https://www.theverge.com/23919126/rick-and-morty-voice-actors-ian-cardoni-harry-belden)
  - [Morgan Stanley trims Apple price target to $210 on iPhone delays](https://appleinsider.com/articles/23/10/16/morgan-stanley-trims-apple-price-target-to-210-on-iphone-delays?utm_medium=rss)
  - [Google asks Congress to not ban teens from social media](https://www.theverge.com/2023/10/16/23919221/google-youtube-child-safety-age-verification-laws-privacy)
- - [Spotify launches hub for artists’ merch](https://www.theverge.com/2023/10/16/23919160/spotify-merch-hub-taylor-swift-shopify)
- - [Volvo’s EX30 with Google built-in passes new EU speed limit warning requirements](https://www.theverge.com/2023/10/16/23918782/volvo-ex30-google-maps-eu-gsr-safety-regulations-speed-limit-certification)
- - [The next League of Legends music group is a virtual boy band](https://www.theverge.com/2023/10/16/23916595/league-of-legends-virtual-boy-band-heartsteel-riot-games)<!-- TECH:END -->
+ - [Spotify launches hub for artists’ merch](https://www.theverge.com/2023/10/16/23919160/spotify-merch-hub-taylor-swift-shopify)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

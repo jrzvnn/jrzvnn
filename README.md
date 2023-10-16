@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 😝 [Wait... I have seen this movie before](http://9gag.com/gag/anz3W7B)
- - 💣 [London has fallen. And it&#39;s not a movie this time](http://9gag.com/gag/az2zB0z)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 👉 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)<!-- MEMES:END -->
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 💣 [Remember?](http://9gag.com/gag/a1Pn80G)
+ - 😝 [Richard Patterson teaching the proper way to drink whisky like a Ser!](http://9gag.com/gag/ap9XXK5)
+ - 👉 [WTF](http://9gag.com/gag/adPMMp9)<!-- MEMES:END -->
 
 ---
 

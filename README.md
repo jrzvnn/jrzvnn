@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 😝 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)
- - 💣 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
 
 ---
 

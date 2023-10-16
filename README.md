@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More like if he was poor](http://9gag.com/gag/aOxOn96)
- - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
- - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
+ - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
  - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
+ - 👉 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
 
 ---
 

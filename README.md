@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: Most of you don’t care that the Pixel 8 lacks ray tracing](https://www.androidauthority.com/google-pixel-8-lack-ray-tracing-poll-results-3376169/)
  - [Google confirms Pixel 8 series will support lossless USB audio in the future](https://www.androidauthority.com/pixel-8-lossless-audio-update-3376171/)
  - [Apple will soon be able to update unopened iPhones](https://www.androidauthority.com/apple-update-unopened-iphones-sealed-boxes-3375640/)
  - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)
- - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)
- - [The Pixel 8 series supports display output over USB-C despite what Google says](https://www.androidauthority.com/google-pixel-8-display-port-3376141/)<!-- TECH:END -->
+ - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

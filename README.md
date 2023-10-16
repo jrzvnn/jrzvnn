@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly 50% of Mac developers are including AI in their apps](https://appleinsider.com/articles/23/10/16/nearly-50-of-mac-developers-are-including-ai-in-their-apps?utm_medium=rss)
+ - [Intel’s new 14th Gen CPUs arrive on October 17th with up to 6GHz out of the box](https://www.theverge.com/2023/10/16/23918892/intel-14th-gen-processors-core-release-date-price)
+ - [iPhone 15 fails to match iPhone 14 in Chinese sales](https://appleinsider.com/articles/23/10/16/iphone-15-fails-to-match-iphone-14-in-chinese-sales?utm_medium=rss)
  - [Apple&#39;s climate change efforts far exceed rivals, says environmental report](https://appleinsider.com/articles/23/10/16/apples-climate-change-efforts-far-exceed-rivals-says-environmental-report?utm_medium=rss)
- - [After relaxing political ad rules in January, X begins aggressively pitching political advertisers; AdImpact estimates 2023-24 US election spending at $10.2B &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p11#a231016p11)
- - [The case for Taylor Swift&#39;s &#39;Eras Tour&#39; on Apple TV+ in January](https://appleinsider.com/articles/23/10/16/the-case-for-taylor-swifts-eras-tour-on-apple-tv-in-january?utm_medium=rss)
- - [Goldman Sachs regrets Apple Card, and is trying to escape the deal](https://appleinsider.com/articles/23/10/16/goldman-sachs-regrets-apple-card-and-is-trying-to-escape-the-deal?utm_medium=rss)
- - [How Hop Nerds Are Saving Your Favorite Beer From Climate Change](https://www.wired.com/story/how-hop-nerds-are-saving-your-favorite-beer-from-climate-change/)<!-- TECH:END -->
+ - [After relaxing political ad rules in January, X begins aggressively pitching political advertisers; AdImpact estimates 2023-24 US election spending at $10.2B &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p11#a231016p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

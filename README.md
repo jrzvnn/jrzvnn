@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Check your Google One account: You might have a discounted offer waiting for you](https://www.androidauthority.com/google-one-subscription-discounted-offer-3376247/)
+ - [Intel plans to launch its 14th Gen desktop CPUs on October 17, offering up to 6GHz for its flagship $589 Core i9-14900K and increased core count on the $409 i7 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231016/p12#a231016p12)
  - [Nearly 50% of Mac developers are including AI in their apps](https://appleinsider.com/articles/23/10/16/nearly-50-of-mac-developers-are-including-ai-in-their-apps?utm_medium=rss)
- - [Intel’s new 14th Gen CPUs arrive on October 17th with up to 6GHz out of the box](https://www.theverge.com/2023/10/16/23918892/intel-14th-gen-processors-core-release-date-price)
- - [iPhone 15 fails to match iPhone 14 in Chinese sales](https://appleinsider.com/articles/23/10/16/iphone-15-fails-to-match-iphone-14-in-chinese-sales?utm_medium=rss)
- - [Apple&#39;s climate change efforts far exceed rivals, says environmental report](https://appleinsider.com/articles/23/10/16/apples-climate-change-efforts-far-exceed-rivals-says-environmental-report?utm_medium=rss)
- - [After relaxing political ad rules in January, X begins aggressively pitching political advertisers; AdImpact estimates 2023-24 US election spending at $10.2B &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p11#a231016p11)<!-- TECH:END -->
+ - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)
+ - [None of Your Photos Are Real](https://www.wired.com/story/google-pixel-8-artificial-intelligence-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

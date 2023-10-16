@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
- - 💣 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [My heart stopped for a second](http://9gag.com/gag/aeQEPAq)<!-- MEMES:END -->
+ - 😝 [W dad](http://9gag.com/gag/a3ZDDP1)
+ - 😝 [Top Gear to no gear.](http://9gag.com/gag/ay2Aro8)
+ - 💣 [Those who know, know!](http://9gag.com/gag/a4o8gEd)
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 👉 [Arab tellimg truth about Palestinians](http://9gag.com/gag/a8q9NO1)<!-- MEMES:END -->
 
 ---
 

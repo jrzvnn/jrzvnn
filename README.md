@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 16: $89 AirPods, $899 24-inch iMac, 14-inch MacBook Pro for $1,278, more](https://appleinsider.com/articles/23/10/16/daily-deals-oct-16-89-airpods-899-24-inch-imac-14-inch-macbook-pro-for-1278-more?utm_medium=rss)
+ - [Bethesda Head of Publishing Pete Hines plans to leave after 24 years, just weeks after the release of Starfield, to begin an &quot;exciting new chapter&quot; &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/231016/p17#a231016p17)
  - [Disney courts TikTokers with a card game and quizzes](https://www.theverge.com/2023/10/16/23919098/tiktok-disney-hub-partnership-disney100)
  - [Bethesda’s head of publishing, Pete Hines, is retiring after 24 years](https://www.theverge.com/2023/10/16/23919129/bethesda-pete-hines-retiring-head-of-publishing)
- - [The Pixel 8 Pro’s temperature sensor is too inaccurate, too inconvenient](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-vs-ir-thermometer-3375751/)
- - [$41 Discount Drops the Xbox Elite Series 2 Core to a New All-Time Low Price     - CNET](https://www.cnet.com/deals/41-discount-drops-xbox-elite-series-2-core-new-all-time-low-price/#ftag=CAD590a51e)
- - [Stack Overflow lays off 100+ people, or 28% of its workforce, to &quot;significantly&quot; reduce its &quot;go-to-market organization&quot;, after doubling its size to 500+ in 2022 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231016/p16#a231016p16)<!-- TECH:END -->
+ - [The Pixel 8 Pro’s temperature sensor is too inaccurate, too inconvenient](https://www.androidauthority.com/pixel-8-pro-temperature-sensor-vs-ir-thermometer-3375751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

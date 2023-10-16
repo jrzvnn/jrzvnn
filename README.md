@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [Should have been the original story](http://9gag.com/gag/a8q9QOe)
- - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
+ - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 😝 [It was a good day.](http://9gag.com/gag/a4o8red)
+ - 💣 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 ---
 

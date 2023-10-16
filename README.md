@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X &lpar;Twitter&rpar; is working on a new “Enhanced Discovery” perk for X Premium users](https://www.androidauthority.com/x-twitter-new-enhanced-discovery-perk-x-premium-users-3376226/)
- - [Sources: Goldman wants to exit consumer lending and offload its Apple partnership, possibly to Amex, which has balked at Apple Card&#39;s loss rate and other issues &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p9#a231016p9)
- - [Analysts: iPhone 15 sales in China are down compared to the iPhone 14; Counterpoint estimates a 4.5% drop after 17 days and Jefferies says Huawei outsold Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/231016/p8#a231016p8)
- - [Free AI PDF editor for Mac and iPhone from PDFgear](https://appleinsider.com/articles/23/10/16/free-ai-pdf-editor-for-mac-and-iphone-from-pdfgear?utm_medium=rss)
- - [TikTok confirms appealing a &amp;euro;345M teen privacy fine by EU regulators from September in the EU General Court and is also locally challenging an order by Ireland &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231016/p7#a231016p7)<!-- TECH:END -->
+ - [The case for Taylor Swift&#39;s &#39;Eras Tour&#39; on Apple TV+ in January](https://appleinsider.com/articles/23/10/16/the-case-for-taylor-swifts-eras-tour-on-apple-tv-in-january?utm_medium=rss)
+ - [Goldman Sachs regrets Apple Card, and is trying to escape the deal](https://appleinsider.com/articles/23/10/16/goldman-sachs-regrets-apple-card-and-is-trying-to-escape-the-deal?utm_medium=rss)
+ - [How Hop Nerds Are Saving Your Favorite Beer From Climate Change](https://www.wired.com/story/how-hop-nerds-are-saving-your-favorite-beer-from-climate-change/)
+ - [Apple has an edge over its competitors in the fight against climate change](https://www.theverge.com/2023/10/16/23915763/apple-big-tech-climate-change-report)
+ - [Sources: the US plans new China chip rules to block some AI chips that fall just under the current technical parameters, expand company reporting, and more &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/231016/p10#a231016p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

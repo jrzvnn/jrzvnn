@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [But noone was hurt. hes a good boy](http://9gag.com/gag/aWGAAX2)
- - 😝 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)
- - 💣 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [2020.....](http://9gag.com/gag/aEqbNjn)
- - 👉 [Autumn fun](http://9gag.com/gag/agobpe6)<!-- MEMES:END -->
+ - 😝 [Beach creatures](http://9gag.com/gag/aqeOVVP)
+ - 💣 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
 
 ---
 

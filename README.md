@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google antitrust trial has been frustratingly locked down — the NYT just filed a motion to open it up](https://www.theverge.com/2023/10/16/23919243/google-antitrust-trial-locked-down-nyt-motion-open-it-up-transparency)
+ - [How to connect an Apple 30-inch Cinema Display to a modern Mac](https://appleinsider.com/inside/accessories-and-io/tips/how-to-connect-an-apple-30-inch-cinema-display-to-a-modern-mac?utm_medium=rss)
+ - [Pokémon Go’s new Party Play feature will turn groups of friends into raid-crushing teams](https://www.theverge.com/2023/10/16/23919093/pokemon-go-party-play)
  - [Epic is offering a big incentive for developers to bring older games to its store](https://www.theverge.com/2023/10/16/23919265/epic-games-store-now-on-older-games)
- - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
- - [Samsung welcomes two more phones to the One UI 6 beta program](https://www.androidauthority.com/samsung-one-ui-6-beta-rollout-3376301/)
- - [Wednesday season 2: Expected release date and the latest rumors](https://www.androidauthority.com/wednesday-season-2-release-date-3376055/)
- - [LinkedIn lays off hundreds of employees for the second time this year](https://www.theverge.com/2023/10/16/23919241/linkedin-layoff-hundreds-employees-revenue)<!-- TECH:END -->
+ - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

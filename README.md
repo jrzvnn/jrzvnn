@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stack Overflow lays off 100+ people, or 28% of its workforce, to &quot;significantly&quot; reduce its &quot;go-to-market organization&quot;, after doubling its size to 500+ in 2022 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231016/p16#a231016p16)
  - [Stack Overflow lays off over 100 people as the AI coding boom continues](https://www.theverge.com/2023/10/16/23919004/stack-overflow-layoff-ai-profitability)
  - [Spotify launches a dedicated in-app Merch Hub that provides personalized merch recommendations based on users&#39; listening habits &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231016/p15#a231016p15)
  - [iPhone 15 Pro Max costs 12% more to make than iPhone 14 counterpart](https://appleinsider.com/articles/23/10/16/iphone-15-pro-max-costs-12-more-to-make-than-iphone-14-counterpart?utm_medium=rss)
- - [Spider-Man 2 on the PS5 has twice the spider-men, twice the emo fun](https://www.theverge.com/23915605/spider-man-2-review-ps5)
- - [Some influencers and CEOs are taking their brands to LinkedIn, enticed by less competition among creators, a committed user base, and a safer feel than X &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/231016/p14#a231016p14)<!-- TECH:END -->
+ - [Spider-Man 2 on the PS5 has twice the spider-men, twice the emo fun](https://www.theverge.com/23915605/spider-man-2-review-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

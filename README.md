@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
+ - 😝 [Show me your kitties??!!](http://9gag.com/gag/amAydn2)
+ - 💣 [Are you ok?](http://9gag.com/gag/aQEKrmK)
  - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
- - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
- - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
+ - 👉 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)<!-- MEMES:END -->
 
 ---
 

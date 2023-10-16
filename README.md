@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
- - 💣 [Arab tellimg truth about Palestinians](http://9gag.com/gag/a8q9NO1)
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 👉 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)<!-- MEMES:END -->
+ - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 ---
 

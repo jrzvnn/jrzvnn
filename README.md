@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [It was a good day.](http://9gag.com/gag/a4o8red)
- - 💣 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
  - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
+ - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 💣 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
 
 ---
 

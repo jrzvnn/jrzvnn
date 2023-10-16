@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best](http://9gag.com/gag/aKEynvZ)
  - 😝 [Hide yo grannies](http://9gag.com/gag/aoK6oB3)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [2020.....](http://9gag.com/gag/aEqbNjn)<!-- MEMES:END -->
+ - 😝 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
+ - 😝 [2020.....](http://9gag.com/gag/aEqbNjn)
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 ---
 

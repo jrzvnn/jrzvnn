@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Tet a day, keeps the doctor away](http://9gag.com/gag/anz3dmz)
- - 😝 [Show me your kitties??!!](http://9gag.com/gag/amAydn2)
- - 💣 [Are you ok?](http://9gag.com/gag/aQEKrmK)
- - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
- - 👉 [Humanity\u2019s message sent to space, over 8 billion miles away, and will likely survive a billion years. What does it say ?](http://9gag.com/gag/a2KVx7Z)<!-- MEMES:END -->
+ - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 😝 [Remember?](http://9gag.com/gag/a1Pn80G)
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)
+ - 👉 [Richard Patterson teaching the proper way to drink whisky like a Ser!](http://9gag.com/gag/ap9XXK5)<!-- MEMES:END -->
 
 ---
 

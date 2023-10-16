@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2020.....](http://9gag.com/gag/aEqbNjn)
- - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
- - 💣 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 😝 [Good thing there&#39;s Hans](http://9gag.com/gag/agobdjw)
- - 👉 [Autumn fun](http://9gag.com/gag/agobpe6)<!-- MEMES:END -->
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 👉 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)<!-- MEMES:END -->
 
 ---
 

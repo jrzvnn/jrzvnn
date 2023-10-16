@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts: iPhone 15 sales in China are down compared to the iPhone 14; Counterpoint estimates a 4.5% drop after 17 days and Jefferies says Huawei outsold Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/231016/p8#a231016p8)
  - [Free AI PDF editor for Mac and iPhone from PDFgear](https://appleinsider.com/articles/23/10/16/free-ai-pdf-editor-for-mac-and-iphone-from-pdfgear?utm_medium=rss)
  - [TikTok confirms appealing a &amp;euro;345M teen privacy fine by EU regulators from September in the EU General Court and is also locally challenging an order by Ireland &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231016/p7#a231016p7)
  - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
- - [Deepfake Porn Is Out of Control](https://www.wired.com/story/deepfake-porn-is-out-of-control/)
- - [The Problematic Rise of Personalized Nutrition](https://www.wired.com/story/zoe-nutrition-apps/)<!-- TECH:END -->
+ - [Deepfake Porn Is Out of Control](https://www.wired.com/story/deepfake-porn-is-out-of-control/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

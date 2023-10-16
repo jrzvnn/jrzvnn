@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8 Pro review: Destined for gr&lpar;eight&rpar;ness](https://www.androidauthority.com/google-pixel-8-pro-review-3374117/)
  - [How Beeper is trying to make sense of all your messaging apps](https://www.theverge.com/23919378/beeper-universal-messaging-app-whatsapp-imessage-slack-twitter)
  - [Catch the best 2023 deal on the Jabra Elite 7 Pro](https://www.androidauthority.com/jabra-elite-7-pro-deal-3376398/)
  - [Snap shares jumped 11%+ following a report that Snap&#39;s internal &quot;stretch&quot; goal was to have over 475M DAUs in 2024, above Wall St. expectations of ~447M &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231016/p22#a231016p22)
- - [&#39;Starfield&#39; Dev Bethesda Just Lost One of Its Most Important Executives](https://www.wired.com/story/bethesda-starfield-peter-hines-retires/)
- - [The Portland Retro Gaming Expo is a delightful celebration of older games](https://www.theverge.com/2023/10/16/23919382/portland-retro-gaming-expo-2023-celebration-older-games)<!-- TECH:END -->
+ - [&#39;Starfield&#39; Dev Bethesda Just Lost One of Its Most Important Executives](https://www.wired.com/story/bethesda-starfield-peter-hines-retires/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

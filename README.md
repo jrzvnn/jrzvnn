@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But noone was hurt. hes a good boy](http://9gag.com/gag/aWGAAX2)
  - 😝 [Beach creatures](http://9gag.com/gag/aqeOVVP)
- - 💣 [Autumn fun](http://9gag.com/gag/agobpe6)
- - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
+ - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 👉 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)<!-- MEMES:END -->
 
 ---
 

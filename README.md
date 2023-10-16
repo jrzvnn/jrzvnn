@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail Netflix&#39;s deepening gaming push, as it expands to games for TVs and PCs, deals for 3rd-party games like GTA, and more mobile games for its shows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231016/p20#a231016p20)
+ - [The Galaxy Watch 5 Pro plunges to a record-low price of just $329](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-smartwatch-deal-3376321/)
  - [The Google antitrust trial has been frustratingly locked down — the NYT just filed a motion to open it up](https://www.theverge.com/2023/10/16/23919243/google-antitrust-trial-locked-down-nyt-motion-open-it-up-transparency)
  - [How to connect an Apple 30-inch Cinema Display to a modern Mac](https://appleinsider.com/inside/accessories-and-io/tips/how-to-connect-an-apple-30-inch-cinema-display-to-a-modern-mac?utm_medium=rss)
- - [Pokémon Go’s new Party Play feature will turn groups of friends into raid-crushing teams](https://www.theverge.com/2023/10/16/23919093/pokemon-go-party-play)
- - [Epic is offering a big incentive for developers to bring older games to its store](https://www.theverge.com/2023/10/16/23919265/epic-games-store-now-on-older-games)
- - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)<!-- TECH:END -->
+ - [Pokémon Go’s new Party Play feature will turn groups of friends into raid-crushing teams](https://www.theverge.com/2023/10/16/23919093/pokemon-go-party-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

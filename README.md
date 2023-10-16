@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ferrari begins accepting crypto payments for its cars in the US and plans to add the option for European customers in Q1 2024; Ferrari sold 13,200 cars in 2022 &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/231016/p6#a231016p6)
- - [21.co: the US now holds 200K+ bitcoin, worth $5B+, seized from criminals and darknet markets; an IRS executive says sales are &quot;set by the timing in our process&quot; &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/231016/p5#a231016p5)
- - [Mackenzie Limited Ted Lasso shortbread biscuits review: A delicious collaboration](https://appleinsider.com/articles/23/10/16/mackenzie-limited-ted-lasso-shortbread-biscuits-review-a-delicious-collaboration?utm_medium=rss)
- - [SolanaFM: the FTX estate staked 5.5M SOL, valued at $122M, from a principal wallet, delegating the coins to network validator Figment; FTX has $1B+ in SOL &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/231016/p4#a231016p4)
- - [Spotify has been experiencing performance issues on iOS since weeks](https://www.androidauthority.com/spotify-crashing-ios-3376194/)<!-- TECH:END -->
+ - [TikTok confirms appealing a &amp;euro;345M teen privacy fine by EU regulators from September in the EU General Court and is also locally challenging an order by Ireland &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231016/p7#a231016p7)
+ - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
+ - [Deepfake Porn Is Out of Control](https://www.wired.com/story/deepfake-porn-is-out-of-control/)
+ - [The Problematic Rise of Personalized Nutrition](https://www.wired.com/story/zoe-nutrition-apps/)
+ - [Ferrari begins accepting crypto payments for its cars in the US and plans to add the option for European customers in Q1 2024; Ferrari sold 13,200 cars in 2022 &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/231016/p6#a231016p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

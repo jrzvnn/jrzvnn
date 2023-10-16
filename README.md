@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
  - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 👉 [My heart stopped for a second](http://9gag.com/gag/aeQEPAq)<!-- MEMES:END -->
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 👉 [2020.....](http://9gag.com/gag/aEqbNjn)<!-- MEMES:END -->
 
 ---
 

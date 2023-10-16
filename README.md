@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - 😝 [Rosted and destroyed \u2713](http://9gag.com/gag/aVb89PP)
- - 💣 [Yeah](http://9gag.com/gag/anz3ZM5)
- - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 👉 [Welcome to filterland](http://9gag.com/gag/aVb85Wd)<!-- MEMES:END -->
+ - 😝 [The best](http://9gag.com/gag/aKEynvZ)
+ - 😝 [Hide yo grannies](http://9gag.com/gag/aoK6oB3)
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 👉 [2020.....](http://9gag.com/gag/aEqbNjn)<!-- MEMES:END -->
 
 ---
 

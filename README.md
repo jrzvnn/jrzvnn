@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
+ - 😝 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
+ - 💣 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
  - 😝 [Autumn fun](http://9gag.com/gag/agobpe6)
- - 💣 [Remember?](http://9gag.com/gag/a1Pn80G)
- - 😝 [Do the cat](http://9gag.com/gag/aqeOdm7)
- - 👉 [Richard Patterson teaching the proper way to drink whisky like a Ser!](http://9gag.com/gag/ap9XXK5)<!-- MEMES:END -->
+ - 👉 [Are you ok?](http://9gag.com/gag/aQEKrmK)<!-- MEMES:END -->
 
 ---
 

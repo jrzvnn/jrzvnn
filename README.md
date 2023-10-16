@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 💣 [Slavic minimalism](http://9gag.com/gag/aDYLqKx)
+ - 😝 [More like if he was poor](http://9gag.com/gag/aOxOn96)
+ - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 💣 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)
  - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
+ - 👉 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)<!-- MEMES:END -->
 
 ---
 

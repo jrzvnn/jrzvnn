@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney’s Gargoyles may live again — for real this time](https://www.theverge.com/2023/10/16/23920021/disney-reboot-animated-gargoyles-live-action)
+ - [Apple rumors of refreshed iPads could mean new chips or new Pencils](https://www.theverge.com/2023/10/15/23917926/apple-ipad-air-mini-tablet-m2-a16-bionic-rumor)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will soon be able to update unopened iPhones](https://www.androidauthority.com/apple-update-unopened-iphones-sealed-boxes-3375640/)
+ - [Google Camera now has a new name to give you next level Pixel envy](https://www.androidauthority.com/google-camera-pixel-camera-3376160/)
+ - [Millions of Workers Are Training AI Models for Pennies](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/)
  - [The Pixel 8 series supports display output over USB-C despite what Google says](https://www.androidauthority.com/google-pixel-8-display-port-3376141/)
- - [Gary Gensler says it&#39;s &quot;nearly unavoidable&quot; that AI will cause a financial crisis if many institutions rely on the same underlying base model or data aggregator &lpar;Financial Times&rpar;](http://www.techmeme.com/231016/p1#a231016p1)
- - [Lakers legend Rick Fox built a house that can suck CO2 out of the atmosphere](https://www.theverge.com/2023/10/16/23916106/nba-lakers-rick-fox-concrete-alternative-house-partanna-climate-change)
- - [Australia fined X ~$384K and warned Google after the companies didn&#39;t give enough info about their efforts to fight CSAM despite a law requiring the disclosure &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/231015/p8#a231015p8)
- - [How Moscow-based crypto exchange Garantex became a major money laundering channel for cybercriminals and terrorist groups like the Palestinian Islamic Jihad &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/231015/p7#a231015p7)<!-- TECH:END -->
+ - [Gary Gensler says it&#39;s &quot;nearly unavoidable&quot; that AI will cause a financial crisis if many institutions rely on the same underlying base model or data aggregator &lpar;Financial Times&rpar;](http://www.techmeme.com/231016/p1#a231016p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

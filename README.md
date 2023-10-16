@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When they tell you anime/video game girls are `unrealistic`...](http://9gag.com/gag/a04GWjX)
- - 😝 [Remember?](http://9gag.com/gag/a1Pn80G)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [Diversity is our strength](http://9gag.com/gag/a3ZDzW7)
- - 👉 [Richard Patterson teaching the proper way to drink whisky like a Ser!](http://9gag.com/gag/ap9XXK5)<!-- MEMES:END -->
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 😝 [Are you ok?](http://9gag.com/gag/aQEKrmK)
+ - 💣 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 😝 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 👉 [Devil&#39;s Wheel](http://9gag.com/gag/agob6mv)<!-- MEMES:END -->
 
 ---
 

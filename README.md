@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
  - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 😝 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 👉 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)<!-- MEMES:END -->
 
 ---
 

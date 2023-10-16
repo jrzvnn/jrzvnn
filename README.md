@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Free AI PDF editor for Mac and iPhone from PDFgear](https://appleinsider.com/articles/23/10/16/free-ai-pdf-editor-for-mac-and-iphone-from-pdfgear?utm_medium=rss)
  - [TikTok confirms appealing a &amp;euro;345M teen privacy fine by EU regulators from September in the EU General Court and is also locally challenging an order by Ireland &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231016/p7#a231016p7)
  - [Buyers complain of burn-in on iPhone 15 Pro Max display](https://appleinsider.com/articles/23/10/16/buyers-complain-of-burn-in-on-iphone-15-pro-max-display?utm_medium=rss)
  - [Deepfake Porn Is Out of Control](https://www.wired.com/story/deepfake-porn-is-out-of-control/)
- - [The Problematic Rise of Personalized Nutrition](https://www.wired.com/story/zoe-nutrition-apps/)
- - [Ferrari begins accepting crypto payments for its cars in the US and plans to add the option for European customers in Q1 2024; Ferrari sold 13,200 cars in 2022 &lpar;Giulio Piovaccari/Reuters&rpar;](http://www.techmeme.com/231016/p6#a231016p6)<!-- TECH:END -->
+ - [The Problematic Rise of Personalized Nutrition](https://www.wired.com/story/zoe-nutrition-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

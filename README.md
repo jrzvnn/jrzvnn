@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s when the Snapdragon 8 Gen 3 will launch](https://www.androidauthority.com/snapdragon-8-gen-3-launch-window-3376343/)
+ - [Netflix tests streaming games to US TVs to take on PlayStation and Xbox](https://www.theverge.com/2023/10/16/23919517/netflix-game-streaming-beta-tvs-us)
  - [Early holiday Apple deals are going on now at Amazon, many at Prime Day pricing](https://appleinsider.com/articles/23/10/16/early-holiday-apple-deals-are-going-on-now-at-amazon-many-at-prime-day-pricing?utm_medium=rss)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [What is Wi-Fi 7 — and do you even need it?](https://www.theverge.com/23902812/wi-fi-7-explained)
- - [Google calls out ‘unnecessary’ age verification systems for teens and adults](https://www.androidauthority.com/age-verification-google-framework-3376320/)
- - [Twitch adds stories to its mobile app](https://www.theverge.com/2023/10/16/23919304/twitch-stories-roll-out-twitchcon-2023)<!-- TECH:END -->
+ - [What is Wi-Fi 7 — and do you even need it?](https://www.theverge.com/23902812/wi-fi-7-explained)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

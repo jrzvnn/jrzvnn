@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 💣 [When that 11 year old gamer really does end up f**king your mom...](http://9gag.com/gag/aZDKO7V)
- - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - 👉 [This is funny af](http://9gag.com/gag/adPMw2V)<!-- MEMES:END -->
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 😝 [When that 11 year old gamer really does end up f**king your mom...](http://9gag.com/gag/aZDKO7V)
+ - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
+ - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
 
 ---
 

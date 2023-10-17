@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
+ - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 💣 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 👉 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
- - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
- - 💣 [1, 2 or 3.](http://9gag.com/gag/a2KVV0Y)
- - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
+ - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 😝 [An Israeli-Arab law school graduate &lpar;funded by taxpayers&rpar; was celebrating the attack on Israel. She isn&#39;t a lawyer anymore.](http://9gag.com/gag/aKEyov1)
+ - 👉 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)<!-- MEMES:END -->
 
 ---
 

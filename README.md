@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML says new updates to US export curbs designed to block China&#39;s access to highly advanced chip tech will lower its Chinese sales in the medium to long term &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231017/p29#a231017p29)
+ - [Shop Big Savings on New and Refurb Amazon Devices Right Now at Woot     - CNET](https://www.cnet.com/deals/shop-big-savings-new-refurb-amazon-devices-woot/#ftag=CAD590a51e)
  - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&quot; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)
  - [Garmin expands its ECG app to more smartwatches](https://www.androidauthority.com/garmin-smartwatch-ecg-app-3376835/)
- - [Adam Mosseri says Threads&#39; blocking of &quot;Covid&quot; and related terms is temporary and will be lifted in &quot;weeks or months&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p28#a231017p28)
- - [Hit your fitness goals with 50% off the Amazfit GTS 2 Mini](https://www.androidauthority.com/amazfit-gts-2-mini-deal-3376845/)
- - [X&#39;s Community Notes have struggled during the Israel-Hamas war as volunteers become overwhelmed; just 438 notes ended up being displayed in the first five days &lpar;Conspirador Norte ...&rpar;](http://www.techmeme.com/231017/p27#a231017p27)<!-- TECH:END -->
+ - [Adam Mosseri says Threads&#39; blocking of &quot;Covid&quot; and related terms is temporary and will be lifted in &quot;weeks or months&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p28#a231017p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

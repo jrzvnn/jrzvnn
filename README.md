@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Top notch safety video](http://9gag.com/gag/aBdMMBx)
+ - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 💣 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
  - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 👉 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)<!-- MEMES:END -->
 
 ---
 

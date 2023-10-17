@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stand.earth: Apple is ahead of Microsoft, Google, Nvidia, Dell, and HP in climate initiatives and is the only one that has renewable targets for its suppliers &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/231017/p2#a231017p2)
  - [Xiaomi unveils HyperOS, an Android-based operating system set to debut with Xiaomi 14 series smartphones and gradually replace the company&#39;s 13-year-old MIUI OS &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/231017/p1#a231017p1)
  - [WhatsApp for Android enables passwordless logins with Passkeys support](https://www.androidauthority.com/whatsapp-passkeys-support-3376637/)
  - [Baidu co-founder Robin Li unveils Ernie 4.0, declaring that the language model is on par with OpenAI&#39;s GPT-4 in terms of sophistication and general capabilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/231016/p32#a231016p32)
- - [Xiaomi is retiring MIUI after 13 long years and replacing it with a brand new OS](https://www.androidauthority.com/xiaomi-hyperos-3376622/)
- - [How to turn color photos black and white on iPad](https://appleinsider.com/inside/ipad/tips/how-to-turn-color-photos-black-and-white-on-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi is retiring MIUI after 13 long years and replacing it with a brand new OS](https://www.androidauthority.com/xiaomi-hyperos-3376622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

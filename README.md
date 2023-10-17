@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube audio will no longer be a rollercoaster of volumes](https://www.androidauthority.com/youtube-features-rollout-3376867/)
  - [Across the Spider-Verse hits Netflix this October](https://www.theverge.com/23920975/across-the-spider-verse-netflix-october-release-date)
  - [Remember the Galaxy Buds Live? You can now get a pair for $60](https://www.androidauthority.com/samsung-galaxy-buds-live-deal-3376890/)
  - [Quest 3&#39;s better passthrough video means people are once again walking around in public with face-mounted, video-recording devices, a throwback to &quot;glassholes&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/231017/p30#a231017p30)
- - [Rivian’s latest software update makes towing on tough terrain easier](https://www.theverge.com/2023/10/17/23920632/rivian-ota-software-update-2023-38-drive-mode-towing-improvements)
- - [Ultimate showdown: New Apple Pencil USB-C vs old Apple Pencils](https://appleinsider.com/inside/apple-pencil/vs/ultimate-showdown-new-apple-pencil-usb-c-vs-old-apple-pencils?utm_medium=rss)<!-- TECH:END -->
+ - [Rivian’s latest software update makes towing on tough terrain easier](https://www.theverge.com/2023/10/17/23920632/rivian-ota-software-update-2023-38-drive-mode-towing-improvements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

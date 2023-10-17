@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say Hamas using hostages&#39; Facebook, Instagram, and WhatsApp to livestream attacks and issue death threats is a new tactic; one stream lasted 43 minutes &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p21#a231017p21)
+ - [eBay’s early holiday sale brings discounts on Samsung’s The Frame TV and Bose headphones](https://www.theverge.com/2023/10/17/23919139/ebay-holiday-sale-deals-samsung-frame-tv-jabra-earbuds-bose-headphones-lg)
  - [Apple announces entry-level Apple Pencil with USB-C charging](https://www.theverge.com/2023/10/17/23919994/apple-pencil-stylus-usb-c-price-updates)
  - [Apple debuts third-generation Apple Pencil with USB-C charging](https://appleinsider.com/articles/23/10/17/apple-debuts-third-generation-apple-pencil-with-usb-c-charging?utm_medium=rss)
- - [Apple announces a new &quot;affordable&quot; $79 Apple Pencil with USB-C for charging, shipping in &quot;early November&quot; and compatible with all USB-C iPads &lpar;Stephen Warwick/iMore&rpar;](http://www.techmeme.com/231017/p20#a231017p20)
- - [Retail store staff accuse Apple UK of illegal union busting efforts](https://appleinsider.com/articles/23/10/17/staff-accuse-apple-uk-of-illegal-union-busting-efforts?utm_medium=rss)
- - [The US plans to significantly constrict AI chip exports, including by Nvidia and Intel, hoping to close perceived loopholes in the export controls from 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231017/p19#a231017p19)<!-- TECH:END -->
+ - [Apple announces a new &quot;affordable&quot; $79 Apple Pencil with USB-C for charging, shipping in &quot;early November&quot; and compatible with all USB-C iPads &lpar;Stephen Warwick/iMore&rpar;](http://www.techmeme.com/231017/p20#a231017p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

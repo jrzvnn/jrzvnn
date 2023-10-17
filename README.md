@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vancouver-based Procurify, a spend management and procurement software startup, raised a $50M Series C led by Ten Coves Capital and says sales are up 100% YoY &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p37#a231017p37)
+ - [GM’s plan to make more electric trucks keeps running into delays](https://www.theverge.com/2023/10/17/23921238/gm-electric-truck-factory-delay-orion-ev)
+ - [Updated 24-inch iMac expected in 2024, 32-inch iMac in 2025](https://appleinsider.com/articles/23/10/17/updated-24-inch-imac-expected-in-2024-32-inch-imac-in-2025?utm_medium=rss)
  - [Daily deals Oct. 17: $170 off M2 MacBook Air, $69 off AirPods Max, Samsung 43&quot; M7 monitor $349, more](https://appleinsider.com/articles/23/10/17/daily-deals-oct-17-170-off-m2-macbook-air-69-off-airpods-max-samsung-43-m7-monitor-349-more?utm_medium=rss)
- - [Prime Members Can Save Up to 62% on Funko Pop Figures, Games and Accessories     - CNET](https://www.cnet.com/deals/prime-members-can-save-up-to-62-on-funko-pop-figures-games-and-accessories/#ftag=CAD590a51e)
- - [Similarweb: X&#39;s global monthly website traffic declined 14% YoY in September, US traffic dropped 19% YoY, while traffic to Musk&#39;s profile page was up 96% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p36#a231017p36)
- - [Meta will now let you stop Instagram from tracking you across the web](https://www.theverge.com/2023/10/17/23921095/meta-disconnect-data-websites-send-to-instagram)
- - [Yard Graveyard Headstones     - CNET](https://www.cnet.com/news/yard-graveyard-headstones-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Members Can Save Up to 62% on Funko Pop Figures, Games and Accessories     - CNET](https://www.cnet.com/deals/prime-members-can-save-up-to-62-on-funko-pop-figures-games-and-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

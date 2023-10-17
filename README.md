@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
  - 💣 [I am so proud if this community!](http://9gag.com/gag/aME6obM)
  - 😝 [Macron redemption arc?](http://9gag.com/gag/a8q9x0e)
- - 👉 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)<!-- MEMES:END -->
+ - 👉 [Justice served!](http://9gag.com/gag/aQEKWze)<!-- MEMES:END -->
 
 ---
 

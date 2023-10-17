@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drop&#39;s new tenkeyless mechanical keyboard redefines customization](https://appleinsider.com/articles/23/10/17/drops-new-tenkeyless-mechanical-keyboard-redefines-customization?utm_medium=rss)
  - [Apple releases the new Apple Pencil, now with USB-C](https://www.androidauthority.com/apple-pencil-usb-c-launch-3376818/)
  - [Intel Core i9-14900K, i7-14700K, and i5-14600K review: same architecture as 13th Gen, higher power draw, and similar performance, slightly improved for gaming &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231017/p25#a231017p25)
  - [Netflix’s first live sports broadcast pairs up F1 drivers with pro golfers](https://www.theverge.com/2023/10/17/23920735/netflix-cup-live-sports-broadcast-f1-drivers-pro-golfers)
- - [Patreon acquires Moment, which helps creators host live-streamed, ticketed experiences like podcasts and concerts and has raised $13.5M since its 2019 founding &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/231017/p24#a231017p24)
- - [Snapchat now lets you embed videos and lenses on the web](https://www.theverge.com/2023/10/17/23920623/snapchat-embed-videos-lenses-web)<!-- TECH:END -->
+ - [Patreon acquires Moment, which helps creators host live-streamed, ticketed experiences like podcasts and concerts and has raised $13.5M since its 2019 founding &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/231017/p24#a231017p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

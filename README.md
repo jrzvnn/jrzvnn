@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
  - 💣 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
- - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)
- - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 💣 [From the archives 03](http://9gag.com/gag/aeQEnxp)
- - 😝 [I am so proud if this community!](http://9gag.com/gag/aME6obM)
- - 👉 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)<!-- MEMES:END -->
+ - 😝 [Hide yo grannies](http://9gag.com/gag/aoK6oB3)
+ - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
 
 ---
 

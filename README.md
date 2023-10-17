@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Phil Spencer says Activision Blizzard games won&#39;t come to Xbox Game Pass until 2024, in part due to the time it took for the Activision acquisition to be closed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231017/p44#a231017p44)
+ - [The US IRS plans to offer a free direct e-filing option in 13 states in 2024, for taxpayers with simpler tax situations &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/231017/p43#a231017p43)
+ - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)
  - [Dead Space is coming to Xbox Game Pass just in time for Halloween](https://www.theverge.com/2023/10/17/23921535/dead-space-remake-xbox-game-pass-halloween)
- - [Reddit’s blockchain-based Community Points are going away](https://www.theverge.com/2023/10/17/23921437/reddit-crypto-rugpull-community-points)
- - [B&amp;H Photo&#39;s $1,900 off MacBook Pro is the deal of the week, plus other discounted computers](https://appleinsider.com/articles/23/10/17/bh-photos-1900-off-macbook-pro-is-the-deal-of-the-week-plus-other-discounted-computers?utm_medium=rss)
- - [OpenAI’s flagship AI model has gotten more trustworthy but easier to trick](https://www.theverge.com/2023/10/17/23921501/gpt-4-trust-generative-ai-toxic-bias)
- - [Roblox CEO David Baszucki says the company is &quot;transitioning away&quot; from remote work, as virtual workspaces aren&#39;t as engaging or productive as physical ones &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231017/p42#a231017p42)<!-- TECH:END -->
+ - [Reddit’s blockchain-based Community Points are going away](https://www.theverge.com/2023/10/17/23921437/reddit-crypto-rugpull-community-points)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

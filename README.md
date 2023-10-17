@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple Watch Series 9 faces](https://www.androidauthority.com/best-apple-watch-series-9-faces-3370162/)
+ - [Analysts and developers weigh in on the impact of Microsoft&#39;s Activision Blizzard acquisition, including on its cloud gaming and mobile strategy going forward &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/231016/p31#a231016p31)
  - [Apple Store online officially launches in Chile](https://appleinsider.com/articles/23/10/17/apple-store-online-officially-launches-in-chile?utm_medium=rss)
  - [Marc Andreessen&#39;s &quot;Techno-Optimist Manifesto&quot; lists &quot;enemies&quot; such as trust and safety and tech ethics, says AI is &quot;our Philosopher&#39;s Stone&quot;, and more &lpar;Rachyl Jones/Fortune&rpar;](http://www.techmeme.com/231016/p30#a231016p30)
- - [As Telegram allows Hamas to use its service, CEO Pavel Durov says Telegram channels are a &quot;source of first-hand information&quot; for researchers and journalists &lpar;CNN&rpar;](http://www.techmeme.com/231016/p29#a231016p29)
- - [The Meta glassholes have arrived](https://www.theverge.com/23920102/meta-quest-3-in-public-privacy-recording-glassholes)
- - [Bandcamp lays off about 50% of its workforce, or 58 employees, just weeks after the company was acquired by Songtradr from Epic Games &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/231016/p28#a231016p28)<!-- TECH:END -->
+ - [As Telegram allows Hamas to use its service, CEO Pavel Durov says Telegram channels are a &quot;source of first-hand information&quot; for researchers and journalists &lpar;CNN&rpar;](http://www.techmeme.com/231016/p29#a231016p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

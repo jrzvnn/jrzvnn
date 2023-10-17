@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Watch 2 review: A solid second draft, but still a work in progress](https://www.androidauthority.com/google-pixel-watch-2-review-3374403/)
  - [Apple’s latest iOS update could have a big impact on podcast downloads](https://www.theverge.com/2023/10/17/23921466/apple-ios-update-podcast-downloads-spotify-rogan-youtube)
  - [Insiders Say X’s Crowdsourced Anti-Disinformation Tool Is Making the Problem Worse](https://www.wired.com/story/x-community-notes-disinformation/)
  - [Internal document: Amazon has committed more than $1B over five years to secure 1M+ Microsoft 365 license seats &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/231017/p45#a231017p45)
- - [Phil Spencer says Activision Blizzard games won&#39;t come to Xbox Game Pass until 2024, in part due to the time it took for the Activision acquisition to be closed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231017/p44#a231017p44)
- - [The US IRS plans to offer a free direct e-filing option in 13 states in 2024, for taxpayers with simpler tax situations &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/231017/p43#a231017p43)<!-- TECH:END -->
+ - [Phil Spencer says Activision Blizzard games won&#39;t come to Xbox Game Pass until 2024, in part due to the time it took for the Activision acquisition to be closed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231017/p44#a231017p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

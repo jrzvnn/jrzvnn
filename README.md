@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Updated 24-inch iMac expected in 2024, 32-inch iMac in 2025](https://appleinsider.com/articles/23/10/17/updated-24-inch-imac-expected-in-2024-32-inch-imac-in-2025?utm_medium=rss)
  - [Google Clock app gets weather forecast and other cool new features in update](https://www.androidauthority.com/google-clock-app-features-3376944/)
  - [Fitbit is adding step streaks back into the app](https://www.theverge.com/2023/10/17/23921279/fitbit-step-streak-app-battery-percentage)
- - [Vancouver-based Procurify, a spend management and procurement software startup, raised a $50M Series C led by Ten Coves Capital and says sales are up 100% YoY &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p37#a231017p37)<!-- TECH:END -->
+ - [Vancouver-based Procurify, which sells spend management and procurement software, raised a $50M Series C led by Ten Coves Capital and says sales are up 100% YoY &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p37#a231017p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

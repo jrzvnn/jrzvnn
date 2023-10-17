@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat now lets users embed its content into a website, mimicking long-standing Instagram and TikTok features, and adds OpenAI-powered photo expanding tools &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231017/p17#a231017p17)
- - [Google&#39;s Pixel Tablet Is Just $393 Right Now -- That&#39;s Even Lower Than Its Prime Day Price     - CNET](https://www.cnet.com/deals/googles-pixel-tablet-is-just-393-right-now-thats-even-lower-than-its-prime-day-price/#ftag=CAD590a51e)
- - [Grab the Heavily Discounted Blink Outdoor 3 for Just $50     - CNET](https://www.cnet.com/deals/grab-the-heavily-discounted-blink-outdoor-3-for-just-50/#ftag=CAD590a51e)
- - [Current Mortgage Rates for Oct. 17, 2023: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-oct-17-2023-rates-decline/#ftag=CAD590a51e)
- - [Refinance Rates for Oct. 17, 2023: Rates Move Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-oct-17-2023-rates-move-higher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US plans to significantly constrict AI chip exports, including by Nvidia and Intel, hoping to close perceived loopholes in the export controls from 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231017/p19#a231017p19)
+ - [Elgato’s new $279.99 Prompter is an all-in-one teleprompter and extra monitor](https://www.theverge.com/2023/10/17/23920498/elgato-prompter-teleprompter-monitor-release-date-price)
+ - [There’s no way you’ll miss YouTube’s like and subscribe buttons now](https://www.theverge.com/2023/10/17/23920088/youtube-like-subscribe-button-animations)
+ - [Ecobee Smart Doorbell Camera review: even better with the thermostat](https://www.theverge.com/23919864/ecobee-smart-doorbell-camera-review)
+ - [How Ecobee is becoming the smart home company Nest should have been](https://www.theverge.com/23919520/ecobee-smart-doorbell-camera-smart-home-ecosystem-smart-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

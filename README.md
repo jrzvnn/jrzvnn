@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 17: $170 off M2 MacBook Air, $69 off AirPods Max, Samsung 43&quot; M7 monitor $349, more](https://appleinsider.com/articles/23/10/17/daily-deals-oct-17-170-off-m2-macbook-air-69-off-airpods-max-samsung-43-m7-monitor-349-more?utm_medium=rss)
  - [Similarweb: X&#39;s global monthly website traffic declined 14% YoY in September, US traffic dropped 19% YoY, while traffic to Musk&#39;s profile page was up 96% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p36#a231017p36)
  - [Meta will now let you stop Instagram from tracking you across the web](https://www.theverge.com/2023/10/17/23921095/meta-disconnect-data-websites-send-to-instagram)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Sources: internal Microsoft data shows Windows 11 is now in use on 400M+ monthly active devices and on pace to surpass 500M in early 2024 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231017/p35#a231017p35)
- - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&#39; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: internal Microsoft data shows Windows 11 is now in use on 400M+ monthly active devices and on pace to surpass 500M in early 2024 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231017/p35#a231017p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

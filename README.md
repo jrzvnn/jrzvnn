@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spicy new details of the OnePlus Open have leaked](https://www.androidauthority.com/oneplus-open-official-marketing-renders-leak-3376787/)
  - [Experts say Hamas using hostages&#39; Facebook, Instagram, and WhatsApp to livestream attacks and issue death threats is a new tactic; one stream lasted 43 minutes &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p21#a231017p21)
  - [eBay’s early holiday sale brings discounts on Samsung’s The Frame TV and Bose headphones](https://www.theverge.com/2023/10/17/23919139/ebay-holiday-sale-deals-samsung-frame-tv-jabra-earbuds-bose-headphones-lg)
  - [Apple announces entry-level Apple Pencil with USB-C charging](https://www.theverge.com/2023/10/17/23919994/apple-pencil-stylus-usb-c-price-updates)
- - [Apple debuts third-generation Apple Pencil with USB-C charging](https://appleinsider.com/articles/23/10/17/apple-debuts-third-generation-apple-pencil-with-usb-c-charging?utm_medium=rss)
- - [Apple announces a new &quot;affordable&quot; $79 Apple Pencil with USB-C for charging, shipping in &quot;early November&quot; and compatible with all USB-C iPads &lpar;Stephen Warwick/iMore&rpar;](http://www.techmeme.com/231017/p20#a231017p20)<!-- TECH:END -->
+ - [Apple debuts third-generation Apple Pencil with USB-C charging](https://appleinsider.com/articles/23/10/17/apple-debuts-third-generation-apple-pencil-with-usb-c-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
- - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 😝 [An Israeli-Arab law school graduate &lpar;funded by taxpayers&rpar; was celebrating the attack on Israel. She isn&#39;t a lawyer anymore.](http://9gag.com/gag/aKEyov1)
- - 👉 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)<!-- MEMES:END -->
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 😝 [Good for him](http://9gag.com/gag/awZDpg4)
+ - 💣 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 

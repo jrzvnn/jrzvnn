@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legend lives on](http://9gag.com/gag/aA078r2)
- - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
- - 💣 [I am so proud if this community!](http://9gag.com/gag/aME6obM)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
  - 😝 [Macron redemption arc?](http://9gag.com/gag/a8q9x0e)
- - 👉 [Justice served!](http://9gag.com/gag/aQEKWze)<!-- MEMES:END -->
+ - 💣 [This Did Not Feel Good](http://9gag.com/gag/anz3m5E)
+ - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - 👉 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)<!-- MEMES:END -->
 
 ---
 

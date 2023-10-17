@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat now lets you embed videos and lenses on the web](https://www.theverge.com/2023/10/17/23920623/snapchat-embed-videos-lenses-web)
- - [17 Best Wireless Earbuds &lpar;2023&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Bose QuietComfort Ultra Headphones review: predictable excellence](https://www.theverge.com/23920591/bose-quietcomfort-ultra-headphones-review)
- - [A new Alan Wake game just launched in Fortnite](https://www.theverge.com/2023/10/17/23919451/alan-wake-flashback-fortnite)
- - [Clearview AI and the end of privacy, with author Kashmir Hill](https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder)<!-- TECH:END -->
+ - [Apple releases the new Apple Pencil, now with USB-C](https://www.androidauthority.com/apple-pencil-usb-c-launch-3376818/)
+ - [Intel Core i9-14900K, i7-14700K, and i5-14600K review: same architecture as 13th Gen, higher power draw, and similar performance, slightly improved for gaming &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231017/p25#a231017p25)
+ - [Netflix’s first live sports broadcast pairs up F1 drivers with pro golfers](https://www.theverge.com/2023/10/17/23920735/netflix-cup-live-sports-broadcast-f1-drivers-pro-golfers)
+ - [Patreon acquires Moment, which helps creators host live-streamed, ticketed experiences like podcasts and concerts and has raised $13.5M since its 2019 founding &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/231017/p24#a231017p24)
+ - [Snapchat now lets you embed videos and lenses on the web](https://www.theverge.com/2023/10/17/23920623/snapchat-embed-videos-lenses-web)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

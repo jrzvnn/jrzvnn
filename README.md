@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
+ - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
  - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 💣 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 💣 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
+ - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 👉 [Me too](http://9gag.com/gag/a04Gg0Z)<!-- MEMES:END -->
 
 ---
 

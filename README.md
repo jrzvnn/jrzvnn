@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW, Mini, and Rolls-Royce are the latest to sync up with Tesla’s EV charging plug](https://www.theverge.com/2023/10/17/23921374/bmw-mini-rolls-royce-tesla-nacs-ev-charging-standard)
- - [Nvidia’s H800 AI chip for China is blocked by new export rules](https://www.theverge.com/2023/10/17/23921131/us-china-restrictions-ai-chip-sales-nvidia)
- - [Nvidia banking on TensorRT to expand generative AI dominance](https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai)
- - [Updated 24-inch iMac expected in 2024, 32-inch iMac in 2025](https://appleinsider.com/articles/23/10/17/updated-24-inch-imac-expected-in-2024-32-inch-imac-in-2025?utm_medium=rss)
- - [Google Clock app gets weather forecast and other cool new features in update](https://www.androidauthority.com/google-clock-app-features-3376944/)<!-- TECH:END -->
+ - [Here are the details on PS5 cloud streaming](https://www.theverge.com/2023/10/17/23921324/ps5-cloud-streaming-japan-europe-usa)
+ - [Qualcomm announces a wearable platform based on RISC-V for Wear OS in partnership with Google, in what could be the first mass-market RISC-V Android SoC &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231017/p38#a231017p38)
+ - [Apple rolls out iPad eSIM support in China](https://appleinsider.com/articles/23/10/17/apple-rolls-out-ipad-esim-support-in-china?utm_medium=rss)
+ - [Apple Pencil joins the iPad confusion zone](https://www.theverge.com/2023/10/17/23920790/apple-pencil-usb-c-confusing-lineup-ipads)
+ - [BMW, Mini, and Rolls-Royce are the latest to sync up with Tesla’s EV charging plug](https://www.theverge.com/2023/10/17/23921374/bmw-mini-rolls-royce-tesla-nacs-ev-charging-standard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

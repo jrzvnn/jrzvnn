@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is rolling out Wear OS 4 to the original Pixel Watch](https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original)
- - [Apple Vision Pro labs coming to New York City and Sydney in November](https://appleinsider.com/articles/23/10/17/apple-vision-pro-labs-coming-to-new-york-city-and-sydney-in-november?utm_medium=rss)
- - [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer)
- - [The best Midjourney alternatives &lpar;paid and free&rpar;](https://www.androidauthority.com/best-midjourney-alternatives-3376531/)
- - [Google rolls out new accessibility features, like Lens in Maps screen reader options, Google Maps accessible walking routes, and faster Chrome mobile search &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231017/p39#a231017p39)<!-- TECH:END -->
+ - [PwC teams up with OpenAI to use AI to consult on complex tax, legal, and HR matters, as the Big Four audit firms look to AI to cut costs and boost productivity &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231017/p41#a231017p41)
+ - [After promising support for Matter and Thread, Level launches a Wi-Fi bridge instead](https://www.theverge.com/2023/10/17/23920848/level-lock-connect-wifi-bridge-matter-over-thread)
+ - [Pixel Watch owners can start upgrading to Wear OS 4 today!](https://www.androidauthority.com/pixel-watch-wear-os-4-3376966/)
+ - [Meta now lets Instagram users control specific activity that third-party websites share with the app, an ability previously only available on Facebook &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231017/p40#a231017p40)
+ - [Google is rolling out Wear OS 4 to the original Pixel Watch](https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&quot; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)
  - [Garmin expands its ECG app to more smartwatches](https://www.androidauthority.com/garmin-smartwatch-ecg-app-3376835/)
  - [Adam Mosseri says Threads&#39; blocking of &quot;Covid&quot; and related terms is temporary and will be lifted in &quot;weeks or months&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p28#a231017p28)
  - [Hit your fitness goals with 50% off the Amazfit GTS 2 Mini](https://www.androidauthority.com/amazfit-gts-2-mini-deal-3376845/)
- - [X&#39;s Community Notes have struggled during the Israel-Hamas war as volunteers become overwhelmed; just 438 notes ended up being displayed in the first five days &lpar;Conspirador Norte ...&rpar;](http://www.techmeme.com/231017/p27#a231017p27)
- - [Why Scientists Are Bugging the Rainforest](https://www.wired.com/story/why-scientists-are-bugging-the-rainforest/)<!-- TECH:END -->
+ - [X&#39;s Community Notes have struggled during the Israel-Hamas war as volunteers become overwhelmed; just 438 notes ended up being displayed in the first five days &lpar;Conspirador Norte ...&rpar;](http://www.techmeme.com/231017/p27#a231017p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

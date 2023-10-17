@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imho](http://9gag.com/gag/aYVBXyw)
- - 😝 [That was literally the most perfect way to explain the makeup on women](http://9gag.com/gag/aoK6QjX)
- - 💣 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 😝 [Title](http://9gag.com/gag/aQEK5YW)
- - 👉 [An Israeli-Arab law school graduate &lpar;funded by taxpayers&rpar; was celebrating the attack on Israel. She isn&#39;t a lawyer anymore.](http://9gag.com/gag/aKEyov1)<!-- MEMES:END -->
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 💣 [When that 11 year old gamer really does end up f**king your mom...](http://9gag.com/gag/aZDKO7V)
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 👉 [This is funny af](http://9gag.com/gag/adPMw2V)<!-- MEMES:END -->
 
 ---
 

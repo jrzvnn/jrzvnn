@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
- - 😝 [When you get a new mentor](http://9gag.com/gag/aPg0Vmw)
- - 💣 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
+ - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 😝 [24 years ago today, my favorite movie was released, and was considered a flop!](http://9gag.com/gag/adPMzzD)
  - 👉 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)<!-- MEMES:END -->
 
 ---

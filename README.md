@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
- - 💣 [This is funny af](http://9gag.com/gag/adPMw2V)
  - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 💣 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese generative AI startup Baichuan, one of the first to win approval to release its LLMs, raised $300M from Alibaba, Tencent, Xiaomi, and others &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231017/p6#a231017p6)
  - [WhatsApp plans to roll out passkeys to all Android users in the coming months to replace passwords; support for passkeys on WhatsApp for iOS is unclear &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/231017/p5#a231017p5)
  - [Ray-Ban Meta Smart Glasses review: sleek charging case and better audio and camera, but feels like a novelty, Meta AI isn&#39;t useful yet, and limited ecosystem &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p4#a231017p4)
  - [A look at sexism in the video games industry; State of the Game Industry 2023 report: ~23% are women, up from 20% in 2022, 5% are non-binary, and 70% are men &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231017/p3#a231017p3)
- - [The Permission Slip App Helps You Protect Your Online Data. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/the-permission-slip-app-helps-you-protect-your-online-data-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [One Punch Man season 3: Expected release date and the latest rumors](https://www.androidauthority.com/one-punch-man-season-3-release-date-3374997/)<!-- TECH:END -->
+ - [The Permission Slip App Helps You Protect Your Online Data. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/the-permission-slip-app-helps-you-protect-your-online-data-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Ray-Ban Meta Smart Glasses review: sleek charging case and better audio and camera, but feels like a novelty, Meta AI isn&#39;t useful yet, and limited ecosystem &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p4#a231017p4)
  - [A look at sexism in the video games industry; State of the Game Industry 2023 report: ~23% are women, up from 20% in 2022, 5% are non-binary, and 70% are men &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231017/p3#a231017p3)
+ - [The Permission Slip App Helps You Protect Your Online Data. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/the-permission-slip-app-helps-you-protect-your-online-data-heres-what-you-need-to-know/#ftag=CAD590a51e)
  - [One Punch Man season 3: Expected release date and the latest rumors](https://www.androidauthority.com/one-punch-man-season-3-release-date-3374997/)
- - [Does your Pixel 6 have major issues after Android 14? You’re not alone.](https://www.androidauthority.com/pixel-6-phones-bugs-android-14-3376675/)
- - [Inside the Race to Crush Paris’ Bedbug Crisis](https://www.wired.com/story/paris-bed-bugs/)<!-- TECH:END -->
+ - [Does your Pixel 6 have major issues after Android 14? You’re not alone.](https://www.androidauthority.com/pixel-6-phones-bugs-android-14-3376675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

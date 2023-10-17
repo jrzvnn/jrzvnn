@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is what Game Mode does to your Mac](https://appleinsider.com/articles/23/10/17/this-is-what-game-mode-does-to-your-mac?utm_medium=rss)
- - [How the Israeli military uses mobile phone data from the ~1.1M residents of Gaza to track their movements and assess how many heeded Israel&#39;s demand to leave &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p15#a231017p15)
- - [ScyllaDB, a NoSQL database startup working on high-throughput, low-latency workloads, raised $43M led by Eight Roads Ventures, taking its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p14#a231017p14)
- - [FAST TV: What It Is and Why It Should Matter to You     - CNET](https://www.cnet.com/tech/services-and-software/fast-tv-what-it-is-and-why-it-should-matter-to-you/#ftag=CAD590a51e)
- - [Tim Cook makes a rare visit to China, appearing at a contest for Tencent&#39;s Honor of Kings game in the Chengdu Apple Store, as the US ramps up its chip sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231017/p13#a231017p13)<!-- TECH:END -->
+ - [TSMC drops plans to build a new chip plant in Longtan, a rural part of Taiwan, after local opposition; the company reportedly planned to build 1nm chips there &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231017/p16#a231017p16)
+ - [Job Hunting Sucks. This Programmer Filled Out 250 Applications to Find Out Why](https://www.wired.com/story/job-hunting-sucks-programmer-filled-out-250-applications/)
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [These Gene-Edited Chickens Were Made to Resist Bird Flu](https://www.wired.com/story/these-gene-edited-chickens-were-made-to-resist-bird-flu/)
+ - [This is what Game Mode does to your Mac](https://appleinsider.com/articles/23/10/17/this-is-what-game-mode-does-to-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

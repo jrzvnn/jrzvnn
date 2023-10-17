@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hide yo grannies](http://9gag.com/gag/aoK6oB3)
- - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
+ - 😝 [Legend lives on](http://9gag.com/gag/aA078r2)
+ - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - 💣 [I am so proud if this community!](http://9gag.com/gag/aME6obM)
+ - 😝 [Macron redemption arc?](http://9gag.com/gag/a8q9x0e)
+ - 👉 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)<!-- MEMES:END -->
 
 ---
 

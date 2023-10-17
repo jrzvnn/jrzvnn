@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 😝 [Good for him](http://9gag.com/gag/awZDpg4)
- - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 👉 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)<!-- MEMES:END -->
+ - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 💣 [1, 2 or 3.](http://9gag.com/gag/a2KVV0Y)
+ - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
 
 ---
 

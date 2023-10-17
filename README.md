@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
- - 😝 [Not Another Teen Movie &lpar;2001&rpar;. Best scene](http://9gag.com/gag/aWGA5Xq)
- - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 👉 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)<!-- MEMES:END -->
+ - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
+ - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro labs coming to New York City and Sydney in November](https://appleinsider.com/articles/23/10/17/apple-vision-pro-labs-coming-to-new-york-city-and-sydney-in-november?utm_medium=rss)
+ - [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer)
  - [The best Midjourney alternatives &lpar;paid and free&rpar;](https://www.androidauthority.com/best-midjourney-alternatives-3376531/)
  - [Google is rolling out new accessibility features including screen reader capabilities with Lens in Maps and accessible walking routes in Google Maps &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231017/p39#a231017p39)
- - [Here are the details on PS5 cloud streaming](https://www.theverge.com/2023/10/17/23921324/ps5-cloud-streaming-japan-europe-usa)
- - [Qualcomm announces a wearable platform based on RISC-V for Wear OS in partnership with Google, in what could be the first mass-market RISC-V Android SoC &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231017/p38#a231017p38)
- - [Apple rolls out iPad eSIM support in China](https://appleinsider.com/articles/23/10/17/apple-rolls-out-ipad-esim-support-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the details on PS5 cloud streaming](https://www.theverge.com/2023/10/17/23921324/ps5-cloud-streaming-japan-europe-usa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

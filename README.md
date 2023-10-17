@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 😝 [Macron redemption arc?](http://9gag.com/gag/a8q9x0e)
- - 💣 [This Did Not Feel Good](http://9gag.com/gag/anz3m5E)
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 💣 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
  - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
- - 👉 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)<!-- MEMES:END -->
+ - 👉 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)<!-- MEMES:END -->
 
 ---
 

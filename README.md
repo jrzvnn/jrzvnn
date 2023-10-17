@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
- - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - 💣 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)
- - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
+ - 😝 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
+ - 💣 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 👉 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)<!-- MEMES:END -->
 
 ---
 

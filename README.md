@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The face you make when you Find Out](http://9gag.com/gag/a4o8gBQ)
- - 😝 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
- - 💣 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
+ - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
  - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)<!-- MEMES:END -->
+ - 💣 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
+ - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
 
 ---
 

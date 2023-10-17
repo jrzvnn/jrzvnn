@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
  - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
+ - 💣 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
+ - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
 
 ---
 

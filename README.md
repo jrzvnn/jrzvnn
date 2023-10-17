@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fitbit is adding step streaks back into the app](https://www.theverge.com/2023/10/17/23921279/fitbit-step-streak-app-battery-percentage)
  - [Vancouver-based Procurify, a spend management and procurement software startup, raised a $50M Series C led by Ten Coves Capital and says sales are up 100% YoY &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p37#a231017p37)
  - [GM’s plan to make more electric trucks keeps running into delays](https://www.theverge.com/2023/10/17/23921238/gm-electric-truck-factory-delay-orion-ev)
  - [Updated 24-inch iMac expected in 2024, 32-inch iMac in 2025](https://appleinsider.com/articles/23/10/17/updated-24-inch-imac-expected-in-2024-32-inch-imac-in-2025?utm_medium=rss)
- - [Daily deals Oct. 17: $170 off M2 MacBook Air, $69 off AirPods Max, Samsung 43&quot; M7 monitor $349, more](https://appleinsider.com/articles/23/10/17/daily-deals-oct-17-170-off-m2-macbook-air-69-off-airpods-max-samsung-43-m7-monitor-349-more?utm_medium=rss)
- - [Prime Members Can Save Up to 62% on Funko Pop Figures, Games and Accessories     - CNET](https://www.cnet.com/deals/prime-members-can-save-up-to-62-on-funko-pop-figures-games-and-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Oct. 17: $170 off M2 MacBook Air, $69 off AirPods Max, Samsung 43&quot; M7 monitor $349, more](https://appleinsider.com/articles/23/10/17/daily-deals-oct-17-170-off-m2-macbook-air-69-off-airpods-max-samsung-43-m7-monitor-349-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

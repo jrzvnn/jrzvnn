@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nirvana Insurance, which uses AI, telematics, IoT, and 15B miles of trucking data to insure commercial truck fleets, raised a $57M Series B led by Lightspeed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231017/p22#a231017p22)
  - [Spicy new details of the OnePlus Open have leaked](https://www.androidauthority.com/oneplus-open-official-marketing-renders-leak-3376787/)
  - [Experts say Hamas using hostages&#39; Facebook, Instagram, and WhatsApp to livestream attacks and issue death threats is a new tactic; one stream lasted 43 minutes &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p21#a231017p21)
  - [eBay’s early holiday sale brings discounts on Samsung’s The Frame TV and Bose headphones](https://www.theverge.com/2023/10/17/23919139/ebay-holiday-sale-deals-samsung-frame-tv-jabra-earbuds-bose-headphones-lg)
- - [Apple announces entry-level Apple Pencil with USB-C charging](https://www.theverge.com/2023/10/17/23919994/apple-pencil-stylus-usb-c-price-updates)
- - [Apple debuts third-generation Apple Pencil with USB-C charging](https://appleinsider.com/articles/23/10/17/apple-debuts-third-generation-apple-pencil-with-usb-c-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Trainers Can Snag Pokemon Cards at a Discount During Best Buy&#39;s 1-Day Sale     - CNET](https://www.cnet.com/deals/trainers-can-snag-pokemon-cards-at-a-discount-during-best-buys-1-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

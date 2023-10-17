@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H Photo&#39;s $1,900 off MacBook Pro is the deal of the week, plus other discounted computers](https://appleinsider.com/articles/23/10/17/bh-photos-1900-off-macbook-pro-is-the-deal-of-the-week-plus-other-discounted-computers?utm_medium=rss)
+ - [OpenAI’s flagship AI model has gotten more trustworthy but easier to trick](https://www.theverge.com/2023/10/17/23921501/gpt-4-trust-generative-ai-toxic-bias)
+ - [Roblox CEO David Baszucki says the company is &quot;transitioning away&quot; from remote work, as virtual workspaces aren&#39;t as engaging or productive as physical ones &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231017/p42#a231017p42)
  - [PwC teams up with OpenAI to use AI to consult on complex tax, legal, and HR matters, as the Big Four audit firms look to AI to cut costs and boost productivity &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231017/p41#a231017p41)
- - [After promising support for Matter and Thread, Level launches a Wi-Fi bridge instead](https://www.theverge.com/2023/10/17/23920848/level-lock-connect-wifi-bridge-matter-over-thread)
- - [Pixel Watch owners can start upgrading to Wear OS 4 today!](https://www.androidauthority.com/pixel-watch-wear-os-4-3376966/)
- - [Meta now lets Instagram users control specific activity that third-party websites share with the app, an ability previously only available on Facebook &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231017/p40#a231017p40)
- - [Google is rolling out Wear OS 4 to the original Pixel Watch](https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original)<!-- TECH:END -->
+ - [After promising support for Matter and Thread, Level launches a Wi-Fi bridge instead](https://www.theverge.com/2023/10/17/23920848/level-lock-connect-wifi-bridge-matter-over-thread)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

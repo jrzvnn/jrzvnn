@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp for Android enables passwordless logins with Passkeys support](https://www.androidauthority.com/whatsapp-passkeys-support-3376637/)
  - [Baidu&#39;s founder Robin Li unveils Ernie 4.0, saying the language model is on par with OpenAI&#39;s GPT-4 in terms of sophistication and general capabilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/231016/p32#a231016p32)
  - [Xiaomi is retiring MIUI after 13 long years and replacing it with a brand new OS](https://www.androidauthority.com/xiaomi-hyperos-3376622/)
  - [How to turn color photos black and white on iPad](https://appleinsider.com/inside/ipad/tips/how-to-turn-color-photos-black-and-white-on-ipad?utm_medium=rss)
- - [The best Apple Watch Series 9 faces](https://www.androidauthority.com/best-apple-watch-series-9-faces-3370162/)
- - [Analysts and developers weigh in on the impact of Microsoft&#39;s Activision Blizzard acquisition, including on its cloud gaming and mobile strategy going forward &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/231016/p31#a231016p31)<!-- TECH:END -->
+ - [The best Apple Watch Series 9 faces](https://www.androidauthority.com/best-apple-watch-series-9-faces-3370162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

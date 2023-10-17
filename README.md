@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC drops plans to build a new chip plant in Longtan, a rural part of Taiwan, after local opposition; the company reportedly planned to build 1nm chips there &lpar;Sarah Wu/Reuters&rpar;](http://www.techmeme.com/231017/p16#a231017p16)
- - [Job Hunting Sucks. This Programmer Filled Out 250 Applications to Find Out Why](https://www.wired.com/story/job-hunting-sucks-programmer-filled-out-250-applications/)
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [These Gene-Edited Chickens Were Made to Resist Bird Flu](https://www.wired.com/story/these-gene-edited-chickens-were-made-to-resist-bird-flu/)
- - [This is what Game Mode does to your Mac](https://appleinsider.com/articles/23/10/17/this-is-what-game-mode-does-to-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Snapchat now lets users embed its content into a website, mimicking long-standing Instagram and TikTok features, and adds OpenAI-powered photo expanding tools &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231017/p17#a231017p17)
+ - [Google&#39;s Pixel Tablet Is Just $393 Right Now -- That&#39;s Even Lower Than Its Prime Day Price     - CNET](https://www.cnet.com/deals/googles-pixel-tablet-is-just-393-right-now-thats-even-lower-than-its-prime-day-price/#ftag=CAD590a51e)
+ - [Grab the Heavily Discounted Blink Outdoor 3 for Just $50     - CNET](https://www.cnet.com/deals/grab-the-heavily-discounted-blink-outdoor-3-for-just-50/#ftag=CAD590a51e)
+ - [Current Mortgage Rates for Oct. 17, 2023: Rates Decline     - CNET](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-oct-17-2023-rates-decline/#ftag=CAD590a51e)
+ - [Refinance Rates for Oct. 17, 2023: Rates Move Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-oct-17-2023-rates-move-higher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

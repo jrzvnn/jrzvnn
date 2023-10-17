@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin expands its ECG app to more smartwatches](https://www.androidauthority.com/garmin-smartwatch-ecg-app-3376835/)
+ - [Adam Mosseri says Threads&#39; blocking of &quot;Covid&quot; and related terms is temporary and will be lifted in &quot;weeks or months&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p28#a231017p28)
  - [Hit your fitness goals with 50% off the Amazfit GTS 2 Mini](https://www.androidauthority.com/amazfit-gts-2-mini-deal-3376845/)
  - [X&#39;s Community Notes have struggled during the Israel-Hamas war as volunteers become overwhelmed; just 438 notes ended up being displayed in the first five days &lpar;Conspirador Norte ...&rpar;](http://www.techmeme.com/231017/p27#a231017p27)
- - [Why Scientists Are Bugging the Rainforest](https://www.wired.com/story/why-scientists-are-bugging-the-rainforest/)
- - [Honda made an airport robot to handle all the boring, repetitive tasks](https://www.theverge.com/2023/10/17/23920622/honda-autonomous-work-vehicle-airport-robot-toronto)
- - [The US Just Escalated Its AI Chip War With China](https://www.wired.com/story/the-us-just-escalated-its-ai-chip-war-with-china/)<!-- TECH:END -->
+ - [Why Scientists Are Bugging the Rainforest](https://www.wired.com/story/why-scientists-are-bugging-the-rainforest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

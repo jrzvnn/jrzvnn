@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML says new updates to US export curbs designed to block China&#39;s access to highly advanced chip tech will lower its Chinese sales in the medium to long term &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231017/p29#a231017p29)
- - [Shop Big Savings on New and Refurb Amazon Devices Right Now at Woot     - CNET](https://www.cnet.com/deals/shop-big-savings-new-refurb-amazon-devices-woot/#ftag=CAD590a51e)
- - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&quot; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)
- - [Garmin expands its ECG app to more smartwatches](https://www.androidauthority.com/garmin-smartwatch-ecg-app-3376835/)
- - [Adam Mosseri says Threads&#39; blocking of &quot;Covid&quot; and related terms is temporary and will be lifted in &quot;weeks or months&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p28#a231017p28)<!-- TECH:END -->
+ - [Ultimate showdown: New Apple Pencil USB-C vs old Apple Pencils](https://appleinsider.com/inside/apple-pencil/vs/ultimate-showdown-new-apple-pencil-usb-c-vs-old-apple-pencils?utm_medium=rss)
+ - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn’t speak](https://www.theverge.com/2023/10/17/23920733/nyc-mayor-eric-adams-ai-robocalls-spanish-mandarin)
+ - [Google updates accessibility features in Maps, Chrome on mobile, Assistant, more](https://www.androidauthority.com/google-accessibility-updates-2023-3376374/)
+ - [Cobra Kai season 6: Expected release date and the latest rumors](https://www.androidauthority.com/cobra-kai-season-6-release-date-3376064/)
+ - [ASML says new updates to US export curbs designed to block China&#39;s access to highly advanced chip tech will lower its Chinese sales in the medium to long term &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231017/p29#a231017p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

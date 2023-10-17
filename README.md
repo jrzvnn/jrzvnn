@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.1 contains fixes for iPhone 15 screen burn symptoms](https://appleinsider.com/articles/23/10/17/ios-171-contains-fixes-for-iphone-15-screen-burn-symptoms?utm_medium=rss)
+ - [Apple seeds third release candidates for macOS Monterey 12.7.1, macOS Ventura 13.6.1](https://appleinsider.com/articles/23/10/17/apple-seeds-third-release-candidates-for-macos-monterey-1271-macos-ventura-1361?utm_medium=rss)
+ - [Smartphone-based ID verification startup Prove Identity, formerly Payfone, says it raised $40M at a &quot;unicorn status&quot; valuation and has ~1K business customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231017/p32#a231017p32)
  - [Apple rolls out fourth developer beta of tvOS 17.1](https://appleinsider.com/articles/23/10/17/apple-rolls-out-fourth-developer-beta-of-tvos-171?utm_medium=rss)
- - [Release candidate of watchOS 10.1 beta issued to developers](https://appleinsider.com/articles/23/10/17/release-candidate-of-watchos-101-beta-issued-to-developers?utm_medium=rss)
- - [Apple distributes fourth macOS Sonoma 14.1 developer beta](https://appleinsider.com/articles/23/10/17/apple-distributes-fourth-macos-sonoma-141-developer-beta?utm_medium=rss)
- - [Apple issues release candidates for iOS 17.1, iPadOS 17.1](https://appleinsider.com/articles/23/10/17/apple-issues-release-candidates-for-ios-171-ipados-171?utm_medium=rss)
- - [The Colorado Supreme Court ruled evidence from Google obtained via a &quot;keyword search warrant&quot; may be used, one of the first tests of the controversial practice &lpar;Bloomberg&rpar;](http://www.techmeme.com/231017/p31#a231017p31)<!-- TECH:END -->
+ - [Release candidate of watchOS 10.1 beta issued to developers](https://appleinsider.com/articles/23/10/17/release-candidate-of-watchos-101-beta-issued-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

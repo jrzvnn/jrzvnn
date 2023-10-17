@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speed test results reveal fastest internet carrier and smartphone in the US](https://www.androidauthority.com/fastest-mobile-carrier-internet-smartphone-us-3376634/)
- - [The FTX estate floats an amended proposal to return up to 90% of creditor holdings, divided into three pools, and plans to formally file the plan by December 16 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231017/p8#a231017p8)
- - [US v. SBF: Nishad Singh says SBF used customer funds for spending sprees that &quot;reeked of excess&quot; and he learned of an $8B hole two months before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p7#a231017p7)
- - [Google is fixing Drive download problems related to third-party cookies](https://www.theverge.com/2023/10/17/23920504/google-drive-third-party-cookies-download-fix)
- - [Chinese generative AI startup Baichuan, one of the first to win approval to release its LLMs, raised $300M from Alibaba, Tencent, Xiaomi, and others &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231017/p6#a231017p6)<!-- TECH:END -->
+ - [Meta identifies and fixes a bug after thousands of Palestinian supporters say their posts were suppressed or removed from Facebook and Instagram &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/231017/p10#a231017p10)
+ - [Twitch launches Stories, expiring after 48 hours, for Partners and Affiliates who have streamed at least once for 45 minutes or longer in the last 30 days &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p9#a231017p9)
+ - [‘Someone Is Using Photos of Me to Talk to Men’](https://www.wired.com/story/online-harassment-canada-cyberbullying/)
+ - [They Supported Air Strike Victims. Then They Were Doxed and Arrested](https://www.wired.com/story/myanmar-doxxing-airstrike/)
+ - [A ‘Godfather of AI’ Calls for an Organization to Defend Humanity](https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

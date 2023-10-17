@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out fourth developer beta of tvOS 17.1](https://appleinsider.com/articles/23/10/17/apple-rolls-out-fourth-developer-beta-of-tvos-171?utm_medium=rss)
  - [Release candidate of watchOS 10.1 beta issued to developers](https://appleinsider.com/articles/23/10/17/release-candidate-of-watchos-101-beta-issued-to-developers?utm_medium=rss)
  - [Apple distributes fourth macOS Sonoma 14.1 developer beta](https://appleinsider.com/articles/23/10/17/apple-distributes-fourth-macos-sonoma-141-developer-beta?utm_medium=rss)
  - [Apple issues release candidates for iOS 17.1, iPadOS 17.1](https://appleinsider.com/articles/23/10/17/apple-issues-release-candidates-for-ios-171-ipados-171?utm_medium=rss)
- - [The Colorado Supreme Court ruled evidence from Google obtained via a &quot;keyword search warrant&quot; may be used, one of the first tests of the controversial practice &lpar;Bloomberg&rpar;](http://www.techmeme.com/231017/p31#a231017p31)
- - [Ultimate showdown: New Apple Pencil USB-C vs old Apple Pencils](https://appleinsider.com/inside/apple-pencil/vs/ultimate-showdown-new-apple-pencil-usb-c-vs-old-apple-pencils?utm_medium=rss)<!-- TECH:END -->
+ - [The Colorado Supreme Court ruled evidence from Google obtained via a &quot;keyword search warrant&quot; may be used, one of the first tests of the controversial practice &lpar;Bloomberg&rpar;](http://www.techmeme.com/231017/p31#a231017p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insiders Say X’s Crowdsourced Anti-Disinformation Tool Is Making the Problem Worse](https://www.wired.com/story/x-community-notes-disinformation/)
+ - [Internal documents: Amazon has committed more than $1B over five years to secure 1M+ Microsoft 365 license seats &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/231017/p45#a231017p45)
  - [Phil Spencer says Activision Blizzard games won&#39;t come to Xbox Game Pass until 2024, in part due to the time it took for the Activision acquisition to be closed &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231017/p44#a231017p44)
  - [The US IRS plans to offer a free direct e-filing option in 13 states in 2024, for taxpayers with simpler tax situations &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/231017/p43#a231017p43)
- - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)
- - [Dead Space is coming to Xbox Game Pass just in time for Halloween](https://www.theverge.com/2023/10/17/23921535/dead-space-remake-xbox-game-pass-halloween)
- - [Reddit’s blockchain-based Community Points are going away](https://www.theverge.com/2023/10/17/23921437/reddit-crypto-rugpull-community-points)<!-- TECH:END -->
+ - [Chrome on iOS and Android will now detect URL typos](https://www.theverge.com/2023/10/17/23921281/chrome-ios-android-url-typos-accessibility-google-maps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

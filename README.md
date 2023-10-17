@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 😝 [That&#39;s mine you little twerp!](http://9gag.com/gag/a2KVVeZ)
+ - 💣 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
  - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 👉 [Lily Smith](http://9gag.com/gag/avQVqwE)<!-- MEMES:END -->
+ - 👉 [Good for him](http://9gag.com/gag/awZDpg4)<!-- MEMES:END -->
 
 ---
 

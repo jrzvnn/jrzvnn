@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They pretend to be pedestrians](http://9gag.com/gag/ay2Ar0p)
- - 😝 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
- - 💣 [The face of happiness](http://9gag.com/gag/aWGA506)
- - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - 👉 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)<!-- MEMES:END -->
+ - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
+ - 😝 [Not Another Teen Movie &lpar;2001&rpar;. Best scene](http://9gag.com/gag/aWGA5Xq)
+ - 💣 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)
+ - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 

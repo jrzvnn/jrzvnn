@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is killing blockchain-based Community Points, launched in 2020 as a way to reward creators and devs, citing the regulatory environment and scaling issues &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p34#a231017p34)
- - [Amazon plans to launch its online marketplace in South Africa in 2024, a long-awaited move delayed by land disputes, and invites potential sellers to register &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/231017/p33#a231017p33)
- - [Mophie announces new MagSafe-compatible Snap+ Juice Pack Mini with Stand.](https://appleinsider.com/articles/23/10/17/mophie-announces-new-magsafe-compatible-snap-juice-pack-mini-with-stand?utm_medium=rss)
- - [iOS 17.1 contains fixes for iPhone 15 screen burn symptoms](https://appleinsider.com/articles/23/10/17/ios-171-contains-fixes-for-iphone-15-screen-burn-symptoms?utm_medium=rss)
- - [Apple seeds third release candidates for macOS Monterey 12.7.1, macOS Ventura 13.6.1](https://appleinsider.com/articles/23/10/17/apple-seeds-third-release-candidates-for-macos-monterey-1271-macos-ventura-1361?utm_medium=rss)<!-- TECH:END -->
+ - [Similarweb: X&#39;s global monthly website traffic declined 14% YoY in September, US traffic dropped 19% YoY, while traffic to Musk&#39;s profile page was up 96% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231017/p36#a231017p36)
+ - [Meta will now let you stop Instagram from tracking you across the web](https://www.theverge.com/2023/10/17/23921095/meta-disconnect-data-websites-send-to-instagram)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Sources: internal Microsoft data shows Windows 11 is now in use on 400M+ monthly active devices and on pace to surpass 500M in early 2024 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231017/p35#a231017p35)
+ - [Hannah Waddingham takes Apple TV+ &#39;Home for Christmas&#39; in new special](https://appleinsider.com/articles/23/10/17/hannah-waddingham-takes-apple-tv-home-for-christmas-in-new-special?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

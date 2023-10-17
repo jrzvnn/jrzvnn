@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTX estate floats an amended proposal to return up to 90% of creditor holdings, divided into three pools, and plans to formally file the plan by December 16 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231017/p8#a231017p8)
  - [US v. SBF: Nishad Singh says SBF used customer funds for spending sprees that &quot;reeked of excess&quot; and he learned of an $8B hole two months before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p7#a231017p7)
  - [Google is fixing Drive download problems related to third-party cookies](https://www.theverge.com/2023/10/17/23920504/google-drive-third-party-cookies-download-fix)
  - [Chinese generative AI startup Baichuan, one of the first to win approval to release its LLMs, raised $300M from Alibaba, Tencent, Xiaomi, and others &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231017/p6#a231017p6)
- - [WhatsApp plans to roll out passkeys to all Android users in the coming months to replace passwords; support for passkeys on WhatsApp for iOS is unclear &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/231017/p5#a231017p5)
- - [Ray-Ban Meta Smart Glasses review: sleek charging case and better audio and camera, but feels like a novelty, Meta AI isn&#39;t useful yet, and limited ecosystem &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p4#a231017p4)<!-- TECH:END -->
+ - [WhatsApp plans to roll out passkeys to all Android users in the coming months to replace passwords; support for passkeys on WhatsApp for iOS is unclear &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/231017/p5#a231017p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

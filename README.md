@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 😝 [Good for him](http://9gag.com/gag/awZDpg4)
- - 💣 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
  - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
+ - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 👉 [Lily Smith](http://9gag.com/gag/avQVqwE)<!-- MEMES:END -->
 
 ---
 

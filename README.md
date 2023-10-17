@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is what Game Mode does to your Mac](https://appleinsider.com/articles/23/10/17/this-is-what-game-mode-does-to-your-mac?utm_medium=rss)
  - [How the Israeli military uses mobile phone data from the ~1.1M residents of Gaza to track their movements and assess how many heeded Israel&#39;s demand to leave &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p15#a231017p15)
  - [ScyllaDB, a NoSQL database startup working on high-throughput, low-latency workloads, raised $43M led by Eight Roads Ventures, taking its total funding to $103M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231017/p14#a231017p14)
- - [Tim Cook makes a rare visit to China, appearing at a contest for Tencent&#39;s Honor of Kings game in the Chengdu Apple Store, as the US ramps up its chip sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231017/p13#a231017p13)
- - [AI Chatbots Can Guess Your Personal Information From What You Type](https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/)
- - [We asked, you told us: You’ll miss the Pixel’s Photo Sphere Mode](https://www.androidauthority.com/google-pixel-photo-sphere-mode-poll-results-3376714/)<!-- TECH:END -->
+ - [FAST TV: What It Is and Why It Should Matter to You     - CNET](https://www.cnet.com/tech/services-and-software/fast-tv-what-it-is-and-why-it-should-matter-to-you/#ftag=CAD590a51e)
+ - [Tim Cook makes a rare visit to China, appearing at a contest for Tencent&#39;s Honor of Kings game in the Chengdu Apple Store, as the US ramps up its chip sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/231017/p13#a231017p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

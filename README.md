@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 😝 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
- - 💣 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 😝 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
- - 👉 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)<!-- MEMES:END -->
+ - 😝 [Step 1: Get a duck](http://9gag.com/gag/arm0L2y)
+ - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - 💣 [From the archives 03](http://9gag.com/gag/aeQEnxp)
+ - 😝 [I am so proud if this community!](http://9gag.com/gag/aME6obM)
+ - 👉 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)<!-- MEMES:END -->
 
 ---
 

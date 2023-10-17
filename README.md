@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The face of happiness](http://9gag.com/gag/aWGA506)
+ - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
+ - 💣 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)
  - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 💣 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)
- - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 👉 [Get it?](http://9gag.com/gag/amAyQvy)<!-- MEMES:END -->
+ - 👉 [Terro attack Brussels Belgium just now. 2 dead, 1 critical](http://9gag.com/gag/a8q9OOO)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get it?](http://9gag.com/gag/amAyQvy)
- - 😝 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 💣 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
+ - 😝 [Wholesome](http://9gag.com/gag/adPMwpD)
+ - 😝 [An Israeli-Arab law school graduate &lpar;funded by taxpayers&rpar; was celebrating the attack on Israel. She isn&#39;t a lawyer anymore.](http://9gag.com/gag/aKEyov1)
+ - 💣 [That was literally the most perfect way to explain the makeup on women](http://9gag.com/gag/aoK6QjX)
+ - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 👉 [Title](http://9gag.com/gag/aQEK5YW)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [US v. SBF: Nishad Singh says SBF used customer funds for spending sprees that &quot;reeked of excess&quot; and he learned of an $8B hole two months before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231017/p7#a231017p7)
  - [Google is fixing Drive download problems related to third-party cookies](https://www.theverge.com/2023/10/17/23920504/google-drive-third-party-cookies-download-fix)
  - [Chinese generative AI startup Baichuan, one of the first to win approval to release its LLMs, raised $300M from Alibaba, Tencent, Xiaomi, and others &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231017/p6#a231017p6)
- - [WhatsApp plans to roll out passkeys to all Android users in the coming months to replace passwords; support for passkeys on WhatsApp for iOS is unclear &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/231017/p5#a231017p5)<!-- TECH:END -->
+ - [iOS 17 Has a Fix for Those Two-Factor Authentication Codes Clogging Up Your Inbox     - CNET](https://www.cnet.com/tech/mobile/ios-17-has-a-fix-for-those-two-factor-authentication-codes-clogging-up-your-inbox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

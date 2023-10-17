@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix plans to air a &quot;Netflix Cup&quot; golf tournament on Nov. 14, its first live sports event, with &quot;Drive to Survive&quot; Formula 1 drivers and &quot;Full Swing&quot; golfers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231017/p26#a231017p26)
+ - [The iPhone isn’t the most popular phone in China anymore thanks to HUAWEI](https://www.androidauthority.com/iphone-china-market-huawei-2023-3376834/)
+ - [China cracks open the door to flying taxis](https://www.theverge.com/2023/10/17/23920594/air-taxi-trials-certification-china-ehang-holdings)
  - [Drop&#39;s new tenkeyless mechanical keyboard redefines customization](https://appleinsider.com/articles/23/10/17/drops-new-tenkeyless-mechanical-keyboard-redefines-customization?utm_medium=rss)
- - [Apple releases the new Apple Pencil, now with USB-C](https://www.androidauthority.com/apple-pencil-usb-c-launch-3376818/)
- - [Intel Core i9-14900K, i7-14700K, and i5-14600K review: same architecture as 13th Gen, higher power draw, and similar performance, slightly improved for gaming &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231017/p25#a231017p25)
- - [Netflix’s first live sports broadcast pairs up F1 drivers with pro golfers](https://www.theverge.com/2023/10/17/23920735/netflix-cup-live-sports-broadcast-f1-drivers-pro-golfers)
- - [Patreon acquires Moment, which helps creators host live-streamed, ticketed experiences like podcasts and concerts and has raised $13.5M since its 2019 founding &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/231017/p24#a231017p24)<!-- TECH:END -->
+ - [Apple releases the new Apple Pencil, now with USB-C](https://www.androidauthority.com/apple-pencil-usb-c-launch-3376818/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

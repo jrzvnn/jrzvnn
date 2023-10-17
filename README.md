@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
- - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
  - 😝 [They remind me something but I cant really put my finger on it...](http://9gag.com/gag/aWGAAE3)
- - 👉 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)<!-- MEMES:END -->
+ - 👉 [After decades of a successful career, he&#39;ll be remembered as the King of Simps, the Lord of Cucks.](http://9gag.com/gag/aL13oRW)<!-- MEMES:END -->
 
 ---
 

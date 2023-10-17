@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit is killing blockchain-based Community Points, launched in 2020 as a way to reward creators and devs, citing the regulatory environment and scaling issues &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/231017/p34#a231017p34)
  - [Amazon plans to launch its online marketplace in South Africa in 2024, a long-awaited move delayed by land disputes, and invites potential sellers to register &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/231017/p33#a231017p33)
  - [Mophie announces new MagSafe-compatible Snap+ Juice Pack Mini with Stand.](https://appleinsider.com/articles/23/10/17/mophie-announces-new-magsafe-compatible-snap-juice-pack-mini-with-stand?utm_medium=rss)
  - [iOS 17.1 contains fixes for iPhone 15 screen burn symptoms](https://appleinsider.com/articles/23/10/17/ios-171-contains-fixes-for-iphone-15-screen-burn-symptoms?utm_medium=rss)
- - [Apple seeds third release candidates for macOS Monterey 12.7.1, macOS Ventura 13.6.1](https://appleinsider.com/articles/23/10/17/apple-seeds-third-release-candidates-for-macos-monterey-1271-macos-ventura-1361?utm_medium=rss)
- - [Smartphone-based ID verification startup Prove Identity, formerly Payfone, says it raised $40M at a &quot;unicorn status&quot; valuation and has ~1K business customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231017/p32#a231017p32)<!-- TECH:END -->
+ - [Apple seeds third release candidates for macOS Monterey 12.7.1, macOS Ventura 13.6.1](https://appleinsider.com/articles/23/10/17/apple-seeds-third-release-candidates-for-macos-monterey-1271-macos-ventura-1361?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

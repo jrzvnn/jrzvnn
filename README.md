@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US updates its terms of use to stop dollar withdrawals, saying users must convert &quot;US dollar funds to stablecoin or other digital assets&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/231017/p23#a231017p23)
- - [The world’s power grids, 50 million miles’ worth, need a major overhaul](https://www.theverge.com/23920599/electricity-power-grid-report-climate-international-energy-agency)
- - [A brighter, longer-lasting display could come to Galaxy watches](https://www.androidauthority.com/samsung-micro-led-screens-smartwatches-3376783/)
- - [Nirvana Insurance, which uses AI, telematics, IoT, and 15B miles of trucking data to insure commercial truck fleets, raised a $57M Series B led by Lightspeed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231017/p22#a231017p22)
- - [Spicy new details of the OnePlus Open have leaked](https://www.androidauthority.com/oneplus-open-official-marketing-renders-leak-3376787/)<!-- TECH:END -->
+ - [Snapchat now lets you embed videos and lenses on the web](https://www.theverge.com/2023/10/17/23920623/snapchat-embed-videos-lenses-web)
+ - [17 Best Wireless Earbuds &lpar;2023&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [Bose QuietComfort Ultra Headphones review: predictable excellence](https://www.theverge.com/23920591/bose-quietcomfort-ultra-headphones-review)
+ - [A new Alan Wake game just launched in Fortnite](https://www.theverge.com/2023/10/17/23919451/alan-wake-flashback-fortnite)
+ - [Clearview AI and the end of privacy, with author Kashmir Hill](https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

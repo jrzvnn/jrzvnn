@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix plans to air a &quot;Netflix Cup&quot; golf tournament on Nov. 14, its first live sports event, with &quot;Drive to Survive&quot; Formula 1 drivers and &quot;Full Swing&quot; golfers &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231017/p26#a231017p26)
- - [The iPhone isn’t the most popular phone in China anymore thanks to HUAWEI](https://www.androidauthority.com/iphone-china-market-huawei-2023-3376834/)
- - [China cracks open the door to flying taxis](https://www.theverge.com/2023/10/17/23920594/air-taxi-trials-certification-china-ehang-holdings)
- - [Drop&#39;s new tenkeyless mechanical keyboard redefines customization](https://appleinsider.com/articles/23/10/17/drops-new-tenkeyless-mechanical-keyboard-redefines-customization?utm_medium=rss)
- - [Apple releases the new Apple Pencil, now with USB-C](https://www.androidauthority.com/apple-pencil-usb-c-launch-3376818/)<!-- TECH:END -->
+ - [Hit your fitness goals with 50% off the Amazfit GTS 2 Mini](https://www.androidauthority.com/amazfit-gts-2-mini-deal-3376845/)
+ - [X&#39;s Community Notes have struggled during the Israel-Hamas war as volunteers become overwhelmed; just 438 notes ended up being displayed in the first five days &lpar;Conspirador Norte ...&rpar;](http://www.techmeme.com/231017/p27#a231017p27)
+ - [Why Scientists Are Bugging the Rainforest](https://www.wired.com/story/why-scientists-are-bugging-the-rainforest/)
+ - [Honda made an airport robot to handle all the boring, repetitive tasks](https://www.theverge.com/2023/10/17/23920622/honda-autonomous-work-vehicle-airport-robot-toronto)
+ - [The US Just Escalated Its AI Chip War With China](https://www.wired.com/story/the-us-just-escalated-its-ai-chip-war-with-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

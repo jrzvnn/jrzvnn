@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates Chrome&#39;s address bar with improved autocomplete, suggestions for misspelled URL names, search within bookmark folders, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231018/p27#a231018p27)
+ - [Fortnite creators will get paid for encouraging players to spend](https://www.theverge.com/2023/10/18/23922465/fortnite-creator-economy-payouts-v-bucks-epic-games)
+ - [Goldman Sachs dodges questions about its relationship with Apple](https://appleinsider.com/articles/23/10/18/goldman-sachs-dodges-questions-about-its-relationship-with-apple?utm_medium=rss)
  - [Google Wallet expands digital ID support to three more states](https://www.androidauthority.com/google-wallet-digital-ids-3377344/)
- - [Fugees’ Pras Michél says lawyer bungled his case by using AI to write arguments](https://www.theverge.com/2023/10/18/23922439/fugess-pras-michel-ai-lawyer-legal)
- - [The Anker MagGo keeps your iPhone charged for just $22](https://www.androidauthority.com/anker-321-maggo-portable-charger-deal-3377352/)
- - [iPhone US market share sees small jump as Android still dominates](https://appleinsider.com/articles/23/10/18/iphone-us-market-share-sees-small-jump-as-android-still-dominates?utm_medium=rss)
- - [Google Play has a new way to protect you from malicious apps](https://www.androidauthority.com/google-play-malicious-app-scan-3376928/)<!-- TECH:END -->
+ - [Fugees’ Pras Michél says lawyer bungled his case by using AI to write arguments](https://www.theverge.com/2023/10/18/23922439/fugess-pras-michel-ai-lawyer-legal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

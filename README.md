@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone US market share sees small jump as Android still dominates](https://appleinsider.com/articles/23/10/18/iphone-us-market-share-sees-small-jump-as-android-still-dominates?utm_medium=rss)
  - [Google Play has a new way to protect you from malicious apps](https://www.androidauthority.com/google-play-malicious-app-scan-3376928/)
  - [Google is tweaking Chrome’s search bar to make it easier to navigate the web](https://www.theverge.com/2023/10/18/23922396/google-chrome-search-typos-bookmarks-autocomplete)
  - [Google bulks up Android’s malware defenses to combat new tricks, including AI](https://www.theverge.com/2023/10/18/23922111/google-play-protect-malware-detection-apps-malicious-software-ai-polymorphic)
- - [Apple accused of avoiding paying UK $700 million in taxes](https://appleinsider.com/articles/23/10/18/apple-accused-of-avoiding-paying-uk-700-million-in-taxes?utm_medium=rss)
- - [Google says government-backed hackers linked to Russia and China are exploiting a since-patched zero-day in WinRAR, first discovered in August 2023 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231018/p26#a231018p26)<!-- TECH:END -->
+ - [Apple accused of avoiding paying UK $700 million in taxes](https://appleinsider.com/articles/23/10/18/apple-accused-of-avoiding-paying-uk-700-million-in-taxes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

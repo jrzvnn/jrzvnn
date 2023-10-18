@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to deploy delivery drones in the UK and Italy next year](https://www.theverge.com/2023/10/18/23922910/amazon-prime-air-delivery-drone-italy-united-kingdom)
- - [Netflix raises US prices for its basic plan to $11.99 from $9.99 and its premium plan to $22.99 from $19.99; it is also raising some prices in the UK and France &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/231018/p32#a231018p32)
- - [Netflix reports Q3 revenue up 7.8% YoY to $8.54B, vs. $8.54B est., and global paid memberships up 10.8% YoY to 247.15M, vs. 243.88M est.; NFLX jumps 9%+ &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/231018/p31#a231018p31)
- - [Here comes another Netflix price hike](https://www.theverge.com/2023/10/18/23922319/netflix-q3-earnings-2023-price-hike-increase-basic-premium)
- - [Amazon announces the launch of drone deliveries of medicines purchased through Amazon Pharmacy for customers in College Station, Texas &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231018/p30#a231018p30)<!-- TECH:END -->
+ - [Meta plans to roll out Telegram-like broadcast channels on Facebook and Messenger in the coming weeks, after launching them on Instagram and WhatsApp &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231018/p33#a231018p33)
+ - [Rumor: AirTag 2 will debut with Apple Vision Pro integration in early 2025](https://appleinsider.com/articles/23/10/18/rumor-airtag-2-will-debut-with-apple-vision-pro-integration-in-early-2025?utm_medium=rss)
+ - [Microsoft tests support for hearing aids in Windows 11](https://www.theverge.com/2023/10/18/23922786/microsoft-windows-11-bluetooth-le-audio-hearing-aids)
+ - [The world’s biggest AI models aren’t very transparent, Stanford study says](https://www.theverge.com/2023/10/18/23922973/stanford-ai-foundation-model-transparency-index)
+ - [Amazon plans to deploy delivery drones in the UK and Italy next year](https://www.theverge.com/2023/10/18/23922910/amazon-prime-air-delivery-drone-italy-united-kingdom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

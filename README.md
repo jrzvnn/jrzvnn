@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s Telegram-like ‘broadcast channels’ are coming to Facebook and Messenger](https://www.theverge.com/2023/10/18/23922888/facebook-broadcast-channels-instagram-whatsapp)
+ - [Tesla’s first Cybertruck deliveries will happen on November 30th](https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30)
  - [Tesla profits dip as it invests in factory upgrades and AI development](https://www.theverge.com/2023/10/18/23919336/tesla-q3-2023-earnings-revenue-profit-margin)
  - [Meta plans to roll out Telegram-like broadcast channels on Facebook and Messenger in the coming weeks, after launching them on Instagram and WhatsApp &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231018/p33#a231018p33)
- - [Rumor: AirTag 2 will debut with Apple Vision Pro integration in early 2025](https://appleinsider.com/articles/23/10/18/rumor-airtag-2-will-debut-with-apple-vision-pro-integration-in-early-2025?utm_medium=rss)
- - [Microsoft tests support for hearing aids in Windows 11](https://www.theverge.com/2023/10/18/23922786/microsoft-windows-11-bluetooth-le-audio-hearing-aids)
- - [The world’s biggest AI models aren’t very transparent, Stanford study says](https://www.theverge.com/2023/10/18/23922973/stanford-ai-foundation-model-transparency-index)<!-- TECH:END -->
+ - [Rumor: AirTag 2 will debut with Apple Vision Pro integration in early 2025](https://appleinsider.com/articles/23/10/18/rumor-airtag-2-will-debut-with-apple-vision-pro-integration-in-early-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

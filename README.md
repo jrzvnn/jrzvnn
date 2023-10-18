@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for him](http://9gag.com/gag/awZDpg4)
- - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 💣 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 😝 [The waitress know the rules](http://9gag.com/gag/amAy3Ay)
+ - 💣 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 😝 [Black Jesus has returned and he is on a mission to bless women&#39;s bathrooms](http://9gag.com/gag/ay2AKxX)
+ - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
 
 ---
 

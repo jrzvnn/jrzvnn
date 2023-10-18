@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I see videos from Gaza I remind myself of this video](http://9gag.com/gag/aL13onA)
- - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 👉 [No Youtube On November 5](http://9gag.com/gag/aEqb3dK)<!-- MEMES:END -->
+ - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
+ - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 👉 [Wow, that truck was so rude](http://9gag.com/gag/aWGAz6d)<!-- MEMES:END -->
 
 ---
 

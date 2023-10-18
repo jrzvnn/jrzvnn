@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X breaks away from Twitter’s free-for-all rules, starts charging $1 per year](https://www.androidauthority.com/x-not-a-bot-subscription-3377079/)
+ - [X, formerly Twitter, announces $1/year Not-a-Bot plan for new users](https://www.androidauthority.com/x-not-a-bot-subscription-3377079/)
  - [Evident Vascular, which develops AI-enabled tech for more precise intravascular ultrasound images, exits stealth with a $35M Series A from Vensana Capital &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/231017/p50#a231017p50)
  - [How to make your Apple Watch fully charge in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-make-your-apple-watch-fully-charge-in-watchos-10?utm_medium=rss)
  - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn&#39;t speak, raising ethical issues over making voters think he can speak their native language &lpar;Katie Honan/The City&rpar;](http://www.techmeme.com/231017/p49#a231017p49)

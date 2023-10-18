@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 💣 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
+ - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
+ - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
+ - 😝 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
+ - 👉 [This is funny af](http://9gag.com/gag/adPMw2V)<!-- MEMES:END -->
 
 ---
 

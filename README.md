@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Youtube&#39;s putting out warnings](http://9gag.com/gag/aZDKGp9)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
  - 😝 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
  - 💣 [Fatzooo](http://9gag.com/gag/a9qe9DK)
  - 😝 [9gag gold](http://9gag.com/gag/adPMmdN)

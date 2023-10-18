@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)
  - [Nothing Phone 1 update alert! New features and security patch incoming](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-0-4-update-3377116/)
  - [Researchers: soundscapes and an AI model trained on 100+ wildlife songs can be an effective and low-cost tool to track biodiversity recovery in tropical forests &lpar;Bloomberg&rpar;](http://www.techmeme.com/231018/p8#a231018p8)
- - [ASML reports Q3 revenue up 15.5% YoY to &amp;euro;6.67B, vs. &amp;euro;6.71B est., net profit up 11% YoY to &amp;euro;1.89B, vs. &amp;euro;1.8B est., and forecasts that 2024 revenue will be flat &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231018/p7#a231018p7)<!-- TECH:END -->
+ - [ASML reports Q3 revenue up 15.5% YoY to &amp;euro;6.67B, vs. &amp;euro;6.71B est., net profit up 11% YoY to &amp;euro;1.89B, vs. &amp;euro;1.8B est., and forecasts flat 2024 revenue growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231018/p7#a231018p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

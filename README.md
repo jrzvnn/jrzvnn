@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of Our Favorite Portable Power Stations Has a Massive $500 Discount     - CNET](https://www.cnet.com/deals/one-of-our-favorite-portable-power-stations-has-a-massive-500-discount/#ftag=CAD590a51e)
  - [Privacy experts say that US state laws requiring data brokers to register are not adequately enforced, letting large numbers of brokers operate under the radar &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231018/p14#a231018p14)
  - [Amazon details Sequoia, its new AI and robotics tools for its warehouses to help reduce delivery times by up to 25% and identify inventory up to 75% faster &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231018/p13#a231018p13)
  - [The US&#39; new 400-page chip export rules show officials are open to chip sector input on ways to keep sending AI chips to China for small and medium-sized uses &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p12#a231018p12)
- - [Sources: SK Hynix refused to approve the merger of Kioxia and Western Digital, a blow to Bain Capital&#39;s ambitions of creating a US-Japan chip company &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p11#a231018p11)
- - [15-inch MacBook Air demand drops &#39;significantly,&#39; says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Best Gifts for Readers in 2023: Kindle, Kobo, iPad Mini and More     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-readers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

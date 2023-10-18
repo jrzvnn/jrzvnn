@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Internal message: Discord shuts down Gas nine months after acquiring the app, which let people share anonymous compliments and had ~1M DAUs in October 2022 &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231018/p36#a231018p36)
  - [Only Nintendo DS lovers will fully appreciate this dual-screen handheld PC](https://www.theverge.com/2023/10/18/23923136/ayaneo-flip-ds-kb-handheld-gaming-pc-nintendo-emulation)
+ - [Best Apple Pencil Deals: Save on Stylus Options From Apple and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
  - [Clearview AI wins an appeal against the UK&#39;s data protection watchdog, which imposed a ~&amp;pound;7.5M fine in May 2022 for alleged breaches of local privacy laws &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231018/p35#a231018p35)
- - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
- - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)<!-- TECH:END -->
+ - [Apple TV 4K &lpar;2022&rpar; Deals: Get Free Apple Services and More     - CNET](https://www.cnet.com/deals/apple-tv-4k-2022-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

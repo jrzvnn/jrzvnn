@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 😝 [Gained 30 pounds &amp; living off of government assistance in a shitty neighbourhood with a 1yr old kid. While I&#39;m visiting Europe next month.karma is a b*tch.](http://9gag.com/gag/aeQEnKQ)
- - 💣 [Justice served!](http://9gag.com/gag/aQEKWze)
- - 😝 [Legend lives on](http://9gag.com/gag/aA078r2)
- - 👉 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)<!-- MEMES:END -->
+ - 😝 [Good for him](http://9gag.com/gag/awZDpg4)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 💣 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
 
 ---
 

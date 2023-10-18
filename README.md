@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clearview AI wins an appeal against the UK&#39;s data protection watchdog, which imposed a ~&amp;pound;7.5M fine in May 2022 for alleged breaches of local privacy laws &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231018/p35#a231018p35)
  - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
  - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)
  - [81 Black Friday Sales on Beauty, Fashion and Home     - CNET](https://www.cnet.com/deals/best-black-friday-sales-on-beauty-fashion-and-home/#ftag=CAD590a51e)
- - [Best Pixel 8 and Pixel 8 Pro Deals: Free With Trade-In at AT&amp;T, Verizon and More     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
- - [Who’s Responsible for the Gaza Hospital Explosion? Here’s Why It’s Hard to Know What’s Real](https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/)<!-- TECH:END -->
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Free With Trade-In at AT&amp;T, Verizon and More     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

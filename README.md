@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Wallet expands digital ID support to three more states](https://www.androidauthority.com/google-wallet-digital-ids-3377344/)
+ - [Fugees’ Pras Michél says lawyer bungled his case by using AI to write arguments](https://www.theverge.com/2023/10/18/23922439/fugess-pras-michel-ai-lawyer-legal)
+ - [The Anker MagGo keeps your iPhone charged for just $22](https://www.androidauthority.com/anker-321-maggo-portable-charger-deal-3377352/)
  - [iPhone US market share sees small jump as Android still dominates](https://appleinsider.com/articles/23/10/18/iphone-us-market-share-sees-small-jump-as-android-still-dominates?utm_medium=rss)
- - [Google Play has a new way to protect you from malicious apps](https://www.androidauthority.com/google-play-malicious-app-scan-3376928/)
- - [Google is tweaking Chrome’s search bar to make it easier to navigate the web](https://www.theverge.com/2023/10/18/23922396/google-chrome-search-typos-bookmarks-autocomplete)
- - [Google bulks up Android’s malware defenses to combat new tricks, including AI](https://www.theverge.com/2023/10/18/23922111/google-play-protect-malware-detection-apps-malicious-software-ai-polymorphic)
- - [Apple accused of avoiding paying UK $700 million in taxes](https://appleinsider.com/articles/23/10/18/apple-accused-of-avoiding-paying-uk-700-million-in-taxes?utm_medium=rss)<!-- TECH:END -->
+ - [Google Play has a new way to protect you from malicious apps](https://www.androidauthority.com/google-play-malicious-app-scan-3376928/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

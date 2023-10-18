@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
- - 😝 [This Did Not Feel Good](http://9gag.com/gag/anz3m5E)
- - 💣 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
- - 👉 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)<!-- MEMES:END -->
+ - 😝 [Sadly, korben Dallas has left us, mentally... dementia claimed our beloved John McLain.](http://9gag.com/gag/aVb88nd)
+ - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 👉 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)<!-- MEMES:END -->
 
 ---
 

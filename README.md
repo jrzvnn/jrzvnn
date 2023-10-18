@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
  - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 💣 [Berlin has fallen](http://9gag.com/gag/ay2AgxV)
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
+ - 😝 [Berlin has fallen](http://9gag.com/gag/ay2AgxV)
+ - 💣 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 👉 [Last night, my wife made a very delicious dinner. After I tasted the food, I immediately praised my wife. Immediately my wife cried happily because of my praise.](http://9gag.com/gag/aWGAXVq)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: X will begin charging new users $1 a year to access key features including the ability to tweet, reply, quote, repost, like, bookmark, and create lists &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231017/p47#a231017p47)
+ - [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk)
+ - [Sam Bankman-Fried’s defense finally woke up](https://www.theverge.com/2023/10/17/23921745/sam-bankman-fried-nishad-singh-house-loan)
+ - [X is testing a program, Not A Bot, in New Zealand and the Philippines requiring new, unverified users to sign up for a $1 annual subscription to be able to post &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231017/p47#a231017p47)
  - [Israel says it&#39;s in talks with SpaceX on setting up Starlink internet services as a backup in case other systems are disrupted &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231017/p46#a231017p46)
- - [Google Pixel Watch 2 review: A solid second draft, but still a work in progress](https://www.androidauthority.com/google-pixel-watch-2-review-3374403/)
- - [Apple’s latest iOS update could have a big impact on podcast downloads](https://www.theverge.com/2023/10/17/23921466/apple-ios-update-podcast-downloads-spotify-rogan-youtube)
- - [Insiders Say X’s Crowdsourced Anti-Disinformation Tool Is Making the Problem Worse](https://www.wired.com/story/x-community-notes-disinformation/)<!-- TECH:END -->
+ - [Google Pixel Watch 2 review: A solid second draft, but still a work in progress](https://www.androidauthority.com/google-pixel-watch-2-review-3374403/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

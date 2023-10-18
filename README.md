@@ -155,10 +155,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US&#39; new 400-page chip export rules show officials are open to chip sector input on ways to keep sending AI chips to China for small and medium-sized uses &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p12#a231018p12)
  - [Sources: SK Hynix refused to approve the merger of Kioxia and Western Digital, a blow to Bain Capital&#39;s ambitions of creating a US-Japan chip company &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p11#a231018p11)
  - [15-inch MacBook Air demand drops &#39;significantly,&#39; says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)
  - [In a rare joint statement, Five Eyes chiefs from the US, the UK, Canada, Australia, and New Zealand warn on China&#39;s IP &quot;theft&quot; and using AI to hack and spy &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/231018/p10#a231018p10)
- - [Elgato Stream Deck Deal Saves You $20 on This Essential Streaming Accessory     - CNET](https://www.cnet.com/deals/elgato-stream-deck-deal-saves-you-20-on-this-essential-streaming-accessory/#ftag=CAD590a51e)
  - [Windows 11 is now used by 400 million devices, leaked Microsoft data shows](https://www.theverge.com/2023/10/18/23922062/microsoft-windows-11-400-million-active-devices-usage-data-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

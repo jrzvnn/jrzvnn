@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
  - 😝 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
- - 💣 [Fatzooo](http://9gag.com/gag/a9qe9DK)
- - 😝 [9gag gold](http://9gag.com/gag/adPMmdN)
+ - 😝 [Fatzooo](http://9gag.com/gag/a9qe9DK)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
  - 👉 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)<!-- MEMES:END -->
 
 ---

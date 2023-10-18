@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung may be very close to releasing its stable Android 14 update](https://www.androidauthority.com/one-ui-6-stable-update-3377315/)
  - [Xiaomi HyperOS images leak: MIUI 15 with a new name?](https://www.androidauthority.com/xiaomi-hyperos-images-leak-miui-15-3377276/)
  - [Chinese Commerce Minister Wang Wentao meets with Tim Cook and says China welcomes Apple to benefit from &quot;win-win development&quot; and share the &quot;dividends&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231018/p25#a231018p25)
  - [Tim Cook again meets with Chinese minister over Apple&#39;s future](https://appleinsider.com/articles/23/10/18/tim-cook-again-meets-with-chinese-minister-over-apples-future?utm_medium=rss)
- - [PSA: it’s time to update WinRAR due to a big security vulnerability](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update)
- - [Amazon says its robots will speed up delivery and definitely not replace humans](https://www.theverge.com/2023/10/18/23922202/amazon-robots-sorting-machines-sequoia-warehouse)<!-- TECH:END -->
+ - [PSA: it’s time to update WinRAR due to a big security vulnerability](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

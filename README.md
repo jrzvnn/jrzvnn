@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 18: $150 off Apple Watch Series 8, $200 off 2023 M2 MacBook Pro, up to 40% off Samsung monitors, more](https://appleinsider.com/articles/23/10/18/daily-deals-oct-18-150-off-apple-watch-series-8-200-off-2023-m2-macbook-pro-up-to-40-off-samsung-monitors-more?utm_medium=rss)
  - [PitchBook: global AI startup funding rose 27% YoY to $17.9B in Q3, one of the lone bright spots as overall startup funding dropped 31% YoY to $73B &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231018/p24#a231018p24)
  - [New leak lets us compare the OnePlus Open and Oppo Find N3 side by side](https://www.theverge.com/2023/10/18/23922157/oneplus-open-oppo-find-n3-leak-foldable-launch-specs)
  - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
- - [9 Best Touchscreen Gloves &lpar;2023&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
- - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)<!-- TECH:END -->
+ - [9 Best Touchscreen Gloves &lpar;2023&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

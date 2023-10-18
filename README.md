@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The creator of Apollo for Reddit has moved onto smaller and weirder things](https://www.theverge.com/2023/10/18/23922707/pixel-pals-language-widget-christian-selig-apollo)
+ - [The last-gen Sonos Move is on sale for $150 less than the new model](https://www.theverge.com/2023/10/18/23921387/sonos-move-speaker-board-tabletop-games-apple-watch-ultra-deal-sale)
  - [Rare deal slashes $100 off the Sonos Move](https://www.androidauthority.com/sonos-move-deal-3377439/)
  - [The European Central Bank plans to start the digital euro &quot;preparation phase&quot; on November 1, with two years to finalize its rulebook and select providers &lpar;Francesco Canepa/Reuters&rpar;](http://www.techmeme.com/231018/p29#a231018p29)
- - [New AirPods Pro 2 firmware has been released](https://appleinsider.com/articles/23/10/18/new-airpods-pro-2-firmware-has-been-released?utm_medium=rss)
- - [Sony files patent that turns a PS5 controller into an earbuds charging case](https://www.androidauthority.com/ps5-controller-patent-3377399/)
- - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)<!-- TECH:END -->
+ - [New AirPods Pro 2 firmware has been released](https://appleinsider.com/articles/23/10/18/new-airpods-pro-2-firmware-has-been-released?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

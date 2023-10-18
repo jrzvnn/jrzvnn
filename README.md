@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome](http://9gag.com/gag/adPMwpD)
- - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
- - 💣 [Lily Smith](http://9gag.com/gag/avQVqwE)
  - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 👉 [Good for him](http://9gag.com/gag/awZDpg4)<!-- MEMES:END -->
+ - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 💣 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
 
 ---
 

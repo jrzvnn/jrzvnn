@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China App Store employees fired over relationships with developers](https://appleinsider.com/articles/23/10/18/china-app-store-employees-fired-over-relationships-with-developers?utm_medium=rss)
  - [Experts say misinformation from &quot;verified&quot; pseudo-OSINT accounts on X, driven by profit and engagement, is destroying the Israel-Palestine information ecosystem &lpar;404 Media&rpar;](http://www.techmeme.com/231018/p28#a231018p28)
  - [Budget Bottles: An Expert Reveals How to Find the Best Value Wine     - CNET](https://www.cnet.com/how-to/tips-for-buying-better-wine-for-less/#ftag=CAD590a51e)
  - [Biden administration announces ‘largest ever’ investment in US electric grid](https://www.theverge.com/2023/10/18/23922336/biden-doe-power-grid-investment-electricity-renewable-energy)
- - [Best Gifts for Serious Photographers in 2023     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)
- - [Rumor: AirTag 2 will debut with Apple Vision Pro integration in early 2025](https://appleinsider.com/articles/23/10/18/rumor-airtag-2-will-debut-with-apple-vision-pro-integration-in-early-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Best Gifts for Serious Photographers in 2023     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

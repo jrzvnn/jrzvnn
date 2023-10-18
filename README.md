@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Apple Watch models may flicker in always-on mode -- fix incoming](https://appleinsider.com/articles/23/10/18/latest-apple-watch-models-may-flicker-in-always-on-mode----fix-incoming?utm_medium=rss)
+ - [X now requires a linked source for proposed community notes, as researchers say misinformation on the platform has reached new heights amid the Israel-Hamas war &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p48#a231017p48)
+ - [Best Fitness Trackers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CAD590a51e)
  - [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk)
- - [Sam Bankman-Fried’s defense finally woke up](https://www.theverge.com/2023/10/17/23921745/sam-bankman-fried-nishad-singh-house-loan)
- - [X is testing a program, Not A Bot, in New Zealand and the Philippines requiring new, unverified users to sign up for a $1 annual subscription to be able to post &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231017/p47#a231017p47)
- - [Israel says it&#39;s in talks with SpaceX on setting up Starlink internet services as a backup in case other systems are disrupted &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231017/p46#a231017p46)
- - [Google Pixel Watch 2 review: A solid second draft, but still a work in progress](https://www.androidauthority.com/google-pixel-watch-2-review-3374403/)<!-- TECH:END -->
+ - [Sam Bankman-Fried’s defense finally woke up](https://www.theverge.com/2023/10/17/23921745/sam-bankman-fried-nishad-singh-house-loan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

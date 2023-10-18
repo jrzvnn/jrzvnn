@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 💣 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 😝 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
- - 👉 [This is funny af](http://9gag.com/gag/adPMw2V)<!-- MEMES:END -->
+ - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
+ - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 💣 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 👉 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)<!-- MEMES:END -->
 
 ---
 

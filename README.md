@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evident Vascular, which develops AI-enabled tech for more precise intravascular ultrasound images, exits stealth with a $35M Series A from Vensana Capital &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/231017/p50#a231017p50)
  - [How to make your Apple Watch fully charge in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-make-your-apple-watch-fully-charge-in-watchos-10?utm_medium=rss)
  - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn&#39;t speak, raising ethical issues over making voters think he can speak their native language &lpar;Katie Honan/The City&rpar;](http://www.techmeme.com/231017/p49#a231017p49)
  - [Latest Apple Watch models may flicker in always-on mode -- fix incoming](https://appleinsider.com/articles/23/10/18/latest-apple-watch-models-may-flicker-in-always-on-mode----fix-incoming?utm_medium=rss)
- - [X now requires a linked source for proposed community notes, as researchers say misinformation on the platform has reached new heights amid the Israel-Hamas war &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p48#a231017p48)
- - [Best Fitness Trackers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X now requires a linked source for proposed community notes, as researchers say misinformation on the platform has reached new heights amid the Israel-Hamas war &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231017/p48#a231017p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

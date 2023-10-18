@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who&#39;s Responsible for the Gaza Hospital Blast? Here’s Why It’s Hard to Know What’s Real](https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/)
  - [Apple&#39;s intricate Thunderbolt 4 Pro cable design revealed under CT scan](https://appleinsider.com/articles/23/10/18/apples-intricate-thunderbolt-4-pro-cable-design-revealed-under-ct-scan?utm_medium=rss)
  - [Stanford researchers unveil the Foundation Model Transparency Index, with 100 indicators; Llama 2 leads at 54%, GPT-4 is third at 48%, PaLM 2 is fifth at 40% &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231018/p34#a231018p34)
  - [Meta’s Telegram-like ‘broadcast channels’ are coming to Facebook and Messenger](https://www.theverge.com/2023/10/18/23922888/facebook-broadcast-channels-instagram-whatsapp)
- - [Tesla’s first Cybertruck deliveries will happen on November 30th](https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30)
- - [Tesla profits dip as it invests in factory upgrades and AI development](https://www.theverge.com/2023/10/18/23919336/tesla-q3-2023-earnings-revenue-profit-margin)<!-- TECH:END -->
+ - [Tesla’s first Cybertruck deliveries will happen on November 30th](https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

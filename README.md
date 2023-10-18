@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says government-backed hackers linked to Russia and China are exploiting a since-patched zero-day in WinRAR, first discovered in August 2023 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231018/p26#a231018p26)
  - [Apple Original &#39;Lessons in Chemistry&#39; set to receive prestigious SOFEE award](https://appleinsider.com/articles/23/10/18/apple-original-lessons-in-chemistry-set-to-receive-prestigious-sofee-award?utm_medium=rss)
  - [BMW i5 &lpar;G60&rpar; Review: Specs, Price, Availability](https://www.wired.com/review/review-bmw-i5-2023/)
  - [Samsung may be very close to releasing its stable Android 14 update](https://www.androidauthority.com/one-ui-6-stable-update-3377315/)
- - [Xiaomi HyperOS images leak: MIUI 15 with a new name?](https://www.androidauthority.com/xiaomi-hyperos-images-leak-miui-15-3377276/)
- - [Chinese Commerce Minister Wang Wentao meets with Tim Cook and says China welcomes Apple to benefit from &quot;win-win development&quot; and share the &quot;dividends&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231018/p25#a231018p25)<!-- TECH:END -->
+ - [Xiaomi HyperOS images leak: MIUI 15 with a new name?](https://www.androidauthority.com/xiaomi-hyperos-images-leak-miui-15-3377276/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wholesome](http://9gag.com/gag/adPMwpD)
  - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
- - 😝 [Tranderella](http://9gag.com/gag/aeQEwMv)
- - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 💣 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
+ - 👉 [Good for him](http://9gag.com/gag/awZDpg4)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 😝 [No more propaganda, only bunny now](http://9gag.com/gag/abvo96b)
- - 💣 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
- - 😝 [Youtube&#39;s putting out warnings](http://9gag.com/gag/aZDKGp9)
- - 👉 [From the archives 03](http://9gag.com/gag/aeQEnxp)<!-- MEMES:END -->
+ - 😝 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
+ - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
+ - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
 
 ---
 

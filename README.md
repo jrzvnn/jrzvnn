@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-18-2023-3376417/)
+ - [Pickelball sport helps improve health, say Apple researchers](https://appleinsider.com/articles/23/10/18/pickelball-sport-helps-improve-health-say-apple-researchers?utm_medium=rss)
+ - [Research: 47.25% of machinery tenders by Chinese chip foundries from January to August 2023 were won by local manufacturers, including 62% from July to August &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p22#a231018p22)
  - [This Detroit-based electric RV has a 250-mile range, Starlink, and 640W of solar](https://www.theverge.com/2023/10/18/23922147/grounded-g2-gm-brightdrop-electric-rv-price-specs)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [TECNO MEGABOOK S1 &amp; TECNO MEGABOOK T1 2023 14inch – Redefining Elegance, Performance, &amp; Value](https://www.androidauthority.com/tecno-megabook-s1-tecno-megabook-t1-2023-14inch-redefining-elegance-performance-value-3376555/)
- - [Plaid hires former Expedia Chief Financial Officer Eric Hart as its first CFO, a milestone in its IPO plans after a failed $5.3B sale to Visa in 2021 &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/231018/p21#a231018p21)
- - [Android 14’s new AI wallpapers are great, but Backdrops still has my heart](https://www.androidauthority.com/wallpaper-backdrops-vs-android-14-ai-3376733/)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

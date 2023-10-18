@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 😝 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
+ - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
  - 💣 [Imposter](http://9gag.com/gag/aVb8AZv)
  - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 👉 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)<!-- MEMES:END -->
+ - 👉 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)<!-- MEMES:END -->
 
 ---
 

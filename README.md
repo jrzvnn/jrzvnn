@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Imposter](http://9gag.com/gag/aVb8AZv)
  - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 💣 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
+ - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
  - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
- - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 👉 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)<!-- MEMES:END -->
 
 ---
 

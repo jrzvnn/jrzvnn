@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Our Favorite Portable Power Stations Has a Massive $500 Discount     - CNET](https://www.cnet.com/deals/one-of-our-favorite-portable-power-stations-has-a-massive-500-discount/#ftag=CAD590a51e)
- - [Privacy experts say that US state laws requiring data brokers to register are not adequately enforced, letting large numbers of brokers operate under the radar &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231018/p14#a231018p14)
- - [Amazon details Sequoia, its new AI and robotics tools for its warehouses to help reduce delivery times by up to 25% and identify inventory up to 75% faster &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/231018/p13#a231018p13)
- - [The US&#39; new 400-page chip export rules show officials are open to chip sector input on ways to keep sending AI chips to China for small and medium-sized uses &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p12#a231018p12)
- - [Best Gifts for Readers in 2023: Kindle, Kobo, iPad Mini and More     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-readers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK&#39;s latest embarrassing technology demand centers on phone thefts](https://appleinsider.com/articles/23/10/18/uks-latest-embarrassing-technology-demand-centers-on-phone-thefts?utm_medium=rss)
+ - [In cross-examining Nishad Singh, SBF&#39;s defense finally picked holes in a US witness, pointing out that Singh used a $3.7M FTX loan of user funds to buy a house &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231018/p15#a231018p15)
+ - [A Chatbot Encouraged Him to Kill the Queen. It’s Just the Beginning](https://www.wired.com/story/chatbot-kill-the-queen-eliza-effect/)
+ - [DeepMind Wants to Use AI to Solve the Climate Crisis](https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/)
+ - [Teledriving Is a Sneaky Shortcut to Driverless Cars](https://www.wired.com/story/a-sneaky-shortcut-to-driverless-cars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

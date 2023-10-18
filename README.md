@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cannot unsee now](http://9gag.com/gag/a4o8vRQ)
- - 😝 [No Youtube On November 5](http://9gag.com/gag/aEqb3dK)
- - 💣 [Gained 30 pounds &amp; living off of government assistance in a shitty neighbourhood with a 1yr old kid. While I&#39;m visiting Europe next month.karma is a b*tch.](http://9gag.com/gag/aeQEnKQ)
- - 😝 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)
- - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
+ - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 💣 [The waitress know the rules](http://9gag.com/gag/amAy3Ay)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
 
 ---
 

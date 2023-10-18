@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
- - 😝 [No more propaganda, only bunny now](http://9gag.com/gag/abvo96b)
- - 💣 [Youtube&#39;s putting out warnings](http://9gag.com/gag/aZDKGp9)
- - 😝 [Fatzooo](http://9gag.com/gag/a9qe9DK)
- - 👉 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)<!-- MEMES:END -->
+ - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 💣 [Putin was filmed in China, accompanied by officers carrying his nuclear briefcases. He must be really worried to play this card in front of the whole world.](http://9gag.com/gag/axo8XRM)
+ - 😝 [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 👉 [Last night, my wife made a very delicious dinner. After I tasted the food, I immediately praised my wife. Immediately my wife cried happily because of my praise.](http://9gag.com/gag/aWGAXVq)<!-- MEMES:END -->
 
 ---
 

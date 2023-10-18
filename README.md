@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Here we go: all the news about Super Mario Bros. Wonder](https://www.theverge.com/23923151/super-mario-bros-wonder-nintendo-switch-news-review-trailer)
  - [The Hydro Flask Tracker puts your fancy water bottle on Apple’s Find My network](https://www.theverge.com/2023/10/18/23922622/hydro-flask-tracker-airtag-find-my-water-bottle)
- - [Who&#39;s Responsible for the Gaza Hospital Blast? Here’s Why It’s Hard to Know What’s Real](https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/)
- - [Apple&#39;s intricate Thunderbolt 4 Pro cable design revealed under CT scan](https://appleinsider.com/articles/23/10/18/apples-intricate-thunderbolt-4-pro-cable-design-revealed-under-ct-scan?utm_medium=rss)
- - [Stanford researchers unveil the Foundation Model Transparency Index, with 100 indicators; Llama 2 leads at 54%, GPT-4 is third at 48%, PaLM 2 is fifth at 40% &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231018/p34#a231018p34)<!-- TECH:END -->
+ - [81 Black Friday Sales on Beauty, Fashion and Home     - CNET](https://www.cnet.com/deals/best-black-friday-sales-on-beauty-fashion-and-home/#ftag=CAD590a51e)
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Free With Trade-In at AT&amp;T, Verizon and More     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
+ - [Who’s Responsible for the Gaza Hospital Explosion? Here’s Why It’s Hard to Know What’s Real](https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

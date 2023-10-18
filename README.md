@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
- - 😝 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
+ - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 😝 [Dark humour from an Egyptian comedian](http://9gag.com/gag/aVb8N7K)
  - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 😝 [Old but memorable](http://9gag.com/gag/aGEqWAG)
- - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
+ - 👉 [Old but memorable](http://9gag.com/gag/aGEqWAG)<!-- MEMES:END -->
 
 ---
 

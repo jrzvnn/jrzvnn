@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say misinformation from &quot;verified&quot; pseudo-OSINT accounts on X, driven by profit and engagement, is destroying the Israel-Palestine information ecosystem &lpar;404 Media&rpar;](http://www.techmeme.com/231018/p28#a231018p28)
+ - [Budget Bottles: An Expert Reveals How to Find the Best Value Wine     - CNET](https://www.cnet.com/how-to/tips-for-buying-better-wine-for-less/#ftag=CAD590a51e)
  - [Biden administration announces ‘largest ever’ investment in US electric grid](https://www.theverge.com/2023/10/18/23922336/biden-doe-power-grid-investment-electricity-renewable-energy)
- - [Rumor: AirTag 2 will debut with Apple Vision Pro integration in early 2025](https://appleinsider.com/articles/23/10/18/rumor-airtag-2-will-debut-with-apple-vision-pro-integration-in-early-2025?utm_medium=rss)
- - [With a Switch 2 looming, Nintendo is sending out the original with a bang](https://www.theverge.com/2023/10/18/23921168/nintendo-switch-2-super-mario-wonder-zelda-totk)
- - [Google updates Chrome&#39;s address bar with improved autocomplete, suggestions for misspelled URL names, search within bookmark folders, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231018/p27#a231018p27)
- - [Fortnite creators will get paid for encouraging players to spend](https://www.theverge.com/2023/10/18/23922465/fortnite-creator-economy-payouts-v-bucks-epic-games)<!-- TECH:END -->
+ - [Best Gifts for Serious Photographers in 2023     - CNET](https://www.cnet.com/tech/computing/best-camera-gear-and-cameras/#ftag=CAD590a51e)
+ - [Rumor: AirTag 2 will debut with Apple Vision Pro integration in early 2025](https://appleinsider.com/articles/23/10/18/rumor-airtag-2-will-debut-with-apple-vision-pro-integration-in-early-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

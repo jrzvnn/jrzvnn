@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces the launch of drone deliveries of medicines purchased through Amazon Pharmacy for customers in College Station, Texas &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231018/p30#a231018p30)
  - [Skydance Animation parts ways with Apple TV+, taking &#39;Spellbound&#39; with it](https://appleinsider.com/articles/23/10/18/skydance-animation-parts-ways-with-apple-tv-taking-spellbound-with-it?utm_medium=rss)
  - [The creator of Apollo for Reddit has moved onto smaller and weirder things](https://www.theverge.com/2023/10/18/23922707/pixel-pals-language-widget-christian-selig-apollo)
  - [The last-gen Sonos Move is on sale for $150 less than the new model](https://www.theverge.com/2023/10/18/23921387/sonos-move-speaker-board-tabletop-games-apple-watch-ultra-deal-sale)
- - [Best NAS Deals: Big Savings on Up to 54TB of Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
- - [Snag Massive Savings on Car Parts With These Deals and Discounts     - CNET](https://www.cnet.com/deals/snag-massive-savings-on-car-parts-with-these-deals-and-discounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best NAS Deals: Big Savings on Up to 54TB of Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

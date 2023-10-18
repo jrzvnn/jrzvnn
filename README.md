@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon now has 10,000 Rivian electric delivery vehicles in the US and Europe, up from 5,000 in July 2023; Amazon aims to have 100K+ Rivian vans by 2030 &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/231018/p16#a231018p16)
+ - [Got $10 million? Then you’re probably someone who could afford this 30-rotor electric jet](https://www.theverge.com/2023/10/18/23920803/lilium-evtol-air-taxi-sale-us-price-emc-jet)
  - [UK&#39;s latest embarrassing technology demand centers on phone thefts](https://appleinsider.com/articles/23/10/18/uks-latest-embarrassing-technology-demand-centers-on-phone-thefts?utm_medium=rss)
  - [In cross-examining Nishad Singh, SBF&#39;s defense finally picked holes in a US witness, pointing out that Singh used a $3.7M FTX loan of user funds to buy a house &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231018/p15#a231018p15)
- - [A Chatbot Encouraged Him to Kill the Queen. It’s Just the Beginning](https://www.wired.com/story/chatbot-kill-the-queen-eliza-effect/)
- - [DeepMind Wants to Use AI to Solve the Climate Crisis](https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/)
- - [Teledriving Is a Sneaky Shortcut to Driverless Cars](https://www.wired.com/story/a-sneaky-shortcut-to-driverless-cars/)<!-- TECH:END -->
+ - [A Chatbot Encouraged Him to Kill the Queen. It’s Just the Beginning](https://www.wired.com/story/chatbot-kill-the-queen-eliza-effect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

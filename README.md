@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 👉 [Wow, that truck was so rude](http://9gag.com/gag/aWGAz6d)<!-- MEMES:END -->
+ - 😝 [Asian American couple in Washington close their door milliseconds before a man with a gun tries to follow them in](http://9gag.com/gag/aeQE8B5)
+ - 😝 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 💣 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
+ - 👉 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)<!-- MEMES:END -->
 
 ---
 

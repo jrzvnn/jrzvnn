@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for him](http://9gag.com/gag/awZDpg4)
- - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 💣 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 😝 [Paternity test should be mandatory before giving child support](http://9gag.com/gag/aVb85jP)
- - 👉 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)<!-- MEMES:END -->
+ - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 😝 [Tranderella](http://9gag.com/gag/aeQEwMv)
+ - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
- - 😝 [Dark humour from an Egyptian comedian](http://9gag.com/gag/aVb8N7K)
- - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
- - 👉 [Old but memorable](http://9gag.com/gag/aGEqWAG)<!-- MEMES:END -->
+ - 😝 [Anime Tennis Match](http://9gag.com/gag/aBdMAMZ)
+ - 😝 [No more propaganda, only bunny now](http://9gag.com/gag/abvo96b)
+ - 💣 [Youtube&#39;s putting out warnings](http://9gag.com/gag/aZDKGp9)
+ - 😝 [Fatzooo](http://9gag.com/gag/a9qe9DK)
+ - 👉 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)<!-- MEMES:END -->
 
 ---
 

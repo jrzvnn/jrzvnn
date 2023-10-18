@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: global AI startup funding rose 27% YoY to $17.9B in Q3, one of the lone bright spots as overall startup funding dropped 31% YoY to $73B &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231018/p24#a231018p24)
+ - [New leak lets us compare the OnePlus Open and Oppo Find N3 side by side](https://www.theverge.com/2023/10/18/23922157/oneplus-open-oppo-find-n3-leak-foldable-launch-specs)
  - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
  - [9 Best Touchscreen Gloves &lpar;2023&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
- - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)
- - [Pickleball sport helps improve health, say Apple researchers](https://appleinsider.com/articles/23/10/18/pickelball-sport-helps-improve-health-say-apple-researchers?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-18-2023-3376417/)<!-- TECH:END -->
+ - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

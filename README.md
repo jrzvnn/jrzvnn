@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 💣 [Imposter](http://9gag.com/gag/aVb8AZv)
- - 😝 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 👉 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)<!-- MEMES:END -->
+ - 😝 [Cannot unsee now](http://9gag.com/gag/a4o8vRQ)
+ - 😝 [No Youtube On November 5](http://9gag.com/gag/aEqb3dK)
+ - 💣 [Gained 30 pounds &amp; living off of government assistance in a shitty neighbourhood with a 1yr old kid. While I&#39;m visiting Europe next month.karma is a b*tch.](http://9gag.com/gag/aeQEnKQ)
+ - 😝 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)
+ - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
 
 ---
 

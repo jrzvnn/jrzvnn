@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Invesco marked up Swiggy&#39;s valuation to $7.85B on July 31 2023, up 42% from ~$5.5B in January 2023 but still down from a reported $10.7B in January 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231018/p2#a231018p2)
+ - [Arm CEO Rene Haas says the US&#39; goal to cut off Chinese access to advanced semiconductors with military uses will be difficult to carry out with export controls &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/231018/p1#a231018p1)
  - [X, formerly Twitter, announces $1/year Not-a-Bot plan for new users](https://www.androidauthority.com/x-not-a-bot-subscription-3377079/)
  - [Evident Vascular, which develops AI-enabled tech for more precise intravascular ultrasound images, exits stealth with a $35M Series A from Vensana Capital &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/231017/p50#a231017p50)
- - [How to make your Apple Watch fully charge in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-make-your-apple-watch-fully-charge-in-watchos-10?utm_medium=rss)
- - [NYC Mayor Eric Adams uses AI to make robocalls in languages he doesn&#39;t speak, raising ethical issues over making voters think he can speak their native language &lpar;Katie Honan/The City&rpar;](http://www.techmeme.com/231017/p49#a231017p49)
- - [Latest Apple Watch models may flicker in always-on mode -- fix incoming](https://appleinsider.com/articles/23/10/18/latest-apple-watch-models-may-flicker-in-always-on-mode----fix-incoming?utm_medium=rss)<!-- TECH:END -->
+ - [How to make your Apple Watch fully charge in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-make-your-apple-watch-fully-charge-in-watchos-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

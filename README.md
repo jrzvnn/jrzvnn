@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Israel has pushed dozens of ads, including graphic videos, on X and YouTube in the EU, the UK, and the US to drum up support for its actions in Gaza &lpar;Politico&rpar;](http://www.techmeme.com/231018/p5#a231018p5)
+ - [Alibaba announces &quot;S Plan&quot; to offer &quot;traffic flow, operations and logistics&quot; support to merchants affected by Indonesia&#39;s ban on e-commerce on social media &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/231018/p4#a231018p4)
  - [Pixel 7 series trade-in values have gone from bad to worse at the Google Store](https://www.androidauthority.com/pixel-7-trade-in-google-store-3377097/)
  - [Document: the EU is considering a three-tiered approach to regulating generative AI under the AI Act and wants to finalize the legislation by the end of 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231018/p3#a231018p3)
- - [Filing: Invesco marked up Swiggy&#39;s valuation to $7.85B on July 31, 2023, up 42% from ~$5.5B in January 2023, but down from reportedly $10.7B in January 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231018/p2#a231018p2)
- - [Arm CEO Rene Haas says the US&#39; goal to cut off Chinese access to advanced semiconductors with military uses will be difficult to carry out with export controls &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/231018/p1#a231018p1)
- - [X, formerly Twitter, announces $1/year Not-a-Bot plan for new users](https://www.androidauthority.com/x-not-a-bot-subscription-3377079/)<!-- TECH:END -->
+ - [Filing: Invesco marked up Swiggy&#39;s valuation to $7.85B on July 31, 2023, up 42% from ~$5.5B in January 2023, but down from reportedly $10.7B in January 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231018/p2#a231018p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

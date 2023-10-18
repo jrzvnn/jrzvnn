@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a conference, Sam Altman and other tech leaders say AI may lead to seismic workforce changes, eliminating many professions, a hard sell to those affected &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231018/p20#a231018p20)
+ - [15-inch MacBook Air demand drops significantly, says Kuo](https://appleinsider.com/articles/23/10/18/15-inch-macbook-air-demand-drops-significantly-says-kuo?utm_medium=rss)
+ - [Federated networks like Mastodon and a growing acceptance of paying for content may help move people away from big social platforms and improve online discourse &lpar;Katie Notopoulos/MIT Technology Review&rpar;](http://www.techmeme.com/231018/p19#a231018p19)
  - [Apple focusing on foldable iPad for possible late 2024 launch](https://appleinsider.com/articles/23/10/18/apple-focusing-on-foldable-ipad-for-possible-late-2024-launch?utm_medium=rss)
- - [Chum Salmon Are Spawning the Arctic. It’s an Ominous Sign](https://www.wired.com/story/chum-salmon-are-spawning-the-arctic-its-an-ominous-sign/)
- - [How to Digitize an Entire Government](https://www.wired.com/story/have-a-nice-future-podcast-25/)
- - [Get ready to see a lot more product ads in YouTube videos](https://www.theverge.com/2023/10/18/23921739/youtube-product-ads-shopping-timestamps)
- - [While X charging users $1/year to combat bots and spam is an appealing idea, the value in manipulating X is so high that bad actors will still find a way &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/231018/p18#a231018p18)<!-- TECH:END -->
+ - [Chum Salmon Are Spawning the Arctic. It’s an Ominous Sign](https://www.wired.com/story/chum-salmon-are-spawning-the-arctic-its-an-ominous-sign/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

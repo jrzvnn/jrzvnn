@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
- - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
+ - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
  - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
  - 😝 [Last night, my wife made a very delicious dinner. After I tasted the food, I immediately praised my wife. Immediately my wife cried happily because of my praise.](http://9gag.com/gag/aWGAXVq)
  - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->

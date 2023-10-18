@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)
  - [Nothing Phone 1 update alert! New features and security patch incoming](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-0-4-update-3377116/)
  - [Researchers: soundscapes and an AI model trained on 100+ wildlife songs can be an effective and low-cost tool to track biodiversity recovery in tropical forests &lpar;Bloomberg&rpar;](http://www.techmeme.com/231018/p8#a231018p8)
  - [ASML reports Q3 revenue up 15.5% YoY to &amp;euro;6.67B, vs. &amp;euro;6.71B est., net profit up 11% YoY to &amp;euro;1.89B, vs. &amp;euro;1.8B est., and forecasts that 2024 revenue will be flat &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231018/p7#a231018p7)
- - [Foxconn and Nvidia announce plans to build &quot;AI factories&quot;, a new class of data centers to accelerate the development of autonomous EVs and industrial robots &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231018/p6#a231018p6)
- - [Analysis: Israel has pushed dozens of ads, including graphic videos, on X and YouTube in the EU, the UK, and the US to drum up support for its actions in Gaza &lpar;Politico&rpar;](http://www.techmeme.com/231018/p5#a231018p5)<!-- TECH:END -->
+ - [Foxconn and Nvidia announce plans to build &quot;AI factories&quot;, a new class of data centers to accelerate the development of autonomous EVs and industrial robots &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231018/p6#a231018p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

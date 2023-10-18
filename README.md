@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
- - 😝 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)
- - 💣 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 😝 [Baby strong Baby bonk](http://9gag.com/gag/aBdMBAP)
+ - 😝 [She told him before the wedding, `I&#39;ve spent months planning this wedding and I have an expensive dress, if you put cake in my face I will leave you`. He promised not to do it. Then he did it.](http://9gag.com/gag/avQVNqb)
+ - 💣 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
  - 😝 [Old but memorable](http://9gag.com/gag/aGEqWAG)
  - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 

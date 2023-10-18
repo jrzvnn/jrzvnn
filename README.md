@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a rare joint statement, Five Eyes chiefs from the US, the UK, Canada, Australia, and New Zealand warn on China&#39;s IP &quot;theft&quot; and using AI to hack and spy &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/231018/p10#a231018p10)
+ - [Windows 11 is now used by 400 million devices, leaked Microsoft data shows](https://www.theverge.com/2023/10/18/23922062/microsoft-windows-11-400-million-active-devices-usage-data-leak)
  - [Leaks spoil the party for OnePlus and OPPO’s new foldables](https://www.androidauthority.com/oneplus-open-oppo-find-n3-full-leak-3377164/)
  - [How IRS officials tracked down James Zhong, a hacker who stole 50K+ bitcoin from Silk Road in 2012 and was involved in the development of bitcoin itself in 2009 &lpar;CNBC&rpar;](http://www.techmeme.com/231018/p9#a231018p9)
- - [Android’s upcoming “repair mode” will keep your data safe from snoopy techs](https://www.androidauthority.com/android-repair-mode-2-3377125/)
- - [Ruling paves way for teens to sue companies for social media addiction](https://www.androidauthority.com/social-media-addiction-teens-3377100/)
- - [Nothing Phone 1 update alert! New features and security patch incoming](https://www.androidauthority.com/nothing-phone-1-nothing-os-2-0-4-update-3377116/)<!-- TECH:END -->
+ - [Android’s upcoming “repair mode” will keep your data safe from snoopy techs](https://www.androidauthority.com/android-repair-mode-2-3377125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

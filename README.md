@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
- - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
- - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 👉 [Last night, my wife made a very delicious dinner. After I tasted the food, I immediately praised my wife. Immediately my wife cried happily because of my praise.](http://9gag.com/gag/aWGAXVq)<!-- MEMES:END -->
+ - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 😝 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)
+ - 💣 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 😝 [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 👉 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 ---
 

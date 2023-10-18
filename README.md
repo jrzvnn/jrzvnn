@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 💣 [Berlin has fallen](http://9gag.com/gag/ay2AgxV)
- - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [ActiBlizz](http://9gag.com/gag/aL13yjv)
+ - 💣 [Sugma](http://9gag.com/gag/aEqbrYo)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)<!-- MEMES:END -->
 
 ---
 

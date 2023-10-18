@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
+ - [9 Best Touchscreen Gloves &lpar;2023&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)
  - [YouTube adds a news page on its mobile apps to suggest content from &quot;authoritative sources&quot;, and plans to spend $1.6M to promote the creation of news on Shorts &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231018/p23#a231018p23)
  - [Pickleball sport helps improve health, say Apple researchers](https://appleinsider.com/articles/23/10/18/pickelball-sport-helps-improve-health-say-apple-researchers?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-18-2023-3376417/)
- - [Research: 47.25% of machinery tenders by Chinese chip foundries from January to August 2023 were won by local manufacturers, including 62% from July to August &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p22#a231018p22)
- - [This Detroit-based electric RV has a 250-mile range, Starlink, and 640W of solar](https://www.theverge.com/2023/10/18/23922147/grounded-g2-gm-brightdrop-electric-rv-price-specs)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;October 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-oct-18-2023-3376417/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

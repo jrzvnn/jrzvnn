@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 😝 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)
- - 💣 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 👉 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)<!-- MEMES:END -->
+ - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
+ - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
+ - 💣 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
+ - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
+ - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
 
 ---
 

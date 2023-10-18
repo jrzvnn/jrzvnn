@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Detroit-based electric RV has a 250-mile range, Starlink, and 640W of solar](https://www.theverge.com/2023/10/18/23922147/grounded-g2-gm-brightdrop-electric-rv-price-specs)
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [TECNO MEGABOOK S1 &amp; TECNO MEGABOOK T1 2023 14inch – Redefining Elegance, Performance, &amp; Value](https://www.androidauthority.com/tecno-megabook-s1-tecno-megabook-t1-2023-14inch-redefining-elegance-performance-value-3376555/)
  - [Plaid hires former Expedia Chief Financial Officer Eric Hart as its first CFO, a milestone in its IPO plans after a failed $5.3B sale to Visa in 2021 &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/231018/p21#a231018p21)
- - [Android 14’s new AI wallpapers are great, but Backdrops still has my heart](https://www.androidauthority.com/wallpaper-backdrops-vs-android-14-ai-3376733/)
- - [YouTube wants to get you watching more news from ‘authoritative sources’](https://www.theverge.com/2023/10/18/23922070/youtube-news-immersive-watch-page-experience-shortform)
- - [Super Mario Bros. Wonder never stops surprising](https://www.theverge.com/23920647/super-mario-bros-wonder-review-nintendo-switch)
- - [Should you buy a Pixel 8 Pro or wait for the Galaxy S24 Ultra?](https://www.androidauthority.com/google-pixel-8-pro-vs-galaxy-s24-ultra-3373849/)<!-- TECH:END -->
+ - [Android 14’s new AI wallpapers are great, but Backdrops still has my heart](https://www.androidauthority.com/wallpaper-backdrops-vs-android-14-ai-3376733/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

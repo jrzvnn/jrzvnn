@@ -155,10 +155,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will there be a Kindle Paperwhite 6? All the rumors and what we want to see](https://www.androidauthority.com/kindle-paperwhite-6-3368893/)
  - [Netflix’s Password-Sharing Crackdown Is Working—for Now](https://www.wired.com/story/netflix-password-sharing-crackdown-working-for-now/)
  - [Internal message: Discord shuts down Gas nine months after acquiring the app, which let people share anonymous compliments and had ~1M DAUs in October 2022 &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/231018/p36#a231018p36)
  - [Only Nintendo DS lovers will fully appreciate this dual-screen handheld PC](https://www.theverge.com/2023/10/18/23923136/ayaneo-flip-ds-kb-handheld-gaming-pc-nintendo-emulation)
- - [Best Apple Pencil Deals: Save on Stylus Options From Apple and More     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
  - [Clearview AI wins an appeal against the UK&#39;s data protection watchdog, which imposed a ~&amp;pound;7.5M fine in May 2022 for alleged breaches of local privacy laws &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231018/p35#a231018p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

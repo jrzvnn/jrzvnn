@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 😝 [Berlin has fallen](http://9gag.com/gag/ay2AgxV)
- - 💣 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
- - 😝 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
- - 👉 [Last night, my wife made a very delicious dinner. After I tasted the food, I immediately praised my wife. Immediately my wife cried happily because of my praise.](http://9gag.com/gag/aWGAXVq)<!-- MEMES:END -->
+ - 😝 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [Last night, my wife made a very delicious dinner. After I tasted the food, I immediately praised my wife. Immediately my wife cried happily because of my praise.](http://9gag.com/gag/aWGAXVq)
+ - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stripper transformation, before &amp; after](http://9gag.com/gag/ap9XwM5)
- - 😝 [This is funny af](http://9gag.com/gag/adPMw2V)
- - 💣 [I don&#39;t appreciate being called out like this](http://9gag.com/gag/aWGA3G4)
- - 😝 [Lily Smith](http://9gag.com/gag/avQVqwE)
- - 👉 [Why do you think it\u2019s like this?](http://9gag.com/gag/aOxOWz3)<!-- MEMES:END -->
+ - 😝 [Cannot unsee now](http://9gag.com/gag/a4o8vRQ)
+ - 😝 [She f\u00b5ck around &amp; find out. &lpar;context in the comment&rpar;](http://9gag.com/gag/aREGbgj)
+ - 💣 [The western world as you once knew, is gone. You may harvest what&#39;s left but you simply can&#39;t get it back. This is your future.](http://9gag.com/gag/aYVB3q2)
+ - 😝 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 👉 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)<!-- MEMES:END -->
 
 ---
 

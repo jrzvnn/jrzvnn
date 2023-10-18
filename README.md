@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook again meets with Chinese minister over Apple&#39;s future](https://appleinsider.com/articles/23/10/18/tim-cook-again-meets-with-chinese-minister-over-apples-future?utm_medium=rss)
+ - [PSA: it’s time to update WinRAR due to a big security vulnerability](https://www.theverge.com/2023/10/18/23922075/winrar-security-vulnerability-exploit-patch-update)
+ - [Amazon says its robots will speed up delivery and definitely not replace humans](https://www.theverge.com/2023/10/18/23922202/amazon-robots-sorting-machines-sequoia-warehouse)
  - [Daily deals Oct. 18: $150 off Apple Watch Series 8, $200 off 2023 M2 MacBook Pro, up to 40% off Samsung monitors, more](https://appleinsider.com/articles/23/10/18/daily-deals-oct-18-150-off-apple-watch-series-8-200-off-2023-m2-macbook-pro-up-to-40-off-samsung-monitors-more?utm_medium=rss)
- - [PitchBook: global AI startup funding rose 27% YoY to $17.9B in Q3, one of the lone bright spots as overall startup funding dropped 31% YoY to $73B &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231018/p24#a231018p24)
- - [New leak lets us compare the OnePlus Open and Oppo Find N3 side by side](https://www.theverge.com/2023/10/18/23922157/oneplus-open-oppo-find-n3-leak-foldable-launch-specs)
- - [13 states join the IRS direct-file test after tax prep firms dropped the ball](https://www.theverge.com/2023/10/18/23922150/irs-direct-file-pilot-available-13-states-income-tax-2024)
- - [9 Best Touchscreen Gloves &lpar;2023&rpar;: Knitted, Leather, Thin](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
+ - [PitchBook: global AI startup funding rose 27% YoY to $17.9B in Q3, one of the lone bright spots as overall startup funding dropped 31% YoY to $73B &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/231018/p24#a231018p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

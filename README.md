@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York AG Letitia James sues the Winklevoss&#39; Gemini, Genesis, and its parent Digital Currency Group, alleging the companies defrauded 230K investors of $1B+ &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231019/p18#a231019p18)
  - [Sources: Apple fired at least five employees who worked in the company&#39;s App Store in China following an internal investigation into business misconduct &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231019/p17#a231019p17)
  - [TCL Q7 Review: The Best Affordable TV](https://www.wired.com/review/tcl-q7-2023/)
  - [Amazon Let Its Drivers’ Urine Be Sold as an Energy Drink](https://www.wired.com/story/amazon-let-its-drivers-urine-be-sold-as-an-energy-drink/)
- - [Google Meet adds skin smoothing and teeth whitening effects for video calls](https://www.theverge.com/2023/10/19/23923650/google-meet-portrait-touch-up-skin-smoothing-teeth-whitening-filter-effects)
- - [US v. SBF: accounting professor Peter Easton testifies that FTX used &quot;over a billion dollars&quot; of customer funds to buy back Binance&#39;s FTX stake, bought in 2019 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231019/p16#a231019p16)<!-- TECH:END -->
+ - [Google Meet adds skin smoothing and teeth whitening effects for video calls](https://www.theverge.com/2023/10/19/23923650/google-meet-portrait-touch-up-skin-smoothing-teeth-whitening-filter-effects)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

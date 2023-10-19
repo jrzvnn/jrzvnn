@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A far-right Twitter troll was sentenced to seven months in prison for his 2016 election tweets](https://www.theverge.com/2023/10/19/23923733/douglass-mackey-twitter-troll-2016-election-voting-conspiracy)
  - [HyperX’s Cloud III Wireless gaming headset with its marathon battery life is $20 off](https://www.theverge.com/2023/10/19/23922933/hyperx-cloud-gaming-headset-razer-kishi-lg-oled-tv-deal-sale)
  - [AMD announces new Ryzen Threadripper 7000 CPUs for desktops and workstations, offering up to 96 cores on the 7000 Pro series, shipping November 21 for $550+ &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231019/p24#a231019p24)
  - [New York sues crypto firms for losing over $1 billion](https://www.theverge.com/2023/10/19/23923707/new-york-attorney-general-crypto-lawsuit-gemini-genesis-dcg-fraud)
- - [Apple Pencil lineup is convoluted right now, but won&#39;t be for long](https://appleinsider.com/articles/23/10/19/apple-pencil-lineup-is-convoluted-right-now-but-wont-be-for-long?utm_medium=rss)
- - [Adobe announces Elements 2024 for Photoshop &amp; Premiere](https://appleinsider.com/articles/23/10/19/adobe-announces-elements-2023-for-photoshop-premiere?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Pencil lineup is convoluted right now, but won&#39;t be for long](https://appleinsider.com/articles/23/10/19/apple-pencil-lineup-is-convoluted-right-now-but-wont-be-for-long?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

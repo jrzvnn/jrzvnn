@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybersecurity startups raised nearly $1.9B globally in 153 deals in Q3 2023, up 12% from Q2 but down 30% from $2.7B in Q3 2022; just five deals were over $75M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/231019/p22#a231019p22)
  - [Meta&#39;s Yann LeCun says regulating R&amp;D for AI &quot;is incredibly counterproductive&quot; and only serves to reinforce the dominance of Big Tech and stifle competition &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/231019/p21#a231019p21)
  - [Misinformation Is Soaring Online. Don’t Fall for It](https://www.wired.com/story/gadget-lab-podcast-617/)
  - [18 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2023&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)
- - [ChargePoint is bringing Tesla’s NACS plug to its vast network of EV chargers](https://www.theverge.com/2023/10/19/23923679/chargepoint-ev-chargers-tesla-nacs-plug)
- - [US v. Google: Pandu Nayak, Google&#39;s VP of Search and first witness, testifies that smart employees explain its success and lead to innovations, such as on LLMs &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231019/p20#a231019p20)<!-- TECH:END -->
+ - [ChargePoint is bringing Tesla’s NACS plug to its vast network of EV chargers](https://www.theverge.com/2023/10/19/23923679/chargepoint-ev-chargers-tesla-nacs-plug)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

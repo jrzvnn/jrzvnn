@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD announces new Ryzen Threadripper 7000 CPUs for desktops and workstations, offering up to 96 cores on the 7000 Pro series, shipping November 21 for $550+ &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/231019/p24#a231019p24)
+ - [New York sues crypto firms for losing over $1 billion](https://www.theverge.com/2023/10/19/23923707/new-york-attorney-general-crypto-lawsuit-gemini-genesis-dcg-fraud)
+ - [Apple Pencil lineup is convoluted right now, but won&#39;t be for long](https://appleinsider.com/articles/23/10/19/apple-pencil-lineup-is-convoluted-right-now-but-wont-be-for-long?utm_medium=rss)
  - [Adobe announces Elements 2023 for Photoshop &amp; Premiere](https://appleinsider.com/articles/23/10/19/adobe-announces-elements-2023-for-photoshop-premiere?utm_medium=rss)
- - [The Pixel Watch 2 and Fitbit Charge 6 are death knells for the Sense series](https://www.androidauthority.com/pixel-watch-2-fitbit-charge-6-death-knells-sense-series-3376617/)
- - [Google Pixel 8 tips: Take you Pixel experience to the next level](https://www.androidauthority.com/google-pixel-8-tips-3375809/)
- - [The EU&#39;s antitrust order requiring Google to let Android users select a search engine boosts usage of Russia&#39;s Yandex, now a top five option in Germany and more &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231019/p23#a231019p23)
- - [Cybersecurity startups raised nearly $1.9B globally in 153 deals in Q3 2023, up 12% from Q2 but down 30% from $2.7B in Q3 2022; just five deals were over $75M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/231019/p22#a231019p22)<!-- TECH:END -->
+ - [The Pixel Watch 2 and Fitbit Charge 6 are death knells for the Sense series](https://www.androidauthority.com/pixel-watch-2-fitbit-charge-6-death-knells-sense-series-3376617/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sigh unzips](http://9gag.com/gag/aDY9R2K)
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 💣 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 😝 [I need it](http://9gag.com/gag/a6qzvM9)
+ - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 💣 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
 

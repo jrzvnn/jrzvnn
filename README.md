@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 😝 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
- - 💣 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [Greedy f*cks](http://9gag.com/gag/aVb8GYy)
+ - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
+ - 👉 [Sugma](http://9gag.com/gag/aEqbrYo)<!-- MEMES:END -->
 
 ---
 

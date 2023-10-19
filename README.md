@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Has Failed to Pass AI Regulation. New York City Is Stepping Up](https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/)
+ - [PS5 Slim launch date revealed in new leak](https://www.androidauthority.com/ps5-slim-launch-leak-3377954/)
  - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)
  - [Amazon has renewed Gen V for a sophomore season](https://www.theverge.com/23924179/gen-v-the-boys-season-2-renewal)
- - [Best Chromebook Deals: Save Big on 17-Inch, Touch-Enabled and Cloud-Gaming Devices     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
- - [Universal Music sues AI company Anthropic for distributing song lyrics](https://www.theverge.com/2023/10/19/23924100/universal-music-sue-anthropic-lyrics-copyright-katy-perry)
- - [‘The Whole Health System Is Collapsing Around Us.’ Doctors Say Gaza Is on the Brink](https://www.wired.com/story/gaza-health-system-collapse-israel-hamas/)<!-- TECH:END -->
+ - [Best Chromebook Deals: Save Big on 17-Inch, Touch-Enabled and Cloud-Gaming Devices     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

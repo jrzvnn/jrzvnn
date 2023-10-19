@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Toyota and Lexus join the Tesla charging connector bandwagon](https://www.theverge.com/2023/10/19/23924413/toyota-lexus-tesla-nacs-supercharger-electric-vehicle-charging-2025)
- - [Product Hunt CEO says layoffs announced on October 10 were for strategic reasons, not &quot;financial or company performance reasons&quot;, and impacted ~60% of its team &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231019/p38#a231019p38)
- - [Google may have brought its AR glasses project back from the dead](https://www.androidauthority.com/project-iris-ar-glasses-3377985/)
+ - [Product Hunt&#39;s CEO says layoffs announced on October 10 were for &quot;strategic&quot; not &quot;financial or company performance reasons&quot;, and impacted ~60% of the team &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231019/p38#a231019p38)
  - [India&#39;s Central Bureau of Investigation works with Microsoft and Amazon to raid 76 locations in a nationwide crackdown on tech support scams and crypto fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231019/p37#a231019p37)
- - [The latest AI copyright lawsuit involves Mike Huckabee and his books](https://www.theverge.com/2023/10/19/23924246/mike-huckabee-books-lawsuit-generative-ai-microsoft-meta-bloomberg-eleutherai-books3)<!-- TECH:END -->
+ - [The latest AI copyright lawsuit involves Mike Huckabee and his books](https://www.theverge.com/2023/10/19/23924246/mike-huckabee-books-lawsuit-generative-ai-microsoft-meta-bloomberg-eleutherai-books3)
+ - [FCC permits consumer products to utilize more of the 6GHz band, benefiting Apple](https://appleinsider.com/articles/23/10/19/fcc-permits-consumer-products-to-utilize-more-of-the-6ghz-band-benefiting-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

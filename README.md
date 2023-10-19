@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DALL-E 3: Release date, features, pricing, and more](https://www.androidauthority.com/dall-e-3-3377629/)
  - [Facing “screen burn-in” on your iPhone 15 Pro? Apple has a fix for you](https://www.androidauthority.com/apple-iphone-15-pro-screen-burn-in-ios171-fix-3377611/)
  - [WhatsApp will soon let you stay logged in to two accounts at once](https://www.theverge.com/2023/10/19/23923113/whatsapp-stay-logged-in-two-accounts-meta)
  - [Get ready to pay even more for Netflix’s popular plans](https://www.androidauthority.com/netflix-price-increase-october-2023-3377605/)
- - [Nokia plans to cut up to 14,000 jobs, or ~16% of its 86,000 workforce, and reports Q3 2023 net sales down 20% YoY to &amp;euro;4.98B and profit down 69% YoY to &amp;euro;133M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231019/p6#a231019p6)
- - [Mustafa Suleyman, Eric Schmidt, and others propose an IPCC-like International Panel on AI Safety, an objective advisory body to help shape protocols and norms &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p5#a231019p5)<!-- TECH:END -->
+ - [Nokia plans to cut up to 14,000 jobs, or ~16% of its 86,000 workforce, and reports Q3 2023 net sales down 20% YoY to &amp;euro;4.98B and profit down 69% YoY to &amp;euro;133M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231019/p6#a231019p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

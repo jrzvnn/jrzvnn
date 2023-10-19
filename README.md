@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp plans to let users switch between accounts on Android in the coming weeks; a second account will still need a separate phone number and SIM card &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231019/p11#a231019p11)
  - [Google plans to start assembling the Pixel 8 and Pixel 8 Pro in India and begin India-made shipments in 2024, but didn&#39;t reveal its local manufacturing partners &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231019/p10#a231019p10)
  - [Gen V: Here’s what you need to know about The Boys spin-off](https://www.androidauthority.com/gen-v-season-1-release-date-3377364/)
  - [Chainalysis says recent media reports about the supposed use of crypto by terrorist organizations might be overstating metrics and using &quot;flawed analyses&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231019/p9#a231019p9)
- - [DALL-E 2 vs DALL-E 3: How do they compare?](https://www.androidauthority.com/dall-e-2-vs-dall-e-3-3377650/)
- - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
+ - [DALL-E 2 vs DALL-E 3: How do they compare?](https://www.androidauthority.com/dall-e-2-vs-dall-e-3-3377650/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Yoshua Bengio on nuance in headlines about AI, taboos among AI researchers, and why top researchers may disagree about AI&#39;s potential risks to humanity &lpar;Susan D&#39;Agostino/Bulletin of the ...&rpar;](http://www.techmeme.com/231019/p4#a231019p4)
  - [Sources: the UK plans to announce an international advisory group on AI, loosely modeled on the UN&#39;s IPCC, at the November 2023 AI summit in Bletchley Park &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p3#a231019p3)
- - [Google rolls out Play Protect with real-time scanning at the code level, which will prompt users to scan unknown apps before sideloading, starting with India &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231019/p2#a231019p2)
- - [The US GSA plans to add facial recognition tech to Login.gov in 2024 and a digital identity verification option for those who don&#39;t want to use facial matching &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/231019/p1#a231019p1)
- - [SecureW2, which offers a passwordless authentication service to companies, raised $80M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231018/p44#a231018p44)
- - [Sydney-based Employment Hero, which provides a recruitment and HR platform, raised a A$263M Series F at a A$2.13B valuation, taking its total funding to A$650M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231018/p43#a231018p43)<!-- TECH:END -->
+ - [Google updates Play Protect with real-time scanning at the code level, which prompts users to scan unknown Android apps before sideloading, starting with India &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231019/p2#a231019p2)
+ - [The US GSA plans to add facial recognition tech to Login.gov in 2024 and another digital identity verification option for those who don&#39;t want to use the tech &lpar;Natalie Alms/Nextgov/FCW&rpar;](http://www.techmeme.com/231019/p1#a231019p1)
+ - [SecureW2, whose zero-trust platform helps companies use certificate-based authentication from identity software providers, raised $80M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231018/p44#a231018p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

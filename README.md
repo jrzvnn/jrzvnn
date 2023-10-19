@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU is looking into Meta and TikTok’s handling of the Israel-Hamas war](https://www.theverge.com/2023/10/19/23923768/eu-digital-services-act-meta-tiktok-violations-israel-hamas-war)
  - [A researcher details a malicious and convincing Google ad linking to a fake site for password manager Keepass; Google shows a verified advertiser paid for them &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231019/p26#a231019p26)
  - [AMD’s Threadripper CPUs return with a 96-core monster chip](https://www.theverge.com/2023/10/19/23923758/amd-threadripper-zen-4-release-date-price)
  - [Swiss luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)
- - [SynFutures, a decentralized derivatives exchange for trading crypto perpetual futures, raised a $22M Series B led by Pantera, after a $14M Series A in June 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231019/p25#a231019p25)
- - [YouTube might make an official way to create AI Drake fakes](https://www.theverge.com/2023/10/19/23923736/youtube-ai-voice-music-tool-copy-musician)<!-- TECH:END -->
+ - [SynFutures, a decentralized derivatives exchange for trading crypto perpetual futures, raised a $22M Series B led by Pantera, after a $14M Series A in June 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231019/p25#a231019p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

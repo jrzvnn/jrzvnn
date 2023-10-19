@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is rolling out a view once mode for voice notes to some iOS and Android users in beta, after launching the feature for photos and videos in August 2021 &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231018/p39#a231018p39)
+ - [Sources: YouTube is building an AI tool to let creators record audio using famous musicians&#39; voices and is seeking rights from companies for training the tool &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231018/p40#a231018p40)
+ - [WhatsApp is rolling out a view once mode for voice notes to some beta users on iOS and Android, after launching the feature for photos and videos in August 2021 &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231018/p39#a231018p39)
  - [Elon Musk answers Tesla pricing question with anti work-from-home rant](https://www.theverge.com/2023/10/18/23923218/elon-musk-q3-tesla-earnings-work-from-home)
  - [Amazon plans to expand its Prime Air drone delivery system to the UK, Italy, and a third US city beginning in late 2024 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231018/p38#a231018p38)
- - [Best 3D Printer Deals: These 6 Amazing Machines Are Discounted Right Now     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Universal Music Publishing Group, Concord Music Group, and ABKCO sue Anthropic, saying it violated copyrights by using existing song lyrics to train AI models &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/231018/p37#a231018p37)<!-- TECH:END -->
+ - [Best 3D Printer Deals: These 6 Amazing Machines Are Discounted Right Now     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

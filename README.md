@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [Victoria Beckham tried to claim she came from a `working class`](http://9gag.com/gag/aYV6jGq)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 💣 [Nice farewell card](http://9gag.com/gag/axo85pM)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Influencer in real life](http://9gag.com/gag/amAyDy6)<!-- MEMES:END -->
+ - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
 
 ---
 

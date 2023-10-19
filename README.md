@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23andMe is investigating a possible new data leak of 4M users&#39; records on BreachForums; the hacker claims the dataset includes info on people from Great Britain &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231019/p40#a231019p40)
+ - [Jon Stewart’s Apple TV Plus show ends, reportedly over coverage of AI and China](https://www.theverge.com/2023/10/19/23924549/jon-stewart-apple-ai-china-cancel)
  - [Israel-Hamas war: how social media companies are handling the response](https://www.theverge.com/2023/10/19/23924409/israel-hamas-war-crisis-tech-companies)
  - [&#39;The Problem With Jon Stewart&#39; canceled after two seasons on Apple TV+](https://appleinsider.com/articles/23/10/19/the-problem-with-jon-stewart-canceled-after-two-seasons-on-apple-tv?utm_medium=rss)
- - [Filing: the US SEC drops charges alleging Ripple executives Brad Garlinghouse and Chris Larsen aided and abetted the company in violating securities laws &lpar;CoinDesk&rpar;](http://www.techmeme.com/231019/p39#a231019p39)
- - [Apple may incorporate advertising into its original podcasts](https://appleinsider.com/articles/23/10/19/apple-may-incorporate-advertising-into-its-original-podcasts?utm_medium=rss)
- - [Best Apple TV Deals: Save on New and Refurbished Streaming Boxes and Remotes     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the US SEC drops charges alleging Ripple executives Brad Garlinghouse and Chris Larsen aided and abetted the company in violating securities laws &lpar;CoinDesk&rpar;](http://www.techmeme.com/231019/p39#a231019p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

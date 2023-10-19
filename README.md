@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to get rid of termite swarmers](http://9gag.com/gag/avQVbWM)
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 💣 [It&#39;s kinda boring, I better stay with my Pixel6](http://9gag.com/gag/aME6oxA)
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
  - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
+ - 💣 [Still no clue](http://9gag.com/gag/a7qBYZq)
+ - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 👉 [Excuse me, you left ya door open](http://9gag.com/gag/arm0687)<!-- MEMES:END -->
 
 ---
 

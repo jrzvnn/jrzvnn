@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Chrome’s address bar is gaining a set of new skills](https://www.androidauthority.com/google-chrome-address-bar-updates-3377720/)
+ - [A May 2023 survey of 5,101 US adults: 78% of Democrats and 68% of Republicans support more government regulation over what companies can do with people&#39;s data &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231019/p19#a231019p19)
+ - [These space-saving public EV chargers are ridiculously fast and rolling out now](https://www.theverge.com/2023/10/19/23922649/gravity-dc-fast-charger-new-york-500kw)
  - [New York AG Letitia James sues the Winklevoss&#39; Gemini, Genesis, and its parent Digital Currency Group, alleging the companies defrauded 230K investors of $1B+ &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231019/p18#a231019p18)
- - [Sources: Apple fired at least five employees who worked in the company&#39;s App Store in China following an internal investigation into business misconduct &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231019/p17#a231019p17)
- - [TCL Q7 Review: The Best Affordable TV](https://www.wired.com/review/tcl-q7-2023/)
- - [Amazon Let Its Drivers’ Urine Be Sold as an Energy Drink](https://www.wired.com/story/amazon-let-its-drivers-urine-be-sold-as-an-energy-drink/)
- - [Google Meet adds skin smoothing and teeth whitening effects for video calls](https://www.theverge.com/2023/10/19/23923650/google-meet-portrait-touch-up-skin-smoothing-teeth-whitening-filter-effects)<!-- TECH:END -->
+ - [Sources: Apple fired at least five employees who worked in the company&#39;s App Store in China following an internal investigation into business misconduct &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231019/p17#a231019p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
  - 💣 [Still no clue](http://9gag.com/gag/a7qBYZq)
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 👉 [Excuse me, you left ya door open](http://9gag.com/gag/arm0687)<!-- MEMES:END -->
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC approves a petition by Apple, Meta, Google, Microsoft and others for access to the 6GHz band for Wi-Fi tethering of AR and VR headsets &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231019/p36#a231019p36)
+ - [Crypto Groups Gemini, Genesis, and DCG Sued for $1.1 Billion ‘Fraud’](https://www.wired.com/story/crypto-gemini-genesis-dcg-sued-billion-dollar-fraud/)
  - [The US Has Failed to Pass AI Regulation. New York City Is Stepping Up](https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/)
  - [PS5 Slim launch date revealed in new leak](https://www.androidauthority.com/ps5-slim-launch-leak-3377954/)
- - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)
- - [Amazon has renewed Gen V for a sophomore season](https://www.theverge.com/23924179/gen-v-the-boys-season-2-renewal)
- - [Best Chromebook Deals: Save Big on 17-Inch, Touch-Enabled and Cloud-Gaming Devices     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

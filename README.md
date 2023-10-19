@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
  - 😝 [Old but memorable](http://9gag.com/gag/aGEqWAG)
- - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - 💣 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 👉 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The HyperX Cloud III Wireless gaming headset gets its first price drop](https://www.androidauthority.com/hyperx-cloud-iii-wireless-deal-3377952/)
+ - [Amazon has renewed Gen V for a sophomore season](https://www.theverge.com/23924179/gen-v-the-boys-season-2-renewal)
+ - [Best Chromebook Deals: Save Big on 17-Inch, Touch-Enabled and Cloud-Gaming Devices     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)
  - [Universal Music sues AI company Anthropic for distributing song lyrics](https://www.theverge.com/2023/10/19/23924100/universal-music-sue-anthropic-lyrics-copyright-katy-perry)
- - [‘The Whole Health System Is Collapsing Around Us.’ Doctors Say Gaza Is on the Brink](https://www.wired.com/story/gaza-health-system-collapse-israel-hamas/)
- - [OpenAI rolls out DALL-E 3 access to ChatGPT Plus and Enterprise customers and says it has prepared a safety mitigation stack for the model &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231019/p35#a231019p35)
- - [Trucking marketplace Convoy abruptly starts winding down operations; sources say the company had ~$320M in revenue as of October, down from $630M in 2022 &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231019/p34#a231019p34)
- - [This handheld PC might be perfect for DS and 3DS emulation](https://www.androidauthority.com/handheld-pc-gaming-3377864/)<!-- TECH:END -->
+ - [‘The Whole Health System Is Collapsing Around Us.’ Doctors Say Gaza Is on the Brink](https://www.wired.com/story/gaza-health-system-collapse-israel-hamas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

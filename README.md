@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google may have brought its AR glasses project back from the dead](https://www.androidauthority.com/project-iris-ar-glasses-3377985/)
+ - [India&#39;s Central Bureau of Investigation works with Microsoft and Amazon to raid 76 locations in a nationwide crackdown on tech support scams and crypto fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231019/p37#a231019p37)
+ - [The latest AI copyright lawsuit involves Mike Huckabee and his books](https://www.theverge.com/2023/10/19/23924246/mike-huckabee-books-lawsuit-generative-ai-microsoft-meta-bloomberg-eleutherai-books3)
  - [FCC permits consumer products to utilize more of the 6GHz band, benefiting Apple](https://appleinsider.com/articles/23/10/19/fcc-permits-consumer-products-to-utilize-more-of-the-6ghz-band-benefiting-apple?utm_medium=rss)
- - [Amazon, Microsoft, and India crack down on tech support scams](https://www.theverge.com/2023/10/19/23924294/amazon-microsoft-india-cbi-crackdown-technology-support-fraud)
- - [Amazon eliminated plastic packaging at one of its warehouses](https://www.theverge.com/2023/10/19/23923863/amazon-plastic-free-mail-packages-euclid-ohio-warehouse)
- - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
- - [OnePlus Open vs Galaxy Z Fold 5: Which should you buy?](https://www.androidauthority.com/oneplus-open-vs-samsung-galaxy-z-fold-5-3377335/)<!-- TECH:END -->
+ - [Amazon, Microsoft, and India crack down on tech support scams](https://www.theverge.com/2023/10/19/23924294/amazon-microsoft-india-cbi-crackdown-technology-support-fraud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

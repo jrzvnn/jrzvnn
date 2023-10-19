@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yeah, sure: T-Mobile says those forced plan ‘upgrades’ were just a test](https://www.androidauthority.com/t-mobile-forced-plan-changes-test-3377671/)
+ - [Meta introduces temporary limits on &quot;potentially unwelcome or unwanted comments&quot; on Facebook posts about the Israel-Hamas war for users &quot;in the region&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231019/p12#a231019p12)
  - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)
  - [WhatsApp plans to let users switch between accounts on Android in the coming weeks; a second account will still need a separate phone number and SIM card &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231019/p11#a231019p11)
- - [Google plans to start assembling the Pixel 8 and Pixel 8 Pro in India and begin India-made shipments in 2024, but didn&#39;t reveal its local manufacturing partners &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231019/p10#a231019p10)
- - [Gen V: Here’s what you need to know about The Boys spin-off](https://www.androidauthority.com/gen-v-season-1-release-date-3377364/)
- - [Chainalysis says recent media reports about the supposed use of crypto by terrorist organizations might be overstating metrics and using &quot;flawed analyses&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231019/p9#a231019p9)<!-- TECH:END -->
+ - [Google plans to start assembling the Pixel 8 and Pixel 8 Pro in India and begin India-made shipments in 2024, but didn&#39;t reveal its local manufacturing partners &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231019/p10#a231019p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

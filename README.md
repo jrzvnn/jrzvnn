@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to start assembling the Pixel 8 and Pixel 8 Pro in India and begin India-made shipments in 2024, but didn&#39;t reveal its local manufacturing partners &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231019/p10#a231019p10)
  - [Gen V: Here’s what you need to know about The Boys spin-off](https://www.androidauthority.com/gen-v-season-1-release-date-3377364/)
  - [Chainalysis says recent media reports about the supposed use of crypto by terrorist organizations might be overstating metrics and using &quot;flawed analyses&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231019/p9#a231019p9)
  - [DALL-E 2 vs DALL-E 3: How do they compare?](https://www.androidauthority.com/dall-e-2-vs-dall-e-3-3377650/)
- - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
- - [TSMC reports Q3 revenue down 14.6% YoY to ~$17.28B, net income down 24.9% YoY to ~$6.5B, and expects to spend $32B on growing and upgrading capacity in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231019/p8#a231019p8)<!-- TECH:END -->
+ - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp will soon let you stay logged in to two accounts at once](https://www.theverge.com/2023/10/19/23923113/whatsapp-stay-logged-in-two-accounts-meta)
  - [Get ready to pay even more for Netflix’s popular plans](https://www.androidauthority.com/netflix-price-increase-october-2023-3377605/)
  - [Nokia plans to cut up to 14,000 jobs, or ~16% of its 86,000 workforce, and reports Q3 2023 net sales down 20% YoY to &amp;euro;4.98B and profit down 69% YoY to &amp;euro;133M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/231019/p6#a231019p6)
  - [Mustafa Suleyman, Eric Schmidt, and others propose an IPCC-like International Panel on AI Safety, an objective advisory body to help shape protocols and norms &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p5#a231019p5)
- - [Q&amp;A with Yoshua Bengio on nuance in headlines about AI, taboos among AI researchers, and why top researchers may disagree about AI&#39;s potential risks to humanity &lpar;Susan D&#39;Agostino/Bulletin of the ...&rpar;](http://www.techmeme.com/231019/p4#a231019p4)
- - [Sources: the UK plans to announce an international advisory group on AI, loosely modeled on the UN&#39;s IPCC, at the November 2023 AI summit in Bletchley Park &lpar;Financial Times&rpar;](http://www.techmeme.com/231019/p3#a231019p3)<!-- TECH:END -->
+ - [Q&amp;A with Yoshua Bengio on nuance in headlines about AI, taboos among AI researchers, and why top researchers may disagree about AI&#39;s potential risks to humanity &lpar;Susan D&#39;Agostino/Bulletin of the ...&rpar;](http://www.techmeme.com/231019/p4#a231019p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 😝 [Greedy f*cks](http://9gag.com/gag/aVb8GYy)
- - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
+ - 😝 [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 💣 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Sugma](http://9gag.com/gag/aEqbrYo)<!-- MEMES:END -->
+ - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
 
 ---
 

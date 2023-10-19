@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC kicks off fight to restore net neutrality](https://www.theverge.com/2023/10/19/23922810/fcc-net-neutrality-proposed-rulemaking-vote)
+ - [The OnePlus Open is here: Should Samsung and Google watch out?](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
  - [A US judge sentences a social media influencer to seven months in prison for conspiring to suppress votes for Hillary Clinton in 2016, including via Twitter ads &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231019/p30#a231019p30)
- - [Daily deals Oct. 19: $1,100 off 16&quot; MacBook Pro, $150 off LG UltraFine 5K monitor, Roborock S7 robot vacuum $349, more](https://appleinsider.com/articles/23/10/19/daily-deals-oct-19-1100-off-16-macbook-pro-150-off-lg-ultrafine-5k-monitor-roborock-s7-robot-vacuum-349-more?utm_medium=rss)
- - [Discord overhauls its moderation tools with a new warning system and a teen safety assist feature, plans to roll out an in-app shop for Discord members, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231019/p29#a231019p29)
- - [Poll: Is the OnePlus Open hot or not?](https://www.androidauthority.com/oneplus-open-hot-or-not-3377457/)
- - [Samsung Galaxy Z Flip 5 could soon get a ‘Retro Edition’](https://www.androidauthority.com/galaxy-z-flip-5-retro-edition-3377836/)<!-- TECH:END -->
+ - [GM and Honda to launch Cruise robotaxis in Japan by 2026](https://www.theverge.com/2023/10/19/23923882/gm-honda-launch-cruise-robotaxis-japan-2026)
+ - [Daily deals Oct. 19: $1,100 off 16&quot; MacBook Pro, $150 off LG UltraFine 5K monitor, Roborock S7 robot vacuum $349, more](https://appleinsider.com/articles/23/10/19/daily-deals-oct-19-1100-off-16-macbook-pro-150-off-lg-ultrafine-5k-monitor-roborock-s7-robot-vacuum-349-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

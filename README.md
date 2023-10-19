@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. SBF: accounting professor Peter Easton testifies that FTX used &quot;over a billion dollars&quot; of customer funds to buy back Binance&#39;s FTX stake, bought in 2019 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/231019/p16#a231019p16)
  - [WhatsApp tests voice messages that disappear after your recipient hears them](https://www.theverge.com/2023/10/19/23923648/whatsapp-view-once-voice-messages-notes-beta-test)
  - [Sources: the EU adjusts DSA charges to cap them at 0.05% of 2022 profit; X and Amazon may pay &amp;euro;0 while Alphabet and Meta together pay ~&amp;euro;31M, or 75% of the total &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231019/p15#a231019p15)
  - [Filing: China took a &quot;golden share&quot; in Tencent&#39;s local subsidiary Shenzhen Yayue, buying a 1% stake for ~$82K, the latest move to expand tech sector control &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231019/p14#a231019p14)
- - [Inside a TikTok Talent Factory for Misfit Stars](https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/)
- - [The US has new clean energy and efficiency programs for low-income housing](https://www.theverge.com/2023/10/19/23922915/biden-administration-clean-energy-efficiency-programs-low-income-housing)<!-- TECH:END -->
+ - [Inside a TikTok Talent Factory for Misfit Stars](https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

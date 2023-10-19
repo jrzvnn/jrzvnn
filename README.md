@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swedish luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)
+ - [The FBI and DOJ say thousands of IT workers sent by North Korea to work remotely with US companies with false IDs have sent millions in wages to the country &lpar;Jim Salter/Associated Press&rpar;](http://www.techmeme.com/231019/p33#a231019p33)
  - [Swift creator brings new AI programming language to the Mac](https://appleinsider.com/articles/23/10/19/swift-creator-brings-new-ai-programming-language-to-the-mac?utm_medium=rss)
  - [US v. SBF: Can Sun, FTX&#39;s ex-top lawyer, says SBF asked for &quot;legal justifications&quot; for why FTX was short $7B of user funds, undermining SBF&#39;s good-faith defense &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/231019/p32#a231019p32)
- - [Apple allegedly has a 12.9-inch iPad Air in the works](https://appleinsider.com/articles/23/10/19/apple-allegedly-has-a-129-inch-ipad-air-in-the-works?utm_medium=rss)
- - [AI Is Becoming More Powerful—but Also More Secretive](https://www.wired.com/story/fast-forward-ai-powerful-secretive/)
- - [Rumors of all iPhone 16 models having an A18 processor make no sense](https://appleinsider.com/articles/23/10/19/rumors-of-all-iphone-16-models-having-an-a18-processor-make-no-sense?utm_medium=rss)<!-- TECH:END -->
+ - [Apple allegedly has a 12.9-inch iPad Air in the works](https://appleinsider.com/articles/23/10/19/apple-allegedly-has-a-129-inch-ipad-air-in-the-works?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excuse me, you left ya door open](http://9gag.com/gag/arm0687)
- - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 💣 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
  - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 👉 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)<!-- MEMES:END -->
+ - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 👉 [Hellohohoo](http://9gag.com/gag/aPg0Exn)<!-- MEMES:END -->
 
 ---
 

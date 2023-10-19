@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 💣 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Excuse me, you left ya door open](http://9gag.com/gag/arm0687)
  - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 💣 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)<!-- MEMES:END -->
 
 ---
 

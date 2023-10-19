@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
  - [Citing Hamas, the US Wants to Treat Crypto &quot;Mixers&quot; as Suspected Money Launderers](https://www.wired.com/story/us-treasury-crypto-mixer-hamas/)
  - [Jon Stewart&#39;s Apple TV+ show ends after two seasons, sources say over creative differences; source: Stewart said China and AI topics concerned Apple executives &lpar;New York Times&rpar;](http://www.techmeme.com/231019/p41#a231019p41)
  - [Thursday Night Football: How to Watch, Stream Jaguars vs. Saints Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-jaguars-vs-saints-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
- - [23andMe is investigating a possible new data leak of 4M users&#39; records on BreachForums; the hacker claims the dataset includes info on people from Great Britain &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231019/p40#a231019p40)
- - [Best TV Deals: Massive Savings on TVs From Samsung, LG, TCL and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [23andMe is investigating a possible new data leak of 4M users&#39; records on BreachForums; the hacker claims the dataset includes info on people from Great Britain &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/231019/p40#a231019p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

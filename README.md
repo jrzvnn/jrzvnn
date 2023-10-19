@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag gold](http://9gag.com/gag/adPMmdN)
- - 😝 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
- - 💣 [Real slave](http://9gag.com/gag/aqeO37P)
- - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
+ - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
  - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Is Becoming More Powerful—but Also More Secretive](https://www.wired.com/story/fast-forward-ai-powerful-secretive/)
+ - [Rumors of all iPhone 16 models having an A18 processor make no sense](https://appleinsider.com/articles/23/10/19/rumors-of-all-iphone-16-models-having-an-a18-processor-make-no-sense?utm_medium=rss)
+ - [14 Best Deals: TVs, Keyboards, Mice, Chargers, and Earbuds](https://www.wired.com/story/midweek-deals-october-19-2023/)
  - [The FCC votes 3-2 to begin to re-establish net neutrality rules, starting by inviting public comments; the effort still faces a long legal and political battle &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231019/p31#a231019p31)
- - [23andMe says it’s looking into another possible data leak](https://www.theverge.com/2023/10/19/23923861/23andme-possible-data-leak-hack)
- - [FCC kicks off fight to restore net neutrality](https://www.theverge.com/2023/10/19/23922810/fcc-net-neutrality-proposed-rulemaking-vote)
- - [The OnePlus Open is here: Should Samsung and Google watch out?](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [A US judge sentences a social media influencer to seven months in prison for conspiring to suppress votes for Hillary Clinton in 2016, including via Twitter ads &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231019/p30#a231019p30)<!-- TECH:END -->
+ - [23andMe says it’s looking into another possible data leak](https://www.theverge.com/2023/10/19/23923861/23andme-possible-data-leak-hack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

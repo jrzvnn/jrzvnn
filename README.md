@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To get away with a crime.](http://9gag.com/gag/aOxOMQE)
- - 😝 [Excuse me, you left ya door open](http://9gag.com/gag/arm0687)
- - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
- - 👉 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)<!-- MEMES:END -->
+ - 😝 [I hope someone saves this man](http://9gag.com/gag/a5XA0qO)
+ - 😝 [Man arrested after he was caught on camera abandoning his German Shepherd.](http://9gag.com/gag/a1Pn9Qw)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 👉 [Still no clue](http://9gag.com/gag/a7qBYZq)<!-- MEMES:END -->
 
 ---
 

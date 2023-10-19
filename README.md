@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 fails to save TSMC from lowest profits in five years](https://appleinsider.com/articles/23/10/19/iphone-15-fails-to-save-tsmc-from-lowest-profits-in-five-years?utm_medium=rss)
  - [Google Chrome’s address bar is gaining a set of new skills](https://www.androidauthority.com/google-chrome-address-bar-updates-3377720/)
  - [A May 2023 survey of 5,101 US adults: 78% of Democrats and 68% of Republicans support more government regulation over what companies can do with people&#39;s data &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231019/p19#a231019p19)
  - [These space-saving public EV chargers are ridiculously fast and rolling out now](https://www.theverge.com/2023/10/19/23922649/gravity-dc-fast-charger-new-york-500kw)
- - [New York AG Letitia James sues the Winklevoss&#39; Gemini, Genesis, and its parent Digital Currency Group, alleging the companies defrauded 230K investors of $1B+ &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231019/p18#a231019p18)
- - [Sources: Apple fired at least five employees who worked in the company&#39;s App Store in China following an internal investigation into business misconduct &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231019/p17#a231019p17)<!-- TECH:END -->
+ - [New York AG Letitia James sues the Winklevoss&#39; Gemini, Genesis, and its parent Digital Currency Group, alleging the companies defrauded 230K investors of $1B+ &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231019/p18#a231019p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

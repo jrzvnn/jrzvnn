@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord overhauls its moderation tools with a new warning system and a teen safety assist feature, plans to roll out an in-app shop for Discord members, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231019/p29#a231019p29)
  - [Poll: Is the OnePlus Open hot or not?](https://www.androidauthority.com/oneplus-open-hot-or-not-3377457/)
  - [Samsung Galaxy Z Flip 5 could soon get a ‘Retro Edition’](https://www.androidauthority.com/galaxy-z-flip-5-retro-edition-3377836/)
  - [Review of $1,700 OnePlus Open: thin and light for a foldable and good multitasking support but no water resistance or wireless charging, and very costly &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231019/p28#a231019p28)
- - [The OnePlus Open is my favorite foldable yet](https://www.androidauthority.com/oneplus-open-best-foldable-3377666/)
- - [Does the OnePlus Open really have the best camera on a foldable phone?](https://www.androidauthority.com/oneplus-open-camera-foldable-phone-3377272/)<!-- TECH:END -->
+ - [The OnePlus Open is my favorite foldable yet](https://www.androidauthority.com/oneplus-open-best-foldable-3377666/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

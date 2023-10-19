@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC permits consumer products to utilize more of the 6GHz band, benefiting Apple](https://appleinsider.com/articles/23/10/19/fcc-permits-consumer-products-to-utilize-more-of-the-6ghz-band-benefiting-apple?utm_medium=rss)
  - [Amazon, Microsoft, and India crack down on tech support scams](https://www.theverge.com/2023/10/19/23924294/amazon-microsoft-india-cbi-crackdown-technology-support-fraud)
  - [Amazon eliminated plastic packaging at one of its warehouses](https://www.theverge.com/2023/10/19/23923863/amazon-plastic-free-mail-packages-euclid-ohio-warehouse)
- - [Best Monitor Deals: Save Up to $500 on Work and Gaming Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
- - [Home Equity Line of Credit &lpar;HELOC&rpar; Rates for October 2023     - CNET](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)
- - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
+ - [OnePlus Open vs Galaxy Z Fold 5: Which should you buy?](https://www.androidauthority.com/oneplus-open-vs-samsung-galaxy-z-fold-5-3377335/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

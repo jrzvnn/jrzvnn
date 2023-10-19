@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Influencer in real life](http://9gag.com/gag/amAyDy6)
- - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 💣 [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 😝 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->
+ - 👉 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)<!-- MEMES:END -->
 
 ---
 

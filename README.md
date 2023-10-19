@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wear OS gains a Google Assistant tile: Here’s what it can do](https://www.androidauthority.com/google-assistant-tile-wear-os-3377683/)
  - [Lam Research reports Q1 revenue down 31% YoY to $3.48B, vs. $3.42B est., the third straight quarter of decline, as the chipmaking tools market remains &quot;soft&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/231019/p13#a231019p13)
  - [Yeah, sure: T-Mobile says those forced plan ‘upgrades’ were just a test](https://www.androidauthority.com/t-mobile-forced-plan-changes-test-3377671/)
  - [Meta introduces temporary limits on &quot;potentially unwelcome or unwanted comments&quot; on Facebook posts about the Israel-Hamas war for users &quot;in the region&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231019/p12#a231019p12)
- - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)
- - [WhatsApp plans to let users switch between accounts on Android in the coming weeks; a second account will still need a separate phone number and SIM card &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231019/p11#a231019p11)<!-- TECH:END -->
+ - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

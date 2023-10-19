@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sydney-based Employment Hero, which provides a recruitment and HR platform, raised a A$263M Series F at a A$2.13B valuation, taking its total funding to A$650M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231018/p43#a231018p43)
+ - [Get lifetime access to MS Office Home &amp; Business 2021 for Mac at 86% off](https://appleinsider.com/articles/23/10/19/get-lifetime-access-to-ms-office-home-business-2021-for-mac-at-88-off?utm_medium=rss)
  - [Honda plans to set up a joint venture with GM and Cruise in H1 2024 to begin a driverless ride service in Japan in early 2026, starting with central Tokyo &lpar;Reuters&rpar;](http://www.techmeme.com/231018/p42#a231018p42)
  - [Best Google Pixel Deals: Grab the Pixel 7 Pro and More at a Discount     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [The US House&#39;s China committee asks about Sequoia&#39;s investments since 2010 in AI, quantum, and chip companies based, or with &quot;significant operations&quot;, in China &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p41#a231018p41)
- - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)
- - [Sources: YouTube is building an AI tool that lets creators record audio using famous musicians&#39; voices and seeking major record labels&#39; rights to train the tool &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231018/p40#a231018p40)<!-- TECH:END -->
+ - [The US House&#39;s China committee asks about Sequoia&#39;s investments since 2010 in AI, quantum, and chip companies based, or with &quot;significant operations&quot;, in China &lpar;Financial Times&rpar;](http://www.techmeme.com/231018/p41#a231018p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

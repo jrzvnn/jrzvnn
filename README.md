@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An international group of law enforcement agencies, including the US, the EU, and Japan, seizes the dark web portal used by the RagnarLocker ransomware group &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231019/p27#a231019p27)
  - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
  - [The EU is looking into Meta and TikTok’s handling of the Israel-Hamas war](https://www.theverge.com/2023/10/19/23923768/eu-digital-services-act-meta-tiktok-violations-israel-hamas-war)
  - [A researcher details a malicious and convincing Google ad linking to a fake site for password manager Keepass; Google shows a verified advertiser paid for them &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231019/p26#a231019p26)
- - [AMD’s Threadripper CPUs return with a 96-core monster chip](https://www.theverge.com/2023/10/19/23923758/amd-threadripper-zen-4-release-date-price)
- - [Swiss luxury firm adds 7,586 diamonds to Apple devices for some reason](https://appleinsider.com/articles/23/10/19/swiss-luxury-firm-adds-7586-diamonds-to-apple-devices-for-some-reason?utm_medium=rss)<!-- TECH:END -->
+ - [AMD’s Threadripper CPUs return with a 96-core monster chip](https://www.theverge.com/2023/10/19/23923758/amd-threadripper-zen-4-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

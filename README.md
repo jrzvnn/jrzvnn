@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may incorporate advertising into its original podcasts](https://appleinsider.com/articles/23/10/19/apple-may-incorporate-advertising-into-its-original-podcasts?utm_medium=rss)
  - [Toyota and Lexus join the Tesla charging connector bandwagon](https://www.theverge.com/2023/10/19/23924413/toyota-lexus-tesla-nacs-supercharger-electric-vehicle-charging-2025)
+ - [Best PlayStation Deals: Big Savings on the Latest Releases and Accessories     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
  - [Product Hunt&#39;s CEO says layoffs announced on October 10 were for &quot;strategic&quot; not &quot;financial or company performance reasons&quot;, and impacted ~60% of the team &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231019/p38#a231019p38)
- - [India&#39;s Central Bureau of Investigation works with Microsoft and Amazon to raid 76 locations in a nationwide crackdown on tech support scams and crypto fraud &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231019/p37#a231019p37)
- - [The latest AI copyright lawsuit involves Mike Huckabee and his books](https://www.theverge.com/2023/10/19/23924246/mike-huckabee-books-lawsuit-generative-ai-microsoft-meta-bloomberg-eleutherai-books3)
- - [FCC permits consumer products to utilize more of the 6GHz band, benefiting Apple](https://appleinsider.com/articles/23/10/19/fcc-permits-consumer-products-to-utilize-more-of-the-6ghz-band-benefiting-apple?utm_medium=rss)<!-- TECH:END -->
+ - [BMO Alto: 2023 Banking Review     - CNET](https://www.cnet.com/personal-finance/banking/bmo-alto-year-banking-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

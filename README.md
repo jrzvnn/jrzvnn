@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Pandu Nayak, Google&#39;s VP of Search and first witness, testifies that smart employees explain its success and lead to innovations, such as on LLMs &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231019/p20#a231019p20)
  - [iPhone 15 fails to save TSMC from lowest profits in five years](https://appleinsider.com/articles/23/10/19/iphone-15-fails-to-save-tsmc-from-lowest-profits-in-five-years?utm_medium=rss)
  - [Google Chrome’s address bar is gaining a set of new skills](https://www.androidauthority.com/google-chrome-address-bar-updates-3377720/)
  - [A May 2023 survey of 5,101 US adults: 78% of Democrats and 68% of Republicans support more government regulation over what companies can do with people&#39;s data &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231019/p19#a231019p19)
- - [These space-saving public EV chargers are ridiculously fast and rolling out now](https://www.theverge.com/2023/10/19/23922649/gravity-dc-fast-charger-new-york-500kw)
- - [New York AG Letitia James sues the Winklevoss&#39; Gemini, Genesis, and its parent Digital Currency Group, alleging the companies defrauded 230K investors of $1B+ &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/231019/p18#a231019p18)<!-- TECH:END -->
+ - [These space-saving public EV chargers are ridiculously fast and rolling out now](https://www.theverge.com/2023/10/19/23922649/gravity-dc-fast-charger-new-york-500kw)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

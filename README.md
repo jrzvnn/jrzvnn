@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
  - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
  - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 💣 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
 
 ---
 

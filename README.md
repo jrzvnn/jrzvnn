@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis says recent media reports about the supposed use of crypto by terrorist organizations might be overstating metrics and using &quot;flawed analyses&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231019/p9#a231019p9)
  - [DALL-E 2 vs DALL-E 3: How do they compare?](https://www.androidauthority.com/dall-e-2-vs-dall-e-3-3377650/)
  - [OPPO Find X7 Pro rumors: Expected release date and what we want to see](https://www.androidauthority.com/oppo-find-x7-pro-3355763/)
  - [TSMC reports Q3 revenue down 14.6% YoY to ~$17.28B, net income down 24.9% YoY to ~$6.5B, and expects to spend $32B on growing and upgrading capacity in 2023 &lpar;Jane Lee/Bloomberg&rpar;](http://www.techmeme.com/231019/p8#a231019p8)
- - [WhatsApp finally lets you add two accounts to the same device](https://www.androidauthority.com/whatsapp-multi-account-support-2-3377651/)
- - [How Only in Dade, started as an Instagram meme page a decade ago, inadvertently became a Miami local news source, including by using its 1.3M followers&#39; videos &lpar;Elahe Izadi/Washington Post&rpar;](http://www.techmeme.com/231019/p7#a231019p7)<!-- TECH:END -->
+ - [WhatsApp finally lets you add two accounts to the same device](https://www.androidauthority.com/whatsapp-multi-account-support-2-3377651/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

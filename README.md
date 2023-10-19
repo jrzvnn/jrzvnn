@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
- - 😝 [Nice farewell card](http://9gag.com/gag/axo85pM)
+ - 😝 [Bye bye Chrome/YouTube move to FreeTube!](http://9gag.com/gag/a4o8XPw)
+ - 😝 [Meme class](http://9gag.com/gag/aQEK0xw)
  - 💣 [Old but memorable](http://9gag.com/gag/aGEqWAG)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
  - 👉 [Pure wife material](http://9gag.com/gag/aWGAKZA)<!-- MEMES:END -->

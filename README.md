@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC votes 3-2 to begin to re-establish net neutrality rules, starting by inviting public comments; the effort still faces a long legal and political battle &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231019/p31#a231019p31)
+ - [23andMe says it’s looking into another possible data leak](https://www.theverge.com/2023/10/19/23923861/23andme-possible-data-leak-hack)
  - [FCC kicks off fight to restore net neutrality](https://www.theverge.com/2023/10/19/23922810/fcc-net-neutrality-proposed-rulemaking-vote)
  - [The OnePlus Open is here: Should Samsung and Google watch out?](https://www.androidauthority.com/oneplus-fold-release-date-rumors-specs-price-3342031/)
- - [A US judge sentences a social media influencer to seven months in prison for conspiring to suppress votes for Hillary Clinton in 2016, including via Twitter ads &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231019/p30#a231019p30)
- - [GM and Honda to launch Cruise robotaxis in Japan by 2026](https://www.theverge.com/2023/10/19/23923882/gm-honda-launch-cruise-robotaxis-japan-2026)
- - [Daily deals Oct. 19: $1,100 off 16&quot; MacBook Pro, $150 off LG UltraFine 5K monitor, Roborock S7 robot vacuum $349, more](https://appleinsider.com/articles/23/10/19/daily-deals-oct-19-1100-off-16-macbook-pro-150-off-lg-ultrafine-5k-monitor-roborock-s7-robot-vacuum-349-more?utm_medium=rss)<!-- TECH:END -->
+ - [A US judge sentences a social media influencer to seven months in prison for conspiring to suppress votes for Hillary Clinton in 2016, including via Twitter ads &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231019/p30#a231019p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

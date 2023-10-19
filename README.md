@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 💣 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 😝 [Trying to catch the chicken thief](http://9gag.com/gag/ay2Agz8)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Can you resist?](http://9gag.com/gag/a4ogpKv)<!-- MEMES:END -->
+ - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
 
 ---
 

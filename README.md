@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Influencer in real life](http://9gag.com/gag/amAyDy6)
- - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 💣 [Hellohohoo](http://9gag.com/gag/aPg0Exn)
+ - 😝 [*sigh unzips](http://9gag.com/gag/aDY9R2K)
+ - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 💣 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)<!-- MEMES:END -->
+ - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
 
 ---
 

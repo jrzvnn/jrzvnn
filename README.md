@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS gains a Google Assistant tile: Here’s what it can do](https://www.androidauthority.com/google-assistant-tile-wear-os-3377683/)
- - [Lam Research reports Q1 revenue down 31% YoY to $3.48B, vs. $3.42B est., the third straight quarter of decline, as the chipmaking tools market remains &quot;soft&quot; &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/231019/p13#a231019p13)
- - [Yeah, sure: T-Mobile says those forced plan ‘upgrades’ were just a test](https://www.androidauthority.com/t-mobile-forced-plan-changes-test-3377671/)
- - [Meta introduces temporary limits on &quot;potentially unwelcome or unwanted comments&quot; on Facebook posts about the Israel-Hamas war for users &quot;in the region&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/231019/p12#a231019p12)
- - [How to access Apple News+ crossword puzzles in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-access-apple-news-crossword-puzzles-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the EU adjusts DSA charges to cap them at 0.05% of 2022 profit; X and Amazon may pay &amp;euro;0 while Alphabet and Meta together pay ~&amp;euro;31M, or 75% of the total &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231019/p15#a231019p15)
+ - [Filing: China took a &quot;golden share&quot; in Tencent&#39;s local subsidiary Shenzhen Yayue, buying a 1% stake for ~$82K, the latest move to expand tech sector control &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231019/p14#a231019p14)
+ - [Inside a TikTok Talent Factory for Misfit Stars](https://www.wired.com/story/tiktok-talent-factory-ursus-magana-creator-economy/)
+ - [The US has new clean energy and efficiency programs for low-income housing](https://www.theverge.com/2023/10/19/23922915/biden-administration-clean-energy-efficiency-programs-low-income-housing)
+ - [Wear OS gains a Google Assistant tile: Here’s what it can do](https://www.androidauthority.com/google-assistant-tile-wear-os-3377683/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

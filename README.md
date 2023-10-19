@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag gold](http://9gag.com/gag/adPMmdN)
- - 😝 [Saving for 7 years finally own my own home.](http://9gag.com/gag/aBdM70Q)
- - 💣 [Real slave](http://9gag.com/gag/aqeO37P)
- - 😝 [They were just silent afterwards and I barely resisted laughing my head off](http://9gag.com/gag/aWGArG2)
- - 👉 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 😝 [A body cam footage from the policeman who shot the terrorist who kidnapped Rachel &lpar;the cookie grandma&rpar;, a moment before the bullet got him.](http://9gag.com/gag/axo8X8W)
+ - 😝 [Still no clue](http://9gag.com/gag/a7qBYZq)
+ - 💣 [Pure wife material](http://9gag.com/gag/aWGAKZA)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 👉 [Did Anon get Hamas to coat a rocket in wd40 and aluminum foil, blowing up 500 Gazan civilians and an untold number of Hamas with premature rocket detonation from a nearby launch site ? If yes, this is the biggest troll of 2023.](http://9gag.com/gag/a3ZD6p1)<!-- MEMES:END -->
 
 ---
 

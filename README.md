@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An international group of law enforcement agencies, including the US, the EU, and Japan, seizes the dark web portal used by the RagnarLocker ransomware group &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231019/p27#a231019p27)
- - [Peter Thiel was reportedly an FBI informant](https://www.theverge.com/2023/10/19/23923759/peter-thiel-fbi-informant-foreign-influence-report)
- - [The EU is looking into Meta and TikTok’s handling of the Israel-Hamas war](https://www.theverge.com/2023/10/19/23923768/eu-digital-services-act-meta-tiktok-violations-israel-hamas-war)
- - [A researcher details a malicious and convincing Google ad linking to a fake site for password manager Keepass; Google shows a verified advertiser paid for them &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231019/p26#a231019p26)
- - [AMD’s Threadripper CPUs return with a 96-core monster chip](https://www.theverge.com/2023/10/19/23923758/amd-threadripper-zen-4-release-date-price)<!-- TECH:END -->
+ - [Poll: Is the OnePlus Open hot or not?](https://www.androidauthority.com/oneplus-open-hot-or-not-3377457/)
+ - [Samsung Galaxy Z Flip 5 could soon get a ‘Retro Edition’](https://www.androidauthority.com/galaxy-z-flip-5-retro-edition-3377836/)
+ - [Review of $1,700 OnePlus Open: thin and light for a foldable and good multitasking support but no water resistance or wireless charging, and very costly &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/231019/p28#a231019p28)
+ - [The OnePlus Open is my favorite foldable yet](https://www.androidauthority.com/oneplus-open-best-foldable-3377666/)
+ - [Does the OnePlus Open really have the best camera on a foldable phone?](https://www.androidauthority.com/oneplus-open-camera-foldable-phone-3377272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

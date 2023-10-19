@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Pandu Nayak, Google&#39;s VP of Search and first witness, testifies that smart employees explain its success and lead to innovations, such as on LLMs &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231019/p20#a231019p20)
- - [iPhone 15 fails to save TSMC from lowest profits in five years](https://appleinsider.com/articles/23/10/19/iphone-15-fails-to-save-tsmc-from-lowest-profits-in-five-years?utm_medium=rss)
- - [Google Chrome’s address bar is gaining a set of new skills](https://www.androidauthority.com/google-chrome-address-bar-updates-3377720/)
- - [A May 2023 survey of 5,101 US adults: 78% of Democrats and 68% of Republicans support more government regulation over what companies can do with people&#39;s data &lpar;Pew Research Center&rpar;](http://www.techmeme.com/231019/p19#a231019p19)
- - [These space-saving public EV chargers are ridiculously fast and rolling out now](https://www.theverge.com/2023/10/19/23922649/gravity-dc-fast-charger-new-york-500kw)<!-- TECH:END -->
+ - [Meta&#39;s Yann LeCun says regulating R&amp;D for AI &quot;is incredibly counterproductive&quot; and only serves to reinforce the dominance of Big Tech and stifle competition &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/231019/p21#a231019p21)
+ - [Misinformation Is Soaring Online. Don’t Fall for It](https://www.wired.com/story/gadget-lab-podcast-617/)
+ - [18 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2023&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)
+ - [ChargePoint is bringing Tesla’s NACS plug to its vast network of EV chargers](https://www.theverge.com/2023/10/19/23923679/chargepoint-ev-chargers-tesla-nacs-plug)
+ - [US v. Google: Pandu Nayak, Google&#39;s VP of Search and first witness, testifies that smart employees explain its success and lead to innovations, such as on LLMs &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231019/p20#a231019p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

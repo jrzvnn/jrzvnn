@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Universal Music sues AI company Anthropic for distributing song lyrics](https://www.theverge.com/2023/10/19/23924100/universal-music-sue-anthropic-lyrics-copyright-katy-perry)
+ - [‘The Whole Health System Is Collapsing Around Us.’ Doctors Say Gaza Is on the Brink](https://www.wired.com/story/gaza-health-system-collapse-israel-hamas/)
+ - [OpenAI rolls out DALL-E 3 access to ChatGPT Plus and Enterprise customers and says it has prepared a safety mitigation stack for the model &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231019/p35#a231019p35)
  - [Trucking marketplace Convoy abruptly starts winding down operations; sources say the company had ~$320M in revenue as of October, down from $630M in 2022 &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231019/p34#a231019p34)
- - [This handheld PC might be perfect for DS and 3DS emulation](https://www.androidauthority.com/handheld-pc-gaming-3377864/)
- - [FCC greenlights superfast Wi-Fi tethering for AR and VR headsets](https://www.theverge.com/2023/10/19/23923015/fcc-6ghz-approval-very-low-power-devices-apple-google-meta)
- - [OpenAI is opening up DALL-E 3 access](https://www.theverge.com/2023/10/19/23923895/openai-dall-e-3-chatgpt-plus-enterprise)
- - [Be an early Motorola Razr 2023 adopter with this $100 launch discount](https://www.androidauthority.com/motorola-razr-2023-deal-3377901/)<!-- TECH:END -->
+ - [This handheld PC might be perfect for DS and 3DS emulation](https://www.androidauthority.com/handheld-pc-gaming-3377864/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

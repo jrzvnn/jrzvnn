@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Super Mario Bros. Wonder, Mario’s personality finally comes through](https://www.theverge.com/2023/10/20/23922848/super-mario-bros-wonder-power-ups-mario-personality)
  - [AppleInsider podcast 500th episode special with new Apple Pencil and an old favorite](https://appleinsider.com/articles/23/10/20/appleinsider-podcast-500th-episode-special-with-new-apple-pencil-and-an-old-favorite?utm_medium=rss)
  - [What Techno-Billionaire Marc Andreessen Missed In His Techno-Optimism Manifesto](https://www.wired.com/story/plaintext-marc-andreessen-techno-billionaire-wrong-techno-optimism/)
  - [TikTok-Hyped Halloween Decor Is Out of Control](https://www.wired.com/story/halloween-decorations-tiktok-lewis/)
- - [Pokémon Sleep helped me catch ’em all — all the z’s, that is](https://www.theverge.com/23893260/pokemon-sleep-insomnia-app-nintendo-aid)
- - [Grab a Pair of Baseus Bowie MA10 Wireless Earbuds for Just $21 Right Now &lpar;Save $29&rpar;     - CNET](https://www.cnet.com/deals/grab-a-pair-of-baseus-bowie-ma10-wireless-earbuds-for-just-21-right-now-save-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pokémon Sleep helped me catch ’em all — all the z’s, that is](https://www.theverge.com/23893260/pokemon-sleep-insomnia-app-nintendo-aid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

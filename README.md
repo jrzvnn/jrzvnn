@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Came to 9gag to cheer up](http://9gag.com/gag/a9qe9Xj)
- - 😝 [What is happening](http://9gag.com/gag/ago93mw)
- - 💣 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
+ - 😝 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
+ - 😝 [Youtube&#39;s adblock detection apparently is against EU laws](http://9gag.com/gag/avQq2Aq)
+ - 💣 [Environmental activists tried to stop a bus](http://9gag.com/gag/aVbrj88)
+ - 😝 [Grandma gonna knock you out!](http://9gag.com/gag/aKEZ4pQ)
+ - 👉 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)<!-- MEMES:END -->
 
 ---
 

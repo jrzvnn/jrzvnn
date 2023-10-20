@@ -17,16 +17,16 @@ jobs:
           disable_sort: False
           max_post_count: 5
           template: $newline - [$title]($url)
-          feed_list: "https://www.techmeme.com/feed.xml?x=1,https://www.wired.com/feed/rss,http://feeds.feedburner.com/androidauthority,https://www.cnet.com/rss/news/,https://appleinsider.com/rss/news/,http://feeds.feedburner.com/Techcrunch,http://www.theverge.com/rss/full.xml"
+          feed_list: "https://www.techmeme.com/feed.xml?x=1,https://www.wired.com/feed/rss,https://www.cnet.com/rss/news/,https://appleinsider.com/rss/news/,http://feeds.feedburner.com/Techcrunch,http://www.theverge.com/rss/full.xml"
           committer_email: jrzvnn@gmail.com
 
-      # - uses: gautamkrishnar/blog-post-workflow@master
-      #   with:
-      #     comment_tag_name: MEMES
-      #     commit_message: "New batch of memes"
-      #     committer_username: jrzvnn
-      #     disable_sort: False
-      #     max_post_count: 5
-      #     template: $newline - $randomEmoji(😝,👱,🚖,🚅,⏩,💣,👉,6️⃣,🚯) [$title]($url)
-      #     feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/funny/.rss,https://www.reddit.com/r/memes/.rss"
-      #     committer_email: jrzvnn@gmail.com
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEMES
+          commit_message: "New batch of memes"
+          committer_username: jrzvnn
+          disable_sort: False
+          max_post_count: 5
+          template: $newline - $randomEmoji(😝,👱,🚖,🚅,⏩,💣,👉,6️⃣,🚯) [$title]($url)
+          feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/funny/.rss,https://www.reddit.com/r/memes/.rss"
+          committer_email: jrzvnn@gmail.com

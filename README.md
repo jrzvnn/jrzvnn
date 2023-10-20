@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
- - 😝 [Environmental activists tried to stop a bus](http://9gag.com/gag/aVbrj88)
- - 💣 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Can you resist?](http://9gag.com/gag/a4ogpKv)
+ - 💣 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)<!-- MEMES:END -->
+ - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
 
 ---
 

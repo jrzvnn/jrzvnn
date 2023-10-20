@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Die trash](http://9gag.com/gag/a6qgw28)
  - 😝 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)
+ - 😝 [Be offended](http://9gag.com/gag/aeQz3KQ)
  - 💣 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
  - 😝 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
  - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->

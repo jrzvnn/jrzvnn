@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Cybertruck’s VINs reveal clues about the long-delayed truck](https://www.theverge.com/2023/10/20/23925647/tesla-cybertruck-vin-number-decoder-powertrain-dual-triple-motor-gvwr)
+ - [Cybersecurity company Okta closes down 11.5% after saying a hacker had accessed its support system using a stolen credential and viewed some client files &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231020/p19#a231020p19)
  - [Q&amp;A with Chris Cox on Meta&#39;s plans to incorporate AI into its products, making AI chatbots with personality, like Snoop Dogg playing a dungeon master, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p18#a231020p18)
  - [12 Best Foods for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-for-eye-health/#ftag=CAD590a51e)
- - [Apple rolls out iOS 17.1 Release Candidate 2 for iPhone 15](https://appleinsider.com/articles/23/10/20/apple-rolls-out-ios-171-release-candidate-2-for-iphone-15?utm_medium=rss)
- - [Samsung Galaxy Tab S9 Deals: Save $120 on Storage Upgrades and Up to $350 With Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
- - [Google, Meta, Intel, Siemens and others pull out from this year&#39;s Web Summit, after its CEO Paddy Cosgrave accused Israel of war crimes &lpar;The Irish Times&rpar;](http://www.techmeme.com/231020/p17#a231020p17)<!-- TECH:END -->
+ - [Apple rolls out iOS 17.1 Release Candidate 2 for iPhone 15](https://appleinsider.com/articles/23/10/20/apple-rolls-out-ios-171-release-candidate-2-for-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

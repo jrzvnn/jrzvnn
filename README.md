@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)
- - 😝 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
- - 💣 [26,663 Days above ground](http://9gag.com/gag/a8qNLNd)
+ - 😝 [Thanks bro](http://9gag.com/gag/amAQqyj)
+ - 😝 [Environmental activists tried to stop a bus](http://9gag.com/gag/aVbrj88)
+ - 💣 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->
+ - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next 12.9-inch iPad Pro will be downgrade, says extremely unlikely report](https://appleinsider.com/articles/23/10/20/next-129-inch-ipad-pro-will-be-downgrade-says-extremely-unlikely-report?utm_medium=rss)
- - [Tim Cook&#39;s China trip, unannounced ahead of time, shows Apple&#39;s complex relationship; Cook told an official Apple was committed to growing with local partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p6#a231020p6)
- - [Filing: EU antitrust regulators resume their investigation into Adobe&#39;s $20B Figma acquisition, setting a February 5, 2024 deadline for their decision &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231020/p5#a231020p5)
- - [Save While Shopping at Your Favorite Hardware Stores     - CNET](https://www.cnet.com/deals/save-while-shopping-at-your-favorite-hardware-stores/#ftag=CAD590a51e)
- - [Writers and publishers need to band together to lobby against OpenAI, Google, Microsoft, and Meta, fighting for proper compensation and a share of AI&#39;s value &lpar;William D. Cohan/Washington Post&rpar;](http://www.techmeme.com/231020/p4#a231020p4)<!-- TECH:END -->
+ - [Best Bird Watching Gear &lpar;2023&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
+ - [Things Are Looking Up for Asteroid Mining](https://www.wired.com/story/things-are-looking-up-for-asteroid-mining/)
+ - [This Vaccine Protects Against Cancer—but Not Enough Boys Are Getting It](https://www.wired.com/story/hpv-vaccine-men-cervical-cancer/)
+ - [Universal Audio Sphere DLX and LX Review: Professional Quality](https://www.wired.com/review/universal-audio-sphere-mics/)
+ - [Putting a Real Face on Deepfake Porn](https://www.wired.com/story/deepfake-porn-documentary-another-body/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

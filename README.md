@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
  - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
- - [SCOTUS pauses a ruling that banned Biden administration officials from engaging in many kinds of contact with social media platforms as it hears a DOJ appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)
+ - [SCOTUS pauses a ruling banning Biden administration officials from contacting social media platforms about misinformation and agrees to hear the DOJ&#39;s appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)
  - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
  - [Sun &amp; Moon Comforter Set     - CNET](https://www.cnet.com/news/sun-moon-comforter-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 

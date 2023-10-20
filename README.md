@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
- - 💣 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 😝 [She found out](http://9gag.com/gag/avQV3Rq)
- - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
+ - 😝 [Can you resist?](http://9gag.com/gag/a4ogpKv)
+ - 😝 [What is happening](http://9gag.com/gag/ago93mw)
+ - 💣 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 👉 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)<!-- MEMES:END -->
 
 ---
 

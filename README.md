@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia Research announces Eureka, a new AI agent powered by OpenAI&#39;s GPT-4 to autonomously write reward algorithms and teach robots complex skills &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231020/p10#a231020p10)
+ - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2023](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2023?utm_medium=rss)
+ - [Hands on with HomePod &amp; HomePod mini&#39;s new features in software update 17](https://appleinsider.com/articles/23/10/20/hands-on-with-homepod-homepod-minis-new-features-in-software-update-17?utm_medium=rss)
  - [15 Best Smart Home Lighting &lpar;2023&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
- - [The Ray-Ban Meta smart glasses actually make the future look cool](https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review)
- - [Meta announces Habitat 3.0, a simulator that supports robots and humanoid avatars, and HomeRobot, a home robot hardware and software platform &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/231020/p9#a231020p9)
- - [In Super Mario Bros. Wonder, Mario’s personality finally comes through](https://www.theverge.com/2023/10/20/23922848/super-mario-bros-wonder-power-ups-mario-personality)
- - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2023](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [The Ray-Ban Meta smart glasses actually make the future look cool](https://www.theverge.com/23922425/ray-ban-meta-smart-glasses-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

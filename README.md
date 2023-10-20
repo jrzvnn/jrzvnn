@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [The Cybertruck’s VINs reveal clues about the long-delayed truck](https://www.theverge.com/2023/10/20/23925647/tesla-cybertruck-vin-number-decoder-powertrain-dual-triple-motor-gvwr)
  - [Cybersecurity company Okta closes down 11.5% after saying a hacker had accessed its support system using a stolen credential and viewed some client files &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231020/p19#a231020p19)
- - [Q&amp;A with Chris Cox on Meta&#39;s plans to incorporate AI into its products, making AI chatbots with personality, like Snoop Dogg playing a dungeon master, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p18#a231020p18)
+ - [Q&amp;A with Chris Cox on Meta&#39;s plans to incorporate generative AI into its apps, making AI chatbots with personality, like a Snoop Dogg dungeon master, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p18#a231020p18)
  - [12 Best Foods for Healthy Eyes     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-for-eye-health/#ftag=CAD590a51e)
  - [Apple rolls out iOS 17.1 Release Candidate 2 for iPhone 15](https://appleinsider.com/articles/23/10/20/apple-rolls-out-ios-171-release-candidate-2-for-iphone-15?utm_medium=rss)<!-- TECH:END -->
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US&#39; tighter chip rules may leave Alibaba and Baidu relying on outdated and stockpiled chips, like the Nvidia V100 from 2017, to pursue their AI ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p7#a231020p7)
  - [Best Bird Watching Gear &lpar;2023&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
  - [Things Are Looking Up for Asteroid Mining](https://www.wired.com/story/things-are-looking-up-for-asteroid-mining/)
  - [This Vaccine Protects Against Cancer—but Not Enough Boys Are Getting It](https://www.wired.com/story/hpv-vaccine-men-cervical-cancer/)
- - [Universal Audio Sphere DLX and LX Review: Professional Quality](https://www.wired.com/review/universal-audio-sphere-mics/)
- - [Putting a Real Face on Deepfake Porn](https://www.wired.com/story/deepfake-porn-documentary-another-body/)<!-- TECH:END -->
+ - [Universal Audio Sphere DLX and LX Review: Professional Quality](https://www.wired.com/review/universal-audio-sphere-mics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

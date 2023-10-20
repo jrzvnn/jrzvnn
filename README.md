@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
- - 😝 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 😝 [I hate this.](http://9gag.com/gag/a6qgwA2)
  - 💣 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Wait...](http://9gag.com/gag/aKEZP21)<!-- MEMES:END -->
+ - 👉 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)<!-- MEMES:END -->
 
 ---
 

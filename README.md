@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD unveils the Radeon RX 7900M, the first mobile GPU to use a chiplet design and a rival to Nvidia&#39;s RTX 4080, available with Dell&#39;s Alienware m18 &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/231019/p44#a231019p44)
  - [Source: X removed the main New York Times account&#39;s &quot;verified&quot; badge on October 17 without notice; source: X traffic to the NYT is down ~50% since August 2023 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231019/p43#a231019p43)
  - [The US Treasury&#39;s FinCEN proposes labeling international crypto mixing as a &quot;primary money laundering concern&quot;, citing its use by Hamas and other illicit actors &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/231019/p42#a231019p42)
  - [Best Wireless Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
- - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)
- - [Best VPN Deals: Top VPN Subscriptions From $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slack is retiring its status account on X](https://www.theverge.com/2023/10/19/23924662/slack-status-account-retiring-x-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

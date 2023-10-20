@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next 12.9-inch iPad Pro will be downgrade, says extremely unlikely report](https://appleinsider.com/articles/23/10/20/next-129-inch-ipad-pro-will-be-downgrade-says-extremely-unlikely-report?utm_medium=rss)
  - [Tim Cook&#39;s China trip, unannounced ahead of time, shows Apple&#39;s complex relationship; Cook told an official Apple was committed to growing with local partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231020/p6#a231020p6)
  - [Filing: EU antitrust regulators resume their investigation into Adobe&#39;s $20B Figma acquisition, setting a February 5, 2024 deadline for their decision &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231020/p5#a231020p5)
  - [Save While Shopping at Your Favorite Hardware Stores     - CNET](https://www.cnet.com/deals/save-while-shopping-at-your-favorite-hardware-stores/#ftag=CAD590a51e)
- - [Writers and publishers need to band together to lobby against OpenAI, Google, Microsoft, and Meta, fighting for proper compensation and a share of AI&#39;s value &lpar;William D. Cohan/Washington Post&rpar;](http://www.techmeme.com/231020/p4#a231020p4)
- - [Elon Musk says X plans to launch two new premium tiers: a lower cost tier with all features, but no reduction in ads, and a more expensive tier with no ads &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231020/p3#a231020p3)<!-- TECH:END -->
+ - [Writers and publishers need to band together to lobby against OpenAI, Google, Microsoft, and Meta, fighting for proper compensation and a share of AI&#39;s value &lpar;William D. Cohan/Washington Post&rpar;](http://www.techmeme.com/231020/p4#a231020p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure wife material](http://9gag.com/gag/aWGAKZA)
- - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 💣 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)<!-- MEMES:END -->
+ - 😝 [Free shipping with prime huh?](http://9gag.com/gag/az2y7vZ)
+ - 😝 [What is happening](http://9gag.com/gag/ago93mw)
+ - 💣 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
+ - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
+ - 👉 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)<!-- MEMES:END -->
 
 ---
 

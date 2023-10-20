@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you resist?](http://9gag.com/gag/a4ogpKv)
- - 😝 [What is happening](http://9gag.com/gag/ago93mw)
- - 💣 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
- - 👉 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)<!-- MEMES:END -->
+ - 😝 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
+ - 😝 [Grandma gonna knock you out!](http://9gag.com/gag/aKEZ4pQ)
+ - 💣 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)
+ - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
+ - 👉 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Bankman-Fried’s Lawyers Are Doing Just Fine, Actually](https://www.wired.com/story/sam-bankman-frieds-lawyers-are-doing-just-fine-actually/)
  - [How to use the Pixel 8’s Best Take to pick your favorite faces in group photos](https://www.theverge.com/23924382/how-to-best-take-google-photos-pixel-8-pro-face-swap)
  - [How to add iPhone widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)
  - [Blue checkmarks on X are ‘superspreaders of misinformation’ about Israel-Hamas war](https://www.theverge.com/2023/10/20/23925086/x-verified-blue-checkmarks-superspreader-misinformation-israel-hamas-war)
- - [Skylum adding trio of AI-powered photo editing features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)
- - [FaZe Clan is acquired by esports holding company GameSquare Holdings in a deal valuing Faze at ~$16M, down from a $725M market cap at its 2022 SPAC merger &lpar;Alexander Lee/Digiday&rpar;](http://www.techmeme.com/231020/p8#a231020p8)<!-- TECH:END -->
+ - [Skylum adding trio of AI-powered photo editing features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

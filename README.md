@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 😝 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
- - 💣 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 😝 [Came to 9gag to cheer up](http://9gag.com/gag/a9qe9Xj)
+ - 😝 [What is happening](http://9gag.com/gag/ago93mw)
+ - 💣 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
  - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
+ - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
 
 ---
 

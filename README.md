@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
- - 😝 [Grandma gonna knock you out!](http://9gag.com/gag/aKEZ4pQ)
- - 💣 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)
- - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
- - 👉 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)<!-- MEMES:END -->
+ - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 💣 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
+ - 😝 [What is happening](http://9gag.com/gag/ago93mw)
+ - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
 
 ---
 

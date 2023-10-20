@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Super Mario Bros. Wonder&#39; Is the Face of Nintendo&#39;s Transformation](https://www.wired.com/story/mario-wonder-gameplay-doug-bowser-interview/)
  - [Why LLMs, which don&#39;t induce an algorithm that computes multiplication, still don&#39;t truly understand multiplication no matter how much data they are trained on &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/231020/p20#a231020p20)
  - [Pixel 8 Pro teardown exposes its temperature sensor and a sticky battery setup](https://www.theverge.com/2023/10/20/23925722/ifixit-pixel-8-pro-teardown-temperature-reader)
  - [The Cybertruck’s VINs reveal clues about the long-delayed truck](https://www.theverge.com/2023/10/20/23925647/tesla-cybertruck-vin-number-decoder-powertrain-dual-triple-motor-gvwr)
- - [Cybersecurity company Okta closes down 11.5% after saying a hacker had accessed its support system using a stolen credential and viewed some client files &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231020/p19#a231020p19)
- - [Queen Cotton Sheet Set 4pcs     - CNET](https://www.cnet.com/news/queen-cotton-sheet-set-4pcs-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cybersecurity company Okta closes down 11.5% after saying a hacker had accessed its support system using a stolen credential and viewed some client files &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231020/p19#a231020p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

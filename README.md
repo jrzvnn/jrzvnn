@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)
  - [Swift creator brings new AI programming language to the Mac](https://appleinsider.com/articles/23/10/19/swift-creator-brings-new-ai-programming-language-to-the-mac?utm_medium=rss)
  - [A profile of Tether CTO Paolo Ardoino, who became the stablecoin operator&#39;s unofficial frontman on social media before being appointed as CEO from December 2023 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231020/p14#a231020p14)
  - [Dbrand’s Steam Deck case is fixed — and there’s a ROG Ally version now](https://www.theverge.com/2023/10/20/23924719/dbrand-killswitch-asus-rog-ally-steam-deck-update)
- - [Faze Clan acquired for $17 million, one year after its $725 million SPAC](https://www.theverge.com/2023/10/20/23925149/faze-clan-gamesquare-acquisition)
- - [Marvel’s Spider-Man 2 is already on sale with a $10 PlayStation Store gift card](https://www.theverge.com/2023/10/20/23923933/marvels-spider-man-2-apple-m2-macbook-air-oneplus-open-deal-sale)<!-- TECH:END -->
+ - [Faze Clan acquired for $17 million, one year after its $725 million SPAC](https://www.theverge.com/2023/10/20/23925149/faze-clan-gamesquare-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

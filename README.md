@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
  - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 💣 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 💣 [You are not ugly. You just don&#39;t have enough money...](http://9gag.com/gag/a9qwjYD)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
+ - 👉 [What is happening](http://9gag.com/gag/ago93mw)<!-- MEMES:END -->
 
 ---
 

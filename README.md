@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you resist?](http://9gag.com/gag/a4ogpKv)
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 💣 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 😝 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
+ - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 💣 [She found out](http://9gag.com/gag/avQV3Rq)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [She knows she is a boy](http://9gag.com/gag/aoKoz13)<!-- MEMES:END -->
+ - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
 
 ---
 

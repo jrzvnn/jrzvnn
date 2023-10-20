@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [In Super Mario Bros. Wonder, Mario’s personality finally comes through](https://www.theverge.com/2023/10/20/23922848/super-mario-bros-wonder-power-ups-mario-personality)
+ - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2023](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2023?utm_medium=rss)
  - [AppleInsider podcast 500th episode special with new Apple Pencil and an old favorite](https://appleinsider.com/articles/23/10/20/appleinsider-podcast-500th-episode-special-with-new-apple-pencil-and-an-old-favorite?utm_medium=rss)
  - [What Techno-Billionaire Marc Andreessen Missed In His Techno-Optimism Manifesto](https://www.wired.com/story/plaintext-marc-andreessen-techno-billionaire-wrong-techno-optimism/)
- - [TikTok-Hyped Halloween Decor Is Out of Control](https://www.wired.com/story/halloween-decorations-tiktok-lewis/)
- - [Pokémon Sleep helped me catch ’em all — all the z’s, that is](https://www.theverge.com/23893260/pokemon-sleep-insomnia-app-nintendo-aid)<!-- TECH:END -->
+ - [TikTok-Hyped Halloween Decor Is Out of Control](https://www.wired.com/story/halloween-decorations-tiktok-lewis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

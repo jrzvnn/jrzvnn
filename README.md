@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 20: 14&quot; MacBook Pro 32GB RAM $1,499, iPad 9th Gen $249, Samsung M8 2023 monitor $499, more](https://appleinsider.com/articles/23/10/20/daily-deals-oct-20-14-macbook-pro-32gb-ram-1499-ipad-9th-gen-249-samsung-m8-2023-monitor-499-more?utm_medium=rss)
  - [Tip: How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)
  - [Even Super Mario Bros. Wonder’s approach to difficulty is playful](https://www.theverge.com/2023/10/20/23924272/super-mario-bros-wonder-difficulty-nintendo-switch)
  - [Source: Reddit is considering putting its content behind a log-in page if it fails to make a deal with generative AI companies about paying for its data &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231020/p11#a231020p11)
- - [Brave browser installs a VPN service on Windows whether you want it or not](https://www.theverge.com/2023/10/20/23925192/brave-browser-vpn-windows-11)
- - [This Versatile Meross 3-Outlet Outdoor Smart Plug Is Currently Down to Just $26 &lpar;Save $11&rpar;     - CNET](https://www.cnet.com/deals/this-versatile-meross-3-outlet-outdoor-smart-plug-is-currently-down-to-just-26-save-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brave browser installs a VPN service on Windows whether you want it or not](https://www.theverge.com/2023/10/20/23925192/brave-browser-vpn-windows-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

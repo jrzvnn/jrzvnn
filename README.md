@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swift creator brings new AI programming language to the Mac](https://appleinsider.com/articles/23/10/19/swift-creator-brings-new-ai-programming-language-to-the-mac?utm_medium=rss)
+ - [A profile of Tether CTO Paolo Ardoino, who became the stablecoin operator&#39;s unofficial frontman on social media before being appointed as CEO from December 2023 &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/231020/p14#a231020p14)
+ - [Dbrand’s Steam Deck case is fixed — and there’s a ROG Ally version now](https://www.theverge.com/2023/10/20/23924719/dbrand-killswitch-asus-rog-ally-steam-deck-update)
  - [Faze Clan acquired for $17 million, one year after its $725 million SPAC](https://www.theverge.com/2023/10/20/23925149/faze-clan-gamesquare-acquisition)
- - [Marvel’s Spider-Man 2 is already on sale with a $10 PlayStation Store gift card](https://www.theverge.com/2023/10/20/23923933/marvels-spider-man-2-apple-m2-macbook-air-oneplus-open-deal-sale)
- - [A look at Cameo&#39;s peak during the pandemic and subsequent fall due to trouble recruiting big stars, the CEO&#39;s haphazard leadership, and more &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p13#a231020p13)
- - [That bad King Kong game was only in development for a year](https://www.theverge.com/2023/10/20/23925326/skull-island-rise-of-kong-development-gamemill-entertainment)
- - [DreamCloud Is Knocking 50% Off Mattresses During Its Flash Sale     - CNET](https://www.cnet.com/deals/dreamcloud-is-knocking-50-off-mattresses-during-its-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel’s Spider-Man 2 is already on sale with a $10 PlayStation Store gift card](https://www.theverge.com/2023/10/20/23923933/marvels-spider-man-2-apple-m2-macbook-air-oneplus-open-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

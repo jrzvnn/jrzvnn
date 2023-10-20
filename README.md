@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 💣 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 💣 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
  - 😝 [She found out](http://9gag.com/gag/avQV3Rq)
- - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
+ - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
 
 ---
 

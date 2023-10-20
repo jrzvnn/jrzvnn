@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Hugging Face confirms &quot;regrettable accessibility issues in China&quot;, after a report that the platform has been unavailable in the country since at least September &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/231020/p22#a231020p22)
- - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
- - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
- - [SCOTUS pauses a ruling banning Biden administration officials from contacting social media platforms about misinformation and agrees to hear the DOJ&#39;s appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)
- - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone to Buy for 2023     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 Deals: Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
+ - [Best Sonos Deals: Big Savings on Wireless Speakers and Combo Packs     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
+ - [Best Fitbit Deals: Save on These Popular Fitness Trackers     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s fixing a cookie problem with Drive downloads, but not the biggest one](https://www.theverge.com/2023/10/17/23920504/google-drive-third-party-cookies-download-fix)
  - [IBM researchers unveil a &quot;brain-inspired&quot; NorthPole chip prototype that removes the need to frequently access external memory and consumes vastly less power &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/231020/p16#a231020p16)
  - [Frying pan company sued for claiming temperatures that rival the Sun](https://www.theverge.com/2023/10/20/23925424/sharkninja-lawsuit-frying-pan-temperatures-hotter-than-sun)
  - [‘Nothing is changing’: Reddit flatly denies report that it might wall off its content](https://www.theverge.com/2023/10/20/23925504/reddit-deny-force-log-in-see-posts-ai-companies-deals)
- - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
- - [Grab this Vampire: The Masquerade V5 Digital Bundle for $18     - CNET](https://www.cnet.com/deals/grab-this-vampire-the-masquerade-v5-digital-bundle-for-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

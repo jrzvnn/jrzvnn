@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like watching a computer glitch](http://9gag.com/gag/az2zNpK)
- - 😝 [Youtube&#39;s adblock detection apparently is against EU laws](http://9gag.com/gag/avQq2Aq)
- - 💣 [Environmental activists tried to stop a bus](http://9gag.com/gag/aVbrj88)
- - 😝 [Grandma gonna knock you out!](http://9gag.com/gag/aKEZ4pQ)
- - 👉 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)<!-- MEMES:END -->
+ - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
+ - 💣 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 😝 [She found out](http://9gag.com/gag/avQV3Rq)
+ - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
 
 ---
 

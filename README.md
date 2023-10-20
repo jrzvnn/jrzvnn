@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
  - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 💣 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
+ - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 💣 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
+ - 👉 [What is happening](http://9gag.com/gag/ago93mw)<!-- MEMES:END -->
 
 ---
 

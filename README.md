@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)
- - 😝 [Be offended](http://9gag.com/gag/aeQz3KQ)
- - 💣 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
- - 😝 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
+ - 😝 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
+ - 💣 [26,663 Days above ground](http://9gag.com/gag/a8qNLNd)
+ - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
  - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->
 
 ---

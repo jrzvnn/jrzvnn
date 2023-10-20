@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My six-month dive into podcasting’s very chaotic year](https://www.theverge.com/2023/10/20/23925917/youtube-hot-pod-goodbye-podcasting-bust)
  - [Friday news dumps: all the news companies hoped you wouldn’t notice](https://www.theverge.com/2023/10/20/23925862/friday-bad-news-dumps-companies)
  - [SCOTUS pauses a ruling that banned Biden administration officials from engaging in many kinds of contact with social media platforms as it hears a DOJ appeal &lpar;Adam Liptak/New York Times&rpar;](http://www.techmeme.com/231020/p21#a231020p21)
  - [&#39;Super Mario Bros. Wonder&#39; Is the Face of Nintendo&#39;s Transformation](https://www.wired.com/story/mario-wonder-gameplay-doug-bowser-interview/)
- - [Why LLMs, which don&#39;t induce an algorithm that computes multiplication, still don&#39;t truly understand multiplication no matter how much data they are trained on &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/231020/p20#a231020p20)
- - [Pixel 8 Pro teardown exposes its temperature sensor and a sticky battery setup](https://www.theverge.com/2023/10/20/23925722/ifixit-pixel-8-pro-teardown-temperature-reader)<!-- TECH:END -->
+ - [Why LLMs, which don&#39;t induce an algorithm that computes multiplication, still don&#39;t truly understand multiplication no matter how much data they are trained on &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/231020/p20#a231020p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

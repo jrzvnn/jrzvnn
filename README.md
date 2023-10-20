@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how they treat pedophiles in El Salvador:](http://9gag.com/gag/aL1oRRg)
- - 😝 [Footage of the battle of Salamis](http://9gag.com/gag/aVbrjeK)
- - 💣 [Can you resist?](http://9gag.com/gag/a4ogpKv)
+ - 😝 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
+ - 😝 [Thanks bro](http://9gag.com/gag/amAQqyj)
+ - 💣 [Free shipping with prime huh?](http://9gag.com/gag/az2y7vZ)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [What is happening](http://9gag.com/gag/ago93mw)<!-- MEMES:END -->
+ - 👉 [Can you resist?](http://9gag.com/gag/a4ogpKv)<!-- MEMES:END -->
 
 ---
 

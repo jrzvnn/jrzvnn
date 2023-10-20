@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Filing: EU antitrust regulators resume their investigation into Adobe&#39;s $20B Figma acquisition, setting a February 5, 2024 deadline for their decision &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231020/p5#a231020p5)
+ - [Save While Shopping at Your Favorite Hardware Stores     - CNET](https://www.cnet.com/deals/save-while-shopping-at-your-favorite-hardware-stores/#ftag=CAD590a51e)
  - [Writers and publishers need to band together to lobby against OpenAI, Google, Microsoft, and Meta, fighting for proper compensation and a share of AI&#39;s value &lpar;William D. Cohan/Washington Post&rpar;](http://www.techmeme.com/231020/p4#a231020p4)
  - [Elon Musk says X plans to launch two new premium tiers: a lower cost tier with all features, but no reduction in ads, and a more expensive tier with no ads &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231020/p3#a231020p3)
- - [Beijing-based generative AI startup Beijing Zhipu Huazhang has raised ~$342M from Alibaba, Tencent, Ant Group, Xiaomi, HongShan, Meituan, and others in 2023 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231020/p2#a231020p2)
- - [News publishers scramble to adjust to declining referral traffic, as Meta, X, and even Google become less dependable at amplifying and supporting journalism &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p1#a231020p1)<!-- TECH:END -->
+ - [Beijing-based generative AI startup Beijing Zhipu Huazhang has raised ~$342M from Alibaba, Tencent, Ant Group, Xiaomi, HongShan, Meituan, and others in 2023 &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/231020/p2#a231020p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

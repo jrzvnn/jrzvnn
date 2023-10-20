@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US&#39; tighter chip rules may leave Alibaba and Baidu relying on outdated and stockpiled chips, like the Nvidia V100 from 2017, to pursue their AI ambitions &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p7#a231020p7)
- - [Best Bird Watching Gear &lpar;2023&rpar;: Everything You Need to Start Birding](https://www.wired.com/story/best-bird-watching-gear/)
- - [Things Are Looking Up for Asteroid Mining](https://www.wired.com/story/things-are-looking-up-for-asteroid-mining/)
- - [This Vaccine Protects Against Cancer—but Not Enough Boys Are Getting It](https://www.wired.com/story/hpv-vaccine-men-cervical-cancer/)
- - [Universal Audio Sphere DLX and LX Review: Professional Quality](https://www.wired.com/review/universal-audio-sphere-mics/)<!-- TECH:END -->
+ - [Blue checkmarks on X are ‘superspreaders of misinformation’ about Israel-Hamas war](https://www.theverge.com/2023/10/20/23925086/x-verified-blue-checkmarks-superspreader-misinformation-israel-hamas-war)
+ - [Skylum adding trio of AI-powered photo editing features to Luminar Neo](https://appleinsider.com/articles/23/10/20/skylum-gears-up-to-add-generative-ai-powered-photo-features-to-luminar-neo?utm_medium=rss)
+ - [FaZe Clan is acquired by esports holding company GameSquare Holdings in a deal valuing Faze at ~$16M, down from a $725M market cap at its 2022 SPAC merger &lpar;Alexander Lee/Digiday&rpar;](http://www.techmeme.com/231020/p8#a231020p8)
+ - [New Trials Aim to Restore Hearing in Deaf Children—With Gene Therapy](https://www.wired.com/story/new-trials-aim-to-restore-hearing-in-deaf-children-with-gene-therapy/)
+ - [8 Tips for Playing &#39;Marvel&#39;s Spider-Man 2&#39;](https://www.wired.com/story/marvels-spider-man-2-game-tips-advice-get-started/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

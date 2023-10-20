@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Took 5minute to understand it](http://9gag.com/gag/adPMmVj)
- - 😝 [Can you resist?](http://9gag.com/gag/a4ogpKv)
- - 💣 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
+ - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 💣 [Driving at night in Western Europe....lol](http://9gag.com/gag/aME6Rx1)
  - 😝 [\ud83c\udfae It&#39;s time to meet your favorite games and publishers! Join the exciting Gamescom Asia 2023 to try out game demos, enjoy stage activities, cosplay and more!](http://9gag.com/gag/avQVbEn)
- - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
+ - 👉 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)<!-- MEMES:END -->
 
 ---
 

@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Source: Reddit is considering putting its content behind a log-in page if it fails to make a deal with generative AI companies about paying for its data &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231020/p11#a231020p11)
  - [Brave browser installs a VPN service on Windows whether you want it or not](https://www.theverge.com/2023/10/20/23925192/brave-browser-vpn-windows-11)
- - [This Versatile Meross 3-Outlet Outdoor Smart Plug Is Currently Down to Just $26 &lpar;Save $11&rpar;     - CNET](https://www.cnet.com/deals/this-versatile-meross-3-outlet-outdoor-smart-plug-is-currently-down-to-just-26-save-11/#ftag=CAD590a51e)
  - [Inside Discord’s reform movement for banned users](https://www.theverge.com/2023/10/20/23925119/discord-moderation-reform-rehabilitation-users-servers)
- - [How to use Apple’s Conversation Awareness mode on the AirPods Pro](https://www.theverge.com/23924206/apple-airpods-pro-conversation-awareness-how-to-use)<!-- TECH:END -->
+ - [How to use Apple’s Conversation Awareness mode on the AirPods Pro](https://www.theverge.com/23924206/apple-airpods-pro-conversation-awareness-how-to-use)
+ - [Nvidia Research announces Eureka, a new AI agent powered by OpenAI&#39;s GPT-4 to autonomously write reward algorithms and teach robots complex skills &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/231020/p10#a231020p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

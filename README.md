@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple rolls out iOS 17.1 Release Candidate 2 for iPhone 15](https://appleinsider.com/articles/23/10/20/apple-rolls-out-ios-171-release-candidate-2-for-iphone-15?utm_medium=rss)
- - [Samsung Galaxy Tab S9 Deals: Save $120 on Storage Upgrades and Up to $350 With Trade-In Credit     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
  - [Google, Meta, Intel, Siemens and others pull out from this year&#39;s Web Summit, after its CEO Paddy Cosgrave accused Israel of war crimes &lpar;The Irish Times&rpar;](http://www.techmeme.com/231020/p17#a231020p17)
  - [Google’s fixing a cookie problem with Drive downloads, but not the biggest one](https://www.theverge.com/2023/10/17/23920504/google-drive-third-party-cookies-download-fix)
- - [IBM researchers unveil a &quot;brain-inspired&quot; NorthPole chip prototype that removes the need to frequently access external memory and consumes vastly less power &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/231020/p16#a231020p16)<!-- TECH:END -->
+ - [IBM researchers unveil a &quot;brain-inspired&quot; NorthPole chip prototype that removes the need to frequently access external memory and consumes vastly less power &lpar;Davide Castelvecchi/Nature&rpar;](http://www.techmeme.com/231020/p16#a231020p16)
+ - [Frying pan company sued for claiming temperatures that rival the Sun](https://www.theverge.com/2023/10/20/23925424/sharkninja-lawsuit-frying-pan-temperatures-hotter-than-sun)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

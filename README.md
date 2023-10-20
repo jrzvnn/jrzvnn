@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
- - 😝 [I hate this.](http://9gag.com/gag/a6qgwA2)
- - 💣 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
- - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
+ - 😝 [Die trash](http://9gag.com/gag/a6qgw28)
+ - 😝 [Dude absolutely kills it. Volume up!](http://9gag.com/gag/ago9r7W)
+ - 💣 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
+ - 😝 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
+ - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->
 
 ---
 

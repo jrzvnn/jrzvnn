@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Killers of the Flower Moon hits cinemas globally, after Tim Cook personally attended the Cannes premiere, ahead of Ridley Scott&#39;s Napoleon in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p12#a231020p12)
- - [Daily deals Oct. 20: 14&quot; MacBook Pro 32GB RAM $1,499, iPad 9th Gen $249, Samsung M8 2023 monitor $499, more](https://appleinsider.com/articles/23/10/20/daily-deals-oct-20-14-macbook-pro-32gb-ram-1499-ipad-9th-gen-249-samsung-m8-2023-monitor-499-more?utm_medium=rss)
- - [Tip: How to turn off macOS Sonoma&#39;s click to reveal desktop](https://appleinsider.com/inside/macos-sonoma/tips/tip-how-to-turn-off-macos-sonomas-click-to-reveal-desktop?utm_medium=rss)
- - [Even Super Mario Bros. Wonder’s approach to difficulty is playful](https://www.theverge.com/2023/10/20/23924272/super-mario-bros-wonder-difficulty-nintendo-switch)
- - [Source: Reddit is considering putting its content behind a log-in page if it fails to make a deal with generative AI companies about paying for its data &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231020/p11#a231020p11)<!-- TECH:END -->
+ - [A look at Cameo&#39;s peak during the pandemic and subsequent fall due to trouble recruiting big stars, the CEO&#39;s haphazard leadership, and more &lpar;New York Times&rpar;](http://www.techmeme.com/231020/p13#a231020p13)
+ - [That bad King Kong game was only in development for a year](https://www.theverge.com/2023/10/20/23925326/skull-island-rise-of-kong-development-gamemill-entertainment)
+ - [DreamCloud Is Knocking 50% Off Mattresses During Its Flash Sale     - CNET](https://www.cnet.com/deals/dreamcloud-is-knocking-50-off-mattresses-during-its-flash-sale/#ftag=CAD590a51e)
+ - [Best Portable Power Stations for October 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
+ - [Apple&#39;s Killers of the Flower Moon hits cinemas globally, after Tim Cook personally attended the Cannes premiere, ahead of Ridley Scott&#39;s Napoleon in November &lpar;Financial Times&rpar;](http://www.techmeme.com/231020/p12#a231020p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

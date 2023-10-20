@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you resist?](http://9gag.com/gag/a4ogpKv)
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 😝 [Environmental activists tried to stop a bus](http://9gag.com/gag/aVbrj88)
  - 💣 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)<!-- MEMES:END -->
+ - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
 
 ---
 

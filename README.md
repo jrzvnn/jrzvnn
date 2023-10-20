@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free shipping with prime huh?](http://9gag.com/gag/az2y7vZ)
- - 😝 [What is happening](http://9gag.com/gag/ago93mw)
- - 💣 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
- - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 👉 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)<!-- MEMES:END -->
+ - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
+ - 😝 [Quickest way to find your lost girl](http://9gag.com/gag/abvD5Zr)
+ - 💣 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 😝 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
+ - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
 
 ---
 

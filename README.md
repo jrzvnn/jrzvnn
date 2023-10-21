@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 💣 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Interesting](http://9gag.com/gag/a9qwM46)<!-- MEMES:END -->
+ - 😝 [They only want the freedom to hold hands in public...YEAH RIGHT.](http://9gag.com/gag/adPA6v2)
+ - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
+ - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
 
 ---
 

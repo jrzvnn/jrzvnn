@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Broke gamers would get it.](http://9gag.com/gag/aKEZgG6)
- - 😝 [What is happening](http://9gag.com/gag/ago93mw)
- - 💣 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
+ - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
+ - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Interesting](http://9gag.com/gag/a9qwM46)<!-- MEMES:END -->
+ - 👉 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)<!-- MEMES:END -->
 
 ---
 

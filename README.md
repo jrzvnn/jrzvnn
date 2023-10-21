@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cutting a circle with a table saw](http://9gag.com/gag/a04gYgB)
- - 😝 [Good prank](http://9gag.com/gag/aZDXNeW)
- - 💣 [Lost my best friend tonight. R.I.P. Benny. March 2009 - 21.10.2023](http://9gag.com/gag/az2yVoz)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
+ - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 💣 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
+ - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
+ - 👉 [What the f**k is this shit?](http://9gag.com/gag/a9qwdLZ)<!-- MEMES:END -->
 
 ---
 

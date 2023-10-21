@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 😝 [What is happening](http://9gag.com/gag/ago93mw)
- - 💣 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
+ - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
+ - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
+ - 💣 [Imagine you&#39;re playing with your friends an this happens.](http://9gag.com/gag/adPA6DM)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
+ - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->
 
 ---
 

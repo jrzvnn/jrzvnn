@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Camera Accessories for Phones &lpar;2023&rpar;: Apps, Tripods, Mics, and Lights](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android/)
+ - [The 23andMe User Data Leak May Be Far Worse Than Believed](https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/)
  - [Learn a New Language With This $150 Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/learn-a-new-language-with-this-150-lifetime-babbel-subscription/#ftag=CAD590a51e)
  - [5 Tips for Using the Motorola Razr 2023&#39;s Cover Screen     - CNET](https://www.cnet.com/tech/mobile/5-tips-for-using-the-motorola-razr-2023s-cover-screen/#ftag=CAD590a51e)
- - [AI and You: NYC Mayor Can&#39;t Really Speak Mandarin, the AI Money Trail, Who Sets the Rules     - CNET](https://www.cnet.com/tech/computing/ai-and-you-nyc-mayor-cant-really-speak-mandarin-the-ai-money-trail-who-sets-the-rules/#ftag=CAD590a51e)
- - [The Pixel 8 Pro Camera Has Some Issues. Here&#39;s How to Sidestep Them     - CNET](https://www.cnet.com/tech/mobile/the-pixel-8-pro-camera-has-some-issues-heres-how-to-sidestep-them/#ftag=CAD590a51e)
- - [Best Streaming Services of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI and You: NYC Mayor Can&#39;t Really Speak Mandarin, the AI Money Trail, Who Sets the Rules     - CNET](https://www.cnet.com/tech/computing/ai-and-you-nyc-mayor-cant-really-speak-mandarin-the-ai-money-trail-who-sets-the-rules/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

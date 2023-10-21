@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
- - 😝 [Thanks bro](http://9gag.com/gag/amAQqyj)
- - 💣 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 😝 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
+ - 💣 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)<!-- MEMES:END -->
+ - 👉 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)<!-- MEMES:END -->
 
 ---
 

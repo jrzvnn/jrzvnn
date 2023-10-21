@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch will now let streamers simultaneously stream on any service they want](https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon)
  - [Best Android Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
  - [Hugging Face confirms &quot;regrettable accessibility issues in China&quot;, after a report that the platform has been unavailable in the country since at least September &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/231020/p22#a231020p22)
  - [Best Camera Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
- - [Samsung Galaxy S23 Deals: Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [Best Phone to Buy for 2023     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Discounts, Trade-In Offers and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

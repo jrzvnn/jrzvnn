@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
- - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 😝 [Thanks bro](http://9gag.com/gag/amAQqyj)
+ - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 💣 [Comments welcome](http://9gag.com/gag/a8qNW73)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)<!-- MEMES:END -->
+ - 👉 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Learn About Your Pup With This $85 DNA Test Kit for Dogs From Basepaws &lpar;Save $64&rpar;     - CNET](https://www.cnet.com/deals/learn-about-your-pup-with-this-85-dna-test-kit-for-dogs-from-basepaws-save-64/#ftag=CAD590a51e)
+ - [Panasonic Evervolt Home Battery Review: A Modular and Powerful Approach     - CNET](https://www.cnet.com/home/energy-and-utilities/panasonic-evervolt-home-battery-review-a-modular-and-powerful-approach/#ftag=CAD590a51e)
+ - [Man City vs. Brighton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-brighton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [The Dangerous Mystery of Hamas’ Missing ‘Suicide Drones’](https://www.wired.com/story/hamas-drones-israel-war/)
- - [16 Best Deals: Gaming Headsets, Lego Kits, and iPads](https://www.wired.com/story/weekend-deals-october-21-2023/)
- - [A look at Discord&#39;s new Warning System, which limits users&#39; behavior based on their violation instead of relying on strikes, and avoids permanent bans &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231021/p4#a231021p4)
- - [Xbox and PlayStation battle it out at The Sphere](https://www.theverge.com/2023/10/21/23926271/xbox-playstation-the-sphere-las-vegas-marketing)
- - [33 Best Advent Calendars for Kids in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Deals: Gaming Headsets, Lego Kits, and iPads](https://www.wired.com/story/weekend-deals-october-21-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

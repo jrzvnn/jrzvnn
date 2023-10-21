@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 😝 [Imagine you&#39;re playing with your friends an this happens.](http://9gag.com/gag/adPA6DM)
- - 💣 [Comments welcome](http://9gag.com/gag/a8qNW73)
+ - 😝 [Paradox](http://9gag.com/gag/a4ogdQQ)
+ - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
+ - 💣 [Whoopsies](http://9gag.com/gag/aNwMrLb)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->
+ - 👉 [Haven\u2019t we all been there?](http://9gag.com/gag/ap97BGE)<!-- MEMES:END -->
 
 ---
 

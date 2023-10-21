@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google owes executive $1 million after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
+ - [How Meta is struggling to moderate Israel-Hamas war content, amid internal friction and its moderation tools&#39; limited ability in parsing Arabic dialects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231021/p8#a231021p8)
  - [Sources: Joe Biden, Justin Trudeau, and most other G7 leaders plan to skip UK&#39;s Bletchley Park AI summit in November, denting the profile of the event &lpar;Bloomberg&rpar;](http://www.techmeme.com/231021/p7#a231021p7)
  - [Best Keto Meal Delivery Services in 2023     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
- - [Grubhub, DoorDash and Uber Eats: Which Delivery App Has the Lowest Fees?     - CNET](https://www.cnet.com/how-to/cheapest-delivery-app-for-2023/#ftag=CAD590a51e)
- - [Best Sleep Headphones of 2023     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [Daily deals Oct. 21: $100 off M2 12.9&quot; iPad Pro, $150 off M2 MacBook Air, $200 off Bose Smart Soundbar 900, more](https://appleinsider.com/articles/23/10/21/daily-deals-oct-21-100-off-m2-129-ipad-pro-150-off-m2-macbook-air-200-off-bose-smart-soundbar-900-more?utm_medium=rss)<!-- TECH:END -->
+ - [Grubhub, DoorDash and Uber Eats: Which Delivery App Has the Lowest Fees?     - CNET](https://www.cnet.com/how-to/cheapest-delivery-app-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

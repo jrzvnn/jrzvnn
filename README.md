@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 💣 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 👉 [Had to look twice](http://9gag.com/gag/axoKN9W)<!-- MEMES:END -->
+ - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
+ - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
+ - 💣 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [What the f**k is this shit?](http://9gag.com/gag/a9qwdLZ)
+ - 👉 [You like wh**es?](http://9gag.com/gag/aME7GZ1)<!-- MEMES:END -->
 
 ---
 

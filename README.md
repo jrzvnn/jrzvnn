@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks bro](http://9gag.com/gag/amAQqyj)
+ - 😝 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
  - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 💣 [Comments welcome](http://9gag.com/gag/a8qNW73)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)<!-- MEMES:END -->
+ - 👉 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)<!-- MEMES:END -->
 
 ---
 

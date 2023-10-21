@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 😝 [They only want the freedom to hold hands in public...YEAH RIGHT.](http://9gag.com/gag/adPA6v2)
- - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
- - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 👉 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)<!-- MEMES:END -->
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 😝 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 💣 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
+ - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Have Climate Catastrophes Toppled Some Civilizations but Not Others?](https://www.wired.com/story/why-have-climate-catastrophes-toppled-some-civilizations-but-not-others/)
+ - [Lenovo Flex 5i Chromebook Plus Review: A Cheap Touchscreen Chromebook](https://www.wired.com/review/lenovo-flex-5i-chromebook-plus/)
  - [Learn About Your Pup With This $85 DNA Test Kit for Dogs From Basepaws &lpar;Save $64&rpar;     - CNET](https://www.cnet.com/deals/learn-about-your-pup-with-this-85-dna-test-kit-for-dogs-from-basepaws-save-64/#ftag=CAD590a51e)
  - [Panasonic Evervolt Home Battery Review: A Modular and Powerful Approach     - CNET](https://www.cnet.com/home/energy-and-utilities/panasonic-evervolt-home-battery-review-a-modular-and-powerful-approach/#ftag=CAD590a51e)
- - [Man City vs. Brighton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-brighton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [The Dangerous Mystery of Hamas’ Missing ‘Suicide Drones’](https://www.wired.com/story/hamas-drones-israel-war/)
- - [16 Best Deals: Gaming Headsets, Lego Kits, and iPads](https://www.wired.com/story/weekend-deals-october-21-2023/)<!-- TECH:END -->
+ - [Man City vs. Brighton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-brighton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

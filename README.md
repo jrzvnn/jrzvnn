@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Have Climate Catastrophes Toppled Some Civilizations but Not Others?](https://www.wired.com/story/why-have-climate-catastrophes-toppled-some-civilizations-but-not-others/)
- - [Lenovo Flex 5i Chromebook Plus Review: A Cheap Touchscreen Chromebook](https://www.wired.com/review/lenovo-flex-5i-chromebook-plus/)
- - [Learn About Your Pup With This $85 DNA Test Kit for Dogs From Basepaws &lpar;Save $64&rpar;     - CNET](https://www.cnet.com/deals/learn-about-your-pup-with-this-85-dna-test-kit-for-dogs-from-basepaws-save-64/#ftag=CAD590a51e)
- - [Panasonic Evervolt Home Battery Review: A Modular and Powerful Approach     - CNET](https://www.cnet.com/home/energy-and-utilities/panasonic-evervolt-home-battery-review-a-modular-and-powerful-approach/#ftag=CAD590a51e)
- - [Man City vs. Brighton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-brighton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Learn a New Language With This $150 Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/learn-a-new-language-with-this-150-lifetime-babbel-subscription/#ftag=CAD590a51e)
+ - [5 Tips for Using the Motorola Razr 2023&#39;s Cover Screen     - CNET](https://www.cnet.com/tech/mobile/5-tips-for-using-the-motorola-razr-2023s-cover-screen/#ftag=CAD590a51e)
+ - [AI and You: NYC Mayor Can&#39;t Really Speak Mandarin, the AI Money Trail, Who Sets the Rules     - CNET](https://www.cnet.com/tech/computing/ai-and-you-nyc-mayor-cant-really-speak-mandarin-the-ai-money-trail-who-sets-the-rules/#ftag=CAD590a51e)
+ - [The Pixel 8 Pro Camera Has Some Issues. Here&#39;s How to Sidestep Them     - CNET](https://www.cnet.com/tech/mobile/the-pixel-8-pro-camera-has-some-issues-heres-how-to-sidestep-them/#ftag=CAD590a51e)
+ - [Best Streaming Services of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

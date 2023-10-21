@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They only want the freedom to hold hands in public...YEAH RIGHT.](http://9gag.com/gag/adPA6v2)
  - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 💣 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
  - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
 
 ---

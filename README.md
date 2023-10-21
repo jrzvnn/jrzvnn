@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Allen Institute for AI&#39;s plan to build &quot;open&quot; generative AI model OLMo; the nonprofit research center is led by former Apple ML leader Ali Farhadi &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231021/p5#a231021p5)
+ - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
  - [YouTube Music adds HomePod integration to its iOS app](https://appleinsider.com/articles/23/10/21/youtube-music-adds-homepod-integration-to-its-ios-app?utm_medium=rss)
  - [16 Best Camera Accessories for Phones &lpar;2023&rpar;: Apps, Tripods, Mics, and Lights](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android/)
- - [The 23andMe User Data Leak May Be Far Worse Than Believed](https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/)
- - [Learn a New Language With This $150 Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/learn-a-new-language-with-this-150-lifetime-babbel-subscription/#ftag=CAD590a51e)
- - [5 Tips for Using the Motorola Razr 2023&#39;s Cover Screen     - CNET](https://www.cnet.com/tech/mobile/5-tips-for-using-the-motorola-razr-2023s-cover-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 23andMe User Data Leak May Be Far Worse Than Believed](https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

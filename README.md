@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox and PlayStation battle it out at The Sphere](https://www.theverge.com/2023/10/21/23926271/xbox-playstation-the-sphere-las-vegas-marketing)
  - [So long, small phones](https://www.theverge.com/23913658/best-small-phone-dead-iphone-mini-z-flip-pixel-8)
  - [Here Are The Most Annoying iOS 17 Features on Your iPhone &lpar;and How to Fix Them&rpar;     - CNET](https://www.cnet.com/tech/mobile/here-are-the-most-annoying-ios-17-features-on-your-iphone-and-how-to-fix-them/#ftag=CAD590a51e)
  - [Formula 1 Racing 2023: How to Watch and Livestream the United States GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-united-states-gp/#ftag=CAD590a51e)
- - [Everything to Know About NameDrop, Apple&#39;s Quick, New Way to Share Your Contact Info     - CNET](https://www.cnet.com/tech/mobile/everything-to-know-about-namedrop-apples-quick-new-way-to-share-your-contact-info/#ftag=CAD590a51e)
- - [Liverpool vs. Everton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything to Know About NameDrop, Apple&#39;s Quick, New Way to Share Your Contact Info     - CNET](https://www.cnet.com/tech/mobile/everything-to-know-about-namedrop-apples-quick-new-way-to-share-your-contact-info/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

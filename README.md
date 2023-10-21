@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 😝 [They only want the freedom to hold hands in public...YEAH RIGHT.](http://9gag.com/gag/adPA6v2)
  - 💣 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
- - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
- - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
+ - 😝 [Had to look twice](http://9gag.com/gag/axoKN9W)
+ - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
 
 ---
 

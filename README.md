@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paradox](http://9gag.com/gag/a4ogdQQ)
- - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
- - 💣 [Whoopsies](http://9gag.com/gag/aNwMrLb)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
+ - 😝 [What is happening](http://9gag.com/gag/ago93mw)
+ - 💣 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Haven\u2019t we all been there?](http://9gag.com/gag/ap97BGE)<!-- MEMES:END -->
+ - 👉 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)<!-- MEMES:END -->
 
 ---
 

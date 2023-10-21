@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palestinians Claim Social Media &#39;Censorship&#39; Is Endangering Lives](https://www.wired.com/story/palestinians-claim-social-media-censorship-is-endangering-lives/)
  - [Research: ChatGPT, GPT-4, Bard, and Claude had instances of promoting harmful, inaccurate, race-based content when responding to nine medical questions &lpar;Associated Press&rpar;](http://www.techmeme.com/231021/p3#a231021p3)
  - [Bugs in the ChatGPT app reveal internal natural language prompts shared between DALL-E 3 and ChatGPT, including some commands written in all-caps for emphasis &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/231021/p2#a231021p2)
  - [Google expands consumer and merchant credit features on Google Pay in India, launches new generative AI-based visual and local capabilities in Search, and more &lpar;Sanjay Gupta/The Keyword India&rpar;](http://www.techmeme.com/231021/p1#a231021p1)
- - [This 1-Day Deal Knocks the Price of a Roomba S9 Plus Robot Vacuum Down to Just $500     - CNET](https://www.cnet.com/deals/this-1-day-deal-knocks-the-price-of-a-roomba-s9-plus-robot-vacuum-down-to-just-500/#ftag=CAD590a51e)
- - [London-based Samaya AI unveils an AI tool that suggests better Wikipedia references for citations the tool identifies as unlikely to support associated claims &lpar;Chris Stokel-Walker/Nature&rpar;](http://www.techmeme.com/231020/p24#a231020p24)<!-- TECH:END -->
+ - [This 1-Day Deal Knocks the Price of a Roomba S9 Plus Robot Vacuum Down to Just $500     - CNET](https://www.cnet.com/deals/this-1-day-deal-knocks-the-price-of-a-roomba-s9-plus-robot-vacuum-down-to-just-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

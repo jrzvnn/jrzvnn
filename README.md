@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
- - 💣 [Imagine you&#39;re playing with your friends an this happens.](http://9gag.com/gag/adPA6DM)
+ - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
+ - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
+ - 💣 [Whoopsies](http://9gag.com/gag/aNwMrLb)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [6 Japanese techniques to overcome laziness](http://9gag.com/gag/anzZqxE)<!-- MEMES:END -->
+ - 👉 [Comments welcome](http://9gag.com/gag/a8qNW73)<!-- MEMES:END -->
 
 ---
 

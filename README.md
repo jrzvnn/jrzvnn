@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
- - 💣 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 😝 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
+ - 😝 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 💣 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)<!-- MEMES:END -->
+ - 👉 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)<!-- MEMES:END -->
 
 ---
 

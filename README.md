@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 💣 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
  - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
- - 💣 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
- - 👉 [What the f**k is this shit?](http://9gag.com/gag/a9qwdLZ)<!-- MEMES:END -->
+ - 👉 [Had to look twice](http://9gag.com/gag/axoKN9W)<!-- MEMES:END -->
 
 ---
 

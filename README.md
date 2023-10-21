@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: Joe Biden, Justin Trudeau, and most other G7 leaders plan to skip UK&#39;s Bletchley Park AI summit in November, denting the profile of the event &lpar;Bloomberg&rpar;](http://www.techmeme.com/231021/p7#a231021p7)
- - [Daily deals Oct. 21: $100 off M2 12.9&quot; iPad Pro, $150 off M2 MacBook Air, $200 off Bose Smart Soundbar 900, more](https://appleinsider.com/articles/23/10/21/daily-deals-oct-21-100-off-m2-129-ipad-pro-150-off-m2-macbook-air-200-off-bose-smart-soundbar-900-more?utm_medium=rss)
- - [Pitaka MagEZ Slider 2 review: Innovative, but slow](https://appleinsider.com/articles/23/10/21/pitaka-magez-slider-2-review-innovative-but-slow?utm_medium=rss)
- - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
- - [Paddy Cosgrave steps down as the CEO of Web Summit, which plans to appoint a new CEO; the event, set to start on November 13 in Lisbon, will go ahead as planned &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/231021/p6#a231021p6)<!-- TECH:END -->
+ - [Best Keto Meal Delivery Services in 2023     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
+ - [Grubhub, DoorDash and Uber Eats: Which Delivery App Has the Lowest Fees?     - CNET](https://www.cnet.com/how-to/cheapest-delivery-app-for-2023/#ftag=CAD590a51e)
+ - [Best Sleep Headphones of 2023     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
+ - [Daily deals Oct. 21: $100 off M2 12.9&quot; iPad Pro, $150 off M2 MacBook Air, $200 off Bose Smart Soundbar 900, more](https://appleinsider.com/articles/23/10/21/daily-deals-oct-21-100-off-m2-129-ipad-pro-150-off-m2-macbook-air-200-off-bose-smart-soundbar-900-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

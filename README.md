@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
- - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
- - 💣 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 😝 [She knows she is a boy](http://9gag.com/gag/aoKoz13)
+ - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Points to Slytherin](http://9gag.com/gag/anzZBvo)<!-- MEMES:END -->
+ - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
 
 ---
 

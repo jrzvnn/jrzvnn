@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
  - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
- - 😝 [They only want the freedom to hold hands in public...YEAH RIGHT.](http://9gag.com/gag/adPA6v2)
- - 💣 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
+ - 💣 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)<!-- MEMES:END -->
+ - 👉 [Points to Slytherin](http://9gag.com/gag/anzZBvo)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 😝 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
- - 💣 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
+ - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
+ - 😝 [You are not ugly. You just don&#39;t have enough money...](http://9gag.com/gag/a9qwjYD)
+ - 💣 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)<!-- MEMES:END -->
+ - 👉 [Interesting](http://9gag.com/gag/a9qwM46)<!-- MEMES:END -->
 
 ---
 

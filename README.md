@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look happy the people of Gaza were when they knew what Hamas and Islamic Jihad did. Look at the teens. Now tell me they are all innocent.](http://9gag.com/gag/a2KgNOd)
- - 😝 [Had to look twice](http://9gag.com/gag/axoKN9W)
- - 💣 [Whoopsies](http://9gag.com/gag/aNwMrLb)
+ - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
+ - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 💣 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
  - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 👉 [Hell to the no no](http://9gag.com/gag/aDY9o1N)<!-- MEMES:END -->
+ - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
 
 ---
 

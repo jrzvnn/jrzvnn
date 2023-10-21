@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Thanks bro](http://9gag.com/gag/amAQqyj)
- - 😝 [Pistol malfunction. That must have been scary as f**k](http://9gag.com/gag/avQq0ZE)
- - 💣 [Comments welcome](http://9gag.com/gag/a8qNW73)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)<!-- MEMES:END -->
+ - 👉 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)<!-- MEMES:END -->
 
 ---
 

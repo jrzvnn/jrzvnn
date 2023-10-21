@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paddy Cosgrave steps down as CEO of Web Summit; Web Summit will appoint a new CEO and the show, due to start on November 13 in Lisbon, will go ahead as planned &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/231021/p6#a231021p6)
+ - [Pitaka MagEZ Slider 2 review: Innovative, but slow](https://appleinsider.com/articles/23/10/21/pitaka-magez-slider-2-review-innovative-but-slow?utm_medium=rss)
+ - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
+ - [Paddy Cosgrave steps down as CEO of Web Summit, which plans to appoint a new CEO and the show, due to start on November 13 in Lisbon, will go ahead as planned &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/231021/p6#a231021p6)
  - [You can make YouTube Music your default service on the Apple HomePod](https://www.theverge.com/2023/10/21/23926378/youtube-music-apple-homepod-third-party-support-default-service)
- - [Mandoob shines a thrilling light on the perils of surviving in Saudi Arabia’s gig economy](https://www.theverge.com/23925562/mandoob-review-ali-kalthami)
- - [Microsoft and Nintendo are slashing prices on plenty of spooky titles for Halloween](https://www.theverge.com/2023/10/21/23925261/diablo-iv-quake-2-samsung-frame-4k-tv-deal-sale)
- - [8 Yoga Poses for Your Best Sleep Ever     - CNET](https://www.cnet.com/health/sleep/8-best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mandoob shines a thrilling light on the perils of surviving in Saudi Arabia’s gig economy](https://www.theverge.com/23925562/mandoob-review-ali-kalthami)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Mandoob shines a thrilling light on the perils of surviving in Saudi Arabia’s gig economy](https://www.theverge.com/23925562/mandoob-review-ali-kalthami)
  - [Microsoft and Nintendo are slashing prices on plenty of spooky titles for Halloween](https://www.theverge.com/2023/10/21/23925261/diablo-iv-quake-2-samsung-frame-4k-tv-deal-sale)
- - [A look at the Allen Institute for AI&#39;s plan to build &quot;open&quot; generative AI model OLMo; the nonprofit research center is led by former Apple ML leader Ali Farhadi &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231021/p5#a231021p5)
- - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
- - [Premier League Soccer Livestream: How to Watch Chelsea vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-chelsea-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Yoga Poses for Your Best Sleep Ever     - CNET](https://www.cnet.com/health/sleep/8-best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)
+ - [Netflix Review: Still Our Top Pick, Even With Ads, Price Hikes and Extra Member Fees     - CNET](https://www.cnet.com/tech/services-and-software/netflix-review-still-top-choice-even-with-ads-extra-member-fees/#ftag=CAD590a51e)
+ - [A look at the Allen Institute for AI&#39;s plan to build &quot;open&quot; generative AI model OLMo; the nonprofit research center is led by former Apple ML leader Ali Farhadi &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231021/p5#a231021p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

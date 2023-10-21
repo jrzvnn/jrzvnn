@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
- - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
+ - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 💣 [Broke gamers would get it.](http://9gag.com/gag/aKEZgG6)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)<!-- MEMES:END -->
+ - 👉 [Outstanding move](http://9gag.com/gag/aREWPRy)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the f**k is this shit?](http://9gag.com/gag/a9qwdLZ)
+ - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 💣 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
  - 😝 [Had to look twice](http://9gag.com/gag/axoKN9W)
- - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 👉 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)<!-- MEMES:END -->
+ - 👉 [Hell to the no no](http://9gag.com/gag/aDY9o1N)<!-- MEMES:END -->
 
 ---
 

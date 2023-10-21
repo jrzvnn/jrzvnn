@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
+ - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
  - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
- - 💣 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
+ - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
+ - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
 
 ---
 

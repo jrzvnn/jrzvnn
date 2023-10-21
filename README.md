@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Dangerous Mystery of Hamas’ Missing ‘Suicide Drones’](https://www.wired.com/story/hamas-drones-israel-war/)
+ - [16 Best Deals: Gaming Headsets, Lego Kits, and iPads](https://www.wired.com/story/weekend-deals-october-21-2023/)
  - [A look at Discord&#39;s new Warning System, which limits users&#39; behavior based on their violation instead of relying on strikes, and avoids permanent bans &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231021/p4#a231021p4)
  - [Xbox and PlayStation battle it out at The Sphere](https://www.theverge.com/2023/10/21/23926271/xbox-playstation-the-sphere-las-vegas-marketing)
- - [So long, small phones](https://www.theverge.com/23913658/best-small-phone-dead-iphone-mini-z-flip-pixel-8)
- - [Here Are The Most Annoying iOS 17 Features on Your iPhone &lpar;and How to Fix Them&rpar;     - CNET](https://www.cnet.com/tech/mobile/here-are-the-most-annoying-ios-17-features-on-your-iphone-and-how-to-fix-them/#ftag=CAD590a51e)
- - [Formula 1 Racing 2023: How to Watch and Livestream the United States GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-united-states-gp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [So long, small phones](https://www.theverge.com/23913658/best-small-phone-dead-iphone-mini-z-flip-pixel-8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

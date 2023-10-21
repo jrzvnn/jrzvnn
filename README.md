@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinesium Alert - Time to pack your crap and move.](http://9gag.com/gag/awZjN1R)
- - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
- - 💣 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 😝 [Broke gamers would get it.](http://9gag.com/gag/aKEZgG6)
+ - 💣 [Pakistani inbreds BUYING Coca Cola and spilling them on streets because they think it&#39;s an Israeli brand.](http://9gag.com/gag/aeQzNQp)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)<!-- MEMES:END -->
+ - 👉 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)<!-- MEMES:END -->
 
 ---
 

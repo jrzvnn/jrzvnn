@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A look at the Allen Institute for AI&#39;s plan to build &quot;open&quot; generative AI model OLMo; the nonprofit research center is led by former Apple ML leader Ali Farhadi &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/231021/p5#a231021p5)
  - [Apple bails out of troubled Toronto retail construction project](https://appleinsider.com/articles/23/10/20/apple-bails-out-of-troubled-toronto-retail-construction-project?utm_medium=rss)
+ - [Premier League Soccer Livestream: How to Watch Chelsea vs. Arsenal From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-chelsea-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
  - [YouTube Music adds HomePod integration to its iOS app](https://appleinsider.com/articles/23/10/21/youtube-music-adds-homepod-integration-to-its-ios-app?utm_medium=rss)
- - [16 Best Camera Accessories for Phones &lpar;2023&rpar;: Apps, Tripods, Mics, and Lights](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android/)
- - [The 23andMe User Data Leak May Be Far Worse Than Believed](https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/)<!-- TECH:END -->
+ - [Upgrade Your Mattress This Weekend With These 7 Deals     - CNET](https://www.cnet.com/deals/upgrade-your-mattress-this-weekend-with-these-7-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

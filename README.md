@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 💣 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
+ - 😝 [Body shaming is fine it till its all about the weight](http://9gag.com/gag/a2KgNw1)
+ - 😝 [They only want the freedom to hold hands in public...YEAH RIGHT.](http://9gag.com/gag/adPA6v2)
+ - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
  - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
+ - 👉 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)<!-- MEMES:END -->
 
 ---
 

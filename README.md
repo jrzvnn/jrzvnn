@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US jury finds Google guilty of gender bias and awards female executive Ulku Rowe $1M+, in the first such case filed against Google after 2018&#39;s mass walkouts &lpar;Beth Wang/Bloomberg Law&rpar;](http://www.techmeme.com/231021/p9#a231021p9)
  - [Google owes executive $1 million after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)
  - [How Meta is struggling to moderate Israel-Hamas war content, amid internal friction and its moderation tools&#39; limited ability in parsing Arabic dialects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231021/p8#a231021p8)
  - [Save Up to 86% on Surfshark VPN With These Early Black Friday Deals     - CNET](https://www.cnet.com/deals/save-up-to-86-on-surfshark-vpn-with-these-early-black-friday-deals/#ftag=CAD590a51e)
- - [Sleep Tight, Bug-Free Nights: 8 Expert Tips to Eliminate Bedbugs From Your Mattress     - CNET](https://www.cnet.com/health/sleep/sleep-tight-bedbugs-free-nights-expert-tips-to-eliminate-them-from-your-mattress/#ftag=CAD590a51e)
- - [Sources: Joe Biden, Justin Trudeau, and most other G7 leaders plan to skip UK&#39;s Bletchley Park AI summit in November, denting the profile of the event &lpar;Bloomberg&rpar;](http://www.techmeme.com/231021/p7#a231021p7)<!-- TECH:END -->
+ - [Sleep Tight, Bug-Free Nights: 8 Expert Tips to Eliminate Bedbugs From Your Mattress     - CNET](https://www.cnet.com/health/sleep/sleep-tight-bedbugs-free-nights-expert-tips-to-eliminate-them-from-your-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

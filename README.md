@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comments welcome](http://9gag.com/gag/a8qNW73)
- - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Whoopsies](http://9gag.com/gag/aNwMrLb)
- - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
+ - 😝 [Cutting a circle with a table saw](http://9gag.com/gag/a04gYgB)
+ - 😝 [Good prank](http://9gag.com/gag/aZDXNeW)
+ - 💣 [Lost my best friend tonight. R.I.P. Benny. March 2009 - 21.10.2023](http://9gag.com/gag/az2yVoz)
+ - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
 
 ---
 

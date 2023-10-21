@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Report: seven unreliable X accounts, some promoted by Elon Musk, are dominating news on X around the Israel-Hamas war, outpacing mainstream news outlets &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/231021/p10#a231021p10)
  - [Hands on with the best alternatives to Apple&#39;s ill-fated leather case](https://appleinsider.com/articles/23/10/21/hands-on-with-the-best-alternatives-to-apples-ill-fated-leather-case?utm_medium=rss)
  - [Microsoft fixes the Excel feature that was wrecking scientific data](https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed)
- - [A US jury finds Google guilty of gender bias and awards female executive Ulku Rowe $1M+, in the first such case filed against Google after 2018&#39;s mass walkouts &lpar;Beth Wang/Bloomberg Law&rpar;](http://www.techmeme.com/231021/p9#a231021p9)
- - [Google owes executive $1 million after losing gender bias lawsuit](https://www.theverge.com/2023/10/21/23926501/google-cloud-lawsuit-ulku-rowe-verdict)<!-- TECH:END -->
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2023     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
+ - [Best 3D Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

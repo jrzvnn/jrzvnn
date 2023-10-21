@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [As soon as they make one that can make a sandwich these modern women are done for. LOL](http://9gag.com/gag/aPgLvvQ)
  - 😝 [Which fruit is named after the color it has?](http://9gag.com/gag/a5XALxq)
- - 😝 [500.000 a man has to make to be able to date her...](http://9gag.com/gag/axoKNwD)
- - 💣 [Broke gamers would get it.](http://9gag.com/gag/aKEZgG6)
+ - 💣 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
  - 😝 [The spooky spirit is in your head now, isn&#39;t it?](http://9gag.com/gag/aL1oQv5)
- - 👉 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)<!-- MEMES:END -->
+ - 👉 [Whoopsies](http://9gag.com/gag/aNwMrLb)<!-- MEMES:END -->
 
 ---
 

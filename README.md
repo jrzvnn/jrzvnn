@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [16 Best Deals: Gaming Headsets, Lego Kits, and iPads](https://www.wired.com/story/weekend-deals-october-21-2023/)
  - [A look at Discord&#39;s new Warning System, which limits users&#39; behavior based on their violation instead of relying on strikes, and avoids permanent bans &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231021/p4#a231021p4)
  - [Xbox and PlayStation battle it out at The Sphere](https://www.theverge.com/2023/10/21/23926271/xbox-playstation-the-sphere-las-vegas-marketing)
- - [So long, small phones](https://www.theverge.com/23913658/best-small-phone-dead-iphone-mini-z-flip-pixel-8)<!-- TECH:END -->
+ - [33 Best Advent Calendars for Kids in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

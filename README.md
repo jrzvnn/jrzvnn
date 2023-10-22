@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s How to Take a Screenshot on Windows 11     - CNET](https://www.cnet.com/tech/computing/heres-how-to-take-a-screenshot-on-windows-11/#ftag=CAD590a51e)
  - [Not a Fan of NameDrop? Here&#39;s How You Can Disable Apple&#39;s Latest Contact-Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/not-a-fan-of-namedrop-heres-how-you-can-disable-apples-latest-contact-sharing-feature/#ftag=CAD590a51e)
  - [&#39;The Black Book&#39; Is Nigeria’s First Runaway Netflix Hit](https://www.wired.com/story/the-black-book-is-nigerias-first-runaway-netflix-hit/)
  - [How Russia helped overthrow governments in Burkina Faso and the surrounding French-speaking Sahel region of Africa using online disinformation campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231022/p1#a231022p1)
- - [Packers vs. Broncos Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-broncos-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
- - [Chargers vs. Chiefs Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chargers-vs-chiefs-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Packers vs. Broncos Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-broncos-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

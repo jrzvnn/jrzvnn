@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 💣 [What we really want](http://9gag.com/gag/a7qgb2r)
- - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
- - 👉 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)<!-- MEMES:END -->
+ - 😝 [The Las Vegas Sphere Looks at Planes](http://9gag.com/gag/armEN7d)
+ - 😝 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
+ - 💣 [Critics at its best, detached from reality &lpar;the movie about old dad making fun of woke culture&rpar;](http://9gag.com/gag/amAQzb6)
+ - 😝 [Now do this in Chicago](http://9gag.com/gag/aXn3wnb)
+ - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
 
 ---
 

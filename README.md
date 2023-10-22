@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gurman: Apple is planning a &quot;Mac-centered product launch&quot; by the end of October that could see the release of an updated 24-inch iMac &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/231022/p5#a231022p5)
  - [Sources: Apple was caught off guard by the generative AI fever and is on course to spend ~$1B/year to deploy the tech across iOS 18, Siri, Music, and other apps &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231022/p4#a231022p4)
  - [Apple Vision Pro employee training starts very early in 2024](https://appleinsider.com/articles/23/10/22/apple-plans-employee-training-ahead-of-apple-vision-pro-launch?utm_medium=rss)
  - [Apple plans more AI in iOS, improved Siri in $1B technology push](https://appleinsider.com/articles/23/10/22/apple-plans-more-ai-in-ios-improved-siri-in-1b-technology-push?utm_medium=rss)
- - [The Global Times: China launches an investigation into Foxconn over tax and land use and inspects multiple sites; Foxconn plans to cooperate &lpar;Financial Times&rpar;](http://www.techmeme.com/231022/p3#a231022p3)
- - [Larger 32-inch iMac Pro rumored to hit store shelves in late 2024](https://appleinsider.com/articles/23/10/22/larger-32-inch-imac-pro-rumored-to-hit-store-shelves-in-late-2024?utm_medium=rss)<!-- TECH:END -->
+ - [The Global Times: China launches an investigation into Foxconn over tax and land use and inspects multiple sites; Foxconn plans to cooperate &lpar;Financial Times&rpar;](http://www.techmeme.com/231022/p3#a231022p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

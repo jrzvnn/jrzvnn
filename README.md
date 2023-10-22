@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, tech competition between the US and China, representation of women and PoC in AI, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)
+ - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)
  - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)
  - [Daily deals Oct. 22: M1 MacBook Air $799, Apple Watch Ultra $694, 3 free months of Sirius XM, more](https://appleinsider.com/articles/23/10/22/daily-deals-oct-22-m1-macbook-air-799-apple-watch-ultra-694-3-free-months-of-sirius-xm-more?utm_medium=rss)
- - [Grab a Monster Bluetooth Speaker While They&#39;re Up to $150 Off at Amazon     - CNET](https://www.cnet.com/deals/grab-a-monster-bluetooth-speaker-while-theyre-up-to-150-off-at-amazon/#ftag=CAD590a51e)
- - [Gurman: Apple is planning a &quot;Mac-centered product launch&quot; by the end of October that could see the release of an updated 24-inch iMac &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/231022/p5#a231022p5)
- - [Take Care of Your Eyes Naturally With These 10 Tips     - CNET](https://www.cnet.com/health/personal-care/take-care-of-your-eyes-naturally-with-these-10-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab a Monster Bluetooth Speaker While They&#39;re Up to $150 Off at Amazon     - CNET](https://www.cnet.com/deals/grab-a-monster-bluetooth-speaker-while-theyre-up-to-150-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

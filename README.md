@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
  - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 💣 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
  - 👉 [You like wh**es?](http://9gag.com/gag/aME7GZ1)<!-- MEMES:END -->
 
 ---

@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)
  - [Daily deals Oct. 22: M1 MacBook Air $799, Apple Watch Ultra $694, 3 free months of Sirius XM, more](https://appleinsider.com/articles/23/10/22/daily-deals-oct-22-m1-macbook-air-799-apple-watch-ultra-694-3-free-months-of-sirius-xm-more?utm_medium=rss)
+ - [Grab a Monster Bluetooth Speaker While They&#39;re Up to $150 Off at Amazon     - CNET](https://www.cnet.com/deals/grab-a-monster-bluetooth-speaker-while-theyre-up-to-150-off-at-amazon/#ftag=CAD590a51e)
  - [Gurman: Apple is planning a &quot;Mac-centered product launch&quot; by the end of October that could see the release of an updated 24-inch iMac &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/231022/p5#a231022p5)
- - [Take Care of Your Eyes Naturally With These 10 Tips     - CNET](https://www.cnet.com/health/personal-care/take-care-of-your-eyes-naturally-with-these-10-tips/#ftag=CAD590a51e)
- - [Sources: Apple was caught off guard by the generative AI fever and is on course to spend ~$1B/year to deploy the tech across iOS 18, Siri, Music, and other apps &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231022/p4#a231022p4)<!-- TECH:END -->
+ - [Take Care of Your Eyes Naturally With These 10 Tips     - CNET](https://www.cnet.com/health/personal-care/take-care-of-your-eyes-naturally-with-these-10-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

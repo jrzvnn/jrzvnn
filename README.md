@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
- - 😝 [What is this animal called? Kurwa?](http://9gag.com/gag/aeQz62W)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 👉 [What we really want](http://9gag.com/gag/a7qgb2r)<!-- MEMES:END -->
+ - 😝 [I love whiskey and this man is 100% right](http://9gag.com/gag/a8qNMN6)
+ - 😝 [Love this scene](http://9gag.com/gag/ago9GQ1)
+ - 💣 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
+ - 😝 [Karma](http://9gag.com/gag/aEqK7dN)
+ - 👉 [What is this animal called? Kurwa?](http://9gag.com/gag/aeQz62W)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
- - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
  - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 👉 [What we really want](http://9gag.com/gag/a7qgb2r)<!-- MEMES:END -->
+ - 💣 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
+ - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
 
 ---
 

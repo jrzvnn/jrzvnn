@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rumored to launch new Macs in October](https://appleinsider.com/articles/23/10/22/apple-rumored-to-launch-new-macs-in-october?utm_medium=rss)
  - [Martin Goetz, holder of the first US software patent, died on October 10 at 93; Goetz was awarded a patent for data-sorting software for mainframes in 1968 &lpar;Richard Sandomir/New York Times&rpar;](http://www.techmeme.com/231022/p2#a231022p2)
  - [Prototype HomePod with LCD touchscreen surfaces in photo](https://appleinsider.com/articles/23/10/22/prototype-homepod-with-lcd-touchscreen-surfaces-in-photo?utm_medium=rss)
  - [Ultrahuman Ring Air Review: A Subscription-Free Smart Ring](https://www.wired.com/review/ultrahuman-ring-air/)
- - [This Contest Put Theories of Consciousness to the Test. Here’s What It Really Proved](https://www.wired.com/story/this-contest-put-theories-of-consciousness-to-the-test-heres-what-it-really-proved/)
- - [Mario and Spider-Man are both back in a big way](https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter)<!-- TECH:END -->
+ - [This Contest Put Theories of Consciousness to the Test. Here’s What It Really Proved](https://www.wired.com/story/this-contest-put-theories-of-consciousness-to-the-test-heres-what-it-really-proved/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

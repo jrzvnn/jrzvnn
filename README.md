@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whose ready for Eng vs SA rugby?](http://9gag.com/gag/aME7GA6)
- - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
- - 💣 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 👉 [I\u2019m interested in the counter argument or debunk.](http://9gag.com/gag/aL1o2yW)<!-- MEMES:END -->
+ - 😝 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)
+ - 😝 [I\u2019m interested in the counter argument or debunk.](http://9gag.com/gag/aL1o2yW)
+ - 💣 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 👉 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)<!-- MEMES:END -->
 
 ---
 

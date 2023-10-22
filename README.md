@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Scammers exploit overheating issues in iPhone 15](https://appleinsider.com/articles/23/10/22/crime-blotter-scammers-exploit-overheating-issues-in-iphone-15?utm_medium=rss)
  - [Plufl Human Dog Bed Review: Comfy and Cozy](https://www.wired.com/review/plufl-human-dog-bed/)
  - [Everyone Is a Luddite Now](https://www.wired.com/story/everyone-is-a-luddite-now/)
  - [Why Best Buy&#39;s Decision to Drop DVDs Hits So Hard     - CNET](https://www.cnet.com/news/best-buy-is-ditching-dvds-i-get-it-but-dammit-ill-miss-them/#ftag=CAD590a51e)
- - [Cost of Medicare Premiums Will Go Up in 2024. Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/cost-of-medicare-premiums-will-go-up-in-2024-heres-how-much/#ftag=CAD590a51e)
- - [The 17 Best Food and Drink Subscriptions to Gift for 2023     - CNET](https://www.cnet.com/news/best-food-subscriptions-to-gift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cost of Medicare Premiums Will Go Up in 2024. Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/cost-of-medicare-premiums-will-go-up-in-2024-heres-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

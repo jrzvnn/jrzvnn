@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
+ - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
  - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
- - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 👉 [You like wh**es?](http://9gag.com/gag/aME7GZ1)<!-- MEMES:END -->
+ - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 👉 [What we really want](http://9gag.com/gag/a7qgb2r)<!-- MEMES:END -->
 
 ---
 

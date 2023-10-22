@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ultrahuman Ring Air Review: A Subscription-Free Smart Ring](https://www.wired.com/review/ultrahuman-ring-air/)
+ - [This Contest Put Theories of Consciousness to the Test. Here’s What It Really Proved](https://www.wired.com/story/this-contest-put-theories-of-consciousness-to-the-test-heres-what-it-really-proved/)
+ - [Mario and Spider-Man are both back in a big way](https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter)
  - [Crime blotter: Scammers exploit overheating issues in iPhone 15](https://appleinsider.com/articles/23/10/22/crime-blotter-scammers-exploit-overheating-issues-in-iphone-15?utm_medium=rss)
- - [Plufl Human Dog Bed Review: Comfy and Cozy](https://www.wired.com/review/plufl-human-dog-bed/)
- - [Everyone Is a Luddite Now](https://www.wired.com/story/everyone-is-a-luddite-now/)
- - [Why Best Buy&#39;s Decision to Drop DVDs Hits So Hard     - CNET](https://www.cnet.com/news/best-buy-is-ditching-dvds-i-get-it-but-dammit-ill-miss-them/#ftag=CAD590a51e)
- - [Cost of Medicare Premiums Will Go Up in 2024. Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/cost-of-medicare-premiums-will-go-up-in-2024-heres-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Plufl Human Dog Bed Review: Comfy and Cozy](https://www.wired.com/review/plufl-human-dog-bed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

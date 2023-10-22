@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
  - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
  - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
+ - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 😝 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
+ - 👉 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)<!-- MEMES:END -->
 
 ---
 

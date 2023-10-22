@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
- - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 💣 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 👉 [Hell to the no no](http://9gag.com/gag/aDY9o1N)<!-- MEMES:END -->
+ - 😝 [That&#39;s a proud daddy over there](http://9gag.com/gag/aKEZBOg)
+ - 😝 [Fine like wine.](http://9gag.com/gag/a04gpXd)
+ - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
+ - 👉 [Points to Slytherin](http://9gag.com/gag/anzZBvo)<!-- MEMES:END -->
 
 ---
 

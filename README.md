@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 😝 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
- - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [Let&#39;s play a little game, shall we?](http://9gag.com/gag/aXn3Xwg)
+ - 😝 [I\u2019m interested in the counter argument or debunk.](http://9gag.com/gag/aL1o2yW)
+ - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
  - 👉 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)<!-- MEMES:END -->
 
 ---

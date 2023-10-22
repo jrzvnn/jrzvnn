@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Let&#39;s play a little game, shall we?](http://9gag.com/gag/aXn3Xwg)
  - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 💣 [Had to look twice](http://9gag.com/gag/axoKN9W)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 👉 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)<!-- MEMES:END -->
+ - 💣 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 👉 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
- - 💣 [3 &#39;youths&#39; tried to break into lone woman&#39;s home at night, but...](http://9gag.com/gag/aL1oM7V)
- - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)<!-- MEMES:END -->
+ - 😝 [After his visit to israel](http://9gag.com/gag/a8qNp7Z)
+ - 😝 [Lol.](http://9gag.com/gag/a4ogj6Z)
+ - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Media at it&#39;s best](http://9gag.com/gag/aNwMdL6)
+ - 👉 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Russia helped overthrow governments in Burkina Faso and the surrounding French-speaking Sahel region of Africa using online disinformation campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231022/p1#a231022p1)
+ - [Today Only: QVC Is Offering the Ninja Foodi Double Oven for $240 &lpar;Save $90&rpar;     - CNET](https://www.cnet.com/deals/today-only-qvc-is-offering-the-ninja-foodi-double-oven-for-240-save-90/#ftag=CAD590a51e)
+ - [Best Open Wireless Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)
  - [Best King-Size Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [Hivebrite, a SaaS community engagement platform used by Boeing, the Obama Foundation, and others, raised a $37M Series B, bringing its total funding to $60M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/231021/p11#a231021p11)
- - [Best Garmin Deals: Save Up to $500 on Garmin Wearables and More     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [Report: seven unreliable X accounts, some promoted by Elon Musk, dominated English-language news on X around the Israel-Hamas war from October 7 to October 10 &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/231021/p10#a231021p10)
- - [Hands on with the best alternatives to Apple&#39;s ill-fated leather case](https://appleinsider.com/articles/23/10/21/hands-on-with-the-best-alternatives-to-apples-ill-fated-leather-case?utm_medium=rss)<!-- TECH:END -->
+ - [Hivebrite, a SaaS community engagement platform used by Boeing, the Obama Foundation, and others, raised a $37M Series B, bringing its total funding to $60M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/231021/p11#a231021p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

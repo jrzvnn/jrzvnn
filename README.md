@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Larger 32-inch iMac Pro rumored to hit store shelves in late 2024](https://appleinsider.com/articles/23/10/22/larger-32-inch-imac-pro-rumored-to-hit-store-shelves-in-late-2024?utm_medium=rss)
+ - [Apple may be planning a surprise October M3 iMac announcement](https://www.theverge.com/2023/10/22/23927184/apple-m3-imac-13-inch-macbook-pro-rumored-october-announcement)
  - [Apple rumored to launch new Macs in October](https://appleinsider.com/articles/23/10/22/apple-rumored-to-launch-new-macs-in-october?utm_medium=rss)
  - [Crime blotter: Scammers exploit overheating issues in iPhone 15](https://appleinsider.com/articles/23/10/22/crime-blotter-scammers-exploit-overheating-issues-in-iphone-15?utm_medium=rss)
- - [13 Best Crossplay Games for Consoles and PC &lpar;2023&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)
- - [Martin Goetz, holder of the first US software patent, died on October 10 at 93; Goetz was awarded a patent for data-sorting software for mainframes in 1968 &lpar;Richard Sandomir/New York Times&rpar;](http://www.techmeme.com/231022/p2#a231022p2)
- - [Prototype HomePod with LCD touchscreen surfaces in photo](https://appleinsider.com/articles/23/10/22/prototype-homepod-with-lcd-touchscreen-surfaces-in-photo?utm_medium=rss)<!-- TECH:END -->
+ - [13 Best Crossplay Games for Consoles and PC &lpar;2023&rpar;: Xbox, PlayStation, Switch, Mobile](https://www.wired.com/story/crossplay-games-console-pc-switch-mobile/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

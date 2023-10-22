@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 💣 [Let&#39;s play a little game, shall we?](http://9gag.com/gag/aXn3Xwg)
- - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
- - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
+ - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
+ - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 💣 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 👉 [Hell to the no no](http://9gag.com/gag/aDY9o1N)<!-- MEMES:END -->
 
 ---
 

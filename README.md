@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Xencelabs Pen Display 24 review: Finally, a worthy Wacom competitor](https://appleinsider.com/articles/23/10/22/xencelabs-pen-display-24-review-finally-a-worthy-wacom-competitor?utm_medium=rss)
+ - [Best Phone Deals: $1,000 Off Samsung Foldables, Free iPhone SE and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
  - [Crunchbase: Black US founders raised ~$39.7M, or 0.13% of all capital allocated to startups in Q3 2023, down from $212M in Q2, $352M in Q1, and $1B in Q3 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231022/p7#a231022p7)
- - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)
- - [Best Roku Deals: Up to $11 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
- - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, US and China tech competition, the representation of women and PoC in AI discussions, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)<!-- TECH:END -->
+ - [Home Generator Buying Guide     - CNET](https://www.cnet.com/home/energy-and-utilities/home-generator-buying-guide/#ftag=CAD590a51e)
+ - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

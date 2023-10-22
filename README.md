@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 😝 [I\u2019m interested in the counter argument or debunk.](http://9gag.com/gag/aL1o2yW)
- - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
- - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
+ - 😝 [You racist](http://9gag.com/gag/abvD66p)
+ - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 👉 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)<!-- MEMES:END -->
 
 ---
 

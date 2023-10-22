@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [What total hypocrit look like](http://9gag.com/gag/aL1oMDM)
- - 💣 [After his visit to israel](http://9gag.com/gag/a8qNp7Z)
+ - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
  - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 👉 [A bitter pill to swallow...](http://9gag.com/gag/aVbreNv)<!-- MEMES:END -->
+ - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
+ - 👉 [Nice try](http://9gag.com/gag/aNwMdpw)<!-- MEMES:END -->
 
 ---
 

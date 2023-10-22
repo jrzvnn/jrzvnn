@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s play a little game, shall we?](http://9gag.com/gag/aXn3Xwg)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 👉 [What the f**k is this shit?](http://9gag.com/gag/a9qwdLZ)<!-- MEMES:END -->
+ - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [Had to look twice](http://9gag.com/gag/axoKN9W)
+ - 💣 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 👉 [Hell to the no no](http://9gag.com/gag/aDY9o1N)<!-- MEMES:END -->
 
 ---
 

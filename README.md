@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
+ - 💣 [3 &#39;youths&#39; tried to break into lone woman&#39;s home at night, but...](http://9gag.com/gag/aL1oM7V)
  - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
- - 👉 [Nice try](http://9gag.com/gag/aNwMdpw)<!-- MEMES:END -->
+ - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)<!-- MEMES:END -->
 
 ---
 

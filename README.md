@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans more AI in iOS, improved Siri in $1B technology push](https://appleinsider.com/articles/23/10/22/apple-plans-more-ai-in-ios-improved-siri-in-1b-technology-push?utm_medium=rss)
  - [The Global Times: China launches an investigation into Foxconn over tax and land use and inspects multiple sites; Foxconn plans to cooperate &lpar;Financial Times&rpar;](http://www.techmeme.com/231022/p3#a231022p3)
  - [Larger 32-inch iMac Pro rumored to hit store shelves in late 2024](https://appleinsider.com/articles/23/10/22/larger-32-inch-imac-pro-rumored-to-hit-store-shelves-in-late-2024?utm_medium=rss)
- - [Apple may be planning a surprise October M3 iMac announcement](https://www.theverge.com/2023/10/22/23927184/apple-m3-imac-13-inch-macbook-pro-rumored-october-announcement)
- - [Apple rumored to launch new Macs in October](https://appleinsider.com/articles/23/10/22/apple-rumored-to-launch-new-macs-in-october?utm_medium=rss)
- - [Crime blotter: Scammers exploit overheating issues in iPhone 15](https://appleinsider.com/articles/23/10/22/crime-blotter-scammers-exploit-overheating-issues-in-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may be planning a surprise October iMac announcement](https://www.theverge.com/2023/10/22/23927184/apple-m3-imac-13-inch-macbook-pro-rumored-october-announcement)
+ - [Apple rumored to launch new Macs in October](https://appleinsider.com/articles/23/10/22/apple-rumored-to-launch-new-macs-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
+ - 😝 [What is this animal called? Kurwa?](http://9gag.com/gag/aeQz62W)
+ - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
  - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 💣 [What is this animal called? Kurwa?](http://9gag.com/gag/aeQz62W)
- - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
- - 👉 [Hell to the no no](http://9gag.com/gag/aDY9o1N)<!-- MEMES:END -->
+ - 👉 [What we really want](http://9gag.com/gag/a7qgb2r)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 22: M1 MacBook Air $799, Apple Watch Ultra $694, 3 free months of Sirius XM, more](https://appleinsider.com/articles/23/10/22/daily-deals-oct-22-m1-macbook-air-799-apple-watch-ultra-694-3-free-months-of-sirius-xm-more?utm_medium=rss)
  - [Gurman: Apple is planning a &quot;Mac-centered product launch&quot; by the end of October that could see the release of an updated 24-inch iMac &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/231022/p5#a231022p5)
  - [Take Care of Your Eyes Naturally With These 10 Tips     - CNET](https://www.cnet.com/health/personal-care/take-care-of-your-eyes-naturally-with-these-10-tips/#ftag=CAD590a51e)
  - [Sources: Apple was caught off guard by the generative AI fever and is on course to spend ~$1B/year to deploy the tech across iOS 18, Siri, Music, and other apps &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231022/p4#a231022p4)
- - [Apple Vision Pro employee training starts very early in 2024](https://appleinsider.com/articles/23/10/22/apple-plans-employee-training-ahead-of-apple-vision-pro-launch?utm_medium=rss)
- - [This Stunning OLED Asus Laptop Is $450 Off for Today Only at Woot     - CNET](https://www.cnet.com/deals/this-stunning-oled-asus-laptop-is-450-off-for-today-only-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro employee training starts very early in 2024](https://appleinsider.com/articles/23/10/22/apple-plans-employee-training-ahead-of-apple-vision-pro-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

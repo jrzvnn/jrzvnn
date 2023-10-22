@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s play a little game, shall we?](http://9gag.com/gag/aXn3Xwg)
- - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 💣 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 👉 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)<!-- MEMES:END -->
+ - 😝 [Woman vs Man Stream](http://9gag.com/gag/ago9VqW)
+ - 😝 [That&#39;s a proud daddy over there](http://9gag.com/gag/aKEZBOg)
+ - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
+ - 👉 [Points to Slytherin](http://9gag.com/gag/anzZBvo)<!-- MEMES:END -->
 
 ---
 

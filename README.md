@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love whiskey and this man is 100% right](http://9gag.com/gag/a8qNMN6)
- - 😝 [Love this scene](http://9gag.com/gag/ago9GQ1)
- - 💣 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
- - 😝 [Karma](http://9gag.com/gag/aEqK7dN)
- - 👉 [What is this animal called? Kurwa?](http://9gag.com/gag/aeQz62W)<!-- MEMES:END -->
+ - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
+ - 😝 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
+ - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 👉 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)<!-- MEMES:END -->
 
 ---
 

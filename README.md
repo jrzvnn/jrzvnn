@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 😝 [I hate this.](http://9gag.com/gag/a6qgwA2)
+ - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
  - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 👉 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)<!-- MEMES:END -->
+ - 👉 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)<!-- MEMES:END -->
 
 ---
 

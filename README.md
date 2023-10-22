@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman vs Man Stream](http://9gag.com/gag/ago9VqW)
- - 😝 [That&#39;s a proud daddy over there](http://9gag.com/gag/aKEZBOg)
- - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
- - 👉 [Points to Slytherin](http://9gag.com/gag/anzZBvo)<!-- MEMES:END -->
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 💣 [Let&#39;s play a little game, shall we?](http://9gag.com/gag/aXn3Xwg)
+ - 😝 [The Cheerleaders &lpar;1973&rpar;](http://9gag.com/gag/aPgLy6V)
+ - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
 
 ---
 

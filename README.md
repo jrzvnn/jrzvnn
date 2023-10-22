@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 😝 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 👉 [What we really want](http://9gag.com/gag/a7qgb2r)<!-- MEMES:END -->
+ - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
+ - 💣 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
 
 ---
 

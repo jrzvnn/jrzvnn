@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 😝 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
  - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 💣 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
- - 😝 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
- - 👉 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/a9qwM46)
+ - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 👉 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)<!-- MEMES:END -->
 
 ---
 

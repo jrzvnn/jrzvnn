@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy again](http://9gag.com/gag/anzZydn)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
  - 😝 [I\u2019m interested in the counter argument or debunk.](http://9gag.com/gag/aL1o2yW)
- - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)<!-- MEMES:END -->
+ - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
 
 ---
 

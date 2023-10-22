@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 😝 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)
- - 💣 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
- - 😝 [You racist](http://9gag.com/gag/abvD66p)
- - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
+ - 😝 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
+ - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
+ - 💣 [Clown world lvl over 9000!](http://9gag.com/gag/avQqgQq)
+ - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 👉 [You like wh**es?](http://9gag.com/gag/aME7GZ1)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Black Book&#39; Is Nigeria’s First Runaway Netflix Hit](https://www.wired.com/story/the-black-book-is-nigerias-first-runaway-netflix-hit/)
  - [How Russia helped overthrow governments in Burkina Faso and the surrounding French-speaking Sahel region of Africa using online disinformation campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231022/p1#a231022p1)
  - [Today Only: QVC Is Offering the Ninja Foodi Double Oven for $240 &lpar;Save $90&rpar;     - CNET](https://www.cnet.com/deals/today-only-qvc-is-offering-the-ninja-foodi-double-oven-for-240-save-90/#ftag=CAD590a51e)
  - [Best Open Wireless Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)
- - [Best King-Size Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [Hivebrite, a SaaS community engagement platform used by Boeing, the Obama Foundation, and others, raised a $37M Series B, bringing its total funding to $60M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/231021/p11#a231021p11)<!-- TECH:END -->
+ - [Best King-Size Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [Nice try](http://9gag.com/gag/aNwMdpw)
- - 😝 [You&#39;ll never find another girl like me*](http://9gag.com/gag/ago9q9w)
- - 👉 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)<!-- MEMES:END -->
+ - 😝 [If you&#39;re tired of Tetten, then how about some Clam Slam?](http://9gag.com/gag/avQqrKE)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)
+ - 👉 [That guy again](http://9gag.com/gag/anzZydn)<!-- MEMES:END -->
 
 ---
 

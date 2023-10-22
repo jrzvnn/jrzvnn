@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
- - 💣 [It\u2019s nice to know that what comes around goes around.](http://9gag.com/gag/aKEZg06)
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 👉 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)<!-- MEMES:END -->
+ - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 💣 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)
+ - 😝 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)
+ - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
 
 ---
 

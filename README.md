@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After his visit to israel](http://9gag.com/gag/a8qNp7Z)
- - 😝 [Lol.](http://9gag.com/gag/a4ogj6Z)
- - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
- - 😝 [Media at it&#39;s best](http://9gag.com/gag/aNwMdL6)
- - 👉 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)<!-- MEMES:END -->
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 💣 [Nice try](http://9gag.com/gag/aNwMdpw)
+ - 😝 [You&#39;ll never find another girl like me*](http://9gag.com/gag/ago9q9w)
+ - 👉 [Keanu reeves snaps at pushy fans](http://9gag.com/gag/anzZKxV)<!-- MEMES:END -->
 
 ---
 

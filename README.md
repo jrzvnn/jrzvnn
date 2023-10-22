@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You racist](http://9gag.com/gag/abvD66p)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 👉 [You like wh**es?](http://9gag.com/gag/aME7GZ1)<!-- MEMES:END -->
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 👉 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)<!-- MEMES:END -->
 
 ---
 

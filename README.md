@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
- - 😝 [3 cute puppies saying hi to an aggressive biciclist](http://9gag.com/gag/aVbrO6v)
- - 💣 [Holy Shit i cant believe this works. anyone can explain the physics?](http://9gag.com/gag/aqeM5gL)
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 💣 [Hell to the no no](http://9gag.com/gag/aDY9o1N)
+ - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
  - 👉 [Gorlock is cool and a didnt know](http://9gag.com/gag/aL1o2VA)<!-- MEMES:END -->
 
 ---

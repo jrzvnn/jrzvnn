@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a proud daddy over there](http://9gag.com/gag/aKEZBOg)
- - 😝 [Fine like wine.](http://9gag.com/gag/a04gpXd)
- - 💣 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 😝 [Outstanding move](http://9gag.com/gag/aREWPRy)
- - 👉 [Points to Slytherin](http://9gag.com/gag/anzZBvo)<!-- MEMES:END -->
+ - 😝 [Snake caught in an Indian Village](http://9gag.com/gag/adPA6W9)
+ - 😝 [Nee, We&#39;re just men](http://9gag.com/gag/adPAY89)
+ - 💣 [Send your girlfriend ...](http://9gag.com/gag/aA0AVdZ)
+ - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
+ - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
 
 ---
 

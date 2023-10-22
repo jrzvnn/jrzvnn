@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 💣 [What we really want](http://9gag.com/gag/a7qgb2r)
- - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
- - 👉 [Croco dinner](http://9gag.com/gag/aBdzYxz)<!-- MEMES:END -->
+ - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 😝 [What total hypocrit look like](http://9gag.com/gag/aL1oMDM)
+ - 💣 [After his visit to israel](http://9gag.com/gag/a8qNp7Z)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 👉 [A bitter pill to swallow...](http://9gag.com/gag/aVbreNv)<!-- MEMES:END -->
 
 ---
 

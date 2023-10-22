@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xencelabs Pen Display 24 review: Finally, a worthy Wacom competitor](https://appleinsider.com/articles/23/10/22/xencelabs-pen-display-24-review-finally-a-worthy-wacom-competitor?utm_medium=rss)
+ - [Crunchbase: Black US founders raised ~$39.7M, or 0.13% of all capital allocated to startups in Q3 2023, down from $212M in Q2, $352M in Q1, and $1B in Q3 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231022/p7#a231022p7)
  - [How to use PDF Debugger to inspect a PDF file&#39;s code](https://appleinsider.com/inside/macos-sonoma/tips/how-to-use-pdf-debugger-to-inspect-a-pdf-files-code?utm_medium=rss)
  - [Best Roku Deals: Up to $11 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
- - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, US and China tech competition, the representation of women and PoC in AI discussions, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)
- - [The best Android phone to buy in 2023](https://www.theverge.com/23674658/best-android-phone)
- - [Cardinals vs. Seahawks Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cardinals-vs-seahawks-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Fei-Fei Li and NTIA head Alan Davidson on regulating AI, US and China tech competition, the representation of women and PoC in AI discussions, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231022/p6#a231022p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

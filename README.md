@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s How to Take a Screenshot on Windows 11     - CNET](https://www.cnet.com/tech/computing/heres-how-to-take-a-screenshot-on-windows-11/#ftag=CAD590a51e)
- - [Not a Fan of NameDrop? Here&#39;s How You Can Disable Apple&#39;s Latest Contact-Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/not-a-fan-of-namedrop-heres-how-you-can-disable-apples-latest-contact-sharing-feature/#ftag=CAD590a51e)
- - [&#39;The Black Book&#39; Is Nigeria’s First Runaway Netflix Hit](https://www.wired.com/story/the-black-book-is-nigerias-first-runaway-netflix-hit/)
- - [How Russia helped overthrow governments in Burkina Faso and the surrounding French-speaking Sahel region of Africa using online disinformation campaigns &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/231022/p1#a231022p1)
- - [Packers vs. Broncos Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-broncos-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Plufl Human Dog Bed Review: Comfy and Cozy](https://www.wired.com/review/plufl-human-dog-bed/)
+ - [Everyone Is a Luddite Now](https://www.wired.com/story/everyone-is-a-luddite-now/)
+ - [Why Best Buy&#39;s Decision to Drop DVDs Hits So Hard     - CNET](https://www.cnet.com/news/best-buy-is-ditching-dvds-i-get-it-but-dammit-ill-miss-them/#ftag=CAD590a51e)
+ - [Cost of Medicare Premiums Will Go Up in 2024. Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/cost-of-medicare-premiums-will-go-up-in-2024-heres-how-much/#ftag=CAD590a51e)
+ - [The 17 Best Food and Drink Subscriptions to Gift for 2023     - CNET](https://www.cnet.com/news/best-food-subscriptions-to-gift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

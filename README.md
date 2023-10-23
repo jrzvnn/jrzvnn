@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
+ - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
  - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---

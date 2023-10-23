@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A profile of China-based Luxshare, which started as Foxconn&#39;s electronics supplier and is now, according to analysts, eating into Foxconn&#39;s Apple business &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/231023/p3#a231023p3)
  - [The Metal Gear Solid: Master Collection is an exhaustive bundle of stealth classics](https://www.theverge.com/23925406/metal-gear-solid-master-collection-volume-1-review-sons-of-liberty-snake-eater)
- - [A profile of Scale AI, which has a $249M contract to provide AI tech to the US DoD, and was the first AI company to have an LLM deployed on a classified network &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/231023/p2#a231023p2)
+ - [A profile of data labeler Scale AI, which has a $249M contract with the US DoD and was the first AI company to have an LLM deployed on a classified network &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/231023/p2#a231023p2)
  - [Britain’s Big AI Summit Is a Doom-Obsessed Mess](https://www.wired.com/story/britains-big-ai-summit-doom-obsessed-mess/)
  - [Japan&#39;s FTC opens an investigation into Google over alleged antitrust violations; a report says the focus will be if Google asked OEMs to prioritize its search &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p1#a231023p1)<!-- TECH:END -->
 

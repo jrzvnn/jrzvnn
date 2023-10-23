@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockaid, which offers Web3 security tools for fraud, phishing, and hacks and claims to have prevented 1.3M+ attacks, raised a $6M seed and $27M Series A &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231023/p11#a231023p11)
- - [SpaceX and the European Space Agency sign an agreement for two launches in 2024, each carrying two Galileo satellites, to help power the bloc&#39;s satnav system &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231023/p10#a231023p10)
- - [Weibo CEO Wang Gaofei confirms China may start requiring online political and financial commentators with 1M+ followers to display real names on their accounts &lpar;Reuters&rpar;](http://www.techmeme.com/231023/p9#a231023p9)
- - [Microsoft and Sony both advertise on the The Sphere in Las Vegas, for Xbox and Spider-Man 2, respectively; a leak showed Sphere ad slots may cost up to $450K &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231023/p8#a231023p8)
- - [History Says the 1918 Flu Killed the Young and Healthy. These Bones Say Otherwise](https://www.wired.com/story/history-says-the-1918-flu-killed-the-young-and-healthy-these-bones-say-otherwise/)<!-- TECH:END -->
+ - [Microsoft updates Excel to fix automatic conversions, after scientists reworked the alphanumeric symbols to represent genes in 2020 to avoid Excel issues &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231023/p13#a231023p13)
+ - [The British Museum plans to digitize its entire collection to boost security and public access over the next five years, after 2,000 items were recently stolen &lpar;Karen K. Ho/ARTnews.com&rpar;](http://www.techmeme.com/231023/p12#a231023p12)
+ - [Sony Xperia 5 V Review: Small and Mighty but Too Pricey](https://www.wired.com/review/sony-xperia-5-v/)
+ - [The Surprising Way Clean Energy Will Help Save the Snowpack](https://www.wired.com/story/the-surprising-way-clean-energy-will-help-save-the-snowpack/)
+ - [Blockaid, which offers Web3 security tools for fraud, phishing, and hacks and claims to have prevented 1.3M+ attacks, raised a $6M seed and $27M Series A &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/231023/p11#a231023p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

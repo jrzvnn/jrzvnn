@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tinder rolls out Tinder Matchmaker, which lets loved ones view and recommend potential matches, in the US, the UK, and 13 others ahead of a global launch soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231023/p6#a231023p6)
+ - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)
  - [Uber plans to let users in Turkey&#39;s touristic Cappadocia region buy a &amp;euro;150 air balloon ride; ~10% of Turkey&#39;s 44.6M visitors in 2022 stayed in the region &lpar;Patrick Sykes/Bloomberg&rpar;](http://www.techmeme.com/231023/p5#a231023p5)
  - [Tinder now lets mom pick your next date](https://www.theverge.com/2023/10/23/23928363/tinder-matchmaker-dating-app-feature-recommendations)
- - [The Worldcoin Foundation plans to pay orb operators, who scan people into the Worldcoin network, in WLD rather than USDC in December and has issued ~134M WLD &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231023/p4#a231023p4)
- - [A profile of China-based Luxshare, which started as Foxconn&#39;s electronics supplier and is now, according to analysts, eating into Foxconn&#39;s Apple business &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/231023/p3#a231023p3)
- - [The Metal Gear Solid: Master Collection is an exhaustive bundle of stealth classics](https://www.theverge.com/23925406/metal-gear-solid-master-collection-volume-1-review-sons-of-liberty-snake-eater)<!-- TECH:END -->
+ - [The Worldcoin Foundation plans to pay orb operators, who scan people into the Worldcoin network, in WLD rather than USDC in December and has issued ~134M WLD &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/231023/p4#a231023p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

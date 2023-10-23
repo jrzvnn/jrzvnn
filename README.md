@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final day: get a Babbel Language Learning Lifetime Subscription for $149.97](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
+ - [AirTag 2 delayed, Ecobee doorbell review and more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/23/airtag-2-delayed-ecobee-doorbell-review-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
  - [After promising support for Matter and Thread, Level launches a Wi-Fi bridge instead](https://www.theverge.com/2023/10/17/23920848/level-lock-connect-wifi-bridge-matter-over-thread)
  - [Amazon rolls out passkey support on iOS and the web, letting users log in via their devices&#39; biometrics, and says support for Android is &quot;coming soon&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231023/p26#a231023p26)
- - [Amazon’s live-action Fallout series will start streaming in 2024](https://www.theverge.com/2023/10/23/23928591/amazon-prime-video-fallout-tv-series-live-action-premiere-date)
- - [Daily deals Oct. 23: 45% off Apple MagSafe Battery Pack, 34% off Apple Watch SE, Philips Wireless Headphones for $29, more](https://appleinsider.com/articles/23/10/23/daily-deals-oct-23-45-off-apple-magsafe-battery-pack-34-off-apple-watch-se-philips-wireless-headphones-for-29-more?utm_medium=rss)
- - [How Qualcomm is tech&#39;s &quot;problem child&quot;: a tense relationship with Apple, sued by Arm, investigated by regulators, disagreements with Google over Pixel, and more &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231023/p25#a231023p25)<!-- TECH:END -->
+ - [Amazon’s live-action Fallout series will start streaming in 2024](https://www.theverge.com/2023/10/23/23928591/amazon-prime-video-fallout-tv-series-live-action-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

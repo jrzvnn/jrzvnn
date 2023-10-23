@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man crosses the train tracks to harass a young lone woman and follow her](http://9gag.com/gag/a9qwrDm)
- - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
- - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 💣 [What we really want](http://9gag.com/gag/a7qgb2r)
  - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 👉 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)<!-- MEMES:END -->
+ - 👉 [A man crosses the train tracks to harass a young lone woman and follow her](http://9gag.com/gag/a9qwrDm)<!-- MEMES:END -->
 
 ---
 

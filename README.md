@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
  - 😝 [Former Meth Addict, Gets Custody Of Child Back After 7 Years](http://9gag.com/gag/aZDXBz3)
  - 💣 [You&#39;ll never find another girl like me*](http://9gag.com/gag/ago9q9w)
- - 😝 [Lol.](http://9gag.com/gag/a4ogj6Z)
- - 👉 [Free Europe!](http://9gag.com/gag/aPgLM3q)<!-- MEMES:END -->
+ - 😝 [Free Europe!](http://9gag.com/gag/aPgLM3q)
+ - 👉 [Lol.](http://9gag.com/gag/a4ogj6Z)<!-- MEMES:END -->
 
 ---
 

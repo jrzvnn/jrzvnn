@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 😝 [You can watch under my umbrella](http://9gag.com/gag/a3Zgj58)
- - 💣 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
  - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 💣 [It just hits different](http://9gag.com/gag/aME7wdP)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
 
 ---
 

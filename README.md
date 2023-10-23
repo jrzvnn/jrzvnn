@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
+ - [Best Luggage Deals: Save on Luggage at Calpak, Monos, Samsonite and More     - CNET](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)
  - [Meta says it is &quot;listening to feedback&quot; after some users find that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)
- - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)
- - [A look at Nightshade and Glaze, tools made by researchers at UChicago that help artists &quot;poison&quot; their work to confuse or break AI models that later train on it &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/231023/p35#a231023p35)
- - [The Hamas Threat of Hostage Execution Videos Looms Large Over Social Media](https://www.wired.com/story/livestream-hostages-israel-hamas-war/)
- - [Adult Perry Platypus Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-perry-platypus-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Showerhead for 2023     - CNET](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)
+ - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

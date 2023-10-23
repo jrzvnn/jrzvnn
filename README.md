@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)
  - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 💣 [It just hits different](http://9gag.com/gag/aME7wdP)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
+ - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
+ - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
 
 ---
 

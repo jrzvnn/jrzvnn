@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
- - 💣 [Asshole](http://9gag.com/gag/aA0AxQR)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 👉 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)<!-- MEMES:END -->
+ - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 👉 [The X...](http://9gag.com/gag/aBdzwmN)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ban on woke words in the US govt! Is the world starting to heal?](http://9gag.com/gag/a1PgbV8)
- - 😝 [Vampire teeth](http://9gag.com/gag/aME7AYx)
- - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [Canadians needs to rethink what they stand for](http://9gag.com/gag/aKEZV53)
- - 👉 [You just wouldn&#39;t get it](http://9gag.com/gag/aEqKYVe)<!-- MEMES:END -->
+ - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
+ - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 👉 [The X...](http://9gag.com/gag/aBdzwmN)<!-- MEMES:END -->
 
 ---
 

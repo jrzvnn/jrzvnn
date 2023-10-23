@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram is testing a toggle in its app that lets users only see posts from users paying for the Meta Verified subscription &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231023/p34#a231023p34)
+ - [Murena Kickstarter pulls in more than $150K for new phone with a built-in privacy switch](https://www.theverge.com/2023/10/23/23929090/murena-2-kickstarter-built-in-privacy-switch)
  - [Nvidia and AMD plan to launch Arm PC chips as soon as 2025, Reuters reports](https://www.theverge.com/2023/10/23/23929240/nvidia-amd-cpu-arm-pc-chips-2025-release-rumors)
  - [Samsung TVs had Steam Link, but now the game streaming app is going away](https://www.theverge.com/2023/10/23/23928965/steam-link-app-samsung-tvs-discontinued)
- - [Final Fantasy XIV has a new class and a couple of new crossovers coming soon](https://www.theverge.com/2023/10/23/23929066/final-fantasy-xiv-dawntrail-viper-class-fall-guys-ffxvi)
- - [A look at YouTube&#39;s negotiations with record labels for an AI tool that lets creators perform using major musicians&#39; voices, a pivotal moment for AI in music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231023/p33#a231023p33)
- - [Sources: Nvidia has begun designing Arm-based CPUs for Windows PCs, and AMD also plans to build Arm-based chips; source: Nvidia and AMD could sell them by 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/231023/p32#a231023p32)<!-- TECH:END -->
+ - [Final Fantasy XIV has a new class and a couple of new crossovers coming soon](https://www.theverge.com/2023/10/23/23929066/final-fantasy-xiv-dawntrail-viper-class-fall-guys-ffxvi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 💣 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 😝 [What movie villain is a horrible person but an absolute joy to watch on screen, I\u2019ll start](http://9gag.com/gag/aDY9oVd)
- - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 👉 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)<!-- MEMES:END -->
 
 ---
 

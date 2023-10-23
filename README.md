@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
- - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [Feet guys](http://9gag.com/gag/aVbr3j8)
+ - 💣 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
  - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---

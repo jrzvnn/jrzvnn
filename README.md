@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Matter? We Explain the New Smart Home Standard &lpar;2023&rpar;](https://www.wired.com/story/what-is-matter/)
  - [iPhone Error 4013: common causes and proven solutions](https://appleinsider.com/articles/23/10/23/iphone-error-4013-common-causes-and-proven-solutions?utm_medium=rss)
  - [Apple prepares to open 46th Chinese Apple Store on November 4](https://appleinsider.com/articles/23/10/23/apple-prepares-to-open-46th-chinese-apple-store-on-november-4?utm_medium=rss)
  - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
- - [Adyen, an Amsterdam-based PayPal rival, has had its stock fall ~25% since August 17, when it dropped 35%+ following its report of lower-than-expected sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p29#a231023p29)
- - [Magic is gathering Marvel heroes for giant crossover event](https://www.theverge.com/2023/10/23/23928876/marvel-magic-the-gathering-crossover-2025)<!-- TECH:END -->
+ - [Adyen, an Amsterdam-based PayPal rival, has had its stock fall ~25% since August 17, when it dropped 35%+ following its report of lower-than-expected sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p29#a231023p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

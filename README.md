@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
  - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [I\u2019m interested in the counter argument or debunk.](http://9gag.com/gag/aL1o2yW)
- - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
+ - 💣 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 😝 [If you&#39;re tired of Tetten, then how about some Clam Slam?](http://9gag.com/gag/avQqrKE)
+ - 👉 [Show me your best ones!](http://9gag.com/gag/anzZBxo)<!-- MEMES:END -->
 
 ---
 

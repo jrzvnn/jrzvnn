@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram tests a verified-only feed](https://www.theverge.com/2023/10/23/23929100/instagram-meta-verified-feed-test)
+ - [SK Hynix&#39;s stock surged 67% in 2023 due to its Nvidia deal, while Samsung&#39;s stock is up 24%, on track to underperform SK Hynix by the most in nearly a decade &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p31#a231023p31)
  - [Apple could spend $5B on servers to catch up in AI race](https://appleinsider.com/articles/23/10/23/apple-could-spend-5b-on-servers-to-catch-up-in-ai-race?utm_medium=rss)
+ - [Instagram tests a verified-only feed](https://www.theverge.com/2023/10/23/23929100/instagram-meta-verified-feed-test)
  - [TikTok tests the ability to upload 15-minute videos, after adding 10-minute videos in February 2022, as it looks to attract longer-form video creators &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231023/p30#a231023p30)
- - [What Is Matter? We Explain the New Smart Home Standard &lpar;2023&rpar;](https://www.wired.com/story/what-is-matter/)
- - [iPhone Error 4013: common causes and proven solutions](https://appleinsider.com/articles/23/10/23/iphone-error-4013-common-causes-and-proven-solutions?utm_medium=rss)<!-- TECH:END -->
+ - [What Is Matter? We Explain the New Smart Home Standard &lpar;2023&rpar;](https://www.wired.com/story/what-is-matter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

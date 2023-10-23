@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Fantasy XIV has a new class and a couple of new crossovers coming soon](https://www.theverge.com/2023/10/23/23929066/final-fantasy-xiv-dawntrail-viper-class-fall-guys-ffxvi)
+ - [A look at YouTube&#39;s negotiations with record labels for an AI tool that lets creators perform using major musicians&#39; voices, a pivotal moment for AI in music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/231023/p33#a231023p33)
  - [Sources: Nvidia has begun designing Arm-based CPUs for Windows PCs, and AMD also plans to build Arm-based chips; source: Nvidia and AMD could sell them by 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/231023/p32#a231023p32)
  - [Stellantis drops out of CES, blames UAW strike](https://www.theverge.com/2023/10/23/23929093/stellantis-ces-uaw-strike-ram-1500)
- - [SK Hynix&#39;s stock surged 67% in 2023 due to its Nvidia deal, while Samsung&#39;s stock is up 24%, on track to underperform SK Hynix by the most in nearly a decade &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p31#a231023p31)
- - [Apple could spend $5B on servers to catch up in AI race](https://appleinsider.com/articles/23/10/23/apple-could-spend-5b-on-servers-to-catch-up-in-ai-race?utm_medium=rss)
- - [Instagram tests a verified-only feed](https://www.theverge.com/2023/10/23/23929100/instagram-meta-verified-feed-test)<!-- TECH:END -->
+ - [SK Hynix&#39;s stock surged 67% in 2023 due to its Nvidia deal, while Samsung&#39;s stock is up 24%, on track to underperform SK Hynix by the most in nearly a decade &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p31#a231023p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

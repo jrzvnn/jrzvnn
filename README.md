@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
- - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
+ - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
+ - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
+ - 💣 [Your choice](http://9gag.com/gag/a2Kg4Nw)
+ - 😝 [3 hits is kinda crazy](http://9gag.com/gag/a1PgKAD)
+ - 👉 [What a `free palestine` would look like](http://9gag.com/gag/aeQze2q)<!-- MEMES:END -->
 
 ---
 

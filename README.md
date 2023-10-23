@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [That guy again](http://9gag.com/gag/anzZydn)
  - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [A man crosses the train tracks to harass a young lone woman and follow her](http://9gag.com/gag/a9qwrDm)
- - 😝 [You can watch under my umbrella](http://9gag.com/gag/a3Zgj58)
- - 👉 [What we really want](http://9gag.com/gag/a7qgb2r)<!-- MEMES:END -->
+ - 💣 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 👉 [You can watch under my umbrella](http://9gag.com/gag/a3Zgj58)<!-- MEMES:END -->
 
 ---
 

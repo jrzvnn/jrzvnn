@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
  - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
+ - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---
 

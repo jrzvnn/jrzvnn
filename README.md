@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adyen, an Amsterdam-based PayPal rival, has had its stock fall ~25% since August 17, when it dropped 35%+ following its report of lower-than-expected sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p29#a231023p29)
  - [Magic is gathering Marvel heroes for giant crossover event](https://www.theverge.com/2023/10/23/23928876/marvel-magic-the-gathering-crossover-2025)
  - [The Best iPad &lpar;2023&rpar;: Which Apple Tablets to Buy or Avoid](https://www.wired.com/gallery/the-best-ipad/)
  - [The White House announces 31 communities across the US as regional Tech Hubs that can compete for $40M to $75M each in grants &lpar;NBC News&rpar;](http://www.techmeme.com/231023/p28#a231023p28)
- - [Google Play Games for PC is getting support for 4K and some console game controllers](https://www.theverge.com/2023/10/23/23928877/google-play-games-pc-4k-game-controllers-clash-of-clans-royale)
- - [Arlo&#39;s Halloween Sale Brings First-Ever Discounts to Select Security Cameras     - CNET](https://www.cnet.com/deals/arlos-halloween-sale-brings-some-first-ever-discounts-on-select-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Play Games for PC is getting support for 4K and some console game controllers](https://www.theverge.com/2023/10/23/23928877/google-play-games-pc-4k-game-controllers-clash-of-clans-royale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

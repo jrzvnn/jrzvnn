@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 💣 [What we really want](http://9gag.com/gag/a7qgb2r)
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
 
 ---
 

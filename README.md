@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 💣 [It just hits different](http://9gag.com/gag/aME7wdP)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
+ - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---
 

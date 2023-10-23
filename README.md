@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco releases patches for two zero-day flaws that hackers exploited on 50K+ IOS XE devices; researchers note hacked hosts recently dropped from 60K to ~300 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231023/p24#a231023p24)
  - [Amazon’s noise-canceling Echo Buds are on a clearance sale for $56.99](https://www.theverge.com/2023/10/23/23928480/amazon-echo-buds-apple-watch-series-8-blink-dead-space-deal-sale)
  - [Databricks plans to acquire enterprise data firm Arcion, which raised $18M+, for $100M; Databricks raised $500M last month and bought MosaicML for $1.3B in June &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231023/p23#a231023p23)
  - [The poster’s guide to the internet of the future](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon)
- - [EngageSmart says Vista Equity Partners plans to take the payments software vendor private for ~$4B, or $23 per share; EngageSmart raised $378M in its 2021 IPO &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231023/p22#a231023p22)
- - [Sony says Marvel&#39;s Spider-Man 2 sold 2.5M copies in the first 24 hours after its October 20 release, becoming the fastest-selling PlayStation Studios game ever &lpar;Push Square&rpar;](http://www.techmeme.com/231023/p21#a231023p21)<!-- TECH:END -->
+ - [EngageSmart says Vista Equity Partners plans to take the payments software vendor private for ~$4B, or $23 per share; EngageSmart raised $378M in its 2021 IPO &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231023/p22#a231023p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

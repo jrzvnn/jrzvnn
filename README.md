@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 💣 [Dangerous](http://9gag.com/gag/aKEZqOj)
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 😝 [Vampire teeth](http://9gag.com/gag/aME7AYx)
+ - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 💣 [Canadians needs to rethink what they stand for](http://9gag.com/gag/aKEZV53)
+ - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
+ - 👉 [You just wouldn&#39;t get it](http://9gag.com/gag/aEqKYVe)<!-- MEMES:END -->
 
 ---
 

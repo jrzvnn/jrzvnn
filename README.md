@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play Games for PC is getting support for 4K and some console game controllers](https://www.theverge.com/2023/10/23/23928877/google-play-games-pc-4k-game-controllers-clash-of-clans-royale)
+ - [Arlo&#39;s Halloween Sale Brings First-Ever Discounts to Select Security Cameras     - CNET](https://www.cnet.com/deals/arlos-halloween-sale-brings-some-first-ever-discounts-on-select-security-cameras/#ftag=CAD590a51e)
+ - [Here&#39;s Where Financial Experts Are Stashing Their Savings &lpar;and So Can You&rpar;     - CNET](https://www.cnet.com/personal-finance/financial-experts-are-stashing-their-savings-in-high-yield-savings-accounts-and-cds-heres-how-theyre-doing-it/#ftag=CAD590a51e)
  - [From July 2022 to June 2023, the US led the world with $1T+ in &quot;value received on chain&quot;, but most stablecoin inflows to top services went via non-US exchanges &lpar;Chainalysis&rpar;](http://www.techmeme.com/231023/p27#a231023p27)
- - [Nvidia might have an RTX 4080 Super with 20GB of VRAM soon](https://www.theverge.com/2023/10/23/23928788/nvidia-rtx-4080-super-20gb-vram-rumor)
- - [Save $300 on Apple&#39;s M2 Max MacBook Pro 16-inch with 64GB RAM, 1TB SSD](https://appleinsider.com/articles/23/10/23/save-300-on-apples-m2-max-macbook-pro-16-inch-with-64gb-ram-1tb-ssd?utm_medium=rss)
- - [Amazon now lets you log in with Apple&#39;s Face ID or Touch ID and Passkeys](https://appleinsider.com/articles/23/10/23/amazon-now-lets-you-log-in-with-apples-face-id-or-touch-id-and-passkeys?utm_medium=rss)
- - [League’s new boy band looks ripped out of Arcane](https://www.theverge.com/2023/10/23/23928774/league-of-legends-heartsteel-paranoia-music-video-arcane)<!-- TECH:END -->
+ - [We Rated the Razer Raptor Highly, and You Can Grab It Now for $400 Off     - CNET](https://www.cnet.com/deals/we-rated-the-razer-raptor-very-highly-and-you-can-grab-it-now-for-400-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 😝 [Feet guys](http://9gag.com/gag/aVbr3j8)
- - 💣 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 💣 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
+ - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
 
 ---
 

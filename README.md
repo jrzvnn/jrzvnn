@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Your Home Heating Costs Might Be Lower This Winter     - CNET](https://www.cnet.com/how-to/why-your-home-heating-costs-might-be-lower-this-winter/#ftag=CAD590a51e)
  - [Analysis: the iPhone 15 lineup features ~10% costlier components than the iPhone 14 models; iPhone 15 Pro Max costs rose to $558, up 12% from iPhone 14 Pro Max &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231022/p8#a231022p8)
  - [Xencelabs Pen Display 24 review: Finally, a worthy Wacom competitor](https://appleinsider.com/articles/23/10/22/xencelabs-pen-display-24-review-finally-a-worthy-wacom-competitor?utm_medium=rss)
  - [Best Phone Deals: $1,000 Off Samsung Foldables, Free iPhone SE and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)
- - [Crunchbase: Black US founders raised ~$39.7M, or 0.13% of all capital allocated to startups in Q3 2023, down from $212M in Q2, $352M in Q1, and $1B in Q3 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231022/p7#a231022p7)<!-- TECH:END -->
+ - [Crunchbase: Black US founders raised ~$39.7M, or 0.13% of all capital allocated to startups in Q3 2023, down from $212M in Q2, $352M in Q1, and $1B in Q3 2022 &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/231022/p7#a231022p7)
+ - [Home Generator Buying Guide     - CNET](https://www.cnet.com/home/energy-and-utilities/home-generator-buying-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

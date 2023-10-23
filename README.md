@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nio EL6 Review: Price, Specs, Release Date, Battery](https://www.wired.com/review/review-nio-el6/)
+ - [Amazon enables passwordless passkeys on iOS and the web](https://www.theverge.com/2023/10/23/23928589/amazon-passkey-support-web-ios-shopping-mobile-app)
  - [Cisco releases patches for two zero-day flaws that hackers exploited on 50K+ IOS XE devices; researchers note hacked hosts recently dropped from 60K to ~300 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231023/p24#a231023p24)
  - [Amazon’s noise-canceling Echo Buds are on a clearance sale for $56.99](https://www.theverge.com/2023/10/23/23928480/amazon-echo-buds-apple-watch-series-8-blink-dead-space-deal-sale)
- - [Databricks plans to acquire enterprise data firm Arcion, which raised $18M+, for $100M; Databricks raised $500M last month and bought MosaicML for $1.3B in June &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231023/p23#a231023p23)
- - [The poster’s guide to the internet of the future](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon)
- - [EngageSmart says Vista Equity Partners plans to take the payments software vendor private for ~$4B, or $23 per share; EngageSmart raised $378M in its 2021 IPO &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231023/p22#a231023p22)<!-- TECH:END -->
+ - [Databricks plans to acquire enterprise data firm Arcion, which raised $18M+, for $100M; Databricks raised $500M last month and bought MosaicML for $1.3B in June &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231023/p23#a231023p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

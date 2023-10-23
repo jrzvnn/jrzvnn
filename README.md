@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vampire teeth](http://9gag.com/gag/aME7AYx)
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 💣 [Canadians needs to rethink what they stand for](http://9gag.com/gag/aKEZV53)
- - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
- - 👉 [You just wouldn&#39;t get it](http://9gag.com/gag/aEqKYVe)<!-- MEMES:END -->
+ - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 💣 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
+ - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 👉 [The X...](http://9gag.com/gag/aBdzwmN)<!-- MEMES:END -->
 
 ---
 

@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [EU may fail to pass its AI Act in 2023](https://www.theverge.com/2023/10/23/23929273/eu-ai-act-generative-regulation-models)
- - [Instagram is testing a toggle in its app that lets users only see posts from users paying for the Meta Verified subscription &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231023/p34#a231023p34)
+ - [Instagram is testing a toggle in its app that lets users only see posts from Meta Verified subscribers, as &quot;a way for businesses and creators to get discovered&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231023/p34#a231023p34)
  - [Murena Kickstarter pulls in more than $150K for new phone with a built-in privacy switch](https://www.theverge.com/2023/10/23/23929090/murena-2-kickstarter-built-in-privacy-switch)
  - [Nvidia and AMD plan to launch Arm PC chips as soon as 2025, Reuters reports](https://www.theverge.com/2023/10/23/23929240/nvidia-amd-cpu-arm-pc-chips-2025-release-rumors)
  - [Samsung TVs had Steam Link, but now the game streaming app is going away](https://www.theverge.com/2023/10/23/23928965/steam-link-app-samsung-tvs-discontinued)<!-- TECH:END -->

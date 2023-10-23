@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
- - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
- - 💣 [Your choice](http://9gag.com/gag/a2Kg4Nw)
- - 😝 [3 hits is kinda crazy](http://9gag.com/gag/a1PgKAD)
- - 👉 [What a `free palestine` would look like](http://9gag.com/gag/aeQze2q)<!-- MEMES:END -->
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 💣 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)
+ - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 👉 [The X...](http://9gag.com/gag/aBdzwmN)<!-- MEMES:END -->
 
 ---
 

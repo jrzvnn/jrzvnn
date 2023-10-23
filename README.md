@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A look at Nightshade and Glaze, tools made by researchers at UChicago that help artists &quot;poison&quot; their work to confuse or break AI models that later train on it &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/231023/p35#a231023p35)
  - [The Hamas Threat of Hostage Execution Videos Looms Large Over Social Media](https://www.wired.com/story/livestream-hostages-israel-hamas-war/)
- - [Adult Perry Platypus Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-perry-platypus-onesie-dpnl/#ftag=CAD590a51e)
- - [Adult Stich Onesie     - CNET](https://www.cnet.com/culture/fashion/stich-onesie-dpnl/#ftag=CAD590a51e)
- - [Sloth Adult Onesie     - CNET](https://www.cnet.com/culture/fashion/sloth-adult-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU may fail to pass its AI Act in 2023](https://www.theverge.com/2023/10/23/23929273/eu-ai-act-generative-regulation-models)
+ - [Instagram is testing a toggle in its app that lets users only see posts from Meta Verified subscribers, as &quot;a way for businesses and creators to get discovered&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231023/p34#a231023p34)
+ - [Murena Kickstarter pulls in more than $150K for new phone with a built-in privacy switch](https://www.theverge.com/2023/10/23/23929090/murena-2-kickstarter-built-in-privacy-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter 1.2 finally adds robot vacuums &amp; fridges to HomeKit](https://appleinsider.com/articles/23/10/23/matter-12-finally-adds-robot-vacuums-fridges-to-homekit?utm_medium=rss)
- - [Microsoft plans to spend $3.2B to expand its AI and cloud in Australia over two years, aiming to boost computing capacity by 250% and train 300K Australians &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231023/p19#a231023p19)
- - [Qualcomm’s next big Snapdragon chip has leaked, and it’s full of AI features](https://www.theverge.com/2023/10/23/23928452/snapdragon-8-gen-3-leak-specs-ai-features-qualcomm)
- - [Google proposes &quot;IP Protection&quot; for Chrome, an opt-in feature that masks IP addresses via proxy servers for &quot;qualifying traffic&quot;, rolling out in stages &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/231023/p18#a231023p18)
- - [Matter 1.2 is a big move for the smart home standard](https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices)<!-- TECH:END -->
+ - [Sony says Marvel&#39;s Spider-Man 2 sold 2.5M copies in the first 24 hours after its October 20 release, becoming the fastest-selling PlayStation Studios game ever &lpar;Push Square&rpar;](http://www.techmeme.com/231023/p21#a231023p21)
+ - [DOJ probing Tesla’s EV range after reports of exaggerated numbers](https://www.theverge.com/2023/10/23/23928563/tesla-doj-ev-range-exaggerate-investigation)
+ - [Apple&#39;s epic &#39;Killers of the Flower Moon&#39; is a hit in theaters](https://appleinsider.com/articles/23/10/23/apples-epic-killers-of-the-flower-moon-is-a-hit-in-theaters?utm_medium=rss)
+ - [An internal Qualcomm document details the upcoming Snapdragon 8 Gen 3, including support for new AI camera tools, like removing objects and expanding photos &lpar;Rafly Pratama/MSPoweruser&rpar;](http://www.techmeme.com/231023/p20#a231023p20)
+ - [Marvel’s Spider-Man 2 is now the fastest-selling PlayStation Studios game](https://www.theverge.com/2023/10/23/23928511/marvel-spider-man-2-sales-playstation-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

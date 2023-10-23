@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 💣 [I never understood these vegans, climate, and whatever activists. They never make a difference, just a nuisance and very loud mouthed.](http://9gag.com/gag/aoKopgA)
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 😝 [3 hits is kinda crazy](http://9gag.com/gag/a1PgKAD)
+ - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 💣 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
+ - 😝 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)
+ - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---
 

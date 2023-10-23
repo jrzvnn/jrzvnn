@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan&#39;s FTC probes into Google over alleged antitrust violations; report: the agency plans to examine if Google asked smartphone OEMs to prioritize its search &lpar;Bloomberg&rpar;](http://www.techmeme.com/231023/p1#a231023p1)
  - [Q&amp;A with Satya Nadella: AI as Microsoft&#39;s biggest opportunity, regrets on missing the mobile phone category, and doubling down as a game publisher and producer &lpar;Mathias D&amp;ouml;pfner/Insider&rpar;](http://www.techmeme.com/231022/p9#a231022p9)
  - [Why Your Home Heating Costs Might Be Lower This Winter     - CNET](https://www.cnet.com/how-to/why-your-home-heating-costs-might-be-lower-this-winter/#ftag=CAD590a51e)
  - [Analysis: the iPhone 15 lineup features ~10% costlier components than the iPhone 14 models; iPhone 15 Pro Max costs rose to $558, up 12% from iPhone 14 Pro Max &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231022/p8#a231022p8)
- - [Xencelabs Pen Display 24 review: Finally, a worthy Wacom competitor](https://appleinsider.com/articles/23/10/22/xencelabs-pen-display-24-review-finally-a-worthy-wacom-competitor?utm_medium=rss)
- - [Best Phone Deals: $1,000 Off Samsung Foldables, Free iPhone SE and More     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xencelabs Pen Display 24 review: Finally, a worthy Wacom competitor](https://appleinsider.com/articles/23/10/22/xencelabs-pen-display-24-review-finally-a-worthy-wacom-competitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

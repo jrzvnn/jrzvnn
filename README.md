@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Massive facial recognition search engine now blocks searches for children’s faces](https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy)
  - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
+ - [Best Luggage Deals: Save on Luggage at Calpak, Monos, Samsonite and More     - CNET](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)
  - [Meta says it is &quot;listening to feedback&quot; after some users found that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)
- - [Toyota made a Land Cruiser EV concept that probably won’t see the light of day](https://www.theverge.com/2023/10/23/23928817/toyota-land-cruiser-se-ev-epu-electric-suv-truck-concept)
- - [A look at Nightshade and Glaze, tools made by researchers at UChicago that help artists &quot;poison&quot; their work to confuse or break AI models that later train on it &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/231023/p35#a231023p35)<!-- TECH:END -->
+ - [Best Showerhead for 2023     - CNET](https://www.cnet.com/news/best-showerhead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

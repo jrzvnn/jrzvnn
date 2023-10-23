@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
- - 💣 [Dangerous](http://9gag.com/gag/aKEZqOj)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
+ - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
 
 ---
 

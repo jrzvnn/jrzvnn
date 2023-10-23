@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy again](http://9gag.com/gag/anzZydn)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 💣 [Dangerous](http://9gag.com/gag/aKEZqOj)
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 👉 [You can watch under my umbrella](http://9gag.com/gag/a3Zgj58)<!-- MEMES:END -->
+ - 😝 [Show me your best ones!](http://9gag.com/gag/anzZBxo)
+ - 😝 [Healthy Relationships..!!](http://9gag.com/gag/a3Zgj6e)
+ - 💣 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 😝 [Nice try](http://9gag.com/gag/aNwMdpw)
+ - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
 
 ---
 

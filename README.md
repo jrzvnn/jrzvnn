@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nio EL6 Review: Price, Specs, Release Date, Battery](https://www.wired.com/review/review-nio-el6/)
- - [Amazon enables passwordless passkeys on iOS and the web](https://www.theverge.com/2023/10/23/23928589/amazon-passkey-support-web-ios-shopping-mobile-app)
- - [Cisco releases patches for two zero-day flaws that hackers exploited on 50K+ IOS XE devices; researchers note hacked hosts recently dropped from 60K to ~300 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231023/p24#a231023p24)
- - [Amazon’s noise-canceling Echo Buds are on a clearance sale for $56.99](https://www.theverge.com/2023/10/23/23928480/amazon-echo-buds-apple-watch-series-8-blink-dead-space-deal-sale)
- - [Databricks plans to acquire enterprise data firm Arcion, which raised $18M+, for $100M; Databricks raised $500M last month and bought MosaicML for $1.3B in June &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231023/p23#a231023p23)<!-- TECH:END -->
+ - [Amazon rolls out passkey support on iOS and the web, letting users log in via their devices&#39; biometrics, and says support for Android is &quot;coming soon&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231023/p26#a231023p26)
+ - [Amazon’s live-action Fallout series will start streaming in 2024](https://www.theverge.com/2023/10/23/23928591/amazon-prime-video-fallout-tv-series-live-action-premiere-date)
+ - [Daily deals Oct. 23: 45% off Apple MagSafe Battery Pack, 34% off Apple Watch SE, Philips Wireless Headphones for $29, more](https://appleinsider.com/articles/23/10/23/daily-deals-oct-23-45-off-apple-magsafe-battery-pack-34-off-apple-watch-se-philips-wireless-headphones-for-29-more?utm_medium=rss)
+ - [How Qualcomm is tech&#39;s &quot;problem child&quot;: a tense relationship with Apple, sued by Arm, investigated by regulators, disagreements with Google over Pixel, and more &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231023/p25#a231023p25)
+ - [Nio EL6 Review: Price, Specs, Release Date, Battery](https://www.wired.com/review/review-nio-el6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch CEO Dan Clancy says big-money deals with top livestreaming gamers is not a &quot;sustainable business&quot;; sources: YouTube is also backing away from such deals &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231023/p39#a231023p39)
  - [PimEyes, a paid facial recognition service, says it has blocked searches of children as part of a &quot;no harm policy&quot;, using AI to identify photos of minors &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231023/p38#a231023p38)
+ - [Monday Night Football: How to Watch 49ers vs. Vikings, ManningCast Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-49ers-vs-vikings-manningcast-tonight-without-cable/#ftag=CAD590a51e)
  - [Massive facial recognition search engine now blocks searches for children’s faces](https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy)
- - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)
- - [Best Luggage Deals: Save on Luggage at Calpak, Monos, Samsonite and More     - CNET](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)
- - [Meta says it is &quot;listening to feedback&quot; after some users found that it is cross-posting Threads posts to users&#39; Facebook feeds without an opt-out &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/231023/p36#a231023p36)<!-- TECH:END -->
+ - [Parity Technologies, developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

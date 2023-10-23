@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram tests a verified-only feed](https://www.theverge.com/2023/10/23/23929100/instagram-meta-verified-feed-test)
+ - [Apple could spend $5B on servers to catch up in AI race](https://appleinsider.com/articles/23/10/23/apple-could-spend-5b-on-servers-to-catch-up-in-ai-race?utm_medium=rss)
  - [TikTok tests the ability to upload 15-minute videos, after adding 10-minute videos in February 2022, as it looks to attract longer-form video creators &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231023/p30#a231023p30)
  - [What Is Matter? We Explain the New Smart Home Standard &lpar;2023&rpar;](https://www.wired.com/story/what-is-matter/)
- - [iPhone Error 4013: common causes and proven solutions](https://appleinsider.com/articles/23/10/23/iphone-error-4013-common-causes-and-proven-solutions?utm_medium=rss)
- - [Apple prepares to open 46th Chinese Apple Store on November 4](https://appleinsider.com/articles/23/10/23/apple-prepares-to-open-46th-chinese-apple-store-on-november-4?utm_medium=rss)
- - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
+ - [iPhone Error 4013: common causes and proven solutions](https://appleinsider.com/articles/23/10/23/iphone-error-4013-common-causes-and-proven-solutions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

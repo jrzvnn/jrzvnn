@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weibo CEO Wang Gaofei confirms China may start requiring online political and financial commentators with 1M+ followers to display real names on their accounts &lpar;Reuters&rpar;](http://www.techmeme.com/231023/p9#a231023p9)
  - [Microsoft and Sony both advertise on the The Sphere in Las Vegas, for Xbox and Spider-Man 2, respectively; a leak showed Sphere ad slots may cost up to $450K &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231023/p8#a231023p8)
  - [History Says the 1918 Flu Killed the Young and Healthy. These Bones Say Otherwise](https://www.wired.com/story/history-says-the-1918-flu-killed-the-young-and-healthy-these-bones-say-otherwise/)
  - [Dallas-based enterprise browser startup Island raised a $100M Series C led by Prysm at a $1.5B valuation, up from $1.3B in 2022, for $350M+ raised in total &lpar;Emma Sanchez/Bloomberg&rpar;](http://www.techmeme.com/231023/p7#a231023p7)
- - [Tinder rolls out Tinder Matchmaker, which lets loved ones view and recommend potential matches, in the US, the UK, and 13 others ahead of a global launch soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231023/p6#a231023p6)
- - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Tinder rolls out Tinder Matchmaker, which lets loved ones view and recommend potential matches, in the US, the UK, and 13 others ahead of a global launch soon &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231023/p6#a231023p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

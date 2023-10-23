@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 💣 [Nice try](http://9gag.com/gag/aNwMdpw)
- - 😝 [Dangerous](http://9gag.com/gag/aKEZqOj)
+ - 😝 [Not mine, but still awosome!](http://9gag.com/gag/a9qwPzW)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
  - 👉 [The X...](http://9gag.com/gag/aBdzwmN)<!-- MEMES:END -->
 
 ---

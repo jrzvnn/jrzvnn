@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon now lets you log in with Apple&#39;s Face ID or Touch ID and Passkeys](https://appleinsider.com/articles/23/10/23/amazon-now-lets-you-log-in-with-apples-face-id-or-touch-id-and-passkeys?utm_medium=rss)
+ - [League’s new boy band looks ripped out of Arcane](https://www.theverge.com/2023/10/23/23928774/league-of-legends-heartsteel-paranoia-music-video-arcane)
+ - [Junji Ito has a terrifying new short story collection just in time for Halloween](https://www.theverge.com/23925649/junji-ito-mimis-tales-of-terror-review-horror-manga)
  - [More than 130 companies including Ikea, Volvo ask world leaders to ‘phase out’ fossil fuels](https://www.theverge.com/2023/10/23/23928548/ikea-volvo-130-companies-letter-world-leaders-phase-out-fossil-fuels)
- - [Final day: get a Babbel Language Learning Lifetime Subscription for $149.97](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
- - [AirTag 2 delayed, Ecobee doorbell review and more on the HomeKit Insider podcast](https://appleinsider.com/articles/23/10/23/airtag-2-delayed-ecobee-doorbell-review-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [After promising support for Matter and Thread, Level launches a Wi-Fi bridge instead](https://www.theverge.com/2023/10/17/23920848/level-lock-connect-wifi-bridge-matter-over-thread)
- - [Amazon rolls out passkey support on iOS and the web, letting users log in via their devices&#39; biometrics, and says support for Android is &quot;coming soon&quot; &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231023/p26#a231023p26)<!-- TECH:END -->
+ - [Final day: get a Babbel Language Learning Lifetime Subscription for $149.97](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

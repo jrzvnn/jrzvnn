@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/a4ogj6Z)
- - 😝 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)
- - 💣 [Ban on woke words in the US govt! Is the world starting to heal?](http://9gag.com/gag/a1PgbV8)
- - 😝 [Canadians needs to rethink what they stand for](http://9gag.com/gag/aKEZV53)
- - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
+ - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
+ - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
+ - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
 
 ---
 

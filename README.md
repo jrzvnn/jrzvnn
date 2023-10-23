@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
  - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 👉 [Dangerous](http://9gag.com/gag/aKEZqOj)<!-- MEMES:END -->
+ - 💣 [What we really want](http://9gag.com/gag/a7qgb2r)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
 
 ---
 

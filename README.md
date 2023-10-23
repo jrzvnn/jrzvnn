@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 💣 [Croco dinner](http://9gag.com/gag/aBdzYxz)
- - 😝 [You like wh**es?](http://9gag.com/gag/aME7GZ1)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 😝 [Now that\u2019s a bunch of distinguished sales-gentlemen](http://9gag.com/gag/aYV6Kp2)
+ - 😝 [Ban on woke words in the US govt! Is the world starting to heal?](http://9gag.com/gag/a1PgbV8)
+ - 💣 [3 hits is kinda crazy](http://9gag.com/gag/a1PgKAD)
+ - 😝 [Canadians needs to rethink what they stand for](http://9gag.com/gag/aKEZV53)
+ - 👉 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)<!-- MEMES:END -->
 
 ---
 

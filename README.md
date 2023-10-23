@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matter 1.2 finally adds robot vacuums &amp; fridges to HomeKit](https://appleinsider.com/articles/23/10/23/matter-12-finally-adds-robot-vacuums-fridges-to-homekit?utm_medium=rss)
+ - [Microsoft plans to spend $3.2B to expand its AI and cloud in Australia over two years, aiming to boost computing capacity by 250% and train 300K Australians &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/231023/p19#a231023p19)
  - [Qualcomm’s next big Snapdragon chip has leaked, and it’s full of AI features](https://www.theverge.com/2023/10/23/23928452/snapdragon-8-gen-3-leak-specs-ai-features-qualcomm)
  - [Google proposes &quot;IP Protection&quot; for Chrome, an opt-in feature that masks IP addresses via proxy servers for &quot;qualifying traffic&quot;, rolling out in stages &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/231023/p18#a231023p18)
- - [How Luxshare went from minor manufacturer to major iPhone supplier](https://appleinsider.com/articles/23/10/23/how-luxshare-went-from-minor-manufacturer-to-major-iphone-supplier?utm_medium=rss)
- - [Matter hits version 1.2, adding support for robot vacuums, refrigerators, washing machines, dishwashers, smoke and CO alarms, air quality sensors, and more &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231023/p17#a231023p17)
- - [China&#39;s crackdown on cyber scams in Southeast Asia, often run by powerful Chinese crime syndicates, netted thousands of people but have left the networks intact &lpar;Huizhong Wu/Associated Press&rpar;](http://www.techmeme.com/231023/p16#a231023p16)<!-- TECH:END -->
+ - [Matter 1.2 is a big move for the smart home standard](https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

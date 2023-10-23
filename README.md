@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch media reports that a former ASML employee accused of stealing data went to work for Huawei in China in 2022; it&#39;s unclear if they still work for Huawei &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231023/p15#a231023p15)
  - [Members of Gen Z say they use family location sharing apps to bolster a sense of security, such as during dates or at concerts; Life360 now has 33M+ US MAUs &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231023/p14#a231023p14)
  - [Matter 1.2 is a big move for the smart home standard](https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices)
  - [Microsoft updates Excel to fix automatic conversions, after scientists reworked the alphanumeric symbols to represent genes in 2020 to avoid Excel issues &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231023/p13#a231023p13)
- - [The British Museum plans to digitize its entire collection to boost security and public access over the next five years, after 2,000 items were recently stolen &lpar;Karen K. Ho/ARTnews&rpar;](http://www.techmeme.com/231023/p12#a231023p12)
- - [Sony Xperia 5 V Review: Small and Mighty but Too Pricey](https://www.wired.com/review/sony-xperia-5-v/)<!-- TECH:END -->
+ - [The British Museum plans to digitize its entire collection to boost security and public access over the next five years, after 2,000 items were recently stolen &lpar;Karen K. Ho/ARTnews&rpar;](http://www.techmeme.com/231023/p12#a231023p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

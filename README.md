@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [Ironic. Latifa Abouchakra was invited to UK tv to talk about life as a Muslim in the UK. She complained amongst other things about being \u201ccalled a terrorist\u201d. Just a week later she was the face of the show \u201cPalestine Declassified\u201d where she celebrated Hamas&#39; terrorist attack](http://9gag.com/gag/adPAKP2)
+ - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
  - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 👉 [The X...](http://9gag.com/gag/aBdzwmN)<!-- MEMES:END -->
+ - 😝 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)
+ - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
 
 ---
 

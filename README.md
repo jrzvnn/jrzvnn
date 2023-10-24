@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Deals on Arlo Security Cameras and Video Doorbells](https://www.wired.com/story/arlo-deals-security-cameras-video-doorbells-october-2023/)
+ - [Clean energy is officially ‘unstoppable’ now](https://www.theverge.com/23930058/forecast-clean-renewable-unstoppable-international-energy-agency)
+ - [Canadian Broadcasters want government to make Apple pay for news](https://appleinsider.com/articles/23/10/24/canadian-broadcasters-want-government-to-make-apple-pay-for-news?utm_medium=rss)
  - [How to Play Your Favorite Google Play Mobile Games on PC &lpar;2023&rpar;](https://www.wired.com/story/google-play-games-for-pc/)
- - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)
- - [Q&amp;A with FTC Commissioner and digital privacy expert Alvaro Bedoya on the agency hiring child psychologists to understand social media&#39;s impact on children &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231024/p19#a231024p19)
- - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)
- - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)<!-- TECH:END -->
+ - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
- - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 😝 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)
- - 👉 [Who?](http://9gag.com/gag/aEqK2BM)<!-- MEMES:END -->
+ - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 💣 [Who?](http://9gag.com/gag/aEqK2BM)
+ - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
 
 ---
 

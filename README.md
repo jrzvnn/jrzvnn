@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM delays production of Chevy Equinox, Silverado, and GMC Sierra Denali EVs](https://www.theverge.com/2023/10/24/23930143/gm-delay-ev-chevy-equinox-silverado-sierra-q3-earnings)
- - [4 Best Deals on Chromebook Plus Laptops at Best Buy](https://www.wired.com/story/chromebook-plus-deals-best-buy-october-2023/)
- - [Daily deals Oct. 24: 35% off Apple Watch Series 8, $200 off M2 MacBook Air, Nintendo Switch OLED $289, more](https://appleinsider.com/articles/23/10/24/daily-deals-oct-24-35-off-apple-watch-series-8-200-off-m2-macbook-air-nintendo-switch-oled-289-more?utm_medium=rss)
- - [Everyone’s out for themselves in Leave the World Behind’s new trailer](https://www.theverge.com/23930147/leave-the-world-behind-trailer)
- - [8 Best Deals on Arlo Security Cameras and Video Doorbells](https://www.wired.com/story/arlo-deals-security-cameras-video-doorbells-october-2023/)<!-- TECH:END -->
+ - [Analysts: Chinese AI startup SenseTime&#39;s pivot from government surveillance work to data centers now seems doomed by new US export controls on powerful AI chips &lpar;Financial Times&rpar;](http://www.techmeme.com/231024/p20#a231024p20)
+ - [Nintendo’s premium Switch OLED console is at its lowest price of $289.99 again](https://www.theverge.com/2023/10/24/23928844/nintendo-switch-oled-elgato-wave-xlr-apple-watch-ultra-deal-sale)
+ - [Lenovo&#39;s Tab M10 Plus Is Down to Just $140 Right Now &lpar;Save $50&rpar;     - CNET](https://www.cnet.com/deals/lenovos-tab-m10-plus-is-down-to-just-140-right-now-save-50/#ftag=CAD590a51e)
+ - [Shop Spooky Savings on Halloween Decor and More at Target     - CNET](https://www.cnet.com/deals/shop-spooky-savings-on-halloween-decor-and-more-at-target/#ftag=CAD590a51e)
+ - [41 Best Gifts for Teens in 2023     - CNET](https://www.cnet.com/news/best-gifts-for-teenagers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

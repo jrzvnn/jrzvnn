@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [Are they from alabama?](http://9gag.com/gag/ago9AvK)
  - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
- - 💣 [Your choice](http://9gag.com/gag/a2Kg4Nw)
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 👉 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)<!-- MEMES:END -->
+ - 💣 [See ya](http://9gag.com/gag/aA0AgRd)
+ - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 👉 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)<!-- MEMES:END -->
 
 ---
 

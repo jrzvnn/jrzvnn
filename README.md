@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Music now lets you make your own playlist art with AI](https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art)
+ - [California and dozens of other US states sue Meta in federal court over claims Facebook and Instagram exploit youths for profit and feed them harmful content &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/231024/p22#a231024p22)
+ - [A paper from Geoffrey Hinton and other experts warns of AI systems&#39; worrying capabilities and says 33% of companies&#39; AI R&amp;D budgets should go to managing risks &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/231024/p21#a231024p21)
  - [Black Friday is 1 month away, but you can save up to 35% on Apple gear at Amazon today](https://appleinsider.com/articles/23/10/24/black-friday-is-1-month-away-but-you-can-save-up-to-35-on-apple-gear-at-amazon-today?utm_medium=rss)
- - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
- - [China&#39;s Foxconn tax probe is Taiwan election interference, claims candidate](https://appleinsider.com/articles/23/10/24/chinas-foxconn-tax-probe-is-taiwan-election-interference-claims-candidate?utm_medium=rss)
- - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)
- - [Analysts: Chinese AI startup SenseTime&#39;s pivot from government surveillance work to data centers now seems doomed by new US export controls on powerful AI chips &lpar;Financial Times&rpar;](http://www.techmeme.com/231024/p20#a231024p20)<!-- TECH:END -->
+ - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

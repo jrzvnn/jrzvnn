@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro may get full redesign in 2025, says Ming-Chi Kuo](https://appleinsider.com/articles/23/10/24/macbook-pro-may-get-full-redesign-in-2025-says-ming-chi-kuo?utm_medium=rss)
  - [Qualcomm unveils Snapdragon X Elite, slated for PCs mid-2024, claiming better single-threaded performance than M2 Max and 2x performance-per-watt of Intel chips &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231024/p31#a231024p31)
  - [Cisco&#39;s Webex brings meetings to Apple TV, Apple Watch](https://appleinsider.com/articles/23/10/24/ciscos-webex-brings-meetings-to-apple-tv-apple-watch?utm_medium=rss)
  - [Apple TV renovation could kill iTunes Movies app in December](https://appleinsider.com/articles/23/10/24/apple-tv-change-could-eliminate-itunes-movies-app-in-december?utm_medium=rss)
- - [White House: Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)
- - [Early Black Friday price drop: 14-inch MacBook Pro with 32GB RAM falls to $1,699](https://appleinsider.com/articles/23/10/24/early-black-friday-price-drop-14-inch-macbook-pro-with-32gb-ram-falls-to-1699?utm_medium=rss)<!-- TECH:END -->
+ - [Nab Razer&#39;s Wolverine V2 Chroma Controller for $110 &lpar;Save $40&rpar;     - CNET](https://www.cnet.com/deals/nab-razers-wolverine-v2-chroma-controller-for-110-save-40/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

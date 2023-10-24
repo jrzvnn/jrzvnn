@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM&#39;s Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person](https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/)
+ - [Snap reports Q3 revenue up 5% YoY to $1.19B, vs. $1.11B est., net loss up 2% YoY to $368M, and DAUs up 12% YoY to 406M, vs. 405.7M est.; SNAP jumps 5%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231024/p38#a231024p38)
  - [Apple Pay Later is now available to everyone in US, no longer in beta](https://appleinsider.com/articles/23/10/24/apple-pay-later-is-now-available-to-everyone-in-us-no-longer-in-beta?utm_medium=rss)
  - [YouTube Q3 ad revenue rose 12.5% YoY to $7.95B, vs. $7.81B est.; the results come after YouTube fell short of expectations a year ago, when ad revenue fell 1.9% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231024/p37#a231024p37)
- - [Microsoft reports Q1 Intelligent Cloud revenue up 19% YoY to $24.26B, vs. $23.49B est., with Azure and other cloud services revenue up 29% YoY, vs. 26% YoY est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231024/p36#a231024p36)
- - [Alphabet reports Q3 revenue of $77B, up 11% YoY, net income of $19.7B, up from $13.9B YoY, Google Cloud revenue of $8.4B, up from $6.9B YoY; GOOG drops 5%+ &lpar;Alphabet&rpar;](http://www.techmeme.com/231024/p35#a231024p35)
- - [Verizon&#39;s stock jumped 9.2% after reporting Q3 revenue of $33.34B, vs. $33.25B est., 100K postpaid phone net additions, vs. 60K est., and ~10.3M broadband subs &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231024/p34#a231024p34)<!-- TECH:END -->
+ - [Microsoft reports Q1 Intelligent Cloud revenue up 19% YoY to $24.26B, vs. $23.49B est., with Azure and other cloud services revenue up 29% YoY, vs. 26% YoY est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231024/p36#a231024p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

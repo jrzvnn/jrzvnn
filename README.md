@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 💣 [Carlotn is the true king of Bel Air.](http://9gag.com/gag/a4og7dQ)
- - 😝 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
- - 👉 [Shot put bottle - Chile](http://9gag.com/gag/aWGyYjZ)<!-- MEMES:END -->
+ - 😝 [Healthy Relationships..!!](http://9gag.com/gag/a3Zgj6e)
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
+ - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
 
 ---
 

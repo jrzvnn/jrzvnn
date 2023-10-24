@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oopsie](http://9gag.com/gag/amAQYE2)
- - 😝 [Imagine being harassed for showing your country flag in your own country and the police can do nothing](http://9gag.com/gag/az2yr9j)
- - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
+ - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
+ - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 💣 [Carlotn is the true king of Bel Air.](http://9gag.com/gag/a4og7dQ)
+ - 😝 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
+ - 👉 [Shot put bottle - Chile](http://9gag.com/gag/aWGyYjZ)<!-- MEMES:END -->
 
 ---
 

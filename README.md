@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The Western Society](http://9gag.com/gag/ajVv5EQ)
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 💣 [That guy again](http://9gag.com/gag/anzZydn)
  - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 👉 [Pro gamer move](http://9gag.com/gag/a5XgRME)<!-- MEMES:END -->
+ - 💣 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)
+ - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
 
 ---
 

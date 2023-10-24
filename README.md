@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m tho thorry little one](http://9gag.com/gag/aeQzMvm)
- - 😝 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
- - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 😝 [Why tho](http://9gag.com/gag/ago9XR1)
- - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
+ - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
+ - 💣 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
+ - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
 
 ---
 

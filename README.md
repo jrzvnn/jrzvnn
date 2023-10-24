@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The AI-Generated Child Abuse Nightmare Is Here](https://www.wired.com/story/generative-ai-images-child-sexual-abuse/)
+ - [At a White House event, Apple says it supports nationwide right-to-repair regulation that would make iPhone parts and tools available to customers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231024/p44#a231024p44)
  - [The bendy phone is back, baby](https://www.theverge.com/2023/10/24/23930668/lenovo-moto-flexible-wrist-phone-concept)
  - [Apple is reportedly planning to turn the TV app into the streaming hub it always wanted](https://www.theverge.com/2023/10/24/23930639/apple-tv-app-streaming-hub-movie-tv-rentals-sports)
- - [Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)
- - [Slack gets rid of its X integration](https://www.theverge.com/2023/10/24/23930686/slack-x-twitter-integration-retires-api-pricing)
- - [Xbox and cloud help boost Microsoft’s Q1 2024 earnings](https://www.theverge.com/2023/10/24/23930627/microsoft-q1-2024-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
+ - [Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

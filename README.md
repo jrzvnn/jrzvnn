@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fights NFL &#39;Sunday ticket&#39; subpoena on grounds it could reveal corporate secrets](https://appleinsider.com/articles/23/10/24/apple-fights-nfl-sunday-ticket-subpoena-on-grounds-it-could-reveal-corporate-secrets?utm_medium=rss)
+ - [California and 41 other US states sue Meta in federal and state courts alleging that Facebook and Instagram features are addictive and aimed at kids and teens &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/231024/p28#a231024p28)
  - [Lego’s flapping Dune Ornithopter set comes with a big boi Baron minifig](https://www.theverge.com/2023/10/24/23930448/dune-ornithopter-lego-set-preorder-date-baron)
  - [YouTube finally lets users update the cover art for YouTube Music playlists, but only using images created by YouTube&#39;s generative AI, not their own images &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231024/p27#a231024p27)
- - [Google Photos will soon give you more say in those AI-created video highlights](https://www.theverge.com/2023/10/24/23930259/google-photos-update-video-highlights-ai-generated-android-ios)
- - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Google Photos will soon give you more say in those AI-created video highlights](https://www.theverge.com/2023/10/24/23930259/google-photos-update-video-highlights-ai-generated-android-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

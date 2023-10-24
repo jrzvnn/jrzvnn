@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Believe in yourself](http://9gag.com/gag/awZjo6W)
  - 😝 [See ya](http://9gag.com/gag/aA0AgRd)
- - 💣 [Your choice](http://9gag.com/gag/a2Kg4Nw)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
+ - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
+ - 💣 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 😝 [Woman stole and punched security guard while saying &#39;What you gonna do? Hit a woman?`](http://9gag.com/gag/aKEZ73g)
+ - 👉 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)<!-- MEMES:END -->
 
 ---
 

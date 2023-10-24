@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK is set to reject Big Tech calls to be able to appeal rulings by the CMA&#39;s Digital Markets Unit, expected to be able to levy fines and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p12#a231024p12)
  - [21 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
  - [Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed](https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/)
  - [A Controversial Plan to Scan Private Messages for Child Abuse Meets Fresh Scandal](https://www.wired.com/story/csar-chat-scan-proposal-european-commission-ads/)
- - [A Powerful Tool US Spies Misused to Stalk Women Faces Its Potential Demise](https://www.wired.com/story/section-702-nsa-abuses-reauthorization/)
- - [Taiwan VP Lai Ching-te criticizes China&#39;s Foxconn investigation; sources say China disclosed the move for political reasons tied to Taiwan&#39;s January elections &lpar;Reuters&rpar;](http://www.techmeme.com/231024/p11#a231024p11)<!-- TECH:END -->
+ - [A Powerful Tool US Spies Misused to Stalk Women Faces Its Potential Demise](https://www.wired.com/story/section-702-nsa-abuses-reauthorization/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

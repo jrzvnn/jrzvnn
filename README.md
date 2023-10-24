@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 😝 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)
- - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
+ - 😝 [Oopsie](http://9gag.com/gag/amAQYE2)
+ - 😝 [Imagine being harassed for showing your country flag in your own country and the police can do nothing](http://9gag.com/gag/az2yr9j)
+ - 💣 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
+ - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
 
 ---
 

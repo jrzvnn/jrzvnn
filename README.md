@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
  - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
  - 😝 [Why tho](http://9gag.com/gag/ago9XR1)
- - 👉 [Shot put bottle - Chile](http://9gag.com/gag/aWGyYjZ)<!-- MEMES:END -->
+ - 👉 [1 sentence to trigger a psychologist. 3, 2, 1, GO!](http://9gag.com/gag/aEqKBmp)<!-- MEMES:END -->
 
 ---
 

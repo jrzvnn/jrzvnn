@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oopsie](http://9gag.com/gag/amAQYE2)
- - 😝 [You racist](http://9gag.com/gag/abvD66p)
- - 💣 [Feet guys](http://9gag.com/gag/aVbr3j8)
+ - 😝 [Feet guys](http://9gag.com/gag/aVbr3j8)
+ - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
+ - 💣 [Here we go again](http://9gag.com/gag/aWGyYMq)
  - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
+ - 👉 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)<!-- MEMES:END -->
 
 ---
 

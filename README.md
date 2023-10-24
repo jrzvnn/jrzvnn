@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft CEO Satya Nadella admits giving up on Windows Phone and mobile was a mistake](https://www.theverge.com/2023/10/24/23930478/microsoft-ceo-satya-nadella-mobile-windows-phone)
- - [Apple fights NFL &#39;Sunday ticket&#39; subpoena on grounds it could reveal corporate secrets](https://appleinsider.com/articles/23/10/24/apple-fights-nfl-sunday-ticket-subpoena-on-grounds-it-could-reveal-corporate-secrets?utm_medium=rss)
- - [California and 41 other US states sue Meta in federal and state courts alleging that Facebook and Instagram features are addictive and aimed at kids and teens &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/231024/p28#a231024p28)
- - [Lego’s flapping Dune Ornithopter set comes with a big boi Baron minifig](https://www.theverge.com/2023/10/24/23930448/dune-ornithopter-lego-set-preorder-date-baron)
- - [YouTube finally lets users update the cover art for YouTube Music playlists, but only using images created by YouTube&#39;s generative AI, not their own images &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231024/p27#a231024p27)<!-- TECH:END -->
+ - [California DMV suspends Cruise’s robotaxi permit ‘effective immediately’](https://www.theverge.com/2023/10/24/23930629/california-dmv-suspends-cruise-robotaxi-permit-safety)
+ - [California&#39;s DMV suspends Cruise&#39;s deployment and driverless testing permits, ending the GM self-driving car subsidiary&#39;s robotaxi operations in San Francisco &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231024/p29#a231024p29)
+ - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
+ - [Upgrade Your Switch Game With This PowerA Enhanced Wireless Controller, Just $42     - CNET](https://www.cnet.com/deals/upgrade-your-switch-game-with-this-powera-enhanced-wireless-controller-just-42/#ftag=CAD590a51e)
+ - [Wyze’s new video doorbell records 24/7 locally, but you can’t escape the cloud](https://www.theverge.com/2023/10/24/23930246/wyze-video-doorbell-v2-local-recording-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Q&amp;A with FTC Commissioner and digital privacy expert Alvaro Bedoya on the agency hiring child psychologists to understand social media&#39;s impact on children &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/231024/p19#a231024p19)
  - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)
  - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
- - [21 Best MagSafe Accessories for Your iPhone &lpar;2023&rpar;: Webcam Mount, Car Docks, Wireless Chargers](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [5 Best Pumpkin Carving Kits &lpar;2023&rpar;: Cheap and Precision Sets](https://www.wired.com/gallery/best-pumpkin-carving-kits/)<!-- TECH:END -->
+ - [Amazon will now let you access Crunchyroll’s anime library right from Prime Video](https://www.theverge.com/2023/10/24/23929990/amazon-prime-video-crunchyroll-channel-now-available)
+ - [How to create custom ringtones in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-create-custom-ringtones-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

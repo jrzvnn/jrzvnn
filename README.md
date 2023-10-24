@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Byju&#39;s CFO Ajay Goel resigns after six months as the edtech delays its FY 2022 earnings; Byju&#39;s President of Finance Nitin Golani takes over on October 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p3#a231024p3)
+ - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
  - [Hands-on with DALL-E 3: suggests more detailed prompts, restrictive, denies art requests in the style of living artists, and shows how quickly AI is improving &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231024/p2#a231024p2)
  - [Glacial Lakes Threaten Millions in a Warming World](https://www.wired.com/story/glacial-lake-outburst-flood-glof-india-sikkim/)
- - [South Korea-based Naver signs a 2024 to 2029 deal, sources say for $100M+, with Saudi Arabia to build digital twins of Riyadh, Medina, Jeddah, Dammam, and Mecca &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)
- - [Best Solar-Powered Home Security Cameras for 2023     - CNET](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
- - [Best Mattress for Side Sleepers in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea-based Naver signs a 2024 to 2029 deal, sources say for $100M+, with Saudi Arabia to build digital twins of Riyadh, Medina, Jeddah, Dammam, and Mecca &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

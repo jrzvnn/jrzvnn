@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ulku Rowe Is the First Google Employee to Beat the Company in Court Over Sexist Discrimination](https://www.wired.com/story/this-woman-exec-beat-google-in-court-and-hopes-others-follow/)
  - [Qualcomm unveils the Snapdragon 8 Gen 3 mobile 4nm chip, with a 25% more performant GPU, AI Engine that can produce Stable Diffusion images in &lt;1 second, more &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231024/p32#a231024p32)
  - [MacBook Pro may get full redesign in 2025, says Ming-Chi Kuo](https://appleinsider.com/articles/23/10/24/macbook-pro-may-get-full-redesign-in-2025-says-ming-chi-kuo?utm_medium=rss)
  - [Qualcomm unveils Snapdragon X Elite, slated for PCs mid-2024, claiming better single-threaded performance than M2 Max and 2x performance-per-watt of Intel chips &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231024/p31#a231024p31)
- - [Cisco&#39;s Webex brings meetings to Apple TV, Apple Watch](https://appleinsider.com/articles/23/10/24/ciscos-webex-brings-meetings-to-apple-tv-apple-watch?utm_medium=rss)
- - [Apple TV renovation could kill iTunes Movies app in December](https://appleinsider.com/articles/23/10/24/apple-tv-change-could-eliminate-itunes-movies-app-in-december?utm_medium=rss)<!-- TECH:END -->
+ - [Cisco&#39;s Webex brings meetings to Apple TV, Apple Watch](https://appleinsider.com/articles/23/10/24/ciscos-webex-brings-meetings-to-apple-tv-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 armed thugs tried to rob a man during the day, but got served](http://9gag.com/gag/ajVvqew)
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
+ - 😝 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
  - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
+ - 😝 [Why tho](http://9gag.com/gag/ago9XR1)
+ - 👉 [Shot put bottle - Chile](http://9gag.com/gag/aWGyYjZ)<!-- MEMES:END -->
 
 ---
 

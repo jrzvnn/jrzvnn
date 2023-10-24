@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s &#39;carbon neutral&#39; claims are misleading, say EU groups](https://appleinsider.com/articles/23/10/24/apples-carbon-neutral-claims-are-misleading-say-eu-groups?utm_medium=rss)
  - [EU environmental groups criticize Apple branding new Apple Watches as &quot;carbon neutral&quot; and using credits to cancel out the 7kg to 12kg of emissions per unit &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/231024/p13#a231024p13)
  - [Sources: the UK is set to reject Big Tech calls to be able to appeal rulings by the CMA&#39;s Digital Markets Unit, expected to be able to levy fines and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p12#a231024p12)
  - [21 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
- - [Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed](https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/)
- - [A Controversial Plan to Scan Private Messages for Child Abuse Meets Fresh Scandal](https://www.wired.com/story/csar-chat-scan-proposal-european-commission-ads/)<!-- TECH:END -->
+ - [Amazon’s AI-Powered Van Inspections Give It a Powerful New Data Feed](https://www.wired.com/story/amazons-ai-van-inspections-powerful-data-feed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

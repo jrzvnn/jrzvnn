@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [South Korea&#39;s Naver announces a deal with Saudi Arabia to create digital replicas of Riyadh and four other cities starting in 2024; sources: deal worth $100M+ &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)
+ - [Best Solar-Powered Home Security Cameras for 2023     - CNET](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
+ - [Best Mattress for Side Sleepers in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
  - [1Password says it detected &quot;suspicious activity&quot; on its Okta tenant that it uses to manage employee-facing apps, and found that no user data was accessed &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231023/p42#a231023p42)
- - [Adult Cheshire Cat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-cheshire-cat-onesie-dpnl/#ftag=CAD590a51e)
- - [Adult Baby Yoda Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-baby-yoda-onesie-dpnl/#ftag=CAD590a51e)
- - [Adult Bat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-bat-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adult Cheshire Cat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-cheshire-cat-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

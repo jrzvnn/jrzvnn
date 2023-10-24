@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MangoBoost, which develops data processing units for data centers, raised a $55M Series A, sources say at a ~$300M valuation, bringing its total funding to $65M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/231023/p41#a231023p41)
+ - [Streaming services, including Hulu, Peacock, and Max, are increasingly showing &quot;pause ads&quot;, which appear a few seconds after a viewer pauses the programming &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231023/p40#a231023p40)
+ - [Best Internet Providers in Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-tennessee/#ftag=CAD590a51e)
  - [Twitch CEO Dan Clancy says big-money deals with top livestreaming gamers is not a &quot;sustainable business&quot;; sources: YouTube is also backing away from such deals &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231023/p39#a231023p39)
- - [PimEyes, a paid facial recognition service, blocks searches of children&#39;s faces via age detection AI to identify photos of minors, as part of a &quot;no harm policy&quot; &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/231023/p38#a231023p38)
- - [Monday Night Football: How to Watch 49ers vs. Vikings, ManningCast Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-49ers-vs-vikings-manningcast-tonight-without-cable/#ftag=CAD590a51e)
- - [Massive facial recognition search engine now blocks searches for children’s faces](https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy)
- - [Parity Technologies, the developer of Polkadot, which helps different blockchains communicate with each other, is laying off ~100 staff, or 30% of its employees &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/231023/p37#a231023p37)<!-- TECH:END -->
+ - [NBA Streaming 2023: How to Watch, Livestream the New Basketball Season     - CNET](https://www.cnet.com/tech/services-and-software/nba-streaming-2023-how-to-watch-livestream-the-new-basketball-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

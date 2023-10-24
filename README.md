@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI experts share a paper ahead of the UK&#39;s AI summit in Bletchley Park warning of worrying capabilities in current AI systems and seeking urgent governance &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231024/p5#a231024p5)
+ - [NameDrop: Here&#39;s Everything to Know About Apple&#39;s Speedy Way to Share Contact Info     - CNET](https://www.cnet.com/tech/mobile/namedrop-heres-everything-to-know-about-apples-speedy-way-to-share-contact-info/#ftag=CAD590a51e)
  - [A look at POSSE, a decade-old idea that a user should Publish &lpar;on your&rpar; Own Site and Syndicate Elsewhere, and the challenges of building a system based on that &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p4#a231024p4)
- - [Byju&#39;s CFO Ajay Goel resigns after six months as the edtech delays its FY 2022 earnings; Byju&#39;s President of Finance Nitin Golani takes over on October 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p3#a231024p3)
- - [Best Fast 3D Printers of 2023     - CNET](https://www.cnet.com/tech/computing/best-fast-3d-printers-bambu-lab-prusa-and-more/#ftag=CAD590a51e)
- - [Hands-on with DALL-E 3: suggests more detailed prompts, restrictive, denies art requests in the style of living artists, and shows how quickly AI is improving &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231024/p2#a231024p2)
- - [Glacial Lakes Threaten Millions in a Warming World](https://www.wired.com/story/glacial-lake-outburst-flood-glof-india-sikkim/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 Deals: $1,000 of Trade-In Credit and Up to $300 on Unlocked Models     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
+ - [You Can Order Free COVID-19 Test Kits for Your Household In Minutes     - CNET](https://www.cnet.com/health/you-can-order-free-covid-19-test-kits-for-your-household-within-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

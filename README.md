@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
  - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 😝 [Free Europe!](http://9gag.com/gag/aPgLM3q)
  - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
  - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
+ - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---
 

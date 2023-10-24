@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
- - 💣 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
+ - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
+ - 💣 [Imagine being harassed for showing your country flag in your own country and the police can do nothing](http://9gag.com/gag/az2yr9j)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shot put bottle - Chile](http://9gag.com/gag/aWGyYjZ)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
  - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 💣 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 💣 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
+ - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
  - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
 
 ---

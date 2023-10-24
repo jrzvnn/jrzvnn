@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 😝 [Wait for it, there\u2019s a \u201cfind out\u201d stage](http://9gag.com/gag/aWGy8eq)
- - 💣 [Imagine being harassed for showing your country flag in your own country and the police can do nothing](http://9gag.com/gag/az2yr9j)
- - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
- - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
+ - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 😝 [You&#39;ll never find another girl like me*](http://9gag.com/gag/ago9q9w)
+ - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [It just hits different](http://9gag.com/gag/aME7wdP)
+ - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---
 

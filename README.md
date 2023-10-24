@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 5 Instagram Features That US States Say Ruin Teens’ Mental Health](https://www.wired.com/story/the-5-instagram-features-that-us-states-say-ruin-teens-mental-health/)
  - [Microsoft reports Q1 devices revenue down 22% YoY, Windows revenue up 5%, Xbox content and services revenue up 13% YoY, search and news ad revenue up 10% YoY &lpar;Zachary Boddy/Windows Central&rpar;](http://www.techmeme.com/231024/p41#a231024p41)
  - [Apple Pay Later launches for all eligible users in the US, following its invite-only early access prerelease version for &quot;randomly selected users&quot; in March 2023 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231024/p40#a231024p40)
  - [Alphabet reports Google Cloud Q3 revenue up 22.5% YoY to $8.41B, vs. $8.62B est., and Google Cloud operating income of $266M, vs. an operating loss of $440M YoY &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231024/p39#a231024p39)
- - [How Much Are American Express Membership Rewards Points Worth in October 2023?     - CNET](https://www.cnet.com/personal-finance/how-much-are-american-express-membership-rewards-points-worth/#ftag=CAD590a51e)
- - [GM&#39;s Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person](https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/)<!-- TECH:END -->
+ - [How Much Are American Express Membership Rewards Points Worth in October 2023?     - CNET](https://www.cnet.com/personal-finance/how-much-are-american-express-membership-rewards-points-worth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

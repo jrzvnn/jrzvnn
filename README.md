@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carlotn is the true king of Bel Air.](http://9gag.com/gag/a4og7dQ)
- - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
- - 💣 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [Imagine being harassed for showing your country flag in your own country and the police can do nothing](http://9gag.com/gag/az2yr9j)
+ - 💣 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
  - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 👉 [Why tho](http://9gag.com/gag/ago9XR1)<!-- MEMES:END -->
+ - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
 
 ---
 

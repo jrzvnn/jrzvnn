@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay Later launches for all eligible users in the United States, following its invite-only roll out in March 2023 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231024/p40#a231024p40)
  - [Alphabet reports Google Cloud Q3 revenue up 22.5% YoY to $8.41B, vs. $8.62B est., and Google Cloud operating income of $266M, vs. an operating loss of $440M YoY &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231024/p39#a231024p39)
  - [GM&#39;s Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person](https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/)
  - [Snap reports Q3 revenue up 5% YoY to $1.19B, vs. $1.11B est., net loss up 2% YoY to $368M, DAUs up 12% YoY to 406M, vs. 405.7M est., and won&#39;t give Q4 guidance &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231024/p38#a231024p38)
- - [Apple Pay Later is now available to everyone in US, no longer in beta](https://appleinsider.com/articles/23/10/24/apple-pay-later-is-now-available-to-everyone-in-us-no-longer-in-beta?utm_medium=rss)
- - [YouTube Q3 ad revenue rose 12.5% YoY to $7.95B, vs. $7.81B est.; in Q3 2022, YouTube&#39;s ad revenue fell short of expectations after falling 1.9% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231024/p37#a231024p37)<!-- TECH:END -->
+ - [Apple Pay Later is now available to everyone in US, no longer in beta](https://appleinsider.com/articles/23/10/24/apple-pay-later-is-now-available-to-everyone-in-us-no-longer-in-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

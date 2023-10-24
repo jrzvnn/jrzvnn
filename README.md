@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to customize your Samsung Galaxy phone with the Good Lock app](https://www.theverge.com/23928764/samsung-galaxy-good-lock-app-how-to)
+ - [Apple TV change could eliminate iTunes Movies app in December](https://appleinsider.com/articles/23/10/24/apple-tv-change-could-eliminate-itunes-movies-app-in-december?utm_medium=rss)
+ - [White House: Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)
  - [Early Black Friday price drop: 14-inch MacBook Pro with 32GB RAM falls to $1,699](https://appleinsider.com/articles/23/10/24/early-black-friday-price-drop-14-inch-macbook-pro-with-32gb-ram-falls-to-1699?utm_medium=rss)
  - [Sources: Apple will update tvOS with a redesigned TV app around December and remove some of its dedicated apps on the Apple TV to steer more users to the TV app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231024/p30#a231024p30)
- - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
- - [Why Nintendo Kept Super Mario Bros. Wonder&#39;s New Mario Under Wraps](https://www.wired.com/story/super-mario-bros-wonder-mario-voice-doug-bowser/)<!-- TECH:END -->
+ - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

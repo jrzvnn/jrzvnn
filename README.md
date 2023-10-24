@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay Later is now available to everyone in US, no longer in beta](https://appleinsider.com/articles/23/10/24/apple-pay-later-is-now-available-to-everyone-in-us-no-longer-in-beta?utm_medium=rss)
+ - [YouTube Q3 ad revenue rose 12.5% YoY to $7.95B, vs. $7.81B est.; the results come after YouTube fell short of expectations a year ago, when ad revenue fell 1.9% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231024/p37#a231024p37)
  - [Microsoft reports Q1 Intelligent Cloud revenue up 19% YoY to $24.26B, vs. $23.49B est., with Azure and other cloud services revenue up 29% YoY, vs. 26% YoY est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231024/p36#a231024p36)
  - [Alphabet reports Q3 revenue of $77B, up 11% YoY, net income of $19.7B, up from $13.9B YoY, Google Cloud revenue of $8.4B, up from $6.9B YoY; GOOG drops 5%+ &lpar;Alphabet&rpar;](http://www.techmeme.com/231024/p35#a231024p35)
- - [Verizon&#39;s stock jumped 9.2% after reporting Q3 revenue of $33.34B, vs. $33.25B est., 100K postpaid phone net additions, vs. 60K est., and ~10.3M broadband subs &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231024/p34#a231024p34)
- - [Microsoft reports Q1 revenue up 13% YoY to $56.5B, net income up 27% YoY to $22.3B, Office Commercial revenue up 15% YoY, and LinkedIn revenue up 8% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/231024/p33#a231024p33)
- - [Ulku Rowe Is the First Google Employee to Beat the Company in Court Over Sexist Discrimination](https://www.wired.com/story/this-woman-exec-beat-google-in-court-and-hopes-others-follow/)<!-- TECH:END -->
+ - [Verizon&#39;s stock jumped 9.2% after reporting Q3 revenue of $33.34B, vs. $33.25B est., 100K postpaid phone net additions, vs. 60K est., and ~10.3M broadband subs &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231024/p34#a231024p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

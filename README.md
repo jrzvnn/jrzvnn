@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 💣 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 👉 [You just wouldn&#39;t get it](http://9gag.com/gag/aEqKYVe)<!-- MEMES:END -->
+ - 😝 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
+ - 💣 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 😝 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)
+ - 👉 [Who?](http://9gag.com/gag/aEqK2BM)<!-- MEMES:END -->
 
 ---
 

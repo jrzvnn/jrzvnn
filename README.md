@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM delays production of Chevy Equinox, Silverado, and GMC Sierra Denali EVs](https://www.theverge.com/2023/10/24/23930143/gm-delay-ev-chevy-equinox-silverado-sierra-q3-earnings)
+ - [4 Best Deals on Chromebook Plus Laptops at Best Buy](https://www.wired.com/story/chromebook-plus-deals-best-buy-october-2023/)
  - [Daily deals Oct. 24: 35% off Apple Watch Series 8, $200 off M2 MacBook Air, Nintendo Switch OLED $289, more](https://appleinsider.com/articles/23/10/24/daily-deals-oct-24-35-off-apple-watch-series-8-200-off-m2-macbook-air-nintendo-switch-oled-289-more?utm_medium=rss)
  - [Everyone’s out for themselves in Leave the World Behind’s new trailer](https://www.theverge.com/23930147/leave-the-world-behind-trailer)
- - [8 Best Deals on Arlo Security Cameras and Video Doorbells](https://www.wired.com/story/arlo-deals-security-cameras-video-doorbells-october-2023/)
- - [Clean energy is officially ‘unstoppable’ now](https://www.theverge.com/23930058/forecast-clean-renewable-unstoppable-international-energy-agency)
- - [Canadian Broadcasters want government to make Apple pay for news](https://appleinsider.com/articles/23/10/24/canadian-broadcasters-want-government-to-make-apple-pay-for-news?utm_medium=rss)<!-- TECH:END -->
+ - [8 Best Deals on Arlo Security Cameras and Video Doorbells](https://www.wired.com/story/arlo-deals-security-cameras-video-doorbells-october-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

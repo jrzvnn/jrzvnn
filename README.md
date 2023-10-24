@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: many people inside Apple do not believe its own AI/ML team can deliver on generative AI, and worry that the company will only use its own team&#39;s output &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/231024/p14#a231024p14)
- - [Apple&#39;s &#39;carbon neutral&#39; claims are misleading, say EU groups](https://appleinsider.com/articles/23/10/24/apples-carbon-neutral-claims-are-misleading-say-eu-groups?utm_medium=rss)
- - [EU environmental groups criticize Apple branding new Apple Watches as &quot;carbon neutral&quot; and using credits to cancel out the 7kg to 12kg of emissions per unit &lpar;Kenza Bryan/Financial Times&rpar;](http://www.techmeme.com/231024/p13#a231024p13)
- - [Sources: the UK is set to reject Big Tech calls to be able to appeal rulings by the CMA&#39;s Digital Markets Unit, expected to be able to levy fines and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p12#a231024p12)
- - [21 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)<!-- TECH:END -->
+ - [A Twitter user since 2007 reflects on leaving due to Elon Musk swapping stasis at the company for chaos, his constant bullshitting, and spreading toxic content &lpar;Benedict Evans&rpar;](http://www.techmeme.com/231024/p15#a231024p15)
+ - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
+ - [&#39;Assassin’s Creed Mirage&#39; Is Flashy and Fun, but Does Its Setting a Disservice](https://www.wired.com/story/assassins-creed-mirage-impressions/)
+ - [How to Spot Abortion-Related Misinformation](https://www.wired.com/story/how-to-spot-abortion-misinformation/)
+ - [Mario Wonder’s online mode is opening my mind to tricks and secrets](https://www.theverge.com/23929438/super-mario-bros-wonder-online-mode-multiplayer-tricks-secrets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at the pattern in the middle](http://9gag.com/gag/aME7ABG)
- - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 💣 [See ya](http://9gag.com/gag/aA0AgRd)
+ - 😝 [See ya](http://9gag.com/gag/aA0AgRd)
  - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 💣 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [?????](http://9gag.com/gag/aZDXy26)
  - 👉 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)<!-- MEMES:END -->
 
 ---

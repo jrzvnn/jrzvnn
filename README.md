@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 💣 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
- - 😝 [Why tho](http://9gag.com/gag/ago9XR1)
- - 👉 [Asshole](http://9gag.com/gag/aA0AxQR)<!-- MEMES:END -->
+ - 😝 [Oopsie](http://9gag.com/gag/amAQYE2)
+ - 😝 [You racist](http://9gag.com/gag/abvD66p)
+ - 💣 [Feet guys](http://9gag.com/gag/aVbr3j8)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
+ - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
 
 ---
 

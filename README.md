@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego’s flapping Dune Ornithopter set comes with a big boi Baron minifig](https://www.theverge.com/2023/10/24/23930448/dune-ornithopter-lego-set-preorder-date-baron)
  - [YouTube finally lets users update the cover art for YouTube Music playlists, but only using images created by YouTube&#39;s generative AI, not their own images &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231024/p27#a231024p27)
  - [Google Photos will soon give you more say in those AI-created video highlights](https://www.theverge.com/2023/10/24/23930259/google-photos-update-video-highlights-ai-generated-android-ios)
  - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Apple&#39;s &#39;Happy Mac&#39; face gets a spooky makeover for its &#39;Scary Fast&#39; event](https://appleinsider.com/articles/23/10/24/apples-happy-mac-face-gets-a-spooky-makeover-for-its-scary-fast-event?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

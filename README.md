@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Healthy Relationships..!!](http://9gag.com/gag/a3Zgj6e)
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [2 armed thugs tried to rob a man during the day, but got served](http://9gag.com/gag/ajVvqew)
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
  - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
+ - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
 
 ---
 

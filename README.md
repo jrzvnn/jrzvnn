@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm unveils Snapdragon X Elite, slated for PCs mid-2024, claiming better single-threaded performance than M2 Max and 2x performance-per-watt of Intel chips &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231024/p31#a231024p31)
  - [Cisco&#39;s Webex brings meetings to Apple TV, Apple Watch](https://appleinsider.com/articles/23/10/24/ciscos-webex-brings-meetings-to-apple-tv-apple-watch?utm_medium=rss)
  - [Apple TV renovation could kill iTunes Movies app in December](https://appleinsider.com/articles/23/10/24/apple-tv-change-could-eliminate-itunes-movies-app-in-december?utm_medium=rss)
  - [White House: Apple will open its repair programs up more, very soon](https://appleinsider.com/articles/23/10/24/white-house-apple-will-open-its-repair-programs-up-more-very-soon?utm_medium=rss)
- - [Early Black Friday price drop: 14-inch MacBook Pro with 32GB RAM falls to $1,699](https://appleinsider.com/articles/23/10/24/early-black-friday-price-drop-14-inch-macbook-pro-with-32gb-ram-falls-to-1699?utm_medium=rss)
- - [Sources: Apple will update tvOS with a redesigned TV app around December and remove some of its dedicated apps on the Apple TV to steer more users to the TV app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231024/p30#a231024p30)<!-- TECH:END -->
+ - [Early Black Friday price drop: 14-inch MacBook Pro with 32GB RAM falls to $1,699](https://appleinsider.com/articles/23/10/24/early-black-friday-price-drop-14-inch-macbook-pro-with-32gb-ram-falls-to-1699?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

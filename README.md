@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIPO: in 2022, Chinese entities applied for 29,853 AI patents, up from 29,000 in 2021, almost 80% more than the 16,800 US filings, down from 17,800 in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p16#a231024p16)
  - [A Twitter user since 2007 reflects on leaving due to Elon Musk swapping stasis at the company for chaos, his constant bullshitting, and spreading toxic content &lpar;Benedict Evans&rpar;](http://www.techmeme.com/231024/p15#a231024p15)
  - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
  - [&#39;Assassin’s Creed Mirage&#39; Is Flashy and Fun, but Does Its Setting a Disservice](https://www.wired.com/story/assassins-creed-mirage-impressions/)
- - [How to Spot Abortion-Related Misinformation](https://www.wired.com/story/how-to-spot-abortion-misinformation/)
- - [Mario Wonder’s online mode is opening my mind to tricks and secrets](https://www.theverge.com/23929438/super-mario-bros-wonder-online-mode-multiplayer-tricks-secrets)<!-- TECH:END -->
+ - [How to Spot Abortion-Related Misinformation](https://www.wired.com/story/how-to-spot-abortion-misinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

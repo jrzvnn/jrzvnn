@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlockFi says it has emerged from bankruptcy and has begun the process of repaying its creditors according to the terms of its bankruptcy plan &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/231024/p45#a231024p45)
  - [Signs point to Apple Silicon M3 reveal at &#39;Scary Fast&#39; event](https://appleinsider.com/articles/23/10/24/signs-point-to-apple-silicon-m3-reveal-at-scary-fast-event?utm_medium=rss)
  - [The AI-Generated Child Abuse Nightmare Is Here](https://www.wired.com/story/generative-ai-images-child-sexual-abuse/)
  - [At a White House event, Apple says it supports nationwide right-to-repair regulation that would make iPhone parts and tools available to customers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231024/p44#a231024p44)
- - [The bendy phone is back, baby](https://www.theverge.com/2023/10/24/23930668/lenovo-moto-flexible-wrist-phone-concept)
- - [Apple is reportedly planning to turn the TV app into the streaming hub it always wanted](https://www.theverge.com/2023/10/24/23930639/apple-tv-app-streaming-hub-movie-tv-rentals-sports)<!-- TECH:END -->
+ - [The bendy phone is back, baby](https://www.theverge.com/2023/10/24/23930668/lenovo-moto-flexible-wrist-phone-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

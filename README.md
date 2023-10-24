@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Believe in yourself](http://9gag.com/gag/awZjo6W)
+ - 😝 [See ya](http://9gag.com/gag/aA0AgRd)
+ - 💣 [Your choice](http://9gag.com/gag/a2Kg4Nw)
  - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 💣 [Who?](http://9gag.com/gag/aEqK2BM)
- - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
+ - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says new US export rules for AI chips to China came into effect on October 23, or about 24 days ahead of schedule &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/231024/p26#a231024p26)
  - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
- - [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
- - [Munich-based Quantum Systems, which makes reconnaissance drones for Germany, Ukraine, and others, raised a &amp;euro;63.6M Series B, taking its total funding to &amp;euro;100M+ &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231024/p25#a231024p25)
- - [Apple plans ‘Scary Fast’ product event just before Halloween](https://www.theverge.com/2023/10/24/23930407/apple-scary-fast-halloween-imac-event-macbook-pro-rumors)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Apple&#39;s &#39;Happy Mac&#39; face gets a spooky makeover for its &#39;Scary Fast&#39; event](https://appleinsider.com/articles/23/10/24/apples-happy-mac-face-gets-a-spooky-makeover-for-its-scary-fast-event?utm_medium=rss)
+ - [Nvidia says new US export rules for AI chips to China came into effect on October 23, or about 24 days ahead of schedule &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/231024/p26#a231024p26)
+ - [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

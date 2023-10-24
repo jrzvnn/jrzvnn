@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pro gamer move](http://9gag.com/gag/a5XgRME)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 💣 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
+ - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
+ - 💣 [Your choice](http://9gag.com/gag/a2Kg4Nw)
  - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
+ - 👉 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)<!-- MEMES:END -->
 
 ---
 

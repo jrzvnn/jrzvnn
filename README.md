@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
- - 😝 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 💣 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 😝 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)
+ - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 💣 [Why tho](http://9gag.com/gag/ago9XR1)
+ - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
+ - 👉 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)<!-- MEMES:END -->
 
 ---
 

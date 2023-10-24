@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music now lets you make your own playlist art with AI](https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art)
- - [California and dozens of other US states sue Meta in federal court over claims Facebook and Instagram exploit youths for profit and feed them harmful content &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/231024/p22#a231024p22)
- - [A paper from Geoffrey Hinton and other experts warns of AI systems&#39; worrying capabilities and says 33% of companies&#39; AI R&amp;D budgets should go to managing risks &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/231024/p21#a231024p21)
- - [Black Friday is 1 month away, but you can save up to 35% on Apple gear at Amazon today](https://appleinsider.com/articles/23/10/24/black-friday-is-1-month-away-but-you-can-save-up-to-35-on-apple-gear-at-amazon-today?utm_medium=rss)
- - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)<!-- TECH:END -->
+ - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
+ - [Apple schedules a &quot;Scary Fast&quot; event for October 30 at 5PM PT, where new Apple silicon and refreshed Macs are expected; the event has no in-person component &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231024/p23#a231024p23)
+ - [Chevy Bolt owners could receive $1,400 compensation from GM for nerfed batteries](https://www.theverge.com/2023/10/24/23930067/chevy-bolt-gm-compensation-class-action-batteries)
+ - [Grab This 27-Inch HP Omen Gaming Monitor for $200 at Amazon &lpar;Save $150&rpar;     - CNET](https://www.cnet.com/deals/grab-this-27-inch-hp-omen-gaming-monitor-for-200-at-amazon-save-150/#ftag=CAD590a51e)
+ - [YouTube Music now lets you make your own playlist art with AI](https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

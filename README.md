@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ulku Rowe Is the First Google Employee to Beat the Company in Court Over Sexist Discrimination](https://www.wired.com/story/this-woman-exec-beat-google-in-court-and-hopes-others-follow/)
- - [Qualcomm unveils the Snapdragon 8 Gen 3 mobile 4nm chip, with a 25% more performant GPU, AI Engine that can produce Stable Diffusion images in &lt;1 second, more &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/231024/p32#a231024p32)
- - [MacBook Pro may get full redesign in 2025, says Ming-Chi Kuo](https://appleinsider.com/articles/23/10/24/macbook-pro-may-get-full-redesign-in-2025-says-ming-chi-kuo?utm_medium=rss)
- - [Qualcomm unveils Snapdragon X Elite, slated for PCs mid-2024, claiming better single-threaded performance than M2 Max and 2x performance-per-watt of Intel chips &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/231024/p31#a231024p31)
- - [Cisco&#39;s Webex brings meetings to Apple TV, Apple Watch](https://appleinsider.com/articles/23/10/24/ciscos-webex-brings-meetings-to-apple-tv-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft reports Q1 Intelligent Cloud revenue up 19% YoY to $24.26B, vs. $23.49B est., with Azure and other cloud services revenue up 29% YoY, vs. 26% YoY est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231024/p36#a231024p36)
+ - [Alphabet reports Q3 revenue of $77B, up 11% YoY, net income of $19.7B, up from $13.9B YoY, Google Cloud revenue of $8.4B, up from $6.9B YoY; GOOG drops 5%+ &lpar;Alphabet&rpar;](http://www.techmeme.com/231024/p35#a231024p35)
+ - [Verizon&#39;s stock jumped 9.2% after reporting Q3 revenue of $33.34B, vs. $33.25B est., 100K postpaid phone net additions, vs. 60K est., and ~10.3M broadband subs &lpar;Jake Piazza/CNBC&rpar;](http://www.techmeme.com/231024/p34#a231024p34)
+ - [Microsoft reports Q1 revenue up 13% YoY to $56.5B, net income up 27% YoY to $22.3B, Office Commercial revenue up 15% YoY, and LinkedIn revenue up 8% YoY &lpar;Microsoft&rpar;](http://www.techmeme.com/231024/p33#a231024p33)
+ - [Ulku Rowe Is the First Google Employee to Beat the Company in Court Over Sexist Discrimination](https://www.wired.com/story/this-woman-exec-beat-google-in-court-and-hopes-others-follow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

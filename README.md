@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Based](http://9gag.com/gag/amAQ5A6)
+ - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
+ - 💣 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
  - 😝 [The Western Society](http://9gag.com/gag/ajVv5EQ)
- - 💣 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
  - 👉 [Feet guys](http://9gag.com/gag/aVbr3j8)<!-- MEMES:END -->
 
 ---

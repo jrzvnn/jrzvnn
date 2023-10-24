@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Carlotn is the true king of Bel Air.](http://9gag.com/gag/a4og7dQ)
  - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
- - 😝 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
- - 💣 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 😝 [Why tho](http://9gag.com/gag/ago9XR1)
- - 👉 [1 sentence to trigger a psychologist. 3, 2, 1, GO!](http://9gag.com/gag/aEqKBmp)<!-- MEMES:END -->
+ - 💣 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
+ - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
+ - 👉 [Why tho](http://9gag.com/gag/ago9XR1)<!-- MEMES:END -->
 
 ---
 

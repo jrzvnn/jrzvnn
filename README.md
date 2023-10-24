@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Based](http://9gag.com/gag/amAQ5A6)
  - 😝 [The Western Society](http://9gag.com/gag/ajVv5EQ)
- - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 💣 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 👉 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)<!-- MEMES:END -->
+ - 💣 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 👉 [Feet guys](http://9gag.com/gag/aVbr3j8)<!-- MEMES:END -->
 
 ---
 

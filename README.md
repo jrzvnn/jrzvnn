@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)
- - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 💣 [Why tho](http://9gag.com/gag/ago9XR1)
- - 😝 [Asshole](http://9gag.com/gag/aA0AxQR)
- - 👉 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)<!-- MEMES:END -->
+ - 😝 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Since we&#39;re posting them daily to escape a bit from war posts, here&#39;s the repost of this one for today](http://9gag.com/gag/a5XgrGN)
+ - 💣 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 👉 [The true face of Hamas \u201cthis one is for rape\u201d poor Israeli girls](http://9gag.com/gag/a8qNyY6)<!-- MEMES:END -->
 
 ---
 

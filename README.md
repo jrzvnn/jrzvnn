@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap’s business is showing signs of life](https://www.theverge.com/2023/10/24/23930831/snap-q3-earnings-exec-changes)
  - [The Humane AI Pin apparently runs GPT-4 and flashes a ‘Trust Light’ when it’s recording](https://www.theverge.com/2023/10/24/23930669/humane-ai-pin-trust-light-camera)
  - [Apple Pay Later is rolling out to all users in the US](https://www.theverge.com/2023/10/24/23930814/apple-pay-later-launch-bnpl-release)
  - [Qualcomm’s Snapdragon 8 Gen 3 moves AI out of the cloud and onto your phone](https://www.theverge.com/2023/10/24/23928867/qualcomm-snapdragon-8-gen-3-on-device-ai-meta-llama-2)
- - [Qualcomm turns to Wi-Fi to take wireless earbuds and headphones to the next level](https://www.theverge.com/2023/10/24/23930039/qualcomm-snapdragon-sound-s7-pro-announced-earbuds-wifi)
- - [Snapdragon claims its new X Elite processor will beat Apple, Intel, and AMD](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date)<!-- TECH:END -->
+ - [Qualcomm turns to Wi-Fi to take wireless earbuds and headphones to the next level](https://www.theverge.com/2023/10/24/23930039/qualcomm-snapdragon-sound-s7-pro-announced-earbuds-wifi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

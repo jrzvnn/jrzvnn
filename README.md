@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feet guys](http://9gag.com/gag/aVbr3j8)
- - 😝 [Imagine being this incompetent...](http://9gag.com/gag/aqeM1QQ)
- - 💣 [Here we go again](http://9gag.com/gag/aWGyYMq)
  - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 👉 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)<!-- MEMES:END -->
+ - 😝 [Feet guys](http://9gag.com/gag/aVbr3j8)
+ - 💣 [The X...](http://9gag.com/gag/aBdzwmN)
+ - 😝 [Shot put bottle - Chile](http://9gag.com/gag/aWGyYjZ)
+ - 👉 [No translation](http://9gag.com/gag/aNwM1m0)<!-- MEMES:END -->
 
 ---
 

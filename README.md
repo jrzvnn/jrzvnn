@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday is 1 month away, but you can save up to 35% on Apple gear at Amazon today](https://appleinsider.com/articles/23/10/24/black-friday-is-1-month-away-but-you-can-save-up-to-35-on-apple-gear-at-amazon-today?utm_medium=rss)
  - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
  - [China&#39;s Foxconn tax probe is Taiwan election interference, claims candidate](https://appleinsider.com/articles/23/10/24/chinas-foxconn-tax-probe-is-taiwan-election-interference-claims-candidate?utm_medium=rss)
  - [China investigating Foxconn over land use and tax issues](https://appleinsider.com/articles/23/10/23/china-investigating-foxconn-over-land-use-and-tax-issues?utm_medium=rss)
- - [Analysts: Chinese AI startup SenseTime&#39;s pivot from government surveillance work to data centers now seems doomed by new US export controls on powerful AI chips &lpar;Financial Times&rpar;](http://www.techmeme.com/231024/p20#a231024p20)
- - [Nintendo’s premium Switch OLED console is at its lowest price of $289.99 again](https://www.theverge.com/2023/10/24/23928844/nintendo-switch-oled-elgato-wave-xlr-apple-watch-ultra-deal-sale)<!-- TECH:END -->
+ - [Analysts: Chinese AI startup SenseTime&#39;s pivot from government surveillance work to data centers now seems doomed by new US export controls on powerful AI chips &lpar;Financial Times&rpar;](http://www.techmeme.com/231024/p20#a231024p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

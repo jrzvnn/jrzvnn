@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s Naver announces a deal with Saudi Arabia to create digital replicas of Riyadh and four other cities starting in 2024; sources: deal worth $100M+ &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)
  - [1Password says it detected &quot;suspicious activity&quot; on its Okta tenant that it uses to manage employee-facing apps, and found that no user data was accessed &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231023/p42#a231023p42)
  - [Adult Cheshire Cat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-cheshire-cat-onesie-dpnl/#ftag=CAD590a51e)
  - [Adult Baby Yoda Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-baby-yoda-onesie-dpnl/#ftag=CAD590a51e)
- - [Adult Bat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-bat-onesie-dpnl/#ftag=CAD590a51e)
- - [Adult Glow in the Dark Skeleton Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-skeleton-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adult Bat Onesie     - CNET](https://www.cnet.com/culture/fashion/adult-bat-onesie-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

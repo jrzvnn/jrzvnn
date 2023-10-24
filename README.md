@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
- - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
- - 💣 [Pro gamer move](http://9gag.com/gag/a5XgRME)
+ - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
  - 😝 [The only TED Talk I&#39;ve seen was by Br\u00e9ne Brown.](http://9gag.com/gag/a8qNywp)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 💣 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 👉 [You just wouldn&#39;t get it](http://9gag.com/gag/aEqKYVe)<!-- MEMES:END -->
 
 ---
 

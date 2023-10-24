@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify’s paid subscribers grow to 226 million amidst price increases](https://www.theverge.com/2023/10/24/23928667/spotify-q3-2023-earnings-report-subscriber-growth-price-rises)
+ - [Sources: prominent RISC-V startup SiFive, which raised $365M+, lays off 100 to 300+ employees, mostly in its engineering team, and guts its product portfolio &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231024/p9#a231024p9)
  - [AirTags help family recover car, but their pet dog is still missing](https://appleinsider.com/articles/23/10/24/airtags-help-family-recover-car-but-their-pet-dog-is-still-missing?utm_medium=rss)
  - [Spotify reports Q3 revenue up 11% YoY to &amp;euro;3.4B, MAUs up 26% to 574M, Premium users up 16% YoY to 226M, and a &amp;euro;32M profit, beating estimates of a &amp;euro;44.6M loss &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231024/p8#a231024p8)
- - [Google disables live traffic conditions in Israel and the Gaza Strip for its Maps and Waze apps, a source says at the request of the Israel Defense Forces &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231024/p7#a231024p7)
- - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
- - [Workers training AI demand protections from Congress](https://www.theverge.com/2023/10/24/23929411/schumer-ai-insight-forum-marc-andreesen-mturk)<!-- TECH:END -->
+ - [Google disables live traffic conditions in Israel and the Gaza Strip for its Maps and Waze apps, a source says at the request of the Israel Defense Forces &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/231024/p7#a231024p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

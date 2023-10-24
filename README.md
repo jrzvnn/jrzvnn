@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illusion lvl100](http://9gag.com/gag/avQq8b5)
- - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
- - 💣 [The Western Society](http://9gag.com/gag/ajVv5EQ)
  - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 😝 [The Western Society](http://9gag.com/gag/ajVv5EQ)
+ - 💣 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 😝 [Guess the country](http://9gag.com/gag/avQqG1q)
  - 👉 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)<!-- MEMES:END -->
 
 ---

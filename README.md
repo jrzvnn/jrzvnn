@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to create custom ringtones in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-create-custom-ringtones-in-ios-17?utm_medium=rss)
+ - [Xreal, formerly Nreal, announces the $399 Xreal Air 2 and $449 Air 2 Pro glasses with brighter Micro OLED displays, shipping in November in the US and the UK &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231024/p17#a231024p17)
  - [WIPO: in 2022, Chinese entities applied for 29,853 AI patents, up from 29,000 in 2021, almost 80% more than the 16,800 US filings, down from 17,800 in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p16#a231024p16)
  - [A Twitter user since 2007 reflects on leaving due to Elon Musk swapping stasis at the company for chaos, his constant bullshitting, and spreading toxic content &lpar;Benedict Evans&rpar;](http://www.techmeme.com/231024/p15#a231024p15)
- - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)
- - [&#39;Assassin’s Creed Mirage&#39; Is Flashy and Fun, but Does Its Setting a Disservice](https://www.wired.com/story/assassins-creed-mirage-impressions/)
- - [How to Spot Abortion-Related Misinformation](https://www.wired.com/story/how-to-spot-abortion-misinformation/)<!-- TECH:END -->
+ - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

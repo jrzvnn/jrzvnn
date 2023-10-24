@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with DALL-E 3: suggests more detailed prompts, restrictive, denies art requests in the style of living artists, and shows how quickly AI is improving &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/231024/p2#a231024p2)
  - [Glacial Lakes Threaten Millions in a Warming World](https://www.wired.com/story/glacial-lake-outburst-flood-glof-india-sikkim/)
  - [South Korea-based Naver signs a 2024 to 2029 deal, sources say for $100M+, with Saudi Arabia to build digital twins of Riyadh, Medina, Jeddah, Dammam, and Mecca &lpar;Kim Na-young/Yonhap News Agency&rpar;](http://www.techmeme.com/231024/p1#a231024p1)
  - [Best Solar-Powered Home Security Cameras for 2023     - CNET](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
- - [Best Mattress for Side Sleepers in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
- - [1Password detected suspicious activity on its Okta instance for managing employee-facing apps, and &quot;found no compromise of user data or other sensitive systems&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231023/p42#a231023p42)<!-- TECH:END -->
+ - [Best Mattress for Side Sleepers in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

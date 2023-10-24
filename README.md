@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California DMV suspends Cruise’s robotaxi permit ‘effective immediately’](https://www.theverge.com/2023/10/24/23930629/california-dmv-suspends-cruise-robotaxi-permit-safety)
- - [California&#39;s DMV suspends Cruise&#39;s deployment and driverless testing permits, ending the GM self-driving car subsidiary&#39;s robotaxi operations in San Francisco &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231024/p29#a231024p29)
+ - [Early Black Friday price drop: 14-inch MacBook Pro with 32GB RAM falls to $1,699](https://appleinsider.com/articles/23/10/24/early-black-friday-price-drop-14-inch-macbook-pro-with-32gb-ram-falls-to-1699?utm_medium=rss)
+ - [Sources: Apple will update tvOS with a redesigned TV app around December and remove some of its dedicated apps on the Apple TV to steer more users to the TV app &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231024/p30#a231024p30)
  - [Ming-Chi Kuo flip-flops, now expects new M3 MacBook Pro in October](https://appleinsider.com/articles/23/10/24/ming-chi-kuo-changes-tune-on-new-m3-macbook-pros?utm_medium=rss)
- - [Upgrade Your Switch Game With This PowerA Enhanced Wireless Controller, Just $42     - CNET](https://www.cnet.com/deals/upgrade-your-switch-game-with-this-powera-enhanced-wireless-controller-just-42/#ftag=CAD590a51e)
- - [Wyze’s new video doorbell records 24/7 locally, but you can’t escape the cloud](https://www.theverge.com/2023/10/24/23930246/wyze-video-doorbell-v2-local-recording-price-release-date)<!-- TECH:END -->
+ - [Why Nintendo Kept Super Mario Bros. Wonder&#39;s New Mario Under Wraps](https://www.wired.com/story/super-mario-bros-wonder-mario-voice-doug-bowser/)
+ - [California DMV suspends Cruise’s robotaxi permit ‘effective immediately’](https://www.theverge.com/2023/10/24/23930629/california-dmv-suspends-cruise-robotaxi-permit-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

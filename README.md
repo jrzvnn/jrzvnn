@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan VP Lai Ching-te criticizes China&#39;s Foxconn investigation; sources say China disclosed the move for political reasons tied to Taiwan&#39;s January elections &lpar;Reuters&rpar;](http://www.techmeme.com/231024/p11#a231024p11)
+ - [Apple &amp; Google turn off live traffic updates in Israel, Gaza ahead of ground war](https://appleinsider.com/articles/23/10/24/apple-google-turn-off-live-traffic-updates-in-israel-gaza-ahead-of-ground-war?utm_medium=rss)
  - [Automattic plans to acquire Texts, a $15 per month messaging app that works with WhatsApp, Instagram, LinkedIn, Signal, iMessage, and more, for $50M &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p10#a231024p10)
  - [Spotify’s paid subscribers grow to 226 million amidst price increases](https://www.theverge.com/2023/10/24/23928667/spotify-q3-2023-earnings-report-subscriber-growth-price-rises)
- - [Sources: prominent RISC-V startup SiFive, which raised $365M+, lays off 100 to 300+ employees, mostly in its engineering team, and guts its product portfolio &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231024/p9#a231024p9)
- - [AirTags help family recover car, but their pet dog is still missing](https://appleinsider.com/articles/23/10/24/airtags-help-family-recover-car-but-their-pet-dog-is-still-missing?utm_medium=rss)
- - [Spotify reports Q3 revenue up 11% YoY to &amp;euro;3.4B, MAUs up 26% to 574M, Premium users up 16% YoY to 226M, and a &amp;euro;32M profit, beating estimates of a &amp;euro;44.6M loss &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/231024/p8#a231024p8)<!-- TECH:END -->
+ - [Sources: prominent RISC-V startup SiFive, which raised $365M+, lays off 100 to 300+ employees, mostly in its engineering team, and guts its product portfolio &lpar;Dr. Ian Cutress/More Than Moore&rpar;](http://www.techmeme.com/231024/p9#a231024p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

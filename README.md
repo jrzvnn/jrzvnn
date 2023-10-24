@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tyler Cowen announces econgoat.ai, the first &quot;generative book&quot; that lets readers query the material and create more content, derived from a 100K-word manuscript &lpar;Tyler Cowen/Marginal REVOLUTION&rpar;](http://www.techmeme.com/231024/p6#a231024p6)
  - [AI experts share a paper ahead of the UK&#39;s AI summit in Bletchley Park warning of worrying capabilities in current AI systems and seeking urgent governance &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231024/p5#a231024p5)
  - [NameDrop: Here&#39;s Everything to Know About Apple&#39;s Speedy Way to Share Contact Info     - CNET](https://www.cnet.com/tech/mobile/namedrop-heres-everything-to-know-about-apples-speedy-way-to-share-contact-info/#ftag=CAD590a51e)
  - [A look at POSSE, a decade-old idea that a user should Publish &lpar;on your&rpar; Own Site and Syndicate Elsewhere, and the challenges of building a system based on that &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231024/p4#a231024p4)
- - [Samsung Galaxy Z Fold 5 Deals: $1,000 of Trade-In Credit and Up to $300 on Unlocked Models     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
- - [You Can Order Free COVID-19 Test Kits for Your Household In Minutes     - CNET](https://www.cnet.com/health/you-can-order-free-covid-19-test-kits-for-your-household-within-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 5 Deals: $1,000 of Trade-In Credit and Up to $300 on Unlocked Models     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

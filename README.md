@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 24: 35% off Apple Watch Series 8, $200 off M2 MacBook Air, Nintendo Switch OLED $289, more](https://appleinsider.com/articles/23/10/24/daily-deals-oct-24-35-off-apple-watch-series-8-200-off-m2-macbook-air-nintendo-switch-oled-289-more?utm_medium=rss)
  - [8 Best Deals on Arlo Security Cameras and Video Doorbells](https://www.wired.com/story/arlo-deals-security-cameras-video-doorbells-october-2023/)
  - [Clean energy is officially ‘unstoppable’ now](https://www.theverge.com/23930058/forecast-clean-renewable-unstoppable-international-energy-agency)
  - [Canadian Broadcasters want government to make Apple pay for news](https://appleinsider.com/articles/23/10/24/canadian-broadcasters-want-government-to-make-apple-pay-for-news?utm_medium=rss)
- - [How to Play Your Favorite Google Play Mobile Games on PC &lpar;2023&rpar;](https://www.wired.com/story/google-play-games-for-pc/)
- - [Harvard professor Lawrence Lessig on why AI and social media are causing a free speech crisis for the internet](https://www.theverge.com/23929233/lawrence-lessig-free-speech-first-amendment-ai-content-moderation-decoder-interview)<!-- TECH:END -->
+ - [How to Play Your Favorite Google Play Mobile Games on PC &lpar;2023&rpar;](https://www.wired.com/story/google-play-games-for-pc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

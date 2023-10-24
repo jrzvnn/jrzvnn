@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says new US export rules for AI chips to China came into effect on October 23, or about 24 days ahead of schedule &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/231024/p26#a231024p26)
  - [Apple promises &#39;scary fast&#39; Mac announcement the night of October 30](https://appleinsider.com/articles/23/10/24/apple-promises-scary-fast-mac-announcement-the-night-of-october-30?utm_medium=rss)
- - [Apple schedules a &quot;Scary Fast&quot; event for October 30 at 5PM PT, where new Apple silicon and refreshed Macs are expected; the event has no in-person component &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231024/p23#a231024p23)
- - [Chevy Bolt owners could receive $1,400 compensation from GM for nerfed batteries](https://www.theverge.com/2023/10/24/23930067/chevy-bolt-gm-compensation-class-action-batteries)
- - [Grab This 27-Inch HP Omen Gaming Monitor for $200 at Amazon &lpar;Save $150&rpar;     - CNET](https://www.cnet.com/deals/grab-this-27-inch-hp-omen-gaming-monitor-for-200-at-amazon-save-150/#ftag=CAD590a51e)
- - [YouTube Music now lets you make your own playlist art with AI](https://www.theverge.com/2023/10/24/23930237/youtube-music-ai-generated-playlist-art)<!-- TECH:END -->
+ - [Dozens of states sue Meta over youth mental health crisis](https://www.theverge.com/2023/10/24/23930408/meta-instagram-facebook-child-safety-lawsuit-states-kosa)
+ - [Munich-based Quantum Systems, which makes reconnaissance drones for Germany, Ukraine, and others, raised a &amp;euro;63.6M Series B, taking its total funding to &amp;euro;100M+ &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/231024/p25#a231024p25)
+ - [Apple plans ‘Scary Fast’ product event just before Halloween](https://www.theverge.com/2023/10/24/23930407/apple-scary-fast-halloween-imac-event-macbook-pro-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

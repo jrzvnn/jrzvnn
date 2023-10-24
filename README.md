@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reports Q1 devices revenue down 22% YoY, Windows revenue up 5%, Xbox content and services revenue up 13%, search and news advertising revenue up 10% &lpar;Zachary Boddy/Windows Central&rpar;](http://www.techmeme.com/231024/p41#a231024p41)
  - [Apple Pay Later launches for all eligible users in the United States, following its invite-only roll out in March 2023 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231024/p40#a231024p40)
  - [Alphabet reports Google Cloud Q3 revenue up 22.5% YoY to $8.41B, vs. $8.62B est., and Google Cloud operating income of $266M, vs. an operating loss of $440M YoY &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231024/p39#a231024p39)
- - [GM&#39;s Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person](https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/)
- - [Snap reports Q3 revenue up 5% YoY to $1.19B, vs. $1.11B est., net loss up 2% YoY to $368M, DAUs up 12% YoY to 406M, vs. 405.7M est., and won&#39;t give Q4 guidance &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231024/p38#a231024p38)
- - [Apple Pay Later is now available to everyone in US, no longer in beta](https://appleinsider.com/articles/23/10/24/apple-pay-later-is-now-available-to-everyone-in-us-no-longer-in-beta?utm_medium=rss)<!-- TECH:END -->
+ - [How Much Are American Express Membership Rewards Points Worth in October 2023?     - CNET](https://www.cnet.com/personal-finance/how-much-are-american-express-membership-rewards-points-worth/#ftag=CAD590a51e)
+ - [GM&#39;s Cruise Loses Its Self-Driving License in San Francisco After a Robotaxi Dragged a Person](https://www.wired.com/story/cruise-robotaxi-self-driving-permit-revoked-california/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

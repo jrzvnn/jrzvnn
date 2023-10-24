@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aqeMrEM)
+ - 😝 [Safen\u00b4t](http://9gag.com/gag/a7qgMZz)
  - 😝 [Oooooo Spooky!!](http://9gag.com/gag/avQqrEM)
- - 💣 [Nature, you savage!](http://9gag.com/gag/a9qwAK0)
- - 😝 [The greed.](http://9gag.com/gag/aVbrqXd)
- - 👉 [Guess the country](http://9gag.com/gag/avQqG1q)<!-- MEMES:END -->
+ - 💣 [When you met your soul mate.](http://9gag.com/gag/aEqKxMp)
+ - 😝 [Why tho](http://9gag.com/gag/ago9XR1)
+ - 👉 [Asshole](http://9gag.com/gag/aA0AxQR)<!-- MEMES:END -->
 
 ---
 

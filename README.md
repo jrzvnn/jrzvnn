@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create custom ringtones in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-create-custom-ringtones-in-ios-17?utm_medium=rss)
- - [Xreal, formerly Nreal, announces the $399 Xreal Air 2 and $449 Air 2 Pro glasses with brighter Micro OLED displays, shipping in November in the US and the UK &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/231024/p17#a231024p17)
- - [WIPO: in 2022, Chinese entities applied for 29,853 AI patents, up from 29,000 in 2021, almost 80% more than the 16,800 US filings, down from 17,800 in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231024/p16#a231024p16)
- - [A Twitter user since 2007 reflects on leaving due to Elon Musk swapping stasis at the company for chaos, his constant bullshitting, and spreading toxic content &lpar;Benedict Evans&rpar;](http://www.techmeme.com/231024/p15#a231024p15)
- - [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat/)<!-- TECH:END -->
+ - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)
+ - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
+ - [21 Best MagSafe Accessories for Your iPhone &lpar;2023&rpar;: Webcam Mount, Car Docks, Wireless Chargers](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [5 Best Pumpkin Carving Kits &lpar;2023&rpar;: Cheap and Precision Sets](https://www.wired.com/gallery/best-pumpkin-carving-kits/)
+ - [The 15 Best Games on PlayStation Plus &lpar;October 2023&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

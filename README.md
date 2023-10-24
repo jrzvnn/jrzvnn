@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 Instagram Features That US States Say Ruin Teens’ Mental Health](https://www.wired.com/story/the-5-instagram-features-that-us-states-say-ruin-teens-mental-health/)
- - [Everything Announced at Qualcomm&#39;s Snapdragon Summit video     - CNET](https://www.cnet.com/videos/everything-announced-at-qualcomms-snapdragon-summit/#ftag=CAD590a51e)
- - [Microsoft reports Q1 devices revenue down 22% YoY, Windows revenue up 5%, Xbox content and services revenue up 13% YoY, search and news ad revenue up 10% YoY &lpar;Zachary Boddy/Windows Central&rpar;](http://www.techmeme.com/231024/p41#a231024p41)
- - [Mini Bag Sealer     - CNET](https://www.cnet.com/home/kitchen-and-household/mini-bag-sealer-deal-dpnl/#ftag=CAD590a51e)
- - [Apple Pay Later launches for all eligible users in the US, following its invite-only early access prerelease version for &quot;randomly selected users&quot; in March 2023 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231024/p40#a231024p40)<!-- TECH:END -->
+ - [The Humane AI Pin apparently runs GPT-4 and flashes a ‘Trust Light’ when it’s recording](https://www.theverge.com/2023/10/24/23930669/humane-ai-pin-trust-light-camera)
+ - [Apple Pay Later is rolling out to all users in the US](https://www.theverge.com/2023/10/24/23930814/apple-pay-later-launch-bnpl-release)
+ - [Qualcomm’s Snapdragon 8 Gen 3 moves AI out of the cloud and onto your phone](https://www.theverge.com/2023/10/24/23928867/qualcomm-snapdragon-8-gen-3-on-device-ai-meta-llama-2)
+ - [Qualcomm turns to Wi-Fi to take wireless earbuds and headphones to the next level](https://www.theverge.com/2023/10/24/23930039/qualcomm-snapdragon-sound-s7-pro-announced-earbuds-wifi)
+ - [Snapdragon claims its new X Elite processor will beat Apple, Intel, and AMD](https://www.theverge.com/2023/10/24/23930366/qualcomm-snapdragon-x-elite-processor-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

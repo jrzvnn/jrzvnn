@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton’s password manager now lets you securely share logins](https://www.theverge.com/2023/10/25/23931477/proton-pass-password-manager-secure-sharing)
- - [Blink is taking up to 60 percent off video doorbells and security cameras](https://www.theverge.com/2023/10/25/23930216/blink-video-doorbell-outdoor-4-camera-anker-521-power-station-deal-sale)
- - [Sony&#39;s new PS5 Slim disc drive requires an internet connection to pair with the console for the first time, likely due to the DMCA&#39;s rules to prevent piracy &lpar;Jordan Middler/Video Games Chronicle&rpar;](http://www.techmeme.com/231025/p25#a231025p25)
- - [Apple may use Vision Pro for mental health diagnosis and treatment](https://appleinsider.com/articles/23/10/25/apple-may-use-vision-pro-for-mental-health-diagnosis-and-treatment?utm_medium=rss)
- - [GM and Honda ditch plan to build cheaper electric vehicles](https://www.theverge.com/2023/10/25/23931470/gm-honda-scrap-plan-build-cheaper-evs)<!-- TECH:END -->
+ - [The tragically millennial vocabulary of the Sam Bankman-Fried trial](https://www.theverge.com/2023/10/25/23930673/sam-bankman-fried-trial-sbf-language-yolo-yup-stuff-things)
+ - [Apple increases the monthly price of Apple TV+ from $6.99 to $9.99, News+ from $9.99 to $12.99, Arcade from $4.99 to $6.99, and Apple One from $16.95 to $19.95 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231025/p28#a231025p28)
+ - [Apple TV Plus is getting a price hike — and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)
+ - [Sources: Apple employees have discussed using Vision Pro to diagnose and treat mental health issues; eye-tracking and cameras could measure a person&#39;s &quot;affect&quot; &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/231025/p27#a231025p27)
+ - [18 Best Samsung Galaxy S23 Cases and Accessories &lpar;2023&rpar;: Chargers, Cables, and Screen Protectors](https://www.wired.com/gallery/best-samsung-galaxy-s23-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

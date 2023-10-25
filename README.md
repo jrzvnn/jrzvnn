@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kokusai Electric jumps as much as 32% in its Tokyo IPO, valuing the chip equipment maker at $3.6B, after raising ~$721M; KKR reduced its stake from 73% to 48% &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p9#a231025p9)
  - [Amazon Live and Flipkart&#39;s Vibes are trying to revive livestream commerce in India, as most startups that tried to popularize live e-commerce are struggling &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231025/p8#a231025p8)
  - [Going to See Taylor Swift&#39;s Eras Tour Concert Film? Here&#39;s What You&#39;ll Want to Know     - CNET](https://www.cnet.com/culture/entertainment/going-to-see-taylor-swifts-eras-tour-concert-film-heres-what-youll-want-to-know/#ftag=CAD590a51e)
  - [Here&#39;s What to Need to Know About Permission Slip, the App That Can Help Protect Your Online Data     - CNET](https://www.cnet.com/tech/services-and-software/heres-what-to-need-to-know-about-permission-slip-the-app-that-can-help-protect-your-online-data/#ftag=CAD590a51e)
- - [Q&amp;A with Harvard professor and Creative Commons co-founder Lawrence Lessig on AI&#39;s impact on social media and free speech, copyright issues, TikTok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231025/p7#a231025p7)
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Harvard professor and Creative Commons co-founder Lawrence Lessig on AI&#39;s impact on social media and free speech, copyright issues, TikTok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231025/p7#a231025p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

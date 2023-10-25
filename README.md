@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lexus shows off LF-ZC electric vehicle concept that will launch in 2026](https://www.theverge.com/2023/10/25/23931491/lexus-lf-zc-lf-zl-ev-concept-japan-mobility-show)
- - [China denies Taiwan election interference, then interferes anyway](https://appleinsider.com/articles/23/10/25/china-denies-taiwan-election-interference-then-interferes-anyway?utm_medium=rss)
- - [Sam Bankman-Fried will testify in his fraud trial](https://www.theverge.com/2023/10/25/23931697/sam-bankman-fried-testifying-ftx-fraud-trial)
- - [The new PS5’s detachable disc drive reportedly needs an internet connection for setup](https://www.theverge.com/2023/10/25/23931637/ps5-slim-removable-disc-drive-internet-required)
- - [New rumor suggests &#39;Scary Fast&#39; Macs could launch on November 8](https://appleinsider.com/articles/23/10/25/new-rumor-suggests-scary-fast-macs-could-launch-on-november-8?utm_medium=rss)<!-- TECH:END -->
+ - [Google Image Search Will Now Show a Photo’s History. Can It Spot Fakes?](https://www.wired.com/story/google-about-this-image-misinformation/)
+ - [Google Search can now help verify an image’s origins](https://www.theverge.com/2023/10/25/23931384/google-about-this-image-context-sources-fact-checking)
+ - [The messy story of the Bleach voice acting controversy, explained](https://www.theverge.com/23930365/bleach-thousand-year-blood-war-yoruichi-voice-cast-controversy)
+ - [Grab a Meta Quest 2 or 3 From Supernatural and Save 50% on a 1-Year Membership     - CNET](https://www.cnet.com/deals/grab-a-meta-quest-2-or-3-from-supernatural-and-save-50-on-a-1-year-membership/#ftag=CAD590a51e)
+ - [Lexus shows off LF-ZC electric vehicle concept that will launch in 2026](https://www.theverge.com/2023/10/25/23931491/lexus-lf-zc-lf-zl-ev-concept-japan-mobility-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

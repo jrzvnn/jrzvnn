@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Okta&#39;s Latest Security Breach Is Haunted by the Ghost of Incidents Past](https://www.wired.com/story/okta-support-system-breach-disclosure/)
+ - [Here’s your first look at Metal Gear Solid Delta: Snake Eater gameplay](https://www.theverge.com/23931986/metal-gear-solid-delta-snake-eater-gameplay-trailer)
  - [Google did what it could to stifle Apple&#39;s search efforts, show court documents](https://appleinsider.com/articles/23/10/25/google-tried-to-make-apple-limit-siri-search-show-court-documents?utm_medium=rss)
  - [Sources: Apple plans an overhaul of its AirPods lineup, including AirPods Max with USB-C and two redesigned 4th-gen AirPods in 2024, and new AirPods Pro in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231025/p33#a231025p33)
- - [Gmail’s new emoji picker on the web is getting a long overdue upgrade](https://www.theverge.com/2023/10/25/23931925/google-gmail-web-emoji-picker-skin-tones-gender-preferences)
- - [tvOS 17.1 &amp; HomePod Software 17.1 arrive with bug fixes and performance improvements](https://appleinsider.com/articles/23/10/25/tvos-171-arrives-with-bug-fixes-and-performance-improvements?utm_medium=rss)
- - [Apple releases updates for iOS 17.1, iPadOS 17.1](https://appleinsider.com/articles/23/10/25/apple-releases-updates-for-ios-171-ipados-171?utm_medium=rss)<!-- TECH:END -->
+ - [Gmail’s new emoji picker on the web is getting a long overdue upgrade](https://www.theverge.com/2023/10/25/23931925/google-gmail-web-emoji-picker-skin-tones-gender-preferences)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

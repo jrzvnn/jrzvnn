@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Hong Kong crypto exchange HKVAEX, founded in December 2022, shares technical and other resources with Binance; HKVAEX intends to apply for a license &lpar;South China Morning Post&rpar;](http://www.techmeme.com/231025/p18#a231025p18)
  - [French payments group Worldline reports Q3 sales up 4.8% YoY to &amp;euro;1.18B and warns of 2023 revenue hit by high interest rates; WLN drops 55%+ to a ~&amp;euro;3B market cap &lpar;Sarah White/Financial Times&rpar;](http://www.techmeme.com/231025/p17#a231025p17)
  - [Apple Watch making &#39;unmistakeable progress&#39; in identifying Parkinson&#39;s disease](https://appleinsider.com/articles/23/10/25/apple-watch-making-unmistakeable-progress-in-identifying-parkinsons-disease?utm_medium=rss)
  - [Research: UK startups raised $4.9B in Q3, with 37% coming from US VCs, taking total 2023 funding to ~$15B, or about the same as France and Germany combined &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231025/p16#a231025p16)
- - [Microsoft, OpenAI, Google, and Anthropic pick Chris Meserole from Brookings to run the new Frontier Model Forum and commit $10M to an AI safety fund &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p15#a231025p15)
- - [How to Build a PC &lpar;2023&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)<!-- TECH:END -->
+ - [Microsoft, OpenAI, Google, and Anthropic pick Chris Meserole from Brookings to run the new Frontier Model Forum and commit $10M to an AI safety fund &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p15#a231025p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

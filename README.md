@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm unveils the S7 and S7 Pro chips with increased memory, AI capabilities, and more, designed for earbuds, headphones, and speakers to be released in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231024/p47#a231024p47)
  - [Kaiko: in 2023, 3,400+ crypto tokens or trading pairs have been delisted from exchanges or been inactive for a long time, 15% more than for all of 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231024/p46#a231024p46)
  - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
  - [BlockFi says it has emerged from bankruptcy and has begun the process of repaying its creditors according to the terms of its bankruptcy plan &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/231024/p45#a231024p45)
- - [Signs point to Apple Silicon M3 reveal at &#39;Scary Fast&#39; event](https://appleinsider.com/articles/23/10/24/signs-point-to-apple-silicon-m3-reveal-at-scary-fast-event?utm_medium=rss)
- - [The AI-Generated Child Abuse Nightmare Is Here](https://www.wired.com/story/generative-ai-images-child-sexual-abuse/)<!-- TECH:END -->
+ - [Signs point to Apple Silicon M3 reveal at &#39;Scary Fast&#39; event](https://appleinsider.com/articles/23/10/24/signs-point-to-apple-silicon-m3-reveal-at-scary-fast-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

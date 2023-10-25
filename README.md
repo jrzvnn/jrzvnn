@@ -155,8 +155,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matrix, an open protocol for decentralized messaging, says its network has 115M+ users, up from 60M in July 2022, after releasing Matrix 2.0 in September 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231024/p48#a231024p48)
  - [Qualcomm unveils the S7 and S7 Pro chips with increased memory, AI capabilities, and more, designed for earbuds, headphones, and speakers to be released in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231024/p47#a231024p47)
- - [Personal Size Blender     - CNET](https://www.cnet.com/home/kitchen-and-household/personal-size-blender-dpnl/#ftag=CAD590a51e)
  - [Kaiko: in 2023, 3,400+ crypto tokens or trading pairs have been delisted from exchanges or been inactive for a long time, 15% more than for all of 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231024/p46#a231024p46)
  - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)
  - [BlockFi says it has emerged from bankruptcy and has begun the process of repaying its creditors according to the terms of its bankruptcy plan &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/231024/p45#a231024p45)<!-- TECH:END -->

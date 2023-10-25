@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Salt Security researchers detail how now-patched critical API flaws in the social and the OAuth login implementations affected Vidio, Grammarly, and Bukalapak &lpar;Deeba Ahmed/Hackread&rpar;](http://www.techmeme.com/231025/p1#a231025p1)
  - [FOIA documents: ICE used a tool called GOST to decide if US visa applicants&#39; social media posts are &quot;derogatory&quot; to the US, as part of immigration enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231024/p49#a231024p49)
- - [Best Internet Providers in Lansing, Michigan     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lansing-mi/#ftag=CAD590a51e)
  - [How to use iOS 17&#39;s new Shortcuts features to control displays, record spending, and more](https://appleinsider.com/inside/ios-17/tips/how-to-use-ios-17s-new-shortcuts-features-to-control-displays-record-spending-and-more?utm_medium=rss)
- - [Matrix, an open protocol for decentralized messaging, says its network has 115M+ users, up from 60M in July 2022, after releasing Matrix 2.0 in September 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231024/p48#a231024p48)<!-- TECH:END -->
+ - [Matrix, an open protocol for decentralized messaging, says its network has 115M+ users, up from 60M in July 2022, after releasing Matrix 2.0 in September 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231024/p48#a231024p48)
+ - [Instant Pot Air Fryer     - CNET](https://www.cnet.com/home/kitchen-and-household/instant-pot-air-fryer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

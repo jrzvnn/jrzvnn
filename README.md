@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 💣 [No vegan](http://9gag.com/gag/aYV6y8x)
- - 😝 [Your choice](http://9gag.com/gag/a2Kg4Nw)
- - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
+ - 😝 [European women!](http://9gag.com/gag/axoK97n)
+ - 😝 [Macaulay Culkin: A complicated childhood due to early fame for `My Poor Little Angel,` a failed marriage at 17 and his father&#39;s pressure lead him to plunge into the dark world of addiction. In 2013, he decided to radically change his life and today he is happily married, in 2021](http://9gag.com/gag/aYV6ye0)
+ - 💣 [How much do you wanna make ?](http://9gag.com/gag/aXn3YG9)
+ - 😝 [I&#39;m so happy now.](http://9gag.com/gag/aME7YQ1)
+ - 👉 [Hiyaaaaa..](http://9gag.com/gag/aA0AeB0)<!-- MEMES:END -->
 
 ---
 

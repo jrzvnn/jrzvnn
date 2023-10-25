@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
+ - 💣 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
+ - 👉 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)<!-- MEMES:END -->
 
 ---
 

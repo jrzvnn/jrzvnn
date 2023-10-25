@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sam Bankman-Fried Will Testify in His Own Trial. It’s a Legal Hail Mary](https://www.wired.com/story/sam-bankman-frieds-hail-mary/)
- - [A look at Apple&#39;s double tap gesture rolling out with watchOS 10.1, letting Watch Series 9 and Ultra 2 users interact with the watch without touching its screen &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231025/p36#a231025p36)
+ - [A look at Apple&#39;s double tap gesture rolling out with watchOS 10.1, letting Series 9 and Ultra 2 users interact with their watch without using its touchscreen &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231025/p36#a231025p36)
  - [Meta actually added a useful feature to Horizon Worlds — and some goofy ones](https://www.theverge.com/2023/10/25/23932063/meta-horizon-worlds-update-v133-time-spent)
  - [Apple Watch Series 9 and Ultra 2: Double Tap is Here     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-and-ultra-2-double-tap-is-here/#ftag=CAD590a51e)
  - [iOS 17.1: Your iPhone Just Got These New Features     - CNET](https://www.cnet.com/tech/mobile/ios-17-1-your-iphone-just-got-these-new-features/#ftag=CAD590a51e)<!-- TECH:END -->

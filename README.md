@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
  - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 💣 [So many incongruences](http://9gag.com/gag/a8qNGLV)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
  - 👉 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)<!-- MEMES:END -->
 
 ---

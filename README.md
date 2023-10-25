@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feels](http://9gag.com/gag/aA0AeAL)
- - 😝 [Oden](http://9gag.com/gag/ay2re2p)
- - 💣 [Based Christian interrupts a Muslim meeting with an important message](http://9gag.com/gag/aEqKpmK)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [What ?](http://9gag.com/gag/axoK7qb)<!-- MEMES:END -->
+ - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
 
 ---
 

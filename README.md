@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Judge Amit Mehta has repeatedly accepted Google&#39;s requests to redact documents and hold private testimony, alarming press advocates and reporters &lpar;Scott Nover/Slate&rpar;](http://www.techmeme.com/231025/p22#a231025p22)
+ - [Intel’s new 14th Gen CPUs get a boost to gaming performance with APO feature](https://www.theverge.com/2023/10/25/23931433/intel-14th-gen-cpus-intel-application-optimization-performance-fps-improvements)
+ - [M3 iMac will look about the same as it does now, says leaker](https://appleinsider.com/articles/23/10/25/m3-imac-will-look-about-the-same-as-it-does-now-says-leaker?utm_medium=rss)
  - [After 12 days of damaging US witness testimony from SBF&#39;s friends and colleagues, legal experts say he may now have to take the stand to avoid life in prison &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231025/p21#a231025p21)
- - [Montblanc MTB 03 Wireless Earphones Review: Superb Sound, ANC Could Be Better](https://www.wired.com/review/review-montblanc-mtb-03-earphones/)
- - [TikTok announces its first live global music event, set for December 10 in Mesa, Arizona, with Cardi B, Niall Horan, Anitta, and Charlie Puth headlining &lpar;Rania Aniftos/Billboard&rpar;](http://www.techmeme.com/231025/p20#a231025p20)
- - [A survey of 1,484 US Amazon workers at 451 facilities finds injury and pain &quot;are far more widespread&quot; than previously known; 69% took unpaid time off to recover &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231025/p19#a231025p19)
- - [How to Use Nearby Share on Android &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)<!-- TECH:END -->
+ - [Montblanc MTB 03 Wireless Earphones Review: Superb Sound, ANC Could Be Better](https://www.wired.com/review/review-montblanc-mtb-03-earphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

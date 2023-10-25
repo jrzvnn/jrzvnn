@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
  - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 💣 [What is this? lol](http://9gag.com/gag/aBdznRQ)
+ - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

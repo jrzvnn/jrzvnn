@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After 12 days of damaging US witness testimony from SBF&#39;s friends and colleagues, legal experts say he may now have to take the stand to avoid life in prison &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231025/p21#a231025p21)
+ - [Montblanc MTB 03 Wireless Earphones Review: Superb Sound, ANC Could Be Better](https://www.wired.com/review/review-montblanc-mtb-03-earphones/)
+ - [TikTok announces its first live global music event, set for December 10 in Mesa, Arizona, with Cardi B, Niall Horan, Anitta, and Charlie Puth headlining &lpar;Rania Aniftos/Billboard&rpar;](http://www.techmeme.com/231025/p20#a231025p20)
  - [A survey of 1,484 US Amazon workers at 451 facilities finds injury and pain &quot;are far more widespread&quot; than previously known; 69% took unpaid time off to recover &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231025/p19#a231025p19)
- - [How to Use Nearby Share on Android &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)
- - [How to Use ChatGPT’s ‘Browse With Bing’ Tool—Plus 6 Starter Prompts](https://www.wired.com/story/chatgpt-browse-with-bing-internet-connected-openai/)
- - [Keep Time The Smart Way With 33% Off Your New Apple Watch Series 8     - CNET](https://www.cnet.com/deals/keep-time-the-smart-way-with-33-percent-off-your-new-apple-watch-series-8/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates on Oct. 25, 2023: Rates Advance     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-oct-25-2023-rates-advance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use Nearby Share on Android &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

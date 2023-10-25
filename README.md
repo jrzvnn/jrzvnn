@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont forget to be grateful folks](http://9gag.com/gag/aoKoMrm)
+ - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
  - 😝 [Not smart](http://9gag.com/gag/aVbrxov)
  - 💣 [Could you f**king stop](http://9gag.com/gag/aqeMj3L)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)

@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)
  - [Apple’s future AirPods roadmap just leaked, and big changes are coming](https://www.theverge.com/2023/10/25/23931989/apple-airpods-4-max-pro-rumor-new-features)
  - [Sources: a Biden EO on AI is expected on Monday, requiring AI models undergo testing before use by federal workers, easing highly skilled immigration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/231025/p34#a231025p34)
- - [Okta&#39;s Latest Security Breach Is Haunted by the Ghost of Incidents Past](https://www.wired.com/story/okta-support-system-breach-disclosure/)
- - [Here’s your first look at Metal Gear Solid Delta: Snake Eater gameplay](https://www.theverge.com/23931986/metal-gear-solid-delta-snake-eater-gameplay-trailer)<!-- TECH:END -->
+ - [T-Mobile Walks Back Forced Plan Migration, Won&#39;t Make People Switch Plans After All     - CNET](https://www.cnet.com/tech/mobile/t-mobile-walks-back-forced-plan-migration-wont-make-people-switch-plans-after-all/#ftag=CAD590a51e)
+ - [Okta&#39;s Latest Security Breach Is Haunted by the Ghost of Incidents Past](https://www.wired.com/story/okta-support-system-breach-disclosure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

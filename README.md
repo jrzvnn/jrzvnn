@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 😝 [Not smart](http://9gag.com/gag/aVbrxov)
- - 💣 [Could you f**king stop](http://9gag.com/gag/aqeMj3L)
+ - 😝 [Send it to ex and hope it works](http://9gag.com/gag/a4og35A)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)<!-- MEMES:END -->
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

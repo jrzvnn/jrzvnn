@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s double tap gesture rolling out with watchOS 10.1, letting Watch Series 9 and Ultra 2 users interact with the watch without touching its screen &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231025/p36#a231025p36)
+ - [Meta actually added a useful feature to Horizon Worlds — and some goofy ones](https://www.theverge.com/2023/10/25/23932063/meta-horizon-worlds-update-v133-time-spent)
  - [Telegram has blocked Hamas channels on Android because Google forced it to](https://www.theverge.com/2023/10/25/23931710/telegram-android-block-hamas-channels-google-play-guidelines-war-israel)
  - [Researchers reveal an attack forcing iOS and macOS WebKit browsers to divulge secrets, like passwords and private web data, of users who visit a malicious site &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231025/p35#a231025p35)
- - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)
- - [Apple’s future AirPods roadmap just leaked, and big changes are coming](https://www.theverge.com/2023/10/25/23931989/apple-airpods-4-max-pro-rumor-new-features)
- - [Sources: a Biden EO on AI is expected on Monday, requiring AI models undergo testing before use by federal workers, easing highly skilled immigration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/231025/p34#a231025p34)<!-- TECH:END -->
+ - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Threads has hit &quot;just under&quot; 100M monthly users since it was released in early July &lpar;The Verge&rpar;](http://www.techmeme.com/231025/p43#a231025p43)
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
  - [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings)
  - [X is officially rolling out audio and video calls](https://www.theverge.com/2023/10/25/23932371/x-audio-video-calls-elon-musk)
- - [Apple patched several security vulnerabilities in iOS 17.1 and the rest](https://appleinsider.com/articles/23/10/25/apple-patched-several-security-vulnerabilities-in-ios-171-and-the-rest?utm_medium=rss)
- - [Sources: Spotify plans major changes to its royalty model in Q1 2024, including a threshold of minimum annual streams before a track starts generating royalties &lpar;Tim Ingham/Music Business Worldwide&rpar;](http://www.techmeme.com/231025/p42#a231025p42)
- - [Black Friday arrives early with up to $1,900 in deals from B&amp;H Photo this week](https://appleinsider.com/articles/23/10/25/black-friday-arrives-early-with-up-to-1900-in-deals-from-bh-photo-this-week?utm_medium=rss)<!-- TECH:END -->
+ - [Apple patched several security vulnerabilities in iOS 17.1 and the rest](https://appleinsider.com/articles/23/10/25/apple-patched-several-security-vulnerabilities-in-ios-171-and-the-rest?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

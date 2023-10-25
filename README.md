@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say an EU plan requiring messaging services to scan for CSAM is the wrong response to a multifaceted problem and a direct threat to democratic values &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231025/p5#a231025p5)
+ - [China says Foxconn probe is &quot;normal law enforcement&quot; activity, and urges Taiwan businesses to &quot;play a more active role&quot; in promoting peaceful cross-strait ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p4#a231025p4)
  - [The Internet Watch Foundation warns that generative AI is being used to create child sexual abuse imagery, and finds ~3K AI-made abuse images breaking UK law &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231025/p3#a231025p3)
  - [Texas Instruments reports Q3 revenue down 14% YoY to $4.53B v. $4.58B est., and forecasts Q4 revenue and profit below estimates as its industrial demand worsens &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231025/p2#a231025p2)
- - [Salt Security researchers detail how now-patched critical API flaws in the social and the OAuth login implementations affected Vidio, Grammarly, and Bukalapak &lpar;Deeba Ahmed/Hackread&rpar;](http://www.techmeme.com/231025/p1#a231025p1)
- - [FOIA documents: ICE used a tool called GOST to decide if US visa applicants&#39; social media posts are &quot;derogatory&quot; to the US, as part of immigration enforcement &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231024/p49#a231024p49)
- - [Best Internet Providers in Lansing, Michigan     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lansing-mi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Salt Security researchers detail how now-patched critical API flaws in the social and the OAuth login implementations affected Vidio, Grammarly, and Bukalapak &lpar;Deeba Ahmed/Hackread&rpar;](http://www.techmeme.com/231025/p1#a231025p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

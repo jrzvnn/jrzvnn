@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The riddler](http://9gag.com/gag/aGEvg3K)
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 💣 [Oden](http://9gag.com/gag/ay2re2p)
  - 😝 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)
- - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
+ - 😝 [I&#39;m just curious..are they really doing this or is it a joke?](http://9gag.com/gag/aNwM1LG)
+ - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

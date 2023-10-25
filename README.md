@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send it to ex and hope it works](http://9gag.com/gag/a4og35A)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 💣 [What is this? lol](http://9gag.com/gag/aBdznRQ)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)<!-- MEMES:END -->
+ - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
 
 ---
 

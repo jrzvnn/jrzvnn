@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its first transparency EU DSA report, Amazon discloses 181M users in the EU, directly employs 150K+ people, and more; Germany has 60M MAUs and France has 35M &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p14#a231025p14)
- - [Source: Indian tax authorities serve notices to online gaming companies demanding ~$12.03B in allegedly evaded taxes, after imposing a 28% gaming tax in August &lpar;Reuters&rpar;](http://www.techmeme.com/231025/p13#a231025p13)
- - [New M3 MacBook Pro box may have been leaked](https://appleinsider.com/articles/23/10/25/new-m3-macbook-pro-box-may-have-been-leaked?utm_medium=rss)
- - [The Israel-Hamas and Ukraine wars are fueling graphic videos online, reaching a global audience, sometimes as propaganda, and potentially causing more trauma &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231025/p12#a231025p12)
- - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft, OpenAI, Google, and Anthropic pick Chris Meserole from Brookings to run the new Frontier Model Forum and commit $10M to an AI safety fund &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p15#a231025p15)
+ - [How to Build a PC &lpar;2023&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
+ - [The Mystery of Cosmic Radio Bursts Gets Bright New Clues](https://www.wired.com/story/the-mystery-of-cosmic-radio-bursts-gets-bright-new-clues/)
+ - [Reporters in Gaza Turn to Radios and Generators to Keep the News Moving](https://www.wired.com/story/reporters-in-gaza-turn-to-radios-and-generators-to-keep-the-news-moving/)
+ - [Elon Musk Mocked Ukraine, and Russian Trolls Went Wild](https://www.wired.com/story/elon-musk-mocked-ukraine-russian-trolls-went-wild/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

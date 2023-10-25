@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Hong Kong crypto exchange HKVAEX, founded in December 2022, shares technical and other resources with Binance; HKVAEX intends to apply for a license &lpar;South China Morning Post&rpar;](http://www.techmeme.com/231025/p18#a231025p18)
- - [French payments group Worldline reports Q3 sales up 4.8% YoY to &amp;euro;1.18B and warns of 2023 revenue hit by high interest rates; WLN drops 55%+ to a ~&amp;euro;3B market cap &lpar;Sarah White/Financial Times&rpar;](http://www.techmeme.com/231025/p17#a231025p17)
- - [Apple Watch making &#39;unmistakeable progress&#39; in identifying Parkinson&#39;s disease](https://appleinsider.com/articles/23/10/25/apple-watch-making-unmistakeable-progress-in-identifying-parkinsons-disease?utm_medium=rss)
- - [Research: UK startups raised $4.9B in Q3, with 37% coming from US VCs, taking total 2023 funding to ~$15B, or about the same as France and Germany combined &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231025/p16#a231025p16)
- - [Microsoft, OpenAI, Google, and Anthropic pick Chris Meserole from Brookings to run the new Frontier Model Forum and commit $10M to an AI safety fund &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p15#a231025p15)<!-- TECH:END -->
+ - [A survey of 1,484 US Amazon workers at 451 facilities finds injury and pain &quot;are far more widespread&quot; than previously known; 69% took unpaid time off to recover &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231025/p19#a231025p19)
+ - [How to Use Nearby Share on Android &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-nearby-share-android/)
+ - [How to Use ChatGPT’s ‘Browse With Bing’ Tool—Plus 6 Starter Prompts](https://www.wired.com/story/chatgpt-browse-with-bing-internet-connected-openai/)
+ - [Keep Time The Smart Way With 33% Off Your New Apple Watch Series 8     - CNET](https://www.cnet.com/deals/keep-time-the-smart-way-with-33-percent-off-your-new-apple-watch-series-8/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates on Oct. 25, 2023: Rates Advance     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-oct-25-2023-rates-advance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

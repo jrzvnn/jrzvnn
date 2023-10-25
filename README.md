@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
- - 😝 [The riddler](http://9gag.com/gag/aGEvg3K)
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
- - 😝 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)
+ - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 😝 [What is this? lol](http://9gag.com/gag/aBdznRQ)
  - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
 
 ---

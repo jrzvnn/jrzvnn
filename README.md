@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No vegan](http://9gag.com/gag/aYV6y8x)
  - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
- - 💣 [See ya](http://9gag.com/gag/aA0AgRd)
  - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
+ - 💣 [No vegan](http://9gag.com/gag/aYV6y8x)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
 
 ---
 

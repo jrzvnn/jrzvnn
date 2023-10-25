@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
  - 😝 [What is this? lol](http://9gag.com/gag/aBdznRQ)
- - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 💣 [Based Christian interrupts a Muslim meeting with an important message](http://9gag.com/gag/aEqKpmK)
+ - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

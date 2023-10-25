@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many incongruences](http://9gag.com/gag/a8qNGLV)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 👉 [I&#39;m just curious..are they really doing this or is it a joke?](http://9gag.com/gag/aNwM1LG)<!-- MEMES:END -->
+ - 😝 [Feet guys](http://9gag.com/gag/aVbr3j8)
+ - 😝 [How much do you wanna make ?](http://9gag.com/gag/aXn3YG9)
+ - 💣 [I&#39;m so happy now.](http://9gag.com/gag/aME7YQ1)
+ - 😝 [European women!](http://9gag.com/gag/axoK97n)
+ - 👉 [This potato works because I got it from the Internet. Trust me.](http://9gag.com/gag/aYV6gWv)<!-- MEMES:END -->
 
 ---
 

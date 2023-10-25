@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is officially rolling out audio and video calls](https://www.theverge.com/2023/10/25/23932371/x-audio-video-calls-elon-musk)
+ - [Apple patched several security vulnerabilities in iOS 17.1 and the rest](https://appleinsider.com/articles/23/10/25/apple-patched-several-security-vulnerabilities-in-ios-171-and-the-rest?utm_medium=rss)
  - [Sources: Spotify plans major changes to its royalty model in Q1 2024, including a threshold of minimum annual streams before a track starts generating royalties &lpar;Tim Ingham/Music Business Worldwide&rpar;](http://www.techmeme.com/231025/p42#a231025p42)
  - [Black Friday arrives early with up to $1,900 in deals from B&amp;H Photo this week](https://appleinsider.com/articles/23/10/25/black-friday-arrives-early-with-up-to-1900-in-deals-from-bh-photo-this-week?utm_medium=rss)
- - [IBM Q3: revenue up 5% YoY to $14.75B, vs. $14.73B est., a $1.7B net income, vs. a $3.2B net loss YoY, and software revenue up 8% YoY to $6.27B, vs. $6.27B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231025/p41#a231025p41)
- - [Meta&#39;s Reality Labs reports Q3 revenue down 26% YoY to $210M, vs. $299.3M est., and operating loss up 2% YoY to $3.74B, vs. $3.9B est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231025/p40#a231025p40)
- - [Is the Apple One subscription bundle worth it in Fall 2023?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-bundle-worth-it-in-fall-2023?utm_medium=rss)<!-- TECH:END -->
+ - [IBM Q3: revenue up 5% YoY to $14.75B, vs. $14.73B est., a $1.7B net income, vs. a $3.2B net loss YoY, and software revenue up 8% YoY to $6.27B, vs. $6.27B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231025/p41#a231025p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

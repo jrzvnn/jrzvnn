@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they from alabama?](http://9gag.com/gag/ago9AvK)
- - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
- - 💣 [See ya](http://9gag.com/gag/aA0AgRd)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 👉 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)<!-- MEMES:END -->
+ - 😝 [Pro gamer move](http://9gag.com/gag/a5XgRME)
+ - 😝 [European women!](http://9gag.com/gag/axoK97n)
+ - 💣 [How much do you wanna make ?](http://9gag.com/gag/aXn3YG9)
+ - 😝 [Macaulay Culkin: A complicated childhood due to early fame for `My Poor Little Angel,` a failed marriage at 17 and his father&#39;s pressure lead him to plunge into the dark world of addiction. In 2013, he decided to radically change his life and today he is happily married, in 2021](http://9gag.com/gag/aYV6ye0)
+ - 👉 [I&#39;m so happy now.](http://9gag.com/gag/aME7YQ1)<!-- MEMES:END -->
 
 ---
 

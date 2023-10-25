@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China denies Taiwan election interference, then interferes anyway](https://appleinsider.com/articles/23/10/25/china-denies-taiwan-election-interference-then-interferes-anyway?utm_medium=rss)
+ - [Sam Bankman-Fried will testify in his fraud trial](https://www.theverge.com/2023/10/25/23931697/sam-bankman-fried-testifying-ftx-fraud-trial)
+ - [The new PS5’s detachable disc drive reportedly needs an internet connection for setup](https://www.theverge.com/2023/10/25/23931637/ps5-slim-removable-disc-drive-internet-required)
  - [New rumor suggests &#39;Scary Fast&#39; Macs could launch on November 8](https://appleinsider.com/articles/23/10/25/new-rumor-suggests-scary-fast-macs-could-launch-on-november-8?utm_medium=rss)
- - [Amazon launches a generative AI tool for advertisers to create &quot;lifestyle imagery&quot; backgrounds or scenes for their products in beta &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231025/p31#a231025p31)
- - [Puzzmo is imagining a better newspaper games page](https://www.theverge.com/23929222/puzzmo-newspaper-games-crossword-zach-gage)
- - [iPhone owners keep their smartphones longer than Android users](https://appleinsider.com/articles/23/10/25/iphone-owners-keep-their-smartphones-longer-than-android-users?utm_medium=rss)
- - [Best Portable Power Stations for October 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon launches a generative AI tool for advertisers to create &quot;lifestyle imagery&quot; backgrounds or scenes for their products in beta &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231025/p31#a231025p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

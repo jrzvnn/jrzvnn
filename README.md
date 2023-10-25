@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proton’s password manager now lets you securely share logins](https://www.theverge.com/2023/10/25/23931477/proton-pass-password-manager-secure-sharing)
  - [Blink is taking up to 60 percent off video doorbells and security cameras](https://www.theverge.com/2023/10/25/23930216/blink-video-doorbell-outdoor-4-camera-anker-521-power-station-deal-sale)
  - [Sony&#39;s new PS5 Slim disc drive requires an internet connection to pair with the console for the first time, likely due to the DMCA&#39;s rules to prevent piracy &lpar;Jordan Middler/Video Games Chronicle&rpar;](http://www.techmeme.com/231025/p25#a231025p25)
  - [Apple may use Vision Pro for mental health diagnosis and treatment](https://appleinsider.com/articles/23/10/25/apple-may-use-vision-pro-for-mental-health-diagnosis-and-treatment?utm_medium=rss)
- - [GM and Honda ditch plan to build cheaper electric vehicles](https://www.theverge.com/2023/10/25/23931470/gm-honda-scrap-plan-build-cheaper-evs)
- - [Wacom’s petite additions to the Cintiq Pro lineup come with a big price tag](https://www.theverge.com/2023/10/25/23931466/wacom-cintiq-pro-17-22-drawing-display-tablets-price-release-date)<!-- TECH:END -->
+ - [GM and Honda ditch plan to build cheaper electric vehicles](https://www.theverge.com/2023/10/25/23931470/gm-honda-scrap-plan-build-cheaper-evs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honor says its new phone lets you open apps with your eyes](https://www.theverge.com/2023/10/25/23932319/honor-magic-6-eye-tracking-magic-capsule-snapdragon-8-gen-3)
+ - [iLeakage attack resurrects Spectre with password and website data extraction](https://appleinsider.com/articles/23/10/25/ileakage-attack-resurrects-spectre-with-password-and-website-data-extraction?utm_medium=rss)
  - [22 Harry Potter Gifts Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/22-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)
  - [X rolls out audio and video calling to some users, with options to &quot;select who you&#39;re comfortable using it with&quot;, or disable the feature altogether &lpar;Stephanie Barnes/Engadget&rpar;](http://www.techmeme.com/231025/p45#a231025p45)
- - [The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit](https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/)
- - [Latest iPhone 15 Pro ad focuses on gaming with A17 Pro](https://appleinsider.com/articles/23/10/25/latest-iphone-15-pro-ad-focuses-on-gaming-with-a17-pro?utm_medium=rss)
- - [Google plans to require apps on the Play Store to offer users the ability to flag offensive AI-generated content without exiting the app, starting in early 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231025/p44#a231025p44)<!-- TECH:END -->
+ - [The UK Lists Top Nightmare AI Scenarios Ahead of Its Big Tech Summit](https://www.wired.com/story/the-uk-lists-top-nightmare-ai-scenarios-ahead-of-its-big-tech-summit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

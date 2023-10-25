@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Indian tax authorities serve notices to online gaming companies demanding ~$12.03B in allegedly evaded taxes, after imposing a 28% gaming tax in August &lpar;Reuters&rpar;](http://www.techmeme.com/231025/p13#a231025p13)
  - [New M3 MacBook Pro box may have been leaked](https://appleinsider.com/articles/23/10/25/new-m3-macbook-pro-box-may-have-been-leaked?utm_medium=rss)
  - [The Israel-Hamas and Ukraine wars are fueling graphic videos online, reaching a global audience, sometimes as propaganda, and potentially causing more trauma &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/231025/p12#a231025p12)
  - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
- - [Bankruptcy hearing: FTX is considering proposals from three bidders to restart trading, without disclosing the names, and will make a decision by mid-December &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/231025/p11#a231025p11)
- - [AWS plans to launch a sovereign cloud in Europe for governments and customers in regulated industries, storing data on EU servers and first available in Germany &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p10#a231025p10)<!-- TECH:END -->
+ - [Bankruptcy hearing: FTX is considering proposals from three bidders to restart trading, without disclosing the names, and will make a decision by mid-December &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/231025/p11#a231025p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

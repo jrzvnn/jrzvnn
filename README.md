@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 😝 [Oden](http://9gag.com/gag/ay2re2p)
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 👉 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)<!-- MEMES:END -->
+ - 😝 [Send it to ex and hope it works](http://9gag.com/gag/a4og35A)
+ - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

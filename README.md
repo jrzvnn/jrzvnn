@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 💣 [So many incongruences](http://9gag.com/gag/a8qNGLV)
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 👉 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)<!-- MEMES:END -->
+ - 😝 [Hiyaaaaa..](http://9gag.com/gag/aA0AeB0)
+ - 😝 [How much do you wanna make ?](http://9gag.com/gag/aXn3YG9)
+ - 💣 [I&#39;m so happy now.](http://9gag.com/gag/aME7YQ1)
+ - 😝 [European women!](http://9gag.com/gag/axoK97n)
+ - 👉 [Bless his heart, King tries his best](http://9gag.com/gag/a2Kg7r9)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)
+ - [Apple’s future AirPods roadmap just leaked, and big changes are coming](https://www.theverge.com/2023/10/25/23931989/apple-airpods-4-max-pro-rumor-new-features)
+ - [Sources: a Biden EO on AI is expected on Monday, requiring AI models undergo testing before use by federal workers, easing highly skilled immigration, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/231025/p34#a231025p34)
  - [Okta&#39;s Latest Security Breach Is Haunted by the Ghost of Incidents Past](https://www.wired.com/story/okta-support-system-breach-disclosure/)
- - [Here’s your first look at Metal Gear Solid Delta: Snake Eater gameplay](https://www.theverge.com/23931986/metal-gear-solid-delta-snake-eater-gameplay-trailer)
- - [Google did what it could to stifle Apple&#39;s search efforts, show court documents](https://appleinsider.com/articles/23/10/25/google-tried-to-make-apple-limit-siri-search-show-court-documents?utm_medium=rss)
- - [Sources: Apple plans an overhaul of its AirPods lineup, including AirPods Max with USB-C and two redesigned 4th-gen AirPods in 2024, and new AirPods Pro in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231025/p33#a231025p33)
- - [Gmail’s new emoji picker on the web is getting a long overdue upgrade](https://www.theverge.com/2023/10/25/23931925/google-gmail-web-emoji-picker-skin-tones-gender-preferences)<!-- TECH:END -->
+ - [Here’s your first look at Metal Gear Solid Delta: Snake Eater gameplay](https://www.theverge.com/23931986/metal-gear-solid-delta-snake-eater-gameplay-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Image Search Will Now Show a Photo’s History. Can It Spot Fakes?](https://www.wired.com/story/google-about-this-image-misinformation/)
- - [Google Search can now help verify an image’s origins](https://www.theverge.com/2023/10/25/23931384/google-about-this-image-context-sources-fact-checking)
- - [The messy story of the Bleach voice acting controversy, explained](https://www.theverge.com/23930365/bleach-thousand-year-blood-war-yoruichi-voice-cast-controversy)
- - [Grab a Meta Quest 2 or 3 From Supernatural and Save 50% on a 1-Year Membership     - CNET](https://www.cnet.com/deals/grab-a-meta-quest-2-or-3-from-supernatural-and-save-50-on-a-1-year-membership/#ftag=CAD590a51e)
- - [Lexus shows off LF-ZC electric vehicle concept that will launch in 2026](https://www.theverge.com/2023/10/25/23931491/lexus-lf-zc-lf-zl-ev-concept-japan-mobility-show)<!-- TECH:END -->
+ - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
+ - [Killers of the Flower Moon is a devastating snapshot of America’s truth laid bare](https://www.theverge.com/23929429/killers-of-the-flower-moon-review-scorsese-apple-tv-plus)
+ - [How to watch Apple&#39;s &#39;Scary Fast&#39; Mac event on October 30](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-scary-fast-mac-event-on-october-30?utm_medium=rss)
+ - [The new, ‘efficient’ Spotify has a very different approach to podcasting](https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai)
+ - [Google Image Search Will Now Show a Photo’s History. Can It Spot Fakes?](https://www.wired.com/story/google-about-this-image-misinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

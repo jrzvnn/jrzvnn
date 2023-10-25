@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Live and Flipkart&#39;s Vibes are trying to revive livestream commerce in India, as most startups that tried to popularize live e-commerce are struggling &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231025/p8#a231025p8)
  - [Q&amp;A with Harvard professor and Creative Commons co-founder Lawrence Lessig on AI&#39;s impact on social media and free speech, copyright issues, TikTok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231025/p7#a231025p7)
  - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
  - [Blued, China&#39;s largest gay dating app, plans to expand to Southeast Asia and the US in a bid to take on Grindr, while facing censorship and competition in China &lpar;Rest of World&rpar;](http://www.techmeme.com/231025/p6#a231025p6)
- - [Experts say an EU plan requiring messaging services to scan for CSAM is the wrong response to a multifaceted problem and a direct threat to democratic values &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231025/p5#a231025p5)
- - [China says Foxconn probe is &quot;normal law enforcement&quot; activity, and urges Taiwan businesses to &quot;play a more active role&quot; in promoting peaceful cross-strait ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p4#a231025p4)<!-- TECH:END -->
+ - [Experts say an EU plan requiring messaging services to scan for CSAM is the wrong response to a multifaceted problem and a direct threat to democratic values &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231025/p5#a231025p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

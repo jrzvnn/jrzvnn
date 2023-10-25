@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m just curious..are they really doing this or is it a joke?](http://9gag.com/gag/aNwM1LG)
- - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 😝 [Getting tired of the incels giving their twisted views on women and marriage. Cheers to those of us who live in a happy relationship](http://9gag.com/gag/aOxE35E)
+ - 😝 [Feels](http://9gag.com/gag/aA0AeAL)
+ - 💣 [Bless his heart, King tries his best](http://9gag.com/gag/a2Kg7r9)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
+ - 👉 [Leaf me alone](http://9gag.com/gag/amAQg8d)<!-- MEMES:END -->
 
 ---
 

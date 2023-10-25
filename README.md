@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Bankman Fried&#39;s lawyer says SBF plans to testify in his own trial when they start their case later this week, after damaging testimony from a US witness &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p30#a231025p30)
  - [Daily deals Oct. 25: Apple Watch Ultra $629, free iPhone 15 Pro offer, up to $5,000 off Samsung TVs, more](https://appleinsider.com/articles/23/10/25/daily-deals-oct-25-apple-watch-ultra-629-free-iphone-15-pro-offer-up-to-5000-off-samsung-tvs-more?utm_medium=rss)
  - [Your Amazon Alexa IFTTT automations are about to stop working](https://www.theverge.com/2023/10/25/23931463/ifttt-amazon-alexa-applets-ending-support-integration-automation)
  - [How telecoms and media giant Altice, led by billionaire Patrick Drahi, became weighed down by scandals and debt-fueled acquisitions during low interest rates &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p29#a231025p29)
- - [Artists can use a data poisoning tool to confuse DALL-E and corrupt AI scraping](https://www.theverge.com/2023/10/25/23931592/generative-ai-art-poison-midjourney)
- - [Apple hikes Apple One cost by up to $5 as most services prices rise](https://appleinsider.com/articles/23/10/25/apple-hikes-apple-one-cost-by-up-to-5-as-most-services-prices-rise?utm_medium=rss)<!-- TECH:END -->
+ - [Artists can use a data poisoning tool to confuse DALL-E and corrupt AI scraping](https://www.theverge.com/2023/10/25/23931592/generative-ai-art-poison-midjourney)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

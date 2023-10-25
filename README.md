@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out &quot;About this image&quot;, which provides background information and context about images in Search, to English-language users globally &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231025/p32#a231025p32)
- - [Google will require Android apps to better moderate AI-generated content](https://www.theverge.com/2023/10/25/23931732/android-generative-ai-rules-app-developer-policy-google)
- - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
- - [Killers of the Flower Moon is a devastating snapshot of America’s truth laid bare](https://www.theverge.com/23929429/killers-of-the-flower-moon-review-scorsese-apple-tv-plus)
- - [How to watch Apple&#39;s &#39;Scary Fast&#39; Mac event on October 30](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-scary-fast-mac-event-on-october-30?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s watchOS 10.1 has arrived with double-tap](https://appleinsider.com/articles/23/10/25/apples-watchos-101-has-arrived-with-double-tap?utm_medium=rss)
+ - [How to customize double tap on the Apple Watch](https://www.theverge.com/23930197/double-tap-apple-watch-how-to-use)
+ - [The Apple Watch’s double tap gesture points at a new way to use wearables](https://www.theverge.com/23928706/double-tap-apple-watch-series-9-ultra-2)
+ - [Apple releases updates for iOS 17.1, iPadOS 17.1](https://appleinsider.com/articles/23/10/25/apple-releases-updates-for-ios-171-ipados-171?utm_medium=rss)
+ - [Google rolls out &quot;About this image&quot;, which provides background information and context about images in Search, to English-language users globally &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231025/p32#a231025p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

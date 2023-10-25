@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch making &#39;unmistakeable progress&#39; in identifying Parkinson&#39;s disease](https://appleinsider.com/articles/23/10/25/apple-watch-making-unmistakeable-progress-in-identifying-parkinsons-disease?utm_medium=rss)
+ - [Research: UK startups raised $4.9B in Q3, with 37% coming from US VCs, taking total 2023 funding to ~$15B, or about the same as France and Germany combined &lpar;Irina Anghel/Bloomberg&rpar;](http://www.techmeme.com/231025/p16#a231025p16)
  - [Microsoft, OpenAI, Google, and Anthropic pick Chris Meserole from Brookings to run the new Frontier Model Forum and commit $10M to an AI safety fund &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p15#a231025p15)
  - [How to Build a PC &lpar;2023&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
- - [The Mystery of Cosmic Radio Bursts Gets Bright New Clues](https://www.wired.com/story/the-mystery-of-cosmic-radio-bursts-gets-bright-new-clues/)
- - [Reporters in Gaza Turn to Radios and Generators to Keep the News Moving](https://www.wired.com/story/reporters-in-gaza-turn-to-radios-and-generators-to-keep-the-news-moving/)
- - [Elon Musk Mocked Ukraine, and Russian Trolls Went Wild](https://www.wired.com/story/elon-musk-mocked-ukraine-russian-trolls-went-wild/)<!-- TECH:END -->
+ - [The Mystery of Cosmic Radio Bursts Gets Bright New Clues](https://www.wired.com/story/the-mystery-of-cosmic-radio-bursts-gets-bright-new-clues/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

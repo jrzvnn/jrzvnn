@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks, Grandma](http://9gag.com/gag/ajVvmVq)
- - 😝 [It doesn&#39;t get any better than this!](http://9gag.com/gag/aEqK2E9)
- - 💣 [This potato works because I got it from the Internet. Trust me.](http://9gag.com/gag/aYV6gWv)
- - 😝 [French woman heckles an Irish comedian](http://9gag.com/gag/aYV6o1O)
- - 👉 [Wife material](http://9gag.com/gag/anzZ4gn)<!-- MEMES:END -->
+ - 😝 [The riddler](http://9gag.com/gag/aGEvg3K)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 💣 [Oden](http://9gag.com/gag/ay2re2p)
+ - 😝 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)
+ - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
 
 ---
 

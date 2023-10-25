@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European women!](http://9gag.com/gag/axoK97n)
- - 😝 [Macaulay Culkin: A complicated childhood due to early fame for `My Poor Little Angel,` a failed marriage at 17 and his father&#39;s pressure lead him to plunge into the dark world of addiction. In 2013, he decided to radically change his life and today he is happily married, in 2021](http://9gag.com/gag/aYV6ye0)
- - 💣 [How much do you wanna make ?](http://9gag.com/gag/aXn3YG9)
- - 😝 [I&#39;m so happy now.](http://9gag.com/gag/aME7YQ1)
- - 👉 [Hiyaaaaa..](http://9gag.com/gag/aA0AeB0)<!-- MEMES:END -->
+ - 😝 [No translation](http://9gag.com/gag/aNwM1m0)
+ - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
+ - 💣 [I&#39;m just curious..are they really doing this or is it a joke?](http://9gag.com/gag/aNwM1LG)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 👉 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)<!-- MEMES:END -->
 
 ---
 

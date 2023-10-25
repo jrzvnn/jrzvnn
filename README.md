@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out &quot;About this image&quot;, which provides background information and context about images in Search, to English-language users globally &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231025/p32#a231025p32)
+ - [Google will require Android apps to better moderate AI-generated content](https://www.theverge.com/2023/10/25/23931732/android-generative-ai-rules-app-developer-policy-google)
  - [Get a Babbel Language Learning Lifetime Subscription for $149.97, $450 off retail](https://appleinsider.com/articles/23/10/19/get-a-babbel-language-learning-lifetime-subscription-for-14997-450-off-retail?utm_medium=rss)
  - [Killers of the Flower Moon is a devastating snapshot of America’s truth laid bare](https://www.theverge.com/23929429/killers-of-the-flower-moon-review-scorsese-apple-tv-plus)
- - [How to watch Apple&#39;s &#39;Scary Fast&#39; Mac event on October 30](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-scary-fast-mac-event-on-october-30?utm_medium=rss)
- - [The new, ‘efficient’ Spotify has a very different approach to podcasting](https://www.theverge.com/2023/10/25/23931833/spotify-efficient-daniel-ek-rogan-cooper-ai)
- - [Google Image Search Will Now Show a Photo’s History. Can It Spot Fakes?](https://www.wired.com/story/google-about-this-image-misinformation/)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Scary Fast&#39; Mac event on October 30](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-scary-fast-mac-event-on-october-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

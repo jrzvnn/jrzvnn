@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony&#39;s new PS5 Slim disc drive requires an internet connection to pair with the console for the first time, likely due to the DMCA&#39;s rules to prevent piracy &lpar;Jordan Middler/Video Games Chronicle&rpar;](http://www.techmeme.com/231025/p25#a231025p25)
+ - [Apple may use Vision Pro for mental health diagnosis and treatment](https://appleinsider.com/articles/23/10/25/apple-may-use-vision-pro-for-mental-health-diagnosis-and-treatment?utm_medium=rss)
  - [GM and Honda ditch plan to build cheaper electric vehicles](https://www.theverge.com/2023/10/25/23931470/gm-honda-scrap-plan-build-cheaper-evs)
  - [Wacom’s petite additions to the Cintiq Pro lineup come with a big price tag](https://www.theverge.com/2023/10/25/23931466/wacom-cintiq-pro-17-22-drawing-display-tablets-price-release-date)
- - [Toronto-based CentML, which offers tools to cut the cost of deploying ML models, raised a $27M seed from Nvidia and others, taking its total funding to $30.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231025/p24#a231025p24)
- - [Sources: one year after lending Elon Musk $13B to acquire Twitter, seven US banks still hold the debt and expect to take a 15%+, or ~$2B, hit when they sell &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231025/p23#a231025p23)
- - [DJI announces new Osmo Pocket 3 gimbal camera with rotating screen](https://appleinsider.com/articles/23/10/25/dji-announces-new-osmo-pocket-3-gimbal-camera-with-rotating-screen?utm_medium=rss)<!-- TECH:END -->
+ - [Toronto-based CentML, which offers tools to cut the cost of deploying ML models, raised a $27M seed from Nvidia and others, taking its total funding to $30.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231025/p24#a231025p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

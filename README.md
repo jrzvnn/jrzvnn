@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google expands its AR shopping tool that allows users to virtually wear beauty products, bringing the feature to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
+ - [Spotify is reportedly making major changes to its royalty model](https://www.theverge.com/2023/10/25/23932312/spotify-royalties-swift-deezer-universal-white-noise)
  - [Apple TV+ has a big holiday lineup featuring &#39;Frog and Toad,&#39; &#39;Charlie Brown Classics,&#39; and more](https://appleinsider.com/articles/23/10/25/apple-tv-has-a-big-holiday-lineup-featuring-frog-and-toad-charlie-brown-classics-and-more?utm_medium=rss)
  - [Now Meta’s Quest 3 lets you choose: better battery life or better VR graphics?](https://www.theverge.com/2023/10/25/23930552/meta-quest-3-v59-software-update-battery-saver-mode-youtube-live-chat)
- - [Sam Bankman-Fried Will Testify in His Own Trial. It’s a Legal Hail Mary](https://www.wired.com/story/sam-bankman-frieds-hail-mary/)
- - [A look at Apple&#39;s double tap gesture rolling out with watchOS 10.1, letting Series 9 and Ultra 2 users interact with their watch without using its touchscreen &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231025/p36#a231025p36)
- - [Meta actually added a useful feature to Horizon Worlds — and some goofy ones](https://www.theverge.com/2023/10/25/23932063/meta-horizon-worlds-update-v133-time-spent)<!-- TECH:END -->
+ - [Sam Bankman-Fried Will Testify in His Own Trial. It’s a Legal Hail Mary](https://www.wired.com/story/sam-bankman-frieds-hail-mary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
- - 😝 [Europe is no longer recognisable](http://9gag.com/gag/ap97Np9)
- - 💣 [Two idiot gangsters try to break into someone&#39;s apartment. Get shot at through the door.](http://9gag.com/gag/a8qNEop)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
  - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 💣 [Evolution of Germany &lpar;AI generated&rpar;](http://9gag.com/gag/aZDXgAX)
+ - 😝 [Normal oil change on a horse.. &lpar;what is happening here?&rpar;](http://9gag.com/gag/a3ZgKW1)
  - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
 
 ---

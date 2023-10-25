@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Amazon Live and Flipkart&#39;s Vibes are trying to revive livestream commerce in India, as most startups that tried to popularize live e-commerce are struggling &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231025/p8#a231025p8)
+ - [Going to See Taylor Swift&#39;s Eras Tour Concert Film? Here&#39;s What You&#39;ll Want to Know     - CNET](https://www.cnet.com/culture/entertainment/going-to-see-taylor-swifts-eras-tour-concert-film-heres-what-youll-want-to-know/#ftag=CAD590a51e)
+ - [Here&#39;s What to Need to Know About Permission Slip, the App That Can Help Protect Your Online Data     - CNET](https://www.cnet.com/tech/services-and-software/heres-what-to-need-to-know-about-permission-slip-the-app-that-can-help-protect-your-online-data/#ftag=CAD590a51e)
  - [Q&amp;A with Harvard professor and Creative Commons co-founder Lawrence Lessig on AI&#39;s impact on social media and free speech, copyright issues, TikTok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/231025/p7#a231025p7)
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Blued, China&#39;s largest gay dating app, plans to expand to Southeast Asia and the US in a bid to take on Grindr, while facing censorship and competition in China &lpar;Rest of World&rpar;](http://www.techmeme.com/231025/p6#a231025p6)
- - [Experts say an EU plan requiring messaging services to scan for CSAM is the wrong response to a multifaceted problem and a direct threat to democratic values &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/231025/p5#a231025p5)<!-- TECH:END -->
+ - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

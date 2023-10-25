@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use iOS 17&#39;s new Shortcuts features to control displays, record spending, and more](https://appleinsider.com/inside/ios-17/tips/how-to-use-ios-17s-new-shortcuts-features-to-control-displays-record-spending-and-more?utm_medium=rss)
  - [Matrix, an open protocol for decentralized messaging, says its network has 115M+ users, up from 60M in July 2022, after releasing Matrix 2.0 in September 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231024/p48#a231024p48)
  - [Qualcomm unveils the S7 and S7 Pro chips with increased memory, AI capabilities, and more, designed for earbuds, headphones, and speakers to be released in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231024/p47#a231024p47)
  - [Personal Size Blender     - CNET](https://www.cnet.com/home/kitchen-and-household/personal-size-blender-dpnl/#ftag=CAD590a51e)
- - [Kaiko: in 2023, 3,400+ crypto tokens or trading pairs have been delisted from exchanges or been inactive for a long time, 15% more than for all of 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231024/p46#a231024p46)
- - [Microsoft now thirstily injects a poll when you download Google Chrome](https://www.theverge.com/23930960/microsoft-edge-google-chrome-poll-why-try-another-browser)<!-- TECH:END -->
+ - [Kaiko: in 2023, 3,400+ crypto tokens or trading pairs have been delisted from exchanges or been inactive for a long time, 15% more than for all of 2022 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/231024/p46#a231024p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

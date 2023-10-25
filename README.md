@@ -156,8 +156,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Black Friday arrives early with up to $1,900 in deals from B&amp;H Photo this week](https://appleinsider.com/articles/23/10/25/black-friday-arrives-early-with-up-to-1900-in-deals-from-bh-photo-this-week?utm_medium=rss)
- - [IBM reports Q3 revenue up 4.6% YoY to $14.75B, vs. $14.73B est., net income of $1.7B, vs. a $3.20B net loss YoY, and software revenue up 7.8% YoY to $6.27B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231025/p41#a231025p41)
- - [Meta&#39;s Reality Labs reports Q3 revenue down 26% YoY to $210M, vs. $299.3M est., and operating loss of $3.74B, vs. $3.9B est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231025/p40#a231025p40)
+ - [IBM Q3: revenue up 5% YoY to $14.75B, vs. $14.73B est., a $1.7B net income, vs. a $3.2B net loss YoY, and software revenue up 8% YoY to $6.27B, vs. $6.27B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231025/p41#a231025p41)
+ - [Meta&#39;s Reality Labs reports Q3 revenue down 26% YoY to $210M, vs. $299.3M est., and operating loss up 2% YoY to $3.74B, vs. $3.9B est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231025/p40#a231025p40)
  - [Is the Apple One subscription bundle worth it in Fall 2023?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-bundle-worth-it-in-fall-2023?utm_medium=rss)
  - [What to do if your webcam doesn&#39;t work in macOS Sonoma](https://appleinsider.com/articles/23/10/25/what-to-do-if-your-webcam-doesnt-work-in-macos-sonoma?utm_medium=rss)<!-- TECH:END -->
 

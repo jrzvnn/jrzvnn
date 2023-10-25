@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Send it to ex and hope it works](http://9gag.com/gag/a4og35A)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 💣 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
+ - 👉 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM reports Q3 revenue up 4.6% YoY to $14.75B, vs. $14.73B est., net income of $1.7B, vs. a $3.20B net loss YoY, and software revenue up 7.8% YoY to $6.27B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231025/p41#a231025p41)
+ - [Meta&#39;s Reality Labs reports Q3 revenue down 26% YoY to $210M, vs. $299.3M est., and operating loss of $3.74B, vs. $3.9B est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231025/p40#a231025p40)
  - [Is the Apple One subscription bundle worth it in Fall 2023?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-bundle-worth-it-in-fall-2023?utm_medium=rss)
  - [What to do if your webcam doesn&#39;t work in macOS Sonoma](https://appleinsider.com/articles/23/10/25/what-to-do-if-your-webcam-doesnt-work-in-macos-sonoma?utm_medium=rss)
- - [Meta reports Q3 revenue up 23% YoY to $34.15B, net income up 164% YoY to $11.58B, and family daily active people up 7% YoY to 3.14B for September 2023 &lpar;Meta&rpar;](http://www.techmeme.com/231025/p38#a231025p38)
- - [Google adds foundation and hair dye options to its AR shopping tool for trying beauty products, and expands the tool to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
- - [Spotify is reportedly making major changes to its royalty model](https://www.theverge.com/2023/10/25/23932312/spotify-royalties-swift-deezer-universal-white-noise)<!-- TECH:END -->
+ - [Meta reports Q3 revenue up 23% YoY to $34.15B, net income up 164% YoY to $11.58B, and family daily active people up 7% YoY to 3.14B for September 2023 &lpar;PR Newswire&rpar;](http://www.techmeme.com/231025/p38#a231025p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

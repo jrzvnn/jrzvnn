@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Who?](http://9gag.com/gag/aEqK2BM)
  - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
  - 💣 [No vegan](http://9gag.com/gag/aYV6y8x)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 👉 [Your choice](http://9gag.com/gag/a2Kg4Nw)<!-- MEMES:END -->
+ - 😝 [Your choice](http://9gag.com/gag/a2Kg4Nw)
+ - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
 
 ---
 

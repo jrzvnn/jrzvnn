@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hiyaaaaa..](http://9gag.com/gag/aA0AeB0)
- - 😝 [How much do you wanna make ?](http://9gag.com/gag/aXn3YG9)
- - 💣 [I&#39;m so happy now.](http://9gag.com/gag/aME7YQ1)
- - 😝 [European women!](http://9gag.com/gag/axoK97n)
- - 👉 [Bless his heart, King tries his best](http://9gag.com/gag/a2Kg7r9)<!-- MEMES:END -->
+ - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
+ - 😝 [Europe is no longer recognisable](http://9gag.com/gag/ap97Np9)
+ - 💣 [Two idiot gangsters try to break into someone&#39;s apartment. Get shot at through the door.](http://9gag.com/gag/a8qNEop)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 👉 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)<!-- MEMES:END -->
 
 ---
 

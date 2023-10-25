@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
+ - [Bankruptcy hearing: FTX is considering proposals from three bidders to restart trading, without disclosing the names, and will make a decision by mid-December &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/231025/p11#a231025p11)
+ - [Motorola&#39;s Bendable Phone Display Concept Can Wrap Around Your Wrist     - CNET](https://www.cnet.com/tech/mobile/motorolas-bendable-phone-display-concept-can-wrap-around-your-wrist/#ftag=CAD590a51e)
  - [AWS plans to launch a sovereign cloud in Europe for governments and customers in regulated industries, storing data on EU servers and first available in Germany &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231025/p10#a231025p10)
- - [Kokusai Electric jumps as much as 32% in its Tokyo IPO, valuing the chip equipment maker at $3.6B, after raising ~$721M; KKR reduced its stake from 73% to 48% &lpar;Financial Times&rpar;](http://www.techmeme.com/231025/p9#a231025p9)
- - [Amazon Live and Flipkart&#39;s Vibes are trying to revive livestream commerce in India, as most startups that tried to popularize live e-commerce are struggling &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231025/p8#a231025p8)
- - [Going to See Taylor Swift&#39;s Eras Tour Concert Film? Here&#39;s What You&#39;ll Want to Know     - CNET](https://www.cnet.com/culture/entertainment/going-to-see-taylor-swifts-eras-tour-concert-film-heres-what-youll-want-to-know/#ftag=CAD590a51e)
- - [Here&#39;s What to Need to Know About Permission Slip, the App That Can Help Protect Your Online Data     - CNET](https://www.cnet.com/tech/services-and-software/heres-what-to-need-to-know-about-permission-slip-the-app-that-can-help-protect-your-online-data/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Your iPhone&#39;s Auto-Brightness Driving You Crazy? Here&#39;s How to Fix It     - CNET](https://www.cnet.com/tech/mobile/is-your-iphones-auto-brightness-driving-you-crazy-heres-how-to-fix-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans an overhaul of its AirPods lineup, including AirPods Max with USB-C and two redesigned 4th-gen AirPods in 2024, and new AirPods Pro in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231025/p33#a231025p33)
+ - [Gmail’s new emoji picker on the web is getting a long overdue upgrade](https://www.theverge.com/2023/10/25/23931925/google-gmail-web-emoji-picker-skin-tones-gender-preferences)
+ - [tvOS 17.1 &amp; HomePod Software 17.1 arrive with bug fixes and performance improvements](https://appleinsider.com/articles/23/10/25/tvos-171-arrives-with-bug-fixes-and-performance-improvements?utm_medium=rss)
  - [Apple releases updates for iOS 17.1, iPadOS 17.1](https://appleinsider.com/articles/23/10/25/apple-releases-updates-for-ios-171-ipados-171?utm_medium=rss)
- - [Hands on with all the new features in iOS 17.1](https://appleinsider.com/articles/23/10/25/hands-on-with-all-the-new-features-in-ios-171?utm_medium=rss)
- - [Apple updates macOS Sonoma to 14.1](https://appleinsider.com/articles/23/10/25/apple-updates-macos-sonoma-to-141?utm_medium=rss)
- - [tvOS 17.1 arrives with bug fixes and performance improvements](https://appleinsider.com/articles/23/10/25/tvos-171-arrives-with-bug-fixes-and-performance-improvements?utm_medium=rss)
- - [iOS 17.1 has officially been released](https://www.theverge.com/2023/10/25/23918901/ios-17-1-update-released-airdrop-apple-music-wallet-uk-france-radiation)<!-- TECH:END -->
+ - [Hands on with all the new features in iOS 17.1](https://appleinsider.com/articles/23/10/25/hands-on-with-all-the-new-features-in-ios-171?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

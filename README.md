@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How telecoms and media giant Altice, led by billionaire Patrick Drahi, became weighed down by scandals and debt-fueled acquisitions during low interest rates &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p29#a231025p29)
+ - [Artists can use a data poisoning tool to confuse DALL-E and corrupt AI scraping](https://www.theverge.com/2023/10/25/23931592/generative-ai-art-poison-midjourney)
  - [Apple hikes Apple One cost by up to $5 as most services prices rise](https://appleinsider.com/articles/23/10/25/apple-hikes-apple-one-cost-by-up-to-5-as-most-services-prices-rise?utm_medium=rss)
  - [Amazon now lets advertisers use generative AI to pretty up their product shots](https://www.theverge.com/2023/10/25/23931521/amazon-generative-ai-product-images-advertisers)
- - [The tragically millennial vocabulary of the Sam Bankman-Fried trial](https://www.theverge.com/2023/10/25/23930673/sam-bankman-fried-trial-sbf-language-yolo-yup-stuff-things)
- - [Apple increases the monthly price of Apple TV+ from $6.99 to $9.99, News+ from $9.99 to $12.99, Arcade from $4.99 to $6.99, and Apple One from $16.95 to $19.95 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/231025/p28#a231025p28)
- - [Apple TV Plus is getting a price hike — and other Apple subscriptions are, too](https://www.theverge.com/2023/10/25/23931577/apple-tv-plus-news-arcade-one-subscription-price-increase)<!-- TECH:END -->
+ - [The tragically millennial vocabulary of the Sam Bankman-Fried trial](https://www.theverge.com/2023/10/25/23930673/sam-bankman-fried-trial-sbf-language-yolo-yup-stuff-things)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

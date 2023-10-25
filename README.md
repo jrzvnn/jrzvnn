@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting tired of the incels giving their twisted views on women and marriage. Cheers to those of us who live in a happy relationship](http://9gag.com/gag/aOxE35E)
- - 😝 [Feels](http://9gag.com/gag/aA0AeAL)
- - 💣 [Bless his heart, King tries his best](http://9gag.com/gag/a2Kg7r9)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Leaf me alone](http://9gag.com/gag/amAQg8d)<!-- MEMES:END -->
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

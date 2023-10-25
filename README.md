@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 💣 [Oden](http://9gag.com/gag/ay2re2p)
- - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
- - 👉 [Are they from alabama?](http://9gag.com/gag/ago9AvK)<!-- MEMES:END -->
+ - 😝 [Thanks, Grandma](http://9gag.com/gag/ajVvmVq)
+ - 😝 [It doesn&#39;t get any better than this!](http://9gag.com/gag/aEqK2E9)
+ - 💣 [This potato works because I got it from the Internet. Trust me.](http://9gag.com/gag/aYV6gWv)
+ - 😝 [French woman heckles an Irish comedian](http://9gag.com/gag/aYV6o1O)
+ - 👉 [Wife material](http://9gag.com/gag/anzZ4gn)<!-- MEMES:END -->
 
 ---
 

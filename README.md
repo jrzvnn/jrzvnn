@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Bankman-Fried Will Testify in His Own Trial. It’s a Legal Hail Mary](https://www.wired.com/story/sam-bankman-frieds-hail-mary/)
  - [A look at Apple&#39;s double tap gesture rolling out with watchOS 10.1, letting Watch Series 9 and Ultra 2 users interact with the watch without touching its screen &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/231025/p36#a231025p36)
  - [Meta actually added a useful feature to Horizon Worlds — and some goofy ones](https://www.theverge.com/2023/10/25/23932063/meta-horizon-worlds-update-v133-time-spent)
  - [Telegram has blocked Hamas channels on Android because Google forced it to](https://www.theverge.com/2023/10/25/23931710/telegram-android-block-hamas-channels-google-play-guidelines-war-israel)
- - [Researchers reveal an attack forcing iOS and macOS WebKit browsers to divulge secrets, like passwords and private web data, of users who visit a malicious site &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231025/p35#a231025p35)
- - [Apple plans major overhaul for AirPods line in 2024 and 2025](https://appleinsider.com/articles/23/10/25/apple-plans-major-overhaul-for-airpods-line-in-2024-and-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers reveal an attack forcing iOS and macOS WebKit browsers to divulge secrets, like passwords and private web data, of users who visit a malicious site &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231025/p35#a231025p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

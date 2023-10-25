@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands its AR shopping tool that allows users to virtually wear beauty products, bringing the feature to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
+ - [Google adds foundation and hair dye options to its AR shopping tool for trying beauty products, and expands the tool to mobile browsers and Google Shopping ads &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/231025/p37#a231025p37)
  - [Spotify is reportedly making major changes to its royalty model](https://www.theverge.com/2023/10/25/23932312/spotify-royalties-swift-deezer-universal-white-noise)
  - [Apple TV+ has a big holiday lineup featuring &#39;Frog and Toad,&#39; &#39;Charlie Brown Classics,&#39; and more](https://appleinsider.com/articles/23/10/25/apple-tv-has-a-big-holiday-lineup-featuring-frog-and-toad-charlie-brown-classics-and-more?utm_medium=rss)
  - [Now Meta’s Quest 3 lets you choose: better battery life or better VR graphics?](https://www.theverge.com/2023/10/25/23930552/meta-quest-3-v59-software-update-battery-saver-mode-youtube-live-chat)

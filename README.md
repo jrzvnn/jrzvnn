@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kids are attending virtual pro-Palestine protests on Roblox in the wake of the Israel-Hamas war; one virtual protest area has been visited 275K+ times &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231026/p22#a231026p22)
  - [Tesla’s first big Supercharger deal is a $100 million sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)
  - [Oxide Computer, which aims to provide on-premise cloud computers, raised a $44M Series A led by Eclipse &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/231026/p21#a231026p21)
  - [Apple Store Workers Fear the Tech Giant Is Fudging Its Labor Practices Audit](https://www.wired.com/story/apple-store-workers-fear-the-tech-giant-is-dodging-accountability-labor-practices-audit/)
- - [Linksys says its Velop Pro 7 mesh is so good you won’t need an app](https://www.theverge.com/2023/10/26/23932667/linksys-velop-pro-wi-fi-7-mesh-router-discontinuing-app)
- - [Apple TV+ sheds light on John Lennon&#39;s murder in upcoming docuseries](https://appleinsider.com/articles/23/10/26/apple-tv-sheds-light-on-john-lennons-murder-in-upcoming-docuseries?utm_medium=rss)<!-- TECH:END -->
+ - [Linksys says its Velop Pro 7 mesh is so good you won’t need an app](https://www.theverge.com/2023/10/26/23932667/linksys-velop-pro-wi-fi-7-mesh-router-discontinuing-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

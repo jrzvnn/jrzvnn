@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 😝 [?????](http://9gag.com/gag/aZDXy26)
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Member this gem? We still dont know if the girl is safe now.](http://9gag.com/gag/ago9od6)
+ - 😝 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 💣 [Friendly fire](http://9gag.com/gag/aWGyjvK)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
+ - 👉 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)<!-- MEMES:END -->
 
 ---
 

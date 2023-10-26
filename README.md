@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X&#39;s tumultuous first year under Elon Musk: mobile DAUs down 16% from October 2022 to September 2023, app downloads drop after rebrand, and investor markdowns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231026/p18#a231026p18)
+ - [Ticketmaster’s still hiding ticket fees, senator says](https://www.theverge.com/2023/10/26/23933230/live-nation-ticketmaster-hidden-junk-fees-venue)
  - [20 Everyday Products Made of Recycled Materials &lpar;2023&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
  - [The 14 Best Barefoot Shoes &lpar;2023&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [You can now build your own awesome Game Boy Mini Camera](https://www.theverge.com/2023/10/26/23923057/game-boy-camera-mini-mod-diy-price-release-date)
- - [Samsung now offers Galaxy users running One UI 6 a Temporary Cloud Backup feature with unlimited storage for up to 30 days for free, on par with Apple &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231026/p17#a231026p17)
- - [Apple store in California hit with $100,000 grand theft, suspects still at large](https://appleinsider.com/articles/23/10/26/apple-store-in-california-hit-with-100000-grand-theft-suspects-still-at-large?utm_medium=rss)<!-- TECH:END -->
+ - [You can now build your own awesome Game Boy Mini Camera](https://www.theverge.com/2023/10/26/23923057/game-boy-camera-mini-mod-diy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JPMorgan&#39;s Global Head of Payments says its blockchain-based JMP Coin now handles $1B in transactions per day and the bank plans to continue to widen its usage &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231026/p11#a231026p11)
  - [Internal Google documents detail plans to contain Apple&#39;s search ambitions after Spotlight&#39;s 2021 update; sources say Google paid Apple $18B for search in 2021 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231026/p10#a231026p10)
  - [Hyundai plans to run five US &quot;clinics&quot; for anti-theft software upgrades for vehicles now regularly targeted by thieves using techniques popularized on TikTok &lpar;Associated Press&rpar;](http://www.techmeme.com/231026/p9#a231026p9)
  - [UK PM Rishi Sunak announces plans for a new UK-based AI Safety Institute and a new AI research network, modeled on the IPCC, ahead of the AI Summit in November &lpar;Politico&rpar;](http://www.techmeme.com/231026/p8#a231026p8)
- - [Artists Allege Meta’s AI Data Deletion Request Process Is a ‘Fake PR Stunt’](https://www.wired.com/story/meta-artificial-intelligence-data-deletion/)
- - [Why Antidepressants Take So Long to Work](https://www.wired.com/story/why-antidepressants-take-so-long-to-work/)<!-- TECH:END -->
+ - [Artists Allege Meta’s AI Data Deletion Request Process Is a ‘Fake PR Stunt’](https://www.wired.com/story/meta-artificial-intelligence-data-deletion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon reports Q3 revenue up 13% YoY to $143.1B, a $9.9B net income, vs. $2.9B in Q3 2022, AWS segment sales up 12% YoY to $23.1B &lpar;Amazon&rpar;](http://www.techmeme.com/231026/p29#a231026p29)
  - [OpenAI forms new team to assess ‘catastrophic risks’ of AI](https://www.theverge.com/2023/10/26/23933783/openai-preparedness-team-catastrophic-risks-ai)
  - [Forbes now has its own AI search engine](https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide)
  - [Everything new in iOS 17.2 beta 1: Journal, iMessage sticker reactions, more](https://appleinsider.com/articles/23/10/26/everything-new-in-ios-172-beta-1-journal-imessage-sticker-reactions-more?utm_medium=rss)
- - [The 36 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [OpenAI forms Preparedness, a new team to assess, evaluate, and probe AI models to protect against &quot;catastrophic risks&quot;, including biological and nuclear threats &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p28#a231026p28)<!-- TECH:END -->
+ - [The 36 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

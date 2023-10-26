@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
- - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
- - 👉 [Full of degenerates](http://9gag.com/gag/armEM30)<!-- MEMES:END -->
+ - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 😝 [Oden](http://9gag.com/gag/ay2re2p)
+ - 💣 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
+ - 😝 [No touchy](http://9gag.com/gag/anzZO1E)
+ - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What should I do next time?](http://9gag.com/gag/aME7x96)
- - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 💣 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
+ - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Serious question though](http://9gag.com/gag/abvDvLE)<!-- MEMES:END -->
+ - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
 
 ---
 

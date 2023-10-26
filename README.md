@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty accurate](http://9gag.com/gag/aOxE28R)
- - 😝 [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
- - 💣 [The importance of being there for your children](http://9gag.com/gag/aoKoy1m)
- - 😝 [Chinesium Security](http://9gag.com/gag/armEWKK)
- - 👉 [You stupid sod.](http://9gag.com/gag/ap97RMD)<!-- MEMES:END -->
+ - 😝 [Good morning .](http://9gag.com/gag/abvD1XE)
+ - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 💣 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [How did I not know this sh*t](http://9gag.com/gag/aoKoML0)<!-- MEMES:END -->
 
 ---
 

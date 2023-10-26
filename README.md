@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK PM Rishi Sunak announces plans for a new UK-based AI Safety Institute and a new AI research network, modeled on the IPCC, ahead of the AI Summit in November &lpar;Politico&rpar;](http://www.techmeme.com/231026/p8#a231026p8)
  - [Magic Leap names Bain Capital tech executive Ross Rosenberg as CEO, starting November 1, replacing Peggy Johnson, who joined from Microsoft in 2020 &lpar;Jessica Nix/Bloomberg&rpar;](http://www.techmeme.com/231026/p7#a231026p7)
  - [US Trade Representative Katherine Tai dropped longstanding US digital trade demands in WTO talks, aiming to give Congress room to regulate Big Tech companies &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/231026/p6#a231026p6)
  - [Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing](https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station)
- - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)
- - [Getting an iPhone 15 or iPhone 15 Pro? You&#39;ll Want to Change These 4 iOS 17 Settings Right Now     - CNET](https://www.cnet.com/tech/mobile/getting-an-iphone-15-or-iphone-15-pro-youll-want-to-change-these-4-ios-17-settings-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

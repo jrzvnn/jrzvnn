@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK’s Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
+ - [Apple is considering two lower-cost MacBook models for education](https://appleinsider.com/articles/23/10/26/apple-is-considering-two-lower-cost-macbook-models-for-education?utm_medium=rss)
+ - [Google expands its bug bounty program to include generative AI, which presents different security issues, including model manipulation and unfair bias &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231026/p14#a231026p14)
  - [Samsung’s temporary cloud storage feature makes phone upgrades and repairs less stressful](https://www.theverge.com/2023/10/26/23932129/samsung-galaxy-temporary-cloud-backup-free-30-days)
- - [Toronto-based Arteria AI, which offers tools to manage financial documentation, raised a $30M Series B led by GGV Capital US, taking its total funding to $50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231026/p13#a231026p13)
- - [Although creators are an economic juggernaut in the US, the industry remains broadly unregulated and largely fails to appear in the Census Bureau&#39;s job index &lpar;Washington Post&rpar;](http://www.techmeme.com/231026/p12#a231026p12)
- - [What to Do When Hackers Crash Your Gene Pool Party](https://www.wired.com/story/gadget-lab-podcast-618/)
- - [&#39;Spider-Man 2&#39; Shows What a Great Superhero Game Can Really Be](https://www.wired.com/review/marvel-spider-man-2-review/)<!-- TECH:END -->
+ - [Toronto-based Arteria AI, which offers tools to manage financial documentation, raised a $30M Series B led by GGV Capital US, taking its total funding to $50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231026/p13#a231026p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

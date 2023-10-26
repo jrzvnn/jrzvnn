@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
  - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
- - 💣 [?????](http://9gag.com/gag/aZDXy26)
+ - 😝 [What ?](http://9gag.com/gag/axoK7qb)
+ - 💣 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)<!-- MEMES:END -->
+ - 👉 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)<!-- MEMES:END -->
 
 ---
 

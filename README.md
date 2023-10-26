@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
+ - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 💣 [?????](http://9gag.com/gag/aZDXy26)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
+ - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
 
 ---
 

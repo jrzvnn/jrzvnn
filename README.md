@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is my co-worker AI? Bizarre product reviews leave Gannett staff wondering](https://www.theverge.com/2023/10/26/23931530/gannett-ai-product-reviews-site-reviewed-union-newsguild)
+ - [Lisa Frankenstein’s new trailer makes it look like a totally rad monster romance](https://www.theverge.com/2023/10/26/23933164/lisa-frankenstein-movie-trailer)
  - [Meta declines its Oversight Board&#39;s advice from August 2023 to tighten oversight of drug-related posts; the Oversight Board calls the decision &quot;unfortunate&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p25#a231026p25)
  - [Xiaomi unveils the 6.3&quot; Xiaomi 14 and 6.7&quot; Xiaomi 14 Pro, offering the Snapdragon 8 Gen 3, 50MP main sensors, a Lecia lens on the Pro, and LTPO 120Hz panels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231026/p24#a231026p24)
- - [Read Phil Spencer’s full Microsoft memo on the new Xbox leadership changes](https://www.theverge.com/2023/10/26/23933447/microsoft-gaming-xbox-phil-spencer-leadership-changes-memo)
- - [Why Read Books When You Can Use Chatbots to Talk to Them Instead?](https://www.wired.com/story/why-read-books-when-you-can-use-chatbots-to-talk-to-them-instead/)
- - [How Figma and Adobe think they could work together](https://www.theverge.com/2023/10/26/23933425/adobe-figma-acquisition-integration-ai-video)<!-- TECH:END -->
+ - [Read Phil Spencer’s full Microsoft memo on the new Xbox leadership changes](https://www.theverge.com/2023/10/26/23933447/microsoft-gaming-xbox-phil-spencer-leadership-changes-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

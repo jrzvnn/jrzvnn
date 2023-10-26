@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 💣 [Oden](http://9gag.com/gag/ay2re2p)
+ - 😝 [Like most famous Germans, he&#39;s Austrian](http://9gag.com/gag/a3ZgZ8e)
+ - 😝 [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
+ - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
+ - 👉 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)<!-- MEMES:END -->
 
 ---
 

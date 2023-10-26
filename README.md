@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI forms Preparedness, a new team to assess, evaluate, and probe AI models to protect against &quot;catastrophic risks&quot;, including biological and nuclear threats &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p28#a231026p28)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [A live blog of FTX co-founder Sam Bankman-Fried&#39;s testimony at his own criminal fraud trial in NYC over the collapse of his cryptocurrency exchange &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p27#a231026p27)
  - [TikTok Streamers Are Staging ‘Israel vs. Palestine’ Live Matches to Cash In on Virtual Gifts](https://www.wired.com/story/tiktok-live-matches-israel-hamas-war/)
- - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)
- - [&#39;Our Flag Means Death&#39; Took Queering History to New Depths in Season 2](https://www.wired.com/story/our-flag-means-death-season-2-queering-history/)<!-- TECH:END -->
+ - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

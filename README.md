@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
- - 😝 [?????](http://9gag.com/gag/aZDXy26)
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 💣 [?????](http://9gag.com/gag/aZDXy26)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
 
 ---
 

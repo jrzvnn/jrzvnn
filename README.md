@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK’s Controversial Online Safety Act Is Now Law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law/)
- - [Apple is considering two lower-cost MacBook models for education](https://appleinsider.com/articles/23/10/26/apple-is-considering-two-lower-cost-macbook-models-for-education?utm_medium=rss)
- - [Google expands its bug bounty program to include generative AI, which presents different security issues, including model manipulation and unfair bias &lpar;Sarah Fielding/Engadget&rpar;](http://www.techmeme.com/231026/p14#a231026p14)
- - [Samsung’s temporary cloud storage feature makes phone upgrades and repairs less stressful](https://www.theverge.com/2023/10/26/23932129/samsung-galaxy-temporary-cloud-backup-free-30-days)
- - [Toronto-based Arteria AI, which offers tools to manage financial documentation, raised a $30M Series B led by GGV Capital US, taking its total funding to $50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231026/p13#a231026p13)<!-- TECH:END -->
+ - [Google Maps is becoming more like Search — thanks to AI](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search)
+ - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)
+ - [20 Best Camera Bags, Straps, and Backpacks &lpar;2023&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
+ - [Shutterstock will now let you transform real photos using AI](https://www.theverge.com/2023/10/26/23933120/shutterstock-transform-real-photos-ai)
+ - [Leica’s latest camera encrypts verification info into every photo](https://www.theverge.com/2023/10/26/23932288/leica-m11p-camera-rangefinder-adobe-content-authenticity-cai-ai-verification-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

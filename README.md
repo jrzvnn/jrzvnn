@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford and UAW reach tentative agreement to end strike](https://www.theverge.com/2023/10/25/23932799/ford-uaw-auto-worker-end-strike-gm-stellantis)
+ - [SK Hynix reports Q3 revenue down 17% YoY to ~$6.69B, beating average estimates of ~$6B, and a ~$1.32B operating loss, versus estimates of ~$1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p47#a231025p47)
  - [Telegram blocks two channels used by Hamas for Android users, blaming Google Play Store guidelines, after Pavel Durov resisted calls to shut down Hamas channels &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231025/p46#a231025p46)
  - [Valve officially releases SteamVR 2.0](https://www.theverge.com/2023/10/25/23932715/valve-steamvr-2-0)
- - [Honor says its new phone lets you open apps with your eyes](https://www.theverge.com/2023/10/25/23932319/honor-magic-6-eye-tracking-magic-capsule-snapdragon-8-gen-3)
- - [iLeakage attack resurrects Spectre with password and website data extraction](https://appleinsider.com/articles/23/10/25/ileakage-attack-resurrects-spectre-with-password-and-website-data-extraction?utm_medium=rss)
- - [22 Harry Potter Gifts Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/22-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honor says its new phone lets you open apps with your eyes](https://www.theverge.com/2023/10/25/23932319/honor-magic-6-eye-tracking-magic-capsule-snapdragon-8-gen-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

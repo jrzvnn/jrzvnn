@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 26: $150 off upgraded M2 MacBook Air, iPad 10th Gen $399, 62% off eSIM mobile data credit, more](https://appleinsider.com/articles/23/10/26/daily-deals-oct-26-150-off-upgraded-m2-macbook-air-ipad-10th-gen-399-62-off-esim-mobile-data-credit-more?utm_medium=rss)
+ - [Microsoft reorganizes its Xbox gaming and marketing leadership, promoting Matt Booty to president of game content and studios and Sarah Bond to Xbox president &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231026/p23#a231026p23)
  - [Kids are attending virtual pro-Palestine protests on Roblox in the wake of the Israel-Hamas war; one virtual protest area has been visited 275K+ times &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231026/p22#a231026p22)
- - [Tesla’s first big Supercharger deal is a $100 million sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)
- - [Oxide Computer, which aims to provide on-premise cloud computers, raised a $44M Series A led by Eclipse &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/231026/p21#a231026p21)
- - [Apple Store Workers Fear the Tech Giant Is Fudging Its Labor Practices Audit](https://www.wired.com/story/apple-store-workers-fear-the-tech-giant-is-dodging-accountability-labor-practices-audit/)
- - [Linksys says its Velop Pro 7 mesh is so good you won’t need an app](https://www.theverge.com/2023/10/26/23932667/linksys-velop-pro-wi-fi-7-mesh-router-discontinuing-app)<!-- TECH:END -->
+ - [Microsoft reorgs its Xbox and marketing teams to prepare for an AI and gaming future](https://www.theverge.com/2023/10/26/23933049/microsoft-reorg-xbox-marketing-ai-leadership-changes)
+ - [Tesla’s first big Supercharger deal is a $100 million sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - 😝 [?????](http://9gag.com/gag/aZDXy26)
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 😝 [Feels](http://9gag.com/gag/aA0AeAL)
+ - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
+ - 💣 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
+ - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
 
 ---
 

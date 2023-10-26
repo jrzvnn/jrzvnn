@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 😝 [I&#39;m part of 9gag community](http://9gag.com/gag/az2y5Vx)
- - 💣 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
+ - 💣 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan&#39;s Global Head of Payments says its blockchain-based JMP Coin now handles $1B in transactions per day and the bank plans to continue to widen its usage &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/231026/p11#a231026p11)
- - [Internal Google documents detail plans to contain Apple&#39;s search ambitions after Spotlight&#39;s 2021 update; sources say Google paid Apple $18B for search in 2021 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/231026/p10#a231026p10)
- - [Hyundai plans to run five US &quot;clinics&quot; for anti-theft software upgrades for vehicles now regularly targeted by thieves using techniques popularized on TikTok &lpar;Associated Press&rpar;](http://www.techmeme.com/231026/p9#a231026p9)
- - [UK PM Rishi Sunak announces plans for a new UK-based AI Safety Institute and a new AI research network, modeled on the IPCC, ahead of the AI Summit in November &lpar;Politico&rpar;](http://www.techmeme.com/231026/p8#a231026p8)
- - [Artists Allege Meta’s AI Data Deletion Request Process Is a ‘Fake PR Stunt’](https://www.wired.com/story/meta-artificial-intelligence-data-deletion/)<!-- TECH:END -->
+ - [Samsung’s temporary cloud storage feature makes phone upgrades and repairs less stressful](https://www.theverge.com/2023/10/26/23932129/samsung-galaxy-temporary-cloud-backup-free-30-days)
+ - [Toronto-based Arteria AI, which offers tools to manage financial documentation, raised a $30M Series B led by GGV Capital US, taking its total funding to $50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/231026/p13#a231026p13)
+ - [Although creators are an economic juggernaut in the US, the industry remains broadly unregulated and largely fails to appear in the Census Bureau&#39;s job index &lpar;Washington Post&rpar;](http://www.techmeme.com/231026/p12#a231026p12)
+ - [What to Do When Hackers Crash Your Gene Pool Party](https://www.wired.com/story/gadget-lab-podcast-618/)
+ - [&#39;Spider-Man 2&#39; Shows What a Great Superhero Game Can Really Be](https://www.wired.com/review/marvel-spider-man-2-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Story of my life](http://9gag.com/gag/a1Pg16b)
- - 😝 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 💣 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [Friendly fire](http://9gag.com/gag/aWGyjvK)<!-- MEMES:END -->
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

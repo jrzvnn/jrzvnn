@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aVbrwVy)
- - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
- - 💣 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
- - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
- - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
+ - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 😝 [Stomp for Survival](http://9gag.com/gag/amAQA32)
+ - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
 
 ---
 

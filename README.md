@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here is Intel’s new Bong-filled hip-hop hold music](https://www.theverge.com/2023/10/26/23934082/intel-hip-hop-hold-music-bong-muzak)
  - [Everything new in iOS 17.2 beta 1: Journal, iMessage sticker reactions, more](https://appleinsider.com/articles/23/10/26/everything-new-in-ios-172-beta-1-journal-imessage-sticker-reactions-more?utm_medium=rss)
  - [The Xiaomi 14 and 14 Pro are the first to house Qualcomm’s brand-new chipset](https://www.theverge.com/2023/10/26/23933855/xiaomi-14-pro-launch-china-hyper-os-camera-price)
  - [Xbox is making it easier to play keyboard-focused games on a controller](https://www.theverge.com/2023/10/26/23933943/xbox-map-controller-buttons-keyboard-accessibility-adaptive)
- - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
- - [AWS Q3: sales up 12% YoY to $23.06B, vs. $23.2B est., operating income up 29% YoY to $6.98B, vs. $5.63B est., operating margin of 30.3%, the widest in two years &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231026/p32#a231026p32)<!-- TECH:END -->
+ - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

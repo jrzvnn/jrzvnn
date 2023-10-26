@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Beatles’ final song is coming together through the power of artificial intelligence](https://www.theverge.com/23933209/the-beatles-now-and-then-release-date-ai)
+ - [Google reportedly pays $18 billion a year to be Apple’s default search engine](https://www.theverge.com/2023/10/26/23933206/google-apple-search-deal-safari-18-billion)
  - [Leica releases the $9,480 M11-P camera, which watermarks photos with Content Credentials metadata, created by advocacy groups to fight misinformation &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/231026/p20#a231026p20)
  - [Apple acknowledges iPhone 15 charging problem with BMWs, Toyota Supras](https://appleinsider.com/articles/23/10/26/apple-acknowledges-iphone-15-charging-problem-with-bmws-toyota-supras?utm_medium=rss)
- - [Uber starts offering rides in fully autonomous Waymo cars in Phoenix, Arizona; users can accept or reject the autonomous option, which gets a 24/7 helpline &lpar;CNBC&rpar;](http://www.techmeme.com/231026/p19#a231026p19)
- - [Maine Mass Shooting Disinformation Floods Social Media as Suspect Remains at Large](https://www.wired.com/story/maine-mass-shooting-disinformation/)
- - [X&#39;s tumultuous first year under Elon Musk: mobile DAUs down 16% from October 2022 to September 2023, app downloads drop after rebrand, and investor markdowns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231026/p18#a231026p18)<!-- TECH:END -->
+ - [Uber starts offering rides in fully autonomous Waymo cars in Phoenix, Arizona; users can accept or reject the autonomous option, which gets a 24/7 helpline &lpar;CNBC&rpar;](http://www.techmeme.com/231026/p19#a231026p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

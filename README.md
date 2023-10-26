@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
  - 😝 [What ?](http://9gag.com/gag/axoK7qb)
- - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 💣 [What should I do next time?](http://9gag.com/gag/aME7x96)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [I like happy endings...](http://9gag.com/gag/aA0AGv2)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
 
 ---
 

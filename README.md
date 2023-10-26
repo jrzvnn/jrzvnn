@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
+ - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
  - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 💣 [What ?](http://9gag.com/gag/axoK7qb)
+ - 💣 [Oden](http://9gag.com/gag/ay2re2p)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
  - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
 

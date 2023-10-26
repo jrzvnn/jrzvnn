@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 😝 [OK, WTF was that??](http://9gag.com/gag/a5XgRBV)
- - 💣 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
+ - 😝 [Story of my life](http://9gag.com/gag/a1Pg16b)
+ - 😝 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)<!-- MEMES:END -->
+ - 👉 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)<!-- MEMES:END -->
 
 ---
 

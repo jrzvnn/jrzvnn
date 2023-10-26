@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First iOS 17.2, iPadOS 17.2 developer betas now out for testing](https://appleinsider.com/articles/23/10/26/first-ios-172-ipados-172-developer-betas-now-out-for-testing?utm_medium=rss)
+ - [iFixit now sells Microsoft Surface parts for repair](https://www.theverge.com/2023/10/26/23933468/ifixit-microsoft-surface-parts-repair)
  - [First macOS Sonoma 14.2 developer beta issued to testers](https://appleinsider.com/articles/23/10/26/first-macos-sonoma-142-developer-beta-issued-to-testers?utm_medium=rss)
  - [Threads is adding polls and GIFs](https://www.theverge.com/2023/10/26/23933559/threads-polls-gifs-app)
- - [Censys, which offers tools to monitor internet hosts and their security statuses, raised a $50M Series C and $25M in debt, bringing its total funding to $128.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p26#a231026p26)
- - [First tvOS 17.2 beta issued to developers](https://appleinsider.com/articles/23/10/26/first-tvos-172-beta-issued-to-developers?utm_medium=rss)
- - [First watchOS 10.2 developer beta build is out now](https://appleinsider.com/articles/23/10/26/first-watchos-102-developer-beta-build-is-out-now?utm_medium=rss)<!-- TECH:END -->
+ - [Censys, which offers tools to monitor internet hosts and their security statuses, raised a $50M Series C and $25M in debt, bringing its total funding to $128.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p26#a231026p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

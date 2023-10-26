@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
+ - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 😝 [?????](http://9gag.com/gag/aZDXy26)
+ - 💣 [No touchy](http://9gag.com/gag/anzZO1E)
  - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 💣 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 😝 [Oden](http://9gag.com/gag/ay2re2p)
- - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 

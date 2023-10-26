@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Patio Heaters of 2023     - CNET](https://www.cnet.com/news/best-patio-heaters/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch, Stream Buccaneers vs. Bills Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-buccaneers-vs-bills-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
- - [Boston Dynamics turned its robot dog into a talking tour guide with ChatGPT](https://www.theverge.com/2023/10/26/23933213/boston-dynamics-robot-dog-spot-top-hat)
- - [What’s on your desk, Kate Cox?](https://www.theverge.com/23930285/whats-on-your-desk-kate-cox)
- - [Daily deals Oct. 26: $150 off upgraded M2 MacBook Air, iPad 10th Gen $399, 62% off eSIM mobile data credit, more](https://appleinsider.com/articles/23/10/26/daily-deals-oct-26-150-off-upgraded-m2-macbook-air-ipad-10th-gen-399-62-off-esim-mobile-data-credit-more?utm_medium=rss)<!-- TECH:END -->
+ - [Meta declines its Oversight Board&#39;s advice from August 2023 to tighten oversight of drug-related posts; the Oversight Board calls the decision &quot;unfortunate&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p25#a231026p25)
+ - [Xiaomi unveils the 6.3&quot; Xiaomi 14 and 6.7&quot; Xiaomi 14 Pro, offering the Snapdragon 8 Gen 3, 50MP main sensors, a Lecia lens on the Pro, and LTPO 120Hz panels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231026/p24#a231026p24)
+ - [Read Phil Spencer’s full Microsoft memo on the new Xbox leadership changes](https://www.theverge.com/2023/10/26/23933447/microsoft-gaming-xbox-phil-spencer-leadership-changes-memo)
+ - [Why Read Books When You Can Use Chatbots to Talk to Them Instead?](https://www.wired.com/story/why-read-books-when-you-can-use-chatbots-to-talk-to-them-instead/)
+ - [How Figma and Adobe think they could work together](https://www.theverge.com/2023/10/26/23933425/adobe-figma-acquisition-integration-ai-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

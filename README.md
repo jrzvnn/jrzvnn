@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beatles’ final song is coming together through the power of artificial intelligence](https://www.theverge.com/23933209/the-beatles-now-and-then-release-date-ai)
- - [Google reportedly pays $18 billion a year to be Apple’s default search engine](https://www.theverge.com/2023/10/26/23933206/google-apple-search-deal-safari-18-billion)
- - [Leica releases the $9,480 M11-P camera, which watermarks photos with Content Credentials metadata, created by advocacy groups to fight misinformation &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/231026/p20#a231026p20)
- - [Apple acknowledges iPhone 15 charging problem with BMWs, Toyota Supras](https://appleinsider.com/articles/23/10/26/apple-acknowledges-iphone-15-charging-problem-with-bmws-toyota-supras?utm_medium=rss)
- - [Uber starts offering rides in fully autonomous Waymo cars in Phoenix, Arizona; users can accept or reject the autonomous option, which gets a 24/7 helpline &lpar;CNBC&rpar;](http://www.techmeme.com/231026/p19#a231026p19)<!-- TECH:END -->
+ - [Tesla’s first big Supercharger deal is a $100 million sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)
+ - [Oxide Computer, which aims to provide on-premise cloud computers, raised a $44M Series A led by Eclipse &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/231026/p21#a231026p21)
+ - [Apple Store Workers Fear the Tech Giant Is Fudging Its Labor Practices Audit](https://www.wired.com/story/apple-store-workers-fear-the-tech-giant-is-dodging-accountability-labor-practices-audit/)
+ - [Linksys says its Velop Pro 7 mesh is so good you won’t need an app](https://www.theverge.com/2023/10/26/23932667/linksys-velop-pro-wi-fi-7-mesh-router-discontinuing-app)
+ - [Apple TV+ sheds light on John Lennon&#39;s murder in upcoming docuseries](https://appleinsider.com/articles/23/10/26/apple-tv-sheds-light-on-john-lennons-murder-in-upcoming-docuseries?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

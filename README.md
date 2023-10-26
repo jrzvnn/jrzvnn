@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iOS 17.2 beta includes the new Journal app](https://www.theverge.com/2023/10/26/23933736/apples-ios-17-2-beta-journal-diary-app-wwdc)
+ - [Amazon Q3: ad revenue up 26% YoY to $12.1B, vs. $11.6B est., subscription revenue up 14% YoY to $10.2B, and North America segment sales up 11% YoY to $87.9B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)
  - [Amazon reports Q3 revenue up 13% YoY to $143.1B, a $9.9B net income, vs. $2.9B in Q3 2022, AWS segment sales up 12% YoY to $23.1B &lpar;Amazon&rpar;](http://www.techmeme.com/231026/p29#a231026p29)
  - [OpenAI forms new team to assess ‘catastrophic risks’ of AI](https://www.theverge.com/2023/10/26/23933783/openai-preparedness-team-catastrophic-risks-ai)
- - [Forbes now has its own AI search engine](https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide)
- - [Everything new in iOS 17.2 beta 1: Journal, iMessage sticker reactions, more](https://appleinsider.com/articles/23/10/26/everything-new-in-ios-172-beta-1-journal-imessage-sticker-reactions-more?utm_medium=rss)
- - [The 36 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
+ - [Forbes now has its own AI search engine](https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

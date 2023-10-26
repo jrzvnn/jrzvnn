@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forbes now has its own AI search engine](https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide)
  - [Everything new in iOS 17.2 beta 1: Journal, iMessage sticker reactions, more](https://appleinsider.com/articles/23/10/26/everything-new-in-ios-172-beta-1-journal-imessage-sticker-reactions-more?utm_medium=rss)
  - [The 36 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [OpenAI forms Preparedness, a new team to assess, evaluate, and probe AI models to protect against &quot;catastrophic risks&quot;, including biological and nuclear threats &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p28#a231026p28)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [A live blog of FTX co-founder Sam Bankman-Fried&#39;s testimony at his own criminal fraud trial in NYC over the collapse of his cryptocurrency exchange &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p27#a231026p27)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

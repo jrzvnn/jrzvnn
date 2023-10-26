@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 💣 [Nice](http://9gag.com/gag/aVbrwVy)
+ - 😝 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
+ - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
+ - 💣 [What ?](http://9gag.com/gag/axoK7qb)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
  - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
- - 😝 [Maybe in they\u2019re in the comments](http://9gag.com/gag/aREW73B)
- - 💣 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
+ - 😝 [?????](http://9gag.com/gag/aZDXy26)
+ - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
+ - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
 
 ---
 

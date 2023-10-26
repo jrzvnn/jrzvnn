@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google begins rolling out new Maps features, including updating search to more easily find things nearby and expanding Immersive View for Routes to new cities &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/231026/p16#a231026p16)
+ - [Apple’s second-gen HomePod in white is $20 off right now](https://www.theverge.com/2023/10/26/23931870/apple-homepod-google-nest-learning-thermostat-dell-xps-13-deal-sale)
  - [The UK&#39;s controversial Online Safety Bill becomes law, imposing fines of up to &amp;pound;18M or 10% of global turnover; Ofcom now plans to publish a code of practice &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/231026/p15#a231026p15)
  - [Google Maps is becoming more like Search — thanks to AI](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search)
- - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)
- - [20 Best Camera Bags, Straps, and Backpacks &lpar;2023&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
- - [Shutterstock will now let you transform real photos using AI](https://www.theverge.com/2023/10/26/23933120/shutterstock-transform-real-photos-ai)<!-- TECH:END -->
+ - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

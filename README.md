@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai plans to run five US &quot;clinics&quot; for anti-theft software upgrades for vehicles now regularly targeted by thieves using techniques popularized on TikTok &lpar;Associated Press&rpar;](http://www.techmeme.com/231026/p9#a231026p9)
  - [UK PM Rishi Sunak announces plans for a new UK-based AI Safety Institute and a new AI research network, modeled on the IPCC, ahead of the AI Summit in November &lpar;Politico&rpar;](http://www.techmeme.com/231026/p8#a231026p8)
- - [Magic Leap names Bain Capital tech executive Ross Rosenberg as CEO, starting November 1, replacing Peggy Johnson, who joined from Microsoft in 2020 &lpar;Jessica Nix/Bloomberg&rpar;](http://www.techmeme.com/231026/p7#a231026p7)
- - [US Trade Representative Katherine Tai dropped longstanding US digital trade demands in WTO talks, aiming to give Congress room to regulate Big Tech companies &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/231026/p6#a231026p6)
- - [Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing](https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station)
- - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)<!-- TECH:END -->
+ - [Artists Allege Meta’s AI Data Deletion Request Process Is a ‘Fake PR Stunt’](https://www.wired.com/story/meta-artificial-intelligence-data-deletion/)
+ - [Why Antidepressants Take So Long to Work](https://www.wired.com/story/why-antidepressants-take-so-long-to-work/)
+ - [How to Responsibly Dispose of Your Electronics &lpar;2023&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

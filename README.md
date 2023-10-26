@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
  - [AWS Q3: sales up 12% YoY to $23.06B, vs. $23.2B est., operating income up 29% YoY to $6.98B, vs. $5.63B est., operating margin of 30.3%, the widest in two years &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/231026/p32#a231026p32)
  - [How to find the best deals during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
  - [iOS 17 Cheat Sheet: What to Know About the iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-the-iphone-update/#ftag=CAD590a51e)
- - [Apple Releases iOS 17.2 Developer Beta. Here&#39;s How to Download the Latest iPhone Update     - CNET](https://www.cnet.com/tech/mobile/apple-releases-ios-17-2-developer-beta-heres-how-to-download-the-latest-iphone-update/#ftag=CAD590a51e)
- - [Shazam can tell you what concerts to go to now](https://www.theverge.com/2023/10/26/23932074/shazam-concert-recommendations-ios-iphone)<!-- TECH:END -->
+ - [Apple Releases iOS 17.2 Developer Beta. Here&#39;s How to Download the Latest iPhone Update     - CNET](https://www.cnet.com/tech/mobile/apple-releases-ios-17-2-developer-beta-heres-how-to-download-the-latest-iphone-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

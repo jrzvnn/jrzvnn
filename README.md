@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 😝 [Stomp for Survival](http://9gag.com/gag/amAQA32)
- - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
+ - 😝 [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
+ - 😝 [The only thing worse than a female driver is a female driver with a female passenger](http://9gag.com/gag/aREWBdy)
+ - 💣 [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
+ - 😝 [Pretty accurate](http://9gag.com/gag/aOxE28R)
+ - 👉 [The importance of being there for your children](http://9gag.com/gag/aoKoy1m)<!-- MEMES:END -->
 
 ---
 

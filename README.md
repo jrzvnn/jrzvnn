@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
- - 😝 [What should I do next time?](http://9gag.com/gag/aME7x96)
- - 💣 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
+ - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 😝 [Oden](http://9gag.com/gag/ay2re2p)
+ - 💣 [What should I do next time?](http://9gag.com/gag/aME7x96)
  - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 👉 [Oden](http://9gag.com/gag/ay2re2p)<!-- MEMES:END -->
+ - 👉 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)<!-- MEMES:END -->
 
 ---
 

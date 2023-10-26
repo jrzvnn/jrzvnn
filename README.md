@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First iOS 17.2, iPadOS 17.2 developer betas now out for testing](https://appleinsider.com/articles/23/10/26/first-ios-172-ipados-172-developer-betas-now-out-for-testing?utm_medium=rss)
- - [iFixit now sells Microsoft Surface parts for repair](https://www.theverge.com/2023/10/26/23933468/ifixit-microsoft-surface-parts-repair)
- - [First macOS Sonoma 14.2 developer beta issued to testers](https://appleinsider.com/articles/23/10/26/first-macos-sonoma-142-developer-beta-issued-to-testers?utm_medium=rss)
- - [Threads is adding polls and GIFs](https://www.theverge.com/2023/10/26/23933559/threads-polls-gifs-app)
- - [Censys, which offers tools to monitor internet hosts and their security statuses, raised a $50M Series C and $25M in debt, bringing its total funding to $128.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p26#a231026p26)<!-- TECH:END -->
+ - [A live blog of FTX co-founder Sam Bankman-Fried&#39;s testimony at his own criminal fraud trial in NYC over the collapse of his cryptocurrency exchange &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p27#a231026p27)
+ - [France&#39;s iPhone 12 ban remains in place for some territories](https://appleinsider.com/articles/23/10/26/frances-iphone-12-ban-remains-in-place-for-some-territories?utm_medium=rss)
+ - [&#39;Our Flag Means Death&#39; Took Queering History to New Depths in Season 2](https://www.wired.com/story/our-flag-means-death-season-2-queering-history/)
+ - [Apple Store union workers claim foul over labor audit](https://appleinsider.com/articles/23/10/26/apple-store-union-workers-claim-foul-over-labor-audit?utm_medium=rss)
+ - [First iOS 17.2, iPadOS 17.2 developer betas now out for testing](https://appleinsider.com/articles/23/10/26/first-ios-172-ipados-172-developer-betas-now-out-for-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

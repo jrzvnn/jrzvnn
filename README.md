@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)
  - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)
+ - [Want to Avoid Upgrading Your iPhone? Here&#39;s How to Maximize Your Battery&#39;s Life Span     - CNET](https://www.cnet.com/tech/mobile/want-to-avoid-upgrading-your-iphone-heres-how-to-maximize-your-batterys-life-span/#ftag=CAD590a51e)
  - [Analysis of 1,800 AI datasets: ~70% didn&#39;t state what license should be used or had been mislabeled with more permissive guidelines than their creators intended &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231026/p3#a231026p3)
- - [Sick of Two-Factor Authentication Codes Clogging Up Your Inbox? iOS 17 Has a Fix     - CNET](https://www.cnet.com/tech/mobile/sick-of-two-factor-authentication-codes-clogging-up-your-inbox-ios-17-has-got-a-fix/#ftag=CAD590a51e)
- - [Here&#39;s How to Leave a Group Chat on Your iPhone When Someone Has an Android     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-leave-a-group-chat-on-your-iphone-when-someone-has-an-android/#ftag=CAD590a51e)
- - [A leaked copy of the UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, preferring existing collaborations instead &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)<!-- TECH:END -->
+ - [NameDrop Finally Hits Apple Watch: Here&#39;s Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/namedrop-finally-hits-apple-watch-heres-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 😝 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
  - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 👉 [This movie was depressing.](http://9gag.com/gag/aGEvExX)<!-- MEMES:END -->
+ - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
+ - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 

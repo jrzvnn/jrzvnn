@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to find the best deals during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
+ - [iOS 17 Cheat Sheet: What to Know About the iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-the-iphone-update/#ftag=CAD590a51e)
+ - [Apple Releases iOS 17.2 Developer Beta. Here&#39;s How to Download the Latest iPhone Update     - CNET](https://www.cnet.com/tech/mobile/apple-releases-ios-17-2-developer-beta-heres-how-to-download-the-latest-iphone-update/#ftag=CAD590a51e)
  - [Shazam can tell you what concerts to go to now](https://www.theverge.com/2023/10/26/23932074/shazam-concert-recommendations-ios-iphone)
- - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI Group revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)
- - [Apple’s iOS 17.2 beta includes the new Journal app](https://www.theverge.com/2023/10/26/23933736/apples-ios-17-2-beta-journal-diary-app-wwdc)
- - [Amazon Q3: ad services revenue up 26% YoY to $12.1B, vs. $11.6B est., North American sales up 11% YoY to $87.9B, and International sales up 16% YoY to $32.1B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)
- - [Amazon reports Q3 revenue up 13% YoY to $143.1B, net income up 241% YoY to $9.9B, AWS sales up 12% YoY to $23.1B, and subscription revenue up 14% YoY to $10.2B &lpar;Amazon&rpar;](http://www.techmeme.com/231026/p29#a231026p29)<!-- TECH:END -->
+ - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI Group revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

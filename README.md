@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like most famous Germans, he&#39;s Austrian](http://9gag.com/gag/a3ZgZ8e)
- - 😝 [This guacamole tastes odd.](http://9gag.com/gag/a2Kg1de)
- - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Teens who filmed themselves deliberately hitting old man, flip off the victim&#39;s family in court](http://9gag.com/gag/a6qgEMb)
+ - 😝 [What ?](http://9gag.com/gag/axoK7qb)
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)<!-- MEMES:END -->
+ - 👉 [I like happy endings...](http://9gag.com/gag/aA0AGv2)<!-- MEMES:END -->
 
 ---
 

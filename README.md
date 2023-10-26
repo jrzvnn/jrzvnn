@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pro-Russia hacking group Winter Vivern is targeting European governmental entities&#39; Roundcube Webmail servers, triggering an attack when an email is viewed &lpar;Matthieu Faou/WeLiveSecurity&rpar;](http://www.techmeme.com/231025/p50#a231025p50)
  - [Valve officially releases SteamVR 2.0, including most of the current features of Steam and Steam Deck, after a surprise beta launch in September &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231025/p49#a231025p49)
  - [Bluetti AC300 &amp; B300 home battery backup review: incredible expansion for any situation](https://appleinsider.com/articles/23/10/26/bluetti-ac300-b300-home-battery-backup-review-incredible-expansion-for-any-situation?utm_medium=rss)
- - [Singapore-based YouTrip, which offers multi-currency wallet and payments services, raised a $50M Series B led by Lightspeed, bringing its total funding to $100M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/231025/p48#a231025p48)
- - [Best Dishwasher Features of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)
- - [Ford and UAW reach tentative agreement to end strike](https://www.theverge.com/2023/10/25/23932799/ford-uaw-auto-worker-end-strike-gm-stellantis)<!-- TECH:END -->
+ - [Best DIY Home Security Systems of 2023     - CNET](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
+ - [Singapore-based YouTrip, which offers a multi-currency wallet and payments services, raised a $50M Series B led by Lightspeed, taking its total funding to $100M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/231025/p48#a231025p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

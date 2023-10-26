@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
- - 😝 [I like happy endings...](http://9gag.com/gag/aA0AGv2)
- - 💣 [What ?](http://9gag.com/gag/axoK7qb)
+ - 😝 [What ?](http://9gag.com/gag/axoK7qb)
+ - 😝 [How it could have ended ...](http://9gag.com/gag/ap97N28)
+ - 💣 [Full of degenerates](http://9gag.com/gag/armEM30)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [What should I do next time?](http://9gag.com/gag/aME7x96)<!-- MEMES:END -->
+ - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
 
 ---
 

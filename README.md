@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve officially releases SteamVR 2.0, including most of the current features of Steam and Steam Deck, after a surprise beta launch in September &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231025/p49#a231025p49)
  - [Bluetti AC300 &amp; B300 home battery backup review: incredible expansion for any situation](https://appleinsider.com/articles/23/10/26/bluetti-ac300-b300-home-battery-backup-review-incredible-expansion-for-any-situation?utm_medium=rss)
  - [Singapore-based YouTrip, which offers multi-currency wallet and payments services, raised a $50M Series B led by Lightspeed, bringing its total funding to $100M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/231025/p48#a231025p48)
  - [Best Dishwasher Features of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher-features/#ftag=CAD590a51e)
- - [Ford and UAW reach tentative agreement to end strike](https://www.theverge.com/2023/10/25/23932799/ford-uaw-auto-worker-end-strike-gm-stellantis)
- - [SK Hynix reports Q3 revenue down 17% YoY to ~$6.69B, beating average estimates of ~$6B, and a ~$1.32B operating loss, versus estimates of ~$1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/231025/p47#a231025p47)<!-- TECH:END -->
+ - [Ford and UAW reach tentative agreement to end strike](https://www.theverge.com/2023/10/25/23932799/ford-uaw-auto-worker-end-strike-gm-stellantis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

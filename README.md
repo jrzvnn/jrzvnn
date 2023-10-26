@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Trade Representative Katherine Tai dropped longstanding US digital trade demands in WTO talks, aiming to give Congress room to regulate Big Tech companies &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/231026/p6#a231026p6)
  - [Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing](https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station)
  - [Franco-Italian chipmaker STMicro reports Q3 revenue up 2.5% to $4.43B, beating $4.38B est., net income down 0.8% YoY to ~$1B, and predicts demand rising in Q1 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/231026/p5#a231026p5)
- - [Getting an iPhone 15 or iPhone 15 Pro? You&#39;ll Want to Change These 4 iOS 17 Settings Right Now     - CNET](https://www.cnet.com/tech/mobile/getting-an-iphone-15-or-iphone-15-pro-youll-want-to-change-these-4-ios-17-settings-right-now/#ftag=CAD590a51e)
- - [Best Windows Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
- - [You Need to Know About These 3 New Features on the iPhone 15 Pro and 15 Pro Max     - CNET](https://www.cnet.com/tech/mobile/you-need-to-know-about-these-3-new-features-on-the-iphone-15-pro-and-15-pro-ma/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)
+ - [Want to Avoid Upgrading Your iPhone? Here&#39;s How to Maximize Your Battery&#39;s Life Span     - CNET](https://www.cnet.com/tech/mobile/want-to-avoid-upgrading-your-iphone-heres-how-to-maximize-your-batterys-life-span/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

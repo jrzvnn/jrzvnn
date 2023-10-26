@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 😝 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 💣 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
  - 😝 [Oden](http://9gag.com/gag/ay2re2p)
- - 💣 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)
- - 😝 [No touchy](http://9gag.com/gag/anzZO1E)
- - 👉 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
 
 ---
 

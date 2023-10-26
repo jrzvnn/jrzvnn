@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart plugs](https://www.theverge.com/23899810/best-smart-plugs)
- - [Is my co-worker AI? Bizarre product reviews leave Gannett staff wondering](https://www.theverge.com/2023/10/26/23931530/gannett-ai-product-reviews-site-reviewed-union-newsguild)
- - [Lisa Frankenstein’s new trailer makes it look like a totally rad monster romance](https://www.theverge.com/2023/10/26/23933164/lisa-frankenstein-movie-trailer)
- - [Meta declines its Oversight Board&#39;s advice from August 2023 to tighten oversight of drug-related posts; the Oversight Board calls the decision &quot;unfortunate&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/231026/p25#a231026p25)
- - [Xiaomi unveils the 6.3&quot; Xiaomi 14 and 6.7&quot; Xiaomi 14 Pro, offering the Snapdragon 8 Gen 3, 50MP main sensors, a Lecia lens on the Pro, and LTPO 120Hz panels &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/231026/p24#a231026p24)<!-- TECH:END -->
+ - [First macOS Sonoma 14.2 developer beta issued to testers](https://appleinsider.com/articles/23/10/26/first-macos-sonoma-142-developer-beta-issued-to-testers?utm_medium=rss)
+ - [Threads is adding polls and GIFs](https://www.theverge.com/2023/10/26/23933559/threads-polls-gifs-app)
+ - [Censys, which offers tools to monitor internet hosts and their security statuses, raised a $50M Series C and $25M in debt, bringing its total funding to $128.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231026/p26#a231026p26)
+ - [First tvOS 17.2 beta issued to developers](https://appleinsider.com/articles/23/10/26/first-tvos-172-beta-issued-to-developers?utm_medium=rss)
+ - [First watchOS 10.2 developer beta build is out now](https://appleinsider.com/articles/23/10/26/first-watchos-102-developer-beta-build-is-out-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

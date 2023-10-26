@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cocktail Gear: Shakers, Strainers, Juicers, and More &lpar;2023&rpar;](https://www.wired.com/gallery/best-cocktail-gear/)
  - [Shazam can tell you what concerts to go to now](https://www.theverge.com/2023/10/26/23932074/shazam-concert-recommendations-ios-iphone)
- - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 6%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)
+ - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI Group revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 5%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)
  - [Apple’s iOS 17.2 beta includes the new Journal app](https://www.theverge.com/2023/10/26/23933736/apples-ios-17-2-beta-journal-diary-app-wwdc)
- - [Amazon Q3: ad services revenue up 26% YoY to $12.1B, vs. $11.6B est., North American sales up 11% YoY to $87.9B, and International sales up 16% YoY to $32.1B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)<!-- TECH:END -->
+ - [Amazon Q3: ad services revenue up 26% YoY to $12.1B, vs. $11.6B est., North American sales up 11% YoY to $87.9B, and International sales up 16% YoY to $32.1B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)
+ - [Amazon reports Q3 revenue up 13% YoY to $143.1B, net income up 241% YoY to $9.9B, AWS sales up 12% YoY to $23.1B, and subscription revenue up 14% YoY to $10.2B &lpar;Amazon&rpar;](http://www.techmeme.com/231026/p29#a231026p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

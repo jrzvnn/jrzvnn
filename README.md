@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shazam can tell you what concerts to go to now](https://www.theverge.com/2023/10/26/23932074/shazam-concert-recommendations-ios-iphone)
+ - [Intel reports Q3 revenue down 8% YoY to $14.2B, Data Center and AI revenue down 10% YoY to $3.8B, and forecasts Q4 revenue above estimates; INTC jumps 6%+ &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231026/p31#a231026p31)
  - [Apple’s iOS 17.2 beta includes the new Journal app](https://www.theverge.com/2023/10/26/23933736/apples-ios-17-2-beta-journal-diary-app-wwdc)
  - [Amazon Q3: ad revenue up 26% YoY to $12.1B, vs. $11.6B est., subscription revenue up 14% YoY to $10.2B, and North America segment sales up 11% YoY to $87.9B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/231026/p30#a231026p30)
- - [Amazon reports Q3 revenue up 13% YoY to $143.1B, a $9.9B net income, vs. $2.9B in Q3 2022, AWS segment sales up 12% YoY to $23.1B &lpar;Amazon&rpar;](http://www.techmeme.com/231026/p29#a231026p29)
- - [OpenAI forms new team to assess ‘catastrophic risks’ of AI](https://www.theverge.com/2023/10/26/23933783/openai-preparedness-team-catastrophic-risks-ai)
- - [Forbes now has its own AI search engine](https://www.theverge.com/2023/10/26/23933799/forbes-generative-ai-search-adelaide)<!-- TECH:END -->
+ - [Amazon reports Q3 revenue up 13% YoY to $143.1B, a $9.9B net income, vs. $2.9B in Q3 2022, AWS segment sales up 12% YoY to $23.1B &lpar;Amazon&rpar;](http://www.techmeme.com/231026/p29#a231026p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

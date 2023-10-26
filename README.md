@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Patio Heaters of 2023     - CNET](https://www.cnet.com/news/best-patio-heaters/#ftag=CAD590a51e)
+ - [Thursday Night Football: How to Watch, Stream Buccaneers vs. Bills Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-buccaneers-vs-bills-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
  - [Boston Dynamics turned its robot dog into a talking tour guide with ChatGPT](https://www.theverge.com/2023/10/26/23933213/boston-dynamics-robot-dog-spot-top-hat)
  - [What’s on your desk, Kate Cox?](https://www.theverge.com/23930285/whats-on-your-desk-kate-cox)
- - [Daily deals Oct. 26: $150 off upgraded M2 MacBook Air, iPad 10th Gen $399, 62% off eSIM mobile data credit, more](https://appleinsider.com/articles/23/10/26/daily-deals-oct-26-150-off-upgraded-m2-macbook-air-ipad-10th-gen-399-62-off-esim-mobile-data-credit-more?utm_medium=rss)
- - [Microsoft reorganizes its Xbox gaming and marketing leadership, promoting Matt Booty to president of game content and studios and Sarah Bond to Xbox president &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231026/p23#a231026p23)
- - [Kids are attending virtual pro-Palestine protests on Roblox in the wake of the Israel-Hamas war; one virtual protest area has been visited 275K+ times &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231026/p22#a231026p22)<!-- TECH:END -->
+ - [Daily deals Oct. 26: $150 off upgraded M2 MacBook Air, iPad 10th Gen $399, 62% off eSIM mobile data credit, more](https://appleinsider.com/articles/23/10/26/daily-deals-oct-26-150-off-upgraded-m2-macbook-air-ipad-10th-gen-399-62-off-esim-mobile-data-credit-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
- - 😝 [The only thing worse than a female driver is a female driver with a female passenger](http://9gag.com/gag/aREWBdy)
- - 💣 [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
- - 😝 [Pretty accurate](http://9gag.com/gag/aOxE28R)
- - 👉 [The importance of being there for your children](http://9gag.com/gag/aoKoy1m)<!-- MEMES:END -->
+ - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 😝 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - 👉 [This movie was depressing.](http://9gag.com/gag/aGEvExX)<!-- MEMES:END -->
 
 ---
 

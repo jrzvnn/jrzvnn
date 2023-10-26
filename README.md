@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
- - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
- - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
+ - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 😝 [?????](http://9gag.com/gag/aZDXy26)
+ - 💣 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/aVbrwVy)<!-- MEMES:END -->
 
 ---
 

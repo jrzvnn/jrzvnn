@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Member this gem? We still dont know if the girl is safe now.](http://9gag.com/gag/ago9od6)
- - 😝 [Friendly fire](http://9gag.com/gag/aWGyjvK)
- - 💣 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)
+ - 😝 [Probably not a whole lot of trips `down south`.](http://9gag.com/gag/a1PgW9Y)
+ - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
  - 😝 [How many tries did you need? Play World of Tanks Blitz to get the full Spooktober experience!](http://9gag.com/gag/ago9nKr)
- - 👉 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)<!-- MEMES:END -->
+ - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
 
 ---
 

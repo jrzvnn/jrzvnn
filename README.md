@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s on your desk, Kate Cox?](https://www.theverge.com/23930285/whats-on-your-desk-kate-cox)
  - [Daily deals Oct. 26: $150 off upgraded M2 MacBook Air, iPad 10th Gen $399, 62% off eSIM mobile data credit, more](https://appleinsider.com/articles/23/10/26/daily-deals-oct-26-150-off-upgraded-m2-macbook-air-ipad-10th-gen-399-62-off-esim-mobile-data-credit-more?utm_medium=rss)
  - [Microsoft reorganizes its Xbox gaming and marketing leadership, promoting Matt Booty to president of game content and studios and Sarah Bond to Xbox president &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231026/p23#a231026p23)
  - [Kids are attending virtual pro-Palestine protests on Roblox in the wake of the Israel-Hamas war; one virtual protest area has been visited 275K+ times &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231026/p22#a231026p22)
- - [Microsoft reorgs its Xbox and marketing teams to prepare for an AI and gaming future](https://www.theverge.com/2023/10/26/23933049/microsoft-reorg-xbox-marketing-ai-leadership-changes)
- - [Tesla’s first big Supercharger deal is a $100 million sale to BP](https://www.theverge.com/2023/10/26/23933251/tesla-bp-pulse-first-third-party-supercharger-electric-car-charging-network)<!-- TECH:END -->
+ - [Microsoft reorgs its Xbox and marketing teams to prepare for an AI and gaming future](https://www.theverge.com/2023/10/26/23933049/microsoft-reorg-xbox-marketing-ai-leadership-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

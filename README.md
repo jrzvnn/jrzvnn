@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kioxia investor SK Hynix says the company didn&#39;t agree to the Kioxia-Western Digital merger due to &quot;the overall impact on the value of the company&#39;s investment&quot; &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231026/p4#a231026p4)
  - [Analysis of 1,800 AI datasets: ~70% didn&#39;t state what license should be used or had been mislabeled with more permissive guidelines than their creators intended &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/231026/p3#a231026p3)
  - [Sick of Two-Factor Authentication Codes Clogging Up Your Inbox? iOS 17 Has a Fix     - CNET](https://www.cnet.com/tech/mobile/sick-of-two-factor-authentication-codes-clogging-up-your-inbox-ios-17-has-got-a-fix/#ftag=CAD590a51e)
  - [Here&#39;s How to Leave a Group Chat on Your iPhone When Someone Has an Android     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-leave-a-group-chat-on-your-iphone-when-someone-has-an-android/#ftag=CAD590a51e)
- - [A leaked copy of the UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, preferring existing collaborations instead &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)
- - [Sources, docs, and government tenders: China has increased spending to replace Western tech with local options since late 2022, starting with computer equipment &lpar;Reuters&rpar;](http://www.techmeme.com/231026/p1#a231026p1)<!-- TECH:END -->
+ - [A leaked copy of the UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, preferring existing collaborations instead &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

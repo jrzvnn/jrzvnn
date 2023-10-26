@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 💣 [Serious question though](http://9gag.com/gag/abvDvLE)
- - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 😝 [Pretty accurate](http://9gag.com/gag/aOxE28R)
+ - 😝 [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
+ - 💣 [The importance of being there for your children](http://9gag.com/gag/aoKoy1m)
+ - 😝 [Chinesium Security](http://9gag.com/gag/armEWKK)
+ - 👉 [You stupid sod.](http://9gag.com/gag/ap97RMD)<!-- MEMES:END -->
 
 ---
 

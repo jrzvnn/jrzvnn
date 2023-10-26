@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Leaked UK&#39;s final AI Safety Summit communiqu&amp;eacute; does not mention a new scientific body to study AI risks, and says it should be done using existing collaborations &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/231026/p2#a231026p2)
  - [Sources, docs, and government tenders: China has increased spending to replace Western tech with local options since late 2022, starting with computer equipment &lpar;Reuters&rpar;](http://www.techmeme.com/231026/p1#a231026p1)
+ - [Best Beer Clubs for 2023     - CNET](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
  - [Pro-Russia hacking group Winter Vivern is targeting European governmental entities&#39; Roundcube Webmail servers, triggering an attack when an email is viewed &lpar;Matthieu Faou/WeLiveSecurity&rpar;](http://www.techmeme.com/231025/p50#a231025p50)
- - [Valve officially releases SteamVR 2.0, including most of the current features of Steam and Steam Deck, after a surprise beta launch in September &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231025/p49#a231025p49)
- - [Bluetti AC300 &amp; B300 home battery backup review: incredible expansion for any situation](https://appleinsider.com/articles/23/10/26/bluetti-ac300-b300-home-battery-backup-review-incredible-expansion-for-any-situation?utm_medium=rss)<!-- TECH:END -->
+ - [Valve officially releases SteamVR 2.0, including most of the current features of Steam and Steam Deck, after a surprise beta launch in September &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231025/p49#a231025p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

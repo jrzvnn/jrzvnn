@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
  - 😝 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
- - 😝 [Pepsi](http://9gag.com/gag/aBdzyGN)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
+ - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 

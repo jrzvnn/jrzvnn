@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Elon Musk and Linda Yaccarino referenced ambitions to create a news wire service called XWire, rivaling Cision&#39;s PR Newswire, during an all-hands &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/231027/p10#a231027p10)
+ - [After two seasons, Apple’s sci-fi drama Invasion is finally coming together](https://www.theverge.com/23932047/invasion-season-2-review-apple-tv-plus)
  - [How OpenAI is using ChatGPT prompt engineering to get around fundamental biases in DALL-E 3, discourage it from recreating the work of living artists, and more &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231027/p9#a231027p9)
  - [Best Mattresses for Kids in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Best Wine Apps to Help You Pick a Perfect Bottle     - CNET](https://www.cnet.com/tech/mobile/best-free-wine-apps/#ftag=CAD590a51e)
- - [Sonos Is Offering Up to 20% Off Select Home Theater Sets Ahead of the Holiday Season     - CNET](https://www.cnet.com/deals/sonos-is-offering-up-to-20-off-select-home-theater-sets-ahead-of-the-holiday-season/#ftag=CAD590a51e)
- - [Save $120 and Cook Like a Boss With This Bella Pro Series Toaster Oven and Air Fryer     - CNET](https://www.cnet.com/deals/save-120-and-cook-like-a-boss-with-this-bella-pro-series-toaster-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wine Apps to Help You Pick a Perfect Bottle     - CNET](https://www.cnet.com/tech/mobile/best-free-wine-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

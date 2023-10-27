@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei reports Q3 revenue up 1% YoY to ~$19.9B, revenue for Q1 to Q3 2023 up 2.4% YoY to ~$62.3B, and a 16% profit margin in Q1 to Q3, up from 15% in H1 2023 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231027/p4#a231027p4)
  - [Inside Elon Musk’s First Election Crisis—a Day After He ‘Freed’ the Bird](https://www.wired.com/story/twitter-brazil-elections-musk/)
+ - [Want the New iPhone 15? Here&#39;s Everything You&#39;ll Want to Know About Apple&#39;s iPhone Upgrade Program     - CNET](https://www.cnet.com/deals/want-the-new-iphone-15-heres-everything-youll-want-to-know-about-apples-iphone-upgrade-program/#ftag=CAD590a51e)
  - [Documents: Shein and PDD&#39;s Temu file joint declarations in the US to end their legal fights, asking judges to dismiss the cases &quot;without prejudice&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/231027/p3#a231027p3)
- - [Samsung shows off Zoom Anyplace camera likely coming to Galaxy S24 Ultra](https://www.theverge.com/2023/10/27/23934566/samsung-isocell-zoom-anywhere-200-megapixel-camera-galaxy-s24-ultra)
- - [Want Better Cellphone Reception? Here Are 10 Ways You Can Boost Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/want-better-cellphone-reception-here-are-10-ways-you-can-boost-your-cellphone-signal/#ftag=CAD590a51e)
- - [Your Asus ROG Ally could be transparent with Jsaux’s RGB backplate](https://www.theverge.com/2023/10/27/23934475/asus-rog-ally-jsaux-transparent-rgb-back)<!-- TECH:END -->
+ - [Samsung shows off Zoom Anyplace camera likely coming to Galaxy S24 Ultra](https://www.theverge.com/2023/10/27/23934566/samsung-isocell-zoom-anywhere-200-megapixel-camera-galaxy-s24-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

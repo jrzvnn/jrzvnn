@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 💣 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---
 

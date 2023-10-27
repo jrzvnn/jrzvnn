@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)
  - [US v. Google: Google&#39;s search head testifies that the company spent $26.3B in 2021 to be the default search engine over multiple browsers, phones, and platforms &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231027/p14#a231027p14)
  - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
- - [Sources: Humane set its ~$1K Ai Pin launch for Oct. 14, during the solar eclipse, but moved it to Nov. 9 as reports of Sam Altman and Jony Ive&#39;s device surfaced &lpar;Julia Black/The Information&rpar;](http://www.techmeme.com/231027/p13#a231027p13)<!-- TECH:END -->
+ - [Sources: Humane set its ~$1K Ai Pin launch for the October 14 solar eclipse, but rescheduled to November 9 as a report of Sam Altman and Jony Ive&#39;s device broke &lpar;Julia Black/The Information&rpar;](http://www.techmeme.com/231027/p13#a231027p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

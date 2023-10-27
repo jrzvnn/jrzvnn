@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Tata Group acquires the India unit of Apple manufacturer Wistron for $125M; an Indian IT minister says Tata will make iPhones for the global market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231027/p6#a231027p6)
  - [Cruise halts robotaxi services nationwide in bid to ‘earn public trust’](https://www.theverge.com/2023/10/27/23934595/cruise-robotaxi-autonomous-vehicle-pause-operations-us-nationwide)
  - [Windows 11 now lets you write anywhere you can type](https://www.theverge.com/2023/10/27/23934589/microsoft-windows-11-windows-ink-anywhere)
  - [Acer Swift X 16 Review: Excellent Performance and Display Held Back by Meh Design     - CNET](https://www.cnet.com/tech/computing/acer-swift-x-16-review-excellent-performance-and-display-held-back-by-weak-design/#ftag=CAD590a51e)
- - [How to Watch &#39;The Nun 2&#39;: Stream the Horror Sequel From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-nun-2-stream-the-horror-sequel-from-anywhere/#ftag=CAD590a51e)
- - [How to Create a Contact Poster in iOS 17 &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-contact-poster-ios-17/)<!-- TECH:END -->
+ - [How to Watch &#39;The Nun 2&#39;: Stream the Horror Sequel From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-nun-2-stream-the-horror-sequel-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

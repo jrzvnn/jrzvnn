@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta wants Threads to be the ‘de facto platform’ for online public conversations](https://www.theverge.com/2023/10/27/23935436/meta-threads-platform-online-public-conversations)
+ - [Apple fixed an old iOS bug that let nearby wireless routers gather real MAC addresses even when Private Wi-Fi Address is enabled, including in Lockdown Mode &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231027/p23#a231027p23)
  - [Apple&#39;s private Wi-Fi MAC addresses were security theater until iOS 17.1](https://appleinsider.com/articles/23/10/27/apples-private-wi-fi-mac-addresses-were-security-theater-until-ios-171?utm_medium=rss)
- - [Apple fixed a years-old iOS bug that let nearby wireless routers gather real iPhone MAC addresses when using the Private Address feature, even in Lockdown Mode &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231027/p22#a231027p22)
- - [Meet the dwarfs from Disney’s live-action Snow White, which has been delayed](https://www.theverge.com/2023/10/27/23935297/disney-snow-white-live-action-delayed-dwarfs)
- - [Filing: Gemini sues Genesis Global, its former business partner for its Gemini Earn product, over 60M GBTC shares, worth $1.6B+, that were pledged as collateral &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231027/p21#a231027p21)
- - [Instagram tests collaborative carousels your friends can add to](https://www.theverge.com/2023/10/27/23935363/instagram-collaborative-carousels-friends-meta-test)<!-- TECH:END -->
+ - [Apple fixes bug that undermined iOS privacy feature for years &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231027/p22#a231027p22)
+ - [Meet the dwarfs from Disney’s live-action Snow White, which has been delayed](https://www.theverge.com/2023/10/27/23935297/disney-snow-white-live-action-delayed-dwarfs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

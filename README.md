@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US appeals court upholds a jury&#39;s ruling that Craig Wright wasn&#39;t in partnership with David Kleiman and doesn&#39;t have to transfer half of the bitcoin they mined &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/231027/p15#a231027p15)
  - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)
  - [US v. Google: Google&#39;s search head testifies that the company spent $26.3B in 2021 to be the default search engine over multiple browsers, phones, and platforms &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231027/p14#a231027p14)
  - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
- - [Sources: Humane set its ~$1K Ai Pin launch for Oct. 14, during the solar eclipse, but moved it to Nov. 9 as reports of Sam Altman and Jony Ive&#39;s device surfaced &lpar;Julia Black/The Information&rpar;](http://www.techmeme.com/231027/p13#a231027p13)
- - [Payments processor Wex plans to acquire Payzer, which offers field services software to plumbers, roofers, and other contractors, for about $250M &lpar;Payments Dive&rpar;](http://www.techmeme.com/231027/p12#a231027p12)<!-- TECH:END -->
+ - [Sources: Humane set its ~$1K Ai Pin launch for Oct. 14, during the solar eclipse, but moved it to Nov. 9 as reports of Sam Altman and Jony Ive&#39;s device surfaced &lpar;Julia Black/The Information&rpar;](http://www.techmeme.com/231027/p13#a231027p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

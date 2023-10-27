@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
- - 😝 [I can hear the desktop is crying.](http://9gag.com/gag/adPA1EM)
- - 💣 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
+ - 😝 [Movie name: The Last Boy Scout](http://9gag.com/gag/anzZz1b)
+ - 💣 [Pepsi](http://9gag.com/gag/aBdzyGN)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Stolen title. Other countries: Block the light, Germany: Become one with the void](http://9gag.com/gag/ap973O9)<!-- MEMES:END -->
+ - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 😝 [Remember they called him a saint and painted murals of him lol](http://9gag.com/gag/adPAOAB)
- - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 💣 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Pro Hamas supporters need to face this kind of pushback on American streets every day and everywhere.](http://9gag.com/gag/aL1o4wx)<!-- MEMES:END -->
+ - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
 
 ---
 

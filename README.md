@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri says he wants Threads to be the &quot;de facto platform for public conversations online&quot; and web app is not a &quot;primary focus&quot; as mobile usage is higher &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231027/p24#a231027p24)
  - [Meta wants Threads to be the ‘de facto platform’ for online public conversations](https://www.theverge.com/2023/10/27/23935436/meta-threads-platform-online-public-conversations)
  - [Apple fixed an old iOS bug that let nearby wireless routers gather real MAC addresses even when Private Wi-Fi Address is enabled, including in Lockdown Mode &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231027/p23#a231027p23)
- - [Apple&#39;s private Wi-Fi MAC addresses were security theater until iOS 17.1](https://appleinsider.com/articles/23/10/27/apples-private-wi-fi-mac-addresses-were-security-theater-until-ios-171?utm_medium=rss)
- - [Apple fixes bug that undermined iOS privacy feature for years &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231027/p22#a231027p22)
- - [Meet the dwarfs from Disney’s live-action Snow White, which has been delayed](https://www.theverge.com/2023/10/27/23935297/disney-snow-white-live-action-delayed-dwarfs)<!-- TECH:END -->
+ - [Best Wi-Fi 6 Router Deals: Big Savings on Budget, Gaming and Mesh Routers     - CNET](https://www.cnet.com/deals/best-wifi-6-router-deals/#ftag=CAD590a51e)
+ - [Best Wireless Earbuds and Headphones for Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

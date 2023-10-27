@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scary Fast M3 Mac event, iOS 17.1, Apple One price change on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/27/scary-fast-m3-mac-event-ios-171-apple-one-price-change-on-the-appleinsider-podcast?utm_medium=rss)
+ - [In Alan Wake 2, you will never feel safe](https://www.theverge.com/23934662/alan-wake-2-review-ps5-xbox-pc)
  - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
  - [11 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
- - [The Physics of Faraday Cages](https://www.wired.com/story/the-physics-of-faraday-cages/)
- - [Here&#39;s a New Plan to Rein In the Gilded Tech Bros](https://www.wired.com/story/new-plan-tom-wheeler-book-rein-in-the-gilded-tech-bros/)
- - [Taylor Swift and Beyoncé Are Resurrecting the American Movie Theater](https://www.wired.com/story/taylor-swift-and-beyonce-may-be-all-that-can-save-american-theaters/)<!-- TECH:END -->
+ - [The Physics of Faraday Cages](https://www.wired.com/story/the-physics-of-faraday-cages/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

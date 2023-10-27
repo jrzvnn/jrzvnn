@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Elon Musk and Linda Yaccarino referenced ambitions to create a news wire service called XWire, rivaling Cision&#39;s PR Newswire, during an all-hands &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/231027/p10#a231027p10)
- - [After two seasons, Apple’s sci-fi drama Invasion is finally coming together](https://www.theverge.com/23932047/invasion-season-2-review-apple-tv-plus)
- - [How OpenAI is using ChatGPT prompt engineering to get around fundamental biases in DALL-E 3, discourage it from recreating the work of living artists, and more &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231027/p9#a231027p9)
- - [Best Mattresses for Kids in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Best Wine Apps to Help You Pick a Perfect Bottle     - CNET](https://www.cnet.com/tech/mobile/best-free-wine-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos is taking up to $385 off Arc, Beam, and Ray home theater sets](https://www.theverge.com/2023/10/27/23934836/sonos-arc-beam-ray-era-300-soundbars-smart-speakers)
+ - [Sources: Flexport is in talks to buy the tech of collapsed digital freight startup Convoy, a move that would expand Flexport&#39;s push into the US trucking market &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231027/p11#a231027p11)
+ - [Source: Elon Musk and Linda Yaccarino referenced ambitions to create a news wire service called XWire, akin to Cision&#39;s PR Newswire, during an all-hands &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/231027/p10#a231027p10)
+ - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)
+ - [Best Heated Blankets for 2023     - CNET](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

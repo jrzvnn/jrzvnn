@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Tata Group acquires the India unit of Apple manufacturer Wistron for $125M; an Indian IT minister says Tata will make iPhones for the global market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231027/p6#a231027p6)
- - [Cruise halts robotaxi services nationwide in bid to ‘earn public trust’](https://www.theverge.com/2023/10/27/23934595/cruise-robotaxi-autonomous-vehicle-pause-operations-us-nationwide)
- - [Windows 11 now lets you write anywhere you can type](https://www.theverge.com/2023/10/27/23934589/microsoft-windows-11-windows-ink-anywhere)
- - [Acer Swift X 16 Review: Excellent Performance and Display Held Back by Meh Design     - CNET](https://www.cnet.com/tech/computing/acer-swift-x-16-review-excellent-performance-and-display-held-back-by-weak-design/#ftag=CAD590a51e)
- - [How to Watch &#39;The Nun 2&#39;: Stream the Horror Sequel From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-nun-2-stream-the-horror-sequel-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No M3 13-inch MacBook Pro at &#39;Scary Fast&#39; event, says Gurman](https://appleinsider.com/articles/23/10/27/no-m3-13-inch-macbook-pro-at-scary-fast-event-says-gurman?utm_medium=rss)
+ - [7 Best Garmin Watches &lpar;2023&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
+ - [GoPro Hero 12 Black Review: Refined and Improved](https://www.wired.com/review/gopro-hero-12-black/)
+ - [Japan’s automakers are keeping sports cars alive in the EV era](https://www.theverge.com/2023/10/27/23933644/japan-mobility-show-ev-mazda-nissan-toyota-honda)
+ - [What to expect from Apple’s ‘Scary Fast’ Mac event](https://www.theverge.com/23933560/apple-event-imac-m3-macbook-pro-date-time-live-stream-watch-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

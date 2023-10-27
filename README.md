@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 😝 [Serious question though](http://9gag.com/gag/abvDvLE)
- - 💣 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
+ - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
+ - 👉 [Serious question though](http://9gag.com/gag/abvDvLE)<!-- MEMES:END -->
 
 ---
 

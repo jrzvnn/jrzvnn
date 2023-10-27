@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents: Shein and PDD&#39;s Temu file joint declarations in the US to end their legal fights, asking judges to dismiss the cases &quot;without prejudice&quot; &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/231027/p3#a231027p3)
+ - [Samsung shows off Zoom Anyplace camera likely coming to Galaxy S24 Ultra](https://www.theverge.com/2023/10/27/23934566/samsung-isocell-zoom-anywhere-200-megapixel-camera-galaxy-s24-ultra)
  - [Want Better Cellphone Reception? Here Are 10 Ways You Can Boost Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/want-better-cellphone-reception-here-are-10-ways-you-can-boost-your-cellphone-signal/#ftag=CAD590a51e)
  - [Your Asus ROG Ally could be transparent with Jsaux’s RGB backplate](https://www.theverge.com/2023/10/27/23934475/asus-rog-ally-jsaux-transparent-rgb-back)
- - [Businesses are using SEO-driven names like Thai Food Near Me and Dentist Near Me to optimize for Google Search, but the scheme is likely technically ineffective &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231027/p2#a231027p2)
- - [If Your Android is Running Slow, These 7 Tips Can Help Give Your Phone a Boost     - CNET](https://www.cnet.com/tech/mobile/if-your-android-is-running-slow-these-7-tips-can-help-give-your-phone-a-boost/#ftag=CAD590a51e)
- - [New Google Maps Immersive View Update Is Coming Soon. Here&#39;s the Latest     - CNET](https://www.cnet.com/tech/mobile/new-google-maps-immersive-view-update-is-coming-soon-the-latest/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Businesses are using SEO-driven names like Thai Food Near Me and Dentist Near Me to optimize for Google Search, but the scheme is likely technically ineffective &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231027/p2#a231027p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

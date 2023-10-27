@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
  - [Latest &#39;Scary Fast&#39; leaks double down on M3 iMac and MacBook Pro launches](https://appleinsider.com/articles/23/10/27/latest-scary-fast-leaks-double-down-on-m3-imac-and-macbook-pro-launches?utm_medium=rss)
  - [What to expect from Apple&#39;s &quot;Scary Fast&quot; event on Monday: high-end MacBook Pros with M3 Pro and M3 Max, new 24-inch iMac with M3, and USB-C accessories &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231027/p8#a231027p8)
- - [15 Best Festival Accessories and Gear &lpar;2023&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)<!-- TECH:END -->
+ - [How Dolby Vision and Atmos Make Scary Movies Like &#39;It&#39; More Immersive -- and Terrifying     - CNET](https://www.cnet.com/tech/home-entertainment/how-dolby-vision-and-atmos-make-scary-movies-like-it-more-immersive-and-terrifying/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SBF testifies that he only understood &quot;pieces&quot; of the full financial state of his companies and was &quot;surprised&quot; by FTX&#39;s $8B balance-sheet hole in October 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p25#a231027p25)
  - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
  - [Google’s Bard chatbot now responds in real time — and you can shut it up mid-sentence](https://www.theverge.com/2023/10/27/23935437/google-bard-chatbot-real-time-responses)
  - [Adam Mosseri says he wants Threads to be the &quot;de facto platform for public conversations online&quot; and web app is not a &quot;primary focus&quot; as mobile usage is higher &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/231027/p24#a231027p24)
- - [Meta wants Threads to be the ‘de facto platform’ for online public conversations](https://www.theverge.com/2023/10/27/23935436/meta-threads-platform-online-public-conversations)
- - [Apple fixed an old iOS bug that let nearby wireless routers gather real MAC addresses even when Private Wi-Fi Address is enabled, including in Lockdown Mode &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231027/p23#a231027p23)<!-- TECH:END -->
+ - [Meta wants Threads to be the ‘de facto platform’ for online public conversations](https://www.theverge.com/2023/10/27/23935436/meta-threads-platform-online-public-conversations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

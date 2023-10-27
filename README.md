@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources detail the rushed timeline for the UK&#39;s AI Summit, its expanded scope, which now covers everything from healthcare to deepfakes, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p1#a231027p1)
+ - [Lenovo Slim Pro 9i 14 Review: A Bright Spot in a Sea of Competitors     - CNET](https://www.cnet.com/tech/computing/lenovo-slim-pro-9i-14-review-a-bright-spot-in-a-sea-of-competitors/#ftag=CAD590a51e)
+ - [Best Cheap Alexa Devices of 2023     - CNET](https://www.cnet.com/home/smart-home/best-cheap-alexa-devices/#ftag=CAD590a51e)
  - [Some TikTok creators are running &quot;Israel vs. Palestine live matches&quot;, where the side with the most gifts from followers wins; TikTok takes a 50% cut of earnings &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231026/p37#a231026p37)
- - [GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears](https://www.wired.com/story/gms-cruise-halts-self-driving-operations-regulator-safety-fears/)
- - [Microsoft publishes a profile of Octo Tempest, a &quot;dangerous&quot; hacking group targeting organizations across tech, gaming, financial services, and other sectors &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231026/p36#a231026p36)
- - [Cruise pauses all driverless operations two days after the California DMV suspended its permits, but will continue operating supervised autonomous vehicles &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/231026/p35#a231026p35)<!-- TECH:END -->
+ - [GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears](https://www.wired.com/story/gms-cruise-halts-self-driving-operations-regulator-safety-fears/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SBF testifies that he only understood &quot;pieces&quot; of the full financial state of his companies and was &quot;surprised&quot; by FTX&#39;s $8B balance-sheet hole in October 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p25#a231027p25)
- - [Every smart home device that works with Matter](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)
- - [Best Reusable Water Bottles in 2023     - CNET](https://www.cnet.com/health/best-water-bottle/#ftag=CAD590a51e)
- - [Google’s Bard chatbot now responds in real time — and you can shut it up mid-sentence](https://www.theverge.com/2023/10/27/23935437/google-bard-chatbot-real-time-responses)
- - [Best Phone Under $300: 5G Phones at Starter Prices     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humane’s Ai Pin could cost $1,000 — and require a subscription](https://www.theverge.com/2023/10/27/23935644/humane-ai-pin-price-subscription)
+ - [Best Dash Cam Deals: Basic Cams to 4K Models and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)
+ - [Best Speakers of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-speakers/#ftag=CAD590a51e)
+ - [Best 5G Phones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
+ - [SBF testifies that he only understood &quot;pieces&quot; of the full financial state of his companies and was &quot;surprised&quot; by FTX&#39;s $8B balance-sheet hole in October 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p25#a231027p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

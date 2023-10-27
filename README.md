@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the dwarfs from Disney’s live-action Snow White, which has been delayed](https://www.theverge.com/2023/10/27/23935297/disney-snow-white-live-action-delayed-dwarfs)
  - [Filing: Gemini sues Genesis Global, its former business partner for Gemini Earn, over 60M shares, worth $1.6B+, of GBTC that were pledged as collateral &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231027/p21#a231027p21)
  - [Instagram tests collaborative carousels your friends can add to](https://www.theverge.com/2023/10/27/23935363/instagram-collaborative-carousels-friends-meta-test)
  - [Sources: Google invested $500M upfront in Anthropic and agreed to add $1.5B more over time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231027/p20#a231027p20)
- - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)
- - [Android 14 users with multiple profiles say their devices are becoming &quot;unusable&quot; due to a bug that is locking them out of device storage &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231027/p19#a231027p19)<!-- TECH:END -->
+ - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

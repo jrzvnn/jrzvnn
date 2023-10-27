@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
- - 😝 [I can hear the desktop is crying.](http://9gag.com/gag/adPA1EM)
- - 💣 [I bet they did.](http://9gag.com/gag/aeQz1NQ)
+ - 😝 [Pepsi](http://9gag.com/gag/aBdzyGN)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 💣 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Nice song](http://9gag.com/gag/aQEbQzW)<!-- MEMES:END -->
+ - 👉 [How we use to troll people](http://9gag.com/gag/a7qgeoz)<!-- MEMES:END -->
 
 ---
 

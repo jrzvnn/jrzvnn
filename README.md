@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fixed an old iOS bug that let nearby wireless routers gather real MAC addresses even when Private Wi-Fi Address is enabled, including in Lockdown Mode &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/231027/p22#a231027p22)
  - [Meet the dwarfs from Disney’s live-action Snow White, which has been delayed](https://www.theverge.com/2023/10/27/23935297/disney-snow-white-live-action-delayed-dwarfs)
  - [Filing: Gemini sues Genesis Global, its former business partner for Gemini Earn, over 60M shares, worth $1.6B+, of GBTC that were pledged as collateral &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231027/p21#a231027p21)
  - [Instagram tests collaborative carousels your friends can add to](https://www.theverge.com/2023/10/27/23935363/instagram-collaborative-carousels-friends-meta-test)
- - [Sources: Google invested $500M upfront in Anthropic and agreed to add $1.5B more over time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231027/p20#a231027p20)
- - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)<!-- TECH:END -->
+ - [Sources: Google invested $500M upfront in Anthropic and agreed to add $1.5B more over time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231027/p20#a231027p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

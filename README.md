@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Gemini sues Genesis Global, its former business partner for Gemini Earn, over 60M shares, worth $1.6B+, of GBTC that were pledged as collateral &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231027/p21#a231027p21)
+ - [Instagram tests collaborative carousels your friends can add to](https://www.theverge.com/2023/10/27/23935363/instagram-collaborative-carousels-friends-meta-test)
+ - [Sources: Google invested $500M upfront in Anthropic and agreed to add $1.5B more over time &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231027/p20#a231027p20)
  - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)
- - [Android 14 users with multiple profiles say their devices are becoming &quot;unusable&quot; due to a bug that is locking them out of device storage &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231027/p19#a231027p19)
- - [Apple reinforces iMessage security with contact key verification](https://appleinsider.com/articles/23/10/27/apple-reinforces-imessage-security-with-contact-key-verification?utm_medium=rss)
- - [X adds a $16/mo. Premium+ plan with no ads in For You or Following and the &quot;largest reply boost&quot;, and a $3/mo. Basic plan with a &quot;small boost&quot; but no checkmark &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231027/p18#a231027p18)
- - [If you can’t motivate yourself to exercise, try this app](https://www.theverge.com/23935105/future-personal-training-fitness-app-price-features)<!-- TECH:END -->
+ - [Android 14 users with multiple profiles say their devices are becoming &quot;unusable&quot; due to a bug that is locking them out of device storage &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231027/p19#a231027p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

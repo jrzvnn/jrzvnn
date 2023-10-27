@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teen FAFO: Car Keying Edition](http://9gag.com/gag/avQqABO)
- - 😝 [Movie name: The Last Boy Scout](http://9gag.com/gag/anzZz1b)
- - 💣 [Pepsi](http://9gag.com/gag/aBdzyGN)
+ - 😝 [Totally not sus](http://9gag.com/gag/aQEbXxq)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 💣 [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)<!-- MEMES:END -->
+ - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
 
 ---
 

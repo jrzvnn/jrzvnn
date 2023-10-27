@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Google&#39;s search head testifies that the company spent $26.3B in 2021 to be the default search engine over multiple browsers, phones, and platforms &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231027/p14#a231027p14)
+ - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
+ - [Sources: Humane set its ~$1K Ai Pin launch for Oct. 14, during the solar eclipse, but moved it to Nov. 9 as reports of Sam Altman and Jony Ive&#39;s device surfaced &lpar;Julia Black/The Information&rpar;](http://www.techmeme.com/231027/p13#a231027p13)
  - [Payments processor Wex plans to acquire Payzer, which offers field services software to plumbers, roofers, and other contractors, for about $250M &lpar;Payments Dive&rpar;](http://www.techmeme.com/231027/p12#a231027p12)
- - [Disney says subscribers are happy to sit through some ads](https://www.theverge.com/2023/10/27/23934954/disney-subscribers-ad-supported-plan)
- - [Google paid a whopping $26.3 billion in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
- - [Standout early Black Friday deals offer up to $900 off Mac, iPad, Apple Watch at Adorama](https://appleinsider.com/articles/23/10/27/standout-early-black-friday-deals-offer-up-to-900-off-mac-ipad-apple-watch-at-adorama?utm_medium=rss)
- - [1Password is offering Verge readers $20 off an annual membership](https://www.theverge.com/2023/10/27/23933160/1password-password-manager-apple-watch-ultra-elden-ring-vinyl-deal-sale)<!-- TECH:END -->
+ - [Disney says subscribers are happy to sit through some ads](https://www.theverge.com/2023/10/27/23934954/disney-subscribers-ad-supported-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scary Fast M3 Mac event, iOS 17.1, Apple One price change on the AppleInsider Podcast](https://appleinsider.com/articles/23/10/27/scary-fast-m3-mac-event-ios-171-apple-one-price-change-on-the-appleinsider-podcast?utm_medium=rss)
- - [In Alan Wake 2, you will never feel safe](https://www.theverge.com/23934662/alan-wake-2-review-ps5-xbox-pc)
- - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
- - [11 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
- - [The Physics of Faraday Cages](https://www.wired.com/story/the-physics-of-faraday-cages/)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
+ - [Latest &#39;Scary Fast&#39; leaks double down on M3 iMac and MacBook Pro launches](https://appleinsider.com/articles/23/10/27/latest-scary-fast-leaks-double-down-on-m3-imac-and-macbook-pro-launches?utm_medium=rss)
+ - [What to expect from Apple&#39;s &quot;Scary Fast&quot; event on Monday: high-end MacBook Pros with M3 Pro and M3 Max, new 24-inch iMac with M3, and USB-C accessories &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231027/p8#a231027p8)
+ - [15 Best Festival Accessories and Gear &lpar;2023&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

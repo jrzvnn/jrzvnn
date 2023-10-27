@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Google Maps Immersive View Update Is Coming Soon. Here&#39;s the Latest     - CNET](https://www.cnet.com/tech/mobile/new-google-maps-immersive-view-update-is-coming-soon-the-latest/#ftag=CAD590a51e)
+ - [Want to Give Away or Sell Your iPad? You&#39;ll Want to Factory Reset it First     - CNET](https://www.cnet.com/tech/computing/dont-sell-your-ipad-until-you-clear-all-your-data-from-it/#ftag=CAD590a51e)
  - [Sources detail the rushed timeline for the UK&#39;s AI Summit, its expanded scope, which now covers everything from healthcare to deepfakes, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p1#a231027p1)
  - [Lenovo Slim Pro 9i 14 Review: A Bright Spot in a Sea of Competitors     - CNET](https://www.cnet.com/tech/computing/lenovo-slim-pro-9i-14-review-a-bright-spot-in-a-sea-of-competitors/#ftag=CAD590a51e)
- - [Best Cheap Alexa Devices of 2023     - CNET](https://www.cnet.com/home/smart-home/best-cheap-alexa-devices/#ftag=CAD590a51e)
- - [Some TikTok creators are running &quot;Israel vs. Palestine live matches&quot;, where the side with the most gifts from followers wins; TikTok takes a 50% cut of earnings &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231026/p37#a231026p37)
- - [GM’s Cruise Halts Self-Driving Operations Across the US After Regulator Safety Fears](https://www.wired.com/story/gms-cruise-halts-self-driving-operations-regulator-safety-fears/)<!-- TECH:END -->
+ - [Best Cheap Alexa Devices of 2023     - CNET](https://www.cnet.com/home/smart-home/best-cheap-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

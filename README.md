@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X adds a $16/mo. Premium+ plan with no ads in For You or Following and the &quot;largest reply boost&quot;, and a $3/mo. Basic plan with a &quot;small boost&quot; but no checkmark &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231027/p18#a231027p18)
  - [If you can’t motivate yourself to exercise, try this app](https://www.theverge.com/23935105/future-personal-training-fitness-app-price-features)
  - [X launches two new subscriptions to boost your replies](https://www.theverge.com/2023/10/27/23935317/x-premium-basic-subscriptions-reply-boost-no-ads)
  - [Internet and phone services collapse in the Gaza Strip as Israel&#39;s military expands ground operations, largely cutting off communications for 2.3M residents &lpar;Associated Press&rpar;](http://www.techmeme.com/231027/p17#a231027p17)
- - [Onewheel follows up its massive recall with a new $3,200 board for ‘pros’](https://www.theverge.com/2023/10/27/23935234/onewheel-gt-s-series-pro-board-price-release-date)
- - [The 29 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [Onewheel follows up its massive recall with a new $3,200 board for ‘pros’](https://www.theverge.com/2023/10/27/23935234/onewheel-gt-s-series-pro-board-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 27: $1,500 off M1 Max MacBook Pro, iPhone &amp; Apple Watch from $139, 20% off Parallels, more](https://appleinsider.com/articles/23/10/27/daily-deals-oct-27-1500-off-m1-max-macbook-pro-iphone-apple-watch-from-139-20-off-parallels-more?utm_medium=rss)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Hertz is scaling back its EV ambitions because its Teslas keep getting damaged](https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts)
- - [Latest &#39;Scary Fast&#39; leaks double down on M3 iMac and MacBook Pro launches](https://appleinsider.com/articles/23/10/27/latest-scary-fast-leaks-double-down-on-m3-imac-and-macbook-pro-launches?utm_medium=rss)
- - [What to expect from Apple&#39;s &quot;Scary Fast&quot; event on Monday: high-end MacBook Pros with M3 Pro and M3 Max, new 24-inch iMac with M3, and USB-C accessories &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231027/p8#a231027p8)<!-- TECH:END -->
+ - [How OpenAI is using ChatGPT prompt engineering to get around fundamental biases in DALL-E 3, discourage it from recreating the work of living artists, and more &lpar;Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/231027/p9#a231027p9)
+ - [Best Mattresses for Kids in 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
+ - [Best Wine Apps to Help You Pick a Perfect Bottle     - CNET](https://www.cnet.com/tech/mobile/best-free-wine-apps/#ftag=CAD590a51e)
+ - [Sonos Is Offering Up to 20% Off Select Home Theater Sets Ahead of the Holiday Season     - CNET](https://www.cnet.com/deals/sonos-is-offering-up-to-20-off-select-home-theater-sets-ahead-of-the-holiday-season/#ftag=CAD590a51e)
+ - [Save $120 and Cook Like a Boss With This Bella Pro Series Toaster Oven and Air Fryer     - CNET](https://www.cnet.com/deals/save-120-and-cook-like-a-boss-with-this-bella-pro-series-toaster-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

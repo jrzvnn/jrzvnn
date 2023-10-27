@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No M3 13-inch MacBook Pro at &#39;Scary Fast&#39; event, says Gurman](https://appleinsider.com/articles/23/10/27/no-m3-13-inch-macbook-pro-at-scary-fast-event-says-gurman?utm_medium=rss)
- - [7 Best Garmin Watches &lpar;2023&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
- - [GoPro Hero 12 Black Review: Refined and Improved](https://www.wired.com/review/gopro-hero-12-black/)
- - [Japan’s automakers are keeping sports cars alive in the EV era](https://www.theverge.com/2023/10/27/23933644/japan-mobility-show-ev-mazda-nissan-toyota-honda)
- - [What to expect from Apple’s ‘Scary Fast’ Mac event](https://www.theverge.com/23933560/apple-event-imac-m3-macbook-pro-date-time-live-stream-watch-rumors)<!-- TECH:END -->
+ - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
+ - [11 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [The Physics of Faraday Cages](https://www.wired.com/story/the-physics-of-faraday-cages/)
+ - [Here&#39;s a New Plan to Rein In the Gilded Tech Bros](https://www.wired.com/story/new-plan-tom-wheeler-book-rein-in-the-gilded-tech-bros/)
+ - [Taylor Swift and Beyoncé Are Resurrecting the American Movie Theater](https://www.wired.com/story/taylor-swift-and-beyonce-may-be-all-that-can-save-american-theaters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finding Sanity](http://9gag.com/gag/a3ZgGp7)
- - 😝 [F you and I&#39;ll see you tomorrow my dudes](http://9gag.com/gag/aREWrX2)
- - 💣 [Chinesium Security](http://9gag.com/gag/armEWKK)
- - 😝 [The importance of being there for your children](http://9gag.com/gag/aoKoy1m)
- - 👉 [Sonic the hedgehog](http://9gag.com/gag/a9qwy40)<!-- MEMES:END -->
+ - 😝 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - 😝 [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
+ - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
+ - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Full of degenerates](http://9gag.com/gag/armEM30)
  - 😝 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
- - 😝 [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
- - 💣 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 😝 [He will never forget this trip](http://9gag.com/gag/aNwMwZv)
- - 👉 [YYYAAAAA](http://9gag.com/gag/aL1opM6)<!-- MEMES:END -->
+ - 💣 [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)
+ - 😝 [YYYAAAAA](http://9gag.com/gag/aL1opM6)
+ - 👉 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)<!-- MEMES:END -->
 
 ---
 

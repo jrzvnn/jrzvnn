@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Destruction of Gaza’s Internet Is Complete](https://www.wired.com/story/gaza-internet-blackout-israel/)
+ - [Android 14 users with multiple profiles say their devices are becoming &quot;unusable&quot; due to a bug that is locking them out of device storage &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231027/p19#a231027p19)
  - [Apple reinforces iMessage security with contact key verification](https://appleinsider.com/articles/23/10/27/apple-reinforces-imessage-security-with-contact-key-verification?utm_medium=rss)
  - [X adds a $16/mo. Premium+ plan with no ads in For You or Following and the &quot;largest reply boost&quot;, and a $3/mo. Basic plan with a &quot;small boost&quot; but no checkmark &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231027/p18#a231027p18)
- - [If you can’t motivate yourself to exercise, try this app](https://www.theverge.com/23935105/future-personal-training-fitness-app-price-features)
- - [X launches two new subscriptions to boost your replies](https://www.theverge.com/2023/10/27/23935317/x-premium-basic-subscriptions-reply-boost-no-ads)
- - [Internet and phone services collapse in the Gaza Strip as Israel&#39;s military expands ground operations, largely cutting off communications for 2.3M residents &lpar;Associated Press&rpar;](http://www.techmeme.com/231027/p17#a231027p17)<!-- TECH:END -->
+ - [If you can’t motivate yourself to exercise, try this app](https://www.theverge.com/23935105/future-personal-training-fitness-app-price-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

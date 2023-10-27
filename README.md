@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Payments processor Wex plans to acquire Payzer, which offers field services software to plumbers, roofers, and other contractors, for about $250M &lpar;Payments Dive&rpar;](http://www.techmeme.com/231027/p12#a231027p12)
+ - [Disney says subscribers are happy to sit through some ads](https://www.theverge.com/2023/10/27/23934954/disney-subscribers-ad-supported-plan)
  - [Google paid a whopping $26.3 billion in 2021 to be the default search engine everywhere](https://www.theverge.com/2023/10/27/23934961/google-antitrust-trial-defaults-search-deal-26-3-billion)
  - [Standout early Black Friday deals offer up to $900 off Mac, iPad, Apple Watch at Adorama](https://appleinsider.com/articles/23/10/27/standout-early-black-friday-deals-offer-up-to-900-off-mac-ipad-apple-watch-at-adorama?utm_medium=rss)
- - [1Password is offering Verge readers $20 off an annual membership](https://www.theverge.com/2023/10/27/23933160/1password-password-manager-apple-watch-ultra-elden-ring-vinyl-deal-sale)
- - [Sonos is taking up to $385 off Arc, Beam, and Ray home theater sets](https://www.theverge.com/2023/10/27/23934836/sonos-arc-beam-ray-era-300-soundbars-smart-speakers)
- - [Sources: Flexport is in talks to buy the tech of collapsed digital freight startup Convoy, a move that would expand Flexport&#39;s push into the US trucking market &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231027/p11#a231027p11)<!-- TECH:END -->
+ - [1Password is offering Verge readers $20 off an annual membership](https://www.theverge.com/2023/10/27/23933160/1password-password-manager-apple-watch-ultra-elden-ring-vinyl-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

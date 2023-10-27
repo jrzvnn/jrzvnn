@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder if he knows how popular he has become](http://9gag.com/gag/aDY9Ydw)
- - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 💣 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [Dad got roasted by daughter](http://9gag.com/gag/aYV6OOq)
+ - 💣 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Pepsi](http://9gag.com/gag/aBdzyGN)<!-- MEMES:END -->
+ - 👉 [Remember they called him a saint and painted murals of him lol](http://9gag.com/gag/adPAOAB)<!-- MEMES:END -->
 
 ---
 

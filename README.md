@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a testimony without the jury present, SBF says he followed the counsel of lawyers to make critical decisions around passing FTX customer money to Alameda &lpar;Financial Times&rpar;](http://www.techmeme.com/231026/p33#a231026p33)
- - [Piper Sandler reduces Apple&#39;s Q1 2024 earnings estimates, citing weak demand in China](https://appleinsider.com/articles/23/10/26/piper-sandler-reduces-apples-q1-2024-earnings-estimates-citing-weak-demand-in-china?utm_medium=rss)
- - [Apple&#39;s Mac Studio is on sale now with an outrageous $1,300 discount](https://appleinsider.com/articles/23/10/26/apples-mac-studio-is-on-sale-now-with-an-outrageous-1300-discount?utm_medium=rss)
- - [Threads is adding polls and GIFs as it continues to chase X](https://www.theverge.com/2023/10/26/23933559/threads-polls-gifs-app)
- - [Here is Intel’s new Bong-filled hip-hop hold music](https://www.theverge.com/2023/10/26/23934082/intel-hip-hop-hold-music-bong-muzak)<!-- TECH:END -->
+ - [Apple Watch import ban up to Biden administration after ITC order](https://appleinsider.com/articles/23/10/27/apple-watch-import-ban-up-to-biden-administration-after-itc-order?utm_medium=rss)
+ - [Cranium, which provides enterprise AI security and trust software and spun out of KPMG in April 2023, raised a $25M Series A led by Telstra Ventures &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231026/p34#a231026p34)
+ - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
+ - [Infiniti’s sleek Vision Qe concept is a reminder of the EVs it hasn’t launched](https://www.theverge.com/2023/10/26/23932150/infiniti-vision-qe-qxe-concept-electric-vehicles)
+ - [Ford hits the brakes on $12 billion in EV spending because EVs are too expensive](https://www.theverge.com/2023/10/26/23934172/ford-12-billion-ev-investment-postpone-q3-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

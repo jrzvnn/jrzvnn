@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk gives X employees one year to replace your bank](https://www.theverge.com/2023/10/26/23934216/x-twitter-bank-elon-musk-2024)
  - [Apple Watch import ban up to Biden administration after ITC order](https://appleinsider.com/articles/23/10/27/apple-watch-import-ban-up-to-biden-administration-after-itc-order?utm_medium=rss)
  - [Cranium, which provides enterprise AI security and trust software and spun out of KPMG in April 2023, raised a $25M Series A led by Telstra Ventures &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/231026/p34#a231026p34)
  - [Sam Bankman-Fried is going to talk himself right into jail](https://www.theverge.com/2023/10/26/23934195/sam-bankman-fried-self-testimony-deleted-signal)
- - [Infiniti’s sleek Vision Qe concept is a reminder of the EVs it hasn’t launched](https://www.theverge.com/2023/10/26/23932150/infiniti-vision-qe-qxe-concept-electric-vehicles)
- - [Ford hits the brakes on $12 billion in EV spending because EVs are too expensive](https://www.theverge.com/2023/10/26/23934172/ford-12-billion-ev-investment-postpone-q3-earnings)<!-- TECH:END -->
+ - [Infiniti’s sleek Vision Qe concept is a reminder of the EVs it hasn’t launched](https://www.theverge.com/2023/10/26/23932150/infiniti-vision-qe-qxe-concept-electric-vehicles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

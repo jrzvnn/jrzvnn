@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X launches two new subscriptions to boost your replies](https://www.theverge.com/2023/10/27/23935317/x-premium-basic-subscriptions-reply-boost-no-ads)
  - [Internet and phone services collapse in the Gaza Strip as Israel&#39;s military expands ground operations, largely cutting off communications for 2.3M residents &lpar;Associated Press&rpar;](http://www.techmeme.com/231027/p17#a231027p17)
  - [Onewheel follows up its massive recall with a new $3,200 board for ‘pros’](https://www.theverge.com/2023/10/27/23935234/onewheel-gt-s-series-pro-board-price-release-date)
- - [Disney’s cozy life sim won’t be free to play after all](https://www.theverge.com/2023/10/27/23934916/disney-dreamlight-valley-free-to-play-update-release-date)
- - [Google Maps is rolling out AI-powered features for planning trips on iPhone](https://appleinsider.com/articles/23/10/27/google-maps-is-rolling-out-ai-powered-features-for-planning-trips-on-iphone?utm_medium=rss)
- - [Gaza Strip internet cut off following Israeli airstrikes](https://www.theverge.com/2023/10/27/23935229/gaza-israel-internet-outage-connectivity-telecom-blackout)<!-- TECH:END -->
+ - [The 29 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [Disney’s cozy life sim won’t be free to play after all](https://www.theverge.com/2023/10/27/23934916/disney-dreamlight-valley-free-to-play-update-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

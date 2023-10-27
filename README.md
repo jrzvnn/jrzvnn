@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
- - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [Pro Hamas supporters need to face this kind of pushback on American streets every day and everywhere.](http://9gag.com/gag/aL1o4wx)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 💣 [This sparks joy](http://9gag.com/gag/avQq6pZ)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Is this now confirmed or what?](http://9gag.com/gag/aXn3NoD)<!-- MEMES:END -->
+ - 👉 [A hot girl with humor. Where can i get one?](http://9gag.com/gag/aREWZ5Q)<!-- MEMES:END -->
 
 ---
 

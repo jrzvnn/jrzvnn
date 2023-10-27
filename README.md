@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [1Password is offering Verge readers $20 off an annual membership](https://www.theverge.com/2023/10/27/23933160/1password-password-manager-apple-watch-ultra-elden-ring-vinyl-deal-sale)
  - [Sonos is taking up to $385 off Arc, Beam, and Ray home theater sets](https://www.theverge.com/2023/10/27/23934836/sonos-arc-beam-ray-era-300-soundbars-smart-speakers)
  - [Sources: Flexport is in talks to buy the tech of collapsed digital freight startup Convoy, a move that would expand Flexport&#39;s push into the US trucking market &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/231027/p11#a231027p11)
  - [Source: Elon Musk and Linda Yaccarino referenced ambitions to create a news wire service called XWire, akin to Cision&#39;s PR Newswire, during an all-hands &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/231027/p10#a231027p10)
- - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)
- - [Best Heated Blankets for 2023     - CNET](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best PopSockets for 2023     - CNET](https://www.cnet.com/tech/mobile/best-popsockets-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

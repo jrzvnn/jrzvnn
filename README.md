@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer Swift X 16 Review: Excellent Performance and Display Held Back by Meh Design     - CNET](https://www.cnet.com/tech/computing/acer-swift-x-16-review-excellent-performance-and-display-held-back-by-weak-design/#ftag=CAD590a51e)
+ - [How to Watch &#39;The Nun 2&#39;: Stream the Horror Sequel From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-nun-2-stream-the-horror-sequel-from-anywhere/#ftag=CAD590a51e)
  - [How to Create a Contact Poster in iOS 17 &lpar;2023&rpar;](https://www.wired.com/story/how-to-set-up-contact-poster-ios-17/)
  - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
- - [Here’s the Truth Behind the Biggest &lpar;and Dumbest&rpar; Battery Myths](https://www.wired.com/story/how-to-improve-battery-life-tips-myths-smartphones/)
- - [The UN creates a 39-member body, including tech executives, government officials, and academics, to examine issues in the international governance of AI &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/231027/p5#a231027p5)
- - [Huawei reports Q3 revenue up 1% YoY to ~$19.9B, revenue for Q1 to Q3 2023 up 2.4% YoY to ~$62.3B, and a 16% profit margin in Q1 to Q3, up from 15% in H1 2023 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/231027/p4#a231027p4)<!-- TECH:END -->
+ - [Here’s the Truth Behind the Biggest &lpar;and Dumbest&rpar; Battery Myths](https://www.wired.com/story/how-to-improve-battery-life-tips-myths-smartphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

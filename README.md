@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning .](http://9gag.com/gag/abvD1XE)
+ - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
  - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 💣 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 💣 [True innit](http://9gag.com/gag/aA0AQgE)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)<!-- MEMES:END -->
+ - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
 
 ---
 

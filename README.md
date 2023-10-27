@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [If You Didn’t Care About Antarctica’s Icy Belly, You Will Now](https://www.wired.com/story/if-you-didnt-care-about-antarcticas-icy-belly-you-will-now/)
  - [A US appeals court upholds a jury&#39;s ruling that Craig Wright wasn&#39;t in a legal partnership with the late David Kleiman and doesn&#39;t owe half of their mined BTC &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/231027/p15#a231027p15)
  - [How to use the new Journal in iOS 17.2 and where it needs work](https://appleinsider.com/inside/ios-17/tips/how-to-use-the-new-journal-in-ios-172-and-where-it-needs-work?utm_medium=rss)
- - [US v. Google: Google&#39;s search head testifies that the company spent $26.3B in 2021 to be the default search engine in multiple browsers, phones, and platforms &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231027/p14#a231027p14)<!-- TECH:END -->
+ - [This 43-inch 4K Westinghouse TV Is Perfect for the Bedroom at Just $190 Right Now     - CNET](https://www.cnet.com/deals/this-43-inch-4k-westinghouse-tv-is-perfect-for-the-bedroom-and-just-190-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

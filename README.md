@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know what&#39;s worse than Chinesium? Indonesium. Glass bridge broken, 4 people fell, 1 person died.](http://9gag.com/gag/a9qw1No)
- - 😝 [That one girl who teases you back at school](http://9gag.com/gag/ago9g71)
- - 💣 [When you don&#39;t take care of the crazies, the crazies will take care of you.](http://9gag.com/gag/aME7VzR)
- - 😝 [I do not understand this meme](http://9gag.com/gag/a2KgMr9)
- - 👉 [Have you seen this human?](http://9gag.com/gag/axoKoAn)<!-- MEMES:END -->
+ - 😝 [How did I not know this sh*t](http://9gag.com/gag/aoKoML0)
+ - 😝 [Chinesium Security](http://9gag.com/gag/armEWKK)
+ - 💣 [Finding Sanity](http://9gag.com/gag/a3ZgGp7)
+ - 😝 [Sonic the hedgehog](http://9gag.com/gag/a9qwy40)
+ - 👉 [You stupid sod.](http://9gag.com/gag/ap97RMD)<!-- MEMES:END -->
 
 ---
 

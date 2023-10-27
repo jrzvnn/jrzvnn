@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Every trick Microsoft pulled to make you browse Edge instead of Chrome](https://www.theverge.com/23935029/microsoft-edge-forced-windows-10-google-chrome-fight)
  - [Sources: Humane set its ~$1K Ai Pin launch for Oct. 14, during the solar eclipse, but moved it to Nov. 9 as reports of Sam Altman and Jony Ive&#39;s device surfaced &lpar;Julia Black/The Information&rpar;](http://www.techmeme.com/231027/p13#a231027p13)
  - [Payments processor Wex plans to acquire Payzer, which offers field services software to plumbers, roofers, and other contractors, for about $250M &lpar;Payments Dive&rpar;](http://www.techmeme.com/231027/p12#a231027p12)
- - [Disney says subscribers are happy to sit through some ads](https://www.theverge.com/2023/10/27/23934954/disney-subscribers-ad-supported-plan)<!-- TECH:END -->
+ - [Best Portable Projector for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

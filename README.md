@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
- - 😝 [Pepsi](http://9gag.com/gag/aBdzyGN)
- - 💣 [Have you seen this human?](http://9gag.com/gag/axoKoAn)
+ - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 💣 [Pepsi](http://9gag.com/gag/aBdzyGN)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)<!-- MEMES:END -->
+ - 👉 [Wholesome moment](http://9gag.com/gag/aNwMQdv)<!-- MEMES:END -->
 
 ---
 

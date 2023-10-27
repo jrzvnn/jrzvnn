@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
- - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [I finished all souls games, I have nothing to lose](http://9gag.com/gag/aA0AyNE)
+ - 😝 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 💣 [True innit](http://9gag.com/gag/aA0AQgE)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 👉 [Is this now confirmed or what?](http://9gag.com/gag/aXn3NoD)<!-- MEMES:END -->
 
 ---
 

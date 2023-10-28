@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
  - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 💣 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 👉 [True innit](http://9gag.com/gag/aA0AQgE)<!-- MEMES:END -->
 
 ---
 

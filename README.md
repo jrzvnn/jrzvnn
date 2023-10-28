@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
- - 💣 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
+ - 👉 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)<!-- MEMES:END -->
 
 ---
 

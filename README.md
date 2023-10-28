@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This sparks joy](http://9gag.com/gag/avQq6pZ)
- - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)
- - 👉 [Gifted](http://9gag.com/gag/a7qg0Mw)<!-- MEMES:END -->
+ - 😝 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
+ - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [Name a game where the \u201cgame cover\u201d armor looks cool but has really crap stats.](http://9gag.com/gag/aDY96qw)
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---
 

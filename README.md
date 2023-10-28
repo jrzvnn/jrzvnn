@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird Flu Reaches the Antarctic for the First Time](https://www.wired.com/story/bird-flu-reaches-the-antarctic-for-the-first-time/)
- - [Razer BlackWidow V4 75% Review: A Colorful Entrance](https://www.wired.com/review/razer-blackwidow-v4-75-percent/)
- - [Best Steam Deck Accessories &lpar;2023&rpar;: Docks, Battery, Storage](https://www.wired.com/story/best-steam-deck-accessories/)
- - [Microsoft is improving its Xbox app for Windows handheld gaming PCs](https://www.theverge.com/2023/10/28/23936030/microsoft-xbox-app-windows-handheld-portable-rog-ally)
- - [Arsenal vs. Sheffield United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-sheffield-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
+ - [This Cryptomining Tool Is Stealing Secrets](https://www.wired.com/story/cryptominer-espionage-campaign-security-roundup/)
+ - [Sonic Superstars is so close to being a Sonic classic](https://www.theverge.com/23934858/sonic-superstars-review-impressions-switch-playstation)
+ - [HDR Photography Blew My Mind. It&#39;s Glorious — and Complicated     - CNET](https://www.cnet.com/tech/computing/hdr-photography-blew-my-mind-its-glorious-and-complicated/#ftag=CAD590a51e)
+ - [AI Is Coming for Your Phone in a Big Way     - CNET](https://www.cnet.com/tech/mobile/ai-is-coming-for-your-phone-in-a-big-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

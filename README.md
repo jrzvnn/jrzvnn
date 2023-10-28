@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [Romanian X-Files. Exactly 5 years ago, an incredible incident occurred in Romania. Scientists are still wondering what it was.](http://9gag.com/gag/ap97DLn)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
  - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 👉 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)<!-- MEMES:END -->
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 😝 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---
 

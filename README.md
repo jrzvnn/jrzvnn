@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Horror Movies on Max     - CNET](https://www.cnet.com/culture/entertainment/the-15-best-horror-films-on-max-october-2023/#ftag=CAD590a51e)
- - [Best Vitamins and Supplements for Eye Health     - CNET](https://www.cnet.com/health/personal-care/best-vitamins-and-supplements-for-eye-health/#ftag=CAD590a51e)
+ - [References to iPad mini in tvOS 17.2 beta revive &#39;HomePod with display&#39; rumors](https://appleinsider.com/articles/23/10/28/references-to-ipad-mini-in-tvos-172-beta-revive-homepod-with-display-rumors?utm_medium=rss)
  - [That’s one pricey subscription](https://www.theverge.com/2023/10/28/23934629/streaming-price-hikes-netflix-hulu-disney-plus-expensive)
  - [Q&amp;A with Discord&#39;s head of trust and safety John Redgrave on the content moderation challenges in the age of generative AI, exploring E2EE on Discord, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231028/p5#a231028p5)
- - [Apple’s Journal app is kind of smart — and kind of basic](https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview)<!-- TECH:END -->
+ - [Apple’s Journal app is kind of smart — and kind of basic](https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview)
+ - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 💣 [This sparks joy](http://9gag.com/gag/avQq6pZ)
- - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
- - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
+ - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
+ - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 💣 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 👉 [Wholesome moment](http://9gag.com/gag/aNwMQdv)<!-- MEMES:END -->
 
 ---
 

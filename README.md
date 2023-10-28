@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 👉 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)<!-- MEMES:END -->
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
+ - 😝 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
+ - 💣 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 👉 [This is how Islam changes a society!](http://9gag.com/gag/a1Pg55w)<!-- MEMES:END -->
 
 ---
 

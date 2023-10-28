@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 💣 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
+ - 😝 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 💣 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)
+ - 😝 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
+ - 👉 [How we use to troll people](http://9gag.com/gag/a7qgeoz)<!-- MEMES:END -->
 
 ---
 

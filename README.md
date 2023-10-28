@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
- - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
- - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [Name a game where the \u201cgame cover\u201d armor looks cool but has really crap stats.](http://9gag.com/gag/aDY96qw)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
+ - 😝 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 💣 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
+ - 👉 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)<!-- MEMES:END -->
 
 ---
 

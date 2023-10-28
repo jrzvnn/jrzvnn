@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
+ - 💣 [This sparks joy](http://9gag.com/gag/avQq6pZ)
+ - 😝 [Is this now confirmed or what?](http://9gag.com/gag/aXn3NoD)
+ - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Discord&#39;s head of trust and safety John Redgrave on the content moderation challenges in the age of generative AI, exploring E2EE on Discord, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/231028/p5#a231028p5)
  - [Apple’s Journal app is kind of smart — and kind of basic](https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview)
  - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
  - [This Cryptomining Tool Is Stealing Secrets](https://www.wired.com/story/cryptominer-espionage-campaign-security-roundup/)
- - [Sonic Superstars is so close to being a Sonic classic](https://www.theverge.com/23934858/sonic-superstars-review-impressions-switch-playstation)
- - [HDR Photography Blew My Mind. It&#39;s Glorious — and Complicated     - CNET](https://www.cnet.com/tech/computing/hdr-photography-blew-my-mind-its-glorious-and-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonic Superstars is so close to being a Sonic classic](https://www.theverge.com/23934858/sonic-superstars-review-impressions-switch-playstation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

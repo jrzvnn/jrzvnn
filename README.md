@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
+ - [Best Outdoor Projector for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector/#ftag=CAD590a51e)
  - [Families of Hostages Kidnapped by Hamas Turn to Phone Pings for Proof of Life](https://www.wired.com/story/israel-hamas-hostages-phone-location/)
- - [Adam Mosseri says Threads is working on an API, despite concerns that &quot;it&#39;ll mean a lot more publisher content and not much more creator content&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231028/p4#a231028p4)
- - [Sonoma &lpar;Finally&rpar; Catches Your Mac Up to Your iPhone     - CNET](https://www.cnet.com/tech/computing/sonoma-finally-catches-your-mac-up-to-your-iphone/#ftag=CAD590a51e)
- - [These Are the Most Annoying iOS 17 Features. Here&#39;s How You Can Fix Them     - CNET](https://www.cnet.com/tech/mobile/these-are-the-most-annoying-ios-17-features-on-your-iphone-heres-how-to-fix-them/#ftag=CAD590a51e)
- - [Amazon Hops on the Passkey Train. Here&#39;s How You Can Set Yours Up     - CNET](https://www.cnet.com/tech/amazon-hops-on-the-passkey-train-heres-how-you-can-set-yours-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My iPhone 15 Pro Experience After a Month: These Phones Are Performance Beasts     - CNET](https://www.cnet.com/tech/mobile/my-iphone-15-pro-experience-after-a-month-these-phones-are-performance-beasts/#ftag=CAD590a51e)
+ - [Here&#39;s How to Order Your Free COVID-19 Test Kits In Minutes     - CNET](https://www.cnet.com/health/heres-how-to-order-your-free-covid-19-test-kits-in-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

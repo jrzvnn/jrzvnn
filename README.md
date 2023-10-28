@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 😝 [Why the big prize for a bike?](http://9gag.com/gag/ap97Dvn)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
+ - 😝 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
+ - 👉 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)<!-- MEMES:END -->
 
 ---
 

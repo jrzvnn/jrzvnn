@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bird Flu Reaches the Antarctic for the First Time](https://www.wired.com/story/bird-flu-reaches-the-antarctic-for-the-first-time/)
+ - [Razer BlackWidow V4 75% Review: A Colorful Entrance](https://www.wired.com/review/razer-blackwidow-v4-75-percent/)
+ - [Best Steam Deck Accessories &lpar;2023&rpar;: Docks, Battery, Storage](https://www.wired.com/story/best-steam-deck-accessories/)
  - [Microsoft is improving its Xbox app for Windows handheld gaming PCs](https://www.theverge.com/2023/10/28/23936030/microsoft-xbox-app-windows-handheld-portable-rog-ally)
- - [13 Best Deals: Mirrorless Cameras, Sonos Speakers, Scooters, and TVs](https://www.wired.com/story/weekend-deals-october-28-2023/)
- - [How to Create Images With ChatGPT’s New Dall-E 3 Integration](https://www.wired.com/story/how-to-use-chatgpt-dalle-3-create-images/)
- - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
- - [Best Outdoor Projector for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arsenal vs. Sheffield United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-sheffield-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

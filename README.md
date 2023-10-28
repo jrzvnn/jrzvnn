@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers earned $1M+ for 58 zero-day exploits targeting consumer products at Pwn2Own Toronto 2023 and hacked a fully patched Samsung Galaxy S23 four times &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231028/p2#a231028p2)
  - [A US executive order, expected to be issued as soon as October 30, will require firms building powerful AI models to report how they plan to protect their tech &lpar;Politico&rpar;](http://www.techmeme.com/231028/p1#a231028p1)
  - [After state AGs sued Meta for not using age-verification methods to safeguard kids, privacy groups raise concerns about security and the tech&#39;s untested nature &lpar;Tonya Riley/Bloomberg Law&rpar;](http://www.techmeme.com/231027/p26#a231027p26)
  - [Best Luxury Mattress in 2023     - CNET](https://www.cnet.com/health/sleep/best-luxury-mattress/#ftag=CAD590a51e)
- - [The jury finally hears from Sam Bankman-Fried](https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury)
- - [Best 3D-Printing Accessories: Level Up Your 3D Printer     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The jury finally hears from Sam Bankman-Fried](https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

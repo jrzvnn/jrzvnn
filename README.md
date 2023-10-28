@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
- - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
- - 💣 [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 👉 [Wholesome moment](http://9gag.com/gag/aNwMQdv)<!-- MEMES:END -->
+ - 😝 [Good morning .](http://9gag.com/gag/abvD1XE)
+ - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 💣 [YES SIR](http://9gag.com/gag/aeQzV0q)
+ - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
 
 ---
 

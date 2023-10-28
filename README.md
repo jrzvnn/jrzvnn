@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
  - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
- - 💣 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
- - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
- - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 💣 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)
+ - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
+ - 👉 [How we use to troll people](http://9gag.com/gag/a7qgeoz)<!-- MEMES:END -->
 
 ---
 

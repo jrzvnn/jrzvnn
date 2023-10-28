@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Families of Hostages Kidnapped by Hamas Turn to Phone Pings for Proof of Life](https://www.wired.com/story/israel-hamas-hostages-phone-location/)
  - [Adam Mosseri says Threads is working on an API, despite concerns that &quot;it&#39;ll mean a lot more publisher content and not much more creator content&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231028/p4#a231028p4)
  - [Sonoma &lpar;Finally&rpar; Catches Your Mac Up to Your iPhone     - CNET](https://www.cnet.com/tech/computing/sonoma-finally-catches-your-mac-up-to-your-iphone/#ftag=CAD590a51e)
  - [These Are the Most Annoying iOS 17 Features. Here&#39;s How You Can Fix Them     - CNET](https://www.cnet.com/tech/mobile/these-are-the-most-annoying-ios-17-features-on-your-iphone-heres-how-to-fix-them/#ftag=CAD590a51e)
- - [Amazon Hops on the Passkey Train. Here&#39;s How You Can Set Yours Up     - CNET](https://www.cnet.com/tech/amazon-hops-on-the-passkey-train-heres-how-you-can-set-yours-up/#ftag=CAD590a51e)
- - [A profile of, and interview with, OpenAI Chief Scientist Ilya Sutskever, who made a &quot;superalignment&quot; team to safely build and control superintelligent AI models &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231028/p3#a231028p3)<!-- TECH:END -->
+ - [Amazon Hops on the Passkey Train. Here&#39;s How You Can Set Yours Up     - CNET](https://www.cnet.com/tech/amazon-hops-on-the-passkey-train-heres-how-you-can-set-yours-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Founders Fund GP Keith Rabois on why the firm cut its new fund in half, investing in online wholesale marketplace Faire and jobs board Traba, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/231028/p10#a231028p10)
  - [HackerOne says its bug bounty programs have awarded $300M+ in rewards since the platform&#39;s inception, with 30 hackers earning $1M+ and one receiving $4M+ &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231028/p9#a231028p9)
  - [PlayStation Plus Deals: Get Access to Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
  - [Get a Microsoft Office license for under $50 right now](https://appleinsider.com/articles/23/10/28/get-a-microsoft-office-license-for-under-50-right-now?utm_medium=rss)
- - [Google is investigating Android 14’s multiple profile update bug](https://www.theverge.com/2023/10/28/23936313/google-android-14-bug-multiple-profiles-storage-crashing-stability)
- - [Best Stores for Buying Digital Music You Can Keep Forever     - CNET](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is investigating Android 14’s multiple profile update bug](https://www.theverge.com/2023/10/28/23936313/google-android-14-bug-multiple-profiles-storage-crashing-stability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Stores for Buying Digital Music You Can Keep Forever     - CNET](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
  - [AI fakes related to the Israel-Hamas war have been limited and unconvincing, but the possibility of such fakes circulating leads some to dismiss genuine content &lpar;New York Times&rpar;](http://www.techmeme.com/231028/p8#a231028p8)
  - [Keychron Q5 Pro Knob Version review: Heavy-duty keyboard convenience](https://appleinsider.com/articles/23/10/28/keychron-q5-pro-knob-version-review-heavy-duty-keyboard-convenience?utm_medium=rss)
  - [Apple says BMW wireless chargers really are messing with iPhone 15s](https://www.theverge.com/2023/10/28/23936220/apple-says-bmw-wireless-chargers-really-are-messing-with-iphone-15s)
- - [Rugby World Cup 2023 Final Livestream: How to Watch New Zealand vs. South Africa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/rugby-world-cup-2023-final-livestream-how-to-watch-new-zealand-vs-south-africa-from-anywhere/#ftag=CAD590a51e)
- - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rugby World Cup 2023 Final Livestream: How to Watch New Zealand vs. South Africa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/rugby-world-cup-2023-final-livestream-how-to-watch-new-zealand-vs-south-africa-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

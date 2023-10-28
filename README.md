@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
  - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 👉 [How we use to troll people](http://9gag.com/gag/a7qgeoz)<!-- MEMES:END -->
+ - 💣 [He was right](http://9gag.com/gag/aeQzVnB)
+ - 😝 [This sparks joy](http://9gag.com/gag/avQq6pZ)
+ - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
 
 ---
 

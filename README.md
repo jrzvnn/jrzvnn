@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
- - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
- - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
- - 👉 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)<!-- MEMES:END -->
+ - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
+ - 😝 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)
+ - 💣 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 👉 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)<!-- MEMES:END -->
 
 ---
 

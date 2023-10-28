@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rugby World Cup 2023 Final Livestream: How to Watch New Zealand vs. South Africa From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/rugby-world-cup-2023-final-livestream-how-to-watch-new-zealand-vs-south-africa-from-anywhere/#ftag=CAD590a51e)
+ - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
  - [Govee’s colorful LED light strips are on sale just in time for Halloween](https://www.theverge.com/2023/10/28/23934752/govee-led-strip-light-m1-matter-google-pixel-buds-pro-watch-deal-sale)
  - [Some artists who tried to use Meta&#39;s request form to delete their info from its AI training data say the process is frustrating; one calls it a &quot;fake PR stunt&quot; &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/231028/p7#a231028p7)
- - [BP Buying $100M Worth of Tesla EV Chargers: What&#39;s the Big Deal?     - CNET](https://www.cnet.com/roadshow/news/bp-buying-100m-worth-of-tesla-ev-chargers-whats-the-big-deal/#ftag=CAD590a51e)
- - [Daily deals Oct. 28: $100 off iPad Air 5, Apple Pencil 2 $89, $100 off Samsung Galaxy Watch 6, more](https://appleinsider.com/articles/23/10/28/daily-deals-oct-28-100-off-ipad-air-5-apple-pencil-2-89-100-off-samsung-galaxy-watch-6-more?utm_medium=rss)
- - [Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BP Buying $100M Worth of Tesla EV Chargers: What&#39;s the Big Deal?     - CNET](https://www.cnet.com/roadshow/news/bp-buying-100m-worth-of-tesla-ev-chargers-whats-the-big-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

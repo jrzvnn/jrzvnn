@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 💣 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 😝 [Gifted](http://9gag.com/gag/a7qg0Mw)
+ - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
+ - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)<!-- MEMES:END -->
+ - 👉 [YES SIR](http://9gag.com/gag/aeQzV0q)<!-- MEMES:END -->
 
 ---
 

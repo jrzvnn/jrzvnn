@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [\u201cDon\u2019t do something you can\u2019t come back from\u201d I think it&#39;s too late mate.](http://9gag.com/gag/aQEb7zq)
- - 👉 [This is how Islam changes a society!](http://9gag.com/gag/a1Pg55w)<!-- MEMES:END -->
+ - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
+ - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
+ - 💣 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
+ - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 💣 [This sparks joy](http://9gag.com/gag/avQq6pZ)
- - 😝 [Is this now confirmed or what?](http://9gag.com/gag/aXn3NoD)
- - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
+ - 😝 [Keep rugby away from soccer](http://9gag.com/gag/aBdzEvA)
+ - 😝 [Guess who just won an annual Holloween costume event?](http://9gag.com/gag/aGEvMOZ)
+ - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [This sparks joy](http://9gag.com/gag/avQq6pZ)
+ - 👉 [Yep!](http://9gag.com/gag/aZDX8AW)<!-- MEMES:END -->
 
 ---
 

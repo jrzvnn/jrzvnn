@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
- - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 💣 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 😝 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)
+ - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
  - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 👉 [Wholesome moment](http://9gag.com/gag/aNwMQdv)<!-- MEMES:END -->
+ - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
- - 😝 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
- - 💣 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
  - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 👉 [This is how Islam changes a society!](http://9gag.com/gag/a1Pg55w)<!-- MEMES:END -->
+ - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 💣 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Journal app is kind of smart — and kind of basic](https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview)
  - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
  - [This Cryptomining Tool Is Stealing Secrets](https://www.wired.com/story/cryptominer-espionage-campaign-security-roundup/)
  - [Sonic Superstars is so close to being a Sonic classic](https://www.theverge.com/23934858/sonic-superstars-review-impressions-switch-playstation)
- - [HDR Photography Blew My Mind. It&#39;s Glorious — and Complicated     - CNET](https://www.cnet.com/tech/computing/hdr-photography-blew-my-mind-its-glorious-and-complicated/#ftag=CAD590a51e)
- - [AI Is Coming for Your Phone in a Big Way     - CNET](https://www.cnet.com/tech/mobile/ai-is-coming-for-your-phone-in-a-big-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HDR Photography Blew My Mind. It&#39;s Glorious — and Complicated     - CNET](https://www.cnet.com/tech/computing/hdr-photography-blew-my-mind-its-glorious-and-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

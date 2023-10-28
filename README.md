@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
- - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 😝 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
+ - 💣 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
+ - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
  - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---

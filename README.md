@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cDon\u2019t do something you can\u2019t come back from\u201d I think it&#39;s too late mate.](http://9gag.com/gag/aQEb7zq)
- - 😝 [I&#39;ve Seen some of the girls she hangs out with.to call them trash would be a compliment. Sometimes kids need to learn for themselves.](http://9gag.com/gag/a04gnPd)
- - 💣 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/aWGyvw4)
- - 😝 [This is how Islam changes a society!](http://9gag.com/gag/a1Pg55w)
- - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
+ - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 💣 [This sparks joy](http://9gag.com/gag/avQq6pZ)
+ - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
 
 ---
 

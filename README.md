@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 😝 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)
- - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
+ - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
  - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
+ - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
  - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
- - 😝 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)<!-- MEMES:END -->
+ - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 👉 [YES SIR](http://9gag.com/gag/aeQzV0q)<!-- MEMES:END -->
 
 ---
 

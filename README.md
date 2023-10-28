@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 💣 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
  - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
+ - 💣 [Except Wakanda](http://9gag.com/gag/aWGy7Pn)
+ - 😝 [Guy freed from jail, assaulted a reporter in front of the police station, was rearrested and sent back to jail](http://9gag.com/gag/a3ZgA2v)
+ - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
 
 ---
 

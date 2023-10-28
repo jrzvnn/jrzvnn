@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 😝 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 👉 [YES SIR](http://9gag.com/gag/aeQzV0q)<!-- MEMES:END -->
+ - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
+ - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 💣 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 😝 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)
+ - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
 
 ---
 

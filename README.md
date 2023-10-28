@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 💣 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
+ - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [The vet visit\u2019s gonna be expensive](http://9gag.com/gag/aWGyvw4)
+ - 💣 [\u201cDon\u2019t do something you can\u2019t come back from\u201d I think it&#39;s too late mate.](http://9gag.com/gag/aQEb7zq)
+ - 😝 [This is how Islam changes a society!](http://9gag.com/gag/a1Pg55w)
+ - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning .](http://9gag.com/gag/abvD1XE)
+ - 😝 [Romanian X-Files. Exactly 5 years ago, an incredible incident occurred in Romania. Scientists are still wondering what it was.](http://9gag.com/gag/ap97DLn)
  - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 💣 [YES SIR](http://9gag.com/gag/aeQzV0q)
- - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
+ - 💣 [Gifted](http://9gag.com/gag/a7qg0Mw)
+ - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
+ - 👉 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)<!-- MEMES:END -->
 
 ---
 

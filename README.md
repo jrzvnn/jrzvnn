@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Hops on the Passkey Train. Here&#39;s How You Can Set Yours Up     - CNET](https://www.cnet.com/tech/amazon-hops-on-the-passkey-train-heres-how-you-can-set-yours-up/#ftag=CAD590a51e)
  - [A profile of, and interview with, OpenAI Chief Scientist Ilya Sutskever, who made a &quot;superalignment&quot; team to safely build and control superintelligent AI models &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/231028/p3#a231028p3)
  - [Rocket Alert Apps Warn Israelis of Incoming Attacks While Gaza Is Left in the Dark](https://www.wired.com/story/rocket-alert-apps-warn-israelis-attacks-gaza-left-in-the-dark/)
  - [25-Year Lasagna, Special Ops Oatmeal, and the Survival Food Boom](https://www.wired.com/story/special-ops-survival-food-boom/)
- - [Researchers earned $1M+ for 58 zero-day exploits targeting consumer products at Pwn2Own Toronto 2023 and hacked a fully patched Samsung Galaxy S23 four times &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231028/p2#a231028p2)
- - [A US executive order, expected to be issued as soon as October 30, will require firms building powerful AI models to report how they plan to protect their tech &lpar;Politico&rpar;](http://www.techmeme.com/231028/p1#a231028p1)<!-- TECH:END -->
+ - [Researchers earned $1M+ for 58 zero-day exploits targeting consumer products at Pwn2Own Toronto 2023 and hacked a fully patched Samsung Galaxy S23 four times &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231028/p2#a231028p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The jury finally hears from Sam Bankman-Fried](https://www.theverge.com/2023/10/27/23935683/sam-bankman-fried-ftx-fraud-direct-testimony-jury)
+ - [Best 3D-Printing Accessories: Level Up Your 3D Printer     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)
+ - [Best TV for PS5 and Xbox Series X, Series S for 2023: LG OLED, Samsung QLED, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
  - [Humane’s Ai Pin could cost $1,000 — and require a subscription](https://www.theverge.com/2023/10/27/23935644/humane-ai-pin-price-subscription)
- - [Best Dash Cam Deals: Basic Cams to 4K Models and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)
- - [Best Speakers of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-speakers/#ftag=CAD590a51e)
- - [Best 5G Phones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones/#ftag=CAD590a51e)
- - [SBF testifies that he only understood &quot;pieces&quot; of the full financial state of his companies and was &quot;surprised&quot; by FTX&#39;s $8B balance-sheet hole in October 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/231027/p25#a231027p25)<!-- TECH:END -->
+ - [Best AT&amp;T Phones in 2023     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

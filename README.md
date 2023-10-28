@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BP Buying $100M Worth of Tesla EV Chargers: What&#39;s the Big Deal?     - CNET](https://www.cnet.com/roadshow/news/bp-buying-100m-worth-of-tesla-ev-chargers-whats-the-big-deal/#ftag=CAD590a51e)
  - [Daily deals Oct. 28: $100 off iPad Air 5, Apple Pencil 2 $89, $100 off Samsung Galaxy Watch 6, more](https://appleinsider.com/articles/23/10/28/daily-deals-oct-28-100-off-ipad-air-5-apple-pencil-2-89-100-off-samsung-galaxy-watch-6-more?utm_medium=rss)
  - [Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)
  - [Sources: the UK government is working with OpenAI to develop Gov.uk Chat, an AI chatbot to help people pay taxes and access pensions &lpar;Telegraph&rpar;](http://www.techmeme.com/231028/p6#a231028p6)
- - [Threads third-party app support could become a reality](https://www.theverge.com/2023/10/28/23936093/threads-creating-api-third-party-app-support-instagram-meta-tweetdeck)
- - [References to iPad mini in tvOS 17.2 beta revive &#39;HomePod with display&#39; rumors](https://appleinsider.com/articles/23/10/28/references-to-ipad-mini-in-tvos-172-beta-revive-homepod-with-display-rumors?utm_medium=rss)<!-- TECH:END -->
+ - [Threads third-party app support could become a reality](https://www.theverge.com/2023/10/28/23936093/threads-creating-api-third-party-app-support-instagram-meta-tweetdeck)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

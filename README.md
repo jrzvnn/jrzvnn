@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
- - 💣 [A hot girl with humor. Where can i get one?](http://9gag.com/gag/aREWZ5Q)
+ - 😝 [Romanian X-Files. Exactly 5 years ago, an incredible incident occurred in Romania. Scientists are still wondering what it was.](http://9gag.com/gag/ap97DLn)
+ - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
  - 😝 [\ud83c\udf81Giveaway\ud83c\udf81 Which one is the disguise of AORUS Lupin? AORUS Lupin secretly stole the Z790 AORUS PRO X Motherboard from Mona Lisa \ud83d\uddbc\ufe0f and put it in the AORUS booth at PGW! Follow the rules below and make your guess to stand a chance to take home the powerful motherboard!](http://9gag.com/gag/aPg0bQw)
- - 👉 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)<!-- MEMES:END -->
+ - 👉 [Gifted](http://9gag.com/gag/a7qg0Mw)<!-- MEMES:END -->
 
 ---
 

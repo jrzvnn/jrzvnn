@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
- - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
- - 💣 [True innit](http://9gag.com/gag/aA0AQgE)
- - 😝 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)
- - 👉 [Last bite from her father before she got married](http://9gag.com/gag/axoKWOb)<!-- MEMES:END -->
+ - 😝 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
+ - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
+ - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
+ - 👉 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)<!-- MEMES:END -->
 
 ---
 

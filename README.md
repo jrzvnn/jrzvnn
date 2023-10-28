@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
- - 😝 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 💣 [Until we meet again!](http://9gag.com/gag/avQq6Rq)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/awZjmzx)
- - 👉 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)<!-- MEMES:END -->
+ - 😝 [True innit](http://9gag.com/gag/aA0AQgE)
+ - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
+ - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 😝 [Daddy\u2019ll buy me a new one](http://9gag.com/gag/a5XgGnL)
+ - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
 
 ---
 

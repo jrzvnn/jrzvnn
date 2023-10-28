@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is improving its Xbox app for Windows handheld gaming PCs](https://www.theverge.com/2023/10/28/23936030/microsoft-xbox-app-windows-handheld-portable-rog-ally)
  - [13 Best Deals: Mirrorless Cameras, Sonos Speakers, Scooters, and TVs](https://www.wired.com/story/weekend-deals-october-28-2023/)
  - [How to Create Images With ChatGPT’s New Dall-E 3 Integration](https://www.wired.com/story/how-to-use-chatgpt-dalle-3-create-images/)
  - [Best Gifts Under $300 for 2023     - CNET](https://www.cnet.com/tech/mobile/best-gifts-under-300-for-2023/#ftag=CAD590a51e)
- - [Best Outdoor Projector for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector/#ftag=CAD590a51e)
- - [Families of Hostages Kidnapped by Hamas Turn to Phone Pings for Proof of Life](https://www.wired.com/story/israel-hamas-hostages-phone-location/)<!-- TECH:END -->
+ - [Best Outdoor Projector for 2023: Tested by Our Experts     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

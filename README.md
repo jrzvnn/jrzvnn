@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian X-Files. Exactly 5 years ago, an incredible incident occurred in Romania. Scientists are still wondering what it was.](http://9gag.com/gag/ap97DLn)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 💣 [Gifted](http://9gag.com/gag/a7qg0Mw)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)<!-- MEMES:END -->
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
+ - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [When the studio has unlimited budget, they cure cancer](http://9gag.com/gag/aDY96Ox)
+ - 👉 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)<!-- MEMES:END -->
 
 ---
 

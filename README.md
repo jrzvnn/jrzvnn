@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
+ - 😝 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
+ - 😝 [Top or bottom?](http://9gag.com/gag/anzZDxo)
+ - 💣 [Popped](http://9gag.com/gag/a9qwO5o)
+ - 😝 [Must be nice to get this look](http://9gag.com/gag/az2yY3z)
+ - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
 
 ---
 

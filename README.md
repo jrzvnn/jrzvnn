@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mighty programmer](http://9gag.com/gag/az2yZnp)
- - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 💣 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
+ - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 💣 [He was right](http://9gag.com/gag/aeQzVnB)
  - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
+ - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
 
 ---
 

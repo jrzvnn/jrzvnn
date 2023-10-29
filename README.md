@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
  - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 💣 [This sparks joy](http://9gag.com/gag/avQq6pZ)
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 👉 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)<!-- MEMES:END -->
 
 ---
 

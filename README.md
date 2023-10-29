@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
- - 💣 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
+ - 😝 [She&#39;s touching him, all the while yelling `don&#39;t touch me`. Hypocrisy level 100, Idiocracy level over 9000](http://9gag.com/gag/ap97xmB)
+ - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 😝 [Don&#39;t need an ocean to chill](http://9gag.com/gag/az2yRdN)
  - 👉 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)<!-- MEMES:END -->
 
 ---

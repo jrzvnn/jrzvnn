@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple is getting ready for Prime Time](https://www.theverge.com/2023/10/29/23932031/apple-prime-time-event-tv-halloween)
  - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)
+ - [Best Cheap Phone of 2023: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
  - [8 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
- - [Best Registries for Weddings and Baby Showers &lpar;2023&rpar;: Advice and Tips](https://www.wired.com/story/best-registries-for-weddings-baby-showers/)
- - [The Real Reason You &lpar;Still&rpar; Watch Reality TV](https://www.wired.com/story/the-real-reason-you-still-watch-reality-tv/)<!-- TECH:END -->
+ - [Best Registries for Weddings and Baby Showers &lpar;2023&rpar;: Advice and Tips](https://www.wired.com/story/best-registries-for-weddings-baby-showers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

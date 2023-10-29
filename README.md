@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 😝 [The mighty programmer](http://9gag.com/gag/az2yZnp)
- - 💣 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
  - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
 
 ---
 

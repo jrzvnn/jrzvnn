@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 😝 [She&#39;s touching him, all the while yelling `don&#39;t touch me`. Hypocrisy level 100, Idiocracy level over 9000](http://9gag.com/gag/ap97xmB)
+ - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
+ - 😝 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)
  - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 😝 [Don&#39;t need an ocean to chill](http://9gag.com/gag/az2yRdN)
- - 👉 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)<!-- MEMES:END -->
+ - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
+ - 👉 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
  - 😝 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
  - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says X posts corrected by Community Notes will be &quot;ineligible for revenue share&quot; in order to &quot;maximize the incentive for accuracy over sensationalism&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231029/p9#a231029p9)
  - [YouTube’s NFL Sunday Ticket streams are failing today](https://www.theverge.com/2023/10/29/23937429/nfl-sunday-ticket-youtube-tv-buffering-glitch)
  - [Creeping It Real for Halloween: Set Up a Last-Minute High-Tech Haunted House     - CNET](https://www.cnet.com/news/creeping-it-real-for-halloween-set-up-a-last-minute-high-tech-haunted-house/#ftag=CAD590a51e)
  - [Best Nintendo Switch Deals: Big Savings on Games, Accessories and Refurb Consoles     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)
- - [Research details how vulnerabilities in signaling protocols used by mobile network operators for international roaming can be exploited to geolocate devices &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/231029/p8#a231029p8)
- - [Best iPhone 14 and iPhone 14 Pro Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Research details how vulnerabilities in signaling protocols used by mobile network operators for international roaming can be exploited to geolocate devices &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/231029/p8#a231029p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

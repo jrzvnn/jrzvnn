@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 💣 [He was right](http://9gag.com/gag/aeQzVnB)
- - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 😝 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 😝 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)
+ - 💣 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
+ - 😝 [Oddly terrifying](http://9gag.com/gag/a4ogqOm)
+ - 👉 [Mana from heaven](http://9gag.com/gag/ajVvKdp)<!-- MEMES:END -->
 
 ---
 

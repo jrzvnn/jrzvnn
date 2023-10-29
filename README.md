@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [A look at physics-informed approaches to machine learning, which are in early stages and can help AI tackle hard problems in robotics, science, and engineering &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231029/p5#a231029p5)
- - [Samsung QN900C Review: Awesome Looking, Awesomely Expensive](https://www.wired.com/review/samsung-qn900c/)
- - [Alan Turing and the Power of Negative Thinking](https://www.wired.com/story/alan-turing-and-the-power-of-negative-thinking/)
- - [Your guide to the internet’s most &lpar;and least&rpar; important moments](https://www.theverge.com/2023/10/29/23935354/apple-journal-leica-m11p-hugo-awards-alan-wake-installer-newsletter)
- - [This iOS 17 Feature Blocks Unsolicited Nudes on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/this-ios-17-feature-blocks-unsolicited-nudes-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Mark Rober&#39;s DNA Nerf Guns Could Lead to Medical Breakthroughs     - CNET](https://www.cnet.com/science/biology/how-mark-robers-dna-nerf-guns-could-lead-to-medical-breakthroughs/#ftag=CAD590a51e)
+ - [ProRes Log Video on iPhone 15 Pro: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/prores-log-video-on-iphone-15-pro-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [What If Your EV Could Power Your Home During a Blackout?     - CNET](https://www.cnet.com/news/features/what-if-your-ev-could-power-your-home-during-a-blackout/#ftag=CAD590a51e)
+ - [iPhone 15 Pro Upgrade Guide: See How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/is-the-iphone-15-pro-worth-the-upgrade-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

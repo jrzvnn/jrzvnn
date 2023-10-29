@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - 😝 [This sparks joy](http://9gag.com/gag/avQq6pZ)
- - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
- - 😝 [Wholesome moment](http://9gag.com/gag/aNwMQdv)
- - 👉 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)<!-- MEMES:END -->
+ - 😝 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
+ - 😝 [He&#39;s got a point](http://9gag.com/gag/aZDXjW3)
+ - 💣 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 😝 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
+ - 👉 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)<!-- MEMES:END -->
 
 ---
 

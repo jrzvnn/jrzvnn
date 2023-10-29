@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
  - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - 💣 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
  - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
 
 ---

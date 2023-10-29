@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Best Registries for Weddings and Baby Showers &lpar;2023&rpar;: Advice and Tips](https://www.wired.com/story/best-registries-for-weddings-baby-showers/)
+ - [The Real Reason You &lpar;Still&rpar; Watch Reality TV](https://www.wired.com/story/the-real-reason-you-still-watch-reality-tv/)
  - [A look at physics-informed approaches to machine learning, which are in early stages and can help AI tackle hard problems in robotics, science, and engineering &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231029/p5#a231029p5)
- - [How Mark Rober&#39;s DNA Nerf Guns Could Lead to Medical Breakthroughs     - CNET](https://www.cnet.com/science/biology/how-mark-robers-dna-nerf-guns-could-lead-to-medical-breakthroughs/#ftag=CAD590a51e)
- - [ProRes Log Video on iPhone 15 Pro: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/prores-log-video-on-iphone-15-pro-everything-you-need-to-know/#ftag=CAD590a51e)
- - [What If Your EV Could Power Your Home During a Blackout?     - CNET](https://www.cnet.com/news/features/what-if-your-ev-could-power-your-home-during-a-blackout/#ftag=CAD590a51e)
- - [iPhone 15 Pro Upgrade Guide: See How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/is-the-iphone-15-pro-worth-the-upgrade-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Mark Rober&#39;s DNA Nerf Guns Could Lead to Medical Breakthroughs     - CNET](https://www.cnet.com/science/biology/how-mark-robers-dna-nerf-guns-could-lead-to-medical-breakthroughs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Document: the G7 plans to agree to a voluntary, 11-point code of conduct on October 30 for companies developing advanced AI systems, seeking to mitigate risks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231029/p6#a231029p6)
- - [This 43% Discount Knocks Beats&#39; Premium Studio Pro Headphones Down to $200     - CNET](https://www.cnet.com/deals/beats-studio-pro-150-off-amazon/#ftag=CAD590a51e)
  - [Eagles vs. Commanders Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-commanders-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
  - [Rams vs. Cowboys Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-cowboys-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Jaguars vs. Steelers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jaguars-vs-steelers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jaguars vs. Steelers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jaguars-vs-steelers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Vikings vs. Packers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-packers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

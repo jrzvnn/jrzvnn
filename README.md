@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
+ - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
  - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 👉 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)<!-- MEMES:END -->
+ - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 👉 [Lindsay Lohan in Herbie Fully loaded &lpar;2005&rpar;](http://9gag.com/gag/a3Zg2Br)<!-- MEMES:END -->
 
 ---
 

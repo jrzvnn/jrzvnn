@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
- - 😝 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
- - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 👉 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)<!-- MEMES:END -->
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
+ - 💣 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - 👉 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s policing minister Chris Philp encourages the police to double the use of retrospective facial recognition software by May 2024 to track down offenders &lpar;The Guardian&rpar;](http://www.techmeme.com/231029/p7#a231029p7)
+ - [Daily deals Oct. 29: $1,000 off M1 MacBook Pro, $70 off AirPods 3, 38% off JBL Boombox 2](https://appleinsider.com/articles/23/10/29/daily-deals-oct-29-1000-off-m1-macbook-pro-70-off-airpods-3-38-off-jbl-boombox-2?utm_medium=rss)
+ - [Android 14 will make it easier for apps to support passkeys soon](https://www.theverge.com/2023/10/29/23937095/android-14-passkey-support-credential-manager-api-third-party-apps)
+ - [The UK Minister for Policing Chris Philp encourages the police to double its retrospective facial recognition software use by May 2024 to track down offenders &lpar;The Guardian&rpar;](http://www.techmeme.com/231029/p7#a231029p7)
  - [Document: the G7 plans to agree to a voluntary, 11-point code of conduct on October 30 for companies developing advanced AI systems, seeking to mitigate risks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231029/p6#a231029p6)
- - [Eagles vs. Commanders Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-commanders-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Rams vs. Cowboys Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-cowboys-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Jaguars vs. Steelers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jaguars-vs-steelers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eagles vs. Commanders Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-commanders-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

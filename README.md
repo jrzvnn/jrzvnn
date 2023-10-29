@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research details how vulnerabilities in signaling protocols used by mobile network operators for international roaming can be exploited to geolocate devices &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/231029/p8#a231029p8)
  - [Kuxiu X36 iPad foldable magnetic stand review: a must-have iPad desk accessory](https://appleinsider.com/articles/23/10/29/kuxiu-x36-ipad-foldable-magnetic-stand-review-a-must-have-ipad-desk-accessory?utm_medium=rss)
  - [Ravens vs. Cardinals Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/ravens-vs-cardinals-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
  - [Chiefs vs. Broncos Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-broncos-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Bengals vs. 49ers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bengals-vs-49ers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
- - [Browns vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bengals vs. 49ers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bengals-vs-49ers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

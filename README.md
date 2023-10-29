@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 💣 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 😝 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
  - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - 👉 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)<!-- MEMES:END -->
+ - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
 
 ---
 

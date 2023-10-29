@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gifts influencers AirPods Max before Monday&#39;s &#39;Spatial&#39; event](https://appleinsider.com/articles/23/10/29/apple-gifts-influencers-airpods-max-before-mondays-spatial-event?utm_medium=rss)
  - [ChatGPT Plus members can upload and analyze files in the latest beta](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis)
  - [Elon Musk says X posts corrected by Community Notes will be &quot;ineligible for revenue share&quot; in order to &quot;maximize the incentive for accuracy over sensationalism&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231029/p9#a231029p9)
  - [YouTube’s NFL Sunday Ticket streams are failing today](https://www.theverge.com/2023/10/29/23937429/nfl-sunday-ticket-youtube-tv-buffering-glitch)
- - [Creeping It Real for Halloween: Set Up a Last-Minute High-Tech Haunted House     - CNET](https://www.cnet.com/news/creeping-it-real-for-halloween-set-up-a-last-minute-high-tech-haunted-house/#ftag=CAD590a51e)
- - [Best Nintendo Switch Deals: Big Savings on Games, Accessories and Refurb Consoles     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Creeping It Real for Halloween: Set Up a Last-Minute High-Tech Haunted House     - CNET](https://www.cnet.com/news/creeping-it-real-for-halloween-set-up-a-last-minute-high-tech-haunted-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

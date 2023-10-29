@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confused](http://9gag.com/gag/aNwMQnA)
- - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
- - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
+ - 😝 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 💣 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
  - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 👉 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)<!-- MEMES:END -->
+ - 👉 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)<!-- MEMES:END -->
 
 ---
 

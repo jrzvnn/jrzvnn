@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [A look at the hard right tilt of X, which once served as a hub of real-time news and global debate, and how its political shift could intensify business woes &lpar;Washington Post&rpar;](http://www.techmeme.com/231029/p3#a231029p3)
  - [Greece’s New Political Star Is a TikTok Creation](https://www.wired.com/story/stefanos-kasselakis-greece-politics-tiktok/)
+ - [Best Internet Providers in Odessa, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-odessa-tx/#ftag=CAD590a51e)
  - [Sources: Byju&#39;s plans to sell Epic, acquired for $500M, to settle debts after defaulting on $1.2B+ in loans, and may also sell Great Learning, bought for $600M &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231029/p2#a231029p2)
- - [As Cruise suspends all driverless operations, a look at the lack of clear federal regulations and fragmented oversight governing self-driving cars in the US &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/231029/p1#a231029p1)
- - [The 6 Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/6-best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Cruise suspends all driverless operations, a look at the lack of clear federal regulations and fragmented oversight governing self-driving cars in the US &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/231029/p1#a231029p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

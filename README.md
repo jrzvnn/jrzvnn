@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
- - 😝 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
- - 💣 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
- - 😝 [Oddly terrifying](http://9gag.com/gag/a4ogqOm)
- - 👉 [Top or bottom?](http://9gag.com/gag/anzZDxo)<!-- MEMES:END -->
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
+ - 💣 [Who knew ancient horses ass is so important. History lesson for 9gaggers](http://9gag.com/gag/awZj11x)
+ - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Daily deals Oct. 29: $1,000 off M1 MacBook Pro, $70 off AirPods 3, 38% off JBL Boombox 2](https://appleinsider.com/articles/23/10/29/daily-deals-oct-29-1000-off-m1-macbook-pro-70-off-airpods-3-38-off-jbl-boombox-2?utm_medium=rss)
  - [Android 14 will make it easier for apps to support passkeys soon](https://www.theverge.com/2023/10/29/23937095/android-14-passkey-support-credential-manager-api-third-party-apps)
- - [The UK Minister for Policing Chris Philp encourages the police to double its retrospective facial recognition software use by May 2024 to track down offenders &lpar;The Guardian&rpar;](http://www.techmeme.com/231029/p7#a231029p7)
+ - [UK Minister for Policing Chris Philp encourages the police to double its use of retrospective facial recognition software by May 2024 to track down offenders &lpar;The Guardian&rpar;](http://www.techmeme.com/231029/p7#a231029p7)
  - [Save $150 on This Ninja Muticooker That Can Air Fry, Steam, Bake and More     - CNET](https://www.cnet.com/deals/save-150-on-this-14-in-1-ninja-multicooker/#ftag=CAD590a51e)
  - [Document: the G7 plans to agree to a voluntary, 11-point code of conduct on October 30 for companies developing advanced AI systems, seeking to mitigate risks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231029/p6#a231029p6)<!-- TECH:END -->
 

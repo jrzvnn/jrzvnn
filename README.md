@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always have a good work-wife balance](http://9gag.com/gag/aNwMOA6)
- - 😝 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
- - 💣 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
- - 😝 [Oddly terrifying](http://9gag.com/gag/a4ogqOm)
- - 👉 [Top or bottom?](http://9gag.com/gag/anzZDxo)<!-- MEMES:END -->
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
+ - 😝 [Tiktokers being Tiktokers.](http://9gag.com/gag/awZj4MB)
+ - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
 
 ---
 

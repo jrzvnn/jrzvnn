@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Apple&#39;s Journal, a very basic journaling app, with an interesting Moments page, which uses the Suggestions API for prompting users to add entries &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231029/p4#a231029p4)
  - [NameDrop Hits Apple Watch: Here&#39;s Everything You&#39;ll Want to Know     - CNET](https://www.cnet.com/tech/mobile/namedrop-finally-hits-apple-watch-heres-everything-you-need-to-know/#ftag=CAD590a51e)
  - [A look at the hard right tilt of X, which once served as a hub of real-time news and global debate, and how its political shift could intensify business woes &lpar;Washington Post&rpar;](http://www.techmeme.com/231029/p3#a231029p3)
  - [Greece’s New Political Star Is a TikTok Creation](https://www.wired.com/story/stefanos-kasselakis-greece-politics-tiktok/)
- - [Best Internet Providers in Odessa, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-odessa-tx/#ftag=CAD590a51e)
- - [Sources: Byju&#39;s plans to sell Epic, acquired for $500M, to settle debts after defaulting on $1.2B+ in loans, and may also sell Great Learning, bought for $600M &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/231029/p2#a231029p2)<!-- TECH:END -->
+ - [Best Internet Providers in Odessa, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-odessa-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

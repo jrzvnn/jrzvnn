@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iOS 17 Feature Blocks Unsolicited Nudes on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/this-ios-17-feature-blocks-unsolicited-nudes-on-your-iphone/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Liverpool vs. Nottingham Forest From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
  - [HP Spectre Foldable Review: A $5,000 Laptop](https://www.wired.com/review/hp-spectre-foldable/)
  - [How to Use Your Phone Addiction to Actually Learn Stuff](https://www.wired.com/story/how-to-use-phone-addiction-learn-stuff/)
- - [Premier League Soccer Livestream: How to Watch West Ham vs. Everton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-west-ham-vs-everton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch West Ham vs. Everton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-west-ham-vs-everton-from-anywhere/#ftag=CAD590a51e)
+ - [37 Best Christmas Gifts Under $100 for Everyone on Your List     - CNET](https://www.cnet.com/news/great-gifts-under-100/#ftag=CAD590a51e)
+ - [Best Fitness Gifts for the Holidays 2023     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

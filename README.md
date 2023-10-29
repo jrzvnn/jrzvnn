@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How we use to troll people](http://9gag.com/gag/a7qgeoz)
  - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
- - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 👉 [Lindsay Lohan in Herbie Fully loaded &lpar;2005&rpar;](http://9gag.com/gag/a3Zg2Br)<!-- MEMES:END -->
+ - 💣 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
+ - 😝 [Lindsay Lohan in Herbie Fully loaded &lpar;2005&rpar;](http://9gag.com/gag/a3Zg2Br)
+ - 👉 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)<!-- MEMES:END -->
 
 ---
 

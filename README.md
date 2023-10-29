@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 29: $1,000 off M1 MacBook Pro, $70 off AirPods 3, 38% off JBL Boombox 2](https://appleinsider.com/articles/23/10/29/daily-deals-oct-29-1000-off-m1-macbook-pro-70-off-airpods-3-38-off-jbl-boombox-2?utm_medium=rss)
- - [Android 14 will make it easier for apps to support passkeys soon](https://www.theverge.com/2023/10/29/23937095/android-14-passkey-support-credential-manager-api-third-party-apps)
- - [UK Minister for Policing Chris Philp encourages the police to double its use of retrospective facial recognition software by May 2024 to track down offenders &lpar;The Guardian&rpar;](http://www.techmeme.com/231029/p7#a231029p7)
- - [Save $150 on This Ninja Muticooker That Can Air Fry, Steam, Bake and More     - CNET](https://www.cnet.com/deals/save-150-on-this-14-in-1-ninja-multicooker/#ftag=CAD590a51e)
- - [Document: the G7 plans to agree to a voluntary, 11-point code of conduct on October 30 for companies developing advanced AI systems, seeking to mitigate risks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231029/p6#a231029p6)<!-- TECH:END -->
+ - [Ravens vs. Cardinals Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/ravens-vs-cardinals-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Chiefs vs. Broncos Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-broncos-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Bengals vs. 49ers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bengals-vs-49ers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Browns vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/browns-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Best Internet Providers in Vancouver, Washington     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-vancouver-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

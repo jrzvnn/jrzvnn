@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
- - 😝 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 👉 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)<!-- MEMES:END -->
+ - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
+ - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 💣 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
+ - 👉 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)<!-- MEMES:END -->
 
 ---
 

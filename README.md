@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
  - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 💣 [4th try if the gods permit this to be published](http://9gag.com/gag/aBdzVNP)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 👉 [This is what i saw going home tonight, a rainbow in the dark! &lpar;Dio&rpar;. Pic was taken in 3:45am.](http://9gag.com/gag/aXn34n2)<!-- MEMES:END -->
+ - 😝 [4th try if the gods permit this to be published](http://9gag.com/gag/aBdzVNP)
+ - 💣 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [This is what i saw going home tonight, a rainbow in the dark! &lpar;Dio&rpar;. Pic was taken in 3:45am.](http://9gag.com/gag/aXn34n2)
+ - 👉 [He was right](http://9gag.com/gag/aeQzVnB)<!-- MEMES:END -->
 
 ---
 

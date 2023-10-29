@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
  - 😝 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
- - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 💣 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)
- - 😝 [This sparks joy](http://9gag.com/gag/avQq6pZ)
- - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
+ - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
+ - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
+ - 👉 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 😝 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
- - 💣 [Day 1 vs now..](http://9gag.com/gag/aKEZ8pN)
- - 😝 [One ticket to hell pls](http://9gag.com/gag/aA0A2rR)
- - 👉 [How to maintain your dignity](http://9gag.com/gag/aYV6MwO)<!-- MEMES:END -->
+ - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
+ - 💣 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)
+ - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 👉 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)<!-- MEMES:END -->
 
 ---
 

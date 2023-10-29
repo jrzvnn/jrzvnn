@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/6-best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)
  - [How Japan is leading the race to regulate stablecoins with a new law that took effect in June 2023 and includes terms to protect the assets backing stablecoins &lpar;Emily Parker/CoinDesk&rpar;](http://www.techmeme.com/231028/p11#a231028p11)
  - [Best Gaming Keyboard Under $100 for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-keyboard-under-100/#ftag=CAD590a51e)
  - [Google researchers use off-the-shelf headphones to measure heart rate](https://www.theverge.com/2023/10/28/23936562/google-heart-rate-monitoring-headphones-earbuds-active-noise-canceling)
- - [How to improve your task management with new actions for iOS 17&#39;s Shortcuts app](https://appleinsider.com/inside/ios-17/tips/how-to-improve-your-task-management-with-new-actions-for-ios-17s-shortcuts-app?utm_medium=rss)
- - [Q&amp;A with Founders Fund GP Keith Rabois on why the firm cut its new fund in half, investing in online wholesale marketplace Faire and jobs board Traba, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/231028/p10#a231028p10)<!-- TECH:END -->
+ - [How to improve your task management with new actions for iOS 17&#39;s Shortcuts app](https://appleinsider.com/inside/ios-17/tips/how-to-improve-your-task-management-with-new-actions-for-ios-17s-shortcuts-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung QN900C Review: Awesome Looking, Awesomely Expensive](https://www.wired.com/review/samsung-qn900c/)
+ - [Alan Turing and the Power of Negative Thinking](https://www.wired.com/story/alan-turing-and-the-power-of-negative-thinking/)
+ - [Your guide to the internet’s most &lpar;and least&rpar; important moments](https://www.theverge.com/2023/10/29/23935354/apple-journal-leica-m11p-hugo-awards-alan-wake-installer-newsletter)
  - [This iOS 17 Feature Blocks Unsolicited Nudes on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/this-ios-17-feature-blocks-unsolicited-nudes-on-your-iphone/#ftag=CAD590a51e)
- - [Premier League Soccer Livestream: How to Watch Liverpool vs. Nottingham Forest From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
- - [HP Spectre Foldable Review: A $5,000 Laptop](https://www.wired.com/review/hp-spectre-foldable/)
- - [How to Use Your Phone Addiction to Actually Learn Stuff](https://www.wired.com/story/how-to-use-phone-addiction-learn-stuff/)
- - [Premier League Soccer Livestream: How to Watch West Ham vs. Everton From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-west-ham-vs-everton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer Livestream: How to Watch Liverpool vs. Nottingham Forest From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-how-to-watch-liverpool-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

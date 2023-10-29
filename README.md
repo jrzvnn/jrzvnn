@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 💣 [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [Ranking my favorite JAV Actresses releases this October](http://9gag.com/gag/aEqKV5n)<!-- MEMES:END -->
+ - 😝 [Guess who just won an annual Holloween costume event?](http://9gag.com/gag/aGEvMOZ)
+ - 😝 [One ticket to hell pls](http://9gag.com/gag/aA0A2rR)
+ - 💣 [How to maintain your dignity](http://9gag.com/gag/aYV6MwO)
+ - 😝 [Yep!](http://9gag.com/gag/aZDX8AW)
+ - 👉 [This sparks joy](http://9gag.com/gag/avQq6pZ)<!-- MEMES:END -->
 
 ---
 

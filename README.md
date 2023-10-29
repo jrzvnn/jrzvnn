@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Document: the G7 plans to agree to a voluntary, 11-point code of conduct on October 30 for companies developing advanced AI systems, seeking to mitigate risks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231029/p6#a231029p6)
- - [AirPods range refresh to start in late 2024 with ANC, USB-C changes](https://appleinsider.com/articles/23/10/29/airpods-range-refresh-to-start-in-late-2024-with-anc-usb-c-changes?utm_medium=rss)
- - [Apple is getting ready for Prime Time](https://www.theverge.com/2023/10/29/23932031/apple-prime-time-event-tv-halloween)
- - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)
- - [Best Cheap Phone of 2023: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This 43% Discount Knocks Beats&#39; Premium Studio Pro Headphones Down to $200     - CNET](https://www.cnet.com/deals/beats-studio-pro-150-off-amazon/#ftag=CAD590a51e)
+ - [Eagles vs. Commanders Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/eagles-vs-commanders-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Rams vs. Cowboys Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-cowboys-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)
+ - [Jaguars vs. Steelers Livestream: How to Watch NFL Week 8 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/jaguars-vs-steelers-livestream-how-to-watch-nfl-week-8-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

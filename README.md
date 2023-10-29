@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
- - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 💣 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
+ - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 👉 [This is what they get for trying to replace those air filters no matter what, such cruel world we&#39;re living in](http://9gag.com/gag/aZDXzO9)<!-- MEMES:END -->
 
 ---
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - 😝 [Tiktokers being Tiktokers.](http://9gag.com/gag/awZj4MB)
- - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
+ - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 💣 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
+ - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
+ - 👉 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MJ&#39;s first ever Moonwalk shown to the world [1983]](http://9gag.com/gag/aoKoVZm)
  - 😝 [He was right](http://9gag.com/gag/aeQzVnB)
- - 💣 [No Comments, wake up Europe.](http://9gag.com/gag/aGEv84K)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 👉 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)<!-- MEMES:END -->
+ - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
+ - 💣 [LGBTQ+ whatever, gets sprayed and cries like a b*tch](http://9gag.com/gag/aREWZqG)
+ - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
+ - 👉 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)<!-- MEMES:END -->
 
 ---
 

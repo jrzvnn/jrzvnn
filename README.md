@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 😝 [Hey There Demons It&#39;s Me, Ya Boi](http://9gag.com/gag/ap97P2W)
- - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
- - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
+ - 😝 [When it hasn&#39;t been your day your week your month or even your year [Matthew Perry has passed away]](http://9gag.com/gag/aGEvAXZ)
+ - 😝 [He&#39;s got a point](http://9gag.com/gag/aZDXjW3)
+ - 💣 [She was raised well, He\u2019s a great father. I love this](http://9gag.com/gag/anzZv2n)
+ - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
+ - 👉 [Another legend resting. Could he BE any more dead.](http://9gag.com/gag/ap97beB)<!-- MEMES:END -->
 
 ---
 

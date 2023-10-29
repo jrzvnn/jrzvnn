@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 😝 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 💣 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
+ - 😝 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
+ - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
+ - 💣 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
+ - 😝 [Oddly terrifying](http://9gag.com/gag/a4ogqOm)
+ - 👉 [Top or bottom?](http://9gag.com/gag/anzZDxo)<!-- MEMES:END -->
 
 ---
 

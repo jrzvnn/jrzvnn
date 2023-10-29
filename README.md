@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tac-house slap](http://9gag.com/gag/aGEv83G)
- - 😝 [Bro his attorney really had the `this is all your fault` look](http://9gag.com/gag/aL1oA7g)
- - 💣 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
- - 😝 [FAFO with Japan efficiency. Trial and verdict were so fast.](http://9gag.com/gag/axoKvB2)
- - 👉 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)<!-- MEMES:END -->
+ - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
+ - 😝 [YES SIR](http://9gag.com/gag/aeQzV0q)
+ - 💣 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [This sparks joy](http://9gag.com/gag/avQq6pZ)
+ - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
 
 ---
 

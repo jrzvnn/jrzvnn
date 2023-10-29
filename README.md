@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
  - 😝 [Grandma don&#39;t give a F.](http://9gag.com/gag/ajVvZMG)
+ - 😝 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
  - 💣 [Mana from heaven](http://9gag.com/gag/ajVvKdp)
  - 😝 [Oddly terrifying](http://9gag.com/gag/a4ogqOm)
  - 👉 [Top or bottom?](http://9gag.com/gag/anzZDxo)<!-- MEMES:END -->

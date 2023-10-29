@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Halloween, and remember peoples traditions are not costumes](http://9gag.com/gag/aBdzO8x)
- - 😝 [Top or bottom?](http://9gag.com/gag/anzZDxo)
- - 💣 [Popped](http://9gag.com/gag/a9qwO5o)
- - 😝 [Must be nice to get this look](http://9gag.com/gag/az2yY3z)
- - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 😝 [They all know what will happen, he knows, the ambulance guys knows, the camers around knows, just waiting for the propaganda to happen.](http://9gag.com/gag/a2KgypE)
+ - 😝 [Germany today with Al Qaeda flags](http://9gag.com/gag/aGEvAyG)
+ - 💣 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [London has fallen...](http://9gag.com/gag/aZDXE19)
+ - 👉 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)<!-- MEMES:END -->
 
 ---
 

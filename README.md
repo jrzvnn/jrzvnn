@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
  - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
+ - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
 
 ---
 

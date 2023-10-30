@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smart chicken coops, iOS 17.1, and suitcase TVs on HomeKit Insider](https://appleinsider.com/articles/23/10/30/smart-chicken-coops-ios-171-and-suitcase-tvs-on-homekit-insider?utm_medium=rss)
+ - [Western Digital is spinning off its flash memory business as sales decline](https://www.theverge.com/2023/10/30/23938334/western-digital-separating-hard-drive-flash-business)
  - [Microsoft tells Xbox users that unauthorized third-party accessories cannot be used from November 12; sources say Microsoft plans to expand its approved program &lpar;Jennifer Young/Windows Central&rpar;](http://www.techmeme.com/231030/p14#a231030p14)
  - [10 Best Action Cameras &lpar;2023&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
- - [Invincible season 2 is a thoughtful step toward a bigger universe](https://www.theverge.com/23933816/invincible-season-2-review)
- - [The autoworker strike is nearly over, as GM makes tentative deal with UAW](https://www.theverge.com/2023/10/30/23938368/gm-uaw-tentative-deal-strike-autoworker-ev)
- - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)<!-- TECH:END -->
+ - [Invincible season 2 is a thoughtful step toward a bigger universe](https://www.theverge.com/23933816/invincible-season-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
  - 😝 [Tmnt](http://9gag.com/gag/aoKoDqw)
+ - 😝 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
  - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
  - 😝 [Play stupids games...](http://9gag.com/gag/aME7yv1)
  - 👉 [Peaceful and cooperative until they&#39;re majority](http://9gag.com/gag/aA0AZvR)<!-- MEMES:END -->

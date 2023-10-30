@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [A look at blue-collar influencers, including a trucker, a shepherd, and a fisherman, who have amassed large audiences by posting short videos of their workday &lpar;Steven Kurutz/New York Times&rpar;](http://www.techmeme.com/231030/p1#a231030p1)
+ - [Upgrading to iOS 17? You&#39;ll Want to Back Up Your Device Before Updating     - CNET](https://www.cnet.com/tech/mobile/upgrading-to-ios-17-youll-want-to-back-up-your-device-before-updating/#ftag=CAD590a51e)
+ - [26 Amazing Gift Cards for Everyone on Your Holiday List     - CNET](https://www.cnet.com/news/best-gift-cards-for-the-holidays/#ftag=CAD590a51e)
  - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)
- - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
- - [Android 14 review: an unexciting release for consumers, featuring a lightly customizable lock screen and improved back button functionality &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231029/p13#a231029p13)
- - [Q&amp;A with Amazon Robotics Chief Technologist Tye Brady on testing Agility&#39;s bipedal robot Digit at Amazon, coding robotic systems with CodeWhisperer, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231029/p12#a231029p12)<!-- TECH:END -->
+ - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

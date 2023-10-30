@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Regulatory filings show new MacBook Pro, iPad mini are on the way](https://appleinsider.com/articles/23/10/30/regulatory-filings-show-new-macbook-pro-ipad-mini-are-on-the-way?utm_medium=rss)
+ - [Samsung’s Galaxy S23 starts receiving Android 14 update](https://www.theverge.com/2023/10/30/23938247/samsungs-galaxy-s23-android-14-one-ui-6-update-official-europe-release)
  - [Google is investigating Android 14’s multiple profile update bug](https://www.theverge.com/2023/10/28/23936313/google-android-14-bug-multiple-profiles-storage-crashing-stability)
  - [The UK government publishes its final crypto rules and plans a phased introduction of the regulations, including legislation for fiat-backed stablecoins in 2024 &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/231030/p8#a231030p8)
- - [Web Summit names Katherine Maher, the former Wikimedia Foundation head, as its new CEO, replacing co-founder Paddy Cosgrave, ahead of the event on November 13 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231030/p7#a231030p7)
- - [A Personalized Brain Implant Curbed a Woman’s OCD](https://www.wired.com/story/a-personalized-brain-implant-curbed-a-womans-ocd/)
- - [Where You Live Is As Important As What You Eat](https://www.wired.com/story/wired-impact-cities-health/)<!-- TECH:END -->
+ - [Web Summit names Katherine Maher, the former Wikimedia Foundation head, as its new CEO, replacing co-founder Paddy Cosgrave, ahead of the event on November 13 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231030/p7#a231030p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
- - 😝 [Tmnt](http://9gag.com/gag/aoKoDqw)
- - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [Food for thought?](http://9gag.com/gag/aNwM396)
- - 👉 [Speaking from experience](http://9gag.com/gag/adPAbXB)<!-- MEMES:END -->
+ - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
 
 ---
 

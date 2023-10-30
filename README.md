@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
  - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---
 

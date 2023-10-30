@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 👉 [The face of the ice hockey player who raised his leg and slashed the neck of Adam Johnson, killing him. The media won&#39;t show you this &lpar;why lol&rpar;](http://9gag.com/gag/axoKAdL)<!-- MEMES:END -->
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
+ - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 😝 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
+ - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
 
 ---
 

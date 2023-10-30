@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold 4 Deals: $180 Off Unlocked, $800 Off Carrier Models     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)
+ - [Best 4K TV Deals: Save Up to $500 on Big Brands     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
  - [All the news from Apple’s ‘Scary Fast’ Mac event](https://www.theverge.com/2023/10/30/23933672/apple-event-mac-october-news-updates-products-scary-fast)
- - [BlackBerry CEO John Chen plans to retire on November 4 after serving in the role for a decade; board member Richard Lynch will be the interim CEO &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p25#a231030p25)
- - [The US SEC charges SolarWinds for failing to disclose alleged cybersecurity failures ahead of a breach by suspected Russian hackers that began as early as 2019 &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/231030/p24#a231030p24)
- - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)
- - [Best Apple Watch Series 9 Deals: Up to $380 Off With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-apple-watch-series-9-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Earbuds and Headphones for Working Out for 2023     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Raiders vs. Lions Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-raiders-vs-lions-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

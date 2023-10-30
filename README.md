@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM was the last of the Big Three to reach an agreement.](https://www.theverge.com/2023/10/30/23938368/gm-uaw-tentative-deal-strike-autoworker-ev)
+ - [The autoworker strike is nearly over, as GM makes tentative deal with UAW](https://www.theverge.com/2023/10/30/23938368/gm-uaw-tentative-deal-strike-autoworker-ev)
  - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)
  - [Tivoli Pal BT Review: A Colorful Radio](https://www.wired.com/review/tivoli-audio-pal-bt/)
  - [Google Calendar Now Makes It Easier to Find a Time to Meet. Here&#39;s How](https://www.wired.com/story/google-calendar-find-time-to-meet-appointment-scheduler/)

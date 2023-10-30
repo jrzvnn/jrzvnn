@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
- - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 💣 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
- - 😝 [This is doggo 6 ice cream acquired going NOM](http://9gag.com/gag/a1PgOvP)
- - 👉 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)<!-- MEMES:END -->
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 ---
 

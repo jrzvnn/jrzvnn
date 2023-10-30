@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
  - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 💣 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
 
 ---
 

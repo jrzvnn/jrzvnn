@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
  - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
 
 ---

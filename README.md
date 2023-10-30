@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aragorn:\u00a0`You&#39;ve already had a final boss.` Pippin: `We&#39;ve had one, yes.\u00a0But what about second final boss?` Merry: `I don&#39;t think he knows about second final boss, Pip.`](http://9gag.com/gag/aME7qR6)
- - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - 😝 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
+ - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
+ - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 😝 [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---
 

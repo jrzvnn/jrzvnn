@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to install a Nest Thermostat](https://www.theverge.com/23935255/google-nest-thermostat-how-to-install)
+ - [How to connect a Nest Thermostat to Apple Home through Matter](https://www.theverge.com/23935276/nest-thermostat-apple-home-matter-how-to)
+ - [In antitrust case testimony, Sundar Pichai attributes Google&#39;s success in search to its early investment and innovation in the Chrome browser &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p16#a231030p16)
  - [This app is making podcasts more TikTokable](https://www.theverge.com/2023/10/30/23938456/tiktok-video-podcast-spotify-youtube-instagram)
- - [Apple’s best move is giving us what we want](https://www.theverge.com/2023/10/30/23934824/apple-big-imac-m3-scary-fast-event)
- - [Ta-ta, Wistron: Indian iPhone operations go local](https://appleinsider.com/articles/23/10/30/ta-ta-wistron-indian-iphone-operations-go-local?utm_medium=rss)
- - [Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He&#39;s a Bad Memory](https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/)
- - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)<!-- TECH:END -->
+ - [Apple’s best move is giving us what we want](https://www.theverge.com/2023/10/30/23934824/apple-big-imac-m3-scary-fast-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

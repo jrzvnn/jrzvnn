@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
- - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 👉 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)<!-- MEMES:END -->
+ - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
 
 ---
 

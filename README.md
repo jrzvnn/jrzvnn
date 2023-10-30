@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ad holding company Omnicom agrees to acquire Flywheel, the digital commerce arm of UK-based B2B media company Ascential, for a net cash purchase price of ~$835M &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p5#a231030p5)
  - [Generative AI Is Playing a Surprising Role in Israel-Hamas Disinformation](https://www.wired.com/story/israel-hamas-war-generative-artificial-intelligence-disinformation/)
  - [Google details its research into audioplethysmography &lpar;APG&rpar;, which can add heart rate sensing capabilities to ANC headphones &quot;with a simple software upgrade&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231030/p4#a231030p4)
  - [Ahead of the UK&#39;s AI Safety Summit, over 100 individuals and labor groups accuse the government of &quot;squeezing out&quot; workers from the event in favor of Big Tech &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/231030/p3#a231030p3)
- - [Biden signs an EO on generative AI, directing the NIST, DHS, and other agencies to create new safety standards, protect privacy, support workers, and more &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231030/p2#a231030p2)
- - [Student Loan Payments Have Restarted. Here&#39;s What Happens If You Don&#39;t Pay     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-payments-have-restarted-heres-what-happens-if-you-dont-pay/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden signs an EO on generative AI, directing the NIST, DHS, and other agencies to create new safety standards, protect privacy, support workers, and more &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231030/p2#a231030p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

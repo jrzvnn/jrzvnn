@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
  - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
  - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlackBerry CEO John Chen plans to retire on November 4 after serving in the role for a decade; board member Richard Lynch will be the interim CEO &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p25#a231030p25)
+ - [The US SEC charges SolarWinds for failing to disclose alleged cybersecurity failures ahead of a breach by suspected Russian hackers that began as early as 2019 &lpar;Tim Starks/Washington Post&rpar;](http://www.techmeme.com/231030/p24#a231030p24)
  - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)
  - [Best Apple Watch Series 9 Deals: Up to $380 Off With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-apple-watch-series-9-deals/#ftag=CAD590a51e)
- - [What to expect from Apple&#39;s Q4 2023 earnings report](https://appleinsider.com/articles/23/10/30/what-to-expect-from-apples-q4-2023-earnings-report?utm_medium=rss)
- - [More Eye Drops Are Being Recalled. Here&#39;s How to Find a Safe Brand     - CNET](https://www.cnet.com/health/personal-care/more-eye-drops-are-being-recalled-heres-how-to-find-a-safe-brand/#ftag=CAD590a51e)
- - [Gambling streams are ‘part of the contract’ for Kick’s newest streamer](https://www.theverge.com/2023/10/30/23938853/kick-nickmercs-gambling-contract-stake)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s Q4 2023 earnings report](https://appleinsider.com/articles/23/10/30/what-to-expect-from-apples-q4-2023-earnings-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

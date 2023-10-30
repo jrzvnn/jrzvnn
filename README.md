@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
  - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
+ - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---
 

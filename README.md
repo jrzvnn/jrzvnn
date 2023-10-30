@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft tells Xbox users that unauthorized third-party accessories cannot be used from November 12; sources say Microsoft plans to expand its approved program &lpar;Jennifer Young/Windows Central&rpar;](http://www.techmeme.com/231030/p14#a231030p14)
+ - [10 Best Action Cameras &lpar;2023&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
+ - [Invincible season 2 is a thoughtful step toward a bigger universe](https://www.theverge.com/23933816/invincible-season-2-review)
  - [The autoworker strike is nearly over, as GM makes tentative deal with UAW](https://www.theverge.com/2023/10/30/23938368/gm-uaw-tentative-deal-strike-autoworker-ev)
- - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)
- - [Tivoli Pal BT Review: A Colorful Radio](https://www.wired.com/review/tivoli-audio-pal-bt/)
- - [Google Calendar Now Makes It Easier to Find a Time to Meet. Here&#39;s How](https://www.wired.com/story/google-calendar-find-time-to-meet-appointment-scheduler/)
- - [Meta’s AI research head wants open source licensing to change](https://www.theverge.com/2023/10/30/23935587/meta-generative-ai-models-open-source)<!-- TECH:END -->
+ - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

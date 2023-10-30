@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 💣 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
  - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Pixel 7A at $125 off is all treat, no trick](https://www.theverge.com/2023/10/30/23938305/google-pixel-7a-phone-tablet-sony-wf1000xm5-earbuds)
  - [Daily deals Oct. 30: AirPods Pro 2 USB-C return to $199, M2 Mac mini $499, more](https://appleinsider.com/articles/23/10/30/daily-deals-oct-30-airpods-pro-2-usb-c-return-to-199-m2-mac-mini-499-more?utm_medium=rss)
  - [How to install a Nest Thermostat](https://www.theverge.com/23935255/google-nest-thermostat-how-to-install)
  - [How to connect a Nest Thermostat to Apple Home through Matter](https://www.theverge.com/23935276/nest-thermostat-apple-home-matter-how-to)
- - [In antitrust case testimony, Sundar Pichai attributes Google&#39;s success in search to its early investment and innovation in the Chrome browser &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p16#a231030p16)
- - [This app is making podcasts more TikTokable](https://www.theverge.com/2023/10/30/23938456/tiktok-video-podcast-spotify-youtube-instagram)<!-- TECH:END -->
+ - [In antitrust case testimony, Sundar Pichai attributes Google&#39;s success in search to its early investment and innovation in the Chrome browser &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p16#a231030p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

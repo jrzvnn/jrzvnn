@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A livestream of Apple&#39;s &quot;Scary Fast&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/231030/p27#a231030p27)
+ - [A live blog of Apple&#39;s &quot;Scary Fast&quot; event, where high-end MacBook Pros with M3 Pro and M3 Max, a new 24-inch iMac with an M3, and more are expected &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231030/p26#a231030p26)
  - [Apple&#39;s online store is down ahead of Scary Fast Mac event](https://appleinsider.com/articles/23/10/30/apples-online-store-is-down-ahead-of-scary-fast-mac-event?utm_medium=rss)
  - [Samsung Galaxy Z Fold 4 Deals: $180 Off Unlocked, $800 Off Carrier Models     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)
- - [Best 4K TV Deals: Save Up to $500 on Big Brands     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [All the news from Apple’s ‘Scary Fast’ Mac event](https://www.theverge.com/2023/10/30/23933672/apple-event-mac-october-news-updates-products-scary-fast)
- - [Best Earbuds and Headphones for Working Out for 2023     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 4K TV Deals: Save Up to $500 on Big Brands     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

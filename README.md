@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - 😝 [Cornelius sucks his thumb and immediately falls asleep \ud83d\ude29](http://9gag.com/gag/aDY9VQB)
+ - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
 
 ---
 

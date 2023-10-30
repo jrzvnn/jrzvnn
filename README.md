@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the tables are turning...](http://9gag.com/gag/avQqmpM)
  - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
- - 💣 [Food for thought?](http://9gag.com/gag/aNwM396)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Tmnt](http://9gag.com/gag/aoKoDqw)
+ - 💣 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Food for thought?](http://9gag.com/gag/aNwM396)
  - 👉 [Speaking from experience](http://9gag.com/gag/adPAbXB)<!-- MEMES:END -->
 
 ---

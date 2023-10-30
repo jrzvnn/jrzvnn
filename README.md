@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
- - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
+ - 😝 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
+ - 😝 [Tmnt](http://9gag.com/gag/aoKoDqw)
+ - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 😝 [Play stupids games...](http://9gag.com/gag/aME7yv1)
+ - 👉 [Peaceful and cooperative until they&#39;re majority](http://9gag.com/gag/aA0AZvR)<!-- MEMES:END -->
 
 ---
 

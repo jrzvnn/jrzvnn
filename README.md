@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
  - 😝 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)
+ - 😝 [All of you are awesome](http://9gag.com/gag/abvDEMO)
  - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 😝 [Speaking from experience](http://9gag.com/gag/adPAbXB)
- - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
+ - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
+ - 👉 [This is doggo 6 ice cream acquired going NOM](http://9gag.com/gag/a1PgOvP)<!-- MEMES:END -->
 
 ---
 

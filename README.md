@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cornelius sucks his thumb and immediately falls asleep \ud83d\ude29](http://9gag.com/gag/aDY9VQB)
- - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
  - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
  - 👉 [What city is this?](http://9gag.com/gag/a2KgLnp)<!-- MEMES:END -->
 
 ---

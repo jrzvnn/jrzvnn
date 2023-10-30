@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Regulatory filings show new MacBook Pro, iPad mini are on the way](https://appleinsider.com/articles/23/10/30/regulatory-filings-show-new-macbook-pro-ipad-mini-are-on-the-way?utm_medium=rss)
- - [Samsung’s Galaxy S23 starts receiving Android 14 update](https://www.theverge.com/2023/10/30/23938247/samsungs-galaxy-s23-android-14-one-ui-6-update-official-europe-release)
- - [Google is investigating Android 14’s multiple profile update bug](https://www.theverge.com/2023/10/28/23936313/google-android-14-bug-multiple-profiles-storage-crashing-stability)
- - [The UK government publishes its final crypto rules and plans a phased introduction of the regulations, including legislation for fiat-backed stablecoins in 2024 &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/231030/p8#a231030p8)
- - [Web Summit names Katherine Maher, the former Wikimedia Foundation head, as its new CEO, replacing co-founder Paddy Cosgrave, ahead of the event on November 13 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231030/p7#a231030p7)<!-- TECH:END -->
+ - [These Plants Change Color When Exposed to a Pesticide](https://www.wired.com/story/these-plants-change-color-when-exposed-to-a-pesticide/)
+ - [Acer Swift Edge 16 Review: Big Screen, Reasonable Price](https://www.wired.com/review/acer-swift-edge-16/)
+ - [Razer Blade 14 Review: A PC Replacement](https://www.wired.com/review/razer-blade-14/)
+ - [Resident Evil Village on the iPhone could be a preview of Apple’s gaming future](https://www.theverge.com/2023/10/30/23935357/resident-evil-village-iphone-preview-apple-mac-gaming-future)
+ - [Analysis: 126 companies have cancelled or suspended IPO applications on Shanghai&#39;s tech-focused Star Market in 2023, more than the previous four years combined &lpar;Financial Times&rpar;](http://www.techmeme.com/231030/p9#a231030p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

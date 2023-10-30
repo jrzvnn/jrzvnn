@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro could get thinner, lighter camera lenses that improve optical zoom](https://appleinsider.com/articles/23/10/30/iphone-16-pro-could-get-thinner-lighter-camera-lenses-that-improve-optical-zoom?utm_medium=rss)
+ - [Best Apple Watch Series 9 Deals: Up to $380 Off With Trade-In Credit     - CNET](https://www.cnet.com/deals/best-apple-watch-series-9-deals/#ftag=CAD590a51e)
  - [What to expect from Apple&#39;s Q4 2023 earnings report](https://appleinsider.com/articles/23/10/30/what-to-expect-from-apples-q4-2023-earnings-report?utm_medium=rss)
- - [Gambling streams are ‘part of the contract’ for Kick’s newest streamer](https://www.theverge.com/2023/10/30/23938853/kick-nickmercs-gambling-contract-stake)
- - [Sundar Pichai argues in court that Google isn’t evil, it’s just a business](https://www.theverge.com/2023/10/30/23939043/us-v-google-sundar-pichai-testimony)
- - [US Office of Personnel Management report: ~632K DOD and DOJ employees had their emails compromised on May 28 and 29, 2023, as part of the sprawling MOVEit hacks &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/231030/p23#a231030p23)
- - [Pinterest Q3: revenue up 11% YoY to $763.2M, vs. $743.5M est., MAUs up 8% YoY to 482M, vs. 473M est., ARPU up 3% YoY to $1.61, vs. $1.59 est.; $PINS jumps 8%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231030/p22#a231030p22)<!-- TECH:END -->
+ - [More Eye Drops Are Being Recalled. Here&#39;s How to Find a Safe Brand     - CNET](https://www.cnet.com/health/personal-care/more-eye-drops-are-being-recalled-heres-how-to-find-a-safe-brand/#ftag=CAD590a51e)
+ - [Gambling streams are ‘part of the contract’ for Kick’s newest streamer](https://www.theverge.com/2023/10/30/23938853/kick-nickmercs-gambling-contract-stake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

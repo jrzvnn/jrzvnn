@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Porsche is adding Google to its cars as VW’s software problems worsen](https://www.theverge.com/2023/10/30/23938741/porsche-google-built-in-vw-cariad-layoffs)
  - [Bungie delaying Destiny 2 and Marathon games amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
  - [SBF blamed top FTX execs on day two of testimony, and lawyers disputed his answers by confronting him with his own emails, chats, tweets, and more, some profane &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/231030/p21#a231030p21)
  - [Google&#39;s Pixel 7 is Still Awesome, Especially When It&#39;s Just $440     - CNET](https://www.cnet.com/deals/googles-pixel-7-is-still-awesome-especially-when-its-just-440/#ftag=CAD590a51e)
- - [This StackSocial Deal Scores You 20TB of Lifetime Cloud Storage for Just $70     - CNET](https://www.cnet.com/deals/prism-drive-cloud-storage-lifetime-20tb-for-70/#ftag=CAD590a51e)
- - [US v. Google: Sundar Pichai floated preloading a Google app on iOS to Tim Cook in 2018, amid Apple&#39;s concerns of lower revenue growth from their rev-share deal &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231030/p20#a231030p20)<!-- TECH:END -->
+ - [This StackSocial Deal Scores You 20TB of Lifetime Cloud Storage for Just $70     - CNET](https://www.cnet.com/deals/prism-drive-cloud-storage-lifetime-20tb-for-70/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

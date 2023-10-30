@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Western Digital plans to split into two companies to focus on hard drives and flash memory, after the Western Digital-Kioxia merger collapsed; WDC jumps 12%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231030/p12#a231030p12)
+ - [Get a free $40 gift card with this Costco membership deal](https://appleinsider.com/articles/23/10/30/get-a-free-40-gift-card-with-this-costco-membership-deal?utm_medium=rss)
  - [Meta plans to temporarily suspend showing ads to all users under 18 in the EU and parts of Europe starting on November 6, to comply with EU regulations &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p11#a231030p11)
  - [The Tsubame Archax is the coolest $3 million mecha on Earth — and soon, the Moon](https://www.theverge.com/2023/10/30/23935387/tsubame-archax-mecha-suit-gundam-japan-mobility)
- - [Facebook and Instagram launch a paid ad-free subscription](https://www.theverge.com/2023/10/30/23938283/facebook-instagram-ad-free-subscription-eu)
- - [Meta plans to offer Instagram and Facebook users in the EU, EEA, and Switzerland an ad-free option for &amp;euro;9.99 or &amp;euro;12.99 per month, alongside free with ads &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231030/p10#a231030p10)
- - [These Plants Change Color When Exposed to a Pesticide](https://www.wired.com/story/these-plants-change-color-when-exposed-to-a-pesticide/)<!-- TECH:END -->
+ - [Facebook and Instagram launch a paid ad-free subscription](https://www.theverge.com/2023/10/30/23938283/facebook-instagram-ad-free-subscription-eu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

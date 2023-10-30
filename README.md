@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scary-good deals from Amazon has shoppers saving hundreds this Halloween](https://appleinsider.com/articles/23/10/30/scary-good-deals-from-amazon-has-shoppers-saving-hundreds-this-halloween?utm_medium=rss)
+ - [Source: X is giving employees RSUs at a share price of $45, implying a valuation of $19B; in March 2023, X offered employees stock at a $20B valuation &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231030/p19#a231030p19)
  - [Baidu&#39;s Chinese-language maps and Alibaba&#39;s Amap are not showing Israel&#39;s name, confusing users and matching Beijing&#39;s vague diplomacy toward the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p18#a231030p18)
  - [Apple deal makes Google &quot;seamless and easy&quot; to use -- CEO](https://appleinsider.com/articles/23/10/30/apple-deal-makes-google-seamless-and-easy-to-use----ceo?utm_medium=rss)
- - [&#39;Scary Fast&#39; adds watch parties and gift bags to an already unusual event](https://appleinsider.com/articles/23/10/30/scary-fast-adds-watch-parties-and-gift-bags-to-an-already-unusual-event?utm_medium=rss)
- - [Sony’s new PlayStation Link earbuds and headset finally have release dates](https://www.theverge.com/2023/10/30/23938722/sony-playstation-pulse-explore-elite-earbuds-headset-release-date)
- - [Google once asked Apple to preload its search app on iOS](https://www.theverge.com/2023/10/30/23938775/google-search-app-ios-built-in-antitrust)<!-- TECH:END -->
+ - [&#39;Scary Fast&#39; adds watch parties and gift bags to an already unusual event](https://appleinsider.com/articles/23/10/30/scary-fast-adds-watch-parties-and-gift-bags-to-an-already-unusual-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

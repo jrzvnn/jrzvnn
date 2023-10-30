@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pinterest Q3: revenue up 11% YoY to $763.2M vs. $743.5M est., global MAUs up 8% YoY to 482M vs. 473M est., ARPU up 3% YoY to $1.61 vs. $1.59 est.; $PINS up 10%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231030/p22#a231030p22)
  - [Matthew Perry Deserved Better Than #DiedSuddenly](https://www.wired.com/story/matthew-perry-death-died-suddenly-conspiracy-theory-online/)
  - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)
  - [Porsche is adding Google to its cars as VW’s software problems worsen](https://www.theverge.com/2023/10/30/23938741/porsche-google-built-in-vw-cariad-layoffs)
- - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
- - [SBF blamed top FTX execs on day two of testimony, and lawyers disputed his answers by confronting him with his own emails, chats, tweets, and more, some profane &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/231030/p21#a231030p21)<!-- TECH:END -->
+ - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

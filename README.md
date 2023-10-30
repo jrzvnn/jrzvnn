@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s online store is down ahead of Scary Fast Mac event](https://appleinsider.com/articles/23/10/30/apples-online-store-is-down-ahead-of-scary-fast-mac-event?utm_medium=rss)
  - [Samsung Galaxy Z Fold 4 Deals: $180 Off Unlocked, $800 Off Carrier Models     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)
  - [Best 4K TV Deals: Save Up to $500 on Big Brands     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
  - [All the news from Apple’s ‘Scary Fast’ Mac event](https://www.theverge.com/2023/10/30/23933672/apple-event-mac-october-news-updates-products-scary-fast)
- - [Best Earbuds and Headphones for Working Out for 2023     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Raiders vs. Lions Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-raiders-vs-lions-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Earbuds and Headphones for Working Out for 2023     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

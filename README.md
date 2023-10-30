@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppenheimer lowers AAPL target to $200 ahead of earnings](https://appleinsider.com/articles/23/10/30/oppenheimer-lowers-aapl-target-to-200-ahead-of-earnings?utm_medium=rss)
  - [Mastodon’s latest update makes it easier to follow the news](https://www.theverge.com/2023/10/30/23938639/mastodon-lists-android-update-news)
  - [Qualcomm invited press to a private event to showcase the Snapdragon X Elite, slated for mid-2024, competing favorably in benchmarks against other select chips &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231030/p17#a231030p17)
  - [How to use Translate with the Action Button in iOS 17.2](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
- - [Samsung adds DisplayPort and more Multi View options to second massive Ark monitor](https://www.theverge.com/2023/10/30/23938589/samsung-55-inch-odyssey-ark-2nd-gen-g97nc-gaming-monitor-price-release-date-specs-features)
- - [SSI Beneficiaries Are Getting a COLA Increase This December. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-are-getting-a-cola-increase-this-december-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung adds DisplayPort and more Multi View options to second massive Ark monitor](https://www.theverge.com/2023/10/30/23938589/samsung-55-inch-odyssey-ark-2nd-gen-g97nc-gaming-monitor-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Plants Change Color When Exposed to a Pesticide](https://www.wired.com/story/these-plants-change-color-when-exposed-to-a-pesticide/)
- - [Acer Swift Edge 16 Review: Big Screen, Reasonable Price](https://www.wired.com/review/acer-swift-edge-16/)
- - [Razer Blade 14 Review: A PC Replacement](https://www.wired.com/review/razer-blade-14/)
- - [Resident Evil Village on the iPhone could be a preview of Apple’s gaming future](https://www.theverge.com/2023/10/30/23935357/resident-evil-village-iphone-preview-apple-mac-gaming-future)
- - [Analysis: 126 companies have cancelled or suspended IPO applications on Shanghai&#39;s tech-focused Star Market in 2023, more than the previous four years combined &lpar;Financial Times&rpar;](http://www.techmeme.com/231030/p9#a231030p9)<!-- TECH:END -->
+ - [Meta plans to temporarily suspend showing ads to all users under 18 in the EU and parts of Europe starting on November 6, to comply with EU regulations &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p11#a231030p11)
+ - [The Tsubame Archax is the coolest $3 million mecha on Earth — and soon, the Moon](https://www.theverge.com/2023/10/30/23935387/tsubame-archax-mecha-suit-gundam-japan-mobility)
+ - [Facebook and Instagram launch a paid ad-free subscription](https://www.theverge.com/2023/10/30/23938283/facebook-instagram-ad-free-subscription-eu)
+ - [Meta plans to offer Instagram and Facebook users in the EU, EEA, and Switzerland an ad-free option for &amp;euro;9.99 or &amp;euro;12.99 per month, alongside free with ads &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/231030/p10#a231030p10)
+ - [These Plants Change Color When Exposed to a Pesticide](https://www.wired.com/story/these-plants-change-color-when-exposed-to-a-pesticide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

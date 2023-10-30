@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM was the last of the Big Three to reach an agreement.](https://www.theverge.com/2023/10/30/23938368/gm-uaw-tentative-deal-strike-autoworker-ev)
  - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)
  - [Tivoli Pal BT Review: A Colorful Radio](https://www.wired.com/review/tivoli-audio-pal-bt/)
  - [Google Calendar Now Makes It Easier to Find a Time to Meet. Here&#39;s How](https://www.wired.com/story/google-calendar-find-time-to-meet-appointment-scheduler/)
- - [Meta’s AI research head wants open source licensing to change](https://www.theverge.com/2023/10/30/23935587/meta-generative-ai-models-open-source)
- - [Western Digital plans to split into two companies to focus on hard drives and flash memory, after the Western Digital-Kioxia merger collapsed; WDC jumps 12%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231030/p12#a231030p12)<!-- TECH:END -->
+ - [Meta’s AI research head wants open source licensing to change](https://www.theverge.com/2023/10/30/23935587/meta-generative-ai-models-open-source)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

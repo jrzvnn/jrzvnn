@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
+ - 😝 [How the tables are turning...](http://9gag.com/gag/avQqmpM)
+ - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - 💣 [Food for thought?](http://9gag.com/gag/aNwM396)
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 👉 [Speaking from experience](http://9gag.com/gag/adPAbXB)<!-- MEMES:END -->
 
 ---
 

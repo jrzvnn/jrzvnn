@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
  - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
  - 💣 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
+ - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 👉 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)<!-- MEMES:END -->
 
 ---
 

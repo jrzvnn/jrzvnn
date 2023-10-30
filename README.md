@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Western Digital plans to split into two companies to focus on hard drives and flash memory, after the Western Digital-Kioxia merger collapsed; WDC jumps 12%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231030/p12#a231030p12)
- - [Get a free $40 gift card with this Costco membership deal](https://appleinsider.com/articles/23/10/30/get-a-free-40-gift-card-with-this-costco-membership-deal?utm_medium=rss)
- - [Meta plans to temporarily suspend showing ads to all users under 18 in the EU and parts of Europe starting on November 6, to comply with EU regulations &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p11#a231030p11)
- - [The Tsubame Archax is the coolest $3 million mecha on Earth — and soon, the Moon](https://www.theverge.com/2023/10/30/23935387/tsubame-archax-mecha-suit-gundam-japan-mobility)
- - [Facebook and Instagram launch a paid ad-free subscription](https://www.theverge.com/2023/10/30/23938283/facebook-instagram-ad-free-subscription-eu)<!-- TECH:END -->
+ - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)
+ - [Tivoli Pal BT Review: A Colorful Radio](https://www.wired.com/review/tivoli-audio-pal-bt/)
+ - [Google Calendar Now Makes It Easier to Find a Time to Meet. Here&#39;s How](https://www.wired.com/story/google-calendar-find-time-to-meet-appointment-scheduler/)
+ - [Meta’s AI research head wants open source licensing to change](https://www.theverge.com/2023/10/30/23935587/meta-generative-ai-models-open-source)
+ - [Western Digital plans to split into two companies to focus on hard drives and flash memory, after the Western Digital-Kioxia merger collapsed; WDC jumps 12%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/231030/p12#a231030p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

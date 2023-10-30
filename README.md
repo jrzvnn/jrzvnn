@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Web Summit names Katherine Maher, the former Wikimedia Foundation head, as its new CEO, replacing co-founder Paddy Cosgrave, ahead of the event on November 13 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/231030/p7#a231030p7)
+ - [A Personalized Brain Implant Curbed a Woman’s OCD](https://www.wired.com/story/a-personalized-brain-implant-curbed-a-womans-ocd/)
+ - [Where You Live Is As Important As What You Eat](https://www.wired.com/story/wired-impact-cities-health/)
  - [Filing: Thailand&#39;s Kasikorn Bank buys 97% of the Satang crypto exchange, operating in Thailand since 2017, for ~$102.8M and plans to rebrand Satang to Orbix &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231030/p6#a231030p6)
- - [Microsoft starts blocking ‘unauthorized’ Xbox controllers and accessories](https://www.theverge.com/2023/10/30/23938206/microsoft-xbox-controller-block-unauthorized-accessory-error-0x82d60002)
- - [Ad holding company Omnicom agrees to acquire Flywheel, the digital commerce arm of UK-based B2B media company Ascential, for a net cash purchase price of ~$835M &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p5#a231030p5)
- - [Best Handheld Game Consoles of 2023     - CNET](https://www.cnet.com/tech/gaming/best-handheld-game-console/#ftag=CAD590a51e)
- - [Generative AI Is Playing a Surprising Role in Israel-Hamas Disinformation](https://www.wired.com/story/israel-hamas-war-generative-artificial-intelligence-disinformation/)<!-- TECH:END -->
+ - [Microsoft starts blocking ‘unauthorized’ Xbox controllers and accessories](https://www.theverge.com/2023/10/30/23938206/microsoft-xbox-controller-block-unauthorized-accessory-error-0x82d60002)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

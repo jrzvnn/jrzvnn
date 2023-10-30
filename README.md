@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden signs an EO on generative AI, directing the NIST, DHS, and other agencies to create new safety standards, protect privacy, support workers, and more &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/231030/p2#a231030p2)
  - [Joe Biden’s Sweeping New Executive Order Aims to Drag the US Government into the Age of ChatGPT](https://www.wired.com/story/joe-bidens-executive-order-ai-us-government-chatgpt/)
  - [Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards)
  - [A look at blue-collar influencers, including a trucker, a shepherd, and a fisherman, who have amassed large audiences by posting short videos of their workday &lpar;Steven Kurutz/New York Times&rpar;](http://www.techmeme.com/231030/p1#a231030p1)
- - [Upgrading to iOS 17? You&#39;ll Want to Back Up Your Device Before Updating     - CNET](https://www.cnet.com/tech/mobile/upgrading-to-ios-17-youll-want-to-back-up-your-device-before-updating/#ftag=CAD590a51e)
- - [26 Amazing Gift Cards for Everyone on Your Holiday List     - CNET](https://www.cnet.com/news/best-gift-cards-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrading to iOS 17? You&#39;ll Want to Back Up Your Device Before Updating     - CNET](https://www.cnet.com/tech/mobile/upgrading-to-ios-17-youll-want-to-back-up-your-device-before-updating/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

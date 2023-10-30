@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new PlayStation Link earbuds and headset finally have release dates](https://www.theverge.com/2023/10/30/23938722/sony-playstation-pulse-explore-elite-earbuds-headset-release-date)
+ - [Google once asked Apple to preload its search app on iOS](https://www.theverge.com/2023/10/30/23938775/google-search-app-ios-built-in-antitrust)
  - [Oppenheimer lowers AAPL target to $200 ahead of earnings](https://appleinsider.com/articles/23/10/30/oppenheimer-lowers-aapl-target-to-200-ahead-of-earnings?utm_medium=rss)
- - [Mastodon’s latest update makes it easier to follow the news](https://www.theverge.com/2023/10/30/23938639/mastodon-lists-android-update-news)
- - [Qualcomm invited press to a private event to showcase the Snapdragon X Elite, slated for mid-2024, competing favorably in benchmarks against other select chips &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231030/p17#a231030p17)
- - [How to use Translate with the Action Button in iOS 17.2](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
- - [Samsung adds DisplayPort and more Multi View options to second massive Ark monitor](https://www.theverge.com/2023/10/30/23938589/samsung-55-inch-odyssey-ark-2nd-gen-g97nc-gaming-monitor-price-release-date-specs-features)<!-- TECH:END -->
+ - [Best Gaming Laptop Deals: Massive Savings on Alienware, HP Omen, Acer and more     - CNET](https://www.cnet.com/deals/best-gaming-laptop-deals/#ftag=CAD590a51e)
+ - [Best Buy&#39;s Early Black Friday Sale Brings Big Savings on Tech and More     - CNET](https://www.cnet.com/deals/best-buys-early-black-friday-sale-brings-big-savings-on-tech-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s Q4 2023 earnings report](https://appleinsider.com/articles/23/10/30/what-to-expect-from-apples-q4-2023-earnings-report?utm_medium=rss)
+ - [Gambling streams are ‘part of the contract’ for Kick’s newest streamer](https://www.theverge.com/2023/10/30/23938853/kick-nickmercs-gambling-contract-stake)
  - [Sundar Pichai argues in court that Google isn’t evil, it’s just a business](https://www.theverge.com/2023/10/30/23939043/us-v-google-sundar-pichai-testimony)
  - [US Office of Personnel Management report: about 632K employees at the DOD and DOJ had their emails compromised as part of the MOVEit hacks in May 2023 &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/231030/p23#a231030p23)
- - [Pinterest Q3: revenue up 11% YoY to $763.2M vs. $743.5M est., global MAUs up 8% YoY to 482M vs. 473M est., ARPU up 3% YoY to $1.61 vs. $1.59 est.; $PINS up 10%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231030/p22#a231030p22)
- - [Matthew Perry Deserved Better Than #DiedSuddenly](https://www.wired.com/story/matthew-perry-death-died-suddenly-conspiracy-theory-online/)
- - [Hands on with Apple&#39;s new Journal app for iPhone](https://appleinsider.com/articles/23/10/30/hands-on-with-apples-new-journal-app-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Pinterest Q3: revenue up 11% YoY to $763.2M vs. $743.5M est., global MAUs up 8% YoY to 482M vs. 473M est., ARPU up 3% YoY to $1.61 vs. $1.59 est.; $PINS up 10%+ &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/231030/p22#a231030p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

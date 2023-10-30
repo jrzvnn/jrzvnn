@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Filing: Thailand&#39;s Kasikorn Bank buys 97% of the Satang crypto exchange, operating in Thailand since 2017, for ~$102.8M and plans to rebrand Satang to Orbix &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/231030/p6#a231030p6)
  - [Microsoft starts blocking ‘unauthorized’ Xbox controllers and accessories](https://www.theverge.com/2023/10/30/23938206/microsoft-xbox-controller-block-unauthorized-accessory-error-0x82d60002)
  - [Ad holding company Omnicom agrees to acquire Flywheel, the digital commerce arm of UK-based B2B media company Ascential, for a net cash purchase price of ~$835M &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/231030/p5#a231030p5)
- - [Generative AI Is Playing a Surprising Role in Israel-Hamas Disinformation](https://www.wired.com/story/israel-hamas-war-generative-artificial-intelligence-disinformation/)
- - [Google details its research into audioplethysmography &lpar;APG&rpar;, which can add heart rate sensing capabilities to ANC headphones &quot;with a simple software upgrade&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231030/p4#a231030p4)<!-- TECH:END -->
+ - [Best Handheld Game Consoles of 2023     - CNET](https://www.cnet.com/tech/gaming/best-handheld-game-console/#ftag=CAD590a51e)
+ - [Generative AI Is Playing a Surprising Role in Israel-Hamas Disinformation](https://www.wired.com/story/israel-hamas-war-generative-artificial-intelligence-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

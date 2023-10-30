@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
  - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 💣 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
- - 😝 [We should pay them back in their own coin](http://9gag.com/gag/az2yOwB)
- - 👉 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)<!-- MEMES:END -->
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 👉 [More in comments](http://9gag.com/gag/aYV6qgO)<!-- MEMES:END -->
 
 ---
 

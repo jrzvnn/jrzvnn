@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie delaying Destiny 2 and Marathon games amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
+ - [SBF blamed top FTX execs on day two of testimony, and lawyers disputed his answers by confronting him with his own emails, chats, tweets, and more, some profane &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/231030/p21#a231030p21)
  - [US v. Google: Sundar Pichai floated preloading a Google app on iOS to Tim Cook in 2018, amid Apple&#39;s concerns of lower revenue growth from their rev-share deal &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231030/p20#a231030p20)
  - [X is officially worth less than half of what Elon Musk paid for it](https://www.theverge.com/2023/10/30/23938969/x-twitter-valuation-19-billion-employee-shares)
- - [Scary-good deals from Amazon has shoppers saving hundreds this Halloween](https://appleinsider.com/articles/23/10/30/scary-good-deals-from-amazon-has-shoppers-saving-hundreds-this-halloween?utm_medium=rss)
- - [Source: X is giving employees RSUs at a share price of $45, implying a valuation of $19B; in March 2023, X offered employees stock at a $20B valuation &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/231030/p19#a231030p19)
- - [Grab the Ninja Foodi XL 6-in-1 Air Fryer for Just $130 &lpar;Save $120&rpar;     - CNET](https://www.cnet.com/deals/grab-the-ninja-foodi-xl-6-in-1-air-fryer-for-just-130/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scary-good deals from Amazon has shoppers saving hundreds this Halloween](https://appleinsider.com/articles/23/10/30/scary-good-deals-from-amazon-has-shoppers-saving-hundreds-this-halloween?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

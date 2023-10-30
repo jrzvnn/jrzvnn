@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Amazon Robotics Chief Technologist Tye Brady on testing Agility&#39;s bipedal robot Digit at Amazon, coding robotic systems with CodeWhisperer, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231029/p12#a231029p12)
+ - [An interview with Vinod Khosla on the investor frenzy around AI, why the US should use all the tools at its disposal to win the AI race with China, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231029/p11#a231029p11)
  - [ChatGPT Plus users report an &quot;All Tools&quot; feature and capabilities for analyzing docs like PDFs have been added, potentially sidelining 3rd-party ChatGPT plugins &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231029/p10#a231029p10)
  - [Apple gifts influencers AirPods Max before Monday&#39;s &#39;Spatial&#39; event](https://appleinsider.com/articles/23/10/29/apple-gifts-influencers-airpods-max-before-mondays-spatial-event?utm_medium=rss)
- - [ChatGPT Plus members can upload and analyze files in the latest beta](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis)
- - [Elon Musk says X posts corrected by Community Notes will be &quot;ineligible for revenue share&quot; in order to &quot;maximize the incentive for accuracy over sensationalism&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/231029/p9#a231029p9)
- - [YouTube’s NFL Sunday Ticket streams are failing today](https://www.theverge.com/2023/10/29/23937429/nfl-sunday-ticket-youtube-tv-buffering-glitch)<!-- TECH:END -->
+ - [ChatGPT Plus members can upload and analyze files in the latest beta](https://www.theverge.com/2023/10/29/23937497/chatgpt-plus-new-beta-all-tools-update-pdf-data-analysis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

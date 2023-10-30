@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
  - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 ---

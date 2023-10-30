@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This app is making podcasts more TikTokable](https://www.theverge.com/2023/10/30/23938456/tiktok-video-podcast-spotify-youtube-instagram)
+ - [Apple’s best move is giving us what we want](https://www.theverge.com/2023/10/30/23934824/apple-big-imac-m3-scary-fast-event)
  - [Ta-ta, Wistron: Indian iPhone operations go local](https://appleinsider.com/articles/23/10/30/ta-ta-wistron-indian-iphone-operations-go-local?utm_medium=rss)
  - [Sam Bankman-Fried Built a Crypto Paradise in the Bahamas—Now He&#39;s a Bad Memory](https://www.wired.com/story/sam-bankman-fried-crypto-paradise-bahamas/)
- - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)
- - [Graphic pro-Israel ads are appearing in kids&#39; video games, including Angry Birds, in the UK and elsewhere; Israel has spent $1.5M on online ads since October 7 &lpar;Reuters&rpar;](http://www.techmeme.com/231030/p15#a231030p15)
- - [Smart chicken coops, iOS 17.1, and suitcase TVs on HomeKit Insider](https://appleinsider.com/articles/23/10/30/smart-chicken-coops-ios-171-and-suitcase-tvs-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [The Halloween 2023 StoryScream: things to play and watch this spooky season](https://www.theverge.com/23911556/halloween-2023-games-movies-tv-streaming-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

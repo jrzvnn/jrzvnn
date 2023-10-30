@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 💣 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
- - 😝 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
+ - 😝 [Popped](http://9gag.com/gag/a9qwO5o)
+ - 😝 [Must be nice to get this look](http://9gag.com/gag/az2yY3z)
+ - 💣 [The mighty programmer](http://9gag.com/gag/az2yZnp)
+ - 😝 [LOL! This Lesbian Nana Halloween costume is pretty scary.](http://9gag.com/gag/awZjeNr)
+ - 👉 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
 
 ---
 

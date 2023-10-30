@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 😝 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
+ - 😝 [Share the worst moment of the `new trilogy`](http://9gag.com/gag/a1Pg5y2)
  - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 😝 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)
- - 👉 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)<!-- MEMES:END -->
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 👉 [I&#39;ve made a huge mistake..](http://9gag.com/gag/aL1oApA)<!-- MEMES:END -->
 
 ---
 

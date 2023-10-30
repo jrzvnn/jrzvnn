@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)
  - [Best VPNs for Xbox in 2023: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
  - [Android 14 review: an unexciting release for consumers, featuring a lightly customizable lock screen and improved back button functionality &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/231029/p13#a231029p13)
  - [Q&amp;A with Amazon Robotics Chief Technologist Tye Brady on testing Agility&#39;s bipedal robot Digit at Amazon, coding robotic systems with CodeWhisperer, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231029/p12#a231029p12)
- - [An interview with Vinod Khosla on the investor frenzy around AI, why the US should use all the tools at its disposal to win the AI race with China, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231029/p11#a231029p11)
- - [ChatGPT Plus users report an &quot;All Tools&quot; feature and capabilities for analyzing docs like PDFs have been added, potentially sidelining 3rd-party ChatGPT plugins &lpar;Kristi Hines/Search Engine Journal&rpar;](http://www.techmeme.com/231029/p10#a231029p10)<!-- TECH:END -->
+ - [An interview with Vinod Khosla on the investor frenzy around AI, why the US should use all the tools at its disposal to win the AI race with China, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/231029/p11#a231029p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Qualcomm invited press to a private event to showcase the Snapdragon X Elite, slated for mid-2024, competing favorably in benchmarks against other select chips &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/231030/p17#a231030p17)
  - [How to use Translate with the Action Button in iOS 17.2](https://appleinsider.com/inside/ios-17/vs/how-to-use-translate-with-the-action-button-in-ios-172?utm_medium=rss)
  - [Samsung adds DisplayPort and more Multi View options to second massive Ark monitor](https://www.theverge.com/2023/10/30/23938589/samsung-55-inch-odyssey-ark-2nd-gen-g97nc-gaming-monitor-price-release-date-specs-features)
- - [Three M3 chips could land in Monday&#39;s Mac line refresh](https://appleinsider.com/articles/23/10/29/three-m3-chips-could-land-in-mondays-mac-line-refresh?utm_medium=rss)<!-- TECH:END -->
+ - [SSI Beneficiaries Are Getting a COLA Increase This December. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-are-getting-a-cola-increase-this-december-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

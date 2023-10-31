@@ -166,8 +166,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
  - 😝 [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
- - 💣 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)
- - 😝 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 😝 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)
  - 👉 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)<!-- MEMES:END -->
 
 ---

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gradually rolls out new firmware for AirTag](https://appleinsider.com/articles/23/10/31/apple-gradually-rolls-out-new-firmware-for-airtag?utm_medium=rss)
  - [Ahead of the UK&#39;s AI Summit, set to host Elon Musk, VP Harris, and others, the UK has highlighted doomsday scenarios while the US has focused on tangible issues &lpar;Washington Post&rpar;](http://www.techmeme.com/231031/p30#a231031p30)
  - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning)
  - [The 27 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Deltarune’s next chapter is nearly finished](https://www.theverge.com/2023/10/31/23940643/deltarune-chapter-3-release-schedule-toby-fox)
- - [Twitch ditches Switch](https://www.theverge.com/2023/10/31/23940753/twitch-nintendo-switch-app-end-support)<!-- TECH:END -->
+ - [Best Dishwasher of 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dishwasher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

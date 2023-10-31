@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s second-gen AirPods Pro with USB-C are matching their all-time low](https://www.theverge.com/2023/10/31/23938628/apple-airpods-pro-usb-c-lg-a2-oled-tv-google-chromecast-hd-deal-sale)
+ - [Goodbye, Touch Bar, you held incredible promise](https://www.theverge.com/2023/10/31/23938841/apple-macbook-pro-touch-bar-discontinued-proof-of-concept)
  - [Daily deals Oct. 31: LG OLED TV $549, Beats Studio Buds $99, Amazon Fire TV Stick $19, more](https://appleinsider.com/articles/23/10/31/daily-deals-oct-31-lg-oled-tv-549-beats-studio-buds-99-amazon-fire-tv-stick-19-more?utm_medium=rss)
  - [Silent Hill: Ascension is a streaming show with the frills of a multiplayer game](https://www.theverge.com/2023/10/31/23938524/silent-hill-ascension-iphone-android-release-date)
- - [AI is on a collision course with music — Reservoir’s Golnar Khosrowshahi thinks there’s a way through](https://www.theverge.com/23938498/golnar-khosrowshahi-reservoir-media-ai-music-copyright-publishing-decoder-interview)
- - [A look at the creators who report and aggregate news on TikTok, YouTube, Instagram, and others, as people under 35 move away from traditional news sources &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/231031/p21#a231031p21)
- - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [AI is on a collision course with music — Reservoir’s Golnar Khosrowshahi thinks there’s a way through](https://www.theverge.com/23938498/golnar-khosrowshahi-reservoir-media-ai-music-copyright-publishing-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

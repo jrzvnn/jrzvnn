@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 27 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Deltarune’s next chapter is nearly finished](https://www.theverge.com/2023/10/31/23940643/deltarune-chapter-3-release-schedule-toby-fox)
+ - [Twitch ditches Switch](https://www.theverge.com/2023/10/31/23940753/twitch-nintendo-switch-app-end-support)
  - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
- - [Tesla wins its first trial in the US over allegations that Autopilot led to a death, in a jury trial in California state court &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p29#a231031p29)
- - [Apple ‘Scary Fast’ Mac launch event: the 4 biggest announcements](https://www.theverge.com/2023/10/30/23938867/apple-m3-imac-macbook-pro-biggest-announcements-m3)
- - [How Telegram Became a Terrifying Weapon in the Israel-Hamas War](https://www.wired.com/story/telegram-hamas-israel-conflict/)
- - [Tesla wins another court case by arguing fatal Autopilot crash was caused by human error](https://www.theverge.com/2023/10/31/23940693/tesla-jury-autopilot-win-liable-micah-lee)<!-- TECH:END -->
+ - [Tesla wins its first trial in the US over allegations that Autopilot led to a death, in a jury trial in California state court &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p29#a231031p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

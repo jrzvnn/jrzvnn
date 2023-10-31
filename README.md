@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: new US rules may compel Nvidia to cancel $5B+ in 2024 orders for its chips in China; Nvidia had already fulfilled its 2023 orders before the controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p12#a231031p12)
  - [Biden&#39;s EO on AI tries to chart a middle path by letting AI development continue with modest new rules and signaling the government plans to monitor AI progress &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231031/p11#a231031p11)
  - [Belkin launches new BoostCharge Pro 2-in-1 MagSafe &amp; Apple Watch charger](https://appleinsider.com/articles/23/10/31/belkin-launches-new-boostcharge-pro-2-in-1-magsafe-apple-watch-charger?utm_medium=rss)
  - [Sources: Alibaba is pressuring Tmall and Taobao merchants to offer rock-bottom prices during Singles Day, which ends on November 11, or risk losing traffic &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p10#a231031p10)
- - [November SSDI Check 2023: Payments Will Start to Go Out This Week     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-payments-are-coming-this-week/#ftag=CAD590a51e)
- - [Best Christmas Gifts 2023: Early Ideas for This Year&#39;s Holiday Shopping     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [November SSDI Check 2023: Payments Will Start to Go Out This Week     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-payments-are-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

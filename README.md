@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
+ - [Quick fix: restore Chrome download notifications to the bottom of the page](https://www.theverge.com/23834353/chrome-download-flag-how-to)
  - [Here’s where you can preorder Apple’s new M3-powered Macs](https://www.theverge.com/23938865/apple-imac-macbook-pro-m3-max-preorder-how-to-buy-release-date-price)
  - [How to use the Pixel Watch 2’s safety features](https://www.theverge.com/23933351/pixel-watch-2-safety-check-safety-signal-how-to)
- - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)
- - [Apple Watch: Options for Protecting Your Wearable     - CNET](https://www.cnet.com/tech/mobile/apple-watch-options-for-protecting-your-wearable/#ftag=CAD590a51e)
- - [Skyview 2 Wellness Lamp Review: An Artificial Sun for Your Room](https://www.wired.com/review/skyview-2-wellness-lamp/)<!-- TECH:END -->
+ - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

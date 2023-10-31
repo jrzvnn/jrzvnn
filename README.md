@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is it?](http://9gag.com/gag/aeQzPyj)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
  - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - 💣 [Proud dad](http://9gag.com/gag/awZjvmR)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Police ad in The Netherlands: Do you see the kid in picture 2? Dress your children in bright clothes in the winter!](http://9gag.com/gag/adPA44M)<!-- MEMES:END -->
+ - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 
 ---
 

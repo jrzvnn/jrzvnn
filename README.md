@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
  - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)
  - [Owala HallOwalaween Sale &lpar;2023&rpar;: 25 Percent off FreeSip Water Bottle, Pet Water Bowl, and More](https://www.wired.com/story/owala-deals-october-31-2023/)
  - [Alibaba unveils Tongyi Qianwen 2 LLM with &quot;hundreds of billions of&quot; parameters and 8 industry-specific models for entertainment, finance, healthcare, and legal &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231031/p3#a231031p3)
- - [Canada bans WeChat and Moscow-based Kaspersky on government-issued mobile devices as they &quot;present an unacceptable level of risk to privacy and security&quot; &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/231031/p2#a231031p2)
- - [A US judge dismissed AI copyright infringement claims against Midjourney and DeviantArt by three artists, but allowed a claim against Stability AI to proceed &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/231031/p1#a231031p1)<!-- TECH:END -->
+ - [Canada bans WeChat and Moscow-based Kaspersky on government-issued mobile devices as they &quot;present an unacceptable level of risk to privacy and security&quot; &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/231031/p2#a231031p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

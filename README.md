@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shield AI, which makes autonomous drones and other military tech for the US and its allies, raised $200M co-led by USIT and Riot Ventures at a $2.7B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231031/p19#a231031p19)
- - [Atari is buying the developer behind its excellent 50th anniversary retro compilation](https://www.theverge.com/2023/10/31/23940074/atari-digital-eclipse-acquisition-50-anniversary-celebration-interactive-documentaries)
- - [Here’s what Apple really means when it says ‘shot on iPhone’](https://www.theverge.com/2023/10/31/23940060/apple-event-shot-on-iphone-behind-the-scenes)
- - [M1 24-inch iMac vs M3 21-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
- - [Apple&#39;s stock dropped 11% since its Q3 results on August 3, erasing nearly $400B in value, the first year since 2015 that AAPL slid between WWDC and Q4 earnings &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p18#a231031p18)<!-- TECH:END -->
+ - [Here’s where you can preorder Apple’s new M3-powered Macs](https://www.theverge.com/23938865/apple-imac-macbook-pro-m3-max-preorder-how-to-buy-release-date-price)
+ - [How to use the Pixel Watch 2’s safety features](https://www.theverge.com/23933351/pixel-watch-2-safety-check-safety-signal-how-to)
+ - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)
+ - [Skyview 2 Wellness Lamp Review: An Artificial Sun for Your Room](https://www.wired.com/review/skyview-2-wellness-lamp/)
+ - [Everyone Was Wrong About Why Cats Purr](https://www.wired.com/story/everyone-was-wrong-why-cats-purr/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

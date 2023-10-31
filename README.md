@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
- - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 😝 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 😝 [The face of the ice hockey player who raised his leg and slashed the neck of Adam Johnson, killing him. The media won&#39;t show you this &lpar;why lol&rpar;](http://9gag.com/gag/axoKAdL)
+ - 👉 [I mean seriously...!](http://9gag.com/gag/a1PgE5w)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
+ - 😝 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
+ - 😝 [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
+ - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 😝 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)
+ - 👉 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)<!-- MEMES:END -->
 
 ---
 

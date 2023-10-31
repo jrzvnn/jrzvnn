@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)
+ - [M2 MacBook Pro vs M3 MacBook Pro -- specs, features compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-vs-m3-macbook-pro----specs-features-compared?utm_medium=rss)
  - [M3 24-inch iMac vs M1 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
  - [Sources: WeWork plans to file for Chapter 11 bankruptcy as early as next week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p38#a231031p38)
- - [M2 versus M3: how the new MacBook Pros compare](https://www.theverge.com/23940183/apple-macbook-pro-m3-vs-m2-pro-max-comparison)
- - [Google and Match Group say they&#39;ve reached a settlement in an app store antitrust case, letting Match implement third-party billing options by March 31, 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231031/p37#a231031p37)
- - [YouTube says it &quot;launched a global effort&quot; to encourage users with ad blockers to allow ads or try YouTube Premium, after a &quot;small experiment&quot; earlier this year &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231031/p36#a231031p36)<!-- TECH:END -->
+ - [M2 versus M3: how the new MacBook Pros compare](https://www.theverge.com/23940183/apple-macbook-pro-m3-vs-m2-pro-max-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

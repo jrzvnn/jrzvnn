@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 💣 [You guys are screwed!](http://9gag.com/gag/amAQpAo)
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 👉 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)<!-- MEMES:END -->
+ - 😝 [Amateur.](http://9gag.com/gag/a4ogr9y)
+ - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 💣 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
+ - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
+ - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
 
 ---
 

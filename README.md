@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its worth it](http://9gag.com/gag/aME7OwP)
- - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 💣 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 😝 [A dream](http://9gag.com/gag/a7qgn4m)
- - 👉 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)<!-- MEMES:END -->
+ - 😝 [Just a reminder](http://9gag.com/gag/aDY9P37)
+ - 😝 [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
+ - 👉 [A dream](http://9gag.com/gag/a7qgn4m)<!-- MEMES:END -->
 
 ---
 

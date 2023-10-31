@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Apple&#39;s &quot;Scary Fast&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/231030/p27#a231030p27)
- - [A live blog of Apple&#39;s &quot;Scary Fast&quot; event, where high-end MacBook Pros with M3 Pro and M3 Max, a new 24-inch iMac with an M3, and more are expected &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/231030/p26#a231030p26)
- - [Apple&#39;s online store is down ahead of Scary Fast Mac event](https://appleinsider.com/articles/23/10/30/apples-online-store-is-down-ahead-of-scary-fast-mac-event?utm_medium=rss)
- - [Samsung Galaxy Z Fold 4 Deals: $180 Off Unlocked, $800 Off Carrier Models     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)
- - [Best 4K TV Deals: Save Up to $500 on Big Brands     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RIP Touch Bar -- Apple sends the 13-inch MacBook Pro to the grave](https://appleinsider.com/articles/23/10/31/rip-touch-bar----apple-sends-the-13-inch-macbook-pro-to-the-grave?utm_medium=rss)
+ - [Apple says &quot;All presenters, locations, and drone footage&quot; in the pre-recorded &quot;Scary Fast&quot; event video was shot on iPhone 15 Pro Max &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231030/p33#a231030p33)
+ - [Apple discontinues the 13-inch MacBook Pro, the last Mac with a Touch Bar, with the company only offering 14-inch and 16-inch Macbook Pro models &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/231030/p32#a231030p32)
+ - [New 14-inch &amp; 16-inch MacBook Pro sport M3, and come in black](https://appleinsider.com/articles/23/10/31/new-14-inch-macbook-pro-16-inch-macbook-pro-sport-m3-m3-pro-max-chips?utm_medium=rss)
+ - [New Apple Silicon has arrived with M3, M3 Pro, and M3 Max chips](https://appleinsider.com/articles/23/10/31/new-apple-silicon-has-arrived-with-m3-m3-pro-and-m3-max-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

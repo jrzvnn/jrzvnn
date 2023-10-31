@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is it?](http://9gag.com/gag/aeQzPyj)
- - 😝 [Police ad in The Netherlands: Do you see the kid in picture 2? Dress your children in bright clothes in the winter!](http://9gag.com/gag/adPA44M)
- - 💣 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
+ - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 💣 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 👉 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)<!-- MEMES:END -->
 
 ---
 

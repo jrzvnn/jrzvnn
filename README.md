@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CCData: almost a year since FTX collapsed, monthly spot trading volume at crypto exchanges dropped from $922.9B in October 2022 to $461.3B in October 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p13#a231031p13)
  - [The Internet Is Thirsty for &#39;Twilight&#39;—Again](https://www.wired.com/story/twilight-15th-anniversary-internet-remembers/)
  - [Apple, Google, and Microsoft Just Patched Some Spooky Security Flaws](https://www.wired.com/story/apple-google-microsoft-critical-update-october-2023/)
  - [These 3 Books Are Perfect for the Aspiring Witch](https://www.wired.com/story/the-modern-witchcraft-introductory-boxed-set-rave/)
- - [How to Measure the Calories in a Candy Bar—With Physics!](https://www.wired.com/story/how-to-measure-the-calories-in-a-candy-bar-with-physics/)
- - [Sources: new US rules may compel Nvidia to cancel $5B+ in 2024 orders for its chips in China; Nvidia had already fulfilled its 2023 orders before the controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p12#a231031p12)<!-- TECH:END -->
+ - [How to Measure the Calories in a Candy Bar—With Physics!](https://www.wired.com/story/how-to-measure-the-calories-in-a-candy-bar-with-physics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

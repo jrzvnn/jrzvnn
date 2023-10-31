@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)
  - [A lament for the Touch Bar](https://appleinsider.com/articles/23/10/31/a-lament-for-the-touch-bar?utm_medium=rss)
  - [The best robot vacuum for me is the one I hacked](https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking)
  - [Apple AirPods Pro 2 USB-C return to record low $189.99 during Amazon&#39;s early Black Friday sale](https://appleinsider.com/articles/23/10/31/apple-airpods-pro-2-usb-c-return-to-record-low-18999-during-amazons-early-black-friday-sale?utm_medium=rss)
- - [News Media Alliance study: AI chatbot developers rely more on articles than generic web content to train AI; NMA says this shows AI companies violate copyright &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/231031/p22#a231031p22)
- - [A day in the life of a delivery robot](https://www.theverge.com/23930378/serve-delivery-robot-la-day-in-life-tiktok)<!-- TECH:END -->
+ - [News Media Alliance study: AI chatbot developers rely more on articles than generic web content to train AI; NMA says this shows AI companies violate copyright &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/231031/p22#a231031p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

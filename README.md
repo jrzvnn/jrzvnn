@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: China&#39;s Big Fund invests $1.99B in DRAM maker Changxin Xinqiao, or 33.15% of its total registered capital, part of plans to build 12-inch memory wafers &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p7#a231031p7)
  - [Taiwan&#39;s Powerchip plans to build a $5.3B chip facility in northeast Japan with financing from SBI and Japan, aiming to produce 40nm to 55nm chips by 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p6#a231031p6)
  - [Permission Slip Can Help You Regain Control Over Your Data. Here&#39;s How to Use It     - CNET](https://www.cnet.com/tech/services-and-software/permission-slip-can-help-you-regain-control-over-your-data-heres-how-to-use-it/#ftag=CAD590a51e)
  - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
- - [M3 MacBook Pro, iMac Reactions video     - CNET](https://www.cnet.com/videos/m3-macbook-pro-imac-reactions/#ftag=CAD590a51e)
- - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)<!-- TECH:END -->
+ - [M3 MacBook Pro, iMac Reactions video     - CNET](https://www.cnet.com/videos/m3-macbook-pro-imac-reactions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spell Attic](http://9gag.com/gag/aEqKEex)
- - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
- - 💣 [The face of the ice hockey player who raised his leg and slashed the neck of Adam Johnson, killing him. The media won&#39;t show you this &lpar;why lol&rpar;](http://9gag.com/gag/axoKAdL)
+ - 😝 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - 😝 [Thank me later](http://9gag.com/gag/ay2rvjq)
+ - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)<!-- MEMES:END -->
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 ---
 

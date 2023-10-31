@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers says hackers stole $4.4M in crypto from 25+ victims on October 25 using private keys and passphrases from a 2022 LastPass breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/231030/p36#a231030p36)
  - [Apple accessories including the Magic Keyboard, Mouse, and Trackpad that accompany the newly announced M3 iMac still feature a Lightning port instead of USB-C &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/231030/p35#a231030p35)
  - [Samsung reports Q3 revenue down 12% YoY to ~$50B, net income down 40% YoY to ~$4.1B vs. an 86% decline in Q2 2023, and a chip division operating loss of ~$2.78B &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/231030/p34#a231030p34)
  - [New 14-inch &amp; 16-inch MacBook Pro sport M3, and come in black](https://appleinsider.com/articles/23/10/31/new-14-inch-macbook-pro-16-inch-macbook-pro-sport-m3-m3-pro-max-chips?utm_medium=rss)
- - [Apple Unveils 14-inch, 16-inch MacBook Pros with M3 Processors video     - CNET](https://www.cnet.com/videos/apple-unveils-14-inch-16-inch-macbook-pros-with-m3-processors/#ftag=CAD590a51e)
- - [Magic Mouse, Magic Keyboard, Magic Trackpad didn&#39;t get USB-C -- but it&#39;s still coming](https://appleinsider.com/articles/23/10/31/magic-mouse-magic-keyboard-magic-trackpad-didnt-get-usb-c----but-its-still-coming?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Unveils 14-inch, 16-inch MacBook Pros with M3 Processors video     - CNET](https://www.cnet.com/videos/apple-unveils-14-inch-16-inch-macbook-pros-with-m3-processors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

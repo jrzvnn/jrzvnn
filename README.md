@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
- - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 😝 [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
+ - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 😝 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)
+ - 👉 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)<!-- MEMES:END -->
 
 ---
 

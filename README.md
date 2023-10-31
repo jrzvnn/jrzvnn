@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 😝 [The face of the ice hockey player who raised his leg and slashed the neck of Adam Johnson, killing him. The media won&#39;t show you this &lpar;why lol&rpar;](http://9gag.com/gag/axoKAdL)
- - 👉 [I mean seriously...!](http://9gag.com/gag/a1PgE5w)<!-- MEMES:END -->
+ - 😝 [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - 😝 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
+ - 💣 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
+ - 👉 [Are you hungry?](http://9gag.com/gag/a9qwOAK)<!-- MEMES:END -->
 
 ---
 

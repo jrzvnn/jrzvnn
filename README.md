@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - 😝 [Its worth it](http://9gag.com/gag/aME7OwP)
+ - 😝 [A dream](http://9gag.com/gag/a7qgn4m)
+ - 💣 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 💣 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
- - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
+ - 👉 [Spell Attic](http://9gag.com/gag/aEqKEex)<!-- MEMES:END -->
 
 ---
 

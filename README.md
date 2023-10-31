@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s Powerchip plans to build a $5.3B chip facility in northeast Japan with financing from SBI and Japan, aiming to produce 40nm to 55nm chips by 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p6#a231031p6)
+ - [Permission Slip Can Help You Regain Control Over Your Data. Here&#39;s How to Use It     - CNET](https://www.cnet.com/tech/services-and-software/permission-slip-can-help-you-regain-control-over-your-data-heres-how-to-use-it/#ftag=CAD590a51e)
  - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)
- - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)
- - [Owala HallOwalaween Sale &lpar;2023&rpar;: 25 Percent off FreeSip Water Bottle, Pet Water Bowl, and More](https://www.wired.com/story/owala-deals-october-31-2023/)
- - [Alibaba unveils Tongyi Qianwen 2 LLM with &quot;hundreds of billions of&quot; parameters and 8 industry-specific models for entertainment, finance, healthcare, and legal &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231031/p3#a231031p3)
- - [Canada bans WeChat and Moscow-based Kaspersky on government-issued mobile devices as they &quot;present an unacceptable level of risk to privacy and security&quot; &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/231031/p2#a231031p2)<!-- TECH:END -->
+ - [M3 MacBook Pro, iMac Reactions video     - CNET](https://www.cnet.com/videos/m3-macbook-pro-imac-reactions/#ftag=CAD590a51e)
+ - [A look at Woven Planet, Toyota&#39;s ambitious software unit that was renamed Woven by Toyota as it struggled to connect with the changing goals of its parent &lpar;River Davis/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p4#a231031p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

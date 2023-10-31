@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
  - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 💣 [Proud dad](http://9gag.com/gag/awZjvmR)
+ - 😝 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
+ - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 

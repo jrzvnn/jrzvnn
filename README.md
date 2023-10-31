@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On his final day of testimony, SBF denied knowing that billions of dollars in customer money had been misappropriated until shortly before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231031/p39#a231031p39)
  - [These might be the first photos of the slimmer new PS5 and original side-by-side](https://www.theverge.com/2023/10/31/23941001/ps5-slim-original-sony-playstation-images)
  - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)
  - [M2 MacBook Pro vs M3 MacBook Pro -- specs, features compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-vs-m3-macbook-pro----specs-features-compared?utm_medium=rss)
- - [M3 24-inch iMac vs M1 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
- - [Sources: WeWork plans to file for Chapter 11 bankruptcy as early as next week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p38#a231031p38)<!-- TECH:END -->
+ - [M3 24-inch iMac vs M1 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Birbs are retards](http://9gag.com/gag/ay2rz7V)
- - 😝 [A new fountain has been unveiled in Vienna, celebrating 150 years of the city&#39;s spring water supply. This cost \u20ac1.8 million.](http://9gag.com/gag/a8qNn8d)
- - 💣 [Its worth it](http://9gag.com/gag/aME7OwP)
- - 😝 [It&#39;s the law](http://9gag.com/gag/az2yB3Z)
- - 👉 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)<!-- MEMES:END -->
+ - 😝 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---
 

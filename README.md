@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US says 40 countries plan to sign a pledge never to pay ransom to cybercriminals and to work toward eliminating the hackers&#39; funding mechanism &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/231031/p14#a231031p14)
+ - [Epic &#39;Killers of the Flower Moon&#39; flops at the box office](https://appleinsider.com/articles/23/10/31/epic-killers-of-the-flower-moon-flops-at-the-box-office?utm_medium=rss)
  - [CCData: almost a year since FTX collapsed, monthly spot trading volume at crypto exchanges dropped from $922.9B in October 2022 to $461.3B in October 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p13#a231031p13)
  - [The Internet Is Thirsty for &#39;Twilight&#39;—Again](https://www.wired.com/story/twilight-15th-anniversary-internet-remembers/)
- - [Apple, Google, and Microsoft Just Patched Some Spooky Security Flaws](https://www.wired.com/story/apple-google-microsoft-critical-update-october-2023/)
- - [These 3 Books Are Perfect for the Aspiring Witch](https://www.wired.com/story/the-modern-witchcraft-introductory-boxed-set-rave/)
- - [How to Measure the Calories in a Candy Bar—With Physics!](https://www.wired.com/story/how-to-measure-the-calories-in-a-candy-bar-with-physics/)<!-- TECH:END -->
+ - [Apple, Google, and Microsoft Just Patched Some Spooky Security Flaws](https://www.wired.com/story/apple-google-microsoft-critical-update-october-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

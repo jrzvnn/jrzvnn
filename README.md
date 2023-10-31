@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft debuts a Windows 11 2023 Update that replaces Chat with Microsoft Teams &lpar;Free&rpar;; big features like Copilot and AI-powered Paint rolled out last month &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231031/p32#a231031p32)
+ - [Sam Bankman-Fried didn’t ask where the $8 billion went](https://www.theverge.com/2023/10/31/23940814/sam-bankman-fried-ftx-alameda-customer-funds-fraud-trial)
  - [Chinese lidar maker Hesai, which had a $192M US IPO in February 2023 and has seen its stock drop 50%+, pushes back against US national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p31#a231031p31)
  - [Apple gradually rolls out new firmware for AirTag](https://appleinsider.com/articles/23/10/31/apple-gradually-rolls-out-new-firmware-for-airtag?utm_medium=rss)
- - [Ahead of the UK&#39;s AI Summit, set to host Elon Musk, VP Harris, and others, the UK has highlighted doomsday scenarios while the US has focused on tangible issues &lpar;Washington Post&rpar;](http://www.techmeme.com/231031/p30#a231031p30)
- - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning)
- - [The 27 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [Ahead of the UK&#39;s AI Summit, set to host Elon Musk, VP Harris, and others, the UK has highlighted doomsday scenarios while the US has focused on tangible issues &lpar;Washington Post&rpar;](http://www.techmeme.com/231031/p30#a231031p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

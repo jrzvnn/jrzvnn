@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Goldman Sachs: New Macs position Apple well](https://appleinsider.com/articles/23/10/31/goldman-sachs-new-macs-position-apple-well?utm_medium=rss)
  - [The Guardian accuses Microsoft of reputational damage after distasteful AI poll](https://www.theverge.com/2023/10/31/23940298/ai-generated-poll-guardian-microsoft-start-news-aggregation)
  - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
  - [Google updates Chrome on iOS to let users move the address bar to the bottom of the screen, like Safari; Chrome on Android does not get the feature &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231031/p24#a231031p24)
- - [Despite several video games with record sales in 2023 and strong overall sales, the industry is still facing layoffs, fewer job openings, and studio closures &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/231031/p23#a231031p23)
- - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)<!-- TECH:END -->
+ - [Despite several video games with record sales in 2023 and strong overall sales, the industry is still facing layoffs, fewer job openings, and studio closures &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/231031/p23#a231031p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

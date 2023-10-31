@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 💣 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
+ - 😝 [Thank you and have a safe flight](http://9gag.com/gag/ay2rvbV)
+ - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 💣 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)<!-- MEMES:END -->
+ - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
 
 ---
 

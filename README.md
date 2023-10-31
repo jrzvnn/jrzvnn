@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 💣 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
+ - 😝 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
+ - 😝 [Sad](http://9gag.com/gag/anzZGX0)
+ - 💣 [This is doggo 6 ice cream acquired going NOM](http://9gag.com/gag/a1PgOvP)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Just a reminder](http://9gag.com/gag/aDY9P37)<!-- MEMES:END -->
+ - 👉 [Time for some gaming](http://9gag.com/gag/a8qNVYO)<!-- MEMES:END -->
 
 ---
 

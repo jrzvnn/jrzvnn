@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Stranger Things 5,’ ‘Deadpool 3,’ a New ‘Star Wars’ &lpar;10?!&rpar;, and Taylor Swift Have One Man in Common](https://www.wired.com/story/shawn-levy-deadpool-3-stranger-things-star-wars-netflix/)
+ - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)
+ - [Andrew Ng, who taught Sam Altman at Stanford and co-founded Google Brain, says Big Tech is lying about AI extinction to trigger heavier regulation of rivals &lpar;John Davidson/Australian Financial Review&rpar;](http://www.techmeme.com/231031/p9#a231031p9)
  - [Indian opposition leaders say Apple warned more than six of them of state-backed iPhone attacks; Apple confirms the notification but did not attribute the hacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231031/p8#a231031p8)
- - [Filings: China&#39;s Big Fund invests $1.99B in DRAM maker Changxin Xinqiao, or 33.15% of its total registered capital, part of plans to build 12-inch memory wafers &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p7#a231031p7)
- - [Taiwan&#39;s Powerchip plans to build a $5.3B chip facility in northeast Japan with financing from SBI and Japan, aiming to produce 40nm to 55nm chips by 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p6#a231031p6)
- - [Here&#39;s Everything to Know About NameDrop on iPhone     - CNET](https://www.cnet.com/tech/mobile/heres-everything-to-know-about-namedrop-on-iphone/#ftag=CAD590a51e)
- - [Best Budget Soundbars for 2023: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filings: China&#39;s Big Fund invests $1.99B in DRAM maker Changxin Xinqiao, or 33.15% of its total registered capital, part of plans to build 12-inch memory wafers &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p7#a231031p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

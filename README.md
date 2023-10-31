@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
- - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
+ - 😝 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)
+ - 😝 [Quick!](http://9gag.com/gag/a04gWVX)
+ - 💣 [A wild \u26ab\ufe0f hockey player deliberately lifts his leg and draws a razor-sharp blade across Adam Johnson\u2019s throat \u2014 Adam Johnson would later succumb to his wounds at the hospital.](http://9gag.com/gag/aREWDY7)
+ - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 👉 [Save it and forget about it](http://9gag.com/gag/armErWp)<!-- MEMES:END -->
 
 ---
 

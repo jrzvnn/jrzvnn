@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
- - 😝 [Thank me later](http://9gag.com/gag/ay2rvjq)
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 💣 [This will make a fine addition to my.. collection!](http://9gag.com/gag/aGEvO2K)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 👉 [From the series `why women live longer than men`](http://9gag.com/gag/ago96vw)<!-- MEMES:END -->
 
 ---
 

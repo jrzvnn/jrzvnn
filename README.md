@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
- - 😝 [This mf with adamantium skin](http://9gag.com/gag/anzZG7z)
- - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
- - 😝 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
- - 👉 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)<!-- MEMES:END -->
+ - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 💣 [Almost a pink mist tail rotor incident](http://9gag.com/gag/aOxE1oD)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 ---
 

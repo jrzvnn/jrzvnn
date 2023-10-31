@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Silicon has arrived with M3, M3 Pro, and M3 Max chips](https://appleinsider.com/articles/23/10/31/new-apple-silicon-has-arrived-with-m3-m3-pro-and-m3-max-chips?utm_medium=rss)
- - [Joe Biden’s Big AI Plan Sounds Scary—but Lacks Bite](https://www.wired.com/story/joe-bidens-big-ai-plan-sounds-scary-lacks-bite/)
- - [Infoblox discovers a threat actor that has provided link shortening services to cybercriminals for over four years, registering ~75K domains since April 2022 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231031/p28#a231031p28)
- - [Google is officially trying to make .ing domains a th.ing](https://www.theverge.com/2023/10/31/23940533/google-ing-top-level-domain)
- - [DeepMind CEO Demis Hassabis pushes back on claims by Meta&#39;s Yann LeCun that he, Sam Altman, and Dario Amodei are fearmongering to achieve AI regulatory capture &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231031/p27#a231031p27)<!-- TECH:END -->
+ - [Apple ‘Scary Fast’ Mac launch event: the 4 biggest announcements](https://www.theverge.com/2023/10/30/23938867/apple-m3-imac-macbook-pro-biggest-announcements-m3)
+ - [How Telegram Became a Terrifying Weapon in the Israel-Hamas War](https://www.wired.com/story/telegram-hamas-israel-conflict/)
+ - [Tesla wins another court case by arguing fatal Autopilot crash was caused by human error](https://www.theverge.com/2023/10/31/23940693/tesla-jury-autopilot-win-liable-micah-lee)
+ - [Watermarks aren’t the silver bullet for AI misinformation](https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order)
+ - [YouTube is getting serious about blocking ad blockers](https://www.theverge.com/2023/10/31/23940583/youtube-ad-blocker-crackdown-broadening)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
+ - [Tesla wins its first trial in the US over allegations that Autopilot led to a death, in a jury trial in California state court &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p29#a231031p29)
  - [Apple ‘Scary Fast’ Mac launch event: the 4 biggest announcements](https://www.theverge.com/2023/10/30/23938867/apple-m3-imac-macbook-pro-biggest-announcements-m3)
  - [How Telegram Became a Terrifying Weapon in the Israel-Hamas War](https://www.wired.com/story/telegram-hamas-israel-conflict/)
- - [Tesla wins another court case by arguing fatal Autopilot crash was caused by human error](https://www.theverge.com/2023/10/31/23940693/tesla-jury-autopilot-win-liable-micah-lee)
- - [Watermarks aren’t the silver bullet for AI misinformation](https://www.theverge.com/2023/10/31/23940626/artificial-intelligence-ai-digital-watermarks-biden-executive-order)
- - [YouTube is getting serious about blocking ad blockers](https://www.theverge.com/2023/10/31/23940583/youtube-ad-blocker-crackdown-broadening)<!-- TECH:END -->
+ - [Tesla wins another court case by arguing fatal Autopilot crash was caused by human error](https://www.theverge.com/2023/10/31/23940693/tesla-jury-autopilot-win-liable-micah-lee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

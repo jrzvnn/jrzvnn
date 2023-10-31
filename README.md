@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only appropriate response to \u201cAllah o akbar\u201d](http://9gag.com/gag/aoKoAGX)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 💣 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 😝 [Sorry Steve](http://9gag.com/gag/aKEZLvW)
+ - 😝 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - 💣 [Spell Attic](http://9gag.com/gag/aEqKEex)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
 
 ---
 

@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Here’s where you can preorder Apple’s new M3-powered Macs](https://www.theverge.com/23938865/apple-imac-macbook-pro-m3-max-preorder-how-to-buy-release-date-price)
  - [How to use the Pixel Watch 2’s safety features](https://www.theverge.com/23933351/pixel-watch-2-safety-check-safety-signal-how-to)
  - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)
- - [Skyview 2 Wellness Lamp Review: An Artificial Sun for Your Room](https://www.wired.com/review/skyview-2-wellness-lamp/)
- - [Everyone Was Wrong About Why Cats Purr](https://www.wired.com/story/everyone-was-wrong-why-cats-purr/)<!-- TECH:END -->
+ - [Apple Watch: Options for Protecting Your Wearable     - CNET](https://www.cnet.com/tech/mobile/apple-watch-options-for-protecting-your-wearable/#ftag=CAD590a51e)
+ - [Skyview 2 Wellness Lamp Review: An Artificial Sun for Your Room](https://www.wired.com/review/skyview-2-wellness-lamp/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

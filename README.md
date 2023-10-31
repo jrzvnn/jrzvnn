@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Owala HallOwalaween Sale &lpar;2023&rpar;: 25 Percent off FreeSip Water Bottle, Pet Water Bowl, and More](https://www.wired.com/story/owala-deals-october-31-2023/)
  - [Alibaba unveils Tongyi Qianwen 2 LLM with &quot;hundreds of billions of&quot; parameters and 8 industry-specific models for entertainment, finance, healthcare, and legal &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/231031/p3#a231031p3)
  - [Canada bans WeChat and Moscow-based Kaspersky on government-issued mobile devices as they &quot;present an unacceptable level of risk to privacy and security&quot; &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/231031/p2#a231031p2)
  - [A US judge dismissed AI copyright infringement claims against Midjourney and DeviantArt by three artists, but allowed a claim against Stability AI to proceed &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/231031/p1#a231031p1)
- - [The Best PSVR Games That Still Aren&#39;t on PSVR 2     - CNET](https://www.cnet.com/tech/gaming/best-psvr-games-to-try-on-a-ps5/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best PSVR Games That Still Aren&#39;t on PSVR 2     - CNET](https://www.cnet.com/tech/gaming/best-psvr-games-to-try-on-a-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

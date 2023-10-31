@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Spell Attic](http://9gag.com/gag/aEqKEex)
+ - 💣 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
  - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 😝 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
- - 👉 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
+ - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
 
 ---
 

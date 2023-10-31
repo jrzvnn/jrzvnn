@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
- - [AMD Q3: revenue up 4% YoY to $5.8B, vs. $5.7B est., net income up 353% YoY to $299M, Data Center revenue flat at $1.6B, and Q4 revenue forecast below estimates &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231031/p34#a231031p34)
- - [Doc: a Dutch regulator ruled in July that Apple&#39;s fees on some app subscriptions violate EU antitrust laws, after Apple offered to drop its cut from 30% to 27% &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231031/p33#a231031p33)
- - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning)
- - [Best AirPods Max Accessories for 2023     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube says it &quot;launched a global effort&quot; to encourage users with ad blockers to allow ads or try YouTube Premium, after a &quot;small experiment&quot; earlier this year &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/231031/p36#a231031p36)
+ - [Match Group reports Q3 revenue up 9% YoY to $882M, vs. $880.6M est., paying users down 5% YoY to 15.7M, and forecasts Q4 revenue below estimates; MTCH drops 7%+ &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/231031/p35#a231031p35)
+ - [M2 MacBook Pro vs M3 MacBook Pro -- specs, features compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-vs-m3-macbook-pro----specs-features-compared?utm_medium=rss)
+ - [Best AT&amp;T Deals Available: Save Up to $1,000 Right Now     - CNET](https://www.cnet.com/deals/best-att-deals/#ftag=CAD590a51e)
+ - [Best Sony Headphones for 2023     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

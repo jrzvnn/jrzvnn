@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shield AI, which makes autonomous drones and other military tech for the US and its allies, raised $200M co-led by USIT and Riot Ventures at a $2.7B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/231031/p19#a231031p19)
+ - [Atari is buying the developer behind its excellent 50th anniversary retro compilation](https://www.theverge.com/2023/10/31/23940074/atari-digital-eclipse-acquisition-50-anniversary-celebration-interactive-documentaries)
  - [Here’s what Apple really means when it says ‘shot on iPhone’](https://www.theverge.com/2023/10/31/23940060/apple-event-shot-on-iphone-behind-the-scenes)
  - [M1 24-inch iMac vs M3 21-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
- - [Apple&#39;s stock dropped 11% since its Q3 results on August 3, erasing nearly $400B in value, the first year since 2015 that AAPL slid between WWDC and Q4 earnings &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p18#a231031p18)
- - [Brazilian banking-as-a-service startup QI Tech raised a $200M Series B led by General Atlantic, for $262M in total funding, and reports $21M H1 2023 net revenue &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231031/p17#a231031p17)
- - [Apple sends iPhone threat alerts to India opposition politicians](https://appleinsider.com/articles/23/10/31/apple-sends-iphone-threat-alerts-to-india-opposition-politicians?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s stock dropped 11% since its Q3 results on August 3, erasing nearly $400B in value, the first year since 2015 that AAPL slid between WWDC and Q4 earnings &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/231031/p18#a231031p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s ‘everything app’ plan for X, in his own words](https://www.theverge.com/23940924/elon-musk-x-twitter-all-hands-linda-yaccarino-super-app)
+ - [The Second Person to Get a Pig Heart Transplant Just Died](https://www.wired.com/story/pig-heart-transplant-lawrence-faucette-death/)
  - [On his final day of testimony, SBF denied knowing that billions of dollars in customer money had been misappropriated until shortly before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231031/p39#a231031p39)
  - [These might be the first photos of the slimmer new PS5 and original side-by-side](https://www.theverge.com/2023/10/31/23941001/ps5-slim-original-sony-playstation-images)
- - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)
- - [M2 MacBook Pro vs M3 MacBook Pro -- specs, features compared](https://appleinsider.com/inside/14-inch-macbook-pro/vs/m2-macbook-pro-vs-m3-macbook-pro----specs-features-compared?utm_medium=rss)
- - [M3 24-inch iMac vs M1 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Match drops out of Google Play antitrust showdown](https://www.theverge.com/2023/10/31/23941071/google-play-match-group-antitrust-settlement-epic-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

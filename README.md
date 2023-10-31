@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie delaying Destiny 2 expansion and Marathon release amid layoffs](https://www.theverge.com/2023/10/30/23938990/bungie-sony-layoffs-delays-destiny-final-shape-marathon)
  - [AMD Q3: revenue up 4% YoY to $5.8B, vs. $5.7B est., net income up 353% YoY to $299M, Data Center revenue flat at $1.6B, and Q4 revenue forecast below estimates &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/231031/p34#a231031p34)
  - [Doc: a Dutch regulator ruled in July that Apple&#39;s fees on some app subscriptions violate EU antitrust laws, after Apple offered to drop its cut from 30% to 27% &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/231031/p33#a231031p33)
  - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning)
- - [Microsoft releases a Windows 11 2023 Update that replaces Chat with Microsoft Teams &lpar;Free&rpar;; big features like Copilot and AI-powered Paint arrived in September &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231031/p32#a231031p32)
- - [Sam Bankman-Fried didn’t ask where the $8 billion went](https://www.theverge.com/2023/10/31/23940814/sam-bankman-fried-ftx-alameda-customer-funds-fraud-trial)<!-- TECH:END -->
+ - [Best AirPods Max Accessories for 2023     - CNET](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

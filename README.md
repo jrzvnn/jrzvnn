@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
- - 😝 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)
- - 💣 [There has to be more?????](http://9gag.com/gag/adPArnj)
+ - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 😝 [There has to be more?????](http://9gag.com/gag/adPArnj)
+ - 💣 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 

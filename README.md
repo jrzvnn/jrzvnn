@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Healthcare automation company Olive AI, valued at $4B in July 2021, says it is shutting down and has sold parts of its business to Waystar and Humata Health &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231031/p26#a231031p26)
+ - [Microsoft’s Windows 11 2023 Update arrives with Microsoft Teams changes](https://www.theverge.com/2023/10/31/23940033/microsoft-windows-11-2023-update-download-available)
  - [How Apple&#39;s iPhone 15 Pro Max captured the &#39;Scary Fast&#39; Apple Event](https://appleinsider.com/articles/23/10/31/how-apples-iphone-15-pro-max-captured-the-scary-fast-apple-event?utm_medium=rss)
  - [The Guardian says its reputation was hurt after news aggregator Microsoft Start placed an AI-generated poll about a woman&#39;s death next to an article about her &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231031/p25#a231031p25)
- - [Goldman Sachs: New Macs position Apple well](https://appleinsider.com/articles/23/10/31/goldman-sachs-new-macs-position-apple-well?utm_medium=rss)
- - [The Guardian accuses Microsoft of reputational damage after distasteful AI poll](https://www.theverge.com/2023/10/31/23940298/ai-generated-poll-guardian-microsoft-start-news-aggregation)
- - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Goldman Sachs: New Macs position Apple well](https://appleinsider.com/articles/23/10/31/goldman-sachs-new-macs-position-apple-well?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

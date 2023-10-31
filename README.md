@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 😝 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
- - 💣 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Quick!](http://9gag.com/gag/a04gWVX)
+ - 😝 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
+ - 💣 [There has to be more?????](http://9gag.com/gag/adPArnj)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
 
 ---
 

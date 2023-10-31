@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirPods Pro 2 USB-C return to record low $189.99 during Amazon&#39;s early Black Friday sale](https://appleinsider.com/articles/23/10/31/apple-airpods-pro-2-usb-c-return-to-record-low-18999-during-amazons-early-black-friday-sale?utm_medium=rss)
  - [News Media Alliance study: AI chatbot developers rely more on articles than generic web content to train AI; NMA says this shows AI companies violate copyright &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/231031/p22#a231031p22)
  - [A day in the life of a delivery robot](https://www.theverge.com/23930378/serve-delivery-robot-la-day-in-life-tiktok)
  - [Apple’s second-gen AirPods Pro with USB-C are matching their all-time low](https://www.theverge.com/2023/10/31/23938628/apple-airpods-pro-usb-c-lg-a2-oled-tv-google-chromecast-hd-deal-sale)
- - [Goodbye, Touch Bar, you held incredible promise](https://www.theverge.com/2023/10/31/23938841/apple-macbook-pro-touch-bar-discontinued-proof-of-concept)
- - [Daily deals Oct. 31: LG OLED TV $549, Beats Studio Buds $99, Amazon Fire TV Stick $19, more](https://appleinsider.com/articles/23/10/31/daily-deals-oct-31-lg-oled-tv-549-beats-studio-buds-99-amazon-fire-tv-stick-19-more?utm_medium=rss)<!-- TECH:END -->
+ - [Goodbye, Touch Bar, you held incredible promise](https://www.theverge.com/2023/10/31/23938841/apple-macbook-pro-touch-bar-discontinued-proof-of-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: new US rules may compel Nvidia to cancel $5B+ in 2024 orders for its chips in China; Nvidia had already fulfilled its 2023 orders before the controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p12#a231031p12)
- - [Biden&#39;s EO on AI tries to chart a middle path by letting AI development continue with modest new rules and signaling the government plans to monitor AI progress &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231031/p11#a231031p11)
- - [Belkin launches new BoostCharge Pro 2-in-1 MagSafe &amp; Apple Watch charger](https://appleinsider.com/articles/23/10/31/belkin-launches-new-boostcharge-pro-2-in-1-magsafe-apple-watch-charger?utm_medium=rss)
- - [Sources: Alibaba is pressuring Tmall and Taobao merchants to offer rock-bottom prices during Singles Day, which ends on November 11, or risk losing traffic &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p10#a231031p10)
- - [November SSDI Check 2023: Payments Will Start to Go Out This Week     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-payments-are-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Internet Is Thirsty for &#39;Twilight&#39;—Again](https://www.wired.com/story/twilight-15th-anniversary-internet-remembers/)
+ - [Apple, Google, and Microsoft Just Patched Some Spooky Security Flaws](https://www.wired.com/story/apple-google-microsoft-critical-update-october-2023/)
+ - [These 3 Books Are Perfect for the Aspiring Witch](https://www.wired.com/story/the-modern-witchcraft-introductory-boxed-set-rave/)
+ - [How to Measure the Calories in a Candy Bar—With Physics!](https://www.wired.com/story/how-to-measure-the-calories-in-a-candy-bar-with-physics/)
+ - [Sources: new US rules may compel Nvidia to cancel $5B+ in 2024 orders for its chips in China; Nvidia had already fulfilled its 2023 orders before the controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p12#a231031p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

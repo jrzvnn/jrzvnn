@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin launches new BoostCharge Pro 2-in-1 MagSafe &amp; Apple Watch charger](https://appleinsider.com/articles/23/10/31/belkin-launches-new-boostcharge-pro-2-in-1-magsafe-apple-watch-charger?utm_medium=rss)
+ - [Sources: Alibaba is pressuring Tmall and Taobao merchants to offer rock-bottom prices during Singles Day, which ends on November 11, or risk losing traffic &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p10#a231031p10)
  - [‘Stranger Things 5,’ ‘Deadpool 3,’ a New ‘Star Wars’ &lpar;10?!&rpar;, and Taylor Swift Have One Man in Common](https://www.wired.com/story/shawn-levy-deadpool-3-stranger-things-star-wars-netflix/)
  - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)
- - [Andrew Ng, who taught Sam Altman at Stanford and co-founded Google Brain, says Big Tech is lying about AI extinction to trigger heavier regulation of rivals &lpar;John Davidson/Australian Financial Review&rpar;](http://www.techmeme.com/231031/p9#a231031p9)
- - [Indian opposition leaders say Apple warned more than six of them of state-backed iPhone attacks; Apple confirms the notification but did not attribute the hacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231031/p8#a231031p8)
- - [Filings: China&#39;s Big Fund invests $1.99B in DRAM maker Changxin Xinqiao, or 33.15% of its total registered capital, part of plans to build 12-inch memory wafers &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p7#a231031p7)<!-- TECH:END -->
+ - [Andrew Ng, who taught Sam Altman at Stanford and co-founded Google Brain, says Big Tech is lying about AI extinction to trigger heavier regulation of rivals &lpar;John Davidson/Australian Financial Review&rpar;](http://www.techmeme.com/231031/p9#a231031p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

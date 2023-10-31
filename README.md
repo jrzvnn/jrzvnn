@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Indian opposition leaders say Apple warned more than six of them of state-backed iPhone attacks; Apple confirms the notification but did not attribute the hacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231031/p8#a231031p8)
  - [Filings: China&#39;s Big Fund invests $1.99B in DRAM maker Changxin Xinqiao, or 33.15% of its total registered capital, part of plans to build 12-inch memory wafers &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p7#a231031p7)
  - [Taiwan&#39;s Powerchip plans to build a $5.3B chip facility in northeast Japan with financing from SBI and Japan, aiming to produce 40nm to 55nm chips by 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p6#a231031p6)
- - [Permission Slip Can Help You Regain Control Over Your Data. Here&#39;s How to Use It     - CNET](https://www.cnet.com/tech/services-and-software/permission-slip-can-help-you-regain-control-over-your-data-heres-how-to-use-it/#ftag=CAD590a51e)
- - [IBM research: AI can make phishing, already used in ~90% of cyberattacks, more effective at scale, though widespread use has not yet been detected &lpar;Eric Geller/The Messenger&rpar;](http://www.techmeme.com/231031/p5#a231031p5)<!-- TECH:END -->
+ - [Here&#39;s Everything to Know About NameDrop on iPhone     - CNET](https://www.cnet.com/tech/mobile/heres-everything-to-know-about-namedrop-on-iphone/#ftag=CAD590a51e)
+ - [Best Budget Soundbars for 2023: Vizio, Roku and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new M3 Pro has lower memory bandwidth than the M1 Pro and M2 Pro and fewer performance and efficiency cores; Apple repeatedly compared the M3 to the M1 &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231031/p15#a231031p15)
- - [The US says 40 countries plan to sign a pledge never to pay ransom to cybercriminals and to work toward eliminating the hackers&#39; funding mechanism &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/231031/p14#a231031p14)
- - [Epic &#39;Killers of the Flower Moon&#39; flops at the box office](https://appleinsider.com/articles/23/10/31/epic-killers-of-the-flower-moon-flops-at-the-box-office?utm_medium=rss)
- - [CCData: almost a year since FTX collapsed, monthly spot trading volume at crypto exchanges dropped from $922.9B in October 2022 to $461.3B in October 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231031/p13#a231031p13)
- - [The Internet Is Thirsty for &#39;Twilight&#39;—Again](https://www.wired.com/story/twilight-15th-anniversary-internet-remembers/)<!-- TECH:END -->
+ - [Brazilian banking-as-a-service startup QI Tech raised a $200M Series B led by General Atlantic, for $262M in total funding, and reports $21M H1 2023 net revenue &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/231031/p17#a231031p17)
+ - [Apple sends iPhone threat alerts to India opposition politicians](https://appleinsider.com/articles/23/10/31/apple-sends-iphone-threat-alerts-to-india-opposition-politicians?utm_medium=rss)
+ - [The Vampire Bat Is Moving Closer to the US. That’s a Problem](https://www.wired.com/story/the-vampire-bat-is-moving-closer-to-the-us-thats-a-problem/)
+ - [HyperX Cloud III Wireless Review: 120-Hour Battery Life](https://www.wired.com/review/hyperx-cloud-iii-wireless/)
+ - [Bose QuietComfort Ultra Review: Killer Noise-Canceling That Costs](https://www.wired.com/review/bose-quietcomfort-ultra/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

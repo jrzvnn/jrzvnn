@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Biden&#39;s EO on AI tries to chart a middle path by letting AI development continue with modest new rules and signaling the government plans to monitor AI progress &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/231031/p11#a231031p11)
  - [Belkin launches new BoostCharge Pro 2-in-1 MagSafe &amp; Apple Watch charger](https://appleinsider.com/articles/23/10/31/belkin-launches-new-boostcharge-pro-2-in-1-magsafe-apple-watch-charger?utm_medium=rss)
  - [Sources: Alibaba is pressuring Tmall and Taobao merchants to offer rock-bottom prices during Singles Day, which ends on November 11, or risk losing traffic &lpar;Reuters&rpar;](http://www.techmeme.com/231031/p10#a231031p10)
- - [‘Stranger Things 5,’ ‘Deadpool 3,’ a New ‘Star Wars’ &lpar;10?!&rpar;, and Taylor Swift Have One Man in Common](https://www.wired.com/story/shawn-levy-deadpool-3-stranger-things-star-wars-netflix/)
- - [8BitDo’s NES buttons are a big, red, Nintendo-themed invitation to experiment](https://www.theverge.com/23934698/8bitdo-nes-keyboard-experiment-button-of-the-month)<!-- TECH:END -->
+ - [November SSDI Check 2023: Payments Will Start to Go Out This Week     - CNET](https://www.cnet.com/personal-finance/november-ssdi-check-2023-payments-are-coming-this-week/#ftag=CAD590a51e)
+ - [Best Christmas Gifts 2023: Early Ideas for This Year&#39;s Holiday Shopping     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

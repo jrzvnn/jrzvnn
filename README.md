@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepMind CEO Demis Hassabis pushes back on claims by Meta&#39;s Yann LeCun that he, Sam Altman, and Dario Amodei are fearmongering to achieve AI regulatory capture &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231031/p27#a231031p27)
  - [Apple can’t quit Lightning](https://www.theverge.com/2023/10/31/23939766/apple-lightning-m3-imac-magic-mouse-keyboard-trackpad)
  - [X Banned the Account of a Major Critic. Now He’s Taking It to Court](https://www.wired.com/story/x-twitter-ban-critics/)
  - [Healthcare automation company Olive AI, valued at $4B in July 2021, says it is shutting down and has sold parts of its business to Waystar and Humata Health &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231031/p26#a231031p26)
- - [Microsoft’s Windows 11 2023 Update arrives with Microsoft Teams changes](https://www.theverge.com/2023/10/31/23940033/microsoft-windows-11-2023-update-download-available)
- - [How Apple&#39;s iPhone 15 Pro Max captured the &#39;Scary Fast&#39; Apple Event](https://appleinsider.com/articles/23/10/31/how-apples-iphone-15-pro-max-captured-the-scary-fast-apple-event?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s Windows 11 2023 Update arrives with Microsoft Teams changes](https://www.theverge.com/2023/10/31/23940033/microsoft-windows-11-2023-update-download-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

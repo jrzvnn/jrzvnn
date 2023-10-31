@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Silicon has arrived with M3, M3 Pro, and M3 Max chips](https://appleinsider.com/articles/23/10/31/new-apple-silicon-has-arrived-with-m3-m3-pro-and-m3-max-chips?utm_medium=rss)
+ - [Joe Biden’s Big AI Plan Sounds Scary—but Lacks Bite](https://www.wired.com/story/joe-bidens-big-ai-plan-sounds-scary-lacks-bite/)
  - [Infoblox discovers a threat actor that has provided link shortening services to cybercriminals for over four years, registering ~75K domains since April 2022 &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/231031/p28#a231031p28)
  - [Google is officially trying to make .ing domains a th.ing](https://www.theverge.com/2023/10/31/23940533/google-ing-top-level-domain)
- - [DeepMind CEO Demis Hassabis pushes back on claims by Meta&#39;s Yann LeCun that he, Sam Altman, and Dario Amodei are fearmongering to achieve AI regulatory capture &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231031/p27#a231031p27)
- - [Apple can’t quit Lightning](https://www.theverge.com/2023/10/31/23939766/apple-lightning-m3-imac-magic-mouse-keyboard-trackpad)
- - [X Banned the Account of a Major Critic. Now He’s Taking It to Court](https://www.wired.com/story/x-twitter-ban-critics/)<!-- TECH:END -->
+ - [DeepMind CEO Demis Hassabis pushes back on claims by Meta&#39;s Yann LeCun that he, Sam Altman, and Dario Amodei are fearmongering to achieve AI regulatory capture &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231031/p27#a231031p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

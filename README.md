@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple&#39;s iPhone 15 Pro Max captured the &#39;Scary Fast&#39; Apple Event](https://appleinsider.com/articles/23/10/31/how-apples-iphone-15-pro-max-captured-the-scary-fast-apple-event?utm_medium=rss)
+ - [The Guardian says its reputation was hurt after news aggregator Microsoft Start placed an AI-generated poll about a woman&#39;s death next to an article about her &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/231031/p25#a231031p25)
  - [Goldman Sachs: New Macs position Apple well](https://appleinsider.com/articles/23/10/31/goldman-sachs-new-macs-position-apple-well?utm_medium=rss)
  - [The Guardian accuses Microsoft of reputational damage after distasteful AI poll](https://www.theverge.com/2023/10/31/23940298/ai-generated-poll-guardian-microsoft-start-news-aggregation)
- - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
- - [Google updates Chrome on iOS to let users move the address bar to the bottom of the screen, like Safari; Chrome on Android does not get the feature &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231031/p24#a231031p24)
- - [Despite several video games with record sales in 2023 and strong overall sales, the industry is still facing layoffs, fewer job openings, and studio closures &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/231031/p23#a231031p23)<!-- TECH:END -->
+ - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

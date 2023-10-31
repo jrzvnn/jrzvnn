@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canadian govt sure doesnt help it&#39;s people produce value. They make it harder to keep businesses open](http://9gag.com/gag/aDY9P49)
- - 😝 [Quick!](http://9gag.com/gag/a04gWVX)
- - 💣 [A wild \u26ab\ufe0f hockey player deliberately lifts his leg and draws a razor-sharp blade across Adam Johnson\u2019s throat \u2014 Adam Johnson would later succumb to his wounds at the hospital.](http://9gag.com/gag/aREWDY7)
- - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 👉 [Save it and forget about it](http://9gag.com/gag/armErWp)<!-- MEMES:END -->
+ - 😝 [Are you hungry?](http://9gag.com/gag/a9qwOAK)
+ - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
+ - 💣 [Picking up a wild California Round Stingray](http://9gag.com/gag/ago9ENg)
+ - 😝 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 ---
 

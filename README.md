@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)
- - [A lament for the Touch Bar](https://appleinsider.com/articles/23/10/31/a-lament-for-the-touch-bar?utm_medium=rss)
- - [The best robot vacuum for me is the one I hacked](https://www.theverge.com/23934731/valetudo-robot-vacuum-hacking)
- - [Apple AirPods Pro 2 USB-C return to record low $189.99 during Amazon&#39;s early Black Friday sale](https://appleinsider.com/articles/23/10/31/apple-airpods-pro-2-usb-c-return-to-record-low-18999-during-amazons-early-black-friday-sale?utm_medium=rss)
- - [News Media Alliance study: AI chatbot developers rely more on articles than generic web content to train AI; NMA says this shows AI companies violate copyright &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/231031/p22#a231031p22)<!-- TECH:END -->
+ - [The Guardian accuses Microsoft of reputational damage after distasteful AI poll](https://www.theverge.com/2023/10/31/23940298/ai-generated-poll-guardian-microsoft-start-news-aggregation)
+ - [M1 24-inch iMac vs M3 24-inch iMac -- Specs, price, and features, compared](https://appleinsider.com/inside/24-inch-imac/vs/m1-24-inch-imac-vs-m3-21-inch-imac----specs-price-and-features-compared?utm_medium=rss)
+ - [Google updates Chrome on iOS to let users move the address bar to the bottom of the screen, like Safari; Chrome on Android does not get the feature &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231031/p24#a231031p24)
+ - [Despite several video games with record sales in 2023 and strong overall sales, the industry is still facing layoffs, fewer job openings, and studio closures &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/231031/p23#a231031p23)
+ - [Chrome on iOS now lets you move the address bar to the bottom](https://www.theverge.com/2023/10/31/23940005/chrome-ios-address-bar-bottom-of-the-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

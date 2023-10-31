@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
- - 😝 [Sad](http://9gag.com/gag/anzZGX0)
- - 💣 [This is doggo 6 ice cream acquired going NOM](http://9gag.com/gag/a1PgOvP)
+ - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 💣 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Time for some gaming](http://9gag.com/gag/a8qNVYO)<!-- MEMES:END -->
+ - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amateur.](http://9gag.com/gag/a4ogr9y)
- - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 💣 [Traps, traps everywhere](http://9gag.com/gag/a3Zgb01)
- - 😝 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)
+ - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
+ - 😝 [Her reaction](http://9gag.com/gag/abvDQrb)
+ - 💣 [Russia, Dagestan right now. They looking for jews in the airport](http://9gag.com/gag/ajVvWeq)
+ - 😝 [Nadal destroys feminist reporter.](http://9gag.com/gag/a3ZgWpv)
  - 👉 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)<!-- MEMES:END -->
 
 ---

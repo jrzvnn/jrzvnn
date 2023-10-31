@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What city is this?](http://9gag.com/gag/a2KgLnp)
- - 😝 [Vape Factory Asia](http://9gag.com/gag/aOxEp23)
- - 💣 [A skydiver&#39;s last jump](http://9gag.com/gag/aqeMY3p)
+ - 😝 [Spell Attic](http://9gag.com/gag/aEqKEex)
+ - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - 💣 [The face of the ice hockey player who raised his leg and slashed the neck of Adam Johnson, killing him. The media won&#39;t show you this &lpar;why lol&rpar;](http://9gag.com/gag/axoKAdL)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 👉 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)<!-- MEMES:END -->
 
 ---
 

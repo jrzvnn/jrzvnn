@@ -156,7 +156,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Disney is about to own all of Hulu](https://www.theverge.com/2023/11/1/23875523/disney-comcast-hulu-stake-sale)
- - [Disney announces it will acquire the 33% stake in Hulu held by Comcast&#39;s NBC Universal, giving Disney full ownership; Disney expects to pay NBCU about $8.61B &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)
+ - [Disney plans to acquire the 33% stake in Hulu held by Comcast&#39;s NBCUniversal, giving Disney full ownership; Disney expects to pay NBCU ~$8.61B by December 1 &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)
  - [After Starfield’s shaky launch, it’s going to beta test the next patch soon](https://www.theverge.com/2023/11/1/23942435/starfield-dlss-3-pc-update-steam-beta)
  - [Roku reports Q3 revenue up 20% YoY to $912M, vs. $853.2M est., net loss up 170% YoY to $330M, and forecasts a &quot;similar&quot; YoY ad growth for Q4; ROKU jumps 15%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231101/p34#a231101p34)
  - [Airbnb Q3: revenue up 18% YoY to $3.4B vs. $3.37B est., Nights and Experiences Booked up 14% YoY to 113.2M vs. 112.9M est., and a Q4 revenue forecast below est. &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231101/p33#a231101p33)<!-- TECH:END -->

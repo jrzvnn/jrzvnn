@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CRM platform HubSpot announces it&#39;s acquiring the B2B data provider Clearbit, which has 400K+ users and was valued at $250M as of January 2019, per PitchBook &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231101/p29#a231101p29)
  - [Apple no longer offers the Apple Music Voice Plan](https://www.theverge.com/2023/11/1/23942369/apple-music-voice-plan-discontinued)
  - [Snowflake announces Snowflake Cortex, a fully managed service designed to help business users and developers work with AI-fueled apps on its Data Cloud platform &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231101/p28#a231101p28)
  - [Joe Rogan’s big decision](https://www.theverge.com/2023/11/1/23942287/joe-rogan-spotify-youtube-elon-musk)
- - [Apple to double Indian iPhone production in 2024, says Ming-Chi Kuo](https://appleinsider.com/articles/23/11/01/apple-to-double-indian-iphone-production-in-2024-says-ming-chi-kuo?utm_medium=rss)
- - [Subaru is adopting Tesla’s EV charging port as holdout numbers dwindle](https://www.theverge.com/2023/11/1/23942270/subaru-tesla-ev-charging-port-nacs)<!-- TECH:END -->
+ - [Apple to double Indian iPhone production in 2024, says Ming-Chi Kuo](https://appleinsider.com/articles/23/11/01/apple-to-double-indian-iphone-production-in-2024-says-ming-chi-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

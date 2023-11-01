@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [70mai 4K A810 Dash Cam boasts 4K video, dual-channel recording, AI smarts](https://appleinsider.com/articles/23/11/01/70mai-4k-a810-dash-cam-boasts-4k-video-dual-channel-recording-ai-smarts?utm_medium=rss)
+ - [Meta is investigating Quest 3 issues after controller tracking complaints](https://www.theverge.com/2023/11/1/23941613/meta-investigating-quest-3-controller-tracking-issues)
+ - [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics)
  - [Despite broad support by the US public and lawmakers for child internet laws, Congress has done nothing, even after holding 39 hearings on the topic since 2017 &lpar;Tim Wu/The Atlantic&rpar;](http://www.techmeme.com/231101/p12#a231101p12)
- - [A new top 5 smartphone manufacturer is challenging Apple and Samsung](https://www.theverge.com/2023/11/1/23941587/transsion-tecno-itel-infinix-fifth-largest-smartphone-manufacturer-canalys-idc-omdia)
- - [Finland-based Wirepas, which is building mesh IoT networks, raised $22M led by Highland Europe, a source says at a $100M-$200M valuation, and claims 160 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231101/p11#a231101p11)
- - [A look at Apple&#39;s ambition to revolutionize health care: some breakthroughs marred by philosophical disagreements, a culture of conservatism, and tech realities &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p10#a231101p10)
- - [After three hours of oral arguments, SCOTUS found no consensus on whether public officials can block social media critics, part of two First Amendment cases &lpar;Ann E. Marimow/Washington Post&rpar;](http://www.techmeme.com/231101/p9#a231101p9)<!-- TECH:END -->
+ - [A new top 5 smartphone manufacturer is challenging Apple and Samsung](https://www.theverge.com/2023/11/1/23941587/transsion-tecno-itel-infinix-fifth-largest-smartphone-manufacturer-canalys-idc-omdia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

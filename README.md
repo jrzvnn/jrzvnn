@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Google internally declared &quot;Code Yellow&quot; emergency in February 2019 for seven weeks to figure out why user search queries have slowed down &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p4#a231101p4)
  - [Ahead of India&#39;s 2024 elections, politicians are using voice cloning tools to deliver personalized messages, as AI-generated songs featuring Modi gain traction &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231101/p3#a231101p3)
  - [Best Buy cuts M3 MacBook prices by $100, includes AppleCare for Total members](https://appleinsider.com/articles/23/11/01/best-buy-cuts-m3-macbook-prices-by-100-includes-applecare-for-total-members?utm_medium=rss)
  - [Check Point details a monthslong espionage campaign by Iranian hackers targeting countries, including Israel, underscoring Iran&#39;s improved hacking capabilities &lpar;New York Times&rpar;](http://www.techmeme.com/231101/p2#a231101p2)
- - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~11% in 2023 to $218B, down from 20% in 2022, slowing to its lowest rate since 2017 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231101/p1#a231101p1)
- - [Best MacBook for 2023     - CNET](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~11% in 2023 to $218B, down from 20% in 2022, slowing to its lowest rate since 2017 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231101/p1#a231101p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

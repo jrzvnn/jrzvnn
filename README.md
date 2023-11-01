@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New survey reveals iPhone users more likely to opt for installment plans](https://appleinsider.com/articles/23/11/01/new-survey-reveals-iphone-users-more-likely-to-opt-for-installment-plans?utm_medium=rss)
  - [Benchmarks confirm Apple&#39;s performance claims for the new series of M3 chips](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)
  - [UK tribunal gives $2B iPhone battery lawsuit the go-ahead](https://appleinsider.com/articles/23/11/01/uk-tribunal-gives-2b-iphone-battery-lawsuit-the-go-ahead?utm_medium=rss)
  - [Apple Arcade adds hit &#39;Dreamlight Valley&#39;, and more in November](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
- - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
- - [&#39;Thirsty Suitors&#39; Review: A Hilarious and Refreshing Game Made for the South Asian Community](https://www.wired.com/review/thirsty-suitors-review/)<!-- TECH:END -->
+ - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

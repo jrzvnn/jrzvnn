@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans several new health features for 2024&#39;s Apple Watch, like an elevated blood pressure sensor, and a paid health service, possibly using AI &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231101/p14#a231101p14)
+ - [Wedbush says Apple&#39;s earnings won&#39;t be dented by falling China demand](https://appleinsider.com/articles/23/11/01/wedbush-says-apples-earnings-wont-be-dented-by-falling-china-demand?utm_medium=rss)
  - [At the UK&#39;s AI Safety Summit, a UK minister releases the Bletchley Declaration policy paper and the US Commerce Secretary announces an AI Safety Institute &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231101/p13#a231101p13)
  - [70mai 4K A810 Dash Cam boasts 4K video, dual-channel recording, AI smarts](https://appleinsider.com/articles/23/11/01/70mai-4k-a810-dash-cam-boasts-4k-video-dual-channel-recording-ai-smarts?utm_medium=rss)
- - [Meta is investigating Quest 3 issues after controller tracking complaints](https://www.theverge.com/2023/11/1/23941613/meta-investigating-quest-3-controller-tracking-issues)
- - [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics)
- - [Despite broad support by the US public and lawmakers for child internet laws, Congress has done nothing, even after holding 39 hearings on the topic since 2017 &lpar;Tim Wu/The Atlantic&rpar;](http://www.techmeme.com/231101/p12#a231101p12)<!-- TECH:END -->
+ - [Woot&#39;s LG OLED TV Deal Saves You Over $1,100     - CNET](https://www.cnet.com/deals/woots-lg-oled-tv-deal-saves-you-over-1100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

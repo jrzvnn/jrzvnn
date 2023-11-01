@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mmmhhh 🤔](https://www.reddit.com/r/funny/comments/17lh03k/mmmhhh/)
  - 😝 [Shout out to all the Dad&#39;s out there](https://www.reddit.com/r/funny/comments/17lgk2v/shout_out_to_all_the_dads_out_there/)
- - 😝 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)
- - 💣 [AI will leave us all without jobs reeee](https://www.reddit.com/r/memes/comments/17lfz98/ai_will_leave_us_all_without_jobs_reeee/)
- - 😝 [men being men](https://www.reddit.com/r/funny/comments/17lf9pd/men_being_men/)
- - 👉 [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)<!-- MEMES:END -->
+ - 💣 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)
+ - 😝 [AI will leave us all without jobs reeee](https://www.reddit.com/r/memes/comments/17lfz98/ai_will_leave_us_all_without_jobs_reeee/)
+ - 👉 [men being men](https://www.reddit.com/r/funny/comments/17lf9pd/men_being_men/)<!-- MEMES:END -->
 
 ---
 

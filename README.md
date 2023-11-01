@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A few hidden gems to play after Super Mario and Spider-Man](https://www.theverge.com/23939189/october-2023-games-hidden-gem-cocoon-subpar-pool-jusant)
  - [Here’s a rare look at Google’s most lucrative search queries](https://www.theverge.com/2023/11/1/23941766/google-antitrust-trial-search-queries-ad-money)
  - [Apple Arcade is getting some great new games for the holidays](https://www.theverge.com/23941709/apple-arcade-games-holiday-2023-releases-sonic-knotwords-dreamlight-valley)
  - [How to set up profiles in Safari on macOS Sonoma](https://www.theverge.com/23938790/macos-sonoma-safari-how-to)
- - [Netflix will skip some ads if you binge-watch](https://www.theverge.com/2023/11/1/23941708/netflix-ad-supported-plan-binge-watching)
- - [Apple shipped 2.5M iPhones in India in Q3, its highest quarterly shipments; Samsung remained top with a 17.2% share, followed by Xiaomi &lpar;16.6%&rpar; and Vivo &lpar;15.9%&rpar; &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231101/p19#a231101p19)<!-- TECH:END -->
+ - [Netflix will skip some ads if you binge-watch](https://www.theverge.com/2023/11/1/23941708/netflix-ad-supported-plan-binge-watching)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

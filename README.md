@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 😝 [Amateur.](http://9gag.com/gag/a4ogr9y)
- - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 😝 [What is it?](http://9gag.com/gag/aeQzPyj)
+ - 😝 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)
+ - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 👉 [Good old times](http://9gag.com/gag/aA0ANWg)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sofia Coppola says Apple canned her Edith Wharton series  over &#39;unlikable&#39; lead](https://appleinsider.com/articles/23/11/01/sofia-coppola-says-apple-canned-her-edith-wharton-series-over-unlikable-lead?utm_medium=rss)
  - [Accepting regulation locks in incumbents, OpenAI and other early winners, which signed the Center for AI Safety&#39;s letter, seem most invested in creating alarm &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231101/p23#a231101p23)
  - [Apple can’t block iPhone ‘throttling’ lawsuit, London court rules](https://www.theverge.com/2023/11/1/23941813/apple-iphone-battery-throttling-lawsuit-london-court)
  - [Apple loses a bid to block a mass UK lawsuit over allegedly hiding battery issues in iPhones and &quot;throttling&quot; them via updates; Apple calls the suit &quot;baseless&quot; &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231101/p22#a231101p22)
- - [HSBC launches a blockchain platform to tokenize ownership of gold held in its London vault; HSBC is one of the world&#39;s largest custodians of precious metals &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231101/p21#a231101p21)
- - [Google is making it easier to buy from small businesses](https://www.theverge.com/2023/11/1/23941684/google-shopping-small-businesses-product-studio-release-date)<!-- TECH:END -->
+ - [Sam Bankman-Fried Sealed His Fate Long Before the FTX Trial](https://www.wired.com/story/sbf-trial-sam-bankman-fried-ftx-testimony/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

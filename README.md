@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HSBC launches a blockchain platform to tokenize ownership of gold held in its London vault; HSBC is one of the world&#39;s largest custodians of precious metals &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231101/p21#a231101p21)
+ - [Google is making it easier to buy from small businesses](https://www.theverge.com/2023/11/1/23941684/google-shopping-small-businesses-product-studio-release-date)
  - [US v. Google offers a rare look at Google&#39;s 20 highest revenue queries for a week in September 2018: iPhone, insurance, cheap flights, online colleges, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231101/p20#a231101p20)
  - [OneNote on Windows now has improved pen and ink gestures for drawing and writing](https://www.theverge.com/2023/11/1/23941806/onenote-windows-app-pen-ink-gestures-drawing-writing)
- - [A few hidden gems to play after Super Mario and Spider-Man](https://www.theverge.com/23939189/october-2023-games-hidden-gem-cocoon-subpar-pool-jusant)
- - [Here’s a rare look at Google’s most lucrative search queries](https://www.theverge.com/2023/11/1/23941766/google-antitrust-trial-search-queries-ad-money)
- - [Apple Arcade is getting some great new games for the holidays](https://www.theverge.com/23941709/apple-arcade-games-holiday-2023-releases-sonic-knotwords-dreamlight-valley)<!-- TECH:END -->
+ - [A few hidden gems to play after Super Mario and Spider-Man](https://www.theverge.com/23939189/october-2023-games-hidden-gem-cocoon-subpar-pool-jusant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

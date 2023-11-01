@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)
- - 😝 [Proud dad](http://9gag.com/gag/awZjvmR)
- - 💣 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 😝 [Save it and forget about it](http://9gag.com/gag/armErWp)
+ - 💣 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)<!-- MEMES:END -->
+ - 👉 [Be superstitious\u2026.. or not\u2026..](http://9gag.com/gag/aXn3dPd)<!-- MEMES:END -->
 
 ---
 

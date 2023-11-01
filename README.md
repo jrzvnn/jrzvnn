@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade adds eight new games, including Sonic Dream Team](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
+ - [Sources: India authorizes 110 companies, including Apple, HP, Samsung, Xiaomi, and Lenovo, to import laptops, tablets, and PCs under its new tech import rules &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/231101/p18#a231101p18)
+ - [Apple Arcade adds eight new games, including &#39;Sonic Dream Team&#39;](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
  - [UE Epicboom review: an epic price for an ordinary speaker](https://www.theverge.com/23941028/ultimate-ears-epicboom-bluetooth-speaker-review)
  - [FusionAuth, which offers developer authentication and user management tools, raised $65M led by Updata, its first outside funding in its five-year history &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231101/p17#a231101p17)
- - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)
- - [Shareholder letter: Netflix says its ad tier now has 15M MAUs globally, accounting for 30% of new sign-ups where its available, and plans new ad formats in 2024 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231101/p16#a231101p16)<!-- TECH:END -->
+ - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

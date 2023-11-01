@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India clears Apple, others after import imbroglio](https://appleinsider.com/articles/23/11/01/india-clears-apple-others-after-import-imbroglio?utm_medium=rss)
+ - [I went to paradise to see the future of AI, and I’m more confused than ever](https://www.theverge.com/23940685/qualcomm-snapdragon-summit-2023-8-gen-3-ai)
+ - [Mario Kart 8 Deluxe’s sixth and final wave of DLC tracks arrives next week](https://www.theverge.com/2023/11/1/23941695/mario-kart-8-deluxe-wave-6-dlc-tracks-release-date-characters)
  - [Sources: India authorizes 110 companies, including Apple, HP, Samsung, Xiaomi, and Lenovo, to import laptops, tablets, and PCs under its new tech import rules &lpar;Shivangi Acharya/Reuters&rpar;](http://www.techmeme.com/231101/p18#a231101p18)
- - [Apple Arcade adds eight new games, including &#39;Sonic Dream Team&#39;](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
- - [UE Epicboom review: an epic price for an ordinary speaker](https://www.theverge.com/23941028/ultimate-ears-epicboom-bluetooth-speaker-review)
- - [FusionAuth, which offers developer authentication and user management tools, raised $65M led by Updata, its first outside funding in its five-year history &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231101/p17#a231101p17)
- - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Arcade adds eight new games, including &#39;Sonic Dream Team&#39;](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

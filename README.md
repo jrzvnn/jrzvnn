@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EDPB instructs the Irish DPC to ban Meta&#39;s use of personal data for behavioral ads on the legal base of contract and legitimate interest in the EU and EEA &lpar;Joe Duball/International Association ...&rpar;](http://www.techmeme.com/231101/p38#a231101p38)
  - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
  - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
  - [PayPal reports Q3 revenue up 9% YoY to $7.4B, vs. $7.38B est., total payment volume up 13% YoY to $387.7B, vs. $377.9B, and forecasts FY 2023 profit above est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/231101/p37#a231101p37)
- - [Anytime Fitness members get Apple Fitness+ for free](https://appleinsider.com/articles/23/11/01/anytime-fitness-members-get-apple-fitness-for-free?utm_medium=rss)
- - [EA reports Q2 net bookings up 4% YoY to $1.82B, vs. $1.78B est., revenue of $1.91B, up from $1.9B in Q2 2022, and raises its annual profit forecast &lpar;Reuters&rpar;](http://www.techmeme.com/231101/p36#a231101p36)<!-- TECH:END -->
+ - [Anytime Fitness members get Apple Fitness+ for free](https://appleinsider.com/articles/23/11/01/anytime-fitness-members-get-apple-fitness-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

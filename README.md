@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data: African startups raised only $1.3B in the first nine months of 2023, below the $3.3B and $2.9B raised over the same period in 2022 and 2021, respectively &lpar;Sultan Quadri/Rest of World&rpar;](http://www.techmeme.com/231101/p7#a231101p7)
  - [November SSI Payments Are Coming. Here&#39;s When to Expect Them     - CNET](https://www.cnet.com/personal-finance/october-ssi-payments-are-coming-heres-when-to-expect-it/#ftag=CAD590a51e)
  - [Ahead of the UK&#39;s AI summit, Chinese scientists warn of AI&#39;s &quot;existential risk to humanity&quot;; sources: the UK plans to announce South Korea as Summit&#39;s 2024 host &lpar;Financial Times&rpar;](http://www.techmeme.com/231101/p6#a231101p6)
  - [Riyadh-based BNPL startup Tabby raised a $200M Series D at a $1.5B valuation, bringing its total funding to over $950M; CEO Hosam Arab says Tabby is profitable &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231101/p5#a231101p5)
- - [US v. Google: Google internally declared &quot;Code Yellow&quot; emergency in February 2019 for seven weeks to figure out why user search queries have slowed down &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p4#a231101p4)
- - [Ahead of India&#39;s 2024 elections, politicians are using voice cloning tools to deliver personalized messages, as AI-generated songs featuring Modi gain traction &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/231101/p3#a231101p3)<!-- TECH:END -->
+ - [US v. Google: Google internally declared &quot;Code Yellow&quot; emergency in February 2019 for seven weeks to figure out why user search queries have slowed down &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p4#a231101p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

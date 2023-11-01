@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans several new health features for 2024&#39;s Apple Watch, like an elevated blood pressure sensor, and a paid health service, possibly using AI &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231101/p14#a231101p14)
- - [Wedbush says Apple&#39;s earnings won&#39;t be dented by falling China demand](https://appleinsider.com/articles/23/11/01/wedbush-says-apples-earnings-wont-be-dented-by-falling-china-demand?utm_medium=rss)
- - [At the UK&#39;s AI Safety Summit, a UK minister releases the Bletchley Declaration policy paper and the US Commerce Secretary announces an AI Safety Institute &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231101/p13#a231101p13)
- - [70mai 4K A810 Dash Cam boasts 4K video, dual-channel recording, AI smarts](https://appleinsider.com/articles/23/11/01/70mai-4k-a810-dash-cam-boasts-4k-video-dual-channel-recording-ai-smarts?utm_medium=rss)
- - [Woot&#39;s LG OLED TV Deal Saves You Over $1,100     - CNET](https://www.cnet.com/deals/woots-lg-oled-tv-deal-saves-you-over-1100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shareholder letter: Netflix says its ad tier now has 15M MAUs globally, accounting for 30% of new sign-ups where its available, and plans new ad formats in 2024 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231101/p16#a231101p16)
+ - [iPhone Tap to Pay comes to Ukraine](https://appleinsider.com/articles/23/11/01/iphone-tap-to-pay-comes-to-ukraine?utm_medium=rss)
+ - [Apple Watch Series 10 will monitor blood pressure, detect sleep apnea](https://appleinsider.com/articles/23/11/01/apple-watch-series-10-will-monitor-blood-pressure-detect-sleep-apnea?utm_medium=rss)
+ - [LinkedIn announces a GPT-4-powered AI chatbot aimed at being a &quot;job seeker coach&quot;, available to Premium users, and says the platform now has 1B+ members &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231101/p15#a231101p15)
+ - [This giant Duracell battery is an absolutely packed portable charging station](https://www.theverge.com/2023/11/1/23941447/duracell-m150-portable-power-station)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

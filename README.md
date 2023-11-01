@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [R_I_P THE economy](https://www.reddit.com/r/memes/comments/17lc1jd/r_i_p_the_economy/)
  - 😝 [Man has talent](https://www.reddit.com/r/funny/comments/17lbwno/man_has_talent/)
- - 💣 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)
- - 😝 [High Stress/Achiever](https://www.reddit.com/r/funny/comments/17lauau/high_stressachiever/)
- - 👉 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)<!-- MEMES:END -->
+ - 💣 [Busted!](https://www.reddit.com/r/memes/comments/17lbc12/busted/)
+ - 😝 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)
+ - 👉 [High Stress/Achiever](https://www.reddit.com/r/funny/comments/17lauau/high_stressachiever/)<!-- MEMES:END -->
 
 ---
 

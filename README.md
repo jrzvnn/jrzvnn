@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First M3 benchmarks show big speed improvements over M2](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)
- - [Mark Wahlberg&#39;s comedy &#39;The Family Plan&#39; premieres December 15 on Apple TV+](https://appleinsider.com/articles/23/11/01/mark-wahlbergs-comedy-the-family-plan-premieres-december-15-on-apple-tv?utm_medium=rss)
- - [Live Updates: The Trial of FTX Founder Sam Bankman-Fried, the Verdict](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-verdict/)
- - [’We’re Putting Gasoline on These Children?’: Behind the Wildest NPC Lines in &#39;Marvel’s Spider-Man 2&#39;](https://www.wired.com/story/marvels-spider-man-2-npc-nanny-conversation/)
- - [New survey reveals iPhone users more likely to opt for installment plans](https://appleinsider.com/articles/23/11/01/new-survey-reveals-iphone-users-more-likely-to-opt-for-installment-plans?utm_medium=rss)<!-- TECH:END -->
+ - [You can now order the USB-C Apple Pencil](https://www.theverge.com/2023/11/1/23942116/apple-usb-c-pencil-available-order-ipad)
+ - [Xbox is about to get better apps and web games](https://www.theverge.com/2023/11/1/23942104/microsoft-xbox-edge-webview-2-apps-html5-games-support)
+ - [Apple keeps exploring &lpar;and scrapping&rpar; new ways to detect users’ health](https://www.theverge.com/2023/11/1/23941627/apple-watch-healthcare-clinics-health-app-iphone-airpods)
+ - [The US SEC charges SafeMoon and its exec team for selling unregistered crypto securities and misappropriating investors&#39; funds the team had said were &quot;locked&quot; &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231101/p24#a231101p24)
+ - [First M3 benchmarks show big speed improvements over M2](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

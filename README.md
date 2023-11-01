@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After three hours of oral arguments, SCOTUS found no consensus on whether public officials can block social media critics, part of two First Amendment cases &lpar;Ann E. Marimow/Washington Post&rpar;](http://www.techmeme.com/231101/p9#a231101p9)
  - [A look back at testimony from Caroline Ellison, Gary Wang, and Nishad Singh and SBF&#39;s counterclaims, as the jury prepares to deliberate over who told the truth &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231101/p8#a231101p8)
- - [Data: African startups raised only $1.3B in the first nine months of 2023, below the $3.3B and $2.9B raised over the same period in 2022 and 2021, respectively &lpar;Sultan Quadri/Rest of World&rpar;](http://www.techmeme.com/231101/p7#a231101p7)
- - [November SSI Payments Are Coming. Here&#39;s When to Expect Them     - CNET](https://www.cnet.com/personal-finance/october-ssi-payments-are-coming-heres-when-to-expect-it/#ftag=CAD590a51e)
- - [Ahead of the UK&#39;s AI summit, Chinese scientists warn of AI&#39;s &quot;existential risk&quot;; sources say the UK plans to announce South Korea as the Summit&#39;s host in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/231101/p6#a231101p6)
- - [Riyadh-based BNPL startup Tabby raised a $200M Series D at a $1.5B valuation, bringing its total funding to over $950M; CEO Hosam Arab says Tabby is profitable &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/231101/p5#a231101p5)<!-- TECH:END -->
+ - [M3 Mac Preorders: Where to Get Your Hands on Apple&#39;s Latest Lineup     - CNET](https://www.cnet.com/tech/computing/best-m3-mac-deals/#ftag=CAD590a51e)
+ - [Save Big on a New Mattress This Fall With These Limited-Time Sales     - CNET](https://www.cnet.com/deals/save-big-on-a-new-mattress-this-fall-with-these-limited-time-sales/#ftag=CAD590a51e)
+ - [Data: African startups raised only $1.3B in the first nine months of 2023, below the $3.3B and $2.9B raised over the same period in 2022 and 2021, respectively &lpar;Sultan Quadri/Rest of World&rpar;](http://www.techmeme.com/231101/p7#a231101p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

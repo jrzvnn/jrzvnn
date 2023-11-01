@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/)
  - [The EDPB instructs the Irish DPC to ban Meta&#39;s use of personal data for behavioral ads on the legal base of contract and legitimate interest in the EU and EEA &lpar;Joe Duball/IAPP&rpar;](http://www.techmeme.com/231101/p38#a231101p38)
  - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)
  - [Best Apple Pencil Deals: Save on Stylus Options From Apple and Others     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
- - [Eye Drop Recalls: Here&#39;s Which Brands Are Affected and How to Shop Safely     - CNET](https://www.cnet.com/health/personal-care/eye-drop-recalls-heres-which-brands-are-affected-and-how-to-shop-safely/#ftag=CAD590a51e)
- - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)<!-- TECH:END -->
+ - [Eye Drop Recalls: Here&#39;s Which Brands Are Affected and How to Shop Safely     - CNET](https://www.cnet.com/health/personal-care/eye-drop-recalls-heres-which-brands-are-affected-and-how-to-shop-safely/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

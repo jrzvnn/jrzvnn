@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speaking from experience](http://9gag.com/gag/adPAbXB)
- - 😝 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
- - 💣 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
+ - 😝 [Proud dad](http://9gag.com/gag/awZjvmR)
+ - 💣 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 

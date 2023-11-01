@@ -166,9 +166,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- MEMES:START -->
  - 😝 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
  - 😝 [Our cross-department chat at work](https://www.reddit.com/r/funny/comments/17lczvq/our_crossdepartment_chat_at_work/)
- - 💣 [R_I_P THE economy](https://www.reddit.com/r/memes/comments/17lc1jd/r_i_p_the_economy/)
- - 😝 [Man has talent](https://www.reddit.com/r/funny/comments/17lbwno/man_has_talent/)
- - 👉 [He&#39;s not getting away with this](https://www.reddit.com/r/memes/comments/17lbnl5/hes_not_getting_away_with_this/)<!-- MEMES:END -->
+ - 💣 [It&#39;s my laptop, not yours!](https://www.reddit.com/r/memes/comments/17lc8o9/its_my_laptop_not_yours/)
+ - 😝 [R_I_P THE economy](https://www.reddit.com/r/memes/comments/17lc1jd/r_i_p_the_economy/)
+ - 👉 [Man has talent](https://www.reddit.com/r/funny/comments/17lbwno/man_has_talent/)<!-- MEMES:END -->
 
 ---
 

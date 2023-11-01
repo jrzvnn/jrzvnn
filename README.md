@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)
  - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
  - [CRM platform HubSpot announces it&#39;s acquiring the B2B data provider Clearbit, which has 400K+ users and was valued at $250M as of January 2019, per PitchBook &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231101/p29#a231101p29)
  - [Apple no longer offers the Apple Music Voice Plan](https://www.theverge.com/2023/11/1/23942369/apple-music-voice-plan-discontinued)
- - [Snowflake announces Snowflake Cortex, a fully managed service designed to help business users and developers work with AI-fueled apps on its Data Cloud platform &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231101/p28#a231101p28)
- - [Joe Rogan’s big decision](https://www.theverge.com/2023/11/1/23942287/joe-rogan-spotify-youtube-elon-musk)<!-- TECH:END -->
+ - [Snowflake announces Snowflake Cortex, a fully managed service designed to help business users and developers work with AI-fueled apps on its Data Cloud platform &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231101/p28#a231101p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proud dad](http://9gag.com/gag/awZjvmR)
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 💣 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 😝 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
+ - 😝 [Good old times](http://9gag.com/gag/aA0ANWg)
+ - 💣 [Proud dad](http://9gag.com/gag/awZjvmR)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 

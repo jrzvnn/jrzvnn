@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Subaru is adopting Tesla’s EV charging port as holdout numbers dwindle](https://www.theverge.com/2023/11/1/23942270/subaru-tesla-ev-charging-port-nacs)
  - [Worldcoin&#39;s Tools for Humanity says its World App wallet has crossed 4M+ downloads, 100K+ DAUs, 1M+ MAUs, and 22M transactions since its launch in May 2023 &lpar;Worldcoin&rpar;](http://www.techmeme.com/231101/p27#a231101p27)
  - [Sources: Binance plans to end its partnership with payments firm Advcash that let customers move funds held at sanctioned Russian banks to the crypto exchange &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231101/p26#a231101p26)
  - [New MacBook Pros and iMacs will need a day one macOS Sonoma update](https://appleinsider.com/articles/23/11/01/new-macbook-pros-and-imacs-will-need-a-day-one-macos-sonoma-update?utm_medium=rss)
- - [Coinbase announces that eligible US retail customers can now access bitcoin and ether futures contracts through Coinbase Financial Markets &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231101/p25#a231101p25)
- - [Best Solar Panel Installation Companies in Chicago     - CNET](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase announces that eligible US retail customers can now access bitcoin and ether futures contracts through Coinbase Financial Markets &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231101/p25#a231101p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)
  - 😝 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
- - 😝 [Ouroboros](https://www.reddit.com/r/funny/comments/17ld7th/ouroboros/)
- - 💣 [Sports cars](https://www.reddit.com/r/memes/comments/17ld1f0/sports_cars/)
- - 😝 [Our cross-department chat at work](https://www.reddit.com/r/funny/comments/17lczvq/our_crossdepartment_chat_at_work/)
- - 👉 [It&#39;s my laptop, not yours!](https://www.reddit.com/r/memes/comments/17lc8o9/its_my_laptop_not_yours/)<!-- MEMES:END -->
+ - 💣 [Mom bought a neck massager. I have my doubts. Please guide me out of my mistake.](https://www.reddit.com/r/funny/comments/17ldfs1/mom_bought_a_neck_massager_i_have_my_doubts/)
+ - 😝 [Sports cars](https://www.reddit.com/r/memes/comments/17ld1f0/sports_cars/)
+ - 👉 [Our cross-department chat at work](https://www.reddit.com/r/funny/comments/17lczvq/our_crossdepartment_chat_at_work/)<!-- MEMES:END -->
 
 ---
 

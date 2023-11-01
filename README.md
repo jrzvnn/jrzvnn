@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
- - 😝 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
- - 💣 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
+ - 😝 [PROVE ME WRONG!](http://9gag.com/gag/a9qwZ2D)
+ - 😝 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
+ - 💣 [Amateur.](http://9gag.com/gag/a4ogr9y)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
+ - 👉 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)<!-- MEMES:END -->
 
 ---
 

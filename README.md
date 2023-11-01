@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)
+ - 😝 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)
+ - 😝 [men being men](https://www.reddit.com/r/funny/comments/17lf9pd/men_being_men/)
+ - 💣 [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)
  - 😝 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
- - 💣 [Mom bought a neck massager. I have my doubts. Please guide me out of my mistake.](https://www.reddit.com/r/funny/comments/17ldfs1/mom_bought_a_neck_massager_i_have_my_doubts/)
- - 😝 [Sports cars](https://www.reddit.com/r/memes/comments/17ld1f0/sports_cars/)
- - 👉 [Our cross-department chat at work](https://www.reddit.com/r/funny/comments/17lczvq/our_crossdepartment_chat_at_work/)<!-- MEMES:END -->
+ - 👉 [&lpar;I tried it and it backfired on me &rpar;](https://www.reddit.com/r/memes/comments/17ldfw6/i_tried_it_and_it_backfired_on_me/)<!-- MEMES:END -->
 
 ---
 

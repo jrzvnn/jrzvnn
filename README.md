@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amateur.](http://9gag.com/gag/a4ogr9y)
- - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
- - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
+ - 😝 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)
+ - 😝 [This is a diamond Pepe, only appears when you really need him. Up vote and you will get a peaceful day.](http://9gag.com/gag/aeQzPZv)
+ - 💣 [Imagine climate soy boys knowing anything about anything](http://9gag.com/gag/aVbr4LK)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)<!-- MEMES:END -->
+ - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new AI-powered Office assistant is here — if you’ve got $9,000 and 300 friends](https://www.theverge.com/2023/11/1/23942155/microsoft-365-copilot-ai-office-documents-launch-business-enterprise-pricing-release-date)
+ - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
  - [You can now order the USB-C Apple Pencil](https://www.theverge.com/2023/11/1/23942116/apple-usb-c-pencil-available-order-ipad)
  - [Xbox is about to get better apps and web games](https://www.theverge.com/2023/11/1/23942104/microsoft-xbox-edge-webview-2-apps-html5-games-support)
- - [Apple keeps exploring &lpar;and scrapping&rpar; new ways to detect users’ health](https://www.theverge.com/2023/11/1/23941627/apple-watch-healthcare-clinics-health-app-iphone-airpods)
- - [The US SEC charges SafeMoon and its exec team for selling unregistered crypto securities and misappropriating investors&#39; funds the team had said were &quot;locked&quot; &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/231101/p24#a231101p24)
- - [First M3 benchmarks show big speed improvements over M2](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)<!-- TECH:END -->
+ - [Apple keeps exploring &lpar;and scrapping&rpar; new ways to detect users’ health](https://www.theverge.com/2023/11/1/23941627/apple-watch-healthcare-clinics-health-app-iphone-airpods)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

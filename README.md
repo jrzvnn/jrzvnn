@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An update which I think you guys might be interested in](http://9gag.com/gag/armE0nB)
  - 😝 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
- - 💣 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 💣 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)<!-- MEMES:END -->
+ - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
 
 ---
 

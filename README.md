@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [visionOS developer beta 5 is now available and includes the App Store](https://appleinsider.com/articles/23/11/01/visionos-developer-beta-5-is-now-available-and-includes-the-app-store?utm_medium=rss)
+ - [Sources: Bungie cut ~100 jobs after executives said the company&#39;s revenue was 45% below projections for the year, citing a drop in Destiny 2&#39;s popularity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231031/p41#a231031p41)
+ - [Pixel Tablet Deals: Save $100 On Google&#39;s Latest Tablet     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
  - [DeepMind says its latest AlphaFold model can generate predictions for nearly all molecules in the Protein Data Bank and for ligands, nucleic acids, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231031/p40#a231031p40)
- - [Leaker corroborates iPhone 16 capacitive capture button rumor](https://appleinsider.com/articles/23/10/31/leaker-corroborates-iphone-16-capacitive-capture-button-rumor?utm_medium=rss)
- - [Elon Musk’s ‘everything app’ plan for X, in his own words](https://www.theverge.com/23940924/elon-musk-x-twitter-all-hands-linda-yaccarino-super-app)
- - [The Second Person to Get a Pig Heart Transplant Just Died](https://www.wired.com/story/pig-heart-transplant-lawrence-faucette-death/)
- - [On his final day of testimony, SBF denied knowing that billions of dollars in customer money had been misappropriated until shortly before FTX collapsed &lpar;New York Times&rpar;](http://www.techmeme.com/231031/p39#a231031p39)<!-- TECH:END -->
+ - [Leaker corroborates iPhone 16 capacitive capture button rumor](https://appleinsider.com/articles/23/10/31/leaker-corroborates-iphone-16-capacitive-capture-button-rumor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

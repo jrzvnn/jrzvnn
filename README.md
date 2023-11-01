@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Arcade adds hit &#39;Dreamlight Valley&#39;, and more in November](https://appleinsider.com/articles/23/11/01/apple-arcade-adds-eight-new-games-including-sonic-dream-team?utm_medium=rss)
+ - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
+ - [&#39;Thirsty Suitors&#39; Review: A Hilarious and Refreshing Game Made for the South Asian Community](https://www.wired.com/review/thirsty-suitors-review/)
  - [Sofia Coppola says Apple canned her Edith Wharton series  over &#39;unlikable&#39; lead](https://appleinsider.com/articles/23/11/01/sofia-coppola-says-apple-canned-her-edith-wharton-series-over-unlikable-lead?utm_medium=rss)
- - [Accepting regulation locks in incumbents, OpenAI and other early winners, which signed the Center for AI Safety&#39;s letter, seem most invested in creating alarm &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231101/p23#a231101p23)
- - [Apple can’t block iPhone ‘throttling’ lawsuit, London court rules](https://www.theverge.com/2023/11/1/23941813/apple-iphone-battery-throttling-lawsuit-london-court)
- - [Apple loses a bid to block a mass UK lawsuit over allegedly hiding battery issues in iPhones and &quot;throttling&quot; them via updates; Apple calls the suit &quot;baseless&quot; &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231101/p22#a231101p22)
- - [Sam Bankman-Fried Sealed His Fate Long Before the FTX Trial](https://www.wired.com/story/sbf-trial-sam-bankman-fried-ftx-testimony/)<!-- TECH:END -->
+ - [Accepting regulation locks in incumbents, OpenAI and other early winners, which signed the Center for AI Safety&#39;s letter, seem most invested in creating alarm &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231101/p23#a231101p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 😝 [There has to be more?????](http://9gag.com/gag/adPArnj)
- - 💣 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)
+ - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
+ - 😝 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - 💣 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
 
 ---
 

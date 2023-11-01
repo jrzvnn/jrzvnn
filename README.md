@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First M3 benchmarks show big speed improvements over M2](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)
  - [Mark Wahlberg&#39;s comedy &#39;The Family Plan&#39; premieres December 15 on Apple TV+](https://appleinsider.com/articles/23/11/01/mark-wahlbergs-comedy-the-family-plan-premieres-december-15-on-apple-tv?utm_medium=rss)
- - [Stay Extra Cozy This Winter With Big Blanket Co&#39;s Buy One, Get One 50% Off Deal     - CNET](https://www.cnet.com/deals/stay-extra-cozy-this-winter-with-big-blanket-cos-buy-one-get-one-50-off-deal/#ftag=CAD590a51e)
+ - [Live Updates: The Trial of FTX Founder Sam Bankman-Fried, the Verdict](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-verdict/)
  - [’We’re Putting Gasoline on These Children?’: Behind the Wildest NPC Lines in &#39;Marvel’s Spider-Man 2&#39;](https://www.wired.com/story/marvels-spider-man-2-npc-nanny-conversation/)
- - [New survey reveals iPhone users more likely to opt for installment plans](https://appleinsider.com/articles/23/11/01/new-survey-reveals-iphone-users-more-likely-to-opt-for-installment-plans?utm_medium=rss)
- - [Benchmarks confirm Apple&#39;s performance claims for the new series of M3 chips](https://appleinsider.com/articles/23/11/01/benchmarks-confirm-apples-performance-claims-for-the-new-series-of-m3-chips?utm_medium=rss)<!-- TECH:END -->
+ - [New survey reveals iPhone users more likely to opt for installment plans](https://appleinsider.com/articles/23/11/01/new-survey-reveals-iphone-users-more-likely-to-opt-for-installment-plans?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

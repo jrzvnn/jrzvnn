@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [I changed my mind!](https://www.reddit.com/r/funny/comments/17lga89/i_changed_my_mind/)
  - 😝 [men being men](https://www.reddit.com/r/funny/comments/17lf9pd/men_being_men/)
  - 💣 [Keeps getting funnier with each fall.](https://www.reddit.com/r/funny/comments/17lf81x/keeps_getting_funnier_with_each_fall/)
- - 😝 [No ambiguity allowed in archaeology](https://www.reddit.com/r/funny/comments/17ldjs3/no_ambiguity_allowed_in_archaeology/)
- - 👉 [&lpar;I tried it and it backfired on me &rpar;](https://www.reddit.com/r/memes/comments/17ldfw6/i_tried_it_and_it_backfired_on_me/)<!-- MEMES:END -->
+ - 😝 [Nothing will change my mind about this](https://www.reddit.com/r/memes/comments/17leqfk/nothing_will_change_my_mind_about_this/)
+ - 👉 [We seriously don&#39;t care](https://www.reddit.com/r/memes/comments/17lebxg/we_seriously_dont_care/)<!-- MEMES:END -->
 
 ---
 

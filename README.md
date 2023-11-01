@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
  - [&#39;Thirsty Suitors&#39; Review: A Hilarious and Refreshing Game Made for the South Asian Community](https://www.wired.com/review/thirsty-suitors-review/)
  - [Sofia Coppola says Apple canned her Edith Wharton series  over &#39;unlikable&#39; lead](https://appleinsider.com/articles/23/11/01/sofia-coppola-says-apple-canned-her-edith-wharton-series-over-unlikable-lead?utm_medium=rss)
- - [Accepting regulation locks in incumbents, OpenAI and other early winners, which signed the Center for AI Safety&#39;s letter, seem most invested in creating alarm &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231101/p23#a231101p23)<!-- TECH:END -->
+ - [If we accept the premise that regulation locks in incumbents, then it&#39;s notable that the early AI winners seem the most invested in generating alarm about AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231101/p23#a231101p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

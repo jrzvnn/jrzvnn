@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FusionAuth, which offers developer authentication and user management tools, raised $65M led by Updata, its first outside funding in its five-year history &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/231101/p17#a231101p17)
+ - [Lifetime Babbel subscription plunges to $139.97](https://appleinsider.com/articles/23/11/01/lifetime-babbel-subscription-plunges-to-13997?utm_medium=rss)
  - [Shareholder letter: Netflix says its ad tier now has 15M MAUs globally, accounting for 30% of new sign-ups where its available, and plans new ad formats in 2024 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/231101/p16#a231101p16)
  - [iPhone Tap to Pay comes to Ukraine](https://appleinsider.com/articles/23/11/01/iphone-tap-to-pay-comes-to-ukraine?utm_medium=rss)
- - [Apple Watch Series 10 will monitor blood pressure, detect sleep apnea](https://appleinsider.com/articles/23/11/01/apple-watch-series-10-will-monitor-blood-pressure-detect-sleep-apnea?utm_medium=rss)
- - [LinkedIn announces a GPT-4-powered AI chatbot aimed at being a &quot;job seeker coach&quot;, available to Premium users, and says the platform now has 1B+ members &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231101/p15#a231101p15)
- - [This giant Duracell battery is an absolutely packed portable charging station](https://www.theverge.com/2023/11/1/23941447/duracell-m150-portable-power-station)<!-- TECH:END -->
+ - [Apple Watch Series 10 will monitor blood pressure, detect sleep apnea](https://appleinsider.com/articles/23/11/01/apple-watch-series-10-will-monitor-blood-pressure-detect-sleep-apnea?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

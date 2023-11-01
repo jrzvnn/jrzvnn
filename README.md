@@ -165,8 +165,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Is she into me?](http://9gag.com/gag/aZDXvG6)
- - 😝 [Proud dad](http://9gag.com/gag/awZjvmR)
- - 💣 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
+ - 😝 [Amateur.](http://9gag.com/gag/a4ogr9y)
+ - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lesson for artists](http://9gag.com/gag/aVbr1zw)
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 💣 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)
+ - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
+ - 😝 [That&#39;s the kid Bill Burr was talking about in the film...](http://9gag.com/gag/aBdz4Ax)
+ - 💣 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)<!-- MEMES:END -->
+ - 👉 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)<!-- MEMES:END -->
 
 ---
 

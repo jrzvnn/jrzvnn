@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There has to be more?????](http://9gag.com/gag/adPArnj)
- - 😝 [Sophie Turner as Morticia Addams](http://9gag.com/gag/aBdzbWA)
- - 💣 [This is a diamond Pepe, only appears when you really need him. Up vote and you will get a peaceful day.](http://9gag.com/gag/aeQzPZv)
+ - 😝 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
+ - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 💣 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Is she into me?](http://9gag.com/gag/aZDXvG6)<!-- MEMES:END -->
+ - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accepting regulation locks in incumbents, OpenAI and other early winners, which signed the Center for AI Safety&#39;s letter, seem most invested in creating alarm &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/231101/p23#a231101p23)
  - [Apple can’t block iPhone ‘throttling’ lawsuit, London court rules](https://www.theverge.com/2023/11/1/23941813/apple-iphone-battery-throttling-lawsuit-london-court)
  - [Apple loses a bid to block a mass UK lawsuit over allegedly hiding battery issues in iPhones and &quot;throttling&quot; them via updates; Apple calls the suit &quot;baseless&quot; &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/231101/p22#a231101p22)
  - [HSBC launches a blockchain platform to tokenize ownership of gold held in its London vault; HSBC is one of the world&#39;s largest custodians of precious metals &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/231101/p21#a231101p21)
- - [Google is making it easier to buy from small businesses](https://www.theverge.com/2023/11/1/23941684/google-shopping-small-businesses-product-studio-release-date)
- - [US v. Google offers a rare look at Google&#39;s 20 highest revenue queries for a week in September 2018: iPhone, insurance, cheap flights, online colleges, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/231101/p20#a231101p20)<!-- TECH:END -->
+ - [Google is making it easier to buy from small businesses](https://www.theverge.com/2023/11/1/23941684/google-shopping-small-businesses-product-studio-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

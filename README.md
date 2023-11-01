@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)
  - 😝 [Welcome to America](https://www.reddit.com/r/memes/comments/17lat3k/welcome_to_america/)
- - 😝 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
- - 💣 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)
- - 😝 [Random meme template, go!](https://www.reddit.com/r/memes/comments/17l9lu5/random_meme_template_go/)
- - 👉 [Rules are rules buddy.](https://www.reddit.com/r/memes/comments/17l9b97/rules_are_rules_buddy/)<!-- MEMES:END -->
+ - 💣 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
+ - 😝 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)
+ - 👉 [Random meme template, go!](https://www.reddit.com/r/memes/comments/17l9lu5/random_meme_template_go/)<!-- MEMES:END -->
 
 ---
 

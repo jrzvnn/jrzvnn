@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal reports Q3 revenue up 9% YoY to $7.4B, vs. $7.38B est., total payment volume up 13% YoY to $387.7B, vs. $377.9B, and forecasts FY 2023 profit above est. &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/231101/p37#a231101p37)
+ - [Anytime Fitness members get Apple Fitness+ for free](https://appleinsider.com/articles/23/11/01/anytime-fitness-members-get-apple-fitness-for-free?utm_medium=rss)
  - [EA reports Q2 net bookings up 4% YoY to $1.82B, vs. $1.78B est., revenue of $1.91B, up from $1.9B in Q2 2022, and raises its annual profit forecast &lpar;Reuters&rpar;](http://www.techmeme.com/231101/p36#a231101p36)
  - [The New Era of Social Media Looks as Bad for Privacy as the Last One](https://www.wired.com/story/x-alternatives-user-privacy-report/)
- - [Honda Motocompacto First Look &lpar;2023&rpar;: Specs, Price, Release Date](https://www.wired.com/story/honda-motocompacto/)
- - [Disney is about to own all of Hulu](https://www.theverge.com/2023/11/1/23875523/disney-comcast-hulu-stake-sale)
- - [Disney plans to acquire the 33% stake in Hulu held by Comcast&#39;s NBCUniversal, giving Disney full ownership; Disney expects to pay NBCU ~$8.61B by December 1 &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)<!-- TECH:END -->
+ - [Honda Motocompacto First Look &lpar;2023&rpar;: Specs, Price, Release Date](https://www.wired.com/story/honda-motocompacto/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

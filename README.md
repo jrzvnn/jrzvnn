@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Check Point details a monthslong espionage campaign by Iranian hackers targeting countries, including Israel, underscoring Iran&#39;s improved hacking capabilities &lpar;New York Times&rpar;](http://www.techmeme.com/231101/p2#a231101p2)
  - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~11% in 2023 to $218B, down from 20% in 2022, slowing to its lowest rate since 2017 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/231101/p1#a231101p1)
+ - [Best MacBook for 2023     - CNET](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)
  - [Executives at Intel, TSMC, and Samsung say the global chip industry is bottoming out; IBS: the chip market is expected to grow in 2024 after shrinking in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231031/p44#a231031p44)
- - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)
- - [What Biden&#39;s EO means for AI openness, and why a compute threshold is unlikely to effectively anticipate individual models&#39; riskiness, but may work in aggregate &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/231031/p43#a231031p43)
- - [Spooky Halloween deals from B&amp;H Photo bring $1,900 in sweet savings to your trick or treat bucket](https://appleinsider.com/articles/23/11/01/spooky-halloween-deals-from-bh-photo-bring-1900-in-sweet-savings-to-your-trick-or-treat-bucket?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with the Apple TV app redesign in tvOS 17.2](https://appleinsider.com/articles/23/11/01/hands-on-with-the-apple-tv-app-redesign-in-tvos-172?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s a rare look at Google’s most lucrative search queries](https://www.theverge.com/2023/11/1/23941766/google-antitrust-trial-search-queries-ad-money)
+ - [Apple Arcade is getting some great new games for the holidays](https://www.theverge.com/23941709/apple-arcade-games-holiday-2023-releases-sonic-knotwords-dreamlight-valley)
+ - [How to set up profiles in Safari on macOS Sonoma](https://www.theverge.com/23938790/macos-sonoma-safari-how-to)
  - [Netflix will skip some ads if you binge-watch](https://www.theverge.com/2023/11/1/23941708/netflix-ad-supported-plan-binge-watching)
- - [Apple shipped 2.5M iPhones in India in Q3, its highest quarterly shipments; Samsung remained top with a 17.2% share, followed by Xiaomi &lpar;16.6%&rpar; and Vivo &lpar;15.9%&rpar; &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231101/p19#a231101p19)
- - [India clears Apple, others after import imbroglio](https://appleinsider.com/articles/23/11/01/india-clears-apple-others-after-import-imbroglio?utm_medium=rss)
- - [I went to paradise to see the future of AI, and I’m more confused than ever](https://www.theverge.com/23940685/qualcomm-snapdragon-summit-2023-8-gen-3-ai)
- - [Mario Kart 8 Deluxe’s sixth and final wave of DLC tracks arrives next week](https://www.theverge.com/2023/11/1/23941695/mario-kart-8-deluxe-wave-6-dlc-tracks-release-date-characters)<!-- TECH:END -->
+ - [Apple shipped 2.5M iPhones in India in Q3, its highest quarterly shipments; Samsung remained top with a 17.2% share, followed by Xiaomi &lpar;16.6%&rpar; and Vivo &lpar;15.9%&rpar; &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231101/p19#a231101p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

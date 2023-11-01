@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku reports Q3 revenue up 20% YoY to $912M vs. $853.2M est., a net loss of $330M, more than double a year ago, and issues &quot;uncertain&quot; guidance; ROKU rises 12%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231101/p34#a231101p34)
- - [Airbnb Q3: revenue up 18% YoY to $3.4B vs. $3.37B est., Nights and Experiences Booked up 14% YoY to 113.2M vs. 112.9M est., and a Q4 revenue forecast below est. &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231101/p33#a231101p33)
- - [DoorDash reports Q3 revenue up 27% YoY to $2.16B, vs. $2.09B est., total orders up 24% YoY to 543M, net loss of $75M, down from $296M in Q3 2022, DASH jumps 7%+ &lpar;Jessica Bursztynsky/Fast Company&rpar;](http://www.techmeme.com/231101/p32#a231101p32)
- - [Qualcomm Q4: adjusted revenue down 24% YoY to $8.67B, vs. $8.51B est., handset chip sales down 27% YoY to $5.46B, vs. $5.34B est., and a strong Q1 2024 forecast &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231101/p31#a231101p31)
- - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)<!-- TECH:END -->
+ - [Disney is about to own all of Hulu](https://www.theverge.com/2023/11/1/23875523/disney-comcast-hulu-stake-sale)
+ - [Disney announces it will acquire the 33% stake in Hulu held by Comcast&#39;s NBC Universal, giving Disney full ownership; Disney expects to pay NBCU about $8.61B &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)
+ - [After Starfield’s shaky launch, it’s going to beta test the next patch soon](https://www.theverge.com/2023/11/1/23942435/starfield-dlss-3-pc-update-steam-beta)
+ - [Roku reports Q3 revenue up 20% YoY to $912M, vs. $853.2M est., net loss up 170% YoY to $330M, and forecasts a &quot;similar&quot; YoY ad growth for Q4; ROKU jumps 15%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231101/p34#a231101p34)
+ - [Airbnb Q3: revenue up 18% YoY to $3.4B vs. $3.37B est., Nights and Experiences Booked up 14% YoY to 113.2M vs. 112.9M est., and a Q4 revenue forecast below est. &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231101/p33#a231101p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

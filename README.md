@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 💣 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - 😝 [Amateur.](http://9gag.com/gag/a4ogr9y)
+ - 😝 [Goodbye bird](http://9gag.com/gag/aME70rX)
+ - 💣 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
- - 👉 [Proud dad](http://9gag.com/gag/awZjvmR)<!-- MEMES:END -->
+ - 👉 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)<!-- MEMES:END -->
 
 ---
 

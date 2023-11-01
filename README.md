@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)
  - 😝 [Welcome to America](https://www.reddit.com/r/memes/comments/17lat3k/welcome_to_america/)
  - 💣 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
- - 😝 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)
- - 👉 [Random meme template, go!](https://www.reddit.com/r/memes/comments/17l9lu5/random_meme_template_go/)<!-- MEMES:END -->
+ - 😝 [SIX without &#39;S&#39; is 9](https://www.reddit.com/r/memes/comments/17la26z/six_without_s_is_9/)
+ - 👉 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)<!-- MEMES:END -->
 
 ---
 

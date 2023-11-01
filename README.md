@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple&#39;s M1 Pro 14-inch MacBook Pro with 32GB RAM falls to record low $1,499](https://appleinsider.com/articles/23/11/01/apples-m1-pro-14-inch-macbook-pro-with-32gb-ram-falls-to-record-low-1499?utm_medium=rss)
  - [DoorDash tests a prompt warning customers that orders with no tip ahead of time may take longer to get delivered, since drivers choose which orders to accept &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231101/p39#a231101p39)
- - [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/)
- - [The EDPB instructs the Irish DPC to ban Meta&#39;s use of personal data for behavioral ads on the legal base of contract and legitimate interest in the EU and EEA &lpar;Joe Duball/IAPP&rpar;](http://www.techmeme.com/231101/p38#a231101p38)
- - [Scarlett Johansson hits AI app with legal action for cloning her voice in an ad](https://www.theverge.com/2023/11/1/23942557/scarlett-johansson-ai-app-developers-lawsuit)<!-- TECH:END -->
+ - [Best Tablet Deals: Discounts on iPads, Samsung Galaxy Tabs and Microsoft Surface Pros     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
+ - [Bose Smart Soundbar 600     - CNET](https://www.cnet.com/tech/home-entertainment/bose-smart-soundbar-600-dpnl/#ftag=CAD590a51e)
+ - [Dyson V11 Plus     - CNET](https://www.cnet.com/home/kitchen-and-household/dyson-v11-plus-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

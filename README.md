@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)
  - 💣 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
+ - 👉 [A pack of cultural enrichments doing what they do best](http://9gag.com/gag/aPgLLvq)<!-- MEMES:END -->
 
 ---
 

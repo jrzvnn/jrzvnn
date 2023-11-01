@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA reports Q2 net bookings up 4% YoY to $1.82B, vs. $1.78B est., revenue of $1.91B, up from $1.9B in Q2 2022, and raises its annual profit forecast &lpar;Reuters&rpar;](http://www.techmeme.com/231101/p36#a231101p36)
+ - [The New Era of Social Media Looks as Bad for Privacy as the Last One](https://www.wired.com/story/x-alternatives-user-privacy-report/)
+ - [Honda Motocompacto First Look &lpar;2023&rpar;: Specs, Price, Release Date](https://www.wired.com/story/honda-motocompacto/)
  - [Disney is about to own all of Hulu](https://www.theverge.com/2023/11/1/23875523/disney-comcast-hulu-stake-sale)
- - [Disney plans to acquire the 33% stake in Hulu held by Comcast&#39;s NBCUniversal, giving Disney full ownership; Disney expects to pay NBCU ~$8.61B by December 1 &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)
- - [After Starfield’s shaky launch, it’s going to beta test the next patch soon](https://www.theverge.com/2023/11/1/23942435/starfield-dlss-3-pc-update-steam-beta)
- - [Roku reports Q3 revenue up 20% YoY to $912M, vs. $853.2M est., net loss up 170% YoY to $330M, and forecasts a &quot;similar&quot; YoY ad growth for Q4; ROKU jumps 15%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231101/p34#a231101p34)
- - [Airbnb Q3: revenue up 18% YoY to $3.4B vs. $3.37B est., Nights and Experiences Booked up 14% YoY to 113.2M vs. 112.9M est., and a Q4 revenue forecast below est. &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231101/p33#a231101p33)<!-- TECH:END -->
+ - [Disney plans to acquire the 33% stake in Hulu held by Comcast&#39;s NBCUniversal, giving Disney full ownership; Disney expects to pay NBCU ~$8.61B by December 1 &lpar;The Walt Disney Company&rpar;](http://www.techmeme.com/231101/p35#a231101p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

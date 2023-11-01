@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)
- - 😝 [Welcome to America](https://www.reddit.com/r/memes/comments/17lat3k/welcome_to_america/)
- - 💣 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
- - 😝 [SIX without &#39;S&#39; is 9](https://www.reddit.com/r/memes/comments/17la26z/six_without_s_is_9/)
- - 👉 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)<!-- MEMES:END -->
+ - 😝 [R_I_P THE economy](https://www.reddit.com/r/memes/comments/17lc1jd/r_i_p_the_economy/)
+ - 😝 [Man has talent](https://www.reddit.com/r/funny/comments/17lbwno/man_has_talent/)
+ - 💣 [Fool](https://www.reddit.com/r/funny/comments/17laugf/fool/)
+ - 😝 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
+ - 👉 [SIX without &#39;S&#39; is 9](https://www.reddit.com/r/memes/comments/17la26z/six_without_s_is_9/)<!-- MEMES:END -->
 
 ---
 

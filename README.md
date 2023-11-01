@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new AI-powered Office assistant is here — if you’ve got $9,000 and 300 friends](https://www.theverge.com/2023/11/1/23942155/microsoft-365-copilot-ai-office-documents-launch-business-enterprise-pricing-release-date)
- - [The best early Black Friday tech deals you can already get](https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale)
- - [You can now order the USB-C Apple Pencil](https://www.theverge.com/2023/11/1/23942116/apple-usb-c-pencil-available-order-ipad)
- - [Xbox is about to get better apps and web games](https://www.theverge.com/2023/11/1/23942104/microsoft-xbox-edge-webview-2-apps-html5-games-support)
- - [Apple keeps exploring &lpar;and scrapping&rpar; new ways to detect users’ health](https://www.theverge.com/2023/11/1/23941627/apple-watch-healthcare-clinics-health-app-iphone-airpods)<!-- TECH:END -->
+ - [Coinbase announces that eligible US retail customers can now access bitcoin and ether futures contracts through Coinbase Financial Markets &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231101/p25#a231101p25)
+ - [Best Solar Panel Installation Companies in Chicago     - CNET](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)
+ - [Facebook Finally Puts a Price on Privacy: It’s $10 a Month](https://www.wired.com/story/meta-facebook-pay-for-privacy-europe/)
+ - [New Apple Pencil &lpar;USB-C&rpar; is now available at the Apple Store](https://appleinsider.com/articles/23/11/01/new-apple-pencil-usb-c-is-now-available-at-the-apple-store?utm_medium=rss)
+ - [Fed Hits Pause on Rate Hikes Again. Here&#39;s What Experts Say That Means for Your Money     - CNET](https://www.cnet.com/personal-finance/banking/fed-hits-pause-on-rate-hikes-again-heres-what-experts-say-that-means-for-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

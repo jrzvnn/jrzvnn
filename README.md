@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finland-based Wirepas, which is building mesh IoT networks, raised $22M led by Highland Europe, a source says at a $100M-$200M valuation, and claims 160 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231101/p11#a231101p11)
  - [A look at Apple&#39;s ambition to revolutionize health care: some breakthroughs marred by philosophical disagreements, a culture of conservatism, and tech realities &lpar;Bloomberg&rpar;](http://www.techmeme.com/231101/p10#a231101p10)
  - [After three hours of oral arguments, SCOTUS found no consensus on whether public officials can block social media critics, part of two First Amendment cases &lpar;Ann E. Marimow/Washington Post&rpar;](http://www.techmeme.com/231101/p9#a231101p9)
  - [A look back at testimony from Caroline Ellison, Gary Wang, and Nishad Singh and SBF&#39;s counterclaims, as the jury prepares to deliberate over who told the truth &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/231101/p8#a231101p8)
- - [M3 Mac Preorders: Where to Get Your Hands on Apple&#39;s Latest Lineup     - CNET](https://www.cnet.com/tech/computing/best-m3-mac-deals/#ftag=CAD590a51e)
- - [Save Big on a New Mattress This Fall With These Limited-Time Sales     - CNET](https://www.cnet.com/deals/save-big-on-a-new-mattress-this-fall-with-these-limited-time-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M3 Mac Preorders: Where to Get Your Hands on Apple&#39;s Latest Lineup     - CNET](https://www.cnet.com/tech/computing/best-m3-mac-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

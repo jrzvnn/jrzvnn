@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New MacBook Pros and iMacs will need a day one macOS Sonoma update](https://appleinsider.com/articles/23/11/01/new-macbook-pros-and-imacs-will-need-a-day-one-macos-sonoma-update?utm_medium=rss)
  - [Coinbase announces that eligible US retail customers can now access bitcoin and ether futures contracts through Coinbase Financial Markets &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/231101/p25#a231101p25)
  - [Best Solar Panel Installation Companies in Chicago     - CNET](https://www.cnet.com/home/energy-and-utilities/chicago-solar-panels/#ftag=CAD590a51e)
  - [Facebook Finally Puts a Price on Privacy: It’s $10 a Month](https://www.wired.com/story/meta-facebook-pay-for-privacy-europe/)
- - [New Apple Pencil &lpar;USB-C&rpar; is now available at the Apple Store](https://appleinsider.com/articles/23/11/01/new-apple-pencil-usb-c-is-now-available-at-the-apple-store?utm_medium=rss)
- - [Fed Hits Pause on Rate Hikes Again. Here&#39;s What Experts Say That Means for Your Money     - CNET](https://www.cnet.com/personal-finance/banking/fed-hits-pause-on-rate-hikes-again-heres-what-experts-say-that-means-for-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Apple Pencil &lpar;USB-C&rpar; is now available at the Apple Store](https://appleinsider.com/articles/23/11/01/new-apple-pencil-usb-c-is-now-available-at-the-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
- - 😝 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)
- - 💣 [Grandpa is a man of culture](http://9gag.com/gag/aXn3d7V)
- - 😝 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)
- - 👉 [The face of the ice hockey player who raised his leg and slashed the neck of Adam Johnson, killing him. The media won&#39;t show you this &lpar;why lol&rpar;](http://9gag.com/gag/axoKAdL)<!-- MEMES:END -->
+ - 😝 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
+ - 😝 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)
+ - 💣 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
+ - 👉 [How the kid on the right only got third place?](http://9gag.com/gag/aNwM27G)<!-- MEMES:END -->
 
 ---
 

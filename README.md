@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spooky Halloween deals from B&amp;H Photo bring $1,900 in sweet savings to your trick or treat bucket](https://appleinsider.com/articles/23/11/01/spooky-halloween-deals-from-bh-photo-bring-1900-in-sweet-savings-to-your-trick-or-treat-bucket?utm_medium=rss)
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
  - [Google completes its switch to mobile-first indexing of Search, a process that began in November 2016, and plans to reduce use of its legacy desktop crawler &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/231031/p42#a231031p42)
  - [Best Android Tablet for 2023     - CNET](https://www.cnet.com/tech/computing/best-android-tablet/#ftag=CAD590a51e)
- - [Save $200 on AppleCare for Apple&#39;s new M3 MacBook Pro 16-inch](https://appleinsider.com/articles/23/11/01/save-200-on-applecare-for-apples-new-m3-macbook-pro-16-inch?utm_medium=rss)
- - [Best USB-C Monitor Deals: Save Up to $111 on Monitors From LG, Pixio and More     - CNET](https://www.cnet.com/deals/best-usb-c-monitor-deals-2023/#ftag=CAD590a51e)
- - [visionOS developer beta 5 is now available and includes the App Store](https://appleinsider.com/articles/23/11/01/visionos-developer-beta-5-is-now-available-and-includes-the-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Save $200 on AppleCare for Apple&#39;s new M3 MacBook Pro 16-inch](https://appleinsider.com/articles/23/11/01/save-200-on-applecare-for-apples-new-m3-macbook-pro-16-inch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

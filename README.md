@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is it?](http://9gag.com/gag/aeQzPyj)
- - 😝 [We aren&#39;t the same people. Poland is right.](http://9gag.com/gag/aeQzd4O)
+ - 😝 [Project Mayhem](http://9gag.com/gag/a3ZgnrN)
+ - 😝 [A wholesome family preparing Halloween decorations](http://9gag.com/gag/aYV6ZD2)
  - 💣 [Happily ever after, on a Time budget..](http://9gag.com/gag/a04gWxn)
  - 😝 [\ud83c\udf83 The gaming thrills are intense this Halloween \ud83d\udd25](http://9gag.com/gag/a2Kgjx9)
  - 👉 [Good old times](http://9gag.com/gag/aA0ANWg)<!-- MEMES:END -->

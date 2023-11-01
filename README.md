@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku reports Q3 revenue up 20% YoY to $912M vs. $853.2M est., a net loss of $330M, more than double a year ago, and issues &quot;uncertain&quot; guidance; ROKU rises 12%+ &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231101/p34#a231101p34)
+ - [Airbnb Q3: revenue up 18% YoY to $3.4B vs. $3.37B est., Nights and Experiences Booked up 14% YoY to 113.2M vs. 112.9M est., and a Q4 revenue forecast below est. &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/231101/p33#a231101p33)
  - [DoorDash reports Q3 revenue up 27% YoY to $2.16B, vs. $2.09B est., total orders up 24% YoY to 543M, net loss of $75M, down from $296M in Q3 2022, DASH jumps 7%+ &lpar;Jessica Bursztynsky/Fast Company&rpar;](http://www.techmeme.com/231101/p32#a231101p32)
  - [Qualcomm Q4: adjusted revenue down 24% YoY to $8.67B, vs. $8.51B est., handset chip sales down 27% YoY to $5.46B, vs. $5.34B est., and a strong Q1 2024 forecast &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231101/p31#a231101p31)
- - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)
- - [Apple quietly kills off Siri-only Apple Music Voice Plan](https://appleinsider.com/articles/23/11/01/apple-quietly-kills-off-siri-only-apple-music-voice-plan?utm_medium=rss)
- - [CRM platform HubSpot announces it&#39;s acquiring the B2B data provider Clearbit, which has 400K+ users and was valued at $250M as of January 2019, per PitchBook &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231101/p29#a231101p29)<!-- TECH:END -->
+ - [Apple Music has quietly discontinued its $4.99/month Voice Plan, which was introduced in 2021 and let users access the Apple Music catalog exclusively via Siri &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/231101/p30#a231101p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

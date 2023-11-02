@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitwarden begins adding passkey support to its password manager](https://www.theverge.com/2023/11/2/23943173/bitwarden-passkey-support-released-browser-extension)
+ - [A year after FTX began to collapse, the exchange remains in bankruptcy court, weighed down by $10B of user claims, and its crypto holdings have grown in value &lpar;CoinDesk&rpar;](http://www.techmeme.com/231102/p8#a231102p8)
  - [The UN Hired an AI Company to Untangle the Israeli-Palestinian Crisis](https://www.wired.com/story/culturepulse-ai-israeli-palestinian-crisis/)
  - [The Ultra-Efficient Farm of the Future Is in the Sky](https://www.wired.com/story/the-ultra-efficient-farm-of-the-future-is-in-the-sky/)
- - [US v. SBF: in closing statements, the US relied heavily on evidence to argue SBF is guilty and said he was &quot;greedy&quot; while SBF&#39;s defense only made things worse &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231102/p7#a231102p7)
- - [YouTube begins raising Premium&#39;s price globally, including in Argentina, Australia, Austria, Germany, Poland, and Turkey, after raising the US price in July &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p6#a231102p6)
- - [Best Holiday Gifts Under $200 for 2023     - CNET](https://www.cnet.com/news/gifts-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. SBF: in closing statements, the US relied heavily on evidence to argue SBF is guilty and said he was &quot;greedy&quot; while SBF&#39;s defense only made things worse &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/231102/p7#a231102p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

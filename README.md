@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI-generated nudes of female students at a high school in New Jersey, shared by male students in a group chat, cause major concern among parents and teachers &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231102/p14#a231102p14)
  - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
- - [Elon Musk Has Owned Twitter for a Year. Let’s Talk About How It’s Going](https://www.wired.com/story/gadget-lab-podcast-619/)
- - [19 Piping-Hot Gifts for Coffee Lovers &lpar;2023&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2023/)
- - [HTC’s Vive Focus 3 has a new, far-out mission: astronaut mental health](https://www.theverge.com/2023/11/2/23942639/htc-vive-focus-3-nasa-crew-7-virtual-reality-behavioral-health-test)
- - [The best drawing tablets to buy right now](https://www.theverge.com/23923747/best-graphics-drawing-tablets)<!-- TECH:END -->
+ - [Renewable Energy Certificates: How You Can Prove How Green You Are     - CNET](https://www.cnet.com/home/energy-and-utilities/renewable-energy-certificates-how-anyone-can-enter-the-green-energy-market/#ftag=CAD590a51e)
+ - [iOS 17 Cheat Sheet: What You Should Know About the iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-you-should-know-about-the-iphone-update/#ftag=CAD590a51e)
+ - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

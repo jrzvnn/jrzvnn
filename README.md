@@ -164,8 +164,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Take a break of all the horniness](https://www.reddit.com/r/memes/comments/17lqtse/take_a_break_of_all_the_horniness/)
  - 😝 [In the club...](https://www.reddit.com/r/funny/comments/17lqs4j/in_the_club/)
- - 😝 [My neighborhood is the neighborhood your parents warned you about](https://www.reddit.com/r/funny/comments/17lqcw7/my_neighborhood_is_the_neighborhood_your_parents/)
  - 💣 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)
  - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
  - 👉 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)<!-- MEMES:END -->

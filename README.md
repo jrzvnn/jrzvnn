@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
  - [Elon Musk Has Owned Twitter for a Year. Let’s Talk About How It’s Going](https://www.wired.com/story/gadget-lab-podcast-619/)
  - [19 Piping-Hot Gifts for Coffee Lovers &lpar;2023&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2023/)
  - [HTC’s Vive Focus 3 has a new, far-out mission: astronaut mental health](https://www.theverge.com/2023/11/2/23942639/htc-vive-focus-3-nasa-crew-7-virtual-reality-behavioral-health-test)
- - [The best drawing tablets to buy right now](https://www.theverge.com/23923747/best-graphics-drawing-tablets)
- - [M3 Max benchmarks show Mac Pro performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)<!-- TECH:END -->
+ - [The best drawing tablets to buy right now](https://www.theverge.com/23923747/best-graphics-drawing-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

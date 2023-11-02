@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Invincible strands you on a harsh alien world and doesn’t let up](https://www.theverge.com/23943258/the-invincible-review-ps5-xbox-pc)
+ - [After major Azure attacks, Microsoft launches the Secure Future Initiative, with plans to use AI and automation to identify vulnerabilities and respond faster &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231102/p19#a231102p19)
+ - [Microsoft Does Damage Control With Its New &#39;Secure Future Initiative&#39;](https://www.wired.com/story/microsoft-secure-future-initiative/)
  - [Microsoft is overhauling its software security after major Azure cloud attacks](https://www.theverge.com/2023/11/2/23943178/microsoft-security-secure-future-initiative-cybersecurity)
- - [After a security incident at Okta&#39;s healthcare coverage provider Rightway, Okta warns around 5,000 employees that hackers may have accessed their personal info &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231102/p18#a231102p18)
- - [Pokémon Scarlet and Violet’s second DLC arrives this December](https://www.theverge.com/2023/11/2/23943344/pokemon-scarlet-violet-indigo-disk-release-date-december)
- - [Daily deals Nov. 2: 48% off Apple Watch Series 7, 25% off Google Pixel 7a, NordicTrack Studio Bike 1000 for $250, more](https://appleinsider.com/articles/23/11/02/daily-deals-nov-2-48-off-apple-watch-series-7-25-off-google-pixel-7a-nordictrack-studio-bike-1000-for-250-more?utm_medium=rss)
- - [The Beatles’ final song is now streaming thanks to AI](https://www.theverge.com/2023/11/2/23943290/now-and-then-the-beatles-new-song-ai)<!-- TECH:END -->
+ - [After a security incident at Okta&#39;s healthcare coverage provider Rightway, Okta warns around 5,000 employees that hackers may have accessed their personal info &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231102/p18#a231102p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

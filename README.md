@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a break of all the horniness](https://www.reddit.com/r/memes/comments/17lqtse/take_a_break_of_all_the_horniness/)
- - 😝 [In the club...](https://www.reddit.com/r/funny/comments/17lqs4j/in_the_club/)
- - 💣 [Still would...buy It of course](http://9gag.com/gag/amAQQXy)
+ - 😝 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)
  - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
- - 👉 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)<!-- MEMES:END -->
+ - 💣 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
+ - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
 
 ---
 

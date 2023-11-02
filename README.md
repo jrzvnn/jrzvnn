@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wuttt?](http://9gag.com/gag/aoKow9n)
- - 😝 [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
- - 💣 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
+ - 😝 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
+ - 😝 [Makr your bets. Will he get away with it?](http://9gag.com/gag/a1Pgq4Y)
+ - 💣 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)<!-- MEMES:END -->
+ - 👉 [Wuttt?](http://9gag.com/gag/aoKow9n)<!-- MEMES:END -->
 
 ---
 

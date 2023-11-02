@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal says the company received an SEC subpoena tied to its US dollar stablecoin, launched in August 2023 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/231102/p12#a231102p12)
+ - [New York AG Letitia James says Uber and Lyft agree to pay a combined $328M to settle allegations of withholding wages from drivers and not providing sick pay &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/231102/p11#a231102p11)
  - [Palantir reports Q3 revenue up 17% YoY to $558M, a $72M net income, the fourth straight profitable quarter, and projects 2023 income above est.; PLTR jumps 12%+ &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/231102/p10#a231102p10)
  - [How Arizona State University, a &quot;secret weapon&quot; that has become a hive of R&amp;D for the chip industry, made Phoenix the beating heart of the US chipmaking boom &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/231102/p9#a231102p9)
- - [To protect teens, YouTube’s limiting some video recommendations](https://www.theverge.com/2023/11/2/23942277/youtube-teenager-mental-health-body-image-bullying-meta)
- - [Bitwarden begins adding passkey support to its password manager](https://www.theverge.com/2023/11/2/23943173/bitwarden-passkey-support-released-browser-extension)
- - [A year after FTX began to collapse, the exchange remains in bankruptcy court, weighed down by $10B of user claims, and its crypto holdings have grown in value &lpar;CoinDesk&rpar;](http://www.techmeme.com/231102/p8#a231102p8)<!-- TECH:END -->
+ - [To protect teens, YouTube’s limiting some video recommendations](https://www.theverge.com/2023/11/2/23942277/youtube-teenager-mental-health-body-image-bullying-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

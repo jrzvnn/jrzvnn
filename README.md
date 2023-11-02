@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainguard, which helps companies secure their open-source software supply chain, raised a $61M Series B led by Spark Capital, taking its total funding to $116M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231101/p40#a231101p40)
  - [Apple&#39;s M1 Pro 14-inch MacBook Pro with 32GB RAM falls to record low $1,499](https://appleinsider.com/articles/23/11/01/apples-m1-pro-14-inch-macbook-pro-with-32gb-ram-falls-to-record-low-1499?utm_medium=rss)
  - [DoorDash tests a prompt warning customers that orders with no tip ahead of time may take longer to get delivered, since drivers choose which orders to accept &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/231101/p39#a231101p39)
  - [Best Tablet Deals: Discounts on iPads, Samsung Galaxy Tabs and Microsoft Surface Pros     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [Bose Smart Soundbar 600     - CNET](https://www.cnet.com/tech/home-entertainment/bose-smart-soundbar-600-dpnl/#ftag=CAD590a51e)
- - [Dyson V11 Plus     - CNET](https://www.cnet.com/home/kitchen-and-household/dyson-v11-plus-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bose Smart Soundbar 600     - CNET](https://www.cnet.com/tech/home-entertainment/bose-smart-soundbar-600-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

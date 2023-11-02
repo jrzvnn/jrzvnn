@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a loaded 2TB MacBook Pro 14-inch M1 Max for $2,199 today only](https://appleinsider.com/articles/23/11/02/get-a-loaded-2tb-macbook-pro-14-inch-m1-max-for-2199-today-only?utm_medium=rss)
  - [The OMB releases draft rules that require federal agencies to monitor AI use in health care, law enforcement, and housing for potential harms against citizens &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231101/p45#a231101p45)
  - [The UK plans to invest &amp;pound;225M into Isambard-AI, an AI supercomputer 10x faster than the UK&#39;s current quickest machine, to be built by the University of Bristol &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/231101/p44#a231101p44)
  - [M3 Max benchmarks show M2 Ultra performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)
- - [Flexport acquires the tech stack of shuttered digital freight startup Convoy; a source says Convoy CEO Dan Lewis will join Flexport as part of the deal &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/231101/p43#a231101p43)
- - [Intuit plans to shut personal finance app Mint, which had 3.6M MAUs in 2021, on January 1, 2024, and is pushing users to Credit Karma, which it acquired in 2020 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231101/p42#a231101p42)<!-- TECH:END -->
+ - [Flexport acquires the tech stack of shuttered digital freight startup Convoy; a source says Convoy CEO Dan Lewis will join Flexport as part of the deal &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/231101/p43#a231101p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

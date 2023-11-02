@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google AdSense will soon move from paying per click to paying per impression and split the revenue share into separate rates for the buy-side and sell-side &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p33#a231102p33)
+ - [Amazon’s clothing stores are closing down](https://www.theverge.com/2023/11/2/23943941/amazon-style-clothing-stores-closing-down)
  - [Futurama got renewed, so you can expect 30 more episodes on Hulu](https://www.theverge.com/2023/11/2/23943544/futurama-renewal-hulu-season-13-14)
  - [15 Best Early Black Friday Deals &lpar;2023&rpar;: iPads, Scooters, Wireless Earbuds](https://www.wired.com/story/absolute-best-black-friday-deals/)
- - [OpenAI, Google, and others sign a non-binding document to let the US, the UK, and others, but not China, test their latest AI models for national security risks &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p32#a231102p32)
- - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
- - [Here’s when the big Black Friday sales start at Amazon, Best Buy, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)<!-- TECH:END -->
+ - [OpenAI, Google, and others sign a non-binding document to let the US, the UK, and others, but not China, test their latest AI models for national security risks &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p32#a231102p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

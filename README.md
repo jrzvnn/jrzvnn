@@ -167,8 +167,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
  - 😝 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
  - 💣 [They are among us and they are taking our women.](http://9gag.com/gag/ajVvv3p)
- - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
+ - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - 👉 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)<!-- MEMES:END -->
 
 ---
 

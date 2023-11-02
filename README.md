@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated nudes of female students at a high school in New Jersey, shared by male students in a group chat, cause major concern among parents and teachers &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/231102/p14#a231102p14)
- - [Shopify reports Q3 revenue up 25% YoY to $1.71B, beating $1.68B est., a $56.2B GMV, beating $54.42B est., and expects ~25% 2023 revenue growth; SHOP jumps 18%+ &lpar;Ilya Banares/Bloomberg&rpar;](http://www.techmeme.com/231102/p13#a231102p13)
- - [Renewable Energy Certificates: How You Can Prove How Green You Are     - CNET](https://www.cnet.com/home/energy-and-utilities/renewable-energy-certificates-how-anyone-can-enter-the-green-energy-market/#ftag=CAD590a51e)
- - [iOS 17 Cheat Sheet: What You Should Know About the iPhone Update     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-you-should-know-about-the-iphone-update/#ftag=CAD590a51e)
- - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube begins restricting how often teens receive repeated video recommendations related to sensitive topics like body image &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231102/p15#a231102p15)
+ - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
+ - [Lenovo&#39;s Tab Wear Collection: A Clothing Proof-of-Concept for Taking Tablets Outdoors](https://www.wired.com/story/lenovo-tab-wear-collection/)
+ - [Redwood Materials is recycling its first stationary storage substation](https://www.theverge.com/2023/11/2/23943267/redwood-materials-recycle-stationary-storage-kauai)
+ - [Two former Google engineers have a product and a plan to fix robot vacuums](https://www.theverge.com/2023/11/2/23942607/matic-robot-vacuum-price-release-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

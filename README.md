@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
  - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - 😝 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
  - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
  - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
 

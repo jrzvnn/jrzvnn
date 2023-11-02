@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good job Mr. president](http://9gag.com/gag/aDY9L5x)
- - 😝 [McDonalds Japan strikes again, promoting toxic heterosexual relationships](http://9gag.com/gag/aBdz5yz)
- - 💣 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)
+ - 😝 [Wuttt?](http://9gag.com/gag/aoKow9n)
+ - 😝 [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
+ - 💣 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
+ - 👉 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)<!-- MEMES:END -->
 
 ---
 

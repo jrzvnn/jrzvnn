@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm says it has acquired a minority stake in Raspberry Pi &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231102/p21#a231102p21)
+ - [Apple killed Android plans for Apple Watch - report](https://appleinsider.com/articles/23/11/02/apple-killed-android-plans-for-apple-watch---report?utm_medium=rss)
  - [Apple privately described Android as a &#39;massive tracking device&#39;](https://appleinsider.com/articles/23/11/02/apple-privately-described-android-as-a-massive-tracking-device?utm_medium=rss)
  - [Source: TikTok users sent $250M+ worth of digital gifts to US livestreamers in Q3; TikTok takes a 50% cut and is on track to earn $500M in US tips in 2023 &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231102/p20#a231102p20)
- - [Humanity is on the run in the first trailer for Kingdom of the Planet of the Apes](https://www.theverge.com/23943483/kingdom-of-the-planet-of-the-apes-trailer-date)
- - [In Marvel we no longer trust](https://www.theverge.com/23942217/marvel-mcu-marvels-variety-franchise-disney-quality)
- - [Threads posts don’t have to show up on Instagram and Facebook](https://www.theverge.com/2023/11/2/23943410/threads-posts-suggested-instagram-facebook)<!-- TECH:END -->
+ - [Humanity is on the run in the first trailer for Kingdom of the Planet of the Apes](https://www.theverge.com/23943483/kingdom-of-the-planet-of-the-apes-trailer-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

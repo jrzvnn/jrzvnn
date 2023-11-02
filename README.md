@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Nov. 2: 48% off Apple Watch Series 7, 25% off Google Pixel 7a, NordicTrack Studio Bike 1000 for $250, more](https://appleinsider.com/articles/23/11/02/daily-deals-nov-2-48-off-apple-watch-series-7-25-off-google-pixel-7a-nordictrack-studio-bike-1000-for-250-more?utm_medium=rss)
  - [The Beatles’ final song is now streaming thanks to AI](https://www.theverge.com/2023/11/2/23943290/now-and-then-the-beatles-new-song-ai)
  - [HHKB Studio review: the trackpoint is the whole point](https://www.theverge.com/23929303/hhkb-studio-review-trackpoint-mx-switches)
  - [Mint is shutting down, and it’s pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
- - [7 Best Pickleball Paddles &lpar;2023&rpar;: Budget, Pro, and Stylish](https://www.wired.com/gallery/best-pickleball-paddles/)
- - [11 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [Twelve South Kicks Off Early Black Friday Sale on Tech Accessories     - CNET](https://www.cnet.com/deals/twelve-south-kicks-off-early-black-friday-sale-on-tech-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

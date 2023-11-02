@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [Apple&#39;s M3 series shows a return to simple, consumer-friendly marketing; producing three distinct M3 chips likely has to be close to $1B in tape-out costs &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231102/p16#a231102p16)
  - [The Xbox Elite Series 2 is on sale for a new low price](https://www.theverge.com/2023/11/2/23942676/microsoft-elite-controller-series-2-grid-studio-iphone-ipod-gameboy-deal-sale)
  - [YouTube begins restricting how often teens receive repeated video recommendations related to sensitive topics like body image &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231102/p15#a231102p15)
- - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [Lenovo&#39;s Tab Wear Collection: A Clothing Proof-of-Concept for Taking Tablets Outdoors](https://www.wired.com/story/lenovo-tab-wear-collection/)<!-- TECH:END -->
+ - [This Furry Friend-Focused Robot Vac Is Almost $650 Off Today Only     - CNET](https://www.cnet.com/deals/this-furry-friend-focused-robot-vac-is-almost-650-off-today-only/#ftag=CAD590a51e)
+ - [Best Unlimited Data Plans for November 2023     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

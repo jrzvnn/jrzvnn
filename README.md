@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI, Meta, and others sign a non-binding document to let the US, the UK, and others, excluding China, test their latest AI models for national security risks &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p32#a231102p32)
+ - [Futurama got renewed, so you can expect 30 more episodes on Hulu](https://www.theverge.com/2023/11/2/23943544/futurama-renewal-hulu-season-13-14)
+ - [15 Best Early Black Friday Deals &lpar;2023&rpar;: iPads, Scooters, Wireless Earbuds](https://www.wired.com/story/absolute-best-black-friday-deals/)
+ - [OpenAI, Google, and others sign a non-binding document to let the US, the UK, and others, but not China, test their latest AI models for national security risks &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p32#a231102p32)
  - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
- - [Here’s when the big Black Friday sales start at Amazon, Best Buy, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)
- - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Amazon closes its two physical clothing stores, 17 months after opening the first one; Amazon closed most of its physical stores, including bookstores, in 2022 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231102/p31#a231102p31)<!-- TECH:END -->
+ - [Here’s when the big Black Friday sales start at Amazon, Best Buy, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

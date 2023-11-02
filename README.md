@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple &#39;briefly pauses&#39; internal Muslim, Jewish Slack channels](https://appleinsider.com/articles/23/11/02/apple-briefly-pauses-internal-muslim-jewish-slack-channels?utm_medium=rss)
+ - [Tim Cook highlights all-time record for Apple Services &amp; quarterly best iPhone sales](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-all-time-record-for-apple-services-quarterly-best-iphone-sales?utm_medium=rss)
+ - [Coinbase reports Q3 revenue up 14% YoY to $674M vs. $654.7M est., net loss down to $2.3M from $545M YoY, $76B in trading volume vs. $80.4B est.; COIN drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231102/p38#a231102p38)
  - [Apple Q4 revenue: iPhone up 3% YoY to $43.81B, Mac down 34% to $7.61B, iPad down 10% to $6.44B, and Wearables, Home, and Accessories down 3% to $9.32B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/231102/p37#a231102p37)
- - [Apple suffers fourth consecutive quarter of declining sales](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)
- - [Apple reports Q4 revenue down 1% YoY to $89.5B, vs. $89.3B est., net income up 11% YoY to $22.9B, and Services revenue up 16% YoY to a record $22.3B &lpar;Apple&rpar;](http://www.techmeme.com/231102/p36#a231102p36)
- - [Apple &quot;briefly pauses&quot; internal Muslim, Jewish Slack channels](https://appleinsider.com/articles/23/11/02/apple-briefly-pauses-internal-muslim-jewish-slack-channels?utm_medium=rss)
- - [Block Q3: revenue up 24% YoY to $5.62B, vs. $5.4B est., gross profit up 21% to $1.9B, Square gross profit up 15%, Cash App gross profit up 27%; SQ jumps 17%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231102/p35#a231102p35)<!-- TECH:END -->
+ - [Apple suffers fourth consecutive quarter of declining sales](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

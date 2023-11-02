@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mint is shutting down, and it’s pushing users toward Credit Karma](https://www.theverge.com/2023/11/2/23943254/mint-intuit-shutting-down-credit-karma)
  - [7 Best Pickleball Paddles &lpar;2023&rpar;: Budget, Pro, and Stylish](https://www.wired.com/gallery/best-pickleball-paddles/)
  - [11 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)
  - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Amazon plans to roll out a BNPL checkout option for Amazon Business users by November 24 via its Affirm partnership, with loans ranging from $100 to $20,000 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/231102/p17#a231102p17)
- - [Apple&#39;s M3 series shows a return to simple, consumer-friendly marketing; producing three distinct M3 chips likely has to be close to $1B in tape-out costs &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231102/p16#a231102p16)<!-- TECH:END -->
+ - [Amazon plans to roll out a BNPL checkout option for Amazon Business users by November 24 via its Affirm partnership, with loans ranging from $100 to $20,000 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/231102/p17#a231102p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

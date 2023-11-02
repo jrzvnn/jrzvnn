@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 💣 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
+ - 😝 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
+ - 💣 [Banana Peel](http://9gag.com/gag/aNwMMzA)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)<!-- MEMES:END -->
+ - 👉 [Finally](http://9gag.com/gag/anzZoqL)<!-- MEMES:END -->
 
 ---
 

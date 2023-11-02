@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports fourth quarter results &lpar;Apple&rpar;](http://www.techmeme.com/231102/p36#a231102p36)
  - [Apple &quot;briefly pauses&quot; internal Muslim, Jewish Slack channels](https://appleinsider.com/articles/23/11/02/apple-briefly-pauses-internal-muslim-jewish-slack-channels?utm_medium=rss)
  - [Block Q3: revenue up 24% YoY to $5.62B, vs. $5.4B est., gross profit up 21% to $1.9B, Square gross profit up 15%, Cash App gross profit up 27%; SQ jumps 17%+ &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/231102/p35#a231102p35)
  - [HBO head Casey Bloys says he’s sorry for harassing critics on Twitter](https://www.theverge.com/23943436/hbo-max-ceo-casey-bloys-twitter-harassment)
- - [Google&#39;s Chrome team stops considering a Web Integrity API proposal that aimed to help enforce IP rights, count ad views, and more, after comparisons to DRM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p34#a231102p34)
- - [The new Sims expansion lets your Sim be a landlord](https://www.theverge.com/2023/11/2/23943819/sims-rent-expansion-pack-game-landlord-renter)<!-- TECH:END -->
+ - [Google&#39;s Chrome team stops considering a Web Integrity API proposal that aimed to help enforce IP rights, count ad views, and more, after comparisons to DRM &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/231102/p34#a231102p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

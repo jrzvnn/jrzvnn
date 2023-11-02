@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon closes its two physical clothing stores, 17 months after opening the first one; Amazon closed most of its physical stores, including bookstores, in 2022 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231102/p31#a231102p31)
  - [Save $80 on AppleCare for Apple&#39;s new M3 iMac 24-inch](https://appleinsider.com/articles/23/11/02/save-80-on-applecare-for-apples-new-m3-imac-24-inch?utm_medium=rss)
  - [New details from FTC lawsuit: Amazon made $1.4B through Project Nessie, an algorithmic scheme that raised product prices and held them there if rivals followed &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231102/p30#a231102p30)
- - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)
- - [Newly unsealed details of an FTC complaint from September: Amazon monitored its sellers and punished them if they offered lower prices on other platforms &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p29#a231102p29)
- - [Swedish Ports Threaten to Block Teslas From Entering the Country](https://www.wired.com/story/tesla-sweden-strike/)<!-- TECH:END -->
+ - [Best Microphones for Zoom, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/tech/best-microphone-for-zoom-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
+ - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

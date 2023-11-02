@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
  - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 💣 [Lena Anderson...she do corn videos](http://9gag.com/gag/aEqK56p)
+ - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
+ - 👉 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)<!-- MEMES:END -->
 
 ---
 

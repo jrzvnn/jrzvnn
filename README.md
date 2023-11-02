@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Mozilla CEO Mitchell Baker says Firefox&#39;s switch to Yahoo in 2014 degraded UX and Firefox had difficulty competing on mobile because of defaults &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p3#a231102p3)
+ - [Passkeys Have Come to Amazon. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/passkeys-have-come-to-amazon-heres-what-you-need-to-know/#ftag=CAD590a51e)
  - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Sources: YMTC has had to raise billions of dollars in capital, after burning through $7B over the past year, as the Chinese chipmaker tries to adapt to US curbs &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p2#a231102p2)
- - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)
- - [Get a loaded 2TB MacBook Pro 14-inch M1 Max for $2,199 today only](https://appleinsider.com/articles/23/11/02/get-a-loaded-2tb-macbook-pro-14-inch-m1-max-for-2199-today-only?utm_medium=rss)
- - [The OMB releases draft rules that require federal agencies to monitor AI use in health care, law enforcement, and housing for potential harms against citizens &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/231101/p45#a231101p45)<!-- TECH:END -->
+ - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

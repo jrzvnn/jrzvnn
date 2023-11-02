@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
  - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
+ - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
  - 👉 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)<!-- MEMES:END -->
 
 ---

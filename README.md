@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)
  - [Apple expects strong Mac growth but wearable deceleration in the holiday quarter](https://appleinsider.com/articles/23/11/02/apple-expects-strong-mac-growth-but-wearable-deceleration-in-the-holiday-quarter?utm_medium=rss)
  - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)
  - [Apple&#39;s full-year results drop for the first time since 2019](https://appleinsider.com/articles/23/11/02/apples-full-year-results-drop-for-the-first-time-since-2019?utm_medium=rss)
- - [100 Thieves is laying off 20 percent of its staff as it focuses on ‘core’ of esports and apparel](https://www.theverge.com/2023/11/2/23944060/100-thieves-layoffs-esports-apparel-core-juvee)
- - [Apple’s iPhone lineup is selling well, but the Mac is in a serious rough patch](https://www.theverge.com/2023/11/2/23944114/apple-q4-2023-earnings-iphone-15)<!-- TECH:END -->
+ - [100 Thieves is laying off 20 percent of its staff as it focuses on ‘core’ of esports and apparel](https://www.theverge.com/2023/11/2/23944060/100-thieves-layoffs-esports-apparel-core-juvee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

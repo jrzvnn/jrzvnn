@@ -155,9 +155,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)
  - [Apple&#39;s full-year results drop for the first time since 2019](https://appleinsider.com/articles/23/11/02/apples-full-year-results-drop-for-the-first-time-since-2019?utm_medium=rss)
  - [100 Thieves is laying off 20 percent of its staff as it focuses on ‘core’ of esports and apparel](https://www.theverge.com/2023/11/2/23944060/100-thieves-layoffs-esports-apparel-core-juvee)
- - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)
  - [Apple’s iPhone lineup is selling well, but the Mac is in a serious rough patch](https://www.theverge.com/2023/11/2/23944114/apple-q4-2023-earnings-iphone-15)
  - [Apple&#39;s Q4 revenue for its Services segment, which includes Apple TV+ and Apple Music, rose 16% YoY to a record $22.31B vs. $21.35B expected &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231102/p39#a231102p39)<!-- TECH:END -->
 

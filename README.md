@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Cloudflare reports Q3 revenue up 32% YoY to $335.6M, vs. $330.5M est., and forecasts Q4 revenue below estimates &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p41#a231102p41)
+ - [Best Monitor Deals: Save Hundreds on These Work and Gaming Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
+ - [Best Car Phone Mount for 2023     - CNET](https://www.cnet.com/tech/mobile/best-car-phone-mount-for-2023/#ftag=CAD590a51e)
  - [Microsoft employees aren’t happy that they’re losing free Xbox Game Pass Ultimate](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
- - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)
- - [Best Solar Panel Installation Companies in Virginia     - CNET](https://www.cnet.com/home/energy-and-utilities/virginia-solar-panels/#ftag=CAD590a51e)
- - [Best AirPods Deals: Save on Apple and Beats     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

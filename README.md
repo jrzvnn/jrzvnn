@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm says it has acquired a minority stake in Raspberry Pi &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/231102/p21#a231102p21)
- - [Apple killed Android plans for Apple Watch - report](https://appleinsider.com/articles/23/11/02/apple-killed-android-plans-for-apple-watch---report?utm_medium=rss)
- - [Apple privately described Android as a &#39;massive tracking device&#39;](https://appleinsider.com/articles/23/11/02/apple-privately-described-android-as-a-massive-tracking-device?utm_medium=rss)
- - [Source: TikTok users sent $250M+ worth of digital gifts to US livestreamers in Q3; TikTok takes a 50% cut and is on track to earn $500M in US tips in 2023 &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/231102/p20#a231102p20)
- - [Humanity is on the run in the first trailer for Kingdom of the Planet of the Apes](https://www.theverge.com/23943483/kingdom-of-the-planet-of-the-apes-trailer-date)<!-- TECH:END -->
+ - [The Boy and the Heron’s English dub trailer keeps the secret magic intact](https://www.theverge.com/23940251/the-boy-and-the-herons-trailer-english-dub)
+ - [World Powers Say They Want to Contain AI. They’re Also Racing to Advance It](https://www.wired.com/story/uk-ai-summit-declaration/)
+ - [Brave responds to Bing and ChatGPT with a new ‘anonymous and secure’ AI chatbot](https://www.theverge.com/2023/11/2/23943193/brave-leo-ai-assistant-chatbot-release-date-price)
+ - [Nomad’s new iPad folios bring back the leather touch](https://www.theverge.com/2023/11/2/23942410/nomad-leather-folio-plus-ipad-case-price-specs-features)
+ - [US v. Google: Apple said &quot;Android is a massive tracking device&quot; and detailed its privacy stance in a 2013 internal presentation sent from Eddy Cue to Tim Cook &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/231102/p22#a231102p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

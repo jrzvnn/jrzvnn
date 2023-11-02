@@ -158,8 +158,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [M3 Max benchmarks show M2 Ultra performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)
  - [Flexport acquires the tech stack of shuttered digital freight startup Convoy; a source says Convoy CEO Dan Lewis will join Flexport as part of the deal &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/231101/p43#a231101p43)
  - [Intuit plans to shut personal finance app Mint, which had 3.6M MAUs in 2021, on January 1, 2024, and is pushing users to Credit Karma, which it acquired in 2020 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231101/p42#a231101p42)
- - [A critical look at the SEO industry, as users complain that Google isn&#39;t as useful anymore and some SEO experts say it&#39;s now harder to game Google&#39;s algorithm &lpar;Amanda Chicago Lewis/The Verge&rpar;](http://www.techmeme.com/231101/p41#a231101p41)
- - [What the Fed’s Vote on Interest Rates Means for Your Credit Cards     - CNET](https://www.cnet.com/personal-finance/fed-vs-inflation-what-it-means-for-your-credit-card-balance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Bluetooth Audio Glasses and Sunglasses for 2023     - CNET](https://www.cnet.com/tech/mobile/best-bluetooth-audio-glasses-and-sunglasses/#ftag=CAD590a51e)
+ - [A critical look at the SEO industry, as users complain that Google isn&#39;t as useful anymore and some SEO experts say it&#39;s now harder to game Google&#39;s algorithm &lpar;Amanda Chicago Lewis/The Verge&rpar;](http://www.techmeme.com/231101/p41#a231101p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

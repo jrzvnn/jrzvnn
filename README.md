@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s iPhone lineup is selling well, but the Mac is in a serious rough patch](https://www.theverge.com/2023/11/2/23944114/apple-q4-2023-earnings-iphone-15)
  - [Apple&#39;s Q4 revenue for its Services segment, which includes Apple TV+ and Apple Music, rose 16% YoY to a record $22.31B vs. $21.35B expected &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/231102/p39#a231102p39)
  - [Apple paying out $0.24 per share Q4 dividend on November 16](https://appleinsider.com/articles/23/11/02/apple-paying-out-024-per-share-q4-dividend-on-november-16?utm_medium=rss)
  - [Apple &#39;briefly pauses&#39; internal Muslim, Jewish Slack channels](https://appleinsider.com/articles/23/11/02/apple-briefly-pauses-internal-muslim-jewish-slack-channels?utm_medium=rss)
- - [Tim Cook highlights all-time record for Apple Services &amp; quarterly best iPhone sales](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-all-time-record-for-apple-services-quarterly-best-iphone-sales?utm_medium=rss)
- - [Coinbase reports Q3 revenue up 14% YoY to $674M vs. $654.7M est., net loss down to $2.3M from $545M YoY, $76B in trading volume vs. $80.4B est.; COIN drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/231102/p38#a231102p38)<!-- TECH:END -->
+ - [Tim Cook highlights all-time record for Apple Services &amp; quarterly best iPhone sales](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-all-time-record-for-apple-services-quarterly-best-iphone-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
- - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - 💣 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 👉 [Lena Anderson...she do corn videos](http://9gag.com/gag/aEqK56p)<!-- MEMES:END -->
+ - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
+ - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 👉 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)<!-- MEMES:END -->
 
 ---
 

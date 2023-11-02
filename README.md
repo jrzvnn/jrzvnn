@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI, Meta, and others sign a non-binding document to let the US, the UK, and others, excluding China, test their latest AI models for national security risks &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p32#a231102p32)
  - [Max is taking 4K away from its legacy ad-free subscribers](https://www.theverge.com/2023/11/2/23943859/max-4k-hbo-max-ad-free-subscribers)
  - [Here’s when the big Black Friday sales start at Amazon, Best Buy, and other retailers](https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores)
  - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Amazon closes its two physical clothing stores, 17 months after opening the first one; Amazon closed most of its physical stores, including bookstores, in 2022 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231102/p31#a231102p31)
- - [Save $80 on AppleCare for Apple&#39;s new M3 iMac 24-inch](https://appleinsider.com/articles/23/11/02/save-80-on-applecare-for-apples-new-m3-imac-24-inch?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon closes its two physical clothing stores, 17 months after opening the first one; Amazon closed most of its physical stores, including bookstores, in 2022 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/231102/p31#a231102p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

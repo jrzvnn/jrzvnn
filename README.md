@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
- - 😝 [A grieving woman in Gaza lost her loved ones and says: `All of this is because of the dogs of Hamas.\u201d She was forcefully silened, and her face were blurred.](http://9gag.com/gag/az2y3rp)
- - 💣 [Banana Peel](http://9gag.com/gag/aNwMMzA)
+ - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
+ - 💣 [Lena Anderson...she do corn videos](http://9gag.com/gag/aEqK56p)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [McDonalds Japan strikes again, promoting toxic heterosexual relationships](http://9gag.com/gag/aBdz5yz)<!-- MEMES:END -->
+ - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
 
 ---
 

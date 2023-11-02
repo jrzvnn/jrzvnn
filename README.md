@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook highlights The Beatles&#39; last song on Apple Music](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-the-beatles-last-song-on-apple-music?utm_medium=rss)
- - [The second season of The Last of Us might be a long ways away](https://www.theverge.com/2023/11/2/23943511/the-last-of-us-season-2-hbo-max-date)
- - [Brave releases its AI-powered assistant Leo to all desktop users, unveils $15/month Leo Premium, with access to faster and better LLMs and higher rate limits &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231102/p26#a231102p26)
- - [Paul McCartney and Ringo Starr release Now and Then, the first &quot;new&quot; Beatles song since 1995, created using AI and an old lo-fi John Lennon recording &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231102/p25#a231102p25)
- - [Facebook will let creators test different versions of Reels](https://www.theverge.com/2023/11/2/23943278/meta-facebook-reels-ab-testing-creator-insights)<!-- TECH:END -->
+ - [Swedish Ports Threaten to Block Teslas From Entering the Country](https://www.wired.com/story/tesla-sweden-strike/)
+ - [A look at Fusus, which links town and city security cameras into one central hub and analyzes the feeds using AI, as its systems are deployed across the US &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231102/p28#a231102p28)
+ - [Amazon’s secret pricing scheme made it an extra $1 billion, FTC says](https://www.theverge.com/2023/11/2/23943724/amazon-project-nessie-algorithm-ftc-antitrust-case)
+ - [Meta announces new creator tools, including a Reels A/B testing tool to test different versions of Reels and see which perform best &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/231102/p27#a231102p27)
+ - [Tim Cook highlights The Beatles&#39; last song on Apple Music](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-the-beatles-last-song-on-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

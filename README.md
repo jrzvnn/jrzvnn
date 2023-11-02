@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $80 on AppleCare for Apple&#39;s new M3 iMac 24-inch](https://appleinsider.com/articles/23/11/02/save-80-on-applecare-for-apples-new-m3-imac-24-inch?utm_medium=rss)
+ - [New details from FTC lawsuit: Amazon made $1.4B through Project Nessie, an algorithmic scheme that raised product prices and held them there if rivals followed &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/231102/p30#a231102p30)
  - [Nomad aims for the elegance of leather with new iPad folio cases](https://appleinsider.com/articles/23/11/02/nomad-aims-for-the-elegance-of-leather-with-new-ipad-folio-cases?utm_medium=rss)
  - [Newly unsealed details of an FTC complaint from September: Amazon monitored its sellers and punished them if they offered lower prices on other platforms &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p29#a231102p29)
- - [Swedish Ports Threaten to Block Teslas From Entering the Country](https://www.wired.com/story/tesla-sweden-strike/)
- - [A look at Fusus, which links town and city security cameras into one central hub and analyzes the feeds using AI, as its systems are deployed across the US &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/231102/p28#a231102p28)
- - [Amazon’s secret pricing scheme made it an extra $1 billion, FTC says](https://www.theverge.com/2023/11/2/23943724/amazon-project-nessie-algorithm-ftc-antitrust-case)<!-- TECH:END -->
+ - [Swedish Ports Threaten to Block Teslas From Entering the Country](https://www.wired.com/story/tesla-sweden-strike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)
  - 😝 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
+ - 😝 [A grieving woman in Gaza lost her loved ones and says: `All of this is because of the dogs of Hamas.\u201d She was forcefully silened, and her face were blurred.](http://9gag.com/gag/az2y3rp)
  - 💣 [Banana Peel](http://9gag.com/gag/aNwMMzA)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Finally](http://9gag.com/gag/anzZoqL)<!-- MEMES:END -->
+ - 👉 [McDonalds Japan strikes again, promoting toxic heterosexual relationships](http://9gag.com/gag/aBdz5yz)<!-- MEMES:END -->
 
 ---
 

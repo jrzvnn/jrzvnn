@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Microsoft employees aren’t happy that they’re losing free Xbox Game Pass Ultimate](https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed)
  - [Elon Musk says Starlink is cash-flow breakeven; in 2021, Musk said SpaceX would spin off and take Starlink public once its cash flow was reasonably predictable &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p40#a231102p40)
- - [Apple expects strong Mac growth but wearable deceleration in the holiday quarter](https://appleinsider.com/articles/23/11/02/apple-expects-strong-mac-growth-but-wearable-deceleration-in-the-holiday-quarter?utm_medium=rss)
- - [Apple suffers fourth consecutive quarter of declining sales, beat Wall Street anyway](https://appleinsider.com/articles/23/11/02/apple-suffers-fourth-consecutive-quarter-of-declining-sales?utm_medium=rss)
- - [Apple&#39;s full-year results drop for the first time since 2019](https://appleinsider.com/articles/23/11/02/apples-full-year-results-drop-for-the-first-time-since-2019?utm_medium=rss)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Virginia     - CNET](https://www.cnet.com/home/energy-and-utilities/virginia-solar-panels/#ftag=CAD590a51e)
+ - [Best AirPods Deals: Save on Apple and Beats     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [How to Cancel Your Credit Card the Right Way     - CNET](https://www.cnet.com/personal-finance/credit-cards/dont-just-cut-up-that-credit-card-heres-the-right-way-to-cancel-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

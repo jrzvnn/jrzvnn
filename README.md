@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal says the company received an SEC subpoena tied to its US dollar stablecoin, launched in August 2023 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/231102/p12#a231102p12)
- - [New York AG Letitia James says Uber and Lyft agree to pay a combined $328M to settle allegations of withholding wages from drivers and not providing sick pay &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/231102/p11#a231102p11)
- - [Palantir reports Q3 revenue up 17% YoY to $558M, a $72M net income, the fourth straight profitable quarter, and projects 2023 income above est.; PLTR jumps 12%+ &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/231102/p10#a231102p10)
- - [How Arizona State University, a &quot;secret weapon&quot; that has become a hive of R&amp;D for the chip industry, made Phoenix the beating heart of the US chipmaking boom &lpar;Myles McCormick/Financial Times&rpar;](http://www.techmeme.com/231102/p9#a231102p9)
- - [To protect teens, YouTube’s limiting some video recommendations](https://www.theverge.com/2023/11/2/23942277/youtube-teenager-mental-health-body-image-bullying-meta)<!-- TECH:END -->
+ - [Elon Musk Has Owned Twitter for a Year. Let’s Talk About How It’s Going](https://www.wired.com/story/gadget-lab-podcast-619/)
+ - [19 Piping-Hot Gifts for Coffee Lovers &lpar;2023&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2023/)
+ - [HTC’s Vive Focus 3 has a new, far-out mission: astronaut mental health](https://www.theverge.com/2023/11/2/23942639/htc-vive-focus-3-nasa-crew-7-virtual-reality-behavioral-health-test)
+ - [The best drawing tablets to buy right now](https://www.theverge.com/23923747/best-graphics-drawing-tablets)
+ - [M3 Max benchmarks show Mac Pro performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

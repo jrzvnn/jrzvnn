@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
- - 😝 [Wuttt?](http://9gag.com/gag/aoKow9n)
- - 💣 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - 😝 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)
+ - 😝 [It\u2019s my turn. After 29 years of marriage, here\u2019s my starting over. Wish me luck, a-holes](http://9gag.com/gag/az2yynb)
+ - 💣 [Every office has that one guy who brings his own keyboard](http://9gag.com/gag/aoKooKw)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)<!-- MEMES:END -->
+ - 👉 [Memes will set you free.](http://9gag.com/gag/aVbr9EP)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably going to trigger a few folk here.](http://9gag.com/gag/awZjjX1)
  - 😝 [Evil wishes, give me your best ones! What would you wish for to cause not only chaos but ingering pain.](http://9gag.com/gag/aeQzEYp)
- - 💣 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 😝 [Jesse kinda got a point there.](http://9gag.com/gag/aPgLVnP)
+ - 💣 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Her parents raised her well](http://9gag.com/gag/aeQzqYv)<!-- MEMES:END -->
+ - 👉 [Mariah Carey actually posted this herself just now](http://9gag.com/gag/axoK8ZD)<!-- MEMES:END -->
 
 ---
 

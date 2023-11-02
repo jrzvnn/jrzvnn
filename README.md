@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 Max benchmarks show M2 Ultra performance in a MacBook](https://appleinsider.com/articles/23/11/02/m3-max-benchmarks-show-m2-ultra-performance-in-a-macbook?utm_medium=rss)
+ - [Flexport acquires the tech stack of shuttered digital freight startup Convoy; a source says Convoy CEO Dan Lewis will join Flexport as part of the deal &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/231101/p43#a231101p43)
+ - [Intuit plans to shut personal finance app Mint, which had 3.6M MAUs in 2021, on January 1, 2024, and is pushing users to Credit Karma, which it acquired in 2020 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/231101/p42#a231101p42)
  - [A critical look at the SEO industry, as users complain that Google isn&#39;t as useful anymore and some SEO experts say it&#39;s now harder to game Google&#39;s algorithm &lpar;Amanda Chicago Lewis/The Verge&rpar;](http://www.techmeme.com/231101/p41#a231101p41)
- - [What the Fed’s Vote on Interest Rates Means for Your Credit Cards     - CNET](https://www.cnet.com/personal-finance/fed-vs-inflation-what-it-means-for-your-credit-card-balance/#ftag=CAD590a51e)
- - [Closing time for Sam Bankman-Fried](https://www.theverge.com/2023/11/1/23942828/sam-bankman-fried-trial-closing-arguments)
- - [Best Google Pixel Deals: Save Big on the Pixel 7 Pro and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Chainguard, which helps companies secure their open-source software supply chain, raised a $61M Series B led by Spark Capital, taking its total funding to $116M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231101/p40#a231101p40)<!-- TECH:END -->
+ - [What the Fed’s Vote on Interest Rates Means for Your Credit Cards     - CNET](https://www.cnet.com/personal-finance/fed-vs-inflation-what-it-means-for-your-credit-card-balance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
- - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
+ - 😝 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
+ - 💣 [They are among us and they are taking our women.](http://9gag.com/gag/ajVvv3p)
  - 😝 [Slow down, I&#39;m not quite done with Halloween yet! \ud83d\udc80](http://9gag.com/gag/aQEbb48)
- - 👉 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)<!-- MEMES:END -->
+ - 👉 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)<!-- MEMES:END -->
 
 ---
 

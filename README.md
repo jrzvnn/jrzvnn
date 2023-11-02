@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 😝 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
- - 💣 [They are among us and they are taking our women.](http://9gag.com/gag/ajVvv3p)
+ - 😝 [Lena Anderson...she do corn videos](http://9gag.com/gag/aEqK56p)
+ - 😝 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - 💣 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
  - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 👉 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)<!-- MEMES:END -->
+ - 👉 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)<!-- MEMES:END -->
 
 ---
 

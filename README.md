@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M3 series shows a return to simple, consumer-friendly marketing; producing three distinct M3 chips likely has to be close to $1B in tape-out costs &lpar;Jay Goldberg/Digits to Dollars&rpar;](http://www.techmeme.com/231102/p16#a231102p16)
+ - [The Xbox Elite Series 2 is on sale for a new low price](https://www.theverge.com/2023/11/2/23942676/microsoft-elite-controller-series-2-grid-studio-iphone-ipod-gameboy-deal-sale)
  - [YouTube begins restricting how often teens receive repeated video recommendations related to sensitive topics like body image &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231102/p15#a231102p15)
  - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [Lenovo&#39;s Tab Wear Collection: A Clothing Proof-of-Concept for Taking Tablets Outdoors](https://www.wired.com/story/lenovo-tab-wear-collection/)
- - [Redwood Materials is recycling its first stationary storage substation](https://www.theverge.com/2023/11/2/23943267/redwood-materials-recycle-stationary-storage-kauai)
- - [Two former Google engineers have a product and a plan to fix robot vacuums](https://www.theverge.com/2023/11/2/23942607/matic-robot-vacuum-price-release-date-features)<!-- TECH:END -->
+ - [Lenovo&#39;s Tab Wear Collection: A Clothing Proof-of-Concept for Taking Tablets Outdoors](https://www.wired.com/story/lenovo-tab-wear-collection/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

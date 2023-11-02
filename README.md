@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealing with Bad Cellphone Reception? Check Out These 10 Ways You Can Boost Your Cellphone Signal     - CNET](https://www.cnet.com/tech/mobile/dealing-with-bad-cellphone-reception-check-out-these-10-ways-you-can-boost-your-cellphone-signal/#ftag=CAD590a51e)
+ - [Boeing investigates a cyber incident that impacted its parts and distribution business, days after LockBit announced stealing &quot;a tremendous amount&quot; of data &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p5#a231102p5)
  - [US v. Google: Google&#39;s VP of Search Elizabeth Reid disputes the government&#39;s contention that Google &quot;rushed&quot; Bard&#39;s launch after Microsoft announced Bing Chat &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p4#a231102p4)
- - [Sonoma Finally Equalizes Your Mac Up and Your iPhone     - CNET](https://www.cnet.com/tech/computing/sonoma-finally-equalizes-your-mac-up-and-your-iphone/#ftag=CAD590a51e)
  - [US v. Google: Mozilla CEO Mitchell Baker says Firefox&#39;s switch to Yahoo in 2014 degraded UX and Firefox had difficulty competing on mobile because of defaults &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p3#a231102p3)
- - [Passkeys Have Come to Amazon. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/passkeys-have-come-to-amazon-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Passkeys Have Come to Amazon. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/passkeys-have-come-to-amazon-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

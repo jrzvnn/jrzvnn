@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 💣 [Lol f\u00facking b\u00edtch](http://9gag.com/gag/ago9e36)
- - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 👉 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)<!-- MEMES:END -->
+ - 😝 [Return of the King](http://9gag.com/gag/a04g3PB)
+ - 😝 [When you are arrested by the... Spice Girls](http://9gag.com/gag/aoKo7Zx)
+ - 💣 [99% men will agree](http://9gag.com/gag/a5XgY0r)
+ - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 

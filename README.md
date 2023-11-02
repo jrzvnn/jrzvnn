@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [US v. Google: Google&#39;s VP of Search Elizabeth Reid disputes the government&#39;s contention that Google &quot;rushed&quot; Bard&#39;s launch after Microsoft announced Bing Chat &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p4#a231102p4)
  - [US v. Google: Mozilla CEO Mitchell Baker says Firefox&#39;s switch to Yahoo in 2014 degraded UX and Firefox had difficulty competing on mobile because of defaults &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/231102/p3#a231102p3)
+ - [Passkeys Have Come to Amazon. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/passkeys-have-come-to-amazon-heres-what-you-need-to-know/#ftag=CAD590a51e)
  - [The 23 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Sources: YMTC has had to raise billions of dollars in capital, after burning through $7B over the past year, as the Chinese chipmaker tries to adapt to US curbs &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p2#a231102p2)
- - [On the UK&#39;s AI Safety Summit first day, there were closed-door discussions about whether to pause the development of next-generation &quot;frontier&quot; AI models &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/231102/p1#a231102p1)<!-- TECH:END -->
+ - [Sources: YMTC has had to raise billions of dollars in capital, after burning through $7B over the past year, as the Chinese chipmaker tries to adapt to US curbs &lpar;Financial Times&rpar;](http://www.techmeme.com/231102/p2#a231102p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

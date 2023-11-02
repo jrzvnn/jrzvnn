@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook highlights The Beatles&#39; last song on Apple Music](https://appleinsider.com/articles/23/11/02/tim-cook-highlights-the-beatles-last-song-on-apple-music?utm_medium=rss)
+ - [The second season of The Last of Us might be a long ways away](https://www.theverge.com/2023/11/2/23943511/the-last-of-us-season-2-hbo-max-date)
+ - [Brave releases its AI-powered assistant Leo to all desktop users, unveils $15/month Leo Premium, with access to faster and better LLMs and higher rate limits &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/231102/p26#a231102p26)
  - [Paul McCartney and Ringo Starr release Now and Then, the first &quot;new&quot; Beatles song since 1995, created using AI and an old lo-fi John Lennon recording &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/231102/p25#a231102p25)
- - [Facebook will let creators test different versions of Reels](https://www.theverge.com/2023/11/2/23943278/meta-facebook-reels-ab-testing-creator-insights)
- - [The FTC says Jeff Bezos personally ordered Amazon execs to accept more junk ads to boost profits; Amazon used disappearing Signal chats from June 2019 to 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/231102/p24#a231102p24)
- - [Amazon adds advertisements for physical products, such as earbuds, to Fire TV&#39;s top feature carousel, which until now has only promoted streaming video content &lpar;Jared Newman/TechHive&rpar;](http://www.techmeme.com/231102/p23#a231102p23)
- - [The Boy and the Heron’s English dub trailer keeps the secret magic intact](https://www.theverge.com/23940251/the-boy-and-the-herons-trailer-english-dub)<!-- TECH:END -->
+ - [Facebook will let creators test different versions of Reels](https://www.theverge.com/2023/11/2/23943278/meta-facebook-reels-ab-testing-creator-insights)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

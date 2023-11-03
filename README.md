@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
+ - 😝 [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
+ - 😝 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
+ - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
+ - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
 
 ---
 

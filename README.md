@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ releases fictional news clips to connect S3 and S4 of &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/11/03/apple-tv-releases-fictional-news-clips-to-connect-s3-and-s4-of-for-all-mankind?utm_medium=rss)
  - [5 Healthy Snacks Worth Picking Up at Costco     - CNET](https://www.cnet.com/health/nutrition/5-healthy-snacks-worth-picking-up-at-costco/#ftag=CAD590a51e)
  - [Best Weighted Blankets for 2023     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
  - [As EU was preparing to designate Apple as a gatekeeper under the DMA, Apple has argued that it has three separate browsers: Safari for iOS, iPadOS, and macOS &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/231103/p13#a231103p13)
- - [iPhone remains supreme despite flat global smartphone sales](https://appleinsider.com/articles/23/11/03/iphone-remains-supreme-despite-flat-global-smartphone-sales?utm_medium=rss)
- - [Ad blockers have seen record uninstalls after YouTube expanded its crackdown on ad blockers, while those unaffected by the clampdown saw record installs &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231103/p12#a231103p12)<!-- TECH:END -->
+ - [iPhone remains supreme despite flat global smartphone sales](https://appleinsider.com/articles/23/11/03/iphone-remains-supreme-despite-flat-global-smartphone-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)
+ - [Free OWC Drive Speed app tests video transfers for iPhone videographers](https://appleinsider.com/articles/23/11/03/free-owc-drive-speed-app-tests-video-transfers-for-iphone-videographers?utm_medium=rss)
  - [&quot;Now and Then,&quot; The Beatles’ Last Song, Is Here Thanks to Peter Jackson’s AI](https://www.wired.com/story/the-beatles-now-and-then-last-song-artificial-intelligence-peter-jackson/)
  - [Google scraps $15 billion deal with lead developer of Silicon Valley campus projects](https://www.theverge.com/2023/11/3/23945098/google-lendlease-silicon-valley-campus-development-deal-end-housing)
- - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)
- - [Microsoft’s fullscreen Xbox pop-up ads don’t have to be annoying](https://www.theverge.com/2023/11/3/23945174/microsoft-xbox-fullscreen-pop-up-ad-call-of-duty-modern-warfare-3-xbox-consoles)
- - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

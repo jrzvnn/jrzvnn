@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&quot;Now and Then,&quot; The Beatles’ Last Song, Is Here Thanks to Peter Jackson’s AI](https://www.wired.com/story/the-beatles-now-and-then-last-song-artificial-intelligence-peter-jackson/)
  - [Google scraps $15 billion deal with lead developer of Silicon Valley campus projects](https://www.theverge.com/2023/11/3/23945098/google-lendlease-silicon-valley-campus-development-deal-end-housing)
  - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)
  - [Microsoft’s fullscreen Xbox pop-up ads don’t have to be annoying](https://www.theverge.com/2023/11/3/23945174/microsoft-xbox-fullscreen-pop-up-ad-call-of-duty-modern-warfare-3-xbox-consoles)
- - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)
- - [Apple extends return policy through early January for holiday shoppers](https://appleinsider.com/articles/23/11/03/apple-extends-return-policy-through-early-january-for-holiday-shoppers?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

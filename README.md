@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
  - 😝 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
+ - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
  - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
+ - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 ---
 

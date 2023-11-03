@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A security researcher says that a Flipper Zero device can carry out DoS attacks on iPhones running iOS 17 by continuously sending Bluetooth pairing requests &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231103/p21#a231103p21)
  - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after Phil Spencer stepped in to reverse the company&#39;s plans to remove the benefit &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231103/p20#a231103p20)
  - [Best Apple TV Deals: Up to $60 in Savings Across Several Devices and Remotes     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
  - [Microsoft is now giving many Surface PCs at least six years of firmware updates](https://www.theverge.com/2023/11/3/23945728/microsoft-surface-pc-six-years-firmware-updates-support)
- - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)
- - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored)<!-- TECH:END -->
+ - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

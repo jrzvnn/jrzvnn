@@ -165,8 +165,8 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - 😝 [Bye.](http://9gag.com/gag/awZjWeQ)
- - 💣 [It aint much...](http://9gag.com/gag/anzZoEL)
+ - 😝 [It aint much...](http://9gag.com/gag/anzZoEL)
+ - 💣 [Bye.](http://9gag.com/gag/awZjWeQ)
  - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
  - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Return of the King](http://9gag.com/gag/a04g3PB)
- - 😝 [Long story, no potato](http://9gag.com/gag/adPADmZ)
- - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
+ - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 

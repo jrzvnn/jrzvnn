@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac mainstay Audio Hijack adds automation transcription](https://appleinsider.com/articles/23/11/03/mac-mainstay-audio-hijack-adds-automation-transcription?utm_medium=rss)
  - [Microsoft updates its support documentation to say Surface PCs shipped after January 1, 2021 will receive firmware updates for six years, up from four years &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231103/p16#a231103p16)
  - [Daily deals Nov. 3: M1 MacBook Air $749, 71% off Lenovo ThinkPad Ultrabook, 27% off MagSafe Duo Charger, more](https://appleinsider.com/articles/23/11/03/daily-deals-nov-3-m1-macbook-air-749-71-off-lenovo-thinkpad-ultrabook-27-off-magsafe-duo-charger-more?utm_medium=rss)
  - [An interview with Mozilla&#39;s Senior Director of Content Carolyn O&#39;Hara about joining the fediverse, technical hurdles for onboarding users, future plans, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231103/p15#a231103p15)
- - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)
- - [Best Roomba Alternatives to Keep Your Floors Clean     - CNET](https://www.cnet.com/home/kitchen-and-household/the-best-roomba-alternatives-to-keep-your-floors-clean/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

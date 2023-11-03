@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)
  - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored)
- - [Get a 1-year Sam&#39;s Club membership for $20 &amp; take the pain out of holiday shopping](https://appleinsider.com/articles/23/11/03/get-a-1-year-sams-club-membership-for-20-take-the-pain-out-of-holiday-shopping?utm_medium=rss)
- - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
- - [Best iPhone 14 and iPhone 14 Pro Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
- - [David Cronenberg Is the Master of Grotesque Sci-Fi](https://www.wired.com/2023/11/geeks-guide-cronenberg-sci-fi/)<!-- TECH:END -->
+ - [Best Extra Firm Mattress of 2023     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress-of-2023/#ftag=CAD590a51e)
+ - [7 Best Vitamins and Natural Supplements for Your Best Sleep     - CNET](https://www.cnet.com/health/sleep/the-7-best-vitamins-and-supplements-for-sleep/#ftag=CAD590a51e)
+ - [Get a 1-year Sam&#39;s Club membership for $20 &amp; take the pain out of holiday shopping](https://appleinsider.com/articles/23/11/03/get-a-1-year-sams-club-membership-for-20-take-the-pain-out-of-holiday-shopping?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

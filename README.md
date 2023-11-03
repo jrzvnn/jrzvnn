@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
  - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
 
 ---
 

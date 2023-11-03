@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
+ - 😝 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
+ - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
+ - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [Waking call](http://9gag.com/gag/amAQ4Oo)<!-- MEMES:END -->
 
 ---
 

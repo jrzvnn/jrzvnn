@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
+ - 😝 [99% men will agree](http://9gag.com/gag/a5XgY0r)
+ - 💣 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
  - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
+ - 👉 [Waking call](http://9gag.com/gag/amAQ4Oo)<!-- MEMES:END -->
 
 ---
 

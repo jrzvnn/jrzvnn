@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)
  - [6 Handy Black-Owned Apps You Should Download Now     - CNET](https://www.cnet.com/tech/services-and-software/6-handy-black-owned-apps-you-should-download-now/#ftag=CAD590a51e)
  - [Cloudflare says it has restored most services after power outages at multiple data centers impacted many, including Cloudflare API and Stream API &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231102/p46#a231102p46)
  - [Deals: save $150 on AppleCare for Apple&#39;s M3 MacBook Pro 14-inch](https://appleinsider.com/articles/23/11/03/deals-save-150-on-applecare-for-apples-m3-macbook-pro-14-inch?utm_medium=rss)
- - [Apple CEO Tim Cook calls AI a fundamental technology](https://appleinsider.com/articles/23/11/03/apple-ceo-tim-cook-calls-ai-a-fundamental-technology?utm_medium=rss)
- - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)<!-- TECH:END -->
+ - [Apple CEO Tim Cook calls AI a fundamental technology](https://appleinsider.com/articles/23/11/03/apple-ceo-tim-cook-calls-ai-a-fundamental-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

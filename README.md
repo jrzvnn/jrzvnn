@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [An interview with Mozilla&#39;s Senior Director of Content Carolyn O&#39;Hara about joining the fediverse, technical hurdles for onboarding users, future plans, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231103/p15#a231103p15)
- - [Free OWC Drive Speed app tests video transfers for iPhone videographers](https://appleinsider.com/articles/23/11/03/free-owc-drive-speed-app-tests-video-transfers-for-iphone-videographers?utm_medium=rss)
- - [‘Now and Then,’ the Beatles’ Last Song, Is Here, Thanks to Peter Jackson’s AI](https://www.wired.com/story/the-beatles-now-and-then-last-song-artificial-intelligence-peter-jackson/)
- - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)
- - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)
+ - [Best Roomba Alternatives to Keep Your Floors Clean     - CNET](https://www.cnet.com/home/kitchen-and-household/the-best-roomba-alternatives-to-keep-your-floors-clean/#ftag=CAD590a51e)
+ - [Best 15-Inch Gaming and Work Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-15-inch-laptop-gaming-and-work-laptop/#ftag=CAD590a51e)
+ - [Best TV Deals: Deals on Up to 85-Inch OLEDs, QLEDs, Fire TVs and More     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

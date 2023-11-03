@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone remains supreme despite flat global smartphone sales](https://appleinsider.com/articles/23/11/03/iphone-remains-supreme-despite-flat-global-smartphone-sales?utm_medium=rss)
  - [Ad blockers have seen record uninstalls after YouTube expanded its crackdown on ad blockers, while those unaffected by the clampdown saw record installs &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231103/p12#a231103p12)
  - [Okta says hackers who breached its support system in October accessed the files of 134 customers, five of whom were later targeted in session hijacking attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231103/p11#a231103p11)
  - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
- - [This little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
- - [Apple lands 27 Children&#39;s &amp; Family Emmy Award nominations](https://appleinsider.com/articles/23/11/03/apple-lands-27-childrens-family-emmy-award-nominations?utm_medium=rss)<!-- TECH:END -->
+ - [This little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

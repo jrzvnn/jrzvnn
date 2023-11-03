@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [What is happening here?](http://9gag.com/gag/aQEbbm2)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 💣 [A close call](http://9gag.com/gag/a04g35z)
  - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
+ - 👉 [Where butts?](http://9gag.com/gag/avQqqbX)<!-- MEMES:END -->
 
 ---
 

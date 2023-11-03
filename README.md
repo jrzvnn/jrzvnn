@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - 😝 [It aint much...](http://9gag.com/gag/anzZoEL)
- - 💣 [Bye.](http://9gag.com/gag/awZjWeQ)
- - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
 
 ---
 

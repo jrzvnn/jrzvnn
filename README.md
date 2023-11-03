@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 💣 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
+ - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
  - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
 
 ---

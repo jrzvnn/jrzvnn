@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
  - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
  - 😝 [Where butts?](http://9gag.com/gag/avQqqbX)
- - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
 
 ---
 

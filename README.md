@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
  - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 💣 [A close call](http://9gag.com/gag/a04g35z)
- - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
+ - 😝 [What is happening here?](http://9gag.com/gag/aQEbbm2)
+ - 💣 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
+ - 😝 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
+ - 👉 [Where butts?](http://9gag.com/gag/avQqqbX)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Born by a late pull, death by a late pull](http://9gag.com/gag/aREWb5j)
- - 😝 [Somewhere empty](http://9gag.com/gag/aBdzp9A)
- - 💣 [How I felt playing Skyrim for the first time.](http://9gag.com/gag/aWGyrP3)
- - 😝 [The kind of diversity that will make us strong](http://9gag.com/gag/aDY9y1G)
- - 👉 [Meanwhile in Germany](http://9gag.com/gag/aZDX626)<!-- MEMES:END -->
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
+ - 👉 [Where butts?](http://9gag.com/gag/avQqqbX)<!-- MEMES:END -->
 
 ---
 

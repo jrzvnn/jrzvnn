@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 💣 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
+ - 😝 [Return of the King](http://9gag.com/gag/a04g3PB)
+ - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
+ - 💣 [It aint much...](http://9gag.com/gag/anzZoEL)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bye.](http://9gag.com/gag/awZjWeQ)
- - 😝 [Return of the King](http://9gag.com/gag/a04g3PB)
- - 💣 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
- - 😝 [It aint much...](http://9gag.com/gag/anzZoEL)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 💣 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 ---
 

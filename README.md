@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are very civilized people...](http://9gag.com/gag/aEqKbQG)
- - 😝 [I had to check because I&#39;ve heard it in series and that meme poped out](http://9gag.com/gag/a6qgzYL)
- - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
+ - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
+ - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
 
 ---
 

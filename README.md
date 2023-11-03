@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [iPhone remains supreme despite flat global smartphone sales](https://appleinsider.com/articles/23/11/03/iphone-remains-supreme-despite-flat-global-smartphone-sales?utm_medium=rss)
  - [Ad blockers have seen record uninstalls after YouTube expanded its crackdown on ad blockers, while those unaffected by the clampdown saw record installs &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/231103/p12#a231103p12)
  - [Okta says hackers who breached its support system in October accessed the files of 134 customers, five of whom were later targeted in session hijacking attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231103/p11#a231103p11)
- - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)<!-- TECH:END -->
+ - [4 Ways to Prepare for the End of Daylight Saving Time     - CNET](https://www.cnet.com/health/sleep/4-ways-to-prepare-for-the-end-of-daylight-saving-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

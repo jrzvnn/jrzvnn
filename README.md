@@ -157,9 +157,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!-- TECH:START -->
  - [Apple CEO Tim Cook calls AI a fundamental technology](https://appleinsider.com/articles/23/11/03/apple-ceo-tim-cook-calls-ai-a-fundamental-technology?utm_medium=rss)
  - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
- - [FTX Founder Sam Bankman-Fried Has Been Found Guilty of Fraud](https://www.wired.com/story/ftx-founder-sam-bankman-fried-guilty-fraud-trial/)
- - [Sources: Meta did not sufficiently act on its Well-Being Teams&#39; findings to protect teens; Arturo Bejar will detail his efforts at Meta to Congress Tuesday &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/231102/p45#a231102p45)
- - [Pixel 7A Deals: Unlocked Models Are Down to $374, Up to $500 Off With Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Bankman-Fried Has Been Found Guilty of Fraud](https://www.wired.com/story/ftx-founder-sam-bankman-fried-guilty-fraud-trial/)
+ - [Pixel 7A Deals: Unlocked Models Are Down to $374, Up to $500 Off With Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)
+ - [Sources: Microsoft plans to remove the free Xbox Game Pass Ultimate benefit for most staff in Jan. 2024; Phil Spencer said he was unaware and is looking into it &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231102/p44#a231102p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

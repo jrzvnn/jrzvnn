@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Mac mainstay Audio Hijack adds automation transcription](https://appleinsider.com/articles/23/11/03/mac-mainstay-audio-hijack-adds-automation-transcription?utm_medium=rss)
+ - [&#39;Lawmen: Bass Reeves&#39; Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/lawmen-bass-reeves-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
+ - [This Lego City Fire Set Will Be Dropping to Just $30 During Walmart&#39;s Early Black Friday Sale     - CNET](https://www.cnet.com/deals/this-lego-city-fire-set-will-be-dropping-to-just-30-during-walmarts-early-black-friday-sale/#ftag=CAD590a51e)
  - [Microsoft updates its support documentation to say Surface PCs shipped after January 1, 2021 will receive firmware updates for six years, up from four years &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231103/p16#a231103p16)
- - [Daily deals Nov. 3: M1 MacBook Air $749, 71% off Lenovo ThinkPad Ultrabook, 27% off MagSafe Duo Charger, more](https://appleinsider.com/articles/23/11/03/daily-deals-nov-3-m1-macbook-air-749-71-off-lenovo-thinkpad-ultrabook-27-off-magsafe-duo-charger-more?utm_medium=rss)
- - [An interview with Mozilla&#39;s Senior Director of Content Carolyn O&#39;Hara about joining the fediverse, technical hurdles for onboarding users, future plans, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/231103/p15#a231103p15)
- - [In a first, Marvel’s Echo is coming to both Disney Plus and Hulu at the same time](https://www.theverge.com/2023/11/3/23945203/marvel-echo-disney-plus-hulu-dual-release-date)<!-- TECH:END -->
+ - [Score a Solo Stove for Under $100 Plus More Hot Early Black Friday Deals     - CNET](https://www.cnet.com/deals/score-a-solo-stove-for-under-100-plus-more-hot-early-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

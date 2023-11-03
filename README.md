@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s fullscreen Xbox pop-up ads don’t have to be annoying](https://www.theverge.com/2023/11/3/23945174/microsoft-xbox-fullscreen-pop-up-ad-call-of-duty-modern-warfare-3-xbox-consoles)
  - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)
  - [Apple extends return policy through early January for holiday shoppers](https://appleinsider.com/articles/23/11/03/apple-extends-return-policy-through-early-january-for-holiday-shoppers?utm_medium=rss)
  - [BlizzCon 2023: all the latest news and trailers](https://www.theverge.com/2023/11/3/23944811/blizzcon-2023-news-trailers-diablo-warcraft-overwatch)
- - [Oracle, SUSE, and CIQ release the source code for OpenELA, their challenge to Red Hat Enterprise Linux &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/231103/p14#a231103p14)
- - [Apple TV+ releases fictional news clips to connect S3 and S4 of &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/11/03/apple-tv-releases-fictional-news-clips-to-connect-s3-and-s4-of-for-all-mankind?utm_medium=rss)<!-- TECH:END -->
+ - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

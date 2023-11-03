@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DC&#39;s AG sues RealPage and 14 of Washington DC&#39;s largest landlord firms for using RealPage&#39;s rent-setting software to allegedly collude on rent price increases &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/231103/p10#a231103p10)
+ - [Soon you’ll be able to safely microwave Cup Noodles &lpar;you weren’t doing that, right?&rpar;](https://www.theverge.com/2023/11/3/23944815/nissin-cup-noodles-microwave-2024)
  - [The new Echo Show 5 and Apple’s leather AirTag Loops are over half off](https://www.theverge.com/2023/11/3/23944095/amazon-echo-show-5-apple-leather-airtag-loops-lg-g3-oled-tv-deal-sale)
  - [Google ends a deal with Lendlease to build 15,000 homes in the Bay Area, after announcing in 2019 that it would help build houses on land it owns worth $750M &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/231103/p9#a231103p9)
- - [Amazon settles UK CMA probes over use of third-party data, agreeing not to use &quot;non-public&quot; third-party seller data to benefit its own products, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231103/p8#a231103p8)
- - [M3 Max performance, iOS 17.2&#39;s Journal, new Apple TV app on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/03/m3-max-performance-ios-172s-journal-new-apple-tv-app-on-the-appleinsider-podcast?utm_medium=rss)
- - [17 Best Gaming Headsets &lpar;2023&rpar;: Wired, Wireless, for Switch, PC, Xbox, PS5, and PS4](https://www.wired.com/gallery/best-gaming-headsets/)<!-- TECH:END -->
+ - [Take Advantage of These Fall Sales on Cozy Loungewear     - CNET](https://www.cnet.com/deals/take-advantage-of-these-fall-sales-on-cozy-loungewear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

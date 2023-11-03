@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lovely council](http://9gag.com/gag/aBdzeQ2)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 💣 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 😝 [Poor sweet scared thing](http://9gag.com/gag/aME7gZP)
+ - 😝 [Car-opractor](http://9gag.com/gag/awZjEzr)
+ - 💣 [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
- - 😝 [99% men will agree](http://9gag.com/gag/a5XgY0r)
- - 💣 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 👉 [Waking call](http://9gag.com/gag/amAQ4Oo)<!-- MEMES:END -->
+ - 😝 [Return of the King](http://9gag.com/gag/a04g3PB)
+ - 😝 [Long story, no potato](http://9gag.com/gag/adPADmZ)
+ - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
+ - 👉 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)<!-- MEMES:END -->
 
 ---
 

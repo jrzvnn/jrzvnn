@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F#%@ around, find out....](http://9gag.com/gag/aXn31Yz)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
+ - 😝 [Halloween costumes done right](http://9gag.com/gag/armE7qd)
+ - 😝 [Bye.](http://9gag.com/gag/awZjWeQ)
+ - 💣 [It aint much...](http://9gag.com/gag/anzZoEL)
+ - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
+ - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---
 

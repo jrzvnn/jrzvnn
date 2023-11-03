@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s China expansion continues with its first Apple Store in Wenzhou](https://appleinsider.com/articles/23/11/03/apples-china-expansion-continues-with-its-first-apple-store-in-wenzhou?utm_medium=rss)
- - [‘Party Time!’ Crypto Land Celebrates as Sam Bankman-Fried Is Found Guilty](https://www.wired.com/story/sam-bankman-fried-guilty-crypto-industry-reaction/)
- - [DC&#39;s AG sues RealPage and 14 of Washington DC&#39;s largest landlord firms for using RealPage&#39;s rent-setting software to allegedly collude on rent price increases &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/231103/p10#a231103p10)
- - [Soon you’ll be able to safely microwave Cup Noodles &lpar;you weren’t doing that, right?&rpar;](https://www.theverge.com/2023/11/3/23944815/nissin-cup-noodles-microwave-2024)
- - [The new Echo Show 5 and Apple’s leather AirTag Loops are over half off](https://www.theverge.com/2023/11/3/23944095/amazon-echo-show-5-apple-leather-airtag-loops-lg-g3-oled-tv-deal-sale)<!-- TECH:END -->
+ - [Okta says hackers who breached its support system in October accessed the files of 134 customers, five of whom were later targeted in session hijacking attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231103/p11#a231103p11)
+ - [The Verge’s 2023 PC gift guide](https://www.theverge.com/23919557/holiday-gift-ideas-2023-pc-desktop-laptop-wfh-content-creator-tech-gadgets)
+ - [This little tool can crash an iPhone running iOS 17](https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth)
+ - [Apple lands 27 Children&#39;s &amp; Family Emmy Award nominations](https://appleinsider.com/articles/23/11/03/apple-lands-27-childrens-family-emmy-award-nominations?utm_medium=rss)
+ - [Apple&#39;s China expansion continues with its first Apple Store in Wenzhou](https://appleinsider.com/articles/23/11/03/apples-china-expansion-continues-with-its-first-apple-store-in-wenzhou?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

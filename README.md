@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti introduces AC2A and AC70 Portable Generators perfect for your autumn excursions](https://appleinsider.com/articles/23/11/03/bluetti-introduces-ac2a-and-ac70-portable-generators-perfect-for-your-autumn-excursions?utm_medium=rss)
- - [Elon Musk says xAI will release its first AI model to a select group on November 4 and &quot;in some important respects, it is the best that currently exists&quot; &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231103/p5#a231103p5)
- - [Fortnite’s new season is a trip through the game’s history](https://www.theverge.com/2023/11/3/23943701/fortnite-og-new-season-tilted-towers-baller)
- - [Yamaha True X Bar 50A Review: Great for the Money](https://www.wired.com/review/yamaha-true-x-bar-50a/)
- - [Radius Outfitters Tool Roll: Finally a Quality Tool Organizer](https://www.wired.com/story/radius-outfitters-tool-roll-rave/)<!-- TECH:END -->
+ - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)
+ - [Joe Biden Has a Secret Weapon Against Killer AI. It&#39;s Bureaucrats](https://www.wired.com/story/plaintext-joe-biden-secret-weapon-against-killer-ai-its-bureaucrats/)
+ - [Ten Thousand Makes Damn Near Perfect Pants](https://www.wired.com/story/ten-thousand-tactical-pants-rave/)
+ - [Imagine If Joe Biden’s AI Executive Order Were Inspired by &#39;The Terminator&#39;](https://www.wired.com/story/imagine-if-joe-bidens-ai-executive-order-were-inspired-by-the-terminator/)
+ - [Bluetti introduces AC2A and AC70 Portable Generators perfect for your autumn excursions](https://appleinsider.com/articles/23/11/03/bluetti-introduces-ac2a-and-ac70-portable-generators-perfect-for-your-autumn-excursions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

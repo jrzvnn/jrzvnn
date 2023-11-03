@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google scraps $15 billion deal with lead developer of Silicon Valley campus projects](https://www.theverge.com/2023/11/3/23945098/google-lendlease-silicon-valley-campus-development-deal-end-housing)
+ - [BenQ LaptopBar review -- appealing lightbar for MacBook Pro](https://appleinsider.com/articles/23/11/03/benq-laptopbar-review----appealing-lightbar-for-macbook-pro?utm_medium=rss)
  - [Microsoft’s fullscreen Xbox pop-up ads don’t have to be annoying](https://www.theverge.com/2023/11/3/23945174/microsoft-xbox-fullscreen-pop-up-ad-call-of-duty-modern-warfare-3-xbox-consoles)
  - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)
- - [Apple extends return policy through early January for holiday shoppers](https://appleinsider.com/articles/23/11/03/apple-extends-return-policy-through-early-january-for-holiday-shoppers?utm_medium=rss)
- - [BlizzCon 2023: all the latest news and trailers](https://www.theverge.com/2023/11/3/23944811/blizzcon-2023-news-trailers-diablo-warcraft-overwatch)
- - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple extends return policy through early January for holiday shoppers](https://appleinsider.com/articles/23/11/03/apple-extends-return-policy-through-early-january-for-holiday-shoppers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

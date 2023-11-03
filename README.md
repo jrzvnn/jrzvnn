@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lovely council](http://9gag.com/gag/aBdzeQ2)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 💣 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
  - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
  - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
 
 ---

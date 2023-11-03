@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Best Sex Toys &lpar;2023&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [YouTube’s Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)
+ - [A look at the Russia-based SWAT USA Drop, whose 1,200+ US employees knowingly or unwittingly reship consumer goods purchased online with stolen credit cards &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/231103/p3#a231103p3)
  - [Dell put fast 120Hz panels in its latest UltraSharp monitors](https://www.theverge.com/2023/11/3/23944722/dell-ultrasharp-u2424h-u2424he-u2724d-u2724de-120hz-price-release-date-specs-features)
- - [Best Laptops and Tablets to Give as Holiday Gifts for 2023     - CNET](https://www.cnet.com/tech/computing/best-laptops-and-tablets-to-give-as-holiday-gifts-for-2023/#ftag=CAD590a51e)
- - [Best Gaming TV for 2023: Low Input Lag and High Picture Quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
- - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
- - [Want Free COVID Tests? Here&#39;s How to Order Them From the USPS     - CNET](https://www.cnet.com/health/want-free-covid-tests-heres-how-to-order-them-from-the-usps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Laptops and Tablets to Give as Holiday Gifts for 2023     - CNET](https://www.cnet.com/tech/computing/best-laptops-and-tablets-to-give-as-holiday-gifts-for-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [OpenSea lays off 50% of staff and says it is moving to &quot;OpenSea 2.0&quot;; the NFT marketplace said it had 230 staff after laying off 20% of workforce in July 2022 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231103/p18#a231103p18)
+ - [Black Friday Ads: Shop Early Deals at Best Buy, Walmart, B&amp;H, Target and More     - CNET](https://www.cnet.com/tech/black-friday-ad-scans/#ftag=CAD590a51e)
+ - [Barbie Pet Boutique     - CNET](https://www.cnet.com/culture/entertainment/barbie-pet-boutique-dpnl/#ftag=CAD590a51e)
  - [VIP members get up to $200 off Apple&#39;s new M3 MacBook Pro &amp; iMac right now](https://appleinsider.com/articles/23/11/03/vip-members-get-up-to-200-off-apples-new-m3-macbook-pro-imac-right-now?utm_medium=rss)
- - [Washington D.C. rolling out Apple AirTag program to help curb car theft](https://appleinsider.com/articles/23/11/03/washington-dc-rolling-out-apple-airtag-program-to-help-curb-car-theft?utm_medium=rss)
- - [Google Play rolls out an &quot;Independent security review&quot; badge for apps that conduct a Mobile Application Security Assessment audit, starting with VPN apps &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231103/p17#a231103p17)
- - [Mac mainstay Audio Hijack adds automation transcription](https://appleinsider.com/articles/23/11/03/mac-mainstay-audio-hijack-adds-automation-transcription?utm_medium=rss)<!-- TECH:END -->
+ - [Early Black Friday Deal Scores You a Fire TV Stick From $18     - CNET](https://www.cnet.com/deals/early-black-friday-day-deal-gets-you-a-fire-tv-stick-from-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

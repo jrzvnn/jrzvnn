@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TP-Link’s teeny-tiny security camera offers a lot for very little](https://www.theverge.com/2023/11/1/23941020/tp-link-tapo-c120-indoor-outdoor-security-camera-price-release-date)
  - [Best iPhone 14 and iPhone 14 Pro Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-14-cases/#ftag=CAD590a51e)
  - [David Cronenberg Is the Master of Grotesque Sci-Fi](https://www.wired.com/2023/11/geeks-guide-cronenberg-sci-fi/)
  - [Best Cordless Vacuums for 2023     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Lollipop Lab     - CNET](https://www.cnet.com/culture/entertainment/lollipop-lab-dpnl/#ftag=CAD590a51e)
- - [Best Small Soundbar of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-small-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lollipop Lab     - CNET](https://www.cnet.com/culture/entertainment/lollipop-lab-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

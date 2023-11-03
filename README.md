@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell put fast 120Hz panels in its latest UltraSharp monitors](https://www.theverge.com/2023/11/3/23944722/dell-ultrasharp-u2424h-u2424he-u2724d-u2724de-120hz-price-release-date-specs-features)
+ - [Best Laptops and Tablets to Give as Holiday Gifts for 2023     - CNET](https://www.cnet.com/tech/computing/best-laptops-and-tablets-to-give-as-holiday-gifts-for-2023/#ftag=CAD590a51e)
+ - [Best Gaming TV for 2023: Low Input Lag and High Picture Quality     - CNET](https://www.cnet.com/tech/home-entertainment/best-gaming-tv/#ftag=CAD590a51e)
  - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
- - [Need to Take a Screenshot With Windows 11? Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/need-to-take-a-screenshot-with-windows-11-heres-how/#ftag=CAD590a51e)
- - [Student Loan Repayments Restarted in October. What Happens if You Don&#39;t Pay?     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-repayments-restarted-in-october-what-happens-if-you-dont-pay/#ftag=CAD590a51e)
- - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)
- - [6 Handy Black-Owned Apps You Should Download Now     - CNET](https://www.cnet.com/tech/services-and-software/6-handy-black-owned-apps-you-should-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want Free COVID Tests? Here&#39;s How to Order Them From the USPS     - CNET](https://www.cnet.com/health/want-free-covid-tests-heres-how-to-order-them-from-the-usps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

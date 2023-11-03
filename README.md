@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft plans to remove the free Xbox Game Pass Ultimate benefit for most employees in Jan. 2024; Phil Spencer says he is looking into the situation &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231102/p44#a231102p44)
  - [Apple reports Q4 revenue down 2.5% YoY to $15.1B in Greater China, down 3.4% YoY to $5.5B in Japan, and down 0.7% YoY to $6.3B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231102/p43#a231102p43)
+ - [Live Updates: FTX Founder Sam Bankman-Fried Found Guilty of Fraud](https://www.wired.com/live/sam-bankman-fried-sbf-ftx-trial-live-blog-verdict/)
  - [FTX founder Sam Bankman-Fried is guilty of fraud](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [A jury finds Sam Bankman-Fried guilty on all seven counts of fraud and conspiracy in the FTX trial; the judge sets SBF&#39;s sentencing for March 28, 2024 &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/231102/p42#a231102p42)
- - [Sam Bankman-Fried found guilty of fraud](https://www.theverge.com/policy/2023/11/2/23943236/sam-bankman-fried-trial-sbf-fraud-guilty)
- - [Cloudflare reports Q3 revenue up 32% YoY to $335.6M, vs. $330.5M est., and forecasts Q4 revenue below estimates &lpar;Reuters&rpar;](http://www.techmeme.com/231102/p41#a231102p41)<!-- TECH:END -->
+ - [FTX Founder Sam Bankman-Fried Has Been Found Guilty of Fraud](https://www.wired.com/story/ftx-founder-sam-bankman-fried-guilty-fraud-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

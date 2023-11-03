@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty can now take up over 200GB of space, but it’s complicated](https://www.theverge.com/2023/11/3/23944733/call-of-duty-modern-warfare-3-storage)
  - [Sam Bankman-Fried, who is unkempt, pedigreed, and awkward, replicated what VCs believe a founder should look like, and the door remains open for others like him &lpar;Lora Kelley/The Atlantic&rpar;](http://www.techmeme.com/231103/p4#a231103p4)
  - [25 Best Sex Toys &lpar;2023&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [YouTube’s Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)
- - [A look at the Russia-based SWAT USA Drop, whose 1,200+ US employees knowingly or unwittingly reship consumer goods purchased online with stolen credit cards &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/231103/p3#a231103p3)
- - [Dell put fast 120Hz panels in its latest UltraSharp monitors](https://www.theverge.com/2023/11/3/23944722/dell-ultrasharp-u2424h-u2424he-u2724d-u2724de-120hz-price-release-date-specs-features)<!-- TECH:END -->
+ - [A look at the Russia-based SWAT USA Drop, whose 1,200+ US employees knowingly or unwittingly reship consumer goods purchased online with stolen credit cards &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/231103/p3#a231103p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

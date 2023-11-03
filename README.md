@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
  - 😝 [What is happening here?](http://9gag.com/gag/aQEbbm2)
- - 💣 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 😝 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 💣 [A close call](http://9gag.com/gag/a04g35z)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 

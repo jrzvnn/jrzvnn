@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [Where butts?](http://9gag.com/gag/avQqqbX)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 💣 [Where butts?](http://9gag.com/gag/avQqqbX)
+ - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
  - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 💣 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
+ - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [How I felt playing Skyrim for the first time.](http://9gag.com/gag/aWGyrP3)
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 😝 [Waking call](http://9gag.com/gag/amAQ4Oo)
+ - 👉 [Meanwhile in Germany](http://9gag.com/gag/aZDX626)<!-- MEMES:END -->
 
 ---
 

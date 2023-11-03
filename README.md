@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple told EU regulators it has three browsers, all called Safari](https://appleinsider.com/articles/23/11/03/apple-told-eu-regulators-it-has-three-browsers-all-called-safari?utm_medium=rss)
- - [Court records show FTX advisers gave trading data and customer details to the FBI in recent months in response to subpoenas from at least five FBI field offices &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231103/p7#a231103p7)
- - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
- - [UK CMA says Meta has pledged to let Facebook Marketplace users opt out of having their data used by Meta and limit how it uses ad data for product development &lpar;Joseph Hoppe/Wall Street Journal&rpar;](http://www.techmeme.com/231103/p6#a231103p6)
- - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)<!-- TECH:END -->
+ - [Take Advantage of These Fall Sales on Cozy Loungewear     - CNET](https://www.cnet.com/deals/take-advantage-of-these-fall-sales-on-cozy-loungewear/#ftag=CAD590a51e)
+ - [Amazon settles UK CMA probes over use of third-party data, agreeing not to use &quot;non-public&quot; third-party seller data to benefit its own products, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/231103/p8#a231103p8)
+ - [M3 Max performance, iOS 17.2&#39;s Journal, new Apple TV app on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/03/m3-max-performance-ios-172s-journal-new-apple-tv-app-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Best Portable Chargers and Power Banks to Buy for Android in 2023     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)
+ - [Best Smart TV for 2023: Top Picks From Roku, Amazon, Google and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

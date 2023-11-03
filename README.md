@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 💣 [Where butts?](http://9gag.com/gag/avQqqbX)
+ - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
  - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---
 

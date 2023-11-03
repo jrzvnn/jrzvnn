@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after Phil Spencer stepped in to reverse the company&#39;s plans to remove the benefit &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231103/p20#a231103p20)
+ - [Best Apple TV Deals: Up to $60 in Savings Across Several Devices and Remotes     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
  - [Microsoft is now giving many Surface PCs at least six years of firmware updates](https://www.theverge.com/2023/11/3/23945728/microsoft-surface-pc-six-years-firmware-updates-support)
  - [China says it attended the UK AI Safety Summit&#39;s ministerial meeting on its second day, despite not being listed by the UK among the &quot;like-minded&quot; participants &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p19#a231103p19)
- - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored)
- - [Best Extra Firm Mattress of 2023     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress-of-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints](https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

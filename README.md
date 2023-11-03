@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play rolls out an &quot;Independent security review&quot; badge for apps that conduct a Mobile Application Security Assessment audit, starting with VPN apps &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/231103/p17#a231103p17)
  - [Mac mainstay Audio Hijack adds automation transcription](https://appleinsider.com/articles/23/11/03/mac-mainstay-audio-hijack-adds-automation-transcription?utm_medium=rss)
  - [&#39;Lawmen: Bass Reeves&#39; Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/lawmen-bass-reeves-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)
  - [This Lego City Fire Set Will Be Dropping to Just $30 During Walmart&#39;s Early Black Friday Sale     - CNET](https://www.cnet.com/deals/this-lego-city-fire-set-will-be-dropping-to-just-30-during-walmarts-early-black-friday-sale/#ftag=CAD590a51e)
- - [Microsoft updates its support documentation to say Surface PCs shipped after January 1, 2021 will receive firmware updates for six years, up from four years &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231103/p16#a231103p16)
- - [Score a Solo Stove for Under $100 Plus More Hot Early Black Friday Deals     - CNET](https://www.cnet.com/deals/score-a-solo-stove-for-under-100-plus-more-hot-early-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft updates its support documentation to say Surface PCs shipped after January 1, 2021 will receive firmware updates for six years, up from four years &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/231103/p16#a231103p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

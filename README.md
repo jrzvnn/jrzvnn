@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s China expansion continues with its first Apple Store in Wenzhou](https://appleinsider.com/articles/23/11/03/apples-china-expansion-continues-with-its-first-apple-store-in-wenzhou?utm_medium=rss)
+ - [‘Party Time!’ Crypto Land Celebrates as Sam Bankman-Fried Is Found Guilty](https://www.wired.com/story/sam-bankman-fried-guilty-crypto-industry-reaction/)
  - [DC&#39;s AG sues RealPage and 14 of Washington DC&#39;s largest landlord firms for using RealPage&#39;s rent-setting software to allegedly collude on rent price increases &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/231103/p10#a231103p10)
  - [Soon you’ll be able to safely microwave Cup Noodles &lpar;you weren’t doing that, right?&rpar;](https://www.theverge.com/2023/11/3/23944815/nissin-cup-noodles-microwave-2024)
- - [The new Echo Show 5 and Apple’s leather AirTag Loops are over half off](https://www.theverge.com/2023/11/3/23944095/amazon-echo-show-5-apple-leather-airtag-loops-lg-g3-oled-tv-deal-sale)
- - [Google ends a deal with Lendlease to build 15,000 homes in the Bay Area, after announcing in 2019 that it would help build houses on land it owns worth $750M &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/231103/p9#a231103p9)
- - [Take Advantage of These Fall Sales on Cozy Loungewear     - CNET](https://www.cnet.com/deals/take-advantage-of-these-fall-sales-on-cozy-loungewear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The new Echo Show 5 and Apple’s leather AirTag Loops are over half off](https://www.theverge.com/2023/11/3/23944095/amazon-echo-show-5-apple-leather-airtag-loops-lg-g3-oled-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

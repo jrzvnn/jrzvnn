@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
- - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 👉 [For all the Ladies out there](http://9gag.com/gag/a9qww91)<!-- MEMES:END -->
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---
 

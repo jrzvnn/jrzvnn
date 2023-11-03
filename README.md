@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
- - 😝 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
+ - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
 
 ---
 

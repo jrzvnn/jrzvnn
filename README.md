@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)
- - [Call of Duty can now take up over 200GB of space, but it’s complicated](https://www.theverge.com/2023/11/3/23944733/call-of-duty-modern-warfare-3-storage)
- - [Sam Bankman-Fried, who is unkempt, pedigreed, and awkward, replicated what VCs believe a founder should look like, and the door remains open for others like him &lpar;Lora Kelley/The Atlantic&rpar;](http://www.techmeme.com/231103/p4#a231103p4)
- - [25 Best Sex Toys &lpar;2023&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [YouTube’s Ad Blocker Crackdown Spurs Record Uninstalls](https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/)<!-- TECH:END -->
+ - [Elon Musk says xAI will release its first AI model to a select group on November 4 and &quot;in some important respects, it is the best that currently exists&quot; &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231103/p5#a231103p5)
+ - [Fortnite’s new season is a trip through the game’s history](https://www.theverge.com/2023/11/3/23943701/fortnite-og-new-season-tilted-towers-baller)
+ - [Yamaha True X Bar 50A Review: Great for the Money](https://www.wired.com/review/yamaha-true-x-bar-50a/)
+ - [Radius Outfitters Tool Roll: Finally a Quality Tool Organizer](https://www.wired.com/story/radius-outfitters-tool-roll-rave/)
+ - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

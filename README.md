@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO Tim Cook calls AI a fundamental technology](https://appleinsider.com/articles/23/11/03/apple-ceo-tim-cook-calls-ai-a-fundamental-technology?utm_medium=rss)
+ - [Sam Bankman-Fried gambled on a trial and his parents lost](https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents)
  - [FTX Founder Sam Bankman-Fried Has Been Found Guilty of Fraud](https://www.wired.com/story/ftx-founder-sam-bankman-fried-guilty-fraud-trial/)
- - [Pixel 7A Deals: Unlocked Models Are Down to $374, Up to $500 Off With Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)
- - [Sources: Microsoft plans to remove the free Xbox Game Pass Ultimate benefit for most staff in Jan. 2024; Phil Spencer said he was unaware and is looking into it &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231102/p44#a231102p44)
- - [Apple reports Q4 revenue down 2.5% YoY to $15.1B in Greater China, down 3.4% YoY to $5.5B in Japan, and down 0.7% YoY to $6.3B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/231102/p43#a231102p43)
- - [You Have 4 Weeks Left to Earn This $200 Checking Account Bonus     - CNET](https://www.cnet.com/personal-finance/this-200-bank-account-bonus-is-easy-to-earn-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [His Job Was to Make Instagram Safe for Teens. His 14-Year-Old Showed Him What the App Was Really Like. &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/231102/p45#a231102p45)
+ - [Pixel 7A Deals: Unlocked Models Are Down to $374, Up to $500 Off With Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

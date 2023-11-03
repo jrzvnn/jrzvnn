@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bye.](http://9gag.com/gag/awZjWeQ)
  - 😝 [Return of the King](http://9gag.com/gag/a04g3PB)
- - 😝 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
- - 💣 [It aint much...](http://9gag.com/gag/anzZoEL)
- - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 👉 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)<!-- MEMES:END -->
+ - 💣 [A hostage situation\u2026](http://9gag.com/gag/a8qNgGV)
+ - 😝 [It aint much...](http://9gag.com/gag/anzZoEL)
+ - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---
 

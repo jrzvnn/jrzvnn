@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [China warms to Micron, saying the company deepening its footprint would be welcome, after banning its equipment in key infrastructure in May 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/231103/p2#a231103p2)
+ - [Need to Take a Screenshot With Windows 11? Here&#39;s How     - CNET](https://www.cnet.com/tech/computing/need-to-take-a-screenshot-with-windows-11-heres-how/#ftag=CAD590a51e)
  - [Student Loan Repayments Restarted in October. What Happens if You Don&#39;t Pay?     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-repayments-restarted-in-october-what-happens-if-you-dont-pay/#ftag=CAD590a51e)
  - [Apple expects its revenue in the holiday quarter, normally the company&#39;s biggest sales period, to stay the same as last year; Wall Street projected ~5% growth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/231103/p1#a231103p1)
- - [6 Handy Black-Owned Apps You Should Download Now     - CNET](https://www.cnet.com/tech/services-and-software/6-handy-black-owned-apps-you-should-download-now/#ftag=CAD590a51e)
- - [Cloudflare says it has restored most services after power outages at multiple data centers impacted its products, including Cloudflare API and Stream API &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231102/p46#a231102p46)<!-- TECH:END -->
+ - [6 Handy Black-Owned Apps You Should Download Now     - CNET](https://www.cnet.com/tech/services-and-software/6-handy-black-owned-apps-you-should-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

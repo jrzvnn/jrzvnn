@@ -168,7 +168,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
  - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
  - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [Members of the Israeli parlament after watching the 45 minute unreleased footage from Hamas Go-Pros of the 7.10 massacare.](http://9gag.com/gag/aXn33eV)<!-- MEMES:END -->
+ - 👉 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)<!-- MEMES:END -->
 
 ---
 

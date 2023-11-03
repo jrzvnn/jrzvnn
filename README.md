@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple told EU regulators it has three browsers, all called Safari](https://appleinsider.com/articles/23/11/03/apple-told-eu-regulators-it-has-three-browsers-all-called-safari?utm_medium=rss)
  - [Court records show FTX advisers gave trading data and customer details to the FBI in recent months in response to subpoenas from at least five FBI field offices &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/231103/p7#a231103p7)
  - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
  - [UK CMA says Meta has pledged to let Facebook Marketplace users opt out of having their data used by Meta and limit how it uses ad data for product development &lpar;Joseph Hoppe/Wall Street Journal&rpar;](http://www.techmeme.com/231103/p6#a231103p6)
- - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)
- - [Joe Biden Has a Secret Weapon Against Killer AI. It&#39;s Bureaucrats](https://www.wired.com/story/plaintext-joe-biden-secret-weapon-against-killer-ai-its-bureaucrats/)<!-- TECH:END -->
+ - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

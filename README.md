@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
  - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 💣 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
- - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 👉 [Members of the Israeli parlament after watching the 45 minute unreleased footage from Hamas Go-Pros of the 7.10 massacare.](http://9gag.com/gag/aXn33eV)<!-- MEMES:END -->
 
 ---
 

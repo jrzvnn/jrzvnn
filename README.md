@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone China shipments down more than expected, says Kuo](https://appleinsider.com/articles/23/11/03/iphone-china-shipments-down-more-than-expected-says-kuo?utm_medium=rss)
  - [Apple extends return policy through early January for holiday shoppers](https://appleinsider.com/articles/23/11/03/apple-extends-return-policy-through-early-january-for-holiday-shoppers?utm_medium=rss)
  - [BlizzCon 2023: all the latest news and trailers](https://www.theverge.com/2023/11/3/23944811/blizzcon-2023-news-trailers-diablo-warcraft-overwatch)
  - [Oracle, SUSE, and CIQ release the source code for OpenELA, their challenge to Red Hat Enterprise Linux &lpar;Steven Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/231103/p14#a231103p14)
- - [Apple TV+ releases fictional news clips to connect S3 and S4 of &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/11/03/apple-tv-releases-fictional-news-clips-to-connect-s3-and-s4-of-for-all-mankind?utm_medium=rss)
- - [5 Healthy Snacks Worth Picking Up at Costco     - CNET](https://www.cnet.com/health/nutrition/5-healthy-snacks-worth-picking-up-at-costco/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ releases fictional news clips to connect S3 and S4 of &#39;For All Mankind&#39;](https://appleinsider.com/articles/23/11/03/apple-tv-releases-fictional-news-clips-to-connect-s3-and-s4-of-for-all-mankind?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

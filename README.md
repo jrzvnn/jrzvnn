@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [What is happening here?](http://9gag.com/gag/aQEbbm2)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
  - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 😝 [For all the Ladies out there](http://9gag.com/gag/a9qww91)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
  - 👉 [Where butts?](http://9gag.com/gag/avQqqbX)<!-- MEMES:END -->
 
 ---

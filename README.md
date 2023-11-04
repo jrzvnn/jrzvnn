@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say Cruise CEO Kyle Vogt told employees he does not know when the company could resume operations and that layoffs could be coming &lpar;New York Times&rpar;](http://www.techmeme.com/231103/p23#a231103p23)
+ - [Sources: GM spent an average of $588M a quarter on Cruise in the past year, up 42% YoY, and staff intervened to assist Cruise&#39;s vehicles every 2.5 to five miles &lpar;New York Times&rpar;](http://www.techmeme.com/231103/p23#a231103p23)
  - [Best T-Mobile Deals To Grab Right Now     - CNET](https://www.cnet.com/deals/best-t-mobile-deals/#ftag=CAD590a51e)
  - [Apple Watch SE &lpar;2022&rpar; Deals: Save With Direct Discounts, Trade-In Credits and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)
  - [Emails: X has begun work on an account handle marketplace for purchasing handles left unused, requesting a flat fee of $50K from potential buyers in some cases &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/231103/p22#a231103p22)

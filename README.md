@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
+ - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
  - 💣 [A close call](http://9gag.com/gag/a04g35z)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---
 

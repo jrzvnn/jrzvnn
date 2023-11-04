@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s files much-delayed financial results: $270.9M operating loss and revenue of $429.18M for FY ending March 2022, missing revenue projections of $1.25B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231104/p4#a231104p4)
- - [Nolah Is Offering 35% Off Mattresses and More With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/nolah-is-offering-35-off-mattresses-and-more-with-this-early-black-friday-deal/#ftag=CAD590a51e)
- - [The Secrets to Ageless Eyes: 4 Expert Tips for Lifelong Eye Health     - CNET](https://www.cnet.com/health/personal-care/the-secrets-to-ageless-eyes-4-expert-tips-for-lifelong-eye-health/#ftag=CAD590a51e)
- - [Sony’s noise-canceling XM5s are matching their lowest price to date](https://www.theverge.com/2023/11/4/23945130/sony-wh-1000xm5-amazon-fire-tv-soundbar-meross-smart-plug-deal-sale)
- - [NFT marketplace Magic Eden and Yuga Labs plan to launch an Ethereum platform, which will be &quot;contractually obligated&quot; to pay royalties on NFT sales &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231104/p3#a231104p3)<!-- TECH:END -->
+ - [Daily deals Nov. 4: MacBooks from $360, AirTag 4-pack for $87, $270 off Roborock Q7 Max Robot Vacuum &amp; Mop, more](https://appleinsider.com/articles/23/11/04/daily-deals-nov-4-macbooks-from-360-airtag-4-pack-for-87-270-off-roborock-q7-max-robot-vacuum-mop-more?utm_medium=rss)
+ - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
+ - [Best Smart Locks of 2023     - CNET](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)
+ - [Is One of Your Senses Better Than the Others? Here&#39;s Why It Can Seem Like It     - CNET](https://www.cnet.com/health/medical/is-one-of-your-senses-better-than-the-others-heres-why-it-can-seem-like-it/#ftag=CAD590a51e)
+ - [Byju&#39;s files much-delayed financial results: $270.9M operating loss and revenue of $429.18M for FY ending March 2022, missing revenue projections of $1.25B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231104/p4#a231104p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

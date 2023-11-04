@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
  - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---
 

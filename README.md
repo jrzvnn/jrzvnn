@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 😝 [Wake up Europe! On 03.11.2023: 3000 Islamists marched unopposed in Essen German calling for the establishment of a Kalifat.](http://9gag.com/gag/aOxEgBv)
- - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
+ - 💣 [Statistics](http://9gag.com/gag/axoKX7M)
+ - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
+ - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
 
 ---
 

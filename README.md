@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 💣 [Mtsv v home](http://9gag.com/gag/armEQGX)
+ - 😝 [Some big fish](http://9gag.com/gag/a3ZgOm7)
  - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---
 

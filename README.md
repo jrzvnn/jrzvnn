@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
 
 ---
 

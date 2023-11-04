@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Google&#39;s real-time scanning in Play Protect for sideloaded apps: it didn&#39;t restrict five predatory loan apps and two fake apps from installing &lpar;TechCrunch&rpar;](http://www.techmeme.com/231104/p8#a231104p8)
  - [Apple sends threat alerts to iPhone users in Armenia](https://appleinsider.com/articles/23/11/04/apple-sends-threat-alerts-to-iphone-users-in-armenia?utm_medium=rss)
  - [The copyright fight over Fortnite dance moves is back on](https://www.theverge.com/2023/11/4/23946260/epic-fortnite-choreography-emote-lawsuit-ruling-overturned)
  - [An eulogy for the Touch Bar, which held incredible promise but never got out of the proof-of-concept phase due to a lack of interest from developers and Apple &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/231104/p7#a231104p7)
- - [Samsung T9 SSD review: Next-generation portable storage](https://appleinsider.com/articles/23/11/04/samsung-t9-ssd-review-next-generation-portable-storage?utm_medium=rss)
- - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)<!-- TECH:END -->
+ - [Samsung T9 SSD review: Next-generation portable storage](https://appleinsider.com/articles/23/11/04/samsung-t9-ssd-review-next-generation-portable-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

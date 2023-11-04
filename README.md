@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
- - 😝 [A little blade does the trick.](http://9gag.com/gag/awZjE34)
- - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [Clutch](http://9gag.com/gag/ap97WO9)
+ - 😝 [Woke culture at it&#39;s best](http://9gag.com/gag/a7qg4qA)
+ - 💣 [Wake up Europe! On 03.11.2023: 3000 Islamists marched unopposed in Essen German calling for the establishment of a Kalifat.](http://9gag.com/gag/aOxEgBv)
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 👉 [Hey 9gag, me and my brother opened a cafe in the middle of the war in Ukraine, Lviv. If you come by with this post we\u2019ll give you a discount \ud83e\udd1d\ud83c\udffb the name is \u042f\u0420\u0414. Wish us luck \ud83e\udd85](http://9gag.com/gag/a04gBVB)<!-- MEMES:END -->
 
 ---
 

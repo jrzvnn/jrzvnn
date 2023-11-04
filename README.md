@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There was an empty chair behind the her, and she was still standing. Stupid girl.](http://9gag.com/gag/aeQzwWb)
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [Lena Anderson.. went to dentist](http://9gag.com/gag/aBdzerO)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---
 

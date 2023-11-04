@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 😝 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)
- - 💣 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 😝 [Clutch](http://9gag.com/gag/ap97WO9)
- - 👉 [Wake up Europe! On 03.11.2023: 3000 Islamists marched unopposed in Essen German calling for the establishment of a Kalifat.](http://9gag.com/gag/aOxEgBv)<!-- MEMES:END -->
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 💣 [Clutch](http://9gag.com/gag/ap97WO9)
+ - 😝 [Wake up Europe! On 03.11.2023: 3000 Islamists marched unopposed in Essen German calling for the establishment of a Kalifat.](http://9gag.com/gag/aOxEgBv)
+ - 👉 [Hey 9gag, me and my brother opened a cafe in the middle of the war in Ukraine, Lviv. If you come by with this post we\u2019ll give you a discount \ud83e\udd1d\ud83c\udffb the name is \u042f\u0420\u0414. Wish us luck \ud83e\udd85](http://9gag.com/gag/a04gBVB)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
  - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [I liked yesterday&#39;s parliament speaker arguments](http://9gag.com/gag/aBdz5ZQ)
+ - 👉 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
 
 ---
 

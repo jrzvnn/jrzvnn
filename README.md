@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maximize Your Bars: 10 Ways to Improve Cellphone Signal on iPhone and Android     - CNET](https://www.cnet.com/tech/mobile/maximize-your-bars-10-ways-to-improve-cellphone-signal-on-iphone-and-android/#ftag=CAD590a51e)
+ - [Amazon Passkeys: What Is It and What It Means for Your Account     - CNET](https://www.cnet.com/tech/amazon-passkeys-what-is-it-and-what-it-means-for-your-account/#ftag=CAD590a51e)
+ - [These 2 Safari Additions Could Convince Me to Switch to Apple&#39;s Browser     - CNET](https://www.cnet.com/tech/computing/these-two-safari-additions-may-make-me-switch-to-apples-browser/#ftag=CAD590a51e)
  - [Formula 1 Racing 2023: How to Watch and Livestream the Brazilian GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-brazilian-gp/#ftag=CAD590a51e)
- - [On Instagram, journalists and creators inside Gaza see a surge in followers as they document the Israel-Hamas war, even as Meta has broadly moved away from news &lpar;NBC News&rpar;](http://www.techmeme.com/231104/p1#a231104p1)
- - [Sources: GM spent an average of $588M a quarter on Cruise in the past year, up 42% YoY, and staff intervened to assist Cruise&#39;s vehicles every 2.5 to five miles &lpar;New York Times&rpar;](http://www.techmeme.com/231103/p23#a231103p23)
- - [Best T-Mobile Deals To Grab Right Now     - CNET](https://www.cnet.com/deals/best-t-mobile-deals/#ftag=CAD590a51e)
- - [Apple Watch SE &lpar;2022&rpar; Deals: Save With Direct Discounts, Trade-In Credits and More     - CNET](https://www.cnet.com/deals/best-apple-watch-se-2022-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On Instagram, journalists and creators inside Gaza see a surge in followers as they document the Israel-Hamas war, even as Meta has broadly moved away from news &lpar;NBC News&rpar;](http://www.techmeme.com/231104/p1#a231104p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

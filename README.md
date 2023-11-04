@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Stream &#39;The Curse&#39; Starring Emma Stone, Nathan Fielder     - CNET](https://www.cnet.com/tech/services-and-software/how-to-stream-the-curse-starring-emma-stone-nathan-fielder/#ftag=CAD590a51e)
+ - [8 Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)
  - [Apple is &#39;very pleased&#39; with its movie box office, says theater chain](https://appleinsider.com/articles/23/11/04/apple-is-very-pleased-with-its-movie-box-office-says-theater-chain?utm_medium=rss)
  - [The Echo Show 8 is still the smart display to beat](https://www.theverge.com/23945192/amazon-echo-show-8-alexa-smart-display-review)
- - [How to set up an Echo Show to show you the least amount of crap](https://www.theverge.com/23944889/set-up-echo-show-without-amazon-ads-how-to)
- - [California wants to end Cupertino&#39;s tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple?utm_medium=rss)
- - [Elegoo Has Launched a Crazy 3D Printer That&#39;s 1 Meter Tall, and It&#39;s Glorious     - CNET](https://www.cnet.com/tech/computing/elegoo-has-launched-a-crazy-3d-printer-thats-one-meter-tall-and-its-glorious/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set up an Echo Show to show you the least amount of crap](https://www.theverge.com/23944889/set-up-echo-show-without-amazon-ads-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
  - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
- - 💣 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 😝 [Women are strong and super funny. Also all you propagandists are blocked..](http://9gag.com/gag/anzZwmB)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
 
 ---
 

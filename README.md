@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
+ - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 👉 [FFS youtube.](http://9gag.com/gag/aOxEL72)<!-- MEMES:END -->
 
 ---
 

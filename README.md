@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 💣 [A close call](http://9gag.com/gag/a04g35z)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [The kind of diversity that will make us strong](http://9gag.com/gag/aDY9y1G)
+ - 😝 [My roll blunt...](http://9gag.com/gag/a2KgeBD)
+ - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
+ - 👉 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)<!-- MEMES:END -->
 
 ---
 

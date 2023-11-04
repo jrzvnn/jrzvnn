@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hisense U8K Review: Blissful Balance of TV Picture Quality, Size and Price     - CNET](https://www.cnet.com/tech/home-entertainment/hisense-u8k-review-a-blissful-balance-of-tv-picture-quality-size-and-price/#ftag=CAD590a51e)
+ - [iOS 17.2 Public Beta 1: The Journal App Could Be Here Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-2-public-beta-1-the-journal-app-could-be-here-soon/#ftag=CAD590a51e)
  - [8 Best National Sex Toy Day Deals &lpar;2023&rpar;: Suction Toys, Vibrators, and Stimulators](https://www.wired.com/story/national-sex-toy-day-deals-2023/)
  - [Why You Can’t Stop Reading About Daylight Saving Time](https://www.wired.com/story/daylight-saving-time-here-to-stay/)
- - [25 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)
- - [15 Best Deals at Best Buy&#39;s Black Friday Sale &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023/)
- - [Google Maps Tips You&#39;ll Want to Use for Your 2023 Holiday Travel     - CNET](https://www.cnet.com/tech/services-and-software/google-maps-tips-youll-want-to-use-for-your-2023-holiday-travel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [25 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

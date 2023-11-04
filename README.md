@@ -165,9 +165,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
  - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---

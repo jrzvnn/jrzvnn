@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
- - 😝 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)
- - 💣 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)
- - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
- - 👉 [The kind of diversity that will make us strong](http://9gag.com/gag/aDY9y1G)<!-- MEMES:END -->
+ - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
+ - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
 

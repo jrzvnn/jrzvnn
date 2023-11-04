@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
+ - 😝 [A close call](http://9gag.com/gag/a04g35z)
  - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
 

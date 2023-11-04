@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 💣 [A close call](http://9gag.com/gag/a04g35z)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 😝 [The kind of diversity that will make us strong](http://9gag.com/gag/aDY9y1G)
+ - 💣 [Where are my special rights?](http://9gag.com/gag/aA0AjoL)
+ - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
+ - 👉 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)<!-- MEMES:END -->
 
 ---
 

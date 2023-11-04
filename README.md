@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 😝 [Women logic](http://9gag.com/gag/a4ogeXQ)
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 💣 [There are no references](http://9gag.com/gag/aVbrnKy)
+ - 😝 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)
+ - 👉 [I no longer understand the settings of this simulation. It&#39;s all very confusing...](http://9gag.com/gag/aEqKrLN)<!-- MEMES:END -->
 
 ---
 

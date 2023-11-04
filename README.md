@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [My roll blunt...](http://9gag.com/gag/a2KgeBD)
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 💣 [Clutch](http://9gag.com/gag/ap97WO9)
+ - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
 

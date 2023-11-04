@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
+ - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
  - [Hands-on with Google&#39;s real-time scanning in Play Protect for sideloaded apps: it didn&#39;t restrict five predatory loan apps and two fake apps from installing &lpar;TechCrunch&rpar;](http://www.techmeme.com/231104/p8#a231104p8)
  - [Apple sends threat alerts to iPhone users in Armenia](https://appleinsider.com/articles/23/11/04/apple-sends-threat-alerts-to-iphone-users-in-armenia?utm_medium=rss)
- - [The copyright fight over Fortnite dance moves is back on](https://www.theverge.com/2023/11/4/23946260/epic-fortnite-choreography-emote-lawsuit-ruling-overturned)
- - [An eulogy for the Touch Bar, which held incredible promise but never got out of the proof-of-concept phase due to a lack of interest from developers and Apple &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/231104/p7#a231104p7)<!-- TECH:END -->
+ - [The copyright fight over Fortnite dance moves is back on](https://www.theverge.com/2023/11/4/23946260/epic-fortnite-choreography-emote-lawsuit-ruling-overturned)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
- - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [BREAKING: Hamas t\u00e9rrorists are shooting their own civilians who are trying to escape to the southern part of the Gaza strip. Video source &lpar;hard to watch&rpar; in comments](http://9gag.com/gag/aOxEwYE)
+ - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
  - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---

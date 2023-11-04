@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kind of diversity that will make us strong](http://9gag.com/gag/aDY9y1G)
- - 😝 [My roll blunt...](http://9gag.com/gag/a2KgeBD)
- - 💣 [I need...](http://9gag.com/gag/aGEvmW0)
- - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
- - 👉 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)<!-- MEMES:END -->
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---
 

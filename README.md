@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)
  - [How chip companies are experimenting with new materials, including synthetic diamonds and ultrapure glass, to improve performance and combat heat in microchips &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231104/p5#a231104p5)
  - [Best Ski Accessories for 2023: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)
  - [Daily deals Nov. 4: MacBooks from $360, AirTag 4-pack for $87, $270 off Roborock Q7 Max Robot Vacuum &amp; Mop, more](https://appleinsider.com/articles/23/11/04/daily-deals-nov-4-macbooks-from-360-airtag-4-pack-for-87-270-off-roborock-q7-max-robot-vacuum-mop-more?utm_medium=rss)
- - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)
- - [Best Smart Locks of 2023     - CNET](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fitting T-Shirts for Men &lpar;According to a Savile Row Tailor&rpar;](https://www.wired.com/gallery/best-fitting-t-shirts-men/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

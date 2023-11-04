@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Echo Show 8 is still the smart display to beat](https://www.theverge.com/23945192/amazon-echo-show-8-alexa-smart-display-review)
+ - [How to set up an Echo Show to show you the least amount of crap](https://www.theverge.com/23944889/set-up-echo-show-without-amazon-ads-how-to)
  - [California wants to end Cupertino&#39;s tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple?utm_medium=rss)
  - [This Cheap Hacking Device Can Crash Your iPhone With Pop-Ups](https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/)
- - [19 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2023/)
- - [Review: ‘Alan Wake II’ Is Far Darker Than Its Predecessor—and Perfects the Horror Genre](https://www.wired.com/review/alan-wake-ii-review/)
- - [Sam Bankman-Fried’s shadow still looms over the crypto industry](https://www.theverge.com/2023/11/4/23945602/sam-bankman-fried-guilty-verdict-ftx-crypto-industry-impact)<!-- TECH:END -->
+ - [19 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

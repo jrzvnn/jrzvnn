@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 😝 [Women are strong and super funny. Also all you propagandists are blocked..](http://9gag.com/gag/anzZwmB)
- - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
+ - 😝 [What Are You Doing In My Swamp?](http://9gag.com/gag/aGEvmjX)
+ - 😝 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)
+ - 💣 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)
+ - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
+ - 👉 [The kind of diversity that will make us strong](http://9gag.com/gag/aDY9y1G)<!-- MEMES:END -->
 
 ---
 

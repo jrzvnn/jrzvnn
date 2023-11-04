@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some big fish](http://9gag.com/gag/a3ZgOm7)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 💣 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [Drop it like it&#39;s hot](http://9gag.com/gag/adPAE6Z)
+ - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
 
 ---
 

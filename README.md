@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kicked Off Someone Else&#39;s Netflix Account? Check Out This Tip to Save Your Netflix Profile     - CNET](https://www.cnet.com/tech/home-entertainment/kicked-off-of-someone-elses-netflix-account-check-out-this-tip-to-save-your-netflix-profile/#ftag=CAD590a51e)
+ - [Android Phone Running Slow? Check Out These 7 Tips and Help Give Your Phone a Boost     - CNET](https://www.cnet.com/tech/mobile/android-phone-running-slow-check-out-these-7-tips-and-help-give-your-phone-a-boost/#ftag=CAD590a51e)
  - [Maximize Your Bars: 10 Ways to Improve Cellphone Signal on iPhone and Android     - CNET](https://www.cnet.com/tech/mobile/maximize-your-bars-10-ways-to-improve-cellphone-signal-on-iphone-and-android/#ftag=CAD590a51e)
  - [Amazon Passkeys: What Is It and What It Means for Your Account     - CNET](https://www.cnet.com/tech/amazon-passkeys-what-is-it-and-what-it-means-for-your-account/#ftag=CAD590a51e)
- - [These 2 Safari Additions Could Convince Me to Switch to Apple&#39;s Browser     - CNET](https://www.cnet.com/tech/computing/these-two-safari-additions-may-make-me-switch-to-apples-browser/#ftag=CAD590a51e)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Brazilian GP     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-brazilian-gp/#ftag=CAD590a51e)
- - [On Instagram, journalists and creators inside Gaza see a surge in followers as they document the Israel-Hamas war, even as Meta has broadly moved away from news &lpar;NBC News&rpar;](http://www.techmeme.com/231104/p1#a231104p1)<!-- TECH:END -->
+ - [These 2 Safari Additions Could Convince Me to Switch to Apple&#39;s Browser     - CNET](https://www.cnet.com/tech/computing/these-two-safari-additions-may-make-me-switch-to-apples-browser/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

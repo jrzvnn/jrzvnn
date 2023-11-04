@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s noise-canceling XM5s are matching their lowest price to date](https://www.theverge.com/2023/11/4/23945130/sony-wh-1000xm5-amazon-fire-tv-soundbar-meross-smart-plug-deal-sale)
  - [NFT marketplace Magic Eden and Yuga Labs plan to launch an Ethereum platform, which will be &quot;contractually obligated&quot; to pay royalties on NFT sales &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/231104/p3#a231104p3)
  - [Apple sends threat alerts to iPhone users in Armenia](https://appleinsider.com/articles/23/11/04/apple-sends-threat-alerts-to-iphone-users-in-armenia?utm_medium=rss)
  - [How to Stream &#39;The Curse&#39; Starring Emma Stone, Nathan Fielder     - CNET](https://www.cnet.com/tech/services-and-software/how-to-stream-the-curse-starring-emma-stone-nathan-fielder/#ftag=CAD590a51e)
- - [8 Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)
- - [Apple is &#39;very pleased&#39; with its movie box office, says theater chain](https://appleinsider.com/articles/23/11/04/apple-is-very-pleased-with-its-movie-box-office-says-theater-chain?utm_medium=rss)<!-- TECH:END -->
+ - [8 Best Yoga Poses for Better Sleep     - CNET](https://www.cnet.com/health/sleep/best-yoga-poses-for-better-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

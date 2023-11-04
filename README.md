@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
- - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 😝 [Drop it like it&#39;s hot](http://9gag.com/gag/adPAE6Z)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
+ - 😝 [A little blade does the trick.](http://9gag.com/gag/awZjE34)
+ - 💣 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
 
 ---
 

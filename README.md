@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung T9 SSD review: Next-generation portable storage](https://appleinsider.com/articles/23/11/04/samsung-t9-ssd-review-next-generation-portable-storage?utm_medium=rss)
  - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)
  - [Save Hundreds at QVC This Weekend During Its Nonstop Holiday Party Event     - CNET](https://www.cnet.com/deals/save-hundreds-at-qvc-this-weekend-during-its-nonstop-holiday-party-event/#ftag=CAD590a51e)
  - [How chip companies are experimenting with new materials, including synthetic diamonds and ultrapure glass, to improve performance and combat heat in microchips &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231104/p5#a231104p5)
- - [Best Ski Accessories for 2023: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)
- - [Daily deals Nov. 4: MacBooks from $360, AirTag 4-pack for $87, $270 off Roborock Q7 Max Robot Vacuum &amp; Mop, more](https://appleinsider.com/articles/23/11/04/daily-deals-nov-4-macbooks-from-360-airtag-4-pack-for-87-270-off-roborock-q7-max-robot-vacuum-mop-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best Ski Accessories for 2023: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

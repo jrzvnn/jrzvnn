@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My roll blunt...](http://9gag.com/gag/a2KgeBD)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 💣 [Clutch](http://9gag.com/gag/ap97WO9)
- - 😝 [Lost dog returns home \u2764\ufe0f](http://9gag.com/gag/a7qgzvw)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 💣 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)<!-- MEMES:END -->
 
 ---
 

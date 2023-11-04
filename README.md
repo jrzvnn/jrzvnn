@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
- - 💣 [Statistics](http://9gag.com/gag/axoKX7M)
- - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 😝 [If only there were some signs.](http://9gag.com/gag/aWGyVbZ)
+ - 😝 [I no longer understand the settings of this simulation. It&#39;s all very confusing...](http://9gag.com/gag/aEqKrLN)
+ - 💣 [If you know you know](http://9gag.com/gag/ago9Rxv)
+ - 😝 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)
+ - 👉 [Every stupid pro muslim post makes me post one too](http://9gag.com/gag/az2yNxx)<!-- MEMES:END -->
 
 ---
 

@@ -164,9 +164,9 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 💣 [A close call](http://9gag.com/gag/a04g35z)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 

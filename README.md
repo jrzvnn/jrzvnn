@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 😝 [A close call](http://9gag.com/gag/a04g35z)
- - 💣 [All of them are CORNSTARS](http://9gag.com/gag/aDY9v8N)
- - 😝 [Boy was too stunned to speak.](http://9gag.com/gag/ap97w4W)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 💣 [Mtsv v home](http://9gag.com/gag/armEQGX)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [A close call](http://9gag.com/gag/a04g35z)<!-- MEMES:END -->
 
 ---
 

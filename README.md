@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An eulogy for the Touch Bar, which held incredible promise but never got out of the proof-of-concept phase due to a lack of interest from developers and Apple &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/231104/p7#a231104p7)
  - [Samsung T9 SSD review: Next-generation portable storage](https://appleinsider.com/articles/23/11/04/samsung-t9-ssd-review-next-generation-portable-storage?utm_medium=rss)
  - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)
- - [Save Hundreds at QVC This Weekend During Its Nonstop Holiday Party Event     - CNET](https://www.cnet.com/deals/save-hundreds-at-qvc-this-weekend-during-its-nonstop-holiday-party-event/#ftag=CAD590a51e)
- - [How chip companies are experimenting with new materials, including synthetic diamonds and ultrapure glass, to improve performance and combat heat in microchips &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/231104/p5#a231104p5)
- - [Best Ski Accessories for 2023: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sign Up Now to Get a Walmart Plus Membership for Half Price     - CNET](https://www.cnet.com/deals/sign-up-now-to-get-a-walmart-plus-membership-for-half-price/#ftag=CAD590a51e)
+ - [Save Hundreds at QVC This Weekend During Its Nonstop Holiday Party Event     - CNET](https://www.cnet.com/deals/save-hundreds-at-qvc-this-weekend-during-its-nonstop-holiday-party-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

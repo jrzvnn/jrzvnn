@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The CEO of Pebble, formerly T2, on why the social network failed: not prioritizing building an app, Threads&#39; launch, not enough interesting content, and more &lpar;Gabor Cselle/Medium&rpar;](http://www.techmeme.com/231104/p2#a231104p2)
  - [Apple&#39;s Crash Detection saves another life: mine](https://appleinsider.com/articles/23/11/04/apples-crash-detection-saves-another-life-mine?utm_medium=rss)
  - [Macs can now detect water in USB-C ports and spot warranty fraud](https://appleinsider.com/articles/23/11/04/macs-can-now-detect-water-in-usb-c-ports-and-spot-warranty-fraud?utm_medium=rss)
- - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2023&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
+ - [Man City vs. Bournemouth Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-bournemouth-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

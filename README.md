@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sends threat alerts to iPhone users in Armenia](https://appleinsider.com/articles/23/11/04/apple-sends-threat-alerts-to-iphone-users-in-armenia?utm_medium=rss)
  - [The copyright fight over Fortnite dance moves is back on](https://www.theverge.com/2023/11/4/23946260/epic-fortnite-choreography-emote-lawsuit-ruling-overturned)
  - [An eulogy for the Touch Bar, which held incredible promise but never got out of the proof-of-concept phase due to a lack of interest from developers and Apple &lpar;Alex Cranz/The Verge&rpar;](http://www.techmeme.com/231104/p7#a231104p7)
  - [Samsung T9 SSD review: Next-generation portable storage](https://appleinsider.com/articles/23/11/04/samsung-t9-ssd-review-next-generation-portable-storage?utm_medium=rss)
- - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)
- - [Sign Up Now to Get a Walmart Plus Membership for Half Price     - CNET](https://www.cnet.com/deals/sign-up-now-to-get-a-walmart-plus-membership-for-half-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Discord plans to switch to temporary file links for all users by the end of 2023 to block attackers from using its CDN for hosting and pushing malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/231104/p6#a231104p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

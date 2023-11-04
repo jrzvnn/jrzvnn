@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you single tho](http://9gag.com/gag/a7qgYAr)
- - 😝 [FFS youtube.](http://9gag.com/gag/aOxEL72)
- - 💣 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
- - 👉 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)<!-- MEMES:END -->
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [Arsenal Women are facing criticism for all-white squad photo. I think they look great.](http://9gag.com/gag/aqeMqbQ)
+ - 💣 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 😝 [Clutch](http://9gag.com/gag/ap97WO9)
+ - 👉 [Wake up Europe! On 03.11.2023: 3000 Islamists marched unopposed in Essen German calling for the establishment of a Kalifat.](http://9gag.com/gag/aOxEgBv)<!-- MEMES:END -->
 
 ---
 

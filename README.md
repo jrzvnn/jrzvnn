@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13-inch MacBook Pro vs 14-inch MacBook Pro with M3: performance &amp; price - compared](https://appleinsider.com/articles/23/11/03/13-inch-macbook-pro-vs-14-inch-macbook-pro-with-m3-performance-price---compared?utm_medium=rss)
+ - [The CEO of Pebble, formerly T2, on why the social network failed: not prioritizing building an app, Threads&#39; launch, not enough interesting content, and more &lpar;Gabor Cselle/Medium&rpar;](http://www.techmeme.com/231104/p2#a231104p2)
  - [Apple&#39;s Crash Detection saves another life: mine](https://appleinsider.com/articles/23/11/04/apples-crash-detection-saves-another-life-mine?utm_medium=rss)
  - [Macs can now detect water in USB-C ports and spot warranty fraud](https://appleinsider.com/articles/23/11/04/macs-can-now-detect-water-in-usb-c-ports-and-spot-warranty-fraud?utm_medium=rss)
- - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2023&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Bowers &amp; Wilkins 606 S3 Bookshelf Speakers Review: Classic and Clinical](https://www.wired.com/review/bowers-wilkins-606-s3/)
- - [The Fight Against the Smallmouth Bass Invasion of the Grand Canyon](https://www.wired.com/story/the-fight-against-the-smallmouth-bass-invasion-of-the-grand-canyon/)<!-- TECH:END -->
+ - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2023&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

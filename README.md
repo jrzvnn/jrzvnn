@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analyst Analysis: Q4 2023 was OK, Q1 2024 could be surprisingly good](https://appleinsider.com/articles/23/11/04/analyst-analysis-q4-2023-was-ok-q1-2024-could-be-surprisingly-good?utm_medium=rss)
  - [Best Password managers to protect your data on iOS and macOS](https://appleinsider.com/inside/ios/best/best-password-managers-to-protect-your-data-on-ios-and-macos?utm_medium=rss)
  - [Discord file links will expire after a day to fight malware](https://www.theverge.com/2023/11/4/23946640/discord-file-links-will-expire-after-a-day-to-fight-malware)
  - [AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)
- - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [Hands-on with Google&#39;s real-time scanning in Play Protect for sideloaded apps: it didn&#39;t restrict five predatory loan apps and two fake apps from installing &lpar;TechCrunch&rpar;](http://www.techmeme.com/231104/p8#a231104p8)<!-- TECH:END -->
+ - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  - [The Echo Show 8 is still the smart display to beat](https://www.theverge.com/23945192/amazon-echo-show-8-alexa-smart-display-review)
  - [How to set up an Echo Show to show you the least amount of crap](https://www.theverge.com/23944889/set-up-echo-show-without-amazon-ads-how-to)
  - [California wants to end Cupertino&#39;s tax deal with Apple](https://appleinsider.com/articles/23/11/04/california-wants-to-end-cupertinos-tax-deal-with-apple?utm_medium=rss)
- - [This Cheap Hacking Device Can Crash Your iPhone With Pop-Ups](https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/)<!-- TECH:END -->
+ - [Elegoo Has Launched a Crazy 3D Printer That&#39;s 1 Meter Tall, and It&#39;s Glorious     - CNET](https://www.cnet.com/tech/computing/elegoo-has-launched-a-crazy-3d-printer-thats-one-meter-tall-and-its-glorious/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

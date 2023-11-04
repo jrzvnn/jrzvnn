@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju files much-delayed financial results, reports $270.9M operating loss and revenue of $429.18M for FY ending March 2022, missing revenue projection of $1.25B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231104/p4#a231104p4)
+ - [Byju&#39;s files much-delayed financial results: $270.9M operating loss and revenue of $429.18M for FY ending March 2022, missing revenue projections of $1.25B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/231104/p4#a231104p4)
  - [Nolah Is Offering 35% Off Mattresses and More With This Early Black Friday Deal     - CNET](https://www.cnet.com/deals/nolah-is-offering-35-off-mattresses-and-more-with-this-early-black-friday-deal/#ftag=CAD590a51e)
  - [The Secrets to Ageless Eyes: 4 Expert Tips for Lifelong Eye Health     - CNET](https://www.cnet.com/health/personal-care/the-secrets-to-ageless-eyes-4-expert-tips-for-lifelong-eye-health/#ftag=CAD590a51e)
  - [Sony’s noise-canceling XM5s are matching their lowest price to date](https://www.theverge.com/2023/11/4/23945130/sony-wh-1000xm5-amazon-fire-tv-soundbar-meross-smart-plug-deal-sale)

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps Tips You&#39;ll Want to Use for Your 2023 Holiday Travel     - CNET](https://www.cnet.com/tech/services-and-software/google-maps-tips-youll-want-to-use-for-your-2023-holiday-travel/#ftag=CAD590a51e)
- - [27 Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/fashion/best-gifts-for-tweens/#ftag=CAD590a51e)
- - [Apple Breaks Boundaries by Filming Event Video on iPhone 15 Pro Max     - CNET](https://www.cnet.com/tech/mobile/apple-breaks-boundaries-by-filming-event-video-on-iphone-15-pro-max/#ftag=CAD590a51e)
- - [Fulham vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Kicked Off Someone Else&#39;s Netflix Account? Check Out This Tip to Save Your Netflix Profile     - CNET](https://www.cnet.com/tech/home-entertainment/kicked-off-of-someone-elses-netflix-account-check-out-this-tip-to-save-your-netflix-profile/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best National Sex Toy Day Deals &lpar;2023&rpar;: Suction Toys, Vibrators, and Stimulators](https://www.wired.com/story/national-sex-toy-day-deals-2023/)
+ - [Why You Can’t Stop Reading About Daylight Saving Time](https://www.wired.com/story/daylight-saving-time-here-to-stay/)
+ - [25 Best Early Black Friday Deals &lpar;2023&rpar;: iPads and Scooters](https://www.wired.com/story/absolute-best-black-friday-deals/)
+ - [15 Best Deals at Best Buy&#39;s Black Friday Sale &lpar;2023&rpar;](https://www.wired.com/story/best-buy-black-friday-deals-2023/)
+ - [Google Maps Tips You&#39;ll Want to Use for Your 2023 Holiday Travel     - CNET](https://www.cnet.com/tech/services-and-software/google-maps-tips-youll-want-to-use-for-your-2023-holiday-travel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

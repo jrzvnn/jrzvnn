@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
- - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 😝 [Everyone actually recognizes this instantly](http://9gag.com/gag/ay2rb58)
+ - 😝 [Will he?](http://9gag.com/gag/aDY9eX7)
+ - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---
 

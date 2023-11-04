@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 😝 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
  - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---

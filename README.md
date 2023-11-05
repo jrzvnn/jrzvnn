@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Putting inspirational and motivational quotes on pictures of people drinking alcohol can create hilarious effects. Give it a try, comment with your best results.](http://9gag.com/gag/agowrjv)
- - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
  - 😝 [Wholesome Couple.... Let The Search Begin!](http://9gag.com/gag/aBdzqeA)
- - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
+ - 👉 [Putting inspirational and motivational quotes on pictures of people drinking alcohol can create hilarious effects. Give it a try, comment with your best results.](http://9gag.com/gag/agowrjv)<!-- MEMES:END -->
 
 ---
 

@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese startup 01.AI, launched in March 2023 by computer scientist Kai-Fu Lee, reaches a $1B+ valuation and releases its AI model Yi-34B in Chinese and English &lpar;Bloomberg&rpar;](http://www.techmeme.com/231105/p10#a231105p10)
  - [ChatGPT subscribers may get a ‘GPT builder’ option soon](https://www.theverge.com/2023/11/5/23947720/openai-chatgpt-gpt-builder-chatbot-creator-gizmo-tool-rumor-ai)
  - [The best cases for AirPods Pro 2](https://appleinsider.com/inside/airpods-pro-2/best/best-airpods-pro-2-case?utm_medium=rss)
  - [How to run new macOS versions on older Macs using OpenCore](https://appleinsider.com/inside/macos/tips/how-to-run-new-macos-versions-on-older-macs-using-opencore?utm_medium=rss)
- - [A look at CulturePulse, which is building an AI model to create a virtual version of Israel and Palestinian territories and has signed a nine-month UN contract &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231105/p9#a231105p9)
- - [Sources: Palo Alto Networks is close to acquiring Tel Aviv-based startup Talon Cyber Security for $600M to $700M, and may announce the deal as soon as Monday &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231105/p8#a231105p8)<!-- TECH:END -->
+ - [A look at CulturePulse, which is building an AI model to create a virtual version of Israel and Palestinian territories and has signed a nine-month UN contract &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231105/p9#a231105p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

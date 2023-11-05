@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The JWST Has Spotted Giant Black Holes All Over the Early Universe](https://www.wired.com/story/the-jwst-has-spotted-giant-black-holes-all-over-the-early-universe/)
+ - [Focal Theva No. 1 Speakers Review: Smooth and Creamy](https://www.wired.com/review/focal-theva-no-1/)
+ - [How AI brought the Beatles back together one more time](https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter)
  - [Crime blotter: Still no reported arrests in Burlingame Apple Store thefts](https://appleinsider.com/articles/23/11/05/crime-blotter-still-no-reported-arrests-in-burlingame-apple-store-thefts?utm_medium=rss)
- - [TCL QM8 Review: TV Value Champ Gets Bigger, Brighter and Better     - CNET](https://www.cnet.com/tech/home-entertainment/tcl-qm8-review-tv-value-champ-gets-bigger-brighter-and-better/#ftag=CAD590a51e)
- - [iOS 17.1 Lets You Pick an Album for Your Photo Shuffle Lock Screen     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-1-lets-you-pick-an-album-for-your-photo-shuffle-lock-screen/#ftag=CAD590a51e)
- - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
- - [Here’s Everything You Can Do With Copilot, the Generative AI Assistant on Windows 11](https://www.wired.com/story/microsoft-windows-11-copilot-generative-ai-assistant-tips/)<!-- TECH:END -->
+ - [TCL QM8 Review: TV Value Champ Gets Bigger, Brighter and Better     - CNET](https://www.cnet.com/tech/home-entertainment/tcl-qm8-review-tv-value-champ-gets-bigger-brighter-and-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

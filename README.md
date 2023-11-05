@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Crime blotter: Still no reported arrests in Burlingame Apple Store thefts](https://appleinsider.com/articles/23/11/05/crime-blotter-still-no-reported-arrests-in-burlingame-apple-store-thefts?utm_medium=rss)
+ - [TCL QM8 Review: TV Value Champ Gets Bigger, Brighter and Better     - CNET](https://www.cnet.com/tech/home-entertainment/tcl-qm8-review-tv-value-champ-gets-bigger-brighter-and-better/#ftag=CAD590a51e)
+ - [iOS 17.1 Lets You Pick an Album for Your Photo Shuffle Lock Screen     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-1-lets-you-pick-an-album-for-your-photo-shuffle-lock-screen/#ftag=CAD590a51e)
  - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
- - [Here’s Everything You Can Do With Copilot, the Generative AI Assistant on Windows 11](https://www.wired.com/story/microsoft-windows-11-copilot-generative-ai-assistant-tips/)
- - [What Is Goose Down Fill Power? &lpar;2023&rpar;: Fill Weight, Synthetics](https://www.wired.com/story/what-is-down-fill-power/)
- - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on the Content Authenticity Initiative, content credentials, AI deepfake detection, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231105/p5#a231105p5)<!-- TECH:END -->
+ - [Here’s Everything You Can Do With Copilot, the Generative AI Assistant on Windows 11](https://www.wired.com/story/microsoft-windows-11-copilot-generative-ai-assistant-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

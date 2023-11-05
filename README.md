@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
- - 💣 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 👉 [Born by a late pull, death by a late pull](http://9gag.com/gag/aREWb5j)<!-- MEMES:END -->
+ - 😝 [Google sucks now](http://9gag.com/gag/armw11V)
+ - 😝 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/adPAGqV)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 💣 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
+ - 😝 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)
+ - 😝 [Every stupid pro muslim post makes me post one too](http://9gag.com/gag/az2yNxx)
+ - 💣 [If you know you know](http://9gag.com/gag/ago9Rxv)
+ - 😝 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)
+ - 👉 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)<!-- MEMES:END -->
 
 ---
 

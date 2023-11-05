@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agowrpK)
- - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 😝 [Times are changing.](http://9gag.com/gag/aeQzX5Q)
- - 👉 [Oh no! Anyway...](http://9gag.com/gag/avQw2Qn)<!-- MEMES:END -->
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 💣 [Elizabeth](http://9gag.com/gag/a5X3eNE)
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
 
 ---
 

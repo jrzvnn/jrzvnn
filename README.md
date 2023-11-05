@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 😝 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
- - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
+ - 💣 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 👉 [Born by a late pull, death by a late pull](http://9gag.com/gag/aREWb5j)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Protect bees from giant hornets with a rat trap](http://9gag.com/gag/a04gBMz)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
  - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
+ - 💣 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
 
 ---
 

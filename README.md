@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 💣 [Don&#39;t mess with builders](http://9gag.com/gag/anzZ6D0)
  - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
+ - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 💣 [It\u2019s so fluffy I\u2019m gonna die!](http://9gag.com/gag/aBdzANx)
+ - 😝 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---
 

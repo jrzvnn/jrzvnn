@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)
+ - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
+ - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [Old but gold](http://9gag.com/gag/az2y62Z)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 👉 [How the tables have turned](http://9gag.com/gag/aBdz7qx)<!-- MEMES:END -->
+ - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
 
 ---
 

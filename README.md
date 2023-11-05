@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 💣 [Elizabeth](http://9gag.com/gag/a5X3eNE)
- - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 😝 [Wholesome Couple.... Let The Search Begin!](http://9gag.com/gag/aBdzqeA)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 💣 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 😝 [Elizabeth](http://9gag.com/gag/a5X3eNE)
+ - 👉 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)<!-- MEMES:END -->
 
 ---
 

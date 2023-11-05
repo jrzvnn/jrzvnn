@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [Same same but](http://9gag.com/gag/aGE5Y7n)
  - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
+ - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
 
 ---
 

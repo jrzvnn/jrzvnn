@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
- - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
- - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 💣 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 👉 [I need...](http://9gag.com/gag/aGEvmW0)<!-- MEMES:END -->
 
 ---
 

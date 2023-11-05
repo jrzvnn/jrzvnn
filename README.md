@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Same same but](http://9gag.com/gag/aGE5Y7n)
- - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 💣 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
+ - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 😝 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)
+ - 💣 [A kinetic LEGO shark](http://9gag.com/gag/armwvVy)
+ - 😝 [This is the way](http://9gag.com/gag/aL15RQx)
+ - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
 
 ---
 

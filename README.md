@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 💣 [Elizabeth](http://9gag.com/gag/a5X3eNE)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 😝 [Error 404 white male not found](http://9gag.com/gag/a7qXLL2)
+ - 💣 [Old but gold](http://9gag.com/gag/az2y62Z)
+ - 😝 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)
+ - 👉 [Elizabeth](http://9gag.com/gag/a5X3eNE)<!-- MEMES:END -->
 
 ---
 

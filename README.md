@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m trying bros](http://9gag.com/gag/aYV69Gm)
+ - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
  - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 💣 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
  - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---

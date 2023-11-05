@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep the change, ya filthy animal!!](http://9gag.com/gag/adPAZpD)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
  - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 💣 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
 
 ---

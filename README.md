@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Palo Alto Networks is close to acquiring Tel Aviv-based startup Talon Cyber Security for $600M to $700M, and may announce the deal as soon as Monday &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231105/p8#a231105p8)
  - [Kingston IronKey USB Type-C Keypad 200 review: Heavy security in a lightweight design](https://appleinsider.com/articles/23/11/05/kingston-ironkey-usb-type-c-keypad-200-review-heavy-security-in-a-lightweight-design?utm_medium=rss)
  - [Giants vs. Raiders Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-raiders-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
  - [Cowboys vs. Eagles Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-eagles-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Colts vs. Panthers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/colts-vs-panthers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Fake news and ridiculing the dead — what’s wrong with Microsoft’s AI news](https://www.theverge.com/2023/11/5/23947228/msn-microsoft-ai-news-false-headlines)<!-- TECH:END -->
+ - [Colts vs. Panthers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/colts-vs-panthers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

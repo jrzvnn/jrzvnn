@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to run new macOS versions on older Macs using OpenCore](https://appleinsider.com/inside/macos/tips/how-to-run-new-macos-versions-on-older-macs-using-opencore?utm_medium=rss)
+ - [A look at CulturePulse, which is building an AI model to create a virtual version of Israel and Palestinian territories and has signed a nine-month UN contract &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/231105/p9#a231105p9)
  - [Sources: Palo Alto Networks is close to acquiring Tel Aviv-based startup Talon Cyber Security for $600M to $700M, and may announce the deal as soon as Monday &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231105/p8#a231105p8)
  - [Best Multi-Gig Internet Plans of 2023     - CNET](https://www.cnet.com/home/internet/best-multi-gig-internet-plan/#ftag=CAD590a51e)
- - [Best Roku Deals: Up to $10 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
- - [Kingston IronKey USB Type-C Keypad 200 review: Heavy security in a lightweight design](https://appleinsider.com/articles/23/11/05/kingston-ironkey-usb-type-c-keypad-200-review-heavy-security-in-a-lightweight-design?utm_medium=rss)
- - [Giants vs. Raiders Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-raiders-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Roku Deals: Up to $10 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

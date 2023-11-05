@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 Can Auto-Delete Those Pesky Two-Factor Authentication Codes. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/ios-17-can-auto-delete-those-pesky-two-factor-authentication-codes-heres-how/#ftag=CAD590a51e)
- - [Elon Musk&#39;s xAI releases its AI model Grok, which it says surpasses other models in its compute class, including ChatGPT-3.5, to a &quot;limited number&quot; of US users &lpar;xAI&rpar;](http://www.techmeme.com/231105/p3#a231105p3)
- - [A look at AI companies&#39; responses, including from Meta, Google, Microsoft, and Apple, to possible US Copyright Office changes around AI and copyrighted content &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/231105/p4#a231105p4)
- - [Okta&#39;s autopsy report on its support system breach understated the role of a badly configured service account, the biggest contributing factor for the breach &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231105/p2#a231105p2)
- - [A look at BlizzCon 2023, the first in-person since 2019, which saw updates for WoW and more, and wasn&#39;t sold out before the event began, unlike prior iterations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231105/p1#a231105p1)<!-- TECH:END -->
+ - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on the Content Authenticity Initiative, content credentials, AI deepfake detection, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231105/p5#a231105p5)
+ - [Epic v. Google, explained](https://www.theverge.com/23944251/epic-google-antitrust-trial-explainer-monopoly)
+ - [Buying the New iPhone 15? Here&#39;s Everything to Know About Apple&#39;s iPhone Upgrade Program     - CNET](https://www.cnet.com/deals/buying-the-new-iphone-15-heres-everything-to-know-about-apples-iphone-upgrade-program/#ftag=CAD590a51e)
+ - [Not a Fan of NameDrop? Here&#39;s How to Disable the Contact-Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/not-a-fan-of-namedrop-heres-how-to-disable-the-contact-sharing-feature/#ftag=CAD590a51e)
+ - [iOS 17 Can Auto-Delete Those Pesky Two-Factor Authentication Codes. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/ios-17-can-auto-delete-those-pesky-two-factor-authentication-codes-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

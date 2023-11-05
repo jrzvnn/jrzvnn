@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 😝 [Wholesome Couple.... Let The Search Begin!](http://9gag.com/gag/aBdzqeA)
- - 👉 [Putting inspirational and motivational quotes on pictures of people drinking alcohol can create hilarious effects. Give it a try, comment with your best results.](http://9gag.com/gag/agowrjv)<!-- MEMES:END -->
+ - 😝 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agowrpK)
+ - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 😝 [Times are changing.](http://9gag.com/gag/aeQzX5Q)
+ - 👉 [Oh no! Anyway...](http://9gag.com/gag/avQw2Qn)<!-- MEMES:END -->
 
 ---
 

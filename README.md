@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
  - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 💣 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 👉 [Cambridge Gems](http://9gag.com/gag/a8qNZrd)<!-- MEMES:END -->
+ - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
 
 ---
 

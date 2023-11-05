@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
  - 😝 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)
- - 💣 [A kinetic LEGO shark](http://9gag.com/gag/armwvVy)
  - 😝 [This is the way](http://9gag.com/gag/aL15RQx)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
+ - 👉 [A kinetic LEGO shark](http://9gag.com/gag/armwvVy)<!-- MEMES:END -->
 
 ---
 

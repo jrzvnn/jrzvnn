@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no! Anyway...](http://9gag.com/gag/avQw2Qn)
- - 😝 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)
- - 💣 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)
- - 😝 [Plastic pollution is our real problem right? Now hear this](http://9gag.com/gag/aZDX9nW)
- - 👉 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)<!-- MEMES:END -->
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 💣 [Don&#39;t mess with builders](http://9gag.com/gag/anzZ6D0)
+ - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
 
 ---
 

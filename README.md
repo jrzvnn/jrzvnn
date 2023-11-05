@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
  - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 💣 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 💣 [An absolute chad](http://9gag.com/gag/aqeMqWR)
  - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 👉 [An absolute chad](http://9gag.com/gag/aqeMqWR)<!-- MEMES:END -->
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---
 

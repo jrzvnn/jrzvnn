@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the disparity between Amazon&#39;s drone delivery claims and the mundane reality, as only some small objects are delivered in perfect weather conditions &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/231104/p10#a231104p10)
  - [Researchers say AI models like GPT-4 respond with improved performance when prompted with emotional context, because of how such models handle nuanced prompts &lpar;Mike Young/AIModels.fyi&rpar;](http://www.techmeme.com/231104/p9#a231104p9)
  - [Analyst Analysis: Q4 2023 was OK, Q1 2024 could be surprisingly good](https://appleinsider.com/articles/23/11/04/analyst-analysis-q4-2023-was-ok-q1-2024-could-be-surprisingly-good?utm_medium=rss)
  - [Best Password managers to protect your data on iOS and macOS](https://appleinsider.com/inside/ios/best/best-password-managers-to-protect-your-data-on-ios-and-macos?utm_medium=rss)
- - [Discord file links will expire after a day to fight malware](https://www.theverge.com/2023/11/4/23946640/discord-file-links-will-expire-after-a-day-to-fight-malware)
- - [AI companies have all kinds of arguments against paying for copyrighted content](https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai)<!-- TECH:END -->
+ - [Discord file links will expire after a day to fight malware](https://www.theverge.com/2023/11/4/23946640/discord-file-links-will-expire-after-a-day-to-fight-malware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

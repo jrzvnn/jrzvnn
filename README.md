@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)
  - 😝 [This is the way](http://9gag.com/gag/aL15RQx)
- - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 💣 [In London, veterans holding the British flag are cautioned by Police.](http://9gag.com/gag/a7qXLXz)
  - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 👉 [A kinetic LEGO shark](http://9gag.com/gag/armwvVy)<!-- MEMES:END -->
+ - 👉 [Best Halloween costume](http://9gag.com/gag/aYV5j8m)<!-- MEMES:END -->
 
 ---
 

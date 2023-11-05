@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Kingston IronKey USB Type-C Keypad 200 review: Heavy security in a lightweight design](https://appleinsider.com/articles/23/11/05/kingston-ironkey-usb-type-c-keypad-200-review-heavy-security-in-a-lightweight-design?utm_medium=rss)
+ - [Giants vs. Raiders Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-raiders-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
+ - [Cowboys vs. Eagles Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-eagles-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
  - [Colts vs. Panthers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/colts-vs-panthers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Fake news and ridiculing the dead — what’s wrong with Microsoft’s AI news](https://www.theverge.com/2023/11/5/23947228/msn-microsoft-ai-news-false-headlines)
- - [Despite limited progress, delegates at the UK&#39;s AI Safety Summit welcomed the discussions as a first step toward international collaboration on regulating AI &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231105/p7#a231105p7)
- - [This StackSocial Deal Knocks Over $200 Off a Lifetime Rosetta Stone Subscription     - CNET](https://www.cnet.com/deals/over-200-off-rosetta-stone-lifetime-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fake news and ridiculing the dead — what’s wrong with Microsoft’s AI news](https://www.theverge.com/2023/11/5/23947228/msn-microsoft-ai-news-false-headlines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

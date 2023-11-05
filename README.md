@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/ago9Rxv)
- - 😝 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)
- - 💣 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)
- - 😝 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)
- - 👉 [Plastic pollution is our real problem right? Now hear this](http://9gag.com/gag/aZDX9nW)<!-- MEMES:END -->
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 💣 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [I know what you&#39;re thinking.](http://9gag.com/gag/anzZmzn)
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---
 

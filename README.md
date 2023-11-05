@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times are changing.](http://9gag.com/gag/aeQzX5Q)
- - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 💣 [Terrorism religion](http://9gag.com/gag/a1PgzjP)
- - 😝 [Oh no! Anyway...](http://9gag.com/gag/avQw2Qn)
- - 👉 [This is the way](http://9gag.com/gag/aL15RQx)<!-- MEMES:END -->
+ - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
+ - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
+ - 💣 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 👉 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
- - 💣 [Born by a late pull, death by a late pull](http://9gag.com/gag/aREWb5j)
- - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
+ - 😝 [Google sucks now](http://9gag.com/gag/armw11V)
+ - 😝 [Plastic pollution is our real problem right? Now hear this](http://9gag.com/gag/aZDX9nW)
+ - 💣 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)
+ - 😝 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)
+ - 👉 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)<!-- MEMES:END -->
 
 ---
 

@@ -155,7 +155,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s xAI releases its AI model Grok, which the company says surpasses &quot;all other models in its compute class, including ChatGPT-3.5 and Inflection-1&quot; &lpar;xAI&rpar;](http://www.techmeme.com/231105/p3#a231105p3)
+ - [Elon Musk&#39;s xAI releases its AI model Grok, which it says surpasses other models in its compute class, including ChatGPT-3.5, to a &quot;limited number&quot; of US users &lpar;xAI&rpar;](http://www.techmeme.com/231105/p3#a231105p3)
  - [Get Apple&#39;s new M3 Max MacBook Pro for $2,999 &lpar;$200 off&rpar; with VIP membership](https://appleinsider.com/articles/23/11/05/get-apples-new-m3-max-macbook-pro-for-2999-200-off-with-vip-membership?utm_medium=rss)
  - [Okta&#39;s autopsy report on its support system breach understated the role of a badly configured service account, the biggest contributing factor for the breach &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/231105/p2#a231105p2)
  - [A look at BlizzCon 2023, the first in-person since 2019, which saw updates for WoW and more, and wasn&#39;t sold out before the event began, unlike prior iterations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/231105/p1#a231105p1)

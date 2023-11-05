@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Despite the limited progress, delegates at the UK&#39;s AI Safety Summit welcomed the high-level discussions about international collaboration on regulating AI &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/231105/p7#a231105p7)
- - [This StackSocial Deal Knocks Over $200 Off a Lifetime Rosetta Stone Subscription     - CNET](https://www.cnet.com/deals/over-200-off-rosetta-stone-lifetime-subscription/#ftag=CAD590a51e)
  - [Apple couldn&#39;t get new iPads, AirPods ready for 2023 launches](https://appleinsider.com/articles/23/11/05/apple-couldnt-get-new-ipads-airpods-ready-for-2023-launches?utm_medium=rss)
  - [Apple Car expected to arrive sometime before 2030](https://appleinsider.com/articles/23/11/05/apple-car-expected-to-arrive-sometime-before-2030?utm_medium=rss)
- - [Daily deals Nov. 5: 15&quot; MacBook Air $1,049, $1,900 off M1 Max MacBook Pro, 26% off iPad mini, more](https://appleinsider.com/articles/23/11/05/daily-deals-nov-5-15-macbook-air-1049-1900-off-m1-max-macbook-pro-26-off-ipad-mini-more?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 5: 15&quot; MacBook Air $1,049, $1,900 off M1 Max MacBook Pro, 26% off iPad mini, more](https://appleinsider.com/articles/23/11/05/daily-deals-nov-5-15-macbook-air-1049-1900-off-m1-max-macbook-pro-26-off-ipad-mini-more?utm_medium=rss)
+ - [Commanders vs. Patriots Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-patriots-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
+ - 😝 [Keep the change, ya filthy animal!!](http://9gag.com/gag/adPAZpD)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 👉 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)<!-- MEMES:END -->
 
 ---
 

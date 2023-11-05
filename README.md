@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google sucks now](http://9gag.com/gag/armw11V)
- - 😝 [Post your finds my fellow degenerates!](http://9gag.com/gag/aeQzLAm)
- - 💣 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 😝 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
+ - 😝 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)
+ - 😝 [If you know you know](http://9gag.com/gag/ago9Rxv)
+ - 💣 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)
+ - 😝 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)
+ - 👉 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)<!-- MEMES:END -->
 
 ---
 

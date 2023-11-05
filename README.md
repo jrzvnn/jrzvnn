@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 5: 15&quot; MacBook Air $1,049, $1,900 off M1 Max MacBook Pro, 26% off iPad mini, more](https://appleinsider.com/articles/23/11/05/daily-deals-nov-5-15-macbook-air-1049-1900-off-m1-max-macbook-pro-26-off-ipad-mini-more?utm_medium=rss)
  - [Apple couldn&#39;t get new iPads, AirPods ready for 2023 launches](https://appleinsider.com/articles/23/11/05/apple-couldnt-get-new-ipads-airpods-ready-for-2023-launches?utm_medium=rss)
+ - [Apple Car expected to arrive sometime before 2030](https://appleinsider.com/articles/23/11/05/apple-car-expected-to-arrive-sometime-before-2030?utm_medium=rss)
+ - [Daily deals Nov. 5: 15&quot; MacBook Air $1,049, $1,900 off M1 Max MacBook Pro, 26% off iPad mini, more](https://appleinsider.com/articles/23/11/05/daily-deals-nov-5-15-macbook-air-1049-1900-off-m1-max-macbook-pro-26-off-ipad-mini-more?utm_medium=rss)
  - [Commanders vs. Patriots Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-patriots-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Rams vs. Packers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-packers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Vikings vs. Falcons Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-falcons-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rams vs. Packers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-packers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

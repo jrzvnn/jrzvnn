@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mtsv v home](http://9gag.com/gag/armEQGX)
- - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
- - 💣 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [Nice](http://9gag.com/gag/a6qgvne)
  - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
- - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
+ - 💣 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
 
 ---
 

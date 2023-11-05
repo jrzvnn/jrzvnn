@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome Couple.... Let The Search Begin!](http://9gag.com/gag/aBdzqeA)
- - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
- - 💣 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 😝 [Elizabeth](http://9gag.com/gag/a5X3eNE)
- - 👉 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)<!-- MEMES:END -->
+ - 😝 [Times are changing.](http://9gag.com/gag/aeQzX5Q)
+ - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 💣 [Terrorism religion](http://9gag.com/gag/a1PgzjP)
+ - 😝 [Oh no! Anyway...](http://9gag.com/gag/avQw2Qn)
+ - 👉 [This is the way](http://9gag.com/gag/aL15RQx)<!-- MEMES:END -->
 
 ---
 

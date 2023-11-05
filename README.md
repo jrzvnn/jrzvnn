@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see them](http://9gag.com/gag/aeQzL5m)
- - 😝 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)
- - 💣 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 👉 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)<!-- MEMES:END -->
+ - 😝 [Never forget](http://9gag.com/gag/aBdzq0A)
+ - 😝 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 💣 [Elizabeth](http://9gag.com/gag/a5X3eNE)
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 👉 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)<!-- MEMES:END -->
 
 ---
 

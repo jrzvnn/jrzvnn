@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/a6qgvne)
- - 😝 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
- - 💣 [Never forget](http://9gag.com/gag/aBdzq0A)
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 😝 [Wtf](http://9gag.com/gag/adPAGqV)
+ - 😝 [I need...](http://9gag.com/gag/aGEvmW0)
+ - 💣 [How the tables have turned](http://9gag.com/gag/aBdz7qx)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
  - 👉 [I did it! Married this awesome Thai lady. Got her hooked on 9gag 6 years back so help me out with a upvote so she can see herself!](http://9gag.com/gag/aEqK9Ex)<!-- MEMES:END -->
 
 ---

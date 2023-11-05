@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 😝 [I got bamboozled, big time. Or maybe he is right](http://9gag.com/gag/aBd5R4O)
- - 💣 [Best Halloween costume](http://9gag.com/gag/aYV5j8m)
  - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 👉 [In London, veterans holding the British flag are cautioned by Police.](http://9gag.com/gag/a7qXLXz)<!-- MEMES:END -->
+ - 😝 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)
+ - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 😝 [Can someone explain why some elephants are against bathing?](http://9gag.com/gag/a9qw9XL)
+ - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
 
 ---
 

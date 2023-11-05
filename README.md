@@ -164,7 +164,7 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google sucks now](http://9gag.com/gag/armw11V)
+ - 😝 [A different breed of trick or treater](http://9gag.com/gag/a8qNBb3)
  - 😝 [Plastic pollution is our real problem right? Now hear this](http://9gag.com/gag/aZDX9nW)
  - 💣 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)
  - 😝 [OP martial arts of choice](http://9gag.com/gag/ay2ryyM)

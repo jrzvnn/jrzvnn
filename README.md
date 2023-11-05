@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 😝 [Let us remember who built Hamas and continues to keep it alive ....The Regime of Iran !!!! Remember Madjid!!!!!](http://9gag.com/gag/aVb5zjM)
- - 💣 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 😝 [Can someone explain why some elephants are against bathing?](http://9gag.com/gag/a9qw9XL)
- - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 💣 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 👉 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)<!-- MEMES:END -->
 
 ---
 

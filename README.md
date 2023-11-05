@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the way](http://9gag.com/gag/aL15RQx)
- - 😝 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
- - 💣 [In London, veterans holding the British flag are cautioned by Police.](http://9gag.com/gag/a7qXLXz)
- - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
- - 👉 [Best Halloween costume](http://9gag.com/gag/aYV5j8m)<!-- MEMES:END -->
+ - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
+ - 💣 [F**k you Apple](http://9gag.com/gag/aWG5Bpd)
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
 
 ---
 

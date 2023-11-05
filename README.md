@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The JWST Has Spotted Giant Black Holes All Over the Early Universe](https://www.wired.com/story/the-jwst-has-spotted-giant-black-holes-all-over-the-early-universe/)
- - [Focal Theva No. 1 Speakers Review: Smooth and Creamy](https://www.wired.com/review/focal-theva-no-1/)
- - [How AI brought the Beatles back together one more time](https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter)
- - [Crime blotter: Still no reported arrests in Burlingame Apple Store thefts](https://appleinsider.com/articles/23/11/05/crime-blotter-still-no-reported-arrests-in-burlingame-apple-store-thefts?utm_medium=rss)
- - [TCL QM8 Review: TV Value Champ Gets Bigger, Brighter and Better     - CNET](https://www.cnet.com/tech/home-entertainment/tcl-qm8-review-tv-value-champ-gets-bigger-brighter-and-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&#39;s One UI 6 Update Gives Galaxy Phones More AI Camera Smarts     - CNET](https://www.cnet.com/tech/mobile/samsungs-one-ui-6-update-gives-galaxy-phones-an-ai-camera-boost/#ftag=CAD590a51e)
+ - [Android&#39;s First 15 Years Changed the World. With AI, Google Could Change It Again     - CNET](https://www.cnet.com/tech/mobile/androids-first-15-years-changed-the-world-with-ai-google-could-change-it-again/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 FE Review: Flagship Essentials for $600     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-fe-review-flagship-essentials-for-600/#ftag=CAD590a51e)
+ - [HP Pavilion Plus 14 &lpar;2023&rpar; Review: Mainstream OLED Laptop Now Lasts Longer     - CNET](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-2023-review-mainstream-oled-laptop-now-lasts-longer/#ftag=CAD590a51e)
+ - [Best Wine Gifts for 2023     - CNET](https://www.cnet.com/news/best-wine-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

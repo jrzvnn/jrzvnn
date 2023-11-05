@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Apple couldn&#39;t get new iPads, AirPods ready for 2023 launches](https://appleinsider.com/articles/23/11/05/apple-couldnt-get-new-ipads-airpods-ready-for-2023-launches?utm_medium=rss)
- - [Commanders vs. Patriots Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/commanders-vs-patriots-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Rams vs. Packers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/rams-vs-packers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Vikings vs. Falcons Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/vikings-vs-falcons-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Bears vs. Saints Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/bears-vs-saints-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Insomniac Games tried to make a Spider-Man suit for every kind of player](https://www.theverge.com/2023/11/5/23945063/spider-man-2-ps5-insomniac-suits)
+ - [Data: as of August 2023, IBM had 6,363 cybersecurity patents, followed by Huawei with 5,735 and Tencent with 4,803; six of the top 10 companies were Chinese &lpar;Akinobu Iwasawa/Nikkei Asia&rpar;](http://www.techmeme.com/231105/p6#a231105p6)
+ - [20 Best Tech Books to Gift &lpar;2023&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)
+ - [5 Best GoPro Cameras &lpar;2023&rpar;: Compact, Budget, Accessories, and Tips](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

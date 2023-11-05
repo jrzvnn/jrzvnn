@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If only there were some signs.](http://9gag.com/gag/aWGyVbZ)
- - 😝 [I no longer understand the settings of this simulation. It&#39;s all very confusing...](http://9gag.com/gag/aEqKrLN)
- - 💣 [If you know you know](http://9gag.com/gag/ago9Rxv)
- - 😝 [Parade in Poland. Turns out they are the smart ones.](http://9gag.com/gag/aWGyzWA)
- - 👉 [Every stupid pro muslim post makes me post one too](http://9gag.com/gag/az2yNxx)<!-- MEMES:END -->
+ - 😝 [I&#39;m trying bros](http://9gag.com/gag/aYV69Gm)
+ - 😝 [Always be a good friend!](http://9gag.com/gag/aBdzA7O)
+ - 💣 [What Really Goes On\u2026](http://9gag.com/gag/a9qw9Yo)
+ - 😝 [An absolute chad](http://9gag.com/gag/aqeMqWR)
+ - 👉 [If anyone can make sense of this please let me know.](http://9gag.com/gag/aOxEXey)<!-- MEMES:END -->
 
 ---
 

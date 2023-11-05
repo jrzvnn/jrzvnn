@@ -156,10 +156,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- TECH:START -->
  - [Sources: Palo Alto Networks is close to acquiring Tel Aviv-based startup Talon Cyber Security for $600M to $700M, and may announce the deal as soon as Monday &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/231105/p8#a231105p8)
+ - [Best Multi-Gig Internet Plans of 2023     - CNET](https://www.cnet.com/home/internet/best-multi-gig-internet-plan/#ftag=CAD590a51e)
+ - [Best Roku Deals: Up to $10 Off Top-Rated Streaming Devices     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
  - [Kingston IronKey USB Type-C Keypad 200 review: Heavy security in a lightweight design](https://appleinsider.com/articles/23/11/05/kingston-ironkey-usb-type-c-keypad-200-review-heavy-security-in-a-lightweight-design?utm_medium=rss)
- - [Giants vs. Raiders Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-raiders-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Cowboys vs. Eagles Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/cowboys-vs-eagles-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)
- - [Colts vs. Panthers Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/colts-vs-panthers-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Giants vs. Raiders Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/giants-vs-raiders-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- MEMES:START -->
  - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 💣 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [Lets play a game, what word did Brayden use?](http://9gag.com/gag/a5X3eYV)
- - 👉 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)<!-- MEMES:END -->
+ - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
+ - 💣 [Can someone explain why some elephants are against bathing?](http://9gag.com/gag/a9qw9XL)
+ - 😝 [Americlap](http://9gag.com/gag/aBd5KWO)
+ - 👉 [Good old memories](http://9gag.com/gag/a8qNPw6)<!-- MEMES:END -->
 
 ---
 

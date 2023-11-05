@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data: as of August 2023, IBM had 6,363 cybersecurity patents, followed by Huawei with 5,735 and Tencent with 4,803; six of the top 10 companies were Chinese &lpar;Akinobu Iwasawa/Nikkei Asia&rpar;](http://www.techmeme.com/231105/p6#a231105p6)
  - [20 Best Tech Books to Gift &lpar;2023&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)
  - [5 Best GoPro Cameras &lpar;2023&rpar;: Compact, Budget, Accessories, and Tips](https://www.wired.com/gallery/best-gopro-hero-camera/)
  - [Samsung&#39;s One UI 6 Update Gives Galaxy Phones More AI Camera Smarts     - CNET](https://www.cnet.com/tech/mobile/samsungs-one-ui-6-update-gives-galaxy-phones-an-ai-camera-boost/#ftag=CAD590a51e)
- - [Android&#39;s First 15 Years Changed the World. With AI, Google Could Change It Again     - CNET](https://www.cnet.com/tech/mobile/androids-first-15-years-changed-the-world-with-ai-google-could-change-it-again/#ftag=CAD590a51e)
- - [Samsung Galaxy S23 FE Review: Flagship Essentials for $600     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-fe-review-flagship-essentials-for-600/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android&#39;s First 15 Years Changed the World. With AI, Google Could Change It Again     - CNET](https://www.cnet.com/tech/mobile/androids-first-15-years-changed-the-world-with-ai-google-could-change-it-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

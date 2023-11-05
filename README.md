@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on the Content Authenticity Initiative, content credentials, AI deepfake detection, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231105/p5#a231105p5)
- - [Epic v. Google, explained](https://www.theverge.com/23944251/epic-google-antitrust-trial-explainer-monopoly)
- - [Buying the New iPhone 15? Here&#39;s Everything to Know About Apple&#39;s iPhone Upgrade Program     - CNET](https://www.cnet.com/deals/buying-the-new-iphone-15-heres-everything-to-know-about-apples-iphone-upgrade-program/#ftag=CAD590a51e)
- - [Not a Fan of NameDrop? Here&#39;s How to Disable the Contact-Sharing Feature     - CNET](https://www.cnet.com/tech/mobile/not-a-fan-of-namedrop-heres-how-to-disable-the-contact-sharing-feature/#ftag=CAD590a51e)
- - [iOS 17 Can Auto-Delete Those Pesky Two-Factor Authentication Codes. Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/ios-17-can-auto-delete-those-pesky-two-factor-authentication-codes-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: Still no reported arrests in Burlingame Apple Store thefts](https://appleinsider.com/articles/23/11/05/crime-blotter-still-no-reported-arrests-in-burlingame-apple-store-thefts?utm_medium=rss)
+ - [Where the Hell Is X CEO Linda Yaccarino?](https://www.wired.com/story/linda-yaccarino-elon-musk-x/)
+ - [Here’s Everything You Can Do With Copilot, the Generative AI Assistant on Windows 11](https://www.wired.com/story/microsoft-windows-11-copilot-generative-ai-assistant-tips/)
+ - [What Is Goose Down Fill Power? &lpar;2023&rpar;: Fill Weight, Synthetics](https://www.wired.com/story/what-is-down-fill-power/)
+ - [Q&amp;A with Adobe General Counsel and Chief Trust Officer Dana Rao on the Content Authenticity Initiative, content credentials, AI deepfake detection, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231105/p5#a231105p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

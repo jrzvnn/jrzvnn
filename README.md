@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 👉 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)<!-- MEMES:END -->
+ - 😝 [Good old memories](http://9gag.com/gag/a8qNPw6)
+ - 💣 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 😝 [Awesome Cutie - Ruby de Rossi](http://9gag.com/gag/a04gABz)
+ - 👉 [Road rage dude walks aggressively upto another motorist in traffic. Wonder what made him suddenly change his mind.?](http://9gag.com/gag/aZD5P29)<!-- MEMES:END -->
 
 ---
 

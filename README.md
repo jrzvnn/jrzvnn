@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms that there is no Apple Silicon 27-inch iMac in the works](https://appleinsider.com/articles/23/11/06/apple-confirms-that-there-is-no-apple-silicon-27-inch-imac-in-the-works?utm_medium=rss)
- - [Revel bails on electric mopeds in favor of more cars](https://www.theverge.com/2023/11/6/23948516/revel-ev-moped-share-end-rideshare-charging-cities)
- - [M3 MacBook Pro review roundup: The same but better](https://appleinsider.com/articles/23/11/06/m3-macbook-pro-review-roundup-the-same-but-better?utm_medium=rss)
- - [Investigation: Family-Match, an AI tool for adoption matchmaking inspired by online dating, falls short for vulnerable kids; VA, GA, and TN dropped the tool &lpar;Associated Press&rpar;](http://www.techmeme.com/231106/p20#a231106p20)
- - [Palo Alto Networks confirms acquiring Talon Cyber Security, which offers enterprise browsers for distributed workforces, sources say for $625M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231106/p19#a231106p19)<!-- TECH:END -->
+ - [Nintendo’s latest Switch OLED has Smash Bros.-themed controllers](https://www.theverge.com/2023/11/6/23948596/nintendo-oled-switch-super-smash-bros-controllers)
+ - [M3 MacBook Pro review roundup: Incrementally better](https://appleinsider.com/articles/23/11/06/m3-macbook-pro-review-roundup-the-same-but-better?utm_medium=rss)
+ - [30 Tool Kit Picks &lpar;2023&rpar;: Dremel, Pliers, Drill, Tape](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
+ - [Microsoft is bringing AI characters to Xbox](https://www.theverge.com/2023/11/6/23948454/microsoft-xbox-generative-ai-developer-tools-inworld-partnership)
+ - [Apple confirms that there is no Apple Silicon 27-inch iMac in the works](https://appleinsider.com/articles/23/11/06/apple-confirms-that-there-is-no-apple-silicon-27-inch-imac-in-the-works?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

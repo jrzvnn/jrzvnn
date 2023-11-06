@@ -164,10 +164,10 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have question is it race, culture or the religion itself the problem?](http://9gag.com/gag/aGE59Az)
- - 😝 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 💣 [Americlap](http://9gag.com/gag/aBd5KWO)
- - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
+ - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
+ - 😝 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
  - 👉 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)<!-- MEMES:END -->
 
 ---

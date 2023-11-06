@@ -155,11 +155,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Apple Watch sales ban may be coming -- Everything you need to know](https://appleinsider.com/articles/23/11/06/an-apple-watch-sales-ban-may-be-coming----everything-you-need-to-know?utm_medium=rss)
+ - [The Bank of England and UK FCA seek feedback on proposals for regulating stablecoins, aiming to evaluate the potential benefits for consumers and retailers &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/231106/p22#a231106p22)
  - [Johnny Cash&#39;s &#39;Blank Space&#39; Is Why AI Can&#39;t Have Nice Things](https://www.wired.com/story/johnny-cash-artificial-intelligence-taylor-swift-barbie-girl-covers-music-future/)
  - [Klarna reports Q3 revenue up 30% YoY to ~$550M, a ~$12M operating profit, the first in four years, and value of goods sold up 22% YoY, ahead of a potential IPO &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231106/p21#a231106p21)
- - [Nintendo’s latest Switch OLED has Smash Bros.-themed controllers](https://www.theverge.com/2023/11/6/23948596/nintendo-oled-switch-super-smash-bros-controllers)
- - [M3 MacBook Pro review roundup: Incrementally better](https://appleinsider.com/articles/23/11/06/m3-macbook-pro-review-roundup-the-same-but-better?utm_medium=rss)
- - [30 Tool Kit Picks &lpar;2023&rpar;: Dremel, Pliers, Drill, Tape](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)<!-- TECH:END -->
+ - [Nintendo’s latest Switch OLED has Smash Bros.-themed controllers](https://www.theverge.com/2023/11/6/23948596/nintendo-oled-switch-super-smash-bros-controllers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

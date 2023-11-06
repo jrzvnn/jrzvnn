@@ -164,11 +164,11 @@ Go                       1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I watched this and I realised that students at Oxford aren&#39;t all that smart.](http://9gag.com/gag/agow3dx)
  - 😝 [Can someone put an update to this?](http://9gag.com/gag/aZD5q3n)
- - 💣 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)
- - 😝 [This one sparks soo much joy.](http://9gag.com/gag/aXn1Zxz)
- - 👉 [We are here](http://9gag.com/gag/aBd5RoO)<!-- MEMES:END -->
+ - 😝 [Mental Abuse](http://9gag.com/gag/anzZpdL)
+ - 💣 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)
+ - 😝 [We are here](http://9gag.com/gag/aBd5RoO)
+ - 👉 [Americlap](http://9gag.com/gag/aBd5KWO)<!-- MEMES:END -->
 
 ---
 
